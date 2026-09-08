@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-08 23:02:11
+# India Trending Report — 2026-09-08 23:33:02
 
 ## Google Trends (India) — top trending searches
-1. [rayan aït-nouri](https://trends.google.com/trending/rss?geo=IN)
-2. [renato veiga](https://trends.google.com/trending/rss?geo=IN)
-3. [allan](https://trends.google.com/trending/rss?geo=IN)
-4. [carlos espí](https://trends.google.com/trending/rss?geo=IN)
-5. [marc bartra](https://trends.google.com/trending/rss?geo=IN)
-6. [football match](https://trends.google.com/trending/rss?geo=IN)
-7. [william gomes](https://trends.google.com/trending/rss?geo=IN)
-8. [jobe bellingham](https://trends.google.com/trending/rss?geo=IN)
-9. [vinícius júnior](https://trends.google.com/trending/rss?geo=IN)
-10. [gabri veiga](https://trends.google.com/trending/rss?geo=IN)
+1. [தமிழக வெற்றிக் கழகம்](https://trends.google.com/trending/rss?geo=IN)
+2. [emma navarro](https://trends.google.com/trending/rss?geo=IN)
+3. [rayan aït-nouri](https://trends.google.com/trending/rss?geo=IN)
+4. [renato veiga](https://trends.google.com/trending/rss?geo=IN)
+5. [allan](https://trends.google.com/trending/rss?geo=IN)
+6. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
+7. [carlos espí](https://trends.google.com/trending/rss?geo=IN)
+8. [marc bartra](https://trends.google.com/trending/rss?geo=IN)
+9. [football match](https://trends.google.com/trending/rss?geo=IN)
+10. [william gomes](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [US strikes Iranian tankers near Kharg Island; Tehran threatens Gulf oil vessels](https://timesofindia.indiatimes.com/world/middle-east/us-strikes-iranian-tankers-near-kharg-island-tehran-threatens-gulf-oil-vessels/articleshow/133942382.cms)
+- [BJP got Rs 1,473 crore to fight Bengal, Assam, 3 other assembly polls](https://timesofindia.indiatimes.com/india/bjp-got-rs-1473-crore-to-fight-bengal-assam-3-other-assembly-polls/articleshow/133945783.cms)
 - [On Putin's agenda, sale of 5th-generation jets to India](https://timesofindia.indiatimes.com/defence/news/on-putins-agenda-sale-of-5th-generation-jets-to-india/articleshow/133943532.cms)
-- [Ahead of Brics, India & China hold military talks in Arunachal](https://timesofindia.indiatimes.com/india/1st-corps-commander-level-india-china-talks-in-eastern-sector-held-over-2-days-mea-says-ties-gradually-moving-in-positive-direction/articleshow/133940419.cms)
 - [‘Convicted or not convicted’: Wasim Akram breaks silence on Imran Khan’s health](https://timesofindia.indiatimes.com/sports/cricket/news/convicted-or-not-convicted-wasim-akram-breaks-silence-on-imran-khans-health-i-miss-him-a-lot/articleshow/133929616.cms)
-- [NIA drops UAPA against American, 6 Ukrainians held in 'terror link' case](https://timesofindia.indiatimes.com/india/nia-drops-uapa-against-american-6-ukrainians-held-in-terror-link-case/articleshow/133942670.cms)
+- [Ahead of Brics, India & China hold military talks in Arunachal](https://timesofindia.indiatimes.com/india/1st-corps-commander-level-india-china-talks-in-eastern-sector-held-over-2-days-mea-says-ties-gradually-moving-in-positive-direction/articleshow/133940419.cms)
 - [Uber's layoff memo also has a work from home message for remaining 29,000 employees](https://timesofindia.indiatimes.com/technology/tech-news/ubers-layoff-memo-also-has-a-work-from-home-message-for-the-remaining-29000-employees-were-establishing-clearer-principles-for-where-roles-and-teams-should-/articleshow/133916866.cms)
+- [NIA drops UAPA against American, 6 Ukrainians held in 'terror link' case](https://timesofindia.indiatimes.com/india/nia-drops-uapa-against-american-6-ukrainians-held-in-terror-link-case/articleshow/133942670.cms)
 - [BJP demands Punjab CM's resignation over farmer's suicide](https://timesofindia.indiatimes.com/india/bjp-demands-punjab-cms-resignation-over-farmers-suicide/articleshow/133944878.cms)
 - [Strategic autonomy in motion as India hosts Brics summit](https://timesofindia.indiatimes.com/india/strategic-autonomy-in-motion-as-india-hosts-brics-summit/articleshow/133940862.cms)
-- [Digital asset firms court sovereign funds](https://timesofindia.indiatimes.com/business/india-business/digital-asset-firms-court-sovereign-funds/articleshow/133944186.cms)
 - [Apple iPhone 18 Pro, Ultra launch on September 9: Expected specifications, price](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-iphone-ultra-to-launch-on-september-9-likely-specifications-and-price/articleshow/133909359.cms)
 
 **NDTV**
@@ -114,21 +114,21 @@
 - Former Delhi (2.0)
 - Rakesh Mehta (2.0)
 - Tehran (1.6)
-- Ahead (1.6)
+- Assam (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [2026 में 700% रिटर्न... क्‍यों इतना भाग रहा? ये शेयर या कुबेर का खजाना](https://www.aajtak.in/business/news/story/ai-infra-stock-zoom-700-percent-in-2026-why-stock-rise-tutd-dskc-2638728-2026-09-08)
-- [पंतप्रधानांच्या मुंबई दौऱ्याआधी कार्यक्रमस्थाळावरुन दोन संशयित ताब्यात, एकाकडे सापडली बंदूक](https://maharashtratimes.com/maharashtra/mumbai-news/two-suspects-detained-before-pm-modis-mumbai-visit-one-found-with-a-gun/articleshow/133921376.cms)
-- [Apple iPhone Ultra price: How Apple's first foldable could become the most expensive iPhone ever launched](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-ultra-price-how-apples-first-foldable-could-become-the-most-expensive-iphone-ever-launched/articleshow/133921486.cms)
-- [பாதுகாப்பான முதலீட்டுத் திட்டம்](https://kalkionline.com/business-finance/sebi-life-cycle-fund-tamil)
-- [मुंबई में पीएम मोदी की रैली से पहले पकड़े गए 2 संदिग्ध, PMO की फर्जी ID और बंदूक बरामद](https://www.jagran.com/news/national-2-suspects-detained-with-gun-fake-id-before-pm-modis-mumbai-rally-40366397.html)
-- [जहां होनी है PM मोदी की रैली, वहां से 2 संदिग्ध हिरासत में लिए गए; शख्स के पास से बंदूक भी बरामद](https://www.livehindustan.com/national/two-suspects-detained-near-the-venue-of-pm-modi-rally-vadodara-gun-recovered-201788864865099.html)
-- ['GTA 6 से पहले ये भी देख लिया', रवि किशन ने 'मनी फॉलोस ब्रदर' मीम पर बनाया गाना, हैरान हुए लोग](https://www.aajtak.in/entertainment/bollywood-news/story/ravi-kishan-money-follows-my-brother-meme-turned-into-t-series-song-fans-reaction-tmovj-dskc-2638819-2026-09-08)
-- [സ്വകാര്യ ബസുകൾ അനിശ്ചിതകാല സമരത്തിലേക്ക്](https://www.metrovaartha.com/news/kerala/private-buses-in-the-state-go-on-strike)
-- [സഞ്ജു ഡാ!!; 1000 വിദ്യാർത്ഥികൾക്ക് യുപിഎസ് സി പഠനത്തിന് സ്കോളർഷിപ്പ് വാ​ഗ്ദാനം ചെയ്ത് സഞ്ജു](https://www.southlive.in/sanju-offers-scholarships-to-1000-students-for-upsc-studies/)
-- [చికెన్‌ పెడుతున్న కేర్ టేకర్ పై మొసలి దాడి.. పపువా న్యూగినియాలో విషాదం](https://tv9telugu.com/trending/worker-dragged-into-water-killed-by-crocodile-1906788.html)
+- [பாரதிராஜாவின் ‘புலவர்’ பட டீசர் எப்படி? - கலகலப்பும் விசாரணையும்](https://www.hindutamil.in/news/cinema/tamil-cinema/bharathi-rajas-pulavar-teaser-released)
+- [మెగా డీఎస్సీ స్పోర్ట్స్ కోటాలో అక్ర‌మాలు పూర్తిగా అవాస్త‌వం.. క్లారిటీ ఇచ్చిన అధికారులు](https://telugu.asianetnews.com/gallery/andhra-pradesh/mega-dsc-2025-sports-quota-irregularities-claims-are-false-ap-education-department-clarifies-54vbebw)
+- [“மிசா கொடுமைகளை முதல்வர் விஜய் அரை மணி நேரம் தாங்குவாரா?” - கே.பாலகிருஷ்ணன்](https://www.hindutamil.in/news/tamilnadu/former-cpm-secretary-kbalakrishnan-condemns-against-cm-vijay-assembly-speech)
+- [भारत के जंगल में मिले ये जानवर, यहां तो पाए ही नहीं जाते... फिर आए कहां से?](https://www.aajtak.in/trending/story/odisha-jungle-5-orangutans-found-how-did-they-reach-india-tstf-dskc-2638871-2026-09-08)
+- [అసెంబ్లీ స్పీకర్‌పై అనుచిత వ్యాఖ్యల కేసు.. ఎమ్మెల్సీలు తాతా మధు, నవీన్‌కు ఊరట..](https://www.andhrajyothy.com/2026/telangana/hyderabad/telangana-speaker-remarks-case-brs-mlcs-tata-madhu-naveen-get-relief-nampally-court-rejects-remand-suri-1556387.html)
+- [भारत विरोधी निकला संयुक्त राष्ट्र का नया नक्शा, अरुणाचल और अक्साई चिन को बताया 'विवादित क्षेत्र'](https://navbharattimes.indiatimes.com/world/america/new-un-map-of-the-world-projects-arunachal-pradesh-aksai-chin-outside-india/articleshow/133922362.cms)
+- [డీమార్ట్‌ తరహాలో ఏపీ ప్రభుత్వం మీ మార్ట్‌లు.. అక్టోబర్ ఒకటిన ప్రారంభం..](https://telugu.samayam.com/andhra-pradesh/news/cm-chandrababu-to-launch-1000-mee-marts-on-october-1st-in-andhra-pradesh/articleshow/133922689.cms)
+- [Saudi Arabia: ఒక్క నది లేదు.. చుక్క వర్షం పడదు.. కానీ 3.7కోట్ల మందికి మంచినీరు](https://www.eenadu.net/telugu-news/world/how-saudi-arabia-supplies-freshwater-people/0801/126162291)
+- [90% વેપાર પોતાની કરન્સીમાં : BRICS દેશોના નિર્ણયથી ડૉલરનું વર્ચસ્વ ઘટ્યું, લીડરશિપ બદલ રશિયાએ કર્યા ભારતના વખાણ](https://tv9gujarati.com/international-news/brics-deals-major-blow-to-dollar-dominance-90-percent-of-russias-trade-with-members-now-in-local-currencies-1511914.html)
+- [गुजरात में नेशनल फिल्म अवार्ड समारोह पर उद्धव बोले, 'क्या देश में...'](https://www.abplive.com/states/maharashtra/uddhav-thackeray-shiv-sena-ubt-chief-attack-on-bjp-over-national-film-awards-ceremony-in-gujarat-ann-3186145)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
