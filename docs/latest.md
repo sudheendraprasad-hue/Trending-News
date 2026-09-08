@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-08 13:28:20
+# India Trending Report — 2026-09-08 08:02:10
 
 ## Google Trends (India) — top trending searches
 1. [बिहार में बाढ़](https://trends.google.com/trending/rss?geo=IN)
@@ -127,10 +127,18 @@
 - Punjab (1.6)
 
 ## NewsAPI top headlines (India)
-_Skipped — set NEWSAPI_KEY in .env to enable (https://newsapi.org)._
 
 ## GNews top headlines (India)
-_Skipped — set GNEWS_KEY in .env to enable (https://gnews.io)._
+- [Bageshwar Baba Non Veg Controversy:দুর্গাপুজোয় আমিষ খাওয়া নিয়ে বাগেশ্বর বাবার মন্তব্যের পাল্টা কী বলছেন তথাগত রায় এবং দিলীপ ঘোষ ?](https://bengali.abplive.com/district/bageshwar-baba-non-veg-controversy-bjp-tathagata-roy-and-dilip-ghosh-reaction-on-this-issue-1192008)
+- [‘Conduct worthy of derision’: Allahabad HC pulls up District Magistrate over NSA detention of law student](https://www.thehindu.com/news/national/conduct-worthy-of-derision-allahabad-hc-pulls-up-district-magistrate-over-nsa-detention-of-law-student/article71439929.ece)
+- ['अमेरिका में बनाओ तभी यहां प्लेन बेच पाओगे', डोनाल्ड ट्रंप का कनाडियन कंपनी बॉम्बार्डियर को अल्टीमेटम](https://www.aajtak.in/world/story/donald-trump-says-canadas-bombardier-cannot-sell-us-unless-it-builds-there-ntc-aktw-dskc-2638442-2026-09-08)
+- [కొత్త పింఛన్లు కోతలేనా..!](https://www.prajasakti.com/ap-news/amaravati/choking-with-rules)
+- [కొత్త పింఛన్లు కోతలేనా..!](https://prajasakti.com/ap-news/amaravati/choking-with-rules)
+- [Bageshwar Baba: জমি জবরদখল, হুমকি দেওয়া, রাস্তা দখল, এমনকী গুলি চালানো - বাগেশ্বর বাবার বিরুদ্ধে অগুনতি অভিযোগ](https://bengali.abplive.com/district/kolkata-news-bageshwar-baba-non-veg-eating-controversy-land-grabbing-threats-road-encroachment-even-shooting-countless-allegations-against-bageshwar-baba-1192001)
+- [Scientists say ‘ultrafast magnetic-field pulses’ could help AI data centers cut their energy usage by 100x - and bring sizable improvements to RAM and data storage](https://tech.yahoo.com/science/articles/scientists-ultrafast-magnetic-field-pulses-190000925.html)
+- [புதுச்சேரியின் தட்டாஞ்சாவடி உட்பட 5 தொகுதிகளில் இடைத்தேர்தல்](https://www.hindutamil.in/news/tamilnadu/bypolls-to-be-held-in-5-puducherry-constituencies-including-thattanchavady)
+- [தமிழகத்தில் சட்டம் - ஒழுங்கு நிலவரம் சீர்குலையவில்லை: முதல்வர் விஜய்](https://www.dinamalar.com/news/tamil-nadu-news/no-law-and-order-situation-in-tamil-nadu-cm-vijay/4316870)
+- [மதுராந்தகம், தாராபுரத்துக்கு அக்.6-ல் இடைத்தேர்தல்: வேட்புமனு தாக்கல் நாளை தொடக்கம்](https://www.hindutamil.in/news/tamilnadu/madurantakam-dharapuram-bypolls-on-oct-6-nomination-filing-begins-tomorrow)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
