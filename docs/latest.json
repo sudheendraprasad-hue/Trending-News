@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-09-08 19:33:56",
+  "generated_at": "2026-09-08 20:02:04",
   "google_trends": [
+    {
+      "title": "muse ai",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "dortmund",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "real madrid",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "real madrid match",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "football",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "cl",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "enzo fern\u00e1ndez",
       "traffic": null,
@@ -12,42 +42,12 @@
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "real madrid vs",
+      "title": "epic",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
       "title": "iqoo z11xa 5g \u0915\u0947 \u092d\u093e\u0930\u0924 \u092e\u0947\u0902 \u0932\u0949\u0928\u094d\u091a \u0915\u0940\u092e\u0924 \u0914\u0930 \u092b\u0940\u091a\u0930\u094d\u0938 \u0915\u0940 \u092a\u0942\u0930\u0940 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0926\u0947\u0902",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "\u092a\u0941\u0932\u093f\u0938",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "yan diomand\u00e9",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "sony",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "thibaut courtois",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "federico valverde",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "10",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     }
@@ -223,16 +223,24 @@
     ],
     "The Hindu": [
       {
-        "title": "INDIA bloc parties announce Odisha Assembly \u2018gherao\u2019 on Sept. 29 over new mining law",
-        "link": "https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece"
-      },
-      {
-        "title": "Windergy India 2026 from October 7 to 9",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/windergy-india-2026-from-october-7-to-9/article71443822.ece"
+        "title": "Chlorine gas leak at water filtration plant in Madhya Pradesh\u2019s Sehore; four people hospitalised",
+        "link": "https://www.thehindu.com/news/national/madhya-pradesh/chlorine-gas-leak-at-a-sehore-water-filtration-plant/article71444504.ece"
       },
       {
         "title": "Andhra Pradesh rain forecast: showers from September 12 after a near 60% deficit",
         "link": "https://www.thehindu.com/news/national/andhra-pradesh/relief-from-heat-for-andhra-pradesh-likely-as-low-pressure-brews-over-bay-of-bengal/article71443507.ece"
+      },
+      {
+        "title": "INDIA bloc parties announce Odisha Assembly \u2018gherao\u2019 on Sept. 29 over new mining law",
+        "link": "https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece"
+      },
+      {
+        "title": "Monthly assistance for ex-servicemen, widows to be raised to \u20b96,000, says Minister",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/monthly-assistance-for-ex-servicemen-widows-to-be-raised-to-6000-says-minister/article71443037.ece"
+      },
+      {
+        "title": "Windergy India 2026 from October 7 to 9",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/windergy-india-2026-from-october-7-to-9/article71443822.ece"
       },
       {
         "title": "Akhilesh unveils blue dress code for SP youth wing to push Bahujan plank",
@@ -253,17 +261,13 @@
       {
         "title": "New water pipes destroyed in fire near Sholinghur",
         "link": "https://www.thehindu.com/news/national/tamil-nadu/new-water-pipes-destroyed-in-fire-near-sholinghur/article71442680.ece"
-      },
-      {
-        "title": "Gescom makes arrangements for safe, uninterrupted power supply during Ganesha festival",
-        "link": "https://www.thehindu.com/news/national/karnataka/gescom-makes-arrangements-for-safe-uninterrupted-power-supply-during-ganesha-festival/article71443213.ece"
-      },
-      {
-        "title": "Tangedco staff held on bribery charges near Arakkonam",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/tangedco-staff-held-on-bribery-charges-near-arakkonam/article71442687.ece"
       }
     ],
     "Livemint": [
+      {
+        "title": "Netanyahu was warned about Hamas attack days before October 7. He did nothing \u2014 New book makes explosive claim",
+        "link": "https://www.livemint.com/news/us-news/netanyahu-was-warned-about-hamas-attack-days-before-october-7-he-did-nothing-new-book-makes-explosive-claim-11788895305397.html"
+      },
       {
         "title": "Russian store robot video viral: Humanoid \u2018attacks\u2019 customer after being pushed",
         "link": "https://www.livemint.com/news/trends/russian-store-robot-video-viral-humanoid-attacks-customer-after-being-pushed-11788893770623.html"
@@ -299,10 +303,6 @@
       {
         "title": "PM Modi urges fintech sector to expand beyond UPI into savings, credit and insurance",
         "link": "https://www.livemint.com/news/india/pm-modi-fintech-global-fintech-fest-upi-11788877570482.html"
-      },
-      {
-        "title": "Ladakh LG Vinai Kumar Saxena to hold additional charge of J&K LG during Manoj Sinha\u2019s leave",
-        "link": "https://www.livemint.com/news/india/ladakh-lg-vinai-kumar-saxena-to-hold-additional-charge-of-j-k-lg-during-manoj-sinha-s-leave-11788878921907.html"
       }
     ],
     "Moneycontrol": [],
@@ -391,6 +391,10 @@
       "score": 2.6
     },
     {
+      "term": "October",
+      "score": 2.6
+    },
+    {
       "term": "Satya Niketan",
       "score": 2
     },
@@ -403,55 +407,51 @@
       "score": 1.9
     },
     {
-      "term": "Congress",
-      "score": 1.6
-    },
-    {
-      "term": "Odisha",
-      "score": 1.6
+      "term": "Minister",
+      "score": 1.9
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u0d1a\u0d42\u0d30 \u0d2e\u0d40\u0d28\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d15\u0d3f\u0d21\u0d4d\u0d28\u0d3f\u0d2f\u0d41\u0d02 \u0d39\u0d43\u0d26\u0d2f\u0d35\u0d41\u0d2e\u0d4a\u0d34\u0d3f\u0d15\u0d46 \u0d0e\u0d32\u0d4d\u0d32\u0d3e\u0d2f\u0d3f\u0d1f\u0d35\u0d41\u0d02 \u0d35\u0d3f\u0d30\u0d15\u0d33\u0d4d\u200d; \u0d28\u0d1f\u0d41\u0d15\u0d4d\u0d15\u0d3f \u0d31\u0d3f\u0d2a\u0d4d\u0d2a\u0d4b\u0d30\u0d4d\u200d\u0d1f\u0d4d\u0d1f\u0d4d",
-      "link": "https://www.manoramanews.com/health/food/2026/09/08/parasites-found-in-96-percent-of-sampled-tuna-fish-research.html"
+      "title": "Abhinay Berde Career Break: \u0905\u092d\u093f\u0928\u092f \u092c\u0947\u0930\u094d\u0921\u0947\u0928\u0947 \u0905\u091a\u093e\u0928\u0915 \u0915\u093e \u0918\u0947\u0924\u0932\u093e \u0915\u0930\u093f\u0905\u0930\u092e\u0927\u0942\u0928 \u092c\u094d\u0930\u0947\u0915? VIDEO \u0936\u0947\u0905\u0930 \u0915\u0930\u0924 \u0938\u093e\u0902\u0917\u093f\u0924\u0932\u0902 \u0916\u0930\u0902 \u0915\u093e\u0930\u0923",
+      "link": "https://www.navarashtra.com/entertainment/marathi-cinema/abhinay-berde-career-break-startup-idea-video-1327461.html"
     },
     {
-      "title": "Xiaomi launches three new power banks in India with magnetic wireless charging and up to 165W output",
-      "link": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/technology/xiaomi-launches-three-new-power-banks-in-india-with-magnetic-wireless-charging-and-up-to-165w-output-article-14025108.html"
+      "title": "Adani, NTPC among applicants for Rs 37,500 crore coal gasification scheme",
+      "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/adani-ntpc-among-7-applicants-for-rs-37500-crore-coal-gasification-scheme/articleshow/133915378.cms?from=mdr"
     },
     {
-      "title": "\u0d2e\u0d46\u0d15\u0d4d\u0d38\u0d3f\u0d15\u0d4d\u0d15\u0d4b\u0d2f\u0d41\u0d02 \u0d15\u0d3e\u0d28\u0d21\u0d2f\u0d41\u0d02 \u0d17\u0d4d\u0d30\u0d40\u0d7b\u0d32\u0d7b\u0d21\u0d41\u0d02 \u0d1a\u0d47\u0d7c\u0d28\u0d4d\u0d28 \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15; \u2018\u0d2a\u0d41\u0d24\u0d3f\u0d2f \u0d2d\u0d42\u0d2a\u0d1f\u0d35\u0d41\u0d2e\u0d3e\u0d2f\u0d3f\u2019 \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d",
-      "link": "https://www.mediaoneonline.com/world/trump-expanded-us-map-mexico-canada-greenland-336313"
+      "title": "\u0d05\u0d27\u0d4d\u0d2f\u0d3e\u0d2a\u0d15\u0d7b\u0d4d\u0d31\u0d46 \u0d07\u0d1f\u0d3f\u0d2f\u0d47\u0d31\u0d4d\u0d31\u0d4d \u0d35\u0d3f\u0d26\u0d4d\u0d2f\u0d3e\u0d7c\u0d24\u0d4d\u0d25\u0d3f\u0d2f\u0d41\u0d1f\u0d46 \u0d07\u0d1f\u0d24\u0d4d \u0d15\u0d23\u0d4d\u0d23\u0d3f\u0d7d \u0d30\u0d15\u0d4d\u0d24\u0d02 \u0d15\u0d1f\u0d4d\u0d1f\u0d2a\u0d3f\u0d1f\u0d3f\u0d1a\u0d4d\u0d1a\u0d41, \u0d05\u0d2a\u0d15\u0d1f\u0d28\u0d3f\u0d32 \u0d24\u0d30\u0d23\u0d02 \u0d1a\u0d46\u0d2f\u0d4d\u200c\u0d24\u0d41; \u0d15\u0d47\u0d38\u0d4d",
+      "link": "https://www.asianetnews.com/india-news/teacher-assault-16-year-old-student-booked-in-mysuru-articleshow-w2k9v1z"
     },
     {
-      "title": "\u0c26\u0c41\u0c32\u0c40\u0c2a\u0c4d \u0c1f\u0c4d\u0c30\u0c4b\u0c2b\u0c40 \u0c2b\u0c48\u0c28\u0c32\u0c4d\u200c\u0c32\u0c4b \u0c07\u0c37\u0c3e\u0c28\u0c4d \u0c15\u0c3f\u0c37\u0c28\u0c4d \u0c21\u0c2c\u0c41\u0c32\u0c4d \u0c38\u0c46\u0c02\u0c1a\u0c30\u0c40.. \u0c1f\u0c40\u0c2e\u0c3f\u0c02\u0c21\u0c3f\u0c2f\u0c3e \u0c1f\u0c46\u0c38\u0c4d\u0c1f\u0c4d \u0c1c\u0c1f\u0c4d\u0c1f\u0c41\u0c32\u0c4b\u0c15\u0c3f \u0c30\u0c40\u0c0e\u0c02\u0c1f\u0c4d\u0c30\u0c40 \u0c16\u0c3e\u0c2f\u0c2e\u0c47\u0c28\u0c3e..!",
-      "link": "https://telugu.samayam.com/sports/cricket/news/ishan-kishan-smashes-mammoth-270-in-duleep-trophy-final-to-signal-red-ball-return/articleshow/133914267.cms"
+      "title": "\u0c2a\u0c30\u0c4d\u0c38\u0c28\u0c32\u0c4d \u0c38\u0c4d\u0c15\u0c4d\u0c30\u0c40\u0c28\u0c4d, \u0c39\u0c4b\u0c38\u0c4d\u0c1f\u0c46\u0c38\u0c4d, \u0c09\u0c1a\u0c3f\u0c24 \u0c35\u0c48\u0c2b\u0c48, \u0c32\u0c4b\u0c2a\u0c32\u0c47 \u0c2c\u0c3e\u0c24\u0c4d\u0c30\u0c42\u0c02.. \u0c0e\u0c2f\u0c3f\u0c30\u0c4d \u0c2c\u0c38\u0c4d\u0c38\u0c41\u0c32\u0c4b \u0c15\u0c3e\u0c26\u0c41 \u0c06\u0c30\u0c4d\u0c1f\u0c40\u0c38\u0c40 \u0c2c\u0c38\u0c4d\u0c38\u0c41\u0c32\u0c4b\u0c28\u0c47 \u0c05\u0c26\u0c3f\u0c30\u0c3f\u0c2a\u0c4b\u0c2f\u0c47 \u0c38\u0c47\u0c35\u0c32\u0c41!",
+      "link": "https://telugu.samayam.com/latest-news/india-news/kerala-rtc-launches-new-business-class-bus-with-hostess-and-washroom-video-goes-viral/articleshow/133915251.cms"
     },
     {
-      "title": "\u0d38\u0d57\u0d26\u0d3f \u0d05\u0d31\u0d47\u0d2c\u0d4d\u0d2f\u0d2f\u0d3f\u0d32\u0d46 \u0d28\u0d3e\u0d32\u0d4d \u0d1c\u0d28\u0d35\u0d3e\u0d38 \u0d2e\u0d47\u0d16\u0d32\u0d15\u0d33\u0d3f\u0d7d \u0d39\u0d42\u0d24\u0d3f \u0d06\u0d15\u0d4d\u0d30\u0d2e\u0d23\u0d02; 73 \u0d2a\u0d47\u0d7c\u0d15\u0d4d\u0d15\u0d4d \u0d2a\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d4d, \u0d15\u0d28\u0d24\u0d4d\u0d24 \u0d24\u0d3f\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d1f\u0d3f",
-      "link": "https://www.asianetnews.com/international-news/houthi-attacks-leaves-73-people-injured-in-saudi-arabia-articleshow-9emb916"
+      "title": "\u2018\u091c\u0947\u0932 \u0938\u0947 \u0928\u093f\u0915\u0932\u0924\u0947 \u0939\u0940 \u0936\u0941\u0917\u0930 \u0921\u0948\u0921\u0940 \u0915\u094b \u092e\u093e\u0930 \u0926\u0942\u0902\u0917\u093e\u2019, \u092a\u0924\u094d\u0928\u0940 \u0915\u0940 \u0916\u094b\u092a\u0921\u093c\u0940 \u092b\u094d\u0930\u093f\u091c \u092e\u0947\u0902 \u0930\u0916\u0928\u0947 \u0935\u093e\u0932\u093e \u0915\u0930\u0947\u0917\u093e \u090f\u0915 \u0914\u0930 \u0939\u0924\u094d\u092f\u093e!",
+      "link": "https://www.livehindustan.com/national/assam-murder-man-who-killed-his-wife-say-this-in-court-i-will-kill-sugar-daddy-get-out-of-jail-201788853353090.html"
     },
     {
-      "title": "\u09ac\u0987\u099b\u09c7 \u099d\u09cb\u09a1\u09bc\u09cb \u09b9\u09be\u0993\u09df\u09be, \u09ac\u099c\u09cd\u09b0\u09aa\u09be\u09a4, \u09eb \u099c\u09c7\u09b2\u09be\u09df \u099d\u09c7\u0981\u09aa\u09c7 \u0986\u09b8\u099b\u09c7 \u09ac\u09c3\u09b7\u09cd\u099f\u09bf, \u09ac\u09a1\u09bc \u0986\u09aa\u09a1\u09c7\u099f \u0986\u09ac\u09b9\u09be\u0993\u09df\u09be\u09b0",
-      "link": "https://bengali.abplive.com/district/west-bengal-heavy-rain-forecast-in-five-districts-imd-alert-1192046"
+      "title": "Vadodara: \u0ab5\u0aa1\u0acb\u0aa6\u0ab0\u0abe\u0aae\u0abe\u0a82 \u0aac\u0ac1\u0ab2\u0ac7\u0a9f \u0a9f\u0acd\u0ab0\u0ac7\u0aa8 \u0a85\u0a82\u0a97\u0ac7 \u0ab0\u0ac7\u0ab2\u0ab5\u0ac7 \u0aae\u0a82\u0aa4\u0acd\u0ab0\u0ac0 \u0a85\u0ab6\u0acd\u0ab5\u0abf\u0aa8\u0ac0 \u0ab5\u0ac8\u0ab7\u0acd\u0aa3\u0ab5\u0ac7 \u0a95\u0ab0\u0ac0 \u0aae\u0acb\u0a9f\u0ac0 \u0a9c\u0abe\u0ab9\u0ac7\u0ab0\u0abe\u0aa4, \u0a9c\u0abe\u0aa3\u0acb \u0ab6\u0ac1\u0a82 \u0aac\u0acb\u0ab2\u0acd\u0aaf\u0abe",
+      "link": "https://gujarati.abplive.com/news/vadodara/railway-minister-ashwini-vaishnav-big-announcement-regarding-bullet-train-in-vadodara-990698"
     },
     {
-      "title": "\u0a85\u0aad\u0abf\u0ab7\u0ac7\u0a95 \u0ab6\u0ab0\u0acd\u0aae\u0abe\u0a8f \u0ab6\u0ac1\u0aad\u0aae\u0aa8 \u0a97\u0abf\u0ab2\u0aa8\u0ac0 \u0ab5\u0abf\u0a95\u0ac7\u0a9f \u0ab2\u0ac0\u0aa7\u0ac0! \u0aaa\u0a9b\u0ac0 326\u0aa8\u0ac0 \u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0abe\u0a88\u0a95 \u0ab0\u0ac7\u0a9f\u0aa5\u0ac0 \u0ab0\u0aa8 \u0aab\u0a9f\u0a95\u0abe\u0ab0\u0ac0 \u0a9f\u0ac0\u0aae\u0aa8\u0ac7 \u0a9c\u0ac0\u0aa4 \u0a85\u0aaa\u0abe\u0ab5\u0ac0",
-      "link": "https://www.gujaratsamachar.com/news/sports/abhishek-sharma-took-the-wicket-of-shubman-gill-then-scored-runs-at-a-strike-rate-of-326-to-lead-the-team-to-victory-31620275826"
+      "title": "'\u0932\u0947 \u0932\u094b, \u0932\u0947 \u0932\u094b...' \u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940 \u0928\u0947 \u0915\u0939\u093e \u0914\u0930 \u0908\u0936\u093e\u0928 \u0928\u0947 \u092e\u093e\u0928 \u0932\u0940 \u092c\u093e\u0924, \u092b\u093f\u0930 DRS \u092e\u0947\u0902 \u0939\u0941\u0906 '\u091a\u092e\u0924\u094d\u0915\u093e\u0930'",
+      "link": "https://www.aajtak.in/sports/cricket/story/vaibhav-sooryavanshi-le-lo-drs-ishan-kishan-duleep-trophy-final-video-tspok-dskc-2638689-2026-09-08"
     },
     {
-      "title": "'Some can never be happy with India's progress': PM Modi renews 'naraz fufa' jibe at Congress in Vadodara",
-      "link": "https://timesofindia.indiatimes.com/india/event-sold-out-in-60-minutes-we-will-rock-you-welcomes-pm-modi-to-namo-for-viksit-bharat/articleshow/133914109.cms"
+      "title": "Radhakrishna Vikhe Patil on Manoj jarange Patil: \u092e\u094b\u0920\u0940 \u092c\u093e\u0924\u092e\u0940: \u092e\u0928\u094b\u091c \u091c\u0930\u093e\u0902\u0917\u0947\u0902\u091a\u094d\u092f\u093e \u092d\u0947\u091f\u0940\u0938\u093e\u0920\u0940 \u0906\u0924\u093e \u0938\u0930\u0915\u093e\u0930\u091a\u0947 \u0936\u093f\u0937\u094d\u091f\u092e\u0902\u0921\u0933 \u091c\u093e\u0923\u093e\u0930 \u0928\u093e\u0939\u0940, \u0935\u093f\u0916\u0947 \u092a\u093e\u091f\u0932\u093e\u0902\u091a\u0902 \u092e\u094b\u0920\u0902 \u0935\u0915\u094d\u0924\u0935\u094d\u092f; \u092e\u094d\u0939\u0923\u093e\u0932\u0947, \u0938\u0930\u0915\u093e\u0930 \u090f\u0915 \u092a\u093e\u090a\u0932 \u092a\u0941\u0922\u0947 \u092f\u0947\u0924 \u0905\u0938\u0947\u0932 \u0924\u0930...",
+      "link": "https://marathi.abplive.com/news/politics/radhakrishna-vikhe-patil-big-statement-government-delegation-will-not-meet-manoj-jarange-patil-maratha-reservation-marathi-news-1438422"
     },
     {
-      "title": "\u0d2a\u0d4d\u0d30\u0d3f\u0d2f \u0d35\u0d7c\u0d17\u0d40\u0d38\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d15\u0d47\u0d38\u0d4d \u0d2e\u0d3e\u0d31\u0d4d\u0d31\u0d3f\u0d35\u0d46\u0d1a\u0d4d\u0d1a\u0d4d \u0d38\u0d41\u0d2a\u0d4d\u0d30\u0d40\u0d02 \u0d15\u0d4b\u0d1f\u0d24\u0d3f; \u0d38\u0d46\u0d2a\u0d4d\u0d31\u0d4d\u0d31\u0d02\u0d2c\u0d7c 22-\u0d28\u0d4d \u0d2a\u0d30\u0d3f\u0d17\u0d23\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d02",
-      "link": "https://www.mathrubhumi.com/news/kerala/priya-varghese-appointment-case-supreme-court-september-22-loeuocwi"
+      "title": "\u2018Bigg Boss 20\u2019 contestant Mary Kom\u2019s Faridabad house: A look into the star\u2019s cosy \u2018Ebenezer Inn\u2019",
+      "link": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-20-contestant-mary-koms-faridabad-house-a-look-into-the-stars-cosy-ebenezer-inn/photostory/133914075.cms"
     },
     {
-      "title": "\u09ac\u09c7\u09df\u09be\u09a6\u09aa\u09bf\u09b0 \u09b6\u09be\u09b8\u09cd\u09a4\u09bf \u09aa\u09c7\u09b2\u09c7\u09a8 \u09ab\u09a4\u09bf\u09ae\u09be, \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u0995\u09cd\u09b0\u09bf\u0995\u09c7\u099f\u09c7 \u09ab\u09c7\u09b0 \u09ac\u09c7\u0987\u099c\u09cd\u099c\u09a4 \u09aa\u09be\u0995\u09bf\u09b8\u09cd\u09a4\u09be\u09a8",
-      "link": "https://bengali.indianexpress.com/sports/sports-news-live-updates-8-september-cricket-football-other-sports-india-vs-afghanistan-12505049"
+      "title": "\u09a8\u09a4\u09c1\u09a8 \u09ae\u09bf\u09a4\u09b8\u09c1\u09ac\u09bf\u09b6\u09bf \u09aa\u09be\u099c\u09c7\u09b0\u09cb \u09ac\u09be\u099c\u09be\u09b0\u09c7 \u0986\u09b8\u09be\u09b0 \u09aa\u09b0 \u09a5\u09c7\u0995\u09c7\u0987 \u0997\u09cd\u09b0\u09be\u09b9\u0995\u09a6\u09c7\u09b0 \u0986\u0995\u09c3\u09b7\u09cd\u099f \u0995\u09b0\u099b\u09c7\u0964",
+      "link": "https://www.vietnam.vn/bn/mitsubishi-pajero-doi-moi-hut-khach-khi-vua-ra-mat"
     }
   ],
   "twitter": null

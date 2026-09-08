@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-08 19:33:56
+# India Trending Report — 2026-09-08 20:02:04
 
 ## Google Trends (India) — top trending searches
-1. [enzo fernández](https://trends.google.com/trending/rss?geo=IN)
-2. [jio tv](https://trends.google.com/trending/rss?geo=IN)
-3. [real madrid vs](https://trends.google.com/trending/rss?geo=IN)
-4. [iqoo z11xa 5g के भारत में लॉन्च कीमत और फीचर्स की पूरी जानकारी दें](https://trends.google.com/trending/rss?geo=IN)
-5. [पुलिस](https://trends.google.com/trending/rss?geo=IN)
-6. [yan diomandé](https://trends.google.com/trending/rss?geo=IN)
-7. [sony](https://trends.google.com/trending/rss?geo=IN)
-8. [thibaut courtois](https://trends.google.com/trending/rss?geo=IN)
-9. [federico valverde](https://trends.google.com/trending/rss?geo=IN)
-10. [10](https://trends.google.com/trending/rss?geo=IN)
+1. [muse ai](https://trends.google.com/trending/rss?geo=IN)
+2. [dortmund](https://trends.google.com/trending/rss?geo=IN)
+3. [real madrid](https://trends.google.com/trending/rss?geo=IN)
+4. [real madrid match](https://trends.google.com/trending/rss?geo=IN)
+5. [football](https://trends.google.com/trending/rss?geo=IN)
+6. [cl](https://trends.google.com/trending/rss?geo=IN)
+7. [enzo fernández](https://trends.google.com/trending/rss?geo=IN)
+8. [jio tv](https://trends.google.com/trending/rss?geo=IN)
+9. [epic](https://trends.google.com/trending/rss?geo=IN)
+10. [iqoo z11xa 5g के भारत में लॉन्च कीमत और फीचर्स की पूरी जानकारी दें](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -62,18 +62,19 @@
 - [ಸಚಿವ SS ಮಲ್ಲಿಕಾರ್ಜುನ್ ಅಪ್ಪನಿಗೆ ಹುಟ್ಟಿದ್ರೆ ಬೂಟಿನಲ್ಲಿ ಹೊಡೆಯಲಿ: BJP ಶಾಸಕ ಬಿಪಿ ಹರೀಶ್ ಸವಾಲು! ತಾರಕಕ್ಕೇರಿ ಜಗಳ](https://vijaykarnataka.com/news/davanagere/if-minister-ss-mallikarjun-is-his-fathers-true-son-let-him-hit-me-with-a-shoe-bjp-mla-bp-harish-issues-a-challenge/articleshow/133933800.cms)
 
 **The Hindu**
-- [INDIA bloc parties announce Odisha Assembly ‘gherao’ on Sept. 29 over new mining law](https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece)
-- [Windergy India 2026 from October 7 to 9](https://www.thehindu.com/news/national/tamil-nadu/windergy-india-2026-from-october-7-to-9/article71443822.ece)
+- [Chlorine gas leak at water filtration plant in Madhya Pradesh’s Sehore; four people hospitalised](https://www.thehindu.com/news/national/madhya-pradesh/chlorine-gas-leak-at-a-sehore-water-filtration-plant/article71444504.ece)
 - [Andhra Pradesh rain forecast: showers from September 12 after a near 60% deficit](https://www.thehindu.com/news/national/andhra-pradesh/relief-from-heat-for-andhra-pradesh-likely-as-low-pressure-brews-over-bay-of-bengal/article71443507.ece)
+- [INDIA bloc parties announce Odisha Assembly ‘gherao’ on Sept. 29 over new mining law](https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece)
+- [Monthly assistance for ex-servicemen, widows to be raised to ₹6,000, says Minister](https://www.thehindu.com/news/national/tamil-nadu/monthly-assistance-for-ex-servicemen-widows-to-be-raised-to-6000-says-minister/article71443037.ece)
+- [Windergy India 2026 from October 7 to 9](https://www.thehindu.com/news/national/tamil-nadu/windergy-india-2026-from-october-7-to-9/article71443822.ece)
 - [Akhilesh unveils blue dress code for SP youth wing to push Bahujan plank](https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-unveils-blue-dress-code-for-sp-youth-wing-to-push-bahujan-plank/article71444332.ece)
 - [Bihar Floods: water levels recede, but threat persists](https://www.thehindu.com/news/national/bihar/bihar-floods-water-levels-recede-but-threat-persists/article71443548.ece)
 - [My area of joy in Madras was Egmore : Y. Gee Mahendra](https://www.thehindu.com/news/cities/chennai/my-area-of-joy-in-madras-was-egmore-y-gee-mahendra/article71436283.ece)
 - [Tension as police raid Shyam Institute, case against Director Shyam, 20 students in Kakinada](https://www.thehindu.com/news/national/andhra-pradesh/tension-as-police-raid-shyam-institute-case-against-director-shyam-20-students-in-kakinada/article71443752.ece)
 - [New water pipes destroyed in fire near Sholinghur](https://www.thehindu.com/news/national/tamil-nadu/new-water-pipes-destroyed-in-fire-near-sholinghur/article71442680.ece)
-- [Gescom makes arrangements for safe, uninterrupted power supply during Ganesha festival](https://www.thehindu.com/news/national/karnataka/gescom-makes-arrangements-for-safe-uninterrupted-power-supply-during-ganesha-festival/article71443213.ece)
-- [Tangedco staff held on bribery charges near Arakkonam](https://www.thehindu.com/news/national/tamil-nadu/tangedco-staff-held-on-bribery-charges-near-arakkonam/article71442687.ece)
 
 **Livemint**
+- [Netanyahu was warned about Hamas attack days before October 7. He did nothing — New book makes explosive claim](https://www.livemint.com/news/us-news/netanyahu-was-warned-about-hamas-attack-days-before-october-7-he-did-nothing-new-book-makes-explosive-claim-11788895305397.html)
 - [Russian store robot video viral: Humanoid ‘attacks’ customer after being pushed](https://www.livemint.com/news/trends/russian-store-robot-video-viral-humanoid-attacks-customer-after-being-pushed-11788893770623.html)
 - [Bengaluru CEO reveals how hectic work schedule left him in ICU for 4 months: ‘Sunday was just a slower Monday’](https://www.livemint.com/news/trends/bengaluru-ceo-reveals-how-hectic-work-schedule-left-him-in-icu-for-4-months-sunday-was-just-a-slower-monday-11788889765479.html)
 - [Earthquake hits Tibet again: Magnitude 5.3 this time at a depth of 35 km; Nepal feels tremor](https://www.livemint.com/news/world/earthquake-hits-tibet-again-magnitude-5-3-this-time-at-a-depth-of-35-km-nepal-feels-tremor-11788889363182.html)
@@ -83,7 +84,6 @@
 - [Major UK ATC failure cancels 300 flights: Heathrow, Manchester hit; EasyJet, British Airways warn of delays](https://www.livemint.com/news/world/uk-airports-ground-flights-over-air-traffic-control-issue-easyjet-british-airways-heathrow-gatwick-manchester-11788881979362.html)
 - [Tukaram Mundhe action in Mumbai: Cockroach infestation & more - What FDA found at IRCTC-linked kitchen, ISKCON Juhu](https://www.livemint.com/news/india/tukaram-mundhe-action-in-mumbai-cockroach-infestation-more-what-fda-found-at-irctc-linked-kitchen-iskcon-juhu-11788877667161.html)
 - [PM Modi urges fintech sector to expand beyond UPI into savings, credit and insurance](https://www.livemint.com/news/india/pm-modi-fintech-global-fintech-fest-upi-11788877570482.html)
-- [Ladakh LG Vinai Kumar Saxena to hold additional charge of J&K LG during Manoj Sinha’s leave](https://www.livemint.com/news/india/ladakh-lg-vinai-kumar-saxena-to-hold-additional-charge-of-j-k-lg-during-manoj-sinha-s-leave-11788878921907.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -110,25 +110,25 @@
 - Earthquake (2.6)
 - Nepal (2.6)
 - September (2.6)
+- October (2.6)
 - Satya Niketan (2.0)
 - PM Modi (2.0)
 - Punjab (1.9)
-- Congress (1.6)
-- Odisha (1.6)
+- Minister (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ചൂര മീനിന്‍റെ കിഡ്നിയും ഹൃദയവുമൊഴികെ എല്ലായിടവും വിരകള്‍; നടുക്കി റിപ്പോര്‍ട്ട്](https://www.manoramanews.com/health/food/2026/09/08/parasites-found-in-96-percent-of-sampled-tuna-fish-research.html)
-- [Xiaomi launches three new power banks in India with magnetic wireless charging and up to 165W output](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/technology/xiaomi-launches-three-new-power-banks-in-india-with-magnetic-wireless-charging-and-up-to-165w-output-article-14025108.html)
-- [മെക്സിക്കോയും കാനഡയും ഗ്രീൻലൻഡും ചേർന്ന അമേരിക്ക; ‘പുതിയ ഭൂപടവുമായി’ ട്രംപ്](https://www.mediaoneonline.com/world/trump-expanded-us-map-mexico-canada-greenland-336313)
-- [దులీప్ ట్రోఫీ ఫైనల్‌లో ఇషాన్ కిషన్ డబుల్ సెంచరీ.. టీమిండియా టెస్ట్ జట్టులోకి రీఎంట్రీ ఖాయమేనా..!](https://telugu.samayam.com/sports/cricket/news/ishan-kishan-smashes-mammoth-270-in-duleep-trophy-final-to-signal-red-ball-return/articleshow/133914267.cms)
-- [സൗദി അറേബ്യയിലെ നാല് ജനവാസ മേഖലകളിൽ ഹൂതി ആക്രമണം; 73 പേർക്ക് പരിക്ക്, കനത്ത തിരിച്ചടി](https://www.asianetnews.com/international-news/houthi-attacks-leaves-73-people-injured-in-saudi-arabia-articleshow-9emb916)
-- [বইছে ঝোড়ো হাওয়া, বজ্রপাত, ৫ জেলায় ঝেঁপে আসছে বৃষ্টি, বড় আপডেট আবহাওয়ার](https://bengali.abplive.com/district/west-bengal-heavy-rain-forecast-in-five-districts-imd-alert-1192046)
-- [અભિષેક શર્માએ શુભમન ગિલની વિકેટ લીધી! પછી 326ની સ્ટ્રાઈક રેટથી રન ફટકારી ટીમને જીત અપાવી](https://www.gujaratsamachar.com/news/sports/abhishek-sharma-took-the-wicket-of-shubman-gill-then-scored-runs-at-a-strike-rate-of-326-to-lead-the-team-to-victory-31620275826)
-- ['Some can never be happy with India's progress': PM Modi renews 'naraz fufa' jibe at Congress in Vadodara](https://timesofindia.indiatimes.com/india/event-sold-out-in-60-minutes-we-will-rock-you-welcomes-pm-modi-to-namo-for-viksit-bharat/articleshow/133914109.cms)
-- [പ്രിയ വർഗീസിന്റെ കേസ് മാറ്റിവെച്ച് സുപ്രീം കോടതി; സെപ്റ്റംബർ 22-ന് പരിഗണിക്കും](https://www.mathrubhumi.com/news/kerala/priya-varghese-appointment-case-supreme-court-september-22-loeuocwi)
-- [বেয়াদপির শাস্তি পেলেন ফতিমা, আন্তর্জাতিক ক্রিকেটে ফের বেইজ্জত পাকিস্তান](https://bengali.indianexpress.com/sports/sports-news-live-updates-8-september-cricket-football-other-sports-india-vs-afghanistan-12505049)
+- [Abhinay Berde Career Break: अभिनय बेर्डेने अचानक का घेतला करिअरमधून ब्रेक? VIDEO शेअर करत सांगितलं खरं कारण](https://www.navarashtra.com/entertainment/marathi-cinema/abhinay-berde-career-break-startup-idea-video-1327461.html)
+- [Adani, NTPC among applicants for Rs 37,500 crore coal gasification scheme](https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/adani-ntpc-among-7-applicants-for-rs-37500-crore-coal-gasification-scheme/articleshow/133915378.cms?from=mdr)
+- [അധ്യാപകൻ്റെ ഇടിയേറ്റ് വിദ്യാർത്ഥിയുടെ ഇടത് കണ്ണിൽ രക്തം കട്ടപിടിച്ചു, അപകടനില തരണം ചെയ്‌തു; കേസ്](https://www.asianetnews.com/india-news/teacher-assault-16-year-old-student-booked-in-mysuru-articleshow-w2k9v1z)
+- [పర్సనల్ స్క్రీన్, హోస్టెస్, ఉచిత వైఫై, లోపలే బాత్రూం.. ఎయిర్ బస్సులో కాదు ఆర్టీసీ బస్సులోనే అదిరిపోయే సేవలు!](https://telugu.samayam.com/latest-news/india-news/kerala-rtc-launches-new-business-class-bus-with-hostess-and-washroom-video-goes-viral/articleshow/133915251.cms)
+- [‘जेल से निकलते ही शुगर डैडी को मार दूंगा’, पत्नी की खोपड़ी फ्रिज में रखने वाला करेगा एक और हत्या!](https://www.livehindustan.com/national/assam-murder-man-who-killed-his-wife-say-this-in-court-i-will-kill-sugar-daddy-get-out-of-jail-201788853353090.html)
+- [Vadodara: વડોદરામાં બુલેટ ટ્રેન અંગે રેલવે મંત્રી અશ્વિની વૈષ્ણવે કરી મોટી જાહેરાત, જાણો શું બોલ્યા](https://gujarati.abplive.com/news/vadodara/railway-minister-ashwini-vaishnav-big-announcement-regarding-bullet-train-in-vadodara-990698)
+- ['ले लो, ले लो...' वैभव सूर्यवंशी ने कहा और ईशान ने मान ली बात, फिर DRS में हुआ 'चमत्कार'](https://www.aajtak.in/sports/cricket/story/vaibhav-sooryavanshi-le-lo-drs-ishan-kishan-duleep-trophy-final-video-tspok-dskc-2638689-2026-09-08)
+- [Radhakrishna Vikhe Patil on Manoj jarange Patil: मोठी बातमी: मनोज जरांगेंच्या भेटीसाठी आता सरकारचे शिष्टमंडळ जाणार नाही, विखे पाटलांचं मोठं वक्तव्य; म्हणाले, सरकार एक पाऊल पुढे येत असेल तर...](https://marathi.abplive.com/news/politics/radhakrishna-vikhe-patil-big-statement-government-delegation-will-not-meet-manoj-jarange-patil-maratha-reservation-marathi-news-1438422)
+- [‘Bigg Boss 20’ contestant Mary Kom’s Faridabad house: A look into the star’s cosy ‘Ebenezer Inn’](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-20-contestant-mary-koms-faridabad-house-a-look-into-the-stars-cosy-ebenezer-inn/photostory/133914075.cms)
+- [নতুন মিতসুবিশি পাজেরো বাজারে আসার পর থেকেই গ্রাহকদের আকৃষ্ট করছে।](https://www.vietnam.vn/bn/mitsubishi-pajero-doi-moi-hut-khach-khi-vua-ra-mat)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
