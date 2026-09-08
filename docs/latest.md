@@ -1,11 +1,11 @@
-# India Trending Report — 2026-09-08 20:35:37
+# India Trending Report — 2026-09-08 21:01:57
 
 ## Google Trends (India) — top trending searches
-1. [real betis](https://trends.google.com/trending/rss?geo=IN)
+1. [allan](https://trends.google.com/trending/rss?geo=IN)
 2. [carlos espí](https://trends.google.com/trending/rss?geo=IN)
 3. [marc bartra](https://trends.google.com/trending/rss?geo=IN)
-4. [william gomes](https://trends.google.com/trending/rss?geo=IN)
-5. [football match](https://trends.google.com/trending/rss?geo=IN)
+4. [football match](https://trends.google.com/trending/rss?geo=IN)
+5. [william gomes](https://trends.google.com/trending/rss?geo=IN)
 6. [jobe bellingham](https://trends.google.com/trending/rss?geo=IN)
 7. [vinícius júnior](https://trends.google.com/trending/rss?geo=IN)
 8. [ayase ueda](https://trends.google.com/trending/rss?geo=IN)
@@ -14,15 +14,15 @@
 
 ## Latest headlines by outlet
 **Times of India**
+- [Iran launched fresh attack on US navy ships Monday amid China, Russia aid fears](https://timesofindia.indiatimes.com/world/middle-east/iran-launched-another-attack-on-us-navy-ships-monday-with-fears-of-china-russia-aid-report/articleshow/133941040.cms)
 - [Over 600 flights cancelled as air traffic control glitch disrupts UK airports](https://timesofindia.indiatimes.com/world/europe/nearly-300-flights-cancelled-across-uk-after-air-traffic-control-glitch-major-airports-hit/articleshow/133932658.cms)
 - [Strategic autonomy in motion as India hosts Brics summit](https://timesofindia.indiatimes.com/india/strategic-autonomy-in-motion-as-india-hosts-brics-summit/articleshow/133940862.cms)
-- [Former Delhi chief secretary Rakesh Mehta dies by suicide at Noida residence](https://timesofindia.indiatimes.com/india/former-delhi-chief-secretary-rakesh-mehta-found-hanging-at-noida-residence-dies-by-suicide/articleshow/133934797.cms)
 - [‘Convicted or not convicted’: Wasim Akram breaks silence on Imran Khan’s health](https://timesofindia.indiatimes.com/sports/cricket/news/convicted-or-not-convicted-wasim-akram-breaks-silence-on-imran-khans-health-i-miss-him-a-lot/articleshow/133929616.cms)
-- [India, Japan to conduct two-week air exercise Veer Guardian in Jodhpur from today](https://timesofindia.indiatimes.com/defence/news/india-japan-to-conduct-two-week-air-exercise-veer-guardian-2026-in-jodhpur-from-today/articleshow/133940712.cms)
+- [Former Delhi chief secretary Rakesh Mehta dies by suicide at Noida residence](https://timesofindia.indiatimes.com/india/former-delhi-chief-secretary-rakesh-mehta-found-hanging-at-noida-residence-dies-by-suicide/articleshow/133934797.cms)
 - [Uber's layoff memo also has a work from home message for remaining 29,000 employees](https://timesofindia.indiatimes.com/technology/tech-news/ubers-layoff-memo-also-has-a-work-from-home-message-for-the-remaining-29000-employees-were-establishing-clearer-principles-for-where-roles-and-teams-should-/articleshow/133916866.cms)
+- [India, Japan to conduct two-week air exercise Veer Guardian in Jodhpur from today](https://timesofindia.indiatimes.com/defence/news/india-japan-to-conduct-two-week-air-exercise-veer-guardian-2026-in-jodhpur-from-today/articleshow/133940712.cms)
 - [Why just Russian oil? US supplies over 50% of India’s LPG imports - what it means](https://timesofindia.indiatimes.com/business/india-business/why-just-russian-oil-us-supplies-over-50-of-indias-lpg-imports-what-it-means/articleshow/133926992.cms)
 - [Channi vs Warring: Why Sachin Pilot may be Congress's best bet in Punjab](https://timesofindia.indiatimes.com/india/channi-vs-warring-why-sachin-pilot-may-be-congresss-best-bet-in-punjab/articleshow/133926189.cms)
-- [Ladakh LG taps 90 million litres of glacial water after village head's appeal](https://timesofindia.indiatimes.com/india/village-heads-appeal-drove-ladakh-lgs-initiative-to-tap-90-million-litres-of-glacial-water-for-irrigation/articleshow/133938147.cms)
 - [Apple iPhone 18 Pro, Ultra launch on September 9: Expected specifications, price](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-iphone-ultra-to-launch-on-september-9-likely-specifications-and-price/articleshow/133909359.cms)
 
 **NDTV**
@@ -74,6 +74,7 @@
 - [Tension as police raid Shyam Institute, case against Director Shyam, 20 students in Kakinada](https://www.thehindu.com/news/national/andhra-pradesh/tension-as-police-raid-shyam-institute-case-against-director-shyam-20-students-in-kakinada/article71443752.ece)
 
 **Livemint**
+- [Iran claims US missile hit tanker near Kharg island; IRGC says MQ-1 drone downed over Strait of Hormuz](https://www.livemint.com/news/world/iran-claims-us-missile-hit-tanker-near-kharg-island-irgc-says-mq-1-drone-downed-over-strait-of-hormuz-11788898120584.html)
 - [Netanyahu was warned about Hamas attack days before October 7. He did nothing — New book makes explosive claim](https://www.livemint.com/news/us-news/netanyahu-was-warned-about-hamas-attack-days-before-october-7-he-did-nothing-new-book-makes-explosive-claim-11788895305397.html)
 - [Russian store robot video viral: Humanoid ‘attacks’ customer after being pushed](https://www.livemint.com/news/trends/russian-store-robot-video-viral-humanoid-attacks-customer-after-being-pushed-11788893770623.html)
 - [Bengaluru CEO reveals how hectic work schedule left him in ICU for 4 months: ‘Sunday was just a slower Monday’](https://www.livemint.com/news/trends/bengaluru-ceo-reveals-how-hectic-work-schedule-left-him-in-icu-for-4-months-sunday-was-just-a-slower-monday-11788889765479.html)
@@ -83,7 +84,6 @@
 - [Trump, Putin hold hour-long phone call on Ukraine war; US seeks to revive stalled peace talks](https://www.livemint.com/news/us-news/trump-putin-hold-hour-long-phone-call-on-ukraine-war-us-seeks-to-revive-stalled-peace-talks-11788882716964.html)
 - [Major UK ATC failure cancels 300 flights: Heathrow, Manchester hit; EasyJet, British Airways warn of delays](https://www.livemint.com/news/world/uk-airports-ground-flights-over-air-traffic-control-issue-easyjet-british-airways-heathrow-gatwick-manchester-11788881979362.html)
 - [Tukaram Mundhe action in Mumbai: Cockroach infestation & more - What FDA found at IRCTC-linked kitchen, ISKCON Juhu](https://www.livemint.com/news/india/tukaram-mundhe-action-in-mumbai-cockroach-infestation-more-what-fda-found-at-irctc-linked-kitchen-iskcon-juhu-11788877667161.html)
-- [PM Modi urges fintech sector to expand beyond UPI into savings, credit and insurance](https://www.livemint.com/news/india/pm-modi-fintech-global-fintech-fest-upi-11788877570482.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -104,31 +104,31 @@
 - Delhi (4.1)
 - Former Delhi (3.0)
 - Rakesh Mehta (3.0)
+- Iran (2.6)
+- Monday (2.6)
+- China (2.6)
 - Noida (2.6)
 - Russian (2.6)
 - Channi (2.6)
 - September (2.6)
 - October (2.6)
 - Satya Niketan (2.0)
-- PM Modi (2.0)
 - Punjab (1.9)
 - Minister (1.9)
-- Congress (1.6)
-- Odisha (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Manoj Jarange Patil and Radhakrishna Vikhe Patil: तुझ्या सात पिढ्या राजकारणात असल्या तरी मी जरांगे आहे, उखडून टाकू; मनोज जरांगे पाटील विखे-पाटलांवर संतापले](https://marathi.abplive.com/news/politics/manoj-jarange-patil-slams-devendra-fadnavis-and-radhakrishna-vikhe-patil-maratha-reservation-maratha-kunbi-1438433)
-- [Manipuri Musician Chongtham Vikram Singh Killed: खळबळजनक! संगीतकार कचरा टाकायला गेला अन् सुरू असलेल्या गोंगाटावर आक्षेप नोंदवला, टोळक्यानं तिसऱ्या मजल्यापर्यंत पाठलाग करुन संपवलं](https://marathi.abplive.com/entertainment/manipuri-musician-chongtham-vikram-singh-killed-in-delhi-by-beating-crime-marathi-news-1438436)
-- [அக்.6இல் மதுராந்தகம், தாராபுரம் தொகுதிகளுக்கு இடைத்தேர்தல் அறிவிப்பு!](https://viduthalai.in/205400/%E0%AE%85%E0%AE%95%E0%AF%8D-6%E0%AE%87%E0%AE%B2%E0%AF%8D-%E0%AE%AE%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%95%E0%AE%AE%E0%AF%8D-%E0%AE%A4%E0%AE%BE%E0%AE%B0%E0%AE%BE/)
-- [சட்டமன்றத்தில் முதலமைச்சர் 'பதிலுரையில்' எந்தப் பதிலும் இல்லை! கூட்டணிக் கட்சி சி.பி.எம். காட்டம்!](https://viduthalai.in/205408/%E0%AE%9A%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AE%AE%E0%AF%88%E0%AE%9A-3/)
-- [സ്കൂൾ അസംബ്ലികളും മറ്റ് പരിപാടികളും ഒഴിവാക്കണം, 11 മുതൽ 3 വരെ പ്രത്യേകം ശ്രദ്ധിക്കുക: ജാഗ്രതാ നിർദേശങ്ങൾ](https://www.manoramaonline.com/district-news/thiruvananthapuram/2026/09/08/kerala-heatwave-alert.html)
-- [Vaibhav Sooryavanshi : अवघ्या 15 वर्षांच्या वैभवने डोक लावलं, ईशान किशनने DRS घेतला आणि विकेट मिळाली; सगळे हैराण, पाहा VIDEO](https://marathi.abplive.com/sports/cricket/vaibhav-sooryavanshi-urges-ishan-kishan-to-take-drs-duleep-trophy-final-call-proves-spot-on-marathi-news-1438432)
-- [सहारनपुर मस्जिद मामले में सीएम योगी पर अभद्र टिप्पणी, यूट्यूबर हुदा जरीवाला भेजी गईं जेल](https://navbharattimes.indiatimes.com/state/uttar-pradesh/saharanpur/woman-arrested-creating-ruckus-circuit-house-sent-jail/articleshow/133916016.cms)
-- [Suvendu Adhikari : খারাপ আবহাওয়া, কালিম্পঙে নামতেই পারল না শুভেন্দুর হেলিকপ্টার; উত্তরকন্যায় অবতরণ](https://bangla.aajtak.in/west-bengal/north-bengal-news/story/bengal-cm-suvendu-adhikari-helicopter-returns-to-bagdogra-due-to-bad-weather-kalimpong-hills-visit-cancelled-suk-1448073-2026-09-08)
-- [Vaishnavi Chaitanya: ‘బేబీ’ గుర్తుకు రాకపోతే ‘ఎపిక్’లో మేం సక్సెస్ అయినట్టే...](https://www.chitrajyothy.com/2026/tollywood/chitchat-with-vaishnavi-chaitanya-about-epic-avm-75205.html)
-- [BRICS Summit 2026: बांग्लादेश के PM तारिक रहमान की भारत से 'बेरुखी' पर बोले एक्सपर्ट- दोस्ती थोपी नहीं जा सकती](https://navbharattimes.indiatimes.com/india/bangladesh-pm-tarique-rahman-approach-on-india-brics-friendship-cannot-be-forced-experts/articleshow/133916141.cms)
+- [कल का मौसम 9 सितंबर: 18 घंटे के भीतर 21 राज्यों में मूसलाधार बारिश का अलर्ट, 75 की स्पीड से हवा; IMD का अपडेट](https://navbharattimes.indiatimes.com/india/tomorrow-weather-9-september-2026-thunderstorm-and-heavy-rain-alert-in-21-states-within-18-hours-wind-speed-up-to-75-kmph-delhi-up-bihar-temperature/articleshow/133916834.cms)
+- [Ganeshotsav ST Bus Booking: कोकणवासीयांसाठी एसटीची खुशखबर; पुणे विभागातील १७३ विशेष बसचे बुकिंग फुल्ल](https://pudhari.news/maharashtra/pune/ganeshotsav-st-bus-booking-pune-konkan-173-buses-sk04)
+- [सऊदी अरब का एयरपोर्ट, एयरबेस और रिफाइनरी तबाह... हूतियों ने घुसकर मारा, ये मक्का पैक्ट का पहला इम्तिहान है](https://www.aajtak.in/world/story/houthi-attack-in-saudi-arabia-yemen-aramco-refinery-mecca-pact-ntcppl-dskc-2638754-2026-09-08)
+- [9/11 Attacks: 9/11 దాడులు.. ట్విన్‌ టవర్స్‌ కూలిన తర్వాత నెలల పాటు గాల్లో క్యాన్సర్‌ కారకాలు..](https://www.eenadu.net/telugu-news/world/documents-suggest-air-quality-dangerous-after-9-11-attacks/0801/126162257)
+- [புதிய கிரெடிட் கார்ட்டை அறிமுகப்படுத்திய பந்தன் வங்கி, கிடுகிடுவென உயரும் பங்கு விலை](https://tamil.economictimes.com/news/business/bandhan-bank-introduces-new-credit-card-shares-rise-by-4/articleshow/133917257.cms)
+- [വിജയ്‌യുടെ ആരോപണത്തിൽ തമിഴ്നാട് നിയമസഭയിൽ പ്രതിഷേധവുമായി ഡിഎംകെ പ്രവർത്തകർ; പരാമര്‍ശം പിന്‍വലിക്കണം എന്നാവശ്യം](https://www.reporterlive.com/topnews/national/2026/09/08/vijay-corruption-allegations-dmk-tamil-nadu-assembly-protest)
+- [Ladakh-Centre talks to resume after government’s confidence-building measures](https://www.thehindu.com/news/national/ladakh-centre-talks-on-september-9-amid-series-of-confidence-building-measures/article71441821.ece)
+- [Humayun Kabir : নন্দীগ্রামে বিজেপিই জিতবে ! বলে দিলেন হুমায়ুন, রেজিনগরে হাওয়া কোনদিকে? বিধায়ক বললেন ...](https://bengali.abplive.com/district/humayun-kabir-predict-bjp-win-in-nandigram-bypoll-what-about-rejinagar-1192052)
+- [PM मोदी ने की NDA की मीटिंग? कौन पहुंचा; कैबिनेट फेरबदल की अटकलें फिर तेज](https://www.livehindustan.com/national/pm-modi-meeting-with-ministers-of-state-amid-speculations-of-cabinet-reshuffle-201788857109052.html)
+- [सत्य निकेतन बिल्डिंग हादसा: दिल्ली की पांच मंज़िला इमारतों को लेकर सीएम की अहम घोषणा](https://www.bbc.com/hindi/articles/cj6411l2385o)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._

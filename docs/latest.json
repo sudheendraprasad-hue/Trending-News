@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-08 20:35:37",
+  "generated_at": "2026-09-08 21:01:57",
   "google_trends": [
     {
-      "title": "real betis",
+      "title": "allan",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
@@ -17,12 +17,12 @@
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "william gomes",
+      "title": "football match",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "football match",
+      "title": "william gomes",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
@@ -55,6 +55,10 @@
   "outlets": {
     "Times of India": [
       {
+        "title": "Iran launched fresh attack on US navy ships Monday amid China, Russia aid fears",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-launched-another-attack-on-us-navy-ships-monday-with-fears-of-china-russia-aid-report/articleshow/133941040.cms"
+      },
+      {
         "title": "Over 600 flights cancelled as air traffic control glitch disrupts UK airports",
         "link": "https://timesofindia.indiatimes.com/world/europe/nearly-300-flights-cancelled-across-uk-after-air-traffic-control-glitch-major-airports-hit/articleshow/133932658.cms"
       },
@@ -63,20 +67,20 @@
         "link": "https://timesofindia.indiatimes.com/india/strategic-autonomy-in-motion-as-india-hosts-brics-summit/articleshow/133940862.cms"
       },
       {
-        "title": "Former Delhi chief secretary Rakesh Mehta dies by suicide at Noida residence",
-        "link": "https://timesofindia.indiatimes.com/india/former-delhi-chief-secretary-rakesh-mehta-found-hanging-at-noida-residence-dies-by-suicide/articleshow/133934797.cms"
-      },
-      {
         "title": "\u2018Convicted or not convicted\u2019: Wasim Akram breaks silence on Imran Khan\u2019s health",
         "link": "https://timesofindia.indiatimes.com/sports/cricket/news/convicted-or-not-convicted-wasim-akram-breaks-silence-on-imran-khans-health-i-miss-him-a-lot/articleshow/133929616.cms"
       },
       {
-        "title": "India, Japan to conduct two-week air exercise Veer Guardian in Jodhpur from today",
-        "link": "https://timesofindia.indiatimes.com/defence/news/india-japan-to-conduct-two-week-air-exercise-veer-guardian-2026-in-jodhpur-from-today/articleshow/133940712.cms"
+        "title": "Former Delhi chief secretary Rakesh Mehta dies by suicide at Noida residence",
+        "link": "https://timesofindia.indiatimes.com/india/former-delhi-chief-secretary-rakesh-mehta-found-hanging-at-noida-residence-dies-by-suicide/articleshow/133934797.cms"
       },
       {
         "title": "Uber's layoff memo also has a work from home message for remaining 29,000 employees",
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/ubers-layoff-memo-also-has-a-work-from-home-message-for-the-remaining-29000-employees-were-establishing-clearer-principles-for-where-roles-and-teams-should-/articleshow/133916866.cms"
+      },
+      {
+        "title": "India, Japan to conduct two-week air exercise Veer Guardian in Jodhpur from today",
+        "link": "https://timesofindia.indiatimes.com/defence/news/india-japan-to-conduct-two-week-air-exercise-veer-guardian-2026-in-jodhpur-from-today/articleshow/133940712.cms"
       },
       {
         "title": "Why just Russian oil? US supplies over 50% of India\u2019s LPG imports - what it means",
@@ -85,10 +89,6 @@
       {
         "title": "Channi vs Warring: Why Sachin Pilot may be Congress's best bet in Punjab",
         "link": "https://timesofindia.indiatimes.com/india/channi-vs-warring-why-sachin-pilot-may-be-congresss-best-bet-in-punjab/articleshow/133926189.cms"
-      },
-      {
-        "title": "Ladakh LG taps 90 million litres of glacial water after village head's appeal",
-        "link": "https://timesofindia.indiatimes.com/india/village-heads-appeal-drove-ladakh-lgs-initiative-to-tap-90-million-litres-of-glacial-water-for-irrigation/articleshow/133938147.cms"
       },
       {
         "title": "Apple iPhone 18 Pro, Ultra launch on September 9: Expected specifications, price",
@@ -265,6 +265,10 @@
     ],
     "Livemint": [
       {
+        "title": "Iran claims US missile hit tanker near Kharg island; IRGC says MQ-1 drone downed over Strait of Hormuz",
+        "link": "https://www.livemint.com/news/world/iran-claims-us-missile-hit-tanker-near-kharg-island-irgc-says-mq-1-drone-downed-over-strait-of-hormuz-11788898120584.html"
+      },
+      {
         "title": "Netanyahu was warned about Hamas attack days before October 7. He did nothing \u2014 New book makes explosive claim",
         "link": "https://www.livemint.com/news/us-news/netanyahu-was-warned-about-hamas-attack-days-before-october-7-he-did-nothing-new-book-makes-explosive-claim-11788895305397.html"
       },
@@ -299,10 +303,6 @@
       {
         "title": "Tukaram Mundhe action in Mumbai: Cockroach infestation & more - What FDA found at IRCTC-linked kitchen, ISKCON Juhu",
         "link": "https://www.livemint.com/news/india/tukaram-mundhe-action-in-mumbai-cockroach-infestation-more-what-fda-found-at-irctc-linked-kitchen-iskcon-juhu-11788877667161.html"
-      },
-      {
-        "title": "PM Modi urges fintech sector to expand beyond UPI into savings, credit and insurance",
-        "link": "https://www.livemint.com/news/india/pm-modi-fintech-global-fintech-fest-upi-11788877570482.html"
       }
     ],
     "Moneycontrol": [],
@@ -367,6 +367,18 @@
       "score": 3
     },
     {
+      "term": "Iran",
+      "score": 2.6
+    },
+    {
+      "term": "Monday",
+      "score": 2.6
+    },
+    {
+      "term": "China",
+      "score": 2.6
+    },
+    {
       "term": "Noida",
       "score": 2.6
     },
@@ -391,67 +403,55 @@
       "score": 2
     },
     {
-      "term": "PM Modi",
-      "score": 2
-    },
-    {
       "term": "Punjab",
       "score": 1.9
     },
     {
       "term": "Minister",
       "score": 1.9
-    },
-    {
-      "term": "Congress",
-      "score": 1.6
-    },
-    {
-      "term": "Odisha",
-      "score": 1.6
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "Manoj Jarange Patil and Radhakrishna Vikhe Patil: \u0924\u0941\u091d\u094d\u092f\u093e \u0938\u093e\u0924 \u092a\u093f\u0922\u094d\u092f\u093e \u0930\u093e\u091c\u0915\u093e\u0930\u0923\u093e\u0924 \u0905\u0938\u0932\u094d\u092f\u093e \u0924\u0930\u0940 \u092e\u0940 \u091c\u0930\u093e\u0902\u0917\u0947 \u0906\u0939\u0947, \u0909\u0916\u0921\u0942\u0928 \u091f\u093e\u0915\u0942; \u092e\u0928\u094b\u091c \u091c\u0930\u093e\u0902\u0917\u0947 \u092a\u093e\u091f\u0940\u0932 \u0935\u093f\u0916\u0947-\u092a\u093e\u091f\u0932\u093e\u0902\u0935\u0930 \u0938\u0902\u0924\u093e\u092a\u0932\u0947",
-      "link": "https://marathi.abplive.com/news/politics/manoj-jarange-patil-slams-devendra-fadnavis-and-radhakrishna-vikhe-patil-maratha-reservation-maratha-kunbi-1438433"
+      "title": "\u0915\u0932 \u0915\u093e \u092e\u094c\u0938\u092e 9 \u0938\u093f\u0924\u0902\u092c\u0930: 18 \u0918\u0902\u091f\u0947 \u0915\u0947 \u092d\u0940\u0924\u0930 21 \u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u092e\u0947\u0902 \u092e\u0942\u0938\u0932\u093e\u0927\u093e\u0930 \u092c\u093e\u0930\u093f\u0936 \u0915\u093e \u0905\u0932\u0930\u094d\u091f, 75 \u0915\u0940 \u0938\u094d\u092a\u0940\u0921 \u0938\u0947 \u0939\u0935\u093e; IMD \u0915\u093e \u0905\u092a\u0921\u0947\u091f",
+      "link": "https://navbharattimes.indiatimes.com/india/tomorrow-weather-9-september-2026-thunderstorm-and-heavy-rain-alert-in-21-states-within-18-hours-wind-speed-up-to-75-kmph-delhi-up-bihar-temperature/articleshow/133916834.cms"
     },
     {
-      "title": "Manipuri Musician Chongtham Vikram Singh Killed: \u0916\u0933\u092c\u0933\u091c\u0928\u0915! \u0938\u0902\u0917\u0940\u0924\u0915\u093e\u0930 \u0915\u091a\u0930\u093e \u091f\u093e\u0915\u093e\u092f\u0932\u093e \u0917\u0947\u0932\u093e \u0905\u0928\u094d \u0938\u0941\u0930\u0942 \u0905\u0938\u0932\u0947\u0932\u094d\u092f\u093e \u0917\u094b\u0902\u0917\u093e\u091f\u093e\u0935\u0930 \u0906\u0915\u094d\u0937\u0947\u092a \u0928\u094b\u0902\u0926\u0935\u0932\u093e, \u091f\u094b\u0933\u0915\u094d\u092f\u093e\u0928\u0902 \u0924\u093f\u0938\u0931\u094d\u092f\u093e \u092e\u091c\u0932\u094d\u092f\u093e\u092a\u0930\u094d\u092f\u0902\u0924 \u092a\u093e\u0920\u0932\u093e\u0917 \u0915\u0930\u0941\u0928 \u0938\u0902\u092a\u0935\u0932\u0902",
-      "link": "https://marathi.abplive.com/entertainment/manipuri-musician-chongtham-vikram-singh-killed-in-delhi-by-beating-crime-marathi-news-1438436"
+      "title": "Ganeshotsav ST Bus Booking: \u0915\u094b\u0915\u0923\u0935\u093e\u0938\u0940\u092f\u093e\u0902\u0938\u093e\u0920\u0940 \u090f\u0938\u091f\u0940\u091a\u0940 \u0916\u0941\u0936\u0916\u092c\u0930; \u092a\u0941\u0923\u0947 \u0935\u093f\u092d\u093e\u0917\u093e\u0924\u0940\u0932 \u0967\u096d\u0969 \u0935\u093f\u0936\u0947\u0937 \u092c\u0938\u091a\u0947 \u092c\u0941\u0915\u093f\u0902\u0917 \u092b\u0941\u0932\u094d\u0932",
+      "link": "https://pudhari.news/maharashtra/pune/ganeshotsav-st-bus-booking-pune-konkan-173-buses-sk04"
     },
     {
-      "title": "\u0b85\u0b95\u0bcd.6\u0b87\u0bb2\u0bcd \u0bae\u0ba4\u0bc1\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0b95\u0bae\u0bcd, \u0ba4\u0bbe\u0bb0\u0bbe\u0baa\u0bc1\u0bb0\u0bae\u0bcd \u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1!",
-      "link": "https://viduthalai.in/205400/%E0%AE%85%E0%AE%95%E0%AF%8D-6%E0%AE%87%E0%AE%B2%E0%AF%8D-%E0%AE%AE%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%95%E0%AE%AE%E0%AF%8D-%E0%AE%A4%E0%AE%BE%E0%AE%B0%E0%AE%BE/"
+      "title": "\u0938\u090a\u0926\u0940 \u0905\u0930\u092c \u0915\u093e \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f, \u090f\u092f\u0930\u092c\u0947\u0938 \u0914\u0930 \u0930\u093f\u092b\u093e\u0907\u0928\u0930\u0940 \u0924\u092c\u093e\u0939... \u0939\u0942\u0924\u093f\u092f\u094b\u0902 \u0928\u0947 \u0918\u0941\u0938\u0915\u0930 \u092e\u093e\u0930\u093e, \u092f\u0947 \u092e\u0915\u094d\u0915\u093e \u092a\u0948\u0915\u094d\u091f \u0915\u093e \u092a\u0939\u0932\u093e \u0907\u092e\u094d\u0924\u093f\u0939\u093e\u0928 \u0939\u0948",
+      "link": "https://www.aajtak.in/world/story/houthi-attack-in-saudi-arabia-yemen-aramco-refinery-mecca-pact-ntcppl-dskc-2638754-2026-09-08"
     },
     {
-      "title": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd '\u0baa\u0ba4\u0bbf\u0bb2\u0bc1\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd' \u0b8e\u0ba8\u0bcd\u0ba4\u0baa\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8! \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba3\u0bbf\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b9a\u0bbf.\u0baa\u0bbf.\u0b8e\u0bae\u0bcd. \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd!",
-      "link": "https://viduthalai.in/205408/%E0%AE%9A%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AE%AE%E0%AF%88%E0%AE%9A-3/"
+      "title": "9/11 Attacks: 9/11 \u0c26\u0c3e\u0c21\u0c41\u0c32\u0c41.. \u0c1f\u0c4d\u0c35\u0c3f\u0c28\u0c4d\u200c \u0c1f\u0c35\u0c30\u0c4d\u0c38\u0c4d\u200c \u0c15\u0c42\u0c32\u0c3f\u0c28 \u0c24\u0c30\u0c4d\u0c35\u0c3e\u0c24 \u0c28\u0c46\u0c32\u0c32 \u0c2a\u0c3e\u0c1f\u0c41 \u0c17\u0c3e\u0c32\u0c4d\u0c32\u0c4b \u0c15\u0c4d\u0c2f\u0c3e\u0c28\u0c4d\u0c38\u0c30\u0c4d\u200c \u0c15\u0c3e\u0c30\u0c15\u0c3e\u0c32\u0c41..",
+      "link": "https://www.eenadu.net/telugu-news/world/documents-suggest-air-quality-dangerous-after-9-11-attacks/0801/126162257"
     },
     {
-      "title": "\u0d38\u0d4d\u0d15\u0d42\u0d7e \u0d05\u0d38\u0d02\u0d2c\u0d4d\u0d32\u0d3f\u0d15\u0d33\u0d41\u0d02 \u0d2e\u0d31\u0d4d\u0d31\u0d4d \u0d2a\u0d30\u0d3f\u0d2a\u0d3e\u0d1f\u0d3f\u0d15\u0d33\u0d41\u0d02 \u0d12\u0d34\u0d3f\u0d35\u0d3e\u0d15\u0d4d\u0d15\u0d23\u0d02, 11 \u0d2e\u0d41\u0d24\u0d7d 3 \u0d35\u0d30\u0d46 \u0d2a\u0d4d\u0d30\u0d24\u0d4d\u0d2f\u0d47\u0d15\u0d02 \u0d36\u0d4d\u0d30\u0d26\u0d4d\u0d27\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d15: \u0d1c\u0d3e\u0d17\u0d4d\u0d30\u0d24\u0d3e \u0d28\u0d3f\u0d7c\u0d26\u0d47\u0d36\u0d19\u0d4d\u0d19\u0d7e",
-      "link": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2026/09/08/kerala-heatwave-alert.html"
+      "title": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0bbf\u0bb0\u0bc6\u0b9f\u0bbf\u0b9f\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bc8 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0ba8\u0bcd\u0ba4\u0ba9\u0bcd \u0bb5\u0b99\u0bcd\u0b95\u0bbf, \u0b95\u0bbf\u0b9f\u0bc1\u0b95\u0bbf\u0b9f\u0bc1\u0bb5\u0bc6\u0ba9 \u0b89\u0baf\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8",
+      "link": "https://tamil.economictimes.com/news/business/bandhan-bank-introduces-new-credit-card-shares-rise-by-4/articleshow/133917257.cms"
     },
     {
-      "title": "Vaibhav Sooryavanshi : \u0905\u0935\u0918\u094d\u092f\u093e 15 \u0935\u0930\u094d\u0937\u093e\u0902\u091a\u094d\u092f\u093e \u0935\u0948\u092d\u0935\u0928\u0947 \u0921\u094b\u0915 \u0932\u093e\u0935\u0932\u0902, \u0908\u0936\u093e\u0928 \u0915\u093f\u0936\u0928\u0928\u0947 DRS \u0918\u0947\u0924\u0932\u093e \u0906\u0923\u093f \u0935\u093f\u0915\u0947\u091f \u092e\u093f\u0933\u093e\u0932\u0940; \u0938\u0917\u0933\u0947 \u0939\u0948\u0930\u093e\u0923, \u092a\u093e\u0939\u093e VIDEO",
-      "link": "https://marathi.abplive.com/sports/cricket/vaibhav-sooryavanshi-urges-ishan-kishan-to-take-drs-duleep-trophy-final-call-proves-spot-on-marathi-news-1438432"
+      "title": "\u0d35\u0d3f\u0d1c\u0d2f\u0d4d\u200c\u0d2f\u0d41\u0d1f\u0d46 \u0d06\u0d30\u0d4b\u0d2a\u0d23\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d24\u0d2e\u0d3f\u0d34\u0d4d\u0d28\u0d3e\u0d1f\u0d4d \u0d28\u0d3f\u0d2f\u0d2e\u0d38\u0d2d\u0d2f\u0d3f\u0d7d \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d37\u0d47\u0d27\u0d35\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d21\u0d3f\u0d0e\u0d02\u0d15\u0d46 \u0d2a\u0d4d\u0d30\u0d35\u0d7c\u0d24\u0d4d\u0d24\u0d15\u0d7c; \u0d2a\u0d30\u0d3e\u0d2e\u0d30\u0d4d\u200d\u0d36\u0d02 \u0d2a\u0d3f\u0d28\u0d4d\u200d\u0d35\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d02 \u0d0e\u0d28\u0d4d\u0d28\u0d3e\u0d35\u0d36\u0d4d\u0d2f\u0d02",
+      "link": "https://www.reporterlive.com/topnews/national/2026/09/08/vijay-corruption-allegations-dmk-tamil-nadu-assembly-protest"
     },
     {
-      "title": "\u0938\u0939\u093e\u0930\u0928\u092a\u0941\u0930 \u092e\u0938\u094d\u091c\u093f\u0926 \u092e\u093e\u092e\u0932\u0947 \u092e\u0947\u0902 \u0938\u0940\u090f\u092e \u092f\u094b\u0917\u0940 \u092a\u0930 \u0905\u092d\u0926\u094d\u0930 \u091f\u093f\u092a\u094d\u092a\u0923\u0940, \u092f\u0942\u091f\u094d\u092f\u0942\u092c\u0930 \u0939\u0941\u0926\u093e \u091c\u0930\u0940\u0935\u093e\u0932\u093e \u092d\u0947\u091c\u0940 \u0917\u0908\u0902 \u091c\u0947\u0932",
-      "link": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/saharanpur/woman-arrested-creating-ruckus-circuit-house-sent-jail/articleshow/133916016.cms"
+      "title": "Ladakh-Centre talks to resume after government\u2019s confidence-building measures",
+      "link": "https://www.thehindu.com/news/national/ladakh-centre-talks-on-september-9-amid-series-of-confidence-building-measures/article71441821.ece"
     },
     {
-      "title": "Suvendu Adhikari : \u0996\u09be\u09b0\u09be\u09aa \u0986\u09ac\u09b9\u09be\u0993\u09df\u09be, \u0995\u09be\u09b2\u09bf\u09ae\u09cd\u09aa\u0999\u09c7 \u09a8\u09be\u09ae\u09a4\u09c7\u0987 \u09aa\u09be\u09b0\u09b2 \u09a8\u09be \u09b6\u09c1\u09ad\u09c7\u09a8\u09cd\u09a6\u09c1\u09b0 \u09b9\u09c7\u09b2\u09bf\u0995\u09aa\u09cd\u099f\u09be\u09b0; \u0989\u09a4\u09cd\u09a4\u09b0\u0995\u09a8\u09cd\u09af\u09be\u09df \u0985\u09ac\u09a4\u09b0\u09a3",
-      "link": "https://bangla.aajtak.in/west-bengal/north-bengal-news/story/bengal-cm-suvendu-adhikari-helicopter-returns-to-bagdogra-due-to-bad-weather-kalimpong-hills-visit-cancelled-suk-1448073-2026-09-08"
+      "title": "Humayun Kabir : \u09a8\u09a8\u09cd\u09a6\u09c0\u0997\u09cd\u09b0\u09be\u09ae\u09c7 \u09ac\u09bf\u099c\u09c7\u09aa\u09bf\u0987 \u099c\u09bf\u09a4\u09ac\u09c7 ! \u09ac\u09b2\u09c7 \u09a6\u09bf\u09b2\u09c7\u09a8 \u09b9\u09c1\u09ae\u09be\u09df\u09c1\u09a8, \u09b0\u09c7\u099c\u09bf\u09a8\u0997\u09b0\u09c7 \u09b9\u09be\u0993\u09df\u09be \u0995\u09cb\u09a8\u09a6\u09bf\u0995\u09c7? \u09ac\u09bf\u09a7\u09be\u09df\u0995 \u09ac\u09b2\u09b2\u09c7\u09a8 ...",
+      "link": "https://bengali.abplive.com/district/humayun-kabir-predict-bjp-win-in-nandigram-bypoll-what-about-rejinagar-1192052"
     },
     {
-      "title": "Vaishnavi Chaitanya: \u2018\u0c2c\u0c47\u0c2c\u0c40\u2019 \u0c17\u0c41\u0c30\u0c4d\u0c24\u0c41\u0c15\u0c41 \u0c30\u0c3e\u0c15\u0c2a\u0c4b\u0c24\u0c47 \u2018\u0c0e\u0c2a\u0c3f\u0c15\u0c4d\u2019\u0c32\u0c4b \u0c2e\u0c47\u0c02 \u0c38\u0c15\u0c4d\u0c38\u0c46\u0c38\u0c4d \u0c05\u0c2f\u0c3f\u0c28\u0c1f\u0c4d\u0c1f\u0c47...",
-      "link": "https://www.chitrajyothy.com/2026/tollywood/chitchat-with-vaishnavi-chaitanya-about-epic-avm-75205.html"
+      "title": "PM \u092e\u094b\u0926\u0940 \u0928\u0947 \u0915\u0940 NDA \u0915\u0940 \u092e\u0940\u091f\u093f\u0902\u0917? \u0915\u094c\u0928 \u092a\u0939\u0941\u0902\u091a\u093e; \u0915\u0948\u092c\u093f\u0928\u0947\u091f \u092b\u0947\u0930\u092c\u0926\u0932 \u0915\u0940 \u0905\u091f\u0915\u0932\u0947\u0902 \u092b\u093f\u0930 \u0924\u0947\u091c",
+      "link": "https://www.livehindustan.com/national/pm-modi-meeting-with-ministers-of-state-amid-speculations-of-cabinet-reshuffle-201788857109052.html"
     },
     {
-      "title": "BRICS Summit 2026: \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u0915\u0947 PM \u0924\u093e\u0930\u093f\u0915 \u0930\u0939\u092e\u093e\u0928 \u0915\u0940 \u092d\u093e\u0930\u0924 \u0938\u0947 '\u092c\u0947\u0930\u0941\u0916\u0940' \u092a\u0930 \u092c\u094b\u0932\u0947 \u090f\u0915\u094d\u0938\u092a\u0930\u094d\u091f- \u0926\u094b\u0938\u094d\u0924\u0940 \u0925\u094b\u092a\u0940 \u0928\u0939\u0940\u0902 \u091c\u093e \u0938\u0915\u0924\u0940",
-      "link": "https://navbharattimes.indiatimes.com/india/bangladesh-pm-tarique-rahman-approach-on-india-brics-friendship-cannot-be-forced-experts/articleshow/133916141.cms"
+      "title": "\u0938\u0924\u094d\u092f \u0928\u093f\u0915\u0947\u0924\u0928 \u092c\u093f\u0932\u094d\u0921\u093f\u0902\u0917 \u0939\u093e\u0926\u0938\u093e: \u0926\u093f\u0932\u094d\u0932\u0940 \u0915\u0940 \u092a\u093e\u0902\u091a \u092e\u0902\u091c\u093c\u093f\u0932\u093e \u0907\u092e\u093e\u0930\u0924\u094b\u0902 \u0915\u094b \u0932\u0947\u0915\u0930 \u0938\u0940\u090f\u092e \u0915\u0940 \u0905\u0939\u092e \u0918\u094b\u0937\u0923\u093e",
+      "link": "https://www.bbc.com/hindi/articles/cj6411l2385o"
     }
   ],
   "twitter": null
