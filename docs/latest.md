@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-08 07:37:47
+# India Trending Report — 2026-09-08 07:41:58
 
 ## Google Trends (India) — top trending searches
 1. [తిరుపతి](https://trends.google.com/trending/rss?geo=IN)
@@ -38,6 +38,7 @@
 - [Mysuru Teacher Punches 16-Year-Old Student, Leaving Blood Clot In Eye](https://www.ndtv.com/karnataka-news/mysuru-teacher-punches-16-year-old-student-leaving-blood-clot-in-eye-12016245#publisher=newsstand)
 
 **Hindustan Times**
+- [BJP govt restored investor confidence in UP; no room for mafia: Adityanath](https://www.hindustantimes.com/india-news/bjp-govt-restored-investor-confidence-in-up-no-room-for-mafia-adityanath-101788852892450.html)
 - [Complaint for remarks against PM Modi: Bombay high court refuses to quash 2019 summons to Rahul Gandhi](https://www.hindustantimes.com/india-news/complaint-for-pm-modi-remarks-bombay-high-court-refuses-to-quash-2019-summons-to-rahul-gandhi-101788851591246.html)
 - [ED finds  ₹60cr ‘financial irregularities’ in TMC MP-linked newspaper during 24-hour-long searches](https://www.hindustantimes.com/india-news/ed-finds-rs-60cr-financial-irregularities-in-tmc-mp-linked-newspaper-during-24-hour-long-searches-101788850130865.html)
 - [ED writes to Kerala DGP seeking FIR against ex-CM Vijayan, daughter, son-in-law in CMRL case](https://www.hindustantimes.com/india-news/ed-writes-to-kerala-dgp-seeking-fir-against-ex-cm-vijayan-daughter-son-in-law-in-cmrl-case-101788849827137.html)
@@ -47,7 +48,6 @@
 - [Indore varsity announces 100 pc tuition fee waiver for ex-Agniveers](https://www.hindustantimes.com/india-news/indore-varsity-announces-100-pc-tuition-fee-waiver-for-exagniveers-101788847988157.html)
 - [Chongtham Vikram Singh murder: CCTV captures accused, calls for swift action grow, Rahul questions MHA](https://www.hindustantimes.com/india-news/chongtham-vikram-singh-murder-cctv-captures-accused-manipur-guitarist-rahul-gandhi-whats-mha-doing-101788839660967.html)
 - [HC refuses to urgently hear plea seeking more DU hostels amid PG collapse row: 'Unnecessarily you waste your own time'](https://www.hindustantimes.com/india-news/delhi-hc-refuses-to-urgently-hear-plea-seeking-more-du-hostels-amid-pg-collapse-row-satya-niketan-building-students-101788845438961.html)
-- [61-year-old Karnataka resident declared dead in draft voter roll visits officials](https://www.hindustantimes.com/india-news/sir-special-intensive-revision-bengaluru-karnataka-election-commission-voters-101788843133549.html)
 
 **Indian Express** — _unavailable_
 
@@ -117,8 +117,8 @@
 - [Bageshwar Baba: জমি জবরদখল, হুমকি দেওয়া, রাস্তা দখল, এমনকী গুলি চালানো - বাগেশ্বর বাবার বিরুদ্ধে অগুনতি অভিযোগ](https://bengali.abplive.com/district/kolkata-news-bageshwar-baba-non-veg-eating-controversy-land-grabbing-threats-road-encroachment-even-shooting-countless-allegations-against-bageshwar-baba-1192001)
 - [Scientists say ‘ultrafast magnetic-field pulses’ could help AI data centers cut their energy usage by 100x - and bring sizable improvements to RAM and data storage](https://tech.yahoo.com/science/articles/scientists-ultrafast-magnetic-field-pulses-190000925.html)
 - [புதுச்சேரியின் தட்டாஞ்சாவடி உட்பட 5 தொகுதிகளில் இடைத்தேர்தல்](https://www.hindutamil.in/news/tamilnadu/bypolls-to-be-held-in-5-puducherry-constituencies-including-thattanchavady)
+- [தமிழகத்தில் சட்டம் - ஒழுங்கு நிலவரம் சீர்குலையவில்லை: முதல்வர் விஜய்](https://www.dinamalar.com/news/tamil-nadu-news/no-law-and-order-situation-in-tamil-nadu-cm-vijay/4316870)
 - [மதுராந்தகம், தாராபுரத்துக்கு அக்.6-ல் இடைத்தேர்தல்: வேட்புமனு தாக்கல் நாளை தொடக்கம்](https://www.hindutamil.in/news/tamilnadu/madurantakam-dharapuram-bypolls-on-oct-6-nomination-filing-begins-tomorrow)
-- [బీఆర్‌ఎస్‌ ఎమ్మెల్యేలపై పోలీసుల దాడి దుర్మార్గం](https://www.andhrajyothy.com/2026/telangana/karimnagar/police-attack-on-brs-mlas-is-a-crime-1556149.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
