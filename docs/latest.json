@@ -1,13 +1,8 @@
 {
-  "generated_at": "2026-09-08 21:32:57",
+  "generated_at": "2026-09-08 22:02:37",
   "google_trends": [
     {
       "title": "rayan a\u00eft-nouri",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "serhou guirassy",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
@@ -32,11 +27,6 @@
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "football match",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
       "title": "william gomes",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
@@ -50,13 +40,27 @@
       "title": "vin\u00edcius j\u00fanior",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "gabri veiga",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "dortmund",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
     }
   ],
   "outlets": {
     "Times of India": [
       {
-        "title": "Iran launched fresh attack on US navy ships Monday amid China, Russia aid fears",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-launched-another-attack-on-us-navy-ships-monday-with-fears-of-china-russia-aid-report/articleshow/133941040.cms"
+        "title": "US strikes Iranian tankers near Kharg Island; Tehran threatens Gulf oil vessels",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/us-strikes-iranian-tankers-near-kharg-island-tehran-threatens-gulf-oil-vessels/articleshow/133942382.cms"
+      },
+      {
+        "title": "Strategic autonomy in motion as India hosts Brics summit",
+        "link": "https://timesofindia.indiatimes.com/india/strategic-autonomy-in-motion-as-india-hosts-brics-summit/articleshow/133940862.cms"
       },
       {
         "title": "Over 600 flights cancelled as air traffic control glitch disrupts UK airports",
@@ -67,32 +71,28 @@
         "link": "https://timesofindia.indiatimes.com/sports/cricket/news/convicted-or-not-convicted-wasim-akram-breaks-silence-on-imran-khans-health-i-miss-him-a-lot/articleshow/133929616.cms"
       },
       {
-        "title": "Strategic autonomy in motion as India hosts Brics summit",
-        "link": "https://timesofindia.indiatimes.com/india/strategic-autonomy-in-motion-as-india-hosts-brics-summit/articleshow/133940862.cms"
+        "title": "Former Delhi chief secretary Rakesh Mehta dies by suicide at Noida residence",
+        "link": "https://timesofindia.indiatimes.com/india/former-delhi-chief-secretary-rakesh-mehta-found-hanging-at-noida-residence-dies-by-suicide/articleshow/133934797.cms"
       },
       {
         "title": "Uber's layoff memo also has a work from home message for remaining 29,000 employees",
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/ubers-layoff-memo-also-has-a-work-from-home-message-for-the-remaining-29000-employees-were-establishing-clearer-principles-for-where-roles-and-teams-should-/articleshow/133916866.cms"
       },
       {
-        "title": "Former Delhi chief secretary Rakesh Mehta dies by suicide at Noida residence",
-        "link": "https://timesofindia.indiatimes.com/india/former-delhi-chief-secretary-rakesh-mehta-found-hanging-at-noida-residence-dies-by-suicide/articleshow/133934797.cms"
-      },
-      {
         "title": "India, Japan to conduct two-week air exercise Veer Guardian in Jodhpur from today",
         "link": "https://timesofindia.indiatimes.com/defence/news/india-japan-to-conduct-two-week-air-exercise-veer-guardian-2026-in-jodhpur-from-today/articleshow/133940712.cms"
       },
       {
-        "title": "Why just Russian oil? US supplies over 50% of India\u2019s LPG imports - what it means",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/why-just-russian-oil-us-supplies-over-50-of-indias-lpg-imports-what-it-means/articleshow/133926992.cms"
+        "title": "Iran launched fresh attack on US navy ships Monday amid China, Russia aid fears",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-launched-another-attack-on-us-navy-ships-monday-with-fears-of-china-russia-aid-report/articleshow/133941040.cms"
+      },
+      {
+        "title": "US targets Iran\u2019s entire aviation sector with fresh sanctions",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/us-sanctions-all-remaining-iranian-airlines-with-27-carriers-hit-in-fresh-action/articleshow/133941683.cms"
       },
       {
         "title": "Apple iPhone 18 Pro, Ultra launch on September 9: Expected specifications, price",
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-iphone-ultra-to-launch-on-september-9-likely-specifications-and-price/articleshow/133909359.cms"
-      },
-      {
-        "title": "Channi vs Warring: Why Sachin Pilot may be Congress's best bet in Punjab",
-        "link": "https://timesofindia.indiatimes.com/india/channi-vs-warring-why-sachin-pilot-may-be-congresss-best-bet-in-punjab/articleshow/133926189.cms"
       }
     ],
     "NDTV": [
@@ -223,6 +223,10 @@
     ],
     "The Hindu": [
       {
+        "title": "Odisha\u2019s rural work does not have adequate photographic evidence, says a draft audit report",
+        "link": "https://www.thehindu.com/news/national/odisha/odishas-rural-work-does-not-have-adequate-photographic-evidence-says-a-draft-audit-report/article71443035.ece"
+      },
+      {
         "title": "Probe ordered into police action against protesting Bhopal intern doctors",
         "link": "https://www.thehindu.com/news/national/madhya-pradesh/probe-ordered-after-water-cannon-alleged-lathicharge-at-protesting-intern-doctors-in-bhopal/article71444057.ece"
       },
@@ -257,10 +261,6 @@
       {
         "title": "Bihar Floods: water levels recede, but threat persists",
         "link": "https://www.thehindu.com/news/national/bihar/bihar-floods-water-levels-recede-but-threat-persists/article71443548.ece"
-      },
-      {
-        "title": "My area of joy in Madras was Egmore : Y. Gee Mahendra",
-        "link": "https://www.thehindu.com/news/cities/chennai/my-area-of-joy-in-madras-was-egmore-y-gee-mahendra/article71436283.ece"
       }
     ],
     "Livemint": [
@@ -352,11 +352,15 @@
   "keywords": [
     {
       "term": "India",
-      "score": 5.5
+      "score": 4.2
     },
     {
       "term": "Delhi",
       "score": 3.5
+    },
+    {
+      "term": "Iranian",
+      "score": 3.2
     },
     {
       "term": "Former Delhi",
@@ -367,6 +371,18 @@
       "score": 3
     },
     {
+      "term": "Iran",
+      "score": 2.9
+    },
+    {
+      "term": "Odisha",
+      "score": 2.9
+    },
+    {
+      "term": "Noida",
+      "score": 2.6
+    },
+    {
       "term": "Monday",
       "score": 2.6
     },
@@ -375,19 +391,7 @@
       "score": 2.6
     },
     {
-      "term": "Noida",
-      "score": 2.6
-    },
-    {
-      "term": "Russian",
-      "score": 2.6
-    },
-    {
       "term": "September",
-      "score": 2.6
-    },
-    {
-      "term": "Channi",
       "score": 2.6
     },
     {
@@ -399,59 +403,55 @@
       "score": 2.6
     },
     {
-      "term": "Satya Niketan",
+      "term": "Kharg Island",
       "score": 2
     },
     {
-      "term": "Iranian",
-      "score": 1.9
-    },
-    {
-      "term": "Iran",
-      "score": 1.6
+      "term": "Satya Niketan",
+      "score": 2
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u0ba4\u0bb5\u0bc6\u0b95 - \u0ba4\u0bbf\u0bae\u0bc1\u0b95 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bc7\u0bb0\u0bb5\u0bc8 \u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0bb5\u0bc0\u0ba3\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1: \u0baa\u0bb4\u0ba9\u0bbf\u0b9a\u0bbe\u0bae\u0bbf \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
-      "link": "https://www.hindutamil.in/news/tamilnadu/assembly-time-wasted-on-ruling-opposition-dispute-eps-alleges"
+      "title": "Modi-Putin: \u0c26\u0c4d\u0c35\u0c48\u0c2a\u0c3e\u0c15\u0c4d\u0c37\u0c3f\u0c15 \u0c1a\u0c30\u0c4d\u0c1a\u200c\u0c32\u0c4d\u0c32\u0c4b \u0c2a\u0c3e\u0c32\u0c4d\u0c17\u0c4a\u0c28\u200c\u0c28\u0c41\u0c28\u0c4d\u0c28 \u0c2a\u0c41\u0c24\u0c3f\u0c28\u0c4d\u200c, \u0c2e\u0c4b\u0c26\u0c40",
+      "link": "https://www.ntnews.com/national/ahead-of-brics-summit-pm-modi-and-putin-to-hold-bilateral-talks-in-new-delhi-2505647"
     },
     {
-      "title": "Supreme Court To Examine Delhi Satya Niketan Building Collapse, Amicus Seeks Directions To Inspect PGs & Hostels",
-      "link": "https://www.livelaw.in/top-stories/supreme-court-to-examine-delhi-satya-niketan-building-collapse-amicus-seeks-directions-to-inspect-pgs-hostels-549105"
+      "title": "ClickFix moves into the browser and onto WebDAV, Cisco Talos finds",
+      "link": "https://siliconangle.com/2026/09/08/clickfix-moves-into-the-browser-and-onto-webdav-cisco-talos-finds/"
     },
     {
-      "title": "Vidyanand Bapat Rap Song: \u0913 \u092c\u093e\u092a\u091f\u2026 \u091c\u093e\u090a \u0926\u094d\u092f\u093e \u0928\u093e; \u0935\u093f\u0926\u094d\u092f\u093e\u0928\u0902\u0926 \u092c\u093e\u092a\u091f\u093e\u0902\u0935\u0930\u091a\u0902 \u0930\u0945\u092a \u0938\u0949\u0928\u094d\u0917 \u091a\u093e\u0902\u0917\u0932\u0902\u091a \u091a\u0930\u094d\u091a\u0947\u0924",
-      "link": "https://www.tv9marathi.com/maharashtra/pune/a-new-marathi-rap-titled-o-bapat-jaau-dya-na-based-on-vidyanand-bapat-viral-on-social-media-1751786.html"
+      "title": "asian games minister o j janeesh \u0d0f\u0d37\u0d4d\u0d2f\u0d7b \u0d17\u0d46\u0d2f\u0d3f\u0d02\u0d38\u0d3f\u0d7d \u0d35\u0d3f\u0d1c\u0d2f\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d3f \u0d24\u0d3e\u0d30\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d4d \u0d35\u0d2e\u0d4d\u0d2a\u0d7b \u0d2a\u0d3e\u0d30\u0d3f\u0d24\u0d4b\u0d37\u0d3f\u0d15\u0d02",
+      "link": "https://www.asianetnews.com/kerala-news/asian-games-sports-minister-announces-massive-cash-awards-for-winning-malayali-athletes-articleshow-o281hzg"
     },
     {
-      "title": "BRICS \u0938\u0947 \u0920\u0940\u0915 \u092a\u0939\u0932\u0947 \u092e\u094b\u0926\u0940-\u092a\u0941\u0924\u093f\u0928 \u0915\u0940 \u092e\u0941\u0932\u093e\u0915\u093e\u0924, 11 \u0938\u093f\u0924\u0902\u092c\u0930 \u0915\u094b \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0939\u094b\u0917\u0940 \u0905\u0939\u092e \u092c\u0948\u0920\u0915, \u0915\u094d\u092f\u093e \u0939\u094b\u0917\u093e \u090f\u091c\u0947\u0902\u0921\u093e?",
-      "link": "https://www.livehindustan.com/national/modiputin-meeting-just-before-brics-to-be-held-in-delhi-on-september-11-what-will-be-agenda-201788859085036.html"
+      "title": "Vodafone idea \u092a\u0930 \u092c\u0921\u093c\u093e \u0905\u0932\u0930\u094d\u091f, \u0938\u094d\u092a\u0947\u0915\u094d\u091f\u094d\u0930\u092e \u092a\u0947\u092e\u0947\u0902\u091f \u092e\u0947\u0902 \u0926\u093f\u0915\u094d\u0915\u0924 \u0915\u0947 \u091a\u0932\u0924\u0947 \u0936\u0947\u092f\u0930 \u0915\u0947 47 \u0917\u093f\u0930\u0928\u0947 \u0915\u0940 \u0906\u0936\u0902\u0915\u093e?",
+      "link": "https://www.jagran.com/business/share-market-vodafone-idea-share-price-may-drop-47-percent-hsbc-warns-40366273.html"
     },
     {
-      "title": "'\u0924\u093e\u0930\u0915 \u092e\u0947\u0939\u0924\u093e' \u091b\u094b\u0921\u093c\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0917\u094b\u0932\u0940 \u0915\u093e \u0910\u0938\u093e \u0939\u093e\u0932, \u0932\u094b\u0917\u094b\u0902 \u0915\u0947 \u0918\u0930\u094b\u0902 \u092a\u0930 \u091c\u093e\u0915\u0930 \u092c\u0928\u093e \u0930\u0939\u0947 \u0916\u093e\u0928\u093e",
-      "link": "https://www.abplive.com/entertainment/television/taarak-mehta-ka-ooltah-chashmah-fame-kush-shah-aka-goli-youtube-videos-cooking-food-people-house-3186070"
+      "title": "\u0ba4\u0bbf\u0bae\u0bc1\u0b95 - \u0ba4\u0bb5\u0bc6\u0b95 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0bae\u0bcb\u0ba4\u0bb2\u0bbe\u0bb2\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0b9a\u0baa\u0bc8 \u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0bb5\u0bc0\u0ba3\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1: \u0b87\u0baa\u0bbf\u0b8e\u0bb8\u0bcd",
+      "link": "https://www.dinamalar.com/news/tamil-nadu-news/dmk---waste-of-assembly-time-due-to-bitter-opposition-conflict-eps/4317221"
     },
     {
-      "title": "Women's Asia Cup : \u092d\u093e\u0930\u0924\u093e\u0915\u0921\u0942\u0928 \u0939\u0930\u0932\u094d\u092f\u093e\u0935\u0930 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u091a\u0947 \u0938\u0947\u092e\u0940 \u092b\u093e\u092f\u0928\u0932\u092e\u0927\u094d\u092f\u0947 \u0915\u092e\u092c\u0945\u0915, \u092d\u093e\u0930\u0924-\u092a\u093e\u0915 \u0939\u094b\u0923\u093e\u0930 \u0915\u093e? \u0938\u0941\u092a\u09304 \u092e\u0927\u094d\u092f\u0947 \u0915\u094b\u0923 \u092d\u093f\u0921\u0923\u093e\u0930?",
-      "link": "https://maharashtratimes.com/sports/cricket/cricket-news/womens-asia-cup-2024-which-teamd-in-super-four-semi-final-and-may-ind-vs-pak-match/articleshow/133914104.cms"
+      "title": "Apple Watch Series 12, Ultra 4 Leak Reveals 4 Major Upgrades Coming This Year",
+      "link": "https://in.mashable.com/tech/113725/apple-watch-series-12-ultra-4-leak-reveals-4-major-upgrades-coming-this-year"
     },
     {
-      "title": "2 \u0c0f\u0c33\u0c4d\u0c32\u0c32\u0c4b\u0c28\u0c47 \u0c30\u0c42.22,000 \u0c15\u0c4b\u0c1f\u0c4d\u0c32\u0c41 \u0c07\u0c28\u0c4d\u0c35\u0c46\u0c38\u0c4d\u0c1f\u0c4d \u0c1a\u0c47\u0c36\u0c3e\u0c30\u0c41.. \u0c2e\u0c4d\u0c2f\u0c42\u0c1a\u0c41\u0c35\u0c32\u0c4d \u0c2b\u0c02\u0c21\u0c4d\u0c38\u0c4d\u200c\u0c32\u0c4b \u0c08 SIF \u0c38\u0c4d\u0c15\u0c40\u0c2e\u0c4d\u0c38\u0c4d \u0c0f\u0c02\u0c1f\u0c3f? \u0c15\u0c28\u0c40\u0c38 \u0c2a\u0c46\u0c1f\u0c4d\u0c1f\u0c41\u0c2c\u0c21\u0c47 \u0c30\u0c42.10 \u0c32\u0c15\u0c4d\u0c37\u0c32\u0c3e?",
-      "link": "https://telugu.samayam.com/business/business-news/specialised-investment-funds-inflows-crossed-rs-22328-crore-since-launch-sif-mutual-funds-satellite-allocation/articleshow/133917926.cms"
+      "title": "\u0aa4\u0aae\u0abf\u0ab2\u0aa8\u0abe\u0aa1\u0ac1 \u0ab5\u0abf\u0aa7\u0abe\u0aa8\u0ab8\u0aad\u0abe\u0aae\u0abe\u0a82 \u0aad\u0abe\u0ab0\u0ac7 \u0ab9\u0acb\u0aac\u0abe\u0ab3\u0acb: \u0ab5\u0abf\u0aaa\u0a95\u0acd\u0ab7\u0ac0 \u0aa7\u0abe\u0ab0\u0abe\u0ab8\u0aad\u0acd\u0aaf\u0acb\u0aa8\u0ac7 \u0a9f\u0abf\u0a82\u0a97\u0abe\u0a9f\u0acb\u0ab3\u0ac0 \u0a95\u0ab0\u0ac0 \u0aac\u0ab9\u0abe\u0ab0 \u0a95\u0aa2\u0abe\u0aaf\u0abe! \u0a9c\u0abe\u0aa3\u0acb \u0ab8\u0aae\u0a97\u0acd\u0ab0 \u0ab5\u0abf\u0ab5\u0abe\u0aa6",
+      "link": "https://www.gujaratsamachar.com/news/national/huge-uproar-in-tamil-nadu-assembly-opposition-mlas-were-dragged-out-by-a-mob-know-the-entire-controversy-88071307976"
     },
     {
-      "title": "Satya Niketan building collapse: Supreme Court says it is mooting examination of issue on pan-India basis",
-      "link": "https://www.barandbench.com/news/litigation/satya-niketan-building-collapse-supreme-court-says-mooting-examination-of-issue-on-pan-india-basis"
+      "title": "Uddhav Thackeray : \u0924\u0947\u0935\u094d\u0939\u093e \u0917\u0941\u0932\u093e\u0932\u093e\u0928\u0947 \u0926\u093e\u0922\u0940 \u0932\u093e\u0932 \u0915\u0930\u0941\u0928 \u0918\u0947\u0923\u093e\u0930\u0947 \u0906\u0924\u093e \u0915\u0941\u0920\u0947 \u0917\u0947\u0932\u0947? \u0909\u0926\u094d\u0927\u0935 \u0920\u093e\u0915\u0930\u0947\u0902\u091a\u093e \u092e\u0930\u093e\u0920\u093e \u0906\u0930\u0915\u094d\u0937\u0923\u093e\u0935\u0930\u0941\u0928 \u090f\u0915\u0928\u093e\u0925 \u0936\u093f\u0902\u0926\u0947\u0902\u0928\u093e \u091f\u094b\u0932\u093e",
+      "link": "https://marathi.abplive.com/news/politics/uddhav-thackeray-strongly-criticized-eknath-shinde-devendra-fadnavis-over-manoj-jarange-patil-maratha-reservation-mpsc-exam-paper-leak-student-protests-maharashtra-politics-1438445"
     },
     {
-      "title": "9/11 aftermath: \u0c1f\u0c4d\u0c35\u0c3f\u0c28\u0c4d\u200c \u0c1f\u0c35\u0c30\u0c4d\u0c38\u0c4d\u200c \u0c15\u0c42\u0c32\u0c3f\u0c28 \u0c24\u0c30\u0c4d\u0c35\u0c3e\u0c24 \u0c28\u0c46\u0c32\u0c32 \u0c24\u0c30\u0c2c\u0c21\u0c3f \u0c17\u0c3e\u0c32\u0c4d\u0c32\u0c4b \u0c15\u0c4d\u0c2f\u0c3e\u0c28\u0c4d\u0c38\u0c30\u0c4d\u200c \u0c15\u0c3e\u0c30\u0c15\u0c3e\u0c32\u0c41.. 9/11 \u0c2a\u0c24\u0c4d\u0c30\u0c3e\u0c32\u0c4d\u0c32\u0c4b \u0c15\u0c40\u0c32\u0c15 \u0c35\u0c3f\u0c37\u0c2f\u0c3e\u0c32\u0c41",
-      "link": "https://telugu.newsbytesapp.com/news/world/9-11-aftermath-documents-suggest-new-yorkers-were-misled-about-toxic-air-risks/story"
+      "title": "Gujarat Rain: \u0ab0\u0abe\u0a9c\u0acd\u0aaf\u0aa8\u0abe \u0a96\u0ac7\u0aa1\u0ac2\u0aa4\u0acb \u0aae\u0abe\u0a9f\u0ac7 \u0ab8\u0abe\u0ab0\u0abe \u0ab8\u0aae\u0abe\u0a9a\u0abe\u0ab0, \u0aad\u0abe\u0ab0\u0ac7 \u0ab5\u0ab0\u0ab8\u0abe\u0aa6\u0aa8\u0abe \u0aa8\u0ab5\u0abe \u0ab0\u0abe\u0a89\u0aa8\u0acd\u0aa1\u0aa8\u0ac7 \u0ab2\u0a88 \u0ab9\u0ab5\u0abe\u0aae\u0abe\u0aa8 \u0ab5\u0abf\u0aad\u0abe\u0a97\u0aa8\u0ac0 \u0a86\u0a97\u0abe\u0ab9\u0ac0",
+      "link": "https://gujarati.abplive.com/news/gujarat/heavy-rains-likely-from-september-11-to-13-meteorological-department-forecast-990708"
     },
     {
-      "title": "More than 100 eagle rays gathered around a tuna farm off Malta; scientists say it is the largest aggregation of the species ever recorded",
-      "link": "https://timesofindia.indiatimes.com/science/wildlife/more-than-100-eagle-rays-gathered-around-a-tuna-farm-off-malta-scientists-say-it-is-the-largest-aggregation-of-the-species-ever-recorded/articleshow/133915250.cms"
+      "title": "KTR | \u0c05\u0c15\u0c4d\u0c30\u0c2e \u0c15\u0c47\u0c38\u0c41\u0c32\u0c24\u0c4b \u0c2c\u0c40\u0c06\u0c30\u0c4d\u0c0e\u0c38\u0c4d\u200c\u0c28\u0c41 \u0c2d\u0c2f\u0c2a\u0c46\u0c1f\u0c4d\u0c1f\u0c32\u0c47\u0c30\u0c41 : \u0c15\u0c47\u0c1f\u0c40\u0c06\u0c30\u0c4d",
+      "link": "https://www.ntnews.com/hyderabad/brs-party-does-not-have-any-fear-about-illegal-arrests-says-ktr-2505648"
     }
   ],
   "twitter": null

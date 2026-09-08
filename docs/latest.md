@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-08 21:32:57
+# India Trending Report — 2026-09-08 22:02:37
 
 ## Google Trends (India) — top trending searches
 1. [rayan aït-nouri](https://trends.google.com/trending/rss?geo=IN)
-2. [serhou guirassy](https://trends.google.com/trending/rss?geo=IN)
-3. [renato veiga](https://trends.google.com/trending/rss?geo=IN)
-4. [allan](https://trends.google.com/trending/rss?geo=IN)
-5. [carlos espí](https://trends.google.com/trending/rss?geo=IN)
-6. [marc bartra](https://trends.google.com/trending/rss?geo=IN)
-7. [football match](https://trends.google.com/trending/rss?geo=IN)
-8. [william gomes](https://trends.google.com/trending/rss?geo=IN)
-9. [jobe bellingham](https://trends.google.com/trending/rss?geo=IN)
-10. [vinícius júnior](https://trends.google.com/trending/rss?geo=IN)
+2. [renato veiga](https://trends.google.com/trending/rss?geo=IN)
+3. [allan](https://trends.google.com/trending/rss?geo=IN)
+4. [carlos espí](https://trends.google.com/trending/rss?geo=IN)
+5. [marc bartra](https://trends.google.com/trending/rss?geo=IN)
+6. [william gomes](https://trends.google.com/trending/rss?geo=IN)
+7. [jobe bellingham](https://trends.google.com/trending/rss?geo=IN)
+8. [vinícius júnior](https://trends.google.com/trending/rss?geo=IN)
+9. [gabri veiga](https://trends.google.com/trending/rss?geo=IN)
+10. [dortmund](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Iran launched fresh attack on US navy ships Monday amid China, Russia aid fears](https://timesofindia.indiatimes.com/world/middle-east/iran-launched-another-attack-on-us-navy-ships-monday-with-fears-of-china-russia-aid-report/articleshow/133941040.cms)
+- [US strikes Iranian tankers near Kharg Island; Tehran threatens Gulf oil vessels](https://timesofindia.indiatimes.com/world/middle-east/us-strikes-iranian-tankers-near-kharg-island-tehran-threatens-gulf-oil-vessels/articleshow/133942382.cms)
+- [Strategic autonomy in motion as India hosts Brics summit](https://timesofindia.indiatimes.com/india/strategic-autonomy-in-motion-as-india-hosts-brics-summit/articleshow/133940862.cms)
 - [Over 600 flights cancelled as air traffic control glitch disrupts UK airports](https://timesofindia.indiatimes.com/world/europe/nearly-300-flights-cancelled-across-uk-after-air-traffic-control-glitch-major-airports-hit/articleshow/133932658.cms)
 - [‘Convicted or not convicted’: Wasim Akram breaks silence on Imran Khan’s health](https://timesofindia.indiatimes.com/sports/cricket/news/convicted-or-not-convicted-wasim-akram-breaks-silence-on-imran-khans-health-i-miss-him-a-lot/articleshow/133929616.cms)
-- [Strategic autonomy in motion as India hosts Brics summit](https://timesofindia.indiatimes.com/india/strategic-autonomy-in-motion-as-india-hosts-brics-summit/articleshow/133940862.cms)
-- [Uber's layoff memo also has a work from home message for remaining 29,000 employees](https://timesofindia.indiatimes.com/technology/tech-news/ubers-layoff-memo-also-has-a-work-from-home-message-for-the-remaining-29000-employees-were-establishing-clearer-principles-for-where-roles-and-teams-should-/articleshow/133916866.cms)
 - [Former Delhi chief secretary Rakesh Mehta dies by suicide at Noida residence](https://timesofindia.indiatimes.com/india/former-delhi-chief-secretary-rakesh-mehta-found-hanging-at-noida-residence-dies-by-suicide/articleshow/133934797.cms)
+- [Uber's layoff memo also has a work from home message for remaining 29,000 employees](https://timesofindia.indiatimes.com/technology/tech-news/ubers-layoff-memo-also-has-a-work-from-home-message-for-the-remaining-29000-employees-were-establishing-clearer-principles-for-where-roles-and-teams-should-/articleshow/133916866.cms)
 - [India, Japan to conduct two-week air exercise Veer Guardian in Jodhpur from today](https://timesofindia.indiatimes.com/defence/news/india-japan-to-conduct-two-week-air-exercise-veer-guardian-2026-in-jodhpur-from-today/articleshow/133940712.cms)
-- [Why just Russian oil? US supplies over 50% of India’s LPG imports - what it means](https://timesofindia.indiatimes.com/business/india-business/why-just-russian-oil-us-supplies-over-50-of-indias-lpg-imports-what-it-means/articleshow/133926992.cms)
+- [Iran launched fresh attack on US navy ships Monday amid China, Russia aid fears](https://timesofindia.indiatimes.com/world/middle-east/iran-launched-another-attack-on-us-navy-ships-monday-with-fears-of-china-russia-aid-report/articleshow/133941040.cms)
+- [US targets Iran’s entire aviation sector with fresh sanctions](https://timesofindia.indiatimes.com/world/middle-east/us-sanctions-all-remaining-iranian-airlines-with-27-carriers-hit-in-fresh-action/articleshow/133941683.cms)
 - [Apple iPhone 18 Pro, Ultra launch on September 9: Expected specifications, price](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-iphone-ultra-to-launch-on-september-9-likely-specifications-and-price/articleshow/133909359.cms)
-- [Channi vs Warring: Why Sachin Pilot may be Congress's best bet in Punjab](https://timesofindia.indiatimes.com/india/channi-vs-warring-why-sachin-pilot-may-be-congresss-best-bet-in-punjab/articleshow/133926189.cms)
 
 **NDTV**
 - [In UP, 47-Year Old Beaten To Death For Objecting To Man Urinating In Public](https://www.ndtv.com/india-news/in-up-47-year-old-amit-kumar-beaten-to-death-for-objecting-to-man-urinating-in-public-12020503#publisher=newsstand)
@@ -62,6 +62,7 @@
 - [ಸಚಿವ SS ಮಲ್ಲಿಕಾರ್ಜುನ್ ಅಪ್ಪನಿಗೆ ಹುಟ್ಟಿದ್ರೆ ಬೂಟಿನಲ್ಲಿ ಹೊಡೆಯಲಿ: BJP ಶಾಸಕ ಬಿಪಿ ಹರೀಶ್ ಸವಾಲು! ತಾರಕಕ್ಕೇರಿ ಜಗಳ](https://vijaykarnataka.com/news/davanagere/if-minister-ss-mallikarjun-is-his-fathers-true-son-let-him-hit-me-with-a-shoe-bjp-mla-bp-harish-issues-a-challenge/articleshow/133933800.cms)
 
 **The Hindu**
+- [Odisha’s rural work does not have adequate photographic evidence, says a draft audit report](https://www.thehindu.com/news/national/odisha/odishas-rural-work-does-not-have-adequate-photographic-evidence-says-a-draft-audit-report/article71443035.ece)
 - [Probe ordered into police action against protesting Bhopal intern doctors](https://www.thehindu.com/news/national/madhya-pradesh/probe-ordered-after-water-cannon-alleged-lathicharge-at-protesting-intern-doctors-in-bhopal/article71444057.ece)
 - [Chlorine gas leak at water filtration plant in Madhya Pradesh’s Sehore; four people hospitalised](https://www.thehindu.com/news/national/madhya-pradesh/chlorine-gas-leak-at-a-sehore-water-filtration-plant/article71444504.ece)
 - [Andhra Pradesh rain forecast: showers from September 12 after a near 60% deficit](https://www.thehindu.com/news/national/andhra-pradesh/relief-from-heat-for-andhra-pradesh-likely-as-low-pressure-brews-over-bay-of-bengal/article71443507.ece)
@@ -71,7 +72,6 @@
 - [Windergy India 2026 from October 7 to 9](https://www.thehindu.com/news/national/tamil-nadu/windergy-india-2026-from-october-7-to-9/article71443822.ece)
 - [Akhilesh unveils blue dress code for SP youth wing to push Bahujan plank](https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-unveils-blue-dress-code-for-sp-youth-wing-to-push-bahujan-plank/article71444332.ece)
 - [Bihar Floods: water levels recede, but threat persists](https://www.thehindu.com/news/national/bihar/bihar-floods-water-levels-recede-but-threat-persists/article71443548.ece)
-- [My area of joy in Madras was Egmore : Y. Gee Mahendra](https://www.thehindu.com/news/cities/chennai/my-area-of-joy-in-madras-was-egmore-y-gee-mahendra/article71436283.ece)
 
 **Livemint**
 - [US strikes Iranian tankers after attempted missile attacks on its Navy warship: Report](https://www.livemint.com/news/world/iran-claims-us-missile-hit-tanker-near-kharg-island-irgc-says-mq-1-drone-downed-over-strait-of-hormuz-11788898120584.html)
@@ -100,35 +100,35 @@
 - [ಅಲ್ ಖೈರ್ ಇಸ್ಲಾಮಿಕ್ ಇಂಗ್ಲಿಷ್ ಮೀಡಿಯಂ ಶಾಲೆಯಲ್ಲಿ ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ](https://www.varthabharati.in/DakshinaKannada/--2273854)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (5.5)
+- India (4.2)
 - Delhi (3.5)
+- Iranian (3.2)
 - Former Delhi (3.0)
 - Rakesh Mehta (3.0)
+- Iran (2.9)
+- Odisha (2.9)
+- Noida (2.6)
 - Monday (2.6)
 - China (2.6)
-- Noida (2.6)
-- Russian (2.6)
 - September (2.6)
-- Channi (2.6)
 - Report (2.6)
 - October (2.6)
+- Kharg Island (2.0)
 - Satya Niketan (2.0)
-- Iranian (1.9)
-- Iran (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [தவெக - திமுக பிரச்சினையில் பேரவை நேரம் வீணடிப்பு: பழனிசாமி குற்றச்சாட்டு](https://www.hindutamil.in/news/tamilnadu/assembly-time-wasted-on-ruling-opposition-dispute-eps-alleges)
-- [Supreme Court To Examine Delhi Satya Niketan Building Collapse, Amicus Seeks Directions To Inspect PGs & Hostels](https://www.livelaw.in/top-stories/supreme-court-to-examine-delhi-satya-niketan-building-collapse-amicus-seeks-directions-to-inspect-pgs-hostels-549105)
-- [Vidyanand Bapat Rap Song: ओ बापट… जाऊ द्या ना; विद्यानंद बापटांवरचं रॅप सॉन्ग चांगलंच चर्चेत](https://www.tv9marathi.com/maharashtra/pune/a-new-marathi-rap-titled-o-bapat-jaau-dya-na-based-on-vidyanand-bapat-viral-on-social-media-1751786.html)
-- [BRICS से ठीक पहले मोदी-पुतिन की मुलाकात, 11 सितंबर को दिल्ली में होगी अहम बैठक, क्या होगा एजेंडा?](https://www.livehindustan.com/national/modiputin-meeting-just-before-brics-to-be-held-in-delhi-on-september-11-what-will-be-agenda-201788859085036.html)
-- ['तारक मेहता' छोड़ने के बाद गोली का ऐसा हाल, लोगों के घरों पर जाकर बना रहे खाना](https://www.abplive.com/entertainment/television/taarak-mehta-ka-ooltah-chashmah-fame-kush-shah-aka-goli-youtube-videos-cooking-food-people-house-3186070)
-- [Women's Asia Cup : भारताकडून हरल्यावर पाकिस्तानचे सेमी फायनलमध्ये कमबॅक, भारत-पाक होणार का? सुपर4 मध्ये कोण भिडणार?](https://maharashtratimes.com/sports/cricket/cricket-news/womens-asia-cup-2024-which-teamd-in-super-four-semi-final-and-may-ind-vs-pak-match/articleshow/133914104.cms)
-- [2 ఏళ్లలోనే రూ.22,000 కోట్లు ఇన్వెస్ట్ చేశారు.. మ్యూచువల్ ఫండ్స్‌లో ఈ SIF స్కీమ్స్ ఏంటి? కనీస పెట్టుబడే రూ.10 లక్షలా?](https://telugu.samayam.com/business/business-news/specialised-investment-funds-inflows-crossed-rs-22328-crore-since-launch-sif-mutual-funds-satellite-allocation/articleshow/133917926.cms)
-- [Satya Niketan building collapse: Supreme Court says it is mooting examination of issue on pan-India basis](https://www.barandbench.com/news/litigation/satya-niketan-building-collapse-supreme-court-says-mooting-examination-of-issue-on-pan-india-basis)
-- [9/11 aftermath: ట్విన్‌ టవర్స్‌ కూలిన తర్వాత నెలల తరబడి గాల్లో క్యాన్సర్‌ కారకాలు.. 9/11 పత్రాల్లో కీలక విషయాలు](https://telugu.newsbytesapp.com/news/world/9-11-aftermath-documents-suggest-new-yorkers-were-misled-about-toxic-air-risks/story)
-- [More than 100 eagle rays gathered around a tuna farm off Malta; scientists say it is the largest aggregation of the species ever recorded](https://timesofindia.indiatimes.com/science/wildlife/more-than-100-eagle-rays-gathered-around-a-tuna-farm-off-malta-scientists-say-it-is-the-largest-aggregation-of-the-species-ever-recorded/articleshow/133915250.cms)
+- [Modi-Putin: ద్వైపాక్షిక చర్చ‌ల్లో పాల్గొన‌నున్న పుతిన్‌, మోదీ](https://www.ntnews.com/national/ahead-of-brics-summit-pm-modi-and-putin-to-hold-bilateral-talks-in-new-delhi-2505647)
+- [ClickFix moves into the browser and onto WebDAV, Cisco Talos finds](https://siliconangle.com/2026/09/08/clickfix-moves-into-the-browser-and-onto-webdav-cisco-talos-finds/)
+- [asian games minister o j janeesh ഏഷ്യൻ ഗെയിംസിൽ വിജയിക്കുന്ന മലയാളി താരങ്ങള്‍ക്ക് വമ്പൻ പാരിതോഷികം](https://www.asianetnews.com/kerala-news/asian-games-sports-minister-announces-massive-cash-awards-for-winning-malayali-athletes-articleshow-o281hzg)
+- [Vodafone idea पर बड़ा अलर्ट, स्पेक्ट्रम पेमेंट में दिक्कत के चलते शेयर के 47 गिरने की आशंका?](https://www.jagran.com/business/share-market-vodafone-idea-share-price-may-drop-47-percent-hsbc-warns-40366273.html)
+- [திமுக - தவெக எதிர்க்கட்சி மோதலால் சட்டசபை நேரம் வீணடிப்பு: இபிஎஸ்](https://www.dinamalar.com/news/tamil-nadu-news/dmk---waste-of-assembly-time-due-to-bitter-opposition-conflict-eps/4317221)
+- [Apple Watch Series 12, Ultra 4 Leak Reveals 4 Major Upgrades Coming This Year](https://in.mashable.com/tech/113725/apple-watch-series-12-ultra-4-leak-reveals-4-major-upgrades-coming-this-year)
+- [તમિલનાડુ વિધાનસભામાં ભારે હોબાળો: વિપક્ષી ધારાસભ્યોને ટિંગાટોળી કરી બહાર કઢાયા! જાણો સમગ્ર વિવાદ](https://www.gujaratsamachar.com/news/national/huge-uproar-in-tamil-nadu-assembly-opposition-mlas-were-dragged-out-by-a-mob-know-the-entire-controversy-88071307976)
+- [Uddhav Thackeray : तेव्हा गुलालाने दाढी लाल करुन घेणारे आता कुठे गेले? उद्धव ठाकरेंचा मराठा आरक्षणावरुन एकनाथ शिंदेंना टोला](https://marathi.abplive.com/news/politics/uddhav-thackeray-strongly-criticized-eknath-shinde-devendra-fadnavis-over-manoj-jarange-patil-maratha-reservation-mpsc-exam-paper-leak-student-protests-maharashtra-politics-1438445)
+- [Gujarat Rain: રાજ્યના ખેડૂતો માટે સારા સમાચાર, ભારે વરસાદના નવા રાઉન્ડને લઈ હવામાન વિભાગની આગાહી](https://gujarati.abplive.com/news/gujarat/heavy-rains-likely-from-september-11-to-13-meteorological-department-forecast-990708)
+- [KTR | అక్రమ కేసులతో బీఆర్ఎస్‌ను భయపెట్టలేరు : కేటీఆర్](https://www.ntnews.com/hyderabad/brs-party-does-not-have-any-fear-about-illegal-arrests-says-ktr-2505648)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
