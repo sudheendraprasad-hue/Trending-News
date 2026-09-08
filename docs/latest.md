@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-08 07:41:58
+# India Trending Report — 2026-09-08 13:28:20
 
 ## Google Trends (India) — top trending searches
-1. [తిరుపతి](https://trends.google.com/trending/rss?geo=IN)
-2. [ஆரோக்கியசாமி](https://trends.google.com/trending/rss?geo=IN)
-3. [yash](https://trends.google.com/trending/rss?geo=IN)
-4. [तमिलनाडु विधान सभा](https://trends.google.com/trending/rss?geo=IN)
-5. [ಮೋಹನ್ ಭಾಗವತ್](https://trends.google.com/trending/rss?geo=IN)
-6. [তুলারাশি](https://trends.google.com/trending/rss?geo=IN)
+1. [बिहार में बाढ़](https://trends.google.com/trending/rss?geo=IN)
+2. [తిరుపతి](https://trends.google.com/trending/rss?geo=IN)
+3. [ஆரோக்கியசாமி](https://trends.google.com/trending/rss?geo=IN)
+4. [yash](https://trends.google.com/trending/rss?geo=IN)
+5. [तमिलनाडु विधान सभा](https://trends.google.com/trending/rss?geo=IN)
+6. [ಮೋಹನ್ ಭಾಗವತ್](https://trends.google.com/trending/rss?geo=IN)
 7. [ராஜ்மோகன்](https://trends.google.com/trending/rss?geo=IN)
-8. [बॉलिंग कोच](https://trends.google.com/trending/rss?geo=IN)
-9. [kospi index](https://trends.google.com/trending/rss?geo=IN)
+8. [তুলারাশি](https://trends.google.com/trending/rss?geo=IN)
+9. [बॉलिंग कोच](https://trends.google.com/trending/rss?geo=IN)
 10. [ग्रीन कार्ड](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [CCTV captures accused fleeing moments after Manipuri musician beaten to death in Delhi](https://timesofindia.indiatimes.com/city/delhi/cctv-captures-accused-fleeing-moments-after-manipuri-musician-beaten-to-death-in-delhi/articleshow/133907533.cms)
-- ['Celebration of growth': PM Modi unveils projects worth Rs 35,000 crore in Vadodara](https://timesofindia.indiatimes.com/india/event-sold-out-in-60-minutes-we-will-rock-you-welcomes-pm-modi-to-namo-for-viksit-bharat/articleshow/133914109.cms)
+- [Punjab man dies by suicide after 'pressure to apologise' over 'chitta' question to minister](https://timesofindia.indiatimes.com/city/chandigarh/man-dies-by-suicide-after-pressure-to-apologise-for-questioning-punjab-minister-over-chitta-menace/articleshow/133910023.cms)
+- ['Some can never be happy with India's vikas': PM Modi renews 'naraz fufa' jibe at Cong](https://timesofindia.indiatimes.com/india/event-sold-out-in-60-minutes-we-will-rock-you-welcomes-pm-modi-to-namo-for-viksit-bharat/articleshow/133914109.cms)
+- ['Every Northeast family asking - are we safe?' Rahul on Manipuri musician's killing](https://timesofindia.indiatimes.com/india/every-northeast-family-asking-are-we-safe-rahul-on-manipuri-musicians-killing/articleshow/133911397.cms)
+- ['What is this India?' Bengaluru chess crowds leave foreigners wondering at GCL](https://timesofindia.indiatimes.com/sports/chess/foreigners-wondering-what-is-this-india-pranesh-on-gcl-praggnanandhaa-rumours-and-vaishali-exclusive/articleshow/133911399.cms)
+- [She once borrowed rifles to train; now Vidarsa Vinod is heading to Asian Games](https://timesofindia.indiatimes.com/sports/more-sports/shooting/in-2018-vidarsa-k-vinod-walked-into-a-college-ncc-trial-simply-to-experience-holding-a-rifle-eight-years-borrowed-equipment-and-a-family-loan-later-she-is-going-to-the-asian-games/articleshow/133913787.cms)
+- [How WhatsApp messages led to former USCIS official in $960,000 citizenship scam](https://timesofindia.indiatimes.com/technology/tech-news/how-whatsapp-messages-and-calls-led-investigators-to-former-uscis-official-in-alleged-960000-american-citizenship-bribery-scam/articleshow/133912303.cms)
 - ['Character assassination must stop': Kangana slams targeting of TN actress](https://timesofindia.indiatimes.com/india/character-assassination-must-stop-kangana-slams-targeting-of-tamil-nadu-actress-for-her-relations/articleshow/133910439.cms)
+- [Woman declared foreigner, sent to Bangladesh without hearing, HC orders Rs 2 lakh](https://timesofindia.indiatimes.com/legal/news/woman-declared-foreigner-sent-to-bangladesh-without-chance-to-challenge-order-hc-orders-rs-2-lakh-compensation/articleshow/133912431.cms)
 - [‘Inexplicable': Karun Nair takes subtle dig at South Zone after being overlooked](https://timesofindia.indiatimes.com/sports/cricket/news/inexplicable-karun-nair-takes-subtle-dig-at-south-zone-after-being-overlooked-for-duleep-trophy-final/articleshow/133906902.cms)
-- [Samsung India cuts 80-100 jobs, more layoffs expected after Diwali](https://timesofindia.indiatimes.com/business/india-business/samsung-india-cuts-80-100-jobs-as-chip-prices-more-than-double-and-smartphone-volumes-fall-11-12-another-round-may-come-after-diwali-up-to-25-of-electronics-sales-and-marketing-staff-at-risk/articleshow/133911104.cms)
-- [Apple iPhone 18 Pro, iPhone Ultra launch on Sep 9: Likely specifications and price](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-iphone-ultra-to-launch-on-september-9-likely-specifications-and-price/articleshow/133909359.cms)
-- [Punjab man, who questioned minister over 'chitta' menace, dies after consuming poison](https://timesofindia.indiatimes.com/city/chandigarh/man-dies-by-suicide-after-pressure-to-apologise-for-questioning-punjab-minister-over-chitta-menace/articleshow/133910023.cms)
-- [Jhansi man jumps 30 feet into dam for Instagram reel, fractures legs](https://timesofindia.indiatimes.com/city/kanpur/jhansi-man-jumps-30-feet-into-dam-for-viral-instagram-reel-fractures-both-legs-after-hitting-rocks/articleshow/133911828.cms)
-- [Brahmos shy, Pakistan claims to have procured new weapons](https://timesofindia.indiatimes.com/defence/news/brahmos-shy-pakistan-claims-to-have-procured-new-weapons/articleshow/133914077.cms)
 - [Republican mayor rejects 'Lake America' name; says locals take renaming personally](https://timesofindia.indiatimes.com/technology/tech-news/republican-mayor-of-american-city-on-lake-ontario-shore-rejects-the-name-change-to-lake-america-that-google-and-apple-have-adopted-says-my-community-/articleshow/133865235.cms)
 
 **NDTV**
@@ -49,19 +49,29 @@
 - [Chongtham Vikram Singh murder: CCTV captures accused, calls for swift action grow, Rahul questions MHA](https://www.hindustantimes.com/india-news/chongtham-vikram-singh-murder-cctv-captures-accused-manipur-guitarist-rahul-gandhi-whats-mha-doing-101788839660967.html)
 - [HC refuses to urgently hear plea seeking more DU hostels amid PG collapse row: 'Unnecessarily you waste your own time'](https://www.hindustantimes.com/india-news/delhi-hc-refuses-to-urgently-hear-plea-seeking-more-du-hostels-amid-pg-collapse-row-satya-niketan-building-students-101788845438961.html)
 
-**Indian Express** — _unavailable_
+**Vijay Karnataka**
+- [ಕಾಂಗ್ರೆಸ್ ಒಳಗೆ ಮಾಜಿ - ಹಾಲಿ ಫೈಟ್ : ನಿಯಮಗಳ ವಿರುದ್ದ ವರ್ತಿಸಿದ ಬೈರತಿಗೆ, ಮಹದೇವಪ್ಪ ಸೌಜನ್ಯದ ಪಾಠ](https://vijaykarnataka.com/news/karnataka/congress-internal-fight-former-minister-hc-mahadevappa-present-minister-byrathi-suresh/articleshow/133912713.cms)
+- [ಬೆಂಗಳೂರಿನ ಎಪಿಎಂಸಿ ಮಾರುಕಟ್ಟೆಗೆ ಡಿಕೆಶಿ ದಿಢೀರ್ ಭೇಟಿ: ರೈತರಿಗೆ ಹಾಗೂ ವರ್ತಕರಿಗೆ ಸಿಎಂ ಕೊಟ್ಟ ಅಭಯ ಏನು?](https://vijaykarnataka.com/news/karnataka/chief-minister-dk-shivakumar-visit-and-inspects-apmc/articleshow/133913281.cms)
+- [ಎಲ್‌ನಿನೋ ಎಫೆಕ್ಟ್‌ ನಡುವೆಯೂ ಉಡುಪಿಯಲ್ಲಿ ಭತ್ತದ ಕೃಷಿ ಸುಗಮ: ಕಳೆದ ವರ್ಷಕ್ಕಿಂತ ವರ್ಷಕ್ಕಿಂತ 1,726 ಹೆಕ್ಟೇ‌ರ್ ಹೆಚ್ಚುವರಿ ನಾಟಿ!](https://vijaykarnataka.com/news/udupi/additional-1726-hectares-of-paddy-cultivation-in-udupi-despite-el-nio-effect/articleshow/133910763.cms)
+- [ಗೌರಿ ಗಣೇಶ ಚತುರ್ಥಿಗೂ ಮುನ್ನ ಈ ರೀತಿ ಸ್ವಚ್ಛಗೊಳಿಸಿ ಬೆಳ್ಳಿ,ತಾಮ್ರದ ಲಕ್ಷ್ಮೀ-ಗಣೇಶ ಮೂರ್ತಿ](https://vijaykarnataka.com/lifestyle/home-decor/gauri-ganesha-chaturthi-2026-clean-silver-copper-lakshmi-ganesh-idols-at-home/articleshow/133912270.cms)
+- [ರೋಗಿಗಳಿಗೆ ಸಮಸ್ಯೆ ಆದ್ರೆ ಕಠಿಣ ಕ್ರಮ: 108 ಆಂಬ್ಯುಲೆನ್ಸ್ ಸಿಬ್ಬಂದಿಗೆ ಖಡಕ್ ಎಚ್ಚರಿಕೆ ನೀಡಿದ ಯುಟಿ ಖಾದರ್](https://vijaykarnataka.com/news/karnataka/108-ambulance-workers-protest-in-karnataka/articleshow/133910175.cms)
+- [‘ಬಿಗ್ ಬಾಸ್‌ ಸೀಸನ್‌ 13’: ಸ್ನಾನಕ್ಕೂ ಟೈಮ್‌ ಲಿಮಿಟ್‌, ಕಿರಣ್‌ ಶಾಸ್ತ್ರಿ ವರ್ತನೆಗೆ ವೈಷ್ಣವಿ ಕಿಡಿಕಿಡಿ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-season-13-contestant-kiran-shastri-and-vaishnavi-koundinya-fight-for-bathroom/articleshow/133908483.cms)
+- [ತಂಪು ಗಾಳಿ ಎಲ್ಲ ವಸ್ತುಗಳಿಗೂ ಒಳ್ಳೆಯದಲ್ಲ! AC ರೂಮ್‌ನಲ್ಲಿ ಇಡಬಾರದ ವಸ್ತುಗಳಿವು!](https://vijaykarnataka.com/lifestyle/home-decor/items-not-to-keep-in-ac-room-for-long-time/articleshow/133790706.cms)
+- [ಚಾಣಕ್ಯ ನೀತಿ: ಈ 3 ರೀತಿಯ ಮಹಿಳೆಯರಿಗೆ ಹಣ ನೀಡಬಾರದು ಎಂದಿದ್ದಾರೆ.!](https://vijaykarnataka.com/religion/hinduism/according-to-chanakya-niti-we-should-not-give-money-to-these-3-womens/articleshow/133913459.cms)
+- [ಯುದ್ಧ ಗೆಲ್ಲುವುದು ಶಸ್ತ್ರಾಸ್ತ್ರಗಳಿಂದ ಮಾತ್ರವಲ್ಲ, ಧೈರ್ಯದಿಂದಲೂ: ಅಬ್ದುಲ್ ಹಮೀದ್ ಅವರ ವೀರಗಾಥೆ](https://vijaykarnataka.com/lifestyle/relationship/abdul-hamid-motivational-quotes-courage-wars-lifelessons/articleshow/133906444.cms)
+- [ಡಿಕೆ ಶಿವಕುಮಾರ್‌ ಸರ್ಕಾರದಿಂದ ದಕ್ಷಿಣ ಕರ್ನಾಟಕ ಜನರಿಗೆ ಗಂಭೀರ ಅಪಾಯ; ಬಸವರಾಜ ಬೊಮ್ಮಾಯಿ ʻಡಾರ್ಕ್‌ ಫ್ಯೂಚರ್‌ʼ ಎಚ್ಚರಿಕೆ!](https://vijaykarnataka.com/news/world/basavaraj-bommai-warns-south-karnataka-region-could-face-a-severe-water-shortage-in-future/articleshow/133908189.cms)
 
 **The Hindu**
+- [Crocodile rescued, safely released at Tamil Nadu’s Kallanai](https://www.thehindu.com/news/cities/Tiruchirapalli/crocodile-rescued-safely-released-at-kallanai/article71438826.ece)
+- [AAP legislator Mehraj Malik approaches J&K High Court to restore ‘withdrawn security cover’, escort](https://www.thehindu.com/news/national/jammu-and-kashmir/aap-legislator-mehraj-malik-approaches-jk-high-court-to-restore-withdrawn-security-cover-escort/article71441645.ece)
+- [DRI busts gold smuggling syndicate operated by Chinese nationals; recovers gold worth ₹1.10 crore from treadmill motor](https://www.thehindu.com/news/cities/mumbai/dri-busts-gold-smuggling-syndicate-operated-by-chinese-nationals-recovers-gold-worth-110-crore-from-treadmill-motor/article71441643.ece)
+- [Durga Puja under BJP rule in West Bengal: a push for vegetarianism and tradition](https://www.thehindu.com/news/cities/kolkata/durga-puja-under-bjp-rule-in-west-bengal-a-push-for-vegetarianism-and-tradition/article71441501.ece)
+- [Madras High Court rejects DMK candidate’s election petition over Perundurai constituency](https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-rejects-dmk-candidates-election-petition-over-perundurai-constituency/article71441277.ece)
+- [Complaint for remarks against PM Modi: HC refuses to quash 2019 summons to Rahul Gandhi](https://www.thehindu.com/news/cities/mumbai/complaint-for-remarks-against-pm-modi-hc-refuses-to-quash-2019-summons-to-rahul-gandhi/article71441592.ece)
+- [Congress condemns killing of Manipuri music teacher in Delhi](https://www.thehindu.com/news/national/congress-condemns-killing-of-manipuri-music-teacher-in-delhi/article71441636.ece)
 - [Why Kochi Corporation and historic Cochin Gymnasium appear headed for a bout over rent](https://www.thehindu.com/news/national/kerala/why-kochi-corporation-and-historic-cochin-gymnasium-appear-headed-for-a-bout-over-rent/article71441383.ece)
-- [Durga Puja under BJP rule in West Bengal: A push for vegetarianism and tradition](https://www.thehindu.com/news/cities/kolkata/durga-puja-under-bjp-rule-in-west-bengal-a-push-for-vegetarianism-and-tradition/article71441501.ece)
 - [Kallakurichi hooch tragedy 2024: A pall of gloom](https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-hooch-tragedy-2024-a-pall-of-gloom/article68315673.ece)
 - [Justice Gokuldas Commission report on 2024 Kallakurichi hooch tragedy tabled in T.N. Assembly; holds police, excise officials responsible](https://www.thehindu.com/news/national/tamil-nadu/justice-gokuldas-commission-report-on-2024-kallakurichi-hooch-tragedy-tabled-in-tn-assembly-holds-police-excise-officials-responsible/article71441572.ece)
-- [CMRL case: ED writes to Keralam DGP seeking FIR against Pinarayi Vijayan, daughter, son-in-law Mohamed Riyas](https://www.thehindu.com/news/national/kerala/cmrl-case-ed-writes-to-keralam-dgp-seeking-fir-against-pinarayi-vijayan-daughter-son-in-law-mohamed-riyas/article71441609.ece)
-- [What data says about Tukaram Mundhe’s 100-day stint as FDA Commissioner](https://www.thehindu.com/news/national/maharashtra/what-data-says-about-tukaram-mundhes-100-day-stint-asfdacommissioner/article71440009.ece)
-- [Complaint for remarks against PM Modi: HC refuses to quash 2019 summons to Rahul Gandhi](https://www.thehindu.com/news/cities/mumbai/complaint-for-remarks-against-pm-modi-hc-refuses-to-quash-2019-summons-to-rahul-gandhi/article71441592.ece)
-- [Supreme Court directs Assam not to appoint teachers in schools, colleges under provincialisation scheme](https://www.thehindu.com/news/national/assam/supreme-court-directs-assam-not-to-appoint-teachers-in-schools-colleges-under-provincialisation-scheme/article71441560.ece)
-- [El Niño impact: Paddy area in Andhra’s Vizianagaram falls from 1 lakh hectares to 20,760](https://www.thehindu.com/news/cities/Visakhapatnam/el-nino-impact-paddy-area-in-andhras-vizianagaram-falls-from-1-lakh-hectares-to-20760/article71441147.ece)
-- [Why are the Sarkaria Commission Report and Veeranam project back in focus? | Explained](https://www.thehindu.com/news/national/tamil-nadu/why-are-the-sarkaria-commission-report-and-veeranam-project-back-in-focus-explained/article71441564.ece)
 
 **Livemint**
 - [19 of the richest immigrant billionaires in US were born in India, the highest for any country](https://www.livemint.com/news/us-news/americas-richest-immigrants-19-of-the-richest-immigrants-in-us-were-born-in-india-11788849550961.html)
@@ -72,7 +82,7 @@
 - [‘We celebrate getting trapped in EMIs’: Woman's take on 'India's idea of success' sparks debate](https://www.livemint.com/news/trends/we-celebrate-getting-trapped-in-emis-womans-take-on-indias-idea-of-success-sparks-debate-11788842290895.html)
 - [BRICS Summit 2026: Who’s attending, why it matters and India’s role? | Explained](https://www.livemint.com/news/india/brics-summit-2026-who-s-attending-why-it-matters-and-india-s-role-explained-xi-jinping-modi-putin-us-iran-war-11788837448566.html)
 - [India joins US, 24 countries in global alliance on 6G network; advances domestic ambition under Bharat 6G Mission](https://www.livemint.com/news/india/india-joins-us-24-countries-in-global-alliance-on-6g-network-advances-domestic-ambition-under-bharat-6g-mission-11788837912691.html)
-- [‘Unacceptable’: Marine Le Pen condemns removal of female staff during Hindu group’s visit to Eiffel Tower](https://www.livemint.com/news/world/unacceptable-marine-le-pen-condemns-removal-of-female-staff-during-hindu-group-s-visit-to-eiffel-tower-11788836515234.html)
+- [‘At no point, access was denied to anyone’: BAPS on removal of female staff during visit to Eiffel Tower](https://www.livemint.com/news/world/unacceptable-marine-le-pen-condemns-removal-of-female-staff-during-hindu-group-s-visit-to-eiffel-tower-11788836515234.html)
 - ['No more selling Bombardier': Trump threatens to stop sale of Canadian jets in US](https://www.livemint.com/news/us-news/no-more-selling-bombardier-trump-threatens-to-stop-sale-of-canadian-jets-in-us-11788833996402.html)
 
 **Moneycontrol**
@@ -87,38 +97,40 @@
 - [Buy Patel Engineering; target of Rs 80: ICICI Direct](https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html)
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
-**News18** — _unavailable_
+**Vartha Bharati**
+- [ಶೀಘ್ರದಲ್ಲೇ ಇನ್ನೂ 25 ತಾಲ್ಲೂಕುಗಳನ್ನು ಬರಪೀಡಿತ ಪ್ರದೇಶಗಳೆಂದು ಘೋಷಣೆ : ಡಿಸಿಎಂ ಡಾ.ಜಿ.ಪರಮೇಶ್ವರ್‌](https://www.varthabharati.in/bangalore-city/another-25-taluks-to-be-declared-drought-affected-soon-dcm-dr-g-parameshwara-2273669)
+- [ಬಳ್ಳಾರಿ ಪಾದಯಾತ್ರೆ ಸಮಾರೋಪಕ್ಕೆ ಅನುಮತಿ ವಿಳಂಬ ಆರೋಪ | ಜಿಲ್ಲಾಧಿಕಾರಿಗಳು ಸರ್ಕಾರದ ಒತ್ತಡಕ್ಕೆ ಮಣಿಯಬಾರದು: ಬಿ.ವೈ.ವಿಜಯೇಂದ್ರ](https://www.varthabharati.in/bellary/dcs-should-not-yield-to-government-pressure-by-vijayendra-2273668)
+- [ಕಣಚೂರು ಫಿಸಿಯೋಥೆರಪಿ ಕಾಲೇಜಿನಲ್ಲಿ ವಿಶ್ವ ಫಿಸಿಯೋಥೆರಪಿ ದಿನಾಚರಣೆ](https://www.varthabharati.in/DakshinaKannada/world-physical-therapy-day-celebrated-at-kanachur-college-of-physiotherapy-2273667)
+- [ಎಪಿಎಂಸಿಗಳಲ್ಲಿ ಬಾಲಕಾರ್ಮಿಕ ಪದ್ಧತಿ ತಕ್ಷಣ ನಿಲ್ಲಿಸಿ : ಸಿಎಂ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್](https://www.varthabharati.in/bangalore-city/immediately-stop-child-labour-practice-in-apmcs-cm-dk-shivakumar-2273666)
+- [ಸೌದಿ ಅರೇಬಿಯಾ ಮೇಲೆ ಹೌತಿಗಳಿಂದ ದಾಳಿ : 73 ನಾಗರಿಕರಿಗೆ ಗಾಯ](https://www.varthabharati.in/gulf/houthis-attack-on-saudi-arabia-73-civilians-injured-2273664)
+- [ಭಾರತದ ಆರ್ಥಿಕತೆಯ ನೈಜ ಚಿತ್ರಣವೇನು?](https://www.varthabharati.in/nimma-ankana/what-is-the-real-picture-of-indias-economy-2273663)
+- [ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್ ಅವರು ಮಂಗಳವಾರ ಬೆಳಗ್ಗೆ ಬೆಂಗಳೂರಿನ ಯಶವಂತಪುರ ಎಪಿಎಂಸಿ ಮಾರುಕಟ್ಟೆಗೆ ಹಠಾತ್ ಭೇಟಿ ನೀಡಿ ಹಣ್ಣು, ತರಕಾರಿ ಪೂರೈಸುವ ರೈತರು, ಮಾರಾಟಗಾರರ ಅಹವಾಲುಗಳನ್ನು ಆಲಿಸಿದರು.](https://www.varthabharati.in/gallery/chief-minister-dk-shivakumar-paid-a-surprise-visit-to-the-yeshwantpur-apmc-market-in-bengaluru-on-tuesday-morning-and-listened-to-the-grievances-of-farmers-and-vendors-supplying-fruits-and-vegetables-2273662)
+- [Kalaburagi | ಶೂನ್ಯ ಲಿಂಗ ವಿವೇಚನೆ ಭಾಗ-5 ಕೃತಿ ಬಿಡುಗಡೆ ಸಮಾರಂಭ](https://www.varthabharati.in/kalaburagi/kalaburagi-book-launch-ceremony-shunya-linga-vivechane-part-5-2273661)
+- [West Bengal | ‘ಬಂಗಾಳಿಗಳು ಏನು ತಿನ್ನಬೇಕು ಎಂದು ಯಾರೂ ಹೇಳುವಂತಿಲ್ಲ’: ಬಿಜೆಪಿ ರಾಜ್ಯಾಧ್ಯಕ್ಷ ಸಮಿಕ್ ಭಟ್ಟಾಚಾರ್ಯ](https://www.varthabharati.in/National/west-bengal-nobody-can-tell-bengalis-what-to-eat-bjp-state-president-samik-bhattacharya-2273659)
+- [‘Tr.’ ಬಳಸಲು ಯಾರೆಲ್ಲ ಅರ್ಹರು?](https://www.varthabharati.in/nimma-ankana/who-all-are-eligible-to-use-tr-2273658)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (5.8)
+- India (6.8)
 - Emkay Global Financial (5.0)
+- Rahul (3.2)
 - PM Modi (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
 - Delhi (2.9)
-- CCTV (2.6)
+- India's (2.6)
+- Manipuri (2.6)
 - Complaint (2.6)
-- CMRL (2.6)
 - Kallakurichi (2.6)
-- Explained (2.6)
 - Rahul Gandhi (2.0)
-- Tukaram Mundhe (2.0)
+- West Bengal (2.0)
 - Buy Bajaj Finance (2.0)
-- Rahul (1.9)
+- Punjab (1.6)
 
 ## NewsAPI top headlines (India)
+_Skipped — set NEWSAPI_KEY in .env to enable (https://newsapi.org)._
 
 ## GNews top headlines (India)
-- [Bageshwar Baba Non Veg Controversy:দুর্গাপুজোয় আমিষ খাওয়া নিয়ে বাগেশ্বর বাবার মন্তব্যের পাল্টা কী বলছেন তথাগত রায় এবং দিলীপ ঘোষ ?](https://bengali.abplive.com/district/bageshwar-baba-non-veg-controversy-bjp-tathagata-roy-and-dilip-ghosh-reaction-on-this-issue-1192008)
-- [‘Conduct worthy of derision’: Allahabad HC pulls up District Magistrate over NSA detention of law student](https://www.thehindu.com/news/national/conduct-worthy-of-derision-allahabad-hc-pulls-up-district-magistrate-over-nsa-detention-of-law-student/article71439929.ece)
-- ['अमेरिका में बनाओ तभी यहां प्लेन बेच पाओगे', डोनाल्ड ट्रंप का कनाडियन कंपनी बॉम्बार्डियर को अल्टीमेटम](https://www.aajtak.in/world/story/donald-trump-says-canadas-bombardier-cannot-sell-us-unless-it-builds-there-ntc-aktw-dskc-2638442-2026-09-08)
-- [కొత్త పింఛన్లు కోతలేనా..!](https://www.prajasakti.com/ap-news/amaravati/choking-with-rules)
-- [కొత్త పింఛన్లు కోతలేనా..!](https://prajasakti.com/ap-news/amaravati/choking-with-rules)
-- [Bageshwar Baba: জমি জবরদখল, হুমকি দেওয়া, রাস্তা দখল, এমনকী গুলি চালানো - বাগেশ্বর বাবার বিরুদ্ধে অগুনতি অভিযোগ](https://bengali.abplive.com/district/kolkata-news-bageshwar-baba-non-veg-eating-controversy-land-grabbing-threats-road-encroachment-even-shooting-countless-allegations-against-bageshwar-baba-1192001)
-- [Scientists say ‘ultrafast magnetic-field pulses’ could help AI data centers cut their energy usage by 100x - and bring sizable improvements to RAM and data storage](https://tech.yahoo.com/science/articles/scientists-ultrafast-magnetic-field-pulses-190000925.html)
-- [புதுச்சேரியின் தட்டாஞ்சாவடி உட்பட 5 தொகுதிகளில் இடைத்தேர்தல்](https://www.hindutamil.in/news/tamilnadu/bypolls-to-be-held-in-5-puducherry-constituencies-including-thattanchavady)
-- [தமிழகத்தில் சட்டம் - ஒழுங்கு நிலவரம் சீர்குலையவில்லை: முதல்வர் விஜய்](https://www.dinamalar.com/news/tamil-nadu-news/no-law-and-order-situation-in-tamil-nadu-cm-vijay/4316870)
-- [மதுராந்தகம், தாராபுரத்துக்கு அக்.6-ல் இடைத்தேர்தல்: வேட்புமனு தாக்கல் நாளை தொடக்கம்](https://www.hindutamil.in/news/tamilnadu/madurantakam-dharapuram-bypolls-on-oct-6-nomination-filing-begins-tomorrow)
+_Skipped — set GNEWS_KEY in .env to enable (https://gnews.io)._
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._

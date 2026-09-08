@@ -55,11 +55,11 @@ NEWS_RSS_FEEDS = {
     "Times of India": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
     "NDTV": "https://feeds.feedburner.com/ndtvnews-top-stories",
     "Hindustan Times": "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml",
-    "Indian Express": "https://indianexpress.com/section/india/feed/",
+    "Vijay Karnataka": "https://vijaykarnataka.com/langapi/sitemap/gstandrssfeed.xml",
     "The Hindu": "https://www.thehindu.com/news/national/feeder/default.rss",
     "Livemint": "https://www.livemint.com/rss/news",
     "Moneycontrol": "https://www.moneycontrol.com/rss/latestnews.xml",
-    "News18": "https://www.news18.com/rss/india.xml",
+    "Vartha Bharati": "https://www.varthabharati.in/google_feeds.xml",
 }
 
 GOOGLE_TRENDS_RSS_URLS = [
@@ -81,7 +81,7 @@ STOPWORDS = set(
 def fetch_google_trends():
     for url in GOOGLE_TRENDS_RSS_URLS:
         try:
-            resp = requests.get(url, timeout=REQUEST_TIMEOUT, headers={"User-Agent": "Mozilla/5.0"})
+            resp = requests.get(url, timeout=REQUEST_TIMEOUT, headers=RSS_HEADERS)
             resp.raise_for_status()
             root = ET.fromstring(resp.content)
             items = []
@@ -103,9 +103,19 @@ def fetch_google_trends():
     return []
 
 
-def fetch_news_rss(url, top_n):
+RSS_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+    "Accept-Language": "en-IN,en;q=0.9",
+}
+
+
+def fetch_news_rss(feed_name, url, top_n):
     try:
-        resp = requests.get(url, timeout=REQUEST_TIMEOUT, headers={"User-Agent": "Mozilla/5.0"})
+        resp = requests.get(url, timeout=REQUEST_TIMEOUT, headers=RSS_HEADERS)
         resp.raise_for_status()
         feed = feedparser.parse(resp.content)
         headlines = []
@@ -114,8 +124,18 @@ def fetch_news_rss(url, top_n):
             link = getattr(entry, "link", "").strip() or None
             if title:
                 headlines.append({"title": html.unescape(title), "link": link})
+        if not headlines:
+            print(
+                f"[warn] {feed_name}: fetched OK (HTTP {resp.status_code}, "
+                f"{len(resp.content)} bytes) but parsed 0 entries",
+                file=sys.stderr,
+            )
         return headlines
-    except Exception:
+    except requests.exceptions.HTTPError as e:
+        print(f"[warn] {feed_name}: HTTP {e.response.status_code} — {url}", file=sys.stderr)
+        return []
+    except Exception as e:
+        print(f"[warn] {feed_name}: {type(e).__name__}: {e}", file=sys.stderr)
         return []
 
 
@@ -208,7 +228,7 @@ def collect_data(top_n):
     outlets = {}
     all_titles = []
     for name, url in NEWS_RSS_FEEDS.items():
-        headlines = fetch_news_rss(url, top_n)
+        headlines = fetch_news_rss(name, url, top_n)
         outlets[name] = headlines  # empty list means unavailable
         all_titles.extend(h["title"] for h in headlines)
     data["outlets"] = outlets
