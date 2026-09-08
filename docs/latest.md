@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-08 22:34:10
+# India Trending Report — 2026-09-08 23:02:11
 
 ## Google Trends (India) — top trending searches
 1. [rayan aït-nouri](https://trends.google.com/trending/rss?geo=IN)
@@ -9,20 +9,20 @@
 6. [football match](https://trends.google.com/trending/rss?geo=IN)
 7. [william gomes](https://trends.google.com/trending/rss?geo=IN)
 8. [jobe bellingham](https://trends.google.com/trending/rss?geo=IN)
-9. [sofascore](https://trends.google.com/trending/rss?geo=IN)
-10. [vinícius júnior](https://trends.google.com/trending/rss?geo=IN)
+9. [vinícius júnior](https://trends.google.com/trending/rss?geo=IN)
+10. [gabri veiga](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [US strikes Iranian tankers near Kharg Island; Tehran threatens Gulf oil vessels](https://timesofindia.indiatimes.com/world/middle-east/us-strikes-iranian-tankers-near-kharg-island-tehran-threatens-gulf-oil-vessels/articleshow/133942382.cms)
 - [On Putin's agenda, sale of 5th-generation jets to India](https://timesofindia.indiatimes.com/defence/news/on-putins-agenda-sale-of-5th-generation-jets-to-india/articleshow/133943532.cms)
-- [NIA drops UAPA against American, 6 Ukrainians held in 'terror link' case](https://timesofindia.indiatimes.com/india/nia-drops-uapa-against-american-6-ukrainians-held-in-terror-link-case/articleshow/133942670.cms)
+- [Ahead of Brics, India & China hold military talks in Arunachal](https://timesofindia.indiatimes.com/india/1st-corps-commander-level-india-china-talks-in-eastern-sector-held-over-2-days-mea-says-ties-gradually-moving-in-positive-direction/articleshow/133940419.cms)
 - [‘Convicted or not convicted’: Wasim Akram breaks silence on Imran Khan’s health](https://timesofindia.indiatimes.com/sports/cricket/news/convicted-or-not-convicted-wasim-akram-breaks-silence-on-imran-khans-health-i-miss-him-a-lot/articleshow/133929616.cms)
-- [BJP demands Punjab CM's resignation over farmer's suicide](https://timesofindia.indiatimes.com/india/bjp-demands-punjab-cms-resignation-over-farmers-suicide/articleshow/133944878.cms)
+- [NIA drops UAPA against American, 6 Ukrainians held in 'terror link' case](https://timesofindia.indiatimes.com/india/nia-drops-uapa-against-american-6-ukrainians-held-in-terror-link-case/articleshow/133942670.cms)
 - [Uber's layoff memo also has a work from home message for remaining 29,000 employees](https://timesofindia.indiatimes.com/technology/tech-news/ubers-layoff-memo-also-has-a-work-from-home-message-for-the-remaining-29000-employees-were-establishing-clearer-principles-for-where-roles-and-teams-should-/articleshow/133916866.cms)
+- [BJP demands Punjab CM's resignation over farmer's suicide](https://timesofindia.indiatimes.com/india/bjp-demands-punjab-cms-resignation-over-farmers-suicide/articleshow/133944878.cms)
 - [Strategic autonomy in motion as India hosts Brics summit](https://timesofindia.indiatimes.com/india/strategic-autonomy-in-motion-as-india-hosts-brics-summit/articleshow/133940862.cms)
 - [Digital asset firms court sovereign funds](https://timesofindia.indiatimes.com/business/india-business/digital-asset-firms-court-sovereign-funds/articleshow/133944186.cms)
-- [Over 600 flights cancelled as air traffic control glitch disrupts UK airports](https://timesofindia.indiatimes.com/world/europe/nearly-300-flights-cancelled-across-uk-after-air-traffic-control-glitch-major-airports-hit/articleshow/133932658.cms)
 - [Apple iPhone 18 Pro, Ultra launch on September 9: Expected specifications, price](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-iphone-ultra-to-launch-on-september-9-likely-specifications-and-price/articleshow/133909359.cms)
 
 **NDTV**
@@ -62,16 +62,16 @@
 - [ಸಚಿವ SS ಮಲ್ಲಿಕಾರ್ಜುನ್ ಅಪ್ಪನಿಗೆ ಹುಟ್ಟಿದ್ರೆ ಬೂಟಿನಲ್ಲಿ ಹೊಡೆಯಲಿ: BJP ಶಾಸಕ ಬಿಪಿ ಹರೀಶ್ ಸವಾಲು! ತಾರಕಕ್ಕೇರಿ ಜಗಳ](https://vijaykarnataka.com/news/davanagere/if-minister-ss-mallikarjun-is-his-fathers-true-son-let-him-hit-me-with-a-shoe-bjp-mla-bp-harish-issues-a-challenge/articleshow/133933800.cms)
 
 **The Hindu**
+- [Revisit policy of banning social, political groups in J&K: Mirwaiz Umar Farooq](https://www.thehindu.com/news/national/jammu-and-kashmir/revisit-policy-of-banning-social-political-groups-in-jk-mirwaiz-umar-farooq/article71443631.ece)
 - [On Sheikh Abdullah’s 44th death anniversary, NC reclaims his political legacy through archival videos](https://www.thehindu.com/news/national/jammu-and-kashmir/on-sheikh-abdullahs-44thdeath-anniversary-nc-reclaims-his-political-legacy-through-archival-videos/article71443791.ece)
 - [Odisha’s rural work does not have adequate photographic evidence, says a draft audit report](https://www.thehindu.com/news/national/odisha/odishas-rural-work-does-not-have-adequate-photographic-evidence-says-a-draft-audit-report/article71443035.ece)
 - [Probe ordered into police action against protesting Bhopal intern doctors](https://www.thehindu.com/news/national/madhya-pradesh/probe-ordered-after-water-cannon-alleged-lathicharge-at-protesting-intern-doctors-in-bhopal/article71444057.ece)
 - [Chlorine gas leak at water filtration plant in Madhya Pradesh’s Sehore; four people hospitalised](https://www.thehindu.com/news/national/madhya-pradesh/chlorine-gas-leak-at-a-sehore-water-filtration-plant/article71444504.ece)
 - [Andhra Pradesh rain forecast: showers from September 12 after a near 60% deficit](https://www.thehindu.com/news/national/andhra-pradesh/relief-from-heat-for-andhra-pradesh-likely-as-low-pressure-brews-over-bay-of-bengal/article71443507.ece)
 - [INDIA bloc parties announce Odisha Assembly ‘gherao’ on Sept. 29 over new mining law](https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece)
+- [T.N.’s GSDP expanded by 15.98% in 2024-25; debt stands at ₹8.53 lakh crore: CAG](https://www.thehindu.com/news/national/tamil-nadu/tns-gsdp-expanded-by-1598-in-2024-25-debt-stands-at-853-lakh-crore-cag/article71444013.ece)
 - [Monthly assistance for ex-servicemen, widows to be raised to ₹6,000, says Minister](https://www.thehindu.com/news/national/tamil-nadu/monthly-assistance-for-ex-servicemen-widows-to-be-raised-to-6000-says-minister/article71443037.ece)
 - [T.N. Govt. to create new HR&CE department at the Secretariat](https://www.thehindu.com/news/national/tamil-nadu/tn-govt-to-create-new-hrce-department-at-the-secretariat/article71444284.ece)
-- [Windergy India 2026 from October 7 to 9](https://www.thehindu.com/news/national/tamil-nadu/windergy-india-2026-from-october-7-to-9/article71443822.ece)
-- [Akhilesh unveils blue dress code for SP youth wing to push Bahujan plank](https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-unveils-blue-dress-code-for-sp-youth-wing-to-push-bahujan-plank/article71444332.ece)
 
 **Livemint**
 - [US strikes Iranian tankers after attempted missile attacks on its Navy warship: Report](https://www.livemint.com/news/world/iran-claims-us-missile-hit-tanker-near-kharg-island-irgc-says-mq-1-drone-downed-over-strait-of-hormuz-11788898120584.html)
@@ -100,35 +100,35 @@
 - [ಅಲ್ ಖೈರ್ ಇಸ್ಲಾಮಿಕ್ ಇಂಗ್ಲಿಷ್ ಮೀಡಿಯಂ ಶಾಲೆಯಲ್ಲಿ ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ](https://www.varthabharati.in/DakshinaKannada/--2273854)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (4.2)
+- India (5.2)
 - Iranian (3.2)
 - Delhi (3.2)
 - Odisha (2.9)
+- Brics (2.6)
+- China (2.6)
+- Arunachal (2.6)
 - September (2.6)
 - Report (2.6)
-- October (2.6)
 - Kharg Island (2.0)
 - Satya Niketan (2.0)
 - Former Delhi (2.0)
 - Rakesh Mehta (2.0)
 - Tehran (1.6)
-- Trump (1.6)
-- Minister (1.6)
-- Congress (1.6)
+- Ahead (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [বাগেশ্বর বাবার বিরুদ্ধে থানায় অভিযোগ](https://bengali.abplive.com/district/bageshwar-baba-durga-pujo-non-veg-meal-controversy-police-complaint-lodge-1192069)
-- [वादा था दोगुना करेंगे पेंशन, लेकिन बढ़कर आया सिर्फ 50%; CM शुभेंदु तो गिनाने लगे मजबूरी, एक भरोसा भी](https://www.livehindustan.com/national/despite-poll-promises-west-bengal-cm-suvendu-adhikari-sends-only-50-percent-higher-pension-to-beneficiaries-201788862874764.html)
-- [బీఆర్ఎస్ ఎమ్మెల్యేల అక్రమ అరెస్టులపై కొత్తగూడెంలో భారీ ప్రదర్శన](https://www.ntnews.com/khammam/badradri-kothagudem/huge-demonstration-in-kothagudem-against-brs-mlas-illegal-arrests-2505659)
-- [At least two people dead after Russian strikes on Kyiv](https://www.bbc.com/news/articles/cn8m1k7p3v7o)
-- [सोशल मीडिया एल्गोरिदम पर लगेगी लगाम, ऑस्ट्रेलिया ला रहा माय फीड, माय वे कानून](https://www.aajtak.in/technology/tech-news/story/australia-social-media-algorithm-my-feed-my-way-prym-dskc-2638822-2026-09-08)
-- [Asha Bhosale: आशा भोसले यांचं शेवटचं गाणं रिलीज; रेकॉर्डिंगचा व्हिडीओ पाहून चाहते भावुक](https://www.lokmat.com/filmy/bollywood/asha-bhosales-last-song-released-fans-get-emotional-after-watching-the-recording-video-om-ka-hari-movie-a-a998/)
-- [செப்டம்பர் 11ல் ஓடிடியில் விஸ்வநாத் அண்ட் சன்ஸ்](https://cinema.dinamalar.com/news/kollywood/vishwanath-sons-on-ott-on-september-11/140758)
-- [উর্দু সংবাদপত্রে ‘উস্কানিমূলক’ খবরের আড়ালে কোটি টাকার দুর্নীতি! ইডির অভিযানে চাপে তৃণমূল সাংসদ নাদিমুল](https://www.thewall.in/west-bengal/ed-raids-trinamool-mp-nadimul-haque-properties/tid/204300)
-- [Radha Patil on Pune Dahi Handi Program: दहीहंडीत नाचली, गुन्हा दाखल होताच राधा पाटील संतापली; मनातलं सगळं बोलून गेली, गौतमीचंही घेतलं नाव, नेमकं काय म्हणाली?](https://marathi.abplive.com/entertainment/radha-patil-booked-over-pune-dahi-handi-performance-says-show-me-the-obscene-video-whats-obsene-of-showing-waist-1438447)
-- [जहां खेलेंगे सहवाग-द्रविड़ के बेटे, वहीं उम्र का 'फर्जीवाड़ा'... U-19 टीम से बाहर हुए रोहित यादव](https://www.aajtak.in/sports/cricket/story/rohit-yadav-age-discrepancy-india-u19-australia-series-aaryavir-sehwag-anvay-dravid-tspok-dskc-2638759-2026-09-08)
+- [2026 में 700% रिटर्न... क्‍यों इतना भाग रहा? ये शेयर या कुबेर का खजाना](https://www.aajtak.in/business/news/story/ai-infra-stock-zoom-700-percent-in-2026-why-stock-rise-tutd-dskc-2638728-2026-09-08)
+- [पंतप्रधानांच्या मुंबई दौऱ्याआधी कार्यक्रमस्थाळावरुन दोन संशयित ताब्यात, एकाकडे सापडली बंदूक](https://maharashtratimes.com/maharashtra/mumbai-news/two-suspects-detained-before-pm-modis-mumbai-visit-one-found-with-a-gun/articleshow/133921376.cms)
+- [Apple iPhone Ultra price: How Apple's first foldable could become the most expensive iPhone ever launched](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-ultra-price-how-apples-first-foldable-could-become-the-most-expensive-iphone-ever-launched/articleshow/133921486.cms)
+- [பாதுகாப்பான முதலீட்டுத் திட்டம்](https://kalkionline.com/business-finance/sebi-life-cycle-fund-tamil)
+- [मुंबई में पीएम मोदी की रैली से पहले पकड़े गए 2 संदिग्ध, PMO की फर्जी ID और बंदूक बरामद](https://www.jagran.com/news/national-2-suspects-detained-with-gun-fake-id-before-pm-modis-mumbai-rally-40366397.html)
+- [जहां होनी है PM मोदी की रैली, वहां से 2 संदिग्ध हिरासत में लिए गए; शख्स के पास से बंदूक भी बरामद](https://www.livehindustan.com/national/two-suspects-detained-near-the-venue-of-pm-modi-rally-vadodara-gun-recovered-201788864865099.html)
+- ['GTA 6 से पहले ये भी देख लिया', रवि किशन ने 'मनी फॉलोस ब्रदर' मीम पर बनाया गाना, हैरान हुए लोग](https://www.aajtak.in/entertainment/bollywood-news/story/ravi-kishan-money-follows-my-brother-meme-turned-into-t-series-song-fans-reaction-tmovj-dskc-2638819-2026-09-08)
+- [സ്വകാര്യ ബസുകൾ അനിശ്ചിതകാല സമരത്തിലേക്ക്](https://www.metrovaartha.com/news/kerala/private-buses-in-the-state-go-on-strike)
+- [സഞ്ജു ഡാ!!; 1000 വിദ്യാർത്ഥികൾക്ക് യുപിഎസ് സി പഠനത്തിന് സ്കോളർഷിപ്പ് വാ​ഗ്ദാനം ചെയ്ത് സഞ്ജു](https://www.southlive.in/sanju-offers-scholarships-to-1000-students-for-upsc-studies/)
+- [చికెన్‌ పెడుతున్న కేర్ టేకర్ పై మొసలి దాడి.. పపువా న్యూగినియాలో విషాదం](https://tv9telugu.com/trending/worker-dragged-into-water-killed-by-crocodile-1906788.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
