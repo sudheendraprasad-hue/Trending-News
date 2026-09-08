@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-08 08:37:36
+# India Trending Report — 2026-09-08 09:02:22
 
 ## Google Trends (India) — top trending searches
-1. [flood situation near punpun river](https://trends.google.com/trending/rss?geo=IN)
-2. [পশ্চিমবঙ্গ সরকার](https://trends.google.com/trending/rss?geo=IN)
-3. [ವಿಮೆ](https://trends.google.com/trending/rss?geo=IN)
-4. [xiaomi](https://trends.google.com/trending/rss?geo=IN)
-5. [பெ. சண்முகம்](https://trends.google.com/trending/rss?geo=IN)
-6. [एशिया कप](https://trends.google.com/trending/rss?geo=IN)
-7. [महाराष्ट्र](https://trends.google.com/trending/rss?geo=IN)
-8. [असम](https://trends.google.com/trending/rss?geo=IN)
-9. [माही विज](https://trends.google.com/trending/rss?geo=IN)
-10. [श्रेयस अय्यर](https://trends.google.com/trending/rss?geo=IN)
+1. [भारतीय थलसेना](https://trends.google.com/trending/rss?geo=IN)
+2. [मतदाता](https://trends.google.com/trending/rss?geo=IN)
+3. [ஆவடி](https://trends.google.com/trending/rss?geo=IN)
+4. [నష్రా సంధు](https://trends.google.com/trending/rss?geo=IN)
+5. [abhishek sharma](https://trends.google.com/trending/rss?geo=IN)
+6. [flood situation near punpun river](https://trends.google.com/trending/rss?geo=IN)
+7. [পশ্চিমবঙ্গ সরকার](https://trends.google.com/trending/rss?geo=IN)
+8. [ವಿಮೆ](https://trends.google.com/trending/rss?geo=IN)
+9. [xiaomi](https://trends.google.com/trending/rss?geo=IN)
+10. [பெ. சண்முகம்](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Punjab man dies by suicide after 'pressure to apologise' over 'chitta' question to minister](https://timesofindia.indiatimes.com/city/chandigarh/man-dies-by-suicide-after-pressure-to-apologise-for-questioning-punjab-minister-over-chitta-menace/articleshow/133910023.cms)
-- ['Some can never be happy with India's vikas': PM Modi renews 'naraz fufa' jibe at Cong](https://timesofindia.indiatimes.com/india/event-sold-out-in-60-minutes-we-will-rock-you-welcomes-pm-modi-to-namo-for-viksit-bharat/articleshow/133914109.cms)
-- [Who was Chongtham Vikram, Manipuri musician killed in Delhi attack](https://timesofindia.indiatimes.com/city/delhi/who-was-chongtham-vikram-manipuri-musician-killed-in-delhi-attack-cousin-of-bafta-winning-boong-director/articleshow/133909388.cms)
+- ['Attempt to make example out of Aakriti': Official excesses will make UP dystopia, says HC](https://timesofindia.indiatimes.com/city/allahabad/hc-civil-servants-loyalty-must-be-to-constitution-not-political-executive/articleshow/133892044.cms)
+- [Manipuri musician killed in Delhi was cousin of BAFTA-winning ‘Boong’ director](https://timesofindia.indiatimes.com/city/delhi/who-was-chongtham-vikram-manipuri-musician-killed-in-delhi-attack-cousin-of-bafta-winning-boong-director/articleshow/133909388.cms)
+- [Another French museum heist: 4 Renoir paintings stolen, one dropped while fleeing](https://timesofindia.indiatimes.com/world/europe/another-french-museum-heist-thieves-steal-4-paintings-worth-rs-98-cr-from-renoir-museum-drop-one-while-fleeing/articleshow/133913592.cms)
 - ['I was disrespected': Ex-Pak coach names 'untouchable' figure behind England mess](https://timesofindia.indiatimes.com/sports/cricket/news/i-was-disrespected-and-undermined-former-pakistan-coach-drops-bombshell-names-untouchable-figure-behind-england-tour-mess/articleshow/133911564.cms)
 - [PM Modi opens 326 km of new freight corridor sections, network now complete](https://timesofindia.indiatimes.com/business/india-business/rs-20700-crore-326-km-more-india-completes-its-dedicated-freight-corridor-network-as-pm-modi-inaugurates-three-new-sections-now-fully-operational-across-2843-km-with-443-trains-daily-as-of-now/articleshow/133914769.cms)
 - [How WhatsApp messages led to former USCIS official in $960,000 citizenship scam](https://timesofindia.indiatimes.com/technology/tech-news/how-whatsapp-messages-and-calls-led-investigators-to-former-uscis-official-in-alleged-960000-american-citizenship-bribery-scam/articleshow/133912303.cms)
-- [Another French museum heist: 4 Renoir paintings stolen, one dropped while fleeing](https://timesofindia.indiatimes.com/world/europe/another-french-museum-heist-thieves-steal-4-paintings-worth-rs-98-cr-from-renoir-museum-drop-one-while-fleeing/articleshow/133913592.cms)
+- [Jaipur fort murder: Guide dies after knife attack; locals protest](https://timesofindia.indiatimes.com/city/jaipur/jaipur-fort-murder-amer-guide-dies-after-knife-attack-locals-shut-market-protest/articleshow/133916894.cms)
+- ['Some can never be happy with India's vikas': PM Modi renews 'naraz fufa' jibe at Cong](https://timesofindia.indiatimes.com/india/event-sold-out-in-60-minutes-we-will-rock-you-welcomes-pm-modi-to-namo-for-viksit-bharat/articleshow/133914109.cms)
 - ['What is this India?' Bengaluru chess crowds leave foreigners wondering at GCL](https://timesofindia.indiatimes.com/sports/chess/foreigners-wondering-what-is-this-india-pranesh-on-gcl-praggnanandhaa-rumours-and-vaishali-exclusive/articleshow/133911399.cms)
-- ['Character assassination must stop': Kangana slams targeting of TN actress](https://timesofindia.indiatimes.com/india/character-assassination-must-stop-kangana-slams-targeting-of-tamil-nadu-actress-for-her-relations/articleshow/133910439.cms)
 - [Apple iPhone 18 Pro, iPhone Ultra launch on Sep 9: Likely specifications and price](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-iphone-ultra-to-launch-on-september-9-likely-specifications-and-price/articleshow/133909359.cms)
 
 **NDTV**
@@ -38,42 +38,43 @@
 - [NDTV Fact Check: Pakistan Tries To Sell Op Sindoor AI Slop Against India](https://www.ndtv.com/india-news/ndtv-fact-check-pakistan-tries-to-sell-operation-sindoor-ai-slop-against-india-12016571#publisher=newsstand)
 
 **Hindustan Times**
+- [HC pulls up Centre for revealing survivor's identity in POSH handbook](https://www.hindustantimes.com/india-news/hc-pulls-up-centre-for-revealing-survivor-s-identity-in-posh-handbook-101788856444211.html)
+- [ED letter against Vijayan, daughter, Riyas to be examined as per law: Minister Chennithala](https://www.hindustantimes.com/india-news/ed-letter-against-vijayan-daughter-riyas-to-be-examined-as-per-law-minister-chennithala-101788856321140.html)
+- [5 booked after Dalit man drinks poison and dies following caste abuse in Punjab](https://www.hindustantimes.com/cities/chandigarh-news/5-booked-for-abetment-of-suicide-caste-abuse-after-sangrur-man-dies-101788855812644.html)
 - [Manipur musician's son recounts what happened before Delhi murder: ‘They were having alcohol, making noise’](https://www.hindustantimes.com/india-news/manipur-musicians-son-recounts-what-happened-before-delhi-murder-they-were-having-alcohol-making-noise-101788852884586.html)
 - [Govt working to digitise Delhi’s land records: Official](https://www.hindustantimes.com/india-news/govt-working-to-digitise-delhi-s-land-records-official-101788855097495.html)
-- [Not Jhoot ki goonj, youth marches ahead with…': PM Modi's dig at Rahul Gandhi in Vadodara](https://www.hindustantimes.com/india-news/not-jhoot-ki-goonj-youth-marches-ahead-with-pm-modi-dig-at-rahul-gandhi-in-vadodara-namo-101788854453836.html)
+- ['Not jhoot ki goonj, youth marches ahead with…': PM Modi's dig at Rahul Gandhi in Vadodara](https://www.hindustantimes.com/india-news/not-jhoot-ki-goonj-youth-marches-ahead-with-pm-modi-dig-at-rahul-gandhi-in-vadodara-namo-101788854453836.html)
 - [BJP govt restored investor confidence in UP; no room for mafia: Adityanath](https://www.hindustantimes.com/india-news/bjp-govt-restored-investor-confidence-in-up-no-room-for-mafia-adityanath-101788852892450.html)
 - [Complaint for remarks against PM Modi: Bombay high court refuses to quash 2019 summons to Rahul Gandhi](https://www.hindustantimes.com/india-news/complaint-for-pm-modi-remarks-bombay-high-court-refuses-to-quash-2019-summons-to-rahul-gandhi-101788851591246.html)
 - [ED finds  ₹60cr ‘financial irregularities’ in TMC MP-linked newspaper during 24-hour-long searches](https://www.hindustantimes.com/india-news/ed-finds-rs-60cr-financial-irregularities-in-tmc-mp-linked-newspaper-during-24-hour-long-searches-101788850130865.html)
 - [ED writes to Kerala DGP seeking FIR against ex-CM Vijayan, daughter, son-in-law in CMRL case](https://www.hindustantimes.com/india-news/ed-writes-to-kerala-dgp-seeking-fir-against-ex-cm-vijayan-daughter-son-in-law-in-cmrl-case-101788849827137.html)
-- [Odisha CM leaves for UAE, to hold investment roadshows in Abu Dhabi, Dubai](https://www.hindustantimes.com/india-news/odisha-cm-leaves-for-uae-to-hold-investment-roadshows-in-abu-dhabi-dubai-101788849213515.html)
-- [Ruling BJP expels 42 rebels ahead of first phase of Rajasthan civic polls](https://www.hindustantimes.com/india-news/ruling-bjp-expels-42-rebels-ahead-of-first-phase-of-rajasthan-civic-polls-101788848376915.html)
-- [Gold price today: Check 24K, 22K rates in Delhi, Mumbai, Chennai and other cities](https://www.hindustantimes.com/india-news/gold-price-today-check-24k-22k-rates-in-delhi-mumbai-chennai-and-other-cities-101788844700403.html)
 
 **Vijay Karnataka**
 - [ವಡೋದರಾದಲ್ಲಿ ನರೇಂದ್ರ ಮೋದಿ ಬೆಂಕಿ ಭಾಷಣ; ʻಸಿಡುಕಿನ ಅಂಕಲ್‌ʼ ಕೂಗಿ ಕರೆದ ಪ್ರಧಾನಿ! Gen-Z ಚಪ್ಪಾಳೆಗಳ ನಡುವೆ ಹೋಮ್‌ ಟೂರ್‌](https://vijaykarnataka.com/news/india/pm-narendra-modi-takes-jibe-at-rahul-gandhi-in-his-vadodara-speech-says-opposition-misleading-gen-z/articleshow/133914252.cms)
+- [ಶಾಸಕರ ಬೇಡಿಕೆಗೆ ಕೊನೆಗೂ ಬಗ್ಗಿದ ಸರ್ಕಾರ: ಶೀಘ್ರದಲ್ಲೇ 25 ತಾಲ್ಲೂಕುಗಳು ಬರಪೀಡಿತ ಪ್ರದೇಶಗಳೆಂದು ಘೋಷಣೆ](https://vijaykarnataka.com/news/karnataka/few-more-droughts-affected-areas-will-declare-soon-says-dr-g-parameshwar/articleshow/133914854.cms)
 - [ಮಳೆಗಾಲದಲ್ಲೇ ಎದುರಾದ ಬೇಸಿಗೆ, ಬಿರಿಯಲಾರಂಭಿಸಿದ ನೆಲ: ಲಿಂಗನಮಕ್ಕಿ, ಮಾಣಿ, ಭದ್ರಾ ಜಲಾಶಯಗಳ ನೀರಿನ ಮಟ್ಟದಲ್ಲಿ ಇಳಿಮುಖ](https://vijaykarnataka.com/news/shivamogga/hot-weather-even-in-rainy-season-maani-linganamakki-dam-water-level-decreasing-farmers-are-in-trouble/articleshow/133909308.cms)
+- [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
 - [ಕಾಂಗ್ರೆಸ್ ಒಳಗೆ ಮಾಜಿ - ಹಾಲಿ ಫೈಟ್ : ನಿಯಮಗಳ ವಿರುದ್ದ ವರ್ತಿಸಿದ ಬೈರತಿಗೆ, ಮಹದೇವಪ್ಪ ಸೌಜನ್ಯದ ಪಾಠ](https://vijaykarnataka.com/news/karnataka/congress-internal-fight-former-minister-hc-mahadevappa-present-minister-byrathi-suresh/articleshow/133912713.cms)
-- [ಗೌರಿ ಗಣೇಶ ಚತುರ್ಥಿಗೂ ಮುನ್ನ ಈ ರೀತಿ ಸ್ವಚ್ಛಗೊಳಿಸಿ ಬೆಳ್ಳಿ,ತಾಮ್ರದ ಲಕ್ಷ್ಮೀ-ಗಣೇಶ ಮೂರ್ತಿ](https://vijaykarnataka.com/lifestyle/home-decor/gauri-ganesha-chaturthi-2026-clean-silver-copper-lakshmi-ganesh-idols-at-home/articleshow/133912270.cms)
-- [ಬೆಂಗಳೂರಿನ ಎಪಿಎಂಸಿ ಮಾರುಕಟ್ಟೆಗೆ ಡಿಕೆಶಿ ದಿಢೀರ್ ಭೇಟಿ: ರೈತರಿಗೆ ಹಾಗೂ ವರ್ತಕರಿಗೆ ಸಿಎಂ ಕೊಟ್ಟ ಅಭಯ ಏನು?](https://vijaykarnataka.com/news/karnataka/chief-minister-dk-shivakumar-visit-and-inspects-apmc/articleshow/133913281.cms)
 - [‘ಬಿಗ್ ಬಾಸ್‌ ಸೀಸನ್‌ 13’: ಸ್ನಾನಕ್ಕೂ ಟೈಮ್‌ ಲಿಮಿಟ್‌, ಕಿರಣ್‌ ಶಾಸ್ತ್ರಿ ವರ್ತನೆಗೆ ವೈಷ್ಣವಿ ಕಿಡಿಕಿಡಿ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-season-13-contestant-kiran-shastri-and-vaishnavi-koundinya-fight-for-bathroom/articleshow/133908483.cms)
 - [ತಂಪು ಗಾಳಿ ಎಲ್ಲ ವಸ್ತುಗಳಿಗೂ ಒಳ್ಳೆಯದಲ್ಲ! AC ರೂಮ್‌ನಲ್ಲಿ ಇಡಬಾರದ ವಸ್ತುಗಳಿವು!](https://vijaykarnataka.com/lifestyle/home-decor/items-not-to-keep-in-ac-room-for-long-time/articleshow/133790706.cms)
 - [ಚಾಣಕ್ಯ ನೀತಿ: ಈ 3 ರೀತಿಯ ಮಹಿಳೆಯರಿಗೆ ಹಣ ನೀಡಬಾರದು ಎಂದಿದ್ದಾರೆ.!](https://vijaykarnataka.com/religion/hinduism/according-to-chanakya-niti-we-should-not-give-money-to-these-3-womens/articleshow/133913459.cms)
-- [ಯುದ್ಧ ಗೆಲ್ಲುವುದು ಶಸ್ತ್ರಾಸ್ತ್ರಗಳಿಂದ ಮಾತ್ರವಲ್ಲ, ಧೈರ್ಯದಿಂದಲೂ: ಅಬ್ದುಲ್ ಹಮೀದ್ ಅವರ ವೀರಗಾಥೆ](https://vijaykarnataka.com/lifestyle/relationship/abdul-hamid-motivational-quotes-courage-wars-lifelessons/articleshow/133906444.cms)
-- [ಎಲ್‌ನಿನೋ ಎಫೆಕ್ಟ್‌ ನಡುವೆಯೂ ಉಡುಪಿಯಲ್ಲಿ ಭತ್ತದ ಕೃಷಿ ಸುಗಮ: ಕಳೆದ ವರ್ಷಕ್ಕಿಂತ ವರ್ಷಕ್ಕಿಂತ 1,726 ಹೆಕ್ಟೇ‌ರ್ ಹೆಚ್ಚುವರಿ ನಾಟಿ!](https://vijaykarnataka.com/news/udupi/additional-1726-hectares-of-paddy-cultivation-in-udupi-despite-el-nio-effect/articleshow/133910763.cms)
+- [ಗೌರಿ ಗಣೇಶ ಚತುರ್ಥಿಗೂ ಮುನ್ನ ಈ ರೀತಿ ಸ್ವಚ್ಛಗೊಳಿಸಿ ಬೆಳ್ಳಿ,ತಾಮ್ರದ ಲಕ್ಷ್ಮೀ-ಗಣೇಶ ಮೂರ್ತಿ](https://vijaykarnataka.com/lifestyle/home-decor/gauri-ganesha-chaturthi-2026-clean-silver-copper-lakshmi-ganesh-idols-at-home/articleshow/133912270.cms)
+- [ಬೆಂಗಳೂರಿನ ಎಪಿಎಂಸಿ ಮಾರುಕಟ್ಟೆಗೆ ಡಿಕೆಶಿ ದಿಢೀರ್ ಭೇಟಿ: ರೈತರಿಗೆ ಹಾಗೂ ವರ್ತಕರಿಗೆ ಸಿಎಂ ಕೊಟ್ಟ ಅಭಯ ಏನು?](https://vijaykarnataka.com/news/karnataka/chief-minister-dk-shivakumar-visit-and-inspects-apmc/articleshow/133913281.cms)
 
 **The Hindu**
+- [Telangana Assembly monsoon session LIVE Sept 8: Assembly proceedings adjourned](https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-live-updates-cm-revanth-reddy-brs-mlas-protest-september-8-2026/article71441249.ece)
+- [From cocoon to campus couture: How students of Thrissur Vimala College have woven a silk dream](https://www.thehindu.com/news/national/kerala/from-cocoon-to-campus-couture-how-students-of-thrissur-vimala-college-have-woven-a-silk-dream/article71441827.ece)
+- [25,000 applications received in Praja Seva Abhiyan in Karnataka](https://www.thehindu.com/news/national/karnataka/25000-applications-received-in-praja-seva-abhiyan/article71438989.ece)
+- [PM Modi inaugurates, lays foundation stone of projects worth ₹5,470 crore in Jalandhar](https://www.thehindu.com/news/national/pm-modi-inaugurates-lays-foundation-stone-of-projects-worth-5470-crore-in-jalandhar/article71233998.ece)
+- [PM Modi lays foundation stone of ₹35,000 crore development projects in Vadodara](https://www.thehindu.com/news/national/gujarat/pm-modi-inauguration-35000-crore-development-projects-in-vadodara-gujarat/article71441736.ece)
+- [T.N. Assembly unanimously adopts resolution urging Centre to do away with ‘Open-Column Method’ while enumerating BCs, MBCs, and DNCs](https://www.thehindu.com/news/national/tamil-nadu/tn-assembly-unanimously-adopts-resolution-urging-centre-to-do-away-with-open-column-method-while-enumerating-bcs-mbcs-and-dncs/article71441823.ece)
+- [Sachin Pilot meets Rahul, Priyanka to discuss Punjab poll strategy](https://www.thehindu.com/news/national/punjab/sachin-pilot-meets-rahul-priyanka-to-discuss-punjab-poll-strategy/article71441859.ece)
+- [IISc-based FSID to undertake 1,000 industry projects, build a portfolio of 300 deep-tech start-ups by 2030](https://www.thehindu.com/news/national/karnataka/iisc-based-fsid-to-undertake-1000-industry-projects-build-a-portfolio-of-300-deep-tech-start-ups-by-2030/article71440043.ece)
 - [Madras High Court rejects DMK candidate’s election petition over Perundurai constituency](https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-rejects-dmk-candidates-election-petition-over-perundurai-constituency/article71441277.ece)
 - [Two Kakinada government teachers suspended after inquiry into sexual assault complaints by students](https://www.thehindu.com/news/national/andhra-pradesh/two-kakinada-government-teachers-suspended-after-inquiry-into-sexual-assault-complaints-by-students/article71441275.ece)
-- [Sloth bear trapped in oil palm fence rescued in Andhra’s Kakinada district, sent to Visakhapatnam zoo](https://www.thehindu.com/news/cities/Visakhapatnam/sloth-bear-trapped-in-oil-palm-fence-rescued-in-andhras-kakinada-district-sent-to-visakhapatnam-zoo/article71437837.ece)
-- [CMRL pay-off case: ED report to Keralam police chief seeks corruption case against Pinarayi, daughter, son-in-law Mohamed Riyas](https://www.thehindu.com/news/national/kerala/cmrl-case-ed-writes-to-keralam-dgp-seeking-fir-against-pinarayi-vijayan-daughter-son-in-law-mohamed-riyas/article71441609.ece)
-- [Manipur musician killed in Delhi; eight held for mob lynching](https://www.thehindu.com/news/cities/Delhi/manipur-musician-killed-in-delhi-eight-held-for-mob-lynching/article71439457.ece)
-- [Congress condemns killing of Manipuri music teacher in Delhi](https://www.thehindu.com/news/national/congress-condemns-killing-of-manipuri-music-teacher-in-delhi/article71441636.ece)
-- [Telangana Assembly monsoon session LIVE Sept 8: Assembly proceedings adjourned](https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-live-updates-cm-revanth-reddy-brs-mlas-protest-september-8-2026/article71441249.ece)
-- [Telangana SIR | How to check online whether notice was issued to you](https://www.thehindu.com/news/national/telangana/telangana-sir-how-to-check-online-whether-notice-is-issued-to-you/article71441724.ece)
-- [PM Modi lays foundation stone of ₹35,000 crore development projects in Vadodara](https://www.thehindu.com/news/national/gujarat/pm-modi-inauguration-35000-crore-development-projects-in-vadodara-gujarat/article71441736.ece)
-- [CPI(M) won’t participate in TVK’s second meeting with post-poll allies on September 9: Shanmugam](https://www.thehindu.com/news/national/tamil-nadu/cpim-wont-participate-in-tvks-second-meeting-with-post-poll-allies-on-september-9-shanmugam/article71441685.ece)
 
 **Livemint**
+- [Who is Manoj Jarange-Patil? Quota activist on indefinite hunger strike, seeking reservation for Marathas](https://www.livemint.com/news/india/who-is-manoj-jarange-patil-quota-activist-on-indefinite-hunger-strike-seeking-reservation-marathas-11788856119585.html)
 - [Who is Athira Suresh? NIT Calicut alumna leaves thriving career at Bengaluru's ExxonMobil to join Indian Army](https://www.livemint.com/news/trends/who-is-athira-suresh-nit-calicut-alumna-leaves-thriving-career-at-bengalurus-exxonmobil-to-join-indian-army-11788850323312.html)
 - [19 of the richest immigrant billionaires in US were born in India, the highest for any country](https://www.livemint.com/news/us-news/americas-richest-immigrants-19-of-the-richest-immigrants-in-us-were-born-in-india-11788849550961.html)
 - [Centre plans to retain doorstep medicine delivery rules, seeks higher safeguards](https://www.livemint.com/news/medicine-home-delivery-rules-india-dtab-11788839900490.html)
@@ -83,7 +84,6 @@
 - [‘We celebrate getting trapped in EMIs’: Woman's take on 'India's idea of success' sparks debate](https://www.livemint.com/news/trends/we-celebrate-getting-trapped-in-emis-womans-take-on-indias-idea-of-success-sparks-debate-11788842290895.html)
 - [BRICS Summit 2026: Who’s attending, why it matters and India’s role? | Explained](https://www.livemint.com/news/india/brics-summit-2026-who-s-attending-why-it-matters-and-india-s-role-explained-xi-jinping-modi-putin-us-iran-war-11788837448566.html)
 - [India joins US, 24 countries in global alliance on 6G network; advances domestic ambition under Bharat 6G Mission](https://www.livemint.com/news/india/india-joins-us-24-countries-in-global-alliance-on-6g-network-advances-domestic-ambition-under-bharat-6g-mission-11788837912691.html)
-- [‘At no point, access was denied to anyone’: BAPS on removal of female staff during visit to Eiffel Tower](https://www.livemint.com/news/world/unacceptable-marine-le-pen-condemns-removal-of-female-staff-during-hindu-group-s-visit-to-eiffel-tower-11788836515234.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಗುಂಪಿನಿಂದ ಥಳಿತಕ್ಕೊಳಗಾಗಿದ್ದ ಮಣಿಪುರಿ ಸಂಗೀತಗಾರ ವಿಕ್ರಮ್ ಸಿಂಗ್ ಮೃತ್ಯು: ಈಶಾನ್ಯ ರಾಜ್ಯಗಳ ಸಮುದಾಯದಲ್ಲಿ ಆಕ್ರೋಶ](https://www.varthabharati.in/National/manipuri-musician-vikram-singh-dies-after-being-thrashed-by-mob-outrage-in-community-in-northeastern-states-2273676)
 - [‘ಚೌಕಿದಾರ್ ಚೋರ್’ ಹೇಳಿಕೆ: ರಾಹುಲ್ ವಿರುದ್ಧದ ಮಾನನಷ್ಟ ಪ್ರಕರಣ ರದ್ದುಪಡಿಸಲು  ಬಾಂಬೆ ಹೈಕೋರ್ಟ್ ನಕಾರ](https://www.varthabharati.in/national/bombay-high-court-refuses-to-quash-criminal-defamation-case-against-rahul-gandhi-2273672)
 - [ವಿಟ್ಲ | ಬಾಲಕನ ಮೇಲಿನ ಲೈಂಗಿಕ ದೌರ್ಜನ್ಯ ಪ್ರಕರಣ; ಮೂವರು ಆರೋಪಿಗಳ ಬಂಧನ](https://www.varthabharati.in/DakshinaKannada/vitla-sexual-assault-case-on-minor-boy-three-accused-arrested-2273671)
 - [ಶೀಘ್ರದಲ್ಲೇ ಇನ್ನೂ 25 ತಾಲ್ಲೂಕುಗಳನ್ನು ಬರಪೀಡಿತ ಪ್ರದೇಶಗಳೆಂದು ಘೋಷಣೆ : ಡಿಸಿಎಂ ಡಾ.ಜಿ.ಪರಮೇಶ್ವರ್‌](https://www.varthabharati.in/bangalore-city/another-25-taluks-to-be-declared-drought-affected-soon-dcm-dr-g-parameshwara-2273669)
@@ -107,28 +108,29 @@
 - [ಸೌದಿ ಅರೇಬಿಯಾ ಮೇಲೆ ಹೌತಿಗಳಿಂದ ದಾಳಿ : 73 ನಾಗರಿಕರಿಗೆ ಗಾಯ](https://www.varthabharati.in/gulf/houthis-attack-on-saudi-arabia-73-civilians-injured-2273664)
 - [ಭಾರತದ ಆರ್ಥಿಕತೆಯ ನೈಜ ಚಿತ್ರಣವೇನು?](https://www.varthabharati.in/nimma-ankana/what-is-the-real-picture-of-indias-economy-2273663)
 - [ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್ ಅವರು ಮಂಗಳವಾರ ಬೆಳಗ್ಗೆ ಬೆಂಗಳೂರಿನ ಯಶವಂತಪುರ ಎಪಿಎಂಸಿ ಮಾರುಕಟ್ಟೆಗೆ ಹಠಾತ್ ಭೇಟಿ ನೀಡಿ ಹಣ್ಣು, ತರಕಾರಿ ಪೂರೈಸುವ ರೈತರು, ಮಾರಾಟಗಾರರ ಅಹವಾಲುಗಳನ್ನು ಆಲಿಸಿದರು.](https://www.varthabharati.in/gallery/chief-minister-dk-shivakumar-paid-a-surprise-visit-to-the-yeshwantpur-apmc-market-in-bengaluru-on-tuesday-morning-and-listened-to-the-grievances-of-farmers-and-vendors-supplying-fruits-and-vegetables-2273662)
-- [Kalaburagi | ಶೂನ್ಯ ಲಿಂಗ ವಿವೇಚನೆ ಭಾಗ-5 ಕೃತಿ ಬಿಡುಗಡೆ ಸಮಾರಂಭ](https://www.varthabharati.in/kalaburagi/kalaburagi-book-launch-ceremony-shunya-linga-vivechane-part-5-2273661)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Delhi (8.1)
 - India (6.5)
 - Opinion (5.2)
+- PM Modi (5.0)
 - Emkay Global Financial (5.0)
-- PM Modi (4.0)
+- Delhi (4.2)
+- Centre (3.9)
 - ICICI Securities (3.0)
 - target (3.0)
+- Assembly (2.9)
+- Official (2.6)
 - India's (2.6)
-- Manipuri (2.6)
-- Manipur (2.6)
+- Punjab (2.6)
 - Vadodara (2.6)
-- CMRL (2.6)
+- Rahul (2.2)
 - Rahul Gandhi (2.0)
-- Buy Bajaj Finance (2.0)
-- What (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [വഴിയൊരുങ്ങുന്നു, ഇനി യാത്രക്കാരുടെ ഊഴം](https://www.mathrubhumi.com/kollam/news/localnews-kollam-cps1y71h)
+- [செங்கல்பட்டு மாவட்டத்தில் திறந்தவெளி சேமிப்பு கிடங்கில் 50,000 மெட்ரிக் டன் நெல் மழையில் நனைந்து சேதம்: விவசாயிகள் அவதி](https://www.dinakaran.com/news/chengalpattu-open-storage-warehouse/)
 - [ദുബായ് വിമാനത്താവളങ്ങളിൽ 'ക്ലിക്ക് ആൻഡ് ട്രാവൽ' സംവിധാനം ആരംഭിച്ചു](https://www.mathrubhumi.com/pravasi/uae/pravasi-gulf-uae-hqbjxt81)
 - [Bageshwar Baba Non Veg Controversy:দুর্গাপুজোয় আমিষ খাওয়া নিয়ে বাগেশ্বর বাবার মন্তব্যের পাল্টা কী বলছেন তথাগত রায় এবং দিলীপ ঘোষ ?](https://bengali.abplive.com/district/bageshwar-baba-non-veg-controversy-bjp-tathagata-roy-and-dilip-ghosh-reaction-on-this-issue-1192008)
 - [‘Conduct worthy of derision’: Allahabad HC pulls up District Magistrate over NSA detention of law student](https://www.thehindu.com/news/national/conduct-worthy-of-derision-allahabad-hc-pulls-up-district-magistrate-over-nsa-detention-of-law-student/article71439929.ece)
@@ -137,8 +139,6 @@
 - [కొత్త పింఛన్లు కోతలేనా..!](https://prajasakti.com/ap-news/amaravati/choking-with-rules)
 - [Bageshwar Baba: জমি জবরদখল, হুমকি দেওয়া, রাস্তা দখল, এমনকী গুলি চালানো - বাগেশ্বর বাবার বিরুদ্ধে অগুনতি অভিযোগ](https://bengali.abplive.com/district/kolkata-news-bageshwar-baba-non-veg-eating-controversy-land-grabbing-threats-road-encroachment-even-shooting-countless-allegations-against-bageshwar-baba-1192001)
 - [Scientists say ‘ultrafast magnetic-field pulses’ could help AI data centers cut their energy usage by 100x - and bring sizable improvements to RAM and data storage](https://tech.yahoo.com/science/articles/scientists-ultrafast-magnetic-field-pulses-190000925.html)
-- [புதுச்சேரியின் தட்டாஞ்சாவடி உட்பட 5 தொகுதிகளில் இடைத்தேர்தல்](https://www.hindutamil.in/news/tamilnadu/bypolls-to-be-held-in-5-puducherry-constituencies-including-thattanchavady)
-- [தமிழகத்தில் சட்டம் - ஒழுங்கு நிலவரம் சீர்குலையவில்லை: முதல்வர் விஜய்](https://www.dinamalar.com/news/tamil-nadu-news/no-law-and-order-situation-in-tamil-nadu-cm-vijay/4316870)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
