@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-08 07:36:35
+# India Trending Report — 2026-09-08 07:37:47
 
 ## Google Trends (India) — top trending searches
 1. [తిరుపతి](https://trends.google.com/trending/rss?geo=IN)
@@ -52,7 +52,9 @@
 **Indian Express** — _unavailable_
 
 **The Hindu**
+- [Why Kochi Corporation and historic Cochin Gymnasium appear headed for a bout over rent](https://www.thehindu.com/news/national/kerala/why-kochi-corporation-and-historic-cochin-gymnasium-appear-headed-for-a-bout-over-rent/article71441383.ece)
 - [Durga Puja under BJP rule in West Bengal: A push for vegetarianism and tradition](https://www.thehindu.com/news/cities/kolkata/durga-puja-under-bjp-rule-in-west-bengal-a-push-for-vegetarianism-and-tradition/article71441501.ece)
+- [Kallakurichi hooch tragedy 2024: A pall of gloom](https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-hooch-tragedy-2024-a-pall-of-gloom/article68315673.ece)
 - [Justice Gokuldas Commission report on 2024 Kallakurichi hooch tragedy tabled in T.N. Assembly; holds police, excise officials responsible](https://www.thehindu.com/news/national/tamil-nadu/justice-gokuldas-commission-report-on-2024-kallakurichi-hooch-tragedy-tabled-in-tn-assembly-holds-police-excise-officials-responsible/article71441572.ece)
 - [CMRL case: ED writes to Keralam DGP seeking FIR against Pinarayi Vijayan, daughter, son-in-law Mohamed Riyas](https://www.thehindu.com/news/national/kerala/cmrl-case-ed-writes-to-keralam-dgp-seeking-fir-against-pinarayi-vijayan-daughter-son-in-law-mohamed-riyas/article71441609.ece)
 - [What data says about Tukaram Mundhe’s 100-day stint as FDA Commissioner](https://www.thehindu.com/news/national/maharashtra/what-data-says-about-tukaram-mundhes-100-day-stint-asfdacommissioner/article71440009.ece)
@@ -60,8 +62,6 @@
 - [Supreme Court directs Assam not to appoint teachers in schools, colleges under provincialisation scheme](https://www.thehindu.com/news/national/assam/supreme-court-directs-assam-not-to-appoint-teachers-in-schools-colleges-under-provincialisation-scheme/article71441560.ece)
 - [El Niño impact: Paddy area in Andhra’s Vizianagaram falls from 1 lakh hectares to 20,760](https://www.thehindu.com/news/cities/Visakhapatnam/el-nino-impact-paddy-area-in-andhras-vizianagaram-falls-from-1-lakh-hectares-to-20760/article71441147.ece)
 - [Why are the Sarkaria Commission Report and Veeranam project back in focus? | Explained](https://www.thehindu.com/news/national/tamil-nadu/why-are-the-sarkaria-commission-report-and-veeranam-project-back-in-focus-explained/article71441564.ece)
-- [Gaurav Gogoi flags removal of gazette notification on Kaziranga animal corridors from Assam’s official website](https://www.thehindu.com/news/national/assam/gaurav-gogoi-flags-removal-of-gazette-notification-on-kaziranga-animal-corridors-from-assams-official-website/article71441508.ece)
-- [Telangana Assembly monsoon session LIVE Sept 8: Assembly proceedings adjourned](https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-live-updates-cm-revanth-reddy-brs-mlas-protest-september-8-2026/article71441249.ece)
 
 **Livemint**
 - [19 of the richest immigrant billionaires in US were born in India, the highest for any country](https://www.livemint.com/news/us-news/americas-richest-immigrants-19-of-the-richest-immigrants-in-us-were-born-in-india-11788849550961.html)
@@ -96,15 +96,15 @@
 - ICICI Securities (3.0)
 - target (3.0)
 - Delhi (2.9)
-- Assembly (2.9)
 - CCTV (2.6)
 - Complaint (2.6)
 - CMRL (2.6)
-- Assam (2.6)
+- Kallakurichi (2.6)
 - Explained (2.6)
 - Rahul Gandhi (2.0)
 - Tukaram Mundhe (2.0)
 - Buy Bajaj Finance (2.0)
+- Rahul (1.9)
 
 ## NewsAPI top headlines (India)
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08 07:36:35",
+  "generated_at": "2026-09-08 07:37:47",
   "google_trends": [
     {
       "title": "\u0c24\u0c3f\u0c30\u0c41\u0c2a\u0c24\u0c3f",
@@ -182,8 +182,16 @@
     "Indian Express": [],
     "The Hindu": [
       {
+        "title": "Why Kochi Corporation and historic Cochin Gymnasium appear headed for a bout over rent",
+        "link": "https://www.thehindu.com/news/national/kerala/why-kochi-corporation-and-historic-cochin-gymnasium-appear-headed-for-a-bout-over-rent/article71441383.ece"
+      },
+      {
         "title": "Durga Puja under BJP rule in West Bengal: A push for vegetarianism and tradition",
         "link": "https://www.thehindu.com/news/cities/kolkata/durga-puja-under-bjp-rule-in-west-bengal-a-push-for-vegetarianism-and-tradition/article71441501.ece"
+      },
+      {
+        "title": "Kallakurichi hooch tragedy 2024: A pall of gloom",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-hooch-tragedy-2024-a-pall-of-gloom/article68315673.ece"
       },
       {
         "title": "Justice Gokuldas Commission report on 2024 Kallakurichi hooch tragedy tabled in T.N. Assembly; holds police, excise officials responsible",
@@ -212,14 +220,6 @@
       {
         "title": "Why are the Sarkaria Commission Report and Veeranam project back in focus? | Explained",
         "link": "https://www.thehindu.com/news/national/tamil-nadu/why-are-the-sarkaria-commission-report-and-veeranam-project-back-in-focus-explained/article71441564.ece"
-      },
-      {
-        "title": "Gaurav Gogoi flags removal of gazette notification on Kaziranga animal corridors from Assam\u2019s official website",
-        "link": "https://www.thehindu.com/news/national/assam/gaurav-gogoi-flags-removal-of-gazette-notification-on-kaziranga-animal-corridors-from-assams-official-website/article71441508.ece"
-      },
-      {
-        "title": "Telangana Assembly monsoon session LIVE Sept 8: Assembly proceedings adjourned",
-        "link": "https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-live-updates-cm-revanth-reddy-brs-mlas-protest-september-8-2026/article71441249.ece"
       }
     ],
     "Livemint": [
@@ -334,10 +334,6 @@
       "score": 2.9
     },
     {
-      "term": "Assembly",
-      "score": 2.9
-    },
-    {
       "term": "CCTV",
       "score": 2.6
     },
@@ -350,7 +346,7 @@
       "score": 2.6
     },
     {
-      "term": "Assam",
+      "term": "Kallakurichi",
       "score": 2.6
     },
     {
@@ -368,6 +364,10 @@
     {
       "term": "Buy Bajaj Finance",
       "score": 2
+    },
+    {
+      "term": "Rahul",
+      "score": 1.9
     }
   ],
   "newsapi": [],
