@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-09 00:43:33
+# India Trending Report — 2026-09-09 01:02:38
 
 ## Google Trends (India) — top trending searches
-1. [पाकिस्तानी सेना](https://trends.google.com/trending/rss?geo=IN)
-2. [हिमाचल प्रदेश](https://trends.google.com/trending/rss?geo=IN)
-3. [cm trophy 2026](https://trends.google.com/trending/rss?geo=IN)
-4. [sambad](https://trends.google.com/trending/rss?geo=IN)
-5. [mirzapur movie box office](https://trends.google.com/trending/rss?geo=IN)
-6. [பங்கு](https://trends.google.com/trending/rss?geo=IN)
-7. [navier stokes equation openai](https://trends.google.com/trending/rss?geo=IN)
-8. [jessica pegula](https://trends.google.com/trending/rss?geo=IN)
-9. [बुध](https://trends.google.com/trending/rss?geo=IN)
-10. [ಜಾಮೀನು](https://trends.google.com/trending/rss?geo=IN)
+1. [ట్రాఫిక్](https://trends.google.com/trending/rss?geo=IN)
+2. [पाऊस](https://trends.google.com/trending/rss?geo=IN)
+3. [पाकिस्तानी सेना](https://trends.google.com/trending/rss?geo=IN)
+4. [हिमाचल प्रदेश](https://trends.google.com/trending/rss?geo=IN)
+5. [cm trophy 2026](https://trends.google.com/trending/rss?geo=IN)
+6. [sambad](https://trends.google.com/trending/rss?geo=IN)
+7. [mirzapur movie box office](https://trends.google.com/trending/rss?geo=IN)
+8. [பங்கு](https://trends.google.com/trending/rss?geo=IN)
+9. [jessica pegula](https://trends.google.com/trending/rss?geo=IN)
+10. [navier stokes equation openai](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Watch: US strikes 5 Iranian oil tankers near Kharg after IRGC targeted navy warships](https://timesofindia.indiatimes.com/world/middle-east/watch-us-strikes-5-iranian-oil-tankers-near-kharg-island-after-iran-targets-us-navy-ship/articleshow/133946004.cms)
 - [Building collapses to fires, 33k died in 5 years from 2020](https://timesofindia.indiatimes.com/india/building-collapses-to-fires-33k-died-in-5-years-from-2020/articleshow/133947009.cms)
-- [BJP got Rs 1,473 crore to fight Bengal, Assam, 3 other assembly polls](https://timesofindia.indiatimes.com/india/bjp-got-rs-1473-crore-to-fight-bengal-assam-3-other-assembly-polls/articleshow/133945783.cms)
+- [Putin meeting PM Modi on Friday; energy, defence high on agenda](https://timesofindia.indiatimes.com/india/putin-meeting-pm-modi-on-friday-energy-defence-high-on-agenda/articleshow/133947514.cms)
 - [‘Convicted or not convicted’: Wasim Akram breaks silence on Imran Khan’s health](https://timesofindia.indiatimes.com/sports/cricket/news/convicted-or-not-convicted-wasim-akram-breaks-silence-on-imran-khans-health-i-miss-him-a-lot/articleshow/133929616.cms)
-- [On Putin's agenda, sale of 5th-generation jets to India](https://timesofindia.indiatimes.com/defence/news/on-putins-agenda-sale-of-5th-generation-jets-to-india/articleshow/133943532.cms)
+- [BJP got Rs 1,473 crore to fight Bengal, Assam, 3 other assembly polls](https://timesofindia.indiatimes.com/india/bjp-got-rs-1473-crore-to-fight-bengal-assam-3-other-assembly-polls/articleshow/133945783.cms)
 - [Uber's layoff memo also has a work from home message for remaining 29,000 employees](https://timesofindia.indiatimes.com/technology/tech-news/ubers-layoff-memo-also-has-a-work-from-home-message-for-the-remaining-29000-employees-were-establishing-clearer-principles-for-where-roles-and-teams-should-/articleshow/133916866.cms)
+- [On Putin's agenda, sale of 5th-generation jets to India](https://timesofindia.indiatimes.com/defence/news/on-putins-agenda-sale-of-5th-generation-jets-to-india/articleshow/133943532.cms)
 - [Ahead of Brics, India & China hold military talks in Arunachal](https://timesofindia.indiatimes.com/india/1st-corps-commander-level-india-china-talks-in-eastern-sector-held-over-2-days-mea-says-ties-gradually-moving-in-positive-direction/articleshow/133940419.cms)
 - [NIA drops UAPA against American, 6 Ukrainians held in 'terror link' case](https://timesofindia.indiatimes.com/india/nia-drops-uapa-against-american-6-ukrainians-held-in-terror-link-case/articleshow/133942670.cms)
-- ['Toxic' Day 14: Film earns Rs 69 lakh, drops 8% on second Tuesday](https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-box-office-collections-day-14-yash-kiara-advani-tara-sutaria-starrer-film-earns-rs-69-lakhs-second-tuesday-sees-8-drop/articleshow/133947108.cms)
 - [Apple iPhone 18 Pro, Ultra launch on September 9: Expected specifications, price](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-iphone-ultra-to-launch-on-september-9-likely-specifications-and-price/articleshow/133909359.cms)
 
 **NDTV**
@@ -62,6 +62,7 @@
 - [ಭಾರತದ ಕ್ರಿಕೆಟ್ ಜಗತ್ತಿಗೆ AI ದಿಗ್ಗಜ ಚಾಟ್ ಜಿಪಿಟಿ ಎಂಟ್ರಿ! ಸಹ ಪ್ರಾಯೋಜಕತ್ವಕ್ಕಾಗಿ 3 ಕಂಪನಿ ಜೊತೆ BCCI ಬೃಹತ್ ಒಪ್ಪಂದ!](https://vijaykarnataka.com/sports/cricket/news/bcci-signs-big-deal-with-three-powerful-new-partners-including-chatgpt/articleshow/133934851.cms)
 
 **The Hindu**
+- [VIT Chennai, The Hindu to hold conclave on the future of biotechnology on Sept. 11](https://www.thehindu.com/news/national/tamil-nadu/vit-chennai-the-hindu-to-hold-conclave-on-the-future-of-biotechnology-on-sept-11/article71443627.ece)
 - [J&K CM Omar Abdullah watches ‘Mirzapur’ at Srinagar’s only functional multiplex to flip cinema culture](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cm-omar-abdullah-watches-mirzapur-at-srinagars-only-functional-multiplexto-flip-cinema-culture/article71444177.ece)
 - [Water cannons used as Punjab Congress members stage demonstration against AAP after villager’s death](https://www.thehindu.com/news/national/punjab/punjab-opposition-corners-aap-government-after-villagers-death/article71441999.ece)
 - [Revisit policy of banning social, political groups in J&K: Mirwaiz Umar Farooq](https://www.thehindu.com/news/national/jammu-and-kashmir/revisit-policy-of-banning-social-political-groups-in-jk-mirwaiz-umar-farooq/article71443631.ece)
@@ -71,7 +72,6 @@
 - [Chlorine gas leak at water filtration plant in Madhya Pradesh’s Sehore; four people hospitalised](https://www.thehindu.com/news/national/madhya-pradesh/chlorine-gas-leak-at-a-sehore-water-filtration-plant/article71444504.ece)
 - [Andhra Pradesh rain forecast: showers from September 12 after a near 60% deficit](https://www.thehindu.com/news/national/andhra-pradesh/relief-from-heat-for-andhra-pradesh-likely-as-low-pressure-brews-over-bay-of-bengal/article71443507.ece)
 - [INDIA bloc parties announce Odisha Assembly ‘gherao’ on Sept. 29 over new mining law](https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece)
-- [T.N.’s GSDP expanded by 15.98% in 2024-25; debt stands at ₹8.53 lakh crore: CAG](https://www.thehindu.com/news/national/tamil-nadu/tns-gsdp-expanded-by-1598-in-2024-25-debt-stands-at-853-lakh-crore-cag/article71444013.ece)
 
 **Livemint**
 - [US strikes Iranian tankers after attempted missile attacks on its Navy warship: Report](https://www.livemint.com/news/world/iran-claims-us-missile-hit-tanker-near-kharg-island-irgc-says-mq-1-drone-downed-over-strait-of-hormuz-11788898120584.html)
@@ -104,31 +104,31 @@
 - Delhi (3.5)
 - Iranian (3.2)
 - Odisha (2.9)
+- Putin (2.6)
 - China (2.6)
 - Arunachal (2.6)
 - September (2.6)
 - Report (2.6)
+- Sept (2.6)
+- PM Modi (2.0)
 - Satya Niketan (2.0)
 - Former Delhi (2.0)
 - Rakesh Mehta (2.0)
 - Congress (1.9)
-- Kharg (1.6)
-- American (1.6)
-- Ukraine (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ટાટા પંચ બની દેશની નંબર-1 કાર: મારુતિને પછાડી મેળવ્યું ટોચનું સ્થાન, જુઓ Top 5 કારનું લિસ્ટ](https://gujarati.abplive.com/auto/tata-punch-top-selling-car-august-2026-sales-report-top-5-cars-news-990725)
-- [Gaurav Bhatia files ₹2 crore defamation case in Delhi HC against CJP's Abhijeet Dipke, Saurav Das, Ashutosh Ranka](https://www.barandbench.com/news/gaurav-bhatia-files-2-crore-defamation-case-in-delhi-hc-against-cjps-abhijeet-dipke-saurav-das-ashutosh-ranka)
-- [Bi-layered single-piece dental implant reduces the need for surgical interventions](https://www.greaterkashmir.com/national/bi-layered-single-piece-dental-implant-reduces-the-need-for-surgical-interventions-12507518)
-- [BCCI फिर होगा मालामाल! हर मैच से बरसेंगे करोड़ों रुपये, ChatGPT के साथ हुई गजब की डील](https://www.aajtak.in/sports/cricket/story/bcci-brings-campa-cola-chatgpt-and-sbi-life-on-board-as-associate-partners-for-team-india-matches-aksp-dskc-2638894-2026-09-08)
-- [Deaths due to passive smoking in India up 50 pc compared to 1990: Lancet study](https://www.thehindu.com/sci-tech/health/deaths-due-to-passive-smoking-in-india-up-50-pc-compared-to-1990-lancet-study/article71442744.ece)
-- [गणेशोत्सवात ‘आवाज’ नव्हे, भक्तीचा गजर करा!](https://www.esakal.com/mumbai/todays-latest-marathi-news-mbi26b37348-txt-mumbai-today-20260908123303)
-- ['Leon was apologising': How an illegal move cost Abhimanyu Mishra a sure-shot win in GCL](https://timesofindia.indiatimes.com/sports/chess/leon-was-apologising-how-an-illegal-move-cost-abhimanyu-mishra-a-sure-shot-win-in-gcl/articleshow/133925312.cms)
-- [Supreme Court Exempts Actor Rajpal Yadav From Surrender In Cheque Bounce Cases Subject To ₹5 Crore Deposit](https://www.livelaw.in/top-stories/supreme-court-exempts-actor-rajpal-yadav-from-surrender-in-cheque-bounce-cases-subject-to-5-crore-deposit-549175)
-- [NASA’s 10 most beautiful red space images reveal the universe in a whole new light](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/science/nasa-s-10-most-beautiful-red-space-images-reveal-the-universe-in-a-whole-new-light-article-14025306.html)
-- [Tiny Vortices spotted on the Sun for the first time: Scientists say they could explain how magnetic energy builds up](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/science/tiny-vortices-spotted-on-the-sun-for-the-first-time-scientists-say-they-could-explain-how-magnetic-energy-builds-up-article-14025372.html)
+- [Theater Movies: ఈ వారం.. తెలుగు రాష్ట్రాల‌లో థియేట‌ర్ల‌లో విడుద‌ల కానున్న‌ సినిమాల జాబితా](https://www.chitrajyothy.com/2026/miscellaneous/this-week-releasing-new-movies-list-in-telugu-states-theaters-srk-75213.html)
+- [छत्रपती संभाजीनगरात 'एमपीएससी'विरोधात विद्यार्थ्यांचा आक्रोश मोर्चा; क्रांती चौकात हजारो परीक्षार्थी रस्त्यावर](https://maharashtratimes.com/career/career-news/mpsc-chhatrapati-sambhajinagar-student-protest-paper-leak-demands-marathi-news/articleshow/133926187.cms)
+- [करोडपती सुनेचा भयानक कारनामा, शातिर दिमागाची खेळी, थेट सासऱ्यालाच… या हत्याकांडाने देशात खळबळ](https://www.tv9marathi.com/national/kanpur-murder-minochas-daughter-in-law-hired-killers-for-6-lakhs-know-full-details-1752067.html)
+- [अदाणी पावर ने JP Associates की तरह एक और दिवालिया कंपनी खरीदी, डील की खबर से रॉकेट बने शेयर, बढ़ा टारगेट](https://www.jagran.com/business/share-market-adani-power-shares-surge-on-jp-associates-like-gvk-energy-acquisition-outlook-40366516.html)
+- [क्यूट..क्यूट, इतकी सुंदर की सर्वजण करत आहेत सौंदर्याचं कौतुक, कोण आहे ही अभिनेत्री?](https://www.tv9marathi.com/photo-gallery/actress-tanvi-mundle-blue-saree-trdaitional-look-photos-viral-1752050.html)
+- [Foldable iPhone Development History and Price Revealed in New Report](https://www.macrumors.com/2026/09/08/foldable-iphone-history-and-price-revealed/)
+- [Duleep Trophy: পূর্বাঞ্চলের রানের পাহাড়ের সামনে শামি, মুকেশ কুমারের আগুনে বোলিংয়ে তৃতীয় দিনশেষে চাপে দক্ষিণাঞ্চল](https://bengali.abplive.com/sports/cricket/duleep-trophy-2026-mohammed-shami-mukesh-kumar-shine-east-zone-dominate-final-vs-south-zone-1192081)
+- [Britain bans trade with illegal Israeli settlements](https://www.thehindu.com/news/international/andy-burnham-uk-trade-with-illegal-west-bank-settlements/article71442598.ece)
+- [Naman Dhir: १६ चौकार, १२ षटकार अन् ६४ चेंडूंत १७३ धावा! मुंबई इंडियन्सच्या नमन धीरचं तुफान; ख्रिस गेलचा रेकॉर्ड अवघ्या २ धावांनी हुकला](https://www.loksatta.com/krida/naman-dhir-breaks-big-record-of-kl-rahul-of-scoring-173-runs-in-sher-e-punjab-league-chris-gayle-record-just-missed-amd-2000-6125331/)
+- [ગુજરાતમાં CNG અને હાઇબ્રિડ વાહનોની માંગ વધી, જાન્યુઆરી-ઓગસ્ટમાં વેચાણમાં 26 ટકાનો ઉછાળો](https://bombaysamachar.com/news/demand-for-cng-and-hybrid-vehicles-increases-in-gujarat-sales-jump-26-percent-in-january-august)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
