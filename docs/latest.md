@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-09 21:02:08
+# India Trending Report — 2026-09-09 21:34:09
 
 ## Google Trends (India) — top trending searches
-1. [luis suárez](https://trends.google.com/trending/rss?geo=IN)
-2. [alexander blockx](https://trends.google.com/trending/rss?geo=IN)
-3. [sydney sweeney](https://trends.google.com/trending/rss?geo=IN)
-4. [sporting cp](https://trends.google.com/trending/rss?geo=IN)
-5. [martin ødegaard](https://trends.google.com/trending/rss?geo=IN)
-6. [matvey safonov](https://trends.google.com/trending/rss?geo=IN)
-7. [moreirense vs benfica](https://trends.google.com/trending/rss?geo=IN)
-8. [সৌরভ গঙ্গোপাধ্যায়](https://trends.google.com/trending/rss?geo=IN)
-9. [psg](https://trends.google.com/trending/rss?geo=IN)
-10. [ivan toney](https://trends.google.com/trending/rss?geo=IN)
+1. [santos vs atlético mineiro](https://trends.google.com/trending/rss?geo=IN)
+2. [liverpool f.c. vs atlético madrid standings](https://trends.google.com/trending/rss?geo=IN)
+3. [karen khachanov](https://trends.google.com/trending/rss?geo=IN)
+4. [mika godts](https://trends.google.com/trending/rss?geo=IN)
+5. [luis suárez](https://trends.google.com/trending/rss?geo=IN)
+6. [alexander blockx](https://trends.google.com/trending/rss?geo=IN)
+7. [sporting cp](https://trends.google.com/trending/rss?geo=IN)
+8. [sydney sweeney](https://trends.google.com/trending/rss?geo=IN)
+9. [moreirense vs benfica](https://trends.google.com/trending/rss?geo=IN)
+10. [matvey safonov](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -18,11 +18,11 @@
 - [Apple's 1st foldable phone launched: Specifications, features & price in India of iPhone Duo](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-duo-launched-specifications-features-and-price/articleshow/133980600.cms)
 - [Zelenskyy's plane nearly hit by drone while taking off from Moldova](https://timesofindia.indiatimes.com/world/europe/zelenskyys-plane-nearly-hit-by-drone-while-taking-off-from-moldova-norway-pm/articleshow/133983144.cms)
 - [Pegula vs Navarro: The $15 billion 'battle' that dwarfed Djokovic, Federer and Nadal's wealth](https://timesofindia.indiatimes.com/sports/tennis/top-stories/a-15-billion-tennis-match-how-pegula-and-navarro-turned-a-us-open-clash-into-a-battle-of-the-billionaires-that-dwarfed-djokovic-federer-and-nadals-combined-wealth/articleshow/133974795.cms)
-- [NC tells Congress: Full Vande Mataram a constitutional duty](https://timesofindia.indiatimes.com/india/nc-tells-congress-full-vande-mataram-a-constitutional-duty/articleshow/133982734.cms)
+- [SC reiterates call to CBSE to exempt Class VI from its 3-language policy](https://timesofindia.indiatimes.com/india/sc-reiterates-call-to-cbse-to-exempt-class-vi-from-its-3-language-policy/articleshow/133984276.cms)
 - [Apple iPhone 18 Pro and iPhone 18 Pro Max launched: Price in India and all details](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-and-iphone-18-pro-max-launched-at-surprise-and-shine-event-price-in-india-specifications-features-and-all-you-need-to-know/articleshow/133979340.cms)
+- [NC tells Congress: Full Vande Mataram a constitutional duty](https://timesofindia.indiatimes.com/india/nc-tells-congress-full-vande-mataram-a-constitutional-duty/articleshow/133982734.cms)
 - [Adani Airports to raise $1 billion equity from global investors](https://timesofindia.indiatimes.com/business/india-business/adani-airports-to-raise-1-billion-equity-from-global-investors/articleshow/133983315.cms)
 - [3 trucks of debris, 1 missing wall: How renovation doomed Delhi PG building](https://timesofindia.indiatimes.com/city/delhi/delhi-building-collapse-renovation-3-truckloads-of-debris-and-wall-removal-weakened-structure-probe-finds/articleshow/133969454.cms)
-- [Ladakh groups claim breakthrough in talks with MHA on legislative powers](https://timesofindia.indiatimes.com/india/ladakh-groups-claim-breakthrough-in-talks-with-mha-on-legislative-powers/articleshow/133981763.cms)
 - [1980s AI photo trend: 11 ChatGPT prompts to turn photos into retro Bollywood looks](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-11-chatgpt-prompts-to-turn-your-photos-into-retro-bollywood-looks/articleshow/133961562.cms)
 
 **NDTV**
@@ -49,9 +49,20 @@
 - [BJP asks Gujarat Congress MLA to apologise for sitting during Vande Mataram](https://www.hindustantimes.com/india-news/bjp-asks-gujarat-congress-mla-to-apologise-for-sitting-during-vande-mataram-101788967030222.html)
 - [Shehzad Poonawalla hits back at Rhiya Ahir's ‘uncle’ jibe as Bigg Boss spat escalates: ‘Your IQ matches Rahul Gandhi’s’](https://www.hindustantimes.com/india-news/shehzad-poonawalla-hits-back-at-rhiya-ahirs-uncle-jibe-as-bigg-boss-spat-escalates-your-iq-matches-rahul-gandhis-101788959759285.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಸಚಿವ ಸಂಪುಟ ಸಭೆ: ಕಾಲೇಜಿನಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿ ಸಂಘದ ಚುನಾವಣೆಗೆ ಸರ್ಕಾರ ಅಸ್ತು! ಅಧ್ಯಕ್ಷ ಸೇರಿ 12 ಸ್ಥಾನ; ಯಾವೆಲ್ಲಾ?](https://vijaykarnataka.com/news/karnataka/cabinet-meeting-government-greenlights-student-union-elections-in-colleges-12-posts-2-seats-reserved-for-female-students/articleshow/133975112.cms)
+- [ಗಣೇಶ ಹಬ್ಬ: ಬೆಂಗಳೂರಿನಿಂದ 2 ಮಾರ್ಗದಲ್ಲಿ ವಿಶೇಷ ರೈಲು; ಬೆಳಗಾವಿ, ವಿಜಯಪುರ ಸೇರಿ 9 ಜಿಲ್ಲೆಗೆ ಅನುಕೂಲ; ವೇಳಾಪಟ್ಟಿ ಬಿಡುಗಡೆ](https://vijaykarnataka.com/news/karnataka/ganesh-festival-special-trains-from-bengaluru-via-2-routes-benefit-9-districts-including-belagavi-vijayapura-schedule-released/articleshow/133972695.cms)
+- [ಮಿತಿಮೀರಿದ AI ದಾಸ್ಯ, ದಶಕದ ಅಂತ್ಯಕ್ಕೆ ಮಾನವಕುಲವೇ ವಿನಾಶ': ಹೊಸಚರ್ಚೆಗೆ ನಾಂದಿ ಹಾಡಿದ ಆಂಥ್ರೋಪಿಕ್ ಸಂಶೋಧಕ!](https://vijaykarnataka.com/news/world/anthropic-researcher-jacob-coxon-says-ai-could-kill-us-all-by-decade-end/articleshow/133980532.cms)
+- [ಮಣ್ಣಿನ ಗಣೇಶ ಮೂರ್ತಿಯೇ? POP ಮೂರ್ತಿಯೇ? ಖರೀದಿಸುವ ಮುನ್ನ ಈ ಗುರುತುಗಳನ್ನು ಪರಿಶೀಲಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/ganesh-chaturthi-2026-how-to-check-clay-or-pop-ganesha-idol/articleshow/133963722.cms)
+- [ನಂದನ್ ನಿಲೇಕಣಿ, ಝೆರೋಧಾ ಬ್ರದರ್ಸ್ ಸೇರಿ ಹಲವು ಪ್ರಮುಖರ ಹೆಸರು SIR ‘ದೋಷಪೂರಿತ’ ಪಟ್ಟಿಗೆ!](https://vijaykarnataka.com/news/bengaluru-city/shivarajkumar-nandan-nilekani-kamath-brothers-name-in-sir-defective-list/articleshow/133978042.cms)
+- [ಬಿಗ್‌ ಬಾಸ್‌ ಸೀಸನ್‌ 13: ಧನುಷ್‌ ಎಂದಿಗೂ ಬಿಗ್‌ ಮನೆಗೆ ಕಾಲಿಡದಂತೆ ಮಾಡಿದ ಗಗನ್‌, ರಿವೆಂಜ್‌ ತಗೊಂಡ್ರಾ ನಟ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-season-13-gagan-chinnappa-revenge-against-dhanush-manjunath/articleshow/133980505.cms)
+- [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
+- [ವಿಷ್ಣುವಿನ 6 ಮಂತ್ರಗಳು ಮತ್ತು ಅವುಗಳ ಪ್ರಯೋಜನಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/here-are-the-6-vishnu-mantras-and-its-benefits/articleshow/133971144.cms)
+- [ಮಗಳು ದುವಾ 2ನೇ ಹುಟ್ಟುಹಬ್ಬಕ್ಕೆ ದೀಪಿಕಾ ಪಡುಕೋಣೆ ವಿಶೇಷ ಮ್ಯಾಟರ್ನಿಟಿ ಫೋಟೋಶೂಟ್; ಬೇಬಿ ಬಂಪ್ ಲುಕ್‌ಗೆ ಫಿದಾ ಆದ ನೆಟ್ಟಿಗರು!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-maternity-photoshoot-baby-bump-fashion-look/articleshow/133958269.cms)
+- [ಏಷ್ಯನ್‌ ಗೇಮ್ಸ್‌ ನಡೆಯಲಿರುವ ನಗೋಯಾದಲ್ಲಿ ಕಂಡುಕೇಳರಿಯದ ಪ್ರವಾಹ; 400 ಕ್ರೀಡಾಪಟುಗಳ ಸ್ಥಳಾಂತರ](https://vijaykarnataka.com/sports/other-sports/asian-games-2026-heavy-flooding-in-nagoya-400-athletes-evacuated/articleshow/133975411.cms)
 
 **The Hindu**
+- [Madhya Pradesh govt. hikes MBBS intern stipend by 50% amid protests, hindered medical services](https://www.thehindu.com/news/national/madhya-pradesh/mp-medical-interns-protest-demand-stipend-hike-slam-police-action/article71446487.ece)
 - [Forest rights group asks Tribal Affairs Ministry to withdraw stand on Gram Sabha consent](https://www.thehindu.com/sci-tech/energy-and-environment/forest-rights-group-asks-tribal-affairs-ministry-to-withdraw-stand-on-gram-sabha-consent/article71448173.ece)
 - [‘All parties are treated equally in SC’, CJI says in Rahul Gandhi case](https://www.thehindu.com/news/national/all-parties-are-treated-equally-in-sc-cji-says-in-rahul-gandhi-case/article71448660.ece)
 - [Local tribals oppose appointment of dreaded ex-Maoist as co-ordinator at Gondwana University](https://www.thehindu.com/news/national/maharashtra/local-tribals-oppose-appointment-of-dreaded-ex-maoist-as-co-ordinator-at-gondwana-university/article71448578.ece)
@@ -61,7 +72,6 @@
 - [1,169 candidates set to win unopposed in Tripura village committee elections](https://www.thehindu.com/news/national/tripura/1169-candidates-set-to-win-unopposed-in-tripura-village-committee-elections/article71448973.ece)
 - [New secretariat at Pattinapakkam will result in severe traffic congestion: Anbumani](https://www.thehindu.com/news/national/tamil-nadu/new-secretariat-at-pattinapakkam-will-result-in-severe-traffic-congestion-anbumani/article71447305.ece)
 - [Madurantakam and Dharapuram, going to byelections next month, have more than one common feature](https://www.thehindu.com/news/national/tamil-nadu/madurantakam-and-dharapuram-going-to-byelections-next-month-have-more-than-one-common-feature/article71447948.ece)
-- [Will uproot forces raising ‘anti-national’ slogans, says West Bengal CM](https://www.thehindu.com/news/national/west-bengal/will-uproot-forces-raising-anti-national-slogans-says-west-bengal-cm/article71447997.ece)
 
 **Livemint**
 - [Ukraine Hits Two Gas Condensate Plants in Russia’s Arctic](https://www.livemint.com/news/world/ukraine-hits-two-gas-condensate-plants-in-russia-s-arctic-11788983110178.html)
@@ -109,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [3 ઓક્ટોબર ભારતીય ક્રિકેટ માટે ઐતિહાસિક દિવસ, ટીમ ઈન્ડિયા એક જ દિવસમાં બે દેશો સામે રમશે](https://tv9gujarati.com/sports/cricket-news/breaking-news-team-india-will-play-against-2-countries-in-one-day-1512323.html)
-- [આજે સોનામાં ₹50,000 રોકશો તો વર્ષ 2036 માં કેટલા થશે? સમજો 10 વર્ષના રિટર્નનું સંપૂર્ણ ગણિત](https://tv9gujarati.com/photo-gallery/if-you-invest-50000-in-gold-today-how-much-will-it-be-worth-in-2036-complete-10-year-return-calculation-1512310.html)
-- [Ben Shelton stuns Carlos Alcaraz in latest-ever U.S. Open finish](https://www.thehindu.com/sport/tennis/ben-shelton-stuns-carlos-alcaraz-in-latest-ever-us-open-finish/article71446526.ece)
-- [ഇടുക്കിയില്‍ അച്ഛന്‍ മകനെ കൊലപ്പെടുത്തി](https://www.mediaoneonline.com/kerala/father-kills-son-in-idukki-anakulam-murder-case-336437)
-- [मेटा अब भी भारत में बच्चों के यौन शोषण के विज्ञापन चला रहा है: रिपोर्ट](https://www.bbc.com/hindi/articles/c62mn49q679o)
-- [இன்ஸ்டாவை ஆக்கிரமித்த 80ஸ் டிரெண்ட்.... பிரபல நடிகர், நடிகைகளின் போட்டோக்கள் வைரல்](https://www.dinamalar.com/news/tamil-nadu-news/the-80s-trend-that-took-over-instagram-photos-of-famous-actors-and-actresses-go-viral/4318130)
-- [Anbumani Seeks Strict Enforcement of Public Smoking Ban Amid Rise in Passive Smoking Deaths](https://www.deccanchronicle.com/southern-states/tamil-nadu/anbumani-seeks-strict-enforcement-of-public-smoking-ban-amid-rise-in-passive-smoking-deaths-1986064)
-- [സംസ്ഥാനത്ത് നാളെ മുതല്‍ മൂന്ന് ദിവസം മഴ സാധ്യത; വിവിധ ജില്ലകളിൽ യെല്ലോ അലേര്‍ട്ട് പ്രഖ്യാപിച്ചു](https://www.reporterlive.com/topnews/kerala/2026/09/09/kerala-rain-yellow-alert-three-days-rain-forecast-september-2026)
-- [MPSC विद्यार्थी ज्यांच्या राजीनाम्यासाठी आक्रमक ते विवेक भीमनवार नक्की कोण? सगळी हिस्ट्री एका क्लिकवर](https://sarkarnama.esakal.com/ampstories/web-stories/mpsc-chairman-vivek-bhimanwar-ias-career-drug-inspector-exam-paper-leak-controversy-jap93)
-- [Duleep Trophy Final: ৯৯ রানে তিলক ফিরতেই অল আউট দক্ষিণাঞ্চল, ৩৭২ রানের বিশাল লিড নিল পূর্বাঞ্চল](https://bengali.abplive.com/sports/cricket/duleep-trophy-final-south-zone-all-out-east-zone-take-massive-lead-of-372-runs-tilak-verma-99-runs-bcci-domestic-1192171)
+- [Samsung Galaxy Z Fold8: how it dropped to 201 grams](https://t2online.in/tech/tech-news/samsung-galaxy-z-fold-8-makes-the-case-for-lighter-foldables/2007898)
+- [ചില പാക് താരങ്ങൾ ചാൾസ് രാജാവിനെ കാണാൻ വിസമ്മതിച്ചെന്ന് റിപ്പോർട്ട്; പ്രതികരിച്ച് പരിശീലകൻ](https://www.mathrubhumi.com/sports/cricket/mike-hesson-denies-pakistan-players-refused-king-charles-meeting-mmibc4wv)
+- [VHP’s call to bar Muslims from Navratri events against Constitution: Ramdas Athawale](https://www.thehindu.com/news/national/vhps-call-to-bar-muslims-from-navratri-events-against-constitution-ramdas-athawale/article71446620.ece)
+- [‘অনুভূতি সামলে সঞ্চালনা কঠিন’, কেবিসি](https://bengali.indianexpress.com/entertainment/amitabh-bachchan-kbc-18-contestants-heartbreaking-stories-retirement-12510047)
+- [कल का मौसम 10 सितंबर 2026: 16 घंटे के अंदर 24 राज्यों में मूसलाधार बारिश का अलर्ट, 80 की स्पीड से हवा, IMD अपडेट](https://navbharattimes.indiatimes.com/india/tomorrow-weather-10-september-2026-thunderstorm-and-heavy-rain-alert-in-24-states-within-16-hours-wind-speed-up-to-80-kmph-delhi-up-bihar-temperature/articleshow/133962006.cms)
+- ['राहुल गांधी VVIP नहीं', मानहानि मामले में SC में दलील; CJI ने कहा- हमारे लिए सब बराबर](https://www.jagran.com/news/national-rahul-gandhi-is-not-vvip-supreme-court-in-defamation-case-cji-says-everyone-is-equal-to-us-40367449.html)
+- [एकदम झक्कास, अस्सल मराठमोळं सौंदर्य, फोटोमधील ही अभिनेत्री कोण? जिच्या साडीमधील…](https://www.tv9marathi.com/photo-gallery/navra-maza-navsacha-2-movie-fame-actress-hemal-ingle-pink-saree-look-1752600.html)
+- [NSE IPO likely to be priced at ₹1,700-1,800, OFS may be trimmed to 5.25%](https://www.business-standard.com/markets/ipo/nse-ipo-price-band-ofs-size-listing-september-2026-126090900832_1.html)
+- [BRICS समिट से पहले दिल्ली के लग्जरी होटल फुल, किराया 2.33 लाख रुपये तक पहुंचा](https://www.aajtak.in/india/delhi/story/brics-summit-delhi-hotel-industry-boom-itc-maurya-room-price-ntc-agkp-dskc-2639462-2026-09-09)
+- [जैसा बाप, वैसी बेटी; मेधा रूपम पर महुआ मोइत्रा का तीखा हमला, CEC ज्ञानेश कुमार को भी लपेटा](https://www.livehindustan.com/national/tmc-mp-mahua-moitra-attack-noida-dm-medha-rupam-cec-gyanesh-kumar-after-high-court-slams-in-akriti-choudhary-nsa-case-201788842149136.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
