@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-09 00:02:46
+# India Trending Report — 2026-09-09 00:43:33
 
 ## Google Trends (India) — top trending searches
-1. [தமிழக வெற்றிக் கழகம்](https://trends.google.com/trending/rss?geo=IN)
-2. [emma navarro](https://trends.google.com/trending/rss?geo=IN)
-3. [राजपाल यादव](https://trends.google.com/trending/rss?geo=IN)
-4. [rayan aït-nouri](https://trends.google.com/trending/rss?geo=IN)
-5. [renato veiga](https://trends.google.com/trending/rss?geo=IN)
-6. [allan](https://trends.google.com/trending/rss?geo=IN)
-7. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
-8. [carlos espí](https://trends.google.com/trending/rss?geo=IN)
-9. [marc bartra](https://trends.google.com/trending/rss?geo=IN)
-10. [football match](https://trends.google.com/trending/rss?geo=IN)
+1. [पाकिस्तानी सेना](https://trends.google.com/trending/rss?geo=IN)
+2. [हिमाचल प्रदेश](https://trends.google.com/trending/rss?geo=IN)
+3. [cm trophy 2026](https://trends.google.com/trending/rss?geo=IN)
+4. [sambad](https://trends.google.com/trending/rss?geo=IN)
+5. [mirzapur movie box office](https://trends.google.com/trending/rss?geo=IN)
+6. [பங்கு](https://trends.google.com/trending/rss?geo=IN)
+7. [navier stokes equation openai](https://trends.google.com/trending/rss?geo=IN)
+8. [jessica pegula](https://trends.google.com/trending/rss?geo=IN)
+9. [बुध](https://trends.google.com/trending/rss?geo=IN)
+10. [ಜಾಮೀನು](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Watch: US strikes 5 Iranian oil tankers near Kharg Island after IRGC targeted navy ship](https://timesofindia.indiatimes.com/world/middle-east/watch-us-strikes-5-iranian-oil-tankers-near-kharg-island-after-iran-targets-us-navy-ship/articleshow/133946004.cms)
+- [Watch: US strikes 5 Iranian oil tankers near Kharg after IRGC targeted navy warships](https://timesofindia.indiatimes.com/world/middle-east/watch-us-strikes-5-iranian-oil-tankers-near-kharg-island-after-iran-targets-us-navy-ship/articleshow/133946004.cms)
+- [Building collapses to fires, 33k died in 5 years from 2020](https://timesofindia.indiatimes.com/india/building-collapses-to-fires-33k-died-in-5-years-from-2020/articleshow/133947009.cms)
 - [BJP got Rs 1,473 crore to fight Bengal, Assam, 3 other assembly polls](https://timesofindia.indiatimes.com/india/bjp-got-rs-1473-crore-to-fight-bengal-assam-3-other-assembly-polls/articleshow/133945783.cms)
-- [On Putin's agenda, sale of 5th-generation jets to India](https://timesofindia.indiatimes.com/defence/news/on-putins-agenda-sale-of-5th-generation-jets-to-india/articleshow/133943532.cms)
 - [‘Convicted or not convicted’: Wasim Akram breaks silence on Imran Khan’s health](https://timesofindia.indiatimes.com/sports/cricket/news/convicted-or-not-convicted-wasim-akram-breaks-silence-on-imran-khans-health-i-miss-him-a-lot/articleshow/133929616.cms)
-- [Ahead of Brics, India & China hold military talks in Arunachal](https://timesofindia.indiatimes.com/india/1st-corps-commander-level-india-china-talks-in-eastern-sector-held-over-2-days-mea-says-ties-gradually-moving-in-positive-direction/articleshow/133940419.cms)
+- [On Putin's agenda, sale of 5th-generation jets to India](https://timesofindia.indiatimes.com/defence/news/on-putins-agenda-sale-of-5th-generation-jets-to-india/articleshow/133943532.cms)
 - [Uber's layoff memo also has a work from home message for remaining 29,000 employees](https://timesofindia.indiatimes.com/technology/tech-news/ubers-layoff-memo-also-has-a-work-from-home-message-for-the-remaining-29000-employees-were-establishing-clearer-principles-for-where-roles-and-teams-should-/articleshow/133916866.cms)
+- [Ahead of Brics, India & China hold military talks in Arunachal](https://timesofindia.indiatimes.com/india/1st-corps-commander-level-india-china-talks-in-eastern-sector-held-over-2-days-mea-says-ties-gradually-moving-in-positive-direction/articleshow/133940419.cms)
 - [NIA drops UAPA against American, 6 Ukrainians held in 'terror link' case](https://timesofindia.indiatimes.com/india/nia-drops-uapa-against-american-6-ukrainians-held-in-terror-link-case/articleshow/133942670.cms)
-- [BJP demands Punjab CM's resignation over farmer's suicide](https://timesofindia.indiatimes.com/india/bjp-demands-punjab-cms-resignation-over-farmers-suicide/articleshow/133944878.cms)
-- [Godzilla Minus Zero trailer teases King Ghidorah battle, Ramayana parallels](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/godzilla-minus-zero-trailer-teases-epic-monster-battle-with-king-ghidorah-sparks-comparisons-with-ramayana-ahead-of-november-6-box-office-clash/articleshow/133945255.cms)
+- ['Toxic' Day 14: Film earns Rs 69 lakh, drops 8% on second Tuesday](https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-box-office-collections-day-14-yash-kiara-advani-tara-sutaria-starrer-film-earns-rs-69-lakhs-second-tuesday-sees-8-drop/articleshow/133947108.cms)
 - [Apple iPhone 18 Pro, Ultra launch on September 9: Expected specifications, price](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-iphone-ultra-to-launch-on-september-9-likely-specifications-and-price/articleshow/133909359.cms)
 
 **NDTV**
@@ -50,18 +50,20 @@
 - [Bihar Congress row deepens as expelled leaders protest in Delhi, seek total revamp](https://www.hindustantimes.com/india-news/bihar-congress-row-deepens-as-expelled-leaders-protest-in-delhi-seek-total-revamp-101788883974397.html)
 
 **Vijay Karnataka**
+- [ಮಂಗಳೂರು ಸಂಪುಟ ಸಭೆ: ಕರಾವಳಿಯ ಕೃಷಿಗೆ ಪ್ರತ್ಯೇಕ ನೀತಿ ಘೋಷಿಸುವಂತೆ ಸರ್ಕಾರಕ್ಕೆ ರೈತರ ಡಿಮ್ಯಾಂಡ್!](https://vijaykarnataka.com/news/mangaluru/deamnd-for-exclusive-policy-for-coastal-agriculture-farmers-to-government-ahead-of-mangaluru-cabinet-meeting-on-sep-18/articleshow/133946705.cms)
 - [ರಾಜ್ಯದ 5 IAS ಅಧಿಕಾರಿಗಳು, 8 ಕಾರ್ಯದರ್ಶಿಗಳ ವರ್ಗಾವಣೆ! ಮೆಸ್ಕಾಂ - ಸೆಸ್ಕಾಂ MDಗಳು, 1 ಜಿಲ್ಲಾ ಪಂಚಾಯತಿ CEO ಬದಲಾವಣೆ](https://vijaykarnataka.com/news/karnataka/transfer-of-5-ias-officers-8-secretaries-in-karnataka-government-orders-changes-for-mescom-cescom-md-vijayanagar-ceo/articleshow/133931265.cms)
 - [ಜೈಲಿನಲ್ಲಿರುವ ಇಮ್ರಾನ್ ಖಾನ್‌ಗಾಗಿ ಜಾವೇದ್ ಮಿಯಾಂದದ್ ಅತ್ತದ್ದಾಯ್ತು, ಈಗ ವಸೀಂ ಅಕ್ರಮ್ ಕಳವಳ](https://vijaykarnataka.com/sports/cricket/news/wasim-akram-concern-over-imran-khans-health/articleshow/133937743.cms)
-- [ದಿಲ್ಲಿಯ ಮಾಜಿ ಮುಖ್ಯ ಕಾರ್ಯದರ್ಶಿ ರಾಕೇಶ್ ಮೆಹ್ತಾ ನೋಯ್ಡಾ ಫ್ಲ್ಯಾಟ್‌ನಲ್ಲಿ ಆತ್ಮಹತ್ಯೆ](https://vijaykarnataka.com/news/new-delhi/rakesh-mehta-former-delhi-chief-secretary-ends-life-by-suicide/articleshow/133935409.cms)
 - [ಮಾತು ತಡ, ಕಣ್ಣಿನ ಸಂಪರ್ಕ ಕಡಿಮೆ: ಮಗುವಿನ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ಈ ಸೂಚನೆಗಳನ್ನು ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/child-developmental-delay-symptoms/articleshow/133919586.cms)
-- [ಭಾರತದ ಕ್ರಿಕೆಟ್ ಜಗತ್ತಿಗೆ AI ದಿಗ್ಗಜ ಚಾಟ್ ಜಿಪಿಟಿ ಎಂಟ್ರಿ! ಸಹ ಪ್ರಾಯೋಜಕತ್ವಕ್ಕಾಗಿ 3 ಕಂಪನಿ ಜೊತೆ BCCI ಬೃಹತ್ ಒಪ್ಪಂದ!](https://vijaykarnataka.com/sports/cricket/news/bcci-signs-big-deal-with-three-powerful-new-partners-including-chatgpt/articleshow/133934851.cms)
+- [ದಿಲ್ಲಿಯ ಮಾಜಿ ಮುಖ್ಯ ಕಾರ್ಯದರ್ಶಿ ರಾಕೇಶ್ ಮೆಹ್ತಾ ನೋಯ್ಡಾ ಫ್ಲ್ಯಾಟ್‌ನಲ್ಲಿ ಆತ್ಮಹತ್ಯೆ](https://vijaykarnataka.com/news/new-delhi/rakesh-mehta-former-delhi-chief-secretary-ends-life-by-suicide/articleshow/133935409.cms)
 - [ʻಬಿಗ್‌ ಬಾಸ್‌ʼನಲ್ಲಿ ಮಾಸ್ಟರ್‌ಪ್ಲ್ಯಾನ್‌ ಮಾಡಿ ವಿಐಪಿಯಾದ ಗಗನ್:‌ ಕಣ್ಣೀರಿಡುತ್ತಾ ಫ್ಲೈಟ್‌ ಏರಿದ ಆಸಿಯಾ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-gagan-chinnappa-becomes-vip-asiya-firdose-nominated/articleshow/133936410.cms)
 - [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
 - [ವಿವಾಹ ಸಂಬಂಧಿತ ಸಮಸ್ಯೆಗಳಿಗೆ ಮಾಡಬಹುದಾದ 5 ಪೂಜೆಗಳಿವು.!](https://vijaykarnataka.com/religion/pooja-vidhana/these-pujas-are-remove-all-marriage-related-problems/articleshow/133928367.cms)
 - [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
-- [ಸಚಿವ SS ಮಲ್ಲಿಕಾರ್ಜುನ್ ಅಪ್ಪನಿಗೆ ಹುಟ್ಟಿದ್ರೆ ಬೂಟಿನಲ್ಲಿ ಹೊಡೆಯಲಿ: BJP ಶಾಸಕ ಬಿಪಿ ಹರೀಶ್ ಸವಾಲು! ತಾರಕಕ್ಕೇರಿ ಜಗಳ](https://vijaykarnataka.com/news/davanagere/if-minister-ss-mallikarjun-is-his-fathers-true-son-let-him-hit-me-with-a-shoe-bjp-mla-bp-harish-issues-a-challenge/articleshow/133933800.cms)
+- [ಭಾರತದ ಕ್ರಿಕೆಟ್ ಜಗತ್ತಿಗೆ AI ದಿಗ್ಗಜ ಚಾಟ್ ಜಿಪಿಟಿ ಎಂಟ್ರಿ! ಸಹ ಪ್ರಾಯೋಜಕತ್ವಕ್ಕಾಗಿ 3 ಕಂಪನಿ ಜೊತೆ BCCI ಬೃಹತ್ ಒಪ್ಪಂದ!](https://vijaykarnataka.com/sports/cricket/news/bcci-signs-big-deal-with-three-powerful-new-partners-including-chatgpt/articleshow/133934851.cms)
 
 **The Hindu**
+- [J&K CM Omar Abdullah watches ‘Mirzapur’ at Srinagar’s only functional multiplex to flip cinema culture](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cm-omar-abdullah-watches-mirzapur-at-srinagars-only-functional-multiplexto-flip-cinema-culture/article71444177.ece)
+- [Water cannons used as Punjab Congress members stage demonstration against AAP after villager’s death](https://www.thehindu.com/news/national/punjab/punjab-opposition-corners-aap-government-after-villagers-death/article71441999.ece)
 - [Revisit policy of banning social, political groups in J&K: Mirwaiz Umar Farooq](https://www.thehindu.com/news/national/jammu-and-kashmir/revisit-policy-of-banning-social-political-groups-in-jk-mirwaiz-umar-farooq/article71443631.ece)
 - [On Sheikh Abdullah’s 44th death anniversary, NC reclaims his political legacy through archival videos](https://www.thehindu.com/news/national/jammu-and-kashmir/on-sheikh-abdullahs-44thdeath-anniversary-nc-reclaims-his-political-legacy-through-archival-videos/article71443791.ece)
 - [Odisha’s rural work does not have adequate photographic evidence, says a draft audit report](https://www.thehindu.com/news/national/odisha/odishas-rural-work-does-not-have-adequate-photographic-evidence-says-a-draft-audit-report/article71443035.ece)
@@ -70,8 +72,6 @@
 - [Andhra Pradesh rain forecast: showers from September 12 after a near 60% deficit](https://www.thehindu.com/news/national/andhra-pradesh/relief-from-heat-for-andhra-pradesh-likely-as-low-pressure-brews-over-bay-of-bengal/article71443507.ece)
 - [INDIA bloc parties announce Odisha Assembly ‘gherao’ on Sept. 29 over new mining law](https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece)
 - [T.N.’s GSDP expanded by 15.98% in 2024-25; debt stands at ₹8.53 lakh crore: CAG](https://www.thehindu.com/news/national/tamil-nadu/tns-gsdp-expanded-by-1598-in-2024-25-debt-stands-at-853-lakh-crore-cag/article71444013.ece)
-- [Monthly assistance for ex-servicemen, widows to be raised to ₹6,000, says Minister](https://www.thehindu.com/news/national/tamil-nadu/monthly-assistance-for-ex-servicemen-widows-to-be-raised-to-6000-says-minister/article71443037.ece)
-- [T.N. Govt. to create new HR&CE department at the Secretariat](https://www.thehindu.com/news/national/tamil-nadu/tn-govt-to-create-new-hrce-department-at-the-secretariat/article71444284.ece)
 
 **Livemint**
 - [US strikes Iranian tankers after attempted missile attacks on its Navy warship: Report](https://www.livemint.com/news/world/iran-claims-us-missile-hit-tanker-near-kharg-island-irgc-says-mq-1-drone-downed-over-strait-of-hormuz-11788898120584.html)
@@ -111,24 +111,24 @@
 - Satya Niketan (2.0)
 - Former Delhi (2.0)
 - Rakesh Mehta (2.0)
+- Congress (1.9)
+- Kharg (1.6)
 - American (1.6)
 - Ukraine (1.6)
-- Trump (1.6)
-- Congress (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [திமுக-தான் கேட்கல.. சபாநாயகர் நடுநிலையாகத்தான் செயல்பட்றாரு.. அடித்துச் சொல்லும் பிரேமலதா விஜயகாந்த்](https://tamil.abplive.com/news/tamil-nadu/dmdk-mla-premalatha-vijayakanth-said-dmk-not-obey-tn-assembly-speaker-order-273935)
-- [16 चौके, 12 छक्के... 64 गेंदों में 173 रन, नमन धीर ने किया T20 में धुआं-धुआं, रचा इत‍िहास, बना ये महार‍िकॉर्ड](https://www.aajtak.in/sports/cricket/story/naman-dhir-173-runs-64-balls-sher-e-punjab-t20-league-tspok-dskc-2638909-2026-09-08)
-- [Uddhav Thackeray: 'आमदार फुटल्यानंतर सुरत-गोवा, मग पेपर फुटल्यावर विद्यार्थ्यांनी कुठे जायचं?'; उद्धव ठाकरेंचा सरकारवर हल्लाबोल](https://www.lokshahi.com/lokshahi-politics/uddhav-thackeray-attacks-maharashtra-government-over-paper-leak-politics-news-in-marathi-12506804)
-- [રાજકોટથી 'અપહરણ કરાયેલી સગીરા નેપાળમાં'? ગુજરાત હાઇકોર્ટમાં મામલો, તપાસમાં શું ખૂલ્યું?](https://www.bbc.com/gujarati/articles/c05r6180dy1o)
-- ['നഷ്ടം 120 കോടി, ഇനി മുന്നോട്ടുപോകാൻ കഴിയില്ല'; സ്വകാര്യ ബസ് ഉടമകൾ സമരത്തിലേക്ക്, സർവീസുകൾ നിർത്തിവെക്കും](https://www.reporterlive.com/topnews/kerala/2026/09/08/private-bus-strike-kerala-120-crore-loss-services-to-stop)
-- [malappuram morphing case accused മലപ്പുറം മോർഫിം​ഗ് കേസ്: തിരുവനന്തപുരം തിരുമല സ്വദേശി പിടിയിൽ](https://www.asianetnews.com/crime-news/malappuram-morphing-case-accused-trivandrum-native-arrested-articleshow-nbfr2vu)
-- [મુંબઈમાં PM મોદીના કાર્યક્રમ પહેલા બે શંકાસ્પદની અટકાયત, PMOનું નકલી ID ધરાવતો યુવક ગનમેન સાથે ઝડપાયો](https://www.gujaratsamachar.com/news/national/two-suspects-detained-ahead-of-pm-modis-event-in-mumbai-youth-with-fake-pmo-id-caught-with-gunman-93520798091)
-- [UAE warned Netanyahu of Hamas plan days before 2023 attack? New report makes shocking claims](https://www.hindustantimes.com/world-news/uae-warned-netanyahu-of-hamas-plan-days-before-oct-7-2023-attack-new-report-makes-shocking-claims-101788863207265.html)
-- [दुबई में कैसे मिलती है ट्रक ड्राइवर की नौकरी, कितनी होती है सैलरी? जानिए पूरा प्रोसेस](https://www.jagran.com/news/national-how-to-get-truck-driver-job-in-dubai-process-salary-requirements-40366432.html)
-- ['പാകിസ്ഥാന്‍ ക്രിക്കറ്റ് 10 വര്‍ഷം പിന്നോട്ട് പോയി'; ബോര്‍ഡിനെതിരെ രൂക്ഷ വിമര്‍ശനവുമായി മുന്‍ താരം സയീദ് അജ്മല്‍](https://www.asianetnews.com/cricket-sports/former-spinner-saeed-ajmal-slams-pcb-after-pakistan-struggles-articleshow-hmggska)
+- [ટાટા પંચ બની દેશની નંબર-1 કાર: મારુતિને પછાડી મેળવ્યું ટોચનું સ્થાન, જુઓ Top 5 કારનું લિસ્ટ](https://gujarati.abplive.com/auto/tata-punch-top-selling-car-august-2026-sales-report-top-5-cars-news-990725)
+- [Gaurav Bhatia files ₹2 crore defamation case in Delhi HC against CJP's Abhijeet Dipke, Saurav Das, Ashutosh Ranka](https://www.barandbench.com/news/gaurav-bhatia-files-2-crore-defamation-case-in-delhi-hc-against-cjps-abhijeet-dipke-saurav-das-ashutosh-ranka)
+- [Bi-layered single-piece dental implant reduces the need for surgical interventions](https://www.greaterkashmir.com/national/bi-layered-single-piece-dental-implant-reduces-the-need-for-surgical-interventions-12507518)
+- [BCCI फिर होगा मालामाल! हर मैच से बरसेंगे करोड़ों रुपये, ChatGPT के साथ हुई गजब की डील](https://www.aajtak.in/sports/cricket/story/bcci-brings-campa-cola-chatgpt-and-sbi-life-on-board-as-associate-partners-for-team-india-matches-aksp-dskc-2638894-2026-09-08)
+- [Deaths due to passive smoking in India up 50 pc compared to 1990: Lancet study](https://www.thehindu.com/sci-tech/health/deaths-due-to-passive-smoking-in-india-up-50-pc-compared-to-1990-lancet-study/article71442744.ece)
+- [गणेशोत्सवात ‘आवाज’ नव्हे, भक्तीचा गजर करा!](https://www.esakal.com/mumbai/todays-latest-marathi-news-mbi26b37348-txt-mumbai-today-20260908123303)
+- ['Leon was apologising': How an illegal move cost Abhimanyu Mishra a sure-shot win in GCL](https://timesofindia.indiatimes.com/sports/chess/leon-was-apologising-how-an-illegal-move-cost-abhimanyu-mishra-a-sure-shot-win-in-gcl/articleshow/133925312.cms)
+- [Supreme Court Exempts Actor Rajpal Yadav From Surrender In Cheque Bounce Cases Subject To ₹5 Crore Deposit](https://www.livelaw.in/top-stories/supreme-court-exempts-actor-rajpal-yadav-from-surrender-in-cheque-bounce-cases-subject-to-5-crore-deposit-549175)
+- [NASA’s 10 most beautiful red space images reveal the universe in a whole new light](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/science/nasa-s-10-most-beautiful-red-space-images-reveal-the-universe-in-a-whole-new-light-article-14025306.html)
+- [Tiny Vortices spotted on the Sun for the first time: Scientists say they could explain how magnetic energy builds up](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/science/tiny-vortices-spotted-on-the-sun-for-the-first-time-scientists-say-they-could-explain-how-magnetic-energy-builds-up-article-14025372.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
