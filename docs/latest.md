@@ -1,19 +1,20 @@
-# India Trending Report — 2026-09-09 18:38:06
+# India Trending Report — 2026-09-09 19:01:54
 
 ## Google Trends (India) — top trending searches
-1. [norwich city vs birmingham](https://trends.google.com/trending/rss?geo=IN)
-2. [mirzapur movies](https://trends.google.com/trending/rss?geo=IN)
-3. [मीन राशि](https://trends.google.com/trending/rss?geo=IN)
-4. [सोना चांदी](https://trends.google.com/trending/rss?geo=IN)
-5. [apple stock price](https://trends.google.com/trending/rss?geo=IN)
-6. [iphone 15](https://trends.google.com/trending/rss?geo=IN)
-7. [napoli vs arsenal](https://trends.google.com/trending/rss?geo=IN)
-8. [psg vs slovan bratislava](https://trends.google.com/trending/rss?geo=IN)
-9. [liverpool vs atlético madrid](https://trends.google.com/trending/rss?geo=IN)
-10. [chelsea vs leeds](https://trends.google.com/trending/rss?geo=IN)
+1. [rio ngumoha](https://trends.google.com/trending/rss?geo=IN)
+2. [lee kang-in](https://trends.google.com/trending/rss?geo=IN)
+3. [coco gauff](https://trends.google.com/trending/rss?geo=IN)
+4. [norwich city vs birmingham](https://trends.google.com/trending/rss?geo=IN)
+5. [barcelona today match](https://trends.google.com/trending/rss?geo=IN)
+6. [मीन राशि](https://trends.google.com/trending/rss?geo=IN)
+7. [apple stock price](https://trends.google.com/trending/rss?geo=IN)
+8. [iphone 15](https://trends.google.com/trending/rss?geo=IN)
+9. [सोना चांदी](https://trends.google.com/trending/rss?geo=IN)
+10. [napoli vs arsenal](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Apple's 1st foldable phone launched: Specifications, features & price in India of iPhone Duo](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-duo-launched-specifications-features-and-price/articleshow/133980600.cms)
 - [3 trucks of debris, 1 missing wall: How renovation doomed Delhi PG building](https://timesofindia.indiatimes.com/city/delhi/delhi-building-collapse-renovation-3-truckloads-of-debris-and-wall-removal-weakened-structure-probe-finds/articleshow/133969454.cms)
 - [Over 10 feared trapped as under-construction building collapses in Gandhinagar](https://timesofindia.indiatimes.com/city/ahmedabad/gandhinagar-building-collapse-portion-of-under-construction-structure-collapses-in-kudasan-rescue-on/articleshow/133978356.cms)
 - [Pegula vs Navarro: The $15 billion 'battle' that dwarfed Djokovic, Federer and Nadal's wealth](https://timesofindia.indiatimes.com/sports/tennis/top-stories/a-15-billion-tennis-match-how-pegula-and-navarro-turned-a-us-open-clash-into-a-battle-of-the-billionaires-that-dwarfed-djokovic-federer-and-nadals-combined-wealth/articleshow/133974795.cms)
@@ -23,7 +24,6 @@
 - [He scored 99th percentile in CAT but chose Army; meet Col Anurag Upadhyay](https://timesofindia.indiatimes.com/education/news/he-scored-99th-percentile-in-cat-but-chose-the-army-who-is-col-anurag-upadhyay-the-para-sf-veteran-seeking-new-possibilities-after-stroke/articleshow/133958299.cms)
 - [‘Wanted to teach him lesson’: Delhi accused on assault that killed Manipuri musician](https://timesofindia.indiatimes.com/india/wanted-to-teach-him-a-lesson-accused-on-assault-that-killed-delhi-musician/articleshow/133974802.cms)
 - [1980s AI photo trend: 11 ChatGPT prompts to turn photos into retro Bollywood looks](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-11-chatgpt-prompts-to-turn-your-photos-into-retro-bollywood-looks/articleshow/133961562.cms)
-- [Watch: Ferry erupts in flames off Philippines’ Palawan; 5 killed](https://timesofindia.indiatimes.com/world/rest-of-world/watch-ferry-erupts-in-flames-off-philippines-palawan-5-killed/articleshow/133979229.cms)
 
 **NDTV**
 - [2 Days Before 9/11, Al Qaeda Killed Osama Bin Laden's Biggest Taliban Rival](https://www.ndtv.com/world-news/2-days-before-9-11-al-qaeda-killed-osama-bin-ladens-biggest-taliban-rival-12023555#publisher=newsstand)
@@ -38,6 +38,7 @@
 - [Eiffel Tower Reopens After Hindu Group Apologises For Removing Women Staff](https://www.ndtv.com/world-news/eiffel-tower-reopens-after-hindu-group-apologises-for-removing-women-staff-12024047#publisher=newsstand)
 
 **Hindustan Times**
+- [Scaffolding collapses at under-construction complex in Gujarat's Gandhinagar; 12 workers rescued, 10 still trapped](https://www.hindustantimes.com/india-news/scaffolding-collapses-at-under-construction-complex-in-gujarat-gandhinagar-12-workers-rescued-10-still-trapped-101788977897797.html)
 - [iPhone 18 India prices: Pro starts at  ₹1,64,900; Pro Max priced from  ₹1,79,900](https://www.hindustantimes.com/india-news/iphone-18-india-prices-revealed-pro-starts-at-rs-1-64-900-pro-max-priced-from-rs-179900-101788754308434.html)
 - [US suspends Cognizant's green card filings: How will the move affect Indians?](https://www.hindustantimes.com/india-news/us-suspends-cognizants-green-card-filings-how-will-the-move-affect-indians-101788964618745.html)
 - [‘Ashamed of Mumbai-Goa Highway delays’: Nitin Gadkari at Porvorim corridor event](https://www.hindustantimes.com/india-news/ashamed-of-mumbai-goa-highway-delays-nitin-gadkari-at-porvorim-corridor-event-101788974474107.html)
@@ -47,7 +48,6 @@
 - [Piyush Goyal to meet Russian counterpart Anton Alikhanov on Thursday](https://www.hindustantimes.com/india-news/piyush-goyal-to-meet-russian-counterpart-anton-alikhanov-on-thursday-101788967149886.html)
 - [BJP asks Gujarat Congress MLA to apologise for sitting during Vande Mataram](https://www.hindustantimes.com/india-news/bjp-asks-gujarat-congress-mla-to-apologise-for-sitting-during-vande-mataram-101788967030222.html)
 - [Shehzad Poonawalla hits back at Rhiya Ahir's ‘uncle’ jibe as Bigg Boss spat escalates: ‘Your IQ matches Rahul Gandhi’s’](https://www.hindustantimes.com/india-news/shehzad-poonawalla-hits-back-at-rhiya-ahirs-uncle-jibe-as-bigg-boss-spat-escalates-your-iq-matches-rahul-gandhis-101788959759285.html)
-- [3 die while cleaning septic tank in Odisha’ Tarapaguda village: Police](https://www.hindustantimes.com/india-news/3-die-while-cleaning-septic-tank-in-odisha-tarapaguda-village-police-101788964569581.html)
 
 **Vijay Karnataka**
 - [ಮಿತಿಮೀರಿದ AI ದಾಸ್ಯ, ದಶಕದ ಅಂತ್ಯಕ್ಕೆ ಮಾನವಕುಲವೇ ವಿನಾಶ': ಹೊಸಚರ್ಚೆಗೆ ನಾಂದಿ ಹಾಡಿದ ಆಂಥ್ರೋಪಿಕ್ ಸಂಶೋಧಕ!](https://vijaykarnataka.com/news/world/anthropic-researcher-jacob-coxon-says-ai-could-kill-us-all-by-decade-end/articleshow/133980532.cms)
@@ -62,6 +62,9 @@
 - [ನೀವೇನು ಸ್ಪೆಷಲ್ಲಾ?: ರಾಷ್ಟ್ರೀಯ ಕ್ರೀಡಾ ಆಡಳಿತ ಕಾಯ್ದೆ ವಿಚಾರವಾಗಿ ಬಿಸಿಸಿಐಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಖಡಕ್ ಪ್ರಶ್ನೆ!](https://vijaykarnataka.com/sports/cricket/news/supreme-court-questions-bcci-over-national-sports-governance-act-2025/articleshow/133974896.cms)
 
 **The Hindu**
+- [Assembly rocks over ‘purification’ of KCR’s farmhouse road](https://www.thehindu.com/news/national/telangana/assembly-rocks-over-purification-of-kcrs-farmhouse-road/article71448611.ece)
+- [Palaniswami accuses TVK govt. of being “negligent” in paddy procurement](https://www.thehindu.com/news/national/tamil-nadu/palaniswami-accuses-tvk-govt-of-being-negligent-towards-paddy-procurement/article71447633.ece)
+- [Celebrate Ganesha festival peacefully, miscreants will face strict action: Mandya DC](https://www.thehindu.com/news/national/karnataka/celebrate-ganesha-festival-peacefully-miscreants-will-face-strict-action-mandya-dc/article71448281.ece)
 - [Tribal woman, newborn die in Kancheepuram; CPI (M) demands strict action](https://www.thehindu.com/news/national/tamil-nadu/tribal-woman-newborn-die-in-kancheepuram-cpi-m-demands-strict-action/article71448354.ece)
 - [MHA proposes new Chapter K under Article 371 for Ladakh](https://www.thehindu.com/news/national/ladakh/mha-proposes-new-chapter-k-under-article-371-for-ladakh/article71448710.ece)
 - [Hyderabad CP reviews Ganesh idol immersion arrangements, calls for strict safety and traffic measures](https://www.thehindu.com/news/cities/Hyderabad/hyderabad-cp-reviews-ganesh-idol-immersion-arrangements-calls-for-strict-safety-and-traffic-measures/article71448347.ece)
@@ -69,9 +72,6 @@
 - [Special Cabinet Sub-Committee interim report proposes relaxation of fire safety, building safety rules for private schools](https://www.thehindu.com/news/national/karnataka/special-cabinet-sub-committee-interim-report-proposes-relaxation-of-fire-safety-building-safety-rules-for-private-schools/article71448647.ece)
 - [NHRC seeks DGP’s report on ignoring complaint against Harish Rao](https://www.thehindu.com/news/national/telangana/nhrc-seeks-dgps-report-on-ignoring-complaint-against-harish-rao/article71448704.ece)
 - [National Conference, Congress exchange barbs after Omar, Farooq stand for full version of Vande Mataram](https://www.thehindu.com/news/national/national-conference-congress-exchangebarbs-after-omar-farooq-stand-for-full-version-of-vande-mataram/article71448175.ece)
-- [Free online coaching scheme for competitive exams to be launched on September 10](https://www.thehindu.com/news/national/karnataka/free-online-coaching-scheme-for-competitive-exams-to-be-launched-on-september-10/article71448237.ece)
-- [GVMC chief calls for green Ganesh celebrations](https://www.thehindu.com/news/cities/Visakhapatnam/gvmc-chief-calls-for-green-ganesh-celebrations/article71442524.ece)
-- [Forest rights group asks Tribal Affairs Ministry to withdraw stand on Gram Sabha consent](https://www.thehindu.com/news/national/forest-rights-group-asks-tribal-affairs-ministry-to-withdraw-stand-on-gram-sabha-consent/article71448173.ece)
 
 **Livemint**
 - [ChatGPT 1980s photo trend: Shashi Tharoor and sons join AI fashion; netizens react, ‘More handsome than Shah Rukh Khan’](https://www.livemint.com/news/trends/chatgpt-1980s-photo-trend-shashi-tharoor-and-sons-join-ai-fashion-netizens-react-more-handsome-than-shah-rukh-khan-11788975642338.html)
@@ -88,47 +88,47 @@
 **Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
+- [Hubballi | ಮನೆ ಬೀಗ ಮುರಿದು ಚಿನ್ನಾಭರಣ ಕಳ್ಳತನ : FIR ದಾಖಲು](https://www.varthabharati.in/dharwad/hubballi-2274116)
+- [ಮಣಿಪುರಿ ಗಾಯಕ ಚೋಂಗ್ಥಮ್ ವಿಕ್ರಮ್ ಹತ್ಯೆಗೆ ಮಾನವ ಹಕ್ಕುಗಳ ಸಂಘಟನೆಗಳ ಖಂಡನೆ](https://www.varthabharati.in/National/lynching-of-manipur-musician-chongtham-vikram-singh-sparks-outcry-over-northeast-discrimination-in-delhi-2274115)
+- [ಮೂರು ಒಪ್ಪಂದಗಳಿಗೆ ಭಾರತ ಮತ್ತು ಶ್ರೀಲಂಕಾ ಸಹಿ](https://www.varthabharati.in/international/india-sri-lanka-sign-three-defence-sector-mous-during-rajnath-singhs-visit-2274113)
+- [ಗ್ಲೋಬಲ್ ಚೆಸ್ ಲೀಗ್: ಚೆಕ್ ಮುಂಬಾ ಮಾಸ್ಟರ್ಸ್ ಮಣಿಸಿ ಅಗ್ರಸ್ಥಾನಕ್ಕೇರಿದ ಆಲ್ಪೈನ್ ಪೈಪರ್ಸ್](https://www.varthabharati.in/sports/gcl-alpine-apl-pipers-beat-mumba-masters-to-go-on-top-ganges-grandmasters-convincingly-beat-triveni-continental-kings-2274112)
+- [ಆಕ್ರಮಿತ ವೆಸ್ಟ್ ಬ್ಯಾಂಕ್‌ನ ಇಸ್ರೇಲಿ ವಸಾಹತುಗಳ ಸರಕುಗಳ ಮೇಲೆ ಬ್ರಿಟನ್ ನಿಷೇಧ; ಏನೇನು ನಿಷೇಧಕ್ಕೊಳಗಾಗಿವೆ ?](https://www.varthabharati.in/vishesha-varadigalu/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means-2274109)
+- [Hubballi | ಮನೆ ಬೀಗ ಮುರಿದು ಚಿನ್ನಾಭರಣ, ನಗದು ಕಳ್ಳತನ : ಪ್ರಕರಣ ದಾಖಲು](https://www.varthabharati.in/dharwad/hubballi-2274108)
 - [ಟೆಸ್ಟ್ ಕ್ರಿಕೆಟ್ ನಲ್ಲಿ ಗರಿಷ್ಠ ಪಂದ್ಯಗಳು: ಸ್ಟೀವ್ ವಾ ದಾಖಲೆ ಮುರಿದ ಜೋ ರೂಟ್](https://www.varthabharati.in/sports/joe-root-steve-waugh-2274107)
 - [ಭಾರತದ ನ್ಯೂಝಿಲ್ಯಾಂಡ್ ಕ್ರಿಕೆಟ್ ಪ್ರವಾಸ: ಎರಡೇ ವಾರಗಳಲ್ಲಿ 50,000ಕ್ಕೂ ಅಧಿಕ ಟಿಕೆಟ್ ಗಳ ಮಾರಾಟ](https://www.varthabharati.in/sports/india-vs-new-zealand-2274106)
 - [ಭಾಷಣದ ಮಧ್ಯೆ ಬಂದ ಚೀನಾದ ಟಿಪ್ಪಣಿ; ಫಿಲಿಪ್ಪೀನ್ಸ್ ರಕ್ಷಣಾ ಸಚಿವ ಮಾಡಿದ್ದೇನು?](https://www.varthabharati.in/international/have-some-shame-how-a-note-from-china-got-philippine-defence-chief-teodoro-riled-up-at-global-forum-2274105)
 - [ಹನೂರು ಶೂಟೌಟ್ ಪ್ರಕರಣ: ಮೂವರು ಅರಣ್ಯ ಸಿಬ್ಬಂದಿಗೆ ನಿರೀಕ್ಷಣಾ ಜಾಮೀನು ಮಂಜೂರು](https://www.varthabharati.in/chamarajanagar/hanuru-shootout-case-2274104)
-- [ಭಾರತೀಯರಿಗೆ ಯುಎಸ್ ಗ್ರೀನ್ ಕಾರ್ಡ್ ಆತಂಕ: ಸೆಪ್ಟೆಂಬರ್ ಅಂತ್ಯಕ್ಕೂ ಮುನ್ನ EB-1 ವೀಸಾ ಲಭ್ಯತೆ ಸ್ಥಗಿತಗೊಳ್ಳುವ ಸಾಧ್ಯತೆ?](https://www.varthabharati.in/vishesha-varadigalu/us-green-card-alert-for-indians-whats-the-eb-1-category-likely-to-become-unavailable-before-sept-ends-2274103)
-- [Doddaballapura | ಬ್ಯಾಂಕ್ ಸಾಲ ಬಾಕಿ: ಆಯುರ್ವೇದ ಕಾಲೇಜಿಗೆ ಬೀಗ](https://www.varthabharati.in/bangalore-Countryside/doddaballapura-2274102)
-- [ಜಿಬಿಎ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ಕಾಮಗಾರಿ ನಡೆಸದೆ ಕೋಟ್ಯಂತರ ರೂ. ದುರ್ಬಳಕೆ : ಆರೋಪ](https://www.varthabharati.in/bengaluru/gba-2274101)
-- [ಮಾನ್ಯತೆ ರಹಿತ ಪಕ್ಷಗಳ ಮೂಲಕ 10,000 ಕೋಟಿ ರೂ. ತೆರಿಗೆ ವಂಚನೆ: ಬಿಜೆಪಿ ವಿರುದ್ಧ ಕಾಂಗ್ರೆಸ್ ವಾಗ್ದಾಳಿ](https://www.varthabharati.in/National/congress-alleges-10000-crore-tax-evasion-through-unregistered-political-parties-seeks-jpc-2274100)
-- [ಗಣಪತಿ ವಿಸರ್ಜನೆ ವೇಳೆ ನಾವು ತಿಳಿಸುವ ಮಾರ್ಗದಲ್ಲಿ ತೆರಳಬೇಕು : ಪಿಎಸ್‌ಐ ಎಚ್ಚರಿಕೆ](https://www.varthabharati.in/mysore/--2274099)
-- [12 ಬ್ರಿಟಿಷ್ ಪ್ರಜೆಗಳ ಪ್ರವೇಶ ನಿಷೇಧಿಸಿದ ಇಸ್ರೇಲ್, ಕಾನ್ಸುಲೇಟ್ ಬಂದ್](https://www.varthabharati.in/international/israel-bans-entry-of-12-british-nationals-moves-to-shut-uk-consulate-as-diplomatic-row-escalates-2274098)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (4.2)
+- India (5.5)
 - ChatGPT (3.9)
 - Phone (3.0)
-- Ganesh (2.6)
-- September (2.6)
+- Hubballi (2.6)
 - Delhi (2.2)
 - Pro Max (2.0)
 - Vande Mataram (2.0)
+- Gandhinagar (1.6)
 - Osama (1.6)
 - Taliban (1.6)
 - What (1.6)
 - British (1.6)
 - Congress (1.6)
-- Tribal (1.6)
-- Gandhinagar (1.3)
+- Apple's (1.3)
+- Specifications (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Nandu Bigg Boss: యూట్యూబర్ నందు బిగ్ బాస్ కోసం ఇండియాకు వచ్చిందా? వైల్డ్ కార్డ్ ఎంట్రీపై నిజమెంత?](https://telugu.asianetnews.com/gallery/entertainment/nandu-bigg-boss-entry-truth-why-youtuber-rama-nandana-was-arrested-in-hyderabad-rq1z1yg)
-- [CJP प्रोटेस्ट: नोटिस पर CJI नाराज, पूछा- 'मजिस्ट्रेट कैसे जारी कर सकते हैं'](https://www.abplive.com/news/india/cjp-protest-supreme-court-cji-questioned-the-notice-issued-by-the-greater-noida-magistrate-3186443)
-- [Nandus World Nandana : యూట్యూబర్ నందనను ఎందుకు అరెస్ట్ చేయలేదు? - నోటీసులిచ్చి పంపేశారు... లీగల్ ప్రొసీడింగ్స్ ఏంటంటే?](https://telugu.abplive.com/andhra-pradesh/vijayawada/why-nandus-world-nandana-released-with-only-notice-fraud-case-latest-update-258472)
-- [वंदना गुप्ते प्रशासनावर संतापल्या, म्हणाल्या, 'तुम्हाला खर्च झेपत नसेल, तर माझ्या पैशांनी बोर्ड लावते'; नवी मुंबई एअरपोर्टवरजवळ काय घडलं?](https://marathi.abplive.com/entertainment/vandana-gupte-angry-on-navi-mumbai-airport-road-for-there-is-no-directional-board-marathi-actress-news-1438534)
-- [चीन के लिए कैसे काल बनती जा रही है ब्रह्मोस? बैठे-बैठे ही भारत मचा देगा तबाही](https://www.livehindustan.com/national/brahmos-missile-is-becoming-nightmare-for-china-india-can-wreak-havoc-at-sea-201788934980101.html)
-- [Vaibhav Sooryavanshi: अरे भाई खरं बोलतोय! अंपायरला खरं पटवून देण्यासाठी वैभवने मैदानात घेतली आईची शप्पथ](https://www.tv9marathi.com/sports/vaibhav-sooryavanshi-fight-with-umpire-in-duleep-trophy-final-2026-1752422.html)
-- [Cheque Bounce Case: রাজপাল যাদবকে নিয়ে বড় সিদ্ধান্ত নিল সুপ্রিম কোর্ট, না মানলেই যেতে হবে জেলে](https://tv9bangla.com/entertainment/sc-directs-actor-rajpal-yadav-to-deposit-rs-five-crore-in-cheque-bounce-case-1345142.html)
-- [‘राहुल गांधी VVIP नहीं...’, सुप्रीम कोर्ट में दलील; CJI बोले- सभी के लिए समान प्रक्रिया](https://www.aajtak.in/india/news/story/congress-rahul-gandhi-army-china-remarks-case-supreme-court-cji-early-hearing-ntc-agkp-dskc-2639346-2026-09-09)
-- [અમેરિકા- ઈરાન યુદ્ધની અસર શેરમાર્કેટ ફરી ધડામ, સેન્સેક્સમાં 500થી વધુ પોઈન્ટનો કડાકો](https://gujarati.abplive.com/news/business/stock-market-today-9-september-sensex-nifty-update-990768)
-- [Who is Rohan Parekh? Diamond merchant’s son at centre of Mumbai PMO impersonation case](https://www.hindustantimes.com/india-news/who-is-rohan-parekh-diamond-merchant-s-son-at-centre-of-mumbai-pmo-impersonation-case-narendra-modi-101788931665679.html)
+- ["Modern, musical, luxurious" - Marantz's compact streaming system with CD player is elevated in every way](https://www.whathifi.com/hi-fi/stereo-systems/modern-musical-luxurious-marantzs-compact-network-streaming-system-with-cd-player-is-elevated-in-every-way)
+- [સલમાન ખાનથી અમિતાભ બચ્ચન સુધી ટીવી હોસ્ટિંગમાં કોણ -કેટલી કમાણી કરે છે](https://www.abtakmedia.com/from-salman-khan-to-amitabh-bachchan-who-earns-how-much-in-tv-hosting/)
+- [उज्जैन के खड़े हनुमान जी ने कैसे जमाए पांव, IIT इंदौर के एक्सपर्ट बताएंगे बजरंग बली के सामने क्यों फेल हुई क्रेन](https://navbharattimes.indiatimes.com/state/madhya-pradesh/ujjain/khade-hanuman-statue-ujjain-miracle-iit-indore-team-reached-for-inspection/articleshow/133955198.cms)
+- [பிஏபிஎஸ் இந்து மத குழு ஈஃபிள் கோபுரத்தில் பெண்களை வெளியேற்றியது இந்து மதத்தின் பிம்பம் பாதிக்குமா?](https://www.bbc.com/tamil/articles/cj3dlyrjj42o)
+- [ഹോർമൂസിലെ സംഘർഷം പുതിയ ദിശയിൽ; കപ്പലുകൾ തകർത്ത് അമേരിക്കയും ഇറാനും, ഇറാന്റെ എണ്ണ കയറ്റുമതി നിശ്ചലമാക്കാൻ ശ്രമം](https://www.asianetnews.com/international-news/tensions-in-hormuz-take-new-turn-us-and-iran-destroy-ships-articleshow-eu99s3d)
+- [7 மில்லியன் லைக்குகளைப் பெற்ற தீபிகா படுகோனே பிரக்னன்சி போட்டோஸ்](https://cinema.dinamalar.com/news/bollywood/deepika-padukones-pregnancy-photos-receive-7-million-likes/140779)
+- [WhatsApp End Support: এই মোবাইলগুলিতে আর মিলবে না WhatsApp , আপনার ফোনও নেই তো? তালিকা দেখুন](https://bangla.aajtak.in/technology-gadget/story/whatsapp-ends-support-for-older-android-version-check-your-phone-now-sus-1448493-2026-09-09)
+- [BRS MLAs: మగ పోలీసులు మాపై ఇష్టం వచ్చినట్లు ప్రవర్తించారు.. ప్రభుత్వానికి బాధ్యత లేదా? బీఆర్ఎస్ మహిళా ఎమ్మెల్యేలు](https://telugu.abplive.com/telangana/hyderabad/brs-women-mlas-express-outrage-in-assembly-lobby-over-police-manhandling-and-government-neglect-258476)
+- [തെരഞ്ഞെടുപ്പ് ഫണ്ടിൽ ബി.ജെ.പി മുന്നിൽ; ലഭിച്ചത് 1,473 കോടി, നീക്കിയിരിപ്പ് 7,627 കോടിയായി ഉയർന്നു](https://www.doolnews.com/bjp-leads-in-election-funding-received-1-473-crore-reserves-rise-to-7-627-crore-62-177.html)
+- [Largest volcanic eruptions of the 21st century: The most powerful explosions, deadliest disasters and their global impact](https://www.moneycontrol.com/science/largest-volcanic-eruptions-of-the-21st-century-the-most-powerful-explosions-deadliest-disasters-and-their-global-impact-article-14025924.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
