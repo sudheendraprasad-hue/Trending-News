@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-09 16:37:44
+# India Trending Report — 2026-09-09 17:02:05
 
 ## Google Trends (India) — top trending searches
 1. [mpsc](https://trends.google.com/trending/rss?geo=IN)
 2. [जो रूट](https://trends.google.com/trending/rss?geo=IN)
-3. [ఆధార్](https://trends.google.com/trending/rss?geo=IN)
-4. [feyenoord](https://trends.google.com/trending/rss?geo=IN)
-5. [vfb stuttgart vs viking](https://trends.google.com/trending/rss?geo=IN)
-6. [brian fariñas](https://trends.google.com/trending/rss?geo=IN)
-7. [सीएनबीसी](https://trends.google.com/trending/rss?geo=IN)
-8. [elena rybakina](https://trends.google.com/trending/rss?geo=IN)
-9. [qinwen zheng](https://trends.google.com/trending/rss?geo=IN)
+3. [தேர்வு](https://trends.google.com/trending/rss?geo=IN)
+4. [ఆధార్](https://trends.google.com/trending/rss?geo=IN)
+5. [feyenoord](https://trends.google.com/trending/rss?geo=IN)
+6. [vfb stuttgart vs viking](https://trends.google.com/trending/rss?geo=IN)
+7. [brian fariñas](https://trends.google.com/trending/rss?geo=IN)
+8. [सीएनबीसी](https://trends.google.com/trending/rss?geo=IN)
+9. [elena rybakina](https://trends.google.com/trending/rss?geo=IN)
 10. [mika mármol](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [AI-pocalypse now? Anthropic gearheads sound alarm over advances](https://timesofindia.indiatimes.com/technology/tech-news/ai-pocalypse-now-anthropic-gearheads-sound-alarm-over-advances/articleshow/133975625.cms)
-- [New satellite images show major construction surge at Iran’s Pickaxe nuke site](https://timesofindia.indiatimes.com/world/middle-east/satellite-images-show-major-construction-surge-at-irans-underground-pickaxe-site-amid-us-war/articleshow/133967582.cms)
+- [‘Wanted to teach him lesson’: Delhi accused on assault that killed Manipuri musician](https://timesofindia.indiatimes.com/india/wanted-to-teach-him-a-lesson-accused-on-assault-that-killed-delhi-musician/articleshow/133974802.cms)
 - [Big boost for India ahead of Afghanistan T20Is as Nitish Kumar Reddy clears fitness test](https://timesofindia.indiatimes.com/sports/cricket/news/big-boost-for-india-ahead-of-afghanistan-t20is-as-nitish-kumar-reddy-clears-fitness-test/articleshow/133974615.cms)
 - [86-year-old father alleged son forced him out; HC orders son to vacate home](https://timesofindia.indiatimes.com/business/india-business/86-year-old-father-alleged-youngest-son-forced-him-out-of-ancestral-home-orissa-high-court-orders-son-to-vacate-leaves-separate-dispute-over-land-parcels-bought-in-sons-name-to-civil-court/articleshow/133973662.cms)
 - [Apple Store goes down ahead of iPhone 18 Pro, Pro Max & iPhone Duo launch](https://timesofindia.indiatimes.com/technology/tech-news/apple-store-goes-down-ahead-of-september-event-iphone-18-pro-foldable-iphone-duo-and-apple-watch-series-12-expected-today/articleshow/133969836.cms)
+- [New satellite images show major construction surge at Iran’s Pickaxe nuke site](https://timesofindia.indiatimes.com/world/middle-east/satellite-images-show-major-construction-surge-at-irans-underground-pickaxe-site-amid-us-war/articleshow/133967582.cms)
 - ['Attack on one is attack on all': Pak warns Houthis, invokes Mecca defence pact](https://timesofindia.indiatimes.com/world/pakistan/attack-on-one-is-attack-on-all-pakistan-warns-houthis-invokes-mecca-defence-pact/articleshow/133955778.cms)
 - [US suspends Cognizant’s green-card filings amid visa fraud probe](https://timesofindia.indiatimes.com/world/us/us-suspends-cognizants-green-card-filings-amid-visa-fraud-probe/articleshow/133974893.cms)
-- [‘Can’t allow Kafkaite trial’: HC to Centre on LOC disclosure against person](https://timesofindia.indiatimes.com/city/chennai/cant-allow-kafkaite-trial-a-person-against-whom-loc-is-issued-must-be-made-aware-of-it-madras-high-court-tells-centre/articleshow/133972870.cms)
 - [1980s AI photo trend: 11 ChatGPT prompts to turn photos into retro Bollywood looks](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-11-chatgpt-prompts-to-turn-your-photos-into-retro-bollywood-looks/articleshow/133961562.cms)
-- [Amitabh Bachchan reveals hosting KBC 18 has been a ‘heartbreaking’ experience](https://timesofindia.indiatimes.com/tv/news/hindi/amitabh-bachchan-reveals-why-hosting-kaun-banega-crorepati-18-has-been-a-heartbreaking-experience/articleshow/133973698.cms)
+- [‘Can’t allow Kafkaite trial’: HC to Centre on LOC disclosure against person](https://timesofindia.indiatimes.com/city/chennai/cant-allow-kafkaite-trial-a-person-against-whom-loc-is-issued-must-be-made-aware-of-it-madras-high-court-tells-centre/articleshow/133972870.cms)
 
 **NDTV**
 - [2 Days Before 9/11, Al Qaeda Killed Osama Bin Laden's Biggest Taliban Rival](https://www.ndtv.com/world-news/2-days-before-9-11-al-qaeda-killed-osama-bin-ladens-biggest-taliban-rival-12023555#publisher=newsstand)
@@ -50,31 +50,32 @@
 - [Mayawati hints at Akash Anand’s return, sets retirement condition for father-in-law](https://www.hindustantimes.com/cities/lucknow-news/mayawati-hints-at-akash-anand-s-return-sets-retirement-condition-for-fatherinlaw-101788961924428.html)
 
 **Vijay Karnataka**
+- [ಏಷ್ಯನ್‌ ಗೇಮ್ಸ್‌ ನಡೆಯಲಿರುವ ನಗೋಯಾದಲ್ಲಿ ಕಂಡುಕೇಳರಿಯದ ಪ್ರವಾಹ; 400 ಕ್ರೀಡಾಪಟುಗಳ ಸ್ಥಳಾಂತರ](https://vijaykarnataka.com/sports/other-sports/asian-games-2026-heavy-flooding-in-nagoya-400-athletes-evacuated/articleshow/133975411.cms)
 - [ಸಚಿವ ಸಂಪುಟ ಸಭೆ: ಕಾಲೇಜಿನಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿ ಸಂಘದ ಚುನಾವಣೆಗೆ ಸರ್ಕಾರ ಅಸ್ತು! ಅಧ್ಯಕ್ಷ ಸೇರಿ 12 ಸ್ಥಾನ; ಯಾವೆಲ್ಲಾ?](https://vijaykarnataka.com/news/karnataka/cabinet-meeting-government-greenlights-student-union-elections-in-colleges-12-posts-2-seats-reserved-for-female-students/articleshow/133975112.cms)
 - [ನೀವೇನು ಸ್ಪೆಷಲ್ಲಾ?: ರಾಷ್ಟ್ರೀಯ ಕ್ರೀಡಾ ಆಡಳಿತ ಕಾಯ್ದೆ ವಿಚಾರವಾಗಿ ಬಿಸಿಸಿಐಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಖಡಕ್ ಪ್ರಶ್ನೆ!](https://vijaykarnataka.com/sports/cricket/news/supreme-court-questions-bcci-over-national-sports-governance-act-2025/articleshow/133974896.cms)
-- [ನಿಗೂಢ ನಾಪತ್ತೆಯಾಗಿದ್ದ ಬೆಂಗಳೂರು PUC 2 ವಿದ್ಯಾರ್ಥಿನಿಯರು 8 ತಿಂಗಳ ಬಳಿಕ ಪತ್ತೆ! ಒಬ್ಬಳು ಗರ್ಭಿಣಿ; ಆಧಾರ್‌ ಕೊಟ್ಟ ಸುಳಿವು](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-puc-2-girl-students-who-had-mysteriously-gone-missing-found-after-8-months-one-is-pregnant-aadhaar-provided-clue/articleshow/133974285.cms)
 - [ಮಣ್ಣಿನ ಗಣೇಶ ಮೂರ್ತಿಯೇ? POP ಮೂರ್ತಿಯೇ? ಖರೀದಿಸುವ ಮುನ್ನ ಈ ಗುರುತುಗಳನ್ನು ಪರಿಶೀಲಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/ganesh-chaturthi-2026-how-to-check-clay-or-pop-ganesha-idol/articleshow/133963722.cms)
-- [ಗಣೇಶ ಹಬ್ಬ: ಬೆಂಗಳೂರಿನಿಂದ 2 ಮಾರ್ಗದಲ್ಲಿ ವಿಶೇಷ ರೈಲು; ಬೆಳಗಾವಿ, ವಿಜಯಪುರ ಸೇರಿ 9 ಜಿಲ್ಲೆಗೆ ಅನುಕೂಲ; ವೇಳಾಪಟ್ಟಿ ಬಿಡುಗಡೆ](https://vijaykarnataka.com/news/karnataka/ganesh-festival-special-trains-from-bengaluru-via-2-routes-benefit-9-districts-including-belagavi-vijayapura-schedule-released/articleshow/133972695.cms)
+- [ನಿಗೂಢ ನಾಪತ್ತೆಯಾಗಿದ್ದ ಬೆಂಗಳೂರು PUC 2 ವಿದ್ಯಾರ್ಥಿನಿಯರು 8 ತಿಂಗಳ ಬಳಿಕ ಪತ್ತೆ! ಒಬ್ಬಳು ಗರ್ಭಿಣಿ; ಆಧಾರ್‌ ಕೊಟ್ಟ ಸುಳಿವು](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-puc-2-girl-students-who-had-mysteriously-gone-missing-found-after-8-months-one-is-pregnant-aadhaar-provided-clue/articleshow/133974285.cms)
 - [‘ಬಿಗ್ ಬಾಸ್‌ ಸೀಸನ್‌ 13’: ಪ್ರಥಮಾ & ಶಾಸ್ತ್ರಿ ಜಾತಕ ಹೊಂದುತ್ತಲೇ ಇಲ್ಲ, ಅವಿನಾಶ್‌ ಎಚ್ಚರಿಕೆ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-season-13-prathama-prasad-kiran-shastri-fight-avinash-shathmarshan-warning/articleshow/133974377.cms)
 - [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
 - [ವಿಷ್ಣುವಿನ 6 ಮಂತ್ರಗಳು ಮತ್ತು ಅವುಗಳ ಪ್ರಯೋಜನಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/here-are-the-6-vishnu-mantras-and-its-benefits/articleshow/133971144.cms)
 - [ಮಗಳು ದುವಾ 2ನೇ ಹುಟ್ಟುಹಬ್ಬಕ್ಕೆ ದೀಪಿಕಾ ಪಡುಕೋಣೆ ವಿಶೇಷ ಮ್ಯಾಟರ್ನಿಟಿ ಫೋಟೋಶೂಟ್; ಬೇಬಿ ಬಂಪ್ ಲುಕ್‌ಗೆ ಫಿದಾ ಆದ ನೆಟ್ಟಿಗರು!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-maternity-photoshoot-baby-bump-fashion-look/articleshow/133958269.cms)
-- [US Open: 4 ಗಂಟೆ 28 ನಿಮಿಷ! ಅಲ್ಕರಾಝ್ ಗೆ ಆಘಾತ ನೀಡಿದ ಬೆನ್ ಶೆಲ್ಟನ್; `ಅದ್ಭುತ ಟೆನಿಸ್' ಎಂದ ಸಚಿನ್!](https://vijaykarnataka.com/sports/other-sports/sachin-tendulkar-surprise-ben-shelton-vs-carlos-alcaraz-match-in-us-open/articleshow/133972424.cms)
+- [ಗಣೇಶ ಹಬ್ಬ: ಬೆಂಗಳೂರಿನಿಂದ 2 ಮಾರ್ಗದಲ್ಲಿ ವಿಶೇಷ ರೈಲು; ಬೆಳಗಾವಿ, ವಿಜಯಪುರ ಸೇರಿ 9 ಜಿಲ್ಲೆಗೆ ಅನುಕೂಲ; ವೇಳಾಪಟ್ಟಿ ಬಿಡುಗಡೆ](https://vijaykarnataka.com/news/karnataka/ganesh-festival-special-trains-from-bengaluru-via-2-routes-benefit-9-districts-including-belagavi-vijayapura-schedule-released/articleshow/133972695.cms)
 
 **The Hindu**
+- [TTD to provide ₹2 lakh life insurance cover for pilgrims who die of natural causes in Tirumala](https://www.thehindu.com/news/national/andhra-pradesh/ttd-to-provide-2-lakh-life-insurance-cover-for-pilgrims-who-die-of-natural-causes-in-tirumala/article71447238.ece)
+- [Congress alleges ₹10,000 crore tax evasion through unregistered political parties, seeks JPC](https://www.thehindu.com/news/national/congress-alleges-10000-crore-tax-evasion-through-unregistered-political-parties-seeks-jpc/article71448034.ece)
+- [HC sets aside potency test order for trainee IPS](https://www.thehindu.com/news/national/telangana/hc-sets-aside-potency-test-order-for-trainee-ips/article71448573.ece)
+- [St. Francis College hosts conference on emerging technologies, sustainability](https://www.thehindu.com/news/cities/Hyderabad/st-francis-college-hosts-conference-on-emerging-technologies-sustainability/article71448384.ece)
+- [NRI Commission warns against visa, job recruitment scams](https://www.thehindu.com/news/national/kerala/nri-commission-warns-against-visa-job-recruitment-scams/article71448399.ece)
+- [Amid criticism over power cuts, Keralam CM says govt expects to ease electricity crisis by mid-September](https://www.thehindu.com/news/national/kerala/amid-criticism-over-power-cuts-cm-says-keralam-govt-expects-to-ease-electricity-crisis-by-mid-september/article71446470.ece)
 - [Travel operators seek clarity on Karnataka’s fare-meter directive](https://www.thehindu.com/news/national/karnataka/travel-operators-seek-clarity-on-karnatakas-fare-meter-directive/article71447568.ece)
 - [KPSC veterinary officers recruitment scam: Gangwar, Kannale remanded in 14-day judicial custody](https://www.thehindu.com/news/national/karnataka/kpsc-veterinary-officers-recruitment-scam-gangwar-kannale-remanded-in-14-day-judicial-custody/article71447992.ece)
 - [Assembly rocks over ‘purification’ of KCR’s farmhouse road](https://www.thehindu.com/news/national/telangana/assembly-rocks-over-purification-of-kcrs-farmhouse-road/article71448611.ece)
 - [Yellow alert for two districts of Keralam on Sept. 10](https://www.thehindu.com/news/national/kerala/yellow-alert-for-two-districts-of-keralam-on-sept-10/article71448247.ece)
-- [Land grab probe: In Supreme Court, West Bengal pushes for custodial interrogation of Abhishek Banerjee’s PA](https://www.thehindu.com/news/national/west-bengal/land-grab-probe-custodial-interrogation-of-abhishek-banerjees-pa-needed-west-bengal-tells-sc/article71447047.ece)
-- [Two Keralam girls to compete at international robotics meet](https://www.thehindu.com/news/national/kerala/two-keralam-girls-to-compete-at-international-robotics-meet/article71447397.ece)
-- [Mayor holds meeting with theatre owners](https://www.thehindu.com/news/national/kerala/mayor-holds-meeting-with-theatre-owners/article71447868.ece)
-- [Updated Copy | TVK-led alliance named Secular Social Justice Victory Alliance](https://www.thehindu.com/news/national/tamil-nadu/tvk-led-alliance-named-secular-social-justice-victory-alliance/article71447674.ece)
-- [Special team to probe Supplyco ‘sugar scam’; 8 employees suspended so far](https://www.thehindu.com/news/national/kerala/special-team-to-probe-supplyco-sugar-scam-8-employees-suspended-so-far/article71448000.ece)
-- [LDF accuses Mayor V.V.Rajesh of raking up theatre overpricing to divert attention from other issues](https://www.thehindu.com/news/national/kerala/ldf-accuses-mayor-vvrajesh-of-raking-up-theatre-overpricing-to-divert-attention-from-other-issues/article71447955.ece)
 
 **Livemint**
-- [JPSC scam:  ₹5 lakh for PT,  ₹25 lakh for final clearance, blank cheques and more, how alleged syndicate ran in Jharkhand](https://www.livemint.com/news/india/jpsc-scam-5-lakh-for-pt-25-lakh-for-final-clearance-blank-cheques-and-more-how-alleged-syndicate-ran-in-jharkhand-11788964199361.html)
+- [Coal India steps up output, supplies to power plants as rains subside](https://www.livemint.com/news/coal-indias-average-daily-production-up-40-led-by-recovery-in-northern-coalfields-operations-power-generation-demand-11788966909521.html)
+- [JPSC scam:  ₹5 lakh for PT,  ₹25 lakh for final clearance, blank cheques and more — how alleged syndicate ran in Jharkhand](https://www.livemint.com/news/india/jpsc-scam-5-lakh-for-pt-25-lakh-for-final-clearance-blank-cheques-and-more-how-alleged-syndicate-ran-in-jharkhand-11788964199361.html)
 - [ChatGPT 1980s photo trend: What happens to your picture after you upload it?](https://www.livemint.com/news/trends/chatgpt-1980s-photo-trend-what-happens-to-your-picture-after-you-upload-it-11788963514823.html)
 - [Who is Noel Clarke? British actor charged with six sexual offences involving five women](https://www.livemint.com/news/world/who-is-noel-clarke-british-actor-charged-with-six-sexual-offences-involving-five-women-11788962532935.html)
 - ['Moonlighting is a crime unless you're an MP': LinkedIn post sparks debate; check social media reactions](https://www.livemint.com/news/trends/moonlighting-is-a-crime-unless-youre-an-mp-linkedin-post-sparks-debate-check-social-media-reactions-11788961047101.html)
@@ -83,7 +84,6 @@
 - [Monsoon to remain active across India through 15 September](https://www.livemint.com/news/monsoon-to-remain-active-across-india-through-15-september-rainfall-showers-11788951511928.html)
 - [Global Fintech Fest 2026: PhonePe becomes first app to enable Visa's tokenisation, tap to pay and cross-border payments](https://www.livemint.com/news/india/global-fintech-fest-2026-phonepe-brings-visas-device-tokenisation-tap-to-pay-and-cross-border-payment-solutions-11788955307317.html)
 - [Mint Explainer: Will Volkswagen be third time lucky with an Indian partner?](https://www.livemint.com/news/india/volkswagen-german-auto-giant-jsw-lay-offs-partnership-halt-auto-production-mou-11788950549340.html)
-- [Aadhaar prepares for threefold jump in daily authentications: UIDAI chief Neelkanth Mishra](https://www.livemint.com/news/aadhaar-prepares-for-threefold-jump-in-daily-authentications-uidai-chief-neelkanth-mishra-11788953180553.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಮಾನಸಿಕ ಆರೋಗ್ಯದ ಜಾಗೃತಿ; ಬೈಕ್‌ನಲ್ಲಿ ದೇಶಾದ್ಯಂತ ಪರ್ಯಟನೆ ಹೊರಟ ಸಂತ್ರಸ್ತೆ ಸೆಹರ್ ಹಾಶ್ಮಿ](https://www.varthabharati.in/DakshinaKannada/mental-health-awareness-sehar-hashmi-a-victim-travels-across-the-country-on-a-bike-2274081)
 - [ರಾಷ್ಟ್ರೀಯ ಹೆದ್ದಾರಿಯಲ್ಲಿ ಯು- ಟರ್ನ್ ನೀಡಲು ಆಗ್ರಹ; ನೆಲ್ಯಾಡಿಯಲ್ಲಿ ಪ್ರತಿಭಟನೆ](https://www.varthabharati.in/DakshinaKannada/--2274079)
 - [ಪಣಂಬೂರು: ಸಿ.ಎನ್.ಜಿ. ಸಿಲಿಂಡರ್ ಸೋರಿಕೆ; ಆತಂಕದ ವಾತಾವರಣ](https://www.varthabharati.in/DakshinaKannada/panambur-cng-cylinder-leakage-an-atmosphere-of-anxiety-2274078)
 - [ಮಹಾರಾಷ್ಟ್ರದಲ್ಲಿ SIR: ಮುಸ್ಲಿಂ ಜನಸಂಖ್ಯೆ ಹೆಚ್ಚಿರುವ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಶೇ. 30 ರಷ್ಟು ಮತದಾರರ ಹೆಸರು ಡಿಲೀಟ್; ವರದಿ](https://www.varthabharati.in/vishesha-varadigalu/sir-3-in-10-voters-not-carried-forward-in-muslim-heavy-seats-in-maharashtra-2274077)
@@ -107,38 +108,37 @@
 - [SIR | ನೋಟಿಸ್ ಅವಧಿ ಮೂರು ತಿಂಗಳ ವರೆಗೆ ವಿಸ್ತರಿಸಲು ಎಪಿಸಿಆರ್ ಆಗ್ರಹ](https://www.varthabharati.in/bangalore-city/sir-2274073)
 - [ವರ್ಲ್ಡ್ ಆರ್ಚರಿ ಪ್ಯಾರಾ ಸೀರಿಸ್ |ಭಾರತದ ಶೀತಲ್ ದೇವಿಗೆ ಒಲಿದ ಸ್ವರ್ಣ](https://www.varthabharati.in/sports/world-archery-para-series-2026-ahmedabad-sheetal-devi-wins-gold-as-indian-archers-shine-on-final-day-2274071)
 - [ಸೆ.26ರಿಂದ ಮೂಡುಬಿದಿರೆಯಲ್ಲಿ ಕಂಬಳ ಅಕಾಡೆಮಿಯಿಂದ ಓಟಗಾರರಿಗೆ ತರಬೇತಿ ಶಿಬಿರ ಆರಂಭ](https://www.varthabharati.in/DakshinaKannada/26--2274070)
-- [ಶೇಕ್ ಮುಹಮ್ಮದ್ ಇಸಾಕ್](https://www.varthabharati.in/death/--2274069)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
 - ICICI Securities (3.0)
 - target (3.0)
-- India (2.6)
+- India (2.9)
 - ChatGPT (2.6)
 - Mayawati (2.6)
-- Mayor (2.6)
+- September (2.3)
 - Buy Bajaj Finance (2.0)
+- Delhi (1.9)
 - Global (1.8)
 - What (1.6)
 - British (1.6)
+- Congress (1.6)
 - Keralam (1.6)
 - Emkay (1.5)
-- Financial (1.5)
-- AI-pocalypse (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [કોડીનવાળી દવાઓનું વેચાણ કરતી 7 પેઢીને નોટિસ, એકનું લાયસન્સ રદ, 83 લાખથી વધુનો જથ્થો સીઝ](https://www.gujaratsamachar.com/news/ahmedabad/notices-issued-to-7-firms-selling-codeine-containing-medicines-license-of-one-cancelled-quantity-worth-over-83-lakhs-seized-68392366094)
-- ['21वीं सदी की मुस्लिम लीग..': वंदे मातरम पूरा बजाने पर नेशनल कांफ्रेंस पर भड़की कांग्रेस, तो मिला टका सा जवाब](https://navbharattimes.indiatimes.com/india/congress-uneasy-with-nc-full-vande-mataram-film-festival-bjp-says-21st-cent-muslim-league/articleshow/133952467.cms)
-- [സംസ്ഥാനത്ത് വൈദ്യുതി പ്രതിസന്ധി; പരിഹാരം കാണാൻ മന്ത്രിയുടെ അടിയന്തര യോഗം ഇന്ന്](https://www.mediaoneonline.com/kerala/kerala-power-crisis-kseb-load-shedding-minister-meeting-336407)
-- [മോളിവുഡ് ഇനിയങ്ങോട്ട് പോളിവുഡ്... ലോകഃയെ മറികടക്കാന്‍ ബെത്‌ലഹേമിന് വേണ്ടത് ഇത്ര മാത്രം](https://www.doolnews.com/bethlehem-kudumba-unit-all-set-to-cross-lokah-movie-collection-64-144.html)
-- [പണമിടപാടുകൾക്കും ജീവനക്കാരുടെ താമസ ചെലവുകൾക്കും പുതിയ വാറ്റ് ചട്ടങ്ങൾ; പുതിയ പ്രഖ്യാപനവുമായി യുഎഇ](https://www.reporterlive.com/gulf/uae/2026/09/09/uae-announces-new-vat-rules-for-payments-and-employee-accommodation-expenses)
-- [Orangutans in Odisha: How did apes not native to India end up in Balasore forest](https://timesofindia.indiatimes.com/city/bhubaneswar/5-orangutans-in-odisha-how-did-apes-not-native-to-india-end-up-in-balasore-forest/articleshow/133952339.cms)
-- [Food Safety : 'আমিষ সম্পর্কে মানুষের ঘৃণা তৈরি করতেই এত পচা মাংস উদ্ধার' সরকারের বিরুদ্ধে বিস্ফোরক TMC, পাল্টা বিজেপি](https://bengali.abplive.com/district/restaurant-administration-raid-rotten-fish-meat-political-war-west-bengal-1192145)
-- [কেন এ বছর দুর্গাপুজোয় কলকাতায় থাকবেন না যিশু সেনগুপ্ত?](https://eisamay.com/entertainment/jisshu-sengupta-shares-his-feelings-again-return-to-work-with-shibaprasad-mukhapadhyay-and-nandita-roy-in-bohurupi-the-golden-daku/200539912.cms)
-- [ദീപിക-രൺവീർ മെറ്റേണിറ്റി ഫോട്ടോകളിൽ തിളങ്ങി കുഞ്ഞ് ദുആ; അച്ചന്റെ മിനി പതിപ്പെന്ന് ആരാധകർ](https://www.madhyamam.com/entertainment/celebrities/baby-dua-steals-spotlight-in-deepika-and-ranveers-shoot-1552850)
-- [Apple iPhone 17 Pro price drops to Rs 76,000 with exchange; probably last chance before Cosmic Orange gets discontinued after iPhone 18 Pro launch](https://www.moneycontrol.com/technology/apple-iphone-17-pro-price-drops-to-rs-76-000-with-exchange-probably-last-chance-before-cosmic-orange-gets-discontinued-after-iphone-18-pro-launch-article-14025812.html)
+- [Pakistan Cricket : कर्णधार असूनही बाबर आझमला संघात काडीची किंमत नाही! PCB ची पोलखोल; म्हणाला, मला नका विचारू, ते...](https://www.esakal.com/krida/cricket/babar-azam-reveals-shocking-truth-pcb-dropped-7-players-without-even-consulting-pakistan-captain-svg87)
+- [திமுக செய்த தவறுகளை சொல்லியே ஆக வேண்டும்; அமைச்சர் நிர்மல்குமார் திட்டவட்டம்](https://www.dinamalar.com/news/tamil-nadu-news/dmk-the-mistakes-made-must-be-told-minister-nirmal-kumars-plan/4318111)
+- [പശ്ചിമേഷ്യൻ സംഘർഷം; ബഹ്‌റൈൻ, കുവൈറ്റ് രാജ്യങ്ങളിലെ എണ്ണ ടാങ്കറുകൾക്ക് നേരെ മുന്നറിയിപ്പുമായി ഇറാൻ](https://www.reporterlive.com/gulf/gulf-news/2026/09/09/bahrain-and-kuwait-enhance-monitoring-of-tanker-movements-gulf-news)
+- [Brahmamudi Serial Today 9 September Episode: లక్కీ నా పెద్దకొడుకని ఒప్పేసుకున్న రేఖ.. స్వాతిని తీస్కొని తల్లికి కనిపించకుండా పోయిన మదన్](https://telugu.samayam.com/tv/news/brahmamudi-serial-today-episode-9-september-2026-rekha-emotional-trap-for-lucky/articleshow/133953594.cms)
+- [Sai Tamhankar: 'उद्या मी मातृत्व स्वीकारलं तरी' ,आई होण्याबद्दल पहिल्यांदाच बोलली सई ताम्हणकर, वक्तव्याची सोशल मीडियावर चर्चा](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/sai-tamhankar-talks-about-motherhood-and-role-in-adkitta-marathi-film/articleshow/133952573.cms)
+- [Lakshmi Narayan Rajyog 2026 : लक्ष्मी नारायण राजयोगाने 5 राशींचा सुवर्णकाळ सुरु; 26 सप्टेंबरपासून देवी लक्ष्मीच्या कृपेने धनसंपत्तीत होणार भरभराट](https://marathi.abplive.com/astro/lakshmi-narayan-rajyog-2026-budh-shukra-yuti-lucky-for-these-5-zodiac-signs-astrology-marathi-news-1438528)
+- [Bigg Boss Tamil 10: சீசனின் முதல் ஆளாக வெளியேறினார் பிளாக் பாண்டி! காரணம் இதுவா?](https://cinema.vikatan.com/television/news-regarding-actor-black-pandi-quit-from-biggboss-tamil-10?pfrom=small-card)
+- [MPSC Paper Leak: एमपीएससी पेपरफुटीची ‘शिक्षा’; ४४,५०० उमेदवारांची पुन्हा ‘परीक्षा’](https://pudhari.news/maharashtra/mumbai/mpsc-inspector-paper-leak-44500-candidates-exam-cancelled-sb97)
+- [హైదరాబాద్ శివారు ప్రాంతాలకు మహర్దశ.. ఓఆర్‌ఆర్‌ నుంచి 167వ నేషనల్ హైవేకు కొత్త కనెక్టివిటీ](https://telugu.samayam.com/telangana/hyderabad/hmda-invites-tenders-for-81-km-radial-road-to-strengthen-hyderabad-outer-connectivity/articleshow/133953132.cms)
+- [ചാമ്പ്യൻസ് ലീഗ് അരങ്ങേറ്റത്തിനിടെ മൈതാനത്ത് കുഴഞ്ഞുവീണ് ബൊറൂസ്സിയ ഡോർട്ട്മുണ്ട് താരം](https://www.mathrubhumi.com/sports/football/borussia-dortmund-konstantinos-karetsas-collapses-champions-league-uh72oa5x)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
