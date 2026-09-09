@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-09 10:36:49
+# India Trending Report — 2026-09-09 11:02:02
 
 ## Google Trends (India) — top trending searches
-1. [cyber crime](https://trends.google.com/trending/rss?geo=IN)
-2. [anthropic](https://trends.google.com/trending/rss?geo=IN)
-3. [ಬಿ. ಪಿ. ಹರೀಶ್](https://trends.google.com/trending/rss?geo=IN)
-4. [pak बनाम eng](https://trends.google.com/trending/rss?geo=IN)
-5. [క్రీడ](https://trends.google.com/trending/rss?geo=IN)
-6. [చిరుతపులి](https://trends.google.com/trending/rss?geo=IN)
-7. [dl68](https://trends.google.com/trending/rss?geo=IN)
-8. [रशिया](https://trends.google.com/trending/rss?geo=IN)
-9. [रेखा गुप्ता](https://trends.google.com/trending/rss?geo=IN)
-10. [दिलीप ट्रॉफी](https://trends.google.com/trending/rss?geo=IN)
+1. [వార్త](https://trends.google.com/trending/rss?geo=IN)
+2. [ನ್ಯಾಯಾಲಯ](https://trends.google.com/trending/rss?geo=IN)
+3. [भारताचे सरन्यायाधीश](https://trends.google.com/trending/rss?geo=IN)
+4. [anthropic](https://trends.google.com/trending/rss?geo=IN)
+5. [ಬಿ. ಪಿ. ಹರೀಶ್](https://trends.google.com/trending/rss?geo=IN)
+6. [cyber crime](https://trends.google.com/trending/rss?geo=IN)
+7. [క్రీడ](https://trends.google.com/trending/rss?geo=IN)
+8. [dl68](https://trends.google.com/trending/rss?geo=IN)
+9. [pak बनाम eng](https://trends.google.com/trending/rss?geo=IN)
+10. [చిరుతపులి](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Bharat Ratna scientist 'Proff' CNR Rao gets SIR notice over name mismatch](https://timesofindia.indiatimes.com/city/bengaluru/bharat-ratna-scientist-prof-cnr-rao-92-gets-sir-notice-over-name-mismatch/articleshow/133956922.cms)
+- [‘Can’t live here anymore’: Collapse sends Satya Niketan students packing](https://timesofindia.indiatimes.com/city/delhi/cant-live-here-anymore-collapse-sends-satya-niketan-students-packing/articleshow/133936100.cms)
 - [Philippines chief gets China's note mid-speech; his blunt reply stuns room](https://timesofindia.indiatimes.com/world/rest-of-world/they-have-no-position-chinas-note-lands-mid-speech-philippines-defence-chief-fires-back-on-stage/articleshow/133962655.cms)
-- [US military's 'modern, intelligent' submarine captured by Iran? All about Dive-LD](https://timesofindia.indiatimes.com/defence/international/iran-says-it-captured-us-militarys-most-modern-intelligent-submarine-what-is-dive-ld/articleshow/133957784.cms)
+- [SIR row: No notice issued to Prof CNR Rao over name discrepancy, says Bengaluru official](https://timesofindia.indiatimes.com/india/sir-row-no-notice-issued-to-prof-cnr-rao-over-name-discrepancy-says-bengaluru-official/articleshow/133964613.cms)
 - [Hardik Pandya makes injury return, named in India A squad for Aus A home series](https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandya-named-in-india-a-squad-for-australia-a-home-series-gaikwad-padikkal-to-lead/articleshow/133962399.cms)
-- [Rs 1.43 lakh iPhone order, Chinese phone delivered; panel orders Rs 1.73 lakh refund](https://timesofindia.indiatimes.com/business/india-business/man-paid-rs-1-43-lakh-for-iphone-14-pro-received-a-chinese-phone-with-fake-apple-logo-and-two-cameras-consumer-panel-orders-full-refund-with-7-interest-plus-rs-30000/articleshow/133959921.cms)
+- [He lost his Rs 2 lakh MacBook on Bengaluru road; what happened next restored his faith](https://timesofindia.indiatimes.com/life-style/people/i-was-crying-at-the-middle-of-the-road-he-lost-his-2-lakh-macbook-on-a-rainy-bengaluru-road-then-an-e-rickshaw-driver-restored-his-faith-in-karma/articleshow/133964061.cms)
 - [iPhone event today: How to watch launch of iPhone 18 Pro, 18 Pro Max & Ultra](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-event-today-how-to-watch-the-launch-of-iphone-18-pro-iphone-18-pro-max-iphone-ultra-and-everything-expected/articleshow/133953180.cms)
-- [Cheaper homes, faster clearances: Real estate experts lay out reforms for growth](https://timesofindia.indiatimes.com/real-estate/news/cheaper-homes-faster-clearances-real-estate-sector-lays-out-reforms-for-future-growth/articleshow/133963139.cms)
+- [‘Delhi mein sab chalta hai’: 2 tragedies in 3 months add to city's civic failures](https://timesofindia.indiatimes.com/city/delhi/delhi-mein-sab-chalta-hai-how-many-tragedies-before-city-says-enough/articleshow/133959347.cms)
+- [US military's 'modern, intelligent' submarine captured by Iran? All about Dive-LD](https://timesofindia.indiatimes.com/defence/international/iran-says-it-captured-us-militarys-most-modern-intelligent-submarine-what-is-dive-ld/articleshow/133957784.cms)
 - ['No one even told us': Noskova questions roof closure delay after loss to Sabalenka](https://timesofindia.indiatimes.com/sports/tennis/top-stories/no-one-even-told-us-linda-noskova-questions-us-open-roof-closure-delay-after-loss-to-sabalenka/articleshow/133957529.cms)
 - [1980s AI photo trend: 11 ChatGPT prompts to turn photos into retro Bollywood looks](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-11-chatgpt-prompts-to-turn-your-photos-into-retro-bollywood-looks/articleshow/133961562.cms)
-- [India-US trade deal soon? Commerce secy gives update on long-awaited pact](https://timesofindia.indiatimes.com/business/india-business/more-or-less-finalised-india-us-trade-deal-nears-signing-says-commerce-secretary/articleshow/133962494.cms)
 
 **NDTV**
 - [1 Killed, 4 Injured In Oxygen Cylinder Blast In Delhi's Okhla](https://www.ndtv.com/india-news/1-killed-4-injured-in-oxygen-cylinder-blast-in-delhis-okhla-12022032#publisher=newsstand)
@@ -38,6 +38,7 @@
 - ['We're Safe': Singer Ammy Virk's Father After Firing In Canada "Rumours"](https://www.ndtv.com/world-news/punjabi-singer-ammy-virks-father-after-firing-in-canada-rumours-were-safe-12022348#publisher=newsstand)
 
 **Hindustan Times**
+- [Won’t allow our soil to be used for anti-India activities: Sri Lankan President](https://www.hindustantimes.com/india-news/wont-allow-lankan-soil-to-be-used-for-anti-india-activities-says-dissanayake-101788949926533.html)
 - [Maharashtra CM Fadnavis announces legislation for land tokenisation](https://www.hindustantimes.com/india-news/maharashtra-cm-fadnavis-announces-legislation-for-land-tokenisation-101788948666020.html)
 - [Andhra govt committed to safeguarding people's land rights: CM Naidu](https://www.hindustantimes.com/india-news/andhra-govt-committed-to-safeguarding-people-s-land-rights-cm-naidu-101788948034368.html)
 - [Ujjain Municipal Corporation asks IIT Indore to help with relocating temple idol](https://www.hindustantimes.com/india-news/ujjain-municipal-corporation-asks-iit-indore-to-help-with-relocating-temple-idol-101788947285764.html)
@@ -47,21 +48,23 @@
 - [Joint probe launched into smuggling of 5 orangutans in Odisha's Balasore](https://www.hindustantimes.com/india-news/joint-probe-launched-into-smuggling-of-5-orangutans-in-odisha-s-balasore-101788945677383.html)
 - [Tejashwi writes to Bihar CM, alleges ration dealers' distress due to 'organised corruption'](https://www.hindustantimes.com/india-news/tejashwi-writes-to-bihar-cm-alleges-ration-dealers-distress-due-to-organised-corruption-101788945428222.html)
 - [NCPCR proposes separate child-friendly wards, beds at de-addiction centres](https://www.hindustantimes.com/india-news/ncpcr-proposes-separate-child-friendly-wards-beds-at-de-addiction-centres-101788944997706.html)
-- [VHP's call to bar Muslims from Navratri events ‘against the Constitution’, says Union minister Athawale](https://www.hindustantimes.com/india-news/vhps-call-to-bar-muslims-from-navratri-events-against-the-constitution-says-union-minister-athawale-101788944347257.html)
 
 **Vijay Karnataka**
+- [Duleep Trophy 2026: ತಿಲಕ್ ವರ್ಮಾ ಅರೆದ ಮದ್ದನ್ನು ಅವರಿಗೇ ಕುಡಿಸಿದ ವೈಭವ್ ಸೂರ್ಯವಂಶಿ! 1 ರನ್ ಗೆ ಸೆಂಚುರಿ ಮಿಸ್!](https://vijaykarnataka.com/sports/cricket/news/vaibhav-sooryavanshi-boomerangs-tilak-varma-by-sledging-in-duleep-trophy-final/articleshow/133965033.cms)
 - [8ನೇ ವೇತನ ಆಯೋಗ: ಕೇಂದ್ರ ನೌಕರರ ವಾರ್ಷಿಕ ವೇತನ ಹೆಚ್ಚಳ ದರ ಏರಿಕೆ? ಫಿಟ್‌ಮೆಂಟ್‌ ಫ್ಯಾಕ್ಟರ್‌ ಜೊತೆಗೆ ಬಂಪರ್‌ ನಿರೀಕ್ಷೆ!](https://vijaykarnataka.com/business/personal-finance/8th-pay-commission-beyond-fitment-factor-government-employees-push-for-annual-increment/articleshow/133961887.cms)
-- ['ನಾನು ಮತ್ತಷ್ಟು ಗಟ್ಟಿಯಾದೆ' - ಕಾರ್ಯಕ್ರಮದ ವೇದಿಕೆಯಲ್ಲಾದ ಕಹಿ ಘಟನೆ ಹಂಚಿಕೊಂಡ ಅಕ್ಕ ಅನು! ಕಾಯಕಕ್ಕೆ ಅಲ್ಲ, ಕಾಮಿಡಿಗೇ ಕಿಮ್ಮತ್ತಾ?](https://vijaykarnataka.com/news/karnataka/social-worker-akka-anu-expressed-her-disappointment-while-recounting-an-unpleasant-incident-that-occurred-on-stage/articleshow/133961878.cms)
 - [ಸತೀಶ್‌ ಜಾರಕಿಹೊಳಿ ಇಡಿ ಇಕ್ಕಳದಲ್ಲಿ: ಆಫ್ರಿಕಾ ಹೂಡಿಕೆಯ ಹಾಳೆಗಳೆಲ್ಲಿ? ರಾಜಕೀಯ ಒತ್ತಡಕ್ಕೆ ಇರಬಹುದಾದ 3 ಕಾರಣಗಳು!](https://vijaykarnataka.com/news/karnataka/why-satish-jarkiholi-is-on-ed-radar-how-minister-handling-fema-case-and-political-pressure-explained/articleshow/133953321.cms)
 - [ಮಗಳು ದುವಾ 2ನೇ ಹುಟ್ಟುಹಬ್ಬಕ್ಕೆ ದೀಪಿಕಾ ಪಡುಕೋಣೆ ವಿಶೇಷ ಮ್ಯಾಟರ್ನಿಟಿ ಫೋಟೋಶೂಟ್; ಬೇಬಿ ಬಂಪ್ ಲುಕ್‌ಗೆ ಫಿದಾ ಆದ ನೆಟ್ಟಿಗರು!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-maternity-photoshoot-baby-bump-fashion-look/articleshow/133958269.cms)
-- [ಭವಿಷ್ಯಕ್ಕೆ ಸಿದ್ದ ನಗರಗಳ ನಿರ್ಮಾಣಕ್ಕೆ ಸಮಗ್ರ ದೃಷ್ಟಿಕೋನದಿಂದ ನಗರಾಭಿವೃದ್ಧಿ ಅಗತ್ಯ: ಡಾ. ಯತೀಂದ್ರ ಸಿದ್ದರಾಮಯ್ಯ ಅಭಿಮತ](https://vijaykarnataka.com/news/karnataka/comprehensive-approach-to-urban-development-essential-for-building-future-ready-cities-says-yathindra-siddaramaiah/articleshow/133960964.cms)
+- [GST 2.0: ಮೌಂಟ್ ಕಾರ್ಮೆಲ್ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ಭಾರತದ ಆರ್ಥಿಕ ಭವಿಷ್ಯ, ಸುಸ್ಥಿರತೆ ಮತ್ತು ವಲಯವಾರು ಪರಿಣಾಮಗಳ ಕುರಿತು ರಾಷ್ಟ್ರೀಯ ಸಮ್ಮೇಳನ](https://vijaykarnataka.com/news/bengaluru-city/gst-2-0-mount-carmel-icssr-national-conference-india-economic-landscape/articleshow/133964494.cms)
 - [ನಾಮಿನೇಷನ್ ಬಗ್ಗೆ ಓಪನ್ ಚರ್ಚೆ: Bigg Boss ಮನೆ ಮೂಲ ನಿಯಮ ಮುರಿದ ಗಗನ್ - ತಾಂಡವ್!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-week-1-gagan-chinappa-and-tandav-ram-break-rule-and-discuss-about-nomination/articleshow/133956390.cms)
 - [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
 - ['ಓಂ ಗಂ ಗಣಪತಯೇ ನಮಃ' ಇದರ ಅರ್ಥ ಮತ್ತು ಮಹತ್ವವೇನು.?](https://vijaykarnataka.com/religion/pooja-vidhana/om-gam-ganapataye-namah-mantra-meaning-benefits-and-importance/articleshow/133961558.cms)
 - [ಜೀನ್ಸ್ ಅಥವಾ ಜಾಕೆಟ್ ಜಿಪ್ಪರ್ ಸಿಕ್ಕಿಕೊಂಡರೆ ಎಳೆಯಬೇಡಿ! ಈ ಸುಲಭ ಹ್ಯಾಕ್ಸ್‌ನಿಂದ ನಿಮಿಷಗಳಲ್ಲಿ ಸರಿಪಡಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/jeans-jacket-stuck-zipper-fix-easy-hacks/articleshow/133954752.cms)
-- [APMCಗೆ ಸಿಎಂ ಡಿಕೆಶಿ ದಿಢೀರ್ ಭೇಟಿ : ’ಉಳಿ ಏಟು ತಿಂದ ಶಿಲೆಯೇ ಮೂರ್ತಿಯಾಗುವುದಲ್ಲವೇ?’ ಎಂದ ಗೆಳೆಯ](https://vijaykarnataka.com/news/bengaluru-city/karnataka-cm-dk-shivakumar-apmc-yeshwanthpur-visit-krv-ta-narayana-gowda-reaction/articleshow/133961581.cms)
+- [ನೇಪಾಳ ಪ್ರಳಯದಲ್ಲಿ ಮುಳುಗಿತು ಚೀನಾ ಕನಸು, 45,000 ಕೋಟಿ ರೈಲ್ವೇ ಪ್ರಾಜೆಕ್ಟ್‌ ಧ್ವಂಸ](https://vijaykarnataka.com/news/india/chinas-dream-submerged-in-nepal-floods-45000-crore-railway-project-destroyed/videoshow/133964838.cms)
 
 **The Hindu**
+- [CPI(M) leader Jayarajan accuses Congress, BJP of waging political vendetta against Pinarayi](https://www.thehindu.com/news/national/kerala/cpim-leader-jayarajan-accuses-congress-bjp-of-waging-political-vendetta-against-pinarayi/article71446795.ece)
+- [Solicitor General orally marks intention to challenge HC’s scathing decision against NSA detention of student](https://www.thehindu.com/news/national/uttar-pradesh/solicitor-general-orally-marks-intention-to-challenge-hcs-scathing-decision-against-nsa-detention-of-student/article71446762.ece)
+- [‘My gesture during Assembly speech was inadvertent’: Tamil Nadu CM Vijay](https://www.thehindu.com/news/national/tamil-nadu/my-gesture-during-assembly-speech-is-inadvertent-has-no-ulterior-motive-tamil-nadu-cm-vijay/article71442647.ece)
 - [Tamil Nadu government transfers 27 IAS officers in major bureaucratic reshuffle](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-transfers-27-ias-officers-in-major-bureaucratic-reshuffle/article71443826.ece)
 - [Brick structure found in Kollidam riverbed traced to Sangam period, was used for water management: T.N. Archaeology Dept.](https://www.thehindu.com/news/national/tamil-nadu/brick-structure-found-in-kollidam-riverbed-traced-to-sangam-period-used-for-water-management-tn-archaeology-dept-study/article71446803.ece)
 - [Telangana SIR | How to check online whether notice was issued to you](https://www.thehindu.com/news/national/telangana/telangana-sir-how-to-check-online-whether-notice-is-issued-to-you/article71441724.ece)
@@ -69,11 +72,9 @@
 - [Student in M.P. falls after school van door opens suddenly, dies in hospital](https://www.thehindu.com/news/national/madhya-pradesh/student-in-mp-falls-after-school-van-door-opens-suddenly-dies-in-hospital/article71446749.ece)
 - [Kolkata-based GRSE launches indigenous ocean research vessel 'Sagar Manthan'](https://www.thehindu.com/news/national/west-bengal/kolkata-based-grse-launches-indigenous-ocean-research-vessel-sagar-manthan/article71446742.ece)
 - [DMK to stage demonstrations against Tamil Nadu CM Vijay’s remarks on Stalin in Assembly](https://www.thehindu.com/news/national/tamil-nadu/dmk-to-stage-demonstrations-against-tamil-nadu-cm-vijays-remarks-on-stalin-in-assembly/article71446543.ece)
-- [Telangana | AYUSH House Surgeons’ stipends raised from ₹13,754 to ₹29,792; from ₹34,385 to ₹74,482 for third year PGs](https://www.thehindu.com/news/national/telangana/telangana-raises-ayush-stipends-on-par-with-allopathic-house-surgeons-and-pgs/article71446686.ece)
-- [VHP’s call to bar Muslims from Navratri events against Constitution: Ramdas Athawale](https://www.thehindu.com/news/national/vhps-call-to-bar-muslims-from-navratri-events-against-constitution-ramdas-athawale/article71446620.ece)
-- [Telangana Legislature monsoon session LIVE Sept 9: Over 20 BRS MLAs suspended](https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-live-updates-cm-revanth-reddy-brs-mlas-9-september-2026/article71445902.ece)
 
 **Livemint**
+- [Rhiya Ahir, Shehzad Poonawalla spar over Bigg Boss 20, Rahul Gandhi and age: ‘Leave women alone’](https://www.livemint.com/news/india/rhiya-ahir-shehzad-poonawalla-spar-over-bigg-boss-20-rahul-gandhi-and-age-leave-women-alone-11788946663890.html)
 - [Punjabi singer-actor Ammy Virk's convoy attacked in Canada: 7 shots fired, no injuries reported — What we know so far](https://www.livemint.com/news/world/punjabi-singer-actor-ammy-virks-convoy-attacked-in-canada-7-shots-fired-no-injuries-reported-what-we-know-so-far-11788947332404.html)
 - [India condemns Iran-backed Houthi attacks on Saudi Arabia that injured over 70 civilians: 'Unacceptable'](https://www.livemint.com/news/india/india-condemns-iran-backed-houthi-attacks-on-saudi-arabia-that-injured-over-70-civilians-unacceptable-11788944145523.html)
 - [Gaurav Bhatia files  ₹2 cr defamation suit against Saurav Das, other CJP leaders over AI-generated post](https://www.livemint.com/news/india/-gaurav-bhatia-files-2-crore-defamation-suit-against-leaders-over-ai-generated-post-bjp-11788944040117.html)
@@ -83,7 +84,6 @@
 - [One dead, four injured after oxygen cylinder explodes in Delhi's Okhla](https://www.livemint.com/news/india/casualties-feared-after-oxygen-cylinder-explodes-in-delhis-okhla-11788937594184.html)
 - [‘How can magistrate issue notice?’ Why CJI Surya Kant questioned notice to Noida student over Jantar Mantar protest](https://www.livemint.com/news/india/how-can-magistrate-issue-notice-why-cji-surya-kant-questioned-notice-to-noida-student-over-jantar-mantar-protest-cjp-11788936471939.html)
 - [Delhi Satya Niketan building collapse: PG operator arrested, adjacent unsafe building demolished | Top updates](https://www.livemint.com/news/india/delhi-satya-niketan-building-collapse-pg-operator-arrested-adjacent-unsafe-building-demolished-top-updates-11788933027984.html)
-- [Who was Rakesh Mehta? Former Delhi chief secretary hangs self, leaves 'suicide' note, family says he was unwell](https://www.livemint.com/news/india/who-was-rakesh-mehta-former-delhi-chief-secretary-hangs-self-leaves-suicide-note-family-says-he-was-unwell-11788932097082.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,47 +98,47 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಕೆಪಿಎಸ್‌ಸಿ ಪಶುವೈದ್ಯಕೀಯ ನೇಮಕಾತಿ ಅಕ್ರಮ ಪ್ರಕರಣ: ಕಲಬುರಗಿಯಲ್ಲಿ ಸಿಐಡಿ ದಾಳಿ](https://www.varthabharati.in/kalaburagi/kpsc-2273943)
+- [Vijayapura | ಲಾರಿ-ಸ್ಕೂಟರ್ ನಡುವೆ ಢಿಕ್ಕಿ; ಸ್ಥಳದಲ್ಲೇ ಸವಾರ ಮೃತ್ಯು](https://www.varthabharati.in/vijayapura/vijayapura-2273942)
+- [‘ಸುಳ್ಳುಗಾರರ ಗುಂಪು’: ಸಿಸಿಟಿವಿ ವೈಫಲ್ಯಕ್ಕಾಗಿ ಎಸ್‌ಎಚ್‌ಒ, ಎಸ್‌ಪಿಯನ್ನು ತರಾಟೆಗೆತ್ತಿಕೊಂಡ ಅಲಹಾಬಾದ್ ಹೈಕೋರ್ಟ್](https://www.varthabharati.in/National/bunch-of-liars-allahabad-high-court-pulls-up-sho-and-sp-over-cctv-failure-2273941)
+- [Mumbai | ಆಹಾರ ಸುರಕ್ಷತೆ, ನೈರ್ಮಲ್ಯ ನಿಯಮಗಳ ಗಂಭೀರ ಉಲ್ಲಂಘನೆ ಆರೋಪ: ಇಸ್ಕಾನ್‌ನ ಮೂರು ರೆಸ್ಟೋರೆಂಟ್ ಗಳ ಪರವಾನಿಗೆ ಅಮಾನತು](https://www.varthabharati.in/National/mumbai-allegations-of-serious-violations-of-food-safety-and-hygiene-norms-licenses-of-three-iskcon-restaurants-suspended-2273940)
+- [ʼಜಿಲ್ಲಾ ಅತ್ಯುತ್ತಮ ಶಿಕ್ಷಕ ಪ್ರಶಸ್ತಿʼ ವಿಜೇತ ಆರ್.ನಾರಾಯಣ ಶೆಣೈಗೆ ಶ್ರೀಮದ್ ಭುವನೇಂದ್ರ ವಿದ್ಯಾ ಸಂಸ್ಥೆಯಲ್ಲಿ ಅಭಿನಂದನೆ](https://www.varthabharati.in/udupi/--2273939)
 - [ಭಾರತೀಯ ಸೇನೆಯಲ್ಲಿ ಸೇವೆ ಸಲ್ಲಿಸುವುದಕ್ಕಾಗಿ ಅಮೆಝಾನ್ನ 46 ಲಕ್ಷ ರೂ. ವೇತನ ತ್ಯಜಿಸಿದ 27ರ ಯುವಕ](https://www.varthabharati.in/vishesha-varadigalu/27-year-old-amazon-engineer-gives-up-rs-46-lakh-package-to-fulfil-army-dream-2273937)
 - [ಭಾರತ್ ಜೋಡೋ ಯಾತ್ರೆ; ದೇಶದ ಜನಸಾಮಾನ್ಯರ ಸಂಕಷ್ಟಕ್ಕೆ ಸಿಕ್ಕ ಪರಿಹಾರ : ಸಿಎಂ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್](https://www.varthabharati.in/state/cm-dk-shivakumar-2273936)
 - [ಸತೀಶ್ ಜಾರಕಿಹೊಳಿ ವಿರುದ್ಧ ಈಡಿ ದಾಳಿ ರಾಜಕೀಯ ಪ್ರೇರಿತ : ಸಿಎಂ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್](https://www.varthabharati.in/state/cm-dk-shivakumar-2273934)
 - [“ಕಾನೂನು ನಿರ್ಬಂಧದ ಕಾರಣ ಬ್ರಿಟನ್ ತೊರೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ”: ದೇಶಭ್ರಷ್ಟ ಆರ್ಥಿಕ ಅಪರಾಧಿ ಎಂಬ ಹಣೆಪಟ್ಟಿ ತಿರಸ್ಕರಿಸಿದ ವಿಜಯ್ ಮಲ್ಯ](https://www.varthabharati.in/national/cannot-leave-britain-due-to-legal-restrictions-vijay-mallya-rejects-the-fugitive-economic-offender-tag-2273932)
 - [ಕಾವೇರಿ ವಿಷಯದಲ್ಲಿ ರಾಜ್ಯದ ಹಿತ ಕಾಪಾಡುವಲ್ಲಿ ಸರಕಾರ ಸಂಪೂರ್ಣ ವಿಫಲ : ಆರ್.ಅಶೋಕ್ ಆಕ್ರೋಶ](https://www.varthabharati.in/state/r-ashok-2273930)
-- [ಹಾರ್ಮುಝ್‌ ಜಲಸಂಧಿಯಲ್ಲಿ ಅಮೆರಿಕದ ಜಲಾಂತರ್ಗಾಮಿ ನೌಕೆಯನ್ನು ವಶಪಡಿಸಿಕೊಂಡಿದ್ದೇವೆ: IRGC ಹೇಳಿಕೆ](https://www.varthabharati.in/international/iran-guards-claim-capture-of-us-submarine-in-strait-of-hormuz-2273928)
-- [ಕಾವೇರಿ ವಿವಾದ: ತಮಿಳುನಾಡಿಗೆ ನೀರು ಹರಿಸುವ ಆದೇಶದ ವಿರುದ್ಧ ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ಗೆ ಮೇಲ್ಮನವಿ : ಸಚಿವ ಚಲುವರಾಯಸ್ವಾಮಿ](https://www.varthabharati.in/state/minister-chaluvarayaswamy-2273926)
-- [ಅವ್ಯವಹಾರ ಆರೋಪ; ಉಪ್ಪಿನಂಗಡಿ ಗ್ರಾ.ಪಂ.ಗೆ  ಲೋಕಾಯುಕ್ತ ದಾಳಿ](https://www.varthabharati.in/DakshinaKannada/lokayukta-raids-uppinangady-gram-panchayat-over-allegations-of-corruption-2273925)
-- [SIR | ʼಭಾರತ ರತ್ನʼ ಪ್ರೊ.ಸಿ.ಎನ್.ಆರ್ ರಾವ್ ಅವರಿಗೆ ಯಾವುದೇ ನೋಟಿಸ್ ಜಾರಿ ಮಾಡಿಲ್ಲ : ಚುನಾವಣಾಧಿಕಾರಿ ಸ್ಪಷ್ಟನೆ](https://www.varthabharati.in/state/sir-no-notice-issued-to-bharat-ratna-prof-cnr-rao-election-officer-clarifies-2273923)
-- [ಹಝ್ರತ್ ಸೈಯದ್ ಮುಹಮ್ಮದ್ ಅಲಿ ಅಲ್ ಹುಸೈನಿ ಅವರಿಗೆ ಅಲ್-ಅಮೀನ್ ಪ್ರಶಸ್ತಿ](https://www.varthabharati.in/kalaburagi/al-amin-award-for-hazrat-syed-muhammad-ali-al-husseini-2273922)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
-- Phone (3.0)
+- India (3.6)
 - ICICI Securities (3.0)
 - target (3.0)
+- Assembly (2.9)
 - What (2.9)
 - China's (2.6)
-- India (2.6)
-- Muslims (2.6)
-- Navratri (2.6)
-- Constitution (2.6)
-- Telangana (2.2)
+- Bengaluru (2.6)
+- Vijay (2.6)
+- Phone (2.0)
 - Delhi's Okhla (2.0)
+- Bigg Boss (2.0)
+- Tamil Nadu CM (2.0)
 - BRICS Summit (2.0)
 - Buy Bajaj Finance (2.0)
-- against (1.8)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [மாற்றுத்திறனாளிகளுக்கு செப்டம்பர் உதவித் தொகை கிடைப்பதில் தாமதம்](https://www.dinamalar.com/news/tamil-nadu-district-news-madurai/delay-in-receipt-of-september-stipend-for-persons-with-disabilities/4317944)
+- [ईरान की एविएशन पर अमेरिका का शिकंजा, 27 एअरलाइंस पर लगाए नए प्रतिबंध](https://www.aajtak.in/world/story/us-choke-iran-aviation-lifelines-new-sanctions-27-airlines-mahan-air-middle-east-conflict-ntc-aktw-dskc-2639119-2026-09-09)
+- [జనం దెబ్బకు పరారీ!](https://www.ntnews.com/telangana/high-tension-prevailed-at-former-telangana-chief-minister-kcr-erravalli-farm-house-2506201)
+- [సీఎం రేవంత్‌రెడ్డిది క్రిమినల్‌ మనస్తత్వం](https://www.eenadu.net/telugu-news/telangana/cm-revanth-reddy-has-a-criminal-mindset-says-ktr/1899/126162625)
 - [బీఆర్‌ఎస్‌ ఎమ్మెల్సీల సస్పెన్షన్‌](https://www.ntnews.com/telangana/brs-slams-congress-government-over-suspension-of-two-mlcs-2506133)
 - [రేవంత్‌ పాలనలో ప్రజాస్వామ్యం అపహాస్యం.. కేటీఆర్‌](https://www.ntnews.com/telangana/ktr-lashed-out-stating-that-democracy-is-being-made-a-mockery-under-revanth-rule-2506216)
 - [BJP demands Punjab CM Bhagwant Mann's resignation over farmer's suicide](https://timesofindia.indiatimes.com/india/bjp-demands-punjab-cms-resignation-over-farmers-suicide/articleshow/133944878.cms)
 - [Champions League: Real Madrid, Manchester City off to winning starts](https://m.rediff.com/sports/report/champions-league-opening-day-real-madrid-manchester-city-dortmund-mbappe-haaland/20260909.htm)
 - [Global Chess League 2026 Day 4: All Teams Still In Fight At Halfway](https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-4)
 - [ஊழல் ஒழிப்பதில் அரசு கவனம் செலுத்த வேண்டும்: சவுமியா அன்புமணி பேச்சு](https://www.dinakaran.com/news/sowmiya-anbumani-speaks-on-eradicating-corruption/)
-- [US strikes Iranian tankers near Kharg Island; Tehran threatens Gulf oil vessels](https://timesofindia.indiatimes.com/world/middle-east/us-strikes-iranian-tankers-near-kharg-island-tehran-threatens-gulf-oil-vessels/articleshow/133942382.cms)
-- [సెమీస్‌లో సబలెంకా](https://www.eenadu.net/telugu-news/sports/general/0499/126162476)
-- [iOS camera app will get some pro add-ons, hints at variable aperture support](https://www.gsmarena.com/ios_camera_app_will_get_some_pro_addons_hints_at_variable_aperture_support-news-74524.php)
-- [நிறுவன செய்திகள்](https://www.dinamalar.com/news/business-general-news/company-news/4317894)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
