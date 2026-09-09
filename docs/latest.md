@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-09 22:01:53
+# India Trending Report — 2026-09-09 22:34:11
 
 ## Google Trends (India) — top trending searches
 1. [santos vs atlético mineiro](https://trends.google.com/trending/rss?geo=IN)
 2. [liverpool f.c. vs atlético madrid standings](https://trends.google.com/trending/rss?geo=IN)
 3. [karen khachanov](https://trends.google.com/trending/rss?geo=IN)
 4. [mika godts](https://trends.google.com/trending/rss?geo=IN)
-5. [alexander blockx](https://trends.google.com/trending/rss?geo=IN)
-6. [luis suárez](https://trends.google.com/trending/rss?geo=IN)
+5. [luis suárez](https://trends.google.com/trending/rss?geo=IN)
+6. [sydney sweeney](https://trends.google.com/trending/rss?geo=IN)
 7. [sporting cp](https://trends.google.com/trending/rss?geo=IN)
-8. [sydney sweeney](https://trends.google.com/trending/rss?geo=IN)
-9. [moreirense vs benfica](https://trends.google.com/trending/rss?geo=IN)
-10. [matvey safonov](https://trends.google.com/trending/rss?geo=IN)
+8. [moreirense vs benfica](https://trends.google.com/trending/rss?geo=IN)
+9. [matvey safonov](https://trends.google.com/trending/rss?geo=IN)
+10. [সৌরভ গঙ্গোপাধ্যায়](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -18,11 +18,11 @@
 - [Apple's 1st foldable phone launched: Specifications, features & price in India of iPhone Duo](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-duo-launched-specifications-features-and-price/articleshow/133980600.cms)
 - ['Rahul mian' can't grasp Vande importance: Nitin Nabin](https://timesofindia.indiatimes.com/india/rahul-mian-cant-grasp-vande-importance-nitin-nabin/articleshow/133984692.cms)
 - [Pegula vs Navarro: The $15 billion 'battle' that dwarfed Djokovic, Federer and Nadal's wealth](https://timesofindia.indiatimes.com/sports/tennis/top-stories/a-15-billion-tennis-match-how-pegula-and-navarro-turned-a-us-open-clash-into-a-battle-of-the-billionaires-that-dwarfed-djokovic-federer-and-nadals-combined-wealth/articleshow/133974795.cms)
-- [Zelenskyy's plane nearly hit by drone while taking off from Moldova](https://timesofindia.indiatimes.com/world/europe/zelenskyys-plane-nearly-hit-by-drone-while-taking-off-from-moldova-norway-pm/articleshow/133983144.cms)
+- [Brics to kick off with talks to boost multilateralism](https://timesofindia.indiatimes.com/india/brics-to-kick-off-with-talks-to-boost-multilateralism/articleshow/133985269.cms)
 - [Apple iPhone 18 Pro and iPhone 18 Pro Max launched: Price in India and all details](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-and-iphone-18-pro-max-launched-at-surprise-and-shine-event-price-in-india-specifications-features-and-all-you-need-to-know/articleshow/133979340.cms)
+- [Zelenskyy's plane nearly hit by drone while taking off from Moldova](https://timesofindia.indiatimes.com/world/europe/zelenskyys-plane-nearly-hit-by-drone-while-taking-off-from-moldova-norway-pm/articleshow/133983144.cms)
 - [SC reiterates call to CBSE to exempt Class VI from its 3-language policy](https://timesofindia.indiatimes.com/india/sc-reiterates-call-to-cbse-to-exempt-class-vi-from-its-3-language-policy/articleshow/133984276.cms)
-- [NC tells Congress: Full Vande Mataram a constitutional duty](https://timesofindia.indiatimes.com/india/nc-tells-congress-full-vande-mataram-a-constitutional-duty/articleshow/133982734.cms)
-- [Adani Airports to raise $1 billion equity from global investors](https://timesofindia.indiatimes.com/business/india-business/adani-airports-to-raise-1-billion-equity-from-global-investors/articleshow/133983315.cms)
+- [SC registry urged to list defamation case against Rahul Gandhi](https://timesofindia.indiatimes.com/india/sc-registry-urged-to-list-defamation-case-against-rahul-gandhi/articleshow/133986378.cms)
 - [1980s AI photo trend: 11 ChatGPT prompts to turn photos into retro Bollywood looks](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-11-chatgpt-prompts-to-turn-your-photos-into-retro-bollywood-looks/articleshow/133961562.cms)
 
 **NDTV**
@@ -62,6 +62,7 @@
 - [ಏಷ್ಯನ್‌ ಗೇಮ್ಸ್‌ ನಡೆಯಲಿರುವ ನಗೋಯಾದಲ್ಲಿ ಕಂಡುಕೇಳರಿಯದ ಪ್ರವಾಹ; 400 ಕ್ರೀಡಾಪಟುಗಳ ಸ್ಥಳಾಂತರ](https://vijaykarnataka.com/sports/other-sports/asian-games-2026-heavy-flooding-in-nagoya-400-athletes-evacuated/articleshow/133975411.cms)
 
 **The Hindu**
+- [Punjab govt. employees call off their strike after assurance](https://www.thehindu.com/news/national/punjab/punjab-govt-employees-call-off-their-strike-after-assurance/article71447845.ece)
 - [‘Why nine accused in Palghar doctor assault case are absconding?’: Bombay HC raps police](https://www.thehindu.com/news/national/maharashtra/why-nine-accused-in-palghar-doctor-assault-case-are-absconding-bombay-hc-raps-police/article71448061.ece)
 - [Madhya Pradesh govt. hikes MBBS intern stipend by 50% amid protests, hindered medical services](https://www.thehindu.com/news/national/madhya-pradesh/mp-medical-interns-protest-demand-stipend-hike-slam-police-action/article71446487.ece)
 - [Forest rights group asks Tribal Affairs Ministry to withdraw stand on Gram Sabha consent](https://www.thehindu.com/sci-tech/energy-and-environment/forest-rights-group-asks-tribal-affairs-ministry-to-withdraw-stand-on-gram-sabha-consent/article71448173.ece)
@@ -71,7 +72,6 @@
 - [15 workers rescued, 12 hospitalised after iron slab collapses at construction site in Gandhinagar](https://www.thehindu.com/news/national/gujarat/workers-rescued-several-feared-trapped-as-iron-slab-falls-at-building-site-in-gandhinagar/article71448971.ece)
 - [Two Class 9 students from Keralam to compete at international robotics meet](https://www.thehindu.com/news/national/kerala/two-keralam-girls-to-compete-at-international-robotics-meet/article71447397.ece)
 - [1,169 candidates set to win unopposed in Tripura village committee elections](https://www.thehindu.com/news/national/tripura/1169-candidates-set-to-win-unopposed-in-tripura-village-committee-elections/article71448973.ece)
-- [New secretariat at Pattinapakkam will result in severe traffic congestion: Anbumani](https://www.thehindu.com/news/national/tamil-nadu/new-secretariat-at-pattinapakkam-will-result-in-severe-traffic-congestion-anbumani/article71447305.ece)
 
 **Livemint**
 - [Lil Durk murder-for-hire trial goes to jury as prosecutors allege revenge, defence argues reasonable doubt](https://www.livemint.com/news/us-news/lil-durk-murder-for-hire-trial-goes-to-jury-as-prosecutors-allege-revenge-defence-argues-reasonable-doubt-11788987678717.html)
@@ -104,31 +104,31 @@
 - Phone (4.0)
 - ChatGPT (3.9)
 - Trump (3.2)
+- Rahul Gandhi (3.0)
 - Apple (2.9)
 - Hubballi (2.6)
 - Iran (2.2)
+- Rahul (2.2)
 - Pro Max (2.0)
-- Rahul Gandhi (2.0)
-- Rahul (1.9)
-- Vande (1.9)
 - iPhone (1.8)
-- Congress (1.6)
+- Vande (1.6)
 - Gandhinagar (1.6)
 - They're (1.3)
+- Apple's (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [रेलवे के 7 हाई डेंसिटी नेटवर्क को मंजूरी, मोदी कैबिनेट का बड़ा फैसला](https://www.abplive.com/news/india/union-cabinet-approved-four-lane-seven-railway-projects-ashwini-vaishnaw-says-mumbai-kolkata-chennai-3186565)
-- [జనసేన జెండా పట్టుకున్నప్పుడే యుద్ధానికి రెడీ అయ్యా.. బెదిరింపులకు నటుడు తనీష్ కౌంటర్](https://telugu.samayam.com/telangana/news/jana-sena-leader-tanish-alladi-shares-alleged-threatening-messages-on-social-media-over-questioning-minister-seethakka/articleshow/133963101.cms)
-- [ഹാര്‍ദിക് പാണ്ഡ്യയുടെ തിരിച്ചുവരവ് ഇന്ത്യ എ ടീമിനൊപ്പം; ഓസ്‌ട്രേലിയ എക്കെതിരെ കളിക്കും, ചതുര്‍ദിന ടീമിനെ ദേവ്ദത്ത് നയിക്കും](https://www.asianetnews.com/cricket-sports/hardik-pandya-named-in-india-a-squad-for-home-series-against-australia-a-articleshow-bk2qaw7)
-- [વાયદા બજારમાં ઉથલપાથલ, સોના-ચાંદીમાં કડાકા બાદ અચાનક ઉછાળો, જાણો લેટેસ્ટ રેટ](https://www.gujaratsamachar.com/news/business/turmoil-in-the-futures-market-sudden-rise-in-gold-and-silver-after-a-slump-know-the-latest-rates-44810219188)
-- [How did dinosaurs survive near the South Pole? New fossils reveal how Titanosaurs kept their eggs warm](https://timesofindia.indiatimes.com/etimes/trending/how-did-dinosaurs-survive-near-the-south-pole-new-fossils-reveal-how-titanosaurs-kept-their-eggs-warm/articleshow/133962891.cms)
-- [Tata Nexon 2026: গাড়ি কেনার সেরা সুযোগ! ৭৫,০০০ টাকা পর্যন্ত ছাড় দিচ্ছে Tata Nexon](https://bangla.asianetnews.com/automobile/tata-nexon-discounts-offer-huge-savings-on-all-variants-absc/articleshow-1obpt09)
-- ['टीम इंडियाचा कोच झाल्यावर माझी बायको मला घटस्फोट देईल'; माजी क्रिकेटर आशिष नेहरा असं का म्हणाला?](https://maharashtratimes.com/sports/cricket/cricket-news/team-india-former-player-ashish-nehra-talk-about-indian-cricket-head-coach/articleshow/133961652.cms)
-- [पुण्यात MPSC ची तयारी करणाऱ्या विद्यार्थ्याने जीवन संपवलं; अभिजीत दिपके, हर्षवर्धन सपकाळांचा संताप](https://marathi.abplive.com/news/politics/mpsc-aspirant-ends-his-life-in-pune-abhijit-dipke-and-harshvardhan-sapkal-express-outrage-demand-resigne-1438569)
-- [West Asia conflict LIVE: Oil rises past $100 a barrel after the latest wave of West Asia attacks](https://www.thehindu.com/news/international/us-iran-war-live-updates-iran-us-explosions-heard-on-irans-kharg-island-september-9-2026/article71444513.ece)
-- [Rahul Gandhi double your age: Shehzad Poonawalla counters Riya Ahir's uncle jibe](https://www.indiatoday.in/india/story/bigg-boss-20-riya-ahir-former-bjp-national-spokesperson-shehzad-poonawalla-love-gill-gen-z-protests-2990576-2026-09-09)
+- [Rodri, Fermin start in a 4-3-3: How Barcelona can line up against Feyenoord](https://barcauniversal.com/rodri-fermin-start-in-a-4-3-3-how-barcelona-can-line-up-against-feyenoord/)
+- [ખાંભા APMC ચૂંટણીનો ત્રિપાંખિયો જંગ, ભાજપ, કોંગ્રેસ અને બળવાખોરો વચ્ચે ટક્કર, આજે મતદાન તો આવતીકાલે મત ગણતરી](https://www.gujaratsamachar.com/news/amreli/khambha-apmc-election-three-pronged-battle-clash-between-bjp-congress-and-rebels-voting-today-counting-tomorrow-46828498362)
+- [Won’t allow our soil to be used for anti-India activities: Sri Lankan President Anura Kumara Dissanayake](https://www.hindustantimes.com/india-news/wont-allow-lankan-soil-to-be-used-for-anti-india-activities-says-dissanayake-101788949926533.html)
+- [ஒரே நாளில் 9 படங்கள் ரிலீஸ்! கார்த்தி, அருள்நிதி, சூரி போட்டி](https://kalkionline.com/entertainment/cinema/tnfpc-strike-called-off-9-movies-releasing-this-week-sardar-2)
+- [നിക്ഷേപകർ പിന്മാറി: എൻ.എസ്.ഇ. ഐ.പി.ഒ. വഴി സമാഹരിക്കുന്ന തുക 25,000 കോടിയായി കുറച്ചേക്കും](https://www.mathrubhumi.com/money/stock-market/nse-ipo-size-reduced-to-25000-crore-d9a2gl4c)
+- [કિંજલ રબારી કથિત અપહરણ કેસમાં નવો વળાંક: હાઇકોર્ટમાં હાજર થઈને કર્યો મોટો ખુલાસો](https://gujarati.abplive.com/news/gujarat/kinjal-rabari-alleged-abduction-case-gujarat-high-court-relief-news-990787)
+- [पोस्टमॉर्टम के वक्त सुंदर महिलाओं से होता है रेप! MP में कांग्रेस विधायक का सनसनीखेज दावा](https://www.livehindustan.com/madhya-pradesh/beautiful-women-raped-during-post-mortems-sensational-claim-by-congress-mla-in-mp-201788949338853.html)
+- [છોટા ઉદેપુર: નસવાડી APMCની 10 બેઠકો પર ચૂંટણી, ભાજપ Vs ભાજપ વચ્ચે ગળાકાપ સ્પર્ધા, 15 વર્ષ બાદ ખેડૂતો કરશે મતદાન](https://www.gujaratsamachar.com/news/chhota-udaipur/naswadi-apmc-election-chhota-udepur-news-20570008648)
+- [‘তদন্তে সহযোগিতা করছেন না’, অভিষেকের PA সুমিত রায়কে নিয়ে সুপ্রিম কোর্টে রাজ্যের সওয়াল](https://bengali.indianexpress.com/west-bengal/salboni-land-grab-case-sumit-roy-custodial-interrogation-sc-12510776)
+- [முதலமைச்சர் விஜய் நாளை லண்டன் பயணம்: முதலீட்டாளர்களை சந்தித்து ஆலோசனை](https://www.etvbharat.com/ta/state/cm-joseph-vijay-goes-london-tomorrow-for-attracting-investments-to-tamilnadu-tns26090903858)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
