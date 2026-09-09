@@ -1,31 +1,33 @@
-# India Trending Report — 2026-09-09 22:34:11
+# India Trending Report — 2026-09-09 23:01:50
 
 ## Google Trends (India) — top trending searches
-1. [santos vs atlético mineiro](https://trends.google.com/trending/rss?geo=IN)
-2. [liverpool f.c. vs atlético madrid standings](https://trends.google.com/trending/rss?geo=IN)
-3. [karen khachanov](https://trends.google.com/trending/rss?geo=IN)
-4. [mika godts](https://trends.google.com/trending/rss?geo=IN)
-5. [luis suárez](https://trends.google.com/trending/rss?geo=IN)
-6. [sydney sweeney](https://trends.google.com/trending/rss?geo=IN)
-7. [sporting cp](https://trends.google.com/trending/rss?geo=IN)
-8. [moreirense vs benfica](https://trends.google.com/trending/rss?geo=IN)
-9. [matvey safonov](https://trends.google.com/trending/rss?geo=IN)
-10. [সৌরভ গঙ্গোপাধ্যায়](https://trends.google.com/trending/rss?geo=IN)
+1. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
+2. [santos vs atlético mineiro](https://trends.google.com/trending/rss?geo=IN)
+3. [liverpool f.c. vs atlético madrid standings](https://trends.google.com/trending/rss?geo=IN)
+4. [karen khachanov](https://trends.google.com/trending/rss?geo=IN)
+5. [mika godts](https://trends.google.com/trending/rss?geo=IN)
+6. [luis suárez](https://trends.google.com/trending/rss?geo=IN)
+7. [sydney sweeney](https://trends.google.com/trending/rss?geo=IN)
+8. [sporting cp](https://trends.google.com/trending/rss?geo=IN)
+9. [moreirense vs benfica](https://trends.google.com/trending/rss?geo=IN)
+10. [matvey safonov](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- ['They're desperate to affect election': Trump declares Iran war will end after midterms](https://timesofindia.indiatimes.com/world/us/theyre-desperate-to-affect-election-trump-declares-iran-war-will-end-after-us-midterms/articleshow/133982252.cms)
-- [Apple's 1st foldable phone launched: Specifications, features & price in India of iPhone Duo](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-duo-launched-specifications-features-and-price/articleshow/133980600.cms)
-- ['Rahul mian' can't grasp Vande importance: Nitin Nabin](https://timesofindia.indiatimes.com/india/rahul-mian-cant-grasp-vande-importance-nitin-nabin/articleshow/133984692.cms)
-- [Pegula vs Navarro: The $15 billion 'battle' that dwarfed Djokovic, Federer and Nadal's wealth](https://timesofindia.indiatimes.com/sports/tennis/top-stories/a-15-billion-tennis-match-how-pegula-and-navarro-turned-a-us-open-clash-into-a-battle-of-the-billionaires-that-dwarfed-djokovic-federer-and-nadals-combined-wealth/articleshow/133974795.cms)
-- [Brics to kick off with talks to boost multilateralism](https://timesofindia.indiatimes.com/india/brics-to-kick-off-with-talks-to-boost-multilateralism/articleshow/133985269.cms)
-- [Apple iPhone 18 Pro and iPhone 18 Pro Max launched: Price in India and all details](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-and-iphone-18-pro-max-launched-at-surprise-and-shine-event-price-in-india-specifications-features-and-all-you-need-to-know/articleshow/133979340.cms)
 - [Zelenskyy's plane nearly hit by drone while taking off from Moldova](https://timesofindia.indiatimes.com/world/europe/zelenskyys-plane-nearly-hit-by-drone-while-taking-off-from-moldova-norway-pm/articleshow/133983144.cms)
+- [Apple's 1st foldable phone launched: Specifications, features & price in India of iPhone Duo](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-duo-launched-specifications-features-and-price/articleshow/133980600.cms)
+- ['They're desperate to affect election': Trump declares Iran war will end after midterms](https://timesofindia.indiatimes.com/world/us/theyre-desperate-to-affect-election-trump-declares-iran-war-will-end-after-us-midterms/articleshow/133982252.cms)
+- [Pegula vs Navarro: The $15 billion 'battle' that dwarfed Djokovic, Federer and Nadal's wealth](https://timesofindia.indiatimes.com/sports/tennis/top-stories/a-15-billion-tennis-match-how-pegula-and-navarro-turned-a-us-open-clash-into-a-battle-of-the-billionaires-that-dwarfed-djokovic-federer-and-nadals-combined-wealth/articleshow/133974795.cms)
+- ['Rahul mian' can't grasp Vande importance: Nitin Nabin](https://timesofindia.indiatimes.com/india/rahul-mian-cant-grasp-vande-importance-nitin-nabin/articleshow/133984692.cms)
+- [Apple iPhone 18 Pro and iPhone 18 Pro Max launched: Price in India and all details](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-and-iphone-18-pro-max-launched-at-surprise-and-shine-event-price-in-india-specifications-features-and-all-you-need-to-know/articleshow/133979340.cms)
+- [Brics to kick off with talks to boost multilateralism](https://timesofindia.indiatimes.com/india/brics-to-kick-off-with-talks-to-boost-multilateralism/articleshow/133985269.cms)
 - [SC reiterates call to CBSE to exempt Class VI from its 3-language policy](https://timesofindia.indiatimes.com/india/sc-reiterates-call-to-cbse-to-exempt-class-vi-from-its-3-language-policy/articleshow/133984276.cms)
 - [SC registry urged to list defamation case against Rahul Gandhi](https://timesofindia.indiatimes.com/india/sc-registry-urged-to-list-defamation-case-against-rahul-gandhi/articleshow/133986378.cms)
 - [1980s AI photo trend: 11 ChatGPT prompts to turn photos into retro Bollywood looks](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-11-chatgpt-prompts-to-turn-your-photos-into-retro-bollywood-looks/articleshow/133961562.cms)
 
 **NDTV**
+- [US Spy Chief Preparing For Bigger Role In Russia, Ukraine Talks: Reports](https://www.ndtv.com/world-news/us-spy-chief-preparing-for-bigger-role-in-russia-ukraine-talks-reports-12025646#publisher=newsstand)
+- [Emergency Slide Deploys On Trump's Qatari-Gifted Air Force One](https://www.ndtv.com/world-news/emergency-slide-deploys-on-trumps-qatari-gifted-air-force-one-12025579#publisher=newsstand)
 - [How Delhi University's Hostel Gap Forces Students Into Private Market](https://www.ndtv.com/india-news/delhi-satya-niketan-building-collapse-how-delhi-universitys-hostel-gap-forces-students-into-private-market-12023353#publisher=newsstand)
 - [Trump Says Iran War Will End "Immediately" After US Midterm Votes](https://www.ndtv.com/world-news/donald-trump-says-iran-war-will-end-immediately-after-us-midterm-votes-12025426#publisher=newsstand)
 - [Guwahati Police Seize Fridge Used To Store Woman's Severed Head](https://www.ndtv.com/india-news/guwahati-police-seize-fridge-used-to-store-womans-severed-head-12025414#publisher=newsstand)
@@ -34,8 +36,6 @@
 - [Arvind Kejriwal Unanimously Re-Elected As AAP National Convener](https://www.ndtv.com/india-news/arvind-kejriwal-unanimously-re-elected-as-aap-national-convener-at-key-party-meeting-12025394#publisher=newsstand)
 - ['National Award Not Any State's Property': Gujarat BJP Slams Uddhav Thackeray](https://www.ndtv.com/india-news/national-award-not-any-states-property-gujarat-bjp-slams-uddhav-thackeray-12025387#publisher=newsstand)
 - [Apple iPhone Launch Event Live Updates: Apple Launches First Foldable iPhone, Gives Hat-Tip To iPad](https://www.ndtv.com/india-news/iphone-18-apple-watch-apple-iphone-launch-event-live-updates-apples-set-to-unveil-first-foldable-iphone-12024766#publisher=newsstand)
-- [Pakistan Warns Iran To Rein In Its Houthi Allies As Saudi Strikes Back](https://www.ndtv.com/world-news/pakistan-warns-iran-to-rein-in-its-houthi-allies-as-saudi-strikes-back-12025367#publisher=newsstand)
-- [Tamil Nadu's Ruling Alliance Gets A Name, Flags Secularism, Social Justice](https://www.ndtv.com/india-news/tamil-nadus-ruling-alliance-gets-a-name-flags-secularism-social-justice-12025340#publisher=newsstand)
 
 **Hindustan Times**
 - [Scaffolding collapses at under-construction complex in Gujarat's Gandhinagar; 12 workers rescued, 10 still trapped](https://www.hindustantimes.com/india-news/scaffolding-collapses-at-under-construction-complex-in-gujarat-gandhinagar-12-workers-rescued-10-still-trapped-101788977897797.html)
@@ -62,6 +62,8 @@
 - [ಏಷ್ಯನ್‌ ಗೇಮ್ಸ್‌ ನಡೆಯಲಿರುವ ನಗೋಯಾದಲ್ಲಿ ಕಂಡುಕೇಳರಿಯದ ಪ್ರವಾಹ; 400 ಕ್ರೀಡಾಪಟುಗಳ ಸ್ಥಳಾಂತರ](https://vijaykarnataka.com/sports/other-sports/asian-games-2026-heavy-flooding-in-nagoya-400-athletes-evacuated/articleshow/133975411.cms)
 
 **The Hindu**
+- [MPSC aspirant allegedly ends life in Pune, Abhijeet Dipke to visit family](https://www.thehindu.com/news/national/maharashtra/mpsc-aspirant-allegedly-ends-life-in-pune-abhijeet-dipke-to-visit-family/article71448697.ece)
+- [Concern grows over structures linked with Muslim community in wake of notices, demolition in Uttar Pradesh](https://www.thehindu.com/news/national/uttar-pradesh/concern-grows-over-structures-linked-with-muslim-community-in-wake-of-notices-demolition-in-uttar-pradesh/article71447863.ece)
 - [Punjab govt. employees call off their strike after assurance](https://www.thehindu.com/news/national/punjab/punjab-govt-employees-call-off-their-strike-after-assurance/article71447845.ece)
 - [‘Why nine accused in Palghar doctor assault case are absconding?’: Bombay HC raps police](https://www.thehindu.com/news/national/maharashtra/why-nine-accused-in-palghar-doctor-assault-case-are-absconding-bombay-hc-raps-police/article71448061.ece)
 - [Madhya Pradesh govt. hikes MBBS intern stipend by 50% amid protests, hindered medical services](https://www.thehindu.com/news/national/madhya-pradesh/mp-medical-interns-protest-demand-stipend-hike-slam-police-action/article71446487.ece)
@@ -70,8 +72,6 @@
 - [Local tribals oppose appointment of dreaded ex-Maoist as co-ordinator at Gondwana University](https://www.thehindu.com/news/national/maharashtra/local-tribals-oppose-appointment-of-dreaded-ex-maoist-as-co-ordinator-at-gondwana-university/article71448578.ece)
 - [Rural Development department officials want to know rationale behind appointment of IFS, IAS officers as project directors](https://www.thehindu.com/news/cities/chennai/rural-development-department-officials-want-to-know-rationale-behind-appointment-of-ifs-ias-officers-as-project-directors/article71444173.ece)
 - [15 workers rescued, 12 hospitalised after iron slab collapses at construction site in Gandhinagar](https://www.thehindu.com/news/national/gujarat/workers-rescued-several-feared-trapped-as-iron-slab-falls-at-building-site-in-gandhinagar/article71448971.ece)
-- [Two Class 9 students from Keralam to compete at international robotics meet](https://www.thehindu.com/news/national/kerala/two-keralam-girls-to-compete-at-international-robotics-meet/article71447397.ece)
-- [1,169 candidates set to win unopposed in Tripura village committee elections](https://www.thehindu.com/news/national/tripura/1169-candidates-set-to-win-unopposed-in-tripura-village-committee-elections/article71448973.ece)
 
 **Livemint**
 - [Lil Durk murder-for-hire trial goes to jury as prosecutors allege revenge, defence argues reasonable doubt](https://www.livemint.com/news/us-news/lil-durk-murder-for-hire-trial-goes-to-jury-as-prosecutors-allege-revenge-defence-argues-reasonable-doubt-11788987678717.html)
@@ -107,28 +107,28 @@
 - Rahul Gandhi (3.0)
 - Apple (2.9)
 - Hubballi (2.6)
-- Iran (2.2)
 - Rahul (2.2)
 - Pro Max (2.0)
+- Iran (1.9)
 - iPhone (1.8)
 - Vande (1.6)
+- Russia (1.6)
+- Emergency (1.6)
 - Gandhinagar (1.6)
-- They're (1.3)
-- Apple's (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Rodri, Fermin start in a 4-3-3: How Barcelona can line up against Feyenoord](https://barcauniversal.com/rodri-fermin-start-in-a-4-3-3-how-barcelona-can-line-up-against-feyenoord/)
-- [ખાંભા APMC ચૂંટણીનો ત્રિપાંખિયો જંગ, ભાજપ, કોંગ્રેસ અને બળવાખોરો વચ્ચે ટક્કર, આજે મતદાન તો આવતીકાલે મત ગણતરી](https://www.gujaratsamachar.com/news/amreli/khambha-apmc-election-three-pronged-battle-clash-between-bjp-congress-and-rebels-voting-today-counting-tomorrow-46828498362)
-- [Won’t allow our soil to be used for anti-India activities: Sri Lankan President Anura Kumara Dissanayake](https://www.hindustantimes.com/india-news/wont-allow-lankan-soil-to-be-used-for-anti-india-activities-says-dissanayake-101788949926533.html)
-- [ஒரே நாளில் 9 படங்கள் ரிலீஸ்! கார்த்தி, அருள்நிதி, சூரி போட்டி](https://kalkionline.com/entertainment/cinema/tnfpc-strike-called-off-9-movies-releasing-this-week-sardar-2)
-- [നിക്ഷേപകർ പിന്മാറി: എൻ.എസ്.ഇ. ഐ.പി.ഒ. വഴി സമാഹരിക്കുന്ന തുക 25,000 കോടിയായി കുറച്ചേക്കും](https://www.mathrubhumi.com/money/stock-market/nse-ipo-size-reduced-to-25000-crore-d9a2gl4c)
-- [કિંજલ રબારી કથિત અપહરણ કેસમાં નવો વળાંક: હાઇકોર્ટમાં હાજર થઈને કર્યો મોટો ખુલાસો](https://gujarati.abplive.com/news/gujarat/kinjal-rabari-alleged-abduction-case-gujarat-high-court-relief-news-990787)
-- [पोस्टमॉर्टम के वक्त सुंदर महिलाओं से होता है रेप! MP में कांग्रेस विधायक का सनसनीखेज दावा](https://www.livehindustan.com/madhya-pradesh/beautiful-women-raped-during-post-mortems-sensational-claim-by-congress-mla-in-mp-201788949338853.html)
-- [છોટા ઉદેપુર: નસવાડી APMCની 10 બેઠકો પર ચૂંટણી, ભાજપ Vs ભાજપ વચ્ચે ગળાકાપ સ્પર્ધા, 15 વર્ષ બાદ ખેડૂતો કરશે મતદાન](https://www.gujaratsamachar.com/news/chhota-udaipur/naswadi-apmc-election-chhota-udepur-news-20570008648)
-- [‘তদন্তে সহযোগিতা করছেন না’, অভিষেকের PA সুমিত রায়কে নিয়ে সুপ্রিম কোর্টে রাজ্যের সওয়াল](https://bengali.indianexpress.com/west-bengal/salboni-land-grab-case-sumit-roy-custodial-interrogation-sc-12510776)
-- [முதலமைச்சர் விஜய் நாளை லண்டன் பயணம்: முதலீட்டாளர்களை சந்தித்து ஆலோசனை](https://www.etvbharat.com/ta/state/cm-joseph-vijay-goes-london-tomorrow-for-attracting-investments-to-tamilnadu-tns26090903858)
+- [Trump Turns Santa Claus With Huge Cash Gifts](https://www.gulte.com/overseas/430666/trump-turns-santa-claus-for-his-aides-with-huge-cash-gifts)
+- ['Hanuman Ansh' actor Shobhinaw Satyaa came on board when the original actor fell ill on the first day of shoot itself, here's how he got into the role of Neem Karoli Baba](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hanuman-ansh-actor-shobhinaw-satyaa-came-on-board-when-the-original-actor-fell-ill-on-the-first-day-of-shoot-itself-heres-how-he-got-into-the-role-of-neem-karoli-baba/articleshow/133964991.cms)
+- [Android Auto's most requested Google Maps feature arrived then disappeared again - what's going on?](https://autos.yahoo.com/ev-and-future-tech/articles/android-autos-most-requested-google-110000068.html)
+- [अपने-आप फट गया टैंक, बांग्लादेश में दो सैनिकों की युद्धाभ्यास के दौरान मौत, Video](https://www.aajtak.in/defence-news/story/bangladesh-chattogram-tank-firing-accident-2-soldiers-killed-dskc-2639589-2026-09-09)
+- [IND a Vs AUS a: ఇండియా - A జట్టులో హార్దిక్‌ పాండ్య.. కానీ ఓ షరతు](https://www.eenadu.net/telugu-news/sports/india-a-squad-for-home-series-against-australia-a-announced/0401/126162988)
+- [ഹാർദിക് പാണ്ഡ‍്യ തിരിച്ചുവരുന്നു; ഓസ്ട്രേലിയ എ ടീമിനെതിരായ പരമ്പരയിൽ കളിക്കും](https://www.metrovaartha.com/sports/india-a-team-announced-squad-for-series-against-australia-a)
+- [Ritu Tawde 80s AI Photo Trend : 80च्या दशकात कशा दिसायच्या मुंबईच्या महापौर रितू तावडे? फोटो केला पोस्ट](https://www.tv9marathi.com/maharashtra/mumbai/mumbai-mayor-ritu-tawde-shares-ai-generated-80s-photo-on-instagram-netizens-compare-her-look-with-bollywood-actress-sridevi-1752670.html)
+- [Rain Alert: बंगाल की खाड़ी में बनने जा रहा कम दबाव का क्षेत्र, इन राज्यों में होगी बहुत भारी बारिश](https://www.livehindustan.com/weather/rain-alert-imd-weather-update-9-september-bihar-up-delhi-rain-low-pressure-area-created-barish-201788950701250.html)
+- [Nepal floods: Survivor captures horrifying moment flash floods engulf homes, roads and buildings](https://timesofindia.indiatimes.com/world/south-asia/nepal-floods-survivor-captures-horrifying-moment-flash-floods-engulf-homes-roads-and-buildings/articleshow/133965307.cms)
+- [இடைத்தேர்தலில் போட்டியிடும் திமுக வேட்பாளர்கள்](https://www.tamilmurasu.com.sg/tamilnadu/dmk-candidates-contesting-election)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
