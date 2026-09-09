@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-09 06:40:27
+# India Trending Report — 2026-09-09 07:03:26
 
 ## Google Trends (India) — top trending searches
-1. [നിയമോപദേശം](https://trends.google.com/trending/rss?geo=IN)
-2. [अमृता फडणवीस](https://trends.google.com/trending/rss?geo=IN)
-3. [ಪಡಿತರ](https://trends.google.com/trending/rss?geo=IN)
-4. [कॉकरोच जनता पार्टी](https://trends.google.com/trending/rss?geo=IN)
-5. [బంగాళాఖాతము](https://trends.google.com/trending/rss?geo=IN)
-6. [taiwan index](https://trends.google.com/trending/rss?geo=IN)
-7. [प्रधानमंत्री आवास योजना](https://trends.google.com/trending/rss?geo=IN)
-8. [பிரேமலதா விஜயகாந்த்](https://trends.google.com/trending/rss?geo=IN)
-9. [whatsapp](https://trends.google.com/trending/rss?geo=IN)
-10. [సుకుమార్](https://trends.google.com/trending/rss?geo=IN)
+1. [jacob coxon](https://trends.google.com/trending/rss?geo=IN)
+2. [nam vs sa](https://trends.google.com/trending/rss?geo=IN)
+3. [फ़िलिपींस](https://trends.google.com/trending/rss?geo=IN)
+4. [earthquake guwahati](https://trends.google.com/trending/rss?geo=IN)
+5. [നിയമോപദേശം](https://trends.google.com/trending/rss?geo=IN)
+6. [अमृता फडणवीस](https://trends.google.com/trending/rss?geo=IN)
+7. [ಪಡಿತರ](https://trends.google.com/trending/rss?geo=IN)
+8. [कॉकरोच जनता पार्टी](https://trends.google.com/trending/rss?geo=IN)
+9. [బంగాళాఖాతము](https://trends.google.com/trending/rss?geo=IN)
+10. [प्रधानमंत्री आवास योजना](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [4 floors higher, Rs 4 lakh a month: The greed behind Delhi PG ‘Hostel Daze’](https://timesofindia.indiatimes.com/city/delhi/4-floors-higher-rs-4-lakh-a-month-the-greed-behind-delhi-pg-hostel-daze/articleshow/133953461.cms)
-- [BJP got Rs 1,473 crore to fight Bengal, Assam, 3 other assembly polls](https://timesofindia.indiatimes.com/india/bjp-got-rs-1473-crore-to-fight-bengal-assam-3-other-assembly-polls/articleshow/133945783.cms)
-- [‘It’s madness’: Viswanathan Anand loses on time after declining draw against Sindarov](https://timesofindia.indiatimes.com/sports/chess/its-madness-anand-loses-on-time-after-declining-draw-against-sindarov-20-year-old-calls-legend-world-class/articleshow/133952570.cms)
+- [A 'sugar daddy' threat, head in fridge, chopped fingers: Chilling Guwahati murder](https://timesofindia.indiatimes.com/city/guwahati/a-sugar-daddy-threat-head-in-fridge-chopped-fingers-what-we-know-about-chilling-guwahati-wife-murder/articleshow/133950629.cms)
+- ['How dare they?' SC slams Greater Noida magistrate for sending notice to CJP protester](https://timesofindia.indiatimes.com/india/how-dare-they-sc-slams-greater-noida-magistrate-for-sending-notice-to-cjp-protester/articleshow/133956359.cms)
+- [Why Vijay's gold ring scheme may miss its September 15 launch](https://timesofindia.indiatimes.com/india/why-vijays-gold-ring-scheme-may-miss-its-september-15-launch/articleshow/133956555.cms)
+- [BCCI relents on Asian Games stay, agrees to stay in designated hotels](https://timesofindia.indiatimes.com/sports/cricket/news/bcci-relents-on-asian-games-stay-agrees-to-stay-in-designated-hotels/articleshow/133950849.cms)
 - [ITR filed under new regime, consultant’s mistake led to old regime & Rs 1.23L demand](https://timesofindia.indiatimes.com/business/india-business/taxpayer-chose-new-tax-regime-but-consultant-filed-the-wrong-form-triggering-old-regime-and-rs-1-23-lakh-demand-itat-orders-itr-to-be-processed-under-new-tax-regime-and-gives-relief-on-tax-demand/articleshow/133950440.cms)
-- [OpenAI's 10,000 AI agents solve 90-year-old maths problem; NYU prof says it cheated](https://timesofindia.indiatimes.com/technology/tech-news/openai-solves-90-year-old-navier-stokes-maths-problem-with-10000-ai-agents-nyu-professor-who-spent-a-year-on-the-same-problem-using-openais-own-ai-says-i-asked-again-about-training-and-i-did/articleshow/133954133.cms)
-- [After Punjab snub, Raghav Chadha’s name added to Delhi voter list](https://timesofindia.indiatimes.com/city/delhi/bjp-rajya-sabha-mp-raghav-chadhas-name-added-to-delhi-voter-list-aap-questions-procedure/articleshow/133934570.cms)
-- [Delhi building collapse: PG operator Sudhanshu arrested](https://timesofindia.indiatimes.com/city/delhi/delhi-building-collapse-pg-operator-sudhanshu-arrested/articleshow/133952538.cms)
+- [iPhone event today: How to watch launch of iPhone 18 Pro, 18 Pro Max & Ultra](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-event-today-how-to-watch-the-launch-of-iphone-18-pro-iphone-18-pro-max-iphone-ultra-and-everything-expected/articleshow/133953180.cms)
+- ['Attack on one is attack on all': Pakistan warns Houthis, invokes Mecca defence pact](https://timesofindia.indiatimes.com/world/pakistan/attack-on-one-is-attack-on-all-pakistan-warns-houthis-invokes-mecca-defence-pact/articleshow/133955778.cms)
+- [BJP got Rs 1,473 crore to fight Bengal, Assam, 3 other assembly polls](https://timesofindia.indiatimes.com/india/bjp-got-rs-1473-crore-to-fight-bengal-assam-3-other-assembly-polls/articleshow/133945783.cms)
+- [4 floors higher, Rs 4 lakh a month: The greed behind Delhi PG ‘Hostel Daze’](https://timesofindia.indiatimes.com/city/delhi/4-floors-higher-rs-4-lakh-a-month-the-greed-behind-delhi-pg-hostel-daze/articleshow/133953461.cms)
 - [Uber's layoff memo also has a work from home message for remaining 29,000 employees](https://timesofindia.indiatimes.com/technology/tech-news/ubers-layoff-memo-also-has-a-work-from-home-message-for-the-remaining-29000-employees-were-establishing-clearer-principles-for-where-roles-and-teams-should-/articleshow/133916866.cms)
-- ['Crushing those who question': Rahul demands Punjab FM's resignation over Gulzar's death](https://timesofindia.indiatimes.com/india/dangerous-pattern-rahul-gandhi-demands-punjab-fms-resignation-over-gulzar-singhs-death/articleshow/133949551.cms)
-- [4,000 NYC students plant 100,000 beachgrass stalks to protect 50,000 people](https://timesofindia.indiatimes.com/world/us/nearly-4000-new-york-city-students-planted-more-than-100000-beachgrass-stalks-across-2-25-acres-at-coney-island-creek-park-to-rebuild-protective-dunes-and-help-protect-50000-people-from-flooding/articleshow/133922162.cms)
 
 **NDTV**
 - ["They Threatened Him Earlier Too": Son Of Manipur Musician Beaten To Death](https://www.ndtv.com/india-news/they-threatened-him-earlier-too-son-of-manipur-musician-vikram-singh-beaten-to-death-12021751#publisher=newsstand)
@@ -38,6 +38,9 @@
 - [UK Businessman Detained In Saudi Arabia, Family Speaks Out After 9 Years](https://www.ndtv.com/world-news/rami-naimi-uk-businessman-detained-in-saudi-arabia-family-speaks-out-after-9-years-12021364#publisher=newsstand)
 
 **Hindustan Times**
+- [ECI to move Bharat Ratna CNR Rao’s electoral hearing to his home amid backlash](https://www.hindustantimes.com/india-news/eci-to-move-bharat-ratna-cnr-rao-s-electoral-hearing-to-his-home-amid-backlash-101788936184637.html)
+- [Who was Rakesh Mehta? Chief secretary under Sheila Dikshit dies by suicide. He lived alone in final days](https://www.hindustantimes.com/india-news/who-was-rakesh-mehta-ex-chief-secretary-under-sheila-dikshit-dies-by-suicide-he-lived-alone-in-final-days-101788928739408.html)
+- [Who is Rohan Parekh? Diamond merchant’s son at centre of Mumbai PMO impersonation case](https://www.hindustantimes.com/india-news/who-is-rohan-parekh-diamond-merchant-s-son-at-centre-of-mumbai-pmo-impersonation-case-narendra-modi-101788931665679.html)
 - [Manipur: Kuki police constable suspended over alleged role in abduction of 6 Naga men](https://www.hindustantimes.com/india-news/manipur-kuki-police-constable-suspended-over-alleged-role-in-abduction-of-6-naga-men-101788934563444.html)
 - ['Undermined regional security': India condemns Houthi attacks on Saudi Arabia](https://www.hindustantimes.com/india-news/undermined-regional-security-india-condemns-houthi-attacks-in-saudi-arabia-bab-el-mandeb-yemen-iran-aramco-oil-101788933137193.html)
 - [DGCA restricts flying activities at UP training schools during BRICS Summit](https://www.hindustantimes.com/india-news/dgca-restricts-flying-activities-at-up-training-schools-during-brics-summit-101788932973237.html)
@@ -45,33 +48,30 @@
 - [Madhya Pradesh toxic liquor tragedy: Toll rises as 3 more people die in Sagar](https://www.hindustantimes.com/india-news/madhya-pradesh-toxic-liquor-tragedy-toll-rises-as-3-more-people-die-in-sagar-101788931984277.html)
 - [Rekha Gupta orders bulldozer action on illegal construction amid outrage over Satya Niketan PG collapse](https://www.hindustantimes.com/india-news/rekha-gupta-orders-bulldozer-action-on-illegal-construction-amid-outrage-over-satya-niketan-pg-collapse-mcd-101788931221078.html)
 - [ANI moves Delhi high court division bench in OpenAI case](https://www.hindustantimes.com/india-news/ani-moves-delhi-high-court-division-bench-in-openai-case-101788928316229.html)
-- [TMC factions gear up for Bengal bypolls amid fight over symbol](https://www.hindustantimes.com/india-news/tmc-factions-gear-up-for-west-bengal-bypolls-amid-fight-over-symbol-101788927889178.html)
-- [5 orangutans’ rescue in Odisha raises trafficking fears](https://www.hindustantimes.com/india-news/5-orangutans-rescue-in-odisha-raises-trafficking-fears-101788926868008.html)
-- [Palam, Noida airports tapped for VIP planes as special aircraft arrive for BRICS Summit](https://www.hindustantimes.com/india-news/palam-noida-airports-tapped-for-vip-planes-as-special-aircraft-arrive-for-brics-summit-101788926902077.html)
 
 **Vijay Karnataka**
-- [ಸತೀಶ್‌ ಜಾರಕಿಹೊಳಿ ಇಡಿ ಇಕ್ಕಳದಲ್ಲಿ: ಆಫ್ರಿಕಾ ಹೂಡಿಕೆಯ ಹಾಳೆಗಳೆಲ್ಲಿ? ರಾಜಕೀಯ ಒತ್ತಡಕ್ಕೆ ಇರಬಹುದಾದ 3 ಕಾರಣಗಳು!](https://vijaykarnataka.com/news/karnataka/why-satish-jarkiholi-is-on-ed-radar-how-minister-handling-fema-case-and-political-pressure-explained/articleshow/133953321.cms)
-- [Gold Rate Fall: ಆಭರಣ ಚಿನ್ನದ 22 ಕ್ಯಾರೆಟ್‌ಗೆ ಈಗ ಬೆಲೆ 14,145 ರೂ.! ಬೆಳ್ಳಿ ಬೆಲೆ ಕೆಜಿಗೆ 2.50 ಲಕ್ಷ ರೂ.ನಲ್ಲಿ ತಟಸ್ಥ](https://vijaykarnataka.com/business/gold-silver-price/gold-rate-fall-on-september-9th-22carrot-jeweler-gold-rate-is-now-14145-rs-and-silver-rate-is-stagnant-at-2-lakh-50-thousand-per-kg/articleshow/133954077.cms)
+- [ಮುಗಿಯದ ಮಧ್ಯಪ್ರಾಚ್ಯ ರಗಳೆ, ಮತ್ತೆ ಆಯಿಲ್ ಟ್ಯಾಂಕರ್ ಮೇಲೆ ದಾಳಿ : ಎಲ್ಲಿ ಹೋಗಿ ನಿಲ್ಲುತ್ತೋ ತೈಲ ಬಿಕ್ಕಟ್ಟು?](https://vijaykarnataka.com/news/world/explainer-west-asia-conflict-oil-supply-risks-impact-to-india/articleshow/133956920.cms)
+- [ಬೆಂಗಳೂರಿನ ಇ- ಕಾಮರ್ಸ್‌ ಗೋಡೌನ್‌ಗಳ ಮೇಲೆ ಫುಡ್‌ಸೇಫ್ಟಿ ಇಲಾಖೆ ದಾಳಿ: ಲೇಬಲ್‌ ಇಲ್ಲದ, ಅವಧಿ ಮುಗಿದ 3 ಕೋಟಿ ಮೌಲ್ಯದ ಆಹಾರ ಉತ್ಪನ್ನ ಜಪ್ತಿ!](https://vijaykarnataka.com/news/bengaluru-city/food-safety-dept-raid-on-e-commerce-godown-in-bengaluru-expired-unlabelled-food-medicines-worth-3-crs-found/articleshow/133954378.cms)
 - [ಸಚಿವ ಸತೀಶ್ ಜಾರಕಿಹೊಳಿ ಮನೆ ಮೇಲೆ ಇಡಿ ದಾಳಿ: ಬೆಂಗಳೂರು ಡಾಲರ್ಸ್ ಕಾಲೊನಿ ಮನೆಯಲ್ಲಿ ಪರಿಶೀಲನೆ](https://vijaykarnataka.com/news/karnataka/ed-raid-on-minister-satish-jarkiholi-house-in-bengaluru-dollars-colony-brk/articleshow/133949567.cms)
 - [ಜೀನ್ಸ್ ಅಥವಾ ಜಾಕೆಟ್ ಜಿಪ್ಪರ್ ಸಿಕ್ಕಿಕೊಂಡರೆ ಎಳೆಯಬೇಡಿ! ಈ ಸುಲಭ ಹ್ಯಾಕ್ಸ್‌ನಿಂದ ನಿಮಿಷಗಳಲ್ಲಿ ಸರಿಪಡಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/jeans-jacket-stuck-zipper-fix-easy-hacks/articleshow/133954752.cms)
-- [ಚಿಪ್ ಡಿಸೈನ್‌ನಲ್ಲಿ ಕರ್ನಾಟಕವೇ ನಂಬರ್ 1, ಚಿಪ್ ಲೋಕದ ಅಧಿಪತಿ ಬೆಂಗಳೂರು, ವರದಿ ಬಹಿರಂಗ](https://vijaykarnataka.com/news/india/karnataka-is-number-1-in-chip-design-explain/videoshow/133955089.cms)
-- [‘ಅಧಿಕಪ್ರಸಂಗ ಮಾತಾಡಬೇಡ.. ಸೈಡ್‌ಗೆ ಹೋಗ್ರಿ’: ಮಂಜ ವಿರುದ್ಧ ಮತ್ತೆ ಸಿಡಿದ ಗಗನ್ ಚಿನ್ನಪ್ಪ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-week-1-verbal-spat-between-gagan-chinappa-and-modern-mahakavi-manja/articleshow/133953511.cms)
+- [ಸತೀಶ್‌ ಜಾರಕಿಹೊಳಿ ಇಡಿ ಇಕ್ಕಳದಲ್ಲಿ: ಆಫ್ರಿಕಾ ಹೂಡಿಕೆಯ ಹಾಳೆಗಳೆಲ್ಲಿ? ರಾಜಕೀಯ ಒತ್ತಡಕ್ಕೆ ಇರಬಹುದಾದ 3 ಕಾರಣಗಳು!](https://vijaykarnataka.com/news/karnataka/why-satish-jarkiholi-is-on-ed-radar-how-minister-handling-fema-case-and-political-pressure-explained/articleshow/133953321.cms)
+- [ನಾಮಿನೇಷನ್ ಬಗ್ಗೆ ಓಪನ್ ಚರ್ಚೆ: Bigg Boss ಮನೆ ಮೂಲ ನಿಯಮ ಮುರಿದ ಗಗನ್ - ತಾಂಡವ್!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-week-1-gagan-chinappa-and-tandav-ram-break-rule-and-discuss-about-nomination/articleshow/133956390.cms)
 - [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
 - [ಗಾಯತ್ರಿ ಮಂತ್ರದ ನಿತ್ಯ ಪಠಣದಿಂದ ಸಿಗುವ ಪ್ರಯೋಜನಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/benefits-of-chanting-gayatri-mantra-daily/articleshow/133948473.cms)
 - [ಕಾಶ್ಮೀರದಲ್ಲಿ ಶಿಖರ್ ಧವನ್ ಪತ್ನಿ ಸೋಫಿ ಶೈನ್ ಸ್ಟೈಲ್; ದಾಲ್ ಸರೋವರದ ಶಿಕಾರಾದಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್!](https://vijaykarnataka.com/lifestyle/fashion/shikhar-dhawan-sophie-shine-kashmir-trip-shikara-ride/articleshow/133952087.cms)
-- [ಬೆಂಗಳೂರಲ್ಲಿ ರಸ್ತೆಬದಿ ಮಾರಾಟಕ್ಕಿಟ್ಟಿದ್ದ ಗಣೇಶನ ಮೂರ್ತಿ ಕದ್ದು ಪರಾರಿಯಾದ ಖದೀಮರ ಗ್ಯಾಂಗ್;‌ CCTVಯಲ್ಲಿ ಕಳ್ಳತನದ ದೃಶ್ಯ ಸೆರೆ!](https://vijaykarnataka.com/news/bengaluru-city/lord-ganesha-idol-stolen-from-roadside-stall-in-bengaluru-ahead-of-ganesha-festival/articleshow/133953067.cms)
+- [Gold Rate Fall: ಆಭರಣ ಚಿನ್ನದ 22 ಕ್ಯಾರೆಟ್‌ಗೆ ಈಗ ಬೆಲೆ 14,145 ರೂ.! ಬೆಳ್ಳಿ ಬೆಲೆ ಕೆಜಿಗೆ 2.50 ಲಕ್ಷ ರೂ.ನಲ್ಲಿ ತಟಸ್ಥ](https://vijaykarnataka.com/business/gold-silver-price/gold-rate-fall-on-september-9th-22carrot-jeweler-gold-rate-is-now-14145-rs-and-silver-rate-is-stagnant-at-2-lakh-50-thousand-per-kg/articleshow/133954077.cms)
 
 **The Hindu**
-- [Call to create adequate jobs in Rajasthan, as youth eager to work](https://www.thehindu.com/news/national/rajasthan/call-to-create-adequate-jobs-in-rajasthan-as-youth-eager-to-work/article71443022.ece)
+- [Andhra Pradesh unveils roadmap to ensure 24X7 quality power supply amid El Niño challenges](https://www.thehindu.com/news/cities/Vijayawada/andhra-pradesh-unveils-roadmap-to-ensure-24x7-quality-power-supply-amid-el-nino-challenges/article71442392.ece)
+- [Journalist Jijo John Puthezhath dies](https://www.thehindu.com/news/national/kerala/journalist-jijo-john-puthezhath-dies/article71446067.ece)
+- [Rahul Gandhi urges CM Mann to sack Harpal Cheema, ensure impartial probe into Punjab villager’s death](https://www.thehindu.com/news/national/punjab/rahul-gandhi-urges-cm-mann-to-sack-harpal-cheema-ensure-impartial-probe-into-punjab-villagers-death/article71445997.ece)
+- [Orangutans rescued from Odisha forest: State begins probe; great apes quarantined at Nandankanan Zoo](https://www.thehindu.com/news/national/odisha/orangutans-rescued-from-odisha-forest-state-begins-probe-great-apes-quarantined-at-nandankanan-zoo/article71446071.ece)
 - [NEET-UG protests: Supreme Court questions U.P. Magistrate’s notice to student despite SC bar](https://www.thehindu.com/news/national/neet-ug-protests-supreme-court-questions-up-magistrates-notice-to-student-despite-sc-bar/article71445911.ece)
-- [India condemns Houthi attacks on Saudi oil installations](https://www.thehindu.com/news/national/india-condemns-houthi-attacks-on-saudi-oil-installations/article71446021.ece)
+- [Kanpur man dies after being allegedly assaulted for objecting to urination on road](https://www.thehindu.com/news/national/uttar-pradesh/kanpur-man-dies-after-being-allegedly-assaulted-for-objecting-to-urination-on-road/article71446074.ece)
 - [Telangana Assembly monsoon session LIVE Sept 9: Over 20 BRS MLAs suspended](https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-live-updates-cm-revanth-reddy-brs-mlas-9-september-2026/article71445902.ece)
-- [Telangana HC reserves order on modifying order for action against erring police officers at Assembly](https://www.thehindu.com/news/national/telangana/telangana-hc-reserves-order-on-modifying-order-for-action-against-erring-police-officers-at-assembly/article71444184.ece)
-- [Justice Ravindra Vithalrao Ghuge sworn-in as Chief Justice of Calcutta High Court](https://www.thehindu.com/news/national/west-bengal/justice-ravindra-vithalrao-ghuge-sworn-in-as-chief-justice-of-calcutta-high-court/article71445754.ece)
-- [BJP demands Punjab CM’s resignation over death of a man](https://www.thehindu.com/news/national/punjab/bjp-demands-punjab-cms-resignation-over-death-of-a-man/article71443445.ece)
-- [Jharkhand BJP launches four-day Statewide protest against alleged irregularities in recruitment exams](https://www.thehindu.com/news/national/jharkhand/jharkhand-bjp-launches-four-day-statewide-protest-against-alleged-irregularities-in-recruitment-exams/article71443475.ece)
-- [Bihar floods: Water levels recede, but threat persists](https://www.thehindu.com/news/national/bihar/bihar-floods-water-levels-recede-but-threat-persists/article71443548.ece)
-- [Kenya to set up high-level panel to resolve issues with Tata Chemicals unit](https://www.thehindu.com/business/kenya-to-set-up-high-level-panel-to-resolve-issues-with-tata-chemicals-unit/article71445687.ece)
+- [AIADMK, DMK governments in T.N. gave inadequate publicity to SC/ST scholarship schemes: CAG report](https://www.thehindu.com/news/national/tamil-nadu/aiadmk-dmk-governments-in-tn-gave-inadequate-publicity-to-scst-scholarship-schemes-cag-report/article71445951.ece)
+- [Tamil Nadu CM Vijay to travel to London on first official overseas visit; gold ring scheme launch postponed](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-to-travel-to-london-on-first-official-overseas-visit-gold-ring-scheme-launch-postponed/article71445870.ece)
+- [Keralam govt introduces new mechanism to ensure timely implementation of Budget projects](https://www.thehindu.com/news/national/kerala/keralam-govt-introduces-new-mechanism-to-ensure-timely-implementation-of-budget-projects/article71446022.ece)
 
 **Livemint**
 - [Delhi Satya Niketan building collapse: PG operator arrested, adjacent unsafe building demolished | Top updates](https://www.livemint.com/news/india/delhi-satya-niketan-building-collapse-pg-operator-arrested-adjacent-unsafe-building-demolished-top-updates-11788933027984.html)
@@ -83,7 +83,7 @@
 - [Mumbai traffic advisory: Slow vehicular movement expected in BKC today over Global Fintech Fest; check alternate routes](https://www.livemint.com/news/india/mumbai-traffic-advisory-slow-vehicular-movement-expected-in-bkc-today-over-global-fintech-fest-check-alternate-routes-11788921218380.html)
 - [Trump's map sparks controversy, Iceland summons US ambassador: What we know so far](https://www.livemint.com/news/us-news/trumps-map-sparks-controversy-iceland-summons-us-ambassador-what-we-know-so-far-11788916036485.html)
 - [Petrol and diesel prices today, Sept 9: How much does fuel cost in Delhi, Mumbai, Bengaluru? Check here](https://www.livemint.com/news/india/petrol-and-diesel-prices-today-sept-9-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-check-here-11788915224786.html)
-- [US-Iran war LIVE Updates: Iran says it struck US base in Jordan, multiple missiles launched; crude pushes towards $100](https://www.livemint.com/news/us-news/usiran-war-live-updates-us-base-jordan-iranian-tankers-multiple-missiles-launched-strait-of-hormuz-trump-rubio-houthis-11788916382737.html)
+- [Iran war LIVE Updates: Emergency warning issued in Saudi Arabia’s Khamis Mushait](https://www.livemint.com/news/us-news/usiran-war-live-updates-us-base-jordan-iranian-tankers-multiple-missiles-launched-strait-of-hormuz-trump-rubio-houthis-11788916382737.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [‘ನೀನು ನನ್ನ ಋಣದಲ್ಲಿದ್ದೀಯಾ, ನಾನು ಅಲ್ಲ’ : ಜನಾರ್ದನ ರೆಡ್ಡಿ ವಿರುದ್ಧ ಶಿವರಾಜ್‌ ತಂಗಡಗಿ ವಾಗ್ದಾಳಿ](https://www.varthabharati.in/state/shivaraj-thangadgi-attacks-janardhana-reddy-2273901)
 - [ದಿಲ್ಲಿ ಮತದಾರರ ಪಟ್ಟಿಗೆ ಬಿಜೆಪಿ ಸಂಸದ ರಾಘವ್ ಚಡ್ಡಾ ಹೆಸರು ಸೇರ್ಪಡೆ; AAP ಆಕ್ಷೇಪ](https://www.varthabharati.in/National/raghav-chadhas-name-added-to-delhi-electoral-roll-aap-raises-questions-2273899)
 - [ರಸ್ತೆಯಲ್ಲಿ ಕಟ್ಟಡ ನಿರ್ಮಾಣ ಸಾಮಗ್ರಿ ಹಾಕಿದ್ದ ವ್ಯಕ್ತಿ ವಿರುದ್ಧದ ಪ್ರಕರಣ ರದ್ದತಿಗೆ ಹೈಕೋರ್ಟ್ ನಕಾರ](https://www.varthabharati.in/state/hc-refuses-to-quash-fir-over-construction-material-stored-on-road-2273898)
 - [ಕಾಞಂಗಾಡ್ : ಸೆ.19 ರಂದು ಹೊಸದುರ್ಗ ನಿತ್ಯಾನಂದಾಶ್ರಮದಲ್ಲಿ ಪುಸ್ತಕ ಬಿಡುಗಡೆ ಕಾರ್ಯಕ್ರಮ](https://www.varthabharati.in/kasaragod/kanhangad-book-release-program-at-hosadurga-nityanandashram-on-september-19-2273896)
@@ -107,28 +108,30 @@
 - [ವೇಷಗಾರರು, ಬಹುರೂಪಿಗಳು, ಜಾತಿಗಾರರು](https://www.varthabharati.in/ankana/costumed-performers-impersonators-and-members-of-traditional-performing-communities-2273886)
 - [ಶ್ರಮಕ್ಕೆ ಗೌರವವಿಲ್ಲದ ಸಮಾಜ ಸ್ವಚ್ಛವಾಗುವುದು ಹೇಗೆ?](https://www.varthabharati.in/vishesha-varadigalu/how-can-a-society-that-does-not-respect-hard-work-become-clean-2273883)
 - [ಸಚಿವ ಸತೀಶ್‌ ಜಾರಕಿಹೊಳಿ ನಿವಾಸಗಳ ಮೇಲೆ ED ದಾಳಿ](https://www.varthabharati.in/state/bengaluru-ed-raids-minister-satish-jarkiholis-residences-2273879)
-- [ಅನುಭವ ಮಂಟಪದೊಳಗೊಂದು ಪ್ರಜಾಪ್ರಭುತ್ವದ ಪ್ರಬುದ್ಧ ಚಿಂತನೆ](https://www.varthabharati.in/nimma-ankana/a-mature-democratic-vision-within-the-anubhava-mantapa-2273884)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Delhi (6.7)
 - Emkay Global Financial (5.0)
-- India (3.2)
+- Delhi (4.1)
 - ICICI Securities (3.0)
 - target (3.0)
-- Bengal (2.6)
+- Mumbai (2.9)
+- Attack (2.6)
 - Opinion (2.6)
-- Houthi (2.6)
-- Noida (2.6)
-- Mumbai (2.6)
-- BRICS Summit (2.0)
+- Phone (2.0)
+- Rakesh Mehta (2.0)
+- Saudi Arabia (2.0)
 - Buy Bajaj Finance (2.0)
+- India (1.9)
 - Begins (1.9)
-- Saudi (1.9)
 - Global (1.8)
+- Noida (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [ఖరీఫ్‌ ఆశలు ఆవిరి](https://www.andhrajyothy.com/2026/andhra-pradesh/visakhapatnam/kharif-hopes-dashed-1556490.html)
+- [സൗദിയിലെ തെക്കൻ മേഖലയിൽ ഊർജ സ്ഥാപനങ്ങൾക്ക് നേരെ ആക്രമണം; തീപിടിത്തം, പ്രവർത്തനം താൽക്കാലികമായി നിർത്തി](https://www.mathrubhumi.com/pravasi/saudi-arabia/saudi-energy-facilities-attacked-southern-region-xk598x8v)
+- [ఇబ్రహీంపట్నం స్టేషన్‌‌కు యూట్యూబర్‌ ‌నందన](https://www.prajasakti.com/latest-news/state-latest-news/youtuber-nandana-at-ibrahimpatnam-station)
 - [കൈ കൊണ്ട് താടിയെല്ല് താങ്ങി വിജയ്, സ്റ്റാലിനെ പരിഹസിച്ചെന്ന് പ്രതിപക്ഷം; അബദ്ധത്തിൽ പറ്റിയതെന്ന് മുഖ്യമന്ത്രി](https://www.manoramaonline.com/news/latest-news/2026/09/09/vijays-jaw-gesture-sparks-row-cm-accused-of-mocking-mk-stalin-in-assembly.html)
 - [fear in ycp cader వైసీపీలో కలవరం](https://www.andhrajyothy.com/2026/andhra-pradesh/vizianagaram/fear-in-ycp-cader-1556467.html)
 - [സിസിടിവി വഴി നിരീക്ഷണം, പാർട്ടിക്ക് പോകുന്നത് വിലക്കി; ഭർതൃപിതാവിനെ കൊല്ലാൻ ക്വട്ടേഷൻ നൽകി മരുമകൾ](https://www.manoramaonline.com/news/latest-news/2026/09/09/daughter-in-law-hires-hitmen-murders-father-in-law-over-cctv-and-party-ban.html)
@@ -136,9 +139,6 @@
 - [ഉയർന്ന ചൂടും വൈദ്യുതി പ്രതിസന്ധിയും](https://www.metrovaartha.com/editorial/a9uulm0e1g)
 - [Nadimul Haque: প্রায় ৬০ কোটি টাকার মতো সন্দেহজনক লেনদেনের হদিশ, ২৪ ঘণ্টা পর নাদিমুল হকের বাড়ি থেকে বেরোল ED](https://bengali.abplive.com/district/nadimul-haque-house-ed-officers-left-after-more-than-24-hours-60-crore-suspectful-transaction-detected-1192126)
 - [Using Phosphatidylethanol to Rule Out MetALD/ALD](https://www.docwirenews.com/post/phosphatidylethanol-to-screen-for-metald-and-ald-in-masld-cohorts)
-- [राघव चड्ढा का AAP पर पलटवार, 'लगता है मैं अरविंद केजरीवाल और...'](https://www.abplive.com/states/punjab/raghav-chadha-response-to-aap-saurabh-bharadwaj-allegations-concerning-voter-registration-3186308)
-- [અમદાવાદમાં ઓનર કિલિંગ: પિતા-પુત્રએ મળીને હથોડી મારી દીકરીને પતાવી દીધી; અકસ્માતમાં ખપાવવાનો પ્લાન ફેલ](https://gujarati.abplive.com/crime/ahmedabad-honor-killing-case-father-brother-killed-girl-fake-accident-news-990758)
-- [இன்ஸ்டாகிராமில் குழந்தைகள் வன்கொடுமை விளம்பர விவகாரம்: மெட்டாவுக்கு மத்திய அரசு சம்மன்](https://www.hindutamil.in/news/india/meta-officials-summoned-over-sexual-abuse-content)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
