@@ -1,22 +1,22 @@
-# India Trending Report — 2026-09-09 20:35:24
+# India Trending Report — 2026-09-09 21:02:08
 
 ## Google Trends (India) — top trending searches
-1. [psg](https://trends.google.com/trending/rss?geo=IN)
-2. [ivan toney](https://trends.google.com/trending/rss?geo=IN)
-3. [florian wirtz](https://trends.google.com/trending/rss?geo=IN)
-4. [alex meret](https://trends.google.com/trending/rss?geo=IN)
-5. [ferran torres](https://trends.google.com/trending/rss?geo=IN)
-6. [ronald araújo](https://trends.google.com/trending/rss?geo=IN)
-7. [marc pubill](https://trends.google.com/trending/rss?geo=IN)
-8. [julián alvarez](https://trends.google.com/trending/rss?geo=IN)
-9. [iphone17](https://trends.google.com/trending/rss?geo=IN)
-10. [abdullah al-hamdan](https://trends.google.com/trending/rss?geo=IN)
+1. [luis suárez](https://trends.google.com/trending/rss?geo=IN)
+2. [alexander blockx](https://trends.google.com/trending/rss?geo=IN)
+3. [sydney sweeney](https://trends.google.com/trending/rss?geo=IN)
+4. [sporting cp](https://trends.google.com/trending/rss?geo=IN)
+5. [martin ødegaard](https://trends.google.com/trending/rss?geo=IN)
+6. [matvey safonov](https://trends.google.com/trending/rss?geo=IN)
+7. [moreirense vs benfica](https://trends.google.com/trending/rss?geo=IN)
+8. [সৌরভ গঙ্গোপাধ্যায়](https://trends.google.com/trending/rss?geo=IN)
+9. [psg](https://trends.google.com/trending/rss?geo=IN)
+10. [ivan toney](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- ['They're desperate to affect election': Trump declares Iran war will end after midterms](https://timesofindia.indiatimes.com/world/us/theyre-desperate-to-affect-election-trump-declares-iran-war-will-end-after-us-midterms/articleshow/133982252.cms)
 - [Apple's 1st foldable phone launched: Specifications, features & price in India of iPhone Duo](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-duo-launched-specifications-features-and-price/articleshow/133980600.cms)
 - [Zelenskyy's plane nearly hit by drone while taking off from Moldova](https://timesofindia.indiatimes.com/world/europe/zelenskyys-plane-nearly-hit-by-drone-while-taking-off-from-moldova-norway-pm/articleshow/133983144.cms)
-- ['They're desperate to affect election': Trump declares Iran war will end after midterms](https://timesofindia.indiatimes.com/world/us/theyre-desperate-to-affect-election-trump-declares-iran-war-will-end-after-us-midterms/articleshow/133982252.cms)
 - [Pegula vs Navarro: The $15 billion 'battle' that dwarfed Djokovic, Federer and Nadal's wealth](https://timesofindia.indiatimes.com/sports/tennis/top-stories/a-15-billion-tennis-match-how-pegula-and-navarro-turned-a-us-open-clash-into-a-battle-of-the-billionaires-that-dwarfed-djokovic-federer-and-nadals-combined-wealth/articleshow/133974795.cms)
 - [NC tells Congress: Full Vande Mataram a constitutional duty](https://timesofindia.indiatimes.com/india/nc-tells-congress-full-vande-mataram-a-constitutional-duty/articleshow/133982734.cms)
 - [Apple iPhone 18 Pro and iPhone 18 Pro Max launched: Price in India and all details](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-and-iphone-18-pro-max-launched-at-surprise-and-shine-event-price-in-india-specifications-features-and-all-you-need-to-know/articleshow/133979340.cms)
@@ -49,17 +49,7 @@
 - [BJP asks Gujarat Congress MLA to apologise for sitting during Vande Mataram](https://www.hindustantimes.com/india-news/bjp-asks-gujarat-congress-mla-to-apologise-for-sitting-during-vande-mataram-101788967030222.html)
 - [Shehzad Poonawalla hits back at Rhiya Ahir's ‘uncle’ jibe as Bigg Boss spat escalates: ‘Your IQ matches Rahul Gandhi’s’](https://www.hindustantimes.com/india-news/shehzad-poonawalla-hits-back-at-rhiya-ahirs-uncle-jibe-as-bigg-boss-spat-escalates-your-iq-matches-rahul-gandhis-101788959759285.html)
 
-**Vijay Karnataka**
-- [ಸಚಿವ ಸಂಪುಟ ಸಭೆ: ಕಾಲೇಜಿನಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿ ಸಂಘದ ಚುನಾವಣೆಗೆ ಸರ್ಕಾರ ಅಸ್ತು! ಅಧ್ಯಕ್ಷ ಸೇರಿ 12 ಸ್ಥಾನ; ಯಾವೆಲ್ಲಾ?](https://vijaykarnataka.com/news/karnataka/cabinet-meeting-government-greenlights-student-union-elections-in-colleges-12-posts-2-seats-reserved-for-female-students/articleshow/133975112.cms)
-- [ಗಣೇಶ ಹಬ್ಬ: ಬೆಂಗಳೂರಿನಿಂದ 2 ಮಾರ್ಗದಲ್ಲಿ ವಿಶೇಷ ರೈಲು; ಬೆಳಗಾವಿ, ವಿಜಯಪುರ ಸೇರಿ 9 ಜಿಲ್ಲೆಗೆ ಅನುಕೂಲ; ವೇಳಾಪಟ್ಟಿ ಬಿಡುಗಡೆ](https://vijaykarnataka.com/news/karnataka/ganesh-festival-special-trains-from-bengaluru-via-2-routes-benefit-9-districts-including-belagavi-vijayapura-schedule-released/articleshow/133972695.cms)
-- [ಮಿತಿಮೀರಿದ AI ದಾಸ್ಯ, ದಶಕದ ಅಂತ್ಯಕ್ಕೆ ಮಾನವಕುಲವೇ ವಿನಾಶ': ಹೊಸಚರ್ಚೆಗೆ ನಾಂದಿ ಹಾಡಿದ ಆಂಥ್ರೋಪಿಕ್ ಸಂಶೋಧಕ!](https://vijaykarnataka.com/news/world/anthropic-researcher-jacob-coxon-says-ai-could-kill-us-all-by-decade-end/articleshow/133980532.cms)
-- [ಮಣ್ಣಿನ ಗಣೇಶ ಮೂರ್ತಿಯೇ? POP ಮೂರ್ತಿಯೇ? ಖರೀದಿಸುವ ಮುನ್ನ ಈ ಗುರುತುಗಳನ್ನು ಪರಿಶೀಲಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/ganesh-chaturthi-2026-how-to-check-clay-or-pop-ganesha-idol/articleshow/133963722.cms)
-- [ನಂದನ್ ನಿಲೇಕಣಿ, ಝೆರೋಧಾ ಬ್ರದರ್ಸ್ ಸೇರಿ ಹಲವು ಪ್ರಮುಖರ ಹೆಸರು SIR ‘ದೋಷಪೂರಿತ’ ಪಟ್ಟಿಗೆ!](https://vijaykarnataka.com/news/bengaluru-city/shivarajkumar-nandan-nilekani-kamath-brothers-name-in-sir-defective-list/articleshow/133978042.cms)
-- [ಬಿಗ್‌ ಬಾಸ್‌ ಸೀಸನ್‌ 13: ಧನುಷ್‌ ಎಂದಿಗೂ ಬಿಗ್‌ ಮನೆಗೆ ಕಾಲಿಡದಂತೆ ಮಾಡಿದ ಗಗನ್‌, ರಿವೆಂಜ್‌ ತಗೊಂಡ್ರಾ ನಟ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-season-13-gagan-chinnappa-revenge-against-dhanush-manjunath/articleshow/133980505.cms)
-- [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
-- [ವಿಷ್ಣುವಿನ 6 ಮಂತ್ರಗಳು ಮತ್ತು ಅವುಗಳ ಪ್ರಯೋಜನಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/here-are-the-6-vishnu-mantras-and-its-benefits/articleshow/133971144.cms)
-- [ಮಗಳು ದುವಾ 2ನೇ ಹುಟ್ಟುಹಬ್ಬಕ್ಕೆ ದೀಪಿಕಾ ಪಡುಕೋಣೆ ವಿಶೇಷ ಮ್ಯಾಟರ್ನಿಟಿ ಫೋಟೋಶೂಟ್; ಬೇಬಿ ಬಂಪ್ ಲುಕ್‌ಗೆ ಫಿದಾ ಆದ ನೆಟ್ಟಿಗರು!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-maternity-photoshoot-baby-bump-fashion-look/articleshow/133958269.cms)
-- [ಏಷ್ಯನ್‌ ಗೇಮ್ಸ್‌ ನಡೆಯಲಿರುವ ನಗೋಯಾದಲ್ಲಿ ಕಂಡುಕೇಳರಿಯದ ಪ್ರವಾಹ; 400 ಕ್ರೀಡಾಪಟುಗಳ ಸ್ಥಳಾಂತರ](https://vijaykarnataka.com/sports/other-sports/asian-games-2026-heavy-flooding-in-nagoya-400-athletes-evacuated/articleshow/133975411.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
 - [Forest rights group asks Tribal Affairs Ministry to withdraw stand on Gram Sabha consent](https://www.thehindu.com/sci-tech/energy-and-environment/forest-rights-group-asks-tribal-affairs-ministry-to-withdraw-stand-on-gram-sabha-consent/article71448173.ece)
@@ -112,23 +102,23 @@
 - iPhone (1.8)
 - Congress (1.6)
 - Gandhinagar (1.6)
+- They're (1.3)
 - Apple's (1.3)
 - Specifications (1.3)
-- Zelenskyy's (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [మాపై పోలీసుల దాడి, అవమానంపై గవర్నర్‌కు ఆధారాలు సమర్పించాం: కేటీఆర్‌](https://www.eenadu.net/telugu-news/telangana/brs-leaders-meet-the-governor/1801/126162954)
-- [Maharashtra News LIVE : मराठवाड्यात 3 लाख 16 हजार कुणबी प्रमाणपत्राचे वाटप](https://www.tv9marathi.com/maharashtra/maharashtra-news-live-updates-in-marathi-aajchya-thalak-batamya-marathi-news-9-september-2026-devendra-fadnavis-manoj-jarange-eknath-shinde-maratha-reservation-1752254.html)
-- [SIRમાં નામ મિસમેચ થતાં ભારત રત્ન પ્રો. સી.એન.આર. રાવને ચૂંટણી પંચે ફટકારી નોટિસ](https://www.gujaratsamachar.com/news/national/election-commission-sends-notice-to-bharat-ratna-prof-cnr-rao-due-to-name-mismatch-in-sir-16028873506)
-- ['વંદે માતરમ' દરમિયાન બેસી રહ્યાં કોંગ્રેસના ધારાસભ્ય ઇમરાન ખેડાવાલા, ગૃહમાં વિવાદ](https://gujarati.abplive.com/news/gujarat/congress-mla-imran-khedawala-remained-sitting-during-vande-mataram-controversy-in-the-house-990775)
-- [பிக் பாஸ் நள்ளிரவில் நடந்த விபரீதம்](https://kalkionline.com/entertainment/chinnathirai-ott/bigg-boss-tamil-10-black-pandia-evicted-mid-night-medical-emergency)
-- [మీ జీతం నుంచి నెలనెలా పీఎఫ్ కట్ అవుతుందా? పెన్షన్ నుంచి కుటుంబ రక్షణ వరకు 5 బెనిఫిట్స్..](https://telugu.samayam.com/business/business-news/epfo-2026-5-key-benefits-every-salaried-employee-should-know/articleshow/133959698.cms)
-- [Ammy Virk पर जानलेवा हमला, फायरिंग के समय कार में ही थे पंजाबी सिंगर](https://www.livehindustan.com/national/punjabi-singer-ammy-virk-convoy-attacked-in-canada-after-concert-7-shots-fired-report-201788940750003.html)
-- [પિકલબૉલ વર્લ્ડ કપ 2026માં ભારતે રચ્યો ઇતિહાસ, 41 મેડલ્સ સાથે 82 દેશની વૈશ્વિક ટેલીમાં હાંસલ કર્યું ચોથું સ્થાન](https://www.gujaratsamachar.com/news/sports/pickleball-world-cup-2026-india-creates-history-ranks-4th-in-global-tally-among-82-countries-with-41-medals-17351675628)
-- [Rentomojo vs Manipal Payment vs Karamtara Engineering vs LCC Projects vs ARCIL vs Steamhouse India; should you apply?](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/ipo/ipo-gmp-today-rentomojo-karamtara-enggineering-lcc-projects-steamhouse-asset-reconstruction-manipal-cards-subsctiption-status-review-14025844.html)
-- [‘राहुल गांधी कोई VVIP नहीं कि…’, गौरव भाटिया का SC पर बड़ा आरोप; CJI सूर्यकांत ने दिया जवाब](https://www.livehindustan.com/national/bjp-gaurav-bhatia-alleges-supreme-court-rahul-gandhi-not-vvip-defamation-case-cji-surya-kant-201788940713123.html)
+- [3 ઓક્ટોબર ભારતીય ક્રિકેટ માટે ઐતિહાસિક દિવસ, ટીમ ઈન્ડિયા એક જ દિવસમાં બે દેશો સામે રમશે](https://tv9gujarati.com/sports/cricket-news/breaking-news-team-india-will-play-against-2-countries-in-one-day-1512323.html)
+- [આજે સોનામાં ₹50,000 રોકશો તો વર્ષ 2036 માં કેટલા થશે? સમજો 10 વર્ષના રિટર્નનું સંપૂર્ણ ગણિત](https://tv9gujarati.com/photo-gallery/if-you-invest-50000-in-gold-today-how-much-will-it-be-worth-in-2036-complete-10-year-return-calculation-1512310.html)
+- [Ben Shelton stuns Carlos Alcaraz in latest-ever U.S. Open finish](https://www.thehindu.com/sport/tennis/ben-shelton-stuns-carlos-alcaraz-in-latest-ever-us-open-finish/article71446526.ece)
+- [ഇടുക്കിയില്‍ അച്ഛന്‍ മകനെ കൊലപ്പെടുത്തി](https://www.mediaoneonline.com/kerala/father-kills-son-in-idukki-anakulam-murder-case-336437)
+- [मेटा अब भी भारत में बच्चों के यौन शोषण के विज्ञापन चला रहा है: रिपोर्ट](https://www.bbc.com/hindi/articles/c62mn49q679o)
+- [இன்ஸ்டாவை ஆக்கிரமித்த 80ஸ் டிரெண்ட்.... பிரபல நடிகர், நடிகைகளின் போட்டோக்கள் வைரல்](https://www.dinamalar.com/news/tamil-nadu-news/the-80s-trend-that-took-over-instagram-photos-of-famous-actors-and-actresses-go-viral/4318130)
+- [Anbumani Seeks Strict Enforcement of Public Smoking Ban Amid Rise in Passive Smoking Deaths](https://www.deccanchronicle.com/southern-states/tamil-nadu/anbumani-seeks-strict-enforcement-of-public-smoking-ban-amid-rise-in-passive-smoking-deaths-1986064)
+- [സംസ്ഥാനത്ത് നാളെ മുതല്‍ മൂന്ന് ദിവസം മഴ സാധ്യത; വിവിധ ജില്ലകളിൽ യെല്ലോ അലേര്‍ട്ട് പ്രഖ്യാപിച്ചു](https://www.reporterlive.com/topnews/kerala/2026/09/09/kerala-rain-yellow-alert-three-days-rain-forecast-september-2026)
+- [MPSC विद्यार्थी ज्यांच्या राजीनाम्यासाठी आक्रमक ते विवेक भीमनवार नक्की कोण? सगळी हिस्ट्री एका क्लिकवर](https://sarkarnama.esakal.com/ampstories/web-stories/mpsc-chairman-vivek-bhimanwar-ias-career-drug-inspector-exam-paper-leak-controversy-jap93)
+- [Duleep Trophy Final: ৯৯ রানে তিলক ফিরতেই অল আউট দক্ষিণাঞ্চল, ৩৭২ রানের বিশাল লিড নিল পূর্বাঞ্চল](https://bengali.abplive.com/sports/cricket/duleep-trophy-final-south-zone-all-out-east-zone-take-massive-lead-of-372-runs-tilak-verma-99-runs-bcci-domestic-1192171)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
