@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-09-09 23:01:50",
+  "generated_at": "2026-09-09 23:33:19",
   "google_trends": [
+    {
+      "title": "\u0938\u092e\u093e\u091a\u093e\u0930 \u0916\u092c\u0930\u0947\u0902",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "botic van de zandschulp",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "oppo a7",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "irumudi movie",
       "traffic": null,
@@ -35,21 +50,6 @@
       "title": "sydney sweeney",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "sporting cp",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "moreirense vs benfica",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "matvey safonov",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
     }
   ],
   "outlets": {
@@ -63,20 +63,24 @@
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-duo-launched-specifications-features-and-price/articleshow/133980600.cms"
       },
       {
-        "title": "'They're desperate to affect election': Trump declares Iran war will end after midterms",
-        "link": "https://timesofindia.indiatimes.com/world/us/theyre-desperate-to-affect-election-trump-declares-iran-war-will-end-after-us-midterms/articleshow/133982252.cms"
+        "title": "Creating a multi-layered security grid in Delhi, one Brics at a time",
+        "link": "https://timesofindia.indiatimes.com/india/creating-a-multi-layered-security-grid-in-delhi-one-brics-at-a-time/articleshow/133987755.cms"
       },
       {
         "title": "Pegula vs Navarro: The $15 billion 'battle' that dwarfed Djokovic, Federer and Nadal's wealth",
         "link": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/a-15-billion-tennis-match-how-pegula-and-navarro-turned-a-us-open-clash-into-a-battle-of-the-billionaires-that-dwarfed-djokovic-federer-and-nadals-combined-wealth/articleshow/133974795.cms"
       },
       {
-        "title": "'Rahul mian' can't grasp Vande importance: Nitin Nabin",
-        "link": "https://timesofindia.indiatimes.com/india/rahul-mian-cant-grasp-vande-importance-nitin-nabin/articleshow/133984692.cms"
+        "title": "'They're desperate to affect election': Trump declares Iran war will end after midterms",
+        "link": "https://timesofindia.indiatimes.com/world/us/theyre-desperate-to-affect-election-trump-declares-iran-war-will-end-after-us-midterms/articleshow/133982252.cms"
       },
       {
         "title": "Apple iPhone 18 Pro and iPhone 18 Pro Max launched: Price in India and all details",
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-and-iphone-18-pro-max-launched-at-surprise-and-shine-event-price-in-india-specifications-features-and-all-you-need-to-know/articleshow/133979340.cms"
+      },
+      {
+        "title": "'Rahul mian' can't grasp Vande importance: Nitin Nabin",
+        "link": "https://timesofindia.indiatimes.com/india/rahul-mian-cant-grasp-vande-importance-nitin-nabin/articleshow/133984692.cms"
       },
       {
         "title": "Brics to kick off with talks to boost multilateralism",
@@ -85,10 +89,6 @@
       {
         "title": "SC reiterates call to CBSE to exempt Class VI from its 3-language policy",
         "link": "https://timesofindia.indiatimes.com/india/sc-reiterates-call-to-cbse-to-exempt-class-vi-from-its-3-language-policy/articleshow/133984276.cms"
-      },
-      {
-        "title": "SC registry urged to list defamation case against Rahul Gandhi",
-        "link": "https://timesofindia.indiatimes.com/india/sc-registry-urged-to-list-defamation-case-against-rahul-gandhi/articleshow/133986378.cms"
       },
       {
         "title": "1980s AI photo trend: 11 ChatGPT prompts to turn photos into retro Bollywood looks",
@@ -367,27 +367,35 @@
       "score": 3.2
     },
     {
-      "term": "Rahul Gandhi",
-      "score": 3
-    },
-    {
       "term": "Apple",
       "score": 2.9
+    },
+    {
+      "term": "Brics",
+      "score": 2.6
     },
     {
       "term": "Hubballi",
       "score": 2.6
     },
     {
-      "term": "Rahul",
-      "score": 2.2
-    },
-    {
       "term": "Pro Max",
       "score": 2
     },
     {
+      "term": "Rahul Gandhi",
+      "score": 2
+    },
+    {
+      "term": "Delhi",
+      "score": 1.9
+    },
+    {
       "term": "Iran",
+      "score": 1.9
+    },
+    {
+      "term": "Rahul",
       "score": 1.9
     },
     {
@@ -401,57 +409,49 @@
     {
       "term": "Russia",
       "score": 1.6
-    },
-    {
-      "term": "Emergency",
-      "score": 1.6
-    },
-    {
-      "term": "Gandhinagar",
-      "score": 1.6
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "Trump Turns Santa Claus With Huge Cash Gifts",
-      "link": "https://www.gulte.com/overseas/430666/trump-turns-santa-claus-for-his-aides-with-huge-cash-gifts"
+      "title": "Nivin Pauly Film Electrician Dies of Electrocution",
+      "link": "https://www.mathrubhumi.com/movies-music/news/nivin-pauly-film-electrician-dies-electrocution-gjhjsuyg"
     },
     {
-      "title": "'Hanuman Ansh' actor Shobhinaw Satyaa came on board when the original actor fell ill on the first day of shoot itself, here's how he got into the role of Neem Karoli Baba",
-      "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hanuman-ansh-actor-shobhinaw-satyaa-came-on-board-when-the-original-actor-fell-ill-on-the-first-day-of-shoot-itself-heres-how-he-got-into-the-role-of-neem-karoli-baba/articleshow/133964991.cms"
+      "title": "Cabinet approves Rs 20,804 crore railway projects across nine states",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-rs-20804-crore-railway-projects-across-nine-states/articleshow/133966520.cms"
     },
     {
-      "title": "Android Auto's most requested Google Maps feature arrived then disappeared again - what's going on?",
-      "link": "https://autos.yahoo.com/ev-and-future-tech/articles/android-autos-most-requested-google-110000068.html"
+      "title": "Apple's 'Surprise and Shine' iPhone 18 series launch event",
+      "link": "https://www.thehindu.com/sci-tech/technology/apples-surprise-and-shine-iphone-18-series-launch-event-live-updates/article71441260.ece"
     },
     {
-      "title": "\u0905\u092a\u0928\u0947-\u0906\u092a \u092b\u091f \u0917\u092f\u093e \u091f\u0948\u0902\u0915, \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u092e\u0947\u0902 \u0926\u094b \u0938\u0948\u0928\u093f\u0915\u094b\u0902 \u0915\u0940 \u092f\u0941\u0926\u094d\u0927\u093e\u092d\u094d\u092f\u093e\u0938 \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u092e\u094c\u0924, Video",
-      "link": "https://www.aajtak.in/defence-news/story/bangladesh-chattogram-tank-firing-accident-2-soldiers-killed-dskc-2639589-2026-09-09"
+      "title": "'\u0ab8\u0abe\u0a89\u0aa6\u0ac0 \u0aaa\u0ab0 \u0ab9\u0ac1\u0aae\u0ab2\u0acb \u0a8f \u0aaa\u0abe\u0a95\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8 \u0aaa\u0ab0 \u0a9c \u0ab9\u0ac1\u0aae\u0ab2\u0acb \u0a97\u0aa3\u0abe\u0ab6\u0ac7...' \u0a96\u0acd\u0ab5\u0abe\u0a9d\u0abe \u0a86\u0ab8\u0abf\u0aab\u0aa8\u0ac0 \u0ab9\u0ac1\u0aa5\u0ac0\u0a93\u0aa8\u0ac7 \u0a9a\u0ac7\u0aa4\u0ab5\u0aa3\u0ac0",
+      "link": "https://www.gujaratsamachar.com/news/international/an-attack-on-saudi-arabia-will-be-considered-an-attack-on-pakistan-khawaja-asif-warns-houthis-48737893589"
     },
     {
-      "title": "IND a Vs AUS a: \u0c07\u0c02\u0c21\u0c3f\u0c2f\u0c3e - A \u0c1c\u0c1f\u0c4d\u0c1f\u0c41\u0c32\u0c4b \u0c39\u0c3e\u0c30\u0c4d\u0c26\u0c3f\u0c15\u0c4d\u200c \u0c2a\u0c3e\u0c02\u0c21\u0c4d\u0c2f.. \u0c15\u0c3e\u0c28\u0c40 \u0c13 \u0c37\u0c30\u0c24\u0c41",
-      "link": "https://www.eenadu.net/telugu-news/sports/india-a-squad-for-home-series-against-australia-a-announced/0401/126162988"
+      "title": "Howrah 4 Lane Railway : \u09aa\u09b6\u09cd\u099a\u09bf\u09ae\u09ac\u0999\u09cd\u0997\u09c7 \u09ea \u09b2\u09c7\u09a8\u09c7\u09b0 \u09b0\u09c7\u09b2\u09b2\u09be\u0987\u09a8, \u0995\u09cb\u09a8 \u09b0\u09c1\u099f\u09c7? \u09b9\u09be\u0993\u09a1\u09bc\u09be\u09b0 \u09af\u09be\u09a4\u09cd\u09b0\u09c0\u09a6\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09ac\u09a1\u09bc \u0996\u09ac\u09b0",
+      "link": "https://bangla.aajtak.in/kolkata/story/railway-4-lane-project-in-west-bengal-howrah-passengers-to-get-better-train-connectivity-suk-1448629-2026-09-09"
     },
     {
-      "title": "\u0d39\u0d3e\u0d7c\u0d26\u0d3f\u0d15\u0d4d \u0d2a\u0d3e\u0d23\u0d4d\u0d21\u200d\u0d4d\u0d2f \u0d24\u0d3f\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d41\u0d35\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d41; \u0d13\u0d38\u0d4d\u0d1f\u0d4d\u0d30\u0d47\u0d32\u0d3f\u0d2f \u0d0e \u0d1f\u0d40\u0d2e\u0d3f\u0d28\u0d46\u0d24\u0d3f\u0d30\u0d3e\u0d2f \u0d2a\u0d30\u0d2e\u0d4d\u0d2a\u0d30\u0d2f\u0d3f\u0d7d \u0d15\u0d33\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d02",
-      "link": "https://www.metrovaartha.com/sports/india-a-team-announced-squad-for-series-against-australia-a"
+      "title": "Narmada: \u0aa4\u0abf\u0ab2\u0a95\u0ab5\u0abe\u0aa1\u0abe\u0aae\u0abe\u0a82 \u0a85\u0a95\u0ab8\u0acd\u0aae\u0abe\u0aa4\u0aae\u0abe\u0a82 \u0aac\u0ac7 \u0aaf\u0ac1\u0ab5\u0a95\u0aa8\u0acb \u0aae\u0acb\u0aa4",
+      "link": "https://www.gujaratfirst.com/narmada/gujarat-first-digital-narmada-tilakwada-accident/337827/"
     },
     {
-      "title": "Ritu Tawde 80s AI Photo Trend : 80\u091a\u094d\u092f\u093e \u0926\u0936\u0915\u093e\u0924 \u0915\u0936\u093e \u0926\u093f\u0938\u093e\u092f\u091a\u094d\u092f\u093e \u092e\u0941\u0902\u092c\u0908\u091a\u094d\u092f\u093e \u092e\u0939\u093e\u092a\u094c\u0930 \u0930\u093f\u0924\u0942 \u0924\u093e\u0935\u0921\u0947? \u092b\u094b\u091f\u094b \u0915\u0947\u0932\u093e \u092a\u094b\u0938\u094d\u091f",
-      "link": "https://www.tv9marathi.com/maharashtra/mumbai/mumbai-mayor-ritu-tawde-shares-ai-generated-80s-photo-on-instagram-netizens-compare-her-look-with-bollywood-actress-sridevi-1752670.html"
+      "title": "\u0d35\u0d3f\u0d30\u0d3e\u0d1f\u0d4d \u0d15\u0d4b\u0d32\u0d3f\u0d2f\u0d41\u0d1f\u0d46 \u0d35\u0d7a8 \u0d37\u0d42\u0d15\u0d7e \u0d27\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d2a\u0d3e\u0d15\u0d4d \u0d35\u0d28\u0d3f\u0d24\u0d3e \u0d24\u0d3e\u0d30\u0d19\u0d4d\u0d19\u0d7e; \u0d1a\u0d7c\u0d1a\u0d4d\u0d1a\u0d2f\u0d3e\u0d2f\u0d3f \u0d1a\u0d3f\u0d24\u0d4d\u0d30\u0d19\u0d4d\u0d19\u0d7e",
+      "link": "https://www.mathrubhumi.com/sports/cricket/pakistan-women-cricketers-virat-kohli-one8-shoes-asia-cup-yihfkris"
     },
     {
-      "title": "Rain Alert: \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u0916\u093e\u0921\u093c\u0940 \u092e\u0947\u0902 \u092c\u0928\u0928\u0947 \u091c\u093e \u0930\u0939\u093e \u0915\u092e \u0926\u092c\u093e\u0935 \u0915\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930, \u0907\u0928 \u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u092e\u0947\u0902 \u0939\u094b\u0917\u0940 \u092c\u0939\u0941\u0924 \u092d\u093e\u0930\u0940 \u092c\u093e\u0930\u093f\u0936",
-      "link": "https://www.livehindustan.com/weather/rain-alert-imd-weather-update-9-september-bihar-up-delhi-rain-low-pressure-area-created-barish-201788950701250.html"
+      "title": "\u091c\u0938\u094d\u091f\u093f\u0938 \u0938\u094d\u0935\u0930\u094d\u0923 \u0915\u093e\u0902\u0924\u093e \u0936\u0930\u094d\u092e\u093e \u0915\u093e \u091c\u093f\u0915\u094d\u0930 \u0915\u0930 \u0938\u094c\u0930\u092d \u0926\u093e\u0938 \u0915\u0940 \u092e\u0941\u0936\u094d\u0915\u093f\u0932\u0947\u0902 \u092c\u0922\u093c\u093e\u0928\u093e \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902 \u0917\u094c\u0930\u0935 \u092d\u093e\u091f\u093f\u092f\u093e, \u092f\u093e\u091a\u093f\u0915\u093e \u092e\u0947\u0902 \u091c\u093f\u0915\u094d\u0930",
+      "link": "https://www.livehindustan.com/ncr/gaurav-bhatia-mention-of-justice-swarna-kanta-sharma-in-saurav-das-case-201788951952648.html"
     },
     {
-      "title": "Nepal floods: Survivor captures horrifying moment flash floods engulf homes, roads and buildings",
-      "link": "https://timesofindia.indiatimes.com/world/south-asia/nepal-floods-survivor-captures-horrifying-moment-flash-floods-engulf-homes-roads-and-buildings/articleshow/133965307.cms"
+      "title": "Shriya Pilgaonkar admits 'Mirzapur: The Movie' success was beyond expectations: 'Couldn\u2019t have gauged this scale'",
+      "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shriya-pilgaonkar-admits-mirzapur-the-movie-success-was-beyond-expectations-couldnt-have-gauged-this-scale/articleshow/133966152.cms"
     },
     {
-      "title": "\u0b87\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bae\u0bc1\u0b95 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-      "link": "https://www.tamilmurasu.com.sg/tamilnadu/dmk-candidates-contesting-election"
+      "title": "\u2018\u0986\u0999\u09c1\u09b0 \u099f\u0995\u2019 \u0995\u099f\u09be\u0995\u09cd\u09b7\u09c7 \u09b8\u09c1\u09a8\u09bf\u09a7\u09bf\u0995\u09c7 \u099c\u09ac\u09be\u09ac! \u2018\u0987\u09a8\u09cd\u09a1\u09bf\u09df\u09be\u09a8 \u0986\u0987\u09a1\u09b2\u2019",
+      "link": "https://bengali.indianexpress.com/entertainment/neha-kakkar-sunidhi-chauhan-indian-idol-trp-scripted-reality-show-12510123"
     }
   ],
   "twitter": null
