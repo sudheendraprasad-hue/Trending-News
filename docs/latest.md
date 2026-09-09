@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-09 01:35:32
+# India Trending Report — 2026-09-09 02:02:21
 
 ## Google Trends (India) — top trending searches
-1. [wahab riaz](https://trends.google.com/trending/rss?geo=IN)
-2. [अनिल अंबानी](https://trends.google.com/trending/rss?geo=IN)
-3. [weather prayagraj](https://trends.google.com/trending/rss?geo=IN)
-4. [alcaraz](https://trends.google.com/trending/rss?geo=IN)
-5. [ક્રિકેટ](https://trends.google.com/trending/rss?geo=IN)
-6. [ਮੌਸਮ](https://trends.google.com/trending/rss?geo=IN)
-7. [ట్రాఫిక్](https://trends.google.com/trending/rss?geo=IN)
-8. [पाऊस](https://trends.google.com/trending/rss?geo=IN)
-9. [सुज़ुकी](https://trends.google.com/trending/rss?geo=IN)
-10. [dow jones futures](https://trends.google.com/trending/rss?geo=IN)
+1. [आईफोन](https://trends.google.com/trending/rss?geo=IN)
+2. [orangutan](https://trends.google.com/trending/rss?geo=IN)
+3. [కాగ్నిజెంట్](https://trends.google.com/trending/rss?geo=IN)
+4. [पीक विमा](https://trends.google.com/trending/rss?geo=IN)
+5. [జియో](https://trends.google.com/trending/rss?geo=IN)
+6. [अमावस्या कब है](https://trends.google.com/trending/rss?geo=IN)
+7. [abf vs gaw](https://trends.google.com/trending/rss?geo=IN)
+8. [phillies vs astros](https://trends.google.com/trending/rss?geo=IN)
+9. [હવામાન](https://trends.google.com/trending/rss?geo=IN)
+10. [wahab riaz](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Watch: US hits 5 Iranian oil tankers near Kharg; Tehran strikes back at Jordan base](https://timesofindia.indiatimes.com/world/middle-east/watch-us-strikes-5-iranian-oil-tankers-near-kharg-island-after-iran-targets-us-navy-ship/articleshow/133946004.cms)
+- [Delhi building collapse: Owner knew base was weak, built 4 additional floors, say cops](https://timesofindia.indiatimes.com/city/delhi/delhi-building-collapse-owner-knew-base-was-weak-built-4-additional-floors-say-cops/articleshow/133948084.cms)
 - [UPI-ng the ante: PM Modi wants desi connect with global pay](https://timesofindia.indiatimes.com/india/upi-ng-the-ante-pm-modi-wants-desi-connect-with-global-pay/articleshow/133947639.cms)
-- [Building collapses to fires, 33k died in 5 years from 2020](https://timesofindia.indiatimes.com/india/building-collapses-to-fires-33k-died-in-5-years-from-2020/articleshow/133947009.cms)
-- [Dilip Gavit's journey: From losing right arm to raising the tricolour on podiums](https://timesofindia.indiatimes.com/sports/more-sports/athletics/dilip-gavits-inspirational-journey-from-losing-his-right-arm-at-five-after-a-tree-fall-to-raising-the-tricolour-on-podiums/articleshow/133927406.cms)
-- [Putin meeting PM Modi on Friday; energy, defence high on agenda](https://timesofindia.indiatimes.com/india/putin-meeting-pm-modi-on-friday-energy-defence-high-on-agenda/articleshow/133947514.cms)
+- [Manu Bhaker suffers another personal loss; grandmother passes away in Rohtak](https://timesofindia.indiatimes.com/sports/more-sports/shooting/manu-bhaker-suffers-another-personal-loss-grandmother-daya-kaur-passes-away-in-rohtak/articleshow/133948487.cms)
+- [Oil inches closer to $100 per barrel as Iran strikes US targets in Jordan](https://timesofindia.indiatimes.com/business/international-business/oil-inches-closer-to-100-per-barrel-as-iran-strikes-us-targets-in-jordan/articleshow/133948682.cms)
 - [Uber's layoff memo also has a work from home message for remaining 29,000 employees](https://timesofindia.indiatimes.com/technology/tech-news/ubers-layoff-memo-also-has-a-work-from-home-message-for-the-remaining-29000-employees-were-establishing-clearer-principles-for-where-roles-and-teams-should-/articleshow/133916866.cms)
-- [BJP got Rs 1,473 crore to fight Bengal, Assam, 3 other assembly polls](https://timesofindia.indiatimes.com/india/bjp-got-rs-1473-crore-to-fight-bengal-assam-3-other-assembly-polls/articleshow/133945783.cms)
-- [On Putin's agenda, sale of 5th-generation jets to India](https://timesofindia.indiatimes.com/defence/news/on-putins-agenda-sale-of-5th-generation-jets-to-india/articleshow/133943532.cms)
-- [Over 600 flights cancelled as air traffic control glitch disrupts UK airports](https://timesofindia.indiatimes.com/world/europe/nearly-300-flights-cancelled-across-uk-after-air-traffic-control-glitch-major-airports-hit/articleshow/133932658.cms)
+- [Over 1,000 flights cancelled as air traffic control glitch disrupts UK airports](https://timesofindia.indiatimes.com/world/europe/nearly-300-flights-cancelled-across-uk-after-air-traffic-control-glitch-major-airports-hit/articleshow/133932658.cms)
+- [Building collapses to fires, 33k died in 5 years from 2020](https://timesofindia.indiatimes.com/india/building-collapses-to-fires-33k-died-in-5-years-from-2020/articleshow/133947009.cms)
 - [Apple iPhone 18 Pro, Ultra launch on September 9: Expected specifications, price](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-iphone-ultra-to-launch-on-september-9-likely-specifications-and-price/articleshow/133909359.cms)
+- [Putin meeting PM Modi on Friday; energy, defence high on agenda](https://timesofindia.indiatimes.com/india/putin-meeting-pm-modi-on-friday-energy-defence-high-on-agenda/articleshow/133947514.cms)
 
 **NDTV**
 - [Iran Says It Struck US Base In Jordan After Kharg Island Attacks](https://www.ndtv.com/world-news/iran-says-it-struck-us-base-in-jordan-after-kharg-island-attacks-12020718#publisher=newsstand)
@@ -41,13 +41,13 @@
 - [Delhi building collapse LIVE: Demolition of structure next to collapsed PG begins; contractor held in Satya Niketan](https://www.hindustantimes.com/india-news/delhi-building-collapse-live-updates-pg-satya-niketan-cm-rekha-gupta-hariram-high-court-students-dead-supreme-court-toll-101788915168857.html)
 - [Renewed focus on economic reforms, ‘naraz fufa’ dig at Rahul Gandhi: PM Modi spends day in Gujarat, Maharashtra](https://www.hindustantimes.com/india-news/renewed-focus-on-economic-reforms-naraz-fufa-dig-at-rahul-gandhi-pm-modi-spends-day-in-gujarat-maharashtra-101788914674036.html)
 - [Anganwadis across UP were in disarray under previous govt, says Yogi; hikes honorarium for workers](https://www.hindustantimes.com/india-news/anganwadis-across-up-were-in-disarray-under-previous-govt-says-yogi-hikes-honorarium-for-workers-101788892816802.html)
+- ['No one should have to face this': Manipur musician's killing sparks concerns among Northeastern residents in Delhi](https://www.hindustantimes.com/india-news/manipur-musician-vikram-singh-chongtham-killing-sparks-concerns-among-northeastern-residents-in-delhi-101788892039328.html)
 - [India's cleanest city Indore loses top spot in clean air survey by 1 point; mayor blames PM10 for slip](https://www.hindustantimes.com/india-news/indias-cleanest-city-indore-loses-top-spot-in-clean-air-survey-by-1-point-mayor-blames-pm10-vehicle-pollution-for-slip-101788885792027.html)
 - ['Don't send your children to Delhi to study': Father's appeal to parents after losing son in Satya Niketan tragedy](https://www.hindustantimes.com/india-news/dont-send-your-children-to-delhi-to-study-fathers-appeal-to-parents-after-losing-son-in-satya-niketan-tragedy-101788884449144.html)
 - [Rahul Gandhi's Delhi-Lucknow flight makes go-around due to weather, lands safely later: Report](https://www.hindustantimes.com/india-news/rahul-gandhi-delhi-lucknow-flight-makes-go-around-due-to-weather-lands-safely-later-report-101788887688783.html)
 - [‘Channi has assured his full support to  Congress’ poll efforts’: Sachin Pilot](https://www.hindustantimes.com/india-news/channi-has-assured-his-full-support-to-the-congress-poll-efforts-sachin-pilot-101788887455619.html)
 - [PM Modi says UPI now live in 11 countries, pushes for further global reach](https://www.hindustantimes.com/india-news/pm-modi-says-upi-now-live-in-11-countries-pushes-for-further-global-reach-101788885696468.html)
 - [Former Delhi chief secretary Rakesh Mehta died by suicide due to health reasons: Police](https://www.hindustantimes.com/india-news/former-delhi-chief-secretary-rakesh-mehta-dies-by-suicide-noida-health-reasons-officials-101788886477144.html)
-- [India, China military commanders hold rare border talks in Arunachal sector](https://www.hindustantimes.com/india-news/india-china-military-commanders-hold-rare-border-talks-in-arunachal-sector-101788885955110.html)
 
 **Vijay Karnataka**
 - [ಪಿಎಂ ಕಿಸಾನ್ ಯೋಜನೆಯ ಪ್ರೋತ್ಸಾಹಧನಕ್ಕೆ ಇ-ಕೆವೈಸಿ ಕಡ್ಡಾಯ: ಮಂಡ್ಯದಲ್ಲಿ 1 ವರ್ಷದಲ್ಲಿ 94742 ರೈತರಿಗೆ ಯೋಜನೆ ಸ್ಥಗಿತ, ಕೆವೈಸಿ ಮಾಡುವುದು ಹೇಗೆ ಗೊತ್ತಾ?](https://vijaykarnataka.com/news/mandya/kyc-compulsory-to-get-incentive-of-pm-kisan-scheme-in-mandya-94742-benificiaries-name-deleted-in-1-year-do-you-know-how-to-do-kyc/articleshow/133948032.cms)
@@ -57,11 +57,13 @@
 - [ಮಂಗಳೂರು ಸಂಪುಟ ಸಭೆ: ಕರಾವಳಿಯ ಕೃಷಿಗೆ ಪ್ರತ್ಯೇಕ ನೀತಿ ಘೋಷಿಸುವಂತೆ ಸರ್ಕಾರಕ್ಕೆ ರೈತರ ಡಿಮ್ಯಾಂಡ್!](https://vijaykarnataka.com/news/mangaluru/deamnd-for-exclusive-policy-for-coastal-agriculture-farmers-to-government-ahead-of-mangaluru-cabinet-meeting-on-sep-18/articleshow/133946705.cms)
 - [Photos: ಅಮ್ಮ ಚಂದ್ರಲೇಖ ಹುಟ್ಟುಹಬ್ಬವನ್ನ ಭರ್ಜರಿಯಾಗಿ ಆಚರಿಸಿದ ಪ್ರಜ್ವಲ್ ದೇವರಾಜ್ ಮತ್ತು ಫ್ಯಾಮಿಲಿ!](https://vijaykarnataka.com/vk-gallery/cinema/devaraj-wife-chandralekha-birthday-celebration-prajwal-devaraj-and-ragini-chandran/photoshow/133947879.cms)
 - [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
-- [ವಿವಾಹ ಸಂಬಂಧಿತ ಸಮಸ್ಯೆಗಳಿಗೆ ಮಾಡಬಹುದಾದ 5 ಪೂಜೆಗಳಿವು.!](https://vijaykarnataka.com/religion/pooja-vidhana/these-pujas-are-remove-all-marriage-related-problems/articleshow/133928367.cms)
+- [ಗಾಯತ್ರಿ ಮಂತ್ರದ ನಿತ್ಯ ಪಠಣದಿಂದ ಸಿಗುವ ಪ್ರಯೋಜನಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/benefits-of-chanting-gayatri-mantra-daily/articleshow/133948473.cms)
 - [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
 - [ರಾಜ್ಯದ 5 IAS ಅಧಿಕಾರಿಗಳು, 8 ಕಾರ್ಯದರ್ಶಿಗಳ ವರ್ಗಾವಣೆ! ಮೆಸ್ಕಾಂ - ಸೆಸ್ಕಾಂ MDಗಳು, 1 ಜಿಲ್ಲಾ ಪಂಚಾಯತಿ CEO ಬದಲಾವಣೆ](https://vijaykarnataka.com/news/karnataka/transfer-of-5-ias-officers-8-secretaries-in-karnataka-government-orders-changes-for-mescom-cescom-md-vijayanagar-ceo/articleshow/133931265.cms)
 
 **The Hindu**
+- [SP-RLD row over chavanni flips open caste fault lines ahead of U.P. poll](https://www.thehindu.com/news/national/uttar-pradesh/sp-rld-row-overchavanniflips-open-caste-fault-lines-ahead-of-up-poll/article71444316.ece)
+- [Nainital Police register FIR against ‘unknown persons’ for performing ‘purification’ of Mallikarjun Kharge’s rally venue](https://www.thehindu.com/news/national/uttarakhand/nainital-police-register-fir-against-unknown-persons-for-performing-purification-of-mallikarjun-kharges-rally-venue/article71444299.ece)
 - [Punjab leaders have assured me of working collectively under Rahul and Kharge’s leadership: Sachin Pilot](https://www.thehindu.com/news/national/punjab-leaders-have-assured-me-of-working-collectively-under-rahul-ji-and-kharge-jis-leadership-says-sachin-pilot/article71443546.ece)
 - [VIT Chennai, The Hindu to hold conclave on the future of biotechnology on Sept. 11](https://www.thehindu.com/news/national/tamil-nadu/vit-chennai-the-hindu-to-hold-conclave-on-the-future-of-biotechnology-on-sept-11/article71443627.ece)
 - [J&K CM Omar Abdullah watches ‘Mirzapur’ at Srinagar’s only functional multiplex to flip cinema culture](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cm-omar-abdullah-watches-mirzapur-at-srinagars-only-functional-multiplexto-flip-cinema-culture/article71444177.ece)
@@ -70,10 +72,9 @@
 - [On Sheikh Abdullah’s 44th death anniversary, NC reclaims his political legacy through archival videos](https://www.thehindu.com/news/national/jammu-and-kashmir/on-sheikh-abdullahs-44thdeath-anniversary-nc-reclaims-his-political-legacy-through-archival-videos/article71443791.ece)
 - [Odisha’s rural work does not have adequate photographic evidence, says a draft audit report](https://www.thehindu.com/news/national/odisha/odishas-rural-work-does-not-have-adequate-photographic-evidence-says-a-draft-audit-report/article71443035.ece)
 - [Probe ordered into police action against protesting Bhopal intern doctors](https://www.thehindu.com/news/national/madhya-pradesh/probe-ordered-after-water-cannon-alleged-lathicharge-at-protesting-intern-doctors-in-bhopal/article71444057.ece)
-- [Chlorine gas leak at water filtration plant in Madhya Pradesh’s Sehore; four people hospitalised](https://www.thehindu.com/news/national/madhya-pradesh/chlorine-gas-leak-at-a-sehore-water-filtration-plant/article71444504.ece)
-- [Andhra Pradesh rain forecast: showers from September 12 after a near 60% deficit](https://www.thehindu.com/news/national/andhra-pradesh/relief-from-heat-for-andhra-pradesh-likely-as-low-pressure-brews-over-bay-of-bengal/article71443507.ece)
 
 **Livemint**
+- [Petrol and diesel prices today, Sept 9: How much does fuel cost in Delhi, Mumbai, Bengaluru? Check here](https://www.livemint.com/news/india/petrol-and-diesel-prices-today-sept-9-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-check-here-11788915224786.html)
 - [US-Iran war LIVE Updates: Iran says it struck US base in Jordan, multiple missiles launched towards hostile US targets](https://www.livemint.com/news/us-news/usiran-war-live-updates-us-base-jordan-iranian-tankers-multiple-missiles-launched-strait-of-hormuz-trump-rubio-houthis-11788916382737.html)
 - [US Hit Targets Near Iran’s Kharg Island, Fox News Says](https://www.livemint.com/news/us-news/us-hit-targets-near-iran-s-kharg-island-fox-news-says-11788915838116.html)
 - [US strikes Iranian tankers after attempted missile attacks on its Navy warship: Report](https://www.livemint.com/news/world/iran-claims-us-missile-hit-tanker-near-kharg-island-irgc-says-mq-1-drone-downed-over-strait-of-hormuz-11788898120584.html)
@@ -83,7 +84,6 @@
 - [Earthquake hits Tibet again: Magnitude 5.3 this time at a depth of 35 km; Nepal feels tremor](https://www.livemint.com/news/world/earthquake-hits-tibet-again-magnitude-5-3-this-time-at-a-depth-of-35-km-nepal-feels-tremor-11788889363182.html)
 - [Former Delhi chief secretary Rakesh Mehta dies by suicide at Noida residence](https://www.livemint.com/news/india/former-delhi-chief-secretary-rakesh-mehta-dies-by-suicide-at-noida-residence-11788886048129.html)
 - [‘No forms, no questions—just come’: Good Samaritan’s offer to displaced students after Satya Niketan building collapse](https://www.livemint.com/news/india/no-forms-no-questions-just-come-good-samaritan-s-offer-to-displaced-students-after-satya-niketan-building-collapse-11788887816594.html)
-- [Trump, Putin hold hour-long phone call on Ukraine war; US seeks to revive stalled peace talks](https://www.livemint.com/news/us-news/trump-putin-hold-hour-long-phone-call-on-ukraine-war-us-seeks-to-revive-stalled-peace-talks-11788882716964.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -110,35 +110,35 @@
 - [ಅಲ್ ಖೈರ್ ಇಸ್ಲಾಮಿಕ್ ಇಂಗ್ಲಿಷ್ ಮೀಡಿಯಂ ಶಾಲೆಯಲ್ಲಿ ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ](https://www.varthabharati.in/DakshinaKannada/--2273854)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Delhi (7.4)
 - Emkay Global Financial (5.0)
+- Jordan (4.2)
 - PM Modi (4.0)
-- Delhi (3.5)
 - Iranian (3.2)
+- Iran (3.2)
 - Satya Niketan (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
-- Jordan (2.9)
-- Putin (2.6)
-- India (2.6)
-- September (2.6)
 - Report (2.6)
+- Sept (2.6)
 - Sachin Pilot (2.0)
 - Former Delhi (2.0)
 - Rakesh Mehta (2.0)
+- Buy Bajaj Finance (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ഇറാനും യുഎസിനുമെതിരേ മുന്നറിയിപ്പുമായി യുഎൻ മനുഷ്യാവകാശ കമ്മീഷണർ](https://www.metrovaartha.com/news/world/i7xyijs49p)
-- [Apple’s $2,000-plus foldable iPhone was a decade in the making](https://economictimes.indiatimes.com/industry/cons-products/electronics/apples-2000-plus-foldable-iphone-was-a-decade-in-the-making/articleshow/133927553.cms?from=mdr)
-- [Babar Azam breaks silence on PCB sending 7 players back and launching inquiry: ‘I was not consulted’](https://www.hindustantimes.com/cricket/babar-azam-breaks-silence-on-pcb-sending-7-players-back-and-launching-inquiry-i-was-not-consulted-101788873195979.html)
-- [Uttam Kumar’s birth centenary coin | মহানায়ক উত্তম কুমারের জন্ম শতবর্ষে বিশেষ সম্মান! ১০০ টাকার রুপোর স্মারক কয়েন আনছে কেন্দ্র](https://uttarbangasambad.com/uttam-kumars-birth-centenary-coin-centre-to-issue-rs-100-commemorative-coin-uttam-kumar-birth-centenary/)
-- [Duleep Trophy final: Tilak shows grit but East Zone edge closer](https://www.cricbuzz.com/cricket-news/140107/duleep-trophy-final-tilak-shows-grit-but-east-zone-edge-closer)
-- [Gold price today: সোনার বাজারে বিরাট ধামাকা! এক ধাক্কায় অনেকটাই কমে গেল দাম! জানুন আজকের রেকর্ড দর](https://bengali.indianexpress.com/west-bengal/gold-price-today-8-september-2026-india-gold-rate-24k-22k-18k-12505660)
-- [மதுராந்தகம், தாராபுரம் இடைத்தேர்தல்: மும்முனைப் போட்டியில் வெற்றிக்கனியை ருசிக்கப் போவது யார்?](https://www.etvbharat.com/ta/state/madhurantakam-dharapuram-by-elections-who-will-win-the-three-way-contest-tns26090805708)
-- [Gold, silver slip as oil spike keeps Fed-hike trade alive - Kitco AM Report](https://www.kitco.com/news/article/2026-09-08/gold-silver-slip-oil-spike-keeps-fed-hike-trade-alive-kitco-am-report)
-- [ब्रिटेन ने इजरायल को दिया बड़ा झटका, वेस्ट बैंक उत्पादों पर प्रतिबंध लगाया, कनाडा और फ्रांस भी कतार में](https://navbharattimes.indiatimes.com/world/britain/uk-france-canada-bans-goods-from-israeli-settlements-in-west-bank-accuses-ethnic-cleansing/articleshow/133927083.cms)
-- [PM મોદીએ વડોદરાથી WDFCના અંતિમ ત્રણ સેક્શનનું લોકાર્પણ કર્યું, JNPTથી દિલ્હી-NCR સુધી માલગાડી કનેક્ટિવિટી ઝડપી બનશે](https://www.gujaratsamachar.com/news/baroda/pm-modi-inaugurates-last-three-sections-of-wdfc-from-vadodara-freight-connectivity-from-jnpt-to-delhi-ncr-will-be-faster-78743434134)
+- [முன்கூட்டியே ரூ.2,000 கோடி அனுமதி: எ.வ.வேலு மீது அமைச்சர் ஆதவ் புகார்](https://www.dinamalar.com/news/tamil-nadu-news/pre-approval-of-rs-2000-crores-minister-aadav-complains/4317590)
+- [BiggBoss Telugu 10: బిగ్‌బాస్‌లో అడుగుపెట్టిన ఆ ముగ్గురి ఫ్రెండ్స్ కోసం హైపర్ ఆది స్పెషల్ సపోర్ట్](https://telugu.asianetnews.com/gallery/entertainment/hyper-aadi-special-support-for-the-three-friends-who-entered-bigg-boss-telugu-10-zuzmrcw)
+- [નવા લેબર કોડમાં બોનસ અંગે મોટી જાહેરાત, 21 હજાર સુધી પગાર હશે તો શરતોને આધીન ફરજિયાત બોનસ મળશે](https://www.gujaratsamachar.com/news/national/big-announcement-regarding-bonus-in-new-labor-code-if-salary-is-up-to-21-thousand-then-mandatory-bonus-will-be-given-49321962015)
+- [નવસારી ‘નમો કમલમ’ના ઉદ્ધાટનમાં PM મોદીએ સી.આર પાટીલને ભાઈ કહી કરી આ મોટી વાત](https://gujarati.abplive.com/news/gujarat/inauguration-of-navsari-namo-kamalam-pm-modi-called-cr-patil-his-brother-and-give-big-statement-990730)
+- [બંગાળની ખાડીમાં નવું લો પ્રેશર બનતા ફરી વધશે વરસાદનું જોર, તો ગુજરાતમાં 12 તારીખથી વરસાદની આગાહી](https://www.gujaratsamachar.com/news/national/as-a-new-low-pressure-forms-in-the-bay-of-bengal-the-intensity-of-rain-will-increase-again-so-rain-is-predicted-in-gujarat-from-the-12th-26153469557)
+- [Gold trades lower despite weaker US Dollar as Fed hike bets weigh](https://www.fxstreet.com/news/gold-reverses-early-gains-as-us-dollar-rebounds-oil-prices-rise-202609081126)
+- [UP, बिहार समेत कई राज्यों में भारी बारिश का अलर्ट, लौट रहा है नया मानसूनी सिस्टम](https://www.jagran.com/news/national-imd-issues-heavy-rain-alert-in-many-states-delhi-up-bihar-new-monsoon-system-40366633.html)
+- [गौरव भाटिया ने दिपके समेत 3 नेताओं पर किया 2 करोड़ की मानहानि का मुकदमा, लगाया छवि खराब करने का आरोप](https://www.aajtak.in/india/news/story/gaurav-bhatia-files-defamation-case-against-cjp-leaders-delhi-high-court-ntc-ntyv-rpti-2638973-2026-09-08)
+- [ഇന്നും വൈദ്യുതി നിയന്ത്രണമുണ്ടാകുമെന്ന് കെഎസ്ഇബി മുന്നറിയിപ്പ്; വൈകിട്ട് 6.30നും രാത്രി 12.30 യ്ക്കും ഇടയിൽ](https://www.asianetnews.com/kerala-news/kseb-warns-of-power-restrictions-today-as-well-articleshow-a0624me)
+- [Senior Advocate Gaurav Bhatia Files Defamation Suit Against CJP's Saurav Das, Abhijit Dipke Before Delhi High Court](https://www.livelaw.in/high-court/delhi-high-court/senior-advocate-gaurav-bhatia-files-defamation-suit-against-cjps-saurav-das-abhijit-dipke-before-delhi-high-court-549201)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
