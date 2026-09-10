@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-10 00:40:03
+# India Trending Report — 2026-09-10 01:02:39
 
 ## Google Trends (India) — top trending searches
-1. [वर्षा](https://trends.google.com/trending/rss?geo=IN)
-2. [chicago vs inter miami](https://trends.google.com/trending/rss?geo=IN)
-3. [పెట్రోల్](https://trends.google.com/trending/rss?geo=IN)
-4. [atlanta united vs orlando city](https://trends.google.com/trending/rss?geo=IN)
-5. [delhi police](https://trends.google.com/trending/rss?geo=IN)
-6. [समाचार खबरें](https://trends.google.com/trending/rss?geo=IN)
-7. [botic van de zandschulp](https://trends.google.com/trending/rss?geo=IN)
-8. [oppo a7](https://trends.google.com/trending/rss?geo=IN)
-9. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
-10. [santos vs atlético mineiro](https://trends.google.com/trending/rss?geo=IN)
+1. [nfl](https://trends.google.com/trending/rss?geo=IN)
+2. [montréal vs charlotte](https://trends.google.com/trending/rss?geo=IN)
+3. [मुद्रा](https://trends.google.com/trending/rss?geo=IN)
+4. [जमा](https://trends.google.com/trending/rss?geo=IN)
+5. [वर्षा](https://trends.google.com/trending/rss?geo=IN)
+6. [alexander zverev](https://trends.google.com/trending/rss?geo=IN)
+7. [കാവ്യ മാധവന്](https://trends.google.com/trending/rss?geo=IN)
+8. [chicago vs inter miami](https://trends.google.com/trending/rss?geo=IN)
+9. [పెట్రోల్](https://trends.google.com/trending/rss?geo=IN)
+10. [atlanta united vs orlando city](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Zelenskyy's plane nearly hit by drone while taking off from Moldova](https://timesofindia.indiatimes.com/world/europe/zelenskyys-plane-nearly-hit-by-drone-while-taking-off-from-moldova-norway-pm/articleshow/133983144.cms)
 - [Apple's 1st foldable phone launched: Specifications, features & price in India of iPhone Duo](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-duo-launched-specifications-features-and-price/articleshow/133980600.cms)
 - [West Asia conflict likely hindrance to cementing Brics declaration](https://timesofindia.indiatimes.com/india/west-asia-conflict-likely-hindrance-to-cementing-brics-declaration/articleshow/133988816.cms)
-- [Pegula vs Navarro: The $15 billion 'battle' that dwarfed Djokovic, Federer and Nadal's wealth](https://timesofindia.indiatimes.com/sports/tennis/top-stories/a-15-billion-tennis-match-how-pegula-and-navarro-turned-a-us-open-clash-into-a-battle-of-the-billionaires-that-dwarfed-djokovic-federer-and-nadals-combined-wealth/articleshow/133974795.cms)
+- ['A ball won't kill you, but bullets can': Rashid Khan on childhood in Afghanistan](https://timesofindia.indiatimes.com/sports/cricket/news/a-ball-wont-kill-you-but-bullets-can-rashid-khan-opens-up-on-his-childhood-in-war-torn-afghanistan/articleshow/133963684.cms)
 - [Creating a multi-layered security grid in Delhi, one Brics at a time](https://timesofindia.indiatimes.com/india/creating-a-multi-layered-security-grid-in-delhi-one-brics-at-a-time/articleshow/133987755.cms)
 - [Apple iPhone 18 Pro and iPhone 18 Pro Max launched: Price in India and all details](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-and-iphone-18-pro-max-launched-at-surprise-and-shine-event-price-in-india-specifications-features-and-all-you-need-to-know/articleshow/133979340.cms)
 - ['They're desperate to affect election': Trump declares Iran war will end after midterms](https://timesofindia.indiatimes.com/world/us/theyre-desperate-to-affect-election-trump-declares-iran-war-will-end-after-us-midterms/articleshow/133982252.cms)
 - ['Rahul mian' can't grasp Vande importance: Nitin Nabin](https://timesofindia.indiatimes.com/india/rahul-mian-cant-grasp-vande-importance-nitin-nabin/articleshow/133984692.cms)
-- [Brics to kick off with talks to boost multilateralism](https://timesofindia.indiatimes.com/india/brics-to-kick-off-with-talks-to-boost-multilateralism/articleshow/133985269.cms)
+- [Pegula vs Navarro: The $15 billion 'battle' that dwarfed Djokovic, Federer and Nadal's wealth](https://timesofindia.indiatimes.com/sports/tennis/top-stories/a-15-billion-tennis-match-how-pegula-and-navarro-turned-a-us-open-clash-into-a-battle-of-the-billionaires-that-dwarfed-djokovic-federer-and-nadals-combined-wealth/articleshow/133974795.cms)
 - [1980s AI photo trend: 11 ChatGPT prompts to turn photos into retro Bollywood looks](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-11-chatgpt-prompts-to-turn-your-photos-into-retro-bollywood-looks/articleshow/133961562.cms)
 
 **NDTV**
@@ -39,6 +39,7 @@
 
 **Hindustan Times**
 - [Scaffolding collapses at under-construction complex in Gujarat's Gandhinagar; 12 workers rescued, 10 still trapped](https://www.hindustantimes.com/india-news/scaffolding-collapses-at-under-construction-complex-in-gujarat-gandhinagar-12-workers-rescued-10-still-trapped-101788977897797.html)
+- [Red Fort bomber Umar Un Nabi used shoe-triggered IED: NIA probe rules out accidental explosion](https://www.hindustantimes.com/india-news/red-fort-bomber-umar-un-nabi-used-shoe-triggered-ied-nia-probe-rules-out-accidental-explosion-delhi-101788978374581.html)
 - [iPhone 18 India prices: Pro starts at  ₹1,64,900; Pro Max priced from  ₹1,79,900](https://www.hindustantimes.com/india-news/iphone-18-india-prices-revealed-pro-starts-at-rs-1-64-900-pro-max-priced-from-rs-179900-101788754308434.html)
 - [US suspends Cognizant's green card filings: How will the move affect Indians?](https://www.hindustantimes.com/india-news/us-suspends-cognizants-green-card-filings-how-will-the-move-affect-indians-101788964618745.html)
 - [‘Ashamed of Mumbai-Goa Highway delays’: Nitin Gadkari at Porvorim corridor event](https://www.hindustantimes.com/india-news/ashamed-of-mumbai-goa-highway-delays-nitin-gadkari-at-porvorim-corridor-event-101788974474107.html)
@@ -47,7 +48,6 @@
 - [CCEA clears  ₹20,804 crore rail upgrade to ease congestion across 9 states](https://www.hindustantimes.com/india-news/cceaclears-20-804-crore-rail-upgrade-to-ease-congestion-across-9-states-101788969310550.html)
 - [Piyush Goyal to meet Russian counterpart Anton Alikhanov on Thursday](https://www.hindustantimes.com/india-news/piyush-goyal-to-meet-russian-counterpart-anton-alikhanov-on-thursday-101788967149886.html)
 - [BJP asks Gujarat Congress MLA to apologise for sitting during Vande Mataram](https://www.hindustantimes.com/india-news/bjp-asks-gujarat-congress-mla-to-apologise-for-sitting-during-vande-mataram-101788967030222.html)
-- [Shehzad Poonawalla hits back at Rhiya Ahir's ‘uncle’ jibe as Bigg Boss spat escalates: ‘Your IQ matches Rahul Gandhi’s’](https://www.hindustantimes.com/india-news/shehzad-poonawalla-hits-back-at-rhiya-ahirs-uncle-jibe-as-bigg-boss-spat-escalates-your-iq-matches-rahul-gandhis-101788959759285.html)
 
 **Vijay Karnataka**
 - [ಕೆ.ಜಿ.ರೋಡ್‌-ಪೆರ್ಡೂರು ರಸ್ತೆ ಸಂಚಾರ ಡೇಂಜರ್‌! ಅಪಘಾತಕ್ಕೆ ಕಾಯುತ್ತಿರೋ ತಿರುವು, ವಾಲಿದ ಮರದ ಸಮಸ್ಯೆ ಪರಿಹಾರಕ್ಕೆ ಸ್ಥಳೀಯರ ಆಕ್ರೋಶ](https://vijaykarnataka.com/news/udupi/perdoor-kg-road-dangerous-turns-fallen-trees-waiting-for-accidents-public-demand-to-slove-issue/articleshow/133988609.cms)
@@ -62,7 +62,7 @@
 - [ಮಿತಿಮೀರಿದ AI ದಾಸ್ಯ, ದಶಕದ ಅಂತ್ಯಕ್ಕೆ ಮಾನವಕುಲವೇ ವಿನಾಶ': ಹೊಸಚರ್ಚೆಗೆ ನಾಂದಿ ಹಾಡಿದ ಆಂಥ್ರೋಪಿಕ್ ಸಂಶೋಧಕ!](https://vijaykarnataka.com/news/world/anthropic-researcher-jacob-coxon-says-ai-could-kill-us-all-by-decade-end/articleshow/133980532.cms)
 
 **The Hindu**
-- [Teaching job aspirants protests in Prayagraj seeking recruitment](https://www.thehindu.com/news/national/uttar-pradesh/teaching-job-aspirants-protests-in-prayagraj-seeking-recruitment/article71448450.ece)
+- [Teaching job aspirants protest in Prayagraj seeking recruitment](https://www.thehindu.com/news/national/uttar-pradesh/teaching-job-aspirants-protests-in-prayagraj-seeking-recruitment/article71448450.ece)
 - [MPSC aspirant allegedly ends life in Pune, Abhijeet Dipke to visit family](https://www.thehindu.com/news/national/maharashtra/mpsc-aspirant-allegedly-ends-life-in-pune-abhijeet-dipke-to-visit-family/article71448697.ece)
 - [Concern grows over structures linked with Muslim community in wake of notices, demolition in Uttar Pradesh](https://www.thehindu.com/news/national/uttar-pradesh/concern-grows-over-structures-linked-with-muslim-community-in-wake-of-notices-demolition-in-uttar-pradesh/article71447863.ece)
 - [Punjab govt. employees call off their strike after assurance](https://www.thehindu.com/news/national/punjab/punjab-govt-employees-call-off-their-strike-after-assurance/article71447845.ece)
@@ -102,33 +102,33 @@
 ## Cross-source trending keywords (derived from headlines above)
 - India (4.2)
 - Phone (4.0)
-- Brics (3.9)
 - ChatGPT (3.9)
 - Trump (3.2)
 - Apple (2.9)
+- Brics (2.6)
 - Hubballi (2.6)
 - Pro Max (2.0)
-- Rahul Gandhi (2.0)
 - Delhi (1.9)
 - Iran (1.9)
-- Rahul (1.9)
 - iPhone (1.8)
+- Rahul (1.6)
 - Vande (1.6)
 - Russia (1.6)
+- Emergency (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [পরনে গেরুয়া, সঙ্গে সাধুসন্ত, যাদবপুরে শুভেন্দুর চ্যালেঞ্জ, 'শেকড় সহ উপড়ে ফেলব'](https://bangla.aajtak.in/kolkata/story/saffron-rally-in-jadavpur-suvendu-adhikari-leads-gerua-samman-march-sus-1448683-2026-09-09)
-- [દિલ્હીના લાલ કિલ્લા પાસે થયેલો બ્લાસ્ટ આત્મઘાતી હુમલો હતો, NIAની ચાર્જશીટમાં ઉમર નબી અંગે મોટો ખુલાસો](https://www.gujaratsamachar.com/news/national/the-blast-near-the-red-fort-was-a-attack-a-big-revelation-about-umar-nabi-in-the-nia-chargesheet-96792549219)
-- [मुख्यमंत्री शुभेंदु अधिकारी की पद यात्रा के बीच जादवपुर यूनिवर्सिटी का गेट बंद, CM बोले- उन्हें सबक सिखाऊंगा](https://www.aajtak.in/west-bengal/story/cm-suvendu-adhikari-gerua-samman-yatra-jadavpur-university-gate-closed-ntc-rlch-rpti-2639677-2026-09-09)
-- [US-ईरान युद्ध में दलाली करने वाले पाकिस्तान की हालत खस्ता, क्या बोले ख्वाजा आसिफ?](https://www.abplive.com/news/world/defence-minister-khawaja-asif-on-pakistan-tightrope-situation-amid-escalated-us-iran-tensions-in-west-asia-3186636)
-- [Tilak Misses Ton: ദുലീപ് ട്രോഫി ഫൈനൽ: തിലകിന് സെഞ്ചുറി നഷ്ടം, കിരീടമുറപ്പിച്ച് ഈസ്റ്റ് സോണ്‍](https://www.asianetnews.com/cricket-sports/duleep-trophy-final-tilak-misses-ton-on-99-kishan-shines-again-as-east-zone-near-title-articleshow-l0gk11a)
-- [Bigg Boss Telugu 10: బిగ్‌బాస్ 10లోకి యూట్యూబర్ నందన! హోస్ట్ నాగార్జునకు వార్నింగ్](https://tv9telugu.com/entertainment/tollywood/bigg-boss-telugu-10-conngress-leader-warns-reality-show-host-nagarjuna-over-nandana-wild-card-rumours-1907559.html)
-- [നെതന്യാഹു സര്‍ക്കാര്‍ ഇസ്രഈലിനെ ആഗോള ഒറ്റപ്പെടലിലേക്ക് നയിക്കുന്നുയാണെന്ന് പ്രതിപക്ഷം](https://www.doolnews.com/israeli-opposition-accuses-netanyahu-of-fuelling-diplomatic-isolation-after-uk-sanctions-63-173.html)
-- [दक्षिण अफ्रीकी बल्लेबाज ने 150 रन ठोककर रचा इतिहास, कर ली वर्ल्ड रिकॉर्ड की बराबरी! ODI डेब्यू में किया गजब का करिश्मा](https://www.aajtak.in/sports/cricket/story/jordan-hermann-creates-history-equals-world-record-for-highest-score-on-odi-debut-aksp-dskc-2639667-2026-09-09)
-- [വൈദ്യുതി നിയന്ത്രണം ഫീഡർ തലത്തിൽ മുൻകൂട്ടി അറിയിക്കാനുള്ള സംവിധാനം ഒരുക്കും ; നാളെ മുതൽ നിലവിൽ വരും: സണ്ണി ജോസഫ്](https://www.asianetnews.com/kerala-news/arrangements-will-be-made-to-announce-power-cuts-in-advance-it-will-come-into-effect-from-tomorrow-sunny-joseph-articleshow-6sx14v6)
-- [Hardik Pandya : ऑस्ट्रेलिया 'अ' मालिकेसाठी भारत 'अ' संघाची घोषणा : हार्दिक पांड्याची एकदिवसीय संघात निवड](https://www.prahaar.in/2026/09/09/hardik-pandya-included-in-india-a-squad-for-australia-a-one-day-series/)
+- [முதலமைச்சர் தனது பதிலுரையில் ரத்தீஷ் பற்றி கூறியது ஏன்? - அமைச்சர் நிர்மல்குமார் விளக்கம்](https://www.polimernews.com/politicsnews/why-did-the-chief-minister-mention-ratheesh-in-his-reply-minister-nirmal-kumar-explains-12511461)
+- [ஈரான் கச்சா எண்ணெய் கப்பல்கள் மீது அமெரிக்கா தாக்குதல்](https://www.dailythanthi.com/news/world/iran-kaccha-ennai-kappalgal-meethu-amerikkaa-thaakkuthal)
+- [तमिलनाडु में सीएम विजय की TVK गठबंधन को मिला नया नाम, 'सेक्युलर सोशल जस्टिस विक्ट्री अलायंस' पर सहमति](https://www.indiatv.in/india/politics/tamilnadu-vijay-tvk-alliance-name-secular-social-justice-victory-alliance-2026-09-09-1242260)
+- [Swine flu surges in India](https://www.gavi.org/vaccineswork/swine-flu-surges-india)
+- [CM विजय ने बनाया नया गठबंधन, कांग्रेस का ऐलान, दक्षिण की राजनीति में भूचाल?](https://www.abplive.com/news/india/tvk-alliance-named-secular-social-justice-victory-3186655)
+- [Telangana Assembly monsoon session Sept 9 highlights: House adjourned for the day; to meet on September 10](https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-live-updates-cm-revanth-reddy-brs-mlas-9-september-2026/article71445902.ece)
+- [અમદાવાદ: રિક્ષા હડતાળ વચ્ચે મેટ્રોમાં રેકોર્ડબ્રેક ધસારો, 7 સપ્ટેમ્બરે 2.24 લાખથી વધુ મુસાફરોએ કરી સવારી](https://www.gujaratsamachar.com/news/ahmedabad/metro-rail-record-passenger-ridership-over-rickshaw-strike-in-ahmedabad-10131005251)
+- [फिलीपींस के रक्षा मंत्री बातचीत के बीच में पर्चा पकड़ाए जाने को लेकर चीन पर क्यों बरसे](https://www.bbc.com/hindi/articles/c07lpjez5xmo)
+- [રાજકોટ લોધિકા સંઘમાં ભાજપના મેન્ડેટનું સૂરસૂરિયું, જયેશ રાદડિયા જૂથનો શાનદાર વિજય](https://gujarati.abplive.com/news/rajkot/rajkot-lodhika-sangh-election-result-jayesh-radadiya-group-win-news-990798)
+- [Vijay-led TVK alliance officially named 'Secular Social Justice Victory Front'](https://timesofindia.indiatimes.com/india/vijay-led-tvk-alliance-officially-named-secular-social-justice-victory/articleshow/133969619.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
