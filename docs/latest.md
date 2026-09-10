@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-10 21:33:00
+# India Trending Report — 2026-09-10 22:01:53
 
 ## Google Trends (India) — top trending searches
-1. [x](https://trends.google.com/trending/rss?geo=IN)
-2. [weather chennai](https://trends.google.com/trending/rss?geo=IN)
-3. [skip](https://trends.google.com/trending/rss?geo=IN)
-4. [maps](https://trends.google.com/trending/rss?geo=IN)
-5. [binance buy crypto](https://trends.google.com/trending/rss?geo=IN)
-6. [nico paz](https://trends.google.com/trending/rss?geo=IN)
-7. [after](https://trends.google.com/trending/rss?geo=IN)
-8. [matheus cunha](https://trends.google.com/trending/rss?geo=IN)
-9. [no](https://trends.google.com/trending/rss?geo=IN)
+1. [como 1907 vs rb leipzig standings](https://trends.google.com/trending/rss?geo=IN)
+2. [ssc cpo notification 2026](https://trends.google.com/trending/rss?geo=IN)
+3. [alphonso davies](https://trends.google.com/trending/rss?geo=IN)
+4. [x](https://trends.google.com/trending/rss?geo=IN)
+5. [manchester united f.c. vs sabah fk standings](https://trends.google.com/trending/rss?geo=IN)
+6. [skip](https://trends.google.com/trending/rss?geo=IN)
+7. [maps](https://trends.google.com/trending/rss?geo=IN)
+8. [after](https://trends.google.com/trending/rss?geo=IN)
+9. [matheus cunha](https://trends.google.com/trending/rss?geo=IN)
 10. [leny yoro](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Putin arrives in India ahead of Brics Summit 2026, to meet PM Modi](https://timesofindia.indiatimes.com/india/russia-president-vladimir-putin-arrives-in-india-ahead-of-brics-summit-2026-to-meet-pm-modi/articleshow/134031374.cms)
 - [Houthis seize Yemen's strategic Red Sea port city of Mokha from Saudi-backed forces](https://timesofindia.indiatimes.com/world/middle-east/houthis-seize-yemens-strategic-red-sea-port-city-of-mokha-from-saudi-backed-forces/articleshow/134025249.cms)
-- [Deadly plot by ‘killer bahu’: Kanpur bizman sensed danger, but ended up with 26 stab wounds](https://timesofindia.indiatimes.com/city/kanpur/killer-bahus-deadly-game-kanpur-bizmen-sensed-danger-but-ended-up-with-26-stab-wounds-and-a-slit-throat/articleshow/134011762.cms)
-- [Lavrov arrives in India ahead of Brics Summit; Putin to arrive shortly](https://timesofindia.indiatimes.com/india/brics-summit-2026-pm-modi-says-all-set-putin-to-arrive-in-few-hours-top-developments/articleshow/134015100.cms)
+- ['It was for Bimstec chair, not PM': Dhaka declines Brics invite](https://timesofindia.indiatimes.com/world/south-asia/dhaka-declines-brics-invite-it-was-for-bimstec-chair-not-pm/articleshow/134030758.cms)
 - [Why iPhones are so expensive in India again](https://timesofindia.indiatimes.com/technology/tech-news/why-iphones-are-so-expensive-in-india-again/articleshow/134014478.cms)
-- [Amid West Asia conflict, Iran president to meet PM Modi today](https://timesofindia.indiatimes.com/india/amid-west-asia-conflict-iran-president-to-meet-modi-today/articleshow/134030203.cms)
+- [Deadly plot by ‘killer bahu’: Kanpur bizman sensed danger, but ended up with 26 stab wounds](https://timesofindia.indiatimes.com/city/kanpur/killer-bahus-deadly-game-kanpur-bizmen-sensed-danger-but-ended-up-with-26-stab-wounds-and-a-slit-throat/articleshow/134011762.cms)
 - [1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-5-chatgpt-prompts-to-create-kerala-style-retro-images/articleshow/133999924.cms)
+- [Lavrov arrives in India ahead of Brics Summit; Putin to arrive shortly](https://timesofindia.indiatimes.com/india/brics-summit-2026-pm-modi-says-all-set-putin-to-arrive-in-few-hours-top-developments/articleshow/134015100.cms)
+- [Amid West Asia conflict, Iran president to meet PM Modi today](https://timesofindia.indiatimes.com/india/amid-west-asia-conflict-iran-president-to-meet-modi-today/articleshow/134030203.cms)
 - [Need social media firewalls, safeguards for minors: Supreme Court](https://timesofindia.indiatimes.com/india/need-social-media-firewalls-safeguards-for-minors-supreme-court/articleshow/134029505.cms)
-- [Wrong turn, DHS: My name is 'Singh' and I’m not a bad truck driver](https://timesofindia.indiatimes.com/world/us/wrong-turn-dhs-my-name-is-singh-and-im-not-a-bad-truck-driver/articleshow/134014675.cms)
-- [Lawyer Vijay Aggarwal, assistant appear in London court over sexual assault charges](https://timesofindia.indiatimes.com/world/uk/lawyer-vijay-aggarwal-and-assistant-manpreet-kaur-appear-in-london-court-over-sexual-assault-charges/articleshow/134028932.cms)
 - [22-year-old pleads guilty in US' biggest Bitcoin theft; spent millions on cars & more](https://timesofindia.indiatimes.com/technology/tech-news/22-year-old-school-dropout-pleads-guilty-in-americas-largest-bitcoin-robbery-posed-as-google-and-gemini-executives-spent-millions-on-sports-cars-night-clubs-and-mansions/articleshow/134008280.cms)
 
 **NDTV**
@@ -62,6 +62,7 @@
 - [ಮಲ್ಟಿಪ್ಲೆಕ್ಸ್ ಫಿಲಂ ಟೆಕೆಟ್‌ ಮೇಲಿನ ಸೆಸ್‌: ರಾಜ್ಯ ಸರಕಾರದ ಆದೇಶ ರದ್ದುಪಡಿಸಿದ ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್](https://vijaykarnataka.com/news/karnataka/cess-on-multiplex-film-ticket-karnataka-high-court-cancels-state-government-order/articleshow/134017440.cms)
 
 **The Hindu**
+- [Four-day Kashmir film festival sharpens spotlight on filmmakers’ destination, local storytellers](https://www.thehindu.com/news/national/jammu-and-kashmir/four-day-kashmir-film-festival-sharpens-spotlight-on-filmmakers-destination-local-storytellers/article71453064.ece)
 - [Under-construction bridge collapses in Bihar’s Vaishali, seven injured](https://www.thehindu.com/news/national/bihar/under-construction-bridge-collapses-in-bihars-vaishali-seven-injured/article71451810.ece)
 - [SC refuses to entertain PIL raising concerns over HPV vaccination campaign](https://www.thehindu.com/sci-tech/health/sc-refuses-to-entertain-pil-raising-concerns-over-hpv-vaccination-campaign/article71450584.ece)
 - [VIT Chennai – The Hindu Biotech Conclave to throw spotlight on opportunities shaping the future of life sciences](https://www.thehindu.com/education/vit-chennai-the-hindu-biotech-conclave-to-throw-spotlight-on-opportunities-shaping-the-future-of-life-sciences/article71452474.ece)
@@ -71,9 +72,10 @@
 - [1,071 out of 2,100 police stations in Tamil Nadu have been equipped to retain their CCTV footage for 18 months, T.N. DGP tells Madras High Court](https://www.thehindu.com/news/national/tamil-nadu/1071-out-of-2100-police-stations-in-tamil-nadu-have-been-equipped-to-retain-their-cctv-footage-for-18-months-tn-dgp-tells-madras-high-court/article71451842.ece)
 - [Ganesh celebrations from Sept. 14; immersion on Sept. 25](https://www.thehindu.com/news/cities/Hyderabad/ganesh-celebrations-from-sept-14-immersion-on-sept-25/article71452121.ece)
 - [Ganesh festival preparations stepped up in Hyderabad; police review traffic, immersion plans](https://www.thehindu.com/news/cities/Hyderabad/ganesh-festival-preparations-stepped-up-in-hyderabad-police-review-traffic-immersion-plans/article71452451.ece)
-- [Advocate Commissioners’ fees in SARFAESI cases must be proportionate to the work involved, rules Madras High Court](https://www.thehindu.com/news/national/tamil-nadu/advocate-commissioners-fees-in-sarfaesi-cases-must-be-proportionate-to-the-work-involved-rules-madras-high-court/article71452299.ece)
 
 **Livemint**
+- [Jimmy Kimmel moves James Talarico interview to YouTube, says FCC pressure kept it off ABC television](https://www.livemint.com/news/us-news/jimmy-kimmel-moves-james-talarico-interview-to-youtube-says-fcc-pressure-kept-it-off-abc-television-11789076663977.html)
+- [BRICS Summit 2026: Delhi airspace curbs tighten as flight restrictions begin – What it means for IGI passengers](https://www.livemint.com/news/india/brics-summit-2026-delhi-airspace-curbs-tighten-as-flight-restrictions-begin-what-it-means-for-igi-passengers-11789072322813.html)
 - [BRICS 2026: Delhi braces for traffic diversions from 2 pm to 8:30 pm tomorrow, check alternate routes, diversion points](https://www.livemint.com/news/india/brics-2026-delhi-braces-for-traffic-diversions-from-2-pm-to-8-30-pm-tomorrow-check-alternate-routes-diversion-points-11789059378504.html)
 - [H-1B visa issue: Trump administration proposes scrapping 60-day grace period, Indian techies to be affected](https://www.livemint.com/news/us-news/h1b-visa-issue-trump-administration-proposes-scrapping-60-day-grace-period-indian-techies-to-be-affected-11789064597291.html)
 - [Senator John Fetterman sparks Democratic Party backlash after appearance at Republican midterm convention](https://www.livemint.com/news/us-news/senator-john-fetterman-sparks-democratic-party-backlash-after-appearance-at-republican-midterm-convention-11789059560792.html)
@@ -82,8 +84,6 @@
 - [Oil crosses $105 a barrel as West Asia hostilities escalate](https://www.livemint.com/news/crude-oil-price-brent-crude-oil-prices-today-11789055228294.html)
 - [Goyal calls for push to boost India-Russia trade to $100 billion by 2030](https://www.livemint.com/news/goyal-calls-for-push-to-boost-india-russia-trade-to-100-billion-by-2030-export-11789048930438.html)
 - [Matcha vs coffee: India grows more curious about 800-year-old Japanese drink; Google searches surge up to 2,500%](https://www.livemint.com/news/trends/matcha-vs-coffee-india-grows-more-curious-about-800-year-old-japanese-drink-google-searches-surge-up-to-2500-11789057266593.html)
-- [Walmart recalls Great Value Organic Triple Berry Blend over potential E. coli contamination: What consumers should know](https://www.livemint.com/news/us-news/walmart-recalls-great-value-organic-triple-berry-blend-over-potential-e-coli-contamination-what-consumers-should-know-11789050403349.html)
-- [How retro 1980s AI photo ChatGPT trend triggered BJP vs Congress meme war - See pics of Modi, Rahul Gandhi, others](https://www.livemint.com/news/trends/how-retro-1980s-ai-photo-chatgpt-trend-triggered-bjp-vs-congress-meme-war-see-pics-of-modi-rahul-gandhi-others-11789051526755.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,16 +100,16 @@
 - [ದೇಶದ ಉನ್ನತ ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳಲ್ಲಿ ನಾಯಕತ್ವದ ಕೊರತೆ: 155 ರಾಷ್ಟ್ರೀಯ ಪ್ರಾಮುಖ್ಯತೆಯ ಸಂಸ್ಥೆಗಳ ಪೈಕಿ 37 ಕಡೆಗಳಲ್ಲಿ ಪ್ರಭಾರ ಮುಖ್ಯಸ್ಥರು](https://www.varthabharati.in/vishesha-varadigalu/37-of-155-institutions-of-national-importance-running-with-interim-acting-heads-2274372)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (5.2)
-- Delhi (3.2)
-- ChatGPT (2.6)
+- India (6.5)
+- Delhi (4.5)
+- BRICS (2.9)
+- Putin (2.6)
 - India-Russia (2.6)
-- BRICS (2.6)
 - Ganesh (2.6)
 - Sept (2.6)
-- Madras High Court (2.0)
-- Modi (1.6)
-- Singh' (1.6)
+- Brics Summit (2.0)
+- PM Modi (2.0)
+- Brics (1.9)
 - Building (1.6)
 - CCTV (1.6)
 - Goyal (1.6)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [एआई से इंसानियत के ख़त्म होने का कितना ख़तरा, एंथ्रोपिक के रिसर्चर ने यह बताया](https://www.bbc.com/hindi/articles/cjrx1z4d3ygo)
+- [Supreme Court seeks Centre's response on plea to ban minors from social media - ‘Need some safeguard’](https://www.livemint.com/news/india/supreme-court-seeks-centres-response-on-plea-to-ban-minors-from-social-media-need-some-safeguard-11789030181270.html)
+- [Trump Dividend: డొనాల్డ్ ట్రంప్ సంచలన హామీ.. రిపబ్లికన్లు గెలిస్తే ప్రతి అమెరికన్‌కు 5 వేల డాలర్లు](https://telugu.abplive.com/news/world/usa-president-donald-trump-promises-5000-dollars-trump-dividend-per-adult-if-republicans-win-congress-258581)
+- [Executive Magistrate Who Issued Notice To Student Over CJP Protest Suspended : Solicitor Tells Supreme Court](https://www.livelaw.in/top-stories/executive-magistrate-who-issued-notice-to-student-over-cjp-protest-suspended-solicitor-tells-supreme-court-549546)
+- [Delhi High Court Directs Nationwide Biometric Aadhaar Verification For GST Registrations](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-directs-nationwide-biometric-aadhaar-verification-for-gst-registrations-amid-fake-registration-concerns-549545)
+- [England vs Pakistan LIVE: Third Test, day two, Edgbaston](https://www.bbc.com/sport/cricket/live/cj94v3ly8j4t)
+- ['তোলাবাজ ভাইপোর একনম্বর কালেক্টর', সুমিতের গ্রেফতারি প্রসঙ্গে মুখ্যমন্ত্রী, খুশি সজল-সুকান্তরাও](https://www.thewall.in/west-bengal/suvendu-adhikari-on-sumit-roys-arrest-bjp-sajal-ghosh-sukanta-majumdar-statement/tid/204468)
+- [१९ गोल! भारतीय महिला हॉकी संघाने पाकिस्तानला लोळवलं, आशिया चषकाच्या उपांत्य फेरीत धडक](https://pudhari.news/sports/india-vs-pakistan-womens-junior-asia-cup-2026-semifinals-mk96)
+- ['പഴകിയ പാല്‍, ഐസ്‌ക്രീമില്‍ മുടിയും പ്രാണികളും'; കൊല്ലം ആർപി മാളിലെ തിയേറ്റര്‍ ഉടമയ്ക്ക് നോട്ടീസ്](https://www.reporterlive.com/topnews/kerala/2026/09/10/rp-mall-kollam-theatre-owner-notice-over-stale-milk-ice-cream-complaints)
 - [Bank Holidays: ఖాతాదారుల‌కు అల‌ర్ట్‌.. దేశ‌వ్యాప్తంగా వ‌రుస‌గా 4 రోజులు బ్యాంకులు బంద్‌](https://telugu.asianetnews.com/gallery/business/bank-holidays-banks-to-remain-closed-for-4-consecutive-days-across-india-check-important-dates-90840qz)
-- [ઈસ્ટ ઝોને 13 વર્ષ બાદ રચ્યો ઇતિહાસ, ઈશાન કિશનના નેતૃત્વમાં સાઉથ ઝોનને હરાવી દુલિપ ટ્રોફી જીતી](https://www.gujaratsamachar.com/news/sports/east-zone-created-history-after-13-years-won-the-duleep-trophy-by-defeating-south-zone-under-the-leadership-of-ishan-kishan-56829361953)
-- [एयरोस्पेस की तस्वीर बदल देगी भारत-रूस की दोस्ती... IL-114-300 पर हो सकती है डील](https://www.aajtak.in/defence-news/story/russia-eyes-major-regional-aircraft-push-in-india-il-114-300-deals-likely-at-innoprom-rptc-2640182-2026-09-10)
-- [পুজো হচ্ছে বাগবাজারে, কাটল জট, শুক্র থেকেই প্যান্ডেল নির্মাণ শুরু](https://bangla.aajtak.in/kolkata/story/bagbazar-sarbojanin-durga-puja-will-not-be-stopped-calcutta-high-court-gives-oder-pandal-will-start-from-friday-rpsg-1448988-2026-09-10)
-- [ईशान किशन की ईस्ट जोन ने जीता दलीप ट्रॉफी का खिताब, मैच ड्रॉ होने पर क्यों मिली ट्रॉफी?](https://www.abplive.com/sports/cricket/east-zone-won-duleep-trophy-2026-title-after-final-match-draw-against-south-zone-why-ishan-kishan-gets-trophy-3186986)
-- [కన్నీటి పర్యంతమైన బొత్స](https://telugu.gulte.com/political-news/154020/botsa-breaks-down-in-tears)
-- [WB Assembly:'ব্যাগ ঝুলিয়ে হোলটাইমার..,' বিধনাসভায় পেশ চর্চিত 'অধ্যাপক বদলি' বিল,বিরোধীরের শঙ্কায় হুঁশিয়ারি মুখ্যমন্ত্রীর](https://www.hindustantimes.com/bangla/bengal/west-bengal-cm-issues-a-stern-warning-from-the-assembly-271789029249715.html)
-- [বিবিসি বাংলা লাইভ: ভারতে ব্রিকস সম্মেলনে অংশ নিচ্ছেন না বাংলাদেশের প্রধানমন্ত্রী তারেক রহমান](https://www.bbc.com/bengali/live/cw7v413002ejt)
-- ["ഞങ്ങളുടെ റോഡുകളിൽ നിന്ന് ഇറങ്ങിപ്പോകൂ" യു.എസിൽ ഇന്ത്യക്കാർക്കെതിരേ പോസ്റ്റർ പ്രചാരണവുമായി ട്രംപ് ഭരണകൂടം](https://www.suprabhaatham.com/details/471397?link=trump-administration-launches-poster-campaign-against-indians)
-- [Suvendu Adhikari's 'strict medicine' warning to 'anti-national' sympathisers at Jadavpur university](https://timesofindia.indiatimes.com/india/suvendu-adhikaris-strict-medicine-warning-to-anti-national-sympathisers-at-jadavpur-university/articleshow/134000988.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
