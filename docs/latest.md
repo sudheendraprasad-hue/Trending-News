@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-10 00:03:02
+# India Trending Report — 2026-09-10 00:40:03
 
 ## Google Trends (India) — top trending searches
-1. [delhi police](https://trends.google.com/trending/rss?geo=IN)
-2. [समाचार खबरें](https://trends.google.com/trending/rss?geo=IN)
-3. [botic van de zandschulp](https://trends.google.com/trending/rss?geo=IN)
-4. [oppo a7](https://trends.google.com/trending/rss?geo=IN)
-5. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
-6. [santos vs atlético mineiro](https://trends.google.com/trending/rss?geo=IN)
-7. [1980s ai photo trend](https://trends.google.com/trending/rss?geo=IN)
-8. [liverpool f.c. vs atlético madrid standings](https://trends.google.com/trending/rss?geo=IN)
-9. [karen khachanov](https://trends.google.com/trending/rss?geo=IN)
-10. [mika godts](https://trends.google.com/trending/rss?geo=IN)
+1. [वर्षा](https://trends.google.com/trending/rss?geo=IN)
+2. [chicago vs inter miami](https://trends.google.com/trending/rss?geo=IN)
+3. [పెట్రోల్](https://trends.google.com/trending/rss?geo=IN)
+4. [atlanta united vs orlando city](https://trends.google.com/trending/rss?geo=IN)
+5. [delhi police](https://trends.google.com/trending/rss?geo=IN)
+6. [समाचार खबरें](https://trends.google.com/trending/rss?geo=IN)
+7. [botic van de zandschulp](https://trends.google.com/trending/rss?geo=IN)
+8. [oppo a7](https://trends.google.com/trending/rss?geo=IN)
+9. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
+10. [santos vs atlético mineiro](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Zelenskyy's plane nearly hit by drone while taking off from Moldova](https://timesofindia.indiatimes.com/world/europe/zelenskyys-plane-nearly-hit-by-drone-while-taking-off-from-moldova-norway-pm/articleshow/133983144.cms)
 - [Apple's 1st foldable phone launched: Specifications, features & price in India of iPhone Duo](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-duo-launched-specifications-features-and-price/articleshow/133980600.cms)
-- [Creating a multi-layered security grid in Delhi, one Brics at a time](https://timesofindia.indiatimes.com/india/creating-a-multi-layered-security-grid-in-delhi-one-brics-at-a-time/articleshow/133987755.cms)
+- [West Asia conflict likely hindrance to cementing Brics declaration](https://timesofindia.indiatimes.com/india/west-asia-conflict-likely-hindrance-to-cementing-brics-declaration/articleshow/133988816.cms)
 - [Pegula vs Navarro: The $15 billion 'battle' that dwarfed Djokovic, Federer and Nadal's wealth](https://timesofindia.indiatimes.com/sports/tennis/top-stories/a-15-billion-tennis-match-how-pegula-and-navarro-turned-a-us-open-clash-into-a-battle-of-the-billionaires-that-dwarfed-djokovic-federer-and-nadals-combined-wealth/articleshow/133974795.cms)
-- ['They're desperate to affect election': Trump declares Iran war will end after midterms](https://timesofindia.indiatimes.com/world/us/theyre-desperate-to-affect-election-trump-declares-iran-war-will-end-after-us-midterms/articleshow/133982252.cms)
+- [Creating a multi-layered security grid in Delhi, one Brics at a time](https://timesofindia.indiatimes.com/india/creating-a-multi-layered-security-grid-in-delhi-one-brics-at-a-time/articleshow/133987755.cms)
 - [Apple iPhone 18 Pro and iPhone 18 Pro Max launched: Price in India and all details](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-and-iphone-18-pro-max-launched-at-surprise-and-shine-event-price-in-india-specifications-features-and-all-you-need-to-know/articleshow/133979340.cms)
+- ['They're desperate to affect election': Trump declares Iran war will end after midterms](https://timesofindia.indiatimes.com/world/us/theyre-desperate-to-affect-election-trump-declares-iran-war-will-end-after-us-midterms/articleshow/133982252.cms)
 - ['Rahul mian' can't grasp Vande importance: Nitin Nabin](https://timesofindia.indiatimes.com/india/rahul-mian-cant-grasp-vande-importance-nitin-nabin/articleshow/133984692.cms)
 - [Brics to kick off with talks to boost multilateralism](https://timesofindia.indiatimes.com/india/brics-to-kick-off-with-talks-to-boost-multilateralism/articleshow/133985269.cms)
-- [SC reiterates call to CBSE to exempt Class VI from its 3-language policy](https://timesofindia.indiatimes.com/india/sc-reiterates-call-to-cbse-to-exempt-class-vi-from-its-3-language-policy/articleshow/133984276.cms)
 - [1980s AI photo trend: 11 ChatGPT prompts to turn photos into retro Bollywood looks](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-11-chatgpt-prompts-to-turn-your-photos-into-retro-bollywood-looks/articleshow/133961562.cms)
 
 **NDTV**
@@ -50,18 +50,19 @@
 - [Shehzad Poonawalla hits back at Rhiya Ahir's ‘uncle’ jibe as Bigg Boss spat escalates: ‘Your IQ matches Rahul Gandhi’s’](https://www.hindustantimes.com/india-news/shehzad-poonawalla-hits-back-at-rhiya-ahirs-uncle-jibe-as-bigg-boss-spat-escalates-your-iq-matches-rahul-gandhis-101788959759285.html)
 
 **Vijay Karnataka**
+- [ಕೆ.ಜಿ.ರೋಡ್‌-ಪೆರ್ಡೂರು ರಸ್ತೆ ಸಂಚಾರ ಡೇಂಜರ್‌! ಅಪಘಾತಕ್ಕೆ ಕಾಯುತ್ತಿರೋ ತಿರುವು, ವಾಲಿದ ಮರದ ಸಮಸ್ಯೆ ಪರಿಹಾರಕ್ಕೆ ಸ್ಥಳೀಯರ ಆಕ್ರೋಶ](https://vijaykarnataka.com/news/udupi/perdoor-kg-road-dangerous-turns-fallen-trees-waiting-for-accidents-public-demand-to-slove-issue/articleshow/133988609.cms)
+- [ಹಬ್ಬದ ಸೀಸನ್‌ನಲ್ಲಿ ಗ್ರಾಮೀಣ ಭಾಗಕ್ಕೂ ತಟ್ಟಿದ ತರಕಾರಿ ದರ ಏರಿಕೆ ಬಿಸಿ: 1 ತಿಂಗಳಲ್ಲೇ ದುಪ್ಪಟ್ಟಾಯ್ತು ಈರುಳ್ಳಿ ಬೆಲೆ, ಯಾವ ತರಕಾರಿಗೆ ಎಷ್ಟಿದೆ ರೇಟ್?](https://vijaykarnataka.com/news/mangaluru/vegetable-price-surge-during-festive-season-in-rural-areas-onion-prices-double-in-a-month-know-the-prices-details-here/articleshow/133988127.cms)
 - [ಸಚಿವ ಸಂಪುಟ ಸಭೆ: ಕಾಲೇಜಿನಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿ ಸಂಘದ ಚುನಾವಣೆಗೆ ಸರ್ಕಾರ ಅಸ್ತು! ಅಧ್ಯಕ್ಷ ಸೇರಿ 12 ಸ್ಥಾನ; ಯಾವೆಲ್ಲಾ?](https://vijaykarnataka.com/news/karnataka/cabinet-meeting-government-greenlights-student-union-elections-in-colleges-12-posts-2-seats-reserved-for-female-students/articleshow/133975112.cms)
-- [ಗಣೇಶ ಹಬ್ಬ: ಬೆಂಗಳೂರಿನಿಂದ 2 ಮಾರ್ಗದಲ್ಲಿ ವಿಶೇಷ ರೈಲು; ಬೆಳಗಾವಿ, ವಿಜಯಪುರ ಸೇರಿ 9 ಜಿಲ್ಲೆಗೆ ಅನುಕೂಲ; ವೇಳಾಪಟ್ಟಿ ಬಿಡುಗಡೆ](https://vijaykarnataka.com/news/karnataka/ganesh-festival-special-trains-from-bengaluru-via-2-routes-benefit-9-districts-including-belagavi-vijayapura-schedule-released/articleshow/133972695.cms)
-- [ಮಿತಿಮೀರಿದ AI ದಾಸ್ಯ, ದಶಕದ ಅಂತ್ಯಕ್ಕೆ ಮಾನವಕುಲವೇ ವಿನಾಶ': ಹೊಸಚರ್ಚೆಗೆ ನಾಂದಿ ಹಾಡಿದ ಆಂಥ್ರೋಪಿಕ್ ಸಂಶೋಧಕ!](https://vijaykarnataka.com/news/world/anthropic-researcher-jacob-coxon-says-ai-could-kill-us-all-by-decade-end/articleshow/133980532.cms)
 - [ಮಣ್ಣಿನ ಗಣೇಶ ಮೂರ್ತಿಯೇ? POP ಮೂರ್ತಿಯೇ? ಖರೀದಿಸುವ ಮುನ್ನ ಈ ಗುರುತುಗಳನ್ನು ಪರಿಶೀಲಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/ganesh-chaturthi-2026-how-to-check-clay-or-pop-ganesha-idol/articleshow/133963722.cms)
-- [ನಂದನ್ ನಿಲೇಕಣಿ, ಝೆರೋಧಾ ಬ್ರದರ್ಸ್ ಸೇರಿ ಹಲವು ಪ್ರಮುಖರ ಹೆಸರು SIR ‘ದೋಷಪೂರಿತ’ ಪಟ್ಟಿಗೆ!](https://vijaykarnataka.com/news/bengaluru-city/shivarajkumar-nandan-nilekani-kamath-brothers-name-in-sir-defective-list/articleshow/133978042.cms)
+- [ಗಣೇಶ ಹಬ್ಬ: ಬೆಂಗಳೂರಿನಿಂದ 2 ಮಾರ್ಗದಲ್ಲಿ ವಿಶೇಷ ರೈಲು; ಬೆಳಗಾವಿ, ವಿಜಯಪುರ ಸೇರಿ 9 ಜಿಲ್ಲೆಗೆ ಅನುಕೂಲ; ವೇಳಾಪಟ್ಟಿ ಬಿಡುಗಡೆ](https://vijaykarnataka.com/news/karnataka/ganesh-festival-special-trains-from-bengaluru-via-2-routes-benefit-9-districts-including-belagavi-vijayapura-schedule-released/articleshow/133972695.cms)
 - [ಬಿಗ್‌ ಬಾಸ್‌ ಸೀಸನ್‌ 13: ಧನುಷ್‌ ಎಂದಿಗೂ ಬಿಗ್‌ ಮನೆಗೆ ಕಾಲಿಡದಂತೆ ಮಾಡಿದ ಗಗನ್‌, ರಿವೆಂಜ್‌ ತಗೊಂಡ್ರಾ ನಟ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-season-13-gagan-chinnappa-revenge-against-dhanush-manjunath/articleshow/133980505.cms)
 - [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
 - [ವಿಷ್ಣುವಿನ 6 ಮಂತ್ರಗಳು ಮತ್ತು ಅವುಗಳ ಪ್ರಯೋಜನಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/here-are-the-6-vishnu-mantras-and-its-benefits/articleshow/133971144.cms)
 - [ಮಗಳು ದುವಾ 2ನೇ ಹುಟ್ಟುಹಬ್ಬಕ್ಕೆ ದೀಪಿಕಾ ಪಡುಕೋಣೆ ವಿಶೇಷ ಮ್ಯಾಟರ್ನಿಟಿ ಫೋಟೋಶೂಟ್; ಬೇಬಿ ಬಂಪ್ ಲುಕ್‌ಗೆ ಫಿದಾ ಆದ ನೆಟ್ಟಿಗರು!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-maternity-photoshoot-baby-bump-fashion-look/articleshow/133958269.cms)
-- [ಏಷ್ಯನ್‌ ಗೇಮ್ಸ್‌ ನಡೆಯಲಿರುವ ನಗೋಯಾದಲ್ಲಿ ಕಂಡುಕೇಳರಿಯದ ಪ್ರವಾಹ; 400 ಕ್ರೀಡಾಪಟುಗಳ ಸ್ಥಳಾಂತರ](https://vijaykarnataka.com/sports/other-sports/asian-games-2026-heavy-flooding-in-nagoya-400-athletes-evacuated/articleshow/133975411.cms)
+- [ಮಿತಿಮೀರಿದ AI ದಾಸ್ಯ, ದಶಕದ ಅಂತ್ಯಕ್ಕೆ ಮಾನವಕುಲವೇ ವಿನಾಶ': ಹೊಸಚರ್ಚೆಗೆ ನಾಂದಿ ಹಾಡಿದ ಆಂಥ್ರೋಪಿಕ್ ಸಂಶೋಧಕ!](https://vijaykarnataka.com/news/world/anthropic-researcher-jacob-coxon-says-ai-could-kill-us-all-by-decade-end/articleshow/133980532.cms)
 
 **The Hindu**
+- [Teaching job aspirants protests in Prayagraj seeking recruitment](https://www.thehindu.com/news/national/uttar-pradesh/teaching-job-aspirants-protests-in-prayagraj-seeking-recruitment/article71448450.ece)
 - [MPSC aspirant allegedly ends life in Pune, Abhijeet Dipke to visit family](https://www.thehindu.com/news/national/maharashtra/mpsc-aspirant-allegedly-ends-life-in-pune-abhijeet-dipke-to-visit-family/article71448697.ece)
 - [Concern grows over structures linked with Muslim community in wake of notices, demolition in Uttar Pradesh](https://www.thehindu.com/news/national/uttar-pradesh/concern-grows-over-structures-linked-with-muslim-community-in-wake-of-notices-demolition-in-uttar-pradesh/article71447863.ece)
 - [Punjab govt. employees call off their strike after assurance](https://www.thehindu.com/news/national/punjab/punjab-govt-employees-call-off-their-strike-after-assurance/article71447845.ece)
@@ -70,8 +71,7 @@
 - [Forest rights group asks Tribal Affairs Ministry to withdraw stand on Gram Sabha consent](https://www.thehindu.com/sci-tech/energy-and-environment/forest-rights-group-asks-tribal-affairs-ministry-to-withdraw-stand-on-gram-sabha-consent/article71448173.ece)
 - [‘All parties are treated equally in SC’, CJI says in Rahul Gandhi case](https://www.thehindu.com/news/national/all-parties-are-treated-equally-in-sc-cji-says-in-rahul-gandhi-case/article71448660.ece)
 - [Local tribals oppose appointment of dreaded ex-Maoist as co-ordinator at Gondwana University](https://www.thehindu.com/news/national/maharashtra/local-tribals-oppose-appointment-of-dreaded-ex-maoist-as-co-ordinator-at-gondwana-university/article71448578.ece)
-- [Rural Development department officials want to know rationale behind appointment of IFS, IAS officers as project directors](https://www.thehindu.com/news/cities/chennai/rural-development-department-officials-want-to-know-rationale-behind-appointment-of-ifs-ias-officers-as-project-directors/article71444173.ece)
-- [15 workers rescued, 12 hospitalised after iron slab collapses at construction site in Gandhinagar](https://www.thehindu.com/news/national/gujarat/workers-rescued-several-feared-trapped-as-iron-slab-falls-at-building-site-in-gandhinagar/article71448971.ece)
+- [IIM-Kozhikode rises 15 places to 54th in FT Masters in Management rankings](https://www.thehindu.com/news/national/kerala/iim-kozhikode-rises-15-places-to-54th-in-ft-masters-in-management-rankings/article71441425.ece)
 
 **Livemint**
 - [Lil Durk murder-for-hire trial goes to jury as prosecutors allege revenge, defence argues reasonable doubt](https://www.livemint.com/news/us-news/lil-durk-murder-for-hire-trial-goes-to-jury-as-prosecutors-allege-revenge-defence-argues-reasonable-doubt-11788987678717.html)
@@ -102,10 +102,10 @@
 ## Cross-source trending keywords (derived from headlines above)
 - India (4.2)
 - Phone (4.0)
+- Brics (3.9)
 - ChatGPT (3.9)
 - Trump (3.2)
 - Apple (2.9)
-- Brics (2.6)
 - Hubballi (2.6)
 - Pro Max (2.0)
 - Rahul Gandhi (2.0)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [BRS Representatives | మార్ఫింగ్‌ ఫోటోలపై చర్యలు తీసుకోవాలని బీఆర్‌ఎస్‌ ప్రతినిధుల ఫిర్యాదు](https://www.ntnews.com/telangana/brs-representatives-lodge-complaint-over-morphed-photos-2506695)
-- [Drishyam 3: અજય દેવગનની ફિલ્મ 'દ્રશ્યમ 3'નું ધમાકેદાર ટ્રેલર લોન્ચ, જુઓ](https://gujarati.abplive.com/entertainment/bollywood/drishyam-3-the-conclusion-trailer-released-film-to-be-released-on-2-october-990795)
-- [Watch: Astrophotographer captures Roman telescope flying in space to its new home](https://www.indiatoday.in/science/story/nasa-roman-space-telescope-spotted-night-sky-2990772-2026-09-09)
-- [Ranabali | ‘రణబాలి’ టీజర్‌తో విజయ్ దేవరకొండ మాస్ కంబ్యాక్.. ఊహించని విజువల్స్‌తో దుమ్మురేపిన టీజర్!](https://www.ntnews.com/cinema/ranabali-teaser-out-2506371)
-- [Hardik Pandya: ফিটনেস টেস্টেই কি লুকিয়ে হার্দিকের প্রত্যাবর্তন?](https://www.aaroananda.com/story/sports-news/breaking-news/hardik-pandya-selected-in-india-a-squad-for-australia-series/11018765)
-- [‘আঙুর ফল টক...’, রিয়েলিটি শো'র স্ক্রিপ্ট বিতর্কে সুনিধিকে 'অসম্মান' নেহার, ক্ষুব্ধ নেটপাড়া](https://www.thewall.in/entertainment/neha-kakkar-faces-backlash-over-sour-grapes-remark-on-sunidhi-chauhan-and-reality-shows/tid/204396)
-- [पाकिस्तान टीम की फिर से मिट्टी पलीद, बाबर आजम के बोल्ड पर आएगी हंसी, देखें VIDEO](https://www.indiatv.in/sports/cricket/pakistan-team-loses-again-babar-azam-bold-will-make-you-laugh-vs-england-test-2026-09-09-1242245)
-- ['Hanuman Ansh' box office collection Day 34 (LIVE): The film based on Neem Karoli Baba crosses inches towards Rs 150 crore net](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-34-live-the-film-based-on-neem-karoli-baba-crosses-inches-towards-rs-150-crore-net/articleshow/133961640.cms)
-- [‘सुंदर महिला की डेडबॉडी से भी रेप होता है’ रीवा में विवादिन बयान के बाद भोपाल में धरने पर बैठे कांग्रेस विधायक को पुलिस ने उठाया](https://navbharattimes.indiatimes.com/state/madhya-pradesh/rewa/mla-abhay-mishra-controversial-statement-sanjay-gandhi-hospital-mortuary/articleshow/133966323.cms)
-- ['औरतें बल्ब की तरह नहीं', लस्ट स्टोरी 3 का ट्रेलर रिलीज, अदिति-राधिका ने लूटी महफिल](https://www.aajtak.in/entertainment/bollywood-news/story/lust-stories-3-trailer-out-siddharth-aditi-rao-hydari-chemistry-radhika-apte-woman-desire-tmovg-dskc-2639600-2026-09-09)
+- [পরনে গেরুয়া, সঙ্গে সাধুসন্ত, যাদবপুরে শুভেন্দুর চ্যালেঞ্জ, 'শেকড় সহ উপড়ে ফেলব'](https://bangla.aajtak.in/kolkata/story/saffron-rally-in-jadavpur-suvendu-adhikari-leads-gerua-samman-march-sus-1448683-2026-09-09)
+- [દિલ્હીના લાલ કિલ્લા પાસે થયેલો બ્લાસ્ટ આત્મઘાતી હુમલો હતો, NIAની ચાર્જશીટમાં ઉમર નબી અંગે મોટો ખુલાસો](https://www.gujaratsamachar.com/news/national/the-blast-near-the-red-fort-was-a-attack-a-big-revelation-about-umar-nabi-in-the-nia-chargesheet-96792549219)
+- [मुख्यमंत्री शुभेंदु अधिकारी की पद यात्रा के बीच जादवपुर यूनिवर्सिटी का गेट बंद, CM बोले- उन्हें सबक सिखाऊंगा](https://www.aajtak.in/west-bengal/story/cm-suvendu-adhikari-gerua-samman-yatra-jadavpur-university-gate-closed-ntc-rlch-rpti-2639677-2026-09-09)
+- [US-ईरान युद्ध में दलाली करने वाले पाकिस्तान की हालत खस्ता, क्या बोले ख्वाजा आसिफ?](https://www.abplive.com/news/world/defence-minister-khawaja-asif-on-pakistan-tightrope-situation-amid-escalated-us-iran-tensions-in-west-asia-3186636)
+- [Tilak Misses Ton: ദുലീപ് ട്രോഫി ഫൈനൽ: തിലകിന് സെഞ്ചുറി നഷ്ടം, കിരീടമുറപ്പിച്ച് ഈസ്റ്റ് സോണ്‍](https://www.asianetnews.com/cricket-sports/duleep-trophy-final-tilak-misses-ton-on-99-kishan-shines-again-as-east-zone-near-title-articleshow-l0gk11a)
+- [Bigg Boss Telugu 10: బిగ్‌బాస్ 10లోకి యూట్యూబర్ నందన! హోస్ట్ నాగార్జునకు వార్నింగ్](https://tv9telugu.com/entertainment/tollywood/bigg-boss-telugu-10-conngress-leader-warns-reality-show-host-nagarjuna-over-nandana-wild-card-rumours-1907559.html)
+- [നെതന്യാഹു സര്‍ക്കാര്‍ ഇസ്രഈലിനെ ആഗോള ഒറ്റപ്പെടലിലേക്ക് നയിക്കുന്നുയാണെന്ന് പ്രതിപക്ഷം](https://www.doolnews.com/israeli-opposition-accuses-netanyahu-of-fuelling-diplomatic-isolation-after-uk-sanctions-63-173.html)
+- [दक्षिण अफ्रीकी बल्लेबाज ने 150 रन ठोककर रचा इतिहास, कर ली वर्ल्ड रिकॉर्ड की बराबरी! ODI डेब्यू में किया गजब का करिश्मा](https://www.aajtak.in/sports/cricket/story/jordan-hermann-creates-history-equals-world-record-for-highest-score-on-odi-debut-aksp-dskc-2639667-2026-09-09)
+- [വൈദ്യുതി നിയന്ത്രണം ഫീഡർ തലത്തിൽ മുൻകൂട്ടി അറിയിക്കാനുള്ള സംവിധാനം ഒരുക്കും ; നാളെ മുതൽ നിലവിൽ വരും: സണ്ണി ജോസഫ്](https://www.asianetnews.com/kerala-news/arrangements-will-be-made-to-announce-power-cuts-in-advance-it-will-come-into-effect-from-tomorrow-sunny-joseph-articleshow-6sx14v6)
+- [Hardik Pandya : ऑस्ट्रेलिया 'अ' मालिकेसाठी भारत 'अ' संघाची घोषणा : हार्दिक पांड्याची एकदिवसीय संघात निवड](https://www.prahaar.in/2026/09/09/hardik-pandya-included-in-india-a-squad-for-australia-a-one-day-series/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
