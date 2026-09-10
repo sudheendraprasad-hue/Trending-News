@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-10 10:36:26
+# India Trending Report — 2026-09-10 11:02:15
 
 ## Google Trends (India) — top trending searches
-1. [संजय कुमार झा](https://trends.google.com/trending/rss?geo=IN)
-2. [चंद्र](https://trends.google.com/trending/rss?geo=IN)
-3. [pakistan vs england](https://trends.google.com/trending/rss?geo=IN)
-4. [ಮುಖ್ಯಮಂತ್ರಿ](https://trends.google.com/trending/rss?geo=IN)
-5. [কৌশিকী](https://trends.google.com/trending/rss?geo=IN)
-6. [મુંબઈ](https://trends.google.com/trending/rss?geo=IN)
-7. [सीएनबीसी](https://trends.google.com/trending/rss?geo=IN)
-8. [मोहन यादव](https://trends.google.com/trending/rss?geo=IN)
-9. [mcc](https://trends.google.com/trending/rss?geo=IN)
-10. [hockey](https://trends.google.com/trending/rss?geo=IN)
+1. [harsh goenka](https://trends.google.com/trending/rss?geo=IN)
+2. [ఎకరం](https://trends.google.com/trending/rss?geo=IN)
+3. [गौतम अदाणी](https://trends.google.com/trending/rss?geo=IN)
+4. [बैंक](https://trends.google.com/trending/rss?geo=IN)
+5. [आम्रपाली दुबे](https://trends.google.com/trending/rss?geo=IN)
+6. [संजय कुमार झा](https://trends.google.com/trending/rss?geo=IN)
+7. [चंद्र](https://trends.google.com/trending/rss?geo=IN)
+8. [pakistan vs england](https://trends.google.com/trending/rss?geo=IN)
+9. [ಮುಖ್ಯಮಂತ್ರಿ](https://trends.google.com/trending/rss?geo=IN)
+10. [কৌশিকী](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -22,7 +22,7 @@
 - [10 biggest features of Apple's first foldable phone, iPhone Duo](https://timesofindia.indiatimes.com/technology/tech-news/10-biggest-features-of-apples-first-foldable-phone-iphone-duo/articleshow/133998875.cms)
 - [Beaten by bias? Krishik misses Asian Games bus despite meeting AFI benchmark thrice](https://timesofindia.indiatimes.com/sports/asian-games-2026/beaten-by-bias-karnatakas-krishik-m-misses-the-bus-despite-meeting-afi-benchmark-thrice/articleshow/134003120.cms)
 - [AI, quantum navigation & drone swarms: China’s J-50 aims to ‘leapfrog’ fighter technology](https://timesofindia.indiatimes.com/defence/international/ai-quantum-navigation-drone-swarms-chinas-j-50-aims-to-leapfrog-fighter-technology/articleshow/134003678.cms)
-- ['Will respond like Bose, not Gandhi': Adhikari's warning to Jadavpur 'anti-nationals'](https://timesofindia.indiatimes.com/india/suvendu-adhikaris-strict-medicine-warning-to-anti-national-sympathisers-at-jadavpur-university/articleshow/134000988.cms)
+- ['Be our co-traveller': PM Modi to France, other nations at space summit address](https://timesofindia.indiatimes.com/india/be-our-co-traveller-in-space-research-pm-modi-to-france-other-nations-at-space-summit-address/articleshow/134003469.cms)
 - [1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-5-chatgpt-prompts-to-create-kerala-style-retro-images/articleshow/133999924.cms)
 
 **NDTV**
@@ -38,6 +38,9 @@
 - [China Keeps Up Suspense Over Xi's India Visit 48 Hours Ahead Of BRICS Summit](https://www.ndtv.com/world-news/china-keeps-up-suspense-over-xis-india-visit-48-hours-ahead-of-brics-summit-12027512#publisher=newsstand)
 
 **Hindustan Times**
+- [SC draws line on panel’s powers, says only court can order FIRs in protest cases](https://www.hindustantimes.com/india-news/sc-draws-line-on-panel-s-powers-says-only-court-can-order-firs-in-protest-cases-101789037242410.html)
+- [Jaipur CA abducted from Central Park, escapes after Mercedes overturns: Police](https://www.hindustantimes.com/india-news/jaipur-ca-abducted-from-central-park-escapes-after-mercedes-overturns-police-101789036522299.html)
+- [Xi Jinping to attend BRICS summit in New Delhi, China confirms](https://www.hindustantimes.com/india-news/xi-jinping-to-attend-brics-summit-in-new-delhi-china-confirms-101789035325752.html)
 - [Delhi court orders framing of charges against Lalu Prasad, Rabri Devi, Tejashwi Yadav in IRCTC hotel scam case](https://www.hindustantimes.com/india-news/delhi-court-orders-framing-of-charges-against-lalu-prasad-rabri-devi-tejashwi-yadav-in-irctc-hotel-scam-case-101789034482980.html)
 - [Not just ChatGPT, 1980s images can also be created on Gemini, Meta AI | A step-by-step guide](https://www.hindustantimes.com/india-news/can-1980s-ai-photos-also-be-created-on-gemini-and-meta-ai-a-step-by-step-guide-chatgpt-101789028337421.html)
 - [Abhishek Banerjee's PA Sumit Roy arrested by CID in Salboni land grab case](https://www.hindustantimes.com/india-news/tmc-abhishek-banerjee-pa-sumit-roy-arrested-by-cid-in-salboni-land-grab-case-from-kalighat-residence-101789032067291.html)
@@ -45,35 +48,33 @@
 - [Why Rajasthan BJP leader wants the song 'Shoorveer' removed from Mirzapur film](https://www.hindustantimes.com/india-news/objectionable-hurts-public-sentiments-rajasthan-bjp-leader-shoorveer-song-mirzapur-movie-controversy-101789027611705.html)
 - [3 Russian planes land at Noida International Airport for first time ahead of BRICS Summit | Watch](https://www.hindustantimes.com/india-news/3-russian-planes-land-at-noida-international-airport-for-first-time-ahead-of-brics-summit-watch-101789028544615.html)
 - [BRICS Summit: 15,000 Delhi Police personnel to be deployed for multi-layered security](https://www.hindustantimes.com/india-news/brics-summit-15-000-delhi-police-personnel-to-be-deployed-for-multi-layered-security-101789030084267.html)
-- [Maharashtra: Five suspended over Amravati hospital fire that killed three infants](https://www.hindustantimes.com/india-news/maharashtra-five-suspended-over-amravati-hospital-fire-that-killed-three-infants-101789029440915.html)
-- [Rajasthan women use slingshots to scatter seed balls across Aravalli hills to restore green cover](https://www.hindustantimes.com/india-news/rajasthan-women-use-slingshots-to-scatter-seed-balls-across-aravalli-hills-to-restore-green-cover-101789029281530.html)
-- [Raghav Chadha's big push for Indian women at Uzbekistan event: ‘Don’t just ask them to vote, but…'](https://www.hindustantimes.com/india-news/dont-ask-women-to-vote-raghav-chadha-at-key-global-event-in-uzbekistan-ipu-inter-parliamentary-union-conference-101789025127780.html)
 
 **Vijay Karnataka**
-- [Asian Games 2026- ಭಾರತ ತಂಡದಲ್ಲಿ ದಿಢೀರ್ ಬದಲಾವಣೆ: ಬುಮ್ರಾ ಫಿಟ್, ರಾಣಾ ಔಟ್! ಯಶ್ ಠಾಕೂರ್ ಗೆ ಸಡನ್ ಟಿಕೆಟ್!](https://vijaykarnataka.com/sports/cricket/news/jasprit-bumrah-fit-harshit-rana-out-from-series-against-afghanistan-asian-games-2026-yash-thakur-in/articleshow/134003499.cms)
-- [ಬ್ರಿಕ್ಸ್‌ ಸಮ್ಮೇಳನಕ್ಕೆ 48 ಗಂಟೆಗಳು ಬಾಕಿ: ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್‌ ಭಾರತ ಭೇಟಿ ಬಗ್ಗೆ ಚೀನಾ ಈಗಲೂ ಮೌನ! ಬೀಜಿಂಗ್‌ ನಡೆ ದೆಹಲಿ ಕಡೆ?](https://vijaykarnataka.com/news/world/china-yet-to-confirm-president-xi-jinping-india-visit-for-brics-summit-2026-what-beijing-say/articleshow/134002170.cms)
-- [ಹಿಂದುತ್ವದ ಪ್ರಯೋಗ ಶಾಲೆಯಲ್ಲಿ ಹೊಸ ’ಪ್ರಯೋಗಕ್ಕೆ’ ಮುಂದಾದ ಸಿಎಂ ಡಿಕೆ ಶಿವಕುಮಾರ್](https://vijaykarnataka.com/news/karnataka/explainer-dk-shivakumar-government-cabinet-meeting-mangaluru-hindutva-laboratory-congress-experiment/articleshow/134002763.cms)
+- [ರಾಜ್ಯ ಸರ್ಕಾರದಿಂದ ಸೈಟ್‌ ಇಲ್ಲದವರಿಗೆ 30x40 ಸೈಟ್‌ ಕೊಡುತ್ತೇವೆ; ಪ್ರತಿ ಜಿಲ್ಲೆಗೆ 50 ಸಾವಿರ ನಿವೇಶನ: DCM ಪರಮೇಶ್ವರ್‌ ಘೋಷಣೆ](https://vijaykarnataka.com/news/karnataka/state-government-to-provide-30x40-sites-to-those-without-one-50000-sites-per-district-dcm-parameshwara-announces/articleshow/134004043.cms)
+- [ಕರ್ನಾಟಕಕ್ಕೆ ಕೇಂದ್ರ ಬಂಪರ್ ಗಿಫ್ಟ್, ವೈಟ್‌ಫೀಲ್ಡ್-ಬಂಗಾರಪೇಟೆ 4 ಲೈನ್ ರೈಲು ಹಳಿಗೆ ಅಸ್ತು, ದಶಕಗಳ ಕನಸು ನನಸು](https://vijaykarnataka.com/news/india/a-bumper-gift-from-the-centre-for-karnataka-green-signal-for-the-whitefield-bangarapet-four-line-railway-track/videoshow/134004999.cms)
+- [ಸಿಂಗಪುರದಲ್ಲಿ ಕನ್ನಡ ಕಲಿ : ಕನ್ನಡದಲ್ಲಿಯೇ ಅನುಭವ ಹಂಚಿಕೊಂಡ ಪುಟ್ಟ ಮಕ್ಕಳು](https://vijaykarnataka.com/news/nri/kannada-kali-classes-children-singapore-sangha/articleshow/134003964.cms)
 - [ಮೈದಾ ಇಲ್ಲದ ಗೋಧಿ ಹಿಟ್ಟು-ಖೋವಾ ಮೋದಕ; ಗಣೇಶ ಚತುರ್ಥಿಗೆ ಸುಲಭ ರೆಸಿಪಿ](https://vijaykarnataka.com/lifestyle/home-decor/atta-mawa-modak-recipe-ganesh-chaturthi/articleshow/134002088.cms)
-- [ಒಂದೇ ಪೆಂಡಾಲ್‌ನಲ್ಲಿ ಗಣೇಶೋತ್ಸವ-ಈದ್‌ ಮಿಲಾದ್‌ ! ಶಿವಮೊಗ್ಗದ ಕಾರ್ಗಲ್‌ನಲ್ಲಿ ಭಾವೈಕ್ಯತೆಗೆ ಹೊಸ ಮಾದರಿ](https://vijaykarnataka.com/news/shivamogga/ganesha-festival-and-eid-milad-in-same-pendal-hindu-muslim-harmony-in-shivamogga-kargal/articleshow/134001235.cms)
+- [Asian Games 2026- ಭಾರತ ತಂಡದಲ್ಲಿ ದಿಢೀರ್ ಬದಲಾವಣೆ: ಬುಮ್ರಾ ಫಿಟ್, ರಾಣಾ ಔಟ್! ಯಶ್ ಠಾಕೂರ್ ಗೆ ಸಡನ್ ಟಿಕೆಟ್!](https://vijaykarnataka.com/sports/cricket/news/jasprit-bumrah-fit-harshit-rana-out-from-series-against-afghanistan-asian-games-2026-yash-thakur-in/articleshow/134003499.cms)
 - [ಮೈಸೂರು ದಸರಾ ಜಂಬೂಸವಾರಿಗೆ ಈ ಬಾರಿ ಸ್ಯಾಂಡಲ್‌ವುಡ್‌ನ 30ಕ್ಕೂ ಹೆಚ್ಚು ತಾರೆಯರ ಮೆರುಗು!](https://vijaykarnataka.com/entertainment/news/mysuru-dasara-jamboo-savari-sandalwood-stars-kannada-cinema-tableau/articleshow/134004063.cms)
 - [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
 - [ಅಮಾವಾಸ್ಯೆ ದಿನ ಕಾಳ ಸರ್ಪ ಮತ್ತು ಪಿತೃ ದೋಷಕ್ಕೆ ಆಚರಣೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/doing-these-works-on-the-amavasya-will-remove-kaal-sarp-dosh-and-pitra-dosh/articleshow/134004149.cms)
 - [ಮಹಾರಾಷ್ಟ್ರ ರಾಜ್ಯ ಚಲನಚಿತ್ರ ಪ್ರಶಸ್ತಿ: ಹಸಿರು ಸೀರೆಯಲ್ಲಿ ಅಪ್ಪಟ ಮರಾಠಿ ಮಹಿಳೆಯಂತೆ ಕಂಗೊಳಿಸಿದ ರಾಣಿ ಮುಖರ್ಜಿ](https://vijaykarnataka.com/lifestyle/fashion/rani-mukerji-marathi-speech-green-saree-maharashtra-film-awards/articleshow/133998162.cms)
-- ['ಡಿಕೆ ಶಿವಕುಮಾರ್‌ ಸರ್ಕಾರ ಸರಿಯಾದ ಹಾದಿಯಲ್ಲಿದೆ' - ಗುಡ್‌ ಸರ್ಟಿಫಿಕೇಟ್‌ ಕೊಟ್ಟ ಸಿದ್ದರಾಮಯ್ಯ; ಜತೆಗೆ 4 ಪ್ರಮುಖ ಸಲಹೆ](https://vijaykarnataka.com/news/karnataka/dk-shivakumars-government-is-on-the-right-track-siddaramaiah-gives-a-good-certificate-along-with-4-key-suggestions/articleshow/134002217.cms)
+- [ಬ್ರಿಕ್ಸ್‌ ಸಮ್ಮೇಳನಕ್ಕೆ 48 ಗಂಟೆಗಳು ಬಾಕಿ: ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್‌ ಭಾರತ ಭೇಟಿ ಬಗ್ಗೆ ಚೀನಾ ಈಗಲೂ ಮೌನ! ಬೀಜಿಂಗ್‌ ನಡೆ ದೆಹಲಿ ಕಡೆ?](https://vijaykarnataka.com/news/world/china-yet-to-confirm-president-xi-jinping-india-visit-for-brics-summit-2026-what-beijing-say/articleshow/134002170.cms)
 
 **The Hindu**
-- [Supreme Court notice to Centre on PIL seeking uniform, time-bound probe for child kidnapping cases](https://www.thehindu.com/news/national/supreme-court-notice-to-centre-on-pil-seeking-uniform-time-bound-probe-for-child-kidnapping-cases/article71451127.ece)
-- [West Bengal CM defends ‘godman’ who sought to avoid meat during Durga Puja](https://www.thehindu.com/news/national/west-bengal/west-bengal-cm-defends-godman-who-sought-to-avoid-meat-during-durga-puja/article71450735.ece)
-- [India’s coal demand expected to jump 4.2%, record output ahead: IEA](https://www.thehindu.com/business/Economy/indias-coal-demand-expected-to-jump-42-record-output-ahead-iea/article71451038.ece)
-- [TVK government ‘immature’, lacks clarity on governance, alleges Dhinakaran](https://www.thehindu.com/news/cities/Tiruchirapalli/tvk-government-immature-lacks-clarity-on-governance-alleges-dhinakaran/article71450775.ece)
-- [Ex-officials say Census data must be confidential amid concerns over potential NPR, NRC links](https://www.thehindu.com/news/national/ex-officials-say-census-data-must-be-confidential-amid-concerns-over-potential-npr-nrc-links/article71443962.ece)
-- [Minor gives birth in Machilipatnam; police register POCSO case, CWC to take up](https://www.thehindu.com/news/national/andhra-pradesh/minor-gives-birth-in-machilipatnam-police-register-pocso-case-cwc-to-take-up/article71450776.ece)
-- [CSIR-CCMB Chief Scientist Govindhaswamy Umapathy elected as Fellow of Indian National Science Academy](https://www.thehindu.com/news/national/telangana/csir-ccmb-chief-scientist-govindhaswamy-umapathy-elected-as-fellow-of-indian-national-science-academy/article71450807.ece)
-- [SC declines to transfer Satya Niketan building collapse proceedings pending before Delhi HC](https://www.thehindu.com/news/national/supreme-court-hearing-on-satya-niketan-building-collapse-south-west-delhi-live-updates-safety-audits-arrests-news/article71450509.ece)
-- [Meet Yathra Kudumbam, a travel group comprising those who have been part of KSRTC’s budget tourism trips](https://www.thehindu.com/news/cities/Thiruvananthapuram/yathra-kudumbam-travel-group-ksrtc-budget-tourism/article71446891.ece)
-- [Beyond Fort St. George: Tamil Nadu government’s quest for an Assembly-Secretariat site is more than a century old](https://www.thehindu.com/news/national/tamil-nadu/beyond-fort-st-george-tamil-nadu-governments-quest-for-an-assembly-secretariat-site-is-more-than-a-century-old/article71441612.ece)
+- [Temporary ban on DJ parties in Coimbatore](https://www.thehindu.com/news/cities/Coimbatore/temporary-ban-on-dj-parties-in-coimbatore/article71451131.ece)
+- [Telangana Govt created corpus of ₹240 crore for Employees Health Scheme](https://www.thehindu.com/news/national/telangana/telangana-govt-created-corpus-of-240-crore-for-employees-health-scheme/article71450855.ece)
+- [Locked up with seven inmates, M.K. Stalin was beaten, harassed, and fed kali during Emergency period](https://www.thehindu.com/news/national/tamil-nadu/locked-up-with-seven-inmates-mk-stalin-was-beaten-harassed-and-fed-kali-50th-anniversary-1975-emergency/article69731954.ece)
+- [‘My gesture during Assembly speech was inadvertent’: Tamil Nadu CM Vijay](https://www.thehindu.com/news/national/tamil-nadu/my-gesture-during-assembly-speech-is-inadvertent-has-no-ulterior-motive-tamil-nadu-cm-vijay/article71442647.ece)
+- [‘My jaws were indeed broken in jail during Emergency’: Stalin responds to Tamil Nadu CM Vijay](https://www.thehindu.com/news/national/tamil-nadu/my-jaws-were-indeed-broken-in-jail-during-emergency-mk-stalin-responds-to-tamil-nadu-cm-vijay/article71450043.ece)
+- [College, university teachers oppose Tamil Nadu Private Universities (Amendment) Bill, 2026](https://www.thehindu.com/news/national/tamil-nadu/college-university-teachers-oppose-tamil-nadu-private-universities-amendment-bill-2026/article71448097.ece)
+- [China confirms Xi to visit India after 7 year gap; trade, normalisation on agenda](https://www.thehindu.com/news/national/china-confirms-xi-to-visit-india-after-7-year-gap-trade-normalisation-on-agenda/article71451235.ece)
+- [Telangana Assembly Monsoon Session LIVE Sept 10: House adjourned to September 11](https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-day-4-live-updates-congress-brs-mlas-suspension-september-10-2026/article71450157.ece)
+- [Keralam Minister promises hi-tech upgrade for Forest department](https://www.thehindu.com/news/national/kerala/keralam-minister-promises-hi-tech-upgrade-for-forest-department/article71450973.ece)
+- [Ganesh Agamans in Hyderabad draw huge crowds](https://www.thehindu.com/news/cities/Hyderabad/ganesh-agamans-in-hyderabad-draw-huge-crowds/article71450977.ece)
 
 **Livemint**
+- [DGCA to drug test all pilots after Air India Phuket-Delhi flight captain fired for being under the influence on duty](https://www.livemint.com/news/india/dgca-to-drug-test-all-pilots-after-air-india-phuket-delhi-flight-captain-fired-for-being-under-the-influence-on-duty-11789034561449.html)
 - [Supreme Court seeks Centre's response on plea to ban minors from social media — ‘Need some safeguard’](https://www.livemint.com/news/india/supreme-court-seeks-centres-response-on-plea-to-ban-minors-from-social-media-need-some-safeguard-11789030181270.html)
 - ['Transformers were aliens too': Social media reacts to Trump administration's racist poster targeting Indian drivers](https://www.livemint.com/news/us-news/transformers-were-aliens-too-social-media-reacts-to-trump-administrations-racist-poster-targeting-indian-drivers-11789032516232.html)
 - [Triptii Dimri, AP Dhillon explore Apple's latest launch iPhone 18 Pro with John Ternus in Cupertino | In pic](https://www.livemint.com/news/trends/triptii-dimri-ap-dhillon-explore-apples-latest-launch-iphone-18-pro-with-john-ternus-in-cupertino-in-pic-11789028338855.html)
@@ -83,7 +84,6 @@
 - [‘Will take down posts against Gaurav Bhatia in 24 hrs’: CJP's Saurav Das, Ashutosh Ranka to Delhi HC](https://www.livemint.com/news/india/will-take-down-posts-against-gaurav-bhatia-in-24-hrs-cjp-saurav-das-ashutosh-ranka-to-delhi-hc-cockroach-janta-11789027703446.html)
 - [Supreme Court questions FSSAI on ‘high sugar, salt, fat’ warning labels](https://www.livemint.com/news/india/supreme-court-questions-fssai-on-high-sugar-salt-fat-warning-labels-11789027685246.html)
 - [Xi Jinping not coming to India for BRICS Summit 2026? China refuses to confirm, says ‘no information to provide’](https://www.livemint.com/news/india/xi-jinping-not-coming-to-india-for-brics-summit-2026-china-refuses-to-confirm-says-no-information-to-provide-11789026894072.html)
-- [Red Fort blast: ‘How to Become an Assassin’, ‘44 Ways to Support Jihad’ — NIA recovers ‘extremist literature’](https://www.livemint.com/news/india/red-fort-blast-how-to-become-an-assassin-44-ways-to-support-jihad-nia-recovers-extremist-literature-11789023076189.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,9 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಯೆಮನ್‌ನ ಪಶ್ಚಿಮ ಕರಾವಳಿಯಲ್ಲಿರುವ ಅಲ್-ಮಖಾ ನಗರವನ್ನು ವಶಪಡಿಸಿಕೊಂಡ ಹೌದಿಗಳು; ವರದಿ](https://www.varthabharati.in/international/strategic-city-of-al-makha-seized-by-houthis-in-stunning-blow-in-yemen-2274208)
+- [ಬೆಳಗಾವಿ ಕಾಂಗ್ರೆಸ್ ಗೆ ಹೊಸ ಸಾರಥ್ಯ: ಗ್ರಾಮಾಂತರ ಜಿಲ್ಲಾಧ್ಯಕ್ಷರಾಗಿ ಬಸವರಾಜ ಶೇಗಾವಿ, ನಗರ ಅಧ್ಯಕ್ಷರಾಗಿ ರಾಜಾ ಸಲೀಂ ನೇಮಕ](https://www.varthabharati.in/belgaum/new-leadership-for-belagavi-congress-2274205)
+- [‘ನಮ್ಮ ರಸ್ತೆಗಳಿಂದ ತೊಲಗು ಮಿಸ್ಟರ್ ಸಿಂಗ್’: ವಿವಾದ ಸೃಷ್ಟಿಸಿದ ಟ್ರಂಪ್ ಆಡಳಿತದ ‘ಸ್ವಯಂ ಗಡಿಪಾರು’ ಜಾಹೀರಾತು](https://www.varthabharati.in/international/mr-singh-get-off-our-roads-row-over-uss-transformers-2274204)
 - [ಬಾಗಲಕೋಟೆ ಜಿಲ್ಲಾ ಕಾಂಗ್ರೆಸ್ ಅಧ್ಯಕ್ಷರಾಗಿ ದಯಾನಂದ ಪಾಟೀಲ್ ನೇಮಕ](https://www.varthabharati.in/bagalkot/dayanand-patil-appointed-as-bagalkote-district-congress-president-2274203)
 - [ಹಾಸನ ಜಿಲ್ಲಾ ಕಾಂಗ್ರೆಸ್ ಅಧ್ಯಕ್ಷರಾಗಿ ಜಿ.ಬಿ. ಶಶಿಧರ್ ನೇಮಕ](https://www.varthabharati.in/hassan/gb-shashidhar-appointed-as-hassan-district-congress-president-2274201)
 - [DRDO LRDE ನೇಮಕಾತಿ; ಸಂಶೋಧನಾ ಕ್ಷೇತ್ರದಲ್ಲಿ ಆಸಕ್ತಿ ಹೊಂದಿರುವವರಿಗೆ ಉತ್ತಮ ಅವಕಾಶ](https://www.varthabharati.in/information-guidance/drdo-lrde-recruitment-2274200)
@@ -105,30 +108,28 @@
 - [ಇಂಟರ್ನೆಟ್ ಕಡಿತಗೊಂಡಿದ್ದಕ್ಕೆ ನೊಂದು ವಿಷ ಸೇವಿಸಿದ ಮಹಿಳೆ; ಜೀವ ಉಳಿಸಲು ಸೆಗಣಿ ನೀರು ಕುಡಿಸಿದ ಪತಿ!](https://www.varthabharati.in/National/woman-consumes-poison-in-distress-over-internet-outage-2274196)
 - [ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್ ನೇತೃತ್ವದ ಸರಕಾರ ಸರಿಯಾದ ಹಾದಿಯಲ್ಲಿ ಸಾಗುತ್ತಿದೆ: ಸಿದ್ದರಾಮಯ್ಯ ಮೆಚ್ಚುಗೆ](https://www.varthabharati.in/bangalore-city/government-led-by-dk-shivakumar-is-moving-on-the-right-path-siddaramaiah-2274193)
 - [ವಿಜಯ್ ದೇವರಕೊಂಡ ನಟನೆಯ ‘ರಣಬಾಲಿ’ ಚಿತ್ರದ ಟೀಸರ್ ಬಿಡುಗಡೆ; ಕ್ಷಾಮದ ನಡುವೆ ಬ್ರಿಟಿಷ್ ಆಡಳಿತದ ವಿರುದ್ಧ ಸೆಟೆದೆದ್ದ ಯುವಕನ ಕತೆ!](https://www.varthabharati.in/cinema/vijay-deverakonda-starrer-ranabali-2274192)
-- [ಚಿಕ್ಕಮಗಳೂರು ಜಿಲ್ಲಾ ಕಾಂಗ್ರೆಸ್ ನೂತನ ಅಧ್ಯಕ್ಷರಾಗಿ ಎಚ್. ಪಿ.ಮಂಜೇಗೌಡ ಆಯ್ಕೆ](https://www.varthabharati.in/chikmagalur/hp-manjegowda-selected-as-the-new-president-of-the-chikkamagaluru-district-congress-2274189)
-- [ಯುದ್ಧ ಆರಂಭವಾಗಿದೆ, ರಣರಂಗದಲ್ಲಿ ಗೆಲುವು ನಮ್ಮದೇ: ಬಿ.ವೈ. ವಿಜಯೇಂದ್ರ](https://www.varthabharati.in/bellary/war-has-begun-victory-in-the-battlefield-will-be-ours-by-vijayendra-2274188)
-- [ಇದು 100 ದಿನಗಳ ಸಂಭ್ರಮಾಚರಣೆಯಲ್ಲ, ದೃಢ ಕರ್ನಾಟಕದ ಸಂಕಲ್ಪ: ಡಿಸಿಎಂ ಪರಮೇಶ್ವರ್](https://www.varthabharati.in/bangalore-city/this-is-not-a-100-day-celebration-its-a-resolve-for-a-strong-karnataka-dcm-parameshwara-2274187)
 
 ## Cross-source trending keywords (derived from headlines above)
+- China (6.8)
 - Emkay Global Financial (5.0)
-- China (4.2)
-- India (4.1)
+- India (4.4)
 - BRICS Summit (4.0)
-- Supreme Court (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
-- Indian (2.9)
+- Vijay (2.9)
+- BRICS (2.8)
 - Trump (2.6)
 - Apple's (2.6)
 - ChatGPT (2.6)
-- Centre (2.6)
+- Stalin (2.6)
+- Emergency (2.6)
 - Delhi (2.2)
 - Phone Duo (2.0)
-- Asian Games (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [పోలీస్‌ ఉద్యోగాలకు స్పందన కరువు.. 7,437 పోస్టులకు రిజిస్ట్రేషన్లు 3.38 లక్షలే](https://www.ntnews.com/telangana/telangana-police-jobs-see-lukewarm-response-despite-7437-vacancies-2507166)
 - [ఎమ్మెల్సీలు మధు.. నవీన్‌ల అంశంపై ఎథిక్స్‌ కమిటీ భేటీ](https://www.eenadu.net/telugu-news/telangana/general/1899/126163329)
 - [ஈரானின் 5 கச்சா எண்ணெய் கப்பல்கள் மீது அமெரிக்கா தாக்குதல்](https://www.hindutamil.in/news/world/us-attacks-five-iranian-crude-oil-tankers)
 - [அமெரிக்க ஓபன் டென்னிஸ் தொடர்: கால் இறுதி சுற்றில் அல்கராஸ் அதிர்ச்சி தோல்வி](https://www.hindutamil.in/news/sports/us-open-tennis-alcaraz-lost-in-quarter-finals)
@@ -138,7 +139,6 @@
 - [കസ്റ്റഡിയിലെടുത്ത ബം​ഗ്ലാദേശി പൗരൻ പാലാരിവട്ടം പൊലീസ് സ്റ്റേഷനിൽനിന്ന് ചാടിപ്പോയി; കൊച്ചി ന​ഗരത്തിൽ വ്യാപക തെരച്ചിൽ](https://www.asianetnews.com/kerala-news/a-bangladeshi-national-taken-into-custody-escaped-from-the-palarivattom-police-station-articleshow-1g88ggx)
 - [కాంగ్రెస్‌వి శిఖండి రాజకీయాలు](https://www.ntnews.com/telangana/brs-women-mlas-allege-police-attack-in-assembly-2507035)
 - [துலீப் டிராபி: தென் மண்டலம் 336 ரன்களுக்கு ஆட்டமிழப்பு - கிழக்கு மண்டலம் பட்டத்தை கைப்பற்றுகிறது](https://www.hindutamil.in/news/sports/duleep-trophy-south-zone-team-all-out-for-336-runs)
-- [ശ്രീലങ്കയിലെ നെഗോമ്പോ ജയിൽ കലാപം: കൊല്ലപ്പെട്ടവരിൽ മലയാളിയും](https://www.manoramaonline.com/news/latest-news/2026/09/10/chengannur-native-dies-in-sri-lanka-prison-riot.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
