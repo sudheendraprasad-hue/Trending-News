@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-10 19:01:37
+# India Trending Report — 2026-09-10 19:31:24
 
 ## Google Trends (India) — top trending searches
-1. [bayern vs bodø/glimt](https://trends.google.com/trending/rss?geo=IN)
-2. [the revolutionaries](https://trends.google.com/trending/rss?geo=IN)
-3. [trump](https://trends.google.com/trending/rss?geo=IN)
-4. [9/11](https://trends.google.com/trending/rss?geo=IN)
-5. [k](https://trends.google.com/trending/rss?geo=IN)
-6. [como vs rb leipzig](https://trends.google.com/trending/rss?geo=IN)
-7. [রেল পরিবহন](https://trends.google.com/trending/rss?geo=IN)
-8. [gleiker mendoza](https://trends.google.com/trending/rss?geo=IN)
-9. [xiaomi 18 fold](https://trends.google.com/trending/rss?geo=IN)
-10. [sydney sweeney](https://trends.google.com/trending/rss?geo=IN)
+1. [bayern](https://trends.google.com/trending/rss?geo=IN)
+2. [como](https://trends.google.com/trending/rss?geo=IN)
+3. [lisandro martínez](https://trends.google.com/trending/rss?geo=IN)
+4. [airbnb](https://trends.google.com/trending/rss?geo=IN)
+5. [slavia praha vs lens](https://trends.google.com/trending/rss?geo=IN)
+6. [us iran war](https://trends.google.com/trending/rss?geo=IN)
+7. [ipl](https://trends.google.com/trending/rss?geo=IN)
+8. [bayern vs bodø/glimt](https://trends.google.com/trending/rss?geo=IN)
+9. [the revolutionaries](https://trends.google.com/trending/rss?geo=IN)
+10. [trump](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -22,7 +22,7 @@
 - [1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-5-chatgpt-prompts-to-create-kerala-style-retro-images/articleshow/133999924.cms)
 - [US govt proposes scrapping 60-day grace period for foreign workers after job loss](https://timesofindia.indiatimes.com/world/us/dhs-proposes-scrapping-60-day-grace-period-for-foreign-workers-after-job-loss/articleshow/134018637.cms)
 - [Shafali stars with 64, Deepti strikes thrice as India storm into 10th Asia Cup final](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/shafali-stars-with-64-deepti-strikes-thrice-as-india-storm-into-10th-asia-cup-final-after-40-run-win-over-bangladesh/articleshow/134023444.cms)
-- [PM receives phone call from German Chancellor Merz, discusses key cooperation areas](https://timesofindia.indiatimes.com/india/pm-modi-receives-phone-call-from-german-chancellor-merz-discusses-key-cooperation-areas/articleshow/134025509.cms)
+- [Modi-Xi meet: Trade, border on agenda during Xi's 24-hour blitz](https://timesofindia.indiatimes.com/india/mod-xi-meet-trade-border-on-agenda-during-xis-24-hour-blitz/articleshow/134026386.cms)
 - [22-year-old pleads guilty in US' biggest Bitcoin theft; spent millions on cars & more](https://timesofindia.indiatimes.com/technology/tech-news/22-year-old-school-dropout-pleads-guilty-in-americas-largest-bitcoin-robbery-posed-as-google-and-gemini-executives-spent-millions-on-sports-cars-night-clubs-and-mansions/articleshow/134008280.cms)
 
 **NDTV**
@@ -62,18 +62,19 @@
 - [ಮಲ್ಟಿಪ್ಲೆಕ್ಸ್ ಫಿಲಂ ಟೆಕೆಟ್‌ ಮೇಲಿನ ಸೆಸ್‌: ರಾಜ್ಯ ಸರಕಾರದ ಆದೇಶ ರದ್ದುಪಡಿಸಿದ ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್](https://vijaykarnataka.com/news/karnataka/cess-on-multiplex-film-ticket-karnataka-high-court-cancels-state-government-order/articleshow/134017440.cms)
 
 **The Hindu**
-- [KCR farmhouse clashes: Three SC/ST Act cases booked](https://www.thehindu.com/news/national/telangana/kcr-farmhouse-clashes-three-scst-act-cases-booked/article71453155.ece)
-- [AP has the potential to be world class tourism destination: Rammohan Naidu](https://www.thehindu.com/news/national/andhra-pradesh/ap-has-the-potential-to-be-world-class-tourism-destination-rammohan-naidu/article71452921.ece)
-- [Women’s workforce participation rises, but funding and leadership gaps remain](https://www.thehindu.com/news/national/telangana/womens-workforce-participation-rises-but-funding-and-leadership-gaps-remain/article71452397.ece)
-- [TGSRTC teams win four golds at QCFI convention](https://www.thehindu.com/news/national/telangana/tgsrtc-teams-win-four-golds-at-qcfi-convention/article71453035.ece)
-- [SC asks Centre to reconsider NEET-SS qualifying percentile cut-off](https://www.thehindu.com/news/national/sc-asks-centre-to-reconsider-neet-ss-qualifying-percentile-cut-off/article71450722.ece)
-- [NSCN-IM using Naga-Kuki tensions to divert attention, say Kuki-Zo insurgent groups](https://www.thehindu.com/news/national/manipur/nscn-im-using-naga-kuki-tensions-to-divert-attention-say-kuki-zo-insurgent-groups/article71452985.ece)
-- [NIMHANS conducts mental health programmes in over 420 govt. colleges](https://www.thehindu.com/news/national/karnataka/nimhans-conducts-mental-health-programmes-in-over-420-govt-colleges/article71448323.ece)
-- [‘New Congress’ will emerge in Andhra Pradesh after local body elections: AICC in-charge secretary](https://www.thehindu.com/news/national/andhra-pradesh/new-congress-will-emerge-in-andhra-pradesh-after-local-body-elections-apcc-new-in-charge/article71450806.ece)
-- [Infant dies in Thiruvananthapuram, mother taken into custody](https://www.thehindu.com/news/national/kerala/infant-dies-in-thiruvananthapuram-mother-taken-into-custody/article71452797.ece)
-- [Nearly 90 kg ganja seized in Thiruvananthapuram](https://www.thehindu.com/news/national/kerala/nearly-90-kg-ganja-seized-in-thiruvananthapuram/article71452022.ece)
+- [Sri Sathya Sai village launches community surveillance to enhance security, combat crime](https://www.thehindu.com/news/national/andhra-pradesh/rural-village-launches-community-surveillance-to-enhance-security-combat-crime/article71451679.ece)
+- [‘Nudi Namana’ to pay tribute to theatre artiste Indira Nair](https://www.thehindu.com/news/national/karnataka/nudi-namana-to-pay-tribute-to-theatre-artiste-indira-nair/article71452574.ece)
+- [India, U.S. armies step up combat interoperability with 22nd Yudh Abhyas](https://www.thehindu.com/news/national/india-us-armies-step-up-combat-interoperability-with-22nd-yudh-abhyas/article71451971.ece)
+- [Walkathon held to mark Vascular Day](https://www.thehindu.com/news/cities/chennai/walkathon-held-to-mark-vascular-day/article71452792.ece)
+- [Forest Minister inspects Pulicat bird sanctuary](https://www.thehindu.com/news/national/tamil-nadu/forest-minister-inspects-pulicat-bird-sanctuary/article71452112.ece)
+- [Vijay leaves for U.K., his first official overseas visit](https://www.thehindu.com/news/national/tamil-nadu/vijay-leaves-for-uk-his-first-official-overseas-visit/article71452982.ece)
+- [Tamil Nadu bypolls: TVK fields former AIADMK MLAs in Madurantakam, Dharapuram](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bypolls-tvk-fields-former-aiadmk-mlas-in-madurantakam-dharapuram/article71450335.ece)
+- [W.B. Assembly passes Bill for inter-university transfer of teachers and non-teaching staffers](https://www.thehindu.com/news/national/west-bengal/wb-assembly-passes-bill-for-inter-university-transfer-of-teachers-and-non-teaching-staffers/article71452853.ece)
+- [Stalin’s MISA imprisonment ‘historical truth’, says Thirumavalavan](https://www.thehindu.com/news/national/tamil-nadu/stalins-misa-imprisonment-historical-truth-says-thirumavalavan/article71451330.ece)
+- [Tamil Nadu to better national average in police-public ratio](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-to-better-national-average-in-police-public-ratio/article71452211.ece)
 
 **Livemint**
+- [H-1B visa issue: Trump administration proposes scrapping 60-day grace period, Indian techies to be affected](https://www.livemint.com/news/us-news/h1b-visa-issue-trump-administration-proposes-scrapping-60-day-grace-period-indian-techies-to-be-affected-11789064597291.html)
 - [Senator John Fetterman sparks Democratic Party backlash after appearance at Republican midterm convention](https://www.livemint.com/news/us-news/senator-john-fetterman-sparks-democratic-party-backlash-after-appearance-at-republican-midterm-convention-11789059560792.html)
 - [Did Adani Group begin preliminary assessment to renovate Writers’ Building in Kolkata? Project could cost up to  ₹120 cr](https://www.livemint.com/news/india/did-adani-group-begin-preliminary-assessment-to-renovate-writers-building-in-kolkata-project-could-cost-up-to-120-cr-11789058674600.html)
 - [NSO survey shows a tiny bunch of districts with a chunk of informal economy](https://www.livemint.com/news/nso-non-farm-economy-districts-informal-economy-11789043063292.html)
@@ -83,7 +84,6 @@
 - [Walmart recalls Great Value Organic Triple Berry Blend over potential E. coli contamination: What consumers should know](https://www.livemint.com/news/us-news/walmart-recalls-great-value-organic-triple-berry-blend-over-potential-e-coli-contamination-what-consumers-should-know-11789050403349.html)
 - [How retro 1980s AI photo ChatGPT trend triggered BJP vs Congress meme war - See pics of Modi, Rahul Gandhi, others](https://www.livemint.com/news/trends/how-retro-1980s-ai-photo-chatgpt-trend-triggered-bjp-vs-congress-meme-war-see-pics-of-modi-rahul-gandhi-others-11789051526755.html)
 - [BRICS 2026: India pitches for integration of central bank digital currencies — why CBDC linkage is an uphill task](https://www.livemint.com/news/brics-2026-india-to-seek-to-link-central-bank-digital-currencies-will-cbdc-integration-face-challenges-11789050704729.html)
-- [Govt tightens e-commerce rules on discounts, search, sponsored listings](https://www.livemint.com/news/ecommerce-platforms-to-face-tighter-rules-on-discounts-search-results-and-sponsored-listings-11789050186264.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,15 +100,15 @@
 - [ದೇಶದ ಉನ್ನತ ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳಲ್ಲಿ ನಾಯಕತ್ವದ ಕೊರತೆ: 155 ರಾಷ್ಟ್ರೀಯ ಪ್ರಾಮುಖ್ಯತೆಯ ಸಂಸ್ಥೆಗಳ ಪೈಕಿ 37 ಕಡೆಗಳಲ್ಲಿ ಪ್ರಭಾರ ಮುಖ್ಯಸ್ಥರು](https://www.varthabharati.in/vishesha-varadigalu/37-of-155-institutions-of-national-importance-running-with-interim-acting-heads-2274372)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (8.1)
+- India (9.4)
 - ChatGPT (2.6)
 - India-Russia (2.6)
-- Thiruvananthapuram (2.6)
 - Asia Cup (2.0)
 - Poll Body Chief (2.0)
+- Tamil Nadu (2.0)
 - Goyal (1.6)
 - Delhi (1.6)
-- Congress (1.6)
+- Assembly (1.6)
 - Congress-NC (1.3)
 - Lavrov (1.3)
 - Putin (1.3)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Apple raises prices of the iPhone 17 series, iPhone Air and iPhone 16](https://www.gsmarena.com/apple_raises_prices_of_the_iphone_17_series_iphone_air_and_iphone_16-news-74551.php)
-- [അരങ്ങേറ്റത്തിൽ അടിയോടടി, 150 റൺസ്; ലോക റെക്കോഡിനൊപ്പം ദക്ഷിണാഫ്രിക്കൻ ബാറ്റർ](https://www.mathrubhumi.com/sports/cricket/jordan-hermann-record-odi-debut-century-namibia-south-africa-ek63ok8h)
-- [सौरव दास से अभिजीत दीपके तक; गौरव भाटिया की शिकायत पर अदालत में तलब किए गए, CJP भी](https://www.livehindustan.com/ncr/gaurav-bhatia-defamation-case-court-issues-summons-to-saurav-das-ashutosh-ranka-abhijeet-dipke-and-cjp-201789022634633.html)
-- [ਡੀਏ ਮਾਮਲੇ 'ਤੇ ਹਾਈਕੋਰਟ ਦਾ ਪੰਜਾਬ ਸਰਕਾਰ ਨੂੰ ਅਲਟੀਮੇਟਮ: 10 ਦਿਨਾਂ 'ਚ ਸੁਪਰੀਮ ਕੋਰਟ ਤੋਂ ਰਾਹਤ ਲਿਆਓ, ਨਹੀਂ ਤਾਂ 21 ਸਤੰਬਰ ਨੂੰ ਹੋਵੇਗਾ ਫ਼ੈਸਲਾ](https://www.babushahi.in/full-news.php?id=334492)
-- [Equity mutual fund inflows rise 19% to Rs 29,329 crore in August; SIP contributions hit record Rs 32,297 crore](https://www.moneycontrol.com/news/business/personal-finance/equity-mutual-fund-inflows-rise-19-to-rs-29-329-crore-in-august-debt-funds-see-rs-8-127-crore-outflow-14026902.html)
-- [IND vs PAK Hockey Highlights: गजब! हॉकी के टर्फ पर भारत की बेटियों ने किया पाकिस्तान का बुरा हाल, 19 गोल दागकर शर्मनाक हार दी](https://navbharattimes.indiatimes.com/sports/hockey/news/india-thumps-pakistan-in-womens-junior-asia-cup-quarter-final-ind-vs-pak-hockey-highlights/articleshow/133997017.cms)
-- [Will Take Down Posts Against Senior Advocate Gaurav Bhatia In 24 Hours: CJP's Saurav Das, Ashutosh Ranka Tell Delhi High Court](https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-posts-saurav-das-ashutosh-ranka-senior-advocate-gaurav-bhatia-549507)
-- [हरीश द्विवेदी युवा मोर्चा, सतीश पूनिया को ST मोर्चे की कमान... BJP ने प्रभारियों का किया ऐलान](https://www.aajtak.in/india/news/story/bjp-in-charges-announced-harish-dwivedi-sanjay-bhatia-ntc-mnrd-rpti-2640050-2026-09-10)
-- [‘Mandaadi’ Twitter review: Fans say Soori deserves National Award for his career-best performance, Suhas wins praise](https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mandaadi-twitter-review-fans-say-soori-deserves-national-award-for-his-career-best-performance-suhas-wins-praise/articleshow/133997250.cms)
-- [સુરતમાં ડેન્ગ્યુ-મલેરિયાના રિપોર્ટમાં ‘પોઝિટિવ-નેગેટિવ’નો ખેલ? : હોસ્પિટલમાં ડેન્ગ્યુ પોઝિટિવ, પાલિકામાં નેગેટિવ!](https://www.gujaratsamachar.com/news/surat/positive-negative-game-in-dengue-malaria-reports-in-surat-dengue-positive-in-hospital-negative-in-municipality-36674928652)
+- [Tahir World Record: 47 ఏళ్ల వయసులోనూ తగ్గని స్పిన్ మ్యాజిక్.. ప్రపంచ రికార్డు బద్దలు కొట్టిన ఇమ్రాన్ తాహిర్](https://telugu.abplive.com/sports/cricket/imran-tahir-claims-historic-five-wicket-haul-258561)
+- [The rock guitarist whose killing shocked India's north-east](https://www.bbc.com/news/articles/ced7517j0pvo)
+- [પાકિસ્તાનની ક્રિકેટ ટીમને 'શરણાર્થી' સમજી બેઠા બ્રિટનના લોકો, શરૂ કર્યું આંદોલન! માંડ માંડ મામલો થાળે પડ્યો](https://www.gujaratsamachar.com/news/sports/people-of-britain-mistook-pakistans-cricket-team-for-refugees-started-a-movement-the-matter-was-barely-resolved-22228863465)
+- [गोवा हाईवे में देरी पर नितिन गडकरी नाराज, बोले](https://www.indiatv.in/india/politics/nitin-gadkari-upset-over-mumbai-goa-highway-delays-said-feel-ashamed-i-won-t-attend-inauguration-2026-09-10-1242407)
+- [യെമനിൽ വീണ്ടും വ്യോമാക്രമണം കടുപ്പിച്ച് സൗദി അറേബ്യ](https://www.manoramaonline.com/news/latest-news/2026/09/10/saudi-arabia-intensifies-airstrikes-on-yemen.html)
+- [ముందస్తు విడుదలకు నో.. అబూ సలేం పిటిషన్‌ను కొట్టివేసిన సుప్రీంకోర్టు](https://www.ap7am.com/tn/879563/supreme-court-dismisses-abu-salem-petition-for-early-release)
+- [பிரதீப் ராஜ் கொலை: ``காவல்துறை முதல்வரின் கட்டுப்பாட்டில்தான் செயல்படுகிறதா?" - டிடிவி தினகரன்](https://www.vikatan.com/government-and-politics/pradeep-raj-murder-does-police-force-operate-under-cm-control-ttv-dhinakaran)
+- [શેરોન વર્મા સાથે ડેટિંગની અફવાઓ પર સમય રૈનાએ તોડ્યું મૌન; જુઓ શું જવાબ આપ્યો](https://www.gujaratsamachar.com/news/entertainment/Samay-Raina-Denies-Dating-Sharon-Verma-Amid-Show-Controversy-48125003253)
+- [అర్ధరాత్రి సమయంలో మ్యాచులా? యూఎస్‌ ఓపెన్ షెడ్యూల్‌పై తీవ్ర విమర్శలు](https://www.eenadu.net/telugu-news/sports/us-open-scheduling-under-fire-after-late-night-finishes/0401/126163643)
+- [Bageshwar Baba: বাগেশ্বর বাবার ছবি পুড়িয়ে বিক্ষোভে গ্রেফতারির নির্দেশ শুভেন্দুর, বললেন, ‘ওই লোকগুলোকে অ্যারেস্ট করতে হবে’](https://bengali.abplive.com/district/suvendu-adhikari-orders-arrest-of-protesters-who-burnt-bageshwar-baba-dhirendra-shastris-photo-1192283)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
