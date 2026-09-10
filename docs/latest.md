@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-10 20:34:24
+# India Trending Report — 2026-09-10 21:02:00
 
 ## Google Trends (India) — top trending searches
-1. [binance buy crypto](https://trends.google.com/trending/rss?geo=IN)
-2. [nico paz](https://trends.google.com/trending/rss?geo=IN)
-3. [matheus cunha](https://trends.google.com/trending/rss?geo=IN)
-4. [alibaba](https://trends.google.com/trending/rss?geo=IN)
+1. [maps](https://trends.google.com/trending/rss?geo=IN)
+2. [binance exchange](https://trends.google.com/trending/rss?geo=IN)
+3. [nico paz](https://trends.google.com/trending/rss?geo=IN)
+4. [matheus cunha](https://trends.google.com/trending/rss?geo=IN)
 5. [leny yoro](https://trends.google.com/trending/rss?geo=IN)
-6. [jamal musiala](https://trends.google.com/trending/rss?geo=IN)
+6. [alibaba](https://trends.google.com/trending/rss?geo=IN)
 7. [no](https://trends.google.com/trending/rss?geo=IN)
 8. [ucl fixtures](https://trends.google.com/trending/rss?geo=IN)
 9. [a](https://trends.google.com/trending/rss?geo=IN)
-10. [bayern](https://trends.google.com/trending/rss?geo=IN)
+10. [bayern munich](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Congress-NC rift over Vande Mataram: The ghost of 1987 and ‘big brother’ complex](https://timesofindia.indiatimes.com/india/congress-nc-rift-over-vande-mataram-the-ghost-of-1987-and-big-brother-complex/articleshow/133994525.cms)
 - [Lavrov arrives in India ahead of Brics Summit; Putin to arrive shortly](https://timesofindia.indiatimes.com/india/brics-summit-2026-pm-modi-says-all-set-putin-to-arrive-in-few-hours-top-developments/articleshow/134015100.cms)
-- [Wrong turn, DHS: My name is 'Singh' and I’m not a bad truck driver](https://timesofindia.indiatimes.com/world/us/wrong-turn-dhs-my-name-is-singh-and-im-not-a-bad-truck-driver/articleshow/134014675.cms)
+- [Need social media firewalls, safeguards for minors: Supreme Court](https://timesofindia.indiatimes.com/india/need-social-media-firewalls-safeguards-for-minors-supreme-court/articleshow/134029505.cms)
 - [Why iPhones are so expensive in India again](https://timesofindia.indiatimes.com/technology/tech-news/why-iphones-are-so-expensive-in-india-again/articleshow/134014478.cms)
-- [Lawyer Vijay Aggarwal, assistant appear in London court over sexual assault charges](https://timesofindia.indiatimes.com/world/uk/lawyer-vijay-aggarwal-and-assistant-manpreet-kaur-appear-in-london-court-over-sexual-assault-charges/articleshow/134028932.cms)
+- [Wrong turn, DHS: My name is 'Singh' and I’m not a bad truck driver](https://timesofindia.indiatimes.com/world/us/wrong-turn-dhs-my-name-is-singh-and-im-not-a-bad-truck-driver/articleshow/134014675.cms)
 - [1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-5-chatgpt-prompts-to-create-kerala-style-retro-images/articleshow/133999924.cms)
+- [Lawyer Vijay Aggarwal, assistant appear in London court over sexual assault charges](https://timesofindia.indiatimes.com/world/uk/lawyer-vijay-aggarwal-and-assistant-manpreet-kaur-appear-in-london-court-over-sexual-assault-charges/articleshow/134028932.cms)
 - [Centre ready to fulfil Ladakh's aspirations, asks for 'patience'](https://timesofindia.indiatimes.com/india/centre-ready-to-fulfil-ladakhs-aspirations-asks-for-patience/articleshow/134028802.cms)
-- [Houthis seize Yemen's strategic Red Sea port city of Mokha from Saudi-backed forces](https://timesofindia.indiatimes.com/world/middle-east/houthis-seize-yemens-strategic-red-sea-port-city-of-mokha-from-saudi-backed-forces/articleshow/134025249.cms)
-- [US govt proposes scrapping 60-day grace period for foreign workers after job loss](https://timesofindia.indiatimes.com/world/us/dhs-proposes-scrapping-60-day-grace-period-for-foreign-workers-after-job-loss/articleshow/134018637.cms)
+- [Shopping online? From January, you'll see the discount margin](https://timesofindia.indiatimes.com/business/india-business/shopping-online-from-january-youll-see-the-discount-margin/articleshow/134029680.cms)
 - [22-year-old pleads guilty in US' biggest Bitcoin theft; spent millions on cars & more](https://timesofindia.indiatimes.com/technology/tech-news/22-year-old-school-dropout-pleads-guilty-in-americas-largest-bitcoin-robbery-posed-as-google-and-gemini-executives-spent-millions-on-sports-cars-night-clubs-and-mansions/articleshow/134008280.cms)
 
 **NDTV**
@@ -62,6 +62,8 @@
 - [ಮಲ್ಟಿಪ್ಲೆಕ್ಸ್ ಫಿಲಂ ಟೆಕೆಟ್‌ ಮೇಲಿನ ಸೆಸ್‌: ರಾಜ್ಯ ಸರಕಾರದ ಆದೇಶ ರದ್ದುಪಡಿಸಿದ ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್](https://vijaykarnataka.com/news/karnataka/cess-on-multiplex-film-ticket-karnataka-high-court-cancels-state-government-order/articleshow/134017440.cms)
 
 **The Hindu**
+- [VIT Chennai – The Hindu Biotech Conclave to throw spotlight on opportunities shaping the future of life sciences](https://www.thehindu.com/education/vit-chennai-the-hindu-biotech-conclave-to-throw-spotlight-on-opportunities-shaping-the-future-of-life-sciences/article71452474.ece)
+- [Wars, global crises may top agenda of 18th BRICS summit](https://www.thehindu.com/news/national/amid-global-crisis-top-leaders-to-attend-brics-summit-this-weekend/article71453048.ece)
 - [Mayawati ‘frees’ her nephew Akash Anand from BSP after his father-in-law quits politics](https://www.thehindu.com/news/national/uttar-pradesh/mayawati-frees-her-nephew-akash-anand-from-bsp-after-his-father-in-law-quits-politics/article71452463.ece)
 - [HMDA calls bids for 8.75 km elevated corridor between Banjara Hills and Gachibowli](https://www.thehindu.com/news/cities/Hyderabad/hmda-calls-bids-for-875-km-elevated-corridor-between-banjara-hills-and-gachibowli/article71452701.ece)
 - [1,071 out of 2,100 police stations in Tamil Nadu have been equipped to retain their CCTV footage for 18 months, T.N. DGP tells Madras High Court](https://www.thehindu.com/news/national/tamil-nadu/1071-out-of-2100-police-stations-in-tamil-nadu-have-been-equipped-to-retain-their-cctv-footage-for-18-months-tn-dgp-tells-madras-high-court/article71451842.ece)
@@ -70,8 +72,6 @@
 - [Advocate Commissioners’ fees in SARFAESI cases must be proportionate to the work involved, rules Madras High Court](https://www.thehindu.com/news/national/tamil-nadu/advocate-commissioners-fees-in-sarfaesi-cases-must-be-proportionate-to-the-work-involved-rules-madras-high-court/article71452299.ece)
 - [BJP loses power in Paralam panchayat as LDF supports UDF no-trust motion](https://www.thehindu.com/news/national/kerala/bjp-loses-power-in-paralam-panchayat-as-ldf-supports-udf-no-trust-motion/article71451362.ece)
 - [A wake-up call to keep the mind hale and hearty](https://www.thehindu.com/news/national/kerala/a-wake-up-call-to-keep-the-mind-hale-and-hearty/article71451959.ece)
-- [17 foreigners in Meghalaya jail after completing sentence, High Court finds](https://www.thehindu.com/news/national/meghalaya/17-foreigners-in-meghalaya-jail-after-completing-sentence-high-court-finds/article71450841.ece)
-- [The boom and bust of sporting culture in A.P.](https://www.thehindu.com/news/national/andhra-pradesh/the-boom-and-bust-of-sporting-culture-in-ap/article71453283.ece)
 
 **Livemint**
 - [BRICS 2026: Delhi braces for traffic diversions from 2 pm to 8:30 pm tomorrow, check alternate routes, diversion points](https://www.livemint.com/news/india/brics-2026-delhi-braces-for-traffic-diversions-from-2-pm-to-8-30-pm-tomorrow-check-alternate-routes-diversion-points-11789059378504.html)
@@ -104,6 +104,7 @@
 - Delhi (3.2)
 - ChatGPT (2.6)
 - India-Russia (2.6)
+- BRICS (2.6)
 - Ganesh (2.6)
 - Sept (2.6)
 - Madras High Court (2.0)
@@ -114,21 +115,20 @@
 - Congress-NC (1.3)
 - Lavrov (1.3)
 - Putin (1.3)
-- Wrong (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ബ്രിക്സ് ഉച്ചകോടി കൊണ്ട് ഇന്ത്യയ്ക്ക് എന്ത് ഗുണം? താനൊരു ഒരു നേട്ടവും കണ്ടിട്ടില്ല: പി ചിദംബരം](https://www.asianetnews.com/india-news/p-chidambaram-questions-indias-gains-from-brics-summits-articleshow-iq2tk6d)
-- [Bipasha Basu flags alleged contamination found inside newly opened nutrition product, appeals to Tukaram Mundhe: 'This is full of worms... tiny tiny worms'](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bipasha-basu-flags-alleged-contamination-found-inside-newly-opened-nutrition-product-appeals-to-tukaram-mundhe-this-is-full-of-worms-tiny-tiny-worms/articleshow/134000280.cms)
-- [कॅचचे पकडण्यासाठी क्रिकेटरनं जे केलं ते पाहून तुम्हालाही बसणार नाही विश्वास, Viral Video चे सत्य समोर](https://www.tv9marathi.com/sports/women-cricketer-unbelievable-catch-video-viral-on-social-media-1753233.html)
-- [జనసేన, బీజేపీ సిగ్గుపడాలి](https://www.ysrcongress.com/top-stories/jagan-slams-lokesh-over-dsc-104864)
-- [இசையமைப்பாளர் இளையராஜா மீது நீதிமன்ற அவமதிப்பு வழக்கு](https://www.dailythanthi.com/cinema/cinemanews/contempt-of-court-case-against-music-composer-ilaiyaraaja)
-- [IND vs PAK: भारतीय हॉकी संघाने पाकिस्तानचा १९-० असा उडवला धुव्वा; दिमाखात गाठली सेमीफायनल](https://www.lokmat.com/other-sports/ind-vs-pak-asia-cup-indian-hockey-team-thrashes-pakistan-19-0-reaches-semi-finals-in-style-a-a747/)
-- [“எல்​லோருக்​குமே ‘சிக்மா’ தருணம் இருந்திருக்கும்” - இயக்குநர் ஜேசன் சஞ்சய் கணிப்பு](https://www.hindutamil.in/news/cinema/tamil-cinema/director-jason-sanjay-predicts-that-everyone-will-have-a-sigma-moment)
-- [દુનિયામાં નહીં બચે સોનું? 22 મહિનાથી અંધાધૂંધ ખરીદી કરી રહ્યું ડ્રેગન, શું છે ચીનની ચાલ જાણો](https://tv9gujarati.com/photo-gallery/will-world-run-out-of-gold-china-buying-indiscriminately-for-22-months-1512815.html)
-- [मणिपुरी म्यूजिशियन C. विक्रम सिंह की हत्या में नया खुलासा, 'सबक सिखाने' के इरादे से की थी पिटाई, पूछताछ में दावा](https://www.aajtak.in/crime/news/story/manipuri-musician-c-vikram-singh-murder-new-revelation-sunlight-colony-delhi-kilokari-pvzs-dskc-2640126-2026-09-10)
-- [ઈરાને 'બાર્ટર સિસ્ટમ' દ્વારા અમેરિકા અને પશ્ચિમી દેશોને ચોંકાવ્યા, ચીન સાથે મળીને કર્યો ખેલ](https://www.gujaratsamachar.com/news/international/iran-surprised-america-and-western-countries-with-barter-system-played-along-with-china-45687817888)
+- [சென்னை உட்பட 17 மாவட்டங்களில் இன்று மழைக்கு வாய்ப்பு](https://www.dailythanthi.com/news/weather/chance-of-rain-in-17-districts-including-chennai-today)
+- ['तुम लेकर आओ, हम अपनी पार्टी में…’, मायावती के भतीजे आकाश पर अखिलेश का बड़ा ऑफर](https://www.aajtak.in/india/news/story/akash-anand-bsp-to-join-samajwadi-party-akhilesh-yadav-response-ntc-mnrd-dskc-2640169-2026-09-10)
+- [Telangana Politics: కేటీఆర్, హరీష్‌లపై లైంగిక వేధింపుల కేసు - మహిళా కానిస్టేబుల్ ఫిర్యాదుతో నమోదు!](https://telugu.abplive.com/telangana/saifabad-police-book-ktr-harish-rao-bns-case-woman-constable-complaint-258578)
+- ['मक्का समझौते' में ईरान को क्यों शामिल कराना चाहता है रूस?](https://www.bbc.com/hindi/articles/c158lx0dgjdo)
+- [സെപ്റ്റംബർ 11-ന് ബാങ്ക് പണിമുടക്ക്: മൂന്നുദിവസം ബാങ്കുകൾ അടഞ്ഞുകിടക്കും](https://www.mathrubhumi.com/money/news/bank-strike-september-11-three-day-closure-i2gvzd6a)
+- [১৯ গোলের তোপে তছনছ পাকিস্তান! একপেশে জয়ে যুব হকি এশিয়া কাপের সেমিফাইনালে ভারতের মেয়েরা](https://www.thewall.in/sports/womens-junior-asia-cup-2026-india-thrash-pakistan-19-0-hockey/tid/204464)
+- [സി.പി.എമ്മിൽ നയവ്യതിയാനമുണ്ടായി, ഭരിക്കുന്നവർ മാത്രമായി മാറി- കെ.ടി. കുഞ്ഞിക്കണ്ണൻ](https://www.mathrubhumi.com/news/kerala/cpm-policy-deviation-kt-kunhikannan-jry8y84z)
+- [‘Bangladesh PM not invited to BRICS’: Tarique Rahman's govt minister rules out his India visit](https://www.hindustantimes.com/world-news/bangladesh-pm-not-invited-to-brics-tarique-rahmans-govt-minister-rules-out-his-india-visit-101789030055365.html)
+- [రివ్యూ: మండాడి.. సూరి, సుహాస్‌ల స్పోర్ట్స్‌ యాక్షన్‌ డ్రామా ఎలా ఉంది?](https://www.eenadu.net/telugu-news/movies/mandadi-movie-review-in-telugu/0203/126163654)
+- [Asian Games 2026 Breaking News: એશિયન ગેમ્સ પહેલા ટીમ ઈન્ડિયાને મોટો ઝટકો, ઈજાના કારણે હર્ષિત રાણા બહાર, આ સ્ટાર પ્લેયરની થઈ એન્ટ્રી!](https://tv9gujarati.com/photo-gallery/asian-games-2026-breaking-news-harshit-rana-out-asian-games-afghanistan-series-yash-thakur-replacement-1512858.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
