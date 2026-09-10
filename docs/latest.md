@@ -1,20 +1,20 @@
-# India Trending Report — 2026-09-10 22:33:45
+# India Trending Report — 2026-09-10 23:01:37
 
 ## Google Trends (India) — top trending searches
 1. [oppo coloros 17](https://trends.google.com/trending/rss?geo=IN)
 2. [shailene woodley](https://trends.google.com/trending/rss?geo=IN)
 3. [como 1907 vs rb leipzig standings](https://trends.google.com/trending/rss?geo=IN)
 4. [alphonso davies](https://trends.google.com/trending/rss?geo=IN)
-5. [manchester united f.c. vs sabah fk standings](https://trends.google.com/trending/rss?geo=IN)
-6. [harry kane](https://trends.google.com/trending/rss?geo=IN)
-7. [skip](https://trends.google.com/trending/rss?geo=IN)
-8. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
-9. [maps](https://trends.google.com/trending/rss?geo=IN)
-10. [binance buy crypto](https://trends.google.com/trending/rss?geo=IN)
+5. [harry kane](https://trends.google.com/trending/rss?geo=IN)
+6. [skip](https://trends.google.com/trending/rss?geo=IN)
+7. [maps](https://trends.google.com/trending/rss?geo=IN)
+8. [binance buy crypto](https://trends.google.com/trending/rss?geo=IN)
+9. [nico paz](https://trends.google.com/trending/rss?geo=IN)
+10. [after](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Putin arrives in India ahead of Brics Summit 2026, to meet PM Modi](https://timesofindia.indiatimes.com/india/russia-president-vladimir-putin-arrives-in-india-ahead-of-brics-summit-2026-to-meet-pm-modi/articleshow/134031374.cms)
+- [Putin lands in Delhi ahead for Brics Summit, to meet PM Modi](https://timesofindia.indiatimes.com/india/russia-president-vladimir-putin-arrives-in-india-ahead-of-brics-summit-2026-to-meet-pm-modi/articleshow/134031374.cms)
 - [India adds 30 new nuclear warheads, total at 190: US Study](https://timesofindia.indiatimes.com/defence/news/india-may-have-produced-enough-plutonium-for-140-to-225-nukes-might-have-assembled-up-to-190-warheads-us-study/articleshow/134023612.cms)
 - [Houthis seize Yemen's strategic Red Sea port city of Mokha from Saudi-backed forces](https://timesofindia.indiatimes.com/world/middle-east/houthis-seize-yemens-strategic-red-sea-port-city-of-mokha-from-saudi-backed-forces/articleshow/134025249.cms)
 - [Why iPhones are so expensive in India again](https://timesofindia.indiatimes.com/technology/tech-news/why-iphones-are-so-expensive-in-india-again/articleshow/134014478.cms)
@@ -22,7 +22,7 @@
 - [1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-5-chatgpt-prompts-to-create-kerala-style-retro-images/articleshow/133999924.cms)
 - [Deadly plot by ‘killer bahu’: Kanpur bizman sensed danger, but ended up with 26 stab wounds](https://timesofindia.indiatimes.com/city/kanpur/killer-bahus-deadly-game-kanpur-bizmen-sensed-danger-but-ended-up-with-26-stab-wounds-and-a-slit-throat/articleshow/134011762.cms)
 - [Lavrov arrives in India ahead of Brics Summit; Putin to arrive shortly](https://timesofindia.indiatimes.com/india/brics-summit-2026-pm-modi-says-all-set-putin-to-arrive-in-few-hours-top-developments/articleshow/134015100.cms)
-- [Global climate record: August this year joint-warmest month with July '23](https://timesofindia.indiatimes.com/india/global-climate-record-august-this-year-joint-warmest-month-with-july-23/articleshow/134033453.cms)
+- [DNA main hope for identity, but backlog overwhelms Nepal forensic labs](https://timesofindia.indiatimes.com/world/south-asia/dna-main-hope-for-identity-but-backlog-overwhelms-nepal-forensic-labs/articleshow/134035044.cms)
 - [22-year-old pleads guilty in US' biggest Bitcoin theft; spent millions on cars & more](https://timesofindia.indiatimes.com/technology/tech-news/22-year-old-school-dropout-pleads-guilty-in-americas-largest-bitcoin-robbery-posed-as-google-and-gemini-executives-spent-millions-on-sports-cars-night-clubs-and-mansions/articleshow/134008280.cms)
 
 **NDTV**
@@ -49,9 +49,21 @@
 - ['Seems like an ex-girlfriend': Raghav Chadha counters AAP's Delhi voter roll allegations with 'heartbroken lover' jibe](https://www.hindustantimes.com/india-news/seems-like-an-ex-girlfriend-raghav-chadha-counters-aaps-delhi-voter-roll-allegations-with-heartbroken-lover-jibe-101789053136332.html)
 - [Heavy vehicles banned on Mumbai-Goa highway during Ganeshotsav](https://www.hindustantimes.com/india-news/heavy-vehicles-banned-on-mumbai-goa-highway-during-ganeshotsav-101789055065816.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಕರ್ನಾಟಕದಲ್ಲಿ ಎರಡೇ ಚರಣದ ವಂದೇ ಮಾತರಂ ಕಡ್ಡಾಯ; 3 ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ ಮಾತ್ರ ಪೂರ್ಣ ಗೀತೆ - ಸರ್ಕಾರ ಆದೇಶ](https://vijaykarnataka.com/news/karnataka/only-the-2-stanza-version-of-vande-mataram-is-mandatory-in-karnataka-full-song-required-only-for-3-events-government-order/articleshow/134018671.cms)
+- [Womens Asia Cup 2026- ಶಫಾಲಿ ವರ್ಮಾ ಬಿರುಗಾಳಿ ಬ್ಯಾಟಿಂಗ್ ಗೆ ಬಾಂಗ್ಲಾ ತತ್ತರ; ಸತತ 10ನೇ ಬಾರಿ ಫೈನಲ್ ಗೇರಿದ ಭಾರತ](https://vijaykarnataka.com/sports/cricket/news/womens-asia-cup-2026-shafali-verma-half-century-india-beat-bangladesh-enters-final/articleshow/134022744.cms)
+- [ಆನ್ ಲೈನ್ ಗ್ರಾಹಕರ ಹಿತರಕ್ಷಣೆಗಾಗಿ ಮಹತ್ವದ ಕ್ರಮ, ಬಿಗಿಯಾಗಲಿದೆ ಇ ಕಾಮರ್ಸ್‌ ನಿಯಮ!: ಇಲ್ಲಿದೆ ಸಂಪೂರ್ಣ ಮಾಹಿತಿ](https://vijaykarnataka.com/business/news/to-protect-online-consumers-e-commerce-rules-to-be-tightened/articleshow/134020845.cms)
+- [ಸ್ಲಿಮ್ ಆಗಿ, ಫಿಟ್ ಆಗಿದ್ದರೂ ಹೃದಯಾಘಾತದ ಅಪಾಯವಿದೆಯೇ? ವೈದ್ಯರ ಮಹತ್ವದ ಸಲಹೆ](https://vijaykarnataka.com/lifestyle/health/world-heart-day-2026-can-fit-thin-people-have-heart-disease/articleshow/134005577.cms)
+- [ಡಿಕೆಶಿ ಸರಕಾರಕ್ಕೆ ಶತದಿನ ಸಮಾರಂಭದ ಮಧ್ಯದಲ್ಲೇ ಸಿದ್ದರಾಮಯ್ಯ ನಿರ್ಗಮನ: ಕಾಲಿಗೆ ನಮಸ್ಕರಿಸಿ ಬೀಳ್ಕೊಟ್ಟ ಡಿಕೆ ಶಿವಕುಮಾರ್](https://vijaykarnataka.com/news/karnataka/cm-dk-shivakumar-bowed-at-siddaramaiahs-feet-and-bid-farewell/articleshow/134019248.cms)
+- [ಮೇಗಾ ಫ್ಯಾಮಿಲಿ ಮೊಮ್ಮಗು ಹೇಗಿದೆ? ಮಗು ಫೋಟೋ ರಿವೀಲ್‌ ಮಾಡಿದ ತೆಲುಗು ಸ್ಟಾರ್ ಜೋಡಿ ಲಾವಣ್ಯ-ವರುಣ್‌!](https://vijaykarnataka.com/entertainment/news/how-is-the-mega-familys-grandchild-telugu-star-couple-lavanya-tripathi-and-varun-tej-reveal-the-babys-photo/articleshow/134027437.cms)
+- [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
+- [2026ರ ಬೆನಕನ ಅಮಾವಾಸ್ಯೆ: ಶುಭ ಮುಹೂರ್ತ, ಪೂಜೆ ವಿಧಾನ, ಮಂತ್ರ ಮತ್ತು ಮಹತ್ವ.!](https://vijaykarnataka.com/religion/festivals/pithori-amavasya-2026-or-benakana-amavasya-date-and-time-amavasya-puja-procedure-amavasya-mantras-and-its-importance/articleshow/134009922.cms)
+- [ಮೈದಾ ಇಲ್ಲದ ಗೋಧಿ ಹಿಟ್ಟು-ಖೋವಾ ಮೋದಕ; ಗಣೇಶ ಚತುರ್ಥಿಗೆ ಸುಲಭ ರೆಸಿಪಿ](https://vijaykarnataka.com/lifestyle/home-decor/atta-mawa-modak-recipe-ganesh-chaturthi/articleshow/134002088.cms)
+- [ಮಲ್ಟಿಪ್ಲೆಕ್ಸ್ ಫಿಲಂ ಟೆಕೆಟ್‌ ಮೇಲಿನ ಸೆಸ್‌: ರಾಜ್ಯ ಸರಕಾರದ ಆದೇಶ ರದ್ದುಪಡಿಸಿದ ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್](https://vijaykarnataka.com/news/karnataka/cess-on-multiplex-film-ticket-karnataka-high-court-cancels-state-government-order/articleshow/134017440.cms)
 
 **The Hindu**
+- [Bihar Congress disciplinary committee issues show-cause notices to 29 leaders](https://www.thehindu.com/news/national/bihar/bihar-congress-disciplinary-committee-issues-show-cause-notices-to-29-leaders/article71452130.ece)
+- [Russian President Vladimir Putin arrives in New Delhi to attend BRICS summit](https://www.thehindu.com/news/national/russian-president-vladimir-putin-in-new-delhi-to-attend-brics-summit/article71453608.ece)
 - [Supreme Court declines pre-arrest relief to Abhishek Banerjee’s PA](https://www.thehindu.com/news/national/west-bengal/supreme-court-declines-pre-arrest-relief-to-abhishek-banerjees-pa/article71452952.ece)
 - [Maratha protesters will head to Mumbai, says Jarange Patil](https://www.thehindu.com/news/national/maharashtra/maratha-protesters-will-head-to-mumbai-says-jarange-patil/article71452663.ece)
 - [Gauhati High Court seeks clarity on rehab for evicted people in Assam](https://www.thehindu.com/news/national/assam/gauhati-high-court-seeks-clarity-on-rehab-for-evicted-people-in-assam/article71450940.ece)
@@ -60,8 +72,6 @@
 - [SC refuses to entertain PIL raising concerns over HPV vaccination campaign](https://www.thehindu.com/sci-tech/health/sc-refuses-to-entertain-pil-raising-concerns-over-hpv-vaccination-campaign/article71450584.ece)
 - [VIT Chennai – The Hindu Biotech Conclave to throw spotlight on opportunities shaping the future of life sciences](https://www.thehindu.com/education/vit-chennai-the-hindu-biotech-conclave-to-throw-spotlight-on-opportunities-shaping-the-future-of-life-sciences/article71452474.ece)
 - [Wars, global crises may top agenda of 18th BRICS summit](https://www.thehindu.com/news/national/amid-global-crisis-top-leaders-to-attend-brics-summit-this-weekend/article71453048.ece)
-- [Mayawati ‘frees’ her nephew Akash Anand from BSP after his father-in-law quits politics](https://www.thehindu.com/news/national/uttar-pradesh/mayawati-frees-her-nephew-akash-anand-from-bsp-after-his-father-in-law-quits-politics/article71452463.ece)
-- [HMDA calls bids for 8.75 km elevated corridor between Banjara Hills and Gachibowli](https://www.thehindu.com/news/cities/Hyderabad/hmda-calls-bids-for-875-km-elevated-corridor-between-banjara-hills-and-gachibowli/article71452701.ece)
 
 **Livemint**
 - [Jimmy Kimmel moves James Talarico interview to YouTube, says FCC pressure kept it off ABC television](https://www.livemint.com/news/us-news/jimmy-kimmel-moves-james-talarico-interview-to-youtube-says-fcc-pressure-kept-it-off-abc-television-11789076663977.html)
@@ -90,35 +100,35 @@
 - [ದೇಶದ ಉನ್ನತ ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳಲ್ಲಿ ನಾಯಕತ್ವದ ಕೊರತೆ: 155 ರಾಷ್ಟ್ರೀಯ ಪ್ರಾಮುಖ್ಯತೆಯ ಸಂಸ್ಥೆಗಳ ಪೈಕಿ 37 ಕಡೆಗಳಲ್ಲಿ ಪ್ರಭಾರ ಮುಖ್ಯಸ್ಥರು](https://www.varthabharati.in/vishesha-varadigalu/37-of-155-institutions-of-national-importance-running-with-interim-acting-heads-2274372)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (7.8)
-- Delhi (4.8)
-- BRICS (3.2)
-- Putin (2.9)
+- India (6.5)
+- Delhi (6.4)
+- BRICS (4.5)
+- Putin (4.2)
 - India-Russia (2.6)
 - Summit (2.2)
 - Brics Summit (2.0)
 - Brics (1.9)
 - Anthropic (1.6)
 - Goyal (1.6)
+- Bihar (1.6)
 - Houthis (1.3)
 - Yemen's (1.3)
 - Mokha (1.3)
 - Saudi-backed (1.3)
-- Bimstec (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ['80s वाइब' बना सियासी हथियार: ChatGPT के नए ट्रेंड पर क्यों भिड़ीं कांग्रेस और BJP?](https://www.jagran.com/news/national-ai-80s-trend-becomes-political-weapon-bjp-vs-congress-40368696.html)
-- [Surya Gochar 2026 : ग्रहांचा राजा सूर्याचं महासंक्रमण! 17 सप्टेंबरपासून 5 राशींची पाचही बोटं तुपात, हातात खेळणार पैसाच पैसा](https://marathi.abplive.com/astro/surya-gochar-2026-sun-budh-will-formed-budhaditya-rajyog-these-are-lucky-zodiac-signs-astrology-marathi-news-1438670)
-- [கவனத்திற்குரிய முக்கியச் செய்திகள் 10.9.2026](https://viduthalai.in/205748/%E0%AE%95%E0%AE%B5%E0%AE%A9%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B1%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B0%E0%AE%BF%E0%AE%AF-%E0%AE%AE%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AF-782/)
-- [“குடியரசு கட்சி வென்றால் அமெரிக்கர்களுக்கு தலா 5,000 டாலர்” - ட்ரம்ப் வாக்குறுதி](https://www.hindutamil.in/news/world/trump-promises-americans-5000-if-republicans-win-congress)
-- [Suvendu Adhikari on Communist Stall: শারদোৎসব লিখলে স্টল পাবে না CPIM? পুজো কমিটিগুলিকে যা নির্দেশ মুখ্যমন্ত্রীর...](https://bangla.aajtak.in/west-bengal/story/if-communits-writes-sharodotsav-do-not-give-them-stall-directs-cm-suvendu-adhikari-sud-1449018-2026-09-10)
-- [బ్రిక్స్ సదస్సు కోసం జిన్‌పింగ్ భారత్‌కు వస్తారా.. ఇప్పటికీ క్లారిటీ లేదంటున్న చైనా..](https://www.andhrajyothy.com/2026/national/xi-jinping-india-visit-china-keeps-suspense-ahead-of-brics-summit-sgr-1556974.html)
-- [Tamil News Live: இன்றைய முக்கிய செய்திகள்](https://www.maalaimalar.com/news/tamilnadu/today-news-in-tamil-live-updates-10-september-2026)
-- [પંચમહાલ: વરસાદ ખેંચાતાં 1.5 લાખ હેક્ટરનો પાક સુકાવાના આરે, ખેડૂતોએ વળતરની માગ કરી](https://www.gujaratsamachar.com/news/panchmahal/panchmahal-crops-on-15-lakh-hectares-on-the-verge-of-drying-up-due-to-prolonged-rains-farmers-demand-compensation-45979668718)
-- [भारत के पास 190 परमाणु बम, और बढ़ेगा आंकड़ा; अमेरिकी रिपोर्ट में बड़ा खुलासा](https://www.indiatv.in/world/us/indias-nuclear-arsenal-estimated-at-190-warheads-reveals-in-report-2026-09-10-1242452)
-- [From Mercury to Neptune: NASA's stunning images of all 8 Planets in our Solar System](https://www.moneycontrol.com/science/from-mercury-to-neptune-nasa-s-stunning-images-of-all-8-planets-in-our-solar-system-article-14027062.html)
+- [‘October 2027 is far away’: Rohit Sharma breaks silence on World Cup future, begins preparations for West Indies ODIs](https://timesofindia.indiatimes.com/sports/cricket/news/october-2027-is-far-away-rohit-sharma-breaks-silence-on-world-cup-future-begins-preparations-for-west-indies-odis/articleshow/134005191.cms)
+- [Mumbai Local : मुंब्रा-दिवा वळणावर महिला थेट लोकल ट्रेनमधून खाली पडली, घटना कॅमेऱ्यात कैद](https://maharashtratimes.com/maharashtra/mumbai-news/woman-falls-from-local-train-between-mumbra-and-diva-video-goes-viral/articleshow/134003913.cms)
+- [CAS is here to stay, liquidity builds up over time, says SEBI's Tuhin Kanta Pandey](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/cas-is-here-to-stay-liquidity-builds-up-over-time-says-sebi-s-tuhin-kanta-pandey-14027197.html)
+- [At least 25 killed after cargo ship catches fire at Chinese port](https://www.hindustantimes.com/world-news/several-killed-after-cargo-ship-catches-fire-at-chinese-port-101789037458233.html)
+- [At least 25 killed in cargo ship fire at China’s Qingdao port - all you need to know](https://timesofindia.indiatimes.com/world/china/at-least-20-killed-in-cargo-ship-fire-at-chinas-qingdao-port-all-you-need-to-know/articleshow/134001676.cms)
+- [Ajay Baraskar On Manoj Jarange: मोठी बातमी : मनोज जरांगेंविरुद्ध थेट ED मध्ये तक्रार, वाळू तस्करी केल्याचा आरोप, अजय बारसकर आक्रमक](https://marathi.abplive.com/news/politics/direct-complaint-filed-against-manoj-jarange-with-the-ed-allegations-of-sand-smuggling-ajay-bavaskar-takes-an-aggressive-stance-1438674)
+- [TVK: நேத்து வந்தவங்களுக்கு சீட்டா? இடைத்தேர்தலில் அதிமுக முன்னாள் எம்எல்ஏ-க்களுக்கு வாய்ப்பு! அப்செட்டில் தவெக நிர்வாகிகள்](https://tamil.abplive.com/news/tamil-nadu/cm-vijay-announce-dharapuram-maduranthagam-candidate-former-admk-mlas-274133)
+- [कप्तान ईशान किशन और वैभव सूर्यवंशी हाथ में स्टंप लेकर डांस करते नजर आए, VIDEO](https://www.aajtak.in/sports/cricket/story/ishan-kishan-vaibhav-sooryavanshi-stump-dance-after-east-zone-duleep-trophy-win-tspok-dskc-2640217-2026-09-10)
+- [Komatireddy Rajagopal Reddy | ఇందిరమ్మ ఇల్లుకు రూ.5 లక్షలు సరిపోవు.. కాంగ్రెస్ ఎమ్మెల్యే కోమటి రెడ్డి రాజగోపాల్‌ రెడ్డి](https://www.ntnews.com/telangana/rs-5-lacks-are-not-enough-to-indiramma-houses-says-komatireddy-rajagopal-reddy-2507474)
+- [मोठी बातमी : कॅबिनेट मंत्र्याच्या सख्ख्या भावाला रक्त सांडेपर्यंत मारहाण, जमिनीच्या वाद पेटला, भाऊ आणि पुतण्या रुग्णालयात](https://marathi.abplive.com/news/politics/sambhajinagar-crime-news-cabinet-minister-atul-save-brother-brutally-beaten-land-dispute-flares-up-brother-and-nephew-hospitalized-1438671)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
