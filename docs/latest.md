@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-09 23:33:19
+# India Trending Report — 2026-09-10 00:03:02
 
 ## Google Trends (India) — top trending searches
-1. [समाचार खबरें](https://trends.google.com/trending/rss?geo=IN)
-2. [botic van de zandschulp](https://trends.google.com/trending/rss?geo=IN)
-3. [oppo a7](https://trends.google.com/trending/rss?geo=IN)
-4. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
-5. [santos vs atlético mineiro](https://trends.google.com/trending/rss?geo=IN)
-6. [liverpool f.c. vs atlético madrid standings](https://trends.google.com/trending/rss?geo=IN)
-7. [karen khachanov](https://trends.google.com/trending/rss?geo=IN)
-8. [mika godts](https://trends.google.com/trending/rss?geo=IN)
-9. [luis suárez](https://trends.google.com/trending/rss?geo=IN)
-10. [sydney sweeney](https://trends.google.com/trending/rss?geo=IN)
+1. [delhi police](https://trends.google.com/trending/rss?geo=IN)
+2. [समाचार खबरें](https://trends.google.com/trending/rss?geo=IN)
+3. [botic van de zandschulp](https://trends.google.com/trending/rss?geo=IN)
+4. [oppo a7](https://trends.google.com/trending/rss?geo=IN)
+5. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
+6. [santos vs atlético mineiro](https://trends.google.com/trending/rss?geo=IN)
+7. [1980s ai photo trend](https://trends.google.com/trending/rss?geo=IN)
+8. [liverpool f.c. vs atlético madrid standings](https://trends.google.com/trending/rss?geo=IN)
+9. [karen khachanov](https://trends.google.com/trending/rss?geo=IN)
+10. [mika godts](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Nivin Pauly Film Electrician Dies of Electrocution](https://www.mathrubhumi.com/movies-music/news/nivin-pauly-film-electrician-dies-electrocution-gjhjsuyg)
-- [Cabinet approves Rs 20,804 crore railway projects across nine states](https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-rs-20804-crore-railway-projects-across-nine-states/articleshow/133966520.cms)
-- [Apple's 'Surprise and Shine' iPhone 18 series launch event](https://www.thehindu.com/sci-tech/technology/apples-surprise-and-shine-iphone-18-series-launch-event-live-updates/article71441260.ece)
-- ['સાઉદી પર હુમલો એ પાકિસ્તાન પર જ હુમલો ગણાશે...' ખ્વાઝા આસિફની હુથીઓને ચેતવણી](https://www.gujaratsamachar.com/news/international/an-attack-on-saudi-arabia-will-be-considered-an-attack-on-pakistan-khawaja-asif-warns-houthis-48737893589)
-- [Howrah 4 Lane Railway : পশ্চিমবঙ্গে ৪ লেনের রেললাইন, কোন রুটে? হাওড়ার যাত্রীদের জন্য বড় খবর](https://bangla.aajtak.in/kolkata/story/railway-4-lane-project-in-west-bengal-howrah-passengers-to-get-better-train-connectivity-suk-1448629-2026-09-09)
-- [Narmada: તિલકવાડામાં અકસ્માતમાં બે યુવકનો મોત](https://www.gujaratfirst.com/narmada/gujarat-first-digital-narmada-tilakwada-accident/337827/)
-- [വിരാട് കോലിയുടെ വൺ8 ഷൂകൾ ധരിച്ച് പാക് വനിതാ താരങ്ങൾ; ചർച്ചയായി ചിത്രങ്ങൾ](https://www.mathrubhumi.com/sports/cricket/pakistan-women-cricketers-virat-kohli-one8-shoes-asia-cup-yihfkris)
-- [जस्टिस स्वर्ण कांता शर्मा का जिक्र कर सौरभ दास की मुश्किलें बढ़ाना चाहते हैं गौरव भाटिया, याचिका में जिक्र](https://www.livehindustan.com/ncr/gaurav-bhatia-mention-of-justice-swarna-kanta-sharma-in-saurav-das-case-201788951952648.html)
-- [Shriya Pilgaonkar admits 'Mirzapur: The Movie' success was beyond expectations: 'Couldn’t have gauged this scale'](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shriya-pilgaonkar-admits-mirzapur-the-movie-success-was-beyond-expectations-couldnt-have-gauged-this-scale/articleshow/133966152.cms)
-- [‘আঙুর টক’ কটাক্ষে সুনিধিকে জবাব! ‘ইন্ডিয়ান আইডল’](https://bengali.indianexpress.com/entertainment/neha-kakkar-sunidhi-chauhan-indian-idol-trp-scripted-reality-show-12510123)
+- [BRS Representatives | మార్ఫింగ్‌ ఫోటోలపై చర్యలు తీసుకోవాలని బీఆర్‌ఎస్‌ ప్రతినిధుల ఫిర్యాదు](https://www.ntnews.com/telangana/brs-representatives-lodge-complaint-over-morphed-photos-2506695)
+- [Drishyam 3: અજય દેવગનની ફિલ્મ 'દ્રશ્યમ 3'નું ધમાકેદાર ટ્રેલર લોન્ચ, જુઓ](https://gujarati.abplive.com/entertainment/bollywood/drishyam-3-the-conclusion-trailer-released-film-to-be-released-on-2-october-990795)
+- [Watch: Astrophotographer captures Roman telescope flying in space to its new home](https://www.indiatoday.in/science/story/nasa-roman-space-telescope-spotted-night-sky-2990772-2026-09-09)
+- [Ranabali | ‘రణబాలి’ టీజర్‌తో విజయ్ దేవరకొండ మాస్ కంబ్యాక్.. ఊహించని విజువల్స్‌తో దుమ్మురేపిన టీజర్!](https://www.ntnews.com/cinema/ranabali-teaser-out-2506371)
+- [Hardik Pandya: ফিটনেস টেস্টেই কি লুকিয়ে হার্দিকের প্রত্যাবর্তন?](https://www.aaroananda.com/story/sports-news/breaking-news/hardik-pandya-selected-in-india-a-squad-for-australia-series/11018765)
+- [‘আঙুর ফল টক...’, রিয়েলিটি শো'র স্ক্রিপ্ট বিতর্কে সুনিধিকে 'অসম্মান' নেহার, ক্ষুব্ধ নেটপাড়া](https://www.thewall.in/entertainment/neha-kakkar-faces-backlash-over-sour-grapes-remark-on-sunidhi-chauhan-and-reality-shows/tid/204396)
+- [पाकिस्तान टीम की फिर से मिट्टी पलीद, बाबर आजम के बोल्ड पर आएगी हंसी, देखें VIDEO](https://www.indiatv.in/sports/cricket/pakistan-team-loses-again-babar-azam-bold-will-make-you-laugh-vs-england-test-2026-09-09-1242245)
+- ['Hanuman Ansh' box office collection Day 34 (LIVE): The film based on Neem Karoli Baba crosses inches towards Rs 150 crore net](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-34-live-the-film-based-on-neem-karoli-baba-crosses-inches-towards-rs-150-crore-net/articleshow/133961640.cms)
+- [‘सुंदर महिला की डेडबॉडी से भी रेप होता है’ रीवा में विवादिन बयान के बाद भोपाल में धरने पर बैठे कांग्रेस विधायक को पुलिस ने उठाया](https://navbharattimes.indiatimes.com/state/madhya-pradesh/rewa/mla-abhay-mishra-controversial-statement-sanjay-gandhi-hospital-mortuary/articleshow/133966323.cms)
+- ['औरतें बल्ब की तरह नहीं', लस्ट स्टोरी 3 का ट्रेलर रिलीज, अदिति-राधिका ने लूटी महफिल](https://www.aajtak.in/entertainment/bollywood-news/story/lust-stories-3-trailer-out-siddharth-aditi-rao-hydari-chemistry-radhika-apte-woman-desire-tmovg-dskc-2639600-2026-09-09)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
