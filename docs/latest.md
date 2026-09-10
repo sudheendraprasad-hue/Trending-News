@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-10 21:02:00
+# India Trending Report — 2026-09-10 21:33:00
 
 ## Google Trends (India) — top trending searches
-1. [maps](https://trends.google.com/trending/rss?geo=IN)
-2. [binance exchange](https://trends.google.com/trending/rss?geo=IN)
-3. [nico paz](https://trends.google.com/trending/rss?geo=IN)
-4. [matheus cunha](https://trends.google.com/trending/rss?geo=IN)
-5. [leny yoro](https://trends.google.com/trending/rss?geo=IN)
-6. [alibaba](https://trends.google.com/trending/rss?geo=IN)
-7. [no](https://trends.google.com/trending/rss?geo=IN)
-8. [ucl fixtures](https://trends.google.com/trending/rss?geo=IN)
-9. [a](https://trends.google.com/trending/rss?geo=IN)
-10. [bayern munich](https://trends.google.com/trending/rss?geo=IN)
+1. [x](https://trends.google.com/trending/rss?geo=IN)
+2. [weather chennai](https://trends.google.com/trending/rss?geo=IN)
+3. [skip](https://trends.google.com/trending/rss?geo=IN)
+4. [maps](https://trends.google.com/trending/rss?geo=IN)
+5. [binance buy crypto](https://trends.google.com/trending/rss?geo=IN)
+6. [nico paz](https://trends.google.com/trending/rss?geo=IN)
+7. [after](https://trends.google.com/trending/rss?geo=IN)
+8. [matheus cunha](https://trends.google.com/trending/rss?geo=IN)
+9. [no](https://trends.google.com/trending/rss?geo=IN)
+10. [leny yoro](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Congress-NC rift over Vande Mataram: The ghost of 1987 and ‘big brother’ complex](https://timesofindia.indiatimes.com/india/congress-nc-rift-over-vande-mataram-the-ghost-of-1987-and-big-brother-complex/articleshow/133994525.cms)
+- [Houthis seize Yemen's strategic Red Sea port city of Mokha from Saudi-backed forces](https://timesofindia.indiatimes.com/world/middle-east/houthis-seize-yemens-strategic-red-sea-port-city-of-mokha-from-saudi-backed-forces/articleshow/134025249.cms)
+- [Deadly plot by ‘killer bahu’: Kanpur bizman sensed danger, but ended up with 26 stab wounds](https://timesofindia.indiatimes.com/city/kanpur/killer-bahus-deadly-game-kanpur-bizmen-sensed-danger-but-ended-up-with-26-stab-wounds-and-a-slit-throat/articleshow/134011762.cms)
 - [Lavrov arrives in India ahead of Brics Summit; Putin to arrive shortly](https://timesofindia.indiatimes.com/india/brics-summit-2026-pm-modi-says-all-set-putin-to-arrive-in-few-hours-top-developments/articleshow/134015100.cms)
-- [Need social media firewalls, safeguards for minors: Supreme Court](https://timesofindia.indiatimes.com/india/need-social-media-firewalls-safeguards-for-minors-supreme-court/articleshow/134029505.cms)
 - [Why iPhones are so expensive in India again](https://timesofindia.indiatimes.com/technology/tech-news/why-iphones-are-so-expensive-in-india-again/articleshow/134014478.cms)
-- [Wrong turn, DHS: My name is 'Singh' and I’m not a bad truck driver](https://timesofindia.indiatimes.com/world/us/wrong-turn-dhs-my-name-is-singh-and-im-not-a-bad-truck-driver/articleshow/134014675.cms)
+- [Amid West Asia conflict, Iran president to meet PM Modi today](https://timesofindia.indiatimes.com/india/amid-west-asia-conflict-iran-president-to-meet-modi-today/articleshow/134030203.cms)
 - [1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-5-chatgpt-prompts-to-create-kerala-style-retro-images/articleshow/133999924.cms)
+- [Need social media firewalls, safeguards for minors: Supreme Court](https://timesofindia.indiatimes.com/india/need-social-media-firewalls-safeguards-for-minors-supreme-court/articleshow/134029505.cms)
+- [Wrong turn, DHS: My name is 'Singh' and I’m not a bad truck driver](https://timesofindia.indiatimes.com/world/us/wrong-turn-dhs-my-name-is-singh-and-im-not-a-bad-truck-driver/articleshow/134014675.cms)
 - [Lawyer Vijay Aggarwal, assistant appear in London court over sexual assault charges](https://timesofindia.indiatimes.com/world/uk/lawyer-vijay-aggarwal-and-assistant-manpreet-kaur-appear-in-london-court-over-sexual-assault-charges/articleshow/134028932.cms)
-- [Centre ready to fulfil Ladakh's aspirations, asks for 'patience'](https://timesofindia.indiatimes.com/india/centre-ready-to-fulfil-ladakhs-aspirations-asks-for-patience/articleshow/134028802.cms)
-- [Shopping online? From January, you'll see the discount margin](https://timesofindia.indiatimes.com/business/india-business/shopping-online-from-january-youll-see-the-discount-margin/articleshow/134029680.cms)
 - [22-year-old pleads guilty in US' biggest Bitcoin theft; spent millions on cars & more](https://timesofindia.indiatimes.com/technology/tech-news/22-year-old-school-dropout-pleads-guilty-in-americas-largest-bitcoin-robbery-posed-as-google-and-gemini-executives-spent-millions-on-sports-cars-night-clubs-and-mansions/articleshow/134008280.cms)
 
 **NDTV**
@@ -62,6 +62,8 @@
 - [ಮಲ್ಟಿಪ್ಲೆಕ್ಸ್ ಫಿಲಂ ಟೆಕೆಟ್‌ ಮೇಲಿನ ಸೆಸ್‌: ರಾಜ್ಯ ಸರಕಾರದ ಆದೇಶ ರದ್ದುಪಡಿಸಿದ ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್](https://vijaykarnataka.com/news/karnataka/cess-on-multiplex-film-ticket-karnataka-high-court-cancels-state-government-order/articleshow/134017440.cms)
 
 **The Hindu**
+- [Under-construction bridge collapses in Bihar’s Vaishali, seven injured](https://www.thehindu.com/news/national/bihar/under-construction-bridge-collapses-in-bihars-vaishali-seven-injured/article71451810.ece)
+- [SC refuses to entertain PIL raising concerns over HPV vaccination campaign](https://www.thehindu.com/sci-tech/health/sc-refuses-to-entertain-pil-raising-concerns-over-hpv-vaccination-campaign/article71450584.ece)
 - [VIT Chennai – The Hindu Biotech Conclave to throw spotlight on opportunities shaping the future of life sciences](https://www.thehindu.com/education/vit-chennai-the-hindu-biotech-conclave-to-throw-spotlight-on-opportunities-shaping-the-future-of-life-sciences/article71452474.ece)
 - [Wars, global crises may top agenda of 18th BRICS summit](https://www.thehindu.com/news/national/amid-global-crisis-top-leaders-to-attend-brics-summit-this-weekend/article71453048.ece)
 - [Mayawati ‘frees’ her nephew Akash Anand from BSP after his father-in-law quits politics](https://www.thehindu.com/news/national/uttar-pradesh/mayawati-frees-her-nephew-akash-anand-from-bsp-after-his-father-in-law-quits-politics/article71452463.ece)
@@ -70,8 +72,6 @@
 - [Ganesh celebrations from Sept. 14; immersion on Sept. 25](https://www.thehindu.com/news/cities/Hyderabad/ganesh-celebrations-from-sept-14-immersion-on-sept-25/article71452121.ece)
 - [Ganesh festival preparations stepped up in Hyderabad; police review traffic, immersion plans](https://www.thehindu.com/news/cities/Hyderabad/ganesh-festival-preparations-stepped-up-in-hyderabad-police-review-traffic-immersion-plans/article71452451.ece)
 - [Advocate Commissioners’ fees in SARFAESI cases must be proportionate to the work involved, rules Madras High Court](https://www.thehindu.com/news/national/tamil-nadu/advocate-commissioners-fees-in-sarfaesi-cases-must-be-proportionate-to-the-work-involved-rules-madras-high-court/article71452299.ece)
-- [BJP loses power in Paralam panchayat as LDF supports UDF no-trust motion](https://www.thehindu.com/news/national/kerala/bjp-loses-power-in-paralam-panchayat-as-ldf-supports-udf-no-trust-motion/article71451362.ece)
-- [A wake-up call to keep the mind hale and hearty](https://www.thehindu.com/news/national/kerala/a-wake-up-call-to-keep-the-mind-hale-and-hearty/article71451959.ece)
 
 **Livemint**
 - [BRICS 2026: Delhi braces for traffic diversions from 2 pm to 8:30 pm tomorrow, check alternate routes, diversion points](https://www.livemint.com/news/india/brics-2026-delhi-braces-for-traffic-diversions-from-2-pm-to-8-30-pm-tomorrow-check-alternate-routes-diversion-points-11789059378504.html)
@@ -108,27 +108,27 @@
 - Ganesh (2.6)
 - Sept (2.6)
 - Madras High Court (2.0)
+- Modi (1.6)
 - Singh' (1.6)
 - Building (1.6)
 - CCTV (1.6)
 - Goyal (1.6)
-- Congress-NC (1.3)
-- Lavrov (1.3)
-- Putin (1.3)
+- Houthis (1.3)
+- Yemen's (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [சென்னை உட்பட 17 மாவட்டங்களில் இன்று மழைக்கு வாய்ப்பு](https://www.dailythanthi.com/news/weather/chance-of-rain-in-17-districts-including-chennai-today)
-- ['तुम लेकर आओ, हम अपनी पार्टी में…’, मायावती के भतीजे आकाश पर अखिलेश का बड़ा ऑफर](https://www.aajtak.in/india/news/story/akash-anand-bsp-to-join-samajwadi-party-akhilesh-yadav-response-ntc-mnrd-dskc-2640169-2026-09-10)
-- [Telangana Politics: కేటీఆర్, హరీష్‌లపై లైంగిక వేధింపుల కేసు - మహిళా కానిస్టేబుల్ ఫిర్యాదుతో నమోదు!](https://telugu.abplive.com/telangana/saifabad-police-book-ktr-harish-rao-bns-case-woman-constable-complaint-258578)
-- ['मक्का समझौते' में ईरान को क्यों शामिल कराना चाहता है रूस?](https://www.bbc.com/hindi/articles/c158lx0dgjdo)
-- [സെപ്റ്റംബർ 11-ന് ബാങ്ക് പണിമുടക്ക്: മൂന്നുദിവസം ബാങ്കുകൾ അടഞ്ഞുകിടക്കും](https://www.mathrubhumi.com/money/news/bank-strike-september-11-three-day-closure-i2gvzd6a)
-- [১৯ গোলের তোপে তছনছ পাকিস্তান! একপেশে জয়ে যুব হকি এশিয়া কাপের সেমিফাইনালে ভারতের মেয়েরা](https://www.thewall.in/sports/womens-junior-asia-cup-2026-india-thrash-pakistan-19-0-hockey/tid/204464)
-- [സി.പി.എമ്മിൽ നയവ്യതിയാനമുണ്ടായി, ഭരിക്കുന്നവർ മാത്രമായി മാറി- കെ.ടി. കുഞ്ഞിക്കണ്ണൻ](https://www.mathrubhumi.com/news/kerala/cpm-policy-deviation-kt-kunhikannan-jry8y84z)
-- [‘Bangladesh PM not invited to BRICS’: Tarique Rahman's govt minister rules out his India visit](https://www.hindustantimes.com/world-news/bangladesh-pm-not-invited-to-brics-tarique-rahmans-govt-minister-rules-out-his-india-visit-101789030055365.html)
-- [రివ్యూ: మండాడి.. సూరి, సుహాస్‌ల స్పోర్ట్స్‌ యాక్షన్‌ డ్రామా ఎలా ఉంది?](https://www.eenadu.net/telugu-news/movies/mandadi-movie-review-in-telugu/0203/126163654)
-- [Asian Games 2026 Breaking News: એશિયન ગેમ્સ પહેલા ટીમ ઈન્ડિયાને મોટો ઝટકો, ઈજાના કારણે હર્ષિત રાણા બહાર, આ સ્ટાર પ્લેયરની થઈ એન્ટ્રી!](https://tv9gujarati.com/photo-gallery/asian-games-2026-breaking-news-harshit-rana-out-asian-games-afghanistan-series-yash-thakur-replacement-1512858.html)
+- [Bank Holidays: ఖాతాదారుల‌కు అల‌ర్ట్‌.. దేశ‌వ్యాప్తంగా వ‌రుస‌గా 4 రోజులు బ్యాంకులు బంద్‌](https://telugu.asianetnews.com/gallery/business/bank-holidays-banks-to-remain-closed-for-4-consecutive-days-across-india-check-important-dates-90840qz)
+- [ઈસ્ટ ઝોને 13 વર્ષ બાદ રચ્યો ઇતિહાસ, ઈશાન કિશનના નેતૃત્વમાં સાઉથ ઝોનને હરાવી દુલિપ ટ્રોફી જીતી](https://www.gujaratsamachar.com/news/sports/east-zone-created-history-after-13-years-won-the-duleep-trophy-by-defeating-south-zone-under-the-leadership-of-ishan-kishan-56829361953)
+- [एयरोस्पेस की तस्वीर बदल देगी भारत-रूस की दोस्ती... IL-114-300 पर हो सकती है डील](https://www.aajtak.in/defence-news/story/russia-eyes-major-regional-aircraft-push-in-india-il-114-300-deals-likely-at-innoprom-rptc-2640182-2026-09-10)
+- [পুজো হচ্ছে বাগবাজারে, কাটল জট, শুক্র থেকেই প্যান্ডেল নির্মাণ শুরু](https://bangla.aajtak.in/kolkata/story/bagbazar-sarbojanin-durga-puja-will-not-be-stopped-calcutta-high-court-gives-oder-pandal-will-start-from-friday-rpsg-1448988-2026-09-10)
+- [ईशान किशन की ईस्ट जोन ने जीता दलीप ट्रॉफी का खिताब, मैच ड्रॉ होने पर क्यों मिली ट्रॉफी?](https://www.abplive.com/sports/cricket/east-zone-won-duleep-trophy-2026-title-after-final-match-draw-against-south-zone-why-ishan-kishan-gets-trophy-3186986)
+- [కన్నీటి పర్యంతమైన బొత్స](https://telugu.gulte.com/political-news/154020/botsa-breaks-down-in-tears)
+- [WB Assembly:'ব্যাগ ঝুলিয়ে হোলটাইমার..,' বিধনাসভায় পেশ চর্চিত 'অধ্যাপক বদলি' বিল,বিরোধীরের শঙ্কায় হুঁশিয়ারি মুখ্যমন্ত্রীর](https://www.hindustantimes.com/bangla/bengal/west-bengal-cm-issues-a-stern-warning-from-the-assembly-271789029249715.html)
+- [বিবিসি বাংলা লাইভ: ভারতে ব্রিকস সম্মেলনে অংশ নিচ্ছেন না বাংলাদেশের প্রধানমন্ত্রী তারেক রহমান](https://www.bbc.com/bengali/live/cw7v413002ejt)
+- ["ഞങ്ങളുടെ റോഡുകളിൽ നിന്ന് ഇറങ്ങിപ്പോകൂ" യു.എസിൽ ഇന്ത്യക്കാർക്കെതിരേ പോസ്റ്റർ പ്രചാരണവുമായി ട്രംപ് ഭരണകൂടം](https://www.suprabhaatham.com/details/471397?link=trump-administration-launches-poster-campaign-against-indians)
+- [Suvendu Adhikari's 'strict medicine' warning to 'anti-national' sympathisers at Jadavpur university](https://timesofindia.indiatimes.com/india/suvendu-adhikaris-strict-medicine-warning-to-anti-national-sympathisers-at-jadavpur-university/articleshow/134000988.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
