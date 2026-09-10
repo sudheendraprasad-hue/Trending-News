@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-09-10 23:01:37",
+  "generated_at": "2026-09-10 23:32:07",
   "google_trends": [
+    {
+      "title": "aryna sabalenka",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "nfl",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "\u0b95\u0ba9\u0bae\u0bb4\u0bc8",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "cpl 2026",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "oppo coloros 17",
       "traffic": null,
@@ -28,26 +48,6 @@
     },
     {
       "title": "skip",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "maps",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "binance buy crypto",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "nico paz",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "after",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     }
@@ -83,8 +83,8 @@
         "link": "https://timesofindia.indiatimes.com/city/kanpur/killer-bahus-deadly-game-kanpur-bizmen-sensed-danger-but-ended-up-with-26-stab-wounds-and-a-slit-throat/articleshow/134011762.cms"
       },
       {
-        "title": "Lavrov arrives in India ahead of Brics Summit; Putin to arrive shortly",
-        "link": "https://timesofindia.indiatimes.com/india/brics-summit-2026-pm-modi-says-all-set-putin-to-arrive-in-few-hours-top-developments/articleshow/134015100.cms"
+        "title": "Retro looks, current jibes: Netas give '80s a new spin",
+        "link": "https://timesofindia.indiatimes.com/india/retro-looks-current-jibes-netas-give-80s-a-new-spin/articleshow/134035296.cms"
       },
       {
         "title": "DNA main hope for identity, but backlog overwhelms Nepal forensic labs",
@@ -351,12 +351,12 @@
   },
   "keywords": [
     {
-      "term": "India",
-      "score": 6.5
-    },
-    {
       "term": "Delhi",
       "score": 6.4
+    },
+    {
+      "term": "India",
+      "score": 5.2
     },
     {
       "term": "BRICS",
@@ -364,7 +364,7 @@
     },
     {
       "term": "Putin",
-      "score": 4.2
+      "score": 2.9
     },
     {
       "term": "India-Russia",
@@ -372,15 +372,11 @@
     },
     {
       "term": "Summit",
-      "score": 2.2
-    },
-    {
-      "term": "Brics Summit",
-      "score": 2
+      "score": 1.9
     },
     {
       "term": "Brics",
-      "score": 1.9
+      "score": 1.6
     },
     {
       "term": "Anthropic",
@@ -409,49 +405,53 @@
     {
       "term": "Saudi-backed",
       "score": 1.3
+    },
+    {
+      "term": "Bimstec",
+      "score": 1.3
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u2018October 2027 is far away\u2019: Rohit Sharma breaks silence on World Cup future, begins preparations for West Indies ODIs",
-      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/october-2027-is-far-away-rohit-sharma-breaks-silence-on-world-cup-future-begins-preparations-for-west-indies-odis/articleshow/134005191.cms"
+      "title": "\u0ba4\u0bbf\u0bae\u0bc1\u0b95 \u0baa\u0bbe\u0b95 \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bc8 \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0b9a\u0bcd\u0b9a\u0bbe\u0baf\u0bcd\u0ba4\u0bcd\u0ba4 \u0baa\u0ba3 \u0bb5\u0bc6\u0bb1\u0bbf \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0ba3\u0bbf \u0baa\u0bbf\u0bb0\u0bae\u0bc1\u0b95\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1..! \u0b8e\u0bb8\u0bcd.\u0b90. \u0b9a\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bc8 \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0ba4\u0bbe\u0baf\u0bcd..!",
+      "link": "https://www.polimernews.com/districtnews/money-driven-youth-wing-functionary-arrested-for-hacking-dmk-booth-organizer-to-death-mother-grabs-sis-shirt-12515464"
     },
     {
-      "title": "Mumbai Local : \u092e\u0941\u0902\u092c\u094d\u0930\u093e-\u0926\u093f\u0935\u093e \u0935\u0933\u0923\u093e\u0935\u0930 \u092e\u0939\u093f\u0932\u093e \u0925\u0947\u091f \u0932\u094b\u0915\u0932 \u091f\u094d\u0930\u0947\u0928\u092e\u0927\u0942\u0928 \u0916\u093e\u0932\u0940 \u092a\u0921\u0932\u0940, \u0918\u091f\u0928\u093e \u0915\u0945\u092e\u0947\u0931\u094d\u092f\u093e\u0924 \u0915\u0948\u0926",
-      "link": "https://maharashtratimes.com/maharashtra/mumbai-news/woman-falls-from-local-train-between-mumbra-and-diva-video-goes-viral/articleshow/134003913.cms"
+      "title": "BRICS \u0ab8\u0aae\u0abf\u0a9f: 7 \u0ab5\u0ab0\u0acd\u0ab7 \u0aac\u0abe\u0aa6 \u0aad\u0abe\u0ab0\u0aa4 \u0a86\u0ab5\u0ab6\u0ac7 \u0ab6\u0ac0 \u0a9c\u0abf\u0aa8\u0aaa\u0abf\u0a82\u0a97; \u0aaa\u0ac1\u0aa4\u0abf\u0aa8-\u0aaa\u0ac7\u0a9d\u0ac7\u0ab6\u0acd\u0a95\u0abf\u0aaf\u0abe\u0aa8 \u0aaa\u0aa3 \u0aac\u0aa8\u0ab6\u0ac7 \u0aae\u0ab9\u0ac7\u0aae\u0abe\u0aa8, 30 \u0ab9\u0a9c\u0abe\u0ab0 \u0a9c\u0ab5\u0abe\u0aa8\u0acb \u0a96\u0aa1\u0ac7\u0aaa\u0a97\u0ac7",
+      "link": "https://www.gujaratsamachar.com/news/international/xi-jinping-india-visit-brics-summit-delhi-modi-bilateral-talks-security-79568583706"
     },
     {
-      "title": "CAS is here to stay, liquidity builds up over time, says SEBI's Tuhin Kanta Pandey",
-      "link": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/cas-is-here-to-stay-liquidity-builds-up-over-time-says-sebi-s-tuhin-kanta-pandey-14027197.html"
+      "title": "Babar Azam: \u0baa\u0b9f\u0bc1\u0bae\u0bc7\u0bbe\u0b9a\u0bae\u0bbe\u0b95 \u0baa\u0bc7\u0b9f\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0baa\u0bb0\u0bcd \u0b85\u0b9a\u0bbe\u0bae\u0bcd.. \u0baa\u0bb0\u0bbf\u0ba4\u0bbe\u0baa \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd \u0b9c\u0bbe\u0bae\u0bcd\u0baa\u0bb5\u0bbe\u0ba9\u0bcd! \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0bb0\u0bbe?",
+      "link": "https://tamil.abplive.com/sports/cricket/pak-vs-eng-3rd-test-babar-azam-worst-batting-last-10-test-innnings-274137"
     },
     {
-      "title": "At least 25 killed after cargo ship catches fire at Chinese port",
-      "link": "https://www.hindustantimes.com/world-news/several-killed-after-cargo-ship-catches-fire-at-chinese-port-101789037458233.html"
+      "title": "know about power restrictions in advance \u0d35\u0d48\u0d26\u0d4d\u0d2f\u0d41\u0d24\u0d3f \u0d28\u0d3f\u0d2f\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d23\u0d02 \u0d07\u0d28\u0d3f \u0d2e\u0d41\u0d7b\u0d15\u0d42\u0d1f\u0d4d\u0d1f\u0d3f \u0d05\u0d31\u0d3f\u0d2f\u0d3e\u0d02",
+      "link": "https://www.asianetnews.com/kerala-news/power-restrictions-can-now-be-known-in-advance-articleshow-97lo208"
     },
     {
-      "title": "At least 25 killed in cargo ship fire at China\u2019s Qingdao port - all you need to know",
-      "link": "https://timesofindia.indiatimes.com/world/china/at-least-20-killed-in-cargo-ship-fire-at-chinas-qingdao-port-all-you-need-to-know/articleshow/134001676.cms"
+      "title": "\u0a85\u0aae\u0aa6\u0abe\u0ab5\u0abe\u0aa6:'\u0aa8\u0acb\u0ab0\u0aa4\u0abe \u0aa8\u0a97\u0ab0\u0ac0' \u0a97\u0ab0\u0aac\u0abe\u0aae\u0abe\u0a82 \u20b98-10 \u0a95\u0ab0\u0acb\u0aa1\u0aa8\u0ac1\u0a82 \u0a9f\u0abf\u0a95\u0abf\u0a9f \u0a95\u0acc\u0aad\u0abe\u0a82\u0aa1!, 4 \u0ab6\u0a96\u0ab8\u0acb \u0ab8\u0abe\u0aae\u0ac7 \u0aa8\u0acb\u0a82\u0aa7\u0abe\u0a88 \u0aab\u0ab0\u0abf\u0aaf\u0abe\u0aa6",
+      "link": "https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-ticket-scam-worth-indian-rupee8-10-crore-in-norta-nagri-garba-complaint-filed-against-4-persons-in-sarkhej-police-67437133103"
     },
     {
-      "title": "Ajay Baraskar On Manoj Jarange: \u092e\u094b\u0920\u0940 \u092c\u093e\u0924\u092e\u0940 : \u092e\u0928\u094b\u091c \u091c\u0930\u093e\u0902\u0917\u0947\u0902\u0935\u093f\u0930\u0941\u0926\u094d\u0927 \u0925\u0947\u091f ED \u092e\u0927\u094d\u092f\u0947 \u0924\u0915\u094d\u0930\u093e\u0930, \u0935\u093e\u0933\u0942 \u0924\u0938\u094d\u0915\u0930\u0940 \u0915\u0947\u0932\u094d\u092f\u093e\u091a\u093e \u0906\u0930\u094b\u092a, \u0905\u091c\u092f \u092c\u093e\u0930\u0938\u0915\u0930 \u0906\u0915\u094d\u0930\u092e\u0915",
-      "link": "https://marathi.abplive.com/news/politics/direct-complaint-filed-against-manoj-jarange-with-the-ed-allegations-of-sand-smuggling-ajay-bavaskar-takes-an-aggressive-stance-1438674"
+      "title": "\u0a88\u0ab0\u0abe\u0aa8 \u0ab8\u0a82\u0a98\u0ab0\u0acd\u0ab7 \u0ab5\u0a9a\u0acd\u0a9a\u0ac7 \u0ab5\u0aa7\u0ac1 \u0a8f\u0a95 \u0aae\u0acb\u0a9f\u0ac1\u0a82 \u0ab8\u0a82\u0a95\u0a9f! \u0aae\u0acb\u0a9a\u0abe \u0ab6\u0ab9\u0ac7\u0ab0 \u0aaa\u0ab0 \u0ab9\u0ac2\u0aa4\u0ac0\u0a93\u0aa8\u0acb \u0a95\u0aac\u0a9c\u0acb, \u0ab8\u0abe\u0a89\u0aa6\u0ac0 \u0ab8\u0ab0\u0ab9\u0aa6\u0ac7 \u0aad\u0ac0\u0ab7\u0aa3 \u0a85\u0aa5\u0aa1\u0abe\u0aae\u0aa3",
+      "link": "https://www.gujaratsamachar.com/news/international/another-major-crisis-amid-iran-conflict-houthis-capture-mocha-city-fierce-clashes-on-saudi-border-83158434139"
     },
     {
-      "title": "TVK: \u0ba8\u0bc7\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bbe? \u0b87\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0bae\u0bc1\u0b95 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b8e\u0bae\u0bcd\u0b8e\u0bb2\u0bcd\u0b8f-\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1! \u0b85\u0baa\u0bcd\u0b9a\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0ba4\u0bb5\u0bc6\u0b95 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0bbf\u0b95\u0bb3\u0bcd",
-      "link": "https://tamil.abplive.com/news/tamil-nadu/cm-vijay-announce-dharapuram-maduranthagam-candidate-former-admk-mlas-274133"
+      "title": "RS Praveen Kumar | \u0c38\u0c4d\u0c2a\u0c40\u0c15\u0c30\u0c4d\u200c\u0c28\u0c41 \u0c0e\u0c2e\u0c4d\u0c2e\u0c46\u0c32\u0c4d\u0c38\u0c40 \u0c24\u0c3e\u0c24\u0c3e \u0c2e\u0c27\u0c41 \u0c24\u0c3f\u0c1f\u0c4d\u0c1f\u0c32\u0c47\u0c26\u0c28\u0c47 \u0c2a\u0c4b\u0c32\u0c40\u0c38\u0c4d\u200c \u0c30\u0c3f\u0c2a\u0c4b\u0c30\u0c4d\u0c1f\u0c4d\u200c \u0c1a\u0c46\u0c2c\u0c41\u0c24\u0c4b\u0c02\u0c26\u0c3f : \u0c06\u0c30\u0c4d\u200c\u0c0e\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c35\u0c40\u0c23\u0c4d\u200c \u0c15\u0c41\u0c2e\u0c3e\u0c30\u0c4d\u200c",
+      "link": "https://www.ntnews.com/hyderabad/police-report-saying-mlc-tata-madhu-doesnot-scold-sayd-rs-praveen-kumar-2507518"
     },
     {
-      "title": "\u0915\u092a\u094d\u0924\u093e\u0928 \u0908\u0936\u093e\u0928 \u0915\u093f\u0936\u0928 \u0914\u0930 \u0935\u0948\u092d\u0935 \u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940 \u0939\u093e\u0925 \u092e\u0947\u0902 \u0938\u094d\u091f\u0902\u092a \u0932\u0947\u0915\u0930 \u0921\u093e\u0902\u0938 \u0915\u0930\u0924\u0947 \u0928\u091c\u0930 \u0906\u090f, VIDEO",
-      "link": "https://www.aajtak.in/sports/cricket/story/ishan-kishan-vaibhav-sooryavanshi-stump-dance-after-east-zone-duleep-trophy-win-tspok-dskc-2640217-2026-09-10"
+      "title": "A. R. Rahman | \u09ae\u09be\u09a4\u09cd\u09b0 \u09e9 \u09b8\u09aa\u09cd\u09a4\u09be\u09b9\u09c7 \u0985\u09b8\u09cd\u0995\u09be\u09b0\u099c\u09df\u09c0 \u09b8\u09c1\u09b0! \u2018\u09b8\u09cd\u09b2\u09be\u09ae\u09a1\u0997 \u09ae\u09bf\u09b2\u09bf\u09af\u09bc\u09a8\u09bf\u09af\u09bc\u09be\u09b0\u2019 \u09a8\u09bf\u09df\u09c7 \u0985\u099c\u09be\u09a8\u09be \u09a4\u09a5\u09cd\u09af \u09ab\u09be\u0981\u09b8 \u0995\u09b0\u09b2\u09c7\u09a8 \u098f \u0986\u09b0 \u09b0\u09b9\u09ae\u09be\u09a8",
+      "link": "https://uttarbangasambad.com/a-r-rahman-ar-rahman-danny-boyle-slumdog-millionaire-secrets/"
     },
     {
-      "title": "Komatireddy Rajagopal Reddy | \u0c07\u0c02\u0c26\u0c3f\u0c30\u0c2e\u0c4d\u0c2e \u0c07\u0c32\u0c4d\u0c32\u0c41\u0c15\u0c41 \u0c30\u0c42.5 \u0c32\u0c15\u0c4d\u0c37\u0c32\u0c41 \u0c38\u0c30\u0c3f\u0c2a\u0c4b\u0c35\u0c41.. \u0c15\u0c3e\u0c02\u0c17\u0c4d\u0c30\u0c46\u0c38\u0c4d \u0c0e\u0c2e\u0c4d\u0c2e\u0c46\u0c32\u0c4d\u0c2f\u0c47 \u0c15\u0c4b\u0c2e\u0c1f\u0c3f \u0c30\u0c46\u0c21\u0c4d\u0c21\u0c3f \u0c30\u0c3e\u0c1c\u0c17\u0c4b\u0c2a\u0c3e\u0c32\u0c4d\u200c \u0c30\u0c46\u0c21\u0c4d\u0c21\u0c3f",
-      "link": "https://www.ntnews.com/telangana/rs-5-lacks-are-not-enough-to-indiramma-houses-says-komatireddy-rajagopal-reddy-2507474"
+      "title": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bae\u0bcb\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u2018\u0bb0\u0bbe\u0b9c\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd\u2019 - \u0b9f\u0bcd\u0bb0\u0bae\u0bcd\u0baa\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0b95\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0baf\u0bc2\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd!",
+      "link": "https://www.hindutamil.in/news/world/prime-minister-narendra-modi-strategies-to-counter-donald-trump-moves"
     },
     {
-      "title": "\u092e\u094b\u0920\u0940 \u092c\u093e\u0924\u092e\u0940 : \u0915\u0945\u092c\u093f\u0928\u0947\u091f \u092e\u0902\u0924\u094d\u0930\u094d\u092f\u093e\u091a\u094d\u092f\u093e \u0938\u0916\u094d\u0916\u094d\u092f\u093e \u092d\u093e\u0935\u093e\u0932\u093e \u0930\u0915\u094d\u0924 \u0938\u093e\u0902\u0921\u0947\u092a\u0930\u094d\u092f\u0902\u0924 \u092e\u093e\u0930\u0939\u093e\u0923, \u091c\u092e\u093f\u0928\u0940\u091a\u094d\u092f\u093e \u0935\u093e\u0926 \u092a\u0947\u091f\u0932\u093e, \u092d\u093e\u090a \u0906\u0923\u093f \u092a\u0941\u0924\u0923\u094d\u092f\u093e \u0930\u0941\u0917\u094d\u0923\u093e\u0932\u092f\u093e\u0924",
-      "link": "https://marathi.abplive.com/news/politics/sambhajinagar-crime-news-cabinet-minister-atul-save-brother-brutally-beaten-land-dispute-flares-up-brother-and-nephew-hospitalized-1438671"
+      "title": "Space-based surveillance: Dhruva to get key systems worth \u20ac5m from Safran",
+      "link": "https://timesofindia.indiatimes.com/india/space-based-surveillance-dhruva-to-get-key-systems-worth-5m-from-safran/articleshow/134006035.cms"
     }
   ],
   "twitter": null

@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-10 23:01:37
+# India Trending Report — 2026-09-10 23:32:07
 
 ## Google Trends (India) — top trending searches
-1. [oppo coloros 17](https://trends.google.com/trending/rss?geo=IN)
-2. [shailene woodley](https://trends.google.com/trending/rss?geo=IN)
-3. [como 1907 vs rb leipzig standings](https://trends.google.com/trending/rss?geo=IN)
-4. [alphonso davies](https://trends.google.com/trending/rss?geo=IN)
-5. [harry kane](https://trends.google.com/trending/rss?geo=IN)
-6. [skip](https://trends.google.com/trending/rss?geo=IN)
-7. [maps](https://trends.google.com/trending/rss?geo=IN)
-8. [binance buy crypto](https://trends.google.com/trending/rss?geo=IN)
-9. [nico paz](https://trends.google.com/trending/rss?geo=IN)
-10. [after](https://trends.google.com/trending/rss?geo=IN)
+1. [aryna sabalenka](https://trends.google.com/trending/rss?geo=IN)
+2. [nfl](https://trends.google.com/trending/rss?geo=IN)
+3. [கனமழை](https://trends.google.com/trending/rss?geo=IN)
+4. [cpl 2026](https://trends.google.com/trending/rss?geo=IN)
+5. [oppo coloros 17](https://trends.google.com/trending/rss?geo=IN)
+6. [shailene woodley](https://trends.google.com/trending/rss?geo=IN)
+7. [como 1907 vs rb leipzig standings](https://trends.google.com/trending/rss?geo=IN)
+8. [alphonso davies](https://trends.google.com/trending/rss?geo=IN)
+9. [harry kane](https://trends.google.com/trending/rss?geo=IN)
+10. [skip](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -21,7 +21,7 @@
 - ['It was for Bimstec chair, not PM': Dhaka declines Brics invite](https://timesofindia.indiatimes.com/world/south-asia/dhaka-declines-brics-invite-it-was-for-bimstec-chair-not-pm/articleshow/134030758.cms)
 - [1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-5-chatgpt-prompts-to-create-kerala-style-retro-images/articleshow/133999924.cms)
 - [Deadly plot by ‘killer bahu’: Kanpur bizman sensed danger, but ended up with 26 stab wounds](https://timesofindia.indiatimes.com/city/kanpur/killer-bahus-deadly-game-kanpur-bizmen-sensed-danger-but-ended-up-with-26-stab-wounds-and-a-slit-throat/articleshow/134011762.cms)
-- [Lavrov arrives in India ahead of Brics Summit; Putin to arrive shortly](https://timesofindia.indiatimes.com/india/brics-summit-2026-pm-modi-says-all-set-putin-to-arrive-in-few-hours-top-developments/articleshow/134015100.cms)
+- [Retro looks, current jibes: Netas give '80s a new spin](https://timesofindia.indiatimes.com/india/retro-looks-current-jibes-netas-give-80s-a-new-spin/articleshow/134035296.cms)
 - [DNA main hope for identity, but backlog overwhelms Nepal forensic labs](https://timesofindia.indiatimes.com/world/south-asia/dna-main-hope-for-identity-but-backlog-overwhelms-nepal-forensic-labs/articleshow/134035044.cms)
 - [22-year-old pleads guilty in US' biggest Bitcoin theft; spent millions on cars & more](https://timesofindia.indiatimes.com/technology/tech-news/22-year-old-school-dropout-pleads-guilty-in-americas-largest-bitcoin-robbery-posed-as-google-and-gemini-executives-spent-millions-on-sports-cars-night-clubs-and-mansions/articleshow/134008280.cms)
 
@@ -100,14 +100,13 @@
 - [ದೇಶದ ಉನ್ನತ ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳಲ್ಲಿ ನಾಯಕತ್ವದ ಕೊರತೆ: 155 ರಾಷ್ಟ್ರೀಯ ಪ್ರಾಮುಖ್ಯತೆಯ ಸಂಸ್ಥೆಗಳ ಪೈಕಿ 37 ಕಡೆಗಳಲ್ಲಿ ಪ್ರಭಾರ ಮುಖ್ಯಸ್ಥರು](https://www.varthabharati.in/vishesha-varadigalu/37-of-155-institutions-of-national-importance-running-with-interim-acting-heads-2274372)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (6.5)
 - Delhi (6.4)
+- India (5.2)
 - BRICS (4.5)
-- Putin (4.2)
+- Putin (2.9)
 - India-Russia (2.6)
-- Summit (2.2)
-- Brics Summit (2.0)
-- Brics (1.9)
+- Summit (1.9)
+- Brics (1.6)
 - Anthropic (1.6)
 - Goyal (1.6)
 - Bihar (1.6)
@@ -115,20 +114,21 @@
 - Yemen's (1.3)
 - Mokha (1.3)
 - Saudi-backed (1.3)
+- Bimstec (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [‘October 2027 is far away’: Rohit Sharma breaks silence on World Cup future, begins preparations for West Indies ODIs](https://timesofindia.indiatimes.com/sports/cricket/news/october-2027-is-far-away-rohit-sharma-breaks-silence-on-world-cup-future-begins-preparations-for-west-indies-odis/articleshow/134005191.cms)
-- [Mumbai Local : मुंब्रा-दिवा वळणावर महिला थेट लोकल ट्रेनमधून खाली पडली, घटना कॅमेऱ्यात कैद](https://maharashtratimes.com/maharashtra/mumbai-news/woman-falls-from-local-train-between-mumbra-and-diva-video-goes-viral/articleshow/134003913.cms)
-- [CAS is here to stay, liquidity builds up over time, says SEBI's Tuhin Kanta Pandey](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/cas-is-here-to-stay-liquidity-builds-up-over-time-says-sebi-s-tuhin-kanta-pandey-14027197.html)
-- [At least 25 killed after cargo ship catches fire at Chinese port](https://www.hindustantimes.com/world-news/several-killed-after-cargo-ship-catches-fire-at-chinese-port-101789037458233.html)
-- [At least 25 killed in cargo ship fire at China’s Qingdao port - all you need to know](https://timesofindia.indiatimes.com/world/china/at-least-20-killed-in-cargo-ship-fire-at-chinas-qingdao-port-all-you-need-to-know/articleshow/134001676.cms)
-- [Ajay Baraskar On Manoj Jarange: मोठी बातमी : मनोज जरांगेंविरुद्ध थेट ED मध्ये तक्रार, वाळू तस्करी केल्याचा आरोप, अजय बारसकर आक्रमक](https://marathi.abplive.com/news/politics/direct-complaint-filed-against-manoj-jarange-with-the-ed-allegations-of-sand-smuggling-ajay-bavaskar-takes-an-aggressive-stance-1438674)
-- [TVK: நேத்து வந்தவங்களுக்கு சீட்டா? இடைத்தேர்தலில் அதிமுக முன்னாள் எம்எல்ஏ-க்களுக்கு வாய்ப்பு! அப்செட்டில் தவெக நிர்வாகிகள்](https://tamil.abplive.com/news/tamil-nadu/cm-vijay-announce-dharapuram-maduranthagam-candidate-former-admk-mlas-274133)
-- [कप्तान ईशान किशन और वैभव सूर्यवंशी हाथ में स्टंप लेकर डांस करते नजर आए, VIDEO](https://www.aajtak.in/sports/cricket/story/ishan-kishan-vaibhav-sooryavanshi-stump-dance-after-east-zone-duleep-trophy-win-tspok-dskc-2640217-2026-09-10)
-- [Komatireddy Rajagopal Reddy | ఇందిరమ్మ ఇల్లుకు రూ.5 లక్షలు సరిపోవు.. కాంగ్రెస్ ఎమ్మెల్యే కోమటి రెడ్డి రాజగోపాల్‌ రెడ్డి](https://www.ntnews.com/telangana/rs-5-lacks-are-not-enough-to-indiramma-houses-says-komatireddy-rajagopal-reddy-2507474)
-- [मोठी बातमी : कॅबिनेट मंत्र्याच्या सख्ख्या भावाला रक्त सांडेपर्यंत मारहाण, जमिनीच्या वाद पेटला, भाऊ आणि पुतण्या रुग्णालयात](https://marathi.abplive.com/news/politics/sambhajinagar-crime-news-cabinet-minister-atul-save-brother-brutally-beaten-land-dispute-flares-up-brother-and-nephew-hospitalized-1438671)
+- [திமுக பாக அமைப்பாளரை வெட்டிச்சாய்த்த பண வெறி இளைஞரணி பிரமுகர் கைது..! எஸ்.ஐ. சட்டையை பிடித்த தாய்..!](https://www.polimernews.com/districtnews/money-driven-youth-wing-functionary-arrested-for-hacking-dmk-booth-organizer-to-death-mother-grabs-sis-shirt-12515464)
+- [BRICS સમિટ: 7 વર્ષ બાદ ભારત આવશે શી જિનપિંગ; પુતિન-પેઝેશ્કિયાન પણ બનશે મહેમાન, 30 હજાર જવાનો ખડેપગે](https://www.gujaratsamachar.com/news/international/xi-jinping-india-visit-brics-summit-delhi-modi-bilateral-talks-security-79568583706)
+- [Babar Azam: படுமோசமாக பேட் செய்யும் பாபர் அசாம்.. பரிதாப நிலையில் பாகிஸ்தானின் ஜாம்பவான்! மீண்டு வருவாரா?](https://tamil.abplive.com/sports/cricket/pak-vs-eng-3rd-test-babar-azam-worst-batting-last-10-test-innnings-274137)
+- [know about power restrictions in advance വൈദ്യുതി നിയന്ത്രണം ഇനി മുൻകൂട്ടി അറിയാം](https://www.asianetnews.com/kerala-news/power-restrictions-can-now-be-known-in-advance-articleshow-97lo208)
+- [અમદાવાદ:'નોરતા નગરી' ગરબામાં ₹8-10 કરોડનું ટિકિટ કૌભાંડ!, 4 શખસો સામે નોંધાઈ ફરિયાદ](https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-ticket-scam-worth-indian-rupee8-10-crore-in-norta-nagri-garba-complaint-filed-against-4-persons-in-sarkhej-police-67437133103)
+- [ઈરાન સંઘર્ષ વચ્ચે વધુ એક મોટું સંકટ! મોચા શહેર પર હૂતીઓનો કબજો, સાઉદી સરહદે ભીષણ અથડામણ](https://www.gujaratsamachar.com/news/international/another-major-crisis-amid-iran-conflict-houthis-capture-mocha-city-fierce-clashes-on-saudi-border-83158434139)
+- [RS Praveen Kumar | స్పీకర్‌ను ఎమ్మెల్సీ తాతా మధు తిట్టలేదనే పోలీస్‌ రిపోర్ట్‌ చెబుతోంది : ఆర్‌ఎస్ ప్రవీణ్‌ కుమార్‌](https://www.ntnews.com/hyderabad/police-report-saying-mlc-tata-madhu-doesnot-scold-sayd-rs-praveen-kumar-2507518)
+- [A. R. Rahman | মাত্র ৩ সপ্তাহে অস্কারজয়ী সুর! ‘স্লামডগ মিলিয়নিয়ার’ নিয়ে অজানা তথ্য ফাঁস করলেন এ আর রহমান](https://uttarbangasambad.com/a-r-rahman-ar-rahman-danny-boyle-slumdog-millionaire-secrets/)
+- [பிரதமர் மோடியின் ‘ராஜதந்திரம்’ - ட்ரம்ப் அதிரடிகளைத் தகர்க்கும் வியூகங்கள்!](https://www.hindutamil.in/news/world/prime-minister-narendra-modi-strategies-to-counter-donald-trump-moves)
+- [Space-based surveillance: Dhruva to get key systems worth €5m from Safran](https://timesofindia.indiatimes.com/india/space-based-surveillance-dhruva-to-get-key-systems-worth-5m-from-safran/articleshow/134006035.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
