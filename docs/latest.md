@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-10 02:35:50
+# India Trending Report — 2026-09-10 03:02:00
 
 ## Google Trends (India) — top trending searches
-1. [tax evasion](https://trends.google.com/trending/rss?geo=IN)
-2. [రాశి ఫలాలు](https://trends.google.com/trending/rss?geo=IN)
-3. [वोल्कर तुर्क](https://trends.google.com/trending/rss?geo=IN)
-4. [মদন মিত্র](https://trends.google.com/trending/rss?geo=IN)
-5. [మోక్షజ్ఞ తేజ](https://trends.google.com/trending/rss?geo=IN)
-6. [தட்டாஞ்சாவடி சட்டமன்றத் தொகுதி](https://trends.google.com/trending/rss?geo=IN)
-7. [india vs australia](https://trends.google.com/trending/rss?geo=IN)
-8. [પાકિસ્તાન](https://trends.google.com/trending/rss?geo=IN)
-9. [hong kong vs uae](https://trends.google.com/trending/rss?geo=IN)
-10. [cf montréal vs charlotte fc standings](https://trends.google.com/trending/rss?geo=IN)
+1. [irctc](https://trends.google.com/trending/rss?geo=IN)
+2. [julia riera](https://trends.google.com/trending/rss?geo=IN)
+3. [brics summit](https://trends.google.com/trending/rss?geo=IN)
+4. [satish jarkiholi](https://trends.google.com/trending/rss?geo=IN)
+5. [philadelphia union vs fc cincinnati standings](https://trends.google.com/trending/rss?geo=IN)
+6. [casemiro](https://trends.google.com/trending/rss?geo=IN)
+7. [tax evasion](https://trends.google.com/trending/rss?geo=IN)
+8. [वोल्कर तुर्क](https://trends.google.com/trending/rss?geo=IN)
+9. [రాశి ఫలాలు](https://trends.google.com/trending/rss?geo=IN)
+10. [মদন মিত্র](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Zelenskyy's plane nearly hit by drone while taking off from Moldova](https://timesofindia.indiatimes.com/world/europe/zelenskyys-plane-nearly-hit-by-drone-while-taking-off-from-moldova-norway-pm/articleshow/133983144.cms)
+- [‘Lal Mandir was original target’: How traffic forced Red Fort bomber to change plans](https://timesofindia.indiatimes.com/city/delhi/lal-mandir-was-original-target-but-umar-couldnt-park-car-how-traffic-forced-a-change-in-plans-for-red-fort-bomber/articleshow/133990008.cms)
 - ['Wonder if I should become a cockroach': Mallya cries 'injustice' over bank dues](https://timesofindia.indiatimes.com/india/wonder-if-i-should-become-a-cockroach-vijay-mallya-cries-injustice-over-bank-dues/articleshow/133990112.cms)
 - [Apple's 1st foldable phone launched: Specifications & price in India of iPhone Duo](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-duo-launched-specifications-features-and-price/articleshow/133980600.cms)
-- [Brazil vs India: Vinicius Jr, Raphinha set for historic Kolkata showdown](https://timesofindia.indiatimes.com/sports/football/top-stories/brazil-vs-india-vinicius-jr-raphinha-set-for-historic-kolkata-showdown/articleshow/133989241.cms)
-- [‘Call it Trump Strait’: US prez’s Hormuz pitch as he rallies GOP voters](https://timesofindia.indiatimes.com/world/us/call-it-trump-strait-us-presidents-hormuz-pitch-as-he-rallies-gop-voters/articleshow/133990713.cms)
+- ['Started cricket late': Chakravarthy believes he's only halfway through his career](https://timesofindia.indiatimes.com/sports/cricket/news/varun-chakravarthys-second-act-why-indias-mystery-spinner-still-believes-hes-only-halfway-through-his-career/articleshow/133971642.cms)
+- [Dance, assailants & a party: How ‘killer bahu’ orchestrated father-in-law’s murder](https://timesofindia.indiatimes.com/city/kanpur/killer-bahu-kanpur-woman-danced-to-tum-to-dhokhebaaz-ho-with-hubby-as-father-in-law-was-stabbed-26-times-to-death/articleshow/133990663.cms)
 - [Apple iPhone 18 Pro and iPhone 18 Pro Max launched: Price in India and all details](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-and-iphone-18-pro-max-launched-at-surprise-and-shine-event-price-in-india-specifications-features-and-all-you-need-to-know/articleshow/133979340.cms)
+- [‘Call it Trump Strait’: US prez’s Hormuz pitch as he rallies GOP voters](https://timesofindia.indiatimes.com/world/us/call-it-trump-strait-us-presidents-hormuz-pitch-as-he-rallies-gop-voters/articleshow/133990713.cms)
 - [‘Flames engulfed vessel’: 5 killed, 87 missing in Philippines ferry fire; key points](https://timesofindia.indiatimes.com/world/rest-of-world/flames-engulfed-vessel-5-killed-87-missing-in-philippines-ferry-fire-what-we-know/articleshow/133990012.cms)
-- [‘Lal Mandir was original target’: How traffic forced Red Fort bomber to change plans](https://timesofindia.indiatimes.com/city/delhi/lal-mandir-was-original-target-but-umar-couldnt-park-car-how-traffic-forced-a-change-in-plans-for-red-fort-bomber/articleshow/133990008.cms)
-- [West Asia conflict likely hindrance to cementing Brics declaration](https://timesofindia.indiatimes.com/india/west-asia-conflict-likely-hindrance-to-cementing-brics-declaration/articleshow/133988816.cms)
+- [Masked protesters mistake Pak U-19 cricket team for asylum seekers in Portsmouth](https://timesofindia.indiatimes.com/sports/cricket/news/masked-protesters-mistake-pakistan-u-19-cricket-team-for-asylum-seekers-in-portsmouth/articleshow/133989966.cms)
 - [1980s AI photo trend: 11 ChatGPT prompts to turn photos into retro Bollywood looks](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-11-chatgpt-prompts-to-turn-your-photos-into-retro-bollywood-looks/articleshow/133961562.cms)
 
 **NDTV**
@@ -38,6 +38,9 @@
 - [Apple iPhone Launch Event Live Updates: Apple Launches First Foldable iPhone, Gives Hat-Tip To iPad](https://www.ndtv.com/india-news/iphone-18-apple-watch-apple-iphone-launch-event-live-updates-apples-set-to-unveil-first-foldable-iphone-12024766#publisher=newsstand)
 
 **Hindustan Times**
+- [Stalin hits back at Vijay amid Assembly gesture row: ‘Posting reels, running admin like cinema’](https://www.hindustantimes.com/india-news/stalin-hits-back-at-vijay-amid-assembly-gesture-row-posting-reels-running-admin-like-cinema-emergency-jaw-tvk-dmk-101789006982544.html)
+- [The lyrical names for rainfall in Malenadu](https://www.hindustantimes.com/india-news/the-lyrical-names-for-rainfall-in-malenadu-101788980951829.html)
+- [Satheesan: Will examine ED’s call for FIR against Vijayan](https://www.hindustantimes.com/india-news/satheesanwill-examine-ed-s-call-for-fir-against-vijayan-101788980724948.html)
 - [UP govt to challenge HC order awarding  ₹5 lakh compensation to law student](https://www.hindustantimes.com/india-news/up-govt-to-challenge-hc-order-awarding-5-lakh-compensation-to-law-student-101788978252144.html)
 - [SC slams Gautam Budh Nagar administration over preventive notice to law student](https://www.hindustantimes.com/india-news/sc-slams-gautam-budh-nagar-administration-over-preventive-notice-to-law-student-101788978133224.html)
 - [‘Maybe a better life on the cockroach side’, says Vijay Mallya on ‘injustices’ he faced](https://www.hindustantimes.com/india-news/maybe-a-better-life-on-the-cockroach-side-says-vijay-mallya-on-injustices-he-faced-101789003713924.html)
@@ -45,9 +48,6 @@
 - [Kiren Rijiju, Shashi Tharoor, Chirag Paswan: Politicians join viral ChatGPT 1980s AI photo trend](https://www.hindustantimes.com/india-news/kiren-rijiju-shashi-tharoor-politicians-join-viral-chatgpt-1980s-ai-photo-trend-prompts-rahul-gandhi-himanta-instagram-101789001348780.html)
 - [Indians stranded as UK air traffic failure cancels 2,000+ flights; Air India, IndiGo services hit](https://www.hindustantimes.com/india-news/indians-stranded-as-uk-air-traffic-failure-cancels-2000-flights-air-india-indigo-services-hit-101789004057170.html)
 - [Woman subjected to involuntary sex by husband 'undoubtedly a victim': Supreme Court grapples with marital rape exception](https://www.hindustantimes.com/india-news/woman-subjected-to-involuntary-sex-by-husband-undoubtedly-a-victim-supreme-court-grapples-with-marital-rape-exception-101789003307199.html)
-- [SIR notices to Infosys co-founder Nandan Nilekani, Zerodha's Nikhil Kamath in Karnataka](https://www.hindustantimes.com/india-news/sir-notices-infosys-co-founder-nandan-nilekani-zerodha-nikhil-kamath-in-karnataka-shivarajkumar-bengaluru-101788981195006.html)
-- [Scaffolding collapses at under-construction complex in Gujarat's Gandhinagar; 12 workers rescued, 10 still trapped](https://www.hindustantimes.com/india-news/scaffolding-collapses-at-under-construction-complex-in-gujarat-gandhinagar-12-workers-rescued-10-still-trapped-101788977897797.html)
-- [Red Fort bomber Umar Un Nabi used shoe-triggered device: NIA probe rules out accidental explosion](https://www.hindustantimes.com/india-news/red-fort-bomber-umar-un-nabi-used-shoe-triggered-ied-nia-probe-rules-out-accidental-explosion-delhi-101788978374581.html)
 
 **Vijay Karnataka**
 - [ಸಂಚಾರ ದಟ್ಟಣೆ ತಗ್ಗಿಸಲು ಬೆಂಗಳೂರು ರಸ್ತೆಗೆ 25 ಫ್ಲೈಓವರ್‌, ಅಂಡರ್‌ಪಾಸ್‌ಗಾಗಿ ಜಿಬಿಎಗೆ ಪ್ರಸ್ತಾವನೆ ಸಲ್ಲಿಸಿದ ಸಂಚಾರ ಪೊಲೀಸರು: ಎಲ್ಲೆಲ್ಲಿ ಗೊತ್ತಾ?](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-traffic-police-letter-to-gba-proposal-of-25-flyover-and-underpass-construction-to-ease-traffic-problem/articleshow/133989920.cms)
@@ -62,7 +62,9 @@
 - [ಮಳೆಗಾಲದಲ್ಲೂ ಮೈಸೂರಲ್ಲಿ ಬಿಸಿಲ ಬೇಗೆ: 34.2 ಡಿಗ್ರಿಗೆ ಏರಿದ ತಾಪಮಾನ, 8 ವರ್ಷದ ಬಳಿಕ ಸೆಪ್ಟೆಂಬರ್‌ನಲ್ಲಿ ಗರಿಷ್ಠ ಬಿಸಿಲು!](https://vijaykarnataka.com/news/mysuru/temperature-rises-in-mysuru-in-the-monsoon-to-34-2-degrees-record-high-heat-in-september-after-8-years/articleshow/133989146.cms)
 
 **The Hindu**
+- [Ministry by ministry, India’s forest rights regime is fraying](https://www.thehindu.com/sci-tech/energy-and-environment/tribal-affairs-forest-rights-act-environment-ministry-gram-sabha-consent-power-infrastructure/article71448616.ece)
 - [Ex-officials say Census data must be confidential amid concerns over potential NPR, NRC links](https://www.thehindu.com/news/national/ex-officials-say-census-data-must-be-confidential-amid-concerns-over-potential-npr-nrc-links/article71443962.ece)
+- [Rahul Gandhi flags poor condition of PMGSY roads in his constituency](https://www.thehindu.com/news/national/rahul-gandhi-flags-poor-condition-of-pmgsy-roads-in-his-constituency/article71446910.ece)
 - [Cabinet approves eight railway multi-tracking projects costing ₹20,804 crore](https://www.thehindu.com/news/national/cabinet-approves-eight-railway-multi-tracking-projects-costing-20804-crore/article71447167.ece)
 - [Teaching job aspirants protest in Prayagraj seeking recruitment](https://www.thehindu.com/news/national/uttar-pradesh/teaching-job-aspirants-protests-in-prayagraj-seeking-recruitment/article71448450.ece)
 - [MPSC aspirant allegedly ends life in Pune, Abhijeet Dipke to visit family](https://www.thehindu.com/news/national/maharashtra/mpsc-aspirant-allegedly-ends-life-in-pune-abhijeet-dipke-to-visit-family/article71448697.ece)
@@ -70,10 +72,9 @@
 - [Punjab govt. employees call off their strike after assurance](https://www.thehindu.com/news/national/punjab/punjab-govt-employees-call-off-their-strike-after-assurance/article71447845.ece)
 - [‘Why nine accused in Palghar doctor assault case are absconding?’: Bombay HC raps police](https://www.thehindu.com/news/national/maharashtra/why-nine-accused-in-palghar-doctor-assault-case-are-absconding-bombay-hc-raps-police/article71448061.ece)
 - [Madhya Pradesh govt. hikes MBBS intern stipend by 50% amid protests, hindered medical services](https://www.thehindu.com/news/national/madhya-pradesh/mp-medical-interns-protest-demand-stipend-hike-slam-police-action/article71446487.ece)
-- [Forest rights group asks Tribal Affairs Ministry to withdraw stand on Gram Sabha consent](https://www.thehindu.com/sci-tech/energy-and-environment/forest-rights-group-asks-tribal-affairs-ministry-to-withdraw-stand-on-gram-sabha-consent/article71448173.ece)
-- [‘All parties are treated equally in SC’, CJI says in Rahul Gandhi case](https://www.thehindu.com/news/national/all-parties-are-treated-equally-in-sc-cji-says-in-rahul-gandhi-case/article71448660.ece)
 
 **Livemint**
+- [Tate Brothers Denied Bail Ahead of Extradition in UK Rape Case](https://www.livemint.com/news/world/tate-brothers-denied-bail-ahead-of-extradition-in-uk-rape-case-11789007852208.html)
 - [US-Iran war: US aircraft, ‘Warthog’ and F-15s, suffer damage in overnight Iranian strikes in Jordan, says report](https://www.livemint.com/news/us-news/usiran-war-us-aircraft-warthog-and-f-15s-suffer-damage-in-overnight-iranian-strikes-in-jordan-says-report-11789005320235.html)
 - [Petrol and diesel prices today – 10 Sep: Fuel rates in Delhi, Mumbai, Bengaluru as Crude oil edges toward $102 a barrel](https://www.livemint.com/news/india/petrol-and-diesel-prices-today-10-sep-fuel-rates-in-delhi-mumbai-bengaluru-as-crude-oil-edges-toward-102-a-barrel-11789000796886.html)
 - [First Turkey ‘secret’ switch, now ‘accidental’ slide deployment: What happened at Trump's Qatari Air Force One](https://www.livemint.com/news/us-news/first-turkey-secret-switch-now-accidental-emergency-slide-deployment-what-happened-trump-qatari-air-force-one-11789003027147.html)
@@ -83,7 +84,6 @@
 - [Emergency slide deploys on Qatari-gifted Air Force One, briefly delaying Trump before Dallas GOP convention](https://www.livemint.com/news/us-news/emergency-slide-deploys-on-qatari-gifted-air-force-one-briefly-delaying-trump-before-dallas-gop-convention-11788981440002.html)
 - [Iran Nuclear Impasse Deepens After US Wins UN Watchdog Vote](https://www.livemint.com/news/us-news/iran-nuclear-impasse-deepens-after-us-wins-un-watchdog-vote-11788981453559.html)
 - [ChatGPT 1980s photo trend: Shashi Tharoor and sons join AI fashion; netizens react, ‘More handsome than Shah Rukh Khan’](https://www.livemint.com/news/trends/chatgpt-1980s-photo-trend-shashi-tharoor-and-sons-join-ai-fashion-netizens-react-more-handsome-than-shah-rukh-khan-11788975642338.html)
-- [Coal India steps up output, supplies to power plants as rains subside](https://www.livemint.com/news/coal-indias-average-daily-production-up-40-led-by-recovery-in-northern-coalfields-operations-power-generation-demand-11788966909521.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,8 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಎಸ್‌ಐಆರ್ ನೋಟಿಸ್: ವಿಚಾರಣೆಗೆ ಹಾಜರಾಗಲು ಸಂತ್ರಸ್ತರಿಗೆ ರಜೆ ಸಂಕಷ್ಟ!](https://www.varthabharati.in/nimma-ankana/sir-notice-victims-face-leave-crisis-to-appear-for-hearing-2274120)
+- [ದಕ್ಷಿಣ ಕನ್ನಡ ಜಿಲ್ಲಾ ಕಾಂಗ್ರೆಸ್ ಅಧ್ಯಕ್ಷರಾಗಿ ಪದ್ಮರಾಜ್ ಆರ್. ಪೂಜಾರಿ ನೇಮಕ](https://www.varthabharati.in/sampaadakeeya/padmaraj-r-poojary-appointed-as-dakshina-kannada-district-congress-president-2274119)
 - [ಮಂಗಳೂರು: ಹಿರಿಯ ಚಾರ್ಟರ್ಡ್ ಅಕೌಂಟೆಂಟ್ ಝಮೀರ್ ಅಂಬರ್ ನಿಧನ](https://www.varthabharati.in/death/senior-chartered-accountant-zameer-amber-from-mangalore-passes-away-2274118)
 - [Norway: ಡ್ರೋನ್ ಢಿಕ್ಕಿಯಿಂದ ಕೂದಲೆಳೆ ಅಂತರದಲ್ಲಿ ಪಾರಾದ ಉಕ್ರೇನ್ ಅಧ್ಯಕ್ಷ ಪ್ರಯಾಣಿಸುತ್ತಿದ್ದ ವಿಮಾನ](https://www.varthabharati.in/international/norway-plane-carrying-ukrainian-president-narrowly-escapes-collision-with-a-drone-2274117)
 - [Hubballi | ಮನೆ ಬೀಗ ಮುರಿದು ಚಿನ್ನಾಭರಣ ಕಳ್ಳತನ : FIR ದಾಖಲು](https://www.varthabharati.in/dharwad/hubballi-2274116)
@@ -106,11 +108,9 @@
 - [ಗ್ಲೋಬಲ್ ಚೆಸ್ ಲೀಗ್: ಚೆಕ್ ಮುಂಬಾ ಮಾಸ್ಟರ್ಸ್ ಮಣಿಸಿ ಅಗ್ರಸ್ಥಾನಕ್ಕೇರಿದ ಆಲ್ಪೈನ್ ಪೈಪರ್ಸ್](https://www.varthabharati.in/sports/gcl-alpine-apl-pipers-beat-mumba-masters-to-go-on-top-ganges-grandmasters-convincingly-beat-triveni-continental-kings-2274112)
 - [ಆಕ್ರಮಿತ ವೆಸ್ಟ್ ಬ್ಯಾಂಕ್‌ನ ಇಸ್ರೇಲಿ ವಸಾಹತುಗಳ ಸರಕುಗಳ ಮೇಲೆ ಬ್ರಿಟನ್ ನಿಷೇಧ; ಏನೇನು ನಿಷೇಧಕ್ಕೊಳಗಾಗಿವೆ ?](https://www.varthabharati.in/vishesha-varadigalu/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means-2274109)
 - [Hubballi | ಮನೆ ಬೀಗ ಮುರಿದು ಚಿನ್ನಾಭರಣ, ನಗದು ಕಳ್ಳತನ : ಪ್ರಕರಣ ದಾಖಲು](https://www.varthabharati.in/dharwad/hubballi-2274108)
-- [ಟೆಸ್ಟ್ ಕ್ರಿಕೆಟ್ ನಲ್ಲಿ ಗರಿಷ್ಠ ಪಂದ್ಯಗಳು: ಸ್ಟೀವ್ ವಾ ದಾಖಲೆ ಮುರಿದ ಜೋ ರೂಟ್](https://www.varthabharati.in/sports/joe-root-steve-waugh-2274107)
-- [ಭಾರತದ ನ್ಯೂಝಿಲ್ಯಾಂಡ್ ಕ್ರಿಕೆಟ್ ಪ್ರವಾಸ: ಎರಡೇ ವಾರಗಳಲ್ಲಿ 50,000ಕ್ಕೂ ಅಧಿಕ ಟಿಕೆಟ್ ಗಳ ಮಾರಾಟ](https://www.varthabharati.in/sports/india-vs-new-zealand-2274106)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (5.8)
+- India (5.5)
 - Emkay Global Financial (5.0)
 - ChatGPT (3.9)
 - target (3.3)
@@ -121,24 +121,24 @@
 - Jordan (2.6)
 - Hubballi (2.6)
 - Trump (2.2)
-- Red Fort (2.0)
 - Shashi Tharoor (2.0)
 - Buy Bajaj Finance (2.0)
 - Mallya (1.6)
+- Russia (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [തകര്‍ന്ന് പാകിസ്താന്‍; മൂന്നാം ടെസ്റ്റിലും രക്ഷയില്ല](https://www.reporterlive.com/sports/cricket/2026/09/09/pakistan-cricket-england-test-match)
-- [Explainer: ગરબામાં મુસ્લિમોની એન્ટ્રીનો વિવાદ શું છે? ઓળખ તપાસથી હનુમાન ચાલીસા સુધી કેમ પહોંચી વાત?](https://www.gujaratsamachar.com/news/national/explainer-what-is-the-controversy-over-the-entry-of-muslims-in-garba-why-did-the-topic-go-from-identity-checks-to-hanuman-chalisa-58876003424)
-- [गणेशोत्सवासाठी कोकणात जाणाऱ्या भाविकांना टोलमाफी; 'या' महामार्गांवर मिळणार सवलत](https://www.loksatta.com/kolhapur/ganeshotsav-konkan-toll-waiver-pass-atal-setu-mumbai-goa-highway-rub-99-6127918/)
-- [VIDEO : હૂથીઓના હુમલા બાદ સાઉદીનો જડબાતોડ જવાબ, યમનના 4 રાજ્યોમાં 32 હુમલાથી હાહાકાર](https://www.gujaratsamachar.com/news/international/saudi-arabias-response-to-the-houthis-32-airstrikes-in-four-yemeni-states-within-24-hours-63265268907)
-- [Durga Puja 2026: মহালয়ায় ইডেনে ড্রোন-আতসবাজির শো, আমন্ত্রিত প্রধানমন্ত্রী, 'বড় প্রাপ্তি' জানালেন CAB সভাপতি সৌরভ](https://bengali.abplive.com/sports/sourav-ganguly-claims-prime-minister-narendra-modi-coming-eden-gardens-durga-puja-2026-inauguration-big-achievement-1192210)
-- [VIDEO| વરસાદની ઘટ વચ્ચે સૌરાષ્ટ્ર-કચ્છમાં મેઘમહેર: કચ્છ, અમરેલી અને જામનગરમાં વરસાદથી ખેડૂતો હરખાયા](https://www.gujaratsamachar.com/news/kutch/saurashtra-kutch-rain-amreli-jamnagar-kutch-rainfall-imd-weather-forecast-36603753833)
-- [ગાંધીનગર મનપા ચૂંટણી: ભાજપે પ્રભારી જાહેર કર્યા, કોંગ્રેસ અને આપ વચ્ચે ગઠબંધનની ચર્ચા](https://gujarati.abplive.com/news/gandhinagar/gandhinagar-gmc-election-bjp-appoints-prabhari-rushikesh-patel-990804)
-- [CM Revanth: దళితులు నడిచారని రోడ్డు శుద్ధి చేస్తారా?](https://10tv.in/telugu-news/telangana/cm-revanth-reddy-orders-an-inquiry-into-the-erravalli-farmhouse-demolition-incident-sn-1134717.html)
-- [பட்டினப்பாக்கத்தில் புதிய தலைமைச் செயலக வளாகம் - அரசாணை வெளியீடு](https://www.hindutamil.in/news/tamilnadu/government-order-issued-to-construct-a-new-secretariat-in-pattinapakkam-at-a-cost-of-1200-crore)
-- [The moon may have formed in just 5 hours, new simulations suggest](https://www.livescience.com/space/the-moon/the-moon-may-have-formed-in-just-5-hours-new-simulations-suggest)
+- [സെക്യുലർ സോഷ്യൽ ജസ്റ്റിസ് വിക്ടറി; ടിവികെ നേതൃത്വം നൽകുന്ന മുന്നണിയുടെ പേരു തീരുമാനിച്ചു](https://www.manoramaonline.com/news/latest-news/2026/09/09/secular-social-justice-victory-front-alliance-cm-c-joseph-vijay-tamil-nadu.amp.html)
+- [Amitabh Bachchan: ‘শো চালানো অসম্ভব..’, ভাঙছে মন, কেবিসি সঞ্চালনা করা কেন কঠিন হয়ে দাঁড়িয়েছে বিগ বি-র কাছে?](https://www.hindustantimes.com/bangla/entertainment/it-has-been-a-heart-breaking-experience-amitabh-bachchan-shares-emotional-toll-of-hosting-kbc-18-271788957685014.html)
+- [KBC 18: 'नेत्रहीन के साथ कोई नहीं रहता', कंटेस्टेंट का दर्द सुन रो पड़ी पत्नी, अमिताभ बच्चन भी हुए भावुक](https://www.aajtak.in/entertainment/television/story/amitabh-bachchan-hide-pain-kaun-banega-crorepati-blind-contestant-struggles-fans-emotional-viral-tmovf-dskc-2639541-2026-09-09)
+- [Tamilnadu Alliance: महाविकास आघाडीच्या पावलावर पाऊल! काँग्रेसनं तामिळनाडूत केली नव्या आघाडीची घोषणा](https://sarkarnama.esakal.com/desh/following-in-footsteps-of-maha-vikas-aghadi-congress-tvk-announces-new-alliance-name-in-tamil-nadu-aau85)
+- [MPSC : राज्यसेवा मुख्य परीक्षेतील गुणांच्या तफावतीची तक्रार, MPSC कडून 'गुणपडताळणी'ची संधी](https://marathi.abplive.com/news/mumbai/mpsc-state-services-mains-2025-marks-verification-candidate-grievances-marathi-news-1438586)
+- [‘Drishyam 4’ આવશે કે નહીં ? અજય દેવગને સસ્પેન્સ પરથી ઊંચક્યો પરદો, આપ્યું ‘મોટું નિવેદન’](https://tv9gujarati.com/entertainment/bollywood/will-drishyam-4-happen-ajay-devgn-finally-reveals-the-truth-after-drishyam-3-trailer-launch-1512557.html)
+- [മേനകയുടെ തിരിച്ചുവരവ്; ഒപ്പം കൊറിയൻ താരം അമി ജങും, 'ഒരു കൊറിയൻ കൺഫ്യൂഷന്' ആരംഭം](https://www.asianetnews.com/entertainment-news/menaka-suresh-comeback-movie-oru-korean-confusion-shooting-started-articleshow-92fn8vc)
+- [દિલ્હી હોનારત બાદ અમદાવાદમાં એક જ દિવસમાં 55 પીજી-હોસ્ટેલની તપાસ કરાઈ, સબ સલામતનો દાવો](https://www.gujaratsamachar.com/news/ahmedabad/amc-structural-safety-drive-pg-hostel-checking-delhi-building-collapse-effect-98643722790)
+- [நெல் கொள்முதல் செய்யாததால் விவசாயிகள் அதிருப்தி](https://www.dinamalar.com/news/tamil-nadu-district-news-cuddalore/farmers-unhappy-over-non-procurement-of-paddy/4318584)
+- [నేపాల్‌కు ఇప్పుడు డబ్బు ఎంత అవసరం? ఎక్కడి నుంచి వస్తుంది?](https://www.sakshi.com/telugu-news/international/nepal-floods-where-will-funding-be-sourced-2898677)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
