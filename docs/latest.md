@@ -1,41 +1,41 @@
-# India Trending Report — 2026-09-10 20:01:54
+# India Trending Report — 2026-09-10 20:34:24
 
 ## Google Trends (India) — top trending searches
-1. [leny yoro](https://trends.google.com/trending/rss?geo=IN)
-2. [alibaba](https://trends.google.com/trending/rss?geo=IN)
-3. [jamal musiala](https://trends.google.com/trending/rss?geo=IN)
-4. [no](https://trends.google.com/trending/rss?geo=IN)
-5. [ucl fixtures](https://trends.google.com/trending/rss?geo=IN)
-6. [bayern](https://trends.google.com/trending/rss?geo=IN)
-7. [como](https://trends.google.com/trending/rss?geo=IN)
-8. [lisandro martínez](https://trends.google.com/trending/rss?geo=IN)
-9. [airbnb](https://trends.google.com/trending/rss?geo=IN)
-10. [slavia praha vs lens](https://trends.google.com/trending/rss?geo=IN)
+1. [binance buy crypto](https://trends.google.com/trending/rss?geo=IN)
+2. [nico paz](https://trends.google.com/trending/rss?geo=IN)
+3. [matheus cunha](https://trends.google.com/trending/rss?geo=IN)
+4. [alibaba](https://trends.google.com/trending/rss?geo=IN)
+5. [leny yoro](https://trends.google.com/trending/rss?geo=IN)
+6. [jamal musiala](https://trends.google.com/trending/rss?geo=IN)
+7. [no](https://trends.google.com/trending/rss?geo=IN)
+8. [ucl fixtures](https://trends.google.com/trending/rss?geo=IN)
+9. [a](https://trends.google.com/trending/rss?geo=IN)
+10. [bayern](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Congress-NC rift over Vande Mataram: The ghost of 1987 and ‘big brother’ complex](https://timesofindia.indiatimes.com/india/congress-nc-rift-over-vande-mataram-the-ghost-of-1987-and-big-brother-complex/articleshow/133994525.cms)
-- [Lavrov arrives in India ahead of Brics Summit; Putin to arrive tonight](https://timesofindia.indiatimes.com/india/brics-summit-2026-pm-modi-says-all-set-putin-to-arrive-in-few-hours-top-developments/articleshow/134015100.cms)
+- [Lavrov arrives in India ahead of Brics Summit; Putin to arrive shortly](https://timesofindia.indiatimes.com/india/brics-summit-2026-pm-modi-says-all-set-putin-to-arrive-in-few-hours-top-developments/articleshow/134015100.cms)
 - [Wrong turn, DHS: My name is 'Singh' and I’m not a bad truck driver](https://timesofindia.indiatimes.com/world/us/wrong-turn-dhs-my-name-is-singh-and-im-not-a-bad-truck-driver/articleshow/134014675.cms)
 - [Why iPhones are so expensive in India again](https://timesofindia.indiatimes.com/technology/tech-news/why-iphones-are-so-expensive-in-india-again/articleshow/134014478.cms)
-- [Houthis seize Yemen's strategic Red Sea port city of Mokha from Saudi-backed forces](https://timesofindia.indiatimes.com/world/middle-east/houthis-seize-yemens-strategic-red-sea-port-city-of-mokha-from-saudi-backed-forces/articleshow/134025249.cms)
+- [Lawyer Vijay Aggarwal, assistant appear in London court over sexual assault charges](https://timesofindia.indiatimes.com/world/uk/lawyer-vijay-aggarwal-and-assistant-manpreet-kaur-appear-in-london-court-over-sexual-assault-charges/articleshow/134028932.cms)
 - [1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-5-chatgpt-prompts-to-create-kerala-style-retro-images/articleshow/133999924.cms)
+- [Centre ready to fulfil Ladakh's aspirations, asks for 'patience'](https://timesofindia.indiatimes.com/india/centre-ready-to-fulfil-ladakhs-aspirations-asks-for-patience/articleshow/134028802.cms)
+- [Houthis seize Yemen's strategic Red Sea port city of Mokha from Saudi-backed forces](https://timesofindia.indiatimes.com/world/middle-east/houthis-seize-yemens-strategic-red-sea-port-city-of-mokha-from-saudi-backed-forces/articleshow/134025249.cms)
 - [US govt proposes scrapping 60-day grace period for foreign workers after job loss](https://timesofindia.indiatimes.com/world/us/dhs-proposes-scrapping-60-day-grace-period-for-foreign-workers-after-job-loss/articleshow/134018637.cms)
-- [Shafali stars with 64, Deepti strikes thrice as India storm into 10th Asia Cup final](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/shafali-stars-with-64-deepti-strikes-thrice-as-india-storm-into-10th-asia-cup-final-after-40-run-win-over-bangladesh/articleshow/134023444.cms)
-- [Modi-Xi meet: Trade, border on agenda during Xi's 24-hour blitz](https://timesofindia.indiatimes.com/india/mod-xi-meet-trade-border-on-agenda-during-xis-24-hour-blitz/articleshow/134026386.cms)
 - [22-year-old pleads guilty in US' biggest Bitcoin theft; spent millions on cars & more](https://timesofindia.indiatimes.com/technology/tech-news/22-year-old-school-dropout-pleads-guilty-in-americas-largest-bitcoin-robbery-posed-as-google-and-gemini-executives-spent-millions-on-sports-cars-night-clubs-and-mansions/articleshow/134008280.cms)
 
 **NDTV**
+- [Swiss Coach Crash Leaves 'Several Dead': Police](https://www.ndtv.com/world-news/swiss-coach-crash-leaves-several-dead-police-12030626#publisher=newsstand)
+- ['Villain, Not Hero': TTV Dhinakaran Attacks Vijay Over 'Broken Jaw' Row](https://www.ndtv.com/india-news/ttv-dhinakaran-attacks-vijay-over-broken-jaw-row-villain-not-hero-12028377#publisher=newsstand)
+- [Scientists Tried To Use AI Models For Potential Biological Weapons Research: Anthropic](https://www.ndtv.com/world-news/scientists-tried-to-use-our-models-for-biological-weapons-research-anthropic-12030611#publisher=newsstand)
+- [Israel Says It Destroyed Key Hezbollah Tunnels In South Lebanon](https://www.ndtv.com/world-news/israel-says-it-destroyed-key-hezbollah-tunnels-in-south-lebanon-12030612#publisher=newsstand)
+- ["Get Off Our Roads": Team Trump's Racist 'Mr Singh' Poster In US](https://www.ndtv.com/world-news/get-off-our-roads-team-trumps-racist-mr-singh-poster-in-us-12026868#publisher=newsstand)
+- [Delhi Building Collapse: Satya Niketan PG Operator Denied Anticipatory Bail](https://www.ndtv.com/india-news/delhi-building-collapse-satya-niketan-pg-operator-shubham-tyagi-denied-anticipatory-bail-12030584#publisher=newsstand)
+- [CCTV Trail Deepens Odisha Orangutan Mystery, Probe Stretches To Sea Routes](https://www.ndtv.com/india-news/cctv-trail-deepens-odisha-orangutan-mystery-probe-now-covers-sea-routes-too-12030268#publisher=newsstand)
 - [25 Years After 9/11: Tracing The Rise And Fall Of al Qaeda](https://www.ndtv.com/world-news/how-al-qaeda-spread-then-became-less-influential-in-25-years-after-9-11-12030520#publisher=newsstand)
 - [No Trilateral Peace Talks Before Elections In Russia: Zelensky](https://www.ndtv.com/world-news/no-trilateral-peace-talks-before-elections-in-russia-volodymyr-zelensky-12030532#publisher=newsstand)
 - [Runaway Drug Smuggler Tries Makeover To Give Cops The Slip, Gets Caught](https://www.ndtv.com/india-news/runaway-drug-smuggler-tries-makeover-to-give-cops-the-slip-gets-caught-12030530#publisher=newsstand)
-- [Assam Police Officer Arrested Over Links With Crude Oil Theft Racket](https://www.ndtv.com/india-news/assam-police-officer-arrested-over-links-with-crude-oil-theft-racket-12030529#publisher=newsstand)
-- ["Just As Sun Rises In The East...": Poll Body Chief Defends Voter Roll Revision](https://www.ndtv.com/india-news/just-as-sun-rises-in-the-east-poll-body-chief-gyanesh-kumar-defends-voter-roll-revision-sir-12030502#publisher=newsstand)
-- [6 Killed, 8 Injured As Van, Truck Collide Head-On In Maharashtra](https://www.ndtv.com/india-news/6-killed-8-injured-as-van-truck-collide-head-on-in-maharashtra-12030478#publisher=newsstand)
-- [Voting Machines Can't Be Hacked: Poll Body Chief Gyanesh Kumar Reaffirms In Ahmedabad Speech](https://www.ndtv.com/india-news/voting-machines-cant-be-hacked-poll-body-chief-gyanesh-kumar-reaffirms-in-ahmedabad-speech-12030456#publisher=newsstand)
-- [Woman, Newborn Die After Delivery At 'Sealed' Private Hospital In UP](https://www.ndtv.com/india-news/woman-newborn-die-after-delivery-at-sealed-private-hospital-in-up-12030446#publisher=newsstand)
-- [Exclusive: To Take Business Wallet Global, India In Talks With Russia, EU](https://www.ndtv.com/india-news/exclusive-to-take-business-wallet-global-india-in-talks-with-russia-eu-12030437#publisher=newsstand)
-- ['We Were Told To Thwart Peace': Israeli Insiders Reveal Dark Gaza War Secrets](https://www.ndtv.com/world-news/we-were-told-to-thwart-peace-israeli-insiders-reveal-dark-gaza-war-secrets-12030399#publisher=newsstand)
 
 **Hindustan Times**
 - [Hope we’ll have front-of-pack labels on food items quite soon: FSSAI CEO Rajit Punhani](https://www.hindustantimes.com/india-news/hope-we-ll-have-front-of-pack-labels-on-food-items-quite-soon-fssai-ceo-rajit-punhani-101789064246404.html)
@@ -62,6 +62,9 @@
 - [ಮಲ್ಟಿಪ್ಲೆಕ್ಸ್ ಫಿಲಂ ಟೆಕೆಟ್‌ ಮೇಲಿನ ಸೆಸ್‌: ರಾಜ್ಯ ಸರಕಾರದ ಆದೇಶ ರದ್ದುಪಡಿಸಿದ ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್](https://vijaykarnataka.com/news/karnataka/cess-on-multiplex-film-ticket-karnataka-high-court-cancels-state-government-order/articleshow/134017440.cms)
 
 **The Hindu**
+- [Mayawati ‘frees’ her nephew Akash Anand from BSP after his father-in-law quits politics](https://www.thehindu.com/news/national/uttar-pradesh/mayawati-frees-her-nephew-akash-anand-from-bsp-after-his-father-in-law-quits-politics/article71452463.ece)
+- [HMDA calls bids for 8.75 km elevated corridor between Banjara Hills and Gachibowli](https://www.thehindu.com/news/cities/Hyderabad/hmda-calls-bids-for-875-km-elevated-corridor-between-banjara-hills-and-gachibowli/article71452701.ece)
+- [1,071 out of 2,100 police stations in Tamil Nadu have been equipped to retain their CCTV footage for 18 months, T.N. DGP tells Madras High Court](https://www.thehindu.com/news/national/tamil-nadu/1071-out-of-2100-police-stations-in-tamil-nadu-have-been-equipped-to-retain-their-cctv-footage-for-18-months-tn-dgp-tells-madras-high-court/article71451842.ece)
 - [Ganesh celebrations from Sept. 14; immersion on Sept. 25](https://www.thehindu.com/news/cities/Hyderabad/ganesh-celebrations-from-sept-14-immersion-on-sept-25/article71452121.ece)
 - [Ganesh festival preparations stepped up in Hyderabad; police review traffic, immersion plans](https://www.thehindu.com/news/cities/Hyderabad/ganesh-festival-preparations-stepped-up-in-hyderabad-police-review-traffic-immersion-plans/article71452451.ece)
 - [Advocate Commissioners’ fees in SARFAESI cases must be proportionate to the work involved, rules Madras High Court](https://www.thehindu.com/news/national/tamil-nadu/advocate-commissioners-fees-in-sarfaesi-cases-must-be-proportionate-to-the-work-involved-rules-madras-high-court/article71452299.ece)
@@ -69,11 +72,9 @@
 - [A wake-up call to keep the mind hale and hearty](https://www.thehindu.com/news/national/kerala/a-wake-up-call-to-keep-the-mind-hale-and-hearty/article71451959.ece)
 - [17 foreigners in Meghalaya jail after completing sentence, High Court finds](https://www.thehindu.com/news/national/meghalaya/17-foreigners-in-meghalaya-jail-after-completing-sentence-high-court-finds/article71450841.ece)
 - [The boom and bust of sporting culture in A.P.](https://www.thehindu.com/news/national/andhra-pradesh/the-boom-and-bust-of-sporting-culture-in-ap/article71453283.ece)
-- [Sri Sathya Sai village launches community surveillance to enhance security, combat crime](https://www.thehindu.com/news/national/andhra-pradesh/rural-village-launches-community-surveillance-to-enhance-security-combat-crime/article71451679.ece)
-- [‘Nudi Namana’ to pay tribute to theatre artiste Indira Nair](https://www.thehindu.com/news/national/karnataka/nudi-namana-to-pay-tribute-to-theatre-artiste-indira-nair/article71452574.ece)
-- [India, U.S. armies step up combat interoperability with 22nd Yudh Abhyas](https://www.thehindu.com/news/national/india-us-armies-step-up-combat-interoperability-with-22nd-yudh-abhyas/article71451971.ece)
 
 **Livemint**
+- [BRICS 2026: Delhi braces for traffic diversions from 2 pm to 8:30 pm tomorrow, check alternate routes, diversion points](https://www.livemint.com/news/india/brics-2026-delhi-braces-for-traffic-diversions-from-2-pm-to-8-30-pm-tomorrow-check-alternate-routes-diversion-points-11789059378504.html)
 - [H-1B visa issue: Trump administration proposes scrapping 60-day grace period, Indian techies to be affected](https://www.livemint.com/news/us-news/h1b-visa-issue-trump-administration-proposes-scrapping-60-day-grace-period-indian-techies-to-be-affected-11789064597291.html)
 - [Senator John Fetterman sparks Democratic Party backlash after appearance at Republican midterm convention](https://www.livemint.com/news/us-news/senator-john-fetterman-sparks-democratic-party-backlash-after-appearance-at-republican-midterm-convention-11789059560792.html)
 - [Did Adani Group begin preliminary assessment to renovate Writers’ Building in Kolkata? Project could cost up to  ₹120 cr](https://www.livemint.com/news/india/did-adani-group-begin-preliminary-assessment-to-renovate-writers-building-in-kolkata-project-could-cost-up-to-120-cr-11789058674600.html)
@@ -83,7 +84,6 @@
 - [Matcha vs coffee: India grows more curious about 800-year-old Japanese drink; Google searches surge up to 2,500%](https://www.livemint.com/news/trends/matcha-vs-coffee-india-grows-more-curious-about-800-year-old-japanese-drink-google-searches-surge-up-to-2500-11789057266593.html)
 - [Walmart recalls Great Value Organic Triple Berry Blend over potential E. coli contamination: What consumers should know](https://www.livemint.com/news/us-news/walmart-recalls-great-value-organic-triple-berry-blend-over-potential-e-coli-contamination-what-consumers-should-know-11789050403349.html)
 - [How retro 1980s AI photo ChatGPT trend triggered BJP vs Congress meme war - See pics of Modi, Rahul Gandhi, others](https://www.livemint.com/news/trends/how-retro-1980s-ai-photo-chatgpt-trend-triggered-bjp-vs-congress-meme-war-see-pics-of-modi-rahul-gandhi-others-11789051526755.html)
-- [BRICS 2026: India pitches for integration of central bank digital currencies — why CBDC linkage is an uphill task](https://www.livemint.com/news/brics-2026-india-to-seek-to-link-central-bank-digital-currencies-will-cbdc-integration-face-challenges-11789050704729.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,35 +100,35 @@
 - [ದೇಶದ ಉನ್ನತ ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳಲ್ಲಿ ನಾಯಕತ್ವದ ಕೊರತೆ: 155 ರಾಷ್ಟ್ರೀಯ ಪ್ರಾಮುಖ್ಯತೆಯ ಸಂಸ್ಥೆಗಳ ಪೈಕಿ 37 ಕಡೆಗಳಲ್ಲಿ ಪ್ರಭಾರ ಮುಖ್ಯಸ್ಥರು](https://www.varthabharati.in/vishesha-varadigalu/37-of-155-institutions-of-national-importance-running-with-interim-acting-heads-2274372)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (9.4)
+- India (5.2)
+- Delhi (3.2)
 - ChatGPT (2.6)
 - India-Russia (2.6)
 - Ganesh (2.6)
 - Sept (2.6)
-- Asia Cup (2.0)
-- Poll Body Chief (2.0)
+- Madras High Court (2.0)
+- Singh' (1.6)
+- Building (1.6)
+- CCTV (1.6)
 - Goyal (1.6)
-- Delhi (1.6)
 - Congress-NC (1.3)
 - Lavrov (1.3)
 - Putin (1.3)
 - Wrong (1.3)
-- Singh' (1.3)
-- Houthis (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Dilip Ghosh: 'আবার কি উনি নন্দীগ্রামে হারতে নামবেন?' উপনির্বাচনে মমতার প্রার্থী হওয়ার জল্পনায় পাল্টা দিলীপ ঘোষের](https://bengali.abplive.com/district/dilip-ghosh-on-nandigram-bye-election-mamata-banerjee-name-speculation-1192296)
-- [Small-cap funds attract nearly Rs 8,000 crore in August, highest among equity categories: AMFI](https://www.moneycontrol.com/news/business/personal-finance/small-cap-funds-attract-nearly-rs-8-000-crore-in-august-highest-among-equity-categories-amfi-14026970.html)
-- [மர்ம நபர்களால் துணை நடிகர் வெட்டிப் படுகொலை - 4 பேர் கைது..!](https://www.polimernews.com/districtnews/supporting-actor-hacked-to-death-by-mysterious-persons-4-arrested-12514584)
-- [Raj Thackeray : 72 वर्षांत प्रथमच राष्ट्रीय चित्रपट पुरस्कार दिल्लीबाहेर; गुजरातला सोहळा हलवल्याने राज ठाकरे संतापले](https://www.dainikprabhat.com/national-film-awards-held-outside-delhi-for-the-first-time-in-72-years-raj-thackeray-furious-over-the-ceremony-being-moved-to-gujarat)
-- [Jadavpur University: ১৩০০ কোটি টাকা দেওয়া হবে যাদবপুর বিশ্ববিদ্যালয়কে, বিধানসভায় ঘোষণা শুভেন্দু অধিকারীর](https://bengali.abplive.com/district/west-bengal-chief-minister-suvendu-adhikari-declares-rs-1300-crore-grant-for-jadavpur-university-1192286)
-- [Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia](https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia)
-- [CM Vijay: 'முதல்வரின் லண்டன் பயணம்; பரம ரகசியம் காக்கும் தமிழக அரசு!'](https://www.vikatan.com/government-and-politics/cm-vijays-london-visit-tamil-nadu-government-keeps-his-travel-plans-under-wraps)
-- [வீரவசனம் பேசுவது மட்டும் போதாது..வீதியில் நடக்கும் படுகொலைகளைத் தடுத்து நிறுத்துங்கள்! - நயினார் நாகேந்திரன்](https://www.dailythanthi.com/news/tamilnadu/merely-mouthing-brave-words-is-not-enoughput-a-stop-to-the-murders-taking-place-on-the-streets-nainar-nagendran)
-- [Pakistan Cricket: ఇంగ్లాండ్‌లో పాక్ క్రికెటర్లకు చేదు అనుభవం.. హోటల్‌ను చుట్టుముట్టిన నిరసనకారులు](https://tv9telugu.com/sports/cricket-news/pakistan-u19-cricket-team-hotel-surrounded-by-masked-protestors-in-england-1908044.html)
-- [Yash Thakur replaces injured Harshit Rana for Afghanistan T20Is and Asian Games](https://www.cricbuzz.com/cricket-news/140128/yash-thakur-replaces-injured-harshit-rana-for-afghanistan-t20is-and-asian-games)
+- [ബ്രിക്സ് ഉച്ചകോടി കൊണ്ട് ഇന്ത്യയ്ക്ക് എന്ത് ഗുണം? താനൊരു ഒരു നേട്ടവും കണ്ടിട്ടില്ല: പി ചിദംബരം](https://www.asianetnews.com/india-news/p-chidambaram-questions-indias-gains-from-brics-summits-articleshow-iq2tk6d)
+- [Bipasha Basu flags alleged contamination found inside newly opened nutrition product, appeals to Tukaram Mundhe: 'This is full of worms... tiny tiny worms'](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bipasha-basu-flags-alleged-contamination-found-inside-newly-opened-nutrition-product-appeals-to-tukaram-mundhe-this-is-full-of-worms-tiny-tiny-worms/articleshow/134000280.cms)
+- [कॅचचे पकडण्यासाठी क्रिकेटरनं जे केलं ते पाहून तुम्हालाही बसणार नाही विश्वास, Viral Video चे सत्य समोर](https://www.tv9marathi.com/sports/women-cricketer-unbelievable-catch-video-viral-on-social-media-1753233.html)
+- [జనసేన, బీజేపీ సిగ్గుపడాలి](https://www.ysrcongress.com/top-stories/jagan-slams-lokesh-over-dsc-104864)
+- [இசையமைப்பாளர் இளையராஜா மீது நீதிமன்ற அவமதிப்பு வழக்கு](https://www.dailythanthi.com/cinema/cinemanews/contempt-of-court-case-against-music-composer-ilaiyaraaja)
+- [IND vs PAK: भारतीय हॉकी संघाने पाकिस्तानचा १९-० असा उडवला धुव्वा; दिमाखात गाठली सेमीफायनल](https://www.lokmat.com/other-sports/ind-vs-pak-asia-cup-indian-hockey-team-thrashes-pakistan-19-0-reaches-semi-finals-in-style-a-a747/)
+- [“எல்​லோருக்​குமே ‘சிக்மா’ தருணம் இருந்திருக்கும்” - இயக்குநர் ஜேசன் சஞ்சய் கணிப்பு](https://www.hindutamil.in/news/cinema/tamil-cinema/director-jason-sanjay-predicts-that-everyone-will-have-a-sigma-moment)
+- [દુનિયામાં નહીં બચે સોનું? 22 મહિનાથી અંધાધૂંધ ખરીદી કરી રહ્યું ડ્રેગન, શું છે ચીનની ચાલ જાણો](https://tv9gujarati.com/photo-gallery/will-world-run-out-of-gold-china-buying-indiscriminately-for-22-months-1512815.html)
+- [मणिपुरी म्यूजिशियन C. विक्रम सिंह की हत्या में नया खुलासा, 'सबक सिखाने' के इरादे से की थी पिटाई, पूछताछ में दावा](https://www.aajtak.in/crime/news/story/manipuri-musician-c-vikram-singh-murder-new-revelation-sunlight-colony-delhi-kilokari-pvzs-dskc-2640126-2026-09-10)
+- [ઈરાને 'બાર્ટર સિસ્ટમ' દ્વારા અમેરિકા અને પશ્ચિમી દેશોને ચોંકાવ્યા, ચીન સાથે મળીને કર્યો ખેલ](https://www.gujaratsamachar.com/news/international/iran-surprised-america-and-western-countries-with-barter-system-played-along-with-china-45687817888)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
