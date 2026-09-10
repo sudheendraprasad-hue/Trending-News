@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-10 01:02:39
+# India Trending Report — 2026-09-10 01:34:01
 
 ## Google Trends (India) — top trending searches
-1. [nfl](https://trends.google.com/trending/rss?geo=IN)
-2. [montréal vs charlotte](https://trends.google.com/trending/rss?geo=IN)
-3. [मुद्रा](https://trends.google.com/trending/rss?geo=IN)
-4. [जमा](https://trends.google.com/trending/rss?geo=IN)
-5. [वर्षा](https://trends.google.com/trending/rss?geo=IN)
-6. [alexander zverev](https://trends.google.com/trending/rss?geo=IN)
-7. [കാവ്യ മാധവന്](https://trends.google.com/trending/rss?geo=IN)
-8. [chicago vs inter miami](https://trends.google.com/trending/rss?geo=IN)
-9. [పెట్రోల్](https://trends.google.com/trending/rss?geo=IN)
-10. [atlanta united vs orlando city](https://trends.google.com/trending/rss?geo=IN)
+1. [ಡಿ ಕೆ ಶಿವಕುಮಾರ್](https://trends.google.com/trending/rss?geo=IN)
+2. [seahawks vs patriots](https://trends.google.com/trending/rss?geo=IN)
+3. [பிரபு](https://trends.google.com/trending/rss?geo=IN)
+4. [phillies vs astros](https://trends.google.com/trending/rss?geo=IN)
+5. [आधार](https://trends.google.com/trending/rss?geo=IN)
+6. [nepal vs oman](https://trends.google.com/trending/rss?geo=IN)
+7. [uae vs hong kong](https://trends.google.com/trending/rss?geo=IN)
+8. [toronto vs nashville](https://trends.google.com/trending/rss?geo=IN)
+9. [অর্থ](https://trends.google.com/trending/rss?geo=IN)
+10. [japan cricket team](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Zelenskyy's plane nearly hit by drone while taking off from Moldova](https://timesofindia.indiatimes.com/world/europe/zelenskyys-plane-nearly-hit-by-drone-while-taking-off-from-moldova-norway-pm/articleshow/133983144.cms)
+- [Massive blaze engulfs Philippines ferry: 5 killed, 87 still missing](https://timesofindia.indiatimes.com/world/rest-of-world/watch-ferry-erupts-in-flames-off-philippines-palawan-5-killed/articleshow/133979229.cms)
 - [Apple's 1st foldable phone launched: Specifications, features & price in India of iPhone Duo](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-duo-launched-specifications-features-and-price/articleshow/133980600.cms)
+- [Brazil vs India: Vinicius Jr, Raphinha set for historic Kolkata showdown](https://timesofindia.indiatimes.com/sports/football/top-stories/brazil-vs-india-vinicius-jr-raphinha-set-for-historic-kolkata-showdown/articleshow/133989241.cms)
 - [West Asia conflict likely hindrance to cementing Brics declaration](https://timesofindia.indiatimes.com/india/west-asia-conflict-likely-hindrance-to-cementing-brics-declaration/articleshow/133988816.cms)
-- ['A ball won't kill you, but bullets can': Rashid Khan on childhood in Afghanistan](https://timesofindia.indiatimes.com/sports/cricket/news/a-ball-wont-kill-you-but-bullets-can-rashid-khan-opens-up-on-his-childhood-in-war-torn-afghanistan/articleshow/133963684.cms)
-- [Creating a multi-layered security grid in Delhi, one Brics at a time](https://timesofindia.indiatimes.com/india/creating-a-multi-layered-security-grid-in-delhi-one-brics-at-a-time/articleshow/133987755.cms)
 - [Apple iPhone 18 Pro and iPhone 18 Pro Max launched: Price in India and all details](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-18-pro-and-iphone-18-pro-max-launched-at-surprise-and-shine-event-price-in-india-specifications-features-and-all-you-need-to-know/articleshow/133979340.cms)
+- [Creating a multi-layered security grid in Delhi, one Brics at a time](https://timesofindia.indiatimes.com/india/creating-a-multi-layered-security-grid-in-delhi-one-brics-at-a-time/articleshow/133987755.cms)
 - ['They're desperate to affect election': Trump declares Iran war will end after midterms](https://timesofindia.indiatimes.com/world/us/theyre-desperate-to-affect-election-trump-declares-iran-war-will-end-after-us-midterms/articleshow/133982252.cms)
 - ['Rahul mian' can't grasp Vande importance: Nitin Nabin](https://timesofindia.indiatimes.com/india/rahul-mian-cant-grasp-vande-importance-nitin-nabin/articleshow/133984692.cms)
-- [Pegula vs Navarro: The $15 billion 'battle' that dwarfed Djokovic, Federer and Nadal's wealth](https://timesofindia.indiatimes.com/sports/tennis/top-stories/a-15-billion-tennis-match-how-pegula-and-navarro-turned-a-us-open-clash-into-a-battle-of-the-billionaires-that-dwarfed-djokovic-federer-and-nadals-combined-wealth/articleshow/133974795.cms)
 - [1980s AI photo trend: 11 ChatGPT prompts to turn photos into retro Bollywood looks](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-11-chatgpt-prompts-to-turn-your-photos-into-retro-bollywood-looks/articleshow/133961562.cms)
 
 **NDTV**
@@ -49,17 +49,7 @@
 - [Piyush Goyal to meet Russian counterpart Anton Alikhanov on Thursday](https://www.hindustantimes.com/india-news/piyush-goyal-to-meet-russian-counterpart-anton-alikhanov-on-thursday-101788967149886.html)
 - [BJP asks Gujarat Congress MLA to apologise for sitting during Vande Mataram](https://www.hindustantimes.com/india-news/bjp-asks-gujarat-congress-mla-to-apologise-for-sitting-during-vande-mataram-101788967030222.html)
 
-**Vijay Karnataka**
-- [ಕೆ.ಜಿ.ರೋಡ್‌-ಪೆರ್ಡೂರು ರಸ್ತೆ ಸಂಚಾರ ಡೇಂಜರ್‌! ಅಪಘಾತಕ್ಕೆ ಕಾಯುತ್ತಿರೋ ತಿರುವು, ವಾಲಿದ ಮರದ ಸಮಸ್ಯೆ ಪರಿಹಾರಕ್ಕೆ ಸ್ಥಳೀಯರ ಆಕ್ರೋಶ](https://vijaykarnataka.com/news/udupi/perdoor-kg-road-dangerous-turns-fallen-trees-waiting-for-accidents-public-demand-to-slove-issue/articleshow/133988609.cms)
-- [ಹಬ್ಬದ ಸೀಸನ್‌ನಲ್ಲಿ ಗ್ರಾಮೀಣ ಭಾಗಕ್ಕೂ ತಟ್ಟಿದ ತರಕಾರಿ ದರ ಏರಿಕೆ ಬಿಸಿ: 1 ತಿಂಗಳಲ್ಲೇ ದುಪ್ಪಟ್ಟಾಯ್ತು ಈರುಳ್ಳಿ ಬೆಲೆ, ಯಾವ ತರಕಾರಿಗೆ ಎಷ್ಟಿದೆ ರೇಟ್?](https://vijaykarnataka.com/news/mangaluru/vegetable-price-surge-during-festive-season-in-rural-areas-onion-prices-double-in-a-month-know-the-prices-details-here/articleshow/133988127.cms)
-- [ಸಚಿವ ಸಂಪುಟ ಸಭೆ: ಕಾಲೇಜಿನಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿ ಸಂಘದ ಚುನಾವಣೆಗೆ ಸರ್ಕಾರ ಅಸ್ತು! ಅಧ್ಯಕ್ಷ ಸೇರಿ 12 ಸ್ಥಾನ; ಯಾವೆಲ್ಲಾ?](https://vijaykarnataka.com/news/karnataka/cabinet-meeting-government-greenlights-student-union-elections-in-colleges-12-posts-2-seats-reserved-for-female-students/articleshow/133975112.cms)
-- [ಮಣ್ಣಿನ ಗಣೇಶ ಮೂರ್ತಿಯೇ? POP ಮೂರ್ತಿಯೇ? ಖರೀದಿಸುವ ಮುನ್ನ ಈ ಗುರುತುಗಳನ್ನು ಪರಿಶೀಲಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/ganesh-chaturthi-2026-how-to-check-clay-or-pop-ganesha-idol/articleshow/133963722.cms)
-- [ಗಣೇಶ ಹಬ್ಬ: ಬೆಂಗಳೂರಿನಿಂದ 2 ಮಾರ್ಗದಲ್ಲಿ ವಿಶೇಷ ರೈಲು; ಬೆಳಗಾವಿ, ವಿಜಯಪುರ ಸೇರಿ 9 ಜಿಲ್ಲೆಗೆ ಅನುಕೂಲ; ವೇಳಾಪಟ್ಟಿ ಬಿಡುಗಡೆ](https://vijaykarnataka.com/news/karnataka/ganesh-festival-special-trains-from-bengaluru-via-2-routes-benefit-9-districts-including-belagavi-vijayapura-schedule-released/articleshow/133972695.cms)
-- [ಬಿಗ್‌ ಬಾಸ್‌ ಸೀಸನ್‌ 13: ಧನುಷ್‌ ಎಂದಿಗೂ ಬಿಗ್‌ ಮನೆಗೆ ಕಾಲಿಡದಂತೆ ಮಾಡಿದ ಗಗನ್‌, ರಿವೆಂಜ್‌ ತಗೊಂಡ್ರಾ ನಟ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-season-13-gagan-chinnappa-revenge-against-dhanush-manjunath/articleshow/133980505.cms)
-- [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
-- [ವಿಷ್ಣುವಿನ 6 ಮಂತ್ರಗಳು ಮತ್ತು ಅವುಗಳ ಪ್ರಯೋಜನಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/here-are-the-6-vishnu-mantras-and-its-benefits/articleshow/133971144.cms)
-- [ಮಗಳು ದುವಾ 2ನೇ ಹುಟ್ಟುಹಬ್ಬಕ್ಕೆ ದೀಪಿಕಾ ಪಡುಕೋಣೆ ವಿಶೇಷ ಮ್ಯಾಟರ್ನಿಟಿ ಫೋಟೋಶೂಟ್; ಬೇಬಿ ಬಂಪ್ ಲುಕ್‌ಗೆ ಫಿದಾ ಆದ ನೆಟ್ಟಿಗರು!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-maternity-photoshoot-baby-bump-fashion-look/articleshow/133958269.cms)
-- [ಮಿತಿಮೀರಿದ AI ದಾಸ್ಯ, ದಶಕದ ಅಂತ್ಯಕ್ಕೆ ಮಾನವಕುಲವೇ ವಿನಾಶ': ಹೊಸಚರ್ಚೆಗೆ ನಾಂದಿ ಹಾಡಿದ ಆಂಥ್ರೋಪಿಕ್ ಸಂಶೋಧಕ!](https://vijaykarnataka.com/news/world/anthropic-researcher-jacob-coxon-says-ai-could-kill-us-all-by-decade-end/articleshow/133980532.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
 - [Teaching job aspirants protest in Prayagraj seeking recruitment](https://www.thehindu.com/news/national/uttar-pradesh/teaching-job-aspirants-protests-in-prayagraj-seeking-recruitment/article71448450.ece)
@@ -74,6 +64,8 @@
 - [IIM-Kozhikode rises 15 places to 54th in FT Masters in Management rankings](https://www.thehindu.com/news/national/kerala/iim-kozhikode-rises-15-places-to-54th-in-ft-masters-in-management-rankings/article71441425.ece)
 
 **Livemint**
+- [First Turkey ‘secret’ switch, now ‘accidental’ slide deployment: What happened at Trump's Qatari Air Force One](https://www.livemint.com/news/us-news/first-turkey-secret-switch-now-accidental-emergency-slide-deployment-what-happened-trump-qatari-air-force-one-11789003027147.html)
+- [US-Iran war LIVE updates: Saudi Arabia issues emergency alert for Khamis Mushait, Abha](https://www.livemint.com/news/us-news/usiranwarliveupdateslatestnewshouthisattackonsaudihormuzoilprice-11789001382164.html)
 - [Lil Durk murder-for-hire trial goes to jury as prosecutors allege revenge, defence argues reasonable doubt](https://www.livemint.com/news/us-news/lil-durk-murder-for-hire-trial-goes-to-jury-as-prosecutors-allege-revenge-defence-argues-reasonable-doubt-11788987678717.html)
 - [Ukraine Hits Two Gas Condensate Plants in Russia’s Arctic](https://www.livemint.com/news/world/ukraine-hits-two-gas-condensate-plants-in-russia-s-arctic-11788983110178.html)
 - [Emergency slide deploys on Qatari-gifted Air Force One, briefly delaying Trump before Dallas GOP convention](https://www.livemint.com/news/us-news/emergency-slide-deploys-on-qatari-gifted-air-force-one-briefly-delaying-trump-before-dallas-gop-convention-11788981440002.html)
@@ -82,8 +74,6 @@
 - [Coal India steps up output, supplies to power plants as rains subside](https://www.livemint.com/news/coal-indias-average-daily-production-up-40-led-by-recovery-in-northern-coalfields-operations-power-generation-demand-11788966909521.html)
 - [JPSC scam:  ₹5 lakh for PT,  ₹25 lakh for final clearance, blank cheques and more — how alleged syndicate ran in Jharkhand](https://www.livemint.com/news/india/jpsc-scam-5-lakh-for-pt-25-lakh-for-final-clearance-blank-cheques-and-more-how-alleged-syndicate-ran-in-jharkhand-11788964199361.html)
 - [ChatGPT 1980s photo trend: What happens to your picture after you upload it?](https://www.livemint.com/news/trends/chatgpt-1980s-photo-trend-what-happens-to-your-picture-after-you-upload-it-11788963514823.html)
-- [Who is Noel Clarke? British actor charged with six sexual offences involving five women](https://www.livemint.com/news/world/who-is-noel-clarke-british-actor-charged-with-six-sexual-offences-involving-five-women-11788962532935.html)
-- ['Moonlighting is a crime unless you're an MP': LinkedIn post sparks debate; check social media reactions](https://www.livemint.com/news/trends/moonlighting-is-a-crime-unless-youre-an-mp-linkedin-post-sparks-debate-check-social-media-reactions-11788961047101.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,12 +90,13 @@
 - [ಹನೂರು ಶೂಟೌಟ್ ಪ್ರಕರಣ: ಮೂವರು ಅರಣ್ಯ ಸಿಬ್ಬಂದಿಗೆ ನಿರೀಕ್ಷಣಾ ಜಾಮೀನು ಮಂಜೂರು](https://www.varthabharati.in/chamarajanagar/hanuru-shootout-case-2274104)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (4.2)
+- India (5.5)
 - Phone (4.0)
 - ChatGPT (3.9)
 - Trump (3.2)
 - Apple (2.9)
 - Brics (2.6)
+- What (2.6)
 - Hubballi (2.6)
 - Pro Max (2.0)
 - Delhi (1.9)
@@ -114,21 +105,20 @@
 - Rahul (1.6)
 - Vande (1.6)
 - Russia (1.6)
-- Emergency (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [முதலமைச்சர் தனது பதிலுரையில் ரத்தீஷ் பற்றி கூறியது ஏன்? - அமைச்சர் நிர்மல்குமார் விளக்கம்](https://www.polimernews.com/politicsnews/why-did-the-chief-minister-mention-ratheesh-in-his-reply-minister-nirmal-kumar-explains-12511461)
-- [ஈரான் கச்சா எண்ணெய் கப்பல்கள் மீது அமெரிக்கா தாக்குதல்](https://www.dailythanthi.com/news/world/iran-kaccha-ennai-kappalgal-meethu-amerikkaa-thaakkuthal)
-- [तमिलनाडु में सीएम विजय की TVK गठबंधन को मिला नया नाम, 'सेक्युलर सोशल जस्टिस विक्ट्री अलायंस' पर सहमति](https://www.indiatv.in/india/politics/tamilnadu-vijay-tvk-alliance-name-secular-social-justice-victory-alliance-2026-09-09-1242260)
-- [Swine flu surges in India](https://www.gavi.org/vaccineswork/swine-flu-surges-india)
-- [CM विजय ने बनाया नया गठबंधन, कांग्रेस का ऐलान, दक्षिण की राजनीति में भूचाल?](https://www.abplive.com/news/india/tvk-alliance-named-secular-social-justice-victory-3186655)
-- [Telangana Assembly monsoon session Sept 9 highlights: House adjourned for the day; to meet on September 10](https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-live-updates-cm-revanth-reddy-brs-mlas-9-september-2026/article71445902.ece)
-- [અમદાવાદ: રિક્ષા હડતાળ વચ્ચે મેટ્રોમાં રેકોર્ડબ્રેક ધસારો, 7 સપ્ટેમ્બરે 2.24 લાખથી વધુ મુસાફરોએ કરી સવારી](https://www.gujaratsamachar.com/news/ahmedabad/metro-rail-record-passenger-ridership-over-rickshaw-strike-in-ahmedabad-10131005251)
-- [फिलीपींस के रक्षा मंत्री बातचीत के बीच में पर्चा पकड़ाए जाने को लेकर चीन पर क्यों बरसे](https://www.bbc.com/hindi/articles/c07lpjez5xmo)
-- [રાજકોટ લોધિકા સંઘમાં ભાજપના મેન્ડેટનું સૂરસૂરિયું, જયેશ રાદડિયા જૂથનો શાનદાર વિજય](https://gujarati.abplive.com/news/rajkot/rajkot-lodhika-sangh-election-result-jayesh-radadiya-group-win-news-990798)
-- [Vijay-led TVK alliance officially named 'Secular Social Justice Victory Front'](https://timesofindia.indiatimes.com/india/vijay-led-tvk-alliance-officially-named-secular-social-justice-victory/articleshow/133969619.cms)
+- [സൂര്യ- ജിത്തു മാധവൻ ചിത്രത്തിന് പേരായി; റിലീസ് നവംബറിൽ, നസ്ലിൻ വില്ലനോ ?](https://www.asianetnews.com/entertainment-news/suriya-47-title-called-scene-first-glimpse-teaser-articleshow-1kny7nz)
+- [आठव्या वेतन आयोगात 40 वर्षे जुना नियम बदलणार! केंद्रीय कर्मचाऱ्यांना नेमका काय फायदा होणार?](https://www.tv9marathi.com/business/why-employee-and-pensioner-bodies-want-faster-restoration-of-commuted-pension-on-8th-pay-commission-know-1752815.html)
+- [हेमा मालिनी: 'हनुमान अंश' हनुमान जी का आशीर्वाद, जिस लड़की ने बनाई उसे फिल्मी दुनिया की ज्यादा जानकारी भी नहीं](https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/hema-malini-called-hanuman-ansh-a-blessing-from-lord-hanuman-said-the-girl-who-made-does-not-know-much-about-the-industry/articleshow/133970378.cms)
+- [Hema Malini praises 'Hanuman Ansh', says it's a superhit due to Hanuman ji's grace: 'The girl who produced the film doesn't even know filmmaking'](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hema-malini-praises-hanuman-ansh-says-its-a-superhit-due-to-hanuman-jis-grace-the-girl-who-produced-the-film-doesnt-even-know-filmmaking/articleshow/133970703.cms)
+- [Black SUV caught on CCTV in focus as police probe possible trafficking of orangutans in Odisha's Balasore](https://www.hindustantimes.com/india-news/black-suv-caught-on-cctv-in-focus-as-police-probe-possible-trafficking-of-orangutans-in-odisha-balasore-101788954011477.html)
+- [Quote of the day by Isaac Newton: “Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things"](https://timesofindia.indiatimes.com/science/space/quote-of-the-day-by-isaac-newton-truth-is-ever-to-be-found-in-simplicity-and-not-in-the-multiplicity-and-confusion-of-things/articleshow/133970555.cms)
+- [आत्मघाती हमला था लाल किला ब्लास्ट; डॉ. उमर ने खुद को कैसे उड़ाया? NIA के बड़े खुलासे](https://www.livehindustan.com/ncr/lal-qila-blast-was-suicide-bombing-attack-by-umar-un-nabi-nia-said-in-its-chargesheet-201788959203355.html)
+- [Video: बांग्लादेश को भारी पड़ा चीन के घटिया टैंकों का इस्तेमाल, गोला फटने से दो सैनिकों की मौत](https://navbharattimes.indiatimes.com/world/bangladesh/watch-video-bangladesh-army-tank-shell-explosion-kills-two-soldiers-injures-captain/articleshow/133970117.cms)
+- [‘अभ्यासात कमी पडत नाही, तरी अपयश का?’; पेपरफुटीविरोधात नाशिकमध्ये एमपीएससी विद्यार्थ्यांचे आंदोलन](https://www.loksatta.com/nashik/mpsc-paper-leak-protest-nashik-students-demands-investigation-css-98-6127831/)
+- [बांग्लादेश में चल रहा था सैन्य अभ्यास, अचानक फट गया चीनी टैंक; 2 की मौत](https://www.jagran.com/world/other-chinese-tank-explodes-during-military-exercise-in-bangladesh-two-killed-40367772.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
