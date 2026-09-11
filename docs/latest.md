@@ -1,12 +1,12 @@
-# India Trending Report — 2026-09-11 21:01:58
+# India Trending Report — 2026-09-11 21:32:01
 
 ## Google Trends (India) — top trending searches
-1. [dow jones moneycontrol](https://trends.google.com/trending/rss?geo=IN)
-2. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
+1. [franco mastantuono](https://trends.google.com/trending/rss?geo=IN)
+2. [dow jones moneycontrol](https://trends.google.com/trending/rss?geo=IN)
 3. [dow jone index](https://trends.google.com/trending/rss?geo=IN)
-4. [bhojpuri](https://trends.google.com/trending/rss?geo=IN)
-5. [2](https://trends.google.com/trending/rss?geo=IN)
-6. [championship](https://trends.google.com/trending/rss?geo=IN)
+4. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
+5. [bhojpuri](https://trends.google.com/trending/rss?geo=IN)
+6. [2](https://trends.google.com/trending/rss?geo=IN)
 7. [stock split](https://trends.google.com/trending/rss?geo=IN)
 8. [sam altman](https://trends.google.com/trending/rss?geo=IN)
 9. [indian women cricket team](https://trends.google.com/trending/rss?geo=IN)
@@ -14,15 +14,15 @@
 
 ## Latest headlines by outlet
 **Times of India**
-- ['Will work with India, be friends': China ahead of PM Modi-Xi meeting in Delhi](https://timesofindia.indiatimes.com/india/will-work-with-india-be-friends-china-ahead-of-pm-modi-xi-meeting-in-delhi/articleshow/134083755.cms)
+- [India hopes Iran and UAE will show flexibility, allow Brics declaration](https://timesofindia.indiatimes.com/india/pm-doubles-down-on-friendship-with-iran-seeks-win-win-strategy-hope-mounts-for-brics-declaration/articleshow/134086783.cms)
 - [‘Did anyone go to jail in Kerala?’ Cong hits back at Omar amid Vande Mataram row](https://timesofindia.indiatimes.com/india/did-anyone-go-to-jail-in-kerala-cong-hits-back-at-omar-amid-vande-mataram-row/articleshow/134087507.cms)
+- ['Will work with India, be friends': China ahead of PM Modi-Xi meeting in Delhi](https://timesofindia.indiatimes.com/india/will-work-with-india-be-friends-china-ahead-of-pm-modi-xi-meeting-in-delhi/articleshow/134083755.cms)
 - [NMC adds over 13,000 MBBS seats, total intake tops 1.4 lakh](https://timesofindia.indiatimes.com/india/nmc-adds-over-13000-mbbs-seats-total-intake-tops-1-4-lakh/articleshow/134089956.cms)
-- [Russia unveils new S-71K stealth missile for Su-57E amid potential sale to India](https://timesofindia.indiatimes.com/defence/news/russia-unveils-new-s-71k-stealth-missile-for-su-57e-amid-potential-sale-to-india/articleshow/134073329.cms)
 - [Aadhaar Card global push: UIDAI working on access for NRIs and OCIs](https://timesofindia.indiatimes.com/business/india-business/in-2010-india-launched-aadhaar-card-16-years-later-uidai-says-work-underway-to-take-aadhaar-global-to-benefit-nris-and-ocis/articleshow/134061418.cms)
 - [Elon Musk's Cybercab rollout puts US safety rules to test as NHTSA audits 1,000 cars](https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-cybercab-has-no-steering-wheel-pedals-or-mirrors-us-safety-regulators-open-audit-of-about-1000-cars-over-teslas-self-certification/articleshow/134066366.cms)
+- [Russia unveils new S-71K stealth missile for Su-57E amid potential sale to India](https://timesofindia.indiatimes.com/defence/news/russia-unveils-new-s-71k-stealth-missile-for-su-57e-amid-potential-sale-to-india/articleshow/134073329.cms)
 - [PM Modi, Putin, Pezeshkian in single frame: Why this Brics photo may unsettle Trump](https://timesofindia.indiatimes.com/india/trumps-deepest-darkest-china-gets-a-brics-sequel-with-irans-cameo-as-india-walks-tightrope/articleshow/134074377.cms)
-- [Women's Asia Cup: Sri Lanka fight back from 33/4 to beat Pakistan, set up India final](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/womens-asia-cup-sri-lanka-fight-back-from-33/4-to-beat-pakistan-by-4-wickets-set-up-india-final/articleshow/134087591.cms)
-- [Tharoor answers Chidambaram’s questions on Brics benefits for India; BJP takes digs](https://timesofindia.indiatimes.com/india/shashi-tharoor-answers-chidambarams-questions-on-brics-benefits-for-india-bjp-takes-digs/articleshow/134076761.cms)
+- [80 lakh HPV vaccine doses given since February launch](https://timesofindia.indiatimes.com/india/80-lakh-hpv-vaccine-doses-given-since-feb-launch/articleshow/134090683.cms)
 - [Countries where you can buy iPhone 18 Pro and iPhone 18 Pro Max cheaper than India](https://timesofindia.indiatimes.com/technology/tech-news/countries-where-you-can-buy-iphone-18-pro-and-iphone-18-pro-max-cheaper-than-india/articleshow/134056504.cms)
 
 **NDTV**
@@ -49,20 +49,11 @@
 - [Amid the 1980s nostalgia trend, here are 10 ChatGPT photo tricks you didn’t know](https://www.hindustantimes.com/india-news/amid-the-1980s-nostalgia-trend-here-are-10-chatgpt-photo-tricks-you-didn-t-know-101789137175948.html)
 - [Modi urges Iran’s Pezeshkian to resolve West Asia conflict through dialogue](https://www.hindustantimes.com/india-news/modi-urges-iran-s-pezeshkian-to-resolve-west-asia-conflict-through-dialogue-101789142537497.html)
 
-**Vijay Karnataka**
-- [ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಮುಚ್ಚಿದೆ ಬ್ರಿಕ್ಸ್‌ ಬಾಗಿಲು: ಭಾರತದ ವೀಟೋ ಅಧಿಕಾರದಿಂದ ನೆರೆ ರಾಷ್ಟ್ರಕ್ಕೆ ದಿಗಿಲು! ಇಳಿಯುತ್ತಿದೆ ಸೊಕ್ಕಿನ ಅಮಲು](https://vijaykarnataka.com/news/world/indias-veto-power-succeeded-in-keeping-pakistan-out-of-brics-membership-islamabad-waiting/articleshow/134081269.cms)
-- [ಜಿ-7 ಗುಂಪಿನ ಕಾಲೆಳೆದ ವ್ಲಾಡಿಮಿರ್‌ ಪುಟಿನ್: ಭಾರತದ ನೆಲದಲ್ಲಿ ಬ್ರಿಕ್ಸ್‌ ಆರ್ಥಿಕ ಬಲ ಅನಾವರಣಗೊಳಿಸಿದ ರಷ್ಯಾ ಅಧ್ಯಕ್ಷ!](https://vijaykarnataka.com/news/india/russia-president-vladimir-putin-slams-g7-group-says-brics-contributes-more-to-global-economy/articleshow/134077384.cms)
-- [80s AI Photo Trend-ಸೋಶಿಯಲ್‌ ಮೀಡಿಯಾದಲ್ಲಿ ರೆಟ್ರೋ ಲುಕ್‌ ಕ್ರೇಜ್‌! ನಿಮ್ಮ ಫೋಟೋಗೂ ವಿಂಟೇಜ್‌ ‌ಟಚ್ ನೀಡೋದು ಹೇಗೆ?](https://vijaykarnataka.com/news/india/explainer-what-is-viral-chatgpt-80s-photo-trend-heres-how-you-can-add-vintage-touch-to-your-photos-with-ai-prompts/articleshow/134044231.cms)
-- [ಚಪಾತಿ ಹಿಟ್ಟು ಕೈಗೆ ಅಂಟಿಕೊಂಡಿದೆಯೇ? ಸುಲಭವಾಗಿ ತೆಗೆಯಲು ಈ ಕಿಚನ್ ಟಿಪ್ಸ್‌ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/how-to-remove-sticky-dough-from-your-hands-easily-simple-kitchen-tips/articleshow/134058299.cms)
-- [ನರೇಂದ್ರ ಮೋದಿ-ಮಸೂದ್‌ ಪೆಜೆಶ್ಕಿಯಾನ್‌ ಮಾತುಕತೆ: ಜಲ ಸಂಚಾರ ಸುರಕ್ಷತೆಯ ಖಾತರಿ ಕೇಳಿದ ಭಾರತ! ಇರಾನ್‌ ಪ್ರತಿಕ್ರಿಯೆ ಏನು?](https://vijaykarnataka.com/news/india/pm-modi-and-masoud-pezeshkian-bilateral-talks-india-asks-iran-to-reopen-strait-of-hormuz/articleshow/134075417.cms)
-- [BBK 13: ಕಿರಣ್‌ ರಾಜ್‌, ಸಂಗೀತಾ ಭಟ್‌ ಸೀರಿಯಲ್‌ಗೆ ಜೋಡಿಯಾಗಿದ್ರು, ರಿಯಾಲಿಟಿ ಶೋನಲ್ಲಿಯೂ ಕಾಣಿಸಿಕೊಂಡಿದ್ರು!](https://vijaykarnataka.com/tv/bigg-boss-kannada/kiran-raj-and-bbk-13-fame-sangeetha-bhat-had-starred-as-a-couple-in-a-serial-and-also-appeared-together-in-a-reality-show/articleshow/134086510.cms)
-- [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
-- [2026 ಗಣೇಶ ಚತುರ್ಥಿ: 5 ಗಣಪತಿ ಮಂತ್ರಗಳು, ಪಠಿಸುವ ವಿಧಾನ ಮತ್ತು ಮಹತ್ವ.!](https://vijaykarnataka.com/religion/pooja-vidhana/ganesh-chaturthi-2026-chant-these-are-the-5-ganesha-mantras-to-remove-obstacles-from-your-life/articleshow/134070048.cms)
-- [ರಾಖಿ ಸಾವಂತ್‍ನಿಂದ ಶ್ರೀಲೀಲಾ ತಮನ್ನಾ ಭಾಟಿಯಾ ತನಕ; 80s ರೆಟ್ರೋ ಲುಕ್‌ಗೆ ಮಾರುಹೋದ ಸೆಲೆಬ್ರಿಟಿಗಳು!!](https://vijaykarnataka.com/lifestyle/fashion/rakhi-sawant-tamannaah-bhatia-1980s-ai-photo-fashion-trend/articleshow/134053857.cms)
-- [ದಾವಣಗೆರೆಯಲ್ಲಿ ತಲೆಎತ್ತಲಿದೆ 200 ಎಕರೆಯಲ್ಲಿ ದೂಡಾ ಹೊಸ ಲೇಔಟ್‌! ರೈತರಿಗೆ 60:40 ಮಾದರಿ ಪರಿಹಾರಕ್ಕೆ ನಿರ್ಧಾರ](https://vijaykarnataka.com/news/davanagere/new-200-acre-layout-in-davanagere-decision-duda-made-to-offer-6040-model-compensation-to-farmers/articleshow/134077028.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
-- [Kolkata’s Law College Vice Principal resigns after 23-hour student protest over attendance](https://www.thehindu.com/news/cities/kolkata/kolkataslaw-college-vice-principal-resigns-after-23-hour-studentprotest-over-attendance/article71456472.ece)
+- [With eye on poll, BJP to begin ‘drug-free Punjab’ drive amid row over Dalit villager’s death](https://www.thehindu.com/news/national/punjab/with-eye-on-poll-bjp-to-begin-drug-free-punjab-drive-amid-row-over-dalit-villagers-death/article71456181.ece)
+- [Vice-principal of Kolkata college ‘forced’ to resign; ABVP ‘purifies’ her office](https://www.thehindu.com/news/cities/kolkata/kolkataslaw-college-vice-principal-resigns-after-23-hour-studentprotest-over-attendance/article71456472.ece)
 - [‘Reading kept me going’: Noida stir accused who cracked NET](https://www.thehindu.com/news/cities/Delhi/reading-kept-me-going-noida-stir-accused-who-cracked-net/article71457844.ece)
 - [SHRC orders NHAI to ready underpass near Edappally in two months](https://www.thehindu.com/news/national/kerala/shrc-orders-nhai-to-ready-underpass-near-edappally-in-two-months/article71457424.ece)
 - [Chander Kunj Army Towers: apartment owners call for appointment of project officer amid demolition delays](https://www.thehindu.com/news/national/kerala/chander-kunj-army-towers-apartment-owners-call-for-appointment-of-project-officer-amid-demolition-delays/article71455941.ece)
@@ -71,7 +62,6 @@
 - [Three Kashmir religious leaders, including Mirwaiz, attend Iran embassy exhibition in Delhi](https://www.thehindu.com/news/national/jammu-and-kashmir/three-kashmir-religious-leaders-including-mirwaiz-attend-iran-embassy-exhibition-in-delhi/article71457506.ece)
 - [India and Canada are well beyond reset now, says Canadian High Commissioner to India](https://www.thehindu.com/news/national/india-and-canada-are-well-beyond-reset-now-says-canadian-high-commissioner-to-india/article71456180.ece)
 - [End Ukraine war, says Modi as he meets Putin during bilateral ahead of BRICS summit](https://www.thehindu.com/news/national/pm-modi-russia-putin-hold-high-stakes-talks-ahead-of-brics-summit/article71456100.ece)
-- [Climate change has become an economic risk: KSPCB chairman](https://www.thehindu.com/news/national/karnataka/climate-change-has-become-an-economic-risk-kspcb-chairman/article71457457.ece)
 
 **Livemint**
 - [Maria Bartiromo Fox News departure: Former anchor speaks out for first time after exit, hints at what lies ahead](https://www.livemint.com/news/us-news/maria-bartiromo-fox-news-departure-former-anchor-speaks-out-for-first-time-after-exit-hints-at-what-lies-ahead-11789148943476.html)
@@ -100,10 +90,10 @@
 - [ಸ್ವಯಂ-ಗಡಿಪಾರು ಜಾಹೀರಾತನ್ನು ತೆಗೆದುಹಾಕಿದ ಟ್ರಂಪ್ ಆಡಳಿತ](https://www.varthabharati.in/international/us-removes-advertisement-asking-mr-singh-to-self-deport-after-backlash-2274607)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (9.1)
+- India (7.8)
 - Delhi (5.8)
+- Iran (5.5)
 - Modi (4.8)
-- Iran (4.2)
 - Putin (4.2)
 - BRICS (4.1)
 - Brics (3.9)
@@ -119,16 +109,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- ['पाकिस्तान में है क्या गुजरात?', 72वें नेशनल फिल्म अवॉर्ड्स विवाद पर भड़के परेश रावल](https://www.aajtak.in/entertainment/bollywood-news/story/paresh-rawal-gujrat-pakistan-bangladesh-react-on-supports-gujarat-hosting-72nd-national-film-awards-tmovg-dskc-2640824-2026-09-11)
+- [மண்டாடி பட விமர்சனம்: நடிகர் சூரிக்கு 4](https://www.bbc.com/tamil/articles/cx2z51nw2x1o)
+- [વિનેશ ફોગાટને દિલ્હી હાઈકોર્ટનો ઝટકો, વર્લ્ડ ચેમ્પિયનશિપની ટ્રાયલમાં ભાગ નહીં લઈ શકે](https://www.gujaratsamachar.com/news/sports/vinesh-phogat-gets-a-setback-from-delhi-high-court-cannot-participate-in-world-championship-trial-20963186716)
+- [കുടുംബവഴക്ക്; യുവാവ് ഭാര്യയേയും 3 മക്കളേയും ഇഷ്ടിക കൊണ്ട് തലയ്ക്കടിച്ച് കൊലപ്പെടുത്തി](https://www.manoramaonline.com/news/latest-news/2026/09/11/man-kills-wife-three-children-in-jaipur-domestic-dispute-suspected.html)
+- [कल का मौसम 12 सितंबर: 9 घंटे के भीतर 24 राज्यों में मूसलाधार बारिश का अलर्ट, 85 की स्पीड से हवा; IMD का अपडेट](https://navbharattimes.indiatimes.com/india/tomorrow-weather-12-september-2026-thunderstorm-and-heavy-rain-alert-in-24-states-within-9-hours-wind-speed-up-to-85-kmph-delhi-up-bihar-temperature/articleshow/134056397.cms)
+- [भारत क्या चीन के मामले में अमेरिका के लिए अब उपयोगी देश नहीं रहा?](https://www.bbc.com/hindi/articles/clye17pzvlqo)
+- [Red alert in Delhi after heavy rain lashes parts of city](https://timesofindia.indiatimes.com/city/delhi/red-alert-in-delhi-after-heavy-rain-lashes-parts-of-city/articleshow/134056494.cms)
 - [പ്രകടന മികവിൽ ‍ഞെട്ടിച്ച് ഉർവശി, ഒപ്പം കൂടി ജോജു ജോർജും; 'ആശ' റിവ്യു](https://www.asianetnews.com/entertainment-news/joju-george-and-urvashi-movie-aasha-malayalam-review-articleshow-voetd6r)
 - [Pune Traffic Update: पुण्यात वाहतुकीत मोठे बदल; गणेशोत्सवात प्रमुख मार्गांवर अवजड वाहनांना No Entry, कसे आहे नियोजन?](https://maharashtratimes.com/maharashtra/pune-news/central-pune-major-roads-24-hrs-ban-for-heavy-vehicles-entry-from-12-to-26-sept-2026/articleshow/134053376.cms)
 - [Sensex ends 600 pts higher from day's low, Nifty closes near 23,400: Key reasons behind sharp market recovery](https://www.moneycontrol.com/news/business/markets/sensex-rises-200-pts-from-day-s-low-nifty-near-23-300-key-reasons-behind-markets-paring-losses-14027727.html)
-- [Video: Nagpur man throws chilli powder during bank robbery, then this happens](https://www.indiatoday.in/cities/other-cities/story/nagpur-bank-robbery-man-throws-chilli-powder-on-sbi-branch-staff-in-maharashtra-video-2992282-2026-09-11)
-- [અમદાવાદ: ESIC હોસ્પિટલમાં નોકરી અપાવવાના બહાને લાંચનું કૌભાંડ, ACBએ 4ને દબોચ્યા, મુખ્ય સૂત્રધાર ક્લાર્ક ફરાર!](https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-bribe-scam-on-the-pretext-of-getting-a-job-in-esic-hospital-acb-arrests-4-main-mastermind-clerk-absconding-92449142750)
-- [पॉलीथिन में भरा मिर्च पाउडर और बैंक लूटने पहुंच गया... 4 लाख कैश लेकर भागा... नागपुर के BSc पास युवक की कहानी](https://www.aajtak.in/india/maharashtra/story/nagpur-bsc-graduate-sbi-bank-loot-4-lakh-cash-chili-powder-eyes-cctv-lcla-strc-2640761-2026-09-11)
-- [ബെത്‌ലഹേമിലും എ.ഐ; ജസ്റ്റിനായി ലാലേട്ടന്‍ ആഷ്‌ലിയായി ആനി, കൂടെ ദിലീപും ശ്രീനിവാസനും അശോകനും](https://www.doolnews.com/ai-cast-of-bethlehem-kudumba-unit-movie-in-malayalam-cinema-90-s-64-159.html)
-- [Aaditya Thackeray : MPSC च्या अध्यक्षांनी राजीनामा दिला नाही तर आम्हाला तो घ्यावा लागेल, आदित्य ठाकरेंचा तीव्र आंदोलनाचा इशारा](https://marathi.abplive.com/news/politics/aaditya-thackeray-demands-resignation-of-mpsc-president-vivek-bhimnawar-for-lapses-in-exams-1438766)
-- [சாலமன் பாப்பையா காலமானார்](https://www.tamilmurasu.com.sg/tamilnadu/solomon-pappaiah-passed-away)
-- [Oil at $100 could force RBI into a hard call on rupee](https://www.moneycontrol.com/news/business/markets/neelkanth-mishra-oil-at-100-could-force-rbi-into-a-hard-call-on-rupee-14027907.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
