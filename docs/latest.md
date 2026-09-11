@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-11 22:33:38
+# India Trending Report — 2026-09-11 23:01:45
 
 ## Google Trends (India) — top trending searches
-1. [stake](https://trends.google.com/trending/rss?geo=IN)
-2. [बारिश मौसम](https://trends.google.com/trending/rss?geo=IN)
-3. [siddharth shukla](https://trends.google.com/trending/rss?geo=IN)
-4. [pakistan england live cricket match](https://trends.google.com/trending/rss?geo=IN)
-5. [cookies](https://trends.google.com/trending/rss?geo=IN)
-6. [franco mastantuono](https://trends.google.com/trending/rss?geo=IN)
-7. [dow jones moneycontrol](https://trends.google.com/trending/rss?geo=IN)
-8. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
-9. [dow jone index](https://trends.google.com/trending/rss?geo=IN)
-10. [bhojpuri](https://trends.google.com/trending/rss?geo=IN)
+1. [ig](https://trends.google.com/trending/rss?geo=IN)
+2. [car dekho](https://trends.google.com/trending/rss?geo=IN)
+3. [stake](https://trends.google.com/trending/rss?geo=IN)
+4. [बारिश मौसम](https://trends.google.com/trending/rss?geo=IN)
+5. [siddharth shukla](https://trends.google.com/trending/rss?geo=IN)
+6. [cookies](https://trends.google.com/trending/rss?geo=IN)
+7. [al-ahli saudi fc vs al-hazem f.c. standings](https://trends.google.com/trending/rss?geo=IN)
+8. [obsession](https://trends.google.com/trending/rss?geo=IN)
+9. [franco mastantuono](https://trends.google.com/trending/rss?geo=IN)
+10. [dow jones moneycontrol](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [India hopes Iran and UAE will show flexibility, allow Brics declaration](https://timesofindia.indiatimes.com/india/pm-doubles-down-on-friendship-with-iran-seeks-win-win-strategy-hope-mounts-for-brics-declaration/articleshow/134086783.cms)
 - [‘Did anyone go to jail in Kerala?’ Cong hits back at Omar amid Vande Mataram row](https://timesofindia.indiatimes.com/india/did-anyone-go-to-jail-in-kerala-cong-hits-back-at-omar-amid-vande-mataram-row/articleshow/134087507.cms)
 - ['Will work with India, be friends': China ahead of PM Modi-Xi meeting in Delhi](https://timesofindia.indiatimes.com/india/will-work-with-india-be-friends-china-ahead-of-pm-modi-xi-meeting-in-delhi/articleshow/134083755.cms)
-- [Busy week for primary market as nine IPOs attract bids worth Rs 1.4 lakh crore](https://timesofindia.indiatimes.com/business/india-business/nine-ipos-attract-bids-worth-1-4-lakh-crore/articleshow/134094680.cms)
-- [Aadhaar Card global push: UIDAI working on access for NRIs and OCIs](https://timesofindia.indiatimes.com/business/india-business/in-2010-india-launched-aadhaar-card-16-years-later-uidai-says-work-underway-to-take-aadhaar-global-to-benefit-nris-and-ocis/articleshow/134061418.cms)
+- [Indian in Kuwait sent Rs 1.09 crore, no ITR; ITAT deletes Rs 5.52 lakh, checks Rs 2.5 crore](https://timesofindia.indiatimes.com/business/india-business/indian-working-in-kuwait-sent-home-over-a-crore-in-remittances-but-filed-no-itr-taxman-treated-rs-3-63-crore-as-unexplained-itat-deletes-rs-5-52-lakh-and-orders-fresh-check-of-rs-2-50-crore/articleshow/134050663.cms)
 - [Elon Musk's Cybercab rollout puts US safety rules to test as NHTSA audits 1,000 cars](https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-cybercab-has-no-steering-wheel-pedals-or-mirrors-us-safety-regulators-open-audit-of-about-1000-cars-over-teslas-self-certification/articleshow/134066366.cms)
+- [Busy week for primary market as nine IPOs attract bids worth Rs 1.4 lakh crore](https://timesofindia.indiatimes.com/business/india-business/nine-ipos-attract-bids-worth-1-4-lakh-crore/articleshow/134094680.cms)
 - [NMC adds over 13,000 MBBS seats, total intake tops 1.4 lakh](https://timesofindia.indiatimes.com/india/nmc-adds-over-13000-mbbs-seats-total-intake-tops-1-4-lakh/articleshow/134089956.cms)
 - [Russia unveils new S-71K stealth missile for Su-57E amid potential sale to India](https://timesofindia.indiatimes.com/defence/news/russia-unveils-new-s-71k-stealth-missile-for-su-57e-amid-potential-sale-to-india/articleshow/134073329.cms)
-- [PM Modi, Putin, Pezeshkian in single frame: Why this Brics photo may unsettle Trump](https://timesofindia.indiatimes.com/india/trumps-deepest-darkest-china-gets-a-brics-sequel-with-irans-cameo-as-india-walks-tightrope/articleshow/134074377.cms)
 - [Countries where you can buy iPhone 18 Pro and iPhone 18 Pro Max cheaper than India](https://timesofindia.indiatimes.com/technology/tech-news/countries-where-you-can-buy-iphone-18-pro-and-iphone-18-pro-max-cheaper-than-india/articleshow/134056504.cms)
+- [PM Modi, Putin, Pezeshkian in single frame: Why this Brics photo may unsettle Trump](https://timesofindia.indiatimes.com/india/trumps-deepest-darkest-china-gets-a-brics-sequel-with-irans-cameo-as-india-walks-tightrope/articleshow/134074377.cms)
 
 **NDTV**
 - [North Korea Fires Unidentified Projectile Toward Sea Of Japan](https://www.ndtv.com/world-news/north-korea-fires-unidentified-projectile-toward-sea-of-japan-report-12035515#publisher=newsstand)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ഇന്ത്യ-അഫ്ഗാനിസ്ഥാൻ ഒന്നാം ടി20, അഭിഷേകിനൊപ്പം ഓപ്പണറായി സഞ്ജു, ഇഷാനും പ്ലേയിങ് ഇലവനിൽ; ദുബെ പുറത്താകും](https://www.asianetnews.com/gallery/cricket-sports/indias-predicted-xi-vs-afg-sanju-samson-and-ishan-kishan-set-to-play-shivam-dube-dropped-hxmks0w)
-- [Kone Dekha Alo: ‘সবকিছুরই একটা শেষ থাকে', কনে দেখা আলোর শেষদিনের শ্য়ুটিং করলেন মৈনাক!](https://www.hindustantimes.com/bangla/entertainment/everything-has-an-end-goodbye-sudev-actor-mainak-dhol-writes-emotional-note-as-kone-dekha-alo-ends-271789120522908.html)
-- [#BREAKING UPI-க்கு 0.4% கட்டணம்? யாருக்கு?](https://www.toptamilnews.com/india/niti-aayog-backs-upi-charges-for-businesses-ending-zero-mdr/cid19238652.htm)
-- [ગીરમાં સિંહોના મોતનો આંકડો આવ્યો સામે , એક વર્ષમાં 62 સિંહનાં આ રોગના કારણે મોત](https://gujarati.abplive.com/news/gujarat/62-lions-died-in-a-year-various-serious-illnesses-were-the-cause-of-death-990930)
-- [Stock Market Close: Sensex recovers 622 pts from day's low but ends in red; Nifty at 23,398](https://www.business-standard.com/markets/news/stock-market-live-september-11-nse-bse-sensex-today-nifty-gift-nifty-crude-oil-price-today-126091100093_1.html)
-- [சர்தார் 2, மண்டாடி படங்களின் முதல் நாள் வசூல் எவ்வளவு?](https://cinema.dinamalar.com/news/kollywood/what-is-the-first-day-collection-of-sardaar-2-and-mandadi/140823)
-- [इजरायल ने रेगिस्‍तान में छोड़े 11 शाही ईरानी गधे, 44 साल बाद बना द‍िया नखल‍िस्‍तान, दुनिया हैरान](https://navbharattimes.indiatimes.com/world/middle-east/israel-in-1982-released-iran-wild-donkeys-to-negev-desert-44-years-later-they-created-oasis-in-earth/articleshow/134058305.cms)
-- [सऊदी अरब पर हूती हमलों के बीच पाकिस्तानी मीडिया ने मक्का समझौते पर उठाए सवाल](https://www.bbc.com/hindi/articles/cx2zp3e70y0o)
-- [Solomon Pappaiah, veteran Tamil scholar and orator, passes away](https://www.thehindu.com/news/national/tamil-nadu/solomon-pappaiah-veteran-tamil-scholar-and-orator-passes-away-at-90-in-madurai/article71455573.ece)
-- [फोनवरील संभाषणाने उघड केली चूक; माहिती अधिकारातील अहवालामुळे एमपीएससी वर्तुळात खळबळ](https://maharashtratimes.com/career/career-news/nagpur-police-inspector-rahul-shire-departmental-inquiry-mpsc-report-error-paper-leak/articleshow/134059377.cms)
+- [PM મોદી-પુતિન વચ્ચે દ્વિપક્ષીય બેઠક, પ્રધાનમંત્રીએ રશિયાના રાષ્ટ્રપતિને ભેટમાં આપ્યું પુસ્તક](https://gujarati.abplive.com/news/india/pm-modi-meets-vladimir-putin-in-brics-summit-2026-discuss-on-su-57-oil-purchases-990935)
+- [బెంగాలీ సెంటిమెంట్ కు దిగొచ్చిన సీఎం..! ఆలయంలో చేపతో భోజనం..!](https://telugu.oneindia.com/news/india/suvendu-adhikari-eats-fish-at-temple-bjp-seeks-end-to-non-veg-food-controversy-505773.html)
+- [गणेशोत्सवात दारू विक्रीवर बंदी… कोर्ट संतापले; न्यायाधीश म्हणाले, अशाने तर 10 दिवस…](https://www.tv9marathi.com/maharashtra/mumbai/pune-ganesh-utsav-liquor-ban-high-court-slams-10-day-prohibition-order-1754238.html)
+- [కేపీహెచ్‌బీ రోడ్లపై అర్ధరాత్రి 'లేడీ సింగం'.. అసాంఘిక కార్యకలాపాలపై లాఠీ ఝళిపించిన ఎస్సై మౌనిక](https://telugu.samayam.com/telangana/hyderabad/kphb-si-mounika-night-activity-crackdown-chases-away-men-women-transgender-groups/articleshow/134061607.cms)
+- [How Neem Karoli Baba became a hit among Hippies and tech titans](https://www.indiatoday.in/india/story/hanuman-ansh-movie-neem-karoli-baba-kainchi-dham-uttarakhand-us-hippie-movement-steve-jobs-2992377-2026-09-11)
+- [मार्केट खोलें, लोकल करेंसी में... BRICS देशों से पीयूष गोयल की बड़ी अपील](https://www.aajtak.in/business/news/story/brics-nations-must-open-markets-for-each-other-and-trade-in-local-currency-tutd-dskc-2640918-2026-09-11)
+- [BRICS Summit 2026 LIVE: 'दुनिया जटिल दौर से गुजर रही, ब्रिक्स की भूमिका अहम', बिजनेस फोरम में बोले पेजेश्कियान](https://www.abplive.com/news/india/brics-summit-2026-live-updates-pm-modi-vladimir-putin-xi-jinping-china-russia-uae-trade-delhi-bharat-mandapam-3187255)
+- [రెజిమెంట్‌లో ఆయుధాలు చోరీ చేసింది వీరే.. కీలక వివరాలు వెల్లడించిన డీజీపీ](https://www.andhrajyothy.com/2026/telangana/hyderabad/telangana-dgp-cv-anand-reveals-key-details-of-investigation-at-hyderabad-army-headquarters-arms-theft-vk-1557264.html)
+- [Namitha : మహిళలే తాళి ఎందుకు ధరించాలి? - టాలీవుడ్ హీరోయిన్ నమిత కామెంట్స్](https://telugu.abplive.com/entertainment/cinema/actress-namitha-questions-over-one-sided-marriage-rules-why-men-face-no-any-restrictions-258685)
+- [‘AI a double-edged sword’: FM Sitharaman flags innovation risks, urges efficiency without fragility](https://timesofindia.indiatimes.com/business/india-business/ai-a-double-edged-sword-fm-sitharaman-flags-innovation-risks-urges-efficiency-without-fragility/articleshow/134061412.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
