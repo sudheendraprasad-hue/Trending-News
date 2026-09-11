@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-11 20:34:48
+# India Trending Report — 2026-09-11 21:01:58
 
 ## Google Trends (India) — top trending searches
-1. [bhojpuri](https://trends.google.com/trending/rss?geo=IN)
-2. [stock split](https://trends.google.com/trending/rss?geo=IN)
-3. [championship](https://trends.google.com/trending/rss?geo=IN)
-4. [sam altman](https://trends.google.com/trending/rss?geo=IN)
-5. [indian women cricket team](https://trends.google.com/trending/rss?geo=IN)
-6. [parent](https://trends.google.com/trending/rss?geo=IN)
-7. [alexander zverev](https://trends.google.com/trending/rss?geo=IN)
-8. [kareena kapoor](https://trends.google.com/trending/rss?geo=IN)
-9. [fauda](https://trends.google.com/trending/rss?geo=IN)
-10. [suriya](https://trends.google.com/trending/rss?geo=IN)
+1. [dow jones moneycontrol](https://trends.google.com/trending/rss?geo=IN)
+2. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
+3. [dow jone index](https://trends.google.com/trending/rss?geo=IN)
+4. [bhojpuri](https://trends.google.com/trending/rss?geo=IN)
+5. [2](https://trends.google.com/trending/rss?geo=IN)
+6. [championship](https://trends.google.com/trending/rss?geo=IN)
+7. [stock split](https://trends.google.com/trending/rss?geo=IN)
+8. [sam altman](https://trends.google.com/trending/rss?geo=IN)
+9. [indian women cricket team](https://trends.google.com/trending/rss?geo=IN)
+10. [parent](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - ['Will work with India, be friends': China ahead of PM Modi-Xi meeting in Delhi](https://timesofindia.indiatimes.com/india/will-work-with-india-be-friends-china-ahead-of-pm-modi-xi-meeting-in-delhi/articleshow/134083755.cms)
 - [‘Did anyone go to jail in Kerala?’ Cong hits back at Omar amid Vande Mataram row](https://timesofindia.indiatimes.com/india/did-anyone-go-to-jail-in-kerala-cong-hits-back-at-omar-amid-vande-mataram-row/articleshow/134087507.cms)
+- [NMC adds over 13,000 MBBS seats, total intake tops 1.4 lakh](https://timesofindia.indiatimes.com/india/nmc-adds-over-13000-mbbs-seats-total-intake-tops-1-4-lakh/articleshow/134089956.cms)
 - [Russia unveils new S-71K stealth missile for Su-57E amid potential sale to India](https://timesofindia.indiatimes.com/defence/news/russia-unveils-new-s-71k-stealth-missile-for-su-57e-amid-potential-sale-to-india/articleshow/134073329.cms)
-- [PM Modi, Putin, Pezeshkian in single frame: Why this Brics photo may unsettle Trump](https://timesofindia.indiatimes.com/india/trumps-deepest-darkest-china-gets-a-brics-sequel-with-irans-cameo-as-india-walks-tightrope/articleshow/134074377.cms)
 - [Aadhaar Card global push: UIDAI working on access for NRIs and OCIs](https://timesofindia.indiatimes.com/business/india-business/in-2010-india-launched-aadhaar-card-16-years-later-uidai-says-work-underway-to-take-aadhaar-global-to-benefit-nris-and-ocis/articleshow/134061418.cms)
 - [Elon Musk's Cybercab rollout puts US safety rules to test as NHTSA audits 1,000 cars](https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-cybercab-has-no-steering-wheel-pedals-or-mirrors-us-safety-regulators-open-audit-of-about-1000-cars-over-teslas-self-certification/articleshow/134066366.cms)
+- [PM Modi, Putin, Pezeshkian in single frame: Why this Brics photo may unsettle Trump](https://timesofindia.indiatimes.com/india/trumps-deepest-darkest-china-gets-a-brics-sequel-with-irans-cameo-as-india-walks-tightrope/articleshow/134074377.cms)
 - [Women's Asia Cup: Sri Lanka fight back from 33/4 to beat Pakistan, set up India final](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/womens-asia-cup-sri-lanka-fight-back-from-33/4-to-beat-pakistan-by-4-wickets-set-up-india-final/articleshow/134087591.cms)
 - [Tharoor answers Chidambaram’s questions on Brics benefits for India; BJP takes digs](https://timesofindia.indiatimes.com/india/shashi-tharoor-answers-chidambarams-questions-on-brics-benefits-for-india-bjp-takes-digs/articleshow/134076761.cms)
-- [After Doda, Udhampur administration imposes 2-month ban on VPN use](https://timesofindia.indiatimes.com/india/after-doda-udhampur-administration-imposes-2-month-ban-on-vpn-use/articleshow/134087276.cms)
 - [Countries where you can buy iPhone 18 Pro and iPhone 18 Pro Max cheaper than India](https://timesofindia.indiatimes.com/technology/tech-news/countries-where-you-can-buy-iphone-18-pro-and-iphone-18-pro-max-cheaper-than-india/articleshow/134056504.cms)
 
 **NDTV**
@@ -88,6 +88,9 @@
 **Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
+- [ಪ್ರಾಸಿಕ್ಯೂಷನ್‌ ನಿರ್ದೇಶಕಿ ಅಂಜಲಿ ದೇವಿ ಮುಂದುವರಿಕೆಗೆ ಹೈಕೋರ್ಟ್ ಅಸ್ತು](https://www.varthabharati.in/bangalore-city/high-court-2274617)
+- [‘ಎಸ್‍ಐಆರ್’ ನಟ ಶಿವರಾಜ್ ಕುಮಾರ್‌ಗೆ ನೋಟಿಸ್ ನೀಡಿಲ್ಲ: ಚುನಾವಣಾಧಿಕಾರಿ ಸ್ಪಷ್ಟನೆ](https://www.varthabharati.in/bangalore-city/actor-shivraj-kumar-2274616)
+- [ರಾಜ್ಯದ ಗ್ರಾ.ಪಂ.ಗಳ ಮೀಸಲಾತಿ ನಿಗದಿ ಪೂರ್ಣ; ಹೈಕೋರ್ಟ್‌ಗೆ ರಾಜ್ಯ ಸರ್ಕಾರದ ಮಾಹಿತಿ](https://www.varthabharati.in/state/high-court-2274615)
 - [ಭಾರತಕ್ಕೆ ಪ್ರಯಾಣಿಸುತ್ತಿದ್ದ ಸಿಖ್ ಯಾತ್ರಿಕರನ್ನು ತಡೆದ ಪಾಕಿಸ್ತಾನ](https://www.varthabharati.in/National/100-sikh-pilgrims-prevented-by-pakistan-from-visiting-hemkund-sahib-2274613)
 - [PG ಕಟ್ಟಡ ಕುಸಿತ: ಗಂಟೆಗಳ ಮೊದಲು ನಿರ್ವಾಹಕನಿಗೆ ಎಚ್ಚರಿಕೆ ನೀಡಲಾಗಿತ್ತೇ?](https://www.varthabharati.in/National/hours-before-delhi-hostel-collapse-a-worker-hit-a-panic-button-2274612)
 - [ಈಗ ತೆಲಂಗಾಣದಲ್ಲಿ ಶುದ್ಧೀಕರಣ ವಿವಾದ | BRS ಕಾರ್ಯಕರ್ತರ ವಿರುದ್ಧ ಪ್ರಕರಣ ದಾಖಲು](https://www.varthabharati.in/National/telangana-purification-row-congress-dalit-groups-slam-brs-hold-ex-cm-kcr-responsible-2274611)
@@ -95,9 +98,6 @@
 - [ಯಮನ್ ಸಂಘರ್ಷ | ಕನಿಷ್ಠ 46,000 ಜನರ ಸ್ಥಳಾಂತರ; ವಿಶ್ವಸಂಸ್ಥೆ](https://www.varthabharati.in/international/at-least-46000-displaced-by-escalating-yemen-fighting-un-2274609)
 - [ನ್ಯೂಯಾರ್ಕ್: 9/11ರ ಉಗ್ರ ದಾಳಿಯ ಸಂತ್ರಸ್ತರಿಗೆ ಗೌರವ ಸಲ್ಲಿಕೆ](https://www.varthabharati.in/international/911-attack-2274608)
 - [ಸ್ವಯಂ-ಗಡಿಪಾರು ಜಾಹೀರಾತನ್ನು ತೆಗೆದುಹಾಕಿದ ಟ್ರಂಪ್ ಆಡಳಿತ](https://www.varthabharati.in/international/us-removes-advertisement-asking-mr-singh-to-self-deport-after-backlash-2274607)
-- [ಜನಾಂಗೀಯ ದ್ವೇಷದಿಂದ ಮಣಿಪುರಿ ಸಂಗೀತಗಾರನ ಕೊಲೆ: ರಾಹುಲ್ ಗಾಂಧಿ](https://www.varthabharati.in/National/rahul-gandhi-manipuri-musician-vikram-singh-2274606)
-- [ಕೌಂಟಿ ಚಾಂಪಿಯನ್ಶಿಪ್ ನಲ್ಲಿ 10 ವಿಕೆಟ್ ಗೊಂಚಲು; ಗಂಭೀರ್‌ ಗೆ ಪ್ರಬಲ ಸಂದೇಶ ರವಾನಿಸಿದ ಕುಲದೀಪ್ ಯಾದವ್](https://www.varthabharati.in/sports/kuldeep-yadavs-10-wicket-storm-in-county-championship-sends-a-loud-message-to-gautam-gambhir-2274605)
-- [ಬಿಹಾರದ ವಿವಿಧೆಡೆ ಭಾರೀ ಪ್ರವಾಹ, 46 ಲಕ್ಷಕ್ಕೂ ಅಧಿಕ ಮಂದಿ ಬಾಧಿತ](https://www.varthabharati.in/National/bihar-flood-situation-grim-as-over-46-lakh-people-affected-across-15-districts-2274603)
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (9.1)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [పుతిన్, జిన్‌పింగ్, పెజెష్కియాన్‌లతో.. బ్రిక్స్‌ సదస్సు వేళ ప్రధాని మోదీ కీలక భేటీలు..](https://www.andhrajyothy.com/2026/national/brics-summit-2026-modis-key-bilateral-meetings-with-putin-xi-jinping-and-pezeshkian-sgr-1557245.html)
-- [Gujarat Rain Forecast: બંગાળનીખાડીમાં સર્જાઇ સિસ્ટમ, રાજયમાં આ તારીખથી ગાજવીજ સાથે વરસશે ભારે વરસાદ](https://gujarati.abplive.com/news/gujarat/rain-forecast-for-gujarat-again-from-september-12-990916)
-- [BRICS மாநாடு: புதின், ஜி ஜின்பிங், மசூத் பெசெஷ்கியானை தனிப்பட்ட முறையில் சந்திக்கும் மோடி!](https://www.vikatan.com/government-and-politics/brics-summit-in-delhi-modi-to-meet-putin-xi-and-pezeshkian)
-- [Bigg Boss Bangla: ‘আমাকে ছোঁবে না’, নন্দিনীর সরলতার সুযোগ নিয়ে ‘মাইন্ডগেম’ খেলছেন রাজবীর](https://bengali.indianexpress.com/entertainment/bigg-boss-bangla-nandini-rajveer-dey-fight-12518665)
-- [అసెంబ్లీకి వెళ్తుంటే యుద్ధ వాతావరణం సృష్టించారు: సబితా ఇంద్రారెడ్డి](https://www.eenadu.net/telugu-news/telangana/sabitha-indra-reddy-spoke-to-the-media-in-delhi/1801/126164408)
-- [Strong growth, but FPIs still have reasons to stay away from India](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/neelkanth-mishra-strong-growth-but-fpis-still-have-reasons-to-stay-away-from-india-14027895.html)
-- [নন্দীগ্রাম থেকে মমতা বন্দ্যোপাধ্যায় লড়লে ... জোড়াফুলের মালিকানার লড়াইয়ের মাঝেই ঋতব্রতর বড় ঘোষণা](https://bengali.abplive.com/district/ritabrata-banerjee-announces-not-to-contest-from-nandigram-if-mamata-banerjee-fights-1192411)
-- [Tejashree Pradhan : घटस्फोटाच्या 11 वर्षांनंतर तेजश्री दुसऱ्यांदा थाटणार संसार, स्वतःच म्हणाली..](https://www.tv9marathi.com/entertainment/marathi-actress-tejashree-pradhan-breaks-silence-on-second-marriage-after-divorce-with-shashank-ketkar-1754030.html)
-- [news and press releases in science, medicine, life, and business](https://www.newswise.com/articles/jmir-news-shadow-ai-vocal-biomarker-tech-griefbots-and-a-prescription-video-game/?ad2f=1&aid=854482)
-- [1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-5-chatgpt-prompts-to-create-kerala-style-retro-images/articleshow/133999924.cms)
+- [പ്രകടന മികവിൽ ‍ഞെട്ടിച്ച് ഉർവശി, ഒപ്പം കൂടി ജോജു ജോർജും; 'ആശ' റിവ്യു](https://www.asianetnews.com/entertainment-news/joju-george-and-urvashi-movie-aasha-malayalam-review-articleshow-voetd6r)
+- [Pune Traffic Update: पुण्यात वाहतुकीत मोठे बदल; गणेशोत्सवात प्रमुख मार्गांवर अवजड वाहनांना No Entry, कसे आहे नियोजन?](https://maharashtratimes.com/maharashtra/pune-news/central-pune-major-roads-24-hrs-ban-for-heavy-vehicles-entry-from-12-to-26-sept-2026/articleshow/134053376.cms)
+- [Sensex ends 600 pts higher from day's low, Nifty closes near 23,400: Key reasons behind sharp market recovery](https://www.moneycontrol.com/news/business/markets/sensex-rises-200-pts-from-day-s-low-nifty-near-23-300-key-reasons-behind-markets-paring-losses-14027727.html)
+- [Video: Nagpur man throws chilli powder during bank robbery, then this happens](https://www.indiatoday.in/cities/other-cities/story/nagpur-bank-robbery-man-throws-chilli-powder-on-sbi-branch-staff-in-maharashtra-video-2992282-2026-09-11)
+- [અમદાવાદ: ESIC હોસ્પિટલમાં નોકરી અપાવવાના બહાને લાંચનું કૌભાંડ, ACBએ 4ને દબોચ્યા, મુખ્ય સૂત્રધાર ક્લાર્ક ફરાર!](https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-bribe-scam-on-the-pretext-of-getting-a-job-in-esic-hospital-acb-arrests-4-main-mastermind-clerk-absconding-92449142750)
+- [पॉलीथिन में भरा मिर्च पाउडर और बैंक लूटने पहुंच गया... 4 लाख कैश लेकर भागा... नागपुर के BSc पास युवक की कहानी](https://www.aajtak.in/india/maharashtra/story/nagpur-bsc-graduate-sbi-bank-loot-4-lakh-cash-chili-powder-eyes-cctv-lcla-strc-2640761-2026-09-11)
+- [ബെത്‌ലഹേമിലും എ.ഐ; ജസ്റ്റിനായി ലാലേട്ടന്‍ ആഷ്‌ലിയായി ആനി, കൂടെ ദിലീപും ശ്രീനിവാസനും അശോകനും](https://www.doolnews.com/ai-cast-of-bethlehem-kudumba-unit-movie-in-malayalam-cinema-90-s-64-159.html)
+- [Aaditya Thackeray : MPSC च्या अध्यक्षांनी राजीनामा दिला नाही तर आम्हाला तो घ्यावा लागेल, आदित्य ठाकरेंचा तीव्र आंदोलनाचा इशारा](https://marathi.abplive.com/news/politics/aaditya-thackeray-demands-resignation-of-mpsc-president-vivek-bhimnawar-for-lapses-in-exams-1438766)
+- [சாலமன் பாப்பையா காலமானார்](https://www.tamilmurasu.com.sg/tamilnadu/solomon-pappaiah-passed-away)
+- [Oil at $100 could force RBI into a hard call on rupee](https://www.moneycontrol.com/news/business/markets/neelkanth-mishra-oil-at-100-could-force-rbi-into-a-hard-call-on-rupee-14027907.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
