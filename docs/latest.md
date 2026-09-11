@@ -1,24 +1,24 @@
-# India Trending Report — 2026-09-11 20:01:55
+# India Trending Report — 2026-09-11 20:34:48
 
 ## Google Trends (India) — top trending searches
-1. [parent](https://trends.google.com/trending/rss?geo=IN)
-2. [alexander zverev](https://trends.google.com/trending/rss?geo=IN)
-3. [karen khachanov](https://trends.google.com/trending/rss?geo=IN)
-4. [fauda](https://trends.google.com/trending/rss?geo=IN)
-5. [kareena kapoor](https://trends.google.com/trending/rss?geo=IN)
-6. [live cricket score women asia cup](https://trends.google.com/trending/rss?geo=IN)
-7. [suriya](https://trends.google.com/trending/rss?geo=IN)
-8. [gukesh](https://trends.google.com/trending/rss?geo=IN)
-9. [cbse 2027 board exam date class 12](https://trends.google.com/trending/rss?geo=IN)
-10. [venezia vs fiorentina](https://trends.google.com/trending/rss?geo=IN)
+1. [bhojpuri](https://trends.google.com/trending/rss?geo=IN)
+2. [stock split](https://trends.google.com/trending/rss?geo=IN)
+3. [championship](https://trends.google.com/trending/rss?geo=IN)
+4. [sam altman](https://trends.google.com/trending/rss?geo=IN)
+5. [indian women cricket team](https://trends.google.com/trending/rss?geo=IN)
+6. [parent](https://trends.google.com/trending/rss?geo=IN)
+7. [alexander zverev](https://trends.google.com/trending/rss?geo=IN)
+8. [kareena kapoor](https://trends.google.com/trending/rss?geo=IN)
+9. [fauda](https://trends.google.com/trending/rss?geo=IN)
+10. [suriya](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Russia unveils new S-71K stealth missile for Su-57E amid potential sale to India](https://timesofindia.indiatimes.com/defence/news/russia-unveils-new-s-71k-stealth-missile-for-su-57e-amid-potential-sale-to-india/articleshow/134073329.cms)
 - ['Will work with India, be friends': China ahead of PM Modi-Xi meeting in Delhi](https://timesofindia.indiatimes.com/india/will-work-with-india-be-friends-china-ahead-of-pm-modi-xi-meeting-in-delhi/articleshow/134083755.cms)
 - [‘Did anyone go to jail in Kerala?’ Cong hits back at Omar amid Vande Mataram row](https://timesofindia.indiatimes.com/india/did-anyone-go-to-jail-in-kerala-cong-hits-back-at-omar-amid-vande-mataram-row/articleshow/134087507.cms)
+- [Russia unveils new S-71K stealth missile for Su-57E amid potential sale to India](https://timesofindia.indiatimes.com/defence/news/russia-unveils-new-s-71k-stealth-missile-for-su-57e-amid-potential-sale-to-india/articleshow/134073329.cms)
 - [PM Modi, Putin, Pezeshkian in single frame: Why this Brics photo may unsettle Trump](https://timesofindia.indiatimes.com/india/trumps-deepest-darkest-china-gets-a-brics-sequel-with-irans-cameo-as-india-walks-tightrope/articleshow/134074377.cms)
-- [83-year-old had Rs 2.4L FD, Rs 1.06L cash; how she won 9-year-old tax demand case](https://timesofindia.indiatimes.com/business/india-business/senior-citizen-woman-had-rs-2-42-lakh-fd-and-rs-1-06-lakh-cash-deposit-she-didnt-file-itr-tax-officer-determines-rs-5-15-lakh-unexplained-income-itat-gives-relief-after-9-years/articleshow/134018731.cms)
+- [Aadhaar Card global push: UIDAI working on access for NRIs and OCIs](https://timesofindia.indiatimes.com/business/india-business/in-2010-india-launched-aadhaar-card-16-years-later-uidai-says-work-underway-to-take-aadhaar-global-to-benefit-nris-and-ocis/articleshow/134061418.cms)
 - [Elon Musk's Cybercab rollout puts US safety rules to test as NHTSA audits 1,000 cars](https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-cybercab-has-no-steering-wheel-pedals-or-mirrors-us-safety-regulators-open-audit-of-about-1000-cars-over-teslas-self-certification/articleshow/134066366.cms)
 - [Women's Asia Cup: Sri Lanka fight back from 33/4 to beat Pakistan, set up India final](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/womens-asia-cup-sri-lanka-fight-back-from-33/4-to-beat-pakistan-by-4-wickets-set-up-india-final/articleshow/134087591.cms)
 - [Tharoor answers Chidambaram’s questions on Brics benefits for India; BJP takes digs](https://timesofindia.indiatimes.com/india/shashi-tharoor-answers-chidambarams-questions-on-brics-benefits-for-india-bjp-takes-digs/articleshow/134076761.cms)
@@ -26,18 +26,19 @@
 - [Countries where you can buy iPhone 18 Pro and iPhone 18 Pro Max cheaper than India](https://timesofindia.indiatimes.com/technology/tech-news/countries-where-you-can-buy-iphone-18-pro-and-iphone-18-pro-max-cheaper-than-india/articleshow/134056504.cms)
 
 **NDTV**
-- [Israeli Army "Categorically Rejects" Alleged AI Use In Targeting Gazans](https://www.ndtv.com/world-news/israeli-army-categorically-rejects-alleged-ai-use-in-targeting-gazans-12035177#publisher=newsstand)
-- [UK Man Pleads Guilty To Encouraging Sexual Abuse Of Drugged Women](https://www.ndtv.com/world-news/uk-man-pleads-guilty-to-encouraging-sexual-abuse-of-drugged-women-12035223#publisher=newsstand)
-- [US Envoy Sergio Gor Visits Manipur, Meets Governor, Chief Minister](https://www.ndtv.com/india-news/us-envoy-sergio-gor-visits-manipur-meets-governor-chief-minister-12033819#publisher=newsstand)
-- [Delhi Lt Governor Proposes Mandatory Tuberculosis Test For All Hospital Patients](https://www.ndtv.com/india-news/delhi-lt-governor-proposes-mandatory-tb-screening-of-all-hospital-patients-12035203#publisher=newsstand)
-- [After Congress Comments On Punjab's Schools, AAP's Himachal Counter](https://www.ndtv.com/india-news/after-congress-comments-on-punjabs-schools-aaps-himachal-counter-12035173#publisher=newsstand)
-- [Carplomacy 4.0: PM Modi, Putin Share A Ride Again After Bilateral Talks](https://www.ndtv.com/india-news/carplomacy-4-0-pm-modi-putin-travel-in-fortress-on-wheels-in-delhi-12033310#publisher=newsstand)
-- [Delhi Issues Traffic Advisory For BRICS On Saturday. Here Are The Routes To Avoid](https://www.ndtv.com/india-news/delhi-issues-traffic-advisory-for-saturday-here-are-the-routes-to-avoid-12035061#publisher=newsstand)
+- [Saudi Shuts Down Major Oil Pipeline Amid Fighting With Yemen's Houthis](https://www.ndtv.com/world-news/saudi-shuts-down-major-oil-pipeline-amid-fighting-with-yemens-houthis-12035379#publisher=newsstand)
+- [Man Shoots Neighbour In Leg, Then Dies By Suicide In Delhi: Cops](https://www.ndtv.com/delhi-news/man-shoots-neighbour-in-leg-then-dies-by-suicide-in-delhi-cops-12035357#publisher=newsstand)
+- [Three Vehicles Collide In Northern Russia, 12 Dead](https://www.ndtv.com/world-news/three-vehicles-collide-in-northern-russia-12-dead-12035319#publisher=newsstand)
+- [Detected UAE-Linked Campaign To Influence Sudan Conflict Narratives: Anthropic](https://www.ndtv.com/world-news/detected-uae-linked-campaign-to-influence-sudan-conflict-narratives-anthropic-12035283#publisher=newsstand)
+- ['US, Israel Want To Bully Us, But We Won't Kneel': Iran President In Delhi](https://www.ndtv.com/india-news/us-israel-want-to-bully-us-but-we-wont-kneel-iran-president-masoud-pezeshkian-in-delhi-12035281#publisher=newsstand)
+- [At BRICS Summit, PM Modi, UN Chief Discuss Need To Reform Global Bodies](https://www.ndtv.com/india-news/at-brics-summit-pm-modi-un-chief-antonio-guterres-discuss-need-to-reform-global-bodies-12035256#publisher=newsstand)
 - [On Vande Mataram Row, Congress' 'Stand Upright' Retort To Omar Abdullah](https://www.ndtv.com/india-news/on-vande-mataram-row-congress-stand-upright-retort-to-omar-abdullah-12035103#publisher=newsstand)
-- [Sukhbir Badal Skips Behbal Kalan Probe Appearance, AAP Sees 'BJP-Akali Collusion'](https://www.ndtv.com/india-news/sukhbir-badal-skips-behbal-kalan-probe-appearance-faces-aap-attack-12035115#publisher=newsstand)
-- ['Don't Have A Choice But To Fight': Trump Takes Aim At Iran In 9/11 Message](https://www.ndtv.com/world-news/dont-have-a-choice-but-to-fight-donald-trumps-takes-aim-at-iran-in-9-11-message-12035032#publisher=newsstand)
+- [BRICS Summit 2026 LIVE Updates: Putin, Pezeshkian Highlight Issue Of Sanctions At BRICS Business Forum](https://www.ndtv.com/india-news/brics-summit-2026-live-updates-pm-narendra-modi-putin-xi-jinping-meeting-bharat-mandapam-new-delhi-traffic-advisory-updates-12031073#publisher=newsstand)
+- [Putin Takes "40%" Dig At G7, Compares It With BRICS' Contribution To World GDP](https://www.ndtv.com/world-news/putin-takes-40-per-cent-dig-at-g7-compares-it-with-brics-contribution-to-world-gdp-12033570#publisher=newsstand)
+- [Delhi Lt Governor Proposes Mandatory Tuberculosis Test For All Hospital Patients](https://www.ndtv.com/india-news/delhi-lt-governor-proposes-mandatory-tb-screening-of-all-hospital-patients-12035203#publisher=newsstand)
 
 **Hindustan Times**
+- [Minister says UDF will decide on PM SHRI soon](https://www.hindustantimes.com/india-news/keralam-cm-holds-emergency-meet-over-power-crisis-minister-appeals-for-cooperation-101789155860199.html)
 - [U.S. envoy Sergio Gor visits Manipur, meets CM and governor](https://www.hindustantimes.com/india-news/us-envoy-sergio-gor-vists-manipur-meets-cm-and-governor-101789154179365.html)
 - [CAG flags data discrepancies in Gujarat’s Har Ghar Jal claim](https://www.hindustantimes.com/india-news/cag-flags-data-discrepancies-in-gujarat-s-har-ghar-jal-claim-101789148659108.html)
 - [21 rescued after two merchant ships collide near Gujarat coast, pollution response measures activated: Coast Guard](https://www.hindustantimes.com/india-news/21-rescued-after-two-merchant-ships-collide-near-gujarat-coast-pollution-response-measures-activated-coast-guard-101789147645184.html)
@@ -47,7 +48,6 @@
 - [BRICS Summit: Delhi announces traffic curbs, diversions for September 12; Check affected routes](https://www.hindustantimes.com/india-news/brics-summit-delhi-announces-traffic-curbs-diversions-for-september-12-check-affected-routes-101789141996452.html)
 - [Amid the 1980s nostalgia trend, here are 10 ChatGPT photo tricks you didn’t know](https://www.hindustantimes.com/india-news/amid-the-1980s-nostalgia-trend-here-are-10-chatgpt-photo-tricks-you-didn-t-know-101789137175948.html)
 - [Modi urges Iran’s Pezeshkian to resolve West Asia conflict through dialogue](https://www.hindustantimes.com/india-news/modi-urges-iran-s-pezeshkian-to-resolve-west-asia-conflict-through-dialogue-101789142537497.html)
-- [Modi calls for safeguarding freedom of navigation in talks with Iranian President Pezeshkian](https://www.hindustantimes.com/india-news/brics-summit-safety-of-seafarers-a-push-for-dialogue-and-diplomace-west-asia-peace-pm-modi-iran-pezeshkian-meet-101789140013012.html)
 
 **Vijay Karnataka**
 - [ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಮುಚ್ಚಿದೆ ಬ್ರಿಕ್ಸ್‌ ಬಾಗಿಲು: ಭಾರತದ ವೀಟೋ ಅಧಿಕಾರದಿಂದ ನೆರೆ ರಾಷ್ಟ್ರಕ್ಕೆ ದಿಗಿಲು! ಇಳಿಯುತ್ತಿದೆ ಸೊಕ್ಕಿನ ಅಮಲು](https://vijaykarnataka.com/news/world/indias-veto-power-succeeded-in-keeping-pakistan-out-of-brics-membership-islamabad-waiting/articleshow/134081269.cms)
@@ -62,6 +62,8 @@
 - [ದಾವಣಗೆರೆಯಲ್ಲಿ ತಲೆಎತ್ತಲಿದೆ 200 ಎಕರೆಯಲ್ಲಿ ದೂಡಾ ಹೊಸ ಲೇಔಟ್‌! ರೈತರಿಗೆ 60:40 ಮಾದರಿ ಪರಿಹಾರಕ್ಕೆ ನಿರ್ಧಾರ](https://vijaykarnataka.com/news/davanagere/new-200-acre-layout-in-davanagere-decision-duda-made-to-offer-6040-model-compensation-to-farmers/articleshow/134077028.cms)
 
 **The Hindu**
+- [Kolkata’s Law College Vice Principal resigns after 23-hour student protest over attendance](https://www.thehindu.com/news/cities/kolkata/kolkataslaw-college-vice-principal-resigns-after-23-hour-studentprotest-over-attendance/article71456472.ece)
+- [‘Reading kept me going’: Noida stir accused who cracked NET](https://www.thehindu.com/news/cities/Delhi/reading-kept-me-going-noida-stir-accused-who-cracked-net/article71457844.ece)
 - [SHRC orders NHAI to ready underpass near Edappally in two months](https://www.thehindu.com/news/national/kerala/shrc-orders-nhai-to-ready-underpass-near-edappally-in-two-months/article71457424.ece)
 - [Chander Kunj Army Towers: apartment owners call for appointment of project officer amid demolition delays](https://www.thehindu.com/news/national/kerala/chander-kunj-army-towers-apartment-owners-call-for-appointment-of-project-officer-amid-demolition-delays/article71455941.ece)
 - [BRICS Summit 2026 updates on Sept.11: PM Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian](https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece)
@@ -70,8 +72,6 @@
 - [India and Canada are well beyond reset now, says Canadian High Commissioner to India](https://www.thehindu.com/news/national/india-and-canada-are-well-beyond-reset-now-says-canadian-high-commissioner-to-india/article71456180.ece)
 - [End Ukraine war, says Modi as he meets Putin during bilateral ahead of BRICS summit](https://www.thehindu.com/news/national/pm-modi-russia-putin-hold-high-stakes-talks-ahead-of-brics-summit/article71456100.ece)
 - [Climate change has become an economic risk: KSPCB chairman](https://www.thehindu.com/news/national/karnataka/climate-change-has-become-an-economic-risk-kspcb-chairman/article71457457.ece)
-- [Prefixes ‘Er.’ for engineers and ‘Lr.’ for lecturers sought](https://www.thehindu.com/news/national/karnataka/prefixes-er-for-engineers-and-lr-for-lecturers-sought/article71457035.ece)
-- [Leather godown gutted near Ambur](https://www.thehindu.com/news/national/tamil-nadu/leather-godown-gutted-near-ambur/article71456412.ece)
 
 **Livemint**
 - [Maria Bartiromo Fox News departure: Former anchor speaks out for first time after exit, hints at what lies ahead](https://www.livemint.com/news/us-news/maria-bartiromo-fox-news-departure-former-anchor-speaks-out-for-first-time-after-exit-hints-at-what-lies-ahead-11789148943476.html)
@@ -101,34 +101,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (9.1)
-- Modi (6.1)
-- Delhi (4.5)
+- Delhi (5.8)
+- Modi (4.8)
 - Iran (4.2)
+- Putin (4.2)
+- BRICS (4.1)
 - Brics (3.9)
-- BRICS (3.5)
 - Pezeshkian (3.2)
 - PM Modi (3.0)
-- Putin (2.9)
+- BRICS Summit (3.0)
 - Gujarat (2.6)
 - Maharashtra (2.6)
 - Phone (2.0)
-- BRICS Summit (2.0)
-- Trump (1.9)
 - Omar (1.6)
+- Russia (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [முதலீட்டாளர்களை பணக்காரர்களாக்கிய மில்க்கி மிஸ்ட் ஐபிஓ.. 109% மேல் வருமானம்!](https://tamil.economictimes.com/market/stocks/milky-mist-ipo-109-return-for-investors-stock-price-surge-from-in-24-days/articleshow/134053163.cms)
-- [Nitin Gadkari News: टोल प्लाजा पर नहीं होगा कोई बैरियर, एक सेकेंड भी नहीं करना होगा इंतजार, नितिन गडकरी ने बता दी डेडलाइन](https://navbharattimes.indiatimes.com/business/business-news/govt-targets-barrier-free-tolling-by-february-claims-central-minister-nitin-gadkari/articleshow/134053546.cms)
-- [ൽ ഇടിച്ചുകയറി അപകടം: ഓട്ടോറിക്ഷയിലെ യാത്രക്കാരന് ദാരുണാന്ത്യം](https://timeskerala.com/kerala/kollam-road-accident-elderly-man-dies-auto-collision/)
-- [‘ரூ.1,200 கோடி கடன் வாங்கி புதிய தலைமைச் செயலகம் கட்ட வேண்டுமா?’ - இபிஎஸ் கேள்வி](https://www.hindutamil.in/news/tamilnadu/is-necessary-new-secretariat-at-pattinapakkam-via-loans-eps-questions)
-- [ब्रिक्स सम्मेलन में बिहार का सत्तू और मखाना, सीएम सम्राट ने पीएम नरेंद्र मोदी का आभार जताया](https://www.livehindustan.com/bihar/bihars-sattu-and-makhana-featured-at-brics-summit-cm-samrat-thanks-to-pm-narendra-modi-201789112013163.html)
-- [Harish rao | కేసీఆర్‌ ప్రజల గురించి ఆలోచిస్తే.. రేవంత్ రెడ్డి భూముల గురించి ఆలోచిస్తున్నాడు : హరీశ్‌ రావు](https://www.ntnews.com/news/harish-rao-said-that-while-kcr-thinks-about-the-people-revanth-reddy-thinks-about-lands-2508268)
-- ['আমার ভাবমূর্তি সিএবি দিয়ে চলে না', টিকিট বণ্টন বিতর্কে স্টেপ-আউট সৌরভের](https://www.etvbharat.com/bn/sports/cab-president-sourav-ganguly-clarifies-world-cup-ticket-distribution-rules-wbs26091102557)
-- [MPSC paper leak : पेपरफुटीचे आंदोलन चिघळले : MPSC च्या सचिवांना काळे फासले, पुढचा नंबर आयोगाच्या अध्यक्षांचा; संभाजी ब्रिगेडचा इशारा](https://sarkarnama.esakal.com/maharashtra/mpsc-paper-leak-sambhaji-brigade-targets-secretary-mahendra-harpalkar-sw79-hn97)
-- [कौन हैं देबाशीष शर्मा? 4 दिन पहले BJP में शामिल हुए, नौगांव लोकसभा सीट से बन गए उम्मीदवार](https://www.livehindustan.com/national/debashish-sharma-becomes-candidate-for-the-nowgong-lok-sabha-seat-had-joined-the-bjp-four-days-ago-201789112904689.html)
-- [આણંદ: વલ્લભ વિદ્યાનગરની ગર્લ્સ હોસ્ટેલમાં 200થી વધુ વિદ્યાર્થિનીઓને ફૂડ પોઈઝનિંગ, રસોડા જોવા મળી ગંદકી!](https://www.gujaratsamachar.com/news/anand/more-than-200-students-suffer-from-food-poisoning-in-the-girls-hostel-of-vallabh-vidyanagar-anand-kitchen-found-to-be-filthy-92706346082)
+- [పుతిన్, జిన్‌పింగ్, పెజెష్కియాన్‌లతో.. బ్రిక్స్‌ సదస్సు వేళ ప్రధాని మోదీ కీలక భేటీలు..](https://www.andhrajyothy.com/2026/national/brics-summit-2026-modis-key-bilateral-meetings-with-putin-xi-jinping-and-pezeshkian-sgr-1557245.html)
+- [Gujarat Rain Forecast: બંગાળનીખાડીમાં સર્જાઇ સિસ્ટમ, રાજયમાં આ તારીખથી ગાજવીજ સાથે વરસશે ભારે વરસાદ](https://gujarati.abplive.com/news/gujarat/rain-forecast-for-gujarat-again-from-september-12-990916)
+- [BRICS மாநாடு: புதின், ஜி ஜின்பிங், மசூத் பெசெஷ்கியானை தனிப்பட்ட முறையில் சந்திக்கும் மோடி!](https://www.vikatan.com/government-and-politics/brics-summit-in-delhi-modi-to-meet-putin-xi-and-pezeshkian)
+- [Bigg Boss Bangla: ‘আমাকে ছোঁবে না’, নন্দিনীর সরলতার সুযোগ নিয়ে ‘মাইন্ডগেম’ খেলছেন রাজবীর](https://bengali.indianexpress.com/entertainment/bigg-boss-bangla-nandini-rajveer-dey-fight-12518665)
+- [అసెంబ్లీకి వెళ్తుంటే యుద్ధ వాతావరణం సృష్టించారు: సబితా ఇంద్రారెడ్డి](https://www.eenadu.net/telugu-news/telangana/sabitha-indra-reddy-spoke-to-the-media-in-delhi/1801/126164408)
+- [Strong growth, but FPIs still have reasons to stay away from India](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/neelkanth-mishra-strong-growth-but-fpis-still-have-reasons-to-stay-away-from-india-14027895.html)
+- [নন্দীগ্রাম থেকে মমতা বন্দ্যোপাধ্যায় লড়লে ... জোড়াফুলের মালিকানার লড়াইয়ের মাঝেই ঋতব্রতর বড় ঘোষণা](https://bengali.abplive.com/district/ritabrata-banerjee-announces-not-to-contest-from-nandigram-if-mamata-banerjee-fights-1192411)
+- [Tejashree Pradhan : घटस्फोटाच्या 11 वर्षांनंतर तेजश्री दुसऱ्यांदा थाटणार संसार, स्वतःच म्हणाली..](https://www.tv9marathi.com/entertainment/marathi-actress-tejashree-pradhan-breaks-silence-on-second-marriage-after-divorce-with-shashank-ketkar-1754030.html)
+- [news and press releases in science, medicine, life, and business](https://www.newswise.com/articles/jmir-news-shadow-ai-vocal-biomarker-tech-griefbots-and-a-prescription-video-game/?ad2f=1&aid=854482)
+- [1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-5-chatgpt-prompts-to-create-kerala-style-retro-images/articleshow/133999924.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
