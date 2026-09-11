@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-11 22:02:02
+# India Trending Report — 2026-09-11 22:33:38
 
 ## Google Trends (India) — top trending searches
-1. [franco mastantuono](https://trends.google.com/trending/rss?geo=IN)
-2. [us open](https://trends.google.com/trending/rss?geo=IN)
-3. [dow jones moneycontrol](https://trends.google.com/trending/rss?geo=IN)
-4. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
-5. [dow jone index](https://trends.google.com/trending/rss?geo=IN)
-6. [bhojpuri](https://trends.google.com/trending/rss?geo=IN)
-7. [2](https://trends.google.com/trending/rss?geo=IN)
-8. [championship](https://trends.google.com/trending/rss?geo=IN)
-9. [stock split](https://trends.google.com/trending/rss?geo=IN)
-10. [sam altman](https://trends.google.com/trending/rss?geo=IN)
+1. [stake](https://trends.google.com/trending/rss?geo=IN)
+2. [बारिश मौसम](https://trends.google.com/trending/rss?geo=IN)
+3. [siddharth shukla](https://trends.google.com/trending/rss?geo=IN)
+4. [pakistan england live cricket match](https://trends.google.com/trending/rss?geo=IN)
+5. [cookies](https://trends.google.com/trending/rss?geo=IN)
+6. [franco mastantuono](https://trends.google.com/trending/rss?geo=IN)
+7. [dow jones moneycontrol](https://trends.google.com/trending/rss?geo=IN)
+8. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
+9. [dow jone index](https://trends.google.com/trending/rss?geo=IN)
+10. [bhojpuri](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [India hopes Iran and UAE will show flexibility, allow Brics declaration](https://timesofindia.indiatimes.com/india/pm-doubles-down-on-friendship-with-iran-seeks-win-win-strategy-hope-mounts-for-brics-declaration/articleshow/134086783.cms)
 - [‘Did anyone go to jail in Kerala?’ Cong hits back at Omar amid Vande Mataram row](https://timesofindia.indiatimes.com/india/did-anyone-go-to-jail-in-kerala-cong-hits-back-at-omar-amid-vande-mataram-row/articleshow/134087507.cms)
 - ['Will work with India, be friends': China ahead of PM Modi-Xi meeting in Delhi](https://timesofindia.indiatimes.com/india/will-work-with-india-be-friends-china-ahead-of-pm-modi-xi-meeting-in-delhi/articleshow/134083755.cms)
-- [NMC adds over 13,000 MBBS seats, total intake tops 1.4 lakh](https://timesofindia.indiatimes.com/india/nmc-adds-over-13000-mbbs-seats-total-intake-tops-1-4-lakh/articleshow/134089956.cms)
+- [Busy week for primary market as nine IPOs attract bids worth Rs 1.4 lakh crore](https://timesofindia.indiatimes.com/business/india-business/nine-ipos-attract-bids-worth-1-4-lakh-crore/articleshow/134094680.cms)
 - [Aadhaar Card global push: UIDAI working on access for NRIs and OCIs](https://timesofindia.indiatimes.com/business/india-business/in-2010-india-launched-aadhaar-card-16-years-later-uidai-says-work-underway-to-take-aadhaar-global-to-benefit-nris-and-ocis/articleshow/134061418.cms)
 - [Elon Musk's Cybercab rollout puts US safety rules to test as NHTSA audits 1,000 cars](https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-cybercab-has-no-steering-wheel-pedals-or-mirrors-us-safety-regulators-open-audit-of-about-1000-cars-over-teslas-self-certification/articleshow/134066366.cms)
+- [NMC adds over 13,000 MBBS seats, total intake tops 1.4 lakh](https://timesofindia.indiatimes.com/india/nmc-adds-over-13000-mbbs-seats-total-intake-tops-1-4-lakh/articleshow/134089956.cms)
 - [Russia unveils new S-71K stealth missile for Su-57E amid potential sale to India](https://timesofindia.indiatimes.com/defence/news/russia-unveils-new-s-71k-stealth-missile-for-su-57e-amid-potential-sale-to-india/articleshow/134073329.cms)
 - [PM Modi, Putin, Pezeshkian in single frame: Why this Brics photo may unsettle Trump](https://timesofindia.indiatimes.com/india/trumps-deepest-darkest-china-gets-a-brics-sequel-with-irans-cameo-as-india-walks-tightrope/articleshow/134074377.cms)
-- [80 lakh HPV vaccine doses given since February launch](https://timesofindia.indiatimes.com/india/80-lakh-hpv-vaccine-doses-given-since-feb-launch/articleshow/134090683.cms)
 - [Countries where you can buy iPhone 18 Pro and iPhone 18 Pro Max cheaper than India](https://timesofindia.indiatimes.com/technology/tech-news/countries-where-you-can-buy-iphone-18-pro-and-iphone-18-pro-max-cheaper-than-india/articleshow/134056504.cms)
 
 **NDTV**
@@ -62,6 +62,8 @@
 - [ದಾವಣಗೆರೆಯಲ್ಲಿ ತಲೆಎತ್ತಲಿದೆ 200 ಎಕರೆಯಲ್ಲಿ ದೂಡಾ ಹೊಸ ಲೇಔಟ್‌! ರೈತರಿಗೆ 60:40 ಮಾದರಿ ಪರಿಹಾರಕ್ಕೆ ನಿರ್ಧಾರ](https://vijaykarnataka.com/news/davanagere/new-200-acre-layout-in-davanagere-decision-duda-made-to-offer-6040-model-compensation-to-farmers/articleshow/134077028.cms)
 
 **The Hindu**
+- [Gauhati High Court says ‘talaq-e-hassan’ is a valid form of divorce](https://www.thehindu.com/news/national/assam/gauhati-high-court-says-talaq-e-hassan-is-a-valid-form-of-divorce/article71456358.ece)
+- [Tejashwi writes to Bihar CM demanding life-size statues of Ram Vilas, Sharad Yadav and Raghuvansh](https://www.thehindu.com/news/national/bihar/tejashwi-writes-to-bihar-cm-demanding-life-size-statuesof-ram-vilas-sharad-yadav-and-raghuvansh/article71456264.ece)
 - [Allahabad HC seeks Uttar Pradesh govt’s reply over Saharanpur Mosque demolition, stays ₹6.41 crore damage recovery](https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-seeks-uttar-pradesh-governments-reply-over-saharanpur-mosque-demolition-stays-641-crore-damage-recovery/article71456149.ece)
 - [With eye on poll, BJP to begin ‘drug-free Punjab’ drive amid row over Dalit villager’s death](https://www.thehindu.com/news/national/punjab/with-eye-on-poll-bjp-to-begin-drug-free-punjab-drive-amid-row-over-dalit-villagers-death/article71456181.ece)
 - [Vice-principal of Kolkata college ‘forced’ to resign; ABVP ‘purifies’ her office](https://www.thehindu.com/news/cities/kolkata/kolkataslaw-college-vice-principal-resigns-after-23-hour-studentprotest-over-attendance/article71456472.ece)
@@ -70,8 +72,6 @@
 - [Chander Kunj Army Towers: apartment owners call for appointment of project officer amid demolition delays](https://www.thehindu.com/news/national/kerala/chander-kunj-army-towers-apartment-owners-call-for-appointment-of-project-officer-amid-demolition-delays/article71455941.ece)
 - [BRICS Summit 2026 updates on Sept.11: PM Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian](https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece)
 - [Four arrested with 10 kg of suspected MDMA in Kochi](https://www.thehindu.com/news/national/kerala/four-arrested-with-10-kg-of-suspected-mdma-in-kochi/article71456484.ece)
-- [Three Kashmir religious leaders, including Mirwaiz, attend Iran embassy exhibition in Delhi](https://www.thehindu.com/news/national/jammu-and-kashmir/three-kashmir-religious-leaders-including-mirwaiz-attend-iran-embassy-exhibition-in-delhi/article71457506.ece)
-- [India and Canada are well beyond reset now, says Canadian High Commissioner to India](https://www.thehindu.com/news/national/india-and-canada-are-well-beyond-reset-now-says-canadian-high-commissioner-to-india/article71456180.ece)
 
 **Livemint**
 - [Maria Bartiromo Fox News departure: Former anchor speaks out for first time after exit, hints at what lies ahead](https://www.livemint.com/news/us-news/maria-bartiromo-fox-news-departure-former-anchor-speaks-out-for-first-time-after-exit-hints-at-what-lies-ahead-11789148943476.html)
@@ -100,9 +100,9 @@
 - [ಸ್ವಯಂ-ಗಡಿಪಾರು ಜಾಹೀರಾತನ್ನು ತೆಗೆದುಹಾಕಿದ ಟ್ರಂಪ್ ಆಡಳಿತ](https://www.varthabharati.in/international/us-removes-advertisement-asking-mr-singh-to-self-deport-after-backlash-2274607)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (7.8)
-- Iran (5.5)
-- Delhi (5.5)
+- India (5.2)
+- Iran (4.2)
+- Delhi (4.2)
 - Brics (3.9)
 - Modi (3.5)
 - PM Modi (3.0)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Ind vs Afg 1st T20 Playing XI : वैभव सूर्यवंशी-इशान किशन IN; संजू सॅमसन-नितीश रेड्डी OUT; अफगाणिस्तानविरुद्ध पहिल्या टी-20 अशी असेल टीम इंडियाची धडाकेबाज Playing XI](https://marathi.abplive.com/sports/cricket/team-india-playing-xi-vs-afghanistan-in-1st-t20-vaibhav-sooryavanshi-ishan-kishan-in-sanju-samson-nitish-kumar-reddy-out-marathi-news-1438773)
-- [ഇരുപത്തിയൊന്നാം നൂറ്റാണ്ടിലെ പതിനൊന്നാം ഇന്‍ഡസ്ട്രി ഹിറ്റ്; പതിനൊന്നാമനായി നിവിന്‍ പോളി](https://www.doolnews.com/bethlehem-kudumba-unit-becomes-the-11th-industry-hit-in-malayalam-in-21st-centuary-64-159.html)
-- [National Film Awards : गुजरातमध्ये राष्ट्रीय चित्रपट पुरस्कार सोहळा का? परेश रावल यांनी दिलं सडेतोड उत्तर](https://marathi.asianetnews.com/entertainment/paresh-rawal-backs-gujarat-as-venue-for-72nd-national-film-awards/articleshow-no6hmmg)
-- [Lion Death: સિંહોના સ્વાસ્થ્ય પર મોટું સંકટ!](https://www.gujaratfirst.com/top-news/gujarat-lion-deaths-62-lions-died-in-one-year-due-to-diseases-gujarat-first/338326/)
-- [സച്ചിന് ആശാരിപ്പണിയും വശമുണ്ടോ? കാർപെന്ററി കിറ്റുമായി നടന്നതിന്റെ രഹസ്യം വെളിപ്പെടുത്തി സച്ചിൻ](https://www.mathrubhumi.com/sports/cricket/sachin-tendulkar-carpentry-kit-bat-customization-secret-e5aryo94)
-- [மதுராந்தகம் தொகுதி இடைத்தேர்தல்: திமுக தீவிர களப்பணி](https://www.dinakaran.com/news/maduranthakam-byelection-dmk/)
-- [Nagpur bank robbery: Man throws chilli powder at staff, flees with cash; watch](https://timesofindia.indiatimes.com/city/nagpur/nagpur-bank-robbery-man-throws-chilli-powder-at-staff-flees-with-cash-watch/articleshow/134058041.cms)
-- [ശൈഖ് മുഹമ്മദ് ബിൻ സലേം അൽ ഖാസിമി അന്തരിച്ചു; ഷാർജയിൽ മൂന്ന് ദിവസത്തെ ഔദ്യോഗിക ദുഃഖാചരണം](https://www.asianetnews.com/pravasam/sheikh-mohammed-bin-salem-bin-sultan-al-qasimi-passes-away-articleshow-71b8nqt)
-- [18ਵੇਂ ਬ੍ਰਿਕਸ ਸੰਮੇਲਨ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣ ਲਈ ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ ਦੇ ਮੁਖੀ ਐਂਟੋਨੀਓ ਗੁਟੇਰੇਸ ਨਵੀਂ ਦਿੱਲੀ ਪਹੁੰਚੇ](https://wishavwarta.in/un-chief-antonio-guterres-arrives-in-new-delhi/)
-- [एक बार फिर आसमान में खड़े दिखे ‘ट्विन टावर्स’](https://www.bbc.com/hindi/articles/cn9w5pl4ywxo)
+- [ഇന്ത്യ-അഫ്ഗാനിസ്ഥാൻ ഒന്നാം ടി20, അഭിഷേകിനൊപ്പം ഓപ്പണറായി സഞ്ജു, ഇഷാനും പ്ലേയിങ് ഇലവനിൽ; ദുബെ പുറത്താകും](https://www.asianetnews.com/gallery/cricket-sports/indias-predicted-xi-vs-afg-sanju-samson-and-ishan-kishan-set-to-play-shivam-dube-dropped-hxmks0w)
+- [Kone Dekha Alo: ‘সবকিছুরই একটা শেষ থাকে', কনে দেখা আলোর শেষদিনের শ্য়ুটিং করলেন মৈনাক!](https://www.hindustantimes.com/bangla/entertainment/everything-has-an-end-goodbye-sudev-actor-mainak-dhol-writes-emotional-note-as-kone-dekha-alo-ends-271789120522908.html)
+- [#BREAKING UPI-க்கு 0.4% கட்டணம்? யாருக்கு?](https://www.toptamilnews.com/india/niti-aayog-backs-upi-charges-for-businesses-ending-zero-mdr/cid19238652.htm)
+- [ગીરમાં સિંહોના મોતનો આંકડો આવ્યો સામે , એક વર્ષમાં 62 સિંહનાં આ રોગના કારણે મોત](https://gujarati.abplive.com/news/gujarat/62-lions-died-in-a-year-various-serious-illnesses-were-the-cause-of-death-990930)
+- [Stock Market Close: Sensex recovers 622 pts from day's low but ends in red; Nifty at 23,398](https://www.business-standard.com/markets/news/stock-market-live-september-11-nse-bse-sensex-today-nifty-gift-nifty-crude-oil-price-today-126091100093_1.html)
+- [சர்தார் 2, மண்டாடி படங்களின் முதல் நாள் வசூல் எவ்வளவு?](https://cinema.dinamalar.com/news/kollywood/what-is-the-first-day-collection-of-sardaar-2-and-mandadi/140823)
+- [इजरायल ने रेगिस्‍तान में छोड़े 11 शाही ईरानी गधे, 44 साल बाद बना द‍िया नखल‍िस्‍तान, दुनिया हैरान](https://navbharattimes.indiatimes.com/world/middle-east/israel-in-1982-released-iran-wild-donkeys-to-negev-desert-44-years-later-they-created-oasis-in-earth/articleshow/134058305.cms)
+- [सऊदी अरब पर हूती हमलों के बीच पाकिस्तानी मीडिया ने मक्का समझौते पर उठाए सवाल](https://www.bbc.com/hindi/articles/cx2zp3e70y0o)
+- [Solomon Pappaiah, veteran Tamil scholar and orator, passes away](https://www.thehindu.com/news/national/tamil-nadu/solomon-pappaiah-veteran-tamil-scholar-and-orator-passes-away-at-90-in-madurai/article71455573.ece)
+- [फोनवरील संभाषणाने उघड केली चूक; माहिती अधिकारातील अहवालामुळे एमपीएससी वर्तुळात खळबळ](https://maharashtratimes.com/career/career-news/nagpur-police-inspector-rahul-shire-departmental-inquiry-mpsc-report-error-paper-leak/articleshow/134059377.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
