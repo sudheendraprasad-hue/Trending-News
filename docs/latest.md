@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-11 08:02:10
+# India Trending Report — 2026-09-11 08:37:05
 
 ## Google Trends (India) — top trending searches
-1. [दक्षिण अफ्रीका बनाम नामीबिया](https://trends.google.com/trending/rss?geo=IN)
-2. [spider man](https://trends.google.com/trending/rss?geo=IN)
-3. [uganda vs rwanda](https://trends.google.com/trending/rss?geo=IN)
-4. [south africa national cricket team vs namibia national cricket team match scorecard](https://trends.google.com/trending/rss?geo=IN)
-5. [पाऊस](https://trends.google.com/trending/rss?geo=IN)
-6. [airforce](https://trends.google.com/trending/rss?geo=IN)
-7. [सेलिना जेटली](https://trends.google.com/trending/rss?geo=IN)
-8. [ಕರ್ನಾಟಕ ಲೋಕಾಯುಕ್ತ](https://trends.google.com/trending/rss?geo=IN)
-9. [brazil national football team](https://trends.google.com/trending/rss?geo=IN)
-10. [பரந்தூர் விமான நிலையம்](https://trends.google.com/trending/rss?geo=IN)
+1. [weather delhi](https://trends.google.com/trending/rss?geo=IN)
+2. [தலைமைச் செயலகம்](https://trends.google.com/trending/rss?geo=IN)
+3. [சென்னை சூப்பர் கிங்ஸ்](https://trends.google.com/trending/rss?geo=IN)
+4. [उमर अब्दुल्ला](https://trends.google.com/trending/rss?geo=IN)
+5. [চিন্ময় কৃষ্ণ দাস](https://trends.google.com/trending/rss?geo=IN)
+6. [hang seng index](https://trends.google.com/trending/rss?geo=IN)
+7. [पोलीस](https://trends.google.com/trending/rss?geo=IN)
+8. [nagaland lottery result](https://trends.google.com/trending/rss?geo=IN)
+9. [జయం రవి](https://trends.google.com/trending/rss?geo=IN)
+10. [திருப்பூர்](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- ['They blew the hell out of Bahrain': US official 'admits' Iran damaged US base](https://timesofindia.indiatimes.com/world/middle-east/they-blew-the-hell-out-of-bahrain-us-official-admits-iran-damaged-us-base/articleshow/134039389.cms)
 - [Key Putin-Modi meet today as Delhi gears up for Brics summit; what's on agenda](https://timesofindia.indiatimes.com/india/brics-summit-whats-on-agenda-as-world-leaders-gather-in-delhi-amid-global-tensions/articleshow/134041840.cms)
-- ['Promised to boost followers': Delhi influencer 'raped' by ASI’s associate](https://timesofindia.indiatimes.com/city/patna/delhi-woman-alleges-rape-by-asis-associate-extortion-ssb-launches-inquiry/articleshow/134024234.cms)
-- [Shopping online? From January, you'll see the discount margin](https://timesofindia.indiatimes.com/business/india-business/shopping-online-from-january-youll-see-the-discount-margin/articleshow/134029680.cms)
-- ['He shouldn't be here': Nasser Hussain bashes Pakistan with Sehwag example](https://timesofindia.indiatimes.com/sports/cricket/news/he-shouldnt-be-here-nasser-hussain-bashes-pakistan-with-virender-sehwag-example/articleshow/134047979.cms)
+- [Before 9/11, US knew Bin Laden was a threat. India-Pakistan tensions were the bigger worry](https://timesofindia.indiatimes.com/world/us/before-9/11-us-knew-bin-laden-was-a-threat-india-pakistan-tensions-were-the-bigger-worry/articleshow/134053676.cms)
+- [Elon Musk feels 'chess will be fully solved one day'; what does Carlsen think?](https://timesofindia.indiatimes.com/sports/chess/elon-musk-feels-chess-will-be-fully-solved-one-day-what-does-world-no-1-magnus-carlsen-think/articleshow/134043770.cms)
 - [Indian in Kuwait sent Rs 1.09cr, no ITR; ITAT deletes Rs 5.52L, checks Rs 2.5cr](https://timesofindia.indiatimes.com/business/india-business/indian-working-in-kuwait-sent-home-over-a-crore-in-remittances-but-filed-no-itr-taxman-treated-rs-3-63-crore-as-unexplained-itat-deletes-rs-5-52-lakh-and-orders-fresh-check-of-rs-2-50-crore/articleshow/134050663.cms)
-- [Amazon accused of violating worker-protection laws, firing pregnant employees](https://timesofindia.indiatimes.com/technology/tech-news/amazon-accused-in-proposed-nationwide-class-action-of-violating-federal-and-new-york-worker-protection-laws-claims-that-company-regularly-fires-pregnant-employees-who-/articleshow/134010882.cms)
-- [Houthis using AI for missiles? Anthropic says Yemen weapons cell using Claude](https://timesofindia.indiatimes.com/defence/international/houthis-using-ai-to-train-missiles-anthropic-report-flags-yemen-based-weapons-cell/articleshow/134047179.cms)
-- [Watch: Fed up over poor network, villagers tie technician with mobile tower](https://timesofindia.indiatimes.com/city/allahabad/watch-fed-up-over-poor-network-villagers-tie-technician-with-mobile-tower/articleshow/134049733.cms)
+- [Mathematicians around the world are very angry with Sam Altman's OpenAI](https://timesofindia.indiatimes.com/technology/tech-news/mathematicians-around-the-world-are-very-angry-with-sam-altmans-openai-making-the-company-leave-/articleshow/134051490.cms)
+- ['Promised to boost followers': Delhi influencer 'raped' by ASI’s associate](https://timesofindia.indiatimes.com/city/patna/delhi-woman-alleges-rape-by-asis-associate-extortion-ssb-launches-inquiry/articleshow/134024234.cms)
+- ['He shouldn't be here': Nasser Hussain bashes Pakistan with Sehwag example](https://timesofindia.indiatimes.com/sports/cricket/news/he-shouldnt-be-here-nasser-hussain-bashes-pakistan-with-virender-sehwag-example/articleshow/134047979.cms)
+- [Shopping online? From January, you'll see the discount margin](https://timesofindia.indiatimes.com/business/india-business/shopping-online-from-january-youll-see-the-discount-margin/articleshow/134029680.cms)
 - [1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-5-chatgpt-prompts-to-create-kerala-style-retro-images/articleshow/133999924.cms)
-- [Saudi crown prince allegedly asked Trump to hit Houthis; US president declined: Report](https://timesofindia.indiatimes.com/world/us/saudi-crown-prince-allegedly-asked-trump-to-hit-houthis-us-president-declined-report/articleshow/134050591.cms)
 
 **NDTV**
 - [India's Journey From "Least Attractive" To One Of Most Reliable BRICS Members](https://www.ndtv.com/world-news/indias-journey-from-least-attractive-to-one-of-most-reliable-brics-members-12032099#publisher=newsstand)
@@ -38,6 +38,9 @@
 - [Sexually Harassed By Teacher, Class 10 Girl Dies By Suicide In Tamil Nadu](https://www.ndtv.com/india-news/sexually-harassed-by-teacher-class-10-girl-dies-by-suicide-in-tamil-nadu-12031898#publisher=newsstand)
 
 **Hindustan Times**
+- [Delhi weather alert: Rain, thunderstorms likely across city in next 4 hours](https://www.hindustantimes.com/india-news/delhi-weather-alert-rain-thunderstorms-likely-across-city-in-next-4-hours-noida-ncr-gurgaon-101789114091245.html)
+- [MP hooch tragedy: Prime accused arrested after encounter in Sagar](https://www.hindustantimes.com/india-news/mp-hooch-tragedy-prime-accused-arrested-after-encounter-in-sagar-101789113548766.html)
+- [Jantar Mantar protest not true picture of country's next generation, says Keralam Guv](https://www.hindustantimes.com/india-news/jantar-mantar-protest-not-true-picture-of-country-s-next-generation-says-keralam-guv-101789113187188.html)
 - [Tragedy that Manipuri musician was attacked because of where he was from: Rahul Gandhi](https://www.hindustantimes.com/india-news/tragedy-that-manipuri-musician-was-attacked-because-of-where-he-was-from-rahul-gandhi-chongtham-vikram-singh-101789095495638.html)
 - [‘Rarest of rare’: Chhattisgarh man sentenced to death for raping, killing girl](https://www.hindustantimes.com/india-news/rarest-of-rare-chhattisgarh-man-sentenced-to-death-for-raping-killing-girl-101789111087850.html)
 - [SC ask FSSAI for clarifications on 'nutrients of concern' labels](https://www.hindustantimes.com/india-news/sc-ask-fssai-for-clarifications-on-nutrients-of-concern-labels-101789110905920.html)
@@ -45,35 +48,23 @@
 - [Multi-coloured Lotus with a ‘Namaste’ nested inside: What BRICS India logo means](https://www.hindustantimes.com/india-news/multicoloured-lotus-with-a-namaste-nested-inside-what-brics-india-logo-means-101789106829442.html)
 - [‘Should Kashmiris be jailed?’ Omar Abdullah's sharp reply to Congress amid Vande Mataram row](https://www.hindustantimes.com/india-news/omar-abdullah-congress-vande-mataram-jammu-and-kashmir-political-row-101789108507455.html)
 - [IRCTC records highest 1-day booking of over 2mn tickets ahead of festive season](https://www.hindustantimes.com/india-news/irctc-records-highest-1-day-booking-of-over-2mn-tickets-ahead-of-festive-season-101789108688170.html)
-- [Dog walking in stadium; SC stays Delhi HC order asking Centre to reinstate IAS officer](https://www.hindustantimes.com/india-news/dog-walking-in-stadium-sc-stays-delhi-hc-order-asking-centre-to-reinstate-ias-officer-101789108628159.html)
-- [India at forefront of fight against terror: PM Modi remembers 9/11 victims](https://www.hindustantimes.com/india-news/india-at-forefront-of-fight-against-terror-pm-modi-remembers-us-9-11-attack-victims-101789107799511.html)
-- [Andhra govt on alert as low-pressure to bring heavy rain](https://www.hindustantimes.com/india-news/andhra-govt-on-alert-as-low-pressure-to-bring-heavy-rain-101789108071774.html)
 
-**Vijay Karnataka**
-- [ಕ್ರಿಪ್ಟೋ ಕರೆನ್ಸಿ ಹೂಡಿಕೆಯ ನಕಲಿ ಲಾಭದ ಆಮಿಷಕ್ಕೆ ಸೈಬರ್ ವಂಚಕರ ಬಲೆಗೆ ಬಿದ್ದು ₹4.47 ಕೋಟಿ ಕಳೆದುಕೊಂಡ ವೈದ್ಯ!](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-doctor-loses-4-47-crs-in-cryptocurrency-investment-scam-fall-victicm-of-cyber-fraud/articleshow/134051601.cms)
-- [ಚೌತಿಯ ವಿಶೇಷ ದಿನವಾದ ಗಣೇಶ ಚತುರ್ಥಿಗೆ ಗಣೇಶನನ್ನು ಸ್ತುತಿಸುವ ಬಗೆ ಹೇಗೆ? ಹಾಡು ಹಳತು ಭಾವ ನವೀನ 153](https://vijaykarnataka.com/edit-oped/columns/ganesha-devotional-song-by-shri-vadiraja-explained-in-srinath-bhalle-column-in-haadu-halathu-bhaava-naveen-part-153/articleshow/134052481.cms)
-- [80s AI Photo Trend-ಸೋಶಿಯಲ್‌ ಮೀಡಿಯಾದಲ್ಲಿ ರೆಟ್ರೋ ಲುಕ್‌ ಕ್ರೇಜ್‌! ನಿಮ್ಮ ಫೋಟೋಗೂ ವಿಂಟೇಜ್‌ ‌ಟಚ್ ನೀಡೋದು ಹೇಗೆ?](https://vijaykarnataka.com/news/india/explainer-what-is-viral-chatgpt-80s-photo-trend-heres-how-you-can-add-vintage-touch-to-your-photos-with-ai-prompts/articleshow/134044231.cms)
-- [ಹೆಲ್ಮೆಟ್‌ನ ಕೆಟ್ಟ ವಾಸನೆ ಹೋಗಿಸಲು ಬೇಕಿಂಗ್ ಸೋಡಾ ಬಳಸಿ: ಸುರಕ್ಷಿತ ಕ್ಲೀನಿಂಗ್ ವಿಧಾನ](https://vijaykarnataka.com/lifestyle/home-decor/can-baking-soda-remove-bad-odour-from-a-helmet-know-how-to-clean-it-safely/articleshow/134048391.cms)
-- [ರೇಣುಕಾಸ್ವಾಮಿ ಪ್ರಕರಣ, ಮಾಫಿ ಸಾಕ್ಷಿಯಿಂದ ದರ್ಶನ್‌ಗಾಗುವ ಲಾಭವೇನು? ಪೊಲೀಸ್‌ ಅಧಿಕಾರಿ ಬಸವರಾಜ ಮಾಲಗತ್ತಿ ಸಂದರ್ಶನ!](https://vijaykarnataka.com/news/karnataka/renukaswamy-case-darshan-update-exclusive-basavaraja-maalagatti-police-officer-interview/videoshow/134053137.cms)
-- [ಆಸಿಯಾ ಹಿಂದೆ ಬಿದ್ರಾ ಧನುಷ್? ʻಬಿಗ್‌ ಬಾಸ್‌ʼನಲ್ಲಿ ಹೊಸ ಲವ್‌ ಟ್ರ್ಯಾಕ್ ಮುನ್ಸೂಚನೆ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-dhanush-asiya-fans-speculate/articleshow/134053360.cms)
-- [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
-- [ಪವಮಾನ ಜಗದ ಪ್ರಾಣ ಸಂಕರುಷಣ| Pavamana Jagada Prana Lyrics In Kannada](https://vijaykarnataka.com/religion/pooja-vidhana/pavamana-jagada-prana-lyrics-in-kannada/articleshow/134051686.cms)
-- [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
-- [ಇಡಿ ದಾಳಿಯ ಬೆನ್ನಲ್ಲೇ ಕಾಂಗ್ರೆಸ್ ನಾಯಕರು ಆಕ್ಟೀವ್: ಸತೀಶ್ ಜಾರಕಿಹೊಳಿ ಬೆನ್ನಿಗೆ ನಿಂತ ಡಿಕೆಶಿ, ತಡ ರಾತ್ರಿ ಮಾತುಕತೆ](https://vijaykarnataka.com/news/karnataka/dk-shivakumar-meets-with-satish-jarkiholi-late-night-discussed-on-ed-raid/articleshow/134051258.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
-- [Velankanni Basilica to remain open 24 hours from October 3](https://www.thehindu.com/news/national/tamil-nadu/velankanni-basilica-to-remain-open-24-hours-from-october-3/article71453386.ece)
-- [Rajasthan civic polls: EVM glitches disrupt voting at some booths in final phase](https://www.thehindu.com/news/national/rajasthan/rajasthan-civic-polls-evm-glitches-disrupt-voting-at-some-booths-in-final-phase/article71455076.ece)
+- [Telangana Assembly Monsoon Session LIVE Sept 11: IT Minister responds to concerns over electricity requirement at data centres](https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-day-five-congress-brs-key-issues-discussion-live-updates-september-11-2026/article71454701.ece)
+- [Keralam’s Muttil tree-felling cheating case: trial court postpones framing of charges to September 19](https://www.thehindu.com/news/national/kerala/keralams-muttil-tree-felling-cheating-case-trial-court-postpones-framing-of-charges-to-september-19/article71455261.ece)
 - [BRICS Summit 2026 LIVE updates: Iran President Pezeshkian leaves Tehran for India, set to meet PM Modi](https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece)
-- [What does the newly passed inter-university transfer Bill mean for teachers in West Bengal? | Explained](https://www.thehindu.com/news/national/west-bengal/west-bengal-passes-bill-on-inter-university-transfer-of-teachers-explained/article71454874.ece)
-- [Bank strike shuts branches in Vizianagaram; no services till September 15](https://www.thehindu.com/news/cities/Visakhapatnam/bank-strike-shuts-branches-in-vizianagaram-no-services-till-september-15/article71454740.ece)
-- [Telangana Assembly Monsoon Session LIVE Sept 11: Question hour begins with discussion on IT hubs in tier-II cities](https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-day-five-congress-brs-key-issues-discussion-live-updates-september-11-2026/article71454701.ece)
+- [BRICS nations should link payment systems, trade in local currencies: Piyush Goyal at BRICS Business Forum](https://www.thehindu.com/business/Economy/brics-nations-should-link-payment-systems-trade-in-local-currencies-piyush-goyal-at-brics-business-forum/article71455149.ece)
 - [Now, JD(U) working president calls for party to be renamed ‘Janata Dal-Nitish’](https://www.thehindu.com/news/national/bihar/now-jdu-working-president-calls-for-party-to-be-renamed-janata-dal-nitish/article71451720.ece)
-- [Sonia Gandhi’s ‘Belonging’: From being shelved to the shelves](https://www.thehindu.com/books/articles-on-sonia-gandhi-book-belonging/article71450926.ece)
-- [55 CCTV cameras checked, black SUV key to Odisha orangutan probe](https://www.thehindu.com/news/national/odisha/55-cctv-cameras-checked-black-suv-key-to-odisha-orangutan-probe/article71455197.ece)
-- [Jharkhand High Court sets two month deadline for government to appoint JPSC Chairman, members](https://www.thehindu.com/news/national/jharkhand/jharkhand-high-court-sets-two-month-deadline-for-government-to-appoint-jpsc-chairman-members/article71455044.ece)
+- [As Xi Jinping heads to India, China calls for ‘strategic’ and ‘long-term’ view of ties](https://www.thehindu.com/news/international/as-xi-heads-to-india-china-calls-for-strategic-and-long-term-view-of-ties/article71455301.ece)
+- [Wild gaur attacks motorist in Keralam’s Kozhikode](https://www.thehindu.com/news/national/kerala/wild-gaur-attacks-motorist-in-keralams-kozhikode/article71455186.ece)
+- [Music therapy to soothe ‘distressed’ orangutans found far from their habitat](https://www.thehindu.com/news/national/odisha/music-therapy-to-soothe-distressed-orangutans-found-far-from-their-habitat/article71451556.ece)
+- [Congress: Modi government sets new prorogation delay record, eyes ‘super-tainted’ 2/3rd majority](https://www.thehindu.com/news/national/congress-modi-government-sets-new-prorogation-delay-record-eyes-super-tainted-23rd-majority/article71454918.ece)
+- [Main accused in Madhya Pradesh hooch tragedy held after encounter in Sagar: Police](https://www.thehindu.com/news/national/madhya-pradesh/main-accused-in-madhya-pradesh-hooch-tragedy-held-after-encounter-in-sagar-police/article71454875.ece)
 
 **Livemint**
+- [India calls for freer trade, easier movement of skilled workers within Brics](https://www.livemint.com/news/india/india-calls-for-freer-trade-easier-movement-of-skilled-workers-within-brics-11789111008261.html)
 - [Bank strike today: Why are unions holding nationwide protest, what are their demands | Explained](https://www.livemint.com/news/india/bank-strike-today-why-are-unions-holding-nationwide-protest-what-are-their-demands-explained-11789111110795.html)
 - [Mint explainer: what is the new PACT under Niti Aayog’s e-truck plan?](https://www.livemint.com/news/electric-trucks-e-trucks-pact-niti-aayog-e-fast-india-electric-mobility-diesel-trucks-ev-charging-pm-edrive-11789097497702.html)
 - ['This strike is forced on us': Bank services hit as unions demand 5-day workweek](https://www.livemint.com/news/india/this-strike-is-forced-on-us-bank-services-hit-as-unions-demand-5-day-workweek-11789109527333.html)
@@ -83,19 +74,8 @@
 - [ChatGPT prompt for photo editing: Want Kerala-style retro images from 1960s, 70s, 80s and 90s? Try these five ideas](https://www.livemint.com/news/trends/chatgpt-prompt-for-photo-editing-want-kerala-style-retro-images-from-1960s-70s-80s-and-90s-try-these-five-ideas-11789102967050.html)
 - [‘It’s a murder done by the system': CJP founder Abhijeet Dipke on MPSC aspirant Prathamesh Deshmukh's suicide](https://www.livemint.com/news/india/its-a-murder-by-system-cjp-founder-abhijeet-dipke-on-mpsc-aspirant-prathamesh-deshmukhs-suicide-11789102797417.html)
 - [BRICS Summit: AAI announces airspace restrictions; non-scheduled flights barred from 11-13 Sept at Delhi's IGI airport](https://www.livemint.com/news/india/brics-summit-aai-announces-airspace-restrictions-non-scheduled-flights-barred-from-11-13-sept-at-delhis-igi-airport-11789101625115.html)
-- [IB flags China, Russia-linked protests; security tightened across Delhi ahead of BRICS Summit: Report](https://www.livemint.com/news/india/ib-flags-china-russia-linked-protests-security-tightened-across-delhi-ahead-of-brics-summit-report-11789100642012.html)
 
-**Moneycontrol**
-- [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
-- [Buy Tejas Networks; target of Rs 1100: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html)
-- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html)
-- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html)
-- [Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html)
-- [Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html)
-- [Reduce Wipro; target of Rs 410: ICICI Securities](https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html)
-- [Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html)
-- [Buy Patel Engineering; target of Rs 80: ICICI Direct](https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html)
-- [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
+**Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
 - [ಸಿದ್ದರಾಮಯ್ಯರಿಗೆ ಅಸಮಾಧಾನವಿದ್ದಿದ್ದರೆ ರಾಜೀನಾಮೆಯನ್ನೇ ಕೊಡುತ್ತಿರಲಿಲ್ಲ: ಜಿ.ಪರಮೇಶ್ವರ್‌](https://www.varthabharati.in/state/g-parameshwar-2274427)
@@ -110,25 +90,26 @@
 - [ಕೋಝಿಕ್ಕೋಡ್ ನಲ್ಲಿ ಎ.ಪಿ. ಉಸ್ತಾದ್‌ರನ್ನು ಭೇಟಿಯಾಗಲಿರುವ ಮಲೇಷ್ಯಾ ಪ್ರಧಾನಿ ಅನ್ವರ್ ಇಬ್ರಾಹೀಂ](https://www.varthabharati.in/national/malaysian-prime-minister-anwar-ibrahim-to-meet-indian-grand-mufti-ap-ustad-2274407)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Delhi (5.8)
-- BRICS Summit (5.0)
-- Emkay Global Financial (5.0)
-- BRICS (4.3)
-- Bank (4.2)
-- India (3.5)
-- What (3.2)
-- ICICI Securities (3.0)
-- target (3.0)
-- Odisha (2.9)
-- Houthis (2.6)
+- BRICS (5.6)
+- Delhi (5.5)
+- India (4.8)
+- BRICS Summit (4.0)
+- Keralam (2.9)
+- Brics (2.6)
 - ChatGPT (2.6)
-- Report (2.6)
 - Opinion (2.6)
+- Sagar (2.6)
+- Congress (2.6)
 - IRCTC (2.6)
+- Bank (2.6)
+- What (1.9)
+- LIVE (1.9)
+- Modi (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [Vande row: Do they want Kashmiris in jail? J&K CM Omar Abdullah hits back at Congress](https://timesofindia.indiatimes.com/india/does-congress-want-to-jail-kashmiris-omar-abdullah-on-vande-mataram-row/articleshow/134028697.cms)
 - ['80 Photo Trend: ট্রেন্ডে ৮০- র দশকের রেট্রো লুক, কীভাবে বানাবেন আপনার ছবি, কী কী প্রম্পট দেবেন ChatGPT- কে?](https://bengali.abplive.com/technology/1980s-ai-photo-trend-how-to-make-your-own-stylish-and-unique-retro-ai-picture-know-some-steps-and-prompts-1192376)
 - [Womens Asia Cup 2026: షఫాలీ మెరుపులతో ఫైనల్‌కు భారత్‌](https://www.sakshi.com/telugu-news/sports/india-womens-asia-cup-final-2899758)
 - [బాబ్‌ అల్‌ మండేబ్‌ వైపు హౌతీ దళాలు](https://www.ntnews.com/international/houthis-advance-toward-bab-al-mandab-after-seizing-yemen-key-port-city-2507908)
@@ -138,7 +119,6 @@
 - [Aaj ka Love Rashifal 11 September 2026: कुंभ राशि वालों के जीवन में खुशियां आएंगी, जानें अन्य राशियों का हाल](https://www.aajtak.in/religion/rashiphal/story/love-horoscope-today-11-september-2026-aaj-ka-love-rashifal-all-zodiac-signs-predictions-in-hindi-dskc-2640256-2026-09-11)
 - [గెలిపిస్తే 5 వేల డాలర్లు ఇస్తా : ట్రంప్ ఎన్నికల హామీ](https://prajasakti.com/latest-news/international-news/i-will-give-yours-47-lakhs-if-i-win-trumps-election-promise)
 - [Big Boss Bangla: ভাঙল পাত্র, হাতাহাতি হওয়ার পরিস্থিতি! নন্দিনী-সৃজলাকে সমর্থন করতে গিয়ে গোটা হাউজেরই বিপক্ষে চলে গেলেন একজন?](https://bengali.abplive.com/entertainment/task-controversy-in-big-boss-house-bangla-nandini-and-rajveer-dey-against-house-entertainment-news-tollywood-1192366)
-- [Aizawl, Sep 10 (UNI) Mizoram has the highest H…](https://www.uniindia.com/east-india/health-mizoram-hiv-prevalence/175775)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
