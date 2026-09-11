@@ -1,20 +1,20 @@
-# India Trending Report — 2026-09-10 23:32:07
+# India Trending Report — 2026-09-11 00:02:33
 
 ## Google Trends (India) — top trending searches
-1. [aryna sabalenka](https://trends.google.com/trending/rss?geo=IN)
-2. [nfl](https://trends.google.com/trending/rss?geo=IN)
+1. [ट्रैक्टर](https://trends.google.com/trending/rss?geo=IN)
+2. [aryna sabalenka](https://trends.google.com/trending/rss?geo=IN)
 3. [கனமழை](https://trends.google.com/trending/rss?geo=IN)
 4. [cpl 2026](https://trends.google.com/trending/rss?geo=IN)
-5. [oppo coloros 17](https://trends.google.com/trending/rss?geo=IN)
-6. [shailene woodley](https://trends.google.com/trending/rss?geo=IN)
-7. [como 1907 vs rb leipzig standings](https://trends.google.com/trending/rss?geo=IN)
-8. [alphonso davies](https://trends.google.com/trending/rss?geo=IN)
-9. [harry kane](https://trends.google.com/trending/rss?geo=IN)
-10. [skip](https://trends.google.com/trending/rss?geo=IN)
+5. [picture](https://trends.google.com/trending/rss?geo=IN)
+6. [oppo coloros 17](https://trends.google.com/trending/rss?geo=IN)
+7. [shailene woodley](https://trends.google.com/trending/rss?geo=IN)
+8. [como 1907 vs rb leipzig standings](https://trends.google.com/trending/rss?geo=IN)
+9. [ssc cpo notification 2026](https://trends.google.com/trending/rss?geo=IN)
+10. [alphonso davies](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Putin lands in Delhi ahead for Brics Summit, to meet PM Modi](https://timesofindia.indiatimes.com/india/russia-president-vladimir-putin-arrives-in-india-ahead-of-brics-summit-2026-to-meet-pm-modi/articleshow/134031374.cms)
+- [Putin lands in Delhi for Brics Summit, to meet PM Modi today](https://timesofindia.indiatimes.com/india/russia-president-vladimir-putin-arrives-in-india-ahead-of-brics-summit-2026-to-meet-pm-modi/articleshow/134031374.cms)
 - [India adds 30 new nuclear warheads, total at 190: US Study](https://timesofindia.indiatimes.com/defence/news/india-may-have-produced-enough-plutonium-for-140-to-225-nukes-might-have-assembled-up-to-190-warheads-us-study/articleshow/134023612.cms)
 - [Houthis seize Yemen's strategic Red Sea port city of Mokha from Saudi-backed forces](https://timesofindia.indiatimes.com/world/middle-east/houthis-seize-yemens-strategic-red-sea-port-city-of-mokha-from-saudi-backed-forces/articleshow/134025249.cms)
 - [Why iPhones are so expensive in India again](https://timesofindia.indiatimes.com/technology/tech-news/why-iphones-are-so-expensive-in-india-again/articleshow/134014478.cms)
@@ -22,7 +22,7 @@
 - [1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-5-chatgpt-prompts-to-create-kerala-style-retro-images/articleshow/133999924.cms)
 - [Deadly plot by ‘killer bahu’: Kanpur bizman sensed danger, but ended up with 26 stab wounds](https://timesofindia.indiatimes.com/city/kanpur/killer-bahus-deadly-game-kanpur-bizmen-sensed-danger-but-ended-up-with-26-stab-wounds-and-a-slit-throat/articleshow/134011762.cms)
 - [Retro looks, current jibes: Netas give '80s a new spin](https://timesofindia.indiatimes.com/india/retro-looks-current-jibes-netas-give-80s-a-new-spin/articleshow/134035296.cms)
-- [DNA main hope for identity, but backlog overwhelms Nepal forensic labs](https://timesofindia.indiatimes.com/world/south-asia/dna-main-hope-for-identity-but-backlog-overwhelms-nepal-forensic-labs/articleshow/134035044.cms)
+- ['Spider-Man: Brand New Day' to become first $1bn US box office film](https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-to-become-highest-grossing-movie-in-us-box-office-history-tom-holland-starrer-to-become-first-film-to-earn-usd-1-billion-in-america/articleshow/134034563.cms)
 - [22-year-old pleads guilty in US' biggest Bitcoin theft; spent millions on cars & more](https://timesofindia.indiatimes.com/technology/tech-news/22-year-old-school-dropout-pleads-guilty-in-americas-largest-bitcoin-robbery-posed-as-google-and-gemini-executives-spent-millions-on-sports-cars-night-clubs-and-mansions/articleshow/134008280.cms)
 
 **NDTV**
@@ -49,17 +49,7 @@
 - ['Seems like an ex-girlfriend': Raghav Chadha counters AAP's Delhi voter roll allegations with 'heartbroken lover' jibe](https://www.hindustantimes.com/india-news/seems-like-an-ex-girlfriend-raghav-chadha-counters-aaps-delhi-voter-roll-allegations-with-heartbroken-lover-jibe-101789053136332.html)
 - [Heavy vehicles banned on Mumbai-Goa highway during Ganeshotsav](https://www.hindustantimes.com/india-news/heavy-vehicles-banned-on-mumbai-goa-highway-during-ganeshotsav-101789055065816.html)
 
-**Vijay Karnataka**
-- [ಕರ್ನಾಟಕದಲ್ಲಿ ಎರಡೇ ಚರಣದ ವಂದೇ ಮಾತರಂ ಕಡ್ಡಾಯ; 3 ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ ಮಾತ್ರ ಪೂರ್ಣ ಗೀತೆ - ಸರ್ಕಾರ ಆದೇಶ](https://vijaykarnataka.com/news/karnataka/only-the-2-stanza-version-of-vande-mataram-is-mandatory-in-karnataka-full-song-required-only-for-3-events-government-order/articleshow/134018671.cms)
-- [Womens Asia Cup 2026- ಶಫಾಲಿ ವರ್ಮಾ ಬಿರುಗಾಳಿ ಬ್ಯಾಟಿಂಗ್ ಗೆ ಬಾಂಗ್ಲಾ ತತ್ತರ; ಸತತ 10ನೇ ಬಾರಿ ಫೈನಲ್ ಗೇರಿದ ಭಾರತ](https://vijaykarnataka.com/sports/cricket/news/womens-asia-cup-2026-shafali-verma-half-century-india-beat-bangladesh-enters-final/articleshow/134022744.cms)
-- [ಆನ್ ಲೈನ್ ಗ್ರಾಹಕರ ಹಿತರಕ್ಷಣೆಗಾಗಿ ಮಹತ್ವದ ಕ್ರಮ, ಬಿಗಿಯಾಗಲಿದೆ ಇ ಕಾಮರ್ಸ್‌ ನಿಯಮ!: ಇಲ್ಲಿದೆ ಸಂಪೂರ್ಣ ಮಾಹಿತಿ](https://vijaykarnataka.com/business/news/to-protect-online-consumers-e-commerce-rules-to-be-tightened/articleshow/134020845.cms)
-- [ಸ್ಲಿಮ್ ಆಗಿ, ಫಿಟ್ ಆಗಿದ್ದರೂ ಹೃದಯಾಘಾತದ ಅಪಾಯವಿದೆಯೇ? ವೈದ್ಯರ ಮಹತ್ವದ ಸಲಹೆ](https://vijaykarnataka.com/lifestyle/health/world-heart-day-2026-can-fit-thin-people-have-heart-disease/articleshow/134005577.cms)
-- [ಡಿಕೆಶಿ ಸರಕಾರಕ್ಕೆ ಶತದಿನ ಸಮಾರಂಭದ ಮಧ್ಯದಲ್ಲೇ ಸಿದ್ದರಾಮಯ್ಯ ನಿರ್ಗಮನ: ಕಾಲಿಗೆ ನಮಸ್ಕರಿಸಿ ಬೀಳ್ಕೊಟ್ಟ ಡಿಕೆ ಶಿವಕುಮಾರ್](https://vijaykarnataka.com/news/karnataka/cm-dk-shivakumar-bowed-at-siddaramaiahs-feet-and-bid-farewell/articleshow/134019248.cms)
-- [ಮೇಗಾ ಫ್ಯಾಮಿಲಿ ಮೊಮ್ಮಗು ಹೇಗಿದೆ? ಮಗು ಫೋಟೋ ರಿವೀಲ್‌ ಮಾಡಿದ ತೆಲುಗು ಸ್ಟಾರ್ ಜೋಡಿ ಲಾವಣ್ಯ-ವರುಣ್‌!](https://vijaykarnataka.com/entertainment/news/how-is-the-mega-familys-grandchild-telugu-star-couple-lavanya-tripathi-and-varun-tej-reveal-the-babys-photo/articleshow/134027437.cms)
-- [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
-- [2026ರ ಬೆನಕನ ಅಮಾವಾಸ್ಯೆ: ಶುಭ ಮುಹೂರ್ತ, ಪೂಜೆ ವಿಧಾನ, ಮಂತ್ರ ಮತ್ತು ಮಹತ್ವ.!](https://vijaykarnataka.com/religion/festivals/pithori-amavasya-2026-or-benakana-amavasya-date-and-time-amavasya-puja-procedure-amavasya-mantras-and-its-importance/articleshow/134009922.cms)
-- [ಮೈದಾ ಇಲ್ಲದ ಗೋಧಿ ಹಿಟ್ಟು-ಖೋವಾ ಮೋದಕ; ಗಣೇಶ ಚತುರ್ಥಿಗೆ ಸುಲಭ ರೆಸಿಪಿ](https://vijaykarnataka.com/lifestyle/home-decor/atta-mawa-modak-recipe-ganesh-chaturthi/articleshow/134002088.cms)
-- [ಮಲ್ಟಿಪ್ಲೆಕ್ಸ್ ಫಿಲಂ ಟೆಕೆಟ್‌ ಮೇಲಿನ ಸೆಸ್‌: ರಾಜ್ಯ ಸರಕಾರದ ಆದೇಶ ರದ್ದುಪಡಿಸಿದ ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್](https://vijaykarnataka.com/news/karnataka/cess-on-multiplex-film-ticket-karnataka-high-court-cancels-state-government-order/articleshow/134017440.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
 - [Bihar Congress disciplinary committee issues show-cause notices to 29 leaders](https://www.thehindu.com/news/national/bihar/bihar-congress-disciplinary-committee-issues-show-cause-notices-to-29-leaders/article71452130.ece)
@@ -119,16 +109,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [திமுக பாக அமைப்பாளரை வெட்டிச்சாய்த்த பண வெறி இளைஞரணி பிரமுகர் கைது..! எஸ்.ஐ. சட்டையை பிடித்த தாய்..!](https://www.polimernews.com/districtnews/money-driven-youth-wing-functionary-arrested-for-hacking-dmk-booth-organizer-to-death-mother-grabs-sis-shirt-12515464)
-- [BRICS સમિટ: 7 વર્ષ બાદ ભારત આવશે શી જિનપિંગ; પુતિન-પેઝેશ્કિયાન પણ બનશે મહેમાન, 30 હજાર જવાનો ખડેપગે](https://www.gujaratsamachar.com/news/international/xi-jinping-india-visit-brics-summit-delhi-modi-bilateral-talks-security-79568583706)
-- [Babar Azam: படுமோசமாக பேட் செய்யும் பாபர் அசாம்.. பரிதாப நிலையில் பாகிஸ்தானின் ஜாம்பவான்! மீண்டு வருவாரா?](https://tamil.abplive.com/sports/cricket/pak-vs-eng-3rd-test-babar-azam-worst-batting-last-10-test-innnings-274137)
-- [know about power restrictions in advance വൈദ്യുതി നിയന്ത്രണം ഇനി മുൻകൂട്ടി അറിയാം](https://www.asianetnews.com/kerala-news/power-restrictions-can-now-be-known-in-advance-articleshow-97lo208)
-- [અમદાવાદ:'નોરતા નગરી' ગરબામાં ₹8-10 કરોડનું ટિકિટ કૌભાંડ!, 4 શખસો સામે નોંધાઈ ફરિયાદ](https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-ticket-scam-worth-indian-rupee8-10-crore-in-norta-nagri-garba-complaint-filed-against-4-persons-in-sarkhej-police-67437133103)
-- [ઈરાન સંઘર્ષ વચ્ચે વધુ એક મોટું સંકટ! મોચા શહેર પર હૂતીઓનો કબજો, સાઉદી સરહદે ભીષણ અથડામણ](https://www.gujaratsamachar.com/news/international/another-major-crisis-amid-iran-conflict-houthis-capture-mocha-city-fierce-clashes-on-saudi-border-83158434139)
-- [RS Praveen Kumar | స్పీకర్‌ను ఎమ్మెల్సీ తాతా మధు తిట్టలేదనే పోలీస్‌ రిపోర్ట్‌ చెబుతోంది : ఆర్‌ఎస్ ప్రవీణ్‌ కుమార్‌](https://www.ntnews.com/hyderabad/police-report-saying-mlc-tata-madhu-doesnot-scold-sayd-rs-praveen-kumar-2507518)
-- [A. R. Rahman | মাত্র ৩ সপ্তাহে অস্কারজয়ী সুর! ‘স্লামডগ মিলিয়নিয়ার’ নিয়ে অজানা তথ্য ফাঁস করলেন এ আর রহমান](https://uttarbangasambad.com/a-r-rahman-ar-rahman-danny-boyle-slumdog-millionaire-secrets/)
-- [பிரதமர் மோடியின் ‘ராஜதந்திரம்’ - ட்ரம்ப் அதிரடிகளைத் தகர்க்கும் வியூகங்கள்!](https://www.hindutamil.in/news/world/prime-minister-narendra-modi-strategies-to-counter-donald-trump-moves)
-- [Space-based surveillance: Dhruva to get key systems worth €5m from Safran](https://timesofindia.indiatimes.com/india/space-based-surveillance-dhruva-to-get-key-systems-worth-5m-from-safran/articleshow/134006035.cms)
+- [ടീമിലെടുക്കുമ്പോൾ പാസ്‌പോർട്ടില്ല, സെലക്ടർമാർ വിളിച്ചപ്പോൾ ഫോൺ ഓഫ്, റൂട്ടിനെ വീഴ്ത്തി അരങ്ങേറ്റം](https://www.mathrubhumi.com/sports/cricket/pakistan-pacer-razaullah--debut-vs-england-ye4l6q39)
+- [रोहित शर्मा की ‘Non-Committal’ टी-शर्ट ने मचाई सनसनी, अगरकर पर निशाना? VIDEO वायरल](https://www.aajtak.in/sports/cricket/story/rohit-sharma-non-committal-tshirt-ajit-agarkar-memes-tv-debut-video-viral-tspok-dskc-2640077-2026-09-10)
+- [Drishyam 3 Malayalam Review: बच गए अजय देवगन! मोहनलाल की 'दृश्यम' में नहीं दम, थ्रिल गायब, बस भरी बोरियत](https://www.aajtak.in/entertainment/south-movies/story/drishyam-3-malayalam-review-no-thrill-weak-screenplay-led-disaster-mohanlal-ajay-devgn-smart-move-tmovh-dskc-2640279-2026-09-10)
+- [ఖరీదైన విడాకులు.. మాజీ భార్యకు రూ.18 వేలకోట్లు!](https://www.sakshi.com/telugu-news/business/south-korean-tycoon-ordered-pay-ex-wife-1-87-billion-dollars-record-divorce)
+- [নতুন বিতর্কে তারা সুতারিয়া, মেজাজ হারিয়ে কী করলেন?](https://www.aaroananda.com/story/entertainment-news/in-focus/tara-sutaria-faces-backlash-over-toxic-movie-and-paparazzi/11018920)
+- [സൗദി-ഹൂതി സംഘർഷം രൂക്ഷം; യെമൻ്റെ ചെങ്കടൽ തീരപ്രദേശങ്ങൾ ലക്ഷ്യമിട്ട് ഹൂതികൾ മുന്നേറുന്നതായി റിപ്പോ‍ർട്ട്](https://www.reporterlive.com/topnews/international/2026/09/10/saudi-houthi-conflict-escalates-as-houthis-advance-toward-yemen-red-sea-coast)
+- ['തിമിര ശസ്ത്രക്രിയക്കിടെ ലെൻസ് ഉള്ളിലേക്ക് ആഴ്ന്ന് പോയി'; ആലപ്പുഴ മെഡിക്കൽ കോളേജ് ആശുപത്രിക്കെതിരെ ചികിത്സാ പിഴവ് ആരോപണം](https://www.asianetnews.com/kerala-news/lens-slipped-inside-during-cataract-surgery-allegation-of-medical-negligence-against-alappuzha-medical-college-hospital-articleshow-4f1oq5t)
+- [జగన్ బీజేపీని కూడా టార్గెట్ చేస్తున్నారండోయ్…](https://telugu.gulte.com/political-news/154026/unexpected-jagan-fires-on-bjp)
+- [ஸ்கோலாஸ் மாநாடு: செயற்கை நுண்ணறிவு விடுதலை அளிக்க வேண்டும், அடிமைப்படுத்தக் கூடாது](https://www.vaticannews.va/ta/church/news/2026-09/scholas-congress-artificial-intelligence-must-liberate-not-ensl.html)
+- [നീരുവന്ന് വീർത്ത് അനുമോളുടെ മുഖം; താൻ തല്ലിയതാണെന്ന് ഭർത്താവിന്‍റെ തമാശ, വിഡിയോ](https://www.metrovaartha.com/entertainment/anumol-toothache-husband-with-video)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
