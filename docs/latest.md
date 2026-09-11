@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-11 11:01:59
+# India Trending Report — 2026-09-11 11:34:28
 
 ## Google Trends (India) — top trending searches
-1. [రోహిత్ శర్మ](https://trends.google.com/trending/rss?geo=IN)
-2. [ప్రేమ](https://trends.google.com/trending/rss?geo=IN)
-3. [तिब्बत](https://trends.google.com/trending/rss?geo=IN)
-4. [लिस्टिंग](https://trends.google.com/trending/rss?geo=IN)
-5. [उम्मीदवार](https://trends.google.com/trending/rss?geo=IN)
-6. [earthquake](https://trends.google.com/trending/rss?geo=IN)
-7. [మధుమేహం](https://trends.google.com/trending/rss?geo=IN)
-8. [યોગ](https://trends.google.com/trending/rss?geo=IN)
-9. [എല് നിനോ](https://trends.google.com/trending/rss?geo=IN)
-10. [चोरी](https://trends.google.com/trending/rss?geo=IN)
+1. [pak vs eng](https://trends.google.com/trending/rss?geo=IN)
+2. [राजमार्ग](https://trends.google.com/trending/rss?geo=IN)
+3. [ott releases this week](https://trends.google.com/trending/rss?geo=IN)
+4. [2026](https://trends.google.com/trending/rss?geo=IN)
+5. [விடுதலைச் சிறுத்தைகள் கட்சி](https://trends.google.com/trending/rss?geo=IN)
+6. [संजय कुमार झा](https://trends.google.com/trending/rss?geo=IN)
+7. [thirukkural](https://trends.google.com/trending/rss?geo=IN)
+8. [pakistan national cricket team](https://trends.google.com/trending/rss?geo=IN)
+9. [ప్రేమ](https://trends.google.com/trending/rss?geo=IN)
+10. [రోహిత్ శర్మ](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Cong v Cong over Brics: Tharoor rebuffs Chidambaram, hails 'power' of summit](https://timesofindia.indiatimes.com/india/cong-v-cong-tharoor-rebuffs-chidambarams-view-on-brics-hails-summits-diplomatic-convening-power/articleshow/134060370.cms)
-- [Full list of world leaders attending Brics summit in New Delhi](https://timesofindia.indiatimes.com/india/full-list-of-world-leaders-attending-brics-summit-in-new-delhi/articleshow/134059799.cms)
-- [A quarter century after 9/11: 25 ways America's darkest day changed the world](https://timesofindia.indiatimes.com/world/us/a-quarter-century-after-9/11-25-ways-americas-darkest-day-changed-the-world/articleshow/134056547.cms)
-- [He failed JEE, gave up IIT seat; years later, Arjun Jain became IIT Bombay professor](https://timesofindia.indiatimes.com/education/news/he-failed-jee-and-gave-up-an-iit-seat-years-later-arjun-jain-worked-on-apples-self-driving-technology-built-ai-for-mercedes-and-became-an-iit-bombay-professor/articleshow/134054384.cms)
+- [PM Modi's special gift to Putin comes with a Tamil connection](https://timesofindia.indiatimes.com/india/brics-summit-pm-modi-gifts-putin-russian-translation-of-thirukkural/articleshow/134061866.cms)
+- [Cong vs Cong over Brics: Tharoor rebuffs Chidambaram, hails 'power' of summit](https://timesofindia.indiatimes.com/india/cong-v-cong-tharoor-rebuffs-chidambarams-view-on-brics-hails-summits-diplomatic-convening-power/articleshow/134060370.cms)
+- ['Double-edged sword': Sitharaman flags AI risks, urges efficiency without fragility](https://timesofindia.indiatimes.com/business/india-business/ai-a-double-edged-sword-fm-sitharaman-flags-innovation-risks-urges-efficiency-without-fragility/articleshow/134061412.cms)
+- [EPFO delayed retiree’s Rs 14.06 lakh PF claim by 35 days; court orders 6% interest](https://timesofindia.indiatimes.com/business/india-business/epfo-delayed-a-retirees-rs-14-06-lakh-pf-claim-by-35-days-citing-a-missing-document-consumer-court-rejects-defence-and-orders-6-interest/articleshow/134057397.cms)
 - [Countries where you can buy iPhone 18 Pro and iPhone 18 Pro Max cheaper than India](https://timesofindia.indiatimes.com/technology/tech-news/countries-where-you-can-buy-iphone-18-pro-and-iphone-18-pro-max-cheaper-than-india/articleshow/134056504.cms)
-- [Red alert in Delhi after heavy rain lashes parts of city](https://timesofindia.indiatimes.com/city/delhi/red-alert-in-delhi-after-heavy-rain-lashes-parts-of-city/articleshow/134056494.cms)
-- [UPI now dominates merchant payments: Are cards becoming less useful?](https://timesofindia.indiatimes.com/business/india-business/upi-now-dominates-merchant-payments-are-cards-becoming-less-useful/articleshow/134059772.cms)
 - [Houthis take control of island in Bab el-Mandeb Strait; vital trade artery at risk](https://timesofindia.indiatimes.com/world/middle-east/houthis-coastal-offensive-puts-bab-el-mandeb-in-crosshairs-why-the-strait-matters/articleshow/134059263.cms)
+- [10 days, 1,981 runs, no winner: ENG vs SA Test that ended with a ship to catch](https://timesofindia.indiatimes.com/sports/cricket/news/10-days-1981-runs-no-winner-in-the-longest-ever-test-england-were-42-runs-from-victory-vs-south-africa-when-a-ship-to-home-forced-a-draw/articleshow/134061101.cms)
+- [Full list of world leaders attending Brics summit in New Delhi](https://timesofindia.indiatimes.com/india/full-list-of-world-leaders-attending-brics-summit-in-new-delhi/articleshow/134059799.cms)
 - [US government proposes removal of 60-day grace period for H-1B visa holders](https://timesofindia.indiatimes.com/technology/tech-news/us-government-proposes-removal-of-60-day-grace-period-for-h-1b-visa-holders-says-dhs-has-determined-that-removal-of-the-grace-period-restores-the-expectation-of-/articleshow/134057004.cms)
-- ['Embarrassing': Wasim Akram slams Pakistan's shocking mid-tour changes](https://timesofindia.indiatimes.com/sports/cricket/news/embarrassing-wasim-akram-slams-pakistans-shocking-mid-tour-changes/articleshow/134046752.cms)
+- [A quarter century after 9/11: 25 ways America's darkest day changed the world](https://timesofindia.indiatimes.com/world/us/a-quarter-century-after-9/11-25-ways-americas-darkest-day-changed-the-world/articleshow/134056547.cms)
 
 **NDTV**
 - ['Why Only Pune?' Court Slams Ganeshotsav Liquor Ban, Says No Law-And-Order Link](https://www.ndtv.com/india-news/why-only-pune-court-slams-ganeshotsav-liquor-ban-says-no-law-order-link-12033027#publisher=newsstand)
@@ -38,6 +38,9 @@
 - [Why Delhi Won't Ditch US Dollar And What It Means For BRICS Currency](https://www.ndtv.com/business-news/delhi-ditch-us-dollar-india-trade-deficit-what-it-means-for-brics-currency-12032461#publisher=newsstand)
 
 **Hindustan Times**
+- [Bihar’s most recognisable snacks sattu, makhana to be served at Brics Summit](https://www.hindustantimes.com/india-news/bihars-most-recognisable-snacks-sattu-makhana-to-be-served-at-brics-summit-101789124112882.html)
+- [Full emergency declared on Alliance Air's Prayagraj-Delhi flight after engine snag](https://www.hindustantimes.com/india-news/full-emergency-declared-on-alliance-airs-prayagraj-delhi-flight-after-engine-snag-101789119534070.html)
+- [Jailed Hindu monk gets 5-hour parole for mother's funeral in Bangladesh: 'Pure, unadulterated cruelty'](https://www.hindustantimes.com/india-news/jailed-hindu-monk-gets-5-hour-parole-for-mothers-funeral-in-bangladesh-pure-unadulterated-cruelty-101789122264360.html)
 - [PM Modi gifts Russian translation of ‘Thirukkural’ to President Putin at BRICS Summit](https://www.hindustantimes.com/india-news/pm-modi-gifts-russian-translation-of-tamil-classic-thirukkural-to-president-putin-at-brics-summit-2026-101789122571867.html)
 - [Watch | Putin's swanky convoy with Limousine arrives at Bharat Mandapam for key meet with Modi](https://www.hindustantimes.com/india-news/watch-putins-swanky-convoy-with-limousine-arrives-at-bharat-mandapam-for-key-meet-with-modi-101789116653357.html)
 - [Satya Niketan PG operator Shubham Tyagi surrenders in Delhi court, sent to two-day police custody](https://www.hindustantimes.com/india-news/satya-niketan-pg-operator-shubham-tyagi-surrenders-in-delhi-court-sent-to-two-day-police-custody-101789121423103.html)
@@ -45,35 +48,33 @@
 - [$100 billion trade target, nuclear, critical minerals: What Modi, Putin talks will focus on](https://www.hindustantimes.com/india-news/modiputin-meeting-in-delhi-a-mega-100-billion-trade-target-in-focus-101789121536514.html)
 - [Making AI 1980s photos? ChatGPT has a warning about your pictures](https://www.hindustantimes.com/india-news/making-ai-1980s-photos-chatgpt-gemini-has-a-warning-about-your-pictures-101789113491537.html)
 - [BJP names Debasish Sharma as candidate for Nagaon Lok Sabha bypoll in Assam](https://www.hindustantimes.com/india-news/bjp-names-debasish-sharma-as-candidate-for-nagaon-lok-sabha-bypoll-in-assam-101789120032310.html)
-- [Rajasthan civic polls: Voting underway across 147 local bodies in the state](https://www.hindustantimes.com/india-news/rajasthan-civic-polls-voting-underway-across-147-local-bodies-in-the-state-101789103828771.html)
-- [Piyush Goyal urges BRICS members to link payment systems in push for UPI](https://www.hindustantimes.com/india-news/piyush-goyal-urges-brics-members-to-link-payment-systems-in-push-for-upi-101789118905966.html)
-- [What's on Vijay's agenda during UK visit: Investment push, diaspora outreach, Silverstone tour](https://www.hindustantimes.com/india-news/whats-on-vijays-agenda-during-uk-visit-investment-push-diaspora-outreach-silverstone-tour-101789118045875.html)
 
 **Vijay Karnataka**
+- [ನರೇಂದ್ರ ಮೋದಿ-ವ್ಲಾಡಿಮಿರ್‌ ಪುಟಿನ್‌ ದ್ವಿಪಕ್ಷೀಯ ಮಾತುಕತೆ; ರಷ್ಯಾ ಅಧ್ಯಕ್ಷರಿಗೆ ತಿರುವಳ್ಳುವರ್‌ ಪುಸ್ತಕ ಗಿಫ್ಟ್‌ ನೀಡಿದ ಪ್ರಧಾನಿ](https://vijaykarnataka.com/news/india/pm-modi-presented-vladimir-putin-with-ancient-tamil-classic-thirukkural-during-bilateral-talks/articleshow/134062078.cms)
 - [ನಾಳೆಯ ಹವಾಮಾನ: ವಾರಾಂತ್ಯ 2 ದಿನ ರಾಜ್ಯದ 10 ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಮಳೆ; ಜತೆಗೆ ಇರಲಿದೆ ಬಿಸಿಲಿನ ಧಗೆ!](https://vijaykarnataka.com/news/karnataka/tomorrow-weather-rain-in-10-districts-of-the-state-over-the-weekend-september-12-13-accompanied-by-scorching-heat/articleshow/134059990.cms)
-- [ಕಾಂಗ್ರೆಸ್ ನಲ್ಲಿರುವ ಆಂತರಿಕ ಅಸಮಾಧಾನ ಸಿದ್ದರಾಮಯ್ಯ ದೆಹಲಿ ಭೇಟಿಗೆ ಕಾರಣವೇ? ಪರಮೇಶ್ವರ್ ಕೊಟ್ಟ ಸ್ಪಷ್ಟನೆ ಏನು](https://vijaykarnataka.com/news/karnataka/dr-g-parameshwar-reaction-on-siddaramaiah-delhi-visit/articleshow/134053392.cms)
 - [80s AI Photo Trend-ಸೋಶಿಯಲ್‌ ಮೀಡಿಯಾದಲ್ಲಿ ರೆಟ್ರೋ ಲುಕ್‌ ಕ್ರೇಜ್‌! ನಿಮ್ಮ ಫೋಟೋಗೂ ವಿಂಟೇಜ್‌ ‌ಟಚ್ ನೀಡೋದು ಹೇಗೆ?](https://vijaykarnataka.com/news/india/explainer-what-is-viral-chatgpt-80s-photo-trend-heres-how-you-can-add-vintage-touch-to-your-photos-with-ai-prompts/articleshow/134044231.cms)
 - [ಚಪಾತಿ ಹಿಟ್ಟು ಕೈಗೆ ಅಂಟಿಕೊಂಡಿದೆಯೇ? ಸುಲಭವಾಗಿ ತೆಗೆಯಲು ಈ ಕಿಚನ್ ಟಿಪ್ಸ್‌ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/how-to-remove-sticky-dough-from-your-hands-easily-simple-kitchen-tips/articleshow/134058299.cms)
-- [ಅಮೆರಿಕದಲ್ಲಿರೋ ಭಾರತೀಯರಿಗೆ 'ಸೆಪ್ಟೆಂಬರ್ ಶಾಕ್'! EB-1 ವೀಸಾ ಕೋಟಾ ಖಾಲಿ?!](https://vijaykarnataka.com/news/world/deadline-for-indians-in-us-september-30-eb-1-visa-quota-empty/videoshow/134061835.cms)
+- [ಕಾಂಗ್ರೆಸ್ ನಲ್ಲಿರುವ ಆಂತರಿಕ ಅಸಮಾಧಾನ ಸಿದ್ದರಾಮಯ್ಯ ದೆಹಲಿ ಭೇಟಿಗೆ ಕಾರಣವೇ? ಪರಮೇಶ್ವರ್ ಕೊಟ್ಟ ಸ್ಪಷ್ಟನೆ ಏನು](https://vijaykarnataka.com/news/karnataka/dr-g-parameshwar-reaction-on-siddaramaiah-delhi-visit/articleshow/134053392.cms)
 - [Photos: ದೋಸ್ತಾ ಹನುಮಂತನ ಊರು, ಮನೆಗೆ ಭೇಟಿ ಕೊಟ್ಟ ಧನರಾಜ್ ಆಚಾರ್!](https://vijaykarnataka.com/vk-gallery/bigg-boss/bbk-11-contestant-dhanraj-achar-visits-hanumantha-lamani-place-haveri/photoshow/134060597.cms)
 - [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
-- [2026 ಗಣೇಶ ಚತುರ್ಥಿ: ಗಣೇಶ ವಿಗ್ರಹ ಹೇಗಿರಬೇಕು.? ಪ್ರತಿಷ್ಠಾಪನೆ ವಿಧಿ, ನಿಯಮಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/ganesh-chaturthi-2026-know-which-type-of-ganesh-idol-bring-home-and-how-to-install-ganesh-idol/articleshow/134057028.cms)
+- [2026 ಗಣೇಶ ಚತುರ್ಥಿ: ಗಣೇಶನ ವಿಗ್ರಹದ ಬಳಿ ಇಡಬಾರದ ವಸ್ತುಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/ganesh-chaturthi-2026-do-not-keep-these-things-near-to-the-ganesha-idol/articleshow/134062516.cms)
 - [ರಾಖಿ ಸಾವಂತ್‍ನಿಂದ ಶ್ರೀಲೀಲಾ ತಮನ್ನಾ ಭಾಟಿಯಾ ತನಕ; 80s ರೆಟ್ರೋ ಲುಕ್‌ಗೆ ಮಾರುಹೋದ ಸೆಲೆಬ್ರಿಟಿಗಳು!!](https://vijaykarnataka.com/lifestyle/fashion/rakhi-sawant-tamannaah-bhatia-1980s-ai-photo-fashion-trend/articleshow/134053857.cms)
-- [ಬಿಜೆಪಿ ಸೇರ್ಪಡೆಗೆ ನನಗೆ ಯಾರೂ ಆಫರ್ ನೀಡಿಲ್ಲ! ಇಡಿ ದಾಳಿ ಮೂಲಕ ರಾಜಕೀಯವಾಗಿ ಕುಗ್ಗಿಸೋ ಪ್ಲ್ಯಾನ್: ಸತೀಶ್ ಜಾರಕಿಹೊಳಿ](https://vijaykarnataka.com/news/karnataka/satish-jarkiholi-reaction-on-ed-raid/articleshow/134057999.cms)
+- [ಅಮೆರಿಕದಲ್ಲಿರೋ ಭಾರತೀಯರಿಗೆ 'ಸೆಪ್ಟೆಂಬರ್ ಶಾಕ್'! EB-1 ವೀಸಾ ಕೋಟಾ ಖಾಲಿ?!](https://vijaykarnataka.com/news/world/deadline-for-indians-in-us-september-30-eb-1-visa-quota-empty/videoshow/134061835.cms)
 
 **The Hindu**
+- [Muneer’s MLA pension delayed for three months over official error](https://www.thehindu.com/news/national/kerala/muneers-mla-pension-delayed-for-three-months-over-official-error/article71455658.ece)
+- [DMK president Stalin urges PM Modi to intervene over 1,857 vacant super-speciality medical seats](https://www.thehindu.com/news/national/tamil-nadu/dmk-president-stalin-urges-pm-modi-to-intervene-over-1857-vacant-super-speciality-medical-seats/article71455290.ece)
+- [Community dialogue highlights women’s leadership in public education](https://www.thehindu.com/news/national/karnataka/community-dialogue-highlights-womens-leadership-in-public-education/article71452138.ece)
+- [BRICS Summit 2026 LIVE updates: PM Modi holds bilateral talks with Russian President Putin](https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece)
+- [Telangana Assembly Monsoon Session LIVE Sept 11: IT Minister responds to concerns over electricity requirement at data centres](https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-day-five-congress-brs-key-issues-discussion-live-updates-september-11-2026/article71454701.ece)
+- [Akbaruddin Owaisi raises concern over irregularities in fee reimbursement scheme](https://www.thehindu.com/news/national/telangana/akbaruddin-owaisi-raises-concern-over-irregularities-in-fee-reimbursement-scheme/article71455734.ece)
+- [SC seeks clear timeline for FSSAI’s food warning label rollout, calls for nutritional literacy in schools](https://www.thehindu.com/news/national/sc-seeks-clear-timeline-for-fssais-food-warning-label-rollout-calls-for-nutritional-literacy-in-schools/article71455653.ece)
+- [70% of yearly change in winter pollution in north India explained by western disturbances: Study](https://www.thehindu.com/news/national/70-of-yearly-change-in-winter-pollution-in-north-india-explained-by-western-disturbances-study/article71455674.ece)
 - [Excise arrest youth with 305.396 grams of suspected MDMA in Kochi](https://www.thehindu.com/news/national/kerala/excise-arrest-youth-with-305396-grams-of-suspected-mdma-in-kochi/article71455138.ece)
 - [Solomon Pappaiah, veteran Tamil scholar and orator, passes away at 90 in Madurai](https://www.thehindu.com/news/national/tamil-nadu/solomon-pappaiah-veteran-tamil-scholar-and-orator-passes-away-at-90-in-madurai/article71455573.ece)
-- [Telangana Assembly Monsoon Session LIVE Sept 11: IT Minister responds to concerns over electricity requirement at data centres](https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-day-five-congress-brs-key-issues-discussion-live-updates-september-11-2026/article71454701.ece)
-- [Eight transformer fuses stolen amid power cuts in Keralam's Palakkad](https://www.thehindu.com/news/national/kerala/eight-transformer-fuses-stolen-amid-power-cuts-in-keralams-palakkad/article71455716.ece)
-- [Congress leader arrested for protesting against Baba Bageshwar’s remarks in Kolkata](https://www.thehindu.com/news/national/congress-leader-arrested-for-protesting-against-baba-bageshwars-remarks-in-kolkata/article71455578.ece)
-- [Palaniswami calls TVK government’s move to build new Assembly-Secretariat complex ‘unnecessary’](https://www.thehindu.com/news/national/tamil-nadu/palaniswami-callstvk-governments-move-to-build-new-assembly-secretariat-complex-unnecessary/article71455541.ece)
-- [BRICS Summit 2026 LIVE updates: PM Modi holds bilateral talks with Russian President Putin](https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece)
-- [Telangana Municipalities Act amendments make way for co-option of transgender persons as ULB members](https://www.thehindu.com/news/national/telangana/telangana-municipalities-act-amendments-make-way-for-co-option-of-transgender-persons-as-ulb-members/article71454747.ece)
-- [Madras High Court refrains from staying Tamil Nadu government’s move to roll out digital driving licences, RCs](https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-refrains-from-staying-tamil-nadu-governments-move-to-roll-out-digital-driving-licences-rcs/article71455378.ece)
-- [Ladakh Marathon 2026: Five runners, six races, and their tips for going the distance](https://www.thehindu.com/life-and-style/fitness/ladakh-marathon-2026-five-runners-six-races-and-their-tips-for-going-the-distance/article71450105.ece)
 
 **Livemint**
+- [No touching feet, 1 km area sanitised: How safety of President Droupadi Murmu is ensured, revealed by ex-Aide-de-Camp](https://www.livemint.com/news/india/no-touching-feet-1-km-area-sanitised-how-safety-of-president-droupadi-murmu-is-ensured-revealed-by-ex-aide-de-camp-11789121882503.html)
 - [Widespread rain likely across central, east, west India: IMD](https://www.livemint.com/news/widespread-rain-likely-across-central-east-west-india-imd-11789121520525.html)
 - [‘Not a small matter’: Shashi Tharoor on BRICS 2026 after P Chidambaram questions ‘tangible benefits’](https://www.livemint.com/news/india/not-a-small-matter-shashi-tharoor-on-brics-2026-after-p-chidambaram-questions-tangible-benefits-11789122574542.html)
 - [Trump snubs Saudi Crown Prince’s repeated requests amid raging Houthi attacks on oil facilities in Red Sea](https://www.livemint.com/news/trump-snubs-saudi-crown-prince-s-repeated-requests-amid-raging-houthi-attacks-on-oil-facilities-in-red-sea-11789116903219.html)
@@ -83,7 +84,6 @@
 - [Is upgrading your iPhone every year worth it? X user explains his ‘lease model’](https://www.livemint.com/news/trends/iphone-every-year-on-no-cost-emi-x-user-says-it-works-almost-like-a-lease-model-11789118034181.html)
 - [Delhi on red alert amid heavy rain: Will weather disrupt movement during BRICS Summit?](https://www.livemint.com/news/india/delhi-weather-rain-lashes-parts-of-city-as-imd-issues-red-alert-11789117808892.html)
 - [India calls for freer trade, easier movement of skilled workers within Brics](https://www.livemint.com/news/india/india-calls-for-freer-trade-easier-movement-of-skilled-workers-within-brics-11789111008261.html)
-- [Bank strike today: Why are unions holding nationwide protest, what are their demands | Explained](https://www.livemint.com/news/india/bank-strike-today-why-are-unions-holding-nationwide-protest-what-are-their-demands-explained-11789111110795.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [81 ಗಂಟೆಗಳಲ್ಲಿ 2,400 ಟನ್ ಕ್ಯಾಟೋಫಿನ್ ವೇಗವರ್ಧಕ ಇಳಿಸಿ ವಿಶ್ವ ದಾಖಲೆ ನಿರ್ಮಿಸಿದ ಅಲ್ ಮುಝೈನ್](https://www.varthabharati.in/gulf/al-muzain-creates-world-record-in-catofin-catalyst-unloading-at-kazakhstan-plant-2274455)
 - [2019–2024ರ ನಡುವೆ ನೂರಾರು ಕೋಟಿ ಪಡೆದ ಪಕ್ಷಗಳ ನೋಂದಾಯಿತ ವಿಳಾಸಗಳಲ್ಲಿ ಕಂಡದ್ದು ಬೀಗ, ಮನೆ, ಡ್ಯಾನ್ಸ್ ಅಕಾಡೆಮಿ: ವರದಿ](https://www.varthabharati.in/crores-in-donations-offices-missing-india-today-investigates-unknown-parties)
 - [ಅರಣ್ಯ ಹಾಗೂ ಪೊಲೀಸ್ ಇಲಾಖೆ ಸಿಬ್ಬಂದಿಗಳ ಭತ್ಯೆ ಬಗ್ಗೆ ಶೀಘ್ರ ತೀರ್ಮಾನ : ಸಿಎಂ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್](https://www.varthabharati.in/state/cm-dk-shivakumar-2274452)
 - [ಹೌದಿಗಳ ವಿರುದ್ಧ ದಾಳಿ ನಡೆಸಲು ಟ್ರಂಪ್‌ ಗೆ ಸೌದಿ ಯುವರಾಜರಿಂದ ಎರಡು ಬಾರಿ ಮನವಿ; ತಿರಸ್ಕರಿಸಿದ ಅಮೆರಿಕ: ವರದಿ](https://www.varthabharati.in/international/saudi-prince-appeals-america-to-launch-attacks-on-houthi-rebels-trump-rejects-the-plea-twice-2274451)
@@ -107,28 +108,28 @@
 - [Raichur | ಅತ್ಯಾಚಾರ ಹಾಗೂ ಕೊಲೆ ಪ್ರಕರಣ; ಆರೋಪಿಗಳ ಬಂಧನ](https://www.varthabharati.in/raichur/raichur-2274439)
 - [ಉರ್ವಸ್ಟೋರ್ ಮಾರುಕಟ್ಟೆ ಅಭಿವೃದ್ಧಿ ಯೋಜನೆ ಶೀಘ್ರ ಅನುಷ್ಠಾನ; ಮುಡಾ ಅಧ್ಯಕ್ಷರಿಂದ ಸ್ಥಳ ಪರಿಶೀಲನೆ](https://www.varthabharati.in/sampaadakeeya/urvastore-market-development-project-to-be-implemented-soon-muda-chairman-inspects-the-site-2274436)
 - [Raichur | ಗಣೇಶನ ವಿಗ್ರಹ ಸಾಗಿಸುವ ವೇಳೆ ವಿದ್ಯುತ್ ಅವಘಡ; ಯುವಕ ಮೃತ್ಯು](https://www.varthabharati.in/raichur/raichur-2274435)
-- [BRICS ಶೃಂಗಸಭೆಯಲ್ಲಿ ಜಾಗತಿಕ ಕಲ್ಯಾಣಕ್ಕಾಗಿ ಸಕಾರಾತ್ಮಕ ಚರ್ಚೆ ನಡೆಯುವ ವಿಶ್ವಾಸವಿದೆ: ಪ್ರಧಾನಿ ಮೋದಿ](https://www.varthabharati.in/National/im-confident-that-positive-discussions-for-global-welfare-will-take-place-at-the-brics-summit-pm-modi-2274434)
 
 ## Cross-source trending keywords (derived from headlines above)
-- BRICS (7.9)
-- Delhi (6.4)
-- Brics (5.2)
+- India (5.5)
+- Brics (5.5)
+- BRICS (5.3)
+- Delhi (5.1)
 - Emkay Global Financial (5.0)
-- India (4.2)
+- Putin (4.8)
 - BRICS Summit (4.0)
-- Putin (3.5)
 - target (3.3)
 - Phone (3.0)
+- PM Modi (3.0)
 - ICICI Securities (3.0)
+- Tamil (2.9)
 - LIVE (2.9)
+- Modi (2.8)
 - Cong (2.6)
-- Chidambaram (2.6)
-- Opinion (2.6)
-- Raichur (2.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [ઇરાન સાથેનું યુદ્ધ ટ્રમ્પના કાર્યકાળના અંત સુધી ખેંચાઈ શકે, અમેરિકનોને મોંઘવારીમાંથી હાલ રાહત નહીં](https://www.gujaratsamachar.com/news/international/the-war-with-iran-may-drag-on-until-the-end-of-trumps-term-americans-will-not-get-any-relief-from-inflation-for-now-59835116508)
 - [புதிய தலைமை செயலக திட்டம்: திமுக - பாஜ கடும் கண்டனம்](https://www.dinamalar.com/news/premium-news/new-secretariat-project-dmk---bjp-strongly-condemns/4319845)
 - [കിം ജോങ് ഉന്നിന് പിൻഗാമി മകൻ, വ്യക്തത വരുത്താനുള്ള ശ്രമത്തിലെന്ന് ദക്ഷിണ കൊറിയൻ രഹസ്യാന്വേഷണ ഏജൻസി](https://www.asianetnews.com/international-news/if-kim-jong-un-has-a-son-south-koreas-national-intelligence-service-trying-to-learn-articleshow-lfl8tve)
 - [సమీక్షలు కాదు ఫలితం కావాలి!](https://www.prajasakti.com/ap-news/amaravati/we-want-results-not-reviews)
@@ -138,7 +139,6 @@
 - [80ஸ் டிரெண்டில்இணைந்த நடிகைகள் - Kollywood News](https://cinema.dinakaran.com/cinema/80s-trending-actresses/)
 - [షెఫాలి ధనాధన్‌.. ఆసియా కప్‌ ఫైనల్‌లో భారత్‌](https://www.eenadu.net/telugu-news/sports/india-storms-into-the-asia-cup-final/0499/126163926)
 - [22ఏపై బీఆర్‌ఎస్‌ విషప్రచారాన్ని తిప్పికొడదాం..](https://www.andhrajyothy.com/2026/telangana/let-us-counter-the-brs-malicious-propaganda-1557119.html)
-- [Dhaka declines Brics invite: 'It was for Bimstec chair, not PM'](https://timesofindia.indiatimes.com/world/south-asia/dhaka-declines-brics-invite-it-was-for-bimstec-chair-not-pm/articleshow/134030758.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
