@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-11 00:39:40
+# India Trending Report — 2026-09-11 01:02:25
 
 ## Google Trends (India) — top trending searches
-1. [ट्रैक्टर](https://trends.google.com/trending/rss?geo=IN)
-2. [aryna sabalenka](https://trends.google.com/trending/rss?geo=IN)
-3. [nfl](https://trends.google.com/trending/rss?geo=IN)
-4. [கனமழை](https://trends.google.com/trending/rss?geo=IN)
-5. [cpl 2026](https://trends.google.com/trending/rss?geo=IN)
-6. [picture](https://trends.google.com/trending/rss?geo=IN)
-7. [oppo coloros 17](https://trends.google.com/trending/rss?geo=IN)
-8. [shailene woodley](https://trends.google.com/trending/rss?geo=IN)
-9. [como 1907 vs rb leipzig standings](https://trends.google.com/trending/rss?geo=IN)
-10. [ssc cpo notification 2026](https://trends.google.com/trending/rss?geo=IN)
+1. [nikkei 225](https://trends.google.com/trending/rss?geo=IN)
+2. [coloros 17](https://trends.google.com/trending/rss?geo=IN)
+3. [ருதுராஜ் கெய்க்வாட்](https://trends.google.com/trending/rss?geo=IN)
+4. [பாதுகாப்பு](https://trends.google.com/trending/rss?geo=IN)
+5. [ट्रैक्टर](https://trends.google.com/trending/rss?geo=IN)
+6. [aryna sabalenka](https://trends.google.com/trending/rss?geo=IN)
+7. [கனமழை](https://trends.google.com/trending/rss?geo=IN)
+8. [cpl 2026](https://trends.google.com/trending/rss?geo=IN)
+9. [picture](https://trends.google.com/trending/rss?geo=IN)
+10. [shailene woodley](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -18,14 +18,17 @@
 - [India adds 30 new nuclear warheads, total at 190: US Study](https://timesofindia.indiatimes.com/defence/news/india-may-have-produced-enough-plutonium-for-140-to-225-nukes-might-have-assembled-up-to-190-warheads-us-study/articleshow/134023612.cms)
 - [Modi-Xi meet: Trade, border on agenda during Xi's 24-hour blitz](https://timesofindia.indiatimes.com/india/mod-xi-meet-trade-border-on-agenda-during-xis-24-hour-blitz/articleshow/134026386.cms)
 - [Why iPhones are so expensive in India again](https://timesofindia.indiatimes.com/technology/tech-news/why-iphones-are-so-expensive-in-india-again/articleshow/134014478.cms)
-- [Houthis seize Yemen's strategic Red Sea port city of Mokha from Saudi-backed forces](https://timesofindia.indiatimes.com/world/middle-east/houthis-seize-yemens-strategic-red-sea-port-city-of-mokha-from-saudi-backed-forces/articleshow/134025249.cms)
+- [‘Literally as old as my career’: Why Shami is impressed by Vaibhav Sooryavanshi](https://timesofindia.indiatimes.com/sports/cricket/news/literally-as-old-as-my-career-why-mohammed-shami-is-impressed-by-vaibhav-sooryavanshi/articleshow/134022802.cms)
 - [1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-5-chatgpt-prompts-to-create-kerala-style-retro-images/articleshow/133999924.cms)
+- [Houthis seize Yemen's strategic Red Sea port city of Mokha from Saudi-backed forces](https://timesofindia.indiatimes.com/world/middle-east/houthis-seize-yemens-strategic-red-sea-port-city-of-mokha-from-saudi-backed-forces/articleshow/134025249.cms)
 - ['It was for Bimstec chair, not PM': Dhaka declines Brics invite](https://timesofindia.indiatimes.com/world/south-asia/dhaka-declines-brics-invite-it-was-for-bimstec-chair-not-pm/articleshow/134030758.cms)
 - [Deadly plot by ‘killer bahu’: Kanpur bizman sensed danger, but ended up with 26 stab wounds](https://timesofindia.indiatimes.com/city/kanpur/killer-bahus-deadly-game-kanpur-bizmen-sensed-danger-but-ended-up-with-26-stab-wounds-and-a-slit-throat/articleshow/134011762.cms)
-- [Retro looks, current jibes: Netas give '80s a new spin](https://timesofindia.indiatimes.com/india/retro-looks-current-jibes-netas-give-80s-a-new-spin/articleshow/134035296.cms)
 - [22-year-old pleads guilty in US' biggest Bitcoin theft; spent millions on cars & more](https://timesofindia.indiatimes.com/technology/tech-news/22-year-old-school-dropout-pleads-guilty-in-americas-largest-bitcoin-robbery-posed-as-google-and-gemini-executives-spent-millions-on-sports-cars-night-clubs-and-mansions/articleshow/134008280.cms)
 
 **NDTV**
+- [Mumbai-Bound IndiGo Flight Delayed By 3 Hours After Pilot Falls 'Sick'](https://www.ndtv.com/india-news/mumbai-bound-indigo-flight-delayed-by-3-hours-after-pilot-falls-sick-12030947#publisher=newsstand)
+- [Anthropic Says It Blocked AI Misuse After Its Whistleblower's Safety Warning](https://www.ndtv.com/world-news/anthropic-says-it-blocked-ai-misuse-after-its-whistleblowers-safety-warning-12030933#publisher=newsstand)
+- ["Free Speech Absolutist": Elon Musk Threatens Legal Action Over Documentary](https://www.ndtv.com/world-news/elon-musk-threatens-legal-action-over-documentary-12030899#publisher=newsstand)
 - ["Disgusting": US Removes Racist 'Mr Singh' Self-Deport Ad After Backlash](https://www.ndtv.com/world-news/us-removes-racist-mr-singh-self-deport-ad-after-backlash-12030838#publisher=newsstand)
 - [Putin Lands In Delhi For BRICS Summit, To Hold Bilateral With PM Modi Today](https://www.ndtv.com/india-news/putin-lands-in-delhi-for-brics-summit-to-hold-bilateral-with-pm-modi-today-12030799#publisher=newsstand)
 - [Nicolas Maduro's Wife Seeks Release From US Jail, Citing Heart Ailment](https://www.ndtv.com/world-news/nicolas-maduros-wife-cilia-flores-seeks-release-from-us-jail-citing-heart-ailment-12030781#publisher=newsstand)
@@ -33,9 +36,6 @@
 - [Swiss Coach Crash Leaves 'Several Dead': Police](https://www.ndtv.com/world-news/swiss-coach-crash-leaves-several-dead-police-12030626#publisher=newsstand)
 - [Businessman's Employee Robbed Of Rs 20 Lakh At Gunpoint In Delhi: Cops](https://www.ndtv.com/delhi-news/businessmans-employee-robbed-of-rs-20-lakh-at-gunpoint-in-delhi-cops-12030660#publisher=newsstand)
 - ['Villain, Not Hero': TTV Dhinakaran Attacks Vijay Over 'Broken Jaw' Row](https://www.ndtv.com/india-news/ttv-dhinakaran-attacks-vijay-over-broken-jaw-row-villain-not-hero-12028377#publisher=newsstand)
-- [Scientists Tried To Use AI Models For Potential Biological Weapons Research: Anthropic](https://www.ndtv.com/world-news/scientists-tried-to-use-our-models-for-biological-weapons-research-anthropic-12030611#publisher=newsstand)
-- [Israel Says It Destroyed Key Hezbollah Tunnels In South Lebanon](https://www.ndtv.com/world-news/israel-says-it-destroyed-key-hezbollah-tunnels-in-south-lebanon-12030612#publisher=newsstand)
-- ["Get Off Our Roads": Team Trump's Racist 'Mr Singh' Poster In US](https://www.ndtv.com/world-news/get-off-our-roads-team-trumps-racist-mr-singh-poster-in-us-12026868#publisher=newsstand)
 
 **Hindustan Times**
 - [Hope we’ll have front-of-pack labels on food items quite soon: FSSAI CEO Rajit Punhani](https://www.hindustantimes.com/india-news/hope-we-ll-have-front-of-pack-labels-on-food-items-quite-soon-fssai-ceo-rajit-punhani-101789064246404.html)
@@ -109,26 +109,26 @@
 - Vinesh Phogat (2.0)
 - Summit (1.9)
 - Brics (1.6)
-- Anthropic (1.6)
 - Goyal (1.6)
 - Bihar (1.6)
 - Modi-Xi (1.3)
 - Trade (1.3)
 - Xi's (1.3)
+- Literally (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [SC says will not ‘disturb’ Satya Niketan collapse case before Delhi HC](https://www.thehindu.com/news/national/sc-says-will-not-disturb-satya-niketan-collapse-case-before-delhi-hc/article71451186.ece)
+- [‘பட்டினப்பாக்கத்தில் தலைமைச் செயலகம் கூடாது’ - இந்திய கம்யூ. முன்வைக்கும் சூழலியல் காரணம்](https://www.hindutamil.in/news/tamilnadu/pattinapakkam-coastal-area-highly-vulnerable-to-environmental-impact-cpi-opposes)
+- [Mohun Bagan Super Giant: কয়লা খাদানে 'হিরে' মোহনবাগান, কত গোলে জিতল সবুজ-মেরুন ব্রিগেড?](https://bengali.indianexpress.com/sports/mohun-bagan-super-giant-beat-coal-india-5-1-cfl-championship-round-12516119)
+- [Weather Update : అల్పపీడనం రెడీ... తెలుగు రాష్ట్రాలపై స్ట్రాంగ్ ఎఫెక్ట్, ఈ జిల్లాల్లో వర్షబీభత్సమే](https://telugu.asianetnews.com/gallery/andhra-pradesh/weather-update-low-pressure-to-bring-heavy-rain-in-andhra-pradesh-and-telangana-5g1gea7)
+- [‘Get off our roads, Mr Singh’: US homeland security poster ignites backlash over targeting of Sikhs](https://timesofindia.indiatimes.com/world/us/get-off-our-roads-mr-singh-us-homeland-security-poster-ignites-backlash-over-targeting-of-sikhs/articleshow/134010224.cms)
+- [Modi-Putin talks: India looks to Russia for critical minerals, rare earths](https://www.moneycontrol.com/news/business/modi-putin-talks-india-looks-to-russia-for-critical-minerals-rare-earths-14027279.html)
 - [चांदी धड़ाम, एक झटके में ₹10000 से ज्यादा टूटे दाम; अचानक क्यों आई गिरावट?](https://www.jagran.com/business/commodity-gold-silver-price-crash-why-did-prices-fall-sharply-today-40368878.html)
 - [भारत बनाम अफगानिस्तान पहले टी20 मैच पर खतरा, क्या बदला जाएगा सीरीज का शेड्यूल](https://www.indiatv.in/sports/cricket/india-vs-afghanistan-1st-t20i-in-danger-due-to-brics-summit-2026-09-10-1242484)
 - [रोहित शर्मा ने आखिरकार 2027 वनडे वर्ल्‍ड कप पर तोड़ी चुप्‍पी, हिटमैन ने फैंस की उलझन बढ़ा दी](https://www.jagran.com/cricket/apni-baat-rohit-sharma-reacts-to-retirement-rumors-and-2027-world-cup-participation-40368868.html)
 - [Supreme Court on judicial officer transferred to Naxalite area for losing temper, shouting at Bombay HC](https://www.barandbench.com/news/let-him-repent-supreme-court-on-judicial-officer-transferred-to-naxalite-area-for-losing-temper-shouting-at-bombay-hc)
-- [ईरान के पास परमाणु बम होता तो सुप्रीम लीडर को सर कहते ट्रंप, पूछते- मेरे लायक कोई काम है](https://www.livehindustan.com/international/us-president-donald-trump-said-if-he-bomb-iran-with-b2-nuclear-weapons-supreme-leader-as-sir-midterm-election-201789037769502.html)
-- [மதுராந்தகம், தாராபுரம் இடைத்தேர்தல்: திமுக வேட்பாளர்களுக்கு எஸ்டிபிஐ கட்சி ஆதரவு!](https://www.dailythanthi.com/news/tamilnadu/madhurantakam-dharapuram-by-elections-stbi-party-supports-dmk-candidates)
-- [Gold, silver worth crores locked inside: Here’s why MCD sealed dozens of jewellery shops in Chandni Chowk, Delhi](https://www.livemint.com/news/india/gold-silver-worth-crores-locked-inside-here-s-why-mcd-sealed-dozens-of-jewellery-shops-in-chandni-chowk-delhi-11789042712355.html)
-- [Madan Mitra: অভিষেকের বাড়ি থেকে গ্রেফতার PA সুমিত, মদন মিত্র বলছেন, 'এর মধ্যে সেটিং... ২ প্লাস ২ - ৪...'](https://bengali.abplive.com/district/abhishek-banerjee-pa-sumit-roy-arrested-ritabrata-trinamool-kamarhati-mla-madan-mitra-1192321)
-- ['परिवार को इम्प्रेस करने के लिए...', फर्जी PMO अफसर पर मुंबई पुलिस का खुलासा](https://www.aajtak.in/india/maharashtra/story/mumbai-fake-pmo-card-youth-arrested-family-impress-claim-ntc-rlch-dskc-2640312-2026-09-10)
-- [BRICS Summit | బ్రిక్స్ స‌ద‌స్సుకు మా ప్ర‌ధానికి ఆహ్వానం అంద‌లేదు.. బంగ్లాదేశ్ అసంతృప్తి](https://www.ntnews.com/international/our-prime-minister-tarique-rahman-was-not-invited-bangladesh-minister-on-brics-summit-2507582)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
