@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-11 21:32:01
+# India Trending Report — 2026-09-11 22:02:02
 
 ## Google Trends (India) — top trending searches
 1. [franco mastantuono](https://trends.google.com/trending/rss?geo=IN)
-2. [dow jones moneycontrol](https://trends.google.com/trending/rss?geo=IN)
-3. [dow jone index](https://trends.google.com/trending/rss?geo=IN)
+2. [us open](https://trends.google.com/trending/rss?geo=IN)
+3. [dow jones moneycontrol](https://trends.google.com/trending/rss?geo=IN)
 4. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
-5. [bhojpuri](https://trends.google.com/trending/rss?geo=IN)
-6. [2](https://trends.google.com/trending/rss?geo=IN)
-7. [stock split](https://trends.google.com/trending/rss?geo=IN)
-8. [sam altman](https://trends.google.com/trending/rss?geo=IN)
-9. [indian women cricket team](https://trends.google.com/trending/rss?geo=IN)
-10. [parent](https://trends.google.com/trending/rss?geo=IN)
+5. [dow jone index](https://trends.google.com/trending/rss?geo=IN)
+6. [bhojpuri](https://trends.google.com/trending/rss?geo=IN)
+7. [2](https://trends.google.com/trending/rss?geo=IN)
+8. [championship](https://trends.google.com/trending/rss?geo=IN)
+9. [stock split](https://trends.google.com/trending/rss?geo=IN)
+10. [sam altman](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -26,6 +26,9 @@
 - [Countries where you can buy iPhone 18 Pro and iPhone 18 Pro Max cheaper than India](https://timesofindia.indiatimes.com/technology/tech-news/countries-where-you-can-buy-iphone-18-pro-and-iphone-18-pro-max-cheaper-than-india/articleshow/134056504.cms)
 
 **NDTV**
+- [North Korea Fires Unidentified Projectile Toward Sea Of Japan](https://www.ndtv.com/world-news/north-korea-fires-unidentified-projectile-toward-sea-of-japan-report-12035515#publisher=newsstand)
+- [US To Vote On Russia Sanctions Bill Next Week, Giving Trump More Tariff Power](https://www.ndtv.com/world-news/us-to-vote-on-russia-sanctions-bill-next-week-giving-trump-more-tariff-power-12035487#publisher=newsstand)
+- [European Troop Deployment In Ukraine Would Be "War Against Russia": Putin](https://www.ndtv.com/world-news/european-troop-deployment-in-ukraine-would-be-war-against-russia-vladimir-putin-12035415#publisher=newsstand)
 - [Saudi Shuts Down Major Oil Pipeline Amid Fighting With Yemen's Houthis](https://www.ndtv.com/world-news/saudi-shuts-down-major-oil-pipeline-amid-fighting-with-yemens-houthis-12035379#publisher=newsstand)
 - [Man Shoots Neighbour In Leg, Then Dies By Suicide In Delhi: Cops](https://www.ndtv.com/delhi-news/man-shoots-neighbour-in-leg-then-dies-by-suicide-in-delhi-cops-12035357#publisher=newsstand)
 - [Three Vehicles Collide In Northern Russia, 12 Dead](https://www.ndtv.com/world-news/three-vehicles-collide-in-northern-russia-12-dead-12035319#publisher=newsstand)
@@ -33,9 +36,6 @@
 - ['US, Israel Want To Bully Us, But We Won't Kneel': Iran President In Delhi](https://www.ndtv.com/india-news/us-israel-want-to-bully-us-but-we-wont-kneel-iran-president-masoud-pezeshkian-in-delhi-12035281#publisher=newsstand)
 - [At BRICS Summit, PM Modi, UN Chief Discuss Need To Reform Global Bodies](https://www.ndtv.com/india-news/at-brics-summit-pm-modi-un-chief-antonio-guterres-discuss-need-to-reform-global-bodies-12035256#publisher=newsstand)
 - [On Vande Mataram Row, Congress' 'Stand Upright' Retort To Omar Abdullah](https://www.ndtv.com/india-news/on-vande-mataram-row-congress-stand-upright-retort-to-omar-abdullah-12035103#publisher=newsstand)
-- [BRICS Summit 2026 LIVE Updates: Putin, Pezeshkian Highlight Issue Of Sanctions At BRICS Business Forum](https://www.ndtv.com/india-news/brics-summit-2026-live-updates-pm-narendra-modi-putin-xi-jinping-meeting-bharat-mandapam-new-delhi-traffic-advisory-updates-12031073#publisher=newsstand)
-- [Putin Takes "40%" Dig At G7, Compares It With BRICS' Contribution To World GDP](https://www.ndtv.com/world-news/putin-takes-40-per-cent-dig-at-g7-compares-it-with-brics-contribution-to-world-gdp-12033570#publisher=newsstand)
-- [Delhi Lt Governor Proposes Mandatory Tuberculosis Test For All Hospital Patients](https://www.ndtv.com/india-news/delhi-lt-governor-proposes-mandatory-tb-screening-of-all-hospital-patients-12035203#publisher=newsstand)
 
 **Hindustan Times**
 - [Minister says UDF will decide on PM SHRI soon](https://www.hindustantimes.com/india-news/keralam-cm-holds-emergency-meet-over-power-crisis-minister-appeals-for-cooperation-101789155860199.html)
@@ -49,9 +49,20 @@
 - [Amid the 1980s nostalgia trend, here are 10 ChatGPT photo tricks you didn’t know](https://www.hindustantimes.com/india-news/amid-the-1980s-nostalgia-trend-here-are-10-chatgpt-photo-tricks-you-didn-t-know-101789137175948.html)
 - [Modi urges Iran’s Pezeshkian to resolve West Asia conflict through dialogue](https://www.hindustantimes.com/india-news/modi-urges-iran-s-pezeshkian-to-resolve-west-asia-conflict-through-dialogue-101789142537497.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಮುಚ್ಚಿದೆ ಬ್ರಿಕ್ಸ್‌ ಬಾಗಿಲು: ಭಾರತದ ವೀಟೋ ಅಧಿಕಾರದಿಂದ ನೆರೆ ರಾಷ್ಟ್ರಕ್ಕೆ ದಿಗಿಲು! ಇಳಿಯುತ್ತಿದೆ ಸೊಕ್ಕಿನ ಅಮಲು](https://vijaykarnataka.com/news/world/indias-veto-power-succeeded-in-keeping-pakistan-out-of-brics-membership-islamabad-waiting/articleshow/134081269.cms)
+- [ಜಿ-7 ಗುಂಪಿನ ಕಾಲೆಳೆದ ವ್ಲಾಡಿಮಿರ್‌ ಪುಟಿನ್: ಭಾರತದ ನೆಲದಲ್ಲಿ ಬ್ರಿಕ್ಸ್‌ ಆರ್ಥಿಕ ಬಲ ಅನಾವರಣಗೊಳಿಸಿದ ರಷ್ಯಾ ಅಧ್ಯಕ್ಷ!](https://vijaykarnataka.com/news/india/russia-president-vladimir-putin-slams-g7-group-says-brics-contributes-more-to-global-economy/articleshow/134077384.cms)
+- [80s AI Photo Trend-ಸೋಶಿಯಲ್‌ ಮೀಡಿಯಾದಲ್ಲಿ ರೆಟ್ರೋ ಲುಕ್‌ ಕ್ರೇಜ್‌! ನಿಮ್ಮ ಫೋಟೋಗೂ ವಿಂಟೇಜ್‌ ‌ಟಚ್ ನೀಡೋದು ಹೇಗೆ?](https://vijaykarnataka.com/news/india/explainer-what-is-viral-chatgpt-80s-photo-trend-heres-how-you-can-add-vintage-touch-to-your-photos-with-ai-prompts/articleshow/134044231.cms)
+- [ಚಪಾತಿ ಹಿಟ್ಟು ಕೈಗೆ ಅಂಟಿಕೊಂಡಿದೆಯೇ? ಸುಲಭವಾಗಿ ತೆಗೆಯಲು ಈ ಕಿಚನ್ ಟಿಪ್ಸ್‌ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/how-to-remove-sticky-dough-from-your-hands-easily-simple-kitchen-tips/articleshow/134058299.cms)
+- [ನರೇಂದ್ರ ಮೋದಿ-ಮಸೂದ್‌ ಪೆಜೆಶ್ಕಿಯಾನ್‌ ಮಾತುಕತೆ: ಜಲ ಸಂಚಾರ ಸುರಕ್ಷತೆಯ ಖಾತರಿ ಕೇಳಿದ ಭಾರತ! ಇರಾನ್‌ ಪ್ರತಿಕ್ರಿಯೆ ಏನು?](https://vijaykarnataka.com/news/india/pm-modi-and-masoud-pezeshkian-bilateral-talks-india-asks-iran-to-reopen-strait-of-hormuz/articleshow/134075417.cms)
+- [BBK 13: ಕಿರಣ್‌ ರಾಜ್‌, ಸಂಗೀತಾ ಭಟ್‌ ಸೀರಿಯಲ್‌ಗೆ ಜೋಡಿಯಾಗಿದ್ರು, ರಿಯಾಲಿಟಿ ಶೋನಲ್ಲಿಯೂ ಕಾಣಿಸಿಕೊಂಡಿದ್ರು!](https://vijaykarnataka.com/tv/bigg-boss-kannada/kiran-raj-and-bbk-13-fame-sangeetha-bhat-had-starred-as-a-couple-in-a-serial-and-also-appeared-together-in-a-reality-show/articleshow/134086510.cms)
+- [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
+- [2026 ಗಣೇಶ ಚತುರ್ಥಿ: 5 ಗಣಪತಿ ಮಂತ್ರಗಳು, ಪಠಿಸುವ ವಿಧಾನ ಮತ್ತು ಮಹತ್ವ.!](https://vijaykarnataka.com/religion/pooja-vidhana/ganesh-chaturthi-2026-chant-these-are-the-5-ganesha-mantras-to-remove-obstacles-from-your-life/articleshow/134070048.cms)
+- [ರಾಖಿ ಸಾವಂತ್‍ನಿಂದ ಶ್ರೀಲೀಲಾ ತಮನ್ನಾ ಭಾಟಿಯಾ ತನಕ; 80s ರೆಟ್ರೋ ಲುಕ್‌ಗೆ ಮಾರುಹೋದ ಸೆಲೆಬ್ರಿಟಿಗಳು!!](https://vijaykarnataka.com/lifestyle/fashion/rakhi-sawant-tamannaah-bhatia-1980s-ai-photo-fashion-trend/articleshow/134053857.cms)
+- [ದಾವಣಗೆರೆಯಲ್ಲಿ ತಲೆಎತ್ತಲಿದೆ 200 ಎಕರೆಯಲ್ಲಿ ದೂಡಾ ಹೊಸ ಲೇಔಟ್‌! ರೈತರಿಗೆ 60:40 ಮಾದರಿ ಪರಿಹಾರಕ್ಕೆ ನಿರ್ಧಾರ](https://vijaykarnataka.com/news/davanagere/new-200-acre-layout-in-davanagere-decision-duda-made-to-offer-6040-model-compensation-to-farmers/articleshow/134077028.cms)
 
 **The Hindu**
+- [Allahabad HC seeks Uttar Pradesh govt’s reply over Saharanpur Mosque demolition, stays ₹6.41 crore damage recovery](https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-seeks-uttar-pradesh-governments-reply-over-saharanpur-mosque-demolition-stays-641-crore-damage-recovery/article71456149.ece)
 - [With eye on poll, BJP to begin ‘drug-free Punjab’ drive amid row over Dalit villager’s death](https://www.thehindu.com/news/national/punjab/with-eye-on-poll-bjp-to-begin-drug-free-punjab-drive-amid-row-over-dalit-villagers-death/article71456181.ece)
 - [Vice-principal of Kolkata college ‘forced’ to resign; ABVP ‘purifies’ her office](https://www.thehindu.com/news/cities/kolkata/kolkataslaw-college-vice-principal-resigns-after-23-hour-studentprotest-over-attendance/article71456472.ece)
 - [‘Reading kept me going’: Noida stir accused who cracked NET](https://www.thehindu.com/news/cities/Delhi/reading-kept-me-going-noida-stir-accused-who-cracked-net/article71457844.ece)
@@ -61,7 +72,6 @@
 - [Four arrested with 10 kg of suspected MDMA in Kochi](https://www.thehindu.com/news/national/kerala/four-arrested-with-10-kg-of-suspected-mdma-in-kochi/article71456484.ece)
 - [Three Kashmir religious leaders, including Mirwaiz, attend Iran embassy exhibition in Delhi](https://www.thehindu.com/news/national/jammu-and-kashmir/three-kashmir-religious-leaders-including-mirwaiz-attend-iran-embassy-exhibition-in-delhi/article71457506.ece)
 - [India and Canada are well beyond reset now, says Canadian High Commissioner to India](https://www.thehindu.com/news/national/india-and-canada-are-well-beyond-reset-now-says-canadian-high-commissioner-to-india/article71456180.ece)
-- [End Ukraine war, says Modi as he meets Putin during bilateral ahead of BRICS summit](https://www.thehindu.com/news/national/pm-modi-russia-putin-hold-high-stakes-talks-ahead-of-brics-summit/article71456100.ece)
 
 **Livemint**
 - [Maria Bartiromo Fox News departure: Former anchor speaks out for first time after exit, hints at what lies ahead](https://www.livemint.com/news/us-news/maria-bartiromo-fox-news-departure-former-anchor-speaks-out-for-first-time-after-exit-hints-at-what-lies-ahead-11789148943476.html)
@@ -91,34 +101,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (7.8)
-- Delhi (5.8)
 - Iran (5.5)
-- Modi (4.8)
-- Putin (4.2)
-- BRICS (4.1)
+- Delhi (5.5)
 - Brics (3.9)
-- Pezeshkian (3.2)
+- Modi (3.5)
 - PM Modi (3.0)
-- BRICS Summit (3.0)
+- Pezeshkian (2.9)
+- Putin (2.6)
 - Gujarat (2.6)
 - Maharashtra (2.6)
+- Russia (2.2)
+- BRICS (2.2)
 - Phone (2.0)
-- Omar (1.6)
-- Russia (1.6)
+- BRICS Summit (2.0)
+- Trump (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ['पाकिस्तान में है क्या गुजरात?', 72वें नेशनल फिल्म अवॉर्ड्स विवाद पर भड़के परेश रावल](https://www.aajtak.in/entertainment/bollywood-news/story/paresh-rawal-gujrat-pakistan-bangladesh-react-on-supports-gujarat-hosting-72nd-national-film-awards-tmovg-dskc-2640824-2026-09-11)
-- [மண்டாடி பட விமர்சனம்: நடிகர் சூரிக்கு 4](https://www.bbc.com/tamil/articles/cx2z51nw2x1o)
-- [વિનેશ ફોગાટને દિલ્હી હાઈકોર્ટનો ઝટકો, વર્લ્ડ ચેમ્પિયનશિપની ટ્રાયલમાં ભાગ નહીં લઈ શકે](https://www.gujaratsamachar.com/news/sports/vinesh-phogat-gets-a-setback-from-delhi-high-court-cannot-participate-in-world-championship-trial-20963186716)
-- [കുടുംബവഴക്ക്; യുവാവ് ഭാര്യയേയും 3 മക്കളേയും ഇഷ്ടിക കൊണ്ട് തലയ്ക്കടിച്ച് കൊലപ്പെടുത്തി](https://www.manoramaonline.com/news/latest-news/2026/09/11/man-kills-wife-three-children-in-jaipur-domestic-dispute-suspected.html)
-- [कल का मौसम 12 सितंबर: 9 घंटे के भीतर 24 राज्यों में मूसलाधार बारिश का अलर्ट, 85 की स्पीड से हवा; IMD का अपडेट](https://navbharattimes.indiatimes.com/india/tomorrow-weather-12-september-2026-thunderstorm-and-heavy-rain-alert-in-24-states-within-9-hours-wind-speed-up-to-85-kmph-delhi-up-bihar-temperature/articleshow/134056397.cms)
-- [भारत क्या चीन के मामले में अमेरिका के लिए अब उपयोगी देश नहीं रहा?](https://www.bbc.com/hindi/articles/clye17pzvlqo)
-- [Red alert in Delhi after heavy rain lashes parts of city](https://timesofindia.indiatimes.com/city/delhi/red-alert-in-delhi-after-heavy-rain-lashes-parts-of-city/articleshow/134056494.cms)
-- [പ്രകടന മികവിൽ ‍ഞെട്ടിച്ച് ഉർവശി, ഒപ്പം കൂടി ജോജു ജോർജും; 'ആശ' റിവ്യു](https://www.asianetnews.com/entertainment-news/joju-george-and-urvashi-movie-aasha-malayalam-review-articleshow-voetd6r)
-- [Pune Traffic Update: पुण्यात वाहतुकीत मोठे बदल; गणेशोत्सवात प्रमुख मार्गांवर अवजड वाहनांना No Entry, कसे आहे नियोजन?](https://maharashtratimes.com/maharashtra/pune-news/central-pune-major-roads-24-hrs-ban-for-heavy-vehicles-entry-from-12-to-26-sept-2026/articleshow/134053376.cms)
-- [Sensex ends 600 pts higher from day's low, Nifty closes near 23,400: Key reasons behind sharp market recovery](https://www.moneycontrol.com/news/business/markets/sensex-rises-200-pts-from-day-s-low-nifty-near-23-300-key-reasons-behind-markets-paring-losses-14027727.html)
+- [Ind vs Afg 1st T20 Playing XI : वैभव सूर्यवंशी-इशान किशन IN; संजू सॅमसन-नितीश रेड्डी OUT; अफगाणिस्तानविरुद्ध पहिल्या टी-20 अशी असेल टीम इंडियाची धडाकेबाज Playing XI](https://marathi.abplive.com/sports/cricket/team-india-playing-xi-vs-afghanistan-in-1st-t20-vaibhav-sooryavanshi-ishan-kishan-in-sanju-samson-nitish-kumar-reddy-out-marathi-news-1438773)
+- [ഇരുപത്തിയൊന്നാം നൂറ്റാണ്ടിലെ പതിനൊന്നാം ഇന്‍ഡസ്ട്രി ഹിറ്റ്; പതിനൊന്നാമനായി നിവിന്‍ പോളി](https://www.doolnews.com/bethlehem-kudumba-unit-becomes-the-11th-industry-hit-in-malayalam-in-21st-centuary-64-159.html)
+- [National Film Awards : गुजरातमध्ये राष्ट्रीय चित्रपट पुरस्कार सोहळा का? परेश रावल यांनी दिलं सडेतोड उत्तर](https://marathi.asianetnews.com/entertainment/paresh-rawal-backs-gujarat-as-venue-for-72nd-national-film-awards/articleshow-no6hmmg)
+- [Lion Death: સિંહોના સ્વાસ્થ્ય પર મોટું સંકટ!](https://www.gujaratfirst.com/top-news/gujarat-lion-deaths-62-lions-died-in-one-year-due-to-diseases-gujarat-first/338326/)
+- [സച്ചിന് ആശാരിപ്പണിയും വശമുണ്ടോ? കാർപെന്ററി കിറ്റുമായി നടന്നതിന്റെ രഹസ്യം വെളിപ്പെടുത്തി സച്ചിൻ](https://www.mathrubhumi.com/sports/cricket/sachin-tendulkar-carpentry-kit-bat-customization-secret-e5aryo94)
+- [மதுராந்தகம் தொகுதி இடைத்தேர்தல்: திமுக தீவிர களப்பணி](https://www.dinakaran.com/news/maduranthakam-byelection-dmk/)
+- [Nagpur bank robbery: Man throws chilli powder at staff, flees with cash; watch](https://timesofindia.indiatimes.com/city/nagpur/nagpur-bank-robbery-man-throws-chilli-powder-at-staff-flees-with-cash-watch/articleshow/134058041.cms)
+- [ശൈഖ് മുഹമ്മദ് ബിൻ സലേം അൽ ഖാസിമി അന്തരിച്ചു; ഷാർജയിൽ മൂന്ന് ദിവസത്തെ ഔദ്യോഗിക ദുഃഖാചരണം](https://www.asianetnews.com/pravasam/sheikh-mohammed-bin-salem-bin-sultan-al-qasimi-passes-away-articleshow-71b8nqt)
+- [18ਵੇਂ ਬ੍ਰਿਕਸ ਸੰਮੇਲਨ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣ ਲਈ ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ ਦੇ ਮੁਖੀ ਐਂਟੋਨੀਓ ਗੁਟੇਰੇਸ ਨਵੀਂ ਦਿੱਲੀ ਪਹੁੰਚੇ](https://wishavwarta.in/un-chief-antonio-guterres-arrives-in-new-delhi/)
+- [एक बार फिर आसमान में खड़े दिखे ‘ट्विन टावर्स’](https://www.bbc.com/hindi/articles/cn9w5pl4ywxo)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
