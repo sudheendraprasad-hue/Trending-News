@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-12 20:37:45
+# India Trending Report — 2026-09-12 21:01:48
 
 ## Google Trends (India) — top trending searches
 1. [aryna sabalenka](https://trends.google.com/trending/rss?geo=IN)
-2. [bruno guimarães](https://trends.google.com/trending/rss?geo=IN)
-3. [madrid vs](https://trends.google.com/trending/rss?geo=IN)
+2. [madrid vs](https://trends.google.com/trending/rss?geo=IN)
+3. [weather mumbai](https://trends.google.com/trending/rss?geo=IN)
 4. [vinícius júnior](https://trends.google.com/trending/rss?geo=IN)
-5. [real madrid today match](https://trends.google.com/trending/rss?geo=IN)
-6. [weather mumbai](https://trends.google.com/trending/rss?geo=IN)
-7. [la liga](https://trends.google.com/trending/rss?geo=IN)
-8. [thibaut courtois](https://trends.google.com/trending/rss?geo=IN)
-9. [jude bellingham](https://trends.google.com/trending/rss?geo=IN)
-10. [laliga games](https://trends.google.com/trending/rss?geo=IN)
+5. [real madrid standings](https://trends.google.com/trending/rss?geo=IN)
+6. [la liga](https://trends.google.com/trending/rss?geo=IN)
+7. [thibaut courtois](https://trends.google.com/trending/rss?geo=IN)
+8. [jude bellingham](https://trends.google.com/trending/rss?geo=IN)
+9. [laliga games](https://trends.google.com/trending/rss?geo=IN)
+10. [thomas meunier](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - ['India can be bridge-builder': UN hails Iran-UAE meeting on sidelines of Brics](https://timesofindia.indiatimes.com/india/un-hails-iran-uae-meeting-on-sidelines-of-brics-summit-says-india-can-be-bridge-builder/articleshow/134141786.cms)
+- [Meghalaya CM Sangma calls on guv amid reports of 8 UDP MLAs planning to join BJP](https://timesofindia.indiatimes.com/city/guwahati/conrad-calls-on-guv-amid-reports-of-8-udp-mlas-planning-to-join-bjp/articleshow/134148275.cms)
+- [EC meets both TMC factions amid their 'real party' claims](https://timesofindia.indiatimes.com/india/ec-meets-both-tmc-factions-amid-their-real-party-claims/articleshow/134156501.cms)
 - [Iconic moments, landmark talks & a breakthrough pact: Key points from Brics Summit](https://timesofindia.indiatimes.com/india/modi-xi-putin-bonhomie-car-diplomacy-gala-dinner-pahalgam-condemnation-and-new-delhi-declaration-brics-summit-key-takeaways/articleshow/134141337.cms)
-- [Maratha quota activist Jarange's Mumbai march to clash with Ganesh festival](https://timesofindia.indiatimes.com/city/aurangabad/will-start-mumbai-march-on-sept-15-launch-indefinite-fast-at-azad-maidan-on-sept-20-jarange/articleshow/134152663.cms)
-- [Watch: Malaysian PM sings Kishore Kumar's 'Khwaab Ho Tum ...' at Brics gala dinner](https://timesofindia.indiatimes.com/india/watch-malaysian-pm-sings-kishore-kumars-khwaab-ho-tum-ya-koi-haqeeqat-at-brics-gala-dinner/articleshow/134145809.cms)
-- [Anthropic CEO calls for slowing down AI race; Altman & Musk back him up](https://timesofindia.indiatimes.com/technology/tech-news/anthropic-ceo-dario-amodei-calls-on-ai-firms-to-slow-pace-of-developmen-gets-backing-from-sam-altman-elon-musk/articleshow/134146825.cms)
+- [After raid on PA, ex-Uttarakhand CM Harish Rawat wants to quit Cong posts](https://timesofindia.indiatimes.com/city/dehradun/want-to-quit-posts-not-cong-party-is-my-blood-bones-harish-rawat-after-ed-raid-on-aide/articleshow/134146985.cms)
 - [Mark Zuckerberg on how engineers made him return to Musk's X after 3 years in 2026](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-him-do-it/articleshow/134147562.cms)
 - [After Trump renames Lake Ontario, Republican wants Lake Erie renamed too](https://timesofindia.indiatimes.com/world/us/after-trump-renamed-lake-ontario-lake-america-a-pennsylvania-republican-now-wants-lake-erie-renamed-lake-pennsylvania/articleshow/134048308.cms)
-- ['I definitely know how his mind works': Shreyas Iyer on Gautam Gambhir](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/i-definitely-know-how-his-mind-works-shreyas-iyer-on-gautam-gambhir/articleshow/134141874.cms)
+- [Maratha quota activist Jarange's Mumbai march to clash with Ganesh festival](https://timesofindia.indiatimes.com/city/aurangabad/will-start-mumbai-march-on-sept-15-launch-indefinite-fast-at-azad-maidan-on-sept-20-jarange/articleshow/134152663.cms)
+- [Watch: Malaysian PM sings Kishore Kumar's 'Khwaab Ho Tum ...' at Brics gala dinner](https://timesofindia.indiatimes.com/india/watch-malaysian-pm-sings-kishore-kumars-khwaab-ho-tum-ya-koi-haqeeqat-at-brics-gala-dinner/articleshow/134145809.cms)
 - [Harvard University has a 'September message' for all international students](https://timesofindia.indiatimes.com/technology/tech-news/harvard-university-has-a-september-message-for-all-international-students-planning-to-leave-america-as-well-as-those-staying-in-the-country/articleshow/134118705.cms)
-- [Decomposed body of ‘Pak Jaish terrorist’, M4 rifle found in J&K's Doda](https://timesofindia.indiatimes.com/india/decomposed-body-of-pak-jaish-terrorist-m4-rifle-found-in-doda/articleshow/134149836.cms)
 
 **NDTV**
 - [Explosions Heard Off The Coast Of Iran's Qeshm Island](https://www.ndtv.com/world-news/us-iran-war-explosions-heard-off-the-coast-of-irans-qeshm-island-12038960#publisher=newsstand)
@@ -62,6 +62,8 @@
 - [ಹರ್ಷಿತ್ ರಾಣಾ ಯಾವ ಸೀಮೆ ಆಲ್ರೌಂಡರ್?: ಗುರಿ ತಪ್ಪಿರುವ ಗೌತಮ್ ಗಂಭೀರ್ ರಣತಂತ್ರಕ್ಕೆ ಎಸ್ ಬದ್ರೀನಾಥ್ ಆಕ್ರೋಶ](https://vijaykarnataka.com/sports/cricket/news/s-badrinath-questions-gautam-gambhir-all-rounder-strategy-and-harshit-rana-role/articleshow/134132953.cms)
 
 **The Hindu**
+- [Chhattisgarh BJP Minister's brother Guru Dhaldas Saheb joins Congress](https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-bjp-ministers-brother-guru-dhaldas-saheb-joins-congress/article71460770.ece)
+- [Jamia hostel protest over mess food escalates; varsity denies assault charges](https://www.thehindu.com/news/cities/Delhi/jamia-hostel-protest-aisa-claims-students-assaulted-university-refutes-charge/article71459572.ece)
 - [Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths](https://www.thehindu.com/news/national/madhya-pradesh/balaghat-child-deaths-cjp-convernor-dipke-visits-tribal-villages-demands-accountability/article71459426.ece)
 - ['Millet pulao', 'paneer lababdar', 'shahtoot phirni': BRICS Summit gala dinner menu](https://www.thehindu.com/news/national/brics-summit-gala-dinner-menu/article71461293.ece)
 - [Kerala Assistant Public Prosecutors Association gets new office-bearers](https://www.thehindu.com/news/national/kerala/kerala-assistant-public-prosecutors-association-gets-new-office-bearers/article71459804.ece)
@@ -70,8 +72,6 @@
 - [Namma Chennai app opens volunteer registration ahead of Northeast monsoon](https://www.thehindu.com/news/national/tamil-nadu/namma-chennai-app-opens-volunteer-registration-ahead-of-northeast-monsoon/article71459922.ece)
 - [GCC asks over six lakh property owners to clear ₹847 crore dues by Sept. 30](https://www.thehindu.com/news/national/tamil-nadu/gcc-asks-over-six-lakh-property-owners-to-clear-847-crore-dues-by-sept-30/article71459996.ece)
 - [Medical students heal a broken footpath](https://www.thehindu.com/news/national/karnataka/medical-students-heal-a-broken-footpath/article71460171.ece)
-- [Backing ideas before they become enterprises](https://www.thehindu.com/news/national/tamil-nadu/backing-ideas-before-they-become-enterprises/article71461009.ece)
-- [Complainant in ED case has relations with Congress, but is a BJP voter: Jarkiholi](https://www.thehindu.com/news/national/karnataka/complainant-in-ed-case-has-relations-with-congress-but-is-a-bjp-voter-jarkiholi/article71460379.ece)
 
 **Livemint**
 - [Trump's childhood home in Queens was once a cat den. Now it has sold for  ₹18.44 crore](https://www.livemint.com/news/us-news/trumps-childhood-home-in-queens-was-once-a-cat-den-now-it-has-sold-for-18-44-crore-11789236131291.html)
@@ -108,27 +108,27 @@
 - BRICS Summit (3.0)
 - Dipke (2.9)
 - Balaghat (2.9)
+- Cong (2.6)
 - September (2.6)
 - Highlights (2.6)
 - Millet (2.6)
 - What's (2.6)
 - Summit (2.5)
 - New Delhi (2.0)
-- West Asia (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ['PM मोदी बहुत पॉपुलर हैं...', द्विपक्षीय मुलाकात में मलेशियाई PM ने की तारीफ](https://www.aajtak.in/india/news/story/brics-summit-pm-modi-popularity-malaysia-pm-anwar-ibrahim-ntc-dhrj-dskc-2641397-2026-09-12)
-- [Zomato : జొమాటో వినియోగదారులకు బిగ్ షాక్.. క్యాష్ ఆన్ డెలివరీకి కొత్త ఫీజు! కోట్లలో అదనపు ఆదాయం?](https://10tv.in/telugu-news/national/zomato-begins-charging-rs-5-for-cash-on-delivery-hn-1136030.html)
-- [जेल के अंदर पॉर्न देख रहा था रेप का दोषी प्रज्वल रेवन्ना? पूर्व सांसद के फोन में मिले दर्जनों वीडियो](https://www.jagran.com/news/national-dozens-of-porn-videos-in-phone-used-by-rape-convict-ex-mp-prajwal-revanna-in-jail-40370647.html)
-- [ట్రైన్ టికెట్ బుకింగుల్లో IRCTC సరికొత్త రికార్డ్.. ఒక్కరోజే ఏకంగా 20 లక్షల ప్లస్.. ఇదే తొలిసారి!](https://telugu.samayam.com/business/business-news/irctc-ticket-bookings-hit-record-daily-rail-reservations-cross-20-lakh-for-first-time/articleshow/134117939.cms)
-- [EXCLUSIVE: 'मोजतबा खामेनेई जिंदा हैं या नहीं?' ईरानी राष्ट्रपति पेजेश्कियान ने किया खुलासा](https://www.aajtak.in/india/news/story/iran-president-pezeshkian-mojtaba-khamenei-alive-ntcpsc-dskc-2641388-2026-09-12)
-- [रोहित रॉय के बिगड़े बोल, जिस TV ने बनाया स्‍टार उसे कहा 'कूड़ेदान', बोले- यहां लोगों को बात करने का सलीका नहीं](https://navbharattimes.indiatimes.com/tv/tv-masala/rohit-roy-calls-television-dustbin-medium-says-tv-actors-lack-grace-and-class/articleshow/134117363.cms)
-- [Gold Price Today: গতকাল একধাক্কায় কমার পর আজ কিছুটা বাড়ল সোনার দাম, রুপো বেড়েছে সাড়ে ৩ হাজারের বেশি!](https://bengali.abplive.com/business/gold-price-rose-slightly-today-price-of-silver-surged-by-more-than-3500-12-september-2026-1192550)
-- [ഷൊർണൂരിൽ ട്രെയിനിൽ യാത്രക്കാരിയെ കടന്നുപിടിച്ചെന്ന് പരാതി; ലൈം​ഗികാതിക്രമക്കേസിൽ ടിടിഇ അറസ്റ്റിൽ](https://www.asianetnews.com/kerala-news/sexual-assault-against-woman-passenger-in-train-tte-arrested-from-shoranur-railway-station-articleshow-b2tim3d)
-- [टूटी 10 साल की शादी-बेटी को अकेले पाल रही एक्ट्रेस, बोली- भूल जाती हूं...](https://www.aajtak.in/entertainment/television/photo/sanjeeda-shaikh-life-changed-after-divorce-upbringing-daughter-alone-harshvardhan-rane-second-marriage-tmovb-2641383-2026-09-12)
-- [വീട് ഉപേക്ഷിച്ച് കാമുകനൊപ്പം ഒളിച്ചോടി; ഭാര്യയുടെ വിവാഹം നടത്തി ഭർത്താവ്](https://www.manoramaonline.com/news/latest-news/2026/09/12/husband-arranges-wifes-marriage-to-her-lover-after-she-elopes-in-lucknow.html)
+- [Yes, LG smart TVs know more about you than you think - but so do other TV brands](https://www.tomsguide.com/tvs/yes-lg-smart-tvs-know-more-about-you-than-you-think-but-so-do-other-tv-brands)
+- [‘ChatGPT will glaze anyone regardless’: Some users say its sycophancy is as bad as ever - but my 5 tests told a different story](https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-glaze-anyone-regardless-users-090000406.html)
+- [‘ChatGPT will glaze anyone regardless’: I tried 5 ways to make ChatGPT flatter and agree with me - here’s what happened](https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-will-glaze-anyone-regardless-i-tried-5-ways-to-make-chatgpt-flatter-and-agree-with-me-heres-what-happened)
+- [Why is Venus hotter than Mercury, when Mercury is closer to the sun?](https://www.livescience.com/space/venus/why-is-venus-hotter-than-mercury-when-mercury-is-closer-to-the-sun)
+- [कांगो में 7 हजार से ज्यादा लोग इबोला पीड़ित, वायरस नए राज्य में फैला](https://www.aajtak.in/science/story/ebola-outbreak-drc-death-toll-3000-largest-outbreak-dskc-2641410-2026-09-12)
+- [அடுத்த வாரம் சந்தைக்கு வரும் 11 ஐபிஓ, என் எஸ் இ முதல் ஹீரோ மோட்டார்ஸ் வரை](https://tamil.economictimes.com/11-new-ipos-hitting-indian-market-nse-and-hero-motors-leading/articleshow/134119859.cms)
+- [200 करोड़ क्लब में 'हनुमान अंश' की एंट्री, बॉक्स ऑफिस पर जलवा बरकरार, विदेश में बजा डंका](https://www.indiatv.in/entertainment/bollywood/hanuman-ansh-enters-200-crore-club-maintains-its-box-office-dominance-makes-mark-overseas-too-2026-09-12-1242802)
+- [ઇશાન કિશનની ઇજા કેટલી ગંભીર? ફિટનેસ અંગે આવ્યું મોટું અપડેટ, નવદીપ સૈનીએ ફેન્સની ચિંતા દૂર કરી](https://www.gujaratsamachar.com/news/sports/how-serious-is-ishan-kishans-injury-big-update-on-fitness-navdeep-saini-allays-fans-concerns-32357886789)
+- [राफेल अन् F-35 पेक्षाही वेगवान! भारताच्या पक्‍क्या मित्रानं दिली जबरदस्त ऑफर, पाकिस्तानचं टेन्शन वाढणार](https://www.lokmat.com/international/faster-than-rafale-and-f-35-russia-offers-177s-jet-engine-su57-fighter-jet-to-india-a-a653/)
+- [“அமைச்சர் நிர்மல் குமார் இன்னும் ஆர்எஸ்எஸ் விசுவாசியாக இருக்கிறார்” - அன்பில் மகேஸ் விமர்சனம்](https://www.hindutamil.in/news/tamilnadu/minister-nirmal-kumar-remains-an-rss-loyalist-says-anbil-mahesh)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
