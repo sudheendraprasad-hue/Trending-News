@@ -1,24 +1,24 @@
-# India Trending Report — 2026-09-12 21:32:50
+# India Trending Report — 2026-09-12 22:02:00
 
 ## Google Trends (India) — top trending searches
-1. [arda güler](https://trends.google.com/trending/rss?geo=IN)
-2. [roberto fernández](https://trends.google.com/trending/rss?geo=IN)
-3. [stranger things](https://trends.google.com/trending/rss?geo=IN)
-4. [us open](https://trends.google.com/trending/rss?geo=IN)
-5. [aryna sabalenka](https://trends.google.com/trending/rss?geo=IN)
-6. [sergio camello](https://trends.google.com/trending/rss?geo=IN)
-7. [vinícius júnior](https://trends.google.com/trending/rss?geo=IN)
-8. [real madrid standings](https://trends.google.com/trending/rss?geo=IN)
-9. [weather mumbai](https://trends.google.com/trending/rss?geo=IN)
-10. [thibaut courtois](https://trends.google.com/trending/rss?geo=IN)
+1. [raphinha](https://trends.google.com/trending/rss?geo=IN)
+2. [arda güler](https://trends.google.com/trending/rss?geo=IN)
+3. [fpl](https://trends.google.com/trending/rss?geo=IN)
+4. [roberto fernández](https://trends.google.com/trending/rss?geo=IN)
+5. [stranger things](https://trends.google.com/trending/rss?geo=IN)
+6. [nike](https://trends.google.com/trending/rss?geo=IN)
+7. [aryna sabalenka](https://trends.google.com/trending/rss?geo=IN)
+8. [sergio camello](https://trends.google.com/trending/rss?geo=IN)
+9. [vinícius júnior](https://trends.google.com/trending/rss?geo=IN)
+10. [weather mumbai](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- ['India can be bridge-builder': UN hails Iran-UAE meeting on sidelines of Brics](https://timesofindia.indiatimes.com/india/un-hails-iran-uae-meeting-on-sidelines-of-brics-summit-says-india-can-be-bridge-builder/articleshow/134141786.cms)
+- ['Global South must shape, not just follow, rules': PM Modi at Brics Summit](https://timesofindia.indiatimes.com/india/modi-global-south-must-shape-not-just-follow-rules/articleshow/134158493.cms)
 - [Brics Summit success gives BJP a boost in domestic politics](https://timesofindia.indiatimes.com/india/summit-success-gives-bjp-a-boost-in-domestic-politics/articleshow/134158188.cms)
 - [Meghalaya CM Sangma calls on guv amid reports of 8 UDP MLAs planning to join BJP](https://timesofindia.indiatimes.com/city/guwahati/conrad-calls-on-guv-amid-reports-of-8-udp-mlas-planning-to-join-bjp/articleshow/134148275.cms)
 - [EC meets both TMC factions amid their 'real party' claims](https://timesofindia.indiatimes.com/india/ec-meets-both-tmc-factions-amid-their-real-party-claims/articleshow/134156501.cms)
-- [Iconic moments, landmark talks & a breakthrough pact: Key points from Brics Summit](https://timesofindia.indiatimes.com/india/modi-xi-putin-bonhomie-car-diplomacy-gala-dinner-pahalgam-condemnation-and-new-delhi-declaration-brics-summit-key-takeaways/articleshow/134141337.cms)
+- [Brics opposes unilateral trade steps like EU carbon border tax](https://timesofindia.indiatimes.com/india/brics-opposes-unilateral-trade-steps-like-eu-carbon-border-tax/articleshow/134158775.cms)
 - [Mark Zuckerberg on how engineers made him return to Musk's X after 3 years in 2026](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-him-do-it/articleshow/134147562.cms)
 - [After Trump renames Lake Ontario, Republican wants Lake Erie renamed too](https://timesofindia.indiatimes.com/world/us/after-trump-renamed-lake-ontario-lake-america-a-pennsylvania-republican-now-wants-lake-erie-renamed-lake-pennsylvania/articleshow/134048308.cms)
 - [After raid on PA, ex-Uttarakhand CM Harish Rawat wants to quit Cong posts](https://timesofindia.indiatimes.com/city/dehradun/want-to-quit-posts-not-cong-party-is-my-blood-bones-harish-rawat-after-ed-raid-on-aide/articleshow/134146985.cms)
@@ -49,7 +49,17 @@
 - [How India pulled off BRICS consensus on Delhi declaration amid West Asia crisis](https://www.hindustantimes.com/india-news/how-india-pulled-off-brics-consensus-on-delhi-declaration-amid-west-asia-crisis-101789230276713.html)
 - [Millet pulao, beetroot raita: What's on BRICS Gala dinner menu?](https://www.hindustantimes.com/india-news/millet-pulao-beetroot-raita-old-delhi-fruit-cream-whats-on-brics-gala-dinner-menu-101789227178873.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [BRICS Summit 2026: ದಶಕದ ಬಳಿಕ ಒಂದೇ ವೇದಿಕೆಯಲ್ಲಿ ಮೋದಿ-ಪುಟಿನ್-ಜಿನ್‌ ಪಿಂಗ್! ಮೊದಲ ದಿನ ನಡೆದದ್ದೇನು?](https://vijaykarnataka.com/news/india/brics-summit-highlights-modi-putin-jinping-important-meetings/articleshow/134148094.cms)
+- [ಸಿಎಂ ಡಿಕೆ ಶಿವಕುಮಾರ್ ಎಚ್ಚರಿಕೆ ಬೆನ್ನಲ್ಲೇ ಎಚ್ಚೆತ್ತ ಕರ್ನಾಟಕ ಪೊಲೀಸ್: 800 ಬಾಲಕಾರ್ಮಿಕರ ಬಾಳಿನಲ್ಲಿ ಹೊಸಬೆಳಕು!](https://vijaykarnataka.com/news/karnataka/karnataka-police-rescues-800-child-laborers-after-alert-by-cm-dk-shivakumar/articleshow/134144586.cms)
+- [ಪಾಕ್ ಕೊನೇ ಪ್ರಯತ್ನಕ್ಕೆ ತಣ್ಣೀರೆರಚಿದ ಜೋ ರೂಟ್ ಅಜೇಯ `ಅರ್ಧಶತಕ'; ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಮಹತ್ವದ ವಿಶ್ವದಾಖಲೆಯೂ ಧೂಳೀಪಟ!](https://vijaykarnataka.com/sports/cricket/news/england-vs-pakistan-edgbaston-test-joe-root-breaks-world-record-of-most-half-centuries-of-sachin-tendulkar/articleshow/134140026.cms)
+- [ಇಂಡಿಯನ್ ಬಾಡಿ ಟೈಪ್ ಬಗ್ಗೆ ಆರ್. ಮಾಧವನ್ ಪುತ್ರ ವೇದಾಂತ್ ಹೇಳಿದ್ದೇನು? ಕ್ರೀಡೆಯಲ್ಲಿ ನಮ್ಮ ಕೊರತೆ ಇಲ್ಲಿದೆ!](https://vijaykarnataka.com/lifestyle/fitness/r-madhavan-son-vedaant-sports-fitness-insights/articleshow/134125078.cms)
+- [`ಭಾರತಕ್ಕೆ ಝಾಕಿರ್ ನಾಯ್ಕ್ ಹಸ್ತಾಂತರದ ಬಗ್ಗೆ ಚರ್ಚಿಸಿದ್ದು ಹೌದು'; ಮೋದಿ ಭೇಟಿ ಬಗ್ಗೆ ಮಲೇಷ್ಯಾ ಪ್ರಧಾನಿ ಮಹತ್ವದ ಹೇಳಿಕೆ](https://vijaykarnataka.com/news/india/malaysia-prime-minister-anwar-ibrahim-clarifies-on-zakir-naik-extradition/articleshow/134136370.cms)
+- [BBK 13: ಈ ಬಾರಿ ವಿನ್ನರ್‌ಗೆ ಮಾತ್ರವಲ್ಲ.. ರನ್ನರ್‌ ಅಪ್‌ಗೂ ಸಿಗಲಿದೆ ಲಕ್ಷ ಲಕ್ಷ ಹಣ! ಎಷ್ಟು ಗೊತ್ತಾ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-week-1-kiccha-sudeep-announces-winner-and-runner-up-prize-money-details/articleshow/134153459.cms)
+- [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
+- [2026 ಗಣೇಶ ಚತುರ್ಥಿ: ಗಣೇಶ ಪೂಜೆಯಲ್ಲಿ ಅರ್ಪಿಸಬಾರದ ವಸ್ತುಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/ganesh-chaturthi-2026-do-not-offer-these-things-to-lord-ganesha/articleshow/134133886.cms)
+- [ಫ್ರಿಡ್ಜ್‌ನಲ್ಲಿ ಬೆಂಡೆಕಾಯಿ ಅಂಟಾಗದಂತೆ ತಾಜಾ ಇಡೋದು ಹೇಗೆ? ಈ ಟಿಪ್ಸ್ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/home-decor/how-to-keep-bhindi-fresh-in-the-fridge-without-getting-sticky/articleshow/134112541.cms)
+- [ಹರ್ಷಿತ್ ರಾಣಾ ಯಾವ ಸೀಮೆ ಆಲ್ರೌಂಡರ್?: ಗುರಿ ತಪ್ಪಿರುವ ಗೌತಮ್ ಗಂಭೀರ್ ರಣತಂತ್ರಕ್ಕೆ ಎಸ್ ಬದ್ರೀನಾಥ್ ಆಕ್ರೋಶ](https://vijaykarnataka.com/sports/cricket/news/s-badrinath-questions-gautam-gambhir-all-rounder-strategy-and-harshit-rana-role/articleshow/134132953.cms)
 
 **The Hindu**
 - [Congress claims NSUI's victory in Garhwal university student union polls](https://www.thehindu.com/news/national/uttarakhand/congress-claims-nsuis-victory-in-garhwal-university-student-union-polls/article71461373.ece)
@@ -90,35 +100,35 @@
 - [ಪರಿಹಾರಕ್ಕಾಗಿ ಅಪಘಾತದ ಸನ್ನಿವೇಶ ತಿರುಚಿರುವ ಶಂಕೆ; ಪ್ರಕರಣದ ಮರುತನಿಖೆಗೆ ಎಸ್‌ಐಟಿ ರಚನೆಗೆ ಹೈಕೋರ್ಟ್ ಆದೇಶ](https://www.varthabharati.in/bangalore-city/high-court-2274858)
 
 ## Cross-source trending keywords (derived from headlines above)
-- BRICS (6.9)
+- BRICS (7.2)
 - Opinion (5.2)
-- India (5.1)
 - Brics (4.5)
+- India (3.8)
 - Delhi (3.5)
+- BRICS Summit (3.0)
 - Dipke (2.9)
 - Balaghat (2.9)
+- Summit (2.8)
 - Cong (2.6)
 - September (2.6)
 - Highlights (2.6)
 - Millet (2.6)
 - What's (2.6)
 - Congress (2.6)
-- Summit (2.5)
-- Brics Summit (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Hot Tea Cancer Risk: ગરમ ચા અને કોફી પીવાની આદત છે જોખમી, વધી શકે છે કેન્સરનું જોખમ!](https://www.gujaratfirst.com/health-science-articles/hot-tea-coffee-cancer-risk-study-gujarat-first-digital/338629/)
-- [‘Working on Iran’s NDB membership’: Araghchi reveals Brics bank push, calls Modi-Pezeshkian meet ‘strong’](https://timesofindia.indiatimes.com/india/working-on-irans-ndb-membership-araghchi-reveals-brics-bank-push-calls-modi-pezeshkian-meet-strong/articleshow/134121324.cms)
-- [மீனாட்சி அம்மன் கோயில் குடமுழுக்கு: 6,000 காவலர்கள் பாதுகாப்பு](https://www.tamilmurasu.com.sg/tamilnadu/meenakshi-amman-temple-maha-kumbhabhishekam-6000-police-officers-security)
-- ['आपको और चीते चाहिए तो आप चीतों के घर में हैं', सुनते ही हंस पड़े PM मोदी, कहानी BRICS 2023 की](https://www.aajtak.in/india/delhi/story/brics-india-south-africa-cheetah-relocation-story-ntcppl-dskc-2641427-2026-09-12)
-- [டெல்லியில் தொடங்கியது BRICS உச்சிமாநாடு: உலகத் தலைவர்கள் பங்கேற்பு](https://www.polimernews.com/justnownews/brics-summit-begins-delhi-modi-putin-xi-jinping-12523972)
-- [కాలిఫోర్నియాలో భారత సంతతి మహిళ దారుణ హత్య](https://www.andhrajyothy.com/2026/international/usa/indian-origin-woman-shot-by-stalker-in-california-smr-1557584.html)
-- [Mahadevi Returns Home to Kolhapur: महादेवीची कोल्हापूरला घरवापसी; वंताराकडून उपचार आणि देखभालीची जबाबदारी कायम](https://www.lokshahi.com/maharashtra/mahadevi-returns-home-to-kolhapur-vantara-continues-responsibility-for-her-treatment-and-care-12523961)
-- [सीमा हैदर का पति सचिन कहां गया, बेडरूम में दिखी वकील एपी सिंह की तस्वीर](https://www.livehindustan.com/national/seema-haider-video-advocate-ap-singh-photo-see-where-is-husband-sachin-meena-gone-201789203941496.html)
-- [Renapur Kharif crops : दुष्काळाच्या उंबरठ्यावर रेणापूर; खरीप पिके करपली](https://pudhari.news/maharashtra/marathwada/latur/renapur-drought-kharif-crops-damaged-rainfall-shortage-ab96)
-- [IND vs AFG: दिल्ली के अरुण जेटली स्टेडियम में बदल जाएगा टीम इंडिया का इतिहास, घर में ही हो जाएगी पराई](https://www.jagran.com/cricket/headlines-indian-cricket-team-will-take-visiting-team-dressing-in-arun-jaitley-stadium-for-afghanistan-series-40370843.html)
+- [പിഎം ശ്രീ: കേന്ദ്ര അജണ്ട നടപ്പാക്കാനാണെങ്കിൽ കേരളത്തിൽ അനുവദിക്കില്ല: മുനവ്വറലി തങ്ങൾ](https://www.mediaoneonline.com/kerala/kerala-newsyouth-league-munavvarali-thangal-opposes-pm-shri-336805)
+- [कल का मौसम 13 सितंबर: 14 घंटे के भीतर 25 राज्यों में मूसलाधार बारिश का अलर्ट, 80 की स्पीड से हवा; IMD अपडेट](https://navbharattimes.indiatimes.com/india/tomorrow-weather-13-september-2026-thunderstorm-and-heavy-rain-alert-in-25-states-within-14-hours-wind-speed-up-to-80-kmph-delhi-up-bihar-temperature/articleshow/134122381.cms)
+- [గణేశ్ ఉత్సవాలకు ఎలాంటి ఆటంకం కలగకూడదు: సీఎం రేవంత్ ఆదేశం..](https://www.andhrajyothy.com/2026/telangana/hyderabad/hyderabad-ganesh-festival-cm-revanth-reddy-security-immersion-arrangements-suri-1557589.html)
+- [सऊदी की तेल पाइपलाइन ठप, क्रूड ऑयल संकट से महंगा बिकेगा पेट्रोल-डीजल!](https://www.abplive.com/business/saudi-arabia-oil-pipeline-halted-petrol-and-diesel-prices-set-rise-due-crude-oil-crisis-3187893)
+- [ബ്രിക്‌സ് ഉച്ചകോടിയിൽ സംയുക്ത പ്രഖ്യാപനത്തിന് ധാരണ; ഇന്ന് പുറത്തിറക്കും](https://www.asianetnews.com/news/brics-summit-consensus-reached-on-joint-declaration-to-be-released-today-articleshow-57s2d0g)
+- [भारत में BRICS समिट के बीच PM मोदी ने नेतन्याहू को किया याद, नए साल की दी बधाई](https://www.aajtak.in/india/news/story/pm-modi-benjamin-netanyahu-rosh-hashanah-greeting-brics-summit-ntc-mnrd-dskc-2641446-2026-09-12)
+- [Petrol-Diesel Price: पेट्रोल-डिझेल पुन्हा महागणार? सौदी अरेबियाने बंद केली कच्च्या तेलाची पाइपलाइन, भारताचे टेन्शन वाढलं](https://saamtv.esakal.com/national-international/crude-oil-price-surges-petroldiesel-prices-may-rise-again-saudi-arabia-shuts-oil-pipeline-after-drone-attack-pvm91)
+- [তৃণমূলের বৈঠক শেষ ! কী কথা হল, জানালেন কল্যাণ বন্দ্যোপাধ্যায়](https://bengali.abplive.com/district/kalyan-banerjee-kalighat-tmc-briefs-what-discussed-with-election-commission-on-tmc-symbol-new-delhi-1192564)
+- [Bigg Boss Today Promo: వీడియోలు చూపిస్తూ సినిమా చూపించిన నాగార్జున.. చరణ్, చైత్రల ఎలిమినేషన్‌పై మబ్బులిడిపోయే సీక్రెట్ రివీల్](https://telugu.samayam.com/tv/bigg-boss-telugu/bigg-boss-telugu-10-day-6-promo-nagarjuna-reveals-the-elimination-twist/articleshow/134121873.cms)
+- [नेपाल ने कटाया एशिया कप 2027 का टिकट, फाइनल में पस्त हुआ UAE, आसिफ शेख बने जीत के हीरो](https://www.aajtak.in/sports/cricket/story/nepal-beat-uae-acc-mens-premier-cup-2026-final-qualify-asia-cup-2027-tspoa-dskc-2641436-2026-09-12)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
