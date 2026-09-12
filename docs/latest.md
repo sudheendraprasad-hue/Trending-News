@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-12 00:02:23
+# India Trending Report — 2026-09-12 00:39:10
 
 ## Google Trends (India) — top trending searches
-1. [england pakistan cricket match](https://trends.google.com/trending/rss?geo=IN)
-2. [and](https://trends.google.com/trending/rss?geo=IN)
-3. [caribbean premier league](https://trends.google.com/trending/rss?geo=IN)
-4. [iphone duo iphone 18 pro](https://trends.google.com/trending/rss?geo=IN)
-5. [watch](https://trends.google.com/trending/rss?geo=IN)
-6. [ipl](https://trends.google.com/trending/rss?geo=IN)
-7. [लता मंगेशकर](https://trends.google.com/trending/rss?geo=IN)
-8. [t](https://trends.google.com/trending/rss?geo=IN)
-9. [grand prix](https://trends.google.com/trending/rss?geo=IN)
-10. [ig](https://trends.google.com/trending/rss?geo=IN)
+1. [लाभांश](https://trends.google.com/trending/rss?geo=IN)
+2. [రాశి](https://trends.google.com/trending/rss?geo=IN)
+3. [भारत के विदेशी मुद्रा भंडार](https://trends.google.com/trending/rss?geo=IN)
+4. [स्कूटर](https://trends.google.com/trending/rss?geo=IN)
+5. [भजन](https://trends.google.com/trending/rss?geo=IN)
+6. [we](https://trends.google.com/trending/rss?geo=IN)
+7. [england pakistan cricket match](https://trends.google.com/trending/rss?geo=IN)
+8. [and](https://trends.google.com/trending/rss?geo=IN)
+9. [রোহিত শর্মা](https://trends.google.com/trending/rss?geo=IN)
+10. [live](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Brics 2026: Officials claim 50 outcomes, but no clarity on united declaration](https://timesofindia.indiatimes.com/india/officials-claim-50-outcomes-but-no-clarity-on-united-declaration/articleshow/134098263.cms)
 - [40% of global GDP is here: PM Modi on Brics Summit](https://timesofindia.indiatimes.com/india/40-of-global-gdp-is-here-pm-modi/articleshow/134092501.cms)
-- [Brics 2026: Inside heightened security deployment for Xi's first India visit since 2019](https://timesofindia.indiatimes.com/india/guarding-xi-inside-heightened-security-deployment/articleshow/134086513.cms)
 - [‘Did anyone go to jail in Kerala?’ Cong hits back at Omar amid Vande Mataram row](https://timesofindia.indiatimes.com/india/did-anyone-go-to-jail-in-kerala-cong-hits-back-at-omar-amid-vande-mataram-row/articleshow/134087507.cms)
+- [SC's 13 queries to FSSAI: 'Give details on shape, size, colour of food label'](https://timesofindia.indiatimes.com/india/scs-13-queries-to-fssai-give-details-on-shape-size-colour-of-food-label/articleshow/134099356.cms)
 - [After Trump renames Lake Ontario, Republican wants Lake Erie renamed too](https://timesofindia.indiatimes.com/world/us/after-trump-renamed-lake-ontario-lake-america-a-pennsylvania-republican-now-wants-lake-erie-renamed-lake-pennsylvania/articleshow/134048308.cms)
 - [Elon Musk's Cybercab rollout puts US safety rules to test as NHTSA audits 1,000 cars](https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-cybercab-has-no-steering-wheel-pedals-or-mirrors-us-safety-regulators-open-audit-of-about-1000-cars-over-teslas-self-certification/articleshow/134066366.cms)
+- [Brics 2026: Inside heightened security deployment for Xi's first India visit since 2019](https://timesofindia.indiatimes.com/india/guarding-xi-inside-heightened-security-deployment/articleshow/134086513.cms)
 - ['Allow easy movement to professionals': Piyush Goyal urges Brics states](https://timesofindia.indiatimes.com/india/goyal-pull-down-barriers-allow-easy-movement-to-professionals/articleshow/134097838.cms)
-- [Busy week for primary market as nine IPOs attract bids worth Rs 1.4 lakh crore](https://timesofindia.indiatimes.com/business/india-business/nine-ipos-attract-bids-worth-1-4-lakh-crore/articleshow/134094680.cms)
-- [India hopes Iran and UAE will show flexibility, allow Brics declaration](https://timesofindia.indiatimes.com/india/pm-doubles-down-on-friendship-with-iran-seeks-win-win-strategy-hope-mounts-for-brics-declaration/articleshow/134086783.cms)
 - [Countries where you can buy iPhone 18 Pro and iPhone 18 Pro Max cheaper than India](https://timesofindia.indiatimes.com/technology/tech-news/countries-where-you-can-buy-iphone-18-pro-and-iphone-18-pro-max-cheaper-than-india/articleshow/134056504.cms)
-- ['Will work with India, be friends': China ahead of PM Modi-Xi meeting in Delhi](https://timesofindia.indiatimes.com/india/will-work-with-india-be-friends-china-ahead-of-pm-modi-xi-meeting-in-delhi/articleshow/134083755.cms)
+- [Busy week for primary market as nine IPOs attract bids worth Rs 1.4 lakh crore](https://timesofindia.indiatimes.com/business/india-business/nine-ipos-attract-bids-worth-1-4-lakh-crore/articleshow/134094680.cms)
 
 **NDTV**
 - [North Korea Fires Unidentified Projectile Toward Sea Of Japan](https://www.ndtv.com/world-news/north-korea-fires-unidentified-projectile-toward-sea-of-japan-report-12035515#publisher=newsstand)
@@ -38,6 +38,7 @@
 - [On Vande Mataram Row, Congress' 'Stand Upright' Retort To Omar Abdullah](https://www.ndtv.com/india-news/on-vande-mataram-row-congress-stand-upright-retort-to-omar-abdullah-12035103#publisher=newsstand)
 
 **Hindustan Times**
+- [Weather Bee: 2026 almost certain to be at least second-warmest year on record](https://www.hindustantimes.com/india-news/weather-bee-2026-almost-certain-to-be-at-least-second-warmest-year-on-record-101789138636460.html)
 - [Minister says UDF will decide on PM SHRI soon](https://www.hindustantimes.com/india-news/keralam-cm-holds-emergency-meet-over-power-crisis-minister-appeals-for-cooperation-101789155860199.html)
 - [U.S. envoy Sergio Gor visits Manipur, meets CM and governor](https://www.hindustantimes.com/india-news/us-envoy-sergio-gor-vists-manipur-meets-cm-and-governor-101789154179365.html)
 - [CAG flags data discrepancies in Gujarat’s Har Ghar Jal claim](https://www.hindustantimes.com/india-news/cag-flags-data-discrepancies-in-gujarat-s-har-ghar-jal-claim-101789148659108.html)
@@ -47,7 +48,6 @@
 - [‘Umeed karta hun…’: Russian diplomat speaks fluent Hindi, expresses optimism ahead of BRICS summit](https://www.hindustantimes.com/india-news/umeed-karta-hun-russian-diplomat-speaks-fluent-hindi-expresses-optimism-ahead-of-brics-summit-101789145175057.html)
 - [BRICS Summit: Delhi announces traffic curbs, diversions for September 12; Check affected routes](https://www.hindustantimes.com/india-news/brics-summit-delhi-announces-traffic-curbs-diversions-for-september-12-check-affected-routes-101789141996452.html)
 - [Amid the 1980s nostalgia trend, here are 10 ChatGPT photo tricks you didn’t know](https://www.hindustantimes.com/india-news/amid-the-1980s-nostalgia-trend-here-are-10-chatgpt-photo-tricks-you-didn-t-know-101789137175948.html)
-- [Modi urges Iran’s Pezeshkian to resolve West Asia conflict through dialogue](https://www.hindustantimes.com/india-news/modi-urges-iran-s-pezeshkian-to-resolve-west-asia-conflict-through-dialogue-101789142537497.html)
 
 **Vijay Karnataka**
 - [ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಮುಚ್ಚಿದೆ ಬ್ರಿಕ್ಸ್‌ ಬಾಗಿಲು: ಭಾರತದ ವೀಟೋ ಅಧಿಕಾರದಿಂದ ನೆರೆ ರಾಷ್ಟ್ರಕ್ಕೆ ದಿಗಿಲು! ಇಳಿಯುತ್ತಿದೆ ಸೊಕ್ಕಿನ ಅಮಲು](https://vijaykarnataka.com/news/world/indias-veto-power-succeeded-in-keeping-pakistan-out-of-brics-membership-islamabad-waiting/articleshow/134081269.cms)
@@ -67,13 +67,14 @@
 - [Allahabad HC seeks Uttar Pradesh govt’s reply over Saharanpur Mosque demolition, stays ₹6.41 crore damage recovery](https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-seeks-uttar-pradesh-governments-reply-over-saharanpur-mosque-demolition-stays-641-crore-damage-recovery/article71456149.ece)
 - [With eye on poll, BJP to begin ‘drug-free Punjab’ drive amid row over Dalit villager’s death](https://www.thehindu.com/news/national/punjab/with-eye-on-poll-bjp-to-begin-drug-free-punjab-drive-amid-row-over-dalit-villagers-death/article71456181.ece)
 - [Vice-principal of Kolkata college ‘forced’ to resign; ABVP ‘purifies’ her office](https://www.thehindu.com/news/cities/kolkata/kolkataslaw-college-vice-principal-resigns-after-23-hour-studentprotest-over-attendance/article71456472.ece)
+- [Alleged gold fraud: suspect at large arrested from Malappuram](https://www.thehindu.com/news/national/kerala/alleged-gold-fraud-suspect-at-large-arrested-from-malappuram/article71457575.ece)
+- [Artillery shell recovered from fishing net off Puthiyappa harbour](https://www.thehindu.com/news/national/kerala/artillery-shell-recovered-from-fishing-net-off-puthiyappa-harbour/article71457524.ece)
+- [Youth in Keralam’s Kozhikode held for alleged bid to record visuals from hospital toilet](https://www.thehindu.com/news/national/kerala/youth-in-keralams-kozhikode-held-for-alleged-bid-to-record-visuals-from-hospital-toilet/article71457504.ece)
 - [‘Reading kept me going’: Noida stir accused who cracked NET](https://www.thehindu.com/news/cities/Delhi/reading-kept-me-going-noida-stir-accused-who-cracked-net/article71457844.ece)
 - [SHRC orders NHAI to ready underpass near Edappally in two months](https://www.thehindu.com/news/national/kerala/shrc-orders-nhai-to-ready-underpass-near-edappally-in-two-months/article71457424.ece)
-- [Chander Kunj Army Towers: apartment owners call for appointment of project officer amid demolition delays](https://www.thehindu.com/news/national/kerala/chander-kunj-army-towers-apartment-owners-call-for-appointment-of-project-officer-amid-demolition-delays/article71455941.ece)
-- [BRICS Summit 2026 updates on Sept.11: PM Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian](https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece)
-- [Four arrested with 10 kg of suspected MDMA in Kochi](https://www.thehindu.com/news/national/kerala/four-arrested-with-10-kg-of-suspected-mdma-in-kochi/article71456484.ece)
 
 **Livemint**
+- [North Korea Fires Short Ballistic Missiles Toward East Sea](https://www.livemint.com/news/world/north-korea-fires-short-ballistic-missiles-toward-east-sea-11789172277029.html)
 - [Maria Bartiromo Fox News departure: Former anchor speaks out for first time after exit, hints at what lies ahead](https://www.livemint.com/news/us-news/maria-bartiromo-fox-news-departure-former-anchor-speaks-out-for-first-time-after-exit-hints-at-what-lies-ahead-11789148943476.html)
 - [Did Trump defend Iran war and link it to 9/11 at Pentagon memorial? Here's what the US President said](https://www.livemint.com/news/us-news/did-donald-trump-defend-iran-war-and-link-it-to-9-11-at-pentagon-memorial-heres-what-the-us-president-said-11789149200308.html)
 - [US declares largest-ever multistate cyclosporiasis outbreak over after contaminated lettuce sickens thousands](https://www.livemint.com/news/us-news/us-declares-largest-ever-multistate-cyclosporiasis-outbreak-over-after-contaminated-lettuce-sickens-thousands-11789149733790.html)
@@ -83,7 +84,6 @@
 - [875 arrested,  ₹67 crore food stock seized: Inside Tukaram Mundhe's sweeping crackdown on Maharashtra eateries](https://www.livemint.com/news/india/875-arrested-67-crore-food-stock-seized-inside-tukaram-mundhes-sweeping-crackdown-on-maharashtra-eateries-11789143481584.html)
 - [Saudi Arabian oil pipeline system struck by projectiles? Satellite images reveal extensive fire damage, says report](https://www.livemint.com/news/world/saudi-arabian-oil-pipeline-system-struck-by-projectiles-satellite-images-reveal-extensive-fire-damage-says-report-11789145816757.html)
 - [Mayor Zohran Mamdani calls 9/11 attacks the ‘horrific act of terror’, attends Ground Zero Ceremony despite ban petition](https://www.livemint.com/news/us-news/mayor-zohran-mamdani-calls-9-11-attacks-the-horrific-act-of-terror-attends-ground-zero-ceremony-despite-ban-petition-11789142688011.html)
-- [Modi calls for removal of trade barriers, safety of seafarers at key Brics meet](https://www.livemint.com/news/modi-calls-for-removal-of-trade-barriers-safety-of-seafarers-at-key-brics-meet-11789140460354.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,35 +100,35 @@
 - [ಸ್ವಯಂ-ಗಡಿಪಾರು ಜಾಹೀರಾತನ್ನು ತೆಗೆದುಹಾಕಿದ ಟ್ರಂಪ್ ಆಡಳಿತ](https://www.varthabharati.in/international/us-removes-advertisement-asking-mr-singh-to-self-deport-after-backlash-2274607)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Brics (5.5)
-- India (5.2)
-- Iran (4.2)
-- Delhi (4.2)
-- Modi (3.5)
-- PM Modi (3.0)
+- Brics (4.2)
+- Delhi (2.9)
+- India (2.6)
 - Gujarat (2.6)
 - Maharashtra (2.6)
-- BRICS (2.2)
+- PM Modi (2.0)
 - Phone (2.0)
-- BRICS Summit (2.0)
-- Inside (1.6)
+- North Korea Fires (2.0)
+- BRICS (1.9)
 - Omar (1.6)
-- Pezeshkian (1.6)
-- Xi's (1.3)
+- Inside (1.6)
+- Iran (1.6)
+- Officials (1.3)
+- Kerala (1.3)
+- Cong (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ഇരുപത്തിയൊന്നാം നൂറ്റാണ്ടിലെ നവ രക്തസാക്ഷികൾ: വത്തിക്കാനിൽ സമ്മേളനം](https://www.vaticannews.va/ml/vatican-city/news/2026-09/martyrs-xxi-century-cause-of-saints-vatican-seminar.html)
-- [रियलिटी शो में छक्के छुड़ाएंगे सहवाग, 'राइज एंड फॉल 2' करेंगे होस्ट, अमिताभ-सलमान खान को देंगे टक्कर?](https://www.aajtak.in/entertainment/ott/story/virender-sehwag-debut-host-rise-and-fall-2-tough-competition-to-amitabh-salman-khan-tmovh-dskc-2640912-2026-09-11)
-- [East Bengal FC: ইউনাইটেড স্পোর্টসের সঙ্গে ড্র, কলকাতা লিগে পিছিয়ে পড়ল ইস্টবেঙ্গল](https://bangla.asianetnews.com/sports/east-bengal-fc-vs-united-sports-club-goalless-draw-calcutta-football-league-2026-anbsg/articleshow-gf0og4o)
-- [India's forex reserves surge $4.5 billion in a week to record high on robust capital inflows](https://www.moneycontrol.com/news/business/economy/india-s-forex-surge-45-billion-on-week-to-hit-record-high-on-robust-capital-flows-14028084.html)
-- [Guests at Home: സ്വന്തം നാട്ടിൽ 'അതിഥികൾ', വിസിറ്റേഴ്സ് ഡ്രസ്സിങ് റൂം ഉപയോഗിക്കാൻ ടീം ഇന്ത്യ](https://www.asianetnews.com/cricket-sports/guests-at-home-team-india-to-use-visitors-dressing-room-for-the-first-time-in-history-articleshow-2vgfekv)
-- [യുവാവിന് 26 വർഷം കഠിനതടവും പിഴയും ശിക്ഷ വിധിച്ചു](https://www.kvartha.com/news/crime/taliparamba-pocso-case-anuraj-26-years-imprisonment-kerala/cid19239090.htm)
-- [சர்தார்-2 பட விமர்சனம்: கார்த்தி](https://www.bbc.com/tamil/articles/cz7zrgx2w0no)
-- [ગુજરાતમાં નવું ભાડા વિધેયક પસાર: હવે મનફાવે તેમ ડિપોઝિટ નહીં વસૂલાય, જાણો ભાડૂઆતો-મકાન માલિકો માટેના નિયમો!](https://www.gujaratsamachar.com/news/gandhinagar/gujarat-rent-bill-2026-passed-assembly-written-agreement-security-deposit-limit-14794412635)
-- [Breaking News: એશિયા કપની ફાઇનલમાં પહોંચી ટીમ ઈન્ડિયા, છતાં કેપ્ટન હરમનપ્રીત કૌરની મેચ બાદ ભારે ટીકા, જાણો કેમ](https://tv9gujarati.com/photo-gallery/cricket-photos/breaking-news-asia-cup-team-india-captain-harmanpreet-kaur-troll-for-slow-batting-1513698.html)
-- [पुण्यातील गणेश उत्सव दरम्यान 10 दिवसांच्या दारूबंदीवर मुंबई उच्च न्यायालयाचे कडक ताशेरे, आदेश मागे घेण्याचे निर्देश](https://marathi.latestly.com/maharashtra/bombay-hc-slams-pune-s-10-day-liquor-ban-during-ganesh-festival-asks-why-only-pune-singled-out-595595.html)
+- [મિડલ ઈસ્ટમાં નવું સંકટ! સાઉદી પ્રિન્સે 2 વાર ફોન કર્યો પણ ટ્રમ્પે હૂતીઓ પર હુમલો કરવાની ના પાડી દીધી!](https://www.gujaratsamachar.com/news/international/new-crisis-in-the-middle-east-saudi-prince-called-twice-but-trump-refused-to-attack-the-houthis-65497108070)
+- [कमिश्नर का पद छोड़ा, BJP जॉइन करने के 2 दिन बाद IAS को मिला लोकसभा उपचुनाव का टिकट](https://www.aajtak.in/india/news/story/debashish-sharma-loksabha-by-election-ticket-from-nagaon-constituency-ntc-acwi-dskc-2640986-2026-09-11)
+- [Don't know why they call them that: Putin's swipe at G7 economies at BRICS meeting](https://www.indiatoday.in/world/story/dont-know-why-they-call-them-that-putins-big-swipe-at-g7-as-he-highlights-brics-nations-gdp-power-2992581-2026-09-11)
+- [ગુજરાતમાં વરસાદની અછતનો મુદ્દો વિધાનસભામાં ઉઠ્યો, દુષ્કાળ જાહેર કરવાની માંગ પર મંત્રી ઋષિકેશ પટેલે આપ્યું મોટું નિવેદન](https://www.etvbharat.com/gu/state/gujarat-rainfall-shortage-issue-raised-in-gujarat-legislative-assembly-gjs26091104808)
+- [नीना गुप्ता समेत 'चुंबक' सिरीज़ की कास्ट के साथ बीबीसी की ख़ास बातचीत](https://www.bbc.com/hindi/articles/cm2q8dn3z5jo)
+- [Sanjay Raut : "आज मराठवाडा संपूर्ण भाजपमय पण मराठवाड्याला काय मिळाले फक्त थापा, फसवणूक"](https://www.lokshahi.com/lokshahi-politics/sanjay-raut-is-visiting-nanded-today-12518364)
+- [சரியான தங்க முதலீடு எது என்பதை தெரிந்து கொள்ளுங்கள்.](https://kalkionline.com/business-finance/gold-investment-etf-vs-digital)
+- [नेशनल टीवी पर रोहित शर्मा ने बोला झूठ! ऑस्ट्रेलिया संग टेस्ट मैच का किया जिक्र, भड़के विराट कोहली के फैंस](https://www.aajtak.in/entertainment/television/story/rohit-sharma-recalls-fight-steve-smith-2015-australia-test-series-virat-kohli-family-full-house-show-tmovj-dskc-2640981-2026-09-11)
+- [''தற்போதைய தலைமைச் செயலகத்தில் உட்கார முடியவில்லையா?'' - சீமான்](https://www.polimernews.com/politicsnews/cant-you-sit-in-the-current-secretariat-seeman-12520413)
+- [BRICS समिट: सुप्रिया सुले बोलीं, 'जब मनमोहन सिंह प्रधानमंत्री थे...'](https://www.abplive.com/states/maharashtra/brics-summit-2026-supriya-sule-remembers-manmohan-singh-targets-mea-3187534)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
