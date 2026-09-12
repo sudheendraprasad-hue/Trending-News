@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-12 03:01:49
+# India Trending Report — 2026-09-12 03:35:19
 
 ## Google Trends (India) — top trending searches
-1. [oracle](https://trends.google.com/trending/rss?geo=IN)
-2. [జాతకం](https://trends.google.com/trending/rss?geo=IN)
-3. [accuweather](https://trends.google.com/trending/rss?geo=IN)
-4. [irctc](https://trends.google.com/trending/rss?geo=IN)
-5. [washington sundar](https://trends.google.com/trending/rss?geo=IN)
-6. [प्ले स्टोर](https://trends.google.com/trending/rss?geo=IN)
-7. [shivam dube](https://trends.google.com/trending/rss?geo=IN)
-8. [12 september 2026](https://trends.google.com/trending/rss?geo=IN)
-9. [வெப்ப அலை](https://trends.google.com/trending/rss?geo=IN)
-10. [acc men's premier cup](https://trends.google.com/trending/rss?geo=IN)
+1. [aj brown](https://trends.google.com/trending/rss?geo=IN)
+2. [sardar 2 movie](https://trends.google.com/trending/rss?geo=IN)
+3. [vishwanath and son](https://trends.google.com/trending/rss?geo=IN)
+4. [santy sharma iphone duo news](https://trends.google.com/trending/rss?geo=IN)
+5. [न्यायिक अधिकारी](https://trends.google.com/trending/rss?geo=IN)
+6. [what is brics](https://trends.google.com/trending/rss?geo=IN)
+7. [రాశి ఫలాలు](https://trends.google.com/trending/rss?geo=IN)
+8. [ઇસરો](https://trends.google.com/trending/rss?geo=IN)
+9. [oracle](https://trends.google.com/trending/rss?geo=IN)
+10. [జాతకం](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -21,33 +21,33 @@
 - [Pakistan's Razaullah Khan scripts history, enters record books on Test debut](https://timesofindia.indiatimes.com/sports/cricket/news/pakistans-razaullah-khan-scripts-history-enters-record-books-on-test-debut/articleshow/134103285.cms)
 - [Elon Musk's Cybercab rollout puts US safety rules to test as NHTSA audits 1,000 cars](https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-cybercab-has-no-steering-wheel-pedals-or-mirrors-us-safety-regulators-open-audit-of-about-1000-cars-over-teslas-self-certification/articleshow/134066366.cms)
 - [After killing wife, 3 daughters, man makes tea for father, takes bath](https://timesofindia.indiatimes.com/city/jaipur/city-man-kills-wife-3-daughters-leaves-home-after-serving-dad-tea/articleshow/134087812.cms)
+- [Lady Gaga and Michael Polansky welcome first child](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lady-gaga-and-michael-polansky-welcome-first-child-together-make-first-appearance-with-newborn-baby-pics/articleshow/134101153.cms)
 - [40% of global GDP is here: PM Modi on Brics Summit](https://timesofindia.indiatimes.com/india/40-of-global-gdp-is-here-pm-modi/articleshow/134092501.cms)
 - [Countries where you can buy iPhone 18 Pro and iPhone 18 Pro Max cheaper than India](https://timesofindia.indiatimes.com/technology/tech-news/countries-where-you-can-buy-iphone-18-pro-and-iphone-18-pro-max-cheaper-than-india/articleshow/134056504.cms)
-- [After Trump renames Lake Ontario, Republican wants Lake Erie renamed too](https://timesofindia.indiatimes.com/world/us/after-trump-renamed-lake-ontario-lake-america-a-pennsylvania-republican-now-wants-lake-erie-renamed-lake-pennsylvania/articleshow/134048308.cms)
 
 **NDTV**
+- [The Evolution Of BRICS And Its Challenges Today](https://www.ndtv.com/world-news/the-evolution-of-brics-and-its-challenges-today-12035837#publisher=newsstand)
+- ["Main Umeed Karta Hoon...": Russian Envoy's Hindi Message At BRICS Summit](https://www.ndtv.com/india-news/main-umeed-karta-hoon-russian-envoys-hindi-message-at-brics-summit-12035820#publisher=newsstand)
+- [Ahead Of Xi Visit, China Says Will "Properly Handle Differences" With India](https://www.ndtv.com/world-news/brics-2026-modi-xi-bilateral-meeting-ahead-of-xi-visit-china-says-will-properly-handle-differences-with-india-12035789#publisher=newsstand)
+- [Harish Rawat Quits Congress Posts After Cash, Gold Seized From Aide](https://www.ndtv.com/india-news/former-uttarakhand-chief-minister-harish-rawat-quits-congress-posts-after-cash-gold-seized-from-aide-chandan-singh-jeena-12035805#publisher=newsstand)
+- [Bengaluru Girl, 18, Missing For Over 7 Months Traced Using Aadhaar OTP](https://www.ndtv.com/india-news/bengaluru-girl-18-missing-for-over-7-months-traced-using-aadhaar-otp-12035800#publisher=newsstand)
+- [Paying Premium Price For A 'Green Home'? Here's What You Really Save](https://www.ndtv.com/business-news/paying-premium-price-green-home-real-estate-what-you-really-save-12031150#publisher=newsstand)
+- [North Korea Fires Ballistic Missiles Day After South Korea's Maritime Drills](https://www.ndtv.com/world-news/north-korea-fires-ballistic-missiles-day-after-south-koreas-maritime-drills-12035707#publisher=newsstand)
+- [BRICS Summit 2026 LIVE Updates: BRICS Leaders Gather In Delhi Today For Two-Day Summit](https://www.ndtv.com/india-news/brics-summit-2026-live-updates-pm-narendra-modi-putin-xi-jinping-meeting-bharat-mandapam-new-delhi-traffic-advisory-updates-12031073#publisher=newsstand)
 - [44 Injured After Train Derails In France](https://www.ndtv.com/world-news/44-injured-after-train-derails-in-france-12035657#publisher=newsstand)
 - [At BRICS, Putin Slams West's "Ugly" Trade Tactics, Cites "30,000 Sanctions"](https://www.ndtv.com/world-news/at-brics-vladimir-putin-says-russia-hit-with-over-30-000-sanctions-condemns-ugly-trade-tactics-12035642#publisher=newsstand)
-- [Fire Breaks Out At Old Central Theatre Near Madurai Meenakshi Temple](https://www.ndtv.com/india-news/fire-breaks-out-at-old-central-theatre-near-madurai-meenakshi-temple-12035628#publisher=newsstand)
-- [US Deports Afghan Woman In First Use Of Alien Terrorist Removal Court](https://www.ndtv.com/world-news/us-deports-afghan-woman-in-first-use-of-alien-terrorist-removal-court-12035619#publisher=newsstand)
-- [Saudi Shuts Down Major Oil Pipeline Amid Fighting With Yemen's Houthis](https://www.ndtv.com/world-news/saudi-shuts-down-major-oil-pipeline-amid-fighting-with-yemens-houthis-12035379#publisher=newsstand)
-- [CIA Declassifies Intel Warnings Sent To White House Years Before 9/11](https://www.ndtv.com/world-news/cia-declassifies-intel-warnings-sent-to-us-years-before-9-11-attack-12035595#publisher=newsstand)
-- [North Korea Fires Unidentified Projectile Toward Sea Of Japan](https://www.ndtv.com/world-news/north-korea-fires-unidentified-projectile-toward-sea-of-japan-report-12035515#publisher=newsstand)
-- [US To Vote On Russia Sanctions Bill Next Week, Giving Trump More Tariff Power](https://www.ndtv.com/world-news/us-to-vote-on-russia-sanctions-bill-next-week-giving-trump-more-tariff-power-12035487#publisher=newsstand)
-- [European Troop Deployment In Ukraine Would Be "War Against Russia": Putin](https://www.ndtv.com/world-news/european-troop-deployment-in-ukraine-would-be-war-against-russia-vladimir-putin-12035415#publisher=newsstand)
-- [Man Shoots Neighbour In Leg, Then Dies By Suicide In Delhi: Cops](https://www.ndtv.com/delhi-news/man-shoots-neighbour-in-leg-then-dies-by-suicide-in-delhi-cops-12035357#publisher=newsstand)
 
 **Hindustan Times**
+- [Banks to remain closed for 4 days from today; Check state-wise list of holidays](https://www.hindustantimes.com/india-news/are-banks-open-today-bank-holiday-list-odisha-goa-maharashtra-tamil-nadu-ganesh-chaturthi-nuakhai-second-saturday-sunday-101789180105552.html)
+- [China signals push to reset ties as Xi Jinping visits India, vows to 'properly handle differences'](https://www.hindustantimes.com/india-news/china-signals-push-to-reset-ties-as-xi-jinping-visits-india-vows-to-properly-handle-differences-101789181932170.html)
+- [Modi-Xi meeting at BRICS: Where do India-China ties stand today?](https://www.hindustantimes.com/india-news/modixi-meeting-at-brics-where-do-india-china-ties-stand-today-101789130939905.html)
 - [Expand use of local currencies to tackle sanctions, enhance economic integration: Iran President in India](https://www.hindustantimes.com/india-news/expand-use-of-local-currencies-to-tackle-sanctions-iran-president-masoud-pezeshkian-pm-modi-in-india-brics-summit-101789181078741.html)
-- [BRICS summit India LIVE: China's Jinping heads to New Delhi; high security, traffic curbs in place](https://www.hindustantimes.com/india-news/brics-summit-india-live-updates-modi-xi-jinping-putin-pezeshkian-china-russia-new-delhi-bharat-mandapam-police-traffic-101789179441620.html)
+- [BRICS summit India LIVE: China's Xi heads to New Delhi; high security, traffic curbs in place](https://www.hindustantimes.com/india-news/brics-summit-india-live-updates-modi-xi-jinping-putin-pezeshkian-china-russia-new-delhi-bharat-mandapam-police-traffic-101789179441620.html)
 - [PM Modi, Xi Jinping to meet in India after 7 years: Arunachal border, mega dam, bilateral ties on agenda](https://www.hindustantimes.com/india-news/pm-modi-xi-jinping-meet-in-india-after-7-years-arunachal-border-mega-dam-and-ties-what-s-on-agenda-101789176751123.html)
 - [Keralam CM holds emergency meet over power crisis, minister appeals for cooperation](https://www.hindustantimes.com/india-news/keralam-cm-holds-emergency-meet-over-power-crisis-minister-appeals-for-cooperation-101789156040305.html)
 - [Kids waiting for safer classrooms forced outdoors in Raichur](https://www.hindustantimes.com/india-news/kids-waiting-for-safer-classrooms-forced-outdoors-in-raichur-101789156039573.html)
 - [ED seizes  ₹3 crore in 18 searches; Jarkiholi denies wrongdoing](https://www.hindustantimes.com/india-news/ed-seizes-3-crore-in-18-searches-jarkiholi-denies-wrongdoing-101789155922540.html)
 - [BRS women MLAs file complaint with NHRC, NCW over ill treatment by police](https://www.hindustantimes.com/india-news/brs-women-mlas-file-complaint-with-nhrc-ncw-over-ill-treatment-by-police-101789155739576.html)
-- [Retd havildar held for theft of assault rifles, pistols from T’gana cantonment](https://www.hindustantimes.com/india-news/retd-havildar-held-for-theft-of-assault-rifles-pistols-from-t-gana-cantonment-101789155680910.html)
-- [8 mn adolescent girls given hpv vaccine in past six months: Govt](https://www.hindustantimes.com/india-news/8-mn-adolescent-girls-given-hpv-vaccine-in-past-six-months-govt-101789153579112.html)
-- [3 foreign flagged ships with Indian crew attacked amid Iran war](https://www.hindustantimes.com/india-news/3-ships-with-indian-crew-hit-amid-w-asia-conflict-101789153459761.html)
 
 **Vijay Karnataka**
 - [ಮಳೆ ಕೊರತೆಗೆ ಕರಾವಳಿಯಲ್ಲಿ ಮಳೆಗಾಲದಲ್ಲೇ ಬೇಸಿಗೆ ಅನುಭವ! ಮಂಗಳೂರಲ್ಲಿ ಬಿಸಿಲು-ಸೆಕೆ ತೀವ್ರ, ತಾಪಮಾನ 40 ಡಿಗ್ರಿಗೆ ಏರುವ ಆತಂಕ](https://vijaykarnataka.com/news/mangaluru/summer-feel-in-rainy-season-temperature-in-dakshina-kannada-rising-to-40-degrees/articleshow/134103980.cms)
@@ -62,6 +62,8 @@
 - [ಜಿ-7 ಗುಂಪಿನ ಕಾಲೆಳೆದ ವ್ಲಾಡಿಮಿರ್‌ ಪುಟಿನ್: ಭಾರತದ ನೆಲದಲ್ಲಿ ಬ್ರಿಕ್ಸ್‌ ಆರ್ಥಿಕ ಬಲ ಅನಾವರಣಗೊಳಿಸಿದ ರಷ್ಯಾ ಅಧ್ಯಕ್ಷ!](https://vijaykarnataka.com/news/india/russia-president-vladimir-putin-slams-g7-group-says-brics-contributes-more-to-global-economy/articleshow/134077384.cms)
 
 **The Hindu**
+- [Suvendu eats fish offering at Kalighat temple amidst Bageshwar Baba row](https://www.thehindu.com/news/national/west-bengal/suvendu-eats-fish-offering-at-kalighat-temple-amidst-bageshwar-baba-row/article71456809.ece)
+- [CPI(M) to undertake major organisational reforms at extended State Committee meeting in the shadow of mounting troubles](https://www.thehindu.com/news/national/kerala/cpim-to-undertake-major-organisational-reforms-at-extended-state-committee-meeting-in-the-shadow-of-mounting-troubles/article71457391.ece)
 - [BRICS Summit 2026 LIVE updates: Delhi decked up, security tightened](https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece)
 - [Srinagar court issues arrest order against son of Ganga hijacker Hashim Qureshi, hospitalised with ‘critical injury’](https://www.thehindu.com/news/national/jammu-and-kashmir/srinagar-court-issues-arrest-order-against-son-of-ganga-hijacker-hashim-qureshi-hospitalised-with-critical-injury/article71457434.ece)
 - [India and Canada are well beyond reset now, says Canadian High Commissioner to India](https://www.thehindu.com/news/national/india-and-canada-are-well-beyond-reset-now-says-canadian-high-commissioner-to-india/article71456180.ece)
@@ -70,10 +72,9 @@
 - [Stadium denied, Congress gets alternative venue for Rahul Gandhi’s ‘Chhatron Ki Goonj’ event in Indore](https://www.thehindu.com/news/national/madhya-pradesh/stadium-denied-congress-gets-alternative-venue-for-rahul-gandhis-chhatron-ki-goonj-event-in-indore/article71459006.ece)
 - [Congress unable to digest India's progress, spreading negativity over BRICS: BJP](https://www.thehindu.com/news/national/congress-unable-to-digest-indias-progress-spreading-negativity-over-brics-bjp/article71456028.ece)
 - [UN chief Guterres meets PM Modi; discusses West Asia, Ukraine conflicts](https://www.thehindu.com/news/national/un-chief-guterres-meets-pm-modi-discusses-west-asia-ukraine-conflicts/article71457757.ece)
-- [BRICS Finance Ministers & central bank chiefs voice concern about 'unilateral imposition' of tariffs](https://www.thehindu.com/news/national/brics-finance-ministers-central-bank-chiefs-voice-concern-about-unilateral-imposition-of-tariffs/article71455815.ece)
-- [Gauhati High Court says ‘talaq-e-hassan’ is a valid form of divorce](https://www.thehindu.com/news/national/assam/gauhati-high-court-says-talaq-e-hassan-is-a-valid-form-of-divorce/article71456358.ece)
 
 **Livemint**
+- [BRICS Summit in New Delhi today: Key leaders, agenda and what’s in store on Day 1](https://www.livemint.com/news/india/brics-summit-in-new-delhi-today-key-leaders-agenda-and-what-s-in-store-on-daymodi-xi-jinping-putin-us-iran-war-11789180909915.html)
 - [From world's biggest LNG exporter to importer: How Iran war, Hormuz closure forced Qatar to turn to US gas](https://www.livemint.com/news/world/from-world-biggest-lng-exporter-to-importer-how-iran-war-strait-of-hormuz-closure-forced-qatar-to-turn-to-us-gas-11789180853376.html)
 - [Petrol and diesel prices today, Sept 12: How much does fuel cost in Delhi, Mumbai, Bengaluru? Check here](https://www.livemint.com/news/india/petrol-and-diesel-prices-today-sept-12-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-check-here-11789177421027.html)
 - [US-Iran war: As conflict widens, more waterways become unsafe for oil exports, raising fears of energy crisis](https://www.livemint.com/news/world/usiran-war-as-conflict-widens-more-waterways-become-unsafe-for-oil-exports-raising-fears-of-energy-crisis-11789179665428.html)
@@ -83,7 +84,6 @@
 - [US-Iran war news LIVE: Iranian FM spox slams Pete Hegseth for using 9/11 anniversary to justify war](https://www.livemint.com/news/us-news/us-iran-war-news-live-latest-updates-saudi-arabia-houthis-donald-trump-pezeshkian-brent-crude-oil-prices-middle-east-11789173487809.html)
 - [North Korea Fires Short Ballistic Missiles Toward East Sea](https://www.livemint.com/news/world/north-korea-fires-short-ballistic-missiles-toward-east-sea-11789172277029.html)
 - [Maria Bartiromo Fox News departure: Former anchor speaks out for first time after exit, hints at what lies ahead](https://www.livemint.com/news/us-news/maria-bartiromo-fox-news-departure-former-anchor-speaks-out-for-first-time-after-exit-hints-at-what-lies-ahead-11789148943476.html)
-- [Did Trump defend Iran war and link it to 9/11 at Pentagon memorial? Here's what the US President said](https://www.livemint.com/news/us-news/did-donald-trump-defend-iran-war-and-link-it-to-9-11-at-pentagon-memorial-heres-what-the-us-president-said-11789149200308.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಪ್ರಧಾನಮಂತ್ರಿಯೇ ಹುದ್ದೆಯ ಘನತೆ ಮರೆತರೆ?](https://www.varthabharati.in/sampaadakeeya/what-if-the-prime-minister-himself-forgets-the-dignity-of-the-position-2274620)
 - [‘ಸಹಯೋಗ್ ಪೋರ್ಟಲ್’ ಮೂಲಕ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಪೋಸ್ಟ್‌ ಗಳ ನಿರ್ಬಂಧಕ್ಕೆ ಕುನಾಲ್ ಕಾಮ್ರಾ ಆಕ್ಷೇಪ; ಅರ್ಜಿ ವಿಚಾರಣೆ ಅನಿರ್ದಿಷ್ಟಾವಧಿಗೆ ಮುಂದೂಡಿದ ಬಾಂಬೆ ಹೈಕೋರ್ಟ್](https://www.varthabharati.in/National/kunal-kamra-objects-to-the-blocking-of-social-media-posts-via-the-sahayog-portal-bombay-high-court-adjourns-hearing-on-the-petition-indefinitely-2274619)
 - [ಐಎಎಸ್ ಹುದ್ದೆ ತ್ಯಜಿಸಿದ 5 ದಿನಗಳಲ್ಲೇ ಬಿಜೆಪಿ ಸೇರ್ಪಡೆ : ಎರಡು ದಿನಗಳಲ್ಲಿ ಲೋಕಸಭಾ ಉಪಚುನಾವಣೆಯ ಟಿಕೆಟ್ ಪಡೆದ ದೇಬಾಶಿಶ್ ಶರ್ಮಾ](https://www.varthabharati.in/national/joined-bjp-just-five-days-after-quitting-ias-post-debashish-sharma-secures-lok-sabha-by-election-ticket-within-two-days-2274618)
 - [ಪ್ರಾಸಿಕ್ಯೂಷನ್‌ ನಿರ್ದೇಶಕಿ ಅಂಜಲಿ ದೇವಿ ಮುಂದುವರಿಕೆಗೆ ಹೈಕೋರ್ಟ್ ಅಸ್ತು](https://www.varthabharati.in/bangalore-city/high-court-2274617)
@@ -107,38 +108,37 @@
 - [PG ಕಟ್ಟಡ ಕುಸಿತ: ಗಂಟೆಗಳ ಮೊದಲು ನಿರ್ವಾಹಕನಿಗೆ ಎಚ್ಚರಿಕೆ ನೀಡಲಾಗಿತ್ತೇ?](https://www.varthabharati.in/National/hours-before-delhi-hostel-collapse-a-worker-hit-a-panic-button-2274612)
 - [ಈಗ ತೆಲಂಗಾಣದಲ್ಲಿ ಶುದ್ಧೀಕರಣ ವಿವಾದ | BRS ಕಾರ್ಯಕರ್ತರ ವಿರುದ್ಧ ಪ್ರಕರಣ ದಾಖಲು](https://www.varthabharati.in/National/telangana-purification-row-congress-dalit-groups-slam-brs-hold-ex-cm-kcr-responsible-2274611)
 - [ಕಾಂಗೋದ ಶಾಲೆಗಳಲ್ಲಿ ಬೆಂಕಿ ದುರಂತ: ಕನಿಷ್ಠ 24 ವಿದ್ಯಾರ್ಥಿಗಳು ಮೃತ್ಯು](https://www.varthabharati.in/international/fire-tragedy-at-schools-in-congo-at-least-24-students-dead-2274610)
-- [ಯಮನ್ ಸಂಘರ್ಷ | ಕನಿಷ್ಠ 46,000 ಜನರ ಸ್ಥಳಾಂತರ; ವಿಶ್ವಸಂಸ್ಥೆ](https://www.varthabharati.in/international/at-least-46000-displaced-by-escalating-yemen-fighting-un-2274609)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (9.4)
+- India (11.0)
+- BRICS (6.6)
+- Delhi (5.1)
+- BRICS Summit (5.0)
 - Emkay Global Financial (5.0)
-- Delhi (4.8)
-- Iran (4.5)
-- BRICS (4.1)
-- LIVE (3.2)
+- LIVE (3.5)
+- Summit (3.4)
 - PM Modi (3.0)
-- BRICS Summit (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
+- Congress (2.9)
 - Brics (2.9)
-- Congress (2.6)
+- Check (2.6)
 - US-Iran (2.6)
 - Phone (2.0)
-- North Korea Fires (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Heart Disease Prevention Targets Missed Across Europe](https://www.emjreviews.com/cardiology/news/heart-disease-prevention-targets-missed-across-europe/)
-- [বিগ বসের ঘরে রাজবীরের মাইন্ড গেম ফাঁস?](https://bengali.indianexpress.com/entertainment/bigg-boss-bangla-3-rajbir-de-nandini-ganguly-reaction-12520418)
-- [ట్రైలర్ లేకుండా ప్యారడైజ్.. ఒప్పుకుంటారా నాని](https://www.chitrajyothy.com/2026/tollywood/nani-explains-reason-behind-cancelling-paradise-promotional-trailer-release-rp-75308.html)
-- [Big Boss Bangla: ভরত কলের পরে, বিগ বসের ঘরে দ্বিতীয় ক্যাপ্টেন কে? সম্প্রচারের আগেই খবর ফাঁস](https://bengali.abplive.com/entertainment/sohini-pal-going-to-be-next-captain-in-big-boss-bangla-house-entertainment-news-tollywood-1192469)
-- [திருச்சியில் புதிய தலைமைச் செயலகம் அமைக்க துரை வைகோ வலியுறுத்தல்](https://www.hindutamil.in/news/tamilnadu/durai-vaiko-demand-construct-new-secretariat-located-in-trichy)
-- [Leave out Vaibhav Sooryavanshi, play Sanju Samson: Ex-captain makes bold suggestion for India vs Afghanistan T20I series](https://www.hindustantimes.com/cricket/leave-out-vaibhav-sooryavanshi-play-sanju-samson-ajinkya-rahane-makes-bold-suggestion-for-india-vs-afghanistan-t20is-101789136282978.html)
-- [Can the Houthis close the Red Sea after seizing the Yemen coast?](https://www.aljazeera.com/news/2026/9/11/can-the-houthis-close-the-red-sea-after-seizing-the-yemen-coast)
-- [ഐഎഎസ് തലപ്പത്ത് മാറ്റം- IAS Officers Reshuffle](https://www.manoramaonline.com/news/latest-news/2026/09/11/ias-reshuffle-kerala-sriram-venkitaraman-renu-raj-4-district-collectors.html)
-- [જમીન ધારકો માટે મોટો નિર્ણય: ટુકડા ધારાના જૂના કેસોમાં હવે દંડ નહીં ભરવો પડે, જાણો નવા કાયદાના મુખ્ય ફાયદા](https://www.gujaratsamachar.com/news/gandhinagar/big-decision-for-landowners-no-more-fines-to-be-paid-in-old-cases-of-tukta-act-know-the-main-benefits-of-the-new-law-35404671620)
-- [दिशाच्या वडिलांचा जबाब सीबीआयकडे नोंद; दोन दिवसांतच FIR दाखल होणार, आरोपींना अटक करण्याची मागणी](https://marathi.abplive.com/crime/disha-saliyan-s-father-statement-recorded-by-the-cbi-and-fir-to-be-filed-within-two-days-demand-for-the-arrest-of-the-accused-mumbai-nitin-oza-1438804)
+- [FASTag સાથે જોડાયેલો મોટો નિયમ બદલાયો, કરોડો વાહનચાલકોને ફાયદો](https://www.gujaratsamachar.com/news/national/major-rule-related-to-fastag-changed-benefiting-crores-of-motorists-39154502828)
+- [বাংলার দেখানো পথে হাটলেন ট্রাম্প! ভোটে জিতলেই ভাতার ঘোষণা মার্কিন প্রসিডেন্টের](https://bengali.indianexpress.com/west-bengal/donald-trump-5000-dollar-trump-dividend-republicans-midterm-election-12518341)
+- [কাকে বিয়ে করছেন মিমি চক্রবর্তী?](https://www.aaroananda.com/story/entertainment-news/in-focus/mimi-chakraborty-wedding-plans-in-december-and-new-movie/11019164)
+- [పుతిన్ కోసం ఐటీసీ మౌర్య స్పెషల్ వంటకాలు.. ప్రత్యేక చాక్లెట్ల నుంచి థాలీ వరకు అన్నీ ప్రత్యేకమే!](https://www.andhrajyothy.com/2026/national/putin-special-welcome-at-itc-maurya-from-russian-matryoshka-chocolates-to-a-special-thali-sj-1557299.html)
+- [Ikea's Tiny Bluetooth Speaker Now Has a Bigger, More Serious Sibling](https://gizmodo.com/ikeas-tiny-bluetooth-speaker-now-has-a-bigger-more-serious-sibling-2000810565)
+- [Coforge independent director DK Singh resigns amid board tensions](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/companies/coforge-independent-director-dk-singh-resigns-amid-board-tensions-14028190.html)
+- [Haiwaan Day One Box Office Estimate: Saif Ali Khan and Akshay Kumar starrer has a Disastrous opening; collects approx Rs. 3 cr. on Friday](https://www.bollywoodhungama.com/news/box-office-special-features/haiwaan-day-one-box-office-estimate-saif-ali-khan-and-akshay-kumar-starrer-has-a-disastrous-opening-collects-approx-rs-3-cr-on-friday/)
+- [NASA and IBM Release Open-Source AI to Map the Moon](https://www.gadgetreview.com/nasa-and-ibm-release-open-source-ai-to-map-the-moon)
+- [পুদুচেরিতে প্রাক-মরসুম প্রতিযোগিতায় চ্যাম্পিয়ন বাংলা](https://www.aaroananda.com/story/sports-news/breaking-news/bengal-cricket-team-wins-siyachem-trophy-pre-season/11019159)
+- [BRICSમાં મોદીએ પેઝેશ્કિયાન સાથે દેખાડી દોસ્તી, તસવીરે ખેંચ્યું વિશ્વનું ધ્યાન; ટ્રમ્પને લાગશે ઝટકો?](https://www.gujaratsamachar.com/news/national/a-powerful-brics-moment-pm-modi-holds-pezeshkians-hand-in-a-photo-that-will-touch-trumps-heart-28827443051)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
