@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-09-12 23:02:02",
+  "generated_at": "2026-09-12 23:31:54",
   "google_trends": [
     {
+      "title": "santos vs cruzeiro",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "anna blinkova",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "weather hyderabad",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
       "title": "inter miami vs nashville",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "cookies",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
@@ -30,26 +50,6 @@
       "title": "roberto fern\u00e1ndez",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "stranger things",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "nike",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "aryna sabalenka",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "weather mumbai",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
     }
   ],
   "outlets": {
@@ -59,8 +59,8 @@
         "link": "https://timesofindia.indiatimes.com/india/modi-global-south-must-shape-not-just-follow-rules/articleshow/134158493.cms"
       },
       {
-        "title": "Brics Summit success gives BJP a boost in domestic politics",
-        "link": "https://timesofindia.indiatimes.com/india/summit-success-gives-bjp-a-boost-in-domestic-politics/articleshow/134158188.cms"
+        "title": "Brics hammers out joint declaration after India bridges Iran-UAE chasm",
+        "link": "https://timesofindia.indiatimes.com/india/brics-hammers-out-joint-declaration-after-india-bridges-iran-uae-chasm/articleshow/134153102.cms"
       },
       {
         "title": "RBI rejects Tata Sons' bid to stay private, directs listing",
@@ -355,16 +355,16 @@
       "score": 8.5
     },
     {
-      "term": "Opinion",
-      "score": 5.2
-    },
-    {
       "term": "India",
-      "score": 5.1
+      "score": 6.4
     },
     {
       "term": "Brics",
-      "score": 4.5
+      "score": 5.5
+    },
+    {
+      "term": "Opinion",
+      "score": 5.2
     },
     {
       "term": "Delhi",
@@ -373,10 +373,6 @@
     {
       "term": "BRICS Summit",
       "score": 3
-    },
-    {
-      "term": "Summit",
-      "score": 2.8
     },
     {
       "term": "September",
@@ -399,59 +395,63 @@
       "score": 2.6
     },
     {
+      "term": "Summit",
+      "score": 2.5
+    },
+    {
       "term": "PM Modi",
       "score": 2
     },
     {
-      "term": "Brics Summit",
+      "term": "New Delhi",
       "score": 2
     },
     {
-      "term": "New Delhi",
+      "term": "West Asia",
       "score": 2
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u0a85\u0aae\u0aa6\u0abe\u0ab5\u0abe\u0aa6 : 62 \u0ab5\u0ab0\u0acd\u0ab7 \u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82 \u0a9c\u0acd\u0aaf\u0abe\u0ab0\u0ac7 \u0a97\u0acb\u0ab3\u0ac0\u0aac\u0abe\u0ab0\u0aae\u0abe\u0a82 \u0aae\u0ac3\u0aa4\u0acd\u0aaf\u0ac1 \u0aaa\u0abe\u0aae\u0ac7\u0ab2\u0abe \u0aae\u0a9c\u0ac2\u0ab0\u0aa8\u0acb \u0aae\u0ac3\u0aa4\u0aa6\u0ac7\u0ab9 \u0ab8\u0acd\u0a9f\u0ac7\u0a9c \u0aaa\u0ab0 \u0ab2\u0ab5\u0abe\u0aaf\u0acb",
-      "link": "https://www.bbc.com/gujarati/articles/c99d02lvk4jo"
+      "title": "'\u0c22\u0c40' \u0c35\u0c3f\u0c1c\u0c47\u0c24 \u0c30\u0c3e\u0c1c\u0c41 \u0c05\u0c30\u0c46\u0c38\u0c4d\u0c1f\u0c4d.. \u0c2a\u0c46\u0c33\u0c4d\u0c32\u0c3f \u0c2a\u0c47\u0c30\u0c41\u0c24\u0c4b \u0c18\u0c4b\u0c30 \u0c2e\u0c4b\u0c38\u0c02!",
+      "link": "https://www.chitrajyothy.com/2026/tollywood/dhee-10-winner-dancer-raju-arrested-by-miyapur-police-for-sexual-exploitation-cheating-rp-75329.html"
     },
     {
-      "title": "34KM \u092e\u093e\u0907\u0932\u0947\u091c, 4.99 \u0932\u093e\u0916 \u0915\u0940\u092e\u0924... \u0928\u090f \u0905\u0935\u0924\u093e\u0930 \u092e\u0947\u0902 \u0906 \u0930\u0939\u0940 \u092f\u0947 MARUTI",
-      "link": "https://www.aajtak.in/visualstories/auto/maruti-wagonr-facelift-spied-new-engine-expected-features-auam-285625-12-09-2026"
+      "title": "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bbe\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0ba4\u0bbf \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0bb1\u0bcd\u0bb1 \u0ba4\u0baf\u0bbe\u0bb0\u0bcd; \u0b9a\u0bc0\u0ba9 \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b9c\u0bbf\u0ba9\u0bcd\u0baa\u0bbf\u0b99\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf",
+      "link": "https://www.dinamalar.com/news/india-tamil-news/ready-to-work-together-to-restore-peace-in-west-asia-chinese-president-xi-jinping/4321001"
     },
     {
-      "title": "Ponguleti Srinivas Reddy: \u0c2d\u0c42\u0c2e\u0c41\u0c32 \u0c2c\u0c02\u0c21\u0c3e\u0c30\u0c02 \u0c2c\u0c2f\u0c1f\u0c2a\u0c21\u0c41\u0c24\u0c41\u0c02\u0c26\u0c28\u0c3f BRS \u0c28\u0c47\u0c24\u0c32\u0c41 \u0c24\u0c2a\u0c4d\u0c2a\u0c3f\u0c02\u0c1a\u0c41\u0c15\u0c41 \u0c24\u0c3f\u0c30\u0c41\u0c17\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41: \u0c2a\u0c4a\u0c02\u0c17\u0c41\u0c32\u0c47\u0c1f\u0c3f",
-      "link": "https://telugu.abplive.com/telangana/hyderabad/ponguleti-srinivas-reddy-slams-brs-over-dharani-portal-and-land-irregularities-in-telangana-assembly-258778"
+      "title": "\u0d35\u0d4b\u0d33\u0d3f\u0d2c\u0d4b\u0d7e \u0d2a\u0d4d\u0d30\u0d3e\u0d15\u0d4d\u0d1f\u0d40\u0d38\u0d3f\u0d28\u0d3e\u0d2f\u0d3f \u0d38\u0d4d\u0d15\u0d42\u0d33\u0d3f\u0d32\u0d46\u0d24\u0d4d\u0d24\u0d3f, \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d46 \u0d06\u0d31\u0d4d\u0d31\u0d3f\u0d32\u0d3f\u0d31\u0d19\u0d4d\u0d19\u0d3f; \u0d1a\u0d41\u0d34\u0d3f\u0d2f\u0d3f\u0d7d \u0d2a\u0d46\u0d1f\u0d4d\u0d1f \u0d2a\u0d4d\u0d32\u0d38\u0d4d \u0d1f\u0d41 \u0d35\u0d3f\u0d26\u0d4d\u0d2f\u0d3e\u0d7c\u0d24\u0d4d\u0d25\u0d3f\u0d15\u0d7e\u0d15\u0d4d\u0d15\u0d4d \u0d1c\u0d40\u0d35\u0d7b \u0d28\u0d37\u0d4d\u0d1f\u0d2e\u0d3e\u0d2f\u0d3f",
+      "link": "https://www.asianetnews.com/kerala-news/volleyball-practice-turns-tragic-as-two-plus-two-students-drown-in-konni-articleshow-wy0f44o"
     },
     {
-      "title": "'\u0d07\u0d28\u0d3f\u0d2f\u0d41\u0d02 \u0d24\u0d41\u0d1f\u0d30\u0d3e\u0d28\u0d3e\u0d15\u0d3f\u0d32\u0d4d\u0d32'; \u0d38\u0d3f\u0d2a\u0d3f\u0d0e\u0d2e\u0d4d\u0d2e\u0d41\u0d2e\u0d3e\u0d2f\u0d41\u0d33\u0d4d\u0d33 \u0d2c\u0d28\u0d4d\u0d27\u0d02 \u0d09\u0d2a\u0d47\u0d15\u0d4d\u0d37\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41\u0d35\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d05\u0d28\u0d3f\u0d7d \u0d35\u0d3f. \u0d28\u0d3e\u200b\u0d17\u0d47\u0d28\u0d4d\u0d26\u0d4d\u0d30\u0d7b",
-      "link": "https://www.asianetnews.com/kerala-news/anil-v-nagendran-announces-he-is-leaving-from-cpm-articleshow-4h1ukh6"
+      "title": "HDFC Bank sends two names to RBI for MD, CEO post, appoints Jimmy Tata as whole-time director",
+      "link": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/banks/hdfc-bank-sends-two-names-to-rbi-for-md-ceo-post-appoints-jimmy-tata-as-whole-time-director-14028566.html"
     },
     {
-      "title": "\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd 15\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf \u0bb5\u0bbe\u0b99\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd, \u0b9a\u0bc1\u0bae\u0bc0\u0ba4\u0bcd \u0baa\u0b95\u0b9f\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8 \u0b87\u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd",
-      "link": "https://tamil.economictimes.com/market/stocks/september-15-3-best-stocks-recommended-for-investors/articleshow/134125871.cms"
+      "title": "HDFC Bank sends two names to RBI for MD, CEO post, appoints Jimmy Tata as whole-time director",
+      "link": "https://www.moneycontrol.com/news/business/banks/hdfc-bank-sends-two-names-to-rbi-for-md-ceo-post-appoints-jimmy-tata-as-whole-time-director-14028566.html"
     },
     {
-      "title": "\u0aac\u0ac7 \u0aab\u0ac2\u0a9f \u0ab6\u0acd\u0ab0\u0ac0\u0a9c\u0ac0 \u0aaa\u0acd\u0ab0\u0aa4\u0abf\u0aae\u0abe\u0aa8\u0abe \u0ab5\u0abf\u0ab8\u0ab0\u0acd\u0a9c\u0aa8 \u0aae\u0abe\u0a9f\u0ac7 \u0a97\u0acb\u0aa4\u0acd\u0ab0\u0ac0\u0ab0\u0acb\u0aa1 \u0aaa\u0ab0 30 \u0aab\u0ac2\u0a9f \u0ab2\u0abe\u0a82\u0aac\u0acb \u0a95\u0ac3\u0aa4\u0acd\u0ab0\u0abf\u0aae \u0a95\u0ac1\u0a82\u0aa1 \u0aa4\u0ac8\u0aaf\u0abe\u0ab0 : 1 \u0ab2\u0abe\u0a96 \u0ab2\u0ac0\u0a9f\u0ab0 \u0aaa\u0abe\u0aa3\u0ac0 \u0aad\u0ab0\u0abe\u0ab6\u0ac7",
-      "link": "https://www.gujaratsamachar.com/news/baroda/a-30-foot-long-artificial-tank-has-been-prepared-on-gotri-road-for-the-immersion-of-a-two-foot-shreeji-statue-1-lakh-liters-of-water-will-be-filled-72419970056"
+      "title": "\u0a8f\u0a95\u0aa4\u0ab0\u0aab\u0ac0 \u0a9f\u0ac7\u0ab0\u0abf\u0aab \u0a95\u0ac7 \u0a86\u0ab0\u0acd\u0aa5\u0abf\u0a95 \u0aa6\u0aac\u0abe\u0aa3 \u0aa8\u0ab9\u0ac0\u0a82 \u0a9a\u0abe\u0ab2\u0ac7: \u0aac\u0acd\u0ab0\u0abf\u0a95\u0acd\u0ab8 \u0ab8\u0aae\u0abf\u0a9f\u0aae\u0abe\u0a82 '\u0aa8\u0ab5\u0ac0 \u0aa6\u0abf\u0ab2\u0acd\u0ab9\u0ac0 \u0aa1\u0abf\u0a95\u0acd\u0ab2\u0ac7\u0ab0\u0ac7\u0ab6\u0aa8' \u0ab8\u0ab0\u0acd\u0ab5\u0ab8\u0a82\u0aae\u0aa4\u0abf\u0aa5\u0ac0 \u0aaa\u0abe\u0ab8",
+      "link": "https://www.gujaratsamachar.com/news/national/brics-new-delhi-declaration-flags-unilateral-tariffs-calls-for-dialogue-peace-93416049030"
     },
     {
-      "title": "'I'm tired of this': Indian wushu player Divyanshi Choudhary breaks down on hostel roof after Asian Games axing",
-      "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/im-tired-of-this-indian-wushu-player-divyanshi-choudhary-breaks-down-on-hostel-roof-after-asian-games-axing/articleshow/134124299.cms"
+      "title": "\u0d12\u0d30\u0d41\u0d2e\u0d3e\u0d31\u0d4d\u0d31\u0d35\u0d41\u0d2e\u0d3f\u0d32\u0d4d\u0d32, \u0d07\u0d28\u0d4d\u0d28\u0d41\u0d02 \u0d2a\u0d35\u0d7c \u0d15\u0d1f\u0d4d\u0d1f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d02; \u0d05\u0d31\u0d3f\u0d2f\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d15\u0d46\u0d0e\u0d38\u0d4d\u0d07\u0d2c\u0d3f, 1000 \u0d2e\u0d46\u0d17\u0d3e\u0d35\u0d3e\u0d1f\u0d4d\u0d1f\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d15\u0d41\u0d31\u0d35\u0d4d",
+      "link": "https://www.asianetnews.com/kerala-news/power-cut-today-as-well-kseb-issues-notification-citing-a-1000-mw-deficit-articleshow-vzxqz3a"
     },
     {
-      "title": "Sanju Samson: \u0d38\u0d1e\u0d4d\u0d1c\u0d41 \u0d1a\u0d46\u0d31\u0d3f\u0d2f \u0d24\u0d3e\u0d30\u0d2e\u0d32\u0d4d\u0d32, \u0d35\u0d48\u0d2d\u0d35\u0d3f\u0d28\u0d47\u0d15\u0d4d\u0d15\u0d3e\u0d7e \u0d2a\u0d3f\u0d28\u0d4d\u0d24\u0d41\u0d23 \u0d28\u0d7d\u0d15\u0d23\u0d02; \u0d2e\u0d41\u0d7b \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d7b \u0d24\u0d3e\u0d30\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d09\u0d2a\u0d26\u0d47\u0d36\u0d02",
-      "link": "https://www.asianetnews.com/cricket-sports/vivek-razdan-wants-sanju-samson-to-open-for-india-in-afghanistan-t20is-articleshow-bk96g94"
+      "title": "\u0d2a\u0d28\u0d4d\u0d24\u0d3f\u0d7d \u0d12\u0d30\u0d41 \u0d24\u0d35\u0d23 \u0d2a\u0d4b\u0d32\u0d41\u0d02 \u0d1f\u0d1a\u0d4d\u0d1a\u0d4d \u0d1a\u0d46\u0d2f\u0d4d\u0d24\u0d3f\u0d32\u0d4d\u0d32\u0d46\u0d19\u0d4d\u0d15\u0d3f\u0d32\u0d41\u0d02 \u0d17\u0d4b\u0d7e \u0d15\u0d3f\u0d1f\u0d4d\u0d1f\u0d3f; \u0d2c\u0d4d\u0d30\u0d38\u0d40\u0d7d \u0d2b\u0d41\u0d1f\u0d4d\u200c\u0d2c\u0d4b\u0d33\u0d3f\u0d32\u0d46 \u0d05\u0d2c\u0d26\u0d4d\u0d27\u0d02",
+      "link": "https://www.mathrubhumi.com/sports/football/bizarre-own-goal-brazil-football-viral-video-p3w97icm"
     },
     {
-      "title": "DJ Ban Nagpur: \u0921\u0940\u091c\u0947\u091a\u094d\u092f\u093e \u0926\u0923\u0926\u0923\u093e\u091f\u093e\u0935\u0930 \u0939\u093e\u092f\u0915\u094b\u0930\u094d\u091f\u093e\u091a\u093e \u092e\u094b\u0920\u093e \u0928\u093f\u0930\u094d\u0923\u092f; \u0921\u0940\u091c\u0947\u092c\u0902\u0926\u0940 \u0915\u093e\u092f\u092e \u0920\u0947\u0935\u0924 \u0926\u093f\u0932\u0947 \u0915\u0921\u0915 \u0905\u0902\u092e\u0932\u092c\u091c\u093e\u0935\u0923\u0940\u091a\u0947 \u0928\u093f\u0930\u094d\u0926\u0947\u0936",
-      "link": "https://www.marathijagran.com/maharashtra/nagpur/dj-ban-in-nagpur-high-court-upholds-dj-ban-and-orders-strict-enforcement-161752"
+      "title": "15 \u0c0f\u0c33\u0c4d\u0c32 \u0c15\u0c4d\u0c30\u0c3f\u0c24\u0c02 \u0c28\u0c3e\u0c1f\u0c3f \u0c38\u0c1a\u0c3f\u0c28\u0c4d\u200c \u0c14\u0c1f\u0c4d\u200c\u0c2a\u0c48 \u0c15\u0c3e\u0c2e\u0c46\u0c02\u0c1f\u0c4d.. \u0c28\u0c46\u0c1f\u0c4d\u0c1f\u0c3f\u0c02\u0c1f \u0c2a\u0c3e\u0c15\u0c4d\u200c \u0c15\u0c4d\u0c30\u0c3f\u0c15\u0c46\u0c1f\u0c30\u0c4d \u0c28\u0c35\u0c4d\u0c35\u0c41\u0c32\u0c2a\u0c3e\u0c32\u0c41!",
+      "link": "https://www.andhrajyothy.com/2026/sports/cricket-news/social-media-erupts-after-pakistan-star-questions-on-sachin-tendulkar-smr-1557603.html"
     },
     {
-      "title": "CEO Love | \u0c32\u0c35\u0c30\u0c4d\u200c \u0c15\u0c4b\u0c38\u0c02 \u0c30\u0c42. 35 \u0c15\u0c4b\u0c1f\u0c4d\u0c32\u0c41 \u0c16\u0c30\u0c4d\u0c1a\u0c41 \u0c1a\u0c47\u0c38\u0c3f\u0c28 \u0c38\u0c40\u0c08\u0c35\u0c4b.. \u0c35\u0c3f\u0c21\u0c3f\u0c2a\u0c4b\u0c2f\u0c3f\u0c28 \u0c24\u0c30\u0c4d\u0c35\u0c3e\u0c24 \u0c15\u0c4b\u0c30\u0c4d\u0c1f\u0c41\u0c32\u0c4b \u0c15\u0c47\u0c38\u0c41.. \u0c1a\u0c3f\u0c35\u0c30\u0c3f\u0c15\u0c3f \u0c0f\u0c2e\u0c48\u0c02\u0c26\u0c4b \u0c24\u0c46\u0c32\u0c41\u0c38\u0c3e!",
-      "link": "https://www.ntnews.com/news/a-ceo-spent-%E2%82%B935-crore-on-his-lover-then-filed-a-lawsuit-after-they-broke-up-do-you-know-what-happened-in-the-end-2509360"
+      "title": "\u092a\u0940\u091b\u093e \u0915\u093f\u092f\u093e, \u092b\u093f\u0930 \u0918\u0930 \u092e\u0947\u0902 \u0918\u0941\u0938\u093e \u0914\u0930... \u0915\u0948\u0932\u093f\u092b\u094b\u0930\u094d\u0928\u093f\u092f\u093e \u0930\u0947\u0938\u094d\u091f\u094b\u0930\u0947\u0902\u091f \u0915\u0947 \u092c\u093e\u0939\u0930 \u0938\u093f\u0930\u092b\u093f\u0930\u0947 \u0906\u0936\u093f\u0915 \u0928\u0947 \u0916\u094c\u092b\u0928\u093e\u0915 \u0935\u093e\u0930\u0926\u093e\u0924 \u0915\u094b \u0926\u093f\u092f\u093e \u0905\u0902\u091c\u093e\u092e",
+      "link": "https://www.aajtak.in/world/story/california-restaurant-sacramento-indian-origin-women-shot-dead-ntc-acwi-dskc-2641508-2026-09-12"
     }
   ],
   "twitter": null
