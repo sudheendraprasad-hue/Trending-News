@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-09-12 22:02:00",
+  "generated_at": "2026-09-12 22:32:30",
   "google_trends": [
+    {
+      "title": "mom and son",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "raphinha",
       "traffic": null,
@@ -42,11 +47,6 @@
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "vin\u00edcius j\u00fanior",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
       "title": "weather mumbai",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
@@ -79,16 +79,16 @@
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-him-do-it/articleshow/134147562.cms"
       },
       {
-        "title": "After Trump renames Lake Ontario, Republican wants Lake Erie renamed too",
-        "link": "https://timesofindia.indiatimes.com/world/us/after-trump-renamed-lake-ontario-lake-america-a-pennsylvania-republican-now-wants-lake-erie-renamed-lake-pennsylvania/articleshow/134048308.cms"
+        "title": "India to get another major DRDO missile testing range in Bengal",
+        "link": "https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms"
+      },
+      {
+        "title": "Global nutrition experts back FSSAI warning labels, seek stricter rules",
+        "link": "https://timesofindia.indiatimes.com/india/global-nutrition-experts-back-fssai-warning-labels-seek-stricter-rules/articleshow/134161131.cms"
       },
       {
         "title": "After raid on PA, ex-Uttarakhand CM Harish Rawat wants to quit Cong posts",
         "link": "https://timesofindia.indiatimes.com/city/dehradun/want-to-quit-posts-not-cong-party-is-my-blood-bones-harish-rawat-after-ed-raid-on-aide/articleshow/134146985.cms"
-      },
-      {
-        "title": "Maratha quota activist Jarange's Mumbai march to clash with Ganesh festival",
-        "link": "https://timesofindia.indiatimes.com/city/aurangabad/will-start-mumbai-march-on-sept-15-launch-indefinite-fast-at-azad-maidan-on-sept-20-jarange/articleshow/134152663.cms"
       },
       {
         "title": "Harvard University has a 'September message' for all international students",
@@ -223,6 +223,18 @@
     ],
     "The Hindu": [
       {
+        "title": "Govt. employee quitting to fight polls can\u2019t seek reinstatement: Rajasthan High Court",
+        "link": "https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece"
+      },
+      {
+        "title": "Power cuts paralyse Punjab rice mills; Opon. slams AAP over \u2018Roshan Punjab\u2019 promise",
+        "link": "https://www.thehindu.com/news/national/punjab/power-cuts-paralyse-punjab-rice-mills-opon-slams-aap-over-roshan-punjab-promise/article71460277.ece"
+      },
+      {
+        "title": "Mehbooba Mufti welcomes BRICS condemnation of Pahalgam terror attack, but calls out \u2018selective outrage\u2019",
+        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-mufti-welcomes-brics-condemnation-of-pahalgam-terror-attack-but-calls-out-selective-outrage/article71461116.ece"
+      },
+      {
         "title": "Congress claims NSUI's victory in Garhwal university student union polls",
         "link": "https://www.thehindu.com/news/national/uttarakhand/congress-claims-nsuis-victory-in-garhwal-university-student-union-polls/article71461373.ece"
       },
@@ -249,18 +261,6 @@
       {
         "title": "Dipke\u00a0visits families in M.P.\u2019s\u00a0Balaghat, puts lens on tribal children\u2019s deaths",
         "link": "https://www.thehindu.com/news/national/madhya-pradesh/dipkevisits-families-in-mpsbalaghat-puts-lens-on-tribal-childrens-deaths/article71460823.ece"
-      },
-      {
-        "title": "Large stock of counterfeit medicines seized from private facility in Bengaluru",
-        "link": "https://www.thehindu.com/news/national/karnataka/large-stock-of-counterfeit-medicines-seized-from-private-facility-in-bengaluru/article71459863.ece"
-      },
-      {
-        "title": "Namma Chennai app opens volunteer registration ahead of Northeast monsoon",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/namma-chennai-app-opens-volunteer-registration-ahead-of-northeast-monsoon/article71459922.ece"
-      },
-      {
-        "title": "GCC asks over six lakh property owners to clear \u20b9847 crore dues by Sept. 30",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/gcc-asks-over-six-lakh-property-owners-to-clear-847-crore-dues-by-sept-30/article71459996.ece"
       }
     ],
     "Livemint": [
@@ -352,19 +352,19 @@
   "keywords": [
     {
       "term": "BRICS",
-      "score": 7.2
+      "score": 8.5
     },
     {
       "term": "Opinion",
       "score": 5.2
     },
     {
-      "term": "Brics",
-      "score": 4.5
+      "term": "India",
+      "score": 5.1
     },
     {
-      "term": "India",
-      "score": 3.8
+      "term": "Brics",
+      "score": 4.5
     },
     {
       "term": "Delhi",
@@ -414,44 +414,44 @@
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u0d2a\u0d3f\u0d0e\u0d02 \u0d36\u0d4d\u0d30\u0d40: \u0d15\u0d47\u0d28\u0d4d\u0d26\u0d4d\u0d30 \u0d05\u0d1c\u0d23\u0d4d\u0d1f \u0d28\u0d1f\u0d2a\u0d4d\u0d2a\u0d3e\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d3e\u0d23\u0d46\u0d19\u0d4d\u0d15\u0d3f\u0d7d \u0d15\u0d47\u0d30\u0d33\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d05\u0d28\u0d41\u0d35\u0d26\u0d3f\u0d15\u0d4d\u0d15\u0d3f\u0d32\u0d4d\u0d32: \u0d2e\u0d41\u0d28\u0d35\u0d4d\u0d35\u0d31\u0d32\u0d3f \u0d24\u0d19\u0d4d\u0d19\u0d7e",
-      "link": "https://www.mediaoneonline.com/kerala/kerala-newsyouth-league-munavvarali-thangal-opposes-pm-shri-336805"
+      "title": "Tamil Nadu kanimozhi: DMK\u091a\u094d\u092f\u093e \u0915\u0928\u093f\u092e\u094b\u0933\u0940 \u092e\u093e\u0924\u094b\u0936\u094d\u0930\u0940\u0935\u0930; \u0909\u0926\u094d\u0927\u0935 \u0920\u093e\u0915\u0930\u0947\u0902\u0938\u094b\u092c\u0924 \u092d\u0947\u091f, \u0932\u094b\u0915\u0938\u092d\u093e \u092e\u0924\u0926\u093e\u0930\u0938\u0902\u0918 \u092a\u0941\u0928\u0930\u094d\u0930\u091a\u0928\u0947\u0935\u0930 \u0915\u093e\u092f \u0920\u0930\u0923\u093e\u0930?",
+      "link": "https://www.lokshahi.com/lokshahi-politics/tamil-nadu-mp-kanimozhi-uddhav-thackeray-meeting-at-matoshree-mumbai-12523834"
     },
     {
-      "title": "\u0915\u0932 \u0915\u093e \u092e\u094c\u0938\u092e 13 \u0938\u093f\u0924\u0902\u092c\u0930: 14 \u0918\u0902\u091f\u0947 \u0915\u0947 \u092d\u0940\u0924\u0930 25 \u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u092e\u0947\u0902 \u092e\u0942\u0938\u0932\u093e\u0927\u093e\u0930 \u092c\u093e\u0930\u093f\u0936 \u0915\u093e \u0905\u0932\u0930\u094d\u091f, 80 \u0915\u0940 \u0938\u094d\u092a\u0940\u0921 \u0938\u0947 \u0939\u0935\u093e; IMD \u0905\u092a\u0921\u0947\u091f",
-      "link": "https://navbharattimes.indiatimes.com/india/tomorrow-weather-13-september-2026-thunderstorm-and-heavy-rain-alert-in-25-states-within-14-hours-wind-speed-up-to-80-kmph-delhi-up-bihar-temperature/articleshow/134122381.cms"
+      "title": "\u0916\u0930\u094d\u0930\u093e\u091f\u0947 \u0932\u0947\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u093e\u0930\u094d\u091f\u0928\u0930 \u0915\u0947 \u0938\u093e\u0925 \u0938\u094b\u0928\u0947 \u0915\u093e \u0906\u092a\u0915\u0940 \u0938\u0947\u0939\u0924 \u092a\u0930 \u0915\u094d\u092f\u093e \u0905\u0938\u0930 \u092a\u0921\u093c\u0924\u093e \u0939\u0948?",
+      "link": "https://www.bbc.com/hindi/articles/c8jdmv9le3wo"
     },
     {
-      "title": "\u0c17\u0c23\u0c47\u0c36\u0c4d \u0c09\u0c24\u0c4d\u0c38\u0c35\u0c3e\u0c32\u0c15\u0c41 \u0c0e\u0c32\u0c3e\u0c02\u0c1f\u0c3f \u0c06\u0c1f\u0c02\u0c15\u0c02 \u0c15\u0c32\u0c17\u0c15\u0c42\u0c21\u0c26\u0c41: \u0c38\u0c40\u0c0e\u0c02 \u0c30\u0c47\u0c35\u0c02\u0c24\u0c4d \u0c06\u0c26\u0c47\u0c36\u0c02..",
-      "link": "https://www.andhrajyothy.com/2026/telangana/hyderabad/hyderabad-ganesh-festival-cm-revanth-reddy-security-immersion-arrangements-suri-1557589.html"
+      "title": "\u0a97\u0aa3\u0aaa\u0aa4\u0abf \u0aaa\u0ac2\u0a9c\u0abe\u0aae\u0abe\u0a82 \u0aa4\u0ac1\u0ab2\u0ab8\u0ac0 \u0a95\u0ac7\u0aae \u0a9b\u0ac7 \u0ab5\u0ab0\u0acd\u0a9c\u0abf\u0aa4? \u0aae\u0ac2\u0ab0\u0acd\u0aa4\u0abf \u0ab8\u0acd\u0aa5\u0abe\u0aaa\u0aa8\u0abe \u0ab5\u0a96\u0aa4\u0ac7 \u0a86 \u0aad\u0ac2\u0ab2\u0acb \u0a95\u0ab0\u0ac0 \u0aa4\u0acb \u0aaa\u0ac2\u0a9c\u0abe\u0aa8\u0ac1\u0a82 \u0aab\u0ab3 \u0aa8\u0ab9\u0ac0\u0a82 \u0aae\u0ab3\u0ac7",
+      "link": "https://www.gujaratsamachar.com/news/astro/why-is-tulsi-forbidden-in-ganpati-puja-if-you-make-these-mistakes-while-installing-the-idol-the-worship-will-not-yield-any-results-92451728458"
     },
     {
-      "title": "\u0938\u090a\u0926\u0940 \u0915\u0940 \u0924\u0947\u0932 \u092a\u093e\u0907\u092a\u0932\u093e\u0907\u0928 \u0920\u092a, \u0915\u094d\u0930\u0942\u0921 \u0911\u092f\u0932 \u0938\u0902\u0915\u091f \u0938\u0947 \u092e\u0939\u0902\u0917\u093e \u092c\u093f\u0915\u0947\u0917\u093e \u092a\u0947\u091f\u094d\u0930\u094b\u0932-\u0921\u0940\u091c\u0932!",
-      "link": "https://www.abplive.com/business/saudi-arabia-oil-pipeline-halted-petrol-and-diesel-prices-set-rise-due-crude-oil-crisis-3187893"
+      "title": "\u0c2e\u0c33\u0c4d\u0c32\u0c40 \u0c2d\u0c3e\u0c30\u0c24\u0c4d - \u0c2a\u0c3e\u0c15\u0c4d\u200c \u0c2a\u0c4b\u0c30\u0c41.. \u0c17\u0c24\u0c47\u0c21\u0c3e\u0c26\u0c3f \u0c30\u0c46\u0c02\u0c21\u0c41\u0c38\u0c3e\u0c30\u0c4d\u0c32\u0c41 \u0c2c\u0c39\u0c3f\u0c37\u0c4d\u0c15\u0c30\u0c3f\u0c02\u0c1a\u0c3e\u0c02.. \u0c2e\u0c30\u0c3f \u0c08\u0c38\u0c3e\u0c30\u0c3f?",
+      "link": "https://www.eenadu.net/telugu-news/sports/ind-vs-pak-back-on-wcl-calendar-after-two-cancelled-clashes/0401/126165114"
     },
     {
-      "title": "\u0d2c\u0d4d\u0d30\u0d3f\u0d15\u0d4d\u200c\u0d38\u0d4d \u0d09\u0d1a\u0d4d\u0d1a\u0d15\u0d4b\u0d1f\u0d3f\u0d2f\u0d3f\u0d7d \u0d38\u0d02\u0d2f\u0d41\u0d15\u0d4d\u0d24 \u0d2a\u0d4d\u0d30\u0d16\u0d4d\u0d2f\u0d3e\u0d2a\u0d28\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d \u0d27\u0d3e\u0d30\u0d23; \u0d07\u0d28\u0d4d\u0d28\u0d4d \u0d2a\u0d41\u0d31\u0d24\u0d4d\u0d24\u0d3f\u0d31\u0d15\u0d4d\u0d15\u0d41\u0d02",
-      "link": "https://www.asianetnews.com/news/brics-summit-consensus-reached-on-joint-declaration-to-be-released-today-articleshow-57s2d0g"
+      "title": "\u0c39\u0c28\u0c41\u0c2e\u0c3e\u0c28\u0c4d \u0c05\u0c02\u0c36\u0c4d.. \u0c05\u0c38\u0c32\u0c41 \u0c0e\u0c35\u0c30\u0c40 \u0c28\u0c40\u0c2e\u0c4d \u0c15\u0c30\u0c4b\u0c32\u0c40 \u0c2c\u0c3e\u0c2c\u0c3e",
+      "link": "https://www.chitrajyothy.com/2026/tollywood/who-is-neem-karoli-baba-the-spiritual-icon-behind-recordbreaking-film-hanuman-ansh-rp-75326.html"
     },
     {
-      "title": "\u092d\u093e\u0930\u0924 \u092e\u0947\u0902 BRICS \u0938\u092e\u093f\u091f \u0915\u0947 \u092c\u0940\u091a PM \u092e\u094b\u0926\u0940 \u0928\u0947 \u0928\u0947\u0924\u0928\u094d\u092f\u093e\u0939\u0942 \u0915\u094b \u0915\u093f\u092f\u093e \u092f\u093e\u0926, \u0928\u090f \u0938\u093e\u0932 \u0915\u0940 \u0926\u0940 \u092c\u0927\u093e\u0908",
-      "link": "https://www.aajtak.in/india/news/story/pm-modi-benjamin-netanyahu-rosh-hashanah-greeting-brics-summit-ntc-mnrd-dskc-2641446-2026-09-12"
+      "title": "\u092a\u093e\u0938 \u092c\u0948\u0920\u0947 \u0925\u0947 \u091c\u093f\u0928\u092a\u093f\u0902\u0917, \u092c\u094d\u0930\u093f\u0915\u094d\u0938 \u0938\u092e\u093f\u091f \u0938\u0947 \u092a\u0940\u090f\u092e \u092e\u094b\u0926\u0940 \u0928\u0947 \u0926\u0947 \u0926\u093f\u092f\u093e \u0938\u0902\u0926\u0947\u0936; \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u094b \u092d\u0940 \u0926\u094b \u091f\u0942\u0915",
+      "link": "https://www.livehindustan.com/national/brics-summit-2026-pm-modi-calls-for-tangible-outcomes-under-india-chairship-new-delhi-201789207147569.html"
     },
     {
-      "title": "Petrol-Diesel Price: \u092a\u0947\u091f\u094d\u0930\u094b\u0932-\u0921\u093f\u091d\u0947\u0932 \u092a\u0941\u0928\u094d\u0939\u093e \u092e\u0939\u093e\u0917\u0923\u093e\u0930? \u0938\u094c\u0926\u0940 \u0905\u0930\u0947\u092c\u093f\u092f\u093e\u0928\u0947 \u092c\u0902\u0926 \u0915\u0947\u0932\u0940 \u0915\u091a\u094d\u091a\u094d\u092f\u093e \u0924\u0947\u0932\u093e\u091a\u0940 \u092a\u093e\u0907\u092a\u0932\u093e\u0907\u0928, \u092d\u093e\u0930\u0924\u093e\u091a\u0947 \u091f\u0947\u0928\u094d\u0936\u0928 \u0935\u093e\u0922\u0932\u0902",
-      "link": "https://saamtv.esakal.com/national-international/crude-oil-price-surges-petroldiesel-prices-may-rise-again-saudi-arabia-shuts-oil-pipeline-after-drone-attack-pvm91"
+      "title": "India\u2019s grand welcome: How Delhi\u2019s iconic hotels became diplomatic addresses for BRICS 2026",
+      "link": "https://timesofindia.indiatimes.com/life-style/food-news/indias-grand-welcome-how-delhis-iconic-hotels-became-diplomatic-addresses-for-brics-2026/articleshow/134122112.cms"
     },
     {
-      "title": "\u09a4\u09c3\u09a3\u09ae\u09c2\u09b2\u09c7\u09b0 \u09ac\u09c8\u09a0\u0995 \u09b6\u09c7\u09b7 ! \u0995\u09c0 \u0995\u09a5\u09be \u09b9\u09b2, \u099c\u09be\u09a8\u09be\u09b2\u09c7\u09a8 \u0995\u09b2\u09cd\u09af\u09be\u09a3 \u09ac\u09a8\u09cd\u09a6\u09cd\u09af\u09cb\u09aa\u09be\u09a7\u09cd\u09af\u09be\u09df",
-      "link": "https://bengali.abplive.com/district/kalyan-banerjee-kalighat-tmc-briefs-what-discussed-with-election-commission-on-tmc-symbol-new-delhi-1192564"
+      "title": "Gujarat Rain: \u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0aae\u0abe\u0a82 \u0ab5\u0ab0\u0ab8\u0abe\u0aa6\u0aa8\u0acb \u0aa8\u0ab5\u0acb \u0ab0\u0abe\u0a89\u0aa8\u0acd\u0aa1 \u0ab6\u0ab0\u0ac2, \u0a86 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0abe\u0a93\u0aae\u0abe\u0a82 \u0aa4\u0ac2\u0a9f\u0ac0 \u0aaa\u0aa1\u0acd\u0aaf\u0acb \u0ab5\u0ab0\u0ab8\u0abe\u0aa6, \u0a96\u0ac7\u0aa1\u0ac2\u0aa4\u0acb\u0aa8\u0ac7 \u0ab0\u0abe\u0ab9\u0aa4",
+      "link": "https://gujarati.abplive.com/news/gujarat/gujarat-rain-update-gir-somnath-amreli-mahisagar-rainfall-news-today-991014"
     },
     {
-      "title": "Bigg Boss Today Promo: \u0c35\u0c40\u0c21\u0c3f\u0c2f\u0c4b\u0c32\u0c41 \u0c1a\u0c42\u0c2a\u0c3f\u0c38\u0c4d\u0c24\u0c42 \u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e \u0c1a\u0c42\u0c2a\u0c3f\u0c02\u0c1a\u0c3f\u0c28 \u0c28\u0c3e\u0c17\u0c3e\u0c30\u0c4d\u0c1c\u0c41\u0c28.. \u0c1a\u0c30\u0c23\u0c4d, \u0c1a\u0c48\u0c24\u0c4d\u0c30\u0c32 \u0c0e\u0c32\u0c3f\u0c2e\u0c3f\u0c28\u0c47\u0c37\u0c28\u0c4d\u200c\u0c2a\u0c48 \u0c2e\u0c2c\u0c4d\u0c2c\u0c41\u0c32\u0c3f\u0c21\u0c3f\u0c2a\u0c4b\u0c2f\u0c47 \u0c38\u0c40\u0c15\u0c4d\u0c30\u0c46\u0c1f\u0c4d \u0c30\u0c3f\u0c35\u0c40\u0c32\u0c4d",
-      "link": "https://telugu.samayam.com/tv/bigg-boss-telugu/bigg-boss-telugu-10-day-6-promo-nagarjuna-reveals-the-elimination-twist/articleshow/134121873.cms"
+      "title": "\u2018\u0d15\u0d47\u0d28\u0d4d\u0d26\u0d4d\u0d30 \u0d05\u0d1c\u0d23\u0d4d\u0d1f \u0d28\u0d1f\u0d2a\u0d4d\u0d2a\u0d3e\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d46\u0d19\u0d4d\u0d15\u0d3f\u0d7d \u0d05\u0d02\u0d17\u0d40\u0d15\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d3f\u0d32\u0d4d\u0d32\u2019; \u0d2a\u0d3f.\u0d0e\u0d02. \u0d36\u0d4d\u0d30\u0d40\u0d2f\u0d3f\u0d7d \u0d28\u0d3f\u0d32\u0d2a\u0d3e\u0d1f\u0d4d \u0d15\u0d1f\u0d41\u0d2a\u0d4d\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d2f\u0d42\u0d24\u0d4d\u0d24\u0d4d \u0d32\u0d40\u0d17\u0d4d",
+      "link": "https://www.madhyamam.com/kerala/youth-league-hardens-stance-on-pm-shri-scheme-amid-funding-row-1553853"
     },
     {
-      "title": "\u0928\u0947\u092a\u093e\u0932 \u0928\u0947 \u0915\u091f\u093e\u092f\u093e \u090f\u0936\u093f\u092f\u093e \u0915\u092a 2027 \u0915\u093e \u091f\u093f\u0915\u091f, \u092b\u093e\u0907\u0928\u0932 \u092e\u0947\u0902 \u092a\u0938\u094d\u0924 \u0939\u0941\u0906 UAE, \u0906\u0938\u093f\u092b \u0936\u0947\u0916 \u092c\u0928\u0947 \u091c\u0940\u0924 \u0915\u0947 \u0939\u0940\u0930\u094b",
-      "link": "https://www.aajtak.in/sports/cricket/story/nepal-beat-uae-acc-mens-premier-cup-2026-final-qualify-asia-cup-2027-tspoa-dskc-2641436-2026-09-12"
+      "title": "Rahul Dravid News : \u0935\u093f\u0930\u093e\u091f \u0915\u094b\u0939\u0932\u0940\u0932\u093e \u0928\u093e\u0915\u093e\u0930\u0932\u0902, \u092c\u0947\u0938\u094d\u091f \u0915\u0945\u092a\u094d\u091f\u0928 \u092e\u094d\u0939\u0923\u0942\u0928 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u091a\u094d\u092f\u093e \u0916\u0947\u0933\u093e\u0921\u0942\u0932\u093e \u0928\u093f\u0935\u0921\u0932\u0902; \u0930\u093e\u0939\u0941\u0932 \u0926\u094d\u0930\u0935\u093f\u0921\u091a\u094d\u092f\u093e \u0928\u093f\u0930\u094d\u0923\u092f\u093e\u0928\u0947 \u0938\u0917\u0933\u0947\u091a \u091a\u0915\u094d\u0930\u093e\u0935\u0932\u0947",
+      "link": "https://marathi.abplive.com/sports/cricket/rahul-dravid-pics-imran-khan-or-virat-kohli-best-captain-ms-dhoni-marathi-news-1438883"
     }
   ],
   "twitter": null

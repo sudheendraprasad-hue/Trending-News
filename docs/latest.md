@@ -1,15 +1,15 @@
-# India Trending Report — 2026-09-12 22:02:00
+# India Trending Report — 2026-09-12 22:32:30
 
 ## Google Trends (India) — top trending searches
-1. [raphinha](https://trends.google.com/trending/rss?geo=IN)
-2. [arda güler](https://trends.google.com/trending/rss?geo=IN)
-3. [fpl](https://trends.google.com/trending/rss?geo=IN)
-4. [roberto fernández](https://trends.google.com/trending/rss?geo=IN)
-5. [stranger things](https://trends.google.com/trending/rss?geo=IN)
-6. [nike](https://trends.google.com/trending/rss?geo=IN)
-7. [aryna sabalenka](https://trends.google.com/trending/rss?geo=IN)
-8. [sergio camello](https://trends.google.com/trending/rss?geo=IN)
-9. [vinícius júnior](https://trends.google.com/trending/rss?geo=IN)
+1. [mom and son](https://trends.google.com/trending/rss?geo=IN)
+2. [raphinha](https://trends.google.com/trending/rss?geo=IN)
+3. [arda güler](https://trends.google.com/trending/rss?geo=IN)
+4. [fpl](https://trends.google.com/trending/rss?geo=IN)
+5. [roberto fernández](https://trends.google.com/trending/rss?geo=IN)
+6. [stranger things](https://trends.google.com/trending/rss?geo=IN)
+7. [nike](https://trends.google.com/trending/rss?geo=IN)
+8. [aryna sabalenka](https://trends.google.com/trending/rss?geo=IN)
+9. [sergio camello](https://trends.google.com/trending/rss?geo=IN)
 10. [weather mumbai](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
@@ -20,9 +20,9 @@
 - [EC meets both TMC factions amid their 'real party' claims](https://timesofindia.indiatimes.com/india/ec-meets-both-tmc-factions-amid-their-real-party-claims/articleshow/134156501.cms)
 - [Brics opposes unilateral trade steps like EU carbon border tax](https://timesofindia.indiatimes.com/india/brics-opposes-unilateral-trade-steps-like-eu-carbon-border-tax/articleshow/134158775.cms)
 - [Mark Zuckerberg on how engineers made him return to Musk's X after 3 years in 2026](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-him-do-it/articleshow/134147562.cms)
-- [After Trump renames Lake Ontario, Republican wants Lake Erie renamed too](https://timesofindia.indiatimes.com/world/us/after-trump-renamed-lake-ontario-lake-america-a-pennsylvania-republican-now-wants-lake-erie-renamed-lake-pennsylvania/articleshow/134048308.cms)
+- [India to get another major DRDO missile testing range in Bengal](https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms)
+- [Global nutrition experts back FSSAI warning labels, seek stricter rules](https://timesofindia.indiatimes.com/india/global-nutrition-experts-back-fssai-warning-labels-seek-stricter-rules/articleshow/134161131.cms)
 - [After raid on PA, ex-Uttarakhand CM Harish Rawat wants to quit Cong posts](https://timesofindia.indiatimes.com/city/dehradun/want-to-quit-posts-not-cong-party-is-my-blood-bones-harish-rawat-after-ed-raid-on-aide/articleshow/134146985.cms)
-- [Maratha quota activist Jarange's Mumbai march to clash with Ganesh festival](https://timesofindia.indiatimes.com/city/aurangabad/will-start-mumbai-march-on-sept-15-launch-indefinite-fast-at-azad-maidan-on-sept-20-jarange/articleshow/134152663.cms)
 - [Harvard University has a 'September message' for all international students](https://timesofindia.indiatimes.com/technology/tech-news/harvard-university-has-a-september-message-for-all-international-students-planning-to-leave-america-as-well-as-those-staying-in-the-country/articleshow/134118705.cms)
 
 **NDTV**
@@ -62,6 +62,9 @@
 - [ಹರ್ಷಿತ್ ರಾಣಾ ಯಾವ ಸೀಮೆ ಆಲ್ರೌಂಡರ್?: ಗುರಿ ತಪ್ಪಿರುವ ಗೌತಮ್ ಗಂಭೀರ್ ರಣತಂತ್ರಕ್ಕೆ ಎಸ್ ಬದ್ರೀನಾಥ್ ಆಕ್ರೋಶ](https://vijaykarnataka.com/sports/cricket/news/s-badrinath-questions-gautam-gambhir-all-rounder-strategy-and-harshit-rana-role/articleshow/134132953.cms)
 
 **The Hindu**
+- [Govt. employee quitting to fight polls can’t seek reinstatement: Rajasthan High Court](https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece)
+- [Power cuts paralyse Punjab rice mills; Opon. slams AAP over ‘Roshan Punjab’ promise](https://www.thehindu.com/news/national/punjab/power-cuts-paralyse-punjab-rice-mills-opon-slams-aap-over-roshan-punjab-promise/article71460277.ece)
+- [Mehbooba Mufti welcomes BRICS condemnation of Pahalgam terror attack, but calls out ‘selective outrage’](https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-mufti-welcomes-brics-condemnation-of-pahalgam-terror-attack-but-calls-out-selective-outrage/article71461116.ece)
 - [Congress claims NSUI's victory in Garhwal university student union polls](https://www.thehindu.com/news/national/uttarakhand/congress-claims-nsuis-victory-in-garhwal-university-student-union-polls/article71461373.ece)
 - ['Millet pulao', 'paneer lababdar', 'shahtoot phirni': BRICS Summit gala dinner menu](https://www.thehindu.com/news/national/brics-summit-gala-dinner-menu/article71461293.ece)
 - [Chhattisgarh BJP Minister's brother Guru Dhaldas Saheb joins Congress](https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-bjp-ministers-brother-guru-dhaldas-saheb-joins-congress/article71460770.ece)
@@ -69,9 +72,6 @@
 - [Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths](https://www.thehindu.com/news/national/madhya-pradesh/balaghat-child-deaths-cjp-convernor-dipke-visits-tribal-villages-demands-accountability/article71459426.ece)
 - [Kerala Assistant Public Prosecutors Association gets new office-bearers](https://www.thehindu.com/news/national/kerala/kerala-assistant-public-prosecutors-association-gets-new-office-bearers/article71459804.ece)
 - [Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths](https://www.thehindu.com/news/national/madhya-pradesh/dipkevisits-families-in-mpsbalaghat-puts-lens-on-tribal-childrens-deaths/article71460823.ece)
-- [Large stock of counterfeit medicines seized from private facility in Bengaluru](https://www.thehindu.com/news/national/karnataka/large-stock-of-counterfeit-medicines-seized-from-private-facility-in-bengaluru/article71459863.ece)
-- [Namma Chennai app opens volunteer registration ahead of Northeast monsoon](https://www.thehindu.com/news/national/tamil-nadu/namma-chennai-app-opens-volunteer-registration-ahead-of-northeast-monsoon/article71459922.ece)
-- [GCC asks over six lakh property owners to clear ₹847 crore dues by Sept. 30](https://www.thehindu.com/news/national/tamil-nadu/gcc-asks-over-six-lakh-property-owners-to-clear-847-crore-dues-by-sept-30/article71459996.ece)
 
 **Livemint**
 - [Trump's childhood home in Queens was once a cat den. Now it has sold for  ₹18.44 crore](https://www.livemint.com/news/us-news/trumps-childhood-home-in-queens-was-once-a-cat-den-now-it-has-sold-for-18-44-crore-11789236131291.html)
@@ -100,10 +100,10 @@
 - [ಪರಿಹಾರಕ್ಕಾಗಿ ಅಪಘಾತದ ಸನ್ನಿವೇಶ ತಿರುಚಿರುವ ಶಂಕೆ; ಪ್ರಕರಣದ ಮರುತನಿಖೆಗೆ ಎಸ್‌ಐಟಿ ರಚನೆಗೆ ಹೈಕೋರ್ಟ್ ಆದೇಶ](https://www.varthabharati.in/bangalore-city/high-court-2274858)
 
 ## Cross-source trending keywords (derived from headlines above)
-- BRICS (7.2)
+- BRICS (8.5)
 - Opinion (5.2)
+- India (5.1)
 - Brics (4.5)
-- India (3.8)
 - Delhi (3.5)
 - BRICS Summit (3.0)
 - Dipke (2.9)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [പിഎം ശ്രീ: കേന്ദ്ര അജണ്ട നടപ്പാക്കാനാണെങ്കിൽ കേരളത്തിൽ അനുവദിക്കില്ല: മുനവ്വറലി തങ്ങൾ](https://www.mediaoneonline.com/kerala/kerala-newsyouth-league-munavvarali-thangal-opposes-pm-shri-336805)
-- [कल का मौसम 13 सितंबर: 14 घंटे के भीतर 25 राज्यों में मूसलाधार बारिश का अलर्ट, 80 की स्पीड से हवा; IMD अपडेट](https://navbharattimes.indiatimes.com/india/tomorrow-weather-13-september-2026-thunderstorm-and-heavy-rain-alert-in-25-states-within-14-hours-wind-speed-up-to-80-kmph-delhi-up-bihar-temperature/articleshow/134122381.cms)
-- [గణేశ్ ఉత్సవాలకు ఎలాంటి ఆటంకం కలగకూడదు: సీఎం రేవంత్ ఆదేశం..](https://www.andhrajyothy.com/2026/telangana/hyderabad/hyderabad-ganesh-festival-cm-revanth-reddy-security-immersion-arrangements-suri-1557589.html)
-- [सऊदी की तेल पाइपलाइन ठप, क्रूड ऑयल संकट से महंगा बिकेगा पेट्रोल-डीजल!](https://www.abplive.com/business/saudi-arabia-oil-pipeline-halted-petrol-and-diesel-prices-set-rise-due-crude-oil-crisis-3187893)
-- [ബ്രിക്‌സ് ഉച്ചകോടിയിൽ സംയുക്ത പ്രഖ്യാപനത്തിന് ധാരണ; ഇന്ന് പുറത്തിറക്കും](https://www.asianetnews.com/news/brics-summit-consensus-reached-on-joint-declaration-to-be-released-today-articleshow-57s2d0g)
-- [भारत में BRICS समिट के बीच PM मोदी ने नेतन्याहू को किया याद, नए साल की दी बधाई](https://www.aajtak.in/india/news/story/pm-modi-benjamin-netanyahu-rosh-hashanah-greeting-brics-summit-ntc-mnrd-dskc-2641446-2026-09-12)
-- [Petrol-Diesel Price: पेट्रोल-डिझेल पुन्हा महागणार? सौदी अरेबियाने बंद केली कच्च्या तेलाची पाइपलाइन, भारताचे टेन्शन वाढलं](https://saamtv.esakal.com/national-international/crude-oil-price-surges-petroldiesel-prices-may-rise-again-saudi-arabia-shuts-oil-pipeline-after-drone-attack-pvm91)
-- [তৃণমূলের বৈঠক শেষ ! কী কথা হল, জানালেন কল্যাণ বন্দ্যোপাধ্যায়](https://bengali.abplive.com/district/kalyan-banerjee-kalighat-tmc-briefs-what-discussed-with-election-commission-on-tmc-symbol-new-delhi-1192564)
-- [Bigg Boss Today Promo: వీడియోలు చూపిస్తూ సినిమా చూపించిన నాగార్జున.. చరణ్, చైత్రల ఎలిమినేషన్‌పై మబ్బులిడిపోయే సీక్రెట్ రివీల్](https://telugu.samayam.com/tv/bigg-boss-telugu/bigg-boss-telugu-10-day-6-promo-nagarjuna-reveals-the-elimination-twist/articleshow/134121873.cms)
-- [नेपाल ने कटाया एशिया कप 2027 का टिकट, फाइनल में पस्त हुआ UAE, आसिफ शेख बने जीत के हीरो](https://www.aajtak.in/sports/cricket/story/nepal-beat-uae-acc-mens-premier-cup-2026-final-qualify-asia-cup-2027-tspoa-dskc-2641436-2026-09-12)
+- [Tamil Nadu kanimozhi: DMKच्या कनिमोळी मातोश्रीवर; उद्धव ठाकरेंसोबत भेट, लोकसभा मतदारसंघ पुनर्रचनेवर काय ठरणार?](https://www.lokshahi.com/lokshahi-politics/tamil-nadu-mp-kanimozhi-uddhav-thackeray-meeting-at-matoshree-mumbai-12523834)
+- [खर्राटे लेने वाले पार्टनर के साथ सोने का आपकी सेहत पर क्या असर पड़ता है?](https://www.bbc.com/hindi/articles/c8jdmv9le3wo)
+- [ગણપતિ પૂજામાં તુલસી કેમ છે વર્જિત? મૂર્તિ સ્થાપના વખતે આ ભૂલો કરી તો પૂજાનું ફળ નહીં મળે](https://www.gujaratsamachar.com/news/astro/why-is-tulsi-forbidden-in-ganpati-puja-if-you-make-these-mistakes-while-installing-the-idol-the-worship-will-not-yield-any-results-92451728458)
+- [మళ్లీ భారత్ - పాక్‌ పోరు.. గతేడాది రెండుసార్లు బహిష్కరించాం.. మరి ఈసారి?](https://www.eenadu.net/telugu-news/sports/ind-vs-pak-back-on-wcl-calendar-after-two-cancelled-clashes/0401/126165114)
+- [హనుమాన్ అంశ్.. అసలు ఎవరీ నీమ్ కరోలీ బాబా](https://www.chitrajyothy.com/2026/tollywood/who-is-neem-karoli-baba-the-spiritual-icon-behind-recordbreaking-film-hanuman-ansh-rp-75326.html)
+- [पास बैठे थे जिनपिंग, ब्रिक्स समिट से पीएम मोदी ने दे दिया संदेश; अमेरिका को भी दो टूक](https://www.livehindustan.com/national/brics-summit-2026-pm-modi-calls-for-tangible-outcomes-under-india-chairship-new-delhi-201789207147569.html)
+- [India’s grand welcome: How Delhi’s iconic hotels became diplomatic addresses for BRICS 2026](https://timesofindia.indiatimes.com/life-style/food-news/indias-grand-welcome-how-delhis-iconic-hotels-became-diplomatic-addresses-for-brics-2026/articleshow/134122112.cms)
+- [Gujarat Rain: ગુજરાતમાં વરસાદનો નવો રાઉન્ડ શરૂ, આ જિલ્લાઓમાં તૂટી પડ્યો વરસાદ, ખેડૂતોને રાહત](https://gujarati.abplive.com/news/gujarat/gujarat-rain-update-gir-somnath-amreli-mahisagar-rainfall-news-today-991014)
+- [‘കേന്ദ്ര അജണ്ട നടപ്പാക്കാനെങ്കിൽ അംഗീകരിക്കില്ല’; പി.എം. ശ്രീയിൽ നിലപാട് കടുപ്പിച്ച് യൂത്ത് ലീഗ്](https://www.madhyamam.com/kerala/youth-league-hardens-stance-on-pm-shri-scheme-amid-funding-row-1553853)
+- [Rahul Dravid News : विराट कोहलीला नाकारलं, बेस्ट कॅप्टन म्हणून पाकिस्तानच्या खेळाडूला निवडलं; राहुल द्रविडच्या निर्णयाने सगळेच चक्रावले](https://marathi.abplive.com/sports/cricket/rahul-dravid-pics-imran-khan-or-virat-kohli-best-captain-ms-dhoni-marathi-news-1438883)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
