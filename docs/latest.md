@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-12 08:34:26
+# India Trending Report — 2026-09-12 09:02:04
 
 ## Google Trends (India) — top trending searches
-1. [सरकार](https://trends.google.com/trending/rss?geo=IN)
-2. [রেখা পাত্র](https://trends.google.com/trending/rss?geo=IN)
-3. [ఆఫ్ఘనిస్తాన్ క్రికెట్ జట్టు](https://trends.google.com/trending/rss?geo=IN)
-4. [ভারত জাতীয় ক্রিকেট দল](https://trends.google.com/trending/rss?geo=IN)
-5. [வரி](https://trends.google.com/trending/rss?geo=IN)
-6. [சம்பளம்](https://trends.google.com/trending/rss?geo=IN)
-7. [ಕ್ರಿಕೆಟ್](https://trends.google.com/trending/rss?geo=IN)
-8. [విషాదం](https://trends.google.com/trending/rss?geo=IN)
-9. [కార్తీక దీపం](https://trends.google.com/trending/rss?geo=IN)
-10. [lottery sambad](https://trends.google.com/trending/rss?geo=IN)
+1. [शी जिनपिंग](https://trends.google.com/trending/rss?geo=IN)
+2. [रिकी पोंटिंग](https://trends.google.com/trending/rss?geo=IN)
+3. [मोबाइल फ़ोन](https://trends.google.com/trending/rss?geo=IN)
+4. [प्रधानमंत्री किसान मानधन योजना](https://trends.google.com/trending/rss?geo=IN)
+5. [नकली नोट](https://trends.google.com/trending/rss?geo=IN)
+6. [ચાંદી](https://trends.google.com/trending/rss?geo=IN)
+7. [प्राजक्ता माळी](https://trends.google.com/trending/rss?geo=IN)
+8. [கீர்த்தி சுரேஷ்](https://trends.google.com/trending/rss?geo=IN)
+9. [ప్రమాదము](https://trends.google.com/trending/rss?geo=IN)
+10. [पंजाब](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Brics declaration unlikely to name any nation but condemn unilateral war imposition: Report](https://timesofindia.indiatimes.com/india/brics-declaration-unlikely-to-name-any-nation-but-condemn-unilateral-war-imposition-report/articleshow/134117450.cms)
 - [Applied, invested, still outside: Pakistan is still waiting at the Brics door](https://timesofindia.indiatimes.com/world/pakistan/applied-invested-still-outside-pakistan-is-still-waiting-at-the-brics-door/articleshow/134111200.cms)
 - [Rape convict Prajwal Revanna's smuggled jail phone contained explicit videos](https://timesofindia.indiatimes.com/city/bengaluru/rape-convict-ex-mp-prajwal-revannas-smuggled-jail-phone-contained-multiple-pornographic-videos-police/articleshow/134112429.cms)
+- [After Trump renames Lake Ontario, Republican wants Lake Erie renamed too](https://timesofindia.indiatimes.com/world/us/after-trump-renamed-lake-ontario-lake-america-a-pennsylvania-republican-now-wants-lake-erie-renamed-lake-pennsylvania/articleshow/134048308.cms)
+- [How to use these 11 prompts to turn your photos into retro Bollywood looks](https://timesofindia.indiatimes.com/technology/tech-news/1980s-photo-prompt-chatgpt-how-to-use-these-11-prompts-to-turn-your-photos-into-retro-bollywood-looks/articleshow/134115652.cms)
 - [Babar Azam enters record books, achieves major WTC feat against England](https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-enters-record-books-achieves-major-wtc-feat-against-england/articleshow/134115248.cms)
 - ['Support never came': How Houthis caught Saudi forces off guard in 'lightning' strike](https://timesofindia.indiatimes.com/world/middle-east/air-support-never-came-how-houthis-caught-saudi-forces-off-guard-in-a-lightning-strike/articleshow/134115165.cms)
-- [Yemen terrorist group used Anthropic's Claude AI, not engineers, to build a missile](https://timesofindia.indiatimes.com/technology/tech-news/yemen-terrorist-group-used-claude-instead-of-software-engineers-to-build-missile-anthropic-says-we-banned-the-accounts-but-they-had-already-/articleshow/134114564.cms)
 - [Woman whips out gun after father refuses to help with car loan](https://timesofindia.indiatimes.com/city/noida/father-refuses-to-help-with-car-loan-woman-whips-out-gun/articleshow/134086794.cms)
+- [What information does WhatsApp collect when you contact the support team](https://timesofindia.indiatimes.com/technology/tech-tips/what-information-does-whatsapp-collect-when-you-contact-the-support-team/articleshow/133800138.cms)
 - [Xi Jinping arrives in Delhi for Brics summit, set for talks with PM Modi](https://timesofindia.indiatimes.com/india/xi-jinping-arrives-in-delhi-for-brics-summit-set-for-talks-with-pm-modi/articleshow/134117490.cms)
-- [GCL: Ganges Grandmasters run riot; Magnus Carlsen gives POTM trophy to Vidit](https://timesofindia.indiatimes.com/sports/chess/gcl-ganges-grandmasters-run-riot-on-day-7-magnus-carlsen-gives-potm-trophy-to-vidit-gujrathi/articleshow/134111571.cms)
-- [How to use these 11 prompts to turn your photos into retro Bollywood looks](https://timesofindia.indiatimes.com/technology/tech-news/1980s-photo-prompt-chatgpt-how-to-use-these-11-prompts-to-turn-your-photos-into-retro-bollywood-looks/articleshow/134115652.cms)
-- [Bulletproof, blast-resistant, V12-powered: Meet Xi Jinping’s 'Red Banner' limousine](https://timesofindia.indiatimes.com/defence/international/the-hongqi-n701-xi-jinpings-armoured-limousine-that-will-be-driving-him-around-in-delhi/articleshow/134110293.cms)
 
 **NDTV**
 - [Meta Sued For Using Facebook, Instagram Photos To Train AI For Smart Glasses](https://www.ndtv.com/world-news/meta-sued-for-using-facebook-instagram-photos-to-train-ai-for-smart-glasses-12036640#publisher=newsstand)
@@ -38,6 +38,7 @@
 - [She Ran Away With Lover, Husband Tracked Her Down And Got Them Married](https://www.ndtv.com/india-news/she-ran-away-with-lover-husband-tracked-her-down-and-got-them-married-12036056#publisher=newsstand)
 
 **Hindustan Times**
+- [Corporal punishment without sexual intent doesn't fall under POCSO: SC quashes case against Bengal teacher](https://www.hindustantimes.com/india-news/corporal-punishment-without-sexual-intent-doesnt-fall-under-pocso-sc-quashes-case-against-bengal-teacher-101789196661641.html)
 - [Xi Jinping's car arrives in Delhi under black covers. What we know about the 'secret' Hongqi N701](https://www.hindustantimes.com/india-news/xi-jinping-car-arrives-in-delhi-under-black-covers-what-we-know-about-the-secret-hongqi-n701-101789199407494.html)
 - [Harish Rawat clarifies he hasn't quit Congress posts, but may resign over ED action](https://www.hindustantimes.com/india-news/harish-rawat-clarifies-he-hasnt-quit-congress-posts-but-may-resign-over-ed-action-chandan-singh-jeena-101789200114420.html)
 - [Vijayan challenges CM Satheesan to release list of 787 personal staff appointed under LDF rule](https://www.hindustantimes.com/india-news/vijayan-challenges-cm-satheesan-to-release-list-of-787-personal-staff-appointed-under-ldf-rule-101789200458325.html)
@@ -47,33 +48,23 @@
 - [Priyank Kharge backs Karnataka's 2 stanzas 'Vande Mataram' directive: 'Do we need patriotism lessons from...'](https://www.hindustantimes.com/india-news/priyank-kharge-backs-karnataka-govts-two-stanzas-vande-mataram-directive-101789191823266.html)
 - [TIPRA Motha leader Tapas Dey dies at 80 in Tripura after prolonged illness](https://www.hindustantimes.com/india-news/tipra-motha-leader-tapas-dey-dies-at-80-in-tripura-after-prolonged-illness-101789198708418.html)
 - [Hauz Khas, Jantar Mantar restrict entry as 10 monuments undergo repair across Delhi](https://www.hindustantimes.com/india-news/hauz-khas-jantar-mantar-restrict-entry-as-10-monuments-undergo-repair-across-delhi-101789198262028.html)
-- [Delhi man discovers he has uterus, fallopian tubes during infertility treatment](https://www.hindustantimes.com/india-news/delhi-man-discovers-he-has-uterus-fallopian-tubes-during-infertility-treatment-101789189286353.html)
 
-**Vijay Karnataka**
-- [ಕರ್ನಾಟಕದಲ್ಲಿ ಕೈ ನಾಯಕರ ಬೆನ್ನತ್ತಿದ ಇಡಿ: ಈವರೆಗೆ 12 ಮಂದಿ ಮೇಲೆ ದಾಳಿ, ರಾಜಕೀಯ ದ್ವೇಷದ ದಾಳಿಯೋ, ಭ್ರಷ್ಟಾಚಾರಕ್ಕೆ ತಡೆಯೋ?](https://vijaykarnataka.com/news/karnataka/enforcement-directorate-raid-on-congress-leaders-in-karnataka/articleshow/134107990.cms)
-- [’ಹಾಕಿರುವ ಬೇಡಿಯನ್ನು ಒಮ್ಮೆ ಸಡಿಲಿಸಿ ನೋಡಿ’ : ಉಪ ಲೋಕಾಯುಕ್ತ ನ್ಯಾ. ವೀರಪ್ಪ ವಾರ್ನಿಂಗ್ ಯಾರಿಗೆ?](https://vijaykarnataka.com/news/mandya/lokayukta-justice-veerappa-warning-corrupt-officials-karnataka/articleshow/134116989.cms)
-- [BRICS ಶೃಂಗಸಭೆಗಾಗಿ 7 ವರ್ಷದ ಬಳಿಕ ಭಾರತಕ್ಕೆ ಕಾಲಿಟ್ಟ ಚೀನಾ ಅಧ್ಯಕ್ಷ ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್; ʼಸ್ನೇಹಕ್ಕೆ ರೆಡಿʼಯಾಗಿ ಕ್ಸಿ-ಮೋದಿ ದ್ವಿಪಕ್ಷೀಯ ಮಾತುಕತೆ!](https://vijaykarnataka.com/news/india/xi-jinping-arrives-in-delhi-for-brics-summit-first-india-visit-in-7-years-after-since-2020-galwan-clash/articleshow/134101744.cms)
-- [ಫ್ರಿಡ್ಜ್‌ನಲ್ಲಿ ಬೆಂಡೆಕಾಯಿ ಅಂಟಾಗದಂತೆ ತಾಜಾ ಇಡೋದು ಹೇಗೆ? ಈ ಟಿಪ್ಸ್ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/home-decor/how-to-keep-bhindi-fresh-in-the-fridge-without-getting-sticky/articleshow/134112541.cms)
-- [ಹಣಬಲ, ತೋಳ್ಬಲವಿಲ್ಲದೆ ಸಚಿವ ಸ್ಥಾನಕ್ಕೇರಿದ 'ಆಂಬುಲೆನ್ಸ್ ಬಸವಂತಪ್ಪ': ಪೌರಕಾರ್ಮಿಕನ ಮಗ ಬೆಳೆದು ಬಂದ ರೋಚಕ ಹಾದಿ!](https://vijaykarnataka.com/news/karnataka/ministar-ks-basavanthappa-interview-on-childhood-and-politics/articleshow/134107406.cms)
-- [BBK13: ಕಿಚ್ಚನ ಪಂಚಾಯಿತಿ ಕಟ್ಟೆಯಲ್ಲಿ ವಿಐಪಿ ಗಗನ್‌ಗೆ ಕ್ಲಾಸ್‌ ಫಿಕ್ಸ್‌!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-vip-gagan-chinnappa-set-for-a-dressing-down-at-bigg-boss-varada-kathe-kicchana-jothe/articleshow/134117421.cms)
-- [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
-- [2026ರ ಗೌರಿ ಗಣೇಶ ಹಬ್ಬಕ್ಕೆ ಹೃದಯಸ್ಪರ್ಶಿ ಶುಭಾಶಯಗಳು.!](https://vijaykarnataka.com/religion/festivals/happy-2026-ganesh-chaturthi-best-wishes-quotes-and-whatsapp-status/articleshow/134116048.cms)
-- [ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಸೊಸೆ ಸಾನಿಯಾ ಚಾಂದೋಕ್ ಸಾಂಪ್ರದಾಯಿಕ ಲುಕ್; ಸಾರಾ ಜೊತೆ ಟ್ವಿನ್ ಫ್ಯಾಷನ್](https://vijaykarnataka.com/lifestyle/fashion/sara-tendulkar-saaniya-chandhok-twin-kurta-sets-fashion/articleshow/134107864.cms)
-- [ಸೆ.7ರಂದು ಒಂದೇ ದಿನ 20 ಲಕ್ಷ ರೈಲು ಟಿಕೆಟ್‌ ಮಾರಾಟ: ರೈಲು ಟಿಕೆಟ್ ಆನ್‌ಲೈನ್‌ ಬುಕಿಂಗ್‌ನಲ್ಲಿ ಸಾರ್ವಕಾಲಿಕ ದಾಖಲೆ ಬರೆದ IRCTC !](https://vijaykarnataka.com/news/india/indian-railways-records-highest-ever-22-26-lakh-tickets-daily-bookings-on-sep-7th/articleshow/134112184.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
-- [Telangana CM should make clear statement on ₹15,000 crore fee reimbursement dues: Ramchander Rao](https://www.thehindu.com/news/national/telangana/telangana-cm-should-make-clear-statement-on-15000-crore-fee-reimbursement-dues-ramchander-rao/article71459477.ece)
+- [India’s newest Maharatna refiner eyes East, Northeast domination after expansion](https://www.thehindu.com/news/national/assam/indias-newest-maharatna-refiner-eyes-east-northeast-domination-after-expansion/article71456624.ece)
+- [310 km long Nagpur–Warangal-Vijayawada highway to be completed by December 2027: Komatireddy](https://www.thehindu.com/news/national/telangana/nagpurwarangal-vijayawada-highway-to-be-completed-by-december-2027-telangana-minister-komatireddy/article71459446.ece)
 - [BRICS Summit 2026 LIVE updates: Chinese President Xi arrives in Delhi](https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece)
+- [Telangana CM should make clear statement on ₹15,000 crore fee reimbursement dues: Ramchander Rao](https://www.thehindu.com/news/national/telangana/telangana-cm-should-make-clear-statement-on-15000-crore-fee-reimbursement-dues-ramchander-rao/article71459477.ece)
 - [Restore India’s diplomatic stature, space: Congress to Modi government](https://www.thehindu.com/news/national/restore-indias-diplomatic-stature-space-congress-to-modi-government/article71459492.ece)
 - [Five killed in car-truck collision in Assam's Sonitpur](https://www.thehindu.com/news/national/assam/five-killed-in-car-truck-collision-in-assams-sonitpur/article71459424.ece)
 - [Vice-principal of Kolkata college ‘forced’ to resign; ABVP ‘purifies’ her office](https://www.thehindu.com/news/cities/kolkata/kolkataslaw-college-vice-principal-resigns-after-23-hour-studentprotest-over-attendance/article71456472.ece)
 - [Telangana Assembly session LIVE Sept 12: Short discussion on CURE Bill, 2026 underway](https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-section-22a-land-issues-discussion-live-updates-september-12-2026/article71459151.ece)
 - [Why do GDP figures face a controversy in India?](https://www.thehindu.com/business/Economy/why-do-gdp-figures-face-a-controversy-in-india/article71454662.ece)
 - [Villagers tie up telecom technician over 5G network outage in Fatehpur, six arrested](https://www.thehindu.com/news/national/uttar-pradesh/villagers-tie-up-telecom-technician-over-5g-network-outage-in-fatehpur-six-arrested/article71459436.ece)
-- [Shouldering history: Vizianagaram entrepreneur collects ‘patches of pride’](https://www.thehindu.com/news/national/andhra-pradesh/vizianagaram-entrepreneur-collects-patches-of-pride/article71396740.ece)
-- [With eye on poll, BJP to begin ‘drug-free Punjab’ drive amid row over Dalit villager’s death](https://www.thehindu.com/news/national/punjab/with-eye-on-poll-bjp-to-begin-drug-free-punjab-drive-amid-row-over-dalit-villagers-death/article71456181.ece)
 
 **Livemint**
+- [Aditya Thackeray named in Disha Salian case: What father told CBI in statement](https://www.livemint.com/news/india/-aditya-thackeray-named-in-disha-salian-case-what-father-told-cbi-in-statement-11789201704566.html)
 - [BRICS: Modi meets Abu Dhabi Crown Prince; Defence, space, nuclear energy and $11.5 billion Odisha investment discussed](https://www.livemint.com/news/india/brics-modi-meets-abu-dhabi-crown-prince-defence-space-nuclear-energy-and-11-5-billion-odisha-investment-discussed-11789197649974.html)
 - [Taking AI too far? New Mexico Supreme Court fines lawyer $5,000 for presenting ‘fake testimony’, ChatGPT-generated brief](https://www.livemint.com/news/us-news/taking-ai-too-far-new-mexico-supreme-court-fines-lawyer-5-000-for-presenting-fake-testimony-chatgpt-generated-brief-11789198936558.html)
 - [BRICS invitation row upsets Bangladesh? Dhaka puts 101 India agreements under review](https://www.livemint.com/news/world/brics-invitation-row-upsets-bangladesh-dhaka-puts-101-india-agreements-under-review-11789196186243.html)
@@ -83,21 +74,12 @@
 - [1980s AI Photo trend: 5 ChatGPT prompts to create Punjab-style retro images](https://www.livemint.com/news/trends/1980s-ai-photo-trend-5-chatgpt-prompts-to-create-punjab-style-retro-images-11789187477799.html)
 - [BRICS can help Global South build resilience beyond supply chains: China Daily ahead of Xi-Modi meeting](https://www.livemint.com/news/india/brics-can-help-global-south-build-resilience-beyond-supply-chains-china-daily-ahead-of-xi-modi-meeting-new-delhi-11789100267494.html)
 - [Good news for Social Security beneficiaries? 2027 COLA could see a 3.5%-3.6% increase, groups estimate](https://www.livemint.com/news/us-news/good-news-for-social-security-beneficiaries-2027-cola-could-see-a-3-5-3-6-increase-groups-estimate-11789184276533.html)
-- [IRCTC clocks record ticket bookings ahead of festive rush; daily volume breaches 20-lakh mark for first time: Report](https://www.livemint.com/news/india/irctc-clocks-record-ticket-bookings-ahead-of-festive-rush-daily-volume-breaches-20-lakh-mark-for-first-time-report-11789182290445.html)
 
-**Moneycontrol**
-- [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
-- [Buy Tejas Networks; target of Rs 1100: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html)
-- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html)
-- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html)
-- [Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html)
-- [Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html)
-- [Reduce Wipro; target of Rs 410: ICICI Securities](https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html)
-- [Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html)
-- [Buy Patel Engineering; target of Rs 80: ICICI Direct](https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html)
-- [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
+**Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
+- [ಬ್ಯಾರೀಸ್ ಗ್ರೂಪ್‌ ಗೆ ‘ಡೇಟಾ ಸೆಂಟರ್ ಪ್ರಾಜೆಕ್ಟ್ ಆಫ್ ದಿ ಇಯರ್’ ಪ್ರಶಸ್ತಿ](https://www.varthabharati.in/National/data-center-project-of-the-year-award-for-bearys-group-2274670)
+- [ಗುಜರಾತ್ ನ ಹಳ್ಳಿಗಳಲ್ಲಿ ಪರೀಕ್ಷಿಸಿದ ಶೇ.89ರಷ್ಟು ನೀರಿನ ಮಾದರಿಗಳು ಕುಡಿಯಲು ಯೋಗ್ಯವಲ್ಲ: CAG ವರದಿ](https://www.varthabharati.in/National/cag-report-water-in-villages-of-gujarat-is-unfit-for-drinking-2274669)
 - [ಪ್ರಜ್ವಲ್ ರೇವಣ್ಣ ಜೈಲು ಕೊಠಡಿಯಲ್ಲಿ ಮೊಬೈಲ್, ಪೆನ್‌ಡ್ರೈವ್ ಪತ್ತೆ ಪ್ರಕರಣ; FSL ವರದಿಯಲ್ಲಿ ಸ್ಫೋಟಕ ಮಾಹಿತಿ!](https://www.varthabharati.in/state/prajwal-revanna-jail-cell-mobile-phone-pen-drive-discovery-case-2274666)
 - [Hassan | ಸೇತುವೆ ಮೇಲೆ ತೈಲ ಟ್ಯಾಂಕರ್ ಪಲ್ಟಿ : ನೀರಿನಂತೆ ಹರಿದ ಪೆಟ್ರೋಲ್, ವಾಹನ ಸಂಚಾರ ಸ್ಥಗಿತ](https://www.varthabharati.in/hassan/hassan-oil-tanker-overturns-on-a-bridge-2274662)
 - [‘ವಿಚಾರಣೆಯಿಲ್ಲ, ಕೇವಲ ಚಾರಿತ್ರ್ಯಹನನ’: ED, CBI ವಿರುದ್ಧ ವಿಜಯ್ ಮಲ್ಯ ವಾಗ್ದಾಳಿ](https://www.varthabharati.in/National/vijay-mallya-says-its-character-assasination-in-public-2274660)
@@ -106,29 +88,29 @@
 - [BRICS 2026 | ದಿಲ್ಲಿಗೆ ಬಂದಿಳಿದ ಚೀನಾ ಅಧ್ಯಕ್ಷ ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್](https://www.varthabharati.in/international/xi-jinping-lands-in-delhi-for-brics-2026-2274654)
 - [ಬಾಳ್ತಿಲ : ತಾಲೂಕು ಮಟ್ಟದ ಅತ್ಯುತ್ತಮ ಶಿಕ್ಷಕ ಪ್ರಶಸ್ತಿ ಪುರಸ್ಕೃತ ಉದಯ್ ಕುಮಾರ್‌ಗೆ ಸನ್ಮಾನ](https://www.varthabharati.in/DakshinaKannada/balthila-tribute-to-uday-kumar-who-won-the-best-teacher-award-at-taluk-level-2274653)
 - [ಕಾಂಗ್ರೆಸ್‌ ಹುದ್ದೆಗಳಿಗೆ ಉತ್ತರಾಖಂಡದ ಮಾಜಿ ಸಿಎಂ ಹರೀಶ್ ರಾವತ್ ರಾಜೀನಾಮೆ; ಕಾರಣವೇನು?](https://www.varthabharati.in/national/former-uttarakhand-cm-harish-rawat-resigns-from-congress-what-is-the-reason-2274652)
-- [ನೆಹರೂ ಚಾಚಾ ಮತ್ತು ಕೋಳಿ ಮಾಂಸ](https://www.varthabharati.in/nimma-ankana/chacha-nehru-and-chicken-meat-2274651)
-- [ಚಿನ್ನದ ಬೆಲೆಯಲ್ಲಿ ಅಲ್ಪ ಏರಿಕೆ, ಸ್ಥಿರವಾದ ಬೆಳ್ಳಿ; ಇಂದಿನ ದರವೆಷ್ಟು?](https://www.varthabharati.in/national/raise-in-gold-prices-silver-remains-same-what-are-todays-rates-2274650)
 
 ## Cross-source trending keywords (derived from headlines above)
-- BRICS (11.5)
-- Delhi (10.7)
-- Emkay Global Financial (5.0)
-- India (4.8)
+- BRICS (10.2)
+- Delhi (9.4)
+- India (6.1)
+- What (4.2)
 - BRICS Summit (4.0)
+- Brics (3.9)
 - Modi (3.5)
 - PM Modi (3.0)
-- ICICI Securities (3.0)
-- target (3.0)
-- Brics (2.6)
 - Opinion (2.6)
 - Congress (2.6)
 - Prince (2.6)
-- IRCTC (2.6)
 - China (2.2)
+- Abu Dhabi Crown (2.0)
+- LIVE (1.9)
+- East (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [‘സൈന്യത്തെ വിന്യസിച്ചാൽ‌ നേരിട്ടുള്ള യുദ്ധപ്രഖ്യാപനമായി കണക്കാക്കും’: മുന്നറിയിപ്പുമായി പുട്ടിൻ](https://www.manoramaonline.com/news/latest-news/2026/09/12/putin-issues-stark-warning-on-european-troops-in-ukraine.html)
+- [The Wait Is Over: iPhone 18 Pro Pre-booking Opens at Reliance Digital on 12th September, 2026](https://www.aninews.in/news/business/the-wait-is-over-iphone-18-pro-pre-booking-opens-at-reliance-digital-on-12th-september-202620260911141554/)
 - [ക്ഷേത്രത്തിൽ തലക്കറിയും വറുത്ത മീനും കഴിച്ച് സുവേന്ദു അധികാരി; ആരോപണങ്ങളുടെ മുനയൊടിച്ച് തന്ത്രപരമായ നീക്കം](https://www.manoramaonline.com/news/latest-news/2026/09/12/suvendu-adhikaris-temple-visit-sparks-debate-eat-fish.html)
 - [జీతమా?.. జీవితమా?](https://www.eenadu.net/telugu-news/vyakyanam/how-to-choose-your-life-partner/1302/126164558)
 - [चप्पल पहनने वाले हूतियों ने यमन को दिया गच्चा! AI क्लोन से बनाई आर्मी जनरल की आवाज](https://www.aajtak.in/india/news/story/yemen-houthi-ai-capture-mokha-port-maritime-threat-ntc-ntyv-rpti-2641157-2026-09-12)
@@ -137,8 +119,6 @@
 - [ప్రజలపై పన్నుల పిడుగు.. అసెంబ్లీలో ప్రవేశపెట్టిన క్యూర్‌ బిల్లు](https://www.ntnews.com/hyderabad/hyderabad-property-tax-burden-set-to-rise-under-new-capital-value-based-system-2508770)
 - [இமானுவேல் சேகரன் நினைவிடத்தில் உதயநிதி, தலைவர்கள் மரியாதை](https://www.dinakaran.com/news/immanuelsekaran_memorial_udayanidhi_leaders_respect/)
 - [Bigg Boss 20: Qazi Touqeer opens up about his bond with Arijit Singh; says ‘Woh Crazypan Ka Baap Hai, Mad Scientist Hai’](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-20-qazi-touqeer-opens-up-about-his-bond-with-arijit-singh-says-woh-crazypan-ka-baap-hai-mad-scientist-hai/articleshow/134088257.cms)
-- [9/11 ആക്രമണത്തിന്‍റെ കാൽ നൂറ്റാണ്ട് അനുസ്മരണം](https://www.metrovaartha.com/news/world/ofr2ijb8yx)
-- [ब्रिक्स में शामिल होने को बेकरार पाकिस्तान, नहीं काम आ रहा जुगाड़; भारत ने लगा रखा है वीटो](https://www.livehindustan.com/national/pakistan-so-desperate-to-be-part-of-brics-india-applied-vito-to-bar-the-entry-201789153928160.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
