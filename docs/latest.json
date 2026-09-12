@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-09-12 22:32:30",
+  "generated_at": "2026-09-12 23:02:02",
   "google_trends": [
+    {
+      "title": "inter miami vs nashville",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "mom and son",
       "traffic": null,
@@ -42,11 +47,6 @@
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "sergio camello",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
       "title": "weather mumbai",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
@@ -63,8 +63,20 @@
         "link": "https://timesofindia.indiatimes.com/india/summit-success-gives-bjp-a-boost-in-domestic-politics/articleshow/134158188.cms"
       },
       {
+        "title": "RBI rejects Tata Sons' bid to stay private, directs listing",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-tata-sons-bid-to-stay-private-directs-listing/articleshow/134163398.cms"
+      },
+      {
+        "title": "India to get another major DRDO missile testing range in Bengal",
+        "link": "https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms"
+      },
+      {
         "title": "Meghalaya CM Sangma calls on guv amid reports of 8 UDP MLAs planning to join BJP",
         "link": "https://timesofindia.indiatimes.com/city/guwahati/conrad-calls-on-guv-amid-reports-of-8-udp-mlas-planning-to-join-bjp/articleshow/134148275.cms"
+      },
+      {
+        "title": "Mark Zuckerberg on how engineers made him return to Musk's X after 3 years in 2026",
+        "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-him-do-it/articleshow/134147562.cms"
       },
       {
         "title": "EC meets both TMC factions amid their 'real party' claims",
@@ -75,20 +87,8 @@
         "link": "https://timesofindia.indiatimes.com/india/brics-opposes-unilateral-trade-steps-like-eu-carbon-border-tax/articleshow/134158775.cms"
       },
       {
-        "title": "Mark Zuckerberg on how engineers made him return to Musk's X after 3 years in 2026",
-        "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-him-do-it/articleshow/134147562.cms"
-      },
-      {
-        "title": "India to get another major DRDO missile testing range in Bengal",
-        "link": "https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms"
-      },
-      {
-        "title": "Global nutrition experts back FSSAI warning labels, seek stricter rules",
-        "link": "https://timesofindia.indiatimes.com/india/global-nutrition-experts-back-fssai-warning-labels-seek-stricter-rules/articleshow/134161131.cms"
-      },
-      {
-        "title": "After raid on PA, ex-Uttarakhand CM Harish Rawat wants to quit Cong posts",
-        "link": "https://timesofindia.indiatimes.com/city/dehradun/want-to-quit-posts-not-cong-party-is-my-blood-bones-harish-rawat-after-ed-raid-on-aide/articleshow/134146985.cms"
+        "title": "HDFC Bank sends names of 2 CEO candidates to RBI",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/hdfc-bank-sends-names-of-2-ceo-candidates-to-rbi/articleshow/134163788.cms"
       },
       {
         "title": "Harvard University has a 'September message' for all international students",
@@ -223,6 +223,10 @@
     ],
     "The Hindu": [
       {
+        "title": "Police team attacked by angry villagers in Bihar\u2019s Sitamarhi after husband of ward councillor shot dead by criminals",
+        "link": "https://www.thehindu.com/news/national/bihar/police-team-attacked-by-angry-villagers-in-bihars-sitamarhi-after-husband-of-ward-councillor-shot-dead-by-criminals/article71460092.ece"
+      },
+      {
         "title": "Govt. employee quitting to fight polls can\u2019t seek reinstatement: Rajasthan High Court",
         "link": "https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece"
       },
@@ -257,10 +261,6 @@
       {
         "title": "Kerala Assistant Public Prosecutors Association gets new office-bearers",
         "link": "https://www.thehindu.com/news/national/kerala/kerala-assistant-public-prosecutors-association-gets-new-office-bearers/article71459804.ece"
-      },
-      {
-        "title": "Dipke\u00a0visits families in M.P.\u2019s\u00a0Balaghat, puts lens on tribal children\u2019s deaths",
-        "link": "https://www.thehindu.com/news/national/madhya-pradesh/dipkevisits-families-in-mpsbalaghat-puts-lens-on-tribal-childrens-deaths/article71460823.ece"
       }
     ],
     "Livemint": [
@@ -375,20 +375,8 @@
       "score": 3
     },
     {
-      "term": "Dipke",
-      "score": 2.9
-    },
-    {
-      "term": "Balaghat",
-      "score": 2.9
-    },
-    {
       "term": "Summit",
       "score": 2.8
-    },
-    {
-      "term": "Cong",
-      "score": 2.6
     },
     {
       "term": "September",
@@ -409,49 +397,61 @@
     {
       "term": "Congress",
       "score": 2.6
+    },
+    {
+      "term": "PM Modi",
+      "score": 2
+    },
+    {
+      "term": "Brics Summit",
+      "score": 2
+    },
+    {
+      "term": "New Delhi",
+      "score": 2
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "Tamil Nadu kanimozhi: DMK\u091a\u094d\u092f\u093e \u0915\u0928\u093f\u092e\u094b\u0933\u0940 \u092e\u093e\u0924\u094b\u0936\u094d\u0930\u0940\u0935\u0930; \u0909\u0926\u094d\u0927\u0935 \u0920\u093e\u0915\u0930\u0947\u0902\u0938\u094b\u092c\u0924 \u092d\u0947\u091f, \u0932\u094b\u0915\u0938\u092d\u093e \u092e\u0924\u0926\u093e\u0930\u0938\u0902\u0918 \u092a\u0941\u0928\u0930\u094d\u0930\u091a\u0928\u0947\u0935\u0930 \u0915\u093e\u092f \u0920\u0930\u0923\u093e\u0930?",
-      "link": "https://www.lokshahi.com/lokshahi-politics/tamil-nadu-mp-kanimozhi-uddhav-thackeray-meeting-at-matoshree-mumbai-12523834"
+      "title": "\u0a85\u0aae\u0aa6\u0abe\u0ab5\u0abe\u0aa6 : 62 \u0ab5\u0ab0\u0acd\u0ab7 \u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82 \u0a9c\u0acd\u0aaf\u0abe\u0ab0\u0ac7 \u0a97\u0acb\u0ab3\u0ac0\u0aac\u0abe\u0ab0\u0aae\u0abe\u0a82 \u0aae\u0ac3\u0aa4\u0acd\u0aaf\u0ac1 \u0aaa\u0abe\u0aae\u0ac7\u0ab2\u0abe \u0aae\u0a9c\u0ac2\u0ab0\u0aa8\u0acb \u0aae\u0ac3\u0aa4\u0aa6\u0ac7\u0ab9 \u0ab8\u0acd\u0a9f\u0ac7\u0a9c \u0aaa\u0ab0 \u0ab2\u0ab5\u0abe\u0aaf\u0acb",
+      "link": "https://www.bbc.com/gujarati/articles/c99d02lvk4jo"
     },
     {
-      "title": "\u0916\u0930\u094d\u0930\u093e\u091f\u0947 \u0932\u0947\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u093e\u0930\u094d\u091f\u0928\u0930 \u0915\u0947 \u0938\u093e\u0925 \u0938\u094b\u0928\u0947 \u0915\u093e \u0906\u092a\u0915\u0940 \u0938\u0947\u0939\u0924 \u092a\u0930 \u0915\u094d\u092f\u093e \u0905\u0938\u0930 \u092a\u0921\u093c\u0924\u093e \u0939\u0948?",
-      "link": "https://www.bbc.com/hindi/articles/c8jdmv9le3wo"
+      "title": "34KM \u092e\u093e\u0907\u0932\u0947\u091c, 4.99 \u0932\u093e\u0916 \u0915\u0940\u092e\u0924... \u0928\u090f \u0905\u0935\u0924\u093e\u0930 \u092e\u0947\u0902 \u0906 \u0930\u0939\u0940 \u092f\u0947 MARUTI",
+      "link": "https://www.aajtak.in/visualstories/auto/maruti-wagonr-facelift-spied-new-engine-expected-features-auam-285625-12-09-2026"
     },
     {
-      "title": "\u0a97\u0aa3\u0aaa\u0aa4\u0abf \u0aaa\u0ac2\u0a9c\u0abe\u0aae\u0abe\u0a82 \u0aa4\u0ac1\u0ab2\u0ab8\u0ac0 \u0a95\u0ac7\u0aae \u0a9b\u0ac7 \u0ab5\u0ab0\u0acd\u0a9c\u0abf\u0aa4? \u0aae\u0ac2\u0ab0\u0acd\u0aa4\u0abf \u0ab8\u0acd\u0aa5\u0abe\u0aaa\u0aa8\u0abe \u0ab5\u0a96\u0aa4\u0ac7 \u0a86 \u0aad\u0ac2\u0ab2\u0acb \u0a95\u0ab0\u0ac0 \u0aa4\u0acb \u0aaa\u0ac2\u0a9c\u0abe\u0aa8\u0ac1\u0a82 \u0aab\u0ab3 \u0aa8\u0ab9\u0ac0\u0a82 \u0aae\u0ab3\u0ac7",
-      "link": "https://www.gujaratsamachar.com/news/astro/why-is-tulsi-forbidden-in-ganpati-puja-if-you-make-these-mistakes-while-installing-the-idol-the-worship-will-not-yield-any-results-92451728458"
+      "title": "Ponguleti Srinivas Reddy: \u0c2d\u0c42\u0c2e\u0c41\u0c32 \u0c2c\u0c02\u0c21\u0c3e\u0c30\u0c02 \u0c2c\u0c2f\u0c1f\u0c2a\u0c21\u0c41\u0c24\u0c41\u0c02\u0c26\u0c28\u0c3f BRS \u0c28\u0c47\u0c24\u0c32\u0c41 \u0c24\u0c2a\u0c4d\u0c2a\u0c3f\u0c02\u0c1a\u0c41\u0c15\u0c41 \u0c24\u0c3f\u0c30\u0c41\u0c17\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41: \u0c2a\u0c4a\u0c02\u0c17\u0c41\u0c32\u0c47\u0c1f\u0c3f",
+      "link": "https://telugu.abplive.com/telangana/hyderabad/ponguleti-srinivas-reddy-slams-brs-over-dharani-portal-and-land-irregularities-in-telangana-assembly-258778"
     },
     {
-      "title": "\u0c2e\u0c33\u0c4d\u0c32\u0c40 \u0c2d\u0c3e\u0c30\u0c24\u0c4d - \u0c2a\u0c3e\u0c15\u0c4d\u200c \u0c2a\u0c4b\u0c30\u0c41.. \u0c17\u0c24\u0c47\u0c21\u0c3e\u0c26\u0c3f \u0c30\u0c46\u0c02\u0c21\u0c41\u0c38\u0c3e\u0c30\u0c4d\u0c32\u0c41 \u0c2c\u0c39\u0c3f\u0c37\u0c4d\u0c15\u0c30\u0c3f\u0c02\u0c1a\u0c3e\u0c02.. \u0c2e\u0c30\u0c3f \u0c08\u0c38\u0c3e\u0c30\u0c3f?",
-      "link": "https://www.eenadu.net/telugu-news/sports/ind-vs-pak-back-on-wcl-calendar-after-two-cancelled-clashes/0401/126165114"
+      "title": "'\u0d07\u0d28\u0d3f\u0d2f\u0d41\u0d02 \u0d24\u0d41\u0d1f\u0d30\u0d3e\u0d28\u0d3e\u0d15\u0d3f\u0d32\u0d4d\u0d32'; \u0d38\u0d3f\u0d2a\u0d3f\u0d0e\u0d2e\u0d4d\u0d2e\u0d41\u0d2e\u0d3e\u0d2f\u0d41\u0d33\u0d4d\u0d33 \u0d2c\u0d28\u0d4d\u0d27\u0d02 \u0d09\u0d2a\u0d47\u0d15\u0d4d\u0d37\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41\u0d35\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d05\u0d28\u0d3f\u0d7d \u0d35\u0d3f. \u0d28\u0d3e\u200b\u0d17\u0d47\u0d28\u0d4d\u0d26\u0d4d\u0d30\u0d7b",
+      "link": "https://www.asianetnews.com/kerala-news/anil-v-nagendran-announces-he-is-leaving-from-cpm-articleshow-4h1ukh6"
     },
     {
-      "title": "\u0c39\u0c28\u0c41\u0c2e\u0c3e\u0c28\u0c4d \u0c05\u0c02\u0c36\u0c4d.. \u0c05\u0c38\u0c32\u0c41 \u0c0e\u0c35\u0c30\u0c40 \u0c28\u0c40\u0c2e\u0c4d \u0c15\u0c30\u0c4b\u0c32\u0c40 \u0c2c\u0c3e\u0c2c\u0c3e",
-      "link": "https://www.chitrajyothy.com/2026/tollywood/who-is-neem-karoli-baba-the-spiritual-icon-behind-recordbreaking-film-hanuman-ansh-rp-75326.html"
+      "title": "\u0b9a\u0bc6\u0baa\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bb0\u0bcd 15\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf \u0bb5\u0bbe\u0b99\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd, \u0b9a\u0bc1\u0bae\u0bc0\u0ba4\u0bcd \u0baa\u0b95\u0b9f\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8 \u0b87\u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd",
+      "link": "https://tamil.economictimes.com/market/stocks/september-15-3-best-stocks-recommended-for-investors/articleshow/134125871.cms"
     },
     {
-      "title": "\u092a\u093e\u0938 \u092c\u0948\u0920\u0947 \u0925\u0947 \u091c\u093f\u0928\u092a\u093f\u0902\u0917, \u092c\u094d\u0930\u093f\u0915\u094d\u0938 \u0938\u092e\u093f\u091f \u0938\u0947 \u092a\u0940\u090f\u092e \u092e\u094b\u0926\u0940 \u0928\u0947 \u0926\u0947 \u0926\u093f\u092f\u093e \u0938\u0902\u0926\u0947\u0936; \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u094b \u092d\u0940 \u0926\u094b \u091f\u0942\u0915",
-      "link": "https://www.livehindustan.com/national/brics-summit-2026-pm-modi-calls-for-tangible-outcomes-under-india-chairship-new-delhi-201789207147569.html"
+      "title": "\u0aac\u0ac7 \u0aab\u0ac2\u0a9f \u0ab6\u0acd\u0ab0\u0ac0\u0a9c\u0ac0 \u0aaa\u0acd\u0ab0\u0aa4\u0abf\u0aae\u0abe\u0aa8\u0abe \u0ab5\u0abf\u0ab8\u0ab0\u0acd\u0a9c\u0aa8 \u0aae\u0abe\u0a9f\u0ac7 \u0a97\u0acb\u0aa4\u0acd\u0ab0\u0ac0\u0ab0\u0acb\u0aa1 \u0aaa\u0ab0 30 \u0aab\u0ac2\u0a9f \u0ab2\u0abe\u0a82\u0aac\u0acb \u0a95\u0ac3\u0aa4\u0acd\u0ab0\u0abf\u0aae \u0a95\u0ac1\u0a82\u0aa1 \u0aa4\u0ac8\u0aaf\u0abe\u0ab0 : 1 \u0ab2\u0abe\u0a96 \u0ab2\u0ac0\u0a9f\u0ab0 \u0aaa\u0abe\u0aa3\u0ac0 \u0aad\u0ab0\u0abe\u0ab6\u0ac7",
+      "link": "https://www.gujaratsamachar.com/news/baroda/a-30-foot-long-artificial-tank-has-been-prepared-on-gotri-road-for-the-immersion-of-a-two-foot-shreeji-statue-1-lakh-liters-of-water-will-be-filled-72419970056"
     },
     {
-      "title": "India\u2019s grand welcome: How Delhi\u2019s iconic hotels became diplomatic addresses for BRICS 2026",
-      "link": "https://timesofindia.indiatimes.com/life-style/food-news/indias-grand-welcome-how-delhis-iconic-hotels-became-diplomatic-addresses-for-brics-2026/articleshow/134122112.cms"
+      "title": "'I'm tired of this': Indian wushu player Divyanshi Choudhary breaks down on hostel roof after Asian Games axing",
+      "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/im-tired-of-this-indian-wushu-player-divyanshi-choudhary-breaks-down-on-hostel-roof-after-asian-games-axing/articleshow/134124299.cms"
     },
     {
-      "title": "Gujarat Rain: \u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0aae\u0abe\u0a82 \u0ab5\u0ab0\u0ab8\u0abe\u0aa6\u0aa8\u0acb \u0aa8\u0ab5\u0acb \u0ab0\u0abe\u0a89\u0aa8\u0acd\u0aa1 \u0ab6\u0ab0\u0ac2, \u0a86 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0abe\u0a93\u0aae\u0abe\u0a82 \u0aa4\u0ac2\u0a9f\u0ac0 \u0aaa\u0aa1\u0acd\u0aaf\u0acb \u0ab5\u0ab0\u0ab8\u0abe\u0aa6, \u0a96\u0ac7\u0aa1\u0ac2\u0aa4\u0acb\u0aa8\u0ac7 \u0ab0\u0abe\u0ab9\u0aa4",
-      "link": "https://gujarati.abplive.com/news/gujarat/gujarat-rain-update-gir-somnath-amreli-mahisagar-rainfall-news-today-991014"
+      "title": "Sanju Samson: \u0d38\u0d1e\u0d4d\u0d1c\u0d41 \u0d1a\u0d46\u0d31\u0d3f\u0d2f \u0d24\u0d3e\u0d30\u0d2e\u0d32\u0d4d\u0d32, \u0d35\u0d48\u0d2d\u0d35\u0d3f\u0d28\u0d47\u0d15\u0d4d\u0d15\u0d3e\u0d7e \u0d2a\u0d3f\u0d28\u0d4d\u0d24\u0d41\u0d23 \u0d28\u0d7d\u0d15\u0d23\u0d02; \u0d2e\u0d41\u0d7b \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d7b \u0d24\u0d3e\u0d30\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d09\u0d2a\u0d26\u0d47\u0d36\u0d02",
+      "link": "https://www.asianetnews.com/cricket-sports/vivek-razdan-wants-sanju-samson-to-open-for-india-in-afghanistan-t20is-articleshow-bk96g94"
     },
     {
-      "title": "\u2018\u0d15\u0d47\u0d28\u0d4d\u0d26\u0d4d\u0d30 \u0d05\u0d1c\u0d23\u0d4d\u0d1f \u0d28\u0d1f\u0d2a\u0d4d\u0d2a\u0d3e\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d46\u0d19\u0d4d\u0d15\u0d3f\u0d7d \u0d05\u0d02\u0d17\u0d40\u0d15\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d3f\u0d32\u0d4d\u0d32\u2019; \u0d2a\u0d3f.\u0d0e\u0d02. \u0d36\u0d4d\u0d30\u0d40\u0d2f\u0d3f\u0d7d \u0d28\u0d3f\u0d32\u0d2a\u0d3e\u0d1f\u0d4d \u0d15\u0d1f\u0d41\u0d2a\u0d4d\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d2f\u0d42\u0d24\u0d4d\u0d24\u0d4d \u0d32\u0d40\u0d17\u0d4d",
-      "link": "https://www.madhyamam.com/kerala/youth-league-hardens-stance-on-pm-shri-scheme-amid-funding-row-1553853"
+      "title": "DJ Ban Nagpur: \u0921\u0940\u091c\u0947\u091a\u094d\u092f\u093e \u0926\u0923\u0926\u0923\u093e\u091f\u093e\u0935\u0930 \u0939\u093e\u092f\u0915\u094b\u0930\u094d\u091f\u093e\u091a\u093e \u092e\u094b\u0920\u093e \u0928\u093f\u0930\u094d\u0923\u092f; \u0921\u0940\u091c\u0947\u092c\u0902\u0926\u0940 \u0915\u093e\u092f\u092e \u0920\u0947\u0935\u0924 \u0926\u093f\u0932\u0947 \u0915\u0921\u0915 \u0905\u0902\u092e\u0932\u092c\u091c\u093e\u0935\u0923\u0940\u091a\u0947 \u0928\u093f\u0930\u094d\u0926\u0947\u0936",
+      "link": "https://www.marathijagran.com/maharashtra/nagpur/dj-ban-in-nagpur-high-court-upholds-dj-ban-and-orders-strict-enforcement-161752"
     },
     {
-      "title": "Rahul Dravid News : \u0935\u093f\u0930\u093e\u091f \u0915\u094b\u0939\u0932\u0940\u0932\u093e \u0928\u093e\u0915\u093e\u0930\u0932\u0902, \u092c\u0947\u0938\u094d\u091f \u0915\u0945\u092a\u094d\u091f\u0928 \u092e\u094d\u0939\u0923\u0942\u0928 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u091a\u094d\u092f\u093e \u0916\u0947\u0933\u093e\u0921\u0942\u0932\u093e \u0928\u093f\u0935\u0921\u0932\u0902; \u0930\u093e\u0939\u0941\u0932 \u0926\u094d\u0930\u0935\u093f\u0921\u091a\u094d\u092f\u093e \u0928\u093f\u0930\u094d\u0923\u092f\u093e\u0928\u0947 \u0938\u0917\u0933\u0947\u091a \u091a\u0915\u094d\u0930\u093e\u0935\u0932\u0947",
-      "link": "https://marathi.abplive.com/sports/cricket/rahul-dravid-pics-imran-khan-or-virat-kohli-best-captain-ms-dhoni-marathi-news-1438883"
+      "title": "CEO Love | \u0c32\u0c35\u0c30\u0c4d\u200c \u0c15\u0c4b\u0c38\u0c02 \u0c30\u0c42. 35 \u0c15\u0c4b\u0c1f\u0c4d\u0c32\u0c41 \u0c16\u0c30\u0c4d\u0c1a\u0c41 \u0c1a\u0c47\u0c38\u0c3f\u0c28 \u0c38\u0c40\u0c08\u0c35\u0c4b.. \u0c35\u0c3f\u0c21\u0c3f\u0c2a\u0c4b\u0c2f\u0c3f\u0c28 \u0c24\u0c30\u0c4d\u0c35\u0c3e\u0c24 \u0c15\u0c4b\u0c30\u0c4d\u0c1f\u0c41\u0c32\u0c4b \u0c15\u0c47\u0c38\u0c41.. \u0c1a\u0c3f\u0c35\u0c30\u0c3f\u0c15\u0c3f \u0c0f\u0c2e\u0c48\u0c02\u0c26\u0c4b \u0c24\u0c46\u0c32\u0c41\u0c38\u0c3e!",
+      "link": "https://www.ntnews.com/news/a-ceo-spent-%E2%82%B935-crore-on-his-lover-then-filed-a-lawsuit-after-they-broke-up-do-you-know-what-happened-in-the-end-2509360"
     }
   ],
   "twitter": null

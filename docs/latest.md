@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-12 22:32:30
+# India Trending Report — 2026-09-12 23:02:02
 
 ## Google Trends (India) — top trending searches
-1. [mom and son](https://trends.google.com/trending/rss?geo=IN)
-2. [raphinha](https://trends.google.com/trending/rss?geo=IN)
-3. [arda güler](https://trends.google.com/trending/rss?geo=IN)
-4. [fpl](https://trends.google.com/trending/rss?geo=IN)
-5. [roberto fernández](https://trends.google.com/trending/rss?geo=IN)
-6. [stranger things](https://trends.google.com/trending/rss?geo=IN)
-7. [nike](https://trends.google.com/trending/rss?geo=IN)
-8. [aryna sabalenka](https://trends.google.com/trending/rss?geo=IN)
-9. [sergio camello](https://trends.google.com/trending/rss?geo=IN)
+1. [inter miami vs nashville](https://trends.google.com/trending/rss?geo=IN)
+2. [mom and son](https://trends.google.com/trending/rss?geo=IN)
+3. [raphinha](https://trends.google.com/trending/rss?geo=IN)
+4. [arda güler](https://trends.google.com/trending/rss?geo=IN)
+5. [fpl](https://trends.google.com/trending/rss?geo=IN)
+6. [roberto fernández](https://trends.google.com/trending/rss?geo=IN)
+7. [stranger things](https://trends.google.com/trending/rss?geo=IN)
+8. [nike](https://trends.google.com/trending/rss?geo=IN)
+9. [aryna sabalenka](https://trends.google.com/trending/rss?geo=IN)
 10. [weather mumbai](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - ['Global South must shape, not just follow, rules': PM Modi at Brics Summit](https://timesofindia.indiatimes.com/india/modi-global-south-must-shape-not-just-follow-rules/articleshow/134158493.cms)
 - [Brics Summit success gives BJP a boost in domestic politics](https://timesofindia.indiatimes.com/india/summit-success-gives-bjp-a-boost-in-domestic-politics/articleshow/134158188.cms)
+- [RBI rejects Tata Sons' bid to stay private, directs listing](https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-tata-sons-bid-to-stay-private-directs-listing/articleshow/134163398.cms)
+- [India to get another major DRDO missile testing range in Bengal](https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms)
 - [Meghalaya CM Sangma calls on guv amid reports of 8 UDP MLAs planning to join BJP](https://timesofindia.indiatimes.com/city/guwahati/conrad-calls-on-guv-amid-reports-of-8-udp-mlas-planning-to-join-bjp/articleshow/134148275.cms)
+- [Mark Zuckerberg on how engineers made him return to Musk's X after 3 years in 2026](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-him-do-it/articleshow/134147562.cms)
 - [EC meets both TMC factions amid their 'real party' claims](https://timesofindia.indiatimes.com/india/ec-meets-both-tmc-factions-amid-their-real-party-claims/articleshow/134156501.cms)
 - [Brics opposes unilateral trade steps like EU carbon border tax](https://timesofindia.indiatimes.com/india/brics-opposes-unilateral-trade-steps-like-eu-carbon-border-tax/articleshow/134158775.cms)
-- [Mark Zuckerberg on how engineers made him return to Musk's X after 3 years in 2026](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-him-do-it/articleshow/134147562.cms)
-- [India to get another major DRDO missile testing range in Bengal](https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms)
-- [Global nutrition experts back FSSAI warning labels, seek stricter rules](https://timesofindia.indiatimes.com/india/global-nutrition-experts-back-fssai-warning-labels-seek-stricter-rules/articleshow/134161131.cms)
-- [After raid on PA, ex-Uttarakhand CM Harish Rawat wants to quit Cong posts](https://timesofindia.indiatimes.com/city/dehradun/want-to-quit-posts-not-cong-party-is-my-blood-bones-harish-rawat-after-ed-raid-on-aide/articleshow/134146985.cms)
+- [HDFC Bank sends names of 2 CEO candidates to RBI](https://timesofindia.indiatimes.com/business/india-business/hdfc-bank-sends-names-of-2-ceo-candidates-to-rbi/articleshow/134163788.cms)
 - [Harvard University has a 'September message' for all international students](https://timesofindia.indiatimes.com/technology/tech-news/harvard-university-has-a-september-message-for-all-international-students-planning-to-leave-america-as-well-as-those-staying-in-the-country/articleshow/134118705.cms)
 
 **NDTV**
@@ -62,6 +62,7 @@
 - [ಹರ್ಷಿತ್ ರಾಣಾ ಯಾವ ಸೀಮೆ ಆಲ್ರೌಂಡರ್?: ಗುರಿ ತಪ್ಪಿರುವ ಗೌತಮ್ ಗಂಭೀರ್ ರಣತಂತ್ರಕ್ಕೆ ಎಸ್ ಬದ್ರೀನಾಥ್ ಆಕ್ರೋಶ](https://vijaykarnataka.com/sports/cricket/news/s-badrinath-questions-gautam-gambhir-all-rounder-strategy-and-harshit-rana-role/articleshow/134132953.cms)
 
 **The Hindu**
+- [Police team attacked by angry villagers in Bihar’s Sitamarhi after husband of ward councillor shot dead by criminals](https://www.thehindu.com/news/national/bihar/police-team-attacked-by-angry-villagers-in-bihars-sitamarhi-after-husband-of-ward-councillor-shot-dead-by-criminals/article71460092.ece)
 - [Govt. employee quitting to fight polls can’t seek reinstatement: Rajasthan High Court](https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece)
 - [Power cuts paralyse Punjab rice mills; Opon. slams AAP over ‘Roshan Punjab’ promise](https://www.thehindu.com/news/national/punjab/power-cuts-paralyse-punjab-rice-mills-opon-slams-aap-over-roshan-punjab-promise/article71460277.ece)
 - [Mehbooba Mufti welcomes BRICS condemnation of Pahalgam terror attack, but calls out ‘selective outrage’](https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-mufti-welcomes-brics-condemnation-of-pahalgam-terror-attack-but-calls-out-selective-outrage/article71461116.ece)
@@ -71,7 +72,6 @@
 - [Jamia hostel protest over mess food escalates; varsity denies assault charges](https://www.thehindu.com/news/cities/Delhi/jamia-hostel-protest-aisa-claims-students-assaulted-university-refutes-charge/article71459572.ece)
 - [Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths](https://www.thehindu.com/news/national/madhya-pradesh/balaghat-child-deaths-cjp-convernor-dipke-visits-tribal-villages-demands-accountability/article71459426.ece)
 - [Kerala Assistant Public Prosecutors Association gets new office-bearers](https://www.thehindu.com/news/national/kerala/kerala-assistant-public-prosecutors-association-gets-new-office-bearers/article71459804.ece)
-- [Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths](https://www.thehindu.com/news/national/madhya-pradesh/dipkevisits-families-in-mpsbalaghat-puts-lens-on-tribal-childrens-deaths/article71460823.ece)
 
 **Livemint**
 - [Trump's childhood home in Queens was once a cat den. Now it has sold for  ₹18.44 crore](https://www.livemint.com/news/us-news/trumps-childhood-home-in-queens-was-once-a-cat-den-now-it-has-sold-for-18-44-crore-11789236131291.html)
@@ -106,29 +106,29 @@
 - Brics (4.5)
 - Delhi (3.5)
 - BRICS Summit (3.0)
-- Dipke (2.9)
-- Balaghat (2.9)
 - Summit (2.8)
-- Cong (2.6)
 - September (2.6)
 - Highlights (2.6)
 - Millet (2.6)
 - What's (2.6)
 - Congress (2.6)
+- PM Modi (2.0)
+- Brics Summit (2.0)
+- New Delhi (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Tamil Nadu kanimozhi: DMKच्या कनिमोळी मातोश्रीवर; उद्धव ठाकरेंसोबत भेट, लोकसभा मतदारसंघ पुनर्रचनेवर काय ठरणार?](https://www.lokshahi.com/lokshahi-politics/tamil-nadu-mp-kanimozhi-uddhav-thackeray-meeting-at-matoshree-mumbai-12523834)
-- [खर्राटे लेने वाले पार्टनर के साथ सोने का आपकी सेहत पर क्या असर पड़ता है?](https://www.bbc.com/hindi/articles/c8jdmv9le3wo)
-- [ગણપતિ પૂજામાં તુલસી કેમ છે વર્જિત? મૂર્તિ સ્થાપના વખતે આ ભૂલો કરી તો પૂજાનું ફળ નહીં મળે](https://www.gujaratsamachar.com/news/astro/why-is-tulsi-forbidden-in-ganpati-puja-if-you-make-these-mistakes-while-installing-the-idol-the-worship-will-not-yield-any-results-92451728458)
-- [మళ్లీ భారత్ - పాక్‌ పోరు.. గతేడాది రెండుసార్లు బహిష్కరించాం.. మరి ఈసారి?](https://www.eenadu.net/telugu-news/sports/ind-vs-pak-back-on-wcl-calendar-after-two-cancelled-clashes/0401/126165114)
-- [హనుమాన్ అంశ్.. అసలు ఎవరీ నీమ్ కరోలీ బాబా](https://www.chitrajyothy.com/2026/tollywood/who-is-neem-karoli-baba-the-spiritual-icon-behind-recordbreaking-film-hanuman-ansh-rp-75326.html)
-- [पास बैठे थे जिनपिंग, ब्रिक्स समिट से पीएम मोदी ने दे दिया संदेश; अमेरिका को भी दो टूक](https://www.livehindustan.com/national/brics-summit-2026-pm-modi-calls-for-tangible-outcomes-under-india-chairship-new-delhi-201789207147569.html)
-- [India’s grand welcome: How Delhi’s iconic hotels became diplomatic addresses for BRICS 2026](https://timesofindia.indiatimes.com/life-style/food-news/indias-grand-welcome-how-delhis-iconic-hotels-became-diplomatic-addresses-for-brics-2026/articleshow/134122112.cms)
-- [Gujarat Rain: ગુજરાતમાં વરસાદનો નવો રાઉન્ડ શરૂ, આ જિલ્લાઓમાં તૂટી પડ્યો વરસાદ, ખેડૂતોને રાહત](https://gujarati.abplive.com/news/gujarat/gujarat-rain-update-gir-somnath-amreli-mahisagar-rainfall-news-today-991014)
-- [‘കേന്ദ്ര അജണ്ട നടപ്പാക്കാനെങ്കിൽ അംഗീകരിക്കില്ല’; പി.എം. ശ്രീയിൽ നിലപാട് കടുപ്പിച്ച് യൂത്ത് ലീഗ്](https://www.madhyamam.com/kerala/youth-league-hardens-stance-on-pm-shri-scheme-amid-funding-row-1553853)
-- [Rahul Dravid News : विराट कोहलीला नाकारलं, बेस्ट कॅप्टन म्हणून पाकिस्तानच्या खेळाडूला निवडलं; राहुल द्रविडच्या निर्णयाने सगळेच चक्रावले](https://marathi.abplive.com/sports/cricket/rahul-dravid-pics-imran-khan-or-virat-kohli-best-captain-ms-dhoni-marathi-news-1438883)
+- [અમદાવાદ : 62 વર્ષ પહેલાં જ્યારે ગોળીબારમાં મૃત્યુ પામેલા મજૂરનો મૃતદેહ સ્ટેજ પર લવાયો](https://www.bbc.com/gujarati/articles/c99d02lvk4jo)
+- [34KM माइलेज, 4.99 लाख कीमत... नए अवतार में आ रही ये MARUTI](https://www.aajtak.in/visualstories/auto/maruti-wagonr-facelift-spied-new-engine-expected-features-auam-285625-12-09-2026)
+- [Ponguleti Srinivas Reddy: భూముల బండారం బయటపడుతుందని BRS నేతలు తప్పించుకు తిరుగుతున్నారు: పొంగులేటి](https://telugu.abplive.com/telangana/hyderabad/ponguleti-srinivas-reddy-slams-brs-over-dharani-portal-and-land-irregularities-in-telangana-assembly-258778)
+- ['ഇനിയും തുടരാനാകില്ല'; സിപിഎമ്മുമായുള്ള ബന്ധം ഉപേക്ഷിക്കുന്നുവെന്ന് അനിൽ വി. നാ​ഗേന്ദ്രൻ](https://www.asianetnews.com/kerala-news/anil-v-nagendran-announces-he-is-leaving-from-cpm-articleshow-4h1ukh6)
+- [செப்டம்பர் 15ம் தேதி வாங்க வேண்டிய பங்குகள், சுமீத் பகடியாவின் பரிந்துரை இதுதான்](https://tamil.economictimes.com/market/stocks/september-15-3-best-stocks-recommended-for-investors/articleshow/134125871.cms)
+- [બે ફૂટ શ્રીજી પ્રતિમાના વિસર્જન માટે ગોત્રીરોડ પર 30 ફૂટ લાંબો કૃત્રિમ કુંડ તૈયાર : 1 લાખ લીટર પાણી ભરાશે](https://www.gujaratsamachar.com/news/baroda/a-30-foot-long-artificial-tank-has-been-prepared-on-gotri-road-for-the-immersion-of-a-two-foot-shreeji-statue-1-lakh-liters-of-water-will-be-filled-72419970056)
+- ['I'm tired of this': Indian wushu player Divyanshi Choudhary breaks down on hostel roof after Asian Games axing](https://timesofindia.indiatimes.com/sports/asian-games-2026/im-tired-of-this-indian-wushu-player-divyanshi-choudhary-breaks-down-on-hostel-roof-after-asian-games-axing/articleshow/134124299.cms)
+- [Sanju Samson: സഞ്ജു ചെറിയ താരമല്ല, വൈഭവിനേക്കാൾ പിന്തുണ നൽകണം; മുൻ ഇന്ത്യൻ താരത്തിന്‍റെ ഉപദേശം](https://www.asianetnews.com/cricket-sports/vivek-razdan-wants-sanju-samson-to-open-for-india-in-afghanistan-t20is-articleshow-bk96g94)
+- [DJ Ban Nagpur: डीजेच्या दणदणाटावर हायकोर्टाचा मोठा निर्णय; डीजेबंदी कायम ठेवत दिले कडक अंमलबजावणीचे निर्देश](https://www.marathijagran.com/maharashtra/nagpur/dj-ban-in-nagpur-high-court-upholds-dj-ban-and-orders-strict-enforcement-161752)
+- [CEO Love | లవర్‌ కోసం రూ. 35 కోట్లు ఖర్చు చేసిన సీఈవో.. విడిపోయిన తర్వాత కోర్టులో కేసు.. చివరికి ఏమైందో తెలుసా!](https://www.ntnews.com/news/a-ceo-spent-%E2%82%B935-crore-on-his-lover-then-filed-a-lawsuit-after-they-broke-up-do-you-know-what-happened-in-the-end-2509360)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
