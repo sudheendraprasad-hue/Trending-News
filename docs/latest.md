@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-12 00:39:10
+# India Trending Report — 2026-09-12 01:01:45
 
 ## Google Trends (India) — top trending searches
-1. [लाभांश](https://trends.google.com/trending/rss?geo=IN)
-2. [రాశి](https://trends.google.com/trending/rss?geo=IN)
-3. [भारत के विदेशी मुद्रा भंडार](https://trends.google.com/trending/rss?geo=IN)
-4. [स्कूटर](https://trends.google.com/trending/rss?geo=IN)
-5. [भजन](https://trends.google.com/trending/rss?geo=IN)
-6. [we](https://trends.google.com/trending/rss?geo=IN)
-7. [england pakistan cricket match](https://trends.google.com/trending/rss?geo=IN)
-8. [and](https://trends.google.com/trending/rss?geo=IN)
-9. [রোহিত শর্মা](https://trends.google.com/trending/rss?geo=IN)
-10. [live](https://trends.google.com/trending/rss?geo=IN)
+1. [nep vs uae](https://trends.google.com/trending/rss?geo=IN)
+2. [tkr vs gaw](https://trends.google.com/trending/rss?geo=IN)
+3. [weather jaipur](https://trends.google.com/trending/rss?geo=IN)
+4. [dp](https://trends.google.com/trending/rss?geo=IN)
+5. [जसप्रीत बुमराह](https://trends.google.com/trending/rss?geo=IN)
+6. [लाभांश](https://trends.google.com/trending/rss?geo=IN)
+7. [రాశి](https://trends.google.com/trending/rss?geo=IN)
+8. [भारत के विदेशी मुद्रा भंडार](https://trends.google.com/trending/rss?geo=IN)
+9. [7](https://trends.google.com/trending/rss?geo=IN)
+10. [स्कूटर](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Brics 2026: Officials claim 50 outcomes, but no clarity on united declaration](https://timesofindia.indiatimes.com/india/officials-claim-50-outcomes-but-no-clarity-on-united-declaration/articleshow/134098263.cms)
 - [40% of global GDP is here: PM Modi on Brics Summit](https://timesofindia.indiatimes.com/india/40-of-global-gdp-is-here-pm-modi/articleshow/134092501.cms)
 - [‘Did anyone go to jail in Kerala?’ Cong hits back at Omar amid Vande Mataram row](https://timesofindia.indiatimes.com/india/did-anyone-go-to-jail-in-kerala-cong-hits-back-at-omar-amid-vande-mataram-row/articleshow/134087507.cms)
-- [SC's 13 queries to FSSAI: 'Give details on shape, size, colour of food label'](https://timesofindia.indiatimes.com/india/scs-13-queries-to-fssai-give-details-on-shape-size-colour-of-food-label/articleshow/134099356.cms)
+- [Zverev beats Khachanov, reaches US Open final and eyes second major of year](https://timesofindia.indiatimes.com/sports/tennis/top-stories/alexander-zverev-beats-karen-khachanov-reaches-us-open-final-and-eyes-second-major/articleshow/134100265.cms)
 - [After Trump renames Lake Ontario, Republican wants Lake Erie renamed too](https://timesofindia.indiatimes.com/world/us/after-trump-renamed-lake-ontario-lake-america-a-pennsylvania-republican-now-wants-lake-erie-renamed-lake-pennsylvania/articleshow/134048308.cms)
 - [Elon Musk's Cybercab rollout puts US safety rules to test as NHTSA audits 1,000 cars](https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-cybercab-has-no-steering-wheel-pedals-or-mirrors-us-safety-regulators-open-audit-of-about-1000-cars-over-teslas-self-certification/articleshow/134066366.cms)
+- [SC's 13 queries to FSSAI: 'Give details on shape, size, colour of food label'](https://timesofindia.indiatimes.com/india/scs-13-queries-to-fssai-give-details-on-shape-size-colour-of-food-label/articleshow/134099356.cms)
 - [Brics 2026: Inside heightened security deployment for Xi's first India visit since 2019](https://timesofindia.indiatimes.com/india/guarding-xi-inside-heightened-security-deployment/articleshow/134086513.cms)
-- ['Allow easy movement to professionals': Piyush Goyal urges Brics states](https://timesofindia.indiatimes.com/india/goyal-pull-down-barriers-allow-easy-movement-to-professionals/articleshow/134097838.cms)
 - [Countries where you can buy iPhone 18 Pro and iPhone 18 Pro Max cheaper than India](https://timesofindia.indiatimes.com/technology/tech-news/countries-where-you-can-buy-iphone-18-pro-and-iphone-18-pro-max-cheaper-than-india/articleshow/134056504.cms)
-- [Busy week for primary market as nine IPOs attract bids worth Rs 1.4 lakh crore](https://timesofindia.indiatimes.com/business/india-business/nine-ipos-attract-bids-worth-1-4-lakh-crore/articleshow/134094680.cms)
+- [Tech glitch at Adani power unit hits Bangladesh grid](https://timesofindia.indiatimes.com/world/south-asia/tech-glitch-at-adani-power-unit-hits-bangladesh-grid/articleshow/134099803.cms)
 
 **NDTV**
 - [North Korea Fires Unidentified Projectile Toward Sea Of Japan](https://www.ndtv.com/world-news/north-korea-fires-unidentified-projectile-toward-sea-of-japan-report-12035515#publisher=newsstand)
@@ -49,17 +49,7 @@
 - [BRICS Summit: Delhi announces traffic curbs, diversions for September 12; Check affected routes](https://www.hindustantimes.com/india-news/brics-summit-delhi-announces-traffic-curbs-diversions-for-september-12-check-affected-routes-101789141996452.html)
 - [Amid the 1980s nostalgia trend, here are 10 ChatGPT photo tricks you didn’t know](https://www.hindustantimes.com/india-news/amid-the-1980s-nostalgia-trend-here-are-10-chatgpt-photo-tricks-you-didn-t-know-101789137175948.html)
 
-**Vijay Karnataka**
-- [ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಮುಚ್ಚಿದೆ ಬ್ರಿಕ್ಸ್‌ ಬಾಗಿಲು: ಭಾರತದ ವೀಟೋ ಅಧಿಕಾರದಿಂದ ನೆರೆ ರಾಷ್ಟ್ರಕ್ಕೆ ದಿಗಿಲು! ಇಳಿಯುತ್ತಿದೆ ಸೊಕ್ಕಿನ ಅಮಲು](https://vijaykarnataka.com/news/world/indias-veto-power-succeeded-in-keeping-pakistan-out-of-brics-membership-islamabad-waiting/articleshow/134081269.cms)
-- [ಜಿ-7 ಗುಂಪಿನ ಕಾಲೆಳೆದ ವ್ಲಾಡಿಮಿರ್‌ ಪುಟಿನ್: ಭಾರತದ ನೆಲದಲ್ಲಿ ಬ್ರಿಕ್ಸ್‌ ಆರ್ಥಿಕ ಬಲ ಅನಾವರಣಗೊಳಿಸಿದ ರಷ್ಯಾ ಅಧ್ಯಕ್ಷ!](https://vijaykarnataka.com/news/india/russia-president-vladimir-putin-slams-g7-group-says-brics-contributes-more-to-global-economy/articleshow/134077384.cms)
-- [80s AI Photo Trend-ಸೋಶಿಯಲ್‌ ಮೀಡಿಯಾದಲ್ಲಿ ರೆಟ್ರೋ ಲುಕ್‌ ಕ್ರೇಜ್‌! ನಿಮ್ಮ ಫೋಟೋಗೂ ವಿಂಟೇಜ್‌ ‌ಟಚ್ ನೀಡೋದು ಹೇಗೆ?](https://vijaykarnataka.com/news/india/explainer-what-is-viral-chatgpt-80s-photo-trend-heres-how-you-can-add-vintage-touch-to-your-photos-with-ai-prompts/articleshow/134044231.cms)
-- [ಚಪಾತಿ ಹಿಟ್ಟು ಕೈಗೆ ಅಂಟಿಕೊಂಡಿದೆಯೇ? ಸುಲಭವಾಗಿ ತೆಗೆಯಲು ಈ ಕಿಚನ್ ಟಿಪ್ಸ್‌ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/how-to-remove-sticky-dough-from-your-hands-easily-simple-kitchen-tips/articleshow/134058299.cms)
-- [ನರೇಂದ್ರ ಮೋದಿ-ಮಸೂದ್‌ ಪೆಜೆಶ್ಕಿಯಾನ್‌ ಮಾತುಕತೆ: ಜಲ ಸಂಚಾರ ಸುರಕ್ಷತೆಯ ಖಾತರಿ ಕೇಳಿದ ಭಾರತ! ಇರಾನ್‌ ಪ್ರತಿಕ್ರಿಯೆ ಏನು?](https://vijaykarnataka.com/news/india/pm-modi-and-masoud-pezeshkian-bilateral-talks-india-asks-iran-to-reopen-strait-of-hormuz/articleshow/134075417.cms)
-- [BBK 13: ಕಿರಣ್‌ ರಾಜ್‌, ಸಂಗೀತಾ ಭಟ್‌ ಸೀರಿಯಲ್‌ಗೆ ಜೋಡಿಯಾಗಿದ್ರು, ರಿಯಾಲಿಟಿ ಶೋನಲ್ಲಿಯೂ ಕಾಣಿಸಿಕೊಂಡಿದ್ರು!](https://vijaykarnataka.com/tv/bigg-boss-kannada/kiran-raj-and-bbk-13-fame-sangeetha-bhat-had-starred-as-a-couple-in-a-serial-and-also-appeared-together-in-a-reality-show/articleshow/134086510.cms)
-- [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
-- [2026 ಗಣೇಶ ಚತುರ್ಥಿ: 5 ಗಣಪತಿ ಮಂತ್ರಗಳು, ಪಠಿಸುವ ವಿಧಾನ ಮತ್ತು ಮಹತ್ವ.!](https://vijaykarnataka.com/religion/pooja-vidhana/ganesh-chaturthi-2026-chant-these-are-the-5-ganesha-mantras-to-remove-obstacles-from-your-life/articleshow/134070048.cms)
-- [ರಾಖಿ ಸಾವಂತ್‍ನಿಂದ ಶ್ರೀಲೀಲಾ ತಮನ್ನಾ ಭಾಟಿಯಾ ತನಕ; 80s ರೆಟ್ರೋ ಲುಕ್‌ಗೆ ಮಾರುಹೋದ ಸೆಲೆಬ್ರಿಟಿಗಳು!!](https://vijaykarnataka.com/lifestyle/fashion/rakhi-sawant-tamannaah-bhatia-1980s-ai-photo-fashion-trend/articleshow/134053857.cms)
-- [ದಾವಣಗೆರೆಯಲ್ಲಿ ತಲೆಎತ್ತಲಿದೆ 200 ಎಕರೆಯಲ್ಲಿ ದೂಡಾ ಹೊಸ ಲೇಔಟ್‌! ರೈತರಿಗೆ 60:40 ಮಾದರಿ ಪರಿಹಾರಕ್ಕೆ ನಿರ್ಧಾರ](https://vijaykarnataka.com/news/davanagere/new-200-acre-layout-in-davanagere-decision-duda-made-to-offer-6040-model-compensation-to-farmers/articleshow/134077028.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
 - [Gauhati High Court says ‘talaq-e-hassan’ is a valid form of divorce](https://www.thehindu.com/news/national/assam/gauhati-high-court-says-talaq-e-hassan-is-a-valid-form-of-divorce/article71456358.ece)
@@ -100,7 +90,7 @@
 - [ಸ್ವಯಂ-ಗಡಿಪಾರು ಜಾಹೀರಾತನ್ನು ತೆಗೆದುಹಾಕಿದ ಟ್ರಂಪ್ ಆಡಳಿತ](https://www.varthabharati.in/international/us-removes-advertisement-asking-mr-singh-to-self-deport-after-backlash-2274607)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Brics (4.2)
+- Brics (2.9)
 - Delhi (2.9)
 - India (2.6)
 - Gujarat (2.6)
@@ -119,16 +109,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [రష్యా అధ్యక్షుడు పుతిన్‌కు.. ‘తిరుక్కురళ్‌’ను బహుకరించిన ప్రధాని మోదీ-Namasthe Telangana](https://www.ntnews.com/national/pm-modi-gifts-thirukkural-to-russian-president-putin-theres-a-fascinating-russian-connection-2508545)
+- [గుడ్ న్యూస్: FASTag డీయాక్టివేట్ చేయకుండానే బ్యాంకు అకౌంట్ మార్చుకోవచ్చు.. OneTag ప్రారంభించిన కేంద్రం](https://www.v6velugu.com/nitin-gadkari-launches-onetag-to-enable-fastag-users-change-their-issuer-bank-)
+- [ENG vs PAK, 3rd Test, Pakistan tour of England 2026](https://www.cricbuzz.com/player-match-performance/match/129596/player/10385/bowling?inningsId=3)
+- [112 years later! Ollie Robinson enters rarest Test bowling club with sub-19 average](https://timesofindia.indiatimes.com/sports/cricket/news/112-years-later-ollie-robinson-enters-rarest-test-bowling-club-with-sub-19-average/articleshow/134067814.cms)
+- [കോഴിക്കോട് മെഡിക്കൽ കോളേജിൽ നടുക്കം; ശുചിമുറിയിൽ ഒളിഞ്ഞുനിന്ന് ദൃശ്യങ്ങൾ പകർത്താൻ ശ്രമിച്ച യുവാവ് പിടിയിൽ](https://www.expresskerala.com/news/shock-at-kozhikode-medical-college-young-man-caught-attempting-to-secretly-record-footage-from-a-restroom.html)
+- [Neena Gupta advises people how to react to body-shaming and personal questions like when are you getting married: 'Tumhare baap ka nahi khaati'](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neena-gupta-advises-people-how-to-react-to-body-shaming-and-personal-questions-like-when-are-you-getting-married-tumhare-baap-ka-nahi-khaati/articleshow/134067301.cms)
 - [મિડલ ઈસ્ટમાં નવું સંકટ! સાઉદી પ્રિન્સે 2 વાર ફોન કર્યો પણ ટ્રમ્પે હૂતીઓ પર હુમલો કરવાની ના પાડી દીધી!](https://www.gujaratsamachar.com/news/international/new-crisis-in-the-middle-east-saudi-prince-called-twice-but-trump-refused-to-attack-the-houthis-65497108070)
 - [कमिश्नर का पद छोड़ा, BJP जॉइन करने के 2 दिन बाद IAS को मिला लोकसभा उपचुनाव का टिकट](https://www.aajtak.in/india/news/story/debashish-sharma-loksabha-by-election-ticket-from-nagaon-constituency-ntc-acwi-dskc-2640986-2026-09-11)
 - [Don't know why they call them that: Putin's swipe at G7 economies at BRICS meeting](https://www.indiatoday.in/world/story/dont-know-why-they-call-them-that-putins-big-swipe-at-g7-as-he-highlights-brics-nations-gdp-power-2992581-2026-09-11)
 - [ગુજરાતમાં વરસાદની અછતનો મુદ્દો વિધાનસભામાં ઉઠ્યો, દુષ્કાળ જાહેર કરવાની માંગ પર મંત્રી ઋષિકેશ પટેલે આપ્યું મોટું નિવેદન](https://www.etvbharat.com/gu/state/gujarat-rainfall-shortage-issue-raised-in-gujarat-legislative-assembly-gjs26091104808)
-- [नीना गुप्ता समेत 'चुंबक' सिरीज़ की कास्ट के साथ बीबीसी की ख़ास बातचीत](https://www.bbc.com/hindi/articles/cm2q8dn3z5jo)
-- [Sanjay Raut : "आज मराठवाडा संपूर्ण भाजपमय पण मराठवाड्याला काय मिळाले फक्त थापा, फसवणूक"](https://www.lokshahi.com/lokshahi-politics/sanjay-raut-is-visiting-nanded-today-12518364)
-- [சரியான தங்க முதலீடு எது என்பதை தெரிந்து கொள்ளுங்கள்.](https://kalkionline.com/business-finance/gold-investment-etf-vs-digital)
-- [नेशनल टीवी पर रोहित शर्मा ने बोला झूठ! ऑस्ट्रेलिया संग टेस्ट मैच का किया जिक्र, भड़के विराट कोहली के फैंस](https://www.aajtak.in/entertainment/television/story/rohit-sharma-recalls-fight-steve-smith-2015-australia-test-series-virat-kohli-family-full-house-show-tmovj-dskc-2640981-2026-09-11)
-- [''தற்போதைய தலைமைச் செயலகத்தில் உட்கார முடியவில்லையா?'' - சீமான்](https://www.polimernews.com/politicsnews/cant-you-sit-in-the-current-secretariat-seeman-12520413)
-- [BRICS समिट: सुप्रिया सुले बोलीं, 'जब मनमोहन सिंह प्रधानमंत्री थे...'](https://www.abplive.com/states/maharashtra/brics-summit-2026-supriya-sule-remembers-manmohan-singh-targets-mea-3187534)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
