@@ -1,21 +1,21 @@
-# India Trending Report — 2026-09-12 23:31:54
+# India Trending Report — 2026-09-13 00:02:29
 
 ## Google Trends (India) — top trending searches
-1. [santos vs cruzeiro](https://trends.google.com/trending/rss?geo=IN)
-2. [anna blinkova](https://trends.google.com/trending/rss?geo=IN)
-3. [weather hyderabad](https://trends.google.com/trending/rss?geo=IN)
-4. [inter miami vs nashville](https://trends.google.com/trending/rss?geo=IN)
-5. [cookies](https://trends.google.com/trending/rss?geo=IN)
-6. [mom and son](https://trends.google.com/trending/rss?geo=IN)
-7. [raphinha](https://trends.google.com/trending/rss?geo=IN)
-8. [arda güler](https://trends.google.com/trending/rss?geo=IN)
-9. [fpl](https://trends.google.com/trending/rss?geo=IN)
-10. [roberto fernández](https://trends.google.com/trending/rss?geo=IN)
+1. [शेतकरी](https://trends.google.com/trending/rss?geo=IN)
+2. [marwan rahiki](https://trends.google.com/trending/rss?geo=IN)
+3. [அகவிலைப்படி](https://trends.google.com/trending/rss?geo=IN)
+4. [santos vs cruzeiro](https://trends.google.com/trending/rss?geo=IN)
+5. [h](https://trends.google.com/trending/rss?geo=IN)
+6. [anna blinkova](https://trends.google.com/trending/rss?geo=IN)
+7. [weather hyderabad](https://trends.google.com/trending/rss?geo=IN)
+8. [inter miami vs nashville](https://trends.google.com/trending/rss?geo=IN)
+9. [तुलसी](https://trends.google.com/trending/rss?geo=IN)
+10. [cookies](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- ['Global South must shape, not just follow, rules': PM Modi at Brics Summit](https://timesofindia.indiatimes.com/india/modi-global-south-must-shape-not-just-follow-rules/articleshow/134158493.cms)
 - [Brics hammers out joint declaration after India bridges Iran-UAE chasm](https://timesofindia.indiatimes.com/india/brics-hammers-out-joint-declaration-after-india-bridges-iran-uae-chasm/articleshow/134153102.cms)
+- ['Global South must shape, not just follow, rules': PM Modi at Brics Summit](https://timesofindia.indiatimes.com/india/modi-global-south-must-shape-not-just-follow-rules/articleshow/134158493.cms)
 - [RBI rejects Tata Sons' bid to stay private, directs listing](https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-tata-sons-bid-to-stay-private-directs-listing/articleshow/134163398.cms)
 - [India to get another major DRDO missile testing range in Bengal](https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms)
 - [Meghalaya CM Sangma calls on guv amid reports of 8 UDP MLAs planning to join BJP](https://timesofindia.indiatimes.com/city/guwahati/conrad-calls-on-guv-amid-reports-of-8-udp-mlas-planning-to-join-bjp/articleshow/134148275.cms)
@@ -62,9 +62,9 @@
 - [ಹರ್ಷಿತ್ ರಾಣಾ ಯಾವ ಸೀಮೆ ಆಲ್ರೌಂಡರ್?: ಗುರಿ ತಪ್ಪಿರುವ ಗೌತಮ್ ಗಂಭೀರ್ ರಣತಂತ್ರಕ್ಕೆ ಎಸ್ ಬದ್ರೀನಾಥ್ ಆಕ್ರೋಶ](https://vijaykarnataka.com/sports/cricket/news/s-badrinath-questions-gautam-gambhir-all-rounder-strategy-and-harshit-rana-role/articleshow/134132953.cms)
 
 **The Hindu**
+- [Power cuts paralyse Punjab rice mills; Oppn. slams AAP over ‘Roshan Punjab’ promise](https://www.thehindu.com/news/national/punjab/power-cuts-paralyse-punjab-rice-mills-opon-slams-aap-over-roshan-punjab-promise/article71460277.ece)
 - [Police team attacked by angry villagers in Bihar’s Sitamarhi after husband of ward councillor shot dead by criminals](https://www.thehindu.com/news/national/bihar/police-team-attacked-by-angry-villagers-in-bihars-sitamarhi-after-husband-of-ward-councillor-shot-dead-by-criminals/article71460092.ece)
 - [Govt. employee quitting to fight polls can’t seek reinstatement: Rajasthan High Court](https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece)
-- [Power cuts paralyse Punjab rice mills; Opon. slams AAP over ‘Roshan Punjab’ promise](https://www.thehindu.com/news/national/punjab/power-cuts-paralyse-punjab-rice-mills-opon-slams-aap-over-roshan-punjab-promise/article71460277.ece)
 - [Mehbooba Mufti welcomes BRICS condemnation of Pahalgam terror attack, but calls out ‘selective outrage’](https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-mufti-welcomes-brics-condemnation-of-pahalgam-terror-attack-but-calls-out-selective-outrage/article71461116.ece)
 - [Congress claims NSUI's victory in Garhwal university student union polls](https://www.thehindu.com/news/national/uttarakhand/congress-claims-nsuis-victory-in-garhwal-university-student-union-polls/article71461373.ece)
 - ['Millet pulao', 'paneer lababdar', 'shahtoot phirni': BRICS Summit gala dinner menu](https://www.thehindu.com/news/national/brics-summit-gala-dinner-menu/article71461293.ece)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ['ఢీ' విజేత రాజు అరెస్ట్.. పెళ్లి పేరుతో ఘోర మోసం!](https://www.chitrajyothy.com/2026/tollywood/dhee-10-winner-dancer-raju-arrested-by-miyapur-police-for-sexual-exploitation-cheating-rp-75329.html)
-- [மேற்காசியாவில் அமைதி திரும்புவதற்கு இணைந்து பணியாற்ற தயார்; சீன அதிபர் ஜின்பிங் உறுதி](https://www.dinamalar.com/news/india-tamil-news/ready-to-work-together-to-restore-peace-in-west-asia-chinese-president-xi-jinping/4321001)
-- [വോളിബോൾ പ്രാക്ടീസിനായി സ്കൂളിലെത്തി, പിന്നാലെ ആറ്റിലിറങ്ങി; ചുഴിയിൽ പെട്ട പ്ലസ് ടു വിദ്യാർത്ഥികൾക്ക് ജീവൻ നഷ്ടമായി](https://www.asianetnews.com/kerala-news/volleyball-practice-turns-tragic-as-two-plus-two-students-drown-in-konni-articleshow-wy0f44o)
-- [HDFC Bank sends two names to RBI for MD, CEO post, appoints Jimmy Tata as whole-time director](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/banks/hdfc-bank-sends-two-names-to-rbi-for-md-ceo-post-appoints-jimmy-tata-as-whole-time-director-14028566.html)
-- [HDFC Bank sends two names to RBI for MD, CEO post, appoints Jimmy Tata as whole-time director](https://www.moneycontrol.com/news/business/banks/hdfc-bank-sends-two-names-to-rbi-for-md-ceo-post-appoints-jimmy-tata-as-whole-time-director-14028566.html)
-- [એકતરફી ટેરિફ કે આર્થિક દબાણ નહીં ચાલે: બ્રિક્સ સમિટમાં 'નવી દિલ્હી ડિક્લેરેશન' સર્વસંમતિથી પાસ](https://www.gujaratsamachar.com/news/national/brics-new-delhi-declaration-flags-unilateral-tariffs-calls-for-dialogue-peace-93416049030)
-- [ഒരുമാറ്റവുമില്ല, ഇന്നും പവർ കട്ടുണ്ടാകും; അറിയിപ്പുമായി കെഎസ്ഇബി, 1000 മെഗാവാട്ടിന്റെ കുറവ്](https://www.asianetnews.com/kerala-news/power-cut-today-as-well-kseb-issues-notification-citing-a-1000-mw-deficit-articleshow-vzxqz3a)
-- [പന്തിൽ ഒരു തവണ പോലും ടച്ച് ചെയ്തില്ലെങ്കിലും ഗോൾ കിട്ടി; ബ്രസീൽ ഫുട്‌ബോളിലെ അബദ്ധം](https://www.mathrubhumi.com/sports/football/bizarre-own-goal-brazil-football-viral-video-p3w97icm)
-- [15 ఏళ్ల క్రితం నాటి సచిన్‌ ఔట్‌పై కామెంట్.. నెట్టింట పాక్‌ క్రికెటర్ నవ్వులపాలు!](https://www.andhrajyothy.com/2026/sports/cricket-news/social-media-erupts-after-pakistan-star-questions-on-sachin-tendulkar-smr-1557603.html)
-- [पीछा किया, फिर घर में घुसा और... कैलिफोर्निया रेस्टोरेंट के बाहर सिरफिरे आशिक ने खौफनाक वारदात को दिया अंजाम](https://www.aajtak.in/world/story/california-restaurant-sacramento-indian-origin-women-shot-dead-ntc-acwi-dskc-2641508-2026-09-12)
+- [HDFC Bank sends two names to RBI for next MD & CEO](https://www.thehindu.com/business/hdfc-bank-sends-two-names-to-rbi-for-next-md-ceo/article71459932.ece)
+- [ఆదిలాబాద్ విమానాశ్రయం ఏర్పాటుకు అడుగులు వేగంగా పడుతున్నాయి: కిషన్ రెడ్డి](https://www.andhrajyothy.com/2026/telangana/adilabad/adilabad-airport-project-gets-major-push-centre-fast-tracks-joint-use-airfield-in-telangana-suri-1557610.html)
+- [BRICS Summit : ब्रिक्स शिखर परिषदेत तीन मोठे नेते एकत्र, जगाला नेमका संदेश काय?](https://www.tv9marathi.com/national/rics-summit-three-big-leaders-together-at-the-summit-what-is-the-precise-message-to-the-world-1755065.html)
+- [जिनपिंग यांची रहस्यमयी कार काळ्या कव्हरने का झाकली? चीनला नेमकं काय लपवायचंय?](https://www.tv9marathi.com/national/xi-jinpings-mysterious-hongqi-n701-why-chinas-presidential-limousine-was-black-covered-1755090.html)
+- [Malda Flood: কুর্নিশ, বন্যায় ডুবে হাসপাতাল, সেখানেই চিকিৎসা ডাঃ অরিজিৎ ও নার্স-কর্মীদের](https://bangla.aajtak.in/west-bengal/story/malda-flood-dr-arijit-stays-at-submerged-ratua-block-hospital-prb-1449861-2026-09-12)
+- [Mumbai-based Air India pilot dies in Delhi hotel hours before flying](https://www.hindustantimes.com/india-news/air-india-cockpit-crew-member-dies-during-layover-at-delhi-hotel-101789213060816.html)
+- [రూ.3.5 కోట్లు ఖర్చుపెట్టా.. తిరిగివ్వు.. మాజీ ప్రేయసిపై సీఈవో దావా](https://www.eenadu.net/telugu-news/nri/indianorigin-ceo-spent--crores-of-rupees-on-girlfriend-sued-her-after-break-up/1101/126165130)
+- [সিরাজের হাতে এ বার নেতৃত্বের ব্যাটন, কোন দলের অধিনায়ক হলেন?](https://eisamay.com/sports/cricket/mohammed-siraj-named-captain-of-hyderabad-set-to-lead-team-in-ranji-trophy/200541649.cms)
+- [शी जिनपिंग की भारत यात्रा और ब्रिक्स 2026 को चीन का मीडिया कैसे देख रहा है](https://www.bbc.com/hindi/articles/c39m7xv13z1o)
+- [22ఏ నుంచి తొలగించిన ప్రతి ఎకరాకు లెక్కలున్నాయ్‌: పొంగులేటి](https://www.eenadu.net/telugu-news/telangana/minister-ponguleti-speech-in-assembly/1801/126165118)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
