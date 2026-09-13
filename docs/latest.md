@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-13 15:33:56
+# India Trending Report — 2026-09-13 16:01:55
 
 ## Google Trends (India) — top trending searches
-1. [patrick dorgu](https://trends.google.com/trending/rss?geo=IN)
-2. [bethlehem kudumba unit collection](https://trends.google.com/trending/rss?geo=IN)
-3. [ಗಣೇಶ](https://trends.google.com/trending/rss?geo=IN)
-4. [napoli vs bologna](https://trends.google.com/trending/rss?geo=IN)
-5. [समाचार](https://trends.google.com/trending/rss?geo=IN)
-6. [raphinha](https://trends.google.com/trending/rss?geo=IN)
-7. [allan](https://trends.google.com/trending/rss?geo=IN)
-8. [ബിഗ് ബോസ്](https://trends.google.com/trending/rss?geo=IN)
-9. [shafali verma](https://trends.google.com/trending/rss?geo=IN)
-10. [smriti mandhana](https://trends.google.com/trending/rss?geo=IN)
+1. [शिवम दुबे](https://trends.google.com/trending/rss?geo=IN)
+2. [indw vs sa-w](https://trends.google.com/trending/rss?geo=IN)
+3. [women's asia cup](https://trends.google.com/trending/rss?geo=IN)
+4. [harmanpreet kaur](https://trends.google.com/trending/rss?geo=IN)
+5. [matheus cunha](https://trends.google.com/trending/rss?geo=IN)
+6. [elliot anderson](https://trends.google.com/trending/rss?geo=IN)
+7. [senne lammens](https://trends.google.com/trending/rss?geo=IN)
+8. [youri tielemans](https://trends.google.com/trending/rss?geo=IN)
+9. [antoine semenyo](https://trends.google.com/trending/rss?geo=IN)
+10. [14 september 2026](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [India builds Brics without breaking up with US](https://timesofindia.indiatimes.com/world/us/india-builds-brics-without-breaking-up-with-us/articleshow/134209422.cms)
+- [The Uranium rush: Inside India's scramble to fuel its nuclear ambitions](https://timesofindia.indiatimes.com/india/the-uranium-rush-inside-indias-scramble-to-fuel-its-nuclear-ambitions/articleshow/134206216.cms)
 - [Brics diplomacy: Iran president says Tehran, UAE want to 'turn the page' on war](https://timesofindia.indiatimes.com/world/middle-east/brics-diplomacy-iran-president-says-tehran-uae-want-to-turn-the-page-on-war/articleshow/134203211.cms)
 - ['Unacceptable': India condemns attack on commercial vessel off Oman, 13 Indians rescued](https://timesofindia.indiatimes.com/india/unacceptable-india-condemns-attack-on-commercial-vessel-off-oman-13-indians-rescued/articleshow/134203824.cms)
-- ['I don't care': Trump on Gulf-Iran talks at Brics Summit](https://timesofindia.indiatimes.com/world/us/i-dont-care-trump-on-gulf-iran-talks-at-brics-summit/articleshow/134205388.cms)
-- [Scissors, screwdriver on bed: Man killed ‘lover’ in Assam hotel](https://timesofindia.indiatimes.com/city/guwahati/scissors-screwdriver-on-bed-man-killed-lover-in-assam-hotel/articleshow/134204307.cms)
 - [Atari’s 'Extra-Terrestrial' is biggest flop in game history, linked to ‘huge mystery’](https://timesofindia.indiatimes.com/technology/tech-news/launch-of-ataris-et-the-extra-terrestrial-is-considered-as-biggest-flop-in-video-game-history-leading-to-ataris-death-but-it-left-an-el-paso-warehouse-mystery-that-continues-to-haunt/articleshow/134206380.cms)
 - [Inside Martha Stewart’s 152-acre New York farm with 100 chickens](https://timesofindia.indiatimes.com/world/us/in-2000-martha-stewart-bought-a-152-acre-new-york-farmhouse-26-years-later-the-horse-farm-has-100-chickens-and-11-pheasants-after-she-added-13-chickens-and-a-silver-pheasant/articleshow/134190837.cms)
-- [Chinese FM Wang Yi stepped in for Xi at PM Modi’s Brics gala dinner: Reports](https://timesofindia.indiatimes.com/india/chinese-fm-wang-yi-stepped-in-for-xi-at-pm-modis-brics-gala-dinner-reports/articleshow/134208936.cms)
+- [Mamata's TMC faction names candidates for Nandigram, Rejinagar bypolls in Bengal](https://timesofindia.indiatimes.com/india/mamatas-tmc-faction-names-candidates-for-nandigram-rejinagar-bypolls-in-bengal/articleshow/134209845.cms)
 - [Larry Ellison cancels $7.5bn Oracle stock sale over Europe's ‘timing’ concerns](https://timesofindia.indiatimes.com/technology/tech-news/larry-ellison-cancels-plan-to-sell-7-5-billion-of-oracle-stock-after-europe-has-a-problem-with-his-timing/articleshow/134175638.cms)
-- [First time ever: Vande Mataram sung before National Anthem at India cricket match](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/why-vande-mataram-was-sung-before-national-anthem-in-india-vs-afghanistan-t20i-in-delhi/articleshow/134206904.cms)
-- [Tasmania moved devils to Maria Island; 3,000-pair penguin colony disappeared](https://timesofindia.indiatimes.com/science/wildlife/in-2012-tasmania-moved-15-devils-to-maria-island-to-protect-the-species-from-facial-tumour-disease-after-28-were-released-by-2013-a-3000-pair-penguin-colony-disappeared/articleshow/134202337.cms)
+- [Happy Ganesh Chaturthi 2026: Wishes, messages, quotes and status](https://timesofindia.indiatimes.com/etimes/trending/happy-ganesh-chaturthi-2026-wishes-messages-quotes-images-greetings-instagram-facebook-whatsapp-status/articleshow/134190269.cms)
+- [How Monty Don turned a 2-acre field into a garden millions love](https://timesofindia.indiatimes.com/world/uk/in-1991-monty-don-bought-a-herefordshire-home-with-a-2-acre-abandoned-field-35-years-later-longmeadow-became-the-garden-millions-knew-from-tv/articleshow/134208462.cms)
 
 **NDTV**
 - [Iran, UAE's "Turn The Page" Bonhomie In Delhi, Trump "Doesn't Care"](https://www.ndtv.com/world-news/day-after-talks-in-delhi-iran-says-it-wants-to-turn-the-page-with-uae-12041274#publisher=newsstand)
@@ -38,6 +38,7 @@
 - [Rs 4,49,00,000: What Israel Spent On Its PMs' Hair And Makeup Since 2019](https://www.ndtv.com/world-news/israel-spent-rs-4-49-crore-on-pms-hair-makeup-and-official-expenses-since-2019-12040933#publisher=newsstand)
 
 **Hindustan Times**
+- [Assam man, 23, held for rape, murder of woman over alleged affair: Police](https://www.hindustantimes.com/india-news/assam-man-23-held-for-rape-murder-of-woman-over-alleged-affair-police-101789313210747.html)
 - [NEET to move to computer-based test ‘very soon’, says NTA DG: ‘It’s the future'](https://www.hindustantimes.com/india-news/neet-exam-to-move-to-computer-based-test-very-soon-says-nta-dg-its-the-future-national-testing-agency-101789305122212.html)
 - [India condemns attack on ship off Oman as seafarer remains missing; 13 Indian crew members rescued](https://www.hindustantimes.com/india-news/india-condemns-attack-on-vessel-off-oman-coast-13-indian-crew-members-rescued-1-missing-101789311281232.html)
 - [Mamata Banerjee-led TMC announces candidates for Bengal, Assam bypolls](https://www.hindustantimes.com/india-news/mamata-banerjee-led-tmc-announces-candidates-for-bengal-assam-bypolls-101789311230398.html)
@@ -47,7 +48,6 @@
 - [15 bilaterals, 3 days: PM Modi's jam-packed schedule during BRICS Summit](https://www.hindustantimes.com/india-news/15-bilaterals-3-days-pm-modis-jampacked-schedule-during-brics-summit-diplomatic-marathon-putin-pezeshkian-xi-101789303988838.html)
 - [KSEB seeks nod to buy additional power at higher price amid Keralam power crisis](https://www.hindustantimes.com/india-news/kseb-seeks-nod-to-buy-additional-power-at-higher-price-amid-keralam-power-crisis-101789305367083.html)
 - [Upgrade research, treatment, diagnostic capabilities: UP CM Yogi Adityanath to medical experts](https://www.hindustantimes.com/india-news/upgrade-research-treatment-diagnostic-capabilities-up-cm-yogi-adityanath-to-medical-experts-101789305187481.html)
-- [Manoj Jarange alleges ‘conspiracy’ to ‘kill him’ amid Maratha quota stir, says ‘will accept death but not surrender’](https://www.hindustantimes.com/india-news/manoj-jarange-alleges-conspiracy-to-kill-him-amid-maratha-quota-stir-says-will-accept-death-but-not-surrender-101789300009402.html)
 
 **Vijay Karnataka**
 - [India Vs Afghanistan- ಅಂತಾರಾಷ್ಟ್ರೀಯ ಕ್ರಿಕೆಟ್ ವೇಳೆ ಮೊದಲ ಬಾರಿ ಜನ ಗಣ ಮನಕ್ಕೂ ಮುನ್ನ ಮೊಳಗಿದ ವಂದೇ ಮಾತರಂ!](https://vijaykarnataka.com/sports/cricket/news/india-vs-afghanistan-1st-t20i-vande-mataram-singing-before-national-anthem-jana-gana-mana/articleshow/134207476.cms)
@@ -62,18 +62,19 @@
 - [ಮಣ್ಣಿಗೆ ಜೀವ ತುಂಬುವ ಕಲಾವಿದ: ಮಂಗಳೂರಿನ ಪಾಡೇಶ್ವರದ ಕಿಶೋರ್‌ ಪೈ ಅವರ 25 ವರ್ಷಗಳ ಕಲಾ ತಪಸ್ಸು](https://vijaykarnataka.com/news/mangaluru/breathing-life-into-clay-kasaragodu-artist-kishore-pai-25-year-journey-of-sculpting-ganesha-idol/articleshow/134199584.cms)
 
 **The Hindu**
-- [Govt. raisin processing unit in Vijayapura to help farmers cut down on transportation costs to Maharashtra](https://www.thehindu.com/news/national/karnataka/govt-raisin-processing-unit-in-vijayapura-to-help-farmers-cut-down-on-transportation-costs-to-maharashtra/article71460038.ece)
-- [M.A. Baby blames ‘creation of false perception’ for CPI(M)’s debacle in Keralam](https://www.thehindu.com/news/national/kerala/ma-baby-blames-creation-of-false-perception-for-cpims-debacle-in-keralam/article71462835.ece)
-- [Teachers’ body seeks increase in rice allocation under mid-day meal scheme in Andhra Pradesh](https://www.thehindu.com/news/national/andhra-pradesh/teachers-body-seeks-increase-in-rice-allocation-under-mid-day-meal-scheme-in-andhra-pradesh/article71463899.ece)
-- [JSP has upper hand in Araku local body polls: Korikana Ravikumar](https://www.thehindu.com/news/national/andhra-pradesh/jsp-has-upper-hand-in-araku-local-body-polls-korikana-ravikumar/article71462907.ece)
-- [No restrictions on private vehicles during Tirumala Brahmotsavams, say police](https://www.thehindu.com/news/national/andhra-pradesh/no-restrictions-on-private-vehicles-during-tirumala-brahmotsavams-say-police/article71463951.ece)
-- [Second batch of Dasara elephants arrive in Mysuru Palace](https://www.thehindu.com/news/national/karnataka/second-batch-of-dasara-elephants-arrive-in-mysuru-palace/article71463961.ece)
-- [No proposal to remove meter readers: HMWS&SB](https://www.thehindu.com/news/national/telangana/no-proposal-to-remove-meter-readers-hmwssb/article71463803.ece)
-- [122.9 km ₹38,595-crore Hyderabad Metro Rail expansion plan awaits Centre-State JV](https://www.thehindu.com/news/national/telangana/1229-km-38595-crore-hyderabad-metro-rail-expansion-plan-awaits-centre-state-jv/article71420642.ece)
-- [79th martyrdom day of Banavara Ramaswamy observed in Mysuru](https://www.thehindu.com/news/national/karnataka/79th-martyrdom-day-of-banavara-ramaswamy-observed-in-mysuru/article71463934.ece)
-- [U.T. Khader dismisses allegations of Congress leaders complaining to ED against Minister Satish Jarkiholi](https://www.thehindu.com/news/national/karnataka/ut-khader-dismisses-allegations-of-congress-leaders-complaining-to-ed-against-minister-satish-jarkiholi/article71463928.ece)
+- [Kochi Corporation to roll out nutrient kits under TB eradication drive](https://www.thehindu.com/news/national/kerala/kochi-corporation-to-roll-out-nutrient-kits-under-tb-eradication-drive/article71459099.ece)
+- [State to seek ₹200 crore for underground drainage in Kakinada, says MAUD Minister](https://www.thehindu.com/news/national/andhra-pradesh/state-to-seek-200-crore-for-underground-drainage-in-kakinada-says-maud-minister/article71463611.ece)
+- [Four struck dead by lightning in separate incidents in Palnadu district](https://www.thehindu.com/news/national/andhra-pradesh/four-struck-dead-by-lightning-in-separate-incidents-in-palnadu-district/article71464133.ece)
+- [CPI(M)’s extended Keralam State committee meet begins in Kozhikode](https://www.thehindu.com/news/national/kerala/cpims-extended-keralam-state-committee-meet-begins-in-kozhikode/article71463971.ece)
+- [Modi’s bilateral meetings on BRICS sidelines put defence, security cooperation in focus](https://www.thehindu.com/news/national/modis-bilateral-meetings-on-brics-sidelines-put-defence-security-cooperation-in-focus/article71463737.ece)
+- [Over 6,000 kg of rice, wheat allegedly diverted from ration shops seized in Keralam](https://www.thehindu.com/news/national/kerala/over-6000-kg-of-rice-wheat-allegedly-diverted-from-ration-shops-seized-in-keralam/article71463645.ece)
+- [House burglary case: one held for stealing ₹40 lakh in gold, silver](https://www.thehindu.com/news/national/andhra-pradesh/house-burglary-case-one-held-for-stealing-40-lakh-in-gold-silver/article71463330.ece)
+- [Ponguleti counters BRS and BJP on 22-A with records, video evidence](https://www.thehindu.com/news/national/telangana/ponguleti-counters-brs-and-bjp-on-22-a-with-records-video-evidence/article71460953.ece)
+- [Youth allegedly assaulted, robbed near Aluva railway station](https://www.thehindu.com/news/national/kerala/youth-allegedly-assaulted-robbed-near-aluva-railway-station/article71463562.ece)
+- [Pain that persists after healing needs specialised care, say experts](https://www.thehindu.com/news/national/karnataka/pain-that-persists-after-healing-needs-specialised-care-say-experts/article71460272.ece)
 
 **Livemint**
+- [Britain once trained India's air force. Why are IAF pilots now training RAF pilots?](https://www.livemint.com/news/india/britain-once-trained-indias-air-force-why-are-iaf-pilots-now-training-raf-pilots-11789313614198.html)
 - [Techie chooses Hyderabad over Gurugram as job location, calls Gurgaon 1 of ‘5 sisters of agony’: Social media reacts](https://www.livemint.com/news/trends/techie-chooses-hyderabad-over-gurugram-as-job-location-calls-gurgaon-1-of-5-sisters-of-agony-social-media-reacts-11789312423529.html)
 - [Biscuitville, tiny Southern breakfast chain, beats McDonald’s and Chick-fil-A for America’s top breakfast spot](https://www.livemint.com/news/trends/biscuitville-tiny-southern-breakfast-chain-beats-mcdonald-s-and-chick-fil-a-for-america-s-top-breakfast-spot-11789307508682.html)
 - [Scotland, Wales and Northern Ireland unite over the UK’s future | Will Burnham be the last PM of the Union? Explained](https://www.livemint.com/news/world/scotland-wales-and-northern-ireland-unite-over-the-uk-s-future-will-burnham-be-the-last-pm-of-the-union-explained-11789299860842.html)
@@ -83,7 +84,6 @@
 - [When is Ganesh Chaturthi — September 14 or 15? Check shubh muhurat for Mumbai, Delhi and other cities](https://www.livemint.com/news/trends/when-is-ganesh-chaturthi-september-14-or-15-check-shubh-muhurat-for-mumbai-delhi-bangalore-11789303346858.html)
 - [India will be world’s largest economy this century, China ties can build multipolar world: US economist Jeffrey Sachs](https://www.livemint.com/news/india/india-will-be-world-s-largest-economy-this-century-china-ties-can-build-multipolar-world-us-economist-jeffrey-sachs-11789303588186.html)
 - [Modi flags ‘weaponisation’ of tech and critical minerals at BRICS summit](https://www.livemint.com/news/india/modi-flags-weaponisation-of-tech-and-critical-minerals-at-brics-summit-11789289760585.html)
-- [Brics business council pushes supply-chain resilience, AI cooperation](https://www.livemint.com/news/india/brics-business-council-pushes-supply-chain-resilience-ai-cooperation-11789297079358.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,47 +98,47 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಎರಡು ಬಣಗಳ ಭಿನ್ನಾಭಿಪ್ರಾಯ : ವಾಲ್ಪಾಡಿಯಲ್ಲಿ ಪೊಲೀಸ್ ಬಂದೋಬಸ್ತ್‌ನಲ್ಲಿ ನಡೆದ ಸೋಣದ ಕೋಲ](https://www.varthabharati.in/DakshinaKannada/--2275056)
+- [ರಮಾನಾಥ ರೈ 75 ನೇ ಹುಟ್ಟುಹಬ್ಬ ಸಂಭ್ರಮ, ಲಾಂಛನ ಬಿಡುಗಡೆ ಕಾರ್ಯಕ್ರಮ](https://www.varthabharati.in/DakshinaKannada/-75--2275055)
+- [ನಮ್ಮ ʼಗ್ಯಾರಂಟಿʼ ಯೋಜನೆಗಳನ್ನು ಟ್ರಂಪ್ ಕೂಡ ನಕಲು ಮಾಡುತ್ತಿದ್ದಾರೆ : ಸಿಎಂ‌ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್](https://www.varthabharati.in/state/cm-dk-shivakumar-2275054)
+- [ಬೆಳ್ತಂಗಡಿ | "ತಾಜುಲ್ ಉಲಮಾ ಎಟ್ಟಿಕ್ಕುಳಂ ದರ್ಸ್" ಗೆ ಹತ್ತು ಲಕ್ಷ ರೂ. ಚೆಕ್ ಹಸ್ತಾಂತರ](https://www.varthabharati.in/DakshinaKannada/--2275052)
 - [ಮುಲ್ಕಿ:  ಮೀಲಾದುನ್ನಬಿ, ವಾರ್ಷಿಕ‌ ಸ್ವಲಾತ್ ಮಜ್ಲಿಸ್, ಮದ್ರಸ ವಿದ್ಯಾರ್ಥಿಗಳ ಪ್ರತಿಭಾ ಕಾರ್ಯಕ್ರಮ](https://www.varthabharati.in/DakshinaKannada/--2275051)
 - [ಒಮಾನ್‌ ಕರಾವಳಿಯಲ್ಲಿ ವಾಣಿಜ್ಯ ನೌಕೆಗೆ ದಾಳಿ; 13 ಭಾರತೀಯರ ರಕ್ಷಣೆ](https://www.varthabharati.in/international/india-condemns-attack-on-merchant-vessel-off-oman-coast-says-13-indians-rescued-2275050)
 - [ಜಾಮಿಯಾ ಇಸ್ಲಾಮಿಯಾ ಭಟ್ಕಳದ ನೂತನ ಪದಾಧಿಕಾರಿಗಳ ಆಯ್ಕೆ](https://www.varthabharati.in/uttara-kannada/--2275049)
 - [Telangana | ಕಂಟೋನ್ಮೆಂಟ್‌ ಗೆ ದ್ವಿಚಕ್ರ ವಾಹನದಲ್ಲಿ ಬಂದು 12 ಶಸ್ತ್ರಾಸ್ತ್ರ ದೋಚಿದ ಸೇನೆಯಿಂದ ವಜಾಗೊಂಡಿದ್ದ ಮಾಜಿ ಹವಾಲ್ದಾರ್!](https://www.varthabharati.in/National/ex-army-man-rides-scooty-into-telangana-cantonment-pulls-off-arms-heist-2275048)
 - [Punjab | ಸೆ.14ರಿಂದ AAPಯ 7 ಸಚಿವರು, ಸ್ಪೀಕರ್ ನಿವಾಸದ ಮುಂದೆ ರೈತರಿಂದ ಪ್ರತಿಭಟನೆ](https://www.varthabharati.in/National/punjab-farmers-to-start-five-day-protest-from-monday-outside-residences-of-seven-aap-ministers-speaker-2275047)
 - [ನಾನೂ ಒಬ್ಬ ‘ದಿಮಾಗಿ ನಕ್ಸಲ್’: ಕಪಿಲ್ ಸಿಬಲ್](https://www.varthabharati.in/National/i-am-a-dimagi-naxal-rajya-sabha-mp-kapil-sibal-2275046)
-- [ಲ್ಯಾಂಡ್ ಟ್ರೇಡ್ಸ್ ಬಿಲ್ಡರ್ಸ್ ಆ್ಯಂಡ್ ಡೆವಲಪರ್ಸ್ ಸಂಸ್ಥೆಯ 45ನೇ ಯೋಜನೆ ‘ಲಕ್ಷ್ಮಿ ಗೋವಿಂದ್’ ಲೋಕಾರ್ಪಣೆ](https://www.varthabharati.in/DakshinaKannada/lakshmi-govind-the-45th-project-of-land-trades-builders-and-developers-inaugurated-2275045)
-- [ಉಕ್ಕಿನ ತ್ಯಾಜ್ಯದಿಂದ ವಿಶ್ವದ ಅತಿ ಉದ್ದದ ರಸ್ತೆ ನಿರ್ಮಿಸಿದ ಜಿಂದಾಲ್ ಉಕ್ಕು ಕಂಪೆನಿ: ಗಿನ್ನೆಸ್ ದಾಖಲೆಗೆ ಸೇರ್ಪಡೆ](https://www.varthabharati.in/National/jindal-steel-builds-worlds-longest-steel-slag-road-enters-guinness-world-records-2275044)
-- [ಸಚಿವ ಸಂಪುಟ ಸಭೆಗೆ ಮೆರವಣಿಗೆ-ಆಗ್ರಹ ಪತ್ರ ಸಲ್ಲಿಸಲು ಸಿಪಿಎಂ ನಿರ್ಧಾರ](https://www.varthabharati.in/DakshinaKannada/--2275042)
-- [15 ಮಿಲಿಯನ್ ವರ್ಷಗಳ ವಿಕಾಸದ ರಹಸ್ಯ; ಮನುಷ್ಯ-ವಾನರರ ನಗುವಿನ ಮೂಲ ಲಯವೊಂದೇ!](https://www.varthabharati.in/vishesha-varadigalu/why-humans-and-apes-still-laugh-in-a-similar-rhythm-after-15-million-years-of-evolution-2275041)
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (5.5)
 - Emkay Global Financial (5.0)
-- Brics (4.2)
-- BRICS (3.5)
+- BRICS (4.8)
 - ICICI Securities (3.0)
 - target (3.0)
 - Assam (2.9)
+- Keralam (2.9)
+- Brics (2.6)
 - Iran (2.6)
 - Oman (2.6)
-- Trump (2.6)
-- Scissors (2.6)
-- Keralam (2.6)
+- Bengal (2.6)
+- Modi (2.6)
 - Buy Bajaj Finance (2.0)
-- Summit (1.9)
-- Modi (1.6)
+- India's (1.6)
+- Delhi (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ['हम उम्मीदवार नहीं उतारेंगे...'; नंदीग्राम उपचुनाव में TMC के बागी गुट का ममता बनर्जी को ऑफर](https://www.jagran.com/west-bengal/kolkata-tmc-rebels-offer-mamata-banerjee-clear-path-in-nandigram-byelection-news-in-hindi-40371584.html)
-- [Maruti Dzire की दुश्मन... अचानक 100% बढ़ी सेल, अगस्त में हुई बंपर बिक्री](https://www.aajtak.in/auto/news/story/honda-amaze-august-2026-sales-price-mileage-features-auam-dskc-2641567-2026-09-13)
-- [Mohammed Siraj: জাতীয় দলের জার্সিতে ধারাবাহিক পারফরম্য়ান্স, রঞ্জিতে নতুন ভূমিকায় দেখা যাবে সিরাজকে](https://bengali.abplive.com/sports/cricket/indian-fast-bowler-mohammed-siraj-to-captain-hyderabad-ranji-trophy-match-1192614)
-- [മോദിയുടെ അത്താഴവിരുന്നിൽ പങ്കെടുക്കാതെ ഷി ചിൻപിങ്](https://www.manoramaonline.com/news/latest-news/2026/09/13/xi-jinping-skips-brics-dinner-modi-hosts.html)
-- [पाकिस्तानच्या क्रिकेट इतिहासातला सगळ्यात वाईट काळ, ९ वेळा अब्रू गेली... पाहा हैराण करणारी आकडेवारी](https://www.lokmat.com/cricket/news/pakistan-cricket-team-in-worst-situation-in-sena-countries-never-won-test-in-8-years-gets-clean-sweep-9-times-a-a747/)
-- [അടിമാലിയിലെ ഇരട്ടക്കുട്ടികളുടെ മരണം; മരണകാരണം കീടനാശിനി ഉള്ളില്‍ ചെന്നതെന്ന് പോസ്റ്റ്‌മോര്‍ട്ടം റിപ്പോർട്ട്](https://www.reporterlive.com/topnews/kerala/2026/09/13/adimali-twin-children-accident-pesticide-poisoning-postmortem-report)
-- [कब दोबारा खुलेगा स्ट्रेट ऑफ होर्मुज? ईरान ने भारत से दिया US को हार्ड मैसेज; क्या रखीं शर्तें](https://www.livehindustan.com/national/when-will-strait-of-hormuz-resume-iran-conveys-message-to-us-via-india-conditions-201789269301379.html)
-- [Pakistani actress Mahira Khan announces second pregnancy at 41 in a stunning white dress, expecting baby with Salim Karim](https://timesofindia.indiatimes.com/life-style/fashion/celeb-style/pakistani-actress-mahira-khan-announces-second-pregnancy-at-41-in-a-stunning-white-dress-expecting-baby-with-salim-karim/articleshow/134174897.cms)
-- [Ashatai Buchke: भाजपच्या ज्येष्ठ नेत्या आशाताई बुचके यांचे निधन; जुन्नरमध्ये शोककळा](https://pudhari.news/maharashtra/pune/ashatai-buchke-death-junnar-bjp-senior-leader-sk04)
-- [அமெரிக்க ஓபன் டென்னிஸ் இறுதிப் போட்டி: அலெக்சாண்டர் ஜிவேரேவ் - பென் ஷெல்டன் மோதல்](https://www.hindutamil.in/news/sports/alexander-zverev-vs-ben-shelton-clash-in-us-open-tennis-final)
+- [Three years before 9/11, CIA warned Clinton that Bin Laden wanted to strike India](https://timesofindia.indiatimes.com/india/three-years-before-9/11-cia-warned-clinton-that-bin-laden-wanted-to-strike-india/articleshow/134176092.cms)
+- ['వన్​ వే'తో కేబీఆర్​ పార్క్​ ట్రాఫిక్​ ప్రాబ్లమ్​ సాల్వ్​! - ఆ రూ.వేల కోట్ల ప్రాజెక్టులు అవసరమా?](https://www.etvbharat.com/te/state/kbr-park-traffic-issues-and-progress-of-flyover-and-underpass-projects-undertaken-tgs26091300485)
+- [अब आएगा Tata Sons का आईपीओ, RBI के इस फैसले से रास्ता साफ](https://www.aajtak.in/business/news/story/tata-sons-ipo-update-rbi-rejects-bid-to-surrender-nbfc-licence-tutc-dskc-2641777-2026-09-13)
+- [मोदींच्या डिनरला जिनपिंग यांची दांडी; चर्चेनंतर गैरहजेरी](https://www.loksatta.com/desh-videsh/xi-jinping-skips-modi-brics-gala-dinner-diplomatic-news-sgk-96-6134393/)
+- [വൈദ്യുതി പ്രതിസന്ധി: ഡി.വൈ.എഫ്.ഐ ചൂട്ടുമാർച്ച്](https://www.madhyamam.com/kerala/kasaragod/dyfi-torchlight-march-against-power-crisis-1554011)
+- [इंडोनेशिया: 240 यात्रियों को ले जा रहा जहाज जावा सागर में लापता, सर्च ऑपरेशन शुरू](https://www.jagran.com/world/indonesia-indonesia-ship-with-a-lot-passengers-missing-in-java-sea-40371602.html)
+- [Mood of Telangana | రేవంత్ పాలనపై జనం మూడ్ ఇదే.. నియోజకవర్గాల వారీగా ‘మూడ్‌ ఆఫ్‌ తెలంగాణ’ సంచలన సర్వే రిపోర్టు!](https://www.ntnews.com/telangana/mood-of-telangana-survey-shows-kcr-leading-revanth-reddy-across-118-constituencies-2510035)
+- [India vs Afghanistan: ഇന്ത്യ-അഫ്ഗാനിസ്ഥാൻ ടി20 പരമ്പരയ്ക്ക് ഇന്ന് തുടക്കം](https://www.asianetnews.com/cricket-sports/india-vs-afghanistan-t20-series-begins-today-suspense-surrounds-sanju-samsons-place-in-playing-xi-articleshow-yptigsg)
+- [தமிழ் ஹாக்கி லீக் போட்டி: எஸ்டிஏடி அணி சாம்பியன்](https://www.hindutamil.in/news/sports/sdat-team-crowned-champions-in-tamil-hockey-league)
+- [Larry Ellison cancels plan to sell $7.5 billion of Oracle stock after Europe has a problem with 'his timing'](https://timesofindia.indiatimes.com/technology/tech-news/larry-ellison-cancels-plan-to-sell-7-5-billion-of-oracle-stock-after-europe-has-a-problem-with-his-timing/articleshow/134175638.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
