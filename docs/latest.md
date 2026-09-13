@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-13 22:34:57
+# India Trending Report — 2026-09-13 23:01:36
 
 ## Google Trends (India) — top trending searches
 1. [binance](https://trends.google.com/trending/rss?geo=IN)
@@ -9,21 +9,21 @@
 6. [jonathan david](https://trends.google.com/trending/rss?geo=IN)
 7. [trinity rodman](https://trends.google.com/trending/rss?geo=IN)
 8. [real sociedad vs atlético madrid standings](https://trends.google.com/trending/rss?geo=IN)
-9. [luke shaw](https://trends.google.com/trending/rss?geo=IN)
-10. [fauda](https://trends.google.com/trending/rss?geo=IN)
+9. [stade brestois vs psg standings](https://trends.google.com/trending/rss?geo=IN)
+10. [luke shaw](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [India women's team refuses to take Asia Cup trophy from Mohsin Naqvi](https://timesofindia.indiatimes.com/sports/cricket/news/india-womens-team-refuses-asia-cup-trophy-from-mohsin-naqvi-after-title-win/articleshow/134220894.cms)
 - [Brics 2026: Xi listening, PM Modi warns against weaponisation of minerals, tech](https://timesofindia.indiatimes.com/india/brics-day-2-pm-flags-critical-minerals-tech-weaponisation-amid-global-tensions/articleshow/134220477.cms)
 - [Oil infra hit by Ukraine, Russia gets 70% of its fuel from India](https://timesofindia.indiatimes.com/business/international-business/oil-infra-hit-by-ukraine-russia-gets-70-of-its-fuel-from-india/articleshow/134223885.cms)
-- [For governance draft, MHA asks Ladakh bodies to answer 7 queries](https://timesofindia.indiatimes.com/india/for-governance-draft-mha-asks-ladakh-bodies-to-answer-7-queries/articleshow/134227505.cms)
+- [Murder accused's 'victory march': SC asks Haryana police to produce him in court](https://timesofindia.indiatimes.com/india/murder-accused-takes-out-victory-march-after-bail-sc-tells-haryana-cops-to-produce-him-in-court/articleshow/134229198.cms)
 - [‘Some regional countries requested’: Iran after meeting with Gulf states in Oman postponed](https://timesofindia.indiatimes.com/world/middle-east/some-regional-countries-requested-iran-after-meeting-with-gulf-states-in-oman-postponed/articleshow/134224097.cms)
 - [Mark Zuckerberg's secret project wanted Meta teams 60% smaller and run by AI agents](https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-ran-a-secret-project-to-make-the-company-ai-native-asked-teams-to-study-impact-of-/articleshow/134212125.cms)
 - [Sweden opposition holds slender lead in tight election, projection shows a](https://timesofindia.indiatimes.com/world/europe/sweden-opposition-holds-narrow-lead-in-tight-election-projection-shows-as-vote-counting-continues/articleshow/134226934.cms)
 - [Mayawati refutes illness claims, appears before media to dispel doubts](https://timesofindia.indiatimes.com/city/lucknow/maya-refutes-illness-claims-appears-before-media-to-dispel-doubts/articleshow/134220351.cms)
+- [For governance draft, MHA asks Ladakh bodies to answer 7 queries](https://timesofindia.indiatimes.com/india/for-governance-draft-mha-asks-ladakh-bodies-to-answer-7-queries/articleshow/134227505.cms)
 - [Jeff Bezos’ ex-wife MacKenzie Scott gives $60 million to global methane fight](https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-gives-60-million-to-global-methane-fight-as-cutting-the-invisible-gas-becomes-a-climate-priority/articleshow/134063334.cms)
-- [Bijnor’s herbal tea makes a splash at Brics dinner](https://timesofindia.indiatimes.com/city/meerut/bijnors-herbal-tea-makes-a-splash-at-brics-dinner/articleshow/134215782.cms)
 
 **NDTV**
 - [BRICS Summit 2026 Highlights: PM Modi Thanks Leaders For Making BRICS Summit In Delhi "Productive"](https://www.ndtv.com/india-news/brics-summit-2026-live-updates-today-pm-narendra-modi-putin-xi-jinping-meet-bharat-mandapam-traffic-new-delhi-declaration-backs-return-of-antiquities-12039405#publisher=newsstand)
@@ -49,19 +49,11 @@
 - [NEET to move to computer-based test ‘very soon’, says NTA DG: ‘It’s the future'](https://www.hindustantimes.com/india-news/neet-exam-to-move-to-computer-based-test-very-soon-says-nta-dg-its-the-future-national-testing-agency-101789305122212.html)
 - [India condemns attack on ship off Oman as seafarer remains missing; 13 Indian crew members rescued](https://www.hindustantimes.com/india-news/india-condemns-attack-on-vessel-off-oman-coast-13-indian-crew-members-rescued-1-missing-101789311281232.html)
 
-**Vijay Karnataka**
-- [Women's Asia Cup 2026- ಮೊಂಡುತನ ಬಿಡದ ಮೊಹ್ಸಿನ್ ನಖ್ವಿ; ಈಗ ಹರ್ಮನ್ ಪ್ರೀತ್ ಕೌರ್ ಪಡೆಯಿಂದಲೂ ಮಂಗಳಾರತಿ!](https://vijaykarnataka.com/sports/cricket/news/indian-womens-team-also-refuses-to-collect-asia-cup-2026-trophy-from-acc-president-mohsin-naqvi/articleshow/134222126.cms)
-- [ಬ್ರಿಕ್ಸ್‌ ಶೃಂಗಸಭೆ ಮುಗಿಸಿ ತಾಯ್ನಾಡಿಗೆ ಮರಳಿದ ವ್ಲಾಡಿಮಿರ್‌ ಪುಟಿನ್-ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್:‌ ಹೇಗಿತ್ತು ಪವರ್‌ಫುಲ್‌ ಅಧ್ಯಕ್ಷರ ಭಾರತ ಪ್ರವಾಸ?](https://vijaykarnataka.com/news/india/vladimir-putin-and-xi-jinping-departs-from-delhi-after-participating-in-brics-summit-2026/articleshow/134201444.cms)
-- [ಸ್ಮೃತಿ ಮಂದಾನ, ಶಫಾಲಿ ವರ್ಮಾ, ಶ್ರೀ ಚರಣಿ ಆರ್ಭಟಕ್ಕೆ ಲಂಕಾ ಪಡೆ ಧೂಳೀಪಟ: 8ನೇ ಬಾರಿ ಮಹಿಳಾ ಏಷ್ಯಾ ಕಪ್ ಗೆದ್ದ ಭಾರತ!](https://vijaykarnataka.com/sports/cricket/news/india-beat-sri-lanka-by-72-runs-bags-women-asia-cup-for-8th-time/articleshow/134216792.cms)
-- [ಹೆಚ್ಚು ಗಂಟೆಗಳ ಕೆಲಸ ಹೃದಯಕ್ಕೆ ಅಪಾಯವೇ? ಕೆಲಸದ ಒತ್ತಡದಿಂದ ಹೃದಯಾಘಾತದ ಅಪಾಯ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/health/world-heart-day-2026-long-working-hours-heart-attack-risk/articleshow/134193727.cms)
-- [ಅಭಿಷೇಕ್ ಶರ್ಮಾ ಅಬ್ಬರಕ್ಕೆ ಅಫ್ಘಾನಿಸ್ತಾನ ನಿರುತ್ತರ; ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ಪಡೆಗೆ 7 ವಿಕೆಟ್ ಜಯಭೇರಿ](https://vijaykarnataka.com/sports/cricket/news/abhishek-sharma-half-century-india-beat-afghanistan-by-7-wickets/articleshow/134213631.cms)
-- [ಮೊದಲ ವಾರವೇ ʻಬಿಗ್‌ ಬಾಸ್‌ʼನಿಂದ ಎಲಿಮಿನೇಟ್‌ ಆದ ಪ್ರಥಮಾಗೆ ಸಿಕ್ಕ ಕ್ಯಾಶ್‌ ಪ್ರೈಜ್‌ ಎಷ್ಟು?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-prathama-prasad-eliminated-wins-3-lakh-cash-prize/articleshow/134216941.cms)
-- [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
-- [ಗೌರಿ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ| Gowri AshTOttara Shatanamavali Lyrics In Kannada](https://vijaykarnataka.com/religion/pooja-vidhana/gowri-ashtottara-shatanamavali-lyrics-in-kannada/articleshow/134186649.cms)
-- [BRICS ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಜಹ್ರಾ ಸರಳ ಫ್ಯಾಷನ್ ಲುಕ್; ಭಾರತೀಯ ಕಲೆ-ಸಂಸ್ಕೃತಿಗೆ ಮನಸೋತ ಇರಾನ್ ಅಧ್ಯಕ್ಷರ ಪುತ್ರಿ](https://vijaykarnataka.com/lifestyle/fashion/iranian-president-daughter-zahra-brics-market-fashion-look-indian-culture/articleshow/134179578.cms)
-- [ಬ್ರಿಟನ್ ವಿಭಜನೆಗೆ ಪ್ರಯತ್ನ!: ಯುನೈಟೆಡ್ ಕಿಂಗ್ ಡಂನಿಂದ ಸ್ಕಾಟ್ಲೆಂಡ್, ವೇಲ್ಸ್‌, ಉತ್ತರ ಐರ್ಲೆಂಡ್‌ ಹೊರಕ್ಕೆ?](https://vijaykarnataka.com/news/world/scotland-wales-and-northern-ireland-out-of-the-united-kingdom/articleshow/134212724.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [Man killed by falling boulders near Cheerbasa Helipad as Kedarnath Yatra suspended temporarily](https://www.thehindu.com/news/national/uttarakhand/kedarnath-yatra-suspended-temporarily-man-killed/article71464684.ece)
+- [Maratha quota protest: Jarange alleges conspiracy to kill him during Mumbai march even as Azad Maidan permission denied](https://www.thehindu.com/news/national/maharashtra/maratha-reservation-protest-conspiracy-to-kill-me-during-mumbai-march-alleges-jarange/article71463158.ece)
 - [Centre treating Bihar as stepchild: Tejashwi Yadav on flood-related issues](https://www.thehindu.com/news/national/bihar/centre-treating-bihar-as-stepchild-tejashwi-yadav-on-flood-related-issues/article71463495.ece)
 - [BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas](https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece)
 - [Asia Cup: Indian women's cricket team refuses to accept trophy from ACC head Mohsin Naqvi](https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece)
@@ -70,10 +62,9 @@
 - [Pre-booking of photo book on Indira Gandhi launched](https://www.thehindu.com/news/national/tamil-nadu/pre-booking-of-photo-book-on-indira-gandhi-launched/article71463361.ece)
 - [Left parties to contest in Tamil Nadu bypolls; CPI to field candidate in Dharapuram, CPI(M) in Madurantakam](https://www.thehindu.com/news/national/tamil-nadu/left-parties-to-contest-in-tamil-nadu-bypolls-cpi-to-field-candidate-in-dharapuram-cpim-in-madurantakam/article71462935.ece)
 - [BJP imposing its 'deeply problematic' dietary preferences on foreign dignitaries, says Congress on BRICS dinner](https://www.thehindu.com/news/national/80-indians-non-vegetarian-indian-non-vegetarian-food-is-delicious-says-rahul/article71463063.ece)
-- [Stalled ferry services to two key jetties hit tourists, commuters](https://www.thehindu.com/news/national/kerala/tourists-hit-as-ferry-services-to-two-kochi-prime-jetties-remain-stalled/article71462982.ece)
-- [Two held for alleged robbery bid in Kozhikode](https://www.thehindu.com/news/national/kerala/two-held-in-alleged-robbery-bid/article71463473.ece)
 
 **Livemint**
+- [Iranian Official Blocked From UN Nuclear Meeting at US’s Urging](https://www.livemint.com/news/us-news/iranian-official-blocked-from-un-nuclear-meeting-at-us-s-urging-11789339124139.html)
 - [Student suspended for bringing coffee on first day of school after refusing to throw drink away](https://www.livemint.com/news/us-news/student-suspended-for-bringing-coffee-on-first-day-of-school-after-refusing-to-throw-drink-away-11789333115390.html)
 - [Brics Women’s Business Alliance urges supply chain access and scale for women-led entrepreneurship](https://www.livemint.com/news/india/brics-women-s-business-alliance-urges-supply-chain-access-and-scale-for-women-led-entrepreneurship-11789301032517.html)
 - [Maratha quota battle heads to Mumbai? Activist Manoj Jarange Patil warns of fast unto death at Azad Maidan](https://www.livemint.com/news/india/maratha-quota-battle-heads-to-mumbai-activist-manoj-jarange-patil-warns-of-fast-unto-death-at-azad-maidan-11789323910846.html)
@@ -83,7 +74,6 @@
 - [Who is Anupriya Nagar? 21-year-old who used UK part-time savings to back  ₹200 crore hit ‘Hanuman Ansh’](https://www.livemint.com/news/trends/who-is-anupriya-nagar-21-year-old-who-used-uk-part-time-savings-to-back-200-crore-hit-hanuman-ansh-11789320641132.html)
 - [Ganesh Chaturthi 2026: 66 kg gold, 335 kg silver &  ₹703 cr insurance cover— Inside Mumbai's GSB Seva Mandal preparations](https://www.livemint.com/news/india/ganesh-chaturthi-202666-kg-gold-335-kg-silver-703-cr-insurance-cover-inside-mumbai-gsb-seva-mandals-preparatio-11789307042325.html)
 - [Britain once trained India's air force. Why are IAF pilots now training RAF pilots?](https://www.livemint.com/news/india/britain-once-trained-indias-air-force-why-are-iaf-pilots-now-training-raf-pilots-11789313614198.html)
-- [Techie chooses Hyderabad over Gurugram as job location, calls Gurgaon 1 of ‘5 sisters of agony’: Social media reacts](https://www.livemint.com/news/trends/techie-chooses-hyderabad-over-gurugram-as-job-location-calls-gurgaon-1-of-5-sisters-of-agony-social-media-reacts-11789312423529.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -101,34 +91,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (10.0)
-- BRICS (3.8)
-- Brics (3.5)
+- Mumbai (3.2)
 - Bangladesh (3.2)
 - BRICS Summit (3.0)
+- Azad Maidan (3.0)
 - Indian (2.9)
 - Ukraine (2.6)
 - Russia (2.6)
 - Oman (2.6)
 - Delhi (2.6)
-- Gurugram (2.6)
 - House (2.6)
+- Maratha (2.6)
+- BRICS (2.5)
+- Brics (2.2)
 - Asia Cup (2.0)
-- Mohsin Naqvi (2.0)
-- PM Modi (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Konda Surekha | నెల కూడా ఆగకుండా కాంగ్రెస్‌లోకి కడియం శ్రీహరి జంప్‌ : కొండా సురేఖ](https://www.ntnews.com/warangal-rural/kadiyam-srihari-joined-congress-party-within-a-month-says-konda-surekha-2510211)
-- [மகளிர் டி20 ஆசிய கோப்பை 2026 | இலங்கைக்கு பதிலடி கொடுக்குமா இந்திய மகளிர் அணி?](https://www.etvbharat.com/ta/sports/india-eye-asia-cup-final-redemption-against-sri-lanka-tns26091303026)
-- [അതിവേഗം കുതിപ്പ്, നിയന്ത്രണം വിട്ട് ഇടിച്ചു; ഹാമിൽട്ടൺ അപകടത്തിൽപ്പെടുന്ന ദൃശ്യങ്ങൾ പുറത്ത്](https://www.mathrubhumi.com/sports/other-sports/lewis-hamilton-ferrari-crash-spanish-gp-practice-lmvma22m)
-- [அஜித் சந்திப்பு: பிரிட்டன் கார் பந்தயம்](https://www.tamilmurasu.com.sg/tamilnadu/britain-car-race-vijay-personally-met-and-congratulated-ajith)
-- [Pawan Coming Back, CM Sends Warm Message](https://www.gulte.com/political-news/431396/pawan-coming-back-cm-sends-warm-message)
-- [Konda Surekha: పదవి పోయిందని ఇంట్లో కూర్చోం.. కొండా సురేఖ కీల‌క వ్యాఖ్య‌లు](https://telugu.asianetnews.com/gallery/telangana/konda-surekha-makes-key-remarks-after-losing-minister-post-says-she-will-stay-among-people-qikhll3)
-- [BRICS Summit | చైనా అధ్యక్షుడు జిన్‌పింగ్ పరిస్థితిని చూసి.. బ్రిక్స్‌ ప్రసంగాన్ని ఆపిన ప్రధాని మోదీ](https://www.ntnews.com/national/pm-modi-pauses-brics-speech-to-check-on-chinese-president-xi-jinping-2510188)
-- [Ambalal Patel: અંબાલાલ પટેલ અને હવામાન વિભાગની ઘાતક આગાહી, 12 ઇંચ સુધી વરસાદ તૂટી પડશે, જાણો અપડેટ](https://gujarati.abplive.com/news/gujarat/gujarat-weather-forecast-imd-and-ambalal-patel-heavy-rain-alert-update-991095)
-- [25 करोड़ के IPL स्टार ने गर्लफ्रेंड से रचाई शादी, बला की खूबसूरत लग रहीं दुल्हन की तस्वीरें वायरल](https://www.aajtak.in/sports/cricket/story/cameron-green-and-emily-redwood-are-officially-husband-and-wife-picture-goes-viral-aksp-dskc-2642036-2026-09-13)
-- [‘Indian non-veg food is delicious’: Rahul Gandhi's veiled dig at BRICS Summit menu](https://www.hindustantimes.com/india-news/indian-non-veg-food-is-delicious-rahul-gandhis-veiled-dig-at-brics-summit-menu-101789289396284.html)
+- [ट्रंप नहीं खत्म कर पाए डेडलॉक, यूक्रेन पर PM मोदी और जिनपिंग ने रूस को की मदद की पेशकश!](https://www.aajtak.in/world/story/pm-modi-and-china-president-jinping-offered-mediation-ukraine-war-russia-putin-ntcppl-dskc-2642022-2026-09-13)
+- [Konda Surekha: పదవి నుంచి తొలగించినందుకు బాధగా లేదు, మళ్లీ మంత్రిని అవుతాను: కొండా సురేఖ ధీమా](https://telugu.abplive.com/telangana/warangal/konda-surekha-launches-scathing-attack-on-rivals-reaffirms-congress-loyalty-258844)
+- [Manoj Jarange: आझाद मैदानावरील आंदोलनाला परवानगी पोलिसांनी नाकारल्यानंतर जरांगेंचा संताप: म्हणाले 'जर तुम्ही रोखणार असाल तर...'](https://marathi.abplive.com/news/politics/manoj-jaranges-reaction-after-the-police-denied-permission-for-the-protest-at-azad-maidan-1438987)
+- [BRICS में सब कुछ ठीक है? ब्राजील के राष्ट्रपति की गैरमौजूदगी और सऊदी के रुख पर भारत के जियोपॉलिटिकल एक्सपर्ट ने उठाए सवाल](https://navbharattimes.indiatimes.com/india/brics-summit-lula-absence-saudi-arabia-brics-brahma-chellaney/articleshow/134193954.cms)
+- [ఎవరికీ చెడు చేయాలని అనుకోను.. భావోద్వేగానికి గురైన స్మృతి మంధాన](https://www.andhrajyothy.com/2026/sports/smriti-mandhana-emotional-podcast-interview-world-cup-hardest-night-srav-1557869.html)
+- [ബ്രിക്സ് ഉച്ചകോടിക്ക് സമാപനം, നന്ദി അറിയിച്ച് മോദി; അപൂര്‍വ ധാതുക്കള്‍ ആയുധമാക്കുന്നത് പുരോഗതിക്ക് തടസ്സമാകുമെന്ന് പരാമർശം](https://www.asianetnews.com/international-news/brics-summit-concludes-modi-expresses-gratitude-articleshow-8xrtoy2)
+- [यूक्रेन युद्ध सुलझाने में मदद की पेशकश, पुतिन ने किया स्वागत](https://www.jagran.com/news/national-pm-modi-xi-offer-russiaukraine-war-mediation-putin-welcomes-40371996.html)
+- [पीएम मोदी ने किया 18वें ब्रिक्स समिट के समापन का ऐलान, बोले- 'नई दिल्ली डिक्लेरेशन' साझा विजन को देगा नई दिशा](https://navbharattimes.indiatimes.com/india/brics-summit-2026-pm-modi-announces-conclusion-new-delhi-declaration-to-give-new-direction-to-shared-vision/articleshow/134193934.cms)
+- [मनोज जरांगे यांना आझाद मैदानात आंदोलन करण्याची परवानगी पोलिसांनी नाकारली, 'ही' दिली कारणे](https://www.bbc.com/marathi/articles/c62k5yen682o)
+- [BRICS Summit | బ్రిక్స్ స‌ద‌స్సులో జిన్‌పింగ్ ప్ర‌సంగం.. ఐదు అంశాల‌పై దృష్టి పెట్టాల‌ని సూచ‌న‌](https://www.ntnews.com/national/chinas-president-xi-jinping-backs-stronger-global-south-ties-proposes-5-initiatives-at-brics-summit-2510187)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
