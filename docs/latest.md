@@ -1,7 +1,7 @@
-# India Trending Report — 2026-09-13 21:33:08
+# India Trending Report — 2026-09-13 22:01:52
 
 ## Google Trends (India) — top trending searches
-1. [jonathan david](https://trends.google.com/trending/rss?geo=IN)
+1. [అభిషేక్ శర్మ](https://trends.google.com/trending/rss?geo=IN)
 2. [real sociedad vs atlético madrid standings](https://trends.google.com/trending/rss?geo=IN)
 3. [luke shaw](https://trends.google.com/trending/rss?geo=IN)
 4. [fauda](https://trends.google.com/trending/rss?geo=IN)
@@ -17,13 +17,13 @@
 - [India women's team refuses to take Asia Cup trophy from Mohsin Naqvi](https://timesofindia.indiatimes.com/sports/cricket/news/india-womens-team-refuses-asia-cup-trophy-from-mohsin-naqvi-after-title-win/articleshow/134220894.cms)
 - [Brics 2026: Xi listening, PM Modi warns against weaponisation of minerals, tech](https://timesofindia.indiatimes.com/india/brics-day-2-pm-flags-critical-minerals-tech-weaponisation-amid-global-tensions/articleshow/134220477.cms)
 - [Oil infra hit by Ukraine, Russia gets 70% of its fuel from India](https://timesofindia.indiatimes.com/business/international-business/oil-infra-hit-by-ukraine-russia-gets-70-of-its-fuel-from-india/articleshow/134223885.cms)
-- [Bijnor’s herbal tea makes a splash at Brics dinner](https://timesofindia.indiatimes.com/city/meerut/bijnors-herbal-tea-makes-a-splash-at-brics-dinner/articleshow/134215782.cms)
 - [‘Some regional countries requested’: Iran after meeting with Gulf states in Oman postponed](https://timesofindia.indiatimes.com/world/middle-east/some-regional-countries-requested-iran-after-meeting-with-gulf-states-in-oman-postponed/articleshow/134224097.cms)
+- [Sweden election deadlocked between ruling bloc and centre-left opposition, exit polls show](https://timesofindia.indiatimes.com/world/europe/sweden-election-deadlocked-as-ruling-bloc-centre-left-opposition-vie-for-power-exit-polls-show/articleshow/134226934.cms)
 - [Mark Zuckerberg's secret project wanted Meta teams 60% smaller and run by AI agents](https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-ran-a-secret-project-to-make-the-company-ai-native-asked-teams-to-study-impact-of-/articleshow/134212125.cms)
 - [Mayawati refutes illness claims, appears before media to dispel doubts](https://timesofindia.indiatimes.com/city/lucknow/maya-refutes-illness-claims-appears-before-media-to-dispel-doubts/articleshow/134220351.cms)
-- [Is UK heading for breakup? Scotland, Wales and Northern Ireland push for independence](https://timesofindia.indiatimes.com/world/uk/is-uk-heading-for-a-breakup-scotland-wales-and-northern-ireland-push-for-independence/articleshow/134201489.cms)
-- [Minutes after Boris Johnson, European leaders pass through, Russia strikes Ukrainian train near Poland border](https://timesofindia.indiatimes.com/world/europe/russia-strikes-train-near-poland-border-minutes-after-boris-johnson-european-leaders-pass-through/articleshow/134216343.cms)
+- [Bijnor’s herbal tea makes a splash at Brics dinner](https://timesofindia.indiatimes.com/city/meerut/bijnors-herbal-tea-makes-a-splash-at-brics-dinner/articleshow/134215782.cms)
 - [Jeff Bezos’ ex-wife MacKenzie Scott gives $60 million to global methane fight](https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-gives-60-million-to-global-methane-fight-as-cutting-the-invisible-gas-becomes-a-climate-priority/articleshow/134063334.cms)
+- [Is UK heading for breakup? Scotland, Wales and Northern Ireland push for independence](https://timesofindia.indiatimes.com/world/uk/is-uk-heading-for-a-breakup-scotland-wales-and-northern-ireland-push-for-independence/articleshow/134201489.cms)
 
 **NDTV**
 - [BRICS Summit 2026 Highlights: PM Modi Thanks Leaders For Making BRICS Summit In Delhi "Productive"](https://www.ndtv.com/india-news/brics-summit-2026-live-updates-today-pm-narendra-modi-putin-xi-jinping-meet-bharat-mandapam-traffic-new-delhi-declaration-backs-return-of-antiquities-12039405#publisher=newsstand)
@@ -101,13 +101,13 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (10.0)
-- Russia (3.9)
 - BRICS (3.8)
 - Brics (3.5)
 - Bangladesh (3.2)
 - BRICS Summit (3.0)
 - Indian (2.9)
 - Ukraine (2.6)
+- Russia (2.6)
 - Oman (2.6)
 - Delhi (2.6)
 - Gurugram (2.6)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Kremlin says PM Modi, Xi offered Putin their 'good offices' to help end Ukraine war](https://timesofindia.indiatimes.com/india/kremlin-says-pm-modi-xi-offered-putin-their-good-offices-to-help-end-ukraine-war/articleshow/134191394.cms)
-- [Vessel struck in Strait of Hormuz, UKMTO reports](https://edition.cnn.com/2026/09/13/middleeast/iran-hormuz-qeshm-attack-intl)
-- [પાકિસ્તાનમાં મોટો આતંકી હુમલો, સૈન્યના કાફલાને નિશાન બનાવાયો, 23 સૈનિકોના મોતનો દાવો](https://www.gujaratsamachar.com/news/international/major-terrorist-attack-in-pakistan-army-convoy-targeted-23-soldiers-claimed-to-be-killed-42983427588)
-- [वयाच्या ४१ व्या वर्षी माहिरा खान होणार आई!](https://www.loksatta.com/manoranjan/bollywood/mahira-khan-set-to-welcome-second-child-at-41-makes-tiff-debut-with-baby-bump-nsp-98-6134867/)
-- [बांग्लादेशी कप्तान ने भारतीय कैप्टन से नहीं मिलाया हाथ, अब छिनेगी कमान](https://www.abplive.com/sports/cricket/bangladesh-nigar-sultana-captaincy-under-review-after-no-handshake-with-harmanpreet-kaur-semi-final-women-asia-cup-3188248)
-- [सिलेक्शन कंट्रोवर्सी: खेल मंत्री के दखल के बाद दिव्यांशी के तेवर नरम पड़े, बोलीं- अब मुझे समझ आया कि…](https://www.livehindustan.com/sports/asian-games/divyanshi-choudhary-dials-down-after-sports-minister-intervention-says-i-have-now-understood-they-asian-games-selection-201789289865596.html)
-- ['Do you think AI will kill all humans?' Anthropic CEO Dario Amodei answers](https://timesofindia.indiatimes.com/technology/tech-news/do-you-think-ai-will-kill-all-humans-anthropic-ceo-dario-amodei-answers/articleshow/134190711.cms)
-- [Vaibhav Sooryavanshi, IND vs AFG: বৈভব সূর্যবংশীর বা'ম্পার খবর', না জানলে চরম মিস করবেন](https://bengali.indianexpress.com/sports/ind-vs-afg-vaibhav-sooryavanshi-first-t20i-match-in-india-12527993)
-- [জট কাটল ‘মিনি ডার্বি’র, ইস্টবেঙ্গল-মহামেডান ম্যাচ নিয়ে কী জানাল IFA?](https://eisamay.com/sports/football/east-bengal-vs-mohammedan-calcutta-football-league-match-venue-shifted-to-kalyani-stadium/200542032.cms)
-- [BRICS Summit 2026 LIVE updates: India focused on four pillars: resilience, innovation, cooperation, sustainability, says PM Modi](https://www.thehindu.com/news/national/brics-summit-2026-india-live-updates-narendra-modi-world-leaders-new-delhi-declaration-key-agenda-september-13-2026/article71462451.ece)
+- [‘Indian non-veg food is delicious’: Rahul Gandhi's veiled dig at BRICS Summit menu](https://www.hindustantimes.com/india-news/indian-non-veg-food-is-delicious-rahul-gandhis-veiled-dig-at-brics-summit-menu-101789289396284.html)
+- [ஹோர்முஸ் நீரிணையில் புதிய தாக்குதல்; எண்ணெய் விநியோக அச்சம் அதிகரிப்பு](https://www.tamilmurasu.com.sg/world/new-attack-strait-hormuz-oil-supply-concerns)
+- [गोवा में AAP ने इस पार्टी के साथ किया गठबंधन, अरविंद केजरीवाल ने खुद किया ऐलान](https://navbharattimes.indiatimes.com/state/goa/panaji/aam-aadmi-party-joins-hands-with-goa-forward-party-in-goa/articleshow/134192186.cms)
+- [చిన్ని శ్రీను అస్త్రంగా కొత్త గేమ్, జగన్ మార్క్ ట్రీట్‌మెంట్ - కీలక పరిణామాలు...!!](https://telugu.oneindia.com/news/andhra-pradesh/ys-jagan-key-discussions-with-vizianagaram-party-leaders-prepared-for-big-decisions-ahead-local-bo-506047.html)
+- ['Haiwaan' box office collection Day 3 (LIVE): Akshay Kumar and Saif Ali Khan starrer struggling to cross Rs 10 crore amid 'Mirzapur' and 'Hanuman Ansh' buzz](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/haiwaan-box-office-collection-day-3-live-akshay-kumar-and-saif-ali-khan-starrer-struggling-to-cross-rs-10-crore-amid-mirzapur-and-hanuman-ansh-buzz/articleshow/134192044.cms)
+- [തമിഴ്നാട്ടില്‍ ഒറ്റയ്ക്ക് മത്സരിക്കാന്‍ CPIM; ഉപതെരഞ്ഞടുപ്പില്‍ ഒരു സഖ്യത്തെയും പിന്തുണച്ചേക്കില്ല](https://www.reporterlive.com/topnews/national/2026/09/13/cpm-tamil-nadu-bypolls-madurantakam-dharapuram-tvk-dmk)
+- ['हनुमान अंश' के आगे दम नहीं दिखा पा रही 'मिर्जापुर द मूवी', जानें 7 बजे तक का कलेक्शन](https://www.abplive.com/entertainment/bollywood/hanuman-ansh-vs-mirzapur-the-movie-bo-collection-sunday-box-office-occupancy-3188263)
+- [युद्ध का नया मोड़! यूक्रेनी ड्रोन स्‍ट्राइक के बाद रूस लाचार, भारत से 70% तेल उत्पाद खरीदने को मजबूर](https://navbharattimes.indiatimes.com/business/business-news/russia-imports-record-oil-products-from-india-as-ukraine-strikes-hit-refineries/articleshow/134191317.cms)
+- [ഹോർമുസ് കടലിടുക്കിൽ ഇറാന്‍റെ വാണിജ്യ കപ്പലിന് നേരെ ആക്രമണം; ഒരാൾ കൊല്ലപ്പെട്ടു, നാല് പേർക്ക് പരുക്ക്](https://www.metrovaartha.com/news/world/attack-on-iranian-commercial-ship-in-the-strait-of-hormuz-one-killed-four-injured)
+- [മലയാള സിനിമയുടെ റെക്കോർഡുകൾ തകർത്ത് ‘ബെത്ലഹേം കുടുംബ യൂണിറ്റ്’; 305 കോടി പിന്നിട്ട് കുതിപ്പ്](https://www.southlive.in/bethlehem-kudumba-unit-breaks-malayalam-cinema-records-surges-past-the-305-crore-mark/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
