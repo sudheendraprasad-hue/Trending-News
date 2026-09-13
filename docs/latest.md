@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-13 22:01:52
+# India Trending Report — 2026-09-13 22:34:57
 
 ## Google Trends (India) — top trending searches
-1. [అభిషేక్ శర్మ](https://trends.google.com/trending/rss?geo=IN)
-2. [real sociedad vs atlético madrid standings](https://trends.google.com/trending/rss?geo=IN)
-3. [luke shaw](https://trends.google.com/trending/rss?geo=IN)
-4. [fauda](https://trends.google.com/trending/rss?geo=IN)
-5. [sporting cp](https://trends.google.com/trending/rss?geo=IN)
-6. [jemimah rodrigues](https://trends.google.com/trending/rss?geo=IN)
-7. [lanterns episode 5](https://trends.google.com/trending/rss?geo=IN)
-8. [केएल राहुल](https://trends.google.com/trending/rss?geo=IN)
-9. [narendra modi stadium](https://trends.google.com/trending/rss?geo=IN)
-10. [iran war hormuz](https://trends.google.com/trending/rss?geo=IN)
+1. [binance](https://trends.google.com/trending/rss?geo=IN)
+2. [4](https://trends.google.com/trending/rss?geo=IN)
+3. [gate](https://trends.google.com/trending/rss?geo=IN)
+4. [binance exchange](https://trends.google.com/trending/rss?geo=IN)
+5. [అభిషేక్ శర్మ](https://trends.google.com/trending/rss?geo=IN)
+6. [jonathan david](https://trends.google.com/trending/rss?geo=IN)
+7. [trinity rodman](https://trends.google.com/trending/rss?geo=IN)
+8. [real sociedad vs atlético madrid standings](https://trends.google.com/trending/rss?geo=IN)
+9. [luke shaw](https://trends.google.com/trending/rss?geo=IN)
+10. [fauda](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [India women's team refuses to take Asia Cup trophy from Mohsin Naqvi](https://timesofindia.indiatimes.com/sports/cricket/news/india-womens-team-refuses-asia-cup-trophy-from-mohsin-naqvi-after-title-win/articleshow/134220894.cms)
 - [Brics 2026: Xi listening, PM Modi warns against weaponisation of minerals, tech](https://timesofindia.indiatimes.com/india/brics-day-2-pm-flags-critical-minerals-tech-weaponisation-amid-global-tensions/articleshow/134220477.cms)
 - [Oil infra hit by Ukraine, Russia gets 70% of its fuel from India](https://timesofindia.indiatimes.com/business/international-business/oil-infra-hit-by-ukraine-russia-gets-70-of-its-fuel-from-india/articleshow/134223885.cms)
+- [For governance draft, MHA asks Ladakh bodies to answer 7 queries](https://timesofindia.indiatimes.com/india/for-governance-draft-mha-asks-ladakh-bodies-to-answer-7-queries/articleshow/134227505.cms)
 - [‘Some regional countries requested’: Iran after meeting with Gulf states in Oman postponed](https://timesofindia.indiatimes.com/world/middle-east/some-regional-countries-requested-iran-after-meeting-with-gulf-states-in-oman-postponed/articleshow/134224097.cms)
-- [Sweden election deadlocked between ruling bloc and centre-left opposition, exit polls show](https://timesofindia.indiatimes.com/world/europe/sweden-election-deadlocked-as-ruling-bloc-centre-left-opposition-vie-for-power-exit-polls-show/articleshow/134226934.cms)
 - [Mark Zuckerberg's secret project wanted Meta teams 60% smaller and run by AI agents](https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-ran-a-secret-project-to-make-the-company-ai-native-asked-teams-to-study-impact-of-/articleshow/134212125.cms)
+- [Sweden opposition holds slender lead in tight election, projection shows a](https://timesofindia.indiatimes.com/world/europe/sweden-opposition-holds-narrow-lead-in-tight-election-projection-shows-as-vote-counting-continues/articleshow/134226934.cms)
 - [Mayawati refutes illness claims, appears before media to dispel doubts](https://timesofindia.indiatimes.com/city/lucknow/maya-refutes-illness-claims-appears-before-media-to-dispel-doubts/articleshow/134220351.cms)
-- [Bijnor’s herbal tea makes a splash at Brics dinner](https://timesofindia.indiatimes.com/city/meerut/bijnors-herbal-tea-makes-a-splash-at-brics-dinner/articleshow/134215782.cms)
 - [Jeff Bezos’ ex-wife MacKenzie Scott gives $60 million to global methane fight](https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-gives-60-million-to-global-methane-fight-as-cutting-the-invisible-gas-becomes-a-climate-priority/articleshow/134063334.cms)
-- [Is UK heading for breakup? Scotland, Wales and Northern Ireland push for independence](https://timesofindia.indiatimes.com/world/uk/is-uk-heading-for-a-breakup-scotland-wales-and-northern-ireland-push-for-independence/articleshow/134201489.cms)
+- [Bijnor’s herbal tea makes a splash at Brics dinner](https://timesofindia.indiatimes.com/city/meerut/bijnors-herbal-tea-makes-a-splash-at-brics-dinner/articleshow/134215782.cms)
 
 **NDTV**
 - [BRICS Summit 2026 Highlights: PM Modi Thanks Leaders For Making BRICS Summit In Delhi "Productive"](https://www.ndtv.com/india-news/brics-summit-2026-live-updates-today-pm-narendra-modi-putin-xi-jinping-meet-bharat-mandapam-traffic-new-delhi-declaration-backs-return-of-antiquities-12039405#publisher=newsstand)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [Konda Surekha | నెల కూడా ఆగకుండా కాంగ్రెస్‌లోకి కడియం శ్రీహరి జంప్‌ : కొండా సురేఖ](https://www.ntnews.com/warangal-rural/kadiyam-srihari-joined-congress-party-within-a-month-says-konda-surekha-2510211)
+- [மகளிர் டி20 ஆசிய கோப்பை 2026 | இலங்கைக்கு பதிலடி கொடுக்குமா இந்திய மகளிர் அணி?](https://www.etvbharat.com/ta/sports/india-eye-asia-cup-final-redemption-against-sri-lanka-tns26091303026)
+- [അതിവേഗം കുതിപ്പ്, നിയന്ത്രണം വിട്ട് ഇടിച്ചു; ഹാമിൽട്ടൺ അപകടത്തിൽപ്പെടുന്ന ദൃശ്യങ്ങൾ പുറത്ത്](https://www.mathrubhumi.com/sports/other-sports/lewis-hamilton-ferrari-crash-spanish-gp-practice-lmvma22m)
+- [அஜித் சந்திப்பு: பிரிட்டன் கார் பந்தயம்](https://www.tamilmurasu.com.sg/tamilnadu/britain-car-race-vijay-personally-met-and-congratulated-ajith)
+- [Pawan Coming Back, CM Sends Warm Message](https://www.gulte.com/political-news/431396/pawan-coming-back-cm-sends-warm-message)
+- [Konda Surekha: పదవి పోయిందని ఇంట్లో కూర్చోం.. కొండా సురేఖ కీల‌క వ్యాఖ్య‌లు](https://telugu.asianetnews.com/gallery/telangana/konda-surekha-makes-key-remarks-after-losing-minister-post-says-she-will-stay-among-people-qikhll3)
+- [BRICS Summit | చైనా అధ్యక్షుడు జిన్‌పింగ్ పరిస్థితిని చూసి.. బ్రిక్స్‌ ప్రసంగాన్ని ఆపిన ప్రధాని మోదీ](https://www.ntnews.com/national/pm-modi-pauses-brics-speech-to-check-on-chinese-president-xi-jinping-2510188)
+- [Ambalal Patel: અંબાલાલ પટેલ અને હવામાન વિભાગની ઘાતક આગાહી, 12 ઇંચ સુધી વરસાદ તૂટી પડશે, જાણો અપડેટ](https://gujarati.abplive.com/news/gujarat/gujarat-weather-forecast-imd-and-ambalal-patel-heavy-rain-alert-update-991095)
+- [25 करोड़ के IPL स्टार ने गर्लफ्रेंड से रचाई शादी, बला की खूबसूरत लग रहीं दुल्हन की तस्वीरें वायरल](https://www.aajtak.in/sports/cricket/story/cameron-green-and-emily-redwood-are-officially-husband-and-wife-picture-goes-viral-aksp-dskc-2642036-2026-09-13)
 - [‘Indian non-veg food is delicious’: Rahul Gandhi's veiled dig at BRICS Summit menu](https://www.hindustantimes.com/india-news/indian-non-veg-food-is-delicious-rahul-gandhis-veiled-dig-at-brics-summit-menu-101789289396284.html)
-- [ஹோர்முஸ் நீரிணையில் புதிய தாக்குதல்; எண்ணெய் விநியோக அச்சம் அதிகரிப்பு](https://www.tamilmurasu.com.sg/world/new-attack-strait-hormuz-oil-supply-concerns)
-- [गोवा में AAP ने इस पार्टी के साथ किया गठबंधन, अरविंद केजरीवाल ने खुद किया ऐलान](https://navbharattimes.indiatimes.com/state/goa/panaji/aam-aadmi-party-joins-hands-with-goa-forward-party-in-goa/articleshow/134192186.cms)
-- [చిన్ని శ్రీను అస్త్రంగా కొత్త గేమ్, జగన్ మార్క్ ట్రీట్‌మెంట్ - కీలక పరిణామాలు...!!](https://telugu.oneindia.com/news/andhra-pradesh/ys-jagan-key-discussions-with-vizianagaram-party-leaders-prepared-for-big-decisions-ahead-local-bo-506047.html)
-- ['Haiwaan' box office collection Day 3 (LIVE): Akshay Kumar and Saif Ali Khan starrer struggling to cross Rs 10 crore amid 'Mirzapur' and 'Hanuman Ansh' buzz](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/haiwaan-box-office-collection-day-3-live-akshay-kumar-and-saif-ali-khan-starrer-struggling-to-cross-rs-10-crore-amid-mirzapur-and-hanuman-ansh-buzz/articleshow/134192044.cms)
-- [തമിഴ്നാട്ടില്‍ ഒറ്റയ്ക്ക് മത്സരിക്കാന്‍ CPIM; ഉപതെരഞ്ഞടുപ്പില്‍ ഒരു സഖ്യത്തെയും പിന്തുണച്ചേക്കില്ല](https://www.reporterlive.com/topnews/national/2026/09/13/cpm-tamil-nadu-bypolls-madurantakam-dharapuram-tvk-dmk)
-- ['हनुमान अंश' के आगे दम नहीं दिखा पा रही 'मिर्जापुर द मूवी', जानें 7 बजे तक का कलेक्शन](https://www.abplive.com/entertainment/bollywood/hanuman-ansh-vs-mirzapur-the-movie-bo-collection-sunday-box-office-occupancy-3188263)
-- [युद्ध का नया मोड़! यूक्रेनी ड्रोन स्‍ट्राइक के बाद रूस लाचार, भारत से 70% तेल उत्पाद खरीदने को मजबूर](https://navbharattimes.indiatimes.com/business/business-news/russia-imports-record-oil-products-from-india-as-ukraine-strikes-hit-refineries/articleshow/134191317.cms)
-- [ഹോർമുസ് കടലിടുക്കിൽ ഇറാന്‍റെ വാണിജ്യ കപ്പലിന് നേരെ ആക്രമണം; ഒരാൾ കൊല്ലപ്പെട്ടു, നാല് പേർക്ക് പരുക്ക്](https://www.metrovaartha.com/news/world/attack-on-iranian-commercial-ship-in-the-strait-of-hormuz-one-killed-four-injured)
-- [മലയാള സിനിമയുടെ റെക്കോർഡുകൾ തകർത്ത് ‘ബെത്ലഹേം കുടുംബ യൂണിറ്റ്’; 305 കോടി പിന്നിട്ട് കുതിപ്പ്](https://www.southlive.in/bethlehem-kudumba-unit-breaks-malayalam-cinema-records-surges-past-the-305-crore-mark/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
