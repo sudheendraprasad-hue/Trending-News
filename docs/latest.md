@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-13 21:01:55
+# India Trending Report — 2026-09-13 21:33:08
 
 ## Google Trends (India) — top trending searches
-1. [fauda](https://trends.google.com/trending/rss?geo=IN)
-2. [luke shaw](https://trends.google.com/trending/rss?geo=IN)
-3. [sporting cp](https://trends.google.com/trending/rss?geo=IN)
-4. [jemimah rodrigues](https://trends.google.com/trending/rss?geo=IN)
-5. [lanterns episode 5](https://trends.google.com/trending/rss?geo=IN)
-6. [केएल राहुल](https://trends.google.com/trending/rss?geo=IN)
-7. [narendra modi stadium](https://trends.google.com/trending/rss?geo=IN)
-8. [iran war hormuz](https://trends.google.com/trending/rss?geo=IN)
-9. [anwar ibrahim](https://trends.google.com/trending/rss?geo=IN)
-10. [सोना चांदी](https://trends.google.com/trending/rss?geo=IN)
+1. [jonathan david](https://trends.google.com/trending/rss?geo=IN)
+2. [real sociedad vs atlético madrid standings](https://trends.google.com/trending/rss?geo=IN)
+3. [luke shaw](https://trends.google.com/trending/rss?geo=IN)
+4. [fauda](https://trends.google.com/trending/rss?geo=IN)
+5. [sporting cp](https://trends.google.com/trending/rss?geo=IN)
+6. [jemimah rodrigues](https://trends.google.com/trending/rss?geo=IN)
+7. [lanterns episode 5](https://trends.google.com/trending/rss?geo=IN)
+8. [केएल राहुल](https://trends.google.com/trending/rss?geo=IN)
+9. [narendra modi stadium](https://trends.google.com/trending/rss?geo=IN)
+10. [iran war hormuz](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [India women's team refuses to take Asia Cup trophy from Mohsin Naqvi](https://timesofindia.indiatimes.com/sports/cricket/news/india-womens-team-refuses-asia-cup-trophy-from-mohsin-naqvi-after-title-win/articleshow/134220894.cms)
+- [Brics 2026: Xi listening, PM Modi warns against weaponisation of minerals, tech](https://timesofindia.indiatimes.com/india/brics-day-2-pm-flags-critical-minerals-tech-weaponisation-amid-global-tensions/articleshow/134220477.cms)
 - [Oil infra hit by Ukraine, Russia gets 70% of its fuel from India](https://timesofindia.indiatimes.com/business/international-business/oil-infra-hit-by-ukraine-russia-gets-70-of-its-fuel-from-india/articleshow/134223885.cms)
+- [Bijnor’s herbal tea makes a splash at Brics dinner](https://timesofindia.indiatimes.com/city/meerut/bijnors-herbal-tea-makes-a-splash-at-brics-dinner/articleshow/134215782.cms)
 - [‘Some regional countries requested’: Iran after meeting with Gulf states in Oman postponed](https://timesofindia.indiatimes.com/world/middle-east/some-regional-countries-requested-iran-after-meeting-with-gulf-states-in-oman-postponed/articleshow/134224097.cms)
+- [Mark Zuckerberg's secret project wanted Meta teams 60% smaller and run by AI agents](https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-ran-a-secret-project-to-make-the-company-ai-native-asked-teams-to-study-impact-of-/articleshow/134212125.cms)
 - [Mayawati refutes illness claims, appears before media to dispel doubts](https://timesofindia.indiatimes.com/city/lucknow/maya-refutes-illness-claims-appears-before-media-to-dispel-doubts/articleshow/134220351.cms)
 - [Is UK heading for breakup? Scotland, Wales and Northern Ireland push for independence](https://timesofindia.indiatimes.com/world/uk/is-uk-heading-for-a-breakup-scotland-wales-and-northern-ireland-push-for-independence/articleshow/134201489.cms)
-- [Mark Zuckerberg's secret project wanted Meta teams 60% smaller and run by AI agents](https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-ran-a-secret-project-to-make-the-company-ai-native-asked-teams-to-study-impact-of-/articleshow/134212125.cms)
 - [Minutes after Boris Johnson, European leaders pass through, Russia strikes Ukrainian train near Poland border](https://timesofindia.indiatimes.com/world/europe/russia-strikes-train-near-poland-border-minutes-after-boris-johnson-european-leaders-pass-through/articleshow/134216343.cms)
-- [New playbook, bigger role & a wake-up call for the West: Decoding the Brics summit](https://timesofindia.indiatimes.com/india/modi-xis-ukraine-offer-to-putin-strong-message-to-west-new-brics-playbook-key-outcomes-of-summit/articleshow/134197086.cms)
 - [Jeff Bezos’ ex-wife MacKenzie Scott gives $60 million to global methane fight](https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-gives-60-million-to-global-methane-fight-as-cutting-the-invisible-gas-becomes-a-climate-priority/articleshow/134063334.cms)
-- [The Uranium rush: Inside India's scramble to fuel its nuclear ambitions](https://timesofindia.indiatimes.com/india/the-uranium-rush-inside-indias-scramble-to-fuel-its-nuclear-ambitions/articleshow/134206216.cms)
 
 **NDTV**
 - [BRICS Summit 2026 Highlights: PM Modi Thanks Leaders For Making BRICS Summit In Delhi "Productive"](https://www.ndtv.com/india-news/brics-summit-2026-live-updates-today-pm-narendra-modi-putin-xi-jinping-meet-bharat-mandapam-traffic-new-delhi-declaration-backs-return-of-antiquities-12039405#publisher=newsstand)
@@ -62,6 +62,7 @@
 - [ಬ್ರಿಟನ್ ವಿಭಜನೆಗೆ ಪ್ರಯತ್ನ!: ಯುನೈಟೆಡ್ ಕಿಂಗ್ ಡಂನಿಂದ ಸ್ಕಾಟ್ಲೆಂಡ್, ವೇಲ್ಸ್‌, ಉತ್ತರ ಐರ್ಲೆಂಡ್‌ ಹೊರಕ್ಕೆ?](https://vijaykarnataka.com/news/world/scotland-wales-and-northern-ireland-out-of-the-united-kingdom/articleshow/134212724.cms)
 
 **The Hindu**
+- [Centre treating Bihar as stepchild: Tejashwi Yadav on flood-related issues](https://www.thehindu.com/news/national/bihar/centre-treating-bihar-as-stepchild-tejashwi-yadav-on-flood-related-issues/article71463495.ece)
 - [BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas](https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece)
 - [Asia Cup: Indian women's cricket team refuses to accept trophy from ACC head Mohsin Naqvi](https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece)
 - [Keralam CM V.D. Satheesan takes a trip down memory lane at alumni meet](https://www.thehindu.com/news/national/kerala/satheesan-takes-a-trip-down-memory-lane-at-alumni-meet/article71464032.ece)
@@ -71,9 +72,9 @@
 - [BJP imposing its 'deeply problematic' dietary preferences on foreign dignitaries, says Congress on BRICS dinner](https://www.thehindu.com/news/national/80-indians-non-vegetarian-indian-non-vegetarian-food-is-delicious-says-rahul/article71463063.ece)
 - [Stalled ferry services to two key jetties hit tourists, commuters](https://www.thehindu.com/news/national/kerala/tourists-hit-as-ferry-services-to-two-kochi-prime-jetties-remain-stalled/article71462982.ece)
 - [Two held for alleged robbery bid in Kozhikode](https://www.thehindu.com/news/national/kerala/two-held-in-alleged-robbery-bid/article71463473.ece)
-- [Jaywalking a menace on OMR, motorists say](https://www.thehindu.com/news/cities/chennai/jaywalking-a-menace-on-omr-motorists-say/article71381679.ece)
 
 **Livemint**
+- [Student suspended for bringing coffee on first day of school after refusing to throw drink away](https://www.livemint.com/news/us-news/student-suspended-for-bringing-coffee-on-first-day-of-school-after-refusing-to-throw-drink-away-11789333115390.html)
 - [Brics Women’s Business Alliance urges supply chain access and scale for women-led entrepreneurship](https://www.livemint.com/news/india/brics-women-s-business-alliance-urges-supply-chain-access-and-scale-for-women-led-entrepreneurship-11789301032517.html)
 - [Maratha quota battle heads to Mumbai? Activist Manoj Jarange Patil warns of fast unto death at Azad Maidan](https://www.livemint.com/news/india/maratha-quota-battle-heads-to-mumbai-activist-manoj-jarange-patil-warns-of-fast-unto-death-at-azad-maidan-11789323910846.html)
 - [IND vs AFG T20I: Why was Vande Mataram played before national anthem for first time? Here's what report says](https://www.livemint.com/news/india/ind-vs-afg-t20i-why-was-vande-mataram-played-before-national-anthem-for-first-time-heres-what-report-says-11789320751599.html)
@@ -83,7 +84,6 @@
 - [Ganesh Chaturthi 2026: 66 kg gold, 335 kg silver &  ₹703 cr insurance cover— Inside Mumbai's GSB Seva Mandal preparations](https://www.livemint.com/news/india/ganesh-chaturthi-202666-kg-gold-335-kg-silver-703-cr-insurance-cover-inside-mumbai-gsb-seva-mandals-preparatio-11789307042325.html)
 - [Britain once trained India's air force. Why are IAF pilots now training RAF pilots?](https://www.livemint.com/news/india/britain-once-trained-indias-air-force-why-are-iaf-pilots-now-training-raf-pilots-11789313614198.html)
 - [Techie chooses Hyderabad over Gurugram as job location, calls Gurgaon 1 of ‘5 sisters of agony’: Social media reacts](https://www.livemint.com/news/trends/techie-chooses-hyderabad-over-gurugram-as-job-location-calls-gurgaon-1-of-5-sisters-of-agony-social-media-reacts-11789312423529.html)
-- [Biscuitville, tiny Southern breakfast chain, beats McDonald’s and Chick-fil-A for America’s top breakfast spot](https://www.livemint.com/news/trends/biscuitville-tiny-southern-breakfast-chain-beats-mcdonald-s-and-chick-fil-a-for-america-s-top-breakfast-spot-11789307508682.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -103,6 +103,7 @@
 - India (10.0)
 - Russia (3.9)
 - BRICS (3.8)
+- Brics (3.5)
 - Bangladesh (3.2)
 - BRICS Summit (3.0)
 - Indian (2.9)
@@ -111,24 +112,23 @@
 - Delhi (2.6)
 - Gurugram (2.6)
 - House (2.6)
-- Brics (2.2)
 - Asia Cup (2.0)
 - Mohsin Naqvi (2.0)
-- Brics Summit (2.0)
+- PM Modi (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [IPO action: NSE among 11 issues worth Rs 24,600 crore opening next week](https://www.moneycontrol.com/news/business/ipo/ipo-action-nse-among-11-issues-worth-rs-24-600-crore-opening-next-week-14028838.html)
-- [కేరళం నుంచి తిరిగొస్తూ పవన్ కళ్యాణ్ ఎమోషనల్.. డిప్యూటీ సీఎం పోస్ట్‌కు సీఎం సతీశన్ హార్ట్ టచింగ్ రిప్లయ్](https://telugu.samayam.com/latest-news/india-news/we-look-forward-to-hosting-you-again-soon-keralam-cm-replies-to-ap-deputy-cm-pawan-kalyan-post/articleshow/134189399.cms)
-- ["ठीक आहे ना?"; मोदींनी थांबवले भाषण; व्हिडिओ व्हायरल](https://www.loksatta.com/desh-videsh/pm-modi-pauses-speech-asks-xi-jinping-is-it-okay-brics-summit-2026-marathi-news-sgk-96-6134869/)
-- [ஒருமனதாக நிறைவேறிய புதுடெல்லி கூட்டுப்பிரகடனம்](https://www.tamilmurasu.com.sg/india/brics-summit-joint-declaration-unanimously-adopted)
-- [Breaking News: 138 વર્ષ પછી બન્યો આ રેકોર્ડ… ENG vs PAK સિરીઝમાં રચાયો એવો ઇતિહાસ, જેની કોઈએ કલ્પના પણ નહોતી કરી](https://tv9gujarati.com/photo-gallery/eng-vs-pak-test-series-makes-history-after-138-years-with-a-rare-cricket-record-repeated-1514831.html)
-- [Manoj Jarange : बावनकुळे बाईच्या पदराआड लपतात, त्यांच्या अधिकाऱ्यांचे शनिवारी रविवारीही काम सुरू; मनोज जरांगे यांची जहरी टीका](https://marathi.abplive.com/news/politics/manoj-jarange-slams-chandrashekhar-bawankule-on-maratha-reservation-antarwali-sarati-jalna-protest-marathi-1438968)
-- [IRCTC પર એક જ દિવસમાં 20.06 લાખ ટિકિટ બુકિંગનો રેકોર્ડ](https://www.gujaratsamachar.com/news/ahmedabad/record-of-2006-lakh-ticket-bookings-in-a-single-day-on-irctc-47779226423)
-- [NSE IPO GMP Today Price: Latest grey market premium rates after band announcement - Data details here](https://www.livemint.com/market/ipo/nse-ipo-gmp-today-price-latest-grey-market-premium-rates-after-band-announcement-data-details-here-11789285660693.html)
-- [കുടുംബവീട് തകർത്ത് റഷ്യൻ മിസൈൽ, അവശേഷിച്ചത് ഫ്രഞ്ച് ഓപ്പൺ ടവ്വൽ മാത്രമെന്ന് യുക്രെയ്ൻ താരം](https://www.mathrubhumi.com/sports/tennis/dayana-yastremska-odesa-home-destroyed-russia-missile-strike-tgyvul8j)
-- [CM Revanth Reddy : ఉప్పల్ భగాయత్‌లో ఆర్యవైశ్య భవన్.. రేవంత్ కీలక వ్యాఖ్యలు](https://ntvtelugu.com/telangana-news/revanth-reddy-arya-vysya-atma-gourava-bhavan-uppal-bhagath-1015206.html)
+- [Kremlin says PM Modi, Xi offered Putin their 'good offices' to help end Ukraine war](https://timesofindia.indiatimes.com/india/kremlin-says-pm-modi-xi-offered-putin-their-good-offices-to-help-end-ukraine-war/articleshow/134191394.cms)
+- [Vessel struck in Strait of Hormuz, UKMTO reports](https://edition.cnn.com/2026/09/13/middleeast/iran-hormuz-qeshm-attack-intl)
+- [પાકિસ્તાનમાં મોટો આતંકી હુમલો, સૈન્યના કાફલાને નિશાન બનાવાયો, 23 સૈનિકોના મોતનો દાવો](https://www.gujaratsamachar.com/news/international/major-terrorist-attack-in-pakistan-army-convoy-targeted-23-soldiers-claimed-to-be-killed-42983427588)
+- [वयाच्या ४१ व्या वर्षी माहिरा खान होणार आई!](https://www.loksatta.com/manoranjan/bollywood/mahira-khan-set-to-welcome-second-child-at-41-makes-tiff-debut-with-baby-bump-nsp-98-6134867/)
+- [बांग्लादेशी कप्तान ने भारतीय कैप्टन से नहीं मिलाया हाथ, अब छिनेगी कमान](https://www.abplive.com/sports/cricket/bangladesh-nigar-sultana-captaincy-under-review-after-no-handshake-with-harmanpreet-kaur-semi-final-women-asia-cup-3188248)
+- [सिलेक्शन कंट्रोवर्सी: खेल मंत्री के दखल के बाद दिव्यांशी के तेवर नरम पड़े, बोलीं- अब मुझे समझ आया कि…](https://www.livehindustan.com/sports/asian-games/divyanshi-choudhary-dials-down-after-sports-minister-intervention-says-i-have-now-understood-they-asian-games-selection-201789289865596.html)
+- ['Do you think AI will kill all humans?' Anthropic CEO Dario Amodei answers](https://timesofindia.indiatimes.com/technology/tech-news/do-you-think-ai-will-kill-all-humans-anthropic-ceo-dario-amodei-answers/articleshow/134190711.cms)
+- [Vaibhav Sooryavanshi, IND vs AFG: বৈভব সূর্যবংশীর বা'ম্পার খবর', না জানলে চরম মিস করবেন](https://bengali.indianexpress.com/sports/ind-vs-afg-vaibhav-sooryavanshi-first-t20i-match-in-india-12527993)
+- [জট কাটল ‘মিনি ডার্বি’র, ইস্টবেঙ্গল-মহামেডান ম্যাচ নিয়ে কী জানাল IFA?](https://eisamay.com/sports/football/east-bengal-vs-mohammedan-calcutta-football-league-match-venue-shifted-to-kalyani-stadium/200542032.cms)
+- [BRICS Summit 2026 LIVE updates: India focused on four pillars: resilience, innovation, cooperation, sustainability, says PM Modi](https://www.thehindu.com/news/national/brics-summit-2026-india-live-updates-narendra-modi-world-leaders-new-delhi-declaration-key-agenda-september-13-2026/article71462451.ece)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
