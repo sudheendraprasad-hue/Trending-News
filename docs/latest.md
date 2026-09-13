@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-13 00:02:29
+# India Trending Report — 2026-09-13 00:40:36
 
 ## Google Trends (India) — top trending searches
-1. [शेतकरी](https://trends.google.com/trending/rss?geo=IN)
-2. [marwan rahiki](https://trends.google.com/trending/rss?geo=IN)
-3. [அகவிலைப்படி](https://trends.google.com/trending/rss?geo=IN)
-4. [santos vs cruzeiro](https://trends.google.com/trending/rss?geo=IN)
-5. [h](https://trends.google.com/trending/rss?geo=IN)
-6. [anna blinkova](https://trends.google.com/trending/rss?geo=IN)
-7. [weather hyderabad](https://trends.google.com/trending/rss?geo=IN)
-8. [inter miami vs nashville](https://trends.google.com/trending/rss?geo=IN)
-9. [तुलसी](https://trends.google.com/trending/rss?geo=IN)
-10. [cookies](https://trends.google.com/trending/rss?geo=IN)
+1. [cpl](https://trends.google.com/trending/rss?geo=IN)
+2. [गोचर](https://trends.google.com/trending/rss?geo=IN)
+3. [धनु](https://trends.google.com/trending/rss?geo=IN)
+4. [రాశి ఫలాలు](https://trends.google.com/trending/rss?geo=IN)
+5. [jose delgado](https://trends.google.com/trending/rss?geo=IN)
+6. [పింఛను](https://trends.google.com/trending/rss?geo=IN)
+7. [telugu](https://trends.google.com/trending/rss?geo=IN)
+8. [शेतकरी](https://trends.google.com/trending/rss?geo=IN)
+9. [समाचार खबरें](https://trends.google.com/trending/rss?geo=IN)
+10. [tommy mcmillen](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Brics hammers out joint declaration after India bridges Iran-UAE chasm](https://timesofindia.indiatimes.com/india/brics-hammers-out-joint-declaration-after-india-bridges-iran-uae-chasm/articleshow/134153102.cms)
 - ['Global South must shape, not just follow, rules': PM Modi at Brics Summit](https://timesofindia.indiatimes.com/india/modi-global-south-must-shape-not-just-follow-rules/articleshow/134158493.cms)
 - [RBI rejects Tata Sons' bid to stay private, directs listing](https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-tata-sons-bid-to-stay-private-directs-listing/articleshow/134163398.cms)
+- [25 years after 9/11, al-Qaida and terror camps have returned to Afghanistan: US](https://timesofindia.indiatimes.com/world/us/25-years-after-9/11-al-qaida-and-terror-camps-have-returned-to-afghanistan-us/articleshow/134131985.cms)
 - [India to get another major DRDO missile testing range in Bengal](https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms)
-- [Meghalaya CM Sangma calls on guv amid reports of 8 UDP MLAs planning to join BJP](https://timesofindia.indiatimes.com/city/guwahati/conrad-calls-on-guv-amid-reports-of-8-udp-mlas-planning-to-join-bjp/articleshow/134148275.cms)
 - [Mark Zuckerberg on how engineers made him return to Musk's X after 3 years in 2026](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-him-do-it/articleshow/134147562.cms)
+- [Meghalaya CM Sangma calls on guv amid reports of 8 UDP MLAs planning to join BJP](https://timesofindia.indiatimes.com/city/guwahati/conrad-calls-on-guv-amid-reports-of-8-udp-mlas-planning-to-join-bjp/articleshow/134148275.cms)
 - [EC meets both TMC factions amid their 'real party' claims](https://timesofindia.indiatimes.com/india/ec-meets-both-tmc-factions-amid-their-real-party-claims/articleshow/134156501.cms)
 - [Brics opposes unilateral trade steps like EU carbon border tax](https://timesofindia.indiatimes.com/india/brics-opposes-unilateral-trade-steps-like-eu-carbon-border-tax/articleshow/134158775.cms)
-- [HDFC Bank sends names of 2 CEO candidates to RBI](https://timesofindia.indiatimes.com/business/india-business/hdfc-bank-sends-names-of-2-ceo-candidates-to-rbi/articleshow/134163788.cms)
 - [Harvard University has a 'September message' for all international students](https://timesofindia.indiatimes.com/technology/tech-news/harvard-university-has-a-september-message-for-all-international-students-planning-to-leave-america-as-well-as-those-staying-in-the-country/articleshow/134118705.cms)
 
 **NDTV**
@@ -62,6 +62,8 @@
 - [ಹರ್ಷಿತ್ ರಾಣಾ ಯಾವ ಸೀಮೆ ಆಲ್ರೌಂಡರ್?: ಗುರಿ ತಪ್ಪಿರುವ ಗೌತಮ್ ಗಂಭೀರ್ ರಣತಂತ್ರಕ್ಕೆ ಎಸ್ ಬದ್ರೀನಾಥ್ ಆಕ್ರೋಶ](https://vijaykarnataka.com/sports/cricket/news/s-badrinath-questions-gautam-gambhir-all-rounder-strategy-and-harshit-rana-role/articleshow/134132953.cms)
 
 **The Hindu**
+- [West Benagal govt. to revive Chandannagar’s French legacy](https://www.thehindu.com/news/national/west-bengal/west-benagal-govt-to-revive-chandannagars-french-legacy/article71460433.ece)
+- [West Bengal professors oppose Govt.’s inter-university transfer Bill, call it an attack on education](https://www.thehindu.com/news/national/west-bengal/west-bengal-teachers-association-opposes-inter-university-transfer-bill-calls-it-an-attack-on-education/article71460337.ece)
 - [Power cuts paralyse Punjab rice mills; Oppn. slams AAP over ‘Roshan Punjab’ promise](https://www.thehindu.com/news/national/punjab/power-cuts-paralyse-punjab-rice-mills-opon-slams-aap-over-roshan-punjab-promise/article71460277.ece)
 - [Police team attacked by angry villagers in Bihar’s Sitamarhi after husband of ward councillor shot dead by criminals](https://www.thehindu.com/news/national/bihar/police-team-attacked-by-angry-villagers-in-bihars-sitamarhi-after-husband-of-ward-councillor-shot-dead-by-criminals/article71460092.ece)
 - [Govt. employee quitting to fight polls can’t seek reinstatement: Rajasthan High Court](https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece)
@@ -70,8 +72,6 @@
 - ['Millet pulao', 'paneer lababdar', 'shahtoot phirni': BRICS Summit gala dinner menu](https://www.thehindu.com/news/national/brics-summit-gala-dinner-menu/article71461293.ece)
 - [Chhattisgarh BJP Minister's brother Guru Dhaldas Saheb joins Congress](https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-bjp-ministers-brother-guru-dhaldas-saheb-joins-congress/article71460770.ece)
 - [Jamia hostel protest over mess food escalates; varsity denies assault charges](https://www.thehindu.com/news/cities/Delhi/jamia-hostel-protest-aisa-claims-students-assaulted-university-refutes-charge/article71459572.ece)
-- [Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths](https://www.thehindu.com/news/national/madhya-pradesh/balaghat-child-deaths-cjp-convernor-dipke-visits-tribal-villages-demands-accountability/article71459426.ece)
-- [Kerala Assistant Public Prosecutors Association gets new office-bearers](https://www.thehindu.com/news/national/kerala/kerala-assistant-public-prosecutors-association-gets-new-office-bearers/article71459804.ece)
 
 **Livemint**
 - [Trump's childhood home in Queens was once a cat den. Now it has sold for  ₹18.44 crore](https://www.livemint.com/news/us-news/trumps-childhood-home-in-queens-was-once-a-cat-den-now-it-has-sold-for-18-44-crore-11789236131291.html)
@@ -106,29 +106,29 @@
 - Opinion (5.2)
 - Delhi (3.5)
 - BRICS Summit (3.0)
+- Afghanistan (2.6)
 - September (2.6)
 - Highlights (2.6)
 - Millet (2.6)
 - What's (2.6)
+- Govt (2.6)
 - Congress (2.6)
 - Summit (2.5)
 - PM Modi (2.0)
-- New Delhi (2.0)
-- West Asia (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [HDFC Bank sends two names to RBI for next MD & CEO](https://www.thehindu.com/business/hdfc-bank-sends-two-names-to-rbi-for-next-md-ceo/article71459932.ece)
-- [ఆదిలాబాద్ విమానాశ్రయం ఏర్పాటుకు అడుగులు వేగంగా పడుతున్నాయి: కిషన్ రెడ్డి](https://www.andhrajyothy.com/2026/telangana/adilabad/adilabad-airport-project-gets-major-push-centre-fast-tracks-joint-use-airfield-in-telangana-suri-1557610.html)
-- [BRICS Summit : ब्रिक्स शिखर परिषदेत तीन मोठे नेते एकत्र, जगाला नेमका संदेश काय?](https://www.tv9marathi.com/national/rics-summit-three-big-leaders-together-at-the-summit-what-is-the-precise-message-to-the-world-1755065.html)
-- [जिनपिंग यांची रहस्यमयी कार काळ्या कव्हरने का झाकली? चीनला नेमकं काय लपवायचंय?](https://www.tv9marathi.com/national/xi-jinpings-mysterious-hongqi-n701-why-chinas-presidential-limousine-was-black-covered-1755090.html)
-- [Malda Flood: কুর্নিশ, বন্যায় ডুবে হাসপাতাল, সেখানেই চিকিৎসা ডাঃ অরিজিৎ ও নার্স-কর্মীদের](https://bangla.aajtak.in/west-bengal/story/malda-flood-dr-arijit-stays-at-submerged-ratua-block-hospital-prb-1449861-2026-09-12)
-- [Mumbai-based Air India pilot dies in Delhi hotel hours before flying](https://www.hindustantimes.com/india-news/air-india-cockpit-crew-member-dies-during-layover-at-delhi-hotel-101789213060816.html)
-- [రూ.3.5 కోట్లు ఖర్చుపెట్టా.. తిరిగివ్వు.. మాజీ ప్రేయసిపై సీఈవో దావా](https://www.eenadu.net/telugu-news/nri/indianorigin-ceo-spent--crores-of-rupees-on-girlfriend-sued-her-after-break-up/1101/126165130)
-- [সিরাজের হাতে এ বার নেতৃত্বের ব্যাটন, কোন দলের অধিনায়ক হলেন?](https://eisamay.com/sports/cricket/mohammed-siraj-named-captain-of-hyderabad-set-to-lead-team-in-ranji-trophy/200541649.cms)
-- [शी जिनपिंग की भारत यात्रा और ब्रिक्स 2026 को चीन का मीडिया कैसे देख रहा है](https://www.bbc.com/hindi/articles/c39m7xv13z1o)
-- [22ఏ నుంచి తొలగించిన ప్రతి ఎకరాకు లెక్కలున్నాయ్‌: పొంగులేటి](https://www.eenadu.net/telugu-news/telangana/minister-ponguleti-speech-in-assembly/1801/126165118)
+- [‘പൊലീസിൽ പരാതി കൊടുക്ക്’ എന്ന് അധ്യാപകന്റെ ഭീഷണി, കേസായപ്പോൾ ഒളിവിൽ- Anchal Student Assault](https://www.manoramaonline.com/news/latest-news/2026/09/12/anchal-tutorial-teacher-assaults-student-updates.html)
+- [ENG vs PAK: इंग्लैंड ने धो-धोकर उतारा पाकिस्तान का खुमार, 3-0 से सूपड़ा साफ कर थमाया वापसी का टिकट!](https://www.aajtak.in/sports/cricket/story/eng-vs-pak-england-win-third-test-against-pakistan-by-eight-wickets-and-complete-a-3-0-clean-sweep-aksp-dskc-2641548-2026-09-12)
+- [विनेश फोगाटला मोठा धक्का, कोर्टाकडून निवड चाचणीत सहभागी होण्यास नकार, कारण काय?](https://maharashtratimes.com/sports/other-sports/delhi-hc-rejects-vinesh-phogat-plea-to-stay-world-championship-trial-rules-wrestler/articleshow/134131177.cms)
+- [ENG vs PAK | ఎడ్జ్‌బాస్టన్‌లోనూ చిత్తైన పాకిస్థాన్‌.. 3-0తో సిరీస్ గెలుపొందిన ఇంగ్లండ్..!](https://www.ntnews.com/sports/england-crushes-pak-in-edgbaston-wins-serie-with-3-0-2509455)
+- [আমেরিকায় খুন তরুণী](https://www.aaroananda.com/story/latest-news/breaking-news/indian-origin-girl-shot-dead-by-stalker-in-california-us/11019325)
+- [IND vs AFG: જસપ્રીત બુમરાહની બોલિંગમાં જોવા મળશે નવો અંદાજ? ઈજામાંથી વાપસી બાદ કર્યો આ મોટો ફેરફાર](https://tv9gujarati.com/photo-gallery/cricket-photos/ind-vs-afg-team-india-pacer-jasprit-bumrah-bowling-style-major-change-in-run-up-1514312.html)
+- [कृषी विभागाचा आकृतीबंध अखेर रद्द; कृषी मंत्री दत्तात्रय भरणे यांची घोषणा](https://www.loksatta.com/mumbai/dattatray-bharne-maharashtra-krishi-vibhag-akrutibandh-cancelled-news-rak-94-6133837/)
+- [அரசியல் கதையில் கவுதம் ராம் கார்த்திக்](https://cinema.dinamalar.com/news/kollywood/gautam-ram-karthik-in-a-political-story/140851)
+- [Shalini Thakur | అమెరికాలో భార‌త యువ‌తిని వెంటాడి హ‌త్య చేసిన భార‌త యువ‌కుడు.. అనంత‌రం ఆత్మ‌హ‌త్య‌](https://www.ntnews.com/international/indian-origin-woman-shalini-thakur-38-chased-shot-dead-by-stalker-outside-california-restaurant-2509454)
+- ['ટોક્સિક' ફ્લોપ જતાં 300 કરોડનું નુકસાન, યશ ભાંગી પડ્યો, ફિલ્મે બજેટ પણ ના વસૂલી શકી?](https://www.gujaratsamachar.com/news/entertainment/toxic-flopped-causing-a-loss-of-300-crores-yash-collapsed-the-film-could-not-even-recover-its-budget-47253356445)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
