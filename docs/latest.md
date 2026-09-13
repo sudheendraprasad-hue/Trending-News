@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-13 02:34:20
+# India Trending Report — 2026-09-13 03:01:52
 
 ## Google Trends (India) — top trending searches
-1. [मकान मालिक](https://trends.google.com/trending/rss?geo=IN)
-2. [sporting kc vs lafc](https://trends.google.com/trending/rss?geo=IN)
-3. [बेसन](https://trends.google.com/trending/rss?geo=IN)
-4. [braves vs phillies](https://trends.google.com/trending/rss?geo=IN)
-5. [hartalika teej](https://trends.google.com/trending/rss?geo=IN)
-6. [జోజు జార్జ్](https://trends.google.com/trending/rss?geo=IN)
-7. [satellite images](https://trends.google.com/trending/rss?geo=IN)
-8. [தினமலர்](https://trends.google.com/trending/rss?geo=IN)
-9. [jamaica kingsmen vs barbados royals](https://trends.google.com/trending/rss?geo=IN)
-10. [ఇరాన్](https://trends.google.com/trending/rss?geo=IN)
+1. [ganesh chaturthi 2026](https://trends.google.com/trending/rss?geo=IN)
+2. [today cricket match](https://trends.google.com/trending/rss?geo=IN)
+3. [సెప్టెంబర్ 13](https://trends.google.com/trending/rss?geo=IN)
+4. [ಹರೀಶ್ ರಾವತ್](https://trends.google.com/trending/rss?geo=IN)
+5. [हरतालिका तीज कब है](https://trends.google.com/trending/rss?geo=IN)
+6. [malaysia vs japan](https://trends.google.com/trending/rss?geo=IN)
+7. [मकान मालिक](https://trends.google.com/trending/rss?geo=IN)
+8. [बेसन](https://trends.google.com/trending/rss?geo=IN)
+9. [sporting kc vs lafc](https://trends.google.com/trending/rss?geo=IN)
+10. [braves vs phillies](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Brics declaration: India’s readout skips mention of Xi’s ‘partners, not rivals’ statement](https://timesofindia.indiatimes.com/india/thaw-in-ties-deserves-to-be-cherished-says-xi-border-peace-is-essential-pm-modi/articleshow/134171824.cms)
 - [Brics hammers out joint declaration after India bridges Iran-UAE chasm](https://timesofindia.indiatimes.com/india/brics-hammers-out-joint-declaration-after-india-bridges-iran-uae-chasm/articleshow/134153102.cms)
-- ['Global South must shape, not just follow, rules': PM Modi at Brics Summit](https://timesofindia.indiatimes.com/india/modi-global-south-must-shape-not-just-follow-rules/articleshow/134158493.cms)
 - [81-year-old meets schoolmate PM Modi to seek CBI probe in land dispute](https://timesofindia.indiatimes.com/city/mumbai/81-year-old-meets-schoolmate-pm-modi-to-seek-cbi-probe-in-land-dispute/articleshow/134147823.cms)
-- [UP govt misusing Goonda Act for harassment: Allahabad HC](https://timesofindia.indiatimes.com/city/lucknow/goonda-act-is-being-used-as-a-tool-of-harassment-hc/articleshow/134153125.cms)
-- [Wushu athlete Divyanshi accepts Asiad squad axe, alleges harassment by Roshibina](https://timesofindia.indiatimes.com/sports/asian-games-2026/wushu-athlete-divyanshi-choudhary-accepts-federations-decision-to-drop-her-from-asian-games-squad-alleges-harassment-by-roshibina-devi/articleshow/134169292.cms)
+- [Crazy day of chess! Carlsen loses, boosts Sindarov’s GCL hopes, only to be denied](https://timesofindia.indiatimes.com/sports/chess/a-crazy-day-of-chess-magnus-carlsen-loses-for-first-time-boosts-javokhir-sindarovs-gcl-final-hopes-only-to-be-denied/articleshow/134171949.cms)
+- [‘Slipped and fell’ on saleswoman, then kissed her twice: Mumbai man gets 1-year jail](https://timesofindia.indiatimes.com/city/mumbai/slipped-and-fell-on-saleswoman-then-kissed-her-twice-mumbai-man-gets-1-year-jail/articleshow/134172064.cms)
 - [Mark Zuckerberg on how engineers made him return to Musk's X after 3 years in 2026](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-him-do-it/articleshow/134147562.cms)
-- [‘Need to reflect on our mistakes’: Babar Azam calls for changes after 0-3 loss](https://timesofindia.indiatimes.com/sports/cricket/news/we-need-to-sit-down-and-reflect-on-our-mistakes-babar-azam-calls-for-changes-after-pakistans-0-3-england-sweep/articleshow/134171153.cms)
-- [Mass protests erupt in Germany as AfD eyes breakthrough in eastern states](https://timesofindia.indiatimes.com/world/europe/mass-protests-erupt-in-germany-as-afd-eyes-breakthrough-in-eastern-states/articleshow/134171697.cms)
-- [EC meets both TMC factions amid their 'real party' claims](https://timesofindia.indiatimes.com/india/ec-meets-both-tmc-factions-amid-their-real-party-claims/articleshow/134156501.cms)
+- [Game time after injury hiccups: Full-strength India take on Afghanistan in 1st T20I](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/game-time-after-injury-hiccups-full-strength-india-take-on-afghanistan-in-first-t20i/articleshow/134173420.cms)
+- [Brics Summit success gives BJP a boost in domestic politics](https://timesofindia.indiatimes.com/india/summit-success-gives-bjp-a-boost-in-domestic-politics/articleshow/134158188.cms)
+- [Break-in attempt at ex-US VP Kamala Harris' Malibu house](https://timesofindia.indiatimes.com/world/us/break-in-attempt-at-kamala-harris-malibu-house-woman-intercepted-by-security/articleshow/134172302.cms)
 - [Harvard University has a 'September message' for all international students](https://timesofindia.indiatimes.com/technology/tech-news/harvard-university-has-a-september-message-for-all-international-students-planning-to-leave-america-as-well-as-those-staying-in-the-country/articleshow/134118705.cms)
 
 **NDTV**
@@ -38,6 +38,8 @@
 - ['Won't Field Candidate': Trinamool Rebels' Nandigram Offer To Mamata Banerjee](https://www.ndtv.com/india-news/fight-nandigram-bypoll-trinamool-rebels-no-candidate-offer-to-mamata-banerjee-12038269#publisher=newsstand)
 
 **Hindustan Times**
+- [Terror, tariffs and AI: What are the key takeaways from BRICS New Delhi Declaration](https://www.hindustantimes.com/india-news/terror-tariffs-ai-what-are-the-key-takeaways-from-brics-new-delhi-declaration-101789266163962.html)
+- [Why Chinese President Xi Jinping skipped BRICS gala dinner hosted by PM Modi in Delhi](https://www.hindustantimes.com/india-news/why-chinese-president-xi-jinping-skipped-brics-gala-dinner-hosted-by-pm-narendra-modi-in-delhi-101789265954808.html)
 - [37 Indian deep-tech startups attend Bharat Innovates event](https://www.hindustantimes.com/india-news/37-indian-deep-tech-startups-attend-bharat-innovates-event-101789238916432.html)
 - [Brics nations to explore new university ranking system, back start-ups](https://www.hindustantimes.com/india-news/brics-nations-to-explore-new-university-ranking-system-back-startups-101789238855619.html)
 - [Brics nations agree to set up agri info network, grain trading portal](https://www.hindustantimes.com/india-news/brics-nations-agree-to-set-up-agri-info-network-grain-trading-portal-101789238675387.html)
@@ -46,22 +48,22 @@
 - [BJP-Congress clash over BRICS declaration: ‘Diplomatic win’ vs ‘Modi’s failures’](https://www.hindustantimes.com/india-news/bjpcongress-clash-over-brics-declaration-diplomatic-win-vs-modi-s-failures-101789264461787.html)
 - [‘Thrown off roof’ by in-laws over dowry demand, Ghaziabad woman dies in hospital](https://www.hindustantimes.com/cities/noida-news/gzb-woman-thrown-from-in-laws-house-dies-2-detained-101789236211708.html)
 - ['Transform into rule-shapers': At BRICS 2026, PM Modi pushes for Global South as decision makers](https://www.hindustantimes.com/india-news/brics-summit-2026-pm-modi-pushes-for-global-south-as-decision-makers-india-russia-indonesia-vietnam-101789261192294.html)
-- [‘Room locked from inside’: Air India captain found dead in Delhi hotel; brother alerted staff](https://www.hindustantimes.com/india-news/room-locked-from-inside-air-india-captain-found-dead-in-delhi-hotel-brother-alerted-staff-101789262978574.html)
-- [BRICS 2026 LIVE updates: After New Delhi declaration, BRICS leaders to hold open session on Day 2](https://www.hindustantimes.com/india-news/brics-2026-live-updates-day-2-pm-modi-xi-jinping-vladimir-putin-masoud-pezeshkian-new-delhi-declaration-latest-101789260489778.html)
 
 **Vijay Karnataka**
+- [ಸತೀಶ್ ಜಾರಕಿಹೊಳಿಗೆ ಲೋಕಾ ತನಿಖೆ ಉರುಳು? ದಾಳಿಯಲ್ಲಿ ಸಿಕ್ಕ ಹೆದ್ದಾರಿ ಗುತ್ತಿಗೆ ಅಕ್ರಮದ ಮಾಹಿತಿ ಸಲ್ಲಿಕೆಗೆ ಇ.ಡಿ ಸಿದ್ಧತೆ](https://vijaykarnataka.com/news/karnataka/after-ed-satish-jarkiholi-facing-lokayukta-and-cbi-enquiry-challeng-ed-preparing-to-write-letter-regarding-corruption/articleshow/134170989.cms)
 - [ಕರ್ನಾಟಕದಲ್ಲಿ ಪಿಂಚಣಿಗೆ ಗ್ಯಾರಂಟಿ ಲಾಕ್‌: ಲಕ್ಷಾಂತರ ಫಲಾನುಭವಿಗಳ ಹೆಸರು ಡಿಲೀಟ್! ಸರಕಾರದ ಕ್ರಮದ ವಿರುದ್ಧ ಅಸಮಾಧಾನ](https://vijaykarnataka.com/news/karnataka/guarantee-schemes-became-barrier-for-social-pensions-in-karnataka-durig-revision-lakhs-of-names-deleted-government-steps-criticized-by-beneficiaries/articleshow/134168876.cms)
 - [ಗಣೇಶ ಹಬ್ಬದ ವಿಶೇಷ ರೈಲು ಕೊಡದೆ ಮಂಗಳೂರಿಗೆ ಅನ್ಯಾಯ: ಯಶವಂತಪುರ- ಮಡಗಾಂವ್‌ ಮಧ್ಯೆ ಕೊಟ್ಟರೂ, ಮಂಗಳೂರಿಗೆ ಯಾಕಿಲ್ಲ?](https://vijaykarnataka.com/news/mangaluru/festival-special-train-not-operated-between-bangalore-and-mangalore-which-is-given-between-bangalore-and-madagav/articleshow/134168916.cms)
-- [BRICS Summit 2026: ದಶಕದ ಬಳಿಕ ಒಂದೇ ವೇದಿಕೆಯಲ್ಲಿ ಮೋದಿ-ಪುಟಿನ್-ಜಿನ್‌ ಪಿಂಗ್! ಮೊದಲ ದಿನ ನಡೆದದ್ದೇನು?](https://vijaykarnataka.com/news/india/brics-summit-highlights-modi-putin-jinping-important-meetings/articleshow/134148094.cms)
 - [ಇಂಡಿಯನ್ ಬಾಡಿ ಟೈಪ್ ಬಗ್ಗೆ ಆರ್. ಮಾಧವನ್ ಪುತ್ರ ವೇದಾಂತ್ ಹೇಳಿದ್ದೇನು? ಕ್ರೀಡೆಯಲ್ಲಿ ನಮ್ಮ ಕೊರತೆ ಇಲ್ಲಿದೆ!](https://vijaykarnataka.com/lifestyle/fitness/r-madhavan-son-vedaant-sports-fitness-insights/articleshow/134125078.cms)
-- [ಸಿಎಂ ಡಿಕೆ ಶಿವಕುಮಾರ್ ಎಚ್ಚರಿಕೆ ಬೆನ್ನಲ್ಲೇ ಎಚ್ಚೆತ್ತ ಕರ್ನಾಟಕ ಪೊಲೀಸ್: 800 ಬಾಲಕಾರ್ಮಿಕರ ಬಾಳಿನಲ್ಲಿ ಹೊಸಬೆಳಕು!](https://vijaykarnataka.com/news/karnataka/karnataka-police-rescues-800-child-laborers-after-alert-by-cm-dk-shivakumar/articleshow/134144586.cms)
+- [BRICS Summit 2026: ದಶಕದ ಬಳಿಕ ಒಂದೇ ವೇದಿಕೆಯಲ್ಲಿ ಮೋದಿ-ಪುಟಿನ್-ಜಿನ್‌ ಪಿಂಗ್! ಮೊದಲ ದಿನ ನಡೆದದ್ದೇನು?](https://vijaykarnataka.com/news/india/brics-summit-highlights-modi-putin-jinping-important-meetings/articleshow/134148094.cms)
 - [BBK 13: ಈ ಬಾರಿ ವಿನ್ನರ್‌ಗೆ ಮಾತ್ರವಲ್ಲ.. ರನ್ನರ್‌ ಅಪ್‌ಗೂ ಸಿಗಲಿದೆ ಲಕ್ಷ ಲಕ್ಷ ಹಣ! ಎಷ್ಟು ಗೊತ್ತಾ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-week-1-kiccha-sudeep-announces-winner-and-runner-up-prize-money-details/articleshow/134153459.cms)
 - [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
 - [2026 ಗಣೇಶ ಚತುರ್ಥಿ: ಗಣೇಶ ಪೂಜೆಯಲ್ಲಿ ಅರ್ಪಿಸಬಾರದ ವಸ್ತುಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/ganesh-chaturthi-2026-do-not-offer-these-things-to-lord-ganesha/articleshow/134133886.cms)
 - [ಫ್ರಿಡ್ಜ್‌ನಲ್ಲಿ ಬೆಂಡೆಕಾಯಿ ಅಂಟಾಗದಂತೆ ತಾಜಾ ಇಡೋದು ಹೇಗೆ? ಈ ಟಿಪ್ಸ್ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/home-decor/how-to-keep-bhindi-fresh-in-the-fridge-without-getting-sticky/articleshow/134112541.cms)
-- [ಪಾಕ್ ಕೊನೇ ಪ್ರಯತ್ನಕ್ಕೆ ತಣ್ಣೀರೆರಚಿದ ಜೋ ರೂಟ್ ಅಜೇಯ `ಅರ್ಧಶತಕ'; ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಮಹತ್ವದ ವಿಶ್ವದಾಖಲೆಯೂ ಧೂಳೀಪಟ!](https://vijaykarnataka.com/sports/cricket/news/england-vs-pakistan-edgbaston-test-joe-root-breaks-world-record-of-most-half-centuries-of-sachin-tendulkar/articleshow/134140026.cms)
+- [ಸಿಎಂ ಡಿಕೆ ಶಿವಕುಮಾರ್ ಎಚ್ಚರಿಕೆ ಬೆನ್ನಲ್ಲೇ ಎಚ್ಚೆತ್ತ ಕರ್ನಾಟಕ ಪೊಲೀಸ್: 800 ಬಾಲಕಾರ್ಮಿಕರ ಬಾಳಿನಲ್ಲಿ ಹೊಸಬೆಳಕು!](https://vijaykarnataka.com/news/karnataka/karnataka-police-rescues-800-child-laborers-after-alert-by-cm-dk-shivakumar/articleshow/134144586.cms)
 
 **The Hindu**
+- [Review | 5 Stories, Konkani and Kannada anthologies raise the bar for Indian translations](https://www.thehindu.com/books/books-reviews/5-stories-konkani-vidya-pai-kannada-susheela-punitha-translation/article71327762.ece)
+- [Had West Bengal  not been created, we would have suffered fate of Chinmoy Das of Bangladesh, says Suvendu Adhikari](https://www.thehindu.com/news/national/west-bengal/had-west-bengal-not-been-created-we-would-have-suffered-fate-of-chinmoy-das-of-bangladesh-says-suvendu-adhikari/article71460606.ece)
 - [BRICS Summit 2026 LIVE updates: Global leaders express concern about 'growing risks' of nuclear danger and conflict](https://www.thehindu.com/news/national/brics-summit-2026-india-live-updates-narendra-modi-world-leaders-new-delhi-declaration-key-agenda-september-13-2026/article71462451.ece)
 - [Slum settlement in south Delhi veiled for BRICS Summit](https://www.thehindu.com/news/national/slum-settlement-in-south-delhi-veiled-for-brics-summit/article71460950.ece)
 - [800 child labourers, 503 from Bengaluru alone, rescued in two-hour crackdown across Karnataka](https://www.thehindu.com/news/cities/bangalore/800-child-labourers-503-from-bengaluru-alone-rescued-in-two-hour-crackdown-across-karnataka/article71460926.ece)
@@ -70,10 +72,9 @@
 - [West Bengal professors oppose Govt.’s inter-university transfer Bill, call it an attack on education](https://www.thehindu.com/news/national/west-bengal/west-bengal-teachers-association-opposes-inter-university-transfer-bill-calls-it-an-attack-on-education/article71460337.ece)
 - [Power cuts paralyse Punjab rice mills; Oppn. slams AAP over ‘Roshan Punjab’ promise](https://www.thehindu.com/news/national/punjab/power-cuts-paralyse-punjab-rice-mills-opon-slams-aap-over-roshan-punjab-promise/article71460277.ece)
 - [Police team attacked by angry villagers in Bihar’s Sitamarhi after husband of ward councillor shot dead by criminals](https://www.thehindu.com/news/national/bihar/police-team-attacked-by-angry-villagers-in-bihars-sitamarhi-after-husband-of-ward-councillor-shot-dead-by-criminals/article71460092.ece)
-- [Govt. employee quitting to fight polls can’t seek reinstatement: Rajasthan High Court](https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece)
-- [Mehbooba Mufti welcomes BRICS condemnation of Pahalgam terror attack, but calls out ‘selective outrage’](https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-mufti-welcomes-brics-condemnation-of-pahalgam-terror-attack-but-calls-out-selective-outrage/article71461116.ece)
 
 **Livemint**
+- [Trespasser stopped outside ex V-P Kamala Harris' Malibu residence, year after Trump revoked Secret Service protection](https://www.livemint.com/news/us-news/trespasser-stopped-outside-ex-v-p-kamala-harris-malibu-residence-year-after-trump-revoked-secret-service-protection-11789266296772.html)
 - [Indian man who illegally entered US stalked Shalini Thakur, ‘fired at her': Chilling details of California murder emerge](https://www.livemint.com/news/us-news/chilling-details-of-california-murder-emerge-indian-man-who-illegally-entered-us-stalked-shalini-thakur-fired-at-her-11789264359371.html)
 - [‘Life feels more expensive’: Indian-origin resident says Canada has lost the affordability it once had](https://www.livemint.com/news/trends/life-feels-more-expensive-indian-origin-resident-says-canada-has-lost-the-affordability-it-once-had-11789264501231.html)
 - [Iran war LIVE Updates: Trump says Iran ‘probably’ behind Saudi oil pipeline attack; vessel in Strait of Hormuz hit](https://www.livemint.com/news/us-news/iran-war-live-updates-saudi-oil-pipeline-attack-houthis-trump-vessel-strait-of-hormuz-bab-almandab-11789261173506.html)
@@ -83,7 +84,6 @@
 - [Indian-origin woman who went viral for dispute with tenant over barbeque, arrested in Canada, new allegations surface](https://www.livemint.com/news/trends/indianorigin-woman-who-went-viral-for-dispute-with-tenant-over-barbeque-arrested-in-canada-new-allegations-surface-11789231240312.html)
 - [Mushroom galouti, paneer lababdar, millet pulao, beetroot raita: What's for dinner at PM Modi's BRICS day 1?](https://www.livemint.com/news/india/mushroom-galouti-paneer-lababdar-millet-pulao-beetroot-raita-whats-for-dinner-at-pm-modis-brics-day-1-11789228417972.html)
 - [Mitch McConnel to return to US Senate next week after health issues? What Republican leader's office revealed](https://www.livemint.com/news/us-news/mitch-mcconnel-to-return-to-us-senate-next-week-after-health-issues-what-republican-leaders-office-revealed-11789220668820.html)
-- [Who is Divyanshi Choudhary? Why did teen Wushu athlete threaten suicide after Asian Games exit?](https://www.livemint.com/news/india/who-is-divyanshi-choudhary-why-did-teen-wushu-athlete-threaten-suicide-after-asian-games-exit-11789224514257.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,8 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [AI ಅಭಿವೃದ್ಧಿಯ ವೇಗಕ್ಕೆ ಕಡಿವಾಣ ಅಗತ್ಯ: ಆಂಥ್ರೊಪಿಕ್‌ ನ ಸಿಇಒ ಡೇರಿಯೊ ಅಮೋಡೆ](https://www.varthabharati.in/National/ai-race-needs-a-slowdown-anthropics-dario-amodei-says-musk-altman-agree-2274880)
+- [Kanakagiri | ಸ್ವಂತ ಕಟ್ಟಡದಲ್ಲಿಲ್ಲ ಹಲವು ಅಂಗನವಾಡಿ ಕೇಂದ್ರಗಳು](https://www.varthabharati.in/nimma-ankana/kanakagiri-many-anganwadi-centres-lack-their-own-buildings-2274879)
 - [ಚರಂಡಿ ನೀರು ನಿಂತು ದುರ್ವಾಸನೆ : ಸುಗಮ ಹರಿವಿಗೆ ನಿಡಗುಂದಿ ಜನರ ಆಗ್ರಹ](https://www.varthabharati.in/nimma-ankana/stagnant-sewage-causing-foul-odor-nidagundi-residents-demand-smooth-flow-2274878)
 - [ಆಲಮೇಲ ಪಟ್ಟಣಕ್ಕೆ 100 ಅಡಿ ರಿಂಗ್ ರೋಡ್ ರಸ್ತೆ!](https://www.varthabharati.in/nimma-ankana/100-feet-ring-road-road-to-alamela-town-2274877)
 - [ಸಿರುಗುಪ್ಪ | ವರಮಯ್ಯ ಕಾಲನಿಗೆ ನೀರಿಲ್ಲ, ರಸ್ತೆ ಸೌಕರ್ಯವೂ ಇಲ್ಲ!](https://www.varthabharati.in/nimma-ankana/siruguppa-no-water-or-road-facilities-in-varamayya-colony-2274876)
@@ -106,39 +108,37 @@
 - [Raichur | ಕಳಪೆ ಆಹಾರ ಪೂರೈಕೆ ಆರೋಪ : ವಸತಿನಿಲಯಗಳಲ್ಲಿ ನಿರ್ಮಲ ನಿಲಯ ಅಭಿಯಾನಕ್ಕೆ ಜಿಪಂ ಆದೇಶ](https://www.varthabharati.in/raichur/raichur-allegations-of-poor-quality-food-supply-zilla-panchayat-orders-nirmala-nilaya-campaign-in-hostels-2274873)
 - [ಬೆದರಿಸಿ ಇರಾನ್‌ ಅನ್ನು ಶರಣಾಗುವಂತೆ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ: ಪೆಜೆಶ್ಕಿಯನ್](https://www.varthabharati.in/international/cant-bully-iran-into-surrender-pezeshkian-slams-us-strikes-on-civilian-targets-2274872)
 - [ನೀರು ಪರೀಕ್ಷೆ ಲ್ಯಾಬ್ ಮೇಲೆ ಸಚಿವ ರಾಮಲಿಂಗಾರೆಡ್ಡಿ ಅಧಿಕಾರಿಗಳೊಂದಿಗೆ ದಾಳಿ: ಪರಿಶೀಲನೆ](https://www.varthabharati.in/bangalore-city/minister-ramalingareddy-2274870)
-- [ಸಿದ್ದರಾಮಯ್ಯ ಅವರು ಪರ್ಯಾಯ ಅಹಿಂದ ನಾಯಕನ್ನು ಬೆಳೆಸಲು ಮುಂದಾಗಬೇಕು : ಸಿ.ಎಂ.ಇಬ್ರಾಹಿಂ](https://www.varthabharati.in/bangalore-city/cm-ibrahim-2274869)
-- [Hubballi | 'ಅಲ್ ಜಾಮಿಯಾತುಲ್ ಅಶ್ರಫಿಯಾ ಖದೀಜತುಲ್ ಕುಬ್ರಾ ಲಿಲ್ ಬನಾತ್' ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗೆ ಸಚಿವ ಯು.ಟಿ.ಖಾದರ್ ಭೇಟಿ; ವಿದ್ಯಾರ್ಥಿನಿಯರೊಂದಿಗೆ ಸಂವಾದ](https://www.varthabharati.in/dharwad/hubballi-2274868)
 
 ## Cross-source trending keywords (derived from headlines above)
-- BRICS (11.1)
+- BRICS (8.8)
+- Brics (5.5)
 - BRICS Summit (5.0)
 - Emkay Global Financial (5.0)
-- Brics (4.2)
+- India (4.8)
 - Modi (4.1)
 - PM Modi (4.0)
+- Indian (3.9)
 - Delhi (3.5)
-- India (3.5)
-- Global (3.4)
 - Summit (3.4)
-- LIVE (3.2)
+- Global (3.1)
 - ICICI Securities (3.0)
 - target (3.0)
-- Wushu (2.6)
+- Trump (2.9)
 - Opinion (2.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [LG's denial over TV spying claims ‘does not address the full privacy picture’, experts say - after report accuses it of making ‘216,000,000 spy TVs’](https://www.techradar.com/televisions/lgs-denial-over-tv-spying-claims-does-not-address-the-full-privacy-picture-experts-say-after-report-accuses-it-of-making-216-000-000-spy-tvs)
-- [సచిన్ టెండూల్కర్ రికార్డు బద్దలు కొట్టిన జో రూట్!](https://telugu.samayam.com/sports/cricket/news/joe-root-overtakes-sachin-tendulkar-to-become-player-with-most-test-fifties/articleshow/134137433.cms)
-- [रोहिणी आचार्य को मृत्युंजय तिवारी ने बताया RJD के अंदर का 'विद्रोह' वाला सच! सिंगापुर तक भेज दिया अपना सियासी संदेश](https://navbharattimes.indiatimes.com/state/bihar/patna/mrityunjay-tiwari-reveals-truth-about-rebellion-within-rjd-to-rohini-acharya-political-message-send-singapore/articleshow/134137823.cms)
-- [Nitesh Rane Modi Express : मंत्री नितेश राणेंच्या माध्यमातून दुसरी 'मोदी एक्सप्रेस' उद्या रवाना होणार](https://www.prahaar.in/2026/09/12/a-second-modi-express-will-depart-tomorrow-facilitated-by-minister-nitesh-rane/)
-- [ബുക്ക് മൈ ഷോയില്‍ റെക്കോര്‍ഡ് ഇട്ട് 'ബെത്‍ലഹേം'; വിറ്റത് 55 ലക്ഷം ടിക്കറ്റുകള്‍](https://www.asianetnews.com/entertainment-news/bethlehem-kudumba-unit-sold-55-lakhs-tickets-through-book-my-show-articleshow-npwz752)
-- [BRICS पर कांग्रेस सांसद इमरान मसूद का बड़ा बयान, 'आतंकवाद के साथ धर्म को...'](https://www.abplive.com/states/up-uk/brics-summit-2026-imran-masood-reaction-on-brics-summit-in-delhi-bharat-mandapam-3188010)
-- [સુરત: ભાજપના રાજ્યસભા સાંસદના પુત્ર સાથે ₹76.44 લાખની છેતરપિંડી! ઈ-સ્ટેમ્પ વેન્ડર પતિ-પત્નીની ધરપકડ](https://www.gujaratsamachar.com/news/surat/surat-e-stamp-vendor-embezzled-lakhs-of-rupees-from-customer-crime-branch-arrests-husband-and-wife-10098941122)
-- [லண்டனில் முதல்வர் விஜய் - அஜித் சந்திப்பு; கார் பந்தயத்தை துவக்கி வைக்கிறார்](https://www.dinamalar.com/news/world-tamil-news/chief-minister-vijay-ajit-meet-in-london-car-race-to-be-inaugurated/4321211)
-- [১ হাজার টাকা ঘুষ চাইতে গিয়ে বিপত্তি! পূর্ব মেদিনীপুরে হাতেনাতে গ্রেফতার সিভিক ভলান্টিয়ার](https://www.thewall.in/west-bengal/civic-volunteer-arrested-red-handed-in-east-midnapore-for-taking-1000-bribe-for-pcc/tid/204653)
-- [पेट्रोल-डीजल की कीमत तेजी से घटने वाली है, ईरान युद्ध को लेकर डोनाल्ड ट्रंप का बड़ा बयान](https://www.livehindustan.com/international/donald-trump-says-war-with-iran-to-end-after-us-midterm-elections-in-november-201789221710671.html)
+- [Vijay runs to Ajith, shares warm hug at Silverstone ahead of big race](https://www.indiatoday.in/movies/regional-cinema/story/cm-vijay-runs-towards-ajith-kumar-for-a-hug-in-iconic-video-at-silverstone-watch-2993306-2026-09-12)
+- [Brics summit: విభేదాలు వివాదాలు కాకూడదు: చైనా అధ్యక్షుడితో ప్రధాని మోదీ](https://www.v6velugu.com/differences-shouldnt-become-disputes-what-pm-modi-xi-discussed-in-bilateral-meet)
+- [Breaking News: Zomato પર કેશમાં પેમેન્ટ કરવું પડશે ‘મોંઘું’, કંપનીએ શરૂ કરી ‘Pay on Delivery Fee’](https://tv9gujarati.com/business/zomato-new-rule-for-cod-orders-customers-will-now-pay-an-extra-pay-on-delivery-fee-1514365.html)
+- [ബ്രിക്‌സ് ഉച്ചകോടി: നടന്നത് മാരത്തോണ്‍ ചര്‍ച്ചകള്‍; സംയുക്ത പ്രസ്താവനയില്‍ പലസ്തീനും പഹല്‍ഗാമും](https://www.reporterlive.com/topnews/international/2026/09/12/brics-summit-marathon-talks-palestine-pahalgam-included-in-joint-statement)
+- [லண்டனில் முதல்-அமைச்சர் விஜய் - அஜித் சந்திப்பு: ரசிகர்கள் உற்சாக வரவேற்பு..!](https://www.dailythanthi.com/news/world/chief-minister-meets-vijay-and-ajith-in-london-enthusiastic-welcome-from-fans)
+- [India rules out Brics currency proposal, backs local currency trade settlements](https://timesofindia.indiatimes.com/business/india-business/india-rules-out-brics-currency-proposal-backs-local-currency-trade-settlements/articleshow/134138086.cms)
+- [Big Blow to Vinesh Phogat: विनेश फोगटला मोठा धक्का; वर्ल्ड चॅम्पियनशिपच्या निवड चाचणीला कोर्टाची परवानगी नाही](https://www.lokshahi.com/sports/big-blow-to-vinesh-phogat-court-denies-permission-to-compete-in-world-championship-selection-trials-12525351)
+- [भारत के लिए खुलेगा होर्मुज? ईरानी राष्ट्रपति ने बता दी शर्त, अमेरिका को लेकर कही बड़ी बात](https://www.aajtak.in/india/news/story/iran-strait-of-hormuz-india-energy-crisis-oman-talks-imo-pezeshkian-ntc-mnrd-dskc-2641371-2026-09-12)
+- [டிரெய்லர் வெளியானது](https://www.dailythanthi.com/cinema/cinemanews/hiphop-aadhis-meesaya-murukku-2-film-trailer-out)
+- [২৫ হাজার টাকার মধ্যে সেরা Dolby Soundbars, আপনার লিভিং রুমের জন্য উপযুক্ত](https://tv9bangla.com/sponsored/best-dolby-soundbars-of-audio-brands-boat-under-rs-25000-for-your-living-room-1345951.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
