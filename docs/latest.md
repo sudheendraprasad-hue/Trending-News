@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-13 00:40:36
+# India Trending Report — 2026-09-13 01:01:45
 
 ## Google Trends (India) — top trending searches
-1. [cpl](https://trends.google.com/trending/rss?geo=IN)
-2. [गोचर](https://trends.google.com/trending/rss?geo=IN)
-3. [धनु](https://trends.google.com/trending/rss?geo=IN)
-4. [రాశి ఫలాలు](https://trends.google.com/trending/rss?geo=IN)
-5. [jose delgado](https://trends.google.com/trending/rss?geo=IN)
-6. [పింఛను](https://trends.google.com/trending/rss?geo=IN)
-7. [telugu](https://trends.google.com/trending/rss?geo=IN)
-8. [शेतकरी](https://trends.google.com/trending/rss?geo=IN)
-9. [समाचार खबरें](https://trends.google.com/trending/rss?geo=IN)
-10. [tommy mcmillen](https://trends.google.com/trending/rss?geo=IN)
+1. [jean silva](https://trends.google.com/trending/rss?geo=IN)
+2. [school holiday](https://trends.google.com/trending/rss?geo=IN)
+3. [cpl](https://trends.google.com/trending/rss?geo=IN)
+4. [गोचर](https://trends.google.com/trending/rss?geo=IN)
+5. [धनु](https://trends.google.com/trending/rss?geo=IN)
+6. [ক্রিকেট](https://trends.google.com/trending/rss?geo=IN)
+7. [రాశి ఫలాలు](https://trends.google.com/trending/rss?geo=IN)
+8. [పింఛను](https://trends.google.com/trending/rss?geo=IN)
+9. [jose delgado](https://trends.google.com/trending/rss?geo=IN)
+10. [telugu](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Brics hammers out joint declaration after India bridges Iran-UAE chasm](https://timesofindia.indiatimes.com/india/brics-hammers-out-joint-declaration-after-india-bridges-iran-uae-chasm/articleshow/134153102.cms)
 - ['Global South must shape, not just follow, rules': PM Modi at Brics Summit](https://timesofindia.indiatimes.com/india/modi-global-south-must-shape-not-just-follow-rules/articleshow/134158493.cms)
 - [RBI rejects Tata Sons' bid to stay private, directs listing](https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-tata-sons-bid-to-stay-private-directs-listing/articleshow/134163398.cms)
+- [Bumrah, Sooryavanshi on Afghanistan's radar: Ibrahim Zadran reveals plans](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/jasprit-bumrah-vaibhav-sooryavanshi-on-afghanistans-radar-ibrahim-zadran-reveals-plans/articleshow/134143658.cms)
 - [25 years after 9/11, al-Qaida and terror camps have returned to Afghanistan: US](https://timesofindia.indiatimes.com/world/us/25-years-after-9/11-al-qaida-and-terror-camps-have-returned-to-afghanistan-us/articleshow/134131985.cms)
-- [India to get another major DRDO missile testing range in Bengal](https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms)
 - [Mark Zuckerberg on how engineers made him return to Musk's X after 3 years in 2026](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-him-do-it/articleshow/134147562.cms)
+- [New No. 1 Elena Rybakina dethrones Aryna Sabalenka to win US Open title](https://timesofindia.indiatimes.com/sports/tennis/top-stories/new-no-1-elena-rybakina-dethrones-aryna-sabalenka-to-win-us-open-title/articleshow/134168521.cms)
+- [India to get another major DRDO missile testing range in Bengal](https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms)
 - [Meghalaya CM Sangma calls on guv amid reports of 8 UDP MLAs planning to join BJP](https://timesofindia.indiatimes.com/city/guwahati/conrad-calls-on-guv-amid-reports-of-8-udp-mlas-planning-to-join-bjp/articleshow/134148275.cms)
-- [EC meets both TMC factions amid their 'real party' claims](https://timesofindia.indiatimes.com/india/ec-meets-both-tmc-factions-amid-their-real-party-claims/articleshow/134156501.cms)
-- [Brics opposes unilateral trade steps like EU carbon border tax](https://timesofindia.indiatimes.com/india/brics-opposes-unilateral-trade-steps-like-eu-carbon-border-tax/articleshow/134158775.cms)
 - [Harvard University has a 'September message' for all international students](https://timesofindia.indiatimes.com/technology/tech-news/harvard-university-has-a-september-message-for-all-international-students-planning-to-leave-america-as-well-as-those-staying-in-the-country/articleshow/134118705.cms)
 
 **NDTV**
@@ -102,8 +102,8 @@
 ## Cross-source trending keywords (derived from headlines above)
 - BRICS (8.5)
 - India (6.4)
-- Brics (5.5)
 - Opinion (5.2)
+- Brics (4.2)
 - Delhi (3.5)
 - BRICS Summit (3.0)
 - Afghanistan (2.6)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [‘പൊലീസിൽ പരാതി കൊടുക്ക്’ എന്ന് അധ്യാപകന്റെ ഭീഷണി, കേസായപ്പോൾ ഒളിവിൽ- Anchal Student Assault](https://www.manoramaonline.com/news/latest-news/2026/09/12/anchal-tutorial-teacher-assaults-student-updates.html)
-- [ENG vs PAK: इंग्लैंड ने धो-धोकर उतारा पाकिस्तान का खुमार, 3-0 से सूपड़ा साफ कर थमाया वापसी का टिकट!](https://www.aajtak.in/sports/cricket/story/eng-vs-pak-england-win-third-test-against-pakistan-by-eight-wickets-and-complete-a-3-0-clean-sweep-aksp-dskc-2641548-2026-09-12)
-- [विनेश फोगाटला मोठा धक्का, कोर्टाकडून निवड चाचणीत सहभागी होण्यास नकार, कारण काय?](https://maharashtratimes.com/sports/other-sports/delhi-hc-rejects-vinesh-phogat-plea-to-stay-world-championship-trial-rules-wrestler/articleshow/134131177.cms)
-- [ENG vs PAK | ఎడ్జ్‌బాస్టన్‌లోనూ చిత్తైన పాకిస్థాన్‌.. 3-0తో సిరీస్ గెలుపొందిన ఇంగ్లండ్..!](https://www.ntnews.com/sports/england-crushes-pak-in-edgbaston-wins-serie-with-3-0-2509455)
-- [আমেরিকায় খুন তরুণী](https://www.aaroananda.com/story/latest-news/breaking-news/indian-origin-girl-shot-dead-by-stalker-in-california-us/11019325)
-- [IND vs AFG: જસપ્રીત બુમરાહની બોલિંગમાં જોવા મળશે નવો અંદાજ? ઈજામાંથી વાપસી બાદ કર્યો આ મોટો ફેરફાર](https://tv9gujarati.com/photo-gallery/cricket-photos/ind-vs-afg-team-india-pacer-jasprit-bumrah-bowling-style-major-change-in-run-up-1514312.html)
-- [कृषी विभागाचा आकृतीबंध अखेर रद्द; कृषी मंत्री दत्तात्रय भरणे यांची घोषणा](https://www.loksatta.com/mumbai/dattatray-bharne-maharashtra-krishi-vibhag-akrutibandh-cancelled-news-rak-94-6133837/)
-- [அரசியல் கதையில் கவுதம் ராம் கார்த்திக்](https://cinema.dinamalar.com/news/kollywood/gautam-ram-karthik-in-a-political-story/140851)
-- [Shalini Thakur | అమెరికాలో భార‌త యువ‌తిని వెంటాడి హ‌త్య చేసిన భార‌త యువ‌కుడు.. అనంత‌రం ఆత్మ‌హ‌త్య‌](https://www.ntnews.com/international/indian-origin-woman-shalini-thakur-38-chased-shot-dead-by-stalker-outside-california-restaurant-2509454)
-- ['ટોક્સિક' ફ્લોપ જતાં 300 કરોડનું નુકસાન, યશ ભાંગી પડ્યો, ફિલ્મે બજેટ પણ ના વસૂલી શકી?](https://www.gujaratsamachar.com/news/entertainment/toxic-flopped-causing-a-loss-of-300-crores-yash-collapsed-the-film-could-not-even-recover-its-budget-47253356445)
+- [138 years later, England-Pakistan series creates rare Test cricket feat](https://timesofindia.indiatimes.com/sports/cricket/news/138-years-later-england-pakistan-series-creates-rare-test-cricket-feat/articleshow/134132773.cms)
+- [വൈദ്യുതി പ്രതിസന്ധിക്ക് കാരണം പ്ലാനിങ് ഇല്ലാത്തതെന്ന് കെ കെ ശൈലജ power crisis in kerala](https://www.asianetnews.com/kerala-news/kk-shailaja-says-lack-of-planning-is-the-reason-for-the-power-crisis-articleshow-x35wtkg)
+- [ENG vs PAK, 3rd Test, Pakistan tour of England 2026](https://m.cricbuzz.com/player-match-performance/match/129596/player/8019/batting?inningsId=4)
+- ['പുനരുപയോ​ഗ എനർജി എന്ന് പറയുമ്പോൾ ചിലർക്ക് ചൊറിച്ചിൽ'; പവര്‍കട്ടില്‍ കെഎസ്ഇബി ഉദ്യോ​ഗസ്ഥർക്കെതിരെ മുഖ്യമന്ത്രി](https://www.asianetnews.com/kerala-news/chief-minister-vd-satheesan-criticizes-kseb-officials-over-power-cuts-articleshow-cw11wo8)
+- [দেবের ‘দেবদাস’-এ শুভশ্রী-রুক্মিণী! পার্বতী না চন্দ্রমুখী কোন ভূমিকায় কে?](https://bengali.indianexpress.com/entertainment/dev-dadagiri-devdas-shubhashree-rukmini-12524837)
+- [Sachin - ODI World Cup 2011: సచిన్‌ కోసం డీఆర్‌ఎస్‌లో డైరెక్షన్ మార్చారట.. నవ్వులపాలైన పాక్‌ క్రికెటర్](https://www.eenadu.net/telugu-news/sports/social-media-erupts-after-ajmal-questions-sachin-world-cup-lifeline/0401/126165126)
+- [LIC may emerge top investor in anchor book of NSE IPO; ADIA, Carmignac may also bet big](https://www.moneycontrol.com/news/business/companies/lic-may-emerge-top-investor-in-anchor-book-of-nse-ipo-adia-carmignac-may-also-bet-big-14028614.html)
+- [இடைத்தேர்தலில் சிபிஎம் யாருக்கு ஆதரவு? திருச்சியில் நாளை தெரிவிப்போம் - பெ.சண்முகம்](https://www.etvbharat.com/ta/state/who-will-cpi-m-back-in-madurantakam-and-dharapuram-bypolls-decision-awaited-in-trichy-meeting-tns26091203856)
+- [चीनी राष्ट्रपति जिनपिंग की कार ढकी हुई दिल्ली क्यों पहुंची? क्या है सीक्रेट; जानें Hongqi N701 के बारे में](https://www.indiatv.in/india/national/why-covered-chinese-president-jinping-car-know-about-secret-hongqi-n701-2026-09-12-1242845)
+- [Wushu player Divyanshi Choudhary alleges 'harassment' after Asian Games squad drop](https://m.rediff.com/sports/report/wushu-player-divyanshi-choudhary-alleges-harassment-acl-tear-controversy-after-asian-games-exclusion/20260912.htm)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
