@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-13 20:02:18
+# India Trending Report — 2026-09-13 20:34:41
 
 ## Google Trends (India) — top trending searches
-1. [khatron ke khiladi](https://trends.google.com/trending/rss?geo=IN)
-2. [atletico madrid](https://trends.google.com/trending/rss?geo=IN)
-3. [ruben neves](https://trends.google.com/trending/rss?geo=IN)
-4. [ligue 1](https://trends.google.com/trending/rss?geo=IN)
-5. [ferran torres](https://trends.google.com/trending/rss?geo=IN)
-6. [suzie bates](https://trends.google.com/trending/rss?geo=IN)
-7. [vinayaka chavithi](https://trends.google.com/trending/rss?geo=IN)
-8. [মেষ রাশি](https://trends.google.com/trending/rss?geo=IN)
-9. [juventus fc](https://trends.google.com/trending/rss?geo=IN)
-10. [14 september](https://trends.google.com/trending/rss?geo=IN)
+1. [केएल राहुल](https://trends.google.com/trending/rss?geo=IN)
+2. [narendra modi stadium](https://trends.google.com/trending/rss?geo=IN)
+3. [iran war hormuz](https://trends.google.com/trending/rss?geo=IN)
+4. [anwar ibrahim](https://trends.google.com/trending/rss?geo=IN)
+5. [सोना चांदी](https://trends.google.com/trending/rss?geo=IN)
+6. [khatron ke khiladi](https://trends.google.com/trending/rss?geo=IN)
+7. [atletico madrid](https://trends.google.com/trending/rss?geo=IN)
+8. [ruben neves](https://trends.google.com/trending/rss?geo=IN)
+9. [ligue 1](https://trends.google.com/trending/rss?geo=IN)
+10. [ferran torres](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -62,6 +62,7 @@
 - [ಬ್ರಿಟನ್ ವಿಭಜನೆಗೆ ಪ್ರಯತ್ನ!: ಯುನೈಟೆಡ್ ಕಿಂಗ್ ಡಂನಿಂದ ಸ್ಕಾಟ್ಲೆಂಡ್, ವೇಲ್ಸ್‌, ಉತ್ತರ ಐರ್ಲೆಂಡ್‌ ಹೊರಕ್ಕೆ?](https://vijaykarnataka.com/news/world/scotland-wales-and-northern-ireland-out-of-the-united-kingdom/articleshow/134212724.cms)
 
 **The Hindu**
+- [BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas](https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece)
 - [Asia Cup: Indian women's cricket team refuses to accept trophy from ACC head Mohsin Naqvi](https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece)
 - [Keralam CM V.D. Satheesan takes a trip down memory lane at alumni meet](https://www.thehindu.com/news/national/kerala/satheesan-takes-a-trip-down-memory-lane-at-alumni-meet/article71464032.ece)
 - [Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh](https://www.thehindu.com/news/national/bangladesh-wants-to-reset-ties-with-india/article71464479.ece)
@@ -71,7 +72,6 @@
 - [Stalled ferry services to two key jetties hit tourists, commuters](https://www.thehindu.com/news/national/kerala/tourists-hit-as-ferry-services-to-two-kochi-prime-jetties-remain-stalled/article71462982.ece)
 - [Two held for alleged robbery bid in Kozhikode](https://www.thehindu.com/news/national/kerala/two-held-in-alleged-robbery-bid/article71463473.ece)
 - [Jaywalking a menace on OMR, motorists say](https://www.thehindu.com/news/cities/chennai/jaywalking-a-menace-on-omr-motorists-say/article71381679.ece)
-- [Bridge to replace part of Pallavaram-Thoraipakkam Radial Road on Pallikaranai marshland](https://www.thehindu.com/news/cities/chennai/bridge-to-replace-part-of-pallavaram-thoraipakkam-radial-road-on-pallikaranai-marshland/article71463911.ece)
 
 **Livemint**
 - [Brics Women’s Business Alliance urges supply chain access and scale for women-led entrepreneurship](https://www.livemint.com/news/india/brics-women-s-business-alliance-urges-supply-chain-access-and-scale-for-women-led-entrepreneurship-11789301032517.html)
@@ -100,12 +100,12 @@
 - [‘ಕೆಪಿಸಿಸಿ ಕನೆಕ್ಟ್ ಸೆಂಟರ್’ನ ಅಧ್ಯಕ್ಷರಾಗಿ ಸಿ.ಬಿ.ಶಶಿಧರ್ ನೇಮಕ](https://www.varthabharati.in/bangalore-city/--2275083)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (9.0)
+- India (10.3)
 - Brics (3.5)
 - Bangladesh (3.2)
+- BRICS (3.2)
 - Asia Cup (3.0)
 - Indian (2.9)
-- BRICS (2.9)
 - Russia (2.6)
 - Gurugram (2.6)
 - House (2.6)
@@ -113,22 +113,22 @@
 - Mohsin Naqvi (2.0)
 - Brics Summit (2.0)
 - Azad Maidan (2.0)
+- BRICS Summit (2.0)
 - India's (1.9)
-- Africa (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [மதுராந்தகம், தாராபுரம் இடைத்தேர்தல் தவெக, திமுக, அதிமுக ஆகிய கட்சிகளில் யாருக்கு மிக முக்கியம்?](https://www.bbc.com/tamil/articles/cwyz1e37eppo)
-- [The Sky Today on Sunday, September 13: Venus, the Moon, and Spica](https://www.astronomy.com/observing/the-sky-today-sunday-september-13-2026/)
-- ['I resign as CM': CJP's Abhijeet Dipke mocks MP govt after Balaghat heckling](https://timesofindia.indiatimes.com/india/i-resign-as-cm-cjps-abhijeet-dipke-mocks-mp-govt-after-balaghat-heckling/articleshow/134187225.cms)
-- [லீ மேன்ஸ் கோப்பை கார் பந்தயம்: சில்வர்ஸ்டோன் சுற்றை 38-வது இடத்தில் நிறைவு செய்த அஜித் குழு](https://www.hindutamil.in/news/sports/ajith-kumar-team-finishes-le-mans-cup-car-racing-silverstone-round-in-spot-38)
-- [लादेन ने भारत पर हमले का बनाया था प्लान, अमेरिकी खुफिया एजेंसी की रिपोर्ट में खुलासा, 9/11 से पहले की थी योजना](https://navbharattimes.indiatimes.com/world/america/osama-bin-laden-planned-to-attack-india-3-years-before-9-11-cia-files-reveal/articleshow/134186365.cms)
-- [Jeetu Kamal: প্রথমবার পুজোয় কলকাতার বাইরে, বিগ বসের ঘরে পা রাখার আগে মনখারাপ জিতু কমলের](https://bengali.abplive.com/entertainment/jeetu-kamal-shares-his-feelings-before-entering-big-boss-bangla-house-entertainment-news-tollywood-1192638)
-- [বাণিজ্যে ভারতকে ছাড়িয়ে দ্বিতীয় স্থানে যুক্তরাষ্ট্র](https://www.prothomalo.com/business/wdcqw4n5j4)
-- [Harish Rao | వినాయకుడి రూపంలోనే మనకు ఎన్నో సందేశాలు : హరీశ్ రావు](https://www.ntnews.com/medak/siddipet/lord-vinayaka-gives-so-many-messages-to-society-says-harish-rao-2510134)
-- [NASA And IBM Put 30 Lunar Data Layers Into One AI Map](https://ascendants.in/spotlight/nasa-ibm-lunar-foundation-model-30-data-layers-moon-mapping-ai/)
-- [നീതി വേണം; ബാല്യകാല സഹപാഠിയായ പ്രധാനമന്ത്രി മോദിയെ തേടിയെത്തി 81-കാരൻ](https://www.manoramanews.com/india/states/2026/09/13/pm-modi-schoolmate-asgarali-vora-meets-land-grab-complaint-maharashtra.html)
+- [नवाज शरीफ की नातिन की शाही शादी, बिजनेस घराने का दूल्हा, PM शहबाज का दिखा अलग अंदाज, Inside Photos](https://www.aajtak.in/entertainment/news/photo/pakistan-former-pm-nawaz-sharif-granddaughter-maryam-nawaz-daughter-mahnoor-safdar-marriage-photos-tmovf-2641960-2026-09-13)
+- [Dev-Rukmini-Subhasree: দেব যদি 'দেবদাস' হন, রুক্মিণী আর শুভশ্রী হবেন পার্বতী-চন্দ্রমুখী? নায়কের কথায় জল্পনা](https://bengali.abplive.com/entertainment/dev-on-acting-with-rukmini-maitra-and-subhasree-ganguly-in-devdas-entertainment-news-tollywood-1192641)
+- ['पहलगाम आतंकी हमले की निंदा अच्छी बात लेकिन...', BRICS पर बोलीं महबूबा मुफ्ती](https://www.abplive.com/states/jammu-and-kashmir/mehbooba-mufti-react-on-brics-declaration-pahalgam-attack-india-foreign-policy-3188238)
+- [Upcoming IPO: એક્શન પેક્ડ રહેશે આ અઠવાડિયું, આવી રહ્યા 11 નવા IPO! 19 કંપની થશે લિસ્ટ](https://tv9gujarati.com/photo-gallery/upcoming-ipo-this-week-action-packed-11-new-ipos-are-coming-and-19-companies-list-1514780.html)
+- [క్షమించేస్తా.. ప్రతీకారం తీర్చుకొనే వ్యక్తిని కాదు: స్మృతి మంధాన](https://www.eenadu.net/telugu-news/sports/smriti-mandhana-fights-deep-emotions-when-asked-about-her-hardest-night/0401/126165772)
+- [Osama Bin Laden | అమెరికాకంటే ముందే ఇండియాపై దాడికి బిన్ లాడెన్ ప్లాన్.. సంచ‌ల‌న విష‌యం వెల్ల‌డి](https://www.ntnews.com/international/al-qaida-founder-osama-bin-laden-considered-india-among-potential-attack-locations-before-9-11-2510144)
+- [6 કલાકમાં 126 તાલુકામાં મેઘમહેર, નવસારીના વાંસદામાં સૌથી વધુ 3 ઈંચ જેટલો વરસાદ, અમદાવાદ પણ ભિંજાયું](https://www.gujaratsamachar.com/news/navsari/rain-in-126-talukas-in-6-hours-highest-rainfall-of-3-inches-in-vansda-of-navsari-89337252100)
+- [Manoj Jarange Patil Maratha Morcha Mumbai: शिंदे-फडणवीसांचा कट शिजलाय, मराठा मोर्चात मला गोळ्या घालायचा डाव; मनोज जरांगे पाटलांचा खळबळजनक आरोप](https://marathi.abplive.com/news/politics/manoj-jarange-patil-slams-devendra-fadnavis-and-eknath-shinde-over-mumbai-maratha-march-jalna-antarwali-sarati-marathi-news-1438964)
+- ['ഞാൻ മുഖ്യമന്ത്രി സ്ഥാനം രാജിവയ്ക്കുന്നു';പ്രതീകാത്മക രാജിക്കത്ത് പുറത്തുവിട്ട് ദീപ്‌കെ, MP സർക്കാരിന് വിമർശനം](https://www.reporterlive.com/topnews/national/2026/09/13/dipake-resignation-letter-chief-minister-madhya-pradesh-government-criticism)
+- ['Hanuman Ansh' box office collection Day 38 (LIVE): Neem Karoli Baba biopic eyes for Rs 250 crore gross in India amid 'Mirzapur: The Movie', 'Haiwaan' clash](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-38-live-neem-karoli-baba-biopic-eyes-rs-210-crore-in-india-amid-mirzapur-the-movie-haiwaan-clash/articleshow/134187647.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
