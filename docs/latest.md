@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-13 19:32:02
+# India Trending Report — 2026-09-13 20:02:18
 
 ## Google Trends (India) — top trending searches
-1. [juventus fc](https://trends.google.com/trending/rss?geo=IN)
-2. [ladli behna yojana](https://trends.google.com/trending/rss?geo=IN)
-3. [14 september](https://trends.google.com/trending/rss?geo=IN)
-4. [us open tennis](https://trends.google.com/trending/rss?geo=IN)
-5. [sushant singh rajput](https://trends.google.com/trending/rss?geo=IN)
-6. [ssc napoli vs bologna fc standings](https://trends.google.com/trending/rss?geo=IN)
-7. [nda](https://trends.google.com/trending/rss?geo=IN)
-8. [జస్ప్రీత్ బుమ్రా](https://trends.google.com/trending/rss?geo=IN)
-9. [real sociedad vs atlético madrid](https://trends.google.com/trending/rss?geo=IN)
-10. [ganesh chaturthi prompt for girls](https://trends.google.com/trending/rss?geo=IN)
+1. [khatron ke khiladi](https://trends.google.com/trending/rss?geo=IN)
+2. [atletico madrid](https://trends.google.com/trending/rss?geo=IN)
+3. [ruben neves](https://trends.google.com/trending/rss?geo=IN)
+4. [ligue 1](https://trends.google.com/trending/rss?geo=IN)
+5. [ferran torres](https://trends.google.com/trending/rss?geo=IN)
+6. [suzie bates](https://trends.google.com/trending/rss?geo=IN)
+7. [vinayaka chavithi](https://trends.google.com/trending/rss?geo=IN)
+8. [মেষ রাশি](https://trends.google.com/trending/rss?geo=IN)
+9. [juventus fc](https://trends.google.com/trending/rss?geo=IN)
+10. [14 september](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -18,12 +18,12 @@
 - [Is UK heading for breakup? Scotland, Wales and Northern Ireland push for independence](https://timesofindia.indiatimes.com/world/uk/is-uk-heading-for-a-breakup-scotland-wales-and-northern-ireland-push-for-independence/articleshow/134201489.cms)
 - [Minutes after Boris Johnson, European leaders pass through, Russia strikes Ukrainian train near Poland border](https://timesofindia.indiatimes.com/world/europe/russia-strikes-train-near-poland-border-minutes-after-boris-johnson-european-leaders-pass-through/articleshow/134216343.cms)
 - [New playbook, bigger role & a wake-up call for the West: Decoding the Brics summit](https://timesofindia.indiatimes.com/india/modi-xis-ukraine-offer-to-putin-strong-message-to-west-new-brics-playbook-key-outcomes-of-summit/articleshow/134197086.cms)
-- [The Uranium rush: Inside India's scramble to fuel its nuclear ambitions](https://timesofindia.indiatimes.com/india/the-uranium-rush-inside-indias-scramble-to-fuel-its-nuclear-ambitions/articleshow/134206216.cms)
 - [Mark Zuckerberg's secret project wanted Meta teams 60% smaller and run by AI agents](https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-ran-a-secret-project-to-make-the-company-ai-native-asked-teams-to-study-impact-of-/articleshow/134212125.cms)
+- [The Uranium rush: Inside India's scramble to fuel its nuclear ambitions](https://timesofindia.indiatimes.com/india/the-uranium-rush-inside-indias-scramble-to-fuel-its-nuclear-ambitions/articleshow/134206216.cms)
 - [Brics diplomacy: Iran president says Tehran, UAE want to 'turn the page' on war](https://timesofindia.indiatimes.com/world/middle-east/brics-diplomacy-iran-president-says-tehran-uae-want-to-turn-the-page-on-war/articleshow/134203211.cms)
 - [A year on, Rs 15 lakh for kin of 4 killed in Leh firing](https://timesofindia.indiatimes.com/india/a-year-on-rs-15-lakh-for-kin-of-4-killed-in-leh-firing/articleshow/134219676.cms)
-- [India avenge 2024 final defeat, beat Sri Lanka to lift 8th Asia Cup title](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/harmanpreets-india-avenge-2024-final-defeat-beat-sri-lanka-by-72-runs-to-lift-eighth-womens-asia-cup-title/articleshow/134217047.cms)
 - [Jeff Bezos’ ex-wife MacKenzie Scott gives $60 million to global methane fight](https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-gives-60-million-to-global-methane-fight-as-cutting-the-invisible-gas-becomes-a-climate-priority/articleshow/134063334.cms)
+- [India avenge 2024 final defeat, beat Sri Lanka to lift 8th Asia Cup title](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/harmanpreets-india-avenge-2024-final-defeat-beat-sri-lanka-by-72-runs-to-lift-eighth-womens-asia-cup-title/articleshow/134217047.cms)
 
 **NDTV**
 - [Senior Western Officials Were At Ukrainian Train Station Before Russian Strike](https://www.ndtv.com/world-news/senior-western-officials-were-at-ukrainian-train-station-before-russian-strike-12042402#publisher=newsstand)
@@ -38,6 +38,8 @@
 - [Opinion: Opinion | From Non-Alignment To All-Alignment Towards India: India's Rise](https://www.ndtv.com/opinion/brics-2026-non-alignment-to-all-alignment-indias-rise-as-global-power-12041900#publisher=newsstand)
 
 **Hindustan Times**
+- [Brics Summit: PM Modi’s bilateral talks put security, trade in focus](https://www.hindustantimes.com/india-news/pm-modi-s-bilateral-talks-put-security-trade-in-focus-101789327732640.html)
+- [Massive global support needed for developing nations SDGs: UN secy Guterres at Brics Summit](https://www.hindustantimes.com/india-news/massive-global-support-needed-for-developing-nations-sdgs-un-secy-guterres-101789327672360.html)
 - [SC lets manager off the hook, puts focus on Indian Bank in 35-year-old loan case](https://www.hindustantimes.com/india-news/sclets-manager-off-the-hook-puts-focus-on-indian-bank-in-35-year-old-loan-case-101789327072513.html)
 - [Brigadier Mishra gets Royal College Fellowship for contributions to ophthalmology](https://www.hindustantimes.com/india-news/brigadier-sanjay-kumar-mishra-gets-royal-college-fellowship-london-for-contributions-to-ophthalmology-101789319701772.html)
 - [Bangladesh wants to ‘reset’ ties with India, calls Hasina-era relationship ‘uncomfortable’](https://www.hindustantimes.com/india-news/bangladesh-says-wants-to-reset-ties-with-india-calls-sheikh-hasina-era-relationship-uncomfortable-101789317654247.html)
@@ -46,22 +48,21 @@
 - [Assam man, 23, held for rape, murder of woman over alleged affair: Police](https://www.hindustantimes.com/india-news/assam-man-23-held-for-rape-murder-of-woman-over-alleged-affair-police-101789313210747.html)
 - [NEET to move to computer-based test ‘very soon’, says NTA DG: ‘It’s the future'](https://www.hindustantimes.com/india-news/neet-exam-to-move-to-computer-based-test-very-soon-says-nta-dg-its-the-future-national-testing-agency-101789305122212.html)
 - [India condemns attack on ship off Oman as seafarer remains missing; 13 Indian crew members rescued](https://www.hindustantimes.com/india-news/india-condemns-attack-on-vessel-off-oman-coast-13-indian-crew-members-rescued-1-missing-101789311281232.html)
-- [Mamata Banerjee-led TMC announces candidates for Bengal, Assam bypolls](https://www.hindustantimes.com/india-news/mamata-banerjee-led-tmc-announces-candidates-for-bengal-assam-bypolls-101789311230398.html)
-- [AI 1980s photo trend: From privacy to climate impact, 3 things to consider before joining in](https://www.hindustantimes.com/india-news/ai-1980s-photo-trend-from-privacy-to-climate-impact-3-things-to-consider-before-joining-in-chatgpt-gemini-trend-101789302065902.html)
 
 **Vijay Karnataka**
+- [Women's Asia Cup 2026- ಮೊಂಡುತನ ಬಿಡದ ಮೊಹ್ಸಿನ್ ನಖ್ವಿ; ಈಗ ಹರ್ಮನ್ ಪ್ರೀತ್ ಕೌರ್ ಪಡೆಯಿಂದಲೂ ಮಂಗಳಾರತಿ!](https://vijaykarnataka.com/sports/cricket/news/indian-womens-team-also-refuses-to-collect-asia-cup-2026-trophy-from-acc-president-mohsin-naqvi/articleshow/134222126.cms)
 - [ಬ್ರಿಕ್ಸ್‌ ಶೃಂಗಸಭೆ ಮುಗಿಸಿ ತಾಯ್ನಾಡಿಗೆ ಮರಳಿದ ವ್ಲಾಡಿಮಿರ್‌ ಪುಟಿನ್-ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್:‌ ಹೇಗಿತ್ತು ಪವರ್‌ಫುಲ್‌ ಅಧ್ಯಕ್ಷರ ಭಾರತ ಪ್ರವಾಸ?](https://vijaykarnataka.com/news/india/vladimir-putin-and-xi-jinping-departs-from-delhi-after-participating-in-brics-summit-2026/articleshow/134201444.cms)
 - [ಸ್ಮೃತಿ ಮಂದಾನ, ಶಫಾಲಿ ವರ್ಮಾ, ಶ್ರೀ ಚರಣಿ ಆರ್ಭಟಕ್ಕೆ ಲಂಕಾ ಪಡೆ ಧೂಳೀಪಟ: 8ನೇ ಬಾರಿ ಮಹಿಳಾ ಏಷ್ಯಾ ಕಪ್ ಗೆದ್ದ ಭಾರತ!](https://vijaykarnataka.com/sports/cricket/news/india-beat-sri-lanka-by-72-runs-bags-women-asia-cup-for-8th-time/articleshow/134216792.cms)
-- [ಅಭಿಷೇಕ್ ಶರ್ಮಾ ಅಬ್ಬರಕ್ಕೆ ಅಫ್ಘಾನಿಸ್ತಾನ ನಿರುತ್ತರ; ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ಪಡೆಗೆ 7 ವಿಕೆಟ್ ಜಯಭೇರಿ](https://vijaykarnataka.com/sports/cricket/news/abhishek-sharma-half-century-india-beat-afghanistan-by-7-wickets/articleshow/134213631.cms)
 - [ಹೆಚ್ಚು ಗಂಟೆಗಳ ಕೆಲಸ ಹೃದಯಕ್ಕೆ ಅಪಾಯವೇ? ಕೆಲಸದ ಒತ್ತಡದಿಂದ ಹೃದಯಾಘಾತದ ಅಪಾಯ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/health/world-heart-day-2026-long-working-hours-heart-attack-risk/articleshow/134193727.cms)
-- [ಬ್ರಿಟನ್ ವಿಭಜನೆಗೆ ಪ್ರಯತ್ನ!: ಯುನೈಟೆಡ್ ಕಿಂಗ್ ಡಂನಿಂದ ಸ್ಕಾಟ್ಲೆಂಡ್, ವೇಲ್ಸ್‌, ಉತ್ತರ ಐರ್ಲೆಂಡ್‌ ಹೊರಕ್ಕೆ?](https://vijaykarnataka.com/news/world/scotland-wales-and-northern-ireland-out-of-the-united-kingdom/articleshow/134212724.cms)
+- [ಅಭಿಷೇಕ್ ಶರ್ಮಾ ಅಬ್ಬರಕ್ಕೆ ಅಫ್ಘಾನಿಸ್ತಾನ ನಿರುತ್ತರ; ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ಪಡೆಗೆ 7 ವಿಕೆಟ್ ಜಯಭೇರಿ](https://vijaykarnataka.com/sports/cricket/news/abhishek-sharma-half-century-india-beat-afghanistan-by-7-wickets/articleshow/134213631.cms)
 - [ಮೊದಲ ವಾರವೇ ʻಬಿಗ್‌ ಬಾಸ್‌ʼನಿಂದ ಎಲಿಮಿನೇಟ್‌ ಆದ ಪ್ರಥಮಾಗೆ ಸಿಕ್ಕ ಕ್ಯಾಶ್‌ ಪ್ರೈಜ್‌ ಎಷ್ಟು?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-prathama-prasad-eliminated-wins-3-lakh-cash-prize/articleshow/134216941.cms)
 - [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
 - [ಗೌರಿ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ| Gowri AshTOttara Shatanamavali Lyrics In Kannada](https://vijaykarnataka.com/religion/pooja-vidhana/gowri-ashtottara-shatanamavali-lyrics-in-kannada/articleshow/134186649.cms)
 - [BRICS ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಜಹ್ರಾ ಸರಳ ಫ್ಯಾಷನ್ ಲುಕ್; ಭಾರತೀಯ ಕಲೆ-ಸಂಸ್ಕೃತಿಗೆ ಮನಸೋತ ಇರಾನ್ ಅಧ್ಯಕ್ಷರ ಪುತ್ರಿ](https://vijaykarnataka.com/lifestyle/fashion/iranian-president-daughter-zahra-brics-market-fashion-look-indian-culture/articleshow/134179578.cms)
-- [`ರಿಷಭ್ ಪಂತ್ ಜೊತೆ ಕೂತು ಭರ್ಜರಿ ಭೋಜನ ಮಾಡುವಾಸೆ': ನಮ್ಮ ಮಾತು ಟ್ರೇಡ್ ಗೆ ಕೊನೆಯಾಗಿಲ್ಲ ಎಂದ ಸಂಜೀವ್ ಗೋಯೆಂಕಾ](https://vijaykarnataka.com/sports/cricket/iplt20/news/sanjiv-goenka-says-he-like-to-have-dinner-with-rishabh-pant/articleshow/134210548.cms)
+- [ಬ್ರಿಟನ್ ವಿಭಜನೆಗೆ ಪ್ರಯತ್ನ!: ಯುನೈಟೆಡ್ ಕಿಂಗ್ ಡಂನಿಂದ ಸ್ಕಾಟ್ಲೆಂಡ್, ವೇಲ್ಸ್‌, ಉತ್ತರ ಐರ್ಲೆಂಡ್‌ ಹೊರಕ್ಕೆ?](https://vijaykarnataka.com/news/world/scotland-wales-and-northern-ireland-out-of-the-united-kingdom/articleshow/134212724.cms)
 
 **The Hindu**
+- [Asia Cup: Indian women's cricket team refuses to accept trophy from ACC head Mohsin Naqvi](https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece)
 - [Keralam CM V.D. Satheesan takes a trip down memory lane at alumni meet](https://www.thehindu.com/news/national/kerala/satheesan-takes-a-trip-down-memory-lane-at-alumni-meet/article71464032.ece)
 - [Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh](https://www.thehindu.com/news/national/bangladesh-wants-to-reset-ties-with-india/article71464479.ece)
 - [Pre-booking of photo book on Indira Gandhi launched](https://www.thehindu.com/news/national/tamil-nadu/pre-booking-of-photo-book-on-indira-gandhi-launched/article71463361.ece)
@@ -71,7 +72,6 @@
 - [Two held for alleged robbery bid in Kozhikode](https://www.thehindu.com/news/national/kerala/two-held-in-alleged-robbery-bid/article71463473.ece)
 - [Jaywalking a menace on OMR, motorists say](https://www.thehindu.com/news/cities/chennai/jaywalking-a-menace-on-omr-motorists-say/article71381679.ece)
 - [Bridge to replace part of Pallavaram-Thoraipakkam Radial Road on Pallikaranai marshland](https://www.thehindu.com/news/cities/chennai/bridge-to-replace-part-of-pallavaram-thoraipakkam-radial-road-on-pallikaranai-marshland/article71463911.ece)
-- [Indian missing after attack on Panama-flagged tanker off Oman; MEA says search ops. on](https://www.thehindu.com/news/national/indian-missing-after-attack-on-panama-flagged-tanker-off-oman-mea-says-search-ops-on/article71464456.ece)
 
 **Livemint**
 - [Brics Women’s Business Alliance urges supply chain access and scale for women-led entrepreneurship](https://www.livemint.com/news/india/brics-women-s-business-alliance-urges-supply-chain-access-and-scale-for-women-led-entrepreneurship-11789301032517.html)
@@ -101,17 +101,17 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (9.0)
+- Brics (3.5)
 - Bangladesh (3.2)
+- Asia Cup (3.0)
 - Indian (2.9)
-- Brics (2.9)
 - BRICS (2.9)
 - Russia (2.6)
 - Gurugram (2.6)
 - House (2.6)
 - Opinion (2.6)
-- Assam (2.6)
-- Oman (2.6)
-- Asia Cup (2.0)
+- Mohsin Naqvi (2.0)
+- Brics Summit (2.0)
 - Azad Maidan (2.0)
 - India's (1.9)
 - Africa (1.9)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ભાવનગરમાં લઠ્ઠાકાંડ બાદ નકલી દારૂની ફેક્ટરી ઝડપાઈ: રેલવે કોલોનીના ક્વાર્ટરમાં ચાલતા કારોબારનો પર્દાફાશ](https://gujarati.abplive.com/news/business/bhavnagar-fake-liquor-factory-busted-railway-colony-railway-employee-arrested-police-investigation-991078)
-- [Dinesh Karthik: 'സഞ്ജു സാംസണെ നിങ്ങൾ എവിടെ കളിപ്പിക്കും?'; ചോദ്യങ്ങളുമായി ദിനേശ് കാർത്തിക്](https://www.asianetnews.com/cricket-sports/where-will-you-play-sanju-samson-dinesh-karthik-questions-team-managements-selection-articleshow-asnu63s)
-- [BRICS સમિટનો બીજો દિવસ: PM મોદીએ મંચ પરથી વૈશ્વિક સંકટનો મુદ્દો ઉઠાવ્યો, કહ્યું- માનવતા પર માઠી અસર થઇ](https://www.gujaratsamachar.com/news/national/brics-summit-live-pm-modis-bilateral-meeting-with-leaders-of-7-countries-including-kazakhstan-south-africa-today-61853177678)
-- [அப்செப்டில் நடிகர்; திருமணத்தை எதிர்பார்க்கும் நடிகை](https://cinema.dinamalar.com/news/cinema-gossip/cine-gossip/140858)
-- [த.வெ.க., குதிரை பேரத்தால் இடைத்தேர்தல்: இபிஎஸ் குற்றச்சாட்டு](https://www.dinamalar.com/news/tamil-nadu-news/by-election-by-horse-trading-eps-charges/4321629)
-- [Weekly Horoscope 14 To 20 September 2026 : कुंभ, मीन राशींना या आठवड्यात धनलाभाचे योग! संपत्तीत होईल वाढ; वाचा साप्ताहिक राशीभविष्य](https://marathi.abplive.com/astro/weekly-horoscope-14-to-20-september-2026-aquarius-and-pisces-rashi-saptahik-rashi-bhavishya-health-wealth-career-love-life-prediction-marathi-news-1424399)
-- [ఒకే ఫ్రేమ్‌లో మోదీ, పుతిన్, జిన్‌పింగ్.. బ్రిక్స్ ఫ్యామిలీ ఫొటో వైరల్..](https://www.andhrajyothy.com/2026/national/brics-2026-modi-flanked-by-putin-and-xi-in-family-photo-powerful-image-goes-viral-1557846.html)
-- [मेटा ग्लासेस: सार्वजनिक जगहों पर लोगों का वीडियो बनाना कितना सही?](https://www.bbc.com/hindi/articles/cwyz1lxgg2zo)
-- [Hanuman Ansh આગળ ધુરંધર-પુષ્પા-બાહુબલી બધા ફેલ, 37મા દિવસે તેમણે એવું કર્યું જે ભારતીય સિનેમાના ઇતિહાસમાં ક્યારેય બન્યું નથી](https://tv9gujarati.com/entertainment/bollywood/breaking-news-hanuman-ansh-box-office-day-37-earned-18-50-crore-1514741.html)
-- [Malda Bhutni: এখনও প্রায় এক মানুষ সমান জল, ভূতনীর বন্যা পরিস্থিতিতে ডুবে মৃত্যু শিশু-সহ ৩ জনের](https://bangla.aajtak.in/west-bengal/north-bengal-news/story/malda-bhootni-flood-claim-three-lives-situation-worsen-third-death-abk-1450096-2026-09-13)
+- [மதுராந்தகம், தாராபுரம் இடைத்தேர்தல் தவெக, திமுக, அதிமுக ஆகிய கட்சிகளில் யாருக்கு மிக முக்கியம்?](https://www.bbc.com/tamil/articles/cwyz1e37eppo)
+- [The Sky Today on Sunday, September 13: Venus, the Moon, and Spica](https://www.astronomy.com/observing/the-sky-today-sunday-september-13-2026/)
+- ['I resign as CM': CJP's Abhijeet Dipke mocks MP govt after Balaghat heckling](https://timesofindia.indiatimes.com/india/i-resign-as-cm-cjps-abhijeet-dipke-mocks-mp-govt-after-balaghat-heckling/articleshow/134187225.cms)
+- [லீ மேன்ஸ் கோப்பை கார் பந்தயம்: சில்வர்ஸ்டோன் சுற்றை 38-வது இடத்தில் நிறைவு செய்த அஜித் குழு](https://www.hindutamil.in/news/sports/ajith-kumar-team-finishes-le-mans-cup-car-racing-silverstone-round-in-spot-38)
+- [लादेन ने भारत पर हमले का बनाया था प्लान, अमेरिकी खुफिया एजेंसी की रिपोर्ट में खुलासा, 9/11 से पहले की थी योजना](https://navbharattimes.indiatimes.com/world/america/osama-bin-laden-planned-to-attack-india-3-years-before-9-11-cia-files-reveal/articleshow/134186365.cms)
+- [Jeetu Kamal: প্রথমবার পুজোয় কলকাতার বাইরে, বিগ বসের ঘরে পা রাখার আগে মনখারাপ জিতু কমলের](https://bengali.abplive.com/entertainment/jeetu-kamal-shares-his-feelings-before-entering-big-boss-bangla-house-entertainment-news-tollywood-1192638)
+- [বাণিজ্যে ভারতকে ছাড়িয়ে দ্বিতীয় স্থানে যুক্তরাষ্ট্র](https://www.prothomalo.com/business/wdcqw4n5j4)
+- [Harish Rao | వినాయకుడి రూపంలోనే మనకు ఎన్నో సందేశాలు : హరీశ్ రావు](https://www.ntnews.com/medak/siddipet/lord-vinayaka-gives-so-many-messages-to-society-says-harish-rao-2510134)
+- [NASA And IBM Put 30 Lunar Data Layers Into One AI Map](https://ascendants.in/spotlight/nasa-ibm-lunar-foundation-model-30-data-layers-moon-mapping-ai/)
+- [നീതി വേണം; ബാല്യകാല സഹപാഠിയായ പ്രധാനമന്ത്രി മോദിയെ തേടിയെത്തി 81-കാരൻ](https://www.manoramanews.com/india/states/2026/09/13/pm-modi-schoolmate-asgarali-vora-meets-land-grab-complaint-maharashtra.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
