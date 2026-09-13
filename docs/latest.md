@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-13 01:01:45
+# India Trending Report — 2026-09-13 01:34:48
 
 ## Google Trends (India) — top trending searches
-1. [jean silva](https://trends.google.com/trending/rss?geo=IN)
-2. [school holiday](https://trends.google.com/trending/rss?geo=IN)
-3. [cpl](https://trends.google.com/trending/rss?geo=IN)
-4. [गोचर](https://trends.google.com/trending/rss?geo=IN)
-5. [धनु](https://trends.google.com/trending/rss?geo=IN)
-6. [ক্রিকেট](https://trends.google.com/trending/rss?geo=IN)
-7. [రాశి ఫలాలు](https://trends.google.com/trending/rss?geo=IN)
-8. [పింఛను](https://trends.google.com/trending/rss?geo=IN)
-9. [jose delgado](https://trends.google.com/trending/rss?geo=IN)
-10. [telugu](https://trends.google.com/trending/rss?geo=IN)
+1. [విరాళం](https://trends.google.com/trending/rss?geo=IN)
+2. [axar patel](https://trends.google.com/trending/rss?geo=IN)
+3. [చైత్ర రాయ్](https://trends.google.com/trending/rss?geo=IN)
+4. [હવામાન](https://trends.google.com/trending/rss?geo=IN)
+5. [ਮੌਸਮ](https://trends.google.com/trending/rss?geo=IN)
+6. [shivam dube](https://trends.google.com/trending/rss?geo=IN)
+7. [epl table](https://trends.google.com/trending/rss?geo=IN)
+8. [accuweather](https://trends.google.com/trending/rss?geo=IN)
+9. [लूट](https://trends.google.com/trending/rss?geo=IN)
+10. [washington sundar](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Brics hammers out joint declaration after India bridges Iran-UAE chasm](https://timesofindia.indiatimes.com/india/brics-hammers-out-joint-declaration-after-india-bridges-iran-uae-chasm/articleshow/134153102.cms)
 - ['Global South must shape, not just follow, rules': PM Modi at Brics Summit](https://timesofindia.indiatimes.com/india/modi-global-south-must-shape-not-just-follow-rules/articleshow/134158493.cms)
+- [81-year-old meets schoolmate PM Modi to seek CBI probe in land dispute](https://timesofindia.indiatimes.com/city/mumbai/81-year-old-meets-schoolmate-pm-modi-to-seek-cbi-probe-in-land-dispute/articleshow/134147823.cms)
 - [RBI rejects Tata Sons' bid to stay private, directs listing](https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-tata-sons-bid-to-stay-private-directs-listing/articleshow/134163398.cms)
-- [Bumrah, Sooryavanshi on Afghanistan's radar: Ibrahim Zadran reveals plans](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/jasprit-bumrah-vaibhav-sooryavanshi-on-afghanistans-radar-ibrahim-zadran-reveals-plans/articleshow/134143658.cms)
-- [25 years after 9/11, al-Qaida and terror camps have returned to Afghanistan: US](https://timesofindia.indiatimes.com/world/us/25-years-after-9/11-al-qaida-and-terror-camps-have-returned-to-afghanistan-us/articleshow/134131985.cms)
-- [Mark Zuckerberg on how engineers made him return to Musk's X after 3 years in 2026](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-him-do-it/articleshow/134147562.cms)
 - [New No. 1 Elena Rybakina dethrones Aryna Sabalenka to win US Open title](https://timesofindia.indiatimes.com/sports/tennis/top-stories/new-no-1-elena-rybakina-dethrones-aryna-sabalenka-to-win-us-open-title/articleshow/134168521.cms)
+- [Mark Zuckerberg on how engineers made him return to Musk's X after 3 years in 2026](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-him-do-it/articleshow/134147562.cms)
+- [25 years after 9/11, al-Qaida and terror camps have returned to Afghanistan: US](https://timesofindia.indiatimes.com/world/us/25-years-after-9/11-al-qaida-and-terror-camps-have-returned-to-afghanistan-us/articleshow/134131985.cms)
 - [India to get another major DRDO missile testing range in Bengal](https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms)
-- [Meghalaya CM Sangma calls on guv amid reports of 8 UDP MLAs planning to join BJP](https://timesofindia.indiatimes.com/city/guwahati/conrad-calls-on-guv-amid-reports-of-8-udp-mlas-planning-to-join-bjp/articleshow/134148275.cms)
 - [Harvard University has a 'September message' for all international students](https://timesofindia.indiatimes.com/technology/tech-news/harvard-university-has-a-september-message-for-all-international-students-planning-to-leave-america-as-well-as-those-staying-in-the-country/articleshow/134118705.cms)
+- [Meghalaya CM Sangma calls on guv amid reports of 8 UDP MLAs planning to join BJP](https://timesofindia.indiatimes.com/city/guwahati/conrad-calls-on-guv-amid-reports-of-8-udp-mlas-planning-to-join-bjp/articleshow/134148275.cms)
 
 **NDTV**
 - [Explosions Heard Off The Coast Of Iran's Qeshm Island](https://www.ndtv.com/world-news/us-iran-war-explosions-heard-off-the-coast-of-irans-qeshm-island-12038960#publisher=newsstand)
@@ -38,6 +38,7 @@
 - [Opinion: Opinion | Why India Needs Both BRICS And QUAD For Energy Security](https://www.ndtv.com/opinion/brics-for-indias-energy-security-12038689#publisher=newsstand)
 
 **Hindustan Times**
+- [Bombay is the only city in India which is cosmopolitan: Sooni Taraporevala](https://www.hindustantimes.com/india-news/bombay-is-the-only-city-in-india-which-is-cosmopolitan-sooni-taraporevala-101789239332795.html)
 - [Mamata reaches out to TMC veteran Akhil Giri as it weighs local face for Nandigram bypoll](https://www.hindustantimes.com/india-news/mamata-reaches-out-to-tmc-veteran-akhil-giri-as-it-weighs-local-face-for-nandigram-bypoll-101789231943170.html)
 - [‘Those who keep changing names…’: Akhilesh, CJP, Cong target Yogi over ‘walking away’ from press conference](https://www.hindustantimes.com/india-news/those-who-keep-changing-names-akhilesh-yadav-cjp-congress-up-yogi-adityanath-walking-away-press-conference-101789232169089.html)
 - [‘Here to do politics on corpses’: Abhijeet Dipke heckled by group of influencers in MP's Balaghat](https://www.hindustantimes.com/india-news/here-to-do-politics-on-corpses-abhijeet-dipke-heckled-by-group-of-influencers-in-mps-balaghat-101789231050932.html)
@@ -47,19 +48,18 @@
 - [BRICS declaration: China, Russia back India, Brazil’s aspirations for greater UN role](https://www.hindustantimes.com/india-news/brics-declaration-china-russia-back-india-brazil-s-aspirations-for-greater-un-role-101789229755478.html)
 - [Brics agrees to establish AGRIN, continue work on grain trading platform](https://www.hindustantimes.com/india-news/brics-agrees-to-establish-agrin-continue-work-on-grain-trading-platform-101789231356014.html)
 - [How India pulled off BRICS consensus on Delhi declaration amid West Asia crisis](https://www.hindustantimes.com/india-news/how-india-pulled-off-brics-consensus-on-delhi-declaration-amid-west-asia-crisis-101789230276713.html)
-- [Millet pulao, beetroot raita: What's on BRICS Gala dinner menu?](https://www.hindustantimes.com/india-news/millet-pulao-beetroot-raita-old-delhi-fruit-cream-whats-on-brics-gala-dinner-menu-101789227178873.html)
 
 **Vijay Karnataka**
+- [ಗಣೇಶ ಹಬ್ಬದ ವಿಶೇಷ ರೈಲು ಕೊಡದೆ ಮಂಗಳೂರಿಗೆ ಅನ್ಯಾಯ: ಯಶವಂತಪುರ- ಮಡಗಾಂವ್‌ ಮಧ್ಯೆ ಕೊಟ್ಟರೂ, ಮಂಗಳೂರಿಗೆ ಯಾಕಿಲ್ಲ?](https://vijaykarnataka.com/news/mangaluru/festival-special-train-not-operated-between-bangalore-and-mangalore-which-is-given-between-bangalore-and-madagav/articleshow/134168916.cms)
 - [BRICS Summit 2026: ದಶಕದ ಬಳಿಕ ಒಂದೇ ವೇದಿಕೆಯಲ್ಲಿ ಮೋದಿ-ಪುಟಿನ್-ಜಿನ್‌ ಪಿಂಗ್! ಮೊದಲ ದಿನ ನಡೆದದ್ದೇನು?](https://vijaykarnataka.com/news/india/brics-summit-highlights-modi-putin-jinping-important-meetings/articleshow/134148094.cms)
 - [ಸಿಎಂ ಡಿಕೆ ಶಿವಕುಮಾರ್ ಎಚ್ಚರಿಕೆ ಬೆನ್ನಲ್ಲೇ ಎಚ್ಚೆತ್ತ ಕರ್ನಾಟಕ ಪೊಲೀಸ್: 800 ಬಾಲಕಾರ್ಮಿಕರ ಬಾಳಿನಲ್ಲಿ ಹೊಸಬೆಳಕು!](https://vijaykarnataka.com/news/karnataka/karnataka-police-rescues-800-child-laborers-after-alert-by-cm-dk-shivakumar/articleshow/134144586.cms)
-- [ಪಾಕ್ ಕೊನೇ ಪ್ರಯತ್ನಕ್ಕೆ ತಣ್ಣೀರೆರಚಿದ ಜೋ ರೂಟ್ ಅಜೇಯ `ಅರ್ಧಶತಕ'; ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಮಹತ್ವದ ವಿಶ್ವದಾಖಲೆಯೂ ಧೂಳೀಪಟ!](https://vijaykarnataka.com/sports/cricket/news/england-vs-pakistan-edgbaston-test-joe-root-breaks-world-record-of-most-half-centuries-of-sachin-tendulkar/articleshow/134140026.cms)
 - [ಇಂಡಿಯನ್ ಬಾಡಿ ಟೈಪ್ ಬಗ್ಗೆ ಆರ್. ಮಾಧವನ್ ಪುತ್ರ ವೇದಾಂತ್ ಹೇಳಿದ್ದೇನು? ಕ್ರೀಡೆಯಲ್ಲಿ ನಮ್ಮ ಕೊರತೆ ಇಲ್ಲಿದೆ!](https://vijaykarnataka.com/lifestyle/fitness/r-madhavan-son-vedaant-sports-fitness-insights/articleshow/134125078.cms)
-- [`ಭಾರತಕ್ಕೆ ಝಾಕಿರ್ ನಾಯ್ಕ್ ಹಸ್ತಾಂತರದ ಬಗ್ಗೆ ಚರ್ಚಿಸಿದ್ದು ಹೌದು'; ಮೋದಿ ಭೇಟಿ ಬಗ್ಗೆ ಮಲೇಷ್ಯಾ ಪ್ರಧಾನಿ ಮಹತ್ವದ ಹೇಳಿಕೆ](https://vijaykarnataka.com/news/india/malaysia-prime-minister-anwar-ibrahim-clarifies-on-zakir-naik-extradition/articleshow/134136370.cms)
+- [ಪಾಕ್ ಕೊನೇ ಪ್ರಯತ್ನಕ್ಕೆ ತಣ್ಣೀರೆರಚಿದ ಜೋ ರೂಟ್ ಅಜೇಯ `ಅರ್ಧಶತಕ'; ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಮಹತ್ವದ ವಿಶ್ವದಾಖಲೆಯೂ ಧೂಳೀಪಟ!](https://vijaykarnataka.com/sports/cricket/news/england-vs-pakistan-edgbaston-test-joe-root-breaks-world-record-of-most-half-centuries-of-sachin-tendulkar/articleshow/134140026.cms)
 - [BBK 13: ಈ ಬಾರಿ ವಿನ್ನರ್‌ಗೆ ಮಾತ್ರವಲ್ಲ.. ರನ್ನರ್‌ ಅಪ್‌ಗೂ ಸಿಗಲಿದೆ ಲಕ್ಷ ಲಕ್ಷ ಹಣ! ಎಷ್ಟು ಗೊತ್ತಾ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-week-1-kiccha-sudeep-announces-winner-and-runner-up-prize-money-details/articleshow/134153459.cms)
 - [ಅಂಬಾನಿ ಕುಟುಂಬದ ಸೊಸೆ ರಾಧಿಕಾ ಮರ್ಚೆಂಟ್‌ರ ರಾಯಲ್ ಲುಕ್; ಅತ್ತೆಯ ಹರ್ಮೆಸ್ ಬ್ಯಾಗ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/radhika-merchants-royal-look-with-a-luxury-herms-bag/articleshow/133916154.cms)
 - [2026 ಗಣೇಶ ಚತುರ್ಥಿ: ಗಣೇಶ ಪೂಜೆಯಲ್ಲಿ ಅರ್ಪಿಸಬಾರದ ವಸ್ತುಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/ganesh-chaturthi-2026-do-not-offer-these-things-to-lord-ganesha/articleshow/134133886.cms)
 - [ಫ್ರಿಡ್ಜ್‌ನಲ್ಲಿ ಬೆಂಡೆಕಾಯಿ ಅಂಟಾಗದಂತೆ ತಾಜಾ ಇಡೋದು ಹೇಗೆ? ಈ ಟಿಪ್ಸ್ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/home-decor/how-to-keep-bhindi-fresh-in-the-fridge-without-getting-sticky/articleshow/134112541.cms)
-- [ಹರ್ಷಿತ್ ರಾಣಾ ಯಾವ ಸೀಮೆ ಆಲ್ರೌಂಡರ್?: ಗುರಿ ತಪ್ಪಿರುವ ಗೌತಮ್ ಗಂಭೀರ್ ರಣತಂತ್ರಕ್ಕೆ ಎಸ್ ಬದ್ರೀನಾಥ್ ಆಕ್ರೋಶ](https://vijaykarnataka.com/sports/cricket/news/s-badrinath-questions-gautam-gambhir-all-rounder-strategy-and-harshit-rana-role/articleshow/134132953.cms)
+- [`ಭಾರತಕ್ಕೆ ಝಾಕಿರ್ ನಾಯ್ಕ್ ಹಸ್ತಾಂತರದ ಬಗ್ಗೆ ಚರ್ಚಿಸಿದ್ದು ಹೌದು'; ಮೋದಿ ಭೇಟಿ ಬಗ್ಗೆ ಮಲೇಷ್ಯಾ ಪ್ರಧಾನಿ ಮಹತ್ವದ ಹೇಳಿಕೆ](https://vijaykarnataka.com/news/india/malaysia-prime-minister-anwar-ibrahim-clarifies-on-zakir-naik-extradition/articleshow/134136370.cms)
 
 **The Hindu**
 - [West Benagal govt. to revive Chandannagar’s French legacy](https://www.thehindu.com/news/national/west-bengal/west-benagal-govt-to-revive-chandannagars-french-legacy/article71460433.ece)
@@ -74,6 +74,7 @@
 - [Jamia hostel protest over mess food escalates; varsity denies assault charges](https://www.thehindu.com/news/cities/Delhi/jamia-hostel-protest-aisa-claims-students-assaulted-university-refutes-charge/article71459572.ece)
 
 **Livemint**
+- [Iran war LIVE Updates: Trump says Iran ‘probably’ behind Saudi oil pipeline attack; vessel in Strait of Hormuz hit](https://www.livemint.com/news/us-news/iran-war-live-updates-saudi-oil-pipeline-attack-houthis-trump-vessel-strait-of-hormuz-bab-almandab-11789261173506.html)
 - [Trump's childhood home in Queens was once a cat den. Now it has sold for  ₹18.44 crore](https://www.livemint.com/news/us-news/trumps-childhood-home-in-queens-was-once-a-cat-den-now-it-has-sold-for-18-44-crore-11789236131291.html)
 - [Donald Trump stirs controversy, predicts UK-run Ireland ‘eventually’: ‘I’d love to see it unified, would be fantastic’](https://www.livemint.com/news/world/donald-trump-stirs-controversy-predicts-uk-run-ireland-eventually-i-d-love-to-see-it-unified-would-be-fantastic-11789234754964.html)
 - [Madhuri returns home: Elephant gets grand welcome in Kolhapur after 13 months at Vantara](https://www.livemint.com/news/trends/madhuri-returns-home-elephant-gets-grand-welcome-in-kolhapur-after-13-months-at-vantara-11789236307555.html)
@@ -83,11 +84,21 @@
 - [Who is Divyanshi Choudhary? Why did teen Wushu athlete threaten suicide after Asian Games exit?](https://www.livemint.com/news/india/who-is-divyanshi-choudhary-why-did-teen-wushu-athlete-threaten-suicide-after-asian-games-exit-11789224514257.html)
 - [Brics joint statement calls for West Asia de-escalation](https://www.livemint.com/news/brics-urges-restraint-over-west-asia-conflict-produces-joint-statement-on-first-day-of-leadership-summit-11789221921047.html)
 - [Delhi traffic alert ahead of India vs Afghanistan T20I on Sunday, 13 September; check roads to avoid, diversions](https://www.livemint.com/news/india/delhi-traffic-alert-ahead-of-india-vs-afghanistan-t20i-on-sunday-13-september-check-roads-to-avoid-diversions-11789224808024.html)
-- [Iran, UAE leaders meet on BRICS sidelines in New Delhi as US-Iran war tests regional ties in Middle East](https://www.livemint.com/news/world/iran-uae-leaders-meet-on-brics-sidelines-as-us-iran-war-tests-regional-ties-in-middle-east-modi-al-nahyan-pezeshkian-11789220935341.html)
 
-**Moneycontrol** — _unavailable_
+**Moneycontrol**
+- [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
+- [Buy Tejas Networks; target of Rs 1100: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html)
+- [Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html)
+- [Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html)
+- [Reduce Wipro; target of Rs 410: ICICI Securities](https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html)
+- [Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html)
+- [Buy Patel Engineering; target of Rs 80: ICICI Direct](https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html)
+- [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಬೆದರಿಸಿ ಇರಾನ್‌ ಅನ್ನು ಶರಣಾಗುವಂತೆ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ: ಪೆಜೆಶ್ಕಿಯನ್](https://www.varthabharati.in/international/cant-bully-iran-into-surrender-pezeshkian-slams-us-strikes-on-civilian-targets-2274872)
 - [ನೀರು ಪರೀಕ್ಷೆ ಲ್ಯಾಬ್ ಮೇಲೆ ಸಚಿವ ರಾಮಲಿಂಗಾರೆಡ್ಡಿ ಅಧಿಕಾರಿಗಳೊಂದಿಗೆ ದಾಳಿ: ಪರಿಶೀಲನೆ](https://www.varthabharati.in/bangalore-city/minister-ramalingareddy-2274870)
 - [ಸಿದ್ದರಾಮಯ್ಯ ಅವರು ಪರ್ಯಾಯ ಅಹಿಂದ ನಾಯಕನ್ನು ಬೆಳೆಸಲು ಮುಂದಾಗಬೇಕು : ಸಿ.ಎಂ.ಇಬ್ರಾಹಿಂ](https://www.varthabharati.in/bangalore-city/cm-ibrahim-2274869)
 - [Hubballi | 'ಅಲ್ ಜಾಮಿಯಾತುಲ್ ಅಶ್ರಫಿಯಾ ಖದೀಜತುಲ್ ಕುಬ್ರಾ ಲಿಲ್ ಬನಾತ್' ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗೆ ಸಚಿವ ಯು.ಟಿ.ಖಾದರ್ ಭೇಟಿ; ವಿದ್ಯಾರ್ಥಿನಿಯರೊಂದಿಗೆ ಸಂವಾದ](https://www.varthabharati.in/dharwad/hubballi-2274868)
@@ -97,38 +108,37 @@
 - [ಯಲಹಂಕ ವಾಯುನೆಲೆಗೆ ‘ಪ್ರೈಡ್ ಆಫ್ ಟ್ರೈನಿಂಗ್ ಕಮಾಂಡ್’ ಗೌರವ](https://www.varthabharati.in/bengaluru/--2274863)
 - [West Bengal | ನಂದಿಗ್ರಾಮ್ ನಿಂದ ಮಮತಾ ಬ್ಯಾನರ್ಜಿ ಸ್ಪರ್ಧಿಸಿದರೆ ಅಭ್ಯರ್ಥಿ ಹಾಕುವುದಿಲ್ಲ: ಬಂಡಾಯ ಬಣ](https://www.varthabharati.in/National/wont-field-candidate-trinamool-rebels-nandigram-offer-to-mamata-banerjee-2274862)
 - [ಅಲಿಗಢ ಮುಸ್ಲಿಂ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಪ್ರತಿಭಟನೆಯ ‘ಪಕ್ಷಪಾತಿ’ ನಿರೂಪಣೆ: Zee Newsಗೆ 2 ಲಕ್ಷ ರೂ. ದಂಡ ವಿಧಿಸಿದ NBDSA](https://www.varthabharati.in/National/nbdsa-fines-zee-news-2-lakh-over-amu-protest-broadcast-apcr-welcomes-order-2274860)
-- [ಪರಿಹಾರಕ್ಕಾಗಿ ಅಪಘಾತದ ಸನ್ನಿವೇಶ ತಿರುಚಿರುವ ಶಂಕೆ; ಪ್ರಕರಣದ ಮರುತನಿಖೆಗೆ ಎಸ್‌ಐಟಿ ರಚನೆಗೆ ಹೈಕೋರ್ಟ್ ಆದೇಶ](https://www.varthabharati.in/bangalore-city/high-court-2274858)
 
 ## Cross-source trending keywords (derived from headlines above)
-- BRICS (8.5)
-- India (6.4)
+- India (7.7)
+- BRICS (6.9)
 - Opinion (5.2)
+- Emkay Global Financial (5.0)
 - Brics (4.2)
-- Delhi (3.5)
+- target (3.3)
+- Delhi (3.2)
+- PM Modi (3.0)
 - BRICS Summit (3.0)
+- ICICI Securities (3.0)
 - Afghanistan (2.6)
 - September (2.6)
 - Highlights (2.6)
-- Millet (2.6)
-- What's (2.6)
 - Govt (2.6)
 - Congress (2.6)
-- Summit (2.5)
-- PM Modi (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [138 years later, England-Pakistan series creates rare Test cricket feat](https://timesofindia.indiatimes.com/sports/cricket/news/138-years-later-england-pakistan-series-creates-rare-test-cricket-feat/articleshow/134132773.cms)
-- [വൈദ്യുതി പ്രതിസന്ധിക്ക് കാരണം പ്ലാനിങ് ഇല്ലാത്തതെന്ന് കെ കെ ശൈലജ power crisis in kerala](https://www.asianetnews.com/kerala-news/kk-shailaja-says-lack-of-planning-is-the-reason-for-the-power-crisis-articleshow-x35wtkg)
-- [ENG vs PAK, 3rd Test, Pakistan tour of England 2026](https://m.cricbuzz.com/player-match-performance/match/129596/player/8019/batting?inningsId=4)
-- ['പുനരുപയോ​ഗ എനർജി എന്ന് പറയുമ്പോൾ ചിലർക്ക് ചൊറിച്ചിൽ'; പവര്‍കട്ടില്‍ കെഎസ്ഇബി ഉദ്യോ​ഗസ്ഥർക്കെതിരെ മുഖ്യമന്ത്രി](https://www.asianetnews.com/kerala-news/chief-minister-vd-satheesan-criticizes-kseb-officials-over-power-cuts-articleshow-cw11wo8)
-- [দেবের ‘দেবদাস’-এ শুভশ্রী-রুক্মিণী! পার্বতী না চন্দ্রমুখী কোন ভূমিকায় কে?](https://bengali.indianexpress.com/entertainment/dev-dadagiri-devdas-shubhashree-rukmini-12524837)
-- [Sachin - ODI World Cup 2011: సచిన్‌ కోసం డీఆర్‌ఎస్‌లో డైరెక్షన్ మార్చారట.. నవ్వులపాలైన పాక్‌ క్రికెటర్](https://www.eenadu.net/telugu-news/sports/social-media-erupts-after-ajmal-questions-sachin-world-cup-lifeline/0401/126165126)
-- [LIC may emerge top investor in anchor book of NSE IPO; ADIA, Carmignac may also bet big](https://www.moneycontrol.com/news/business/companies/lic-may-emerge-top-investor-in-anchor-book-of-nse-ipo-adia-carmignac-may-also-bet-big-14028614.html)
-- [இடைத்தேர்தலில் சிபிஎம் யாருக்கு ஆதரவு? திருச்சியில் நாளை தெரிவிப்போம் - பெ.சண்முகம்](https://www.etvbharat.com/ta/state/who-will-cpi-m-back-in-madurantakam-and-dharapuram-bypolls-decision-awaited-in-trichy-meeting-tns26091203856)
-- [चीनी राष्ट्रपति जिनपिंग की कार ढकी हुई दिल्ली क्यों पहुंची? क्या है सीक्रेट; जानें Hongqi N701 के बारे में](https://www.indiatv.in/india/national/why-covered-chinese-president-jinping-car-know-about-secret-hongqi-n701-2026-09-12-1242845)
-- [Wushu player Divyanshi Choudhary alleges 'harassment' after Asian Games squad drop](https://m.rediff.com/sports/report/wushu-player-divyanshi-choudhary-alleges-harassment-acl-tear-controversy-after-asian-games-exclusion/20260912.htm)
+- ['दायरा' बनी करीना कपूर की 10वीं A-रेटेड फिल्म, प्रीति जिंटा की कॉमेडी पर भी सेंसर बोर्ड सख्त!](https://www.aajtak.in/entertainment/bollywood-news/story/kareena-kapoor-daayra-movie-a-rating-cbfc-kunal-kemmu-comedy-movie-vibe-adult-certificate-tmovj-dskc-2641565-2026-09-12)
+- ['मैच खेलोगे, तभी मिलेगा सालाना कॉन्ट्रैक्ट', BCCI लाने जा रही है नया नियम, खिलाड़ियों की बढ़ेगी मुश्किलें!](https://www.aajtak.in/sports/cricket/story/bcci-weighs-match-availability-as-new-criterion-for-awarding-central-contracts-aksp-rpti-2641564-2026-09-12)
+- [Mahendragiri Vaarahi: తప్పకనచ్చుతుంది... సుమంత్‌ హామీ!](https://www.chitrajyothy.com/2026/tollywood/mahendragiri-varahi-adds-75-more-screens-onava-75333.html)
+- [சௌதி மீது ஹூத்தி தாக்குதலால் பாகிஸ்தானுக்கு நெருக்கடி](https://www.bbc.com/tamil/articles/c2e0m37rl9po)
+- [BRICS Delhi Declaration: పహల్గామ్ ఉగ్రదాడిని ఖండిస్తూ బ్రిక్స్ ప్రకటన.. ఏకపక్ష సుంకాలపై ఆందోళన- భారత్ దౌత్య విజయం](https://telugu.abplive.com/news/india/brics-delhi-declaration-condemns-pahalgam-terror-attack-big-diplomatic-win-for-india-258788)
+- [East Bengal: অস্কার ব্রুজোর পরিবারকে খুনের হুমকি! কারা দিচ্ছে? কলকাতা পুলিশ এবং দূতাবাসকে জানালেন ইস্টবেঙ্গলের প্রাক্তন কোচ](https://bangla.asianetnews.com/sports/death-threats-against-oscar-bruzon-s-family-who-is-behind-them-former-east-bengal-coach-informs-kolkata-police-anbsd/articleshow-cg01h47)
+- [ઈરાનના રાષ્ટ્રપતિ ભારતમાં છે ત્યારે ટ્રમ્પનું મોટું નિવેદન, 'હોર્મુઝ અમારા કંટ્રોલમાં, યુદ્ધ જલ્દી ખતમ થશે'](https://www.gujaratsamachar.com/news/international/trumps-big-statement-while-iranian-president-is-in-india-hormuz-under-our-control-war-will-end-soon-41803439786)
+- [Joe Root Breaks Sachin Tendulkar's Record for Most Test Fifties](https://m.rediff.com/cricket/report/joe-root-breaks-sachin-tendulkars-record-for-most-test-fifties-edgbaston/20260912.htm)
+- [டில்லியில் பிரதமர் மோடி - சீன அதிபர் ஜின்பிங் சந்திப்பு](https://www.dinamalar.com/news/india-tamil-news/pm-modi-meets-chinese-president-xi-jinping-in-delhi/4321110)
+- [અમદાવાદ: ગરબા ક્લાસથી અલગ વાહનો પર પાછા ફરતા દંપતીને નડ્યો અકસ્માત, પતિની નજર સામે જ પત્નીનું મોત, 2 મહિના પહેલા જ થયા હતા લગ્ન](https://www.gujaratsamachar.com/news/ahmedabad/shilaj-canal-road-newlywed-woman-bopal-police-99547874107)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
