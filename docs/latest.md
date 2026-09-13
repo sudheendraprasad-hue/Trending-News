@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-13 19:01:42
+# India Trending Report — 2026-09-13 19:32:02
 
 ## Google Trends (India) — top trending searches
-1. [us open tennis](https://trends.google.com/trending/rss?geo=IN)
-2. [sushant singh rajput](https://trends.google.com/trending/rss?geo=IN)
-3. [ssc napoli vs bologna fc standings](https://trends.google.com/trending/rss?geo=IN)
-4. [nda](https://trends.google.com/trending/rss?geo=IN)
-5. [జస్ప్రీత్ బుమ్రా](https://trends.google.com/trending/rss?geo=IN)
-6. [real sociedad vs atlético madrid](https://trends.google.com/trending/rss?geo=IN)
-7. [ganesh chaturthi prompt for girls](https://trends.google.com/trending/rss?geo=IN)
-8. [मिथुन](https://trends.google.com/trending/rss?geo=IN)
-9. [wcpl](https://trends.google.com/trending/rss?geo=IN)
-10. [harleen deol](https://trends.google.com/trending/rss?geo=IN)
+1. [juventus fc](https://trends.google.com/trending/rss?geo=IN)
+2. [ladli behna yojana](https://trends.google.com/trending/rss?geo=IN)
+3. [14 september](https://trends.google.com/trending/rss?geo=IN)
+4. [us open tennis](https://trends.google.com/trending/rss?geo=IN)
+5. [sushant singh rajput](https://trends.google.com/trending/rss?geo=IN)
+6. [ssc napoli vs bologna fc standings](https://trends.google.com/trending/rss?geo=IN)
+7. [nda](https://trends.google.com/trending/rss?geo=IN)
+8. [జస్ప్రీత్ బుమ్రా](https://trends.google.com/trending/rss?geo=IN)
+9. [real sociedad vs atlético madrid](https://trends.google.com/trending/rss?geo=IN)
+10. [ganesh chaturthi prompt for girls](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [India women's team refuses to take Asia Cup trophy from Mohsin Naqvi](https://timesofindia.indiatimes.com/sports/cricket/news/india-womens-team-refuses-asia-cup-trophy-from-mohsin-naqvi-after-title-win/articleshow/134220894.cms)
 - [Is UK heading for breakup? Scotland, Wales and Northern Ireland push for independence](https://timesofindia.indiatimes.com/world/uk/is-uk-heading-for-a-breakup-scotland-wales-and-northern-ireland-push-for-independence/articleshow/134201489.cms)
 - [Minutes after Boris Johnson, European leaders pass through, Russia strikes Ukrainian train near Poland border](https://timesofindia.indiatimes.com/world/europe/russia-strikes-train-near-poland-border-minutes-after-boris-johnson-european-leaders-pass-through/articleshow/134216343.cms)
 - [New playbook, bigger role & a wake-up call for the West: Decoding the Brics summit](https://timesofindia.indiatimes.com/india/modi-xis-ukraine-offer-to-putin-strong-message-to-west-new-brics-playbook-key-outcomes-of-summit/articleshow/134197086.cms)
-- [India avenge 2024 final defeat, beat Sri Lanka to lift 8th Asia Cup title](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/harmanpreets-india-avenge-2024-final-defeat-beat-sri-lanka-by-72-runs-to-lift-eighth-womens-asia-cup-title/articleshow/134217047.cms)
 - [The Uranium rush: Inside India's scramble to fuel its nuclear ambitions](https://timesofindia.indiatimes.com/india/the-uranium-rush-inside-indias-scramble-to-fuel-its-nuclear-ambitions/articleshow/134206216.cms)
 - [Mark Zuckerberg's secret project wanted Meta teams 60% smaller and run by AI agents](https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-ran-a-secret-project-to-make-the-company-ai-native-asked-teams-to-study-impact-of-/articleshow/134212125.cms)
 - [Brics diplomacy: Iran president says Tehran, UAE want to 'turn the page' on war](https://timesofindia.indiatimes.com/world/middle-east/brics-diplomacy-iran-president-says-tehran-uae-want-to-turn-the-page-on-war/articleshow/134203211.cms)
 - [A year on, Rs 15 lakh for kin of 4 killed in Leh firing](https://timesofindia.indiatimes.com/india/a-year-on-rs-15-lakh-for-kin-of-4-killed-in-leh-firing/articleshow/134219676.cms)
-- [Inside Martha Stewart’s 152-acre New York farm with 100 chickens](https://timesofindia.indiatimes.com/world/us/in-2000-martha-stewart-bought-a-152-acre-new-york-farmhouse-26-years-later-the-horse-farm-has-100-chickens-and-11-pheasants-after-she-added-13-chickens-and-a-silver-pheasant/articleshow/134190837.cms)
+- [India avenge 2024 final defeat, beat Sri Lanka to lift 8th Asia Cup title](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/harmanpreets-india-avenge-2024-final-defeat-beat-sri-lanka-by-72-runs-to-lift-eighth-womens-asia-cup-title/articleshow/134217047.cms)
 - [Jeff Bezos’ ex-wife MacKenzie Scott gives $60 million to global methane fight](https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-gives-60-million-to-global-methane-fight-as-cutting-the-invisible-gas-becomes-a-climate-priority/articleshow/134063334.cms)
 
 **NDTV**
@@ -38,6 +38,7 @@
 - [Opinion: Opinion | From Non-Alignment To All-Alignment Towards India: India's Rise](https://www.ndtv.com/opinion/brics-2026-non-alignment-to-all-alignment-indias-rise-as-global-power-12041900#publisher=newsstand)
 
 **Hindustan Times**
+- [SC lets manager off the hook, puts focus on Indian Bank in 35-year-old loan case](https://www.hindustantimes.com/india-news/sclets-manager-off-the-hook-puts-focus-on-indian-bank-in-35-year-old-loan-case-101789327072513.html)
 - [Brigadier Mishra gets Royal College Fellowship for contributions to ophthalmology](https://www.hindustantimes.com/india-news/brigadier-sanjay-kumar-mishra-gets-royal-college-fellowship-london-for-contributions-to-ophthalmology-101789319701772.html)
 - [Bangladesh wants to ‘reset’ ties with India, calls Hasina-era relationship ‘uncomfortable’](https://www.hindustantimes.com/india-news/bangladesh-says-wants-to-reset-ties-with-india-calls-sheikh-hasina-era-relationship-uncomfortable-101789317654247.html)
 - [Last few monsoon showers for Delhi? IMD forecasts light to heavy rain in some areas over next three days](https://www.hindustantimes.com/india-news/delhi-rain-last-few-monsoon-showers-imd-forecasts-light-to-heavy-rainfall-some-areas-next-three-days-sept-13-to-sept-17-101789313810585.html)
@@ -47,7 +48,6 @@
 - [India condemns attack on ship off Oman as seafarer remains missing; 13 Indian crew members rescued](https://www.hindustantimes.com/india-news/india-condemns-attack-on-vessel-off-oman-coast-13-indian-crew-members-rescued-1-missing-101789311281232.html)
 - [Mamata Banerjee-led TMC announces candidates for Bengal, Assam bypolls](https://www.hindustantimes.com/india-news/mamata-banerjee-led-tmc-announces-candidates-for-bengal-assam-bypolls-101789311230398.html)
 - [AI 1980s photo trend: From privacy to climate impact, 3 things to consider before joining in](https://www.hindustantimes.com/india-news/ai-1980s-photo-trend-from-privacy-to-climate-impact-3-things-to-consider-before-joining-in-chatgpt-gemini-trend-101789302065902.html)
-- [AAP, Goa Forward Party announce ‘Goa First’ alliance for 2027 polls](https://www.hindustantimes.com/india-news/aap-goa-forward-party-announce-goa-first-alliance-for-2027-polls-101789309130808.html)
 
 **Vijay Karnataka**
 - [ಬ್ರಿಕ್ಸ್‌ ಶೃಂಗಸಭೆ ಮುಗಿಸಿ ತಾಯ್ನಾಡಿಗೆ ಮರಳಿದ ವ್ಲಾಡಿಮಿರ್‌ ಪುಟಿನ್-ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್:‌ ಹೇಗಿತ್ತು ಪವರ್‌ಫುಲ್‌ ಅಧ್ಯಕ್ಷರ ಭಾರತ ಪ್ರವಾಸ?](https://vijaykarnataka.com/news/india/vladimir-putin-and-xi-jinping-departs-from-delhi-after-participating-in-brics-summit-2026/articleshow/134201444.cms)
@@ -62,6 +62,8 @@
 - [`ರಿಷಭ್ ಪಂತ್ ಜೊತೆ ಕೂತು ಭರ್ಜರಿ ಭೋಜನ ಮಾಡುವಾಸೆ': ನಮ್ಮ ಮಾತು ಟ್ರೇಡ್ ಗೆ ಕೊನೆಯಾಗಿಲ್ಲ ಎಂದ ಸಂಜೀವ್ ಗೋಯೆಂಕಾ](https://vijaykarnataka.com/sports/cricket/iplt20/news/sanjiv-goenka-says-he-like-to-have-dinner-with-rishabh-pant/articleshow/134210548.cms)
 
 **The Hindu**
+- [Keralam CM V.D. Satheesan takes a trip down memory lane at alumni meet](https://www.thehindu.com/news/national/kerala/satheesan-takes-a-trip-down-memory-lane-at-alumni-meet/article71464032.ece)
+- [Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh](https://www.thehindu.com/news/national/bangladesh-wants-to-reset-ties-with-india/article71464479.ece)
 - [Pre-booking of photo book on Indira Gandhi launched](https://www.thehindu.com/news/national/tamil-nadu/pre-booking-of-photo-book-on-indira-gandhi-launched/article71463361.ece)
 - [Left parties to contest in Tamil Nadu bypolls; CPI to field candidate in Dharapuram, CPI(M) in Madurantakam](https://www.thehindu.com/news/national/tamil-nadu/left-parties-to-contest-in-tamil-nadu-bypolls-cpi-to-field-candidate-in-dharapuram-cpim-in-madurantakam/article71462935.ece)
 - [BJP imposing its 'deeply problematic' dietary preferences on foreign dignitaries, says Congress on BRICS dinner](https://www.thehindu.com/news/national/80-indians-non-vegetarian-indian-non-vegetarian-food-is-delicious-says-rahul/article71463063.ece)
@@ -70,8 +72,6 @@
 - [Jaywalking a menace on OMR, motorists say](https://www.thehindu.com/news/cities/chennai/jaywalking-a-menace-on-omr-motorists-say/article71381679.ece)
 - [Bridge to replace part of Pallavaram-Thoraipakkam Radial Road on Pallikaranai marshland](https://www.thehindu.com/news/cities/chennai/bridge-to-replace-part-of-pallavaram-thoraipakkam-radial-road-on-pallikaranai-marshland/article71463911.ece)
 - [Indian missing after attack on Panama-flagged tanker off Oman; MEA says search ops. on](https://www.thehindu.com/news/national/indian-missing-after-attack-on-panama-flagged-tanker-off-oman-mea-says-search-ops-on/article71464456.ece)
-- [Temple tenants urge CM to implement G.O. fixing rents](https://www.thehindu.com/news/cities/chennai/temple-tenants-urge-cm-to-implement-go-fixing-rents/article71461067.ece)
-- [BJP opposes circular on breakfast scheme](https://www.thehindu.com/news/national/tamil-nadu/bjp-opposes-circular-on-breakfast-scheme/article71463355.ece)
 
 **Livemint**
 - [Brics Women’s Business Alliance urges supply chain access and scale for women-led entrepreneurship](https://www.livemint.com/news/india/brics-women-s-business-alliance-urges-supply-chain-access-and-scale-for-women-led-entrepreneurship-11789301032517.html)
@@ -100,7 +100,9 @@
 - [‘ಕೆಪಿಸಿಸಿ ಕನೆಕ್ಟ್ ಸೆಂಟರ್’ನ ಅಧ್ಯಕ್ಷರಾಗಿ ಸಿ.ಬಿ.ಶಶಿಧರ್ ನೇಮಕ](https://www.varthabharati.in/bangalore-city/--2275083)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (6.4)
+- India (9.0)
+- Bangladesh (3.2)
+- Indian (2.9)
 - Brics (2.9)
 - BRICS (2.9)
 - Russia (2.6)
@@ -109,26 +111,24 @@
 - Opinion (2.6)
 - Assam (2.6)
 - Oman (2.6)
-- Indian (2.6)
+- Asia Cup (2.0)
 - Azad Maidan (2.0)
 - India's (1.9)
-- Bangladesh (1.9)
 - Africa (1.9)
-- Ukrainian (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [iPhone 18 Pro India Price High vs US](https://www.bhaskarenglish.in/tech-science/news/bookings-open-for-iphone-18-pro-and-pro-max-139016748.html)
-- [क्या बीमार हैं शी जिनपिंग? PM मोदी ने भाषण रोक पूछा हाल, डिनर में भी नहीं शामिल हुए](https://www.livehindustan.com/national/is-xi-jinping-ill-pm-modi-paused-his-speech-to-inquire-about-the-chinese-president-wellbeing-201789282104380.html)
-- [Ratnagiri Accident: कोकणात गणेशभक्तांच्या गाडीचा भीषण अपघात, काळजाचा थरकाप उडवणारं दृश्य, 10 जण जखमी](https://marathi.abplive.com/news/ratnagiri/ratnagiri-accident-mumbai-goa-highway-accident-near-rajapur-ganesh-devotees-force-urbania-vehicle-rams-into-divider-10-get-serious-injured-marathi-news-1438957)
-- [At 100, Atlanta's Barbara Haig still drives her white Ford Mustang; she says caution, not age, will determine how long she stays behind the wheel](https://timesofindia.indiatimes.com/world/us/at-100-atlantas-barbara-haig-still-drives-her-white-ford-mustang-she-says-caution-not-age-will-determine-how-long-she-stays-behind-the-wheel/articleshow/134151981.cms)
-- [Houthi projectile wounds two, damages mosque in Jazan region, Saudi says](https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says)
-- [మోదీ ఇచ్చిన బ్రిక్స్ విందుకు జిన్‌పింగ్ ఎందుకు వెళ్లలేదు.. అసలు కారణం ఇదేనా..](https://www.andhrajyothy.com/2026/international/xi-jinping-skips-modis-brics-dinner-why-china-president-missed-gala-event-sgr-1557839.html)
-- [दूसरी बार मां बनने वाली हैं पाकिस्तानी एक्ट्रेस माहिरा खान, फ्लॉन्ट किया बेबी बंप, देखें फोटो](https://www.abplive.com/entertainment/bollywood/pakistani-actress-mahira-khan-pregnant-at-41-flaunts-baby-bump-3188194)
-- [Konkan Railway : गणेशोत्सवाच्या तोंडावर कोकण रेल्वेचा बोजवारा; मुंबईहून सुटणाऱ्या गाड्या 3 ते 4 तासाने, तर लांब पल्याच्या गाड्या तब्बल 8 तासांनी उशिरा; प्रवाशांचे हाल](https://marathi.abplive.com/news/maharashtra/konkan-railways-in-chaos-on-of-ganeshotsav-2026-trains-leaving-mumbai-are-delayed-by-3-to-4-hours-and-long-distance-trains-by-8-hours-ganesh-chaturthi-2026-traffic-update-1438950)
-- [आकांक्षा चमोला को मिली ₹10 करोड़ की एल‍िमनी? गौरव खन्‍ना से तलाक और पैसों को लेकर एक्‍ट्रेस ने दिया जवाब](https://navbharattimes.indiatimes.com/tv/news/akanksha-chamola-breaks-silence-on-10-crore-alimony-rumour-responds-questions-about-divorce-from-gaurav-khanna/articleshow/134182967.cms)
-- [നിലപാടുകളുടെ രാജകുമാരന്റെ ‘നില’പാടാകും; പാർട്ടി തകർന്നാൽ ജനങ്ങൾക്ക് ആരാണ് അഭയമെന്ന് എം.എ. ബേബി](https://www.manoramaonline.com/news/latest-news/2026/09/13/ma-baby-address-cpm-kozhikode-state-committee.html)
+- [ભાવનગરમાં લઠ્ઠાકાંડ બાદ નકલી દારૂની ફેક્ટરી ઝડપાઈ: રેલવે કોલોનીના ક્વાર્ટરમાં ચાલતા કારોબારનો પર્દાફાશ](https://gujarati.abplive.com/news/business/bhavnagar-fake-liquor-factory-busted-railway-colony-railway-employee-arrested-police-investigation-991078)
+- [Dinesh Karthik: 'സഞ്ജു സാംസണെ നിങ്ങൾ എവിടെ കളിപ്പിക്കും?'; ചോദ്യങ്ങളുമായി ദിനേശ് കാർത്തിക്](https://www.asianetnews.com/cricket-sports/where-will-you-play-sanju-samson-dinesh-karthik-questions-team-managements-selection-articleshow-asnu63s)
+- [BRICS સમિટનો બીજો દિવસ: PM મોદીએ મંચ પરથી વૈશ્વિક સંકટનો મુદ્દો ઉઠાવ્યો, કહ્યું- માનવતા પર માઠી અસર થઇ](https://www.gujaratsamachar.com/news/national/brics-summit-live-pm-modis-bilateral-meeting-with-leaders-of-7-countries-including-kazakhstan-south-africa-today-61853177678)
+- [அப்செப்டில் நடிகர்; திருமணத்தை எதிர்பார்க்கும் நடிகை](https://cinema.dinamalar.com/news/cinema-gossip/cine-gossip/140858)
+- [த.வெ.க., குதிரை பேரத்தால் இடைத்தேர்தல்: இபிஎஸ் குற்றச்சாட்டு](https://www.dinamalar.com/news/tamil-nadu-news/by-election-by-horse-trading-eps-charges/4321629)
+- [Weekly Horoscope 14 To 20 September 2026 : कुंभ, मीन राशींना या आठवड्यात धनलाभाचे योग! संपत्तीत होईल वाढ; वाचा साप्ताहिक राशीभविष्य](https://marathi.abplive.com/astro/weekly-horoscope-14-to-20-september-2026-aquarius-and-pisces-rashi-saptahik-rashi-bhavishya-health-wealth-career-love-life-prediction-marathi-news-1424399)
+- [ఒకే ఫ్రేమ్‌లో మోదీ, పుతిన్, జిన్‌పింగ్.. బ్రిక్స్ ఫ్యామిలీ ఫొటో వైరల్..](https://www.andhrajyothy.com/2026/national/brics-2026-modi-flanked-by-putin-and-xi-in-family-photo-powerful-image-goes-viral-1557846.html)
+- [मेटा ग्लासेस: सार्वजनिक जगहों पर लोगों का वीडियो बनाना कितना सही?](https://www.bbc.com/hindi/articles/cwyz1lxgg2zo)
+- [Hanuman Ansh આગળ ધુરંધર-પુષ્પા-બાહુબલી બધા ફેલ, 37મા દિવસે તેમણે એવું કર્યું જે ભારતીય સિનેમાના ઇતિહાસમાં ક્યારેય બન્યું નથી](https://tv9gujarati.com/entertainment/bollywood/breaking-news-hanuman-ansh-box-office-day-37-earned-18-50-crore-1514741.html)
+- [Malda Bhutni: এখনও প্রায় এক মানুষ সমান জল, ভূতনীর বন্যা পরিস্থিতিতে ডুবে মৃত্যু শিশু-সহ ৩ জনের](https://bangla.aajtak.in/west-bengal/north-bengal-news/story/malda-bhootni-flood-claim-three-lives-situation-worsen-third-death-abk-1450096-2026-09-13)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
