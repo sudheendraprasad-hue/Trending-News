@@ -1,13 +1,18 @@
 {
-  "generated_at": "2026-09-13 23:32:59",
+  "generated_at": "2026-09-14 00:02:42",
   "google_trends": [
+    {
+      "title": "\u092e\u094b\u0939\u0938\u093f\u0928 \u0928\u0915\u0935\u0940",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "weather hyderabad",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "new",
+      "title": "hindi",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
@@ -18,11 +23,6 @@
     },
     {
       "title": "binance",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "4",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
@@ -42,12 +42,12 @@
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "jonathan david",
+      "title": "chicago vs new england",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "trinity rodman",
+      "title": "jonathan david",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     }
@@ -55,40 +55,40 @@
   "outlets": {
     "Times of India": [
       {
+        "title": "Xi's 5-point action plan for Brics may see red flags go up in India",
+        "link": "https://timesofindia.indiatimes.com/india/xis-5-point-action-plan-for-brics-may-see-red-flags-go-up-in-india/articleshow/134225006.cms"
+      },
+      {
         "title": "India women's team refuses to take Asia Cup trophy from Mohsin Naqvi",
         "link": "https://timesofindia.indiatimes.com/sports/cricket/news/india-womens-team-refuses-asia-cup-trophy-from-mohsin-naqvi-after-title-win/articleshow/134220894.cms"
+      },
+      {
+        "title": "IPO set to unlock value in group coompanies holding Tata Sons stake",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/ipo-set-to-unlock-value-in-group-cos-holding-tata-sons-stake/articleshow/134229591.cms"
       },
       {
         "title": "Brics 2026: Xi listening, PM Modi warns against weaponisation of minerals, tech",
         "link": "https://timesofindia.indiatimes.com/india/brics-day-2-pm-flags-critical-minerals-tech-weaponisation-amid-global-tensions/articleshow/134220477.cms"
       },
       {
-        "title": "Oil infra hit by Ukraine, Russia gets 70% of its fuel from India",
-        "link": "https://timesofindia.indiatimes.com/business/international-business/oil-infra-hit-by-ukraine-russia-gets-70-of-its-fuel-from-india/articleshow/134223885.cms"
-      },
-      {
         "title": "'Act of terror\u2019: Pregnant woman among four killed in attacks on Kuki villages in Manipur",
         "link": "https://timesofindia.indiatimes.com/city/guwahati/twin-manipur-attacks-village-bodies-allege-nscn-zuf-hand-in-killing-of-4-kukis/articleshow/134211178.cms"
-      },
-      {
-        "title": "SIR notices to 38 members of Iranian-origin family in Jharkhand",
-        "link": "https://timesofindia.indiatimes.com/city/ranchi/notices-to-38-member-iranian-origin-family-over-draft-roll-entry-in-garhwa/articleshow/134207279.cms"
       },
       {
         "title": "Mark Zuckerberg's secret project wanted Meta teams 60% smaller and run by AI agents",
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-ran-a-secret-project-to-make-the-company-ai-native-asked-teams-to-study-impact-of-/articleshow/134212125.cms"
       },
       {
-        "title": "Murder accused's 'victory march': SC asks Haryana police to produce him in court",
-        "link": "https://timesofindia.indiatimes.com/india/murder-accused-takes-out-victory-march-after-bail-sc-tells-haryana-cops-to-produce-him-in-court/articleshow/134229198.cms"
+        "title": "SIR notices to 38 members of Iranian-origin family in Jharkhand",
+        "link": "https://timesofindia.indiatimes.com/city/ranchi/notices-to-38-member-iranian-origin-family-over-draft-roll-entry-in-garhwa/articleshow/134207279.cms"
+      },
+      {
+        "title": "Oil infra hit by Ukraine, Russia gets 70% of its fuel from India",
+        "link": "https://timesofindia.indiatimes.com/business/international-business/oil-infra-hit-by-ukraine-russia-gets-70-of-its-fuel-from-india/articleshow/134223885.cms"
       },
       {
         "title": "\u2018Some regional countries requested\u2019: Iran after meeting with Gulf states in Oman postponed",
         "link": "https://timesofindia.indiatimes.com/world/middle-east/some-regional-countries-requested-iran-after-meeting-with-gulf-states-in-oman-postponed/articleshow/134224097.cms"
-      },
-      {
-        "title": "Sweden opposition holds slender lead in tight election, projection shows a",
-        "link": "https://timesofindia.indiatimes.com/world/europe/sweden-opposition-holds-narrow-lead-in-tight-election-projection-shows-as-vote-counting-continues/articleshow/134226934.cms"
       },
       {
         "title": "Jeff Bezos\u2019 ex-wife MacKenzie Scott gives $60 million to global methane fight",
@@ -223,7 +223,11 @@
     ],
     "The Hindu": [
       {
-        "title": "Mumbai on \u2018orange\u2019 alert with moderate rain likely on Sept. 14",
+        "title": "Jharkhand LoP accuses Soren-led govt. of protecting influential people amid CID probe into job exam \u2018irregularities\u2019",
+        "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-lop-accuses-soren-led-govt-of-protecting-influential-people-amid-cid-probe-into-job-exam-irregularities/article71463699.ece"
+      },
+      {
+        "title": "Mumbai on \u2018orange\u2019 alert as IMD warns of heavy rain in parts of Maharashtra",
         "link": "https://www.thehindu.com/news/cities/mumbai/mumbai-on-orange-alert-with-moderate-rain-likely-on-sept-14/article71464389.ece"
       },
       {
@@ -257,10 +261,6 @@
       {
         "title": "Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh",
         "link": "https://www.thehindu.com/news/national/bangladesh-wants-to-reset-ties-with-india/article71464479.ece"
-      },
-      {
-        "title": "Pre-booking of photo book on Indira Gandhi launched",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/pre-booking-of-photo-book-on-indira-gandhi-launched/article71463361.ece"
       }
     ],
     "Livemint": [
@@ -352,11 +352,15 @@
   "keywords": [
     {
       "term": "India",
-      "score": 10.0
+      "score": 11.3
     },
     {
       "term": "Mumbai",
       "score": 4.5
+    },
+    {
+      "term": "Brics",
+      "score": 3.5
     },
     {
       "term": "Bangladesh",
@@ -405,53 +409,49 @@
     {
       "term": "BRICS",
       "score": 2.5
-    },
-    {
-      "term": "Brics",
-      "score": 2.2
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "Soybean Crop Damage: \u0936\u0947\u0924\u0915\u0931\u094d\u092f\u093e\u0902\u091a\u0947 \u0939\u093f\u0930\u0935\u0947 \u0938\u094d\u0935\u092a\u094d\u0928 \u0915\u0930\u092a\u0932\u0947",
-      "link": "https://agrowon.esakal.com/agro-special/ner-yavatmal-soybean-crop-damage-drought-relief-demand-abhi47"
+      "title": "YS Jagan | \u0c2e\u0c46\u0c17\u0c3e \u0c21\u0c40\u0c0e\u0c38\u0c4d\u0c38\u0c40\u0c32\u0c4b \u0c2d\u0c3e\u0c30\u0c40 \u0c38\u0c4d\u0c15\u0c3e\u0c2e\u0c4d\u200c.. \u0c15\u0c42\u0c1f\u200c\u0c2e\u0c3f \u0c38\u200c\u0c30\u0c4d\u0c15\u0c3e\u0c30\u0c41\u0c2a\u0c48 \u0c35\u0c48\u0c0e\u0c38\u0c4d \u0c1c\u200c\u0c17\u200c\u0c28\u0c4d \u0c2e\u200c\u0c33\u0c4d\u0c32\u0c40 \u0c2b\u0c48\u0c30\u0c4d\u200c",
+      "link": "https://www.ntnews.com/andhrapradesh-news/ys-jagan-massive-scam-in-mega-dsc-ys-jagan-lashes-out-at-the-alliance-government-again-2510257"
     },
     {
-      "title": "UAE and Iran leaders meet at the BRICS summit for the first time since the war",
-      "link": "https://www.euronews.com/2026/09/13/uae-and-iran-leaders-meet-at-the-brics-summit-for-the-first-time-since-the-war"
+      "title": "UCC implementation in all 21 states ruled by BJP, NDA partners before 2029: Amit Shah's big remarks",
+      "link": "https://www.hindustantimes.com/india-news/ucc-in-all-21-states-ruled-by-nda-bjp-before-2029-union-home-minister-amit-shahs-big-claim-101789300639981.html"
     },
     {
-      "title": "IND vs AFG: \u09ad\u09be\u09b0\u09a4\u09c7\u09b0 \u09ae\u09be\u099f\u09bf\u09a4\u09c7 \u0986\u099c \u09ac\u09bf\u09b0\u09b2 \u09b0\u09c7\u0995\u09b0\u09cd\u09a1 \u0997\u09a1\u09bc\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7 \u09ac\u09c8\u09ad\u09ac, \u09ac\u09bf\u09b8\u09cd\u09ae\u09df-\u0995\u09bf\u09b6\u09cb\u09b0\u0995\u09c7 \u09a8\u09bf\u09df\u09c7 \u09a6\u09c1\u09b6\u09cd\u099a\u09bf\u09a8\u09cd\u09a4\u09be\u09df \u0986\u09ab\u0997\u09be\u09a8\u09bf\u09b8\u09cd\u09a4\u09be\u09a8",
-      "link": "https://bengali.abplive.com/sports/cricket/ind-vs-afg-1st-t20-india-vs-afghanistan-vaibhav-sooryavanshi-may-be-included-in-record-book-indian-cricket-team-bcci-1192660"
+      "title": "\u0c30\u0c47\u0c35\u0c02\u0c24\u0c4d \u0c2e\u0c3e\u0c1f\u0c32\u0c4d\u0c32\u0c4b \u0c09\u0c28\u0c4d\u0c28\u0c02\u0c24 \u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c3e\u0c02\u0c17\u0c4d \u0c1a\u0c47\u0c24\u0c32\u0c4d\u0c32\u0c4b \u0c09\u0c02\u0c1f\u0c47 \u0c0e\u0c02\u0c24\u0c4b\u0c2e\u0c02\u0c26\u0c3f \u0c1c\u0c48\u0c32\u0c41\u0c15\u0c41 \u0c35\u0c46\u0c33\u0c4d\u0c32\u0c47\u0c35\u0c3e\u0c30\u0c41.. \u0c1f\u0c40\u0c1c\u0c40 \u0c35\u0c46\u0c02\u0c15\u0c1f\u0c47\u0c36\u0c4d \u0c35\u0c4d\u0c2f\u0c3e\u0c16\u0c4d\u0c2f\u0c32\u0c41",
+      "link": "https://telugu.samayam.com/telangana/hyderabad/former-mp-tg-venkatesh-comments-on-telangana-cm-revanth-reddy-in-uppal-bhagayath-arya-vysya-bhavan-foundation-stone/articleshow/134198666.cms"
     },
     {
-      "title": "\u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bbf\u0bb0\u0b95\u0b9f\u0ba9\u0bae\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe, \u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bc8 \u0bae\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0bae\u0bbe\u0b95 \u0b9a\u0bbe\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bc1 \u0b8e\u0ba4\u0bc8 \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1?",
-      "link": "https://www.bbc.com/tamil/articles/ced76470l4xo"
+      "title": "'80% \u092d\u093e\u0930\u0924\u0940\u092f \u092e\u093e\u0902\u0938\u093e\u0939\u093e\u0930\u0940', BRICS \u0921\u093f\u0928\u0930 \u0915\u0947 \u0935\u0947\u091c \u092e\u0947\u0928\u094d\u092f\u0942 \u092a\u0930 \u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940 \u0915\u093e \u0924\u0902\u091c; \u0930\u093f\u091c\u093f\u091c\u0942 \u0928\u0947 \u0915\u093f\u092f\u093e \u0915\u0930\u093e\u0930\u093e \u092a\u0932\u091f\u0935\u093e\u0930",
+      "link": "https://navbharattimes.indiatimes.com/india/rahul-gandhi-jibe-at-brics-dinners-veg-menu-kiren-rijiju-sharp-retort-controversy-erupts-over-80-percent-indians-are-non-vegetarian/articleshow/134198180.cms"
     },
     {
-      "title": "\u0938\u090a\u0926\u0940 \u092a\u0930 \u092b\u093f\u0930 \u092c\u0930\u0938\u0940\u0902 \u0939\u0942\u0924\u0940 \u092e\u093f\u0938\u093e\u0907\u0932\u0947\u0902, \u092e\u0938\u094d\u091c\u093f\u0926 \u0915\u094b \u0928\u0941\u0915\u0938\u093e\u0928, \u0938\u0948\u0928\u094d\u092f \u0905\u0921\u094d\u0921\u093e \u0924\u092c\u093e\u0939, \u0905\u092c\u0924\u0915 500 \u092e\u094c\u0924\u094b\u0902 \u0915\u093e \u0926\u093e\u0935\u093e!",
-      "link": "https://www.aajtak.in/world/story/houthis-attack-on-saudi-arab-saudi-military-war-damages-mosque-jazan-ntcppl-dskc-2642089-2026-09-13"
+      "title": "\u0c2a\u0c4d\u0c30\u0c27\u0c3e\u0c28\u0c3f \u0c2e\u0c4b\u0c26\u0c40\u0c28\u0c3f \u0c15\u0c32\u0c3f\u0c38\u0c3f\u0c28 \u0c38\u0c4d\u0c15\u0c42\u0c32\u0c4d\u200c \u0c2b\u0c4d\u0c30\u0c46\u0c02\u0c21\u0c4d\u200c..",
+      "link": "https://www.eenadu.net/telugu-news/india/schoolmate-meets-pm-modi-seeks-cbi-probe-into-alleged-land-grab/0701/126165823"
     },
     {
-      "title": "Irumudi: \u0c07\u0c30\u0c41\u0c2e\u0c41\u0c21\u0c3f \u0c2c\u0c4d\u0c32\u0c3e\u0c15\u0c4d \u0c2c\u0c38\u0c4d\u0c1f\u0c30\u0c4d \u0c39\u0c3f\u0c1f\u0c4d.. \u0c1a\u0c3f\u0c30\u0c02\u0c1c\u0c40\u0c35\u0c3f, \u0c30\u0c3e\u0c02\u0c1a\u0c30\u0c23\u0c4d \u0c28\u0c3f \u0c15\u0c32\u0c3f\u0c38\u0c3f\u0c28 \u0c30\u0c35\u0c3f\u0c24\u0c47\u0c1c",
-      "link": "https://telugu.asianetnews.com/gallery/entertainment/chiranjeevi-ram-charan-congratulate-irumudi-team-on-success-9bgieqh"
+      "title": "Smriti Mandhana | \u0c2e\u0c40\u0c30\u0c41 \u0c0f\u0c21\u0c41\u0c38\u0c4d\u0c24\u0c3e\u0c30\u0c3e.. \u0c2e\u0c40 \u0c1c\u0c40\u0c35\u0c3f\u0c24\u0c02\u0c32\u0c4b \u0c05\u0c24\u0c3f \u0c15\u0c37\u0c4d\u0c1f\u0c02\u0c17\u0c3e \u0c17\u0c21\u0c3f\u0c1a\u0c3f\u0c28 \u0c30\u0c3e\u0c24\u0c4d\u0c30\u0c3f \u0c0f\u0c26\u0c3f?",
+      "link": "https://www.ntnews.com/sports/mandhana-gest-emotional-in-podcast-and-says-she-talks-only-about-cricket-2510239"
     },
     {
-      "title": "\u0c2e\u0c46\u0c17\u0c3e \u0c21\u0c40\u0c0e\u0c38\u0c4d\u0c38\u0c40: \u0c15\u0c42\u0c1f\u0c2e\u0c3f \u0c2a\u0c4d\u0c30\u0c2d\u0c41\u0c24\u0c4d\u0c35\u0c02\u0c2a\u0c48 \u0c1c\u0c17\u0c28\u0c4d \u0c2e\u0c30\u0c4b\u0c38\u0c3e\u0c30\u0c3f \u0c2b\u0c48\u0c30\u0c4d",
-      "link": "https://www.ap7am.com/tn/879931/mega-dsc-jagan-mohan-reddy-fires-at-alliance-government-once-again"
+      "title": "'80% \u092d\u093e\u0930\u0924\u0940\u092f \u092e\u093e\u0902\u0938\u093e\u0939\u093e\u0930\u0940 \u0939\u0948\u0902': \u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940 \u0915\u0947 \u092c\u092f\u093e\u0928 \u0914\u0930 \u092c\u094d\u0930\u093f\u0915\u094d\u0938 \u0915\u0947 \u0917\u093e\u0932\u093e \u0921\u093f\u0928\u0930 \u0915\u0940 \u0915\u0948\u0938\u0940 \u0939\u0948 \u091a\u0930\u094d\u091a\u093e",
+      "link": "https://www.bbc.com/hindi/articles/c17jpkqxprjo"
     },
     {
-      "title": "\u0ab8\u0abe\u0a89\u0aa6\u0ac0\u0aa8\u0ac0 \u0a93\u0a88\u0ab2 \u0aaa\u0abe\u0a88\u0aaa\u0ab2\u0abe\u0a88\u0aa8 \u0aaa\u0ab0 \u0aa1\u0acd\u0ab0\u0acb\u0aa8 \u0ab9\u0ac1\u0aae\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0a88\u0ab0\u0abe\u0a95\u0ac7 \u0ab6\u0acb\u0aa7\u0ac0 \u0a95\u0abe\u0aa2\u0acd\u0aaf\u0ac1\u0a82 \u0ab2\u0ac9\u0aa8\u0acd\u0a9a \u0aaa\u0ac7\u0aa1, \u0ab9\u0ab5\u0ac7 \u0ab8\u0abe\u0aae\u0ac7 \u0a86\u0ab5\u0ab6\u0ac7 \u0ab8\u0aae\u0a97\u0acd\u0ab0 \u0aa8\u0ac7\u0a9f\u0ab5\u0ab0\u0acd\u0a95?",
-      "link": "https://www.gujaratsamachar.com/news/international/iraq-discovers-launch-pad-for-drone-attack-on-saudi-oil-pipeline-now-will-the-entire-network-be-exposed-10897078860"
+      "title": "Hanuman Ansh: \u0c06 \u0c12\u0c15\u0c4d\u0c15 \u0c15\u0c3e\u0c30\u0c23\u0c02\u0c24\u0c4b \u0c06\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c4d \u0c30\u0c47\u0c38\u0c41 \u0c28\u0c41\u0c02\u0c1a\u0c3f '\u0c39\u0c28\u0c41\u0c2e\u0c3e\u0c28\u0c4d \u0c05\u0c02\u0c36\u0c4d' \u0c14\u0c1f\u0c4d.. \u0c37\u0c3e\u0c15\u0c3f\u0c02\u0c17\u0c4d \u0c35\u0c3f\u0c37\u0c2f\u0c02 \u0c1a\u0c46\u0c2a\u0c4d\u0c2a\u0c3f\u0c28 \u0c28\u0c3f\u0c30\u0c4d\u0c2e\u0c3e\u0c24",
+      "link": "https://tv9telugu.com/entertainment/tollywood/hanuman-ansh-missed-oscar-submission-deadline-says-producer-namrata-singh-1910570.html"
     },
     {
-      "title": "Opposition roasts Modi govt's vegetarian menu at BRICS gala",
-      "link": "https://theprint.in/politics/why-hide-indias-culinary-diversity-opposition-roasts-modi-govts-vegetarian-menu-at-brics-gala/3041700/"
+      "title": "\u0d2e\u0d41\u0d24\u0d3f\u0d7c\u0d28\u0d4d\u0d28 \u0d38\u0d3f\u0d2a\u0d3f\u0d0e\u0d02 \u0d28\u0d47\u0d24\u0d3e\u0d35\u0d4d \u0d2c\u0d47\u0d2c\u0d3f \u0d1c\u0d4b\u0d7a \u0d05\u0d28\u0d4d\u0d24\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d41",
+      "link": "https://www.asianetnews.com/kerala-news/senior-cpm-leader-baby-john-passes-away-articleshow-qt6owoo"
     },
     {
-      "title": "BRICS Summit 2026 LIVE: PM Modi holds bilateral talks on last day of summit; Oppn, BJP leaders spar over dinner menu",
-      "link": "https://www.hindustantimes.com/india-news/brics-2026-live-updates-day-2-pm-modi-xi-jinping-vladimir-putin-masoud-pezeshkian-new-delhi-declaration-latest-101789260489778.html"
+      "title": "\u0d38\u0d1a\u0d4d\u0d1a\u0d3f\u0d28\u0d46 \u0d35\u0d46\u0d1f\u0d4d\u0d1f\u0d3f, \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d46 \u0d15\u0d4d\u0d2f\u0d3e\u0d2a\u0d4d\u0d31\u0d4d\u0d31\u0d28\u0d4d\u200d \u0d35\u0d3f\u0d30\u0d3e\u0d1f\u0d3f\u0d28\u0d46\u0d2f\u0d41\u0d02; \u0d05\u0d35\u0d38\u0d3e\u0d28\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d24\u0d46 \u0d31\u0d42\u0d1f\u0d4d\u0d1f\u0d4d \u0d17\u0d3e\u0d25",
+      "link": "https://www.doolnews.com/joe-root-surpasses-virat-kohli-on-the-list-of-captains-with-the-most-wins-in-the-world-test-championship-65-114.html"
     }
   ],
   "twitter": null

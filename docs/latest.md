@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-13 23:32:59
+# India Trending Report — 2026-09-14 00:02:42
 
 ## Google Trends (India) — top trending searches
-1. [weather hyderabad](https://trends.google.com/trending/rss?geo=IN)
-2. [new](https://trends.google.com/trending/rss?geo=IN)
-3. [binance buy crypto](https://trends.google.com/trending/rss?geo=IN)
-4. [binance](https://trends.google.com/trending/rss?geo=IN)
-5. [4](https://trends.google.com/trending/rss?geo=IN)
+1. [मोहसिन नकवी](https://trends.google.com/trending/rss?geo=IN)
+2. [weather hyderabad](https://trends.google.com/trending/rss?geo=IN)
+3. [hindi](https://trends.google.com/trending/rss?geo=IN)
+4. [binance buy crypto](https://trends.google.com/trending/rss?geo=IN)
+5. [binance](https://trends.google.com/trending/rss?geo=IN)
 6. [gate](https://trends.google.com/trending/rss?geo=IN)
 7. [binance exchange](https://trends.google.com/trending/rss?geo=IN)
 8. [అభిషేక్ శర్మ](https://trends.google.com/trending/rss?geo=IN)
-9. [jonathan david](https://trends.google.com/trending/rss?geo=IN)
-10. [trinity rodman](https://trends.google.com/trending/rss?geo=IN)
+9. [chicago vs new england](https://trends.google.com/trending/rss?geo=IN)
+10. [jonathan david](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Xi's 5-point action plan for Brics may see red flags go up in India](https://timesofindia.indiatimes.com/india/xis-5-point-action-plan-for-brics-may-see-red-flags-go-up-in-india/articleshow/134225006.cms)
 - [India women's team refuses to take Asia Cup trophy from Mohsin Naqvi](https://timesofindia.indiatimes.com/sports/cricket/news/india-womens-team-refuses-asia-cup-trophy-from-mohsin-naqvi-after-title-win/articleshow/134220894.cms)
+- [IPO set to unlock value in group coompanies holding Tata Sons stake](https://timesofindia.indiatimes.com/business/india-business/ipo-set-to-unlock-value-in-group-cos-holding-tata-sons-stake/articleshow/134229591.cms)
 - [Brics 2026: Xi listening, PM Modi warns against weaponisation of minerals, tech](https://timesofindia.indiatimes.com/india/brics-day-2-pm-flags-critical-minerals-tech-weaponisation-amid-global-tensions/articleshow/134220477.cms)
-- [Oil infra hit by Ukraine, Russia gets 70% of its fuel from India](https://timesofindia.indiatimes.com/business/international-business/oil-infra-hit-by-ukraine-russia-gets-70-of-its-fuel-from-india/articleshow/134223885.cms)
 - ['Act of terror’: Pregnant woman among four killed in attacks on Kuki villages in Manipur](https://timesofindia.indiatimes.com/city/guwahati/twin-manipur-attacks-village-bodies-allege-nscn-zuf-hand-in-killing-of-4-kukis/articleshow/134211178.cms)
-- [SIR notices to 38 members of Iranian-origin family in Jharkhand](https://timesofindia.indiatimes.com/city/ranchi/notices-to-38-member-iranian-origin-family-over-draft-roll-entry-in-garhwa/articleshow/134207279.cms)
 - [Mark Zuckerberg's secret project wanted Meta teams 60% smaller and run by AI agents](https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-ran-a-secret-project-to-make-the-company-ai-native-asked-teams-to-study-impact-of-/articleshow/134212125.cms)
-- [Murder accused's 'victory march': SC asks Haryana police to produce him in court](https://timesofindia.indiatimes.com/india/murder-accused-takes-out-victory-march-after-bail-sc-tells-haryana-cops-to-produce-him-in-court/articleshow/134229198.cms)
+- [SIR notices to 38 members of Iranian-origin family in Jharkhand](https://timesofindia.indiatimes.com/city/ranchi/notices-to-38-member-iranian-origin-family-over-draft-roll-entry-in-garhwa/articleshow/134207279.cms)
+- [Oil infra hit by Ukraine, Russia gets 70% of its fuel from India](https://timesofindia.indiatimes.com/business/international-business/oil-infra-hit-by-ukraine-russia-gets-70-of-its-fuel-from-india/articleshow/134223885.cms)
 - [‘Some regional countries requested’: Iran after meeting with Gulf states in Oman postponed](https://timesofindia.indiatimes.com/world/middle-east/some-regional-countries-requested-iran-after-meeting-with-gulf-states-in-oman-postponed/articleshow/134224097.cms)
-- [Sweden opposition holds slender lead in tight election, projection shows a](https://timesofindia.indiatimes.com/world/europe/sweden-opposition-holds-narrow-lead-in-tight-election-projection-shows-as-vote-counting-continues/articleshow/134226934.cms)
 - [Jeff Bezos’ ex-wife MacKenzie Scott gives $60 million to global methane fight](https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-gives-60-million-to-global-methane-fight-as-cutting-the-invisible-gas-becomes-a-climate-priority/articleshow/134063334.cms)
 
 **NDTV**
@@ -62,7 +62,8 @@
 - [ಬ್ರಿಟನ್ ವಿಭಜನೆಗೆ ಪ್ರಯತ್ನ!: ಯುನೈಟೆಡ್ ಕಿಂಗ್ ಡಂನಿಂದ ಸ್ಕಾಟ್ಲೆಂಡ್, ವೇಲ್ಸ್‌, ಉತ್ತರ ಐರ್ಲೆಂಡ್‌ ಹೊರಕ್ಕೆ?](https://vijaykarnataka.com/news/world/scotland-wales-and-northern-ireland-out-of-the-united-kingdom/articleshow/134212724.cms)
 
 **The Hindu**
-- [Mumbai on ‘orange’ alert with moderate rain likely on Sept. 14](https://www.thehindu.com/news/cities/mumbai/mumbai-on-orange-alert-with-moderate-rain-likely-on-sept-14/article71464389.ece)
+- [Jharkhand LoP accuses Soren-led govt. of protecting influential people amid CID probe into job exam ‘irregularities’](https://www.thehindu.com/news/national/jharkhand/jharkhand-lop-accuses-soren-led-govt-of-protecting-influential-people-amid-cid-probe-into-job-exam-irregularities/article71463699.ece)
+- [Mumbai on ‘orange’ alert as IMD warns of heavy rain in parts of Maharashtra](https://www.thehindu.com/news/cities/mumbai/mumbai-on-orange-alert-with-moderate-rain-likely-on-sept-14/article71464389.ece)
 - [High ranges of Kottayam mobilise against Centre’s proposed ESA tag](https://www.thehindu.com/news/national/kerala/high-ranges-of-kottayam-mobilise-against-proposed-esa-tag/article71463292.ece)
 - [Man killed by falling boulders near Cheerbasa Helipad as Kedarnath Yatra suspended temporarily](https://www.thehindu.com/news/national/uttarakhand/kedarnath-yatra-suspended-temporarily-man-killed/article71464684.ece)
 - [Maratha quota protest: Jarange alleges conspiracy to kill him during Mumbai march even as Azad Maidan permission denied](https://www.thehindu.com/news/national/maharashtra/maratha-reservation-protest-conspiracy-to-kill-me-during-mumbai-march-alleges-jarange/article71463158.ece)
@@ -71,7 +72,6 @@
 - [Asia Cup: Indian women's cricket team refuses to accept trophy from ACC head Mohsin Naqvi](https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece)
 - [Keralam CM V.D. Satheesan takes a trip down memory lane at alumni meet](https://www.thehindu.com/news/national/kerala/satheesan-takes-a-trip-down-memory-lane-at-alumni-meet/article71464032.ece)
 - [Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh](https://www.thehindu.com/news/national/bangladesh-wants-to-reset-ties-with-india/article71464479.ece)
-- [Pre-booking of photo book on Indira Gandhi launched](https://www.thehindu.com/news/national/tamil-nadu/pre-booking-of-photo-book-on-indira-gandhi-launched/article71463361.ece)
 
 **Livemint**
 - [Iranian Official Blocked From UN Nuclear Meeting at US’s Urging](https://www.livemint.com/news/us-news/iranian-official-blocked-from-un-nuclear-meeting-at-us-s-urging-11789339124139.html)
@@ -100,8 +100,9 @@
 - [‘ಕೆಪಿಸಿಸಿ ಕನೆಕ್ಟ್ ಸೆಂಟರ್’ನ ಅಧ್ಯಕ್ಷರಾಗಿ ಸಿ.ಬಿ.ಶಶಿಧರ್ ನೇಮಕ](https://www.varthabharati.in/bangalore-city/--2275083)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (10.0)
+- India (11.3)
 - Mumbai (4.5)
+- Brics (3.5)
 - Bangladesh (3.2)
 - BRICS Summit (3.0)
 - Azad Maidan (3.0)
@@ -114,21 +115,20 @@
 - Centre (2.6)
 - Maratha (2.6)
 - BRICS (2.5)
-- Brics (2.2)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Soybean Crop Damage: शेतकऱ्यांचे हिरवे स्वप्न करपले](https://agrowon.esakal.com/agro-special/ner-yavatmal-soybean-crop-damage-drought-relief-demand-abhi47)
-- [UAE and Iran leaders meet at the BRICS summit for the first time since the war](https://www.euronews.com/2026/09/13/uae-and-iran-leaders-meet-at-the-brics-summit-for-the-first-time-since-the-war)
-- [IND vs AFG: ভারতের মাটিতে আজ বিরল রেকর্ড গড়তে পারে বৈভব, বিস্ময়-কিশোরকে নিয়ে দুশ্চিন্তায় আফগানিস্তান](https://bengali.abplive.com/sports/cricket/ind-vs-afg-1st-t20-india-vs-afghanistan-vaibhav-sooryavanshi-may-be-included-in-record-book-indian-cricket-team-bcci-1192660)
-- [பிரிக்ஸ் பிரகடனம் அமெரிக்கா, இஸ்ரேலை மறைமுகமாக சாடியிருப்பது எதை காட்டுகிறது?](https://www.bbc.com/tamil/articles/ced76470l4xo)
-- [सऊदी पर फिर बरसीं हूती मिसाइलें, मस्जिद को नुकसान, सैन्य अड्डा तबाह, अबतक 500 मौतों का दावा!](https://www.aajtak.in/world/story/houthis-attack-on-saudi-arab-saudi-military-war-damages-mosque-jazan-ntcppl-dskc-2642089-2026-09-13)
-- [Irumudi: ఇరుముడి బ్లాక్ బస్టర్ హిట్.. చిరంజీవి, రాంచరణ్ ని కలిసిన రవితేజ](https://telugu.asianetnews.com/gallery/entertainment/chiranjeevi-ram-charan-congratulate-irumudi-team-on-success-9bgieqh)
-- [మెగా డీఎస్సీ: కూటమి ప్రభుత్వంపై జగన్ మరోసారి ఫైర్](https://www.ap7am.com/tn/879931/mega-dsc-jagan-mohan-reddy-fires-at-alliance-government-once-again)
-- [સાઉદીની ઓઈલ પાઈપલાઈન પર ડ્રોન હુમલાનું ઈરાકે શોધી કાઢ્યું લૉન્ચ પેડ, હવે સામે આવશે સમગ્ર નેટવર્ક?](https://www.gujaratsamachar.com/news/international/iraq-discovers-launch-pad-for-drone-attack-on-saudi-oil-pipeline-now-will-the-entire-network-be-exposed-10897078860)
-- [Opposition roasts Modi govt's vegetarian menu at BRICS gala](https://theprint.in/politics/why-hide-indias-culinary-diversity-opposition-roasts-modi-govts-vegetarian-menu-at-brics-gala/3041700/)
-- [BRICS Summit 2026 LIVE: PM Modi holds bilateral talks on last day of summit; Oppn, BJP leaders spar over dinner menu](https://www.hindustantimes.com/india-news/brics-2026-live-updates-day-2-pm-modi-xi-jinping-vladimir-putin-masoud-pezeshkian-new-delhi-declaration-latest-101789260489778.html)
+- [YS Jagan | మెగా డీఎస్సీలో భారీ స్కామ్‌.. కూట‌మి స‌ర్కారుపై వైఎస్ జ‌గ‌న్ మ‌ళ్లీ ఫైర్‌](https://www.ntnews.com/andhrapradesh-news/ys-jagan-massive-scam-in-mega-dsc-ys-jagan-lashes-out-at-the-alliance-government-again-2510257)
+- [UCC implementation in all 21 states ruled by BJP, NDA partners before 2029: Amit Shah's big remarks](https://www.hindustantimes.com/india-news/ucc-in-all-21-states-ruled-by-nda-bjp-before-2029-union-home-minister-amit-shahs-big-claim-101789300639981.html)
+- [రేవంత్ మాటల్లో ఉన్నంత స్ట్రాంగ్ చేతల్లో ఉంటే ఎంతోమంది జైలుకు వెళ్లేవారు.. టీజీ వెంకటేశ్ వ్యాఖ్యలు](https://telugu.samayam.com/telangana/hyderabad/former-mp-tg-venkatesh-comments-on-telangana-cm-revanth-reddy-in-uppal-bhagayath-arya-vysya-bhavan-foundation-stone/articleshow/134198666.cms)
+- ['80% भारतीय मांसाहारी', BRICS डिनर के वेज मेन्यू पर राहुल गांधी का तंज; रिजिजू ने किया करारा पलटवार](https://navbharattimes.indiatimes.com/india/rahul-gandhi-jibe-at-brics-dinners-veg-menu-kiren-rijiju-sharp-retort-controversy-erupts-over-80-percent-indians-are-non-vegetarian/articleshow/134198180.cms)
+- [ప్రధాని మోదీని కలిసిన స్కూల్‌ ఫ్రెండ్‌..](https://www.eenadu.net/telugu-news/india/schoolmate-meets-pm-modi-seeks-cbi-probe-into-alleged-land-grab/0701/126165823)
+- [Smriti Mandhana | మీరు ఏడుస్తారా.. మీ జీవితంలో అతి కష్టంగా గడిచిన రాత్రి ఏది?](https://www.ntnews.com/sports/mandhana-gest-emotional-in-podcast-and-says-she-talks-only-about-cricket-2510239)
+- ['80% भारतीय मांसाहारी हैं': राहुल गांधी के बयान और ब्रिक्स के गाला डिनर की कैसी है चर्चा](https://www.bbc.com/hindi/articles/c17jpkqxprjo)
+- [Hanuman Ansh: ఆ ఒక్క కారణంతో ఆస్కార్ రేసు నుంచి 'హనుమాన్ అంశ్' ఔట్.. షాకింగ్ విషయం చెప్పిన నిర్మాత](https://tv9telugu.com/entertainment/tollywood/hanuman-ansh-missed-oscar-submission-deadline-says-producer-namrata-singh-1910570.html)
+- [മുതിർന്ന സിപിഎം നേതാവ് ബേബി ജോൺ അന്തരിച്ചു](https://www.asianetnews.com/kerala-news/senior-cpm-leader-baby-john-passes-away-articleshow-qt6owoo)
+- [സച്ചിനെ വെട്ടി, പിന്നാലെ ക്യാപ്റ്റന്‍ വിരാടിനെയും; അവസാനിക്കാതെ റൂട്ട് ഗാഥ](https://www.doolnews.com/joe-root-surpasses-virat-kohli-on-the-list-of-captains-with-the-most-wins-in-the-world-test-championship-65-114.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
