@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-14 22:01:55
+# India Trending Report — 2026-09-14 22:36:43
 
 ## Google Trends (India) — top trending searches
 1. [villarreal cf vs real betis standings](https://trends.google.com/trending/rss?geo=IN)
@@ -9,21 +9,21 @@
 6. [nbems neet pg answer key](https://trends.google.com/trending/rss?geo=IN)
 7. [serie a](https://trends.google.com/trending/rss?geo=IN)
 8. [katrina kaif](https://trends.google.com/trending/rss?geo=IN)
-9. [leeds vs newcastle](https://trends.google.com/trending/rss?geo=IN)
-10. [villarreal vs betis](https://trends.google.com/trending/rss?geo=IN)
+9. [villarreal vs betis](https://trends.google.com/trending/rss?geo=IN)
+10. [leeds vs newcastle](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [BJP single-largest party in Rajasthan urban polls, denied sweep by Independents](https://timesofindia.indiatimes.com/city/jaipur/bjp-wins-but-independents-rewrite-rajasthan-civic-poll-math/articleshow/134247421.cms)
+- ['3 Cong CMs invited to Brics dinner but they didn't turn up'](https://timesofindia.indiatimes.com/india/3-cong-cms-invited-to-brics-dinner-but-they-didnt-turn-up/articleshow/134247911.cms)
+- [Cong rejects TMC proposal for bypoll pact](https://timesofindia.indiatimes.com/india/cong-rejects-proposal-from-didis-party-for-bypoll-pact/articleshow/134248817.cms)
 - [ED arrests Bhupesh Baghels's ex-OSD for role in Chhattisgarh job scam](https://timesofindia.indiatimes.com/india/ed-arrests-ex-osd-of-baghel-for-role-in-chhattisgarh-job-scam/articleshow/134247722.cms)
 - [Scotland, Northern Ireland and Wales sign historic MoU to break away from UK](https://timesofindia.indiatimes.com/world/uk/scotland-northern-ireland-and-wales-sign-mou-to-break-away-from-uk/articleshow/134247408.cms)
-- [India to export 654MW of power to flood-hit Nepal daily till Dec 31](https://timesofindia.indiatimes.com/india/india-to-export-654mw-of-power-to-nepal-daily-till-dec-31/articleshow/134247739.cms)
-- [SC faults Abu Salem's maths, junks release plea](https://timesofindia.indiatimes.com/india/sc-faults-abu-salems-maths-junks-release-plea/articleshow/134247900.cms)
 - [Oracle layoffs: Employees receive ‘6am job cuts’ email from Oracle leadership again](https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms)
 - [Jemima Goldsmith, 52, remarries; 22 years after divorce from Imran Khan](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jemima-goldsmith-marries-for-second-time-at-52-ties-the-knot-with-irish-australian-financier-cameron-oreilly-22-years-after-divorce-from-imran-khan-her-family-confirms-wedding/articleshow/134245796.cms)
-- [IAF achieved 314-km 'longest kill' of Pak jet during Op Sindoor: MoD report](https://timesofindia.indiatimes.com/defence/news/how-iaf-achieved-314-km-longest-kill-of-pak-aircraft-during-op-sindoor-reveals-mod-report/articleshow/134244709.cms)
-- ['Why wasn't FIR slapped on Justice Varma?' Senior lawyer Mahesh Jethmalani](https://timesofindia.indiatimes.com/india/jethmalani-why-wasnt-fir-slapped-on-varma/articleshow/134247647.cms)
-- [BJP stays on top, Cong gets a warning: What Raj civic polls result means for 2028](https://timesofindia.indiatimes.com/india/bjp-stays-on-top-congress-gets-a-warning-what-rajasthan-civic-polls-mean-for-2028-assembly-elections/articleshow/134243176.cms)
+- [India to export 654MW of power to flood-hit Nepal daily till Dec 31](https://timesofindia.indiatimes.com/india/india-to-export-654mw-of-power-to-nepal-daily-till-dec-31/articleshow/134247739.cms)
+- [Interim EC ruling on ‘real TMC’ likely on Sept 17](https://timesofindia.indiatimes.com/india/interim-ec-ruling-on-real-tmc-likely-on-sept-17/articleshow/134249226.cms)
+- [SC faults Abu Salem's maths, junks release plea](https://timesofindia.indiatimes.com/india/sc-faults-abu-salems-maths-junks-release-plea/articleshow/134247900.cms)
 
 **NDTV**
 - ["Hoax": Trump Rejects Warnings That AI Could Destroy Humanity](https://www.ndtv.com/world-news/donald-trump-rejects-warnings-that-ai-could-destroy-humanity-12046823#publisher=newsstand)
@@ -49,17 +49,7 @@
 - [Monsoon withdrawal to commence from Sept 19; rain deficit stays at 15%: IMD](https://www.hindustantimes.com/india-news/monsoon-withdrawal-to-commence-from-sept-19-rain-deficit-stays-at-15-imd-101789397048951.html)
 - [Meta restricts access in India to viral AI video of Keralam CM dancing with KSEB officials](https://www.hindustantimes.com/india-news/meta-restricts-access-in-india-to-viral-ai-video-of-keralam-cm-v-d-satheesan-dancing-with-kseb-officials-101789396580926.html)
 
-**Vijay Karnataka**
-- [ಪ್ರಧಾನಿ ಮೋದಿ ಜನ್ಮದಿನ: ಸೆ. 17ಕ್ಕೆ ಸಂಜೆ 6 ರಿಂದ 7 ರವರೆಗೆ ಮನೆಗಳಲ್ಲಿ ಆಶೀರ್ವಾದದ ದೀಪ ಬೆಳಗಿಸಿ! ದೇಶದ ಜನರಿಗೆ BJP ಕರೆ](https://vijaykarnataka.com/news/india/pm-modi-birthday-bjp-calls-for-lighting-lamps-of-blessing-at-home-and-praying-for-his-long-life-and-good-health/articleshow/134243862.cms)
-- [ಅಫ್ಘಾನಿಸ್ತಾನ ವಿರುದ್ಧ 2ನೇ ಪಂದ್ಯಕ್ಕೆ ಸಂಜು ಸ್ಯಾಮ್ಸನ್ ಬದಲು ವೈಭವ್ ಸೂರ್ಯವಂಶಿ? ಹೀಗಿದೆ ಟೀಂ ಇಂಡಿಯಾ ಸಂಭಾವ್ಯ ಇಲೆವೆನ್](https://vijaykarnataka.com/sports/cricket/news/india-likely-eleven-against-vs-afghanistan-2nd-t20i-vaibhav-sooryavanshi-in-sanju-samson-out/articleshow/134246454.cms)
-- [ಇಮಿಗ್ರೇಷನ್ ಇಲ್ಲದೆ ದಿಲ್ಲಿಯಿಂದ ಜರ್ಮನಿ ತಲುಪಿದ ಮೂವರು ಇಟಲಿಗರು! ಏರ್ ಇಂಡಿಯಾ ವಿರುದ್ಧ ಕೇಂದ್ರ ಗರಂ](https://vijaykarnataka.com/news/new-delhi/3-italians-fly-from-delhi-airport-without-immigration-check-notice-to-air-india/articleshow/134245597.cms)
-- [50ರ ನಂತರವೂ ವಿಜಯ್–ಅಜಿತ್‌ನಂತೆ ಫಿಟ್ ಆಗಿರಬೇಕಾ? ವಿಜ್ಞಾನ ಹೇಳುವ ಈ ಆರೋಗ್ಯಕರ ಅಭ್ಯಾಸಗಳನ್ನು ರೂಢಿಸಿಕೊಳ್ಳಿ!](https://vijaykarnataka.com/lifestyle/fitness/vijay-ajith-fitness-after-50-healthy-habits/articleshow/134244779.cms)
-- [ಕೇದಾರನಾಥ ಮಾರ್ಗದಲ್ಲಿ ಭೀಕರ ಭೂಕುಸಿತ: ಯಾತ್ರೆ ತಾತ್ಕಾಲಿಕ ಸ್ಥಗಿತ; 6,500ಕ್ಕೂ ಹೆಚ್ಚು ಯಾತ್ರಾರ್ಥಿಗಳ ರಕ್ಷಣೆ](https://vijaykarnataka.com/news/india/massive-landslide-on-the-kedarnath-route-over-6500-pilgrims-rescued-/articleshow/134244606.cms)
-- [ಗಗನ್‌ಗೆ ವಿಐಪಿ ಪಟ್ಟನೂ ಇಲ್ಲ, ಕ್ಯಾಪ್ಟ್‌ನ್‌ ಆಡೋಕೆ ಯೋಗನೂ ಇಲ್ಲ! ಸ್ಪರ್ಧಿಗಳ ಆಲೋಚನೆಯೇ ತಲೆ ಕೆಳಗೆ ಮಾಡಿದ 'ಬಿಗ್‌ ಬಾಸ್'!](https://vijaykarnataka.com/tv/bigg-boss-kannada/this-time-no-calculations-worked-inside-the-bigg-boss-kannada-13-house-the-captaincy-and-grocery-tasks-completely-altered-the-contestants-way-of-thinking/articleshow/134247000.cms)
-- [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
-- [ದೀಪದ ಜ್ವಾಲೆಯಲ್ಲಿ ಕಾಣಿಸುವ ವಿವಿಧ ಆಕಾರಗಳ ಅರ್ಥ ಮತ್ತು ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/know-which-type-of-puja-diya-flame-is-auspicious/articleshow/134241622.cms)
-- [35ರ ನಂತರ ತಂದೆಯಾಗುವುದು: ರಣವೀರ್ ಸಿಂಗ್, ವಿಕ್ಕಿ ಕೌಶಲ್ ಬಳಿಕ ಪುರುಷರ ವೀರ್ಯಾಣು ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಅಧ್ಯಾಯನ ಹೇಳುವುದೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/ranveer-singh-vicky-kaushal-fatherhood-after-35-male-fertility-sperm-health/articleshow/134236848.cms)
-- [ಮಿಸ್ಟರಿ ಸ್ಪಿನ್ನರ್ ವರುಣ್ ಚಕ್ರವರ್ತಿ ಅಫ್ಘಾನಿಸ್ತಾನ ಟಿ20 ಸರಣಿಯಿಂದ ಔಟ್: ಮುಂಬರುವ ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಗೂ ಡೌಟ್!](https://vijaykarnataka.com/sports/cricket/news/varun-chakravarthy-out-of-afghanistan-t20-series-asian-games-participation-also-in-doubt/articleshow/134243417.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
 - [Ritabrata-led TMC camp names candidates for Bengal bypolls](https://www.thehindu.com/news/national/west-bengal/ritabrata-led-tmc-camp-names-candidates-for-bengal-bypolls/article71466463.ece)
@@ -102,15 +92,15 @@
 ## Cross-source trending keywords (derived from headlines above)
 - India (5.5)
 - BRICS (4.2)
+- Sept (3.9)
 - Report (3.9)
 - Delhi (3.8)
 - Rajasthan (2.6)
 - Scotland (2.6)
 - Wales (2.6)
-- Nepal (2.6)
 - Oracle (2.6)
+- Nepal (2.6)
 - Gurugram (2.6)
-- Sept (2.6)
 - Northern Ireland (2.0)
 - Ajay Devgn (2.0)
 - Tiger Shroff (2.0)
@@ -119,16 +109,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [આણંદના બોરસદમાં ધોધમાર વરસાદથી જળબંબાકાર, 6 ઈંચ વરસાદથી રસ્તાઓ પર ફરી વળ્યા પાણી](https://gujarati.abplive.com/news/gujarat/torrential-rain-causes-waterlogging-in-borsad-anand-6-inches-of-rainfall-991166)
-- [हार के बाद पाकिस्तान को डबल झटका, ICC ने एक साथ दी 2 बड़ी सजा](https://www.abplive.com/sports/cricket/double-blow-for-pakistan-icc-fined-50-percent-match-fees-and-11-wct-deducted-for-slow-over-rate-pak-vs-eng-3rd-test-3188690)
-- [ഭാര്യയെ കൊന്ന് തല ഫ്രിജിൽ സൂക്ഷിച്ച കേസ്: പ്രതി പൊലീസ് വാഹനത്തിൽനിന്ന് ചാടി ജീവനൊടുക്കി- Assam Murder Case](https://www.manoramaonline.com/news/latest-news/2026/09/14/guwahati-wife-murder-accused-dies-in-custody.html)
-- [Disha Salian Case:दिशा सालियन मृत्यू प्रकरणात सहा वर्षांनी गुन्हा दाखल, मुंबई हायकोर्टाच्या आदेशानंतर सीबीआयची कारवाई](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/disha-salian-case-cbi-registers-fir-after-mumbai-hc-directs-probe-into-death/articleshow/134238048.cms)
-- [BJP की 'चोटी'...असदुद्दीन ओवैसी का UCC पर बड़ा हमला, बोले- अमित शाह का गलतफहमी भरा अहंकार](https://navbharattimes.indiatimes.com/india/asaduddin-owaisi-scathing-attack-on-ucc-calls-it-amit-shah-misplaced-arrogance/articleshow/134238099.cms)
-- [Rajasthan municipal election results LIVE: Setback for BJP as Congress wins Ajmer; Gen Z leader secures Jaipur ward](https://www.hindustantimes.com/india-news/rajasthan-local-body-election-results-2026-live-updates-rajasthan-vote-counting-result-bjp-congress-jaipur-jodhpur-kota-101789365666570.html)
-- [दिशा सालियन केस की सीबीआई FIR में आदित्य ठाकरे का भी नाम, मर्डर और गैंगरेप वाली धाराएं](https://www.livehindustan.com/national/aditya-thackeray-name-features-in-cbi-fir-in-disha-salian-case-charges-include-murder-gang-rape-201789379297941.html)
-- [CJP च्या आदोंलनानंतर झालेल्या पहिल्याच निवडणुकीचा धक्कादायक निकाल, भाजपला थेट…, राजकारणातून मोठी बातमी](https://www.tv9marathi.com/national/shocking-result-in-the-very-first-election-held-after-cjps-agitation-a-massive-victory-for-the-bjp-1756291.html)
-- [தவெகவுக்குப் பாதிப்பில்லை: திருமாவளவன்](https://www.tamilmurasu.com.sg/tamilnadu/communist-party-contesting-independently-will-not-affect-tvk-thiruma)
-- [പൊലീസ് സ്റ്റേഷനിലെ തൊണ്ടിമുതലായ ഏഴ് ചാക്ക് ഹാൻസ് മോഷണം; പൊലീസുകാരന് സസ്പെൻഷൻ](https://www.asianetnews.com/kerala-news/theft-of-seven-sacks-drugs-from-sultan-bathery-police-station-accused-police-officer-suspended-articleshow-9ryd06d)
+- [India Wholesale Inflation : શું ફરી વધશે દૂધ, તેલ અને કરિયાણાના ભાવ? જથ્થાબંધ મોંઘવારી વધતા સામાન્ય માણસની મુશ્કેલી વધશે](https://www.gujaratfirst.com/business/india-wholesale-inflation-2026-wpi-rise-milk-oil-grocery-prices-impact/339048/)
+- [Rajkot Rain: એક મહિના બાદ રાજકોટમાં મેઘમહેર, ગણેશ સ્થાપનાના દિવસે મેઘરાજાની તોફાની બેટિંગ](https://gujarati.abplive.com/news/rajkot/heavy-rainfall-in-rajkot-city-and-rural-areas-after-a-long-break-991170)
+- [Aortic structure may affect midlife rise in pulse pressure, aortic stiffness in women](https://www.eurekalert.org/news-releases/1143117)
+- [Ganesh Chaturthi: বাড়িতে গণপতি বাপ্পার আরাধনায় নানা পাটেকর, সঙ্গে স্ত্রী-ছেলে](https://bangla.asianetnews.com/entertainment/nana-patekar-celebarate-ganesh-chaturthi-at-home-with-family-absc/articleshow-gtxiw9z)
+- [தமிழகத்தில் மின்வெட்டைப் போக்குவதில் எந்த முன்னேற்றமும் இல்லை: அன்புமணி](https://www.hindutamil.in/news/tamilnadu/anbumani-demands-tvk-govt-about-power-cut-issue)
+- [17 NCPI MPs to join BJP before Durga Puja: Rebel TMC leader's big claim](https://www.hindustantimes.com/india-news/17-of-20-ncpi-mps-to-join-bjp-says-one-of-them-months-after-leaving-tmc-101789381684967.html)
+- ['झाड़ू वाले की नौकरी भी नहीं मिलेगी', राखी सावंत के अश्लील कमेंट पर कंगना रनौत ने लगा दी क्लास](https://www.aajtak.in/entertainment/bollywood-news/story/kangana-ranaut-slams-rakhi-sawant-over-vulgar-character-assassination-remark-smriti-irani-bjp-tmovf-dskc-2642602-2026-09-14)
+- [China hits back at Anthropic’s call to restrict its AI, warns against ‘fearmongering, vicious competition'](https://timesofindia.indiatimes.com/world/china/china-hits-back-at-anthropics-call-to-restrict-its-ai-warns-against-fearmongering-vicious-competition/articleshow/134238821.cms)
+- [സിപിഐഎം വിപുലീകൃത സംസ്ഥാന കമ്മിറ്റി | സംസ്ഥാന നേതൃത്വത്തെ കടന്നാക്രമിച്ച് പൊതുചര്‍ച്ച; അടിമുടി മാറ്റത്തിന് മാർഗരേഖ](https://www.newsmalayalam.com/newsroom/kerala/cpi-m-etended-state-committee-public-discussion-criticises-state-leadership)
+- [Scientists Turn Ordinary Light Into a Quantum Machine](https://www.techexplorist.com/what-ordinary-light-behave-like-quantum-machine/104231/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
