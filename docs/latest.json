@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14 20:34:55",
+  "generated_at": "2026-09-14 21:02:01",
   "google_trends": [
     {
       "title": "oracle layoffs",
@@ -18,6 +18,11 @@
     },
     {
       "title": "bb",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "serie a",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
@@ -45,11 +50,6 @@
       "title": "inter vs udinese",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "asian games",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
     }
   ],
   "outlets": {
@@ -71,6 +71,10 @@
         "link": "https://timesofindia.indiatimes.com/india/bjp-stays-on-top-congress-gets-a-warning-what-rajasthan-civic-polls-mean-for-2028-assembly-elections/articleshow/134243176.cms"
       },
       {
+        "title": "UP polls & the fight for Muslim votes: Decoding SP, Congress's Owaisi problem",
+        "link": "https://timesofindia.indiatimes.com/india/up-assembly-elections-and-fight-for-muslim-votes-decoding-sp-congresss-owaisi-problem/articleshow/134239210.cms"
+      },
+      {
         "title": "Maratha quota march: Activist Jarange to enter Mumbai with just 4-5 aides",
         "link": "https://timesofindia.indiatimes.com/city/aurangabad/jarange-changes-tack-plans-mumbai-march-with-few-associates/articleshow/134245628.cms"
       },
@@ -83,12 +87,8 @@
         "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jemima-goldsmith-marries-for-second-time-at-52-ties-the-knot-with-irish-australian-financier-cameron-oreilly-22-years-after-divorce-from-imran-khan-her-family-confirms-wedding/articleshow/134245796.cms"
       },
       {
-        "title": "UP polls & the fight for Muslim votes: Decoding SP, Congress's Owaisi problem",
-        "link": "https://timesofindia.indiatimes.com/india/up-assembly-elections-and-fight-for-muslim-votes-decoding-sp-congresss-owaisi-problem/articleshow/134239210.cms"
-      },
-      {
-        "title": "'Triumph of truth over jhooth ki goonj': PM Modi hails BJP win in Raj civic polls",
-        "link": "https://timesofindia.indiatimes.com/india/triumph-of-truth-over-jooth-ki-goonj-pm-modi-hails-bjp-victory-in-rajasthan-civic-polls/articleshow/134245366.cms"
+        "title": "Bengal cancels noon meal deal in four districts",
+        "link": "https://timesofindia.indiatimes.com/city/kolkata/govt-withdraws-nod-for-agency-to-serve-midday-meals-in-4-districts/articleshow/134243831.cms"
       },
       {
         "title": "Indian travel vlogger claims \u2018arrest\u2019 by Afghan \u2018Mujahideen\u2019, seeks help",
@@ -96,6 +96,10 @@
       }
     ],
     "NDTV": [
+      {
+        "title": "\"Hoax\": Trump Rejects Warnings That AI Could Destroy Humanity",
+        "link": "https://www.ndtv.com/world-news/donald-trump-rejects-warnings-that-ai-could-destroy-humanity-12046823#publisher=newsstand"
+      },
       {
         "title": "Trump Privately Met With OpenAI's Altman At Republican Convention: Report",
         "link": "https://www.ndtv.com/world-news/donald-trump-privately-met-with-openais-sam-altman-at-republican-convention-report-12046804#publisher=newsstand"
@@ -131,10 +135,6 @@
       {
         "title": "Why Mumbai MLA With Rs 5,000 Crore Net Worth Became 'Beggar' For A Day",
         "link": "https://www.ndtv.com/india-news/why-mumbai-mla-with-rs-5-000-crore-net-worth-became-beggar-for-a-day-12046680#publisher=newsstand"
-      },
-      {
-        "title": "SpiceJet Passengers Complain Of AC Malfunction, Airline Denies Charge",
-        "link": "https://www.ndtv.com/india-news/spicejet-passengers-complain-of-ac-malfunction-airline-denies-charge-12046652#publisher=newsstand"
       }
     ],
     "Hindustan Times": [
@@ -223,6 +223,10 @@
     ],
     "The Hindu": [
       {
+        "title": "Govt. bars bank charges on payments up to \u20b92,000 via UPI, RuPay-powered debit cards",
+        "link": "https://www.thehindu.com/business/govt-bars-bank-charges-on-upi-payments-up-to-2k/article71466438.ece"
+      },
+      {
         "title": "Kerala HC issues notice to Mani C. Kappan on petition seeking disqualification as Pala MLA",
         "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-issues-notice-to-mani-c-kappan-on-petition-seeking-disqualification-as-pala-mla/article71466062.ece"
       },
@@ -257,10 +261,6 @@
       {
         "title": "Tamil Nadu CB-CID nabs Rajasthan scammer who circulated\u00a0Al-generated deep fake video impersonating CM Vijay",
         "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cb-cid-nabs-rajasthan-scammer-who-circulatedal-generated-deep-fake-video-impersonating-cm-vijay/article71466303.ece"
-      },
-      {
-        "title": "CJI says judiciary cannot earn public trust by shielding itself from scrutiny",
-        "link": "https://www.thehindu.com/news/national/cji-says-judiciary-can-not-earn-public-trust-by-shielding-itself-from-scrutiny/article71466330.ece"
       }
     ],
     "Livemint": [
@@ -403,55 +403,55 @@
       "score": 2
     },
     {
-      "term": "PM Modi",
+      "term": "Ajay Devgn",
       "score": 2
     },
     {
-      "term": "Ajay Devgn",
+      "term": "Tiger Shroff",
       "score": 2
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "Indian Army Jobs : \u09ad\u09be\u09b0\u09a4\u09c0\u09df \u09b8\u09c7\u09a8\u09be\u09df \u09e8\u09ec\u09e7\u09eb \u09aa\u09a6\u09c7 \u09b9\u09ac\u09c7 \u09a8\u09bf\u09df\u09c7\u09be\u0997, \u09b8\u09bf\u09ad\u09bf\u09b2\u09bf\u09df\u09be\u09a8 \u09aa\u09c7\u09be\u09b8\u09cd\u099f\u09c7 \u09a8\u09bf\u09af\u09c1\u0995\u09cd\u09a4\u09bf \u09a8\u09c7\u09be\u099f\u09bf\u09ab\u09bf\u0995\u09c7\u09b6\u09a8 \u09aa\u09cd\u09b0\u0995\u09be\u09b6, \u0995\u09be\u09b0\u09be \u0986\u09ac\u09c7\u09a6\u09a8\u09c7\u09b0 \u09af\u09c7\u09be\u0997\u09cd\u09af ?",
-      "link": "https://bengali.abplive.com/education/indian-army-aoc-recruitment-2026-notification-out-for-2615-posts-1192775"
+      "title": "\u0b9a\u0bc0\u0ba9\u0bbe \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baa\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+      "link": "https://www.tamilmurasu.com.sg/india/2027-brics-summit"
     },
     {
-      "title": "\u0d35\u0d28\u0d3f\u0d24\u0d3e \u0d0f\u0d37\u0d4d\u0d2f\u0d3e\u0d15\u0d2a\u0d4d\u0d2a\u0d4d \u0d15\u0d3f\u0d30\u0d40\u0d1f\u0d02 \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d4d; \u0d2b\u0d48\u0d28\u0d32\u0d3f\u0d7d \u0d36\u0d4d\u0d30\u0d40\u0d32\u0d19\u0d4d\u0d15\u0d2f\u0d46 \u0d24\u0d15\u0d7c\u0d24\u0d4d\u0d24\u0d24\u0d4d 72 \u0d31\u0d7a\u0d38\u0d3f\u0d28\u0d4d",
-      "link": "https://www.expresskerala.com/news/india-wins-womens-asia-cup-title-defeats-sri-lanka-by-72-runs-in-the-final.html"
+      "title": "Aortic structure may affect midlife rise in pulse pressure, aortic stiffness in women",
+      "link": "https://medicalxpress.com/news/2026-09-aortic-affect-midlife-pulse-pressure.html"
     },
     {
-      "title": "\u0907\u0936\u093e\u0928 \u0915\u093f\u0936\u0928\u0928\u0947 \u091c\u094b \u0930\u0942\u091f\u0932\u093e \u092e\u093e\u0917\u0947 \u091f\u093e\u0915\u0924 \u0967,\u0966\u0966\u0966 \u0927\u093e\u0935\u093e\u0902\u091a\u094d\u092f\u093e \u0915\u094d\u0932\u092c\u092e\u0927\u094d\u092f\u0947 \u092a\u094d\u0930\u0935\u0947\u0936 \u0915\u0947\u0932\u093e",
-      "link": "https://marathi.webdunia.com/article/marathi-cricket-news/ishan-kishan-surpassed-joe-root-to-enter-the-1-000-run-club-126091400015_1.html"
+      "title": "\u0a85\u0aae\u0aa6\u0abe\u0ab5\u0abe\u0aa6\u0aae\u0abe\u0a82 \u0a97\u0aa3\u0ac7\u0ab6 \u0ab8\u0acd\u0aa5\u0abe\u0aaa\u0aa8\u0abe\u0aa8\u0abe \u0aa6\u0abf\u0ab5\u0ab8\u0ac7 \u0ab5\u0ab0\u0ab8\u0abe\u0aa6 \u0ab5\u0abf\u0a98\u0acd\u0aa8\u0ab0\u0ac2\u0aaa, \u0aae\u0ac2\u0ab0\u0acd\u0aa4\u0abf \u0ab5\u0ac7\u0a9a\u0abe\u0aa3 \u0a95\u0ab0\u0aa4\u0abe \u0ab5\u0ac7\u0aaa\u0abe\u0ab0\u0ac0\u0a93 \u0a9a\u0abf\u0a82\u0aa4\u0abe\u0aae\u0abe\u0a82",
+      "link": "https://www.gujaratsamachar.com/news/ahmedabad/rain-disrupts-ganesh-sthapana-day-in-ahmedabad-traders-selling-idols-worried-14539646526"
     },
     {
-      "title": "\u2018\u0939\u0928\u0941\u092e\u093e\u0928 \u0905\u0902\u0936\u2019 \u0915\u0947 \u0921\u093e\u092f\u0930\u0947\u0915\u094d\u091f\u0930 \u0928\u0947 \u0905\u0928\u093e\u0909\u0902\u0938 \u0915\u0940 \u0905\u092a\u0928\u0940 \u0905\u0917\u0932\u0940 \u092b\u093f\u0932\u094d\u092e, \u0926\u093f\u0916\u093e\u090f\u0902\u0917\u0947 \u0907\u0938 \u0930\u093e\u092e\u092d\u0915\u094d\u0924 \u0915\u0940 \u0915\u0939\u093e\u0928\u0940",
-      "link": "https://www.livehindustan.com/entertainment/bollywood/hanuman-ansh-director-vishal-chaturvedi-announced-next-film-rambola-on-mahakavi-goswami-tulsidas-201789370063750.html"
+      "title": "'No problem in multinational tournaments': Pakistan hockey team to travel to India for Asian Champions Trophy",
+      "link": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/no-problem-in-multinational-tournaments-pakistan-hockey-team-to-travel-to-india-for-asian-champions-trophy/articleshow/134237254.cms"
     },
     {
-      "title": "Trump won\u2019t put the brakes on AI because he wants to beat China. How big a threat is Beijing?",
-      "link": "https://www.cnn.com/2026/09/14/tech/china-trump-ai-explainer-intl-hnk"
+      "title": "\u0938\u0948\u092b \u0905\u0932\u0940 \u0916\u093e\u0928 \u0928\u0947 \u0905\u092a\u0928\u0947 \u0939\u093e\u0925\u094b\u0902 \u0938\u0947 \u092c\u0928\u093e\u0908 \u0917\u0923\u092a\u0924\u093f \u0915\u0940 \u092e\u0942\u0930\u094d\u0924\u093f, \u0915\u0930\u0940\u0928\u093e \u0928\u0947 \u0926\u093f\u0916\u093e\u0908 \u0916\u093e\u0938 \u091d\u0932\u0915",
+      "link": "https://www.abplive.com/entertainment/bollywood/saif-ali-khan-making-ganpati-on-occassion-ganesh-chaturthi-kareena-kapoor-share-glimpse-viral-3188635"
     },
     {
-      "title": "BJP MLA Parag Shah : \u092d\u093e\u091c\u092a \u0906\u092e\u0926\u093e\u0930 \u092d\u093f\u0915\u093e\u0931\u094d\u092f\u093e\u091a\u094d\u092f\u093e \u0935\u0947\u0936\u093e\u0924 \u092e\u0941\u0902\u092c\u0908\u091a\u094d\u092f\u093e \u0930\u0938\u094d\u0924\u094d\u092f\u093e\u0935\u0930 \u092b\u093f\u0930\u0924\u094b\u092f, \u0938\u094b\u0936\u0932 \u092e\u0940\u0921\u093f\u092f\u093e\u0935\u0930 Video \u0935\u094d\u0939\u093e\u092f\u0930\u0932",
-      "link": "https://saamtv.esakal.com/mumbai-pune/mumbai-bjp-mla-parag-shah-video-viral-seen-beggar-on-ghatkopar-streets-on-jain-guru-namramuni-advice-latest-marathi-news-aak2003"
+      "title": "\u0d2d\u0d3e\u0d30\u0d4d\u0d2f\u0d2f\u0d46 \u0d15\u0d4a\u0d28\u0d4d\u0d28\u0d4d \u0d24\u0d32 \u0d2b\u0d4d\u0d30\u0d3f\u0d21\u0d4d\u0d1c\u0d3f\u0d7d \u0d38\u0d42\u0d15\u0d4d\u0d37\u0d3f\u0d1a\u0d4d\u0d1a \u0d15\u0d47\u0d38\u0d3f\u0d32\u0d46 \u0d2a\u0d4d\u0d30\u0d24\u0d3f \u0d2a\u0d4a\u0d32\u0d40\u0d38\u0d4d \u0d35\u0d3e\u0d39\u0d28\u0d24\u0d4d\u0d24\u0d3f\u0d7d\u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d4d \u0d1a\u0d3e\u0d1f\u0d3f \u0d2e\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d41",
+      "link": "https://www.madhyamam.com/india/guwahati-man-dies-after-jumping-from-police-vehicle-1554437"
     },
     {
-      "title": "\u0d15\u0d41\u0d1f\u0d4d\u0d1f\u0d3f\u0d15\u0d33\u0d46 \u0d07\u0d02\u0d17\u0d4d\u0d32\u0d3f\u0d37\u0d4d \u0d2e\u0d40\u0d21\u0d3f\u0d2f\u0d02 \u0d38\u0d4d\u200c\u0d15\u0d42\u0d33\u0d3f\u0d7d \u0d35\u0d3f\u0d1f\u0d41\u0d02, \u0d2a\u0d15\u0d4d\u0d37\u0d46 \u0d06\u0d30\u0d46\u0d19\u0d4d\u0d15\u0d3f\u0d32\u0d41\u0d02 \u0d07\u0d02\u0d17\u0d4d\u0d32\u0d3f\u0d37\u0d4d \u0d2a\u0d31\u0d1e\u0d4d\u0d1e\u0d3e\u0d7d \u0d05\u0d39\u0d19\u0d4d\u0d15\u0d3e\u0d30\u0d2e\u0d3e\u0d15\u0d41\u0d02; \u0d38\u0d41\u0d2a\u0d4d\u0d30\u0d3f\u0d2f \u0d2e\u0d47\u0d28\u0d4b\u0d7b",
-      "link": "https://www.reporterlive.com/entertainment/entertainment-news/2026/09/14/supriya-menon-criticises-urvasi-for-degrading-an-anchor-for-speaking-in-english-in-aasha-movie-event"
+      "title": "\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u0940 \u091f\u0940\u092e \u0906\u090f\u0917\u0940 \u092d\u093e\u0930\u0924, \u090f\u0936\u093f\u092f\u0928 \u091a\u0948\u092e\u094d\u092a\u093f\u092f\u0902\u0938 \u091f\u094d\u0930\u0949\u092b\u0940 \u092e\u0947\u0902 \u0939\u094b\u0917\u0940 \u092d\u093f\u0921\u093c\u0902\u0924, \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0936\u0947\u0921\u094d\u092f\u0942\u0932",
+      "link": "https://www.aajtak.in/sports/news/story/pakistan-hockey-team-to-visit-india-asian-champions-trophy-2026-punjab-bhagwant-mann-tspoa-dskc-2642541-2026-09-14"
     },
     {
-      "title": "\u0a28\u0a2f\u0a28\u0a24\u0a3e\u0a30\u0a3e \u0a38\u0a1f\u0a3e\u0a30\u0a30 Mookuthi Amman 2 \u0a26\u0a3e \u0a26\u0a3f\u0a32\u0a1a\u0a38\u0a2a \u0a1f\u0a40\u0a1c\u0a3c\u0a30 \u0a1c\u0a3e\u0a30\u0a40 ; \u0a2b\u0a3f\u0a32\u0a2e 6 \u0a28\u0a35\u0a70\u0a2c\u0a30 \u0a28\u0a42\u0a70 \u0a39\u0a4b\u0a35\u0a47\u0a17\u0a40 \u0a30\u0a3f\u0a32\u0a40\u0a1c\u0a3c",
-      "link": "https://wishavwarta.in/mookuthi-amman-2/"
+      "title": "\u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23\u0c32\u0c4b \u0c35\u0c02\u0c1f\u0c17\u0c26\u0c3f.. \u0c2e\u0c39\u0c3e\u0c30\u0c3e\u0c37\u0c4d\u0c1f\u0c4d\u0c30\u0c32\u0c4b \u0c2c\u0c46\u0c21\u0c4d\u200c\u0c30\u0c42\u0c2e\u0c4d.. \u0c38\u0c4b\u0c37\u0c32\u0c4d \u0c2e\u0c40\u0c21\u0c3f\u0c2f\u0c3e\u0c32\u0c4b \u0c35\u0c3f\u0c02\u0c24 \u0c07\u0c32\u0c4d\u0c32\u0c41 \u0c35\u0c48\u0c30\u0c32\u0c4d!",
+      "link": "https://telugu.oneindia.com/news/telangana/border-house-telangana-maharashtra-kitchen-in-telangana-bedroom-in-maharashtra-pays-taxes-to-two-506151.html"
     },
     {
-      "title": "Hyundai Safety Features: \u0b87\u0ba9\u0bbf \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bb5\u0bc7 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1..! \u0bb9\u0bc1\u0ba3\u0bcd\u0b9f\u0bbe\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bcd\u0b9a\u0bae\u0bcd - \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0bb5\u0bc7\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd?",
-      "link": "https://tamil.abplive.com/auto/new-hyundai-feature-helps-prevent-theft-even-after-key-cloning-know-more-automobile-news-274486"
+      "title": "\u0939\u093f\u092e\u093e\u0932\u092f \u0915\u0947 \u0917\u094d\u0932\u0947\u0936\u093f\u092f\u0930 65% \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u093f\u0918\u0932 \u0930\u0939\u0947 \u0939\u0948\u0902, \u0915\u0930\u094b\u0921\u093c\u094b\u0902 \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u091c\u093e\u0928 \u0906\u092b\u0924 \u092e\u0947\u0902",
+      "link": "https://www.aajtak.in/science/story/himalayan-glaciers-melting-65-faster-threatening-millions-dskc-2642538-2026-09-14"
     },
     {
-      "title": "\u0baa\u0bc6\u0bb0\u0bbf\u0baf\u0bbe\u0bb0\u0bcd, \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0bb3\u0bcd \u0baa\u0bc7\u0bb0\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf \u0bae\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1: \"\u0baf\u0bbe\u0bb0\u0bc8\u0ba4\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4?\" - \u0b89\u0ba4\u0baf\u0ba8\u0bbf\u0ba4\u0bbf \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf",
-      "link": "https://www.vikatan.com/government-and-politics/police-denying-permission-for-rally-of-periyar-and-anna-birthday"
+      "title": "\u0915\u0941\u0915\u0930 \u092c\u0947\u091a\u0928\u0947 \u0935\u093e\u0932\u0940 \u0915\u0902\u092a\u0928\u0940 \u0932\u093e\u0908 \u0927\u093e\u0902\u0938\u0942 FD Scheme, \u0926\u094b \u0926\u093f\u0928 \u092c\u093e\u0926 \u092e\u094c\u0915\u093e... \u092c\u094d\u092f\u093e\u091c \u092d\u0940 \u091c\u094b\u0930\u0926\u093e\u0930",
+      "link": "https://www.aajtak.in/business/utility/story/cooker-maker-hawkins-new-fd-from-16th-september-offers-upto-8-percent-for-36-months-tutc-dskc-2642526-2026-09-14"
     }
   ],
   "twitter": null

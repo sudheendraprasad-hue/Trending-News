@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-14 20:34:55
+# India Trending Report — 2026-09-14 21:02:01
 
 ## Google Trends (India) — top trending searches
 1. [oracle layoffs](https://trends.google.com/trending/rss?geo=IN)
 2. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
 3. [nbems neet pg answer key](https://trends.google.com/trending/rss?geo=IN)
 4. [bb](https://trends.google.com/trending/rss?geo=IN)
-5. [katrina kaif](https://trends.google.com/trending/rss?geo=IN)
-6. [leeds vs newcastle](https://trends.google.com/trending/rss?geo=IN)
-7. [villarreal vs betis](https://trends.google.com/trending/rss?geo=IN)
-8. [ios 27 features](https://trends.google.com/trending/rss?geo=IN)
-9. [inter vs udinese](https://trends.google.com/trending/rss?geo=IN)
-10. [asian games](https://trends.google.com/trending/rss?geo=IN)
+5. [serie a](https://trends.google.com/trending/rss?geo=IN)
+6. [katrina kaif](https://trends.google.com/trending/rss?geo=IN)
+7. [leeds vs newcastle](https://trends.google.com/trending/rss?geo=IN)
+8. [villarreal vs betis](https://trends.google.com/trending/rss?geo=IN)
+9. [ios 27 features](https://trends.google.com/trending/rss?geo=IN)
+10. [inter vs udinese](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -18,14 +18,15 @@
 - [IAF achieved 314-km 'longest kill' of Pak jet during Op Sindoor: MoD report](https://timesofindia.indiatimes.com/defence/news/how-iaf-achieved-314-km-longest-kill-of-pak-aircraft-during-op-sindoor-reveals-mod-report/articleshow/134244709.cms)
 - ['Why wasn't FIR slapped on Justice Varma?' Senior lawyer Mahesh Jethmalani](https://timesofindia.indiatimes.com/india/jethmalani-why-wasnt-fir-slapped-on-varma/articleshow/134247647.cms)
 - [BJP stays on top, Cong gets a warning: What Raj civic polls result means for 2028](https://timesofindia.indiatimes.com/india/bjp-stays-on-top-congress-gets-a-warning-what-rajasthan-civic-polls-mean-for-2028-assembly-elections/articleshow/134243176.cms)
+- [UP polls & the fight for Muslim votes: Decoding SP, Congress's Owaisi problem](https://timesofindia.indiatimes.com/india/up-assembly-elections-and-fight-for-muslim-votes-decoding-sp-congresss-owaisi-problem/articleshow/134239210.cms)
 - [Maratha quota march: Activist Jarange to enter Mumbai with just 4-5 aides](https://timesofindia.indiatimes.com/city/aurangabad/jarange-changes-tack-plans-mumbai-march-with-few-associates/articleshow/134245628.cms)
 - [Oracle layoffs: Employees receive ‘6am job cuts’ email from Oracle leadership again](https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms)
 - [Jemima Goldsmith, 52, remarries; 22 years after divorce from Imran Khan](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jemima-goldsmith-marries-for-second-time-at-52-ties-the-knot-with-irish-australian-financier-cameron-oreilly-22-years-after-divorce-from-imran-khan-her-family-confirms-wedding/articleshow/134245796.cms)
-- [UP polls & the fight for Muslim votes: Decoding SP, Congress's Owaisi problem](https://timesofindia.indiatimes.com/india/up-assembly-elections-and-fight-for-muslim-votes-decoding-sp-congresss-owaisi-problem/articleshow/134239210.cms)
-- ['Triumph of truth over jhooth ki goonj': PM Modi hails BJP win in Raj civic polls](https://timesofindia.indiatimes.com/india/triumph-of-truth-over-jooth-ki-goonj-pm-modi-hails-bjp-victory-in-rajasthan-civic-polls/articleshow/134245366.cms)
+- [Bengal cancels noon meal deal in four districts](https://timesofindia.indiatimes.com/city/kolkata/govt-withdraws-nod-for-agency-to-serve-midday-meals-in-4-districts/articleshow/134243831.cms)
 - [Indian travel vlogger claims ‘arrest’ by Afghan ‘Mujahideen’, seeks help](https://timesofindia.indiatimes.com/india/indian-travel-vlogger-claims-arrest-by-afghan-mujahideen-seeks-help/articleshow/134246686.cms)
 
 **NDTV**
+- ["Hoax": Trump Rejects Warnings That AI Could Destroy Humanity](https://www.ndtv.com/world-news/donald-trump-rejects-warnings-that-ai-could-destroy-humanity-12046823#publisher=newsstand)
 - [Trump Privately Met With OpenAI's Altman At Republican Convention: Report](https://www.ndtv.com/world-news/donald-trump-privately-met-with-openais-sam-altman-at-republican-convention-report-12046804#publisher=newsstand)
 - [Gangster Himanshu Bhau Takes Responsibility In Delhi Gym Trainer Murder Case](https://www.ndtv.com/delhi-news/gangster-himanshu-bhau-takes-responsibility-in-delhi-gym-trainer-murder-case-12046771#publisher=newsstand)
 - [US Scholar Went To China For A Workshop. Then He Stopped Responding](https://www.ndtv.com/world-news/us-scholar-went-to-china-for-a-workshop-then-he-stopped-responding-12044574#publisher=newsstand)
@@ -35,7 +36,6 @@
 - [Bhagwant Mann's "Fake Turban' Jibe Sparks Fresh Political Row In Punjab](https://www.ndtv.com/india-news/bhagwant-manns-fake-turban-jibe-sparks-fresh-political-row-in-punjab-12046690#publisher=newsstand)
 - ["Extremely Heinous": KTR Alleges Attack On Aides In Hyderabad Police Station](https://www.ndtv.com/india-news/extremely-heinous-ktr-alleges-attack-on-aides-in-hyderabad-police-station-12046689#publisher=newsstand)
 - [Why Mumbai MLA With Rs 5,000 Crore Net Worth Became 'Beggar' For A Day](https://www.ndtv.com/india-news/why-mumbai-mla-with-rs-5-000-crore-net-worth-became-beggar-for-a-day-12046680#publisher=newsstand)
-- [SpiceJet Passengers Complain Of AC Malfunction, Airline Denies Charge](https://www.ndtv.com/india-news/spicejet-passengers-complain-of-ac-malfunction-airline-denies-charge-12046652#publisher=newsstand)
 
 **Hindustan Times**
 - [Kharge slams BJP’s demand for action against inspector](https://www.hindustantimes.com/india-news/kharge-slams-bjp-s-demand-for-action-against-inspector-101789414331877.html)
@@ -62,6 +62,7 @@
 - [ಮಿಸ್ಟರಿ ಸ್ಪಿನ್ನರ್ ವರುಣ್ ಚಕ್ರವರ್ತಿ ಅಫ್ಘಾನಿಸ್ತಾನ ಟಿ20 ಸರಣಿಯಿಂದ ಔಟ್: ಮುಂಬರುವ ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಗೂ ಡೌಟ್!](https://vijaykarnataka.com/sports/cricket/news/varun-chakravarthy-out-of-afghanistan-t20-series-asian-games-participation-also-in-doubt/articleshow/134243417.cms)
 
 **The Hindu**
+- [Govt. bars bank charges on payments up to ₹2,000 via UPI, RuPay-powered debit cards](https://www.thehindu.com/business/govt-bars-bank-charges-on-upi-payments-up-to-2k/article71466438.ece)
 - [Kerala HC issues notice to Mani C. Kappan on petition seeking disqualification as Pala MLA](https://www.thehindu.com/news/national/kerala/kerala-hc-issues-notice-to-mani-c-kappan-on-petition-seeking-disqualification-as-pala-mla/article71466062.ece)
 - [Jarange-Patil vows to take Maratha quota fight to Mumbai; 10 people, two ambulances to accompany him on Sept. 15](https://www.thehindu.com/news/national/maharashtra/jarange-patil-vows-to-take-maratha-quota-fight-to-mumbai-planned-route-sept15/article71466426.ece)
 - [Underwater survey to be done to assess long-term impact of MSC Elsa 3 sinking, Centre informs Kerala HC](https://www.thehindu.com/news/national/kerala/underwater-survey-to-be-done-to-assess-long-term-impact-of-msc-elsa-3-sinking-centre-informs-kerala-hc/article71466179.ece)
@@ -71,7 +72,6 @@
 - [Rain brings relief to farmers in Telangana’s Karimnagar](https://www.thehindu.com/news/national/telangana/rain-brings-relief-to-farmers-in-telanganas-karimnagar/article71466295.ece)
 - [Rajasthan urban local body poll results: Victory of truth over echo of falsehood, PM Modi says](https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-poll-results-victory-of-truth-over-echo-of-falsehood-pm-modi-says/article71466388.ece)
 - [Tamil Nadu CB-CID nabs Rajasthan scammer who circulated Al-generated deep fake video impersonating CM Vijay](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cb-cid-nabs-rajasthan-scammer-who-circulatedal-generated-deep-fake-video-impersonating-cm-vijay/article71466303.ece)
-- [CJI says judiciary cannot earn public trust by shielding itself from scrutiny](https://www.thehindu.com/news/national/cji-says-judiciary-can-not-earn-public-trust-by-shielding-itself-from-scrutiny/article71466330.ece)
 
 **Livemint**
 - [Gurugram biker hit-and-run: Accused says he didn't know biker was a woman, ‘I tried hard to save’ | Watch video](https://www.livemint.com/news/india/gurugram-biker-hit-and-run-accused-says-he-didnt-know-biker-was-a-woman-i-tried-hard-to-save-watch-video-11789410589345.html)
@@ -113,22 +113,22 @@
 - Gurugram (2.6)
 - Sept (2.6)
 - Northern Ireland (2.0)
-- PM Modi (2.0)
 - Ajay Devgn (2.0)
+- Tiger Shroff (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Indian Army Jobs : ভারতীয় সেনায় ২৬১৫ পদে হবে নিয়োগ, সিভিলিয়ান পোস্টে নিযুক্তি নোটিফিকেশন প্রকাশ, কারা আবেদনের যোগ্য ?](https://bengali.abplive.com/education/indian-army-aoc-recruitment-2026-notification-out-for-2615-posts-1192775)
-- [വനിതാ ഏഷ്യാകപ്പ് കിരീടം ഇന്ത്യയ്ക്ക്; ഫൈനലിൽ ശ്രീലങ്കയെ തകർത്തത് 72 റൺസിന്](https://www.expresskerala.com/news/india-wins-womens-asia-cup-title-defeats-sri-lanka-by-72-runs-in-the-final.html)
-- [इशान किशनने जो रूटला मागे टाकत १,००० धावांच्या क्लबमध्ये प्रवेश केला](https://marathi.webdunia.com/article/marathi-cricket-news/ishan-kishan-surpassed-joe-root-to-enter-the-1-000-run-club-126091400015_1.html)
-- [‘हनुमान अंश’ के डायरेक्टर ने अनाउंस की अपनी अगली फिल्म, दिखाएंगे इस रामभक्त की कहानी](https://www.livehindustan.com/entertainment/bollywood/hanuman-ansh-director-vishal-chaturvedi-announced-next-film-rambola-on-mahakavi-goswami-tulsidas-201789370063750.html)
-- [Trump won’t put the brakes on AI because he wants to beat China. How big a threat is Beijing?](https://www.cnn.com/2026/09/14/tech/china-trump-ai-explainer-intl-hnk)
-- [BJP MLA Parag Shah : भाजप आमदार भिकाऱ्याच्या वेशात मुंबईच्या रस्त्यावर फिरतोय, सोशल मीडियावर Video व्हायरल](https://saamtv.esakal.com/mumbai-pune/mumbai-bjp-mla-parag-shah-video-viral-seen-beggar-on-ghatkopar-streets-on-jain-guru-namramuni-advice-latest-marathi-news-aak2003)
-- [കുട്ടികളെ ഇംഗ്ലിഷ് മീഡിയം സ്‌കൂളിൽ വിടും, പക്ഷെ ആരെങ്കിലും ഇംഗ്ലിഷ് പറഞ്ഞാൽ അഹങ്കാരമാകും; സുപ്രിയ മേനോൻ](https://www.reporterlive.com/entertainment/entertainment-news/2026/09/14/supriya-menon-criticises-urvasi-for-degrading-an-anchor-for-speaking-in-english-in-aasha-movie-event)
-- [ਨਯਨਤਾਰਾ ਸਟਾਰਰ Mookuthi Amman 2 ਦਾ ਦਿਲਚਸਪ ਟੀਜ਼ਰ ਜਾਰੀ ; ਫਿਲਮ 6 ਨਵੰਬਰ ਨੂੰ ਹੋਵੇਗੀ ਰਿਲੀਜ਼](https://wishavwarta.in/mookuthi-amman-2/)
-- [Hyundai Safety Features: இனி திருடவே முடியாது..! ஹுண்டாயின் புத்தம் புதிய பாதுகாப்பு அம்சம் - எப்படி வேலை செய்யும்?](https://tamil.abplive.com/auto/new-hyundai-feature-helps-prevent-theft-even-after-key-cloning-know-more-automobile-news-274486)
-- [பெரியார், அண்ணா பிறந்த நாள் பேரணிக்கு அனுமதி மறுப்பு: "யாரைத் திருப்திப்படுத்த?" - உதயநிதி கேள்வி](https://www.vikatan.com/government-and-politics/police-denying-permission-for-rally-of-periyar-and-anna-birthday)
+- [சீனா தலைமைப் பொறுப்பு](https://www.tamilmurasu.com.sg/india/2027-brics-summit)
+- [Aortic structure may affect midlife rise in pulse pressure, aortic stiffness in women](https://medicalxpress.com/news/2026-09-aortic-affect-midlife-pulse-pressure.html)
+- [અમદાવાદમાં ગણેશ સ્થાપનાના દિવસે વરસાદ વિઘ્નરૂપ, મૂર્તિ વેચાણ કરતા વેપારીઓ ચિંતામાં](https://www.gujaratsamachar.com/news/ahmedabad/rain-disrupts-ganesh-sthapana-day-in-ahmedabad-traders-selling-idols-worried-14539646526)
+- ['No problem in multinational tournaments': Pakistan hockey team to travel to India for Asian Champions Trophy](https://timesofindia.indiatimes.com/sports/hockey/top-stories/no-problem-in-multinational-tournaments-pakistan-hockey-team-to-travel-to-india-for-asian-champions-trophy/articleshow/134237254.cms)
+- [सैफ अली खान ने अपने हाथों से बनाई गणपति की मूर्ति, करीना ने दिखाई खास झलक](https://www.abplive.com/entertainment/bollywood/saif-ali-khan-making-ganpati-on-occassion-ganesh-chaturthi-kareena-kapoor-share-glimpse-viral-3188635)
+- [ഭാര്യയെ കൊന്ന് തല ഫ്രിഡ്ജിൽ സൂക്ഷിച്ച കേസിലെ പ്രതി പൊലീസ് വാഹനത്തിൽനിന്ന് ചാടി മരിച്ചു](https://www.madhyamam.com/india/guwahati-man-dies-after-jumping-from-police-vehicle-1554437)
+- [पाकिस्तानी टीम आएगी भारत, एशियन चैम्पियंस ट्रॉफी में होगी भिड़ंत, सामने आया शेड्यूल](https://www.aajtak.in/sports/news/story/pakistan-hockey-team-to-visit-india-asian-champions-trophy-2026-punjab-bhagwant-mann-tspoa-dskc-2642541-2026-09-14)
+- [తెలంగాణలో వంటగది.. మహారాష్ట్రలో బెడ్‌రూమ్.. సోషల్ మీడియాలో వింత ఇల్లు వైరల్!](https://telugu.oneindia.com/news/telangana/border-house-telangana-maharashtra-kitchen-in-telangana-bedroom-in-maharashtra-pays-taxes-to-two-506151.html)
+- [हिमालय के ग्लेशियर 65% तेजी से पिघल रहे हैं, करोड़ों लोगों की जान आफत में](https://www.aajtak.in/science/story/himalayan-glaciers-melting-65-faster-threatening-millions-dskc-2642538-2026-09-14)
+- [कुकर बेचने वाली कंपनी लाई धांसू FD Scheme, दो दिन बाद मौका... ब्याज भी जोरदार](https://www.aajtak.in/business/utility/story/cooker-maker-hawkins-new-fd-from-16th-september-offers-upto-8-percent-for-36-months-tutc-dskc-2642526-2026-09-14)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
