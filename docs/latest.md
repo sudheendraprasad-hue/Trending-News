@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-14 19:03:25
+# India Trending Report — 2026-09-14 19:35:43
 
 ## Google Trends (India) — top trending searches
-1. [villarreal vs betis](https://trends.google.com/trending/rss?geo=IN)
-2. [leeds vs newcastle](https://trends.google.com/trending/rss?geo=IN)
-3. [inter vs udinese](https://trends.google.com/trending/rss?geo=IN)
-4. [asian games](https://trends.google.com/trending/rss?geo=IN)
-5. [abvp](https://trends.google.com/trending/rss?geo=IN)
-6. [नैस्डैक](https://trends.google.com/trending/rss?geo=IN)
-7. [punjab t20 league](https://trends.google.com/trending/rss?geo=IN)
-8. [ios 26.7](https://trends.google.com/trending/rss?geo=IN)
-9. [infosys and wipro adr surge](https://trends.google.com/trending/rss?geo=IN)
-10. [weather jammu](https://trends.google.com/trending/rss?geo=IN)
+1. [katrina kaif](https://trends.google.com/trending/rss?geo=IN)
+2. [villarreal vs betis](https://trends.google.com/trending/rss?geo=IN)
+3. [leeds vs newcastle](https://trends.google.com/trending/rss?geo=IN)
+4. [ios 27 features](https://trends.google.com/trending/rss?geo=IN)
+5. [inter vs udinese](https://trends.google.com/trending/rss?geo=IN)
+6. [asian games](https://trends.google.com/trending/rss?geo=IN)
+7. [abvp](https://trends.google.com/trending/rss?geo=IN)
+8. [नैस्डैक](https://trends.google.com/trending/rss?geo=IN)
+9. [punjab t20 league](https://trends.google.com/trending/rss?geo=IN)
+10. [ios 26.7](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -22,8 +22,8 @@
 - [Oracle layoffs: Employees receive ‘6am job cuts’ email from Oracle leadership again](https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms)
 - [Jemima Goldsmith, 52, remarries; 22 years after divorce from Imran Khan](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jemima-goldsmith-marries-for-second-time-at-52-ties-the-knot-with-irish-australian-financier-cameron-oreilly-22-years-after-divorce-from-imran-khan-her-family-confirms-wedding/articleshow/134245796.cms)
 - [‘No help whatsoever’: Trump seeks reimbursement from nations for securing Hormuz](https://timesofindia.indiatimes.com/world/middle-east/no-help-whatsoever-trump-seeks-reimbursement-from-nations-for-securing-strait-of-hormuz/articleshow/134245751.cms)
+- [Legendary fashion designer Bob Mackie dies at 87](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bob-mackie-passes-away-at-87-following-deaths-of-dolly-parton-tim-curry-and-gloria-steinem-miley-cyrus-sabrina-carpenter-alyssa-milano-and-more-celebrities-pay-tribute-to-legendary-designer/articleshow/134246662.cms)
 - [3 Italian passengers fly out of Delhi without immigration clearance: What exactly happened](https://timesofindia.indiatimes.com/india/3-italian-passengers-fly-out-of-delhi-without-immigration-clearance-what-exactly-happened/articleshow/134244604.cms)
-- [‘Same govt had closed the case’: Supriya questions fresh CBI probe into Disha's death](https://timesofindia.indiatimes.com/india/same-government-had-closed-the-case-supriya-sule-questions-fresh-cbi-probe-into-disha-salians-death/articleshow/134245820.cms)
 
 **NDTV**
 - ["Sick Conspiracy": US, China On Same Page On Snubbing AI Slowdown Calls](https://www.ndtv.com/world-news/sick-conspiracy-us-china-on-same-page-on-snubbing-ai-slowdown-call-12046345#publisher=newsstand)
@@ -49,9 +49,22 @@
 - [Meta restricts access in India to viral AI video of Keralam CM dancing with KSEB officials](https://www.hindustantimes.com/india-news/meta-restricts-access-in-india-to-viral-ai-video-of-keralam-cm-v-d-satheesan-dancing-with-kseb-officials-101789396580926.html)
 - [‘Trump is copying us’: Karnataka CM Shivakumar says Congress welfare model inspired US's $5,000 plan](https://www.hindustantimes.com/india-news/trump-is-copying-us-karnataka-cm-dk-shivakumar-says-congress-welfare-model-inspired-us-usd-5-000-plan-101789392970485.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಪ್ರಧಾನಿ ಮೋದಿ ಜನ್ಮದಿನ: ಸೆ. 17ಕ್ಕೆ ಸಂಜೆ 6 ರಿಂದ 7 ರವರೆಗೆ ಮನೆಗಳಲ್ಲಿ ಆಶೀರ್ವಾದದ ದೀಪ ಬೆಳಗಿಸಿ! ದೇಶದ ಜನರಿಗೆ BJP ಕರೆ](https://vijaykarnataka.com/news/india/pm-modi-birthday-bjp-calls-for-lighting-lamps-of-blessing-at-home-and-praying-for-his-long-life-and-good-health/articleshow/134243862.cms)
+- [ಅಫ್ಘಾನಿಸ್ತಾನ ವಿರುದ್ಧ 2ನೇ ಪಂದ್ಯಕ್ಕೆ ಸಂಜು ಸ್ಯಾಮ್ಸನ್ ಬದಲು ವೈಭವ್ ಸೂರ್ಯವಂಶಿ? ಹೀಗಿದೆ ಟೀಂ ಇಂಡಿಯಾ ಸಂಭಾವ್ಯ ಇಲೆವೆನ್](https://vijaykarnataka.com/sports/cricket/news/india-likely-eleven-against-vs-afghanistan-2nd-t20i-vaibhav-sooryavanshi-in-sanju-samson-out/articleshow/134246454.cms)
+- [ಇಮಿಗ್ರೇಷನ್ ಇಲ್ಲದೆ ದಿಲ್ಲಿಯಿಂದ ಜರ್ಮನಿ ತಲುಪಿದ ಮೂವರು ಇಟಲಿಗರು! ಏರ್ ಇಂಡಿಯಾ ವಿರುದ್ಧ ಕೇಂದ್ರ ಗರಂ](https://vijaykarnataka.com/news/new-delhi/3-italians-fly-from-delhi-airport-without-immigration-check-notice-to-air-india/articleshow/134245597.cms)
+- [50ರ ನಂತರವೂ ವಿಜಯ್–ಅಜಿತ್‌ನಂತೆ ಫಿಟ್ ಆಗಿರಬೇಕಾ? ವಿಜ್ಞಾನ ಹೇಳುವ ಈ ಆರೋಗ್ಯಕರ ಅಭ್ಯಾಸಗಳನ್ನು ರೂಢಿಸಿಕೊಳ್ಳಿ!](https://vijaykarnataka.com/lifestyle/fitness/vijay-ajith-fitness-after-50-healthy-habits/articleshow/134244779.cms)
+- [ಕೇದಾರನಾಥ ಮಾರ್ಗದಲ್ಲಿ ಭೀಕರ ಭೂಕುಸಿತ: ಯಾತ್ರೆ ತಾತ್ಕಾಲಿಕ ಸ್ಥಗಿತ; 6,500ಕ್ಕೂ ಹೆಚ್ಚು ಯಾತ್ರಾರ್ಥಿಗಳ ರಕ್ಷಣೆ](https://vijaykarnataka.com/news/india/massive-landslide-on-the-kedarnath-route-over-6500-pilgrims-rescued-/articleshow/134244606.cms)
+- [ಗಗನ್‌ಗೆ ವಿಐಪಿ ಪಟ್ಟನೂ ಇಲ್ಲ, ಕ್ಯಾಪ್ಟ್‌ನ್‌ ಆಡೋಕೆ ಯೋಗನೂ ಇಲ್ಲ! ಸ್ಪರ್ಧಿಗಳ ಆಲೋಚನೆಯೇ ತಲೆ ಕೆಳಗೆ ಮಾಡಿದ 'ಬಿಗ್‌ ಬಾಸ್'!](https://vijaykarnataka.com/tv/bigg-boss-kannada/this-time-no-calculations-worked-inside-the-bigg-boss-kannada-13-house-the-captaincy-and-grocery-tasks-completely-altered-the-contestants-way-of-thinking/articleshow/134247000.cms)
+- [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
+- [ದೀಪದ ಜ್ವಾಲೆಯಲ್ಲಿ ಕಾಣಿಸುವ ವಿವಿಧ ಆಕಾರಗಳ ಅರ್ಥ ಮತ್ತು ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/know-which-type-of-puja-diya-flame-is-auspicious/articleshow/134241622.cms)
+- [35ರ ನಂತರ ತಂದೆಯಾಗುವುದು: ರಣವೀರ್ ಸಿಂಗ್, ವಿಕ್ಕಿ ಕೌಶಲ್ ಬಳಿಕ ಪುರುಷರ ವೀರ್ಯಾಣು ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಅಧ್ಯಾಯನ ಹೇಳುವುದೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/ranveer-singh-vicky-kaushal-fatherhood-after-35-male-fertility-sperm-health/articleshow/134236848.cms)
+- [ಮಿಸ್ಟರಿ ಸ್ಪಿನ್ನರ್ ವರುಣ್ ಚಕ್ರವರ್ತಿ ಅಫ್ಘಾನಿಸ್ತಾನ ಟಿ20 ಸರಣಿಯಿಂದ ಔಟ್: ಮುಂಬರುವ ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಗೂ ಡೌಟ್!](https://vijaykarnataka.com/sports/cricket/news/varun-chakravarthy-out-of-afghanistan-t20-series-asian-games-participation-also-in-doubt/articleshow/134243417.cms)
 
 **The Hindu**
+- [BJP wins Kota municipal elections, poll for chairperson postponed after EVM glitches in some wards](https://www.thehindu.com/news/national/rajasthan/bjp-wins-kota-municipal-elections-poll-for-chairperson-postponed-after-evm-glitches-in-some-wards/article71466402.ece)
+- [Upgraded Karimnagar-Warangal section of NH 563 set to boost tourism, trade in the region](https://www.thehindu.com/news/national/telangana/upgraded-karimnagar-warangal-section-of-nh-563-set-to-boost-tourism-trade-in-the-region/article71466252.ece)
+- [Rain brings relief to farmers in Telangana’s Karimnagar](https://www.thehindu.com/news/national/telangana/rain-brings-relief-to-farmers-in-telanganas-karimnagar/article71466295.ece)
 - [Rajasthan urban local body poll results: Victory of truth over echo of falsehood, PM Modi says](https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-poll-results-victory-of-truth-over-echo-of-falsehood-pm-modi-says/article71466388.ece)
 - [Tamil Nadu CB-CID nabs Rajasthan scammer who circulated Al-generated deep fake video impersonating CM Vijay](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cb-cid-nabs-rajasthan-scammer-who-circulatedal-generated-deep-fake-video-impersonating-cm-vijay/article71466303.ece)
 - [CJI says judiciary cannot earn public trust by shielding itself from scrutiny](https://www.thehindu.com/news/national/cji-says-judiciary-can-not-earn-public-trust-by-shielding-itself-from-scrutiny/article71466330.ece)
@@ -59,11 +72,9 @@
 - [17 of 20 NCPI MPs to likely to join BJP, says MP Jagadish Basunia](https://www.thehindu.com/news/national/west-bengal/rebel-trinamool-mp-basunia-claims-17-of-20-ncpi-mps-to-join-bjp-fellow-rebels-ruling-party-deny/article71465946.ece)
 - [Kerala HC grants police protection to journalist Aparna Kurup following cyberattacks over TV Debate involving Kanthapuram’s remarks](https://www.thehindu.com/news/national/kerala/kerala-hc-grants-police-protection-to-journalist-aparna-kurup-following-cyberattacks-over-tv-debate-involving-kanthapurams-remarks/article71466219.ece)
 - [Ideological clarity may soon be just a tap away for CPI(M) cadre in Keralam](https://www.thehindu.com/news/national/kerala/ideological-clarity-may-soon-be-a-just-a-tap-away-for-cpim-cadre-in-keralam/article71466040.ece)
-- [Maharashtra govt. orders probe into land transfer to Premier Automobiles over six decades ago](https://www.thehindu.com/news/national/maharashtra/maharashtra-govt-orders-probe-into-land-transfer-to-premier-automobiles-over-six-decades-ago/article71466240.ece)
-- [Tamil Nadu government signs slew of MoUs during CM Vijay’s London visit to attract investment, create high-value jobs](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-signs-slew-of-mous-during-cm-vijays-london-visit-to-attract-investment-create-high-value-jobs/article71466094.ece)
-- [Satheesan, Anwar Ibrahim discuss investment opportunities in Keralam](https://www.thehindu.com/news/national/kerala/satheesan-anwar-ibrahim-discuss-investment-opportunities-in-keralam/article71466012.ece)
 
 **Livemint**
+- [Gurugram biker hit-and-run: Accused says he didn't know biker was a woman, ‘I tried hard to save’ | Watch video](https://www.livemint.com/news/india/gurugram-biker-hit-and-run-accused-says-he-didnt-know-biker-was-a-woman-i-tried-hard-to-save-watch-video-11789410589345.html)
 - [India, South American bloc Mercosur announce plan to expand trade pact](https://www.livemint.com/news/india/india-south-american-bloc-mercosur-announce-plan-to-expand-trade-pact-11789403133176.html)
 - ['Cannot by themselves...': Why Delhi HC dismissed Vimal Elaichi makers' plea against notice to Shah Rukh Khan, others](https://www.livemint.com/news/india/cannot-by-themselves-why-delhi-hc-dismissed-vimal-elaichi-makers-plea-against-notice-to-shah-rukh-khan-others-11789398960981.html)
 - [Prince Harry, Meghan Markle may take legal recourse to challenge 'private citizens' description by King Charles: Report](https://www.livemint.com/news/trends/prince-harry-meghan-markle-may-take-legal-recourse-to-challenge-private-citizens-description-by-king-charles-report-11789399929317.html)
@@ -73,7 +84,6 @@
 - [Kharif sowing gap narrows, but key crops lag](https://www.livemint.com/news/kharif-sowing-gap-narrows-but-key-crops-lag-11789362798728.html)
 - [Partition in UK? Scotland, Wales and Northern Ireland push for exit from United Kingdom, ‘Europe is our common home’](https://www.livemint.com/news/world/partition-in-uk-scotland-wales-and-northern-ireland-push-for-exit-from-united-kingdom-europe-is-our-common-home-11789392780803.html)
 - [Pakistan sets  ₹7 million bounty on Masood Azhar ahead of FATF review: Terrorist linked to Pathankot, Pulwama attacks](https://www.livemint.com/news/world/pakistan-sets-7-million-bounty-on-masood-azhar-ahead-of-fatf-review-terrorist-linked-to-pathankot-pulwama-attacks-11789391263647.html)
-- [Western Australia steps up India push with critical minerals, trade in focus](https://www.livemint.com/news/india/western-australia-steps-up-india-push-with-critical-minerals-trade-in-focus-11789382067585.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -90,12 +100,12 @@
 - [ನ್ಯಾಯಾಧೀಶರ ವಿರುದ್ಧದ ಪ್ರತಿಯೊಂದು ದೂರನ್ನೂ ವೆಬ್‌ ಸೈಟ್‌ ನಲ್ಲಿ ಪ್ರಕಟಿಸಬೇಕೇ?: CJI ಸೂರ್ಯಕಾಂತ್ ಕಳವಳ](https://www.varthabharati.in/national/cji-on-accountability-should-we-put-every-complaint-against-judges-on-a-website-2275208)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (5.8)
 - Delhi (5.1)
+- India (4.5)
 - BRICS (4.2)
 - Rajasthan (4.2)
 - Congress (3.2)
-- Keralam (2.9)
+- Gurugram (3.2)
 - Oracle (2.6)
 - Trump (2.6)
 - Hormuz (2.6)
@@ -109,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [हूतियों से जंग के लिए सऊदी जाएंगे 100000 पाकिस्तानी यूथ? इस सीनेटर ने मुनीर को दी वार्निंग](https://www.aajtak.in/world/story/pakistan-senator-saudi-arabia-defense-houthi-attacks-yemen-mecca-pact-ntc-mnrd-smsr-2642454-2026-09-14)
-- [సరిహద్దుల్లో గణనీయంగా తగ్గిన చైనా మోహరింపులు: రక్షణ శాఖ](https://www.eenadu.net/telugu-news/india/pla-deployment-along-lac-reduced-in-2025-says-defence-ministry/0701/126166417)
-- [পরিসংখ্যান ভয় ধরাবে! রাজ্যে ডেঙ্গি আক্রান্ত ৫ হাজার পার, বাড়ল নজরদারি, ১৫ অক্টোবর পর্যন্ত চলবে বিশেষ পরীক্ষা](https://bengali.indianexpress.com/west-bengal/west-bengal-dengue-cases-cross-5000-intensive-testing-campaign-october-15-12530538)
-- [Wholesale inflation rises to 9.92% in August as fuel, food prices firm up](https://www.moneycontrol.com/news/business/economy/wholesale-inflation-rises-to-9-92-in-august-as-fuel-food-prices-firm-up-14029313.html)
-- [Ex-Tehelka editor-in-chief Tarun Tejpal surrenders before Goa court in 2013 rape case](https://timesofindia.indiatimes.com/india/ex-tehelka-editor-in-chief-tarun-tejpal-surrenders-before-goa-court-in-2013-rape-case/articleshow/134234935.cms)
-- [50 கோடி வசூலில் மண்டாடி, சூரியின் பெரிய வெற்றி](https://cinema.dinamalar.com/news/kollywood/mandadi-suris-biggest-hit-with-rs-50-crore-collection/140874)
-- [மதுரையில் யுவன் சங்கர் ராஜா இசை நிகழ்ச்சி கோலாலகம்.. Hcl- 50வது ஆண்டு விழா கொண்டாட்டம்!](https://tamil.abplive.com/technology/hcl-group-50th-anniversary-celebrations-yuvan-shankar-raja-madurai-tnn-274475)
-- [Nitish Tiwari Ramayana Film Song Jai Jai Ram Release ; गणेश चतुर्थीच्या शुभ मुहूर्तावर 4000 कोटींच्या रामायणचं पहिलं गाणं रिलीज, जय जय राम गाण्याला अरिजीत सिंह- श्रेया घोषालचा आवाज](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/ramayana-first-song-jai-jai-ram-released-on-ganesh-chaturthi-sung-by-arijit-singh-and-shreya-ghoshal/articleshow/134234456.cms)
-- [Dengue in West Bengal: ডেঙ্গি আক্রান্ত সর্বাধিক মুর্শিদাবাদে, আপনার জেলায় কী পরিস্থিতি?](https://bangla.aajtak.in/lifestyle/health/story/dengue-case-rising-in-west-bengal-crossed-the-5000-mark-this-year-murshidabad-emerging-as-the-worst-affected-district-arg-1450439-2026-09-14)
-- [इमरान खान की पूर्व पत्नी जेमिमा 22 सालों के बाद फिर बनी दुल्हन, 52 की उम्र में अरबपति को बनाया जीवनसाथी](https://navbharattimes.indiatimes.com/world/rest-of-europe/imran-khan-ex-wife-jemima-goldsmith-marries-billionaire-cameron-oreilly/articleshow/134234931.cms)
+- [ബ്രിക്സ് വൻ വിജയമെന്ന് കേന്ദ്രവും ബിജെപിയും; ചൈനയോട് അടിയറവെന്ന് കോൺ​ഗ്രസ്, വാനോളം പുകഴ്ത്തി ദേശാഭിമാനിയും ചന്ദ്രികയും](https://www.asianetnews.com/india-news/centre-and-bjp-hail-brics-as-a-massive-success-congress-rejects-deshabhimani-chandrika-praise-articleshow-ptawmoy)
+- [WPI inflation rises to 9.92% in August on rising prices of food, fuel, manufactured items](https://www.thehindu.com/business/Economy/wpi-inflation-rises-to-992-in-august-on-rising-prices-of-food-fuel-manufactured-items/article71465582.ece)
+- [BJP प्रत्याशी को पत्नी और मां-बाप ने भी नहीं दिया वोट, मिला महज एक वोट; राजस्थान निकाय चुनाव का सबसे रोचक रिजल्ट](https://navbharattimes.indiatimes.com/state/rajasthan/nagaur/deedwana-kuchaman-parbatsar-nagar-palika-ward-no-13-result-bjp-candidate-got-only-1-vote-even-wife-and-mother-father-did-not-give-him-vote/articleshow/134235626.cms)
+- [पाकिस्तान पर ICC का डबल अटैक... 11 WTC अंक कटे, भारी जुर्माना भी लगा](https://www.aajtak.in/sports/cricket/story/icc-penalises-pakistan-slow-over-rate-wtc-points-deducted-england-test-series-tspoa-dskc-2642479-2026-09-14)
+- [হরমুজ নিয়ে ইরান ও উপসাগরীয় দেশগুলোর বৈঠক স্থগিত, কূটনীতিতে হোঁচট](https://www.prothomalo.com/world/middle-east/gt9tosb7xp)
+- [16 रुपये सस्ती हुई चीनी, 22 दिनों में बड़ी गिरावट; अब क्या है रेट?](https://www.abplive.com/business/sugar-prices-drop-by-up-to-16-rupees-in-22-days-check-latest-rate-now-3188577)
+- [മാണി സി.കാപ്പനെ അയോഗ്യനാക്കണമെന്ന് ഹർജി- Mani C. Kappan ​​| MLA](https://www.manoramaonline.com/news/latest-news/2026/09/14/high-court-issues-notice-in-mani-c-kappan-disqualification-plea.html)
+- [Pakistan docked 11 WTC points for slow over-rate at Edgbaston](https://www.cricbuzz.com/cricket-news/140174/pakistan-docked-11-wtc-points-for-slow-over-rate-at-edgbaston)
+- [CityUHK team invents novel eDNA membrane to advance understanding of inshore fish diversity](https://www.aninews.in/news/business/cityuhk-team-invents-novel-edna-membrane-to-advance-understanding-of-inshore-fish-diversity20260914125711/)
+- [सऊदी बॉर्डर से कितने दूर हैं हूती विद्रोही? मैप में समझें कैसे बढ़ रहा अरब मुल्क के लिए खतरा](https://www.aajtak.in/defence-news/story/how-far-houthi-rebels-currently-from-saudi-border-dskc-2642482-2026-09-14)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
