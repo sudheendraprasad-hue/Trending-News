@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-14 16:01:54
+# India Trending Report — 2026-09-14 16:36:45
 
 ## Google Trends (India) — top trending searches
-1. [torino vs roma](https://trends.google.com/trending/rss?geo=IN)
-2. [പോലീസ്](https://trends.google.com/trending/rss?geo=IN)
-3. [uk](https://trends.google.com/trending/rss?geo=IN)
-4. [aneurin donald](https://trends.google.com/trending/rss?geo=IN)
-5. [આવતીકાલનું હવામાન](https://trends.google.com/trending/rss?geo=IN)
-6. [isl](https://trends.google.com/trending/rss?geo=IN)
-7. [asim munir](https://trends.google.com/trending/rss?geo=IN)
-8. [লটারি সংবাদ](https://trends.google.com/trending/rss?geo=IN)
-9. [al-shamal vs al-ittihad](https://trends.google.com/trending/rss?geo=IN)
-10. [toxic ott release](https://trends.google.com/trending/rss?geo=IN)
+1. [iceland](https://trends.google.com/trending/rss?geo=IN)
+2. [సమంత రుత్ ప్రభు](https://trends.google.com/trending/rss?geo=IN)
+3. [dax index](https://trends.google.com/trending/rss?geo=IN)
+4. [सैमसंग गैलेक्सी](https://trends.google.com/trending/rss?geo=IN)
+5. [ஐஸ்வர்யா லட்சுமி](https://trends.google.com/trending/rss?geo=IN)
+6. [como vs parma](https://trends.google.com/trending/rss?geo=IN)
+7. [ग्रे मार्केट](https://trends.google.com/trending/rss?geo=IN)
+8. [nlsiu](https://trends.google.com/trending/rss?geo=IN)
+9. [torino vs roma](https://trends.google.com/trending/rss?geo=IN)
+10. [പോലീസ്](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Munir fails Mecca test: Why Pak's field marshal is not riding to rescue MBS](https://timesofindia.indiatimes.com/world/pakistan/munir-fails-mecca-test-why-pakistans-field-marshal-is-not-riding-to-rescue-mbs/articleshow/134239939.cms)
+- [3 Italian passengers fly out of Delhi without immigration clearance: What exactly happened](https://timesofindia.indiatimes.com/india/3-italian-passengers-fly-out-of-delhi-without-immigration-clearance-what-exactly-happened/articleshow/134244604.cms)
+- [UP polls & the fight for Muslim votes: Decoding SP, Congress's Owaisi problem](https://timesofindia.indiatimes.com/india/up-assembly-elections-and-fight-for-muslim-votes-decoding-sp-congresss-owaisi-problem/articleshow/134239210.cms)
+- [BJP stays on top, Cong gets a warning: What Raj civic polls mean for 2028 state polls](https://timesofindia.indiatimes.com/india/bjp-stays-on-top-congress-gets-a-warning-what-rajasthan-civic-polls-mean-for-2028-assembly-elections/articleshow/134243176.cms)
 - [Texas politics inflamed by MAGA cowboys v Indians row](https://timesofindia.indiatimes.com/world/us/texas-politics-inflamed-by-maga-cowboys-v-indians-row/articleshow/134243784.cms)
-- [3 foreigners bypass immigration, fly out of Delhi; Air India gets notice](https://timesofindia.indiatimes.com/india/dgca-sends-notice-to-air-india-as-3-foreigners-bypass-immigration-at-delhi-airport-fly-to-munich/articleshow/134242660.cms)
-- [UP polls and the fight for Muslim votes: Decoding SP, Congress's Owaisi problem](https://timesofindia.indiatimes.com/india/up-assembly-elections-and-fight-for-muslim-votes-decoding-sp-congresss-owaisi-problem/articleshow/134239210.cms)
-- [‘Partners, not rivals’: China FM Wang Yi reveals key PM Modi-Xi consensus](https://timesofindia.indiatimes.com/india/partners-not-rivals-china-fm-wang-yi-reveals-key-pm-modi-xi-consensus/articleshow/134243435.cms)
+- [Munir fails Mecca test: Why Pak's field marshal is not riding to rescue MBS](https://timesofindia.indiatimes.com/world/pakistan/munir-fails-mecca-test-why-pakistans-field-marshal-is-not-riding-to-rescue-mbs/articleshow/134239939.cms)
 - [Oracle layoffs: Employees receive ‘6am job cuts’ email from Oracle leadership again](https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms)
 - [Homeless pianist went viral after church performance; 2 years later, he has a home](https://timesofindia.indiatimes.com/world/uk/in-january-2024-a-homeless-man-played-piano-at-a-church-in-uk-on-a-freezing-night-2-years-after-his-video-went-viral-he-has-raised-50000-for-charity-and-found-a-home/articleshow/134233771.cms)
+- [Trump moves to scrap Biden-era carbon limits on US coal & gas power plants](https://timesofindia.indiatimes.com/world/us/unleash-american-energy-trump-moves-to-scrap-biden-era-carbon-limits-on-us-coal-gas-power-plants/articleshow/134244398.cms)
+- [‘Partners, not rivals’: China FM Wang Yi reveals key PM Modi-Xi consensus](https://timesofindia.indiatimes.com/india/partners-not-rivals-china-fm-wang-yi-reveals-key-pm-modi-xi-consensus/articleshow/134243435.cms)
 - [Trump claims Russia, Ukraine agree to stop hitting each other's energy targets](https://timesofindia.indiatimes.com/world/us/trump-claims-russia-ukraine-agree-to-stop-hitting-each-others-energy-targets/articleshow/134243632.cms)
-- [Gurgaon hit-and-run: Biker's father seeks attempt to murder charge against driver](https://timesofindia.indiatimes.com/city/gurgaon/it-was-intentional-biker-sias-father-seeks-attempt-to-murder-charge-against-gurgaon-car-driver/articleshow/134241414.cms)
-- ['High IQ president' is all AI needs: Trump backs US lead, targets China & Anthropic](https://timesofindia.indiatimes.com/world/us/high-iq-president-is-all-ai-needs-trump-backs-us-lead-blames-china-for-sick-conspiracy/articleshow/134242910.cms)
 
 **NDTV**
 - [3 Italians Leave Delhi Without Immigration Check, Air India Issued Notice](https://www.ndtv.com/india-news/3-italians-leave-delhi-without-immigration-check-air-india-issued-notice-12045576#publisher=newsstand)
@@ -38,30 +38,23 @@
 - [Amazon Suspends Use Of Cargo Carrier Whose Plane Killed 5 On Miami Runway](https://www.ndtv.com/world-news/amazon-suspends-use-of-cargo-carrier-whose-plane-killed-5-on-miami-runway-12044983#publisher=newsstand)
 
 **Hindustan Times**
+- [Delhi HC rejects Vimal Elaichi's plea over Maharashtra FDA notices to SRK, Ajay Devgn, Tiger Shroff](https://www.hindustantimes.com/india-news/delhi-hc-rejects-vimal-elaichi-plea-over-maharashtra-fda-notices-to-srk-ajay-devgn-tiger-shroff-101789402087269.html)
+- [‘China values Modi’s statements’: Beijing hails India's independent foreign policy after PM-Xi meeting at BRICS](https://www.hindustantimes.com/india-news/china-values-modi-statements-beijing-hails-india-independent-foreign-policy-days-after-pm-xi-jinping-meet-brics-101789400420682.html)
+- [Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy](https://www.hindustantimes.com/india-news/delhi-airport-denies-notice-over-reports-of-security-lapse-involving-three-air-india-passengers-to-italy-101789399617067.html)
 - [India approves up to 654 MW of power export to flood-hit Nepal for 18 hours every day till December 31](https://www.hindustantimes.com/india-news/india-approves-up-to-654-mw-of-power-export-to-flood-hit-nepal-for-18-hours-every-day-till-december-31-2026-101789398430567.html)
-- [Delhi HC rejects Vimal Elaichi makers' plea over Maharashtra FDA notice to SRK, Ajay Devgn, Tiger Shroff](https://www.hindustantimes.com/india-news/delhi-hc-rejects-vimal-elaichi-makers-plea-over-maharashtra-fda-notice-to-shah-rukh-khan-ajay-devgn-tiger-shroff-101789396450435.html)
+- [Why Delhi HC rejected Vimal Elaichi makers' plea over FDA notice to SRK, Ajay Devgn, Tiger Shroff](https://www.hindustantimes.com/india-news/delhi-hc-rejects-vimal-elaichi-makers-plea-over-maharashtra-fda-notice-to-shah-rukh-khan-ajay-devgn-tiger-shroff-101789396450435.html)
 - [Monsoon withdrawal to commence from Sept 19; rain deficit stays at 15%: IMD](https://www.hindustantimes.com/india-news/monsoon-withdrawal-to-commence-from-sept-19-rain-deficit-stays-at-15-imd-101789397048951.html)
 - [Meta restricts access in India to viral AI video of Keralam CM dancing with KSEB officials](https://www.hindustantimes.com/india-news/meta-restricts-access-in-india-to-viral-ai-video-of-keralam-cm-v-d-satheesan-dancing-with-kseb-officials-101789396580926.html)
 - [‘Trump is copying us’: Karnataka CM Shivakumar says Congress welfare model inspired US's $5,000 plan](https://www.hindustantimes.com/india-news/trump-is-copying-us-karnataka-cm-dk-shivakumar-says-congress-welfare-model-inspired-us-usd-5-000-plan-101789392970485.html)
 - [Chetan Borghariya arrested in CGPSC money laundering case: ED](https://www.hindustantimes.com/india-news/chetan-borghariya-arrested-in-cgpsc-money-laundering-case-ed-101789394946076.html)
 - [Tea, hugs, handshakes: Unseen clips of PM Modi interacting with world leaders at BRICS Summit](https://www.hindustantimes.com/india-news/chai-hugs-handshakes-unseen-clips-of-pm-modi-interacting-with-world-leaders-at-brics-summit-101789378897415.html)
-- [Gurugram bike crash accused denies ‘intentionally' ramming rider: ‘Didn't know it was a woman'](https://www.hindustantimes.com/india-news/gurugram-biker-crash-hit-and-run-accused-denies-intentionally-ramming-rider-didnt-know-it-was-a-woman-101789387716909.html)
-- [BRICS 2026: India’s summit and the push for dialogue in a fragmented world](https://www.hindustantimes.com/india-news/brics-2026-india-s-summit-and-the-push-for-dialogue-in-a-fragmented-world-101789389291713.html)
-- [HT Evening Brief Sept 14: Gurugram Police deny inaction in biker case; Kangana Ranaut calls Rakhi Sawant ‘bitter’](https://www.hindustantimes.com/india-news/ht-evening-brief-sept-14-gurugram-police-deny-inaction-in-biker-case-kangana-ranaut-calls-rakhi-sawant-bitter-101789386273677.html)
 
-**Vijay Karnataka**
-- [ಮಿಸ್ಟರಿ ಸ್ಪಿನ್ನರ್ ವರುಣ್ ಚಕ್ರವರ್ತಿ ಅಫ್ಘಾನಿಸ್ತಾನ ಟಿ20 ಸರಣಿಯಿಂದ ಔಟ್: ಮುಂಬರುವ ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಗೂ ಡೌಟ್!](https://vijaykarnataka.com/sports/cricket/news/varun-chakravarthy-out-of-afghanistan-t20-series-asian-games-participation-also-in-doubt/articleshow/134243417.cms)
-- [VK Real Estate Summit & Awards 2026: ಸೆ.25 ಕ್ಕೆ ತಜ್ಞರ ಮಹಾಮಂಥನ - ದಕ್ಷಿಣ ಭಾರತದ ರಿಯಲ್ ಎಸ್ಟೇಟ್ ಮುಂದಿನ ಹಾದಿಗೆ ನೀಲಿನಕ್ಷೆ](https://vijaykarnataka.com/business/news/vijaya-karnataka-real-estate-summit-awards-2026-expert-summit-on-september-25-blueprint-for-south-indian-real-estate-future/articleshow/134242974.cms)
-- [ಇಮ್ರಾನ್ ಖಾನ್ ಮಾಜಿ ಪತ್ನಿ ಜೆಮಿಮಾ ಗೋಲ್ಡ್ ಸ್ಮಿತ್‌ ಗೆ 2ನೇ ಮದುವೆ: 52ರ ಹರೆಯದ ಚಿತ್ರ ನಿರ್ಮಾಪಕಿಯ ಕೈಹಿಡಿದ ಬಿಲಿಯನೇರ್ ಉದ್ಯಮಿ ಯಾರು?](https://vijaykarnataka.com/sports/cricket/news/imran-khan-ex-wife-jemima-goldsmith-2nd-marriage-with-cameron-oreilly/articleshow/134242391.cms)
-- [35ರ ನಂತರ ತಂದೆಯಾಗುವುದು: ರಣವೀರ್ ಸಿಂಗ್, ವಿಕ್ಕಿ ಕೌಶಲ್ ಬಳಿಕ ಪುರುಷರ ವೀರ್ಯಾಣು ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಅಧ್ಯಾಯನ ಹೇಳುವುದೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/ranveer-singh-vicky-kaushal-fatherhood-after-35-male-fertility-sperm-health/articleshow/134236848.cms)
-- [ನಾವಿನ್ನೂ ಪಾಕಿಸ್ತಾನದ ಜೊತೆ ಕ್ರಿಕೆಟ್‌ ಏಕೆ ಆಡುತ್ತಿದ್ದೇವೆ? ಏಷ್ಯಾ ಕಪ್‌ ವಿವಾದದ ಬಳಿಕ ಅಸಾದುದ್ದೀನ್‌ ಓವೈಸಿ ಖಡಕ್‌ ಪ್ರಶ್ನೆ!](https://vijaykarnataka.com/sports/cricket/news/asaduddin-owaisi-asks-why-india-playing-cricket-with-pakistan-after-asia-cup-trophy-row/articleshow/134240594.cms)
-- [BBK 13 ಓಂ ಪ್ರಕಾಶ್ ರಾವ್ ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲು; ಏನಾಗಿದೆ ನಟನಿಗೆ? ಆರೋಗ್ಯ ಸ್ಥಿತಿ ಹೇಗಿದೆ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/om-prakash-rao-admitted-to-hospital-what-is-the-actors-condition/articleshow/134243183.cms)
-- [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
-- [ದೀಪದ ಜ್ವಾಲೆಯಲ್ಲಿ ಕಾಣಿಸುವ ವಿವಿಧ ಆಕಾರಗಳ ಅರ್ಥ ಮತ್ತು ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/know-which-type-of-puja-diya-flame-is-auspicious/articleshow/134241622.cms)
-- [ಫ್ರಿಡ್ಜ್ ನಲ್ಲಿಟ್ಟರೂ ಹೂಕೋಸು ಬಾಡುತ್ತಿದೆಯಾ? ತಾಜಾತನ ಕಾಪಾಡಲು ಈ 5 ಸರಳ ವಿಧಾನ ಅನುಸರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/cauliflower-storage-tips-keep-fresh-in-fridge/articleshow/134235162.cms)
-- [ಗಣೇಶ ಹಬ್ಬದ ದಿನವೂ ಕ್ಷೇತ್ರದಲ್ಲಿ ಡಿಕೆಶಿ ರೌಂಡ್ಸ್: ಪೂಜೆ ಜೊತೆಗೆ ಜನರ ಸಮಸ್ಯೆ ಆಲಿಸಿದ ಸಿಎಂ](https://vijaykarnataka.com/news/karnataka/gowri-ganesha-festival-dk-shivakumar-visit-to-kanakapura/articleshow/134242695.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [Kerala HC grants police protection to journalist Aparna Kurup following cyberattacks over TV Debate involving Kanthapuram’s remarks](https://www.thehindu.com/news/national/kerala/kerala-hc-grants-police-protection-to-journalist-aparna-kurup-following-cyberattacks-over-tv-debate-involving-kanthapurams-remarks/article71466219.ece)
+- [Rajasthan Urban Local Body polls results: BJP edges past Congress; counting under way at many wards](https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-poll-congress-bjp-vote-counting-results-update-september-14-2026/article71465801.ece)
+- [Ideological clarity may soon be just a tap away for CPI(M) cadre in Keralam](https://www.thehindu.com/news/national/kerala/ideological-clarity-may-soon-be-a-just-a-tap-away-for-cpim-cadre-in-keralam/article71466040.ece)
 - [Maharashtra govt. orders probe into land transfer to Premier Automobiles over six decades ago](https://www.thehindu.com/news/national/maharashtra/maharashtra-govt-orders-probe-into-land-transfer-to-premier-automobiles-over-six-decades-ago/article71466240.ece)
 - [Tamil Nadu government signs slew of MoUs during CM Vijay’s London visit to attract investment, create high-value jobs](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-signs-slew-of-mous-during-cm-vijays-london-visit-to-attract-investment-create-high-value-jobs/article71466094.ece)
 - [Satheesan, Anwar Ibrahim discuss investment opportunities in Keralam](https://www.thehindu.com/news/national/kerala/satheesan-anwar-ibrahim-discuss-investment-opportunities-in-keralam/article71466012.ece)
@@ -69,11 +62,9 @@
 - [Former DUTA chief Aditya Narayan Mishra joins Congress, flags ‘crisis’ in education](https://www.thehindu.com/news/national/former-duta-chief-aditya-narayan-mishra-joins-congress-flags-crisis-in-education/article71466174.ece)
 - [Telangana Minister offers support to family of deceased BRS leader](https://www.thehindu.com/news/national/telangana/telangana-minister-offers-support-to-family-of-deceased-brs-leader/article71466144.ece)
 - [Backward Classes group raises concern over challenges to caste census](https://www.thehindu.com/news/national/telangana/backward-classes-group-raises-concern-over-challenges-to-caste-census/article71466161.ece)
-- [India approves expedited export of electricity to flood-hit Nepal](https://www.thehindu.com/business/Economy/india-approves-expedited-export-of-electricity-to-flood-hit-nepal/article71466141.ece)
-- [Ideological clarity may soon be a just a tap away for CPI(M) cadre in Keralam](https://www.thehindu.com/news/national/kerala/ideological-clarity-may-soon-be-a-just-a-tap-away-for-cpim-cadre-in-keralam/article71466040.ece)
-- [Dalits counter BJP protest in T. Narsipur over Ganesha procession](https://www.thehindu.com/news/national/karnataka/bjp-protest-over-police-inspectors-remarks-on-ganesha-procession-rocks-t-narsipur-dalit-groups-stage-counter-protest/article71463434.ece)
 
 **Livemint**
+- [Prince Harry, Meghan Markle may take legal recourse to challenge 'private citizens' description by King Charles: Report](https://www.livemint.com/news/trends/prince-harry-meghan-markle-may-take-legal-recourse-to-challenge-private-citizens-description-by-king-charles-report-11789399929317.html)
 - [BRICS Summit: Delhi cop suspended after flaunting gun, sniper rifle videos on Instagram](https://www.livemint.com/news/india/brics-summit-delhi-cop-suspended-after-flaunting-gun-sniper-rifle-videos-on-instagram-11789396882388.html)
 - [17 NCPI MPs to join BJP soon? Samik Bhattacharya reacts to claim by rebel TMC leader Jagadish Chandra Barma Basunia](https://www.livemint.com/news/india/17-ncpi-mps-to-join-bjp-soon-samik-bhattacharya-reacts-to-claim-by-rebel-tmc-leader-jagadish-chandra-barma-basunia-11789393433562.html)
 - [Brent nears $110 a barrel as West Asia conflict deepens, Hormuz talks delayed](https://www.livemint.com/news/india/brent-nears-110-a-barrel-as-west-asia-conflict-deepens-hormuz-talks-delayed-11789391149565.html)
@@ -83,19 +74,8 @@
 - [Western Australia steps up India push with critical minerals, trade in focus](https://www.livemint.com/news/india/western-australia-steps-up-india-push-with-critical-minerals-trade-in-focus-11789382067585.html)
 - [Reservoir levels recover, but water storage remains below normal](https://www.livemint.com/news/india/india-reservoir-levels-september-2026-cwc-water-storage-rabi-irrigation-hydropower-monsoon-rainfall-11789378597073.html)
 - [US pilot reveals how he survived 50 hours with a broken back in Iranian mountains after being shot down by enemy forces](https://www.livemint.com/news/world/us-pilot-reveals-how-he-survived-50-hours-with-a-broken-back-in-iranian-mountains-after-being-shot-down-by-enemy-forces-11789380923396.html)
-- [DRI seizes 362 tonnes of Pakistan-origin dates routed via UAE](https://www.livemint.com/news/india/dri-seizes-362-tonnes-pakistan-dates-india-import-ban-uae-jebel-ali-operation-deep-manifest-11789379011851.html)
 
-**Moneycontrol**
-- [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
-- [Buy Tejas Networks; target of Rs 1100: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html)
-- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html)
-- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html)
-- [Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html)
-- [Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html)
-- [Reduce Wipro; target of Rs 410: ICICI Securities](https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html)
-- [Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html)
-- [Buy Patel Engineering; target of Rs 80: ICICI Direct](https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html)
-- [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
+**Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
 - [ದುಬೈನಲ್ಲಿ 65 ಕನ್ನಡಿಗ ಉದ್ಯಮಿಗಳು, ಹೂಡಿಕೆದಾರರೊಂದಿಗೆ ಸಚಿವ ಕೆ.ಜೆ. ಜಾರ್ಜ್ ಸಭೆ](https://www.varthabharati.in/gulf/minister-k-j-george-holds-a-meeting-with-65-entrepreneurs-and-investors-from-karnataka-in-dubai-2275204)
@@ -110,35 +90,35 @@
 - [ಎಸ್‌ಐಆರ್ | ಮಂಗಳೂರು: ನಿವೃತ್ತ ಡಿವೈಎಸ್ಪಿ ಟಿ.ಸಿ.ಎಂ. ಶರೀಫ್‌ಗೂ ನೋಟಿಸ್](https://www.varthabharati.in/DakshinaKannada/sir-mangaluru-notice-issued-to-retired-dysp-tcm-sharief-2275193)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (8.4)
-- Emkay Global Financial (5.0)
+- India (5.8)
+- Delhi (4.8)
 - Trump (3.9)
-- Delhi (3.2)
-- ICICI Securities (3.0)
-- target (3.0)
+- Congress (3.9)
 - Maharashtra (2.9)
 - Keralam (2.9)
 - Oracle (2.6)
 - Monsoon (2.6)
-- Nepal (2.6)
-- Sept (2.6)
-- Congress (2.6)
 - Tamil Nadu (2.0)
+- Ajay Devgn (2.0)
+- Tiger Shroff (2.0)
 - BRICS Summit (2.0)
+- BRICS (1.9)
+- What (1.6)
+- China (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Rajamouli | రాజమౌళి సినిమాకు సైన్ చేసి 9 సినిమాలు పూర్తి చేసిన స్టార్ హీరో.. అరుదైన రికార్డు!](https://www.ntnews.com/cinema/prudhvirajan-creates-history-2510704)
-- [बाजार में बिक रहा है सेहत बिगाड़ने वाला एनालॉग पनीर, कैसे करें असली और नकली की पहचान?](https://www.jagran.com/news/national-analog-paneer-how-to-identify-fake-paneer-food-adulteration-40372569.html)
-- [BJP Parag Shah: भाजप आमदार पराग शाहांचा भिकाऱ्याच्या वेषातील रस्त्यावर फिरतानाचा व्हिडीओ व्हायरल, नेमकं काय घडलं?](https://marathi.abplive.com/news/politics/bjp-mla-parag-shah-become-beggar-live-on-ghatkoper-road-seeks-food-from-people-maharashtra-politics-marathi-news-1439040)
-- [37-வது ஷாங்காய் சுற்றுலா விழா கோலாகல தொடக்கம்](https://www.polimernews.com/worldnews/grand-opening-of-the-37th-shanghai-tourism-festival-12529962)
-- [અમદાવાદમાં વહેલી સવારથી વરસાદ, 24 કલાકમાં હંસપુરા અને મોટેરામાં અઢી ઈંચથી વધુ ખાબકતા ચારેકોર પાણી-પાણી](https://www.gujaratsamachar.com/news/ahmedabad/rain-in-ahmedabad-since-early-morning-more-than-two-and-a-half-inches-of-water-falling-in-hanspura-and-motera-in-24-hours-47153542837)
-- [सोना ही सोना! बेंगलुरु की कंपनी को किर्गिस्तान में मिला बड़ा भंडार, शुरू किया प्रोडक्शन, स्पेन-मोजांबिक में भी है मौजूदगी](https://navbharattimes.indiatimes.com/business/business-news/bengaluru-based-mining-company-deccan-gold-mines-starts-gold-production-in-kyrgyzstan/articleshow/134231809.cms)
-- [Free fall, prayers, ‘God is Good’: US Air Force officer's remarkable rescue after Iran shootdown](https://www.hindustantimes.com/world-news/flight-shot-down-parachute-failed-how-us-colonel-survived-50-hours-in-iran-sent-first-message-101789351982864.html)
-- [బాక్సాఫీస్ వద్ద 'ఇరుముడి' సంచ‌ల‌నం.. రవితేజ అరుదైన ఫీట్](https://www.ap7am.com/tn/879978/irumudi-sensation-at-box-office-ravi-teja-rare-feat)
-- [LAC पर कम हो रही चीनी सेना की तैनाती, भारत ने बनाई मजबूत पकड़... लद्दाख बॉर्डर पर बड़ा अपडेट](https://www.aajtak.in/defence-news/story/china-pla-deployment-reduced-lac-ladakh-indian-army-mod-annual-report-ntc-mnrd-smsr-2642340-2026-09-14)
-- [MPSC exam ‘paper leaks’: CJP to join protesters demanding resignation of key officials](https://www.thehindu.com/news/national/maharashtra/mpsc-exam-paper-leaks-cjp-to-join-protesters-demanding-resignation-of-key-officials/article71465356.ece)
+- [പൊലീസ് സ്റ്റേഷനിലെ തൊണ്ടിമുതലായ ഏഴ് ചാക്ക് ഹാൻസ് മോഷണം, പ്രതി പൊലീസുകാരൻ തന്നെ](https://www.asianetnews.com/local-news/theft-of-seven-sacks-drugs-from-the-police-station-the-accused-is-a-police-officer-articleshow-se6g1de)
+- [Best iPhone Deals: iPhone 17 Pro Drops to Rs. 69,990, Pro Max to Rs. 74,990; iPhone 18 Pre-Bookings Begin at Croma](https://www.aninews.in/news/business/best-iphone-deals-iphone-17-pro-drops-to-rs-69990-pro-max-to-rs-74990-iphone-18-pre-bookings-begin-at-croma20260914100456/)
+- [India Crosses 80 Lakh HPV Vaccine Doses In Cervical Cancer Prevention Push](https://www.bwhealthcareworld.com/article/india-crosses-80-lakh-hpv-vaccine-doses-in-cervical-cancer-prevention-push-623486)
+- [మీ శాలరీలో PF కట్ అయ్యాక ఖాతాలో పడుతోందా? ఇలా చెక్ చేసుకోండి!](https://telugu.economictimes.com/personal-finance/news/how-to-check-if-employer-deposits-pf-monthly-epfo-rules/articleshow/134232037.cms)
+- ['भारतीय संघ चषकाच्या लायक नाही'; पाकिस्तानच्या चाहत्याकडून नक्वींचं कौतुक तर भारतीयांकडून 'ट्रॉफी चोर'च्या घोषणा,](https://www.loksatta.com/krida/india-women-asia-cup-2026-trophy-controversy-pakistani-fan-praises-mohsin-naqvi-video-kvg-85-6135745/)
+- [महिला बाइक सवार का पीछा कर कार ने मारी टक्कर, गुरुग्राम हिट एंड रन मामले में केस दर्ज](https://www.jagran.com/haryana/gurgaon-gurugram-female-biker-hit-run-car-driver-flees-scene-40372590.html)
+- [China scales back troops along LAC amid thaw in ties with India; down to 10 Arms Brigade](https://timesofindia.indiatimes.com/defence/news/china-scales-back-troops-along-lac-amid-thaw-in-ties-with-india-down-to-10-arms-brigade/articleshow/134232310.cms)
+- [തടവുകാർക്ക് ഇനി പുതിയ മെനു; കോഴിക്കറിയും സോയയും നൽകാൻ ജയിൽ വകുപ്പിൻ്റെ ശുപാർശ](https://www.kvartha.com/news/kerala/kerala-prison-department-recommends-chicken-soya-replace/cid19248604.htm)
+- [முன் அனுமதியின்றி ஆர்ப்பாட்டம்: ஆ.ராசா, மா.சுப்பிரமணியன் மீது வழக்கு](https://www.hindutamil.in/news/tamilnadu/case-filed-against-a-raja-and-ma-subramanian-for-holding-a-protest-without-prior-permission)
+- [कपिल सिब्बल ने 10वीं अनुसूची के तहत 'विलय' के मुद्दे पर फ़ैसला लेने में सुप्रीम कोर्ट की देरी पर उठाए सवाल](https://hindi.livelaw.in/category/columns/kapil-sibal-questions-supreme-courts-delay-in-deciding-merger-issue-under-10th-schedule-says-it-impacts-future-of-democracy-549919)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
