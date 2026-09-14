@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-14 21:02:01
+# India Trending Report — 2026-09-14 21:35:29
 
 ## Google Trends (India) — top trending searches
-1. [oracle layoffs](https://trends.google.com/trending/rss?geo=IN)
-2. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
-3. [nbems neet pg answer key](https://trends.google.com/trending/rss?geo=IN)
-4. [bb](https://trends.google.com/trending/rss?geo=IN)
-5. [serie a](https://trends.google.com/trending/rss?geo=IN)
-6. [katrina kaif](https://trends.google.com/trending/rss?geo=IN)
-7. [leeds vs newcastle](https://trends.google.com/trending/rss?geo=IN)
-8. [villarreal vs betis](https://trends.google.com/trending/rss?geo=IN)
-9. [ios 27 features](https://trends.google.com/trending/rss?geo=IN)
-10. [inter vs udinese](https://trends.google.com/trending/rss?geo=IN)
+1. [villarreal cf vs real betis standings](https://trends.google.com/trending/rss?geo=IN)
+2. [apple iphone 17 pro](https://trends.google.com/trending/rss?geo=IN)
+3. [oracle layoffs](https://trends.google.com/trending/rss?geo=IN)
+4. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
+5. [nbems neet pg answer key](https://trends.google.com/trending/rss?geo=IN)
+6. [serie a](https://trends.google.com/trending/rss?geo=IN)
+7. [katrina kaif](https://trends.google.com/trending/rss?geo=IN)
+8. [leeds vs newcastle](https://trends.google.com/trending/rss?geo=IN)
+9. [villarreal vs betis](https://trends.google.com/trending/rss?geo=IN)
+10. [ios 27 features](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Scotland, Northern Ireland and Wales sign historic MoU to break away from UK](https://timesofindia.indiatimes.com/world/uk/scotland-northern-ireland-and-wales-sign-mou-to-break-away-from-uk/articleshow/134247408.cms)
+- [ED arrests Bhupesh Baghels's ex-OSD for role in Chhattisgarh job scam](https://timesofindia.indiatimes.com/india/ed-arrests-ex-osd-of-baghel-for-role-in-chhattisgarh-job-scam/articleshow/134247722.cms)
+- [India to export 654MW of power to flood-hit Nepal daily till Dec 31](https://timesofindia.indiatimes.com/india/india-to-export-654mw-of-power-to-nepal-daily-till-dec-31/articleshow/134247739.cms)
 - [IAF achieved 314-km 'longest kill' of Pak jet during Op Sindoor: MoD report](https://timesofindia.indiatimes.com/defence/news/how-iaf-achieved-314-km-longest-kill-of-pak-aircraft-during-op-sindoor-reveals-mod-report/articleshow/134244709.cms)
 - ['Why wasn't FIR slapped on Justice Varma?' Senior lawyer Mahesh Jethmalani](https://timesofindia.indiatimes.com/india/jethmalani-why-wasnt-fir-slapped-on-varma/articleshow/134247647.cms)
+- [Oracle layoffs: Employees receive ‘6am job cuts’ email from Oracle leadership again](https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms)
+- [Jemima Goldsmith, 52, remarries; 22 years after divorce from Imran Khan](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jemima-goldsmith-marries-for-second-time-at-52-ties-the-knot-with-irish-australian-financier-cameron-oreilly-22-years-after-divorce-from-imran-khan-her-family-confirms-wedding/articleshow/134245796.cms)
 - [BJP stays on top, Cong gets a warning: What Raj civic polls result means for 2028](https://timesofindia.indiatimes.com/india/bjp-stays-on-top-congress-gets-a-warning-what-rajasthan-civic-polls-mean-for-2028-assembly-elections/articleshow/134243176.cms)
 - [UP polls & the fight for Muslim votes: Decoding SP, Congress's Owaisi problem](https://timesofindia.indiatimes.com/india/up-assembly-elections-and-fight-for-muslim-votes-decoding-sp-congresss-owaisi-problem/articleshow/134239210.cms)
 - [Maratha quota march: Activist Jarange to enter Mumbai with just 4-5 aides](https://timesofindia.indiatimes.com/city/aurangabad/jarange-changes-tack-plans-mumbai-march-with-few-associates/articleshow/134245628.cms)
-- [Oracle layoffs: Employees receive ‘6am job cuts’ email from Oracle leadership again](https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms)
-- [Jemima Goldsmith, 52, remarries; 22 years after divorce from Imran Khan](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jemima-goldsmith-marries-for-second-time-at-52-ties-the-knot-with-irish-australian-financier-cameron-oreilly-22-years-after-divorce-from-imran-khan-her-family-confirms-wedding/articleshow/134245796.cms)
-- [Bengal cancels noon meal deal in four districts](https://timesofindia.indiatimes.com/city/kolkata/govt-withdraws-nod-for-agency-to-serve-midday-meals-in-4-districts/articleshow/134243831.cms)
-- [Indian travel vlogger claims ‘arrest’ by Afghan ‘Mujahideen’, seeks help](https://timesofindia.indiatimes.com/india/indian-travel-vlogger-claims-arrest-by-afghan-mujahideen-seeks-help/articleshow/134246686.cms)
 
 **NDTV**
 - ["Hoax": Trump Rejects Warnings That AI Could Destroy Humanity](https://www.ndtv.com/world-news/donald-trump-rejects-warnings-that-ai-could-destroy-humanity-12046823#publisher=newsstand)
@@ -62,6 +62,7 @@
 - [ಮಿಸ್ಟರಿ ಸ್ಪಿನ್ನರ್ ವರುಣ್ ಚಕ್ರವರ್ತಿ ಅಫ್ಘಾನಿಸ್ತಾನ ಟಿ20 ಸರಣಿಯಿಂದ ಔಟ್: ಮುಂಬರುವ ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಗೂ ಡೌಟ್!](https://vijaykarnataka.com/sports/cricket/news/varun-chakravarthy-out-of-afghanistan-t20-series-asian-games-participation-also-in-doubt/articleshow/134243417.cms)
 
 **The Hindu**
+- [Intensify protest over land acquisition: Rakesh Tikait urges Noida farmers](https://www.thehindu.com/news/national/uttar-pradesh/intensify-protest-over-land-acquisition-rakesh-tikait-urges-noida-farmers/article71466434.ece)
 - [Govt. bars bank charges on payments up to ₹2,000 via UPI, RuPay-powered debit cards](https://www.thehindu.com/business/govt-bars-bank-charges-on-upi-payments-up-to-2k/article71466438.ece)
 - [Kerala HC issues notice to Mani C. Kappan on petition seeking disqualification as Pala MLA](https://www.thehindu.com/news/national/kerala/kerala-hc-issues-notice-to-mani-c-kappan-on-petition-seeking-disqualification-as-pala-mla/article71466062.ece)
 - [Jarange-Patil vows to take Maratha quota fight to Mumbai; 10 people, two ambulances to accompany him on Sept. 15](https://www.thehindu.com/news/national/maharashtra/jarange-patil-vows-to-take-maratha-quota-fight-to-mumbai-planned-route-sept15/article71466426.ece)
@@ -71,7 +72,6 @@
 - [Upgraded Karimnagar-Warangal section of NH 563 set to boost tourism, trade in the region](https://www.thehindu.com/news/national/telangana/upgraded-karimnagar-warangal-section-of-nh-563-set-to-boost-tourism-trade-in-the-region/article71466252.ece)
 - [Rain brings relief to farmers in Telangana’s Karimnagar](https://www.thehindu.com/news/national/telangana/rain-brings-relief-to-farmers-in-telanganas-karimnagar/article71466295.ece)
 - [Rajasthan urban local body poll results: Victory of truth over echo of falsehood, PM Modi says](https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-poll-results-victory-of-truth-over-echo-of-falsehood-pm-modi-says/article71466388.ece)
-- [Tamil Nadu CB-CID nabs Rajasthan scammer who circulated Al-generated deep fake video impersonating CM Vijay](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cb-cid-nabs-rajasthan-scammer-who-circulatedal-generated-deep-fake-video-impersonating-cm-vijay/article71466303.ece)
 
 **Livemint**
 - [Gurugram biker hit-and-run: Accused says he didn't know biker was a woman, ‘I tried hard to save’ | Watch video](https://www.livemint.com/news/india/gurugram-biker-hit-and-run-accused-says-he-didnt-know-biker-was-a-woman-i-tried-hard-to-save-watch-video-11789410589345.html)
@@ -100,35 +100,35 @@
 - [ನ್ಯಾಯಾಧೀಶರ ವಿರುದ್ಧದ ಪ್ರತಿಯೊಂದು ದೂರನ್ನೂ ವೆಬ್‌ ಸೈಟ್‌ ನಲ್ಲಿ ಪ್ರಕಟಿಸಬೇಕೇ?: CJI ಸೂರ್ಯಕಾಂತ್ ಕಳವಳ](https://www.varthabharati.in/national/cji-on-accountability-should-we-put-every-complaint-against-judges-on-a-website-2275208)
 
 ## Cross-source trending keywords (derived from headlines above)
+- India (5.5)
 - BRICS (4.2)
-- India (4.2)
 - Report (3.9)
-- Rajasthan (3.9)
 - Delhi (3.8)
 - Mumbai (2.9)
 - Scotland (2.6)
 - Wales (2.6)
-- Maratha (2.6)
+- Nepal (2.6)
 - Oracle (2.6)
+- Maratha (2.6)
 - Gurugram (2.6)
 - Sept (2.6)
+- Rajasthan (2.6)
 - Northern Ireland (2.0)
 - Ajay Devgn (2.0)
-- Tiger Shroff (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [சீனா தலைமைப் பொறுப்பு](https://www.tamilmurasu.com.sg/india/2027-brics-summit)
-- [Aortic structure may affect midlife rise in pulse pressure, aortic stiffness in women](https://medicalxpress.com/news/2026-09-aortic-affect-midlife-pulse-pressure.html)
-- [અમદાવાદમાં ગણેશ સ્થાપનાના દિવસે વરસાદ વિઘ્નરૂપ, મૂર્તિ વેચાણ કરતા વેપારીઓ ચિંતામાં](https://www.gujaratsamachar.com/news/ahmedabad/rain-disrupts-ganesh-sthapana-day-in-ahmedabad-traders-selling-idols-worried-14539646526)
-- ['No problem in multinational tournaments': Pakistan hockey team to travel to India for Asian Champions Trophy](https://timesofindia.indiatimes.com/sports/hockey/top-stories/no-problem-in-multinational-tournaments-pakistan-hockey-team-to-travel-to-india-for-asian-champions-trophy/articleshow/134237254.cms)
-- [सैफ अली खान ने अपने हाथों से बनाई गणपति की मूर्ति, करीना ने दिखाई खास झलक](https://www.abplive.com/entertainment/bollywood/saif-ali-khan-making-ganpati-on-occassion-ganesh-chaturthi-kareena-kapoor-share-glimpse-viral-3188635)
-- [ഭാര്യയെ കൊന്ന് തല ഫ്രിഡ്ജിൽ സൂക്ഷിച്ച കേസിലെ പ്രതി പൊലീസ് വാഹനത്തിൽനിന്ന് ചാടി മരിച്ചു](https://www.madhyamam.com/india/guwahati-man-dies-after-jumping-from-police-vehicle-1554437)
-- [पाकिस्तानी टीम आएगी भारत, एशियन चैम्पियंस ट्रॉफी में होगी भिड़ंत, सामने आया शेड्यूल](https://www.aajtak.in/sports/news/story/pakistan-hockey-team-to-visit-india-asian-champions-trophy-2026-punjab-bhagwant-mann-tspoa-dskc-2642541-2026-09-14)
-- [తెలంగాణలో వంటగది.. మహారాష్ట్రలో బెడ్‌రూమ్.. సోషల్ మీడియాలో వింత ఇల్లు వైరల్!](https://telugu.oneindia.com/news/telangana/border-house-telangana-maharashtra-kitchen-in-telangana-bedroom-in-maharashtra-pays-taxes-to-two-506151.html)
-- [हिमालय के ग्लेशियर 65% तेजी से पिघल रहे हैं, करोड़ों लोगों की जान आफत में](https://www.aajtak.in/science/story/himalayan-glaciers-melting-65-faster-threatening-millions-dskc-2642538-2026-09-14)
-- [कुकर बेचने वाली कंपनी लाई धांसू FD Scheme, दो दिन बाद मौका... ब्याज भी जोरदार](https://www.aajtak.in/business/utility/story/cooker-maker-hawkins-new-fd-from-16th-september-offers-upto-8-percent-for-36-months-tutc-dskc-2642526-2026-09-14)
+- [FATFથી બચવા પાકિસ્તાનનો નવો દાવ: આતંકી મસૂદ અઝહર પર 70 લાખનું ઇનામ જાહેર કરીને ખેલ્યો મોટો પેંતરો!](https://www.gujaratsamachar.com/news/international/pakistans-new-bet-to-avoid-fatf-big-ploy-by-announcing-a-reward-of-rs-70-lakh-on-terrorist-masood-azhar-12325909879)
+- [ശക്തമായ ടർബുലൻസ്; ടർക്കിഷ് എയർലൈൻസ് വിമാനത്തിൽ യാത്രക്കാരുടെ നിലവിളി](https://www.suprabhaatham.com/details/471700?link=Flight-hit-turbulence-in-Tunsia-passengers-scream-landed-successfully)
+- [বিমান বিভ্রাটের ভিডিয়ো](https://www.aaroananda.com/story/latest-news/breaking-news/turkish-airlines-flight-mid-air-crisis-tunisia-turbulence/11019587)
+- [कल का मौसम 15 सितंबर: 9 घंटे के भीतर 22 राज्यों में मूसलाधार बारिश का अलर्ट, 80 की स्पीड से हवा; IMD का अपडेट](https://navbharattimes.indiatimes.com/india/tomorrow-weather-15-september-2026-thunderstorm-and-heavy-rain-alert-in-22-states-within-9-hours-wind-speed-up-to-80-kmph-delhi-up-bihar-temperature/articleshow/134237326.cms)
+- [വൈറലായ വിവാദ എഐ ഡാൻസ് വീഡിയോ വ്യക്തിപരമായി സന്തോഷമുണ്ടാക്കി; നിയമപ്രശ്നങ്ങളുണ്ടെന്ന് മുഖ്യമന്ത്രി](https://www.asianetnews.com/kerala-news/ai-dance-video-brought-personal-joy-but-involves-legal-issues-says-cm-vd-satheesan-articleshow-fy664d5)
+- [FATF के एक्‍शन से डरे पाकिस्तान का नया पैंतरा, आतंकी मसूद अजहर पर रखा 70 लाख का इनाम, फ‍िर ड्रामा शुरू](https://navbharattimes.indiatimes.com/world/pakistan/pakistan-fia-issues-warrant-against-jaish-chief-masood-azhar-70-lakh-bounty-ahead-of-fatf-plenary/articleshow/134237825.cms)
+- [Big Breaking: ਦੁਪਹਿਰ 3 ਵਜੇ ਦੀਆਂ ਵੱਡੀਆਂ ਖ਼ਬਰਾਂ](https://wishavwarta.in/big-breaking-14-sept-2026/)
+- [जिस रेलवे स्टेशन से 15 मिनट पहले निकले थे ब्रिटेन के पूर्व PM, रूस ने वहां कर दिया भयानक हमला](https://www.aajtak.in/world/story/russia-drone-strike-ukrainian-train-boris-johnson-station-ntc-mnrd-dskc-2642555-2026-09-14)
+- [Rajasthan Municipal Election Result 2026 Live Updates: 10,000 seats, BJP wins 40%, Congress 35%](https://indianexpress.com/article/cities/jaipur/rajasthan-municipal-election-result-2026-live-updates-counting-bhawani-niketan-college-sikar-road-bjp-congress-10876916/)
+- [കേരളത്തിൽ 4 ജില്ലകളിൽ ഇന്ന് ശക്തമായ മഴയ്ക്ക് സാധ്യത; തീരത്ത് കള്ളക്കടൽ മുന്നറിയിപ്പ്](https://www.reporterlive.com/topnews/kerala/2026/09/14/kerala-rain-alert-yellow-alert-coastal-high-wave-warning)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
