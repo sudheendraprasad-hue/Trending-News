@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-14 10:02:28
+# India Trending Report — 2026-09-14 10:35:57
 
 ## Google Trends (India) — top trending searches
-1. [यशवंत सिन्हा](https://trends.google.com/trending/rss?geo=IN)
-2. [సౌదీ అరేబియా](https://trends.google.com/trending/rss?geo=IN)
-3. [weather rajkot](https://trends.google.com/trending/rss?geo=IN)
-4. [kerala jackpot result](https://trends.google.com/trending/rss?geo=IN)
-5. [విశ్వంభర](https://trends.google.com/trending/rss?geo=IN)
-6. [திரைப்படம்](https://trends.google.com/trending/rss?geo=IN)
-7. [कर्क](https://trends.google.com/trending/rss?geo=IN)
-8. [आगा सलमान](https://trends.google.com/trending/rss?geo=IN)
-9. [yemen](https://trends.google.com/trending/rss?geo=IN)
-10. [അബുദാബി](https://trends.google.com/trending/rss?geo=IN)
+1. [सीनियर सिटीजन सेविंग्स स्कीम](https://trends.google.com/trending/rss?geo=IN)
+2. [केंद्रीय मंत्री](https://trends.google.com/trending/rss?geo=IN)
+3. [നൃത്തം](https://trends.google.com/trending/rss?geo=IN)
+4. [అంతర్జాతీయ క్రికెట్ మండలి](https://trends.google.com/trending/rss?geo=IN)
+5. [சம்பளம்](https://trends.google.com/trending/rss?geo=IN)
+6. [ಸುದೀಪ್](https://trends.google.com/trending/rss?geo=IN)
+7. [பிரிக்ஸ்](https://trends.google.com/trending/rss?geo=IN)
+8. [salman ali agha](https://trends.google.com/trending/rss?geo=IN)
+9. [eng u19 vs pak u19](https://trends.google.com/trending/rss?geo=IN)
+10. [विजय](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Aaditya Thackeray, Rhea Chakraborty named in Disha death case: Key details from CBI FIR](https://timesofindia.indiatimes.com/india/aaditya-thackeray-rhea-chakroborty-named-in-disha-salians-death-case-key-details-from-cbi-fir/articleshow/134236979.cms)
 - [Gurgaon hit-and-run: Friend pursued fleeing car, confronted driver at traffic signal](https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-hit-and-run-how-woman-bikers-friend-chased-and-confronted-driver/articleshow/134236996.cms)
-- [17 NCPI MPs to join BJP soon: Rebel TMC MP's big 'Durga Puja' claim](https://timesofindia.indiatimes.com/india/17-ncpi-mps-to-join-bjp-soon-rebel-tmc-mp-jagadish-chandra-barma-basunias-big-durga-puja-claim/articleshow/134237936.cms)
 - [Pakistan to play in India; hockey team set to travel for Asian Champions Trophy](https://timesofindia.indiatimes.com/sports/hockey/top-stories/no-problem-in-multinational-tournaments-pakistan-hockey-team-to-travel-to-india-for-asian-champions-trophy/articleshow/134237254.cms)
-- [Inside Brics 2026: Video captures PM Modi’s candid moments with Xi, Putin and Prabowo](https://timesofindia.indiatimes.com/india/inside-brics-2026-video-captures-pm-modis-candid-moments-with-xi-putin-and-prabowo/articleshow/134235615.cms)
+- [17 NCPI MPs to join BJP soon: Rebel TMC MP's big 'Durga Puja' claim](https://timesofindia.indiatimes.com/india/17-ncpi-mps-to-join-bjp-soon-rebel-tmc-mp-jagadish-chandra-barma-basunias-big-durga-puja-claim/articleshow/134237936.cms)
 - [US student visa rules change Sept 15: What international students need to know](https://timesofindia.indiatimes.com/technology/tech-news/starting-september-15-new-rules-for-international-students-in-the-us-coming-into-effect-say-certificate-of-eligibility-for-nonimmigrant-student-status-not-to-exceed-/articleshow/134237527.cms)
-- [South Africa road crash involving multiple vehicles kills 21](https://timesofindia.indiatimes.com/world/rest-of-world/south-africa-road-crash-involving-multiple-vehicles-kills-21/articleshow/134236791.cms)
-- ['Took 80 years to restore full glory of Vande Mataram': Amit Shah](https://timesofindia.indiatimes.com/india/took-80-years-to-restore-glory-of-vande-mataram-amit-shah-hails-pm-modi-says-those-opposing-nep-committing-sin/articleshow/134237293.cms)
-- [Masked men fire at Punjab home of singer who was close to Sidhu Moosewala](https://timesofindia.indiatimes.com/city/chandigarh/shots-fired-at-home-of-punjabi-singer-in-barnala-village-none-injured/articleshow/134215390.cms)
-- [Gadkari: 100% barrier-free FASTag tolls soon; to deliver Rs 25,000 crore benefit](https://timesofindia.indiatimes.com/business/india-business/nitin-gadkari-says-fastag-lifted-toll-income-by-rs-7000-crore-to-over-rs-82000-crore-full-barrier-free-rollout-by-march-2027-could-bring-government-up-to-rs-25000-crore-a-year/articleshow/134236080.cms)
+- [Pakistan lists JeM chief Masood Azhar as fugitive, raises bounty ahead of FATF review](https://timesofindia.indiatimes.com/world/pakistan/pakistan-lists-jaish-e-mohammed-chief-masood-azhar-as-fugitive-hikes-bounty-ahead-of-fatf-review/articleshow/134238322.cms)
+- [More than a summer home: A look inside the Kennedys' historic Hyannis Port estate](https://timesofindia.indiatimes.com/real-estate/news/more-than-a-summer-home-a-look-inside-the-kennedys-historic-hyannis-port-estate/articleshow/134236959.cms)
+- [Crucial lifeline: India to supply 654MW of power daily to flood-ravaged Nepal](https://timesofindia.indiatimes.com/india/india-to-supply-654mw-of-electricity-for-18-hours-daily-to-nepal-after-deadly-floods-cripple-power-sector/articleshow/134238255.cms)
+- ['Sooryavanshi didn't do anything wrong': Ex-India star questions Samson's selection](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/vaibhav-sooryavanshi-didnt-do-anything-wrong-ex-india-star-questions-sanju-samsons-selection/articleshow/134238313.cms)
+- [Goa nightclub fire: Accused Luthra brothers surrender after SC rejects bail relief](https://timesofindia.indiatimes.com/india/goa-club-fire-accused-luthra-brothers-surrender-after-sc-rejects-bail-relief-sent-to-judicial-custody/articleshow/134238421.cms)
 
 **NDTV**
 - [Opinion: Opinion | Congress Wants Professionals. Can It Deal With What They Say?](https://www.ndtv.com/opinion/congress-wants-professionals-can-it-deal-with-what-they-say-12044351#publisher=newsstand)
@@ -38,16 +38,16 @@
 - [Your Health Insurance Policy Is Useless Without These 5 Features](https://www.ndtv.com/business-news/health-insurance-policy-checklist-features-claim-payment-medical-expense-12044124#publisher=newsstand)
 
 **Hindustan Times**
+- [Govt plans  ₹13,000-cr infra rollout, welfare drive from Sept 17: Rekha Gupta](https://www.hindustantimes.com/india-news/govt-plans-13-000-cr-infra-rollout-welfare-drive-from-sept-17-rekha-gupta-101789380003747.html)
+- [HC refuses immediate arrest protection to YouTuber Ajeet Bharti in SC/ST Act case](https://www.hindustantimes.com/india-news/hc-refuses-immediate-arrest-protection-to-youtuber-ajeet-bharti-in-sc-st-act-case-101789379524501.html)
 - [China benefited most from BRICS summit: Sibal](https://www.hindustantimes.com/india-news/china-benefited-most-from-brics-summit-sibal-101789378351409.html)
 - [‘Asked them to stop, they started chasing’: What woman biker said on Gurugram road rage incident](https://www.hindustantimes.com/india-news/asked-them-to-stop-started-chasing-what-woman-biker-said-on-gurugram-road-rage-incident-golf-course-road-101789372508126.html)
-- [CBI registers FIR in Disha Salian's death case as probe begins after Bombay HC order](https://www.hindustantimes.com/india-news/cbi-registers-fir-in-disha-salian-death-case-as-probe-begins-after-bombay-high-court-order-101789376858153.html)
+- [CBI registers FIR in Disha Salian's death case; Aaditya Thackeray, Dino Morea named](https://www.hindustantimes.com/india-news/cbi-registers-fir-in-disha-salian-death-case-as-probe-begins-after-bombay-high-court-order-101789376858153.html)
 - [Supreme Court to offer Hindi summaries, audio-video bulletins](https://www.hindustantimes.com/india-news/supreme-court-to-offer-hindi-summaries-audio-video-bulletins-101789376583103.html)
 - [Meet Sidharth Babu, the Indian diplomat seen beside Modi, Xi and Putin at BRICS](https://www.hindustantimes.com/india-news/meet-sidharth-babu-the-indian-diplomat-seen-beside-modi-xi-and-putin-at-brics-101789368049897.html)
 - [Former Iceland President recalls serving vegetarian meal to Abdul Kalam amid BRICS Summit menu row](https://www.hindustantimes.com/india-news/brics-summit-delhi-2026-menu-iceland-president-ragnar-grimmson-bjp-congress-vegetarian-pm-modi-bharat-mandapam-101789371034496.html)
 - [‘Who can stop me’: Jarange-Patil to head to Mumbai, asks supporters to stay back](https://www.hindustantimes.com/india-news/jarangepatil-to-go-to-mumbai-with-associates-asks-supporters-to-stay-back-for-now-101789375802458.html)
 - [South African delegate loses  ₹3 lakh in Delhi cab; police track down cash, return it minutes before flight](https://www.hindustantimes.com/india-news/south-african-delegate-loses-3-lakh-in-delhi-cab-police-track-down-cash-return-it-minutes-before-flight-101789371133229.html)
-- [‘Friend borrowed car 2 days ago’: Vehicle owner after woman biker chased, hit in Gurugram](https://www.hindustantimes.com/india-news/friend-borrowed-car-2-days-ago-vehicle-owner-after-woman-biker-chased-hit-in-gurugram-101789372967553.html)
-- [Nepal's wild elephants wreak havoc in Pilibhit villages, trample paddy and sugarcane crops](https://www.hindustantimes.com/india-news/nepals-wild-elephants-wreak-havoc-in-pilibhit-villages-trample-paddy-and-sugarcane-crops-101789374471343.html)
 
 **Vijay Karnataka**
 - [ಹುಬ್ಬಳ್ಳಿ - ಚೆನ್ನೈ ನೇರ ವಿಮಾನ ಸೇವೆ ಆರಂಭಿಸಿದ ಇಂಡಿಗೋ! ವಾರದಲ್ಲಿ 3ದಿನ; ವೇಳಾಪಟ್ಟಿ ಬಿಡುಗಡೆ; ಟಿಕೆಟ್‌ ದರವೆಷ್ಟು?](https://vijaykarnataka.com/news/dharawada/indigo-launches-direct-flight-service-between-hubballi-and-chennai-operates-3-days-a-week-schedule-ticket-fares-released/articleshow/134237778.cms)
@@ -62,19 +62,20 @@
 - [30 ವೈದ್ಯರನ್ನು ಹೆತ್ತು ಕೊಟ್ಟ ರಾಯಚೂರಿನ ಹಳ್ಳಿ: ಒಂದೊಂದು ಮನೆಯಲ್ಲಿ ನಾಲ್ಕೂ ಮಕ್ಕಳು ಡಾಕ್ಟರ್ಸ್, ಹೇಗೆ ಸಾಧ್ಯ ಗೊತ್ತೇ?](https://vijaykarnataka.com/news/raichur/a-village-in-raichur-that-produced-30-doctors-in-some-households-all-four-children-are-doctors-do-you-know-how-this-was-possible/articleshow/134232537.cms)
 
 **The Hindu**
+- [Gurugram woman biker injured in hit-and-run; accused identified, police launch suo motu probe](https://www.thehindu.com/news/national/haryana/gurugram-woman-biker-thrown-off-sports-bike-after-car-hits-her-on-golf-course-road-police-launch-suo-motu-probe/article71465459.ece)
+- [‘PM says sab changa si, but sab mehenga si’ Congress on WPI inflation](https://www.thehindu.com/news/national/pm-says-sab-changa-si-but-sab-mehenga-si-congress-on-wpi-inflation/article71465854.ece)
+- [Supreme Court announces launch of Hindi public information service ‘Jan Soochna Seva’](https://www.thehindu.com/news/national/supreme-court-announces-launch-of-hindi-public-information-service-jan-soochna-seva/article71465856.ece)
 - [Tamil Nadu Minister S. Ramesh says ‘obscene, derogatory’ remarks are DMK’s DNA](https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-minister-s-ramesh-says-obscene-derogatory-remarks-are-dmks-dna/article71465829.ece)
-- [Gurugram woman bike injured in hit-and-run; accused identified, police launch suo motu probe](https://www.thehindu.com/news/national/haryana/gurugram-woman-biker-thrown-off-sports-bike-after-car-hits-her-on-golf-course-road-police-launch-suo-motu-probe/article71465459.ece)
 - [India gains wider EU steel access, but carbon levy remains](https://www.thehindu.com/business/india-gains-wider-eu-steel-access-but-carbon-levy-remains/article71465776.ece)
 - [Ganesh Chaturthi celebrations begin with fervour across Telangana](https://www.thehindu.com/news/national/ganesh-chaturthi-celebrations-begin-with-fervour-across-telangana/article71465694.ece)
 - [Urban local body polls: Counting of votes under way across Rajasthan, BJP takes early lead](https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-poll-congress-bjp-vote-counting-results-update-september-14-2026/article71465801.ece)
 - [Three main accused in Goa nightclub fire surrender before Mapusa court two weeks after SC order](https://www.thehindu.com/news/national/three-main-accused-in-goa-nightclub-fire-surrender-before-mapusa-court-two-weeks-after-sc-order/article71465808.ece)
 - [Kochi Metro documents leak: Police launch probe](https://www.thehindu.com/news/national/kerala/kochi-metro-documents-leak-police-launch-probe/article71465800.ece)
 - [Retired IAF officer assaulted at a commercial complex in Gurugram](https://www.thehindu.com/news/national/haryana/kargil-war-veteran-injured-after-assault-by-parking-attendant-with-iron-rod-in-gurugram/article71465731.ece)
-- [Bihari youth arrested for alleged murder of colleague from the State in Kochi plywood factory](https://www.thehindu.com/news/cities/Kochi/bihari-youth-arrested-for-alleged-murder-of-colleague-from-the-state-in-kochi-plywood-factory/article71465539.ece)
-- [One baby orangutan develops fever at Odisha's Nandankanan Zoo, under treatment](https://www.thehindu.com/news/national/odisha/one-baby-orangutan-develops-fever-at-odishas-nandankanan-zoo-under-treatment/article71465790.ece)
 
 **Livemint**
-- [Operation Deep Manifest: DRI seizes 362 metric tonnes Pakistan-origin dry dates in Nashik](https://www.livemint.com/news/india/operation-deep-manifest-dri-seizes-362-metric-tonnes-pakistan-origin-dry-dates-in-nashik-11789375195424.html)
+- [DRI seizes 362 tonnes of Pakistan-origin dates routed via UAE](https://www.livemint.com/news/india/dri-seizes-362-tonnes-pakistan-dates-india-import-ban-uae-jebel-ali-operation-deep-manifest-11789379011851.html)
+- [Operation Deep Manifest: DRI seizes 362 metric tonnes of Pakistan-origin dry dates in Nashik routed via UAE](https://www.livemint.com/news/india/operation-deep-manifest-dri-seizes-362-metric-tonnes-pakistan-origin-dry-dates-in-nashik-11789375195424.html)
 - [Former Tehelka editor-in-chief Tarun Tejpal surrenders before Goa court to serve a 10-year sentence](https://www.livemint.com/news/india/former-tehelka-editor-in-chief-tarun-tejpal-surrenders-before-goa-court-to-serve-a-10-year-sentence-11789375769167.html)
 - [23 WFH staff quit after billionaire John Morgan installs camera on laptop to monitor remote employees](https://www.livemint.com/news/trends/23-wfh-staff-quit-after-billionaire-john-morgan-installs-camera-on-laptop-to-monitor-remote-employees-11789372016789.html)
 - [‘The millennial middle manager has it the worst’: Viral video hits a nerve, sparks AI work debate](https://www.livemint.com/news/trends/the-millennial-middle-manager-has-it-the-worst-viral-video-hits-a-nerve-sparks-ai-work-debate-11789376389188.html)
@@ -83,7 +84,6 @@
 - [Gurugram road rage caught on camera as car hits woman biker, driver flees: ‘He kept making hand gestures'](https://www.livemint.com/news/india/gurugram-road-rage-caught-on-camera-as-car-hits-woman-biker-driver-flees-he-kept-making-hand-gestures-11789367108481.html)
 - [Kargil veteran assaulted in Gurugram: Parking staff allegedly hit 'Op Safed Sagar' hero with iron rod](https://www.livemint.com/news/india/kargil-veteran-assaulted-in-gurugram-parking-staff-allegedly-hit-op-safed-sagar-hero-with-iron-rod-11789363628748.html)
 - [From missing Apple internship to joining Revolut: Meet engineering student who landed  ₹4.5 lakh monthly opportunity](https://www.livemint.com/news/trends/from-missing-apple-internship-to-joining-revolut-meet-engineering-student-who-landed-4-5-lakh-monthly-opportunity-11789356552584.html)
-- [Meet Vedaant Madhavan: How R Madhavan’s son is preparing for Asian Games with 4am discipline](https://www.livemint.com/news/trends/meet-vedaant-madhavan-how-r-madhavan-s-son-is-preparing-for-asian-games-with-4am-discipline-11789356388412.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,8 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಉತ್ತರ ಪ್ರದೇಶದ ಎರಡು ಕೇಂದ್ರಗಳಿಂದ 60 ಲಕ್ಷ ರೂ. ಮೌಲ್ಯದ ಗೋಧಿ ನಾಪತ್ತೆ; ಪೊಲೀಸರಿಂದ ತನಿಖೆ](https://www.varthabharati.in/National/wheat-about-60-lakhs-is-missing-from-two-centers-in-up-2275160)
+- [ವಿದ್ಯುತ್ ಕಡಿತಕ್ಕೆ ಕೇರಳ ಮುಖ‍್ಯಮಂತ್ರಿ ನೃತ್ಯ ಮಾಡುತ್ತಿರುವ ವೈರಲ್ AI ವಿಡಿಯೊಗೆ Meta ನಿರ್ಬಂಧ!](https://www.varthabharati.in/National/ai-video-of-kerala-cm-dancing-for-electricity-tariff-2275158)
 - [Rajasthan | ನಗರ ಸ್ಥಳೀಯ ಸಂಸ್ಥೆಗಳ ಚುನಾವಣೆಯಲ್ಲಿ ಬಿಜೆಪಿಗೆ ಮುನ್ನಡೆ: ಮಹಾನಗರ ಪಾಲಿಕೆಗಳ ಪೈಕಿ 5ರಲ್ಲಿ ಬಿಜೆಪಿ, 3ರಲ್ಲಿ ಕಾಂಗ್ರೆಸ್ ಮೇಲುಗೈ](https://www.varthabharati.in/National/bjp-takes-lead-in-urban-local-body-elections-the-bjp-leads-in-5-congress-in-3-2275155)
 - [Yadgiri | ದೇವಸ್ಥಾನಕ್ಕೆ ತೆರಳಿದ್ದ ದಲಿತರ ಮೇಲೆ ಮಾರಣಾಂತಿಕ ಹಲ್ಲೆ ಆರೋಪ; 10ಕ್ಕೂ ಹೆಚ್ಚು ಮಂದಿಗೆ ಗಾಯ](https://www.varthabharati.in/yadagir/yadgiri-2275154)
 - [ದಿಶಾ ಸಾಲ್ಯಾನ್ ಸಾವಿನ ಪ್ರಕರಣ: ಎಫ್ಐಆರ್ ದಾಖಲಿಸಿಕೊಂಡ CBI](https://www.varthabharati.in/national/cbi-registers-fir-takes-probe-from-mumbai-police-in-disha-salian-case-2275152)
@@ -106,39 +108,37 @@
 - [ಮೂಡುಬಿದಿರೆ: 63 ನೇ ವರ್ಷದ ಸಾರ್ವಜನಿಕ ಶ್ರೀ ಗಣೇಶೋತ್ಸವಕ್ಕೆ ಚಾಲನೆ](https://www.varthabharati.in/DakshinaKannada/moodubidire-63rd-annual-public-sri-ganeshotsava-2275149)
 - [ಲ್ಯಾಂಡಿಂಗ್ ವೇಳೆ ದಿಢೀರ್ ಕೆಳಕ್ಕೆ ಕುಸಿದ ವಿಮಾನ!; ಪ್ರಯಾಣಿಕರ ಕಿರುಚಾಟದ ವೀಡಿಯೋ ವೈರಲ್](https://www.varthabharati.in/international/turkish-airplane-plummets-during-landing-in-tunisia-passengers-panics-2275148)
 - [ಲಾಠಿ ಹಿಡಿಯಬೇಕಿದ್ದ ಕೈಯಲ್ಲಿ ಪುಸ್ತಕ: ಮಾಜಿ ಪೊಲೀಸ್ ಈಗ ಕೊಡಗಿನ ಬೆಸ್ಟ್ ಟೀಚರ್](https://www.varthabharati.in/nimma-ankana/former-policeman-is-now-the-best-teacher-in-kodagu-2275145)
-- [ಸಚಿವ ಸತೀಶ್ ಜಾರಕಿಹೊಳಿ ವಿರುದ್ಧ ED ದಾಳಿ ಖಂಡಿಸಿ ದಲಿತ ಸೇನೆ ವತಿಯಿಂದ ಪ್ರತಿಭಟನೆ](https://www.varthabharati.in/bidar/dalit-sene-protests-against-the-ed-raid-on-minister-satish-jarkiholi-2275144)
-- [ಟ್ರಂಪ್ ಹೇಳಿಕೆಯ ಬೆನ್ನಲ್ಲೇ ಸ್ಕಾಟ್ಲೆಂಡ್, ವೇಲ್ಸ್ , ಉತ್ತರ ಐರ್ಲೆಂಡ್ ನ ನಾಯಕರ ಸಭೆ; UK ವಿಭಜನೆಯ ಚರ್ಚೆ ಮುನ್ನೆಲೆಗೆ: ವರದಿ](https://www.varthabharati.in/international/scotland-wales-ireland-leaders-meet-following-trump-statement-2275142)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Gurugram (9.1)
+- Gurugram (7.8)
 - Emkay Global Financial (5.0)
+- India (3.9)
+- Aaditya Thackeray (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
 - What (2.9)
 - BRICS (2.9)
-- Friend (2.6)
-- India (2.6)
-- Putin (2.6)
+- Pakistan (2.6)
+- Sept (2.6)
 - Opinion (2.6)
+- Hindi (2.6)
 - Rajasthan (2.6)
-- Aaditya Thackeray (2.0)
-- Amit Shah (2.0)
+- Pakistan-origin (2.6)
 - Ganesh Chaturthi (2.0)
-- Buy Bajaj Finance (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [iPhone 18 Pro in India: Jio, Airtel and Vi Show No Offer This Weekend, and Where the Cashback Sits](https://www.macobserver.com/news/iphone-18-pro-india-jio-airtel-vi-no-offer-weekend/)
+- [तृणमूल कांग्रेस विवाद: चुनाव आयोग ने नहीं दिया अंतरिम आदेश, उपचुनाव में पार्टी चिह्न पर लड़ेंगे उम्मीदवार?](https://www.jagran.com/news/national-ec-no-interim-order-on-tmc-dispute-candidates-use-party-symbol-40372445.html)
+- [२०२९ पूर्वी समान नागरी कायदा, भाजपशासित राज्यांसाठी अमित शहा यांची घोषणा](https://www.loksatta.com/mumbai/uniform-civil-code-bjp-ruled-states-2029-amit-shah-announcement-css-98-6135551/)
+- [வாசகர்களின் கேள்விகளுக்கு அந்துமணி பதில்கள்](https://www.dinamalar.com/news/premium-news/answers-to-readersquestions/4322277)
 - [അഞ്ചുകോടിയുടെ എംഡിഎംഎ ഇടപാട്; നഴ്സിങ് പഠനത്തിന് പോയ സൂര്യ ഏറെക്കാലമായി അജ്മലിനൊപ്പം നോയിഡയിൽ](https://www.asianetnews.com/kerala-news/kozhikode-mdma-case-nursing-student-and-friend-arrested-articleshow-dyiq4cm)
 - [தனிநபர் உத்தரவாத கடன் திவால் நடைமுறைக்கு கட்டுப்பாடுகள்](https://www.dinamalar.com/news/business-general-news/restrictions-on-the-practice-of-personal-guarantee-loan-insolvency/4322265)
 - [22 ஆண்டுகள் உறைந்திருந்த கருவின் மூலம் குழந்தை பெற்ற பெண்](https://www.dailythanthi.com/news/world/greek-woman-54-gives-birth-using-embryo-frozen-for-22-years-after-losing-son-in-road-crash)
 - [ബോറിസ് ജോൺസൺ സഞ്ചരിച്ച ട്രെയിനിന് സമീപം റഷ്യൻ ഡ്രോൺ ആക്രമണം; ഒഴിവായത് വൻ ദുരന്തം](https://www.mathrubhumi.com/news/world/boris-johnson-russian-drone-strike-ukraine-train-wlmd8puu)
 - [Xi's 5-point action plan for Brics may see red flags go up in India](https://timesofindia.indiatimes.com/india/xis-5-point-action-plan-for-brics-may-see-red-flags-go-up-in-india/articleshow/134225006.cms)
 - [कैंसर की नकली दवा सप्लाई करने वाले रैकेट का भंडाफोड़, जांच के दायरे में आए बेंगलुरु के कई अस्पताल, एक गिरफ्तार](https://www.aajtak.in/india/news/story/bengaluru-police-crackdown-fake-cancer-drug-racket-hospitals-under-scanner-ntc-ntyv-rpti-2642279-2026-09-14)
-- [லண்டன் சென்றுள்ள முதல்வர் விஜய் தொழில் முதலீடுகளை ஈர்த்ததாக தெரியவில்லை: பழனிசாமி, நயினார் விமர்சனம்](https://www.hindutamil.in/news/tamilnadu/eps-nainar-no-evidence-cm-vijay-attracted-business-investments-during-london-visit)
-- [Talks between Iran and Gulf countries in Oman postponed ‘in the interests of consensus’](https://www.thehindu.com/news/international/talks-between-iran-and-gulf-countries-in-oman-postponed-in-the-interests-of-consensus/article71464526.ece)
-- [പാക് ക്രിക്കറ്റ് ബോർഡ് ചെയ‍‍ർമാൻ മൊഹ്സിൻ നഖ്‍വിയിൽനിന്ന് ട്രോഫി വാങ്ങാൻ വിസമ്മതിച്ച് ഇന്ത്യൻ വനിതകളും; 2025-ന് സമാനം](https://www.asianetnews.com/cricket-sports/womens-asia-cup-indian-team-refused-to-take-trophy-from-pakistan-mohsin-naqvi-articleshow-26lvcox)
-- [ముంబై గణేశుడికి 703 కోట్ల బీమా](https://www.ntnews.com/national/mumbai-ganesh-idol-insured-for-record-rs-703-crore-2510469)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
