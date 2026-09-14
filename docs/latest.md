@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-14 13:37:19
+# India Trending Report — 2026-09-14 14:02:26
 
 ## Google Trends (India) — top trending searches
-1. [बीबीसी](https://trends.google.com/trending/rss?geo=IN)
-2. [न्यायाधीश](https://trends.google.com/trending/rss?geo=IN)
-3. [கனிமொழி சந்தோஷ்](https://trends.google.com/trending/rss?geo=IN)
-4. [जयंत चौधरी](https://trends.google.com/trending/rss?geo=IN)
-5. [moon](https://trends.google.com/trending/rss?geo=IN)
-6. [lottery result](https://trends.google.com/trending/rss?geo=IN)
-7. [today's moon](https://trends.google.com/trending/rss?geo=IN)
-8. [ఎస్. ఎస్. రాజమౌళి](https://trends.google.com/trending/rss?geo=IN)
-9. [6](https://trends.google.com/trending/rss?geo=IN)
-10. [pm](https://trends.google.com/trending/rss?geo=IN)
+1. [sam altman](https://trends.google.com/trending/rss?geo=IN)
+2. [nvidia share price](https://trends.google.com/trending/rss?geo=IN)
+3. [eng vs sl](https://trends.google.com/trending/rss?geo=IN)
+4. [ganpati bappa aarti](https://trends.google.com/trending/rss?geo=IN)
+5. [இங்கிலாந்து கிரிக்கெட் அணி](https://trends.google.com/trending/rss?geo=IN)
+6. [मसूद अज़हर](https://trends.google.com/trending/rss?geo=IN)
+7. [cat 2026](https://trends.google.com/trending/rss?geo=IN)
+8. [बीबीसी](https://trends.google.com/trending/rss?geo=IN)
+9. [aditya thackeray](https://trends.google.com/trending/rss?geo=IN)
+10. [न्यायाधीश](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Kejriwal-Sardesai Goa gambit: Attack defections, welcome rivals](https://timesofindia.indiatimes.com/india/kejriwal-sardesai-goa-gambit-attack-defections-welcome-rivals/articleshow/134241032.cms)
-- [AIADMK targets Vijay over UK trip, claims he signed MoU with 'Noida-based' firm](https://timesofindia.indiatimes.com/india/aiadmk-targets-vijay-over-uk-trip-claims-he-signed-mou-with-noida-based-firm/articleshow/134242017.cms)
-- ['Someone from that ward voted for me': BJP candidate gets 1 vote in Rajasthan](https://timesofindia.indiatimes.com/india/someone-from-that-ward-voted-for-me-bjp-candidate-gets-1-vote-in-rajasthan-local-body-polls/articleshow/134239745.cms)
-- [UP polls and the fight for Muslim votes: Decoding SP, Congress's Owaisi problem](https://timesofindia.indiatimes.com/india/up-assembly-elections-and-fight-for-muslim-votes-decoding-sp-congresss-owaisi-problem/articleshow/134239210.cms)
-- [India’s retail inflation rises to 4.82%, wholesale inflation climbs to 9.92%](https://timesofindia.indiatimes.com/business/india-business/indias-retail-inflation-rises-to-4-82-wholesale-inflation-climbs-to-9-92/articleshow/134241039.cms)
+- [Gurgaon hit-and-run: Biker's father seeks attempt to murder charge against driver](https://timesofindia.indiatimes.com/city/gurgaon/it-was-intentional-biker-sias-father-seeks-attempt-to-murder-charge-against-gurgaon-car-driver/articleshow/134241414.cms)
+- [Munir fails Mecca test: Why Pak's field marshal is not riding to rescue MBS](https://timesofindia.indiatimes.com/world/pakistan/munir-fails-mecca-test-why-pakistans-field-marshal-is-not-riding-to-rescue-mbs/articleshow/134239939.cms)
+- [CM Vijay's UK trip: AIADMK's claim of 'MoU with Noida-based firm' triggers new row](https://timesofindia.indiatimes.com/india/aiadmk-targets-vijay-over-uk-trip-claims-he-signed-mou-with-noida-based-firm/articleshow/134242017.cms)
+- [Varun Chakaravarthy ruled out of Afghanistan T20I series](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/varun-chakaravarthy-ruled-out-of-afghanistan-t20i-series/articleshow/134242263.cms)
 - [Anthropic says Claude AI used to build missiles, hunt Uyghurs and spy on phones](https://timesofindia.indiatimes.com/technology/tech-news/anthropic-says-claude-ai-was-used-to-build-missiles-hunt-uyghurs-and-spy-on-25-million-phones-5-shocking-cases-from-its-new-threat-report/articleshow/134239642.cms)
 - [EPFO launches WhatsApp channel for PF updates; here’s how to join](https://timesofindia.indiatimes.com/business/india-business/epfo-has-an-official-whatsapp-channel-for-pf-updates-heres-how-to-join-and-get-educational-information-on-epf-advance-withdrawals-and-more/articleshow/134239048.cms)
-- [Why Team India player was penalised after Women's Asia Cup final](https://timesofindia.indiatimes.com/sports/cricket/news/why-team-india-player-was-penalised-after-womens-asia-cup-final/articleshow/134240204.cms)
-- [‘Your collective voice’: Rahul invites students to ‘Chhatron Ki Goonj’ in Indore](https://timesofindia.indiatimes.com/india/your-collective-voice-rahul-gandhi-invites-students-to-chhatron-ki-goonj-in-indore/articleshow/134241573.cms)
-- ['Won't reveal my face, will file FIR today': Gurgaon woman biker issues statement after hit-and-run](https://timesofindia.indiatimes.com/city/gurgaon/wont-reveal-my-face-will-file-fir-today-gurgaon-woman-biker-issues-statement-after-hit-and-run/articleshow/134238962.cms)
+- [Mother dies a day after voting, son wins Rajasthan civic poll by just 1 vote](https://timesofindia.indiatimes.com/india/mother-dies-a-day-after-voting-son-wins-rajasthan-civic-poll-by-just-1-vote/articleshow/134242092.cms)
+- [Mohammad Rizwan breaks silence on cybercrime agency probe: 'I am fully cooperating'](https://timesofindia.indiatimes.com/sports/cricket/news/mohammad-rizwan-breaks-silence-on-cybercrime-agency-probe-i-am-fully-cooperating/articleshow/134242213.cms)
+- ['Someone from that ward voted for me': BJP candidate gets 1 vote in Rajasthan](https://timesofindia.indiatimes.com/india/someone-from-that-ward-voted-for-me-bjp-candidate-gets-1-vote-in-rajasthan-local-body-polls/articleshow/134239745.cms)
 
 **NDTV**
 - [Pak Increases Bounty On Jaish Chief Masood Azhar Weeks Ahead Of FATF Meet](https://www.ndtv.com/world-news/pak-announces-pkr-7-million-bounty-on-terror-group-jaish-chief-masood-azhar-12044683#publisher=newsstand)
@@ -38,7 +38,8 @@
 - ["Kabaddi Player": What We Know About Gurugram Hit-And-Run Accused Kalyan Bainsla](https://www.ndtv.com/india-news/kalyan-bainsla-sia-gurugram-biker-hit-and-run-what-we-know-about-gurugram-hit-and-run-accused-kalyan-bainsla-12044425#publisher=newsstand)
 
 **Hindustan Times**
-- [Gurugram biker crash accused denies ‘intentionally' ramming rider: ‘Didn't know it was a woman'](https://www.hindustantimes.com/india-news/gurugram-biker-crash-hit-and-run-accused-denies-intentionally-ramming-rider-didnt-know-it-was-a-woman-101789387716909.html)
+- [Chai, hugs, handshakes: Unseen clips of PM Modi interacting with world leaders at BRICS Summit](https://www.hindustantimes.com/india-news/chai-hugs-handshakes-unseen-clips-of-pm-modi-interacting-with-world-leaders-at-brics-summit-101789378897415.html)
+- [Gurugram bike crash accused denies ‘intentionally' ramming rider: ‘Didn't know it was a woman'](https://www.hindustantimes.com/india-news/gurugram-biker-crash-hit-and-run-accused-denies-intentionally-ramming-rider-didnt-know-it-was-a-woman-101789387716909.html)
 - [BRICS 2026: India’s summit and the push for dialogue in a fragmented world](https://www.hindustantimes.com/india-news/brics-2026-india-s-summit-and-the-push-for-dialogue-in-a-fragmented-world-101789389291713.html)
 - [HT Evening Brief Sept 14: Gurugram Police deny inaction in biker case; Kangana Ranaut calls Rakhi Sawant ‘bitter’](https://www.hindustantimes.com/india-news/ht-evening-brief-sept-14-gurugram-police-deny-inaction-in-biker-case-kangana-ranaut-calls-rakhi-sawant-bitter-101789386273677.html)
 - [Gen Z enters Jaipur Municipal Corporation as 21-year-old Faiz Hasan wins Ward 71](https://www.hindustantimes.com/india-news/gen-z-enters-jaipur-municipal-corporation-as-21-year-old-faiz-hasan-wins-ward-71-101789380412067.html)
@@ -47,7 +48,6 @@
 - [Farmers start dharna outside Punjab minister's office in Hoshiarpur](https://www.hindustantimes.com/india-news/farmers-start-dharna-outside-punjab-minister-s-office-in-hoshiarpur-101789385673153.html)
 - [Fight breaks out over pet dog in Ghaziabad high-rise elevator, video goes viral](https://www.hindustantimes.com/india-news/fight-breaks-out-over-dog-in-ghaziabad-high-rise-elevator-video-goes-viral-101789384745115.html)
 - [Chhattisgarh CM directs collectors to monitor road conditions, keep them motorable during monsoon](https://www.hindustantimes.com/india-news/chhattisgarh-cm-directs-collectors-to-monitor-road-conditions-keep-them-motorable-during-monsoon-101789383954160.html)
-- [‘Accused will be identified, held’: Police deny inaction in Gurugram biker case](https://www.hindustantimes.com/india-news/accused-will-be-identified-held-police-deny-inaction-in-gurugram-biker-case-car-kalyan-bainsla-singh-friend-news-101789380393381.html)
 
 **Vijay Karnataka**
 - [ನಾವಿನ್ನೂ ಪಾಕಿಸ್ತಾನದ ಜೊತೆ ಕ್ರಿಕೆಟ್‌ ಏಕೆ ಆಡುತ್ತಿದ್ದೇವೆ? ಏಷ್ಯಾ ಕಪ್‌ ವಿವಾದದ ಬಳಿಕ ಅಸಾದುದ್ದೀನ್‌ ಓವೈಸಿ ಖಡಕ್‌ ಪ್ರಶ್ನೆ!](https://vijaykarnataka.com/sports/cricket/news/asaduddin-owaisi-asks-why-india-playing-cricket-with-pakistan-after-asia-cup-trophy-row/articleshow/134240594.cms)
@@ -74,6 +74,9 @@
 - [Rajasthan Urban Local Body polls results: BJP edges past Congress; counting under way at many wards](https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-poll-congress-bjp-vote-counting-results-update-september-14-2026/article71465801.ece)
 
 **Livemint**
+- [Kharif sowing gap narrows, but key crops lag](https://www.livemint.com/news/kharif-sowing-gap-narrows-but-key-crops-lag-11789362798728.html)
+- [Partition in UK? Scotland, Wales and Northern Ireland push for exit from United Kingdom, ‘Europe is our common home’](https://www.livemint.com/news/world/partition-in-uk-scotland-wales-and-northern-ireland-push-for-exit-from-united-kingdom-europe-is-our-common-home-11789392780803.html)
+- [Pakistan sets  ₹7 million bounty on Masood Azhar ahead of FATF review: Terrorist linked to Pathankot, Pulwama attacks](https://www.livemint.com/news/world/pakistan-sets-7-million-bounty-on-masood-azhar-ahead-of-fatf-review-terrorist-linked-to-pathankot-pulwama-attacks-11789391263647.html)
 - [Western Australia steps up India push with critical minerals, trade in focus](https://www.livemint.com/news/india/western-australia-steps-up-india-push-with-critical-minerals-trade-in-focus-11789382067585.html)
 - [Reservoir levels recover, but water storage remains below normal](https://www.livemint.com/news/india/india-reservoir-levels-september-2026-cwc-water-storage-rabi-irrigation-hydropower-monsoon-rainfall-11789378597073.html)
 - [US pilot reveals how he survived 50 hours with a broken back in Iranian mountains after being shot down by enemy forces](https://www.livemint.com/news/world/us-pilot-reveals-how-he-survived-50-hours-with-a-broken-back-in-iranian-mountains-after-being-shot-down-by-enemy-forces-11789380923396.html)
@@ -81,9 +84,6 @@
 - [Operation Deep Manifest: DRI seizes 362 metric tonnes of Pakistan-origin dry dates in Nashik routed via UAE](https://www.livemint.com/news/india/operation-deep-manifest-dri-seizes-362-metric-tonnes-pakistan-origin-dry-dates-in-nashik-11789375195424.html)
 - [Former Tehelka editor-in-chief Tarun Tejpal surrenders before Goa court to serve a 10-year sentence](https://www.livemint.com/news/india/former-tehelka-editor-in-chief-tarun-tejpal-surrenders-before-goa-court-to-serve-a-10-year-sentence-11789375769167.html)
 - [23 WFH staff quit after billionaire John Morgan installs camera on laptop to monitor remote employees](https://www.livemint.com/news/trends/23-wfh-staff-quit-after-billionaire-john-morgan-installs-camera-on-laptop-to-monitor-remote-employees-11789372016789.html)
-- [‘The millennial middle manager has it the worst’: Viral video hits a nerve, sparks AI work debate](https://www.livemint.com/news/trends/the-millennial-middle-manager-has-it-the-worst-viral-video-hits-a-nerve-sparks-ai-work-debate-11789376389188.html)
-- [Uniform Civil Code: Amit Shah targets 2029 rollout across 21 NDA states – Where is UCC already in force?](https://www.livemint.com/news/india/uniform-civil-code-amit-shah-targets-2029-rollout-across-21-nda-states-where-is-ucc-already-in-force-11789372433501.html)
-- [Saudi-Houthis clash: Traders expect Riyadh to run out of oil stocks soon if work on east-west pipeline doesn't resume](https://www.livemint.com/news/world/saudihouthis-clash-traders-expect-riyadh-to-run-out-of-oil-stocks-soon-if-work-on-east-west-pipeline-doesnt-resume-11789372007752.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -110,35 +110,35 @@
 - [ಜಮಾಅತೆ ಇಸ್ಲಾಮೀ ಹಿಂದ್ ಸಮಾವೇಶ | ಸೆ.18: ಪಾಣೆಮಂಗಳೂರಿಗೆ ಅಬ್ದುಲ್ ಹಕೀಮ್ ನದ್ವಿ ಆಗಮನ](https://www.varthabharati.in/DakshinaKannada/-18--2275171)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Gurugram (5.4)
 - Emkay Global Financial (5.0)
-- India (4.2)
+- Rajasthan (4.2)
+- Gurugram (4.1)
 - ICICI Securities (3.0)
 - target (3.0)
 - Attack (2.9)
-- Rajasthan (2.9)
+- India (2.6)
 - Farmers (2.6)
 - Hoshiarpur (2.6)
 - Pakistan-origin (2.6)
 - Rebel Trinamool MP (2.0)
-- Amit Shah (2.0)
 - Buy Bajaj Finance (2.0)
 - Punjab (1.9)
-- Police (1.9)
+- Hit-And-Run (1.9)
+- FATF (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [બોલને બંને તરફ સ્વિંગ કરવામાં માહિર યશ ઠાકુરનો પરિવાર જુઓ](https://tv9gujarati.com/photo-gallery/indian-cricketer-yash-thakur-family-tree-1513410.html)
-- [அமெரிக்க ஓபன் டென்னிஸ்: கஜகஸ்தான் வீராங்கனை ரைபகினா சாம்பியன்](https://www.hindutamil.in/news/sports/us-open-tennis-elena-rybakina-won-champion-in-womens-single)
-- [आज का मौसम 14 सितंबर: 10 घंटे के अंदर 17 राज्यों में मूसलाधार बारिश का अलर्ट, 65 की स्पीड से हवा; IMD का अपडेट](https://navbharattimes.indiatimes.com/india/today-weather-14-september-2026-thunderstorm-and-heavy-rain-alert-in-17-states-within-10-hours-wind-speed-up-to-65-kmph-delhi-up-bihar-temperature/articleshow/134230276.cms)
-- [உலகக்கோப்பை வில்வித்தையில் தங்கம் வென்று வரலாறு படைத்த தீரஜ்](https://www.dailythanthi.com/sports/othersports/dheeraj-makes-history-with-gold-in-world-cup-archery)
-- [जयपुर नगर निगम चुनाव रिजल्ट 2026: BJP का दबदबा, 150 वार्डों के नतीजे जल्द होंगे साफ](https://www.indiatv.in/rajasthan/jaipur-nagar-nigam-election-result-2026-live-updates-2026-09-14-1243065)
-- [Weather Update : ਅੱਜ ਪੰਜਾਬ ਦੇ ਅੱਧੇ ਤੋਂ ਵੱਧ ਜ਼ਿਲ੍ਹਿਆਂ ਵਿੱਚ ਮੀਂਹ ਪੈਣ ਦੀ ਸੰਭਾਵਨਾ ; ਚੰਡੀਗੜ੍ਹ ‘ਚ ਛਾਏ ਰਹਿਣਗੇ ਬੱਦਲ](https://wishavwarta.in/rain-likely-i-punjab-districts-today/)
-- [Rain Alert Today: ১০ জেলায় বৃষ্টির সম্ভাবনা, কলকাতায় কখন শুরু হবে? জানুন আবহাওয়ার আপডেট](https://bangla.aajtak.in/west-bengal/story/rain-alert-today-in-kolkata-and-other-district-north-and-south-bengal-weather-forecast-abk-1450342-2026-09-14)
-- [સાપ્તાહિક રાશિફળ: 14થી 20 સપ્ટેમ્બર 2026, જાણો આ સપ્તાહનું તમારું રાશિ ભવિષ્ય](https://www.gujaratsamachar.com/news/astro/weekly-horoscope-14th-to-20th-september-2026-know-your-horoscope-for-this-week-38077881233)
-- [‘We are the champions’: Amol Muzumdar backs BCCI stand as India skip Women’s Asia Cup trophy presentation with Mohsin Naqvi](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/we-stand-by-it-amol-muzumdar-backs-bcci-stand-as-india-skip-womens-asia-cup-trophy-presentation-with-mohsin-naqvi/articleshow/134230274.cms)
-- [UK Breakup | ముక్కలు కానున్న యూకే?.. రెఫరెండం కోసం ఐరిష్‌, స్కాటిష్‌, వేల్స్‌ నాయకుల పట్టు](https://www.ntnews.com/international/scottish-and-welsh-leaders-push-for-referendums-2510457)
+- [West Bengal News Live : আপাতত ২৫২টি মাদ্রাসা বন্ধের নির্দেশ রাজ্যের](https://bengali.abplive.com/district/west-bengal-news-live-14-september-2026-tmc-s-symbol-tussle-nandigram-rejinagar-by-election-suvendu-adhikari-mamata-banerjee-1192730)
+- [Maharashtra News Live Update: नागपुरात अतिक्रमणधारकांविरोधात मनपा-पोलिसांची कठोर कारवाई](https://saamtv.esakal.com/maharashtra/maharashtra-latest-live-news-updates-today-14th-september-2026-ganesh-chaturthi-2026-amit-shaha-mumbai-visit-manoj-jarange-patil-mumbai-jalana-protest-today-hunger-strike-maratha-reservation-heavy-rain-alert-mumbai-pune-thane-solapur-kolhapur-nashik-nagpur-latur-local-crime-politics-latest-breaking-news)
+- [Mohsin Naqvi Team India Asia Cup 2026: मोहसीन नक्वीला स्टेजवर पाहताच स्मृती मानधना माघारी फिरली, टीम इंडियाचा ट्रॉफी घ्यायला नकार, दुबईच्या मैदानात हायव्होल्टेज ड्रामा](https://marathi.abplive.com/sports/cricket/indian-women-team-refuse-to-take-asia-cup-2026-trophy-from-mohsin-naqvi-big-drama-in-dubai-after-asia-cup-final-smriti-mandhana-turns-back-from-stage-team-india-marathi-news-1439032)
+- [मिसाइल, तोप और ड्रोन से उत्तर कोरिया का शक्ति प्रदर्शन, उसी दिन दक्षिण कोरिया ने भी दागीं बैलिस्टिक मिसाइलें](https://www.aajtak.in/world/story/north-korea-live-fire-drill-artillery-drones-south-korea-ballistic-missiles-ntc-dhrj-dskc-2642298-2026-09-14)
+- [Oversold Nifty could see a short-term rebound: Analysts](https://economictimes.indiatimes.com/markets/stocks/news/market-outlook-analysts-pick-key-levels-and-stocks-to-watch/articleshow/134230304.cms?from=mdr)
+- [Akshay Kumar Fan Leave Fandom And Wrote Letter ; कट्टर चाहत्याने सोडलं अक्षय कुमारचं फॅनडम, खुलं पत्र लिहून सांगितलं कारण, वैयक्तिक आयुष्यावर परिणाम](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/akshay-kumar-fan-leaves-fandom-and-wrote-open-letter-to-actor-with-reason/articleshow/134230369.cms)
+- [हम भारत में है या पाकिस्तान में? कर्नाटक में कांग्रेस सरकार ने लगाईं गणेश चतुर्थी जुलूस पाबंदियां तो भड़की BJP](https://navbharattimes.indiatimes.com/state/karnataka/bengaluru/are-we-living-india-or-pakistan-r-ashok-asks-congress-govt-on-karnataka-ganapati-procession-row/articleshow/134230467.cms)
+- [‘Trophy chor’ comes back again: Fans chant at Mohsin Naqvi after India women’s Asia Cup triumph](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/trophy-chor-comes-back-again-fans-chant-at-mohsin-naqvi-after-india-womens-asia-cup-triumph/articleshow/134230443.cms)
+- [27 के चुनाव से पहले इस राज्य में भाजपा के लिए गुड न्यूज, सर्वे में बंपर सीटें; हर पीढ़ी साथ दिखी](https://www.livehindustan.com/uttarakhand/bjp-gets-good-news-ahead-uttarakhand-elections-2027-survey-predicts-54-seats-201789349851393.html)
+- [Aaj Nu Rashifal: તુલા અને ધન સહિત આ રાશિઓ પરવરસશે બાપ્પાની કૃપા, જાણો તમામ 12 રાશિઓનું રાશિફળ](https://gujarati.abplive.com/astro/dharam-jyotish/aaj-nu-rashifal-14-september-2026-ganesh-chaturthi-horoscope-in-gujarati-991139)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
