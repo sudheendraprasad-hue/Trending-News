@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-09-14 23:02:08",
+  "generated_at": "2026-09-14 23:31:58",
   "google_trends": [
+    {
+      "title": "\u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23 \u0c2a\u0c4d\u0c30\u0c2d\u0c41\u0c24\u0c4d\u0c35\u0c02",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "villarreal cf vs real betis standings",
       "traffic": null,
@@ -22,12 +27,12 @@
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "dow jones index",
+      "title": "nbems neet pg answer key",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "nbems neet pg answer key",
+      "title": "leeds united",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
@@ -45,11 +50,6 @@
       "title": "leeds vs newcastle",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "villarreal vs betis",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
     }
   ],
   "outlets": {
@@ -63,8 +63,24 @@
         "link": "https://timesofindia.indiatimes.com/india/3-cong-cms-invited-to-brics-dinner-but-they-didnt-turn-up/articleshow/134247911.cms"
       },
       {
+        "title": "CBI files FIR in Disha Salian's death case after HC order",
+        "link": "https://timesofindia.indiatimes.com/india/cbi-files-fir-in-disha-salians-death-case-after-hc-order/articleshow/134249326.cms"
+      },
+      {
         "title": "Scotland, Northern Ireland and Wales sign historic MoU to break away from UK",
         "link": "https://timesofindia.indiatimes.com/world/uk/scotland-northern-ireland-and-wales-sign-mou-to-break-away-from-uk/articleshow/134247408.cms"
+      },
+      {
+        "title": "Homeless pianist went viral after church performance; 2 years later, he has a home",
+        "link": "https://timesofindia.indiatimes.com/world/uk/in-january-2024-a-homeless-man-played-piano-at-a-church-in-uk-on-a-freezing-night-2-years-after-his-video-went-viral-he-has-raised-50000-for-charity-and-found-a-home/articleshow/134233771.cms"
+      },
+      {
+        "title": "Oracle layoffs: Employees receive \u20186am job cuts\u2019 email from Oracle leadership again",
+        "link": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms"
+      },
+      {
+        "title": "Monsoon withdrawal may begin this weekend: IMD",
+        "link": "https://timesofindia.indiatimes.com/india/monsoon-withdrawal-may-begin-this-weekend-imd/articleshow/134249372.cms"
       },
       {
         "title": "US rejects IRGC claim that Panama-flagged tanker hit naval mine",
@@ -75,24 +91,8 @@
         "link": "https://timesofindia.indiatimes.com/india/voluminous-evidence-in-graft-cases-leading-to-long-pendency-sc/articleshow/134249276.cms"
       },
       {
-        "title": "Oracle layoffs: Employees receive \u20186am job cuts\u2019 email from Oracle leadership again",
-        "link": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms"
-      },
-      {
-        "title": "Cong rejects TMC proposal for bypoll pact",
-        "link": "https://timesofindia.indiatimes.com/india/cong-rejects-proposal-from-didis-party-for-bypoll-pact/articleshow/134248817.cms"
-      },
-      {
         "title": "ED arrests Bhupesh Baghels's ex-OSD for role in Chhattisgarh job scam",
         "link": "https://timesofindia.indiatimes.com/india/ed-arrests-ex-osd-of-baghel-for-role-in-chhattisgarh-job-scam/articleshow/134247722.cms"
-      },
-      {
-        "title": "India to export 654MW of power to flood-hit Nepal daily till Dec 31",
-        "link": "https://timesofindia.indiatimes.com/india/india-to-export-654mw-of-power-to-nepal-daily-till-dec-31/articleshow/134247739.cms"
-      },
-      {
-        "title": "Interim EC ruling on \u2018real TMC\u2019 likely on Sept 17",
-        "link": "https://timesofindia.indiatimes.com/india/interim-ec-ruling-on-real-tmc-likely-on-sept-17/articleshow/134249226.cms"
       }
     ],
     "NDTV": [
@@ -351,10 +351,6 @@
   },
   "keywords": [
     {
-      "term": "India",
-      "score": 5.5
-    },
-    {
       "term": "Report",
       "score": 5.2
     },
@@ -363,8 +359,8 @@
       "score": 4.2
     },
     {
-      "term": "Sept",
-      "score": 3.9
+      "term": "India",
+      "score": 4.2
     },
     {
       "term": "Delhi",
@@ -387,11 +383,15 @@
       "score": 2.6
     },
     {
-      "term": "Nepal",
+      "term": "Monsoon",
       "score": 2.6
     },
     {
       "term": "Gurugram",
+      "score": 2.6
+    },
+    {
+      "term": "Sept",
       "score": 2.6
     },
     {
@@ -414,44 +414,44 @@
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u0938\u093e\u0902\u0917\u0932\u0940\u091a\u094d\u092f\u093e \u0936\u094d\u0930\u0940 \u0917\u0923\u092a\u0924\u0940 \u092a\u0902\u091a\u093e\u092f\u0924\u0928 \u0938\u0902\u0938\u094d\u0925\u093e\u0928\u091a\u094d\u092f\u093e \u0909\u0924\u094d\u0924\u0930\u093e\u0927\u093f\u0915\u093e\u0930\u0940\u0935\u0930\u0942\u0928 \u092a\u091f\u0935\u0930\u094d\u0927\u0928 \u0915\u0941\u091f\u0941\u0902\u092c\u093e\u0924 \u0935\u093e\u0926\u093e\u091a\u0940 \u0920\u093f\u0923\u0917\u0940; \u0930\u093e\u091c\u0915\u0928\u094d\u092f\u093e \u092d\u093e\u0917\u094d\u092f\u0936\u094d\u0930\u0940\u0928\u0902 \u0906\u0930\u0924\u0940\u091a\u093e \u092e\u093e\u0928 \u092c\u091c\u093e\u0935\u0932\u094d\u092f\u093e\u0928\u0902 \u0935\u093e\u0926\u093e\u091a\u0940 \u0920\u093f\u0923\u0917\u0940, \u0935\u0921\u093f\u0932\u093e\u0902\u0928\u093e \u0932\u0947\u0915\u0940\u091a\u094d\u092f\u093e \u0924\u094d\u092f\u093e \u0935\u0915\u094d\u0924\u0935\u094d\u092f\u093e\u0928\u0902 \u0905\u0936\u094d\u0930\u0942 \u0905\u0928\u093e\u0935\u0930",
-      "link": "https://marathi.abplive.com/news/sangli/signs-of-a-brewing-dispute-within-the-patwardhan-family-over-the-succession-to-the-shri-ganpati-panchayatan-sansthan-in-sangli-bhagyashree-patwardhan-1439077"
+      "title": "Dev-Rukmini: '\u09b0\u09c1\u0995\u09cd\u09ae\u09bf\u09a3\u09c0 \u0995\u09cb\u09a5\u09be\u09af\u09bc?\u2019 \u09a6\u09c7\u09ac\u09c7\u09b0 \u09ac\u09be\u09a1\u09bc\u09bf \u0997\u09a3\u09c7\u09b6 \u09aa\u09c1\u099c\u09cb\u09af\u09bc \u0985\u09a8\u09c1\u09aa\u09b8\u09cd\u09a5\u09bf\u09a4 \u09aa\u09cd\u09b0\u09c7\u09ae\u09bf\u0995\u09be, \u09a6\u09c2\u09b0\u09a4\u09cd\u09ac \u09a8\u09bf\u09df\u09c7 \u099c\u09b2\u09cd\u09aa\u09a8\u09be",
+      "link": "https://www.hindustantimes.com/bangla/entertainment/where-is-rukmini-missing-from-devs-ganesh-puja-celebrations-actress-feeds-distance-rumours-but-here-is-the-truth-271789383225020.html"
     },
     {
-      "title": "Eesha Rebba: \u0c1c\u0c02\u0c1f\u0c17\u0c3e \u0c35\u0c3f\u0c28\u0c3e\u0c2f\u0c15 \u0c1a\u0c35\u0c3f\u0c24\u0c3f \u0c2a\u0c42\u0c1c \u0c1a\u0c47\u0c38\u0c3f\u0c28 \u0c08\u0c37\u0c3e \u0c30\u0c46\u0c2c\u0c4d\u0c2c\u0c3e, \u0c24\u0c30\u0c41\u0c23\u0c4d \u0c2d\u0c3e\u0c38\u0c4d\u0c15\u0c30\u0c4d.. \u0c21\u0c47\u0c1f\u0c3f\u0c02\u0c17\u0c4d\u200c\u0c2a\u0c48 \u0c39\u0c3f\u0c02\u0c1f\u0c4d \u0c07\u0c1a\u0c4d\u0c1a\u0c3f\u0c28\u0c1f\u0c4d\u0c1f\u0c47\u0c28\u0c3e?",
-      "link": "https://tv9telugu.com/entertainment/tollywood/eesha-rebba-and-tharun-bhascker-celebrate-vinayaka-chavithi-together-photos-goes-viral-1911241.html"
+      "title": "Dangerously Hot Days Are Now Bleeding Into Spring and Fall",
+      "link": "https://gizmodo.com/dangerous-heat-waves-are-now-bleeding-into-spring-and-fall-2000810784"
     },
     {
-      "title": "\u20b913000Cr \u092e\u0947\u0902 \u0938\u094c\u0926\u093e... \u0905\u092b\u094d\u0930\u0940\u0915\u093e \u0915\u0940 73 \u0938\u093e\u0932 \u092a\u0941\u0930\u093e\u0928\u0940 \u0915\u0902\u092a\u0928\u0940 \u0915\u094b \u0916\u0930\u0940\u0926\u0947\u0917\u0940 \u092d\u093e\u0930\u0924\u0940\u092f \u092b\u0930\u094d\u092e, \u0936\u0947\u092f\u0930 \u092a\u0930 \u0926\u093f\u0916\u0947\u0917\u093e \u0905\u0938\u0930!",
-      "link": "https://www.aajtak.in/business/news/story/solar-industries-to-buy-73-year-old-african-firm-omnia-holdings-impact-may-seen-on-share-tutc-dskc-2642614-2026-09-14"
+      "title": "Lata Mangeshkar Copy Song: \u0905\u092e\u0947\u0930\u093f\u0915\u0947\u0924 \u0915\u0949\u092a\u0940 \u0915\u0930\u0923\u094d\u092f\u093e\u0924 \u0906\u0932\u0947\u0932\u0902 \u0932\u0924\u093e \u092e\u0902\u0917\u0947\u0936\u0915\u0930\u093e\u0902\u091a\u0902 \u0939\u0947 \u0917\u093e\u0923\u0902, 4000 \u0915\u094b\u091f\u0940\u0902\u091a\u093e \u0916\u091f\u0932\u093e; \u0913\u0930\u093f\u091c\u093f\u0928\u0932\u092a\u0947\u0915\u094d\u0937\u093e\u0939\u0940 \u0930\u093f\u092e\u0947\u0915 \u0920\u0930\u0932\u0947\u0932\u093e \u0938\u0941\u092a\u0930\u0939\u093f\u091f",
+      "link": "https://marathi.abplive.com/entertainment/lata-mangeshkar-her-song-was-copied-in-the-us-4000-crore-copyright-case-filed-remake-became-bigger-hit-than-original-1439080"
     },
     {
-      "title": "\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u093e \u0928\u092f\u093e \u092a\u0948\u0902\u0924\u0930\u093e, \u0905\u092a\u0928\u0947 \u0939\u0940 \u092a\u093e\u0932\u0947 \u0906\u0924\u0902\u0915\u0940 \u092a\u0930 \u0930\u0916\u093e 70 \u0932\u093e\u0916 \u0930\u0941\u092a\u092f\u0947 \u0915\u093e \u0907\u0928\u093e\u092e; \u0915\u0948\u0938\u093e \u0916\u094c\u092b?",
-      "link": "https://www.livehindustan.com/international/pakistan-announces-reward-pkr-70-lakh-jem-chief-masood-azhar-new-most-wanted-list-201789382267728.html"
+      "title": "\u0915\u092a\u093f\u0932 \u0938\u093f\u092c\u094d\u092c\u0932 \u0928\u0947 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0917\u093f\u0928\u093e\u0908 PM \u092e\u094b\u0926\u0940 \u0915\u0940 \u0909\u092a\u0932\u092c\u094d\u0927\u093f\u092f\u093e\u0902, \u092c\u094b\u0932\u0947- \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u092c\u094b\u0932\u0947\u0902\u0917\u0947 \u0924\u094b \u0906\u0924\u0902\u0915\u0935\u093e\u0926 \u092c\u0922\u093c \u091c\u093e\u090f\u0917\u093e",
+      "link": "https://navbharattimes.indiatimes.com/india/kapil-sibal-rs-mp-list-pm-modi-govt-achievements-first-time-on-brics-summit-success/articleshow/134239988.cms"
     },
     {
-      "title": "\u09e7\u09e6 \u09b2\u0995\u09cd\u09b7 \u099f\u09be\u0995\u09be \u09ac\u09be\u099c\u09c7\u099f\u09c7 \u0995\u09cb\u09a8 \u0995\u09cb\u09a8 \u0997\u09be\u09dc\u09bf \u0986\u09aa\u09a8\u09be\u09b0 \u09ac\u09be\u099c\u09c7\u099f\u09c7",
-      "link": "https://eisamay.com/auto-news/top-5-cng-car-options-in-india-under-rupees-10-lacs/200542455.cms"
+      "title": "Pakistan Cricket Team : \u0a86\u0a9f\u0ab2\u0ac0 \u0a96\u0ab0\u0abe\u0aac \u0ab0\u0ac0\u0aa4\u0ac7 \u0aa4\u0acb \u0aaa\u0abe\u0a95\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8\u0aa8\u0ac0 \u0a95\u0acd\u0aaf\u0abe\u0ab0\u0ac7\u0aaf \u0a87\u0a9c\u0acd\u0a9c\u0aa4 \u0aa8\u0aa5\u0ac0 \u0a97\u0a87, \u0ab5\u0abe\u0a82\u0a9a\u0acb \u0ab8\u0a82\u0aaa\u0ac2\u0ab0\u0acd\u0aa3 \u0ab5\u0abf\u0a97\u0aa4",
+      "link": "https://www.gujaratfirst.com/cricket-news/pakistan-cricket-team-icc-action-slow-over-rate-11-wtc-points-deducted/339070/"
     },
     {
-      "title": "\u0938\u0921\u093c\u0915\u0947\u0902 \u0916\u094b\u0926\u0915\u0930 \u0926\u0915\u094d\u0937\u093f\u0923\u0940 \u092f\u0942\u0930\u094b\u092a \u0915\u0947 '\u0938\u092c\u0938\u0947 \u092c\u0921\u093c\u0947 \u0926\u0941\u0936\u094d\u092e\u0928' \u0938\u0947 \u0932\u0921\u093c \u0930\u0939\u093e \u092f\u0947 \u0926\u0947\u0936, \u0915\u093e\u092e \u0915\u0930 \u0917\u092f\u093e \u092f\u0947 \u0905\u091c\u092c \u0906\u0907\u0921\u093f\u092f\u093e",
-      "link": "https://navbharattimes.indiatimes.com/jungle-news/morocco-digging-up-its-streets-to-fight-heat-which-is-southern-europe-greatest-enemy/articleshow/134239268.cms"
+      "title": "BHU UG \u0b85\u0b9f\u0bcd\u0bae\u0bbf\u0bb7\u0ba9\u0bcd 2026: \u0bae\u0bbe\u0baa\u0bcd-\u0b85\u0baa\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb0 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0b9f\u0bc8\u0b9a\u0bbf \u0ba8\u0bbe\u0bb3\u0bcd - \u0b89\u0b9f\u0ba9\u0bc7 \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd!",
+      "link": "https://tamil.careerindia.com/news/bhu-ug-mop-up-round-2026-registration-deadline-today-apply-now-011-10783.html"
     },
     {
-      "title": "Inside Ambani family's grand Ganesh Chaturthi celebrations at Antilia with stunning lights and elaborate floral decor",
-      "link": "https://www.hindustantimes.com/lifestyle/art-culture/inside-ambani-familys-grand-ganesh-chaturthi-celebrations-at-antilia-with-stunning-lights-and-elaborate-floral-decor-101789381340978.html"
+      "title": "\u0c2e\u0c38\u0c42\u0c26\u0c4d\u200c\u0c28\u0c41 \u0c2a\u0c1f\u0c4d\u0c1f\u0c3f\u0c02\u0c1a\u0c3f\u0c28 \u0c35\u0c3e\u0c30\u0c3f\u0c15\u0c3f \u0c30\u0c42.70 \u0c32\u0c15\u0c4d\u0c37\u0c32\u0c41: \u0c2a\u0c3e\u0c15\u0c3f\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c4d\u200c \u0c2a\u0c4d\u0c30\u0c15\u0c1f\u0c28",
+      "link": "https://www.eenadu.net/telugu-news/world/pakistan-hikes-masood-azhar-bounty-to-rs-70-lakh/0801/126166480"
     },
     {
-      "title": "\u0917\u0941\u0930\u0941\u0917\u094d\u0930\u093e\u092e \u092e\u0947\u0902 \u092e\u0939\u093f\u0932\u093e \u092c\u093e\u0907\u0915\u0930 \u0915\u094b \u0915\u093e\u0930 \u0938\u0947 \u091f\u0915\u094d\u0915\u0930 \u092e\u093e\u0930\u0928\u0947 \u0915\u0947 \u092e\u093e\u092e\u0932\u0947 \u092e\u0947\u0902 \u0905\u092c \u0924\u0915 \u0915\u094d\u092f\u093e \u0939\u0941\u0906?",
-      "link": "https://www.bbc.com/hindi/articles/cj750v1zdk32o"
+      "title": "Scottish, Northern Irish, Welsh leaders assert right to \u2018self-determination\u2019",
+      "link": "https://www.thehindu.com/news/international/scottish-northern-irish-welsh-leaders-assert-right-to-self-determination/article71465923.ece"
     },
     {
-      "title": "Anumana Pakshi Trailer : \u2018\u0c05\u0c28\u0c41\u0c2e\u0c3e\u0c28 \u0c2a\u0c15\u0c4d\u0c37\u0c3f\u2019 \u0c1f\u0c4d\u0c30\u0c48\u0c32\u0c30\u0c4d \u0c30\u0c3f\u0c32\u0c40\u0c1c\u0c4d.. \u0c07\u0c28\u0c4d\u0c28\u0c3f \u0c05\u0c28\u0c41\u0c2e\u0c3e\u0c28\u0c3e\u0c32\u0c41 \u0c0f\u0c02\u0c1f\u0c3f \u0c2d\u0c2f\u0c4d\u0c2f\u0c3e \u0c28\u0c40\u0c15\u0c41..",
-      "link": "https://10tv.in/telugu-news/movies/anumana-pakshi-trailer-released-cast-rag-mayur-sy-1136886.html"
+      "title": "\u0ab0\u0abe\u0a9c\u0ab8\u0acd\u0aa5\u0abe\u0aa8 \u0a9a\u0ac2\u0a82\u0a9f\u0aa3\u0ac0 \u0aaa\u0ab0\u0abf\u0aa3\u0abe\u0aae: \u0ab5\u0ab8\u0ac1\u0a82\u0aa7\u0ab0\u0abe \u0ab0\u0abe\u0a9c\u0ac7\u0aa8\u0abe \u0a97\u0aa2 \u0a9d\u0abe\u0ab2\u0abe\u0ab5\u0abe\u0aa1\u0aae\u0abe\u0a82 \u0a95\u0acb\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0ab8\u0aa8\u0acb \u0aad\u0ab5\u0acd\u0aaf \u0ab5\u0abf\u0a9c\u0aaf, \u0a95\u0acb\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0ab8\u0aa8\u0ac7 29 \u0aac\u0ac7\u0aa0\u0a95\u0acb \u0aae\u0ab3\u0ac0",
+      "link": "https://gujarati.abplive.com/news/india/rajasthan-municipal-election-result-jhalawar-congress-vasundhara-raje-991176"
     },
     {
-      "title": "Amit Shah stresses cultural nationalism, promotion of Indian languages at Rajbhasha event",
-      "link": "https://www.thehindu.com/news/national/amit-shah-stresses-cultural-nationalism-promotion-of-indian-languages-at-rajbhasha-event/article71465888.ece"
+      "title": "Breaking News: \u0a8f\u0ab6\u0abf\u0aaf\u0abe \u0a95\u0aaa \u0a9c\u0ac0\u0aa4\u0ab5\u0abe \u0a9b\u0aa4\u0abe\u0a82 \u0aad\u0abe\u0ab0\u0aa4 \u0a88\u0aa8\u0abe\u0aae\u0ac0 \u0ab0\u0a95\u0aae \u0a95\u0ac7\u0aae \u0aa8\u0aa5\u0ac0 \u0ab2\u0ac7\u0aa4\u0ac1\u0a82? \u0a9c\u0abe\u0aa3\u0acb \u0a95\u0abe\u0ab0\u0aa3",
+      "link": "https://tv9gujarati.com/photo-gallery/cricket-photos/breaking-news-despite-winning-asia-cup-india-not-accept-prize-money-know-reason-1515387.html"
     }
   ],
   "twitter": null
