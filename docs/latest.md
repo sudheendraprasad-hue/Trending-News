@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-14 04:37:15
+# India Trending Report — 2026-09-14 05:01:47
 
 ## Google Trends (India) — top trending searches
 1. [இலங்கை](https://trends.google.com/trending/rss?geo=IN)
 2. [operation safed sagar](https://trends.google.com/trending/rss?geo=IN)
 3. [santy sharma iphone](https://trends.google.com/trending/rss?geo=IN)
-4. [rajasthan nikay chunav 2026](https://trends.google.com/trending/rss?geo=IN)
+4. [nassr](https://trends.google.com/trending/rss?geo=IN)
 5. [മൊഹ്സിന് നഖ്വി](https://trends.google.com/trending/rss?geo=IN)
 6. [hanuman ansh box office](https://trends.google.com/trending/rss?geo=IN)
-7. [nassr](https://trends.google.com/trending/rss?geo=IN)
-8. [ஆ. ராசா](https://trends.google.com/trending/rss?geo=IN)
-9. [செப்டம்பர் 14](https://trends.google.com/trending/rss?geo=IN)
-10. [jaipur nagar nigam election result](https://trends.google.com/trending/rss?geo=IN)
+7. [ஆ. ராசா](https://trends.google.com/trending/rss?geo=IN)
+8. [செப்டம்பர் 14](https://trends.google.com/trending/rss?geo=IN)
+9. [jaipur nagar nigam election result](https://trends.google.com/trending/rss?geo=IN)
+10. [नीलम कोठारी](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [UK breakup on menu? Leaders of Northern Ireland, Scotland, Wales to meet](https://timesofindia.indiatimes.com/world/uk/uk-breakup-on-menu-leaders-of-n-ireland-scotland-wales-to-meet/articleshow/134229931.cms)
-- [Car follows woman biker, hits her bike and flees; incident caught on camera](https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-road-rage-car-follows-woman-biker-hits-her-bike-and-flees-incident-caught-on-camera/articleshow/134231476.cms)
-- ['Act of terror’: Pregnant woman among four killed in attacks on Kuki villages in Manipur](https://timesofindia.indiatimes.com/city/guwahati/twin-manipur-attacks-village-bodies-allege-nscn-zuf-hand-in-killing-of-4-kukis/articleshow/134211178.cms)
+- [China scales back troops along LAC amid thaw in ties with India; down to 10 Arms Brigade](https://timesofindia.indiatimes.com/defence/news/china-scales-back-troops-along-lac-amid-thaw-in-ties-with-india-down-to-10-arms-brigade/articleshow/134232310.cms)
+- [Gurgaon: Car follows woman biker, hits her bike and flees; incident caught on cam](https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-road-rage-car-follows-woman-biker-hits-her-bike-and-flees-incident-caught-on-camera/articleshow/134231476.cms)
+- [Pregnant woman among four killed in attacks on Kuki villages in Manipur](https://timesofindia.indiatimes.com/city/guwahati/twin-manipur-attacks-village-bodies-allege-nscn-zuf-hand-in-killing-of-4-kukis/articleshow/134211178.cms)
 - [Coach's fasting, nod to Dhoni, 'funniest' team: Inside Ganges Grandmasters' GCL title](https://timesofindia.indiatimes.com/sports/chess/a-coachs-fasting-nod-to-ms-dhoni-and-the-funniest-team-inside-ganges-grandmasters-gcl-2026-title/articleshow/134231736.cms)
-- [Russia offers Rs 16 lakh per foreign soldier for Ukraine war: Report](https://timesofindia.indiatimes.com/world/europe/russia-offers-rs-16-lakh-to-recruit-foreigners-for-ukraine-war/articleshow/134231969.cms)
-- [Jeff Bezos to Mamdani: ‘Villain strategy’ won’t work; Ken Griffin isn’t hurting New York](https://timesofindia.indiatimes.com/technology/tech-news/when-jeff-bezos-told-mayor-zohran-mamdani-villain-strategy-wont-work-citadel-ceo-ken-griffin-is-not-hurting-new-york-in-fact-/articleshow/134231866.cms)
-- [Kargil War veteran attacked with iron rod in Gurgaon over parking row](https://timesofindia.indiatimes.com/city/gurgaon/kargil-war-veteran-attacked-with-iron-rod-in-gurgaon-over-parking-row-suffers-serious-head-injuries/articleshow/134230910.cms)
-- [MPSC paper leak: CJP to join protesters demanding resignation, sets Sept 24 deadline](https://timesofindia.indiatimes.com/city/aurangabad/mpsc-paper-leak-row-cjps-abhijeet-dipke-backs-aspirants-warns-of-statewide-campaign-till-officials-resign/articleshow/134231520.cms)
-- [‘Proud moment’: PM Modi, President hail India; Women’s team snubs Asia Cup trophy](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/proud-moment-for-indian-cricket-pm-modi-president-murmu-hail-india-after-historic-womens-asia-cup-triumph/articleshow/134231511.cms)
 - [World’s biggest bank to job seekers: We want to know how you use AI](https://timesofindia.indiatimes.com/technology/tech-news/worlds-biggest-bank-to-investment-banking-candidates-we-want-to-know-how-you-use-ai-to-/articleshow/134231841.cms)
+- [9 dead in 3 days after consuming spurious liquor in Nagaland](https://timesofindia.indiatimes.com/city/guwahati/9-dead-in-3-days-after-consuming-spurious-liquor-in-nagaland/articleshow/134213433.cms)
+- [Russia offers Rs 16 lakh per foreign soldier for Ukraine war: Report](https://timesofindia.indiatimes.com/world/europe/russia-offers-rs-16-lakh-to-recruit-foreigners-for-ukraine-war/articleshow/134231969.cms)
+- [Watch: Zverev didn’t realise he had won the US Open — until the crowd told him](https://timesofindia.indiatimes.com/sports/tennis/top-stories/watch-alexander-zverev-didnt-realise-he-had-won-the-us-open-until-the-crowd-told-him/articleshow/134231080.cms)
+- [Jeff Bezos to Mamdani: ‘Villain strategy’ won’t work; Ken Griffin isn’t hurting New York](https://timesofindia.indiatimes.com/technology/tech-news/when-jeff-bezos-told-mayor-zohran-mamdani-villain-strategy-wont-work-citadel-ceo-ken-griffin-is-not-hurting-new-york-in-fact-/articleshow/134231866.cms)
+- [Tata Harrier EV breaks down repeatedly; dealer to refund price, pay Rs 65K](https://timesofindia.indiatimes.com/legal/news/tata-harrier-ev-breaks-down-repeatedly-within-months-refund-of-rs-27-98-lakh-along-with-rs-65000-payout-ordered/articleshow/134232579.cms)
 
 **NDTV**
 - [The Politics Of Blue: Why Akhilesh Yadav-vs-Mayawati Over A Colour Is Just One Shade Of History](https://www.ndtv.com/india-news/politics-of-blue-why-akhilesh-yadav-versus-mayawati-is-just-one-shade-of-the-colours-history-spanning-ambedkar-to-pa-ranjith-12042104#publisher=newsstand)
@@ -38,16 +38,16 @@
 - ['Not Worth Pursuing If...': Satya Nadella Joins AI Slowdown Debate](https://www.ndtv.com/artificial-intelligence/satya-nadella-artificial-intelligence-slowdown-debate-anthropic-musk-altman-12042912#publisher=newsstand)
 
 **Hindustan Times**
+- [Andhra Guv, CM extend Ganesh Chaturthi greetings](https://www.hindustantimes.com/india-news/andhra-guv-cm-extend-ganesh-chaturthi-greetings-101789361844556.html)
+- [Goa elevated corridor use restricted after mishaps kill 2, days after opening](https://www.hindustantimes.com/india-news/goa-elevated-corridor-use-restricted-after-mishaps-kill-2-days-after-opening-101789361701498.html)
+- [Progress of Hindi purposeful only with promotion, protection of other Indian languages: Shah](https://www.hindustantimes.com/india-news/progress-of-hindi-purposeful-only-with-promotion-protection-of-other-indian-languages-shah-101789361234202.html)
+- [On camera, car chases, rams woman biker on Gurugram road: 'Kept making hand gestures'](https://www.hindustantimes.com/india-news/woman-biker-on-joyride-claims-car-chased-hit-her-in-gurugram-after-she-asked-it-to-stay-away-101789359968895.html)
 - [HT Morning Brief September 14: UCC in all NDA states; the Asia Cup row; Hormuz deal in limbo](https://www.hindustantimes.com/india-news/ht-morning-brief-september-14-hormuz-deal-in-limbo-ucc-in-all-nda-states-asia-cup-row-bigg-boss-20-tv-show-101789358326018.html)
 - [No act of violence will be allowed to derail Manipur's path towards peace: State home minister](https://www.hindustantimes.com/india-news/no-act-of-violence-will-be-allowed-to-derail-manipur-s-path-towards-peace-state-home-minister-101789358619634.html)
 - [Stock market holiday today: NSE, BSE closed on September 14 for Ganesh Chaturthi; trading resumes Tuesday](https://www.hindustantimes.com/india-news/stock-market-holiday-today-nse-bse-closed-on-september-14-for-ganesh-chaturthi-monday-nifty-sensex-101789357391464.html)
 - [Congress, BJP trade barbs over all-vegetarian fare for dignitaries at Brics Summit](https://www.hindustantimes.com/india-news/congress-bjp-trade-barbs-over-all-vegetarian-food-for-dignitaries-at-brics-summit-101789353713490.html)
 - [4 killed, 6-year-old injured after fresh violence breaks out in Manipur's Tamenglong](https://www.hindustantimes.com/india-news/manipur-violence-tamenglong-assam-tollen-police-bullet-injury-death-black-day-kuki-naga-conflict-101789352303213.html)
 - [CPI(M) in Keralam vows to fix lapses, regain public trust after poll debacle](https://www.hindustantimes.com/india-news/cpim-in-keralam-vows-to-fix-lapses-regain-public-trust-after-poll-debacle-101789328572407.html)
-- [7 arrested with 2 peacock carcass, 6 firearms: Officials](https://www.hindustantimes.com/india-news/7-arrested-with-2-peacock-carcass-6-firearms-officials-101789328452555.html)
-- [BJP to hold state-wide march against Vande Mataram row from tomorrow](https://www.hindustantimes.com/india-news/bjp-to-hold-state-wide-march-against-vande-mataram-row-from-tomorrow-101789328272527.html)
-- [A tale of twin cities: How digital replicas could help transform urban governance](https://www.hindustantimes.com/india-news/a-tale-of-twin-cities-and-how-they-could-transform-urban-governance-101789328094401.html)
-- [Leaders hail Brics CONNECT initiative](https://www.hindustantimes.com/india-news/leaders-hail-brics-connect-initiative-101789327912729.html)
 
 **Vijay Karnataka**
 - [ಸೆ.12ರಂದು ಕುಮಾರಸ್ವಾಮಿ ಪತ್ರಿಕಾಗೋಷ್ಠಿ, 'ಅಲ್ಲೋಲ ಕಲ್ಲೋಲ ಸೃಷ್ಟಿ' ಏನಾಯಿತು - ಸಿಎಂ ಡಿಕೆಶಿ ಪ್ರಶ್ನೆ?](https://vijaykarnataka.com/news/bengaluru-city/cm-dk-shivakumar-hd-kumaraswamy-karnataka-politics-september-12-updates/articleshow/134232370.cms)
@@ -98,6 +98,8 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಮುಸ್ಲಿಮರು ರಾಜಕೀಯ ಪ್ರಾತಿನಿಧ್ಯದ ಬಗ್ಗೆ ಗಮನಹರಿಸಬೇಕು: ಶಾಸಕ ಪ್ರಶಾಂತ್ ಕಿಶೋರ್](https://www.varthabharati.in/National/muslims-should-focus-on-political-representation-mla-prashant-kishor-2275106)
+- [ಭಾಗವತರಿಗೆ ಕೆಲವು ಪ್ರಶ್ನೆಗಳು](https://www.varthabharati.in/prachalita/mohan-bhagwat-2275104)
 - [Udupi | ಸಿಎಂ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್ ಹೆಬ್ರಿ ಭೇಟಿ: ಪೂರ್ವಸಿದ್ಧತೆಗಳ ಪರಿಶೀಲನೆ ನಡೆಸಿದ ಅಧಿಕಾರಿಗಳು](https://www.varthabharati.in/udupi/udupi-cm-dk-shivakumars-visit-to-hebri-sp-hariram-shankar-conducts-site-inspection-2275101)
 - [ವಿಶ್ವಸಂಸ್ಥೆಯ ಭದ್ರತಾ ಮಂಡಳಿಯ ಖಾಯಂ ಸದಸ್ಯ ಸ್ಥಾನಕ್ಕೆ ಭಾರತ ಬಲವಾದ ಹಕ್ಕು ಹೊಂದಿದೆ : ಖ್ಯಾತ ಅರ್ಥಶಾಸ್ತ್ರಜ್ಞ ಜೆಫ್ರಿ ಸ್ಯಾಚ್ಸ್](https://www.varthabharati.in/national/india-has-a-strong-claim-to-a-permanent-seat-on-the-un-security-council-renowned-economist-jeffrey-sachs-2275099)
 - [Rajasthan | ಪತ್ನಿ, ಮೂವರು ಪುತ್ರಿಯರ ಹತ್ಯೆ: ಆರೋಪಿ ಬಂಧನ](https://www.varthabharati.in/National/rajasthan-murder-of-wife-three-daughters-accused-arrested-2275098)
@@ -106,39 +108,37 @@
 - [ರಾಜ್ಯದಲ್ಲಿ ಹೆಚ್ಚುತ್ತಿರುವ ಎನ್‌ಡಿಪಿಎಸ್ ಪ್ರಕರಣಗಳು: ಮೂರು ವರ್ಷಗಳಲ್ಲಿ 25,196 ಪ್ರಕರಣಗಳು ದಾಖಲು](https://www.varthabharati.in/vishesha-varadigalu/rising-ndps-cases-in-the-state-25196-cases-registered-in-three-years-2275095)
 - [ಯುಎಸ್ ಓಪನ್ 2026 | ಪುರುಷರ ಸಿಂಗಲ್ಸ್ ನಲ್ಲಿ ಜರ್ಮನಿಯ ಅಲೆಕ್ಸಾಂಡರ್ ಝ್ವರೆವ್ ಚಾಂಪಿಯನ್](https://www.varthabharati.in/sports/us-open-2026-germanys-alexander-zverev-is-the-mens-singles-champion-2275094)
 - [Bengaluru | NLSIU ನಲ್ಲಿ ಉಮರ್ ಖಾಲಿದ್ ಕುರಿತ ಸಾಕ್ಷ್ಯಚಿತ್ರ ಪ್ರದರ್ಶನ ಮುಂದೂಡಿಕೆ; ರದ್ದತಿಗೆ ABVP ಪಟ್ಟು](https://www.varthabharati.in/bangalore-city/bengaluru-nlsiu-2275093)
-- [ಸೌದಿ ಅರೇಬಿಯಾ ಮೇಲೆ ಹೌದಿಗಳಿಂದ ಕ್ಷಿಪಣಿ ದಾಳಿ| ಇಬ್ಬರಿಗೆ ಗಾಯ; ಹಲವು ಕಟ್ಟಡಗಳಿಗೆ ಹಾನಿ](https://www.varthabharati.in/international/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says-2275092)
-- [ಅಧ್ಯಕ್ಷರನ್ನು ಭೇಟಿಯಾಗಲು ಮಾಸ್ಕೊಗೆ ಬನ್ನಿ: ಝೆಲೆನ್‍ಸ್ಕಿಗೆ ರಶ್ಯ ಆಹ್ವಾನ](https://www.varthabharati.in/international/come-to-moscow-kremlins-blunt-reply-to-zelenskyys-putin-meeting-offer-in-miami-2275091)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Mumbai (5.2)
 - Emkay Global Financial (5.0)
+- Ganesh Chaturthi (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
 - Bengaluru (2.9)
 - India (2.9)
-- Leaders (2.6)
-- MPSC (2.6)
 - September (2.6)
 - Centre (2.6)
 - Delhi (2.6)
-- Asia Cup (2.0)
-- Ganesh Chaturthi (2.0)
 - Buy Bajaj Finance (2.0)
 - Manipur (1.6)
+- Ukraine (1.6)
+- Student (1.6)
+- Gurugram (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ആദ്യമായി മര്‍ക്കസില്‍ എത്തി സാദിഖലി ശിഹാബ് തങ്ങള്‍; എ പി സമസ്ത നേതാക്കളുമായി കൂടിക്കാഴ്ച നടത്തി](https://www.reporterlive.com/topnews/kerala/2026/09/13/sadiq-ali-shihab-thangal-visits-markaz-ap-samastha-leaders)
-- [చీలిక దిశగా యూకే? కీలక పరిణామాలు](https://www.andhrajyothy.com/2026/international/europe/uk-split-scotland-wales-northern-ireland-independence-meeting-cardiff-referendum-pcs-1557899.html)
-- [பிரதமர் மோடி அளித்த விருந்தில் சீன அதிபர் பங்கேற்காதது ஏன்?](https://www.dinamalar.com/news/india-tamil-news/the-chinese-president-did-not-attend-the-banquet-hosted-by-prime-minister-modi-why/4322062)
-- [In 2015, Hawaii rescued fragments of a coral found only in Kaneohe Bay; after its wild colonies disappeared, scientists grew it in a nursery and returned it to the reef](https://timesofindia.indiatimes.com/science/wildlife/in-2015-hawaii-rescued-fragments-of-a-coral-found-only-in-kaneohe-bay-after-its-wild-colonies-disappeared-scientists-grew-it-in-a-nursery-and-returned-it-to-the-reef/articleshow/134212088.cms)
-- [Sanju Samson 'doesn’t help his own cause': Sanjay Manjrekar says it as it is amid tough competition from Sooryavanshi](https://www.hindustantimes.com/cricket/sanju-samson-doesn-t-help-his-own-cause-sanjay-manjrekar-says-it-as-it-is-amid-tough-competition-from-sooryavanshi-101789316259274.html)
-- [शेफाली वर्मा-स्मृति मंधाना की जोड़ी ने वर्ल्ड क्रिकेट में मचाया तहलका! मैदान पर आया चौके-छक्कों का तूफान, टूटे कई रिकॉर्ड](https://www.aajtak.in/sports/cricket/story/womens-asia-cup-2026-final-shafali-verma-and-smriti-mandhana-create-history-with-record-breaking-stand-aksp-dskc-2642228-2026-09-13)
-- [IND vs AFG 1st T20 Highlights: दिल्ली में अभिषेक की तूफानी पारी, शतक से चूके; भारत ने 7 विकेट से जीत मैच](https://www.abplive.com/sports/cricket/ind-vs-afg-1st-t20-today-match-live-score-arun-jaitley-stadium-india-afghanistan-updates-3188355)
-- [इराण आणि ओमानचा मोठा डाव! दोन देशात करार, भारताची लागली लॉटरी](https://maharashtratimes.com/international/international-news/strait-of-hormuz-agreement-signed-between-iran-and-oman/articleshow/134211058.cms)
-- [মেষ রাশির সোমবার দিনটা কেমন কাটবে ও শুভ সময়, ১৪ সেপ্টেম্বর, ২০২৬](https://www.nilkantho.in/horoscope-aries-2026-09-14/)
-- [દેશના 18 રાજ્યોમાં 6 દિવસનું હવામાન વિભાગનું એલર્ટ, અનેક વિસ્તારોમાં ભારે વરસાદની આગાહી](https://www.gujaratsamachar.com/news/national/heavy-rains-predicted-from-gujarat-to-delhi-haryana-on-september-14-meteorological-department-alerts-in-18-states-48789722348)
+- [ਭਾਰਤ ਨੇ ਜਿੱਤਿਆ ਪਹਿਲਾ ਟੀ-20 ਮੈਚ ; ਅਫਗਾਨਿਸਤਾਨ ਨੂੰ 7 ਵਿਕਟਾਂ ਨਾਲ ਹਰਾਇਆ](https://wishavwarta.in/india-defeated-afghanistan-1st-t20/)
+- [അഫ്ഗാൻ ബൗളർമാരെ അടിച്ചൊതുക്കി അഭിഷേക്; അനായാസം ഇന്ത്യൻ വിജയം, സഞ്ജുവിന് നിരാശ](https://www.mathrubhumi.com/sports/cricket/india-vs-afghanistan-t20-live-toss-playing-xi-yxp9bute)
+- [Russia hits passenger train on Ukraine's border with Poland, just misses 'diplomatic train'](https://www.reuters.com/world/china/russia-hits-truck-near-polish-border-latest-strike-near-nato-2026-09-13/)
+- [Narendra Modi : पंतप्रधानांच्या बालमित्राची जमीन कोण हडपली? मिरा भाईंदरच्या असगरअलींची भाजप नेत्याच्या विरोधात CBI चौकशीची मागणी](https://marathi.abplive.com/news/mumbai/pm-modi-school-friend-classmate-asgarali-vora-case-bjp-mla-land-dispute-mira-bhayandar-cbi-marathi-news-1439019)
+- [IND vs AFG: પ્રથમ T20માં અફઘાનિસ્તાન સામે ભારતનો શાનદાર વિજય, અભિષેક-અર્શદીપનું દમદાર પ્રદર્શન](https://www.gujaratsamachar.com/news/sports/ind-vs-afg-indias-brilliant-victory-over-afghanistan-in-the-first-t20-strong-performance-from-abhishek-arshdeep-91033662809)
+- [Trump slams AI critics after Anthropic CEO, OpenAI chief raise alarm: ‘Negative forces’](https://www.hindustantimes.com/world-news/trump-slams-ai-critics-after-anthropic-ceo-openai-chief-elon-musk-raise-alarm-doomsday-negative-forces-101789307326182.html)
+- [West Bengal News Live Updates: শান্তনু সেনকে আইনী নোটিস সুদীপ্ত রায়ের](https://bengali.abplive.com/district/news-live-updates-suvendu-adhikari-mamata-banerjee-abhishek-banerjee-tmc-trinamool-bjp-congress-cpm-latest-on-september-13-2026-1192659)
+- [എഐ ഭീതികൾ അനാവശ്യം, എഐ രംഗത്ത് വിജയിക്കുന്നവർ ലോകം ഭരിക്കും; ഡൊണാൾഡ് ട്രംപ്](https://www.reporterlive.com/business-news/economy-news/2026/09/13/donald-trump-ai-fears-safety-guardrails-us-china-leadership)
+- [Nebraska Humane Society: Vets urge gradual weight loss for overweight pets](https://www.wowt.com/2026/09/13/nebraska-humane-society-vets-urge-gradual-weight-loss-overweight-pets/)
+- [51 wides! Arshdeep Singh creates big unwanted record in India vs Afghanistan 1st T20I](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/51-wides-arshdeep-singh-creates-big-unwanted-record-in-india-vs-afghanistan-1st-t20i/articleshow/134213034.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
