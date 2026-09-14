@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-14 08:02:12
+# India Trending Report — 2026-09-14 08:37:32
 
 ## Google Trends (India) — top trending searches
-1. [तुकाराम मुंढे](https://trends.google.com/trending/rss?geo=IN)
-2. [किसान क्रेडिट कार्ड](https://trends.google.com/trending/rss?geo=IN)
-3. [அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகம்](https://trends.google.com/trending/rss?geo=IN)
-4. [glacier iphone 18 pro max](https://trends.google.com/trending/rss?geo=IN)
-5. [ಮಳೆ](https://trends.google.com/trending/rss?geo=IN)
-6. [class 10th cbse 2027 date sheet](https://trends.google.com/trending/rss?geo=IN)
-7. [মুম্বই](https://trends.google.com/trending/rss?geo=IN)
-8. [ஜேசன் சஞ்சய்](https://trends.google.com/trending/rss?geo=IN)
-9. [വി.ഡി. സതീശന്](https://trends.google.com/trending/rss?geo=IN)
-10. [ज़िम्बाब्वे क्रिकेट टीम](https://trends.google.com/trending/rss?geo=IN)
+1. [viral videos](https://trends.google.com/trending/rss?geo=IN)
+2. [ಚಿನ್ನ](https://trends.google.com/trending/rss?geo=IN)
+3. [hang seng](https://trends.google.com/trending/rss?geo=IN)
+4. [ఓటీటీ](https://trends.google.com/trending/rss?geo=IN)
+5. [गुरुग्राम](https://trends.google.com/trending/rss?geo=IN)
+6. [hang seng index](https://trends.google.com/trending/rss?geo=IN)
+7. [ಧನಂಜಯ್](https://trends.google.com/trending/rss?geo=IN)
+8. [അരി](https://trends.google.com/trending/rss?geo=IN)
+9. [അഭിജീത് ദീപ്കെ](https://trends.google.com/trending/rss?geo=IN)
+10. [रवि तेजा](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Assam man who beheaded wife, vowed to kill her 'sugar daddy', killed in accident](https://timesofindia.indiatimes.com/city/guwahati/assam-man-who-beheaded-wife-vowed-to-kill-her-sugar-daddy-dies-after-jumping-off-moving-police-vehicle/articleshow/134233987.cms)
+- [‘Plane started to plummet’: Passengers scream as Turkish flight hits turbulence](https://timesofindia.indiatimes.com/world/europe/plane-started-to-plummet-passengers-scream-as-turkish-airlines-flight-hits-turbulence/articleshow/134232861.cms)
+- [Inside Brics 2026: Video captures PM Modi’s candid moments with Xi, Putin and Prabowo](https://timesofindia.indiatimes.com/india/inside-brics-2026-video-captures-pm-modis-candid-moments-with-xi-putin-and-prabowo/articleshow/134235615.cms)
 - [‘I work in Army’: Gurgaon hit-and-run car owner claims friend took car 2 days ago](https://timesofindia.indiatimes.com/city/gurgaon/i-work-in-army-owner-of-car-involved-in-gurgaon-biker-hit-and-run-claims-friend-took-car-2-days-ago/articleshow/134235569.cms)
+- [Pakistan’s England nightmare deepens: 11 WTC points docked, 50% fine — here’s why](https://timesofindia.indiatimes.com/sports/cricket/news/pakistans-england-nightmare-deepens-11-wtc-points-docked-50-match-fee-fine-heres-why/articleshow/134236045.cms)
+- [Masked men fire at Punjab home of singer who was close to Sidhu Moosewala](https://timesofindia.indiatimes.com/city/chandigarh/shots-fired-at-home-of-punjabi-singer-in-barnala-village-none-injured/articleshow/134215390.cms)
+- [Microsoft donated 22.5 acres in Atlanta; city begins next phase for 20,000 homes](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-donated-22-5-acres-of-atlanta-land-in-2025-10-months-later-the-city-is-beginning-the-next-phase-to-turn-it-into-community-focused-development-tied-to-a-20000-home-goal/articleshow/134235061.cms)
+- [15 vs 3.33: How struggling England side swept Pakistan 3-0](https://timesofindia.indiatimes.com/sports/cricket/news/15-vs-3-33-how-struggling-england-side-swept-pakistan-3-0/articleshow/134232776.cms)
 - ['Recognise new realities': Malaysian PM as Kerala cleric defends remarks](https://timesofindia.indiatimes.com/city/kochi/religious-scholars-should-recognise-new-realities-challenges-malaysian-pm-anwar-ibrahim/articleshow/134216715.cms)
 - [Watch: China unveils robotic fish modelled on the golden arowana](https://timesofindia.indiatimes.com/defence/international/watch-china-unveils-robotic-fish-modelled-on-the-golden-arowana-for-underwater-navigation/articleshow/134234520.cms)
-- [Disha Salian death case: CBI registers FIR, takes over probe from Mumbai Police](https://timesofindia.indiatimes.com/india/disha-salian-death-case-cbi-registers-fir-takes-over-probe-from-mumbai-police/articleshow/134235537.cms)
-- [Microsoft donated 22.5 acres in Atlanta; city begins next phase for 20,000 homes](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-donated-22-5-acres-of-atlanta-land-in-2025-10-months-later-the-city-is-beginning-the-next-phase-to-turn-it-into-community-focused-development-tied-to-a-20000-home-goal/articleshow/134235061.cms)
-- [The silver medal Koneru Humpy's 9-year-old daughter will remember as gold](https://timesofindia.indiatimes.com/sports/chess/the-silver-medal-koneru-humpys-9-year-old-daughter-will-remember-as-gold/articleshow/134232292.cms)
-- [Ex-Tehelka editor-in-chief Tarun Tejpal surrenders before Goa court in 2013 rape case](https://timesofindia.indiatimes.com/india/ex-tehelka-editor-in-chief-tarun-tejpal-surrenders-before-goa-court-in-2013-rape-case/articleshow/134234935.cms)
-- ['4% of global supply at risk': Saudi warns after Houthi attack shuts oil pipeline](https://timesofindia.indiatimes.com/world/middle-east/houthi-drone-attack-saudi-oil-stocks-could-run-dry-within-days-if-key-pipeline-remains-shut/articleshow/134233751.cms)
-- [Record $44.9bn jump takes India’s forex reserves to lifetime high of $785.71bn](https://timesofindia.indiatimes.com/business/india-business/in-2014-indias-forex-reserves-were-just-over-300-billion-12-years-later-amid-us-iran-war-they-hit-a-lifetime-high-of-785-71-billion-after-a-record-44-9-billion-weekly-jump/articleshow/134235535.cms)
+- [Assam man who beheaded wife, vowed to kill her 'sugar daddy', killed in accident](https://timesofindia.indiatimes.com/city/guwahati/assam-man-who-beheaded-wife-vowed-to-kill-her-sugar-daddy-dies-after-jumping-off-moving-police-vehicle/articleshow/134233987.cms)
 
 **NDTV**
 - [Tarun Tejpal Surrenders Before Goa Court After Top Court Order In Rape Case](https://www.ndtv.com/india-news/tarun-tejpal-surrenders-before-goa-court-after-top-court-order-in-rape-case-12043906#publisher=newsstand)
@@ -38,30 +38,33 @@
 - [AI Is Taking Over Routine Work. 5 Skills Professionals Need To Stay Relevant](https://www.ndtv.com/business-news/artificial-intelligence-new-skills-professionals-need-stay-relevant-workplace-12042966#publisher=newsstand)
 
 **Hindustan Times**
+- [Nepal's wild elephants wreak havoc in Pilibhit villages, trample paddy and sugarcane crops](https://www.hindustantimes.com/india-news/nepals-wild-elephants-wreak-havoc-in-pilibhit-villages-trample-paddy-and-sugarcane-crops-101789374471343.html)
+- [Govt debunks Pakistani propaganda claiming deadly blast during BRICS Summit](https://www.hindustantimes.com/india-news/govt-debunks-pakistani-propaganda-claiming-deadly-blast-during-brics-summit-101789368700294.html)
+- [Ex-Tehelka editor Tarun Tejpal surrenders before Goa court after 2013 sexual assault conviction](https://www.hindustantimes.com/india-news/ex-tehelka-editor-tarun-tejpal-surrenders-before-goa-court-after-2013-sexual-assault-conviction-supreme-court-order-101789372667024.html)
 - [What’s happening at Tata? RBI shuts exit route, IPO pressure mounts on Noel Tata](https://www.hindustantimes.com/india-news/whats-happening-at-tata-rbi-shuts-exit-route-ipo-pressure-mounts-on-noel-tata-101789362924693.html)
 - [No urgent listing of plea over demolition of adjacent one in Satya Niketan: Delhi HC](https://www.hindustantimes.com/india-news/no-urgent-listing-of-plea-over-demolition-of-adjacent-one-in-satya-niketan-delhi-hc-101789368601755.html)
-- [Police say Assam man accused of beheading wife died after jumping off vehicle](https://www.hindustantimes.com/india-news/police-say-assam-man-accused-of-beheading-wife-died-after-jumping-off-vehicle-101789368303588.html)
+- [Assam man accused of beheading wife attacked police, died after jumping off vehicle; family alleges encounter](https://www.hindustantimes.com/india-news/police-say-assam-man-accused-of-beheading-wife-died-after-jumping-off-vehicle-101789368303588.html)
 - [Rates for tankers to India rise by 150 percent as West Asia crisis escalates](https://www.hindustantimes.com/business/rates-for-tankers-to-india-rise-by-150-percent-as-west-asia-crisis-escalates-101789366518430.html)
-- [Rajasthan municipal election results LIVE: Congress wins BJP stronghold Pali; BJP takes Jodhpur, Udaipur](https://www.hindustantimes.com/india-news/rajasthan-local-body-election-results-2026-live-updates-rajasthan-vote-counting-result-bjp-congress-jaipur-jodhpur-kota-101789365666570.html)
+- [Rajasthan municipal election results LIVE: Gen Z leader wins Jaipur ward; BJP takes Jodhpur, Udaipur](https://www.hindustantimes.com/india-news/rajasthan-local-body-election-results-2026-live-updates-rajasthan-vote-counting-result-bjp-congress-jaipur-jodhpur-kota-101789365666570.html)
 - [Manipur: 4 Naga homes set afire in retaliatory attack hours after Kuki killings](https://www.hindustantimes.com/india-news/manipur-4-naga-homes-set-afire-in-retaliatory-attack-hours-after-kuki-killings-101789365061070.html)
 - [‘Op Safed Sagar’ veteran attacked over Gurugram parking dispute; FIR says ‘hit with iron rod’](https://www.hindustantimes.com/india-news/op-safed-sagar-veteran-assaulted-over-parking-dispute-in-gurugram-fir-filed-101789364400418.html)
-- [In a first, Ganga aarti held on London's Thames river | Watch](https://www.hindustantimes.com/india-news/in-a-first-ganga-aarti-held-on-londons-thames-river-watch-101789363767980.html)
-- [Tamil Nadu CM Vijay's London Silverstone visit sparks row, Opposition questions 'purpose'](https://www.hindustantimes.com/india-news/vijay-london-visit-silverstone-ajith-kumar-tamil-nadu-investment-opposition-criticism-dmk-aiadmk-bjp-101789363112757.html)
-- [India-Russia-China bonhomie on display at BRICS: What the Modi-Xi-Putin group photos reveal](https://www.hindustantimes.com/india-news/india-russia-china-bonhomie-at-brics-what-the-narendra-modi-xi-jinping-vladimir-putin-group-photos-reveal-101789360596765.html)
 
 **Vijay Karnataka**
+- [ಟಿ ನರಸೀಪುರ ಗಣೇಶ ಗಲಾಟೆ: ಕಾಂಗ್ರೆಸ್ v/s ಬಿಜೆಪಿ ನಡುವೆ ಸಂಘರ್ಷಕ್ಕೆ ಹೊಸ ಅಸ್ತ್ರ, ಹೋರಾಟ ತೀವ್ರಗೊಳಿಸಲು ಕಮಲ ಪಡೆ ಪ್ಲ್ಯಾನ್](https://vijaykarnataka.com/news/karnataka/t-narasipura-ganesha-festival-controversy-bjp-planning-to-protest-against-congress/articleshow/134235913.cms)
+- [30 ವೈದ್ಯರನ್ನು ಹೆತ್ತು ಕೊಟ್ಟ ರಾಯಚೂರಿನ ಹಳ್ಳಿ: ಒಂದೊಂದು ಮನೆಯಲ್ಲಿ ನಾಲ್ಕೂ ಮಕ್ಕಳು ಡಾಕ್ಟರ್ಸ್, ಹೇಗೆ ಸಾಧ್ಯ ಗೊತ್ತೇ?](https://vijaykarnataka.com/news/raichur/a-village-in-raichur-that-produced-30-doctors-in-some-households-all-four-children-are-doctors-do-you-know-how-this-was-possible/articleshow/134232537.cms)
 - [Mysuru : ಗಣ ಹೋಮ, ವಾಸ್ತು ಹೋಮ ಸೇರಿ ಶಾಸ್ತ್ರೋಕ್ತವಾಗಿ ನಡೆದ ಸಿದ್ದರಾಮಯ್ಯನವರ ಮನೆ ಗೃಹ ಪ್ರವೇಶ](https://vijaykarnataka.com/news/mysuru/former-cm-siddaramaiah-housewarming-kuvempu-nagara-mysuru-religious-event/articleshow/134235562.cms)
-- [ಭಾರತ-ಅಫ್ಘಾನಿಸ್ತಾನ ಟಿ-20 ಪಂದ್ಯದಲ್ಲಿ ವಂದೇ ಮಾತರಂ ಗೀತೆಗೆ ಕಾಂಗ್ರೆಸ್‌ ಆಕ್ಷೇಪ: Gen-Z ಸಮಸ್ಯೆಗಳಿಗೆ ಪರಿಹಾರವಲ್ಲ ಎಂದ ಪ್ರತಿಪಕ್ಷ!](https://vijaykarnataka.com/sports/cricket/news/congress-objects-for-vande-mataram-song-during-first-t20-match-between-india-and-afghanistan/articleshow/134233652.cms)
-- [ದೇಗುಲಗಳ ಆಸ್ತಿ ಭದ್ರತೆಗೆ ಸರಕಾರದ ಕ್ರಮ: ದೇವಾಲಯಗಳ ಜಾಗ ಒತ್ತುವರಿಗೆ ಬೀಳಲಿದೆ ಇನ್ಮುಂದೆ ಬ್ರೇಕ್, ಏನಿದು ಗೊತ್ತಾ ಖಾತೆ ಇಂಡೀಕರಣ?](https://vijaykarnataka.com/news/karnataka/government-measures-to-secure-temple-assets-encroachment-on-temple-land-to-be-curbed-do-you-know-what-khata-integration-is/articleshow/134232528.cms)
 - [ಫ್ರಿಡ್ಜ್ ನಲ್ಲಿಟ್ಟರೂ ಹೂಕೋಸು ಬಾಡುತ್ತಿದೆಯಾ? ತಾಜಾತನ ಕಾಪಾಡಲು ಈ 5 ಸರಳ ವಿಧಾನ ಅನುಸರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/cauliflower-storage-tips-keep-fresh-in-fridge/articleshow/134235162.cms)
-- [ಸಂಡೂರು: ಬೆಟ್ಟಗುಡ್ಡ-ಗಂಡಿಗಳ ಮಡಿಲಿಗೆ ಹೆಜ್ಜೆಯಿಟ್ಟರೆ, ಮನಸ್ಸು ಮತ್ತೆಮತ್ತೆ ಅಲ್ಲಿಗೇ ಮರಳಬಯಸುತ್ತದೆ!](https://vijaykarnataka.com/news/vk-special/sandur-hills-nature-temple-travel-guide-by-dr-siddeshwara-mpm/articleshow/134234210.cms)
+- [ಭಾರತ-ಅಫ್ಘಾನಿಸ್ತಾನ ಟಿ-20 ಪಂದ್ಯದಲ್ಲಿ ವಂದೇ ಮಾತರಂ ಗೀತೆಗೆ ಕಾಂಗ್ರೆಸ್‌ ಆಕ್ಷೇಪ: Gen-Z ಸಮಸ್ಯೆಗಳಿಗೆ ಪರಿಹಾರವಲ್ಲ ಎಂದ ಪ್ರತಿಪಕ್ಷ!](https://vijaykarnataka.com/sports/cricket/news/congress-objects-for-vande-mataram-song-during-first-t20-match-between-india-and-afghanistan/articleshow/134233652.cms)
 - [​Photos: ಅಪರ್ಣಾ ಇಲ್ಲದ ಮನೆಯಲ್ಲಿ ಮೊದಲ ಬಾರಿ ಗೌರಿ ಗಣೇಶ ಹಬ್ಬ ಆಚರಿಸಿದ ನಾಗರಾಜ್ ವಸ್ತಾರೆ!​](https://vijaykarnataka.com/vk-gallery/actress/nagaraj-vastarey-celebrates-gowri-ganesha-festival-at-aparna-house/photoshow/134235584.cms)
 - [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
 - [ಗಣೇಶನ ಶ್ಲೋಕಗಳು| Ganesha Slokas Lyrics In Kannada](https://vijaykarnataka.com/religion/pooja-vidhana/ganesha-slokas-lyrics-in-kannada/articleshow/134234988.cms)
 - [ಗಣಪನ ದರ್ಶನಕ್ಕೆ ಹೇಗೆ ಡ್ರೆಸ್ ಮಾಡಿಕೊಳ್ಳಬೇಕು? ಗಣೇಶ ಚತುರ್ಥಿಗೆ 5 ಎಥ್ನಿಕ್ ಲುಕ್‌ಗಳು](https://vijaykarnataka.com/lifestyle/fashion/ganesh-chaturthi-2026-ethnic-outfit-ideas-comfortable-looks/articleshow/134233604.cms)
-- [ಬಿಜೆಪಿ ಪ್ರತಿಭಟನೆಯಲ್ಲೇ ಪ್ರತಾಪ ಸಿಂಹ ಹಾಗೂ ಎಲ್ ನಾಗೇಂದ್ರ ನಡುವೆ ತಳ್ಳಾಟ: ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳಲ್ಲಿ ಬಿಸಿ ಬಿಸಿ ಚರ್ಚೆ](https://vijaykarnataka.com/news/karnataka/fight-between-bjp-leaders-pratap-simha-and-l-nagendra/articleshow/134233810.cms)
+- [ದೇಗುಲಗಳ ಆಸ್ತಿ ಭದ್ರತೆಗೆ ಸರಕಾರದ ಕ್ರಮ: ದೇವಾಲಯಗಳ ಜಾಗ ಒತ್ತುವರಿಗೆ ಬೀಳಲಿದೆ ಇನ್ಮುಂದೆ ಬ್ರೇಕ್, ಏನಿದು ಗೊತ್ತಾ ಖಾತೆ ಇಂಡೀಕರಣ?](https://vijaykarnataka.com/news/karnataka/government-measures-to-secure-temple-assets-encroachment-on-temple-land-to-be-curbed-do-you-know-what-khata-integration-is/articleshow/134232528.cms)
 
 **The Hindu**
+- [Revised design clears hurdle for Pavangad ROB approach road](https://www.thehindu.com/news/national/kerala/revised-design-clears-hurdle-for-pavangad-rob-approach-road/article71462930.ece)
+- [Assam man accused of wife’s beheading dies after jumping from police vehicle](https://www.thehindu.com/news/national/assam/assam-man-accused-of-wifes-beheading-dies-after-jumping-from-police-vehicle/article71465672.ece)
+- [Dhruv Vikram next is ‘Jackie,’ produced by Mythri Movie Makers; first look out](https://www.thehindu.com/entertainment/movies/dhruv-vikram-next-is-jackie-produced-by-mythri-movie-makers-first-look-out/article71465658.ece)
 - [West Bengal government issues closure notice to 252 unaided and unrecognised madrasas](https://www.thehindu.com/news/national/west-bengal/west-bengal-governmentissues-closure-notice-to-252-unaided-and-unrecognised-madrasas/article71465404.ece)
 - [CBI registers FIR in Disha Salian death case](https://www.thehindu.com/news/cities/Delhi/cbi-registers-fir-in-celebrity-manager-disha-salian-death-case/article71465640.ece)
 - [Police officer under probe in Keralam after seized tobacco stolen from station](https://www.thehindu.com/news/national/kerala/police-officer-under-probe-in-keralam-after-seized-tobacco-stolen-from-station/article71465541.ece)
@@ -69,11 +72,10 @@
 - [UP leaders greet people on Hindi Diwas, say respect for Hindi is respect for nation](https://www.thehindu.com/news/national/uttar-pradesh/up-leaders-greet-people-on-hindi-diwas-say-respect-for-hindi-is-respect-for-nation/article71465592.ece)
 - [‘Mookuthi Amman 2 - Maha Sakthi’ teaser: Nayanthara’s titular Goddess takes on a new, powerful foe](https://www.thehindu.com/entertainment/movies/mookuthi-amman-2-maha-sakthi-teaser-nayanthara-sundar-c-regena-cassandrra-hiphop-tamizha/article71465551.ece)
 - [Meta restricts access to viral AI video of Keralam CM dancing over power cuts](https://www.thehindu.com/news/national/kerala/meta-restricts-access-to-viral-ai-video-of-keralam-cm-dancing-over-power-cuts/article71465583.ece)
-- [Delhi building collapse: High Court refuses urgent listing of plea over demolition of adjoining structure](https://www.thehindu.com/news/cities/Delhi/delhi-building-collapse-high-court-refuses-urgent-listing-of-plea-over-demolition-of-adjoining-structure/article71465528.ece)
-- [Floods hit 49 lakh people in 15 Bihar districts as rivers keep swelling](https://www.thehindu.com/news/national/bihar/floods-hit-lakhs-of-people-in-bihar-districts-as-rivers-keep-swelling/article71465574.ece)
-- [Jharkhand Governor Santosh Gangwar, CM Hemant Soren greet people on Ganesh Chaturthi](https://www.thehindu.com/news/national/jharkhand/jharkhand-governor-santosh-gangwar-cm-hemant-soren-greet-people-on-ganesh-chaturthi/article71465571.ece)
 
 **Livemint**
+- [Uniform Civil Code: Amit Shah targets 2029 rollout across 21 NDA states – where is UCC already in force?](https://www.livemint.com/news/india/uniform-civil-code-amit-shah-targets-2029-rollout-across-21-nda-states-where-is-ucc-already-in-force-11789372433501.html)
+- [Saudi-Houthis clash: Traders expect Riyadh to run out of oil stocks soon if work on east-west pipeline doesn't resume](https://www.livemint.com/news/world/saudihouthis-clash-traders-expect-riyadh-to-run-out-of-oil-stocks-soon-if-work-on-east-west-pipeline-doesnt-resume-11789372007752.html)
 - [Gurugram road rage caught on camera as car hits woman biker, driver flees: ‘He kept making hand gestures'](https://www.livemint.com/news/india/gurugram-road-rage-caught-on-camera-as-car-hits-woman-biker-driver-flees-he-kept-making-hand-gestures-11789367108481.html)
 - [Kargil veteran assaulted in Gurugram: Parking staff allegedly hit 'Op Safed Sagar' hero with iron rod](https://www.livemint.com/news/india/kargil-veteran-assaulted-in-gurugram-parking-staff-allegedly-hit-op-safed-sagar-hero-with-iron-rod-11789363628748.html)
 - [From missing Apple internship to joining Revolut: Meet engineering student who landed  ₹4.5 lakh monthly opportunity](https://www.livemint.com/news/trends/from-missing-apple-internship-to-joining-revolut-meet-engineering-student-who-landed-4-5-lakh-monthly-opportunity-11789356552584.html)
@@ -82,8 +84,6 @@
 - [Delhi on IMD's alert as city braces for rainy season's last few wet spells — monsoon to withdraw soon](https://www.livemint.com/news/india/delhi-on-imds-alert-as-city-braces-for-rainy-seasons-last-few-wet-spells-monsoon-to-withdraw-soon-11789350604360.html)
 - [Amazon pauses operations with 21 Air, carrier behind Miami cargo plane crash that killed five](https://www.livemint.com/news/us-news/amazon-pauses-operations-with-21-air-carrier-operating-aircraft-that-overshot-the-runway-at-miami-airport-killing-five-11789351880819.html)
 - [Petrol and diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru as crude rose after Saudi shut key oil pipeline](https://www.livemint.com/news/india/petrol-and-diesel-prices-today-fuel-rates-in-delhi-mumbai-bengaluru-as-crude-rose-after-saudi-shut-key-oil-pipeline-11789346790679.html)
-- [Diversification & demand destruction: How India managed its energy needs amid the Iran war](https://www.livemint.com/news/india/crude-oil-prices-indian-crude-basket-trade-deficit-india-11789303115335.html)
-- [US-Iran war LIVE: Oil prices jump more than 3% after Houthis launch fresh strikes on Saudi Arabia](https://www.livemint.com/news/us-news/us-iran-war-news-latest-live-updates-donald-trump-saudi-houthis-strait-of-hormuz-bab-al-mandab-strait-crude-oil-prices-11789346363638.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,9 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- ["ಎಲ್ಲರನ್ನೂ ಭೇಟಿಯಾಗುತ್ತೇವೆ, ಇದು ಸಂಪ್ರದಾಯವಷ್ಟೇ": ಏಷ್ಯಾ ಕಪ್ ಫೈನಲ್ ಬಳಿಕ ಮೊಹ್ಸಿನ್ ನಖ್ವಿ ಭೇಟಿ ಬಗ್ಗೆ BCCI ಕಾರ್ಯದರ್ಶಿ ದೇವಜಿತ್ ಸೈಕಿಯಾ ಪ್ರತಿಕ್ರಿಯೆ](https://www.varthabharati.in/sports/devajit-saikia-speaks-about-meeting-mohsin-naqwi-after-asia-cup-final-2275137)
+- [2013ರ ಅತ್ಯಾಚಾರ ಪ್ರಕರಣ: ನ್ಯಾಯಾಲಯಕ್ಕೆ ಶರಣಾದ ತೆಹಲ್ಕಾ ಸಂಸ್ಥಾಪಕ ತರುಣ್ ತೇಜ್‌ಪಾಲ್](https://www.varthabharati.in/National/tehelka-founder-tarun-tejpal-surrenders-before-law-2275135)
+- [ಟಿ.ನರಸೀಪುರ ಪ್ರತಿಭಟನೆ ವೇಳೆ ಬಿಜೆಪಿಯೊಳಗಿನ ಅಸಮಾಧಾನ ಸ್ಫೋಟ: ಪ್ರತಾಪ್ ಸಿಂಹ, ಎಲ್.ನಾಗೇಂದ್ರ ನಡುವೆ ತಳ್ಳಾಟ-ನೂಕಾಟ](https://www.varthabharati.in/mysore/pratap-simha-l-nagendra-2275136)
 - [ದಿಲ್ಲಿಯಿಂದ ತೆರಳುವ ಮುನ್ನ ಕಾರು ಚಾಲಕನಿಗೆ ಅಭಿನಂದಿಸಿದ ಅಬುಧಾಬಿ ಯುವರಾಜ: ವಿಡಿಯೋ ವೈರಲ್](https://www.varthabharati.in/national/abu-dhabi-prince-thanks-chauffer-before-taking-plane-from-delhi-2275133)
 - [Gundlupete | ಕಾಡಾನೆ ದಾಳಿ; ತೀವ್ರವಾಗಿ ಗಾಯಗೊಂಡಿದ್ದ ರೈತ ಮೃತ್ಯು](https://www.varthabharati.in/chamarajanagar/gundlupete-wild-elephant-attack-2275132)
 - [Assam | ಪತ್ನಿಯ ಶಿರಚ್ಛೇದ ಮಾಡಿ, ಆಕೆಯ ‘ಶುಗರ್ ಡ್ಯಾಡಿ’ಯನ್ನು ಕೊಲ್ಲುವುದಾಗಿ ಶಪಥ ಮಾಡಿದ್ದ ವ್ಯಕ್ತಿ ಚಲಿಸುವ ಪೊಲೀಸ್ ವಾಹನದಿಂದ ಜಿಗಿದು ಸಾವು](https://www.varthabharati.in/National/man-who-beheaded-wife-vowed-to-kill-her-sugar-daddy-dies-after-jumping-off-moving-police-vehicle-2275131)
@@ -105,30 +108,28 @@
 - [ಸೆ.18: ಪಾಣೆಮಂಗಳೂರಿಗೆ ಅಬ್ದುಲ್ ಹಕೀಮ್ ನದ್ವಿ](https://www.varthabharati.in/DakshinaKannada/sept-18-abdul-hakeem-nadvi-to-visit-panemangalore-2275124)
 - [‘ದೂರ ಇರು’ ಎಂದಿದ್ದಕ್ಕೆ ಮಹಿಳಾ ಬೈಕರ್ ಅನ್ನು ಬೆನ್ನಟ್ಟಿ ಕಾರಿನಿಂದ ಢಿಕ್ಕಿ; ವಿಡಿಯೋ ವೈರಲ್](https://www.varthabharati.in/National/woman-biker-chased-hit-by-car-after-asking-driver-to-stay-away-2275121)
 - [ಕನಕಪುರ: ಬಾಲಕರ  ಹಾಸ್ಟೆಲ್ ಗೆ ಸಿಎಂ ಡಿ.ಕೆ. ಶಿವಕುಮಾರ್ ದಿಢೀರ್ ಭೇಟಿ](https://www.varthabharati.in/bangalore-city/kanakapura-cm-dk-shivakumar-makes-a-surprise-visit-to-boys-hostel-2275119)
-- [ಚಿನ್ನದ ಬೆಲೆಯಲ್ಲಿ ಅಲ್ಪ ಇಳಿಕೆ, ಸ್ಥಿರವಾದ ಬೆಳ್ಳಿ; ಇಂದಿನ ದರವೆಷ್ಟು?](https://www.varthabharati.in/National/gold-rate-comes-down-find-out-the-rates-2275114)
-- [ಸತೀಶ್ ಎದೆಗೆ ಈ.ಡಿ. ಈಟಿ ಇಟ್ಟಿರುವುದೇಕೆ?](https://www.varthabharati.in/on-record/satish-jarkiholi-2275113)
-- [ಸಂಪಾದಕೀಯ | ಒಗ್ಗಟ್ಟಿನ ಸೋಗು, ವೈರುಧ್ಯಗಳ ನಡುವೆ ಏನೂ ಸಾಧಿಸದ ಬ್ರಿಕ್ಸ್ 2026!](https://www.varthabharati.in/podcast/podcast-2275123)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Assam (5.2)
 - Gurugram (5.2)
 - Emkay Global Financial (5.0)
-- Delhi (4.2)
-- Assam (3.9)
 - Opinion (3.9)
 - ICICI Securities (3.0)
 - target (3.0)
-- Police (2.9)
-- Saudi (2.9)
-- India (2.9)
-- Watch (2.6)
-- What (2.6)
-- LIVE (2.6)
-- Disha Salian (2.0)
+- Delhi (2.9)
+- Pakistan (2.6)
+- England (2.6)
 - Buy Bajaj Finance (2.0)
+- Video (1.6)
+- Case (1.6)
+- Mumbai (1.6)
+- Woman (1.6)
+- Bengaluru (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [Talks between Iran and Gulf countries in Oman postponed ‘in the interests of consensus’](https://www.thehindu.com/news/international/talks-between-iran-and-gulf-countries-in-oman-postponed-in-the-interests-of-consensus/article71464526.ece)
 - [പാക് ക്രിക്കറ്റ് ബോർഡ് ചെയ‍‍ർമാൻ മൊഹ്സിൻ നഖ്‍വിയിൽനിന്ന് ട്രോഫി വാങ്ങാൻ വിസമ്മതിച്ച് ഇന്ത്യൻ വനിതകളും; 2025-ന് സമാനം](https://www.asianetnews.com/cricket-sports/womens-asia-cup-indian-team-refused-to-take-trophy-from-pakistan-mohsin-naqvi-articleshow-26lvcox)
 - [ముంబై గణేశుడికి 703 కోట్ల బీమా](https://www.ntnews.com/national/mumbai-ganesh-idol-insured-for-record-rs-703-crore-2510469)
 - [Breaking News : મહિલા એશિયા કપ 2026 ફાઇનલમાં જીત બાદ ટીમ ઈન્ડિયાએ મોહસીન નકવીના હાથે ટ્રોફી ન સ્વીકારી](https://tv9gujarati.com/sports/cricket-news/india-wins-womens-asia-cup-2026-refuses-trophy-from-mohsin-naqvi-1515037.html)
@@ -138,7 +139,6 @@
 - [Bageshwar Baba News: বাগেশ্বর বাবার ছবি পোড়ানোর অভিযোগ, ভবানীপুর থানায় ২ কংগ্রেস নেতাকে জেরা, বাইরে স্লোগান যুদ্ধ](https://bengali.abplive.com/district/allegation-of-burning-bageshwar-baba-picture-2-congress-leaders-questioned-at-bhabanipur-police-station-sloganing-outside-1192719)
 - [Apple counters steep iPhone price hike with cashback, trade](https://www.moneycontrol.com/technology/apple-counters-steep-iphone-price-hike-with-cashback-trade-ins-offers-to-woo-buyers-ahead-of-festive-season-article-14029038.html)
 - [IND vs AFG: Arshdeep, Abhishek power India to 7-wicket win over Afghanistan](https://www.business-standard.com/cricket/news/india-vs-afghanistan-live-streaming-how-to-watch-1st-t20i-live-in-india-126091300545_1.html)
-- [India women's team refuses to take Asia Cup trophy from Mohsin Naqvi after title win - WATCH](https://timesofindia.indiatimes.com/sports/cricket/news/india-womens-team-refuses-asia-cup-trophy-from-mohsin-naqvi-after-title-win/articleshow/134220894.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
