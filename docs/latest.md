@@ -1,15 +1,15 @@
-# India Trending Report — 2026-09-14 05:34:38
+# India Trending Report — 2026-09-14 06:02:31
 
 ## Google Trends (India) — top trending searches
-1. [कर्मचारी भविष्य निधि संगठन](https://trends.google.com/trending/rss?geo=IN)
-2. [taiwan index](https://trends.google.com/trending/rss?geo=IN)
+1. [taiwan index](https://trends.google.com/trending/rss?geo=IN)
+2. [कर्मचारी भविष्य निधि संगठन](https://trends.google.com/trending/rss?geo=IN)
 3. [গণেশ](https://trends.google.com/trending/rss?geo=IN)
 4. [ഷാര്ജ](https://trends.google.com/trending/rss?geo=IN)
 5. [fiba basketball world cup](https://trends.google.com/trending/rss?geo=IN)
 6. [கே. ஏ. செங்கோட்டையன்](https://trends.google.com/trending/rss?geo=IN)
 7. [இலங்கை](https://trends.google.com/trending/rss?geo=IN)
 8. [operation safed sagar](https://trends.google.com/trending/rss?geo=IN)
-9. [iphone duo santy sharma viral post news](https://trends.google.com/trending/rss?geo=IN)
+9. [santy sharma iphone](https://trends.google.com/trending/rss?geo=IN)
 10. [nassr](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
@@ -17,12 +17,12 @@
 - [Gurgaon: Car follows woman biker, hits her bike and flees; incident caught on cam](https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-road-rage-car-follows-woman-biker-hits-her-bike-and-flees-incident-caught-on-camera/articleshow/134231476.cms)
 - [China scales back troops along LAC amid thaw in ties with India; down to 10 Arms Brigade](https://timesofindia.indiatimes.com/defence/news/china-scales-back-troops-along-lac-amid-thaw-in-ties-with-india-down-to-10-arms-brigade/articleshow/134232310.cms)
 - [‘Plane started to plummet’: Passengers scream as flight hits turbulence](https://timesofindia.indiatimes.com/world/europe/plane-started-to-plummet-passengers-scream-as-turkish-airlines-flight-hits-turbulence/articleshow/134232861.cms)
+- ['We meet everyone': Devajit Saikia meets Mohsin Naqvi; India skip trophy ceremony](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/we-meet-everyone-mohsin-naqvi-meets-bccis-rajeev-shukla-devajit-saikia-after-asia-cup-final-as-indian-team-skip-trophy-ceremony/articleshow/134232027.cms)
+- [Tech VC on Nike’s worst-ever stock fall: ‘Mastery & excellence became too traditional’](https://timesofindia.indiatimes.com/technology/tech-news/as-nike-stock-sees-worst-fall-in-its-history-tech-vc-chamath-palihapitiya-on-what-went-wrong-with-the-american-shoe-giant-somewhere-along-the-way-/articleshow/134231367.cms)
 - [Pregnant woman among four killed in attacks on Kuki villages in Manipur](https://timesofindia.indiatimes.com/city/guwahati/twin-manipur-attacks-village-bodies-allege-nscn-zuf-hand-in-killing-of-4-kukis/articleshow/134211178.cms)
-- [World’s biggest bank to job seekers: We want to know how you use AI](https://timesofindia.indiatimes.com/technology/tech-news/worlds-biggest-bank-to-investment-banking-candidates-we-want-to-know-how-you-use-ai-to-/articleshow/134231841.cms)
 - [Coach's fasting, nod to Dhoni, 'funniest' team: Inside Ganges Grandmasters' GCL title](https://timesofindia.indiatimes.com/sports/chess/a-coachs-fasting-nod-to-ms-dhoni-and-the-funniest-team-inside-ganges-grandmasters-gcl-2026-title/articleshow/134231736.cms)
 - [9 dead in 3 days after consuming spurious liquor in Nagaland](https://timesofindia.indiatimes.com/city/guwahati/9-dead-in-3-days-after-consuming-spurious-liquor-in-nagaland/articleshow/134213433.cms)
 - ['A ceremony of light': First-ever Ganga Aarti held on River Thames in London - video](https://timesofindia.indiatimes.com/world/uk/a-ceremony-of-light-first-ever-ganga-aarti-held-on-river-thames-in-london-video/articleshow/134232225.cms)
-- [Jeff Bezos to Mamdani: ‘Villain strategy’ won’t work; Ken Griffin isn’t hurting New York](https://timesofindia.indiatimes.com/technology/tech-news/when-jeff-bezos-told-mayor-zohran-mamdani-villain-strategy-wont-work-citadel-ceo-ken-griffin-is-not-hurting-new-york-in-fact-/articleshow/134231866.cms)
 - [Russia offers Rs 16 lakh per foreign soldier for Ukraine war: Report](https://timesofindia.indiatimes.com/world/europe/russia-offers-rs-16-lakh-to-recruit-foreigners-for-ukraine-war/articleshow/134231969.cms)
 
 **NDTV**
@@ -38,30 +38,33 @@
 - [The Politics Of Blue: Why Akhilesh Yadav-vs-Mayawati Over A Colour Is Just One Shade Of History](https://www.ndtv.com/india-news/politics-of-blue-why-akhilesh-yadav-versus-mayawati-is-just-one-shade-of-the-colours-history-spanning-ambedkar-to-pa-ranjith-12042104#publisher=newsstand)
 
 **Hindustan Times**
+- [Manipur: 4 Naga homes set afire in retaliatory attack hours after Kuki killings](https://www.hindustantimes.com/india-news/manipur-4-naga-homes-set-afire-in-retaliatory-attack-hours-after-kuki-killings-101789365061070.html)
+- [‘Op Safed Sagar’ veteran assaulted over parking dispute in Gurugram; FIR filed](https://www.hindustantimes.com/india-news/op-safed-sagar-veteran-assaulted-over-parking-dispute-in-gurugram-fir-filed-101789364400418.html)
+- [In a first, Ganga aarti held on London's Thames river | Watch](https://www.hindustantimes.com/india-news/in-a-first-ganga-aarti-held-on-londons-thames-river-watch-101789363767980.html)
+- [Tamil Nadu CM Vijay's London Silverstone visit sparks row, opposition question 'purpose'](https://www.hindustantimes.com/india-news/vijay-london-visit-silverstone-ajith-kumar-tamil-nadu-investment-opposition-criticism-dmk-aiadmk-bjp-101789363112757.html)
+- [India-Russia-China bonhomie on display at BRICS: What the Modi-Xi-Putin group photos reveal](https://www.hindustantimes.com/india-news/india-russia-china-bonhomie-at-brics-what-the-narendra-modi-xi-jinping-vladimir-putin-group-photos-reveal-101789360596765.html)
 - [Andhra Guv, CM extend Ganesh Chaturthi greetings](https://www.hindustantimes.com/india-news/andhra-guv-cm-extend-ganesh-chaturthi-greetings-101789361844556.html)
 - [Goa elevated corridor use restricted after mishaps kill 2, days after opening](https://www.hindustantimes.com/india-news/goa-elevated-corridor-use-restricted-after-mishaps-kill-2-days-after-opening-101789361701498.html)
 - [Progress of Hindi purposeful only with promotion, protection of other Indian languages: Shah](https://www.hindustantimes.com/india-news/progress-of-hindi-purposeful-only-with-promotion-protection-of-other-indian-languages-shah-101789361234202.html)
 - [On camera, car chases, rams woman biker on Gurugram road: 'Kept making hand gestures'](https://www.hindustantimes.com/india-news/woman-biker-on-joyride-claims-car-chased-hit-her-in-gurugram-after-she-asked-it-to-stay-away-101789359968895.html)
 - [HT Morning Brief September 14: UCC in all NDA states; the Asia Cup row; Hormuz deal in limbo](https://www.hindustantimes.com/india-news/ht-morning-brief-september-14-hormuz-deal-in-limbo-ucc-in-all-nda-states-asia-cup-row-bigg-boss-20-tv-show-101789358326018.html)
-- [No act of violence will be allowed to derail Manipur's path towards peace: State home minister](https://www.hindustantimes.com/india-news/no-act-of-violence-will-be-allowed-to-derail-manipur-s-path-towards-peace-state-home-minister-101789358619634.html)
-- [Stock market holiday today: NSE, BSE closed on September 14 for Ganesh Chaturthi; trading resumes Tuesday](https://www.hindustantimes.com/india-news/stock-market-holiday-today-nse-bse-closed-on-september-14-for-ganesh-chaturthi-monday-nifty-sensex-101789357391464.html)
-- [Congress, BJP trade barbs over all-vegetarian fare for dignitaries at Brics Summit](https://www.hindustantimes.com/india-news/congress-bjp-trade-barbs-over-all-vegetarian-food-for-dignitaries-at-brics-summit-101789353713490.html)
-- [4 killed, 6-year-old injured after fresh violence breaks out in Manipur's Tamenglong](https://www.hindustantimes.com/india-news/manipur-violence-tamenglong-assam-tollen-police-bullet-injury-death-black-day-kuki-naga-conflict-101789352303213.html)
-- [CPI(M) in Keralam vows to fix lapses, regain public trust after poll debacle](https://www.hindustantimes.com/india-news/cpim-in-keralam-vows-to-fix-lapses-regain-public-trust-after-poll-debacle-101789328572407.html)
 
 **Vijay Karnataka**
+- [ಬ್ರಿಟನ್‌ ವಿಭಜನೆ ಸನ್ನಿಹಿತ? ಭಾರತವನ್ನು ತುಂಡರಿಸಿದ ದೇಶಕ್ಕೆ ಕಾಲದ ಹೊಡೆತ: ಸೂರ್ಯ ಮುಳುಗದ ಸಾಮ್ರಾಜ್ಯದಲ್ಲಿ ಗಾಢ ಅಂಧಕಾರ!](https://vijaykarnataka.com/news/world/united-kingdom-in-crisis-cardiff-summit-that-could-tear-britain-apart-hisoric-irony-explained/articleshow/134232624.cms)
+- [ಚುನಾವಣೆಯ ವೇಳೆ ಒಬ್ರು ಪ್ಯಾರಾಚೂಟ್’ನಿಂದ ಇಳಿಯಲಿದ್ದಾರೆ : ಅಶೋಕ್, ವಿಜಯೇಂದ್ರಗೆ ಸಿಎಂ ಡಿಕೆಶಿ ಎಚ್ಚರಿಕೆ!](https://vijaykarnataka.com/news/karnataka/dk-shivakumar-warns-r-ashoka-vijayendra-parachute-entry-karnataka-politics/articleshow/134233486.cms)
 - [ಆಂಧ್ರಕ್ಕೆ ಸಿಗಡಿ ಉದ್ಯಮ ಶಿಫ್ಟ್‌: ಕೇರಳಂನ ಪ್ರಮುಖ ಕೈಗಾರಿಕಾ ಸಂಸ್ಥೆಗಳ ಫ್ಯಾಕ್ಟರಿಗಳು ಸ್ಥಳಾಂತರ, ಉದ್ಯೋಗ ನಷ್ಟದ ಆತಂಕ](https://vijaykarnataka.com/news/kasaragod/shrimp-industry-shifts-to-andhra-pradesh-major-industrial-units-from-keralam-relocate-fears-of-job-losses/articleshow/134232551.cms)
+- [ಗಣಪನ ದರ್ಶನಕ್ಕೆ ಹೇಗೆ ಡ್ರೆಸ್ ಮಾಡಿಕೊಳ್ಳಬೇಕು? ಗಣೇಶ ಚತುರ್ಥಿಗೆ 5 ಎಥ್ನಿಕ್ ಲುಕ್‌ಗಳು](https://vijaykarnataka.com/lifestyle/fashion/ganesh-chaturthi-2026-ethnic-outfit-ideas-comfortable-looks/articleshow/134233604.cms)
 - [ಜೆನ್‌ಜಿ ಉದ್ಯೋಗ ಕ್ರಾಂತಿಗೆ ಕರ್ನಾಟಕದ ವಿವಿಗಳಲ್ಲಿ ಶೀಘ್ರವೇ ಟೆಕ್, ಸ್ಕಿಲ್ ಆಧಾರಿತ ಕೋರ್ಸ್‌ ಸೇರ್ಪಡೆ; ಯಾವೆಲ್ಲಾ ಕೋರ್ಸ್‌ ರೆಡಿ?](https://vijaykarnataka.com/news/karnataka/tech-and-skill-based-courses-to-be-introduced-in-karnataka-universities-to-boost-youth-job-opportunities/articleshow/134232515.cms)
-- [ಸೆ.12ರಂದು ಕುಮಾರಸ್ವಾಮಿ ಪತ್ರಿಕಾಗೋಷ್ಠಿ, 'ಅಲ್ಲೋಲ ಕಲ್ಲೋಲ ಸೃಷ್ಟಿ' ಏನಾಯಿತು - ಸಿಎಂ ಡಿಕೆಶಿ ಪ್ರಶ್ನೆ?](https://vijaykarnataka.com/news/bengaluru-city/cm-dk-shivakumar-hd-kumaraswamy-karnataka-politics-september-12-updates/articleshow/134232370.cms)
-- [ಗಣೇಶ ಚತುರ್ಥಿ 2026: ಪನೀರ್-ಮಖಾನಾದಿಂದ ಮಾಡಿ ವಿಶೇಷ ಮೋದಕ, ರುಚಿ ಸೂಪರ್!](https://vijaykarnataka.com/lifestyle/home-decor/ganesh-chaturthi-2026-paneer-makhana-modak-recipe/articleshow/134230983.cms)
-- [ಇತಿಹಾಸದಲ್ಲೇ ಮೊದಲ ಬಾರಿಗೆ ಮೈಸೂರಿಗೂ ಮುನ್ನ ಮಡಿಕೇರಿ ದಸರಾ: ದಶಮಂಟಪ ಸಮಿತಿ ನಿರ್ಧಾರಕ್ಕೆ ಪರ-ವಿರೋಧದ ಬಿಸಿ!](https://vijaykarnataka.com/news/kodagu/madikeri-dasara-dasamantapa-shobhayatra-to-happen-before-mysuru-dasara-change-in-date-stirs-controversy/articleshow/134231921.cms)
-- [ಪುತ್ರನಿಗೆ ʻಎರೆಯʼ ಎಂದು ನಾಮಕರಣ ಮಾಡಿದ ಡಾಲಿ ಧನಂಜಯ್:‌ ಈ ಹೆಸರಿನ ಹಿಂದಿದೆ ಭವ್ಯ ಇತಿಹಾಸ!](https://vijaykarnataka.com/entertainment/news/dali-dhananjay-and-dhanyatha-reveals-son-name-ereya-meaning/articleshow/134232222.cms)
+- [ಧರಿಸಲು ಬಟ್ಟೆಯಿಲ್ಲದೇ ಕಣ್ಣಿರಿಟ್ಟ ಜಗ್ಗ ಮಮ್ಮಿ: ಬಟ್ಟೆ ಕಳುಹಿಸಿ ದೊಡ್ಡತನ ಮೆರೆದ ಕಿಚ್ಚ ಸುದೀಪ್!](https://vijaykarnataka.com/tv/bigg-boss-kannada/kiccha-sudeep-sends-clothes-to-jagga-mummy-in-bigg-boss-kannada-13/articleshow/134233412.cms)
 - [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
 - [2026 ಗಣೇಶ ಚತುರ್ಥಿ: ಗಣೇಶನಿಗೆ ಸಂಬಂಧಿಸಿದ ಕನಸುಗಳ ಅರ್ಥ ಮತ್ತು ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/superstition/ganesh-chaturthi-2026-seeing-these-things-in-your-dream-will-bring-ganesha-grace/articleshow/134218213.cms)
-- [ಹೆಚ್ಚು ಗಂಟೆಗಳ ಕೆಲಸ ಹೃದಯಕ್ಕೆ ಅಪಾಯವೇ? ಕೆಲಸದ ಒತ್ತಡದಿಂದ ಹೃದಯಾಘಾತದ ಅಪಾಯ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/health/world-heart-day-2026-long-working-hours-heart-attack-risk/articleshow/134193727.cms)
-- [ಅಪ್ರಾಪ್ತೆ ಮೇಲೆ ಸಾಮೂಹಿಕ ಅತ್ಯಾಚಾರ ಪ್ರಕರಣ: ಬರೋಬ್ಬರಿ 9 ವರ್ಷಗಳ ಬಳಿಕ ಇಬ್ಬರಿಗೆ 20 ವರ್ಷ ಜೈಲು ಶಿಕ್ಷೆ, ಇಬ್ಬರು ಇನ್ನೂ ನಾಪತ್ತೆ!](https://vijaykarnataka.com/news/karnataka/2-sentenced-to-20-years-imprisonment-after-9-years-over-sexually-assaulting-minor-girl/articleshow/134231259.cms)
+- [ಗಣೇಶ ಚತುರ್ಥಿ 2026: ಪನೀರ್-ಮಖಾನಾದಿಂದ ಮಾಡಿ ವಿಶೇಷ ಮೋದಕ, ರುಚಿ ಸೂಪರ್!](https://vijaykarnataka.com/lifestyle/home-decor/ganesh-chaturthi-2026-paneer-makhana-modak-recipe/articleshow/134230983.cms)
+- [ಸೆ.12ರಂದು ಕುಮಾರಸ್ವಾಮಿ ಪತ್ರಿಕಾಗೋಷ್ಠಿ, 'ಅಲ್ಲೋಲ ಕಲ್ಲೋಲ ಸೃಷ್ಟಿ' ಏನಾಯಿತು - ಸಿಎಂ ಡಿಕೆಶಿ ಪ್ರಶ್ನೆ?](https://vijaykarnataka.com/news/bengaluru-city/cm-dk-shivakumar-hd-kumaraswamy-karnataka-politics-september-12-updates/articleshow/134232370.cms)
 
 **The Hindu**
+- [Dinesh Sharma to take oath as Andaman and Nicobar Islands lieutenant governor on September 15](https://www.thehindu.com/news/national/andaman-and-nicobar-islands/dinesh-sharma-to-take-oath-as-andaman-and-nicobar-islands-lieutenant-governor-on-september-15/article71465440.ece)
+- [Tribal children’s deaths in Balaghat: CJP’s Dipke mocks Madhya Pradesh government with resignation letter](https://www.thehindu.com/news/national/madhya-pradesh/balaghat-madhya-pradesh-tribal-children-death-abhijeet-dipke-resignation-letter-mohan-yadav-september-13-2026/article71463800.ece)
+- [Unqualified practitioners found treating patients, prescribing allopathic medicines in Hyderabad](https://www.thehindu.com/news/cities/Hyderabad/unqualified-practitioners-found-treating-patients-prescribing-allopathic-medicines-in-hyderabad/article71463649.ece)
 - [West Bengal government issues closure notice to 252 unaided and unrecognised madrasas](https://www.thehindu.com/news/national/west-bengal/west-bengal-governmentissues-closure-notice-to-252-unaided-and-unrecognised-madrasas/article71465404.ece)
 - [Dalits counter BJP protest in T. Narsipur over Ganesha procession](https://www.thehindu.com/news/national/karnataka/bjp-protest-over-police-inspectors-remarks-on-ganesha-procession-rocks-t-narsipur-dalit-groups-stage-counter-protest/article71463434.ece)
 - [Aland MLA B.R. Patil flags lapses in crop insurance disbursement in Karnataka](https://www.thehindu.com/news/national/karnataka/aland-mla-br-patil-flags-lapses-in-crop-insurance-disbursement-in-karnataka/article71463895.ece)
@@ -69,11 +72,9 @@
 - [Waterlogging, poor drainage have halted industrial activity in West Bengal Panihati municipality for months](https://www.thehindu.com/news/national/west-bengal/waterlogging-poor-drainage-have-halted-industrial-activity-in-west-bengal-panihati-municipality-for-months/article71463821.ece)
 - [MPSC exam ‘paper leaks’: CJP to join protesters demanding resignation of key officials](https://www.thehindu.com/news/national/maharashtra/mpsc-exam-paper-leaks-cjp-to-join-protesters-demanding-resignation-of-key-officials/article71465356.ece)
 - [Why the BRICS summit was a major diplomatic win for India](https://www.thehindu.com/videos/why-the-brics-summit-was-a-major-diplomatic-win-for-india/article71465371.ece)
-- [Jharkhand LoP accuses Soren-led govt. of protecting influential people amid CID probe into job exam ‘irregularities’](https://www.thehindu.com/news/national/jharkhand/jharkhand-lop-accuses-soren-led-govt-of-protecting-influential-people-amid-cid-probe-into-job-exam-irregularities/article71463699.ece)
-- [Mumbai on ‘orange’ alert as IMD warns of heavy rain in parts of Maharashtra](https://www.thehindu.com/news/cities/mumbai/mumbai-on-orange-alert-with-moderate-rain-likely-on-sept-14/article71464389.ece)
-- [High ranges of Kottayam mobilise against Centre’s proposed ESA tag](https://www.thehindu.com/news/national/kerala/high-ranges-of-kottayam-mobilise-against-proposed-esa-tag/article71463292.ece)
 
 **Livemint**
+- [Meet Vedaant Madhavan: How R Madhavan’s son is preparing for Asian Games with 4am discipline](https://www.livemint.com/news/trends/meet-vedaant-madhavan-how-r-madhavan-s-son-is-preparing-for-asian-games-with-4am-discipline-11789356388412.html)
 - [Who is Sidharth Babu? The 36-year-old diplomat seen in viral pics of Modi-Xi-Putin BRICS meet](https://www.livemint.com/news/india/who-is-sidharth-babu-the-36-year-old-diplomat-seen-in-viral-pics-of-modi-xi-putin-brics-meet-11789359015318.html)
 - [Delhi on IMD's alert as city braces for rainy season's last few wet spells — monsoon to withdraw soon](https://www.livemint.com/news/india/delhi-on-imds-alert-as-city-braces-for-rainy-seasons-last-few-wet-spells-monsoon-to-withdraw-soon-11789350604360.html)
 - [Amazon pauses operations with 21 Air, carrier behind Miami cargo plane crash that killed five](https://www.livemint.com/news/us-news/amazon-pauses-operations-with-21-air-carrier-operating-aircraft-that-overshot-the-runway-at-miami-airport-killing-five-11789351880819.html)
@@ -83,7 +84,6 @@
 - [Amtrak Trains Between Boston, New York Disrupted Due to Flooding](https://www.livemint.com/news/amtrak-trains-between-boston-new-york-disrupted-due-to-flooding-11789348378816.html)
 - [Happy Ganesh Chaturthi 2026: 150 wishes, images, messages to share on WhatsApp, Facebook, Instagram status](https://www.livemint.com/news/trends/happy-ganesh-chaturthi-2026-wishes-and-messages-for-whatsapp-facebook-instagram-11789322345153.html)
 - [Iranian Official Blocked From UN Nuclear Meeting at US’s Urging](https://www.livemint.com/news/us-news/iranian-official-blocked-from-un-nuclear-meeting-at-us-s-urging-11789339124139.html)
-- [Student suspended on first day of school for bringing coffee and refusing to throw it away](https://www.livemint.com/news/us-news/student-suspended-for-bringing-coffee-on-first-day-of-school-after-refusing-to-throw-drink-away-11789333115390.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,8 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಸತೀಶ್ ಎದೆಗೆ ಈ.ಡಿ. ಈಟಿ ಇಟ್ಟಿರುವುದೇಕೆ?](https://www.varthabharati.in/on-record/satish-jarkiholi-2275113)
+- [Rajasthan ಸ್ಥಳೀಯ ಸಂಸ್ಥೆ ಚುನಾವಣೆ ಫಲಿತಾಂಶ| ಜೈಪುರ, ಅಜ್ಮೀರ್ ಸೇರಿದಂತೆ 9 ನಗರ ಪಾಲಿಕೆಗಳಲ್ಲಿ ಬಿಜೆಪಿಗೆ ಆರಂಭಿಕ ಮುನ್ನಡೆ](https://www.varthabharati.in/National/rajasthan-local-body-election-results-2275110)
 - [ಅತ್ಯುನ್ನತ ಶಿಕ್ಷಣ ಕೇಂದ್ರಗಳಲ್ಲಿ ಅತಿನೀಚ ಮಟ್ಟದ ಜಾತಿ ತಾರತಮ್ಯ](https://www.varthabharati.in/charcharha/the-lowest-level-of-caste-discrimination-in-the-highest-educational-institutions-2275109)
 - [ಮುಸ್ಲಿಮರು ರಾಜಕೀಯ ಪ್ರಾತಿನಿಧ್ಯದ ಬಗ್ಗೆ ಗಮನಹರಿಸಬೇಕು: ಶಾಸಕ ಪ್ರಶಾಂತ್ ಕಿಶೋರ್](https://www.varthabharati.in/National/muslims-should-focus-on-political-representation-mla-prashant-kishor-2275106)
 - [ಭಾಗವತರಿಗೆ ಕೆಲವು ಪ್ರಶ್ನೆಗಳು](https://www.varthabharati.in/prachalita/mohan-bhagwat-2275104)
@@ -106,39 +108,37 @@
 - [Rajasthan | ಪತ್ನಿ, ಮೂವರು ಪುತ್ರಿಯರ ಹತ್ಯೆ: ಆರೋಪಿ ಬಂಧನ](https://www.varthabharati.in/National/rajasthan-murder-of-wife-three-daughters-accused-arrested-2275098)
 - [ಏಷ್ಯಾ ಕಪ್ ಗೆದ್ದರೂ ಟ್ರೋಫಿ ಸ್ವೀಕರಿಸದ ಭಾರತ ಮಹಿಳಾ ತಂಡ; ‘ಇದು ಬಿಸಿಸಿಐ ನಿರ್ಧಾರ’ ಎಂದ ಕೋಚ್](https://www.varthabharati.in/sports/indian-womens-team-wins-asia-cup-but-doesnt-receive-trophy-its-a-bcci-decision-said-the-coach-2275096)
 - [ಒಗ್ಗಟ್ಟಿನ ಸೋಗು, ವೈರುಧ್ಯಗಳ ನಡುವೆ ಏನೂ ಸಾಧಿಸದ ಬ್ರಿಕ್ಸ್ 2026!](https://www.varthabharati.in/sampaadakeeya/brics-2026-a-facade-of-unity-achieving-nothing-amid-contradictions-2275097)
-- [ರಾಜ್ಯದಲ್ಲಿ ಹೆಚ್ಚುತ್ತಿರುವ ಎನ್‌ಡಿಪಿಎಸ್ ಪ್ರಕರಣಗಳು: ಮೂರು ವರ್ಷಗಳಲ್ಲಿ 25,196 ಪ್ರಕರಣಗಳು ದಾಖಲು](https://www.varthabharati.in/vishesha-varadigalu/rising-ndps-cases-in-the-state-25196-cases-registered-in-three-years-2275095)
-- [ಯುಎಸ್ ಓಪನ್ 2026 | ಪುರುಷರ ಸಿಂಗಲ್ಸ್ ನಲ್ಲಿ ಜರ್ಮನಿಯ ಅಲೆಕ್ಸಾಂಡರ್ ಝ್ವರೆವ್ ಚಾಂಪಿಯನ್](https://www.varthabharati.in/sports/us-open-2026-germanys-alexander-zverev-is-the-mens-singles-champion-2275094)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
-- Mumbai (3.9)
-- India (3.2)
+- India (4.5)
 - ICICI Securities (3.0)
 - target (3.0)
+- Gurugram (2.9)
+- BRICS (2.9)
+- Kuki (2.6)
+- Manipur (2.6)
 - Report (2.6)
 - Opinion (2.6)
 - Houthis (2.6)
 - September (2.6)
+- Mumbai (2.6)
 - Delhi (2.6)
-- Over Rs (2.0)
-- Ganesh Chaturthi (2.0)
-- Buy Bajaj Finance (2.0)
-- Saudi (1.9)
-- Gurugram (1.6)
+- Rajasthan (2.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [புதிய தலைமை செயலகம் விரைவில் திட்ட அறிக்கை](https://www.dinamalar.com/amp/news/tamil-nadu-news/new-secretariat-soon-project-report/4322078)
-- [IND vs AFG: वैभव सूर्यवंशी आखिर क्यों हुए प्लेइंग इलेवन से बाहर? टूटा फैन्स का दिल, सेलेक्शन पॉलिसी पर उठाए सवाल](https://www.aajtak.in/sports/cricket/story/ind-vs-afg-1st-t20i-why-vaibhav-sooryavanshi-is-not-playing-fans-angry-reaction-aksp-dskc-2642186-2026-09-13)
-- [મણિપુરમાં ફરી હિંસા, ચાર લોકોના મોત, છ વર્ષના માસૂમને પણ વાગી ગોળી](https://www.gujaratsamachar.com/news/national/violence-breaks-out-again-in-manipur-four-people-die-six-year-old-innocent-also-shot-84271326961)
-- [ഇന്ത്യ-അഫ്ഗാൻ മത്സരത്തിൽ 'ജനഗണമന'ക്ക് മുൻപ് 'വന്ദേമാതരം'; ചരിത്രത്തിൽ ആദ്യം](https://www.mediaoneonline.com/sports/cricket/vande-mataram-before-national-anthem-india-vs-afghanistan-match-report-336946)
-- [ગુજરાતના 233 તાલુકામાં મેઘતાંડવ: બરવાળામાં 3.39 ઈંચ, જાણો ક્યાં કેટલો વરસાદ ખાબક્યો](https://gujarati.abplive.com/news/gujarat/gujarat-heavy-rainfall-233-talukas-botad-barwala-rain-report-seoc-991136)
-- [Bangladesh wants to ‘reset’ ties with India, calls Hasina-era relationship ‘uncomfortable’](https://www.hindustantimes.com/india-news/bangladesh-says-wants-to-reset-ties-with-india-calls-sheikh-hasina-era-relationship-uncomfortable-101789317654247.html)
-- [एशिया कप में भारतीय जूनियर महिला हॉकी टीम ने रचा इतिहास, PM मोदी ने दी बधाई](https://www.aajtak.in/sports/story/pm-modi-congratulates-india-junior-womens-hockey-team-wins-third-consecutive-asia-cup-ntc-aktw-dskc-2642243-2026-09-13)
-- [AFG vs IND: అభిషేక్ శ‌ర్మ విధ్వంసం, ఆఫ్గానిస్తాన్‌పై భార‌త్ ఘ‌న విజ‌యం](https://telugu.asianetnews.com/cricket-sports/afg-vs-ind-abhishek-sharmas-blistering-82-powers-india-to-7-wicket-win-over-afghanistan-articleshow-9exqoqr)
-- [श्वेता तिवारी संग हिट रही जोड़ी, 'टीवी का बेटा' बनकर मिली पहचान, अब कहां गायब हुआ एक्टर?](https://www.aajtak.in/entertainment/television/story/shweta-tiwari-kasautii-zindagii-kay-serial-costar-cezanne-khan-left-tv-away-from-limelight-tmovj-dskc-2642187-2026-09-13)
-- [IND vs AFG: क्रिकेट मैच में पहली बार राष्ट्रगान से पहले बजा 'वंदे मातरम्', दर्शक हैरान](https://www.aajtak.in/sports/cricket/story/ind-vs-afg-vande-mataram-played-before-national-anthem-for-first-time-in-international-cricket-in-india-ntcpvp-rpti-2642190-2026-09-13)
+- [મહિલા એશિયા કપની ફાઈનલમાં ભારતનો શાનદાર વિજય, શ્રીલંકાને 72 રને હરાવ્યું, શેફાલી-સ્મૃતિની તોફાની ફિફ્ટી, ચરણીની 4 વિકેટથી](https://www.gujaratsamachar.com/news/sports/indias-stunning-victory-in-the-womens-asia-cup-final-defeating-sri-lanka-by-72-runs-shafali-smritis-stormy-fifties-charanis-4-wickets-98255991536)
+- [AMCOS-Net: a novel attention-based multimodal fusion architecture for automated corneal opacity segmentation](https://www.nature.com/articles/s41598-026-71341-4?error=cookies_not_supported&code=466548d3-8090-44cf-b51c-56b488e7fae5)
+- [एशिया कप फाइनल में भारतीय टीम ने लहराया जीत का परचम, 8वीं बार जीता खिताब, श्रीलंका को बुरी तरह हराया](https://www.aajtak.in/sports/cricket/story/womens-asia-cup-india-women-vs-sri-lanka-women-final-shafali-verma-and-smriti-mandhana-shine-with-bat-aksp-dskc-2642257-2026-09-13)
+- [Russia strikes Ukrainian train near Poland border minutes after Boris Johnson, European leaders pass through](https://timesofindia.indiatimes.com/world/europe/russia-strikes-train-near-poland-border-minutes-after-boris-johnson-european-leaders-pass-through/articleshow/134216343.cms)
+- [इरुमुडी: लड़कियों का फायदा उठाने वाली टीचर, बेटी की खोज में पिता, OTT पर रवि तेजा की फिल्म आपकी कहानी तो नहीं!](https://navbharattimes.indiatimes.com/entertainment/web-series/latest/irumudi-ott-release-when-and-where-to-watch-ravi-teja-movie/articleshow/134214455.cms)
+- ['Ramayana' first song 'Jai Jai Ram' crooned by Arijit Singh, Shreya Goshal to be out on Ganesh Chaturthi, Ranbir Kapoor, Sai Pallavi's 'Siya Ram' poster to be unveiled](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-first-song-jai-jai-ram-crooned-by-arijit-singh-shreya-goshal-to-be-out-on-ganesh-chaturthi-ranbir-kapoor-sai-pallavis-siya-ram-poster-to-be-unveiled/articleshow/134216451.cms)
+- ['भारत का आकर्षण छोड़ना होगा', तारिक रहमान के मंत्री बोले- ब्रेकफास्ट से डिनर तक, सब दिल्ली में नहीं होगा](https://navbharattimes.indiatimes.com/world/bangladesh/bangladesh-wants-reset-bilateral-relationship-with-india-says-says-tarique-rahman-minister-humaiun-kobir/articleshow/134214394.cms)
+- [India steps up Africa outreach as Modi holds talks with leaders from the continent](https://www.thehindu.com/news/national/india-steps-up-africa-outreach-as-modi-holds-talks-with-leaders-from-the-continent/article71464256.ece)
+- [Why can’t the Right accept Indian-American Longhorn fans?](https://unherd.com/newsroom/why-cant-the-right-accept-indian-american-longhorn-fans/)
+- [Tedros Adhanom: India Reaches 8 Million HPV Vaccine Doses Milestone](https://oncodaily.com/voices/tedros-adhanom-cervical-cancer-585239)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
