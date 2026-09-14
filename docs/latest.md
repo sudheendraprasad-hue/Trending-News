@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-14 18:39:24
+# India Trending Report — 2026-09-14 19:03:25
 
 ## Google Trends (India) — top trending searches
 1. [villarreal vs betis](https://trends.google.com/trending/rss?geo=IN)
 2. [leeds vs newcastle](https://trends.google.com/trending/rss?geo=IN)
 3. [inter vs udinese](https://trends.google.com/trending/rss?geo=IN)
 4. [asian games](https://trends.google.com/trending/rss?geo=IN)
-5. [नैस्डैक](https://trends.google.com/trending/rss?geo=IN)
-6. [punjab t20 league](https://trends.google.com/trending/rss?geo=IN)
-7. [ios 26.7](https://trends.google.com/trending/rss?geo=IN)
-8. [infosys and wipro adr surge](https://trends.google.com/trending/rss?geo=IN)
-9. [weather jammu](https://trends.google.com/trending/rss?geo=IN)
-10. [oracle](https://trends.google.com/trending/rss?geo=IN)
+5. [abvp](https://trends.google.com/trending/rss?geo=IN)
+6. [नैस्डैक](https://trends.google.com/trending/rss?geo=IN)
+7. [punjab t20 league](https://trends.google.com/trending/rss?geo=IN)
+8. [ios 26.7](https://trends.google.com/trending/rss?geo=IN)
+9. [infosys and wipro adr surge](https://trends.google.com/trending/rss?geo=IN)
+10. [weather jammu](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [IAF achieved 314-km 'longest kill' of Pak jet during Op Sindoor: MoD report](https://timesofindia.indiatimes.com/defence/news/how-iaf-achieved-314-km-longest-kill-of-pak-aircraft-during-op-sindoor-reveals-mod-report/articleshow/134244709.cms)
 - [BJP stays on top, Cong gets a warning: What Raj civic polls result means for 2028](https://timesofindia.indiatimes.com/india/bjp-stays-on-top-congress-gets-a-warning-what-rajasthan-civic-polls-mean-for-2028-assembly-elections/articleshow/134243176.cms)
-- ['Triumph of truth over jhooth ki goonj': PM Modi hails BJP win in Raj civic polls](https://timesofindia.indiatimes.com/india/triumph-of-truth-over-jooth-ki-goonj-pm-modi-hails-bjp-victory-in-rajasthan-civic-polls/articleshow/134245366.cms)
 - [UP polls & the fight for Muslim votes: Decoding SP, Congress's Owaisi problem](https://timesofindia.indiatimes.com/india/up-assembly-elections-and-fight-for-muslim-votes-decoding-sp-congresss-owaisi-problem/articleshow/134239210.cms)
-- [‘No help whatsoever’: Trump seeks reimbursement from nations for securing Hormuz](https://timesofindia.indiatimes.com/world/middle-east/no-help-whatsoever-trump-seeks-reimbursement-from-nations-for-securing-strait-of-hormuz/articleshow/134245751.cms)
-- [3 Italian passengers fly out of Delhi without immigration clearance: What exactly happened](https://timesofindia.indiatimes.com/india/3-italian-passengers-fly-out-of-delhi-without-immigration-clearance-what-exactly-happened/articleshow/134244604.cms)
+- ['Triumph of truth over jhooth ki goonj': PM Modi hails BJP win in Raj civic polls](https://timesofindia.indiatimes.com/india/triumph-of-truth-over-jooth-ki-goonj-pm-modi-hails-bjp-victory-in-rajasthan-civic-polls/articleshow/134245366.cms)
+- [Indian travel vlogger claims ‘arrest’ by Afghan ‘Mujahideen’, seeks help](https://timesofindia.indiatimes.com/india/indian-travel-vlogger-claims-arrest-by-afghan-mujahideen-seeks-help/articleshow/134246686.cms)
 - [Oracle layoffs: Employees receive ‘6am job cuts’ email from Oracle leadership again](https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms)
 - [Jemima Goldsmith, 52, remarries; 22 years after divorce from Imran Khan](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jemima-goldsmith-marries-for-second-time-at-52-ties-the-knot-with-irish-australian-financier-cameron-oreilly-22-years-after-divorce-from-imran-khan-her-family-confirms-wedding/articleshow/134245796.cms)
-- [IAF achieved 314-km 'longest kill' of Pak jet during Op Sindoor: MoD report](https://timesofindia.indiatimes.com/defence/news/how-iaf-achieved-314-km-longest-kill-of-pak-aircraft-during-op-sindoor-reveals-mod-report/articleshow/134244709.cms)
+- [‘No help whatsoever’: Trump seeks reimbursement from nations for securing Hormuz](https://timesofindia.indiatimes.com/world/middle-east/no-help-whatsoever-trump-seeks-reimbursement-from-nations-for-securing-strait-of-hormuz/articleshow/134245751.cms)
+- [3 Italian passengers fly out of Delhi without immigration clearance: What exactly happened](https://timesofindia.indiatimes.com/india/3-italian-passengers-fly-out-of-delhi-without-immigration-clearance-what-exactly-happened/articleshow/134244604.cms)
 - [‘Same govt had closed the case’: Supriya questions fresh CBI probe into Disha's death](https://timesofindia.indiatimes.com/india/same-government-had-closed-the-case-supriya-sule-questions-fresh-cbi-probe-into-disha-salians-death/articleshow/134245820.cms)
-- [Texas politics inflamed by MAGA cowboys v Indians row](https://timesofindia.indiatimes.com/world/us/texas-politics-inflamed-by-maga-cowboys-v-indians-row/articleshow/134243784.cms)
 
 **NDTV**
 - ["Sick Conspiracy": US, China On Same Page On Snubbing AI Slowdown Calls](https://www.ndtv.com/world-news/sick-conspiracy-us-china-on-same-page-on-snubbing-ai-slowdown-call-12046345#publisher=newsstand)
@@ -49,17 +49,7 @@
 - [Meta restricts access in India to viral AI video of Keralam CM dancing with KSEB officials](https://www.hindustantimes.com/india-news/meta-restricts-access-in-india-to-viral-ai-video-of-keralam-cm-v-d-satheesan-dancing-with-kseb-officials-101789396580926.html)
 - [‘Trump is copying us’: Karnataka CM Shivakumar says Congress welfare model inspired US's $5,000 plan](https://www.hindustantimes.com/india-news/trump-is-copying-us-karnataka-cm-dk-shivakumar-says-congress-welfare-model-inspired-us-usd-5-000-plan-101789392970485.html)
 
-**Vijay Karnataka**
-- [ಇಮಿಗ್ರೇಷನ್ ಇಲ್ಲದೆ ದಿಲ್ಲಿಯಿಂದ ಜರ್ಮನಿ ತಲುಪಿದ ಮೂವರು ಇಟಲಿಗರು! ಏರ್ ಇಂಡಿಯಾ ವಿರುದ್ಧ ಕೇಂದ್ರ ಗರಂ](https://vijaykarnataka.com/news/new-delhi/3-italians-fly-from-delhi-airport-without-immigration-check-notice-to-air-india/articleshow/134245597.cms)
-- [ಕೇದಾರನಾಥ ಮಾರ್ಗದಲ್ಲಿ ಭೀಕರ ಭೂಕುಸಿತ: ಯಾತ್ರೆ ತಾತ್ಕಾಲಿಕ ಸ್ಥಗಿತ; 6,500ಕ್ಕೂ ಹೆಚ್ಚು ಯಾತ್ರಾರ್ಥಿಗಳ ರಕ್ಷಣೆ](https://vijaykarnataka.com/news/india/massive-landslide-on-the-kedarnath-route-over-6500-pilgrims-rescued-/articleshow/134244606.cms)
-- [ಪ್ರಧಾನಿ ಮೋದಿ ಜನ್ಮದಿನ: ಸೆ. 17ಕ್ಕೆ ಸಂಜೆ 6 ರಿಂದ 7 ರವರೆಗೆ ಮನೆಗಳಲ್ಲಿ ಆಶೀರ್ವಾದದ ದೀಪ ಬೆಳಗಿಸಿ! ದೇಶದ ಜನರಿಗೆ BJP ಕರೆ](https://vijaykarnataka.com/news/india/pm-modi-birthday-bjp-calls-for-lighting-lamps-of-blessing-at-home-and-praying-for-his-long-life-and-good-health/articleshow/134243862.cms)
-- [50ರ ನಂತರವೂ ವಿಜಯ್–ಅಜಿತ್‌ನಂತೆ ಫಿಟ್ ಆಗಿರಬೇಕಾ? ವಿಜ್ಞಾನ ಹೇಳುವ ಈ ಆರೋಗ್ಯಕರ ಅಭ್ಯಾಸಗಳನ್ನು ರೂಢಿಸಿಕೊಳ್ಳಿ!](https://vijaykarnataka.com/lifestyle/fitness/vijay-ajith-fitness-after-50-healthy-habits/articleshow/134244779.cms)
-- [ಮಿಸ್ಟರಿ ಸ್ಪಿನ್ನರ್ ವರುಣ್ ಚಕ್ರವರ್ತಿ ಅಫ್ಘಾನಿಸ್ತಾನ ಟಿ20 ಸರಣಿಯಿಂದ ಔಟ್: ಮುಂಬರುವ ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಗೂ ಡೌಟ್!](https://vijaykarnataka.com/sports/cricket/news/varun-chakravarthy-out-of-afghanistan-t20-series-asian-games-participation-also-in-doubt/articleshow/134243417.cms)
-- [ಯುವ ರಾಜಕುಮಾರ್ ಈಗ ‘ಪವರ್ ಮ್ಯಾನ್’! ಗಣೇಶ ಹಬ್ಬದಂದೇ ಶೀರ್ಷಿಕೆ ಅನಾವರಣ](https://vijaykarnataka.com/entertainment/news/yuva-rajkumar-starrer-new-movie-is-titled-as-power-man-directed-by-jadesh-k-hampi/articleshow/134246368.cms)
-- [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
-- [ದೀಪದ ಜ್ವಾಲೆಯಲ್ಲಿ ಕಾಣಿಸುವ ವಿವಿಧ ಆಕಾರಗಳ ಅರ್ಥ ಮತ್ತು ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/know-which-type-of-puja-diya-flame-is-auspicious/articleshow/134241622.cms)
-- [35ರ ನಂತರ ತಂದೆಯಾಗುವುದು: ರಣವೀರ್ ಸಿಂಗ್, ವಿಕ್ಕಿ ಕೌಶಲ್ ಬಳಿಕ ಪುರುಷರ ವೀರ್ಯಾಣು ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಅಧ್ಯಾಯನ ಹೇಳುವುದೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/ranveer-singh-vicky-kaushal-fatherhood-after-35-male-fertility-sperm-health/articleshow/134236848.cms)
-- [VK Real Estate Summit & Awards 2026: ಸೆ.25 ಕ್ಕೆ ತಜ್ಞರ ಮಹಾಮಂಥನ - ದಕ್ಷಿಣ ಭಾರತದ ರಿಯಲ್ ಎಸ್ಟೇಟ್ ಮುಂದಿನ ಹಾದಿಗೆ ನೀಲಿನಕ್ಷೆ](https://vijaykarnataka.com/business/news/vijaya-karnataka-real-estate-summit-awards-2026-expert-summit-on-september-25-blueprint-for-south-indian-real-estate-future/articleshow/134242974.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
 - [Rajasthan urban local body poll results: Victory of truth over echo of falsehood, PM Modi says](https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-poll-results-victory-of-truth-over-echo-of-falsehood-pm-modi-says/article71466388.ece)
@@ -88,7 +78,7 @@
 **Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
-- [BRICS ಶೃಂಗಸಭೆ | ಇರಾನ್ ಅಧ್ಯಕ್ಷ ಪೆಜೆಶ್ಕಿಯನ್‌ ಭಾಷಣದ ವೇಳೆ ನಟ್ಸ್‌ ತಿಂದ MEA ವಕ್ತಾರ ರಣಧೀರ್‌ ಜೈಸ್ವಾಲ್‌; ಸಾಮಾಜಿಕ ಜಾಲತಾಣದಲ್ಲಿ ವ್ಯಂಗ್ಯ](https://www.varthabharati.in/national/going-nuts-indian-diplomat-mocked-for-snacking-during-brics-speech-2275222)
+- [BRICS ಶೃಂಗಸಭೆ | ಇರಾನ್ ಅಧ್ಯಕ್ಷ ಪೆಜೆಶ್ಕಿಯನ್‌ ಭಾಷಣದ ವೇಳೆ ನೆಕ್ಕಿನೆಕ್ಕಿ ನಟ್ಸ್ ತಿಂದ MEA ವಕ್ತಾರ ರಣಧೀರ್‌ ಜೈಸ್ವಾಲ್‌; ಸಾಮಾಜಿಕ ಜಾಲತಾಣದಲ್ಲಿ ವೀಡಿಯೋ ವೈರಲ್](https://www.varthabharati.in/national/going-nuts-indian-diplomat-mocked-for-snacking-during-brics-speech-2275222)
 - [Hubballi | 24 ಕುರಿಗಳು ಸಾವು](https://www.varthabharati.in/dharwad/hubballi-2275220)
 - [Rajasthan ಸ್ಥಳೀಯ ಸಂಸ್ಥೆ ಚುನಾವಣೆ | ಬಿಜೆಪಿ ಮೇಲುಗೈ; ಕಾಂಗ್ರೆಸ್‌ ಗೆ ಹಿನ್ನಡೆ](https://www.varthabharati.in/National/rajasthan-urban-local-body-polls-see-bjps-seats-rise-by-5-congresss-fall-by-5-2275219)
 - [ಮುಂಬರುವ ದಿನಗಳಲ್ಲಿ ಆಹಾರ ಪದಾರ್ಥಗಳ ಬೆಲೆ ಏರಿಕೆ ಸಾಧ್ಯತೆ; ಕಾರಣವೇನು?](https://www.varthabharati.in/vishesha-varadigalu/likelihood-of-rising-food-prices-in-the-coming-days-what-is-the-reason-2275218)
@@ -106,9 +96,9 @@
 - Rajasthan (4.2)
 - Congress (3.2)
 - Keralam (2.9)
+- Oracle (2.6)
 - Trump (2.6)
 - Hormuz (2.6)
-- Oracle (2.6)
 - Analysis (2.6)
 - PM Modi (2.0)
 - Ajay Devgn (2.0)
@@ -119,16 +109,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Ramayan Jai Jai Ram Song: गणेश चतुर्थीच्या शुभ मुहूर्तावर 'रामायण'ची खास भेट; रणबीर-साई पल्लवीचं 'जय जय राम' गाणं रिलीज](https://saamtv.esakal.com/entertainment/ramayana-movie-first-song-jai-jai-ram-and-siya-ram-poster-to-be-unveiled-on-ganesh-chaturthi-ranbir-kapoor-and-sai-pallavi-svk01)
-- [iQOO reveals key display specs of its upcoming OnePlus 16 rival](https://www.notebookcheck.net/iQOO-reveals-key-display-specs-of-its-upcoming-OnePlus-16-rival.1398853.0.html)
-- ['ഇൻസുലിൻ കുത്തിവെയ്ക്കണമെങ്കിൽ ടോയ്‌ലറ്റ് ബ്രേക്ക് എടുക്കണമെന്ന് പറഞ്ഞു'; അത്ര 'സ്വീറ്റ'ല്ല സ്വരേവിന്റെ ജീവിതം](https://www.mathrubhumi.com/sports/features/alexander-zverev-type-1-diabetes-grand-slam-journey-okznrlpv)
-- [Dupilumab Efficacy in ABPA With Asthma](https://www.emjreviews.com/allergy-immunology/news/dupilumab-improves-lung-function-in-abpa-with-asthma/)
-- [അവരൊരു മികച്ച നടി തന്നെയാണ്, ഈ രംഗം എന്നെ അസ്വസ്ഥയാക്കി: ഉർവശിയെ വിമർശിച്ച് അവന്തിക മോഹൻ](https://www.manoramaonline.com/movies/movie-news/2026/09/14/urvashi-anchor-controversy-avantika-mohans-reaction.amp.html)
-- [গণেশ চতুর্থীর সকালে রেকর্ড কমল সোনার দাম, কলকাতা থেকে মুম্বই বাজারে উচ্ছ্বাসের ছবি](https://bengali.indianexpress.com/west-bengal/gold-price-today-september-14-2026-kolkata-delhi-mumbai-chennai-silver-price-12530430)
-- [தேமுதிக 22-ம் ஆண்டு துவக்க விழா - தொண்டர்களுக்கு பிரேமலதா கடிதம்](https://www.hindutamil.in/news/tamilnadu/dmdk-22nd-party-foundation-day-premalatha-vijayakanths-letter-to-cadres)
-- [India Squad For West Indies ODI Series : केएल राहुल उपकर्णधार, श्रेयस अय्यर OUT, तर ऋतुराज गायकवाड IN... वेस्ट इंडिजविरुद्ध ODI मालिकेसाठी टीम इंडियात होणार मोठे बदल](https://marathi.abplive.com/sports/cricket/kl-rahul-likely-to-be-vice-captain-ruturaj-gaikwad-set-for-india-return-shreyas-iyer-out-india-vs-west-indies-odi-2026-squad-marathi-news-1439050)
-- [ઓમાન નજીક કોમર્શિયલ જહાજ પર હુમલો, ભારતીયો વિશે શું માહિતી મળી?](https://www.bbc.com/gujarati/articles/cvgyr9y8wv8o)
-- [Barcelona’s Lamine Yamal explains why he deserves the Ballon d’Or: ‘Everyone who watches knows’](https://barcauniversal.com/barcelonas-lamine-yamal-explains-why-he-deserves-the-ballon-dor-everyone-who-watches-knows/)
+- [हूतियों से जंग के लिए सऊदी जाएंगे 100000 पाकिस्तानी यूथ? इस सीनेटर ने मुनीर को दी वार्निंग](https://www.aajtak.in/world/story/pakistan-senator-saudi-arabia-defense-houthi-attacks-yemen-mecca-pact-ntc-mnrd-smsr-2642454-2026-09-14)
+- [సరిహద్దుల్లో గణనీయంగా తగ్గిన చైనా మోహరింపులు: రక్షణ శాఖ](https://www.eenadu.net/telugu-news/india/pla-deployment-along-lac-reduced-in-2025-says-defence-ministry/0701/126166417)
+- [পরিসংখ্যান ভয় ধরাবে! রাজ্যে ডেঙ্গি আক্রান্ত ৫ হাজার পার, বাড়ল নজরদারি, ১৫ অক্টোবর পর্যন্ত চলবে বিশেষ পরীক্ষা](https://bengali.indianexpress.com/west-bengal/west-bengal-dengue-cases-cross-5000-intensive-testing-campaign-october-15-12530538)
+- [Wholesale inflation rises to 9.92% in August as fuel, food prices firm up](https://www.moneycontrol.com/news/business/economy/wholesale-inflation-rises-to-9-92-in-august-as-fuel-food-prices-firm-up-14029313.html)
+- [Ex-Tehelka editor-in-chief Tarun Tejpal surrenders before Goa court in 2013 rape case](https://timesofindia.indiatimes.com/india/ex-tehelka-editor-in-chief-tarun-tejpal-surrenders-before-goa-court-in-2013-rape-case/articleshow/134234935.cms)
+- [50 கோடி வசூலில் மண்டாடி, சூரியின் பெரிய வெற்றி](https://cinema.dinamalar.com/news/kollywood/mandadi-suris-biggest-hit-with-rs-50-crore-collection/140874)
+- [மதுரையில் யுவன் சங்கர் ராஜா இசை நிகழ்ச்சி கோலாலகம்.. Hcl- 50வது ஆண்டு விழா கொண்டாட்டம்!](https://tamil.abplive.com/technology/hcl-group-50th-anniversary-celebrations-yuvan-shankar-raja-madurai-tnn-274475)
+- [Nitish Tiwari Ramayana Film Song Jai Jai Ram Release ; गणेश चतुर्थीच्या शुभ मुहूर्तावर 4000 कोटींच्या रामायणचं पहिलं गाणं रिलीज, जय जय राम गाण्याला अरिजीत सिंह- श्रेया घोषालचा आवाज](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/ramayana-first-song-jai-jai-ram-released-on-ganesh-chaturthi-sung-by-arijit-singh-and-shreya-ghoshal/articleshow/134234456.cms)
+- [Dengue in West Bengal: ডেঙ্গি আক্রান্ত সর্বাধিক মুর্শিদাবাদে, আপনার জেলায় কী পরিস্থিতি?](https://bangla.aajtak.in/lifestyle/health/story/dengue-case-rising-in-west-bengal-crossed-the-5000-mark-this-year-murshidabad-emerging-as-the-worst-affected-district-arg-1450439-2026-09-14)
+- [इमरान खान की पूर्व पत्नी जेमिमा 22 सालों के बाद फिर बनी दुल्हन, 52 की उम्र में अरबपति को बनाया जीवनसाथी](https://navbharattimes.indiatimes.com/world/rest-of-europe/imran-khan-ex-wife-jemima-goldsmith-marries-billionaire-cameron-oreilly/articleshow/134234931.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
