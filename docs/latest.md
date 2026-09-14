@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-14 03:02:02
+# India Trending Report — 2026-09-14 03:37:30
 
 ## Google Trends (India) — top trending searches
-1. [bank holiday today](https://trends.google.com/trending/rss?geo=IN)
-2. [indonesia](https://trends.google.com/trending/rss?geo=IN)
-3. [is bank open today](https://trends.google.com/trending/rss?geo=IN)
-4. [weather surat](https://trends.google.com/trending/rss?geo=IN)
-5. [modak recipe](https://trends.google.com/trending/rss?geo=IN)
-6. [today festival](https://trends.google.com/trending/rss?geo=IN)
-7. [coventry city](https://trends.google.com/trending/rss?geo=IN)
-8. [today bank open or not](https://trends.google.com/trending/rss?geo=IN)
-9. [ganesh chaturthi wishes in kannada](https://trends.google.com/trending/rss?geo=IN)
-10. [umar khalid](https://trends.google.com/trending/rss?geo=IN)
+1. [వ్యవసాయం](https://trends.google.com/trending/rss?geo=IN)
+2. [today market open](https://trends.google.com/trending/rss?geo=IN)
+3. [rajasthan election result](https://trends.google.com/trending/rss?geo=IN)
+4. [election result](https://trends.google.com/trending/rss?geo=IN)
+5. [रवि शास्त्री](https://trends.google.com/trending/rss?geo=IN)
+6. [திராவிட முன்னேற்றக் கழகம்](https://trends.google.com/trending/rss?geo=IN)
+7. [weather dehradun](https://trends.google.com/trending/rss?geo=IN)
+8. [election commission](https://trends.google.com/trending/rss?geo=IN)
+9. [ganesh songs](https://trends.google.com/trending/rss?geo=IN)
+10. [bank holiday today](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [‘We can’t receive trophy from him’: Why India snubbed Mohsin Naqvi again](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/we-cant-receive-the-trophy-from-him-why-india-snubbed-mohsin-naqvi-again-devajit-saikia-explains/articleshow/134229998.cms)
+- [UK breakup on menu? Leaders of Northern Ireland, Scotland, Wales to meet](https://timesofindia.indiatimes.com/world/uk/uk-breakup-on-menu-leaders-of-n-ireland-scotland-wales-to-meet/articleshow/134229931.cms)
 - [Kargil War veteran attacked with iron rod in Gurgaon over parking row](https://timesofindia.indiatimes.com/city/gurgaon/kargil-war-veteran-attacked-with-iron-rod-in-gurgaon-over-parking-row-suffers-serious-head-injuries/articleshow/134230910.cms)
+- [‘Trophy chor’ comes back again: Fans chant at Mohsin Naqvi after India's triumph](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/trophy-chor-comes-back-again-fans-chant-at-mohsin-naqvi-after-india-womens-asia-cup-triumph/articleshow/134230443.cms)
 - [Shot down over Iran, hunted for 50 hrs: How US fighter survived behind enemy lines](https://timesofindia.indiatimes.com/world/us/shot-down-over-iran-hunted-for-50-hours-how-a-us-fighter-survived-behind-enemy-lines/articleshow/134230639.cms)
 - [After killing wife, 3 daughters, Jaipur man fled to temple seeking ‘divine blessings’](https://timesofindia.indiatimes.com/city/jaipur/after-killing-wife-3-daughters-jaipur-man-fled-to-temple-seeking-divine-blessings-held-after-2-days/articleshow/134230711.cms)
-- [Trump eyes Iran oil, hints at Venezuela-style US control after war](https://timesofindia.indiatimes.com/world/us/trump-eyes-iran-oil-hints-at-venezuela-style-us-control-after-war/articleshow/134230938.cms)
 - ['Upset' Ford hits back at US transport secretary; says: Your letter is factually wrong](https://timesofindia.indiatimes.com/technology/tech-news/upset-ford-responds-to-us-transportation-secretarys-letter-to-ceo-jim-farley-says-your-letter-is-factually-wrong-ford-is-the-most-american-automaker-we-/articleshow/134230793.cms)
-- [Vaibhav Sooryavanshi on the bench: Why India's bold T20I vision feels incomplete](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/vaibhav-sooryavanshi-on-the-bench-why-indias-bold-t20i-vision-feels-incomplete/articleshow/134230792.cms)
-- [Oil prices jump over 2% as fresh Saudi, Strait of Hormuz strikes fuel supply fears](https://timesofindia.indiatimes.com/business/international-business/oil-prices-jump-over-2-brent-tops-107-as-fresh-saudi-strait-of-hormuz-strikes-fuel-supply-fears/articleshow/134230995.cms)
-- [Russia targeting EU, UK officials? Ukraine’s big claim after drone strike](https://timesofindia.indiatimes.com/world/europe/russia-targeting-eu-uk-officials-ukraines-big-claim-after-drone-strike/articleshow/134230795.cms)
+- [Stock market today: Are NSE, BSE closed for trading on Ganesh Chaturthi?](https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-are-nse-bse-closed-for-trading-on-ganesh-chaturthi/articleshow/134207678.cms)
+- [Trump eyes Iran oil, hints at Venezuela-style US control after war](https://timesofindia.indiatimes.com/world/us/trump-eyes-iran-oil-hints-at-venezuela-style-us-control-after-war/articleshow/134230938.cms)
+- [‘We can’t receive trophy from him’: Why India snubbed Mohsin Naqvi again](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/we-cant-receive-the-trophy-from-him-why-india-snubbed-mohsin-naqvi-again-devajit-saikia-explains/articleshow/134229998.cms)
 - [Billionaire David Sacks to Sam Altman and Dario Amodei's call to slowdown AI development](https://timesofindia.indiatimes.com/technology/tech-news/billionaire-david-sacks-to-sam-altman-and-dario-amodeis-call-to-slowdown-ai-development-stop-pretending-and-fooling-everyone-go-ahead-and-/articleshow/134230837.cms)
 
 **NDTV**
@@ -38,16 +38,16 @@
 - [India Keeps Door Open For Normalisation Of Bangladesh Ties Despite Hasina Row](https://www.ndtv.com/world-news/india-keeps-door-open-for-normalisation-of-bangladesh-ties-despite-sheikh-hasina-row-12042361#publisher=newsstand)
 
 **Hindustan Times**
+- [Congress, BJP trade barbs over all-vegetarian fare for dignitaries at Brics Summit](https://www.hindustantimes.com/india-news/congress-bjp-trade-barbs-over-all-vegetarian-food-for-dignitaries-at-brics-summit-101789353713490.html)
+- [4 killed, 6-year-old injured after fresh violence breaks out in Manipur's Tamenglong](https://www.hindustantimes.com/india-news/manipur-violence-tamenglong-assam-tollen-police-bullet-injury-death-black-day-kuki-naga-conflict-101789352303213.html)
 - [CPI(M) in Keralam vows to fix lapses, regain public trust after poll debacle](https://www.hindustantimes.com/india-news/cpim-in-keralam-vows-to-fix-lapses-regain-public-trust-after-poll-debacle-101789328572407.html)
 - [7 arrested with 2 peacock carcass, 6 firearms: Officials](https://www.hindustantimes.com/india-news/7-arrested-with-2-peacock-carcass-6-firearms-officials-101789328452555.html)
 - [BJP to hold state-wide march against Vande Mataram row from tomorrow](https://www.hindustantimes.com/india-news/bjp-to-hold-state-wide-march-against-vande-mataram-row-from-tomorrow-101789328272527.html)
-- [A tale of twin cities — and how they could transform urban governance](https://www.hindustantimes.com/india-news/a-tale-of-twin-cities-and-how-they-could-transform-urban-governance-101789328094401.html)
+- [A tale of twin cities: How digital replicas could help transform urban governance](https://www.hindustantimes.com/india-news/a-tale-of-twin-cities-and-how-they-could-transform-urban-governance-101789328094401.html)
 - [Leaders hail Brics CONNECT initiative](https://www.hindustantimes.com/india-news/leaders-hail-brics-connect-initiative-101789327912729.html)
-- [Brics leaders vow crackdown on ‘scam compounds’, digital fraud](https://www.hindustantimes.com/india-news/brics-leaders-vow-crackdown-on-scam-compounds-digital-fraud-101789327792274.html)
+- [Brics leaders vow crackdown on ‘scam compounds’, push for coordinated global rules on AI](https://www.hindustantimes.com/india-news/brics-leaders-vow-crackdown-on-scam-compounds-digital-fraud-101789327792274.html)
 - [PDS checks: Centre flags 262,000 govt staff availing of subsidised grains](https://www.hindustantimes.com/india-news/pds-checks-centre-flags-262-000-govt-staff-availing-of-subsidised-grains-101789327132259.html)
 - [Indian rescuers hope for miracle to save six at Nepal power project](https://www.hindustantimes.com/india-news/indian-rescuers-hope-for-miracle-to-save-six-at-nepal-power-project-101789327012531.html)
-- [Raja regrets comments on TVK min after row](https://www.hindustantimes.com/india-news/raja-regrets-comments-on-tvk-min-after-row-101789326652206.html)
-- [Leaders back new ‘BRICS CONNECT’ platform to map skills, prepare future-ready workforce](https://www.hindustantimes.com/india-news/leaders-back-new-brics-connect-platform-to-map-skills-prepare-future-ready-workforce-101789350374081.html)
 
 **Vijay Karnataka**
 - [ಕನ್ನಡ ನಾಡಿನಲ್ಲಿ ಗಣೇಶೋತ್ಸವ ಆಚರಣೆಗೆ ಗೋಗರೆಯಬೇಕೇ - ಬಿಜೆಪಿ ಪ್ರಶ್ನೆ: ಸಿಎಂ ಕುತೂಹಲಕಾರಿ ಪ್ರತಿಕ್ರಿಯೆ](https://vijaykarnataka.com/news/karnataka/bjp-karnataka-questions-cm-ganesha-festival-celebration-controversy/articleshow/134231347.cms)
@@ -62,6 +62,7 @@
 - [Ganesh Chaturthi 2026: ಗಣಪನ ಕುರಿತು ತಿಳಿಯೋಣ; ಗಣಪನಿಂದ ಕಲಿಯೋಣ](https://vijaykarnataka.com/lavalavk/weekly-magazine/ganesha-chaturthi-festival-2026-knowledge-about-lord-ganesha-and-things-to-learn-from-ganapa-special-artile-by-geetha-bhat/articleshow/134230162.cms)
 
 **The Hindu**
+- [Why the BRICS summit was a major diplomatic win for India](https://www.thehindu.com/videos/why-the-brics-summit-was-a-major-diplomatic-win-for-india/article71465371.ece)
 - [Jharkhand LoP accuses Soren-led govt. of protecting influential people amid CID probe into job exam ‘irregularities’](https://www.thehindu.com/news/national/jharkhand/jharkhand-lop-accuses-soren-led-govt-of-protecting-influential-people-amid-cid-probe-into-job-exam-irregularities/article71463699.ece)
 - [Mumbai on ‘orange’ alert as IMD warns of heavy rain in parts of Maharashtra](https://www.thehindu.com/news/cities/mumbai/mumbai-on-orange-alert-with-moderate-rain-likely-on-sept-14/article71464389.ece)
 - [High ranges of Kottayam mobilise against Centre’s proposed ESA tag](https://www.thehindu.com/news/national/kerala/high-ranges-of-kottayam-mobilise-against-proposed-esa-tag/article71463292.ece)
@@ -71,19 +72,18 @@
 - [For Ganeshotsav, Mumbai Police deploy over 16,800 personnel](https://www.thehindu.com/news/cities/mumbai/for-ganeshotsav-mumbai-police-deploy-over-16800-personnel/article71464416.ece)
 - [Civil works of Vattiyurkavu junction development project in Keralam to take off on September 14](https://www.thehindu.com/news/national/kerala/civil-works-of-vattiyurkavu-junction-development-project-in-keralam-to-take-off-on-september-14/article71464103.ece)
 - [BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas](https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece)
-- [Asia Cup: Indian women's cricket team refuses to accept trophy from ACC head Mohsin Naqvi](https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece)
 
 **Livemint**
+- [Delhi on IMD's alert as city braces for rainy season's last few wet spells — monsoon to withdraw soon](https://www.livemint.com/news/india/delhi-on-imds-alert-as-city-braces-for-rainy-seasons-last-few-wet-spells-monsoon-to-withdraw-soon-11789350604360.html)
 - [Amazon pauses operations with 21 Air, carrier behind Miami cargo plane crash that killed five](https://www.livemint.com/news/us-news/amazon-pauses-operations-with-21-air-carrier-operating-aircraft-that-overshot-the-runway-at-miami-airport-killing-five-11789351880819.html)
 - [Petrol and diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru as crude rose after Saudi shut key oil pipeline](https://www.livemint.com/news/india/petrol-and-diesel-prices-today-fuel-rates-in-delhi-mumbai-bengaluru-as-crude-rose-after-saudi-shut-key-oil-pipeline-11789346790679.html)
 - [Diversification & demand destruction: How India managed its energy needs amid the Iran war](https://www.livemint.com/news/india/crude-oil-prices-indian-crude-basket-trade-deficit-india-11789303115335.html)
-- [US-Iran war LIVE: Trump dismisses report that China helped Iran in attacking US base in Jordan in July](https://www.livemint.com/news/us-news/us-iran-war-news-latest-live-updates-donald-trump-saudi-houthis-strait-of-hormuz-bab-al-mandab-strait-crude-oil-prices-11789346363638.html)
+- [US-Iran war LIVE: Shipping traffic in the Strait of Hormuz remains below 10-day average on the weekend, shows data](https://www.livemint.com/news/us-news/us-iran-war-news-latest-live-updates-donald-trump-saudi-houthis-strait-of-hormuz-bab-al-mandab-strait-crude-oil-prices-11789346363638.html)
 - [Amtrak Trains Between Boston, New York Disrupted Due to Flooding](https://www.livemint.com/news/amtrak-trains-between-boston-new-york-disrupted-due-to-flooding-11789348378816.html)
 - [Happy Ganesh Chaturthi 2026: 50 wishes, images, messages to share on WhatsApp, Facebook, Instagram](https://www.livemint.com/news/trends/happy-ganesh-chaturthi-2026-wishes-and-messages-for-whatsapp-facebook-instagram-11789322345153.html)
 - [Iranian Official Blocked From UN Nuclear Meeting at US’s Urging](https://www.livemint.com/news/us-news/iranian-official-blocked-from-un-nuclear-meeting-at-us-s-urging-11789339124139.html)
 - [Student suspended on first day of school for bringing coffee and refusing to throw it away](https://www.livemint.com/news/us-news/student-suspended-for-bringing-coffee-on-first-day-of-school-after-refusing-to-throw-drink-away-11789333115390.html)
 - [Brics Women’s Business Alliance urges supply chain access and scale for women-led entrepreneurship](https://www.livemint.com/news/india/brics-women-s-business-alliance-urges-supply-chain-access-and-scale-for-women-led-entrepreneurship-11789301032517.html)
-- [Maratha quota battle heads to Mumbai? Activist Manoj Jarange Patil warns of fast unto death at Azad Maidan](https://www.livemint.com/news/india/maratha-quota-battle-heads-to-mumbai-activist-manoj-jarange-patil-warns-of-fast-unto-death-at-azad-maidan-11789323910846.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,8 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಏಷ್ಯಾ ಕಪ್ ಗೆದ್ದರೂ ಟ್ರೋಫಿ ಸ್ವೀಕರಿಸದ ಭಾರತ ಮಹಿಳಾ ತಂಡ; ‘ಇದು ಬಿಸಿಸಿಐ ನಿರ್ಧಾರ’ ಎಂದ ಕೋಚ್](https://www.varthabharati.in/sports/indian-womens-team-wins-asia-cup-but-doesnt-receive-trophy-its-a-bcci-decision-said-the-coach-2275096)
+- [ಒಗ್ಗಟ್ಟಿನ ಸೋಗು, ವೈರುಧ್ಯಗಳ ನಡುವೆ ಏನೂ ಸಾಧಿಸದ ಬ್ರಿಕ್ಸ್ 2026!](https://www.varthabharati.in/sampaadakeeya/brics-2026-a-facade-of-unity-achieving-nothing-amid-contradictions-2275097)
 - [ರಾಜ್ಯದಲ್ಲಿ ಹೆಚ್ಚುತ್ತಿರುವ ಎನ್‌ಡಿಪಿಎಸ್ ಪ್ರಕರಣಗಳು: ಮೂರು ವರ್ಷಗಳಲ್ಲಿ 25,196 ಪ್ರಕರಣಗಳು ದಾಖಲು](https://www.varthabharati.in/vishesha-varadigalu/rising-ndps-cases-in-the-state-25196-cases-registered-in-three-years-2275095)
 - [ಯುಎಸ್ ಓಪನ್ 2026 | ಪುರುಷರ ಸಿಂಗಲ್ಸ್ ನಲ್ಲಿ ಜರ್ಮನಿಯ ಅಲೆಕ್ಸಾಂಡರ್ ಝ್ವರೆವ್ ಚಾಂಪಿಯನ್](https://www.varthabharati.in/sports/us-open-2026-germanys-alexander-zverev-is-the-mens-singles-champion-2275094)
 - [Bengaluru | NLSIU ನಲ್ಲಿ ಉಮರ್ ಖಾಲಿದ್ ಕುರಿತ ಸಾಕ್ಷ್ಯಚಿತ್ರ ಪ್ರದರ್ಶನ ಮುಂದೂಡಿಕೆ; ರದ್ದತಿಗೆ ABVP ಪಟ್ಟು](https://www.varthabharati.in/bangalore-city/bengaluru-nlsiu-2275093)
@@ -106,39 +108,37 @@
 - [BIT | ಕ್ಯಾಂಪಸ್‌ ನಿಂದ ಸ್ಟಾರ್ಟಪ್‌ ವರೆಗೆ: ತಾಂತ್ರಿಕ ಉದ್ಯಮಶೀಲತೆ ಕುರಿತು ವಿಶೇಷ ಉಪನ್ಯಾಸ](https://www.varthabharati.in/DakshinaKannada/bit-from-campus-to-startup-a-special-lecture-on-technical-entrepreneurship-2275090)
 - [Kaup | ಉರ್ದು ಕವನ ವಾಚನ: ರಾಜ್ಯ ಮಟ್ಟಕ್ಕೆ ಆಯ್ಕೆಯಾದ ಮದ್ರಸ ವಿದ್ಯಾರ್ಥಿ ಮುಹಮ್ಮದ್ ಮಿಸ್ಬಾಹ್‌ ಗೆ ಸನ್ಮಾನ](https://www.varthabharati.in/DakshinaKannada/kaup-urdu-poetry-recitation-madrasa-student-muhammad-misbah-felicitated-after-selection-for-the-state-level-2275089)
 - [ಯಮನ್‍ನಿಂದ 76,000 ಜನರ ಸ್ಥಳಾಂತರ: ವಿಶ್ವಸಂಸ್ಥೆ](https://www.varthabharati.in/international/un-reports-76000-people-displaced-from-yemen-2275088)
-- [ಗಾಝಾ | ಇಸ್ರೇಲ್ ದಾಳಿಗೆ ಇಬ್ಬರು ಮೃತ್ಯು, 13 ಮಂದಿಗೆ ಗಾಯ](https://www.varthabharati.in/international/2-palestinians-killed-13-injured-in-israeli-drone-strike-on-vehicle-in-gaza-2275087)
-- ["ನನ್ನ ಹತ್ಯೆಗೆ ಸಂಚು ನಡೆಯುತ್ತಿದೆ": ಮರಾಠಾ ಹೋರಾಟಗಾರ ಮನೋಜ್ ಜಾರಂಗೆ](https://www.varthabharati.in/National/manoj-jarange-2275086)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Mumbai (5.8)
-- Iran (5.2)
 - Emkay Global Financial (5.0)
+- Mumbai (4.5)
+- Iran (3.9)
+- Delhi (3.9)
 - Centre (3.9)
+- India (3.8)
+- BRICS (3.5)
 - ICICI Securities (3.0)
 - target (3.0)
 - Leaders (2.9)
-- Trump (2.6)
-- Saudi (2.6)
-- Delhi (2.6)
 - Keralam (2.6)
-- Indian (2.6)
-- Maratha (2.6)
-- China (2.6)
 - Bengaluru (2.6)
+- Brics (2.2)
+- Mohsin Naqvi (2.0)
+- Ganesh Chaturthi (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [कमबैक की दूसरी ही गेंद पर विकेट, 350 टी20 विकेट भी पूरे, जसप्रीत बुमराह जैसा पूरी दुनिया में कोई नहीं](https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/jasprit-bumrah-completes-350-t20-wickets-with-early-strike-on-comeback-against-afghanistan/articleshow/134207128.cms)
-- [India condemns attack on ship off Oman as seafarer remains missing; 13 Indian crew members rescued](https://www.hindustantimes.com/india-news/india-condemns-attack-on-vessel-off-oman-coast-13-indian-crew-members-rescued-1-missing-101789311281232.html)
-- [ओमान तट पर कमर्शियल जहाज पर हमला, भारत की दो टूक- 'निशाना बनाना अस्वीकार्य'; 13 भारतीय क्रू किए गए रेस्क्यू](https://navbharattimes.indiatimes.com/india/attack-on-ship-off-oman-coast-13-indian-crew-safe-india-strongly-condemns/articleshow/134207736.cms)
-- [यूक्रेन पर भड़के डोनाल्ड ट्रंप, जेलेंस्की से बोले- रूस में तेल ठिकानों पर हमले मत करो](https://www.aajtak.in/world/story/donald-trump-vladimir-zelensky-fuel-diseal-shortage-ukraine-russia-war-ntc-aktw-dskc-2642201-2026-09-13)
-- ['अस्वीकार्य है', ओमान में जहाज पर हुआ हमला तो बोला भारत, इंडियन के लिए सर्च जारी](https://www.abplive.com/news/india/india-condemn-commercial-vessel-attack-oman-coast-13-indian-rescued-1-missing-3188390)
-- [Ganesh Chaturthi: ગણેશ સ્થાપનામાં 2 સોપારી કેમ મૂકવામાં આવે છે? જાણો તેની પાછળનું ધાર્મિક રહસ્ય](https://gujarati.abplive.com/astro/ganesh-chaturthi-sthapana-betel-nut-riddhi-siddhi-puja-rules-significance-991124)
-- [तलाक से पहले आकांक्षा चमोला ने गौरव खन्ना को किया अनफॉलो, हटाई सारी फोटोज](https://www.aajtak.in/entertainment/news/story/akanksha-chamola-unfollows-husband-gaurav-khanna-removes-photos-before-divorce-tmovg-dskc-2642194-2026-09-13)
-- [मोदी-पुतिन-जिनपिंग के साथ मुस्कुराता हुआ यह शख्स कौन है? सिद्धार्थ बाबू तो छा गए](https://www.livehindustan.com/national/who-is-siddharth-babu-viral-image-with-pm-narendra-modi-vladimir-putin-xi-jinping-201789310064133.html)
-- [Mirai Sweeps Awards Season](https://www.gulte.com/movienews/431445/mirai-sweeps-awards-season)
-- [बंगाल उपचुनाव के लिए TMC ने खोले पत्ते, नंदीग्राम पर चौंकाने वाला फैसला; किसे उतारा?](https://www.livehindustan.com/national/bengal-by-elections-tmc-announces-candidates-big-decision-on-nandigram-mamata-banerjee-201789310433338.html)
+- [అసెంబ్లీ ఘటనపై కీలక పరిణామం.. కేటీఆర్ పీఏ, పీఆర్ఓ‌కు నోటీసులు](https://www.andhrajyothy.com/2026/telangana/ktr-pa-pro-police-notices-assembly-gate-3-incident-hyderabad-erk-1557900.html)
+- [ક્રિકેટના ઈતિહાસમાં પહેલીવાર બન્યું! India vs Afghanistan મેચ પહેલાં રાષ્ટ્રગાન અગાઉ કેમ વાગ્યું 'વંદે માતરમ્'?](https://www.gujaratfirst.com/cricket-news/vande-mataram-played-before-national-anthem-in-india-vs-afghanistan/338887/)
+- [బెంగాల్ ఉపఎన్నికలు: నందిగ్రామ్‌లో పోటీకి మమతా బెనర్జీ దూరం.. రెబల్స్ ఆఫర్ ఇచ్చినా దీదీ నో..!](https://telugu.samayam.com/latest-news/india-news/mamata-banerjee-not-contesting-in-nandigram-bypolls-tmc-announces-candidates-for-2-seats-west-bengal-byelections/articleshow/134208746.cms)
+- [Smriti Mandhana Video : शेवटचं केव्हा रडलीस? स्मृती मानधनाच्या काळजाचा ठाव घेणारा थेट सवाल अन् शब्दांपेक्षा डोळ्यातून बरंच काही बोलली!](https://marathi.abplive.com/sports/cricket/smriti-mandhana-opens-up-on-crying-makes-big-revelation-on-personal-life-marathi-news-1439012)
+- [IND W vs SL W Final Live एशिया कप के फाइनल में भारत ने गंवाया दूसरा विकेट शेफाली के बाद मंधाना भी आउट](https://www.jagran.com/cricket/match-report-ind-w-vs-sl-w-womens-asia-cup-2026-final-live-score-india-women-vs-sri-lanka-women-updates-dubai-international-cricket-stadium-harmanpreet-kaur-chamari-athapaththu-lb-30000727.html)
+- ['ഉർവശി മലയാളത്തിൻറെ അൽ പച്ചീനോ'; 'ആശ'യെ പുകഴ്ത്തി എം എ നിഷാദ്](https://www.reporterlive.com/entertainment/entertainment-news/2026/09/13/urvashi-is-malayalam-cinemas-al-pacino-says-director-m-a-nishad)
+- [Stock market holiday: Are NSE, BSE closed for trading on Ganesh Chaturthi?](https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-are-nse-bse-closed-for-trading-on-ganesh-chaturthi/articleshow/134207678.cms)
+- [Marathi Actress: गाडी अडवली, पैसे मागितले अन् मारहाण केली...; 'लागिरं झालं जी' फेम अभिनेत्रीसोबत पुण्यात धक्कादायक प्रकार](https://saamtv.esakal.com/entertainment/lagira-zhala-ji-fame-marathi-actress-kalyani-nandkishor-attempted-to-rob-in-pune-shares-video-viral-on-social-media-svk01)
+- [KTR | కేటీఆర్ పీఏ, పీఆర్వోకు పోలీసుల నోటీసులు.. రేపు పండుగ రోజే విచారణకు హాజరుకావాలని ఆదేశం](https://www.ntnews.com/telangana/ktr-pa-and-pro-asked-to-appear-before-saifabad-police-for-inquiry-2510390)
+- [Rahul Gandhi Post | राहुल गांधींच्या ‘नॉन-व्हेज’ पोस्टवरून राजकारण: ब्रिक्स डिनरच्या मेन्यूची चर्चा, किरेण रिजिजूंचा पलटवार!](https://pudhari.news/national/rahul-gandhi-non-veg-post-brics-dinner-menu-row-kiren-rijiju-reaction-politics-ng81)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
