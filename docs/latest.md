@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-14 11:36:56
+# India Trending Report — 2026-09-14 12:02:32
 
 ## Google Trends (India) — top trending searches
-1. [disha salian](https://trends.google.com/trending/rss?geo=IN)
-2. [कियारा आडवाणी](https://trends.google.com/trending/rss?geo=IN)
-3. [സുപ്രിയ മേനോന്](https://trends.google.com/trending/rss?geo=IN)
-4. [নীনা গুপ্তা](https://trends.google.com/trending/rss?geo=IN)
-5. [suzlon energy 31st agm resolutions](https://trends.google.com/trending/rss?geo=IN)
-6. [nvidia](https://trends.google.com/trending/rss?geo=IN)
-7. [ಬಿಗ್ ಬಾಸ್ ಕನ್ನಡ](https://trends.google.com/trending/rss?geo=IN)
-8. [ವಾರ್ತೆ](https://trends.google.com/trending/rss?geo=IN)
-9. [bangalore weather](https://trends.google.com/trending/rss?geo=IN)
-10. [பெ சண்முகம்](https://trends.google.com/trending/rss?geo=IN)
+1. [मायावती](https://trends.google.com/trending/rss?geo=IN)
+2. [నీరు](https://trends.google.com/trending/rss?geo=IN)
+3. [ব্রিক্স](https://trends.google.com/trending/rss?geo=IN)
+4. [స్టాక్](https://trends.google.com/trending/rss?geo=IN)
+5. [നരേഷ് അയ്യര്](https://trends.google.com/trending/rss?geo=IN)
+6. [horoscope](https://trends.google.com/trending/rss?geo=IN)
+7. [സുപ്രിയ മേനോന്](https://trends.google.com/trending/rss?geo=IN)
+8. [নীনা গুপ্তা](https://trends.google.com/trending/rss?geo=IN)
+9. [कियारा आडवाणी](https://trends.google.com/trending/rss?geo=IN)
+10. [disha salian](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - ['Won't reveal my face, will file FIR today': Gurgaon woman biker issues statement after hit-and-run](https://timesofindia.indiatimes.com/city/gurgaon/wont-reveal-my-face-will-file-fir-today-gurgaon-woman-biker-issues-statement-after-hit-and-run/articleshow/134238962.cms)
-- [Aaditya Thackeray, Rhea Chakraborty named in Disha death case: Key details from CBI FIR](https://timesofindia.indiatimes.com/india/aaditya-thackeray-rhea-chakroborty-named-in-disha-salians-death-case-key-details-from-cbi-fir/articleshow/134236979.cms)
-- ['We should not play Pakistan': WC winner after India refuse Asia Cup trophy from Naqvi](https://timesofindia.indiatimes.com/sports/cricket/news/we-should-not-play-pakistan-world-cup-winner-reacts-after-india-refuse-asia-cup-trophy-from-mohsin-naqvi/articleshow/134239238.cms)
 - ['Someone from that ward voted for me': BJP candidate gets 1 vote in Rajasthan](https://timesofindia.indiatimes.com/india/someone-from-that-ward-voted-for-me-bjp-candidate-gets-1-vote-in-rajasthan-local-body-polls/articleshow/134239745.cms)
+- [CIA deception op, over 90 troops: How US rescued 'Alpha & Bravo' from Iran - video](https://timesofindia.indiatimes.com/world/us/shot-down-in-iran-hunted-for-50-hours-new-details-emerge-on-us-rescue-op-for-air-force-officers-alpha-bravo/articleshow/134239725.cms)
+- [Aaditya Thackeray, Rhea Chakraborty named in Disha death case: Key details from CBI FIR](https://timesofindia.indiatimes.com/india/aaditya-thackeray-rhea-chakroborty-named-in-disha-salians-death-case-key-details-from-cbi-fir/articleshow/134236979.cms)
 - [When Mark Zuckerberg told his execs to 'learn' from Apple, Google on social issues](https://timesofindia.indiatimes.com/technology/tech-news/when-mark-zuckerberg-told-his-top-execs-to-learn-how-apple-google-and-snap-are-not-doing-right-on-social-issues-and-still-getting-away/articleshow/134239298.cms)
+- [Char Dham rail boost: Rishikesh-Karnprayag line hits 41 tunnel breakthroughs](https://timesofindia.indiatimes.com/business/india-business/rishikesh-karnprayag-railway-line-project-for-char-dham-connectivity-boost-hits-41-tunnel-breakthroughs-rvnl-completes-10-847-km-escape-tunnel-1-with-5-more-expected-within-a-year/articleshow/134237993.cms)
+- ['We should not play Pakistan': WC winner after India refuse Asia Cup trophy from Naqvi](https://timesofindia.indiatimes.com/sports/cricket/news/we-should-not-play-pakistan-world-cup-winner-reacts-after-india-refuse-asia-cup-trophy-from-mohsin-naqvi/articleshow/134239238.cms)
 - [Pakistan lists JeM chief Masood Azhar as fugitive, raises bounty ahead of FATF review](https://timesofindia.indiatimes.com/world/pakistan/pakistan-lists-jaish-e-mohammed-chief-masood-azhar-as-fugitive-hikes-bounty-ahead-of-fatf-review/articleshow/134238322.cms)
+- [China's spy chief flags AI threat, warns of 'cognitive warfare' & threats to security](https://timesofindia.indiatimes.com/world/china/chinas-spy-chief-flags-ai-threat-warns-of-cognitive-warfare-threats-to-national-security/articleshow/134240223.cms)
 - [AI war heats up: China rejects calls to curb tech, blasts 'fearmongering' Anthropic](https://timesofindia.indiatimes.com/world/china/china-hits-back-at-anthropics-call-to-restrict-its-ai-warns-against-fearmongering-vicious-competition/articleshow/134238821.cms)
-- [Gurgaon hit-and-run: Friend pursued fleeing car, confronted driver at traffic signal](https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-hit-and-run-how-woman-bikers-friend-chased-and-confronted-driver/articleshow/134236996.cms)
-- [Day after ferry overturns in Java Sea, Indonesia continues search for 129 missing](https://timesofindia.indiatimes.com/world/south-asia/day-after-ferry-overturns-in-java-sea-indonesia-continues-search-for-129-missing/articleshow/134235492.cms)
-- [Homeless man played piano in church; 2 years later, he raised £50,000 for charity](https://timesofindia.indiatimes.com/world/uk/in-january-2024-a-homeless-man-played-piano-at-a-church-in-uk-on-a-freezing-night-2-years-after-his-video-went-viral-he-has-raised-50000-for-charity-and-found-a-home/articleshow/134233771.cms)
 
 **NDTV**
 - ["Will Be Filing An FIR": Woman Biker Injured In Gurugram Hit-And-Run](https://www.ndtv.com/india-news/will-be-filing-an-fir-woman-biker-injured-in-gurugram-hit-and-run-12044867#publisher=newsstand)
@@ -38,6 +38,7 @@
 - [Explained: How China Is Tackling The Threat Of AI Escaping Human Control](https://www.ndtv.com/world-news/explained-how-china-is-tackling-the-threat-of-ai-escaping-human-control-12044615#publisher=newsstand)
 
 **Hindustan Times**
+- [Farmers start dharna outside Punjab minister's office in Hoshiarpur](https://www.hindustantimes.com/india-news/farmers-start-dharna-outside-punjab-minister-s-office-in-hoshiarpur-101789385673153.html)
 - [Fight breaks out over dog in Ghaziabad high-rise elevator, video goes viral](https://www.hindustantimes.com/india-news/fight-breaks-out-over-dog-in-ghaziabad-high-rise-elevator-video-goes-viral-101789384745115.html)
 - [Chhattisgarh CM directs collectors to monitor road conditions, keep them motorable during monsoon](https://www.hindustantimes.com/india-news/chhattisgarh-cm-directs-collectors-to-monitor-road-conditions-keep-them-motorable-during-monsoon-101789383954160.html)
 - [‘Accused will be identified, held’: Police deny inaction in Gurugram biker case](https://www.hindustantimes.com/india-news/accused-will-be-identified-held-police-deny-inaction-in-gurugram-biker-case-car-kalyan-bainsla-singh-friend-news-101789380393381.html)
@@ -47,33 +48,33 @@
 - [Manipur CM warns against bribery for contractual employees' regularisation](https://www.hindustantimes.com/india-news/manipur-cm-warns-against-bribery-for-contractual-employees-regularisation-101789381183751.html)
 - [Govt plans  ₹13,000-cr infra rollout, welfare drive from Sept 17: Rekha Gupta](https://www.hindustantimes.com/india-news/govt-plans-13-000-cr-infra-rollout-welfare-drive-from-sept-17-rekha-gupta-101789380003747.html)
 - [HC refuses immediate arrest protection to YouTuber Ajeet Bharti in SC/ST Act case](https://www.hindustantimes.com/india-news/hc-refuses-immediate-arrest-protection-to-youtuber-ajeet-bharti-in-sc-st-act-case-101789379524501.html)
-- [China benefited most from BRICS summit: Sibal](https://www.hindustantimes.com/india-news/china-benefited-most-from-brics-summit-sibal-101789378351409.html)
 
 **Vijay Karnataka**
-- [ಧೀರಜ್ ಮುಡಿಗೆ ರಿಕರ್ವ್ ಆರ್ಚರ್ ವಿಶ್ವಕಪ್ ಕಿರೀಟ! ರೋಚಕ ಫೈನಲ್ ನಲ್ಲಿ ಗೆದ್ದು ಇತಿಹಾಸ ನಿರ್ಮಾಣ](https://vijaykarnataka.com/sports/other-sports/dhiraj-bommadevara-creates-history-by-winning-recurve-archery-world-cup-title/articleshow/134239947.cms)
-- [PF ಖಾತೆದಾರರಿಗೆ ಗುಡ್‌ನ್ಯೂಸ್‌: ಇನ್ಮುಂದೆ ವಾಟ್ಸಾಪ್‌ನಲ್ಲೇ ಸಿಗಲಿದೆ EPFO ಅಪ್‌ಡೇಟ್ಸ್‌! ಅಧಿಕೃತ ಚಾನೆಲ್ ಸೇರುವುದು ಹೇಗೆ?](https://vijaykarnataka.com/business/news/pf-account-holders-will-now-receive-epfo-updates-directly-on-whatsapp-how-to-join-the-official-channel/articleshow/134239475.cms)
-- [ಮಂಗಳೂರು ಸಂಪುಟ ಸಭೆಯಲ್ಲಿ ಸರ್ಕಾರದಿಂದ ಮಹತ್ವದ ಘೋಷಣೆ: ಸುಳಿವು ಕೊಟ್ಟ ಡಿಕೆಶಿ](https://vijaykarnataka.com/news/karnataka/dk-shivakumar-on-new-announcement-at-cabinet-meeting-in-mangaluru/articleshow/134238230.cms)
+- [ನಾಳೆಯ ಹವಾಮಾನ: ಮಂಗಳವಾರ ರಾಜ್ಯದ ದಕ್ಷಿಣ ಒಳನಾಡಿನ ಹಲವೆಡೆ ಭಾರೀ ಮಳೆ ಮುನ್ಸೂಚನೆ; 17 ಜಿಲ್ಲೆಗೆ ಯೆಲ್ಲೋ ಅಲರ್ಟ್‌!](https://vijaykarnataka.com/news/karnataka/tomorrow-weather-heavy-rain-forecast-for-several-parts-of-karnataka-on-september-15-tuesday-yellow-alert-for-17-districts/articleshow/134240319.cms)
+- [ಗೃಹ ಪ್ರವೇಶವಾದ ಹತ್ತೇ ತಿಂಗಳಲ್ಲಿ ಸೋರಿದ ಛಾವಣಿ: ರೆರಾ ಅಂಗಣದಲ್ಲಿ ಬಿಲ್ಡರ್ ವಿರುದ್ದ ಮನೆ ಓನರ್ ಗೆದ್ದದ್ದು ಹೀಗೆ!](https://vijaykarnataka.com/business/personal-finance/telangana-rera-flat-owner-wins-leakage-case-against-builder/articleshow/134240562.cms)
+- [ಮಸೂದ್ ಅಜರ್‌ ಹುಡುಕಿ ಕೊಟ್ಟವರಿಗೆ 70 ಲಕ್ಷ ರೂ. ಬಹುಮಾನ ಘೋಷಿಸಿದ ಪಾಕಿಸ್ತಾನ: ಬಚ್ಚಿಟ್ಟ ಸರ್ಕಾರಕ್ಕೇ ಮರಳಿ ಸೇರುತ್ತೆ ಹಣ!](https://vijaykarnataka.com/news/world/pakistan-announces-7-million-bounty-on-jaish-e-mohammed-terror-group-chief-masood-azhar/articleshow/134239653.cms)
 - [35ರ ನಂತರ ತಂದೆಯಾಗುವುದು: ರಣವೀರ್ ಸಿಂಗ್, ವಿಕ್ಕಿ ಕೌಶಲ್ ಬಳಿಕ ಪುರುಷರ ವೀರ್ಯಾಣು ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಅಧ್ಯಾಯನ ಹೇಳುವುದೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/ranveer-singh-vicky-kaushal-fatherhood-after-35-male-fertility-sperm-health/articleshow/134236848.cms)
-- [ಕಲ್ಯಾಣ ಕರ್ನಾಟಕದ ನೌಕರರ ಬಡ್ತಿಗೆ 371ಜೆ ಗ್ರಹಣ: ವಿಶೇಷ ಸ್ಥಾನಮಾನದ ಈ ವರ ಶಾಪವಾಗಿದ್ದು ಹೇಗೆ ಗೊತ್ತಾ?](https://vijaykarnataka.com/news/kalaburagi/kalyana-karnataka-employees-missing-promotions-due-to-article-371-j-do-you-know-how-this-boon-of-special-status-turned-into-a-curse/articleshow/134236518.cms)
+- [ಧೀರಜ್ ಮುಡಿಗೆ ರಿಕರ್ವ್ ಆರ್ಚರ್ ವಿಶ್ವಕಪ್ ಕಿರೀಟ! ರೋಚಕ ಫೈನಲ್ ನಲ್ಲಿ ಗೆದ್ದು ಇತಿಹಾಸ ನಿರ್ಮಾಣ](https://vijaykarnataka.com/sports/other-sports/dhiraj-bommadevara-creates-history-by-winning-recurve-archery-world-cup-title/articleshow/134239947.cms)
 - [Photos: ‘ಲಕ್ಷ್ಮೀ ನಿವಾಸ’ ಧಾರಾವಾಹಿ ವೆಂಕಿ ಮಗು ನಾಮಕರಣ ಶಾಸ್ತ್ರ, ಮದ್ದು ಮಗನಿಗೆ ಮಹಾಭಾರತದ ಹೆಸರಿಟ್ಟ ನಟ!](https://vijaykarnataka.com/vk-gallery/actors/lakshmi-nivasa-serial-venki-actor-chandrashekhar-shastry-baby-naming-ceremony/photoshow/134239332.cms)
 - [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
-- [2026 ಗಣೇಶ ಚತುರ್ಥಿ: ಚತುರ್ಥಿ ಚಂದ್ರನನ್ನು ನೋಡಿದರೆ ಏನು ಮಾಡಬೇಕು.?](https://vijaykarnataka.com/religion/hinduism/ganesh-chaturthi-2026-do-these-works-if-you-see-moon-on-ganesh-chaturthi/articleshow/134238214.cms)
+- [2026 ಭಾದ್ರಪದ ಮಾಸ: ಪ್ರತಿನಿತ್ಯ ಪೂಜೆಯಲ್ಲಿ ತಪ್ಪಿಸಬೇಕಾದ ವಿಷಯಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/bhadrapada-maas-2026-avoid-to-do-these-mistakes-in-daily-puja/articleshow/134240186.cms)
 - [ಫ್ರಿಡ್ಜ್ ನಲ್ಲಿಟ್ಟರೂ ಹೂಕೋಸು ಬಾಡುತ್ತಿದೆಯಾ? ತಾಜಾತನ ಕಾಪಾಡಲು ಈ 5 ಸರಳ ವಿಧಾನ ಅನುಸರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/cauliflower-storage-tips-keep-fresh-in-fridge/articleshow/134235162.cms)
-- [ಪುಟಿನ್-ಜಿನ್‌ಪಿಂಗ್ ನಡುವೆ ಮೋದಿ ಕಿಂಗ್, 72 ಗಂಟೆ, 15 ದೇಶದ ನಾಯಕರು, ದೆಹಲಿಯಲ್ಲಿ ಭಾರತದ ರಾಜತಾಂತ್ರಿಕ ವಿಶ್ವರೂಪ](https://vijaykarnataka.com/news/india/72-hours-15-world-leaders-how-pm-modi-masterminded-indias-diplomatic-triumph-at-brics-2026/videoshow/134239401.cms)
+- [PF ಖಾತೆದಾರರಿಗೆ ಗುಡ್‌ನ್ಯೂಸ್‌: ಇನ್ಮುಂದೆ ವಾಟ್ಸಾಪ್‌ನಲ್ಲೇ ಸಿಗಲಿದೆ EPFO ಅಪ್‌ಡೇಟ್ಸ್‌! ಅಧಿಕೃತ ಚಾನೆಲ್ ಸೇರುವುದು ಹೇಗೆ?](https://vijaykarnataka.com/business/news/pf-account-holders-will-now-receive-epfo-updates-directly-on-whatsapp-how-to-join-the-official-channel/articleshow/134239475.cms)
 
 **The Hindu**
+- [BJP candidate gets one vote in Rajasthan local body polls](https://www.thehindu.com/news/national/rajasthan/bjp-candidate-gets-one-vote-in-rajasthan-local-body-polls/article71465993.ece)
+- [Rebel Trinamool MP Basunia claims 17 of 20 NCPI MPs to join BJP; fellow rebels, ruling party deny](https://www.thehindu.com/news/national/west-bengal/rebel-trinamool-mp-basunia-claims-17-of-20-ncpi-mps-to-join-bjp-fellow-rebels-ruling-party-deny/article71465946.ece)
+- [Three main accused in Goa nightclub fire surrender before Mapusa court two weeks after SC order](https://www.thehindu.com/news/national/three-main-accused-in-goa-nightclub-fire-surrender-before-mapusa-court-two-weeks-after-sc-order/article71465808.ece)
+- [Amit Shah stresses cultural nationalism, promotion of Indian languages at Rajbhasha event](https://www.thehindu.com/news/national/amit-shah-stresses-cultural-nationalism-promotion-of-indian-languages-at-rajbhasha-event/article71465888.ece)
+- [Gurugram woman biker injured in hit-and-run; accused identified, police launch suo motu probe](https://www.thehindu.com/news/national/haryana/gurugram-woman-biker-thrown-off-sports-bike-after-car-hits-her-on-golf-course-road-police-launch-suo-motu-probe/article71465459.ece)
+- [Rajasthan Urban Local Body polls results: BJP edges past Congress; counting under way at many wards](https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-poll-congress-bjp-vote-counting-results-update-september-14-2026/article71465801.ece)
 - [Kashmiri Pandits mark Balidan Diwas in Jammu; reiterate ‘genocide’ recognition, homeland demands](https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiri-pandits-mark-balidan-diwas-in-jammu-reiterate-genocide-recognition-homeland-demands/article71465915.ece)
 - [Owaisi slams Shah’s UCC remark, asks if NDA allies have ‘independent voice’](https://www.thehindu.com/news/national/owaisi-slams-shahs-ucc-remark-asks-if-nda-allies-have-independent-voice/article71465878.ece)
 - [Residents take out protest following drinking water shortage in Kochi](https://www.thehindu.com/news/cities/Kochi/residents-take-out-protest-following-drinking-water-shortage-in-kochi/article71465787.ece)
 - [Religious fervour, creativity, colossal offerings mark Vinayaka Chaturthi celebration in Tamil Nadu](https://www.thehindu.com/news/national/tamil-nadu/religious-fervour-creativity-colossal-offerings-mark-vinayaka-chaturthi-celebration-in-tamil-nadu/article71465920.ece)
-- [In Pictures: Ganesh Chaturthi 2026](https://www.thehindu.com/news/national/in-pictures-ganesh-chaturthi-2026/article71465881.ece)
-- [Rajasthan Urban Local Body polls: Counting of votes under way across State, BJP takes early lead](https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-poll-congress-bjp-vote-counting-results-update-september-14-2026/article71465801.ece)
-- [Amit Shah stresses cultural nationalism, promotion of Indian languages at Rajbhasha event](https://www.thehindu.com/news/national/amit-shah-stresses-cultural-nationalism-promotion-of-indian-languages-at-rajbhasha-event/article71465888.ece)
-- [Justice V. Kameswar Rao takes oath as Chief Justice of Patna High Court](https://www.thehindu.com/news/national/bihar/justice-v-kameswar-rao-takes-oath-as-chief-justice-of-patna-high-court/article71463018.ece)
-- [Gurugram woman biker injured in hit-and-run; accused identified, police launch suo motu probe](https://www.thehindu.com/news/national/haryana/gurugram-woman-biker-thrown-off-sports-bike-after-car-hits-her-on-golf-course-road-police-launch-suo-motu-probe/article71465459.ece)
-- [‘PM says sab changa si, but sab mehenga si’ Congress on WPI inflation](https://www.thehindu.com/news/national/pm-says-sab-changa-si-but-sab-mehenga-si-congress-on-wpi-inflation/article71465854.ece)
 
 **Livemint**
+- [Reservoir levels recover, but water storage remains below normal](https://www.livemint.com/news/india/india-reservoir-levels-september-2026-cwc-water-storage-rabi-irrigation-hydropower-monsoon-rainfall-11789378597073.html)
 - [US pilot reveals how he survived 50 hours with a broken back in Iranian mountains after being shot down by enemy forces](https://www.livemint.com/news/world/us-pilot-reveals-how-he-survived-50-hours-with-a-broken-back-in-iranian-mountains-after-being-shot-down-by-enemy-forces-11789380923396.html)
 - [DRI seizes 362 tonnes of Pakistan-origin dates routed via UAE](https://www.livemint.com/news/india/dri-seizes-362-tonnes-pakistan-dates-india-import-ban-uae-jebel-ali-operation-deep-manifest-11789379011851.html)
 - [Operation Deep Manifest: DRI seizes 362 metric tonnes of Pakistan-origin dry dates in Nashik routed via UAE](https://www.livemint.com/news/india/operation-deep-manifest-dri-seizes-362-metric-tonnes-pakistan-origin-dry-dates-in-nashik-11789375195424.html)
@@ -83,7 +84,6 @@
 - [Uniform Civil Code: Amit Shah targets 2029 rollout across 21 NDA states – Where is UCC already in force?](https://www.livemint.com/news/india/uniform-civil-code-amit-shah-targets-2029-rollout-across-21-nda-states-where-is-ucc-already-in-force-11789372433501.html)
 - [Saudi-Houthis clash: Traders expect Riyadh to run out of oil stocks soon if work on east-west pipeline doesn't resume](https://www.livemint.com/news/world/saudihouthis-clash-traders-expect-riyadh-to-run-out-of-oil-stocks-soon-if-work-on-east-west-pipeline-doesnt-resume-11789372007752.html)
 - [Gurugram road rage caught on camera as car hits woman biker, driver flees: ‘He kept making hand gestures'](https://www.livemint.com/news/india/gurugram-road-rage-caught-on-camera-as-car-hits-woman-biker-driver-flees-he-kept-making-hand-gestures-11789367108481.html)
-- [Kargil veteran assaulted in Gurugram: Parking staff allegedly hit 'Op Safed Sagar' hero with iron rod](https://www.livemint.com/news/india/kargil-veteran-assaulted-in-gurugram-parking-staff-allegedly-hit-op-safed-sagar-hero-with-iron-rod-11789363628748.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,9 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಜಮಾಅತೆ ಇಸ್ಲಾಮೀ ಹಿಂದ್ ಸಮಾವೇಶ | ಸೆ.18: ಪಾಣೆಮಂಗಳೂರಿಗೆ ಅಬ್ದುಲ್ ಹಕೀಮ್ ನದ್ವಿ ಆಗಮನ](https://www.varthabharati.in/DakshinaKannada/-18--2275171)
+- [ಮೇಲ್ತೆನೆ ವೀಡಿಯೋ ಸ್ಪರ್ಧೆಯ ವಿಜೇತರಿಗೆ ಬಹುಮಾನ ವಿತರಣೆ](https://www.varthabharati.in/DakshinaKannada/--2275170)
+- [Raichur | ‘ಬುದ್ಧ ಪ್ರಜ್ಞಾ ಮಕ್ಕಳ ಮೈತ್ರಿ–2026’ ಉತ್ಸವ ಕಾರ್ಯಕ್ರಮ](https://www.varthabharati.in/raichur/raichur-buddha-prajna-childrens-friendship-2026-festival-programme-2275169)
 - [ದಿಶಾ ಸಾಲಿಯಾನ್ ಸಾವಿನ ಪ್ರಕರಣ: ಸಿಬಿಐ ಎಫ್ಐಆರ್‌ನಲ್ಲಿ ಆದಿತ್ಯ ಠಾಕ್ರೆ, ರಿಯಾ ಚಕ್ರವರ್ತಿ ಸೇರಿದಂತೆ ಹಲವರ ಹೆಸರು!](https://www.varthabharati.in/National/cbi-includes-aditya-thackeray-and-riya-chakravarty-in-disha-salian-death-case-2275167)
 - [ಈ.ಡಿ.ಗೆ ಸವಾಲು ಹಾಕುವ ಪ್ರಶ್ನೆಯಿಲ್ಲ: ಸತೀಶ್ ಜಾರಕಿಹೊಳಿ](https://www.varthabharati.in/bangalore-city/satish-jarakiholi-2275165)
 - [ಸೌದಿ ಅರೇಬಿಯಾದ ಇಂಧನ ಮೂಲಸೌಕರ್ಯಗಳ ಮೇಲಿನ ದಾಳಿ ಬಳಿಕ ತೈಲ ಬೆಲೆ ಏರಿಕೆ ಮುಂದುವರಿಕೆ; ಶೇ.3ರಷ್ಟು ಹೆಚ್ಚಳ](https://www.varthabharati.in/international/saudi-pipeline-damage-may-send-oil-prices-soaring-about-3-2275166)
@@ -105,30 +108,29 @@
 - [ಉತ್ತರ ಪ್ರದೇಶದ ಎರಡು ಕೇಂದ್ರಗಳಿಂದ 60 ಲಕ್ಷ ರೂ. ಮೌಲ್ಯದ ಗೋಧಿ ನಾಪತ್ತೆ; ಪೊಲೀಸರಿಂದ ತನಿಖೆ](https://www.varthabharati.in/National/wheat-about-60-lakhs-is-missing-from-two-centers-in-up-2275160)
 - [ವಿದ್ಯುತ್ ಕಡಿತಕ್ಕೆ ಕೇರಳ ಮುಖ‍್ಯಮಂತ್ರಿ ನೃತ್ಯ ಮಾಡುತ್ತಿರುವ ವೈರಲ್ AI ವಿಡಿಯೊಗೆ Meta ನಿರ್ಬಂಧ!](https://www.varthabharati.in/National/ai-video-of-kerala-cm-dancing-for-electricity-tariff-2275158)
 - [Rajasthan | ನಗರ ಸ್ಥಳೀಯ ಸಂಸ್ಥೆಗಳ ಚುನಾವಣೆಯಲ್ಲಿ ಬಿಜೆಪಿಗೆ ಮುನ್ನಡೆ: ಮಹಾನಗರ ಪಾಲಿಕೆಗಳ ಪೈಕಿ 5ರಲ್ಲಿ ಬಿಜೆಪಿ, 3ರಲ್ಲಿ ಕಾಂಗ್ರೆಸ್ ಮೇಲುಗೈ](https://www.varthabharati.in/national/bjp-takes-lead-in-urban-local-body-elections-the-bjp-leads-in-5-congress-in-3-2275155)
-- [Yadgiri | ದೇವಸ್ಥಾನಕ್ಕೆ ತೆರಳಿದ್ದ ದಲಿತರ ಮೇಲೆ ಮಾರಣಾಂತಿಕ ಹಲ್ಲೆ ಆರೋಪ; 10ಕ್ಕೂ ಹೆಚ್ಚು ಮಂದಿಗೆ ಗಾಯ](https://www.varthabharati.in/yadagir/yadgiri-2275154)
-- [ದಿಶಾ ಸಾಲ್ಯಾನ್ ಸಾವಿನ ಪ್ರಕರಣ: ಎಫ್ಐಆರ್ ದಾಖಲಿಸಿಕೊಂಡ CBI](https://www.varthabharati.in/national/cbi-registers-fir-takes-probe-from-mumbai-police-in-disha-salian-case-2275152)
-- [200ಕ್ಕೂ ಹೆಚ್ಚು ತಾಲೂಕುಗಳಲ್ಲಿ ಬರ ಪರಿಸ್ಥಿತಿ, ಕೇಂದ್ರದ ನಿಯಮಾನುಸಾರ ಬರ ಪೀಡಿತ ತಾಲೂಕುಗಳ ಘೋಷಣೆ : ಸಿಎಂ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್](https://www.varthabharati.in/state/d-k-shivakumar-2275151)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Gurugram (6.4)
+- Gurugram (5.1)
 - Emkay Global Financial (5.0)
+- Rajasthan (4.2)
 - ICICI Securities (3.0)
 - target (3.0)
-- Rajasthan (2.9)
-- China (2.9)
-- Gurgaon (2.6)
 - Opinion (2.6)
 - Pakistan-origin (2.6)
-- Op Safed Sagar' (2.0)
+- Rebel Trinamool MP (2.0)
+- NCPI MPs (2.0)
 - Amit Shah (2.0)
 - Buy Bajaj Finance (2.0)
 - Hit-And-Run (1.9)
 - Shah (1.9)
-- Accused (1.6)
+- China's (1.6)
+- China (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [આશ્ચર્ય : વડાપ્રધાન મોદીના ભોજન સમારંભમાં શી-જિનપિંગ હાજર ન રહ્યા](https://www.gujaratsamachar.com/news/national/surprise-xi-jinping-not-present-at-pm-modis-dinner-11596799910)
+- [OTT: 14 से 20 सितंबर के बीच रिलीज हो रहीं 13 फिल्में और सीरीज, नेटफ्लिक्स पर आएंगी 7](https://www.livehindustan.com/entertainment/web-series/ott-upcoming-14-to-20-september-13-films-and-series-relasing-netflix-jio-hotstar-zee5-prime-video-201789287123891.html)
 - [ఆర్‌ఆర్‌ఆర్‌ దక్షిణ భాగం ఎలైన్‌మెంట్‌ పెండింగ్‌](https://www.eenadu.net/telugu-news/telangana/general/1899/126166193)
 - [IPO set to unlock value in group companies holding Tata Sons stake](https://timesofindia.indiatimes.com/business/india-business/ipo-set-to-unlock-value-in-group-cos-holding-tata-sons-stake/articleshow/134229591.cms)
 - [Severe period pain isn't always normal: Doctors explain endometriosis, genetic risks and why diagnosis can take years](https://timesofindia.indiatimes.com/health/severe-period-pain-isnt-always-normal-doctors-explain-endometriosis-genetic-risks-and-why-diagnosis-can-take-years/articleshow/134213146.cms)
@@ -137,8 +139,6 @@
 - [ആരോഗ്യമേഖലയിൽ കൂടുതൽ കരാർ ജീവനക്കാരെ പിരിച്ചുവിടുന്നു](https://www.mathrubhumi.com/news/kerala/kerala-health-department-contract-workers-termination-ko62cwgl)
 - [Trump calls on Ukraine to halt strikes on Russian diesel fuel, says attacks causing shortage](https://www.thehindu.com/news/international/trump-calls-on-ukraine-to-halt-strikes-on-russian-diesel-fuel-says-attacks-causing-shortage/article71464691.ece)
 - [StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes](https://oilprice.com/Energy/Oil-Prices/StanChart-Warns-Oil-Is-Now-Built-for-Sharper-More-Frequent-Spikes.html)
-- [Telangana News: పంచాయతీల్లోనూ బిల్డ్‌నౌ](https://www.eenadu.net/telugu-news/telangana/building-permission-process-in-villages/1899/126166058)
-- [Samsung launches Galaxy S26 FE in India, reveals pricing](https://www.sammobile.com/news/samsung-launches-galaxy-s26-fe-india-reveals-pricing/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
