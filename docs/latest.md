@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-14 01:34:31
+# India Trending Report — 2026-09-14 02:02:38
 
 ## Google Trends (India) — top trending searches
-1. [હવામાન](https://trends.google.com/trending/rss?geo=IN)
-2. [san diego vs philadelphia](https://trends.google.com/trending/rss?geo=IN)
-3. [today](https://trends.google.com/trending/rss?geo=IN)
-4. [మహిళల ఆసియా కప్](https://trends.google.com/trending/rss?geo=IN)
-5. [demis hassabis](https://trends.google.com/trending/rss?geo=IN)
-6. [झारखंड](https://trends.google.com/trending/rss?geo=IN)
-7. [பிரதமர்](https://trends.google.com/trending/rss?geo=IN)
-8. [வெஸ்ட் இண்டீஸ் கிரிக்கெட் அணி](https://trends.google.com/trending/rss?geo=IN)
-9. [ਮੌਸਮ](https://trends.google.com/trending/rss?geo=IN)
-10. [बारिश मौसम](https://trends.google.com/trending/rss?geo=IN)
+1. [malaysia vs uae](https://trends.google.com/trending/rss?geo=IN)
+2. [వినాయక చవితి శుభాకాంక్షలు](https://trends.google.com/trending/rss?geo=IN)
+3. [ऋषि पंचमी कब है](https://trends.google.com/trending/rss?geo=IN)
+4. [விநாயகர் சதுர்த்தி 2026](https://trends.google.com/trending/rss?geo=IN)
+5. [હવામાન](https://trends.google.com/trending/rss?geo=IN)
+6. [today](https://trends.google.com/trending/rss?geo=IN)
+7. [san diego vs philadelphia](https://trends.google.com/trending/rss?geo=IN)
+8. [demis hassabis](https://trends.google.com/trending/rss?geo=IN)
+9. [మహిళల ఆసియా కప్](https://trends.google.com/trending/rss?geo=IN)
+10. [झारखंड](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [‘We can’t receive it from him’: Why India snubbed Mohsin Naqvi again](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/we-cant-receive-the-trophy-from-him-why-india-snubbed-mohsin-naqvi-again-devajit-saikia-explains/articleshow/134229998.cms)
+- [‘We spy on them too’: Trump shrugs off China-Iran satellite imagery report](https://timesofindia.indiatimes.com/world/us/we-spy-on-them-trump-shrugs-off-china-iran-satellite-imagery-report/articleshow/134230513.cms)
+- [Murder accused's 'victory march': SC asks Haryana police to produce him in court](https://timesofindia.indiatimes.com/india/murder-accused-takes-out-victory-march-after-bail-sc-tells-haryana-cops-to-produce-him-in-court/articleshow/134229198.cms)
+- [Relief for 7 H-1B spouses as court halts rule ending automatic work permit extensions](https://timesofindia.indiatimes.com/nri/us-canada-news/seven-h-1b-spouses-win-as-us-court-sets-aside-end-of-automatic-ead-extensions/articleshow/134206051.cms)
+- [Oil infra hit by Ukraine, Russia gets 70% of its fuel from India](https://timesofindia.indiatimes.com/business/international-business/oil-infra-hit-by-ukraine-russia-gets-70-of-its-fuel-from-india/articleshow/134223885.cms)
+- [Mark Zuckerberg's secret project wanted Meta teams 60% smaller and run by AI agents](https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-ran-a-secret-project-to-make-the-company-ai-native-asked-teams-to-study-impact-of-/articleshow/134212125.cms)
 - [Xi's 5-point action plan for Brics may see red flags go up in India](https://timesofindia.indiatimes.com/india/xis-5-point-action-plan-for-brics-may-see-red-flags-go-up-in-india/articleshow/134225006.cms)
 - [Kremlin says PM Modi and Xi offered Putin help to settle Ukraine war](https://timesofindia.indiatimes.com/india/kremlin-says-modi-and-xi-offered-putin-help-to-settle-ukraine-war/articleshow/134225869.cms)
-- ['Act of terror’: Pregnant woman among four killed in attacks on Kuki villages in Manipur](https://timesofindia.indiatimes.com/city/guwahati/twin-manipur-attacks-village-bodies-allege-nscn-zuf-hand-in-killing-of-4-kukis/articleshow/134211178.cms)
 - [Six years after 2020 heartbreak, Zverev beats Shelton to finally win US Open](https://timesofindia.indiatimes.com/sports/tennis/top-stories/six-years-after-2020-heartbreak-alexander-zverev-beats-ben-shelton-to-finally-win-us-open/articleshow/134230104.cms)
-- [Mark Zuckerberg's secret project wanted Meta teams 60% smaller and run by AI agents](https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-ran-a-secret-project-to-make-the-company-ai-native-asked-teams-to-study-impact-of-/articleshow/134212125.cms)
-- [BJP-led govts in 21 states to bring UCC before 2029: Shah](https://timesofindia.indiatimes.com/india/bjp-led-govts-in-21-states-to-bring-ucc-before-2029-shah/articleshow/134229519.cms)
-- [IPO set to unlock value in group coompanies holding Tata Sons stake](https://timesofindia.indiatimes.com/business/india-business/ipo-set-to-unlock-value-in-group-cos-holding-tata-sons-stake/articleshow/134229591.cms)
-- [SIR notices to 38 members of Iranian-origin family in Jharkhand](https://timesofindia.indiatimes.com/city/ranchi/notices-to-38-member-iranian-origin-family-over-draft-roll-entry-in-garhwa/articleshow/134207279.cms)
 - [Jeff Bezos’ ex-wife MacKenzie Scott gives $60 million to global methane fight](https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-gives-60-million-to-global-methane-fight-as-cutting-the-invisible-gas-becomes-a-climate-priority/articleshow/134063334.cms)
 
 **NDTV**
@@ -50,16 +50,16 @@
 - [NEET to move to computer-based test ‘very soon’, says NTA DG: ‘It’s the future'](https://www.hindustantimes.com/india-news/neet-exam-to-move-to-computer-based-test-very-soon-says-nta-dg-its-the-future-national-testing-agency-101789305122212.html)
 
 **Vijay Karnataka**
+- [BRICS ಒಕ್ಕೂಟದಿಂದ ʼಗ್ಲೋಬಲ್‌ ಸೌತ್‌ʼ ವಿಶ್ವಾಸ ಹೆಚ್ಚಾಗಿದೆ: ಬ್ರಿಕ್ಸ್‌ ಶೃಂಗಸಭೆಯಲ್ಲಿ ಪ್ರಧಾನಿ ನರೇಂದ್ರ ಮೋದಿ ಹೇಳಿಕೆ!](https://vijaykarnataka.com/news/india/global-south-confidence-in-brics-growing-pm-modi-claims-in-brics-summit/articleshow/134230126.cms)
+- [Ganesh Chaturthi 2026: ಗಣಪನ ಕುರಿತು ತಿಳಿಯೋಣ; ಗಣಪನಿಂದ ಕಲಿಯೋಣ](https://vijaykarnataka.com/lavalavk/weekly-magazine/ganesha-chaturthi-festival-2026-knowledge-about-lord-ganesha-and-things-to-learn-from-ganapa-special-artile-by-geetha-bhat/articleshow/134230162.cms)
 - [1 ಟ್ರಿಲಿಯನ್ ಆರ್ಥಿಕತೆ ಮಹತ್ವಾಕಾಂಕ್ಷೆ: ಸಿಎಂ ಡಿಕೆ ಶಿವಕುಮಾರ್‌ ಅಧಿಕಾರದ 100 ದಿನದಲ್ಲಿ ಕರ್ನಾಟಕಕ್ಕೆ ಹರಿದು ಬಂತು ₹43,214 ಕೋಟಿ ಹೂಡಿಕೆ!](https://vijaykarnataka.com/news/karnataka/cm-dk-shivakumar-approves-43214-crs-investment-proposals-in-100-days-to-boost-karnataka-1-trillion-economy-goal/articleshow/134229943.cms)
-- [ನಾಸಿಕ್‌ನಿಂದ ಕೇರಳಕ್ಕೆ ಬಂತು 20 ಟನ್‌ ಈರುಳ್ಳಿ; ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಈರುಳ್ಳಿ ಕೆಜಿಗೆ 35 ರೂ.ಗೆ ಮಾರಾಟ ಆರಂಭ, ದರ ಏರಿಕೆಗೆ ಬ್ರೇಕ್‌!](https://vijaykarnataka.com/news/kasaragod/20-tons-of-onions-from-nashik-arrives-in-kerala-market-price-stabilizes-at-35rs-per-kg-onions/articleshow/134229749.cms)
-- [ಭಾರತದ ಇಂಧನ ಕೊರತೆ ಪರಿಹಾರಕ್ಕೆ ಅಡಕೆ ಹಾಳೆಯಿಂದಲೂ ಎಥೆನಾಲ್‌ ಉತ್ಪಾದನೆಗೆ ಪ್ಲ್ಯಾನ್‌; ಅಡಕೆ ಬೆಳೆಗಾರರಿಗೆ ಹೊಸ ಭರವಸೆ, ಹೇಗೆ ಗೊತ್ತಾ?](https://vijaykarnataka.com/news/mangaluru/production-of-ethanol-from-areca-leaf-sheath-new-alernative-to-reduce-energy-crisis-in-india/articleshow/134229603.cms)
 - [ಹೆಚ್ಚು ಗಂಟೆಗಳ ಕೆಲಸ ಹೃದಯಕ್ಕೆ ಅಪಾಯವೇ? ಕೆಲಸದ ಒತ್ತಡದಿಂದ ಹೃದಯಾಘಾತದ ಅಪಾಯ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/health/world-heart-day-2026-long-working-hours-heart-attack-risk/articleshow/134193727.cms)
-- [Women's Asia Cup 2026- ಮೊಂಡುತನ ಬಿಡದ ಮೊಹ್ಸಿನ್ ನಖ್ವಿ; ಈಗ ಹರ್ಮನ್ ಪ್ರೀತ್ ಕೌರ್ ಪಡೆಯಿಂದಲೂ ಮಂಗಳಾರತಿ!](https://vijaykarnataka.com/sports/cricket/news/indian-womens-team-also-refuses-to-collect-asia-cup-2026-trophy-from-acc-president-mohsin-naqvi/articleshow/134222126.cms)
-- [ಮೊದಲ ವಾರವೇ ʻಬಿಗ್‌ ಬಾಸ್‌ʼನಿಂದ ಎಲಿಮಿನೇಟ್‌ ಆದ ಪ್ರಥಮಾಗೆ ಸಿಕ್ಕ ಕ್ಯಾಶ್‌ ಪ್ರೈಜ್‌ ಎಷ್ಟು?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-prathama-prasad-eliminated-wins-3-lakh-cash-prize/articleshow/134216941.cms)
+- [ನಾಸಿಕ್‌ನಿಂದ ಕೇರಳಕ್ಕೆ ಬಂತು 20 ಟನ್‌ ಈರುಳ್ಳಿ; ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಈರುಳ್ಳಿ ಕೆಜಿಗೆ 35 ರೂ.ಗೆ ಮಾರಾಟ ಆರಂಭ, ದರ ಏರಿಕೆಗೆ ಬ್ರೇಕ್‌!](https://vijaykarnataka.com/news/kasaragod/20-tons-of-onions-from-nashik-arrives-in-kerala-market-price-stabilizes-at-35rs-per-kg-onions/articleshow/134229749.cms)
+- [10 ತಿಂಗಳ ಹಸುಗೂಸನ್ನ ಬಿಟ್ಟು ʻಬಿಗ್‌ ಬಾಸ್‌ʼಗೆ ಬಂದಿದ್ದ ʻರಾಧಾ ಕಲ್ಯಾಣʼ ನಟಿ ಚೈತ್ರಾ ರೈ ಐದೇ ದಿನಕ್ಕೇ ಔಟ್!](https://vijaykarnataka.com/tv/bigg-boss-kannada/chaithra-rai-bigg-boss-telugu-mid-week-elimination/articleshow/134230397.cms)
 - [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
 - [2026 ಗಣೇಶ ಚತುರ್ಥಿ: ಗಣೇಶನಿಗೆ ಸಂಬಂಧಿಸಿದ ಕನಸುಗಳ ಅರ್ಥ ಮತ್ತು ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/superstition/ganesh-chaturthi-2026-seeing-these-things-in-your-dream-will-bring-ganesha-grace/articleshow/134218213.cms)
 - [BRICS ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಜಹ್ರಾ ಸರಳ ಫ್ಯಾಷನ್ ಲುಕ್; ಭಾರತೀಯ ಕಲೆ-ಸಂಸ್ಕೃತಿಗೆ ಮನಸೋತ ಇರಾನ್ ಅಧ್ಯಕ್ಷರ ಪುತ್ರಿ](https://vijaykarnataka.com/lifestyle/fashion/iranian-president-daughter-zahra-brics-market-fashion-look-indian-culture/articleshow/134179578.cms)
-- [ಬ್ರಿಕ್ಸ್‌ ಶೃಂಗಸಭೆ ಮುಗಿಸಿ ತಾಯ್ನಾಡಿಗೆ ಮರಳಿದ ವ್ಲಾಡಿಮಿರ್‌ ಪುಟಿನ್-ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್:‌ ಹೇಗಿತ್ತು ಪವರ್‌ಫುಲ್‌ ಅಧ್ಯಕ್ಷರ ಭಾರತ ಪ್ರವಾಸ?](https://vijaykarnataka.com/news/india/vladimir-putin-and-xi-jinping-departs-from-delhi-after-participating-in-brics-summit-2026/articleshow/134201444.cms)
+- [ಭಾರತದ ಇಂಧನ ಕೊರತೆ ಪರಿಹಾರಕ್ಕೆ ಅಡಕೆ ಹಾಳೆಯಿಂದಲೂ ಎಥೆನಾಲ್‌ ಉತ್ಪಾದನೆಗೆ ಪ್ಲ್ಯಾನ್‌; ಅಡಕೆ ಬೆಳೆಗಾರರಿಗೆ ಹೊಸ ಭರವಸೆ, ಹೇಗೆ ಗೊತ್ತಾ?](https://vijaykarnataka.com/news/mangaluru/production-of-ethanol-from-areca-leaf-sheath-new-alernative-to-reduce-energy-crisis-in-india/articleshow/134229603.cms)
 
 **The Hindu**
 - [Jharkhand LoP accuses Soren-led govt. of protecting influential people amid CID probe into job exam ‘irregularities’](https://www.thehindu.com/news/national/jharkhand/jharkhand-lop-accuses-soren-led-govt-of-protecting-influential-people-amid-cid-probe-into-job-exam-irregularities/article71463699.ece)
@@ -74,6 +74,7 @@
 - [Asia Cup: Indian women's cricket team refuses to accept trophy from ACC head Mohsin Naqvi](https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece)
 
 **Livemint**
+- [Petrol and diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru as crude rose after Saudi shut key oil pipeline](https://www.livemint.com/news/india/petrol-and-diesel-prices-today-fuel-rates-in-delhi-mumbai-bengaluru-as-crude-rose-after-saudi-shut-key-oil-pipeline-11789346790679.html)
 - [Diversification & demand destruction: How India managed its energy needs amid the Iran war](https://www.livemint.com/news/india/crude-oil-prices-indian-crude-basket-trade-deficit-india-11789303115335.html)
 - [US-Iran war LIVE: Iran's meeting with Gulf leaders on Strait of Hormuz proposal postponed amid fresh attacks](https://www.livemint.com/news/us-news/us-iran-war-news-latest-live-updates-donald-trump-saudi-houthis-strait-of-hormuz-bab-al-mandab-strait-crude-oil-prices-11789346363638.html)
 - [Amtrak Trains Between Boston, New York Disrupted Due to Flooding](https://www.livemint.com/news/amtrak-trains-between-boston-new-york-disrupted-due-to-flooding-11789348378816.html)
@@ -83,7 +84,6 @@
 - [Brics Women’s Business Alliance urges supply chain access and scale for women-led entrepreneurship](https://www.livemint.com/news/india/brics-women-s-business-alliance-urges-supply-chain-access-and-scale-for-women-led-entrepreneurship-11789301032517.html)
 - [Maratha quota battle heads to Mumbai? Activist Manoj Jarange Patil warns of fast unto death at Azad Maidan](https://www.livemint.com/news/india/maratha-quota-battle-heads-to-mumbai-activist-manoj-jarange-patil-warns-of-fast-unto-death-at-azad-maidan-11789323910846.html)
 - [IND vs AFG T20I: Why was Vande Mataram played before national anthem for first time? Here's what report says](https://www.livemint.com/news/india/ind-vs-afg-t20i-why-was-vande-mataram-played-before-national-anthem-for-first-time-heres-what-report-says-11789320751599.html)
-- [Trump urges Ukraine to stop Russia oil strikes as House readies Lindsey Graham sanctions bill](https://www.livemint.com/news/world/trump-urges-ukraine-to-stop-russia-oil-strikes-as-house-readies-lindsey-graham-sanctions-bill-11789322557790.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಯುಎಸ್ ಓಪನ್ 2026 | ಪುರುಷರ ಸಿಂಗಲ್ಸ್ನಲ್ಲಿ ಜರ್ಮನಿಯ ಅಲೆಕ್ಸಾಂಡರ್ ಝ್ವರೆವ್ ಚಾಂಪಿಯನ್](https://www.varthabharati.in/sports/us-open-2026-germanys-alexander-zverev-is-the-mens-singles-champion-2275094)
 - [Bengaluru | NLSIU ನಲ್ಲಿ ಉಮರ್ ಖಾಲಿದ್ ಕುರಿತ ಸಾಕ್ಷ್ಯಚಿತ್ರ ಪ್ರದರ್ಶನ ಮುಂದೂಡಿಕೆ; ರದ್ದತಿಗೆ ABVP ಪಟ್ಟು](https://www.varthabharati.in/bangalore-city/bengaluru-nlsiu-2275093)
 - [ಸೌದಿ ಅರೇಬಿಯಾ ಮೇಲೆ ಹೌದಿಗಳಿಂದ ಕ್ಷಿಪಣಿ ದಾಳಿ| ಇಬ್ಬರಿಗೆ ಗಾಯ; ಹಲವು ಕಟ್ಟಡಗಳಿಗೆ ಹಾನಿ](https://www.varthabharati.in/international/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says-2275092)
 - [ಅಧ್ಯಕ್ಷರನ್ನು ಭೇಟಿಯಾಗಲು ಮಾಸ್ಕೊಗೆ ಬನ್ನಿ: ಝೆಲೆನ್‍ಸ್ಕಿಗೆ ರಶ್ಯ ಆಹ್ವಾನ](https://www.varthabharati.in/international/come-to-moscow-kremlins-blunt-reply-to-zelenskyys-putin-meeting-offer-in-miami-2275091)
@@ -107,38 +108,37 @@
 - [ಗಾಝಾ | ಇಸ್ರೇಲ್ ದಾಳಿಗೆ ಇಬ್ಬರು ಮೃತ್ಯು, 13 ಮಂದಿಗೆ ಗಾಯ](https://www.varthabharati.in/international/2-palestinians-killed-13-injured-in-israeli-drone-strike-on-vehicle-in-gaza-2275087)
 - ["ನನ್ನ ಹತ್ಯೆಗೆ ಸಂಚು ನಡೆಯುತ್ತಿದೆ": ಮರಾಠಾ ಹೋರಾಟಗಾರ ಮನೋಜ್ ಜಾರಂಗೆ](https://www.varthabharati.in/National/manoj-jarange-2275086)
 - [18ನೇ ಬ್ರಿಕ್ಸ್ ಶೃಂಗಸಭೆಗೆ ತೆರೆ: ಭಾರತದಿಂದ ಚೀನಾಕ್ಕೆ ಅಧ್ಯಕ್ಷ ಸ್ಥಾನ ಹಸ್ತಾಂತರ](https://www.varthabharati.in/National/india-passes-brics-baton-to-china-as-pm-modi-hopes-new-delhi-declaration-charts-clear-path-for-solutions-2275085)
-- [‘ಕೆಪಿಸಿಸಿ ಕನೆಕ್ಟ್ ಸೆಂಟರ್’ನ ಅಧ್ಯಕ್ಷರಾಗಿ ಸಿ.ಬಿ.ಶಶಿಧರ್ ನೇಮಕ](https://www.varthabharati.in/bangalore-city/--2275083)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (5.4)
+- India (6.7)
+- Mumbai (6.1)
 - Emkay Global Financial (5.0)
-- Mumbai (4.8)
+- Delhi (3.9)
+- BRICS (3.5)
 - PM Modi (3.0)
 - Brics Summit (3.0)
 - Azad Maidan (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
 - Ukraine (2.6)
-- Delhi (2.6)
-- House (2.6)
 - Centre (2.6)
 - Maratha (2.6)
+- Bengaluru (2.6)
 - Brics (2.5)
-- BRICS (2.2)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [Amitabh Bachchan reveals the trick he uses to get Jaya Bachchan ready for events on time: 'One hour before the actual time..'](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachhcan-reveals-the-trick-he-uses-to-get-jaya-bachchan-ready-for-events-on-time-one-hour-before-the-actual-time-/articleshow/134204945.cms)
+- [IND vs AFG: সঞ্জু স্যামসন দলে ফিরতেই একাদশ থেকে বাদ বৈভব, ফিরলেন বুমরা](https://bengali.abplive.com/sports/cricket/ind-vs-afg-1st-t20i-jasprit-bumrah-returns-but-vaibhav-sooryavanshi-misses-out-find-out-xi-1192671)
+- [ഉപതിരഞ്ഞെടുപ്പിൽ മത്സരിക്കാൻ സിപിഎമ്മും സിപിഐയും- Tamil Nadu](https://www.manoramaonline.com/news/latest-news/2026/09/13/left-parties-to-contest-tamil-nadu-bye-elections.html)
+- [IND vs AFG | అఫ్గనిస్థాన్‌తో తొలి టీ20.. వైభవ్ బెంచ్ మీదే..!](https://www.ntnews.com/sports/india-opt-bowling-vaibhav-not-in-final-xi-2510327)
+- [Hartalika Teej 2026 : यंदा हरतालिका अन् गणेश चतुर्थी एकाच दिवशी; उपवास कधी सोडायचा? जाणून घ्या संपूर्ण माहिती](https://marathi.freepressjournal.in/lifestyle/hartalika-teej-2026-puja-vidhi-muhurat-upvas-paran-puja-samagri-ganesh-chaturthi-ekach-divshi)
+- [14 सितंबर को बंद रहेंगे स्कूल? गणेश चतुर्थी पर कहां है छुट्टी](https://www.prabhatkhabar.com/national/kal-school-holiday-14-september-2026-ganesh-chaturthi-school-closed-or-open)
+- [Buses To Khairatabad Ganesh: ఖైరతాబాద్ గణేష్, బాలాపూర్‌ గణేష్ దర్శనానికి RTC ప్రత్యేక బస్సులు](https://telugu.abplive.com/telangana/hyderabad/rtc-special-buses-for-khairatabad-and-balapur-ganesh-pandals-from-jbs-and-mgbs-258851)
+- [रैपिडो से जा रही थी हेमादुर्गा, बस ने मारी जोरदार टक्कर... मौके पर ही मौत, Video](https://www.aajtak.in/india/telangana/story/hyderabad-rtc-bus-rapido-collision-ameerpet-hemadurga-dies-at-the-spot-ntc-acwi-rptc-2642167-2026-09-13)
+- [പ്രസംഗത്തിനിടെ വൈദ്യുതി കട്ടു ചെയ്യുന്നവരുണ്ട്- KSEB](https://www.manoramaonline.com/news/latest-news/2026/09/13/kerala-grapples-with-electricity-crisis-new-policy-under-consideration.html)
 - [Neelam Kothari On Affair With Govinda; 'मी खूप लहान होते, त्याच्या लग्नाबद्दलही मला माहित नव्हतं', गोविंदासोबत अफेअरच्या चर्चा, नीलम कोठारीनं सोडलं मौन](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/neelam-kothari-break-silence-on-affair-rumors-with-govinda/articleshow/134203021.cms)
-- [Konkan Temples : कोकणात लपली आहेत गणपतीची ५ प्रसिद्ध मंदिरे, पाऊल ठेवताच मन होईल प्रसन्न](https://saamtv.esakal.com/ampstories/web-stories/ganesh-chaturthi-special-5-ganpati-temple-in-konkan-religious-places-maharashtra-travel-tourism-marathi-news-ganpatipule-sm2000)
-- [মোদির প্রশাসনিক জীবনের 25 বছর পূর্তি, রাজ্যজুড়ে ‘সেবা সংকল্প অভিযান’ পালনে নির্দেশিকা নবান্নের](https://www.etvbharat.com/bn/state/nabanna-issues-directive-to-observe-seva-sankalp-abhiyan-across-bengal-to-mark-the-25-years-of-pm-modis-administrative-career-wbs26091303997)
-- [मनोज तिवारी ने BRICS पर शेयर की ऐसी तस्वीर, डिलीट कर मांगी माफी, जानें क्या थी गलती](https://www.aajtak.in/entertainment/news/story/manoj-tiwari-share-pm-modi-brics-2026-ai-picture-x-delete-rttm-dskc-2642162-2026-09-13)
-- [Trade, energy, critical minerals in focus as PM Modi meets South Africa, Nigeria, Kazakhstan leaders on BRICS sidelines](https://www.moneycontrol.com/news/india/trade-energy-critical-minerals-in-focus-as-pm-modi-meets-south-africa-nigeria-kazakhstan-leaders-on-brics-sidelines-14029017.html)
-- [സി.പി.ഐ.എം നേതാവ് ബേബി ജോണ്‍ അന്തരിച്ചു](https://www.doolnews.com/cpim-leader-baby-john-master-passes-away-62-173.html)
-- [Indonesia Ship Tragedy: যাত্রীসমেত জাহাজ ডুবে গেল সাগরে, এখনও নিখোঁজ ১৩০ জন](https://bengali.abplive.com/news/ship-sinks-with-passengers-in-indonesia-java-sea-many-still-missing-1192669)
-- [અમદાવાદમાં અકસ્માતના બે અલગ-અલગ બનાવમાં 2ના મોત: વટવામાં કારની ટક્કરે આધેડે ઘટનાસ્થળે દમ તોડ્યો, ડમ્પરચાલકે સુરતના યુવાનનો જીવ લીધો!](https://www.gujaratsamachar.com/news/ahmedabad/road-accidents-two-dead-vatva-gidc-pipalaj-traffic-police-71982854568)
-- [Mirzapur The Movie box office collection day 10: Pankaj Tripathi film refuses to slow down, crosses ₹180 crore](https://www.hindustantimes.com/entertainment/bollywood/mirzapur-the-movie-box-office-collection-day-10-pankaj-tripathi-ali-fazal-film-is-unstoppable-crosses-180-crore-101789303927526.html)
-- [BRICS 2026 में जुटे दो दर्जन देश, भारत को क्या-क्या हासिल हुआ? जानें- टॉप 5 फैसले](https://www.aajtak.in/india/news/story/brics-2026-delhi-india-top-5-decisions-china-terror-funding-ban-pahalgam-trade-ntc-amkr-dskc-2642137-2026-09-13)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
