@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-14 15:04:15
+# India Trending Report — 2026-09-14 15:37:34
 
 ## Google Trends (India) — top trending searches
-1. [bbc news हिन्दी](https://trends.google.com/trending/rss?geo=IN)
-2. [crypto exchange binance](https://trends.google.com/trending/rss?geo=IN)
-3. [hyrox](https://trends.google.com/trending/rss?geo=IN)
-4. [पहलगाम](https://trends.google.com/trending/rss?geo=IN)
-5. [ಯಶ್](https://trends.google.com/trending/rss?geo=IN)
-6. [അമേരിക്ക](https://trends.google.com/trending/rss?geo=IN)
-7. [क्रांति गौड़](https://trends.google.com/trending/rss?geo=IN)
-8. [afc champions league](https://trends.google.com/trending/rss?geo=IN)
-9. [rishi panchami 2026](https://trends.google.com/trending/rss?geo=IN)
-10. [ఎస్ ఎస్ రాజమౌళి](https://trends.google.com/trending/rss?geo=IN)
+1. [asim munir](https://trends.google.com/trending/rss?geo=IN)
+2. [লটারি সংবাদ](https://trends.google.com/trending/rss?geo=IN)
+3. [toxic ott release](https://trends.google.com/trending/rss?geo=IN)
+4. [பனிப்பாறைகள்](https://trends.google.com/trending/rss?geo=IN)
+5. [8](https://trends.google.com/trending/rss?geo=IN)
+6. [al-shamal vs al-ittihad](https://trends.google.com/trending/rss?geo=IN)
+7. [జింక](https://trends.google.com/trending/rss?geo=IN)
+8. [post matric scholarship](https://trends.google.com/trending/rss?geo=IN)
+9. [bbc news हिन्दी](https://trends.google.com/trending/rss?geo=IN)
+10. [hyrox](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Munir fails Mecca test: Why Pak's field marshal is not riding to rescue MBS](https://timesofindia.indiatimes.com/world/pakistan/munir-fails-mecca-test-why-pakistans-field-marshal-is-not-riding-to-rescue-mbs/articleshow/134239939.cms)
+- [‘Partners, not rivals’: China FM Wang Yi reveals key PM Modi-Xi consensus](https://timesofindia.indiatimes.com/india/partners-not-rivals-china-fm-wang-yi-reveals-key-pm-modi-xi-consensus/articleshow/134243435.cms)
 - [Gurgaon hit-and-run: Biker's father seeks attempt to murder charge against driver](https://timesofindia.indiatimes.com/city/gurgaon/it-was-intentional-biker-sias-father-seeks-attempt-to-murder-charge-against-gurgaon-car-driver/articleshow/134241414.cms)
 - ['High IQ president' is all AI needs: Trump backs US lead, targets China & Anthropic](https://timesofindia.indiatimes.com/world/us/high-iq-president-is-all-ai-needs-trump-backs-us-lead-blames-china-for-sick-conspiracy/articleshow/134242910.cms)
 - [CM Vijay's UK trip: AIADMK's claim of 'MoU with Noida-based firm' triggers new row](https://timesofindia.indiatimes.com/india/aiadmk-targets-vijay-over-uk-trip-claims-he-signed-mou-with-noida-based-firm/articleshow/134242017.cms)
-- [Varun Chakaravarthy ruled out of Afghanistan T20I series](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/varun-chakaravarthy-ruled-out-of-afghanistan-t20i-series/articleshow/134242263.cms)
-- [Microsoft AI CEO releases Humanist Code of Conduct for AI models; calls it 'urgent'](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ai-ceo-mustafa-suleyman-releases-code-of-conduct-for-ai-models-calls-it-urgent-says-we-are-as-clear-about-what-our-ai-must-never-do-as-about-/articleshow/134242825.cms)
+- [Oracle layoffs: Employees receive ‘6am job cuts’ email from Oracle leadership again](https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms)
 - [Homeless pianist went viral after church performance; 2 years later, he has a home](https://timesofindia.indiatimes.com/world/uk/in-january-2024-a-homeless-man-played-piano-at-a-church-in-uk-on-a-freezing-night-2-years-after-his-video-went-viral-he-has-raised-50000-for-charity-and-found-a-home/articleshow/134233771.cms)
+- [Varun Chakaravarthy ruled out of Afghanistan T20I series](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/varun-chakaravarthy-ruled-out-of-afghanistan-t20i-series/articleshow/134242263.cms)
+- [Why housing is becoming a major political headache for South Korea’s Lee](https://timesofindia.indiatimes.com/real-estate/news/why-housing-is-becoming-a-major-political-headache-for-south-koreas-lee/articleshow/134243076.cms)
 - [Kejriwal-Sardesai Goa gambit: Attack defections, welcome rivals](https://timesofindia.indiatimes.com/india/kejriwal-sardesai-goa-gambit-attack-defections-welcome-rivals/articleshow/134241032.cms)
-- [IMF team to visit Pakistan for crucial $7-bn bailout review, next tranche in focus](https://timesofindia.indiatimes.com/world/pakistan/imf-team-to-visit-pakistan-for-crucial-7-bn-bailout-review-next-tranche-in-focus/articleshow/134243071.cms)
-- [UCC in Bihar? JD(U) opposes implementation despite backing Bill in Parliament](https://timesofindia.indiatimes.com/india/ucc-in-bihar-or-not-jdu-opposes-implementation-despite-backing-bill-in-parliament/articleshow/134242675.cms)
 
 **NDTV**
 - [3 Italians Leave Delhi Without Immigration Check, Air India Issued Notice](https://www.ndtv.com/india-news/3-italians-leave-delhi-without-immigration-check-air-india-issued-notice-12045576#publisher=newsstand)
@@ -38,6 +38,7 @@
 - [Amazon Suspends Use Of Cargo Carrier Whose Plane Killed 5 On Miami Runway](https://www.ndtv.com/world-news/amazon-suspends-use-of-cargo-carrier-whose-plane-killed-5-on-miami-runway-12044983#publisher=newsstand)
 
 **Hindustan Times**
+- [India approves up to 654 MW of power export to flood-hit Nepal for 18 hours every day till December 31](https://www.hindustantimes.com/india-news/india-approves-up-to-654-mw-of-power-export-to-flood-hit-nepal-for-18-hours-every-day-till-december-31-2026-101789398430567.html)
 - [Delhi HC rejects Vimal Elaichi makers' plea over Maharashtra FDA notice to SRK, Ajay Devgn, Tiger Shroff](https://www.hindustantimes.com/india-news/delhi-hc-rejects-vimal-elaichi-makers-plea-over-maharashtra-fda-notice-to-shah-rukh-khan-ajay-devgn-tiger-shroff-101789396450435.html)
 - [Monsoon withdrawal to commence from Sept 19; rain deficit stays at 15%: IMD](https://www.hindustantimes.com/india-news/monsoon-withdrawal-to-commence-from-sept-19-rain-deficit-stays-at-15-imd-101789397048951.html)
 - [Meta restricts access in India to viral AI video of Keralam CM dancing with KSEB officials](https://www.hindustantimes.com/india-news/meta-restricts-access-in-india-to-viral-ai-video-of-keralam-cm-v-d-satheesan-dancing-with-kseb-officials-101789396580926.html)
@@ -47,33 +48,23 @@
 - [Gurugram bike crash accused denies ‘intentionally' ramming rider: ‘Didn't know it was a woman'](https://www.hindustantimes.com/india-news/gurugram-biker-crash-hit-and-run-accused-denies-intentionally-ramming-rider-didnt-know-it-was-a-woman-101789387716909.html)
 - [BRICS 2026: India’s summit and the push for dialogue in a fragmented world](https://www.hindustantimes.com/india-news/brics-2026-india-s-summit-and-the-push-for-dialogue-in-a-fragmented-world-101789389291713.html)
 - [HT Evening Brief Sept 14: Gurugram Police deny inaction in biker case; Kangana Ranaut calls Rakhi Sawant ‘bitter’](https://www.hindustantimes.com/india-news/ht-evening-brief-sept-14-gurugram-police-deny-inaction-in-biker-case-kangana-ranaut-calls-rakhi-sawant-bitter-101789386273677.html)
-- [Gen Z enters Jaipur Municipal Corporation as 21-year-old Faiz Hasan wins Ward 71](https://www.hindustantimes.com/india-news/gen-z-enters-jaipur-municipal-corporation-as-21-year-old-faiz-hasan-wins-ward-71-101789380412067.html)
 
-**Vijay Karnataka**
-- [ಇಮ್ರಾನ್ ಖಾನ್ ಮಾಜಿ ಪತ್ನಿ ಜೆಮಿಮಾ ಗೋಲ್ಡ್ ಸ್ಮಿತ್‌ ಗೆ 2ನೇ ಮದುವೆ: 52ರ ಹರೆಯದ ಚಿತ್ರ ನಿರ್ಮಾಪಕಿಯ ಕೈಹಿಡಿದ ಬಿಲಿಯನೇರ್ ಉದ್ಯಮಿ ಯಾರು?](https://vijaykarnataka.com/sports/cricket/news/imran-khan-ex-wife-jemima-goldsmith-2nd-marriage-with-cameron-oreilly/articleshow/134242391.cms)
-- [ನಾವಿನ್ನೂ ಪಾಕಿಸ್ತಾನದ ಜೊತೆ ಕ್ರಿಕೆಟ್‌ ಏಕೆ ಆಡುತ್ತಿದ್ದೇವೆ? ಏಷ್ಯಾ ಕಪ್‌ ವಿವಾದದ ಬಳಿಕ ಅಸಾದುದ್ದೀನ್‌ ಓವೈಸಿ ಖಡಕ್‌ ಪ್ರಶ್ನೆ!](https://vijaykarnataka.com/sports/cricket/news/asaduddin-owaisi-asks-why-india-playing-cricket-with-pakistan-after-asia-cup-trophy-row/articleshow/134240594.cms)
-- [ಗಣೇಶ ಹಬ್ಬದ ದಿನವೂ ಕ್ಷೇತ್ರದಲ್ಲಿ ಡಿಕೆಶಿ ರೌಂಡ್ಸ್: ಪೂಜೆ ಜೊತೆಗೆ ಜನರ ಸಮಸ್ಯೆ ಆಲಿಸಿದ ಸಿಎಂ](https://vijaykarnataka.com/news/karnataka/gowri-ganesha-festival-dk-shivakumar-visit-to-kanakapura/articleshow/134242695.cms)
-- [35ರ ನಂತರ ತಂದೆಯಾಗುವುದು: ರಣವೀರ್ ಸಿಂಗ್, ವಿಕ್ಕಿ ಕೌಶಲ್ ಬಳಿಕ ಪುರುಷರ ವೀರ್ಯಾಣು ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಅಧ್ಯಾಯನ ಹೇಳುವುದೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/ranveer-singh-vicky-kaushal-fatherhood-after-35-male-fertility-sperm-health/articleshow/134236848.cms)
-- [ಟಿ ನರಸೀಪುರ ಗಣಪತಿ ವಿವಾದ : ಬಿಜೆಪಿ ಹೇಳಿದ ತಕ್ಷಣ ಪೊಲೀಸ್ ಅಧಿಕಾರಿಯನ್ನು ಅಮಾನತು ಮಾಡೋಕಾಗಲ್ಲ: ಪ್ರಿಯಾಂಕ್ ಖರ್ಗೆ ತಿರುಗೇಟು](https://vijaykarnataka.com/news/karnataka/priyank-kharge-slams-bjp-leaders-ganesh-chaturthi-controversy/articleshow/134241344.cms)
-- [ಲವರ್‌ ಬಾಯ್‌ ಲುಕ್‌ಗೆ ಮರಳಿದ ವಿಜಯ್‌ ಸೂರ್ಯ, ಮೋಕ್ಷಿತಾ ಪೈ ಹಿಂದೆ ಸುತ್ತುವ ಕೆಲಸ ಶುರು!](https://vijaykarnataka.com/tv/news/actor-vijay-surya-lover-boy-image-in-the-kannada-serial-jagadhatri/articleshow/134243016.cms)
-- [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
-- [ದೀಪದ ಜ್ವಾಲೆಯಲ್ಲಿ ಕಾಣಿಸುವ ವಿವಿಧ ಆಕಾರಗಳ ಅರ್ಥ ಮತ್ತು ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/know-which-type-of-puja-diya-flame-is-auspicious/articleshow/134241622.cms)
-- [ಫ್ರಿಡ್ಜ್ ನಲ್ಲಿಟ್ಟರೂ ಹೂಕೋಸು ಬಾಡುತ್ತಿದೆಯಾ? ತಾಜಾತನ ಕಾಪಾಡಲು ಈ 5 ಸರಳ ವಿಧಾನ ಅನುಸರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/cauliflower-storage-tips-keep-fresh-in-fridge/articleshow/134235162.cms)
-- [ನೈಸ್, ಬಿಡದಿ ಟೌನ್‌ಶಿಪ್ ಮಾತ್ರವಲ್ಲ: ಎಚ್‌ಡಿಕೆ ಸಿಡಿಸಲು ಸಿದ್ಧವಾಗಿರುವ ಆ ಹೊಸ 'ದಾಖಲೆ ಬಾಂಬ್' ಯಾವುದು?](https://vijaykarnataka.com/news/karnataka/hd-kumaraswamy-press-meet-on-dk-shivakumar-what-is-new-allegations/articleshow/134240441.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [Satheesan, Anwar Ibrahim discuss investment opportunities in Keralam](https://www.thehindu.com/news/national/kerala/satheesan-anwar-ibrahim-discuss-investment-opportunities-in-keralam/article71466012.ece)
+- [Rift within NDA over implementation of UCC in Bihar](https://www.thehindu.com/news/national/bihar/rift-within-nda-over-implementation-of-ucc-in-bihar/article71466095.ece)
 - [Tamil Nadu government signs slew of MoUs during CM Vijay’s London visit to attract investment, create high-value jobs](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-signs-slew-of-mous-during-cm-vijays-london-visit-to-attract-investment-create-high-value-jobs/article71466094.ece)
 - [Former DUTA chief Aditya Narayan Mishra joins Congress, flags ‘crisis’ in education](https://www.thehindu.com/news/national/former-duta-chief-aditya-narayan-mishra-joins-congress-flags-crisis-in-education/article71466174.ece)
-- [Rift within NDA over implementation of UCC in Bihar](https://www.thehindu.com/news/national/bihar/rift-within-nda-over-implementation-of-ucc-in-bihar/article71466095.ece)
 - [Telangana Minister offers support to family of deceased BRS leader](https://www.thehindu.com/news/national/telangana/telangana-minister-offers-support-to-family-of-deceased-brs-leader/article71466144.ece)
 - [Backward Classes group raises concern over challenges to caste census](https://www.thehindu.com/news/national/telangana/backward-classes-group-raises-concern-over-challenges-to-caste-census/article71466161.ece)
 - [India approves expedited export of electricity to flood-hit Nepal](https://www.thehindu.com/business/Economy/india-approves-expedited-export-of-electricity-to-flood-hit-nepal/article71466141.ece)
 - [Ideological clarity may soon be a just a tap away for CPI(M) cadre in Keralam](https://www.thehindu.com/news/national/kerala/ideological-clarity-may-soon-be-a-just-a-tap-away-for-cpim-cadre-in-keralam/article71466040.ece)
 - [Dalits counter BJP protest in T. Narsipur over Ganesha procession](https://www.thehindu.com/news/national/karnataka/bjp-protest-over-police-inspectors-remarks-on-ganesha-procession-rocks-t-narsipur-dalit-groups-stage-counter-protest/article71463434.ece)
 - [Rajasthan Urban Local Body polls results: BJP edges past Congress; counting under way at many wards](https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-poll-congress-bjp-vote-counting-results-update-september-14-2026/article71465801.ece)
-- [Three bonded labourers rescued at Kalasthambadi  in Tiruvannamalai district](https://www.thehindu.com/news/national/tamil-nadu/three-bonded-labourers-rescued-at-kalasthambadi-village-in-tiruvannamalai-district/article71463246.ece)
 
 **Livemint**
+- [BRICS Summit: Delhi cop suspended after flaunting gun, sniper rifle videos on Instagram](https://www.livemint.com/news/india/brics-summit-delhi-cop-suspended-after-flaunting-gun-sniper-rifle-videos-on-instagram-11789396882388.html)
 - [17 NCPI MPs to join BJP soon? Samik Bhattacharya reacts to claim by rebel TMC leader Jagadish Chandra Barma Basunia](https://www.livemint.com/news/india/17-ncpi-mps-to-join-bjp-soon-samik-bhattacharya-reacts-to-claim-by-rebel-tmc-leader-jagadish-chandra-barma-basunia-11789393433562.html)
 - [Brent nears $110 a barrel as West Asia conflict deepens, Hormuz talks delayed](https://www.livemint.com/news/india/brent-nears-110-a-barrel-as-west-asia-conflict-deepens-hormuz-talks-delayed-11789391149565.html)
 - [Kharif sowing gap narrows, but key crops lag](https://www.livemint.com/news/kharif-sowing-gap-narrows-but-key-crops-lag-11789362798728.html)
@@ -83,21 +74,11 @@
 - [Reservoir levels recover, but water storage remains below normal](https://www.livemint.com/news/india/india-reservoir-levels-september-2026-cwc-water-storage-rabi-irrigation-hydropower-monsoon-rainfall-11789378597073.html)
 - [US pilot reveals how he survived 50 hours with a broken back in Iranian mountains after being shot down by enemy forces](https://www.livemint.com/news/world/us-pilot-reveals-how-he-survived-50-hours-with-a-broken-back-in-iranian-mountains-after-being-shot-down-by-enemy-forces-11789380923396.html)
 - [DRI seizes 362 tonnes of Pakistan-origin dates routed via UAE](https://www.livemint.com/news/india/dri-seizes-362-tonnes-pakistan-dates-india-import-ban-uae-jebel-ali-operation-deep-manifest-11789379011851.html)
-- [Operation Deep Manifest: DRI seizes 362 metric tonnes of Pakistan-origin dry dates in Nashik routed via UAE](https://www.livemint.com/news/india/operation-deep-manifest-dri-seizes-362-metric-tonnes-pakistan-origin-dry-dates-in-nashik-11789375195424.html)
 
-**Moneycontrol**
-- [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
-- [Buy Tejas Networks; target of Rs 1100: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html)
-- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html)
-- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html)
-- [Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html)
-- [Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html)
-- [Reduce Wipro; target of Rs 410: ICICI Securities](https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html)
-- [Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html)
-- [Buy Patel Engineering; target of Rs 80: ICICI Direct](https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html)
-- [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
+**Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
+- [ಮಂಗಳೂರು ಬಂಟ್ಸ್ ಹಾಸ್ಟೆಲ್ ಗಣೇಶೋತ್ಸವ ಉದ್ಘಾಟನೆ](https://www.varthabharati.in/DakshinaKannada/--2275200)
 - [ಸಮ ಸಮಾಜದ ಆಶಯದಿಂದ ಸಾಹಿತ್ಯ ಸೃಷ್ಟಿಯಾಗಬೇಕು : ಡಾ.ಶ್ರೀನಿವಾಸ ಗಿಳಿಯಾರು](https://www.varthabharati.in/DakshinaKannada/--2275199)
 - [ಇತರರಿಗೆ ಸಹಾಯ ಮಾಡುವ ಪ್ರತಿಯೊಬ್ಬರಲ್ಲಿ ದೇವರನ್ನು ಕಾಣಬಹುದು : ಬಿಷಪ್ ಲೆಸ್ಲಿ ಕ್ಲಿಫರ್ಡ್ ಡಿಸೋಜಾ](https://www.varthabharati.in/udupi/god-can-be-seen-in-everyone-who-helps-others-bishop-leslie-clifford-dsouza-2275197)
 - [Maharashtra | ಮುಂಬೈನ ಆಝಾದ್ ಮೈದಾನದಲ್ಲಿ ಏಕಾಂಗಿ ಪ್ರತಿಭಟನೆ: ಮನೋಜ್ ಜಾರಂಗೆ ಘೋಷಣೆ](https://www.varthabharati.in/National/activist-manoj-jarange-announces-solo-protest-in-mumbais-azad-maidan-2275196)
@@ -107,38 +88,37 @@
 - [ಉತ್ತರ ಪ್ರದೇಶದಲ್ಲಿ ಬಿಜೆಪಿಯ ತೆರೆಮರೆಯ ಪ್ರಚಾರಕರು: ತಿಂಗಳಿಗೆ 15 ಲಕ್ಷ ರೂ. ಖರ್ಚು ಮಾಡುತ್ತಿರುವ ಅನಾಮಧೇಯ Meta ಪುಟಗಳು!](https://www.varthabharati.in/National/bjps-invisible-campaigners-in-up-anonymous-meta-pages-spending-rs-15-lakhmonth-bjp-distances-itself-2275187)
 - [RGIPT ನೇಮಕಾತಿ; ಯಾರು ಅರ್ಜಿ ಸಲ್ಲಿಸಬಹುದು?](https://www.varthabharati.in/information-guidance/rgipt-recruitment-2275186)
 - [ಕೊಪ್ಪಳ | ಗೌರಿ-ಗಣೇಶ ಹಬ್ಬ; ಜಿಲ್ಲೆಯಲ್ಲಿ ಕಟ್ಟುನಿಟ್ಟಿನ ಪೊಲೀಸ್ ಬಂದೋಬಸ್ತ್: ಎಸ್‌ಪಿ ಸಾಹಿಲ್ ಬಾಗ್ಲಾ](https://www.varthabharati.in/koppala/koppala-strict-police-presence-for-gauri-ganesha-festival-sp-sahil-bagla-2275185)
-- [ಕಡಿಮೆ ನಿದ್ರೆ ಕ್ಯಾನ್ಸರ್ ಗೆ ಕಾರಣವಾಗುವುದೇ?; ವೈದ್ಯರು ನೀಡುವ ಸಲಹೆಗಳೇನು?](https://www.varthabharati.in/vishesha-varadigalu/can-poor-sleep-increase-cancer-risk-oncologist-explains-what-chronic-sleep-loss-does-to-your-body-2275184)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (6.8)
-- Emkay Global Financial (5.0)
+- India (8.1)
 - Congress (3.9)
-- ICICI Securities (3.0)
-- target (3.0)
+- Keralam (2.9)
 - Trump (2.6)
-- Pakistan (2.6)
-- Bihar (2.6)
+- Oracle (2.6)
 - Monsoon (2.6)
+- Nepal (2.6)
 - Sept (2.6)
 - Meta (2.6)
-- Pakistan-origin (2.6)
 - Tamil Nadu (2.0)
-- Buy Bajaj Finance (2.0)
+- BRICS Summit (2.0)
+- Delhi (1.9)
 - Gurugram (1.9)
+- BRICS (1.9)
+- China (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [‘സംസ്ഥാന നേതൃത്വം പരാജയം’; സിപിഐഎം വിപുലീകൃത സംസ്ഥാന സമിതിയിൽ വിമർശനം](https://www.southlive.in/state-leadership-a-failure-criticism-at-cpims-extended-state-committee-meeting/)
-- [இடைத் தேர்தல்; `இடதுசாரிகள் தனித்துப் போட்டி' - திருமாவளவன் ரியாக்‌ஷன் என்ன?](https://www.vikatan.com/government-and-politics/thirumavalavan-has-responded-regarding-the-left-parties-contesting-the-by-election-independently)
-- [നിമിഷങ്ങൾക്കുള്ളിൽ റേഷൻ അരി ബ്രാൻഡ് ആകും; പിന്നിൽ വൻ മാഫിയ; കണ്ടെത്തിയത് 10,000 കിലോ](https://www.mathrubhumi.com/news/kerala/10000kg-illegal-ration-rice-seized-in-parassala-f5dype0a)
-- [Horoscope Today 14 September 2026 : आज गणेश चतुर्थीच्या दिवशी 7 राशींवर असणार बाप्पाची कृपा; मनातील इच्छा लवकरच होणार पूर्ण, वाचा आजचे राशीभविष्य](https://marathi.abplive.com/astro/horoscope-today-14-september-2026-monday-marathi-rashi-zodiac-signs-aajche-rashi-bhavishya-ganesh-chaturthi-marathi-astrology-1433266)
-- [India Women Asia Cup: চ্যাম্পিয়ন ভারত, তবু ট্রফি হাতে উঠল না! ফের মহসিন নকভিকে বয়কট, BCCI-এর সিদ্ধান্তে পাশে কোচও](https://bengali.abplive.com/sports/india-women-asia-cup-mohsin-naqvi-trophy-bcci-amol-muzumdar-1192734)
-- [Alexander Zverev US Open Champion | কেরিয়ারের সেরা বছর! ফরাসি ওপেনের পর ইউএস ওপেন জিতে ইতিহাস গড়লেন আলেকজান্ডার জেরেভ](https://uttarbangasambad.com/alexander-zverev-wins-us-open-after-defeating-ben-shelton-in-final/)
-- [मोहसिन नकवी से ट्रॉफी क्यों नहीं ली? BCCI सचिव ने खोल दिया राज, कहा- हम अपना स्टैंड नहीं बदल सकते](https://www.aajtak.in/sports/cricket/story/bcci-secretary-devajit-saikia-statement-womens-asia-cup-2026-trophy-controversy-tspoa-dskc-2642313-2026-09-14)
-- [മമിതക്ക് നല്ലോണം കൊടുത്തു ഞാൻ, തല്ലുന്ന രംഗം അഞ്ച്-ആറ് റീടേക്ക് എടുത്തിട്ടുണ്ട്; മഞ്ജുശ്രീ നായർ](https://www.doolnews.com/actress-manjusree-talks-about-mamitha-baiju-acting-64-175.html)
-- [రీజినల్ రింగు రోడ్డు దక్షిణ భాగానికి బ్రేక్‌..? కేంద్రం వద్ద ఎలైన్‌మెంట్‌ పెండింగ్‌](https://telugu.samayam.com/telangana/news/south-regional-ring-road-faces-uncertainty-as-centre-keeps-telanganas-proposed-alignment-pending/articleshow/134230756.cms)
-- [અમદાવાદ સહિત 18 જિલ્લામાં ભારે વરસાદનું ઓરેન્જ એલર્ટ જાહેર, હવામાન વિભાગની લેટેસ્ટ આગાહી](https://www.gujaratsamachar.com/news/ahmedabad/orange-alert-issued-for-heavy-rain-in-18-districts-including-ahmedabad-latest-forecast-from-meteorological-department-11885927231)
+- [સાઉદીની મુશ્કેલી વધી, હૂથીઓના સમર્થનમાં ખતરનાક કબીલાના લોકો હથિયારો સાથે યુદ્ધ મેદાને ઉતર્યા](https://www.gujaratsamachar.com/news/international/Yemens-Bani-Hashish-Tribal-Mobilization-Threatens-Marib-and-Saudi-Security-94115675304)
+- [ગુજરાતની તમામ સરકારી કચેરીમાં સોમ-મંગળ કોઈ મીટિંગ ન કરવા ફરી ફરમાન જાહેર કરાયું](https://www.gujaratsamachar.com/news/gandhinagar/a-new-order-has-been-issued-to-prohibit-meetings-in-all-government-offices-in-gujarat-on-mondays-and-tuesdays-40655033351)
+- [LAC पर चीन ने सेना की तैनाती में की कमी, भारतीय सेना की शर्त मानी](https://www.abplive.com/news/india/china-reduced-pla-deployment-along-lac-ministry-of-defense-report-indicates-reduction-number-of-chinese-troops-ann-3188482)
+- [ആലുവ നഗര മധ്യത്തിൽ കവർച്ച; റെയില്‍വേ സ്റ്റേഷനിലേക്ക് പോയ യുവാവിനെ മര്‍ദ്ദിച്ച് സ്വര്‍ണവും പണവും കവര്‍ന്നു](https://www.reporterlive.com/topnews/kerala/2026/09/14/young-man-attacked-and-robbed-of-gold-and-money-in-aluva)
+- [गणेश चतुर्थीच्या मुहूर्तावर 'रामायण'ची खास भेट; समोर आली सिया-रामची दिव्य झलक](https://www.lokmat.com/filmy/bollywood/a-special-gift-from-ramayana-movie-on-the-occasion-of-ganesh-chaturthi-a-divine-glimpse-of-siya-ram-revealed-a-a603/)
+- [ईरान युद्ध ने ब्रिक्स की एकता की खोली पोल, रिश्तों में दिखी दरार](https://www.bbc.com/hindi/articles/cjrx0erd2z5o)
+- [From AI race to AI brakes: Why Amodei, Altman and Musk want a slowdown](https://www.business-standard.com/technology/tech-news/why-altman-musk-and-amodei-want-to-slow-the-ai-race-126091400087_1.html)
+- [உக்ரைன் போரை நிறுத்த பிரதமர் மோடி, சீன அதிபர் ஜி ஜின்பிங் விருப்பம்: ரஷ்ய அதிபர் புதின் வரவேற்பு](https://www.hindutamil.in/news/world/pm-modi-and-xi-jinping-desire-to-end-ukraine-war-russian-president-putin-welcomes)
+- [Gold Silver Rate Today : ગણેશ ચતુર્થી પર ઘટ્યો સોનાનો ભાવ! જાણો 22 કેરેટ સોનું કેટલું થયું સસ્તું](https://tv9gujarati.com/photo-gallery/gold-and-silver-rates-today-prices-drop-on-14-september-2026-ganesh-chaturthi-know-22-carat-gold-price-1515074.html)
+- [ਤੁਹਾਡੇ ਬੈਂਕ ਖਾਤੇ ਤੋਂ ਟ੍ਰਾਂਸੈਕਸ਼ਨਾਂ ‘ਤੇ ਲੱਗ ਸਕਦੀ ਹੈ ਰੋਕ; RBI ਵੱਲੋਂ ਅਹਿਮ ਜਾਣਕਾਰੀ](https://wishavwarta.in/rbitransactions-could-be-blocked/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
