@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-14 22:36:43
+# India Trending Report — 2026-09-14 23:02:08
 
 ## Google Trends (India) — top trending searches
 1. [villarreal cf vs real betis standings](https://trends.google.com/trending/rss?geo=IN)
@@ -9,33 +9,33 @@
 6. [nbems neet pg answer key](https://trends.google.com/trending/rss?geo=IN)
 7. [serie a](https://trends.google.com/trending/rss?geo=IN)
 8. [katrina kaif](https://trends.google.com/trending/rss?geo=IN)
-9. [villarreal vs betis](https://trends.google.com/trending/rss?geo=IN)
-10. [leeds vs newcastle](https://trends.google.com/trending/rss?geo=IN)
+9. [leeds vs newcastle](https://trends.google.com/trending/rss?geo=IN)
+10. [villarreal vs betis](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [BJP single-largest party in Rajasthan urban polls, denied sweep by Independents](https://timesofindia.indiatimes.com/city/jaipur/bjp-wins-but-independents-rewrite-rajasthan-civic-poll-math/articleshow/134247421.cms)
 - ['3 Cong CMs invited to Brics dinner but they didn't turn up'](https://timesofindia.indiatimes.com/india/3-cong-cms-invited-to-brics-dinner-but-they-didnt-turn-up/articleshow/134247911.cms)
+- [Scotland, Northern Ireland and Wales sign historic MoU to break away from UK](https://timesofindia.indiatimes.com/world/uk/scotland-northern-ireland-and-wales-sign-mou-to-break-away-from-uk/articleshow/134247408.cms)
+- [US rejects IRGC claim that Panama-flagged tanker hit naval mine](https://timesofindia.indiatimes.com/world/middle-east/vessel-attacked-by-iran-twice-us-rejects-irgc-claim-that-panama-flagged-tanker-hit-naval-mine/articleshow/134248017.cms)
+- [Voluminous evidence in graft cases leading to long pendency: SC](https://timesofindia.indiatimes.com/india/voluminous-evidence-in-graft-cases-leading-to-long-pendency-sc/articleshow/134249276.cms)
+- [Oracle layoffs: Employees receive ‘6am job cuts’ email from Oracle leadership again](https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms)
 - [Cong rejects TMC proposal for bypoll pact](https://timesofindia.indiatimes.com/india/cong-rejects-proposal-from-didis-party-for-bypoll-pact/articleshow/134248817.cms)
 - [ED arrests Bhupesh Baghels's ex-OSD for role in Chhattisgarh job scam](https://timesofindia.indiatimes.com/india/ed-arrests-ex-osd-of-baghel-for-role-in-chhattisgarh-job-scam/articleshow/134247722.cms)
-- [Scotland, Northern Ireland and Wales sign historic MoU to break away from UK](https://timesofindia.indiatimes.com/world/uk/scotland-northern-ireland-and-wales-sign-mou-to-break-away-from-uk/articleshow/134247408.cms)
-- [Oracle layoffs: Employees receive ‘6am job cuts’ email from Oracle leadership again](https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms)
-- [Jemima Goldsmith, 52, remarries; 22 years after divorce from Imran Khan](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jemima-goldsmith-marries-for-second-time-at-52-ties-the-knot-with-irish-australian-financier-cameron-oreilly-22-years-after-divorce-from-imran-khan-her-family-confirms-wedding/articleshow/134245796.cms)
 - [India to export 654MW of power to flood-hit Nepal daily till Dec 31](https://timesofindia.indiatimes.com/india/india-to-export-654mw-of-power-to-nepal-daily-till-dec-31/articleshow/134247739.cms)
 - [Interim EC ruling on ‘real TMC’ likely on Sept 17](https://timesofindia.indiatimes.com/india/interim-ec-ruling-on-real-tmc-likely-on-sept-17/articleshow/134249226.cms)
-- [SC faults Abu Salem's maths, junks release plea](https://timesofindia.indiatimes.com/india/sc-faults-abu-salems-maths-junks-release-plea/articleshow/134247900.cms)
 
 **NDTV**
-- ["Hoax": Trump Rejects Warnings That AI Could Destroy Humanity](https://www.ndtv.com/world-news/donald-trump-rejects-warnings-that-ai-could-destroy-humanity-12046823#publisher=newsstand)
+- ["SICK Conspiracy": Trump Rejects "Hoax" Warnings AI Could End Humanity](https://www.ndtv.com/world-news/donald-trump-rejects-warnings-that-ai-could-destroy-humanity-12046823#publisher=newsstand)
+- [Zelensky Says Ukraine Ready For "De-Escalatory Steps"](https://www.ndtv.com/world-news/zelensky-says-ukraine-ready-for-de-escalatory-steps-12046910#publisher=newsstand)
+- [US Scraps Limits On Carbon Emissions From Coal, Gas-Fired Power Plants](https://www.ndtv.com/world-news/us-scraps-limits-on-carbon-emissions-from-coal-gas-fired-power-plants-12046901#publisher=newsstand)
+- [Putin-Linked Russian Oligarch Funded For Trump Jr.'s Wedding: Report](https://www.ndtv.com/world-news/putin-linked-russian-oligarch-funded-for-trump-jr-s-wedding-report-12046873#publisher=newsstand)
 - [Trump Privately Met With OpenAI's Altman At Republican Convention: Report](https://www.ndtv.com/world-news/donald-trump-privately-met-with-openais-sam-altman-at-republican-convention-report-12046804#publisher=newsstand)
 - [Gangster Himanshu Bhau Takes Responsibility In Delhi Gym Trainer Murder Case](https://www.ndtv.com/delhi-news/gangster-himanshu-bhau-takes-responsibility-in-delhi-gym-trainer-murder-case-12046771#publisher=newsstand)
 - [US Scholar Went To China For A Workshop. Then He Stopped Responding](https://www.ndtv.com/world-news/us-scholar-went-to-china-for-a-workshop-then-he-stopped-responding-12044574#publisher=newsstand)
 - [Kolkata Roads Named After Marx, Lenin, Ho Chi Minh May Be Renamed](https://www.ndtv.com/india-news/kolkata-roads-named-after-marx-lenin-ho-chi-minh-may-be-renamed-12046709#publisher=newsstand)
 - [Palantir, Nvidia To Curb AI Use Over Data Safety Fears: Report](https://www.ndtv.com/world-news/palantir-nvidia-to-curb-ai-use-over-data-safety-fears-report-12046699#publisher=newsstand)
 - [What Dario Amodei, Sam Altman, Elon Musk Have Said About AI 'Doom' Fears](https://www.ndtv.com/world-news/what-dario-amodei-sam-altman-elon-musk-have-said-about-ai-doom-fears-12046705#publisher=newsstand)
-- [Bhagwant Mann's "Fake Turban' Jibe Sparks Fresh Political Row In Punjab](https://www.ndtv.com/india-news/bhagwant-manns-fake-turban-jibe-sparks-fresh-political-row-in-punjab-12046690#publisher=newsstand)
-- ["Extremely Heinous": KTR Alleges Attack On Aides In Hyderabad Police Station](https://www.ndtv.com/india-news/extremely-heinous-ktr-alleges-attack-on-aides-in-hyderabad-police-station-12046689#publisher=newsstand)
-- [Why Mumbai MLA With Rs 5,000 Crore Net Worth Became 'Beggar' For A Day](https://www.ndtv.com/india-news/why-mumbai-mla-with-rs-5-000-crore-net-worth-became-beggar-for-a-day-12046680#publisher=newsstand)
 
 **Hindustan Times**
 - [Kharge slams BJP’s demand for action against inspector](https://www.hindustantimes.com/india-news/kharge-slams-bjp-s-demand-for-action-against-inspector-101789414331877.html)
@@ -49,10 +49,21 @@
 - [Monsoon withdrawal to commence from Sept 19; rain deficit stays at 15%: IMD](https://www.hindustantimes.com/india-news/monsoon-withdrawal-to-commence-from-sept-19-rain-deficit-stays-at-15-imd-101789397048951.html)
 - [Meta restricts access in India to viral AI video of Keralam CM dancing with KSEB officials](https://www.hindustantimes.com/india-news/meta-restricts-access-in-india-to-viral-ai-video-of-keralam-cm-v-d-satheesan-dancing-with-kseb-officials-101789396580926.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಪ್ರಧಾನಿ ಮೋದಿ ಜನ್ಮದಿನ: ಸೆ. 17ಕ್ಕೆ ಸಂಜೆ 6 ರಿಂದ 7 ರವರೆಗೆ ಮನೆಗಳಲ್ಲಿ ಆಶೀರ್ವಾದದ ದೀಪ ಬೆಳಗಿಸಿ! ದೇಶದ ಜನರಿಗೆ BJP ಕರೆ](https://vijaykarnataka.com/news/india/pm-modi-birthday-bjp-calls-for-lighting-lamps-of-blessing-at-home-and-praying-for-his-long-life-and-good-health/articleshow/134243862.cms)
+- [ಅಫ್ಘಾನಿಸ್ತಾನ ವಿರುದ್ಧ 2ನೇ ಪಂದ್ಯಕ್ಕೆ ಸಂಜು ಸ್ಯಾಮ್ಸನ್ ಬದಲು ವೈಭವ್ ಸೂರ್ಯವಂಶಿ? ಹೀಗಿದೆ ಟೀಂ ಇಂಡಿಯಾ ಸಂಭಾವ್ಯ ಇಲೆವೆನ್](https://vijaykarnataka.com/sports/cricket/news/india-likely-eleven-against-vs-afghanistan-2nd-t20i-vaibhav-sooryavanshi-in-sanju-samson-out/articleshow/134246454.cms)
+- [ಇಮಿಗ್ರೇಷನ್ ಇಲ್ಲದೆ ದಿಲ್ಲಿಯಿಂದ ಜರ್ಮನಿ ತಲುಪಿದ ಮೂವರು ಇಟಲಿಗರು! ಏರ್ ಇಂಡಿಯಾ ವಿರುದ್ಧ ಕೇಂದ್ರ ಗರಂ](https://vijaykarnataka.com/news/new-delhi/3-italians-fly-from-delhi-airport-without-immigration-check-notice-to-air-india/articleshow/134245597.cms)
+- [50ರ ನಂತರವೂ ವಿಜಯ್–ಅಜಿತ್‌ನಂತೆ ಫಿಟ್ ಆಗಿರಬೇಕಾ? ವಿಜ್ಞಾನ ಹೇಳುವ ಈ ಆರೋಗ್ಯಕರ ಅಭ್ಯಾಸಗಳನ್ನು ರೂಢಿಸಿಕೊಳ್ಳಿ!](https://vijaykarnataka.com/lifestyle/fitness/vijay-ajith-fitness-after-50-healthy-habits/articleshow/134244779.cms)
+- [ಕೇದಾರನಾಥ ಮಾರ್ಗದಲ್ಲಿ ಭೀಕರ ಭೂಕುಸಿತ: ಯಾತ್ರೆ ತಾತ್ಕಾಲಿಕ ಸ್ಥಗಿತ; 6,500ಕ್ಕೂ ಹೆಚ್ಚು ಯಾತ್ರಾರ್ಥಿಗಳ ರಕ್ಷಣೆ](https://vijaykarnataka.com/news/india/massive-landslide-on-the-kedarnath-route-over-6500-pilgrims-rescued-/articleshow/134244606.cms)
+- [ಗಗನ್‌ಗೆ ವಿಐಪಿ ಪಟ್ಟನೂ ಇಲ್ಲ, ಕ್ಯಾಪ್ಟ್‌ನ್‌ ಆಡೋಕೆ ಯೋಗನೂ ಇಲ್ಲ! ಸ್ಪರ್ಧಿಗಳ ಆಲೋಚನೆಯೇ ತಲೆ ಕೆಳಗೆ ಮಾಡಿದ 'ಬಿಗ್‌ ಬಾಸ್'!](https://vijaykarnataka.com/tv/bigg-boss-kannada/this-time-no-calculations-worked-inside-the-bigg-boss-kannada-13-house-the-captaincy-and-grocery-tasks-completely-altered-the-contestants-way-of-thinking/articleshow/134247000.cms)
+- [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
+- [ದೀಪದ ಜ್ವಾಲೆಯಲ್ಲಿ ಕಾಣಿಸುವ ವಿವಿಧ ಆಕಾರಗಳ ಅರ್ಥ ಮತ್ತು ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/know-which-type-of-puja-diya-flame-is-auspicious/articleshow/134241622.cms)
+- [35ರ ನಂತರ ತಂದೆಯಾಗುವುದು: ರಣವೀರ್ ಸಿಂಗ್, ವಿಕ್ಕಿ ಕೌಶಲ್ ಬಳಿಕ ಪುರುಷರ ವೀರ್ಯಾಣು ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಅಧ್ಯಾಯನ ಹೇಳುವುದೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/ranveer-singh-vicky-kaushal-fatherhood-after-35-male-fertility-sperm-health/articleshow/134236848.cms)
+- [ಮಿಸ್ಟರಿ ಸ್ಪಿನ್ನರ್ ವರುಣ್ ಚಕ್ರವರ್ತಿ ಅಫ್ಘಾನಿಸ್ತಾನ ಟಿ20 ಸರಣಿಯಿಂದ ಔಟ್: ಮುಂಬರುವ ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಗೂ ಡೌಟ್!](https://vijaykarnataka.com/sports/cricket/news/varun-chakravarthy-out-of-afghanistan-t20-series-asian-games-participation-also-in-doubt/articleshow/134243417.cms)
 
 **The Hindu**
 - [Ritabrata-led TMC camp names candidates for Bengal bypolls](https://www.thehindu.com/news/national/west-bengal/ritabrata-led-tmc-camp-names-candidates-for-bengal-bypolls/article71466463.ece)
+- [U.P. Congress seeks one-time relief for State teacher recruitment exam candidates over new eligibility rules](https://www.thehindu.com/news/national/uttar-pradesh/up-congress-seeks-one-time-relief-for-state-teacher-recruitment-exam-candidates-over-new-eligibility-rules/article71466250.ece)
 - [Intensify protest over land acquisition: Rakesh Tikait urges Noida farmers](https://www.thehindu.com/news/national/uttar-pradesh/intensify-protest-over-land-acquisition-rakesh-tikait-urges-noida-farmers/article71466434.ece)
 - [Govt. bars bank charges on payments up to ₹2,000 via UPI, RuPay-powered debit cards](https://www.thehindu.com/business/govt-bars-bank-charges-on-upi-payments-up-to-2k/article71466438.ece)
 - [DBT transfer to 1,200 beneficiaries, 22 milk cooperatives handed registration certificates in U.P. dairy conclave](https://www.thehindu.com/news/national/uttar-pradesh/dbt-transfer-to-1200-beneficiaries-22-milk-cooperatives-handed-registration-certificates-in-up-dairy-conclave/article71466229.ece)
@@ -61,7 +72,6 @@
 - [Underwater survey to be done to assess long-term impact of MSC Elsa 3 sinking, Centre informs Kerala HC](https://www.thehindu.com/news/national/kerala/underwater-survey-to-be-done-to-assess-long-term-impact-of-msc-elsa-3-sinking-centre-informs-kerala-hc/article71466179.ece)
 - [BJP wins Kota municipal elections, poll for chairperson postponed after EVM glitches in some wards](https://www.thehindu.com/news/national/rajasthan/bjp-wins-kota-municipal-elections-poll-for-chairperson-postponed-after-evm-glitches-in-some-wards/article71466402.ece)
 - [DJ system seized, case booked against Ganesh pandal organisers in Adilabad for violating orders](https://www.thehindu.com/news/national/telangana/dj-system-seized-case-booked-against-ganesh-pandal-organisers-in-adilabad-for-violating-orders/article71466147.ece)
-- [Upgraded Karimnagar-Warangal section of NH 563 set to boost tourism, trade in the region](https://www.thehindu.com/news/national/telangana/upgraded-karimnagar-warangal-section-of-nh-563-set-to-boost-tourism-trade-in-the-region/article71466252.ece)
 
 **Livemint**
 - [Gurugram biker hit-and-run: Accused says he didn't know biker was a woman, ‘I tried hard to save’ | Watch video](https://www.livemint.com/news/india/gurugram-biker-hit-and-run-accused-says-he-didnt-know-biker-was-a-woman-i-tried-hard-to-save-watch-video-11789410589345.html)
@@ -91,9 +101,9 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (5.5)
+- Report (5.2)
 - BRICS (4.2)
 - Sept (3.9)
-- Report (3.9)
 - Delhi (3.8)
 - Rajasthan (2.6)
 - Scotland (2.6)
@@ -109,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [India Wholesale Inflation : શું ફરી વધશે દૂધ, તેલ અને કરિયાણાના ભાવ? જથ્થાબંધ મોંઘવારી વધતા સામાન્ય માણસની મુશ્કેલી વધશે](https://www.gujaratfirst.com/business/india-wholesale-inflation-2026-wpi-rise-milk-oil-grocery-prices-impact/339048/)
-- [Rajkot Rain: એક મહિના બાદ રાજકોટમાં મેઘમહેર, ગણેશ સ્થાપનાના દિવસે મેઘરાજાની તોફાની બેટિંગ](https://gujarati.abplive.com/news/rajkot/heavy-rainfall-in-rajkot-city-and-rural-areas-after-a-long-break-991170)
-- [Aortic structure may affect midlife rise in pulse pressure, aortic stiffness in women](https://www.eurekalert.org/news-releases/1143117)
-- [Ganesh Chaturthi: বাড়িতে গণপতি বাপ্পার আরাধনায় নানা পাটেকর, সঙ্গে স্ত্রী-ছেলে](https://bangla.asianetnews.com/entertainment/nana-patekar-celebarate-ganesh-chaturthi-at-home-with-family-absc/articleshow-gtxiw9z)
-- [தமிழகத்தில் மின்வெட்டைப் போக்குவதில் எந்த முன்னேற்றமும் இல்லை: அன்புமணி](https://www.hindutamil.in/news/tamilnadu/anbumani-demands-tvk-govt-about-power-cut-issue)
-- [17 NCPI MPs to join BJP before Durga Puja: Rebel TMC leader's big claim](https://www.hindustantimes.com/india-news/17-of-20-ncpi-mps-to-join-bjp-says-one-of-them-months-after-leaving-tmc-101789381684967.html)
-- ['झाड़ू वाले की नौकरी भी नहीं मिलेगी', राखी सावंत के अश्लील कमेंट पर कंगना रनौत ने लगा दी क्लास](https://www.aajtak.in/entertainment/bollywood-news/story/kangana-ranaut-slams-rakhi-sawant-over-vulgar-character-assassination-remark-smriti-irani-bjp-tmovf-dskc-2642602-2026-09-14)
-- [China hits back at Anthropic’s call to restrict its AI, warns against ‘fearmongering, vicious competition'](https://timesofindia.indiatimes.com/world/china/china-hits-back-at-anthropics-call-to-restrict-its-ai-warns-against-fearmongering-vicious-competition/articleshow/134238821.cms)
-- [സിപിഐഎം വിപുലീകൃത സംസ്ഥാന കമ്മിറ്റി | സംസ്ഥാന നേതൃത്വത്തെ കടന്നാക്രമിച്ച് പൊതുചര്‍ച്ച; അടിമുടി മാറ്റത്തിന് മാർഗരേഖ](https://www.newsmalayalam.com/newsroom/kerala/cpi-m-etended-state-committee-public-discussion-criticises-state-leadership)
-- [Scientists Turn Ordinary Light Into a Quantum Machine](https://www.techexplorist.com/what-ordinary-light-behave-like-quantum-machine/104231/)
+- [सांगलीच्या श्री गणपती पंचायतन संस्थानच्या उत्तराधिकारीवरून पटवर्धन कुटुंबात वादाची ठिणगी; राजकन्या भाग्यश्रीनं आरतीचा मान बजावल्यानं वादाची ठिणगी, वडिलांना लेकीच्या त्या वक्तव्यानं अश्रू अनावर](https://marathi.abplive.com/news/sangli/signs-of-a-brewing-dispute-within-the-patwardhan-family-over-the-succession-to-the-shri-ganpati-panchayatan-sansthan-in-sangli-bhagyashree-patwardhan-1439077)
+- [Eesha Rebba: జంటగా వినాయక చవితి పూజ చేసిన ఈషా రెబ్బా, తరుణ్ భాస్కర్.. డేటింగ్‌పై హింట్ ఇచ్చినట్టేనా?](https://tv9telugu.com/entertainment/tollywood/eesha-rebba-and-tharun-bhascker-celebrate-vinayaka-chavithi-together-photos-goes-viral-1911241.html)
+- [₹13000Cr में सौदा... अफ्रीका की 73 साल पुरानी कंपनी को खरीदेगी भारतीय फर्म, शेयर पर दिखेगा असर!](https://www.aajtak.in/business/news/story/solar-industries-to-buy-73-year-old-african-firm-omnia-holdings-impact-may-seen-on-share-tutc-dskc-2642614-2026-09-14)
+- [पाकिस्तान का नया पैंतरा, अपने ही पाले आतंकी पर रखा 70 लाख रुपये का इनाम; कैसा खौफ?](https://www.livehindustan.com/international/pakistan-announces-reward-pkr-70-lakh-jem-chief-masood-azhar-new-most-wanted-list-201789382267728.html)
+- [১০ লক্ষ টাকা বাজেটে কোন কোন গাড়ি আপনার বাজেটে](https://eisamay.com/auto-news/top-5-cng-car-options-in-india-under-rupees-10-lacs/200542455.cms)
+- [सड़कें खोदकर दक्षिणी यूरोप के 'सबसे बड़े दुश्मन' से लड़ रहा ये देश, काम कर गया ये अजब आइडिया](https://navbharattimes.indiatimes.com/jungle-news/morocco-digging-up-its-streets-to-fight-heat-which-is-southern-europe-greatest-enemy/articleshow/134239268.cms)
+- [Inside Ambani family's grand Ganesh Chaturthi celebrations at Antilia with stunning lights and elaborate floral decor](https://www.hindustantimes.com/lifestyle/art-culture/inside-ambani-familys-grand-ganesh-chaturthi-celebrations-at-antilia-with-stunning-lights-and-elaborate-floral-decor-101789381340978.html)
+- [गुरुग्राम में महिला बाइकर को कार से टक्कर मारने के मामले में अब तक क्या हुआ?](https://www.bbc.com/hindi/articles/cj750v1zdk32o)
+- [Anumana Pakshi Trailer : ‘అనుమాన పక్షి’ ట్రైలర్ రిలీజ్.. ఇన్ని అనుమానాలు ఏంటి భయ్యా నీకు..](https://10tv.in/telugu-news/movies/anumana-pakshi-trailer-released-cast-rag-mayur-sy-1136886.html)
+- [Amit Shah stresses cultural nationalism, promotion of Indian languages at Rajbhasha event](https://www.thehindu.com/news/national/amit-shah-stresses-cultural-nationalism-promotion-of-indian-languages-at-rajbhasha-event/article71465888.ece)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
