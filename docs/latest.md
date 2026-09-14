@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-14 00:02:42
+# India Trending Report — 2026-09-14 00:41:49
 
 ## Google Trends (India) — top trending searches
-1. [मोहसिन नकवी](https://trends.google.com/trending/rss?geo=IN)
-2. [weather hyderabad](https://trends.google.com/trending/rss?geo=IN)
-3. [hindi](https://trends.google.com/trending/rss?geo=IN)
-4. [binance buy crypto](https://trends.google.com/trending/rss?geo=IN)
-5. [binance](https://trends.google.com/trending/rss?geo=IN)
-6. [gate](https://trends.google.com/trending/rss?geo=IN)
-7. [binance exchange](https://trends.google.com/trending/rss?geo=IN)
-8. [అభిషేక్ శర్మ](https://trends.google.com/trending/rss?geo=IN)
-9. [chicago vs new england](https://trends.google.com/trending/rss?geo=IN)
-10. [jonathan david](https://trends.google.com/trending/rss?geo=IN)
+1. [instagram video](https://trends.google.com/trending/rss?geo=IN)
+2. [chicago fire fc vs new england revolution standings](https://trends.google.com/trending/rss?geo=IN)
+3. [bgmi](https://trends.google.com/trending/rss?geo=IN)
+4. [गणेश जी की आरती](https://trends.google.com/trending/rss?geo=IN)
+5. [मोहसिन नकवी](https://trends.google.com/trending/rss?geo=IN)
+6. [बिहार पुलिस](https://trends.google.com/trending/rss?geo=IN)
+7. [हिंदी](https://trends.google.com/trending/rss?geo=IN)
+8. [weather hyderabad](https://trends.google.com/trending/rss?geo=IN)
+9. [hartalika teej 2026 date and time](https://trends.google.com/trending/rss?geo=IN)
+10. [hindi](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -21,9 +21,9 @@
 - ['Act of terror’: Pregnant woman among four killed in attacks on Kuki villages in Manipur](https://timesofindia.indiatimes.com/city/guwahati/twin-manipur-attacks-village-bodies-allege-nscn-zuf-hand-in-killing-of-4-kukis/articleshow/134211178.cms)
 - [Mark Zuckerberg's secret project wanted Meta teams 60% smaller and run by AI agents](https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-ran-a-secret-project-to-make-the-company-ai-native-asked-teams-to-study-impact-of-/articleshow/134212125.cms)
 - [SIR notices to 38 members of Iranian-origin family in Jharkhand](https://timesofindia.indiatimes.com/city/ranchi/notices-to-38-member-iranian-origin-family-over-draft-roll-entry-in-garhwa/articleshow/134207279.cms)
-- [Oil infra hit by Ukraine, Russia gets 70% of its fuel from India](https://timesofindia.indiatimes.com/business/international-business/oil-infra-hit-by-ukraine-russia-gets-70-of-its-fuel-from-india/articleshow/134223885.cms)
-- [‘Some regional countries requested’: Iran after meeting with Gulf states in Oman postponed](https://timesofindia.indiatimes.com/world/middle-east/some-regional-countries-requested-iran-after-meeting-with-gulf-states-in-oman-postponed/articleshow/134224097.cms)
+- [Happy Ganesh Chaturthi 2026: Wishes, messages, quotes and status](https://timesofindia.indiatimes.com/etimes/trending/happy-ganesh-chaturthi-2026-wishes-messages-quotes-images-greetings-instagram-facebook-whatsapp-status/articleshow/134190269.cms)
 - [Jeff Bezos’ ex-wife MacKenzie Scott gives $60 million to global methane fight](https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-gives-60-million-to-global-methane-fight-as-cutting-the-invisible-gas-becomes-a-climate-priority/articleshow/134063334.cms)
+- [Oil infra hit by Ukraine, Russia gets 70% of its fuel from India](https://timesofindia.indiatimes.com/business/international-business/oil-infra-hit-by-ukraine-russia-gets-70-of-its-fuel-from-india/articleshow/134223885.cms)
 
 **NDTV**
 - [BRICS Summit 2026 Highlights: PM Modi Thanks Leaders For Making BRICS Summit In Delhi "Productive"](https://www.ndtv.com/india-news/brics-summit-2026-live-updates-today-pm-narendra-modi-putin-xi-jinping-meet-bharat-mandapam-traffic-new-delhi-declaration-backs-return-of-antiquities-12039405#publisher=newsstand)
@@ -50,16 +50,16 @@
 - [India condemns attack on ship off Oman as seafarer remains missing; 13 Indian crew members rescued](https://www.hindustantimes.com/india-news/india-condemns-attack-on-vessel-off-oman-coast-13-indian-crew-members-rescued-1-missing-101789311281232.html)
 
 **Vijay Karnataka**
+- [ನಾಸಿಕ್‌ನಿಂದ ಕೇರಳಕ್ಕೆ ಬಂತು 20 ಟನ್‌ ಈರುಳ್ಳಿ; ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಈರುಳ್ಳಿ ಕೆಜಿಗೆ 35 ರೂ.ಗೆ ಮಾರಾಟ ಆರಂಭ, ದರ ಏರಿಕೆಗೆ ಬ್ರೇಕ್‌!](https://vijaykarnataka.com/news/kasaragod/20-tons-of-onions-from-nashik-arrives-in-kerala-market-price-stabilizes-at-35rs-per-kg-onions/articleshow/134229749.cms)
+- [ಭಾರತದ ಇಂಧನ ಕೊರತೆ ಪರಿಹಾರಕ್ಕೆ ಅಡಕೆ ಹಾಳೆಯಿಂದಲೂ ಎಥೆನಾಲ್‌ ಉತ್ಪಾದನೆಗೆ ಪ್ಲ್ಯಾನ್‌; ಅಡಕೆ ಬೆಳೆಗಾರರಿಗೆ ಹೊಸ ಭರವಸೆ, ಹೇಗೆ ಗೊತ್ತಾ?](https://vijaykarnataka.com/news/mangaluru/production-of-ethanol-from-areca-leaf-sheath-new-alernative-to-reduce-energy-crisis-in-india/articleshow/134229603.cms)
 - [Women's Asia Cup 2026- ಮೊಂಡುತನ ಬಿಡದ ಮೊಹ್ಸಿನ್ ನಖ್ವಿ; ಈಗ ಹರ್ಮನ್ ಪ್ರೀತ್ ಕೌರ್ ಪಡೆಯಿಂದಲೂ ಮಂಗಳಾರತಿ!](https://vijaykarnataka.com/sports/cricket/news/indian-womens-team-also-refuses-to-collect-asia-cup-2026-trophy-from-acc-president-mohsin-naqvi/articleshow/134222126.cms)
-- [ಬ್ರಿಕ್ಸ್‌ ಶೃಂಗಸಭೆ ಮುಗಿಸಿ ತಾಯ್ನಾಡಿಗೆ ಮರಳಿದ ವ್ಲಾಡಿಮಿರ್‌ ಪುಟಿನ್-ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್:‌ ಹೇಗಿತ್ತು ಪವರ್‌ಫುಲ್‌ ಅಧ್ಯಕ್ಷರ ಭಾರತ ಪ್ರವಾಸ?](https://vijaykarnataka.com/news/india/vladimir-putin-and-xi-jinping-departs-from-delhi-after-participating-in-brics-summit-2026/articleshow/134201444.cms)
-- [ಸ್ಮೃತಿ ಮಂದಾನ, ಶಫಾಲಿ ವರ್ಮಾ, ಶ್ರೀ ಚರಣಿ ಆರ್ಭಟಕ್ಕೆ ಲಂಕಾ ಪಡೆ ಧೂಳೀಪಟ: 8ನೇ ಬಾರಿ ಮಹಿಳಾ ಏಷ್ಯಾ ಕಪ್ ಗೆದ್ದ ಭಾರತ!](https://vijaykarnataka.com/sports/cricket/news/india-beat-sri-lanka-by-72-runs-bags-women-asia-cup-for-8th-time/articleshow/134216792.cms)
 - [ಹೆಚ್ಚು ಗಂಟೆಗಳ ಕೆಲಸ ಹೃದಯಕ್ಕೆ ಅಪಾಯವೇ? ಕೆಲಸದ ಒತ್ತಡದಿಂದ ಹೃದಯಾಘಾತದ ಅಪಾಯ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/health/world-heart-day-2026-long-working-hours-heart-attack-risk/articleshow/134193727.cms)
-- [ಅಭಿಷೇಕ್ ಶರ್ಮಾ ಅಬ್ಬರಕ್ಕೆ ಅಫ್ಘಾನಿಸ್ತಾನ ನಿರುತ್ತರ; ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ಪಡೆಗೆ 7 ವಿಕೆಟ್ ಜಯಭೇರಿ](https://vijaykarnataka.com/sports/cricket/news/abhishek-sharma-half-century-india-beat-afghanistan-by-7-wickets/articleshow/134213631.cms)
+- [ಬ್ರಿಕ್ಸ್‌ ಶೃಂಗಸಭೆ ಮುಗಿಸಿ ತಾಯ್ನಾಡಿಗೆ ಮರಳಿದ ವ್ಲಾಡಿಮಿರ್‌ ಪುಟಿನ್-ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್:‌ ಹೇಗಿತ್ತು ಪವರ್‌ಫುಲ್‌ ಅಧ್ಯಕ್ಷರ ಭಾರತ ಪ್ರವಾಸ?](https://vijaykarnataka.com/news/india/vladimir-putin-and-xi-jinping-departs-from-delhi-after-participating-in-brics-summit-2026/articleshow/134201444.cms)
 - [ಮೊದಲ ವಾರವೇ ʻಬಿಗ್‌ ಬಾಸ್‌ʼನಿಂದ ಎಲಿಮಿನೇಟ್‌ ಆದ ಪ್ರಥಮಾಗೆ ಸಿಕ್ಕ ಕ್ಯಾಶ್‌ ಪ್ರೈಜ್‌ ಎಷ್ಟು?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-prathama-prasad-eliminated-wins-3-lakh-cash-prize/articleshow/134216941.cms)
 - [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
 - [ಗೌರಿ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ| Gowri AshTOttara Shatanamavali Lyrics In Kannada](https://vijaykarnataka.com/religion/pooja-vidhana/gowri-ashtottara-shatanamavali-lyrics-in-kannada/articleshow/134186649.cms)
 - [BRICS ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಜಹ್ರಾ ಸರಳ ಫ್ಯಾಷನ್ ಲುಕ್; ಭಾರತೀಯ ಕಲೆ-ಸಂಸ್ಕೃತಿಗೆ ಮನಸೋತ ಇರಾನ್ ಅಧ್ಯಕ್ಷರ ಪುತ್ರಿ](https://vijaykarnataka.com/lifestyle/fashion/iranian-president-daughter-zahra-brics-market-fashion-look-indian-culture/articleshow/134179578.cms)
-- [ಬ್ರಿಟನ್ ವಿಭಜನೆಗೆ ಪ್ರಯತ್ನ!: ಯುನೈಟೆಡ್ ಕಿಂಗ್ ಡಂನಿಂದ ಸ್ಕಾಟ್ಲೆಂಡ್, ವೇಲ್ಸ್‌, ಉತ್ತರ ಐರ್ಲೆಂಡ್‌ ಹೊರಕ್ಕೆ?](https://vijaykarnataka.com/news/world/scotland-wales-and-northern-ireland-out-of-the-united-kingdom/articleshow/134212724.cms)
+- [ಸ್ಮೃತಿ ಮಂದಾನ, ಶಫಾಲಿ ವರ್ಮಾ, ಶ್ರೀ ಚರಣಿ ಆರ್ಭಟಕ್ಕೆ ಲಂಕಾ ಪಡೆ ಧೂಳೀಪಟ: 8ನೇ ಬಾರಿ ಮಹಿಳಾ ಏಷ್ಯಾ ಕಪ್ ಗೆದ್ದ ಭಾರತ!](https://vijaykarnataka.com/sports/cricket/news/india-beat-sri-lanka-by-72-runs-bags-women-asia-cup-for-8th-time/articleshow/134216792.cms)
 
 **The Hindu**
 - [Jharkhand LoP accuses Soren-led govt. of protecting influential people amid CID probe into job exam ‘irregularities’](https://www.thehindu.com/news/national/jharkhand/jharkhand-lop-accuses-soren-led-govt-of-protecting-influential-people-amid-cid-probe-into-job-exam-irregularities/article71463699.ece)
@@ -74,6 +74,7 @@
 - [Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh](https://www.thehindu.com/news/national/bangladesh-wants-to-reset-ties-with-india/article71464479.ece)
 
 **Livemint**
+- [Happy Ganesh Chaturthi 2026: 50 wishes, images, messages to share on WhatsApp, Facebook, Instagram](https://www.livemint.com/news/trends/happy-ganesh-chaturthi-2026-wishes-and-messages-for-whatsapp-facebook-instagram-11789322345153.html)
 - [Iranian Official Blocked From UN Nuclear Meeting at US’s Urging](https://www.livemint.com/news/us-news/iranian-official-blocked-from-un-nuclear-meeting-at-us-s-urging-11789339124139.html)
 - [Student suspended for bringing coffee on first day of school after refusing to throw drink away](https://www.livemint.com/news/us-news/student-suspended-for-bringing-coffee-on-first-day-of-school-after-refusing-to-throw-drink-away-11789333115390.html)
 - [Brics Women’s Business Alliance urges supply chain access and scale for women-led entrepreneurship](https://www.livemint.com/news/india/brics-women-s-business-alliance-urges-supply-chain-access-and-scale-for-women-led-entrepreneurship-11789301032517.html)
@@ -83,7 +84,6 @@
 - [BRICS Summit: India engages ASEAN, Africa, GCC and BIMSTEC leaders on Global South agenda](https://www.livemint.com/news/india/brics-summit-india-engages-asean-africa-gcc-and-bimstec-leaders-on-global-south-agenda-11789321306618.html)
 - [Who is Anupriya Nagar? 21-year-old who used UK part-time savings to back  ₹200 crore hit ‘Hanuman Ansh’](https://www.livemint.com/news/trends/who-is-anupriya-nagar-21-year-old-who-used-uk-part-time-savings-to-back-200-crore-hit-hanuman-ansh-11789320641132.html)
 - [Ganesh Chaturthi 2026: 66 kg gold, 335 kg silver &  ₹703 cr insurance cover— Inside Mumbai's GSB Seva Mandal preparations](https://www.livemint.com/news/india/ganesh-chaturthi-202666-kg-gold-335-kg-silver-703-cr-insurance-cover-inside-mumbai-gsb-seva-mandals-preparatio-11789307042325.html)
-- [Britain once trained India's air force. Why are IAF pilots now training RAF pilots?](https://www.livemint.com/news/india/britain-once-trained-indias-air-force-why-are-iaf-pilots-now-training-raf-pilots-11789313614198.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -109,26 +109,26 @@
 - Indian (2.9)
 - Ukraine (2.6)
 - Russia (2.6)
-- Oman (2.6)
 - Delhi (2.6)
 - House (2.6)
 - Centre (2.6)
 - Maratha (2.6)
 - BRICS (2.5)
+- Asia Cup (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [YS Jagan | మెగా డీఎస్సీలో భారీ స్కామ్‌.. కూట‌మి స‌ర్కారుపై వైఎస్ జ‌గ‌న్ మ‌ళ్లీ ఫైర్‌](https://www.ntnews.com/andhrapradesh-news/ys-jagan-massive-scam-in-mega-dsc-ys-jagan-lashes-out-at-the-alliance-government-again-2510257)
-- [UCC implementation in all 21 states ruled by BJP, NDA partners before 2029: Amit Shah's big remarks](https://www.hindustantimes.com/india-news/ucc-in-all-21-states-ruled-by-nda-bjp-before-2029-union-home-minister-amit-shahs-big-claim-101789300639981.html)
-- [రేవంత్ మాటల్లో ఉన్నంత స్ట్రాంగ్ చేతల్లో ఉంటే ఎంతోమంది జైలుకు వెళ్లేవారు.. టీజీ వెంకటేశ్ వ్యాఖ్యలు](https://telugu.samayam.com/telangana/hyderabad/former-mp-tg-venkatesh-comments-on-telangana-cm-revanth-reddy-in-uppal-bhagayath-arya-vysya-bhavan-foundation-stone/articleshow/134198666.cms)
-- ['80% भारतीय मांसाहारी', BRICS डिनर के वेज मेन्यू पर राहुल गांधी का तंज; रिजिजू ने किया करारा पलटवार](https://navbharattimes.indiatimes.com/india/rahul-gandhi-jibe-at-brics-dinners-veg-menu-kiren-rijiju-sharp-retort-controversy-erupts-over-80-percent-indians-are-non-vegetarian/articleshow/134198180.cms)
-- [ప్రధాని మోదీని కలిసిన స్కూల్‌ ఫ్రెండ్‌..](https://www.eenadu.net/telugu-news/india/schoolmate-meets-pm-modi-seeks-cbi-probe-into-alleged-land-grab/0701/126165823)
-- [Smriti Mandhana | మీరు ఏడుస్తారా.. మీ జీవితంలో అతి కష్టంగా గడిచిన రాత్రి ఏది?](https://www.ntnews.com/sports/mandhana-gest-emotional-in-podcast-and-says-she-talks-only-about-cricket-2510239)
-- ['80% भारतीय मांसाहारी हैं': राहुल गांधी के बयान और ब्रिक्स के गाला डिनर की कैसी है चर्चा](https://www.bbc.com/hindi/articles/c17jpkqxprjo)
-- [Hanuman Ansh: ఆ ఒక్క కారణంతో ఆస్కార్ రేసు నుంచి 'హనుమాన్ అంశ్' ఔట్.. షాకింగ్ విషయం చెప్పిన నిర్మాత](https://tv9telugu.com/entertainment/tollywood/hanuman-ansh-missed-oscar-submission-deadline-says-producer-namrata-singh-1910570.html)
-- [മുതിർന്ന സിപിഎം നേതാവ് ബേബി ജോൺ അന്തരിച്ചു](https://www.asianetnews.com/kerala-news/senior-cpm-leader-baby-john-passes-away-articleshow-qt6owoo)
-- [സച്ചിനെ വെട്ടി, പിന്നാലെ ക്യാപ്റ്റന്‍ വിരാടിനെയും; അവസാനിക്കാതെ റൂട്ട് ഗാഥ](https://www.doolnews.com/joe-root-surpasses-virat-kohli-on-the-list-of-captains-with-the-most-wins-in-the-world-test-championship-65-114.html)
+- [Abhijeet Dipke | ‘మధ్యప్రదేశ్‌ సీఎం పదవికి నేను రాజీనామా చేస్తున్నా’.. అభిజీత్‌ దీప్కే వ్యంగ్య లేఖ](https://www.ntnews.com/national/i-resign-as-madhya-pradesh-cm-abhijeet-dipkes-jibe-at-govt-after-being-heckled-over-his-visit-to-tribal-village-over-30-children-died-of-suspected-infectious-diseases-2510233)
+- [Should you avoid it?](https://indianexpress.com/article/lifestyle/health/sugar-free-doesnt-always-mean-heart-friendly-what-a-new-study-says-about-xylitol-10871273/)
+- [Rahul Gandhi | బ్రిక్స్ విందులో మాంసాహారం ఎక్కడ?.. ఇదేనా భారతీయ రుచుల వైవిధ్యం..?](https://www.ntnews.com/national/rahul-gandhi-fires-on-veg-menu-for-brics-leaders-2510264)
+- [AI mapped 39,619 grounded icebergs around Antarctica for the first time; 93% are under 1 square kilometre and form a “picket fence” that helps hold sea ice in place](https://timesofindia.indiatimes.com/science/earth/ai-mapped-39619-grounded-icebergs-around-antarctica-for-the-first-time-93-are-under-1-square-kilometre-and-form-a-picket-fence-that-helps-hold-sea-ice-in-place/articleshow/134196006.cms)
+- [UCC पर अमित शाह का बड़ा ऐलान, 29 तक NDA वाले 21 राज्यों में हो जाएगा लागू](https://www.livehindustan.com/national/amit-shah-big-announcement-on-ucc-says-by-2029-21-nda-ruled-states-will-have-it-201789302248287.html)
+- [Rahul Gandhi: राहुल गांधी म्हणाले, भारतातील 80 टक्के लोक मांसाहारी, भारतीय मांसाहारी जेवण खूप स्वादिष्ट अन् अवघ्या 70 मिनिटात किरण रिजिजू ट्विट करत काय म्हणाले...](https://marathi.abplive.com/news/politics/rahul-gandhi-stated-80-percent-of-indians-are-non-vegetarian-what-did-kiren-rijiju-say-in-his-tweet-just-70-minutes-later-brics-summit-menu-veg-1438995)
+- [‘Corruption, casteism, dynastic politics has ended’: Amit Shah hails 12 years of Modi govt](https://timesofindia.indiatimes.com/india/corruption-casteism-dynastic-politics-has-ended-amit-shah-hails-12-years-of-modi-govt/articleshow/134199936.cms)
+- [வானிலை முன்னறிவிப்பு: தமிழகத்தில் செப்.19 வரை மிதமான மழைக்கு வாய்ப்பு](https://www.hindutamil.in/news/tamilnadu/moderate-rain-in-tn-till-september-19-weather-report)
+- [AI ‘doomsday’ debate: Why Dario Amodei, Sam Altman and Elon Musk are worried about ‘superintelligence’](https://www.hindustantimes.com/world-news/ai-doomsday-debate-why-anthropic-amodei-openai-altman-and-grok-elon-musk-are-worried-about-superintelligence-101789290340817.html)
+- [Men's Junior Hockey Asia Cup: India wins third consecutive title after beating Korea in final](https://sportstar.thehindu.com/hockey/india-wins-mens-junior-hockey-asia-cup-2026-beats-korea-gold-medal-match-score-highlights/article71463270.ece)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
