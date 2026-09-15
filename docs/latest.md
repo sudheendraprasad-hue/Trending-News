@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-15 08:38:30
+# India Trending Report — 2026-09-15 09:04:18
 
 ## Google Trends (India) — top trending searches
-1. [hang seng index](https://trends.google.com/trending/rss?geo=IN)
-2. [पराग शाह](https://trends.google.com/trending/rss?geo=IN)
-3. [ఒరాకిల్ సంస్థ](https://trends.google.com/trending/rss?geo=IN)
-4. [ஏர் இந்தியா](https://trends.google.com/trending/rss?geo=IN)
-5. [lottery sambad](https://trends.google.com/trending/rss?geo=IN)
-6. [मकर](https://trends.google.com/trending/rss?geo=IN)
-7. [மாநகராட்சி](https://trends.google.com/trending/rss?geo=IN)
-8. [കീമോതെറാപ്പി](https://trends.google.com/trending/rss?geo=IN)
-9. [भविष्य](https://trends.google.com/trending/rss?geo=IN)
-10. [निवेशक](https://trends.google.com/trending/rss?geo=IN)
+1. [kerala](https://trends.google.com/trending/rss?geo=IN)
+2. [টিকিট](https://trends.google.com/trending/rss?geo=IN)
+3. [asian games women](https://trends.google.com/trending/rss?geo=IN)
+4. [மருத்துவமனை](https://trends.google.com/trending/rss?geo=IN)
+5. [hang seng index](https://trends.google.com/trending/rss?geo=IN)
+6. [पराग शाह](https://trends.google.com/trending/rss?geo=IN)
+7. [ఒరాకిల్ సంస్థ](https://trends.google.com/trending/rss?geo=IN)
+8. [ஏர் இந்தியா](https://trends.google.com/trending/rss?geo=IN)
+9. [lottery sambad](https://trends.google.com/trending/rss?geo=IN)
+10. [मकर](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -18,12 +18,12 @@
 - [‘They were doing stunts, racing’: Gurgaon hit-and-run accused's lawyer blames biker](https://timesofindia.indiatimes.com/city/gurgaon/racing-doing-stunts-kalyan-bainslas-lawyer-calls-gurgaon-biker-crash-negligence-not-hit-and-run/articleshow/134254867.cms)
 - ['Umar Khalid is a nationalist': Cong leader hits out at ABVP amid documentary row](https://timesofindia.indiatimes.com/india/umar-khalid-is-a-nationalist-congress-leader-bk-hariprasad-hits-out-at-abvp-amid-documentary-row/articleshow/134255709.cms)
 - [Chappell leads seven Australia captains in appeal to minister over Imran Khan](https://timesofindia.indiatimes.com/sports/cricket/news/greg-chappell-leads-seven-australia-captains-in-appeal-to-foreign-minister-over-humanitarian-imran-khan-concerns/articleshow/134254580.cms)
-- [Over 200 SpiceJet passengers protest at Delhi airport over repeated flight delays](https://timesofindia.indiatimes.com/india/over-200-spicejet-passengers-protest-at-delhi-airport-over-repeated-flight-delays/articleshow/134255305.cms)
+- ['Once again surrendering to US pressure': Rahul slams govt over UPI fee exemption limit](https://timesofindia.indiatimes.com/india/once-again-surrendering-to-us-pressure-rahul-slams-govt-over-upi-fee-exemption-limit/articleshow/134255467.cms)
 - [Mark Zuckerberg reveals what his 'Doomsday bunker' Hawaii home is like](https://timesofindia.indiatimes.com/technology/tech-news/when-mark-zuckerberg-for-the-first-time-spoke-about-his-hawaii-home-famously-called-doomsday-bunker-and-said-to-have-basement-of-the-size-of-nba-basketball-court/articleshow/134255534.cms)
+- [Over 200 SpiceJet passengers protest at Delhi airport over repeated flight delays](https://timesofindia.indiatimes.com/india/over-200-spicejet-passengers-protest-at-delhi-airport-over-repeated-flight-delays/articleshow/134255305.cms)
 - [Indians in UK, US return on high visa costs, immigration issues; but to lower pays](https://timesofindia.indiatimes.com/business/india-business/she-returned-after-firms-in-uk-refused-visa-sponsorship-due-to-high-costs-she-is-not-alone-indian-professionals-from-us-returning-too-but-at-significantly-lower-salaries/articleshow/134254926.cms)
 - [‘29 Sept tak metro mein safar na karein’: Multiple Delhi schools receive bomb threats](https://timesofindia.indiatimes.com/city/delhi/29-sept-tak-metro-mein-safar-na-karein-multiple-delhi-schools-receive-bomb-threats/articleshow/134255032.cms)
 - [‘Bhagne nahi dunga’: Himanshu Bhau claims responsibility for Delhi gym trainer murder](https://timesofindia.indiatimes.com/city/delhi/bhagne-nahi-dunga-kisi-ko-gangster-himanshu-bhau-claims-responsibility-for-delhi-gym-trainer-murder/articleshow/134255515.cms)
-- ['This was my last World Cup': Bhuvneshwar reveals why India return hopes faded](https://timesofindia.indiatimes.com/sports/cricket/news/this-was-my-last-world-cup-bhuvneshwar-kumar-reveals-why-india-return-hopes-faded/articleshow/134255830.cms)
 
 **NDTV**
 - [After BRICS 2026, India's Real Test Is Balancing The West](https://www.ndtv.com/world-news/after-brics-2026-indias-real-test-is-balancing-the-west-12048374#publisher=newsstand)
@@ -38,7 +38,9 @@
 - [How Much Of Your Salary Should Go To Rent? Here's The Math](https://www.ndtv.com/business-news/home-rent-flat-monthy-payment-salary-expense-property-emi-personal-finance-12047185#publisher=newsstand)
 
 **Hindustan Times**
-- [CBI FIR in Disha Salian case an attempt to tarnish Thackerays: Uddhav Sena MP Sanjay Raut](https://www.hindustantimes.com/india-news/cbi-fir-in-disha-salian-case-attempt-to-tarnish-thackerays-sena-ubt-sanjay-raut-aaditya-thackeray-sushant-singh-rajput-101789458884037.html)
+- [Indian police to query Google over 500,000 fake Gmail IDs linked to bomb hoax](https://www.hindustantimes.com/india-news/indian-police-to-query-google-over-500-000-fake-gmail-ids-linked-to-bomb-hoax-101789462065029.html)
+- [Vijay's UK trip brings over  ₹12,300 crore investment commitments, 9,400 jobs to Tamil Nadu](https://www.hindustantimes.com/india-news/vijays-uk-trip-brings-over-rs-12-300-crore-investment-commitments-9-400-jobs-to-tamil-nadu-101789458867962.html)
+- [CBI FIR in Disha Salian case an attempt to defame Thackerays: Uddhav Sena MP Sanjay Raut](https://www.hindustantimes.com/india-news/cbi-fir-in-disha-salian-case-attempt-to-tarnish-thackerays-sena-ubt-sanjay-raut-aaditya-thackeray-sushant-singh-rajput-101789458884037.html)
 - [Leopard poaching case: SC to urgently hear Wildlife SOS chief’s plea](https://www.hindustantimes.com/india-news/leopard-poaching-case-sc-to-urgently-hear-wildlife-sos-chief-s-plea-101789459039698.html)
 - [Regulation of educational institutes: SC issues notice to school education secretary on contempt plea](https://www.hindustantimes.com/india-news/regulation-of-educational-institutes-sc-issues-notice-to-school-education-secretary-on-contempt-plea-101789458624860.html)
 - [2 Dubai-bound SpiceJet flights hit delays at Delhi airport, protests erupt](https://www.hindustantimes.com/india-news/spicejet-delhi-dubai-sg-5111-sg-5105-flight-delayed-protests-igi-airport-news-101789457196804.html)
@@ -46,38 +48,36 @@
 - [BJP fields mother of CM Suvendu Adhikari’s slain PA for Nandigram bypoll](https://www.hindustantimes.com/india-news/bjp-fields-mother-of-cm-suvendu-adhikari-s-slain-pa-as-oct-6-by-poll-candidate-101789455919720.html)
 - [SC asks Centre to consider extending tenure of retiring members of tribunals](https://www.hindustantimes.com/india-news/sc-asks-centre-to-consider-extending-tenure-of-retiring-members-of-tribunals-101789454463499.html)
 - [No physical sports activities in Delhi-NCR schools between Nov-Dec: CAQM advisory](https://www.hindustantimes.com/india-news/no-physical-sports-activities-in-delhi-ncr-schools-between-nov-dec-caqm-advisory-101789454417794.html)
-- [Malaysian PM praises Tamil Nadu CM Vijay as meeting awaited: 'Started well, must sustain'](https://www.hindustantimes.com/india-news/malaysian-pm-anwar-ibrahim-on-tamil-nadu-cm-vijay-as-meeting-remains-awaited-started-well-must-sustain-101789450071970.html)
-- [Delhi HC declines to immediately restrain OpenAI from scraping ANI content](https://www.hindustantimes.com/india-news/delhi-hc-declines-to-immediately-restrain-openai-from-scraping-ani-content-101789453038494.html)
 
 **Vijay Karnataka**
+- [Oracle Job Cut: 12 ವರ್ಷದ ನಿಷ್ಠೆಗೆ ಒಂದೂ ವಿದಾಯ ಇಲ್ಲ; ಆಸ್ಪತ್ರೆಯಲ್ಲೂ ಕೆಲಸ ಮಾಡಿದ್ದ ಪತಿಯ ಸ್ಥಿತಿ ನೆನೆದು ಕಣ್ಣೀರಿಟ್ಟ ಪತ್ನಿ!](https://vijaykarnataka.com/business/news/oracle-job-cuts-no-farewell-after-12-years-of-loyalty-wife-in-tears-recalling-her-husbands-plight-emotional-post-goes-viral/articleshow/134256141.cms)
 - [ಮುಡಾ ಬಗ್ಗೆ ದೂರು ಕೊಟ್ಟವರು ಕಾಂಗ್ರೆಸ್ ನವರೇ ಅಲ್ವಾ? ಅಧಿಕಾರ ವಿಷ, 2028 ಕ್ಕೆ ವಿಧಾನಸಭೆ ಚುನಾವಣೆಗೆ ಸ್ಪರ್ಧೆ ಇಲ್ಲ ಎಂದ ಕೆ ಎನ್ ರಾಜಣ್ಣ](https://vijaykarnataka.com/news/karnataka/kn-rajanna-says-he-will-not-contest-in-2028-vidhanasabha-election-reveals-internal-conflict-of-congress/articleshow/134255672.cms)
 - [ಡೊನಾಲ್ಡ್‌ ಟ್ರಂಪ್‌ ಡಿವಿಡೆಂಡ್‌ ಸ್ಕೀಮ್‌ಗೆ ಕರ್ನಾಟಕದ ಗ್ಯಾರಂಟಿ ಯೋಜನೆ ಮಾದರಿ: ಡಿಕೆ ಶಿವಕುಮಾರ್‌](https://vijaykarnataka.com/news/karnataka/dk-shivakumar-says-karnataka-guarantee-schemes-encourages-donald-trump-to-announce-dividend-promise/articleshow/134254641.cms)
-- [ಕರ್ನಾಟಕದಲ್ಲಿ 2 ವರ್ಷದಲ್ಲಿ ತೀವ್ರ ಅಪೌಷ್ಟಿಕತೆ ಗಣನೀಯ ಇಳಿಕೆ: 2023ರಲ್ಲಿ 77ಸಾವಿರವಿದ್ದ ಸಂಖ್ಯೆ 2025-26ರಲ್ಲಿ 6,725!](https://vijaykarnataka.com/news/karnataka/signigicnt-decline-in-severe-malnutrition-in-karnataka-from-77482-to-6725-cases-from-2023-to-2026/articleshow/134254697.cms)
 - [ನೀತಾ ಅಂಬಾನಿ ಗಣೇಶೋತ್ಸವಕ್ಕೆ ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಕುಟುಂಬ: ಸಾನಿಯಾ ಚಾಂದೋಕ್ ಸಾಂಪ್ರದಾಯಿಕ ಲುಕ್‌ಗೆ ವಿಶೇಷ ಗಮನ](https://vijaykarnataka.com/lifestyle/fashion/sachin-tendulkar-family-visit-nita-ambani-ganpati-antilia-sania-chandok-look/articleshow/134255344.cms)
-- [ಅಲ್ಲೋಲ ಕಲ್ಲೋಲ ಹೇಳಿಕೆ : HD ಕುಮಾರಸ್ವಾಮಿ ಮಹತ್ವದ ಪತ್ರಿಕಾಗೋಷ್ಠಿ - ಹೈಲೆಟ್ಸ್](https://vijaykarnataka.com/news/karnataka/union-minister-hd-kumaraswamy-press-meet-highlights-nice-dk-shivakumar/articleshow/134255265.cms)
+- [ಕರ್ನಾಟಕದಲ್ಲಿ 2 ವರ್ಷದಲ್ಲಿ ತೀವ್ರ ಅಪೌಷ್ಟಿಕತೆ ಗಣನೀಯ ಇಳಿಕೆ: 2023ರಲ್ಲಿ 77ಸಾವಿರವಿದ್ದ ಸಂಖ್ಯೆ 2025-26ರಲ್ಲಿ 6,725!](https://vijaykarnataka.com/news/karnataka/signigicnt-decline-in-severe-malnutrition-in-karnataka-from-77482-to-6725-cases-from-2023-to-2026/articleshow/134254697.cms)
 - [BBK 13: ಬಳೆ ವಿವಾದ ಕಿರಣ್ ಶಾಸ್ತ್ರಿಗೆ ಗೊತ್ತಿಲ್ವಾ ಅಥವಾ ನೆನಪಿಲ್ವಾ? ಮತ್ತದೇ ಮಾತು ಬೇಕಿತ್ತಾ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-week-2-kiran-shastry-bale-comment-lands-him-in-the-controversy/articleshow/134255733.cms)
 - [ಹೆಚ್ಚು ಗಂಟೆಗಳ ಕೆಲಸ ಹೃದಯಕ್ಕೆ ಅಪಾಯವೇ? ಕೆಲಸದ ಒತ್ತಡದಿಂದ ಹೃದಯಾಘಾತದ ಅಪಾಯ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/health/world-heart-day-2026-long-working-hours-heart-attack-risk/articleshow/134193727.cms)
 - [ಆಹಾರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಶುಭ, ಅಶುಭ ನಂಬಿಕೆಗಳೇನು.?](https://vijaykarnataka.com/religion/superstition/people-of-india-believing-and-following-these-are-the-food-related-superstitions/articleshow/134256193.cms)
 - [ನೀತಾ ಅಂಬಾನಿ ಗಣೇಶ ಚತುರ್ಥಿ ಲುಕ್; ಆರೆಂಜ್-ಮ್ಯಾಜೆಂಟಾ ಸೀರೆಯ ಜೊತೆ ಗಜ್ರಾ, ಸ್ಟೇಟ್ಮೆಂಟ್ ನೆಕ್ಲೆಸ್ ಹೈಲೈಟ್!](https://vijaykarnataka.com/lifestyle/fashion/nita-ambani-ganesh-chaturthi-look-orange-magenta-silk-saree/articleshow/134253238.cms)
-- [ಗುರುಗ್ರಾಮ್ ಕಾರ್-ಬೈಕ್ ಹಿಟ್ ಆಂಡ್ ರನ್ ಪ್ರಕರಣ: ಬೈಕರ್ ಸಿಯಾಗೆ ಭೀಕರ ಅಪಘಾತ ಮಾಡಿದ್ದ ಕಲ್ಯಾಣ್ ಬಂಧನ](https://vijaykarnataka.com/news/india/gurugram-car-bike-hit-and-run-case-kalyan-arrested-in-rajasthan-for-causing-a-terrible-accident-for-sia/articleshow/134254709.cms)
+- [ಅಲ್ಲೋಲ ಕಲ್ಲೋಲ ಹೇಳಿಕೆ : HD ಕುಮಾರಸ್ವಾಮಿ ಮಹತ್ವದ ಪತ್ರಿಕಾಗೋಷ್ಠಿ - ಹೈಲೆಟ್ಸ್](https://vijaykarnataka.com/news/karnataka/union-minister-hd-kumaraswamy-press-meet-highlights-nice-dk-shivakumar/articleshow/134255265.cms)
 
 **The Hindu**
+- [Kochi to host Keralam’s c0c0n 2026 cybersecurity conference in October](https://www.thehindu.com/news/national/kerala/kochi-to-host-keralams-c0c0n-2026cybersecurity-conference-in-october/article71467296.ece)
+- [DMK MP A. Raja, MLAs Sekarbabu and Vasantham Karthikeyan booked for derogatory remarks against Tamil Nadu CM Vijay](https://www.thehindu.com/news/national/tamil-nadu/dmk-mp-a-raja-mlas-sekarbabu-and-vasantham-karthikeyan-booked-for-derogatory-remarks-against-tamil-nadu-cm-vijay/article71466966.ece)
+- [Regulation of educational institutes: SC issues notice to School Education Secretary on contempt plea](https://www.thehindu.com/news/national/regulation-of-educational-institutes-sc-issues-notice-to-school-education-secretary-on-contempt-plea/article71467293.ece)
 - [BJP names mother of slain Suvendu aide Chandranath Rath as Nandigram candidate](https://www.thehindu.com/news/national/west-bengal/bjp-names-mother-of-slain-suvendu-aide-chandranath-rath-as-nandigram-candidate/article71466934.ece)
 - [Dinesh Sharma sworn in as Lieutenant-Governor of Andaman and Nicobar](https://www.thehindu.com/news/national/andaman-and-nicobar-islands/dinesh-sharma-sworn-in-as-lieutenant-governor-of-andaman-and-nicobar/article71467260.ece)
 - [Keralam elderly welfare: Govt sets up CM-led council to coordinate, monitor activities](https://www.thehindu.com/news/national/kerala/keralam-elderly-welfare-govt-sets-up-cm-led-council-to-coordinate-monitor-activities/article71467138.ece)
 - [Meta says will report child safety cases directly to Indian cybercrime portal](https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece)
-- [DMK MP A. Raja, MLAs Sekarbabu and Vasantham Karthikeyan booked for derogatory remarks against Tamil Nadu CM Vijay](https://www.thehindu.com/news/national/tamil-nadu/dmk-mp-a-raja-mlas-sekarbabu-and-vasantham-karthikeyan-booked-for-derogatory-remarks-against-tamil-nadu-cm-vijay/article71466966.ece)
 - [‘Compromised PM Modi again surrendering to U.S. pressure’: Rahul on government's UPI move](https://www.thehindu.com/news/national/compromised-pm-modi-again-surrendering-to-us-pressure-rahul-on-governments-upi-move/article71467221.ece)
 - [From 72-foot giant to a 3.8 lakh-diamond-studded idol, Hyderabad’s Ganeshas are bigger and brighter this year](https://www.thehindu.com/news/cities/Hyderabad/from-72-foot-giant-to-a-38-lakh-diamond-studded-idol-hyderabads-ganeshas-are-bigger-and-brighter-this-year/article71467009.ece)
 - [Only 250 institutions in Keralam hold ‘Eat Right Campus’ certification; validity of 204 expires](https://www.thehindu.com/news/national/kerala/only-250-institutions-in-keralam-hold-eat-right-campus-certification-validity-of-204-expires/article71467115.ece)
-- [Bihar CM transfers ₹579 crore in relief to flood-affected people](https://www.thehindu.com/news/national/bihar/bihar-cm-transfers-579-crore-in-relief-to-flood-affected-people/article71467155.ece)
-- [Omar Abdullah challenges BJP to bring UCC Bill in Parliament](https://www.thehindu.com/news/national/jammu-and-kashmir/omar-abdullah-challenges-bjp-to-bring-ucc-bill-in-parliament/article71467102.ece)
 
 **Livemint**
 - [Bengaluru CEO fixes broken footpath for  ₹2,700 after lack of action from BBMP; sparks debate on ‘DIY governance’](https://www.livemint.com/news/trends/bengaluru-ceo-fixes-broken-footpath-for-2-700-after-lack-of-action-from-bbmp-sparks-debate-on-diy-governance-11789456104934.html)
 - [In a first, US Air Force Secretary reveals Washington has weapons in space; to counter challenges from adversaries](https://www.livemint.com/news/us-news/in-a-first-us-air-force-secretary-reveals-washington-has-weapons-in-space-to-counter-challenges-from-adversaries-11789458685884.html)
 - [Masood Azhar's bounty hike: Is Pakistan's FATF move merely symbolic? Expert weighs in](https://www.livemint.com/news/world/masood-azhars-bounty-hike-is-pakistans-fatf-move-merely-symbolic-expert-weighs-in-11789449034184.html)
-- [Gurugram road rage case: Accused Kalyan Bainsla arrested, attempt-to-murder charge added](https://www.livemint.com/news/india/gurugram-road-rage-case-accused-kalyan-bainsla-arrested-attempt-to-murder-charge-added-11789456188767.html)
+- [Gurugram road rage case: Accused Kalyan Bainsla arrested, police add attempt-to-murder charge](https://www.livemint.com/news/india/gurugram-road-rage-case-accused-kalyan-bainsla-arrested-attempt-to-murder-charge-added-11789456188767.html)
 - [Indian-origin woman, friend killed after NYC subway train hits them on tracks, video of incident surfaces](https://www.livemint.com/news/us-news/indianorigin-woman-friend-killed-after-nyc-subway-train-hits-them-on-tracks-video-of-incident-surfaces-11789455066700.html)
 - [‘I am safe now’: Keralite vlogger, who claimed arrest by Mujahideen, says she escaped arrest threat in Afghanistan](https://www.livemint.com/news/trends/i-am-safe-now-keralite-vlogger-arunima-mujahideen-escaped-arrest-threat-in-afghanistan-11789453406956.html)
 - [Who is Umar Kremlev? Russian businessman and a Putin aide who partially funded Trump Jr's wedding: All you need to know](https://www.livemint.com/news/us-news/who-is-umar-kremlev-russian-businessman-and-a-putin-aide-who-partially-funded-trump-jrs-wedding-all-you-need-to-know-11789454435417.html)
@@ -98,6 +98,9 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಬಿಜೆಪಿಯವರ ಎದೆ ಸೀಳಿದರೆ ರಾಜ್ಯದ ಹಿತ ಕಾಯುವ ಒಂದೇ ಒಂದು ಅಂಶವಿಲ್ಲ: ಸಿಎಂ ಡಿ ಕೆ ಶಿವಕುಮಾರ್](https://www.varthabharati.in/state/there-is-not-a-single-element-among-bjp-members-that-would-protect-the-states-interests-cm-dk-shivakumar-2275279)
+- [ಮುಂದಿನ ವರ್ಷದಿಂದ ಸರ್ಕಾರದ ವತಿಯಿಂದ ಇಂಜಿನಿಯರ್‌ಗಳ ದಿನ ಆಚರಣೆ: ಸಿಎಂ ಡಿ ಕೆ ಶಿವಕುಮಾರ್ ಘೋಷಣೆ](https://www.varthabharati.in/state/engineers-day-to-be-celebrated-by-the-government-starting-next-year-cm-dk-shivakumar-announces-2275278)
+- [ಶಾಲಾ ಅವ್ಯವಹಾರದ ಬಗ್ಗೆ ದೂರು ನೀಡಿದ್ದಕ್ಕೆ ಡಿಡಿಪಿಐ ಬೆದರಿಕೆ: ಚನ್ನಬಸವ ಅರೋಲಿ ಆರೋಪ](https://www.varthabharati.in/raichur/ddpi-threatened-me-for-complaining-about-school-irregularities-channabasava-aroli-alleges-2275276)
 - [Gurugram ಹಿಟ್‌-ಆ್ಯಂಡ್‌-ರನ್‌ ಪ್ರಕರಣ: ರಾಜಸ್ಥಾನದಲ್ಲಿ ಆರೋಪಿ ಕಾರು ಚಾಲಕನ ಬಂಧನ](https://www.varthabharati.in/national/gurugram-hit-and-run-case-accused-arrested-in-rajasthan-2275271)
 - [ಮಕ್ಕಳ ಮೇಲಿನ ದೌರ್ಜನ್ಯದ ಬಗ್ಗೆ ತನಿಖಾ ಸಂಸ್ಥೆಗಳಿಗೆ ವರದಿ ಮಾಡಲು Meta ಒಪ್ಪಿಗೆ](https://www.varthabharati.in/National/meta-commits-to-reporting-child-abuse-content-amid-centres-crackdown-2275269)
 - [‘ಉಮರ್ ಖಾಲಿದ್ ಅವರನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿ’ ಎನ್ನುವುದು ಸಂವಿಧಾನ, ಪ್ರಜಾಪ್ರಭುತ್ವದಲ್ಲಿ ನಂಬಿಕೆ ಇರುವವರ ತರ್ಕಬದ್ಧ ಆಗ್ರಹ: ವೃಂದಾ ಗ್ರೋವರ್](https://www.varthabharati.in/National/free-umar-khalid-is-for-those-who-understand-constitution-believe-in-democracy-adv-vrinda-grover-2275266)
@@ -105,30 +108,28 @@
 - [ತಳವಾರ ಸಮುದಾಯಕ್ಕೆ ಸಂವಿಧಾನಬದ್ಧ ಎಸ್.ಟಿ ಹಕ್ಕು ಜಾರಿಗೊಳಿಸಲು ಆಗ್ರಹ](https://www.varthabharati.in/kalaburagi/demand-to-implement-constitutional-st-rights-for-talwara-community-2275263)
 - [ಶ್ರೀ ನಾರಾಯಣ ಗುರು ಧರ್ಮ ಪ್ರಸರಣ ಸೇವಾ ಟ್ರಸ್ಟ್ ವತಿಯಿಂದ ʼದೈವ ದಶಕಂʼ ಕನ್ನಡ ಕಲಿಕಾ ತರಗತಿ](https://www.varthabharati.in/daiva-dashakam-kannada-learning-classes-organized-by-the-sri-narayana-guru-dharma-prasarana-seva-trust./dakshinakannada/-2275262)
 - [ಗುಂಡ್ಲುಪೇಟೆಯಲ್ಲಿ ಕೇರಳಂ ಲಾಟರಿ ಮಾರಾಟ ಮಾಡುತ್ತಿದ್ದ ವ್ಯಕ್ತಿ ಬಂಧನ](https://www.varthabharati.in/chamarajanagar/man-arrested-for-selling-keralam-lottery-in-gundlupet-2275261)
-- [ವಿದೇಶಿ ವಿದ್ಯಾರ್ಥಿಗಳು, ಪತ್ರಕರ್ತರಿಗೆ ಹೊಸ ವೀಸಾ ಮಿತಿ; ಟ್ರಂಪ್‌ ಆಡಳಿತದ ನಿಯಮಕ್ಕೆ ಅಮೆರಿಕ ನ್ಯಾಯಾಲಯ ತಡೆ](https://www.varthabharati.in/international/law-withholds-trumps-new-visa-rule-for-students-journalists-2275260)
-- [Engineers Day | ನಮ್ಮೊಳಗಿನ ಇಂಜಿನಿಯರ್‌ ಗೆ ಒಂದು ನಮಸ್ಕಾರ...](https://www.varthabharati.in/vishesha-varadigalu/kudos-to-engineers-within-us-2275257)
-- [ಮಂಗಳೂರು: ಮುಖ್ಯಮಂತ್ರಿಗೆ ರಂಗೋಲಿ ಕಲಾಕೃತಿಯ ಸ್ವಾಗತಕ್ಕೆ ಸಿದ್ಧತೆ!](https://www.varthabharati.in/DakshinaKannada/mangaluru-preparations-underway-to-welcome-chief-minister-with-rangoli-artwork-2275256)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Gurugram (5.5)
 - Emkay Global Financial (5.0)
-- Delhi (4.5)
+- Delhi (4.2)
+- Keralam (3.9)
 - ICICI Securities (3.0)
 - target (3.0)
 - Indian-origin (2.6)
+- Rahul (2.6)
 - Afghanistan (2.6)
 - Opinion (2.6)
+- Indian (2.6)
+- Regulation (2.6)
 - Nandigram (2.6)
-- Vijay (2.6)
-- Keralam (2.6)
 - Meta (2.6)
-- Tamil Nadu CM (2.0)
 - Buy Bajaj Finance (2.0)
-- Nadu (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [Govt. bars bank charges on payments up to ₹2,000 via UPI, RuPay-powered debit cards](https://www.thehindu.com/business/govt-bars-bank-charges-on-upi-payments-up-to-2k/article71466438.ece)
 - [വിമാനത്താവളത്തിൽനിന്ന് മകളെ കൂട്ടാൻ പോകുന്നതിനിടെ കാറപകടം; അധ്യാപിക മരിച്ചു](https://www.manoramaonline.com/news/latest-news/2026/09/15/teacher-succumbs-to-injuries-after-car-accident.html)
 - [தனியார் ஒப்பந்த பஸ்களை இயக்க அரசு தவறியதால் பயணியர் அவதி](https://www.dinamalar.com/news/tamil-nadu-news/passengers-suffer-as-govt-fails-to-run-private-contract-buses/4323051)
 - [சென்னை முதல் குமரி வரை மின்வெட்டு: அன்புமணி கண்டனம்](https://www.dinakaran.com/news/chennai_kumari_powercut_anbumani_condemnation/)
@@ -138,7 +139,6 @@
 - [Potential new TB vaccines could save millions of lives: Gavi](https://medicalxpress.com/news/2026-09-potential-tb-vaccines-millions-gavi.html)
 - [₹2,000 के UPI और RuPay पेमेंट पर बड़ा फैसला! सरकार ने साफ किया पूरा नियम](https://www.livehindustan.com/business/government-clarified-that-no-charges-can-be-levied-on-upi-and-rupay-debit-card-transactions-of-up-to-rs-2000-201789411463779.html)
 - [ഈ മത്സ്യങ്ങൾ നിങ്ങളുടെ ജീവന് ഭീഷണിയായേക്കാം; ജാഗ്രതാ നിർദ്ദേശവുമായി ഭക്ഷ്യസുരക്ഷാ ഗുണനിലവാര കേന്ദ്രം](https://www.mathrubhumi.com/pravasi/oman/oman-pufferfish-ban-food-safety-warning-kr7z4t0q)
-- [ગુજરાતમાં ‘SD Pay’ એપથી કરોડોનું કૌભાંડ કરનાર બે માસ્ટરમાઈન્ડ ઝડપાયા, ઓડિશાથી ફ્લાઇટ મારફતે અમરેલી લવાયા](https://www.gujaratsamachar.com/news/amreli/sdpay-app-crore-cyber-fraud-masterminds-dhaval-patel-hiren-shah-arrested-66737562291)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
