@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-14 23:31:58
+# India Trending Report — 2026-09-15 00:02:19
 
 ## Google Trends (India) — top trending searches
 1. [తెలంగాణ ప్రభుత్వం](https://trends.google.com/trending/rss?geo=IN)
-2. [villarreal cf vs real betis standings](https://trends.google.com/trending/rss?geo=IN)
-3. [apple iphone 17 pro](https://trends.google.com/trending/rss?geo=IN)
-4. [भजन](https://trends.google.com/trending/rss?geo=IN)
-5. [oracle layoffs](https://trends.google.com/trending/rss?geo=IN)
-6. [nbems neet pg answer key](https://trends.google.com/trending/rss?geo=IN)
-7. [leeds united](https://trends.google.com/trending/rss?geo=IN)
+2. [masood azhar](https://trends.google.com/trending/rss?geo=IN)
+3. [villarreal cf vs real betis standings](https://trends.google.com/trending/rss?geo=IN)
+4. [apple iphone 17 pro](https://trends.google.com/trending/rss?geo=IN)
+5. [भजन](https://trends.google.com/trending/rss?geo=IN)
+6. [oracle layoffs](https://trends.google.com/trending/rss?geo=IN)
+7. [nbems neet pg answer key](https://trends.google.com/trending/rss?geo=IN)
 8. [serie a](https://trends.google.com/trending/rss?geo=IN)
 9. [katrina kaif](https://trends.google.com/trending/rss?geo=IN)
 10. [leeds vs newcastle](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [On Shah's UCC claim, 3 BJP allies sound caution](https://timesofindia.indiatimes.com/india/on-shahs-ucc-claim-3-bjp-allies-sound-caution/articleshow/134249377.cms)
+- [Retail inflation surges to 8-month high of 4.8% in August](https://timesofindia.indiatimes.com/business/india-business/retail-inflation-surges-to-8-month-high-of-4-8-in-august/articleshow/134249473.cms)
+- [Aaditya Thackeray named as CBI files FIR in Disha Salian's death case](https://timesofindia.indiatimes.com/india/cbi-files-fir-in-disha-salians-death-case-after-hc-order/articleshow/134249326.cms)
 - [BJP single-largest party in Rajasthan urban polls, denied sweep by Independents](https://timesofindia.indiatimes.com/city/jaipur/bjp-wins-but-independents-rewrite-rajasthan-civic-poll-math/articleshow/134247421.cms)
-- ['3 Cong CMs invited to Brics dinner but they didn't turn up'](https://timesofindia.indiatimes.com/india/3-cong-cms-invited-to-brics-dinner-but-they-didnt-turn-up/articleshow/134247911.cms)
-- [CBI files FIR in Disha Salian's death case after HC order](https://timesofindia.indiatimes.com/india/cbi-files-fir-in-disha-salians-death-case-after-hc-order/articleshow/134249326.cms)
-- [Scotland, Northern Ireland and Wales sign historic MoU to break away from UK](https://timesofindia.indiatimes.com/world/uk/scotland-northern-ireland-and-wales-sign-mou-to-break-away-from-uk/articleshow/134247408.cms)
 - [Homeless pianist went viral after church performance; 2 years later, he has a home](https://timesofindia.indiatimes.com/world/uk/in-january-2024-a-homeless-man-played-piano-at-a-church-in-uk-on-a-freezing-night-2-years-after-his-video-went-viral-he-has-raised-50000-for-charity-and-found-a-home/articleshow/134233771.cms)
 - [Oracle layoffs: Employees receive ‘6am job cuts’ email from Oracle leadership again](https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms)
+- ['3 Cong CMs invited to Brics dinner but they didn't turn up'](https://timesofindia.indiatimes.com/india/3-cong-cms-invited-to-brics-dinner-but-they-didnt-turn-up/articleshow/134247911.cms)
+- [Scotland, Northern Ireland and Wales sign historic MoU to break away from UK](https://timesofindia.indiatimes.com/world/uk/scotland-northern-ireland-and-wales-sign-mou-to-break-away-from-uk/articleshow/134247408.cms)
 - [Monsoon withdrawal may begin this weekend: IMD](https://timesofindia.indiatimes.com/india/monsoon-withdrawal-may-begin-this-weekend-imd/articleshow/134249372.cms)
 - [US rejects IRGC claim that Panama-flagged tanker hit naval mine](https://timesofindia.indiatimes.com/world/middle-east/vessel-attacked-by-iran-twice-us-rejects-irgc-claim-that-panama-flagged-tanker-hit-naval-mine/articleshow/134248017.cms)
-- [Voluminous evidence in graft cases leading to long pendency: SC](https://timesofindia.indiatimes.com/india/voluminous-evidence-in-graft-cases-leading-to-long-pendency-sc/articleshow/134249276.cms)
-- [ED arrests Bhupesh Baghels's ex-OSD for role in Chhattisgarh job scam](https://timesofindia.indiatimes.com/india/ed-arrests-ex-osd-of-baghel-for-role-in-chhattisgarh-job-scam/articleshow/134247722.cms)
 
 **NDTV**
 - ["SICK Conspiracy": Trump Rejects "Hoax" Warnings AI Could End Humanity](https://www.ndtv.com/world-news/donald-trump-rejects-warnings-that-ai-could-destroy-humanity-12046823#publisher=newsstand)
@@ -105,9 +105,9 @@
 - India (4.2)
 - Delhi (3.8)
 - Rajasthan (2.6)
+- Oracle (2.6)
 - Scotland (2.6)
 - Wales (2.6)
-- Oracle (2.6)
 - Monsoon (2.6)
 - Gurugram (2.6)
 - Sept (2.6)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Dev-Rukmini: 'রুক্মিণী কোথায়?’ দেবের বাড়ি গণেশ পুজোয় অনুপস্থিত প্রেমিকা, দূরত্ব নিয়ে জল্পনা](https://www.hindustantimes.com/bangla/entertainment/where-is-rukmini-missing-from-devs-ganesh-puja-celebrations-actress-feeds-distance-rumours-but-here-is-the-truth-271789383225020.html)
-- [Dangerously Hot Days Are Now Bleeding Into Spring and Fall](https://gizmodo.com/dangerous-heat-waves-are-now-bleeding-into-spring-and-fall-2000810784)
-- [Lata Mangeshkar Copy Song: अमेरिकेत कॉपी करण्यात आलेलं लता मंगेशकरांचं हे गाणं, 4000 कोटींचा खटला; ओरिजिनलपेक्षाही रिमेक ठरलेला सुपरहिट](https://marathi.abplive.com/entertainment/lata-mangeshkar-her-song-was-copied-in-the-us-4000-crore-copyright-case-filed-remake-became-bigger-hit-than-original-1439080)
-- [कपिल सिब्बल ने पहली बार गिनाई PM मोदी की उपलब्धियां, बोले- अमेरिका के खिलाफ बोलेंगे तो आतंकवाद बढ़ जाएगा](https://navbharattimes.indiatimes.com/india/kapil-sibal-rs-mp-list-pm-modi-govt-achievements-first-time-on-brics-summit-success/articleshow/134239988.cms)
-- [Pakistan Cricket Team : આટલી ખરાબ રીતે તો પાકિસ્તાનની ક્યારેય ઇજ્જત નથી ગઇ, વાંચો સંપૂર્ણ વિગત](https://www.gujaratfirst.com/cricket-news/pakistan-cricket-team-icc-action-slow-over-rate-11-wtc-points-deducted/339070/)
-- [BHU UG அட்மிஷன் 2026: மாப்-அப் சுற்றில் சேர இன்று கடைசி நாள் - உடனே விண்ணப்பியுங்கள்!](https://tamil.careerindia.com/news/bhu-ug-mop-up-round-2026-registration-deadline-today-apply-now-011-10783.html)
-- [మసూద్‌ను పట్టించిన వారికి రూ.70 లక్షలు: పాకిస్థాన్‌ ప్రకటన](https://www.eenadu.net/telugu-news/world/pakistan-hikes-masood-azhar-bounty-to-rs-70-lakh/0801/126166480)
-- [Scottish, Northern Irish, Welsh leaders assert right to ‘self-determination’](https://www.thehindu.com/news/international/scottish-northern-irish-welsh-leaders-assert-right-to-self-determination/article71465923.ece)
-- [રાજસ્થાન ચૂંટણી પરિણામ: વસુંધરા રાજેના ગઢ ઝાલાવાડમાં કોંગ્રેસનો ભવ્ય વિજય, કોંગ્રેસને 29 બેઠકો મળી](https://gujarati.abplive.com/news/india/rajasthan-municipal-election-result-jhalawar-congress-vasundhara-raje-991176)
-- [Breaking News: એશિયા કપ જીતવા છતાં ભારત ઈનામી રકમ કેમ નથી લેતું? જાણો કારણ](https://tv9gujarati.com/photo-gallery/cricket-photos/breaking-news-despite-winning-asia-cup-india-not-accept-prize-money-know-reason-1515387.html)
+- [Devoleena Bhattacharjee: 'या धर्मगुरुंना खरंच देव कळतो का?', केरळच्या ननचा व्हिडिओ शेअर करत देवोलीना भट्टाचार्जीचा संताप](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/devoleena-bhattacharjee-slams-kerala-nun-religious-video-and-asks-do-they-really-understand-god/articleshow/134240351.cms)
+- ['मुझे जानबूझकर छुआ', पंचायत फेम आसिफ खान ने की बदतमीजी! 'टची' होने पर भड़की हसीना](https://www.aajtak.in/entertainment/television/story/actress-uditi-singh-slams-panchayat-fame-aasif-khan-touching-her-hands-salman-khan-bigg-boss-20-tmovh-dskc-2642650-2026-09-14)
+- [India Surpasses 80 Lakh HPV Vaccine Doses Under Nationwide Campaign](https://medicaldialogues.in/mdtv/healthshorts/india-surpasses-80-lakh-hpv-vaccine-doses-under-nationwide-campaign-179201)
+- [Rajasthan Election Results: भाजप उमेदवाराला पत्नी अन् आई, बापानंही नाकारलं; फक्त 1 मत मिळालं; निवडणूक निकालाची राज्यभर चर्चा](https://maharashtratimes.com/india-news/rajasthan-local-body-elections-2026-parbatsar-nagar-palika-ward-no-13-result-bjp-candidate-got-only-1-vote/articleshow/134240296.cms)
+- [UCC पर एनडीए में हलचल, जेडीयू ने मांगा अमित शाह से मिलने का वक्त, कहा- बिना चर्चा के न हो लागू](https://www.aajtak.in/bihar/story/amit-shah-ucc-uniform-civil-code-nda-jdu-pankaj-jha-seek-meeting-ntc-aktw-rptc-2642692-2026-09-14)
+- [गरोदर महिलेवर पाशवी अत्याचार, नंतर हातोड्याने संपवलं, भयानक खुनामुळे बारामतीत एकच खळबळ!](https://www.tv9marathi.com/maharashtra/pregnant-woman-death-case-in-baramati-26-year-old-boy-killed-her-after-brutally-assaulted-1756390.html)
+- [‘संजूला ड्रॉप करा, वैभवला खेळवा’; सॅमसन फ्लॉप होताच फॅन्सनी केलं ट्रोल, IND vs AFG वर मीम्स व्हायरल](https://maharashtratimes.com/viral/viral-news/ind-vs-afg-abhishek-sharma-hits-82-sanju-samson-flops-viral-memes-take-over-social-media/articleshow/134240591.cms)
+- [Anumana Pakshi Trailer: డీజే టిల్లు డైరెక్టర్ ఈజ్ బ్యాక్.. అనుమాన పక్షి ట్రైలర్ రిలీజ్.. సిద్దూ జొన్నలగడ్డతోనే..](https://www.hindustantimes.com/telugu/entertainment/anumana-pakshi-trailer-review-release-date-rag-mayur-vimal-krishna-siddhu-jonnalagadda-261789385770644-amp.html)
+- [तृणमूलमधील फुटीर 20 खासदारांचा गट आता थेट 'भाजपवासी' होणार; युसूफ पठाणचं नेमकं काय ठरलं? घेतलेल्या भूमिकेवरून चर्चा रंगली](https://marathi.abplive.com/news/politics/seventeen-of-the-20-rebel-tmc-mps-who-broke-away-from-mamata-banerjee-will-join-the-bjp-yusuf-pathan-1439081)
+- [तेल भंडार, सऊदी बॉर्डर और लाल सागर पर पकड़... इस एक शहर के पीछे क्यों पड़े हैं हूती विद्रोही?](https://www.aajtak.in/world/story/why-houthis-fighters-want-capture-marib-province-yemen-oil-gas-hub-ntc-mnrd-dskc-2642363-2026-09-14)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._

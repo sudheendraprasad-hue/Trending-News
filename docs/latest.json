@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-09-14 23:31:58",
+  "generated_at": "2026-09-15 00:02:19",
   "google_trends": [
     {
       "title": "\u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23 \u0c2a\u0c4d\u0c30\u0c2d\u0c41\u0c24\u0c4d\u0c35\u0c02",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "masood azhar",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
@@ -32,11 +37,6 @@
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "leeds united",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
       "title": "serie a",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
@@ -55,20 +55,20 @@
   "outlets": {
     "Times of India": [
       {
-        "title": "BJP single-largest party in Rajasthan urban polls, denied sweep by Independents",
-        "link": "https://timesofindia.indiatimes.com/city/jaipur/bjp-wins-but-independents-rewrite-rajasthan-civic-poll-math/articleshow/134247421.cms"
+        "title": "On Shah's UCC claim, 3 BJP allies sound caution",
+        "link": "https://timesofindia.indiatimes.com/india/on-shahs-ucc-claim-3-bjp-allies-sound-caution/articleshow/134249377.cms"
       },
       {
-        "title": "'3 Cong CMs invited to Brics dinner but they didn't turn up'",
-        "link": "https://timesofindia.indiatimes.com/india/3-cong-cms-invited-to-brics-dinner-but-they-didnt-turn-up/articleshow/134247911.cms"
+        "title": "Retail inflation surges to 8-month high of 4.8% in August",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/retail-inflation-surges-to-8-month-high-of-4-8-in-august/articleshow/134249473.cms"
       },
       {
-        "title": "CBI files FIR in Disha Salian's death case after HC order",
+        "title": "Aaditya Thackeray named as CBI files FIR in Disha Salian's death case",
         "link": "https://timesofindia.indiatimes.com/india/cbi-files-fir-in-disha-salians-death-case-after-hc-order/articleshow/134249326.cms"
       },
       {
-        "title": "Scotland, Northern Ireland and Wales sign historic MoU to break away from UK",
-        "link": "https://timesofindia.indiatimes.com/world/uk/scotland-northern-ireland-and-wales-sign-mou-to-break-away-from-uk/articleshow/134247408.cms"
+        "title": "BJP single-largest party in Rajasthan urban polls, denied sweep by Independents",
+        "link": "https://timesofindia.indiatimes.com/city/jaipur/bjp-wins-but-independents-rewrite-rajasthan-civic-poll-math/articleshow/134247421.cms"
       },
       {
         "title": "Homeless pianist went viral after church performance; 2 years later, he has a home",
@@ -79,20 +79,20 @@
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms"
       },
       {
+        "title": "'3 Cong CMs invited to Brics dinner but they didn't turn up'",
+        "link": "https://timesofindia.indiatimes.com/india/3-cong-cms-invited-to-brics-dinner-but-they-didnt-turn-up/articleshow/134247911.cms"
+      },
+      {
+        "title": "Scotland, Northern Ireland and Wales sign historic MoU to break away from UK",
+        "link": "https://timesofindia.indiatimes.com/world/uk/scotland-northern-ireland-and-wales-sign-mou-to-break-away-from-uk/articleshow/134247408.cms"
+      },
+      {
         "title": "Monsoon withdrawal may begin this weekend: IMD",
         "link": "https://timesofindia.indiatimes.com/india/monsoon-withdrawal-may-begin-this-weekend-imd/articleshow/134249372.cms"
       },
       {
         "title": "US rejects IRGC claim that Panama-flagged tanker hit naval mine",
         "link": "https://timesofindia.indiatimes.com/world/middle-east/vessel-attacked-by-iran-twice-us-rejects-irgc-claim-that-panama-flagged-tanker-hit-naval-mine/articleshow/134248017.cms"
-      },
-      {
-        "title": "Voluminous evidence in graft cases leading to long pendency: SC",
-        "link": "https://timesofindia.indiatimes.com/india/voluminous-evidence-in-graft-cases-leading-to-long-pendency-sc/articleshow/134249276.cms"
-      },
-      {
-        "title": "ED arrests Bhupesh Baghels's ex-OSD for role in Chhattisgarh job scam",
-        "link": "https://timesofindia.indiatimes.com/india/ed-arrests-ex-osd-of-baghel-for-role-in-chhattisgarh-job-scam/articleshow/134247722.cms"
       }
     ],
     "NDTV": [
@@ -371,15 +371,15 @@
       "score": 2.6
     },
     {
+      "term": "Oracle",
+      "score": 2.6
+    },
+    {
       "term": "Scotland",
       "score": 2.6
     },
     {
       "term": "Wales",
-      "score": 2.6
-    },
-    {
-      "term": "Oracle",
       "score": 2.6
     },
     {
@@ -414,44 +414,44 @@
   "newsapi": [],
   "gnews": [
     {
-      "title": "Dev-Rukmini: '\u09b0\u09c1\u0995\u09cd\u09ae\u09bf\u09a3\u09c0 \u0995\u09cb\u09a5\u09be\u09af\u09bc?\u2019 \u09a6\u09c7\u09ac\u09c7\u09b0 \u09ac\u09be\u09a1\u09bc\u09bf \u0997\u09a3\u09c7\u09b6 \u09aa\u09c1\u099c\u09cb\u09af\u09bc \u0985\u09a8\u09c1\u09aa\u09b8\u09cd\u09a5\u09bf\u09a4 \u09aa\u09cd\u09b0\u09c7\u09ae\u09bf\u0995\u09be, \u09a6\u09c2\u09b0\u09a4\u09cd\u09ac \u09a8\u09bf\u09df\u09c7 \u099c\u09b2\u09cd\u09aa\u09a8\u09be",
-      "link": "https://www.hindustantimes.com/bangla/entertainment/where-is-rukmini-missing-from-devs-ganesh-puja-celebrations-actress-feeds-distance-rumours-but-here-is-the-truth-271789383225020.html"
+      "title": "Devoleena Bhattacharjee: '\u092f\u093e \u0927\u0930\u094d\u092e\u0917\u0941\u0930\u0941\u0902\u0928\u093e \u0916\u0930\u0902\u091a \u0926\u0947\u0935 \u0915\u0933\u0924\u094b \u0915\u093e?', \u0915\u0947\u0930\u0933\u091a\u094d\u092f\u093e \u0928\u0928\u091a\u093e \u0935\u094d\u0939\u093f\u0921\u093f\u0913 \u0936\u0947\u0905\u0930 \u0915\u0930\u0924 \u0926\u0947\u0935\u094b\u0932\u0940\u0928\u093e \u092d\u091f\u094d\u091f\u093e\u091a\u093e\u0930\u094d\u091c\u0940\u091a\u093e \u0938\u0902\u0924\u093e\u092a",
+      "link": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/devoleena-bhattacharjee-slams-kerala-nun-religious-video-and-asks-do-they-really-understand-god/articleshow/134240351.cms"
     },
     {
-      "title": "Dangerously Hot Days Are Now Bleeding Into Spring and Fall",
-      "link": "https://gizmodo.com/dangerous-heat-waves-are-now-bleeding-into-spring-and-fall-2000810784"
+      "title": "'\u092e\u0941\u091d\u0947 \u091c\u093e\u0928\u092c\u0942\u091d\u0915\u0930 \u091b\u0941\u0906', \u092a\u0902\u091a\u093e\u092f\u0924 \u092b\u0947\u092e \u0906\u0938\u093f\u092b \u0916\u093e\u0928 \u0928\u0947 \u0915\u0940 \u092c\u0926\u0924\u092e\u0940\u091c\u0940! '\u091f\u091a\u0940' \u0939\u094b\u0928\u0947 \u092a\u0930 \u092d\u0921\u093c\u0915\u0940 \u0939\u0938\u0940\u0928\u093e",
+      "link": "https://www.aajtak.in/entertainment/television/story/actress-uditi-singh-slams-panchayat-fame-aasif-khan-touching-her-hands-salman-khan-bigg-boss-20-tmovh-dskc-2642650-2026-09-14"
     },
     {
-      "title": "Lata Mangeshkar Copy Song: \u0905\u092e\u0947\u0930\u093f\u0915\u0947\u0924 \u0915\u0949\u092a\u0940 \u0915\u0930\u0923\u094d\u092f\u093e\u0924 \u0906\u0932\u0947\u0932\u0902 \u0932\u0924\u093e \u092e\u0902\u0917\u0947\u0936\u0915\u0930\u093e\u0902\u091a\u0902 \u0939\u0947 \u0917\u093e\u0923\u0902, 4000 \u0915\u094b\u091f\u0940\u0902\u091a\u093e \u0916\u091f\u0932\u093e; \u0913\u0930\u093f\u091c\u093f\u0928\u0932\u092a\u0947\u0915\u094d\u0937\u093e\u0939\u0940 \u0930\u093f\u092e\u0947\u0915 \u0920\u0930\u0932\u0947\u0932\u093e \u0938\u0941\u092a\u0930\u0939\u093f\u091f",
-      "link": "https://marathi.abplive.com/entertainment/lata-mangeshkar-her-song-was-copied-in-the-us-4000-crore-copyright-case-filed-remake-became-bigger-hit-than-original-1439080"
+      "title": "India Surpasses 80 Lakh HPV Vaccine Doses Under Nationwide Campaign",
+      "link": "https://medicaldialogues.in/mdtv/healthshorts/india-surpasses-80-lakh-hpv-vaccine-doses-under-nationwide-campaign-179201"
     },
     {
-      "title": "\u0915\u092a\u093f\u0932 \u0938\u093f\u092c\u094d\u092c\u0932 \u0928\u0947 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0917\u093f\u0928\u093e\u0908 PM \u092e\u094b\u0926\u0940 \u0915\u0940 \u0909\u092a\u0932\u092c\u094d\u0927\u093f\u092f\u093e\u0902, \u092c\u094b\u0932\u0947- \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u092c\u094b\u0932\u0947\u0902\u0917\u0947 \u0924\u094b \u0906\u0924\u0902\u0915\u0935\u093e\u0926 \u092c\u0922\u093c \u091c\u093e\u090f\u0917\u093e",
-      "link": "https://navbharattimes.indiatimes.com/india/kapil-sibal-rs-mp-list-pm-modi-govt-achievements-first-time-on-brics-summit-success/articleshow/134239988.cms"
+      "title": "Rajasthan Election Results: \u092d\u093e\u091c\u092a \u0909\u092e\u0947\u0926\u0935\u093e\u0930\u093e\u0932\u093e \u092a\u0924\u094d\u0928\u0940 \u0905\u0928\u094d \u0906\u0908, \u092c\u093e\u092a\u093e\u0928\u0902\u0939\u0940 \u0928\u093e\u0915\u093e\u0930\u0932\u0902; \u092b\u0915\u094d\u0924 1 \u092e\u0924 \u092e\u093f\u0933\u093e\u0932\u0902; \u0928\u093f\u0935\u0921\u0923\u0942\u0915 \u0928\u093f\u0915\u093e\u0932\u093e\u091a\u0940 \u0930\u093e\u091c\u094d\u092f\u092d\u0930 \u091a\u0930\u094d\u091a\u093e",
+      "link": "https://maharashtratimes.com/india-news/rajasthan-local-body-elections-2026-parbatsar-nagar-palika-ward-no-13-result-bjp-candidate-got-only-1-vote/articleshow/134240296.cms"
     },
     {
-      "title": "Pakistan Cricket Team : \u0a86\u0a9f\u0ab2\u0ac0 \u0a96\u0ab0\u0abe\u0aac \u0ab0\u0ac0\u0aa4\u0ac7 \u0aa4\u0acb \u0aaa\u0abe\u0a95\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8\u0aa8\u0ac0 \u0a95\u0acd\u0aaf\u0abe\u0ab0\u0ac7\u0aaf \u0a87\u0a9c\u0acd\u0a9c\u0aa4 \u0aa8\u0aa5\u0ac0 \u0a97\u0a87, \u0ab5\u0abe\u0a82\u0a9a\u0acb \u0ab8\u0a82\u0aaa\u0ac2\u0ab0\u0acd\u0aa3 \u0ab5\u0abf\u0a97\u0aa4",
-      "link": "https://www.gujaratfirst.com/cricket-news/pakistan-cricket-team-icc-action-slow-over-rate-11-wtc-points-deducted/339070/"
+      "title": "UCC \u092a\u0930 \u090f\u0928\u0921\u0940\u090f \u092e\u0947\u0902 \u0939\u0932\u091a\u0932, \u091c\u0947\u0921\u0940\u092f\u0942 \u0928\u0947 \u092e\u093e\u0902\u0917\u093e \u0905\u092e\u093f\u0924 \u0936\u093e\u0939 \u0938\u0947 \u092e\u093f\u0932\u0928\u0947 \u0915\u093e \u0935\u0915\u094d\u0924, \u0915\u0939\u093e- \u092c\u093f\u0928\u093e \u091a\u0930\u094d\u091a\u093e \u0915\u0947 \u0928 \u0939\u094b \u0932\u093e\u0917\u0942",
+      "link": "https://www.aajtak.in/bihar/story/amit-shah-ucc-uniform-civil-code-nda-jdu-pankaj-jha-seek-meeting-ntc-aktw-rptc-2642692-2026-09-14"
     },
     {
-      "title": "BHU UG \u0b85\u0b9f\u0bcd\u0bae\u0bbf\u0bb7\u0ba9\u0bcd 2026: \u0bae\u0bbe\u0baa\u0bcd-\u0b85\u0baa\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb0 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0b9f\u0bc8\u0b9a\u0bbf \u0ba8\u0bbe\u0bb3\u0bcd - \u0b89\u0b9f\u0ba9\u0bc7 \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd!",
-      "link": "https://tamil.careerindia.com/news/bhu-ug-mop-up-round-2026-registration-deadline-today-apply-now-011-10783.html"
+      "title": "\u0917\u0930\u094b\u0926\u0930 \u092e\u0939\u093f\u0932\u0947\u0935\u0930 \u092a\u093e\u0936\u0935\u0940 \u0905\u0924\u094d\u092f\u093e\u091a\u093e\u0930, \u0928\u0902\u0924\u0930 \u0939\u093e\u0924\u094b\u0921\u094d\u092f\u093e\u0928\u0947 \u0938\u0902\u092a\u0935\u0932\u0902, \u092d\u092f\u093e\u0928\u0915 \u0916\u0941\u0928\u093e\u092e\u0941\u0933\u0947 \u092c\u093e\u0930\u093e\u092e\u0924\u0940\u0924 \u090f\u0915\u091a \u0916\u0933\u092c\u0933!",
+      "link": "https://www.tv9marathi.com/maharashtra/pregnant-woman-death-case-in-baramati-26-year-old-boy-killed-her-after-brutally-assaulted-1756390.html"
     },
     {
-      "title": "\u0c2e\u0c38\u0c42\u0c26\u0c4d\u200c\u0c28\u0c41 \u0c2a\u0c1f\u0c4d\u0c1f\u0c3f\u0c02\u0c1a\u0c3f\u0c28 \u0c35\u0c3e\u0c30\u0c3f\u0c15\u0c3f \u0c30\u0c42.70 \u0c32\u0c15\u0c4d\u0c37\u0c32\u0c41: \u0c2a\u0c3e\u0c15\u0c3f\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c4d\u200c \u0c2a\u0c4d\u0c30\u0c15\u0c1f\u0c28",
-      "link": "https://www.eenadu.net/telugu-news/world/pakistan-hikes-masood-azhar-bounty-to-rs-70-lakh/0801/126166480"
+      "title": "\u2018\u0938\u0902\u091c\u0942\u0932\u093e \u0921\u094d\u0930\u0949\u092a \u0915\u0930\u093e, \u0935\u0948\u092d\u0935\u0932\u093e \u0916\u0947\u0933\u0935\u093e\u2019; \u0938\u0945\u092e\u0938\u0928 \u092b\u094d\u0932\u0949\u092a \u0939\u094b\u0924\u093e\u091a \u092b\u0945\u0928\u094d\u0938\u0928\u0940 \u0915\u0947\u0932\u0902 \u091f\u094d\u0930\u094b\u0932, IND vs AFG \u0935\u0930 \u092e\u0940\u092e\u094d\u0938 \u0935\u094d\u0939\u093e\u092f\u0930\u0932",
+      "link": "https://maharashtratimes.com/viral/viral-news/ind-vs-afg-abhishek-sharma-hits-82-sanju-samson-flops-viral-memes-take-over-social-media/articleshow/134240591.cms"
     },
     {
-      "title": "Scottish, Northern Irish, Welsh leaders assert right to \u2018self-determination\u2019",
-      "link": "https://www.thehindu.com/news/international/scottish-northern-irish-welsh-leaders-assert-right-to-self-determination/article71465923.ece"
+      "title": "Anumana Pakshi Trailer: \u0c21\u0c40\u0c1c\u0c47 \u0c1f\u0c3f\u0c32\u0c4d\u0c32\u0c41 \u0c21\u0c48\u0c30\u0c46\u0c15\u0c4d\u0c1f\u0c30\u0c4d \u0c08\u0c1c\u0c4d \u0c2c\u0c4d\u0c2f\u0c3e\u0c15\u0c4d.. \u0c05\u0c28\u0c41\u0c2e\u0c3e\u0c28 \u0c2a\u0c15\u0c4d\u0c37\u0c3f \u0c1f\u0c4d\u0c30\u0c48\u0c32\u0c30\u0c4d \u0c30\u0c3f\u0c32\u0c40\u0c1c\u0c4d.. \u0c38\u0c3f\u0c26\u0c4d\u0c26\u0c42 \u0c1c\u0c4a\u0c28\u0c4d\u0c28\u0c32\u0c17\u0c21\u0c4d\u0c21\u0c24\u0c4b\u0c28\u0c47..",
+      "link": "https://www.hindustantimes.com/telugu/entertainment/anumana-pakshi-trailer-review-release-date-rag-mayur-vimal-krishna-siddhu-jonnalagadda-261789385770644-amp.html"
     },
     {
-      "title": "\u0ab0\u0abe\u0a9c\u0ab8\u0acd\u0aa5\u0abe\u0aa8 \u0a9a\u0ac2\u0a82\u0a9f\u0aa3\u0ac0 \u0aaa\u0ab0\u0abf\u0aa3\u0abe\u0aae: \u0ab5\u0ab8\u0ac1\u0a82\u0aa7\u0ab0\u0abe \u0ab0\u0abe\u0a9c\u0ac7\u0aa8\u0abe \u0a97\u0aa2 \u0a9d\u0abe\u0ab2\u0abe\u0ab5\u0abe\u0aa1\u0aae\u0abe\u0a82 \u0a95\u0acb\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0ab8\u0aa8\u0acb \u0aad\u0ab5\u0acd\u0aaf \u0ab5\u0abf\u0a9c\u0aaf, \u0a95\u0acb\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0ab8\u0aa8\u0ac7 29 \u0aac\u0ac7\u0aa0\u0a95\u0acb \u0aae\u0ab3\u0ac0",
-      "link": "https://gujarati.abplive.com/news/india/rajasthan-municipal-election-result-jhalawar-congress-vasundhara-raje-991176"
+      "title": "\u0924\u0943\u0923\u092e\u0942\u0932\u092e\u0927\u0940\u0932 \u092b\u0941\u091f\u0940\u0930 20 \u0916\u093e\u0938\u0926\u093e\u0930\u093e\u0902\u091a\u093e \u0917\u091f \u0906\u0924\u093e \u0925\u0947\u091f '\u092d\u093e\u091c\u092a\u0935\u093e\u0938\u0940' \u0939\u094b\u0923\u093e\u0930; \u092f\u0941\u0938\u0942\u092b \u092a\u0920\u093e\u0923\u091a\u0902 \u0928\u0947\u092e\u0915\u0902 \u0915\u093e\u092f \u0920\u0930\u0932\u0902? \u0918\u0947\u0924\u0932\u0947\u0932\u094d\u092f\u093e \u092d\u0942\u092e\u093f\u0915\u0947\u0935\u0930\u0942\u0928 \u091a\u0930\u094d\u091a\u093e \u0930\u0902\u0917\u0932\u0940",
+      "link": "https://marathi.abplive.com/news/politics/seventeen-of-the-20-rebel-tmc-mps-who-broke-away-from-mamata-banerjee-will-join-the-bjp-yusuf-pathan-1439081"
     },
     {
-      "title": "Breaking News: \u0a8f\u0ab6\u0abf\u0aaf\u0abe \u0a95\u0aaa \u0a9c\u0ac0\u0aa4\u0ab5\u0abe \u0a9b\u0aa4\u0abe\u0a82 \u0aad\u0abe\u0ab0\u0aa4 \u0a88\u0aa8\u0abe\u0aae\u0ac0 \u0ab0\u0a95\u0aae \u0a95\u0ac7\u0aae \u0aa8\u0aa5\u0ac0 \u0ab2\u0ac7\u0aa4\u0ac1\u0a82? \u0a9c\u0abe\u0aa3\u0acb \u0a95\u0abe\u0ab0\u0aa3",
-      "link": "https://tv9gujarati.com/photo-gallery/cricket-photos/breaking-news-despite-winning-asia-cup-india-not-accept-prize-money-know-reason-1515387.html"
+      "title": "\u0924\u0947\u0932 \u092d\u0902\u0921\u093e\u0930, \u0938\u090a\u0926\u0940 \u092c\u0949\u0930\u094d\u0921\u0930 \u0914\u0930 \u0932\u093e\u0932 \u0938\u093e\u0917\u0930 \u092a\u0930 \u092a\u0915\u0921\u093c... \u0907\u0938 \u090f\u0915 \u0936\u0939\u0930 \u0915\u0947 \u092a\u0940\u091b\u0947 \u0915\u094d\u092f\u094b\u0902 \u092a\u0921\u093c\u0947 \u0939\u0948\u0902 \u0939\u0942\u0924\u0940 \u0935\u093f\u0926\u094d\u0930\u094b\u0939\u0940?",
+      "link": "https://www.aajtak.in/world/story/why-houthis-fighters-want-capture-marib-province-yemen-oil-gas-hub-ntc-mnrd-dskc-2642363-2026-09-14"
     }
   ],
   "twitter": null
