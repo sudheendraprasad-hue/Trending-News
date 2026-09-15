@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-15 03:37:39
+# India Trending Report — 2026-09-15 04:02:25
 
 ## Google Trends (India) — top trending searches
-1. [താലിബാന്](https://trends.google.com/trending/rss?geo=IN)
-2. [नंदीग्राम](https://trends.google.com/trending/rss?geo=IN)
-3. [power house](https://trends.google.com/trending/rss?geo=IN)
-4. [arrest](https://trends.google.com/trending/rss?geo=IN)
-5. [15](https://trends.google.com/trending/rss?geo=IN)
-6. [wwe](https://trends.google.com/trending/rss?geo=IN)
-7. [സര്ക്കാര്](https://trends.google.com/trending/rss?geo=IN)
-8. [ಭವಿಷ್ಯ](https://trends.google.com/trending/rss?geo=IN)
-9. [mitchell marsh](https://trends.google.com/trending/rss?geo=IN)
-10. [león vs san luis](https://trends.google.com/trending/rss?geo=IN)
+1. [nifty 50](https://trends.google.com/trending/rss?geo=IN)
+2. [bse share price](https://trends.google.com/trending/rss?geo=IN)
+3. [రుతుపవనం](https://trends.google.com/trending/rss?geo=IN)
+4. [paytm share price](https://trends.google.com/trending/rss?geo=IN)
+5. [താലിബാന്](https://trends.google.com/trending/rss?geo=IN)
+6. [नंदीग्राम](https://trends.google.com/trending/rss?geo=IN)
+7. [widows bay](https://trends.google.com/trending/rss?geo=IN)
+8. [power house](https://trends.google.com/trending/rss?geo=IN)
+9. [arrest](https://trends.google.com/trending/rss?geo=IN)
+10. [15](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [From Bahrain to Riyadh: How Iran strikes battered US bases, embassies](https://timesofindia.indiatimes.com/world/us/iran-strikes-damaged-us-bases-embassies-across-8-countries-pentagon-watchdog/articleshow/134250105.cms)
-- [Temple care is matter of duty for me, not publicity: Ram Mandir CEO Jeetendra Mishra](https://timesofindia.indiatimes.com/city/lucknow/temple-care-is-matter-of-duty-forme-not-publicity-ram-temple-ceo/articleshow/134247547.cms)
 - ['I could've died': Gurgaon biker rebuts driver's 'accident' defence in new video](https://timesofindia.indiatimes.com/city/gurgaon/could-have-died-after-viral-crash-video-gurgaon-biker-sia-hits-back-at-drivers-accident-defence/articleshow/134250141.cms)
-- [Marc Benioff’s $2.7 mn school donation came with a rule: No hate, no discrimination](https://timesofindia.indiatimes.com/technology/tech-news/in-2013-marc-benioff-wrote-a-2-7-million-check-for-schools-in-san-francisco-that-salesforce-ceo-said-was-down-payment-on-100-million-years-later-one-condition-remains-should-be-no-/articleshow/134250378.cms)
+- ['Trump is copying us': Shivakumar says US $5,000 plan 'inspired' by Congress](https://timesofindia.indiatimes.com/city/bengaluru/even-donald-trump-is-copying-us-dk-shivakumar-says-5000-promise-inspired-by-congress-guarantees/articleshow/134251141.cms)
 - [Mohsin Naqvi 'didn't object' to India refusing Asia Cup trophy from him, says BCCI](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/mohsin-naqvi-didnt-object-to-india-refusing-womens-asia-cup-trophy-from-him-says-rajeev-shukla/articleshow/134250438.cms)
-- ['First step towards safety': Meta to report child sexual abuse cases to law enforcement](https://timesofindia.indiatimes.com/india/first-step-towards-safety-meta-to-report-child-sexual-abuse-cases-to-law-enforcement/articleshow/134250815.cms)
-- [Indian-origin man, woman killed by train after sitting on NYC subway tracks](https://timesofindia.indiatimes.com/world/us/indian-origin-man-woman-killed-by-train-after-sitting-on-nyc-subway-tracks/articleshow/134250142.cms)
-- [No bank charges on UPI payments of up to Rs 2,000: Govt](https://timesofindia.indiatimes.com/business/india-business/upi-payments-up-to-rs-2000-to-remain-free-of-charges-govt/articleshow/134250244.cms)
+- [Trump's handpicked prosecutor resigns from DOJ probe after clash with attorney general](https://timesofindia.indiatimes.com/world/us/trumps-handpicked-prosecutor-resigns-from-doj-probe-after-clash-with-attorney-general/articleshow/134250738.cms)
+- [Marc Benioff’s $2.7 mn school donation came with a rule: No hate, no discrimination](https://timesofindia.indiatimes.com/technology/tech-news/in-2013-marc-benioff-wrote-a-2-7-million-check-for-schools-in-san-francisco-that-salesforce-ceo-said-was-down-payment-on-100-million-years-later-one-condition-remains-should-be-no-/articleshow/134250378.cms)
+- [Temple care is matter of duty for me, not publicity: Ram Mandir CEO Jeetendra Mishra](https://timesofindia.indiatimes.com/city/lucknow/temple-care-is-matter-of-duty-forme-not-publicity-ram-temple-ceo/articleshow/134247547.cms)
+- [From Bahrain to Riyadh: How Iran strikes battered US bases, embassies](https://timesofindia.indiatimes.com/world/us/iran-strikes-damaged-us-bases-embassies-across-8-countries-pentagon-watchdog/articleshow/134250105.cms)
 - [Gavaskar urges BCCI to make big change, names Sachin, Dravid for key role](https://timesofindia.indiatimes.com/sports/cricket/news/sunil-gavaskar-urges-bcci-to-make-big-change-names-sachin-tendulkar-rahul-dravid-for-key-role/articleshow/134249829.cms)
-- [Harry and Meghan pull Archie and Lilibet from UK school over security concerns](https://timesofindia.indiatimes.com/world/uk/prince-harry-and-meghan-markle-pull-archie-and-lilibet-out-of-uk-school-after-just-two-days-over-security-concerns-sussex-children-to-move-to-another-school-after-familys-return-to-britain/articleshow/134247738.cms)
+- ['First step towards safety': Meta to report child sexual abuse cases to law enforcement](https://timesofindia.indiatimes.com/india/first-step-towards-safety-meta-to-report-child-sexual-abuse-cases-to-law-enforcement/articleshow/134250815.cms)
+- [Homeless pianist went viral after church performance; 2 years later, he has a home](https://timesofindia.indiatimes.com/world/uk/in-january-2024-a-homeless-man-played-piano-at-a-church-in-uk-on-a-freezing-night-2-years-after-his-video-went-viral-he-has-raised-50000-for-charity-and-found-a-home/articleshow/134233771.cms)
 
 **NDTV**
 - ["I Could Have Died On The Spot": Gurugram Biker Hits Back At Accused Driver](https://www.ndtv.com/india-news/gurugram-hit-and-run-news-biker-sia-hit-and-run-i-could-have-died-on-the-spot-gurugram-biker-hits-back-at-accused-driver-kalyan-bainsla-12047139#publisher=newsstand)
@@ -38,6 +38,9 @@
 - [Columbia University Sued Over Failure To Protect Pro-Palestinian Students](https://www.ndtv.com/world-news/mahmoud-khalil-sue-columbia-university-over-failure-to-protect-pro-palestinian-students-12047062#publisher=newsstand)
 
 **Hindustan Times**
+- [HT Morning Brief September 15: Gurugram biker crash; Italians skip immigration in Delhi, the Emmys and more](https://www.hindustantimes.com/india-news/ht-morning-brief-september-15-gurugram-biker-crash-italians-skip-immigration-air-india-emmys-award-winner-list-top-news-101789442763034.html)
+- [‘In trouble in Afghanistan’: Kerala vlogger claims arrest by ‘Mujahideen’, later issues clarification](https://www.hindustantimes.com/india-news/in-trouble-in-afghanistan-kerala-vlogger-claims-arrest-by-mujahideen-later-issues-clarification-101789436212524.html)
+- [US lawmakers move amendments to Russia sanctions bill which targets India, others with 100% tariff threat](https://www.hindustantimes.com/india-news/us-lawmakers-move-amendments-to-russia-sanctions-bill-which-targets-india-others-with-100-percent-tariff-threat-101789441116637.html)
 - [Rescued baby orangutan falls ill at Odisha's Nandankanan zoo, officials on alert](https://www.hindustantimes.com/india-news/one-baby-orangutan-develops-fever-at-odisha-s-nandankanan-zoo-under-observation-101789439715041.html)
 - [Rat-hole mining, used in Uttarakhand's Silkyara rescue, deployed to save Nepal workers](https://www.hindustantimes.com/india-news/rathole-mining-used-in-uttarakhands-silkyara-rescue-deployed-to-save-nepal-workers-101789437391540.html)
 - [‘She wants followers, publicity’: Gurugram crash accused's lawyer blames woman biker](https://www.hindustantimes.com/india-news/she-wants-followers-publicity-gurugram-crash-accuseds-lawyer-blames-woman-biker-sia-golf-course-kalyan-bainsla-101789436561979.html)
@@ -45,9 +48,6 @@
 - [Karnataka welfare model inspired Trump’s $5K proposal: DKS](https://www.hindustantimes.com/india-news/karnataka-welfare-model-inspired-trump-s-5k-proposal-dks-101789414692175.html)
 - [Heavy rains after prolonged dry spell bring relief to Telugu states](https://www.hindustantimes.com/india-news/heavy-rains-after-prolonged-dry-spell-bring-relief-to-telugu-states-101789414630241.html)
 - [Man killed after bus rams eatery on NH-44 near Hyderabad](https://www.hindustantimes.com/india-news/man-killed-after-bus-rams-eatery-on-nh-44-near-hyderabad-101789414510785.html)
-- [ED gets complaint seeking probe into KPSC case](https://www.hindustantimes.com/india-news/ed-gets-complaint-seeking-probe-into-kpsc-case-101789414509047.html)
-- [Set aside political differences, focus on promotion of Indian languages: Amit Shah](https://www.hindustantimes.com/india-news/centre-wants-to-enrich-every-language-in-india-says-home-minister-amit-shah-101789414149379.html)
-- [BJP largest party in Jaipur, Congress gains big in Ajmer: Rajasthan civic poll verdict redraws urban political map](https://www.hindustantimes.com/india-news/rajasthan-civic-poll-verdict-redraws-urban-political-map-congress-congress-bikaner-ajmer-udaipur-bhilwara-101789436409806.html)
 
 **Vijay Karnataka**
 - [Rajasthan : ಸಿಜೆಪಿ ಹೋರಾಟದ ಮಧ್ಯೆಯೂ ಬಿಜೆಪಿಗೆ ಮುನ್ನಡೆ - ಕಾಂಗ್ರೆಸ್ಸಿಗೆ ಆಪ್, CPM ಕೊಟ್ಟ ಭಾರೀ ಹೊಡೆತ!](https://vijaykarnataka.com/news/india/explainer-rajasthan-civic-polls-2026-bjp-lead-aap-cpim-gain-warning-bell-congress/articleshow/134250613.cms)
@@ -62,6 +62,8 @@
 - [ಹಾರೋಹಳ್ಳಿಗೆ ಬರಲಿದೆ 1000 ಕೋಟಿ ಕೈಗಾರಿಕಾ ಹೂಡಿಕೆ? ವಿಪ್ರೊ ಕವಾಸಕಿ ಘಟಕ ಸ್ಥಾಪನೆ ಪ್ರಸ್ತಾವನೆ, 1,200 ಉದ್ಯೋಗ ಸೃಷ್ಟಿ ನಿರೀಕ್ಷೆ](https://vijaykarnataka.com/news/ramanagara/1000-crore-rupees-industrial-investment-headed-to-harohalli-proposal-to-set-up-wipro-kawasaki-unit-1200-jobs-expected-to-be-created/articleshow/134236529.cms)
 
 **The Hindu**
+- [Four members of family die in fire at home in Belagavi](https://www.thehindu.com/news/national/karnataka/four-members-of-family-die-in-fire-at-home-in-belagavi/article71466641.ece)
+- [Young man drives car wearing helmet in Athani](https://www.thehindu.com/news/national/karnataka/young-man-drives-car-with-helmet-in-athani/article71463661.ece)
 - [U.S. military says Iran war has led to munitions shortfall](https://www.thehindu.com/news/national/us-military-says-iran-war-has-led-to-munitions-shortfall/article71466628.ece)
 - [Keralite vlogger, who claimed arrest by Mujahideen, now says she escaped arrest threat in Afghanistan](https://www.thehindu.com/news/national/kerala/keralite-vlogger-who-claimed-arrest-by-mujahideen-now-says-she-escaped-arrest-threat-in-afghanistan/article71466549.ece)
 - [Air India gets show-cause notice over Italian passengers skipping immigration at Delhi airport](https://www.thehindu.com/news/national/air-india-gets-show-cause-notice-over-italian-passengers-skipping-immigration-at-delhi-airport/article71466538.ece)
@@ -70,10 +72,9 @@
 - [Ganesh Chaturthi celebrations begin with fervour across Telangana](https://www.thehindu.com/news/national/telangana/ganesh-chaturthi-celebrations-begin-with-fervour-across-telangana/article71465694.ece)
 - [Former DUTA chief Aditya Narayan Mishra joins Congress, flags ‘crisis’ in education](https://www.thehindu.com/news/national/former-duta-chief-aditya-narayan-mishra-joins-congress-flags-crisis-in-education/article71466174.ece)
 - [CJI says judiciary cannot earn public trust by shielding itself from scrutiny](https://www.thehindu.com/news/national/cji-says-judiciary-can-not-earn-public-trust-by-shielding-itself-from-scrutiny/article71466330.ece)
-- [Ritabrata-led TMC camp names candidates for Bengal bypolls](https://www.thehindu.com/news/national/west-bengal/ritabrata-led-tmc-camp-names-candidates-for-bengal-bypolls/article71466463.ece)
-- [U.P. Congress seeks one-time relief for State teacher recruitment exam candidates over new eligibility rules](https://www.thehindu.com/news/national/uttar-pradesh/up-congress-seeks-one-time-relief-for-state-teacher-recruitment-exam-candidates-over-new-eligibility-rules/article71466250.ece)
 
 **Livemint**
+- [MHA calls meeting after 3 Italian passengers bypassed immigration at Delhi airport: What we know](https://www.livemint.com/news/india/mha-calls-meeting-after-3-italian-passengers-bypassed-immigration-at-delhi-airport-what-we-know-11789443248880.html)
 - [Malaysia Said to Seize Another Three Containers Bound for Israel](https://www.livemint.com/news/world/malaysia-said-to-seize-another-three-containers-bound-for-israel-11789441217476.html)
 - [Oracle Layoffs: Employee says Slack access vanished at 4 am, Reddit post captures fear of AI era cuts](https://www.livemint.com/news/trends/oracle-layoffs-employee-says-slack-access-vanished-at-4-am-reddit-post-captures-fear-of-ai-era-cuts-11789438505660.html)
 - [‘Very high salary is a trap’: MBA professional pitches  ₹1.5–2 lakh per month as the ideal urban benchmark](https://www.livemint.com/news/trends/very-high-salary-is-a-trap-mba-professional-pitches-1-5-2-lakh-per-month-as-the-ideal-urban-benchmark-11789434772916.html)
@@ -83,7 +84,6 @@
 - [US-Iran War LIVE: Houthi attacks on 3 Saudi cities injure 13 civilians](https://www.livemint.com/news/us-news/us-iran-war-live-updates-houthis-attack-saudi-strait-of-hormuz-oil-price-trump-11789433169706.html)
 - [CGHS maps domestic manufacturing capacity for 153 critical drugs to shorten supply delays](https://www.livemint.com/news/cghs-domestic-manufacturing-capacity-153-critical-drugs-supply-delays-oncology-diabetes-muscular-atrophy-patients-11789378837821.html)
 - [The Hip Side of Japan the Tourists Havent Figured Out Yet](https://www.livemint.com/news/the-hip-side-of-japan-the-tourists-havent-figured-out-yet-11789433332267.html)
-- [₹7.36 trillion question: Can India store enough power to keep the lights on?](https://www.livemint.com/news/india/736-trillion-question-can-india-store-enough-power-to-keep-the-lights-on-11789383023875.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,8 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಏಷ್ಯಾ ಕಪ್ ಟ್ರೋಫಿ ಸ್ವೀಕರಿಸದಿರುವುದು ಬಿಸಿಸಿಐ ಒಮ್ಮತದ ನಿರ್ಧಾರ; ನಖ್ವಿ ಯಾವುದೇ ವಿರೋಧ ವ್ಯಕ್ತಪಡಿಸಲಿಲ್ಲ: ಬಿಸಿಸಿಐ ಉಪಾಧ್ಯಕ್ಷ ರಾಜೀವ್ ಶುಕ್ಲಾ](https://www.varthabharati.in/sports/bccis-unanimous-decision-not-to-accept-asia-cup-trophy-naqvi-did-not-express-any-objection-bcci-vice-president-rajiv-shukla-2275227)
+- [ಬೆಳ್ತಂಗಡಿ : ನಿಯಂತ್ರಣ ತಪ್ಪಿ ಕಾರು ಪಲ್ಟಿ; ಮೂವರಿಗೆ ಗಾಯ](https://www.varthabharati.in/DakshinaKannada/belthangady-car-overturns-after-losing-control-three-injured-2275226)
 - [ಚಾಮರಾಜನಗರ: ಹುಲಿ ದಾಳಿಗೆ ರೈತ ಬಲಿ](https://www.varthabharati.in/chamarajanagar/chamarajanagar-farmer-killed-in-tiger-attack-2275224)
 - [ಆಗಸ್ಟ್ ನಲ್ಲಿ ಚಿಲ್ಲರೆ ಹಣದುಬ್ಬರ ಶೇ.4.8ಕ್ಕೆ ಏರಿಕೆ : 8 ತಿಂಗಳಲ್ಲೇ ಗರಿಷ್ಠ ಮಟ್ಟ](https://www.varthabharati.in/National/retail-inflation-rises-to-48-in-august-highest-level-in-8-months-2275225)
 - [ಒರಾಕಲ್ ನಲ್ಲಿ ಮತ್ತೆ ಆತಂಕ ಮೂಡಿಸಿದ 6 ಗಂಟೆಯ ಇಮೇಲ್ : ಉದ್ಯೋಗ ಕಳೆದುಕೊಳ್ಳುತ್ತಿರುವ ಸಿಬ್ಬಂದಿ](https://www.varthabharati.in/international/6-am-email-sparks-fresh-anxiety-at-oracle-employees-face-job-losses-2275223)
@@ -106,39 +108,37 @@
 - [Rajasthan ಸ್ಥಳೀಯ ಸಂಸ್ಥೆ ಚುನಾವಣೆ | ಬಿಜೆಪಿ ಮೇಲುಗೈ; ಕಾಂಗ್ರೆಸ್‌ ಗೆ ಹಿನ್ನಡೆ](https://www.varthabharati.in/National/rajasthan-urban-local-body-polls-see-bjps-seats-rise-by-5-congresss-fall-by-5-2275219)
 - [ಮುಂಬರುವ ದಿನಗಳಲ್ಲಿ ಆಹಾರ ಪದಾರ್ಥಗಳ ಬೆಲೆ ಏರಿಕೆ ಸಾಧ್ಯತೆ; ಕಾರಣವೇನು?](https://www.varthabharati.in/vishesha-varadigalu/likelihood-of-rising-food-prices-in-the-coming-days-what-is-the-reason-2275218)
 - [BRICS 10 ಸದಸ್ಯ ರಾಷ್ಟ್ರಗಳ ಒಕ್ಕೂಟವೇ ಅಥವಾ 11 ಸದಸ್ಯ ರಾಷ್ಟ್ರಗಳದ್ದೇ? ಸೌದಿ ಅರೇಬಿಯದ ಸ್ಥಾನಮಾನ ಯಾಕೆ ಚರ್ಚೆಯಲ್ಲಿದೆ?](https://www.varthabharati.in/vishesha-varadigalu/is-brics-a-10-member-or-11-member-bloc-why-saudi-arabias-status-is-in-focus-2275214)
-- [79ನೇ ಕಲ್ಯಾಣ ಕರ್ನಾಟಕ ಉತ್ಸವ–2026 | ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸಿ ಉತ್ಸವ ಯಶಸ್ವಿಗೊಳಿಸಿ: ಸಚಿವ ಪ್ರಿಯಾಂಕ್ ಖರ್ಗೆ](https://www.varthabharati.in/kalaburagi/79th-kalyana-karnataka-utsava2026-participate-in-large-numbers-and-make-the-festival-a-success-priyank-kharge-2275213)
-- [Shivamogga | ಜಮೀನು ವಿಚಾರಕ್ಕೆ ಗಲಾಟೆ; ವ್ಯಕ್ತಿಗೆ ಚಾಕು ಇರಿತ](https://www.varthabharati.in/shimoga/shivamogga-2275212)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Trump (5.5)
 - Emkay Global Financial (5.0)
-- Trump (4.2)
-- Congress (3.9)
-- Rajasthan (3.9)
-- India (3.2)
+- Delhi (4.2)
+- India (4.2)
 - ICICI Securities (3.0)
 - target (3.0)
+- Gurugram (2.9)
+- Congress (2.6)
 - BCCI (2.6)
+- Afghanistan (2.6)
+- Mujahideen (2.6)
+- Russia (2.6)
+- Rajasthan (2.6)
+- Italian (2.6)
 - BRICS (2.6)
-- Buy Bajaj Finance (2.0)
-- Iran (1.6)
-- Gurugram (1.6)
-- Indian (1.6)
-- Here's (1.6)
-- Delhi (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [અમદાવાદ: 3 હજાર ડિસિલ્ટિંગ મજૂરોની હડતાળ સામે કોર્પોરેશન તંત્ર ઝૂક્યું, તમામ 12 માગો સ્વીકારી](https://www.gujaratsamachar.com/news/ahmedabad/amc-accepts-all-12-demands-desilting-workers-strike-ends-53133060525)
+- [रूस-यूक्रेन ने माना ट्रंप का फॉर्मूला, अब एक दूसरे के ऊर्जा ठिकानों पर नहीं करेंगे हमला](https://www.livehindustan.com/international/russia-and-ukraine-accepted-trump-formula-they-will-no-longer-attack-each-other-energy-facilities-201789401026680.html)
+- [દેશની પહેલી 'કાર્ગો' વંદે ભારતનું અમદાવાદ-મુંબઈ વચ્ચે સફળ ટ્રાયલ! 130 KM/Hની ઝડપે દોડી માલસામાન પહોંચાડતી સ્પે. ટ્રેન](https://www.gujaratsamachar.com/news/ahmedabad/india-first-cargo-vande-bharat-freight-emu-ahmedabad-mumbai-trial-run-success-27975375487)
+- [Trump claims 'failing nation' Iran wants a deal ‘quickly and badly’, says he'll decide on US engagement](https://www.moneycontrol.com/world/trump-claims-failing-nation-iran-wants-a-deal-quickly-and-badly-says-he-ll-decide-on-us-engagement-article-14029631.html)
+- ['जजों की हर शिकायत क्या वेबसाइट पर डाल दें?' जवाबदेही पर बोले CJI सूर्यकांत](https://www.aajtak.in/india/news/story/cji-suryakant-judicial-accountability-complaints-against-judges-collegium-reforms-ntc-aktw-dskc-2642820-2026-09-14)
+- [સઉદી પાઇપલાઇન ડ્રોન એટેકથી ભ્રષ્ટ દુનિયામાં તેલ સંકટ વધવાનું જોખમ](https://www.gujaratsamachar.com/news/international/saudi-pipeline-drone-attack-risks-deepening-oil-crisis-in-corrupt-world-35984182121)
+- [Jordan Astronomical Society documents rare daytime occultation of Venus](https://www.fananews.com/language/en/jordan-astronomical-society-documents-rare-daytime-occultation-of-venus/)
+- [Texas politics inflamed by MAGA cowboys v Indians row](https://timesofindia.indiatimes.com/world/us/texas-politics-inflamed-by-maga-cowboys-v-indians-row/articleshow/134243784.cms)
 - [మోడీకి నితీష్ కుమార్ బిగ్ ఝలక్..! పార్లమెంట్ లో మద్దతిచ్చి, ఇప్పుడు యూటర్న్..!](https://telugu.oneindia.com/news/india/from-parliament-support-to-u-turn-nitish-s-jd-u-shifts-stand-on-ucc-after-amit-shah-s-push-506219.html)
 - [બાંગ્લાદેશ લિંક ધરાવતી આંતરરાજ્ય બોમ્બ ધમકી ઈ-મેઇલ સિન્ડિકેટનો પર્દાફાશ, બે મુખ્ય આરોપીઓની ધરપકડ](https://www.gujaratsamachar.com/news/ahmedabad/cyber-center-exposes-interstate-bomb-threat-email-syndicate-bangladesh-link-29729390446)
-- [എഐ വിഡിയോ സന്തോഷമുണ്ടാക്കി: മുഖ്യമന്ത്രി- AI Dance Video](https://www.manoramaonline.com/news/latest-news/2026/09/14/cm-vd-satheesan-on-viral-ai-dance-video.html)
-- [Ravi Kishan approves as content creator Siddhant Shetty mimics him, leaves Samay Raina in splits on India's Got Latent](https://www.hindustantimes.com/entertainment/web-series/ravi-kishan-approves-as-content-creator-siddhant-shetty-mimics-him-leaves-samay-raina-in-splits-on-indias-got-latent-101789369754675.html)
-- [वृषभ राशिफल 15 सितंबर: वृषभ राशि आज काम और प्रोग्रेस पर रखें नजर, पढ़ें Taurus Horoscope](https://www.livehindustan.com/astrology/aaj-ka-vrishabh-rashifal-taurus-horoscope-today-15-september-2026-future-predictions-201789398713917.html)
-- [યુ.કે. વિભાજનના માર્ગે ? સ્કોટલેન્ડ, વેલ્સ અને નોર્ધન આયર્લેન્ડના નેતાઓ સંપૂર્ણ સ્વાતંત્ર્ય વિષે ચર્ચા કરે છે](https://www.gujaratsamachar.com/news/international/uk-on-the-path-to-partition-leaders-of-scotland-wales-and-northern-ireland-discuss-full-independence-12148969621)
-- [Sunita Ahuja breaks silence on Govinda's absence from Ganesh Chaturthi celebrations after cheating allegations: 'He's in America, but it's his house, he has to..'](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunita-ahuja-breaks-silence-on-govindas-absence-from-ganesh-chaturthi-celebrations-after-cheating-allegations-hes-in-america-but-its-his-house-he-has-to-/articleshow/134243573.cms)
-- [पीले सूट में छाईं सामंथा रुथ प्रभु, गोदभराई की तस्वीरों में चेहरे पर दिखा प्रेग्नेंसी ग्लो](https://www.livehindustan.com/entertainment/bollywood/samantha-ruth-prabhu-baby-shower-actress-glowing-yellow-suit-201789396423292.html)
-- [मक्का पैक्ट की परीक्षा में मुनीर फेल: MBS की मदद से क्यों पीछे हट रहे पाक फील्ड मार्शल](https://www.jagran.com/world/pakistan-why-pakistan-asim-munir-is-backing-away-from-mecca-pact-despite-saudi-ties-amid-houthi-conflict-40373360.html)
-- [शेखर सुमन ने पूछा- ज्योतिषी को इतना सुंदर दिखने की जरूरत है? जवाब सुन रह गए हैरान](https://www.aajtak.in/religion/spirituality/story/shekhar-suman-tonite-show-jai-madaan-asked-does-an-astrologer-really-need-to-look-beautiful-tvisu-dskc-2642718-2026-09-14)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
