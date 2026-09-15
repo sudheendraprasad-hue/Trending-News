@@ -1,31 +1,33 @@
-# India Trending Report — 2026-09-15 00:42:10
+# India Trending Report — 2026-09-15 01:03:12
 
 ## Google Trends (India) — top trending searches
-1. [క్రికెట్](https://trends.google.com/trending/rss?geo=IN)
-2. [ऋषि पंचमी कब है](https://trends.google.com/trending/rss?geo=IN)
-3. [चुनाव](https://trends.google.com/trending/rss?geo=IN)
-4. [battlegrounds mobile india](https://trends.google.com/trending/rss?geo=IN)
-5. [प्याज](https://trends.google.com/trending/rss?geo=IN)
-6. [తెలంగాణ ప్రభుత్వం](https://trends.google.com/trending/rss?geo=IN)
-7. [teej ka paran kab hai](https://trends.google.com/trending/rss?geo=IN)
-8. [masood azhar](https://trends.google.com/trending/rss?geo=IN)
-9. [villarreal cf vs real betis standings](https://trends.google.com/trending/rss?geo=IN)
-10. [apple iphone 17 pro](https://trends.google.com/trending/rss?geo=IN)
+1. [వినాయక చవితి](https://trends.google.com/trending/rss?geo=IN)
+2. [लाइसेंस](https://trends.google.com/trending/rss?geo=IN)
+3. [ഡ്രൈവിംഗ്](https://trends.google.com/trending/rss?geo=IN)
+4. [श्री गणेश चतुर्थी](https://trends.google.com/trending/rss?geo=IN)
+5. [pictures](https://trends.google.com/trending/rss?geo=IN)
+6. [यूरेनियम](https://trends.google.com/trending/rss?geo=IN)
+7. [కల్తీ](https://trends.google.com/trending/rss?geo=IN)
+8. [క్రికెట్](https://trends.google.com/trending/rss?geo=IN)
+9. [ऋषि पंचमी कब है](https://trends.google.com/trending/rss?geo=IN)
+10. [चुनाव](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [On Amit Shah's UCC implementation claim, 3 BJP allies sound caution](https://timesofindia.indiatimes.com/india/on-shahs-ucc-claim-3-bjp-allies-sound-caution/articleshow/134249377.cms)
 - [Retail inflation surges to 8-month high of 4.8% in August](https://timesofindia.indiatimes.com/business/india-business/retail-inflation-surges-to-8-month-high-of-4-8-in-august/articleshow/134249473.cms)
 - [CBI files FIR in Disha Salian's death case after HC order](https://timesofindia.indiatimes.com/india/cbi-files-fir-in-disha-salians-death-case-after-hc-order/articleshow/134249326.cms)
-- [BJP single-largest party in Rajasthan urban polls, denied sweep by Independents](https://timesofindia.indiatimes.com/city/jaipur/bjp-wins-but-independents-rewrite-rajasthan-civic-poll-math/articleshow/134247421.cms)
+- ['Are they living in the past?': Ex-India cricketer slams Mohsin Naqvi](https://timesofindia.indiatimes.com/sports/cricket/news/are-they-living-in-the-past-ex-india-cricketer-slams-mohsin-naqvi-after-asia-cup-trophy-snub/articleshow/134249649.cms)
 - [Oracle layoffs: Employees receive ‘6am job cuts’ email from Oracle leadership again](https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms)
+- [BJP single-largest party in Rajasthan urban polls, denied sweep by Independents](https://timesofindia.indiatimes.com/city/jaipur/bjp-wins-but-independents-rewrite-rajasthan-civic-poll-math/articleshow/134247421.cms)
 - ['3 Cong CMs invited to Brics dinner but they didn't turn up'](https://timesofindia.indiatimes.com/india/3-cong-cms-invited-to-brics-dinner-but-they-didnt-turn-up/articleshow/134247911.cms)
+- ['The mistakes I made, I won't make again': Animesh Kujur ready for Asian Games](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-the-mistakes-i-made-i-wont-make-again-sprinter-animesh-kujur-ready-for-a-bigger-challenge/articleshow/134241078.cms)
 - [Scotland, Northern Ireland and Wales sign historic MoU to break away from UK](https://timesofindia.indiatimes.com/world/uk/scotland-northern-ireland-and-wales-sign-mou-to-break-away-from-uk/articleshow/134247408.cms)
-- [Monsoon withdrawal may begin this weekend: IMD](https://timesofindia.indiatimes.com/india/monsoon-withdrawal-may-begin-this-weekend-imd/articleshow/134249372.cms)
-- [US rejects IRGC claim that Panama-flagged tanker hit naval mine](https://timesofindia.indiatimes.com/world/middle-east/vessel-attacked-by-iran-twice-us-rejects-irgc-claim-that-panama-flagged-tanker-hit-naval-mine/articleshow/134248017.cms)
-- [Perez Hilton cuts Las Vegas mansion price by $350,000 after Miami move](https://timesofindia.indiatimes.com/real-estate/news/perez-hilton-bought-this-sprawling-las-vegas-mansion-after-making-the-city-part-of-his-celebrity-career-now-after-moving-to-miami-he-has-slashed-the-price-by-350000-heres-a-look-inside-the-6600-sq-ft-home/articleshow/134235012.cms)
+- [US grandpa's $100K treehouse becomes $325K backyard castle](https://timesofindia.indiatimes.com/world/us/a-us-grandfather-planned-a-100000-150000-treehouse-for-his-grandkids-it-grew-into-a-325000-backyard-castle-with-a-pirate-ship-and-200-foot-zipline/articleshow/134246187.cms)
 
 **NDTV**
+- [Trump Seeks Reimbursement From Countries For Securing Strait of Hormuz](https://www.ndtv.com/world-news/iran-war-donald-trump-seeks-reimbursement-from-countries-for-securing-strait-of-hormuz-12047081#publisher=newsstand)
+- [Columbia University Sued Over Failure To Protect Pro-Palestinian Students](https://www.ndtv.com/world-news/mahmoud-khalil-sue-columbia-university-over-failure-to-protect-pro-palestinian-students-12047062#publisher=newsstand)
 - [US Supreme Court Rejects Trump Mail Ballot Restrictions Ahead Of Midterms](https://www.ndtv.com/world-news/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms-12047030#publisher=newsstand)
 - [Tamil Nadu's Vijay Signs Rs 12,300 Crore UK Deals, 9,000 Jobs Expected](https://www.ndtv.com/india-news/tamil-nadus-vijay-signs-rs-12-300-crore-uk-deals-9-000-jobs-expected-12047020#publisher=newsstand)
 - [Prince Harry's Kids Moving School After 2  Days Over Security Concerns](https://www.ndtv.com/world-news/prince-harrys-kids-moving-school-after-2-days-over-security-concerns-12047002#publisher=newsstand)
@@ -34,8 +36,6 @@
 - [US Scraps Limits On Carbon Emissions From Coal, Gas-Fired Power Plants](https://www.ndtv.com/world-news/us-scraps-limits-on-carbon-emissions-from-coal-gas-fired-power-plants-12046901#publisher=newsstand)
 - [Putin-Linked Russian Oligarch Funded For Trump Jr.'s Wedding: Report](https://www.ndtv.com/world-news/putin-linked-russian-oligarch-funded-for-trump-jr-s-wedding-report-12046873#publisher=newsstand)
 - [Trump Privately Met With OpenAI's Altman At Republican Convention: Report](https://www.ndtv.com/world-news/donald-trump-privately-met-with-openais-sam-altman-at-republican-convention-report-12046804#publisher=newsstand)
-- [Gangster Himanshu Bhau Takes Responsibility In Delhi Gym Trainer Murder Case](https://www.ndtv.com/delhi-news/gangster-himanshu-bhau-takes-responsibility-in-delhi-gym-trainer-murder-case-12046771#publisher=newsstand)
-- [US Scholar Went To China For A Workshop. Then He Stopped Responding](https://www.ndtv.com/world-news/us-scholar-went-to-china-for-a-workshop-then-he-stopped-responding-12044574#publisher=newsstand)
 
 **Hindustan Times**
 - [Kharge slams BJP’s demand for action against inspector](https://www.hindustantimes.com/india-news/kharge-slams-bjp-s-demand-for-action-against-inspector-101789414331877.html)
@@ -74,6 +74,7 @@
 - [DJ system seized, case booked against Ganesh pandal organisers in Adilabad for violating orders](https://www.thehindu.com/news/national/telangana/dj-system-seized-case-booked-against-ganesh-pandal-organisers-in-adilabad-for-violating-orders/article71466147.ece)
 
 **Livemint**
+- [The Hip Side of Japan the Tourists Havent Figured Out Yet](https://www.livemint.com/news/the-hip-side-of-japan-the-tourists-havent-figured-out-yet-11789433332267.html)
 - [₹7.36 trillion question: Can India store enough power to keep the lights on?](https://www.livemint.com/news/india/736-trillion-question-can-india-store-enough-power-to-keep-the-lights-on-11789383023875.html)
 - [Mundhe flags 2,841% markup on hospital consumables, seeks NPPA review](https://www.livemint.com/news/mundhe-trains-guns-on-hospital-consumables-flags-2-841-price-gap-medical-devices-pricing-patients-burden-11789370825928.html)
 - [Gurugram biker hit-and-run: Accused says he didn't know biker was a woman, ‘I tried hard to save’ | Watch video](https://www.livemint.com/news/india/gurugram-biker-hit-and-run-accused-says-he-didnt-know-biker-was-a-woman-i-tried-hard-to-save-watch-video-11789410589345.html)
@@ -83,7 +84,6 @@
 - [BRICS Summit: Delhi cop suspended after flaunting gun, sniper rifle videos on Instagram](https://www.livemint.com/news/india/brics-summit-delhi-cop-suspended-after-flaunting-gun-sniper-rifle-videos-on-instagram-11789396882388.html)
 - [17 NCPI MPs to join BJP soon? Samik Bhattacharya reacts to claim by rebel TMC leader Jagadish Chandra Barma Basunia](https://www.livemint.com/news/india/17-ncpi-mps-to-join-bjp-soon-samik-bhattacharya-reacts-to-claim-by-rebel-tmc-leader-jagadish-chandra-barma-basunia-11789393433562.html)
 - [Brent nears $110 a barrel as West Asia conflict deepens, Hormuz talks delayed](https://www.livemint.com/news/india/brent-nears-110-a-barrel-as-west-asia-conflict-deepens-hormuz-talks-delayed-11789391149565.html)
-- [Kharif sowing gap narrows, but key crops lag](https://www.livemint.com/news/kharif-sowing-gap-narrows-but-key-crops-lag-11789362798728.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -103,10 +103,10 @@
 - India (4.5)
 - BRICS (4.2)
 - Report (3.9)
-- Delhi (3.8)
-- Rajasthan (2.6)
+- Delhi (3.5)
 - Oracle (2.6)
-- Monsoon (2.6)
+- Rajasthan (2.6)
+- Hormuz (2.6)
 - Gurugram (2.6)
 - Sept (2.6)
 - Ajay Devgn (2.0)
@@ -114,21 +114,21 @@
 - Why Delhi HC (2.0)
 - Vimal Elaichi (2.0)
 - Kerala HC (2.0)
-- China (1.6)
+- Shah (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [సెప్టెంబర్ 15తో ముగుస్తున్న అడ్వాన్స్ ట్యాక్స్ గడువు.. IT శాఖ హెచ్చరిక.. చెల్లించకపోతే పెనాల్టీ తప్పదా?](https://telugu.samayam.com/business/business-news/advance-tax-2nd-installment-deadline-september-15-fy-2027-rules-calculation/articleshow/134241388.cms)
-- [কার্যত শেষ ইস্টবেঙ্গলের কলকাতা লিগ জয়ের আশা, মহামেডানের বিরুদ্ধে কষ্টার্জিত ড্র](https://eisamay.com/sports/football/east-bengal-calcutta-football-league-championship-dreams-shattered-after-draw-against-mohammedan/200542477.cms)
-- [Bacteria in airway influence air pollution health risk](https://www.innovationnewsnetwork.com/bacteria-in-airway-influence-air-pollution-health-risk/73954/)
-- [Breaking News : ઘરમાં સંતાયેલા આતંકી મસૂદ અઝહર માટે પાકિસ્તાને કર્યો દેખાડો, FATF થી બચવા ભાગેડુ ગણાવીને જાહેર કર્યું 70 લાખનુ ઈનામ](https://tv9gujarati.com/international-news/pakistan-has-declared-masood-azhar-fugitive-and-announced-reward-of-7-million-play-to-escape-from-fatf-1515469.html)
-- [Honda Shine Sales: அடேங்கப்பா.! விற்பனையில் சக்கை போடு போட்ட ஹோண்டா ஷைன்.! ஒரே மாசத்துல லட்சக்கணக்கில் சேல்ஸா.?!](https://tamil.abplive.com/auto/honda-shine-125cc-bike-record-sales-in-july-more-than-1-lakh-76-thousand-units-know-details-274524)
-- [Fight breaks out over pet dog in Ghaziabad high-rise elevator, video goes viral](https://www.hindustantimes.com/india-news/fight-breaks-out-over-dog-in-ghaziabad-high-rise-elevator-video-goes-viral-101789384745115.html)
-- [જે AI જીતશે, તે દુનિયા જીતશે: એક્સપર્ટ્સની ભયાનક ચેતવણીઓ વચ્ચે ડોનાલ્ડ ટ્રમ્પનું આક્રમક વલણ](https://www.gujaratsamachar.com/news/international/whoever-wins-ai-will-win-the-world-donald-trumps-aggressive-stance-amid-dire-warnings-from-experts-83695334097)
-- [मोठा राजकीय भूकंप… 17 बंडखोर खासदार भाजपमध्ये जाणार; राजकीय घडामोडींना वेग](https://www.tv9marathi.com/national/17-rebel-mps-join-bjp-major-political-earthquake-ahead-of-durga-puja-1756355.html)
-- [Nandigram Rejinagar By-election: নন্দীগ্রাম-রেজিনগরে প্রার্থী ঘোষণা ঋতব্রত-তৃণমূলের, কারা লড়ছেন? জানুন](https://bangla.aajtak.in/west-bengal/story/nandigram-rejinagar-by-election-2026-ritabrata-trinamool-congress-candidates-prb-1450656-2026-09-14)
-- [উপনির্বাচনের প্রার্থী ঘোষণা করল ঋতব্রত শিবির; আমরাই তৃণমূল, হুঙ্কার সভা থেকে](https://bengali.abplive.com/district/ritabrata-trinamool-announces-by-election-candidate-we-are-real-trinamool-declared-them-1192799)
+- [Microsoft patches Windows and Excel - breaks audio, remote access, and paste](https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085)
+- [Microsoft's latest Windows 11 update breaks audio on some PCs, but there is a workaround](https://www.club386.com/microsofts-windows-11-update-breaks-audio/)
+- [एशिया कप ट्रॉफी विवाद: AIMIM नेता वारिस पठान की दो टूक, 'वो हाथ जो...'](https://www.abplive.com/states/maharashtra/waris-pathan-aimim-leader-on-asia-cup-trophy-mohsin-naqvi-indian-team-3188773)
+- [സംസ്ഥാനത്ത് ഇന്നും വൈദ്യുതി നിയന്ത്രണം; 700 മുതൽ 900 മെഗാവാട്ട് വരെ വൈദ്യുതിയുടെ കുറവ്](https://www.madhyamam.com/kerala/kerala-power-cuts-kseb-electricity-shortage-high-cost-purchase-1554504)
+- [मोठी घोषणा! पाकिस्तान संघ भारतात खेळणार; चॅम्पियन्स ट्रॉफीचं वेळापत्रक जाहीर](https://www.tv9marathi.com/sports/other-sports/pakistan-team-likely-to-visit-india-for-the-mens-asian-champions-trophy-2026-hockey-tournament-punjab-cm-bhagwant-mann-said-1756448.html)
+- [Vinayaka Chavithi: బేగంబజార్‌లో డైమండ్ గణపతి](https://vaartha.com/telangana/hyderabad/hyderabad-begum-bazar-golden-ganesh-utsav/777187/)
+- [Kutch Rain: કચ્છ જિલ્લામાં સતત બીજા દિવસે ધોધમાર વરસાદ, ભૂજ-અંજાર અને માંડવીમાં જળબંબાકાર](https://gujarati.abplive.com/news/gujarat/rain-in-bhuj-anjar-and-mandvi-kutch-district-991182)
+- [Khairatabad Ganapathi | ఖైరతాబాద్ మహాగణపతిని దర్శించుకున్న మాజీ మంత్రి తలసాని](https://www.ntnews.com/news/former-minister-talasani-visits-khairatabad-maha-ganapathi-2510889)
+- [સિંહ-તુલા સહિત આ 6 રાશિના જાતકો માટે આગામી 90 દિવસ ‘વરદાન’, અઢળક ધનલાભના યોગ](https://www.gujaratsamachar.com/news/astro/the-next-90-days-will-be-a-boon-for-these-6-zodiac-signs-including-leo-and-libra-with-the-possibility-of-huge-financial-gains-22240615248)
+- [Stock Market prediction today: Sensex, Nifty outlook for Tue](https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-sensex-nifty-outlook-for-tue-kospi-taiwan-index-nikkei-cues-to-watch-15-sept-11789387045689.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
