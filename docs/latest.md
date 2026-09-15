@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-15 02:37:08
+# India Trending Report — 2026-09-15 03:02:20
 
 ## Google Trends (India) — top trending searches
-1. [iqoo 16](https://trends.google.com/trending/rss?geo=IN)
-2. [emmy awards 2026](https://trends.google.com/trending/rss?geo=IN)
-3. [उल्लू](https://trends.google.com/trending/rss?geo=IN)
-4. [प्रदूषण](https://trends.google.com/trending/rss?geo=IN)
-5. [వరుణ్ చక్రవర్తి](https://trends.google.com/trending/rss?geo=IN)
-6. [i phone 17 pro price](https://trends.google.com/trending/rss?geo=IN)
-7. [chiefs vs broncos](https://trends.google.com/trending/rss?geo=IN)
-8. [ऑस्ट्रेलिया](https://trends.google.com/trending/rss?geo=IN)
-9. [campeones cup](https://trends.google.com/trending/rss?geo=IN)
-10. [ಸಾಲ](https://trends.google.com/trending/rss?geo=IN)
+1. [ಭವಿಷ್ಯ](https://trends.google.com/trending/rss?geo=IN)
+2. [mitchell marsh](https://trends.google.com/trending/rss?geo=IN)
+3. [león vs san luis](https://trends.google.com/trending/rss?geo=IN)
+4. [iqoo 16](https://trends.google.com/trending/rss?geo=IN)
+5. [उल्लू](https://trends.google.com/trending/rss?geo=IN)
+6. [emmy awards 2026](https://trends.google.com/trending/rss?geo=IN)
+7. [प्रदूषण](https://trends.google.com/trending/rss?geo=IN)
+8. [వరుణ్ చక్రవర్తి](https://trends.google.com/trending/rss?geo=IN)
+9. [i phone 17 pro price](https://trends.google.com/trending/rss?geo=IN)
+10. [chiefs vs broncos](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [From Bahrain to Riyadh: How Iran strikes battered US bases, embassies](https://timesofindia.indiatimes.com/world/us/iran-strikes-damaged-us-bases-embassies-across-8-countries-pentagon-watchdog/articleshow/134250105.cms)
-- [On Amit Shah's UCC implementation claim, 3 BJP allies sound caution](https://timesofindia.indiatimes.com/india/on-shahs-ucc-claim-3-bjp-allies-sound-caution/articleshow/134249377.cms)
-- ['He said stop bike': Gurgaon woman biker recounts moments before car hits her](https://timesofindia.indiatimes.com/city/gurgaon/he-said-stop-bike-gurgaon-woman-biker-recounts-moments-before-speeding-car-chased-harassed-then-knocked-her-down/articleshow/134249802.cms)
+- ['I could've died': Gurgaon biker rebuts driver's 'accident' defence in new video](https://timesofindia.indiatimes.com/city/gurgaon/could-have-died-after-viral-crash-video-gurgaon-biker-sia-hits-back-at-drivers-accident-defence/articleshow/134250141.cms)
+- [Indian-origin man, woman killed by train after sitting on NYC subway tracks](https://timesofindia.indiatimes.com/world/us/indian-origin-man-woman-killed-by-train-after-sitting-on-nyc-subway-tracks/articleshow/134250142.cms)
+- [No bank charges on UPI payments of up to Rs 2,000: Govt](https://timesofindia.indiatimes.com/business/india-business/upi-payments-up-to-rs-2000-to-remain-free-of-charges-govt/articleshow/134250244.cms)
 - [Michael Dell: Customers go through ‘five stages of grief’ after price hikes](https://timesofindia.indiatimes.com/technology/tech-news/michael-dell-to-goldman-sachs-investors-customers-sort-of-go-through-five-stages-of-grief-starting-with-ok-/articleshow/134250131.cms)
 - [Gavaskar urges BCCI to make big change, names Sachin, Dravid for key role](https://timesofindia.indiatimes.com/sports/cricket/news/sunil-gavaskar-urges-bcci-to-make-big-change-names-sachin-tendulkar-rahul-dravid-for-key-role/articleshow/134249829.cms)
 - [Trump’s mail ballot push hits Supreme Court roadblock ahead of crucial midterms](https://timesofindia.indiatimes.com/world/us/trumps-mail-ballot-push-hits-supreme-court-roadblock-ahead-of-crucial-midterms/articleshow/134250278.cms)
 - [Retail inflation surges to 8-month high of 4.8% in August](https://timesofindia.indiatimes.com/business/india-business/retail-inflation-surges-to-8-month-high-of-4-8-in-august/articleshow/134249473.cms)
-- [J&K: Police bust LeT-linked OGW network, arrest 3 for aiding terrorists](https://timesofindia.indiatimes.com/india/jk-police-bust-let-linked-ogw-network-arrest-3-for-aiding-terrorists/articleshow/134249990.cms)
-- [CBI files FIR in Disha Salian's death case after HC order](https://timesofindia.indiatimes.com/india/cbi-files-fir-in-disha-salians-death-case-after-hc-order/articleshow/134249326.cms)
+- [On Amit Shah's UCC implementation claim, 3 BJP allies sound caution](https://timesofindia.indiatimes.com/india/on-shahs-ucc-claim-3-bjp-allies-sound-caution/articleshow/134249377.cms)
 - [Harry and Meghan pull Archie and Lilibet from UK school over security concerns](https://timesofindia.indiatimes.com/world/uk/prince-harry-and-meghan-markle-pull-archie-and-lilibet-out-of-uk-school-after-just-two-days-over-security-concerns-sussex-children-to-move-to-another-school-after-familys-return-to-britain/articleshow/134247738.cms)
 
 **NDTV**
@@ -38,18 +38,28 @@
 - [Columbia University Sued Over Failure To Protect Pro-Palestinian Students](https://www.ndtv.com/world-news/mahmoud-khalil-sue-columbia-university-over-failure-to-protect-pro-palestinian-students-12047062#publisher=newsstand)
 
 **Hindustan Times**
+- [Rescued baby orangutan falls ill at Odisha's Nandankanan zoo, officials on alert](https://www.hindustantimes.com/india-news/one-baby-orangutan-develops-fever-at-odisha-s-nandankanan-zoo-under-observation-101789439715041.html)
+- [Rat-hole mining, used in Uttarakhand's Silkyara rescue, deployed to save Nepal workers](https://www.hindustantimes.com/india-news/rathole-mining-used-in-uttarakhands-silkyara-rescue-deployed-to-save-nepal-workers-101789437391540.html)
+- [‘She wants followers, publicity’: Gurugram crash accused's lawyer blames woman biker](https://www.hindustantimes.com/india-news/she-wants-followers-publicity-gurugram-crash-accuseds-lawyer-blames-woman-biker-sia-golf-course-kalyan-bainsla-101789436561979.html)
 - [Days after being sacked from Revanth cabinet, Konda Surekha says she will stay put in Cong, claims high command spoke to her](https://www.hindustantimes.com/india-news/days-after-being-sacked-from-revanth-cabinet-konda-surekha-says-she-will-stay-put-in-cong-claims-high-command-spoke-to-her-101789414768283.html)
 - [Karnataka welfare model inspired Trump’s $5K proposal: DKS](https://www.hindustantimes.com/india-news/karnataka-welfare-model-inspired-trump-s-5k-proposal-dks-101789414692175.html)
 - [Heavy rains after prolonged dry spell bring relief to Telugu states](https://www.hindustantimes.com/india-news/heavy-rains-after-prolonged-dry-spell-bring-relief-to-telugu-states-101789414630241.html)
 - [Man killed after bus rams eatery on NH-44 near Hyderabad](https://www.hindustantimes.com/india-news/man-killed-after-bus-rams-eatery-on-nh-44-near-hyderabad-101789414510785.html)
 - [ED gets complaint seeking probe into KPSC case](https://www.hindustantimes.com/india-news/ed-gets-complaint-seeking-probe-into-kpsc-case-101789414509047.html)
-- [Centre wants to enrich every language in India, says home minister Amit Shah](https://www.hindustantimes.com/india-news/centre-wants-to-enrich-every-language-in-india-says-home-minister-amit-shah-101789414149379.html)
+- [Set aside political differences, focus on promotion of Indian languages: Amit Shah](https://www.hindustantimes.com/india-news/centre-wants-to-enrich-every-language-in-india-says-home-minister-amit-shah-101789414149379.html)
 - [BJP largest party in Jaipur, Congress gains big in Ajmer: Rajasthan civic poll verdict redraws urban political map](https://www.hindustantimes.com/india-news/rajasthan-civic-poll-verdict-redraws-urban-political-map-congress-congress-bikaner-ajmer-udaipur-bhilwara-101789436409806.html)
-- [Assam: Congress names former MLA Sibamoni Bora as candidate for Nagaon bypoll](https://www.hindustantimes.com/india-news/assam-congress-names-former-mla-sibamoni-bora-as-candidate-for-nagaon-bypoll-101789437254516.html)
-- [Show-cause notice to Air India after Italians skip immigration: ‘Passengers incorrectly handled’](https://www.hindustantimes.com/india-news/showcause-notice-air-india-italians-skip-immigration-delhi-airport-passengers-incorrectly-handled-lufthansa-munich-101789433618154.html)
-- [Kharge slams BJP’s demand for action against inspector](https://www.hindustantimes.com/india-news/kharge-slams-bjp-s-demand-for-action-against-inspector-101789414331877.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಬೀದಿಯಲ್ಲಿ ಭಿಕ್ಷೆ ಬೇಡಿದ ಮುಂಬೈನ ಶ್ರೀಮಂತ ಶಾಸಕ ಪರಾಗ್‌ ಶಾ! 3ಸಾವಿರ ಕೋಟಿ ಆಸ್ತಿ ಒಡೆಯ ಏಕಾಏಕಿ ಭಿಕ್ಷಾಟನೆ ನಡೆಸೋಕಿದೆ ಕಾರಣ..](https://vijaykarnataka.com/news/india/parag-shah-bjps-richest-maharashtra-mla-spends-day-as-beggar-on-jain-gurus-advice/articleshow/134249978.cms)
+- [ಬೆಳ್ಳಂದೂರು ಕೆರೆ ಜೌಗು ಪ್ರದೇಶದ ಕಾಮಗಾರಿ ಪೂರ್ಣ ಎಂದು ಎನ್‌ಜಿಟಿಗೆ ವರದಿ ಸಲ್ಲಿಕೆ: ಕಳಪೆ ಕಾಮಗಾರಿ ಎಂದು ಸ್ಥಳೀಯರ ಅಸಮಾಧಾನ](https://vijaykarnataka.com/news/bengaluru-city/bellandur-lake-wetland-work-is-complete-report-submitted-to-ngt-but-locals-dissatisfied-citing-poor-quality-of-work/articleshow/134250206.cms)
+- [ʼMr.Munir You are Firedʼ; ಶಾಂತಿ ಮುಖವಾಡ ಧರಿಸಿದ್ದ ಪಾಕ್‌ ಸೇನಾ ಮುಖ್ಯಸ್ಥ ಮುನೀರ್‌ನ ಟ್ರೋಲ್‌ ಮಾಡಿದ ಇರಾನಿ ಪತ್ರಕರ್ತ!](https://vijaykarnataka.com/news/world/mr-munir-you-are-fired-iranian-journalist-questions-pakistans-role-in-west-asia-hails-modi-leadership/articleshow/134249577.cms)
+- [50ರ ನಂತರವೂ ವಿಜಯ್–ಅಜಿತ್‌ನಂತೆ ಫಿಟ್ ಆಗಿರಬೇಕಾ? ವಿಜ್ಞಾನ ಹೇಳುವ ಈ ಆರೋಗ್ಯಕರ ಅಭ್ಯಾಸಗಳನ್ನು ರೂಢಿಸಿಕೊಳ್ಳಿ!](https://vijaykarnataka.com/lifestyle/fitness/vijay-ajith-fitness-after-50-healthy-habits/articleshow/134244779.cms)
+- [ಹಾರೋಹಳ್ಳಿಗೆ ಬರಲಿದೆ 1000 ಕೋಟಿ ಕೈಗಾರಿಕಾ ಹೂಡಿಕೆ? ವಿಪ್ರೊ ಕವಾಸಕಿ ಘಟಕ ಸ್ಥಾಪನೆ ಪ್ರಸ್ತಾವನೆ, 1,200 ಉದ್ಯೋಗ ಸೃಷ್ಟಿ ನಿರೀಕ್ಷೆ](https://vijaykarnataka.com/news/ramanagara/1000-crore-rupees-industrial-investment-headed-to-harohalli-proposal-to-set-up-wipro-kawasaki-unit-1200-jobs-expected-to-be-created/articleshow/134236529.cms)
+- [ಜೀವನದಲ್ಲಿ ಎಲ್ಲಾ ಮುಗೀತು ಅನ್ಕೊಂಡಾಗ ಸಿಕ್ಕ ಧಾರಾವಾಹಿ ‘ಯಜಮಾನ’: ನಟ ಹರ್ಷ](https://vijaykarnataka.com/video/entertainment/yajamana-kannada-serial-fame-tv-actor-harsha-b-s-interview/videoshow/134250370.cms)
+- [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
+- [ದೇವರ ಪೂಜೆ ಮಾಡುವಾಗ ಕಣ್ಣೀರು ಬರುವುದರ ಹಿಂದಿರುವ ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/know-why-automatically-tears-will-come-while-doing-puja/articleshow/134249876.cms)
+- [35ರ ನಂತರ ತಂದೆಯಾಗುವುದು: ರಣವೀರ್ ಸಿಂಗ್, ವಿಕ್ಕಿ ಕೌಶಲ್ ಬಳಿಕ ಪುರುಷರ ವೀರ್ಯಾಣು ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಅಧ್ಯಾಯನ ಹೇಳುವುದೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/ranveer-singh-vicky-kaushal-fatherhood-after-35-male-fertility-sperm-health/articleshow/134236848.cms)
+- [ಮಾರಾಟ ಮಾಡಿ 6 ತಿಂಗಳಾದ್ರೂ ಬೆಳೆಗಾರರಿಗೆ 265 ಕೋಟಿ ರೂ. ರಾಗಿ ಹಣ ಬಾಕಿ: ಬರ, ಬೆಲೆ ಏರಿಕೆ ನಡುವೆ ರೈತರಿಗೆ ಸರ್ಕಾರದ ವಿಳಂಬದ ಬರೆ!](https://vijaykarnataka.com/news/chikkamagaluru/265-cr-rupees-pending-for-farmers-selling-ragi-even-after-6-months-ragi-farmers-in-distress/articleshow/134249501.cms)
 
 **The Hindu**
 - [Keralite vlogger, who claimed arrest by Mujahideen, now says she escaped arrest threat in Afghanistan](https://www.thehindu.com/news/national/kerala/keralite-vlogger-who-claimed-arrest-by-mujahideen-now-says-she-escaped-arrest-threat-in-afghanistan/article71466549.ece)
@@ -64,6 +74,7 @@
 - [Intensify protest over land acquisition: Rakesh Tikait urges Noida farmers](https://www.thehindu.com/news/national/uttar-pradesh/intensify-protest-over-land-acquisition-rakesh-tikait-urges-noida-farmers/article71466434.ece)
 
 **Livemint**
+- [Malaysia Said to Seize Another Three Containers Bound for Israel](https://www.livemint.com/news/world/malaysia-said-to-seize-another-three-containers-bound-for-israel-11789441217476.html)
 - [Oracle Layoffs: Employee says Slack access vanished at 4 am, Reddit post captures fear of AI era cuts](https://www.livemint.com/news/trends/oracle-layoffs-employee-says-slack-access-vanished-at-4-am-reddit-post-captures-fear-of-ai-era-cuts-11789438505660.html)
 - [‘Very high salary is a trap’: MBA professional pitches  ₹1.5–2 lakh per month as the ideal urban benchmark](https://www.livemint.com/news/trends/very-high-salary-is-a-trap-mba-professional-pitches-1-5-2-lakh-per-month-as-the-ideal-urban-benchmark-11789434772916.html)
 - [Kamala Harris vs Gavin Newsom in 2028? Here's what California Governor said about his presidential bid](https://www.livemint.com/news/us-news/kamala-harris-vs-gavin-newsom-in-2028-heres-what-california-governor-said-about-his-presidential-bid-11789435378287.html)
@@ -73,11 +84,22 @@
 - [CGHS maps domestic manufacturing capacity for 153 critical drugs to shorten supply delays](https://www.livemint.com/news/cghs-domestic-manufacturing-capacity-153-critical-drugs-supply-delays-oncology-diabetes-muscular-atrophy-patients-11789378837821.html)
 - [The Hip Side of Japan the Tourists Havent Figured Out Yet](https://www.livemint.com/news/the-hip-side-of-japan-the-tourists-havent-figured-out-yet-11789433332267.html)
 - [₹7.36 trillion question: Can India store enough power to keep the lights on?](https://www.livemint.com/news/india/736-trillion-question-can-india-store-enough-power-to-keep-the-lights-on-11789383023875.html)
-- [Mundhe flags 2,841% markup on hospital consumables, seeks NPPA review](https://www.livemint.com/news/mundhe-trains-guns-on-hospital-consumables-flags-2-841-price-gap-medical-devices-pricing-patients-burden-11789370825928.html)
 
-**Moneycontrol** — _unavailable_
+**Moneycontrol**
+- [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
+- [Buy Tejas Networks; target of Rs 1100: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html)
+- [Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html)
+- [Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html)
+- [Reduce Wipro; target of Rs 410: ICICI Securities](https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html)
+- [Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html)
+- [Buy Patel Engineering; target of Rs 80: ICICI Direct](https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html)
+- [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಚಾಮರಾಜನಗರ: ಹುಲಿ ದಾಳಿಗೆ ರೈತ ಬಲಿ](https://www.varthabharati.in/chamarajanagar/chamarajanagar-farmer-killed-in-tiger-attack-2275224)
+- [ಆಗಸ್ಟ್ ನಲ್ಲಿ ಚಿಲ್ಲರೆ ಹಣದುಬ್ಬರ ಶೇ.4.8ಕ್ಕೆ ಏರಿಕೆ : 8 ತಿಂಗಳಲ್ಲೇ ಗರಿಷ್ಠ ಮಟ್ಟ](https://www.varthabharati.in/National/retail-inflation-rises-to-48-in-august-highest-level-in-8-months-2275225)
 - [ಒರಾಕಲ್ ನಲ್ಲಿ ಮತ್ತೆ ಆತಂಕ ಮೂಡಿಸಿದ 6 ಗಂಟೆಯ ಇಮೇಲ್ : ಉದ್ಯೋಗ ಕಳೆದುಕೊಳ್ಳುತ್ತಿರುವ ಸಿಬ್ಬಂದಿ](https://www.varthabharati.in/international/6-am-email-sparks-fresh-anxiety-at-oracle-employees-face-job-losses-2275223)
 - [BRICS ಶೃಂಗಸಭೆ | ಇರಾನ್ ಅಧ್ಯಕ್ಷ ಪೆಜೆಶ್ಕಿಯನ್‌ ಭಾಷಣದ ವೇಳೆ ನೆಕ್ಕಿನೆಕ್ಕಿ ನಟ್ಸ್ ತಿಂದ MEA ವಕ್ತಾರ ರಣಧೀರ್‌ ಜೈಸ್ವಾಲ್‌; ಸಾಮಾಜಿಕ ಜಾಲತಾಣದಲ್ಲಿ ವೀಡಿಯೋ ವೈರಲ್](https://www.varthabharati.in/national/going-nuts-indian-diplomat-mocked-for-snacking-during-brics-speech-2275222)
 - [Hubballi | 24 ಕುರಿಗಳು ಸಾವು](https://www.varthabharati.in/dharwad/hubballi-2275220)
@@ -86,39 +108,37 @@
 - [BRICS 10 ಸದಸ್ಯ ರಾಷ್ಟ್ರಗಳ ಒಕ್ಕೂಟವೇ ಅಥವಾ 11 ಸದಸ್ಯ ರಾಷ್ಟ್ರಗಳದ್ದೇ? ಸೌದಿ ಅರೇಬಿಯದ ಸ್ಥಾನಮಾನ ಯಾಕೆ ಚರ್ಚೆಯಲ್ಲಿದೆ?](https://www.varthabharati.in/vishesha-varadigalu/is-brics-a-10-member-or-11-member-bloc-why-saudi-arabias-status-is-in-focus-2275214)
 - [79ನೇ ಕಲ್ಯಾಣ ಕರ್ನಾಟಕ ಉತ್ಸವ–2026 | ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸಿ ಉತ್ಸವ ಯಶಸ್ವಿಗೊಳಿಸಿ: ಸಚಿವ ಪ್ರಿಯಾಂಕ್ ಖರ್ಗೆ](https://www.varthabharati.in/kalaburagi/79th-kalyana-karnataka-utsava2026-participate-in-large-numbers-and-make-the-festival-a-success-priyank-kharge-2275213)
 - [Shivamogga | ಜಮೀನು ವಿಚಾರಕ್ಕೆ ಗಲಾಟೆ; ವ್ಯಕ್ತಿಗೆ ಚಾಕು ಇರಿತ](https://www.varthabharati.in/shimoga/shivamogga-2275212)
-- [West Bengal ಉಪ ಚುನಾವಣೆ | ನಂದಿಗ್ರಾಮ, ರೆಜಿನಗರ್‌ ನಲ್ಲಿ ಮಮತಾ ಬ್ಯಾನರ್ಜಿ ಬಣದ ವಿರುದ್ಧ ಬಂಡಾಯ TMC ಕಣಕ್ಕೆ](https://www.varthabharati.in/National/rebel-tmc-fields-candidates-in-nandigram-rejinagar-against-mamata-camp-2275210)
-- [ಗುರುಗ್ರಾಮ್‌ ನಲ್ಲಿ ಬೈಕ್ ಸವಾರೆಗೆ ಹಿಟ್‌ ಆ್ಯಂಡ್‌ ರನ್‌ ಪ್ರಕರಣ | ಆರೋಪಿ ಕಬಡ್ಡಿ ಪಟು ಕಲ್ಯಾಣ್‌ ಬೈನ್ಸ್ಲಾ ಯಾರು?](https://www.varthabharati.in/National/kabaddi-player-what-we-know-about-gurugram-hit-and-run-accused-kalyan-bainsla-2275209)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Trump (5.5)
-- Congress (5.2)
-- India (3.5)
+- Emkay Global Financial (5.0)
+- Congress (3.9)
+- ICICI Securities (3.0)
+- target (3.0)
+- Retail (2.6)
 - Rajasthan (2.6)
 - BRICS (2.6)
-- Air India (2.0)
+- Buy Bajaj Finance (2.0)
+- India (1.9)
+- Gurugram (1.6)
+- Indian (1.6)
 - Here's (1.6)
 - Delhi (1.6)
-- Bengal (1.6)
-- Riyadh (1.3)
-- Gurgaon (1.3)
-- Customers (1.3)
-- Gavaskar (1.3)
-- BCCI (1.3)
-- Sachin (1.3)
+- Emkay (1.5)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Time to take forward ties ‘without backsliding’, says China’s Foreign Minister](https://www.thehindu.com/news/international/time-to-take-forward-ties-without-backsliding-says-chinas-foreign-minister/article71466185.ece)
-- [तेल के बाद अब यूरेनियम: सऊदी में मिला 11 करोड़ टन खनिज, रेयर अर्थ मिनरल्स की भी भरमार](https://www.livehindustan.com/international/110-million-tonnes-of-mineral-discovered-in-saudi-arabia-after-oil-now-uranium-abundant-rare-earth-minerals-201789395724582.html)
-- [TMC के बागी गुट ने भी उतारे कैंडिडेट, रेजीनगर और नंदीग्राम उपचुनाव का मुकाबला हुआ दिलचस्प](https://www.aajtak.in/west-bengal/story/west-bengal-bypolls-rebel-tmc-candidates-nandigram-rezinagar-ntcpvp-dskc-2642788-2026-09-14)
-- [Samik Bhattacharya: 'BJP-র পতাকা হাতে নিলেই সমস্ত পাপ মুছে যাবে, এমন মনে করার কারণ নেই', বলছেন শমীক ভট্টাচার্য](https://bengali.abplive.com/district/jagdish-chandra-barma-basunia-talking-about-joining-bjp-around-durga-puja-samik-bhattacharya-reaction-on-this-1192809)
-- [Syria Diesel Prices Jump 40% Triggering Widespread Unrest](https://oilprice.com/Latest-Energy-News/World-News/Syria-Diesel-Prices-Jump-40-Triggering-Widespread-Unrest.html)
-- ['High IQ president' is all AI needs: Trump backs US lead, blames China for 'sick conspiracy'](https://timesofindia.indiatimes.com/world/us/high-iq-president-is-all-ai-needs-trump-backs-us-lead-blames-china-for-sick-conspiracy/articleshow/134242910.cms)
-- [BRICS Key Factors: దిల్లీ బ్రిక్స్ సదస్సు.. భారత్‌కు భారీ దౌత్య విజయం.. 6 అంశాలలో!](https://telugu.abplive.com/news/india/brics-summit-new-delhi-6-reasons-why-it-is-a-historic-diplomatic-win-for-india-258896)
-- [Saudi Arabia | సౌదీ అరేబియాలో 110 మిలియ‌న్ ట‌న్నుల యురేనియం నిల్వ‌లు.. యుద్ధం వేళ సౌదీ జాక్‌పాట్](https://www.ntnews.com/international/saudi-arabia-discovers-110-million-tonne-of-uranium-rich-ore-in-jabal-sayid-project-in-madinah-2510914)
-- [Ishan Kishan: 'मी मुद्दाम स्लो खेळलो', अभिषेक शर्मासाठी ईशानने का बदलला आपला गेम?](https://marathi.asianetnews.com/sports/cricket/ishan-kishan-explains-his-strategy-for-adapting-formats-and-partnerships/articleshow-upzl4ul)
-- [இடைத்தேர்தலுக்கு பிறகு தவெக அரசு மீதான இடதுசாரிகளின் அணுகுமுறை எப்படி இருக்கும்? மு.வீரபாண்டியன் தகவல்](https://www.bbc.com/tamil/articles/cx1l6rq7zq3po)
+- [IGI एयरपोर्ट पर सुरक्षा में बड़ी चूक! बिना इमिग्रेशन चेक कराए निकल लिए तीन इतालवी; हाथ मल रहा एयर इंडिया](https://www.livehindustan.com/national/big-security-lapses-at-igi-airport-3-italians-leave-delhi-without-immigration-check-ministry-issue-notice-to-air-india-201789396971220.html)
+- [ആദ്യ ടി-20 മത്സരം കളിക്കാന്‍ സഞ്ജു എന്താണ് ചെയ്തത്? രൂക്ഷ വിമര്‍ശനവുമായി മുഹമ്മദ് കൈഫ്](https://www.doolnews.com/mohammed-kaif-criticize-indian-opener-sanju-samson-65-141.html)
+- [KTR Demand | దాడి ఘటనపై సిట్టింగ్‌ జడ్జితో విచారణ జరిపించాలి : కేటీఆర్‌](https://www.ntnews.com/telangana/ktr-demands-inquiry-by-sitting-judge-into-assault-incident-2510920)
+- [Ketu Gochar 2026: કેતુનો સિંહ રાશિમાં પ્રવેશ, 90 દિવસ 6 રાશિઓ માટે વરદાન સમાન સાબિત થશે](https://gujarati.abplive.com/astro/dharam-jyotish/ketu-gocher-in-leo-lucky-zodiac-signs-money-gain-90-days-991205)
+- [चंद्राच्या सोबतीला शुक्रतारा! आकाशात ग्रहांची युती! मनमोहक नजारा कॅमेऱ्यात कैद, नेमका काय योगायोग?](https://marathi.abplive.com/news/maharashtra/moon-venus-star-news-today-venus-was-seen-close-to-the-moon-in-the-sky-1439091)
+- [ठाकरे रात्री १२ वाजता कुठे जायचे? सकाळी ६ वाजता परतायचे; बड्या नेत्याचा खळबळजनक आरोप](https://saamtv.esakal.com/maharashtra/ramdas-kadam-serious-allegations-against-uddhav-thackeray-aaditya-thackeray-midnight-movements-inquiry-demand-maratha-reservation-mumbai-goa-highway-controversy-om0906)
+- [अमेरिका के बीच AI वॉर? ब्रिक्स के अगले दिन गरमाया मोर्चा](https://www.jagran.com/news/national-us-china-ai-rivalry-intensifies-postbrics-summit-40373324.html)
+- [Tamil Nadu government signs slew of MoUs during CM Vijay’s London visit to attract investment, create high-value jobs](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-signs-slew-of-mous-during-cm-vijays-london-visit-to-attract-investment-create-high-value-jobs/article71466094.ece)
+- [തൃക്കാക്കര മോർഫിങ് കേസ്; പ്രതികൾ പ്രായപൂർത്തിയാകാത്തവരുടെയും നഗ്ന ദൃശ‍്യങ്ങൾ പ്രചരിപ്പിച്ചു, കൂടുതൽ വിവരങ്ങൾ പുറത്ത്](https://www.metrovaartha.com/news/crime/thrikkakara-morphing-case-updates)
+- [Nabanna New Holiday List: বিশ্বকর্মা পুজোর ছুটির দিন বদল, নতুন হলিডে লিস্ট জারি হল নবান্নে, কবে মিলবে ছুটি?](https://bangla.asianetnews.com/west-bengal/nabanna-new-holiday-list-declare-vishwakarma-puja-2026-holiday-on-18-september-absc/photoshow-o49n4ll)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
