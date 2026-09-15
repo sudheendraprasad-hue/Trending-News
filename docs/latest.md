@@ -1,31 +1,32 @@
-# India Trending Report — 2026-09-15 21:33:19
+# India Trending Report — 2026-09-15 22:02:09
 
 ## Google Trends (India) — top trending searches
-1. [carlos espí](https://trends.google.com/trending/rss?geo=IN)
-2. [mumbai](https://trends.google.com/trending/rss?geo=IN)
-3. [rma](https://trends.google.com/trending/rss?geo=IN)
-4. [cryptocurrency trading](https://trends.google.com/trending/rss?geo=IN)
-5. [amitabh bachchan](https://trends.google.com/trending/rss?geo=IN)
+1. [vinícius júnior](https://trends.google.com/trending/rss?geo=IN)
+2. [ed sheeran](https://trends.google.com/trending/rss?geo=IN)
+3. [mumbai](https://trends.google.com/trending/rss?geo=IN)
+4. [amitabh bachchan](https://trends.google.com/trending/rss?geo=IN)
+5. [cryptocurrency trading](https://trends.google.com/trending/rss?geo=IN)
 6. [elche cf vs real madrid lineups](https://trends.google.com/trending/rss?geo=IN)
 7. [arda güler](https://trends.google.com/trending/rss?geo=IN)
-8. [social media marketing](https://trends.google.com/trending/rss?geo=IN)
-9. [game development](https://trends.google.com/trending/rss?geo=IN)
+8. [game development](https://trends.google.com/trending/rss?geo=IN)
+9. [social media marketing](https://trends.google.com/trending/rss?geo=IN)
 10. [yan diomandé](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Meta agrees to report child-safety matters directly to Indian authorities](https://timesofindia.indiatimes.com/india/meta-agrees-to-report-csam-directly-to-indian-authorities/articleshow/134272984.cms)
 - [Kolkata Police floats Rs 89 lakh tender to dress up puja volunteers in saffron](https://timesofindia.indiatimes.com/city/kolkata/saffron-makeover-for-20k-police-volunteers/articleshow/134271199.cms)
-- [ED puts lens on IBC frauds, including excessive haircuts](https://timesofindia.indiatimes.com/india/ed-puts-lens-on-ibc-frauds-including-excessive-haircuts/articleshow/134273007.cms)
+- [SC bins ex-NSE chief Chitra Ramakrishna's plea to stop graft proceedings](https://timesofindia.indiatimes.com/india/sc-bins-ex-nse-chief-chitra-ramakrishnas-plea-to-stop-graft-proceedings/articleshow/134273360.cms)
 - [Samson's 57 off 22 establishes his role of preferred opener as India seal series](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/sanju-samsons-57-off-22-establishes-his-role-of-the-preferred-opener-as-india-beat-afghanistan-by-seven-wickets-to-seal-t20i-series/articleshow/134269649.cms)
-- ['Our father being slowly killed': Imran Khan's sons accuse Asim Munir of vendetta](https://timesofindia.indiatimes.com/world/pakistan/our-father-being-slowly-killed-imran-khans-sons-accuse-pakistans-asim-munir-of-vendetta/articleshow/134267616.cms)
+- [Pakistan raising Masood Azhar bounty a 'gimmick': India](https://timesofindia.indiatimes.com/india/pak-raising-azhar-bounty-a-gimmick-says-india/articleshow/134273152.cms)
 - ['Should be laughed out': T Mobile CFO on Musk's 'Starlink plan' for mobile industry](https://timesofindia.indiatimes.com/technology/tech-news/as-elon-musk-plans-to-shake-up-mobile-industry-with-starlink-t-mobile-ceo-peter-osvaldik-says-that-its-strategy-should-be-laughed-out-of-the-room/articleshow/134268655.cms)
+- [ED puts lens on IBC frauds, including excessive haircuts](https://timesofindia.indiatimes.com/india/ed-puts-lens-on-ibc-frauds-including-excessive-haircuts/articleshow/134273007.cms)
+- ['Our father being slowly killed': Imran Khan's sons accuse Asim Munir of vendetta](https://timesofindia.indiatimes.com/world/pakistan/our-father-being-slowly-killed-imran-khans-sons-accuse-pakistans-asim-munir-of-vendetta/articleshow/134267616.cms)
 - [Omar praises India’s foreign policy over Brics mention of Pahalgam, slams Centre on UCC](https://timesofindia.indiatimes.com/india/omar-praises-indias-foreign-policy-over-brics-mention-of-pahalgam-slams-centre-on-ucc/articleshow/134271508.cms)
 - [Good heavens! US reveals it has placed weapons in space](https://timesofindia.indiatimes.com/world/us/good-heavens-us-reveals-it-has-placed-weapons-in-space/articleshow/134269076.cms)
-- [Fee on UPI payments above Rs 2,000: Who pays and what changes for you](https://timesofindia.indiatimes.com/business/india-business/what-does-mdr-on-person-to-merchant-upi-transactions-above-rs-2000-mean-for-you-faqs-answered/articleshow/134266181.cms)
-- [$33.4bn war cost, $22.3bn on munitions: What US lost in 6 months of Iran war](https://timesofindia.indiatimes.com/defence/international/33-4bn-war-cost-22-3bn-on-munitions-what-us-lost-in-6-months-of-iran-war/articleshow/134268852.cms)
 
 **NDTV**
+- [US Announces Visa Curbs Over South Africa "Race-Based Discrimination"](https://www.ndtv.com/world-news/us-announces-visa-curbs-over-south-africa-race-based-discrimination-12051831#publisher=newsstand)
 - [Tamil Nadu CM Vijay's London Event Cancelled Over Safety Concerns](https://www.ndtv.com/india-news/tamil-nadu-cm-vijays-london-event-cancelled-over-safety-concerns-12051730#publisher=newsstand)
 - ['Trinamool Is Liability For Bypoll': Congress Leaves Mamata Banerjee On Seen](https://www.ndtv.com/india-news/nandigram-bypoll-rejinagar-bypoll-trinamool-is-liability-congress-leaves-mamata-banerjee-on-seen-12049464#publisher=newsstand)
 - [Kennedy Center Board Votes To Close Amid Financial, Trump Branding Dispute](https://www.ndtv.com/world-news/kennedy-center-board-votes-to-close-over-financial-woes-trump-branding-dispute-12051694#publisher=newsstand)
@@ -35,7 +36,6 @@
 - ["With A Heavy Heart": Emotional Post By Techie's Wife After Oracle Layoff](https://www.ndtv.com/world-news/with-a-heavy-heart-emotional-post-by-techies-wife-after-oracle-layoff-12051636#publisher=newsstand)
 - [US Redirects Military Aid From Europe, Middle East To Allies In Latin America](https://www.ndtv.com/world-news/us-redirects-military-aid-from-europe-middle-east-to-allies-in-latin-america-12051625#publisher=newsstand)
 - ["Extinction Not A Credible Risk": AI Researcher Sara Hooker To NDTV](https://www.ndtv.com/world-news/extinction-not-a-credible-risk-ai-researcher-sara-hooker-to-ndtv-12051604#publisher=newsstand)
-- ["Reckless": EU After Russian Ship Fires Flares At Danish Military Helicopter](https://www.ndtv.com/world-news/reckless-eu-after-russian-ship-fires-flares-at-danish-military-helicopter-12051597#publisher=newsstand)
 
 **Hindustan Times**
 - [‘Modi tax’: Opposition slams Centre over UPI charges on merchant transactions; Rahul, Kharge target PM](https://www.hindustantimes.com/india-news/modi-tax-opposition-slams-centre-over-upi-charges-on-merchant-transactions-rahul-gandhi-kharge-pawan-khera-target-pm-101789490367023.html)
@@ -62,7 +62,9 @@
 - [ವಂದೇ ಮಾತರಂ 2 ಪ್ಯಾರಾಗೆ ಸೀಮಿತ: ಸರ್ಕಾರಿ ಕಾರ್ಯಕ್ರಮ ಬಹಿಷ್ಕರಿಸಿ ಎದ್ದು ಹೋದ ಶಿವಮೊಗ್ಗ BJP ಶಾಸಕ ಚನ್ನಬಸಪ್ಪ!](https://vijaykarnataka.com/news/shivamogga/vande-mataram-limited-to-2-stanzas-shivamogga-bjp-mla-channabasappa-walks-out-boycotting-government-event/articleshow/134268323.cms)
 
 **The Hindu**
+- [Punjab villager death: Congress leaders stage demonstration against Minister Harpal Cheema](https://www.thehindu.com/news/national/punjab/punjab-villager-death-congress-sachin-pilot-partap-bajwa-detained-during-protest-against-cheema/article71467740.ece)
 - [Candidate dies during physical test for U.P. Home Guard recruitment](https://www.thehindu.com/news/national/uttar-pradesh/candidate-dies-during-physical-test-for-up-home-guard-recruitment/article71469982.ece)
+- [Noida workers' protest case: Allahabad HC adjourns bail plea plearing of scribe Satyam Verma](https://www.thehindu.com/news/national/uttar-pradesh/noida-workers-protest-case-allahabad-hc-adjourns-bail-plea-plearing-of-scribe-satyam-verma/article71469983.ece)
 - [Tanker El Gaia hit in the Strait of Hormuz was operating in ‘dark mode’](https://www.thehindu.com/news/international/tanker-hit-by-projectile-near-strait-of-hormuz-was-operating-in-dark-mode/article71469903.ece)
 - [Meta to share child safety information directly with Indian agencies](https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece)
 - [Agartala-Delhi flight diverted to Lucknow after smoke warning; no injuries reported](https://www.thehindu.com/news/national/uttar-pradesh/agartala-delhi-flight-diverted-to-lucknow-after-smoke-warning-no-injuries-reported/article71469954.ece)
@@ -70,8 +72,6 @@
 - [Asian Games 2026: J&K govt. allows Mir Bilquis to travel after SC intervention; to coach Indian kayaking, canoeing team](https://www.thehindu.com/news/national/jammu-and-kashmir/asian-games-2026-jk-govt-allowsmir-bilquis-to-travel-after-sc-intervention-to-coach-indian-kayaking-canoeing-team/article71469442.ece)
 - [Power discom is still heavily reliant on Tamil Nadu government’s financial support](https://www.thehindu.com/news/national/tamil-nadu/power-discom-is-still-heavily-reliant-on-tamil-nadu-governments-financial-support/article71469229.ece)
 - [MMC, Rotary Club provide five pink autos to women](https://www.thehindu.com/news/national/tamil-nadu/mmc-rotary-club-provide-five-pink-autos-to-women/article71469714.ece)
-- [IIT Palakkad researchers develop sensors for faster heparin monitoring](https://www.thehindu.com/news/national/kerala/iit-palakkad-researchers-develop-sensors-for-faster-heparin-monitoring/article71468718.ece)
-- [Man held for damaging temple idols in Tirupattur](https://www.thehindu.com/news/national/tamil-nadu/man-held-for-damaging-temple-idols-in-tirupattur/article71468255.ece)
 
 **Livemint**
 - [Taylor Swift makes first public appearance since wedding in red gingham dress at Travis Kelce’s Chiefs game](https://www.livemint.com/news/trends/taylor-swift-makes-first-public-appearance-since-wedding-in-red-gingham-dress-at-travis-kelce-s-chiefs-game-11789504969791.html)
@@ -101,34 +101,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - Indian (7.8)
-- Iran (4.2)
+- India (3.9)
 - Trump (3.2)
+- Congress (2.9)
+- Iran (2.9)
 - Meta (2.6)
-- India (2.6)
 - Pahalgam (2.6)
 - Centre (2.6)
 - Mumbai (2.6)
 - Lucknow (2.6)
 - Omar (1.6)
-- What (1.6)
-- Congress (1.6)
 - Rahul (1.6)
 - Agartala-Delhi (1.6)
 - Samson's (1.3)
+- Pakistan (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [തിരിച്ചുവരുമോ സഞ്ജു? വൈഭവ് കാത്തിരിക്കുന്നു! രണ്ടിലൊന്ന് ഇന്നറിയാം](https://www.asianetnews.com/sports-special/will-sanju-samson-make-his-comeback-in-second-t20-against-afghanistan-today-articleshow-g92vvuq)
-- [മികച്ച പ്രേക്ഷക പ്രതികരണങ്ങളോടെ സൂരി ചിത്രം 'മണ്ടാടി'; കളക്ഷനിൽ വമ്പൻ മുന്നേറ്റം](https://www.asianetnews.com/entertainment-news/mandaadi-starring-soori-worldwide-box-office-collection-articleshow-txaea17)
-- [अमेरिका ने अंतरिक्ष को बनाया जंग का नया मैदान, स्पेस में घातक हथियारों की तैनाती की पुष्टि, स्पेस में होगा महायुद्ध?](https://navbharattimes.indiatimes.com/world/america/us-confirms-weapons-deployed-in-space-orbit-space-force-new-battlefield-capabilities/articleshow/134257508.cms)
-- [पश्चिम बंगाल: IPS की वर्दी में सलाम और इंशाल्लाह... वीडियो पर विवाद, बुशरा बानो का तबादला](https://www.aajtak.in/west-bengal/story/west-bengal-ips-bushra-bano-transfer-upsc-video-salam-inshallah-ntc-dhrj-rpti-2643138-2026-09-15)
-- [Trending Video : આ નેતાને કારણે આખું પાકિસ્તાન શરમથી પાણી-પાણી, ચાર અક્ષર અંગ્રેજી વાંચવામાં થરથર કાંપ્યો MPA !](https://tv9gujarati.com/trending/trending-funny-viral-video-pakistan-mpa-shabbir-qureshi-english-reading-1515943.html)
-- [પેટ્રોલના ભાવમાં ભડકો થશે? વિશ્વમાં ઓઈલની અછતનો ખતરો, બાબ અલ-મંદેબ બાદ સાઉદીનો મુખ્ય રૂટ પણ ઠપ](https://www.gujaratsamachar.com/news/business/will-petrol-prices-spike-threat-of-oil-shortage-in-the-world-after-bab-al-mandeb-saudis-main-route-also-blocked-82015424459)
-- [US Supreme Court rejects Trump’s plans on postal ballots: Why it matters](https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters)
-- [Police detain driver for striking woman motorcyclist](https://www.bbc.com/news/articles/c9rk37k0rdpko)
-- [Amitabh Bachchan Retirement: 83 उम्र में रिटायरमेंट ले रहे अमिताभ बच्चन, KBC-बॉलीवुड को कहेंगे अलविदा? खुद ही बता दिया सच](https://www.aajtak.in/entertainment/bollywood-news/story/amitabh-bachchan-break-silence-retirement-kaun-banega-crorepati-bollywood-quitting-tmovf-dskc-2643109-2026-09-15)
-- [इस खाड़ी देश में 30 सितंबर के बाद क्या होगा, एयर डिफेंस सिस्टम हटा रहा US!](https://www.aajtak.in/world/story/iraq-us-military-moving-iraqi-militia-baghdad-american-bases-ntcppl-dskc-2643127-2026-09-15)
+- [மதுரை காவல் ஆணையர் அலுவலகம் முன் போராடியவர்கள் மீது தாக்குதல் - இந்திய கம்யூனிஸ்ட் கட்சி கண்டனம்](https://www.dailythanthi.com/news/tamilnadu/attack-on-protesters-in-front-of-madurai-police-commissioners-office-communist-party-of-india-condemns)
+- [Michigan scientists covered invasive zebra mussels with weighted lakebed mats and pumped carbon dioxide underneath; after five days, mortality of caged mussels topped 80%](https://timesofindia.indiatimes.com/science/discovery/michigan-scientists-covered-invasive-zebra-mussels-with-weighted-lakebed-mats-and-pumped-carbon-dioxide-underneath-after-five-days-mortality-of-caged-mussels-topped-80/articleshow/134257290.cms)
+- [ગુરુગ્રામ : મહિલા બાઇકર સિયાએ કહ્યું](https://www.bbc.com/gujarati/articles/c6vgyxdlqq7zo)
+- [शाहरुख खान ने देखी रणवीर सिंह की ‘धुरंधर’ और ‘धुरंधर 2’, X पर लिखा…](https://www.livehindustan.com/entertainment/bollywood/shahrukh-khan-did-asksrk-on-100-days-left-for-king-praise-ranveer-singh-blockbuster-dhurandhar-201789463711857.html)
+- [ફ્રિજ બ્લાસ્ટથી ઘર બન્યું 'સ્મશાન': એક જ પરિવારના 4 લોકોના મોત, બચવાનો મોકો જ ના મળ્યો!](https://www.gujaratsamachar.com/news/national/fridge-blast-turns-house-into-crematorium-4-members-of-the-same-family-die-no-chance-of-survival-71046909902)
+- [mandadi box office collection: ‘మండాడి’ రూ.65 కోట్ల కలెక్షన్స్‌.. జాక్‌పాట్‌ కొట్టిన నిర్మాత](https://www.eenadu.net/telugu-news/movies/mandadi-box-office-collection-worldwide/0209/126166609)
+- [New TB vaccines could save seven million lives by 2050](https://www.manoramayearbook.in/current-affairs/world/2026/09/15/new-tb-vaccines-could-save-seven-million-lives-by-2050.html)
+- [Delhi Court Grants 3 Weeks Interim Bail To Swatantra Bhardwaj In CJP Protester Assault Case](https://www.livelaw.in/news-updates/delhi-court-grants-3-weeks-interim-bail-to-swatantra-bhardwaj-in-cjp-protester-assault-case-550115)
+- [બ્રિક્સ સમિટ 2026: ભારતની અધ્યક્ષતામાં 18મી સમિટ, ગ્લોબલ સાઉથ પર ભાર](https://www.gujaratsamachar.com/news/daily-current-affairs/brics-summit-2026-18th-summit-under-indias-presidency-emphasis-on-global-south-84397247284)
+- [जरांगे मुंबईच्या दिशेने निघताच एकनाथ शिंदेंचे आवाहन, म्हणाले गणेशोत्सवात कोणतंही विघ्न…मराठ्यांचं वादळ मुंबईत धडकणार का?](https://www.tv9marathi.com/maharashtra/dcm-eknath-shinde-on-manoj-jarange-patil-over-maratha-reservation-mumbai-march-said-cooperate-during-ganeshotsav-1757026.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
