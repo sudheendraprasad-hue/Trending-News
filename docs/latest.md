@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-15 03:02:20
+# India Trending Report — 2026-09-15 03:37:39
 
 ## Google Trends (India) — top trending searches
-1. [ಭವಿಷ್ಯ](https://trends.google.com/trending/rss?geo=IN)
-2. [mitchell marsh](https://trends.google.com/trending/rss?geo=IN)
-3. [león vs san luis](https://trends.google.com/trending/rss?geo=IN)
-4. [iqoo 16](https://trends.google.com/trending/rss?geo=IN)
-5. [उल्लू](https://trends.google.com/trending/rss?geo=IN)
-6. [emmy awards 2026](https://trends.google.com/trending/rss?geo=IN)
-7. [प्रदूषण](https://trends.google.com/trending/rss?geo=IN)
-8. [వరుణ్ చక్రవర్తి](https://trends.google.com/trending/rss?geo=IN)
-9. [i phone 17 pro price](https://trends.google.com/trending/rss?geo=IN)
-10. [chiefs vs broncos](https://trends.google.com/trending/rss?geo=IN)
+1. [താലിബാന്](https://trends.google.com/trending/rss?geo=IN)
+2. [नंदीग्राम](https://trends.google.com/trending/rss?geo=IN)
+3. [power house](https://trends.google.com/trending/rss?geo=IN)
+4. [arrest](https://trends.google.com/trending/rss?geo=IN)
+5. [15](https://trends.google.com/trending/rss?geo=IN)
+6. [wwe](https://trends.google.com/trending/rss?geo=IN)
+7. [സര്ക്കാര്](https://trends.google.com/trending/rss?geo=IN)
+8. [ಭವಿಷ್ಯ](https://trends.google.com/trending/rss?geo=IN)
+9. [mitchell marsh](https://trends.google.com/trending/rss?geo=IN)
+10. [león vs san luis](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [From Bahrain to Riyadh: How Iran strikes battered US bases, embassies](https://timesofindia.indiatimes.com/world/us/iran-strikes-damaged-us-bases-embassies-across-8-countries-pentagon-watchdog/articleshow/134250105.cms)
+- [Temple care is matter of duty for me, not publicity: Ram Mandir CEO Jeetendra Mishra](https://timesofindia.indiatimes.com/city/lucknow/temple-care-is-matter-of-duty-forme-not-publicity-ram-temple-ceo/articleshow/134247547.cms)
 - ['I could've died': Gurgaon biker rebuts driver's 'accident' defence in new video](https://timesofindia.indiatimes.com/city/gurgaon/could-have-died-after-viral-crash-video-gurgaon-biker-sia-hits-back-at-drivers-accident-defence/articleshow/134250141.cms)
+- [Marc Benioff’s $2.7 mn school donation came with a rule: No hate, no discrimination](https://timesofindia.indiatimes.com/technology/tech-news/in-2013-marc-benioff-wrote-a-2-7-million-check-for-schools-in-san-francisco-that-salesforce-ceo-said-was-down-payment-on-100-million-years-later-one-condition-remains-should-be-no-/articleshow/134250378.cms)
+- [Mohsin Naqvi 'didn't object' to India refusing Asia Cup trophy from him, says BCCI](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/mohsin-naqvi-didnt-object-to-india-refusing-womens-asia-cup-trophy-from-him-says-rajeev-shukla/articleshow/134250438.cms)
+- ['First step towards safety': Meta to report child sexual abuse cases to law enforcement](https://timesofindia.indiatimes.com/india/first-step-towards-safety-meta-to-report-child-sexual-abuse-cases-to-law-enforcement/articleshow/134250815.cms)
 - [Indian-origin man, woman killed by train after sitting on NYC subway tracks](https://timesofindia.indiatimes.com/world/us/indian-origin-man-woman-killed-by-train-after-sitting-on-nyc-subway-tracks/articleshow/134250142.cms)
 - [No bank charges on UPI payments of up to Rs 2,000: Govt](https://timesofindia.indiatimes.com/business/india-business/upi-payments-up-to-rs-2000-to-remain-free-of-charges-govt/articleshow/134250244.cms)
-- [Michael Dell: Customers go through ‘five stages of grief’ after price hikes](https://timesofindia.indiatimes.com/technology/tech-news/michael-dell-to-goldman-sachs-investors-customers-sort-of-go-through-five-stages-of-grief-starting-with-ok-/articleshow/134250131.cms)
 - [Gavaskar urges BCCI to make big change, names Sachin, Dravid for key role](https://timesofindia.indiatimes.com/sports/cricket/news/sunil-gavaskar-urges-bcci-to-make-big-change-names-sachin-tendulkar-rahul-dravid-for-key-role/articleshow/134249829.cms)
-- [Trump’s mail ballot push hits Supreme Court roadblock ahead of crucial midterms](https://timesofindia.indiatimes.com/world/us/trumps-mail-ballot-push-hits-supreme-court-roadblock-ahead-of-crucial-midterms/articleshow/134250278.cms)
-- [Retail inflation surges to 8-month high of 4.8% in August](https://timesofindia.indiatimes.com/business/india-business/retail-inflation-surges-to-8-month-high-of-4-8-in-august/articleshow/134249473.cms)
-- [On Amit Shah's UCC implementation claim, 3 BJP allies sound caution](https://timesofindia.indiatimes.com/india/on-shahs-ucc-claim-3-bjp-allies-sound-caution/articleshow/134249377.cms)
 - [Harry and Meghan pull Archie and Lilibet from UK school over security concerns](https://timesofindia.indiatimes.com/world/uk/prince-harry-and-meghan-markle-pull-archie-and-lilibet-out-of-uk-school-after-just-two-days-over-security-concerns-sussex-children-to-move-to-another-school-after-familys-return-to-britain/articleshow/134247738.cms)
 
 **NDTV**
@@ -50,18 +50,19 @@
 - [BJP largest party in Jaipur, Congress gains big in Ajmer: Rajasthan civic poll verdict redraws urban political map](https://www.hindustantimes.com/india-news/rajasthan-civic-poll-verdict-redraws-urban-political-map-congress-congress-bikaner-ajmer-udaipur-bhilwara-101789436409806.html)
 
 **Vijay Karnataka**
+- [Rajasthan : ಸಿಜೆಪಿ ಹೋರಾಟದ ಮಧ್ಯೆಯೂ ಬಿಜೆಪಿಗೆ ಮುನ್ನಡೆ - ಕಾಂಗ್ರೆಸ್ಸಿಗೆ ಆಪ್, CPM ಕೊಟ್ಟ ಭಾರೀ ಹೊಡೆತ!](https://vijaykarnataka.com/news/india/explainer-rajasthan-civic-polls-2026-bjp-lead-aap-cpim-gain-warning-bell-congress/articleshow/134250613.cms)
 - [ಬೀದಿಯಲ್ಲಿ ಭಿಕ್ಷೆ ಬೇಡಿದ ಮುಂಬೈನ ಶ್ರೀಮಂತ ಶಾಸಕ ಪರಾಗ್‌ ಶಾ! 3ಸಾವಿರ ಕೋಟಿ ಆಸ್ತಿ ಒಡೆಯ ಏಕಾಏಕಿ ಭಿಕ್ಷಾಟನೆ ನಡೆಸೋಕಿದೆ ಕಾರಣ..](https://vijaykarnataka.com/news/india/parag-shah-bjps-richest-maharashtra-mla-spends-day-as-beggar-on-jain-gurus-advice/articleshow/134249978.cms)
 - [ಬೆಳ್ಳಂದೂರು ಕೆರೆ ಜೌಗು ಪ್ರದೇಶದ ಕಾಮಗಾರಿ ಪೂರ್ಣ ಎಂದು ಎನ್‌ಜಿಟಿಗೆ ವರದಿ ಸಲ್ಲಿಕೆ: ಕಳಪೆ ಕಾಮಗಾರಿ ಎಂದು ಸ್ಥಳೀಯರ ಅಸಮಾಧಾನ](https://vijaykarnataka.com/news/bengaluru-city/bellandur-lake-wetland-work-is-complete-report-submitted-to-ngt-but-locals-dissatisfied-citing-poor-quality-of-work/articleshow/134250206.cms)
-- [ʼMr.Munir You are Firedʼ; ಶಾಂತಿ ಮುಖವಾಡ ಧರಿಸಿದ್ದ ಪಾಕ್‌ ಸೇನಾ ಮುಖ್ಯಸ್ಥ ಮುನೀರ್‌ನ ಟ್ರೋಲ್‌ ಮಾಡಿದ ಇರಾನಿ ಪತ್ರಕರ್ತ!](https://vijaykarnataka.com/news/world/mr-munir-you-are-fired-iranian-journalist-questions-pakistans-role-in-west-asia-hails-modi-leadership/articleshow/134249577.cms)
 - [50ರ ನಂತರವೂ ವಿಜಯ್–ಅಜಿತ್‌ನಂತೆ ಫಿಟ್ ಆಗಿರಬೇಕಾ? ವಿಜ್ಞಾನ ಹೇಳುವ ಈ ಆರೋಗ್ಯಕರ ಅಭ್ಯಾಸಗಳನ್ನು ರೂಢಿಸಿಕೊಳ್ಳಿ!](https://vijaykarnataka.com/lifestyle/fitness/vijay-ajith-fitness-after-50-healthy-habits/articleshow/134244779.cms)
-- [ಹಾರೋಹಳ್ಳಿಗೆ ಬರಲಿದೆ 1000 ಕೋಟಿ ಕೈಗಾರಿಕಾ ಹೂಡಿಕೆ? ವಿಪ್ರೊ ಕವಾಸಕಿ ಘಟಕ ಸ್ಥಾಪನೆ ಪ್ರಸ್ತಾವನೆ, 1,200 ಉದ್ಯೋಗ ಸೃಷ್ಟಿ ನಿರೀಕ್ಷೆ](https://vijaykarnataka.com/news/ramanagara/1000-crore-rupees-industrial-investment-headed-to-harohalli-proposal-to-set-up-wipro-kawasaki-unit-1200-jobs-expected-to-be-created/articleshow/134236529.cms)
+- [ʼMr.Munir You are Firedʼ; ಶಾಂತಿ ಮುಖವಾಡ ಧರಿಸಿದ್ದ ಪಾಕ್‌ ಸೇನಾ ಮುಖ್ಯಸ್ಥ ಮುನೀರ್‌ನ ಟ್ರೋಲ್‌ ಮಾಡಿದ ಇರಾನಿ ಪತ್ರಕರ್ತ!](https://vijaykarnataka.com/news/world/mr-munir-you-are-fired-iranian-journalist-questions-pakistans-role-in-west-asia-hails-modi-leadership/articleshow/134249577.cms)
 - [ಜೀವನದಲ್ಲಿ ಎಲ್ಲಾ ಮುಗೀತು ಅನ್ಕೊಂಡಾಗ ಸಿಕ್ಕ ಧಾರಾವಾಹಿ ‘ಯಜಮಾನ’: ನಟ ಹರ್ಷ](https://vijaykarnataka.com/video/entertainment/yajamana-kannada-serial-fame-tv-actor-harsha-b-s-interview/videoshow/134250370.cms)
 - [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
 - [ದೇವರ ಪೂಜೆ ಮಾಡುವಾಗ ಕಣ್ಣೀರು ಬರುವುದರ ಹಿಂದಿರುವ ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/know-why-automatically-tears-will-come-while-doing-puja/articleshow/134249876.cms)
 - [35ರ ನಂತರ ತಂದೆಯಾಗುವುದು: ರಣವೀರ್ ಸಿಂಗ್, ವಿಕ್ಕಿ ಕೌಶಲ್ ಬಳಿಕ ಪುರುಷರ ವೀರ್ಯಾಣು ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಅಧ್ಯಾಯನ ಹೇಳುವುದೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/ranveer-singh-vicky-kaushal-fatherhood-after-35-male-fertility-sperm-health/articleshow/134236848.cms)
-- [ಮಾರಾಟ ಮಾಡಿ 6 ತಿಂಗಳಾದ್ರೂ ಬೆಳೆಗಾರರಿಗೆ 265 ಕೋಟಿ ರೂ. ರಾಗಿ ಹಣ ಬಾಕಿ: ಬರ, ಬೆಲೆ ಏರಿಕೆ ನಡುವೆ ರೈತರಿಗೆ ಸರ್ಕಾರದ ವಿಳಂಬದ ಬರೆ!](https://vijaykarnataka.com/news/chikkamagaluru/265-cr-rupees-pending-for-farmers-selling-ragi-even-after-6-months-ragi-farmers-in-distress/articleshow/134249501.cms)
+- [ಹಾರೋಹಳ್ಳಿಗೆ ಬರಲಿದೆ 1000 ಕೋಟಿ ಕೈಗಾರಿಕಾ ಹೂಡಿಕೆ? ವಿಪ್ರೊ ಕವಾಸಕಿ ಘಟಕ ಸ್ಥಾಪನೆ ಪ್ರಸ್ತಾವನೆ, 1,200 ಉದ್ಯೋಗ ಸೃಷ್ಟಿ ನಿರೀಕ್ಷೆ](https://vijaykarnataka.com/news/ramanagara/1000-crore-rupees-industrial-investment-headed-to-harohalli-proposal-to-set-up-wipro-kawasaki-unit-1200-jobs-expected-to-be-created/articleshow/134236529.cms)
 
 **The Hindu**
+- [U.S. military says Iran war has led to munitions shortfall](https://www.thehindu.com/news/national/us-military-says-iran-war-has-led-to-munitions-shortfall/article71466628.ece)
 - [Keralite vlogger, who claimed arrest by Mujahideen, now says she escaped arrest threat in Afghanistan](https://www.thehindu.com/news/national/kerala/keralite-vlogger-who-claimed-arrest-by-mujahideen-now-says-she-escaped-arrest-threat-in-afghanistan/article71466549.ece)
 - [Air India gets show-cause notice over Italian passengers skipping immigration at Delhi airport](https://www.thehindu.com/news/national/air-india-gets-show-cause-notice-over-italian-passengers-skipping-immigration-at-delhi-airport/article71466538.ece)
 - [U.S. lawmaker submits amendment naming India in Russia sanctions act](https://www.thehindu.com/news/international/us-lawmaker-submits-amendment-naming-india-in-russia-sanctions-act/article71466531.ece)
@@ -71,7 +72,6 @@
 - [CJI says judiciary cannot earn public trust by shielding itself from scrutiny](https://www.thehindu.com/news/national/cji-says-judiciary-can-not-earn-public-trust-by-shielding-itself-from-scrutiny/article71466330.ece)
 - [Ritabrata-led TMC camp names candidates for Bengal bypolls](https://www.thehindu.com/news/national/west-bengal/ritabrata-led-tmc-camp-names-candidates-for-bengal-bypolls/article71466463.ece)
 - [U.P. Congress seeks one-time relief for State teacher recruitment exam candidates over new eligibility rules](https://www.thehindu.com/news/national/uttar-pradesh/up-congress-seeks-one-time-relief-for-state-teacher-recruitment-exam-candidates-over-new-eligibility-rules/article71466250.ece)
-- [Intensify protest over land acquisition: Rakesh Tikait urges Noida farmers](https://www.thehindu.com/news/national/uttar-pradesh/intensify-protest-over-land-acquisition-rakesh-tikait-urges-noida-farmers/article71466434.ece)
 
 **Livemint**
 - [Malaysia Said to Seize Another Three Containers Bound for Israel](https://www.livemint.com/news/world/malaysia-said-to-seize-another-three-containers-bound-for-israel-11789441217476.html)
@@ -110,35 +110,35 @@
 - [Shivamogga | ಜಮೀನು ವಿಚಾರಕ್ಕೆ ಗಲಾಟೆ; ವ್ಯಕ್ತಿಗೆ ಚಾಕು ಇರಿತ](https://www.varthabharati.in/shimoga/shivamogga-2275212)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (5.5)
 - Emkay Global Financial (5.0)
+- Trump (4.2)
 - Congress (3.9)
+- Rajasthan (3.9)
+- India (3.2)
 - ICICI Securities (3.0)
 - target (3.0)
-- Retail (2.6)
-- Rajasthan (2.6)
+- BCCI (2.6)
 - BRICS (2.6)
 - Buy Bajaj Finance (2.0)
-- India (1.9)
+- Iran (1.6)
 - Gurugram (1.6)
 - Indian (1.6)
 - Here's (1.6)
 - Delhi (1.6)
-- Emkay (1.5)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [IGI एयरपोर्ट पर सुरक्षा में बड़ी चूक! बिना इमिग्रेशन चेक कराए निकल लिए तीन इतालवी; हाथ मल रहा एयर इंडिया](https://www.livehindustan.com/national/big-security-lapses-at-igi-airport-3-italians-leave-delhi-without-immigration-check-ministry-issue-notice-to-air-india-201789396971220.html)
-- [ആദ്യ ടി-20 മത്സരം കളിക്കാന്‍ സഞ്ജു എന്താണ് ചെയ്തത്? രൂക്ഷ വിമര്‍ശനവുമായി മുഹമ്മദ് കൈഫ്](https://www.doolnews.com/mohammed-kaif-criticize-indian-opener-sanju-samson-65-141.html)
-- [KTR Demand | దాడి ఘటనపై సిట్టింగ్‌ జడ్జితో విచారణ జరిపించాలి : కేటీఆర్‌](https://www.ntnews.com/telangana/ktr-demands-inquiry-by-sitting-judge-into-assault-incident-2510920)
-- [Ketu Gochar 2026: કેતુનો સિંહ રાશિમાં પ્રવેશ, 90 દિવસ 6 રાશિઓ માટે વરદાન સમાન સાબિત થશે](https://gujarati.abplive.com/astro/dharam-jyotish/ketu-gocher-in-leo-lucky-zodiac-signs-money-gain-90-days-991205)
-- [चंद्राच्या सोबतीला शुक्रतारा! आकाशात ग्रहांची युती! मनमोहक नजारा कॅमेऱ्यात कैद, नेमका काय योगायोग?](https://marathi.abplive.com/news/maharashtra/moon-venus-star-news-today-venus-was-seen-close-to-the-moon-in-the-sky-1439091)
-- [ठाकरे रात्री १२ वाजता कुठे जायचे? सकाळी ६ वाजता परतायचे; बड्या नेत्याचा खळबळजनक आरोप](https://saamtv.esakal.com/maharashtra/ramdas-kadam-serious-allegations-against-uddhav-thackeray-aaditya-thackeray-midnight-movements-inquiry-demand-maratha-reservation-mumbai-goa-highway-controversy-om0906)
-- [अमेरिका के बीच AI वॉर? ब्रिक्स के अगले दिन गरमाया मोर्चा](https://www.jagran.com/news/national-us-china-ai-rivalry-intensifies-postbrics-summit-40373324.html)
-- [Tamil Nadu government signs slew of MoUs during CM Vijay’s London visit to attract investment, create high-value jobs](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-signs-slew-of-mous-during-cm-vijays-london-visit-to-attract-investment-create-high-value-jobs/article71466094.ece)
-- [തൃക്കാക്കര മോർഫിങ് കേസ്; പ്രതികൾ പ്രായപൂർത്തിയാകാത്തവരുടെയും നഗ്ന ദൃശ‍്യങ്ങൾ പ്രചരിപ്പിച്ചു, കൂടുതൽ വിവരങ്ങൾ പുറത്ത്](https://www.metrovaartha.com/news/crime/thrikkakara-morphing-case-updates)
-- [Nabanna New Holiday List: বিশ্বকর্মা পুজোর ছুটির দিন বদল, নতুন হলিডে লিস্ট জারি হল নবান্নে, কবে মিলবে ছুটি?](https://bangla.asianetnews.com/west-bengal/nabanna-new-holiday-list-declare-vishwakarma-puja-2026-holiday-on-18-september-absc/photoshow-o49n4ll)
+- [మోడీకి నితీష్ కుమార్ బిగ్ ఝలక్..! పార్లమెంట్ లో మద్దతిచ్చి, ఇప్పుడు యూటర్న్..!](https://telugu.oneindia.com/news/india/from-parliament-support-to-u-turn-nitish-s-jd-u-shifts-stand-on-ucc-after-amit-shah-s-push-506219.html)
+- [બાંગ્લાદેશ લિંક ધરાવતી આંતરરાજ્ય બોમ્બ ધમકી ઈ-મેઇલ સિન્ડિકેટનો પર્દાફાશ, બે મુખ્ય આરોપીઓની ધરપકડ](https://www.gujaratsamachar.com/news/ahmedabad/cyber-center-exposes-interstate-bomb-threat-email-syndicate-bangladesh-link-29729390446)
+- [എഐ വിഡിയോ സന്തോഷമുണ്ടാക്കി: മുഖ്യമന്ത്രി- AI Dance Video](https://www.manoramaonline.com/news/latest-news/2026/09/14/cm-vd-satheesan-on-viral-ai-dance-video.html)
+- [Ravi Kishan approves as content creator Siddhant Shetty mimics him, leaves Samay Raina in splits on India's Got Latent](https://www.hindustantimes.com/entertainment/web-series/ravi-kishan-approves-as-content-creator-siddhant-shetty-mimics-him-leaves-samay-raina-in-splits-on-indias-got-latent-101789369754675.html)
+- [वृषभ राशिफल 15 सितंबर: वृषभ राशि आज काम और प्रोग्रेस पर रखें नजर, पढ़ें Taurus Horoscope](https://www.livehindustan.com/astrology/aaj-ka-vrishabh-rashifal-taurus-horoscope-today-15-september-2026-future-predictions-201789398713917.html)
+- [યુ.કે. વિભાજનના માર્ગે ? સ્કોટલેન્ડ, વેલ્સ અને નોર્ધન આયર્લેન્ડના નેતાઓ સંપૂર્ણ સ્વાતંત્ર્ય વિષે ચર્ચા કરે છે](https://www.gujaratsamachar.com/news/international/uk-on-the-path-to-partition-leaders-of-scotland-wales-and-northern-ireland-discuss-full-independence-12148969621)
+- [Sunita Ahuja breaks silence on Govinda's absence from Ganesh Chaturthi celebrations after cheating allegations: 'He's in America, but it's his house, he has to..'](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunita-ahuja-breaks-silence-on-govindas-absence-from-ganesh-chaturthi-celebrations-after-cheating-allegations-hes-in-america-but-its-his-house-he-has-to-/articleshow/134243573.cms)
+- [पीले सूट में छाईं सामंथा रुथ प्रभु, गोदभराई की तस्वीरों में चेहरे पर दिखा प्रेग्नेंसी ग्लो](https://www.livehindustan.com/entertainment/bollywood/samantha-ruth-prabhu-baby-shower-actress-glowing-yellow-suit-201789396423292.html)
+- [मक्का पैक्ट की परीक्षा में मुनीर फेल: MBS की मदद से क्यों पीछे हट रहे पाक फील्ड मार्शल](https://www.jagran.com/world/pakistan-why-pakistan-asim-munir-is-backing-away-from-mecca-pact-despite-saudi-ties-amid-houthi-conflict-40373360.html)
+- [शेखर सुमन ने पूछा- ज्योतिषी को इतना सुंदर दिखने की जरूरत है? जवाब सुन रह गए हैरान](https://www.aajtak.in/religion/spirituality/story/shekhar-suman-tonite-show-jai-madaan-asked-does-an-astrologer-really-need-to-look-beautiful-tvisu-dskc-2642718-2026-09-14)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
