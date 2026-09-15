@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-15 12:39:59
+# India Trending Report — 2026-09-15 13:03:07
 
 ## Google Trends (India) — top trending searches
-1. [weather bengaluru](https://trends.google.com/trending/rss?geo=IN)
-2. [દિવાળી](https://trends.google.com/trending/rss?geo=IN)
-3. [நயினார் நாகேந்திரன்](https://trends.google.com/trending/rss?geo=IN)
-4. [ಇಶಾನ್ ಕಿಶನ್](https://trends.google.com/trending/rss?geo=IN)
-5. [केंद्र सरकार](https://trends.google.com/trending/rss?geo=IN)
-6. [knruhs](https://trends.google.com/trending/rss?geo=IN)
-7. [രമേശ് ചെന്നിത്തല](https://trends.google.com/trending/rss?geo=IN)
-8. [సాక్షి](https://trends.google.com/trending/rss?geo=IN)
-9. [india](https://trends.google.com/trending/rss?geo=IN)
-10. [backpacker arunima](https://trends.google.com/trending/rss?geo=IN)
+1. [ഇന്ത്യ](https://trends.google.com/trending/rss?geo=IN)
+2. [స్టాక్ మార్కెట్](https://trends.google.com/trending/rss?geo=IN)
+3. [al nassr fc](https://trends.google.com/trending/rss?geo=IN)
+4. [बुध](https://trends.google.com/trending/rss?geo=IN)
+5. [weather bengaluru](https://trends.google.com/trending/rss?geo=IN)
+6. [દિવાળી](https://trends.google.com/trending/rss?geo=IN)
+7. [ಇಶಾನ್ ಕಿಶನ್](https://trends.google.com/trending/rss?geo=IN)
+8. [நயினார் நாகேந்திரன்](https://trends.google.com/trending/rss?geo=IN)
+9. [केंद्र सरकार](https://trends.google.com/trending/rss?geo=IN)
+10. [knruhs](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [‘Such gimmicks are not new’: India on Pak raising bounty on Masood Azhar](https://timesofindia.indiatimes.com/india/such-gimmicks-are-nothing-new-india-slams-pakistan-over-phoney-announcement-of-rs-70-lakh-bounty-on-masood-azhar/articleshow/134260390.cms)
+- [Rapido fined Rs 10 lakh for misleading tipping prompts, dark patterns](https://timesofindia.indiatimes.com/business/india-business/ccpa-fines-rapido-rs-10-lakh-for-misleading-tipping-prompts-dark-patterns/articleshow/134262677.cms)
+- [‘Don't turn outer space into warzone’: China slams US deployment of weapons in space](https://timesofindia.indiatimes.com/defence/international/dont-turn-outer-space-into-warzone-china-slams-us-deployment-of-weapons-in-space/articleshow/134261321.cms)
 - [Russia oil squeeze, China competition, Saudi pipeline shut: India's crude crunch](https://timesofindia.indiatimes.com/business/india-business/russian-oil-squeeze-china-competition-saudi-pipeline-shut-why-india-faces-a-crude-triple-whammy/articleshow/134259323.cms)
 - [Gurgaon hit-and-run case: Accused made to kneel before car after arrest - watch](https://timesofindia.indiatimes.com/india/gurgaon-hit-and-run-case-accused-kalyan-bainsla-made-to-kneel-before-car-bandaged-hand-visible-watch/articleshow/134260336.cms)
-- ['Why no one understands his position': Ashwin on Sanju Samson’s future](https://timesofindia.indiatimes.com/sports/cricket/news/why-no-one-understands-his-position-ashwin-has-one-big-question-about-sanju-samsons-india-future/articleshow/134261453.cms)
 - [As billionaires warn of exits, Airbnb buys New York building for $81.5 mn](https://timesofindia.indiatimes.com/technology/tech-news/as-some-billionaires-warn-of-exits-after-new-york-mayor-zohran-mamdanis-rent-freeze-airbnb-buys-park-avenue-building-for-81-5-million-at-what-is-being-called-a-big-premium/articleshow/134259019.cms)
 - [Rs 3.25 lakh meant for father went to wrong account; Karnataka HC orders refund](https://timesofindia.indiatimes.com/business/india-business/she-transferred-rs-3-25-lakh-to-her-father-but-last-4-account-digits-were-wrong-money-went-to-another-account-karnataka-high-court-orders-bank-to-return-it/articleshow/134256222.cms)
-- [Satellites, missiles or something else? US admits it has 'on-orbit' weapons for first time](https://timesofindia.indiatimes.com/defence/international/satellites-missiles-or-something-else-us-admits-it-has-on-orbit-weapons-for-first-time/articleshow/134256786.cms)
+- ['Why no one understands his position': Ashwin on Sanju Samson’s future](https://timesofindia.indiatimes.com/sports/cricket/news/why-no-one-understands-his-position-ashwin-has-one-big-question-about-sanju-samsons-india-future/articleshow/134261453.cms)
+- [2 US personnel suffer 'minor injuries' after accidental shooting in Eswatini](https://timesofindia.indiatimes.com/world/rest-of-world/2-us-personnel-suffer-minor-injuries-after-accidental-shooting-in-eswatini/articleshow/134263462.cms)
 - [‘Intention of accused was to kill’: Cops on Gurgaon hit-and-run case; 2 arrested](https://timesofindia.indiatimes.com/city/gurgaon/intention-of-accused-was-to-kill-dcp-sandeep-kumar-on-gurgaon-hit-and-run-case/articleshow/134258671.cms)
-- ['Perfect in doing drama': SC gives Rajpal Yadav final chance to deposit Rs 2 crore](https://timesofindia.indiatimes.com/india/perfect-in-doing-drama-sc-gives-rajpal-yadav-final-chance-to-deposit-rs-2-crore/articleshow/134258599.cms)
-- [Russia backs Trump's energy truce plan with Ukraine, seeks sanctions relief](https://timesofindia.indiatimes.com/world/europe/russia-backs-trumps-energy-truce-plan-with-ukraine-seeks-sanctions-relief/articleshow/134261510.cms)
 
 **NDTV**
 - [2 DMK Leaders Charged For Defamatory Remarks Against Vijay](https://www.ndtv.com/india-news/2-dmk-leaders-charged-for-defamatory-remarks-against-vijay-12049681#publisher=newsstand)
@@ -39,7 +39,7 @@
 
 **Hindustan Times**
 - [‘Three mutuals’ should guide India-China ties: PM Modi told Xi Jinping during BRICS bilateral](https://www.hindustantimes.com/india-news/three-mutuals-should-guide-india-china-ties-pm-modi-told-xi-jinping-during-brics-bilateral-101789472201754.html)
-- [Facing pushback, Fadnavis pauses online shift for MPSC recruitment exam](https://www.hindustantimes.com/india-news/facing-pushback-fadnavis-pauses-online-shift-for-mpsc-recruitment-exam-101789473862738.html)
+- [Facing pushback, Fadnavis pauses online shift for MPSC recruitment exams](https://www.hindustantimes.com/india-news/facing-pushback-fadnavis-pauses-online-shift-for-mpsc-recruitment-exam-101789473862738.html)
 - [BEST bus collides with metro pillar in Goregaon, 2 injured: Police](https://www.hindustantimes.com/india-news/best-bus-collides-with-metro-pillar-in-goregaon-2-injured-police-101789473142373.html)
 - [Gurugram hit-and-run: Kalyan Bainsla's cousin Lavnish Gurjar arrested from Rajasthan's Dausa](https://www.hindustantimes.com/india-news/gurugram-hit-and-run-case-kalyan-bainslas-cousin-lavnish-gurjar-arrested-in-rajasthan-biker-crash-video-sia-101789471786913.html)
 - ['How can anyone trust him?' SC raps Rajpal Yadav, extends time to pay  ₹2 crore in cheque bounce cases](https://www.hindustantimes.com/india-news/sc-deprecates-rajpal-yadav-s-conduct-extends-time-to-pay-2cr-in-cheque-cases-101789470682286.html)
@@ -50,31 +50,31 @@
 - [No breakthrough in probe into trafficking of five orangutans found in Odisha](https://www.hindustantimes.com/india-news/no-breakthrough-in-probe-into-trafficking-of-five-orangutans-found-in-odisha-101789469480623.html)
 
 **Vijay Karnataka**
+- [ನಾಳೆ ಹವಾಮಾನ: ರಾಜ್ಯದಲ್ಲಿ ಬುಧವಾರ ಬೆಂಗಳೂರು ಸೇರಿ 9 ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಗುಡುಗು ಸಹಿತ ಮಳೆ; ಯೆಲ್ಲೋ ಅಲರ್ಟ್ ಘೋಷಣೆ!](https://vijaykarnataka.com/news/karnataka/tomorrow-weather-rain-thunderstorms-expected-in-9-districts-of-karnataka-on-september-16-wednesday-yellow-alert-issued/articleshow/134262191.cms)
+- [ಇಂಗ್ಲೆಂಡ್ ನಲ್ಲಿ ಸೋತುಸುಣ್ಣವಾದ ಪಾಕ್ ತಂಡದ ಕತೆ ಗೊತ್ತಿಲ್ಲ; ಪದಾರ್ಪಣೆಯಲ್ಲೇ ಮಿಂಚಿದ ರಜಾವುಲ್ಲಾಗೆ ಮಾತ್ರ ರಾಜಮರ್ಯಾದೆಯ ಸ್ವಾಗತ!](https://vijaykarnataka.com/sports/cricket/news/grand-welcome-to-pakistans-young-all-rounder-razaullah-in-islamabad/articleshow/134261688.cms)
 - [Brendan Taylor 22 ವರ್ಷ 148 ದಿನದ ಸುದೀರ್ಘ ODI ವೃತ್ತಿಜೀವನ; ಸದ್ದಿಲ್ಲದೆ ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಮತ್ತೊಂದು ವಿಶ್ವದಾಖಲೆ ಪತನ](https://vijaykarnataka.com/sports/cricket/news/brendan-taylor-breaks-sachin-tendulkars-world-record-of-longest-serving-odi-player/articleshow/134259612.cms)
-- [ಹುರೂನ್‌ ಇಂಡಿಯಾ ‘ಚೀತಾ’ ಸೂಚ್ಯಂಕ : 36 ನವೋದ್ಯಮಗಳೊಂದಿಗೆ ಬೆಂಗಳೂರಿಗೆ ದೇಶದಲ್ಲೇ ಅಗ್ರ ಸ್ಥಾನ](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-tops-the-country-in-the-hurun-india-cheetah-index/articleshow/134260301.cms)
-- [ಕೇಂದ್ರ ಸರ್ಕಾರದಿಂದ 'ಯುಪಿಐ ಲೂಟಿ': ನರೇಂದ್ರ ಮೋದಿ ಜನರ ಅಳಿದುಳಿದ ಹಣವನ್ನೂ ನುಂಗುತ್ತಾರೆ ಎಂದ ರಾಹುಲ್‌ ಗಾಂಧಿ!](https://vijaykarnataka.com/news/india/rahul-gandhi-strong-criticism-for-new-upi-rules-accuses-quietly-opened-new-door-to-impose-fees/articleshow/134258713.cms)
 - [ಸಣ್ಣ ಜಿರಳೆಗಳ ಕಾಟಕ್ಕೆ ಬ್ರೇಕ್! ಬೇಕಿಂಗ್ ಸೋಡಾ–ಸಕ್ಕರೆ, ವಿನೆಗರ್ ಹೀಗೆ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/baking-soda-sugar-white-vinegar-spray-get-rid-baby-cockroaches-kitchen/articleshow/134257562.cms)
-- [1980 ಫೋಟೋ ಟ್ರೆಂಡ್‌ನಲ್ಲಿ ನೀವು ಅಪ್ಲೋಡ್‌ ಮಾಡಿದ್ದು ಸರಿನಾ? ತಪ್ಪಾ? ಸೈಬರ್‌ ತಜ್ಞ ಫಣೀಂದರ್‌ ವಿಶೇಷ ಸಂದರ್ಶನ!](https://vijaykarnataka.com/news/karnataka/80s-trend-photos-upload-what-is-the-effect-your-persaonol-id-cyber-expert-phaneendar-bn-interview/videoshow/134262699.cms)
+- [ಹುರೂನ್‌ ಇಂಡಿಯಾ ‘ಚೀತಾ’ ಸೂಚ್ಯಂಕ : 36 ನವೋದ್ಯಮಗಳೊಂದಿಗೆ ಬೆಂಗಳೂರಿಗೆ ದೇಶದಲ್ಲೇ ಅಗ್ರ ಸ್ಥಾನ](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-tops-the-country-in-the-hurun-india-cheetah-index/articleshow/134260301.cms)
 - [ಸಮಂತಾ ಸೀಮಂತ ಶಾಸ್ತ್ರ: ಪತ್ನಿಗೆ ಮದುವೆ ಆದ ಜಾಗದಲ್ಲಿಯೇ ಗರ್ಭ ಸಂಸ್ಕಾರ ಮಾಡಿಸಿದ ರಾಜ್ ನಿಡಿಮೋರು!](https://vijaykarnataka.com/entertainment/news/traditional-baby-shower-ceremony-for-actress-samantha-ruth-prabhu/articleshow/134247474.cms)
 - [ಹೆಚ್ಚು ಗಂಟೆಗಳ ಕೆಲಸ ಹೃದಯಕ್ಕೆ ಅಪಾಯವೇ? ಕೆಲಸದ ಒತ್ತಡದಿಂದ ಹೃದಯಾಘಾತದ ಅಪಾಯ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/health/world-heart-day-2026-long-working-hours-heart-attack-risk/articleshow/134193727.cms)
 - [ಚಾಣಕ್ಯ ನೀತಿ: ಸಂಬಂಧಿಕರ ಮನೆಗೆ ಹೋದಾಗ ಪಾಲಿಸಬೇಕಾದ ನಿಯಮಗಳು.!](https://vijaykarnataka.com/religion/hinduism/chanakya-niti-says-do-not-do-these-mistakes-while-you-went-for-relatives-home/articleshow/134262305.cms)
 - [ನೀತಾ ಅಂಬಾನಿ ಗಣೇಶೋತ್ಸವಕ್ಕೆ ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಕುಟುಂಬ: ಸಾನಿಯಾ ಚಾಂದೋಕ್ ಸಾಂಪ್ರದಾಯಿಕ ಲುಕ್‌ಗೆ ವಿಶೇಷ ಗಮನ](https://vijaykarnataka.com/lifestyle/fashion/sachin-tendulkar-family-visit-nita-ambani-ganpati-antilia-sania-chandok-look/articleshow/134255344.cms)
-- [ಕಲ್ಯಾಣ ಕರ್ನಾಟಕ ಉತ್ಸವ ದಿನಾಚರಣೆ: 7 ಜಿಲ್ಲೆಯಲ್ಲಿ ಧ್ವಜಾರೋಹಣಕ್ಕೆ ಸಚಿವರ ನೇಮಿಸಿ ಸರ್ಕಾರ ಆದೇಶ; ಬಳ್ಳಾರಿ ಹೊಣೆ ಯಾರಿಗೆ?](https://vijaykarnataka.com/news/karnataka/kalyana-karnataka-utsava-day-celebration-ministers-appointed-to-hoist-flags-in-7-districts-government-order/articleshow/134258979.cms)
+- [ಕೇಂದ್ರ ಸರ್ಕಾರದಿಂದ 'ಯುಪಿಐ ಲೂಟಿ': ನರೇಂದ್ರ ಮೋದಿ ಜನರ ಅಳಿದುಳಿದ ಹಣವನ್ನೂ ನುಂಗುತ್ತಾರೆ ಎಂದ ರಾಹುಲ್‌ ಗಾಂಧಿ!](https://vijaykarnataka.com/news/india/rahul-gandhi-strong-criticism-for-new-upi-rules-accuses-quietly-opened-new-door-to-impose-fees/articleshow/134258713.cms)
 
 **The Hindu**
-- [Seven arrested over 'purification' near KCR's farmhouse](https://www.thehindu.com/news/national/telangana/seven-arrested-over-purification-near-kcrs-farmhouse/article71468176.ece)
-- [Study on Keralam ELSA-3 shipwreck shows persistent nurdle pollution, evolving ecological impacts](https://www.thehindu.com/sci-tech/energy-and-environment/study-on-keralam-elsa-3-shipwreck-shows-persistent-nurdle-pollution-evolving-ecological-impacts/article71467312.ece)
-- [ED letter seeking FIR against former Keralam CM Pinarayi Vijayan and others sent to State government: SPC](https://www.thehindu.com/news/national/kerala/ed-letter-seeking-fir-against-former-keralam-cm-pinarayi-vijayanand-otherssent-to-state-government-spc/article71467625.ece)
-- [Meta to report child safety cases directly to India’s cybercrime portal](https://www.thehindu.com/videos/meta-to-report-child-safety-cases-directly-to-indias-cybercrime-portal/article71468158.ece)
-- [Telangana CM Revanth Reddy seeks Aga Khan Foundation’s cooperation in Musi river rejuvenation](https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-reddy-invites-prince-rahim-aga-khan-v-to-global-summit/article71467031.ece)
-- [Three Delhi schools receive bomb threat email, declared hoax](https://www.thehindu.com/news/cities/Delhi/delhi-schools-hoax-bomb-threat-september-15-2026/article71468006.ece)
-- [Does religious conversion affect Scheduled Tribe status? | Explained](https://www.thehindu.com/news/national/does-religious-conversion-affect-scheduled-tribe-status/article71467858.ece)
-- [Gujarat police to query Google over 500,000 fake Gmail IDs linked to bomb hoax](https://www.thehindu.com/sci-tech/technology/gujarat-police-to-query-google-over-500000-fake-gmail-ids-linked-to-bomb-hoax/article71467988.ece)
+- [Child rights panel orders probe into pregnancy of minor girl at tribal welfare school in Andhra Pradesh](https://www.thehindu.com/news/national/andhra-pradesh/child-rights-panel-orders-probe-into-pregnancy-of-minor-girl-at-tribal-welfare-school-in-andhra-pradesh/article71468018.ece)
+- [BJP names mother of slain Suvendu aide as Nandigram by-poll candidate](https://www.thehindu.com/news/national/west-bengal/bjp-names-mother-of-slain-suvendu-aide-chandranath-rath-as-nandigram-candidate/article71466934.ece)
+- [From 72-foot giant to a 3.8 lakh-diamond-studded idol, Hyderabad’s Ganeshas are bigger and brighter this year](https://www.thehindu.com/news/cities/Hyderabad/from-72-foot-giant-to-a-38-lakh-diamond-studded-idol-hyderabads-ganeshas-are-bigger-and-brighter-this-year/article71467009.ece)
+- [Talaguppa-Bengaluru train delayed for four hours](https://www.thehindu.com/news/national/karnataka/talaguppa-bengaluru-train-delayed-for-four-hours/article71467202.ece)
+- [H.D. Kumaraswamy alleges government knew rape convict Prajwal Revanna had phone in prison, used issue to divert attention from KPSC, Bidadi and NICE issues](https://www.thehindu.com/news/national/karnataka/hdk-alleges-karnataka-government-knew-rape-convict-prajwal-revanna-had-phone-in-prison-used-issue-to-divert-attention-from-kpsc-scam-bidadi-and-nice-projects/article71467511.ece)
+- [Customs intercept exotic spiders smuggled from Bangkok at Bengaluru airport](https://www.thehindu.com/news/national/karnataka/customs-intercept-exotic-spiders-smuggled-from-bangkok-at-bengaluru-airport/article71467499.ece)
 - [Odisha rejects premature release of Dara Singh serving life for murder of Graham Staines, two sons](https://www.thehindu.com/news/national/odisha/odisha-rejects-premature-release-of-dara-singh-serving-life-for-murder-of-graham-staines-two-sons/article71467965.ece)
-- [DMK submits breach of privilege complaint to Tamil Nadu Assembly Speaker against Law Minister Nirmal Kumar](https://www.thehindu.com/news/national/tamil-nadu/dmk-submits-breach-of-privilege-complaint-to-tamil-nadu-assembly-speaker-against-law-minister-nirmal-kumar/article71467620.ece)
+- [Gurugram biker hit-and-run case: Accused arrested after attempt-to-murder charge; police say he tried to escape on pretext of urinating](https://www.thehindu.com/news/national/haryana/gurugram-biker-hit-and-run-case-accused-arrested-attempt-to-murder-charge-added/article71467032.ece)
+- [A.P. SEC to publish rolls for Vijayawada, Visakhapatnam and 39 other ULBs on September 22](https://www.thehindu.com/news/cities/Vijayawada/ap-sec-to-publish-rolls-for-vijayawada-visakhapatnam-and-39-other-ulbs-on-september-22/article71467782.ece)
+- [Keralam to introduce Hazard Perception Test for driving licence aspirants](https://www.thehindu.com/news/national/kerala/keralam-to-introduce-hazard-perception-test-for-driving-licence-aspirants/article71467830.ece)
 
 **Livemint**
-- [US reveals weapons in orbit: How do they work, and should Russia, China worry?](https://www.livemint.com/news/world/us-reveals-weapons-in-orbit-how-do-they-work-and-should-russia-china-worry-11789473086780.html)
+- [US admits to having weapons in orbit: How do they work, and should Russia, China worry?](https://www.livemint.com/news/world/us-reveals-weapons-in-orbit-how-do-they-work-and-should-russia-china-worry-11789473086780.html)
 - [Madras HC acquits death row convict in child abuse case: How victims' 'parrot-like' statements saved man from gallows](https://www.livemint.com/news/india/madras-hc-acquits-death-row-convict-in-child-abuse-case-how-victims-parrot-like-statements-saved-man-from-gallows-11789468691743.html)
 - [Qatar warns of ‘catastrophic’ Bab al-Mandeb closure: What it means for oil, shipping and global trade](https://www.livemint.com/news/world/qatar-warns-of-catastrophic-bab-al-mandeb-closure-what-it-means-for-oil-shipping-and-global-trade-11789469708807.html)
 - [Imran Khan ‘helped improve lives of Pakistanis’: Australian cricket greats now fear former Pakistan PM will die in jail](https://www.livemint.com/news/world/imran-khan-helped-improve-lives-of-pakistanis-australian-cricket-greats-now-fear-former-pakistan-pm-will-die-in-jail-11789470131852.html)
@@ -98,6 +98,8 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಸೆ.19ರಂದು ತೀರ್ಥಹಳ್ಳಿಗೆ ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್: ಕಸ್ತೂರಿ ರಂಗನ್ ವರದಿ ಕುರಿತು ಮಹತ್ವದ ಸಭೆ : ಸಚಿವ ಮಧುಬಂಗಾರಪ್ಪ](https://www.varthabharati.in/state/cm-dk-shivakumar-to-visit-thirthahalli-on-september-19-meeting-on-kasturirangan-report-2275317)
+- [ಅಫ್ಘಾನಿಸ್ತಾನದಲ್ಲಿ ‘ಬಂಧನ’ದ ಬಳಿಕ ನೆರವು ಕೋರಿದ ಕೇರಳದ ವ್ಲಾಗರ್](https://www.varthabharati.in/National/kerala-vlogger-seeks-help-after-being-detained-in-afghanistan-2275316)
 - [ಕಸ್ತೂರಿ ರಂಗನ್ ವರದಿ ಜಾರಿಗೆ ದ.ಕ. ಶಾಸಕರ ವಿರೋಧ; 43 ಗ್ರಾ.ಪಂ.ಗಳಲ್ಲಿ ವಿಶೇಷ ಸಭೆಗೆ ಸಚಿವ ಖಾದರ್ ಸೂಚನೆ](https://www.varthabharati.in/DakshinaKannada/-43--2275314)
 - [ಅಧಿಕಾರ ರಾಜಕಾರಣದ ಮಧ್ಯೆ ಸರಳತೆಯ ದೊಡ್ಡ ರೂಪಕ ಓಸ್ಕರ್ ಫೆರ್ನಾಂಡಿಸ್: ದಯಾನಂದ](https://www.varthabharati.in/udupi/--2275313)
 - [ಹೆಮ್ಮಾಡಿ ಉಪ ಆರೋಗ್ಯ ಕೇಂದ್ರ ಮೇಲ್ದರ್ಜೆಗೆ ಆಗ್ರಹಿಸಿ ಧರಣಿ](https://www.varthabharati.in/udupi/--2275311)
@@ -106,29 +108,29 @@
 - [ಚಿತ್ತಾಪುರ | ಆರ್‌ಇಎಸ್‌ಸಿ ಹಳೆಯ ವಿದ್ಯಾರ್ಥಿಗಳಿಂದ ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ](https://www.varthabharati.in/kalaburagi/chittapur-teachers-day-celebration-by-resc-alumni-2275307)
 - [ವಾಡಿ | ಅ.5ರಿಂದ ಧಮ್ಮಯಾತ್ರೆ; ನ.1ರಂದು ಸನ್ನತ್ತಿಯಲ್ಲಿ 70ನೇ ಬೃಹತ್ ಧಮ್ಮದೀಕ್ಷಾ ಸಮಾರಂಭ](https://www.varthabharati.in/kalaburagi/wadi-dhamma-yatra-from-oct-5-70th-grand-dhamma-initiation-ceremony-at-sannati-on-nov-1-2275306)
 - [Kalaburagi | ಸಿಎಂಗೆ ಕಪ್ಪು ಬಟ್ಟೆ ಪ್ರದರ್ಶನದ ನಿರ್ಧಾರ ಹಿಂಪಡೆಯಿರಿ : ತಿಪ್ಪಣ್ಣಪ್ಪ ಕಮಕನೂರ](https://www.varthabharati.in/kalaburagi/kalaburagi-withdraw-the-decision-to-show-black-clothes-to-the-cm-thippannappa-kamakanur-2275305)
-- [ಜಂತರ್ ಮಂತರ್ ಹಲ್ಲೆ ಪ್ರಕರಣ: ಬಲಪಂಥೀಯ ಗೂಂಡಾ ಸ್ವತಂತ್ರ ಭಾರದ್ವಾಜ್‌ ಗೆ 3 ವಾರಗಳ ಮಧ್ಯಂತರ ಜಾಮೀನು](https://www.varthabharati.in/National/right-wing-influencer-swatantra-bhardwaj-gets-interim-bail-in-jantar-mantar-assault-case-2275304)
-- [ಹುಮನಾಬಾದ್ | ನಿರಗುಡಿ ಗ್ರಾಮಕ್ಕೆ ರಸ್ತೆ ಕಲ್ಪಿಸಲು ಆಗ್ರಹಿಸಿ ವಿನೂತನ ಪ್ರತಿಭಟನೆ; ವಿಡಿಯೋ ವೈರಲ್](https://www.varthabharati.in/bidar/humnabad-protest-demanding-a-road-to-niragudi-village-video-goes-viral-2275303)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (5.5)
 - Emkay Global Financial (5.0)
-- Russia (3.9)
+- India (4.2)
+- China (3.9)
 - Masood Azhar (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
-- China (2.6)
+- Accused (2.9)
+- Gurugram (2.9)
+- Russia (2.6)
 - Gurgaon (2.6)
 - Odisha (2.6)
-- Rajpal Yadav (2.0)
 - Buy Bajaj Finance (2.0)
-- Delhi (1.9)
-- Accused (1.6)
 - Vijay (1.6)
 - BRICS (1.6)
+- Delhi (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [રાજસ્થાન સ્થાનિક સ્વરાજ્યની ચૂંટણીમાં ભાજપની બમ્પર જીત, PM મોદીએ કાર્યકરોને પાઠવી શુભેચ્છા](https://gujarati.abplive.com/news/india/rajasthan-municipal-election-result-bjp-big-win-pm-modi-congratulates-workers-991217)
+- [2,000 रुपये तक UPI पेमेंट पर नहीं लगेगा चार्ज, केंद्र सरकार का बैंकों को सख्त आदेश](https://www.aajtak.in/india/news/story/government-bans-charges-on-upi-transactions-up-to-rs-two-thousand-ntc-ntyv-rpti-2642889-2026-09-15)
 - [‘Hanuman Ansh’ box office collections day 39: Vishal Chaturvedi’s film eyes Rs 300 crore mark worldwide in week 6](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collections-day-39-vishal-chaturvedis-film-eyes-rs-300-crore-mark-worldwide-in-week-6/articleshow/134249592.cms)
 - [பிரதமர் மோடியின் ‘ராஜதந்திர’ சாதனைகள்: பிரிக்ஸ் 2026-ல் இந்தியா பெற்றது என்ன?](https://www.hindutamil.in/news/india/pm-modis-diplomatic-wins-what-did-india-gain-at-brics-2026)
 - ['താലിബാന്‍ വിട്ടയച്ചു; വിറയല്‍ ഇപ്പോഴും മാറിയിട്ടില്ല'; ഇനി 500 കിലോ മീറ്റര്‍ കൂടിയെന്ന് അരുണിമ](https://www.manoramanews.com/lifestyle/travel/2026/09/15/taliban-released-me-still-shivering-travel-vlogger-arunima-shares-harrowing-afghanistan-ordeal.html)
@@ -137,8 +139,6 @@
 - [D-Street poised for a positive start as GIFT Nifty trades firmly higher](https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134249361.cms?from=mdr)
 - [ജാര്‍ഖണ്ഡ്‌ ക്രിക്കറ്റ്‌ സ്‌ക്വാഡിലെ പേരുകള്‍ ധോണിക്ക്‌ മന:പാഠം, ഇന്ത്യന്‍ ക്രിക്കറ്റിലെ കരുത്തരായി ധോണിയുടെ പിന്‍ഗാമികള്‍](https://www.asianetnews.com/sports-special/mahendra-singh-dhoni-is-an-inspiration-numerous-talents-will-emerge-from-jharkhand-state-cricket-to-the-national-team-articleshow-v4z4nzx)
 - [ट्रंप को कोर्ट से झटका, फेडरल जज ने वीजा कैप नियम पर लगाई रोक, छात्रों और पत्रकारों को मिली राहत](https://www.aajtak.in/world/story/us-court-blocks-trump-visa-duration-rule-students-exchange-visitors-journalists-ntc-ntyv-rpti-2642888-2026-09-15)
-- [Emmys 2026 Winners: Full List of Emmy Awards Winners](https://www.thehindu.com/entertainment/movies/emmys-2026-winners-full-list-emmy-awards/article71466454.ece)
-- [Retail inflation surges to 8-month high of 4.8% in August](https://timesofindia.indiatimes.com/business/india-business/retail-inflation-surges-to-8-month-high-of-4-8-in-august/articleshow/134249473.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
