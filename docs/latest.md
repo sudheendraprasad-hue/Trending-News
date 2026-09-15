@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-15 04:37:39
+# India Trending Report — 2026-09-15 05:02:20
 
 ## Google Trends (India) — top trending searches
-1. [bse share](https://trends.google.com/trending/rss?geo=IN)
+1. [icici bank share](https://trends.google.com/trending/rss?geo=IN)
 2. [bse sensex today](https://trends.google.com/trending/rss?geo=IN)
-3. [bse sensex](https://trends.google.com/trending/rss?geo=IN)
-4. [hindustan copper share price](https://trends.google.com/trending/rss?geo=IN)
-5. [tata steel share](https://trends.google.com/trending/rss?geo=IN)
-6. [lenskart share price](https://trends.google.com/trending/rss?geo=IN)
-7. [kalyan jewellers share price](https://trends.google.com/trending/rss?geo=IN)
-8. [maruti share price](https://trends.google.com/trending/rss?geo=IN)
-9. [ஓய்வூதியம்](https://trends.google.com/trending/rss?geo=IN)
-10. [tech mahindra share price](https://trends.google.com/trending/rss?geo=IN)
+3. [nestle india share price](https://trends.google.com/trending/rss?geo=IN)
+4. [bse sensex](https://trends.google.com/trending/rss?geo=IN)
+5. [hindustan copper share price](https://trends.google.com/trending/rss?geo=IN)
+6. [tata steel share](https://trends.google.com/trending/rss?geo=IN)
+7. [प्रधानमंत्री आवास योजना](https://trends.google.com/trending/rss?geo=IN)
+8. [lenskart share price](https://trends.google.com/trending/rss?geo=IN)
+9. [kalyan jewellers share price](https://trends.google.com/trending/rss?geo=IN)
+10. [maruti share price](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Scotland, Northern Ireland and Wales sign historic MoU to break away from UK](https://timesofindia.indiatimes.com/world/uk/scotland-northern-ireland-and-wales-sign-mou-to-break-away-from-uk/articleshow/134247408.cms)
 - ['I could've died': Gurgaon biker rebuts driver's 'accident' defence in new video](https://timesofindia.indiatimes.com/city/gurgaon/could-have-died-after-viral-crash-video-gurgaon-biker-sia-hits-back-at-drivers-accident-defence/articleshow/134250141.cms)
+- [‘Serious lapse’: Air India CEO summoned after 3 foreigners 'skip' immigration check](https://timesofindia.indiatimes.com/india/serious-lapse-air-india-ceo-summoned-after-3-foreigners-skip-immigration-check/articleshow/134251365.cms)
 - [‘Would a minister have escaped it?’ Top lawyers call for reset after judge cash row](https://timesofindia.indiatimes.com/india/jethmalani-why-wasnt-fir-slapped-on-varma/articleshow/134247647.cms)
 - [Mystery missile in Yemen: Did Saudi Arabia use China-made DF-15A?](https://timesofindia.indiatimes.com/defence/international/mystery-missile-in-yemen-did-saudi-arabia-use-china-made-df-15a/articleshow/134251337.cms)
-- [Scotland, Northern Ireland and Wales sign historic MoU to break away from UK](https://timesofindia.indiatimes.com/world/uk/scotland-northern-ireland-and-wales-sign-mou-to-break-away-from-uk/articleshow/134247408.cms)
-- [Mohsin Naqvi 'didn't object' to India refusing Asia Cup trophy from him, says BCCI](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/mohsin-naqvi-didnt-object-to-india-refusing-womens-asia-cup-trophy-from-him-says-rajeev-shukla/articleshow/134250438.cms)
 - [Meta needed employee data for AI edge, but faced a very 'human problem'](https://timesofindia.indiatimes.com/technology/tech-news/meta-needed-data-from-thousands-of-its-employees-for-edge-in-ai-space-company-introduced-model-capability-initiative-but-then-came-a-very-human-problem/articleshow/134250943.cms)
+- [‘You don’t treat human beings that way’: Holding slams Pakistan over Imran Khan](https://timesofindia.indiatimes.com/sports/cricket/news/you-dont-treat-human-beings-that-way-michael-holding-slams-pakistan-over-imran-khans-treatment/articleshow/134250588.cms)
 - ['Trump is copying us': Shivakumar says US $5,000 plan 'inspired' by Congress](https://timesofindia.indiatimes.com/city/bengaluru/even-donald-trump-is-copying-us-dk-shivakumar-says-5000-promise-inspired-by-congress-guarantees/articleshow/134251141.cms)
 - [Oil price today: Brent crude rises as Saudi pipeline outage raise supply concerns](https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-brent-crude-rises-as-saudi-pipeline-outage-gulf-tensions-stoke-supply-fears/articleshow/134251278.cms)
-- [Trump faces fresh setback as judge blocks stricter foreign student visa rule](https://timesofindia.indiatimes.com/world/us/trump-faces-fresh-setback-as-judge-blocks-stricter-foreign-student-visa-rule/articleshow/134251237.cms)
-- [Homeless pianist went viral after church performance; 2 years later, he has a home](https://timesofindia.indiatimes.com/world/uk/in-january-2024-a-homeless-man-played-piano-at-a-church-in-uk-on-a-freezing-night-2-years-after-his-video-went-viral-he-has-raised-50000-for-charity-and-found-a-home/articleshow/134233771.cms)
+- [Mohsin Naqvi 'didn't object' to India refusing Asia Cup trophy from him, says BCCI](https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/mohsin-naqvi-didnt-object-to-india-refusing-womens-asia-cup-trophy-from-him-says-rajeev-shukla/articleshow/134250438.cms)
 
 **NDTV**
 - [Meta Agrees To Report Child Sexual Abuse Cases Amid India Crackdown](https://www.ndtv.com/india-news/meta-agrees-to-report-child-sexual-abuse-cases-amid-india-crackdown-12047353#publisher=newsstand)
@@ -38,30 +38,22 @@
 - ["Why Didn't You Stop?" Gurugram Biker On Driver's "Feeling Sorry" Remark](https://www.ndtv.com/india-news/gurugram-hit-and-run-news-biker-sia-hit-and-run-i-could-have-died-on-the-spot-gurugram-biker-hits-back-at-accused-driver-kalyan-bainsla-12047139#publisher=newsstand)
 
 **Hindustan Times**
+- [Amalgamate Karnataka mining blocks for auction: SC](https://www.hindustantimes.com/india-news/karnataka-mining-supreme-court-chief-justice-cji-surya-kant-auction-virgin-forest-101789445379486.html)
+- [C-DOT developing interactive disaster alerts for mobile users](https://www.hindustantimes.com/india-news/disaster-alert-c-dot-ai-artificial-intelligence-ndma-national-disaster-management-authority-101789441376114.html)
+- [Himalayan glaciers melting 65% faster, black carbon to blame: Study](https://www.hindustantimes.com/india-news/himalayas-glaciers-permafrost-climate-change-global-warming-nepal-floods-latest-study-101789442665800.html)
+- ['Felt sorry? Why didn't you stop': Gurugram biker slams hit-and-run accused](https://www.hindustantimes.com/india-news/gurugram-road-rage-injured-woman-biker-rejects-suspect-kalyan-bainsla-s-claims-101789446016780.html)
 - [Supreme Court lens on stem cell therapy for autism](https://www.hindustantimes.com/india-news/autism-spectrum-disorder-supreme-court-sc-stem-cell-therapy-101789444575541.html)
 - [Meta commits to reporting child abuse content amid Centre's crackdown](https://www.hindustantimes.com/india-news/meta-agrees-to-report-child-sexual-abuse-cases-to-agencies-meity-receives-letter-govt-101789444535336.html)
 - [HT Morning Brief September 15: Gurugram biker crash; Italians skip immigration in Delhi, the Emmys and more](https://www.hindustantimes.com/india-news/ht-morning-brief-september-15-gurugram-biker-crash-italians-skip-immigration-air-india-emmys-award-winner-list-top-news-101789442763034.html)
 - [Kerala woman vlogger claims arrest by ‘Mujahideen’ in Afghanistan, then clarifies](https://www.hindustantimes.com/india-news/in-trouble-in-afghanistan-kerala-vlogger-claims-arrest-by-mujahideen-later-issues-clarification-101789436212524.html)
 - [US lawmakers move amendments to Russia sanctions bill which targets India, others with 100% tariff threat](https://www.hindustantimes.com/india-news/us-lawmakers-move-amendments-to-russia-sanctions-bill-which-targets-india-others-with-100-percent-tariff-threat-101789441116637.html)
 - [Rescued baby orangutan falls ill at Odisha's Nandankanan zoo, officials on alert](https://www.hindustantimes.com/india-news/one-baby-orangutan-develops-fever-at-odisha-s-nandankanan-zoo-under-observation-101789439715041.html)
-- [Rat-hole mining, used in Uttarakhand's Silkyara rescue, deployed to save Nepal workers](https://www.hindustantimes.com/india-news/rathole-mining-used-in-uttarakhands-silkyara-rescue-deployed-to-save-nepal-workers-101789437391540.html)
-- [‘She wants followers, publicity’: Gurugram crash accused's lawyer blames woman biker](https://www.hindustantimes.com/india-news/she-wants-followers-publicity-gurugram-crash-accuseds-lawyer-blames-woman-biker-sia-golf-course-kalyan-bainsla-101789436561979.html)
-- [Days after being sacked from Revanth cabinet, Konda Surekha says she will stay put in Cong, claims high command spoke to her](https://www.hindustantimes.com/india-news/days-after-being-sacked-from-revanth-cabinet-konda-surekha-says-she-will-stay-put-in-cong-claims-high-command-spoke-to-her-101789414768283.html)
-- [Karnataka welfare model inspired Trump’s $5K proposal: DKS](https://www.hindustantimes.com/india-news/karnataka-welfare-model-inspired-trump-s-5k-proposal-dks-101789414692175.html)
 
-**Vijay Karnataka**
-- [ಬಿರುಬಿಸಿಲಿಗೆ ಬೆಂದ ಬಯಲುಸೀಮೆ : ಕಣ್ಣೀರಿನಲ್ಲಿ ಕೈತೊಳೆಯುತ್ತಿರುವ ಕರುನಾಡಿನ ರೈತರ 8 ಬೇಡಿಕೆಗಳು](https://vijaykarnataka.com/news/karnataka/special-article-karnataka-bayaluseeme-drought-farmers-eight-demands-to-state-government/articleshow/134251407.cms)
-- [ಮೋದಿ ಜೊತೆ‌ ಪುಟಿನ್‌-ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್‌ ಚಾಯ್‌ ಪೇ ಚರ್ಚಾ; ಬ್ರಿಕ್ಸ್ ಶೃಂಗಸಭೆಯಲ್ಲಿ ಗ್ಲೋಬಲ್‌ ನಾಯಕರ ಆತ್ಮೀಯತೆಯ ಆನ್‌ಸೀನ್‌ ವಿಡಿಯೋ!](https://vijaykarnataka.com/news/india/chai-pe-charcha-with-xi-putin-unseen-footage-from-brics-summit-show-pm-modis-moments-with-leaders/articleshow/134250874.cms)
-- [Rajasthan : ಸಿಜೆಪಿ ಹೋರಾಟದ ಮಧ್ಯೆಯೂ ಬಿಜೆಪಿಗೆ ಮುನ್ನಡೆ - ಕಾಂಗ್ರೆಸ್ಸಿಗೆ ಆಪ್, CPM ಕೊಟ್ಟ ಭಾರೀ ಹೊಡೆತ!](https://vijaykarnataka.com/news/india/explainer-rajasthan-civic-polls-2026-bjp-lead-aap-cpim-gain-warning-bell-congress/articleshow/134250613.cms)
-- [ಕಂಗನಾ ರಣಾವತ್‌ರ ಪ್ರೇರಣಾದಾಯಕ ಮಾತುಗಳು: 'ಯಶಸ್ಸು-ವೈಫಲ್ಯ ಎರಡೂ ಒಳ್ಳೆಯದೇ'-ಜೀವನ ಕಲಿಸುವ 7 ಪಾಠಗಳು!](https://vijaykarnataka.com/lifestyle/relationship/kangana-ranaut-motivational-quotes-life-lessons/articleshow/134251543.cms)
-- [ಬೀದಿಯಲ್ಲಿ ಭಿಕ್ಷೆ ಬೇಡಿದ ಮುಂಬೈನ ಶ್ರೀಮಂತ ಶಾಸಕ ಪರಾಗ್‌ ಶಾ! 3ಸಾವಿರ ಕೋಟಿ ಆಸ್ತಿ ಒಡೆಯ ಏಕಾಏಕಿ ಭಿಕ್ಷಾಟನೆ ನಡೆಸೋಕಿದೆ ಕಾರಣ..](https://vijaykarnataka.com/news/india/parag-shah-bjps-richest-maharashtra-mla-spends-day-as-beggar-on-jain-gurus-advice/articleshow/134249978.cms)
-- [ಜೀವನದಲ್ಲಿ ಎಲ್ಲಾ ಮುಗೀತು ಅನ್ಕೊಂಡಾಗ ಸಿಕ್ಕ ಧಾರಾವಾಹಿ ‘ಯಜಮಾನ’: ನಟ ಹರ್ಷ](https://vijaykarnataka.com/video/entertainment/yajamana-kannada-serial-fame-tv-actor-harsha-b-s-interview/videoshow/134250370.cms)
-- [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
-- [ದೇವರ ಪೂಜೆ ಮಾಡುವಾಗ ಕಣ್ಣೀರು ಬರುವುದರ ಹಿಂದಿರುವ ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/know-why-automatically-tears-will-come-while-doing-puja/articleshow/134249876.cms)
-- [50ರ ನಂತರವೂ ವಿಜಯ್–ಅಜಿತ್‌ನಂತೆ ಫಿಟ್ ಆಗಿರಬೇಕಾ? ವಿಜ್ಞಾನ ಹೇಳುವ ಈ ಆರೋಗ್ಯಕರ ಅಭ್ಯಾಸಗಳನ್ನು ರೂಢಿಸಿಕೊಳ್ಳಿ!](https://vijaykarnataka.com/lifestyle/fitness/vijay-ajith-fitness-after-50-healthy-habits/articleshow/134244779.cms)
-- [ʼMr.Munir You are Firedʼ; ಶಾಂತಿ ಮುಖವಾಡ ಧರಿಸಿದ್ದ ಪಾಕ್‌ ಸೇನಾ ಮುಖ್ಯಸ್ಥ ಮುನೀರ್‌ನ ಟ್ರೋಲ್‌ ಮಾಡಿದ ಇರಾನಿ ಪತ್ರಕರ್ತ!](https://vijaykarnataka.com/news/world/mr-munir-you-are-fired-iranian-journalist-questions-pakistans-role-in-west-asia-hails-modi-leadership/articleshow/134249577.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [Landslides hit West Sikkim, SSB rescues residents as precaution](https://www.thehindu.com/news/national/sikkim/landslides-hit-west-sikkim-ssb-rescues-residents-as-precaution/article71466749.ece)
+- [CJI says judiciary cannot earn public trust by shielding itself from scrutiny](https://www.thehindu.com/news/national/cji-says-judiciary-can-not-earn-public-trust-by-shielding-itself-from-scrutiny/article71466330.ece)
 - [Digital libraries established in 57,600 gram panchayats: UP CM Yogi](https://www.thehindu.com/news/national/uttar-pradesh/digital-libraries-established-in-57600-gram-panchayats-up-cm-yogi/article71466700.ece)
 - [Jharkhand CID arrests two more in recruitment exam irregularities cases](https://www.thehindu.com/news/national/jharkhand/jharkhand-cid-arrests-two-more-in-recruitment-exam-irregularities-cases/article71466708.ece)
 - [Four members of family die in fire at home in Belagavi](https://www.thehindu.com/news/national/karnataka/four-members-of-family-die-in-fire-at-home-in-belagavi/article71466641.ece)
@@ -70,8 +62,6 @@
 - [Keralite vlogger, who claimed arrest by Mujahideen, now says she escaped arrest threat in Afghanistan](https://www.thehindu.com/news/national/kerala/keralite-vlogger-who-claimed-arrest-by-mujahideen-now-says-she-escaped-arrest-threat-in-afghanistan/article71466549.ece)
 - [Air India gets show-cause notice over Italian passengers skipping immigration at Delhi airport](https://www.thehindu.com/news/national/air-india-gets-show-cause-notice-over-italian-passengers-skipping-immigration-at-delhi-airport/article71466538.ece)
 - [U.S. lawmaker submits amendment naming India in Russia sanctions act](https://www.thehindu.com/news/international/us-lawmaker-submits-amendment-naming-india-in-russia-sanctions-act/article71466531.ece)
-- [Bamboo mass flowering and die-off can trigger ecological crisis and wildlife conflict, study warns](https://www.thehindu.com/sci-tech/energy-and-environment/bamboo-mass-flowering-and-die-off-can-trigger-ecological-crisis-and-wildlife-conflict-study-warns/article71450844.ece)
-- [Ganesh Chaturthi celebrations begin with fervour across Telangana](https://www.thehindu.com/news/national/telangana/ganesh-chaturthi-celebrations-begin-with-fervour-across-telangana/article71465694.ece)
 
 **Livemint**
 - [MHA calls meeting after 3 Italian passengers bypassed immigration at Delhi airport: What we know](https://www.livemint.com/news/india/mha-calls-meeting-after-3-italian-passengers-bypassed-immigration-at-delhi-airport-what-we-know-11789443248880.html)
@@ -85,19 +75,11 @@
 - [CGHS maps domestic manufacturing capacity for 153 critical drugs to shorten supply delays](https://www.livemint.com/news/cghs-domestic-manufacturing-capacity-153-critical-drugs-supply-delays-oncology-diabetes-muscular-atrophy-patients-11789378837821.html)
 - [The Hip Side of Japan the Tourists Havent Figured Out Yet](https://www.livemint.com/news/the-hip-side-of-japan-the-tourists-havent-figured-out-yet-11789433332267.html)
 
-**Moneycontrol**
-- [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
-- [Buy Tejas Networks; target of Rs 1100: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html)
-- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html)
-- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html)
-- [Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html)
-- [Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html)
-- [Reduce Wipro; target of Rs 410: ICICI Securities](https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html)
-- [Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html)
-- [Buy Patel Engineering; target of Rs 80: ICICI Direct](https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html)
-- [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
+**Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
+- [ನೇರಳಕಟ್ಟೆ: ನಿವೃತ್ತ ಶಿಕ್ಷಕ ಎಂ.ಸದಾಶಿವ ಭಟ್ ನಿಧನ](https://www.varthabharati.in/DakshinaKannada/retired-teacher-m-sadashiva-bhatt-passes-away-2275235)
+- [Mandya | ದ್ವಿಚಕ್ರ ವಾಹನಕ್ಕೆ ಹಾಲು ಸಾಗಾಟದ ಟ್ಯಾಂಕರ್ ಢಿಕ್ಕಿ: ಒಂದೇ ಕುಟುಂಬದ ಮೂವರು ಮೃತ್ಯು](https://www.varthabharati.in/mandya/mandya-road-tragedy-three-of-a-family-killed-in-horrific-accident-2275234)
 - [Belagavi | ದ್ವಿಚಕ್ರ ವಾಹನ–ಸಾರಿಗೆ ಬಸ್ ನಡುವೆ ಅಪಘಾತ: ಮೂವರು ಮೃತ್ಯು](https://www.varthabharati.in/belgaum/belagavi-collision-three-killed-on-the-spot-in-two-wheeler-and-ksrtc-bus-crash-2275231)
 - [ಉಡುಪಿ | ಮನೆ, ದೇವಸ್ಥಾನದಲ್ಲಿ ಕಳವು ಪ್ರಕರಣ: ಶಿವಮೊಗ್ಗ ಮೂಲದ ಇಬ್ಬರು ಆರೋಪಿಗಳ ಬಂಧನ](https://www.varthabharati.in/udupi/udupi-theft-cases-at-a-house-and-a-temple-two-accused-from-shivamogga-arrested-2275230)
 - [Belagavi | ಬೆಂಕಿ ಅವಘಡ: ಒಂದೇ ಕುಟುಂಬದ ನಾಲ್ವರು ಸಜೀವ ದಹನ; ಇಬ್ಬರು ಗಂಭೀರ](https://www.varthabharati.in/belgaum/belagavi-fire-tragedy-four-of-a-family-burnt-alive-two-severely-injured-2275229)
@@ -106,39 +88,37 @@
 - [ಬೆಳ್ತಂಗಡಿ : ನಿಯಂತ್ರಣ ತಪ್ಪಿ ಕಾರು ಪಲ್ಟಿ; ಮೂವರಿಗೆ ಗಾಯ](https://www.varthabharati.in/DakshinaKannada/belthangady-car-overturns-after-losing-control-three-injured-2275226)
 - [ಚಾಮರಾಜನಗರ: ಹುಲಿ ದಾಳಿಗೆ ರೈತ ಬಲಿ](https://www.varthabharati.in/chamarajanagar/chamarajanagar-farmer-killed-in-tiger-attack-2275224)
 - [ಆಗಸ್ಟ್ ನಲ್ಲಿ ಚಿಲ್ಲರೆ ಹಣದುಬ್ಬರ ಶೇ.4.8ಕ್ಕೆ ಏರಿಕೆ : 8 ತಿಂಗಳಲ್ಲೇ ಗರಿಷ್ಠ ಮಟ್ಟ](https://www.varthabharati.in/National/retail-inflation-rises-to-48-in-august-highest-level-in-8-months-2275225)
-- [ಒರಾಕಲ್ ನಲ್ಲಿ ಮತ್ತೆ ಆತಂಕ ಮೂಡಿಸಿದ 6 ಗಂಟೆಯ ಇಮೇಲ್ : ಉದ್ಯೋಗ ಕಳೆದುಕೊಳ್ಳುತ್ತಿರುವ ಸಿಬ್ಬಂದಿ](https://www.varthabharati.in/international/6-am-email-sparks-fresh-anxiety-at-oracle-employees-face-job-losses-2275223)
-- [BRICS ಶೃಂಗಸಭೆ | ಇರಾನ್ ಅಧ್ಯಕ್ಷ ಪೆಜೆಶ್ಕಿಯನ್‌ ಭಾಷಣದ ವೇಳೆ ನೆಕ್ಕಿನೆಕ್ಕಿ ನಟ್ಸ್ ತಿಂದ MEA ವಕ್ತಾರ ರಣಧೀರ್‌ ಜೈಸ್ವಾಲ್‌; ಸಾಮಾಜಿಕ ಜಾಲತಾಣದಲ್ಲಿ ವೀಡಿಯೋ ವೈರಲ್](https://www.varthabharati.in/national/going-nuts-indian-diplomat-mocked-for-snacking-during-brics-speech-2275222)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (5.5)
-- Emkay Global Financial (5.0)
-- India (4.5)
+- India (4.8)
 - Delhi (3.9)
 - Belagavi (3.9)
 - Gurugram (3.5)
-- ICICI Securities (3.0)
-- target (3.0)
 - Saudi (2.9)
 - Meta (2.9)
+- Trump (2.9)
 - Mujahideen (2.6)
 - Afghanistan (2.6)
 - Russia (2.6)
 - Italian (2.6)
-- Buy Bajaj Finance (2.0)
+- What (1.6)
+- Sensex (1.6)
+- Scotland (1.3)
+- Wales (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [బీజేపీకి షాక్.. బీహార్‌లో యూసీసీకి జేడీయూ నో](https://www.ap7am.com/tn/880079/jdu-says-no-to-ucc-in-bihar-shock-to-bjp)
+- [Krunal Pandya: വരുൺ ചക്രവര്‍ത്തിയുടെ പരിക്ക്; ഏഷ്യൻ ഗെയിംസ് ടീമിലെ പകരക്കാരനാവാൻ 3 പേര്‍](https://www.asianetnews.com/cricket-sports/varun-chakaravarthys-injury-blow-yash-raj-punja-to-krunal-pandya-3-potential-replacements-for-asian-games-articleshow-zabrssm)
+- [અમેરિકન શેર માર્કેટમાં મોટો કડાકો, કાલે ભારતીય શેરબજારમાં શું થશે? રોકાણકારો માટે એલર્ટ](https://www.gujaratsamachar.com/news/business/us-market-fall-just-now-the-us-market-crashed-as-soon-as-it-opened-what-will-happen-in-the-indian-market-tomorrow-29446939404)
+- [सायोनी घोष वाले 20 बागी सांसदों के गुट में भी फूट? 17 थामेंगे BJP का हाथ; तीन ने क्यों छोड़ा साथ](https://www.livehindustan.com/national/saayoni-ghosh-camp-rebel-tmc-mps-will-abandon-ncpi-and-will-join-bjp-before-durga-puja-big-claims-201789381617698.html)
+- [‘No help whatsoever’: Trump demands reimbursement from countries over Hormuz conflict](https://www.hindustantimes.com/world-news/no-help-whatsoever-trump-demands-reimbursement-from-countries-over-hormuz-conflict-101789404220406.html)
+- [అన్ని రాష్ట్రాలూ వందేమాతర గేయాన్ని పాడాల్సిందే.. కేంద్ర హోమ్ మంత్రి అమిత్ షా పునరుద్ఘాటన](https://telugu.samayam.com/latest-news/india-news/union-home-minister-amit-shah-on-national-song-vandemataram-singing-at-6th-all-india-rajbhasha-sammelan/articleshow/134244922.cms)
+- [Viswakarma Puja: বিশ্বকর্মা পুজোর ছুটি নিয়ে বড় সিদ্ধান্ত রাজ্যের, কবে অফিস যেতে হবে না সরকারি কর্মীদের?](https://bangla.aajtak.in/kolkata/story/west-bengal-announces-major-change-in-viswakarma-puja-holiday-government-offices-to-remain-closed-on-september-18-suk-1450748-2026-09-14)
+- [રાજસ્થાન સ્થાનિક સ્વરાજ્ય ચૂંટણી : ભાજપની જીત તો કોંગ્રેસે પણ આપી ટક્કર, જાણો કોને કેટલી બેઠકો મળી](https://www.gujaratsamachar.com/news/national/bjp-dominates-rajasthan-civic-elections-wins-big-in-small-towns-and-tribal-belts-independents-show-strength-in-farmer-dominated-areas-24970880202)
+- [Aditya Thackeray News: दिशा सालियान प्रकरणावरून चर्चेत आलेले आदित्य ठाकरे किती शिकलेत? जाणून घ्या शिक्षण अन् एकूण संपत्ती](https://www.navarashtra.com/career/aditya-thackeray-educational-qualification-net-worth-political-career-1332403.html)
 - [‘மூக்குத்தி அம்மன் 2: மகா சக்தி’ டீசர் எப்படி? - தெய்வீகமும் பிரம்மாண்டமும்!](https://www.hindutamil.in/news/cinema/tamil-cinema/mookuthi-amman-2-maha-sakthi-teaser)
-- [I just added a permanent Menu Bar to my iPad in iPadOS 27, and it's made my Apple tablet feel much more Mac-like](https://www.techradar.com/tablets/ipad/i-just-added-a-permanent-menu-bar-to-my-ipad-in-ipados-27-and-its-made-my-apple-tablet-feel-much-more-mac-like)
-- [मोहसिन नकवी को हो गया है इस चीज का अहसास, बड़े फैसले लेने की तैयारी में PCB चीफ](https://www.livehindustan.com/cricket/major-reshuffle-in-works-at-pcb-aaqib-javed-and-wahab-riaz-likely-to-be-removed-mohsin-naqvi-has-realized-201789402445046.html)
-- [प्रभात खबर के पत्रकार से मारपीट मामले में निशांत कुमार का बड़ा एक्शन, तुरंत स्टेट लेवल कमेटी बनाकर जांच का दिया निर्देश](https://www.prabhatkhabar.com/state/bihar/journalist-assault-saharsa-nishant-kumar-order-state-level-enquiry-committee-wjai)
-- [தங்க கொழுக்கட்டை கிலோ ரூ.27,000க்கு விற்பனை](https://www.dinamalar.com/news/india-tamil-news/gold-nugget-kg-rs-on-sale-for-27000/4322910)
-- [This Hyderabad Ganpati arrived covered in 24-karat gold and 3,83,800 American diamonds, now ‘Lee-Chee Ka Raja’ has become one of the country's biggest Ganeshotsav attractions](https://timesofindia.indiatimes.com/life-style/travel/destinations/this-hyderabad-ganpati-arrived-covered-in-24-karat-gold-and-383800-american-diamonds-now-lee-chee-ka-raja-has-become-one-of-the-countrys-biggest-ganeshotsav-attractions/articleshow/134244428.cms)
-- [India vs Afghanistan 2nd T20 : मोठी खुशखबर! भारत-अफगाणिस्तानचा दुसरा टी-20 पाहण्यासाठी FanCodeचं सबस्क्रिप्शन नको; ‘इथे’ पाहा फुकटात](https://www.tv9marathi.com/sports/india-vs-afghanistan-2nd-t20-where-to-watch-the-match-for-free-1756539.html)
-- [CM Suvendu Adhikari: 'পুজো বলতে কষ্ট বামপন্থীদের, বলছে কেন পুজো লিখতে হবে...', মুখ্যমন্ত্রীর নিশানায় বামপন্থীরা](https://bengali.abplive.com/district/cm-suvendu-adhikari-bharat-sevashram-sangha-slams-cpm-regarding-durga-puja-and-sharodotsav-writing-in-book-stall-1192816)
-- [Banks cannot impose charges on UPI payments of up to Rs 2,000, govt says](https://economictimes.indiatimes.com/news/economy/finance/banks-cannot-impose-charges-on-upi-payments-up-to-rs-2000-govt-says-rupay-debit-card/articleshow/134244408.cms?from=mdr)
-- [राजस्थान स्थानिक निवडणुकीत भाजपची मुसंडी, अपक्ष 'किंगमेकर'](https://www.loksatta.com/desh-videsh/rajasthan-local-body-election-results-2026-bjp-congress-independents-zws-70-6136878/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
