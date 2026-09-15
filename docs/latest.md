@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-15 22:34:00
+# India Trending Report — 2026-09-15 23:01:40
 
 ## Google Trends (India) — top trending searches
 1. [campeones cup](https://trends.google.com/trending/rss?geo=IN)
@@ -7,23 +7,23 @@
 4. [ed sheeran](https://trends.google.com/trending/rss?geo=IN)
 5. [elche cf vs real madrid standings](https://trends.google.com/trending/rss?geo=IN)
 6. [mumbai](https://trends.google.com/trending/rss?geo=IN)
-7. [rma](https://trends.google.com/trending/rss?geo=IN)
-8. [amitabh bachchan](https://trends.google.com/trending/rss?geo=IN)
-9. [cryptocurrency trading](https://trends.google.com/trending/rss?geo=IN)
-10. [arda güler](https://trends.google.com/trending/rss?geo=IN)
+7. [amitabh bachchan](https://trends.google.com/trending/rss?geo=IN)
+8. [cryptocurrency trading](https://trends.google.com/trending/rss?geo=IN)
+9. [arda güler](https://trends.google.com/trending/rss?geo=IN)
+10. [social media marketing](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Bangladesh PM was invited for Brics meet and bilateral visit: Govt](https://timesofindia.indiatimes.com/india/govt-bdesh-pm-was-invited-for-brics-meet-and-bilateral-visit/articleshow/134275436.cms)
+- [CBI officer in RG Kar, Hathras cases assigned Disha Salian probe](https://timesofindia.indiatimes.com/india/cbi-officer-in-rg-kar-hathras-cases-assigned-disha-probe/articleshow/134275412.cms)
 - [Meta agrees to report child-safety matters directly to Indian authorities](https://timesofindia.indiatimes.com/india/meta-agrees-to-report-csam-directly-to-indian-authorities/articleshow/134272984.cms)
-- ['Attempted to steal a sea drone': US military destroys two small Iranian boats](https://timesofindia.indiatimes.com/world/middle-east/attempted-to-steal-a-sea-drone-us-military-destroys-two-small-iranian-boats/articleshow/134273392.cms)
-- [Why no safety warnings for B787 fleet despite AI 171 crash, US aviation group asks AAIB](https://timesofindia.indiatimes.com/india/why-no-safety-warnings-for-b787-fleet-us-aviation-group-asks-aaib/articleshow/134273393.cms)
 - [Samson's 57 off 22 establishes his role of preferred opener as India seal series](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/sanju-samsons-57-off-22-establishes-his-role-of-the-preferred-opener-as-india-beat-afghanistan-by-seven-wickets-to-seal-t20i-series/articleshow/134269649.cms)
-- [Kolkata Police floats Rs 89 lakh tender to dress up puja volunteers in saffron](https://timesofindia.indiatimes.com/city/kolkata/saffron-makeover-for-20k-police-volunteers/articleshow/134271199.cms)
+- ['Attempted to steal a sea drone': US military destroys two small Iranian boats](https://timesofindia.indiatimes.com/world/middle-east/attempted-to-steal-a-sea-drone-us-military-destroys-two-small-iranian-boats/articleshow/134273392.cms)
 - ['Should be laughed out': T Mobile CFO on Musk's 'Starlink plan' for mobile industry](https://timesofindia.indiatimes.com/technology/tech-news/as-elon-musk-plans-to-shake-up-mobile-industry-with-starlink-t-mobile-ceo-peter-osvaldik-says-that-its-strategy-should-be-laughed-out-of-the-room/articleshow/134268655.cms)
+- [Why no safety warnings for B787 fleet despite AI 171 crash, US aviation group asks AAIB](https://timesofindia.indiatimes.com/india/why-no-safety-warnings-for-b787-fleet-us-aviation-group-asks-aaib/articleshow/134273393.cms)
+- [Kolkata Police floats Rs 89 lakh tender to dress up puja volunteers in saffron](https://timesofindia.indiatimes.com/city/kolkata/saffron-makeover-for-20k-police-volunteers/articleshow/134271199.cms)
 - [SC bins ex-NSE chief Chitra Ramakrishna's plea to stop graft proceedings](https://timesofindia.indiatimes.com/india/sc-bins-ex-nse-chief-chitra-ramakrishnas-plea-to-stop-graft-proceedings/articleshow/134273360.cms)
 - [Pakistan raising Masood Azhar bounty a 'gimmick': India](https://timesofindia.indiatimes.com/india/pak-raising-azhar-bounty-a-gimmick-says-india/articleshow/134273152.cms)
-- [ED puts lens on IBC frauds, including excessive haircuts](https://timesofindia.indiatimes.com/india/ed-puts-lens-on-ibc-frauds-including-excessive-haircuts/articleshow/134273007.cms)
-- ['Our father being slowly killed': Imran Khan's sons accuse Asim Munir of vendetta](https://timesofindia.indiatimes.com/world/pakistan/our-father-being-slowly-killed-imran-khans-sons-accuse-pakistans-asim-munir-of-vendetta/articleshow/134267616.cms)
 
 **NDTV**
 - [US Announces Visa Curbs Over South Africa "Race-Based Discrimination"](https://www.ndtv.com/world-news/us-announces-visa-curbs-over-south-africa-race-based-discrimination-12051831#publisher=newsstand)
@@ -49,19 +49,12 @@
 - [‘Success of our foreign policy’: Omar Abdullah on Pahalgam condemnation in BRICS New Delhi Declaration](https://www.hindustantimes.com/india-news/success-of-our-foreign-policy-omar-abdullah-on-pahalgam-condemnation-in-brics-new-delhi-declaration-101789481001060.html)
 - [Gates Foundation commits $1 billion to help build and deliver equitable AI](https://www.hindustantimes.com/india-news/gates-foundation-commits-1-billion-to-help-build-and-deliver-equitable-ai-101789485803940.html)
 
-**Vijay Karnataka**
-- [UPI Charges: 2000 ರೂ. ಮೇಲ್ಪಟ್ಟ ವಹಿವಾಟಿಗೆ ವರ್ತಕರಿಂದ ಶುಲ್ಕ ವಸೂಲಿ! ಶೇ 0.4 ರಷ್ಟು ಅನ್ವಯ; ಹೊಸ ನಿಯಮ ಪ್ರಕಟ](https://vijaykarnataka.com/business/news/upi-charges-new-rule-announced-merchants-to-levy-charges-on-transactions-exceeding-rs-2000-0-4-percent-rate-applies/articleshow/134266287.cms)
-- [`ನೋಡ್ತಾ ಇರಿ, ಏಷ್ಯಾ ಕಪ್‌ನ ಎರಡೂ ಟ್ರೋಫಿಗಳನ್ನೂ ಶೀಘ್ರವೇ ತರಿಸುತ್ತೇವೆ!': ಹೀಗಿದೆ ನೋಡಿ ಬಿಸಿಸಿಐ ಖಡಕ್ ಹೇಳಿಕೆ](https://vijaykarnataka.com/sports/cricket/news/bcci-secretary-devajit-saikia-assures-bring-home-both-asia-cup-trophies-soon/articleshow/134271120.cms)
-- [ಸಂಜು ಸ್ಯಾಮ್ಸನ್ `ಸಮಯೋಚಿತ' ಅರ್ಧಶತಕ; ಅಫ್ಘಾನಿಸ್ತಾನ ವಿರುದ್ಧ ಟಿ20 ಸರಣಿ ಜಯಿಸಿದ ಭಾರತ](https://vijaykarnataka.com/sports/cricket/news/sanju-samson-quick-fifty-india-beat-afghanistan-in-2nd-t20i-win-series/articleshow/134269388.cms)
-- [ಅಂಬಾನಿ ಗಣೇಶೋತ್ಸವದಲ್ಲಿ ಬಾಲಿವುಡ್ ಕಪಲ್ಸ್ ಕಮಾಲ್; ಎಥ್ನಿಕ್ ಲುಕ್‌ನಲ್ಲಿ ಯಾರು ಹೇಗಿದ್ದರು?](https://vijaykarnataka.com/lifestyle/fashion/bollywood-couples-antilias-ganesh-chaturthi-2026-ethnic-looks/articleshow/134261045.cms)
-- [ವಿಚಾರಣೆ ವರ್ಗಾಯಿಸಬಹುದು, ಅದೇ ಜಡ್ಜ್ ಮುಂದುವರಿಸಬೇಕೆಂದು ಆರೋಪಿ ಪಟ್ಟು ಹಿಡಿವಂತಿಲ್ಲ: ಹೈಕೋರ್ಟ್‌ ಮಹತ್ವದ ಹೇಳಿಕೆ](https://vijaykarnataka.com/news/karnataka/karnataka-high-court-clarifies-accused-cannot-insist-same-judge-to-continue-trial/articleshow/134268576.cms)
-- [BBK 13: ವುಮೆನ್ ಕಾರ್ಡ್‌ ಪ್ಲೇ ಮಾಡಿ ಕ್ಯಾಪ್ಟನ್‌ ಆದ್ರಾ ಸಂಗೀತಾ ಭಟ್? ಕಿರಣ್‌ ಶಾಸ್ತ್ರೀಗೆ ಮೋಸ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/sangeetha-bhatt-becomes-first-captain-of-bigg-boss-kannada-season-13/articleshow/134271932.cms)
-- [ಹೆಚ್ಚು ಗಂಟೆಗಳ ಕೆಲಸ ಹೃದಯಕ್ಕೆ ಅಪಾಯವೇ? ಕೆಲಸದ ಒತ್ತಡದಿಂದ ಹೃದಯಾಘಾತದ ಅಪಾಯ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/health/world-heart-day-2026-long-working-hours-heart-attack-risk/articleshow/134193727.cms)
-- [ಚಾಣಕ್ಯ ನೀತಿ: ಸಂಬಂಧಿಕರ ಮನೆಗೆ ಹೋದಾಗ ಪಾಲಿಸಬೇಕಾದ ನಿಯಮಗಳು.!](https://vijaykarnataka.com/religion/hinduism/chanakya-niti-says-do-not-do-these-mistakes-while-you-went-for-relatives-home/articleshow/134262305.cms)
-- [ಸಣ್ಣ ಜಿರಳೆಗಳ ಕಾಟಕ್ಕೆ ಬ್ರೇಕ್! ಬೇಕಿಂಗ್ ಸೋಡಾ–ಸಕ್ಕರೆ, ವಿನೆಗರ್ ಹೀಗೆ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/baking-soda-sugar-white-vinegar-spray-get-rid-baby-cockroaches-kitchen/articleshow/134257562.cms)
-- [ವಂದೇ ಮಾತರಂ 2 ಪ್ಯಾರಾಗೆ ಸೀಮಿತ: ಸರ್ಕಾರಿ ಕಾರ್ಯಕ್ರಮ ಬಹಿಷ್ಕರಿಸಿ ಎದ್ದು ಹೋದ ಶಿವಮೊಗ್ಗ BJP ಶಾಸಕ ಚನ್ನಬಸಪ್ಪ!](https://vijaykarnataka.com/news/shivamogga/vande-mataram-limited-to-2-stanzas-shivamogga-bjp-mla-channabasappa-walks-out-boycotting-government-event/articleshow/134268323.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [Key allies TDP, Shiv Sena back Amit Shah's statement on UCC in all NDA-ruled States](https://www.thehindu.com/news/national/key-allies-tdp-shiv-sena-back-amit-shahs-statement-on-ucc-in-all-nda-ruled-states/article71470158.ece)
+- [Teen stabbed to death during Ganesh idol procession in Indore](https://www.thehindu.com/news/national/madhya-pradesh/teen-stabbed-to-death-during-ganesh-idol-procession-in-indore/article71468859.ece)
+- [Ex-ABVP convenor, PM-EAC members in NCERT’s new English and Economics textbook committees](https://www.thehindu.com/education/ex-abvp-convenor-pm-eac-members-in-ncerts-new-english-and-economics-textbook-committees/article71468274.ece)
 - [Punjab villager death: Congress leaders stage demonstration against Minister Harpal Cheema](https://www.thehindu.com/news/national/punjab/punjab-villager-death-congress-sachin-pilot-partap-bajwa-detained-during-protest-against-cheema/article71467740.ece)
 - [Candidate dies during physical test for U.P. Home Guard recruitment](https://www.thehindu.com/news/national/uttar-pradesh/candidate-dies-during-physical-test-for-up-home-guard-recruitment/article71469982.ece)
 - [Noida workers' protest case: Allahabad HC adjourns bail plea plearing of scribe Satyam Verma](https://www.thehindu.com/news/national/uttar-pradesh/noida-workers-protest-case-allahabad-hc-adjourns-bail-plea-plearing-of-scribe-satyam-verma/article71469983.ece)
@@ -69,9 +62,6 @@
 - [Meta to share child safety information directly with Indian agencies](https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece)
 - [Agartala-Delhi flight diverted to Lucknow after smoke warning; no injuries reported](https://www.thehindu.com/news/national/uttar-pradesh/agartala-delhi-flight-diverted-to-lucknow-after-smoke-warning-no-injuries-reported/article71469954.ece)
 - [AAP alleges cover-up in girl’s death at a Satya Niketan PG; police denies allegation](https://www.thehindu.com/news/cities/Delhi/aap-alleges-cover-up-in-girls-death-at-a-satya-niketan-pg-police-denies-allegation/article71469675.ece)
-- [Asian Games 2026: J&K govt. allows Mir Bilquis to travel after SC intervention; to coach Indian kayaking, canoeing team](https://www.thehindu.com/news/national/jammu-and-kashmir/asian-games-2026-jk-govt-allowsmir-bilquis-to-travel-after-sc-intervention-to-coach-indian-kayaking-canoeing-team/article71469442.ece)
-- [Power discom is still heavily reliant on Tamil Nadu government’s financial support](https://www.thehindu.com/news/national/tamil-nadu/power-discom-is-still-heavily-reliant-on-tamil-nadu-governments-financial-support/article71469229.ece)
-- [MMC, Rotary Club provide five pink autos to women](https://www.thehindu.com/news/national/tamil-nadu/mmc-rotary-club-provide-five-pink-autos-to-women/article71469714.ece)
 
 **Livemint**
 - [Ed Sheeran tour controversy: Finneas, Aaron Rowe quit after Macklemore is removed over Free Palestine remarks](https://www.livemint.com/news/trends/ed-sheeran-tour-controversy-finneas-aaron-rowe-quit-after-macklemore-is-removed-over-free-palestine-remarks-11789506757465.html)
@@ -100,7 +90,7 @@
 - [ಎಫ್‌ಸಿಆರ್‌ಎ ಉಲ್ಲಂಘನೆ ಆರೋಪ: ಅರುಣಾಚಲ ಪರಿಸರ ಕಾರ್ಯಕರ್ತೆ ವಿರುದ್ಧ ಪ್ರಕರಣ ದಾಖಲಿಸಿದ CBI](https://www.varthabharati.in/National/fcra-violation-allegations-cbi-case-against-arunachal-environmental-activist-2275455)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Indian (7.8)
+- Indian (6.5)
 - Congress (2.9)
 - Iran (2.9)
 - Meta (2.6)
@@ -110,25 +100,25 @@
 - Trump (1.6)
 - Rahul (1.6)
 - Agartala-Delhi (1.6)
-- Attempted (1.3)
-- Iranian (1.3)
-- AAIB (1.3)
+- Brics (1.3)
+- Govt (1.3)
+- Hathras (1.3)
 - Samson's (1.3)
-- Musk's (1.3)
+- Attempted (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Prajakta Mali On Lagnpanchami Natak: 'लग्न करण्याची इच्छा…', प्राजक्ता माळीची सोशल मीडियावरची 'ती' पोस्ट चर्चेत, म्हणाली, 'तुझ्या विचारांच्या प्रेमात मी पूर्वीपासूनच आहे...'](https://marathi.abplive.com/entertainment/prajakta-mali-on-lagnpanchami-natak-marathi-actress-says-everyone-should-watch-this-play-vidula-chougule-swapnil-joshi-madhugandha-kulkarni-marathi-news-1439187)
-- [બનાસકાંઠા કોંગ્રેસમાં આંતરિક કલહ ચરમસીમાએ, જિલ્લા યુથ પ્રમુખનું રાજીનામું, પ્રદેશ નેતૃત્વ સામે ચીંધાઈ આંગળી](https://www.gujaratsamachar.com/news/banaskantha/internal-strife-in-banaskantha-at-its-peak-district-youth-president-resigns-finger-pointed-against-regional-leadership-54102054423)
-- [Fake Doctors West Bengal: বাংলায় ভুয়ো ডাক্তারে ছয়লাপ, কীভাবে? গুরুতর দাবি সংগঠনগুলির](https://bangla.aajtak.in/west-bengal/story/multiple-fake-doctors-identified-in-west-bengal-organisations-point-fingers-at-medical-sud-1451034-2026-09-15)
-- [‘அமெரிக்க அழுத்தத்துக்கு மோடி அரசு பணிகிறது’ - யுபிஐ கட்டண விவகாரத்தில் ராகுல் குற்றச்சாட்டு](https://www.hindutamil.in/news/india/compromised-pm-modi-again-surrendering-to-american-pressure-rahul-gandhi-on-reported-upi-fee)
-- [Shah Rukh Khan confirms 'King' release is NOT delayed, says he suffered a few injuries while shooting: 'All broken is fixed'](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-confirms-king-release-is-not-delayed-says-he-suffered-a-few-injuries-while-shooting-all-broken-is-fixed/articleshow/134258827.cms)
-- [कपिल शर्मा के गणेशोत्सव में पूजा कर ट्रोल हुईं अफसाना खान, देसी लुक में छाईं गिन्नी चतरथ, मीका सिंह ने बजाया ढोल](https://www.aajtak.in/entertainment/bollywood-news/story/afsana-khan-trolled-attending-ganesh-chaturthi-at-kapil-sharma-ginni-chatrath-house-mika-singh-tmovf-dskc-2643176-2026-09-15)
-- [Meta to report child abuse material directly to Indian authorities](https://www.bbc.com/news/articles/cqx2zpn2y97eo)
-- ['See how many allies of Pakistan were in that room': Omar Abdullah praises Centre over Pahalgam condemnation at Brics](https://timesofindia.indiatimes.com/india/see-how-many-allies-of-pakistan-were-in-that-room-omar-abdullah-praises-centre-over-pahalgam-condemnation-at-brics/articleshow/134258795.cms)
-- [Satellites, missiles or something else? US admits it has 'on-orbit' weapons for first time](https://timesofindia.indiatimes.com/defence/international/satellites-missiles-or-something-else-us-admits-it-has-on-orbit-weapons-for-first-time/articleshow/134256786.cms)
-- [Stock Market Crash: દિવસના હાઇ લેવલથી સેન્સેક્સમાં 1400થી વધુ પોઈન્ટનું ગાબડું, નિફ્ટી 474 પોઈન્ટ તૂટ્યો](https://www.gujaratfirst.com/business/stock-market-crash-sensex-nifty-falls-crude-oil-us-bond-yield-reasons/339301/)
+- [Bispecific Antibody Shows Promise in Acute Leukaemia](https://www.emjreviews.com/hematology/news/bispecific-antibody-shows-early-promise-in-acute-leukaemia/)
+- [India Squad For West Indies ODI Series : रोहित शर्मा OUT की IN... अजित आगरकरांच्या बैठकीत होणार फैसला, वेस्ट इंडिजविरुद्ध 'या' दिवशी होणार टीम इंडियाची घोषणा](https://marathi.abplive.com/sports/cricket/rohit-sharma-hardik-pandya-selection-india-squad-for-west-indies-odi-series-update-marathi-news-1439192)
+- [அன்பில் மகேஷ் கேள்விகள்](https://www.tamilmurasu.com.sg/tamilnadu/secretariat-tsunami-hit-pattinapakkam-anbil-mahesh-questions)
+- [Apple’s big launch and what it means for workplace XR](https://uctoday.com/what-apples-latest-launch-means-for-immersive-workplace-tech)
+- [எலெக்ட்ரிக் ஸ்கூட்டர் வாங்குனா பணம் மிச்சமா? மறைக்கப்பட்ட உண்மை!](https://kalkionline.com/business-finance/petrol-vs-electric-scooter-cost-comparison)
+- [Junput Missile Testing Range: জুনপুটে DRDO-র টেস্টিং কেন্দ্র হলে বিরাট লাভ, কেন বাংলার জন্য এই প্রজেক্ট গুরুত্বপূর্ণ?](https://bangla.aajtak.in/west-bengal/south-bengal/story/west-bengal-government-approved-new-drdo-testing-centre-in-junput-abk-1451048-2026-09-15)
+- [पाकिस्तान ने 'मोस्ट वॉन्टेड' मसूद अज़हर पर क्यों बढ़ाई इनामी रकम](https://www.bbc.com/hindi/articles/c3rr4kyk0p8no)
+- [SC gives Rajpal Yadav last 2 weeks to deposit Rs 2 cr](https://m.rediff.com/news/commentary/2026/sep/15/sc-gives-rajpal-yadav-last-2-weeks-to-deposit-rs-2-cr/26a9e99e1cf42ecb30a5c3e25e401d7f)
+- [જુનિયર એશિયા કપ મેન્સ હોકીમાં ભારતીય ટીમ ચેમ્પિયન](https://www.abtakmedia.com/indian-team-crowned-champions-at-the-junior-asia-cup-mens-hockey/)
+- [எம்.எஸ். சுப்புலட்சுமியின் வாழ்க்கை திரைப்படமாகிறது.. ராஷ்மிகா மந்தனா நடிக்கிறார்](https://www.polimernews.com/cinemanews/ms-subbulakshmi-biopic-rashmika-mandanna-anirudh-gautham-thinnanuri-12535602)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
