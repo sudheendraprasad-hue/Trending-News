@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-15 21:02:01
+# India Trending Report — 2026-09-15 21:33:19
 
 ## Google Trends (India) — top trending searches
-1. [real madrid match](https://trends.google.com/trending/rss?geo=IN)
-2. [cryptocurrency trading](https://trends.google.com/trending/rss?geo=IN)
-3. [amitabh bachchan](https://trends.google.com/trending/rss?geo=IN)
-4. [elche cf vs real madrid lineups](https://trends.google.com/trending/rss?geo=IN)
-5. [arda güler](https://trends.google.com/trending/rss?geo=IN)
-6. [social media marketing](https://trends.google.com/trending/rss?geo=IN)
-7. [game development](https://trends.google.com/trending/rss?geo=IN)
-8. [yan diomandé](https://trends.google.com/trending/rss?geo=IN)
-9. [stock market news today](https://trends.google.com/trending/rss?geo=IN)
-10. [max dowman](https://trends.google.com/trending/rss?geo=IN)
+1. [carlos espí](https://trends.google.com/trending/rss?geo=IN)
+2. [mumbai](https://trends.google.com/trending/rss?geo=IN)
+3. [rma](https://trends.google.com/trending/rss?geo=IN)
+4. [cryptocurrency trading](https://trends.google.com/trending/rss?geo=IN)
+5. [amitabh bachchan](https://trends.google.com/trending/rss?geo=IN)
+6. [elche cf vs real madrid lineups](https://trends.google.com/trending/rss?geo=IN)
+7. [arda güler](https://trends.google.com/trending/rss?geo=IN)
+8. [social media marketing](https://trends.google.com/trending/rss?geo=IN)
+9. [game development](https://trends.google.com/trending/rss?geo=IN)
+10. [yan diomandé](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -74,6 +74,7 @@
 - [Man held for damaging temple idols in Tirupattur](https://www.thehindu.com/news/national/tamil-nadu/man-held-for-damaging-temple-idols-in-tirupattur/article71468255.ece)
 
 **Livemint**
+- [Taylor Swift makes first public appearance since wedding in red gingham dress at Travis Kelce’s Chiefs game](https://www.livemint.com/news/trends/taylor-swift-makes-first-public-appearance-since-wedding-in-red-gingham-dress-at-travis-kelce-s-chiefs-game-11789504969791.html)
 - [Iran war costs US military $38 billion as CBO warns of billions more in monthly expenses](https://www.livemint.com/news/us-news/iran-war-costs-us-military-38-billion-as-cbo-warns-of-billions-more-in-monthly-expenses-11789501056348.html)
 - [Pete Hegseth faces impeachment push from Republican lawmaker over military action against Iran without congressional app](https://www.livemint.com/news/us-news/pete-hegseth-faces-impeachment-push-from-republican-lawmaker-over-military-action-against-iran-without-congressional-app-11789498081767.html)
 - [New Measles Deaths Send US Fatality Total to Highest in Decades](https://www.livemint.com/news/us-news/new-measles-deaths-send-us-fatality-total-to-highest-in-decades-11789499497119.html)
@@ -83,7 +84,6 @@
 - [Nick Reiner will not face death penalty in alleged murders of parents Rob and Michele Singer Reiner](https://www.livemint.com/news/us-news/nick-reiner-will-not-face-death-penalty-in-alleged-murders-of-parents-rob-and-michele-singer-reiner-11789486872897.html)
 - [Agartala-Delhi IndiGo flight carrying 103 passengers diverted to Lucknow after smoke warning](https://www.livemint.com/news/india/agartaladelhi-indigo-flight-carrying-103-passengers-diverted-to-lucknow-after-smoke-warning-11789490248494.html)
 - [Trump’s bid to put his name on Kennedy Center blocked again by federal judge; ‘Trump Plaza’ plan also halted](https://www.livemint.com/news/us-news/trumps-bid-to-put-his-name-on-kennedy-center-blocked-again-by-federal-judge-11789490055385.html)
-- [UPI sets charges for merchant payments above  ₹2,000, caps fee at  ₹300](https://www.livemint.com/news/upi-sets-charges-for-merchant-payments-above-2-000-caps-fee-at-300-11789482097465.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [इस देसी SUV ने क्रैश टेस्ट में गाड़ दिए झंडे, सेफ्टी के लिए मिली पूरी 5-स्टार रेटिंग; जानिए खासियतें](https://www.livehindustan.com/auto/mahindra-xuv-7xo-achieves-a-5-star-safety-rating-in-bharat-ncap-crash-test-201789462395044.html)
-- [Sachin Tendulkar's ODI record broken: Zimbabwe's Brendan Taylor makes history vs Australia](https://timesofindia.indiatimes.com/sports/cricket/news/sachin-tendulkars-odi-record-broken-zimbabwes-brendan-taylor-makes-history-vs-australia/articleshow/134256899.cms)
-- [India's goods trade deficit narrows to nearly $27 billion in August](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/india/india-s-goods-trade-deficit-narrows-to-nearly-27-billion-in-august-14030194.html)
-- [യൂട്യുബര്‍ തംബുരു മരിച്ച നിലയിൽ: സംഭവം 13 വയസ്സുള്ള മകൾക്കൊപ്പം താമസിച്ച വാടകവീട്ടിൽ](https://www.vanitha.in/celluloid/miniscreen/2026/09/15/thamburu-youtuber-obit-news.html)
-- [યુએસ ઓપન 2026: એલેના રાયબાકીના અને અલેક્ઝાન્ડર ઝવેરેવે સિંગલ્સ ખિતાબ જીત્યા](https://www.gujaratsamachar.com/news/daily-current-affairs/us-open-2026-elena-rybakina-and-alexander-zverev-win-singles-titles-23243528941)
-- [Imran Khan: इम्रान खान यांच्या सुटकेसाठी ऑस्ट्रेलियन कर्णधार सरसावले! परराष्ट्र मंत्र्यांकडे केली मागणी](https://www.tv9marathi.com/photo-gallery/sports-photos/seven-australian-captains-have-urged-the-foreign-minister-to-secure-imran-khan-release-1756947.html)
-- [ఇమ్రాన్ ఖాన్ విషయంలో జోక్యం చేసుకోండి.. తమ ప్రభుత్వానికి ఆసీస్ మాజీ కెప్టెన్ల లేఖ](https://www.andhrajyothy.com/2026/sports/imran-khan-australia-former-captains-appeal-government-intervention-srav-1558252.html)
-- [പി.ജയരാജനും വി. ശിവൻകുട്ടിയും സിപിഎം സംസ്ഥാന സെക്രട്ടേറിയറ്റിൽ- CPM](https://www.manoramaonline.com/news/latest-news/2026/09/15/cpm-state-secretariat-p-jayarajan-mb-rajesh-v-sivankutty.html)
-- [Radhika Ambani Look For Ganesh Utsav : सोन्याच्या जरीची साडी, पारंपरिक दागिने.. गणेशोत्सवात अंबानींच्या धाकट्या सुनेचा ‘रॉयल’ लूक चर्चेत](https://www.tv9marathi.com/photo-gallery/radhika-merchants-royal-look-kanjivaram-saree-marodi-embroidery-and-dance-performance-1756937.html)
-- [અમેરિકાના દબાણમાં સરકારે UPI પર ફીસ વસૂલવાનો રસ્તો ખોલ્યો! કેન્દ્ર પર રાહુલ ગાંધીનો ગંભીર આરોપ](https://www.gujaratsamachar.com/news/national/UPI-Fee-Controversy-Congress-Attacks-Govt-Over-Charges-on-Transactions-Above-2000-92129924629)
+- [തിരിച്ചുവരുമോ സഞ്ജു? വൈഭവ് കാത്തിരിക്കുന്നു! രണ്ടിലൊന്ന് ഇന്നറിയാം](https://www.asianetnews.com/sports-special/will-sanju-samson-make-his-comeback-in-second-t20-against-afghanistan-today-articleshow-g92vvuq)
+- [മികച്ച പ്രേക്ഷക പ്രതികരണങ്ങളോടെ സൂരി ചിത്രം 'മണ്ടാടി'; കളക്ഷനിൽ വമ്പൻ മുന്നേറ്റം](https://www.asianetnews.com/entertainment-news/mandaadi-starring-soori-worldwide-box-office-collection-articleshow-txaea17)
+- [अमेरिका ने अंतरिक्ष को बनाया जंग का नया मैदान, स्पेस में घातक हथियारों की तैनाती की पुष्टि, स्पेस में होगा महायुद्ध?](https://navbharattimes.indiatimes.com/world/america/us-confirms-weapons-deployed-in-space-orbit-space-force-new-battlefield-capabilities/articleshow/134257508.cms)
+- [पश्चिम बंगाल: IPS की वर्दी में सलाम और इंशाल्लाह... वीडियो पर विवाद, बुशरा बानो का तबादला](https://www.aajtak.in/west-bengal/story/west-bengal-ips-bushra-bano-transfer-upsc-video-salam-inshallah-ntc-dhrj-rpti-2643138-2026-09-15)
+- [Trending Video : આ નેતાને કારણે આખું પાકિસ્તાન શરમથી પાણી-પાણી, ચાર અક્ષર અંગ્રેજી વાંચવામાં થરથર કાંપ્યો MPA !](https://tv9gujarati.com/trending/trending-funny-viral-video-pakistan-mpa-shabbir-qureshi-english-reading-1515943.html)
+- [પેટ્રોલના ભાવમાં ભડકો થશે? વિશ્વમાં ઓઈલની અછતનો ખતરો, બાબ અલ-મંદેબ બાદ સાઉદીનો મુખ્ય રૂટ પણ ઠપ](https://www.gujaratsamachar.com/news/business/will-petrol-prices-spike-threat-of-oil-shortage-in-the-world-after-bab-al-mandeb-saudis-main-route-also-blocked-82015424459)
+- [US Supreme Court rejects Trump’s plans on postal ballots: Why it matters](https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters)
+- [Police detain driver for striking woman motorcyclist](https://www.bbc.com/news/articles/c9rk37k0rdpko)
+- [Amitabh Bachchan Retirement: 83 उम्र में रिटायरमेंट ले रहे अमिताभ बच्चन, KBC-बॉलीवुड को कहेंगे अलविदा? खुद ही बता दिया सच](https://www.aajtak.in/entertainment/bollywood-news/story/amitabh-bachchan-break-silence-retirement-kaun-banega-crorepati-bollywood-quitting-tmovf-dskc-2643109-2026-09-15)
+- [इस खाड़ी देश में 30 सितंबर के बाद क्या होगा, एयर डिफेंस सिस्टम हटा रहा US!](https://www.aajtak.in/world/story/iraq-us-military-moving-iraqi-militia-baghdad-american-bases-ntcppl-dskc-2643127-2026-09-15)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
