@@ -1,15 +1,15 @@
-# India Trending Report — 2026-09-15 19:34:06
+# India Trending Report — 2026-09-15 20:02:13
 
 ## Google Trends (India) — top trending searches
-1. [rayo vallecano vs espanyol standings](https://trends.google.com/trending/rss?geo=IN)
-2. [max dowman](https://trends.google.com/trending/rss?geo=IN)
-3. [apple iphone 17 pro max](https://trends.google.com/trending/rss?geo=IN)
-4. [fiorentina vs pisa](https://trends.google.com/trending/rss?geo=IN)
-5. [de zerbi](https://trends.google.com/trending/rss?geo=IN)
-6. [what is a data breach](https://trends.google.com/trending/rss?geo=IN)
-7. [mortgage rates today](https://trends.google.com/trending/rss?geo=IN)
-8. [reading vs brentford](https://trends.google.com/trending/rss?geo=IN)
-9. [clarity act](https://trends.google.com/trending/rss?geo=IN)
+1. [yan diomandé](https://trends.google.com/trending/rss?geo=IN)
+2. [real madrid vs elche](https://trends.google.com/trending/rss?geo=IN)
+3. [rayo vallecano vs espanyol standings](https://trends.google.com/trending/rss?geo=IN)
+4. [max dowman](https://trends.google.com/trending/rss?geo=IN)
+5. [apple iphone 17 pro max](https://trends.google.com/trending/rss?geo=IN)
+6. [fiorentina vs pisa](https://trends.google.com/trending/rss?geo=IN)
+7. [de zerbi](https://trends.google.com/trending/rss?geo=IN)
+8. [mortgage rates today](https://trends.google.com/trending/rss?geo=IN)
+9. [what is a data breach](https://trends.google.com/trending/rss?geo=IN)
 10. [harry brook](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [दिल्ली-दुबई स्पाइस जेट की 2 फ्लाइट्स 24 घंटे लेट, IGI एयरपोर्ट पर यात्रियों का जोरदार हंगामा](https://www.aajtak.in/india/delhi/story/delhi-to-dubai-spicejet-flights-delay-passenger-protest-igi-airport-video-ntc-drmt-rpti-2643047-2026-09-15)
-- [నాయ‌క‌త్వం అంటే ఇది కాదు.. విజయ్‌ సేతుప‌తి సంచ‌ల‌న వ్యాఖ్య‌లు](https://www.chitrajyothy.com/2026/south-cinema/this-is-not-leadership-vijay-sethupathi-sensational-comments-on-recent-politics-in-tamil-bigg-boss-10-srk-75406.html)
-- [Latur News: शिक्षण संस्थाचालकाची आत्महत्या, डोक्यात गोळी झाडून संपवलं; लातूर हादरले](https://saamtv.esakal.com/maharashtra/latur-news-education-institution-director-dies-by-end-life-shoots-himself-at-home-pvm91)
-- [Tata का ये स्टॉक बना रॉकेट, 20 फीसदी चढ़ा भाव, RBI के फैसले का असर](https://www.aajtak.in/business/news/story/tata-group-share-20-percent-upper-circuit-after-rbi-action-tutd-dskc-2643039-2026-09-15)
-- [സൗദി അറേബ്യയിൽ വൻ യുറേനിയം ശേഖരം; മദീനക്കടിയിൽ 110 മില്യൺ ടൺ അയിര് കണ്ടെത്തിയതായി ഊർജ്ജ മന്ത്രാലയം](https://www.asianetnews.com/international-news/saudi-discovers-110-million-tonnes-of-uranium-bearing-ore-in-madinah-articleshow-g6wqsiq)
-- [Live Murder in Hyderabad: నాగోల్‌లో రౌడీషీటర్ దారుణహత్య.. అంతా చూస్తుండగానే స్నేహితుడి గ్యాంగ్ అరాచకం! నిందితుల అరెస్ట్](https://telugu.abplive.com/crime/live-murder-in-hyderabad-rowdy-sheeter-killed-by-close-friend-over-financial-disputes-in-nagole-258951)
-- [రష్యా ఆంక్షల చట్టంలో భారత్‌ను చేర్చే సవరణ](https://prajasakti.com/latest-news/international-news/us-lawmaker-submits-amendment-naming-india-in-russia-sanctions-act)
-- [రష్యా ఆంక్షల చట్టంలో భారత్‌ను చేర్చే సవరణ](https://www.prajasakti.com/latest-news/international-news/us-lawmaker-submits-amendment-naming-india-in-russia-sanctions-act)
-- [‘29 Sept tak metro mein safar na karein’: Multiple Delhi schools receive bomb threats](https://timesofindia.indiatimes.com/city/delhi/29-sept-tak-metro-mein-safar-na-karein-multiple-delhi-schools-receive-bomb-threats/articleshow/134255032.cms)
-- [வளைகாப்பு நிகழ்ச்சி](https://www.dailythanthi.com/cinema/cinemanews/actress-samantha-shares-photos-of-the-baby-shower-ceremony-on-instagram)
+- ['This was my last World Cup': Bhuvneshwar Kumar reveals why India return hopes faded](https://timesofindia.indiatimes.com/sports/cricket/news/this-was-my-last-world-cup-bhuvneshwar-kumar-reveals-why-india-return-hopes-faded/articleshow/134255830.cms)
+- [Robert Kiyosaki Crash Warning: 'इतिहास का सबसे बड़ा क्रैश शुरू...', रॉबर्ट कियोसाकी बोले- सावधान हो जाएं](https://www.aajtak.in/business/news/story/robert-kiyosaki-biggest-crash-in-history-warning-viral-x-post-advice-gold-silver-buying-tutc-dskc-2643068-2026-09-15)
+- [જામનગરના કાલાવડ નાકા બહાર 6 ઇંચ વરસાદમાં વૈકલ્પિક માર્ગમાં મોટી તિરાડો પડી : વાહનચાલકોની સુરક્ષાને લઈ સવાલ](https://www.gujaratsamachar.com/news/jamnagar/6-inches-of-rain-outside-kalavad-naka-in-jamnagar-caused-major-cracks-in-the-alternative-road-questions-about-the-safety-of-motorists-11803392101)
+- [మహిళా బైకర్ సియా హిట్ అండ్ రన్ కేసు.. నిందితుడిపై హత్యాయత్నం సెక్షన్‌ జోడించిన పోలీసులు](https://www.andhrajyothy.com/2026/national/gurugram-hit-and-run-biker-siya-attempt-to-murder-section-added-kalyan-suri-1558236.html)
+- ['നഖ്‌വിയില്‍ നിന്ന് ഏഷ്യാകപ്പ് മേടിക്കില്ലെന്ന് നേരത്തെ അറിയിച്ചിരുന്നു'; വ്യക്തത വരുത്തി ബിസിസിഐ](https://www.asianetnews.com/cricket-sports/india-refused-womens-asia-cup-presentation-ceremony-over-pcb-chief-mohsin-naqvi-involvement-articleshow-4xszqeq)
+- [HCLTech, HDFC Bank, HFCL among buzzing stocks as SENSEX falls nearly 300 pts; NIFTY trades below 23,300](https://upstox.com/news/market-news/stocks/hcl-tech-hdfc-bank-hfcl-among-buzzing-stocks-as-sensex-falls-nearly-300-pts-nifty-trades-below-23-300/article-200275/)
+- [क्या दो हज़ार रुपए से ज़्यादा की यूपीआई पेमेंट पर लगेगा चार्ज, क्यों परेशान हैं लोग?](https://www.bbc.com/hindi/articles/cqn0j90e9j0po)
+- [Transforming Amyloidosis Care: An Interview with Helen Lachmann](https://www.emjreviews.com/flagship-journal/article/transforming-amyloidosis-care-an-interview-with-helen-lachmann/)
+- [Sanjeev Sonawane Death Latur Crime News: लातूरचे प्रसिद्ध संस्थाचालक संजीव सोनवणे यांनी राहत्या घरी संपवलं जीवन; घटनेने लातूरमध्ये एकच खळबळ](https://marathi.abplive.com/crime/sanjeev-sonawane-end-his-life-in-latur-sanjeev-sonawane-crime-marathi-news-1439156)
+- [APPSC Job Notifications: ఏపీలో కొలువుల జాతర.. 892 పోస్టులకు ఏపీపీఎస్సీ నోటిఫికేషన్లు](https://telugu.abplive.com/jobs/appsc-recruitment-2026-massive-job-drive-announced-for-892-vacancies-in-andhra-pradesh-258954)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
