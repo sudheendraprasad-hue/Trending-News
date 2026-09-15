@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-15 01:36:40
+# India Trending Report — 2026-09-15 02:03:41
 
 ## Google Trends (India) — top trending searches
-1. [northern ireland](https://trends.google.com/trending/rss?geo=IN)
-2. [పెట్టుబడి](https://trends.google.com/trending/rss?geo=IN)
-3. [ਮੌਸਮ](https://trends.google.com/trending/rss?geo=IN)
-4. [15 september 2026](https://trends.google.com/trending/rss?geo=IN)
-5. [ஆப்கானிஸ்தான் தேசிய கிரிக்கெட் அணி](https://trends.google.com/trending/rss?geo=IN)
-6. [brendan taylor](https://trends.google.com/trending/rss?geo=IN)
-7. [लाइसेंस](https://trends.google.com/trending/rss?geo=IN)
-8. [వినాయక చవితి](https://trends.google.com/trending/rss?geo=IN)
-9. [ഡ്രൈവിംഗ്](https://trends.google.com/trending/rss?geo=IN)
-10. [श्री गणेश चतुर्थी](https://trends.google.com/trending/rss?geo=IN)
+1. [campeones cup](https://trends.google.com/trending/rss?geo=IN)
+2. [chiefs vs broncos](https://trends.google.com/trending/rss?geo=IN)
+3. [ऑस्ट्रेलिया](https://trends.google.com/trending/rss?geo=IN)
+4. [ಸಾಲ](https://trends.google.com/trending/rss?geo=IN)
+5. [crude oil price today](https://trends.google.com/trending/rss?geo=IN)
+6. [ஏர்டெல்](https://trends.google.com/trending/rss?geo=IN)
+7. [હવામાન](https://trends.google.com/trending/rss?geo=IN)
+8. [weather surat](https://trends.google.com/trending/rss?geo=IN)
+9. [ഫാസ്ടാഗ്](https://trends.google.com/trending/rss?geo=IN)
+10. [northern ireland](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [On Amit Shah's UCC implementation claim, 3 BJP allies sound caution](https://timesofindia.indiatimes.com/india/on-shahs-ucc-claim-3-bjp-allies-sound-caution/articleshow/134249377.cms)
+- ['He said stop bike': Gurgaon woman biker recounts moments before car hits her](https://timesofindia.indiatimes.com/city/gurgaon/he-said-stop-bike-gurgaon-woman-biker-recounts-moments-before-speeding-car-chased-harassed-then-knocked-her-down/articleshow/134249802.cms)
 - [Retail inflation surges to 8-month high of 4.8% in August](https://timesofindia.indiatimes.com/business/india-business/retail-inflation-surges-to-8-month-high-of-4-8-in-august/articleshow/134249473.cms)
 - [CBI files FIR in Disha Salian's death case after HC order](https://timesofindia.indiatimes.com/india/cbi-files-fir-in-disha-salians-death-case-after-hc-order/articleshow/134249326.cms)
-- ['Are they living in the past?': Ex-India cricketer slams Mohsin Naqvi](https://timesofindia.indiatimes.com/sports/cricket/news/are-they-living-in-the-past-ex-india-cricketer-slams-mohsin-naqvi-after-asia-cup-trophy-snub/articleshow/134249649.cms)
 - [Oracle layoffs: Employees receive ‘6am job cuts’ email from Oracle leadership again](https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms)
+- [How the Sarvatra turns Indian Army's armoured thrust into a juggernaut](https://timesofindia.indiatimes.com/defence/news/how-the-sarvatra-turns-indian-armys-armoured-thrust-into-a-juggernaut/articleshow/134241544.cms)
+- ['Are they living in the past?': Ex-India cricketer slams Mohsin Naqvi](https://timesofindia.indiatimes.com/sports/cricket/news/are-they-living-in-the-past-ex-india-cricketer-slams-mohsin-naqvi-after-asia-cup-trophy-snub/articleshow/134249649.cms)
 - [BJP single-largest party in Rajasthan urban polls, denied sweep by Independents](https://timesofindia.indiatimes.com/city/jaipur/bjp-wins-but-independents-rewrite-rajasthan-civic-poll-math/articleshow/134247421.cms)
 - ['3 Cong CMs invited to Brics dinner but they didn't turn up'](https://timesofindia.indiatimes.com/india/3-cong-cms-invited-to-brics-dinner-but-they-didnt-turn-up/articleshow/134247911.cms)
-- ['The mistakes I made, I won't make again': Animesh Kujur ready for Asian Games](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-the-mistakes-i-made-i-wont-make-again-sprinter-animesh-kujur-ready-for-a-bigger-challenge/articleshow/134241078.cms)
-- [Scotland, Northern Ireland and Wales sign historic MoU to break away from UK](https://timesofindia.indiatimes.com/world/uk/scotland-northern-ireland-and-wales-sign-mou-to-break-away-from-uk/articleshow/134247408.cms)
-- [US grandpa's $100K treehouse becomes $325K backyard castle](https://timesofindia.indiatimes.com/world/us/a-us-grandfather-planned-a-100000-150000-treehouse-for-his-grandkids-it-grew-into-a-325000-backyard-castle-with-a-pirate-ship-and-200-foot-zipline/articleshow/134246187.cms)
+- [Gavaskar urges BCCI to make big change, names Sachin, Dravid for key role](https://timesofindia.indiatimes.com/sports/cricket/news/sunil-gavaskar-urges-bcci-to-make-big-change-names-sachin-tendulkar-rahul-dravid-for-key-role/articleshow/134249829.cms)
 
 **NDTV**
 - [Trump Seeks Reimbursement From Countries For Securing Strait of Hormuz](https://www.ndtv.com/world-news/iran-war-donald-trump-seeks-reimbursement-from-countries-for-securing-strait-of-hormuz-12047081#publisher=newsstand)
@@ -39,6 +39,7 @@
 
 **Hindustan Times**
 - [Kharge slams BJP’s demand for action against inspector](https://www.hindustantimes.com/india-news/kharge-slams-bjp-s-demand-for-action-against-inspector-101789414331877.html)
+- [Hilsa tide turns as India sends 500MT fish to Bangladesh over 2 months: 'Usually the other way round'](https://www.hindustantimes.com/india-news/hilsa-tide-turns-as-india-sends-500mt-fish-to-bangladesh-over-2-months-usually-the-other-way-round-101789414269550.html)
 - [Govt calls urgent meet after 3 Italians board flight to Munich without completing immigration at Delhi airport](https://www.hindustantimes.com/india-news/govt-calls-urgent-meet-after-3-italians-board-flight-to-munich-without-completing-immigration-at-delhi-airport-101789409585264.html)
 - [‘She is experiencing something akin to trauma’: Gurugram biker's family breaks silence after hit-and-run incident](https://www.hindustantimes.com/india-news/she-is-experiencing-something-akin-to-trauma-gurugram-bikers-family-breaks-silence-after-hit-and-run-incident-101789403086084.html)
 - [‘Someone gave  ₹20 to eat’: BJP's richest Maharashtra MLA Parag Shah turns beggar for a day](https://www.hindustantimes.com/india-news/someone-gave-rs-20-to-eat-bjp-mla-parag-shah-with-rs-3-383-crore-assets-turns-beggar-for-a-day-on-gurus-advice-101789399480097.html)
@@ -47,19 +48,18 @@
 - [Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy](https://www.hindustantimes.com/india-news/delhi-airport-denies-notice-over-reports-of-security-lapse-involving-three-air-india-passengers-to-italy-101789399617067.html)
 - [India approves up to 654 MW of power export to flood-hit Nepal for 18 hours every day till December 31](https://www.hindustantimes.com/india-news/india-approves-up-to-654-mw-of-power-export-to-flood-hit-nepal-for-18-hours-every-day-till-december-31-2026-101789398430567.html)
 - [Why Delhi HC rejected Vimal Elaichi makers' plea over FDA notice to SRK, Ajay Devgn, Tiger Shroff](https://www.hindustantimes.com/india-news/delhi-hc-rejects-vimal-elaichi-makers-plea-over-maharashtra-fda-notice-to-shah-rukh-khan-ajay-devgn-tiger-shroff-101789396450435.html)
-- [Monsoon withdrawal to commence from Sept 19; rain deficit stays at 15%: IMD](https://www.hindustantimes.com/india-news/monsoon-withdrawal-to-commence-from-sept-19-rain-deficit-stays-at-15-imd-101789397048951.html)
 
 **Vijay Karnataka**
+- [ʼMr.Munir You are Firedʼ; ಶಾಂತಿ ಮುಖವಾಡ ಧರಿಸಿದ್ದ ಪಾಕ್‌ ಸೇನಾ ಮುಖ್ಯಸ್ಥ ಮುನೀರ್‌ನ ಟ್ರೋಲ್‌ ಮಾಡಿದ ಇರಾನಿ ಪತ್ರಕರ್ತ!](https://vijaykarnataka.com/news/world/mr-munir-you-are-fired-iranian-journalist-questions-pakistans-role-in-west-asia-hails-modi-leadership/articleshow/134249577.cms)
 - [ಹಾರೋಹಳ್ಳಿಗೆ ಬರಲಿದೆ 1000 ಕೋಟಿ ಕೈಗಾರಿಕಾ ಹೂಡಿಕೆ? ವಿಪ್ರೊ ಕವಾಸಕಿ ಘಟಕ ಸ್ಥಾಪನೆ ಪ್ರಸ್ತಾವನೆ, 1,200 ಉದ್ಯೋಗ ಸೃಷ್ಟಿ ನಿರೀಕ್ಷೆ](https://vijaykarnataka.com/news/ramanagara/1000-crore-rupees-industrial-investment-headed-to-harohalli-proposal-to-set-up-wipro-kawasaki-unit-1200-jobs-expected-to-be-created/articleshow/134236529.cms)
 - [ಮಾರಾಟ ಮಾಡಿ 6 ತಿಂಗಳಾದ್ರೂ ಬೆಳೆಗಾರರಿಗೆ 265 ಕೋಟಿ ರೂ. ರಾಗಿ ಹಣ ಬಾಕಿ: ಬರ, ಬೆಲೆ ಏರಿಕೆ ನಡುವೆ ರೈತರಿಗೆ ಸರ್ಕಾರದ ವಿಳಂಬದ ಬರೆ!](https://vijaykarnataka.com/news/chikkamagaluru/265-cr-rupees-pending-for-farmers-selling-ragi-even-after-6-months-ragi-farmers-in-distress/articleshow/134249501.cms)
-- [ಪ್ರಧಾನಿ ಮೋದಿ ಜನ್ಮದಿನ: ಸೆ. 17ಕ್ಕೆ ಸಂಜೆ 6 ರಿಂದ 7 ರವರೆಗೆ ಮನೆಗಳಲ್ಲಿ ಆಶೀರ್ವಾದದ ದೀಪ ಬೆಳಗಿಸಿ! ದೇಶದ ಜನರಿಗೆ BJP ಕರೆ](https://vijaykarnataka.com/news/india/pm-modi-birthday-bjp-calls-for-lighting-lamps-of-blessing-at-home-and-praying-for-his-long-life-and-good-health/articleshow/134243862.cms)
 - [50ರ ನಂತರವೂ ವಿಜಯ್–ಅಜಿತ್‌ನಂತೆ ಫಿಟ್ ಆಗಿರಬೇಕಾ? ವಿಜ್ಞಾನ ಹೇಳುವ ಈ ಆರೋಗ್ಯಕರ ಅಭ್ಯಾಸಗಳನ್ನು ರೂಢಿಸಿಕೊಳ್ಳಿ!](https://vijaykarnataka.com/lifestyle/fitness/vijay-ajith-fitness-after-50-healthy-habits/articleshow/134244779.cms)
-- [ಅಫ್ಘಾನಿಸ್ತಾನ ವಿರುದ್ಧ 2ನೇ ಪಂದ್ಯಕ್ಕೆ ಸಂಜು ಸ್ಯಾಮ್ಸನ್ ಬದಲು ವೈಭವ್ ಸೂರ್ಯವಂಶಿ? ಹೀಗಿದೆ ಟೀಂ ಇಂಡಿಯಾ ಸಂಭಾವ್ಯ ಇಲೆವೆನ್](https://vijaykarnataka.com/sports/cricket/news/india-likely-eleven-against-vs-afghanistan-2nd-t20i-vaibhav-sooryavanshi-in-sanju-samson-out/articleshow/134246454.cms)
-- [ಗಗನ್‌ಗೆ ವಿಐಪಿ ಪಟ್ಟನೂ ಇಲ್ಲ, ಕ್ಯಾಪ್ಟ್‌ನ್‌ ಆಡೋಕೆ ಯೋಗನೂ ಇಲ್ಲ! ಸ್ಪರ್ಧಿಗಳ ಆಲೋಚನೆಯೇ ತಲೆ ಕೆಳಗೆ ಮಾಡಿದ 'ಬಿಗ್‌ ಬಾಸ್'!](https://vijaykarnataka.com/tv/bigg-boss-kannada/this-time-no-calculations-worked-inside-the-bigg-boss-kannada-13-house-the-captaincy-and-grocery-tasks-completely-altered-the-contestants-way-of-thinking/articleshow/134247000.cms)
+- [ಪ್ರಧಾನಿ ಮೋದಿ ಜನ್ಮದಿನ: ಸೆ. 17ಕ್ಕೆ ಸಂಜೆ 6 ರಿಂದ 7 ರವರೆಗೆ ಮನೆಗಳಲ್ಲಿ ಆಶೀರ್ವಾದದ ದೀಪ ಬೆಳಗಿಸಿ! ದೇಶದ ಜನರಿಗೆ BJP ಕರೆ](https://vijaykarnataka.com/news/india/pm-modi-birthday-bjp-calls-for-lighting-lamps-of-blessing-at-home-and-praying-for-his-long-life-and-good-health/articleshow/134243862.cms)
+- [ನಟಿ ಸಮಂತಾಗೆ ಸಾಂಪ್ರದಾಯಿಕ ಸೀಮಂತ ಶಾಸ್ತ್ರ, ಮದುವೆ ಆದ ಜಾಗದಲ್ಲಿಯೇ ಗರ್ಭ ಸಂಸ್ಕಾರ ಮಾಡಿಸಿದ ಸ್ಟಾರ್ ಜೋಡಿ!](https://vijaykarnataka.com/entertainment/news/traditional-baby-shower-ceremony-for-actress-samantha-ruth-prabhu/articleshow/134247474.cms)
 - [ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಮೊಮ್ಮಗಳು ನವ್ಯಾ; ತಾಯಿ ಶ್ವೇತಾ ಬಚ್ಚನ್‌ರ 10 ವರ್ಷ ಹಳೆಯ ಗೋಲ್ಡನ್ ಡ್ರೆಸ್‌ನಲ್ಲಿ ಮಿಂಚಿದ ಲುಕ್](https://vijaykarnataka.com/lifestyle/fashion/navya-naveli-nanda-wears-shweta-bachchan-10-year-old-golden-dress/articleshow/134044670.cms)
-- [ದೀಪದ ಜ್ವಾಲೆಯಲ್ಲಿ ಕಾಣಿಸುವ ವಿವಿಧ ಆಕಾರಗಳ ಅರ್ಥ ಮತ್ತು ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/know-which-type-of-puja-diya-flame-is-auspicious/articleshow/134241622.cms)
+- [ದೇವರ ಪೂಜೆ ಮಾಡುವಾಗ ಕಣ್ಣೀರು ಬರುವುದರ ಹಿಂದಿರುವ ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/know-why-automatically-tears-will-come-while-doing-puja/articleshow/134249876.cms)
 - [35ರ ನಂತರ ತಂದೆಯಾಗುವುದು: ರಣವೀರ್ ಸಿಂಗ್, ವಿಕ್ಕಿ ಕೌಶಲ್ ಬಳಿಕ ಪುರುಷರ ವೀರ್ಯಾಣು ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಅಧ್ಯಾಯನ ಹೇಳುವುದೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/ranveer-singh-vicky-kaushal-fatherhood-after-35-male-fertility-sperm-health/articleshow/134236848.cms)
-- [ಇಮಿಗ್ರೇಷನ್ ಇಲ್ಲದೆ ದಿಲ್ಲಿಯಿಂದ ಜರ್ಮನಿ ತಲುಪಿದ ಮೂವರು ಇಟಲಿಗರು! ಏರ್ ಇಂಡಿಯಾ ವಿರುದ್ಧ ಕೇಂದ್ರ ಗರಂ](https://vijaykarnataka.com/news/new-delhi/3-italians-fly-from-delhi-airport-without-immigration-check-notice-to-air-india/articleshow/134245597.cms)
+- [ಅಫ್ಘಾನಿಸ್ತಾನ ವಿರುದ್ಧ 2ನೇ ಪಂದ್ಯಕ್ಕೆ ಸಂಜು ಸ್ಯಾಮ್ಸನ್ ಬದಲು ವೈಭವ್ ಸೂರ್ಯವಂಶಿ? ಹೀಗಿದೆ ಟೀಂ ಇಂಡಿಯಾ ಸಂಭಾವ್ಯ ಇಲೆವೆನ್](https://vijaykarnataka.com/sports/cricket/news/india-likely-eleven-against-vs-afghanistan-2nd-t20i-vaibhav-sooryavanshi-in-sanju-samson-out/articleshow/134246454.cms)
 
 **The Hindu**
 - [Air India gets show-cause notice over Italian passengers skipping immigration at Delhi airport](https://www.thehindu.com/news/national/air-india-gets-show-cause-notice-over-italian-passengers-skipping-immigration-at-delhi-airport/article71466538.ece)
@@ -74,6 +74,9 @@
 - [Govt. bars bank charges on payments up to ₹2,000 via UPI, RuPay-powered debit cards](https://www.thehindu.com/business/govt-bars-bank-charges-on-upi-payments-up-to-2k/article71466438.ece)
 
 **Livemint**
+- [‘Very high salary is a trap’: MBA professional pitches  ₹1.5–2 lakh per month as the ideal urban benchmark](https://www.livemint.com/news/trends/very-high-salary-is-a-trap-mba-professional-pitches-1-5-2-lakh-per-month-as-the-ideal-urban-benchmark-11789434772916.html)
+- [Kamala Harris vs Gavin Newsom in 2028? Here's what California Governor said about his presidential bid](https://www.livemint.com/news/us-news/kamala-harris-vs-gavin-newsom-in-2028-heres-what-california-governor-said-about-his-presidential-bid-11789435378287.html)
+- [Emmy 2026: Alan Cumming urges Americans to vote as he makes National Voter Registration Day plea](https://www.livemint.com/news/us-news/emmy-2026-alan-cumming-urges-americans-to-vote-as-he-makes-national-voter-registration-day-plea-11789434812147.html)
 - [US Supreme Court rejects Trump bid to restrict mail ballots ahead of November midterm elections](https://www.livemint.com/news/us-news/us-supreme-court-rejects-trump-bid-to-restrict-mail-ballots-ahead-of-november-midterm-elections-11789435139476.html)
 - [US-Iran War LIVE: Houthi attacks on 3 Saudi cities injure 13 civilians](https://www.livemint.com/news/us-news/us-iran-war-live-updates-houthis-attack-saudi-strait-of-hormuz-oil-price-trump-11789433169706.html)
 - [CGHS maps domestic manufacturing capacity for 153 critical drugs to shorten supply delays](https://www.livemint.com/news/cghs-domestic-manufacturing-capacity-153-critical-drugs-supply-delays-oncology-diabetes-muscular-atrophy-patients-11789378837821.html)
@@ -81,9 +84,6 @@
 - [₹7.36 trillion question: Can India store enough power to keep the lights on?](https://www.livemint.com/news/india/736-trillion-question-can-india-store-enough-power-to-keep-the-lights-on-11789383023875.html)
 - [Mundhe flags 2,841% markup on hospital consumables, seeks NPPA review](https://www.livemint.com/news/mundhe-trains-guns-on-hospital-consumables-flags-2-841-price-gap-medical-devices-pricing-patients-burden-11789370825928.html)
 - [Gurugram biker hit-and-run: Accused says he didn't know biker was a woman, ‘I tried hard to save’ | Watch video](https://www.livemint.com/news/india/gurugram-biker-hit-and-run-accused-says-he-didnt-know-biker-was-a-woman-i-tried-hard-to-save-watch-video-11789410589345.html)
-- [India, South American bloc Mercosur announce plan to expand trade pact](https://www.livemint.com/news/india/india-south-american-bloc-mercosur-announce-plan-to-expand-trade-pact-11789403133176.html)
-- ['Cannot by themselves...': Why Delhi HC dismissed Vimal Elaichi makers' plea against notice to Shah Rukh Khan, others](https://www.livemint.com/news/india/cannot-by-themselves-why-delhi-hc-dismissed-vimal-elaichi-makers-plea-against-notice-to-shah-rukh-khan-others-11789398960981.html)
-- [Prince Harry, Meghan Markle may take legal recourse to challenge 'private citizens' description by King Charles: Report](https://www.livemint.com/news/trends/prince-harry-meghan-markle-may-take-legal-recourse-to-challenge-private-citizens-description-by-king-charles-report-11789399929317.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಒರಾಕಲ್ ನಲ್ಲಿ ಮತ್ತೆ ಆತಂಕ ಮೂಡಿಸಿದ 6 ಗಂಟೆಯ ಇಮೇಲ್ : ಉದ್ಯೋಗ ಕಳೆದುಕೊಳ್ಳುತ್ತಿರುವ ಸಿಬ್ಬಂದಿ](https://www.varthabharati.in/international/6-am-email-sparks-fresh-anxiety-at-oracle-employees-face-job-losses-2275223)
 - [BRICS ಶೃಂಗಸಭೆ | ಇರಾನ್ ಅಧ್ಯಕ್ಷ ಪೆಜೆಶ್ಕಿಯನ್‌ ಭಾಷಣದ ವೇಳೆ ನೆಕ್ಕಿನೆಕ್ಕಿ ನಟ್ಸ್ ತಿಂದ MEA ವಕ್ತಾರ ರಣಧೀರ್‌ ಜೈಸ್ವಾಲ್‌; ಸಾಮಾಜಿಕ ಜಾಲತಾಣದಲ್ಲಿ ವೀಡಿಯೋ ವೈರಲ್](https://www.varthabharati.in/national/going-nuts-indian-diplomat-mocked-for-snacking-during-brics-speech-2275222)
 - [Hubballi | 24 ಕುರಿಗಳು ಸಾವು](https://www.varthabharati.in/dharwad/hubballi-2275220)
 - [Rajasthan ಸ್ಥಳೀಯ ಸಂಸ್ಥೆ ಚುನಾವಣೆ | ಬಿಜೆಪಿ ಮೇಲುಗೈ; ಕಾಂಗ್ರೆಸ್‌ ಗೆ ಹಿನ್ನಡೆ](https://www.varthabharati.in/National/rajasthan-urban-local-body-polls-see-bjps-seats-rise-by-5-congresss-fall-by-5-2275219)
@@ -107,13 +108,11 @@
 - [Shivamogga | ಜಮೀನು ವಿಚಾರಕ್ಕೆ ಗಲಾಟೆ; ವ್ಯಕ್ತಿಗೆ ಚಾಕು ಇರಿತ](https://www.varthabharati.in/shimoga/shivamogga-2275212)
 - [West Bengal ಉಪ ಚುನಾವಣೆ | ನಂದಿಗ್ರಾಮ, ರೆಜಿನಗರ್‌ ನಲ್ಲಿ ಮಮತಾ ಬ್ಯಾನರ್ಜಿ ಬಣದ ವಿರುದ್ಧ ಬಂಡಾಯ TMC ಕಣಕ್ಕೆ](https://www.varthabharati.in/National/rebel-tmc-fields-candidates-in-nandigram-rejinagar-against-mamata-camp-2275210)
 - [ಗುರುಗ್ರಾಮ್‌ ನಲ್ಲಿ ಬೈಕ್ ಸವಾರೆಗೆ ಹಿಟ್‌ ಆ್ಯಂಡ್‌ ರನ್‌ ಪ್ರಕರಣ | ಆರೋಪಿ ಕಬಡ್ಡಿ ಪಟು ಕಲ್ಯಾಣ್‌ ಬೈನ್ಸ್ಲಾ ಯಾರು?](https://www.varthabharati.in/National/kabaddi-player-what-we-know-about-gurugram-hit-and-run-accused-kalyan-bainsla-2275209)
-- [ನ್ಯಾಯಾಧೀಶರ ವಿರುದ್ಧದ ಪ್ರತಿಯೊಂದು ದೂರನ್ನೂ ವೆಬ್‌ ಸೈಟ್‌ ನಲ್ಲಿ ಪ್ರಕಟಿಸಬೇಕೇ?: CJI ಸೂರ್ಯಕಾಂತ್ ಕಳವಳ](https://www.varthabharati.in/national/cji-on-accountability-should-we-put-every-complaint-against-judges-on-a-website-2275208)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
 - India (4.8)
-- Delhi (4.8)
-- Report (3.9)
+- Delhi (4.5)
 - BRICS (3.9)
 - ICICI Securities (3.0)
 - target (3.0)
@@ -121,6 +120,7 @@
 - Retail (2.6)
 - Oracle (2.6)
 - Rajasthan (2.6)
+- Report (2.6)
 - Govt (2.6)
 - Gurugram (2.6)
 - Congress (2.6)
@@ -129,16 +129,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [IND vs AFG: टीम इंडिया को बड़ा झटका, अफगानिस्तान सीरीज से बाहर हुआ दिग्गज खिलाड़ी, कप्तान अय्यर की बढ़ी टेंशन](https://www.aajtak.in/sports/cricket/story/huge-blow-to-india-star-player-ruled-out-of-rest-of-t20i-series-vs-afghanistan-due-to-injury-aksp-dskc-2642760-2026-09-14)
-- [డ్రోన్ అనుకుని నాటో జెట్‌ల హడావుడి.. తీరా చూస్తే..](https://www.andhrajyothy.com/2026/international/drone-alert-turns-into-bird-surprise-nato-jets-scramble-38-minute-airspace-scare-erk-1558172.html)
-- [Gold price fall nearly 2% as oil surge and near-5% Treasury yields bolster Fed rate-hike expectations - Kitco AM Report](https://www.kitco.com/news/article/2026-09-14/gold-price-fall-nearly-2-oil-surge-and-near-5-treasury-yields-bolster-fed)
-- [200 करोड़ पार 'हनुमान अंश', नीम करोली बाबा के बाद महाकवि तुलसीदास की कहानी लाएंगे डायरेक्टर, हुई घोषणा](https://www.aajtak.in/entertainment/bollywood-news/story/hanuman-ansh-box-office-success-director-vishal-chaturvedi-tulsidas-film-announcement-tmovj-dskc-2642736-2026-09-14)
-- [உங்களை மீண்டும் சந்திக்க காத்திருக்கிறேன்: பிரதமர் மோடிக்கு இஸ்ரேல் பிரதமர் நன்றி](https://www.dinamalar.com/news/world-tamil-news/looking-forward-to-meeting-you-again-israeli-pm-thanks-pm-modi/4322694)
-- [জ়ি বাংলার ধারাবাহিকের তালিকায় একঝাঁক পরিবর্তন? কোন মেগা দেখা যাবে কখন?](https://eisamay.com/entertainment/zee-bangla-serials-time-slots-change/200542514.cms)
-- [22 വർഷത്തിന് ശേഷം 52-ാം വയസിൽ ഇമ്രാൻ ഖാന്‍റെ മുൻ ഭാര‍്യ വീണ്ടും വിവാഹിതയായി](https://www.metrovaartha.com/sports/imran-khan-ex-wife-jemima-remarries-at-52)
-- [Anantapur: టమాటా చేనులోకి వచ్చిన జింకలను వేటాడి చంపిన చిరుతలు.. గ్రామంలో భయాందోళనలు](https://telugu.samayam.com/andhra-pradesh/anantapur/seven-deers-killed-after-two-leopards-attack-in-anantapur-tomato-farms/articleshow/134241998.cms)
-- [উদ্বাস্তু জমি দখল থেকেই শালবনির 'দুর্নীতি' ! টাকা পৌঁছত সুমিতের দফতরেও, দাবি সিআইডির](https://www.etvbharat.com/bn/state/money-used-to-reach-sumit-roys-office-through-various-hands-cid-tracing-money-trail-in-salboni-land-scam-wbs26091404479)
-- [EPFO WhatsApp Service : હવે વોટ્સએપ પર મળશે PF ખાતાની ‘A to Z’ વિગતો, EPFOએ શરૂ કરી ખાસ સુવિધા](https://tv9gujarati.com/national/epfo-whatsapp-service-check-pf-balance-and-get-epf-updates-on-whatsapp-1515501.html)
+- [Huge Blow for Team India: അഫ്ഗാനെതിരായ ടി20 പരമ്പരയിൽ നിന്ന് വരുണ്‍ ചക്രവര്‍ത്തി പുറത്ത്](https://www.asianetnews.com/cricket-sports/huge-blow-for-team-india-varun-chakaravarthy-ruled-out-of-afghanistan-t20i-series-due-to-injury-articleshow-yh4bypg)
+- [આ 'ગંદા હાથ સારા' છે, બાળકો માટી કે ધૂળમાં રમે તો ખરેખર કેટલો ફાયદો થાય?](https://www.bbc.com/gujarati/articles/c39m7yp4p1do)
+- [Delhi Airport | ఢిల్లీ ఎయిర్‌పోర్టులో భ‌ద్ర‌తా లోపం.. ఇమ్మిగ్రేష‌న్ క్లియ‌రెన్స్ లేకుండానే ఇండియా విడిచిన విదేశీయులు](https://www.ntnews.com/national/security-lapse-at-delhi-airport-three-foreign-nationals-leave-india-without-immigration-clearance-2510909)
+- [പോൾ പൊസിഷൻ, ആദ്യ 13 ലാപ്പിലും മുന്നിൽ; ഒടുവിൽ നോറിസിനെ ചതിച്ചത് വിർച്വൽ സേഫ്റ്റി കാർ നിയമമോ?](https://www.mathrubhumi.com/sports/other-sports/spanish-gp-lando-norris-virtual-safety-car-controversy-psrcw36k)
+- [TMC के 20 बागी सांसदों में से 17 जॉइन करेंगे बीजेपी, NCPI नेता का दावा](https://www.aajtak.in/west-bengal/story/tmc-20-defector-mps-join-ncpi-17-to-join-bjp-nda-west-bengal-ntcpvp-rptc-2642765-2026-09-14)
+- [Varun Chakaravarthy: 4 ઓવર નાખ્યા ને જ થયો ઘાયલ!](https://www.gujaratfirst.com/sports/varun-chakaravarthy-injury-t20-series-gujarat-first-digital/339104/)
+- [విమెన్స్ ఆసియా కప్ 2026: పాక్ క్రికెట్ బోర్డు అధ్యక్షుడి నుంచి భారత జట్టు ట్రోఫీ ఎందుకు తీసుకోలేదు?](https://www.bbc.com/telugu/articles/c4gm484nxx1o)
+- [ரூ.11,000 கோடி முதலீடு - லண்டனில் முதல்வர் விஜய் முன்னிலையில் புரிந்துணர்வு ஒப்பந்தம்](https://www.hindutamil.in/news/tamilnadu/11000-crore-investment-jobs-for-7000-people-mou-signed-in-london-in-the-presence-of-cm-vijay)
+- [EPFO: వాట్సాప్ లో పీఎఫ్ బ్యాలెన్స్ చెక్ చేసుకోవచ్చు.. ఎలాగంటే..!](https://telugu.goodreturns.in/classroom/the-epfo-has-announced-that-the-facility-to-check-pf-balance-and-mini-statements-via-whatsapp-has-057793.html)
+- [महिला एशिया कप में जीत के बाद क्रांति गौड़ के खिलाफ ICC ने लिया एक्शन, ठोका तगड़ा जुर्माना](https://www.jagran.com/cricket/headlines-kranti-gaud-fined-10-percent-match-fee-womens-t20-asia-cup-2026-final-ind-w-vs-sl-w-icc-code-of-conduct-breach-40373257.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
