@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-15 23:01:40
+# India Trending Report — 2026-09-15 23:33:04
 
 ## Google Trends (India) — top trending searches
-1. [campeones cup](https://trends.google.com/trending/rss?geo=IN)
-2. [nfl schedule this week](https://trends.google.com/trending/rss?geo=IN)
-3. [vinícius júnior](https://trends.google.com/trending/rss?geo=IN)
-4. [ed sheeran](https://trends.google.com/trending/rss?geo=IN)
-5. [elche cf vs real madrid standings](https://trends.google.com/trending/rss?geo=IN)
-6. [mumbai](https://trends.google.com/trending/rss?geo=IN)
-7. [amitabh bachchan](https://trends.google.com/trending/rss?geo=IN)
-8. [cryptocurrency trading](https://trends.google.com/trending/rss?geo=IN)
-9. [arda güler](https://trends.google.com/trending/rss?geo=IN)
-10. [social media marketing](https://trends.google.com/trending/rss?geo=IN)
+1. [इंग्लंड वि श्रीलंका](https://trends.google.com/trending/rss?geo=IN)
+2. [binance exchange](https://trends.google.com/trending/rss?geo=IN)
+3. [campeones cup](https://trends.google.com/trending/rss?geo=IN)
+4. [nfl schedule this week](https://trends.google.com/trending/rss?geo=IN)
+5. [vinícius júnior](https://trends.google.com/trending/rss?geo=IN)
+6. [ed sheeran](https://trends.google.com/trending/rss?geo=IN)
+7. [elche cf vs real madrid standings](https://trends.google.com/trending/rss?geo=IN)
+8. [mumbai](https://trends.google.com/trending/rss?geo=IN)
+9. [amitabh bachchan](https://trends.google.com/trending/rss?geo=IN)
+10. [cryptocurrency trading](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Bangladesh PM was invited for Brics meet and bilateral visit: Govt](https://timesofindia.indiatimes.com/india/govt-bdesh-pm-was-invited-for-brics-meet-and-bilateral-visit/articleshow/134275436.cms)
+- [After meeting PM Modi, schoolmate gets land back from BJP MLA](https://timesofindia.indiatimes.com/city/mumbai/after-meeting-modi-schoolmate-gets-land-back-from-bjp-mla/articleshow/134272121.cms)
 - [CBI officer in RG Kar, Hathras cases assigned Disha Salian probe](https://timesofindia.indiatimes.com/india/cbi-officer-in-rg-kar-hathras-cases-assigned-disha-probe/articleshow/134275412.cms)
 - [Meta agrees to report child-safety matters directly to Indian authorities](https://timesofindia.indiatimes.com/india/meta-agrees-to-report-csam-directly-to-indian-authorities/articleshow/134272984.cms)
 - [Samson's 57 off 22 establishes his role of preferred opener as India seal series](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/sanju-samsons-57-off-22-establishes-his-role-of-the-preferred-opener-as-india-beat-afghanistan-by-seven-wickets-to-seal-t20i-series/articleshow/134269649.cms)
-- ['Attempted to steal a sea drone': US military destroys two small Iranian boats](https://timesofindia.indiatimes.com/world/middle-east/attempted-to-steal-a-sea-drone-us-military-destroys-two-small-iranian-boats/articleshow/134273392.cms)
+- [After Awadh Expressway fiasco, NHAI bars builder for 3 years](https://timesofindia.indiatimes.com/city/lucknow/after-e-way-develops-defects-soon-after-opening-builder-barred-maximum-of-3-yrs/articleshow/134271881.cms)
 - ['Should be laughed out': T Mobile CFO on Musk's 'Starlink plan' for mobile industry](https://timesofindia.indiatimes.com/technology/tech-news/as-elon-musk-plans-to-shake-up-mobile-industry-with-starlink-t-mobile-ceo-peter-osvaldik-says-that-its-strategy-should-be-laughed-out-of-the-room/articleshow/134268655.cms)
+- [Bangladesh PM was invited for Brics meet and bilateral visit: Govt](https://timesofindia.indiatimes.com/india/govt-bdesh-pm-was-invited-for-brics-meet-and-bilateral-visit/articleshow/134275436.cms)
+- [After Cong CMs give Brics dinner a miss, BJP calls decision 'partisan'](https://timesofindia.indiatimes.com/india/after-cong-cms-give-brics-dinner-a-miss-bjp-calls-decision-partisan/articleshow/134275455.cms)
+- ['Attempted to steal a sea drone': US military destroys two small Iranian boats](https://timesofindia.indiatimes.com/world/middle-east/attempted-to-steal-a-sea-drone-us-military-destroys-two-small-iranian-boats/articleshow/134273392.cms)
 - [Why no safety warnings for B787 fleet despite AI 171 crash, US aviation group asks AAIB](https://timesofindia.indiatimes.com/india/why-no-safety-warnings-for-b787-fleet-us-aviation-group-asks-aaib/articleshow/134273393.cms)
-- [Kolkata Police floats Rs 89 lakh tender to dress up puja volunteers in saffron](https://timesofindia.indiatimes.com/city/kolkata/saffron-makeover-for-20k-police-volunteers/articleshow/134271199.cms)
-- [SC bins ex-NSE chief Chitra Ramakrishna's plea to stop graft proceedings](https://timesofindia.indiatimes.com/india/sc-bins-ex-nse-chief-chitra-ramakrishnas-plea-to-stop-graft-proceedings/articleshow/134273360.cms)
-- [Pakistan raising Masood Azhar bounty a 'gimmick': India](https://timesofindia.indiatimes.com/india/pak-raising-azhar-bounty-a-gimmick-says-india/articleshow/134273152.cms)
 
 **NDTV**
 - [US Announces Visa Curbs Over South Africa "Race-Based Discrimination"](https://www.ndtv.com/world-news/us-announces-visa-curbs-over-south-africa-race-based-discrimination-12051831#publisher=newsstand)
@@ -53,6 +53,7 @@
 
 **The Hindu**
 - [Key allies TDP, Shiv Sena back Amit Shah's statement on UCC in all NDA-ruled States](https://www.thehindu.com/news/national/key-allies-tdp-shiv-sena-back-amit-shahs-statement-on-ucc-in-all-nda-ruled-states/article71470158.ece)
+- [Bihar Cabinet approves ₹3,516 crore for Vishnupad Temple area development, Son-Falgu river link](https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-3516-crore-for-vishnupad-temple-area-development-son-falgu-river-link/article71468849.ece)
 - [Teen stabbed to death during Ganesh idol procession in Indore](https://www.thehindu.com/news/national/madhya-pradesh/teen-stabbed-to-death-during-ganesh-idol-procession-in-indore/article71468859.ece)
 - [Ex-ABVP convenor, PM-EAC members in NCERT’s new English and Economics textbook committees](https://www.thehindu.com/education/ex-abvp-convenor-pm-eac-members-in-ncerts-new-english-and-economics-textbook-committees/article71468274.ece)
 - [Punjab villager death: Congress leaders stage demonstration against Minister Harpal Cheema](https://www.thehindu.com/news/national/punjab/punjab-villager-death-congress-sachin-pilot-partap-bajwa-detained-during-protest-against-cheema/article71467740.ece)
@@ -61,7 +62,6 @@
 - [Tanker El Gaia hit in the Strait of Hormuz was operating in ‘dark mode’](https://www.thehindu.com/news/international/tanker-hit-by-projectile-near-strait-of-hormuz-was-operating-in-dark-mode/article71469903.ece)
 - [Meta to share child safety information directly with Indian agencies](https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece)
 - [Agartala-Delhi flight diverted to Lucknow after smoke warning; no injuries reported](https://www.thehindu.com/news/national/uttar-pradesh/agartala-delhi-flight-diverted-to-lucknow-after-smoke-warning-no-injuries-reported/article71469954.ece)
-- [AAP alleges cover-up in girl’s death at a Satya Niketan PG; police denies allegation](https://www.thehindu.com/news/cities/Delhi/aap-alleges-cover-up-in-girls-death-at-a-satya-niketan-pg-police-denies-allegation/article71469675.ece)
 
 **Livemint**
 - [Ed Sheeran tour controversy: Finneas, Aaron Rowe quit after Macklemore is removed over Free Palestine remarks](https://www.livemint.com/news/trends/ed-sheeran-tour-controversy-finneas-aaron-rowe-quit-after-macklemore-is-removed-over-free-palestine-remarks-11789506757465.html)
@@ -94,31 +94,31 @@
 - Congress (2.9)
 - Iran (2.9)
 - Meta (2.6)
-- India (2.6)
+- Brics (2.6)
 - Mumbai (2.6)
 - Lucknow (2.6)
+- Modi (1.6)
 - Trump (1.6)
 - Rahul (1.6)
 - Agartala-Delhi (1.6)
-- Brics (1.3)
-- Govt (1.3)
 - Hathras (1.3)
 - Samson's (1.3)
-- Attempted (1.3)
+- India (1.3)
+- NHAI (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Bispecific Antibody Shows Promise in Acute Leukaemia](https://www.emjreviews.com/hematology/news/bispecific-antibody-shows-early-promise-in-acute-leukaemia/)
-- [India Squad For West Indies ODI Series : रोहित शर्मा OUT की IN... अजित आगरकरांच्या बैठकीत होणार फैसला, वेस्ट इंडिजविरुद्ध 'या' दिवशी होणार टीम इंडियाची घोषणा](https://marathi.abplive.com/sports/cricket/rohit-sharma-hardik-pandya-selection-india-squad-for-west-indies-odi-series-update-marathi-news-1439192)
-- [அன்பில் மகேஷ் கேள்விகள்](https://www.tamilmurasu.com.sg/tamilnadu/secretariat-tsunami-hit-pattinapakkam-anbil-mahesh-questions)
-- [Apple’s big launch and what it means for workplace XR](https://uctoday.com/what-apples-latest-launch-means-for-immersive-workplace-tech)
-- [எலெக்ட்ரிக் ஸ்கூட்டர் வாங்குனா பணம் மிச்சமா? மறைக்கப்பட்ட உண்மை!](https://kalkionline.com/business-finance/petrol-vs-electric-scooter-cost-comparison)
-- [Junput Missile Testing Range: জুনপুটে DRDO-র টেস্টিং কেন্দ্র হলে বিরাট লাভ, কেন বাংলার জন্য এই প্রজেক্ট গুরুত্বপূর্ণ?](https://bangla.aajtak.in/west-bengal/south-bengal/story/west-bengal-government-approved-new-drdo-testing-centre-in-junput-abk-1451048-2026-09-15)
-- [पाकिस्तान ने 'मोस्ट वॉन्टेड' मसूद अज़हर पर क्यों बढ़ाई इनामी रकम](https://www.bbc.com/hindi/articles/c3rr4kyk0p8no)
-- [SC gives Rajpal Yadav last 2 weeks to deposit Rs 2 cr](https://m.rediff.com/news/commentary/2026/sep/15/sc-gives-rajpal-yadav-last-2-weeks-to-deposit-rs-2-cr/26a9e99e1cf42ecb30a5c3e25e401d7f)
-- [જુનિયર એશિયા કપ મેન્સ હોકીમાં ભારતીય ટીમ ચેમ્પિયન](https://www.abtakmedia.com/indian-team-crowned-champions-at-the-junior-asia-cup-mens-hockey/)
-- [எம்.எஸ். சுப்புலட்சுமியின் வாழ்க்கை திரைப்படமாகிறது.. ராஷ்மிகா மந்தனா நடிக்கிறார்](https://www.polimernews.com/cinemanews/ms-subbulakshmi-biopic-rashmika-mandanna-anirudh-gautham-thinnanuri-12535602)
+- [Mahendra-Sireesha : నువ్వొచ్చాకే నా జీవితం సంపూర్ణంగా మారింది.. శిరీషపై ‘ఇంటింటి రామాయణం’ భరత్ పోస్ట్](https://telugu.samayam.com/tv/news/intinti-ramayanam-bharath-aka-rj-mahi-special-post-on-his-wife-sirisha/articleshow/134260351.cms)
+- [सऊदी अरब और हूतियों में भयानक युद्ध, पहली बार मक्का में हमले का अलर्ट, यमन पर भीषण बमबारी](https://navbharattimes.indiatimes.com/world/middle-east/houthisaudi-arabian-conflict-air-attack-alert-in-mecca-strikes-in-yemen-today/articleshow/134260360.cms)
+- [ના ઘરના રહ્યા ના ઘાટના! મમતા બેનરજીને છોડનારા 17 સાંસદોને BJPએ પણ આપ્યો ઝટકો](https://www.gujaratsamachar.com/news/national/neither-the-house-nor-the-ghat-bjp-also-gave-a-blow-to-the-17-mps-who-left-mamata-banerjee-12176948850)
+- [जिसे देश नहीं मानता सऊदी, अब उसी से मदद की गुहार; पाकिस्तान के 'ना' के बाद MBS का बड़ा कदम](https://www.livehindustan.com/middle-east/after-pakistan-refusal-saudi-arabia-sought-help-from-israel-regarding-houthi-threat-know-latest-update-201789470778673.html)
+- [5 hours, no rooms: Gukesh, India Chess Olympiad team face accomodation chaos in Uzbekistan](https://www.indiatoday.in/sports/other-sports/story/chess-olympiad-india-team-gukesh-srinath-narayanan-uzbekistan-2995111-2026-09-15)
+- [ट्रंप के बेटे की शादी में रूसी अरबपति ने लगाया पैसा, पुतिन के करीबी ने दी 2 रात की ग्रैंड पार्टी, मचा बवाल](https://www.aajtak.in/world/story/russian-billionaire-umar-kremlev-funded-trump-jr-bahamas-party-ntc-apdy-dskc-2643224-2026-09-15)
+- [Jinnah in, Mujibur Rahman out at Dhaka University museum; Pak founder's portrait shredded](https://www.indiatoday.in/world/story/bangladesh-news-dhaka-university-ducsu-election-islami-chhatra-shibir-sheikh-mujibur-rahman-muhammad-ali-jinnah-2994896-2026-09-15)
+- [Manoj Jarange : जरांगेंची भाषा अयोग्यच; कॅबिनेट बैठकीत सर्वच मंत्र्यांचा मुख्यमंत्र्यांसमोर नाराजीचा सूर, सूत्रांची माहिती](https://marathi.abplive.com/news/maharashtra/maharashtra-cabinet-ministers-expressed-displeasure-on-manoj-jarange-objectinable-language-cm-devendra-fadnavis-marathi-1439193)
+- [‘Such gimmicks are nothing new’: India slams Pakistan over 'phoney announcement' of Rs 70 lakh bounty on Masood Azhar](https://timesofindia.indiatimes.com/india/such-gimmicks-are-nothing-new-india-slams-pakistan-over-phoney-announcement-of-rs-70-lakh-bounty-on-masood-azhar/articleshow/134260390.cms)
+- [Shiv Sena Symbol: आमदारांनी वेगळी भूमिका घेतली तीच राजकीय फूट; शिंदे गटाचा जोरदार युक्तीवाद, वाचा सुनावणीतील महत्त्वाचे मुद्दे](https://saamtv.esakal.com/maharashtra/shiv-sena-symbol-dispute-supreme-court-hearing-shinde-camp-argues-political-split-was-reflected-in-mlas-separate-stand-bbj88)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
