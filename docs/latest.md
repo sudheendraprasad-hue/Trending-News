@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-15 18:37:29
+# India Trending Report — 2026-09-15 19:01:29
 
 ## Google Trends (India) — top trending searches
-1. [sthree sakthi kerala lottery results](https://trends.google.com/trending/rss?geo=IN)
-2. [suriya](https://trends.google.com/trending/rss?geo=IN)
+1. [reading vs brentford](https://trends.google.com/trending/rss?geo=IN)
+2. [harry brook](https://trends.google.com/trending/rss?geo=IN)
 3. [clarity act](https://trends.google.com/trending/rss?geo=IN)
-4. [reading vs brentford](https://trends.google.com/trending/rss?geo=IN)
+4. [suriya](https://trends.google.com/trending/rss?geo=IN)
 5. [ipswich town vs arsenal](https://trends.google.com/trending/rss?geo=IN)
 6. [பிரிகிதா சாகா](https://trends.google.com/trending/rss?geo=IN)
 7. [al ain fc vs al-nassr standings](https://trends.google.com/trending/rss?geo=IN)
 8. [liverpool vs spurs](https://trends.google.com/trending/rss?geo=IN)
 9. [west ham vs fulham](https://trends.google.com/trending/rss?geo=IN)
-10. [ajax vs willem ii](https://trends.google.com/trending/rss?geo=IN)
+10. [lottery results today](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [$33.4bn war cost, $22.3bn on munitions: What US lost in 6 months of Iran war](https://timesofindia.indiatimes.com/defence/international/33-4bn-war-cost-22-3bn-on-munitions-what-us-lost-in-6-months-of-iran-war/articleshow/134268852.cms)
+- ['Our father being slowly killed': Imran Khan's sons accuse Asim Munir of vendetta](https://timesofindia.indiatimes.com/world/pakistan/our-father-being-slowly-killed-imran-khans-sons-accuse-pakistans-asim-munir-of-vendetta/articleshow/134267616.cms)
 - [Child rights panel again summons Meta India MD, head over sexual abuse material case](https://timesofindia.indiatimes.com/india/child-rights-panel-again-summons-meta-india-md-head-over-sexual-abuse-material-case/articleshow/134270334.cms)
-- [Good heavens! US reveals it has placed weapons in space](https://timesofindia.indiatimes.com/world/us/good-heavens-us-reveals-it-has-placed-weapons-in-space/articleshow/134269076.cms)
+- [Omar praises India’s foreign policy over Brics mention of Pahalgam, slams Centre on UCC](https://timesofindia.indiatimes.com/india/omar-praises-indias-foreign-policy-over-brics-mention-of-pahalgam-slams-centre-on-ucc/articleshow/134271508.cms)
 - [Samson's 57 off 22 establishes his role of preferred opener as India seal series](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/sanju-samsons-57-off-22-establishes-his-role-of-the-preferred-opener-as-india-beat-afghanistan-by-seven-wickets-to-seal-t20i-series/articleshow/134269649.cms)
-- [Fee on UPI payments above Rs 2,000: Who pays and what changes for you](https://timesofindia.indiatimes.com/business/india-business/what-does-mdr-on-person-to-merchant-upi-transactions-above-rs-2000-mean-for-you-faqs-answered/articleshow/134266181.cms)
+- [Good heavens! US reveals it has placed weapons in space](https://timesofindia.indiatimes.com/world/us/good-heavens-us-reveals-it-has-placed-weapons-in-space/articleshow/134269076.cms)
 - [Oracle layoffs: Employees receive ‘6am job cuts’ email from ‘leadership’ again](https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms)
+- [Fee on UPI payments above Rs 2,000: Who pays and what changes for you](https://timesofindia.indiatimes.com/business/india-business/what-does-mdr-on-person-to-merchant-upi-transactions-above-rs-2000-mean-for-you-faqs-answered/articleshow/134266181.cms)
+- [$33.4bn war cost, $22.3bn on munitions: What US lost in 6 months of Iran war](https://timesofindia.indiatimes.com/defence/international/33-4bn-war-cost-22-3bn-on-munitions-what-us-lost-in-6-months-of-iran-war/articleshow/134268852.cms)
+- [J&K Police bust LeT module; 3 held with IED](https://timesofindia.indiatimes.com/india/jk-police-bust-let-module-3-held-with-ied/articleshow/134271453.cms)
 - [His flat faced water leaks for 8 years; court orders neighbour to allow repairs](https://timesofindia.indiatimes.com/business/india-business/water-kept-leaking-into-his-ground-floor-home-despite-repeated-fixes-after-an-8-year-legal-fight-maharashtra-court-orders-first-floor-flat-owner-to-allow-repairs-and-split-costs/articleshow/134267989.cms)
-- [Neighbours over-trimmed trees for lake view; judge orders $34,064 damages](https://timesofindia.indiatimes.com/world/us/in-2021-a-british-columbia-woman-allowed-limited-tree-trimming-neighbours-cut-far-more-for-a-shuswap-lake-view-and-a-judge-ordered-them-to-pay-34064-in-damages/articleshow/134261098.cms)
-- [Lalbaugcha Raja: How a broken market and a vow created Mumbai’s iconic Ganpati](https://timesofindia.indiatimes.com/life-style/soul-search/lalbaugcha-raja-how-a-broken-market-struggling-fishermen-and-a-vow-to-lord-ganesha-created-mumbais-most-famous-ganpati/articleshow/134262466.cms)
-- [Sanju Samson joins Rohit Sharma, KL Rahul in India's elite club](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/sanju-samson-joins-rohit-sharma-kl-rahul-in-indias-elite-club/articleshow/134269217.cms)
 
 **NDTV**
 - [Trump's Name Must Be Kept Off Kennedy Centre Building, US Judge Rules](https://www.ndtv.com/world-news/trumps-name-must-be-kept-off-kennedy-centre-building-us-judge-rules-12051325#publisher=newsstand)
@@ -62,6 +62,7 @@
 - [ವಂದೇ ಮಾತರಂ 2 ಪ್ಯಾರಾಗೆ ಸೀಮಿತ: ಸರ್ಕಾರಿ ಕಾರ್ಯಕ್ರಮ ಬಹಿಷ್ಕರಿಸಿ ಎದ್ದು ಹೋದ ಶಿವಮೊಗ್ಗ BJP ಶಾಸಕ ಚನ್ನಬಸಪ್ಪ!](https://vijaykarnataka.com/news/shivamogga/vande-mataram-limited-to-2-stanzas-shivamogga-bjp-mla-channabasappa-walks-out-boycotting-government-event/articleshow/134268323.cms)
 
 **The Hindu**
+- [Rescued baby orangutans get health check-up after one develops fever](https://www.thehindu.com/news/national/odisha/rescued-baby-orangutans-get-health-check-up-after-one-develops-fever/article71469871.ece)
 - [CPI alleges vote deletions in A.P. SIR](https://www.thehindu.com/news/national/andhra-pradesh/cpi-alleges-vote-deletions-in-ap-sir/article71469101.ece)
 - [Engineers’ Day observed at Andhra University](https://www.thehindu.com/news/national/andhra-pradesh/engineers-day-observed-at-andhra-university/article71469246.ece)
 - [Heavy rain paralyses traffic in several parts of Bengaluru](https://www.thehindu.com/news/cities/bangalore/heavy-rain-paralyses-traffic-in-several-parts-of-bengaluru/article71469716.ece)
@@ -71,7 +72,6 @@
 - [Supreme Court nod for Kerala High Court to continue execution proceedings in Kashi Math case](https://www.thehindu.com/news/national/supreme-court-nod-for-kerala-high-court-to-continue-execution-proceedings-in-kashi-math-case/article71469539.ece)
 - [Six policemen suspended over death of pregnant woman; SP workers stage sit-in](https://www.thehindu.com/news/national/uttar-pradesh/six-policemen-suspended-over-death-of-pregnant-woman-sp-workers-stage-sit-in/article71469079.ece)
 - [Study finds dual nerve blocks procedure may help people with treatment-resistant anxiety](https://www.thehindu.com/news/national/karnataka/study-finds-dual-nerve-blocks-procedure-may-help-people-with-treatment-resistant-anxiety/article71384897.ece)
-- [CPI(M)’s Keralam meet condemns ED action against Pinarayi, Veena, Riyas](https://www.thehindu.com/news/national/kerala/cpims-keralam-meet-condemns-ed-action-against-pinarayi-veena-riyas/article71468717.ece)
 
 **Livemint**
 - [Starbucks Peanuts collection: Snoopy-themed cups, plush toys and accessories launch for fall 2026](https://www.livemint.com/news/trends/starbucks-peanuts-collection-snoopy-themed-cups-plush-toys-and-accessories-launch-for-fall-2026-11789492840808.html)
@@ -88,6 +88,9 @@
 **Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
+- [ಅರಣ್ಯ ಒತ್ತುವರಿ ಎಫ್‌ಐಆರ್ ರದ್ದುಪಡಿಸುತ್ತಾ ಹೋದರೆ, ಒತ್ತುವರಿ ಮುಂದುವರಿಯುತ್ತಲೇ ಇರುತ್ತದೆ : ಹೈಕೋರ್ಟ್](https://www.varthabharati.in/bangalore-city/high-court-2275467)
+- [UPI ಶುಲ್ಕಕ್ಕೆ BharatPe ಮಾಜಿ ಸಿಇಒ ಅಶ್ನೀರ್ ಗ್ರೋವರ್ ವಿರೋಧ](https://www.varthabharati.in/National/any-levy-on-upi-is-just-tax-collection-ashneer-grover-tears-into-upi-charge-debate-2275465)
+- ["ಒಬ್ಬರಿಗೆ ಕೆಲವೇ ದಿನಗಳಲ್ಲಿ ಜಾಮೀನು, ಮತ್ತೊಬ್ಬರು 6 ವರ್ಷಗಳಿಂದ ಕಾಯುತ್ತಿದ್ದಾರೆ" | ಸ್ವತಂತ್ರ ಭಾರದ್ವಾಜ್‌ಗೆ ಮಧ್ಯಂತರ ಜಾಮೀನು ಬೆನ್ನಲ್ಲೇ ದೀಪ್ಕೆ ಆಕ್ರೋಶ](https://www.varthabharati.in/National/one-gets-bail-in-days-another-waits-6-years-dipke-after-swatantra-bhardwaj-gets-interim-bail-2275463)
 - ["ಬಾನುಗೊಂದು ನ್ಯಾಯ? ಚೌಧರಿಗೊಂದು ನ್ಯಾಯವೇ?"; ಸಾಮಾಜಿಕ ಜಾಲತಾಣದಲ್ಲಿ ಜನರ ಆಕ್ರೋಶ](https://www.varthabharati.in/national/one-rule-for-banu-and-another-for-chaudhary-public-outrage-on-social-media-2275462)
 - [ಭವಿಷ್ಯ ನಿಧಿ ಸಂಸ್ಥೆಯಿಂದ ವಾಟ್ಸ್‌ಆ್ಯಪ್ ಚಾನೆಲ್‌ಗೆ ಚಾಲನೆ](https://www.varthabharati.in/National/provident-fund-organization-launches-whatsapp-channel-2275460)
 - [ಬಸ್ ಚಾಲಕ, ಕಂಡೆಕ್ಟರ್‌ಗೆ ಹಲ್ಲೆ: ಪ್ರಕರಣ ದಾಖಲು](https://www.varthabharati.in/DakshinaKannada/bus-driver-and-conductor-assaulted-case-registered-2275458)
@@ -95,40 +98,37 @@
 - [ಇರಾನ್ ಯುದ್ಧದಿಂದಾಗಿ ಮದ್ದುಗುಂಡುಗಳ ಕೊರತೆಯನ್ನು ದೃಢಪಡಿಸಿದ ಅಮೆರಿಕ ಸೇನೆ](https://www.varthabharati.in/international/us-army-confirms-ammunition-shortage-due-to-the-war-in-iran-2275454)
 - [ಮಂಗಳೂರು: ಮಹಿಳಾ ಮತ್ತು ಮಕ್ಕಳ ಪೂರಕ ಪೌಷ್ಟಿಕ ಆಹಾರ ತಯಾರಿಕಾ ಕೇಂದ್ರ ಪರಿಶೀಲನೆ](https://www.varthabharati.in/DakshinaKannada/mangaluru-inspection-of-the-supplementary-nutritious-food-production-center-for-women-and-children-2275457)
 - [ಎಫ್‌ಸಿಆರ್‌ಎ ಉಲ್ಲಂಘನೆ ಆರೋಪ: ಅರುಣಾಚಲ ಪರಿಸರ ಕಾರ್ಯಕರ್ತೆ ವಿರುದ್ಧ ಪ್ರಕರಣ ದಾಖಲಿಸಿದ CBI](https://www.varthabharati.in/National/fcra-violation-allegations-cbi-case-against-arunachal-environmental-activist-2275455)
-- [Hassan | ಜಾನುವಾರುಗಳ ಮೈತೊಳೆಯಲು ಕೆರೆಗೆ ಇಳಿದಿದ್ದ ಇಬ್ಬರು ನೀರುಪಾಲು](https://www.varthabharati.in/hassan/hassan-2275456)
-- [ಸರ್ಕಾರಿ ಕಾರ್ಯಕ್ರಮಗಳಲ್ಲಿ 'ವಂದೇ ಮಾತರಂ‌' ಎರಡು ಚರಣ ಗಾಯನ ಕಡ್ಡಾಯ; ಸರ್ಕಾರದ ಆದೇಶ ಪ್ರಶ್ನಿಸಿ ಹೈಕೋರ್ಟ್‌ಗೆ ಪಿಐಎಲ್](https://www.varthabharati.in/bengaluru/high-court-2275453)
-- [ತುಳು ಭಾಷೆಗೆ 2ನೇ ಅಧಿಕೃತ ಭಾಷಾ ಸ್ಥಾನಮಾನ: ಸಂವಿಧಾನಾತ್ಮಕ ಚೌಕಟ್ಟಿನಲ್ಲಿ ಪೂರಕ ಪ್ರಯತ್ನ: ಸಚಿವ ಶಿವರಾಜ್ ತಂಗಡಗಿ](https://www.varthabharati.in/bangalore-city/minister-shivaraj-tangadagi-2275449)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Indian (5.2)
+- India (4.2)
 - What (4.2)
 - Trump (4.2)
-- Mumbai (3.9)
-- India (2.9)
-- Rahul (1.9)
+- Centre (2.9)
+- Pahalgam (2.6)
+- Mumbai (2.6)
+- Omar (1.6)
 - Iran (1.6)
-- Centre (1.6)
+- Police (1.6)
 - Explained (1.6)
+- Rahul (1.6)
 - Child (1.3)
-- Good (1.3)
+- Brics (1.3)
 - Samson's (1.3)
-- Oracle (1.3)
-- Employees (1.3)
-- Neighbours (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [பட்டினப்பாக்கம் வேண்டாம்; ஓமந்தூரார் மருத்துவமனையை தலைமைச் செயலகமாக மாற்ற வேண்டும் - அன்பில் மகேஷ் வலியுறுத்தல்](https://www.etvbharat.com/ta/state/omandurar-hospital-should-be-converted-into-the-headquarters-of-the-secretariat-says-anbil-mahesh-tns26091501704)
-- [Gold Silver Price Fall: सस्‍ता हुआ सोना और चांदी, दिल्‍ली से मुंबई तक इतने घट गए दाम](https://www.aajtak.in/business/utility/photo/gold-silver-price-fall-from-delhi-to-mumbai-check-latest-rates-tutd-2642998-2026-09-15)
-- [Tata Chemicals shares: টাটা কেমিক্যালসে ২০% আপার সার্কিট! টাটা সন্সের আইপিও আসার জল্পনায় তুঙ্গে বাজার](https://bangla.asianetnews.com/business/tata-chemicals-shares-tata-chemicals-hits-20-percent-upper-circuit-market-abuzz-with-speculation-over-tata-sons-ipo/articleshow-h0eqaeu)
-- [Apple bundles Apple TV, Arcade at no extra cost with iCloud+ plans in India](https://www.business-standard.com/technology/tech-news/apple-bundles-apple-tv-arcade-at-no-extra-cost-with-icloud-plans-in-india-126091500362_1.html)
-- [તુકારામ મુંઢેની મોટી કાર્યવાહી: 11 રૂપિયાની વસ્તુના 325 વસૂલતી ખાનગી હોસ્પિટલોનો પર્દાફાશ, કમાય છે 2841% નફો](https://gujarati.moneycontrol.com/news/trends/tukaram-mundes-big-action-private-hospitals-charging-rs-325-for-goods-worth-rs-11-exposed-2051620.html)
-- [ચોમાસા બાદ 44 વર્ષમાં ના આવ્યું હોય એવું વાવાઝોડું ભારત પર આવશે? શું છે આ આગાહી પાછળની હકીકત](https://www.bbc.com/gujarati/articles/cqzrzk00d538o)
-- [Pakistan Cricket Crisis: पाकिस्तान क्रिकेट में बड़ा बदलाव होने वाला है, कुर्सी बचाने के लिए मोहसिन नकवी करेगा दो बड़े नामों की छुट्टी](https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/pakistan-cricket-board-preparing-to-remove-aaqib-javed-and-wahab-riaz/articleshow/134253868.cms)
-- [Supreme Court Urges Centre To Extend Terms Of Present Tribunal Members Till Fresh Appointments](https://www.livelaw.in/top-stories/supreme-court-urges-centre-to-extend-terms-of-present-tribunal-members-till-fresh-appointments-550065)
-- [Radhika Ambani Dance: एंटीलिया के गणेशोत्सव में छाईं राधिका अंबानी, 'एकदंताय वक्रतुंडाय' पर डांस कर मोहा सबका मन, VIDEO](https://www.aajtak.in/lifestyle/news/story/radhika-ambani-dance-on-ganesh-utsav-antilia-ganesh-chaturthi-pe-radhika-ambani-ne-kiya-dance-video-viral-tvisp-dskc-2642974-2026-09-15)
-- ['Mirzapur The Movie' box office collection Day 12: Pankaj Tripathi, Ravi Kishan film earns Rs 5.50 crore, domestic net crosses Rs 195 crore and worldwide gross crosses Rs 281 crore](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-12-live-pankaj-tripathi-ali-fazal-and-ravi-kishan-film-aims-on-closing-in-on-rs-200-crore-domestic-mark-after-grossing-rs-273-crore-globally-as-weekday-earnings-begin-to-slow-down/articleshow/134254074.cms)
+- [$33.4 billion spent, weapons stockpiles hit: What Pentagon report on Iran war revealed](https://timesofindia.indiatimes.com/defence/international/33-4-billion-spent-weapons-stockpiles-hit-what-pentagon-report-on-iran-war-revealed/articleshow/134254601.cms)
+- [আলো নিভতেই পাশাপাশি রাজবীর-নন্দিনী, বিগ বস-এর ঘরে জুটিকে ঘিরে বাড়ছে জল্পনা](https://www.thewall.in/entertainment/rajveer-dey-and-nandini-dutta-share-a-bed-but-her-sudden-warning-steals-the-spotlight/tid/204864)
+- [Supreme Court Asks Ex-Mayor To Approach Delhi Police For FIR Against UP Police Over Raid For Journalist Abhishek Upadhyay](https://www.livelaw.in/top-stories/supreme-court-asks-ex-mayor-to-approach-delhi-police-for-fir-against-up-police-over-raid-for-journalist-abhishek-upadhyay-550073)
+- ['कलेश-कष्ट ना हो' गोविंदा ने बच्चों संग की गणपति पूजा, नहीं नजर आईं सुनीता, मांगी मन्नत](https://www.aajtak.in/entertainment/bollywood-news/story/govinda-ganesh-chaturthi-pooja-with-kids-tina-yashvardhan-sunita-ahuja-absent-emotional-video-tmovb-dskc-2643023-2026-09-15)
+- [Meta to share child safety information directly with Indian agencies](https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece)
+- ['AIથી દુનિયા ખતમ થવાની વાત માત્ર ઢોંગ': ટ્રમ્પનો ધડાકો, કહ્યું- હું આ ષડ્યંત્રનો પર્દાફાશ કરીશ!](https://www.gujaratsamachar.com/news/international/Donald-Trump-Dismisses-AI-Threats-as-Fake-News-Backs-Tech-Growth-79850707801)
+- [വിലക്ക് മറികടന്ന് റിയാസിന്റെ വാർത്താസമ്മേളനം; പാർട്ടിയിൽ എതിർപ്പ്](https://www.mathrubhumi.com/news/kerala/cpm-dissent-pa-mohamed-riyas-press-meet-kozhikode-pkr953kl)
+- [இடைத்தேர்தல்: தாராபுரத்தில் திமுக வேட்பாளர் சுகன்யா மனு தாக்கல்](https://www.hindutamil.in/news/tamilnadu/dmk-candidate-sukanya-files-nomination-for-contesting-in-dharapuram-bypolls)
+- [తాలిబన్ల అదుపులో కేరళం వ్లాగర్‌.. ఆపై విడుదల](https://www.eenadu.net/telugu-news/world/kerala-vlogger-posts-sos-from-afghanistan-after-arrest/0801/126166563)
+- [અમદાવાદ: અંજલી બ્રિજ પર રોંગ સાઈડમાં આવતી ટ્રકે બાઈકને અડફેટે લેતા યુવકનું મોત, એક ઈજાગ્રસ્ત](https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-a-young-man-died-one-injured-after-a-truck-coming-from-the-wrong-side-hit-his-bike-on-anjali-bridge-83833512505)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
