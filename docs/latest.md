@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-15 20:02:13
+# India Trending Report — 2026-09-15 20:33:52
 
 ## Google Trends (India) — top trending searches
-1. [yan diomandé](https://trends.google.com/trending/rss?geo=IN)
-2. [real madrid vs elche](https://trends.google.com/trending/rss?geo=IN)
-3. [rayo vallecano vs espanyol standings](https://trends.google.com/trending/rss?geo=IN)
-4. [max dowman](https://trends.google.com/trending/rss?geo=IN)
-5. [apple iphone 17 pro max](https://trends.google.com/trending/rss?geo=IN)
-6. [fiorentina vs pisa](https://trends.google.com/trending/rss?geo=IN)
-7. [de zerbi](https://trends.google.com/trending/rss?geo=IN)
-8. [mortgage rates today](https://trends.google.com/trending/rss?geo=IN)
-9. [what is a data breach](https://trends.google.com/trending/rss?geo=IN)
-10. [harry brook](https://trends.google.com/trending/rss?geo=IN)
+1. [cryptocurrency trading](https://trends.google.com/trending/rss?geo=IN)
+2. [amitabh bachchan](https://trends.google.com/trending/rss?geo=IN)
+3. [elche cf vs real madrid lineups](https://trends.google.com/trending/rss?geo=IN)
+4. [arda güler](https://trends.google.com/trending/rss?geo=IN)
+5. [social media marketing](https://trends.google.com/trending/rss?geo=IN)
+6. [game development](https://trends.google.com/trending/rss?geo=IN)
+7. [yan diomandé](https://trends.google.com/trending/rss?geo=IN)
+8. [apple iphone 17 pro max](https://trends.google.com/trending/rss?geo=IN)
+9. [max dowman](https://trends.google.com/trending/rss?geo=IN)
+10. [rayo vallecano vs espanyol standings](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -49,31 +49,22 @@
 - [‘Success of our foreign policy’: Omar Abdullah on Pahalgam condemnation in BRICS New Delhi Declaration](https://www.hindustantimes.com/india-news/success-of-our-foreign-policy-omar-abdullah-on-pahalgam-condemnation-in-brics-new-delhi-declaration-101789481001060.html)
 - [Gates Foundation commits $1 billion to help build and deliver equitable AI](https://www.hindustantimes.com/india-news/gates-foundation-commits-1-billion-to-help-build-and-deliver-equitable-ai-101789485803940.html)
 
-**Vijay Karnataka**
-- [UPI Charges: 2000 ರೂ. ಮೇಲ್ಪಟ್ಟ ವಹಿವಾಟಿಗೆ ವರ್ತಕರಿಂದ ಶುಲ್ಕ ವಸೂಲಿ! ಶೇ 0.4 ರಷ್ಟು ಅನ್ವಯ; ಹೊಸ ನಿಯಮ ಪ್ರಕಟ](https://vijaykarnataka.com/business/news/upi-charges-new-rule-announced-merchants-to-levy-charges-on-transactions-exceeding-rs-2000-0-4-percent-rate-applies/articleshow/134266287.cms)
-- [`ನೋಡ್ತಾ ಇರಿ, ಏಷ್ಯಾ ಕಪ್‌ನ ಎರಡೂ ಟ್ರೋಫಿಗಳನ್ನೂ ಶೀಘ್ರವೇ ತರಿಸುತ್ತೇವೆ!': ಹೀಗಿದೆ ನೋಡಿ ಬಿಸಿಸಿಐ ಖಡಕ್ ಹೇಳಿಕೆ](https://vijaykarnataka.com/sports/cricket/news/bcci-secretary-devajit-saikia-assures-bring-home-both-asia-cup-trophies-soon/articleshow/134271120.cms)
-- [ಸಂಜು ಸ್ಯಾಮ್ಸನ್ `ಸಮಯೋಚಿತ' ಅರ್ಧಶತಕ; ಅಫ್ಘಾನಿಸ್ತಾನ ವಿರುದ್ಧ ಟಿ20 ಸರಣಿ ಜಯಿಸಿದ ಭಾರತ](https://vijaykarnataka.com/sports/cricket/news/sanju-samson-quick-fifty-india-beat-afghanistan-in-2nd-t20i-win-series/articleshow/134269388.cms)
-- [ಅಂಬಾನಿ ಗಣೇಶೋತ್ಸವದಲ್ಲಿ ಬಾಲಿವುಡ್ ಕಪಲ್ಸ್ ಕಮಾಲ್; ಎಥ್ನಿಕ್ ಲುಕ್‌ನಲ್ಲಿ ಯಾರು ಹೇಗಿದ್ದರು?](https://vijaykarnataka.com/lifestyle/fashion/bollywood-couples-antilias-ganesh-chaturthi-2026-ethnic-looks/articleshow/134261045.cms)
-- [ವಿಚಾರಣೆ ವರ್ಗಾಯಿಸಬಹುದು, ಅದೇ ಜಡ್ಜ್ ಮುಂದುವರಿಸಬೇಕೆಂದು ಆರೋಪಿ ಪಟ್ಟು ಹಿಡಿವಂತಿಲ್ಲ: ಹೈಕೋರ್ಟ್‌ ಮಹತ್ವದ ಹೇಳಿಕೆ](https://vijaykarnataka.com/news/karnataka/karnataka-high-court-clarifies-accused-cannot-insist-same-judge-to-continue-trial/articleshow/134268576.cms)
-- [BBK 13: ವುಮೆನ್ ಕಾರ್ಡ್‌ ಪ್ಲೇ ಮಾಡಿ ಕ್ಯಾಪ್ಟನ್‌ ಆದ್ರಾ ಸಂಗೀತಾ ಭಟ್? ಕಿರಣ್‌ ಶಾಸ್ತ್ರೀಗೆ ಮೋಸ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/sangeetha-bhatt-becomes-first-captain-of-bigg-boss-kannada-season-13/articleshow/134271932.cms)
-- [ಹೆಚ್ಚು ಗಂಟೆಗಳ ಕೆಲಸ ಹೃದಯಕ್ಕೆ ಅಪಾಯವೇ? ಕೆಲಸದ ಒತ್ತಡದಿಂದ ಹೃದಯಾಘಾತದ ಅಪಾಯ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/health/world-heart-day-2026-long-working-hours-heart-attack-risk/articleshow/134193727.cms)
-- [ಚಾಣಕ್ಯ ನೀತಿ: ಸಂಬಂಧಿಕರ ಮನೆಗೆ ಹೋದಾಗ ಪಾಲಿಸಬೇಕಾದ ನಿಯಮಗಳು.!](https://vijaykarnataka.com/religion/hinduism/chanakya-niti-says-do-not-do-these-mistakes-while-you-went-for-relatives-home/articleshow/134262305.cms)
-- [ಸಣ್ಣ ಜಿರಳೆಗಳ ಕಾಟಕ್ಕೆ ಬ್ರೇಕ್! ಬೇಕಿಂಗ್ ಸೋಡಾ–ಸಕ್ಕರೆ, ವಿನೆಗರ್ ಹೀಗೆ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/baking-soda-sugar-white-vinegar-spray-get-rid-baby-cockroaches-kitchen/articleshow/134257562.cms)
-- [ವಂದೇ ಮಾತರಂ 2 ಪ್ಯಾರಾಗೆ ಸೀಮಿತ: ಸರ್ಕಾರಿ ಕಾರ್ಯಕ್ರಮ ಬಹಿಷ್ಕರಿಸಿ ಎದ್ದು ಹೋದ ಶಿವಮೊಗ್ಗ BJP ಶಾಸಕ ಚನ್ನಬಸಪ್ಪ!](https://vijaykarnataka.com/news/shivamogga/vande-mataram-limited-to-2-stanzas-shivamogga-bjp-mla-channabasappa-walks-out-boycotting-government-event/articleshow/134268323.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [Meta to share child safety information directly with Indian agencies](https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece)
+- [Agartala-Delhi flight diverted to Lucknow after smoke warning; no injuries reported](https://www.thehindu.com/news/national/uttar-pradesh/agartala-delhi-flight-diverted-to-lucknow-after-smoke-warning-no-injuries-reported/article71469954.ece)
+- [AAP alleges cover-up in girl’s death at a Satya Niketan PG; police denies allegation](https://www.thehindu.com/news/cities/Delhi/aap-alleges-cover-up-in-girls-death-at-a-satya-niketan-pg-police-denies-allegation/article71469675.ece)
+- [Asian Games 2026: J&K govt. allows Mir Bilquis to travel after SC intervention; to coach Indian kayaking, canoeing team](https://www.thehindu.com/news/national/jammu-and-kashmir/asian-games-2026-jk-govt-allowsmir-bilquis-to-travel-after-sc-intervention-to-coach-indian-kayaking-canoeing-team/article71469442.ece)
 - [Power discom is still heavily reliant on Tamil Nadu government’s financial support](https://www.thehindu.com/news/national/tamil-nadu/power-discom-is-still-heavily-reliant-on-tamil-nadu-governments-financial-support/article71469229.ece)
 - [MMC, Rotary Club provide five pink autos to women](https://www.thehindu.com/news/national/tamil-nadu/mmc-rotary-club-provide-five-pink-autos-to-women/article71469714.ece)
 - [IIT Palakkad researchers develop sensors for faster heparin monitoring](https://www.thehindu.com/news/national/kerala/iit-palakkad-researchers-develop-sensors-for-faster-heparin-monitoring/article71468718.ece)
 - [Tanker hit by projectile near Strait of Hormuz was operating in ‘dark mode’](https://www.thehindu.com/news/international/tanker-hit-by-projectile-near-strait-of-hormuz-was-operating-in-dark-mode/article71469903.ece)
 - [Man held for damaging temple idols in Tirupattur](https://www.thehindu.com/news/national/tamil-nadu/man-held-for-damaging-temple-idols-in-tirupattur/article71468255.ece)
 - [Man electrocuted, nine others injured in Ranipet](https://www.thehindu.com/news/national/tamil-nadu/man-electrocuted-nine-others-injured-in-ranipet/article71468263.ece)
-- [Udhayanidhi condemns TVK-led govt. over attempt to ‘paralyse’ High Level Committee on Union-State Relations](https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-condemns-tvk-led-govt-over-attempt-to-paralyse-high-level-committee-on-union-state-relations/article71469408.ece)
-- [Six States, UT sign Kishau multipurpose project agreement; CM Sukhu hails ‘major victory’ for Himachal](https://www.thehindu.com/news/national/himachal-pradesh/six-states-ut-sign-kishau-multipurpose-project-agreement-cm-sukhu-hails-major-victory-for-himachal/article71468268.ece)
-- [Rescued baby orangutans get health check-up after one develops fever](https://www.thehindu.com/news/national/odisha/rescued-baby-orangutans-get-health-check-up-after-one-develops-fever/article71469871.ece)
-- [CPI alleges vote deletions in A.P. SIR](https://www.thehindu.com/news/national/andhra-pradesh/cpi-alleges-vote-deletions-in-ap-sir/article71469101.ece)
 
 **Livemint**
+- [Iran war costs US military $38 billion as CBO warns of billions more in monthly expenses](https://www.livemint.com/news/us-news/iran-war-costs-us-military-38-billion-as-cbo-warns-of-billions-more-in-monthly-expenses-11789501056348.html)
 - [Pete Hegseth faces impeachment push from Republican lawmaker over military action against Iran without congressional app](https://www.livemint.com/news/us-news/pete-hegseth-faces-impeachment-push-from-republican-lawmaker-over-military-action-against-iran-without-congressional-app-11789498081767.html)
 - [New Measles Deaths Send US Fatality Total to Highest in Decades](https://www.livemint.com/news/us-news/new-measles-deaths-send-us-fatality-total-to-highest-in-decades-11789499497119.html)
 - [Starbucks Peanuts collection: Snoopy-themed cups, plush toys and accessories launch for fall 2026](https://www.livemint.com/news/trends/starbucks-peanuts-collection-snoopy-themed-cups-plush-toys-and-accessories-launch-for-fall-2026-11789492840808.html)
@@ -83,7 +74,6 @@
 - [Agartala-Delhi IndiGo flight carrying 103 passengers diverted to Lucknow after smoke warning](https://www.livemint.com/news/india/agartaladelhi-indigo-flight-carrying-103-passengers-diverted-to-lucknow-after-smoke-warning-11789490248494.html)
 - [Trump’s bid to put his name on Kennedy Center blocked again by federal judge; ‘Trump Plaza’ plan also halted](https://www.livemint.com/news/us-news/trumps-bid-to-put-his-name-on-kennedy-center-blocked-again-by-federal-judge-11789490055385.html)
 - [UPI sets charges for merchant payments above  ₹2,000, caps fee at  ₹300](https://www.livemint.com/news/upi-sets-charges-for-merchant-payments-above-2-000-caps-fee-at-300-11789482097465.html)
-- [‘Strong dollar is not a price on a screen’: Bessent defends US currency as global transactions rise](https://www.livemint.com/news/us-news/strong-dollar-is-not-a-price-on-a-screen-bessent-defends-us-currency-as-global-transactions-rise-11789484954700.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,35 +90,35 @@
 - [ಎಫ್‌ಸಿಆರ್‌ಎ ಉಲ್ಲಂಘನೆ ಆರೋಪ: ಅರುಣಾಚಲ ಪರಿಸರ ಕಾರ್ಯಕರ್ತೆ ವಿರುದ್ಧ ಪ್ರಕರಣ ದಾಖಲಿಸಿದ CBI](https://www.varthabharati.in/National/fcra-violation-allegations-cbi-case-against-arunachal-environmental-activist-2275455)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Indian (3.9)
+- Indian (6.5)
+- Iran (3.9)
 - Trump (3.2)
 - India (2.9)
 - Pahalgam (2.6)
 - Centre (2.6)
-- Iran (2.6)
 - Mumbai (2.6)
+- Lucknow (2.6)
+- Meta (1.6)
 - Omar (1.6)
 - Musk's (1.6)
 - What (1.6)
 - Police (1.6)
 - Rahul (1.6)
-- Child (1.3)
-- Brics (1.3)
-- Samson's (1.3)
+- Agartala-Delhi (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ['This was my last World Cup': Bhuvneshwar Kumar reveals why India return hopes faded](https://timesofindia.indiatimes.com/sports/cricket/news/this-was-my-last-world-cup-bhuvneshwar-kumar-reveals-why-india-return-hopes-faded/articleshow/134255830.cms)
-- [Robert Kiyosaki Crash Warning: 'इतिहास का सबसे बड़ा क्रैश शुरू...', रॉबर्ट कियोसाकी बोले- सावधान हो जाएं](https://www.aajtak.in/business/news/story/robert-kiyosaki-biggest-crash-in-history-warning-viral-x-post-advice-gold-silver-buying-tutc-dskc-2643068-2026-09-15)
-- [જામનગરના કાલાવડ નાકા બહાર 6 ઇંચ વરસાદમાં વૈકલ્પિક માર્ગમાં મોટી તિરાડો પડી : વાહનચાલકોની સુરક્ષાને લઈ સવાલ](https://www.gujaratsamachar.com/news/jamnagar/6-inches-of-rain-outside-kalavad-naka-in-jamnagar-caused-major-cracks-in-the-alternative-road-questions-about-the-safety-of-motorists-11803392101)
-- [మహిళా బైకర్ సియా హిట్ అండ్ రన్ కేసు.. నిందితుడిపై హత్యాయత్నం సెక్షన్‌ జోడించిన పోలీసులు](https://www.andhrajyothy.com/2026/national/gurugram-hit-and-run-biker-siya-attempt-to-murder-section-added-kalyan-suri-1558236.html)
-- ['നഖ്‌വിയില്‍ നിന്ന് ഏഷ്യാകപ്പ് മേടിക്കില്ലെന്ന് നേരത്തെ അറിയിച്ചിരുന്നു'; വ്യക്തത വരുത്തി ബിസിസിഐ](https://www.asianetnews.com/cricket-sports/india-refused-womens-asia-cup-presentation-ceremony-over-pcb-chief-mohsin-naqvi-involvement-articleshow-4xszqeq)
-- [HCLTech, HDFC Bank, HFCL among buzzing stocks as SENSEX falls nearly 300 pts; NIFTY trades below 23,300](https://upstox.com/news/market-news/stocks/hcl-tech-hdfc-bank-hfcl-among-buzzing-stocks-as-sensex-falls-nearly-300-pts-nifty-trades-below-23-300/article-200275/)
-- [क्या दो हज़ार रुपए से ज़्यादा की यूपीआई पेमेंट पर लगेगा चार्ज, क्यों परेशान हैं लोग?](https://www.bbc.com/hindi/articles/cqn0j90e9j0po)
-- [Transforming Amyloidosis Care: An Interview with Helen Lachmann](https://www.emjreviews.com/flagship-journal/article/transforming-amyloidosis-care-an-interview-with-helen-lachmann/)
-- [Sanjeev Sonawane Death Latur Crime News: लातूरचे प्रसिद्ध संस्थाचालक संजीव सोनवणे यांनी राहत्या घरी संपवलं जीवन; घटनेने लातूरमध्ये एकच खळबळ](https://marathi.abplive.com/crime/sanjeev-sonawane-end-his-life-in-latur-sanjeev-sonawane-crime-marathi-news-1439156)
-- [APPSC Job Notifications: ఏపీలో కొలువుల జాతర.. 892 పోస్టులకు ఏపీపీఎస్సీ నోటిఫికేషన్లు](https://telugu.abplive.com/jobs/appsc-recruitment-2026-massive-job-drive-announced-for-892-vacancies-in-andhra-pradesh-258954)
+- ['राहुल गांधी ने अपने नेताओं पर क्यों चुप्पी साधी', हरीश रावत के पीए के ठिकाने पर पड़ा छापा तो बांसुरी स्वराज ने उठाए सवाल](https://navbharattimes.indiatimes.com/india/rahul-gandhi-silence-bansuri-swaraj-raises-questions-after-a-raid-on-the-premises-of-harish-rawat-pa/articleshow/134256313.cms)
+- [कल या परसों कब है विश्वकर्मा पूजा? जानें डेट, पूजन मुहूर्त, विधि, सामग्री लिस्ट और आरती](https://www.livehindustan.com/astrology/vishwakarma-puja-16-ya-17-september-2026-kab-hai-know-here-puja-muhurat-vidhi-samgari-list-and-aarti-201789458047828.html)
+- [Manoj Jarange Protest: मनोज जरांगे मुंबईकडे रवाना होताच पत्नीसह मुली संतापल्या; म्हणाल्या, 'वडिलांना काही झाल्यास डोळे पुसायला रुमाल...'](https://marathi.abplive.com/news/politics/jalna-news-manoj-jarange-set-out-for-mumbai-his-wife-and-daughters-expressed-their-anger-and-issued-a-warning-to-the-government-1439168)
+- [விண்வெளியிலும் ஆயுதம்? Orbit-ல் ‘Space Control Weapons’ இருப்பதை முதன்முறையாக ஒப்புக்கொண்ட அமெரிக்கா](https://www.vikatan.com/technology/weapons-in-space-us-admits-space-control-weapons-in-orbit-for-first-time)
+- [ZIM vs AUS, 1st ODI, Australia tour of Zimbabwe 2026](https://www.cricbuzz.com/player-match-performance/match/152731/player/54385/bowling)
+- [Weather Update: ગુજરાત સહિત 22 રાજ્યોમાં આજે ભારે વરસાદનું એલર્ટ, જાણો લેટેસ્ટ હવામાન અપડેટ](https://gujarati.abplive.com/news/india/monsoon-alert-heavy-rain-warning-for-22-states-delhi-bihar-gujarat-991239)
+- [Suvendu Adhikari Chandranath Rath Murder Case: 'ওর অপরাধ ছিল...' নন্দীগ্রাম ভোটে PA চন্দ্রনাথ স্মরণ শুভেন্দুর](https://bangla.aajtak.in/west-bengal/story/suvendu-adhikari-speaks-about-chandranath-rath-murder-case-on-nandigram-by-poll-nomination-sud-1450956-2026-09-15)
+- [Punjab: ਅੰਤਰ-ਰਾਸ਼ਟਰੀ ਗੈਂਗਸਟਰ ਨੈੱਟਵਰਕ ‘ਤੇ ਵੱਡੀ ਕਾਰਵਾਈ: ਲਾਰੈਂਸ ਬਿਸ਼ਨੋਈ ਦਾ ਕਰੀਬੀ ਸਾਥੀ ਕੈਨੇਡਾ ਤੋਂ ਡਿਪੋਰਟ](https://wishavwarta.in/punjab-close-associate-of-lawrence-bishnoi-deported-from-canada/)
+- [Tata Sons को शेयर मार्केट में आना ही होगा? RBI के कानूनी कदम के बाद अटकलें तेज](https://www.aajtak.in/business/news/story/tata-sons-listing-rbi-caveat-bombay-high-court-tata-group-companies-stocks-rally-dpmx-smsr-2643043-2026-09-15)
+- [‘వద్దు సరోజా.. వద్దమ్మా..’ నిజంగానే జరిగింది.. మూవీలో ఆ సీన్‌ తీసేద్దామనుకున్నారట](https://www.eenadu.net/telugu-news/movies/behind-the-story-of-vaddu-saroja-comedy/0208/126166582)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
