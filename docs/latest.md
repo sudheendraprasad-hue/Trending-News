@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-16 23:01:57
+# India Trending Report — 2026-09-16 23:33:59
 
 ## Google Trends (India) — top trending searches
-1. [india west indies odi squad](https://trends.google.com/trending/rss?geo=IN)
-2. [yassir zabiri](https://trends.google.com/trending/rss?geo=IN)
-3. [kylian mbappé](https://trends.google.com/trending/rss?geo=IN)
-4. [apple iphone 17 pro vs iphone 18 pro](https://trends.google.com/trending/rss?geo=IN)
-5. [neagley reacher](https://trends.google.com/trending/rss?geo=IN)
-6. [karim adeyemi](https://trends.google.com/trending/rss?geo=IN)
-7. [anthony gordon](https://trends.google.com/trending/rss?geo=IN)
-8. [rodri](https://trends.google.com/trending/rss?geo=IN)
-9. [laliga games](https://trends.google.com/trending/rss?geo=IN)
-10. [fc barcelona vs racing santander standings](https://trends.google.com/trending/rss?geo=IN)
+1. [delhi weather](https://trends.google.com/trending/rss?geo=IN)
+2. [cpl](https://trends.google.com/trending/rss?geo=IN)
+3. [after the death](https://trends.google.com/trending/rss?geo=IN)
+4. [weather delhi](https://trends.google.com/trending/rss?geo=IN)
+5. [temperature](https://trends.google.com/trending/rss?geo=IN)
+6. [xi jinping](https://trends.google.com/trending/rss?geo=IN)
+7. [yassir zabiri](https://trends.google.com/trending/rss?geo=IN)
+8. [kylian mbappé](https://trends.google.com/trending/rss?geo=IN)
+9. [apple iphone 17 pro vs iphone 18 pro](https://trends.google.com/trending/rss?geo=IN)
+10. [neagley reacher](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [100% tariffs on India? Russia sanctions bill passed by US House; awaits Trump’s sign](https://timesofindia.indiatimes.com/business/international-business/after-senate-us-house-passes-russia-sanctions-bill-100-tariff-threat-looms-for-india/articleshow/134296683.cms)
-- [‘We’re the best credit’: Trump fumes after 1st Fed rate hike in over 3 yrs](https://timesofindia.indiatimes.com/business/international-business/were-the-best-credit-trump-calls-for-lower-us-interest-rates-after-first-fed-hike-in-3-years/articleshow/134296503.cms)
+- ['Very political': Trump fumes after 1st Fed rate hike in over 3 years](https://timesofindia.indiatimes.com/business/international-business/were-the-best-credit-trump-calls-for-lower-us-interest-rates-after-first-fed-hike-in-3-years/articleshow/134296503.cms)
 - [Indian couple win payout after suing UK home office for 'unlawful' immigration detention](https://timesofindia.indiatimes.com/nri/other-news/failed-asylum-seeking-indian-couple-win-payout-after-suing-uk-home-office-for-being-kept-separately-in-immigration-detention/articleshow/134296573.cms)
 - [Gang uses stolen hearse to cart away ATM with Rs 12 lakh](https://timesofindia.indiatimes.com/city/chennai/gang-uses-stolen-hearse-to-cart-away-atm-with-rs-12-lakh/articleshow/134291728.cms)
 - [Govt lowers export levies on petrol, diesel and aviation turbine fuel](https://timesofindia.indiatimes.com/business/india-business/govt-lowers-export-levies-on-petrol-diesel-and-aviation-turbine-fuel-amid-fortnightly-review/articleshow/134296226.cms)
 - [Why Mark Zuckerberg's wife's school was shut down despite $125 million in donations,](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms)
 - [Don’t trust Centre unless it’s a written deal, J&K CM tells Ladakhi delegation](https://timesofindia.indiatimes.com/india/dont-trust-centre-unless-its-a-written-deal-omar-tells-ladakhi-delegation/articleshow/134296549.cms)
-- [At board meet, Noel Tata to push to keep Tata Sons private](https://timesofindia.indiatimes.com/business/india-business/at-board-meet-noel-to-push-to-keep-tata-sons-private/articleshow/134296591.cms)
-- [Meta admits mistake, to alert authorities on child sexual abuse material](https://timesofindia.indiatimes.com/india/child-abuse-content-row-meta-admits-lapses-govt-questions-its-safe-harbour-status/articleshow/134296619.cms)
-- [Saudi in need, friend Pak missing in 'deed': Islamabad faces ultimate Mecca pact test](https://timesofindia.indiatimes.com/world/middle-east/saudi-in-need-friend-pakistan-missing-in-deed-islamabad-faces-mecca-pact-test-with-iran-looming/articleshow/134288519.cms)
+- [Aggrieved party can seek deletion of court clips on socials: SC](https://timesofindia.indiatimes.com/india/aggrieved-party-can-seek-deletion-of-court-clips-on-socials-sc/articleshow/134296733.cms)
+- [23-year-old Georgia mayor removed from office after misconduct allegations](https://timesofindia.indiatimes.com/world/us/at-22-jayden-williams-became-stockbridges-youngest-mayor-10-months-later-the-city-council-removed-him-after-a-10-hour-misconduct-hearing/articleshow/134266182.cms)
+- ['No rethink': Govt firm on UPI merchant fee amid rollback demands](https://timesofindia.indiatimes.com/business/india-business/no-rethink-govt-firm-on-upi-fee-amid-rollback-demands/articleshow/134296667.cms)
 
 **NDTV**
 - [US-Contracted Vessel Hit By Iranian Missiles Near Strait Of Hormuz: Report](https://www.ndtv.com/world-news/us-contracted-vessel-hit-by-iranian-missiles-near-strait-of-hormuz-report-12056877#publisher=newsstand)
@@ -62,6 +62,7 @@
 - [ಕರ್ನಾಟಕದ 768 ಪೆಟ್ರೋಲ್‌ ಬಂಕ್‌ಗಳಲ್ಲಿ ಅಳತೆ ವಂಚನೆ ಪತ್ತೆ: ಅನುಮಾನ ಬಂದಲ್ಲಿ ಗ್ರಾಹಕರು ಮಾಡಬೇಕಾದ್ದೇನು?](https://vijaykarnataka.com/news/karnataka/measurement-fraud-detected-at-768-petrol-bunks-in-karnataka-what-should-customers-do/articleshow/134292790.cms)
 
 **The Hindu**
+- [Himachal’s policy uncompromising toward those involved in illegal drug trade: CM Sukhu](https://www.thehindu.com/news/national/himachal-pradesh/himachals-policy-uncompromising-toward-those-involved-in-illegal-drug-trade-cm-sukhu/article71472541.ece)
 - [BJP MPs raise concerns over slow pace of infrastructure projects in Odisha](https://www.thehindu.com/news/national/odisha/bjp-mps-raise-concerns-over-slow-pace-of-infrastructure-projects-in-odisha/article71472679.ece)
 - [Trump lauds India's crackdown on poppy farming; lists 23 major drug transit nations](https://www.thehindu.com/news/national/trump-lauds-indias-crackdown-on-poppy-farming-lists-23-major-drug-transit-nations/article71474352.ece)
 - [Rajasthan achieves plantation target ahead of schedule](https://www.thehindu.com/news/national/rajasthan/rajasthan-achieves-plantation-target-ahead-of-schedule/article71472889.ece)
@@ -71,9 +72,9 @@
 - [Former TNCC president Selvaperunthagai and Rajya Sabha member Praveen Chakravarty trade barbs](https://www.thehindu.com/news/national/tamil-nadu/former-tncc-president-selvaperunthagai-and-rajya-sabha-member-praveen-chakravarty-trade-barbs/article71472663.ece)
 - [CJP to launch ‘Adivasi School Thik Karo’ campaign from Gadchiroli on Sept. 17: Dipke](https://www.thehindu.com/news/national/maharashtra/cjp-to-launch-adivasi-school-thik-karo-campaign-from-gadchiroli-on-sept-17-dipke/article71471862.ece)
 - [Lack of cleanliness and hygiene keep exporters away from Kasimedu fishing harbour](https://www.thehindu.com/news/cities/chennai/lack-of-cleanliness-and-hygiene-keep-exporters-away-from-kasimedu-fishing-harbour/article71473991.ece)
-- [Falsely quoting judges in barred online court clips is criminal conduct, says Supreme Court](https://www.thehindu.com/news/national/supreme-court-says-falsely-quoting-judges-in-barred-online-court-clips-crosses-over-from-contempt-to-crime/article71471708.ece)
 
 **Livemint**
+- [Asia at Risk of Unrest as El Niño, War Threaten Food Supplies](https://www.livemint.com/news/world/asia-at-risk-of-unrest-as-el-ni-o-war-threaten-food-supplies-11789601010794.html)
 - [US Tracking Cyber Threats Against Nearly 20 Ships Worldwide](https://www.livemint.com/news/us-tracking-cyber-threats-against-nearly-20-ships-worldwide-11789596180672.html)
 - [JD Vance says Iran war will enter ‘much different phase’ in coming months](https://www.livemint.com/news/us-news/jd-vance-says-iran-war-will-enter-much-different-phase-in-coming-months-11789588664007.html)
 - [Charlie Kirk assassination: The security failures alleged by his family, explained](https://www.livemint.com/news/us-news/charlie-kirk-assassination-the-security-failures-alleged-by-his-family-explained-11789586732363.html)
@@ -83,7 +84,6 @@
 - [Laid-off man with home loan worries about managing EMIs: ‘One email puts your entire life into uncertainty’](https://www.livemint.com/news/trends/laidoff-man-with-home-loan-worries-about-managing-emis-one-email-puts-your-entire-life-into-uncertainty-11789578554175.html)
 - [Classic Connect, Gold Flake Super Star now more expensive: ITC hikes cigarette prices again](https://www.livemint.com/news/india/classic-connect-gold-flake-super-star-now-more-expensive-itc-hikes-cigarette-prices-again-11789579170306.html)
 - [Niti Aayog VC pitches for export diversification to beat external headwinds](https://www.livemint.com/news/india/niti-aayog-vc-pitches-for-export-diversification-to-beat-external-headwinds-11789573688445.html)
-- [Centre looks to widen trusted-trader programme beyond customs facilitation](https://www.livemint.com/news/india/centre-looks-to-widen-trusted-trader-programme-beyond-customs-facilitation-11789568110009.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -101,34 +101,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - Trump (6.5)
+- Govt (5.2)
 - Odisha (5.2)
 - India (3.9)
-- Govt (3.9)
 - Indian (2.6)
-- Centre (2.6)
 - Report (2.6)
 - Three (2.6)
 - Rajasthan (2.6)
-- Supreme Court (2.0)
 - Russia (1.6)
-- Saudi (1.6)
 - Pakistan (1.6)
+- Risk (1.6)
 - Nadu (1.6)
 - Gang (1.3)
+- Centre (1.3)
+- Ladakhi (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [‘বিগ বস বাংলা’র ঘরে ক্যাপ্টেন সোনামণি। শুভেচ্ছা জানালেন প্রতীক সেন](https://www.aaroananda.com/story/entertainment-news/in-focus/sonomoni-saha-bigg-boss-captaincy-and-marriage-rumors/11019943)
-- [શીલજ હિટ એન્ડ રન કેસ: આરોપી રાજસ્થાનના ડુંગરપુરથી ઝડપાયો, મૃતકના પતિએ હાથ જોડીને માંગ્યો હતો ન્યાય](https://www.gujaratsamachar.com/news/ahmedabad/shilaj-canal-road-newlywed-woman-case-bopal-police-arrests-accused-88003549548)
-- [મોદીજી હિંમત બતાવો, UPI ટેક્સ પાછો લો: રાહુલ ગાંધીએ ટ્રમ્પનું નામ લઈ PM પર સાધ્યું નિશાન](https://www.gujaratsamachar.com/news/national/rahul-gandhi-attacks-pm-modi-upi-mdr-charges-donald-trump-allegations-51560140234)
-- [ഇങ്ങനെ കളിച്ചാൽ സഞ്ജു ഒരിക്കലും പരാജയപ്പെടില്ല, എല്ലാ മത്സരങ്ങളിലും 50-60 റൺസ് വേണം: ഉപദേശിച്ച് ഗാവസ്കർ](https://www.manoramaonline.com/sports/cricket/2026/09/16/sanju-samson-batting-approach-praise-sunil-gavaskar.html)
-- [ગુજરાત : બનાસકાંઠા જિલ્લા કૉંગ્રેસમાં એવું શું થયું કે પક્ષનું આખું માળખું કેમ વિખેરી નખાયું?](https://www.bbc.com/gujarati/articles/c65ym3333j34o)
-- [ശമ്പളപരിധി 25,000 രൂപയായി; പി.എഫ് ആനുകൂല്യം 51 ലക്ഷം പേർക്ക് കൂടി](https://www.madhyamam.com/business/personal-finance/centre-raises-pf-wage-ceiling-to-rs-25000-1555078)
-- [Richest Person : అదానీని వెనక్కినెట్టిన టిక్ టాక్ ఫౌండర్](https://vaartha.com/national/tiktok-founder-overtakes-adani/778152/)
-- [India summons Pakistani diplomat after incident in Arabian Sea](https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea)
-- [Saudi Arabia LIVE updates: Houthis say they attacked Saudi's Aramco facilities in Yanbu](https://www.hindustantimes.com/world-news/saudi-houthi-conflict-attack-live-updates-yemen-rebel-group-drone-mecca-us-travel-advisory-iran-war-jeddah-riyadh-israel-101789526731020.html)
-- [സഞ്ജു എങ്ങനെ ബാറ്റ് ചെയ്യുമെന്ന് നിങ്ങള്‍ക്ക് ഒരിക്കലും പ്രതീക്ഷിക്കാനാവില്ല; പുകഴ്ത്തി സഞ്ജയ് മഞ്ജരേക്കര്‍](https://www.doolnews.com/sanjay-manjrekar-praises-sanju-samson-65-141.html)
+- [સૂર્યનું કન્યા રાશિમાં મહાગોચર: આવતીકાલથી આ 4 રાશિઓ માટે 30 દિવસ ભારે, જાણો બચવાના ઉપાય](https://www.gujaratsamachar.com/news/astro/surya-gochar-september-2026-sun-transit-virgo-effects-remedies-four-zodiac-signs-54463063918)
+- [ఓటుకు నోటు కేసు.. రేవంత్ రెడ్డి, సండ్ర పిటిషన్లపై సుప్రీంకోర్టులో విచారణ](https://www.ap7am.com/tn/880299/revanth-reddy-and-sandra-vote-for-note-case-supreme-court-hearing)
+- [Breaking News: સોના-ચાંદીની ખરીદી પર 2 મોટા નિયમો બદલાયા, તમારા ખિસ્સા પર આની શું અસર પડશે?](https://tv9gujarati.com/photo-gallery/gold-silver-two-big-decisions-changed-these-new-rules-could-impact-your-jewellery-bill-1516884.html)
+- [കാർ നിയന്ത്രണം വിട്ട് സംരക്ഷണ ഭിത്തിയിലിടിച്ചു; മലയാളി യുവതി മരിച്ചു](https://www.manoramaonline.com/news/kerala/2026/09/16/wayanad-woman-afreena-dies-in-bengaluru-mysuru-expressway-crash.html)
+- [The Vvaan Trailer: देवी का रूप, डर का साया... सिद्धार्थ मल्होत्रा-तमन्ना भाटिया की ‘द वन’ का ट्रेलर रिलीज](https://www.aajtak.in/entertainment/bollywood-news/story/siddharth-malhotra-tamanna-bhatia-the-vvaan-trailer-release-bihar-van-devi-chhath-puja-fans-reaction-tmovb-dskc-2643933-2026-09-16)
+- [Giant snake falls on man carrying child at Amboli waterfall in Maharashtra; tourists scream, “Run, it’s a very big cobra”: watch](https://timesofindia.indiatimes.com/life-style/travel/destinations/giant-snake-falls-on-man-carrying-child-at-amboli-waterfall-in-maharashtra-tourists-scream-run-its-a-very-big-cobra-watch/articleshow/134286358.cms)
+- [பயிர்க் கடன் தள்ளுபடி முதல் மின்வெட்டு பிரச்சினை வரை: தேமுதிக 9 தீர்மானங்கள் நிறைவேற்றம்](https://www.hindutamil.in/news/tamilnadu/9-resolutions-passed-at-dmdk-distrcit-secretaies-meet)
+- [The Vvaan: ఈ సారి తమన్నా హిట్టు కొట్టేట్టుంది!](https://www.chitrajyothy.com/2026/bollywood/tamannaahs-the-vvaan-movie-trailer-released-onava-75446.html)
+- [35 रुपये में 145KM... TVS ने एक दिन में बेच दिए इतने इलेक्ट्रिक स्कूटर](https://www.aajtak.in/visualstories/auto/tvs-iqube-millionr-edition-delivery-price-range-details-auam-285749-16-09-2026)
+- [India could face up to 100% US tariffs over Russian oil](https://www.dw.com/en/india-news-us-bill-sanctioning-russia-could-hit-india-with-tariffs-of-up-to-100/live-79285577)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._

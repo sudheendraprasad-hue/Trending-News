@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-09-16 23:01:57",
+  "generated_at": "2026-09-16 23:33:59",
   "google_trends": [
     {
-      "title": "india west indies odi squad",
+      "title": "delhi weather",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "cpl",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "after the death",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "weather delhi",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "temperature",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "xi jinping",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
@@ -25,31 +50,6 @@
       "title": "neagley reacher",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "karim adeyemi",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "anthony gordon",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "rodri",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "laliga games",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "fc barcelona vs racing santander standings",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
     }
   ],
   "outlets": {
@@ -59,7 +59,7 @@
         "link": "https://timesofindia.indiatimes.com/business/international-business/after-senate-us-house-passes-russia-sanctions-bill-100-tariff-threat-looms-for-india/articleshow/134296683.cms"
       },
       {
-        "title": "\u2018We\u2019re the best credit\u2019: Trump fumes after 1st Fed rate hike in over 3 yrs",
+        "title": "'Very political': Trump fumes after 1st Fed rate hike in over 3 years",
         "link": "https://timesofindia.indiatimes.com/business/international-business/were-the-best-credit-trump-calls-for-lower-us-interest-rates-after-first-fed-hike-in-3-years/articleshow/134296503.cms"
       },
       {
@@ -83,16 +83,16 @@
         "link": "https://timesofindia.indiatimes.com/india/dont-trust-centre-unless-its-a-written-deal-omar-tells-ladakhi-delegation/articleshow/134296549.cms"
       },
       {
-        "title": "At board meet, Noel Tata to push to keep Tata Sons private",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/at-board-meet-noel-to-push-to-keep-tata-sons-private/articleshow/134296591.cms"
+        "title": "Aggrieved party can seek deletion of court clips on socials: SC",
+        "link": "https://timesofindia.indiatimes.com/india/aggrieved-party-can-seek-deletion-of-court-clips-on-socials-sc/articleshow/134296733.cms"
       },
       {
-        "title": "Meta admits mistake, to alert authorities on child sexual abuse material",
-        "link": "https://timesofindia.indiatimes.com/india/child-abuse-content-row-meta-admits-lapses-govt-questions-its-safe-harbour-status/articleshow/134296619.cms"
+        "title": "23-year-old Georgia mayor removed from office after misconduct allegations",
+        "link": "https://timesofindia.indiatimes.com/world/us/at-22-jayden-williams-became-stockbridges-youngest-mayor-10-months-later-the-city-council-removed-him-after-a-10-hour-misconduct-hearing/articleshow/134266182.cms"
       },
       {
-        "title": "Saudi in need, friend Pak missing in 'deed': Islamabad faces ultimate Mecca pact test",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/saudi-in-need-friend-pakistan-missing-in-deed-islamabad-faces-mecca-pact-test-with-iran-looming/articleshow/134288519.cms"
+        "title": "'No rethink': Govt firm on UPI merchant fee amid rollback demands",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/no-rethink-govt-firm-on-upi-fee-amid-rollback-demands/articleshow/134296667.cms"
       }
     ],
     "NDTV": [
@@ -223,6 +223,10 @@
     ],
     "The Hindu": [
       {
+        "title": "Himachal\u2019s policy uncompromising toward those involved in illegal drug trade: CM Sukhu",
+        "link": "https://www.thehindu.com/news/national/himachal-pradesh/himachals-policy-uncompromising-toward-those-involved-in-illegal-drug-trade-cm-sukhu/article71472541.ece"
+      },
+      {
         "title": "BJP MPs raise concerns over slow pace of infrastructure projects in Odisha",
         "link": "https://www.thehindu.com/news/national/odisha/bjp-mps-raise-concerns-over-slow-pace-of-infrastructure-projects-in-odisha/article71472679.ece"
       },
@@ -257,13 +261,13 @@
       {
         "title": "Lack of cleanliness and hygiene keep exporters away from Kasimedu fishing harbour",
         "link": "https://www.thehindu.com/news/cities/chennai/lack-of-cleanliness-and-hygiene-keep-exporters-away-from-kasimedu-fishing-harbour/article71473991.ece"
-      },
-      {
-        "title": "Falsely quoting judges in barred online court clips is criminal conduct, says Supreme Court",
-        "link": "https://www.thehindu.com/news/national/supreme-court-says-falsely-quoting-judges-in-barred-online-court-clips-crosses-over-from-contempt-to-crime/article71471708.ece"
       }
     ],
     "Livemint": [
+      {
+        "title": "Asia at Risk of Unrest as El Ni\u00f1o, War Threaten Food Supplies",
+        "link": "https://www.livemint.com/news/world/asia-at-risk-of-unrest-as-el-ni-o-war-threaten-food-supplies-11789601010794.html"
+      },
       {
         "title": "US Tracking Cyber Threats Against Nearly 20 Ships Worldwide",
         "link": "https://www.livemint.com/news/us-tracking-cyber-threats-against-nearly-20-ships-worldwide-11789596180672.html"
@@ -299,10 +303,6 @@
       {
         "title": "Niti Aayog VC pitches for export diversification to beat external headwinds",
         "link": "https://www.livemint.com/news/india/niti-aayog-vc-pitches-for-export-diversification-to-beat-external-headwinds-11789573688445.html"
-      },
-      {
-        "title": "Centre looks to widen trusted-trader programme beyond customs facilitation",
-        "link": "https://www.livemint.com/news/india/centre-looks-to-widen-trusted-trader-programme-beyond-customs-facilitation-11789568110009.html"
       }
     ],
     "Moneycontrol": [],
@@ -355,6 +355,10 @@
       "score": 6.5
     },
     {
+      "term": "Govt",
+      "score": 5.2
+    },
+    {
       "term": "Odisha",
       "score": 5.2
     },
@@ -363,15 +367,7 @@
       "score": 3.9
     },
     {
-      "term": "Govt",
-      "score": 3.9
-    },
-    {
       "term": "Indian",
-      "score": 2.6
-    },
-    {
-      "term": "Centre",
       "score": 2.6
     },
     {
@@ -387,19 +383,15 @@
       "score": 2.6
     },
     {
-      "term": "Supreme Court",
-      "score": 2
-    },
-    {
       "term": "Russia",
       "score": 1.6
     },
     {
-      "term": "Saudi",
+      "term": "Pakistan",
       "score": 1.6
     },
     {
-      "term": "Pakistan",
+      "term": "Risk",
       "score": 1.6
     },
     {
@@ -409,49 +401,57 @@
     {
       "term": "Gang",
       "score": 1.3
+    },
+    {
+      "term": "Centre",
+      "score": 1.3
+    },
+    {
+      "term": "Ladakhi",
+      "score": 1.3
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u2018\u09ac\u09bf\u0997 \u09ac\u09b8 \u09ac\u09be\u0982\u09b2\u09be\u2019\u09b0 \u0998\u09b0\u09c7 \u0995\u09cd\u09af\u09be\u09aa\u09cd\u099f\u09c7\u09a8 \u09b8\u09cb\u09a8\u09be\u09ae\u09a3\u09bf\u0964 \u09b6\u09c1\u09ad\u09c7\u099a\u09cd\u099b\u09be \u099c\u09be\u09a8\u09be\u09b2\u09c7\u09a8 \u09aa\u09cd\u09b0\u09a4\u09c0\u0995 \u09b8\u09c7\u09a8",
-      "link": "https://www.aaroananda.com/story/entertainment-news/in-focus/sonomoni-saha-bigg-boss-captaincy-and-marriage-rumors/11019943"
+      "title": "\u0ab8\u0ac2\u0ab0\u0acd\u0aaf\u0aa8\u0ac1\u0a82 \u0a95\u0aa8\u0acd\u0aaf\u0abe \u0ab0\u0abe\u0ab6\u0abf\u0aae\u0abe\u0a82 \u0aae\u0ab9\u0abe\u0a97\u0acb\u0a9a\u0ab0: \u0a86\u0ab5\u0aa4\u0ac0\u0a95\u0abe\u0ab2\u0aa5\u0ac0 \u0a86 4 \u0ab0\u0abe\u0ab6\u0abf\u0a93 \u0aae\u0abe\u0a9f\u0ac7 30 \u0aa6\u0abf\u0ab5\u0ab8 \u0aad\u0abe\u0ab0\u0ac7, \u0a9c\u0abe\u0aa3\u0acb \u0aac\u0a9a\u0ab5\u0abe\u0aa8\u0abe \u0a89\u0aaa\u0abe\u0aaf",
+      "link": "https://www.gujaratsamachar.com/news/astro/surya-gochar-september-2026-sun-transit-virgo-effects-remedies-four-zodiac-signs-54463063918"
     },
     {
-      "title": "\u0ab6\u0ac0\u0ab2\u0a9c \u0ab9\u0abf\u0a9f \u0a8f\u0aa8\u0acd\u0aa1 \u0ab0\u0aa8 \u0a95\u0ac7\u0ab8: \u0a86\u0ab0\u0acb\u0aaa\u0ac0 \u0ab0\u0abe\u0a9c\u0ab8\u0acd\u0aa5\u0abe\u0aa8\u0aa8\u0abe \u0aa1\u0ac1\u0a82\u0a97\u0ab0\u0aaa\u0ac1\u0ab0\u0aa5\u0ac0 \u0a9d\u0aa1\u0aaa\u0abe\u0aaf\u0acb, \u0aae\u0ac3\u0aa4\u0a95\u0aa8\u0abe \u0aaa\u0aa4\u0abf\u0a8f \u0ab9\u0abe\u0aa5 \u0a9c\u0acb\u0aa1\u0ac0\u0aa8\u0ac7 \u0aae\u0abe\u0a82\u0a97\u0acd\u0aaf\u0acb \u0ab9\u0aa4\u0acb \u0aa8\u0acd\u0aaf\u0abe\u0aaf",
-      "link": "https://www.gujaratsamachar.com/news/ahmedabad/shilaj-canal-road-newlywed-woman-case-bopal-police-arrests-accused-88003549548"
+      "title": "\u0c13\u0c1f\u0c41\u0c15\u0c41 \u0c28\u0c4b\u0c1f\u0c41 \u0c15\u0c47\u0c38\u0c41.. \u0c30\u0c47\u0c35\u0c02\u0c24\u0c4d \u0c30\u0c46\u0c21\u0c4d\u0c21\u0c3f, \u0c38\u0c02\u0c21\u0c4d\u0c30 \u0c2a\u0c3f\u0c1f\u0c3f\u0c37\u0c28\u0c4d\u0c32\u0c2a\u0c48 \u0c38\u0c41\u0c2a\u0c4d\u0c30\u0c40\u0c02\u0c15\u0c4b\u0c30\u0c4d\u0c1f\u0c41\u0c32\u0c4b \u0c35\u0c3f\u0c1a\u0c3e\u0c30\u0c23",
+      "link": "https://www.ap7am.com/tn/880299/revanth-reddy-and-sandra-vote-for-note-case-supreme-court-hearing"
     },
     {
-      "title": "\u0aae\u0acb\u0aa6\u0ac0\u0a9c\u0ac0 \u0ab9\u0abf\u0a82\u0aae\u0aa4 \u0aac\u0aa4\u0abe\u0ab5\u0acb, UPI \u0a9f\u0ac7\u0a95\u0acd\u0ab8 \u0aaa\u0abe\u0a9b\u0acb \u0ab2\u0acb: \u0ab0\u0abe\u0ab9\u0ac1\u0ab2 \u0a97\u0abe\u0a82\u0aa7\u0ac0\u0a8f \u0a9f\u0acd\u0ab0\u0aae\u0acd\u0aaa\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0ab2\u0a88 PM \u0aaa\u0ab0 \u0ab8\u0abe\u0aa7\u0acd\u0aaf\u0ac1\u0a82 \u0aa8\u0abf\u0ab6\u0abe\u0aa8",
-      "link": "https://www.gujaratsamachar.com/news/national/rahul-gandhi-attacks-pm-modi-upi-mdr-charges-donald-trump-allegations-51560140234"
+      "title": "Breaking News: \u0ab8\u0acb\u0aa8\u0abe-\u0a9a\u0abe\u0a82\u0aa6\u0ac0\u0aa8\u0ac0 \u0a96\u0ab0\u0ac0\u0aa6\u0ac0 \u0aaa\u0ab0 2 \u0aae\u0acb\u0a9f\u0abe \u0aa8\u0abf\u0aaf\u0aae\u0acb \u0aac\u0aa6\u0ab2\u0abe\u0aaf\u0abe, \u0aa4\u0aae\u0abe\u0ab0\u0abe \u0a96\u0abf\u0ab8\u0acd\u0ab8\u0abe \u0aaa\u0ab0 \u0a86\u0aa8\u0ac0 \u0ab6\u0ac1\u0a82 \u0a85\u0ab8\u0ab0 \u0aaa\u0aa1\u0ab6\u0ac7?",
+      "link": "https://tv9gujarati.com/photo-gallery/gold-silver-two-big-decisions-changed-these-new-rules-could-impact-your-jewellery-bill-1516884.html"
     },
     {
-      "title": "\u0d07\u0d19\u0d4d\u0d19\u0d28\u0d46 \u0d15\u0d33\u0d3f\u0d1a\u0d4d\u0d1a\u0d3e\u0d7d \u0d38\u0d1e\u0d4d\u0d1c\u0d41 \u0d12\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d41\u0d02 \u0d2a\u0d30\u0d3e\u0d1c\u0d2f\u0d2a\u0d4d\u0d2a\u0d46\u0d1f\u0d3f\u0d32\u0d4d\u0d32, \u0d0e\u0d32\u0d4d\u0d32\u0d3e \u0d2e\u0d24\u0d4d\u0d38\u0d30\u0d19\u0d4d\u0d19\u0d33\u0d3f\u0d32\u0d41\u0d02 50-60 \u0d31\u0d7a\u0d38\u0d4d \u0d35\u0d47\u0d23\u0d02: \u0d09\u0d2a\u0d26\u0d47\u0d36\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d17\u0d3e\u0d35\u0d38\u0d4d\u0d15\u0d7c",
-      "link": "https://www.manoramaonline.com/sports/cricket/2026/09/16/sanju-samson-batting-approach-praise-sunil-gavaskar.html"
+      "title": "\u0d15\u0d3e\u0d7c \u0d28\u0d3f\u0d2f\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d23\u0d02 \u0d35\u0d3f\u0d1f\u0d4d\u0d1f\u0d4d \u0d38\u0d02\u0d30\u0d15\u0d4d\u0d37\u0d23 \u0d2d\u0d3f\u0d24\u0d4d\u0d24\u0d3f\u0d2f\u0d3f\u0d32\u0d3f\u0d1f\u0d3f\u0d1a\u0d4d\u0d1a\u0d41; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d3f \u0d2f\u0d41\u0d35\u0d24\u0d3f \u0d2e\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d41",
+      "link": "https://www.manoramaonline.com/news/kerala/2026/09/16/wayanad-woman-afreena-dies-in-bengaluru-mysuru-expressway-crash.html"
     },
     {
-      "title": "\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4 : \u0aac\u0aa8\u0abe\u0ab8\u0a95\u0abe\u0a82\u0aa0\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0abe \u0a95\u0ac9\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0ab8\u0aae\u0abe\u0a82 \u0a8f\u0ab5\u0ac1\u0a82 \u0ab6\u0ac1\u0a82 \u0aa5\u0aaf\u0ac1\u0a82 \u0a95\u0ac7 \u0aaa\u0a95\u0acd\u0ab7\u0aa8\u0ac1\u0a82 \u0a86\u0a96\u0ac1\u0a82 \u0aae\u0abe\u0ab3\u0a96\u0ac1\u0a82 \u0a95\u0ac7\u0aae \u0ab5\u0abf\u0a96\u0ac7\u0ab0\u0ac0 \u0aa8\u0a96\u0abe\u0aaf\u0ac1\u0a82?",
-      "link": "https://www.bbc.com/gujarati/articles/c65ym3333j34o"
+      "title": "The Vvaan Trailer: \u0926\u0947\u0935\u0940 \u0915\u093e \u0930\u0942\u092a, \u0921\u0930 \u0915\u093e \u0938\u093e\u092f\u093e... \u0938\u093f\u0926\u094d\u0927\u093e\u0930\u094d\u0925 \u092e\u0932\u094d\u0939\u094b\u0924\u094d\u0930\u093e-\u0924\u092e\u0928\u094d\u0928\u093e \u092d\u093e\u091f\u093f\u092f\u093e \u0915\u0940 \u2018\u0926 \u0935\u0928\u2019 \u0915\u093e \u091f\u094d\u0930\u0947\u0932\u0930 \u0930\u093f\u0932\u0940\u091c",
+      "link": "https://www.aajtak.in/entertainment/bollywood-news/story/siddharth-malhotra-tamanna-bhatia-the-vvaan-trailer-release-bihar-van-devi-chhath-puja-fans-reaction-tmovb-dskc-2643933-2026-09-16"
     },
     {
-      "title": "\u0d36\u0d2e\u0d4d\u0d2a\u0d33\u0d2a\u0d30\u0d3f\u0d27\u0d3f 25,000 \u0d30\u0d42\u0d2a\u0d2f\u0d3e\u0d2f\u0d3f; \u0d2a\u0d3f.\u0d0e\u0d2b\u0d4d \u0d06\u0d28\u0d41\u0d15\u0d42\u0d32\u0d4d\u0d2f\u0d02 51 \u0d32\u0d15\u0d4d\u0d37\u0d02 \u0d2a\u0d47\u0d7c\u0d15\u0d4d\u0d15\u0d4d \u0d15\u0d42\u0d1f\u0d3f",
-      "link": "https://www.madhyamam.com/business/personal-finance/centre-raises-pf-wage-ceiling-to-rs-25000-1555078"
+      "title": "Giant snake falls on man carrying child at Amboli waterfall in Maharashtra; tourists scream, \u201cRun, it\u2019s a very big cobra\u201d: watch",
+      "link": "https://timesofindia.indiatimes.com/life-style/travel/destinations/giant-snake-falls-on-man-carrying-child-at-amboli-waterfall-in-maharashtra-tourists-scream-run-its-a-very-big-cobra-watch/articleshow/134286358.cms"
     },
     {
-      "title": "Richest Person : \u0c05\u0c26\u0c3e\u0c28\u0c40\u0c28\u0c3f \u0c35\u0c46\u0c28\u0c15\u0c4d\u0c15\u0c3f\u0c28\u0c46\u0c1f\u0c4d\u0c1f\u0c3f\u0c28 \u0c1f\u0c3f\u0c15\u0c4d \u0c1f\u0c3e\u0c15\u0c4d \u0c2b\u0c4c\u0c02\u0c21\u0c30\u0c4d",
-      "link": "https://vaartha.com/national/tiktok-founder-overtakes-adani/778152/"
+      "title": "\u0baa\u0baf\u0bbf\u0bb0\u0bcd\u0b95\u0bcd \u0b95\u0b9f\u0ba9\u0bcd \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8 \u0bb5\u0bb0\u0bc8: \u0ba4\u0bc7\u0bae\u0bc1\u0ba4\u0bbf\u0b95 9 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+      "link": "https://www.hindutamil.in/news/tamilnadu/9-resolutions-passed-at-dmdk-distrcit-secretaies-meet"
     },
     {
-      "title": "India summons Pakistani diplomat after incident in Arabian Sea",
-      "link": "https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea"
+      "title": "The Vvaan: \u0c08 \u0c38\u0c3e\u0c30\u0c3f \u0c24\u0c2e\u0c28\u0c4d\u0c28\u0c3e \u0c39\u0c3f\u0c1f\u0c4d\u0c1f\u0c41 \u0c15\u0c4a\u0c1f\u0c4d\u0c1f\u0c47\u0c1f\u0c4d\u0c1f\u0c41\u0c02\u0c26\u0c3f!",
+      "link": "https://www.chitrajyothy.com/2026/bollywood/tamannaahs-the-vvaan-movie-trailer-released-onava-75446.html"
     },
     {
-      "title": "Saudi Arabia LIVE updates: Houthis say they attacked Saudi's Aramco facilities in Yanbu",
-      "link": "https://www.hindustantimes.com/world-news/saudi-houthi-conflict-attack-live-updates-yemen-rebel-group-drone-mecca-us-travel-advisory-iran-war-jeddah-riyadh-israel-101789526731020.html"
+      "title": "35 \u0930\u0941\u092a\u092f\u0947 \u092e\u0947\u0902 145KM... TVS \u0928\u0947 \u090f\u0915 \u0926\u093f\u0928 \u092e\u0947\u0902 \u092c\u0947\u091a \u0926\u093f\u090f \u0907\u0924\u0928\u0947 \u0907\u0932\u0947\u0915\u094d\u091f\u094d\u0930\u093f\u0915 \u0938\u094d\u0915\u0942\u091f\u0930",
+      "link": "https://www.aajtak.in/visualstories/auto/tvs-iqube-millionr-edition-delivery-price-range-details-auam-285749-16-09-2026"
     },
     {
-      "title": "\u0d38\u0d1e\u0d4d\u0d1c\u0d41 \u0d0e\u0d19\u0d4d\u0d19\u0d28\u0d46 \u0d2c\u0d3e\u0d31\u0d4d\u0d31\u0d4d \u0d1a\u0d46\u0d2f\u0d4d\u0d2f\u0d41\u0d2e\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d28\u0d3f\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d4d \u0d12\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d41\u0d02 \u0d2a\u0d4d\u0d30\u0d24\u0d40\u0d15\u0d4d\u0d37\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d3e\u0d35\u0d3f\u0d32\u0d4d\u0d32; \u0d2a\u0d41\u0d15\u0d34\u0d4d\u0d24\u0d4d\u0d24\u0d3f \u0d38\u0d1e\u0d4d\u0d1c\u0d2f\u0d4d \u0d2e\u0d1e\u0d4d\u0d1c\u0d30\u0d47\u0d15\u0d4d\u0d15\u0d30\u0d4d\u200d",
-      "link": "https://www.doolnews.com/sanjay-manjrekar-praises-sanju-samson-65-141.html"
+      "title": "India could face up to 100% US tariffs over Russian oil",
+      "link": "https://www.dw.com/en/india-news-us-bill-sanctioning-russia-could-hit-india-with-tariffs-of-up-to-100/live-79285577"
     }
   ],
   "twitter": null
