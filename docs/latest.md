@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-16 04:36:03
+# India Trending Report — 2026-09-16 05:02:04
 
 ## Google Trends (India) — top trending searches
-1. [sterlite technologies share price](https://trends.google.com/trending/rss?geo=IN)
-2. [raymond share price](https://trends.google.com/trending/rss?geo=IN)
-3. [sensex today](https://trends.google.com/trending/rss?geo=IN)
-4. [nifty 50](https://trends.google.com/trending/rss?geo=IN)
-5. [yes bank share price](https://trends.google.com/trending/rss?geo=IN)
-6. [kanohar electricals share price](https://trends.google.com/trending/rss?geo=IN)
-7. [solar industries share price](https://trends.google.com/trending/rss?geo=IN)
-8. [manika plastech ipo](https://trends.google.com/trending/rss?geo=IN)
-9. [modi](https://trends.google.com/trending/rss?geo=IN)
-10. [bse](https://trends.google.com/trending/rss?geo=IN)
+1. [prasol chemicals share price](https://trends.google.com/trending/rss?geo=IN)
+2. [हार्दिक पांड्या](https://trends.google.com/trending/rss?geo=IN)
+3. [sterlite technologies share price](https://trends.google.com/trending/rss?geo=IN)
+4. [raymond share price](https://trends.google.com/trending/rss?geo=IN)
+5. [nifty 50](https://trends.google.com/trending/rss?geo=IN)
+6. [sensex](https://trends.google.com/trending/rss?geo=IN)
+7. [play store](https://trends.google.com/trending/rss?geo=IN)
+8. [yes bank share price](https://trends.google.com/trending/rss?geo=IN)
+9. [kanohar electricals share price](https://trends.google.com/trending/rss?geo=IN)
+10. [manika plastech ipo](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [After meeting PM Modi, schoolmate gets land back from BJP MLA](https://timesofindia.indiatimes.com/city/mumbai/after-meeting-modi-schoolmate-gets-land-back-from-bjp-mla/articleshow/134272121.cms)
 - [First-ever attack alert in Mecca sparks panic in Saudi; Muslim groups condemn Houthis](https://timesofindia.indiatimes.com/world/middle-east/first-ever-attack-alert-in-mecca-sparks-panic-in-saudi-muslim-groups-condemn-houthis/articleshow/134277530.cms)
 - [‘Killer bahu left out of will’: What triggered Kanpur pharma trader’s murder plot](https://timesofindia.indiatimes.com/city/kanpur/killer-bahu-left-out-of-will-what-triggered-kanpur-pharma-traders-murder-plot/articleshow/134277247.cms)
+- [Jos Buttler breaks Rohit Sharma's record, becomes second-highest T20I run-scorer](https://timesofindia.indiatimes.com/sports/cricket/news/jos-buttler-breaks-rohit-sharmas-record-becomes-second-highest-t20i-run-scorer/articleshow/134277571.cms)
 - [Video: 3 killed as helicopter crashes while covering bus collision in LA](https://timesofindia.indiatimes.com/world/us/video-horrifying-footage-from-inside-chopper-as-it-goes-down-while-covering-la-bus-crash/articleshow/134277062.cms)
-- [AI as tutor or shortcut: The difference may shape student learning](https://timesofindia.indiatimes.com/technology/tech-news/ai-as-tutor-or-shortcut-the-difference-may-shape-student-learning/articleshow/134263757.cms)
 - [Mark Zuckerberg’s wife Priscilla Chan’s $125 million school to shut after 10 years](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms)
+- [AI as tutor or shortcut: The difference may shape student learning](https://timesofindia.indiatimes.com/technology/tech-news/ai-as-tutor-or-shortcut-the-difference-may-shape-student-learning/articleshow/134263757.cms)
 - [Keralam travel vlogger ‘safe’ in Afghanistan after facing arrest threat](https://timesofindia.indiatimes.com/city/kochi/keralam-travel-vlogger-safe-in-afghanistan-after-facing-arrest-threat/articleshow/134277472.cms)
-- [From uplifting team to calling out Olympiad mess: Srinath is India's man to count on](https://timesofindia.indiatimes.com/sports/chess/from-uplifting-a-heartbroken-team-to-calling-out-hotel-mess-at-chess-olympiad-srinath-is-indias-man-to-count-on/articleshow/134277121.cms)
+- [‘Even KP couldn’t come close’: Stokes makes huge Brook-Pietersen comparison](https://timesofindia.indiatimes.com/sports/cricket/news/even-kp-couldnt-come-close-ben-stokes-makes-huge-harry-brook-kevin-pietersen-comparison/articleshow/134277330.cms)
 - [He ran 5-7 km daily yet needed 2 stents: The health habit he missed](https://timesofindia.indiatimes.com/health/he-ran-5-7-km-daily-and-followed-a-balanced-diet-yet-needed-two-stents-doctor-points-to-the-health-habit-he-missed/articleshow/134260623.cms)
-- [Militants torch 2 houses in Manipur village, trade fire with CRPF](https://timesofindia.indiatimes.com/india/militants-torch-2-houses-in-manipur-village-trade-fire-with-crpf/articleshow/134277946.cms)
 
 **NDTV**
 - [Video Shows Last Moments Of US News Chopper Crashing Near Bus Accident Site](https://www.ndtv.com/world-news/video-shows-last-moments-of-us-news-chopper-crashing-near-bus-accident-site-12052485#publisher=newsstand)
@@ -38,6 +38,7 @@
 - [Case Against 'Drunk' Biker For 'Recklessly' Overtaking Minister's Convoy In Pune](https://www.ndtv.com/india-news/case-against-drunk-biker-for-recklessly-overtaking-ministers-convoy-in-pune-12052284#publisher=newsstand)
 
 **Hindustan Times**
+- [India issues alert against Pakistan-made fairness creams over grave health risks](https://www.hindustantimes.com/india-news/drug-regulator-flags-unauthorised-sale-of-pakistani-whitening-creams-in-india-cdsco-goree-cream-chandni-cream-101789530983342.html)
 - [BJP partners in Uttar Pradesh yet to open cards on Uniform Civil Code](https://www.hindustantimes.com/india-news/bjp-partners-in-uttar-pradesh-yet-to-open-cards-on-uniform-civil-code-101789526971043.html)
 - [Chase insolvency cases with large ‘haircuts’, ED chief tells officers](https://www.hindustantimes.com/india-news/chase-insolvency-cases-with-large-haircuts-ed-chief-tells-officers-101789523641445.html)
 - [HT Morning Brief Sept 16: Who pays UPI charges; Vijay's London event called off and Messi’s last rodeo for Argentina](https://www.hindustantimes.com/india-news/ht-morning-brief-sept-16-who-pays-upi-charges-mdr-oracle-layoff-messi-s-last-game-for-argentina-rapido-saudi-houthis-101789529174205.html)
@@ -47,23 +48,22 @@
 - [Two arrested as Gujarat police bust inter-state bomb threat network](https://www.hindustantimes.com/india-news/two-arrested-as-gujarat-police-bust-inter-state-bomb-threat-network-101789526312105.html)
 - [Andhra raises upper age limit for govt job hiring to 44 years](https://www.hindustantimes.com/india-news/andhra-raises-upper-age-limit-for-govt-job-hiring-to-44-years-101789500746303.html)
 - [Proposed Keralam law aims to upskill elderly care-giving sector: CMO](https://www.hindustantimes.com/india-news/proposed-keralam-law-aims-to-upskill-elderly-care-giving-sector-cmo-101789500686006.html)
-- [CPI(M) meet concludes, no major leadership changes](https://www.hindustantimes.com/india-news/cpim-meet-concludes-no-major-leadership-changes-101789500627032.html)
 
 **Vijay Karnataka**
+- [ಕನಕಪುರದ ಹಾಸ್ಟೆಲ್‌ನಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿಗಳ ಜತೆ ಮುದ್ದೆ-ಬಸ್ಸಾರು ಸವಿದ ಡಿಕೆ ಶಿವಕುಮಾರ್, ಸಾತನೂರು ನಿವೇಶನ ಹಂಚಿಕೆ ಸ್ಥಳ ಪರಿಶೀಲನೆ](https://vijaykarnataka.com/news/ramanagara/dk-shivakumar-enjoys-mudde-bassaru-with-students-at-a-hostel-in-kanakapura-inspects-the-site-for-plot-allocation-in-sathanur/articleshow/134276825.cms)
 - [ಕಾಶ್ಮೀರದಲ್ಲಿ ಮತ್ತೆ ಕಾಶ್ಮೀರಿ ಪಂಡಿತರ ಟಾರ್ಗೆಟ್! ಉಗ್ರರಿಂದ 1990ರ ಭೀಕರ ಹತ್ಯಾಕಾಂಡ ನೆನಪಿಸೋ ಸಂದೇಶ, ಕಾಶ್ಮೀರ ಕಣಿವೆಯಲ್ಲಿ ಏನು ನಡೀತಿದೆ?](https://vijaykarnataka.com/news/india/explainer-lashkar-backed-proxy-groups-threatens-kashmiri-pandits-reviving-the-fear-of-1990-massacre/articleshow/134277353.cms)
 - [KPSC ಹಗರಣ: ಪರಪ್ಪನ ಅಗ್ರಹಾರ ಜೈಲಿನಲ್ಲೇ ಕನ್ನಾಳೆ, ಜ್ಞಾನೇಂದ್ರ ಕುಮಾರ್‌ಗೆ ಇ.ಡಿ ಗ್ರಿಲ್‌! ಹಣ-ಆಸ್ತಿ ಮುಟ್ಟುಗೋಲಿಗೆ ಸಿದ್ಧತೆ](https://vijaykarnataka.com/news/karnataka/kpsc-recruitment-scandal-ed-investigates-basavaraj-kannale-and-jnanendra-kumar-in-parappana-agrahara-jail/articleshow/134276933.cms)
-- [ಬೆಂಗಳೂರು ಮೆಟ್ರೋ ಡಬಲ್‌ ಡೆಕ್ಕರ್‌ಗೆ ಅನುಮತಿ ನಕಾರ? ಅನುಮೋದನೆಗೆ ಕೇಂದ್ರ ಸರಕಾರದ ಮೀನಮೇಷ, 4 ವರ್ಷದಿಂದ ಹೊಸ ಯೋಜನೆಯಿಲ್ಲದೆ ಹಿನ್ನಡೆ](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-metro-double-decker-project-been-denied-the-central-government-is-dragging-setback-to-new-metro-projects-from-four-years/articleshow/134276778.cms)
 - [ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿ ಸಿಂಹಾಸನದ ಮೇಲೆ ಗಣಪ; ಸೀರೆಯಲ್ಲಿ ಸಾನಿಯಾ, ಪಿಂಕ್ ಸೂಟ್‌ನಲ್ಲಿ ಸಾರಾ ಮಿಂಚಿಂಗ್!](https://vijaykarnataka.com/lifestyle/fashion/sara-tendulkar-pink-suit-saniya-chandok-saree-ganesh-chaturthi/articleshow/134277830.cms)
-- [ಪ್ರಲ್ಹಾದ ಜೋಶಿಯವರಿಗೆ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚುಬಾರಿ ಸಿಎಂ ಆಗುವ ’ಯೋಗ’ - ಪ್ರಕಾಶ್ ಅಮ್ಮಣ್ಣಾಯ ಭವಿಷ್ಯ!](https://vijaykarnataka.com/news/udupi/karnataka-bjp-next-cm-astrology-prediction-prakash-ammannaya/articleshow/134276841.cms)
-- [Bigg Boss Contestant Prathama Prasad Interview ಪ್ಲೈಟ್‌ ಪ್ರಯಾಣದ ಅಸಲಿ ಸತ್ಯ ಬಿಚ್ಚಿಟ್ಟ ಸ್ಪರ್ಧಿ!](https://vijaykarnataka.com/video/entertainment/bigg-boss-kannada-13-1st-week-eliminated-contestant-prathama-prasad-interview/videoshow/134277237.cms)
+- [ಬೆಂಗಳೂರು ಮೆಟ್ರೋ ಡಬಲ್‌ ಡೆಕ್ಕರ್‌ಗೆ ಅನುಮತಿ ನಕಾರ? ಅನುಮೋದನೆಗೆ ಕೇಂದ್ರ ಸರಕಾರದ ಮೀನಮೇಷ, 4 ವರ್ಷದಿಂದ ಹೊಸ ಯೋಜನೆಯಿಲ್ಲದೆ ಹಿನ್ನಡೆ](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-metro-double-decker-project-been-denied-the-central-government-is-dragging-setback-to-new-metro-projects-from-four-years/articleshow/134276778.cms)
+- [Bigg Boss Contestant Prathama Prasad Interview ಫ್ಲೈಟ್ ಪ್ರಯಾಣದ ಅಸಲಿ ಸತ್ಯ ಬಿಚ್ಚಿಟ್ಟ ಸ್ಪರ್ಧಿ!](https://vijaykarnataka.com/video/entertainment/bigg-boss-kannada-13-1st-week-eliminated-contestant-prathama-prasad-interview/videoshow/134277237.cms)
 - [ಹೆಚ್ಚು ಗಂಟೆಗಳ ಕೆಲಸ ಹೃದಯಕ್ಕೆ ಅಪಾಯವೇ? ಕೆಲಸದ ಒತ್ತಡದಿಂದ ಹೃದಯಾಘಾತದ ಅಪಾಯ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/health/world-heart-day-2026-long-working-hours-heart-attack-risk/articleshow/134193727.cms)
 - [ವಾರದ ಯಾವ ದಿನ ಯಾವ ಕೆಲಸಗಳನ್ನು ಮಾಡಬಾರದು.? ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/know-what-not-to-do-on-different-day-of-the-week-religious-beliefs/articleshow/134272635.cms)
 - [ಅಂಬಾನಿ ಗಣೇಶೋತ್ಸವದಲ್ಲಿ ಬಾಲಿವುಡ್ ಕಪಲ್ಸ್ ಕಮಾಲ್; ಎಥ್ನಿಕ್ ಲುಕ್‌ನಲ್ಲಿ ಯಾರು ಹೇಗಿದ್ದರು?](https://vijaykarnataka.com/lifestyle/fashion/bollywood-couples-antilias-ganesh-chaturthi-2026-ethnic-looks/articleshow/134261045.cms)
-- [ಹೆಚ್ಚಿನ ಬಾಡಿಗೆ ಆಸೆಗೆ ವೀಸಾ ಮುಗಿದ ವಿದೇಶಿಗರಿಗೆ ಮನೆ ನೀಡೋದು ತಪ್ಪು; ಮನೆ ಮಾಲೀಕರಿಗೆ ಹೈಕೋರ್ಟ್‌ ಎಚ್ಚರಿಕೆ!](https://vijaykarnataka.com/news/karnataka/high-court-warns-landlords-against-renting-out-homes-to-foreigners-even-after-visa-expired/articleshow/134276066.cms)
+- [ಪ್ರಲ್ಹಾದ ಜೋಶಿಯವರಿಗೆ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚುಬಾರಿ ಸಿಎಂ ಆಗುವ ’ಯೋಗ’ - ಪ್ರಕಾಶ್ ಅಮ್ಮಣ್ಣಾಯ ಭವಿಷ್ಯ!](https://vijaykarnataka.com/news/udupi/karnataka-bjp-next-cm-astrology-prediction-prakash-ammannaya/articleshow/134276841.cms)
 
 **The Hindu**
-- [Doctor removed from Namma Clinic after revelation of being full-time PG student in medical college](https://www.thehindu.com/news/national/karnataka/doctor-removed-from-namma-clinic-in-karnataka-after-revelation-of-being-full-time-pg-student-in-medical-college-daughter-of-bagalkot-dho/article71469588.ece)
-- [Messi visit SIT probe: police launch search operations at five locations](https://www.thehindu.com/news/national/kerala/messi-visit-sit-probe-police-launch-search-operations-at-five-locations/article71471028.ece)
+- [MLA’s niece removed from Namma Clinic job after revelation of being full-time PG student in medical college](https://www.thehindu.com/news/national/karnataka/doctor-removed-from-namma-clinic-in-karnataka-after-revelation-of-being-full-time-pg-student-in-medical-college-daughter-of-bagalkot-dho/article71469588.ece)
+- [Messi visit SIT probe: police launch searches at five locations](https://www.thehindu.com/news/national/kerala/messi-visit-sit-probe-police-launch-search-operations-at-five-locations/article71471028.ece)
 - [Police search DMK Minister Anbil Mahesh’s house over alleged multi-crore fraud involving private schools](https://www.thehindu.com/news/cities/Tiruchirapalli/police-search-dmk-minister-anbil-maheshs-house-over-alleged-multi-crore-fraud-involving-private-schools/article71470984.ece)
 - [Innovative pandals add colour to Ganesh pandals across Visakhapatnam](https://www.thehindu.com/news/cities/Visakhapatnam/innovative-pandals-add-colour-to-ganesh-pandals-across-visakhapatnam/article71467928.ece)
 - [How BJP will celebrate Modi’s birthday: Month-long Seva Sankalp Abhiyan from September 17 to mark 25 years of administration](https://www.thehindu.com/news/national/karnataka/bjp-to-take-up-month-long-seva-sankalp-abhiyan-from-sept-17-to-mark-modis-25-years-of-administration/article71469242.ece)
@@ -74,6 +74,8 @@
 - ['Gimmicks': India on Pakistan's fresh announcement on Masood Azhar bounty](https://www.thehindu.com/news/national/gimmicks-india-on-pakistans-fresh-announcement-on-masood-azhar-bounty/article71470890.ece)
 
 **Livemint**
+- [Trump-backed crypto bill Clarity Act blocked by US Senate: What it means for Bitcoin, investors](https://www.livemint.com/news/us-news/trumpbacked-crypto-bill-clarity-act-blocked-by-us-senate-what-it-means-for-bitcoin-investors-11789533888681.html)
+- [Worked through festivals, vacations & hospital stays: Wife shares heartbreaking post on sudden layoff of Oracle veteran](https://www.livemint.com/news/trends/worked-through-festivals-vacations-hospital-stays-wife-shares-heartbreaking-post-on-sudden-layoff-of-oracle-veteran-11789530663197.html)
 - [Anti-defection law explained: Why is it in focus again and what has Kapil Sibal proposed?](https://www.livemint.com/news/india/antidefection-law-explained-why-is-it-in-focus-again-and-what-has-kapil-sibal-proposed-dipke-cjp-das-11789527609515.html)
 - [Helicopter Crash in Los Angeles Kills Three People, Injures One](https://www.livemint.com/news/helicopter-crash-in-los-angeles-kills-three-people-injures-one-11789532157481.html)
 - [Iran war: Photos show widespread damage at US bases across Middle East after missile, drone attacks](https://www.livemint.com/news/us-news/iran-war-photos-show-widespread-damage-at-us-bases-across-middle-east-after-missile-drone-attacks-11789527881090.html)
@@ -82,8 +84,6 @@
 - [100% tariff threat to India: US House advances Russia sanctions bill | What we know](https://www.livemint.com/news/us-news/100-tariff-threat-to-india-us-house-advances-russia-sanctions-bill-what-we-know-11789522442630.html)
 - [Iran War Live Updates: Strait of hormuz ship crossings remain in single digits](https://www.livemint.com/news/us-news/iran-us-war-live-updates-strait-of-hormuz-attack-on-saudi-houthis-oil-price-11789519266661.html)
 - [CM Vijay’s London event cancelled: What happened and why UK police raised concerns?](https://www.livemint.com/news/world/vijays-london-event-cancelled-what-happened-and-why-police-raised-safety-concerns-11789515620767.html)
-- [Himalayan infra projects brace for a climate risk premium](https://www.livemint.com/news/himalayan-infra-climate-risk-insurance-premium-hike-nepal-bot-projects-natural-disaster-glacier-collapse-11789464834632.html)
-- [Ed Sheeran tour controversy: Finneas, Aaron Rowe quit after Macklemore is removed over Free Palestine remarks](https://www.livemint.com/news/trends/ed-sheeran-tour-controversy-finneas-aaron-rowe-quit-after-macklemore-is-removed-over-free-palestine-remarks-11789506757465.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [‘ಪೊಮ್ಮಲರು’ ಎಂಬ ವಿಶಿಷ್ಟ ಸಮುದಾಯ](https://www.varthabharati.in/nimma-ankana/the-unique-community-of-pommalaru-2275479)
 - [ತುಳುವಿಗೆ 2ನೇ ಹೆಚ್ಚುವರಿ ಭಾಷೆಯ ಸ್ಥಾನಮಾನ; ಸರ್ಕಾರ ಗಂಭೀರ ಚಿಂತನೆ: ಸಚಿವ ಶಿವರಾಜ್ ಎಸ್. ತಂಗಡಗಿ](https://www.varthabharati.in/state/government-seriously-considering-granting-tulu-the-status-of-a-second-additional-language-minister-shivaraj-s-tangadagi-2275475)
 - [ಬಾಲಕಾರ್ಮಿಕ ಪದ್ಧತಿ: ಪುನರ್ವಸತಿಯೇ ಸವಾಲು](https://www.varthabharati.in/sampaadakeeya/child-labour-rehabilitation-is-the-challenge-2275473)
 - [ಕರ್ನಾಟಕದ ಇಂಜಿನಿಯರ್‌ ಗಳಿಗೆ ‘Er’ ಗೌರವ; ಹೆಸರಿನ ಮುಂದೆ ಶೀರ್ಷಿಕೆ ಬಳಸಲು ಅವಕಾಶ](https://www.varthabharati.in/state/er-honor-for-karnataka-engineers-permission-to-use-the-title-before-their-names-2275474)
@@ -107,38 +108,37 @@
 - [Saudi Arabia | ಹೌದಿ ದಾಳಿ ಭೀತಿ: ಮಕ್ಕಾದಲ್ಲಿ ಇತಿಹಾಸದಲ್ಲಿ ಮೊದಲ ಬಾರಿಗೆ ವಾಯುದಾಳಿ ಎಚ್ಚರಿಕೆ](https://www.varthabharati.in/international/saudi-arabia-fear-of-houthi-attack-air-raid-warning-issued-in-makkah-for-the-first-time-in-history-2275468)
 - [ಅರಣ್ಯ ಒತ್ತುವರಿ ಎಫ್‌ಐಆರ್ ರದ್ದುಪಡಿಸುತ್ತಾ ಹೋದರೆ, ಒತ್ತುವರಿ ಮುಂದುವರಿಯುತ್ತಲೇ ಇರುತ್ತದೆ : ಹೈಕೋರ್ಟ್](https://www.varthabharati.in/bangalore-city/high-court-2275467)
 - [UPI ಶುಲ್ಕಕ್ಕೆ BharatPe ಮಾಜಿ ಸಿಇಒ ಅಶ್ನೀರ್ ಗ್ರೋವರ್ ವಿರೋಧ](https://www.varthabharati.in/National/any-levy-on-upi-is-just-tax-collection-ashneer-grover-tears-into-upi-charge-debate-2275465)
-- ["ಒಬ್ಬರಿಗೆ ಕೆಲವೇ ದಿನಗಳಲ್ಲಿ ಜಾಮೀನು, ಮತ್ತೊಬ್ಬರು 6 ವರ್ಷಗಳಿಂದ ಕಾಯುತ್ತಿದ್ದಾರೆ" | ಸ್ವತಂತ್ರ ಭಾರದ್ವಾಜ್‌ಗೆ ಮಧ್ಯಂತರ ಜಾಮೀನು ಬೆನ್ನಲ್ಲೇ ದೀಪ್ಕೆ ಆಕ್ರೋಶ](https://www.varthabharati.in/National/one-gets-bail-in-days-another-waits-6-years-dipke-after-swatantra-bhardwaj-gets-interim-bail-2275463)
 
 ## Cross-source trending keywords (derived from headlines above)
+- What (5.2)
 - Emkay Global Financial (5.0)
-- What (3.9)
+- India (4.2)
 - Messi (3.9)
 - September (3.9)
 - ICICI Securities (3.0)
 - target (3.0)
 - Video (2.9)
-- India (2.9)
-- India's (2.6)
 - Updates (2.6)
 - Sept (2.6)
 - Police (2.6)
-- Free Palestine (2.0)
+- Worked (2.6)
+- Wife (2.6)
+- Oracle (2.6)
 - Buy Bajaj Finance (2.0)
-- Iran (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Minecraft 26.3 Update Wilderness Bound is Now Live, Here's What's New](https://beebom.com/minecraft-26-3-wilderness-bound-update-live-now/)
-- [Shiv Sena Hearing : मूळ राजकीय पक्षातच उभी फूट; शिंदे गटाचा सर्वोच्च न्यायालयात जोरदार युक्तीवाद](https://www.dainikprabhat.com/shiv-sena-supreme-court-hearing-shinde-faction-argument-neeraj-kaul)
-- [HYBE Girl Group Members Face Scrutiny Over Public Support For Rapper Macklemore](https://www.koreaboo.com/news/hybe-girl-group-members-face-scrutiny-public-support-rapper-macklemore/)
-- [UPI પર ₹2,001 નું પેમેન્ટ કરતાં કેટલો ચાર્જ લાગશે? ગ્રાહકે ચૂકવવા પડશે કે વેપારીએ, જાણો વિગતે](https://gujarati.abplive.com/news/business/upi-transaction-charges-above-2000-rupees-mdr-fee-calculation-news-991283)
-- [सुप्रीम कोर्ट के 'बैलेट' फैसले से ट्रंप नाराज, अपने ही जजों पर भड़के; खूब सुनाया](https://www.livehindustan.com/international/donald-trump-furious-over-supreme-courts-ballot-ruling-lashes-out-on-judges-201789488675408.html)
-- [ആലുവയിൽ പ്രവാസി യുവാവിനെ ആക്രമിച്ച് പണം കവർന്ന സംഭവം: മൂന്നുപേർ പിടിയിൽ](https://www.manoramaonline.com/news/latest-news/2026/09/15/three-suspects-arrested-in-aluva-robbery-case.html)
-- [കോപ്പിയടി വിവാദം; ചിന്താ ജെറോമിന്റെ പിഎച്ച്.ഡി. പരിശോധിക്കാൻ പ്രത്യേക സമിതി](https://www.mathrubhumi.com/news/kerala/kerala-university-probe-chintha-jerome-phd-thesis-ldn5ojse)
-- [Sofia Hayat on Rohit Sharma : रोहित शर्माला डेट केलं, पण... अभिनेत्रीने बेडरूम सीक्रेट सांगत केले बोल्ड वक्तव्य; क्रिकेटविश्वात खळबळ, नेमकं काय म्हणाली?](https://marathi.abplive.com/sports/cricket/sofia-hayat-opens-up-on-dating-rohit-sharma-in-2012-makes-shocking-claims-marathi-news-1439219)
-- ['തോക്കിൻമുനയിൽ ഇരിക്കുന്ന മഞ്ജു വാര്യരെ കണ്ട് അമ്മ ഞെട്ടി..'; കുറിപ്പ് പങ്കുവച്ച് മധു വാര്യർ](https://www.asianetnews.com/entertainment-news/madhu-warrier-shares-a-note-about-his-sister-manju-warrier-articleshow-lgqghd6)
-- [వాళ్లు వస్తున్నా వెనక్కి తగ్గేది లేదంటున్న షారుక్‌..](https://www.eenadu.net/telugu-news/movies/shah-rukh-khan-confirms-king-release-date/0201/126166686)
+- [$33.4bn war cost, $22.3bn on munitions: What US lost in 6 months of Iran war](https://timesofindia.indiatimes.com/defence/international/33-4bn-war-cost-22-3bn-on-munitions-what-us-lost-in-6-months-of-iran-war/articleshow/134268852.cms)
+- [24 घंटे में US के तीन ड्रोन को ईरान ने होर्मुज में डुबोया, IRGC का दावा](https://www.abplive.com/news/world/iran-irgc-claims-to-shot-down-three-us-mq1-drones-over-strategic-waterways-strait-of-hormuz-3189416)
+- [വിമർശകർ കണ്ടോളൂ, കത്തിക്കയറി സഞ്ജു സാംസൺ; 22 പന്തിൽ അടിച്ചെടുത്തത് 57 റൺസ്](https://www.mathrubhumi.com/sports/cricket/sanju-samson-57-runs-vs-afghanistan-t20-i8xyiyzh)
+- [India's UPI ends free era with fee on large merchant payments](https://www.reuters.com/world/india/india-payments-authority-sets-04-fee-upi-merchant-payments-above-2000-rupees-2026-09-15/)
+- [Ambani Ganesh Utsav: એન્ટિલિયામાં ગણેશ ઉત્સવનો ભક્તિમય માહોલ](https://www.gujaratfirst.com/gujarat/ambani-ganesh-utsav-antilia-acharya-kailashanand-gujarat-first-digital/339359/)
+- [സൗദിയിലെ തെക്കൻ മേഖലകളിലെ അടിയന്തര മുന്നറിയിപ്പുകൾ പിൻവലിച്ചു](https://www.mathrubhumi.com/pravasi/saudi-arabia/saudi-civil-defense-lifts-emergency-warnings-southern-regions-vkxah8cg)
+- [அமெரிக்காவில் 134 ஆண்டுக்கு பிறகும் பீதி தரும் லிஸ்ஸி போர்டனின் பெற்றோர் வழக்கில் நீடிக்கும் மர்மம்](https://www.bbc.com/tamil/articles/ckj06nr7dm35o)
+- [Shiv Sena: 'खरी शिवसेना' ठरवण्याचा अधिकार आयोगालाच; सुप्रीम कोर्टात शिंदे गटाचा जोरदार युक्तिवाद](https://marathi.asianetnews.com/maharashtra/shinde-faction-argues-in-supreme-court-ec-has-full-power-to-decide-real-shiv-sena/articleshow-hrvb6dg)
+- [വ്യാപക തെറ്റുകളെന്ന് പരാതി; ചിന്താ ജെറോമിന്റെ പിഎച്ച്ഡി പ്രബന്ധം പരിശോധിക്കാൻ പ്രത്യേക സമിതിയുമായി കേരള സർവകലാശാല](https://www.manoramaonline.com/news/latest-news/2026/09/15/kerala-university-forms-committee-to-probe-chinta-jerome-phd-thesis.html)
+- [IND VS AFG: फ्लॉप शो के बाद संजू सैमसन की तूफानी वापसी, फिर भी टीम में जगह पर क्यों लटकी है तलवार?](https://www.aajtak.in/sports/cricket/story/india-vs-afghanistan-2nd-t20-sanju-samson-out-for-22-ball-57-runs-aksp-dskc-2643444-2026-09-15)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
