@@ -1,21 +1,21 @@
-# India Trending Report — 2026-09-16 21:01:53
+# India Trending Report — 2026-09-16 21:35:38
 
 ## Google Trends (India) — top trending searches
-1. [raphinha](https://trends.google.com/trending/rss?geo=IN)
-2. [samsung one ui 9](https://trends.google.com/trending/rss?geo=IN)
-3. [joan garcía](https://trends.google.com/trending/rss?geo=IN)
-4. [barca](https://trends.google.com/trending/rss?geo=IN)
-5. [apple iphone 17](https://trends.google.com/trending/rss?geo=IN)
-6. [maguette gueye](https://trends.google.com/trending/rss?geo=IN)
-7. [fcb](https://trends.google.com/trending/rss?geo=IN)
-8. [shea lacey](https://trends.google.com/trending/rss?geo=IN)
-9. [atlético madrid vs osasuna standings](https://trends.google.com/trending/rss?geo=IN)
-10. [reacher season 5](https://trends.google.com/trending/rss?geo=IN)
+1. [atlético mineiro vs santos](https://trends.google.com/trending/rss?geo=IN)
+2. [gerard martín](https://trends.google.com/trending/rss?geo=IN)
+3. [cryptocurrency trading](https://trends.google.com/trending/rss?geo=IN)
+4. [barca today match](https://trends.google.com/trending/rss?geo=IN)
+5. [laliga stats](https://trends.google.com/trending/rss?geo=IN)
+6. [raphinha](https://trends.google.com/trending/rss?geo=IN)
+7. [joan garcía](https://trends.google.com/trending/rss?geo=IN)
+8. [samsung one ui 9](https://trends.google.com/trending/rss?geo=IN)
+9. [fed meeting interest rates](https://trends.google.com/trending/rss?geo=IN)
+10. [apple iphone 17](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Curtain falls on US-India cultural bridge as Kennedy Center shutters](https://timesofindia.indiatimes.com/weather/us/sitar-sarod-and-shutdown-curtain-falls-on-a-us-india-cultural-bridge-as-kennedy-center-shutters/articleshow/134291523.cms)
-- ['Inflation too high for too long': US Fed hikes interest rates for first time since 2023](https://timesofindia.indiatimes.com/business/international-business/us-federal-reserve-chair-kevin-warsh-led-fomc-hikes-interest-rate-to-3-75-4-range-first-time-since-2023/articleshow/134292267.cms)
+- [‘We’re the best credit’: Trump fumes after 1st Fed rate hike in over 3 yrs](https://timesofindia.indiatimes.com/business/international-business/were-the-best-credit-trump-calls-for-lower-us-interest-rates-after-first-fed-hike-in-3-years/articleshow/134296503.cms)
 - [Govt lowers export levies on petrol, diesel and aviation turbine fuel](https://timesofindia.indiatimes.com/business/india-business/govt-lowers-export-levies-on-petrol-diesel-and-aviation-turbine-fuel-amid-fortnightly-review/articleshow/134296226.cms)
 - [Saudi in need, friend Pak missing in 'deed': Islamabad faces ultimate Mecca pact test](https://timesofindia.indiatimes.com/world/middle-east/saudi-in-need-friend-pakistan-missing-in-deed-islamabad-faces-mecca-pact-test-with-iran-looming/articleshow/134288519.cms)
 - [From Mecca's red line to the 'Gate of Tears': How US-Iran war is closing in on MBS](https://timesofindia.indiatimes.com/world/middle-east/mecca-red-line-gate-of-tears-saudi-crown-prince-mbs-houthis-iran-us-war/articleshow/134284212.cms)
@@ -62,6 +62,7 @@
 - [ಕರ್ನಾಟಕದ 768 ಪೆಟ್ರೋಲ್‌ ಬಂಕ್‌ಗಳಲ್ಲಿ ಅಳತೆ ವಂಚನೆ ಪತ್ತೆ: ಅನುಮಾನ ಬಂದಲ್ಲಿ ಗ್ರಾಹಕರು ಮಾಡಬೇಕಾದ್ದೇನು?](https://vijaykarnataka.com/news/karnataka/measurement-fraud-detected-at-768-petrol-bunks-in-karnataka-what-should-customers-do/articleshow/134292790.cms)
 
 **The Hindu**
+- [Govt. cuts windfall tax on export of petrol, diesel and ATF](https://www.thehindu.com/business/govt-cuts-windfall-tax-on-export-of-petrol-diesel-and-atf/article71474189.ece)
 - [Rajasthan urban local body elections: Candidates for mayors, chairpersons file nominations](https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-elections-candidates-for-mayors-chairpersons-file-nominations/article71474170.ece)
 - [Former TNCC president Selvaperunthagai and Rajya Sabha member Praveen Chakravarty trade barbs](https://www.thehindu.com/news/national/tamil-nadu/former-tncc-president-selvaperunthagai-and-rajya-sabha-member-praveen-chakravarty-trade-barbs/article71472663.ece)
 - [CJP to launch ‘Adivasi School Thik Karo’ campaign from Gadchiroli on Sept. 17: Dipke](https://www.thehindu.com/news/national/maharashtra/cjp-to-launch-adivasi-school-thik-karo-campaign-from-gadchiroli-on-sept-17-dipke/article71471862.ece)
@@ -71,10 +72,9 @@
 - [NEET-UG protests: Supreme Court refuses change in High-Powered Enquiry Committee, says inquiry on pellet guns, excesses must come first](https://www.thehindu.com/news/national/neet-ug-protests-sc-refuses-change-in-hpec-says-enquiry-on-pellet-guns-excesses-must-come-first/article71471162.ece)
 - [Allahabad HC frees man confined after conversion, relationship with Muslim woman; cites Articles 21, 25](https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-frees-man-confinedafter-conversion-relationship-with-muslim-woman-cites-articles-21-25/article71472875.ece)
 - [Assam’s Lok Sabha bypoll could define contours of Opposition politics in the State](https://www.thehindu.com/news/national/assam/assams-lok-sabha-bypoll-could-define-contours-of-opposition-politics-in-the-state/article71474142.ece)
-- [J&K CM Omar Abdullah backs Centre on UPI charges](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cm-omar-abdullah-backs-centre-on-upi-charges/article71474141.ece)
 
 **Livemint**
-- [Melania Trump has one big message for students as AI debate intensifies](https://www.livemint.com/news/us-news/melania-trump-has-one-big-message-for-students-as-ai-debate-intensifies-11789587765258.html)
+- [JD Vance says Iran war will enter ‘much different phase’ in coming months](https://www.livemint.com/news/us-news/jd-vance-says-iran-war-will-enter-much-different-phase-in-coming-months-11789588664007.html)
 - [Charlie Kirk assassination: The security failures alleged by his family, explained](https://www.livemint.com/news/us-news/charlie-kirk-assassination-the-security-failures-alleged-by-his-family-explained-11789586732363.html)
 - [US Indictment Exposes Russian Global Assassination Network](https://www.livemint.com/news/us-news/us-indictment-exposes-russian-global-assassination-network-11789584108922.html)
 - [Gen Z learns about money from Instagram, YouTube: Entrepreneur asks banks to learn how to communicate with young people](https://www.livemint.com/news/trends/gen-z-learns-about-money-from-instagram-youtube-entrepreneur-asks-banks-to-learn-how-to-communicate-with-young-people-11789582382287.html)
@@ -100,35 +100,35 @@
 - [Uttar Pradesh | ‘ಸ್ವಯಿಚ್ಛೆಯಿಂದ ಇಸ್ಲಾಂ ಸ್ವೀಕಾರ’: ಆಯುಷ್ ಮಲಿಕ್ ರನ್ನು ಗೃಹಬಂಧನದಿಂದ ಬಿಡುಗಡೆಗೊಳಿಸಿದ ಅಲಹಾಬಾದ್ ಹೈಕೋರ್ಟ್](https://www.varthabharati.in/vishesha-varadigalu/he-voluntarily-embraced-islam-allahabad-high-court-frees-ayush-malik-from-home-confinement-2275721)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Trump (3.9)
+- Govt (3.9)
 - Supreme Court (3.0)
-- Trump (2.9)
-- Govt (2.6)
 - Indian (2.6)
 - India (2.6)
 - Odisha (2.6)
-- Centre (2.6)
 - Saudi (1.6)
 - Modi (1.6)
 - Pakistan (1.6)
 - Nadu (1.6)
 - Curtain (1.3)
 - US-India (1.3)
-- Inflation (1.3)
 - Islamabad (1.3)
+- Mecca (1.3)
+- Gate (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [આવતીકાલથી સૂર્યની બદલાશે ચાલ, 3 રાશિના જાતકો પર આવશે મોટી આફત!](https://www.gujaratsamachar.com/news/astro/Sun-Transit-in-Virgo-2026-3-Zodiac-Signs-Face-Challenges-40063618142)
-- [11 foods rich in vitamin B12 for energy and brain health](https://vogueadria.com/vitamin-b12-sources/)
-- [India's rank on Global Gender Gap Index is 131; Iceland retains top spot](https://m.rediff.com/news/commentary/2026/sep/16/indias-rank-on-global-gender-gap-index-is-131-iceland-retains-top-spot/7939fa80ed4c3e758b746dff16281bd7)
-- [சூடானில் தங்கச்சுரங்கம் சரிந்து விழுந்தது; 60 பேர் பலி](https://www.dinamalar.com/news/world-tamil-news/60-killed-in-sudan-gold-mine-collapse/4324159)
-- [PAK में 'लॉकडाउन' की आहट, पेट्रोल ₹384 तो डीजल ₹415 के पार... जानिए क्यों बिगड़े हालात](https://www.aajtak.in/business/news/story/pakistan-fuel-price-hike-smart-lockdown-market-hours-restriction-petrol-diesel-caping-dpmx-smsr-2643796-2026-09-16)
-- [Lucknow horror: Woman hit by car, dragged on bonnet after dispute near Janeshwar Mishra Park](https://timesofindia.indiatimes.com/city/lucknow/lucknow-horror-woman-hit-by-car-dragged-on-bonnet-after-dispute-near-janeshwar-mishra-park/articleshow/134283150.cms)
-- [Supreme Court Orders Status Quo On Sridevi's Chennai Property, Issues Notice To Boney Kapoor, Janhvi & Kushi On Rival Claim](https://www.livelaw.in/top-stories/supreme-court-orders-status-quo-on-sridevis-chennai-property-issues-notice-to-boney-kapoor-janhvi-kushi-on-rival-claim-550277)
-- [गुरुग्राम हिट-एंड-रन केस: कल्याण बैंसला और लवनीश को दो दिन की रिमांड, 18 सितंबर को अगली सुनवाई](https://www.aajtak.in/crime/news/story/gurugram-hit-and-run-case-kalyan-bainsla-lavneesh-two-day-remand-pvzs-dskc-2643823-2026-09-16)
-- [India Pakistan Navy Ship Collision: भारत आणि पाकिस्तानच्या युद्धनौका अरबी समुद्रात एकमेकांना धडकल्या, दिल्लीत तातडीने मोठ्या हालचाली](https://marathi.abplive.com/news/world/warships-belonging-to-india-and-pakistan-actually-collided-in-the-arabian-sea-urgent-high-level-activity-is-underway-in-delhi-1439281)
-- [മഞ്ജു വാര്യർ ‘തടവിൽ’; സനൽകുമാറിനെ പരിഹസിച്ച് മധു വാര്യർ, ‘ഇനി രണ്ട് ദിവസം അമ്മയും തോക്കിൻമുനയിൽ’](https://timeskerala.com/entertainment/madhu-wariar-trolls-sanal-kumar-sasidharan/)
+- [43 ലി. ഇറക്കുമതിചെയ്ത വിദേശമദ്യം 22 ലി. വൈൻ; ആന്റോയ്ക്കെതിരേ കേസെടുത്ത് എക്സൈസ്, ജാമ്യമില്ലാ വകുപ്പ്](https://www.mathrubhumi.com/news/kerala/anto-augustine-family-house-foreign-liquor-seized-excise-case-o2toru9u)
+- [Accident : नाशिकवरून देवदर्शन करून परतताना काळाचा घाला; मुंबईच्या ४ जणांचा मृत्यू, वाहनाचा चेंदामेंदा, ६ गंभीर जखमी](https://saamtv.esakal.com/mumbai-pune/mumbai-nashik-highway-accident-death-toll-four-killed-including-two-children-dead-six-seriously-injured-near-shahapur-thane-news-nck90)
+- [Video: Lucknow man hits girlfriend with car after fight, drags her on bonnet; arrested](https://www.indiatoday.in/cities/lucknow/story/lucknow-man-hits-lover-with-car-drags-her-on-bonnet-then-runs-her-over-2995817-2026-09-16)
+- [யுபிஐ பரிவர்த்தனைக் கட்டணம் நுகர்வோரை பாதிக்குமா? விலைவாசி கவலை எழுவது ஏன்?](https://www.bbc.com/tamil/articles/cm780vx526n3o)
+- [कल का मौसम 17 सितंबर: 15 घंटे के भीतर 20 राज्यों में मूसलाधार बारिश का अलर्ट, 80 की स्पीड से हवा; IMD का अपडेट](https://navbharattimes.indiatimes.com/india/tomorrow-weather-17-september-2026-thunderstorm-and-heavy-rain-alert-in-20-states-within-14-hours-wind-speed-up-to-80-kmph-delhi-up-bihar-temperature/articleshow/134283733.cms)
+- [ईरान पर हमले की अमेरिका ने अब तक क्या 'क़ीमत' चुकाई है? इस रिपोर्ट से चला पता](https://www.bbc.com/hindi/articles/cmx2zww4z9x0o)
+- [Endometriosis and insulin resistance: What current research says](https://indianexpress.com/article/lifestyle/health/endometriosis-insulin-resistance-blood-sugar-metabolic-health-10820751/)
+- [Weather Update: বিশ্বকর্মা পুজো পেরোলেই ফের নিম্নচাপ? হতে পারে ঘূর্ণিঝড়ও? আবহাওয়ার বড় পূর্বাভাস](https://bengali.abplive.com/district/west-bengal-weather-update-cyclonic-circulation-depression-may-form-around-viswakarma-puja-1193045)
+- [ఆసియా కుబేరుల్లో అదానీకి షాక్.. అగ్రస్థానానికి ఎగబాకిన టిక్‌టాక్ ఫౌండర్](https://www.ap7am.com/tn/880275/shock-to-adani-among-asia-richest-as-tiktok-founder-climbs-to-top-spot)
+- [‘തിരുവനന്തപുരം മൃഗശാല ഉചിതമായ സ്ഥലത്തല്ല; മൃഗങ്ങളോടുള്ള ക്രൂരത: വനപ്രദേശത്തേക്ക് മാറ്റണം’](https://www.manoramaonline.com/news/latest-news/2026/09/16/chief-minister-vd-satheesan-proposes-transforming-zoo-site-to-area-near-forest.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
