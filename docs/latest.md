@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-16 20:35:21
+# India Trending Report — 2026-09-16 21:01:53
 
 ## Google Trends (India) — top trending searches
-1. [samsung one ui 9](https://trends.google.com/trending/rss?geo=IN)
-2. [joan garcía](https://trends.google.com/trending/rss?geo=IN)
-3. [apple iphone 17](https://trends.google.com/trending/rss?geo=IN)
-4. [atlético madrid vs osasuna standings](https://trends.google.com/trending/rss?geo=IN)
-5. [reacher season 5](https://trends.google.com/trending/rss?geo=IN)
-6. [fc barcelona vs racing santander lineups](https://trends.google.com/trending/rss?geo=IN)
-7. [ac milan](https://trends.google.com/trending/rss?geo=IN)
-8. [man united](https://trends.google.com/trending/rss?geo=IN)
-9. [bank merger news](https://trends.google.com/trending/rss?geo=IN)
-10. [8th pay commission](https://trends.google.com/trending/rss?geo=IN)
+1. [raphinha](https://trends.google.com/trending/rss?geo=IN)
+2. [samsung one ui 9](https://trends.google.com/trending/rss?geo=IN)
+3. [joan garcía](https://trends.google.com/trending/rss?geo=IN)
+4. [barca](https://trends.google.com/trending/rss?geo=IN)
+5. [apple iphone 17](https://trends.google.com/trending/rss?geo=IN)
+6. [maguette gueye](https://trends.google.com/trending/rss?geo=IN)
+7. [fcb](https://trends.google.com/trending/rss?geo=IN)
+8. [shea lacey](https://trends.google.com/trending/rss?geo=IN)
+9. [atlético madrid vs osasuna standings](https://trends.google.com/trending/rss?geo=IN)
+10. [reacher season 5](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -26,6 +26,9 @@
 - [Anonymous donor gives Cincinnati $1.8 million to restore 228 acres of forest](https://timesofindia.indiatimes.com/world/us/an-anonymous-donor-gave-cincinnati-1-8-million-to-restore-228-acres-of-forest-the-5-year-project-is-the-citys-biggest-park-reforestation-effort-in-nearly-100-years/articleshow/134283772.cms)
 
 **NDTV**
+- [Punjab Ambedkar Statue Row: BJP's Vijay Sampla Injured In Clash With BSP Workers](https://www.ndtv.com/india-news/punjab-ambedkar-statue-row-bjp-leader-vijay-sampla-injured-in-clash-with-bsp-workers-12056830#publisher=newsstand)
+- [Saudi Seeks Help From France, Britain, Pakistan To Fight Houthis](https://www.ndtv.com/world-news/saudis-seek-allies-help-as-missile-defenses-run-low-in-fight-with-houthis-officials-say-12056629#publisher=newsstand)
+- [17-Year-Old Girl Raped In Chhattisgarh, 4 Men Arrested: Cops](https://www.ndtv.com/india-news/four-men-held-for-raping-17-year-old-girl-in-chhattisgarhs-kanker-district-12056553#publisher=newsstand)
 - [On Risk From Superintelligence, Top AI Expert's Chimpanzee-Nukes Analogy](https://www.ndtv.com/world-news/stuart-russell-dario-amodei-ai-slowdown-ai-risks-on-risk-from-superintelligence-top-ai-experts-chimpanzee-nukes-analogy-12056663#publisher=newsstand)
 - [2 Dead In 2 Days During Clashes Over Ganesh Chaturthi Procession In Tamil Nadu](https://www.ndtv.com/india-news/2-dead-in-2-days-during-clashes-over-ganesh-chaturthi-procession-in-tamil-nadu-12056664#publisher=newsstand)
 - [Exclusive: After Survey Flags 2,800% Pharma Profit, Tukaram Mundhe Calls For Transparency](https://www.ndtv.com/india-news/exclusive-after-survey-flags-2-800-pharma-profit-tukaram-mundhe-calls-for-transparency-12056638#publisher=newsstand)
@@ -33,9 +36,6 @@
 - [In 2025, J&K Saw No Stone-Throwing Incidents, Only 1 Terrorist Recruited](https://www.ndtv.com/india-news/in-2025-j-k-saw-no-stone-throwing-incidents-only-1-terrorist-recruited-12056616#publisher=newsstand)
 - [6 Minors Drown In Lake Near Hyderabad During Ganesh Idol Immersion](https://www.ndtv.com/india-news/6-minors-drown-in-lake-near-hyderabad-during-ganesh-idol-immersion-12056615#publisher=newsstand)
 - ["We Are Very Liberal": Supreme Court On Bail Cases Involving Marijuana](https://www.ndtv.com/india-news/we-are-very-liberal-supreme-court-on-bail-cases-involving-marijuana-12056610#publisher=newsstand)
-- [Centre Asks Ola, Uber, Rapido To Do Away With Advance Tipping Option](https://www.ndtv.com/india-news/centre-asks-ola-uber-rapido-to-do-away-with-advance-tipping-option-12056602#publisher=newsstand)
-- [Revanth Reddy Orders Probe Into Farmhouse Linked To KCR, His Party Hits Back](https://www.ndtv.com/india-news/revanth-reddy-orders-probe-into-farmhouse-linked-to-kcr-his-party-hits-back-12056588#publisher=newsstand)
-- [Will Fake Paneer Sale Be Banned Across India? Food Body Chief Explains](https://www.ndtv.com/india-news/will-fake-paneer-sale-be-banned-across-india-food-body-chief-explains-12056576#publisher=newsstand)
 
 **Hindustan Times**
 - [25 years of Modi: The making of a political force](https://www.hindustantimes.com/india-news/25-years-of-modi-the-making-of-a-political-force-101789583959262.html)
@@ -62,16 +62,16 @@
 - [ಕರ್ನಾಟಕದ 768 ಪೆಟ್ರೋಲ್‌ ಬಂಕ್‌ಗಳಲ್ಲಿ ಅಳತೆ ವಂಚನೆ ಪತ್ತೆ: ಅನುಮಾನ ಬಂದಲ್ಲಿ ಗ್ರಾಹಕರು ಮಾಡಬೇಕಾದ್ದೇನು?](https://vijaykarnataka.com/news/karnataka/measurement-fraud-detected-at-768-petrol-bunks-in-karnataka-what-should-customers-do/articleshow/134292790.cms)
 
 **The Hindu**
+- [Rajasthan urban local body elections: Candidates for mayors, chairpersons file nominations](https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-elections-candidates-for-mayors-chairpersons-file-nominations/article71474170.ece)
+- [Former TNCC president Selvaperunthagai and Rajya Sabha member Praveen Chakravarty trade barbs](https://www.thehindu.com/news/national/tamil-nadu/former-tncc-president-selvaperunthagai-and-rajya-sabha-member-praveen-chakravarty-trade-barbs/article71472663.ece)
+- [CJP to launch ‘Adivasi School Thik Karo’ campaign from Gadchiroli on Sept. 17: Dipke](https://www.thehindu.com/news/national/maharashtra/cjp-to-launch-adivasi-school-thik-karo-campaign-from-gadchiroli-on-sept-17-dipke/article71471862.ece)
+- [Lack of cleanliness and hygiene keep exporters away from Kasimedu fishing harbour](https://www.thehindu.com/news/cities/chennai/lack-of-cleanliness-and-hygiene-keep-exporters-away-from-kasimedu-fishing-harbour/article71473991.ece)
+- [Falsely quoting judges in barred online court clips is criminal conduct, says Supreme Court](https://www.thehindu.com/news/national/supreme-court-says-falsely-quoting-judges-in-barred-online-court-clips-crosses-over-from-contempt-to-crime/article71471708.ece)
+- [Death penalty for all 10 convicts in 2013 Jhiram Valley Maoist attack case](https://www.thehindu.com/news/national/chhattisgarh/death-penalty-for-all-10-convicts-in-2013-jhiram-valley-maoist-attack-case/article71472537.ece)
 - [NEET-UG protests: Supreme Court refuses change in High-Powered Enquiry Committee, says inquiry on pellet guns, excesses must come first](https://www.thehindu.com/news/national/neet-ug-protests-sc-refuses-change-in-hpec-says-enquiry-on-pellet-guns-excesses-must-come-first/article71471162.ece)
 - [Allahabad HC frees man confined after conversion, relationship with Muslim woman; cites Articles 21, 25](https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-frees-man-confinedafter-conversion-relationship-with-muslim-woman-cites-articles-21-25/article71472875.ece)
 - [Assam’s Lok Sabha bypoll could define contours of Opposition politics in the State](https://www.thehindu.com/news/national/assam/assams-lok-sabha-bypoll-could-define-contours-of-opposition-politics-in-the-state/article71474142.ece)
-- [Maharashtra farmers hold protests, seek drought aid; doing everything possible, won’t let them suffer: CM](https://www.thehindu.com/news/national/maharashtra/maharashtra-farmers-hold-protests-seek-drought-aid-doing-everything-possible-wont-let-them-suffer-cm/article71472766.ece)
-- [Man shoots dead teacher in Bijnor for ‘encouraging love jihad’](https://www.thehindu.com/news/national/uttar-pradesh/man-shoots-dead-teacher-in-bijnor-for-encouraging-love-jihad/article71473689.ece)
-- [Election Commission of India not responding to concerns of Opposition: Venugopal](https://www.thehindu.com/news/national/karnataka/election-commission-of-india-not-responding-to-concerns-of-opposition-venugopal/article71473026.ece)
-- [Hog in the limelight: On Assam’s pygmy hog programme](https://www.thehindu.com/opinion/editorial/hog-in-the-limelight-on-assams-pygmy-hog-programme/article71472854.ece)
-- [India exports around 500 tonnes of Hilsa fish to Bangladesh in two months](https://www.thehindu.com/news/national/west-bengal/india-exports-around-500-tonnes-of-hilsa-fish-to-bangladesh-in-two-months/article71473254.ece)
-- [Uttar Pradesh ATS arrests Tamil Nadu youth for allegedly planning terror activities](https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-ats-arrests-tamil-nadu-youth-for-allegedly-planning-terror-activities/article71474054.ece)
-- [Seminar on world peace to be held on September 20](https://www.thehindu.com/news/national/andhra-pradesh/seminar-on-world-peace-to-be-held-on-september-20/article71473676.ece)
+- [J&K CM Omar Abdullah backs Centre on UPI charges](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cm-omar-abdullah-backs-centre-on-upi-charges/article71474141.ece)
 
 **Livemint**
 - [Melania Trump has one big message for students as AI debate intensifies](https://www.livemint.com/news/us-news/melania-trump-has-one-big-message-for-students-as-ai-debate-intensifies-11789587765258.html)
@@ -100,35 +100,35 @@
 - [Uttar Pradesh | ‘ಸ್ವಯಿಚ್ಛೆಯಿಂದ ಇಸ್ಲಾಂ ಸ್ವೀಕಾರ’: ಆಯುಷ್ ಮಲಿಕ್ ರನ್ನು ಗೃಹಬಂಧನದಿಂದ ಬಿಡುಗಡೆಗೊಳಿಸಿದ ಅಲಹಾಬಾದ್ ಹೈಕೋರ್ಟ್](https://www.varthabharati.in/vishesha-varadigalu/he-voluntarily-embraced-islam-allahabad-high-court-frees-ayush-malik-from-home-confinement-2275721)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (5.5)
+- Supreme Court (3.0)
 - Trump (2.9)
 - Govt (2.6)
 - Indian (2.6)
+- India (2.6)
 - Odisha (2.6)
-- Opposition (2.6)
-- Tamil Nadu (2.0)
-- Supreme Court (2.0)
-- Nadu (1.9)
+- Centre (2.6)
+- Saudi (1.6)
 - Modi (1.6)
-- Centre (1.6)
-- Assam (1.6)
-- September (1.6)
+- Pakistan (1.6)
+- Nadu (1.6)
 - Curtain (1.3)
 - US-India (1.3)
+- Inflation (1.3)
+- Islamabad (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Sanjeev Sonawane Death Latur Crime News: I am a good fool...; संजीव सोनवणे यांनी जीवन संपवण्याआधी काय लिहिलं?, पत्रातील मजकूर समोर, उलटसुलट चर्चेला उधाण](https://marathi.abplive.com/crime/i-am-a-good-fool-what-did-sanjeev-sonawane-write-letter-before-ending-his-life-latur-crime-marathi-news-1439283)
-- [Asian Games 2026: माशी शिंकली! भारतीय संघाला मोठा धक्का, प्रमुख खेळाडूची माघार; IND vs AFG सामन्यात ४ षटकं फेकली अन्...](https://www.esakal.com/krida/cricket/asian-games-2026-big-blow-for-team-india-varun-chakravarthy-ruled-out-due-to-injury-svg87)
-- [வங்கதேசத்தினர் 5 ஆயிரம் பேர் விசாக்களை ரத்து செய்தது யுஏஇ](https://www.dinamalar.com/news/world-tamil-news/uae-cancels-visas-of-4800-bangladeshis-over-security-concerns-leaving-expatriates-fearing-loss-of-livelihoods/4324153)
-- [ഇന്ത്യൻ നാവിക സേനയുടെ കപ്പലിൽ പാക് കപ്പലിടിച്ചു; പാക് പ്രതിനിധിയെ വിളിച്ച് വരുത്തി എതിര്‍പ്പ് അറിയിച്ച് ഇന്ത്യ](https://www.asianetnews.com/india-news/pakistani-ship-collides-with-indian-navy-vessel-india-summons-pakistani-representative-articleshow-6uiiiyn)
-- [ഈ വായ്പയ്ക്ക് 35% സബ്സിഡി; വേഗം കിട്ടും, തിരിച്ചടയ്ക്കാം ‘കുറഞ്ഞ’ തുക - PMFME scheme subsidy ​| PMFME Loan](https://www.manoramaonline.com/business/personal-finance/2026/09/16/pmfme-scheme-35-percent-subsidy-10-lakh-3-crore-food-processing-kerala.html)
-- [श्रीदेवी की संपत्ति को लेकर विवाद, SC ने मध्यस्थता से समाधान का दिया सुझाव](https://www.abplive.com/news/india/sridevi-assets-dispute-supreme-court-suggests-resolution-through-mediation-ann-3189666)
-- [Hanuman Ansh Box Office Collection : બોક્સ ઓફિસ પર ‘હનુમાન અંશ’ ફિલ્મે રેકોર્ડ સર્જ્યો! નિર્માતા અનુપ્રિયા નાગરનો ગુજરાત ફર્સ્ટ પર મોટો ખુલાસો](https://www.gujaratfirst.com/entertainment/hanuman-ansh-box-office-collection-record-producer-anupriya-nagar-gujarat-first-exclusive/339469/)
-- [പാക് യുദ്ധക്കപ്പല്‍ ഇന്ത്യന്‍ കപ്പലുമായി കൂട്ടിയിടിച്ചു; അംഗീകരിക്കാനാവാത്ത പെരുമാറ്റമെന്ന് ഇന്ത്യ](https://www.manoramanews.com/india/latest/2026/09/16/pakistani-warship-collides-with-indian-naval-vessel-in-international-waters.html)
-- [भारत से बाहर अभिषेक बनर्जी, ‘आंख’ दिखा किसे बोले- अभी खत्म नहीं हुआ हूं मैं](https://www.livehindustan.com/national/viral-instagram-post-of-abhishek-banerjee-tmc-mp-from-diamond-harbour-west-bengal-politics-201789546547352.html)
-- [কৃষক আত্মহত্যার খবর শুনেই বদলে যায় সিদ্ধান্ত, গাড়ির টাকা বিলিয়ে দেন নানা](https://www.thewall.in/entertainment/nana-patekar-chose-farmers-over-a-15-crore-rupees-car-writer-reveals/tid/204957)
+- [આવતીકાલથી સૂર્યની બદલાશે ચાલ, 3 રાશિના જાતકો પર આવશે મોટી આફત!](https://www.gujaratsamachar.com/news/astro/Sun-Transit-in-Virgo-2026-3-Zodiac-Signs-Face-Challenges-40063618142)
+- [11 foods rich in vitamin B12 for energy and brain health](https://vogueadria.com/vitamin-b12-sources/)
+- [India's rank on Global Gender Gap Index is 131; Iceland retains top spot](https://m.rediff.com/news/commentary/2026/sep/16/indias-rank-on-global-gender-gap-index-is-131-iceland-retains-top-spot/7939fa80ed4c3e758b746dff16281bd7)
+- [சூடானில் தங்கச்சுரங்கம் சரிந்து விழுந்தது; 60 பேர் பலி](https://www.dinamalar.com/news/world-tamil-news/60-killed-in-sudan-gold-mine-collapse/4324159)
+- [PAK में 'लॉकडाउन' की आहट, पेट्रोल ₹384 तो डीजल ₹415 के पार... जानिए क्यों बिगड़े हालात](https://www.aajtak.in/business/news/story/pakistan-fuel-price-hike-smart-lockdown-market-hours-restriction-petrol-diesel-caping-dpmx-smsr-2643796-2026-09-16)
+- [Lucknow horror: Woman hit by car, dragged on bonnet after dispute near Janeshwar Mishra Park](https://timesofindia.indiatimes.com/city/lucknow/lucknow-horror-woman-hit-by-car-dragged-on-bonnet-after-dispute-near-janeshwar-mishra-park/articleshow/134283150.cms)
+- [Supreme Court Orders Status Quo On Sridevi's Chennai Property, Issues Notice To Boney Kapoor, Janhvi & Kushi On Rival Claim](https://www.livelaw.in/top-stories/supreme-court-orders-status-quo-on-sridevis-chennai-property-issues-notice-to-boney-kapoor-janhvi-kushi-on-rival-claim-550277)
+- [गुरुग्राम हिट-एंड-रन केस: कल्याण बैंसला और लवनीश को दो दिन की रिमांड, 18 सितंबर को अगली सुनवाई](https://www.aajtak.in/crime/news/story/gurugram-hit-and-run-case-kalyan-bainsla-lavneesh-two-day-remand-pvzs-dskc-2643823-2026-09-16)
+- [India Pakistan Navy Ship Collision: भारत आणि पाकिस्तानच्या युद्धनौका अरबी समुद्रात एकमेकांना धडकल्या, दिल्लीत तातडीने मोठ्या हालचाली](https://marathi.abplive.com/news/world/warships-belonging-to-india-and-pakistan-actually-collided-in-the-arabian-sea-urgent-high-level-activity-is-underway-in-delhi-1439281)
+- [മഞ്ജു വാര്യർ ‘തടവിൽ’; സനൽകുമാറിനെ പരിഹസിച്ച് മധു വാര്യർ, ‘ഇനി രണ്ട് ദിവസം അമ്മയും തോക്കിൻമുനയിൽ’](https://timeskerala.com/entertainment/madhu-wariar-trolls-sanal-kumar-sasidharan/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
