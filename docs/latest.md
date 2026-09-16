@@ -1,31 +1,32 @@
-# India Trending Report — 2026-09-16 21:35:38
+# India Trending Report — 2026-09-16 22:01:56
 
 ## Google Trends (India) — top trending searches
-1. [atlético mineiro vs santos](https://trends.google.com/trending/rss?geo=IN)
-2. [gerard martín](https://trends.google.com/trending/rss?geo=IN)
-3. [cryptocurrency trading](https://trends.google.com/trending/rss?geo=IN)
-4. [barca today match](https://trends.google.com/trending/rss?geo=IN)
-5. [laliga stats](https://trends.google.com/trending/rss?geo=IN)
-6. [raphinha](https://trends.google.com/trending/rss?geo=IN)
-7. [joan garcía](https://trends.google.com/trending/rss?geo=IN)
-8. [samsung one ui 9](https://trends.google.com/trending/rss?geo=IN)
-9. [fed meeting interest rates](https://trends.google.com/trending/rss?geo=IN)
-10. [apple iphone 17](https://trends.google.com/trending/rss?geo=IN)
+1. [karim adeyemi](https://trends.google.com/trending/rss?geo=IN)
+2. [anthony gordon](https://trends.google.com/trending/rss?geo=IN)
+3. [rodri](https://trends.google.com/trending/rss?geo=IN)
+4. [laliga games](https://trends.google.com/trending/rss?geo=IN)
+5. [atlético mineiro vs santos](https://trends.google.com/trending/rss?geo=IN)
+6. [cryptocurrency trading](https://trends.google.com/trending/rss?geo=IN)
+7. [gerard martín](https://trends.google.com/trending/rss?geo=IN)
+8. [la liga](https://trends.google.com/trending/rss?geo=IN)
+9. [lamine yamal](https://trends.google.com/trending/rss?geo=IN)
+10. [barca today match](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Curtain falls on US-India cultural bridge as Kennedy Center shutters](https://timesofindia.indiatimes.com/weather/us/sitar-sarod-and-shutdown-curtain-falls-on-a-us-india-cultural-bridge-as-kennedy-center-shutters/articleshow/134291523.cms)
+- [UPI still free, but there's a catch: Who ultimately pays & could cash make a comeback?](https://timesofindia.indiatimes.com/business/india-business/upi-still-free-but-theres-a-catch-how-new-mdr-works-could-cash-payments-make-a-comeback/articleshow/134285783.cms)
 - [‘We’re the best credit’: Trump fumes after 1st Fed rate hike in over 3 yrs](https://timesofindia.indiatimes.com/business/international-business/were-the-best-credit-trump-calls-for-lower-us-interest-rates-after-first-fed-hike-in-3-years/articleshow/134296503.cms)
+- [Indian couple win payout after suing UK home office for 'unlawful' immigration detention](https://timesofindia.indiatimes.com/nri/other-news/failed-asylum-seeking-indian-couple-win-payout-after-suing-uk-home-office-for-being-kept-separately-in-immigration-detention/articleshow/134296573.cms)
 - [Govt lowers export levies on petrol, diesel and aviation turbine fuel](https://timesofindia.indiatimes.com/business/india-business/govt-lowers-export-levies-on-petrol-diesel-and-aviation-turbine-fuel-amid-fortnightly-review/articleshow/134296226.cms)
-- [Saudi in need, friend Pak missing in 'deed': Islamabad faces ultimate Mecca pact test](https://timesofindia.indiatimes.com/world/middle-east/saudi-in-need-friend-pakistan-missing-in-deed-islamabad-faces-mecca-pact-test-with-iran-looming/articleshow/134288519.cms)
-- [From Mecca's red line to the 'Gate of Tears': How US-Iran war is closing in on MBS](https://timesofindia.indiatimes.com/world/middle-east/mecca-red-line-gate-of-tears-saudi-crown-prince-mbs-houthis-iran-us-war/articleshow/134284212.cms)
+- [Don’t trust Centre unless it’s a written deal, J&K CM tells Ladakhi delegation](https://timesofindia.indiatimes.com/india/dont-trust-centre-unless-its-a-written-deal-omar-tells-ladakhi-delegation/articleshow/134296549.cms)
 - [Why Mark Zuckerberg's wife's school was shut down despite $125 million in donations,](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms)
-- [Josh Duhamel turned 52 Minnesota acres into an off-grid family retreat](https://timesofindia.indiatimes.com/real-estate/news/in-2008-actor-josh-duhamel-bought-12-acres-with-a-rustic-fixer-upper-cabin-in-minnesota-with-no-electricity-or-running-water-then-expanded-to-52-acres-now-he-has-built-an-off-grid-family-retreat/articleshow/134258148.cms)
+- [Saudi in need, friend Pak missing in 'deed': Islamabad faces ultimate Mecca pact test](https://timesofindia.indiatimes.com/world/middle-east/saudi-in-need-friend-pakistan-missing-in-deed-islamabad-faces-mecca-pact-test-with-iran-looming/articleshow/134288519.cms)
+- [Meet Benjamin Davis, 16, who turned 3D printer waste into reusable filament](https://timesofindia.indiatimes.com/world/us/meet-benjamin-davis-the-16-year-old-massachusetts-student-who-built-a-machine-that-turns-3d-printer-waste-into-reusable-filament-and-won-75000/articleshow/134243144.cms)
+- [Curtain falls on US-India cultural bridge as Kennedy Center shutters](https://timesofindia.indiatimes.com/weather/us/sitar-sarod-and-shutdown-curtain-falls-on-a-us-india-cultural-bridge-as-kennedy-center-shutters/articleshow/134291523.cms)
 - [At halfway mark of third term, PM Modi to hold 'Chintan Shivir'](https://timesofindia.indiatimes.com/india/at-halfway-mark-of-third-term-pm-modi-to-hold-chintan-shivir/articleshow/134296314.cms)
-- ['Severe damage': Pak vessel limps back to harbour after collision with Indian warship](https://timesofindia.indiatimes.com/india/pak-vessel-pns-hunain-damaged-after-collision-with-indian-warship-in-north-arabian-sea-returns-to-harbour/articleshow/134291641.cms)
-- [Anonymous donor gives Cincinnati $1.8 million to restore 228 acres of forest](https://timesofindia.indiatimes.com/world/us/an-anonymous-donor-gave-cincinnati-1-8-million-to-restore-228-acres-of-forest-the-5-year-project-is-the-citys-biggest-park-reforestation-effort-in-nearly-100-years/articleshow/134283772.cms)
 
 **NDTV**
+- [US-Contracted Vessel Hit By Iranian Missiles Near Strait Of Hormuz: Report](https://www.ndtv.com/world-news/us-contracted-vessel-hit-by-iranian-missiles-near-strait-of-hormuz-report-12056877#publisher=newsstand)
 - [Punjab Ambedkar Statue Row: BJP's Vijay Sampla Injured In Clash With BSP Workers](https://www.ndtv.com/india-news/punjab-ambedkar-statue-row-bjp-leader-vijay-sampla-injured-in-clash-with-bsp-workers-12056830#publisher=newsstand)
 - [Saudi Seeks Help From France, Britain, Pakistan To Fight Houthis](https://www.ndtv.com/world-news/saudis-seek-allies-help-as-missile-defenses-run-low-in-fight-with-houthis-officials-say-12056629#publisher=newsstand)
 - [17-Year-Old Girl Raped In Chhattisgarh, 4 Men Arrested: Cops](https://www.ndtv.com/india-news/four-men-held-for-raping-17-year-old-girl-in-chhattisgarhs-kanker-district-12056553#publisher=newsstand)
@@ -35,7 +36,6 @@
 - [Zelensky Says Russia Tried To Attack His Plane Twice To 'Intimidate' Him: Report](https://www.ndtv.com/world-news/volodymyr-zelensky-says-russia-tried-to-attack-his-plane-twice-to-intimidate-him-report-12056624#publisher=newsstand)
 - [In 2025, J&K Saw No Stone-Throwing Incidents, Only 1 Terrorist Recruited](https://www.ndtv.com/india-news/in-2025-j-k-saw-no-stone-throwing-incidents-only-1-terrorist-recruited-12056616#publisher=newsstand)
 - [6 Minors Drown In Lake Near Hyderabad During Ganesh Idol Immersion](https://www.ndtv.com/india-news/6-minors-drown-in-lake-near-hyderabad-during-ganesh-idol-immersion-12056615#publisher=newsstand)
-- ["We Are Very Liberal": Supreme Court On Bail Cases Involving Marijuana](https://www.ndtv.com/india-news/we-are-very-liberal-supreme-court-on-bail-cases-involving-marijuana-12056610#publisher=newsstand)
 
 **Hindustan Times**
 - [25 years of Modi: The making of a political force](https://www.hindustantimes.com/india-news/25-years-of-modi-the-making-of-a-political-force-101789583959262.html)
@@ -62,7 +62,9 @@
 - [ಕರ್ನಾಟಕದ 768 ಪೆಟ್ರೋಲ್‌ ಬಂಕ್‌ಗಳಲ್ಲಿ ಅಳತೆ ವಂಚನೆ ಪತ್ತೆ: ಅನುಮಾನ ಬಂದಲ್ಲಿ ಗ್ರಾಹಕರು ಮಾಡಬೇಕಾದ್ದೇನು?](https://vijaykarnataka.com/news/karnataka/measurement-fraud-detected-at-768-petrol-bunks-in-karnataka-what-should-customers-do/articleshow/134292790.cms)
 
 **The Hindu**
+- [Rajasthan achieves plantation target ahead of schedule](https://www.thehindu.com/news/national/rajasthan/rajasthan-achieves-plantation-target-ahead-of-schedule/article71472889.ece)
 - [Govt. cuts windfall tax on export of petrol, diesel and ATF](https://www.thehindu.com/business/govt-cuts-windfall-tax-on-export-of-petrol-diesel-and-atf/article71474189.ece)
+- [Three rescued orangutans in Odisha suffering from anaemia: Officials](https://www.thehindu.com/news/national/odisha/three-rescued-orangutans-in-odisha-suffering-from-anaemia-officials/article71474169.ece)
 - [Rajasthan urban local body elections: Candidates for mayors, chairpersons file nominations](https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-elections-candidates-for-mayors-chairpersons-file-nominations/article71474170.ece)
 - [Former TNCC president Selvaperunthagai and Rajya Sabha member Praveen Chakravarty trade barbs](https://www.thehindu.com/news/national/tamil-nadu/former-tncc-president-selvaperunthagai-and-rajya-sabha-member-praveen-chakravarty-trade-barbs/article71472663.ece)
 - [CJP to launch ‘Adivasi School Thik Karo’ campaign from Gadchiroli on Sept. 17: Dipke](https://www.thehindu.com/news/national/maharashtra/cjp-to-launch-adivasi-school-thik-karo-campaign-from-gadchiroli-on-sept-17-dipke/article71471862.ece)
@@ -70,8 +72,6 @@
 - [Falsely quoting judges in barred online court clips is criminal conduct, says Supreme Court](https://www.thehindu.com/news/national/supreme-court-says-falsely-quoting-judges-in-barred-online-court-clips-crosses-over-from-contempt-to-crime/article71471708.ece)
 - [Death penalty for all 10 convicts in 2013 Jhiram Valley Maoist attack case](https://www.thehindu.com/news/national/chhattisgarh/death-penalty-for-all-10-convicts-in-2013-jhiram-valley-maoist-attack-case/article71472537.ece)
 - [NEET-UG protests: Supreme Court refuses change in High-Powered Enquiry Committee, says inquiry on pellet guns, excesses must come first](https://www.thehindu.com/news/national/neet-ug-protests-sc-refuses-change-in-hpec-says-enquiry-on-pellet-guns-excesses-must-come-first/article71471162.ece)
-- [Allahabad HC frees man confined after conversion, relationship with Muslim woman; cites Articles 21, 25](https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-frees-man-confinedafter-conversion-relationship-with-muslim-woman-cites-articles-21-25/article71472875.ece)
-- [Assam’s Lok Sabha bypoll could define contours of Opposition politics in the State](https://www.thehindu.com/news/national/assam/assams-lok-sabha-bypoll-could-define-contours-of-opposition-politics-in-the-state/article71474142.ece)
 
 **Livemint**
 - [JD Vance says Iran war will enter ‘much different phase’ in coming months](https://www.livemint.com/news/us-news/jd-vance-says-iran-war-will-enter-much-different-phase-in-coming-months-11789588664007.html)
@@ -102,33 +102,33 @@
 ## Cross-source trending keywords (derived from headlines above)
 - Trump (3.9)
 - Govt (3.9)
+- Odisha (3.9)
 - Supreme Court (3.0)
 - Indian (2.6)
+- Centre (2.6)
+- Report (2.6)
 - India (2.6)
-- Odisha (2.6)
+- Three (2.6)
+- Rajasthan (2.6)
 - Saudi (1.6)
 - Modi (1.6)
 - Pakistan (1.6)
 - Nadu (1.6)
-- Curtain (1.3)
-- US-India (1.3)
-- Islamabad (1.3)
-- Mecca (1.3)
-- Gate (1.3)
+- Ladakhi (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [43 ലി. ഇറക്കുമതിചെയ്ത വിദേശമദ്യം 22 ലി. വൈൻ; ആന്റോയ്ക്കെതിരേ കേസെടുത്ത് എക്സൈസ്, ജാമ്യമില്ലാ വകുപ്പ്](https://www.mathrubhumi.com/news/kerala/anto-augustine-family-house-foreign-liquor-seized-excise-case-o2toru9u)
-- [Accident : नाशिकवरून देवदर्शन करून परतताना काळाचा घाला; मुंबईच्या ४ जणांचा मृत्यू, वाहनाचा चेंदामेंदा, ६ गंभीर जखमी](https://saamtv.esakal.com/mumbai-pune/mumbai-nashik-highway-accident-death-toll-four-killed-including-two-children-dead-six-seriously-injured-near-shahapur-thane-news-nck90)
-- [Video: Lucknow man hits girlfriend with car after fight, drags her on bonnet; arrested](https://www.indiatoday.in/cities/lucknow/story/lucknow-man-hits-lover-with-car-drags-her-on-bonnet-then-runs-her-over-2995817-2026-09-16)
-- [யுபிஐ பரிவர்த்தனைக் கட்டணம் நுகர்வோரை பாதிக்குமா? விலைவாசி கவலை எழுவது ஏன்?](https://www.bbc.com/tamil/articles/cm780vx526n3o)
-- [कल का मौसम 17 सितंबर: 15 घंटे के भीतर 20 राज्यों में मूसलाधार बारिश का अलर्ट, 80 की स्पीड से हवा; IMD का अपडेट](https://navbharattimes.indiatimes.com/india/tomorrow-weather-17-september-2026-thunderstorm-and-heavy-rain-alert-in-20-states-within-14-hours-wind-speed-up-to-80-kmph-delhi-up-bihar-temperature/articleshow/134283733.cms)
-- [ईरान पर हमले की अमेरिका ने अब तक क्या 'क़ीमत' चुकाई है? इस रिपोर्ट से चला पता](https://www.bbc.com/hindi/articles/cmx2zww4z9x0o)
-- [Endometriosis and insulin resistance: What current research says](https://indianexpress.com/article/lifestyle/health/endometriosis-insulin-resistance-blood-sugar-metabolic-health-10820751/)
-- [Weather Update: বিশ্বকর্মা পুজো পেরোলেই ফের নিম্নচাপ? হতে পারে ঘূর্ণিঝড়ও? আবহাওয়ার বড় পূর্বাভাস](https://bengali.abplive.com/district/west-bengal-weather-update-cyclonic-circulation-depression-may-form-around-viswakarma-puja-1193045)
-- [ఆసియా కుబేరుల్లో అదానీకి షాక్.. అగ్రస్థానానికి ఎగబాకిన టిక్‌టాక్ ఫౌండర్](https://www.ap7am.com/tn/880275/shock-to-adani-among-asia-richest-as-tiktok-founder-climbs-to-top-spot)
-- [‘തിരുവനന്തപുരം മൃഗശാല ഉചിതമായ സ്ഥലത്തല്ല; മൃഗങ്ങളോടുള്ള ക്രൂരത: വനപ്രദേശത്തേക്ക് മാറ്റണം’](https://www.manoramaonline.com/news/latest-news/2026/09/16/chief-minister-vd-satheesan-proposes-transforming-zoo-site-to-area-near-forest.html)
+- [ఆంధ్రప్రదేశ్‌లో 1,156 పోలీసు కానిస్టేబుల్‌ ఉద్యోగాలు](https://pratibha.eenadu.net/notifications/notification_article/freshers/ap-constable-notification-2026/2-8-27-23070030140)
+- [Terminal lucidity: when dying dementia patients regain awareness](https://psyche.co/ideas/terminal-lucidity-when-dying-dementia-patients-regain-awareness)
+- [চোটে এশিয়ান গেমস থেকে ছিটকে গেলেন বরুণ](https://www.aaroananda.com/story/sports-news/breaking-news/varun-chakaravarthy-injured-bipraj-nigam-to-replace-him/11019928)
+- [Isha Rikhi On Divorce With Badshah; बादशाहनं केली फसवणूक, लग्नाच्या 5 महिन्यातच संसार मोडला; ईशा रिखीनं सांगितलं रॅपरसोबतच्या घटस्फोटाचं कारण](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/isha-rikhi-talks-about-reason-of-divorce-with-badshah-after-5-months-of-marriage/articleshow/134284147.cms)
+- [PF पेंशन पर सरकार का बड़ा ऐलान, 15000 रुपये से बढ़ाकर 25000 रुपये हुई सैलरी लिमिट](https://www.aajtak.in/business/news/story/cabinet-big-decision-eps-pf-pension-mandatory-coverage-ceiling-hike-tutd-dskc-2643869-2026-09-16)
+- [एआई को लेकर अचानक क्यों फैल रहा है डर?](https://www.bbc.com/hindi/articles/c81dlk6qv4wzo)
+- [Monsoon Update: દેશમાંથી ચોમાસું ક્યારે લેશે વિદાય? IMDએ જણાવી તારીખ](https://gujarati.abplive.com/news/when-will-monsoon-farewell-to-the-country-imd-declare-date-991327)
+- [Sanjeev Sonawane Latur Crime: संजीव सोनवणेंच्या पत्रातील वाक्याने गूढ वाढवलं, पण पोलिसांना वेगळाच संशय, खात्री पटवण्यासाठी तज्ज्ञांची मदत](https://marathi.abplive.com/crime/sanjeev-sonawane-latur-crime-letter-found-near-dead-body-police-call-experts-for-handwriting-test-marathi-news-1439297)
+- [Cabinet approves raising EPFO wage ceiling from Rs 15,000 to Rs 25,000; all you need to know](https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-raising-epfo-wage-ceiling-from-rs-15000-to-rs-25000-all-you-need-to-know/articleshow/134284104.cms)
+- [Chess Olympiad - Live!](https://en.chessbase.com/post/chess-olympiad-2026-live)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
