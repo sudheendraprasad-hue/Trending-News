@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-16 03:37:25
+# India Trending Report — 2026-09-16 04:01:51
 
 ## Google Trends (India) — top trending searches
-1. [crude oil price today](https://trends.google.com/trending/rss?geo=IN)
-2. [ఇషాన్ కిషన్](https://trends.google.com/trending/rss?geo=IN)
-3. [neet](https://trends.google.com/trending/rss?geo=IN)
-4. [राशिफल](https://trends.google.com/trending/rss?geo=IN)
-5. [nasdaq composite](https://trends.google.com/trending/rss?geo=IN)
-6. [modi birthday](https://trends.google.com/trending/rss?geo=IN)
-7. [dow jones industrial average](https://trends.google.com/trending/rss?geo=IN)
-8. [radhika merchant](https://trends.google.com/trending/rss?geo=IN)
-9. [കമല് ഹാസന്](https://trends.google.com/trending/rss?geo=IN)
-10. [ceuta](https://trends.google.com/trending/rss?geo=IN)
+1. [battlegrounds mobile india](https://trends.google.com/trending/rss?geo=IN)
+2. [paytm share](https://trends.google.com/trending/rss?geo=IN)
+3. [భూమి రిజిస్ట్రేషన్](https://trends.google.com/trending/rss?geo=IN)
+4. [crude oil price today](https://trends.google.com/trending/rss?geo=IN)
+5. [neet](https://trends.google.com/trending/rss?geo=IN)
+6. [ఇషాన్ కిషన్](https://trends.google.com/trending/rss?geo=IN)
+7. [राशिफल](https://trends.google.com/trending/rss?geo=IN)
+8. [nasdaq composite](https://trends.google.com/trending/rss?geo=IN)
+9. [modi birthday](https://trends.google.com/trending/rss?geo=IN)
+10. [dow jones industrial average](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [After meeting PM Modi, schoolmate gets land back from BJP MLA](https://timesofindia.indiatimes.com/city/mumbai/after-meeting-modi-schoolmate-gets-land-back-from-bjp-mla/articleshow/134272121.cms)
+- [Video: 3 killed as helicopter crashes while covering bus collision in LA](https://timesofindia.indiatimes.com/world/us/video-horrifying-footage-from-inside-chopper-as-it-goes-down-while-covering-la-bus-crash/articleshow/134277062.cms)
 - [Fee on UPI transactions: Will your payments get costlier? What consumers need to know](https://timesofindia.indiatimes.com/business/india-business/consumers-may-be-spared-large-impact-of-mdr-on-upi/articleshow/134275818.cms)
-- [Horrifying video from inside chopper as it goes down while covering LA bus crash](https://timesofindia.indiatimes.com/world/us/video-horrifying-footage-from-inside-chopper-as-it-goes-down-while-covering-la-bus-crash/articleshow/134277062.cms)
+- [From uplifting team to calling out Olympiad mess: Srinath is India's man to count on](https://timesofindia.indiatimes.com/sports/chess/from-uplifting-a-heartbroken-team-to-calling-out-hotel-mess-at-chess-olympiad-srinath-is-indias-man-to-count-on/articleshow/134277121.cms)
 - [‘Intended to kill her’: What we know so far about Gurgaon hit-and-run case](https://timesofindia.indiatimes.com/city/gurgaon/intended-to-kill-her-gurgaon-harasser-arrested-in-rajasthan-cops-say-car-collision-with-biker-was-deliberate/articleshow/134275962.cms)
-- [Harry Brook scripts history, becomes first cricketer to achieve this feat in T20Is](https://timesofindia.indiatimes.com/sports/cricket/news/harry-brook-scripts-history-becomes-first-cricketer-to-achieve-this-feat-in-t20is/articleshow/134276459.cms)
-- [Tamil Nadu CM Vijay’s London event called off after police raise safety concerns](https://timesofindia.indiatimes.com/india/tamil-nadu-cm-vijays-london-event-called-off-after-police-raise-safety-concerns/articleshow/134275862.cms)
 - [Mark Zuckerberg’s wife Priscilla Chan’s $125 million school to shut after 10 years](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms)
+- [100% tariffs on India? US House advances Russia sanctions bill; final vote tomorrow](https://timesofindia.indiatimes.com/business/international-business/100-tariffs-on-india-us-house-advances-russia-sanctions-bill-final-vote-tomorrow/articleshow/134276708.cms)
+- [Tamil Nadu CM Vijay’s London event called off after police raise safety concerns](https://timesofindia.indiatimes.com/india/tamil-nadu-cm-vijays-london-event-called-off-after-police-raise-safety-concerns/articleshow/134275862.cms)
+- [Harry Brook scripts history, becomes first cricketer to achieve this feat in T20Is](https://timesofindia.indiatimes.com/sports/cricket/news/harry-brook-scripts-history-becomes-first-cricketer-to-achieve-this-feat-in-t20is/articleshow/134276459.cms)
 - [‘Maybe they’ll shoot you’: Carney recalls Trump’s joke on Canada-US ties](https://timesofindia.indiatimes.com/world/us/maybe-theyll-shoot-you-carney-recalls-trumps-joke-on-canada-us-ties/articleshow/134276133.cms)
-- [Oil prices fall as US crude inventories rise despite Saudi supply concerns](https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-brent-crude-falls-as-us-crude-inventories-rise-despite-saudi-supply-concerns/articleshow/134276899.cms)
-- [Ex-Pakistan batter calls India 'arrogant' as he defends Mohsin Naqvi](https://timesofindia.indiatimes.com/sports/cricket/news/ex-pakistan-batter-calls-india-arrogant-as-he-defends-mohsin-naqvi-after-asia-cup-trophy-row/articleshow/134275958.cms)
-- [40,000 bombs, $2.8 billion: Trump plans massive new arms package for Israel](https://timesofindia.indiatimes.com/defence/international/40000-bombs-2-8-billion-trump-plans-massive-new-arms-package-for-israel/articleshow/134276208.cms)
 
 **NDTV**
 - [Gen Z Makes Mark in Rajasthan Civic Polls, 6 Young Candidates Win In Jaipur](https://www.ndtv.com/india-news/gen-z-makes-mark-in-rajasthan-civic-polls-6-young-candidates-win-in-jaipur-12052265#publisher=newsstand)
@@ -62,6 +62,7 @@
 - [ಕಲಬುರಗಿಯಲ್ಲಿ ನಡು ಬೀದಿಯಲ್ಲೇ ಮಹಿಳೆ ಮೇಲೆ ಹಲ್ಲೆ ಮಾಡಿದ ಪೊಲೀಸ್‌! ಬುದ್ದಿ ಹೇಳಲು ಬಂದ PSI ಕಾರಿಗೆ ಬೆಂಕಿ ಹಚ್ಚಿ ಪೇದೆ ಪರಾರಿ](https://vijaykarnataka.com/news/kalaburagi/police-attacks-woman-in-middle-of-the-road-and-tries-to-ser-her-house-on-fire-torches-psi-car-in-kalaburagi/articleshow/134275936.cms)
 
 **The Hindu**
+- [Arrangements reviewed for CM’s Vizag visit; 26,426 to get house-site pattas on September 19](https://www.thehindu.com/news/national/andhra-pradesh/arrangements-reviewed-for-cms-vizag-visit-26426-to-get-house-site-pattas-on-september-19/article71469492.ece)
 - [Consumer watchdog slaps ₹10 lakh fine on Rapido for misleading ads, unfair practices](https://www.thehindu.com/news/national/consumer-watchdog-slaps-10-lakh-fine-on-rapido-for-misleading-ads-unfair-practices/article71470951.ece)
 - [Launch of expansion of Perunthalaivar Kamarajar Breakfast Scheme deferred to September 22: T.N. govt.](https://www.thehindu.com/news/national/tamil-nadu/launch-of-expansion-of-perunthalaivar-kamarajar-breakfast-scheme-deferred-to-september-22-tn-govt/article71470906.ece)
 - ['Gimmicks': India on Pakistan's fresh announcement on Masood Azhar bounty](https://www.thehindu.com/news/national/gimmicks-india-on-pakistans-fresh-announcement-on-masood-azhar-bounty/article71470890.ece)
@@ -71,7 +72,6 @@
 - [Key allies TDP, Shiv Sena back Amit Shah's statement on UCC in all NDA-ruled States](https://www.thehindu.com/news/national/key-allies-tdp-shiv-sena-back-amit-shahs-statement-on-ucc-in-all-nda-ruled-states/article71470158.ece)
 - [Bihar Cabinet approves ₹3,516 crore for Vishnupad Temple area development, Son-Falgu river link](https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-3516-crore-for-vishnupad-temple-area-development-son-falgu-river-link/article71468849.ece)
 - [Teen stabbed to death during Ganesh idol procession in Indore](https://www.thehindu.com/news/national/madhya-pradesh/teen-stabbed-to-death-during-ganesh-idol-procession-in-indore/article71468859.ece)
-- [Ex-ABVP convenor, PM-EAC members in NCERT’s new English and Economics textbook committees](https://www.thehindu.com/education/ex-abvp-convenor-pm-eac-members-in-ncerts-new-english-and-economics-textbook-committees/article71468274.ece)
 
 **Livemint**
 - [Iran war: Photos show widespread damage at US bases across Middle East after missile, drone attacks](https://www.livemint.com/news/us-news/iran-war-photos-show-widespread-damage-at-us-bases-across-middle-east-after-missile-drone-attacks-11789527881090.html)
@@ -98,16 +98,16 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಬಾಲಕಾರ್ಮಿಕ ಪದ್ಧತಿ: ಪುನರ್ವಸತಿಯೇ ಸವಾಲು](https://www.varthabharati.in/sampaadakeeya/child-labour-rehabilitation-is-the-challenge-2275473)
+- [ಕರ್ನಾಟಕದ ಇಂಜಿನಿಯರ್‌ ಗಳಿಗೆ ‘Er’ ಗೌರವ; ಹೆಸರಿನ ಮುಂದೆ ಶೀರ್ಷಿಕೆ ಬಳಸಲು ಅವಕಾಶ](https://www.varthabharati.in/state/er-honor-for-karnataka-engineers-permission-to-use-the-title-before-their-names-2275474)
 - [Madhya Pradesh | ಬೆಳೆಯದ ರೈತರ ಹೆಸರಿನಲ್ಲಿ ಹೆಸರುಕಾಳು ಖರೀದಿ; 13.3 ಲಕ್ಷ ರೂಪಾಯಿ ವಂಚನೆ ಪತ್ತೆ](https://www.varthabharati.in/National/madhya-pradesh-moong-procured-in-the-names-of-farmers-who-did-not-grow-the-crop-133-lakh-fraud-detected-2275469)
 - [ಸೈಬರ್ ಅಪರಾಧಗಳಲ್ಲಿ ಕರ್ನಾಟಕಕ್ಕೆ ಎರಡನೇ ಸ್ಥಾನ](https://www.varthabharati.in/nimma-ankana/karnataka-ranks-second-in-cybercrimes-2275471)
-- [24 ಲಕ್ಷ ಎಕರೆಗೂ ಅಧಿಕ ವಿಸ್ತೀರ್ಣದ ಕೃಷಿ ಜಮೀನು ಮಾರಾಟ; ಕರ್ನಾಟಕ ಭೂ ಸುಧಾರಣೆ ಕಾಯ್ದೆ ತಿದ್ದುಪಡಿ ಹಿಂಪಡೆಯುವ ಪ್ರಸ್ತಾವವಿಲ್ಲ: ಪರಮೇಶ್ವರ್](https://www.varthabharati.in/vishesha-varadigalu/24--2275472)
+- [24 ಲಕ್ಷ ಎಕರೆಗೂ ಅಧಿಕ ವಿಸ್ತೀರ್ಣದ ಕೃಷಿ ಜಮೀನು ಮಾರಾಟ; ಕರ್ನಾಟಕ ಭೂ ಸುಧಾರಣೆ ಕಾಯ್ದೆ ತಿದ್ದುಪಡಿ ಹಿಂಪಡೆಯುವ ಪ್ರಸ್ತಾವವಿಲ್ಲ: ಪರಮೇಶ್ವರ್](https://www.varthabharati.in/no-proposal-to-withdraw-the-amendment-to-the-karnataka-land-reforms-act-parameshwara/vishesha-varadigalu/24-2275472)
 - [Saudi Arabia | ಹೌದಿ ದಾಳಿ ಭೀತಿ: ಮಕ್ಕಾದಲ್ಲಿ ಇತಿಹಾಸದಲ್ಲಿ ಮೊದಲ ಬಾರಿಗೆ ವಾಯುದಾಳಿ ಎಚ್ಚರಿಕೆ](https://www.varthabharati.in/international/saudi-arabia-fear-of-houthi-attack-air-raid-warning-issued-in-makkah-for-the-first-time-in-history-2275468)
 - [ಅರಣ್ಯ ಒತ್ತುವರಿ ಎಫ್‌ಐಆರ್ ರದ್ದುಪಡಿಸುತ್ತಾ ಹೋದರೆ, ಒತ್ತುವರಿ ಮುಂದುವರಿಯುತ್ತಲೇ ಇರುತ್ತದೆ : ಹೈಕೋರ್ಟ್](https://www.varthabharati.in/bangalore-city/high-court-2275467)
 - [UPI ಶುಲ್ಕಕ್ಕೆ BharatPe ಮಾಜಿ ಸಿಇಒ ಅಶ್ನೀರ್ ಗ್ರೋವರ್ ವಿರೋಧ](https://www.varthabharati.in/National/any-levy-on-upi-is-just-tax-collection-ashneer-grover-tears-into-upi-charge-debate-2275465)
 - ["ಒಬ್ಬರಿಗೆ ಕೆಲವೇ ದಿನಗಳಲ್ಲಿ ಜಾಮೀನು, ಮತ್ತೊಬ್ಬರು 6 ವರ್ಷಗಳಿಂದ ಕಾಯುತ್ತಿದ್ದಾರೆ" | ಸ್ವತಂತ್ರ ಭಾರದ್ವಾಜ್‌ಗೆ ಮಧ್ಯಂತರ ಜಾಮೀನು ಬೆನ್ನಲ್ಲೇ ದೀಪ್ಕೆ ಆಕ್ರೋಶ](https://www.varthabharati.in/National/one-gets-bail-in-days-another-waits-6-years-dipke-after-swatantra-bhardwaj-gets-interim-bail-2275463)
 - ["ಬಾನುಗೊಂದು ನ್ಯಾಯ? ಚೌಧರಿಗೊಂದು ನ್ಯಾಯವೇ?"; ಸಾಮಾಜಿಕ ಜಾಲತಾಣದಲ್ಲಿ ಜನರ ಆಕ್ರೋಶ](https://www.varthabharati.in/national/one-rule-for-banu-and-another-for-chaudhary-public-outrage-on-social-media-2275462)
-- [ಭವಿಷ್ಯ ನಿಧಿ ಸಂಸ್ಥೆಯಿಂದ ವಾಟ್ಸ್‌ಆ್ಯಪ್ ಚಾನೆಲ್‌ಗೆ ಚಾಲನೆ](https://www.varthabharati.in/National/provident-fund-organization-launches-whatsapp-channel-2275460)
-- [ಬಸ್ ಚಾಲಕ, ಕಂಡೆಕ್ಟರ್‌ಗೆ ಹಲ್ಲೆ: ಪ್ರಕರಣ ದಾಖಲು](https://www.varthabharati.in/DakshinaKannada/bus-driver-and-conductor-assaulted-case-registered-2275458)
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (5.5)
@@ -117,28 +117,28 @@
 - target (3.0)
 - London (2.9)
 - Iran (2.9)
-- Trump (2.9)
+- India's (2.6)
+- Russia (2.6)
 - Report (2.6)
 - August (2.6)
+- September (2.6)
+- US House (2.0)
 - Tamil Nadu CM (2.0)
 - Free Palestine (2.0)
-- Buy Bajaj Finance (2.0)
-- Vijay (1.9)
-- Saudi (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [6 गेंद पर जसप्रीत बुमराह ने हवा नहीं लगने दी, अगले ही ओवर में आकर अर्शदीप ने निकाल ली विकेट, ये जोड़ी कमाल की है](https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/jasprit-bumrah-maiden-over-and-arshdeep-singh-strike-early-to-rattles-afghanistan-in-second-t20i/articleshow/134267621.cms)
+- [Rajpal Yadav : राजपाल यादवला सुप्रीम कोर्टाचा मोठा दिलासा; २ कोटी भरण्यासाठी दोन आठवड्यांची मुदत, पासपोर्ट मात्र जमा](https://www.prahaar.in/2026/09/15/major-relief-for-rajpal-yadav-from-the-supreme-court-granted-two-weeks-to-pay-%E2%82%B92-crore-but-must-surrender-passport/)
+- [IND vs AFG: টি-টোয়েন্টি কেরিয়ারের সেরা স্পেল নীতীশের, ২০ ওভারে ১৫৯/৮ বোর্ডে তুলল আফগানরা](https://bengali.abplive.com/sports/cricket/india-vs-afganistan-second-t20-ibrahim-zadran-rashid-khan-nabi-afgan-team-score-159-8-after-20-overs-1192949)
+- [American Airlines | దుస్తులు విప్పేసి, ప‌రుగులు పెడుతూ కేక‌లు.. విమానంలో మ‌హిళ వింత ప్ర‌వ‌ర్త‌న‌..!](https://www.ntnews.com/international/taken-off-all-her-clothes-woman-strips-naked-on-american-airlines-flight-taken-into-custody-2511471)
+- [OpenAI, Anthropic, Google have been in talks on AI safety for weeks](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/)
+- [UPI પેમેન્ટ મોંઘું થશે: 2000થી વધુના વ્યવહારો પર લાગશે MDR ચાર્જ, જાણો સરકારના નવા નિયમો?](https://bombaysamachar.com/news/upi-payment-new-mdr-rules-charges)
+- [Explained: US court pauses new visa rules - how it affects Indian students, journalists](https://www.hindustantimes.com/ht-explainers/us-visas-indians-students-journalists-donald-trump-latest-news-explained-united-states-101789485696902.html)
+- [India deeply concerned about blockades in Hormuz and Bab-el-Mandeb, says govt.](https://www.thehindu.com/news/national/india-deeply-concerned-about-blockades-in-hormuz-and-bab-el-mandeb-says-govt/article71468322.ece)
+- [iOS 27 is now live in India: What’s new with Siri AI, Camera, Photos, Safari, parental controls and more](https://www.livemint.com/technology/ios-27-is-now-live-in-india-what-s-new-with-siri-ai-camera-photos-safari-parental-controls-and-more-11789484627182.html)
 - [Jio यूजर्स के लिए बड़ा ऑफर, ₹399 के रिचार्ज पर सालभर Canva Pro फ्री](https://www.aajtak.in/technology/tech-news/story/jio-399-recharge-free-canva-pro-12-months-offer-prym-dskc-2643417-2026-09-15)
-- [કૅન્સર ન હોવા છતાં 11 વર્ષ સુધી કરાવી કીમોથેરાપી, જ્યારે હકીકત બહાર આવી ત્યારે શું થયું?](https://www.bbc.com/gujarati/articles/cqp8d9y6edyro)
-- [పోలీసుల విచారణకు హాజరైన](https://vaartha.com/andhra-pradesh/youtuber-nandana-foreign-job-fraud-case-police-investigation/777739/)
-- [छह महीने साधी चुप्पी, अब पहली बार धुरंधर पर बोले शाहरुख खान, रणवीर सिंह के लिए क्या बोले?](https://www.aajtak.in/entertainment/bollywood-news/story/shah-rukh-khan-breaks-silence-ranveer-singh-dhurandhar-movie-ask-srk-session-tmovj-dskc-2643369-2026-09-15)
-- ['Our father being slowly killed': Imran Khan's sons accuse Pakistan's Asim Munir of vendetta](https://timesofindia.indiatimes.com/world/pakistan/our-father-being-slowly-killed-imran-khans-sons-accuse-pakistans-asim-munir-of-vendetta/articleshow/134267616.cms)
-- [‘ജീവിച്ചിരിക്കുന്ന അദ്ഭുതം’: റിയാസ് ഉൾപ്പെടെ വന്നപ്പോഴും ഒഴിവാക്കി; തിരുത്തലിൽ ജയരാജന്റെ വരവ് നൽകുന്ന സൂചനയെന്ത്?](https://www.manoramaonline.com/news/latest-news/2026/09/15/p-jayarajan-return-to-cpm-top-leadership.html)
-- [ना मुख्यमंत्री देवेंद्र फडणवीस, ना एकनाथ शिंदे; राज ठाकरेंच्या घरी बाप्पांच्या दर्शनाला जाणे टाळले, राजकीय वर्तुळात चर्चा](https://marathi.abplive.com/news/politics/raj-thackeray-home-of-lord-ganesha-neither-cm-devendra-fadnavis-nor-eknath-shinde-visited-sparked-discussion-in-political-circles-ganeshotsav-1439214)
-- [Russia warns Denmark after near miss in Baltic Sea](https://www.aljazeera.com/news/2026/9/15/russia-warns-denmark-after-near-miss-in-baltic-sea)
-- [Breaking News : UPI પેમેન્ટ હવે ફ્રી નહીં? ₹2,000થી વધુના ટ્રાન્ઝેક્શન પર શું બદલાશે, જાણો A ટુ Z માહિતી](https://tv9gujarati.com/business/upi-mdr-rules-2026-merchant-charges-explained-customers-pay-zero-1516334.html)
-- [0,0,0,0,0,0… જસપ્રીત બુમરાહે પ્રથમવાર આ સિદ્ધિ હાંસલ કરી, પહેલી જ ઓવરમાં અફઘાનિસ્તાનને આપ્યો ઝટકો](https://tv9gujarati.com/photo-gallery/cricket-photos/breaking-news-ind-vs-afg-first-time-in-t20-bumrah-bowled-maiden-over-in-first-over-1516333.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
