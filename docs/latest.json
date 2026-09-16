@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16 22:34:35",
+  "generated_at": "2026-09-16 23:01:57",
   "google_trends": [
     {
       "title": "india west indies odi squad",
@@ -55,8 +55,8 @@
   "outlets": {
     "Times of India": [
       {
-        "title": "UPI still free, but there's a catch: Who ultimately pays & could cash make a comeback?",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/upi-still-free-but-theres-a-catch-how-new-mdr-works-could-cash-payments-make-a-comeback/articleshow/134285783.cms"
+        "title": "100% tariffs on India? Russia sanctions bill passed by US House; awaits Trump\u2019s sign",
+        "link": "https://timesofindia.indiatimes.com/business/international-business/after-senate-us-house-passes-russia-sanctions-bill-100-tariff-threat-looms-for-india/articleshow/134296683.cms"
       },
       {
         "title": "\u2018We\u2019re the best credit\u2019: Trump fumes after 1st Fed rate hike in over 3 yrs",
@@ -223,6 +223,10 @@
     ],
     "The Hindu": [
       {
+        "title": "BJP MPs raise concerns over slow pace of infrastructure projects in Odisha",
+        "link": "https://www.thehindu.com/news/national/odisha/bjp-mps-raise-concerns-over-slow-pace-of-infrastructure-projects-in-odisha/article71472679.ece"
+      },
+      {
         "title": "Trump lauds India's crackdown on poppy farming; lists 23 major drug transit nations",
         "link": "https://www.thehindu.com/news/national/trump-lauds-indias-crackdown-on-poppy-farming-lists-23-major-drug-transit-nations/article71474352.ece"
       },
@@ -257,10 +261,6 @@
       {
         "title": "Falsely quoting judges in barred online court clips is criminal conduct, says Supreme Court",
         "link": "https://www.thehindu.com/news/national/supreme-court-says-falsely-quoting-judges-in-barred-online-court-clips-crosses-over-from-contempt-to-crime/article71471708.ece"
-      },
-      {
-        "title": "Death penalty for all 10 convicts in 2013 Jhiram Valley Maoist attack case",
-        "link": "https://www.thehindu.com/news/national/chhattisgarh/death-penalty-for-all-10-convicts-in-2013-jhiram-valley-maoist-attack-case/article71472537.ece"
       }
     ],
     "Livemint": [
@@ -352,14 +352,18 @@
   "keywords": [
     {
       "term": "Trump",
-      "score": 5.2
-    },
-    {
-      "term": "Govt",
-      "score": 3.9
+      "score": 6.5
     },
     {
       "term": "Odisha",
+      "score": 5.2
+    },
+    {
+      "term": "India",
+      "score": 3.9
+    },
+    {
+      "term": "Govt",
       "score": 3.9
     },
     {
@@ -375,10 +379,6 @@
       "score": 2.6
     },
     {
-      "term": "India",
-      "score": 2.6
-    },
-    {
       "term": "Three",
       "score": 2.6
     },
@@ -389,6 +389,10 @@
     {
       "term": "Supreme Court",
       "score": 2
+    },
+    {
+      "term": "Russia",
+      "score": 1.6
     },
     {
       "term": "Saudi",
@@ -405,53 +409,49 @@
     {
       "term": "Gang",
       "score": 1.3
-    },
-    {
-      "term": "Ladakhi",
-      "score": 1.3
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u0938\u093f\u0930\u094d\u092b \u092a\u093e\u0928\u0940 \u092a\u0940\u0928\u093e \u0915\u093e\u092b\u0940 \u0928\u0939\u0940\u0902! \u091c\u093e\u0928\u0947\u0902 \u0915\u092c \u0936\u0930\u0940\u0930 \u0915\u0947 \u0932\u093f\u090f \u0907\u0932\u0947\u0915\u094d\u091f\u094d\u0930\u094b\u0932\u093e\u0907\u091f \u092d\u0940 \u091c\u0930\u0942\u0930\u0940, \u0921\u0949\u0915\u094d\u091f\u0930 \u0928\u0947 \u0938\u092e\u091d\u093e\u092f\u093e",
-      "link": "https://www.aajtak.in/health/story/electrolyte-deficiency-symptoms-and-hydration-tips-tvisa-dskc-2643906-2026-09-16"
+      "title": "\u2018\u09ac\u09bf\u0997 \u09ac\u09b8 \u09ac\u09be\u0982\u09b2\u09be\u2019\u09b0 \u0998\u09b0\u09c7 \u0995\u09cd\u09af\u09be\u09aa\u09cd\u099f\u09c7\u09a8 \u09b8\u09cb\u09a8\u09be\u09ae\u09a3\u09bf\u0964 \u09b6\u09c1\u09ad\u09c7\u099a\u09cd\u099b\u09be \u099c\u09be\u09a8\u09be\u09b2\u09c7\u09a8 \u09aa\u09cd\u09b0\u09a4\u09c0\u0995 \u09b8\u09c7\u09a8",
+      "link": "https://www.aaroananda.com/story/entertainment-news/in-focus/sonomoni-saha-bigg-boss-captaincy-and-marriage-rumors/11019943"
     },
     {
-      "title": "A sprint, a shimmy and a sublime finish: Welcome back, Max Dowman",
-      "link": "https://www.nytimes.com/athletic/7597806/2026/09/16/max-dowman-arsenal-ipswich-goal/"
+      "title": "\u0ab6\u0ac0\u0ab2\u0a9c \u0ab9\u0abf\u0a9f \u0a8f\u0aa8\u0acd\u0aa1 \u0ab0\u0aa8 \u0a95\u0ac7\u0ab8: \u0a86\u0ab0\u0acb\u0aaa\u0ac0 \u0ab0\u0abe\u0a9c\u0ab8\u0acd\u0aa5\u0abe\u0aa8\u0aa8\u0abe \u0aa1\u0ac1\u0a82\u0a97\u0ab0\u0aaa\u0ac1\u0ab0\u0aa5\u0ac0 \u0a9d\u0aa1\u0aaa\u0abe\u0aaf\u0acb, \u0aae\u0ac3\u0aa4\u0a95\u0aa8\u0abe \u0aaa\u0aa4\u0abf\u0a8f \u0ab9\u0abe\u0aa5 \u0a9c\u0acb\u0aa1\u0ac0\u0aa8\u0ac7 \u0aae\u0abe\u0a82\u0a97\u0acd\u0aaf\u0acb \u0ab9\u0aa4\u0acb \u0aa8\u0acd\u0aaf\u0abe\u0aaf",
+      "link": "https://www.gujaratsamachar.com/news/ahmedabad/shilaj-canal-road-newlywed-woman-case-bopal-police-arrests-accused-88003549548"
     },
     {
-      "title": "Apple M6 SoC impresses in new benchmark as it matches Apple M3 Max in multi-core test",
-      "link": "https://www.notebookcheck.net/Apple-M6-SoC-impresses-in-new-benchmark-as-it-matches-Apple-M3-Max-in-multi-core-test.1400910.0.html"
+      "title": "\u0aae\u0acb\u0aa6\u0ac0\u0a9c\u0ac0 \u0ab9\u0abf\u0a82\u0aae\u0aa4 \u0aac\u0aa4\u0abe\u0ab5\u0acb, UPI \u0a9f\u0ac7\u0a95\u0acd\u0ab8 \u0aaa\u0abe\u0a9b\u0acb \u0ab2\u0acb: \u0ab0\u0abe\u0ab9\u0ac1\u0ab2 \u0a97\u0abe\u0a82\u0aa7\u0ac0\u0a8f \u0a9f\u0acd\u0ab0\u0aae\u0acd\u0aaa\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0ab2\u0a88 PM \u0aaa\u0ab0 \u0ab8\u0abe\u0aa7\u0acd\u0aaf\u0ac1\u0a82 \u0aa8\u0abf\u0ab6\u0abe\u0aa8",
+      "link": "https://www.gujaratsamachar.com/news/national/rahul-gandhi-attacks-pm-modi-upi-mdr-charges-donald-trump-allegations-51560140234"
     },
     {
-      "title": "\u0a2e\u0a41\u0a71\u0a16 \u0a2e\u0a70\u0a24\u0a30\u0a40 \u0a2e\u0a3e\u0a28 \u0a26\u0a40 \u0a2a\u0a24\u0a28\u0a40 \u0a21\u0a3e. \u0a17\u0a41\u0a30\u0a2a\u0a4d\u0a30\u0a40\u0a24 \u0a15\u0a4c\u0a30 \u0a35\u0a71\u0a32\u0a4b\u0a02 \u0a2c\u0a3f\u0a15\u0a30\u0a2e \u0a2e\u0a1c\u0a40\u0a20\u0a40\u0a06, \u0a39\u0a30\u0a38\u0a3f\u0a2e\u0a30\u0a24 \u0a2c\u0a3e\u0a26\u0a32 \u0a05\u0a24\u0a47 \u0a16\u0a39\u0a3f\u0a30\u0a3e \u0a16\u0a3c\u0a3f\u0a32\u0a3e\u0a2b\u0a3c \u0a2e\u0a3e\u0a23\u0a39\u0a3e\u0a28\u0a40 \u0a26\u0a3e \u0a15\u0a47\u0a38 \u0a26\u0a30\u0a1c",
-      "link": "https://wishavwarta.in/gurpreet-kaur-files-complaintdefamation-case/"
+      "title": "\u0d07\u0d19\u0d4d\u0d19\u0d28\u0d46 \u0d15\u0d33\u0d3f\u0d1a\u0d4d\u0d1a\u0d3e\u0d7d \u0d38\u0d1e\u0d4d\u0d1c\u0d41 \u0d12\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d41\u0d02 \u0d2a\u0d30\u0d3e\u0d1c\u0d2f\u0d2a\u0d4d\u0d2a\u0d46\u0d1f\u0d3f\u0d32\u0d4d\u0d32, \u0d0e\u0d32\u0d4d\u0d32\u0d3e \u0d2e\u0d24\u0d4d\u0d38\u0d30\u0d19\u0d4d\u0d19\u0d33\u0d3f\u0d32\u0d41\u0d02 50-60 \u0d31\u0d7a\u0d38\u0d4d \u0d35\u0d47\u0d23\u0d02: \u0d09\u0d2a\u0d26\u0d47\u0d36\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d17\u0d3e\u0d35\u0d38\u0d4d\u0d15\u0d7c",
+      "link": "https://www.manoramaonline.com/sports/cricket/2026/09/16/sanju-samson-batting-approach-praise-sunil-gavaskar.html"
     },
     {
-      "title": "\u09ab\u09c7\u09b8\u09ac\u09c1\u0995-\u0987\u09a8\u09b8\u09cd\u099f\u09be\u0997\u09cd\u09b0\u09be\u09ae-\u09b9\u09cb\u09df\u09be\u099f\u09b8\u0985\u09cd\u09af\u09be\u09aa\u09c7 \u0986\u09b8\u099b\u09c7 \u09a8\u09a4\u09c1\u09a8 \u09b8\u09c1\u09ac\u09bf\u09a7\u09be",
-      "link": "https://timestodaybd.com/details/%E0%A6%AB%E0%A7%87%E0%A6%B8%E0%A6%AC%E0%A7%81%E0%A6%95-%E0%A6%87%E0%A6%A8%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%B9%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%9F%E0%A6%B8%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B8%E0%A7%81%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE"
+      "title": "\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4 : \u0aac\u0aa8\u0abe\u0ab8\u0a95\u0abe\u0a82\u0aa0\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0abe \u0a95\u0ac9\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0ab8\u0aae\u0abe\u0a82 \u0a8f\u0ab5\u0ac1\u0a82 \u0ab6\u0ac1\u0a82 \u0aa5\u0aaf\u0ac1\u0a82 \u0a95\u0ac7 \u0aaa\u0a95\u0acd\u0ab7\u0aa8\u0ac1\u0a82 \u0a86\u0a96\u0ac1\u0a82 \u0aae\u0abe\u0ab3\u0a96\u0ac1\u0a82 \u0a95\u0ac7\u0aae \u0ab5\u0abf\u0a96\u0ac7\u0ab0\u0ac0 \u0aa8\u0a96\u0abe\u0aaf\u0ac1\u0a82?",
+      "link": "https://www.bbc.com/gujarati/articles/c65ym3333j34o"
     },
     {
-      "title": "Delhi HC says words used by Ajeet Bharti were offensive, reserves order on anticipatory bail plea",
-      "link": "https://www.barandbench.com/news/litigation/delhi-hc-says-words-used-by-ajeet-bharti-were-offensive-reserves-order-on-anticipatory-bail-plea"
+      "title": "\u0d36\u0d2e\u0d4d\u0d2a\u0d33\u0d2a\u0d30\u0d3f\u0d27\u0d3f 25,000 \u0d30\u0d42\u0d2a\u0d2f\u0d3e\u0d2f\u0d3f; \u0d2a\u0d3f.\u0d0e\u0d2b\u0d4d \u0d06\u0d28\u0d41\u0d15\u0d42\u0d32\u0d4d\u0d2f\u0d02 51 \u0d32\u0d15\u0d4d\u0d37\u0d02 \u0d2a\u0d47\u0d7c\u0d15\u0d4d\u0d15\u0d4d \u0d15\u0d42\u0d1f\u0d3f",
+      "link": "https://www.madhyamam.com/business/personal-finance/centre-raises-pf-wage-ceiling-to-rs-25000-1555078"
     },
     {
-      "title": "\u0aaa\u0abe\u0a95\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8\u0aae\u0abe\u0a82 \u0ab2\u0abe\u0a97\u0ab6\u0ac7 \u0ab8\u0acd\u0aae\u0abe\u0ab0\u0acd\u0a9f \u0ab2\u0acb\u0a95\u0aa1\u0abe\u0a89\u0aa8! \u0ab0\u0abe\u0aa4\u0acd\u0ab0\u0ac7 8 \u0ab5\u0abe\u0a97\u0acd\u0aaf\u0abe \u0aaa\u0a9b\u0ac0 \u0ab8\u0aa8\u0acd\u0aa8\u0abe\u0a9f\u0acb, \u0a9c\u0abe\u0aa3\u0acb \u0ab8\u0ab0\u0a95\u0abe\u0ab0\u0aa8\u0acb \u0ab6\u0ac1\u0a82 \u0a9b\u0ac7 \u0aaa\u0acd\u0ab2\u0abe\u0aa8",
-      "link": "https://gujarati.abplive.com/news/world/pakistan-fuel-crisis-petroleum-smart-lockdown-new-restrictions-updates-991330"
+      "title": "Richest Person : \u0c05\u0c26\u0c3e\u0c28\u0c40\u0c28\u0c3f \u0c35\u0c46\u0c28\u0c15\u0c4d\u0c15\u0c3f\u0c28\u0c46\u0c1f\u0c4d\u0c1f\u0c3f\u0c28 \u0c1f\u0c3f\u0c15\u0c4d \u0c1f\u0c3e\u0c15\u0c4d \u0c2b\u0c4c\u0c02\u0c21\u0c30\u0c4d",
+      "link": "https://vaartha.com/national/tiktok-founder-overtakes-adani/778152/"
     },
     {
-      "title": "\u0d0e\u0d23\u0d4d\u0d23\u0d35\u0d3f\u0d32 \u0d24\u0d3e\u0d19\u0d4d\u0d19\u0d3e\u0d28\u0d3e\u0d15\u0d3e\u0d24\u0d46 \u0d2a\u0d3e\u0d15\u0d4d\u0d15\u0d3f\u0d38\u0d4d\u0d25\u0d3e\u0d28\u0d4d\u200d; \u0d06\u0d34\u0d4d\u0d1a\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d28\u0d3e\u0d32\u0d4d \u0d26\u0d3f\u0d35\u0d38\u0d02 \u0d1c\u0d4b\u0d32\u0d3f, \u0d35\u0d30\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d4d \u0d2b\u0d4d\u0d30\u0d02 \u0d39\u0d4b\u0d02 \u0d09\u0d33\u0d4d\u200d\u0d2a\u0d4d\u0d2a\u0d46\u0d1f\u0d46 '\u0d38\u0d4d\u0d2e\u0d3e\u0d30\u0d4d\u200d\u0d1f\u0d4d\u0d1f\u0d4d \u0d32\u0d4b\u0d15\u0d4d\u0d21\u0d57\u0d23\u0d4d\u200d'",
-      "link": "https://janamtv.com/81059856/"
+      "title": "India summons Pakistani diplomat after incident in Arabian Sea",
+      "link": "https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea"
     },
     {
-      "title": "\u0aa8\u0acb\u0a95\u0ab0\u0abf\u0aaf\u0abe\u0aa4\u0acb \u0aae\u0abe\u0a9f\u0ac7 \u0aae\u0acb\u0aa6\u0ac0 \u0a95\u0ac7\u0aac\u0abf\u0aa8\u0ac7\u0a9f\u0aa8\u0acb \u0aa8\u0abf\u0ab0\u0acd\u0aa3\u0aaf, EPFO \u0ab5\u0ac7\u0aa4\u0aa8 \u0aae\u0ab0\u0acd\u0aaf\u0abe\u0aa6\u0abe \u0ab5\u0aa7\u0abe\u0ab0\u0ac0\u0aa8\u0ac7 25 \u0ab9\u0a9c\u0abe\u0ab0 \u0a95\u0ab0\u0abe\u0a88, \u0a9c\u0abe\u0aa3\u0acb \u0a95\u0acb\u0aa8\u0ac7 \u0aa5\u0ab6\u0ac7 \u0aab\u0abe\u0aaf\u0aa6\u0acb",
-      "link": "https://www.gujaratsamachar.com/news/utility/epfo-wage-ceiling-raised-15000-to-25000-benefits-pf-pension-insurance-impact-94090141039"
+      "title": "Saudi Arabia LIVE updates: Houthis say they attacked Saudi's Aramco facilities in Yanbu",
+      "link": "https://www.hindustantimes.com/world-news/saudi-houthi-conflict-attack-live-updates-yemen-rebel-group-drone-mecca-us-travel-advisory-iran-war-jeddah-riyadh-israel-101789526731020.html"
     },
     {
-      "title": "IPL 2027 Mini Auction : \u0906\u092f\u092a\u0940\u090f\u0932 2027 \u092e\u093f\u0928\u0940 \u0911\u0915\u094d\u0936\u0928 3 \u0935\u0930\u094d\u0937\u093e\u0902\u0928\u0940 \u092d\u093e\u0930\u0924\u093e\u0924 \u0939\u094b\u0923\u093e\u0930, '\u0907\u092e\u094d\u092a\u0945\u0915\u094d\u091f \u092a\u094d\u0932\u0947\u0905\u0930' \u0928\u093f\u092f\u092e \u0915\u093e\u092f\u092e\u091a\u093e \u092c\u0902\u0926? \u091c\u093e\u0923\u0942\u0928 \u0918\u094d\u092f\u093e",
-      "link": "https://maharashtratimes.com/sports/cricket/iplt20/news/ipl-2027-mini-auction-will-happen-in-india-according-media-reports/articleshow/134284745.cms"
+      "title": "\u0d38\u0d1e\u0d4d\u0d1c\u0d41 \u0d0e\u0d19\u0d4d\u0d19\u0d28\u0d46 \u0d2c\u0d3e\u0d31\u0d4d\u0d31\u0d4d \u0d1a\u0d46\u0d2f\u0d4d\u0d2f\u0d41\u0d2e\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d28\u0d3f\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d4d \u0d12\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d41\u0d02 \u0d2a\u0d4d\u0d30\u0d24\u0d40\u0d15\u0d4d\u0d37\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d3e\u0d35\u0d3f\u0d32\u0d4d\u0d32; \u0d2a\u0d41\u0d15\u0d34\u0d4d\u0d24\u0d4d\u0d24\u0d3f \u0d38\u0d1e\u0d4d\u0d1c\u0d2f\u0d4d \u0d2e\u0d1e\u0d4d\u0d1c\u0d30\u0d47\u0d15\u0d4d\u0d15\u0d30\u0d4d\u200d",
+      "link": "https://www.doolnews.com/sanjay-manjrekar-praises-sanju-samson-65-141.html"
     }
   ],
   "twitter": null

@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-16 22:34:35
+# India Trending Report — 2026-09-16 23:01:57
 
 ## Google Trends (India) — top trending searches
 1. [india west indies odi squad](https://trends.google.com/trending/rss?geo=IN)
@@ -14,7 +14,7 @@
 
 ## Latest headlines by outlet
 **Times of India**
-- [UPI still free, but there's a catch: Who ultimately pays & could cash make a comeback?](https://timesofindia.indiatimes.com/business/india-business/upi-still-free-but-theres-a-catch-how-new-mdr-works-could-cash-payments-make-a-comeback/articleshow/134285783.cms)
+- [100% tariffs on India? Russia sanctions bill passed by US House; awaits Trump’s sign](https://timesofindia.indiatimes.com/business/international-business/after-senate-us-house-passes-russia-sanctions-bill-100-tariff-threat-looms-for-india/articleshow/134296683.cms)
 - [‘We’re the best credit’: Trump fumes after 1st Fed rate hike in over 3 yrs](https://timesofindia.indiatimes.com/business/international-business/were-the-best-credit-trump-calls-for-lower-us-interest-rates-after-first-fed-hike-in-3-years/articleshow/134296503.cms)
 - [Indian couple win payout after suing UK home office for 'unlawful' immigration detention](https://timesofindia.indiatimes.com/nri/other-news/failed-asylum-seeking-indian-couple-win-payout-after-suing-uk-home-office-for-being-kept-separately-in-immigration-detention/articleshow/134296573.cms)
 - [Gang uses stolen hearse to cart away ATM with Rs 12 lakh](https://timesofindia.indiatimes.com/city/chennai/gang-uses-stolen-hearse-to-cart-away-atm-with-rs-12-lakh/articleshow/134291728.cms)
@@ -62,6 +62,7 @@
 - [ಕರ್ನಾಟಕದ 768 ಪೆಟ್ರೋಲ್‌ ಬಂಕ್‌ಗಳಲ್ಲಿ ಅಳತೆ ವಂಚನೆ ಪತ್ತೆ: ಅನುಮಾನ ಬಂದಲ್ಲಿ ಗ್ರಾಹಕರು ಮಾಡಬೇಕಾದ್ದೇನು?](https://vijaykarnataka.com/news/karnataka/measurement-fraud-detected-at-768-petrol-bunks-in-karnataka-what-should-customers-do/articleshow/134292790.cms)
 
 **The Hindu**
+- [BJP MPs raise concerns over slow pace of infrastructure projects in Odisha](https://www.thehindu.com/news/national/odisha/bjp-mps-raise-concerns-over-slow-pace-of-infrastructure-projects-in-odisha/article71472679.ece)
 - [Trump lauds India's crackdown on poppy farming; lists 23 major drug transit nations](https://www.thehindu.com/news/national/trump-lauds-indias-crackdown-on-poppy-farming-lists-23-major-drug-transit-nations/article71474352.ece)
 - [Rajasthan achieves plantation target ahead of schedule](https://www.thehindu.com/news/national/rajasthan/rajasthan-achieves-plantation-target-ahead-of-schedule/article71472889.ece)
 - [Govt. cuts windfall tax on export of petrol, diesel and ATF](https://www.thehindu.com/business/govt-cuts-windfall-tax-on-export-of-petrol-diesel-and-atf/article71474189.ece)
@@ -71,7 +72,6 @@
 - [CJP to launch ‘Adivasi School Thik Karo’ campaign from Gadchiroli on Sept. 17: Dipke](https://www.thehindu.com/news/national/maharashtra/cjp-to-launch-adivasi-school-thik-karo-campaign-from-gadchiroli-on-sept-17-dipke/article71471862.ece)
 - [Lack of cleanliness and hygiene keep exporters away from Kasimedu fishing harbour](https://www.thehindu.com/news/cities/chennai/lack-of-cleanliness-and-hygiene-keep-exporters-away-from-kasimedu-fishing-harbour/article71473991.ece)
 - [Falsely quoting judges in barred online court clips is criminal conduct, says Supreme Court](https://www.thehindu.com/news/national/supreme-court-says-falsely-quoting-judges-in-barred-online-court-clips-crosses-over-from-contempt-to-crime/article71471708.ece)
-- [Death penalty for all 10 convicts in 2013 Jhiram Valley Maoist attack case](https://www.thehindu.com/news/national/chhattisgarh/death-penalty-for-all-10-convicts-in-2013-jhiram-valley-maoist-attack-case/article71472537.ece)
 
 **Livemint**
 - [US Tracking Cyber Threats Against Nearly 20 Ships Worldwide](https://www.livemint.com/news/us-tracking-cyber-threats-against-nearly-20-ships-worldwide-11789596180672.html)
@@ -100,35 +100,35 @@
 - [Uttar Pradesh | ‘ಸ್ವಯಿಚ್ಛೆಯಿಂದ ಇಸ್ಲಾಂ ಸ್ವೀಕಾರ’: ಆಯುಷ್ ಮಲಿಕ್ ರನ್ನು ಗೃಹಬಂಧನದಿಂದ ಬಿಡುಗಡೆಗೊಳಿಸಿದ ಅಲಹಾಬಾದ್ ಹೈಕೋರ್ಟ್](https://www.varthabharati.in/vishesha-varadigalu/he-voluntarily-embraced-islam-allahabad-high-court-frees-ayush-malik-from-home-confinement-2275721)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (5.2)
+- Trump (6.5)
+- Odisha (5.2)
+- India (3.9)
 - Govt (3.9)
-- Odisha (3.9)
 - Indian (2.6)
 - Centre (2.6)
 - Report (2.6)
-- India (2.6)
 - Three (2.6)
 - Rajasthan (2.6)
 - Supreme Court (2.0)
+- Russia (1.6)
 - Saudi (1.6)
 - Pakistan (1.6)
 - Nadu (1.6)
 - Gang (1.3)
-- Ladakhi (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [सिर्फ पानी पीना काफी नहीं! जानें कब शरीर के लिए इलेक्ट्रोलाइट भी जरूरी, डॉक्टर ने समझाया](https://www.aajtak.in/health/story/electrolyte-deficiency-symptoms-and-hydration-tips-tvisa-dskc-2643906-2026-09-16)
-- [A sprint, a shimmy and a sublime finish: Welcome back, Max Dowman](https://www.nytimes.com/athletic/7597806/2026/09/16/max-dowman-arsenal-ipswich-goal/)
-- [Apple M6 SoC impresses in new benchmark as it matches Apple M3 Max in multi-core test](https://www.notebookcheck.net/Apple-M6-SoC-impresses-in-new-benchmark-as-it-matches-Apple-M3-Max-in-multi-core-test.1400910.0.html)
-- [ਮੁੱਖ ਮੰਤਰੀ ਮਾਨ ਦੀ ਪਤਨੀ ਡਾ. ਗੁਰਪ੍ਰੀਤ ਕੌਰ ਵੱਲੋਂ ਬਿਕਰਮ ਮਜੀਠੀਆ, ਹਰਸਿਮਰਤ ਬਾਦਲ ਅਤੇ ਖਹਿਰਾ ਖ਼ਿਲਾਫ਼ ਮਾਣਹਾਨੀ ਦਾ ਕੇਸ ਦਰਜ](https://wishavwarta.in/gurpreet-kaur-files-complaintdefamation-case/)
-- [ফেসবুক-ইনস্টাগ্রাম-হোয়াটসঅ্যাপে আসছে নতুন সুবিধা](https://timestodaybd.com/details/%E0%A6%AB%E0%A7%87%E0%A6%B8%E0%A6%AC%E0%A7%81%E0%A6%95-%E0%A6%87%E0%A6%A8%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%B9%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%9F%E0%A6%B8%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B8%E0%A7%81%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE)
-- [Delhi HC says words used by Ajeet Bharti were offensive, reserves order on anticipatory bail plea](https://www.barandbench.com/news/litigation/delhi-hc-says-words-used-by-ajeet-bharti-were-offensive-reserves-order-on-anticipatory-bail-plea)
-- [પાકિસ્તાનમાં લાગશે સ્માર્ટ લોકડાઉન! રાત્રે 8 વાગ્યા પછી સન્નાટો, જાણો સરકારનો શું છે પ્લાન](https://gujarati.abplive.com/news/world/pakistan-fuel-crisis-petroleum-smart-lockdown-new-restrictions-updates-991330)
-- [എണ്ണവില താങ്ങാനാകാതെ പാക്കിസ്ഥാന്‍; ആഴ്ചയില്‍ നാല് ദിവസം ജോലി, വര്‍ക്ക് ഫ്രം ഹോം ഉള്‍പ്പെടെ 'സ്മാര്‍ട്ട് ലോക്ഡൗണ്‍'](https://janamtv.com/81059856/)
-- [નોકરિયાતો માટે મોદી કેબિનેટનો નિર્ણય, EPFO વેતન મર્યાદા વધારીને 25 હજાર કરાઈ, જાણો કોને થશે ફાયદો](https://www.gujaratsamachar.com/news/utility/epfo-wage-ceiling-raised-15000-to-25000-benefits-pf-pension-insurance-impact-94090141039)
-- [IPL 2027 Mini Auction : आयपीएल 2027 मिनी ऑक्शन 3 वर्षांनी भारतात होणार, 'इम्पॅक्ट प्लेअर' नियम कायमचा बंद? जाणून घ्या](https://maharashtratimes.com/sports/cricket/iplt20/news/ipl-2027-mini-auction-will-happen-in-india-according-media-reports/articleshow/134284745.cms)
+- [‘বিগ বস বাংলা’র ঘরে ক্যাপ্টেন সোনামণি। শুভেচ্ছা জানালেন প্রতীক সেন](https://www.aaroananda.com/story/entertainment-news/in-focus/sonomoni-saha-bigg-boss-captaincy-and-marriage-rumors/11019943)
+- [શીલજ હિટ એન્ડ રન કેસ: આરોપી રાજસ્થાનના ડુંગરપુરથી ઝડપાયો, મૃતકના પતિએ હાથ જોડીને માંગ્યો હતો ન્યાય](https://www.gujaratsamachar.com/news/ahmedabad/shilaj-canal-road-newlywed-woman-case-bopal-police-arrests-accused-88003549548)
+- [મોદીજી હિંમત બતાવો, UPI ટેક્સ પાછો લો: રાહુલ ગાંધીએ ટ્રમ્પનું નામ લઈ PM પર સાધ્યું નિશાન](https://www.gujaratsamachar.com/news/national/rahul-gandhi-attacks-pm-modi-upi-mdr-charges-donald-trump-allegations-51560140234)
+- [ഇങ്ങനെ കളിച്ചാൽ സഞ്ജു ഒരിക്കലും പരാജയപ്പെടില്ല, എല്ലാ മത്സരങ്ങളിലും 50-60 റൺസ് വേണം: ഉപദേശിച്ച് ഗാവസ്കർ](https://www.manoramaonline.com/sports/cricket/2026/09/16/sanju-samson-batting-approach-praise-sunil-gavaskar.html)
+- [ગુજરાત : બનાસકાંઠા જિલ્લા કૉંગ્રેસમાં એવું શું થયું કે પક્ષનું આખું માળખું કેમ વિખેરી નખાયું?](https://www.bbc.com/gujarati/articles/c65ym3333j34o)
+- [ശമ്പളപരിധി 25,000 രൂപയായി; പി.എഫ് ആനുകൂല്യം 51 ലക്ഷം പേർക്ക് കൂടി](https://www.madhyamam.com/business/personal-finance/centre-raises-pf-wage-ceiling-to-rs-25000-1555078)
+- [Richest Person : అదానీని వెనక్కినెట్టిన టిక్ టాక్ ఫౌండర్](https://vaartha.com/national/tiktok-founder-overtakes-adani/778152/)
+- [India summons Pakistani diplomat after incident in Arabian Sea](https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea)
+- [Saudi Arabia LIVE updates: Houthis say they attacked Saudi's Aramco facilities in Yanbu](https://www.hindustantimes.com/world-news/saudi-houthi-conflict-attack-live-updates-yemen-rebel-group-drone-mecca-us-travel-advisory-iran-war-jeddah-riyadh-israel-101789526731020.html)
+- [സഞ്ജു എങ്ങനെ ബാറ്റ് ചെയ്യുമെന്ന് നിങ്ങള്‍ക്ക് ഒരിക്കലും പ്രതീക്ഷിക്കാനാവില്ല; പുകഴ്ത്തി സഞ്ജയ് മഞ്ജരേക്കര്‍](https://www.doolnews.com/sanjay-manjrekar-praises-sanju-samson-65-141.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
