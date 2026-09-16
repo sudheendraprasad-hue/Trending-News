@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-16 00:02:17
+# India Trending Report — 2026-09-16 00:40:11
 
 ## Google Trends (India) — top trending searches
-1. [த்ரிஷா](https://trends.google.com/trending/rss?geo=IN)
-2. [इंग्लंड वि श्रीलंका](https://trends.google.com/trending/rss?geo=IN)
-3. [binance exchange](https://trends.google.com/trending/rss?geo=IN)
-4. [campeones cup](https://trends.google.com/trending/rss?geo=IN)
-5. [nfl schedule this week](https://trends.google.com/trending/rss?geo=IN)
-6. [vinícius júnior](https://trends.google.com/trending/rss?geo=IN)
-7. [ed sheeran](https://trends.google.com/trending/rss?geo=IN)
-8. [elche cf vs real madrid standings](https://trends.google.com/trending/rss?geo=IN)
-9. [mumbai](https://trends.google.com/trending/rss?geo=IN)
-10. [amitabh bachchan](https://trends.google.com/trending/rss?geo=IN)
+1. [സഞ്ജു സാംസണ്](https://trends.google.com/trending/rss?geo=IN)
+2. [చెల్లింపు](https://trends.google.com/trending/rss?geo=IN)
+3. [मानसून](https://trends.google.com/trending/rss?geo=IN)
+4. [भुवनेश्वर कुमार](https://trends.google.com/trending/rss?geo=IN)
+5. [समाचार मुख्य समाचार](https://trends.google.com/trending/rss?geo=IN)
+6. [த்ரிஷா](https://trends.google.com/trending/rss?geo=IN)
+7. [इंग्लंड वि श्रीलंका](https://trends.google.com/trending/rss?geo=IN)
+8. [आँचल खुराना](https://trends.google.com/trending/rss?geo=IN)
+9. [binance exchange](https://trends.google.com/trending/rss?geo=IN)
+10. [campeones cup](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Free to fee: 0.4% on UPI payments over Rs 2,000](https://timesofindia.indiatimes.com/business/india-business/free-to-fee-0-4-on-upi-payments-over-rs-2000/articleshow/134275556.cms)
 - [After meeting PM Modi, schoolmate gets land back from BJP MLA](https://timesofindia.indiatimes.com/city/mumbai/after-meeting-modi-schoolmate-gets-land-back-from-bjp-mla/articleshow/134272121.cms)
-- [CBI officer in RG Kar, Hathras cases assigned Disha Salian probe](https://timesofindia.indiatimes.com/india/cbi-officer-in-rg-kar-hathras-cases-assigned-disha-probe/articleshow/134275412.cms)
+- [Sanjukta Parashar first woman to head CRPF’s CoBRA commando unit](https://timesofindia.indiatimes.com/india/sanjukta-parashar-first-woman-to-head-crpfs-cobra-commando-unit/articleshow/134275679.cms)
 - [Samson's 57 off 22 establishes his role of preferred opener as India seal series](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/sanju-samsons-57-off-22-establishes-his-role-of-the-preferred-opener-as-india-beat-afghanistan-by-seven-wickets-to-seal-t20i-series/articleshow/134269649.cms)
 - [Meta agrees to report child-safety matters directly to Indian authorities](https://timesofindia.indiatimes.com/india/meta-agrees-to-report-csam-directly-to-indian-authorities/articleshow/134272984.cms)
 - ['Should be laughed out': T Mobile CFO on Musk's 'Starlink plan' for mobile industry](https://timesofindia.indiatimes.com/technology/tech-news/as-elon-musk-plans-to-shake-up-mobile-industry-with-starlink-t-mobile-ceo-peter-osvaldik-says-that-its-strategy-should-be-laughed-out-of-the-room/articleshow/134268655.cms)
-- [Swept away by Ganga 15 days ago, Bihar woman found in UP](https://timesofindia.indiatimes.com/india/swept-away-by-ganga-15-days-ago-bihar-woman-found-in-up/articleshow/134275518.cms)
+- [Two more Kuki-Zo women killed, farmhouses torched in Manipur](https://timesofindia.indiatimes.com/city/guwahati/two-more-kuki-zo-women-killed-farmhouses-torched-in-manipur/articleshow/134268308.cms)
+- [CBI officer in RG Kar, Hathras cases assigned Disha Salian probe](https://timesofindia.indiatimes.com/india/cbi-officer-in-rg-kar-hathras-cases-assigned-disha-probe/articleshow/134275412.cms)
 - [After Awadh Expressway fiasco, NHAI bars builder for 3 years](https://timesofindia.indiatimes.com/city/lucknow/after-e-way-develops-defects-soon-after-opening-builder-barred-maximum-of-3-yrs/articleshow/134271881.cms)
 - [Bangladesh PM was invited for Brics meet and bilateral visit: Govt](https://timesofindia.indiatimes.com/india/govt-bdesh-pm-was-invited-for-brics-meet-and-bilateral-visit/articleshow/134275436.cms)
-- [After Cong CMs give Brics dinner a miss, BJP calls decision 'partisan'](https://timesofindia.indiatimes.com/india/after-cong-cms-give-brics-dinner-a-miss-bjp-calls-decision-partisan/articleshow/134275455.cms)
 
 **NDTV**
 - [OpenAI Backs Bills In US Congress On AI, Biological Weapon Threats](https://www.ndtv.com/world-news/openai-backs-bills-in-us-congress-on-ai-biological-weapon-threats-12051945#publisher=newsstand)
@@ -49,19 +49,10 @@
 - [‘Success of our foreign policy’: Omar Abdullah on Pahalgam condemnation in BRICS New Delhi Declaration](https://www.hindustantimes.com/india-news/success-of-our-foreign-policy-omar-abdullah-on-pahalgam-condemnation-in-brics-new-delhi-declaration-101789481001060.html)
 - [Gates Foundation commits $1 billion to help build and deliver equitable AI](https://www.hindustantimes.com/india-news/gates-foundation-commits-1-billion-to-help-build-and-deliver-equitable-ai-101789485803940.html)
 
-**Vijay Karnataka**
-- [UPI Charges: 2000 ರೂ. ಮೇಲ್ಪಟ್ಟ ವಹಿವಾಟಿಗೆ ವರ್ತಕರಿಂದ ಶುಲ್ಕ ವಸೂಲಿ! ಶೇ 0.4 ರಷ್ಟು ಅನ್ವಯ; ಹೊಸ ನಿಯಮ ಪ್ರಕಟ](https://vijaykarnataka.com/business/news/upi-charges-new-rule-announced-merchants-to-levy-charges-on-transactions-exceeding-rs-2000-0-4-percent-rate-applies/articleshow/134266287.cms)
-- [`ನೋಡ್ತಾ ಇರಿ, ಏಷ್ಯಾ ಕಪ್‌ನ ಎರಡೂ ಟ್ರೋಫಿಗಳನ್ನೂ ಶೀಘ್ರವೇ ತರಿಸುತ್ತೇವೆ!': ಹೀಗಿದೆ ನೋಡಿ ಬಿಸಿಸಿಐ ಖಡಕ್ ಹೇಳಿಕೆ](https://vijaykarnataka.com/sports/cricket/news/bcci-secretary-devajit-saikia-assures-bring-home-both-asia-cup-trophies-soon/articleshow/134271120.cms)
-- [ಸಂಜು ಸ್ಯಾಮ್ಸನ್ `ಸಮಯೋಚಿತ' ಅರ್ಧಶತಕ; ಅಫ್ಘಾನಿಸ್ತಾನ ವಿರುದ್ಧ ಟಿ20 ಸರಣಿ ಜಯಿಸಿದ ಭಾರತ](https://vijaykarnataka.com/sports/cricket/news/sanju-samson-quick-fifty-india-beat-afghanistan-in-2nd-t20i-win-series/articleshow/134269388.cms)
-- [ಅಂಬಾನಿ ಗಣೇಶೋತ್ಸವದಲ್ಲಿ ಬಾಲಿವುಡ್ ಕಪಲ್ಸ್ ಕಮಾಲ್; ಎಥ್ನಿಕ್ ಲುಕ್‌ನಲ್ಲಿ ಯಾರು ಹೇಗಿದ್ದರು?](https://vijaykarnataka.com/lifestyle/fashion/bollywood-couples-antilias-ganesh-chaturthi-2026-ethnic-looks/articleshow/134261045.cms)
-- [ವಿಚಾರಣೆ ವರ್ಗಾಯಿಸಬಹುದು, ಅದೇ ಜಡ್ಜ್ ಮುಂದುವರಿಸಬೇಕೆಂದು ಆರೋಪಿ ಪಟ್ಟು ಹಿಡಿವಂತಿಲ್ಲ: ಹೈಕೋರ್ಟ್‌ ಮಹತ್ವದ ಹೇಳಿಕೆ](https://vijaykarnataka.com/news/karnataka/karnataka-high-court-clarifies-accused-cannot-insist-same-judge-to-continue-trial/articleshow/134268576.cms)
-- [BBK 13: ವುಮೆನ್ ಕಾರ್ಡ್‌ ಪ್ಲೇ ಮಾಡಿ ಕ್ಯಾಪ್ಟನ್‌ ಆದ್ರಾ ಸಂಗೀತಾ ಭಟ್? ಕಿರಣ್‌ ಶಾಸ್ತ್ರೀಗೆ ಮೋಸ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/sangeetha-bhatt-becomes-first-captain-of-bigg-boss-kannada-season-13/articleshow/134271932.cms)
-- [ಹೆಚ್ಚು ಗಂಟೆಗಳ ಕೆಲಸ ಹೃದಯಕ್ಕೆ ಅಪಾಯವೇ? ಕೆಲಸದ ಒತ್ತಡದಿಂದ ಹೃದಯಾಘಾತದ ಅಪಾಯ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/health/world-heart-day-2026-long-working-hours-heart-attack-risk/articleshow/134193727.cms)
-- [ಚಾಣಕ್ಯ ನೀತಿ: ಸಂಬಂಧಿಕರ ಮನೆಗೆ ಹೋದಾಗ ಪಾಲಿಸಬೇಕಾದ ನಿಯಮಗಳು.!](https://vijaykarnataka.com/religion/hinduism/chanakya-niti-says-do-not-do-these-mistakes-while-you-went-for-relatives-home/articleshow/134262305.cms)
-- [ಸಣ್ಣ ಜಿರಳೆಗಳ ಕಾಟಕ್ಕೆ ಬ್ರೇಕ್! ಬೇಕಿಂಗ್ ಸೋಡಾ–ಸಕ್ಕರೆ, ವಿನೆಗರ್ ಹೀಗೆ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/baking-soda-sugar-white-vinegar-spray-get-rid-baby-cockroaches-kitchen/articleshow/134257562.cms)
-- [ವಂದೇ ಮಾತರಂ 2 ಪ್ಯಾರಾಗೆ ಸೀಮಿತ: ಸರ್ಕಾರಿ ಕಾರ್ಯಕ್ರಮ ಬಹಿಷ್ಕರಿಸಿ ಎದ್ದು ಹೋದ ಶಿವಮೊಗ್ಗ BJP ಶಾಸಕ ಚನ್ನಬಸಪ್ಪ!](https://vijaykarnataka.com/news/shivamogga/vande-mataram-limited-to-2-stanzas-shivamogga-bjp-mla-channabasappa-walks-out-boycotting-government-event/articleshow/134268323.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [Ahead of central team visit, Bihar CM transfers ₹579 crore in flood relief](https://www.thehindu.com/news/national/bihar/bihar-cm-transfers-579-crore-in-relief-to-flood-affected-people/article71467155.ece)
 - [Key allies TDP, Shiv Sena back Amit Shah's statement on UCC in all NDA-ruled States](https://www.thehindu.com/news/national/key-allies-tdp-shiv-sena-back-amit-shahs-statement-on-ucc-in-all-nda-ruled-states/article71470158.ece)
 - [Bihar Cabinet approves ₹3,516 crore for Vishnupad Temple area development, Son-Falgu river link](https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-3516-crore-for-vishnupad-temple-area-development-son-falgu-river-link/article71468849.ece)
 - [Teen stabbed to death during Ganesh idol procession in Indore](https://www.thehindu.com/news/national/madhya-pradesh/teen-stabbed-to-death-during-ganesh-idol-procession-in-indore/article71468859.ece)
@@ -71,9 +62,9 @@
 - [Noida workers' protest case: Allahabad HC adjourns bail plea plearing of scribe Satyam Verma](https://www.thehindu.com/news/national/uttar-pradesh/noida-workers-protest-case-allahabad-hc-adjourns-bail-plea-plearing-of-scribe-satyam-verma/article71469983.ece)
 - [Tanker El Gaia hit in the Strait of Hormuz was operating in ‘dark mode’](https://www.thehindu.com/news/international/tanker-hit-by-projectile-near-strait-of-hormuz-was-operating-in-dark-mode/article71469903.ece)
 - [Meta to share child safety information directly with Indian agencies](https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece)
-- [Agartala-Delhi flight diverted to Lucknow after smoke warning; no injuries reported](https://www.thehindu.com/news/national/uttar-pradesh/agartala-delhi-flight-diverted-to-lucknow-after-smoke-warning-no-injuries-reported/article71469954.ece)
 
 **Livemint**
+- [Himalayan infra projects brace for a climate risk premium](https://www.livemint.com/news/himalayan-infra-climate-risk-insurance-premium-hike-nepal-bot-projects-natural-disaster-glacier-collapse-11789464834632.html)
 - [Ed Sheeran tour controversy: Finneas, Aaron Rowe quit after Macklemore is removed over Free Palestine remarks](https://www.livemint.com/news/trends/ed-sheeran-tour-controversy-finneas-aaron-rowe-quit-after-macklemore-is-removed-over-free-palestine-remarks-11789506757465.html)
 - [Taylor Swift makes first public appearance since wedding in red gingham dress at Travis Kelce’s Chiefs game](https://www.livemint.com/news/trends/taylor-swift-makes-first-public-appearance-since-wedding-in-red-gingham-dress-at-travis-kelce-s-chiefs-game-11789504969791.html)
 - [Iran war costs US military $38 billion as CBO warns of billions more in monthly expenses](https://www.livemint.com/news/us-news/iran-war-costs-us-military-38-billion-as-cbo-warns-of-billions-more-in-monthly-expenses-11789501056348.html)
@@ -83,7 +74,6 @@
 - [Kash Patel senate grilling: From Epstein files, Trump investigations to FBI hiring rules — Key flashpoints](https://www.livemint.com/news/us-news/kash-patel-senate-grilling-from-epstein-files-trump-investigations-to-fbi-hiring-rules-key-flashpoints-11789491945392.html)
 - [What  ₹17 crore gets you in Poland vs Mumbai? Indian man’s home comparison video goes viral](https://www.livemint.com/news/trends/what-17-crore-gets-you-in-poland-vs-mumbai-indian-man-s-home-comparison-video-goes-viral-11789492284947.html)
 - [Nick Reiner will not face death penalty in alleged murders of parents Rob and Michele Singer Reiner](https://www.livemint.com/news/us-news/nick-reiner-will-not-face-death-penalty-in-alleged-murders-of-parents-rob-and-michele-singer-reiner-11789486872897.html)
-- [Agartala-Delhi IndiGo flight carrying 103 passengers diverted to Lucknow after smoke warning](https://www.livemint.com/news/india/agartaladelhi-indigo-flight-carrying-103-passengers-diverted-to-lucknow-after-smoke-warning-11789490248494.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -103,32 +93,32 @@
 - Indian (6.5)
 - Congress (3.2)
 - Meta (2.6)
-- Brics (2.6)
 - Mumbai (2.6)
-- Lucknow (2.6)
 - Iran (2.6)
 - Trump (2.2)
 - Free (1.6)
 - Modi (1.6)
-- Bihar (1.6)
 - Rahul (1.6)
-- Agartala-Delhi (1.6)
-- Hathras (1.3)
+- CRPF (1.3)
+- CoBRA (1.3)
 - Samson's (1.3)
+- India (1.3)
+- Musk's (1.3)
+- Starlink (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ['ഞാൻ ഇപ്പോൾ ഷിക്കാ​ഗോയിലാണ്, പിന്നെ സർക്കാർ ചെലവിൽ അല്ല ഈ യാത്ര, കേട്ടോ'](https://www.asianetnews.com/kerala-news/ramesh-chennithala-explanation-about-usa-visit-articleshow-gfslqgn)
-- [डिलीवरी बॉय को चप्पल में देखा, शख्स ने दे दिए Adidas के नए जूते, VIDEO देख कहेंगे- वाह!](https://www.aajtak.in/trending/story/delivery-boy-slippers-man-gifts-new-adidas-shoes-video-goes-viral-tstf-dskc-2643251-2026-09-15)
-- [iPhone 18 Pro Max Delivery Delay](https://www.bhaskarenglish.in/tech-science/news/iphone-18-pro-max-delivery-delay-india-us-pre-order-139038311.html)
-- [Odisha rejects premature release of Dara Singh serving life for murder of Graham Staines, two sons](https://www.thehindu.com/news/national/odisha/odisha-rejects-premature-release-of-dara-singh-serving-life-for-murder-of-graham-staines-two-sons/article71467965.ece)
-- [ഇന്നും കട്ട്; ഭാഗിക വൈദ്യുതി നിയന്ത്രണത്തിന് സാധ്യതയെന്ന് കെഎസ്ഇബി](https://www.manoramaonline.com/news/latest-news/2026/09/15/kseb-warns-of-power-regulation-amidst-power-shortage.html)
-- [सिडनी स्वीनी के विज्ञापन के ख़िलाफ़ आईं महिला खिलाड़ी, 'खेलों में महिलाएं ऐसी दिखती हैं'](https://www.bbc.com/hindi/articles/cmx2zx9741dyo)
-- [‘He had received two invitations’: India rejects confusion over Bangladesh PM’s Brics invite](https://timesofindia.indiatimes.com/india/he-had-received-two-invitations-india-rejects-confusion-over-bangladesh-pms-brics-invite/articleshow/134260461.cms)
-- [फिर PM मोदी के मुरीद हुए INDIA अलायंस के CM, जिस नीति का विरोध कर रही कांग्रेस; उसी की वाहवाही](https://www.livehindustan.com/national/jammu-kashmir-cm-omar-abdullah-praises-pm-modi-and-central-government-over-pahalgam-condemnation-at-brics-foreign-policy-201789471586595.html)
-- [Imran Khan News : इम्रान खानला वाचवण्यासाठी क्रिकेटविश्व एकवटलं; 7 ऑस्ट्रेलियन कर्णधारांनी उचललं मोठं पाऊल](https://marathi.abplive.com/sports/cricket/imran-khan-finds-support-from-australia-7-ex-captains-make-humanitarian-plea-marathi-news-1439198)
-- [Benchmark US government bond yield hits 19-year peak as oil prices surge](https://www.aljazeera.com/economy/2026/9/15/benchmark-us-government-bond-yield-hits-19-year-peak-as-oil-prices-surge)
+- [શું છે ₹2000થી વધુના UPI પેમેન્ટ પર ચાર્જનો વિવાદ, સરકારના નવા હાથકંડાથી લોકો મુંઝાયા! કોંગ્રેસના ગંભીર દાવા](https://www.gujaratsamachar.com/news/national/what-is-the-controversy-over-charges-on-upi-payments-above-indian-rupee2000-people-are-confused-by-the-governments-new-tactics-serious-claims-of-congress-44941638451)
+- [સચિન તેંડૂલકરનો વર્લ્ડ રેકોર્ડ તૂટ્યો, ઝિમ્બાબ્વેના બેટરે ઓસ્ટ્રેલિયા સામેની મેચમાં રચ્યો ઈતિહાસ](https://www.gujaratsamachar.com/news/sports/sachin-tendulkars-world-record-broken-40-year-old-zimbabwean-brendan-taylor-creates-history-a-major-feat-against-australia-86398350444)
+- [ਚੈੱਕ ਬਾਊਂਸ ਮਾਮਲੇ ਵਿੱਚ ਰਾਜਪਾਲ ਯਾਦਵ ਨੂੰ ਸੁਪਰੀਮ ਕੋਰਟ ਤੋਂ ਰਾਹਤ; ਪੜ੍ਹੋ ਪੂਰੀ ਖ਼ਬਰ](https://wishavwarta.in/rajpal-yadav-gets-relief-from-sc-in-cheque-bounce-case/)
+- [എം.വി.ഗോവിന്ദന് ശാസന; ബഹിരാകാശത്ത് ആയുധങ്ങൾ വിന്യസിച്ചിട്ടുണ്ടെന്ന് യുഎസ് - പ്രധാന വാർത്തകൾ](https://www.manoramaonline.com/news/latest-news/2026/09/15/todays-recap-15-09-2026.html)
+- [IND vs AFG 2nd T20I 2026 live scorecard, toss winner, winning probability, result and highlights from Delhi](https://sports.yahoo.com/articles/ind-vs-afg-2nd-t20i-122533005.html)
+- ['इन पर कौन भरोसा करेगा?', SC से राजपाल को पड़ी फटकार, कर्ज चुकाने की मिली आखिरी मोहलत](https://www.aajtak.in/entertainment/bollywood-news/story/supreme-court-slams-rajpal-yadav-cheque-bounce-case-extends-time-to-pay-2-crore-loan-tmovh-rptc-2643269-2026-09-15)
+- [വൈദ്യുതി പ്രതിസന്ധി: കേരളത്തിന് ഹിമാചൽ പ്രദേശിൻ്റെ സഹായം Himachal power supply Kerala](https://www.asianetnews.com/kerala-news/himachal-pradesh-to-assist-kerala-amidst-power-crisis-articleshow-e9gx8l9)
+- [West Bengal By Elections: উপনির্বাচনের আগে সংখ্যালঘুদের বার্তা শুভেন্দুর, বললেন, ‘সুযোগ এসেছে, নন্দীগ্রাম ও রেজিনগরে আপনাদের পরীক্ষা’](https://bengali.abplive.com/district/suvendu-adhikari-asks-muslims-to-decide-if-they-are-with-bjp-government-or-not-before-nandigram-rejinagar-by-elections-1192919)
+- [‘Don't turn outer space into warzone’: China slams US deployment of weapons in space](https://timesofindia.indiatimes.com/defence/international/dont-turn-outer-space-into-warzone-china-slams-us-deployment-of-weapons-in-space/articleshow/134261321.cms)
+- [Vishwakarma Puja Exact Date: ১৭ না ১৮ সেপ্টেম্বর? এ বছর বিশ্বকর্মা পুজো কবে? জানুন সঠিক তারিখ](https://bangla.aajtak.in/dharm-religion/story/vishwakarma-puja-2026-date-17-or-18-september-know-the-exact-date-of-vishwakarma-puja-when-will-be-celebrate-vishwakarma-puja-sum-1451117-2026-09-15)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
