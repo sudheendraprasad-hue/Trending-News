@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-16 19:34:01
+# India Trending Report — 2026-09-16 20:02:19
 
 ## Google Trends (India) — top trending searches
-1. [bank merger news](https://trends.google.com/trending/rss?geo=IN)
-2. [dowjones](https://trends.google.com/trending/rss?geo=IN)
-3. [8th pay commission](https://trends.google.com/trending/rss?geo=IN)
-4. [modi ji birthday](https://trends.google.com/trending/rss?geo=IN)
-5. [xauusd](https://trends.google.com/trending/rss?geo=IN)
-6. [levante vs athletic](https://trends.google.com/trending/rss?geo=IN)
-7. [sunderland vs az alkmaar](https://trends.google.com/trending/rss?geo=IN)
-8. [gift nifty live](https://trends.google.com/trending/rss?geo=IN)
-9. [efl](https://trends.google.com/trending/rss?geo=IN)
-10. [nasdaq 100](https://trends.google.com/trending/rss?geo=IN)
+1. [fc barcelona vs racing santander lineups](https://trends.google.com/trending/rss?geo=IN)
+2. [bank merger news](https://trends.google.com/trending/rss?geo=IN)
+3. [atletico madrid](https://trends.google.com/trending/rss?geo=IN)
+4. [8th pay commission](https://trends.google.com/trending/rss?geo=IN)
+5. [modi ji birthday](https://trends.google.com/trending/rss?geo=IN)
+6. [xauusd](https://trends.google.com/trending/rss?geo=IN)
+7. [levante vs athletic](https://trends.google.com/trending/rss?geo=IN)
+8. [sunderland vs az alkmaar](https://trends.google.com/trending/rss?geo=IN)
+9. [dow jones futures](https://trends.google.com/trending/rss?geo=IN)
+10. [gift nifty live](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -20,10 +20,10 @@
 - [From Mecca's red line to the 'Gate of Tears': How US-Iran war is closing in on MBS](https://timesofindia.indiatimes.com/world/middle-east/mecca-red-line-gate-of-tears-saudi-crown-prince-mbs-houthis-iran-us-war/articleshow/134284212.cms)
 - ['Severe damage': Pak vessel limps back to harbour after collision with Indian warship](https://timesofindia.indiatimes.com/india/pak-vessel-pns-hunain-damaged-after-collision-with-indian-warship-in-north-arabian-sea-returns-to-harbour/articleshow/134291641.cms)
 - [Why Mark Zuckerberg's wife's school was shut down despite $125 million in donations,](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms)
+- [Jennifer Lopez’s $28m Bel-Air estate sold for about $34m, below asking](https://timesofindia.indiatimes.com/real-estate/news/in-2016-jennifer-lopez-bought-an-8-acre-bel-air-estate-for-28-million-seven-years-later-it-sold-for-about-34-million-8-5-million-below-its-42-5-million-ask/articleshow/134258635.cms)
 - [Trump praises PM Modi’s opium crackdown, but India stays on US drug transit list](https://timesofindia.indiatimes.com/india/trump-praises-pm-modi-for-curbing-illicit-opium-cultivation-as-india-stays-on-us-drug-transit-list/articleshow/134295296.cms)
 - [Curtain falls on US-India cultural bridge as Kennedy Center shutters](https://timesofindia.indiatimes.com/weather/us/sitar-sarod-and-shutdown-curtain-falls-on-a-us-india-cultural-bridge-as-kennedy-center-shutters/articleshow/134291523.cms)
-- [Land sold for Rs 6.95cr, sister-in-law got Rs 72l; HC orders Rs 1.01cr plus interest](https://timesofindia.indiatimes.com/business/india-business/he-sold-26-bigha-land-for-rs-6-95-crore-using-his-sister-in-laws-general-power-of-attorney-paid-her-only-rs-72-lakh-delhi-hc-orders-brother-in-law-to-give-rs-1-01-crore-more-with-8-interest/articleshow/134289314.cms)
-- [Houthis claim to have shot down Saudi F-15 jet with 'locally-made' missile - video](https://timesofindia.indiatimes.com/world/middle-east/houthis-claim-to-have-shot-down-saudi-f-15-release-video-of-missile-hit-images-of-wreckage-video/articleshow/134293834.cms)
+- [Utah couple spent 14 years saving 25.5-acre farm from development](https://timesofindia.indiatimes.com/world/us/a-utah-couple-spent-14-years-trying-to-stop-their-25-5-acre-farm-from-becoming-another-subdivision-the-land-is-now-permanently-protected-from-development-even-as-homes-spread-around-it/articleshow/134281973.cms)
 
 **NDTV**
 - [On Risk From Superintelligence, Top AI Expert's Chimpanzee-Nukes Analogy](https://www.ndtv.com/world-news/stuart-russell-dario-amodei-ai-slowdown-ai-risks-on-risk-from-superintelligence-top-ai-experts-chimpanzee-nukes-analogy-12056663#publisher=newsstand)
@@ -49,31 +49,23 @@
 - [HC orders reinstatement of Odisha judge who resigned over autistic son’s care](https://www.hindustantimes.com/india-news/hc-orders-reinstatement-of-odisha-judge-who-resigned-over-autistic-son-s-care-101789572614779.html)
 - [Trump welcomes PM Modi's efforts against opium as India among US' list of ‘major illicit drug producing countries’](https://www.hindustantimes.com/india-news/trump-welcomes-pm-modi-efforts-against-opium-as-india-among-us-list-of-major-illicit-drug-producing-countries-pakistan-101789571871956.html)
 
-**Vijay Karnataka**
-- [ಅನಂತ್‌ ನಾಗ್‌ಗೆ ʻದಾದಾಸಾಹೇಬ್‌ ಫಾಲ್ಕೆʼ ಪ್ರಶಸ್ತಿ: ಡಾ.ರಾಜ್ ಕುಮಾರ್ ಬಳಿಕ ಈ ಗೌರವ ಪಡೆದ ಕನ್ನಡದ 2ನೇ ನಟ!](https://vijaykarnataka.com/entertainment/news/actor-ananth-nag-honoured-with-dadasaheb-phalke-award/articleshow/134288718.cms)
-- [Bescom Power Cut: ಬೆಂಗಳೂರಿನ ಹೆಬ್ಬಾಳ ಸೇರಿ 50 ಬಡಾವಣೆಗಳಲ್ಲಿ ಗುರುವಾರ ಬೆಳಿಗ್ಗೆಯಿಂದ ಸಂಜೆವರೆಗೂ ವಿದ್ಯುತ್‌ ಇರಲ್ಲ!](https://vijaykarnataka.com/news/bengaluru-city/bescom-outages-power-cut-in-50-localities-including-hebbal-in-bengaluru-on-september-17-thursday/articleshow/134289486.cms)
-- [ರೇಣುಕಾಸ್ವಾಮಿ ಕೊಲೆ ಪ್ರಕರಣ: 14ನೇ ಆರೋಪಿ ಪ್ರದೂಷ್‌ ಮಾಫಿ ಸಾಕ್ಷಿಯಾಗಲು ಬೆಂಗಳೂರು ಸೆಶನ್ಸ್ ಕೋರ್ಟ್ ಮತ್ತೊಮ್ಮೆ ಆದೇಶ](https://vijaykarnataka.com/news/karnataka/renukaswamy-murder-case-court-orders-14th-accused-pradosh-be-made-an-approver-/articleshow/134294805.cms)
-- [20 ವರ್ಷಗಳ ದಾಂಪತ್ಯ ಪಯಣ; ಸೂರ್ಯ–ಜ್ಯೋತಿಕಾ ಸಂಬಂಧದಿಂದ ದಂಪತಿಗಳು ಕಲಿಯಬಹುದಾದ 5 ಪಾಠಗಳು](https://vijaykarnataka.com/lifestyle/relationship/suriya-jyothika-20th-wedding-anniversary-relationship-lessons/articleshow/134293138.cms)
-- [ಪ್ರೇಮ ವಿವಾಹವಾಗಿದ್ದ ಯುವತಿಯ ಅಪಹರಣ ಯತ್ನ; ಸಿನಿಮೀಯ ರೀತಿಯಲ್ಲಿ ಕಾರನ್ನು ಬೆನ್ನಟ್ಟಿ ಆರೋಪಿಗಳನ್ನು ಹಿಡಿದ ಸ್ಥಳೀಯರು!](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-dasarahalli-magadi-road-attempt-to-abduct-a-young-woman/articleshow/134293560.cms)
-- [ʻಎಕ್ಸೈಟ್‌ಮೆಂಟ್‌ ಇಲ್ಲ..ʼ! ʻದಾದಾಸಾಹೇಬ್‌ ಫಾಲ್ಕೆʼ ಪ್ರಶಸ್ತಿ ಬಗ್ಗೆ ಅನಂತ್‌ ನಾಗ್‌ ರಿಯಾಕ್ಷನ್](https://vijaykarnataka.com/entertainment/news/ananth-nag-dadasaheb-phalke-award-winner-first-reaction-pm-modi-tweet/articleshow/134291426.cms)
-- [ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿ ಸಿಂಹಾಸನದ ಮೇಲೆ ಗಣಪ; ಸೀರೆಯಲ್ಲಿ ಸಾನಿಯಾ, ಪಿಂಕ್ ಸೂಟ್‌ನಲ್ಲಿ ಸಾರಾ ಮಿಂಚಿಂಗ್!](https://vijaykarnataka.com/lifestyle/fashion/sara-tendulkar-pink-suit-saniya-chandok-saree-ganesh-chaturthi/articleshow/134277830.cms)
-- [2026ರ ವಿಶ್ವಕರ್ಮ ಜಯಂತಿ ಶುಭ ಮುಹೂರ್ತ, ಪೂಜೆ ವಿಧಾನ, ಮಂತ್ರ.!](https://vijaykarnataka.com/religion/festivals/vishwakarma-puja-2026-date-and-time-vishwakarma-puja-procedures-and-mantras/articleshow/134288054.cms)
-- [ಹೊಟ್ಟೆ ಉಬ್ಬರ, ನೋವು ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ! ಪೆರಿಟೋನಿಯಲ್ ಕ್ಯಾನ್ಸರ್‌ನ ಈ ಲಕ್ಷಣಗಳನ್ನು ಗುರುತಿಸುವುದು ಹೇಗೆ?](https://vijaykarnataka.com/lifestyle/health/peritoneal-cancer-symptoms-how-to-identify-bloating-pain/articleshow/134285168.cms)
-- [ಕರ್ನಾಟಕದ 768 ಪೆಟ್ರೋಲ್‌ ಬಂಕ್‌ಗಳಲ್ಲಿ ಅಳತೆ ವಂಚನೆ ಪತ್ತೆ: ಅನುಮಾನ ಬಂದಲ್ಲಿ ಗ್ರಾಹಕರು ಮಾಡಬೇಕಾದ್ದೇನು?](https://vijaykarnataka.com/news/karnataka/measurement-fraud-detected-at-768-petrol-bunks-in-karnataka-what-should-customers-do/articleshow/134292790.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [Assam’s Lok Sabha bypoll could define contours of Opposition politics in the State](https://www.thehindu.com/news/national/assam/assams-lok-sabha-bypoll-could-define-contours-of-opposition-politics-in-the-state/article71474142.ece)
+- [Maharashtra farmers hold protests, seek drought aid; doing everything possible, won’t let them suffer: CM](https://www.thehindu.com/news/national/maharashtra/maharashtra-farmers-hold-protests-seek-drought-aid-doing-everything-possible-wont-let-them-suffer-cm/article71472766.ece)
+- [Allahabad HC frees man confinedafter conversion, relationship with Muslim woman, cites Articles 21, 25](https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-frees-man-confinedafter-conversion-relationship-with-muslim-woman-cites-articles-21-25/article71472875.ece)
+- [Man shoots dead teacher in Bijnor for ‘encouraging love jihad’](https://www.thehindu.com/news/national/uttar-pradesh/man-shoots-dead-teacher-in-bijnor-for-encouraging-love-jihad/article71473689.ece)
 - [Election Commission of India not responding to concerns of Opposition: Venugopal](https://www.thehindu.com/news/national/karnataka/election-commission-of-india-not-responding-to-concerns-of-opposition-venugopal/article71473026.ece)
 - [Hog in the limelight: On Assam’s pygmy hog programme](https://www.thehindu.com/opinion/editorial/hog-in-the-limelight-on-assams-pygmy-hog-programme/article71472854.ece)
+- [Uttar Pradesh ATS arrests Tamil Nadu youth for allegedly planning terror activities](https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-ats-arrests-tamil-nadu-youth-for-allegedly-planning-terror-activities/article71474054.ece)
 - [Seminar on world peace to be held on September 20](https://www.thehindu.com/news/national/andhra-pradesh/seminar-on-world-peace-to-be-held-on-september-20/article71473676.ece)
 - [Congress demands accountability for deaths of tribal children, hooch tragedy victims in M.P.](https://www.thehindu.com/news/national/madhya-pradesh/congress-demands-accountability-for-deaths-of-tribal-children-hooch-tragedy-victims-in-mp/article71473914.ece)
 - [‘Swachhata Hi Seva-2026’ campaign kicks off today in Vizag](https://www.thehindu.com/news/national/andhra-pradesh/swachhata-hi-seva-2026-campaign-kicks-off-today-in-vizag/article71473703.ece)
-- [DMK govt. mooted heritage structure in place of King’s Barracks at Fort St. George](https://www.thehindu.com/news/national/tamil-nadu/dmkgovt-mooted-heritage-structure-in-place-of-kings-barracks-at-fort-st-george/article71473591.ece)
-- [Breakthrough in POCSO Act case against granite baron Veeramani after police identify survivor](https://www.thehindu.com/news/national/tamil-nadu/breakthrough-in-pocso-act-case-against-granite-baron-veeramani-after-police-identify-survivor/article71473642.ece)
-- [DYFI slams police recruitment notification, announces State-wide protests](https://www.thehindu.com/news/national/andhra-pradesh/dyfi-slams-police-recruitment-notification-announces-state-wide-protests/article71473267.ece)
-- [Country’s growth should be based on economic justice: Prof. Shanmugasundaram](https://www.thehindu.com/news/national/tamil-nadu/countrys-growth-should-be-based-on-economic-justice-prof-shanmugasundaram/article71473541.ece)
-- [Power cuts have become the norm in State: Anbumani Ramadoss](https://www.thehindu.com/news/national/tamil-nadu/power-cuts-have-become-the-norm-in-state-anbumani-ramadoss/article71472855.ece)
 
 **Livemint**
+- [Melania Trump has one big message for students as AI debate intensifies](https://www.livemint.com/news/us-news/melania-trump-has-one-big-message-for-students-as-ai-debate-intensifies-11789587765258.html)
+- [Charlie Kirk assassination: The security failures alleged by his family, explained](https://www.livemint.com/news/us-news/charlie-kirk-assassination-the-security-failures-alleged-by-his-family-explained-11789586732363.html)
 - [US Indictment Exposes Russian Global Assassination Network](https://www.livemint.com/news/us-news/us-indictment-exposes-russian-global-assassination-network-11789584108922.html)
 - [Gen Z learns about money from Instagram, YouTube: Entrepreneur asks banks to learn how to communicate with young people](https://www.livemint.com/news/trends/gen-z-learns-about-money-from-instagram-youtube-entrepreneur-asks-banks-to-learn-how-to-communicate-with-young-people-11789582382287.html)
 - [Trump admin’s DOGE push saw federal paid leave surge 435% as costs hit $9.5 bn in 2025, says GAO; check key findings](https://www.livemint.com/news/us-news/trump-admin-s-doge-push-saw-federal-paid-leave-surge-435-as-costs-hit-9-5-bn-in-2025-says-gao-check-key-findings-11789578576168.html)
@@ -82,8 +74,6 @@
 - [Niti Aayog VC pitches for export diversification to beat external headwinds](https://www.livemint.com/news/india/niti-aayog-vc-pitches-for-export-diversification-to-beat-external-headwinds-11789573688445.html)
 - [Centre looks to widen trusted-trader programme beyond customs facilitation](https://www.livemint.com/news/india/centre-looks-to-widen-trusted-trader-programme-beyond-customs-facilitation-11789568110009.html)
 - [Social Security September 16 payment: Who gets paid today, and 2027 COLA forecast](https://www.livemint.com/news/us-news/social-security-september-16-payment-who-gets-paid-today-and-2027-cola-forecast-11789573494396.html)
-- [Mumbai's Cafe Mondegar licence suspended: Improper food thawing, cooling lapses — what else did Maharashtra FDA flag?](https://www.livemint.com/news/india/mumbais-cafe-mondegar-licence-suspended-improper-food-thawing-cooling-lapses-what-else-did-maharashtra-fda-flag-11789572957830.html)
-- [DRI seizes 232 kg of methamphetamine in northeast crackdown](https://www.livemint.com/news/india/dri-seizes-232-kg-of-methamphetamine-in-northeast-crackdown-11789569761334.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -101,34 +91,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (5.5)
-- Trump (3.9)
+- Trump (4.2)
 - Indian (2.6)
 - Odisha (2.6)
-- Saudi (1.6)
+- Opposition (2.6)
+- Tamil Nadu (2.0)
+- Nadu (1.9)
 - Modi (1.6)
-- Nadu (1.6)
 - Centre (1.6)
-- Power (1.6)
+- Assam (1.6)
 - September (1.6)
 - Inflation (1.3)
 - Cabinet (1.3)
 - EPFO (1.3)
-- Islamabad (1.3)
-- Mecca (1.3)
+- Saudi (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Mandakini denies Dawood invited her to Sharjah cricket match](https://m.rediff.com/news/commentary/2026/sep/16/mandakini-denies-dawood-invited-her-to-sharjah-cricket-match/2c52e4738061000593956d05d8594f21)
-- [সরকারি, বন দপ্তরের জমিই ছিল মাফিয়াদের নিশানায়?](https://eisamay.com/west-bengal-news/midnapore-news/allegation-of-scam-huge-amount-government-land-in-shalbani-and-the-surrounding-areas/200543286.cms)
-- [इस्लाम धर्मियांचे पवित्र स्थळ मक्का शहराच्या दिशेने झेपावणारा ड्रोन सौदी आघाडीने पाडला](https://pudhari.news/international/saudi-coalition-intercepts-houthi-drone-mecca-oil-port-halted-nl76)
-- [త్రిష స్థానంలో నేను ఉంటే అలా చేసేదాన్ని.. నటి అంబిక సంచలన వ్యాఖ్యలు](https://www.chitrajyothy.com/2026/south-cinema/tamil/senior-actress-ambika-breaks-silence-on-vijaytrisha-krishnans-friendship-rp-75433.html)
-- [Orissa High Court reinstates judge who resigned to take care of autistic son](https://www.barandbench.com/news/litigation/orissa-high-court-reinstates-judge-who-resigned-to-take-care-of-autistic-son)
-- [Gold and silver hallmarking fees revised ahead of festive season: What jewellers and buyers need to know](https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-hallmarking-fees-revised-ahead-of-festive-season-what-jewellers-and-buyers-need-to-know-14031031.html)
-- [જામનગરના રાજપાર્કમાં થોડા વરસાદમાં જ આંગણવાડીનું પ્રાંગણ તળાવમાં ફેરવાયું](https://www.gujaratsamachar.com/news/jamnagar/anganwadi-courtyard-turned-into-a-pond-in-jamnagars-rajpark-after-just-a-few-rains-63659784259)
-- [తిరుమలలో పిలిగ్రిమ్స్ ఎక్స్‌పీరియన్స్ సెంటర్, ఎస్వీ మ్యూజియం ప్రారంభం](https://www.prajasakti.com/ap-news/amaravati/pilgrims-experience-center-sv-museum-inaugurated-in-tirumala)
-- [Durga Puja 2026 Rain Forecast: দুর্গাপুজোয় টানা বৃষ্টির সম্ভাবনা, চলতি মাসে ঘূর্ণিঝড়ও](https://bangla.aajtak.in/kolkata/story/durga-puja-2026-heavy-rainfall-expected-in-puja-days-on-october-cyclone-in-september-rpsg-1451389-2026-09-16)
-- [Exclusive: UCC पर नीतीश कुमार की वो चिट्ठी जो बढ़ाएगी BJP की मुश्किल!](https://www.abplive.com/states/bihar/bihar-politics-on-ucc-nitish-kumar-2017-letter-ucc-law-commission-jdu-stance-3189612)
+- [Rohit Sharma: রোহিত শর্মার সঙ্গে সম্পর্ক নিয়ে ফের বিস্ফোরক আইপিএলের 'লাকি মাসকট' সোফিয়া হায়াত](https://bengali.abplive.com/sports/cricket/rohit-sharma-personal-life-once-again-in-focus-as-sofia-hayat-makes-shocking-claims-1193031)
+- [Study Links Air Pollution to Death By Suicide, Suicidal Thoughts](https://www.deccanchronicle.com/lifestyle/environment/study-links-air-pollution-to-death-by-suicide-suicidal-thoughts-1987856)
+- [IPL 2027 Auction: इस बार विदेश में नहीं होगी IPL नीलामी, BCCI का बड़ा फैसला... इम्पैक्ट प्लेयर रूल भी बदलेगा?](https://www.aajtak.in/sports/cricket/story/ipl-2027-auction-india-venue-bcci-decision-impact-player-rule-tspok-dskc-2643771-2026-09-16)
+- [Ahmedabad: ગુજરાત મહિલા કોંગ્રેસ પ્રદેશ પ્રમુખના પુત્રની નકલી પાસપોર્ટ કેસમાં ગુજરાત ATS એ કરી ધરપકડ](https://gujarati.abplive.com/news/ahmedabad/ahmedabad-gujarat-ats-arrests-harikesh-patel-fake-passport-case-991316)
+- [Assam: Pathsala’s Dipjyoti Patgiri selected for postdoctoral research at NASA](https://nenow.in/north-east-news/assam/assam-pathsalas-dipjyoti-patgiri-selected-for-postdoctoral-research-at-nasa.html)
+- [VIDEO : ટેક ઓફ કરવા જતાં જ વિમાનનું ટાયર ફાટ્યું, પ્લેનમાં સર્જાઈ ભૂકંપ જેવી સ્થિતિ](https://www.gujaratsamachar.com/news/international/video-plane-tire-bursts-as-it-prepares-to-take-off-creating-earthquake-like-situation-inside-plane-42235456164)
+- [अभिजीत दीपके ने कर दिया कॉकरोच पार्टी के नए अभियान का ऐलान](https://www.livehindustan.com/national/cjp-adivashi-school-theek-karo-campaign-abhijeet-dipke-201789544587277.html)
+- [समुंदर में टकरा गए भारत और पाकिस्तान की नौसेना के जहाज, पाक को दी गई चेतावनी, उच्चायोग के प्रभारी तलब](https://www.indiatv.in/india/national/indian-navy-and-pakistani-navy-ship-collision-in-arabian-sea-mea-summons-charge-d-affaires-of-pak-high-commission-2026-09-16-1243511)
+- [Pakistan Navy vessel collides with Indian warship in Arabian Sea](https://www.thehindu.com/news/national/india-pakistan-vessel-collision-arabian-sea-protest-lodged-september-16-2026/article71471556.ece)
+- [कमर में पिस्टल-हाथ में स्नाइपर राइफल, BRICS समिट के 'रीलबाज' कॉन्स्टेबल पर तगड़ा एक्शन; कौन है दीपक बांगर?](https://navbharattimes.indiatimes.com/india/who-is-deepak-bangar-sniper-constable-making-reels-at-brics-summit-security-delhi-police-suspended-him/articleshow/134281607.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
