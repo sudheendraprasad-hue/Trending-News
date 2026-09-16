@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-16 06:41:21
+# India Trending Report — 2026-09-16 07:03:13
 
 ## Google Trends (India) — top trending searches
-1. [special session](https://trends.google.com/trending/rss?geo=IN)
-2. [श्रेयस अय्यर](https://trends.google.com/trending/rss?geo=IN)
-3. [बेटी](https://trends.google.com/trending/rss?geo=IN)
-4. [taiwan index](https://trends.google.com/trending/rss?geo=IN)
-5. [ss retail ipo](https://trends.google.com/trending/rss?geo=IN)
-6. [हार्दिक पांड्या](https://trends.google.com/trending/rss?geo=IN)
-7. [prasol chemicals share price](https://trends.google.com/trending/rss?geo=IN)
-8. [sterlite technologies share price](https://trends.google.com/trending/rss?geo=IN)
-9. [raymond share price](https://trends.google.com/trending/rss?geo=IN)
-10. [manika plastech ipo](https://trends.google.com/trending/rss?geo=IN)
+1. [వెండి](https://trends.google.com/trending/rss?geo=IN)
+2. [trisha krishnan](https://trends.google.com/trending/rss?geo=IN)
+3. [kospi index](https://trends.google.com/trending/rss?geo=IN)
+4. [special session](https://trends.google.com/trending/rss?geo=IN)
+5. [श्रेयस अय्यर](https://trends.google.com/trending/rss?geo=IN)
+6. [बेटी](https://trends.google.com/trending/rss?geo=IN)
+7. [taiwan index](https://trends.google.com/trending/rss?geo=IN)
+8. [ss retail ipo](https://trends.google.com/trending/rss?geo=IN)
+9. [हार्दिक पांड्या](https://trends.google.com/trending/rss?geo=IN)
+10. [prasol chemicals share price](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [‘Killer bahu left out of will’: What triggered Kanpur pharma trader’s murder plot](https://timesofindia.indiatimes.com/city/kanpur/killer-bahu-left-out-of-will-what-triggered-kanpur-pharma-traders-murder-plot/articleshow/134277247.cms)
 - [Birthday parties & luxury cells: Cash-for-comfort racket exposed in Ludhiana Jail](https://timesofindia.indiatimes.com/city/ludhiana/hookah-videos-birthday-parties-luxury-cells-for-sale-cash-for-comfort-racket-exposed-in-ludhiana-central-jail/articleshow/134278305.cms)
-- [Pakistan fuel prices hit record; Shehbaz ministers warn of energy crisis](https://timesofindia.indiatimes.com/world/pakistan/pakistan-ministers-warn-of-energy-crisis-shehbaz-government-struggles-as-fuel-prices-break-records/articleshow/134279190.cms)
 - [‘You are seeing a 15-year-old boy’: Samson on being dropped for Sooryavanshi](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/you-are-seeing-a-15-year-old-boy-sanju-samson-opens-up-on-being-dropped-for-vaibhav-sooryavanshi/articleshow/134278296.cms)
+- [Pakistan fuel prices hit record; Shehbaz ministers warn of energy crisis](https://timesofindia.indiatimes.com/world/pakistan/pakistan-ministers-warn-of-energy-crisis-shehbaz-government-struggles-as-fuel-prices-break-records/articleshow/134279190.cms)
 - [Mark Zuckerberg’s wife Priscilla Chan’s $125 million school to shut after 10 years](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms)
 - [‘Sia is in a lot of pain, has hidden bruises’: Gurgaon biker’s father](https://timesofindia.indiatimes.com/city/gurgaon/she-is-in-a-lot-of-pain-has-hidden-bruises-gurgaon-bikers-father-sia-to-undergo-mri-x-rays-today/articleshow/134277987.cms)
 - [NYC agrees to $60M settlement with owners of 64 seized properties; Zohran Mamdani plans TPT revival](https://timesofindia.indiatimes.com/world/us/new-york-city-agrees-to-60-million-settlement-with-owners-of-64-properties-seized-over-unpaid-taxes-and-debts-mayor-zohran-mamdani-plans-to-revive-controversial-tpt-program/articleshow/134275391.cms)
+- [‘People said a lot of things’: Goenka breaks silence on Pant’s shock LSG exit](https://timesofindia.indiatimes.com/sports/cricket/news/people-said-a-lot-of-things-sanjiv-goenka-breaks-silence-on-rishabh-pants-shock-lsg-exit/articleshow/134276252.cms)
 - [A look inside Taylor Swift-Travis Kelce's $5.35M Ohio mansion with voice-warning](https://timesofindia.indiatimes.com/real-estate/news/taylor-swift-travis-kelces-5-35m-ohio-mansion-a-peek-inside-star-couples-private-retreat-with-voice-warning/articleshow/134278740.cms)
 - ['To strengthen UPI's sustainability': RBI backs 0.4% MDR on payments above Rs 2,000](https://timesofindia.indiatimes.com/business/india-business/to-strengthen-upis-long-term-sustainability-rbi-backs-0-4-mdr-on-transactions-above-rs-2000/articleshow/134278051.cms)
-- [23-year-old Georgia mayor removed from office after misconduct allegations](https://timesofindia.indiatimes.com/world/us/at-22-jayden-williams-became-stockbridges-youngest-mayor-10-months-later-the-city-council-removed-him-after-a-10-hour-misconduct-hearing/articleshow/134266182.cms)
 
 **NDTV**
 - [Seema Pahuja: CBI Officer Leading Sushant Rajput's Ex-Manager's Death Probe](https://www.ndtv.com/india-news/seema-pahuja-cbi-officer-leading-sushant-rajputs-ex-managers-death-probe-disha-salian-death-case-rg-kar-rape-case-unnao-12052990#publisher=newsstand)
@@ -38,6 +38,7 @@
 - [Trump Has Few Good Options To Slow China's Rise As AI Superpower](https://www.ndtv.com/world-news/trump-has-few-good-options-to-slow-chinas-rise-as-ai-superpower-12052761#publisher=newsstand)
 
 **Hindustan Times**
+- [Cabinet approves 'Saral Keralam' to fast-track investment approvals, says CM Satheesan](https://www.hindustantimes.com/india-news/cabinet-approves-saral-keralam-to-fast-track-investment-approvals-says-cm-satheesan-101789540018073.html)
 - [New Zealand Parliament clears FTA with India: 'More jobs, higher pay for Kiwis'](https://www.hindustantimes.com/india-news/new-zealand-parliament-clears-fta-with-india-more-jobs-higher-pay-for-kiwis-101789539452774.html)
 - [‘Very positive step’: PhonePe, MobiKwik co-founders welcome MDR charge on UPI payments](https://www.hindustantimes.com/india-news/very-positive-step-phonepe-mobiwik-co-founders-welcome-mdr-charge-on-upi-payments-merchants-fee-rs-2000-limit-101789537941340.html)
 - ['End of day consumer pays': Ashneer Grover reacts to UPI merchant fee, says 'call it tax'](https://www.hindustantimes.com/india-news/end-of-day-consumer-pays-ashneer-grover-reacts-to-upi-merchant-fee-says-call-it-tax-101789535586250.html)
@@ -47,21 +48,30 @@
 - [Fuel pump transactions, bill and insurance payments, and more: UPI FAQs as MDR kicks in](https://www.hindustantimes.com/india-news/fuel-pump-transactions-bill-insurance-payments-more-upi-new-rules-faqs-mdr-phonepe-101789535738511.html)
 - [Bangladeshi national caught smuggling gold from Saudi inside undergarments at Delhi airport](https://www.hindustantimes.com/india-news/bangladesh-national-caught-smuggling-gold-inside-undergarments-at-delhi-airport-jeddah-saudi-101789535366944.html)
 - [Bangladesh PM Tarique Rahman received 2 India invites, we haven't heard back: MEA](https://www.hindustantimes.com/india-news/bangladesh-pm-tarique-rahman-received-2-india-invites-didnt-visit-once-mea-brics-summit-101789533258640.html)
-- [Four people killed after car collides with dumper in Rajasthan](https://www.hindustantimes.com/india-news/four-people-killed-after-car-collides-with-dumper-in-rajasthan-101789535013455.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಗ್ರಾಮ ಪಂಚಾಯಿತಿ, ವಾರ್ಡ್‌ಗಳಲ್ಲಿ 6 ಮಂದಿಯ ಗ್ಯಾರಂಟಿ ಸಮಿತಿ ರಚನೆಗೆ ರಾಜ್ಯ ಸರ್ಕಾರ ಆದೇಶ; ಸ್ಥಳೀಯ ಚುನಾವಣೆಗೆ ಸಿದ್ಧತೆ ಜೋರು](https://vijaykarnataka.com/news/karnataka/karnataka-government-orders-formation-of-6-member-guarantee-committees-at-gram-panchayat-and-ward-levels-who-is-eligible/articleshow/134279998.cms)
+- [ಭದ್ರತಾ ಆತಂಕಕ್ಕೆ ತಮಿಳುನಾಡು CM ವಿಜಯ್‌ ಲಂಡನ್‌ ಕಾರ್ಯಕ್ರಮ ರದ್ದು: ದಳಪತಿ ನೋಡಲು ನೆರೆದಿದ್ದ ನೂರಾರು ಫ್ಯಾನ್ಸ್‌ಗೆ ಬೇಸರ!](https://vijaykarnataka.com/news/world/tamilnadu-cm-vijays-london-event-cancelled-over-safety-concerns-as-hundreds-gather-to-see-him/articleshow/134278488.cms)
+- [ಕರ್ನಾಟಕದಲ್ಲಿ 3 ವರ್ಷದಿಂದ ಹೊಸ ಪಡಿತರ ಚೀಟಿ ವಿತರಣೆ ಸ್ಥಗಿತ: ಬಿಪಿಎಲ್‌ ಕಾರ್ಡ್‌ ಇಲ್ಲದೆ ಸರ್ಕಾರಿ ಸೌಲಭ್ಯ ವಂಚಿತರಾಗಿ ಬಡವರ ಅಲೆದಾಟ!](https://vijaykarnataka.com/news/chikkamagaluru/new-ration-card-distribution-halted-for-3-years-in-karnataka-rising-govt-facility-issues-for-poor/articleshow/134278177.cms)
+- [ಬಿಳಿ ಕೂದಲು ಕಪ್ಪಾಗಿಸಲು ಹೇರ್ ಡೈ ಬೇಡ! ಸೇಜ್ ಎಲೆಗಳಿಂದ ನೈಸರ್ಗಿಕ ಬಣ್ಣ ಮಾಡುವ ವಿಧಾನ](https://vijaykarnataka.com/lifestyle/beauty/sage-leaves-natural-hair-dye-white-grey-hair-at-home/articleshow/134279514.cms)
+- [Gold Rate Rise: ಇಳಿಕೆ ಹಾದಿಯಲ್ಲಿರುವ ಚಿನ್ನದ ಬೆಲೆಯಲ್ಲಿ ಇಂದು ಅಲ್ಪ ಏರಿಕೆ, ಬೆಳ್ಳಿ ಬೆಲೆ ತಟಸ್ಥ](https://vijaykarnataka.com/business/gold-silver-price/gold-rate-rise-on-september-16th-little-rise-in-gold-rate-and-silver-price-is-neutral/articleshow/134279144.cms)
+- [Bigg Boss Contestant Prathama Prasad Interview ಫ್ಲೈಟ್ ಪ್ರಯಾಣದ ಅಸಲಿ ಸತ್ಯ ಬಿಚ್ಚಿಟ್ಟ ಸ್ಪರ್ಧಿ!](https://vijaykarnataka.com/video/entertainment/bigg-boss-kannada-13-1st-week-eliminated-contestant-prathama-prasad-interview/videoshow/134277237.cms)
+- [ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿ ಸಿಂಹಾಸನದ ಮೇಲೆ ಗಣಪ; ಸೀರೆಯಲ್ಲಿ ಸಾನಿಯಾ, ಪಿಂಕ್ ಸೂಟ್‌ನಲ್ಲಿ ಸಾರಾ ಮಿಂಚಿಂಗ್!](https://vijaykarnataka.com/lifestyle/fashion/sara-tendulkar-pink-suit-saniya-chandok-saree-ganesh-chaturthi/articleshow/134277830.cms)
+- [ಉಚ್ಛಿಷ್ಟ ಗಣಪತಿ ಸ್ತೋತ್ರ| Ucchista Ganapati Stotra Lyrics In Kannada](https://vijaykarnataka.com/religion/pooja-vidhana/ucchista-ganapati-stotra-lyrics-in-kannada/articleshow/134280234.cms)
+- [ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿ ಸಿಂಹಾಸನದ ಮೇಲೆ ಗಣಪ; ಸೀರೆಯಲ್ಲಿ ಸಾನಿಯಾ, ಪಿಂಕ್ ಸೂಟ್‌ನಲ್ಲಿ ಸಾರಾ ಮಿಂಚಿಂಗ್!](https://vijaykarnataka.com/lifestyle/fashion/sara-tendulkar-pink-suit-saniya-chandok-saree-ganesh-chaturthi/articleshow/134277830.cms)
+- [ಜಯನಗರ 4th block ನಲ್ಲಿದ್ದೇವೆ, ಗುಜರಿ ವಾತಾವರಣ ಅಸಹ್ಯವಾಗುತ್ತೆ : ಮಹತ್ವದ ಕೆಲಸಕ್ಕೆ ಸಚಿವ KBG ಚಾಲನೆ](https://vijaykarnataka.com/news/bengaluru-city/minister-krishna-byre-gowda-flag-off-shift-seized-vehicles-from-police-stations/articleshow/134279784.cms)
 
 **The Hindu**
-- [7 Keralam wards face bypolls as civic representatives quit for secure jobs](https://www.thehindu.com/news/national/kerala/7-keralam-wards-face-bypolls-as-civic-representatives-quit-for-secure-jobs/article71469352.ece)
+- [SC agrees to hear a plea for standard format for election manifestos](https://www.thehindu.com/news/national/sc-agrees-to-hear-a-plea-for-standard-format-for-election-manifestos/article71471345.ece)
+- [ED raids in Kolkata, Indore in investment ‘fraud’ linked PMLA case](https://www.thehindu.com/news/national/ed-raids-in-kolkata-indore-in-investment-fraud-linked-pmla-case/article71471326.ece)
+- [Gurugram hit-and-run case: Victim says Bainsla’s arrest not enough, demands strict action](https://www.thehindu.com/news/national/haryana/gurugram-hit-and-run-case-victim-says-bainslas-arrest-not-enough-demands-strict-action/article71471365.ece)
+- [Jaishankar to visit Bhutan, hold talks with his counterpart from September 16-17](https://www.thehindu.com/news/national/jaishankar-bhutan-visit-hold-talks-with-his-counterpart-from-september-16-17/article71471379.ece)
+- [Telangana Assembly session LIVE Sept 16: Short discussion on Section 22A resumes](https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-section-22a-of-registration-act-el-nino-impact-september-16-2026-live-updates/article71471113.ece)
+- [‘AISA seeks FIR over alleged death threats to national president Neha Bora in UP](https://www.thehindu.com/news/national/uttar-pradesh/aisa-seeks-fir-over-alleged-death-threats-to-national-president-neha-bora-in-up/article71471298.ece)
 - [I’m facing health issues due to hunger strike, tour might be cancelled: Jarange](https://www.thehindu.com/news/national/maharashtra/im-facing-health-issues-due-to-hunger-strike-tour-might-be-cancelled-jarange/article71471354.ece)
+- [Rainfall to intensify in interior places, likely to keep temperatures moderate in T.N.](https://www.thehindu.com/news/cities/chennai/rainfall-to-intensify-in-interior-places-likely-to-keep-temperatures-moderate-in-tn/article71468568.ece)
+- [7 Keralam wards face bypolls as civic representatives quit for secure jobs](https://www.thehindu.com/news/national/kerala/7-keralam-wards-face-bypolls-as-civic-representatives-quit-for-secure-jobs/article71469352.ece)
 - [Heavy rain paralyses traffic in several parts of Bengaluru, four cows trapped under debris as wall collapses at Domlur](https://www.thehindu.com/news/cities/bangalore/heavy-rain-paralyses-traffic-in-several-parts-of-bengaluru/article71469716.ece)
-- [Police search DMK Minister Anbil Mahesh’s house over alleged multi-crore fraud involving private schools](https://www.thehindu.com/news/cities/Tiruchirapalli/police-search-dmk-minister-anbil-maheshs-house-over-alleged-multi-crore-fraud-involving-private-schools/article71470984.ece)
-- [ED arrests Kolkata man in land grabbing-linked PMLA case](https://www.thehindu.com/news/national/west-bengal/ed-arrests-kolkata-man-in-land-grabbing-linked-pmla-case/article71471233.ece)
-- [‘I am a TamPunj and would not live anywhere else but Chennai’](https://www.thehindu.com/news/cities/chennai/i-am-a-tampunj-and-wouldnt-live-anywhere-else-but-in-chennai/article71457895.ece)
-- [‘PM has redefined NOTA — Narendra’s Ongoing Trump Appeasement’: Congress after UPI move](https://www.thehindu.com/news/national/narendras-ongoing-trump-appeasement-congresss-dig-at-pm-on-upi-move/article71471176.ece)
-- [How BJP will celebrate Modi’s birthday: Month-long Seva Sankalp Abhiyan from September 17 to mark 25 years as administrator](https://www.thehindu.com/news/national/karnataka/bjp-to-take-up-month-long-seva-sankalp-abhiyan-from-sept-17-to-mark-modis-25-years-of-administration/article71469242.ece)
-- [Mukulam portal to ensure equal opportunities for students in entrance tests: Keralam Minister](https://www.thehindu.com/news/national/kerala/mukulam-portal-to-ensure-equal-opportunities-for-students-in-entrance-tests-keralam-minister/article71469017.ece)
-- [MLA’s niece removed from government job after revelation of being full-time PG student in medical college](https://www.thehindu.com/news/national/karnataka/doctor-removed-from-namma-clinic-in-karnataka-after-revelation-of-being-full-time-pg-student-in-medical-college-daughter-of-bagalkot-dho/article71469588.ece)
 
 **Livemint**
 - [Teen survives 2 days atop overturned boat in freezing Alaska waters, rescue video surfaces](https://www.livemint.com/news/trends/teen-survives-2-days-atop-overturned-boat-in-freezing-alaska-waters-rescue-video-surfaces-11789539724162.html)
@@ -75,9 +85,21 @@
 - [Petrol and diesel prices today, Sept 16: How much does fuel cost in Delhi, Mumbai, Bengaluru? Check here](https://www.livemint.com/news/india/petrol-and-diesel-prices-today-sept-16-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-check-here-11789524764564.html)
 - [Ed Sheeran-Macklemore ‘Free Palestine’ controversy: Here is everything that happened on the Loop Tour](https://www.livemint.com/news/us-news/ed-sheeran-macklemore-free-palestine-controversy-here-is-everything-that-happened-on-the-loop-tour-11789524196076.html)
 
-**Moneycontrol** — _unavailable_
+**Moneycontrol**
+- [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
+- [Buy Tejas Networks; target of Rs 1100: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html)
+- [Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html)
+- [Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html)
+- [Reduce Wipro; target of Rs 410: ICICI Securities](https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html)
+- [Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html)
+- [Buy Patel Engineering; target of Rs 80: ICICI Direct](https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html)
+- [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ವಂದೇ ಮಾತರಂ: ಹಾಡಲೇ ಬೇಕೆಂದಿಲ್ಲ!](https://www.varthabharati.in/nimma-ankana/vande-mataram-singing-it-isnt-mandatory-2275505)
+- [ಕಾಸರಗೋಡು: ಜಿಲ್ಲಾಧಿಕಾರಿಯಾಗಿ ಶ್ರೀಧನ್ಯಾ ಸುರೇಶ್ ಅಧಿಕಾರ ಸ್ವೀಕಾರ](https://www.varthabharati.in/kasaragod/kasaragod-sridhanya-suresh-assumes-charge-as-district-collector-2275503)
 - [ಉರ್ದು ಸೇರಿದಂತೆ ಭಾಷಾ ಶಿಕ್ಷಕರ ನೇಮಕಾತಿ; ಕೊಟ್ಟ ಮಾತಿಗೆ ಸರ್ಕಾರ ತಪ್ಪಿದರೆ ಹೋರಾಟ ತೀವ್ರ: ಸೋಲಿಡಾರಿಟಿ ಯೂತ್ ಮೂವ್ಮೆಂಟ್ ಕರ್ನಾಟಕ](https://www.varthabharati.in/recruitment-of-language-teachers-including-for-urdu-protest-to-intensify-if-the-government-reneges-on-its-promise-solidarity-youth-movement-karnataka./bangalore-city/-2275501)
 - [9/11: ಮರುಕಳಿಸಿದ ಸಂಕೇತ](https://www.varthabharati.in/gali-belaku/911-the-recurrent-symbol-2275497)
 - [ಚಿನ್ನದ ಬೆಲೆಯಲ್ಲಿ ಅಲ್ಪ ಏರಿಕೆ; ಇಂದಿನ ದರವೆಷ್ಟು?](https://www.varthabharati.in/National/gold-prices-raises-a-bit-2275496)
@@ -86,29 +108,30 @@
 - [ಅತ್ಯುನ್ನತ ಶಿಕ್ಷಣ ಕೇಂದ್ರಗಳಲ್ಲಿ ಅತಿನೀಚ ಮಟ್ಟದ ಜಾತಿ ತಾರತಮ್ಯ](https://www.varthabharati.in/charcharha/caste-discrimination-in-higher-education-institutions-2275490)
 - [ಸಚಿನ್ ತೆಂಡುಲ್ಕರ್‌ರ ದೀರ್ಘಕಾಲೀನ ದಾಖಲೆ ಮುರಿದ ಬ್ರೆಂಡನ್ ಟೇಲರ್](https://www.varthabharati.in/sports/brendan-taylor-broke-sachin-tendulkars-long-standing-record-2275488)
 - [ಕಕ್ಷೆಯಲ್ಲಿ ಶಸ್ತ್ರಾಸ್ತ್ರ ನಿಯೋಜಿಸಿದ ಅಮೆರಿಕ; ಬಾಹ್ಯಾಕಾಶದಲ್ಲೂ ಯುದ್ಧಕ್ಕೆ ಸಿದ್ಧತೆ!](https://www.varthabharati.in/international/us-arranges-weapons-in-space-for-war-beyond-earth-2275493)
-- [ಮುಹ್ಸಿನ್‌ಖಾನ್‌ರಿಂದ ಏಶ್ಯ ಕಪ್ ಟ್ರೋಫಿ ಸ್ವೀಕರಿಸದಿರಲು ಮಂಡಳಿಯ ಒಮ್ಮತದ ನಿರ್ಧಾರ: BCCI ಉಪಾಧ್ಯಕ್ಷ ರಾಜೀವ್ ಶುಕ್ಲಾ](https://www.varthabharati.in/sports/boards-unanimous-decision-not-to-accept-the-asia-cup-trophy-from-mohsin-khan-bcci-vice-president-rajeev-shukla-2275487)
-- [ಮೊಬೈಲ್ ಫೋನ್ EMI ಬಾಕಿಯಾಗಿದ್ದಕ್ಕೆ ಯುವಕನನ್ನು ಒತ್ತೆಯಾಳಾಗಿಸಿಕೊಂಡು ಬಲವಂತವಾಗಿ ಕೆಲಸ ಮಾಡಿಸಿದ ದುಷ್ಕರ್ಮಿಗಳು: ಆರೋಪ](https://www.varthabharati.in/National/miscreants-held-a-young-man-hostage-and-forced-him-to-work-over-an-outstanding-mobile-phone-emi-2275486)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Emkay Global Financial (5.0)
+- Bhutan (3.9)
+- ICICI Securities (3.0)
+- target (3.0)
 - What (2.9)
 - India (2.6)
-- Bhutan (2.6)
 - Delhi (2.6)
 - Bengaluru (2.6)
 - EAM Jaishankar (2.0)
+- Buy Bajaj Finance (2.0)
 - Saudi (1.9)
+- Jaishankar (1.9)
 - Birthday (1.6)
+- People (1.6)
 - Mecca (1.6)
-- Keralam (1.6)
-- Killer (1.3)
-- Kanpur (1.3)
-- Cash-for-comfort (1.3)
-- Pakistan (1.3)
-- Shehbaz (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [പരീക്ഷ മാറ്റിവച്ചു](https://keralakaumudi.com/kerala/information/kerala-university-1803777)
+- [After meeting PM Modi, schoolmate gets land back from BJP MLA](https://timesofindia.indiatimes.com/city/mumbai/after-meeting-modi-schoolmate-gets-land-back-from-bjp-mla/articleshow/134272121.cms)
+- [Ahaana Nimish Ravi Wedding: నటి అహానా కృష్ణని పెళ్లి చేసుకున్న ‘విశ్వనాథ్ అండ్ సన్స్’ డీఓపీ నిమిష్ రవి.. అతిథిగా హాజరైన దుల్కర్ సల్మాన్](https://telugu.samayam.com/telugu-movies/cinema-news/cinematographer-nimish-ravi-ties-the-knot-with-actress-ahaana-krishna-dulquer-salmaan-attends-wedding-ceremony/articleshow/134271792.cms)
 - [Mohun Bagan Super Giant: কীভাবে কলকাতা লিগ জিততে পারে মোহনবাগান? বুঝে নিন গোটা সমীকরণ](https://bengali.indianexpress.com/sports/how-mohun-bagan-can-win-calcutta-football-league-2026-title-scenario-12536500)
 - [திமுக மாஜிக்கள் 3 பேர் மீது வழக்கு](https://www.dinamalar.com/news/tamil-nadu-news/dmk-case-against-vin-a-raja-shekhar-babu-vasantham-karthikeyan/4323861)
 - [ஆசிய விளையாட்டுக்கு ரூ. 800 கோடி: கடந்த மூன்று ஆண்டுகளாக செலவு](https://www.dinamalar.com/news/sports-others/asiangamesindiateam800crore/4323856)
@@ -116,9 +139,6 @@
 - [பெண்கள் டி-20 தரவரிசையில்...](https://www.dinamalar.com/news/sports-cricket/cricketindiarankingwomenshreecharani/4323854)
 - [Kanpur millionaire murder: Son under scanner over calls from shooter 2 days before](https://www.indiatoday.in/cities/kanpur/story/vineet-manocha-murder-case-new-sim-calls-to-son-subrat-deepen-police-probe-ptag-2995446-2026-09-15)
 - [ग्रह परिवर्तनाचा 4 राशींना लाभ बनणार दुर्मिळ योग,भाग्य देणार साथ ! पहा तुमचे राशिभविष्य काय सांगते? Maharashtra Times।।](https://maharashtratimes.com/astro/daily-rashi-bhavishya/todays-horoscope-16-september-2026-aajache-dainik-rashi-bhavishya-daily-prediction/articleshow/134261938.cms)
-- [Dev and Suvendu Adhikari: ঘাটালের সাংসদের গণেশ পুজোর আমন্ত্রণে সাড়া মুখ্যমন্ত্রী শুভেন্দু অধিকারীর, গিয়েছিলেন কেন্দ্রীয় মন্ত্রী সুকান্ত মজুমদারও](https://bengali.abplive.com/district/chief-minister-responds-to-the-ghatal-mps-invitation-for-ganesh-puja-union-minister-sukanta-majumdar-also-attended-1192963)
-- [യുപിഐ പണമിടപാടുകള്‍ക്ക് എംഡിആർ ഏർപ്പെടുത്തുന്നത് ഒക്ടോബര്‍ 15 മുതല്‍ പ്രാബല്യത്തിൽ](https://www.reporterlive.com/topnews/national/2026/09/15/india-upi-digital-payment-fees-new-rates-to-take-effect-from-october-15)
-- [Hormuz में फिर भड़का तनाव, ईरान ने मार गिराया अमेरिका का MQ-1 ड्रोन, अब क्या करेंगे ट्रंप?](https://navbharattimes.indiatimes.com/world/middle-east/iran-irgc-shoots-down-usaf-mq-1-drone-over-strait-of-hormuz-amid-trump-threats/articleshow/134270754.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
