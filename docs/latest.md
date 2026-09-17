@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-17 23:01:43
+# India Trending Report — 2026-09-17 23:31:25
 
 ## Google Trends (India) — top trending searches
-1. [crystal palace f.c. vs lech poznań standings](https://trends.google.com/trending/rss?geo=IN)
-2. [श्रीलंका वि इंग्लंड](https://trends.google.com/trending/rss?geo=IN)
-3. [white](https://trends.google.com/trending/rss?geo=IN)
-4. [ad](https://trends.google.com/trending/rss?geo=IN)
-5. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
-6. [सारा अली खान](https://trends.google.com/trending/rss?geo=IN)
-7. [trinbago knight riders women vs guyana amazon warriors women match scorecard](https://trends.google.com/trending/rss?geo=IN)
-8. [itat ruling on tax misreporting penalty](https://trends.google.com/trending/rss?geo=IN)
-9. [beşiktaş vs marseille](https://trends.google.com/trending/rss?geo=IN)
-10. [thar 3 door facelift](https://trends.google.com/trending/rss?geo=IN)
+1. [అభిషేక్ శర్మ](https://trends.google.com/trending/rss?geo=IN)
+2. [mohammad rizwan](https://trends.google.com/trending/rss?geo=IN)
+3. [crystal palace f.c. vs lech poznań standings](https://trends.google.com/trending/rss?geo=IN)
+4. [white](https://trends.google.com/trending/rss?geo=IN)
+5. [ad](https://trends.google.com/trending/rss?geo=IN)
+6. [mcdonald's](https://trends.google.com/trending/rss?geo=IN)
+7. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
+8. [सारा अली खान](https://trends.google.com/trending/rss?geo=IN)
+9. [itat ruling on tax misreporting penalty](https://trends.google.com/trending/rss?geo=IN)
+10. [beşiktaş vs marseille](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - ['I'm staying, so is the curry': Indian-origin US lawmaker reacts to 'go home' remark](https://timesofindia.indiatimes.com/world/us/im-staying-so-is-the-curry-indian-origin-us-congressman-hits-back-at-florida-councilmans-go-home-remark/articleshow/134310720.cms)
+- [India's crude imports down 3% since August last year but bill up 18%](https://timesofindia.indiatimes.com/business/india-business/indias-crude-imports-down-3-since-august-last-year-but-bill-up-18/articleshow/134323155.cms)
 - [Flowers at 10,600ft: World’s highest twin fields unveiled in Leh](https://timesofindia.indiatimes.com/india/flowers-at-10600ft-worlds-highest-twin-fields-unveiled-in-leh/articleshow/134320977.cms)
-- [US F-16 fighter jet crashes in Michigan, bursts into flames](https://timesofindia.indiatimes.com/world/us/us-f-16-fighter-jet-crashes-in-michigan-bursts-into-flames/articleshow/134321048.cms)
 - [Abhishek Sharma's record 30-ball century powers India to 3-0 T20I series sweep](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharmas-record-30-ball-century-powers-india-to-3-0-t20i-series-sweep-vs-afghanistan/articleshow/134318394.cms)
-- [Judge Amogh Kaloti: The man who holds key to Tata dispute](https://timesofindia.indiatimes.com/business/india-business/judge-amogh-kaloti-the-man-who-holds-key-to-tata-dispute/articleshow/134321260.cms)
+- [US F-16 fighter jet crashes in Michigan, bursts into flames](https://timesofindia.indiatimes.com/world/us/us-f-16-fighter-jet-crashes-in-michigan-bursts-into-flames/articleshow/134321048.cms)
 - [New Green Card rules from September 18: Full list of categories affected](https://timesofindia.indiatimes.com/technology/tech-news/starting-september-18-new-green-card-rules-coming-into-effect-full-list-of-categories-that-are-subject-to-the-change-and-those-that-are-not/articleshow/134305577.cms)
-- [Alliance with Cong over, DMK explores possibility of 3rd front](https://timesofindia.indiatimes.com/city/chennai/kanimozhi-meets-mamata-banerjee-as-dmk-works-on-third-front/articleshow/134318664.cms)
-- [PM Modi pitches India as trusted chipmaking hub](https://timesofindia.indiatimes.com/india/pm-modi-pitches-india-as-trusted-chipmaking-hub/articleshow/134322955.cms)
+- [Judge Amogh Kaloti: The man who holds key to Tata dispute](https://timesofindia.indiatimes.com/business/india-business/judge-amogh-kaloti-the-man-who-holds-key-to-tata-dispute/articleshow/134321260.cms)
+- [EC accepts TMC split, freezes name, symbol in interim order](https://timesofindia.indiatimes.com/india/ec-accepts-tmc-split-freezes-name-symbol-in-interim-order/articleshow/134323242.cms)
+- [Semicon India 2026: PM Modi pitches India as trusted chipmaking hub](https://timesofindia.indiatimes.com/india/pm-modi-pitches-india-as-trusted-chipmaking-hub/articleshow/134322955.cms)
 - [SC raps CBSE for refusing to exempt Class VI from 3-language policy this yr](https://timesofindia.indiatimes.com/india/sc-raps-cbse-for-refusing-to-exempt-class-vi-from-3-language-policy-this-yr/articleshow/134322000.cms)
-- [Indian migrant first in UK charged over online illegal immigration ads](https://timesofindia.indiatimes.com/nri/other-news/indian-migrant-becomes-first-person-in-uk-charged-with-advertising-illegal-immigration-services-online/articleshow/134321003.cms)
 
 **NDTV**
 - [Opinion: Opinion | US Has Now Weaponised India's Russia Oil Dependence. Can New Delhi Cope?](https://www.ndtv.com/opinion/us-has-weaponised-indias-russia-oil-dependence-now-what-12059199#publisher=newsstand)
@@ -62,6 +62,8 @@
 - [ಒಂದು ವಿವಾಹ, ಒಂದೇ ಖಾದ್ಯ! ಪಾಕಿಸ್ತಾನದಲ್ಲಿ ಮದುವೆ ಊಟಕ್ಕೂ ತಟ್ಟಿದ ಇಂಧನ ಬಿಕ್ಕಟ್ಟು; ಲಾಕ್ ಡೌನ್ ಮಾದರಿಯ ಪರಿಸ್ಥಿತಿ!](https://vijaykarnataka.com/business/news/fuel-crisis-hits-wedding-feasts-in-pakistan-lockdown-like-situation/articleshow/134317204.cms)
 
 **The Hindu**
+- [On PM’s birthday, J&K CM Omar Abdullah wishes for Statehood restoration](https://www.thehindu.com/news/national/jammu-and-kashmir/on-pms-birthday-jk-cm-omar-abdullah-wishes-for-statehood-restoration/article71477428.ece)
+- [Bihar CM, other BJP leaders take part in Ashirwad Ka Diya event to mark PM’s birthday](https://www.thehindu.com/news/national/bihar/bihar-cm-other-bjp-leaders-take-part-in-ashirwad-ka-diya-event-to-mark-pms-birthday/article71477125.ece)
 - [West Bengal govt. participates in PM Modi’s birthday celebrations; life-size statue unveiled at BJP office in Kolkata](https://www.thehindu.com/news/cities/kolkata/west-bengal-govt-participates-in-pm-modis-birthday-celebrations-life-size-statue-unveiled-at-bjp-office-in-kolkata/article71476992.ece)
 - [No culture of cut-money in Bengal anymore: PM Modi](https://www.thehindu.com/news/cities/kolkata/no-culture-of-cut-money-in-bengal-anymore-pm-modi/article71477468.ece)
 - [FM Nirmala Sitharaman meets Nepalese counterpart Wagle, discusses flood recovery](https://www.thehindu.com/news/national/fm-nirmala-sitharaman-meets-nepalese-counterpart-wagle-discusses-flood-recovery/article71478365.ece)
@@ -70,8 +72,6 @@
 - [It took two to tango to set stage for September 17, 1948 in Hyderabad](https://www.thehindu.com/news/national/telangana/it-took-two-to-tango-to-set-stage-for-september-17-1948-in-hyderabad/article71473475.ece)
 - [Puthur zoo offers blueprint for relocation of zoo in Keralam’s capital: expert](https://www.thehindu.com/news/national/kerala/puthoor-zoo-a-model-for-relocation-expert/article71477916.ece)
 - [LPG agencies likely to face the heat of MDR, plan to approach government](https://www.thehindu.com/news/cities/Hyderabad/lpg-agencies-likely-to-face-the-heat-of-mdr-plan-to-approach-government/article71477655.ece)
-- [Semicon India 2026: Amid ‘weaponisation’ of supply chains, PM pitches India as a ‘trustworthy’ chipmaking destination](https://www.thehindu.com/news/national/semicon-india-2026-indias-semiconductor-ecosystem-expanding-opening-new-opportunities-says-modi/article71475696.ece)
-- [New fault lines: On Manipur’s Kuki-Zo–Naga conflict](https://www.thehindu.com/opinion/editorial/new-fault-lines-on-manipurs-kuki-zonaga-conflict/article71476964.ece)
 
 **Livemint**
 - [Trump says ‘big decision’ coming on Iran war as he prepares to meet six Gulf leaders at UN General Assembly](https://www.livemint.com/news/us-news/trump-says-big-decision-coming-on-iran-war-as-he-prepares-to-meet-six-gulf-leaders-at-un-general-assembly-11789680832470.html)
@@ -100,35 +100,35 @@
 - [ಅಫ್ಘಾನಿಸ್ತಾನದ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ 127 ರನ್ ಗಳ ಭರ್ಜರಿ ಜಯ; 3–0 ಅಂತರದಲ್ಲಿ ಸರಣಿ ಕ್ಲೀನ್‌ ಸ್ವೀಪ್‌](https://www.varthabharati.in/sports/massive-127-run-win-for-india-against-afghanistan-series-cleansweep-at-30-margin-2275956)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (6.8)
+- India (5.5)
 - Delhi (4.5)
 - PM Modi (4.0)
 - September (2.6)
 - CBSE (2.6)
 - Opinion (2.6)
-- Indian (1.9)
+- India's (1.9)
 - Class (1.6)
 - Russian (1.6)
 - Mamata (1.6)
 - Assam (1.6)
 - Bengal (1.6)
+- August (1.3)
 - Flowers (1.3)
 - World (1.3)
-- Michigan (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Pakistan Army માટે અમેરિકન Drone! Powerusની ડીલમાં સામે આવ્યું ટ્રમ્પ કનેક્શન](https://www.gujaratfirst.com/international/powerus-pakistan-drone-deal-gujarat-first-digital/339801/)
-- [യമനിൽ സംഘർഷം രൂക്ഷം: നിരവധി കുട്ടികൾ കടുത്ത ദുരിതത്തിൽ](https://www.vaticannews.va/ml/world/news/2026-09/yemen-internal-conflict-children-at-risk-unicef-united-states.html)
-- [भारत-अफगानिस्तान का तीसरा टी20 'फ्री' में कब, कहां और कैसे देखें लाइव?](https://www.abplive.com/sports/cricket/how-to-watch-india-vs-afghanistan-3rd-t20i-live-in-free-know-live-streaming-details-3190216)
-- [‘മുപ്പത്തിയാറ് വര്‍ഷമായി ഈ കേസിന് പിന്നില്‍’; നൂറു ശതമാനം നീതി ലഭിച്ചെന്ന് പരാതിക്കാരൻ](https://www.manoramanews.com/kerala/latest/2026/09/17/former-dgp-tomin-j-thachankari-sentenced-four-years-jail-disproportionate-assets-case.html)
-- [Quote of the day by Stephen Hawking: "We are just an advanced breed of monkeys on a minor planet of…"](https://timesofindia.indiatimes.com/science/quote-of-the-day-by-stephen-hawking-we-are-just-an-advanced-breed-of-monkeys-on-a-minor-planet-of/articleshow/134309486.cms)
-- [Sanju Samson: संजू सॅमसनच्या सातत्यावर प्रश्न विचारणाऱ्यांनी हे सत्य नक्की वाचा](https://marathi.asianetnews.com/sports/cricket/sanju-samson-consistency-issues-and-the-truth-behind-his-cricket-career/articleshow-iyw5ek4)
-- ["वैभवला आणखी १० सामने बसवा...", माजी खेळाडूचा आगळावेगळा सल्ला; म्हणाला, "संजू सॅमसनला..."](https://www.loksatta.com/krida/former-indian-cricketer-on-team-india-opening-combination-abhishek-sharma-vaibhav-sooryavanshi-sanju-samson-amd-2000-6141584/)
-- [மோடிக்கு வாழ்த்து... பெரியாருக்கு புகழ்ச்சி... வைரலாகும் அண்ணாமலை ட்வீட்..!](https://kumudam.com/annamalai-wishes-pm-modi-praises-periyar-birthday-tweets)
-- [Supreme Court Again Asks CBSE To Consider Exempting Present Class 6 Students From 3-Language Policy](https://www.livelaw.in/top-stories/supreme-court-asks-cbse-to-reconsider-relaxation-of-3-language-policy-mandate-for-class-6-students-550509)
-- [வானிலை முன்னறிவிப்பு: நீலகிரி, கோவையில் கனமழைக்கு வாய்ப்பு](https://www.hindutamil.in/news/tamilnadu/weather-update-tomorrow-heavy-rain-chances-in-nilgiris-coimbatore-district)
+- [हनुमान अंश का बॉक्स ऑफिस पर विस्फोट! 300 करोड़ के पार कमाई, बाबा के चमत्कार के आगे फेल बॉलीवुड फिल्में](https://www.aajtak.in/entertainment/bollywood-news/story/hanuman-ansh-crossed-300-crore-worldwide-box-office-record-breaking-earning-shobhinaw-satya-part-2-tmova-dskc-2644954-2026-09-17)
+- [Bank Merger: SBI, PNB আর Bank of Baroda-তে মিলেমিশে যাবে বাকি ৯টি ব্যাঙ্ক? কী হবে গ্রাহকদের?](https://tv9bangla.com/business/bank-merger-fact-check-will-9-public-sector-banks-merge-with-sbi-pnb-and-bank-of-baroda-1347064.html)
+- [அமெரிக்க ஃபெடரல் வங்கி வட்டி உயர்வு: இந்தியா எதிர்கொள்ளும் சவால்கள் என்னென்ன?](https://www.hindutamil.in/news/business/us-fed-rate-hike-impacts-on-india-s-rupee-markets-and-rbi-explained)
+- [अजीत अगरकर के कॉन्ट्रैक्ट की उल्टी गिनती शुरू... BCCI AGM से पहले बड़ा सवाल](https://www.aajtak.in/sports/cricket/story/bcci-agm-2026-icc-representative-ipl-governing-council-ajit-agarkar-bmsp-dskc-2644956-2026-09-17)
+- [ટીમ ઈન્ડિયાના નવા ચીફ સિલેકટરની રેસમાં આ ગુજરાતી દિગ્ગજનું નામ! અજિત અગરકરની વિદાય નક્કી](https://www.gujaratsamachar.com/news/sports/this-gujarati-legends-name-in-the-race-for-team-indias-new-chief-selector-ajit-agarkars-departure-is-certain-76698947772)
+- [“விஜய் சேதுபதி பேசுவதால் அரசியல் மாறிவிடாது” - தவெக எம்எல்ஏ கனிமொழி](https://www.hindutamil.in/news/tamilnadu/tvk-mla-kanimozhi-criticize-about-actor-vijay-sethupathis-political-talk)
+- [సీఎం రేవంత్ ఆర్డర్స్.. కేసీఆర్ ఫాం హౌస్ భూఆక్రమణలపై రంగంలోకి రెవెన్యూ శాఖ](https://www.v6velugu.com/inspection-begins-into-the-kcr-erravalli-farmhouse-land-issue)
+- [नवोदय स्कूल के बहाने हिंदी का विरोध कर रही थी थलपति विजय की सरकार, SC ने फटकारा](https://www.livehindustan.com/national/hindi-cannot-be-excluded-from-tamil-nadu-supreme-court-reprimands-vijay-government-201789643819212.html)
+- [India to impose controversial fee for UPI instant payments: Who benefits?](https://www.aljazeera.com/features/2026/9/17/india-to-impose-controversial-fee-for-upi-instant-payments-who-benefits)
+- [ભારતીય મૂળના મહાઠગે ટેલર સ્વિફ્ટના પતિ સહિત 64 અમીરોને અબજોનો ચૂનો લગાડ્યો! હવે અમેરિકામાં 11 વર્ષની જેલ](https://www.gujaratsamachar.com/news/international/indian-origin-grand-swindler-swindled-64-rich-people-including-taylor-swifts-husband-out-of-billions-now-11-years-in-prison-in-america-76735045058)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
