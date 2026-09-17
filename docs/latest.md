@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-17 00:40:34
+# India Trending Report — 2026-09-17 01:02:37
 
 ## Google Trends (India) — top trending searches
-1. [free](https://trends.google.com/trending/rss?geo=IN)
-2. [india vs zimbabwe](https://trends.google.com/trending/rss?geo=IN)
-3. [ldu quito vs palmeiras](https://trends.google.com/trending/rss?geo=IN)
-4. [asian games](https://trends.google.com/trending/rss?geo=IN)
-5. [today weather](https://trends.google.com/trending/rss?geo=IN)
-6. [conmebol sudamericana](https://trends.google.com/trending/rss?geo=IN)
-7. [विश्वकर्मा पूजा](https://trends.google.com/trending/rss?geo=IN)
-8. [tamil](https://trends.google.com/trending/rss?geo=IN)
-9. [weather today](https://trends.google.com/trending/rss?geo=IN)
-10. [weather meerut](https://trends.google.com/trending/rss?geo=IN)
+1. [iqoo 16](https://trends.google.com/trending/rss?geo=IN)
+2. [నరేష్](https://trends.google.com/trending/rss?geo=IN)
+3. [रवि किशन](https://trends.google.com/trending/rss?geo=IN)
+4. [nikkei index](https://trends.google.com/trending/rss?geo=IN)
+5. [nikkei 225](https://trends.google.com/trending/rss?geo=IN)
+6. [கூட்டுறவு](https://trends.google.com/trending/rss?geo=IN)
+7. [india vs zimbabwe](https://trends.google.com/trending/rss?geo=IN)
+8. [দেব](https://trends.google.com/trending/rss?geo=IN)
+9. [free](https://trends.google.com/trending/rss?geo=IN)
+10. [17 september 2026](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [100% tariffs on India? Russia sanctions bill passed by US House; awaits Trump’s assent](https://timesofindia.indiatimes.com/business/international-business/after-senate-us-house-passes-russia-sanctions-bill-100-tariff-threat-looms-for-india/articleshow/134296683.cms)
 - ['Very political': Trump fumes after 1st Fed rate hike in over 3 years](https://timesofindia.indiatimes.com/business/international-business/were-the-best-credit-trump-calls-for-lower-us-interest-rates-after-first-fed-hike-in-3-years/articleshow/134296503.cms)
 - [SC pulls up govt for 'denying' disabled soldiers their benefits](https://timesofindia.indiatimes.com/india/sc-pulls-up-govt-for-denying-disabled-soldiers-their-benefits/articleshow/134296945.cms)
+- [‘God-gifted talent’: Rashid Khan on Sooryavanshi’s skill rarely seen at 15 | Exclusive](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/he-is-a-god-gifted-talent-rashid-khan-on-vaibhav-sooryavanshi-and-the-skill-that-is-hardly-seen-at-such-a-young-age-exclusive/articleshow/134292874.cms)
 - [Rape convict Ram Rahim returns to Sunaria jail after 21-day furlough](https://timesofindia.indiatimes.com/city/chandigarh/ram-rahim-returns-to-sunaria-jail-after-21-day-furlough/articleshow/134295680.cms)
-- [Never met, didn’t know Disha Salian: Shiv Sena (UBT) MLA Aaditya Thackeray](https://timesofindia.indiatimes.com/city/mumbai/never-met-didnt-know-disha-salian-aaditya/articleshow/134291840.cms)
 - [Why Mark Zuckerberg's wife's school was shut down despite $125 million in donations,](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms)
+- [Never met, didn’t know Disha Salian: Shiv Sena (UBT) MLA Aaditya Thackeray](https://timesofindia.indiatimes.com/city/mumbai/never-met-didnt-know-disha-salian-aaditya/articleshow/134291840.cms)
 - [Govt lowers export levies on petrol, diesel and aviation turbine fuel](https://timesofindia.indiatimes.com/business/india-business/govt-lowers-export-levies-on-petrol-diesel-and-aviation-turbine-fuel-amid-fortnightly-review/articleshow/134296226.cms)
 - [At halfway mark of third term, PM Modi to hold 'Chintan Shivir'](https://timesofindia.indiatimes.com/india/at-halfway-mark-of-third-term-pm-modi-to-hold-chintan-shivir/articleshow/134296314.cms)
-- [Hospitals could be charging 2,841% higher on commonly used consumables](https://timesofindia.indiatimes.com/india/hospitals-could-be-charging-you-2841-higher-on-commonly-used-consumables/articleshow/134296969.cms)
-- [Indian couple win payout after suing UK home office for 'unlawful' immigration detention](https://timesofindia.indiatimes.com/nri/other-news/failed-asylum-seeking-indian-couple-win-payout-after-suing-uk-home-office-for-being-kept-separately-in-immigration-detention/articleshow/134296573.cms)
+- [From ‘Ankur’ to ‘Malgudi Days’, Anant Nag’s five-decade journey earns Phalke honour](https://timesofindia.indiatimes.com/india/from-ankur-to-malgudi-days-anant-nags-five-decade-journey-earns-phalke-honour/articleshow/134289079.cms)
 
 **NDTV**
 - [Factbox: AI Rivalry Hangs Over Trump-Xi Talks](https://www.ndtv.com/world-news/factbox-ai-rivalry-hangs-over-trump-xi-jinping-talks-12057042#publisher=newsstand)
@@ -38,7 +38,7 @@
 - [On Risk From Superintelligence, Top AI Expert's Chimpanzee-Nukes Analogy](https://www.ndtv.com/world-news/stuart-russell-dario-amodei-ai-slowdown-ai-risks-on-risk-from-superintelligence-top-ai-experts-chimpanzee-nukes-analogy-12056663#publisher=newsstand)
 
 **Hindustan Times**
-- [25 years of Modi: The making of a political force](https://www.hindustantimes.com/india-news/25-years-of-modi-the-making-of-a-political-force-101789583959262.html)
+- [PM Modi turns 76: The making of India’s longest-serving prime minister over 25 years](https://www.hindustantimes.com/india-news/25-years-of-modi-the-making-of-a-political-force-101789583959262.html)
 - [Arabian Sea face-off: India protests after Pak warship collides with vessel](https://www.hindustantimes.com/india-news/arabian-sea-face-off-india-protests-after-pak-warship-collides-with-vessel-101789579394895.html)
 - [Odisha: Three rescued orangutans anaemic; DNA tests planned to trace their origin](https://www.hindustantimes.com/india-news/odisha-three-rescued-orangutans-anaemic-dna-tests-planned-to-trace-their-origin-101789580296876.html)
 - [Pakistan summons Indian diplomat after New Delhi lodges strong protest over naval vessel collision](https://www.hindustantimes.com/india-news/pakistan-summons-indian-diplomat-after-new-delhi-lodges-strong-protest-over-naval-vessel-collision-101789578001530.html)
@@ -62,6 +62,7 @@
 - [ರೇಣುಕಾಸ್ವಾಮಿ ಕೊಲೆ ಪ್ರಕರಣ: 14ನೇ ಆರೋಪಿ ಪ್ರದೂಷ್‌ ಮಾಫಿ ಸಾಕ್ಷಿಯಾಗಲು ಬೆಂಗಳೂರು ಸೆಶನ್ಸ್ ಕೋರ್ಟ್ ಮತ್ತೊಮ್ಮೆ ಆದೇಶ](https://vijaykarnataka.com/news/karnataka/renukaswamy-murder-case-court-orders-14th-accused-pradosh-be-made-an-approver-/articleshow/134294805.cms)
 
 **The Hindu**
+- [Government functionary questions Rahul's criticism of UPI charges, says Congress MPs in panel gave nod](https://www.thehindu.com/news/national/government-functionary-questions-rahuls-criticism-of-upi-charges-says-congress-mps-in-panel-gave-nod/article71475118.ece)
 - [Meenakshi Sundareswarar temple kumbabishekam begins](https://www.thehindu.com/news/cities/Madurai/meenakshi-sundareswarar-temple-consecration-ceremony-kumbhabhishekam-september-17-2026/article71475098.ece)
 - [Govt. cuts windfall tax on export of petrol, diesel and ATF](https://www.thehindu.com/business/govt-cuts-windfall-tax-on-export-of-petrol-diesel-and-atf/article71474189.ece)
 - [J&K MLAs decry 18% representation to Kashmir valley in UT officers’ list](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-mlas-decry-18-representation-to-kashmir-valley-in-ut-officers-list/article71472329.ece)
@@ -71,10 +72,10 @@
 - [Trump lauds India's crackdown on poppy farming; lists 23 major drug transit nations](https://www.thehindu.com/news/national/trump-lauds-indias-crackdown-on-poppy-farming-lists-23-major-drug-transit-nations/article71474352.ece)
 - [Rajasthan achieves plantation target ahead of schedule](https://www.thehindu.com/news/national/rajasthan/rajasthan-achieves-plantation-target-ahead-of-schedule/article71472889.ece)
 - [Three rescued orangutans in Odisha suffering from anaemia: Officials](https://www.thehindu.com/news/national/odisha/three-rescued-orangutans-in-odisha-suffering-from-anaemia-officials/article71474169.ece)
-- [Rajasthan urban local body elections: Candidates for mayors, chairpersons file nominations](https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-elections-candidates-for-mayors-chairpersons-file-nominations/article71474170.ece)
 
 **Livemint**
-- [US House passes sweeping Russia sanctions bill, sending it to Trump – What it means for tariffs on India?](https://www.livemint.com/news/us-news/us-house-passes-sweeping-russia-sanctions-bill-sending-it-to-trump-what-it-means-for-tariffs-on-india-11789603677327.html)
+- [India Inc is 'prepared for any scenario' on US tariffs, but they can't be permanent: CII chief Mukundan](https://www.livemint.com/news/india-inc-is-prepared-for-any-scenario-on-us-tariffs-but-they-cant-be-permanent-cii-chief-mukundan-11789568004459.html)
+- [US House passes Russia sanctions bill, sending it to Trump – What it means for tariffs on India?](https://www.livemint.com/news/us-news/us-house-passes-sweeping-russia-sanctions-bill-sending-it-to-trump-what-it-means-for-tariffs-on-india-11789603677327.html)
 - [Zero-MDR gave banks no return on UPI merchant onboarding costs: Ex-DFS secretary M. Nagaraju](https://www.livemint.com/news/india/zeromdr-gave-banks-no-return-on-upi-merchant-onboarding-costs-ex-dfs-secretary-m-nagaraju-11789562151509.html)
 - [Asia at Risk of Unrest as El Niño, War Threaten Food Supplies](https://www.livemint.com/news/world/asia-at-risk-of-unrest-as-el-ni-o-war-threaten-food-supplies-11789601010794.html)
 - [US Tracking Cyber Threats Against Nearly 20 Ships Worldwide](https://www.livemint.com/news/us-tracking-cyber-threats-against-nearly-20-ships-worldwide-11789596180672.html)
@@ -83,7 +84,6 @@
 - [US Indictment Exposes Russian Global Assassination Network](https://www.livemint.com/news/us-news/us-indictment-exposes-russian-global-assassination-network-11789584108922.html)
 - [Gen Z learns about money from Instagram, YouTube: Entrepreneur asks banks to learn how to communicate with young people](https://www.livemint.com/news/trends/gen-z-learns-about-money-from-instagram-youtube-entrepreneur-asks-banks-to-learn-how-to-communicate-with-young-people-11789582382287.html)
 - [Trump admin’s DOGE push saw federal paid leave surge 435% as costs hit $9.5 bn in 2025, says GAO; check key findings](https://www.livemint.com/news/us-news/trump-admin-s-doge-push-saw-federal-paid-leave-surge-435-as-costs-hit-9-5-bn-in-2025-says-gao-check-key-findings-11789578576168.html)
-- [Laid-off man with home loan worries about managing EMIs: ‘One email puts your entire life into uncertainty’](https://www.livemint.com/news/trends/laidoff-man-with-home-loan-worries-about-managing-emis-one-email-puts-your-entire-life-into-uncertainty-11789578554175.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -101,34 +101,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - Trump (9.4)
-- India (6.5)
+- India (8.1)
 - Odisha (5.2)
 - Govt (3.9)
 - Russia (2.9)
-- Indian (2.6)
 - Three (2.6)
-- Rajasthan (2.6)
 - US House (2.0)
-- Modi (1.6)
+- PM Modi (2.0)
+- Days (1.6)
 - Pakistan (1.6)
 - Risk (1.6)
+- God-gifted (1.3)
+- Sooryavanshi (1.3)
+- Exclusive (1.3)
 - Rape (1.3)
-- Sunaria (1.3)
-- Never (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [400 साल पुराना रहस्यमयी मंदिर, जहां सूरज ढलते ही जंगल जाना है मना! सिद्धार्थ-तमन्ना की फिल्म से क्या है कनेक्शन?](https://www.aajtak.in/religion/news/story/bihar-van-devi-temple-bihta-patna-history-folk-tale-siddharth-malhotra-tamannaah-bhatia-the-vvaan-movie-tvisg-dskc-2643260-2026-09-16)
+- ['एक्सप्रेसवे प्रदेश' कहे जाने वाले यूपी के एक्सप्रेसवे की कई सड़कें क्यों दम तोड़ रही हैं?](https://www.bbc.com/hindi/articles/cy8z564qzzlo)
+- [నటుడు అనంత్ నాగ్‌కు దాదాసాహెబ్ ఫాల్కే అవార్డు.. ప్రధాని మోదీ ప్రశంసలు](https://www.chitrajyothy.com/2026/miscellaneous/anant-nag-dadasaheb-phalke-award-2024-pm-modi-congratulates-rcb-75448.html)
+- [హెచ్‌ఐవీ విజృంభణ.. ఆ దేశంలో నేషనల్‌ ఎమర్జెన్సీ ప్రకటన](https://www.eenadu.net/telugu-news/world/fiji-hiv-emergency-one-in-60-people-now-have-the-virus/0801/126167347)
+- [દિગ્ગજ અભિનેતા અનંત નાગને મળશે દાદાસાહેબ ફાળકે ઍવૉર્ડ, PM મોદીએ પાઠવ્યા અભિનંદન](https://www.gujaratsamachar.com/news/entertainment/veteran-actor-anant-nag-dadasaheb-phalke-award-2024-72nd-national-film-awards-kevadia-19386423516)
+- [सोने की खदान बना कब्रिस्तान... 24 घंटे में निकली 60 लाशें, सूडान में हुआ बड़ा हादसा](https://www.livehindustan.com/international/gold-mine-collapsed-in-southern-sudan-killing-60-people-201789561735722.html)
+- [Anant Nag to receive Dadasaheb Phalke Award on Sept 22; PM Modi congratulates actor](https://www.aninews.in/news/entertainment/bollywood/anant-nag-to-receive-dadasaheb-phalke-award-on-sept-22-pm-modi-congratulates-actor20260916181326/)
 - [ABP Majha Top Headlines : ABP माझा टॉप 10 हेडलाईन्स | 16 सप्टेंबर 2026 | बुधवार](https://marathi.abplive.com/news/maharashtra/abp-majha-top-headlines-21-september-2026-maharashtra-ganesh-ustav-maratha-protest-mumbai-politics-update-marathi-news-1439319)
 - [WPL auction to be held on October 28 in Kochi](https://www.cricbuzz.com/cricket-news/140190/wpl-auction-to-be-held-on-october-28-in-kochi)
 - [VIDEO| સુરેન્દ્રનગર: તરણેતરના મેળામાં 'લાડુ સ્પર્ધા', 30 મિનિટમાં 28 લાડુ આરોગીને વિંછીયાના બળવંતભાઈ બન્યા પ્રથમ વિજેતા](https://www.gujaratsamachar.com/news/surendranagar/tarnetar-fair-laddoo-eating-competition-balwantbhai-raghvani-winner-61002659545)
-- [Venus may have swallowed its own moon](https://www.sciencedaily.com/releases/2026/09/260915232122.htm)
-- [১৭ না ১৮ সেপ্টেম্বর, কবে বিশ্বকর্মা পুজো? টানা চারদিনই কি বন্ধ স্কুল-কলেজ?](https://bengali.indianexpress.com/west-bengal/vishwakarma-puja-2026-four-day-holiday-west-bengal-schools-colleges-12539615)
-- [दिशा सालियन प्रकरणात सीबीआय एफआयआरनंतर राजकीय भूकंप! आदित्य ठाकरेंचे नाव चर्चेत; आदित्य ठाकरेंची पहिली प्रतिक्रिया](https://www.loksatta.com/maharashtra/aaditya-thackeray-reaction-disha-salian-death-case-cbi-fir-probe-marathi-news-sgk-96-6140103/)
-- [ടി20 റാങ്കിങ്; മുന്നേറി സഞ്ജു, തലപ്പത്ത് അഭിഷേകും ഇഷാൻ കിഷനും, കുതിപ്പുമായി ബുംറ](https://www.madhyamam.com/sports/cricket/ishan-kishan-tops-icc-t20-rankings-as-indian-stars-make-big-gains-1555101)
-- [భారత యుద్ధ నౌకను ఢీకొట్టిన పాకిస్థాన్... అరేబియా సముద్రంలో చైనా గ్రే జోన్ వ్యూహాలు](https://telugu.samayam.com/latest-news/india-news/indian-navy-war-ship-hit-by-pakistan-vessel-how-china-grey-zone-tatics-entering-arbian-sea/articleshow/134287795.cms)
-- [KCR Family Assets: కేసీఆర్ ఫ్యామిలీ భూముల వివరాలు, ఎవరి పేరిట ఎన్ని ఎకరాలు- సభలో వెల్లడించిన సీఎం రేవంత్ రెడ్డి](https://telugu.abplive.com/telangana/hyderabad/telangana-cm-revanth-reddy-exposes-kcr-familys-439-acre-landholdings-in-assembly-259085)
-- ['વિશ્વભરના મુસ્લિમો માટે મક્કાનું વિશેષ મહત્ત્વ', પવિત્ર સ્થળ પાસે ડ્રોન એટેકથી ભારત ચિંતિત, શાંતિની અપીલ](https://www.gujaratsamachar.com/news/national/mecca-has-special-significance-for-muslims-around-the-world-india-concerned-over-drone-attack-near-holy-site-appeal-for-peace-71243042942)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
