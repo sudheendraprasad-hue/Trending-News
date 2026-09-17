@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-17 21:32:59
+# India Trending Report — 2026-09-17 22:02:17
 
 ## Google Trends (India) — top trending searches
-1. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
-2. [trinbago knight riders women vs guyana amazon warriors women match scorecard](https://trends.google.com/trending/rss?geo=IN)
-3. [beşiktaş vs marseille](https://trends.google.com/trending/rss?geo=IN)
-4. [itat ruling on tax misreporting penalty](https://trends.google.com/trending/rss?geo=IN)
-5. [thar 3 door facelift](https://trends.google.com/trending/rss?geo=IN)
-6. [ugc net result 2026](https://trends.google.com/trending/rss?geo=IN)
-7. [málaga vs villarreal](https://trends.google.com/trending/rss?geo=IN)
-8. [மாணவர்](https://trends.google.com/trending/rss?geo=IN)
-9. [ugc net](https://trends.google.com/trending/rss?geo=IN)
-10. [wcpl](https://trends.google.com/trending/rss?geo=IN)
+1. [white](https://trends.google.com/trending/rss?geo=IN)
+2. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
+3. [trinbago knight riders women vs guyana amazon warriors women match scorecard](https://trends.google.com/trending/rss?geo=IN)
+4. [beşiktaş vs marseille](https://trends.google.com/trending/rss?geo=IN)
+5. [itat ruling on tax misreporting penalty](https://trends.google.com/trending/rss?geo=IN)
+6. [thar 3 door facelift](https://trends.google.com/trending/rss?geo=IN)
+7. [ugc net result 2026](https://trends.google.com/trending/rss?geo=IN)
+8. [málaga vs villarreal](https://trends.google.com/trending/rss?geo=IN)
+9. [மாணவர்](https://trends.google.com/trending/rss?geo=IN)
+10. [ugc net](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- ['I'm staying, so is the curry': Indian-origin US lawmaker reacts to 'go home' remark](https://timesofindia.indiatimes.com/world/us/im-staying-so-is-the-curry-indian-origin-us-congressman-hits-back-at-florida-councilmans-go-home-remark/articleshow/134310720.cms)
 - [Who owns Tata, who runs it? The Tata Sons-Tata Trusts power tussle explained](https://timesofindia.indiatimes.com/business/india-business/who-owns-tata-who-runs-it-the-power-struggle-between-tata-sons-and-tata-trusts-explained-noel-tata-n-chandrasekaran/articleshow/134314550.cms)
 - [Flowers at 10,600ft: World’s highest twin fields unveiled in Leh](https://timesofindia.indiatimes.com/india/flowers-at-10600ft-worlds-highest-twin-fields-unveiled-in-leh/articleshow/134320977.cms)
-- [US F-16 fighter jet crashes in Michigan, bursts into flames](https://timesofindia.indiatimes.com/world/us/us-f-16-fighter-jet-crashes-in-michigan-bursts-into-flames/articleshow/134321048.cms)
 - [Abhishek Sharma's record 30-ball century powers India to 3-0 T20I series sweep](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharmas-record-30-ball-century-powers-india-to-3-0-t20i-series-sweep-vs-afghanistan/articleshow/134318394.cms)
-- [Indian migrant first in UK charged over online illegal immigration ads](https://timesofindia.indiatimes.com/nri/other-news/indian-migrant-becomes-first-person-in-uk-charged-with-advertising-illegal-immigration-services-online/articleshow/134321003.cms)
+- [US F-16 fighter jet crashes in Michigan, bursts into flames](https://timesofindia.indiatimes.com/world/us/us-f-16-fighter-jet-crashes-in-michigan-bursts-into-flames/articleshow/134321048.cms)
 - [New Green Card rules from September 18: Full list of categories affected](https://timesofindia.indiatimes.com/technology/tech-news/starting-september-18-new-green-card-rules-coming-into-effect-full-list-of-categories-that-are-subject-to-the-change-and-those-that-are-not/articleshow/134305577.cms)
+- [Indian migrant first in UK charged over online illegal immigration ads](https://timesofindia.indiatimes.com/nri/other-news/indian-migrant-becomes-first-person-in-uk-charged-with-advertising-illegal-immigration-services-online/articleshow/134321003.cms)
 - [No official dinners, foreign travel: Pak rolls out austerity measures amid fuel shock](https://timesofindia.indiatimes.com/world/pakistan/no-official-dinners-foreign-travel-pakistan-rolls-out-austerity-measures-amid-fuel-shock/articleshow/134318533.cms)
 - [Russia kicks off voting in first parliamentary election since Ukraine war began](https://timesofindia.indiatimes.com/world/europe/russia-kicks-off-voting-in-first-parliamentary-election-since-ukraine-war-began/articleshow/134321045.cms)
 - [Once allies, now rivals: Decoding deepening fault lines between Akhilesh & Jayant](https://timesofindia.indiatimes.com/india/if-i-open-my-mouth-decoding-deepening-fault-lines-between-allies-turned-rivals-akhilesh-yadav-jayant-choudhary/articleshow/134311717.cms)
-- [Bangladesh PM Rahman wishes PM Modi on birthday, wishes him good health & high spirit](https://timesofindia.indiatimes.com/india/may-your-service-be-accompanied-by-good-health-bangladesh-pm-rahman-wishes-pm-modi-on-birthday/articleshow/134320743.cms)
 
 **NDTV**
 - [Opinion: Opinion | US Has Now Weaponised India's Russia Oil Dependence. Can New Delhi Cope?](https://www.ndtv.com/opinion/us-has-weaponised-indias-russia-oil-dependence-now-what-12059199#publisher=newsstand)
@@ -49,17 +49,7 @@
 - [Kerala child rights panel calls for gender-inclusive rules, bars schools from penalising boys over hair length](https://www.hindustantimes.com/india-news/kerala-child-rights-panel-calls-for-gender-inclusive-rules-bars-schools-from-penalising-boys-over-hair-length-101789650937608.html)
 - [CBSE says no to Class 6 exemption from 3-language rule; SC suggests 2027 rollout](https://www.hindustantimes.com/india-news/cbse-says-no-to-class-6-exemption-from-3-language-rule-sc-suggests-2027-rollout-101789651714764.html)
 
-**Vijay Karnataka**
-- [ಸತ್ಯನಾರಾಯಣ ಪೂಜೆ ನೆರವೇರಿಸಿದ ಹಾವೇರಿ ಪೊಲೀಸ್‌ Dysp ಸಮೀವುಲ್ಲಾ ದಂಪತಿ; ಭಾವೈಕ್ಯತೆ ಸಂದೇಶ!](https://vijaykarnataka.com/news/haveri/haveri-police-dysp-sameevulla-and-his-wife-muslim-perform-satyanarayana-puja-a-message-of-communal-harmony/articleshow/134315279.cms)
-- [ಬೆಂಗಳೂರಿನ ಜಯನಗರದಲ್ಲಿ AI ಸ್ಮಾರ್ಟ್‌ ಪಾರ್ಕಿಂಗ್‌: ವಾಹನ ನಿಲ್ಲಿಸಿದ 5 ನಿಮಿಷಗಳೊಳಗೆ ಡಿಜಿಟಲ್‌ ಪಾವತಿ ಕಡ್ಡಾಯ!](https://vijaykarnataka.com/news/bengaluru-city/ai-based-smart-parking-implementation-in-jayanagar-bengaluru/articleshow/134318047.cms)
-- [ನಮ್ಮ ಮೆಟ್ರೋ ಕಿತ್ತಳೆ ಮಾರ್ಗದಲ್ಲಿ ಮಹತ್ವದ ಬದಲಾವಣೆ: ಡಬಲ್‌ ಡೆಕ್ಕರ್‌ 11 KM ಸೀಮಿತಗೊಳಿಸಿ ಅನುಮತಿ! 3 ಕಡೆ ನಿರ್ಮಾಣ](https://vijaykarnataka.com/news/bengaluru-city/namma-metros-orange-line-major-change-approval-granted-for-a-double-decker-structure-limited-to-11-km-3-locations/articleshow/134315996.cms)
-- [ಮೊದಲ ಪ್ರೀತಿಯ ನೆನಪು ಯಾಕೆ ಎಂದಿಗೂ ಕಾಡುತ್ತದೆ? ಮನಃಶಾಸ್ತ್ರ ಹೇಳುವ ಪ್ರಮುಖ ಕಾರಣಗಳು](https://vijaykarnataka.com/lifestyle/relationship/first-love-memories-psychology-why-never-fade/articleshow/134310755.cms)
-- [ಗಣೇಶ ಹಬ್ಬದ ವೇಳೆ ಪ್ರಯಾಣಿಕರ ಸುಲಿಗೆಗೆ ನಿಂತ ಖಾಸಗಿ ಬಸ್ ಗಳಿಗೆ ಸಾರಿಗೆ ಅಧಿಕಾರಿಗಳಿಂದ ಬಿಸಿ: ಹೀಗಿತ್ತು 5 ದಿನದ ಕಾರ್ಯಾಚರಣೆ](https://vijaykarnataka.com/news/karnataka/transport-officials-collect-73-lakh-fine-for-private-buses-fleecing-during-ganesha-festival/articleshow/134318926.cms)
-- [ʻಎಂ.ಎಸ್‌ ಸುಬ್ಬುಲಕ್ಷ್ಮಿ ಬಯೋಪಿಕ್‌ಗೆ ರಶ್ಮಿಕಾ ಸೆಟ್‌ ಆಗಲ್ಲ..ʼ! ಶಿವಶ್ರೀ, ವಿದ್ಯಾ ಬಾಲನ್‌ ಸೂಕ್ತ ಎಂದ ನೆಟ್ಟಿಗರು](https://vijaykarnataka.com/entertainment/news/ms-subbulakshmi-biopic-rashmika-mandanna-role-sparks-debate/articleshow/134316596.cms)
-- [ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿ ಸಿಂಹಾಸನದ ಮೇಲೆ ಗಣಪ; ಸೀರೆಯಲ್ಲಿ ಸಾನಿಯಾ, ಪಿಂಕ್ ಸೂಟ್‌ನಲ್ಲಿ ಸಾರಾ ಮಿಂಚಿಂಗ್!](https://vijaykarnataka.com/lifestyle/fashion/sara-tendulkar-pink-suit-saniya-chandok-saree-ganesh-chaturthi/articleshow/134277830.cms)
-- [ಸೂರ್ಯಾಸ್ತದ ನಂತರ ಮಾಡಬಾರದೆಂದು ಹೇಳಲಾಗುವ ಕೆಲಸಗಳು ಯಾವುವು.?](https://vijaykarnataka.com/religion/hinduism/try-to-avoid-doing-these-works-after-sunset/articleshow/134312494.cms)
-- [76ರಲ್ಲೂ ಫಿಟ್ ಆಗಿರುವ ಮೋದಿ: ದೈನಂದಿನ ಡಯಟ್, ಯೋಗ, ಫಿಟ್ನೆಸ್ ರೂಟೀನ್ ಹೇಗಿದೆ?](https://vijaykarnataka.com/lifestyle/fitness/pm-modi-birthday-daily-diet-yoga-fitness-routine-at-76/articleshow/134305327.cms)
-- [ಒಂದು ವಿವಾಹ, ಒಂದೇ ಖಾದ್ಯ! ಪಾಕಿಸ್ತಾನದಲ್ಲಿ ಮದುವೆ ಊಟಕ್ಕೂ ತಟ್ಟಿದ ಇಂಧನ ಬಿಕ್ಕಟ್ಟು; ಲಾಕ್ ಡೌನ್ ಮಾದರಿಯ ಪರಿಸ್ಥಿತಿ!](https://vijaykarnataka.com/business/news/fuel-crisis-hits-wedding-feasts-in-pakistan-lockdown-like-situation/articleshow/134317204.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
 - [The crucial Uttar Pradesh test of the BJP’s hegemony](https://www.thehindu.com/opinion/lead/the-crucial-uttar-pradesh-test-of-the-bjps-hegemony/article71477301.ece)
@@ -74,6 +64,8 @@
 - [E.M. Sudarsana Natchiappan, former Union Minister and senior Congress leader, passes away at 78](https://www.thehindu.com/news/national/tamil-nadu/em-sudarsana-nachiappan-former-union-minister-and-senior-congress-leader-passes-away-at-79/article71475548.ece)
 
 **Livemint**
+- [Trump says ‘big decision’ coming on Iran war as he prepares to meet six Gulf leaders at UN General Assembly](https://www.livemint.com/news/us-news/trump-says-big-decision-coming-on-iran-war-as-he-prepares-to-meet-six-gulf-leaders-at-un-general-assembly-11789680832470.html)
+- [Israeli envoy Danny Danon calls for Mamdani’s arrest ahead of Netanyahu’s New York visit](https://www.livemint.com/news/us-news/israeli-envoy-danny-danon-calls-for-mamdani-s-arrest-ahead-of-netanyahu-s-new-york-visit-11789679672785.html)
 - [Intense Heat Strains Power Grids for 100 Million North Americans](https://www.livemint.com/news/us-news/intense-heat-strains-power-grids-for-100-million-north-americans-11789671135819.html)
 - [Travis Scott, PinkPantheress, Keith Richards: GTA 6 unveils first six singles from upcoming album, check artists](https://www.livemint.com/news/trends/travis-scott-pinkpantheress-keith-richards-gta-6-unveils-first-six-singles-from-upcoming-album-check-artists-11789667791054.html)
 - [Canada steps up India trade talks, fourth CEPA round underway](https://www.livemint.com/news/india-canada-trade-deal-cepa-fourth-round-talks-11789665940175.html)
@@ -82,8 +74,6 @@
 - [This ‘weird cat’ had scientists stunned—It’s a new species discovered after 100 years](https://www.livemint.com/news/trends/this-weird-cat-had-scientists-stunned-it-s-a-new-species-found-after-100-years-11789665004175.html)
 - [Mamata Banerjee losing TMC? Election Commission freezes Trinamool Congress name and party symbol](https://www.livemint.com/news/india/election-commission-freezes-mamata-banerjee-s-trinamool-congress-name-and-party-symbol-11789664070325.html)
 - [China warns against linking tariffs to Russian oil purchases, says it will not accept ‘long-arm jurisdiction’](https://www.livemint.com/news/world/china-warns-against-linking-tariffs-to-russian-oil-purchases-says-it-will-not-accept-long-arm-jurisdiction-11789660637492.html)
-- [Mumbai's Olympia Coffee House, where Christopher Nolan, Matt Damon had chai, faces FDA licence suspension; here's why](https://www.livemint.com/news/india/mumbais-olympia-coffee-house-where-christopher-nolan-matt-damon-had-chai-faces-fda-licence-suspension-heres-why-11789658765969.html)
-- [CM Rekha Gupta, CM Yogi, Amit Shah and more: BJP leaders celebrate PM Modi's birthday with Ashirwad Ka Diya program](https://www.livemint.com/news/india/cm-rekha-gupta-cm-yogi-amit-shah-and-more-bjp-leaders-celebrate-pm-modis-birthday-with-ashirwad-ka-diya-program-11789656078207.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -105,7 +95,6 @@
 - September (2.6)
 - Opinion (2.6)
 - Congress (2.2)
-- PM Modi (2.0)
 - Sudarsana Natchiappan (2.0)
 - Disha Salian (2.0)
 - Indian (1.9)
@@ -115,20 +104,21 @@
 - Mamata (1.6)
 - Assam (1.6)
 - Trusts (1.3)
+- Flowers (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Watch: అధికారి బల్లపై వీధి కుక్కలను వదిలిన యువసేన నేతలు.. తర్వాత ఏం జరిగిందంటే?](https://www.ntnews.com/national/yuva-sena-workers-release-stray-dogs-on-nashik-officials-table-video-goes-viral-2512901)
-- [Nandigram By Election: প্রধানমন্ত্রীর জন্মদিনেই প্রচার শুরু করলেন নন্দীগ্রাম কেন্দ্রের বিজেপি প্রার্থী হাসিরানি রথ](https://bengali.abplive.com/district/nandigram-by-election-hasi-rani-rath-begins-election-campaign-on-narendra-modi-birthday-1193163)
-- ['हमें मजबूर न करें...', रिलीफ कैंपों में हुई मौतों के मामले में सुप्रीम कोर्ट ने मणिपुर को लगाई फटकार](https://www.jagran.com/news/national-supreme-court-slams-manipur-over-deaths-at-relief-camps-says-do-not-force-us-40376217.html)
-- [टाटा ने फिर दिखाया चंद्रशेखरन पर भरोसा, 5 साल के लिए मिली कमान, ग्रुप के शेयरों में उछाल](https://www.livehindustan.com/business/tata-sons-approves-five-year-extension-for-n-chandrasekaran-to-prepare-for-ipo-201789636979952.html)
-- [Amravati News : रात्री जेवण करून झोपला तो उठलाच नाही, डोळ्यातून रक्त अन्...; गोरे होण्याच्या औषधांचा ओव्हरडोस ठरला जीवघेणा? डॉक्टर तरुणाचा मृत्यू, नेमकं काय घडलं?](https://marathi.abplive.com/news/amravati/amravati-news-did-an-overdose-of-skin-lightening-medication-prove-fatal-death-of-a-young-doctor-what-exactly-happened-1439413)
-- [Punjab: ਸਾਬਕਾ ਡੀਆਈਜੀ ਭੁੱਲਰ ਮਾਮਲੇ ਵਿੱਚ ਵਿਚੋਲੇ ਤੋਂ ਪੁੱਛਗਿੱਛ ਕਰੇਗੀ ਈਡੀ](https://wishavwarta.in/punjab-ed-to-question-middleman-in-former-dig-bhullar-case/)
-- [மதுரை மீனாட்சி அம்மன் கும்பாபிஷேகம்: தரிசனம் கேட்டு பக்தர்கள் வாக்குவாதம் - அமைச்சர் விளக்கம்](https://www.polimernews.com/districtnews/madurai-meenakshi-amman-temple-kumbabhishekam-devotees-police-argument-12544427)
-- [बेटे के फायदे के लिए ट्रंप खेल रहे खतरनाक गेम, PAK से चौंकाने वाली ड्रोन डील!](https://www.aajtak.in/defence-news/story/pakistan-army-powerus-drone-mou-donald-trump-sons-merger-ntc-mnrd-smsr-2644847-2026-09-17)
-- [Swara Bhasker says she was upset after Ram Janmabhoomi verdict, texted Muslims in her phonebook including Shah Rukh Khan, Salman Khan, Aamir Khan to apologise: 'As a Hindu, I'm so ashamed'](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/swara-bhasker-says-she-was-upset-after-ram-janmabhoomi-verdict-texted-muslims-in-her-phonebook-including-shah-rukh-khan-salman-khan-aamir-khan-to-apologise-as-a-hindu-im-so-ashamed/articleshow/134307266.cms)
-- ['You Think Women Can't Lift LPG Cylinders?' : Supreme Court Awards Compensation To Woman Denied Job Based On Gender](https://www.livelaw.in/top-stories/you-think-women-cant-lift-lpg-cylinders-supreme-court-awards-compensation-to-woman-denied-job-based-on-gender-550475)
+- [‘വമ്പന്‍ മുതലാളിയുടെ വീട്ടില്‍ കയറിയാലും ഫോൺ പിടിച്ചുവാങ്ങിച്ചു വയ്ക്കും; അവരുടെ അടുക്കള വരെ കയറും’](https://www.manoramaonline.com/news/latest-news/2026/09/17/suresh-gopi-reacts-to-reporter-tv-office-raid.html)
+- [পর্দায় এম এস সুব্বুলক্ষ্মী হয়ে উঠবেন রশ্মিকা, চরিত্র নিয়ে কেন এতটা সতর্ক কমল হাসান?](https://bengali.indianexpress.com/entertainment/kamal-haasan-rashmika-ms-subbulakshmi-biopic-12543377)
+- [കയ്യിൽ റിസ്റ്റ് ബ്രേസ് ധരിച്ച് പൃഥ്വിരാജ്; മാധ്യമങ്ങളോട് രോഗാവസ്ഥ വെളിപ്പെടുത്തി താരം!](https://www.vanitha.in/celluloid/multiplex/2026/09/17/actor-prithviraj-tennis-elbow-injury-revealed-in-front-of-media.html)
+- [Redmi Note 17 Pro Debuts with 9,000mAh Battery and HyperOS 3 at ₹36,999](https://thecsrjournal.in/redmi-note-17-pro-debuts-with-9000mah-battery-and-hyperos-3-at-36999)
+- [Uddhav Thackeray on Disha Salian Case: आदित्य ठाकरेंनंतर आता दिशा सालियन प्रकरणावर उद्धव ठाकरेही बोलले, म्हणाले, 'फालतू चारित्र्यहनन बस्स झाले, अन्यथा आम्हीही...'](https://marathi.abplive.com/news/politics/uddhav-thackeray-reaction-on-disha-salian-case-cbi-fir-after-aaditya-thackeray-maharashtra-politics-marathi-news-1439417)
+- [‘മഞ്ജു എത്രയും പെട്ടെന്ന് ആ ഫോൺ സംഭാഷണം പുറത്ത് വിടണം, സനൽ കുമാർ ശശിധരൻ നടത്തുന്ന കളി എല്ലാ പരിധിയും വിടുകയാണ്’; മാലാ പാർവതി](https://www.southlive.in/manju-must-release-that-phone-conversation-as-soon-as-possible-the-game-sanal-kumar-sasidharan-is-playing-is-crossing-all-limits-says-mala-parvathy/)
+- [Chandrasekaran accepts re-appointment as Tata Son’s chairman, Tata Trusts terms it illegal](https://www.thehindu.com/business/Industry/tata-sons-board-approves-fresh-five-year-term-for-chairman-chandrasekaran/article71476053.ece)
+- [ચામાચીડિયાના શરીરમાં હોય છે જીવલેણ વાયરસ, છતા તેઓ બીમાર કેમ પડતા નથી, જાણો કારણ](https://gujarati.indianexpress.com/lifestyle/why-bats-can-carry-deadly-viruses-without-getting-seriously-ill-experts-explain-ag-12544558)
+- [Mahakavya Shri Ramayan Katha Trailer Review: 'रामायण' को ले डूबेगी खराब एक्टिंग-कास्टिंग! नहीं भाए 'राम-सीता', मिसफिट लगीं अंजलि अरोड़ा](https://www.aajtak.in/entertainment/bollywood-news/story/mahakavya-shri-ramayan-katha-trailer-review-anjali-arora-rajneesh-duggal-horrible-acting-tmovh-dskc-2644840-2026-09-17)
+- [वीरेंद्र सहवाग दिखाएंगे असली खौफ! यमराज के अवतार में आए नजर, लाइफ का स्कोरकार्ड चेक करने निकले](https://www.aajtak.in/sports/cricket/story/virender-sehwag-turns-into-yamraj-for-his-upcoming-shoot-picture-share-on-instagram-aksp-dskc-2644888-2026-09-17)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
