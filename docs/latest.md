@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-17 20:34:22
+# India Trending Report — 2026-09-17 21:02:06
 
 ## Google Trends (India) — top trending searches
 1. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
 2. [trinbago knight riders women vs guyana amazon warriors women match scorecard](https://trends.google.com/trending/rss?geo=IN)
-3. [gerónimo rulli](https://trends.google.com/trending/rss?geo=IN)
-4. [beşiktaş vs marseille](https://trends.google.com/trending/rss?geo=IN)
-5. [itat ruling on tax misreporting penalty](https://trends.google.com/trending/rss?geo=IN)
-6. [thar 3 door facelift](https://trends.google.com/trending/rss?geo=IN)
-7. [ugc net result 2026](https://trends.google.com/trending/rss?geo=IN)
-8. [málaga vs villarreal](https://trends.google.com/trending/rss?geo=IN)
-9. [மாணவர்](https://trends.google.com/trending/rss?geo=IN)
-10. [ugc net](https://trends.google.com/trending/rss?geo=IN)
+3. [beşiktaş vs marseille](https://trends.google.com/trending/rss?geo=IN)
+4. [itat ruling on tax misreporting penalty](https://trends.google.com/trending/rss?geo=IN)
+5. [thar 3 door facelift](https://trends.google.com/trending/rss?geo=IN)
+6. [ugc net result 2026](https://trends.google.com/trending/rss?geo=IN)
+7. [málaga vs villarreal](https://trends.google.com/trending/rss?geo=IN)
+8. [மாணவர்](https://trends.google.com/trending/rss?geo=IN)
+9. [ugc net](https://trends.google.com/trending/rss?geo=IN)
+10. [viral video](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -18,12 +18,12 @@
 - [Flowers at 10,600ft: World’s highest twin fields unveiled in Leh](https://timesofindia.indiatimes.com/india/flowers-at-10600ft-worlds-highest-twin-fields-unveiled-in-leh/articleshow/134320977.cms)
 - [No official dinners, foreign travel: Pak rolls out austerity measures amid fuel shock](https://timesofindia.indiatimes.com/world/pakistan/no-official-dinners-foreign-travel-pakistan-rolls-out-austerity-measures-amid-fuel-shock/articleshow/134318533.cms)
 - [Abhishek Sharma's record 30-ball century powers India to 3-0 T20I series sweep](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharmas-record-30-ball-century-powers-india-to-3-0-t20i-series-sweep-vs-afghanistan/articleshow/134318394.cms)
-- [Once allies, now rivals: Decoding deepening fault lines between Akhilesh & Jayant](https://timesofindia.indiatimes.com/india/if-i-open-my-mouth-decoding-deepening-fault-lines-between-allies-turned-rivals-akhilesh-yadav-jayant-choudhary/articleshow/134311717.cms)
+- [Indian migrant first in UK charged over online illegal immigration ads](https://timesofindia.indiatimes.com/nri/other-news/indian-migrant-becomes-first-person-in-uk-charged-with-advertising-illegal-immigration-services-online/articleshow/134321003.cms)
 - [New Green Card rules from September 18: Full list of categories affected](https://timesofindia.indiatimes.com/technology/tech-news/starting-september-18-new-green-card-rules-coming-into-effect-full-list-of-categories-that-are-subject-to-the-change-and-those-that-are-not/articleshow/134305577.cms)
+- [Russia kicks off voting in first parliamentary election since Ukraine war began](https://timesofindia.indiatimes.com/world/europe/russia-kicks-off-voting-in-first-parliamentary-election-since-ukraine-war-began/articleshow/134321045.cms)
+- [Once allies, now rivals: Decoding deepening fault lines between Akhilesh & Jayant](https://timesofindia.indiatimes.com/india/if-i-open-my-mouth-decoding-deepening-fault-lines-between-allies-turned-rivals-akhilesh-yadav-jayant-choudhary/articleshow/134311717.cms)
 - [Bangladesh PM Rahman wishes PM Modi on birthday, wishes him good health & high spirit](https://timesofindia.indiatimes.com/india/may-your-service-be-accompanied-by-good-health-bangladesh-pm-rahman-wishes-pm-modi-on-birthday/articleshow/134320743.cms)
 - [Will Trump's Russia sanctions Bill force India to stop buying crude from Moscow?](https://timesofindia.indiatimes.com/business/india-business/100-trump-tariffs-loom-russia-sanctions-bill-passed-in-us-will-it-make-india-stop-buying-crude-from-moscow/articleshow/134300254.cms)
-- [Kashmir cracks walnut success code, turns to medium-sized, grafted trees](https://timesofindia.indiatimes.com/india/kashmir-cracks-walnut-success-code-turns-to-medium-sized-grafted-trees/articleshow/134320993.cms)
-- [2 Jaish terrorists killed in J&K's Udhampur](https://timesofindia.indiatimes.com/india/2-jaish-terrorists-killed-in-udhampur/articleshow/134320904.cms)
 
 **NDTV**
 - [Opinion: Opinion | US Has Now Weaponised India's Russia Oil Dependence. Can New Delhi Cope?](https://www.ndtv.com/opinion/us-has-weaponised-indias-russia-oil-dependence-now-what-12059199#publisher=newsstand)
@@ -49,7 +49,17 @@
 - [Kerala child rights panel calls for gender-inclusive rules, bars schools from penalising boys over hair length](https://www.hindustantimes.com/india-news/kerala-child-rights-panel-calls-for-gender-inclusive-rules-bars-schools-from-penalising-boys-over-hair-length-101789650937608.html)
 - [CBSE says no to Class 6 exemption from 3-language rule; SC suggests 2027 rollout](https://www.hindustantimes.com/india-news/cbse-says-no-to-class-6-exemption-from-3-language-rule-sc-suggests-2027-rollout-101789651714764.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಸತ್ಯನಾರಾಯಣ ಪೂಜೆ ನೆರವೇರಿಸಿದ ಹಾವೇರಿ ಪೊಲೀಸ್‌ Dysp ಸಮೀವುಲ್ಲಾ ದಂಪತಿ; ಭಾವೈಕ್ಯತೆ ಸಂದೇಶ!](https://vijaykarnataka.com/news/haveri/haveri-police-dysp-sameevulla-and-his-wife-muslim-perform-satyanarayana-puja-a-message-of-communal-harmony/articleshow/134315279.cms)
+- [ಬೆಂಗಳೂರಿನ ಜಯನಗರದಲ್ಲಿ AI ಸ್ಮಾರ್ಟ್‌ ಪಾರ್ಕಿಂಗ್‌: ವಾಹನ ನಿಲ್ಲಿಸಿದ 5 ನಿಮಿಷಗಳೊಳಗೆ ಡಿಜಿಟಲ್‌ ಪಾವತಿ ಕಡ್ಡಾಯ!](https://vijaykarnataka.com/news/bengaluru-city/ai-based-smart-parking-implementation-in-jayanagar-bengaluru/articleshow/134318047.cms)
+- [ನಮ್ಮ ಮೆಟ್ರೋ ಕಿತ್ತಳೆ ಮಾರ್ಗದಲ್ಲಿ ಮಹತ್ವದ ಬದಲಾವಣೆ: ಡಬಲ್‌ ಡೆಕ್ಕರ್‌ 11 KM ಸೀಮಿತಗೊಳಿಸಿ ಅನುಮತಿ! 3 ಕಡೆ ನಿರ್ಮಾಣ](https://vijaykarnataka.com/news/bengaluru-city/namma-metros-orange-line-major-change-approval-granted-for-a-double-decker-structure-limited-to-11-km-3-locations/articleshow/134315996.cms)
+- [ಮೊದಲ ಪ್ರೀತಿಯ ನೆನಪು ಯಾಕೆ ಎಂದಿಗೂ ಕಾಡುತ್ತದೆ? ಮನಃಶಾಸ್ತ್ರ ಹೇಳುವ ಪ್ರಮುಖ ಕಾರಣಗಳು](https://vijaykarnataka.com/lifestyle/relationship/first-love-memories-psychology-why-never-fade/articleshow/134310755.cms)
+- [ಗಣೇಶ ಹಬ್ಬದ ವೇಳೆ ಪ್ರಯಾಣಿಕರ ಸುಲಿಗೆಗೆ ನಿಂತ ಖಾಸಗಿ ಬಸ್ ಗಳಿಗೆ ಸಾರಿಗೆ ಅಧಿಕಾರಿಗಳಿಂದ ಬಿಸಿ: ಹೀಗಿತ್ತು 5 ದಿನದ ಕಾರ್ಯಾಚರಣೆ](https://vijaykarnataka.com/news/karnataka/transport-officials-collect-73-lakh-fine-for-private-buses-fleecing-during-ganesha-festival/articleshow/134318926.cms)
+- [ʻಎಂ.ಎಸ್‌ ಸುಬ್ಬುಲಕ್ಷ್ಮಿ ಬಯೋಪಿಕ್‌ಗೆ ರಶ್ಮಿಕಾ ಸೆಟ್‌ ಆಗಲ್ಲ..ʼ! ಶಿವಶ್ರೀ, ವಿದ್ಯಾ ಬಾಲನ್‌ ಸೂಕ್ತ ಎಂದ ನೆಟ್ಟಿಗರು](https://vijaykarnataka.com/entertainment/news/ms-subbulakshmi-biopic-rashmika-mandanna-role-sparks-debate/articleshow/134316596.cms)
+- [ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿ ಸಿಂಹಾಸನದ ಮೇಲೆ ಗಣಪ; ಸೀರೆಯಲ್ಲಿ ಸಾನಿಯಾ, ಪಿಂಕ್ ಸೂಟ್‌ನಲ್ಲಿ ಸಾರಾ ಮಿಂಚಿಂಗ್!](https://vijaykarnataka.com/lifestyle/fashion/sara-tendulkar-pink-suit-saniya-chandok-saree-ganesh-chaturthi/articleshow/134277830.cms)
+- [ಸೂರ್ಯಾಸ್ತದ ನಂತರ ಮಾಡಬಾರದೆಂದು ಹೇಳಲಾಗುವ ಕೆಲಸಗಳು ಯಾವುವು.?](https://vijaykarnataka.com/religion/hinduism/try-to-avoid-doing-these-works-after-sunset/articleshow/134312494.cms)
+- [76ರಲ್ಲೂ ಫಿಟ್ ಆಗಿರುವ ಮೋದಿ: ದೈನಂದಿನ ಡಯಟ್, ಯೋಗ, ಫಿಟ್ನೆಸ್ ರೂಟೀನ್ ಹೇಗಿದೆ?](https://vijaykarnataka.com/lifestyle/fitness/pm-modi-birthday-daily-diet-yoga-fitness-routine-at-76/articleshow/134305327.cms)
+- [ಒಂದು ವಿವಾಹ, ಒಂದೇ ಖಾದ್ಯ! ಪಾಕಿಸ್ತಾನದಲ್ಲಿ ಮದುವೆ ಊಟಕ್ಕೂ ತಟ್ಟಿದ ಇಂಧನ ಬಿಕ್ಕಟ್ಟು; ಲಾಕ್ ಡೌನ್ ಮಾದರಿಯ ಪರಿಸ್ಥಿತಿ!](https://vijaykarnataka.com/business/news/fuel-crisis-hits-wedding-feasts-in-pakistan-lockdown-like-situation/articleshow/134317204.cms)
 
 **The Hindu**
 - [The crucial Uttar Pradesh test of the BJP’s hegemony](https://www.thehindu.com/opinion/lead/the-crucial-uttar-pradesh-test-of-the-bjps-hegemony/article71477301.ece)
@@ -98,27 +108,27 @@
 - PM Modi (2.0)
 - Sudarsana Natchiappan (2.0)
 - Disha Salian (2.0)
+- Indian (1.9)
+- Russia (1.9)
 - Tata (1.6)
 - Russian (1.6)
 - Mamata (1.6)
 - Assam (1.6)
 - Trusts (1.3)
-- Flowers (1.3)
-- World (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [IND vs WI: কেন ওয়েস্ট ইন্ডিজ়ের বিরুদ্ধে ভারতীয় দলে সুযোগ পেলেন না পাণ্ড্য, পন্থ? জানা গেল আসল কারণ](https://bengali.abplive.com/sports/cricket/india-did-not-chose-rishabh-pant-hardik-pandya-ind-vs-wi-series-know-reason-behind-it-1193138)
-- [सऊदी हो या अरब सागर... PAK का सेट पैटर्न, मौके से पीठ दिखाकर भाग जाता है](https://www.aajtak.in/defence-news/story/pakistan-backing-out-promises-mecca-agreement-saudi-arabia-indian-navy-warship-incident-dskc-2644749-2026-09-17)
-- [యూపీఐ ట్యాక్స్.. ప్రతిపాదన ఏదీ చర్చించలేదు: కాంగ్రెస్ ఎంపీలు](https://www.eenadu.net/telugu-news/india/congress-mp-on-claim-that-party-mps-did-not-dissent-on-upi-tax/0701/126167955)
-- [റോബോട്ടുകളെ നിർമിക്കാൻ റോബോട്ടുകൾ? ചൈനയിൽ പുതിയ വിപ്ലവകരമായ ഫാക്ടറി പ്രവർത്തനം ആരംഭിച്ചു](https://www.expresskerala.com/news/robots-building-robots-a-new-revolutionary-factory-operation-has-launched-in-china.html)
-- [కత్రినా కైఫ్‌పై బాడీ షేమింగ్.. హీరోయిన్ తరపున స్ట్రాంగ్ కౌంటర్ ఇస్తున్నది ఎవరో తెలుసా ?](https://telugu.asianetnews.com/gallery/entertainment/katrina-kaif-body-shamed-after-post-pregnancy-appearance-fans-and-celebrities-react-2spbus8)
-- [US drone firm linked to Trump's sons signs deal with Pakistan army](https://www.indiatoday.in/world/story/pak-army-powerus-us-drone-firm-mou-initial-order-trump-sons-backed-company-2996676-2026-09-17)
-- [Uddhav Thackeray: फडणवीस, तुमची भाजप पुढच्या वेळी सत्ता… उद्धव ठाकरे यांचे मोठे भाकीत, तुमसे ना हो पाएगा कार्यक्रमातून जबरी टीका](https://www.tv9marathi.com/maharashtra/sambhaji-nagar/uddhav-thackeray-big-statements-devendra-fadnavis-your-bjp-will-lose-power-next-time-uddhav-thackeray-makes-a-major-prediction-demands-declaration-of-drought-in-marathwada-1758340.html)
-- ['बिस्मिल्लाह' बोलकर ईशान किशन ने द‍िया प्रेस कॉन्फ्रेंस में जवाब, श्रेयस-अभ‍िषेक हुए हैरान, देखें VIDEO](https://www.aajtak.in/sports/cricket/story/ishan-kishan-bismillah-video-india-vs-afghanistan-nabi-abhishek-shreyas-tspok-dskc-2644745-2026-09-17)
-- [76 ఏళ్ల వయసులోనూ ఫిట్‌గా, ఆరోగ్యంగా మోదీ.. ప్రధాని డైట్ సీక్రెట్ ఏంటో తెలుసా?](https://www.andhrajyothy.com/2026/national/pm-modi-turns-76-know-the-diet-secrets-behind-his-fitness-and-healthy-lifestyle-1558810.html)
-- [Ajay Baraskar Manoj Jarange Patil: ब्रह्मराक्षस, पाळीव कुत्रं, कपटी, टेंडर योद्धा...; अजय बारसकरांचा मनोज जरांगेंवर घणाघात, काय काय म्हणाले?](https://marathi.abplive.com/news/politics/ajay-baraskar-criticism-manoj-jarange-patil-after-maratha-reservation-protest-called-off-1439401)
+- [Mig-19 फाइटर जेट पर पाकिस्तानी फैला रहे झूठ, PIB ने किया फैक्ट-चेक](https://www.aajtak.in/defence-news/story/pib-fact-check-mig29-crash-video-war-thunder-ntc-mnrd-smsr-2644742-2026-09-17)
+- [iPhone 18 Pro battery numbers are both good and bad news for Samsung](https://www.androidauthority.com/iphone-18-pro-battery-capacity-charging-cycles-3712280/)
+- [Teen's Chevy Hit by Meteorite: How a Fireball Turned into an $80,000 Windfall](https://timesofindia.indiatimes.com/world/us/in-1992-a-fireball-pierced-a-ny-teens-400-chevy-the-warm-27-pound-meteorite-and-wreck-net-her-over-80000/articleshow/134283723.cms)
+- [KTR | 25 ఏండ్ల కింద ఇచ్చిన తోట ఆగయ్య భూమిని రేవంత్‌ రెడ్డి గుంజుకున్నడు : కేటీఆర్](https://www.ntnews.com/telangana/revanth-reddy-occupied-25-years-old-land-in-siricilla-says-ktr-2512867)
+- [1 करोड़ का इनामी नक्सली असीम मंडल गिरफ्तार](https://www.prabhatkhabar.com/state/jharkhand/jamshedpur/one-crore-rupee-bounty-naxalite-asim-mandal-arrested-in-bengal)
+- [41મા દિવસે બોક્સ ઓફિસની 'કિંગ' બની 'હનુમાન અંશ': નીમ કરોલી બાબાનો ચમત્કાર, માત્ર ₹2 કરોડના બજેટ સામે કમાણી ₹277 કરોડને પાર](https://www.gujaratsamachar.com/news/entertainment/hanuman-ansh-becomes-king-of-the-box-office-on-day-41-neem-karoli-babas-miracle-earnings-cross-indian-rupee277-crore-against-a-budget-of-just-indian-rupee2-crore-56633197168)
+- [PAK W vs THAI W Highlights: पाकिस्तान की हार दिख रही थी पक्की, एक ओवर में पलटा मैच, जैसे-तैसे एशियन गेम्स के सेमीफाइनल में पहुंची](https://navbharattimes.indiatimes.com/sports/asian-games/news/pakistan-beat-thailand-to-reach-semi-finals-of-womens-cricket-asian-games-2026-pak-wvs-thai-w-highlights/articleshow/134306528.cms)
+- [Ind vs US | ర‌ష్యా చ‌మురు కొన‌వ‌ద్ద‌ని అమెరికా అల్టిమేటం.. తీవ్రంగా స్పందించిన భార‌త్‌..!](https://www.ntnews.com/international/ind-vs-us-1-4-billion-people-first-indias-response-to-100-percent-us-tariff-threat-over-russian-oil-2512866)
+- [અમરેલી: ₹634 કરોડનું SD Pay કૌભાંડ કેસમાં વધુ એક આરોપીની ધરપકડ, 2 મુખ્ય સૂત્રધારો સહિત કુલ 9 ઝડપાયા](https://www.gujaratsamachar.com/news/amreli/amreli-one-more-accused-arrested-in-indian-rupee634-crore-sd-pay-scam-case-total-9-arrested-including-2-main-conspirators-24071879755)
+- [దావూద్ ఇబ్రహీంతో ఫొటో.. నా కెరీర్‌ను దెబ్బతీసింది: నటి](https://www.eenadu.net/telugu-news/movies/mandakini-reveals-truth-behind-her-viral-photo-with-dawood-ibrahim/0201/126167927)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
