@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-17 16:35:20
+# India Trending Report — 2026-09-17 17:01:51
 
 ## Google Trends (India) — top trending searches
-1. [dax index](https://trends.google.com/trending/rss?geo=IN)
-2. [dax](https://trends.google.com/trending/rss?geo=IN)
-3. [తిరుమల](https://trends.google.com/trending/rss?geo=IN)
-4. [शिवम दुबे](https://trends.google.com/trending/rss?geo=IN)
-5. [nitish kumar reddy](https://trends.google.com/trending/rss?geo=IN)
-6. [amol parashar](https://trends.google.com/trending/rss?geo=IN)
-7. [ravi bishnoi](https://trends.google.com/trending/rss?geo=IN)
-8. [तिलक वर्मा](https://trends.google.com/trending/rss?geo=IN)
-9. [cricbuzz ipl](https://trends.google.com/trending/rss?geo=IN)
-10. [avengers endgame encore](https://trends.google.com/trending/rss?geo=IN)
+1. [darwish rasooli](https://trends.google.com/trending/rss?geo=IN)
+2. [betis vs getafe](https://trends.google.com/trending/rss?geo=IN)
+3. [dax index](https://trends.google.com/trending/rss?geo=IN)
+4. [dax](https://trends.google.com/trending/rss?geo=IN)
+5. [chess olympiad 2026](https://trends.google.com/trending/rss?geo=IN)
+6. [తిరుమల](https://trends.google.com/trending/rss?geo=IN)
+7. [nitish kumar reddy](https://trends.google.com/trending/rss?geo=IN)
+8. [amol parashar](https://trends.google.com/trending/rss?geo=IN)
+9. [ravi bishnoi](https://trends.google.com/trending/rss?geo=IN)
+10. [तिलक वर्मा](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [TMC vs TMC: EC bars both factions from using party symbol, name in Bengal bypolls](https://timesofindia.indiatimes.com/india/tmc-vs-tmc-ec-bars-both-factions-from-using-party-symbol-name-in-west-bengal-assembly-bypolls/articleshow/134317112.cms)
 - [China asks Iran to rein in Houthis; why Beijing has stepped in now](https://timesofindia.indiatimes.com/world/china/china-asks-iran-to-rein-in-houthis-after-saudi-arabia-seeks-help-report/articleshow/134313345.cms)
 - [Who owns Tata, who runs it? The Tata Sons-Tata Trusts power tussle explained](https://timesofindia.indiatimes.com/business/india-business/who-owns-tata-who-runs-it-the-power-struggle-between-tata-sons-and-tata-trusts-explained-noel-tata-n-chandrasekaran/articleshow/134314550.cms)
 - [Rohit's record broken; Virat's equalled: List of Abhishek Sharma's records](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/rohit-sharmas-record-broken-virat-kohlis-equalled-list-of-abhishek-sharmas-records-after-30-ball-century-vs-afghanistan/articleshow/134316347.cms)
-- [EPFO raises wage ceiling: What changes & will your take-home take a hit?](https://timesofindia.indiatimes.com/business/india-business/epfo-raises-wage-ceiling-rises-to-rs-25000-what-has-changed-and-will-your-take-home-pay-salary-come-down/articleshow/134307071.cms)
 - [How tech billionaire took Bill Gates’ 'kind lesson' aboard his $500M Yacht](https://timesofindia.indiatimes.com/technology/tech-news/bill-gatess-kind-lesson-that-windows-developer-now-a-billionaire-took-to-sea-when-he-built-his-500-million-yacht/articleshow/134314824.cms)
-- [Once allies, now rivals: Decoding deepening fault lines between Akhilesh & Jayant](https://timesofindia.indiatimes.com/india/if-i-open-my-mouth-decoding-deepening-fault-lines-between-allies-turned-rivals-akhilesh-yadav-jayant-choudhary/articleshow/134311717.cms)
-- [Teen brothers turn $4,000 pickup into $3 million junk business](https://timesofindia.indiatimes.com/world/us/two-massachusetts-brothers-started-a-junk-removal-business-as-teenagers-with-a-4000-pickup-truck-four-years-later-it-made-3-04-million-in-2025-and-is-targeting-5-million-in-2026/articleshow/134308239.cms)
+- [EPFO raises wage ceiling: What changes & will your take-home take a hit?](https://timesofindia.indiatimes.com/business/india-business/epfo-raises-wage-ceiling-rises-to-rs-25000-what-has-changed-and-will-your-take-home-pay-salary-come-down/articleshow/134307071.cms)
+- [She declared Rs 43,796, misses Rs 14.02L; hit with 200% penalty, but ITAT gave relief](https://timesofindia.indiatimes.com/business/india-business/she-declared-rs-43796-income-but-omitted-rs-14-02-lakh-interest-from-her-itr-tax-officer-imposed-a-200-penalty-of-rs-4-85-lakh-but-itat-cut-it-to-rs-1-21-lakh/articleshow/134309390.cms)
+- [Meet Tilcayo: Tiny wild cat discovered in Bolivia's forests after more than a century](https://timesofindia.indiatimes.com/science/meet-tilcayo-the-tiny-wild-cat-discovered-in-bolivias-cloud-forests-after-more-than-a-century/articleshow/134316459.cms)
+- [Divided Kingdom: Why Scotland, Wales and Ireland want to 'leave' the UK](https://timesofindia.indiatimes.com/world/uk/random-musing-divided-kingdom-why-scotland-wales-and-ireland-want-to-leave-the-uk/articleshow/134315399.cms)
 - [Abhishek Sharma hits fastest century by an Indian, breaks Rohit's record with 30-ball 100](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharma-hits-fastest-t20i-century-by-an-indian-breaks-rohit-sharmas-record/articleshow/134315127.cms)
-- [Sikh truck driver stabbed 17 times in Wyoming days after DHS's ‘Mr Singh’ post](https://timesofindia.indiatimes.com/city/amritsar/sikh-truck-driver-stabbed-17-times-in-wyoming-days-after-dhss-mr-singh-post/articleshow/134314822.cms)
-- [Flying to Kolkata for Durga Puja? Be ready to pay 71% more on Oct 16](https://timesofindia.indiatimes.com/city/kolkata/flying-to-kolkata-for-durga-puja-be-ready-to-pay-71-more-on-oct-16/articleshow/134306093.cms)
 
 **NDTV**
 - [Opinion: Opinion | US Has Now Weaponised India's Russia Oil Dependence. Can New Delhi Cope?](https://www.ndtv.com/opinion/us-has-weaponised-indias-russia-oil-dependence-now-what-12059199#publisher=newsstand)
@@ -38,6 +38,8 @@
 - [FBI Foils Russian Plot To Kill Dissident In Washington](https://www.ndtv.com/world-news/fbi-foils-russian-plot-to-kill-dissident-in-washington-12058631#publisher=newsstand)
 
 **Hindustan Times**
+- [ECI reserves TMC symbol amid dispute; asks Mamata, Ritabrata factions to pick new names, symbols ahead of bypolls](https://www.hindustantimes.com/india-news/eci-reserves-tmc-symbol-amid-dispute-asks-mamata-banerjee-ritabrata-faction-to-pick-new-names-symbols-bengal-bypolls-101789663057317.html)
+- [India secures EU steel quota, seafood and shipbreaking concessions ahead of FTA](https://www.hindustantimes.com/india-news/india-secures-eu-steel-quota-seafood-and-shipbreaking-concessions-ahead-of-fta-101789662037393.html)
 - [16-year-old girl gang-raped by 4 teens, found stabbed to death days later in Delhi](https://www.hindustantimes.com/india-news/delhi-teen-rape-16-year-old-raped-by-4-teens-found-stabbed-to-death-days-later-in-delhi-swaroop-nagar-delhi-police-101789659029166.html)
 - [SC awards  ₹12 lakh to Haryana woman denied Indian Oil Corporation job in 1988](https://www.hindustantimes.com/india-news/sc-awards-12-lakh-to-haryana-woman-denied-indian-oil-corporation-job-in-1988-101789660115390.html)
 - [Veteran Congress leader Sudarsana Natchiappan dies at 79](https://www.hindustantimes.com/india-news/veteran-congress-leader-sudarsana-natchiappan-dies-at-79-101789657580577.html)
@@ -46,8 +48,6 @@
 - ['Politically motivated': Uddhav Thackeray denies link to Disha Salian case, alleges ‘character assassination’](https://www.hindustantimes.com/india-news/uddhav-thackeray-denies-link-to-disha-salian-case-alleges-character-assassination-aaditya-thackeray-101789654312613.html)
 - [Kerala child rights panel calls for gender-inclusive rules, bars schools from penalising boys over hair length](https://www.hindustantimes.com/india-news/kerala-child-rights-panel-calls-for-gender-inclusive-rules-bars-schools-from-penalising-boys-over-hair-length-101789650937608.html)
 - [CBSE says no to Class 6 exemption from 3-language rule; SC suggests 2027 rollout](https://www.hindustantimes.com/india-news/cbse-says-no-to-class-6-exemption-from-3-language-rule-sc-suggests-2027-rollout-101789651714764.html)
-- [On Modi's birthday, CM Omar Abdullah wishes PM would grant J&K statehood](https://www.hindustantimes.com/india-news/on-modis-birthday-cm-omar-abdullah-wishes-pm-would-grant-jammu-kashmir-statehood-101789648208546.html)
-- [NHAI launches OneTag: Change FASTag bank without replacing your physical tag](https://www.hindustantimes.com/india-news/nhai-launches-onetag-change-fastag-bank-without-replacing-your-physical-tag-101789649493913.html)
 
 **Vijay Karnataka**
 - [30 ಎಸೆತಗಳಲ್ಲಿ ಶತಕ! ಅಭಿಷೇಕ್ ಶರ್ಮಾ ಭರ್ಜರಿ ಬ್ಯಾಟಿಂಗ್ ಧಮಾಕಾ! ಧ್ಯಾನಸ್ಥ ಭಂಗಿಯಲ್ಲಿ ಸಂಭ್ರಮಾಚರಣೆ!](https://vijaykarnataka.com/sports/cricket/news/india-vs-afghanistan-abhishek-sharma-century-off-30-balls-celebration-in-a-meditative-pose/articleshow/134316267.cms)
@@ -62,18 +62,20 @@
 - [ಲೀಸ್ಟರ್ ಶೇರ್ ಕಳಪೆ ಪಿಚ್ ಗೆ ದಂಡ; ಸೌರವ್ ಗಂಗೂಲಿ ಬಯೋಪಿಕ್ ಶೂಟಿಂಗ್ ಮೇಲೆ ಗೂಬೆ ಕೂರಿಸಿದ ಕೌಂಟಿ!](https://vijaykarnataka.com/sports/cricket/news/leicestershire-county-blames-sourav-ganguly-biopic-shoot-for-poor-pitch/articleshow/134313952.cms)
 
 **The Hindu**
-- [Congress top brass warns State leaders not to make statements out of line with party ideology](https://www.thehindu.com/news/national/karnataka/congress-top-brass-warns-state-leaders-not-to-make-statements-out-of-line-with-party-ideology/article71477757.ece)
-- [Supreme Court agrees to give ‘precedence’ in hearing plea against Delhi SIR](https://www.thehindu.com/news/cities/Delhi/supreme-court-agrees-to-give-precedence-hearing-to-plea-against-delhi-sir/article71475568.ece)
-- [PAC pulls up Railways over gaps in passenger amenities despite promises](https://www.thehindu.com/business/pac-pulls-up-railways-over-gaps-in-passenger-amenities-despite-promises/article71477045.ece)
-- [Decomposed body of woman found in car in Ernakulam](https://www.thehindu.com/news/national/kerala/decomposed-body-of-woman-found-in-car-in-ernakulam/article71477588.ece)
-- [KSEAB to provide question papers for SSLC mid-term exams](https://www.thehindu.com/news/national/karnataka/kseab-to-provide-question-papers-for-sslc-mid-term-exams/article71477758.ece)
-- [Kerala High Court directs Railways to shift electrical infrastructure at Pachalam](https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-railways-to-shift-electrical-infrastructure-at-pachalam/article71477515.ece)
-- [Revenue officials begin verification of lands at KCR’s Erravalli farmhouse](https://www.thehindu.com/news/national/telangana/revenue-officials-begin-verification-of-lands-at-kcrs-erravalli-farmhouse/article71477695.ece)
-- [Panchayats facing crisis as material costs for MGNREGS in previous financial year yet to be disbursed](https://www.thehindu.com/news/national/kerala/panchayats-facing-crisis-as-material-costs-for-mgnregs-in-previous-financial-year-yet-to-be-disbursed/article71477252.ece)
-- [Manapparai society increases sale price of milk by ₹5 a litre](https://www.thehindu.com/news/national/tamil-nadu/manapparai-milk-society-increases-sale-price-of-milk-by-5-a-litre/article71476974.ece)
-- [Bengaluru: Varthur-Gunjur congestion leaves schoolchildren stranded for hours](https://www.thehindu.com/news/cities/bangalore/bengaluru-varthur-gunjur-congestion-leaves-schoolchildren-stranded-for-hours/article71477764.ece)
+- [Birthday wishes pour in for Modi as he turns 76](https://www.thehindu.com/news/national/leaders-greet-pm-modi-on-76th-birthday/article71475668.ece)
+- [Puthoor zoo a model for relocation: expert](https://www.thehindu.com/news/national/kerala/puthoor-zoo-a-model-for-relocation-expert/article71477916.ece)
+- [On PM Modi’s birthday, Youth Congress gives government one-year ultimatum to fill ‘50 lakh job vacancies’](https://www.thehindu.com/news/national/on-pm-modis-birthday-youth-congress-gives-government-one-year-ultimatum-to-fill-50-lakh-job-vacancies/article71477368.ece)
+- [Supreme Court seeks Manipur Chief Secretary report on 25 unnatural deaths in relief camps](https://www.thehindu.com/news/national/manipur/supreme-court-expresses-shock-over-deaths-in-relief-camps-in-manipur-asks-chief-secretary-to-respond/article71475957.ece)
+- [KTR, three others to appear before ACB court in Formula E case](https://www.thehindu.com/news/national/telangana/ktr-three-others-to-appear-before-acb-court-in-formula-e-case/article71477933.ece)
+- [Debate rages over plan to shift Thiruvananthapuram zoo in Keralam](https://www.thehindu.com/news/national/kerala/debate-rages-over-plan-to-shift-thiruvananthapuram-zoo-in-keralam/article71475745.ece)
+- [Officially declared dead in Odisha, 2,487 workers ‘come alive’, authenticate Aadhaar to avail ration](https://www.thehindu.com/news/national/odisha/officially-declared-dead-in-odisha-2487-workers-come-alive-authenticate-aadhaar-to-avail-ration/article71476726.ece)
+- [Govt puts 25 coal blocks on sale in 16th round of commercial auctions](https://www.thehindu.com/business/Economy/govt-puts-25-coal-blocks-on-sale-in-16th-round-of-commercial-auctions/article71477934.ece)
+- [West Bengal police arrest top Maoist leader Akash](https://www.thehindu.com/news/national/west-bengal/west-bengal-police-arrest-top-maoist-leader-akash/article71477371.ece)
+- [Man attacks wife with machete, suspected acid in Bengaluru’s J.P. Nagar](https://www.thehindu.com/news/cities/bangalore/man-attacks-wife-with-machete-suspected-acid-in-bengalurus-jp-nagar/article71476232.ece)
 
 **Livemint**
+- [Election Commission freezes Mamata Banerjee’s Trinamool Congress name and party symbol](https://www.livemint.com/news/india/election-commission-freezes-mamata-banerjee-s-trinamool-congress-name-and-party-symbol-11789664070325.html)
+- [China warns against linking tariffs to Russian oil purchases, says it will not accept ‘long-arm jurisdiction’](https://www.livemint.com/news/world/china-warns-against-linking-tariffs-to-russian-oil-purchases-says-it-will-not-accept-long-arm-jurisdiction-11789660637492.html)
 - [Mumbai's Olympia Coffee House, where Christopher Nolan, Matt Damon had chai, faces FDA licence suspension; here's why](https://www.livemint.com/news/india/mumbais-olympia-coffee-house-where-christopher-nolan-matt-damon-had-chai-faces-fda-licence-suspension-heres-why-11789658765969.html)
 - [CM Rekha Gupta, CM Yogi, Amit Shah and more: BJP leaders celebrate PM Modi's birthday with Ashirwad Ka Diya program](https://www.livemint.com/news/india/cm-rekha-gupta-cm-yogi-amit-shah-and-more-bjp-leaders-celebrate-pm-modis-birthday-with-ashirwad-ka-diya-program-11789656078207.html)
 - [UPI MDR: PCI fact-checks Kerala Congress'  ₹146 claim on  ₹30,924 diesel payment, says charge is  ₹5](https://www.livemint.com/news/india/upi-mdr-pci-fact-checks-kerala-congress-146-claim-on-30-924-diesel-payment-says-charge-is-rs-5-11789653792531.html)
@@ -82,8 +84,6 @@
 - [Centre steps up land monetisation with RINL’s 459-plot auction, three-city roadshow](https://www.livemint.com/news/india/rinl-land-auction-nlmc-visakhapatnam-459-plots-11789652106502.html)
 - [India’s steel exporters get wider EU access even before FTA kicks in](https://www.livemint.com/news/india/india-eu-fta-steel-export-quota-duty-free-access-11789649990445.html)
 - [UN experts flag two US strikes in Iran over possible war crimes: Which ones?](https://www.livemint.com/news/us-news/un-experts-flag-two-us-strikes-in-iran-over-possible-war-crimes-which-ones-11789651893095.html)
-- [Amid govt's proposal for CCTVs at medical stores, 64% of consumers say chemists rarely ask for prescription: Survey](https://www.livemint.com/news/india/amid-govt-proposal-for-cctvs-at-medical-stores-64-of-consumers-say-chemists-rarely-ask-for-prescription-survey-11789648077190.html)
-- [UPI MDR decision: FinMin rejects claims of US influence, says NPCI rules aim to support domestic competition](https://www.livemint.com/news/india/upi-mdr-decision-finmin-rejects-claims-of-us-influence-says-npci-rules-aim-to-support-domestic-competition-11789649987487.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,8 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಮಂಗಳೂರು: ಸಚಿವ ಸಂಪುಟ ಸಭೆಗೆ ಅಂತಿಮ ಸಿದ್ಧತೆ](https://www.varthabharati.in/DakshinaKannada/--2275950)
+- [ಅಮಿತ್ ಶಾ ಪಶ್ಚಿಮ ಬಂಗಾಳ ಭೇಟಿ ವೇಳೆ ಮುಸ್ಲಿಮ್ ಅಧಿಕಾರಿಗಳನ್ನು ದೂರವಿಟ್ಟ ಆರೋಪ: ವಿಶ್ವಸಂಸ್ಥೆಗೆ ದೂರು ಸಲ್ಲಿಸಿದ ಮಹುವಾ ಮೊಯಿತ್ರಾ](https://www.varthabharati.in/National/amit-shah-accused-of-keeping-muslim-officials-away-during-west-bengal-visit-mahua-moitra-files-complaint-with-un-2275947)
 - [ಮಂಗಳೂರು: ಹರ್ಷದಲ್ಲಿ ಆ್ಯಪಲ್ 18 ಪ್ರೊ ಶ್ರೇಣಿಯ ಹೊಸ ಐಫೋನ್ ಬಿಡುಗಡೆ](https://www.varthabharati.in/DakshinaKannada/mangaluru-new-iphone-18-pro-series-launched-with-excitement-2275946)
 - [Bengaluru | ತೆರಿಗೆ ವಂಚನೆ ಪ್ರಕರಣ ಮುಚ್ಚಲು ಲಂಚ ಆರೋಪ: ಜಿಎಸ್‍ಟಿ ಅಧಿಕಾರಿ ಸೇರಿ ಇಬ್ಬರ ಬಂಧನ](https://www.varthabharati.in/bangalore-city/bengaluru-2275944)
 - [ಪಶುವೈದ್ಯಾಧಿಕಾರಿ ಹುದ್ದೆಗಳ ನೇಮಕಾತಿ: ಸಿಐಡಿ ವಿಚಾರಣೆಗೆ ಹಾಜರಾದ ಶಾಂತಾ ಹೊಸಮನಿ](https://www.varthabharati.in/bangalore-city/cid-2275942)
@@ -106,8 +108,6 @@
 - [ಸೆ.23ರಿಂದ ಎಸೆಸೆಲ್ಸಿ ಅರ್ಧ ವಾರ್ಷಿಕ ಪರೀಕ್ಷೆ ಆರಂಭ](https://www.varthabharati.in/bangalore-city/sslc-half-yearly-examinations-to-begin-from-september-23-2275938)
 - [Bengaluru | ಯುಪಿಐ ವಹಿವಾಟು ತೆರಿಗೆ ಖಂಡಿಸಿ ರಾಜ್ಯ ಕಾಂಗ್ರೆಸ್ ಪ್ರತಿಭಟನೆ](https://www.varthabharati.in/bangalore-city/bengaluru-2275937)
 - [Bengaluru | ಮದುವೆಯಾಗುವುದಾಗಿ ನಂಬಿಸಿ ವಂಚನೆ: ಮಹಿಳೆಯ ವಿರುದ್ಧ ಎಫ್‍ಐಆರ್ ದಾಖಲು](https://www.varthabharati.in/bangalore-city/bengaluru-2275936)
-- [ಸೆ.19: ದ.ಕ. ಜಿಲ್ಲಾ ಖುತ್ಬಾ ಸಂಗಮ](https://www.varthabharati.in/DakshinaKannada/19--2275934)
-- [T20 ಸರಣಿ | ಅಭಿಷೇಕ್ ಶರ್ಮಾ ಸ್ಫೋಟಕ ಶತಕ; ಅಫ್ಘಾನ್ ಗೆ 222 ರನ್ ಗಳ ಗುರಿ ನೀಡಿದ ಭಾರತ](https://www.varthabharati.in/sports/t20-series-abhishek-sharma-explosive-century-india-set-a-target-of-222-runs-against-afghanistan-2275939)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Bengaluru (5.5)
@@ -115,30 +115,30 @@
 - Indian (3.2)
 - ICICI Securities (3.0)
 - target (3.0)
+- China (2.6)
 - Iran (2.6)
 - Rohit's (2.6)
 - Opinion (2.6)
-- Railways (2.6)
-- UPI MDR (2.0)
+- India (2.6)
 - Buy Bajaj Finance (2.0)
-- Delhi (1.9)
-- Congress (1.9)
-- Kerala (1.9)
+- Modi (1.9)
+- Bengal (1.6)
 - Tata (1.6)
+- Delhi (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Devendra Fadnavis On Manoj Jarange: मनोज जरांगेंचं उपोषण 90 दिवसांसाठी स्थगित; देवेंद्र फडणवीसांची पहिली प्रतिक्रिया, म्हणाले...](https://marathi.abplive.com/news/politics/devendra-fadnavis-react-on-manoj-jarange-hunger-strike-called-off-maratha-reservation-protest-marathi-news-1439369)
-- [দাবা অলিম্পিয়াডে ইজরায়েল-বয়কট, ওয়াকওভার! হকিতেও নিরপেক্ষ ভেন্যুর আবদার পাকিস্তানের, আমল দিল না ভারত](https://www.thewall.in/sports/pakistan-boycotts-israel-chess-olympiad-hockey-india-rejects-venue-change/tid/205023)
-- [મોદી કેબિનેટમાં ફેરબદલના એંધાણ! મંત્રીઓને દિલ્હી ન છોડવા આદેશ, 23-24 સપ્ટેમ્બરે ચિંતન બેઠક](https://www.gujaratsamachar.com/news/national/PM-Modi-to-Chair-Two-Day-Chintan-Baithak-with-Ministers-to-Review-Policies-79046194620)
-- [West Bengal News Live Updates: কার হাতে থাকবে তৃণমূলের জোড়াফুল প্রতীক? কালীঘাট-তৃণমূল না ঋতব্রত-তৃণমূল? আজ ফের ২ পক্ষকে ডাক কমিশনের](https://bengali.abplive.com/district/west-bengal-news-live-updates-kalighat-trinamool-or-ritabrata-trinamool-who-will-get-the-tmc-logo-1193116)
-- [યુક્રેનમાં પશ્ચિમી સેના આવી તો સીધું યુદ્ધ: રશિયાના વિદેશ મંત્રી સર્ગેઈ લાવરોવની યુરોપને આકરી ચેતવણી!](https://www.gujaratsamachar.com/news/international/direct-war-if-western-forces-enter-ukraine-russian-foreign-minister-sergei-lavrovs-stern-warning-to-europe-66700978907)
-- [Karthika Deepam Serial Today 17th September Episode: వేట మొదలుపెట్టిన దీప, కార్తీక్.. జ్యోత్స్న ఫ్యామిలీని కార్తీక్ చెంతకి చేర్చిన సూరజ్](https://telugu.samayam.com/tv/news/karthika-deepam-serial-today-episode-17th-september-2026-karthik-discovers-malini-devious-act-against-jyotsna-family/articleshow/134301644.cms)
-- [Disha Salian case: तुमच्या कर्मांचे फळ आता तुमच्यासमोर... आदित्य ठाकरेंनी खुलासा करताच दिशाच्या वडिलांचे प्रसिद्धीपत्रक](https://pudhari.news/maharashtra/mumbai/disha-salian-father-press-release-reaction-on-aaditya-thackeray-statement-aas86)
-- [UPI Payments : यूपीआय चार्जेसचा भुर्दंड टाळायचाय? व्यापाऱ्यांसाठी 5 सोप्या ट्रिक्स](https://marathi.asianetnews.com/utility-news/5-smart-tricks-for-merchants-to-avoid-upi-mdr-charges/photoshow-i8vyn1u)
-- [Woman Father Chennai Police abduct interfaith couple in Pune rescued after highway chase Crime News; 23 वर्षीय मुलीचा पळून धर्माबाहेर विवाह, पित्याने पुणे गाठलं﻿, लेक-जावयाला उचलून लॉजवर नेलं, बापासह](https://maharashtratimes.com/maharashtra/pune-news/woman-father-chennai-police-abduct-interfaith-couple-in-pune-rescued-after-highway-chase/articleshow/134300980.cms)
-- [বুম্বাকাকুকে নয়, সেটে যেন ডাক্তার কাকুকে দেখেছি: ঋদ্ধি সেন](https://eisamay.com/entertainment/riddhi-sen-shares-experience-of-work-with-prasenjit-chatterjee/200543693.cms)
+- [Podarillu Serial Today Sep17th: మాధవ్‌ నిశ్చితార్థం చెడగొట్టినందుకు చక్రికి అందరూ అభినందనలు..అన్న చేతిలో మాత్రం చీవాట్లు](https://telugu.abplive.com/entertainment/tv/podarillu-serial-today-september17th-2026-episode-written-update-in-telugu-jio-hot-star-259113)
+- ['भारत पर दुनियाभर का भरोसा बढ़ा', सेमीकॉन इंडिया में PM मोदी ने दिया फ्यूचर मंत्र](https://www.aajtak.in/technology/tech-news/story/semicon-india-2026-pm-modi-inauguration-300-international-companies-ttecr-dskc-2644300-2026-09-17)
+- ['दाऊद ने मुझे वहां...', अंडरवर्ल्ड डॉन संग वायरल तस्वीर पर सालों बाद मंदाकिनी ने तोड़ी चुप्पी](https://www.livehindustan.com/entertainment/bollywood/ram-teri-ganga-maili-actress-mandakini-reveals-truth-behind-her-viral-photo-with-dawood-ibrahim-in-latest-interview-201789619821906.html)
+- [Supreme Court : कोर्टातले तुमचे व्हिडिओ सोशल मीडियावर? तुम्हाला हटवण्याचा अधिकार, सुप्रीम कोर्टाच्या आदेशात स्पष्टच म्हटलंय](https://maharashtratimes.com/india-news/court-live-arguments-video-viral-on-social-media-important-supreme-court-decision/articleshow/134302019.cms)
+- [જમ્મુ-કાશ્મીરના ઉધમપુરમાં મોડી રાત્રે ભીષણ અથડામણ: સુરક્ષા દળોએ જૈશના 2 આતંકીઓને કર્યા ઠાર!](https://www.gujaratsamachar.com/news/national/fierce-encounter-in-udhampur-jammu-and-kashmir-late-night-security-forces-kill-2-jaish-terrorists-65246771184)
+- [പരിമിതികളെ തോൽപ്പിച്ച ജീവിതം; കുറ്റിക്കോടിന്റെ സ്വന്തം സൽമാൻ ഇന്ന് കേരളമാകെ അറിയപ്പെടുന്ന താരം](https://chandrikadaily.com/salman-kuttikkode-from-instagram-reels-to-the-big-screen-in-kerala.html)
+- [யுபிஐ தானியங்கி பரிவர்த்தனை முறையில் ஓடிடி, எஸ்ஐபி, காப்பீட்டு பிரீமியம் செலுத்த 0.4% எம்டிஆர் கட்டணம் வசூலிக்கப்படாது](https://www.hindutamil.in/news/business/no-04-mdr-charge-for-ott-sip-insurance-premium-payments-through-upi-automated-transaction-system)
+- [Weather Update: తెలుగు రాష్ట్రాలకు ఐఎండీ బిగ్ అలర్ట్.. ఈ ప్రాంతాల్లో భారీ నుంచి అతి భారీ వర్షాలు](https://telugu.asianetnews.com/gallery/andhra-pradesh/imd-heavy-rain-alert-for-ap-and-telangana-heavy-to-very-heavy-rainfall-forecast-for-next-2-days-weather-update-d69woqt)
+- [भारत से लौटकर बीमार पड़ गए जिनपिंग समेत कई बड़े नेता? सरकार ने दिया जवाब](https://www.livehindustan.com/national/did-several-senior-leaders-including-xi-jinping-fall-ill-after-returning-from-india-brics-201789620132439.html)
+- [বাংলাদেশের সাধারণ মানুষই আমাকে সেলিব্রেট করে- আড্ডায় ওপার বাংলার জনপ্রিয় অভিনেত্রী দীপান্বিতা মার্টিন](https://www.etvbharat.com/bn/entertainment/bangladeshi-actress-deepanwita-martin-talks-about-manusher-bagan-award-career-and-more-wbs26091700906)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
