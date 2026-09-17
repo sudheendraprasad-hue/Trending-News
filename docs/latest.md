@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-17 20:01:56
+# India Trending Report — 2026-09-17 20:34:22
 
 ## Google Trends (India) — top trending searches
-1. [gerónimo rulli](https://trends.google.com/trending/rss?geo=IN)
-2. [thar 3 door facelift](https://trends.google.com/trending/rss?geo=IN)
-3. [ugc net result 2026](https://trends.google.com/trending/rss?geo=IN)
+1. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
+2. [trinbago knight riders women vs guyana amazon warriors women match scorecard](https://trends.google.com/trending/rss?geo=IN)
+3. [gerónimo rulli](https://trends.google.com/trending/rss?geo=IN)
 4. [beşiktaş vs marseille](https://trends.google.com/trending/rss?geo=IN)
 5. [itat ruling on tax misreporting penalty](https://trends.google.com/trending/rss?geo=IN)
-6. [málaga vs villarreal](https://trends.google.com/trending/rss?geo=IN)
-7. [மாணவர்](https://trends.google.com/trending/rss?geo=IN)
-8. [floyd samba](https://trends.google.com/trending/rss?geo=IN)
-9. [ugc net](https://trends.google.com/trending/rss?geo=IN)
-10. [viral video](https://trends.google.com/trending/rss?geo=IN)
+6. [thar 3 door facelift](https://trends.google.com/trending/rss?geo=IN)
+7. [ugc net result 2026](https://trends.google.com/trending/rss?geo=IN)
+8. [málaga vs villarreal](https://trends.google.com/trending/rss?geo=IN)
+9. [மாணவர்](https://trends.google.com/trending/rss?geo=IN)
+10. [ugc net](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Who owns Tata, who runs it? The Tata Sons-Tata Trusts power tussle explained](https://timesofindia.indiatimes.com/business/india-business/who-owns-tata-who-runs-it-the-power-struggle-between-tata-sons-and-tata-trusts-explained-noel-tata-n-chandrasekaran/articleshow/134314550.cms)
+- [Flowers at 10,600ft: World’s highest twin fields unveiled in Leh](https://timesofindia.indiatimes.com/india/flowers-at-10600ft-worlds-highest-twin-fields-unveiled-in-leh/articleshow/134320977.cms)
 - [No official dinners, foreign travel: Pak rolls out austerity measures amid fuel shock](https://timesofindia.indiatimes.com/world/pakistan/no-official-dinners-foreign-travel-pakistan-rolls-out-austerity-measures-amid-fuel-shock/articleshow/134318533.cms)
-- [Once allies, now rivals: Decoding deepening fault lines between Akhilesh & Jayant](https://timesofindia.indiatimes.com/india/if-i-open-my-mouth-decoding-deepening-fault-lines-between-allies-turned-rivals-akhilesh-yadav-jayant-choudhary/articleshow/134311717.cms)
 - [Abhishek Sharma's record 30-ball century powers India to 3-0 T20I series sweep](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharmas-record-30-ball-century-powers-india-to-3-0-t20i-series-sweep-vs-afghanistan/articleshow/134318394.cms)
-- [Bangladesh PM Rahman wishes PM Modi on birthday, wishes him good health & high spirit](https://timesofindia.indiatimes.com/india/may-your-service-be-accompanied-by-good-health-bangladesh-pm-rahman-wishes-pm-modi-on-birthday/articleshow/134320743.cms)
+- [Once allies, now rivals: Decoding deepening fault lines between Akhilesh & Jayant](https://timesofindia.indiatimes.com/india/if-i-open-my-mouth-decoding-deepening-fault-lines-between-allies-turned-rivals-akhilesh-yadav-jayant-choudhary/articleshow/134311717.cms)
 - [New Green Card rules from September 18: Full list of categories affected](https://timesofindia.indiatimes.com/technology/tech-news/starting-september-18-new-green-card-rules-coming-into-effect-full-list-of-categories-that-are-subject-to-the-change-and-those-that-are-not/articleshow/134305577.cms)
+- [Bangladesh PM Rahman wishes PM Modi on birthday, wishes him good health & high spirit](https://timesofindia.indiatimes.com/india/may-your-service-be-accompanied-by-good-health-bangladesh-pm-rahman-wishes-pm-modi-on-birthday/articleshow/134320743.cms)
 - [Will Trump's Russia sanctions Bill force India to stop buying crude from Moscow?](https://timesofindia.indiatimes.com/business/india-business/100-trump-tariffs-loom-russia-sanctions-bill-passed-in-us-will-it-make-india-stop-buying-crude-from-moscow/articleshow/134300254.cms)
+- [Kashmir cracks walnut success code, turns to medium-sized, grafted trees](https://timesofindia.indiatimes.com/india/kashmir-cracks-walnut-success-code-turns-to-medium-sized-grafted-trees/articleshow/134320993.cms)
 - [2 Jaish terrorists killed in J&K's Udhampur](https://timesofindia.indiatimes.com/india/2-jaish-terrorists-killed-in-udhampur/articleshow/134320904.cms)
-- [TMC vs TMC: EC bars both factions from using party symbol, name in Bengal bypolls](https://timesofindia.indiatimes.com/india/tmc-vs-tmc-ec-bars-both-factions-from-using-party-symbol-name-in-west-bengal-assembly-bypolls/articleshow/134317112.cms)
-- [US making ‘major progress’ towards Army base in Poland, says Donald Trump](https://timesofindia.indiatimes.com/world/us/us-making-major-progress-towards-army-base-in-poland-says-donald-trump/articleshow/134319481.cms)
 
 **NDTV**
 - [Opinion: Opinion | US Has Now Weaponised India's Russia Oil Dependence. Can New Delhi Cope?](https://www.ndtv.com/opinion/us-has-weaponised-indias-russia-oil-dependence-now-what-12059199#publisher=newsstand)
@@ -49,29 +49,19 @@
 - [Kerala child rights panel calls for gender-inclusive rules, bars schools from penalising boys over hair length](https://www.hindustantimes.com/india-news/kerala-child-rights-panel-calls-for-gender-inclusive-rules-bars-schools-from-penalising-boys-over-hair-length-101789650937608.html)
 - [CBSE says no to Class 6 exemption from 3-language rule; SC suggests 2027 rollout](https://www.hindustantimes.com/india-news/cbse-says-no-to-class-6-exemption-from-3-language-rule-sc-suggests-2027-rollout-101789651714764.html)
 
-**Vijay Karnataka**
-- [ಸತ್ಯನಾರಾಯಣ ಪೂಜೆ ನೆರವೇರಿಸಿದ ಹಾವೇರಿ ಪೊಲೀಸ್‌ Dysp ಸಮೀವುಲ್ಲಾ ದಂಪತಿ; ಭಾವೈಕ್ಯತೆ ಸಂದೇಶ!](https://vijaykarnataka.com/news/haveri/haveri-police-dysp-sameevulla-and-his-wife-muslim-perform-satyanarayana-puja-a-message-of-communal-harmony/articleshow/134315279.cms)
-- [ಬೆಂಗಳೂರಿನ ಜಯನಗರದಲ್ಲಿ AI ಸ್ಮಾರ್ಟ್‌ ಪಾರ್ಕಿಂಗ್‌: ವಾಹನ ನಿಲ್ಲಿಸಿದ 5 ನಿಮಿಷಗಳೊಳಗೆ ಡಿಜಿಟಲ್‌ ಪಾವತಿ ಕಡ್ಡಾಯ!](https://vijaykarnataka.com/news/bengaluru-city/ai-based-smart-parking-implementation-in-jayanagar-bengaluru/articleshow/134318047.cms)
-- [ನಮ್ಮ ಮೆಟ್ರೋ ಕಿತ್ತಳೆ ಮಾರ್ಗದಲ್ಲಿ ಮಹತ್ವದ ಬದಲಾವಣೆ: ಡಬಲ್‌ ಡೆಕ್ಕರ್‌ 11 KM ಸೀಮಿತಗೊಳಿಸಿ ಅನುಮತಿ! 3 ಕಡೆ ನಿರ್ಮಾಣ](https://vijaykarnataka.com/news/bengaluru-city/namma-metros-orange-line-major-change-approval-granted-for-a-double-decker-structure-limited-to-11-km-3-locations/articleshow/134315996.cms)
-- [ಮೊದಲ ಪ್ರೀತಿಯ ನೆನಪು ಯಾಕೆ ಎಂದಿಗೂ ಕಾಡುತ್ತದೆ? ಮನಃಶಾಸ್ತ್ರ ಹೇಳುವ ಪ್ರಮುಖ ಕಾರಣಗಳು](https://vijaykarnataka.com/lifestyle/relationship/first-love-memories-psychology-why-never-fade/articleshow/134310755.cms)
-- [ಗಣೇಶ ಹಬ್ಬದ ವೇಳೆ ಪ್ರಯಾಣಿಕರ ಸುಲಿಗೆಗೆ ನಿಂತ ಖಾಸಗಿ ಬಸ್ ಗಳಿಗೆ ಸಾರಿಗೆ ಅಧಿಕಾರಿಗಳಿಂದ ಬಿಸಿ: ಹೀಗಿತ್ತು 5 ದಿನದ ಕಾರ್ಯಾಚರಣೆ](https://vijaykarnataka.com/news/karnataka/transport-officials-collect-73-lakh-fine-for-private-buses-fleecing-during-ganesha-festival/articleshow/134318926.cms)
-- [ʻಎಂ.ಎಸ್‌ ಸುಬ್ಬುಲಕ್ಷ್ಮಿ ಬಯೋಪಿಕ್‌ಗೆ ರಶ್ಮಿಕಾ ಸೆಟ್‌ ಆಗಲ್ಲ..ʼ! ಶಿವಶ್ರೀ, ವಿದ್ಯಾ ಬಾಲನ್‌ ಸೂಕ್ತ ಎಂದ ನೆಟ್ಟಿಗರು](https://vijaykarnataka.com/entertainment/news/ms-subbulakshmi-biopic-rashmika-mandanna-role-sparks-debate/articleshow/134316596.cms)
-- [ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿ ಸಿಂಹಾಸನದ ಮೇಲೆ ಗಣಪ; ಸೀರೆಯಲ್ಲಿ ಸಾನಿಯಾ, ಪಿಂಕ್ ಸೂಟ್‌ನಲ್ಲಿ ಸಾರಾ ಮಿಂಚಿಂಗ್!](https://vijaykarnataka.com/lifestyle/fashion/sara-tendulkar-pink-suit-saniya-chandok-saree-ganesh-chaturthi/articleshow/134277830.cms)
-- [ಸೂರ್ಯಾಸ್ತದ ನಂತರ ಮಾಡಬಾರದೆಂದು ಹೇಳಲಾಗುವ ಕೆಲಸಗಳು ಯಾವುವು.?](https://vijaykarnataka.com/religion/hinduism/try-to-avoid-doing-these-works-after-sunset/articleshow/134312494.cms)
-- [76ರಲ್ಲೂ ಫಿಟ್ ಆಗಿರುವ ಮೋದಿ: ದೈನಂದಿನ ಡಯಟ್, ಯೋಗ, ಫಿಟ್ನೆಸ್ ರೂಟೀನ್ ಹೇಗಿದೆ?](https://vijaykarnataka.com/lifestyle/fitness/pm-modi-birthday-daily-diet-yoga-fitness-routine-at-76/articleshow/134305327.cms)
-- [ಒಂದು ವಿವಾಹ, ಒಂದೇ ಖಾದ್ಯ! ಪಾಕಿಸ್ತಾನದಲ್ಲಿ ಮದುವೆ ಊಟಕ್ಕೂ ತಟ್ಟಿದ ಇಂಧನ ಬಿಕ್ಕಟ್ಟು; ಲಾಕ್ ಡೌನ್ ಮಾದರಿಯ ಪರಿಸ್ಥಿತಿ!](https://vijaykarnataka.com/business/news/fuel-crisis-hits-wedding-feasts-in-pakistan-lockdown-like-situation/articleshow/134317204.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [The crucial Uttar Pradesh test of the BJP’s hegemony](https://www.thehindu.com/opinion/lead/the-crucial-uttar-pradesh-test-of-the-bjps-hegemony/article71477301.ece)
+- [It took two to tango to set stage for September 17, 1948 in Hyderabad](https://www.thehindu.com/news/national/telangana/it-took-two-to-tango-to-set-stage-for-september-17-1948-in-hyderabad/article71473475.ece)
+- [Puthur zoo offers blueprint for relocation of zoo in Keralam’s capital: expert](https://www.thehindu.com/news/national/kerala/puthoor-zoo-a-model-for-relocation-expert/article71477916.ece)
+- [LPG agencies likely to face the heat of MDR, plan to approach government](https://www.thehindu.com/news/cities/Hyderabad/lpg-agencies-likely-to-face-the-heat-of-mdr-plan-to-approach-government/article71477655.ece)
+- [Semicon India 2026: Amid ‘weaponisation’ of supply chains, PM pitches India as a ‘trustworthy’ chipmaking destination](https://www.thehindu.com/news/national/semicon-india-2026-indias-semiconductor-ecosystem-expanding-opening-new-opportunities-says-modi/article71475696.ece)
 - [New fault lines: On Manipur’s Kuki-Zo–Naga conflict](https://www.thehindu.com/opinion/editorial/new-fault-lines-on-manipurs-kuki-zonaga-conflict/article71476964.ece)
 - [Prasanna Kumar Acharya is new CMD of NLCIL](https://www.thehindu.com/news/national/tamil-nadu/prasanna-kumar-acharya-is-new-cmd-of-nlcil/article71477770.ece)
 - [Disha Salian’s father sends ₹500-crore defamation notice to Aaditya Thackeray](https://www.thehindu.com/news/national/maharashtra/disha-salians-father-sends-500-crore-defamation-notice-to-aaditya-thackeray/article71477061.ece)
 - [SC/ST Commission seeks action over alleged humiliation of Adi Dravida students in Cuddalore](https://www.thehindu.com/news/national/tamil-nadu/scst-commission-seeks-action-over-alleged-humiliation-of-adi-dravida-students-in-cuddalore/article71477340.ece)
 - [E.M. Sudarsana Natchiappan, former Union Minister and senior Congress leader, passes away at 78](https://www.thehindu.com/news/national/tamil-nadu/em-sudarsana-nachiappan-former-union-minister-and-senior-congress-leader-passes-away-at-79/article71475548.ece)
-- [State Finance Commission chairman calls for authority, greater fiscal autonomy for local bodies](https://www.thehindu.com/news/national/tamil-nadu/state-finance-commission-chairman-calls-for-authority-greater-fiscal-autonomy-for-local-bodies/article71476010.ece)
-- [NPTEL survey proposing ‘charge’ for access to free learning modules creates discontent](https://www.thehindu.com/education/nptel-survey-proposing-charge-for-access-to-free-learning-modules-creates-discontent/article71477183.ece)
-- [NHAI to build foot overbridge at Poigai village](https://www.thehindu.com/news/national/tamil-nadu/nhai-to-build-foot-overbridge-at-poigai-village/article71476561.ece)
-- [Driver brings bus to a halt before dying of cardiac arrest in Vellore](https://www.thehindu.com/news/national/tamil-nadu/driver-brings-bus-to-a-halt-before-dying-of-cardiac-arrest-in-vellore/article71476547.ece)
-- [RPF seize 32 kg ganja at Jolarpet railway station](https://www.thehindu.com/news/national/tamil-nadu/rpf-seize-32-kg-ganja-at-jolarpet-railway-station/article71476554.ece)
 
 **Livemint**
 - [Intense Heat Strains Power Grids for 100 Million North Americans](https://www.livemint.com/news/us-news/intense-heat-strains-power-grids-for-100-million-north-americans-11789671135819.html)
@@ -100,8 +90,9 @@
 - [ಅಫ್ಘಾನಿಸ್ತಾನದ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ 127 ರನ್ ಗಳ ಭರ್ಜರಿ ಜಯ; 3–0 ಅಂತರದಲ್ಲಿ ಸರಣಿ ಕ್ಲೀನ್‌ ಸ್ವೀಪ್‌](https://www.varthabharati.in/sports/massive-127-run-win-for-india-against-afghanistan-series-cleansweep-at-30-margin-2275956)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (5.2)
+- India (6.8)
 - Delhi (4.2)
+- September (2.6)
 - Opinion (2.6)
 - Congress (2.2)
 - PM Modi (2.0)
@@ -112,23 +103,22 @@
 - Mamata (1.6)
 - Assam (1.6)
 - Trusts (1.3)
-- Once (1.3)
-- Decoding (1.3)
-- Akhilesh (1.3)
+- Flowers (1.3)
+- World (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Lionel Messi scores brilliantly and reaches a special milestone](https://www.goal.com/en/news/lionel-messi-scores-brilliantly-and-reaches-special-milestone/blt3a83b346b680b26e)
-- ['प्रधानमंत्री का काम...' ट्रंप की ग्लोबल रिपोर्ट के एक पन्ने में मोदी का नाम, यह 'लड़ाई' भारत के साथ मिलकर लड़ रहा अमेरिका](https://navbharattimes.indiatimes.com/india/donald-trump-praises-narendra-modi-on-us-india-fighting-illicit-drugs-opium-around-world-in-global-report/articleshow/134304982.cms)
-- [Silver Price Crash: चांदी में बड़ी गिरावट... हाई से अब 1.90 लाख रुपये सस्ती, सोना धड़ाम](https://www.aajtak.in/business/utility/story/silver-price-crash-more-cheaper-from-high-gold-rate-also-plunges-check-10-gram-24-karat-rate-today-tutc-dskc-2644321-2026-09-17)
-- [મ્યુચ્યુઅલ ફંડ અને ટ્રેડિંગ પર 0.02% UPI ફી: બ્રોકર્સ ચૂકવશે કે રોકાણકારોના ખિસ્સા કપાશે? સમજો ગણિત](https://www.gujaratsamachar.com/news/business/002percent-upi-fee-on-mutual-funds-and-trading-will-brokers-pay-or-will-investors-pockets-be-cut-understand-the-math-97760388579)
-- [বাবা হিসেবে মোটামুটি, স্বামী হিসেবে যথেষ্ট খারাপ! ব্যক্তিগত জীবন নিয়ে অকপট প্রসেনজিৎ, পাশে ঋদ্ধি](https://www.thewall.in/entertainment/prosenjit-chatterjee-talks-about-wife-arpita-son-mishuk-fatherhood-and-marriage-with-riddhi-sen/tid/205046)
-- [NSE IPO opens for subscription: From GMP to market cap & global comparison - top 10 things to know](https://timesofindia.indiatimes.com/business/india-business/nse-ipo-opens-for-subscription-from-gmp-to-market-cap-global-comparison-top-10-things-to-know/articleshow/134305003.cms)
-- [গ্রেফতার মাওবাদী নেতা](https://www.aaroananda.com/story/latest-news/breaking-news/top-maoist-leader-akash-detained-by-kolkata-police-stf/11020055)
-- [एखादी महिला आपल्याला पाहिजे तशी दिसली नाही मग तिला कमी लेखायचं, का! कतरिनाला होणाऱ्या बॉडी शेमिंगवर भडकला पाकिस्तानी अभिनेता](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/pakistani-actor-ali-zafar-slamed-trollers-for-katrina-kaif-body-shaming-from-mukesh-and-nita-ambani-ganpati-celebration-photo/articleshow/134304457.cms)
-- [Prabhakar More On Ganpati In Konkan; 'भात शेतीच्या बांधावरून डोक्यावर गणपती घेऊन घरी आणण्यात खरी मजा', प्रभाकर मोरेंनी सांगितली कोकणातील परंपरा](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/maharashtrachi-hasyajatra-fame-prabhakar-more-talks-about-ganpati-rituals-in-konkan/articleshow/134304881.cms)
-- [India warns new US tariffs over Russian oil could impact ties](https://www.aljazeera.com/news/2026/9/17/india-warns-new-us-tariffs-over-russian-oil-could-impact-ties)
+- [IND vs WI: কেন ওয়েস্ট ইন্ডিজ়ের বিরুদ্ধে ভারতীয় দলে সুযোগ পেলেন না পাণ্ড্য, পন্থ? জানা গেল আসল কারণ](https://bengali.abplive.com/sports/cricket/india-did-not-chose-rishabh-pant-hardik-pandya-ind-vs-wi-series-know-reason-behind-it-1193138)
+- [सऊदी हो या अरब सागर... PAK का सेट पैटर्न, मौके से पीठ दिखाकर भाग जाता है](https://www.aajtak.in/defence-news/story/pakistan-backing-out-promises-mecca-agreement-saudi-arabia-indian-navy-warship-incident-dskc-2644749-2026-09-17)
+- [యూపీఐ ట్యాక్స్.. ప్రతిపాదన ఏదీ చర్చించలేదు: కాంగ్రెస్ ఎంపీలు](https://www.eenadu.net/telugu-news/india/congress-mp-on-claim-that-party-mps-did-not-dissent-on-upi-tax/0701/126167955)
+- [റോബോട്ടുകളെ നിർമിക്കാൻ റോബോട്ടുകൾ? ചൈനയിൽ പുതിയ വിപ്ലവകരമായ ഫാക്ടറി പ്രവർത്തനം ആരംഭിച്ചു](https://www.expresskerala.com/news/robots-building-robots-a-new-revolutionary-factory-operation-has-launched-in-china.html)
+- [కత్రినా కైఫ్‌పై బాడీ షేమింగ్.. హీరోయిన్ తరపున స్ట్రాంగ్ కౌంటర్ ఇస్తున్నది ఎవరో తెలుసా ?](https://telugu.asianetnews.com/gallery/entertainment/katrina-kaif-body-shamed-after-post-pregnancy-appearance-fans-and-celebrities-react-2spbus8)
+- [US drone firm linked to Trump's sons signs deal with Pakistan army](https://www.indiatoday.in/world/story/pak-army-powerus-us-drone-firm-mou-initial-order-trump-sons-backed-company-2996676-2026-09-17)
+- [Uddhav Thackeray: फडणवीस, तुमची भाजप पुढच्या वेळी सत्ता… उद्धव ठाकरे यांचे मोठे भाकीत, तुमसे ना हो पाएगा कार्यक्रमातून जबरी टीका](https://www.tv9marathi.com/maharashtra/sambhaji-nagar/uddhav-thackeray-big-statements-devendra-fadnavis-your-bjp-will-lose-power-next-time-uddhav-thackeray-makes-a-major-prediction-demands-declaration-of-drought-in-marathwada-1758340.html)
+- ['बिस्मिल्लाह' बोलकर ईशान किशन ने द‍िया प्रेस कॉन्फ्रेंस में जवाब, श्रेयस-अभ‍िषेक हुए हैरान, देखें VIDEO](https://www.aajtak.in/sports/cricket/story/ishan-kishan-bismillah-video-india-vs-afghanistan-nabi-abhishek-shreyas-tspok-dskc-2644745-2026-09-17)
+- [76 ఏళ్ల వయసులోనూ ఫిట్‌గా, ఆరోగ్యంగా మోదీ.. ప్రధాని డైట్ సీక్రెట్ ఏంటో తెలుసా?](https://www.andhrajyothy.com/2026/national/pm-modi-turns-76-know-the-diet-secrets-behind-his-fitness-and-healthy-lifestyle-1558810.html)
+- [Ajay Baraskar Manoj Jarange Patil: ब्रह्मराक्षस, पाळीव कुत्रं, कपटी, टेंडर योद्धा...; अजय बारसकरांचा मनोज जरांगेंवर घणाघात, काय काय म्हणाले?](https://marathi.abplive.com/news/politics/ajay-baraskar-criticism-manoj-jarange-patil-after-maratha-reservation-protest-called-off-1439401)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
