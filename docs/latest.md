@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-17 09:36:18
+# India Trending Report — 2026-09-17 10:02:03
 
 ## Google Trends (India) — top trending searches
-1. [നിരക്ക്](https://trends.google.com/trending/rss?geo=IN)
-2. [australia](https://trends.google.com/trending/rss?geo=IN)
-3. [இந்தியா](https://trends.google.com/trending/rss?geo=IN)
-4. [aaditya thackeray anil deshmukh legal notice](https://trends.google.com/trending/rss?geo=IN)
-5. [మహేశ్ బాబు](https://trends.google.com/trending/rss?geo=IN)
-6. [oracle workforce reduction ai spending](https://trends.google.com/trending/rss?geo=IN)
-7. [चुनाव](https://trends.google.com/trending/rss?geo=IN)
-8. [कृषि यंत्र](https://trends.google.com/trending/rss?geo=IN)
-9. [ಲೋಕಾಯುಕ್ತ](https://trends.google.com/trending/rss?geo=IN)
-10. [उत्तर प्रदेश विधान सभा](https://trends.google.com/trending/rss?geo=IN)
+1. [asian games cricket match](https://trends.google.com/trending/rss?geo=IN)
+2. [israel iran war](https://trends.google.com/trending/rss?geo=IN)
+3. [rentomojo stock price](https://trends.google.com/trending/rss?geo=IN)
+4. [n chandrasekaran](https://trends.google.com/trending/rss?geo=IN)
+5. [ips officer bushra bano news](https://trends.google.com/trending/rss?geo=IN)
+6. [നിരക്ക്](https://trends.google.com/trending/rss?geo=IN)
+7. [australia](https://trends.google.com/trending/rss?geo=IN)
+8. [இந்தியா](https://trends.google.com/trending/rss?geo=IN)
+9. [aaditya thackeray anil deshmukh legal notice](https://trends.google.com/trending/rss?geo=IN)
+10. [మహేశ్ బాబు](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Tata Sons reverses course, reappoints Chandrasekaran as chairman for another 5 yrs](https://timesofindia.indiatimes.com/business/india-business/tata-sons-board-approves-re-appointment-of-n-chandrasekaran-as-chairman-of-tata-group-for-another-5-year-term/articleshow/134307569.cms)
 - [Bengaluru nurse chased, attacked with machete by husband; acid thrown](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-horror-nurse-chased-attacked-with-machete-and-acid-near-clinic-after-stepping-out-for-breakfast/articleshow/134305255.cms)
-- [Supreme Court pulls up Manipur over 25 unnatural deaths in relief camps](https://timesofindia.indiatimes.com/india/tell-your-chief-secretary-not-to-invite-orders-sc-pulls-up-manipur-over-25-unnatural-deaths-in-relief-camps/articleshow/134306986.cms)
-- [‘Is this a joke?’: Being named Narendra Modi isn’t easy for these MP men](https://timesofindia.indiatimes.com/city/bhopal/from-polite-enquiries-to-id-proof-being-modi-namesakes-has-its-downsides-for-these-mp-men/articleshow/134291335.cms)
+- [Govt debunks Pak claim that IAF MiG-29 crashed during landing due to pilot error](https://timesofindia.indiatimes.com/india/govt-debunks-pakistan-claim-that-iaf-mig-29-crashed-during-landing-due-to-pilot-error/articleshow/134306665.cms)
 - [America's Rorshach Test: Why Sydney Sweeney makes liberals go mad](https://timesofindia.indiatimes.com/world/us/the-weekly-vine-sydney-strawman-donald-trump/articleshow/134306011.cms)
-- [Accused was returning from club, cousin instigated him to chase woman biker](https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-woman-biker-murder-bid-accused-was-returning-from-club-cousin-instigated-him-to-chase-her/articleshow/134305322.cms)
+- [Supreme Court pulls up Manipur over 25 unnatural deaths in relief camps](https://timesofindia.indiatimes.com/india/tell-your-chief-secretary-not-to-invite-orders-sc-pulls-up-manipur-over-25-unnatural-deaths-in-relief-camps/articleshow/134306986.cms)
 - [New Green Card rules from September 18: Full list of categories affected](https://timesofindia.indiatimes.com/technology/tech-news/starting-september-18-new-green-card-rules-coming-into-effect-full-list-of-categories-that-are-subject-to-the-change-and-those-that-are-not/articleshow/134305577.cms)
+- [‘Is this a joke?’: Being named Narendra Modi isn’t easy for these MP men](https://timesofindia.indiatimes.com/city/bhopal/from-polite-enquiries-to-id-proof-being-modi-namesakes-has-its-downsides-for-these-mp-men/articleshow/134291335.cms)
+- [Accused was returning from club, cousin instigated him to chase woman biker](https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-woman-biker-murder-bid-accused-was-returning-from-club-cousin-instigated-him-to-chase-her/articleshow/134305322.cms)
 - [Doctors away, driver 'takes over charge' in Kanpur hospital's OPD](https://timesofindia.indiatimes.com/city/kanpur/kanpur-hospital-shocker-doctor-away-driver-prescribes-medicines-to-patients/articleshow/134304602.cms)
 - [Rizwan loses Lahore HC plea; PCB to take actions on Pakistan cricketers](https://timesofindia.indiatimes.com/sports/cricket/news/mohammad-rizwan-loses-lahore-hc-plea-pcb-to-take-actions-on-pakistan-cricketers/articleshow/134306136.cms)
-- [NSE IPO opens today: Should you subscribe to the issue?](https://timesofindia.indiatimes.com/business/india-business/nse-ipo-opens-for-subscription-from-gmp-to-market-cap-global-comparison-top-10-things-to-know/articleshow/134305003.cms)
-- [Expressway defects trigger 3-year NHAI ban, tolling suspended, Rs 42L penalty daily](https://timesofindia.indiatimes.com/business/india-business/expressway-develops-major-defects-weeks-after-opening-nhai-imposes-maximum-3-year-ban-on-concessionaire-first-ever-full-toll-suspension-and-rs-42-lakh-daily-compensation/articleshow/134306741.cms)
 
 **NDTV**
 - [India, China To Face New Trump Tariffs? US House Passes Russia Sanctions Bill](https://www.ndtv.com/world-news/us-congress-passes-sweeping-russia-sanctions-bill-12056969#publisher=newsstand)
@@ -38,6 +38,8 @@
 - [Saudi Seeks Help From France, Britain, Pakistan To Fight Houthis](https://www.ndtv.com/world-news/saudis-seek-allies-help-as-missile-defenses-run-low-in-fight-with-houthis-officials-say-12056629#publisher=newsstand)
 
 **Hindustan Times**
+- [Back on ‘shikaar’: Mahua Moitra slams bail to Swatantra Bhardwaj after his new ‘warning’ video](https://www.hindustantimes.com/india-news/back-on-shikaar-mahua-moitra-slams-bail-to-swatantra-bhardwaj-after-his-new-warning-video-101789636265948.html)
+- [Lokpal finds no merit in allegations against rebel TMC MP Arup Chakraborty](https://www.hindustantimes.com/india-news/lokpal-finds-no-merit-in-allegations-against-rebel-tmc-mp-arup-chakraborty-101789637191244.html)
 - [Karnataka declares 23 more taluks drought-hit, tally rises to 124](https://www.hindustantimes.com/india-news/karnataka-declares-23-more-taluks-drought-hit-tally-rises-to-124-101789637023402.html)
 - [Delhi CM's ‘insensitivity’: AAP slams state for celebrating PM's birthday days after Satya Niketan tragedy](https://www.hindustantimes.com/india-news/delhi-cms-insensitivity-aap-slams-state-for-celebrating-pms-birthday-days-after-satya-niketan-tragedy-101789634945059.html)
 - [Shehzad Poonawalla set to join Prime Video's 'Rise and Fall' Season 2 after BJP exit](https://www.hindustantimes.com/india-news/shehzad-poonawalla-set-to-join-prime-video-rise-and-fall-season-2-after-bjp-exit-101789635051621.html)
@@ -46,8 +48,6 @@
 - ['We are revering violence': Delhi HC objects to 'Shoorveer' song in Mirzapur film](https://www.hindustantimes.com/india-news/delhi-hc-objects-to-shoorveer-song-in-mirzapur-climax-asks-cbfc-to-decide-101789633952036.html)
 - ['UPI tax proposal not discussed': Congress MPs on House panel deny backing MDR](https://www.hindustantimes.com/india-news/upi-tax-proposal-not-discussed-congress-mps-parliamentary-panel-mdr-gaurav-gogoi-manish-tewari-p-chidambaram-101789632089706.html)
 - [India's scathing attack on Pak at UNSC: ‘9/11 architects didn’t hide in caves'](https://www.hindustantimes.com/india-news/indias-scathing-attack-on-pak-at-unsc-9-11-architects-didn-t-hide-in-caves-101789631253761.html)
-- [SC expresses shock over 34 unnatural deaths at camps in violence-hit Manipur, flags petty compensation](https://www.hindustantimes.com/india-news/sc-expresses-shock-over-unnatural-manipur-idp-deaths-questions-state-failure-101789632930279.html)
-- [SC to hear on Sep 22 plea against Delhi SIR exercise](https://www.hindustantimes.com/india-news/sc-to-hear-on-sep-22-plea-against-delhi-sir-exercise-101789632870476.html)
 
 **Vijay Karnataka**
 - [ರೇಷನ್‌ ಕಾರ್ಡ್‌ ಇ ಕೆವೈಸಿ ಗಡುವು ವಿಸ್ತರಿಸಿದ ಆಹಾರ ಇಲಾಖೆ; ನ್ಯಾಯಬೆಲೆ ಅಂಗಡಿ ಸಮಯವೂ ಬದಲಾವಣೆ! ದಿನದಲ್ಲಿ 2 ಬಾರಿ ಅವಕಾಶ](https://vijaykarnataka.com/news/karnataka/ration-card-e-kyc-deadline-extends-till-october-20-food-department-order-fair-price-shop-timings-also-changed/articleshow/134306894.cms)
@@ -62,18 +62,20 @@
 - [ಐಟಿ ಪಾರ್ಕ್‌, 50 ಸಾವಿರ ಸೈಟ್‌, ಸ್ಪೋರ್ಟ್ಸ್‌ ಸಿಟಿ ಸೇರಿದಂತೆ ಕಲ್ಯಾಣ ಕರ್ನಾಟಕಕ್ಕೆ 10 ಕಾರ್ಯಕ್ರಮ ಘೋಷಿಸಿದ ಡಿಕೆ ಶಿವಕುಮಾರ್](https://vijaykarnataka.com/news/kalaburagi/cm-dk-shivakumar-announces-10-new-development-schemes-for-kalyana-karnataka-it-park-sports-city-50-thousand-sites/articleshow/134305128.cms)
 
 **The Hindu**
+- [Congress leaders seek drought-hit status for Mahararashtra’s Latur, urgent relief measures](https://www.thehindu.com/news/national/maharashtra/congress-leaders-seek-drought-hit-status-for-mahararashtras-latur-urgent-relief-measures/article71475740.ece)
+- [Tamil was given prominence during Madurai Meenakshi temple consecration, says HR&CE Minister](https://www.thehindu.com/news/national/tamil-nadu/tamil-was-given-prominence-during-madurai-meenakshi-temple-kumbabishekam-says-hrampce-minister/article71476041.ece)
+- [Two terrorists killed in ongoing operation in J&K’s Udhampur](https://www.thehindu.com/news/national/jammu-and-kashmir/encounter-breaks-out-amid-anti-terror-operation-in-jks-udhampur/article71475233.ece)
+- [Karnataka Chief Minister D.K. Shivakumar and colleagues to ride open top double decker bus to Cabinet meeting in Mangaluru](https://www.thehindu.com/news/cities/Mangalore/karnataka-chief-minister-dk-shivakumar-and-colleagues-to-ride-open-top-double-decker-bus-to-cabinet-meeting-in-mangaluru/article71475832.ece)
 - [Semicon India 2026: India’s semiconductor ecosystem expanding; opening new opportunities, says Modi](https://www.thehindu.com/news/national/semicon-india-2026-indias-semiconductor-ecosystem-expanding-opening-new-opportunities-says-modi/article71475696.ece)
 - [‘Don’t drag national flag into politics’: Ponnam Prabhakar counters Kishan Reddy](https://www.thehindu.com/news/national/telangana/dont-drag-national-flag-into-politics-ponnam-prabhakar-counters-kishan-reddy/article71475682.ece)
 - [Centre in SC reduces NEET-SS qualifying percentile to 30%; TN to get 40 vacant seats back](https://www.thehindu.com/news/national/centre-in-sc-reduces-neet-ss-qualifying-percentile-to-30-tn-to-get-40-vacant-seats-back/article71475895.ece)
 - [Tamil Nadu Minister Vanni Arasu counters Premallatha Vijayakant’s remarks on VCK-TVK alliance](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-minister-vanni-arasu-counters-premallatha-vijayakants-remarks-on-vck-tvk-alliance/article71475713.ece)
 - [Supreme Court expresses shock over deaths in relief camps in Manipur, asks Chief Secretary to respond](https://www.thehindu.com/news/national/manipur/supreme-court-expresses-shock-over-deaths-in-relief-camps-in-manipur-asks-chief-secretary-to-respond/article71475957.ece)
 - [Four booked for attempt to murder after setting ablaze man in Keralam](https://www.thehindu.com/news/national/kerala/four-booked-for-attempt-to-murder-after-setting-ablaze-man-in-keralam/article71475664.ece)
-- [Tamil Nadu | How the Museum of Chettinad keeps a community’s memory alive](https://www.thehindu.com/life-and-style/tamil-nadu-museum-of-chettinad-visalakshi-ramaswamy-chettiar-heritage/article71467554.ece)
-- [Congress leaders seek drought-hit status for Mahararashtra’s Latur, urgent relief measures](https://www.thehindu.com/news/national/maharashtra/congress-leaders-seek-drought-hit-status-for-mahararashtras-latur-urgent-relief-measures/article71475740.ece)
-- [Debate rages over plan to shift Thiruvananthapuram zoo in Keralam](https://www.thehindu.com/news/national/kerala/debate-rages-over-plan-to-shift-thiruvananthapuram-zoo-in-keralam/article71475745.ece)
-- [Political integration unites territories, constitutional democracy unites citizens: Vice-President](https://www.thehindu.com/news/national/telangana/political-integration-unites-territories-constitutional-democracy-unites-citizens-vice-president/article71475785.ece)
 
 **Livemint**
+- [India proposes mandatory CCTVs at medical stores to regulate prescription drug sales](https://www.livemint.com/news/india/health-ministry-mandatory-cctv-coverage-medical-stores-prescription-drugs-regulation-of-sales-chemists-pharmacies-11789625876785.html)
+- [Xi Jinping health rumours: Unverified stroke post after BRICS Summit gets ‘Community Note’ on X](https://www.livemint.com/news/india/xi-jinping-health-rumours-unverified-stroke-claimafter-brics-summit-gets-community-note-on-x-new-delhi-trump-11789636834683.html)
 - [PM Modi birthday: How US, Russia, Nepal, Vietnam leaders wished him — ‘You rightly enjoy deep respect’](https://www.livemint.com/news/india/pm-modi-birthday-how-us-russia-nepal-vietnam-italy-meloni-wished-him-you-rightly-enjoy-deep-respect-11789634605913.html)
 - [Could China steal F-35 tech through Saudi Arabia deal? Report flags link amid Beijing's past record](https://www.livemint.com/news/world/could-china-steal-f-35-tech-through-saudi-arabia-deal-report-flags-link-amid-beijings-past-record-11789628901669.html)
 - ['Count your days': US Labor Department ramps up H-1B fraud probe amid increased scrutiny](https://www.livemint.com/news/us-news/count-your-days-us-labor-department-ramps-up-h-1b-fraud-probe-amid-increased-scrutiny-11789630081342.html)
@@ -82,8 +84,6 @@
 - [UPI charges row: Govt vs Rahul Gandhi as Cong MPs’ panel stand triggers war of words; Gogoi, Tewari respond](https://www.livemint.com/news/india/upi-new-charges-row-govt-vs-rahul-gandhi-as-cong-mps-panel-stand-sparks-war-of-words-gogoi-tewari-react-11789623661144.html)
 - [East-West pipeline shutdown hits home as Saudi Aramco halts supplies to Indian refiners: Report](https://www.livemint.com/news/india/eastwest-pipeline-shutdown-saudi-aramco-halts-supplies-to-indian-refiners-11789626993707.html)
 - [Trump warns of 'very heavy tariffs' if EU makes Canada an associate member](https://www.livemint.com/news/world/trump-warns-of-very-heavy-tariffs-if-eu-makes-canada-an-associate-member-11789624774432.html)
-- [‘Please bring Purnendu home’: 88-year-old mother of Indian Navy veteran detained in Qatar seeks answers | Exclusive](https://www.livemint.com/news/world/please-bring-purnendu-home-88-year-old-mother-of-indian-navy-veteran-detained-in-qatar-seeks-answers-exclusive-11789616780867.html)
-- [PM Modi birthday: Wishes pour in from across politics, sports and Bollywood](https://www.livemint.com/news/india/pm-modi-turns-76-birthday-wishes-pour-in-from-across-politics-sports-and-bollywood-11789622147053.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,37 +98,40 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಶಿವಸೇನೆ ಬಣಗಳು ತಮ್ಮದೇ ಚಿಹ್ನೆಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಡು ಸ್ವಂತ ಶಕ್ತಿಯ ಮೇಲೆ ಸ್ಪರ್ಧಿಸಲಿ: ಸುಪ್ರೀಂ ಕೋರ್ಟ್](https://www.varthabharati.in/National/supreme-court-insists-shiv-sena-factions-to-contest-on-their-own-symbols-2275798)
+- [ಕೇಂದ್ರ ಸಚಿವರ ಬೆಂಗಾವಲು ವಾಹನಗಳನ್ನು ಅಡ್ಡಾದಿಡ್ಡಿಯಾಗಿ ಓವರ್ಟೇಕ್ ಮಾಡಿದ ಆರೋಪ; ಬೈಕ್ ಸವಾರನ ವಿರುದ್ಧ ಪ್ರಕರಣ ದಾಖಲು](https://www.varthabharati.in/National/bike-rider-arrested-in-regards-to-disturbing-the-escort-of-central-minister-2275796)
+- [ಬೀದರ್ :  79ನೇ ಕಲ್ಯಾಣ ಕರ್ನಾಟಕ ದಿನಾಚರಣೆ; ಧ್ವಜಾರೋಹಣ ನಡೆಸಿದ ಸಚಿವ ಈಶ್ವರ್ ಖಂಡ್ರೆ](https://www.varthabharati.in/bidar/bidar-79th-kalyan-karnataka-day-minister-ishwar-khandre-hoisted-the-flag-2275794)
+- ["140 ಕೋಟಿ ಭಾರತೀಯರು ಮೊದಲು": ರಷ್ಯನ್ ತೈಲ ಕುರಿತು ಅಮೆರಿಕದ ಶೇ.100 ಸುಂಕ ಬೆದರಿಕೆಗೆ ಭಾರತದ ಪ್ರತಿಕ್ರಿಯೆ](https://www.varthabharati.in/national/140-crores-indians-come-first-says-mea-2275793)
 - [Kerala | ಮಿತಿಗಿಂತ ಹೆಚ್ಚು ಮದ್ಯ ಸಂಗ್ರಹ ಆರೋಪ: REPORTER TV ವ್ಯವಸ್ಥಾಪಕ ನಿರ್ದೇಶಕ ಆಂಟೋ ಆಗಸ್ಟಿನ್ ಬಂಧನ](https://www.varthabharati.in/National/anto-augustine-arrested-for-stacking-liquor-2275792)
 - [ಭಟ್ಕಳ:  AIMCAಯಲ್ಲಿ ಮತದಾರರ ಜಾಗೃತಿ ಕಾರ್ಯಕ್ರಮ](https://www.varthabharati.in/uttara-kannada/-aimca-2275791)
 - [​ರಾಜ್ಯದ ಇನ್ನಷ್ಟು ತಾಲೂಕುಗಳು ಬರಪೀಡಿತ: ಹೆಚ್ಚುವರಿಯಾಗಿ 23 ತಾಲೂಕುಗಳನ್ನು ಘೋಷಿಸಿದ ಸರಕಾರ](https://www.varthabharati.in/state/more-taluks-in-karnataka-declared-drought-hit-government-adds-23-more-taluks-2275790)
 - [ಮಂಗಳೂರು ಒಳಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಮೇಲ್ದರ್ಜೆಗೆ 350 ಕೋಟಿ ರೂ.; ಸಚಿವ ಸಂಪುಟ ಸಭೆಯಲ್ಲಿ ಮಂಜೂರಾತಿ ನಿರೀಕ್ಷೆ: ಯತೀಂದ್ರ ಸಿದ್ಧರಾಮಯ್ಯ](https://www.varthabharati.in/dakshinakannada/350-crore-for-upgrading-mangalurus-sewage-system-approval-expected-at-cabinet-meeting-yathindra-siddaramaiah-2275789)
 - [ಕೋಟೆಕಾರು ವ್ಯವಸಾಯ ಸೇವಾ ಸಹಕಾರ ಸಂಘಕ್ಕೆ 1181.10 ಕೋಟಿ ರೂ. ವ್ಯವಹಾರ; 1.91 ಕೋಟಿ ರೂ. ಲಾಭ](https://www.varthabharati.in/DakshinaKannada/kotekar-vyavasaya-seva-sahakara-sangha-records-rs-118110-crore-turnover-posts-rs-191-crore-profit-2275786)
 - [Maharashtra | ವಿವಾಹಿತೆ ಮೇಲೆ ಸಾಮೂಹಿಕ ಅತ್ಯಾಚಾರ ಆರೋಪ: ಬಿಜೆಪಿ ಮಾಜಿ ಶಾಸಕನ ವಿರುದ್ಧ ಎಫ್‌ಐಆರ್](https://www.varthabharati.in/national/harassment-against-a-married-woman-fir-filed-against-bjp-minister-2275785)
-- [BIT ಕಾಲೇಜಿನಲ್ಲಿ GATE ಪರೀಕ್ಷೆಯ ಬಗ್ಗೆ ಮಾಹಿತಿ ಕಾರ್ಯಾಗಾರ](https://www.varthabharati.in/DakshinaKannada/information-workshop-on-the-gate-exam-at-bit-college-2275784)
-- [ಮೋದಿ ಸಿದ್ಧಾಂತ: ಅಸ್ಥಿರತೆಯ ಯುಗದಲ್ಲಿ ಸ್ಥಿರತೆ](https://www.varthabharati.in/nimma-ankana/modi-doctrine-stability-in-an-era-of-instability-2275782)
-- [NFL ಪಂದ್ಯದ ವೇಳೆ ಫೆಲೆಸ್ತೀನ್ ಬಾಲಕಿ ʼಹಿಂದ್ ರಾಜಬ್ʼ ಹೆಸರಿನ ಪಟ್ಟಿ ಧರಿಸಿದ್ದಕ್ಕೆ ಆಟಗಾರನಿಗೆ 11,492 ಡಾಲರ್ ದಂಡ](https://www.varthabharati.in/sports/kyrie-irving-offers-to-pay-azeez-al-shaairs-11492-nfl-fine-over-hind-rajab-eye-black-2275780)
-- [ಮಂಗಳೂರು:  ಹಜ್ ಭವನಕ್ಕೆ ಇಂದು ಶಿಲಾನ್ಯಾಸ](https://www.varthabharati.in/dakshinakannada/mangalore-foundation-stone-laying-for-haj-bhavan-today-2275779)
 
 ## Cross-source trending keywords (derived from headlines above)
+- India (5.8)
 - Emkay Global Financial (5.0)
-- India (4.5)
-- Manipur (3.9)
 - Report (3.9)
-- Modi (3.8)
+- Modi (3.5)
 - Trump (3.2)
-- PM Modi (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
-- Keralam (2.6)
+- Govt (2.6)
+- Manipur (2.6)
 - Supreme Court (2.0)
+- PM Modi (2.0)
 - Buy Bajaj Finance (2.0)
+- Tamil (1.9)
 - Pakistan (1.6)
 - House (1.6)
-- Russia (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [కేసీఆర్‌ ఏందో తెలంగాణ ప్రజలకు తెలుసు.. ఉద్యమనేతపై బురదజల్లడమా?](https://www.ntnews.com/telangana/telangana-knows-what-kcr-stands-for-harish-rao-hits-back-at-revanth-2512545)
+- [At board meet, Noel Tata to push to keep Tata Sons private](https://timesofindia.indiatimes.com/business/india-business/at-board-meet-noel-to-push-to-keep-tata-sons-private/articleshow/134296591.cms)
+- [ప్రభుత్వ భూమిలో గజం, ఎకరం కోసం ఆలోచించే వ్యక్తా కేసీఆర్‌?](https://www.ntnews.com/telangana/harish-rao-defends-kcr-challenges-revanth-reddy-over-land-claims-2512611)
 - [Raphinha 10, Cancelo 9 | Barcelona 7-2 Racing Club: Player Ratings](https://barcauniversal.com/raphinha-10-cancelo-9-barcelona-7-2-racing-club-player-ratings/)
 - [20 മണിക്കൂർ നീണ്ട റെയ്ഡ് അവസാനിച്ചു, റിപ്പോർട്ടർ ടിവി ഓഫീസിൽ നിന്ന് നിരവധി രേഖകൾ പിടിച്ചെടുത്ത് എസ്ഐടി](https://www.asianetnews.com/kerala-news/sit-raid-in-reporter-tv-office-in-kochi-concludes-articleshow-0ylaa7e)
 - [अफीम के खिलाफ भारत की कार्रवाई पर ट्रंप ने की PM मोदी की तारीफ, कहा- भारत के प्रयासों का स्वागत](https://www.aajtak.in/world/story/us-president-donald-trump-praises-pm-modi-govt-action-on-opium-production-ntc-acwi-dskc-2644199-2026-09-17)
@@ -136,9 +139,6 @@
 - [రేవంత్‌ కుటుంబసభ్యులకు 308 ఎకరాలు](https://www.andhrajyothy.com/2026/telangana/harish-rao-alleges-cm-revanth-reddy-family-owns-308-acres-1558670.html)
 - [இடைத்தேர்தல் நடைபெறும் மதுராந்தகம், தாராபுரம் தொகுதிகளில் வேட்பு மனுத்தாக்கல் நிறைவடைந்தது](https://www.hindutamil.in/news/tamilnadu/nomination-filing-ends-in-madurantakam-dharapuram-bypolls)
 - [సిట్టింగ్‌ జడ్జితో విచారణకు సిద్ధమా?](https://www.sakshi.com/telugu-news/politics/harish-rao-challenges-cm-revanth-reddy-2904763)
-- [Nitish Reddy withdrawn from Asian Games in favour of West Indies ODIs](https://www.cricbuzz.com/cricket-news/140195/nitish-reddy-withdrawn-from-asian-games-in-favour-of-west-indies-odis-cricbuzzcom)
-- [அன்பில் மகேஷ் இடங்களில் ரெய்டு அரசியல் பழிவாங்கல் நடவடிக்கை: மு.க.ஸ்டாலின் கண்டனம்](https://www.dinakaran.com/news/anbil-mahesh-raid-political-vendetta-mk-stalin/)
-- [Centre slashes windfall tax on export of petrol, diesel, aviation fuel](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/india/centre-slashes-windfall-tax-on-export-of-petrol-diesel-aviation-fuel-14031536.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
