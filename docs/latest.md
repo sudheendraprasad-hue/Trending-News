@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-17 22:32:31
+# India Trending Report — 2026-09-17 23:01:43
 
 ## Google Trends (India) — top trending searches
-1. [श्रीलंका वि इंग्लंड](https://trends.google.com/trending/rss?geo=IN)
-2. [white](https://trends.google.com/trending/rss?geo=IN)
-3. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
-4. [सारा अली खान](https://trends.google.com/trending/rss?geo=IN)
-5. [trinbago knight riders women vs guyana amazon warriors women match scorecard](https://trends.google.com/trending/rss?geo=IN)
-6. [itat ruling on tax misreporting penalty](https://trends.google.com/trending/rss?geo=IN)
-7. [beşiktaş vs marseille](https://trends.google.com/trending/rss?geo=IN)
-8. [thar 3 door facelift](https://trends.google.com/trending/rss?geo=IN)
-9. [málaga vs villarreal](https://trends.google.com/trending/rss?geo=IN)
-10. [மாணவர்](https://trends.google.com/trending/rss?geo=IN)
+1. [crystal palace f.c. vs lech poznań standings](https://trends.google.com/trending/rss?geo=IN)
+2. [श्रीलंका वि इंग्लंड](https://trends.google.com/trending/rss?geo=IN)
+3. [white](https://trends.google.com/trending/rss?geo=IN)
+4. [ad](https://trends.google.com/trending/rss?geo=IN)
+5. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
+6. [सारा अली खान](https://trends.google.com/trending/rss?geo=IN)
+7. [trinbago knight riders women vs guyana amazon warriors women match scorecard](https://trends.google.com/trending/rss?geo=IN)
+8. [itat ruling on tax misreporting penalty](https://trends.google.com/trending/rss?geo=IN)
+9. [beşiktaş vs marseille](https://trends.google.com/trending/rss?geo=IN)
+10. [thar 3 door facelift](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -20,10 +20,10 @@
 - [Abhishek Sharma's record 30-ball century powers India to 3-0 T20I series sweep](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharmas-record-30-ball-century-powers-india-to-3-0-t20i-series-sweep-vs-afghanistan/articleshow/134318394.cms)
 - [Judge Amogh Kaloti: The man who holds key to Tata dispute](https://timesofindia.indiatimes.com/business/india-business/judge-amogh-kaloti-the-man-who-holds-key-to-tata-dispute/articleshow/134321260.cms)
 - [New Green Card rules from September 18: Full list of categories affected](https://timesofindia.indiatimes.com/technology/tech-news/starting-september-18-new-green-card-rules-coming-into-effect-full-list-of-categories-that-are-subject-to-the-change-and-those-that-are-not/articleshow/134305577.cms)
+- [Alliance with Cong over, DMK explores possibility of 3rd front](https://timesofindia.indiatimes.com/city/chennai/kanimozhi-meets-mamata-banerjee-as-dmk-works-on-third-front/articleshow/134318664.cms)
 - [PM Modi pitches India as trusted chipmaking hub](https://timesofindia.indiatimes.com/india/pm-modi-pitches-india-as-trusted-chipmaking-hub/articleshow/134322955.cms)
 - [SC raps CBSE for refusing to exempt Class VI from 3-language policy this yr](https://timesofindia.indiatimes.com/india/sc-raps-cbse-for-refusing-to-exempt-class-vi-from-3-language-policy-this-yr/articleshow/134322000.cms)
 - [Indian migrant first in UK charged over online illegal immigration ads](https://timesofindia.indiatimes.com/nri/other-news/indian-migrant-becomes-first-person-in-uk-charged-with-advertising-illegal-immigration-services-online/articleshow/134321003.cms)
-- [Teen brothers turn $4,000 pickup into $3 million junk business](https://timesofindia.indiatimes.com/world/us/two-massachusetts-brothers-started-a-junk-removal-business-as-teenagers-with-a-4000-pickup-truck-four-years-later-it-made-3-04-million-in-2025-and-is-targeting-5-million-in-2026/articleshow/134308239.cms)
 
 **NDTV**
 - [Opinion: Opinion | US Has Now Weaponised India's Russia Oil Dependence. Can New Delhi Cope?](https://www.ndtv.com/opinion/us-has-weaponised-indias-russia-oil-dependence-now-what-12059199#publisher=newsstand)
@@ -62,6 +62,8 @@
 - [ಒಂದು ವಿವಾಹ, ಒಂದೇ ಖಾದ್ಯ! ಪಾಕಿಸ್ತಾನದಲ್ಲಿ ಮದುವೆ ಊಟಕ್ಕೂ ತಟ್ಟಿದ ಇಂಧನ ಬಿಕ್ಕಟ್ಟು; ಲಾಕ್ ಡೌನ್ ಮಾದರಿಯ ಪರಿಸ್ಥಿತಿ!](https://vijaykarnataka.com/business/news/fuel-crisis-hits-wedding-feasts-in-pakistan-lockdown-like-situation/articleshow/134317204.cms)
 
 **The Hindu**
+- [West Bengal govt. participates in PM Modi’s birthday celebrations; life-size statue unveiled at BJP office in Kolkata](https://www.thehindu.com/news/cities/kolkata/west-bengal-govt-participates-in-pm-modis-birthday-celebrations-life-size-statue-unveiled-at-bjp-office-in-kolkata/article71476992.ece)
+- [No culture of cut-money in Bengal anymore: PM Modi](https://www.thehindu.com/news/cities/kolkata/no-culture-of-cut-money-in-bengal-anymore-pm-modi/article71477468.ece)
 - [FM Nirmala Sitharaman meets Nepalese counterpart Wagle, discusses flood recovery](https://www.thehindu.com/news/national/fm-nirmala-sitharaman-meets-nepalese-counterpart-wagle-discusses-flood-recovery/article71478365.ece)
 - [Satya Niketan building collapse case: Kiran Bedi moves Delhi HC seeking to intervene; Centre opposes](https://www.thehindu.com/news/cities/Delhi/satya-niketan-building-collapse-kiran-bedi-seeks-intervention-in-case-centre-opposes-plea/article71476239.ece)
 - [The crucial Uttar Pradesh test of the BJP’s hegemony](https://www.thehindu.com/opinion/lead/the-crucial-uttar-pradesh-test-of-the-bjps-hegemony/article71477301.ece)
@@ -70,8 +72,6 @@
 - [LPG agencies likely to face the heat of MDR, plan to approach government](https://www.thehindu.com/news/cities/Hyderabad/lpg-agencies-likely-to-face-the-heat-of-mdr-plan-to-approach-government/article71477655.ece)
 - [Semicon India 2026: Amid ‘weaponisation’ of supply chains, PM pitches India as a ‘trustworthy’ chipmaking destination](https://www.thehindu.com/news/national/semicon-india-2026-indias-semiconductor-ecosystem-expanding-opening-new-opportunities-says-modi/article71475696.ece)
 - [New fault lines: On Manipur’s Kuki-Zo–Naga conflict](https://www.thehindu.com/opinion/editorial/new-fault-lines-on-manipurs-kuki-zonaga-conflict/article71476964.ece)
-- [Prasanna Kumar Acharya is new CMD of NLCIL](https://www.thehindu.com/news/national/tamil-nadu/prasanna-kumar-acharya-is-new-cmd-of-nlcil/article71477770.ece)
-- [Disha Salian’s father sends ₹500-crore defamation notice to Aaditya Thackeray](https://www.thehindu.com/news/national/maharashtra/disha-salians-father-sends-500-crore-defamation-notice-to-aaditya-thackeray/article71477061.ece)
 
 **Livemint**
 - [Trump says ‘big decision’ coming on Iran war as he prepares to meet six Gulf leaders at UN General Assembly](https://www.livemint.com/news/us-news/trump-says-big-decision-coming-on-iran-war-as-he-prepares-to-meet-six-gulf-leaders-at-un-general-assembly-11789680832470.html)
@@ -102,16 +102,16 @@
 ## Cross-source trending keywords (derived from headlines above)
 - India (6.8)
 - Delhi (4.5)
+- PM Modi (4.0)
 - September (2.6)
 - CBSE (2.6)
 - Opinion (2.6)
-- PM Modi (2.0)
-- Disha Salian (2.0)
 - Indian (1.9)
 - Class (1.6)
 - Russian (1.6)
 - Mamata (1.6)
 - Assam (1.6)
+- Bengal (1.6)
 - Flowers (1.3)
 - World (1.3)
 - Michigan (1.3)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Vishwakarma Puja shubh muhurat 2026: বিশ্বকর্মা পুজোর শুভ মুহূর্ত কখন? জানুন মাহেন্দ্রক্ষণ ও অমৃতযোগ](https://bangla.aajtak.in/dharm-religion/story/vishwakarma-puja-2026-exact-shubh-muhurat-know-the-right-time-to-worship-your-car-and-bike-sud-1451977-2026-09-17)
-- [76-ൽ നരേന്ദ്ര മോദി: റീൽസിലേക്ക്; ഡിജിറ്റൽ സംവാദത്തിൽ പുതിയ ശൈലിയുമായി പ്രധാനമന്ത്രി](https://www.asianetnews.com/india-news/pm-modi-digital-glow-up-at-76-from-whatsapp-to-instagram-reels-articleshow-f7mrh4z)
-- [റഷ്യൻ ഡ്രോണുകൾക്ക് പിന്നിൽ ഉത്തരകൊറിയൻ വിയർപ്പ്; കോടികൾ ഒഴുകുന്നത് കിം ജോങ് ഉന്നിന്റെ ആണവ പദ്ധതികളിലേക്ക്](https://www.manoramaonline.com/news/latest-news/2026/09/17/north-korea-workers-build-drones-for-russia.html)
-- [রুদ্ধশ্বাস অভিযানে মেগা গ্রাফতারি, জালে শীর্ষ মাওবাদী নেতা অসীম মণ্ডল, ‘রেড টেরর’ নিয়ে হুঙ্কার শুভেন্দুর](https://bengali.indianexpress.com/west-bengal/maoist-leader-asim-mandal-arrested-west-bengal-east-midnapore-suvendu-adhikari-12544726)
-- [પીએમ મોદીના જન્મદિવસે એમપીમાં પ્રગટાશે 25 લાખ દીવા, રાહુલ ગાંધીએ ઉઠાવ્યા સવાલો](https://www.bbc.com/gujarati/articles/crq5x7e3pw2xo)
-- [Shivsena : मोठी बातमी : निवडणूक आयोगाने कोणत्या निकषाने पक्ष-चिन्ह एकनाथ शिंदेंना दिला? सुप्रीम कोर्टाचा खडा सवाल, आजच्या सुनावणीत काय घडलं?](https://marathi.abplive.com/news/politics/shiv-sena-party-symbol-verdict-eknath-shinde-group-argument-by-neeraj-kishan-kaul-uddhav-thackeray-maharashtra-politics-marathi-news-1439422)
-- [Akriti Agarwal announces separation from fiance Cricketer Prithvi Shaw amid speculation; पृथ्वी शॉचा साखरपुडा मोडला, आकृती अग्रवालची सोशल मीडियावर घोषणा; म्हणते, विभक्त होण्याच्या कारणांवर चर्चा करु न](https://maharashtratimes.com/sports/cricket/cricket-news/akriti-agarwal-announces-separation-from-fiance-cricketer-prithvi-shaw-amid-speculation/articleshow/134308455.cms)
-- [सुबह से रात तक कैसी रहती है PM मोदी की दिनचर्या, 76 की उम्र में भी एक्टिव रहने का क्या है राज?](https://www.jagran.com/lifestyle/health-pm-modis-daily-routine-from-morning-to-night-the-secret-to-his-boundless-energy-at-76-40376287.html)
-- [एन चंद्रशेखरन फिर टाटा संस के चेयरमैन चुन गए, नोएल टाटा ने किया विरोध](https://www.aajtak.in/business/news/story/n-chandrasekaran-reappointed-for-5-yrs-as-tata-sons-chairman-tutd-dskc-2644940-2026-09-17)
-- [Actress Sneha | చిరు ‘కాకా’లో స్నేహ.. మెగాస్టార్‌కి జోడీగా?](https://www.ntnews.com/cinema/actress-sneha-joins-megastar-chiranjeevis-highly-anticipated-film-kaaka-as-wife-2512934)
+- [Pakistan Army માટે અમેરિકન Drone! Powerusની ડીલમાં સામે આવ્યું ટ્રમ્પ કનેક્શન](https://www.gujaratfirst.com/international/powerus-pakistan-drone-deal-gujarat-first-digital/339801/)
+- [യമനിൽ സംഘർഷം രൂക്ഷം: നിരവധി കുട്ടികൾ കടുത്ത ദുരിതത്തിൽ](https://www.vaticannews.va/ml/world/news/2026-09/yemen-internal-conflict-children-at-risk-unicef-united-states.html)
+- [भारत-अफगानिस्तान का तीसरा टी20 'फ्री' में कब, कहां और कैसे देखें लाइव?](https://www.abplive.com/sports/cricket/how-to-watch-india-vs-afghanistan-3rd-t20i-live-in-free-know-live-streaming-details-3190216)
+- [‘മുപ്പത്തിയാറ് വര്‍ഷമായി ഈ കേസിന് പിന്നില്‍’; നൂറു ശതമാനം നീതി ലഭിച്ചെന്ന് പരാതിക്കാരൻ](https://www.manoramanews.com/kerala/latest/2026/09/17/former-dgp-tomin-j-thachankari-sentenced-four-years-jail-disproportionate-assets-case.html)
+- [Quote of the day by Stephen Hawking: "We are just an advanced breed of monkeys on a minor planet of…"](https://timesofindia.indiatimes.com/science/quote-of-the-day-by-stephen-hawking-we-are-just-an-advanced-breed-of-monkeys-on-a-minor-planet-of/articleshow/134309486.cms)
+- [Sanju Samson: संजू सॅमसनच्या सातत्यावर प्रश्न विचारणाऱ्यांनी हे सत्य नक्की वाचा](https://marathi.asianetnews.com/sports/cricket/sanju-samson-consistency-issues-and-the-truth-behind-his-cricket-career/articleshow-iyw5ek4)
+- ["वैभवला आणखी १० सामने बसवा...", माजी खेळाडूचा आगळावेगळा सल्ला; म्हणाला, "संजू सॅमसनला..."](https://www.loksatta.com/krida/former-indian-cricketer-on-team-india-opening-combination-abhishek-sharma-vaibhav-sooryavanshi-sanju-samson-amd-2000-6141584/)
+- [மோடிக்கு வாழ்த்து... பெரியாருக்கு புகழ்ச்சி... வைரலாகும் அண்ணாமலை ட்வீட்..!](https://kumudam.com/annamalai-wishes-pm-modi-praises-periyar-birthday-tweets)
+- [Supreme Court Again Asks CBSE To Consider Exempting Present Class 6 Students From 3-Language Policy](https://www.livelaw.in/top-stories/supreme-court-asks-cbse-to-reconsider-relaxation-of-3-language-policy-mandate-for-class-6-students-550509)
+- [வானிலை முன்னறிவிப்பு: நீலகிரி, கோவையில் கனமழைக்கு வாய்ப்பு](https://www.hindutamil.in/news/tamilnadu/weather-update-tomorrow-heavy-rain-chances-in-nilgiris-coimbatore-district)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
