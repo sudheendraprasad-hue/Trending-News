@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-17 21:02:06
+# India Trending Report — 2026-09-17 21:32:59
 
 ## Google Trends (India) — top trending searches
 1. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
@@ -10,20 +10,20 @@
 7. [málaga vs villarreal](https://trends.google.com/trending/rss?geo=IN)
 8. [மாணவர்](https://trends.google.com/trending/rss?geo=IN)
 9. [ugc net](https://trends.google.com/trending/rss?geo=IN)
-10. [viral video](https://trends.google.com/trending/rss?geo=IN)
+10. [wcpl](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Who owns Tata, who runs it? The Tata Sons-Tata Trusts power tussle explained](https://timesofindia.indiatimes.com/business/india-business/who-owns-tata-who-runs-it-the-power-struggle-between-tata-sons-and-tata-trusts-explained-noel-tata-n-chandrasekaran/articleshow/134314550.cms)
 - [Flowers at 10,600ft: World’s highest twin fields unveiled in Leh](https://timesofindia.indiatimes.com/india/flowers-at-10600ft-worlds-highest-twin-fields-unveiled-in-leh/articleshow/134320977.cms)
-- [No official dinners, foreign travel: Pak rolls out austerity measures amid fuel shock](https://timesofindia.indiatimes.com/world/pakistan/no-official-dinners-foreign-travel-pakistan-rolls-out-austerity-measures-amid-fuel-shock/articleshow/134318533.cms)
+- [US F-16 fighter jet crashes in Michigan, bursts into flames](https://timesofindia.indiatimes.com/world/us/us-f-16-fighter-jet-crashes-in-michigan-bursts-into-flames/articleshow/134321048.cms)
 - [Abhishek Sharma's record 30-ball century powers India to 3-0 T20I series sweep](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharmas-record-30-ball-century-powers-india-to-3-0-t20i-series-sweep-vs-afghanistan/articleshow/134318394.cms)
 - [Indian migrant first in UK charged over online illegal immigration ads](https://timesofindia.indiatimes.com/nri/other-news/indian-migrant-becomes-first-person-in-uk-charged-with-advertising-illegal-immigration-services-online/articleshow/134321003.cms)
 - [New Green Card rules from September 18: Full list of categories affected](https://timesofindia.indiatimes.com/technology/tech-news/starting-september-18-new-green-card-rules-coming-into-effect-full-list-of-categories-that-are-subject-to-the-change-and-those-that-are-not/articleshow/134305577.cms)
+- [No official dinners, foreign travel: Pak rolls out austerity measures amid fuel shock](https://timesofindia.indiatimes.com/world/pakistan/no-official-dinners-foreign-travel-pakistan-rolls-out-austerity-measures-amid-fuel-shock/articleshow/134318533.cms)
 - [Russia kicks off voting in first parliamentary election since Ukraine war began](https://timesofindia.indiatimes.com/world/europe/russia-kicks-off-voting-in-first-parliamentary-election-since-ukraine-war-began/articleshow/134321045.cms)
 - [Once allies, now rivals: Decoding deepening fault lines between Akhilesh & Jayant](https://timesofindia.indiatimes.com/india/if-i-open-my-mouth-decoding-deepening-fault-lines-between-allies-turned-rivals-akhilesh-yadav-jayant-choudhary/articleshow/134311717.cms)
 - [Bangladesh PM Rahman wishes PM Modi on birthday, wishes him good health & high spirit](https://timesofindia.indiatimes.com/india/may-your-service-be-accompanied-by-good-health-bangladesh-pm-rahman-wishes-pm-modi-on-birthday/articleshow/134320743.cms)
-- [Will Trump's Russia sanctions Bill force India to stop buying crude from Moscow?](https://timesofindia.indiatimes.com/business/india-business/100-trump-tariffs-loom-russia-sanctions-bill-passed-in-us-will-it-make-india-stop-buying-crude-from-moscow/articleshow/134300254.cms)
 
 **NDTV**
 - [Opinion: Opinion | US Has Now Weaponised India's Russia Oil Dependence. Can New Delhi Cope?](https://www.ndtv.com/opinion/us-has-weaponised-indias-russia-oil-dependence-now-what-12059199#publisher=newsstand)
@@ -100,7 +100,7 @@
 - [ಅಫ್ಘಾನಿಸ್ತಾನದ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ 127 ರನ್ ಗಳ ಭರ್ಜರಿ ಜಯ; 3–0 ಅಂತರದಲ್ಲಿ ಸರಣಿ ಕ್ಲೀನ್‌ ಸ್ವೀಪ್‌](https://www.varthabharati.in/sports/massive-127-run-win-for-india-against-afghanistan-series-cleansweep-at-30-margin-2275956)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (6.8)
+- India (5.5)
 - Delhi (4.2)
 - September (2.6)
 - Opinion (2.6)
@@ -109,8 +109,8 @@
 - Sudarsana Natchiappan (2.0)
 - Disha Salian (2.0)
 - Indian (1.9)
-- Russia (1.9)
 - Tata (1.6)
+- Russia (1.6)
 - Russian (1.6)
 - Mamata (1.6)
 - Assam (1.6)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Mig-19 फाइटर जेट पर पाकिस्तानी फैला रहे झूठ, PIB ने किया फैक्ट-चेक](https://www.aajtak.in/defence-news/story/pib-fact-check-mig29-crash-video-war-thunder-ntc-mnrd-smsr-2644742-2026-09-17)
-- [iPhone 18 Pro battery numbers are both good and bad news for Samsung](https://www.androidauthority.com/iphone-18-pro-battery-capacity-charging-cycles-3712280/)
-- [Teen's Chevy Hit by Meteorite: How a Fireball Turned into an $80,000 Windfall](https://timesofindia.indiatimes.com/world/us/in-1992-a-fireball-pierced-a-ny-teens-400-chevy-the-warm-27-pound-meteorite-and-wreck-net-her-over-80000/articleshow/134283723.cms)
-- [KTR | 25 ఏండ్ల కింద ఇచ్చిన తోట ఆగయ్య భూమిని రేవంత్‌ రెడ్డి గుంజుకున్నడు : కేటీఆర్](https://www.ntnews.com/telangana/revanth-reddy-occupied-25-years-old-land-in-siricilla-says-ktr-2512867)
-- [1 करोड़ का इनामी नक्सली असीम मंडल गिरफ्तार](https://www.prabhatkhabar.com/state/jharkhand/jamshedpur/one-crore-rupee-bounty-naxalite-asim-mandal-arrested-in-bengal)
-- [41મા દિવસે બોક્સ ઓફિસની 'કિંગ' બની 'હનુમાન અંશ': નીમ કરોલી બાબાનો ચમત્કાર, માત્ર ₹2 કરોડના બજેટ સામે કમાણી ₹277 કરોડને પાર](https://www.gujaratsamachar.com/news/entertainment/hanuman-ansh-becomes-king-of-the-box-office-on-day-41-neem-karoli-babas-miracle-earnings-cross-indian-rupee277-crore-against-a-budget-of-just-indian-rupee2-crore-56633197168)
-- [PAK W vs THAI W Highlights: पाकिस्तान की हार दिख रही थी पक्की, एक ओवर में पलटा मैच, जैसे-तैसे एशियन गेम्स के सेमीफाइनल में पहुंची](https://navbharattimes.indiatimes.com/sports/asian-games/news/pakistan-beat-thailand-to-reach-semi-finals-of-womens-cricket-asian-games-2026-pak-wvs-thai-w-highlights/articleshow/134306528.cms)
-- [Ind vs US | ర‌ష్యా చ‌మురు కొన‌వ‌ద్ద‌ని అమెరికా అల్టిమేటం.. తీవ్రంగా స్పందించిన భార‌త్‌..!](https://www.ntnews.com/international/ind-vs-us-1-4-billion-people-first-indias-response-to-100-percent-us-tariff-threat-over-russian-oil-2512866)
-- [અમરેલી: ₹634 કરોડનું SD Pay કૌભાંડ કેસમાં વધુ એક આરોપીની ધરપકડ, 2 મુખ્ય સૂત્રધારો સહિત કુલ 9 ઝડપાયા](https://www.gujaratsamachar.com/news/amreli/amreli-one-more-accused-arrested-in-indian-rupee634-crore-sd-pay-scam-case-total-9-arrested-including-2-main-conspirators-24071879755)
-- [దావూద్ ఇబ్రహీంతో ఫొటో.. నా కెరీర్‌ను దెబ్బతీసింది: నటి](https://www.eenadu.net/telugu-news/movies/mandakini-reveals-truth-behind-her-viral-photo-with-dawood-ibrahim/0201/126167927)
+- [Watch: అధికారి బల్లపై వీధి కుక్కలను వదిలిన యువసేన నేతలు.. తర్వాత ఏం జరిగిందంటే?](https://www.ntnews.com/national/yuva-sena-workers-release-stray-dogs-on-nashik-officials-table-video-goes-viral-2512901)
+- [Nandigram By Election: প্রধানমন্ত্রীর জন্মদিনেই প্রচার শুরু করলেন নন্দীগ্রাম কেন্দ্রের বিজেপি প্রার্থী হাসিরানি রথ](https://bengali.abplive.com/district/nandigram-by-election-hasi-rani-rath-begins-election-campaign-on-narendra-modi-birthday-1193163)
+- ['हमें मजबूर न करें...', रिलीफ कैंपों में हुई मौतों के मामले में सुप्रीम कोर्ट ने मणिपुर को लगाई फटकार](https://www.jagran.com/news/national-supreme-court-slams-manipur-over-deaths-at-relief-camps-says-do-not-force-us-40376217.html)
+- [टाटा ने फिर दिखाया चंद्रशेखरन पर भरोसा, 5 साल के लिए मिली कमान, ग्रुप के शेयरों में उछाल](https://www.livehindustan.com/business/tata-sons-approves-five-year-extension-for-n-chandrasekaran-to-prepare-for-ipo-201789636979952.html)
+- [Amravati News : रात्री जेवण करून झोपला तो उठलाच नाही, डोळ्यातून रक्त अन्...; गोरे होण्याच्या औषधांचा ओव्हरडोस ठरला जीवघेणा? डॉक्टर तरुणाचा मृत्यू, नेमकं काय घडलं?](https://marathi.abplive.com/news/amravati/amravati-news-did-an-overdose-of-skin-lightening-medication-prove-fatal-death-of-a-young-doctor-what-exactly-happened-1439413)
+- [Punjab: ਸਾਬਕਾ ਡੀਆਈਜੀ ਭੁੱਲਰ ਮਾਮਲੇ ਵਿੱਚ ਵਿਚੋਲੇ ਤੋਂ ਪੁੱਛਗਿੱਛ ਕਰੇਗੀ ਈਡੀ](https://wishavwarta.in/punjab-ed-to-question-middleman-in-former-dig-bhullar-case/)
+- [மதுரை மீனாட்சி அம்மன் கும்பாபிஷேகம்: தரிசனம் கேட்டு பக்தர்கள் வாக்குவாதம் - அமைச்சர் விளக்கம்](https://www.polimernews.com/districtnews/madurai-meenakshi-amman-temple-kumbabhishekam-devotees-police-argument-12544427)
+- [बेटे के फायदे के लिए ट्रंप खेल रहे खतरनाक गेम, PAK से चौंकाने वाली ड्रोन डील!](https://www.aajtak.in/defence-news/story/pakistan-army-powerus-drone-mou-donald-trump-sons-merger-ntc-mnrd-smsr-2644847-2026-09-17)
+- [Swara Bhasker says she was upset after Ram Janmabhoomi verdict, texted Muslims in her phonebook including Shah Rukh Khan, Salman Khan, Aamir Khan to apologise: 'As a Hindu, I'm so ashamed'](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/swara-bhasker-says-she-was-upset-after-ram-janmabhoomi-verdict-texted-muslims-in-her-phonebook-including-shah-rukh-khan-salman-khan-aamir-khan-to-apologise-as-a-hindu-im-so-ashamed/articleshow/134307266.cms)
+- ['You Think Women Can't Lift LPG Cylinders?' : Supreme Court Awards Compensation To Woman Denied Job Based On Gender](https://www.livelaw.in/top-stories/you-think-women-cant-lift-lpg-cylinders-supreme-court-awards-compensation-to-woman-denied-job-based-on-gender-550475)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
