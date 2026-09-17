@@ -1,41 +1,41 @@
-# India Trending Report — 2026-09-16 23:33:59
+# India Trending Report — 2026-09-17 00:02:10
 
 ## Google Trends (India) — top trending searches
-1. [delhi weather](https://trends.google.com/trending/rss?geo=IN)
-2. [cpl](https://trends.google.com/trending/rss?geo=IN)
-3. [after the death](https://trends.google.com/trending/rss?geo=IN)
-4. [weather delhi](https://trends.google.com/trending/rss?geo=IN)
-5. [temperature](https://trends.google.com/trending/rss?geo=IN)
-6. [xi jinping](https://trends.google.com/trending/rss?geo=IN)
-7. [yassir zabiri](https://trends.google.com/trending/rss?geo=IN)
-8. [kylian mbappé](https://trends.google.com/trending/rss?geo=IN)
-9. [apple iphone 17 pro vs iphone 18 pro](https://trends.google.com/trending/rss?geo=IN)
-10. [neagley reacher](https://trends.google.com/trending/rss?geo=IN)
+1. [bangladesh vs china](https://trends.google.com/trending/rss?geo=IN)
+2. [ബംഗ്ലാദേശ്](https://trends.google.com/trending/rss?geo=IN)
+3. [inter miami vs cruz azul](https://trends.google.com/trending/rss?geo=IN)
+4. [bank merger](https://trends.google.com/trending/rss?geo=IN)
+5. [weather bengaluru](https://trends.google.com/trending/rss?geo=IN)
+6. [delhi weather](https://trends.google.com/trending/rss?geo=IN)
+7. [cpl](https://trends.google.com/trending/rss?geo=IN)
+8. [after the death](https://trends.google.com/trending/rss?geo=IN)
+9. [weather delhi](https://trends.google.com/trending/rss?geo=IN)
+10. [gate](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [100% tariffs on India? Russia sanctions bill passed by US House; awaits Trump’s sign](https://timesofindia.indiatimes.com/business/international-business/after-senate-us-house-passes-russia-sanctions-bill-100-tariff-threat-looms-for-india/articleshow/134296683.cms)
 - ['Very political': Trump fumes after 1st Fed rate hike in over 3 years](https://timesofindia.indiatimes.com/business/international-business/were-the-best-credit-trump-calls-for-lower-us-interest-rates-after-first-fed-hike-in-3-years/articleshow/134296503.cms)
+- [Never met, didn’t know Disha Salian: Shiv Sena (UBT) MLA Aaditya Thackeray](https://timesofindia.indiatimes.com/city/mumbai/never-met-didnt-know-disha-salian-aaditya/articleshow/134291840.cms)
 - [Indian couple win payout after suing UK home office for 'unlawful' immigration detention](https://timesofindia.indiatimes.com/nri/other-news/failed-asylum-seeking-indian-couple-win-payout-after-suing-uk-home-office-for-being-kept-separately-in-immigration-detention/articleshow/134296573.cms)
 - [Gang uses stolen hearse to cart away ATM with Rs 12 lakh](https://timesofindia.indiatimes.com/city/chennai/gang-uses-stolen-hearse-to-cart-away-atm-with-rs-12-lakh/articleshow/134291728.cms)
-- [Govt lowers export levies on petrol, diesel and aviation turbine fuel](https://timesofindia.indiatimes.com/business/india-business/govt-lowers-export-levies-on-petrol-diesel-and-aviation-turbine-fuel-amid-fortnightly-review/articleshow/134296226.cms)
 - [Why Mark Zuckerberg's wife's school was shut down despite $125 million in donations,](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms)
+- [Govt lowers export levies on petrol, diesel and aviation turbine fuel](https://timesofindia.indiatimes.com/business/india-business/govt-lowers-export-levies-on-petrol-diesel-and-aviation-turbine-fuel-amid-fortnightly-review/articleshow/134296226.cms)
+- [Fish unseen by scientists for 40 years rediscovered in Papua New Guinea](https://timesofindia.indiatimes.com/science/wildlife/a-tiny-fish-was-last-recorded-by-scientists-in-1985-40-years-later-an-indigenous-fisherwoman-caught-the-lost-species-in-papua-new-guineas-sepik-river/articleshow/134282255.cms)
 - [Don’t trust Centre unless it’s a written deal, J&K CM tells Ladakhi delegation](https://timesofindia.indiatimes.com/india/dont-trust-centre-unless-its-a-written-deal-omar-tells-ladakhi-delegation/articleshow/134296549.cms)
 - [Aggrieved party can seek deletion of court clips on socials: SC](https://timesofindia.indiatimes.com/india/aggrieved-party-can-seek-deletion-of-court-clips-on-socials-sc/articleshow/134296733.cms)
-- [23-year-old Georgia mayor removed from office after misconduct allegations](https://timesofindia.indiatimes.com/world/us/at-22-jayden-williams-became-stockbridges-youngest-mayor-10-months-later-the-city-council-removed-him-after-a-10-hour-misconduct-hearing/articleshow/134266182.cms)
-- ['No rethink': Govt firm on UPI merchant fee amid rollback demands](https://timesofindia.indiatimes.com/business/india-business/no-rethink-govt-firm-on-upi-fee-amid-rollback-demands/articleshow/134296667.cms)
 
 **NDTV**
+- [US Fed Hikes Rates To Tackle Inflation, Trump Slams Move As "Hostile"](https://www.ndtv.com/world-news/us-fed-hikes-rates-to-tackle-inflation-donald-trump-slams-move-as-hostile-12057022#publisher=newsstand)
+- [US Drops Venezuela From Drug List, May Remove Colombia: Trump](https://www.ndtv.com/world-news/us-drops-venezuela-from-drug-list-may-remove-colombia-donald-trump-12057004#publisher=newsstand)
+- [US Congress Passes Russia Sanctions Bill, India, China Face 100% Tariffs](https://www.ndtv.com/world-news/us-congress-passes-sweeping-russia-sanctions-bill-12056969#publisher=newsstand)
+- [Anti-Pollution Crackdown Intensifies Across NCR, 150 Inspections In 15 Days](https://www.ndtv.com/india-news/anti-pollution-crackdown-intensifies-across-ncr-150-inspections-in-15-days-12056940#publisher=newsstand)
 - [US-Contracted Vessel Hit By Iranian Missiles Near Strait Of Hormuz: Report](https://www.ndtv.com/world-news/us-contracted-vessel-hit-by-iranian-missiles-near-strait-of-hormuz-report-12056877#publisher=newsstand)
 - [Punjab Ambedkar Statue Row: BJP's Vijay Sampla Injured In Clash With BSP Workers](https://www.ndtv.com/india-news/punjab-ambedkar-statue-row-bjp-leader-vijay-sampla-injured-in-clash-with-bsp-workers-12056830#publisher=newsstand)
 - [Saudi Seeks Help From France, Britain, Pakistan To Fight Houthis](https://www.ndtv.com/world-news/saudis-seek-allies-help-as-missile-defenses-run-low-in-fight-with-houthis-officials-say-12056629#publisher=newsstand)
 - [17-Year-Old Girl Raped In Chhattisgarh, 4 Men Arrested: Cops](https://www.ndtv.com/india-news/four-men-held-for-raping-17-year-old-girl-in-chhattisgarhs-kanker-district-12056553#publisher=newsstand)
 - [On Risk From Superintelligence, Top AI Expert's Chimpanzee-Nukes Analogy](https://www.ndtv.com/world-news/stuart-russell-dario-amodei-ai-slowdown-ai-risks-on-risk-from-superintelligence-top-ai-experts-chimpanzee-nukes-analogy-12056663#publisher=newsstand)
 - [2 Dead In 2 Days During Clashes Over Ganesh Chaturthi Procession In Tamil Nadu](https://www.ndtv.com/india-news/2-dead-in-2-days-during-clashes-over-ganesh-chaturthi-procession-in-tamil-nadu-12056664#publisher=newsstand)
-- [Exclusive: After Survey Flags 2,800% Pharma Profit, Tukaram Mundhe Calls For Transparency](https://www.ndtv.com/india-news/exclusive-after-survey-flags-2-800-pharma-profit-tukaram-mundhe-calls-for-transparency-12056638#publisher=newsstand)
-- [Zelensky Says Russia Tried To Attack His Plane Twice To 'Intimidate' Him: Report](https://www.ndtv.com/world-news/volodymyr-zelensky-says-russia-tried-to-attack-his-plane-twice-to-intimidate-him-report-12056624#publisher=newsstand)
-- [In 2025, J&K Saw No Stone-Throwing Incidents, Only 1 Terrorist Recruited](https://www.ndtv.com/india-news/in-2025-j-k-saw-no-stone-throwing-incidents-only-1-terrorist-recruited-12056616#publisher=newsstand)
-- [6 Minors Drown In Lake Near Hyderabad During Ganesh Idol Immersion](https://www.ndtv.com/india-news/6-minors-drown-in-lake-near-hyderabad-during-ganesh-idol-immersion-12056615#publisher=newsstand)
 
 **Hindustan Times**
 - [25 years of Modi: The making of a political force](https://www.hindustantimes.com/india-news/25-years-of-modi-the-making-of-a-political-force-101789583959262.html)
@@ -62,6 +62,7 @@
 - [ಕರ್ನಾಟಕದ 768 ಪೆಟ್ರೋಲ್‌ ಬಂಕ್‌ಗಳಲ್ಲಿ ಅಳತೆ ವಂಚನೆ ಪತ್ತೆ: ಅನುಮಾನ ಬಂದಲ್ಲಿ ಗ್ರಾಹಕರು ಮಾಡಬೇಕಾದ್ದೇನು?](https://vijaykarnataka.com/news/karnataka/measurement-fraud-detected-at-768-petrol-bunks-in-karnataka-what-should-customers-do/articleshow/134292790.cms)
 
 **The Hindu**
+- [J&K MLAs decry 18% representation to Kashmir valley in UT officers’ list](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-mlas-decry-18-representation-to-kashmir-valley-in-ut-officers-list/article71472329.ece)
 - [Himachal’s policy uncompromising toward those involved in illegal drug trade: CM Sukhu](https://www.thehindu.com/news/national/himachal-pradesh/himachals-policy-uncompromising-toward-those-involved-in-illegal-drug-trade-cm-sukhu/article71472541.ece)
 - [BJP MPs raise concerns over slow pace of infrastructure projects in Odisha](https://www.thehindu.com/news/national/odisha/bjp-mps-raise-concerns-over-slow-pace-of-infrastructure-projects-in-odisha/article71472679.ece)
 - [Trump lauds India's crackdown on poppy farming; lists 23 major drug transit nations](https://www.thehindu.com/news/national/trump-lauds-indias-crackdown-on-poppy-farming-lists-23-major-drug-transit-nations/article71474352.ece)
@@ -71,7 +72,6 @@
 - [Rajasthan urban local body elections: Candidates for mayors, chairpersons file nominations](https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-elections-candidates-for-mayors-chairpersons-file-nominations/article71474170.ece)
 - [Former TNCC president Selvaperunthagai and Rajya Sabha member Praveen Chakravarty trade barbs](https://www.thehindu.com/news/national/tamil-nadu/former-tncc-president-selvaperunthagai-and-rajya-sabha-member-praveen-chakravarty-trade-barbs/article71472663.ece)
 - [CJP to launch ‘Adivasi School Thik Karo’ campaign from Gadchiroli on Sept. 17: Dipke](https://www.thehindu.com/news/national/maharashtra/cjp-to-launch-adivasi-school-thik-karo-campaign-from-gadchiroli-on-sept-17-dipke/article71471862.ece)
-- [Lack of cleanliness and hygiene keep exporters away from Kasimedu fishing harbour](https://www.thehindu.com/news/cities/chennai/lack-of-cleanliness-and-hygiene-keep-exporters-away-from-kasimedu-fishing-harbour/article71473991.ece)
 
 **Livemint**
 - [Asia at Risk of Unrest as El Niño, War Threaten Food Supplies](https://www.livemint.com/news/world/asia-at-risk-of-unrest-as-el-ni-o-war-threaten-food-supplies-11789601010794.html)
@@ -100,35 +100,35 @@
 - [Uttar Pradesh | ‘ಸ್ವಯಿಚ್ಛೆಯಿಂದ ಇಸ್ಲಾಂ ಸ್ವೀಕಾರ’: ಆಯುಷ್ ಮಲಿಕ್ ರನ್ನು ಗೃಹಬಂಧನದಿಂದ ಬಿಡುಗಡೆಗೊಳಿಸಿದ ಅಲಹಾಬಾದ್ ಹೈಕೋರ್ಟ್](https://www.varthabharati.in/vishesha-varadigalu/he-voluntarily-embraced-islam-allahabad-high-court-frees-ayush-malik-from-home-confinement-2275721)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (6.5)
-- Govt (5.2)
+- Trump (8.1)
+- India (5.2)
 - Odisha (5.2)
-- India (3.9)
+- Govt (3.9)
 - Indian (2.6)
-- Report (2.6)
 - Three (2.6)
 - Rajasthan (2.6)
 - Russia (1.6)
+- Days (1.6)
 - Pakistan (1.6)
 - Risk (1.6)
 - Nadu (1.6)
+- Never (1.3)
 - Gang (1.3)
-- Centre (1.3)
-- Ladakhi (1.3)
+- Fish (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [સૂર્યનું કન્યા રાશિમાં મહાગોચર: આવતીકાલથી આ 4 રાશિઓ માટે 30 દિવસ ભારે, જાણો બચવાના ઉપાય](https://www.gujaratsamachar.com/news/astro/surya-gochar-september-2026-sun-transit-virgo-effects-remedies-four-zodiac-signs-54463063918)
-- [ఓటుకు నోటు కేసు.. రేవంత్ రెడ్డి, సండ్ర పిటిషన్లపై సుప్రీంకోర్టులో విచారణ](https://www.ap7am.com/tn/880299/revanth-reddy-and-sandra-vote-for-note-case-supreme-court-hearing)
-- [Breaking News: સોના-ચાંદીની ખરીદી પર 2 મોટા નિયમો બદલાયા, તમારા ખિસ્સા પર આની શું અસર પડશે?](https://tv9gujarati.com/photo-gallery/gold-silver-two-big-decisions-changed-these-new-rules-could-impact-your-jewellery-bill-1516884.html)
-- [കാർ നിയന്ത്രണം വിട്ട് സംരക്ഷണ ഭിത്തിയിലിടിച്ചു; മലയാളി യുവതി മരിച്ചു](https://www.manoramaonline.com/news/kerala/2026/09/16/wayanad-woman-afreena-dies-in-bengaluru-mysuru-expressway-crash.html)
-- [The Vvaan Trailer: देवी का रूप, डर का साया... सिद्धार्थ मल्होत्रा-तमन्ना भाटिया की ‘द वन’ का ट्रेलर रिलीज](https://www.aajtak.in/entertainment/bollywood-news/story/siddharth-malhotra-tamanna-bhatia-the-vvaan-trailer-release-bihar-van-devi-chhath-puja-fans-reaction-tmovb-dskc-2643933-2026-09-16)
-- [Giant snake falls on man carrying child at Amboli waterfall in Maharashtra; tourists scream, “Run, it’s a very big cobra”: watch](https://timesofindia.indiatimes.com/life-style/travel/destinations/giant-snake-falls-on-man-carrying-child-at-amboli-waterfall-in-maharashtra-tourists-scream-run-its-a-very-big-cobra-watch/articleshow/134286358.cms)
-- [பயிர்க் கடன் தள்ளுபடி முதல் மின்வெட்டு பிரச்சினை வரை: தேமுதிக 9 தீர்மானங்கள் நிறைவேற்றம்](https://www.hindutamil.in/news/tamilnadu/9-resolutions-passed-at-dmdk-distrcit-secretaies-meet)
-- [The Vvaan: ఈ సారి తమన్నా హిట్టు కొట్టేట్టుంది!](https://www.chitrajyothy.com/2026/bollywood/tamannaahs-the-vvaan-movie-trailer-released-onava-75446.html)
-- [35 रुपये में 145KM... TVS ने एक दिन में बेच दिए इतने इलेक्ट्रिक स्कूटर](https://www.aajtak.in/visualstories/auto/tvs-iqube-millionr-edition-delivery-price-range-details-auam-285749-16-09-2026)
-- [India could face up to 100% US tariffs over Russian oil](https://www.dw.com/en/india-news-us-bill-sanctioning-russia-could-hit-india-with-tariffs-of-up-to-100/live-79285577)
+- [New UPI charges challenged in SC; petitioner flags impact on common man](https://timesofindia.indiatimes.com/india/new-upi-charges-challenged-in-sc-petitioner-flags-impact-on-common-man/articleshow/134287123.cms)
+- [‘మోదీజీ.. యూపీఐ పన్నును వెనక్కి తీసుకోండి’: రాహుల్‌ గాంధీ](https://www.andhrajyothy.com/2026/national/rahul-gandhi-calls-new-upi-mdr-a-upi-tax-centre-rejects-allegations-sj-1558543.html)
+- [Maharashtra News LIVE : उद्या कोणत्याही मंत्र्यांना अडवू नका, त्यांच्या दारात मुंबईत जाऊन आपण अडवू - जरांगे पाटील](https://www.tv9marathi.com/maharashtra/maharashtra-news-live-updates-in-marathi-aajchya-thalak-batamya-marathi-news-16-september-2026-devendra-fadnavis-manoj-jarange-maratha-reservation-ganeshotsav-1757366.html)
+- [Russia says there is still time to stop an arms race in space after US orbital weapons admission](https://www.reuters.com/business/aerospace-defense/russia-says-there-is-still-time-stop-an-arms-race-space-after-us-orbital-weapons-2026-09-16/)
+- [Adidas lays off nearly half of its 700 employees at Gurgaon Tech Hub, calls it ‘difficult decision’](https://www.hindustantimes.com/trending/adidas-lays-off-nearly-half-of-its-700-employees-at-gurgaon-tech-hub-calls-it-difficult-decision-101789559666400.html)
+- [Gold Cleaning Tips: পুরনো সোনা বাড়িতেই হবে নতুনের মতো ঝকঝকে, একবার এই কায়দা করেই দেখুন](https://tv9bangla.com/lifestyle/how-to-clean-gold-jewelry-at-home-easy-tips-1346836.html)
+- [Indian scientists reveal how Mars 'breathes' as temperatures ripple across the Red Planet](https://www.moneycontrol.com/science/indian-scientists-reveal-how-mars-breathes-as-temperatures-ripple-across-the-red-planet-article-14031292.html)
+- [കാലവർഷം പിൻവാങ്ങി തുടങ്ങുന്നു, ബംഗാൾ ഉൾക്കടലിൽ ന്യൂനമർദ സാധ്യത; ശക്തമായ മഴ തുടരും, യെല്ലോ അലേർട്ട്](https://malayalam.samayam.com/latest-news/kerala-news/heavy-rains-to-continue-in-kerala-yellow-alert/articleshow/134286993.cms)
+- [ஐ.சி.சி., டி-20 தரவரிசையில்](https://www.dinamalar.com/news/sports-cricket/abhishek-sharma-no-1--in-the-t20i-rankings/4324367)
+- [સોનાની ખાણ ધસી પડતાં 60 શ્રમિકોના મોત, અનેક ગુમ, સુદાનમાં મોટી દુર્ઘટના](https://www.gujaratsamachar.com/news/international/60-workers-killed-many-missing-in-gold-mine-collapse-major-tragedy-in-sudan-63763945516)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
