@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-17 01:34:45
+# India Trending Report — 2026-09-17 02:02:23
 
 ## Google Trends (India) — top trending searches
-1. [यूपीटीईटी (यूपीटेट) · 2026](https://trends.google.com/trending/rss?geo=IN)
-2. [matías galarza](https://trends.google.com/trending/rss?geo=IN)
-3. [संतान सप्तमी कब है](https://trends.google.com/trending/rss?geo=IN)
-4. [आज क्या है](https://trends.google.com/trending/rss?geo=IN)
-5. [tukaram mundhe](https://trends.google.com/trending/rss?geo=IN)
-6. [iqoo 16](https://trends.google.com/trending/rss?geo=IN)
-7. [నరేష్](https://trends.google.com/trending/rss?geo=IN)
-8. [nikkei index](https://trends.google.com/trending/rss?geo=IN)
-9. [रवि किशन](https://trends.google.com/trending/rss?geo=IN)
-10. [கூட்டுறவு](https://trends.google.com/trending/rss?geo=IN)
+1. [pm modi birthday](https://trends.google.com/trending/rss?geo=IN)
+2. [weather dehradun](https://trends.google.com/trending/rss?geo=IN)
+3. [weather shimla](https://trends.google.com/trending/rss?geo=IN)
+4. [સપ્ટેમ્બર ૧૮](https://trends.google.com/trending/rss?geo=IN)
+5. [यूपीटीईटी (यूपीटेट) · 2026](https://trends.google.com/trending/rss?geo=IN)
+6. [pm modi](https://trends.google.com/trending/rss?geo=IN)
+7. [संतान सप्तमी कब है](https://trends.google.com/trending/rss?geo=IN)
+8. [matías galarza](https://trends.google.com/trending/rss?geo=IN)
+9. [आज क्या है](https://trends.google.com/trending/rss?geo=IN)
+10. [tukaram mundhe](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -20,22 +20,22 @@
 - [Football on table, wrestling without groundwork: Unusual sports India will play at Asiad](https://timesofindia.indiatimes.com/sports/asian-games-2026/football-on-a-curved-table-wrestling-without-groundwork-five-little-known-sports-india-will-compete-in-at-asian-games-2026/articleshow/134297046.cms)
 - [SC pulls up govt for 'denying' disabled soldiers their benefits](https://timesofindia.indiatimes.com/india/sc-pulls-up-govt-for-denying-disabled-soldiers-their-benefits/articleshow/134296945.cms)
 - [Why Mark Zuckerberg's wife's school was shut down despite $125 million in donations,](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms)
+- [Trump signs memorandum to block Canadian goods from US federal procurement](https://timesofindia.indiatimes.com/business/international-business/trade-row-escalates-trump-signs-memorandum-to-block-canadian-goods-from-us-federal-procurement/articleshow/134296426.cms)
 - [88 lakh diyas to light up Gujarat for PM Modi’s birthday today](https://timesofindia.indiatimes.com/city/ahmedabad/88-lakh-diyas-to-light-up-gujarat-for-pm-modis-birthday/articleshow/134294136.cms)
 - [‘God-gifted talent’: Rashid Khan on Sooryavanshi’s skill rarely seen at 15 | Exclusive](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/he-is-a-god-gifted-talent-rashid-khan-on-vaibhav-sooryavanshi-and-the-skill-that-is-hardly-seen-at-such-a-young-age-exclusive/articleshow/134292874.cms)
 - [Rape convict Ram Rahim returns to Sunaria jail after 21-day furlough](https://timesofindia.indiatimes.com/city/chandigarh/ram-rahim-returns-to-sunaria-jail-after-21-day-furlough/articleshow/134295680.cms)
-- [Never met, didn’t know Disha Salian: Shiv Sena (UBT) MLA Aaditya Thackeray](https://timesofindia.indiatimes.com/city/mumbai/never-met-didnt-know-disha-salian-aaditya/articleshow/134291840.cms)
 
 **NDTV**
+- [India, China To Face New Trump Tariffs? US House Passes Russia Sanctions Bill](https://www.ndtv.com/world-news/us-congress-passes-sweeping-russia-sanctions-bill-12056969#publisher=newsstand)
+- [No Ganesh Idol Immersion In Water Bodies From 2027: Tamil Nadu To Green Court](https://www.ndtv.com/india-news/no-ganesh-idol-immersion-in-water-bodies-from-2027-tamil-nadu-to-green-court-ngt-12057096#publisher=newsstand)
+- [Zelensky's Former TV Studio Warehouse Destroyed In Russian Strike](https://www.ndtv.com/world-news/russia-ukraine-war-zelenskys-former-tv-studio-warehouse-destroyed-in-russian-strike-12057071#publisher=newsstand)
 - [Factbox: AI Rivalry Hangs Over Trump-Xi Talks](https://www.ndtv.com/world-news/factbox-ai-rivalry-hangs-over-trump-xi-jinping-talks-12057042#publisher=newsstand)
 - [US Fed Hikes Rates To Tackle Inflation, Trump Slams Move As "Hostile"](https://www.ndtv.com/world-news/us-fed-hikes-rates-to-tackle-inflation-donald-trump-slams-move-as-hostile-12057022#publisher=newsstand)
 - [US Drops Venezuela From Drug List, May Remove Colombia: Trump](https://www.ndtv.com/world-news/us-drops-venezuela-from-drug-list-may-remove-colombia-donald-trump-12057004#publisher=newsstand)
-- [US Congress Passes Russia Sanctions Bill, India, China Face 100% Tariffs](https://www.ndtv.com/world-news/us-congress-passes-sweeping-russia-sanctions-bill-12056969#publisher=newsstand)
 - [Anti-Pollution Crackdown Intensifies Across NCR, 150 Inspections In 15 Days](https://www.ndtv.com/india-news/anti-pollution-crackdown-intensifies-across-ncr-150-inspections-in-15-days-12056940#publisher=newsstand)
 - [US-Contracted Vessel Hit By Iranian Missiles Near Strait Of Hormuz: Report](https://www.ndtv.com/world-news/us-contracted-vessel-hit-by-iranian-missiles-near-strait-of-hormuz-report-12056877#publisher=newsstand)
 - [Punjab Ambedkar Statue Row: BJP's Vijay Sampla Injured In Clash With BSP Workers](https://www.ndtv.com/india-news/punjab-ambedkar-statue-row-bjp-leader-vijay-sampla-injured-in-clash-with-bsp-workers-12056830#publisher=newsstand)
 - [Saudi Seeks Help From France, Britain, Pakistan To Fight Houthis](https://www.ndtv.com/world-news/saudis-seek-allies-help-as-missile-defenses-run-low-in-fight-with-houthis-officials-say-12056629#publisher=newsstand)
-- [17-Year-Old Girl Raped In Chhattisgarh, 4 Men Arrested: Cops](https://www.ndtv.com/india-news/four-men-held-for-raping-17-year-old-girl-in-chhattisgarhs-kanker-district-12056553#publisher=newsstand)
-- [On Risk From Superintelligence, Top AI Expert's Chimpanzee-Nukes Analogy](https://www.ndtv.com/world-news/stuart-russell-dario-amodei-ai-slowdown-ai-risks-on-risk-from-superintelligence-top-ai-experts-chimpanzee-nukes-analogy-12056663#publisher=newsstand)
 
 **Hindustan Times**
 - [Rajnath, Yogi to launch Modi 76th birthday bike yatra from Varanasi to Vadnagar](https://www.hindustantimes.com/india-news/rajnath-yogi-to-launch-modi-76th-birthday-bike-yatra-from-varanasi-to-vadnagar-101789607571567.html)
@@ -50,30 +50,32 @@
 - [Supreme Court directs ED, Delhi Police to submit details of cases against Unitech directors](https://www.hindustantimes.com/india-news/supreme-court-directs-ed-delhi-police-to-submit-details-of-cases-against-unitech-directors-101789573746864.html)
 
 **Vijay Karnataka**
+- [ಉತ್ತರ ಕನ್ನಡ ಜಿಲ್ಲೆಯಲ್ಲಿ ವಾಡಿಕೆ ಮಳೆಗೂ ತತ್ವಾರ: ಜೂನ್‌ನಿಂದ 600 ಮಿಮೀ ಮಳೆ ಕೊರತೆ, ಬೇಡ್ತಿ ನದಿ ನೀರು ಇಳಿಮುಖ- ಬನವಾಸಿ ಭತ್ತ ಉಳಿಸುವುದೇ ಸವಾಲು](https://vijaykarnataka.com/news/uttara-kannada/uttara-kannada-district-faces-600-mm-rainfall-deficit-since-june-bedthi-river-water-levels-receding-saving-banavasi-paddy-crops-are-challenge/articleshow/134297093.cms)
 - [2,000ರೂ. ಮೇಲಿನ UPI ಪಾವತಿಗೆ ಶುಲ್ಕ: ಕೇಂದ್ರದ MDR ನೀತಿ ಪ್ರಶ್ನಿಸಿ ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ನಲ್ಲಿ ಸಾರ್ವಜನಿಕ ಹಿತಾಸಕ್ತಿ ಅರ್ಜಿ ಸಲ್ಲಿಕೆ!](https://vijaykarnataka.com/news/india/public-interest-litigation-filed-in-supreme-court-against-upi-payment-tax-rules/articleshow/134297017.cms)
 - [ಸೆ.18ರಂದು ಹಲಸೂರು ಕರೆಯಲ್ಲಿ ಸಾಮೂಹಿಕ ಗಣೇಶ ಮೂರ್ತಿ ವಿಸರ್ಜನೆ; ಮೆರವಣಿಗೆ ಮಾರ್ಗದಲ್ಲಿ ಸಂಚಾರ ಬಂದ್, ಪರ್ಯಾಯ ರೂಟ್ ಲಿಸ್ಟ್‌ ಇಲ್ಲಿದೆ](https://vijaykarnataka.com/news/bengaluru-city/traffic-route-diversion-in-bengaluru-for-mass-immersion-of-ganesh-idols-on-sep-18-at-halasuru-lake/articleshow/134296959.cms)
-- [ನಾಳೆ(ಸೆ.18) ಮಂಗಳೂರಲ್ಲಿ ಮೊದಲ ಸಂಪುಟ ಸಭೆ: ಕರಾವಳಿಯತ್ತ ಸಿಎಂ, ಸಚಿವರ ದಂಡು, ಅಭಿವೃದ್ಧಿಗೆ ಮುನ್ನುಡಿ ನಿರೀಕ್ಷೆ! ಸಂಚಾರ ಮಾರ್ಗ ಬದಲಾವಣೆ](https://vijaykarnataka.com/news/mangaluru/mangaluru-ready-for-its-first-cabinet-meeting-on-sep-18coastal-region-exciting-developments-traffic-route-change-for-3-days/articleshow/134296785.cms)
 - [20 ವರ್ಷಗಳ ದಾಂಪತ್ಯ ಪಯಣ; ಸೂರ್ಯ–ಜ್ಯೋತಿಕಾ ಸಂಬಂಧದಿಂದ ದಂಪತಿಗಳು ಕಲಿಯಬಹುದಾದ 5 ಪಾಠಗಳು](https://vijaykarnataka.com/lifestyle/relationship/suriya-jyothika-20th-wedding-anniversary-relationship-lessons/articleshow/134293138.cms)
-- [ಅನಂತ್‌ ನಾಗ್‌ಗೆ ʻದಾದಾಸಾಹೇಬ್‌ ಫಾಲ್ಕೆʼ ಪ್ರಶಸ್ತಿ: ಡಾ.ರಾಜ್ ಕುಮಾರ್ ಬಳಿಕ ಈ ಗೌರವ ಪಡೆದ ಕನ್ನಡದ 2ನೇ ನಟ!](https://vijaykarnataka.com/entertainment/news/actor-ananth-nag-honoured-with-dadasaheb-phalke-award/articleshow/134288718.cms)
+- [ನಾಳೆ(ಸೆ.18) ಮಂಗಳೂರಲ್ಲಿ ಮೊದಲ ಸಂಪುಟ ಸಭೆ: ಕರಾವಳಿಯತ್ತ ಸಿಎಂ, ಸಚಿವರ ದಂಡು, ಅಭಿವೃದ್ಧಿಗೆ ಮುನ್ನುಡಿ ನಿರೀಕ್ಷೆ! ಸಂಚಾರ ಮಾರ್ಗ ಬದಲಾವಣೆ](https://vijaykarnataka.com/news/mangaluru/mangaluru-ready-for-its-first-cabinet-meeting-on-sep-18coastal-region-exciting-developments-traffic-route-change-for-3-days/articleshow/134296785.cms)
 - [ʻಎಕ್ಸೈಟ್‌ಮೆಂಟ್‌ ಇಲ್ಲ..ʼ! ʻದಾದಾಸಾಹೇಬ್‌ ಫಾಲ್ಕೆʼ ಪ್ರಶಸ್ತಿ ಬಗ್ಗೆ ಅನಂತ್‌ ನಾಗ್‌ ರಿಯಾಕ್ಷನ್](https://vijaykarnataka.com/entertainment/news/ananth-nag-dadasaheb-phalke-award-winner-first-reaction-pm-modi-tweet/articleshow/134291426.cms)
 - [ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿ ಸಿಂಹಾಸನದ ಮೇಲೆ ಗಣಪ; ಸೀರೆಯಲ್ಲಿ ಸಾನಿಯಾ, ಪಿಂಕ್ ಸೂಟ್‌ನಲ್ಲಿ ಸಾರಾ ಮಿಂಚಿಂಗ್!](https://vijaykarnataka.com/lifestyle/fashion/sara-tendulkar-pink-suit-saniya-chandok-saree-ganesh-chaturthi/articleshow/134277830.cms)
-- [2026ರ ವಿಶ್ವಕರ್ಮ ಜಯಂತಿ ಶುಭ ಮುಹೂರ್ತ, ಪೂಜೆ ವಿಧಾನ, ಮಂತ್ರ.!](https://vijaykarnataka.com/religion/festivals/vishwakarma-puja-2026-date-and-time-vishwakarma-puja-procedures-and-mantras/articleshow/134288054.cms)
+- [ಬೇವಿನ ಗಿಡವನ್ನು ಮನೆಯಲ್ಲಿ ಏಕೆ ನೆಡಬೇಕು.? ಆಧ್ಯಾತ್ಮಿಕ ಕಾರಣಗಳು.!](https://vijaykarnataka.com/religion/hinduism/spiritual-benefits-and-importance-of-growing-neem-tree-in-home/articleshow/134297945.cms)
 - [ಹೊಟ್ಟೆ ಉಬ್ಬರ, ನೋವು ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ! ಪೆರಿಟೋನಿಯಲ್ ಕ್ಯಾನ್ಸರ್‌ನ ಈ ಲಕ್ಷಣಗಳನ್ನು ಗುರುತಿಸುವುದು ಹೇಗೆ?](https://vijaykarnataka.com/lifestyle/health/peritoneal-cancer-symptoms-how-to-identify-bloating-pain/articleshow/134285168.cms)
-- [Bescom Power Cut: ಬೆಂಗಳೂರಿನ ಹೆಬ್ಬಾಳ ಸೇರಿ 50 ಬಡಾವಣೆಗಳಲ್ಲಿ ಗುರುವಾರ ಬೆಳಿಗ್ಗೆಯಿಂದ ಸಂಜೆವರೆಗೂ ವಿದ್ಯುತ್‌ ಇರಲ್ಲ!](https://vijaykarnataka.com/news/bengaluru-city/bescom-outages-power-cut-in-50-localities-including-hebbal-in-bengaluru-on-september-17-thursday/articleshow/134289486.cms)
+- [ಅನಂತ್‌ ನಾಗ್‌ಗೆ ʻದಾದಾಸಾಹೇಬ್‌ ಫಾಲ್ಕೆʼ ಪ್ರಶಸ್ತಿ: ಡಾ.ರಾಜ್ ಕುಮಾರ್ ಬಳಿಕ ಈ ಗೌರವ ಪಡೆದ ಕನ್ನಡದ 2ನೇ ನಟ!](https://vijaykarnataka.com/entertainment/news/actor-ananth-nag-honoured-with-dadasaheb-phalke-award/articleshow/134288718.cms)
 
 **The Hindu**
-- [Mumbai Police seek clarification from Manoj Jarange over 'contradictory' statements on proposed protest](https://www.thehindu.com/news/national/maharashtra/mumbai-police-seek-clarification-from-manoj-jarange-over-contradictory-statements-on-proposed-protest/article71475123.ece)
-- [Devotees gather for historic consecration of Meenakshi temple in Madurai](https://www.thehindu.com/news/cities/Madurai/devotees-gather-for-historic-consecration-of-meenakshi-temple-in-madurai/article71475121.ece)
-- [Government functionary questions Rahul's criticism of UPI charges, says Congress MPs in panel gave nod](https://www.thehindu.com/news/national/government-functionary-questions-rahuls-criticism-of-upi-charges-says-congress-mps-in-panel-gave-nod/article71475118.ece)
+- [Madurai’s Meenakshi Temple kumbabishekam LIVE: Devotees gather in large numbers](https://www.thehindu.com/news/national/tamil-nadu/madurai-meenakshi-temple-kumbabishekam-devotees-gather-in-large-numbers-for-consecration-ceremony-september-17-2026-live-updates/article71475137.ece)
+- [India rejects Pakistan-China Boundary Joint Commission ‘which is without any legal basis’](https://www.thehindu.com/news/national/india-rejects-pakistan-china-boundary-joint-commission-which-is-without-any-legal-basis/article71474052.ece)
 - [Meenakshi Sundareswarar temple kumbabishekam begins](https://www.thehindu.com/news/cities/Madurai/meenakshi-sundareswarar-temple-consecration-ceremony-kumbhabhishekam-september-17-2026/article71475098.ece)
+- [Devotees gather for historic consecration of Meenakshi temple in Madurai](https://www.thehindu.com/news/cities/Madurai/devotees-gather-for-historic-consecration-of-meenakshi-temple-in-madurai/article71475121.ece)
+- [Mumbai Police seek clarification from Manoj Jarange over 'contradictory' statements on proposed protest](https://www.thehindu.com/news/national/maharashtra/mumbai-police-seek-clarification-from-manoj-jarange-over-contradictory-statements-on-proposed-protest/article71475123.ece)
+- [Government functionary questions Rahul's criticism of UPI charges, says Congress MPs in panel gave nod](https://www.thehindu.com/news/national/government-functionary-questions-rahuls-criticism-of-upi-charges-says-congress-mps-in-panel-gave-nod/article71475118.ece)
 - [Govt. cuts windfall tax on export of petrol, diesel and ATF](https://www.thehindu.com/business/govt-cuts-windfall-tax-on-export-of-petrol-diesel-and-atf/article71474189.ece)
 - [J&K MLAs decry 18% representation to Kashmir valley in UT officers’ list](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-mlas-decry-18-representation-to-kashmir-valley-in-ut-officers-list/article71472329.ece)
 - [Jharkhand Congress takes out protest march demanding separate OBC column in Census 2027](https://www.thehindu.com/news/national/jharkhand/jharkhand-congress-takes-out-protest-march-demanding-separate-obc-column-in-census-2027/article71472425.ece)
 - [Himachal’s policy uncompromising toward those involved in illegal drug trade: CM Sukhu](https://www.thehindu.com/news/national/himachal-pradesh/himachals-policy-uncompromising-toward-those-involved-in-illegal-drug-trade-cm-sukhu/article71472541.ece)
-- [BJP MPs raise concerns over slow pace of infrastructure projects in Odisha](https://www.thehindu.com/news/national/odisha/bjp-mps-raise-concerns-over-slow-pace-of-infrastructure-projects-in-odisha/article71472679.ece)
-- [Trump lauds India's crackdown on poppy farming; lists 23 major drug transit nations](https://www.thehindu.com/news/national/trump-lauds-indias-crackdown-on-poppy-farming-lists-23-major-drug-transit-nations/article71474352.ece)
 
 **Livemint**
+- [‘1% or less’: Trump demands rate cut after US Fed raises interest rates for first time since 2023](https://www.livemint.com/news/us-news/1-or-less-trump-demands-rate-cut-after-us-fed-raises-interest-rates-for-first-time-since-2023-11789608846754.html)
+- [Saudi Aramco eyes resuming operation of East-West oil pipeline damaged in Houthi strikes within days](https://www.livemint.com/news/world/saudi-aramco-eyes-resuming-operation-of-east-west-oil-pipeline-damaged-in-houthi-strikes-within-days-11789608723228.html)
 - [Iran war LIVE Updates: Trump says war nearing end; to meet Persian Gulf leaders next week; US, Houthis hold Oman talks](https://www.livemint.com/news/us-news/iran-war-live-updates-trump-nearing-end-strait-of-hormuz-saudi-houthis-persian-gulf-leaders-tehran-us-houthis-oman-talks-11789607764407.html)
 - [Modi turns 76: How BJP marks PM’s birthday with nationwide ‘Seva Diwas’, bike rallies, blood donation camps](https://www.livemint.com/news/india/modi-turns-76-how-bjp-marks-pm-s-birthday-with-nationwide-seva-diwas-bike-rallies-blood-donation-camps-11789606893927.html)
 - [India Inc is 'prepared for any scenario' on US tariffs, but they can't be permanent: CII chief Mukundan](https://www.livemint.com/news/india-inc-is-prepared-for-any-scenario-on-us-tariffs-but-they-cant-be-permanent-cii-chief-mukundan-11789568004459.html)
@@ -82,8 +84,6 @@
 - [Asia at Risk of Unrest as El Niño, War Threaten Food Supplies](https://www.livemint.com/news/world/asia-at-risk-of-unrest-as-el-ni-o-war-threaten-food-supplies-11789601010794.html)
 - [US Tracking Cyber Threats Against Nearly 20 Ships Worldwide](https://www.livemint.com/news/us-tracking-cyber-threats-against-nearly-20-ships-worldwide-11789596180672.html)
 - [JD Vance says Iran war will enter ‘much different phase’ in coming months](https://www.livemint.com/news/us-news/jd-vance-says-iran-war-will-enter-much-different-phase-in-coming-months-11789588664007.html)
-- [Charlie Kirk assassination: The security failures alleged by his family, explained](https://www.livemint.com/news/us-news/charlie-kirk-assassination-the-security-failures-alleged-by-his-family-explained-11789586732363.html)
-- [US Indictment Exposes Russian Global Assassination Network](https://www.livemint.com/news/us-news/us-indictment-exposes-russian-global-assassination-network-11789584108922.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ರಷ್ಯಾ ವಿರುದ್ಧ ನಿರ್ಬಂಧ ಮಸೂದೆಗೆ ಅಮೆರಿಕ ಕಾಂಗ್ರೆಸ್ ಅಸ್ತು; ಭಾರತ, ಚೀನಾ ಸೇರಿದಂತೆ ರಷ್ಯಾ ತೈಲ ಖರೀದಿದಾರರ ಮೇಲೆ ಶೇ.100ರಷ್ಟು ಟ್ರಂಪ್‌ 'ಸುಂಕಷ್ಟ'?](https://www.varthabharati.in/international/us-congress-approves-sanctions-bill-against-russia-trump-proposes-100-tariff-on-russian-oil-buyers-including-india-and-china-2275735)
 - [ಸ್ಯಾಮ್‌ ಸಂಗ್ ಎಐ ತರಬೇತಿಯನ್ನು ಕಲ್ಯಾಣ ಕರ್ನಾಟಕಕ್ಕೂ ವಿಸ್ತರಿಸಲಿ : ಬಸವರಾಜ ರಾಯರಡ್ಡಿ](https://www.varthabharati.in/bangalore-city/basavaraj-rayareddy-2275734)
 - [ಯುಪಿಎಸ್ಸಿ ನಿಯಮಾವಳಿ ಕೆಪಿಎಸ್ಸಿಯಲ್ಲಿ ಸೇರಿಸಲು ಸಿಎಂಗೆ ಕಾಂಗ್ರೆಸ್ ಮನವಿ](https://www.varthabharati.in/bangalore-city/--2275733)
 - [ಸತೀಶ್ ಜಾರಕಿಹೊಳಿ ಮೇಲಿನ ಈಡಿ ದಾಳಿಗೆ ಖಂಡನೆ: ರಾಜ್ಯವ್ಯಾಪಿ ಹೋರಾಟಕ್ಕೆ ಸಮಾನ ಮನಸ್ಕರ ನಿರ್ಧಾರ](https://www.varthabharati.in/bangalore-city/satish-jarakiholi-2275731)
@@ -107,11 +108,10 @@
 - [Hassan | ಏತ ನೀರಾವರಿ ನೀರು ಹರಿಸಲು ಆಗ್ರಹಿಸಿ ರೈತರಿಂದ ಧರಣಿ](https://www.varthabharati.in/hassan/hassan-2275726)
 - [ಪೇಟಿಎಂ ಎಂದರೆ ‘ಪೇ ಟು ಮೋದಿ’ ಎಂದಿದ್ದ ವೀಡಿಯೊ ಮತ್ತೆ ಮುನ್ನೆಲೆಗೆ](https://www.varthabharati.in/vishesha-varadigalu/paytm-2275724)
 - [ಪಾಕ್–ಚೀನಾ ಗಡಿ ಆಯೋಗಕ್ಕೆ ಭಾರತದ ವಿರೋಧ](https://www.varthabharati.in/vishesha-varadigalu/india-opposes-pak-china-border-commission-2275722)
-- [Uttar Pradesh | ‘ಸ್ವಯಿಚ್ಛೆಯಿಂದ ಇಸ್ಲಾಂ ಸ್ವೀಕಾರ’: ಆಯುಷ್ ಮಲಿಕ್ ರನ್ನು ಗೃಹಬಂಧನದಿಂದ ಬಿಡುಗಡೆಗೊಳಿಸಿದ ಅಲಹಾಬಾದ್ ಹೈಕೋರ್ಟ್](https://www.varthabharati.in/vishesha-varadigalu/he-voluntarily-embraced-islam-allahabad-high-court-frees-ayush-malik-from-home-confinement-2275721)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (8.1)
-- Trump (8.1)
+- Trump (9.7)
+- India (9.4)
 - Emkay Global Financial (5.0)
 - Modi (3.2)
 - ICICI Securities (3.0)
@@ -119,26 +119,26 @@
 - Russia (2.9)
 - Houthis (2.6)
 - Govt (2.6)
-- Odisha (2.6)
+- Madurai (2.6)
+- Devotees (2.6)
 - Iran (2.6)
 - US House (2.0)
 - PM Modi (2.0)
 - Buy Bajaj Finance (2.0)
-- Global (1.8)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [वेटरन एक्टर Anant Nag को मिलेगा दादासाहेब फाल्के अवॉर्ड, प्रधानमंत्री नरेंद्र मोदी ने दी बधाई](https://www.jagran.com/entertainment/bollywood-kannada-actor-anant-nag-to-be-presented-with-dadasaheb-phalke-award-2024-pm-modi-congratulates-40375517.html)
-- [Breaking News: NSE IPO ચૂકવાની ભૂલ ન કરતા… આ જ તો છે કમાણીનો ‘મોટો મોકો’, પૈસા તૈયાર રાખજો](https://tv9gujarati.com/photo-gallery/nse-ipo-big-reason-why-investors-see-high-return-and-wealth-creation-potential-in-this-stock-1516980.html)
-- [Women’s cardiovascular changes may begin nearly 20 years before menopause: Study](https://www.hindustantimes.com/india-news/womens-cardiovascular-changes-may-begin-nearly-20-years-before-menopause-study-101789565293168.html)
-- [महुआ मोइत्रा पर फिर फेंके गए अंडे, काले झंडे दिखाकर लगे 'गो बैक' के नारे, TMC ने BJP कार्यकर्ताओं पर लगाया आरोप](https://www.aajtak.in/west-bengal/story/mahua-moitra-west-bengaltehatta-egg-attack-bjp-workers-allegation-ntc-dhrj-dskc-2644063-2026-09-16)
-- [US Fed Decision: अमेरिका में आज बड़ा फैसला... दुनिया की नजर, शेयर बाजार में असली खेल तो कल होगा!](https://www.aajtak.in/business/news/story/stock-market-may-crash-after-us-federal-reserve-rates-hike-tutd-dskc-2643813-2026-09-16)
-- [Rahul Gandhi on UPI Fee: UPI লেনদেনের উপর থেকে ফি প্রত্যাহারের দাবি রাহুল গাঁধীর, বললেন, ‘মোদিজী ডান বা বাম কোনও দিকেই নেই, সোজা… ’](https://bengali.abplive.com/news/rahul-gandhi-demands-upi-fee-roll-back-says-pm-narendra-modi-decided-to-lie-down-in-front-of-donald-trump-us-1193070)
-- [How Much Land Does KCR Family Hold? Revanth Answers](https://www.gulte.com/political-news/432146/how-much-land-does-kcr-family-hold-revanth-answers)
-- [സംസ്ഥാനത്ത് ഇന്ന് രാത്രിയും വൈദ്യുതി നിയന്ത്രണം തുടരും, 900 മെഗാവാട്ടിന്റെ കുറവെന്ന് കെഎസ്ഇബി](https://www.asianetnews.com/kerala-news/kerala-faces-continued-power-restrictions-amid-900-mw-deficit-articleshow-swo99i9)
-- [WPL താരലേലം കൊച്ചിയിൽ; ടൂർണമെന്റ് അടുത്തവർഷം ജനുവരിയിൽ ആരംഭിക്കും](https://www.mathrubhumi.com/sports/cricket/wpl-2027-schedule-auction-date-bcci-ub6deky3)
-- [வானிலை முன்னறிவிப்பு: திருச்சி, தஞ்சை, கோவை உள்ளிட்ட 7 மாவட்டங்களில் கனமழை வாய்ப்பு](https://www.hindutamil.in/news/tamilnadu/weather-forecast-report-2)
+- [पाकिस्तानी जहाज़ से टक्कर पर भारत ने जिस आर्टिकल](https://www.bbc.com/hindi/articles/cjx2zxvpxlx6o)
+- [Will the Fed interest rate decision change expectations for further hikes?](https://www.fxstreet.com/news/federal-reserve-set-to-raise-interest-rate-after-five-meetings-on-hold-202609161400)
+- [Ranojoy-Avika: রণজয়ের সঙ্গে সম্পর্কের গুঞ্জন তুঙ্গে, ইতিমধ্যেই সোশ্যাল মিডিয়ায় ছড়িয়ে পড়ল অভীকার বাগদানের ছবি?](https://bengali.abplive.com/entertainment/avika-malakar-shares-engagement-photo-ranojoy-bishnu-congratulate-her-entertainment-news-tollywood-1193074)
+- [Santosh Pandit Bail : कोर्टात जोरदार युक्तिवाद, अखेर संतोष पंडित यांना जामीन मंजूर; पुणे सत्र न्यायालयाचा निर्णय](https://maharashtratimes.com/maharashtra/pune-news/santosh-pandit-granted-bail-from-pune-session-court/articleshow/134289571.cms)
+- [അവസാന 12 പന്തിൽ 49 റൺസ്; സഞ്ജു കളിക്കേണ്ടത് ഇങ്ങനെ; ഉപദേശവുമായി ഗാവസ്കർ](https://www.mathrubhumi.com/sports/cricket/sanju-samson-fifty-afghanistan-sunil-gavaskar-advice-i5332o4o)
+- [October 2026 Horoscope : ઓક્ટોબર બનશે ભાગ્યનો મહિનો ! આ 6 રાશિઓને મળશે પદ, પૈસા અને પ્રતિષ્ઠા](https://tv9gujarati.com/photo-gallery/october-2026-horoscope-6-lucky-zodiac-signs-financial-gains-career-growth-1516993.html)
+- [Centre reconstitutes CBFC; Preity Zinta, Pankaj Tripathi among 18 members](https://www.thehindu.com/entertainment/movies/centre-reconstitutes-cbfc-preity-zinta-pankaj-tripathi-among-18-members/article71472888.ece)
+- [Patwardhan Family Dispute : भाग्यश्री यांनी गणपती मंदिरात केलं ते कृत्य चुकीचंच; आरतीचा मान घेतल्याने संतापले विजयसिंह राजे पटवर्धन](https://www.tv9marathi.com/maharashtra/patwardhan-family-feud-sangli-ganpati-sansthan-succession-dispute-bhagyashree-vs-adityaraj-1757890.html)
+- [A 240-million-year-old fossil just changed the dinosaur timeline](http://www.sciencedaily.com/releases/2026/09/260915232128.htm)
+- [मोहसिन नकवी से ट्रॉफी न लेने पर कपिल देव का बयान आया सामने, भारतीय महिला टीम को दे डाली अनोखी सलाह](https://www.jagran.com/cricket/apni-baat-kapil-dev-witty-take-as-india-women-refuse-trophy-from-acc-chief-mohsin-naqvi-40375550.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
