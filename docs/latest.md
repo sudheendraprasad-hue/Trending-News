@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-18 07:34:52
+# India Trending Report — 2026-09-18 08:02:02
 
 ## Google Trends (India) — top trending searches
-1. [શનિ](https://trends.google.com/trending/rss?geo=IN)
-2. [kolkata weather](https://trends.google.com/trending/rss?geo=IN)
-3. [australia national cricket team vs zimbabwe national cricket team match scorecard](https://trends.google.com/trending/rss?geo=IN)
-4. [இராசி](https://trends.google.com/trending/rss?geo=IN)
-5. [australia national cricket team](https://trends.google.com/trending/rss?geo=IN)
-6. [અફઘાનિસ્તાન રાષ્ટ્રીય ક્રિકેટ ટીમ](https://trends.google.com/trending/rss?geo=IN)
-7. [सम्राट चौधरी](https://trends.google.com/trending/rss?geo=IN)
-8. [कैबिनेट](https://trends.google.com/trending/rss?geo=IN)
-9. [వధువు](https://trends.google.com/trending/rss?geo=IN)
-10. [openai](https://trends.google.com/trending/rss?geo=IN)
+1. [mitchell marsh](https://trends.google.com/trending/rss?geo=IN)
+2. [অর্থ](https://trends.google.com/trending/rss?geo=IN)
+3. [अमेज़न प्राइम वीडियो](https://trends.google.com/trending/rss?geo=IN)
+4. [ಪ್ರದೀಪ್ ಈಶ್ವರ್](https://trends.google.com/trending/rss?geo=IN)
+5. [सलमान खान](https://trends.google.com/trending/rss?geo=IN)
+6. [ఇరాన్](https://trends.google.com/trending/rss?geo=IN)
+7. [brighton fc](https://trends.google.com/trending/rss?geo=IN)
+8. [kolkata weather](https://trends.google.com/trending/rss?geo=IN)
+9. [શનિ](https://trends.google.com/trending/rss?geo=IN)
+10. [australia national cricket team vs zimbabwe national cricket team match scorecard](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Sikh truck driver stabbed 17 times in Wyoming days after DHS's ‘Mr Singh’ post](https://timesofindia.indiatimes.com/city/amritsar/sikh-truck-driver-stabbed-17-times-in-wyoming-days-after-dhss-mr-singh-post/articleshow/134314822.cms)
+- [Over 37 lakh appeals pending after Bengal SIR: EC tells Supreme Court](https://timesofindia.indiatimes.com/india/over-37-lakh-appeals-pending-after-bengal-sir-ec-tells-supreme-court/articleshow/134329116.cms)
 - [Watch: Songs, car rally as men back accused in Gurgaon woman biker hit-and-run case](https://timesofindia.indiatimes.com/city/gurgaon/come-face-to-face-songs-car-rally-as-men-back-gurgaon-woman-biker-hit-and-run-accused-kalyan-singh-bainsla/articleshow/134326739.cms)
+- [One win from history: India’s Quimcy Dsouza storms into Teqball semis at Asian Games](https://timesofindia.indiatimes.com/sports/asian-games-2026/one-win-from-history-indias-quimcy-dsouza-stuns-top-seed-to-storm-into-teqball-semis-at-asian-games/articleshow/134326887.cms)
+- [Rajkot man kills 5-year-old daughter, stores body in fridge; ends life](https://timesofindia.indiatimes.com/city/rajkot/man-kills-5-year-old-daughter-stores-body-in-fridge-ends-life/articleshow/134320222.cms)
+- [Anthropic engineers are worshipping a new God, claims report](https://timesofindia.indiatimes.com/technology/tech-news/engineers-at-anthropic-are-worshipping-a-new-god-claims-report-and-why-it-is-worrying-analysis/articleshow/134327197.cms)
 - [Raped, stabbed, body dumped: Delhi teen goes to meet friend, he calls 3 others](https://timesofindia.indiatimes.com/city/delhi/3-minors-among-4-held-for-rape-murder-of-16-yr-old/articleshow/134318668.cms)
-- [Punjab: ASI shot dead, 2nd attack on a cop within a week](https://timesofindia.indiatimes.com/city/amritsar/bullets-rain-in-punjab-another-asi-shot-dead-2nd-cop-killed-within-a-week/articleshow/134326284.cms)
 - [Abhishek Sharma reveals Yuvraj's message after scoring record-breaking century](https://timesofindia.indiatimes.com/sports/cricket/afghanistan-tour-of-india/abhishek-sharma-reveals-yuvraj-singhs-message-after-scoring-record-breaking-ton-against-afghanistan/articleshow/134328110.cms)
-- [She paid Rs 79L for Rs 2.14cr villa, but it stayed unfinished; RERA orders refund](https://timesofindia.indiatimes.com/business/india-business/woman-paid-rs-79-lakh-for-a-rs-2-14-crore-villa-but-construction-remained-unfinished-telangana-rera-orders-full-refund-with-10-7-interest-and-fines-builder-rs-1-03-crore/articleshow/134326814.cms)
-- [Bill Gates backs cattle methane-cutting tech: Could it help fight climate change](https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-is-backing-technology-to-cut-methane-from-cattle-changing-what-cows-release-in-atmosphere-could-become-a-climate-solution/articleshow/134310420.cms)
-- [India’s flag bearers revealed: Bhaker, Toor to lead contingent at Asian Games opening](https://timesofindia.indiatimes.com/sports/asian-games-2026/indias-flag-bearers-revealed-manu-bhaker-tajinderpal-singh-toor-to-lead-contingent-at-asian-games-opening-ceremony/articleshow/134327751.cms)
-- [Watch: Car hits bike, drags it for 100 metres on Delhi road; driver held](https://timesofindia.indiatimes.com/city/delhi/watch-car-hits-bike-drags-it-for-100-metres-on-delhi-road-driver-held/articleshow/134325428.cms)
-- [Ex Union minister Ravneet Singh Bittu's convoy attacked in Punjab](https://timesofindia.indiatimes.com/india/ex-union-minister-ravneet-singh-bittus-convoy-attacked-in-punjab/articleshow/134327193.cms)
-- [NSE IPO Day 2: After 43% subscription on first day, what brokerages are saying](https://timesofindia.indiatimes.com/business/india-business/nse-ipo-day-2-after-43-subscription-on-first-day-gmp-stands-at-8-what-brokerages-are-saying/articleshow/134326592.cms)
+- [A month before Gurgaon hit-and-run case, men chased, harassed Bhopal biker](https://timesofindia.indiatimes.com/city/bhopal/a-month-before-gurugram-case-men-chased-harassed-bhopal-biker/articleshow/134320400.cms)
+- [Vizag woman visiting techie son in Melbourne dies after car crashes into Porsche](https://timesofindia.indiatimes.com/city/vijayawada/vizag-woman-visiting-techie-son-in-melbourne-dies-in-car-crash-daughter-in-law-killed-too/articleshow/134320355.cms)
 
 **NDTV**
 - [Punjab Man Reaches Apple's Noida Store At 6 AM, Becomes 1st To Buy iPhone 18 Pro Max](https://www.ndtv.com/india-news/punjab-man-reaches-apples-noida-store-at-6-am-becomes-1st-to-buy-iphone-18-pro-max-12062748#publisher=newsstand)
@@ -38,6 +38,7 @@
 - [Video: Long Queues Outside Apple Stores In India As Sale Of New iPhones Begins](https://www.ndtv.com/india-news/iphone-18-pro-iphone-18-pro-max-india-sale-long-queues-outside-apple-stores-in-india-as-sale-of-iphones-begins-12062817#publisher=newsstand)
 
 **Hindustan Times**
+- [Nandan Nilekani-led panel on NEET reforms to submit first report by month-end: Centre to SC](https://www.hindustantimes.com/india-news/nandan-nilekani-led-panel-on-neet-reforms-to-submit-first-report-by-month-end-centre-to-sc-101789717381320.html)
 - [Vijay’s UK trip slammed as ‘pleasure tour’; BJP, AIADMK raise questions over investments](https://www.hindustantimes.com/india-news/cm-vijay-s-london-trip-sparks-pleasure-tour-row-bjp-aiadmk-question-investments-tamil-nadu-chennai-101789715278050.html)
 - [Pawar cites El Niño-induced deficient rain in Maharashtra, says declare drought](https://www.hindustantimes.com/india-news/pawar-cites-el-ni-o-induced-deficient-rain-in-maharashtra-says-declare-drought-101789715388126.html)
 - [BJP's Ravneet Bittu alleges attack on convoy by AAP workers in Punjab's Batala, 2 held](https://www.hindustantimes.com/india-news/bjps-ravneet-bittu-alleges-attack-on-convoy-by-aap-workers-in-punjabs-batala-2-apprehended-101789714090933.html)
@@ -47,33 +48,35 @@
 - [Register case over ‘derogatory references’ to Hindu figures: Delhi court](https://www.hindustantimes.com/india-news/register-case-over-derogatory-references-to-hindu-figures-delhi-court-101789712031103.html)
 - [One photo, many near misses: The hunt for Ganpati, the last big Maoist fugitive](https://www.hindustantimes.com/india-news/one-photo-many-near-misses-the-hunt-for-ganpati-the-last-big-maoist-fugitive-jhiram-valley-massacre-101789709910933.html)
 - [Govt preparing system to ensure UPI fee doesn't hit customers: Report](https://www.hindustantimes.com/india-news/upi-fee-burden-wont-fall-on-consumers-govt-plans-to-track-merchants-report-101789708445177.html)
-- [Missing Delhi man found dead in Gurugram, was shot by ex-colleague, her partner](https://www.hindustantimes.com/india-news/missing-delhi-man-found-dead-in-gurugram-was-shot-by-ex-colleague-her-partner-101789708571895.html)
 
 **Vijay Karnataka**
+- [iPhone 18 Sale: ಬೆಂಗಳೂರು ಸೇರಿ ದೇಶಾದ್ಯಂತ ಆಪಲ್ ಸ್ಟೋರ್‌ ಮುಂದೆ iPhone ಲವರ್ಸ್‌ ಕ್ಯೂ!‌ ಐಫೋನ್‌ 18 ಸಿರೀಸ್‌ ಬೆಲೆ ಎಷ್ಟಿದೆ?](https://vijaykarnataka.com/business/news/iphone-18-pro-18-pro-max-on-sale-apple-lovers-queue-up-across-india-including-bengaluru-know-the-price-details/articleshow/134328097.cms)
 - [ರೇಷನ್‌ ಅಂಗಡಿಗಳ ಸಮಯ ಬದಲಾವಣೆ: ಹೊಸ ವೇಳಾಪಟ್ಟಿ ಬಿಡುಗಡೆ - ಅಕ್ಟೋಬರ್ 1 ರಿಂದ ಅನ್ವಯ; ಮಾಲೀಕರಿಗೆ ಸಚಿವರಿಂದ ಖಡಕ್ ಎಚ್ಚರಿಕೆ](https://vijaykarnataka.com/news/karnataka/change-in-fair-price-shop-timings-new-schedule-released-effective-from-october-1-minister-issues-stern-warning-to-owners/articleshow/134328852.cms)
 - [ಪಾಕ್ ಕ್ರಿಕೆಟ್ ಮಾನ ಹರಾಜು: ಇಬ್ಬರು ಹಾಲೀ, ಸ್ಟಾರ್ ಆಟಗಾರರ ವಿರುದ್ದ ಬೆಟ್ಟಿಂಗ್, ಮ್ಯಾಚ್ ಫಿಕ್ಸಿಂಗ್ ಆರೋಪ!](https://vijaykarnataka.com/sports/cricket/news/mohammad-rizwan-betting-match-fixing-row-setback-to-pakistan-cricket/articleshow/134328759.cms)
-- [ಭದ್ರಾ ಮೇಲ್ದಂಡೆ ಶಾಖಾ ಕಾಲುವೆ ಒಡೆದು ಕೆರೆಗೆ ನೀರು ಬಿಟ್ಟ ಗ್ರಾಮಸ್ಥರು: ಸರಿಪಡಿಸಿದ ಇಂಜಿನಿಯರ್, ಭದ್ರಾ ನಾಲೆಗಳಿಗೆ ಅ.2 ರವರೆಗೆ ನೀರು](https://vijaykarnataka.com/news/chitradurga/villagers-breach-bhadra-upper-bank-branch-canal-to-divert-water-into-a-tank-engineers-carry-out-repairs-water-supply-to-bhadra-canals-till-october-2/articleshow/134326664.cms)
 - [ಶತಕ ಬಾರಿಸಿ ಧ್ಯಾನದಲ್ಲಿ ಸಂಭ್ರಮಿಸಿದ ಅಭಿಷೇಕ್ ಶರ್ಮಾ; ಕ್ರೀಡಾಪಟುಗಳಿಗೆ ಧ್ಯಾನ ಏಕೆ ಮುಖ್ಯ?](https://vijaykarnataka.com/lifestyle/health/abhishek-sharma-meditation-celebration-why-athletes-meditate/articleshow/134328292.cms)
-- [ಭದ್ರಾ ಜಲಾಶಯದಿಂದ ನಾಲೆಗೆ 15 ದಿನ ನೀರು ಬಿಡುಗಡೆ; ರೈತರಿಗೆ 5 ನಿರ್ಬಂಧ ವಿಧಿಸಿದ ಸರ್ಕಾರ! ಡ್ಯಾಂನಲ್ಲಿ ನೀರೆಷ್ಟಿದೆ?](https://vijaykarnataka.com/news/davanagere/water-to-be-released-from-bhadra-reservoir-into-the-canal-for-15-days-5-restrictions-on-farmers-water-level-in-dam/articleshow/134327566.cms)
+- [ಭದ್ರಾ ಮೇಲ್ದಂಡೆ ಶಾಖಾ ಕಾಲುವೆ ಒಡೆದು ಕೆರೆಗೆ ನೀರು ಬಿಟ್ಟ ಗ್ರಾಮಸ್ಥರು: ಸರಿಪಡಿಸಿದ ಇಂಜಿನಿಯರ್, ಭದ್ರಾ ನಾಲೆಗಳಿಗೆ ಅ.2 ರವರೆಗೆ ನೀರು](https://vijaykarnataka.com/news/chitradurga/villagers-breach-bhadra-upper-bank-branch-canal-to-divert-water-into-a-tank-engineers-carry-out-repairs-water-supply-to-bhadra-canals-till-october-2/articleshow/134326664.cms)
 - [ಬೇಕು ಅಂತ Bigg Boss ನಿಯಮಗಳನ್ನ ಮುರಿಯಲು ಹೊರಟ ‘ಅಗ್ನಿಪರೀಕ್ಷೆ’ ಬಾಯ್ಸ್: ಅವಿನಾಶ್‌ಗೆ ಹಲ್ಕಟ್ ಎಂದ ಮಂಜ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-week-3-why-did-avinash-decided-to-quit-agniparikshe-boys-worst-game/articleshow/134328863.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
-- [ಅಷ್ಟಲಕ್ಷ್ಮಿ ಧ್ಯಾನ ಶ್ಲೋಕ| Ashtalakshmi Dhyana Shloka Lyrics In Kannada](https://vijaykarnataka.com/religion/pooja-vidhana/ashtalakshmi-dhyana-shloka-lyrics-in-kannada/articleshow/134328008.cms)
+- [ಶನಿವಾರ ಶನಿದೋಷಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಧಾರ್ಮಿಕ ಆಚರಣೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/saturday-secretly-do-these-works-to-remove-shani-dosha/articleshow/134329514.cms)
 - [ಅಂದು ಅದ್ದೂರಿ ನಿಶ್ಚಿತಾರ್ಥ, ಈಗ ಬ್ರೇಕಪ್! ಪೃಥ್ವಿ ಶಾ–ಆಕೃತಿ ಬಳಿಕ ಸಂಬಂಧ ಮುರಿದ ನೋವಿನಿಂದ ಹೊರಬರಲು 7 ಮಾರ್ಗಗಳು](https://vijaykarnataka.com/lifestyle/relationship/prithvi-shaw-aakriti-agarwal-broken-engagement-how-to-move-on/articleshow/134325537.cms)
-- [GBA ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ಸೆ.21 ರಿಂದ ಸರಳೀಕೃತ 'ಇ-ಆಸ್ತಿ 2.0' ಸೇವೆ ಲಭ್ಯ: ಏನಿದರ ವೈಶಿಷ್ಟ್ಯತೆ, ಯಾವೆಲ್ಲ ಸೇವೆಗಳು ದೊರೆಯಲಿವೆ?](https://vijaykarnataka.com/news/bengaluru-city/simplified-e-property-2-0-program-to-launch-from-sep-21-know-all-services-and-features/articleshow/134327141.cms)
+- [ಭದ್ರಾ ಜಲಾಶಯದಿಂದ ನಾಲೆಗೆ 15 ದಿನ ನೀರು ಬಿಡುಗಡೆ; ರೈತರಿಗೆ 5 ನಿರ್ಬಂಧ ವಿಧಿಸಿದ ಸರ್ಕಾರ! ಡ್ಯಾಂನಲ್ಲಿ ನೀರೆಷ್ಟಿದೆ?](https://vijaykarnataka.com/news/davanagere/water-to-be-released-from-bhadra-reservoir-into-the-canal-for-15-days-5-restrictions-on-farmers-water-level-in-dam/articleshow/134327566.cms)
 
 **The Hindu**
+- [After Telangana CM’s assurance, govt constitutes high-level committee to resolve impasse over Section 22A lands](https://www.thehindu.com/news/national/telangana/telangana-constitutes-high-level-committee-to-resolve-impasse-over-section-22a-lands/article71479795.ece)
+- [Andhra Pradesh tops country in patient safety with a score of 86, says Health Department](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-tops-country-in-patient-safety-with-a-score-of-86-says-health-department/article71477449.ece)
+- [Jana Sena and TDP leaders light lamps in Vijayawada to mark Modi’s 25 years in public service](https://www.thehindu.com/news/national/andhra-pradesh/jana-sena-and-tdp-leaders-light-lamps-in-vijayawada-to-mark-modis-25-years-in-public-service/article71477311.ece)
+- [Andhra Pradesh Congress party’s Political Affairs Committee to meet in Vijayawada on September 19](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-congress-partys-political-affairs-committee-to-meet-in-vijayawada-on-september-19/article71477304.ece)
+- [Kearney study recommends measures to improve Tamil Nadu’s fiscal capacity](https://www.thehindu.com/news/cities/Coimbatore/kearney-study-recommends-measures-to-improve-tamil-nadus-fiscal-capacity/article71479748.ece)
+- [ED raids 7 locations in Jharkhand State Co-op bank 'fraud' case](https://www.thehindu.com/news/national/jharkhand/ed-raids-7-locations-in-jharkhand-state-co-op-bank-fraud-case/article71479266.ece)
+- [Defected MPs 'gaddar team', TMC is led by Mamata: Saugata Roy](https://www.thehindu.com/news/national/west-bengal/defected-mps-gaddar-team-tmc-is-led-by-mamata-saugata-roy/article71108430.ece)
+- [Congress backs Mamata as ECI freezes name and symbol of Trinamool Congress](https://www.thehindu.com/news/cities/kolkata/congress-backs-mamata-as-eci-freezes-name-and-symbol-of-trinamool-congress/article71479542.ece)
 - [Absconding accused in Sai Krishna alleged custodial death case surrenders before SIT](https://www.thehindu.com/news/national/andhra-pradesh/absconding-accused-in-sai-krishna-alleged-custodial-death-case-surrenders-before-sit/article71477296.ece)
 - [Bagalkot DHO suspended days after daughter caught in government job-PG course scam](https://www.thehindu.com/news/national/karnataka/bagalkot-dho-rajkumar-yaragal-suspended-for-dereliction-of-duty-after-daughter-ankita-caught-working-in-government-run-namma-clinic-while-enrolled-in-pg-medical-course/article71479713.ece)
-- [Election Commission bars both factions of Trinamool from using party name, symbol for byelections](https://www.thehindu.com/news/national/west-bengal/eci-bars-both-factions-of-trinamool-from-using-party-name-symbol-for-byelections/article71478009.ece)
-- [New underpass opens on September 17 to ease traffic, improve U-turn efficiency at My Home Avatar Junction](https://www.thehindu.com/news/national/telangana/new-underpass-to-ease-traffic-improve-u-turn-efficiency-at-my-home-avatar-junction-handling-33000-vehicles-in-morning-rush/article71477082.ece)
-- [SRM University-A.P. signs MoU with University of Rome Tor Vergata for joint research](https://www.thehindu.com/news/national/andhra-pradesh/srm-university-ap-signs-mou-with-university-of-rome-tor-vergata-for-joint-research/article71477159.ece)
-- [NIA court awards life imprisonment to nine, including eight Bangladeshis in human trafficking case](https://www.thehindu.com/news/cities/Hyderabad/nia-court-awards-life-imprisonment-to-nine-including-eight-bangladeshis-in-human-trafficking-case/article71479582.ece)
-- [Students see how trains are cleaned as South Coast Railway opens Swachhata campaign](https://www.thehindu.com/news/national/andhra-pradesh/students-see-how-trains-are-cleaned-as-south-coast-railway-opens-swachhata-campaign/article71476909.ece)
-- [13-year-old boy abducted, murdered by neighbour in bid to repay education loan in Bengaluru](https://www.thehindu.com/news/cities/bangalore/13-year-old-boy-abducted-murdered-by-neighbour-in-bid-to-repay-education-loan-in-bengaluru/article71479611.ece)
-- [West Bengal SIR: Over 37 lakh appeals stuck in Tribunals as Municipal polls draw near](https://www.thehindu.com/news/national/west-bengal-sir-over-37-lakh-appeals-stuck-in-tribunals-as-municipal-polls-draw-near/article71479648.ece)
-- [Season’s first cyclone may form over Andaman Sea; heavy rain in Andhra Pradesh from September 19](https://www.thehindu.com/news/national/andhra-pradesh/seasons-first-cyclone-may-form-over-andaman-sea-heavy-rain-in-andhra-pradesh-from-september-19/article71476625.ece)
 
 **Livemint**
+- [Philippines says Chinese ship ‘rammed’ govt boat in South China Sea, Beijing alleges violation of international law](https://www.livemint.com/news/world/philippines-says-chinese-ship-rammed-govt-boat-in-south-china-sea-beijing-alleges-violation-of-international-law-11789715500864.html)
+- [Watch: Vicky Kaushal joins iPhone 18 frenzy, poses with Pro Max at Apple BKC](https://www.livemint.com/news/trends/watch-vicky-kaushal-joins-iphone-18-frenzy-poses-with-pro-max-at-apple-bkc-11789717061874.html)
+- [Philippines school shooting: 2 killed, 4 injured in South Cotabato](https://www.livemint.com/news/world/philippines-school-shooting-casualties-feared-at-south-cotabatos-banga-national-high-school-11789717009637.html)
 - [Laid off at 59 after 3 decades at HP, she found a new career in Antarctica: Her story](https://www.livemint.com/news/trends/laid-off-at-59-after-3-decades-at-hp-she-found-a-new-career-in-antarctica-her-story-11789711527648.html)
 - [Petrol at  ₹384, Pakistan introduces austerity measures — one dish at marriage events, markets to be shut by 9 pm](https://www.livemint.com/news/world/petrol-at-rs-384-pakistan-introduces-austerity-measures-one-dish-at-marriage-events-markets-to-be-shut-by-9-pm-11789711969892.html)
 - [US committed war crimes in Iran? Here's what a UN fact-finding mission found](https://www.livemint.com/news/world/us-committed-war-crimes-in-iran-heres-what-a-un-fact-finding-mission-found-iran-war-donald-trump-minab-11789708515625.html)
@@ -81,9 +84,6 @@
 - [Karnataka movie tickets to cost more from Sept 30: What the new 2% cess means for moviegoers](https://www.livemint.com/news/india/karnataka-movie-tickets-to-cost-more-from-sept-30-what-the-new-2-cess-means-for-moviegoers-11789706673398.html)
 - [Will India resist US tariff pressure amid trade deal talks? Trump plans to sign Russia sanctions bill](https://www.livemint.com/news/india/will-india-resist-us-tariff-pressure-amid-trade-deal-trump-plans-to-sign-russia-sanctions-bill-100-tariff-11789703018398.html)
 - [CBDT extends deadline for tax valuer, practitioner registrations to March 2027](https://www.livemint.com/news/cbdt-income-tax-act-2025-income-tax-rules-2026-tax-valuers-income-tax-practitioners-11789669824632.html)
-- [Pit bull mauls 6-month-old during walk in Haryana's Sonipat; baby critical, CCTV captures attack](https://www.livemint.com/news/india/pit-bull-mauls-6-month-old-during-walk-in-haryanas-sonipat-baby-critical-cctv-captures-attack-11789702960641.html)
-- [Flooding Kills Three People as Heavy Rains Hit Northern Vietnam](https://www.livemint.com/news/flooding-kills-three-people-as-heavy-rains-hit-northern-vietnam-11789703230812.html)
-- [‘Sabse pahele lena humnein hai’: Apple iPhone 18 Pro, Pro Max sparks pre-dawn rush in Delhi, Mumbai and Bengaluru](https://www.livemint.com/news/trends/sabse-pahele-lena-humnein-hai-apple-iphone-18-pro-pro-max-sparks-pre-dawn-rush-in-delhi-mumbai-and-bengaluru-11789700053576.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -110,25 +110,27 @@
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್; ಭಾರತ ಮತ್ತು ಜಪಾನ್ ತಂಡದ ನಡುವೆ ಕ್ವಾರ್ಟರ್ಫೈನಲ್ ಪಂದ್ಯ](https://www.varthabharati.in/vishesha-varadigalu/asian-games-quarter-final-match-between-india-and-japan-2276008)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Delhi (5.8)
 - Emkay Global Financial (5.0)
-- Bengaluru (3.9)
-- Punjab (3.2)
+- Phone (4.0)
+- Vijayawada (3.9)
 - ICICI Securities (3.0)
 - target (3.0)
+- Delhi (2.9)
 - What (2.9)
 - Watch (2.6)
+- Gurgaon (2.6)
 - Opinion (2.6)
 - Video (2.6)
 - Sept (2.6)
-- September (2.6)
+- Mamata (2.6)
+- Philippines (2.6)
 - Iran (2.6)
-- India (2.5)
-- Phone (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [Hands-On The Apple Watch Series 12 And Ultra 4](https://www.hodinkee.com/articles/the-apple-watch-series-12-and-ultra-4)
+- [Tech leads Wall St to higher close as oil eases, Treasury yields dip](https://www.reuters.com/business/wall-st-futures-rise-fed-rate-hike-lifts-long-standing-overhang-2026-09-17/)
 - [‘May your service be accompanied by good health’: Bangladesh PM Rahman wishes PM Modi on birthday](https://timesofindia.indiatimes.com/india/may-your-service-be-accompanied-by-good-health-bangladesh-pm-rahman-wishes-pm-modi-on-birthday/articleshow/134320743.cms)
 - [Ebola outbreak in Congo is still serious, African health body says](https://www.arabnews.com/world/ebola-outbreak-in-congo-is-still-serious-african-health-body-says-3002158)
 - [டிரம்ப் எச்சரிக்கை; ஐரோப்பிய ஒன்றியத்தில் இணையும் கனடா](https://www.dinakaran.com/news/trumps-warning-european-union-canada/)
@@ -137,8 +139,6 @@
 - [RBI rate hike imminent? Fed's move pressures India to tighten monetary policy amid rising inflation](https://economictimes.indiatimes.com/news/economy/indicators/rbi-rate-hike-imminent-feds-move-pressures-india-to-tighten-monetary-policy-amid-rising-inflation/articleshow/134320527.cms?from=mdr)
 - [കോട്ടയം മെഡിക്കൽ കോളജിലെത്തിയ യുവതി മുങ്ങി- Missing Case](https://www.manoramaonline.com/news/latest-news/2026/09/18/kottayam-medical-college-fake-student-found-after-disappearing-from-hostel.html)
 - [18-09-2026 శుక్రవారం రాశిఫలాలు: కర్కాటకం, సింహం, కన్య.. మీ భవిష్యత్తుకు కీలక సూచనలు!](https://telugu.abplive.com/astro/horoscope-today-2026-september-18-cancer-leo-virgo-karkataka-simha-kanya-rashi-phalalu-259173)
-- [पंचांग 18 September 2026: ज्येष्ठा गौरी पूजन, मालव्य राजयोग! तिथीसह पाहा शुभ मुहूर्त, योग आणि राहुकाळ](https://maharashtratimes.com/astro/daily-marathi-panchang/panchang-18-september-in-marathi-ganeshotsav-2026-gauri-pujan-malavya-rajyog-and-shubha-muhurta/articleshow/134318419.cms)
-- [यूट्यूबर वैष्णवी की हत्या में भाई ने लिया बदला, जमानत पर बाहर आए जीजा की हत्या](https://www.aajtak.in/crime/story/youtuber-vaishnavi-husband-haribabu-murder-viral-selfie-video-ntc-acwi-rptc-2645384-2026-09-18)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
