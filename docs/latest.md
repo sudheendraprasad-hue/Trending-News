@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-18 03:02:00
+# India Trending Report — 2026-09-18 03:35:14
 
 ## Google Trends (India) — top trending searches
-1. [राशियाँ](https://trends.google.com/trending/rss?geo=IN)
-2. [పాస్పోర్ట్](https://trends.google.com/trending/rss?geo=IN)
-3. [disproportionate assets](https://trends.google.com/trending/rss?geo=IN)
-4. [జోస్ బట్లర్](https://trends.google.com/trending/rss?geo=IN)
-5. [weather rajkot](https://trends.google.com/trending/rss?geo=IN)
-6. [modha rathri](https://trends.google.com/trending/rss?geo=IN)
-7. [flipkart discount on iphone 17e](https://trends.google.com/trending/rss?geo=IN)
-8. [shreyanka patil](https://trends.google.com/trending/rss?geo=IN)
-9. [satellite images](https://trends.google.com/trending/rss?geo=IN)
-10. [cheetah](https://trends.google.com/trending/rss?geo=IN)
+1. [sloane stephens](https://trends.google.com/trending/rss?geo=IN)
+2. [கிரிக்கெட்](https://trends.google.com/trending/rss?geo=IN)
+3. [friday](https://trends.google.com/trending/rss?geo=IN)
+4. [m k stalin](https://trends.google.com/trending/rss?geo=IN)
+5. [ss retail ipo gmp](https://trends.google.com/trending/rss?geo=IN)
+6. [cat species](https://trends.google.com/trending/rss?geo=IN)
+7. [yuvraj singh on rohit sharma 2027](https://trends.google.com/trending/rss?geo=IN)
+8. [joan garcía](https://trends.google.com/trending/rss?geo=IN)
+9. [लॉकहीड मार्टिन एफ-35 लाइटनिंग ii](https://trends.google.com/trending/rss?geo=IN)
+10. [ఆంధ్ర ప్రదేశ్](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [In the hot seat: Judge Amogh Kaloti, the man who holds key to Tata dispute](https://timesofindia.indiatimes.com/business/india-business/judge-amogh-kaloti-the-man-who-holds-key-to-tata-dispute/articleshow/134321260.cms)
+- [‘Body kept in car for 7 hours’: How a Gurgaon meeting ended in HR’s murder](https://timesofindia.indiatimes.com/city/delhi/body-kept-in-car-for-7-hours-how-a-gurgaon-meeting-with-ex-colleague-ended-in-hr-professionals-murder/articleshow/134323869.cms)
 - [US likely committed war crimes in Iran strikes that killed over 150: UN](https://timesofindia.indiatimes.com/world/middle-east/us-likely-committed-war-crimes-in-iran-strikes-that-killed-over-150-un/articleshow/134324036.cms)
 - [In-laws 'plotted' B'luru woman’s abduction; how 3 men tracked her hubby](https://timesofindia.indiatimes.com/city/bengaluru/big-twist-in-bengaluru-kidnapping-case-in-laws-plotted-womans-abduction-how-3-men-tracked-her-husband/articleshow/134323643.cms)
 - [IPL media rights: Industry seeks best price-discovery models](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-media-rights-industry-seeks-best-price-discovery-models/articleshow/134324006.cms)
+- [Palantir CEO Alex Karp wants US govt to take over OpenAI, Anthropic](https://timesofindia.indiatimes.com/technology/tech-news/palantir-ceo-alex-karp-wants-us-government-to-take-over-openai-anthropic-says-else-every-client-of-mine-will-sue-them-as-/articleshow/134324162.cms)
 - ['Do I want to annihilate them?' Trump weighs next phase of Iran war](https://timesofindia.indiatimes.com/world/us/do-i-want-to-annihilate-them-trump-weighs-next-phase-of-iran-war/articleshow/134323883.cms)
-- [UAE minister calls datacenters ‘more important than roads’, unveils new ‘hiding rule’](https://timesofindia.indiatimes.com/technology/tech-news/while-most-americans-may-hate-datacenters-uae-minister-calls-them-more-important-than-roads-and-has-a-new-hiding-rule-for-them-after-war-destroyed-many/articleshow/134323768.cms)
+- [Olympiad: How Nihal saved India's day amid Gukesh's historic drop in rating points](https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-2-how-nihal-sarin-saved-indias-day-amid-gukeshs-historic-drop-in-rating-points/articleshow/134324435.cms)
 - [Four days after DHS’ ‘Mr Singh’ post, Sikh trucker stabbed in US](https://timesofindia.indiatimes.com/city/amritsar/sikh-truck-driver-stabbed-17-times-in-wyoming-days-after-dhss-mr-singh-post/articleshow/134314822.cms)
-- [96 vs 86: Abhishek leaves Sooryavanshi chasing as six-hitting race takes a twist](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharma-vs-vaibhav-sooryavanshi-who-is-winning-the-six-hitting-battle/articleshow/134317246.cms)
 - [Flowers at 10,600ft: World’s highest twin fields unveiled in Leh](https://timesofindia.indiatimes.com/india/flowers-at-10600ft-worlds-highest-twin-fields-unveiled-in-leh/articleshow/134320977.cms)
-- [Tata group dispute: Panel sought 5-year term for Chandrasekaran early September](https://timesofindia.indiatimes.com/business/india-business/tata-group-dispute-panel-sought-5-year-term-for-chandrasekaran-early-september/articleshow/134323455.cms)
 
 **NDTV**
 - [600 Km Per Hour Drones Launched In Waves: How Russia Is Rewriting War Rules](https://www.ndtv.com/world-news/600-km-h-geran-5-drones-launched-in-waves-how-russia-is-rewriting-rules-of-war-12062294#publisher=newsstand)
@@ -38,30 +38,31 @@
 - [Army Soldier Dies After Being Locked In Car, Set On Fire In Bihar](https://www.ndtv.com/india-news/army-soldier-dies-after-being-locked-in-car-set-on-fire-in-bihar-12061850#publisher=newsstand)
 
 **Hindustan Times**
+- [DUSU election: Facial recognition system among deployments as part of security](https://www.hindustantimes.com/india-news/dusu-election-facial-recognition-system-among-deployments-as-part-of-security-101789701404046.html)
+- [CBFC flags proposed screening of documentary on Umar Khalid at IIIT-Hyderabad](https://www.hindustantimes.com/india-news/cbfc-flags-proposed-screening-of-documentary-on-umar-khalid-at-iiithyderabad-101789699922458.html)
+- [India says Russia sanctions bill threatening 100% tariffs can impact US ties, global energy market](https://www.hindustantimes.com/india-news/india-says-russia-sanctions-bill-threatening-100-tariffs-can-impact-us-ties-global-energy-market-101789698443655.html)
 - [Govt declares 23 more taluks drought-hit, tally rises to 124](https://www.hindustantimes.com/india-news/govt-declares-23-more-taluks-drought-hit-tally-rises-to-124-101789672255752.html)
 - [Stones pelted at Ganesh idol procession, mosque in Bhatkal, say police](https://www.hindustantimes.com/india-news/stones-pelted-at-ganesh-idol-procession-mosque-in-bhatkal-say-police-101789672178956.html)
 - [Stem cell therapy only for approved conditions: Govt](https://www.hindustantimes.com/india-news/stem-cell-therapy-only-for-approved-conditions-govt-101789672095678.html)
 - [Abduction bid leads to 20 vehicle pile-up, 3 arrested](https://www.hindustantimes.com/india-news/abduction-bid-leads-to-20-vehicle-pile-up-3-arrested-101789672056964.html)
 - [Shivakumar unveils several initiatives at Kalyana Karnataka Utsav](https://www.hindustantimes.com/india-news/shivakumar-unveils-several-initiatives-at-kalyana-karnataka-utsav-101789672007661.html)
 - [Integration must lead to equal rights, dignity: Radhakrishnan](https://www.hindustantimes.com/india-news/integration-must-lead-to-equal-rights-dignity-radhakrishnan-101789671819220.html)
-- [SC approves NEET-SS percentile reduction](https://www.hindustantimes.com/india-news/sc-approves-neet-ss-percentile-reduction-101789671518105.html)
-- [Bridge course for serving primary teachers launched](https://www.hindustantimes.com/india-news/bridge-course-for-serving-primary-teachers-launched-101789671457096.html)
-- [SC orders Indian Oil to pay  ₹12L for denying woman job in 1988](https://www.hindustantimes.com/india-news/sc-orders-indian-oil-to-pay-12l-for-denying-woman-job-in-1988-101789671348467.html)
-- [HAL eyes beginning delivery of LCA Mk-1A to Air Force by year-end | Exclusive](https://www.hindustantimes.com/india-news/hal-eyes-beginning-delivery-of-lca-mk-1a-to-air-force-by-year-end-light-combat-aircraft-exclusive-ravi-k-chairman-101789697459900.html)
+- [Supreme Court approves lowering of NEET super speciality admission percentile to fill vacant seats](https://www.hindustantimes.com/india-news/sc-approves-neet-ss-percentile-reduction-101789671518105.html)
 
 **Vijay Karnataka**
-- [ಶೈಕ್ಷಣಿಕ ಪ್ರವಾಸದಲ್ಲಿ ಸೆಲ್ಫೀ, ರೀಲ್ಸ್‌ ಬ್ಯಾನ್‌: ಕಾಲೇಜು ಶಿಕ್ಷಣ ಇಲಾಖೆ ಆದೇಶ ಹೊರಡಿಸಿದ ಪ್ರಮುಖ 9 ನಿಯಮಗಳು](https://vijaykarnataka.com/news/karnataka/students-selfie-reels-ban-during-educational-trip-karnataka-college-education-board-directed-9-important-rules/articleshow/134323594.cms)
-- [ಕಡಲನಗರಿಗೆ ಮಂಗಳೂರಿಗೆ ಆಡಳಿತ ಯಂತ್ರ! ಸಚಿವ ಸಂಪುಟದಲ್ಲಿಆಗಲಿದೆ ಮಹತ್ವದ ನಿರ್ಣಯ, ಏನೆಲ್ಲಾ ಪ್ರಮುಖ ಚರ್ಚೆ, ?](https://vijaykarnataka.com/news/mangaluru/karnataka-administration-entire-team-towards-coastal-city-mangalore-highlights-of-cabinet-meeting/articleshow/134324121.cms)
+- [ಇಂಧನ ಬಿಕ್ಕಟ್ಟಿಗೆ ಪಾಕ್‌ನಲ್ಲಿ ಲಾಕ್‌ಡೌನ್‌ ಸ್ಥಿತಿ: ರಾತ್ರಿ 9ಕ್ಕೆ ಎಲ್ಲಾ ಬಂದ್‌.. ಹೊಸ ವಾಹನ ಖರೀದಿ, ವಿದೇಶ ಪ್ರಯಾಣಕ್ಕೂ ಬ್ರೇಕ್!](https://vijaykarnataka.com/news/world/fuel-crisis-in-pakistan-fuel-cuts-travel-bans-and-early-closures-inside-pakistans-strict-new-austerity-drive/articleshow/134324241.cms)
+- [8ನೇ ವೇತನ ಆಯೋಗ : ಲೆವೆಲ್ 7ಗೆ ಕನಿಷ್ಠ ಪೆನ್ಸನ್ 58 ಸಾವಿರ? ಲೆವೆಲ್ 4 -7ರ ಅಂದಾಜು Calculator!](https://vijaykarnataka.com/business/personal-finance/explainer-8th-pay-commission-pension-calculator-level-4-to-7-estimates/articleshow/134324391.cms)
 - [ಮನಿ ಮಂತ್ರ: ಕರ್ನಾಟಕದ ಶಾಲೆಗಳಲ್ಲಿ ಇನ್ಮುಂದೆ ಮಕ್ಕಳಿಗೆ ಹಣಕಾಸು ಸಾಕ್ಷರತಾ ಪಾಠ! ಯಾವೆಲ್ಲಾ ವಿಷಯ ಭೋಧನೆ?](https://vijaykarnataka.com/news/karnataka/financial-education-to-students-in-karnataka-schools-education-ministry-new-initiative/articleshow/134323623.cms)
 - [ಮೊದಲ ಪ್ರೀತಿಯ ನೆನಪು ಯಾಕೆ ಎಂದಿಗೂ ಕಾಡುತ್ತದೆ? ಮನಃಶಾಸ್ತ್ರ ಹೇಳುವ ಪ್ರಮುಖ ಕಾರಣಗಳು](https://vijaykarnataka.com/lifestyle/relationship/first-love-memories-psychology-why-never-fade/articleshow/134310755.cms)
-- [ಮುಜರಾಯಿ ದೇವಾಲಯ ನೌಕರರ ಬೋನಸ್ ರದ್ದು: ಶಿವಮೊಗ್ಗದಲ್ಲಿ ದೇವಾಲಯ ನಿಧಿ ದುರುಪಯೋಗ ಬೆನ್ನಲ್ಲೇ ಸರ್ಕಾರದ ಆದೇಶ!](https://vijaykarnataka.com/news/karnataka/karnataka-muzrai-department-scraps-temple-funded-bonuses-after-misuse-says-it-goes-against-financial-discipline/articleshow/134323416.cms)
+- [ಶೈಕ್ಷಣಿಕ ಪ್ರವಾಸದಲ್ಲಿ ಸೆಲ್ಫೀ, ರೀಲ್ಸ್‌ ಬ್ಯಾನ್‌: ಕಾಲೇಜು ಶಿಕ್ಷಣ ಇಲಾಖೆ ಆದೇಶ ಹೊರಡಿಸಿದ ಪ್ರಮುಖ 9 ನಿಯಮಗಳು](https://vijaykarnataka.com/news/karnataka/students-selfie-reels-ban-during-educational-trip-karnataka-college-education-board-directed-9-important-rules/articleshow/134323594.cms)
 - [ʻಇಂತಹ ದರಿದ್ರದವರ ಜೊತೆಗೆ ನಾನಿರಲ್ಲ..ʼ! ಮಂಜು ವಿರುದ್ದ ಅವಿನಾಶ್‌ ತೀವ್ರ ಅಸಮಾಧಾನ!](https://vijaykarnataka.com/entertainment/news/avinash-decides-to-quit-bigg-boss-kannada-due-to-manja/articleshow/134318428.cms)
 - [ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿ ಸಿಂಹಾಸನದ ಮೇಲೆ ಗಣಪ; ಸೀರೆಯಲ್ಲಿ ಸಾನಿಯಾ, ಪಿಂಕ್ ಸೂಟ್‌ನಲ್ಲಿ ಸಾರಾ ಮಿಂಚಿಂಗ್!](https://vijaykarnataka.com/lifestyle/fashion/sara-tendulkar-pink-suit-saniya-chandok-saree-ganesh-chaturthi/articleshow/134277830.cms)
 - [ಸ್ವಸ್ತಿ ವಾಚನ ಮಂತ್ರ ಎಂದರೇನು.? ಈ ಮಂತ್ರವನ್ನೇಕೆ ಪಠಿಸಲಾಗುತ್ತೆ.?](https://vijaykarnataka.com/religion/pooja-vidhana/know-what-is-swasti-vachan-mantra-and-why-we-chant-this-mantra/articleshow/134323723.cms)
 - [76ರಲ್ಲೂ ಫಿಟ್ ಆಗಿರುವ ಮೋದಿ: ದೈನಂದಿನ ಡಯಟ್, ಯೋಗ, ಫಿಟ್ನೆಸ್ ರೂಟೀನ್ ಹೇಗಿದೆ?](https://vijaykarnataka.com/lifestyle/fitness/pm-modi-birthday-daily-diet-yoga-fitness-routine-at-76/articleshow/134305327.cms)
-- [ಕೌಟುಂಬಿಕ ಕಲಹಕ್ಕೆ ಪತ್ನಿ ಮೇಲೆ ಆ್ಯಸಿಡ್‌ ಎರಚಿ, ಮಚ್ಚಿನಿಂದ ಕೊಲ್ಲಲು ಯತ್ನಿಸಿದ ಪತಿ: ರಕ್ಕಸ ಪತಿಯ ದೌಜರ್ನ್ಯಕ್ಕೆ ಬೆಚ್ಚಿದ ಜೆ.ಪಿ.ನಗರ!](https://vijaykarnataka.com/news/bengaluru-city/man-throws-acid-an-attempts-murder-on-wife-in-jp-nagar-due-to-domestic-dispute-arrested/articleshow/134323560.cms)
+- [ಕಡಲನಗರಿಗೆ ಮಂಗಳೂರಿಗೆ ಆಡಳಿತ ಯಂತ್ರ! ಸಚಿವ ಸಂಪುಟದಲ್ಲಿಆಗಲಿದೆ ಮಹತ್ವದ ನಿರ್ಣಯ, ಏನೆಲ್ಲಾ ಪ್ರಮುಖ ಚರ್ಚೆ, ?](https://vijaykarnataka.com/news/mangaluru/karnataka-administration-entire-team-towards-coastal-city-mangalore-highlights-of-cabinet-meeting/articleshow/134324121.cms)
 
 **The Hindu**
+- [ED raids 7 locations in Jharkhand State Co-op bank 'fraud' case](https://www.thehindu.com/news/national/jharkhand/ed-raids-7-locations-in-jharkhand-state-co-op-bank-fraud-case/article71479266.ece)
 - [FDA suspends Café Mondegar licence over food-safety lapses; wider crackdown hits Mumbai eateries](https://www.thehindu.com/news/cities/mumbai/fda-suspends-cafe-mondegar-licence-over-food-safety-lapses-wider-crackdown-hits-mumbai-eateries/article71477178.ece)
 - [25 years on, Konaseema Railway Line project yet to get on track](https://www.thehindu.com/news/national/andhra-pradesh/25-years-on-konaseema-railway-line-project-yet-to-get-on-track/article71476791.ece)
 - [Congress says U.S. law on Russian oil purchase is an ‘affront’ to India’s sovereignty](https://www.thehindu.com/news/national/congress-says-us-law-on-russian-oil-purchase-is-an-affront-to-indias-sovereignty/article71477239.ece)
@@ -71,9 +72,9 @@
 - [Birthday wishes pour in for Modi as he turns 76](https://www.thehindu.com/news/national/leaders-greet-pm-modi-on-76th-birthday/article71475668.ece)
 - [FDA chief Tukaram flags huge price gaps in medical devices, seeks Centre’s intervention](https://www.thehindu.com/news/national/maharashtra/fda-chief-tukaram-flags-huge-price-gaps-in-medical-devices-seeks-centres-intervention/article71479199.ece)
 - [HAL airport becomes first in India to operationalise RNP CAT H helicopter approach](https://www.thehindu.com/news/national/karnataka/hal-airport-becomes-first-in-india-to-operationalise-rnp-cat-h-helicopter-approach/article71317031.ece)
-- [After brief disruption, officials restart talks for Bangladesh PM Tarique Rahman’s India visit](https://www.thehindu.com/news/national/after-brief-disruption-officials-restart-talks-for-bangladesh-pm-tarique-rahmans-india-visit/article71477603.ece)
 
 **Livemint**
+- [‘Sabse pahele lena humnein hai’: Apple iPhone 18 Pro, Pro Max sparks pre-dawn rush in Delhi, Mumbai and Bengaluru](https://www.livemint.com/news/trends/sabse-pahele-lena-humnein-hai-apple-iphone-18-pro-pro-max-sparks-pre-dawn-rush-in-delhi-mumbai-and-bengaluru-11789700053576.html)
 - [India remains net steel importer for fifth straight month in August](https://www.livemint.com/news/india-steel-imports-exports-finished-steel-steel-trade-joint-plant-committee-jpc-bigmint-dhruv-goel-11789658068084.html)
 - [Saudi Arabia turns to China for help as Houthis' advances threaten oil exports. Here's what Beijing, Tehran said](https://www.livemint.com/news/world/saudi-turns-to-china-for-help-as-houthis-advances-along-red-sea-impact-oil-exports-heres-what-beijing-tehran-said-11789695711371.html)
 - [Petrol, diesel prices today, September 18: Check rates in Delhi, Mumbai, Bengaluru](https://www.livemint.com/news/india/petrol-diesel-prices-today-september-18-check-rates-in-delhi-mumbai-bengaluru-11789696216808.html)
@@ -83,7 +84,6 @@
 - [DUSU Elections today: ABVP vs NSUI vs AISA-SFI - Key candidates, issues, voting time and a high court warning](https://www.livemint.com/news/india/dusu-elections-2026-abvp-vs-nsui-vs-aisa-sfi-key-candidates-issues-voting-time-and-a-high-court-warning-rss-satya-11789691484888.html)
 - [India vows to protect interests, as US clears bill to punish Russian oil buyers](https://www.livemint.com/news/india-protect-interests-us-bill-tariff-russian-oil-law-trump-mea-bilateral-ties-west-asia-war-11789652871417.html)
 - [Trump says ‘big decision’ coming on Iran war as he prepares to meet six Gulf leaders at UN General Assembly](https://www.livemint.com/news/us-news/trump-says-big-decision-coming-on-iran-war-as-he-prepares-to-meet-six-gulf-leaders-at-un-general-assembly-11789680832470.html)
-- [Israeli envoy Danny Danon calls for Mamdani’s arrest ahead of Netanyahu’s New York visit](https://www.livemint.com/news/us-news/israeli-envoy-danny-danon-calls-for-mamdani-s-arrest-ahead-of-netanyahu-s-new-york-visit-11789679672785.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಸುಂಕದವರ ಬಳಿ ಸುಖ-ದುಃಖ ಹೇಳಿಕೊಂಡು ಪ್ರಯೋಜನ ಏನು?](https://www.varthabharati.in/sampaadakeeya/--2275975)
 - [ದಕ್ಷಿಣ ಕನ್ನಡ ‘ಮಂಗಳೂರು ಜಿಲ್ಲೆ’ಯಾಗಿ ಮರುನಾಮಕರಣ: ರಾಜ್ಯ ಸರಕಾರದ ಸಿದ್ಧತೆ?](https://www.varthabharati.in/vishesha-varadigalu/renaming-dakshina-kannada-as-mangalore-district-state-govts-preparation-2275973)
 - [NEET-SS ಪ್ರವೇಶ ಪ್ರಕ್ರಿಯೆಯ ಕಟ್ಆಫ್ ಇಳಿಸಲು ಕೇಂದ್ರ ಸರ್ಕಾರ ಒಪ್ಪಿಗೆ](https://www.varthabharati.in/National/central-government-agrees-to-lower-neet-ss-admission-process-cut-off-2275972)
 - [ವೈಭವ್ ಸೂರ್ಯವಂಶಿ ಅವಕಾಶಕ್ಕಾಗಿ ಕಾಯಬೇಕಾಗುತ್ತದೆ : ಗೌತಮ್ ಗಂಭೀರ್](https://www.varthabharati.in/sports/vaibhav-suryavanshi-will-have-to-wait-for-an-opportunity-gautam-gambhir-2275971)
@@ -107,38 +108,37 @@
 - [ಸಾಮಾನ್ಯ ವೈದ್ಯಕೀಯ ಸಾಮಾಗ್ರಿಗಳ ಮೇಲೆ ಆಸ್ಪತ್ರೆಗಳಿಂದ ಶೇ. 2,841ರವರೆಗೆ ಅಧಿಕ ಬೆಲೆ ವಿಧಿಸುವ ಸಾಧ್ಯತೆ](https://www.varthabharati.in/vishesha-varadigalu/hospitals-could-be-charging-you-2841-higher-on-commonly-used-consumables-2275964)
 - [Delhi | ಯುವತಿ ಮೇಲೆ ಅತ್ಯಾಚಾರ, ಚಾಕುವಿನಿಂದ ಇರಿದು ಕೊಲೆ; ನಾಯಿಗಳು ಭಾಗಶಃ ತಿಂದಿದ್ದ ಮೃತದೇಹ ಪತ್ತೆ, ಮೂವರು ಅಪ್ರಾಪ್ತರು ಸೇರಿದಂತೆ ನಾಲ್ವರು ವಶಕ್ಕೆ](https://www.varthabharati.in/National/delhi-teen-raped-stabbed-to-death-decomposed-body-found-with-hand-severed-partly-eaten-by-dogs-4-held-2275963)
 - [ವಿಜಯ್ ಸೇತುಪತಿ ಅಭಿನಯದ ‘ಮಹಾರಾಜ’ಚಿತ್ರಕ್ಕೆ ಚೀನಾ, ನೆಟ್‌ ಫ್ಲಿಕ್ಸ್ ನಲ್ಲಿ ಉತ್ತಮ ಪ್ರತಿಕ್ರಿಯೆ](https://www.varthabharati.in/National/maharaja-why-a-film-about-a-missing-dustbin-became-one-of-tamil-cinemas-biggest-surprises-2275961)
-- [ಅಮೆರಿಕದ ಗೃಹಭದ್ರತಾ ಇಲಾಖೆಯ ‘ಮಿಸ್ಟರ್ ಸಿಂಗ್’ ಪೋಸ್ಟ್ ಬೆನ್ನಲ್ಲೇ ಸಿಖ್ ಚಾಲಕನಿಗೆ 17 ಬಾರಿ ಚಾಕು ಇರಿತ](https://www.varthabharati.in/international/sikh-truck-driver-stabbed-17-times-in-wyoming-days-after-dhss-mr-singh-post-2275960)
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (7.8)
 - Iran (6.5)
 - Emkay Global Financial (5.0)
+- Delhi (4.2)
 - Trump (3.9)
+- Mumbai (3.9)
 - ICICI Securities (3.0)
 - target (3.0)
-- Delhi (2.9)
-- Tata (2.6)
-- September (2.6)
 - Govt (2.6)
-- NEET-SS (2.6)
-- Mumbai (2.6)
 - Russian (2.6)
+- Apple (2.6)
+- Bengaluru (2.6)
 - China (2.6)
+- Phone (2.0)
 - Saudi Arabia (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Another pregnancy number to watch: Your blood pressure](https://www.ahchealthenews.com/2026/09/17/another-pregnancy-number-to-watch-your-blood-pressure/)
-- [മലയാളത്തിലേക്കുള്ള മടങ്ങിവരവ് ഉഷാറായില്ല, തെലുങ്കില്‍ പിടിമുറുക്കാന്‍ ദുല്‍ഖര്‍; ആകാശംലോ ഒക്കത്താര റിലീസ് ഡേറ്റ് പുറത്ത്](https://www.doolnews.com/dulquer-salmaan-starring-telegu-film-all-set-for-release-64-159.html)
-- [एकाच कुटुंबातील तीन महिलांचा विज पडून मृत्यू, दोन महिला एक पुरुष जखमी](https://pudhari.news/maharashtra/marathwada/chhatrapati-sambhajinagar/chhatrapati-sambhajinagar-lightning-strike-three-women-dead-three-injured-ng81)
-- [Breaking News: NSE IPO પ્રથમ દિવસે 0.43 ગણો ભરાયો: રિટેલ કેટેગરીમાં 44% અને કર્મચારીઓમાં 96% સબસ્ક્રિપ્શન, જાણો લેટેસ્ટ સ્થિતિ](https://tv9gujarati.com/photo-gallery/nse-ipo-first-day-rs-22561-crore-issue-gets-43-percent-subscription-retail-and-employee-bids-strong-1517675.html)
-- [अभिषेक शर्मा ने रचा इतिहास, महज 30 गेंदों पर जड़ा शतक, रोहित शर्मा का कीर्तिमान किया ध्वस्त](https://www.indiatv.in/sports/cricket/abhishek-sharma-broke-the-record-for-the-fastest-century-in-indian-t20i-history-surpass-rohit-sharma-2026-09-17-1243826)
-- [अभिषेक शर्मा ने ठोकी सबसे तेज T20I सेंचुरी, टेस्ट खेलने वाले देशों में बनाया वर्ल्ड रिकॉर्ड](https://www.livehindustan.com/cricket/abhishek-sharma-smashes-fastest-t20i-century-breaks-finn-allen-and-rohit-sharma-record-201789655709842.amp.html)
-- [Abhishek Sharma बने सबसे तेज T20I शतक जमाने वाले भारतीय बल्‍लेबाज, रिकॉर्ड्स बुक को किया तितर](https://www.jagran.com/cricket/bouncer-ind-vs-afg-abhishek-sharma-scripts-history-break-rohit-sharma-shikhar-dhawan-record-40376579.html)
-- [ज्यांनी AI तयार केलंय, त्यांच्याच नियंत्रणाबाहेर ते जाण्याची भीती?](https://www.bbc.com/marathi/articles/cqj64d7x90zko)
-- ['ઍલિયન સ્ટાર' : નાના એવા ગામના આ છોકરાએ એવું શું કર્યું કે રાતોરાત દેશમાં જાણીતો થઈ ગયો?](https://www.bbc.com/gujarati/articles/cm0qx3g08738o)
-- [Surprise! Galaxy Z Fold 8 sees 10% sales jump after Apple's iPhone Duo launch](https://www.notebookcheck.net/Surprise-Galaxy-Z-Fold-8-sales-rise-after-iPhone-Duo-launch.1401889.0.html)
+- [China, U.S. top diplomats discuss ‘high-level interactions’ in call, Beijing says](https://www.thehindu.com/news/international/china-us-top-diplomats-discuss-high-level-interactions-in-call-beijing-says/article71477570.ece)
+- [शी जिनपिंग से PM मोदी ने क्यों पूछा था 'इज इट ओके?' रूसी कैमरे से आए नए वीडियो में खुल गया राज!](https://www.livehindustan.com/national/why-did-pm-modi-ask-jinping-is-it-okay-new-video-from-a-russian-camera-emerges-201789658428570.html)
+- [ഇതരസംസ്ഥാന തൊഴിലാളികളെ വീട്ടിൽ കയറി ആക്രമിച്ചു, സ്ത്രീകളെ വിവസ്ത്രരാക്കി; കവർ‌ന്നത് 6 ലക്ഷത്തിലധികം രൂപയുടെ സാധനങ്ങൾ](https://www.manoramaonline.com/news/latest-news/2026/09/17/palarivattom-robbery-gang-steals-over-6-lakhs-from-migrant-workers-home.html)
+- [ആണ്‍കുട്ടികള്‍ക്ക് ഇഷ്ടപ്രകാരം മുടി വളര്‍ത്താം; ശിക്ഷിക്കാന്‍ പാടില്ലെന്ന് ബാലാവകാശ കമ്മിഷന്‍](https://www.manoramaonline.com/news/latest-news/2026/09/17/kerala-child-rights-commission-upholds-right-to-hair-freedom-for-boys-and-undetermined-gender-students.html)
+- [વિમાની મુસાફરી મોંઘી બની: IndiGoએ ‘શિશુ ટિકિટ’ સહિત અનેક સેવાઓના ભાવ વધાર્યા, જુઓ લિસ્ટ](https://www.gujaratsamachar.com/news/national/indigo-fares-increase-children-will-now-cost-indian-rupee1000-more-to-travel-with-and-several-service-charges-will-also-increase-13304632277)
+- [આ 7 પ્રકારના UPI પેમેન્ટ પર MDR ચાર્જ નહીં લાગે, જાણો નવા નિયમો](https://tv9gujarati.com/business/upi-new-rules-mdr-from-2026-7-types-of-upi-payments-still-free-for-you-1517725.html)
+- [Abhishek Sharma Fastest T20I Century: రోహిత్ రికార్డును బ‌ద్ద‌లు కొట్టిన అభిషేక్.. 30 బంతుల్లోనే సెంచ‌రీతో అరుదైన ఘనత](https://telugu.abplive.com/sports/cricket/abhishek-sharma-smashes-fastest-t20i-century-by-indian-batter-259194)
+- [புதிய தலைமை செயலக விவகாரம்; பட்டினப்பாக்கம் மீனவ அமைப்பினரை சந்தித்து பேச முதல்வர் விஜய் முடிவு](https://www.dinamalar.com/news/tamil-nadu-news/new-secretariat-issue-cm-vijay-decides-to-meet-pattinapakkam-fishermens-body/4325491)
+- [અમદાવાદ: કાંકરિયામાં PM મોદીના બર્થડે પર 'દીપોત્સવ' કાર્યક્રમના દીવડા પલળ્યા, વરસાદ રોકાયા બાદ ફરી પ્રગટાવાયા!](https://www.gujaratsamachar.com/news/ahmedabad/kankaria-lake-pm-modi-birthday-deepotsav-rain-disruption-diyas-relit-60028597586)
+- [நுன்மான் தமிழ் அகாடமி, மிச்சிகன்](https://www.dinamalar.com/world-news-nri-ta/united-states/tamil-schools/nunman-tamil-academy-michigan/20368)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
