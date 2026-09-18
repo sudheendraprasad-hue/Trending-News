@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-18 22:01:51
+# India Trending Report — 2026-09-18 22:33:53
 
 ## Google Trends (India) — top trending searches
-1. [w](https://trends.google.com/trending/rss?geo=IN)
+1. [telugu](https://trends.google.com/trending/rss?geo=IN)
 2. [fábio carvalho](https://trends.google.com/trending/rss?geo=IN)
-3. [cnn](https://trends.google.com/trending/rss?geo=IN)
-4. [suvarna keralam lottery results](https://trends.google.com/trending/rss?geo=IN)
-5. [aditi rao hydari](https://trends.google.com/trending/rss?geo=IN)
-6. [bayern munich vs union berlin standings](https://trends.google.com/trending/rss?geo=IN)
-7. [chelsea f.c.](https://trends.google.com/trending/rss?geo=IN)
-8. [control resonant](https://trends.google.com/trending/rss?geo=IN)
-9. [iit bombay student protest news](https://trends.google.com/trending/rss?geo=IN)
-10. [mms](https://trends.google.com/trending/rss?geo=IN)
+3. [viral video](https://trends.google.com/trending/rss?geo=IN)
+4. [cnn](https://trends.google.com/trending/rss?geo=IN)
+5. [suvarna keralam lottery results](https://trends.google.com/trending/rss?geo=IN)
+6. [ismael saibari](https://trends.google.com/trending/rss?geo=IN)
+7. [aditi rao hydari](https://trends.google.com/trending/rss?geo=IN)
+8. [bayern munich vs union berlin standings](https://trends.google.com/trending/rss?geo=IN)
+9. [control resonant](https://trends.google.com/trending/rss?geo=IN)
+10. [iit bombay student protest news](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Trump announces deal with Denmark for ‘permanent security control’ over Greenland](https://timesofindia.indiatimes.com/world/us/us-reaches-deal-with-denmark-for-permanent-security-control-over-greenland-says-donald-trump/articleshow/134343806.cms)
+- [Trump signs Russia sanctions bill into law, gains power to impose 100% tariff on India](https://timesofindia.indiatimes.com/business/international-business/trump-signs-russia-sanctions-bill-into-law-gains-authority-to-impose-100-tariff-on-india-and-china/articleshow/134344362.cms)
+- [US reaches deal with Denmark for ‘permanent security control’ over Greenland](https://timesofindia.indiatimes.com/world/us/us-reaches-deal-with-denmark-for-permanent-security-control-over-greenland-says-donald-trump/articleshow/134343806.cms)
 - [Asian Games: Trouble in Japan! Indian athletes face housing, food & transport chaos](https://timesofindia.indiatimes.com/sports/asian-games-2026/trouble-in-japan-indian-athletes-face-accommodation-food-and-transport-woes-ahead-of-asian-games-2026/articleshow/134324733.cms)
 - [Sugar retail prices down 10% ahead of festive season, govt eases stock cap](https://timesofindia.indiatimes.com/business/india-business/sugar-retail-prices-down-10-ahead-of-festive-season-govt-eases-stock-cap/articleshow/134343638.cms)
-- [Trump bans news outlets CNN, MS NOW, Politico from White House](https://timesofindia.indiatimes.com/world/us/reporting-fake-news-trump-bars-cnn-ms-now-politico-from-white-house-threatens-more-bans/articleshow/134343443.cms)
-- [Meet Dina McCormick, whom Zuckerberg asked to trade her Meta board seat for a job](https://timesofindia.indiatimes.com/technology/tech-news/born-in-cairo-raised-in-texas-meet-dina-powell-mccormick-the-executive-mark-zuckerberg-asked-to-trade-her-meta-board-seat-for-a-job/articleshow/134331563.cms)
 - [Rajnath flags HAL delays, calls for realistic project timelines](https://timesofindia.indiatimes.com/defence/rajnath-hails-hal-for-delivering-three-aviation-platforms-from-one-stage/articleshow/134340041.cms)
+- [Meet Dina McCormick, whom Zuckerberg asked to trade her Meta board seat for a job](https://timesofindia.indiatimes.com/technology/tech-news/born-in-cairo-raised-in-texas-meet-dina-powell-mccormick-the-executive-mark-zuckerberg-asked-to-trade-her-meta-board-seat-for-a-job/articleshow/134331563.cms)
+- [Trump bans news outlets CNN, MS NOW, Politico from White House](https://timesofindia.indiatimes.com/world/us/reporting-fake-news-trump-bars-cnn-ms-now-politico-from-white-house-threatens-more-bans/articleshow/134343443.cms)
 - [Mamata moves Supreme Court against EC decision to freeze TMC name, symbol](https://timesofindia.indiatimes.com/india/mamata-banerjee-moves-supreme-court-against-eci-decision-to-freeze-tmc-name-symbol/articleshow/134339829.cms)
 - [Scottish Sikh gets bail in 7 NIA cases after 8 years behind bars](https://timesofindia.indiatimes.com/india/scottish-sikh-gets-bail-in-7-nia-cases-after-8-years-behind-bars/articleshow/134343731.cms)
 - [RBI has record forex reserves, but why is rupee still not out of the woods?](https://timesofindia.indiatimes.com/business/india-business/rbi-has-record-forex-reserves-but-why-is-rupee-still-not-out-of-the-woods/articleshow/134333283.cms)
-- [Asian Games: Karate team leaves without coaches; equestrian riders caught in accred maze](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-karate-team-leaves-without-coaches-equestrian-riders-caught-in-accred-maze/articleshow/134341131.cms)
 
 **NDTV**
 - ["Fiction And Lies": Trump Bans CNN, Politico From White House](https://www.ndtv.com/world-news/donald-trump-bans-cnn-ms-now-politico-from-white-house-12066705#publisher=newsstand)
@@ -64,6 +64,7 @@
 **The Hindu**
 - [Bihar floods: Nitin Nabin donates three months’ Rajya Sabha MP salary to CM Relief Fund](https://www.thehindu.com/news/national/bihar/bihar-floods-nitin-nabin-donates-three-months-rajya-sabha-mp-salary-to-cm-relief-fund/article71480661.ece)
 - [Meghalaya IPS officer injured in ‘deliberate’ hit by two-wheeler](https://www.thehindu.com/news/national/meghalaya/meghalaya-ips-officer-injured-in-deliberate-hit-by-two-wheeler/article71480783.ece)
+- [Jhiram Valley Maoist attack case ‘rarest of rare': court order](https://www.thehindu.com/news/national/chhattisgarh/jhiram-valley-maoist-attack-case-rarest-of-rare-court-order/article71481943.ece)
 - [Odisha revises schedule for ward delimitation, seat reservation ahead of urban local body polls](https://www.thehindu.com/news/national/odisha/odisha-revises-schedule-for-ward-delimitation-seat-reservation-ahead-of-urban-local-body-polls/article71480589.ece)
 - [Every police station in Bihar to have a Child Help Desk from Oct. 2](https://www.thehindu.com/news/national/bihar/every-police-station-in-bihar-to-have-a-child-help-desk-from-oct-2/article71481323.ece)
 - [We saved Trinamool symbol from disgrace, say leaders of Ritabrata-led faction](https://www.thehindu.com/news/national/west-bengal/we-saved-trinamool-symbol-from-disgrace-say-leaders-of-ritabrata-led-faction/article71481279.ece)
@@ -71,7 +72,6 @@
 - [Udhayanidhi welcomes T.N.’s decision on Navodaya schools, seeks special Assembly session to reiterate State’s stand](https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-welcomes-tns-decision-on-navodaya-schools-seeks-special-assembly-session-to-reiterate-states-stand/article71481891.ece)
 - [Taps run dry in Kolkata colony for 50 days; residents allege bias](https://www.thehindu.com/news/national/west-bengal/taps-run-dry-inkolkata-colony-for-50-days-residents-allege-bias/article71479642.ece)
 - [Mamata moves Supreme Court against ECI’s freeze on Trinamool Congress symbol](https://www.thehindu.com/news/national/west-bengal/mamata-banerjee-moves-supreme-court-against-freeze-on-tmc-symbol/article71482413.ece)
-- [HAL hands over two LCA trainer plane to Air Force](https://www.thehindu.com/news/national/hal-hands-over-military-civil-aviation-and-training-platforms/article71480120.ece)
 
 **Livemint**
 - [Trump bans CNN, MSNOW, and Politico from White House: ‘Reporting FAKE NEWS’, ‘They write fiction and lies’](https://www.livemint.com/news/us-news/trump-blocks-3-media-outlets-from-white-house-reporting-fake-news-they-write-fiction-and-lies-11789764310239.html)
@@ -103,32 +103,32 @@
 - Trump (5.8)
 - Mamata (5.2)
 - Delhi (3.2)
-- Asian Games (3.0)
 - Supreme Court (3.0)
 - Politico (2.9)
+- Russia (2.6)
+- India (2.6)
 - Indian (2.6)
 - Bihar (2.6)
+- Asian Games (2.0)
 - White House (2.0)
 - Tamil Nadu (2.0)
 - House (1.9)
 - Rajnath (1.6)
 - Congress (1.6)
-- Trinamool (1.6)
-- Iran (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [પાકિસ્તાન: ખૈબર પખ્તુનખ્વામાં નમાજ દરમિયાન 'આત્મઘાતી બ્લાસ્ટ', 15 લોકોના મોત, 50થી વધુ ઈજાગ્રસ્ત](https://www.gujaratsamachar.com/news/international/pakistan-blast-during-prayers-in-khyber-pakhtunkhwa-15-people-killed-more-than-50-injured-14679342779)
-- ['ഇരിങ്ങാലക്കുടയിലെ കൺവെൻഷനെക്കുറിച്ച് അറിയില്ല, ആരെങ്കിലും വിളിച്ചാൽ പാർട്ടി പരിപാടി ആകില്ല',തോമസ് ഉണ്ണിയാടന്‍](https://www.reporterlive.com/topnews/kerala/2026/09/18/thomas-unniyadan-iringalakuda-mla-distances-from-kerala-congress-party)
-- ['একেই বলে ঢাক সহ ঢাকি বিদায়' নাম না করে তৃণমূল সহ মমতাকে কটাক্ষ ভাস্কর ঘোষের](https://indiahood.in/news/west-bengal/tmc-symbol-frozen-mamata-banerjee-bhaskar-ghosh-comment-swm-18-09/421750/)
-- [মাত্র 30 বলে লক্ষ্যমাত্রা হাসিল, ঝড় তুলে এশিয়াডের শেষ চারে ভারতের মেয়েরা](https://www.etvbharat.com/bn/sports/india-women-thrash-japan-by-8-wickets-to-enter-into-the-semi-final-of-asian-games-wbs26091803680)
-- [New OTT Release: ഈ ആഴ്ച ഒടിടിയിലെത്തിയ 6 ചിത്രങ്ങൾ](https://malayalam.indianexpress.com/entertainment/new-ott-releases-this-week-thudakkam-lust-stories-3-irumudi-12548487)
-- [Box Office: फ्राइडे को 'दायरा' की धीमी शुरुआत, जानें- 'मिर्जापुर'- 'हनुमान अंश' का 6.30 बजे का कलेक्शन](https://www.abplive.com/entertainment/bollywood/friday-box-office-collection-18th-september-live-updates-daayra-vibe-mirzapur-the-movie-hanuman-ansh-3190459)
-- [जुमे की नमाज के दौरान पाकिस्तान में भीषण धमाका; 15 के उड़ गए परखच्चे, 50 लोग घायल](https://www.livehindustan.com/international/massive-blast-in-pakistan-during-friday-prayers-15-blown-to-pieces-and-many-injured-201789724671302.html)
-- [Explosive-laden truck rams into mosque in Pakistan's Kohat; 16 dead](https://timesofindia.indiatimes.com/world/pakistan/7-killed-over-30-injured-in-blast-at-mosque-in-pakistan-report/articleshow/134331469.cms)
-- [मिनटों में घर पर डिलिवर होगा iPhone 18 Pro Max और मिलेगा डिस्काउंट भी, यहां मिल रही सर्विस](https://www.aajtak.in/technology/tech-news/story/apple-iphone-18-pro-max-blinkit-delivered-in-10-minute-ttecr-dskc-2645828-2026-09-18)
-- [અમદાવાદ: નાના ચિલોડા નજીક ₹55 લાખના મેફેડ્રોન ડ્રગ્સ સાથે બેંગલુરુનો યુવક ઝડપાયો](https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-bengaluru-youth-caught-with-mephedrone-drugs-worth-indian-rupee55-lakh-near-nana-chiloda-29645414060)
+- [सीएम शुभेंदु से मुलाकात, ममता की TMC उम्मीदवार ने वापस लिया नाम, नाराज दीदी ने लगाए आरोप](https://www.indiatv.in/west-bengal/mamata-tmc-candidate-sanchita-pradhan-dey-withdrew-nomination-after-meet-suvendu-adhikari-2026-09-18-1243973)
+- [NSE IPO Day 2: NSE IPOમાં બીજા દિવસે કેટલું સબ્સ્ક્રિપ્શન? GMP પણ ઘટ્યો, જાણો લેટેસ્ટ અપડેટ](https://tv9gujarati.com/photo-gallery/nse-ipo-day-2-what-subscription-level-on-the-second-day-gmp-has-also-dropped-1518040.html)
+- [Amit Thackeray : आदित्य ठाकरे यांचा दिशा सालियान प्रकरणात सहभाग असू शकत नाही; अमित ठाकरेंकडून भावाची पाठराखण](https://www.dainikprabhat.com/amit-thackeray-aaditya-thackeray-cannot-be-involved-in-the-disha-salian-case-amit-thackeray-defends-his-cousin)
+- [പാകിസ്ഥാനിൽ വെള്ളിയാഴ്ച പ്രാർത്ഥനയ്ക്കിടെ മുസ്ലീം പള്ളിയിൽ സ്ഫോടനം; ഏഴുപേർ കൊല്ലപ്പെട്ടു, മുപ്പതിലധികം പേർക്ക് പരിക്ക്](https://www.asianetnews.com/international-news/blast-at-mosque-in-pakistan-khyber-pakhtunkhwa-province-articleshow-itrlp34)
+- [Bomb attack at Pakistan mosque kills at least 16 people, injures 56](https://www.aljazeera.com/news/2026/9/18/bomb-attack-at-pakistan-mosque-kills-at-least-15-injures-50)
+- [முதல்வர் விஜயின் வெளிநாட்டு பயணத்தில் ரீல்ஸ்தான் வந்தது, முதலீடு வரவில்லை : முன்னாள் அமைச்சர் டி.ஆர்.பி.ராஜா](https://www.dinakaran.com/news/chiefminister-vijays-foreign-trip-formerminister-trbraja/)
+- [Surendra Koli: देशाला हादरवून टाकणाऱ्या निठारी हत्याकांडातील आरोपी सुरेंद्र कोलीची आत्महत्या! सुप्रीम कोर्टानं केली होती निर्दोष मुक्तता](https://sarkarnama.esakal.com/desh/surendra-koli-nithari-case-supreme-court-acquittal-haridwar-suicide-nithari-killings-india-crime-news-koli-death-aau85)
+- [India Vs West Indies: "পুরোই চমকে দেওয়ার মতো সিদ্ধান্ত", দল নির্বাচন নিয়ে ক্ষুব্ধ হনুমা বিহারী](https://bangla.asianetnews.com/sports/cricket/india-vs-west-indies-hanuma-vihari-slams-naman-dhir-selection-for-west-indies-odi-series-anbsd/articleshow-4odgk5m)
+- [35 போர் விமானங்களை விற்கும் அமெரிக்காவின் திட்டத்தால் சர்ச்சை ஏன்?](https://www.bbc.com/tamil/articles/cqkgv27jj07po)
+- [चीन-भारत पर 100 फीसदी टैरिफ और खुद के लिए रूस से यूरेनियम खरीद की जुगत, ट्रंप की खुली पोल](https://navbharattimes.indiatimes.com/world/america/us-sanctions-bill-target-india-china-for-buying-russian-oil-but-donald-trump-adm-may-continue-purchase-uranium/articleshow/134330312.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
