@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-18 20:34:04
+# India Trending Report — 2026-09-18 21:01:52
 
 ## Google Trends (India) — top trending searches
-1. [iit bombay student protest news](https://trends.google.com/trending/rss?geo=IN)
-2. [michael olise](https://trends.google.com/trending/rss?geo=IN)
-3. [vs babu](https://trends.google.com/trending/rss?geo=IN)
-4. [harry kane](https://trends.google.com/trending/rss?geo=IN)
-5. [zakir khan](https://trends.google.com/trending/rss?geo=IN)
-6. [मीडियाटेक](https://trends.google.com/trending/rss?geo=IN)
-7. [jamal musiala](https://trends.google.com/trending/rss?geo=IN)
-8. [bayern munich](https://trends.google.com/trending/rss?geo=IN)
-9. [twiggy](https://trends.google.com/trending/rss?geo=IN)
-10. [lizzie borden](https://trends.google.com/trending/rss?geo=IN)
+1. [aditi rao hydari](https://trends.google.com/trending/rss?geo=IN)
+2. [bayern munich vs union berlin standings](https://trends.google.com/trending/rss?geo=IN)
+3. [chelsea f.c.](https://trends.google.com/trending/rss?geo=IN)
+4. [control resonant](https://trends.google.com/trending/rss?geo=IN)
+5. [iit bombay student protest news](https://trends.google.com/trending/rss?geo=IN)
+6. [vs babu](https://trends.google.com/trending/rss?geo=IN)
+7. [zakir khan](https://trends.google.com/trending/rss?geo=IN)
+8. [मीडियाटेक](https://trends.google.com/trending/rss?geo=IN)
+9. [jamal musiala](https://trends.google.com/trending/rss?geo=IN)
+10. [twiggy](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [From Macaca to MAGA: How one needling remark can become a political thorn for Trump](https://timesofindia.indiatimes.com/world/us/from-macaca-to-maga-how-one-needling-remark-can-become-a-political-thorn-for-donald-trump/articleshow/134339423.cms)
-- [Trump bans news outlets CNN, MS NOW, Politico from White House](https://timesofindia.indiatimes.com/world/us/reporting-fake-news-trump-bars-cnn-ms-now-politico-from-white-house-threatens-more-bans/articleshow/134343443.cms)
 - [Sugar retail prices down 10% ahead of festive season, govt eases stock cap](https://timesofindia.indiatimes.com/business/india-business/sugar-retail-prices-down-10-ahead-of-festive-season-govt-eases-stock-cap/articleshow/134343638.cms)
+- [Trump bans news outlets CNN, MS NOW, Politico from White House](https://timesofindia.indiatimes.com/world/us/reporting-fake-news-trump-bars-cnn-ms-now-politico-from-white-house-threatens-more-bans/articleshow/134343443.cms)
 - [Rajnath flags HAL delays, calls for realistic project timelines](https://timesofindia.indiatimes.com/defence/rajnath-hails-hal-for-delivering-three-aviation-platforms-from-one-stage/articleshow/134340041.cms)
 - [Mamata moves Supreme Court against EC decision to freeze TMC name, symbol](https://timesofindia.indiatimes.com/india/mamata-banerjee-moves-supreme-court-against-eci-decision-to-freeze-tmc-name-symbol/articleshow/134339829.cms)
 - [Meet Dina McCormick, whom Zuckerberg asked to trade her Meta board seat for a job](https://timesofindia.indiatimes.com/technology/tech-news/born-in-cairo-raised-in-texas-meet-dina-powell-mccormick-the-executive-mark-zuckerberg-asked-to-trade-her-meta-board-seat-for-a-job/articleshow/134331563.cms)
+- [Scottish Sikh gets bail in 7 NIA cases after 8 years behind bars](https://timesofindia.indiatimes.com/india/scottish-sikh-gets-bail-in-7-nia-cases-after-8-years-behind-bars/articleshow/134343731.cms)
 - [RBI has record forex reserves, but why is rupee still not out of the woods?](https://timesofindia.indiatimes.com/business/india-business/rbi-has-record-forex-reserves-but-why-is-rupee-still-not-out-of-the-woods/articleshow/134333283.cms)
 - [Asian Games: Karate team leaves without coaches; equestrian riders caught in accred maze](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-karate-team-leaves-without-coaches-equestrian-riders-caught-in-accred-maze/articleshow/134341131.cms)
-- [Birthday murder: Man killed for smearing cake on friend’s face; two held](https://timesofindia.indiatimes.com/india/birthday-murder-man-killed-for-smearing-cake-on-friends-face-two-held/articleshow/134342356.cms)
-- ['Graveyard of Saudi ambition': Why the Houthis remain Riyadh's biggest headache](https://timesofindia.indiatimes.com/world/middle-east/graveyard-of-saudi-ambition-why-the-houthis-remain-riyadhs-biggest-headache/articleshow/134334901.cms)
+- [Dengue vaccine to hit market by first half of 2027](https://timesofindia.indiatimes.com/india/dengue-vaccine-to-hit-market-by-first-half-of-2027/articleshow/134343715.cms)
 
 **NDTV**
 - ["Fiction And Lies": Trump Bans CNN, Politico From White House](https://www.ndtv.com/world-news/donald-trump-bans-cnn-ms-now-politico-from-white-house-12066705#publisher=newsstand)
@@ -62,6 +62,8 @@
 - [ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ಜನಿಸುವ ಶಿಶುವಿಗೆ ಉಚಿತ ಚಿನ್ನದ ಉಂಗುರ: ತೆರೆಯಲು ಬಾರದ ಪ್ಯಾಕೆಟ್‌ನಲ್ಲಿ ಬರಲಿದೆ ವಿಜಯ್‌ ಮಾಮಾ ಗಿಫ್ಟ್‌!](https://vijaykarnataka.com/news/chennai/free-gold-ring-for-babies-born-in-tamil-nadu-government-hospitals-joseph-vijay-to-launch-new-scheme/articleshow/134338214.cms)
 
 **The Hindu**
+- [Innovation Centre inaugurated at Easwari Engineering College](https://www.thehindu.com/news/national/tamil-nadu/innovation-centre-inaugurated-at-easwari-engineering-college/article71482189.ece)
+- [Udhayanidhi welcomes T.N.’s decision on Navodaya schools, seeks special Assembly session to reiterate State’s stand](https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-welcomes-tns-decision-on-navodaya-schools-seeks-special-assembly-session-to-reiterate-states-stand/article71481891.ece)
 - [Taps run dry in Kolkata colony for 50 days; residents allege bias](https://www.thehindu.com/news/national/west-bengal/taps-run-dry-inkolkata-colony-for-50-days-residents-allege-bias/article71479642.ece)
 - [Mamata moves Supreme Court against ECI’s freeze on Trinamool Congress symbol](https://www.thehindu.com/news/national/west-bengal/mamata-banerjee-moves-supreme-court-against-freeze-on-tmc-symbol/article71482413.ece)
 - [HAL hands over two LCA trainer plane to Air Force](https://www.thehindu.com/news/national/hal-hands-over-military-civil-aviation-and-training-platforms/article71480120.ece)
@@ -70,10 +72,9 @@
 - [Over 43,700 Ganesh idols immersed across four commissionerates in Hyderabad](https://www.thehindu.com/news/cities/Hyderabad/over-43700-ganesh-idols-immersed-across-four-commissionerates-in-hyderabad/article71482046.ece)
 - [Nepal Finance Minister meets Jaishankar, as both sides plan for PM Balen Shah visit](https://www.thehindu.com/news/national/nepal-finance-minister-meets-jaishankar-as-both-sides-plan-for-pm-balen-shah-visit/article71481374.ece)
 - [Pachaiyappa’s Trust gets new board members after election](https://www.thehindu.com/news/national/tamil-nadu/pachaiyappas-trust-gets-new-board-members-after-election/article71482151.ece)
-- [DUSU polls record 40.46% turnout, highest in 3 years](https://www.thehindu.com/news/cities/Delhi/delhi-university-students-union-elections-voting-latest-abvp-nsui-and-the-aisa-sfi-alliance-updates/article71479294.ece)
-- [Students should remain connected with peers, faculty to enrich themselves, says Deputy High Commissioner of Bangladesh](https://www.thehindu.com/news/national/tamil-nadu/students-should-remain-connected-with-peers-faculty-to-enrich-themselves-says-deputy-high-commissioner-of-bangladesh/article71480668.ece)
 
 **Livemint**
+- [Iran war US casualties: Why Pentagon tally shows 18 while officials cite 22-23](https://www.livemint.com/news/us-news/iran-war-us-casualties-why-pentagon-tally-shows-18-while-officials-cite-2223-11789762061360.html)
 - [Iran War Drives Bigger Diesel Supply Loss Despite Trump’s Claims](https://www.livemint.com/news/us-news/iran-war-drives-bigger-diesel-supply-loss-despite-trump-s-claims-11789759718718.html)
 - [Disney has hired veteran technology executive Karandeep Anand as its first chief technology officer: Who is he?](https://www.livemint.com/news/us-news/disney-has-hired-veteran-technology-executive-karandeep-anand-as-its-first-chief-technology-officer-who-is-he-11789755755723.html)
 - [Tamil Nadu gold ring for newborns: CM Vijay to launch scheme on Sep 28; 1.28L pieces ready for phase 1—check eligibility](https://www.livemint.com/news/india/tamil-nadu-gold-ring-for-newborns-cm-vijay-to-launch-scheme-on-sep-28-1-28l-pieces-ready-for-phase-1-check-eligibility-11789752385693.html)
@@ -83,7 +84,6 @@
 - [Mid-air brawl on Dhaka-London flight leaves passengers including kids panicked, Biman Bangladesh responds | Watch video](https://www.livemint.com/news/trends/midair-brawl-on-dhaka-london-flight-leaves-passengers-including-kids-panicked-biman-bangladesh-responds-watch-video-11789744439777.html)
 - [EIL eyes oil pipeline, storage projects in Saudi Arabia, UAE](https://www.livemint.com/news/staterun-eil-eyes-developing-petroleum-pipelines-oil-reserves-in-war-hit-west-asia-infrastructure-investment-11789741588354.html)
 - [Social Security becomes Senate election flashpoint: 81% of voters prefer candidates who promise to prevent benefit cuts](https://www.livemint.com/news/us-news/social-security-is-critical-issue-for-voters-in-key-us-senate-races-what-survey-says-11789742936639.html)
-- [European age-verification app for children: What is it, how does it work & how does it differ from Australia? Explained](https://www.livemint.com/news/world/european-age-verification-app-for-children-what-is-it-how-does-it-work-how-does-it-differ-from-australia-explai-11789740914984.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -106,29 +106,29 @@
 - Supreme Court (3.0)
 - Asian Games (2.0)
 - Tamil Nadu (2.0)
-- Saudi (1.9)
 - Politico (1.6)
 - House (1.6)
 - Rajnath (1.6)
 - Congress (1.6)
-- Bangladesh (1.6)
+- Iran (1.6)
 - MAGA (1.3)
 - Sugar (1.3)
 - Zuckerberg (1.3)
+- Meta (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [STOP Trolling Katrina Kaif For Her Post Pregnancy Body!](https://m.rediff.com/getahead/report/stop-trolling-katrina-kaif-for-her-post-pregnancy-body/20260918.htm)
-- [Pune Santosh Pandit Marathi News: तुम्हाला एक आतली गोष्ट बोलतो...; कारागृहातून बाहेर येताच संतोष पंडित यांनी सांगितलं धक्कादायक वास्तव](https://marathi.abplive.com/news/pune/pune-santosh-pandit-youtuber-santosh-pandit-shared-his-experience-of-being-in-jail-santosh-pandit-marathi-news-1439501)
-- [Texas parents sue daycare for $1 million after teacher encouraged son to fight another child in ‘fight club’](https://timesofindia.indiatimes.com/world/us/texas-parents-sue-daycare-for-1-million-after-teacher-encouraged-son-to-fight-another-child-in-fight-club/articleshow/134329708.cms)
-- [देशभर में UPI पेमेंट पर चार्ज को लेकर विरोध प्रदर्शन, पेट्रोल पंपों पर लगे "No UPI, Only Cash" के बोर्ड](https://www.indiatv.in/india/national/protests-across-country-over-charges-on-upi-payments-no-upi-only-cash-signs-displayed-at-petrol-pumps-2026-09-18-1243942)
-- [ജി. സുകുമാരൻ നായർ സഞ്ചരിച്ച കാർ അപകടത്തിൽപെട്ടു; നിസ്സാര പരിക്ക്](https://www.madhyamam.com/kerala/nss-general-secretary-sukumaran-nair-injured-in-accident-near-pandalam-1555616)
-- [Arbaz Shaikh Thanks To Tukaram Mundhe : कमिशन ते लूट, हॉस्पिटलविरोधातील तक्रारींवर तातडीने अ‍ॅक्शन, अरबाज शेखकडून तुकाराम मुंढेंचं कौतुक](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/arbaz-shaikh-said-thanks-to-tukaram-mundhe-for-helped-in-family-tough-time/articleshow/134329723.cms)
-- [Asian Games Women Cricket: ৮ উইকেটে জিতে এশিয়ান গেমসে সেমিফাইনালে ভারত, বলে ভেলকি শ্রীচরণীর, ব্যাটে ঝড় শেফালির](https://www.hindustantimes.com/bangla/news/asian-games-women-cricket-india-won-easy-match-against-japan-to-qualify-for-semifinal-know-details-and-update-271789719377481.html)
-- [अभिषेक शर्मा की तूफ़ानी पारी के बाद गंभीर का वैभव सूर्यवंशी के नाम एक संदेश](https://www.bbc.com/hindi/articles/cmde04j91n4do)
-- [Surinder Koli, acquitted in 2006 Nithari serial killings case, dies by suicide at tea stall in Haridwar](https://timesofindia.indiatimes.com/india/surendra-koli-acquitted-in-2006-nithari-serial-killings-case-dies-by-suicide/articleshow/134329867.cms)
-- [ભાજપ અને ચૂંટણી પંચ સાથે મળીને પાર્ટી તોડે છે: TMCનું ચૂંટણી ચિહ્ન ફ્રીઝ કરાતા રાહુલ ગાંધી ભડક્યા](https://www.gujaratsamachar.com/news/national/rahul-gandhi-slams-bjp-election-commission-tmc-name-symbol-frozen-86759927294)
+- [నిఠారీ హత్యల కేసు నిందితుడు సురేందర్ కోలీ ఆత్మహత్య](https://telugu.samayam.com/latest-news/india-news/nithari-serial-deaths-case-aqutted-accused-surendar-koli-self-kills/articleshow/134330595.cms)
+- [Anbil Mahesh Inquiry :‘3 மணி நேரமாக விசாரணை’ அன்பில் மகேஸூடம் கேட்கபடும் கேள்விகள் என்னென்ன ?](https://tamil.abplive.com/news/politics/anbil-mahesh-questioned-for-3-hours-what-are-the-police-asking-the-former-minister-274903)
+- [खेळता खेळता कारमध्ये शिरला अन्… चार वर्षीय मुलाचा दुर्दैवी मृत्यू, नेमकं काय घडलं?](https://www.tv9marathi.com/maharashtra/yavatmal-child-no-more-trapped-in-parked-car-during-treatment-after-being-found-unconscious-1758998.html)
+- [Sanjay Lakhe Patil On Manoj Jarange: ‘लीलावतीमध्ये जरांगेंचा मुलगा ॲडमिट झाला, त्याच ठिकाणी कट शिजला, एकनाथ शिंदेंना संपवण्याची सुपारी दिली’; डॉ. संजय लाखे पाटलांचा सनसनाटी आरोप](https://marathi.abplive.com/news/politics/sanjay-lakhe-patil-serious-allegations-against-manoj-jarange-patil-radhakrishna-vikhe-over-eknath-shinde-lilavati-hospital-marathi-news-1439502)
+- [Salman Khan : भरगर्दीतून वाट काढत निघाली सलमानची कार, ड्रायव्हरची ती चूक होताच भाईजानचा चढला पारा; थेट..](https://www.tv9marathi.com/entertainment/salman-khan-viral-video-the-truth-behind-driver-incident-at-ganesh-darshan-1759012.html)
+- [Mamata Banerjee, rebel Trinamool faction allotted new party names, symbols by ECI](https://www.thehindu.com/news/national/west-bengal/mamata-ritabrata-trinamool-factions-allotted-new-party-names-symbols-by-eci/article71480013.ece)
+- [Suvendu Adhikari: "অঙ্কুরহাটি থেকে ধুলাগড় ও সাঁতরাগাছির" জ্যাম ও রাজ্যের কিছু রাস্তার দুরাবস্থা নিয়ে কী বললেন মুখ্যমন্ত্রী?](https://bengali.abplive.com/district/regarding-the-traffic-jams-from-ankurhati-to-dhulagarh-and-santragachi-roadwork-is-underway-chief-minister-suvendu-adhikari-stated-1193285)
+- [TMC becomes 'Mamata All India Trinamool Congress'; Didi gets football player as symbol](https://timesofindia.indiatimes.com/india/tmc-becomes-mamata-all-india-trinamool-congress-didi-gets-football-player-as-symbol/articleshow/134330524.cms)
+- [Harish Rao | నా జీవితం తెరిచిన పుస్తకం.. ఎన్నికల అఫిడవిట్లలో ఆస్తుల వివరాలు స్పష్టంగా చెప్పిన : హరీశ్ రావు](https://www.ntnews.com/telangana/harish-rao-stated-that-details-of-assets-were-clearly-declared-in-the-election-affidavits-2513699)
+- [‘Just ask Grok’: How ISIL is using Big Tech’s AI to build bombs](https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
