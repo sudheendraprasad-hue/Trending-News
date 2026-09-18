@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-17 23:31:25
+# India Trending Report — 2026-09-18 00:02:54
 
 ## Google Trends (India) — top trending searches
-1. [అభిషేక్ శర్మ](https://trends.google.com/trending/rss?geo=IN)
-2. [mohammad rizwan](https://trends.google.com/trending/rss?geo=IN)
-3. [crystal palace f.c. vs lech poznań standings](https://trends.google.com/trending/rss?geo=IN)
-4. [white](https://trends.google.com/trending/rss?geo=IN)
-5. [ad](https://trends.google.com/trending/rss?geo=IN)
-6. [mcdonald's](https://trends.google.com/trending/rss?geo=IN)
-7. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
-8. [सारा अली खान](https://trends.google.com/trending/rss?geo=IN)
-9. [itat ruling on tax misreporting penalty](https://trends.google.com/trending/rss?geo=IN)
-10. [beşiktaş vs marseille](https://trends.google.com/trending/rss?geo=IN)
+1. [dow jones moneycontrol](https://trends.google.com/trending/rss?geo=IN)
+2. [అభిషేక్ శర్మ](https://trends.google.com/trending/rss?geo=IN)
+3. [mohammad rizwan](https://trends.google.com/trending/rss?geo=IN)
+4. [crystal palace f.c. vs lech poznań standings](https://trends.google.com/trending/rss?geo=IN)
+5. [श्रीलंका वि इंग्लंड](https://trends.google.com/trending/rss?geo=IN)
+6. [white](https://trends.google.com/trending/rss?geo=IN)
+7. [ad](https://trends.google.com/trending/rss?geo=IN)
+8. [mcdonald's](https://trends.google.com/trending/rss?geo=IN)
+9. [irumudi movie](https://trends.google.com/trending/rss?geo=IN)
+10. [सारा अली खान](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- ['I'm staying, so is the curry': Indian-origin US lawmaker reacts to 'go home' remark](https://timesofindia.indiatimes.com/world/us/im-staying-so-is-the-curry-indian-origin-us-congressman-hits-back-at-florida-councilmans-go-home-remark/articleshow/134310720.cms)
-- [India's crude imports down 3% since August last year but bill up 18%](https://timesofindia.indiatimes.com/business/india-business/indias-crude-imports-down-3-since-august-last-year-but-bill-up-18/articleshow/134323155.cms)
+- ['In talks with payment platforms to ensure UPI fee not passed on to consumers': Govt](https://timesofindia.indiatimes.com/business/india-business/upi-fee-government-payment-gateways-discuss-ways-to-stop-merchants-passing-burden-to-consumers/articleshow/134321080.cms)
+- [Four days after DHS’ ‘Mr Singh’ post, Sikh trucker stabbed in US](https://timesofindia.indiatimes.com/city/amritsar/sikh-truck-driver-stabbed-17-times-in-wyoming-days-after-dhss-mr-singh-post/articleshow/134314822.cms)
 - [Flowers at 10,600ft: World’s highest twin fields unveiled in Leh](https://timesofindia.indiatimes.com/india/flowers-at-10600ft-worlds-highest-twin-fields-unveiled-in-leh/articleshow/134320977.cms)
-- [Abhishek Sharma's record 30-ball century powers India to 3-0 T20I series sweep](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharmas-record-30-ball-century-powers-india-to-3-0-t20i-series-sweep-vs-afghanistan/articleshow/134318394.cms)
-- [US F-16 fighter jet crashes in Michigan, bursts into flames](https://timesofindia.indiatimes.com/world/us/us-f-16-fighter-jet-crashes-in-michigan-bursts-into-flames/articleshow/134321048.cms)
+- ['I'm a ghost': Indian athlete details Asian Games mess, later deletes video](https://timesofindia.indiatimes.com/sports/asian-games-2026/im-a-total-ghost-in-their-system-indian-mma-athlete-details-asian-games-accommodation-mess-later-deletes-video/articleshow/134318062.cms)
+- [India's crude imports down 3% since August last year but bill up 18%](https://timesofindia.indiatimes.com/business/india-business/indias-crude-imports-down-3-since-august-last-year-but-bill-up-18/articleshow/134323155.cms)
 - [New Green Card rules from September 18: Full list of categories affected](https://timesofindia.indiatimes.com/technology/tech-news/starting-september-18-new-green-card-rules-coming-into-effect-full-list-of-categories-that-are-subject-to-the-change-and-those-that-are-not/articleshow/134305577.cms)
+- [US F-16 fighter jet crashes in Michigan, bursts into flames](https://timesofindia.indiatimes.com/world/us/us-f-16-fighter-jet-crashes-in-michigan-bursts-into-flames/articleshow/134321048.cms)
 - [Judge Amogh Kaloti: The man who holds key to Tata dispute](https://timesofindia.indiatimes.com/business/india-business/judge-amogh-kaloti-the-man-who-holds-key-to-tata-dispute/articleshow/134321260.cms)
-- [EC accepts TMC split, freezes name, symbol in interim order](https://timesofindia.indiatimes.com/india/ec-accepts-tmc-split-freezes-name-symbol-in-interim-order/articleshow/134323242.cms)
-- [Semicon India 2026: PM Modi pitches India as trusted chipmaking hub](https://timesofindia.indiatimes.com/india/pm-modi-pitches-india-as-trusted-chipmaking-hub/articleshow/134322955.cms)
-- [SC raps CBSE for refusing to exempt Class VI from 3-language policy this yr](https://timesofindia.indiatimes.com/india/sc-raps-cbse-for-refusing-to-exempt-class-vi-from-3-language-policy-this-yr/articleshow/134322000.cms)
+- [Bangladesh PM Rahman wishes PM Modi on birthday, wishes him good health & high spirit](https://timesofindia.indiatimes.com/india/may-your-service-be-accompanied-by-good-health-bangladesh-pm-rahman-wishes-pm-modi-on-birthday/articleshow/134320743.cms)
+- [Abhishek Sharma's record 30-ball century powers India to 3-0 T20I series sweep](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharmas-record-30-ball-century-powers-india-to-3-0-t20i-series-sweep-vs-afghanistan/articleshow/134318394.cms)
 
 **NDTV**
 - [Opinion: Opinion | US Has Now Weaponised India's Russia Oil Dependence. Can New Delhi Cope?](https://www.ndtv.com/opinion/us-has-weaponised-indias-russia-oil-dependence-now-what-12059199#publisher=newsstand)
@@ -49,17 +49,7 @@
 - [Kerala child rights panel calls for gender-inclusive rules, bars schools from penalising boys over hair length](https://www.hindustantimes.com/india-news/kerala-child-rights-panel-calls-for-gender-inclusive-rules-bars-schools-from-penalising-boys-over-hair-length-101789650937608.html)
 - [CBSE says no to Class 6 exemption from 3-language rule; SC suggests 2027 rollout](https://www.hindustantimes.com/india-news/cbse-says-no-to-class-6-exemption-from-3-language-rule-sc-suggests-2027-rollout-101789651714764.html)
 
-**Vijay Karnataka**
-- [ಸತ್ಯನಾರಾಯಣ ಪೂಜೆ ನೆರವೇರಿಸಿದ ಹಾವೇರಿ ಪೊಲೀಸ್‌ Dysp ಸಮೀವುಲ್ಲಾ ದಂಪತಿ; ಭಾವೈಕ್ಯತೆ ಸಂದೇಶ!](https://vijaykarnataka.com/news/haveri/haveri-police-dysp-sameevulla-and-his-wife-muslim-perform-satyanarayana-puja-a-message-of-communal-harmony/articleshow/134315279.cms)
-- [ಬೆಂಗಳೂರಿನ ಜಯನಗರದಲ್ಲಿ AI ಸ್ಮಾರ್ಟ್‌ ಪಾರ್ಕಿಂಗ್‌: ವಾಹನ ನಿಲ್ಲಿಸಿದ 5 ನಿಮಿಷಗಳೊಳಗೆ ಡಿಜಿಟಲ್‌ ಪಾವತಿ ಕಡ್ಡಾಯ!](https://vijaykarnataka.com/news/bengaluru-city/ai-based-smart-parking-implementation-in-jayanagar-bengaluru/articleshow/134318047.cms)
-- [ನಮ್ಮ ಮೆಟ್ರೋ ಕಿತ್ತಳೆ ಮಾರ್ಗದಲ್ಲಿ ಮಹತ್ವದ ಬದಲಾವಣೆ: ಡಬಲ್‌ ಡೆಕ್ಕರ್‌ 11 KM ಸೀಮಿತಗೊಳಿಸಿ ಅನುಮತಿ! 3 ಕಡೆ ನಿರ್ಮಾಣ](https://vijaykarnataka.com/news/bengaluru-city/namma-metros-orange-line-major-change-approval-granted-for-a-double-decker-structure-limited-to-11-km-3-locations/articleshow/134315996.cms)
-- [ಮೊದಲ ಪ್ರೀತಿಯ ನೆನಪು ಯಾಕೆ ಎಂದಿಗೂ ಕಾಡುತ್ತದೆ? ಮನಃಶಾಸ್ತ್ರ ಹೇಳುವ ಪ್ರಮುಖ ಕಾರಣಗಳು](https://vijaykarnataka.com/lifestyle/relationship/first-love-memories-psychology-why-never-fade/articleshow/134310755.cms)
-- [ಗಣೇಶ ಹಬ್ಬದ ವೇಳೆ ಪ್ರಯಾಣಿಕರ ಸುಲಿಗೆಗೆ ನಿಂತ ಖಾಸಗಿ ಬಸ್ ಗಳಿಗೆ ಸಾರಿಗೆ ಅಧಿಕಾರಿಗಳಿಂದ ಬಿಸಿ: ಹೀಗಿತ್ತು 5 ದಿನದ ಕಾರ್ಯಾಚರಣೆ](https://vijaykarnataka.com/news/karnataka/transport-officials-collect-73-lakh-fine-for-private-buses-fleecing-during-ganesha-festival/articleshow/134318926.cms)
-- [ʻಎಂ.ಎಸ್‌ ಸುಬ್ಬುಲಕ್ಷ್ಮಿ ಬಯೋಪಿಕ್‌ಗೆ ರಶ್ಮಿಕಾ ಸೆಟ್‌ ಆಗಲ್ಲ..ʼ! ಶಿವಶ್ರೀ, ವಿದ್ಯಾ ಬಾಲನ್‌ ಸೂಕ್ತ ಎಂದ ನೆಟ್ಟಿಗರು](https://vijaykarnataka.com/entertainment/news/ms-subbulakshmi-biopic-rashmika-mandanna-role-sparks-debate/articleshow/134316596.cms)
-- [ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿ ಸಿಂಹಾಸನದ ಮೇಲೆ ಗಣಪ; ಸೀರೆಯಲ್ಲಿ ಸಾನಿಯಾ, ಪಿಂಕ್ ಸೂಟ್‌ನಲ್ಲಿ ಸಾರಾ ಮಿಂಚಿಂಗ್!](https://vijaykarnataka.com/lifestyle/fashion/sara-tendulkar-pink-suit-saniya-chandok-saree-ganesh-chaturthi/articleshow/134277830.cms)
-- [ಸೂರ್ಯಾಸ್ತದ ನಂತರ ಮಾಡಬಾರದೆಂದು ಹೇಳಲಾಗುವ ಕೆಲಸಗಳು ಯಾವುವು.?](https://vijaykarnataka.com/religion/hinduism/try-to-avoid-doing-these-works-after-sunset/articleshow/134312494.cms)
-- [76ರಲ್ಲೂ ಫಿಟ್ ಆಗಿರುವ ಮೋದಿ: ದೈನಂದಿನ ಡಯಟ್, ಯೋಗ, ಫಿಟ್ನೆಸ್ ರೂಟೀನ್ ಹೇಗಿದೆ?](https://vijaykarnataka.com/lifestyle/fitness/pm-modi-birthday-daily-diet-yoga-fitness-routine-at-76/articleshow/134305327.cms)
-- [ಒಂದು ವಿವಾಹ, ಒಂದೇ ಖಾದ್ಯ! ಪಾಕಿಸ್ತಾನದಲ್ಲಿ ಮದುವೆ ಊಟಕ್ಕೂ ತಟ್ಟಿದ ಇಂಧನ ಬಿಕ್ಕಟ್ಟು; ಲಾಕ್ ಡೌನ್ ಮಾದರಿಯ ಪರಿಸ್ಥಿತಿ!](https://vijaykarnataka.com/business/news/fuel-crisis-hits-wedding-feasts-in-pakistan-lockdown-like-situation/articleshow/134317204.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
 - [On PM’s birthday, J&K CM Omar Abdullah wishes for Statehood restoration](https://www.thehindu.com/news/national/jammu-and-kashmir/on-pms-birthday-jk-cm-omar-abdullah-wishes-for-statehood-restoration/article71477428.ece)
@@ -100,35 +90,35 @@
 - [ಅಫ್ಘಾನಿಸ್ತಾನದ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ 127 ರನ್ ಗಳ ಭರ್ಜರಿ ಜಯ; 3–0 ಅಂತರದಲ್ಲಿ ಸರಣಿ ಕ್ಲೀನ್‌ ಸ್ವೀಪ್‌](https://www.varthabharati.in/sports/massive-127-run-win-for-india-against-afghanistan-series-cleansweep-at-30-margin-2275956)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (5.5)
 - Delhi (4.5)
 - PM Modi (4.0)
+- India (3.9)
+- Four (2.6)
 - September (2.6)
-- CBSE (2.6)
 - Opinion (2.6)
+- Indian (1.9)
 - India's (1.9)
-- Class (1.6)
 - Russian (1.6)
 - Mamata (1.6)
 - Assam (1.6)
 - Bengal (1.6)
-- August (1.3)
+- Govt (1.3)
+- Sikh (1.3)
 - Flowers (1.3)
-- World (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [हनुमान अंश का बॉक्स ऑफिस पर विस्फोट! 300 करोड़ के पार कमाई, बाबा के चमत्कार के आगे फेल बॉलीवुड फिल्में](https://www.aajtak.in/entertainment/bollywood-news/story/hanuman-ansh-crossed-300-crore-worldwide-box-office-record-breaking-earning-shobhinaw-satya-part-2-tmova-dskc-2644954-2026-09-17)
-- [Bank Merger: SBI, PNB আর Bank of Baroda-তে মিলেমিশে যাবে বাকি ৯টি ব্যাঙ্ক? কী হবে গ্রাহকদের?](https://tv9bangla.com/business/bank-merger-fact-check-will-9-public-sector-banks-merge-with-sbi-pnb-and-bank-of-baroda-1347064.html)
-- [அமெரிக்க ஃபெடரல் வங்கி வட்டி உயர்வு: இந்தியா எதிர்கொள்ளும் சவால்கள் என்னென்ன?](https://www.hindutamil.in/news/business/us-fed-rate-hike-impacts-on-india-s-rupee-markets-and-rbi-explained)
-- [अजीत अगरकर के कॉन्ट्रैक्ट की उल्टी गिनती शुरू... BCCI AGM से पहले बड़ा सवाल](https://www.aajtak.in/sports/cricket/story/bcci-agm-2026-icc-representative-ipl-governing-council-ajit-agarkar-bmsp-dskc-2644956-2026-09-17)
-- [ટીમ ઈન્ડિયાના નવા ચીફ સિલેકટરની રેસમાં આ ગુજરાતી દિગ્ગજનું નામ! અજિત અગરકરની વિદાય નક્કી](https://www.gujaratsamachar.com/news/sports/this-gujarati-legends-name-in-the-race-for-team-indias-new-chief-selector-ajit-agarkars-departure-is-certain-76698947772)
-- [“விஜய் சேதுபதி பேசுவதால் அரசியல் மாறிவிடாது” - தவெக எம்எல்ஏ கனிமொழி](https://www.hindutamil.in/news/tamilnadu/tvk-mla-kanimozhi-criticize-about-actor-vijay-sethupathis-political-talk)
-- [సీఎం రేవంత్ ఆర్డర్స్.. కేసీఆర్ ఫాం హౌస్ భూఆక్రమణలపై రంగంలోకి రెవెన్యూ శాఖ](https://www.v6velugu.com/inspection-begins-into-the-kcr-erravalli-farmhouse-land-issue)
-- [नवोदय स्कूल के बहाने हिंदी का विरोध कर रही थी थलपति विजय की सरकार, SC ने फटकारा](https://www.livehindustan.com/national/hindi-cannot-be-excluded-from-tamil-nadu-supreme-court-reprimands-vijay-government-201789643819212.html)
-- [India to impose controversial fee for UPI instant payments: Who benefits?](https://www.aljazeera.com/features/2026/9/17/india-to-impose-controversial-fee-for-upi-instant-payments-who-benefits)
-- [ભારતીય મૂળના મહાઠગે ટેલર સ્વિફ્ટના પતિ સહિત 64 અમીરોને અબજોનો ચૂનો લગાડ્યો! હવે અમેરિકામાં 11 વર્ષની જેલ](https://www.gujaratsamachar.com/news/international/indian-origin-grand-swindler-swindled-64-rich-people-including-taylor-swifts-husband-out-of-billions-now-11-years-in-prison-in-america-76735045058)
+- [Apple Watch Series 12 Review: Finally, a Readiness Score (2026)](https://www.wired.com/review/apple-watch-series-12/)
+- [ഇന്ന് രാത്രിയും വൈദ്യുതി നിയന്ത്രണം: മധ്യപ്രദേശിൽനിന്ന് വൈദ്യുതിയില്ല, 200 മെഗാവാട്ടിന്റെ അധികകുറവ്](https://www.manoramaonline.com/news/latest-news/2026/09/17/kseb-announces-potential-power-cuts-today.html)
+- [Prithvi Shaw की सिर्फ 6 महीने में टूट गई सगाई, मंगेतर Akriti Agarwal ने सोशल मीडिया पर खत्म किया रिश्ता﻿](https://www.jagran.com/cricket/headlines-prithvi-shaw-fiancee-akriti-agarwal-breakup-engagement-in-6-months-call-off-cricket-comeback-struggle-40376400.html)
+- [‘ആ യാഥാർഥ്യം തിരിച്ചറിഞ്ഞു, ഞങ്ങൾ വേർപിരിയുന്നു; പൃഥ്വി ഷായുമായുള്ള ബന്ധവുമായി മുന്നോട്ടില്ല’: പോസ്റ്റുമായി നടി ആകൃതി](https://www.manoramaonline.com/sports/cricket/2026/09/17/prithvi-shaw-fiancee-akriti-agarwal-part-ways-months-after-engagement-she-reveals-reason.html)
+- [West Bengal Live Blog: প্রতীক নিয়ে দড়ি টানাটানি, সিম্বল ফ্রিজ করে দুই তৃণমূলকে অস্থায়ী প্রতীক দেবে কমিশন?](https://bengali.abplive.com/district/tmc-logo-fight-continued-narendra-modi-birthday-celebration-in-kolkata-district-news-update-1193182)
+- [Sobhita Dhulipala : మనకు మనమే శత్రువులం - ఎవరూ సపోర్ట్ చేయరు... అక్కినేని కోడలు శోభిత ధూళిపాల రియాక్షన్](https://telugu.abplive.com/entertainment/cinema/sobhita-dhulipala-slams-judgemental-telugu-community-after-influencer-post-259184)
+- [ਅਬੂ ਧਾਬੀ ਵਿੱਚ ਆਯੋਜਿਤ ਹੋਣਗੇ IIFA ਅਵਾਰਡ 2027 : ਵੱਡੇ ਫਿਲਮੀ ਸਿਤਾਰੇ ਹੋਣਗੇ ਸ਼ਾਮਲ](https://wishavwarta.in/iifa-awards-2027-abu-dhabi/)
+- [Tata Sons board-room battle: Stalemate allowed chairman to vote on his own reappointment](https://www.thehindubusinessline.com/companies/tata-sons-board-room-battle-stalemate-allowed-chairman-to-vote-on-his-own-reappointment/article71476475.ece)
+- [‘Enough is enough’: Delhi HC raps DU, police over violence ahead of DUSU polls](https://timesofindia.indiatimes.com/india/enough-is-enough-delhi-hc-raps-du-police-over-violence-ahead-of-dusu-polls/articleshow/134311048.cms)
+- [இந்தியா எச்சரிக்கை](https://www.tamilmurasu.com.sg/india/us-oil-ban-bill-india-warns)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
