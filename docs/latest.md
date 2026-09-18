@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-18 09:35:01
+# India Trending Report — 2026-09-18 10:01:59
 
 ## Google Trends (India) — top trending searches
-1. [ವೇತನ ಆಯೋಗ](https://trends.google.com/trending/rss?geo=IN)
-2. [निठारी](https://trends.google.com/trending/rss?geo=IN)
-3. [vibe movie](https://trends.google.com/trending/rss?geo=IN)
-4. [su 57 india](https://trends.google.com/trending/rss?geo=IN)
-5. [you me against the world](https://trends.google.com/trending/rss?geo=IN)
-6. [వ్యాపారం](https://trends.google.com/trending/rss?geo=IN)
-7. [ജി. സുകുമാരന് നായര്](https://trends.google.com/trending/rss?geo=IN)
-8. [दिल्ली परिवहन निगम](https://trends.google.com/trending/rss?geo=IN)
-9. [ജയില്](https://trends.google.com/trending/rss?geo=IN)
-10. [రైతు](https://trends.google.com/trending/rss?geo=IN)
+1. [கடன்](https://trends.google.com/trending/rss?geo=IN)
+2. [മൃഗശാല](https://trends.google.com/trending/rss?geo=IN)
+3. [సిద్ధార్థ్ లూథ్రా](https://trends.google.com/trending/rss?geo=IN)
+4. [chelsea football](https://trends.google.com/trending/rss?geo=IN)
+5. [தாராபுரம்](https://trends.google.com/trending/rss?geo=IN)
+6. [निठारी](https://trends.google.com/trending/rss?geo=IN)
+7. [ವೇತನ ಆಯೋಗ](https://trends.google.com/trending/rss?geo=IN)
+8. [vibe movie](https://trends.google.com/trending/rss?geo=IN)
+9. [su 57 india](https://trends.google.com/trending/rss?geo=IN)
+10. [daayra movie kareena kapoor](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Surinder Koli, acquitted in 2006 Nithari serial killings case, dies by suicide](https://timesofindia.indiatimes.com/india/surendra-koli-acquitted-in-2006-nithari-serial-killings-case-dies-by-suicide/articleshow/134329867.cms)
 - ['Football player' vs 'envelope': EC allots new names and symbols to TMC factions](https://timesofindia.indiatimes.com/india/tmc-becomes-mamata-all-india-trinamool-congress-didi-gets-football-player-as-symbol/articleshow/134330524.cms)
+- [Explosive-laden truck rams into mosque in Pakistan's Kohat; 16 dead](https://timesofindia.indiatimes.com/world/pakistan/7-killed-over-30-injured-in-blast-at-mosque-in-pakistan-report/articleshow/134331469.cms)
+- [Surinder Koli, acquitted in 2006 Nithari serial killings case, dies by suicide](https://timesofindia.indiatimes.com/india/surendra-koli-acquitted-in-2006-nithari-serial-killings-case-dies-by-suicide/articleshow/134329867.cms)
+- [Lokayukta police trap GST official with Rs 8 lakh bribe](https://timesofindia.indiatimes.com/city/bengaluru/lokayukta-police-trap-gst-official-with-rs-8-lakh-bribe/articleshow/134319292.cms)
+- [Gurgaon hit-and-run: Accused Kalyan Bainsla sent to 14-day judicial custody](https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-hit-and-run-accused-kalyan-singh-bainsla-cousin-lavnish-sent-to-14-day-judicial-custody/articleshow/134330696.cms)
+- [iPhone buying guide: iPhone 18 Pro vs iPhone Duo vs iPhone 17, which one to buy](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-buying-guide-iphone-18-pro-vs-iphone-duo-vs-iphone-17-which-iphone-should-you-buy-and-why/articleshow/134328874.cms)
 - [‘Are you people students?’ Delhi HC flays ABVP, NSUI over DUSU poll violations](https://timesofindia.indiatimes.com/india/are-you-people-students-delhi-hc-flays-abvp-nsui-over-dusu-poll-violations/articleshow/134329664.cms)
 - ['A bit chubby': Memoir claims Charles fat-shamed Diana; was 'elated' by her death](https://timesofindia.indiatimes.com/world/uk/a-bit-chubby-memoir-claims-king-charles-fat-shamed-diana-was-giddily-elated-by-her-death/articleshow/134330839.cms)
+- [Desi becomes first person in UK charged with advertising illegal immigration services](https://timesofindia.indiatimes.com/nri/other-news/indian-migrant-becomes-first-person-in-uk-charged-with-advertising-illegal-immigration-services-online/articleshow/134321003.cms)
 - [FSSAI flags Nestle infant products over false promotional claims, biotin levels](https://timesofindia.indiatimes.com/india/fssai-flags-nestle-infant-products-over-false-promotional-claims-biotin-levels/articleshow/134329113.cms)
-- [iPhone buying guide: iPhone 18 Pro vs iPhone Duo vs iPhone 17, which one to buy](https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-buying-guide-iphone-18-pro-vs-iphone-duo-vs-iphone-17-which-iphone-should-you-buy-and-why/articleshow/134328874.cms)
-- [India’s Chef de Mission admits accommodation crisis, reveals additional rooms booked](https://timesofindia.indiatimes.com/sports/asian-games-2026/definitely-a-shortage-indias-chef-de-mission-admits-accommodation-crisis-reveals-additional-rooms-booked/articleshow/134329493.cms)
-- [Sebi warned on digital gold in 2025; now physical backing and oversight in works](https://timesofindia.indiatimes.com/business/india-business/in-2025-sebi-warned-investors-about-digital-gold-now-your-digital-gold-may-soon-need-physical-gold-to-back-it-government-weighs-rbi-sebi-oversight-for-3-billion-industry/articleshow/134329294.cms)
-- ['Nothing against sportsman spirit': Pakistan explain decision to boycott Israel](https://timesofindia.indiatimes.com/sports/chess/nothing-against-sportsman-spirit-pakistan-explain-decision-to-boycott-israel-at-chess-olympiad/articleshow/134326830.cms)
-- [Air India Express ordered to pay Rs 27K after bicycle put on baggage belt](https://timesofindia.indiatimes.com/legal/news/air-india-express-ordered-to-pay-rs-27000-after-bicycle-put-on-baggage-belt-despite-special-care-fee/articleshow/134330804.cms)
 
 **NDTV**
 - [Student Shoots 2 Schoolmates In Philippines, Then Kills Himself](https://www.ndtv.com/world-news/philippines-school-shooting-student-shoots-2-schoolmates-in-philippines-then-kills-himself-12063912#publisher=newsstand)
@@ -38,6 +38,8 @@
 - [Opinion: Opinion | Saudi Arabia's Yemen Nightmare Has Come Back To Haunt It](https://www.ndtv.com/opinion/saudi-arabias-yemen-nightmare-has-come-back-to-haunt-it-12063676#publisher=newsstand)
 
 **Hindustan Times**
+- [‘Will come back on Saturday’: How accused in Delhi HR professional's murder case kept texting his family from his phone](https://www.hindustantimes.com/india-news/will-come-back-on-saturday-how-accused-in-delhi-hr-professionals-murder-case-kept-texting-his-family-from-his-phone-101789722249519.html)
+- [Kuno cheetah KGP12 gives birth to four cubs, India’s cheetah count rises to 36](https://www.hindustantimes.com/india-news/kuno-cheetah-kgp12-gives-birth-to-four-cubs-india-s-cheetah-count-rises-to-36-101789724148830.html)
 - [Private universities cannot be run for profit, says SC; seeks audited accounts](https://www.hindustantimes.com/india-news/private-universities-cannot-be-run-for-profit-says-sc-seeks-audited-accounts-101789722709968.html)
 - [Friend smears cake on birthday boy's face, gets stabbed to death in Jammu: Police](https://www.hindustantimes.com/india-news/friend-smears-cake-on-birthday-boys-face-gets-stabbed-to-death-in-jammu-police-101789718923548.html)
 - [Delhi HC issues show cause notices to 140 candidates over DUSU poll violations](https://www.hindustantimes.com/india-news/delhi-hc-issues-show-cause-notices-to-140-candidates-over-dusu-poll-violations-101789722349430.html)
@@ -46,44 +48,42 @@
 - [Minister Chennithala rejects charges of police high-handedness in news channel raid](https://www.hindustantimes.com/india-news/minister-chennithala-rejects-charges-of-police-high-handedness-in-news-channel-raid-101789721625211.html)
 - [Mamata's TMC faction gets football player symbol and new party name; Ritabrata camp gets envelope](https://www.hindustantimes.com/india-news/tmc-faction-symbols-mamata-football-player-symbol-new-party-name-ritabrata-camp-envelope-101789720921106.html)
 - [Police say Surendra Koli was found dead in his tea shop in Haridwar: Updates](https://www.hindustantimes.com/india-news/nithari-case-surendra-koli-death-haridwar-live-updates-suicide-probe-noida-2006-noida-serial-killing-uttarakhand-101789719290829.html)
-- [Surendra Koli, acquitted in Nithari serial killing case, found dead in Haridwar](https://www.hindustantimes.com/india-news/nithari-accused-surendra-koli-found-hanging-at-tea-stall-in-haridwar-101789718799494.html)
-- [Mamata-led TMC faction pitches cricket bat, footballer as symbols, 3 party names amid EC freeze](https://www.hindustantimes.com/india-news/mamataled-tmc-faction-pitches-cricket-bat-footballer-as-symbols-3-party-names-amid-ec-freeze-101789717960798.html)
 
 **Vijay Karnataka**
 - [ಸ್ಟೋರ್ ಪಕ್ಕ ಟಾಯ್ಲೆಟ್ - ಒಲಂಪಿಯಾ ಕಾಫಿ ಹೌಸ್ ಲೈಸೆನ್ಸ್ ರದ್ದು: ಬೆಂಗಳೂರು ಫುಡ್’ರೇಡ್ ಎಲ್ಲಿಯವರೆಗೆ ಬಂತು?](https://vijaykarnataka.com/news/bengaluru-city/explainer-olympia-coffee-house-mumbai-hygiene-violation-bengaluru-raids/articleshow/134330953.cms)
 - [ಕದ್ರಿ ದೇಗುಲಕ್ಕೆ ಭೇಟಿ ನೀಡಿದ ಡಿಕೆ ಶಿವಕುಮಾರ್ ಹಾಗೂ ಸಚಿವರು: ಕರಾವಳಿಯ ಸಾಂಸ್ಕೃತಿಕ ವಸ್ತುಪ್ರದರ್ಶನ ವೀಕ್ಷಣೆ](https://vijaykarnataka.com/news/mangaluru/dk-shivakumar-and-ministers-visit-kadri-temple-view-coastal-cultural-exhibition/articleshow/134328398.cms)
-- [ಗಡಿ ನಾಟಕ ನಿಲ್ಲಿಸಿ, ತಕ್ಷಣವೇ ಜಾಗ ಖಾಲಿ ಮಾಡಿ, ಸಂಚು ರೂಪಿಸಿದ್ದ ಪಾಕ್‌-ಚೀನಾಗೆ ಬೆಂಡೆತ್ತಿದ ಭಾರತ](https://vijaykarnataka.com/news/india/india-hits-back-at-pakistan-and-china-for-orchestrating-border-theatrics-demanding-they-vacate-the-area-immediately/videoshow/134331159.cms)
+- [ದಕ್ಷಿಣ ಭಾರತದ ದೇವಾಲಯಗಳ ಶಿಲ್ಪ ಕಾವ್ಯಗಳಿಗೆ ನಾಟ್ಯ ಜೀವ: ನಿರುಪಮಾ ರಾಜೇಂದ್ರ ‘ರಸಾರಾಧನೆ’](https://vijaykarnataka.com/news/bengaluru-city/solo-bharata-natyam-performance-by-nirupama-rajendras-rasaaradhane-20th-sunday-in-bengaluru/articleshow/134328360.cms)
 - [ಶತಕ ಬಾರಿಸಿ ಧ್ಯಾನದಲ್ಲಿ ಸಂಭ್ರಮಿಸಿದ ಅಭಿಷೇಕ್ ಶರ್ಮಾ; ಕ್ರೀಡಾಪಟುಗಳಿಗೆ ಧ್ಯಾನ ಏಕೆ ಮುಖ್ಯ?](https://vijaykarnataka.com/lifestyle/health/abhishek-sharma-meditation-celebration-why-athletes-meditate/articleshow/134328292.cms)
-- [ರೇಷನ್ ಕಾರ್ಡ್‌ದಾರರಿಗೆ ಬಿಗ್ ರಿಲೀಫ್, e-KYC ಡೆಡ್‌ಲೈನ್ ಅಕ್ಟೋಬರ್ 20ರವರೆಗೆ ವಿಸ್ತರಣೆ, ಸೊಸೈಟಿ ಸಮಯವೂ ಚೇಂಜ್‌](https://vijaykarnataka.com/news/karnataka/big-relief-for-ration-cardholders-e-kyc-deadline-extended-to-october-20/videoshow/134331070.cms)
-- [‘ಅವಿನಾಶ್ ಹೇಳಿದ್ದು ಸರಿ, ಮೊದಲು ಕಾಮನರ್ಸ್‌ನ ಆಚೆ ಹಾಕಿ, ಘನತೆ ಉಳಿಸಿಕೊಳ್ಳಿ’: BBK 13 ವೀಕ್ಷಕರ ಒತ್ತಾಯ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-week-2-viewers-support-avinash-for-his-bold-statement-against-commoners/articleshow/134329918.cms)
+- [ವಿಷ್ಣುವಿನ ದಶಾವತಾರವನ್ನು ಗೋಪಾಲದಾಸರು ಕೊಂಡಾಡಿದ್ದು ಹೇಗೆ? ಹಾಡು ಹಳತು ಭಾವ ನವೀನ 154](https://vijaykarnataka.com/edit-oped/columns/gopaladasa-poem-about-lord-vishnu-explained-by-columnist-srinath-bhalle-in-haadu-halathu-bhaava-naveena-part-154/articleshow/134328313.cms)
+- [ಅಕ್ಕನ ಹಳದಿ ಶಾಸ್ತ್ರದಲ್ಲಿ ಮಿಂಚಿದ ‘ಕರ್ಣ’ ನಟಿ ಭವ್ಯಾ ಗೌಡ: ಅದ್ಭುತ ಫೋಟೋಗಳು ಇಲ್ಲಿವೆ ನೋಡಿ…](https://vijaykarnataka.com/vk-gallery/cinema/karna-serial-actress-bhavya-gowda-in-sister-divya-gowda-hemanth-kumar-haldi-ceremony/photoshow/134331547.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [ಆತ್ಮವಿಶ್ವಾಸ, ಅದೃಷ್ಟಕ್ಕಾಗಿ ಭಾನುವಾರ ಪಠಿಸಬೇಕಾದ 3 ಸೂರ್ಯ ಮಂತ್ರಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/sunday-chant-these-are-the-3-surya-mantras-to-increase-self-confidence-and-luck/articleshow/134330687.cms)
 - [ಅಂದು ಅದ್ದೂರಿ ನಿಶ್ಚಿತಾರ್ಥ, ಈಗ ಬ್ರೇಕಪ್! ಪೃಥ್ವಿ ಶಾ–ಆಕೃತಿ ಬಳಿಕ ಸಂಬಂಧ ಮುರಿದ ನೋವಿನಿಂದ ಹೊರಬರಲು 7 ಮಾರ್ಗಗಳು](https://vijaykarnataka.com/lifestyle/relationship/prithvi-shaw-aakriti-agarwal-broken-engagement-how-to-move-on/articleshow/134325537.cms)
-- [ನಟ ಪುನೀತ್‌ ರಾಜ್‌ಕುಮಾರ್‌ಗೆ ಅವಮಾನ: ಯುವಕನಿಗೆ ತರಾಟೆಗೆ ತೆಗೆದುಕೊಂಡ ಹೈಕೋರ್ಟ್‌! ಭವಿಷ್ಯದ ದೃಷ್ಟಿಯಿಂದ ಮಹತ್ವದ ತೀರ್ಪು](https://vijaykarnataka.com/news/karnataka/insult-to-actor-puneeth-rajkumar-high-court-reprimands-youth-a-significant-verdict-for-the-future/articleshow/134330485.cms)
+- [ಗಡಿ ನಾಟಕ ನಿಲ್ಲಿಸಿ, ತಕ್ಷಣವೇ ಜಾಗ ಖಾಲಿ ಮಾಡಿ, ಸಂಚು ರೂಪಿಸಿದ್ದ ಪಾಕ್‌-ಚೀನಾಗೆ ಬೆಂಡೆತ್ತಿದ ಭಾರತ](https://vijaykarnataka.com/news/india/india-hits-back-at-pakistan-and-china-for-orchestrating-border-theatrics-demanding-they-vacate-the-area-immediately/videoshow/134331159.cms)
 
 **The Hindu**
+- [Tiger that killed two people in O’Valley in Gudalur captured](https://www.thehindu.com/news/national/tamil-nadu/tiger-that-killed-two-people-in-ovalley-in-gudalur-captured/article71480122.ece)
 - [First time in India: Open top bus takes ministers in procession to Cabinet meeting in Mangaluru](https://www.thehindu.com/news/cities/Mangalore/first-time-in-india-open-top-bus-takes-ministers-in-a-procession-to-cabinet-meeting-in-mangaluru/article71480006.ece)
+- [Meenakshi Temple: The making of Madurai’s greatest landmark](https://www.thehindu.com/society/history-and-culture/meenakshi-temple-the-making-of-madurais-greatest-landmarks/article71475643.ece)
+- [Mahua Moitra alleges discrimination against Muslim bureaucrats](https://www.thehindu.com/news/national/west-bengal/mahua-moitra-alleges-discrimination-against-muslim-bureaucrats/article71480016.ece)
+- [‘Modha Rathri’ movie review: Rishikanth and Anishma are fantastic in this hilarious, poignant comedy-drama](https://www.thehindu.com/entertainment/movies/modha-rathri-movie-review-rishikanth-anishma-anilkumar-raja-karuppasamy-netflix/article71477841.ece)
+- [CBFC’s new film certification guidelines: Statutory warning for scenes on drug use](https://www.thehindu.com/news/national/cbfc-new-film-certification-guidelinesstatutorywarning-scenes-drug-use/article71479923.ece)
 - [Elections to 7,405 primary cooperative societies to be held in first phase in T.N.](https://www.thehindu.com/news/national/tamil-nadu/elections-to-7405-primary-cooperative-societies-to-be-held-in-first-phase-in-tn/article71480051.ece)
 - [Rival Trinamool factions get new names, symbols for October 6 bypolls](https://www.thehindu.com/news/national/west-bengal/mamata-ritabrata-trinamool-factions-allotted-new-party-names-symbols-by-eci/article71480013.ece)
 - [Regularise services of Mecca Masjid, Shahi Masjid employees: Nampally MLA Majid Hussain](https://www.thehindu.com/news/cities/Hyderabad/regularise-services-of-mecca-masjid-shahi-masjid-employees-nampally-mla-majid-hussain/article71479988.ece)
 - [Keralam reclaims over 120 acres from legacy waste landfills](https://www.thehindu.com/news/national/kerala/keralam-reclaims-over-120-acres-from-legacy-waste-landfills/article71479846.ece)
-- [Actor-director S.J. Suryah withdraws plea to discharge him from income tax evasion cases](https://www.thehindu.com/news/national/tamil-nadu/actor-director-sj-suryah-withdraws-plea-to-discharge-him-from-income-tax-evasion-cases/article71479747.ece)
-- [In Pictures | A riot of colours in Mangaluru](https://www.thehindu.com/news/national/karnataka/in-pictures-a-riot-of-colours-in-mangaluru/article71480078.ece)
-- [Keralam forms Anti-Narcotic Investigation Team as Operation Toofan set to enter second phase](https://www.thehindu.com/news/national/kerala/keralam-forms-anti-narcotic-investigation-team-as-operation-toofan-set-to-enter-second-phase/article71479911.ece)
-- [Reporter TV Managing Editor Anto Augustine denied bail in alcohol seizure  case](https://www.thehindu.com/news/national/kerala/reporter-tv-managing-editor-anto-augustine-denied-bail-in-alcohol-seizure-case/article71479937.ece)
-- [India’s crude oil imports in August fall 3%, import bill rises 18%](https://www.thehindu.com/business/Economy/indias-crude-oil-imports-in-august-fall-3-spends-18-more/article71477355.ece)
 
 **Livemint**
+- ['We'll come and see': On NEET, SC says will inspect NTA office; seeks report on progress by Nandan Nilekani panel](https://www.livemint.com/news/india/well-come-and-see-on-neet-sc-says-will-inspect-nta-office-seeks-report-on-progress-by-nandan-nilekani-panel-11789723671494.html)
 - [Delhi High Court says payments to overseas units aren't automatically taxable in India](https://www.livemint.com/news/delhi-high-court-says-payments-to-overseas-units-arent-automatically-taxable-in-india-teva-ranbaxy-sun-11789705719136.html)
 - [Daughter's school bus takes 2 hours to cover 2 km in Bengaluru; parent says 'completely helpless'](https://www.livemint.com/news/trends/daughters-school-bus-takes-2-hours-to-cover-2-km-in-bengaluru-parent-says-completely-helpless-11789722057906.html)
 - [Surendra Koli, acquitted in Nithari serial killing case, dies by suicide, say police](https://www.livemint.com/news/india/surinder-koli-acquitted-in-nithari-serial-killing-case-dies-by-suicide-say-police-11789719808466.html)
 - [Sikh truck driver stabbed 17 times in US days after DHS's ‘Mr Singh’ post](https://www.livemint.com/news/world/sikh-truck-driver-stabbed-17-times-in-us-days-after-dhss-mr-singh-post-11789713620737.html)
 - [Philippines says Chinese ship ‘rammed’ govt boat in South China Sea, Beijing alleges violation of international law](https://www.livemint.com/news/world/philippines-says-chinese-ship-rammed-govt-boat-in-south-china-sea-beijing-alleges-violation-of-international-law-11789715500864.html)
 - [Watch: Vicky Kaushal joins iPhone 18 frenzy, poses with Pro Max at Apple BKC](https://www.livemint.com/news/trends/watch-vicky-kaushal-joins-iphone-18-frenzy-poses-with-pro-max-at-apple-bkc-11789717061874.html)
-- [Philippines school shooting: 2 killed, 4 injured in South Cotabato](https://www.livemint.com/news/world/philippines-school-shooting-casualties-feared-at-south-cotabatos-banga-national-high-school-11789717009637.html)
+- [Philippines school shooting: 3 killed, 8 injured in South Cotabato](https://www.livemint.com/news/world/philippines-school-shooting-casualties-feared-at-south-cotabatos-banga-national-high-school-11789717009637.html)
 - [Laid off at 59 after 3 decades at HP, she found a new career in Antarctica: Her story](https://www.livemint.com/news/trends/laid-off-at-59-after-3-decades-at-hp-she-found-a-new-career-in-antarctica-her-story-11789711527648.html)
 - [Petrol at  ₹384, Pakistan introduces austerity measures — one dish at marriage events, markets to be shut by 9 pm](https://www.livemint.com/news/world/petrol-at-rs-384-pakistan-introduces-austerity-measures-one-dish-at-marriage-events-markets-to-be-shut-by-9-pm-11789711969892.html)
-- [US committed war crimes in Iran? Here's what a UN fact-finding mission found](https://www.livemint.com/news/world/us-committed-war-crimes-in-iran-heres-what-a-un-fact-finding-mission-found-iran-war-donald-trump-minab-11789708515625.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,8 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಸಿದ್ದರಾಮಯ್ಯ ಬಲವಾಗಿದ್ದರೆ ಕಾಂಗ್ರೆಸ್ ಪಕ್ಷವೂ ಬಲವಾಗಿರುತ್ತದೆ: ಕೆ.ಎನ್ ರಾಜಣ್ಣ](https://www.varthabharati.in/state/if-siddaramaiah-is-strong-the-congress-party-will-also-be-strong-kn-rajanna-2276049)
+- [ಜಂತರ್ ಮಂತರ್ ಹಲ್ಲೆ ಪ್ರಕರಣ: ಸ್ವಯಂಘೋಷಿತ ಗೋರಕ್ಷಕ ಸ್ವತಂತ್ರ ಭಾರದ್ವಾಜ್ ತಿಹಾರ್‌ ಜೈಲಿನಿಂದ ಬಿಡುಗಡೆ](https://www.varthabharati.in/national/swatantra-bharadwaj-2276048)
 - [Yadagiri | ಯುವತಿ ಮೇಲೆ ಲೈಂಗಿಕ ದೌರ್ಜನ್ಯ ಆರೋಪ: ಇಬ್ಬರು ರೈಲ್ವೆ ಪೊಲೀಸ್ ಸಿಬ್ಬಂದಿ ಸೇರಿ 6 ಮಂದಿ ವಿರುದ್ಧ ಪ್ರಕರಣ ದಾಖಲು](https://www.varthabharati.in/yadagir/yadgir-sexual-assault-case-on-young-woman-fir-against-6-including-two-railway-police-personnel-2276044)
 - [ಕ್ವಾರಿ ಪರವಾನಿಗೆ ನಿಯಮ ಉಲ್ಲಂಘನೆ ಆರೋಪ: ಸಚಿವ ರುದ್ರಪ್ಪ ಲಮಾಣಿಗೆ 3 ಕೋಟಿ ರೂ. ದಂಡ](https://www.varthabharati.in/haveri/quarry-license-rule-violation-allegation-minister-rudrappa-lamani-fined-3-crore-2276043)
 - [ಏರಿದ ಚಿನ್ನದ ಬೆಲೆ; ಇಂದಿನ ದರವೆಷ್ಟು?](https://www.varthabharati.in/National/gold-prices-rise-2276042)
@@ -106,29 +108,29 @@
 - [Bengaluru | ಕರೆ ಸ್ವೀಕರಿಸುತ್ತಿಲ್ಲ ಎಂಬ ಕಾರಣಕ್ಕೆ ಪತ್ನಿಯ ಕೊಲೆ; ಆರೋಪಿ ಪತಿ ಬಂಧನ](https://www.varthabharati.in/bangalore-city/bengaluru-wife-murdered-for-not-answering-phone-call-accused-husband-arrested-2276037)
 - ["ನೀವೆಲ್ಲ ನಿಜವಾಗಿಯೂ ವಿದ್ಯಾರ್ಥಿಗಳೇ?": DUSU ಚುನಾವಣೆ ಉಲ್ಲಂಘನೆ ಕುರಿತು ABVP, NSUIಗೆ ದಿಲ್ಲಿ ಹೈಕೋರ್ಟ್ ತರಾಟೆ](https://www.varthabharati.in/National/dusu-election-2026-abvp-vs-nsui-vs-aisa-sfi-key-candidates-issues-voting-time-and-a-high-court-warning-2276036)
 - [Bengaluru | ಪರಪ್ಪನ ಆಗ್ರಹಾರ ಜೈಲಿನಲ್ಲಿ ಬೇಕರಿಗೆ ಚಾಲನೆ](https://www.varthabharati.in/bangalore-city/bengaluru-bakery-launched-at-parappana-agrahara-jail-2276033)
-- [PHOTOS |  ಮಂಗಳೂರಿನಲ್ಲಿ ಮೊದಲ ಬಾರಿಗೆ ಐತಿಹಾಸಿಕ ಸಚಿವ ಸಂಪುಟ ಸಭೆ : ತೆರೆದ ಬಸ್‌ನಲ್ಲಿ ಪಂಪ್‌ವೆಲ್‌ನಿಂದ ಪ್ರಜಾ ಸೌಧದವರೆಗೆ ಮೆರವಣಿಗೆ](https://www.varthabharati.in/gallery/photos-historic-cabinet-meeting-in-mangaluru-for-the-first-time-procession-in-an-open-top-bus-from-pumpwell-to-praja-soudha-2276032)
-- [ನಿಥಾರಿ ಹತ್ಯೆ ಪ್ರಕರಣದ ಆರೋಪಿ ಸುರೇಂದ್ರ ಕೋಲಿ ಆತ್ಮಹತ್ಯೆ](https://www.varthabharati.in/national/nithari-case-convict-surendra-koli-allegedly-dies-by-suicide-2276031)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Phone (6.0)
-- India (5.8)
 - Emkay Global Financial (5.0)
-- Nithari (4.2)
+- India (4.2)
 - DUSU (3.9)
-- Keralam (3.9)
 - Bengaluru (3.9)
-- Surendra Koli (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
+- Nithari (2.9)
 - Philippines (2.9)
 - Football (2.6)
 - ABVP (2.6)
 - NSUI (2.6)
-- Pakistan (2.6)
+- Video (2.6)
+- Opinion (2.6)
+- Police (2.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [Anjali Srivastava: Building More Reliable and Sustainable Markets for Childhood Cancer Medicines](https://oncodaily.com/voices/anjali-srivastava-588238)
+- [யாரை நோவது?](https://www.dinakaran.com/news/whom_blame/)
 - [రేవంత్‌ ‘కుటుంబ’ రాజకీయం!](https://www.ntnews.com/telangana/telangana-assembly-debate-over-family-definition-in-land-allegations-2513465)
 - [மாணவர் பாரதிதாசன் கூறுவது தவறான தகவல்: தமிழக அரசு](https://www.dinamalar.com/news/tamil-nadu-news/student-bharathidasans-claim-is-false-information-tamil-nadu-government/4325726)
 - [US F-16 fighter jet crashes in Michigan, bursts into flames](https://timesofindia.indiatimes.com/world/us/us-f-16-fighter-jet-crashes-in-michigan-bursts-into-flames/articleshow/134321048.cms)
@@ -137,8 +139,6 @@
 - [US allows Iranian leaders, including President Pezeshkian to attend UN General Assembly in New York amid war](https://www.moneycontrol.com/world/us-allows-iranian-leaders-including-president-pezeshkian-to-attend-un-general-assembly-in-new-york-amid-war-article-14032514.html)
 - [iPhone 18 Pro goes on sale in India today-You can now get it delivered via Blinkit](https://www.livemint.com/technology/tech-news/iphone-18-pro-goes-on-sale-in-india-today-you-can-now-get-it-delivered-in-minutes-via-blinkit-11789674814679.html)
 - [Flowers at 10,600ft: World’s highest twin fields unveiled in Leh](https://timesofindia.indiatimes.com/india/flowers-at-10600ft-worlds-highest-twin-fields-unveiled-in-leh/articleshow/134320977.cms)
-- [वाशिंगटन में जिनपिंग-ट्रंप की मुलाकात से पहले वांग-रुबियो की फोन डिप्लोमेसी, कई मुद्दों पर हुई चर्चा](https://www.aajtak.in/world/story/wang-rubio-telephone-talks-ahead-of-xi-jinping-trump-washington-summit-ntc-acwi-dskc-2645400-2026-09-18)
-- [Hands-On The Apple Watch Series 12 And Ultra 4](https://www.hodinkee.com/articles/the-apple-watch-series-12-and-ultra-4)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
