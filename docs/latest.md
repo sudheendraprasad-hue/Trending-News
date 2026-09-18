@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-18 21:33:46
+# India Trending Report — 2026-09-18 22:01:51
 
 ## Google Trends (India) — top trending searches
-1. [fábio carvalho](https://trends.google.com/trending/rss?geo=IN)
-2. [cnn](https://trends.google.com/trending/rss?geo=IN)
-3. [suvarna keralam lottery results](https://trends.google.com/trending/rss?geo=IN)
-4. [ismael saibari](https://trends.google.com/trending/rss?geo=IN)
+1. [w](https://trends.google.com/trending/rss?geo=IN)
+2. [fábio carvalho](https://trends.google.com/trending/rss?geo=IN)
+3. [cnn](https://trends.google.com/trending/rss?geo=IN)
+4. [suvarna keralam lottery results](https://trends.google.com/trending/rss?geo=IN)
 5. [aditi rao hydari](https://trends.google.com/trending/rss?geo=IN)
 6. [bayern munich vs union berlin standings](https://trends.google.com/trending/rss?geo=IN)
 7. [chelsea f.c.](https://trends.google.com/trending/rss?geo=IN)
 8. [control resonant](https://trends.google.com/trending/rss?geo=IN)
 9. [iit bombay student protest news](https://trends.google.com/trending/rss?geo=IN)
-10. [vs babu](https://trends.google.com/trending/rss?geo=IN)
+10. [mms](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [From Macaca to MAGA: How one needling remark can become a political thorn for Trump](https://timesofindia.indiatimes.com/world/us/from-macaca-to-maga-how-one-needling-remark-can-become-a-political-thorn-for-donald-trump/articleshow/134339423.cms)
+- [Trump announces deal with Denmark for ‘permanent security control’ over Greenland](https://timesofindia.indiatimes.com/world/us/us-reaches-deal-with-denmark-for-permanent-security-control-over-greenland-says-donald-trump/articleshow/134343806.cms)
+- [Asian Games: Trouble in Japan! Indian athletes face housing, food & transport chaos](https://timesofindia.indiatimes.com/sports/asian-games-2026/trouble-in-japan-indian-athletes-face-accommodation-food-and-transport-woes-ahead-of-asian-games-2026/articleshow/134324733.cms)
 - [Sugar retail prices down 10% ahead of festive season, govt eases stock cap](https://timesofindia.indiatimes.com/business/india-business/sugar-retail-prices-down-10-ahead-of-festive-season-govt-eases-stock-cap/articleshow/134343638.cms)
 - [Trump bans news outlets CNN, MS NOW, Politico from White House](https://timesofindia.indiatimes.com/world/us/reporting-fake-news-trump-bars-cnn-ms-now-politico-from-white-house-threatens-more-bans/articleshow/134343443.cms)
+- [Meet Dina McCormick, whom Zuckerberg asked to trade her Meta board seat for a job](https://timesofindia.indiatimes.com/technology/tech-news/born-in-cairo-raised-in-texas-meet-dina-powell-mccormick-the-executive-mark-zuckerberg-asked-to-trade-her-meta-board-seat-for-a-job/articleshow/134331563.cms)
 - [Rajnath flags HAL delays, calls for realistic project timelines](https://timesofindia.indiatimes.com/defence/rajnath-hails-hal-for-delivering-three-aviation-platforms-from-one-stage/articleshow/134340041.cms)
 - [Mamata moves Supreme Court against EC decision to freeze TMC name, symbol](https://timesofindia.indiatimes.com/india/mamata-banerjee-moves-supreme-court-against-eci-decision-to-freeze-tmc-name-symbol/articleshow/134339829.cms)
-- [Meet Dina McCormick, whom Zuckerberg asked to trade her Meta board seat for a job](https://timesofindia.indiatimes.com/technology/tech-news/born-in-cairo-raised-in-texas-meet-dina-powell-mccormick-the-executive-mark-zuckerberg-asked-to-trade-her-meta-board-seat-for-a-job/articleshow/134331563.cms)
 - [Scottish Sikh gets bail in 7 NIA cases after 8 years behind bars](https://timesofindia.indiatimes.com/india/scottish-sikh-gets-bail-in-7-nia-cases-after-8-years-behind-bars/articleshow/134343731.cms)
 - [RBI has record forex reserves, but why is rupee still not out of the woods?](https://timesofindia.indiatimes.com/business/india-business/rbi-has-record-forex-reserves-but-why-is-rupee-still-not-out-of-the-woods/articleshow/134333283.cms)
 - [Asian Games: Karate team leaves without coaches; equestrian riders caught in accred maze](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-karate-team-leaves-without-coaches-equestrian-riders-caught-in-accred-maze/articleshow/134341131.cms)
-- [Dengue vaccine to hit market by first half of 2027](https://timesofindia.indiatimes.com/india/dengue-vaccine-to-hit-market-by-first-half-of-2027/articleshow/134343715.cms)
 
 **NDTV**
 - ["Fiction And Lies": Trump Bans CNN, Politico From White House](https://www.ndtv.com/world-news/donald-trump-bans-cnn-ms-now-politico-from-white-house-12066705#publisher=newsstand)
@@ -49,9 +49,21 @@
 - [Darjeeling honeymoon turns tragic for newlyweds after barbecue fire engulfs woman, incident caught on cam](https://www.hindustantimes.com/india-news/darjeeling-honeymoon-turns-tragic-for-newlyweds-after-bbq-fire-engulfs-woman-incident-caught-on-cam-101789743589886.html)
 - [Delhi: Gang member held with 2kg Pakistan-origin heroin worth  ₹12 crore](https://www.hindustantimes.com/india-news/delhi-gang-member-held-with-2kg-pakistan-origin-heroin-worth-12-crore-101789742451805.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಕರ್ನಾಟಕದ 2ನೇ ಭಾಷೆಯಾಗಿ ತುಳುವಿಗೆ ಸ್ಥಾನಮಾನ: ಸಚಿವ ಸಂಪುಟ ನಿರ್ಣಯ; ದೇಗುಲ, ಮಸೀದಿಗಳಿಗೆ ಭರ್ಜರಿ ಅನುದಾನ ಘೋಷಣೆ](https://vijaykarnataka.com/news/mangaluru/mangaluru-cabinet-decides-grant-tulu-status-of-karnataka-second-language-massive-grants-announced-for-temples-mosques/articleshow/134332621.cms)
+- [ಅರಬ್ಬೀ ಸಮುದ್ರದಲ್ಲಿ ಭಾರತ-ಪಾಕಿಸ್ತಾನ ಯುದ್ಧನೌಕೆಗಳ ನಡುವೆ ಡಿಕ್ಕಿ: ಪಿಎನ್‌ಎಸ್‌ ಹುನೈನ್ ಹುಚ್ಚಾಟಕ್ಕೆ ಭಾರತ ಕಿಡಿ!](https://vijaykarnataka.com/news/india/india-and-pakistan-warship-collision-in-arabian-sea-mea-slams-pns-hunain-unprofessional-manoeuvre/articleshow/134337703.cms)
+- [ಪರ್ವತಗಳನ್ನೇ ಅಲುಗಾಡಿಸಿದ ಉತ್ತರ ಕೊರಿಯಾ ಪರಮಾಣು ಪರೀಕ್ಷೆಗಳು: 1,399 ಭೂಕಂಪನಗಳಿಗೆ ಕಾರಣವಾದ ಕಿಮ್‌ ಜಾಂಗ್‌ ಉನ್‌ ಹಠ!](https://vijaykarnataka.com/news/world/north-koreas-nuclear-tests-triggered-unusual-earthquakes-near-mount-mantap-study-reveals/articleshow/134340141.cms)
+- [ಇನ್ವರ್ಟರ್ ಬಳಿ ಈ 7 ವಸ್ತುಗಳನ್ನು ಇಡಬೇಡಿ; ಓವರ್‌ಹೀಟ್ ಆಗಿ ಬೆಂಕಿ ಅವಘಡಕ್ಕೆ ಕಾರಣವಾಗಬಹುದು!](https://vijaykarnataka.com/lifestyle/relationship/home-inverter-safety-7-things-not-to-place-near-inverter/articleshow/134333698.cms)
+- [ಪಾಕಿಸ್ತಾನದ ಮಸೀದಿಯಲ್ಲಿ ಬಾಂಬ್‌ ಸ್ಪೋಟ: 15 ಪೊಲೀಸ್‌ ಅಧಿಕಾರಿಗಳು ಸೇರಿ 21 ಜನರ ಸಾವು!](https://vijaykarnataka.com/news/world/pakistan-mosque-bomb-blast-including-police-officers-many-feared-dead-during-friday-prayer/articleshow/134339517.cms)
+- [BBK 13 ಮೊಟ್ಟ ಮೊದಲ ಕ್ಯಾಪ್ಟನ್‌ ಸಂಗೀತಾ ಭಟ್‌: ಆಸಿಯಾಗೆ ಮೋಸ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/sangeetha-bhat-is-the-very-1st-captain-of-bbk-13/articleshow/134342915.cms)
+- [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
+- [ಶನಿವಾರ ಪುರುಷರು ಮತ್ತು ಸ್ತ್ರೀಯರು ಮಾಡಬಾರದ ಕೆಲಸಗಳು: ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/saturday-men-and-women-do-not-do-these-mistakes-otherwise-you-will-face-shani-angry/articleshow/134333229.cms)
+- [ಲಾಲ್‌ಬಾಗ್ ರಾಜನ ದರ್ಶನ ಪಡೆದ ರಣವೀರ್ ಸಿಂಗ್; ಸಾಂಪ್ರದಾಯಿಕ ಲುಕ್‌ನಲ್ಲಿ ನಟನ ಮಿಂಚು, ‘ಧುರಂಧರ್’ ಕ್ರೇಜ್ ಮುಂದುವರಿಕೆ!](https://vijaykarnataka.com/lifestyle/fashion/ranveer-singh-lalbaugcha-raja-ganesha-darshan-white-kurta-festival-look/articleshow/134331222.cms)
+- [ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ಜನಿಸುವ ಶಿಶುವಿಗೆ ಉಚಿತ ಚಿನ್ನದ ಉಂಗುರ: ತೆರೆಯಲು ಬಾರದ ಪ್ಯಾಕೆಟ್‌ನಲ್ಲಿ ಬರಲಿದೆ ವಿಜಯ್‌ ಮಾಮಾ ಗಿಫ್ಟ್‌!](https://vijaykarnataka.com/news/chennai/free-gold-ring-for-babies-born-in-tamil-nadu-government-hospitals-joseph-vijay-to-launch-new-scheme/articleshow/134338214.cms)
 
 **The Hindu**
+- [Bihar floods: Nitin Nabin donates three months’ Rajya Sabha MP salary to CM Relief Fund](https://www.thehindu.com/news/national/bihar/bihar-floods-nitin-nabin-donates-three-months-rajya-sabha-mp-salary-to-cm-relief-fund/article71480661.ece)
+- [Meghalaya IPS officer injured in ‘deliberate’ hit by two-wheeler](https://www.thehindu.com/news/national/meghalaya/meghalaya-ips-officer-injured-in-deliberate-hit-by-two-wheeler/article71480783.ece)
 - [Odisha revises schedule for ward delimitation, seat reservation ahead of urban local body polls](https://www.thehindu.com/news/national/odisha/odisha-revises-schedule-for-ward-delimitation-seat-reservation-ahead-of-urban-local-body-polls/article71480589.ece)
 - [Every police station in Bihar to have a Child Help Desk from Oct. 2](https://www.thehindu.com/news/national/bihar/every-police-station-in-bihar-to-have-a-child-help-desk-from-oct-2/article71481323.ece)
 - [We saved Trinamool symbol from disgrace, say leaders of Ritabrata-led faction](https://www.thehindu.com/news/national/west-bengal/we-saved-trinamool-symbol-from-disgrace-say-leaders-of-ritabrata-led-faction/article71481279.ece)
@@ -60,8 +72,6 @@
 - [Taps run dry in Kolkata colony for 50 days; residents allege bias](https://www.thehindu.com/news/national/west-bengal/taps-run-dry-inkolkata-colony-for-50-days-residents-allege-bias/article71479642.ece)
 - [Mamata moves Supreme Court against ECI’s freeze on Trinamool Congress symbol](https://www.thehindu.com/news/national/west-bengal/mamata-banerjee-moves-supreme-court-against-freeze-on-tmc-symbol/article71482413.ece)
 - [HAL hands over two LCA trainer plane to Air Force](https://www.thehindu.com/news/national/hal-hands-over-military-civil-aviation-and-training-platforms/article71480120.ece)
-- [Two more women die in Rajasthan after C-sections; probe committee formed](https://www.thehindu.com/news/national/rajasthan/two-more-women-die-in-rajasthan-after-c-sections-probe-committee-formed/article71482426.ece)
-- [Bangalore Terriers return home after J&K deployment](https://www.thehindu.com/news/national/karnataka/bangalore-terriers-return-home-after-jk-deployment/article71480460.ece)
 
 **Livemint**
 - [Trump bans CNN, MSNOW, and Politico from White House: ‘Reporting FAKE NEWS’, ‘They write fiction and lies’](https://www.livemint.com/news/us-news/trump-blocks-3-media-outlets-from-white-house-reporting-fake-news-they-write-fiction-and-lies-11789764310239.html)
@@ -93,32 +103,32 @@
 - Trump (5.8)
 - Mamata (5.2)
 - Delhi (3.2)
+- Asian Games (3.0)
 - Supreme Court (3.0)
 - Politico (2.9)
+- Indian (2.6)
+- Bihar (2.6)
 - White House (2.0)
-- Asian Games (2.0)
 - Tamil Nadu (2.0)
 - House (1.9)
 - Rajnath (1.6)
 - Congress (1.6)
 - Trinamool (1.6)
 - Iran (1.6)
-- MAGA (1.3)
-- Sugar (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Surinder Koli | ‘నిఠారీ’ హత్యల నిర్దోషి సురీందర్ కోలీ.. హరిద్వార్‌లో ఆత్మహత్య](https://www.ntnews.com/national/surendra-koli-acquitted-in-2006-nithari-killings-dies-by-suicide-in-haridwar-2513745)
-- [തുടർച്ചയായ ഡ്രോൺ-മിസൈൽ ആക്രമണങ്ങൾ; പാകിസ്ഥാന്റെ സഹായം തേടി സൗദി! ഞെട്ടിക്കുന്ന ദൃശ്യങ്ങൾ പുറത്തുവിട്ടു](https://www.expresskerala.com/news/relentless-drone-and-missile-attacks-saudi-arabia-seeks-pakistans-help-shocking-visuals-released.html)
-- [Saayoni Ghosh: "तू इधर उधर की बात ना कर..."; TMCचं नाव अन् चिन्ह गोठवल्यानंतर सयोनी घोष यांची बोलकी प्रतिक्रिया](https://sarkarnama.esakal.com/desh/tu-idhar-udhar-ki-baat-na-kar-tmc-leader-saayoni-ghosh-eloquent-reaction-after-freezing-tmc-name-and-symbol-aau85)
-- [देशाला हादरवणाऱ्या निठारी हत्याकांडातील सुरेंद्र कोलीने उचललं टोकाचं पाऊल; चहाच्या दुकानातच…](https://www.tv9marathi.com/national/nithari-killer-surendra-koli-end-life-ex-convict-found-dead-at-haridwar-tea-stall-1759032.html)
-- [নন্দীগ্রামে ট্যুইস্ট, নবান্নে এলেন মমতা সর্বভারতীয় তৃণমূল কংগ্রেসের প্রার্থী, মুখ্যমন্ত্রীর সঙ্গে কথা](https://bengali.abplive.com/district/nandigram-by-election-mamata-tmc-candidate-sanchita-pradhan-de-come-nabanna-meet-suvendu-adhikari-1193291)
-- [હવામાન વિભાગ આગાહી કરવામાં થાપ ખાઈ ગયું? અમદાવાદમાં હળવા વરસાદની આગાહી વચ્ચે ધોધમાર વરસાદ વરસ્યો](https://www.gujaratsamachar.com/news/ahmedabad/did-the-meteorological-department-fail-to-make-predictions-heavy-rain-lashed-ahmedabad-despite-the-forecast-of-light-rain-10626751766)
-- ['हम ऑफ‍िस जाकर देखेंगे NTA का स‍िस्टम' NEET पेपर लीक पर की सुप्रीम कोर्ट ने सख्त टिप्पणी](https://www.aajtak.in/education/news/story/neet-ug-paper-leak-supreme-court-orders-nta-reforms-inspection-edmm-rpti-2646011-2026-09-18)
-- [प्रेग्नेंसीनंतर कतरिना कैफच्या स्कीनमध्ये झाले बदल; सांगितलं स्वतःची कशी घेते काळजी](https://www.lokmat.com/filmy/bollywood/katrina-kaifs-skin-changed-after-pregnancy-she-told-how-she-takes-care-of-herself-a-a603/)
-- [India beats Japan Asian Games 2026 : टीम इंडियाची सेमीफायनलमध्ये धडक; शेफाली वर्माने 5 ओव्हरमध्ये मॅच संपवली, संपूर्ण मैदान अवाक् झालं, जपानमध्ये काय घडलं?](https://marathi.abplive.com/sports/cricket/india-beats-japan-by-8-wickets-reaches-semifinal-2026-asian-games-cricket-women-shafali-verma-shree-charani-marathi-news-1439505)
-- [ये एक गलती बिगाड़ रहा भारत में वॉटर बैलेंस! गंभीर है यूएन की चेतावनी](https://www.aajtak.in/science/story/india-groundwater-decline-wmo-report-dskc-2645992-2026-09-18)
+- [પાકિસ્તાન: ખૈબર પખ્તુનખ્વામાં નમાજ દરમિયાન 'આત્મઘાતી બ્લાસ્ટ', 15 લોકોના મોત, 50થી વધુ ઈજાગ્રસ્ત](https://www.gujaratsamachar.com/news/international/pakistan-blast-during-prayers-in-khyber-pakhtunkhwa-15-people-killed-more-than-50-injured-14679342779)
+- ['ഇരിങ്ങാലക്കുടയിലെ കൺവെൻഷനെക്കുറിച്ച് അറിയില്ല, ആരെങ്കിലും വിളിച്ചാൽ പാർട്ടി പരിപാടി ആകില്ല',തോമസ് ഉണ്ണിയാടന്‍](https://www.reporterlive.com/topnews/kerala/2026/09/18/thomas-unniyadan-iringalakuda-mla-distances-from-kerala-congress-party)
+- ['একেই বলে ঢাক সহ ঢাকি বিদায়' নাম না করে তৃণমূল সহ মমতাকে কটাক্ষ ভাস্কর ঘোষের](https://indiahood.in/news/west-bengal/tmc-symbol-frozen-mamata-banerjee-bhaskar-ghosh-comment-swm-18-09/421750/)
+- [মাত্র 30 বলে লক্ষ্যমাত্রা হাসিল, ঝড় তুলে এশিয়াডের শেষ চারে ভারতের মেয়েরা](https://www.etvbharat.com/bn/sports/india-women-thrash-japan-by-8-wickets-to-enter-into-the-semi-final-of-asian-games-wbs26091803680)
+- [New OTT Release: ഈ ആഴ്ച ഒടിടിയിലെത്തിയ 6 ചിത്രങ്ങൾ](https://malayalam.indianexpress.com/entertainment/new-ott-releases-this-week-thudakkam-lust-stories-3-irumudi-12548487)
+- [Box Office: फ्राइडे को 'दायरा' की धीमी शुरुआत, जानें- 'मिर्जापुर'- 'हनुमान अंश' का 6.30 बजे का कलेक्शन](https://www.abplive.com/entertainment/bollywood/friday-box-office-collection-18th-september-live-updates-daayra-vibe-mirzapur-the-movie-hanuman-ansh-3190459)
+- [जुमे की नमाज के दौरान पाकिस्तान में भीषण धमाका; 15 के उड़ गए परखच्चे, 50 लोग घायल](https://www.livehindustan.com/international/massive-blast-in-pakistan-during-friday-prayers-15-blown-to-pieces-and-many-injured-201789724671302.html)
+- [Explosive-laden truck rams into mosque in Pakistan's Kohat; 16 dead](https://timesofindia.indiatimes.com/world/pakistan/7-killed-over-30-injured-in-blast-at-mosque-in-pakistan-report/articleshow/134331469.cms)
+- [मिनटों में घर पर डिलिवर होगा iPhone 18 Pro Max और मिलेगा डिस्काउंट भी, यहां मिल रही सर्विस](https://www.aajtak.in/technology/tech-news/story/apple-iphone-18-pro-max-blinkit-delivered-in-10-minute-ttecr-dskc-2645828-2026-09-18)
+- [અમદાવાદ: નાના ચિલોડા નજીક ₹55 લાખના મેફેડ્રોન ડ્રગ્સ સાથે બેંગલુરુનો યુવક ઝડપાયો](https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-bengaluru-youth-caught-with-mephedrone-drugs-worth-indian-rupee55-lakh-near-nana-chiloda-29645414060)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
