@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-18 08:35:53
+# India Trending Report — 2026-09-18 09:01:49
 
 ## Google Trends (India) — top trending searches
-1. [9to5mac](https://trends.google.com/trending/rss?geo=IN)
-2. [ఆల్ రౌండర్](https://trends.google.com/trending/rss?geo=IN)
-3. [nithari case](https://trends.google.com/trending/rss?geo=IN)
-4. [పులి](https://trends.google.com/trending/rss?geo=IN)
-5. [शरद पवार](https://trends.google.com/trending/rss?geo=IN)
-6. [ભારતીય રાષ્ટ્રીય ક્રિકેટ ટીમ](https://trends.google.com/trending/rss?geo=IN)
-7. [resident evil movie 2026](https://trends.google.com/trending/rss?geo=IN)
-8. [পুরুলিয়া](https://trends.google.com/trending/rss?geo=IN)
-9. [aus बनाम zim](https://trends.google.com/trending/rss?geo=IN)
-10. [lottery sambad](https://trends.google.com/trending/rss?geo=IN)
+1. [निवेशक](https://trends.google.com/trending/rss?geo=IN)
+2. [சஞ்சு சாம்சன்](https://trends.google.com/trending/rss?geo=IN)
+3. [கல்வி](https://trends.google.com/trending/rss?geo=IN)
+4. [बिहार](https://trends.google.com/trending/rss?geo=IN)
+5. [చిరంజీవి](https://trends.google.com/trending/rss?geo=IN)
+6. [കേരള](https://trends.google.com/trending/rss?geo=IN)
+7. [ఆల్ రౌండర్](https://trends.google.com/trending/rss?geo=IN)
+8. [9to5mac](https://trends.google.com/trending/rss?geo=IN)
+9. [hang seng index](https://trends.google.com/trending/rss?geo=IN)
+10. [nithari case](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Surinder Koli, acquitted in 2006 Nithari serial killings case, dies by suicide](https://timesofindia.indiatimes.com/india/surendra-koli-acquitted-in-2006-nithari-serial-killings-case-dies-by-suicide/articleshow/134329867.cms)
 - [‘Are you people students?’ Delhi HC flays ABVP, NSUI over DUSU poll violations](https://timesofindia.indiatimes.com/india/are-you-people-students-delhi-hc-flays-abvp-nsui-over-dusu-poll-violations/articleshow/134329664.cms)
 - [FSSAI flags Nestle infant products over false promotional claims, biotin levels](https://timesofindia.indiatimes.com/india/fssai-flags-nestle-infant-products-over-false-promotional-claims-biotin-levels/articleshow/134329113.cms)
+- [Sebi warned on digital gold in 2025; now physical backing and oversight in works](https://timesofindia.indiatimes.com/business/india-business/in-2025-sebi-warned-investors-about-digital-gold-now-your-digital-gold-may-soon-need-physical-gold-to-back-it-government-weighs-rbi-sebi-oversight-for-3-billion-industry/articleshow/134329294.cms)
+- [India’s Chef de Mission admits accommodation crisis, reveals additional rooms booked](https://timesofindia.indiatimes.com/sports/asian-games-2026/definitely-a-shortage-indias-chef-de-mission-admits-accommodation-crisis-reveals-additional-rooms-booked/articleshow/134329493.cms)
+- [Shopify CEO to employees: Don't make AI do all your work](https://timesofindia.indiatimes.com/technology/tech-news/shopify-ceo-to-employees-dont-make-ai-do-all-your-work-it-does-not-add-value-only-/articleshow/134328148.cms)
 - [Sikh truck driver stabbed 17 times in Wyoming days after DHS's ‘Mr Singh’ post](https://timesofindia.indiatimes.com/city/amritsar/sikh-truck-driver-stabbed-17-times-in-wyoming-days-after-dhss-mr-singh-post/articleshow/134314822.cms)
 - [Over 37 lakh appeals pending after Bengal SIR: EC tells Supreme Court](https://timesofindia.indiatimes.com/india/over-37-lakh-appeals-pending-after-bengal-sir-ec-tells-supreme-court/articleshow/134329116.cms)
-- [Anthropic engineers are worshipping a new God, claims report](https://timesofindia.indiatimes.com/technology/tech-news/engineers-at-anthropic-are-worshipping-a-new-god-claims-report-and-why-it-is-worrying-analysis/articleshow/134327197.cms)
 - [Watch: Songs, car rally as men back accused in Gurgaon woman biker hit-and-run case](https://timesofindia.indiatimes.com/city/gurgaon/come-face-to-face-songs-car-rally-as-men-back-gurgaon-woman-biker-hit-and-run-accused-kalyan-singh-bainsla/articleshow/134326739.cms)
 - [One win from history: India’s Quimcy Dsouza storms into Teqball semis at Asian Games](https://timesofindia.indiatimes.com/sports/asian-games-2026/one-win-from-history-indias-quimcy-dsouza-stuns-top-seed-to-storm-into-teqball-semis-at-asian-games/articleshow/134326887.cms)
-- [Raped, stabbed, body dumped: Delhi teen goes to meet friend, he calls 3 others](https://timesofindia.indiatimes.com/city/delhi/3-minors-among-4-held-for-rape-murder-of-16-yr-old/articleshow/134318668.cms)
-- [‘Body kept in car for 7 hours’: How a Gurgaon meeting ended in HR professional’s murder](https://timesofindia.indiatimes.com/city/delhi/body-kept-in-car-for-7-hours-how-a-gurgaon-meeting-with-ex-colleague-ended-in-hr-professionals-murder/articleshow/134323869.cms)
 
 **NDTV**
 - [Punjab Man Reaches Apple's Noida Store At 6 AM, Becomes 1st To Buy iPhone 18 Pro Max](https://www.ndtv.com/india-news/punjab-man-reaches-apples-noida-store-at-6-am-becomes-1st-to-buy-iphone-18-pro-max-12062748#publisher=newsstand)
@@ -38,7 +38,9 @@
 - [Video: Long Queues Outside Apple Stores In India As Sale Of New iPhones Begins](https://www.ndtv.com/india-news/iphone-18-pro-iphone-18-pro-max-india-sale-long-queues-outside-apple-stores-in-india-as-sale-of-iphones-begins-12062817#publisher=newsstand)
 
 **Hindustan Times**
-- [Surendra Koli, acquitted in Nithari case, found hanging at tea stall in Haridwar](https://www.hindustantimes.com/india-news/nithari-accused-surendra-koli-found-hanging-at-tea-stall-in-haridwar-101789718799494.html)
+- [Mamata faction gets football player symbol and new party name; Ritabrata camp gets envelope](https://www.hindustantimes.com/india-news/tmc-faction-symbols-mamata-football-player-symbol-new-party-name-ritabrata-camp-envelope-101789720921106.html)
+- [Surendra Koli found dead in Haridwar months after acquittal in Nithari case: Updates](https://www.hindustantimes.com/india-news/nithari-case-surendra-koli-death-haridwar-live-updates-suicide-probe-noida-2006-noida-serial-killing-uttarakhand-101789719290829.html)
+- [Surendra Koli, acquitted in Nithari serial killing case, found dead in Haridwar](https://www.hindustantimes.com/india-news/nithari-accused-surendra-koli-found-hanging-at-tea-stall-in-haridwar-101789718799494.html)
 - [Mamata-led TMC faction pitches cricket bat, footballer as symbols, 3 party names amid EC freeze](https://www.hindustantimes.com/india-news/mamataled-tmc-faction-pitches-cricket-bat-footballer-as-symbols-3-party-names-amid-ec-freeze-101789717960798.html)
 - [Raghav Chadha comes out in Ravneet Bittu's support as he claims attack on convoy: ‘He holds Z-plus security’](https://www.hindustantimes.com/india-news/raghav-chadha-ravneet-bittu-support-as-he-claims-attack-on-convoy-z-plus-security-punjab-pathankot-bjp-101789715640737.html)
 - [Nandan Nilekani-led panel on NEET reforms to submit first report by month-end: Centre to SC](https://www.hindustantimes.com/india-news/nandan-nilekani-led-panel-on-neet-reforms-to-submit-first-report-by-month-end-centre-to-sc-101789717381320.html)
@@ -46,25 +48,33 @@
 - [Pawar cites El Niño-induced deficient rain in Maharashtra, says declare drought](https://www.hindustantimes.com/india-news/pawar-cites-el-ni-o-induced-deficient-rain-in-maharashtra-says-declare-drought-101789715388126.html)
 - [BJP's Ravneet Bittu alleges attack on convoy by AAP workers in Punjab's Batala, 2 held](https://www.hindustantimes.com/india-news/bjps-ravneet-bittu-alleges-attack-on-convoy-by-aap-workers-in-punjabs-batala-2-apprehended-101789714090933.html)
 - ['Vote theft, govt theft, now party theft': Rahul Gandhi, Kejriwal slam EC over TMC symbol freeze](https://www.hindustantimes.com/india-news/vote-theft-govt-theft-now-party-theft-rahul-gandhi-kejriwal-slam-ec-over-tmc-symbol-freeze-101789709761993.html)
-- [Diyas, Annapurna Yojana, blood donation camps: How BJP celebrated PM Modi's 76th birthday](https://www.hindustantimes.com/india-news/diyas-annapurna-yojana-blood-donation-camps-how-bjp-celebrated-pm-modis-76th-birthday-101789709913636.html)
-- [CBC to hold first regional Sadhana Shrinkhala workshop to begin in Vijayawada on Sept 29](https://www.hindustantimes.com/india-news/cbc-to-hold-first-regional-sadhana-shrinkhala-workshop-to-begin-in-vijayawada-on-sept-29-101789712576315.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ನಟ ಪುನೀತ್‌ ರಾಜ್‌ಕುಮಾರ್‌ಗೆ ಅವಮಾನ: ಯುವಕನಿಗೆ ತರಾಟೆಗೆ ತೆಗೆದುಕೊಂಡ ಹೈಕೋರ್ಟ್‌! ಭವಿಷ್ಯದ ದೃಷ್ಟಿಯಿಂದ ಮಹತ್ವದ ತೀರ್ಪು](https://vijaykarnataka.com/news/karnataka/insult-to-actor-puneeth-rajkumar-high-court-reprimands-youth-a-significant-verdict-for-the-future/articleshow/134330485.cms)
+- [Explained: ಕಡಲ ದನಿಗೆ ಕಿವಿಯಾಗಲಿ ಸಂಪುಟ: ಮುಂಬಯಿನಂತೆ ಆರ್ಥಿಕತೆಯ ಹೆಬ್ಬಾಗಿಲು ಆಗುವುದೇ ಮಂಗಳೂರು?](https://vijaykarnataka.com/news/mangaluru/explained-let-the-dk-shivakumar-led-karnataka-cabinet-heed-the-call-of-the-sea-will-mangaluru-become-an-economic-gateway-like-mumbai/articleshow/134328352.cms)
+- [iPhone 18 Sale: ಬೆಂಗಳೂರು ಸೇರಿ ದೇಶಾದ್ಯಂತ ಆಪಲ್ ಸ್ಟೋರ್‌ ಮುಂದೆ iPhone ಲವರ್ಸ್‌ ಕ್ಯೂ!‌ ಐಫೋನ್‌ 18 ಸಿರೀಸ್‌ ಬೆಲೆ ಎಷ್ಟಿದೆ?](https://vijaykarnataka.com/business/news/iphone-18-pro-18-pro-max-on-sale-apple-lovers-queue-up-across-india-including-bengaluru-know-the-price-details/articleshow/134328097.cms)
+- [ಶತಕ ಬಾರಿಸಿ ಧ್ಯಾನದಲ್ಲಿ ಸಂಭ್ರಮಿಸಿದ ಅಭಿಷೇಕ್ ಶರ್ಮಾ; ಕ್ರೀಡಾಪಟುಗಳಿಗೆ ಧ್ಯಾನ ಏಕೆ ಮುಖ್ಯ?](https://vijaykarnataka.com/lifestyle/health/abhishek-sharma-meditation-celebration-why-athletes-meditate/articleshow/134328292.cms)
+- [ರೇಷನ್‌ ಅಂಗಡಿಗಳ ಸಮಯ ಬದಲಾವಣೆ: ಹೊಸ ವೇಳಾಪಟ್ಟಿ ಬಿಡುಗಡೆ - ಅಕ್ಟೋಬರ್ 1 ರಿಂದ ಅನ್ವಯ; ಮಾಲೀಕರಿಗೆ ಸಚಿವರಿಂದ ಖಡಕ್ ಎಚ್ಚರಿಕೆ](https://vijaykarnataka.com/news/karnataka/change-in-fair-price-shop-timings-new-schedule-released-effective-from-october-1-minister-issues-stern-warning-to-owners/articleshow/134328852.cms)
+- [‘ಅವಿನಾಶ್ ಹೇಳಿದ್ದು ಸರಿ, ಮೊದಲು ಕಾಮನರ್ಸ್‌ನ ಆಚೆ ಹಾಕಿ, ಘನತೆ ಉಳಿಸಿಕೊಳ್ಳಿ’: BBK 13 ವೀಕ್ಷಕರ ಒತ್ತಾಯ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-week-2-viewers-support-avinash-for-his-bold-statement-against-commoners/articleshow/134329918.cms)
+- [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
+- [ಶನಿವಾರ ಶನಿದೋಷಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಧಾರ್ಮಿಕ ಆಚರಣೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/saturday-secretly-do-these-works-to-remove-shani-dosha/articleshow/134329514.cms)
+- [ಅಂದು ಅದ್ದೂರಿ ನಿಶ್ಚಿತಾರ್ಥ, ಈಗ ಬ್ರೇಕಪ್! ಪೃಥ್ವಿ ಶಾ–ಆಕೃತಿ ಬಳಿಕ ಸಂಬಂಧ ಮುರಿದ ನೋವಿನಿಂದ ಹೊರಬರಲು 7 ಮಾರ್ಗಗಳು](https://vijaykarnataka.com/lifestyle/relationship/prithvi-shaw-aakriti-agarwal-broken-engagement-how-to-move-on/articleshow/134325537.cms)
+- [ಪಾಕ್ ಕ್ರಿಕೆಟ್ ಮಾನ ಹರಾಜು: ಮೊಹಮ್ಮದ್ ರಿಜ್ವಾನ್, ಇಮಾಮ್ ಹಕ್ ವಿರುದ್ದ ಬೆಟ್ಟಿಂಗ್, ಮ್ಯಾಚ್ ಫಿಕ್ಸಿಂಗ್ ಆರೋಪ!](https://vijaykarnataka.com/sports/cricket/news/mohammad-rizwan-betting-match-fixing-row-setback-to-pakistan-cricket/articleshow/134328759.cms)
 
 **The Hindu**
+- [Mamata, Ritabrata Trinamool factions allotted new party names, symbols by ECI](https://www.thehindu.com/news/national/west-bengal/mamata-ritabrata-trinamool-factions-allotted-new-party-names-symbols-by-eci/article71480013.ece)
+- [Reporter TV Managing Editor Anto Augustine denied bail in alcohol seizure  case](https://www.thehindu.com/news/national/kerala/reporter-tv-managing-editor-anto-augustine-denied-bail-in-alcohol-seizure-case/article71479937.ece)
+- [India’s crude oil imports in August fall 3%, import bill rises 18%](https://www.thehindu.com/business/Economy/indias-crude-oil-imports-in-august-fall-3-spends-18-more/article71477355.ece)
+- [Ravneet Bittu claims attack on his cavalcade near Punjab's Batala](https://www.thehindu.com/news/national/punjab/ravneet-bittu-claims-attack-on-his-cavalcade-near-punjabs-batala/article71479928.ece)
+- [Under tight security, ‘divine umbrellas’ from Chennai reach Tirupati for Tirumala Brahmotsavams](https://www.thehindu.com/news/national/andhra-pradesh/under-tight-security-divine-umbrellas-from-chennai-reach-tirupati-for-tirumala-brahmotsavams/article71479784.ece)
+- [Meenakshi Temple: The making of Madurai’s greatest landmarks](https://www.thehindu.com/society/history-and-culture/meenakshi-temple-the-making-of-madurais-greatest-landmarks/article71475643.ece)
 - [Ritabrata faction welcomes Trinamool name and symbol freeze; Mamata faction calls move contrary to law](https://www.thehindu.com/news/national/west-bengal/ritabrata-faction-welcomes-trinamool-name-and-symbol-freeze-mamata-faction-calls-move-contrary-to-law/article71479654.ece)
 - [Women’s Andhra Premier League will give female cricketers a platform, says Rayapati Sailaja](https://www.thehindu.com/news/national/andhra-pradesh/womens-andhra-premier-league-will-give-female-cricketers-a-platform-says-rayapati-sailaja/article71477510.ece)
 - [Andhra Pradesh tops country in patient safety with a score of 86, says Health Department](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-tops-country-in-patient-safety-with-a-score-of-86-says-health-department/article71477449.ece)
 - [After Telangana CM’s assurance, govt constitutes high-level committee to resolve impasse over Section 22A lands](https://www.thehindu.com/news/national/telangana/telangana-constitutes-high-level-committee-to-resolve-impasse-over-section-22a-lands/article71479795.ece)
-- [Jana Sena and TDP leaders light lamps in Vijayawada to mark Modi’s 25 years in public service](https://www.thehindu.com/news/national/andhra-pradesh/jana-sena-and-tdp-leaders-light-lamps-in-vijayawada-to-mark-modis-25-years-in-public-service/article71477311.ece)
-- [Andhra Pradesh Congress party’s Political Affairs Committee to meet in Vijayawada on September 19](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-congress-partys-political-affairs-committee-to-meet-in-vijayawada-on-september-19/article71477304.ece)
-- [Kearney study recommends measures to improve Tamil Nadu’s fiscal capacity](https://www.thehindu.com/news/cities/Coimbatore/kearney-study-recommends-measures-to-improve-tamil-nadus-fiscal-capacity/article71479748.ece)
-- [ED raids 7 locations in Jharkhand State Co-op bank 'fraud' case](https://www.thehindu.com/news/national/jharkhand/ed-raids-7-locations-in-jharkhand-state-co-op-bank-fraud-case/article71479266.ece)
-- [Defected MPs 'gaddar team', TMC is led by Mamata: Saugata Roy](https://www.thehindu.com/news/national/west-bengal/defected-mps-gaddar-team-tmc-is-led-by-mamata-saugata-roy/article71108430.ece)
-- [Congress backs Mamata as ECI freezes name and symbol of Trinamool Congress](https://www.thehindu.com/news/cities/kolkata/congress-backs-mamata-as-eci-freezes-name-and-symbol-of-trinamool-congress/article71479542.ece)
 
 **Livemint**
-- [Surinder Koli, acquitted in Nithari serial killing case, dies by suicide, say police](https://www.livemint.com/news/india/surinder-koli-acquitted-in-nithari-serial-killing-case-dies-by-suicide-say-police-11789719808466.html)
+- [Surendra Koli, acquitted in Nithari serial killing case, dies by suicide, say police](https://www.livemint.com/news/india/surinder-koli-acquitted-in-nithari-serial-killing-case-dies-by-suicide-say-police-11789719808466.html)
 - [Sikh truck driver stabbed 17 times in US days after DHS's ‘Mr Singh’ post](https://www.livemint.com/news/world/sikh-truck-driver-stabbed-17-times-in-us-days-after-dhss-mr-singh-post-11789713620737.html)
 - [Philippines says Chinese ship ‘rammed’ govt boat in South China Sea, Beijing alleges violation of international law](https://www.livemint.com/news/world/philippines-says-chinese-ship-rammed-govt-boat-in-south-china-sea-beijing-alleges-violation-of-international-law-11789715500864.html)
 - [Watch: Vicky Kaushal joins iPhone 18 frenzy, poses with Pro Max at Apple BKC](https://www.livemint.com/news/trends/watch-vicky-kaushal-joins-iphone-18-frenzy-poses-with-pro-max-at-apple-bkc-11789717061874.html)
@@ -75,9 +85,22 @@
 - [US approves UNGA visa for Iran’s Pezeshkian amid war: What is Washington’s UN obligation?](https://www.livemint.com/news/world/us-approves-unga-visa-for-iran-s-pezeshkian-amid-war-what-is-washington-s-un-obligation-11789705397102.html)
 - [Karnataka movie tickets to cost more from Sept 30: What the new 2% cess means for moviegoers](https://www.livemint.com/news/india/karnataka-movie-tickets-to-cost-more-from-sept-30-what-the-new-2-cess-means-for-moviegoers-11789706673398.html)
 
-**Moneycontrol** — _unavailable_
+**Moneycontrol**
+- [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
+- [Buy Tejas Networks; target of Rs 1100: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html)
+- [Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html)
+- [Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html)
+- [Reduce Wipro; target of Rs 410: ICICI Securities](https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html)
+- [Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html)
+- [Buy Patel Engineering; target of Rs 80: ICICI Direct](https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html)
+- [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [Bengaluru | ಪರಪ್ಪನ ಆಗ್ರಹಾರ ಜೈಲಿನಲ್ಲಿ ಬೇಕರಿಗೆ ಚಾಲನೆ](https://www.varthabharati.in/bangalore-city/bengaluru-bakery-launched-at-parappana-agrahara-jail-2276033)
+- [PHOTOS |  ಮಂಗಳೂರಿನಲ್ಲಿ ಮೊದಲ ಬಾರಿಗೆ ಐತಿಹಾಸಿಕ ಸಚಿವ ಸಂಪುಟ ಸಭೆ : ತೆರೆದ ಬಸ್‌ನಲ್ಲಿ ಪಂಪ್‌ವೆಲ್‌ನಿಂದ ಪ್ರಜಾ ಸೌಧದವರೆಗೆ ಮೆರವಣಿಗೆ](https://www.varthabharati.in/gallery/photos-historic-cabinet-meeting-in-mangaluru-for-the-first-time-procession-in-an-open-top-bus-from-pumpwell-to-praja-soudha-2276032)
+- [ನಿಥಾರಿ ಹತ್ಯೆ ಪ್ರಕರಣದ ಆರೋಪಿ ಸುರೇಂದ್ರ ಕೋಲಿ ಆತ್ಮಹತ್ಯೆ](https://www.varthabharati.in/National/nithari-case-convict-surendra-koli-allegedly-dies-by-suicide-2276031)
 - [ಮಂಗಳೂರಿನ ಪ್ರಜಾ ಸೌಧದಲ್ಲಿ ರಾಜ್ಯ ಸಚಿವ ಸಂಪುಟ ಸಭೆ ಆರಂಭ](https://www.varthabharati.in/DakshinaKannada/state-cabinet-meeting-begins-at-praja-soudha-in-mangaluru-2276030)
 - [Manipal | ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಮಾದಕ ವಸ್ತುಗಳ ಮಾರಾಟ ಮಾಡುತ್ತಿದ್ದ ಇಬ್ಬರ ಬಂಧನ](https://www.varthabharati.in/udupi/manipal-two-arrested-for-selling-drugs-to-students-2276028)
 - [Mangaluru | ಪ್ರಜಾಸೌಧದಲ್ಲಿ ಮುಖ್ಯಮಂತ್ರಿ, ಸಚಿವರಿಗೆ ಸಾಂಪ್ರದಾಯಿಕ ಪೂರ್ಣಕುಂಭ ಸ್ವಾಗತ](https://www.varthabharati.in/dakshinakannada/mangaluru-traditional-purna-kumbha-welcome-for-cm-and-ministers-at-praja-soudha-2276026)
@@ -85,26 +108,23 @@
 - [ಕದ್ರಿ ಶ್ರೀ ಮಂಜುನಾಥ ದೇವಸ್ಥಾನಕ್ಕೆ ಸಿಎಂ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್ ಭೇಟಿ](https://www.varthabharati.in/DakshinaKannada/cm-dk-shivakumar-visits-kadri-sri-manjunatha-temple-2276021)
 - [ಗುರುಗ್ರಾಮ ಹಿಟ್ ಆ್ಯಂಡ್ ರನ್ ಪ್ರಕರಣ | ಆರೋಪಿಯನ್ನು ಬೆಂಬಲಿಸಿ ಕಾರು ರ‍್ಯಾಲಿ : ವಿಡಿಯೋ ವೈರಲ್‌](https://www.varthabharati.in/National/gurugram-hit-and-run-case-car-rally-in-support-of-the-accused-2276020)
 - [Basavakalyan : ಶಿಷ್ಟಾಚಾರ ಉಲ್ಲಂಘನೆ ಆರೋಪ; DHO, THO ಅಮಾನತು](https://www.varthabharati.in/bidar/basavakalyan-allegation-of-protocol-violation-dho-and-tho-suspended-2276017)
-- [Australia | ರಸ್ತೆ ಅಪಘಾತದಲ್ಲಿ ಆಂಧ್ರಪ್ರದೇಶ ಮೂಲದ ಇಬ್ಬರು ಮಹಿಳೆಯರು ಮೃತ್ಯು](https://www.varthabharati.in/National/andhra-woman-visiting-son-in-australia-killed-with-daughter-in-law-in-car-crash-2276016)
-- [ಮದ್ಯ ಸೇವಿಸಿ ನ್ಯಾಯಾಲಯಕ್ಕೆ ಬಂದ ಆರೋಪ; ವಕೀಲನಿಗೆ ಜೈಲು ಶಿಕ್ಷೆ](https://www.varthabharati.in/bangalore-city/lawyer-sentenced-to-jail-for-appearing-in-court-after-consuming-alcohol-2276014)
-- [ದ್ರಾವಿಡ ಚಳುವಳಿಯ ಪಿತಾಮಹ ಪೆರಿಯಾರ್‌ ಗೆ ಅಣ್ಣಾಮಲೈ ನಮನ; ಸಾಮಾಜಿಕ ಜಾಲತಾಣದಲ್ಲಿ ಪರ-ವಿರೋಧ ಚರ್ಚೆ](https://www.varthabharati.in/National/annamalai-pays-tribute-to-periyar-the-father-of-the-dravidian-movement-sparks-debate-on-social-media-2276013)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Nithari (3.9)
-- Vijayawada (3.9)
+- Nithari (5.2)
+- Emkay Global Financial (5.0)
+- India (4.8)
+- Phone (4.0)
 - Mamata (3.9)
+- Surendra Koli (3.0)
+- ICICI Securities (3.0)
+- target (3.0)
 - What (2.9)
+- Ritabrata (2.9)
 - Sikh (2.6)
 - DHS's (2.6)
 - Watch (2.6)
-- Gurgaon (2.6)
 - Opinion (2.6)
 - Video (2.6)
-- Sept (2.6)
-- Philippines (2.6)
-- Iran (2.6)
-- India (2.2)
-- Surinder Koli (2.0)
 
 ## NewsAPI top headlines (India)
 
