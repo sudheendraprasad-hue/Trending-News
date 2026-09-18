@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-18 01:33:09
+# India Trending Report — 2026-09-18 02:01:59
 
 ## Google Trends (India) — top trending searches
-1. [కుక్క](https://trends.google.com/trending/rss?geo=IN)
-2. [सुनील जाखड़](https://trends.google.com/trending/rss?geo=IN)
-3. [gaw vs abf](https://trends.google.com/trending/rss?geo=IN)
-4. [flamengo vs independiente del valle](https://trends.google.com/trending/rss?geo=IN)
-5. [pahalgam](https://trends.google.com/trending/rss?geo=IN)
-6. [ಯೋಗ](https://trends.google.com/trending/rss?geo=IN)
-7. [gold silver price](https://trends.google.com/trending/rss?geo=IN)
-8. [புரட்டாசி](https://trends.google.com/trending/rss?geo=IN)
-9. [திண்டுக்கல் சீனிவாசன்](https://trends.google.com/trending/rss?geo=IN)
-10. [manorama online](https://trends.google.com/trending/rss?geo=IN)
+1. [18 september 2026](https://trends.google.com/trending/rss?geo=IN)
+2. [nitk surathkal](https://trends.google.com/trending/rss?geo=IN)
+3. [હવામાન](https://trends.google.com/trending/rss?geo=IN)
+4. [marseille](https://trends.google.com/trending/rss?geo=IN)
+5. [சேமிப்பு](https://trends.google.com/trending/rss?geo=IN)
+6. [కుక్క](https://trends.google.com/trending/rss?geo=IN)
+7. [सुनील जाखड़](https://trends.google.com/trending/rss?geo=IN)
+8. [gaw vs abf](https://trends.google.com/trending/rss?geo=IN)
+9. [pahalgam](https://trends.google.com/trending/rss?geo=IN)
+10. [flamengo vs independiente del valle](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - ['In talks with payment platforms to ensure UPI fee not passed on to consumers': Govt](https://timesofindia.indiatimes.com/business/india-business/upi-fee-government-payment-gateways-discuss-ways-to-stop-merchants-passing-burden-to-consumers/articleshow/134321080.cms)
+- [In-laws 'plotted' B'luru woman’s abduction; how 3 men tracked her hubby](https://timesofindia.indiatimes.com/city/bengaluru/big-twist-in-bengaluru-kidnapping-case-in-laws-plotted-womans-abduction-how-3-men-tracked-her-husband/articleshow/134323643.cms)
+- [96 vs 86: Abhishek leaves Sooryavanshi chasing as six-hitting race takes a twist](https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharma-vs-vaibhav-sooryavanshi-who-is-winning-the-six-hitting-battle/articleshow/134317246.cms)
 - [Four days after DHS’ ‘Mr Singh’ post, Sikh trucker stabbed in US](https://timesofindia.indiatimes.com/city/amritsar/sikh-truck-driver-stabbed-17-times-in-wyoming-days-after-dhss-mr-singh-post/articleshow/134314822.cms)
+- [New Green Card rules from September 18: Full list of categories affected](https://timesofindia.indiatimes.com/technology/tech-news/starting-september-18-new-green-card-rules-coming-into-effect-full-list-of-categories-that-are-subject-to-the-change-and-those-that-are-not/articleshow/134305577.cms)
 - [Flowers at 10,600ft: World’s highest twin fields unveiled in Leh](https://timesofindia.indiatimes.com/india/flowers-at-10600ft-worlds-highest-twin-fields-unveiled-in-leh/articleshow/134320977.cms)
 - [Tata group dispute: Panel sought 5-year term for Chandrasekaran early September](https://timesofindia.indiatimes.com/business/india-business/tata-group-dispute-panel-sought-5-year-term-for-chandrasekaran-early-september/articleshow/134323455.cms)
 - ['My biggest bet would surely be the doubles’: Neha on India’s TT medal hopes at Asiad](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-my-biggest-bet-would-surely-be-the-doubles-neha-aggarwal-sharma-on-indias-table-tennis-medal-hopes/articleshow/134318539.cms)
-- [New Green Card rules from September 18: Full list of categories affected](https://timesofindia.indiatimes.com/technology/tech-news/starting-september-18-new-green-card-rules-coming-into-effect-full-list-of-categories-that-are-subject-to-the-change-and-those-that-are-not/articleshow/134305577.cms)
 - [Centre agrees to lower cut-off for NEET-SS admission](https://timesofindia.indiatimes.com/india/centre-agrees-to-lower-cut-off-for-neet-ss-admission/articleshow/134323519.cms)
 - ['I'm a ghost': Indian athlete details Asian Games mess, later deletes video](https://timesofindia.indiatimes.com/sports/asian-games-2026/im-a-total-ghost-in-their-system-indian-mma-athlete-details-asian-games-accommodation-mess-later-deletes-video/articleshow/134318062.cms)
-- [India's crude imports down 3% since August last year but bill up 18%](https://timesofindia.indiatimes.com/business/india-business/indias-crude-imports-down-3-since-august-last-year-but-bill-up-18/articleshow/134323155.cms)
-- [US F-16 fighter jet crashes in Michigan, bursts into flames](https://timesofindia.indiatimes.com/world/us/us-f-16-fighter-jet-crashes-in-michigan-bursts-into-flames/articleshow/134321048.cms)
 
 **NDTV**
 - [Opinion: Opinion | US Has Now Weaponised India's Russia Oil Dependence. Can New Delhi Cope?](https://www.ndtv.com/opinion/us-has-weaponised-indias-russia-oil-dependence-now-what-12059199#publisher=newsstand)
@@ -38,6 +38,8 @@
 - [FBI Foils Russian Plot To Kill Dissident In Washington](https://www.ndtv.com/world-news/fbi-foils-russian-plot-to-kill-dissident-in-washington-12058631#publisher=newsstand)
 
 **Hindustan Times**
+- [Banks closed today: Check if your state has a holiday on September 18](https://www.hindustantimes.com/india-news/banks-holiday-today-shillong-meghalaya-check-if-banks-closed-in-your-state-on-september-18-101789653850927.html)
+- [Highly decomposed body, attacked by dogs: How Delhi teen's gangrape and murder came to light](https://www.hindustantimes.com/india-news/highly-decomposed-body-attacked-by-dogs-how-delhi-teens-gangrape-and-murder-came-to-light-101789693671605.html)
 - [Went to see ‘friend’, gang-raped, stabbed over 6 times: Teen found dead in Delhi](https://www.hindustantimes.com/india-news/went-to-see-friend-gang-raped-stabbed-over-6-times-teen-found-dead-in-delhi-swaroop-nagar-rape-murder-101789692435702.html)
 - [ECI reserves TMC symbol amid dispute; asks Mamata, Ritabrata factions to pick new names, symbols ahead of bypolls](https://www.hindustantimes.com/india-news/eci-reserves-tmc-symbol-amid-dispute-asks-mamata-banerjee-ritabrata-faction-to-pick-new-names-symbols-bengal-bypolls-101789663057317.html)
 - [India secures EU steel quota, seafood and shipbreaking concessions ahead of FTA](https://www.hindustantimes.com/india-news/india-secures-eu-steel-quota-seafood-and-shipbreaking-concessions-ahead-of-fta-101789662037393.html)
@@ -46,8 +48,6 @@
 - [Veteran Congress leader Sudarsana Natchiappan dies at 79](https://www.hindustantimes.com/india-news/veteran-congress-leader-sudarsana-natchiappan-dies-at-79-101789657580577.html)
 - [Assam detains 27 Bangladeshi nationals in joint operation with railway police](https://www.hindustantimes.com/india-news/assam-detains-27-bangladeshi-nationals-in-joint-operation-with-railway-police-101789657115249.html)
 - [Assam Foreigners Tribunal member accused of demanding bribe for bail arrested](https://www.hindustantimes.com/india-news/assam-foreigners-tribunal-member-accused-of-demanding-bribe-for-bail-arrested-101789656755348.html)
-- ['Politically motivated': Uddhav Thackeray denies link to Disha Salian case, alleges ‘character assassination’](https://www.hindustantimes.com/india-news/uddhav-thackeray-denies-link-to-disha-salian-case-alleges-character-assassination-aaditya-thackeray-101789654312613.html)
-- [Kerala child rights panel calls for gender-inclusive rules, bars schools from penalising boys over hair length](https://www.hindustantimes.com/india-news/kerala-child-rights-panel-calls-for-gender-inclusive-rules-bars-schools-from-penalising-boys-over-hair-length-101789650937608.html)
 
 **Vijay Karnataka**
 - [ಕೌಟುಂಬಿಕ ಕಲಹಕ್ಕೆ ಪತ್ನಿ ಮೇಲೆ ಆ್ಯಸಿಡ್‌ ಎರಚಿ, ಮಚ್ಚಿನಿಂದ ಕೊಲ್ಲಲು ಯತ್ನಿಸಿದ ಪತಿ: ರಕ್ಕಸ ಪತಿಯ ದೌಜರ್ನ್ಯಕ್ಕೆ ಬೆಚ್ಚಿದ ಜೆ.ಪಿ.ನಗರ!](https://vijaykarnataka.com/news/bengaluru-city/man-throws-acid-an-attempts-murder-on-wife-in-jp-nagar-due-to-domestic-dispute-arrested/articleshow/134323560.cms)
@@ -55,13 +55,15 @@
 - [ಪ್ಯಾಕ್ಡ್ ಆಹಾರಕ್ಕೆ FSSAI ಬ್ರೇಕ್: ಅಧಿಕ ಕೊಬ್ಬು, ಸಕ್ಕರೆ, ಉಪ್ಪಿದ್ದರೆ ಮುಂಭಾಗದಲ್ಲೇ ರೆಡ್‌ ಸಿಗ್ನಲ್ ಲೇಬಲ್ ಕಡ್ಡಾಯಕ್ಕೆ ಪ್ರಸ್ತಾವನೆ!](https://vijaykarnataka.com/city/udupi/fssai-plans-to-impose-mandatory-red-label-on-high-fat-sugar-salty-packed-foods/articleshow/134323300.cms)
 - [ಮೊದಲ ಪ್ರೀತಿಯ ನೆನಪು ಯಾಕೆ ಎಂದಿಗೂ ಕಾಡುತ್ತದೆ? ಮನಃಶಾಸ್ತ್ರ ಹೇಳುವ ಪ್ರಮುಖ ಕಾರಣಗಳು](https://vijaykarnataka.com/lifestyle/relationship/first-love-memories-psychology-why-never-fade/articleshow/134310755.cms)
 - [ಸತ್ಯನಾರಾಯಣ ಪೂಜೆ ನೆರವೇರಿಸಿದ ಹಾವೇರಿ ಪೊಲೀಸ್‌ Dysp ಸಮೀವುಲ್ಲಾ ದಂಪತಿ; ಭಾವೈಕ್ಯತೆ ಸಂದೇಶ!](https://vijaykarnataka.com/news/haveri/haveri-police-dysp-sameevulla-and-his-wife-muslim-perform-satyanarayana-puja-a-message-of-communal-harmony/articleshow/134315279.cms)
-- [ʻಎಂ.ಎಸ್‌ ಸುಬ್ಬುಲಕ್ಷ್ಮಿ ಬಯೋಪಿಕ್‌ಗೆ ರಶ್ಮಿಕಾ ಸೆಟ್‌ ಆಗಲ್ಲ..ʼ! ಶಿವಶ್ರೀ, ವಿದ್ಯಾ ಬಾಲನ್‌ ಸೂಕ್ತ ಎಂದ ನೆಟ್ಟಿಗರು](https://vijaykarnataka.com/entertainment/news/ms-subbulakshmi-biopic-rashmika-mandanna-role-sparks-debate/articleshow/134316596.cms)
+- [ʻಇಂತಹ ದರಿದ್ರದವರ ಜೊತೆಗೆ ನಾನಿರಲ್ಲ..ʼ! ಮಂಜು ವಿರುದ್ದ ಅವಿನಾಶ್‌ ತೀವ್ರ ಅಸಮಾಧಾನ!](https://vijaykarnataka.com/entertainment/news/avinash-decides-to-quit-bigg-boss-kannada-due-to-manja/articleshow/134318428.cms)
 - [ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ಮನೆಯಲ್ಲಿ ಬೆಳ್ಳಿ ಸಿಂಹಾಸನದ ಮೇಲೆ ಗಣಪ; ಸೀರೆಯಲ್ಲಿ ಸಾನಿಯಾ, ಪಿಂಕ್ ಸೂಟ್‌ನಲ್ಲಿ ಸಾರಾ ಮಿಂಚಿಂಗ್!](https://vijaykarnataka.com/lifestyle/fashion/sara-tendulkar-pink-suit-saniya-chandok-saree-ganesh-chaturthi/articleshow/134277830.cms)
-- [ಸೂರ್ಯಾಸ್ತದ ನಂತರ ಮಾಡಬಾರದೆಂದು ಹೇಳಲಾಗುವ ಕೆಲಸಗಳು ಯಾವುವು.?](https://vijaykarnataka.com/religion/hinduism/try-to-avoid-doing-these-works-after-sunset/articleshow/134312494.cms)
+- [ಸ್ವಸ್ತಿ ವಾಚನ ಮಂತ್ರ ಎಂದರೇನು.? ಈ ಮಂತ್ರವನ್ನೇಕೆ ಪಠಿಸಲಾಗುತ್ತೆ.?](https://vijaykarnataka.com/religion/pooja-vidhana/know-what-is-swasti-vachan-mantra-and-why-we-chant-this-mantra/articleshow/134323723.cms)
 - [76ರಲ್ಲೂ ಫಿಟ್ ಆಗಿರುವ ಮೋದಿ: ದೈನಂದಿನ ಡಯಟ್, ಯೋಗ, ಫಿಟ್ನೆಸ್ ರೂಟೀನ್ ಹೇಗಿದೆ?](https://vijaykarnataka.com/lifestyle/fitness/pm-modi-birthday-daily-diet-yoga-fitness-routine-at-76/articleshow/134305327.cms)
 - [ಬೆಂಗಳೂರಿನ ಜಯನಗರದಲ್ಲಿ AI ಸ್ಮಾರ್ಟ್‌ ಪಾರ್ಕಿಂಗ್‌: ವಾಹನ ನಿಲ್ಲಿಸಿದ 5 ನಿಮಿಷಗಳೊಳಗೆ ಡಿಜಿಟಲ್‌ ಪಾವತಿ ಕಡ್ಡಾಯ!](https://vijaykarnataka.com/news/bengaluru-city/ai-based-smart-parking-implementation-in-jayanagar-bengaluru/articleshow/134318047.cms)
 
 **The Hindu**
+- [FDA chief Tukaram flags huge price gaps in medical devices, seeks Centre’s intervention](https://www.thehindu.com/news/national/maharashtra/fda-chief-tukaram-flags-huge-price-gaps-in-medical-devices-seeks-centres-intervention/article71479199.ece)
+- [HAL airport becomes first in India to operationalise RNP CAT H helicopter approach](https://www.thehindu.com/news/national/karnataka/hal-airport-becomes-first-in-india-to-operationalise-rnp-cat-h-helicopter-approach/article71317031.ece)
 - [After brief disruption, officials restart talks for Bangladesh PM Tarique Rahman’s India visit](https://www.thehindu.com/news/national/after-brief-disruption-officials-restart-talks-for-bangladesh-pm-tarique-rahmans-india-visit/article71477603.ece)
 - [Former Minister Ram Asrey Kushwaha joins Samajwadi Party](https://www.thehindu.com/news/national/uttar-pradesh/former-minister-ram-asrey-kushwaha-joins-samajwadi-party/article71477363.ece)
 - [Rajasthan order asking students to join PM Modi's birthday celebrations sparks controversy](https://www.thehindu.com/news/national/rajasthan/rajasthan-order-asking-students-to-join-pm-modis-birthday-celebrations-sparks-controversy/article71477162.ece)
@@ -70,10 +72,9 @@
 - [West Bengal govt. participates in PM Modi’s birthday celebrations; life-size statue unveiled at BJP office in Kolkata](https://www.thehindu.com/news/cities/kolkata/west-bengal-govt-participates-in-pm-modis-birthday-celebrations-life-size-statue-unveiled-at-bjp-office-in-kolkata/article71476992.ece)
 - [On PM’s birthday, J&K CM Omar Abdullah wishes for Statehood restoration](https://www.thehindu.com/news/national/jammu-and-kashmir/on-pms-birthday-jk-cm-omar-abdullah-wishes-for-statehood-restoration/article71477428.ece)
 - [Bihar CM, other BJP leaders take part in Ashirwad Ka Diya event to mark PM’s birthday](https://www.thehindu.com/news/national/bihar/bihar-cm-other-bjp-leaders-take-part-in-ashirwad-ka-diya-event-to-mark-pms-birthday/article71477125.ece)
-- [No culture of cut-money in Bengal anymore: PM Modi](https://www.thehindu.com/news/cities/kolkata/no-culture-of-cut-money-in-bengal-anymore-pm-modi/article71477468.ece)
-- [FM Nirmala Sitharaman meets Nepalese counterpart Wagle, discusses flood recovery](https://www.thehindu.com/news/national/fm-nirmala-sitharaman-meets-nepalese-counterpart-wagle-discusses-flood-recovery/article71478365.ece)
 
 **Livemint**
+- [US clears $24.3 billion F-35 sale to Saudi Arabia: Why the deal matters and China factor explained](https://www.livemint.com/news/us-news/us-clears-24-3-billion-f-35-sale-to-saudi-arabia-why-the-deal-matters-and-china-factor-explained-houthis-mecca-iran-11789694100601.html)
 - ['Crops and food prices face heat': El Nino puts India on course for driest monsoon in 17 years](https://www.livemint.com/news/india/food-inflation-faces-fresh-risk-el-nino-puts-india-on-course-for-driest-monsoon-in-17-years-11789693192963.html)
 - [US-Iran war LIVE Updates: Trump says have 'big decision coming up', weighs major Iran escalation; IRGC strikes in Hormuz](https://www.livemint.com/news/us-news/usiran-war-live-updates-trump-big-decision-coming-up-weighs-major-iran-escalation-irgc-strait-of-hormuz-peace-deal-chin-11789694070600.html)
 - [DUSU Elections today: ABVP vs NSUI vs AISA-SFI - Key candidates, issues, voting time and a high court warning](https://www.livemint.com/news/india/dusu-elections-2026-abvp-vs-nsui-vs-aisa-sfi-key-candidates-issues-voting-time-and-a-high-court-warning-rss-satya-11789691484888.html)
@@ -83,7 +84,6 @@
 - [Intense Heat Strains Power Grids for 100 Million North Americans](https://www.livemint.com/news/us-news/intense-heat-strains-power-grids-for-100-million-north-americans-11789671135819.html)
 - [Travis Scott, PinkPantheress, Keith Richards: GTA 6 unveils first six singles from upcoming album, check artists](https://www.livemint.com/news/trends/travis-scott-pinkpantheress-keith-richards-gta-6-unveils-first-six-singles-from-upcoming-album-check-artists-11789667791054.html)
 - [Canada steps up India trade talks, fourth CEPA round underway](https://www.livemint.com/news/india-canada-trade-deal-cepa-fourth-round-talks-11789665940175.html)
-- [Passport rules 2026: Children under 15 get new validity terms; Check revised fresh, renewal and tatkaal fees](https://www.livemint.com/news/india/passport-rules-2026-children-under-15-get-new-validity-terms-check-revised-fresh-renewal-and-tatkaal-fees-11789668853494.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ವೈಭವ್ ಸೂರ್ಯವಂಶಿ ಅವಕಾಶಕ್ಕಾಗಿ ಕಾಯಬೇಕಾಗುತ್ತದೆ : ಗೌತಮ್ ಗಂಭೀರ್](https://www.varthabharati.in/sports/vaibhav-suryavanshi-will-have-to-wait-for-an-opportunity-gautam-gambhir-2275971)
 - [ರೋಬೋಟ್ ನಿರ್ಮಿಸುವ ಫ್ಯಾಕ್ಟರಿ; ಚೀನಾದಲ್ಲಿ 10 ನಿಮಿಷಕ್ಕೆ ಒಂದು ಹ್ಯುಮನಾಯ್ಡ್ ಸಿದ್ಧ!](https://www.varthabharati.in/vishesha-varadigalu/china-opens-new-humanoid-factory-where-robots-build-new-robot-every-10-minutes-2275969)
 - [ಪಾಕಿಸ್ತಾನಿ ನೌಕೆ ಭಾರತೀಯ ಹಡಗಿಗೆ ಡಿಕ್ಕಿ: ಇದು ಉಲ್ಲಂಘಿಸಿದ 1991ರ ಒಪ್ಪಂದ ಯಾವುದು?](https://www.varthabharati.in/vishesha-varadigalu/pakistani-ship-collides-with-indian-vessel-the-1991-treaty-it-violated-2275968)
 - [ಹೊಸ Apple iPhone ಖರೀದಿಸಲು ಬಯಸುವವರು ನಕಲಿ ಆಫರ್ ವೆಬ್ ಸೈಟ್ ಗಳ ಬಗ್ಗೆ ಜಾಗರೂಕರಾಗಿರಿ: ಯಾವೆಲ್ಲ ರೀತಿಯಲ್ಲಿ ವಂಚನೆ ನಡೆಯುತ್ತದೆ?](https://www.varthabharati.in/vishesha-varadigalu/new-iphones-fake-deals-how-scammers-are-cashing-in-on-apples-latest-launch-2275967)
@@ -107,38 +108,37 @@
 - [ಅಮೆರಿಕದ ಗೃಹಭದ್ರತಾ ಇಲಾಖೆಯ ‘ಮಿಸ್ಟರ್ ಸಿಂಗ್’ ಪೋಸ್ಟ್ ಬೆನ್ನಲ್ಲೇ ಸಿಖ್ ಚಾಲಕನಿಗೆ 17 ಬಾರಿ ಚಾಕು ಇರಿತ](https://www.varthabharati.in/international/sikh-truck-driver-stabbed-17-times-in-wyoming-days-after-dhss-mr-singh-post-2275960)
 - [ಕೆನಡಾವನ್ನು ಯುರೋಪಿಯನ್‌ ಒಕ್ಕೂಟದೊಂದಿಗೆ ವಿಶೇಷ ಸಹಭಾಗಿತ್ವ ಹೊಂದಿರುವ ರಾಷ್ಟ್ರವನ್ನಾಗಿಸುವ ಪ್ರಸ್ತಾವ; ಪ್ರಧಾನಿ ಕಾರ್ನಿಗೆ ಸಂಸದರಿಂದ ಎದ್ದು ನಿಂತು ಗೌರವ](https://www.varthabharati.in/international/eus-von-der-leyen-wants-canada-to-become-blocs-first-associate-member-2275959)
 - [ಸೌದಿ ಅರೇಬಿಯಾ | ಡ್ರೋನ್ ಅವಶೇಷ ಬಿದ್ದು ಓರ್ವ ವ್ಯಕ್ತಿ ಮೃತ್ಯು](https://www.varthabharati.in/international/saudi-arabia-2275958)
-- [ಅಫ್ಘಾನಿಸ್ತಾನದ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ 127 ರನ್ ಗಳ ಭರ್ಜರಿ ಜಯ; 3–0 ಅಂತರದಲ್ಲಿ ಸರಣಿ ಕ್ಲೀನ್‌ ಸ್ವೀಪ್‌](https://www.varthabharati.in/sports/massive-127-run-win-for-india-against-afghanistan-series-cleansweep-at-30-margin-2275956)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (7.8)
+- India (9.1)
 - Emkay Global Financial (5.0)
-- Delhi (4.2)
-- PM Modi (3.0)
+- Delhi (4.5)
+- September (3.9)
 - ICICI Securities (3.0)
 - target (3.0)
-- September (2.6)
+- Centre (2.6)
 - Opinion (2.6)
 - Trump (2.6)
 - Iran (2.6)
+- PM Modi (2.0)
 - Buy Bajaj Finance (2.0)
 - Indian (1.9)
-- India's (1.9)
 - Russian (1.6)
 - Assam (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [चीन ने खोली नई ह्यूमनॉइड फैक्ट्री, हर 1 घंटे में बनते हैं 6 नए रोबोट](https://www.aajtak.in/technology/tech-news/story/china-ubtech-humanoid-robot-factory-10-minutes-new-robot-prym-dskc-2644837-2026-09-17)
-- [మోదీ జన్మదినం.. రక్తదానం చేసిన ఢిల్లీ సీఎం రేఖా గుప్తా](https://www.ap7am.com/tn/880440/rekha-gupta-donates-blood-on-pm-narendra-modi-birthday)
-- [என்ன காரணம்? விளக்கும் ரியல் எஸ்டேட் நிபுணர்கள்](https://www.bbc.com/tamil/articles/cmd68wye3j6eo)
-- [India vs Afghanistan Live: বিশ্বরেকর্ড অভিষেকের, মাত্র ৩০ বলে সেঞ্চুরি, ভারত বনাম আফগানিস্তান ম্যাচের লাইভ আপডেট](https://bengali.abplive.com/sports/cricket/india-vs-afghanistan-live-scorecard-shreyas-iyer-ibrahim-zadran-ind-vs-afg-3rd-t20-match-updates-bcci-indian-cricket-team-1193192)
-- [ఒక్క నిర్ణయం.. ఎన్నో ప్రాణాలకు ఆశ..! ప్రధాని మోదీ పుట్టినరోజు వేళ కీలక ప్రతిజ్ఞ చేసిన ఢిల్లీ సీఎం!](https://tv9telugu.com/national/delhi-cm-rekha-gupta-organ-donation-pledge-campaign-delhi-portal-1913668.html)
-- [Prithvi Shaw: अवघ्या सहा महिन्यांत पृथ्वी शॉचा साखरपुडा मोडला; आकृती अग्रवाल म्हणाली, 'आमचं नातं संपलं...'](https://saamtv.esakal.com/sports/cricketer-prithvi-shaw-engagement-with-akrati-agarwal-broken-in-6-months-only-akrati-post-viral-on-social-media-svk01)
-- ['मक्का की सुरक्षा के लिए समझौते की जरूरत नहीं', माहौल देख PAK ने बदल लिया पैंतरा](https://www.aajtak.in/world/story/pakistan-khawaja-asif-mecca-pact-mecca-attack-houthi-saudi-arab-ntcppl-dskc-2645103-2026-09-17)
-- [અત્યાધુનિક વિમાનો, એરક્રાફ્ટો, હેલિકોપ્ટર... આવતીકાલે વાયુસેનાના કાફલામાં સામેલ થશે નવા સ્વદેશી યુદ્ધ સાથી](https://www.gujaratsamachar.com/news/national/hal-to-hand-over-lca-tejas-jets-trainer-aircraft-and-dhruv-helicopters-to-iaf-tomorrow-62837806154)
-- [IND vs AFG live streaming today: How to watch the 3rd T20I live in India?](https://www.business-standard.com/cricket/news/ind-vs-afg-live-streaming-today-how-to-watch-the-3rd-t20i-live-in-india-126091701011_1.html)
-- [ഇറാനിലെ യുദ്ധം അവസാനത്തോടടുക്കുന്നുവെന്ന് ഡോണൾഡ് ട്രംപ്, മെക്ക ആക്രമണത്തിൽ ഇറാന്റെ ന്യായീകരണം](https://www.asianetnews.com/international-news/donald-trump-says-the-war-in-iran-is-nearing-its-end-articleshow-q7e2ger)
+- [പ്രധാനമന്ത്രിയു‌ടെ പിറന്നാൾ ബംഗാളിൽ ഇനി ‘അന്നപൂർണ ദിവസ്’; വനിതകൾക്കു സാമ്പത്തിക സുരക്ഷയെന്ന് മോദി](https://www.manoramaonline.com/news/latest-news/2026/09/17/pm-modi-annapurna-yojana-bengal-women-empowerment.html)
+- [IND vs AFG 3rd T20I : श्रेयस अय्यर एका बदलासह मैदानात उतरला; पण वैभव सूर्यवंशी पुन्हा बाकावरच!](https://www.lokmat.com/cricket/news/ind-vs-afg-3rd-t20i-vaibhav-suryavanshi-misses-out-once-again-yash-thakur-comes-iin-afghans-opt-to-bowl-a-a1004/)
+- [IND vs AFG | టాస్ గెలిచిన అఫ్గనిస్థాన్‌.. వైభవ్‌ మళ్లీ బెంచ్ మీదే..!](https://www.ntnews.com/sports/afghanistan-won-toss-vaibhav-benched-again-2513100)
+- [ક્રિકેટર પૃથ્વી શૉની લવ લાઈફમાં મોટો ઝટકો: મંગેતર આકૃતિ અગ્રવાલે સંબંધ તોડ્યો, પોસ્ટ વાયરલ](https://www.gujaratsamachar.com/news/sports/prithvi-shaws-engagement-called-off-indian-cricketers-fiancee-aakriti-agarwal-confirms-writes-a-long-post-on-social-media-77235440008)
+- [IND vs AFG: बिना वैभव सूर्यवंशी के निकल गई पूरी सीरीज, दिल्ली के दर्शकों की ख्वाहिश रह गई अधूरी](https://www.aajtak.in/sports/cricket/story/ind-vs-afg-vaibhav-sooryavanshi-misses-out-once-again-yash-thakur-comes-aksp-dskc-2645153-2026-09-17)
+- [AFG vs IND: वैभव सूर्यवंशी को फिर किया गया नजरअंदाज, कप्‍तान श्रेयस अय्यर ने प्‍लेइंग 11 में किया केवल एक बदलाव](https://www.jagran.com/cricket/headlines-vaibhav-sooryavanshi-ignored-as-shreyas-iyer-announce-one-change-in-playing-11-40376541.html)
+- [Trump’s rare gesture to Xi Jinping: US President to personally welcome Chinese leader at airport](https://www.moneycontrol.com/world/trump-s-rare-gesture-to-xi-jinping-us-president-to-personally-welcome-chinese-leader-at-airport-article-14032320.html)
+- [பாஜக அரசு யுபிஐ பணப் பரிமாற்றத்திற்கு கட்டணம் விதிக்கப் போவதாக அறிவித்தது ஏன்?](https://www.bbc.com/tamil/articles/cm8e3gp26j8ko)
+- [IND vs AFG LIVE Score, 3rd T20I: Abhishek Sharma, Sanju Samson in action for India](https://www.livemint.com/sports/cricket-news/ind-vs-afg-3rd-t20i-live-score-live-india-national-cricket-team-vs-afghanistan-national-cricket-team-scorecard-17-sept-11789639752851.html)
+- [China asks Iran to rein in Houthis after Saudi Arabia seeks help: Report](https://timesofindia.indiatimes.com/world/china/china-asks-iran-to-rein-in-houthis-after-saudi-arabia-seeks-help-report/articleshow/134313345.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
