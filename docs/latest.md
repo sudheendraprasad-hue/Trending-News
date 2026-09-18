@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-18 18:36:17
+# India Trending Report — 2026-09-18 19:02:32
 
 ## Google Trends (India) — top trending searches
-1. [espanyol vs elche](https://trends.google.com/trending/rss?geo=IN)
-2. [methanol](https://trends.google.com/trending/rss?geo=IN)
-3. [brentford vs chelsea](https://trends.google.com/trending/rss?geo=IN)
-4. [monaco vs lens](https://trends.google.com/trending/rss?geo=IN)
-5. [iit bombay](https://trends.google.com/trending/rss?geo=IN)
-6. [पश्चिमी विक्षोभ](https://trends.google.com/trending/rss?geo=IN)
-7. [air india express](https://trends.google.com/trending/rss?geo=IN)
-8. [bayern vs union berlin](https://trends.google.com/trending/rss?geo=IN)
-9. [alavés vs barcelona](https://trends.google.com/trending/rss?geo=IN)
-10. [man city vs liverpool](https://trends.google.com/trending/rss?geo=IN)
+1. [bundesliga](https://trends.google.com/trending/rss?geo=IN)
+2. [danny welbeck](https://trends.google.com/trending/rss?geo=IN)
+3. [espanyol vs elche](https://trends.google.com/trending/rss?geo=IN)
+4. [methanol](https://trends.google.com/trending/rss?geo=IN)
+5. [brentford vs chelsea](https://trends.google.com/trending/rss?geo=IN)
+6. [monaco vs lens](https://trends.google.com/trending/rss?geo=IN)
+7. [iit bombay](https://trends.google.com/trending/rss?geo=IN)
+8. [पश्चिमी विक्षोभ](https://trends.google.com/trending/rss?geo=IN)
+9. [air india express](https://trends.google.com/trending/rss?geo=IN)
+10. [bayern vs union berlin](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -21,9 +21,9 @@
 - [Kyiv comes under missile attack, explosions heard across Ukrainian capital](https://timesofindia.indiatimes.com/world/europe/kyiv-comes-under-missile-attack-explosions-heard-across-ukrainian-capital/articleshow/134339977.cms)
 - [Meet Dina McCormick, whom Zuckerberg asked to trade her Meta board seat for a job](https://timesofindia.indiatimes.com/technology/tech-news/born-in-cairo-raised-in-texas-meet-dina-powell-mccormick-the-executive-mark-zuckerberg-asked-to-trade-her-meta-board-seat-for-a-job/articleshow/134331563.cms)
 - [He wrongly showed Rs 9.6 lakh EPF in ITR, taxman added it; ITAT gives full relief](https://timesofindia.indiatimes.com/business/india-business/rs-9-6-lakh-epf-interest-mistakenly-shown-by-him-in-itr-but-taxman-added-it-to-income-itat-mumbai-orders-full-relief/articleshow/134337856.cms)
+- [Birthday murder: Man killed for smearing cake on friend’s face; two held](https://timesofindia.indiatimes.com/india/birthday-murder-man-killed-for-smearing-cake-on-friends-face-two-held/articleshow/134342356.cms)
 - [UN report finds widespread sexual violence in Ukraine war, 89% of cases linked to Russia](https://timesofindia.indiatimes.com/world/europe/un-report-finds-widespread-sexual-violence-in-ukraine-war-89-of-cases-linked-to-russia/articleshow/134340276.cms)
 - ['Fifteen days is a long time': BCCI plays wait-and-watch on Ajit Agarkar's future](https://timesofindia.indiatimes.com/sports/cricket/news/fifteen-days-is-a-long-time-bcci-plays-wait-and-watch-on-ajit-agarkars-future/articleshow/134338343.cms)
-- [From Macaca to MAGA: How one needling remark can become a political thorn for Trump](https://timesofindia.indiatimes.com/world/us/from-macaca-to-maga-how-one-needling-remark-can-become-a-political-thorn-for-donald-trump/articleshow/134339423.cms)
 
 **NDTV**
 - [CBI Case Against Reliance Capital, Anil Ambani Over LIC Investment 'Fraud'](https://www.ndtv.com/india-news/cbi-case-against-reliance-capital-anil-ambani-over-lic-investment-fraud-12066479#publisher=newsstand)
@@ -49,29 +49,19 @@
 - [Darjeeling honeymoon turns tragic for newlyweds after barbecue fire engulfs woman, incident caught on cam](https://www.hindustantimes.com/india-news/darjeeling-honeymoon-turns-tragic-for-newlyweds-after-bbq-fire-engulfs-woman-incident-caught-on-cam-101789743589886.html)
 - [Delhi: Gang member held with 2kg Pakistan-origin heroin worth  ₹12 crore](https://www.hindustantimes.com/india-news/delhi-gang-member-held-with-2kg-pakistan-origin-heroin-worth-12-crore-101789742451805.html)
 
-**Vijay Karnataka**
-- [ಕರ್ನಾಟಕದ 2ನೇ ಭಾಷೆಯಾಗಿ ತುಳುವಿಗೆ ಸ್ಥಾನಮಾನ: ಸಚಿವ ಸಂಪುಟ ನಿರ್ಣಯ; ದೇಗುಲ, ಮಸೀದಿಗಳಿಗೆ ಭರ್ಜರಿ ಅನುದಾನ ಘೋಷಣೆ](https://vijaykarnataka.com/news/mangaluru/mangaluru-cabinet-decides-grant-tulu-status-of-karnataka-second-language-massive-grants-announced-for-temples-mosques/articleshow/134332621.cms)
-- [ಅರಬ್ಬೀ ಸಮುದ್ರದಲ್ಲಿ ಭಾರತ-ಪಾಕಿಸ್ತಾನ ಯುದ್ಧನೌಕೆಗಳ ನಡುವೆ ಡಿಕ್ಕಿ: ಪಿಎನ್‌ಎಸ್‌ ಹುನೈನ್ ಹುಚ್ಚಾಟಕ್ಕೆ ಭಾರತ ಕಿಡಿ!](https://vijaykarnataka.com/news/india/india-and-pakistan-warship-collision-in-arabian-sea-mea-slams-pns-hunain-unprofessional-manoeuvre/articleshow/134337703.cms)
-- [ಪರ್ವತಗಳನ್ನೇ ಅಲುಗಾಡಿಸಿದ ಉತ್ತರ ಕೊರಿಯಾ ಪರಮಾಣು ಪರೀಕ್ಷೆಗಳು: 1,399 ಭೂಕಂಪನಗಳಿಗೆ ಕಾರಣವಾದ ಕಿಮ್‌ ಜಾಂಗ್‌ ಉನ್‌ ಹಠ!](https://vijaykarnataka.com/news/world/north-koreas-nuclear-tests-triggered-unusual-earthquakes-near-mount-mantap-study-reveals/articleshow/134340141.cms)
-- [ಇನ್ವರ್ಟರ್ ಬಳಿ ಈ 7 ವಸ್ತುಗಳನ್ನು ಇಡಬೇಡಿ; ಓವರ್‌ಹೀಟ್ ಆಗಿ ಬೆಂಕಿ ಅವಘಡಕ್ಕೆ ಕಾರಣವಾಗಬಹುದು!](https://vijaykarnataka.com/lifestyle/relationship/home-inverter-safety-7-things-not-to-place-near-inverter/articleshow/134333698.cms)
-- [ಪಾಕಿಸ್ತಾನದ ಮಸೀದಿಯಲ್ಲಿ ಬಾಂಬ್‌ ಸ್ಪೋಟ: 15 ಪೊಲೀಸ್‌ ಅಧಿಕಾರಿಗಳು ಸೇರಿ 21 ಜನರ ಸಾವು!](https://vijaykarnataka.com/news/world/pakistan-mosque-bomb-blast-including-police-officers-many-feared-dead-during-friday-prayer/articleshow/134339517.cms)
-- [ಶಿವಣ್ಣ ಜೊತೆಗಿರೋದಕ್ಕೆ ನಾನು & ನಮ್ಮ ಕುಟುಂಬ ಆರಾಮಾಗಿದ್ದೀವಿ - ಮೇಕಪ್ ನಾಣಿ ಸಂದರ್ಶನ](https://vijaykarnataka.com/video/entertainment/shivanna-at-40-special-series-makeup-artist-nani-speaks-about-shiva-rajkumar/videoshow/134339885.cms)
-- [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
-- [ಶನಿವಾರ ಪುರುಷರು ಮತ್ತು ಸ್ತ್ರೀಯರು ಮಾಡಬಾರದ ಕೆಲಸಗಳು: ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/saturday-men-and-women-do-not-do-these-mistakes-otherwise-you-will-face-shani-angry/articleshow/134333229.cms)
-- [ಲಾಲ್‌ಬಾಗ್ ರಾಜನ ದರ್ಶನ ಪಡೆದ ರಣವೀರ್ ಸಿಂಗ್; ಸಾಂಪ್ರದಾಯಿಕ ಲುಕ್‌ನಲ್ಲಿ ನಟನ ಮಿಂಚು, ‘ಧುರಂಧರ್’ ಕ್ರೇಜ್ ಮುಂದುವರಿಕೆ!](https://vijaykarnataka.com/lifestyle/fashion/ranveer-singh-lalbaugcha-raja-ganesha-darshan-white-kurta-festival-look/articleshow/134331222.cms)
-- [ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ಜನಿಸುವ ಶಿಶುವಿಗೆ ಉಚಿತ ಚಿನ್ನದ ಉಂಗುರ: ತೆರೆಯಲು ಬಾರದ ಪ್ಯಾಕೆಟ್‌ನಲ್ಲಿ ಬರಲಿದೆ ವಿಜಯ್‌ ಮಾಮಾ ಗಿಫ್ಟ್‌!](https://vijaykarnataka.com/news/chennai/free-gold-ring-for-babies-born-in-tamil-nadu-government-hospitals-joseph-vijay-to-launch-new-scheme/articleshow/134338214.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [Welcome showers greet devotees ahead of Garuda Seva in Tirupati on Sept. 19](https://www.thehindu.com/news/national/andhra-pradesh/welcome-showers-greet-devotees-ahead-of-garuda-seva-in-tirupati-on-sept-19/article71481763.ece)
+- [Amendments made to industrial land allotment regulations in Keralam](https://www.thehindu.com/news/national/kerala/amendments-made-to-industrial-land-allotment-regulations-in-keralam/article71480001.ece)
+- [Akbaruddin Owaisi calls for action on waqf land encroachment issues](https://www.thehindu.com/news/national/telangana/akbaruddin-owaisi-calls-for-action-on-waqf-land-encroachment-issues/article71481950.ece)
+- [‘Higher Education Dept. will prioritise recruiting teachers to courses with high student enrolment’](https://www.thehindu.com/news/national/tamil-nadu/higher-education-dept-will-prioritise-recruiting-teachers-to-courses-with-high-student-enrolment/article71481542.ece)
+- [No subsidised LPG refills for users yet to complete eKYC](https://www.thehindu.com/news/cities/Hyderabad/no-subsidised-lpg-refills-for-users-yet-to-complete-ekyc/article71482353.ece)
+- [Uttam blames previous govt. failure on irrigation, El Nino for ryots’ plight now](https://www.thehindu.com/news/national/telangana/uttam-blames-previous-govt-failure-on-irrigation-el-nino-for-ryots-plight-now/article71482034.ece)
+- [Nandigram bypoll: Congress candidate Milan Pradhan arrested hours after getting Mamata’s support](https://www.thehindu.com/news/national/west-bengal/nandigram-bypoll-row-congress-candidate-milan-pradhan-arrested/article71480889.ece)
 - [No support for any party in Assembly bypoll: PMK](https://www.thehindu.com/news/national/tamil-nadu/no-support-for-any-party-in-assembly-bypoll-pmk/article71481993.ece)
 - [Southern States urged to tap horticulture, export potential](https://www.thehindu.com/news/national/telangana/southern-states-urged-to-tap-horticulture-export-potential/article71482281.ece)
 - [Interests of a political party being served, says Mamata after losing TMC name and symbol; vows to fight back](https://www.thehindu.com/news/national/west-bengal/mamata-after-losing-tmc-name-and-symbol-vows-to-fight-back/article71481628.ece)
-- [Telangana took pro-active measures to tackle El Nino, says Deputy CM](https://www.thehindu.com/news/national/telangana/telangana-took-pro-active-measures-to-tackle-el-nino-says-deputy-cm/article71482163.ece)
-- [South African High Commission official visits Andhra University](https://www.thehindu.com/news/national/andhra-pradesh/south-african-high-commission-official-visits-andhra-university/article71481522.ece)
-- [AU distance education admission deadline extended](https://www.thehindu.com/news/national/andhra-pradesh/au-distance-education-admission-deadline-extended/article71481558.ece)
-- [BioMed Bharat 2026: MP calls upon youth to drive MedTech innovation](https://www.thehindu.com/news/national/andhra-pradesh/biomed-bharat-2026-mp-calls-upon-youth-to-drive-medtech-innovation/article71481673.ece)
-- [Excise seizes suspected banned tobacco products from Perumbavoor](https://www.thehindu.com/news/national/kerala/excise-seizes-suspected-banned-tobacco-products-from-perumbavoor/article71481914.ece)
-- [Charaka to hold Gandhi Santhe on Sept. 26 and 27 at Heggodu in Sagara taluk](https://www.thehindu.com/news/national/karnataka/charaka-to-hold-gandhi-santhe-on-sept-26-27-at-heggodu-in-sagara-taluk/article71480751.ece)
-- [SFI, KSU claim victory in union elections at polytechnic colleges in Ernakulam](https://www.thehindu.com/news/national/kerala/sfi-ksu-claim-victory-in-union-elections-at-polytechnic-colleges-in-ernakulam/article71481715.ece)
 
 **Livemint**
 - [Tamil Nadu gold ring for newborns: CM Vijay to launch scheme on Sep 28; 1.28L pieces ready for phase 1—check eligibility](https://www.livemint.com/news/india/tamil-nadu-gold-ring-for-newborns-cm-vijay-to-launch-scheme-on-sep-28-1-28l-pieces-ready-for-phase-1-check-eligibility-11789752385693.html)
@@ -88,6 +78,7 @@
 **Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
+- [‘ಸೆಮಿಕಾನ್ ಇಂಡಿಯಾ’ 2ನೇ ದಿನ 10 ಕಂಪೆನಿಗಳ ಜತೆ ಸಚಿವ ಎಂ.ಬಿ.ಪಾಟೀಲ್ ಮಾತುಕತೆ](https://www.varthabharati.in/state/minister-mb-patil-holds-talks-with-10-companies-on-day-2-of-semicon-india-2276213)
 - [ಮೈಸೂರು‌: ಶೋಭಾಯಾತ್ರೆ ವೇಳೆ ಪ್ರಚೋದನಕಾರಿ ಭಾಷಣ ಮಾಡಿದ ಪ್ರತಾಪ್ ಸಿಂಹ](https://www.varthabharati.in/mysore/pratap-simha-makes-provocative-speech-during-mysuru-shobha-yatra-2276212)
 - [ಪೊಲೀಸ್ ಇಲಾಖೆ ಸಭೆಗಳಲ್ಲಿ ದಲಿತ ಪದ ಬಳಸದಂತೆ ಸೂಚನೆ](https://www.varthabharati.in/state/police-meetings-officials-instructed-not-to-use-the-term-dalit-2276210)
 - [Tamil Nadu | ಉದ್ಯಮಿ ವೀರಮಣಿ ಲೈಂಗಿಕ ಹಗರಣ: ಲೋಕಲ್ ‘Epstein filesʼ ಎಂದ ಜನರು!](https://www.varthabharati.in/national/tamil-nadu-businessman-veeramani-sex-scandal-people-label-it-local-epstein-files-2276209)
@@ -97,20 +88,19 @@
 - [Kalaburagi | ಜಮೀನು ವಿವಾದ : ಅಣ್ಣನಿಂದಲೇ ತಮ್ಮನ ಹತ್ಯೆ](https://www.varthabharati.in/kalaburagi/kalaburagi-land-dispute-younger-brother-murdered-by-elder-brother-2276205)
 - [ಭಟ್ಕಳದಲ್ಲಿ ಗಣೇಶ ಮೆರವಣಿಗೆ ವೇಳೆ ಕಲ್ಲು ತೂರಾಟದ ಆರೋಪ; 6 ಬಾಲಕರು ಪೊಲೀಸ್ ವಶಕ್ಕೆ](https://www.varthabharati.in/uttara-kannada/bhatkal-police-detain-six-minor-boys-over-alleged-stone-pelting-during-ganesh-procession-2276204)
 - [ಅಂಡರ್-19 ಏಕದಿನ ಪಂದ್ಯ: ಆಸ್ಟ್ರೇಲಿಯ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ 7 ರನ್ ಜಯ](https://www.varthabharati.in/sports/under-19-odi-india-beats-australia-by-7-runs-2276203)
-- [ಏಶ್ಯನ್ ಗೇಮ್ಸ್‌ | ಪುರುಷರ ಕ್ರಿಕೆಟ್ ತಂಡಕ್ಕೆ ಪ್ರತ್ಯೇಕ ವಸತಿ ವ್ಯವಸ್ಥೆ ಮಾಡಿದ ಬಿಸಿಸಿಐ](https://www.varthabharati.in/sports/asian-games-2276202)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Mamata (5.8)
+- Mamata (7.1)
+- Congress (2.9)
 - Russia (2.6)
-- Trump (2.6)
 - Report (2.6)
+- Nandigram (2.6)
 - Supreme Court (2.0)
 - Asian Games (2.0)
 - Tamil Nadu (2.0)
 - Saudi (1.6)
 - What (1.6)
 - India (1.6)
-- Congress (1.6)
 - Delhi (1.6)
 - Graveyard (1.3)
 - Houthis (1.3)
@@ -119,16 +109,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [കലഹിച്ച് തോമസ് ഉണ്ണിയാടാൻ , സമാന്തരപരിപാടി സംഘടിപ്പിച്ച് പുറത്ത് പോകാൻ നീക്കം, ജോസഫ് ​ഗ്രൂപ്പിൽ അതൃപ്തി](https://www.asianetnews.com/kerala-news/thomas-unniyadan-at-odds-move-to-leave-after-organizing-a-parallel-event-discontent-within-the-joseph-faction-articleshow-fl7s1df)
-- [4 કલાકમાં 172 તાલુકામાં મેઘરાજાની ધડબડાટી, સૌથી વધુ અરવલ્લી-અમદાવાદમાં ખાબક્યો વરસાદ](https://www.gujaratsamachar.com/news/ahmedabad/meghraja-lashed-172-talukas-in-4-hours-maximum-rainfall-was-recorded-in-aravalli-ahmedabad-43607005821)
-- [Delhi News : बलात्कार करुन शेतात फेकलेला पीडितेचा मृतदेह कुत्र्यांनी खाल्ला, ऐकूनच थरकाप उडवणारी घटना](https://www.tv9marathi.com/national/delhi-teen-girl-incident-minors-body-eaten-by-dogs-1758950.html)
-- [46 साल की मां, 22 का बेटा; दोनों ने 100 से अधिक बार बनाए शारीरिक संबंध, कैसे हुआ खुलासा](https://www.livehindustan.com/international/mother-and-son-engaged-in-sexual-relations-over-100-times-how-it-was-revealed-201789712652610.html)
-- [India’s flag bearers revealed: Manu Bhaker, Tajinderpal Singh Toor to lead contingent at Asian Games opening ceremony](https://timesofindia.indiatimes.com/sports/asian-games-2026/indias-flag-bearers-revealed-manu-bhaker-tajinderpal-singh-toor-to-lead-contingent-at-asian-games-opening-ceremony/articleshow/134327751.cms)
-- [Here’s when ColorOS 17 update is coming to your Oppo, OnePlus, or Realme phone](https://www.gizmochina.com/2026/09/18/coloros-17-update-timeline-for-oppo-oneplus-realme-phones/)
-- [અમદાવાદના નિકોલમાં રોડ પર પાણી ભરાતા ‘સ્વિમિંગ પૂલ’ જેવી સ્થિતિ, વિકાસના દાવા વચ્ચે વરસાદી પાણી ભરાવાની સમસ્યા](https://www.gujaratsamachar.com/news/ahmedabad/a-swimming-pool-like-situation-as-water-fills-the-road-in-nikol-ahmedabad-a-problem-of-rainwater-filling-up-amidst-claims-of-development-48384316214)
-- [Israel seeks 'compensation' from US for Saudi F-35 deal, will buy new weapons](https://www.jpost.com/israel-news/defense-news/article-909029)
-- [അ‌ടുത്ത മാസം 6 ലക്ഷം റേഷൻ കാർഡ് റദ്ദായേക്കും; റേഷൻ വാങ്ങാത്തവ മരവിപ്പിക്കും](https://www.manoramaonline.com/news/latest-news/2026/09/18/smart-pds-kerala-ration-card-changes.html)
-- [Gujarat Rain Live Update: રાજ્યમાં ધોધમાર વરસાદ, અમદાવાદમાં જળબંબાકાર, 4 જિલ્લામાં રેડ એલર્ટ](https://gujarati.abplive.com/news/gujarat/stay-tuned-for-live-updates-on-the-rainfall-situation-in-gujarat-991451)
+- [Pune Shirur Crime : दुचाकीवरून जाताना तरुणावर हल्ला, पुण्यातील शिरुरमध्ये भल्यापहाटे तरुणाला संपवलं; हल्ल्याचा थरार CCTV मध्ये कैद](https://maharashtratimes.com/maharashtra/pune-news/pune-shirur-hari-gangavane-youth-shot-dead-while-riding-bike/articleshow/134328417.cms)
+- [iPhone 18 Pro के लिए लंबी लाइन, सोनू सूद बोले 'बदलाव के लिए भी लगाओ कतार'](https://www.aajtak.in/technology/tech-news/story/sonu-sood-iphone-18-pro-real-upgrade-better-society-prym-dskc-2645778-2026-09-18)
+- [Asian Games 2026: এশিয়ান গেমসের আগেই নাগোয়ায় চরম অব্যবস্থা, অতিরিক্ত ঘর বুক করতে হল ভারতকে! বিমানবন্দরে ঘণ্টার পর ঘণ্টা অপেক্ষা ক্রীড়াবিদদের](https://bengali.indianexpress.com/sports/asian-games-2026-indian-athletes-nagoya-accommodation-transport-problems-12547540)
+- [হঠাৎ হাসপাতালে কিম কার্দাশিয়ান! কী হয়েছিল?](https://eisamay.com/entertainment/kim-kardashian-hospitalised-esophagitis-diagnosis-father-cancer/200544180.cms)
+- [KTR | కోట్లు కొల్లగొట్టామంటున్నావు కదా.. రూ.వెయ్యి కోట్లు ఇచ్చి, మొత్తం తీసుకో’: కేటీఆర్](https://www.ntnews.com/telangana/ktr-challenges-to-revanth-reddy-to-give-1000-crore-and-take-one-lakh-assets-of-kcr-2513662)
+- [Abhishek Sharma reveals Yuvraj Singh's message after scoring record-breaking ton against Afghanistan](https://timesofindia.indiatimes.com/sports/cricket/afghanistan-tour-of-india/abhishek-sharma-reveals-yuvraj-singhs-message-after-scoring-record-breaking-ton-against-afghanistan/articleshow/134328110.cms)
+- [Mamata Banerjee TMC : মমতা বন্দ্যোপাধ্যায়ের তৃণমূল কী নাম ও চিহ্নে লড়তে চাইল?](https://bengali.abplive.com/district/mamata-banerjee-led-kalighat-tmc-proposes-these-three-names-to-eci-1193272)
+- [വോട്ട് മോഷണം, സര്‍ക്കാര്‍ മോഷണം, ഇപ്പോള്‍ പാര്‍ട്ടി മോഷണവും: തൃണമൂലിന്റെ പേരും ചിഹ്നവും മരവിപ്പിച്ചതില്‍ രാഹുല്‍ ഗാന്ധി](https://www.doolnews.com/vote-theft-government-theft-and-now-party-theft-rahul-gandhi-on-the-freezing-of-trinamool-s-name-and-symbol-160-62.html)
+- [બાળકોના પાસપોર્ટ અંગેના નિયમો બદલાયા, ફીમાં પણ ધરખમ વધારો, સરકારનું નોટિફિકેશન જાહેર](https://www.gujaratsamachar.com/news/national/know-the-new-rules-before-getting-a-passport-from-the-validity-of-childrens-passports-to-the-application-fee-there-has-been-a-huge-increase-the-government-has-issued-a-gazette-67340019268)
+- [Akhilesh Yadav's 'Angry Young Man' vs Yogi's Ajay Seth in Samajwadi Party's AI film](https://www.indiatoday.in/india/story/akhilesh-yadav-ai-film-yogi-adityanath-samajwadi-party-bjp-uttar-pradesh-2997419-2026-09-18)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
