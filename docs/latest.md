@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-18 21:01:52
+# India Trending Report — 2026-09-18 21:33:46
 
 ## Google Trends (India) — top trending searches
-1. [aditi rao hydari](https://trends.google.com/trending/rss?geo=IN)
-2. [bayern munich vs union berlin standings](https://trends.google.com/trending/rss?geo=IN)
-3. [chelsea f.c.](https://trends.google.com/trending/rss?geo=IN)
-4. [control resonant](https://trends.google.com/trending/rss?geo=IN)
-5. [iit bombay student protest news](https://trends.google.com/trending/rss?geo=IN)
-6. [vs babu](https://trends.google.com/trending/rss?geo=IN)
-7. [zakir khan](https://trends.google.com/trending/rss?geo=IN)
-8. [मीडियाटेक](https://trends.google.com/trending/rss?geo=IN)
-9. [jamal musiala](https://trends.google.com/trending/rss?geo=IN)
-10. [twiggy](https://trends.google.com/trending/rss?geo=IN)
+1. [fábio carvalho](https://trends.google.com/trending/rss?geo=IN)
+2. [cnn](https://trends.google.com/trending/rss?geo=IN)
+3. [suvarna keralam lottery results](https://trends.google.com/trending/rss?geo=IN)
+4. [ismael saibari](https://trends.google.com/trending/rss?geo=IN)
+5. [aditi rao hydari](https://trends.google.com/trending/rss?geo=IN)
+6. [bayern munich vs union berlin standings](https://trends.google.com/trending/rss?geo=IN)
+7. [chelsea f.c.](https://trends.google.com/trending/rss?geo=IN)
+8. [control resonant](https://trends.google.com/trending/rss?geo=IN)
+9. [iit bombay student protest news](https://trends.google.com/trending/rss?geo=IN)
+10. [vs babu](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -49,19 +49,12 @@
 - [Darjeeling honeymoon turns tragic for newlyweds after barbecue fire engulfs woman, incident caught on cam](https://www.hindustantimes.com/india-news/darjeeling-honeymoon-turns-tragic-for-newlyweds-after-bbq-fire-engulfs-woman-incident-caught-on-cam-101789743589886.html)
 - [Delhi: Gang member held with 2kg Pakistan-origin heroin worth  ₹12 crore](https://www.hindustantimes.com/india-news/delhi-gang-member-held-with-2kg-pakistan-origin-heroin-worth-12-crore-101789742451805.html)
 
-**Vijay Karnataka**
-- [ಕರ್ನಾಟಕದ 2ನೇ ಭಾಷೆಯಾಗಿ ತುಳುವಿಗೆ ಸ್ಥಾನಮಾನ: ಸಚಿವ ಸಂಪುಟ ನಿರ್ಣಯ; ದೇಗುಲ, ಮಸೀದಿಗಳಿಗೆ ಭರ್ಜರಿ ಅನುದಾನ ಘೋಷಣೆ](https://vijaykarnataka.com/news/mangaluru/mangaluru-cabinet-decides-grant-tulu-status-of-karnataka-second-language-massive-grants-announced-for-temples-mosques/articleshow/134332621.cms)
-- [ಅರಬ್ಬೀ ಸಮುದ್ರದಲ್ಲಿ ಭಾರತ-ಪಾಕಿಸ್ತಾನ ಯುದ್ಧನೌಕೆಗಳ ನಡುವೆ ಡಿಕ್ಕಿ: ಪಿಎನ್‌ಎಸ್‌ ಹುನೈನ್ ಹುಚ್ಚಾಟಕ್ಕೆ ಭಾರತ ಕಿಡಿ!](https://vijaykarnataka.com/news/india/india-and-pakistan-warship-collision-in-arabian-sea-mea-slams-pns-hunain-unprofessional-manoeuvre/articleshow/134337703.cms)
-- [ಪರ್ವತಗಳನ್ನೇ ಅಲುಗಾಡಿಸಿದ ಉತ್ತರ ಕೊರಿಯಾ ಪರಮಾಣು ಪರೀಕ್ಷೆಗಳು: 1,399 ಭೂಕಂಪನಗಳಿಗೆ ಕಾರಣವಾದ ಕಿಮ್‌ ಜಾಂಗ್‌ ಉನ್‌ ಹಠ!](https://vijaykarnataka.com/news/world/north-koreas-nuclear-tests-triggered-unusual-earthquakes-near-mount-mantap-study-reveals/articleshow/134340141.cms)
-- [ಇನ್ವರ್ಟರ್ ಬಳಿ ಈ 7 ವಸ್ತುಗಳನ್ನು ಇಡಬೇಡಿ; ಓವರ್‌ಹೀಟ್ ಆಗಿ ಬೆಂಕಿ ಅವಘಡಕ್ಕೆ ಕಾರಣವಾಗಬಹುದು!](https://vijaykarnataka.com/lifestyle/relationship/home-inverter-safety-7-things-not-to-place-near-inverter/articleshow/134333698.cms)
-- [ಪಾಕಿಸ್ತಾನದ ಮಸೀದಿಯಲ್ಲಿ ಬಾಂಬ್‌ ಸ್ಪೋಟ: 15 ಪೊಲೀಸ್‌ ಅಧಿಕಾರಿಗಳು ಸೇರಿ 21 ಜನರ ಸಾವು!](https://vijaykarnataka.com/news/world/pakistan-mosque-bomb-blast-including-police-officers-many-feared-dead-during-friday-prayer/articleshow/134339517.cms)
-- [BBK 13 ಮೊಟ್ಟ ಮೊದಲ ಕ್ಯಾಪ್ಟನ್‌ ಸಂಗೀತಾ ಭಟ್‌: ಆಸಿಯಾಗೆ ಮೋಸ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/sangeetha-bhat-is-the-very-1st-captain-of-bbk-13/articleshow/134342915.cms)
-- [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
-- [ಶನಿವಾರ ಪುರುಷರು ಮತ್ತು ಸ್ತ್ರೀಯರು ಮಾಡಬಾರದ ಕೆಲಸಗಳು: ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/saturday-men-and-women-do-not-do-these-mistakes-otherwise-you-will-face-shani-angry/articleshow/134333229.cms)
-- [ಲಾಲ್‌ಬಾಗ್ ರಾಜನ ದರ್ಶನ ಪಡೆದ ರಣವೀರ್ ಸಿಂಗ್; ಸಾಂಪ್ರದಾಯಿಕ ಲುಕ್‌ನಲ್ಲಿ ನಟನ ಮಿಂಚು, ‘ಧುರಂಧರ್’ ಕ್ರೇಜ್ ಮುಂದುವರಿಕೆ!](https://vijaykarnataka.com/lifestyle/fashion/ranveer-singh-lalbaugcha-raja-ganesha-darshan-white-kurta-festival-look/articleshow/134331222.cms)
-- [ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ಜನಿಸುವ ಶಿಶುವಿಗೆ ಉಚಿತ ಚಿನ್ನದ ಉಂಗುರ: ತೆರೆಯಲು ಬಾರದ ಪ್ಯಾಕೆಟ್‌ನಲ್ಲಿ ಬರಲಿದೆ ವಿಜಯ್‌ ಮಾಮಾ ಗಿಫ್ಟ್‌!](https://vijaykarnataka.com/news/chennai/free-gold-ring-for-babies-born-in-tamil-nadu-government-hospitals-joseph-vijay-to-launch-new-scheme/articleshow/134338214.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [Odisha revises schedule for ward delimitation, seat reservation ahead of urban local body polls](https://www.thehindu.com/news/national/odisha/odisha-revises-schedule-for-ward-delimitation-seat-reservation-ahead-of-urban-local-body-polls/article71480589.ece)
+- [Every police station in Bihar to have a Child Help Desk from Oct. 2](https://www.thehindu.com/news/national/bihar/every-police-station-in-bihar-to-have-a-child-help-desk-from-oct-2/article71481323.ece)
+- [We saved Trinamool symbol from disgrace, say leaders of Ritabrata-led faction](https://www.thehindu.com/news/national/west-bengal/we-saved-trinamool-symbol-from-disgrace-say-leaders-of-ritabrata-led-faction/article71481279.ece)
 - [Innovation Centre inaugurated at Easwari Engineering College](https://www.thehindu.com/news/national/tamil-nadu/innovation-centre-inaugurated-at-easwari-engineering-college/article71482189.ece)
 - [Udhayanidhi welcomes T.N.’s decision on Navodaya schools, seeks special Assembly session to reiterate State’s stand](https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-welcomes-tns-decision-on-navodaya-schools-seeks-special-assembly-session-to-reiterate-states-stand/article71481891.ece)
 - [Taps run dry in Kolkata colony for 50 days; residents allege bias](https://www.thehindu.com/news/national/west-bengal/taps-run-dry-inkolkata-colony-for-50-days-residents-allege-bias/article71479642.ece)
@@ -69,11 +62,9 @@
 - [HAL hands over two LCA trainer plane to Air Force](https://www.thehindu.com/news/national/hal-hands-over-military-civil-aviation-and-training-platforms/article71480120.ece)
 - [Two more women die in Rajasthan after C-sections; probe committee formed](https://www.thehindu.com/news/national/rajasthan/two-more-women-die-in-rajasthan-after-c-sections-probe-committee-formed/article71482426.ece)
 - [Bangalore Terriers return home after J&K deployment](https://www.thehindu.com/news/national/karnataka/bangalore-terriers-return-home-after-jk-deployment/article71480460.ece)
-- [Over 43,700 Ganesh idols immersed across four commissionerates in Hyderabad](https://www.thehindu.com/news/cities/Hyderabad/over-43700-ganesh-idols-immersed-across-four-commissionerates-in-hyderabad/article71482046.ece)
-- [Nepal Finance Minister meets Jaishankar, as both sides plan for PM Balen Shah visit](https://www.thehindu.com/news/national/nepal-finance-minister-meets-jaishankar-as-both-sides-plan-for-pm-balen-shah-visit/article71481374.ece)
-- [Pachaiyappa’s Trust gets new board members after election](https://www.thehindu.com/news/national/tamil-nadu/pachaiyappas-trust-gets-new-board-members-after-election/article71482151.ece)
 
 **Livemint**
+- [Trump bans CNN, MSNOW, and Politico from White House: ‘Reporting FAKE NEWS’, ‘They write fiction and lies’](https://www.livemint.com/news/us-news/trump-blocks-3-media-outlets-from-white-house-reporting-fake-news-they-write-fiction-and-lies-11789764310239.html)
 - [Iran war US casualties: Why Pentagon tally shows 18 while officials cite 22-23](https://www.livemint.com/news/us-news/iran-war-us-casualties-why-pentagon-tally-shows-18-while-officials-cite-2223-11789762061360.html)
 - [Iran War Drives Bigger Diesel Supply Loss Despite Trump’s Claims](https://www.livemint.com/news/us-news/iran-war-drives-bigger-diesel-supply-loss-despite-trump-s-claims-11789759718718.html)
 - [Disney has hired veteran technology executive Karandeep Anand as its first chief technology officer: Who is he?](https://www.livemint.com/news/us-news/disney-has-hired-veteran-technology-executive-karandeep-anand-as-its-first-chief-technology-officer-who-is-he-11789755755723.html)
@@ -83,7 +74,6 @@
 - [Asian Games 2026: Sports Ministry reaches out to Indian diaspora amid accommodation crisis in Nagoya](https://www.livemint.com/news/india/asian-games-2026-sports-ministry-reaches-out-to-indian-diaspora-amid-accommodation-crisis-in-nagoya-11789744884314.html)
 - [Mid-air brawl on Dhaka-London flight leaves passengers including kids panicked, Biman Bangladesh responds | Watch video](https://www.livemint.com/news/trends/midair-brawl-on-dhaka-london-flight-leaves-passengers-including-kids-panicked-biman-bangladesh-responds-watch-video-11789744439777.html)
 - [EIL eyes oil pipeline, storage projects in Saudi Arabia, UAE](https://www.livemint.com/news/staterun-eil-eyes-developing-petroleum-pipelines-oil-reserves-in-war-hit-west-asia-infrastructure-investment-11789741588354.html)
-- [Social Security becomes Senate election flashpoint: 81% of voters prefer candidates who promise to prevent benefit cuts](https://www.livemint.com/news/us-news/social-security-is-critical-issue-for-voters-in-key-us-senate-races-what-survey-says-11789742936639.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,35 +90,35 @@
 - [ಅಂಡರ್-19 ಏಕದಿನ ಪಂದ್ಯ: ಆಸ್ಟ್ರೇಲಿಯ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ 7 ರನ್ ಜಯ](https://www.varthabharati.in/sports/under-19-odi-india-beats-australia-by-7-runs-2276203)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Trump (5.8)
 - Mamata (5.2)
-- Trump (4.5)
 - Delhi (3.2)
 - Supreme Court (3.0)
+- Politico (2.9)
+- White House (2.0)
 - Asian Games (2.0)
 - Tamil Nadu (2.0)
-- Politico (1.6)
-- House (1.6)
+- House (1.9)
 - Rajnath (1.6)
 - Congress (1.6)
+- Trinamool (1.6)
 - Iran (1.6)
 - MAGA (1.3)
 - Sugar (1.3)
-- Zuckerberg (1.3)
-- Meta (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [నిఠారీ హత్యల కేసు నిందితుడు సురేందర్ కోలీ ఆత్మహత్య](https://telugu.samayam.com/latest-news/india-news/nithari-serial-deaths-case-aqutted-accused-surendar-koli-self-kills/articleshow/134330595.cms)
-- [Anbil Mahesh Inquiry :‘3 மணி நேரமாக விசாரணை’ அன்பில் மகேஸூடம் கேட்கபடும் கேள்விகள் என்னென்ன ?](https://tamil.abplive.com/news/politics/anbil-mahesh-questioned-for-3-hours-what-are-the-police-asking-the-former-minister-274903)
-- [खेळता खेळता कारमध्ये शिरला अन्… चार वर्षीय मुलाचा दुर्दैवी मृत्यू, नेमकं काय घडलं?](https://www.tv9marathi.com/maharashtra/yavatmal-child-no-more-trapped-in-parked-car-during-treatment-after-being-found-unconscious-1758998.html)
-- [Sanjay Lakhe Patil On Manoj Jarange: ‘लीलावतीमध्ये जरांगेंचा मुलगा ॲडमिट झाला, त्याच ठिकाणी कट शिजला, एकनाथ शिंदेंना संपवण्याची सुपारी दिली’; डॉ. संजय लाखे पाटलांचा सनसनाटी आरोप](https://marathi.abplive.com/news/politics/sanjay-lakhe-patil-serious-allegations-against-manoj-jarange-patil-radhakrishna-vikhe-over-eknath-shinde-lilavati-hospital-marathi-news-1439502)
-- [Salman Khan : भरगर्दीतून वाट काढत निघाली सलमानची कार, ड्रायव्हरची ती चूक होताच भाईजानचा चढला पारा; थेट..](https://www.tv9marathi.com/entertainment/salman-khan-viral-video-the-truth-behind-driver-incident-at-ganesh-darshan-1759012.html)
-- [Mamata Banerjee, rebel Trinamool faction allotted new party names, symbols by ECI](https://www.thehindu.com/news/national/west-bengal/mamata-ritabrata-trinamool-factions-allotted-new-party-names-symbols-by-eci/article71480013.ece)
-- [Suvendu Adhikari: "অঙ্কুরহাটি থেকে ধুলাগড় ও সাঁতরাগাছির" জ্যাম ও রাজ্যের কিছু রাস্তার দুরাবস্থা নিয়ে কী বললেন মুখ্যমন্ত্রী?](https://bengali.abplive.com/district/regarding-the-traffic-jams-from-ankurhati-to-dhulagarh-and-santragachi-roadwork-is-underway-chief-minister-suvendu-adhikari-stated-1193285)
-- [TMC becomes 'Mamata All India Trinamool Congress'; Didi gets football player as symbol](https://timesofindia.indiatimes.com/india/tmc-becomes-mamata-all-india-trinamool-congress-didi-gets-football-player-as-symbol/articleshow/134330524.cms)
-- [Harish Rao | నా జీవితం తెరిచిన పుస్తకం.. ఎన్నికల అఫిడవిట్లలో ఆస్తుల వివరాలు స్పష్టంగా చెప్పిన : హరీశ్ రావు](https://www.ntnews.com/telangana/harish-rao-stated-that-details-of-assets-were-clearly-declared-in-the-election-affidavits-2513699)
-- [‘Just ask Grok’: How ISIL is using Big Tech’s AI to build bombs](https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs)
+- [Surinder Koli | ‘నిఠారీ’ హత్యల నిర్దోషి సురీందర్ కోలీ.. హరిద్వార్‌లో ఆత్మహత్య](https://www.ntnews.com/national/surendra-koli-acquitted-in-2006-nithari-killings-dies-by-suicide-in-haridwar-2513745)
+- [തുടർച്ചയായ ഡ്രോൺ-മിസൈൽ ആക്രമണങ്ങൾ; പാകിസ്ഥാന്റെ സഹായം തേടി സൗദി! ഞെട്ടിക്കുന്ന ദൃശ്യങ്ങൾ പുറത്തുവിട്ടു](https://www.expresskerala.com/news/relentless-drone-and-missile-attacks-saudi-arabia-seeks-pakistans-help-shocking-visuals-released.html)
+- [Saayoni Ghosh: "तू इधर उधर की बात ना कर..."; TMCचं नाव अन् चिन्ह गोठवल्यानंतर सयोनी घोष यांची बोलकी प्रतिक्रिया](https://sarkarnama.esakal.com/desh/tu-idhar-udhar-ki-baat-na-kar-tmc-leader-saayoni-ghosh-eloquent-reaction-after-freezing-tmc-name-and-symbol-aau85)
+- [देशाला हादरवणाऱ्या निठारी हत्याकांडातील सुरेंद्र कोलीने उचललं टोकाचं पाऊल; चहाच्या दुकानातच…](https://www.tv9marathi.com/national/nithari-killer-surendra-koli-end-life-ex-convict-found-dead-at-haridwar-tea-stall-1759032.html)
+- [নন্দীগ্রামে ট্যুইস্ট, নবান্নে এলেন মমতা সর্বভারতীয় তৃণমূল কংগ্রেসের প্রার্থী, মুখ্যমন্ত্রীর সঙ্গে কথা](https://bengali.abplive.com/district/nandigram-by-election-mamata-tmc-candidate-sanchita-pradhan-de-come-nabanna-meet-suvendu-adhikari-1193291)
+- [હવામાન વિભાગ આગાહી કરવામાં થાપ ખાઈ ગયું? અમદાવાદમાં હળવા વરસાદની આગાહી વચ્ચે ધોધમાર વરસાદ વરસ્યો](https://www.gujaratsamachar.com/news/ahmedabad/did-the-meteorological-department-fail-to-make-predictions-heavy-rain-lashed-ahmedabad-despite-the-forecast-of-light-rain-10626751766)
+- ['हम ऑफ‍िस जाकर देखेंगे NTA का स‍िस्टम' NEET पेपर लीक पर की सुप्रीम कोर्ट ने सख्त टिप्पणी](https://www.aajtak.in/education/news/story/neet-ug-paper-leak-supreme-court-orders-nta-reforms-inspection-edmm-rpti-2646011-2026-09-18)
+- [प्रेग्नेंसीनंतर कतरिना कैफच्या स्कीनमध्ये झाले बदल; सांगितलं स्वतःची कशी घेते काळजी](https://www.lokmat.com/filmy/bollywood/katrina-kaifs-skin-changed-after-pregnancy-she-told-how-she-takes-care-of-herself-a-a603/)
+- [India beats Japan Asian Games 2026 : टीम इंडियाची सेमीफायनलमध्ये धडक; शेफाली वर्माने 5 ओव्हरमध्ये मॅच संपवली, संपूर्ण मैदान अवाक् झालं, जपानमध्ये काय घडलं?](https://marathi.abplive.com/sports/cricket/india-beats-japan-by-8-wickets-reaches-semifinal-2026-asian-games-cricket-women-shafali-verma-shree-charani-marathi-news-1439505)
+- [ये एक गलती बिगाड़ रहा भारत में वॉटर बैलेंस! गंभीर है यूएन की चेतावनी](https://www.aajtak.in/science/story/india-groundwater-decline-wmo-report-dskc-2645992-2026-09-18)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
