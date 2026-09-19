@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-19 22:32:49
+# India Trending Report — 2026-09-19 23:01:44
 
 ## Google Trends (India) — top trending searches
 1. [ufc](https://trends.google.com/trending/rss?geo=IN)
@@ -14,16 +14,16 @@
 
 ## Latest headlines by outlet
 **Times of India**
-- [Trump extends $100K H-1B visa fee until Sept 2027 but court stay remains: White House cites plunge in filings by IT cos](https://timesofindia.indiatimes.com/world/us/trump-extends-100k-h-1b-visa-fee-until-sept-2027-but-court-stay-remains-white-house-cites-plunge-in-filings-by-it-cos/articleshow/134350381.cms)
+- [92% plunge in H-1B filings by IT firms after Trump’s $100K fee](https://timesofindia.indiatimes.com/world/us/trump-extends-100k-h-1b-visa-fee-until-sept-2027-but-court-stay-remains-white-house-cites-plunge-in-filings-by-it-cos/articleshow/134350381.cms)
 - [As monsoon withdrawal begins, season may end with 10% deficit](https://timesofindia.indiatimes.com/india/as-monsoon-withdrawal-begins-season-may-end-with-10-deficit/articleshow/134360430.cms)
-- [Iran gives US 7 conditions to restart talks, says ‘threats won't achieve results’](https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms)
+- [ASI Harjit Singh murdered: Key suspect shot dead in police encounter in Amritsar](https://timesofindia.indiatimes.com/city/chandigarh/asi-killing-key-suspect-shot-dead-in-police-encounter-in-amritsar/articleshow/134359728.cms)
 - [Father-son duo makes history: Shigenobu and Koji light cauldron in Nagoya](https://timesofindia.indiatimes.com/sports/asian-games-2026/father-son-duo-makes-history-five-time-asian-games-champion-shigenobu-murofushi-and-olympic-gold-medallist-son-koji-light-cauldron-in-aichi-nagoya/articleshow/134356286.cms)
-- ['Only high IQ individuals need apply': Trump announces 'AI Force'](https://timesofindia.indiatimes.com/world/us/only-high-iq-individuals-need-apply-trump-announces-ai-force/articleshow/134358415.cms)
+- [Iran gives US 7 conditions to restart talks, says ‘threats won't achieve results’](https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
+- ['Only high IQ individuals need apply': Trump announces 'AI Force'](https://timesofindia.indiatimes.com/world/us/only-high-iq-individuals-need-apply-trump-announces-ai-force/articleshow/134358415.cms)
+- [Why parents keep old report cards and childhood drawings, according to psychology](https://timesofindia.indiatimes.com/life-style/parenting/moments/psychology-says-parents-who-keep-old-report-cards-and-childhood-drawings-may-be-preserving-a-part-of-their-own-life-story-not-just-memories/articleshow/134350487.cms)
 - [PM Modi pushes back on West’s narrative over emissions](https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms)
 - [She paid Rs 79l for Rs 2.14cr villa, but it stayed unfinished; RERA orders refund](https://timesofindia.indiatimes.com/business/india-business/woman-paid-rs-79-lakh-for-a-rs-2-14-crore-villa-but-construction-remained-unfinished-telangana-rera-orders-full-refund-with-10-7-interest-and-fines-builder-rs-1-03-crore/articleshow/134326814.cms)
-- [Ambulance stuck in mud, pregnant woman taken to hospital on bullock cart](https://timesofindia.indiatimes.com/city/indore/ambulance-stuck-in-mud-pregnant-woman-taken-to-hospital-on-bullock-cart/articleshow/134359932.cms)
-- [A Tulu promise: Why DKS is trying a different language in BJP's coastal bastion](https://timesofindia.indiatimes.com/india/bjp-promise-in-its-coastal-bastion-why-dk-shivakumar-put-tulu-at-centre-in-mangaluru/articleshow/134353768.cms)
 
 **NDTV**
 - [After Slowdown Calls, Trump Says He Will Set Up 'AI Force', Name 'AI Czar'](https://www.ndtv.com/world-news/after-slowdown-calls-trump-says-he-will-set-up-ai-force-name-ai-czar-12070075#publisher=newsstand)
@@ -113,22 +113,22 @@
 - Vijay (1.6)
 - India (1.6)
 - ABVP's (1.6)
-- Sept (1.3)
-- Iran (1.3)
+- Amritsar (1.3)
+- Father-son (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Russia should respond to US sanctions with 'military deterrence': Dmitry Medvedev](https://timesofindia.indiatimes.com/world/rest-of-world/russia-should-respond-to-us-sanctions-with-military-deterrence-dmitry-medvedev/articleshow/134352135.cms)
-- [‘എന്താണ് എന്റെ കുറവ് ?, ഞാൻ മോശക്കാരനായി മാറിയില്ലേ, കടുത്ത വേദന’; പ്രതാപന്റെ വാക്കുകൾ ഹൃദയത്തിൽ നിന്നെന്ന് തോമസ് ഉണ്ണിയാടൻ](https://www.manoramaonline.com/news/latest-news/2026/09/19/thomas-unniyadan-speaks-out-against-kerala-congress-neglect.html)
-- [Malaysia | భార్య‌కు తెలియ‌కుండా ప్రియురాలితో మ‌లేసియా ట్రిప్ ప్లాన్.. అడ్డంగా దొరికిపోయిన భ‌ర్త‌](https://www.ntnews.com/national/man-hides-malaysia-trip-with-woman-friend-from-wife-passport-error-gives-him-away-2514621)
-- ['भारत को कम्युनिज्म से नहीं, हिंदू दक्षिणपंथी सांप्रदायिकता से खतरा...', हामिद अंसारी ने किया नेहरू के पुराने बयान का जिक्र](https://www.aajtak.in/india/news/story/hamid-ansari-recalls-nehru-old-statement-on-hindu-right-wing-communalism-ntc-dhrj-dskc-2647202-2026-09-19)
-- [Raj Thackeray: राज ठाकरेंकडून UPI शुल्कावरुन सरकारच्या बदलेल्या भूमिकेची चिरफाड, डिजिटल सापळ्याचा उल्लेख करत म्हणाले...](https://marathi.abplive.com/news/politics/raj-thackeray-share-social-media-post-on-narendra-modi-government-upi-mdr-recall-old-stand-of-govt-marathi-news-1439597)
-- [दुनियाभर में 'नीम करोली बाबा' के नाम की गूंज, 'हनुमान अंश' की टीम से मिले CM देवेंद्र फडणवीस, घर पर किया स्वागत](https://www.aajtak.in/entertainment/bollywood-news/story/neem-karoli-baba-hanuman-ansh-box-office-300-crore-cm-devendra-fadnavis-congratulates-success-tmovb-dskc-2647192-2026-09-19)
-- [सरकारी स्कूल के बच्चों को लंच में मिलेगी चिकन बिरयानी, थलपति विजय सरकार की तैयारी](https://www.livehindustan.com/national/thalapathy-vijay-tamil-nadu-government-plann-chicken-biryani-to-government-school-children-201789811886895.html)
-- [Vijay Sethupathi says this about CM Vijay after claims of shading him on Bigg Boss Tamil 10; calls Jason Sanjay ‘cute’](https://www.hindustantimes.com/entertainment/tamil-cinema/vijay-sethupathi-says-this-about-cm-vijay-after-claims-of-shading-him-on-bigg-boss-tamil-10-calls-jason-sanjay-cute-101789809410246.html)
-- [Measles: Death toll reaches 1,053 as 5 more children die in 24 hours](https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1053-5-more-children-die-24-hours-1547226)
-- [શાહનાં પૂતળાં બાળનાર 21 ખેડૂતો સામે FIR, ખેડૂતોએ શું કહ્યું?](https://www.bbc.com/gujarati/articles/cx7v4q76n9pqo)
+- [India Asian Games Kit Drama : टीम इंडिया जपानसाठी निघणार, पण दिल्ली विमानतळावर जर्सी आणि किट पाहून सगळेच चक्रावले, नेमकं काय घडलं?](https://marathi.abplive.com/sports/cricket/indian-cricketers-await-correct-kit-sizes-before-their-asian-games-departure-bcci-marathi-news-1439604)
+- [ജപ്പാൻ ഏഷ്യന്‍ ഗെയിംസ്: ഇന്ത്യയുടെ പ്രധാന മെഡല്‍ പ്രതീക്ഷകള്‍](https://www.reporterlive.com/sports/other-sports/2026/09/19/asian-games-aichi-nagoya-japan-india-best-squad)
+- [দার্জিলিংয়ের রিসর্টে বার-বি-কিউয়ের আগুনে দগ্ধ নবদম্পতি ! ৪ রিসর্ট কর্মী গ্রেফতার](https://bengali.abplive.com/district/drjeeling-honeymoon-couple-suffers-burns-in-barbecue-fire-four-arrested-1193431)
+- [Nani: ‘ది ప్యారడైజ్‌’కు A సర్టిఫికెట్‌? ట్రైలర్‌ ఎందుకు రాలేదంటే.. నాని క్లారిటీ!](https://www.chitrajyothy.com/2026/tollywood/nanis-master-plan-to-return-to-family-entertainers-75520.html)
+- [உரோமை மறைமாவட்டம்: செவிமடுத்து, தேர்ந்து தெளிந்து, சிறப்பாகப் பணியாற்ற திருத்தந்தை அழைப்பு](https://www.vaticannews.va/ta/pope/news/2026-09/diocese-of-rome-assembly.html)
+- [முதலமைச்சர் விஜய் தமிழ்நாட்டை அவமானப்படுத்திவிட்டார்! டி.ஆர்.பி. ராஜா காட்டம்!](https://viduthalai.in/206846/%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AE%AE%E0%AF%88%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%B0%E0%AF%8D-%E0%AE%B5%E0%AE%BF%E0%AE%9C%E0%AE%AF%E0%AF%8D-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%E0%AE%A8/)
+- [रोहित शर्मा बनें अजीत अगरकर के जाने की वजह? चीफ सेलेक्टर ने BCCI से नहीं मांगा एक्सटेंशन](https://www.abplive.com/sports/cricket/could-rohit-sharma-be-the-reason-for-ajit-agarkar-departure-chief-selector-didn-t-ask-for-an-extension-from-the-bcci-3191078)
+- [Team India: పరుగెత్తలేడు, డైవ్ చేయలేడు.. టీమిండియాలో అత్యంత వరస్ట్ ఫీల్డర్ అతనే..!](https://tv9telugu.com/sports/cricket-news/shivam-dube-struggles-all-rounder-role-team-india-selection-dilemma-latest-updates-1915062.html)
+- [અક્ષય, અજય અને Golmaal ગેંગ આ દિવસે સિનેમાઘરોમાં આવશે, રિલીઝ ડેટ પરથી ઊંચકાયો પડદો](https://tv9gujarati.com/entertainment/bollywood/golmaal-5-big-announcement-release-date-revealed-akshay-kumar-and-ajay-devgn-return-with-rohit-shetty-1518583.html)
+- [दिशा सालियान केस में आदित्य ठाकरे के घर के बाहर भारी बवाल, वकील ने थमाया 500 करोड़ का मानहानि का नोटिस](https://www.aajtak.in/india/maharashtra/story/disha-salian-death-case-satish-salian-aditya-thackeray-uddhav-thackeray-cbi-probe-mumbai-politics-ntc-agkp-rpti-2647212-2026-09-19)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
