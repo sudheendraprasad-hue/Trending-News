@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-19 23:01:44
+# India Trending Report — 2026-09-19 23:31:33
 
 ## Google Trends (India) — top trending searches
 1. [ufc](https://trends.google.com/trending/rss?geo=IN)
-2. [raphinha](https://trends.google.com/trending/rss?geo=IN)
+2. [bangalore weather](https://trends.google.com/trending/rss?geo=IN)
 3. [fcb](https://trends.google.com/trending/rss?geo=IN)
 4. [sevilla vs barcelona](https://trends.google.com/trending/rss?geo=IN)
 5. [pawan singh news](https://trends.google.com/trending/rss?geo=IN)
 6. [sohail khan](https://trends.google.com/trending/rss?geo=IN)
 7. [mom and son](https://trends.google.com/trending/rss?geo=IN)
 8. [desi](https://trends.google.com/trending/rss?geo=IN)
-9. [salman khan](https://trends.google.com/trending/rss?geo=IN)
-10. [rohit sharma](https://trends.google.com/trending/rss?geo=IN)
+9. [india news](https://trends.google.com/trending/rss?geo=IN)
+10. [salman khan](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -20,10 +20,10 @@
 - [Father-son duo makes history: Shigenobu and Koji light cauldron in Nagoya](https://timesofindia.indiatimes.com/sports/asian-games-2026/father-son-duo-makes-history-five-time-asian-games-champion-shigenobu-murofushi-and-olympic-gold-medallist-son-koji-light-cauldron-in-aichi-nagoya/articleshow/134356286.cms)
 - [Iran gives US 7 conditions to restart talks, says ‘threats won't achieve results’](https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
+- [Govt gets moving on monetising surplus realty](https://timesofindia.indiatimes.com/real-estate/news/govt-gets-moving-on-monetising-surplus-realty/articleshow/134362296.cms)
 - ['Only high IQ individuals need apply': Trump announces 'AI Force'](https://timesofindia.indiatimes.com/world/us/only-high-iq-individuals-need-apply-trump-announces-ai-force/articleshow/134358415.cms)
 - [Why parents keep old report cards and childhood drawings, according to psychology](https://timesofindia.indiatimes.com/life-style/parenting/moments/psychology-says-parents-who-keep-old-report-cards-and-childhood-drawings-may-be-preserving-a-part-of-their-own-life-story-not-just-memories/articleshow/134350487.cms)
 - [PM Modi pushes back on West’s narrative over emissions](https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms)
-- [She paid Rs 79l for Rs 2.14cr villa, but it stayed unfinished; RERA orders refund](https://timesofindia.indiatimes.com/business/india-business/woman-paid-rs-79-lakh-for-a-rs-2-14-crore-villa-but-construction-remained-unfinished-telangana-rera-orders-full-refund-with-10-7-interest-and-fines-builder-rs-1-03-crore/articleshow/134326814.cms)
 
 **NDTV**
 - [After Slowdown Calls, Trump Says He Will Set Up 'AI Force', Name 'AI Czar'](https://www.ndtv.com/world-news/after-slowdown-calls-trump-says-he-will-set-up-ai-force-name-ai-czar-12070075#publisher=newsstand)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [India Asian Games Kit Drama : टीम इंडिया जपानसाठी निघणार, पण दिल्ली विमानतळावर जर्सी आणि किट पाहून सगळेच चक्रावले, नेमकं काय घडलं?](https://marathi.abplive.com/sports/cricket/indian-cricketers-await-correct-kit-sizes-before-their-asian-games-departure-bcci-marathi-news-1439604)
-- [ജപ്പാൻ ഏഷ്യന്‍ ഗെയിംസ്: ഇന്ത്യയുടെ പ്രധാന മെഡല്‍ പ്രതീക്ഷകള്‍](https://www.reporterlive.com/sports/other-sports/2026/09/19/asian-games-aichi-nagoya-japan-india-best-squad)
-- [দার্জিলিংয়ের রিসর্টে বার-বি-কিউয়ের আগুনে দগ্ধ নবদম্পতি ! ৪ রিসর্ট কর্মী গ্রেফতার](https://bengali.abplive.com/district/drjeeling-honeymoon-couple-suffers-burns-in-barbecue-fire-four-arrested-1193431)
-- [Nani: ‘ది ప్యారడైజ్‌’కు A సర్టిఫికెట్‌? ట్రైలర్‌ ఎందుకు రాలేదంటే.. నాని క్లారిటీ!](https://www.chitrajyothy.com/2026/tollywood/nanis-master-plan-to-return-to-family-entertainers-75520.html)
-- [உரோமை மறைமாவட்டம்: செவிமடுத்து, தேர்ந்து தெளிந்து, சிறப்பாகப் பணியாற்ற திருத்தந்தை அழைப்பு](https://www.vaticannews.va/ta/pope/news/2026-09/diocese-of-rome-assembly.html)
-- [முதலமைச்சர் விஜய் தமிழ்நாட்டை அவமானப்படுத்திவிட்டார்! டி.ஆர்.பி. ராஜா காட்டம்!](https://viduthalai.in/206846/%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AE%AE%E0%AF%88%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%B0%E0%AF%8D-%E0%AE%B5%E0%AE%BF%E0%AE%9C%E0%AE%AF%E0%AF%8D-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%E0%AE%A8/)
-- [रोहित शर्मा बनें अजीत अगरकर के जाने की वजह? चीफ सेलेक्टर ने BCCI से नहीं मांगा एक्सटेंशन](https://www.abplive.com/sports/cricket/could-rohit-sharma-be-the-reason-for-ajit-agarkar-departure-chief-selector-didn-t-ask-for-an-extension-from-the-bcci-3191078)
-- [Team India: పరుగెత్తలేడు, డైవ్ చేయలేడు.. టీమిండియాలో అత్యంత వరస్ట్ ఫీల్డర్ అతనే..!](https://tv9telugu.com/sports/cricket-news/shivam-dube-struggles-all-rounder-role-team-india-selection-dilemma-latest-updates-1915062.html)
-- [અક્ષય, અજય અને Golmaal ગેંગ આ દિવસે સિનેમાઘરોમાં આવશે, રિલીઝ ડેટ પરથી ઊંચકાયો પડદો](https://tv9gujarati.com/entertainment/bollywood/golmaal-5-big-announcement-release-date-revealed-akshay-kumar-and-ajay-devgn-return-with-rohit-shetty-1518583.html)
-- [दिशा सालियान केस में आदित्य ठाकरे के घर के बाहर भारी बवाल, वकील ने थमाया 500 करोड़ का मानहानि का नोटिस](https://www.aajtak.in/india/maharashtra/story/disha-salian-death-case-satish-salian-aditya-thackeray-uddhav-thackeray-cbi-probe-mumbai-politics-ntc-agkp-rpti-2647212-2026-09-19)
+- [Flames, huge plume of black smoke seen near Riyadh airport amid Houthi strikes](https://timesofindia.indiatimes.com/world/middle-east/flames-huge-plume-of-black-smoke-seen-near-riyadh-airport-amid-houthi-strikes/articleshow/134352887.cms)
+- [రష్యా చమురు Vs అమెరికా మార్కెట్.. భారత్ ముందున్న ఎనర్జీ లెక్క ఇదే!](https://tv9telugu.com/national/trumps-100-tariff-power-why-russian-oil-matters-to-india-and-what-it-means-for-the-economy-1915092.html)
+- [Loss of Y chromosome in men could be an early warning sign of cancer](https://phys.org/news/2026-09-loss-chromosome-men-early-cancer.html)
+- [Hanuman Ansh box office collection: મોટી ફિલ્મો પડી ફિક્કી, 'હનુમાન અંશ'ની આંધી આગળ 'દાયરા' અને 'વાઇબ' થયા સાફ!](https://www.gujaratfirst.com/entertainment/hanuman-ansh-box-office-collection-gujarat-first-digital/340362/)
+- [2027 માં શનિનું ડબલ ગોચર, 4 રાશિઓ અત્યારથી થઇ જાય એલર્ટ!](https://www.gujaratsamachar.com/news/astro/double-transit-of-saturn-in-2027-4-zodiac-signs-should-be-on-alert-from-now-on-49423607236)
+- [8వ వేతన సంఘం.. కనీస వేతనమే రూ. 63 వేలు.. ఏ ఫిట్‌మెంట్ ఫ్యాక్టర్‌పై ఎవరికి జీతం ఎంత పెరుగుతుందంటే?](https://telugu.samayam.com/business/business-news/8th-pay-commission-salary-hike-how-much-will-2-75-or-3-5-fitment-factor-increase-basic-pay/articleshow/134352158.cms)
+- [Video: 2 men get off friend's Thar after fight, he chases and rams their cab](https://www.indiatoday.in/cities/gurugram/story/gurugram-thar-driver-rams-rapido-cab-after-friends-dispute-2998289-2026-09-19)
+- [DUSU चुनाव में ABVP का डंका, अध्यक्ष समेत 3 पद जीते; निर्दलीय दीपांशु शौकीन बने उपाध्यक्ष](https://www.livehindustan.com/ncr/dusu-election-results-2026-abvp-wins-president-secretary-joint-secretary-posts-deepanshu-shokeen-vice-president-201789815550052.html)
+- [The Paradise : మీరు విగ్గు పెట్టుకుని చెప్తే మేము ఎలా వింటాం? - మహిళా జర్నలిస్ట్ కౌంటర్‌కు నాని స్పాంటేనియస్ రియాక్షన్](https://telugu.abplive.com/entertainment/cinema/nani-spontaneous-response-over-women-journalist-counter-about-braids-crowd-bursts-into-laughter-watch-video-259376)
+- [Aneurysm Repair Timing and Outcomes After aSAH](https://www.emjreviews.com/neurology/news/aneurysm-treatment-timing-fails-to-show-clear-benefit/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
