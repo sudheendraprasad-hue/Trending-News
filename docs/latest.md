@@ -1,23 +1,23 @@
-# India Trending Report — 2026-09-19 03:34:31
+# India Trending Report — 2026-09-19 04:02:11
 
 ## Google Trends (India) — top trending searches
-1. [ஊழல்](https://trends.google.com/trending/rss?geo=IN)
-2. [vettuvam](https://trends.google.com/trending/rss?geo=IN)
-3. [atlee](https://trends.google.com/trending/rss?geo=IN)
-4. [trump](https://trends.google.com/trending/rss?geo=IN)
-5. [अदिति सिंह](https://trends.google.com/trending/rss?geo=IN)
-6. [new york city vs ny red bulls](https://trends.google.com/trending/rss?geo=IN)
-7. [कर्मचारी](https://trends.google.com/trending/rss?geo=IN)
-8. [తమన్నా భాటియా](https://trends.google.com/trending/rss?geo=IN)
-9. [मस्जिद](https://trends.google.com/trending/rss?geo=IN)
-10. [மதுரை](https://trends.google.com/trending/rss?geo=IN)
+1. [google](https://trends.google.com/trending/rss?geo=IN)
+2. [play store](https://trends.google.com/trending/rss?geo=IN)
+3. [song](https://trends.google.com/trending/rss?geo=IN)
+4. [hostages](https://trends.google.com/trending/rss?geo=IN)
+5. [anthropic](https://trends.google.com/trending/rss?geo=IN)
+6. [h](https://trends.google.com/trending/rss?geo=IN)
+7. [cartoon](https://trends.google.com/trending/rss?geo=IN)
+8. [m](https://trends.google.com/trending/rss?geo=IN)
+9. [go](https://trends.google.com/trending/rss?geo=IN)
+10. [news today](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [IIT-Bombay student dies by suicide after being caught using AI; students protest](https://timesofindia.indiatimes.com/city/mumbai/second-year-iit-bombay-student-dies-by-suicide-after-being-caught-using-ai-platform-during-exam/articleshow/134346768.cms)
 - [Trump’s Greenland deal: How Arctic pact bolsters Golden Dome against Russia, China](https://timesofindia.indiatimes.com/defence/international/trumps-greenland-deal-how-arctic-pact-bolsters-golden-dome-against-russia-china/articleshow/134346911.cms)
 - [Upset over contact with 1st wife, woman gets husband killed by lover in UP](https://timesofindia.indiatimes.com/city/lucknow/husband-stabbed-in-sleep-body-stuffed-in-box-wife-2-aides-held/articleshow/134343372.cms)
 - ['Almost started a war': How an AI error led to a close call between US and China](https://timesofindia.indiatimes.com/world/us/almost-started-a-war-how-an-ai-error-led-to-a-close-call-between-us-and-china/articleshow/134346649.cms)
-- [IIT-Bombay student dies by suicide after being caught using AI during exam](https://timesofindia.indiatimes.com/city/mumbai/second-year-iit-bombay-student-dies-by-suicide-after-being-caught-using-ai-platform-during-exam/articleshow/134346768.cms)
 - [What makes Asiad host Nagoya special? A city of cars, football, and sporting legacy](https://timesofindia.indiatimes.com/sports/asian-games-2026/what-makes-asian-games-host-nagoya-special-a-city-of-cars-football-and-sporting-legacy/articleshow/134346349.cms)
 - [H-1B visa costs rise while America needs over 157,000 engineers and technicians](https://timesofindia.indiatimes.com/technology/tech-news/h-1b-visa-costs-are-rising-for-us-companies-while-america-needs-more-than-157000-engineers-and-skilled-technicians/articleshow/134343035.cms)
 - [Trump signs Russia sanctions bill, gets power to impose up to 100% tariffs on India](https://timesofindia.indiatimes.com/business/international-business/trump-signs-russia-sanctions-bill-into-law-gains-authority-to-impose-100-tariff-on-india-and-china/articleshow/134344362.cms)
@@ -27,18 +27,20 @@
 
 **NDTV**
 - ["Good For NATO, Europe": Denmark PM Endorses Trump's Greenland Security Deal](https://www.ndtv.com/world-news/good-for-nato-europe-denmark-pm-mette-frederiksen-endorses-donald-trumps-greenland-security-deal-12067132#publisher=newsstand)
+- [Howard Buffett: Philanthropist Son Of Warren Buffett To Be Hathaway Chairman](https://www.ndtv.com/world-news/howard-buffett-philanthropist-son-of-warren-buffett-to-be-hathaway-chairman-12067320#publisher=newsstand)
+- [Caught Using ChatGPT In Exam, IIT Bombay Student Kills Self, Protests Erupt](https://www.ndtv.com/india-news/iit-bombay-student-dies-by-suicide-he-was-caught-using-chatgpt-in-exam-12067185#publisher=newsstand)
+- [In Unusual Move, Trump To Welcome Xi At US Airport For State Visit](https://www.ndtv.com/world-news/us-china-relations-in-unusual-move-donald-trump-to-welcome-xi-jinping-at-joint-base-andrews-for-state-visit-12067241#publisher=newsstand)
+- [How A Faulty AI Report "Almost Started A War" Between US, China](https://www.ndtv.com/world-news/us-china-tensions-how-a-faulty-ai-report-almost-started-a-war-between-us-china-12067218#publisher=newsstand)
+- [UP Woman Kills Husband Over Contact With 1st Wife. Lover, Son Arrested](https://www.ndtv.com/india-news/woman-kills-husband-over-contact-with-first-wife-lover-among-4-arrested-12066755#publisher=newsstand)
+- ["Complete Lie": Pete Hegseth Rejects Report Of Higher US Troop Deaths In Iran War](https://www.ndtv.com/world-news/us-iran-war-complete-lie-pete-hegseth-rejects-report-of-higher-us-troop-deaths-in-iran-war-12067192#publisher=newsstand)
 - [Trump Signs Russia Sanctions Bill, Clears Way For 100% Tariffs On India, China](https://www.ndtv.com/world-news/donald-trump-signs-russia-sanctions-bill-amid-ukraine-war-clears-way-for-100-tariffs-on-india-china-12067070#publisher=newsstand)
 - [Trump Steps Up Pressure On Russia, Green Lights Bill For New Sanctions](https://www.ndtv.com/world-news/donald-trump-signs-russia-sanctions-bill-into-law-12066943#publisher=newsstand)
 - [Top Tech Leaders Invited To Join Xi-Trump Dinner At White House Next Week](https://www.ndtv.com/world-news/top-tech-leaders-invited-to-join-xi-trump-dinner-at-white-house-next-week-12067050#publisher=newsstand)
-- [Houthis Say Saudi Arabia Targeted Yemen With 26 Strikes In 24 Hours](https://www.ndtv.com/world-news/iran-war-houthis-say-saudi-arabia-targeted-yemen-with-26-strikes-in-24-hours-12067041#publisher=newsstand)
-- [Iran War's Cost Grows To $43.6 Billion In New US Military Estimate](https://www.ndtv.com/world-news/iran-wars-cost-grows-to-43-6-billion-in-new-us-military-estimate-12067028#publisher=newsstand)
-- [Putin Says Ukraine Interfering In Russian Parliamentary Election](https://www.ndtv.com/world-news/russia-ukraine-war-vladimir-putin-says-ukraine-interfering-in-russian-parliamentary-election-12067001#publisher=newsstand)
-- [Gemini Hacked 3 Companies In First Known Breakout By Google's AI: Report](https://www.ndtv.com/world-news/gemini-hacked-three-companies-in-first-known-breakout-by-google-ai-wsj-reports-12066939#publisher=newsstand)
-- [Trump Says Son Paid Back Russian Oligarch For Wedding Parties](https://www.ndtv.com/world-news/donald-trump-says-son-jr-trump-paid-back-russian-oligarch-for-wedding-parties-12066861#publisher=newsstand)
-- [Court Declines To Restrain Transfer Of 5 Elephants From Assam To Tamil Nadu](https://www.ndtv.com/india-news/court-declines-to-restrain-transfer-of-5-elephants-from-assam-to-tamil-nadu-12066812#publisher=newsstand)
 
 **Hindustan Times**
-- ['Monarchy ended but…': Scindia slammed as MP rebukes man flagging poor roads](https://www.hindustantimes.com/india-news/cjp-takes-monarchy-jibe-at-jyotiraditya-scindia-as-guna-mp-rebukes-man-flagging-poor-roads-101789784857620.html)
+- [Nithari case's Surendra Koli, acquitted in all 13 cases, found dead in Haridwar](https://www.hindustantimes.com/india-news/nithari-killing-case-surendra-koli-acquitted-in-all-13-cases-found-dead-in-haridwar-101789784892894.html)
+- [K’taka to decide on physical survey of Kasturirangan report areas after hearing public concerns: CM](https://www.hindustantimes.com/india-news/ktaka-to-decide-on-physical-survey-of-kasturirangan-report-areas-after-hearing-public-concerns-cm-101789788594459.html)
+- ['Monarchy ended but...': Scindia faces backlash as video shows MP rebuke citizen flagging poor roads](https://www.hindustantimes.com/india-news/cjp-takes-monarchy-jibe-at-jyotiraditya-scindia-as-guna-mp-rebukes-man-flagging-poor-roads-101789784857620.html)
 - [Maharashtra TET leak: Question papers smuggled out in shoe insoles for  ₹8,000, says chargesheet](https://www.hindustantimes.com/india-news/maharashtra-tet-leak-question-papers-smuggled-out-in-shoe-insoles-for-rs-8-000-says-chargesheet-101789787617622.html)
 - [HT Morning News Brief Sept 19: India faces 100% tariff threat under US Act, Meghna Gulzar's film opens to slow response](https://www.hindustantimes.com/india-news/india-us-tariffs-russia-meghna-gulzar-daayra-dengue-vaccine-neeraj-chopra-latest-news-n-chandrasekaran-tata-sons-101789786895051.html)
 - ['Assumed genitals were chopped off': Raped Delhi teen's body was mistaken for a man's. Then appeared a tattoo](https://www.hindustantimes.com/india-news/delhi-teen-gangrape-murder-police-assumed-genitals-were-chopped-off-body-mistaken-for-a-mans-swaroop-nagar-minor-101789782131074.html)
@@ -46,8 +48,6 @@
 - [News channel executive denied bail in excise case in Kerala](https://www.hindustantimes.com/india-news/news-channel-executive-denied-bail-in-excise-case-in-kerala-101789760035088.html)
 - [T’gana man out on bail for pregnant wife’s murder killed by her brother](https://www.hindustantimes.com/india-news/tgana-man-out-on-bail-for-pregnant-wife-s-murder-killed-by-her-brother-101789759915066.html)
 - [Telangana CM seeks central aid to mitigate El Niño fallout in state](https://www.hindustantimes.com/india-news/telangana-cm-seeks-central-aid-to-mitigate-el-ni-o-fallout-in-state-101789759614446.html)
-- [DMK intensifies negotiations to form ‘third front’](https://www.hindustantimes.com/india-news/dmk-intensifies-negotiations-to-form-third-front-101789759498948.html)
-- [US national gets default bail in arms training case](https://www.hindustantimes.com/india-news/usnational-gets-default-bail-in-arms-training-case-101789759376346.html)
 
 **Vijay Karnataka**
 - [ಗ್ರಾಹಕರಿಗೆ ಕಿರಿಕಿರಿ ನೀಡೋ ಕರೆಗೆ TRAI ಬ್ರೇಕ್! Spam,ರೊಬೋ ಕಾಲ್ಸ್‌ ಕಡಿವಾಣಕ್ಕೆ ಟ್ರಾಯ್‌ನಿಂದ ಹೊಸ ರೂಲ್ಸ್; ಏನೆಲ್ಲಾ?](https://vijaykarnataka.com/business/news/trai-new-rules-to-control-distrubing-robo-and-spam-calls-know-the-details/articleshow/134346766.cms)
@@ -62,6 +62,7 @@
 - [ಬೆಂಗಳೂರಲ್ಲಿನ ಅನಧಿಕೃತ ಪಿಜಿಗಳಿಗೆ ಹೈಕೋರ್ಟ್‌ ಬ್ರೇಕ್‌: ಪೇಯಿಂಗ್‌ ಗೇಸ್ಟ್‌ಗಳ ಸುರಕ್ಷತೆ, ನಿಯಂತ್ರಣಕ್ಕೆ ಮಾರ್ಗಸೂಚಿ ಜಾರಿ!](https://vijaykarnataka.com/news/bengaluru-city/high-court-puts-brake-on-unauthorized-pgs-in-bengaluru-guidelines-for-the-safety-of-paying-guests/articleshow/134346143.cms)
 
 **The Hindu**
+- [PM Modi, UAE Preident discuss West Asia, strategic partnership during phone call](https://www.thehindu.com/news/national/pm-modi-uae-preident-discuss-west-asia-strategic-partnership-during-phone-call/article71483544.ece)
 - [Operation Toofan to trace drug money through UPI, crypto wallets](https://www.thehindu.com/news/national/kerala/operation-toofan-to-trace-drug-money-through-upi-crypto-wallets/article71483502.ece)
 - [Four of a family returning from Ganesh immersion killed in road accident on NH-44 near Shamshabad](https://www.thehindu.com/news/cities/Hyderabad/four-of-a-family-returning-from-ganesh-immersion-killed-in-road-accident-on-nh-44-near-shamshabad/article71483497.ece)
 - [Odisha government plans 870-Acre Silicon Valley hub in Cuttack’s Naraj for semiconductor, IT projects](https://www.thehindu.com/news/national/odisha/odisha-government-plans-870-acre-silicon-valley-hub-in-cuttacks-naraj-for-semiconductor-it-projects/article71481519.ece)
@@ -71,9 +72,10 @@
 - [Sharad Pawar urges Maharashtra government to declare drought, provide ₹50,000 per hectare relief](https://www.thehindu.com/news/national/maharashtra/sharad-pawar-urges-maharashtra-government-to-declare-drought-provide-50000-per-hectare-relief/article71481982.ece)
 - [Modern ‘secularism’ is a Western concept, does not fit India: Mohan Bhagwat](https://www.thehindu.com/news/national/modern-secularism-is-a-western-concept-does-not-fit-india-mohan-bhagwat/article71481352.ece)
 - [Waste of public money amid economic crisis: U.P. Congress on PM’s birthday celebrations](https://www.thehindu.com/news/national/uttar-pradesh/waste-of-public-money-amid-economic-crisis-up-congress-on-pms-birthday-celebrations/article71481573.ece)
-- [Bihar floods: Nitin Nabin donates three months’ Rajya Sabha MP salary to CM Relief Fund](https://www.thehindu.com/news/national/bihar/bihar-floods-nitin-nabin-donates-three-months-rajya-sabha-mp-salary-to-cm-relief-fund/article71480661.ece)
 
 **Livemint**
+- [H-1B visa update: Trump extends $100,000 fee by another year. Here's what it means for Indians](https://www.livemint.com/news/world/h1b-visa-update-trump-extends-100-000-fee-by-another-year-heres-what-it-means-for-indians-11789786888615.html)
+- [IIT Bombay student caught using ChatGPT in exam dies by suicide; protest erupts on campus](https://www.livemint.com/news/india/iit-bombay-student-caught-using-chatgpt-in-exam-dies-by-suicide-protest-erupts-on-campus-11789785794539.html)
 - [‘Will FOREVER have complete ability to do what is necessary in Greenland’ — Trump announces US-Denmark deal](https://www.livemint.com/news/us-news/will-forever-have-complete-ability-to-do-what-is-necessary-in-greenland-trump-announces-us-denmark-deal-11789781824701.html)
 - [US-Iran war LIVE Updates: Saudi Arabia issues second danger alert for Riyadh and al-Kharj overnight](https://www.livemint.com/news/us-news/usiran-war-live-updates-trump-un-speech-to-focus-on-iran-gaza-peace-plan-strait-of-hormuz-sanction-bill-11789782948443.html)
 - [Petrol, diesel prices today, September 19: Check rates in Delhi, Mumbai, Bengaluru](https://www.livemint.com/news/india/petrol-diesel-prices-today-september-19-check-rates-in-delhi-mumbai-bengaluru-11789780532491.html)
@@ -82,8 +84,6 @@
 - [Jewellers face higher hallmarking costs as festive, wedding demand picks up](https://www.livemint.com/news/india/jewellers-face-higher-hallmarking-costs-as-festive-wedding-demand-picks-up-11789727924731.html)
 - [Trump bans CNN, MSNOW, and Politico from White House: ‘Reporting FAKE NEWS’, ‘They write fiction and lies’](https://www.livemint.com/news/us-news/trump-blocks-3-media-outlets-from-white-house-reporting-fake-news-they-write-fiction-and-lies-11789764310239.html)
 - [Iran war US casualties: Why Pentagon tally shows 18 while officials cite 22-23](https://www.livemint.com/news/us-news/iran-war-us-casualties-why-pentagon-tally-shows-18-while-officials-cite-2223-11789762061360.html)
-- [Iran War Drives Bigger Diesel Supply Loss Despite Trump’s Claims](https://www.livemint.com/news/us-news/iran-war-drives-bigger-diesel-supply-loss-despite-trump-s-claims-11789759718718.html)
-- [Disney has hired veteran technology executive Karandeep Anand as its first chief technology officer: Who is he?](https://www.livemint.com/news/us-news/disney-has-hired-veteran-technology-executive-karandeep-anand-as-its-first-chief-technology-officer-who-is-he-11789755755723.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,47 +98,47 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಸಿಎಂ ಭೇಟಿ ಹಿನ್ನೆಲೆ: ಮಂಗಳೂರು ಹಳೆ ಬಂದರಿನಲ್ಲಿ ವ್ಯವಹಾರ ಸ್ಥಗಿತ](https://www.varthabharati.in/DakshinaKannada/cms-visit-business-activities-halted-at-mangaluru-old-port-2276220)
 - [TMC ಚಿಹ್ನೆ ಬಳಕೆ ತಡೆ ವಿರುದ್ಧ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಮೆಟ್ಟಿಲೇರಿದ ಮಮತಾ ಬ್ಯಾನರ್ಜಿ](https://www.varthabharati.in/National/mamata-banerjee-moves-supreme-court-against-the-ban-on-the-use-of-the-tmc-symbol-2276217)
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ: ಕೊನೆಕ್ಷಣದಲ್ಲಿ ಬದಲಾದ ಭಾರತದ ಧ್ವಜಧಾರಿ](https://www.varthabharati.in/National/asian-games-opening-ceremony-indias-flag-bearer-changed-at-the-last-minute-2276218)
+- [ಯುಪಿಐ ವಹಿವಾಟಿನ ಮೇಲೆ ಶುಲ್ಕದ ಬರೆ](https://www.varthabharati.in/sampaadakeeya/charges-on-upi-transactions-2276219)
 - [Photos | ಮಂಗಳೂರಿನ ಮೀನುಗಾರಿಕಾ ಧಕ್ಕೆಗೆ ದಿಢೀರ್ ಭೇಟಿ ನೀಡಿದ ಸಿಎಂ ಡಿ.ಕೆ. ಶಿವಕುಮಾರ್](https://www.varthabharati.in/gallery/photos-cm-dk-shivakumar-makes-a-surprise-visit-to-the-mangaluru-dhakke-2276216)
 - [ಮಂಗಳೂರಿನ ಮೀನುಗಾರಿಕಾ ಧಕ್ಕೆಗೆ ದಿಢೀರ್ ಭೇಟಿ ನೀಡಿದ ಸಿಎಂ ಡಿ.ಕೆ. ಶಿವಕುಮಾರ್](https://www.varthabharati.in/dakshinakannada/cm-dk-shivakumar-makes-a-surprise-visit-to-the-mangaluru-dhakke-2276215)
 - [ರಷ್ಯಾ ನಿರ್ಬಂಧ ಮಸೂದೆಗೆ ಟ್ರಂಪ್ ಅಂಕಿತ : ಭಾರತ ಸೇರಿ ತೈಲ ಖರೀದಿದಾರರ ಮೇಲೆ ಶೇ.100ರವರೆಗೆ ಸುಂಕಕ್ಕೆ ಅವಕಾಶ](https://www.varthabharati.in/international/trump-signs-russia-sanctions-bill-provision-for-up-to-100-tariffs-on-oil-buyers-including-india-2276214)
 - [‘ಸೆಮಿಕಾನ್ ಇಂಡಿಯಾ’ 2ನೇ ದಿನ 10 ಕಂಪೆನಿಗಳ ಜತೆ ಸಚಿವ ಎಂ.ಬಿ.ಪಾಟೀಲ್ ಮಾತುಕತೆ](https://www.varthabharati.in/state/minister-mb-patil-holds-talks-with-10-companies-on-day-2-of-semicon-india-2276213)
 - [ಮೈಸೂರು‌: ಶೋಭಾಯಾತ್ರೆ ವೇಳೆ ಪ್ರಚೋದನಕಾರಿ ಭಾಷಣ ಮಾಡಿದ ಪ್ರತಾಪ್ ಸಿಂಹ](https://www.varthabharati.in/mysore/pratap-simha-makes-provocative-speech-during-mysuru-shobha-yatra-2276212)
 - [ಪೊಲೀಸ್ ಇಲಾಖೆ ಸಭೆಗಳಲ್ಲಿ ದಲಿತ ಪದ ಬಳಸದಂತೆ ಸೂಚನೆ](https://www.varthabharati.in/state/police-meetings-officials-instructed-not-to-use-the-term-dalit-2276210)
-- [Tamil Nadu | ಉದ್ಯಮಿ ವೀರಮಣಿ ಲೈಂಗಿಕ ಹಗರಣ: ಲೋಕಲ್ ‘Epstein filesʼ ಎಂದ ಜನರು!](https://www.varthabharati.in/national/tamil-nadu-businessman-veeramani-sex-scandal-people-label-it-local-epstein-files-2276209)
-- [ಜಮ್ಮುಕಾಶ್ಮೀರ | ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಸೂಕ್ಷ್ಮ ಮಾಹಿತಿ ರವಾನೆ ಆರೋಪ: ಟ್ರಕ್‌ ಚಾಲಕನ ಬಂಧನ](https://www.varthabharati.in/National/jammu-kashmir-2276208)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (7.7)
+- Trump (8.7)
 - India (6.8)
-- China (5.2)
+- China (6.5)
 - Emkay Global Financial (5.0)
 - Russia (4.5)
-- Iran (3.2)
 - ICICI Securities (3.0)
 - target (3.0)
 - Greenland (2.9)
+- Iran (2.9)
 - Mumbai (2.6)
-- Bihar (2.6)
 - Politico (2.6)
 - Buy Bajaj Finance (2.0)
+- Almost (1.6)
 - Pentagon (1.6)
 - Trump's (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [தாய்லாந்தில் கணேஷ் சதுர்த்தி](https://www.dinamalar.com/world-news-nri-ta/asia/tamil-news/ganesh-chaturthi-in-thailand/20373)
-- [West Bengal SIR | 37 Lakh Appeals Pending; Less Than 3% Disposed By Appellate Tribunals : ECI Tells Supreme Court](https://www.livelaw.in/top-stories/supreme-court-west-bengal-sir-eci-affidavit-over-37-lakh-appeals-pending-before-appellate-tribunals-550768)
-- [Scot detained in India has been granted bail](https://www.bbc.com/news/articles/cwp845p6q2qqo)
-- [पक्षफोडीसाठी भाजप-आयोगाची युती, बड्या नेत्याचा आरोप, तृणमूलचं चिन्ह गोठवलं, शिवसेनेचं काय होणार?](https://saamtv.esakal.com/national-international/tmc-name-symbol-frozen-rahul-gandhi-attacks-bjp-election-commission-shiv-sena-party-symbol-dispute-election-commission-decision-mamata-banerjee-tmc-party-split-west-bengal-maharashtra-politics-om0906)
-- [Apple iPhone 18 का सेलिब्रिटी क्रेज! कतार में लगे लोग, सोनू सूद ने कसा तंज- ‘नया फोन, नई EMI...’](https://www.aajtak.in/entertainment/bollywood-news/story/apple-iphone-18-craze-in-bollywood-vicky-kaushal-karishma-sonu-sood-took-dig-tmova-dskc-2646355-2026-09-18)
-- [Breaking News: શું Oscar જીતશે મરાઠી થ્રિલર ‘ગોંધલ’? ભારત તરફથી ઓસ્કાર 2027 ની ઓફિશિયલ રેસમાં થઈ એન્ટ્રી](https://tv9gujarati.com/entertainment/gondhal-makes-history-as-india-official-entry-for-oscars-2027-know-the-marathi-films-oscar-journey-1518328.html)
-- [DUSU Election 2026 Live DU के कॉलेजों के आए रिजल्ट अरबिंदो से लेकर रामजस तक किनके सिर सजा ताज](https://www.jagran.com/delhi/new-delhi-city-dusu-election-2026-live-updates-delhi-university-students-union-voting-result-nsui-abvp-yash-dabas-vijay-shankar-du-chunav-lb-30000733.html)
-- [Asian Games: BCCI books separate accommodation for men's cricket team, women stay in Games facilities](https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/asian-games-bcci-books-separate-accommodation-for-mens-cricket-team-women-stay-in-games-facilities/articleshow/134338494.cms)
-- [अजीत अगरकर के भविष्य पर बोले देवजीत सैकिया, कहा- क्रिकेट की दुनिया में 15 दिन काफी लंबा समय](https://www.livehindustan.com/cricket/bcci-secretary-devajit-saikia-keeps-chief-selector-ajit-agarkar-fate-open-says-15-days-is-a-long-time-in-cricket-201789743220320.html)
-- ['बिग बॉस' में लॉलीपॉप पर बवाल, काजी के कमेंट्स पर लगे डबल मीनिंग के आरोप](https://www.aajtak.in/entertainment/ott/story/bigg-boss-20-qazi-touqeer-ganji-gudiya-and-lollipop-comment-viral-tmovg-dskc-2646246-2026-09-18)
+- [Breaking News Asian Games 2026: પહેલા જ દિવસે ભારતને મળી શકે છે મેડલ, જાણો ઉદ્ઘાટન સમારોહ સહિત Day-1 નું શેડ્યૂલ](https://tv9gujarati.com/sports/cricket-news/breaking-news-asian-games-2026-know-indias-day-1-schedule-including-opening-ceremony-1518372.html)
+- [Head's century leads Australia's clinical win](https://www.cricbuzz.com/cricket-news/140219/heads-century-leads-australias-clinical-win)
+- [New discovery overturns a prevailing model of brain development](https://www.news-medical.net/news/20260918/New-discovery-overturns-a-prevailing-model-of-brain-development.aspx)
+- [बड़ा उलटफेर! ABVP ने DU कॉलेज चुनावों में सूपड़ा साफ कर दिया, कहीं 6](https://www.indiatv.in/delhi/abvp-makes-strong-showing-in-college-elections-confident-of-a-4-0-victory-in-dusu-2026-09-18-1244031)
+- [மலேசியாவில் பயிலும் தமிழக மாணவருக்கு அரசு உதவித்தொகை கிடைப்பதில் என்ன சிக்கல்? குற்றச்சாட்டும் அரசு பதிலும்](https://www.bbc.com/tamil/articles/cqr7d3gvdjrlo)
+- [सरकारी अस्पताल में बच्चे के जन्म पर मिलेगी सोने की अंगूठी, थलपति विजय ने दिया बड़ा तोहफा](https://www.livehindustan.com/national/thalapathy-vijay-gold-ring-promise-to-women-children-birth-in-government-hospitals-201789746401510.html)
+- [TGSRTC | ఆర్టీసీలో మోగిన ఎన్నికల నగారా .. అక్టోబర్‌ 9న పోలింగ్..!](https://www.ntnews.com/telangana/tgrtc-recognized-union-elections-held-on-oct-9-2514034)
+- [“டெங்கு தடுப்பு நடவடிக்கைகளில் தமிழக அரசு மெத்தனம்” - சீமான் சாடல்](https://www.hindutamil.in/news/tamilnadu/seeman-slams-tvk-government-over-dengue-prevention)
+- [Eknath Shinde : ब्रिटिश विमानात मोबाईल विसरले, पोलिस यंत्रणा कामाला लागली? DCM एकनाथ शिंदे यांनी खरं काय ते सांगून टाकलं!](https://www.tv9marathi.com/maharashtra/dcm-eknath-shinde-lost-his-mobile-in-british-airplane-is-it-real-or-fake-shindes-clrarification-1759449.html)
+- [India vs Australia U19 : द्रविडच्या पोराची वादळी खेळी, सेहवागचा मुलगाही चमकला; ऑस्ट्रेलियाविरुद्ध शेवटच्या षटकात टीम इंडियाचा रोमांचक विजय](https://marathi.abplive.com/sports/cricket/india-u19-to-7-run-win-over-australia-anvay-dravid-aaryavir-sehwag-marathi-news-1439524)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
