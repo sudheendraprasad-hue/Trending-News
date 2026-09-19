@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-19 00:02:05
+# India Trending Report — 2026-09-19 00:38:59
 
 ## Google Trends (India) — top trending searches
-1. [బంగాళాఖాతము](https://trends.google.com/trending/rss?geo=IN)
-2. [radha rani ki aarti](https://trends.google.com/trending/rss?geo=IN)
-3. [gold rate](https://trends.google.com/trending/rss?geo=IN)
-4. [amazon india](https://trends.google.com/trending/rss?geo=IN)
-5. [zara](https://trends.google.com/trending/rss?geo=IN)
-6. [fábio carvalho](https://trends.google.com/trending/rss?geo=IN)
-7. [viral video](https://trends.google.com/trending/rss?geo=IN)
-8. [cnn](https://trends.google.com/trending/rss?geo=IN)
-9. [suvarna keralam lottery results](https://trends.google.com/trending/rss?geo=IN)
-10. [ismael saibari](https://trends.google.com/trending/rss?geo=IN)
+1. [നിയമോപദേശം](https://trends.google.com/trending/rss?geo=IN)
+2. [स्कूटर](https://trends.google.com/trending/rss?geo=IN)
+3. [हनुमान चालीसा](https://trends.google.com/trending/rss?geo=IN)
+4. [f](https://trends.google.com/trending/rss?geo=IN)
+5. [బంగాళాఖాతము](https://trends.google.com/trending/rss?geo=IN)
+6. [radha rani ki aarti](https://trends.google.com/trending/rss?geo=IN)
+7. [gold rate](https://trends.google.com/trending/rss?geo=IN)
+8. [amazon india](https://trends.google.com/trending/rss?geo=IN)
+9. [zara](https://trends.google.com/trending/rss?geo=IN)
+10. [telugu](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -26,16 +26,16 @@
 - [25% youths in 250 districts not in education or jobs: Survey](https://timesofindia.indiatimes.com/india/25-youths-in-250-districts-not-in-education-or-jobs-survey/articleshow/134345712.cms)
 
 **NDTV**
+- [Houthis Say Saudi Arabia Targeted Yemen With 26 Strikes In 24 Hours](https://www.ndtv.com/world-news/iran-war-houthis-say-saudi-arabia-targeted-yemen-with-26-strikes-in-24-hours-12067041#publisher=newsstand)
+- [Iran War's Cost Grows To $43.6 Billion In New US Military Estimate](https://www.ndtv.com/world-news/iran-wars-cost-grows-to-43-6-billion-in-new-us-military-estimate-12067028#publisher=newsstand)
+- [Putin Says Ukraine Interfering In Russian Parliamentary Election](https://www.ndtv.com/world-news/russia-ukraine-war-vladimir-putin-says-ukraine-interfering-in-russian-parliamentary-election-12067001#publisher=newsstand)
+- [Gemini Hacked 3 Companies In First Known Breakout By Google's AI: Report](https://www.ndtv.com/world-news/gemini-hacked-three-companies-in-first-known-breakout-by-google-ai-wsj-reports-12066939#publisher=newsstand)
+- [Trump Claims "Infinite" Greenland Security Deal With Denmark](https://www.ndtv.com/world-news/donald-trump-claims-he-has-deal-with-denmark-to-bolster-us-military-presence-in-greenland-12066934#publisher=newsstand)
 - [Trump Signs Russia Sanctions Bill, Clears Way For 100% India Tariffs](https://www.ndtv.com/world-news/donald-trump-signs-russia-sanctions-bill-into-law-12066943#publisher=newsstand)
-- [Trump Claims He Has Deal With Denmark To Bolster US Military Presence In Greenland](https://www.ndtv.com/world-news/donald-trump-claims-he-has-deal-with-denmark-to-bolster-us-military-presence-in-greenland-12066934#publisher=newsstand)
 - [Trump Says Son Paid Back Russian Oligarch For Wedding Parties](https://www.ndtv.com/world-news/donald-trump-says-son-jr-trump-paid-back-russian-oligarch-for-wedding-parties-12066861#publisher=newsstand)
 - [Court Declines To Restrain Transfer Of 5 Elephants From Assam To Tamil Nadu](https://www.ndtv.com/india-news/court-declines-to-restrain-transfer-of-5-elephants-from-assam-to-tamil-nadu-12066812#publisher=newsstand)
 - [Woman Kills Husband Over Contact With First Wife, Lover Among 4 Arrested](https://www.ndtv.com/india-news/woman-kills-husband-over-contact-with-first-wife-lover-among-4-arrested-12066755#publisher=newsstand)
 - ["Fiction And Lies": Trump Bans CNN, Politico From White House](https://www.ndtv.com/world-news/donald-trump-bans-cnn-ms-now-politico-from-white-house-12066705#publisher=newsstand)
-- [Man Shoots Wife Dead After Fight Over Cooking In Delhi: Cops](https://www.ndtv.com/delhi-news/man-shoots-wife-dead-after-fight-over-cooking-in-delhi-cops-12066666#publisher=newsstand)
-- [California Explores Mandatory AI "Kill Switch" Amid Safety Concerns](https://www.ndtv.com/world-news/california-explores-mandatory-ai-kill-switch-amid-safety-concerns-12066649#publisher=newsstand)
-- ['Will Go To Any Extent': Pak Vows Full Support To Saudi Amid Houthi Attacks](https://www.ndtv.com/world-news/will-go-to-any-extent-pak-vows-full-support-to-saudi-amid-houthi-attacks-12066634#publisher=newsstand)
-- [Drone Hits Cooling Tower At Russia's Nuclear Plant, Says UN Nuclear Watchdog](https://www.ndtv.com/world-news/drone-hits-cooling-tower-at-russias-nuclear-plant-says-un-nuclear-watchdog-12066626#publisher=newsstand)
 
 **Hindustan Times**
 - [Trump to sign Russia sanctions bill today that threatens 100% tariffs on India: Report](https://www.hindustantimes.com/india-news/trump-to-sign-russia-sanctions-bill-today-that-threatens-100-per-cent-tariffs-on-india-101789751001313.html)
@@ -49,7 +49,17 @@
 - [Darjeeling honeymoon turns tragic for newlyweds after barbecue fire engulfs woman, incident caught on cam](https://www.hindustantimes.com/india-news/darjeeling-honeymoon-turns-tragic-for-newlyweds-after-bbq-fire-engulfs-woman-incident-caught-on-cam-101789743589886.html)
 - [Delhi: Gang member held with 2kg Pakistan-origin heroin worth  ₹12 crore](https://www.hindustantimes.com/india-news/delhi-gang-member-held-with-2kg-pakistan-origin-heroin-worth-12-crore-101789742451805.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಕರ್ನಾಟಕದ 2ನೇ ಭಾಷೆಯಾಗಿ ತುಳುವಿಗೆ ಸ್ಥಾನಮಾನ: ಸಚಿವ ಸಂಪುಟ ನಿರ್ಣಯ; ದೇಗುಲ, ಮಸೀದಿಗಳಿಗೆ ಭರ್ಜರಿ ಅನುದಾನ ಘೋಷಣೆ](https://vijaykarnataka.com/news/mangaluru/mangaluru-cabinet-decides-grant-tulu-status-of-karnataka-second-language-massive-grants-announced-for-temples-mosques/articleshow/134332621.cms)
+- [ಅರಬ್ಬೀ ಸಮುದ್ರದಲ್ಲಿ ಭಾರತ-ಪಾಕಿಸ್ತಾನ ಯುದ್ಧನೌಕೆಗಳ ನಡುವೆ ಡಿಕ್ಕಿ: ಪಿಎನ್‌ಎಸ್‌ ಹುನೈನ್ ಹುಚ್ಚಾಟಕ್ಕೆ ಭಾರತ ಕಿಡಿ!](https://vijaykarnataka.com/news/india/india-and-pakistan-warship-collision-in-arabian-sea-mea-slams-pns-hunain-unprofessional-manoeuvre/articleshow/134337703.cms)
+- [ಪರ್ವತಗಳನ್ನೇ ಅಲುಗಾಡಿಸಿದ ಉತ್ತರ ಕೊರಿಯಾ ಪರಮಾಣು ಪರೀಕ್ಷೆಗಳು: 1,399 ಭೂಕಂಪನಗಳಿಗೆ ಕಾರಣವಾದ ಕಿಮ್‌ ಜಾಂಗ್‌ ಉನ್‌ ಹಠ!](https://vijaykarnataka.com/news/world/north-koreas-nuclear-tests-triggered-unusual-earthquakes-near-mount-mantap-study-reveals/articleshow/134340141.cms)
+- [ಇನ್ವರ್ಟರ್ ಬಳಿ ಈ 7 ವಸ್ತುಗಳನ್ನು ಇಡಬೇಡಿ; ಓವರ್‌ಹೀಟ್ ಆಗಿ ಬೆಂಕಿ ಅವಘಡಕ್ಕೆ ಕಾರಣವಾಗಬಹುದು!](https://vijaykarnataka.com/lifestyle/relationship/home-inverter-safety-7-things-not-to-place-near-inverter/articleshow/134333698.cms)
+- [ಪಾಕಿಸ್ತಾನದ ಮಸೀದಿಯಲ್ಲಿ ಬಾಂಬ್‌ ಸ್ಪೋಟ: 15 ಪೊಲೀಸ್‌ ಅಧಿಕಾರಿಗಳು ಸೇರಿ 21 ಜನರ ಸಾವು!](https://vijaykarnataka.com/news/world/pakistan-mosque-bomb-blast-including-police-officers-many-feared-dead-during-friday-prayer/articleshow/134339517.cms)
+- [BBK 13 ಮೊಟ್ಟ ಮೊದಲ ಕ್ಯಾಪ್ಟನ್‌ ಸಂಗೀತಾ ಭಟ್‌: ಆಸಿಯಾಗೆ ಮೋಸ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/sangeetha-bhat-is-the-very-1st-captain-of-bbk-13/articleshow/134342915.cms)
+- [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
+- [ಶನಿವಾರ ಪುರುಷರು ಮತ್ತು ಸ್ತ್ರೀಯರು ಮಾಡಬಾರದ ಕೆಲಸಗಳು: ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/saturday-men-and-women-do-not-do-these-mistakes-otherwise-you-will-face-shani-angry/articleshow/134333229.cms)
+- [ಲಾಲ್‌ಬಾಗ್ ರಾಜನ ದರ್ಶನ ಪಡೆದ ರಣವೀರ್ ಸಿಂಗ್; ಸಾಂಪ್ರದಾಯಿಕ ಲುಕ್‌ನಲ್ಲಿ ನಟನ ಮಿಂಚು, ‘ಧುರಂಧರ್’ ಕ್ರೇಜ್ ಮುಂದುವರಿಕೆ!](https://vijaykarnataka.com/lifestyle/fashion/ranveer-singh-lalbaugcha-raja-ganesha-darshan-white-kurta-festival-look/articleshow/134331222.cms)
+- [ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ಜನಿಸುವ ಶಿಶುವಿಗೆ ಉಚಿತ ಚಿನ್ನದ ಉಂಗುರ: ತೆರೆಯಲು ಬಾರದ ಪ್ಯಾಕೆಟ್‌ನಲ್ಲಿ ಬರಲಿದೆ ವಿಜಯ್‌ ಮಾಮಾ ಗಿಫ್ಟ್‌!](https://vijaykarnataka.com/news/chennai/free-gold-ring-for-babies-born-in-tamil-nadu-government-hospitals-joseph-vijay-to-launch-new-scheme/articleshow/134338214.cms)
 
 **The Hindu**
 - [Waste of public money amid economic crisis: U.P. Congress on PM’s birthday celebrations](https://www.thehindu.com/news/national/uttar-pradesh/waste-of-public-money-amid-economic-crisis-up-congress-on-pms-birthday-celebrations/article71481573.ece)
@@ -64,6 +74,7 @@
 - [Taps run dry in Kolkata colony for 50 days; residents allege bias](https://www.thehindu.com/news/national/west-bengal/taps-run-dry-inkolkata-colony-for-50-days-residents-allege-bias/article71479642.ece)
 
 **Livemint**
+- [Jewellers face higher hallmarking costs as festive, wedding demand picks up](https://www.livemint.com/news/india/jewellers-face-higher-hallmarking-costs-as-festive-wedding-demand-picks-up-11789727924731.html)
 - [Trump bans CNN, MSNOW, and Politico from White House: ‘Reporting FAKE NEWS’, ‘They write fiction and lies’](https://www.livemint.com/news/us-news/trump-blocks-3-media-outlets-from-white-house-reporting-fake-news-they-write-fiction-and-lies-11789764310239.html)
 - [Iran war US casualties: Why Pentagon tally shows 18 while officials cite 22-23](https://www.livemint.com/news/us-news/iran-war-us-casualties-why-pentagon-tally-shows-18-while-officials-cite-2223-11789762061360.html)
 - [Iran War Drives Bigger Diesel Supply Loss Despite Trump’s Claims](https://www.livemint.com/news/us-news/iran-war-drives-bigger-diesel-supply-loss-despite-trump-s-claims-11789759718718.html)
@@ -73,7 +84,6 @@
 - [US gas prices near 2026 peak with weeks to go before midterms](https://www.livemint.com/news/us-news/us-gas-prices-near-2026-peak-with-weeks-to-go-before-midterms-11789748933988.html)
 - [Asian Games 2026: Sports Ministry reaches out to Indian diaspora amid accommodation crisis in Nagoya](https://www.livemint.com/news/india/asian-games-2026-sports-ministry-reaches-out-to-indian-diaspora-amid-accommodation-crisis-in-nagoya-11789744884314.html)
 - [Mid-air brawl on Dhaka-London flight leaves passengers including kids panicked, Biman Bangladesh responds | Watch video](https://www.livemint.com/news/trends/midair-brawl-on-dhaka-london-flight-leaves-passengers-including-kids-panicked-biman-bangladesh-responds-watch-video-11789744439777.html)
-- [EIL eyes oil pipeline, storage projects in Saudi Arabia, UAE](https://www.livemint.com/news/staterun-eil-eyes-developing-petroleum-pipelines-oil-reserves-in-war-hit-west-asia-infrastructure-investment-11789741588354.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -96,29 +106,29 @@
 - Russia (2.9)
 - India (2.9)
 - Politico (2.9)
-- Delhi (2.9)
 - Indian (2.6)
 - Nandigram (2.6)
+- Report (2.6)
 - Bihar (2.6)
 - Asian Games (2.0)
 - White House (2.0)
 - Tamil Nadu (2.0)
 - House (1.9)
-- Denmark (1.6)
+- Iran (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [এর বেশি জখম; 'বিস্ফোরকবাহী গাড়ি নিয়ে ঢোকে হামলাকারী'](https://bengali.abplive.com/news/pakistan-news-at-least-16-people-killed-and-over-50-people-injured-in-blast-near-a-mosque-1193314)
-- [Gondhal Movie In Oscars : ऑस्करच्या रेसमध्ये भारताचा ‘गोंधळ’! हनुमान अंश, धुरंधर सारख्या चित्रपटांना मागे टाकत थेट मराठीत सिनेमा ठरला लय भारी](https://marathi.abplive.com/entertainment/gondhal-marathi-movie-selected-in-oscars-india-official-entry-for-99th-oscars-beats-dhurandhar-marathi-news-1439514)
-- [അനധികൃത സ്വത്ത് സമ്പാദന കേസ്: ടോമിന്‍ തച്ചങ്കരിയുടെ അപ്പീല്‍ ഹൈക്കോടതി ചൊവ്വാഴ്ച്ച പരിഗണിക്കും](https://www.reporterlive.com/topnews/kerala/2026/09/18/tomin-thachankary-property-case-appeal-hearing-in-high-court)
-- ['INS कोलकाता पूरी तरह सुरक्षित, PNS हुनैन ने तोड़ा नियम', पाकिस्तान के आरोपों को भारत ने किया खारिज](https://www.jagran.com/news/national-india-rejects-pakistan-claims-on-naval-collision-ins-kolkata-safe-40377382.html)
-- [આજે મંગળનું કર્ક રાશિમાં થયું ગોચર, કઈ રાશિ પર પડશે વિપરીત અસર, કોને ફાયદો?](https://www.gujaratsamachar.com/news/astro/today-mars-transits-in-cancer-which-zodiac-sign-will-be-adversely-affected-who-will-benefit-47798032232)
-- [IND vs AUS, Y-ODI highlights: Sehwag, Dravid, Yashbardhan contribute in India U-19's 7-run win over Australia U-19](https://sportstar.thehindu.com/cricket/india-vs-australia-u19-odi-live-score-updates-ind-aus-youth-highlights/article71479251.ece)
-- [अजीत अगरकर रहेंगे या जाएंगे? AGM में नहीं मिला जवाब, अब किसके हाथ में है आखिरी फैसला?](https://www.aajtak.in/sports/cricket/story/bcci-agm-2026-ajit-agarkar-future-chief-selector-decision-bmsp-dskc-2646102-2026-09-18)
-- [OnePlus 16 full specifications leak ahead of launch, 9,000mAh battery and 200MP camera tipped](https://www.indiatoday.in/technology/news/story/oneplus-16-full-specifications-leak-ahead-of-launch-9000mah-battery-and-200mp-camera-tipped-2997759-2026-09-18)
-- [Lava Expands Bold Series with the Launch of Bold N4 Pro 5G On Amazon](https://m.thewire.in/article/ptiprnews/lava-expands-bold-series-with-the-launch-of-bold-n4-pro-5g-on-amazon)
-- [പൊലീസ് ന്യൂസ് റൂമില്‍ കടന്നുകയറുന്നത് അംഗീകരിക്കാനാകില്ല, വിഷയത്തെ ഗൗരവത്തോടെ കാണണം: എം വി ഗോവിന്ദന്‍](https://www.reporterlive.com/topnews/kerala/2026/09/18/cpm-state-secretary-m-v-govindan-criticises-udf)
+- [టీజీఎస్ ఆర్టీసీలో మోగిన ఎన్నికల నగారా](https://www.andhrajyothy.com/2026/telangana/hyderabad/tgsrtc-union-elections-2026-polling-october-9-results-october-17-vvnp-1559140.html)
+- [BCCI AGM: बीसीसीआयच्या बैठकीत मोठे निर्णय, धुमाळ आणि मजुमदार आयपीएल गव्हर्निंग कौन्सिलमध्ये](https://marathi.asianetnews.com/sports/cricket/bcci-agm-2024-key-decisions-dhumal-majumdar-join-ipl-governing-council/articleshow-ysbpdp2)
+- [Aaryavir Sehwag impresses on India U19 debut, Anvay Dravid plays a blinder](https://www.indiatoday.in/sports/cricket/story/india-u19-vs-australia-u19-anvay-dravid-aaryavir-sehwag-seven-run-win-2997806-2026-09-18)
+- [નંદીગ્રામ પેટાચૂંટણી : કૉંગ્રેસ ઉમેદવારની '19 વર્ષ જૂના મામલામાં કરાઈ ધરપકડ'](https://www.bbc.com/gujarati/articles/c6qxvdd841x8o)
+- [ममता बॅनर्जी यांना आणखी एक मोठा धक्का; पक्षाचं नाव अन् चिन्ह गेल्यानंतर ज्याची भीती तेच घडलं](https://www.tv9marathi.com/national/mamata-banerjee-get-another-jolt-after-bengal-nandigram-candidate-sanchita-dey-withdraws-application-from-by-election-after-meeting-with-cm-adhikari-1759336.html)
+- [Asian Games Japan : राहिले दूर घर माझे! जपानमध्ये नेमबाजांची रेंजपासून 50 किमी निवासव्यवस्था, भारताच्या प्रशिक्षकांनी निराशा](https://maharashtratimes.com/sports/other-sports/japan-asian-games-2026-indian-shooting-team-upset-over-50-kilometer-distance-between-accommodation-and-practice-venue/articleshow/134334996.cms)
+- [हाथ रगड़े, धनुष-बाण चलाया... हरारे में ट्रेविस हेड का तूफान, शतक जड़कर किया स्पेशल सेलिब्रेशन](https://www.aajtak.in/sports/cricket/story/travis-head-fastest-odi-century-vs-zimbabwe-2nd-odi-harare-bow-and-arrow-celebration-tspoa-dskc-2646220-2026-09-18)
+- [ഏഷ്യൻ ഗെയിംസിന് ചുഴലിക്കാറ്റ് ഭീഷണി; കായികതാരങ്ങളെ ഒഴിപ്പിപ്പിക്കാൻ ജപ്പാൻ](https://www.southlive.in/cyclone-threat-to-asian-games-japan-to-evacuate-athletes/)
+- [New Apple Watches: Best deals on Series 12 and Ultra 4](https://mashable.com/tech/apple-watch-series-12-ultra-4-best-launch-deals)
+- [HAL hands over LCA FOC trainers, first HTT](https://timesofindia.indiatimes.com/defence/hal-hands-over-lca-foc-trainers-first-htt-40-ankur-to-iaf-4-dhruv-ng-choppers-to-pawan-hans/articleshow/134335070.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
