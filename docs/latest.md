@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-19 02:34:16
+# India Trending Report — 2026-09-19 03:01:45
 
 ## Google Trends (India) — top trending searches
-1. [sigma movie](https://trends.google.com/trending/rss?geo=IN)
-2. [pib](https://trends.google.com/trending/rss?geo=IN)
-3. [आज क्या है](https://trends.google.com/trending/rss?geo=IN)
-4. [amazon warriors vs jamaica kingsmen](https://trends.google.com/trending/rss?geo=IN)
-5. [greenland](https://trends.google.com/trending/rss?geo=IN)
-6. [வன்னி அரசு](https://trends.google.com/trending/rss?geo=IN)
-7. [maaz sadaqat](https://trends.google.com/trending/rss?geo=IN)
-8. [tejaswini](https://trends.google.com/trending/rss?geo=IN)
-9. [japan vs hong kong](https://trends.google.com/trending/rss?geo=IN)
-10. [5](https://trends.google.com/trending/rss?geo=IN)
+1. [తమన్నా భాటియా](https://trends.google.com/trending/rss?geo=IN)
+2. [मस्जिद](https://trends.google.com/trending/rss?geo=IN)
+3. [teqball](https://trends.google.com/trending/rss?geo=IN)
+4. [மதுரை](https://trends.google.com/trending/rss?geo=IN)
+5. [मेष](https://trends.google.com/trending/rss?geo=IN)
+6. [sigma movie](https://trends.google.com/trending/rss?geo=IN)
+7. [pib](https://trends.google.com/trending/rss?geo=IN)
+8. [आज क्या है](https://trends.google.com/trending/rss?geo=IN)
+9. [amazon warriors vs jamaica kingsmen](https://trends.google.com/trending/rss?geo=IN)
+10. [greenland](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Trump signs Russia sanctions bill, gets power to impose up to 100% tariffs on India](https://timesofindia.indiatimes.com/business/international-business/trump-signs-russia-sanctions-bill-into-law-gains-authority-to-impose-100-tariff-on-india-and-china/articleshow/134344362.cms)
 - [US reaches deal with Denmark for ‘permanent security control’ over Greenland](https://timesofindia.indiatimes.com/world/us/us-reaches-deal-with-denmark-for-permanent-security-control-over-greenland-says-donald-trump/articleshow/134343806.cms)
 - [‘Want peace for important deal’: Ex-employee, partner texted family from exec’s phone](https://timesofindia.indiatimes.com/city/delhi/want-some-peace-for-important-deal-ex-employee-partner-sent-texts-to-family-from-executives-phone-after-gurgaon-murder/articleshow/134346228.cms)
+- [Star England pacer escapes charges as police drop assault investigation](https://timesofindia.indiatimes.com/sports/cricket/news/star-england-pacer-escapes-charges-as-police-drop-assault-investigation/articleshow/134346589.cms)
 - [Extremely speedy action by probe agency can create doubt: SC](https://timesofindia.indiatimes.com/india/extremely-speedy-action-by-probe-agency-can-create-doubt-sc/articleshow/134346134.cms)
+- [H-1B visa costs rise while America needs over 157,000 engineers and technicians](https://timesofindia.indiatimes.com/technology/tech-news/h-1b-visa-costs-are-rising-for-us-companies-while-america-needs-more-than-157000-engineers-and-skilled-technicians/articleshow/134343035.cms)
 - [Why Pawan Sehrawat replaced Tajinderpal Singh as India's Asian Games flag-bearer](https://timesofindia.indiatimes.com/sports/asian-games-2026/pawan-sehrawat-replaces-tajinderpal-singh-toor-as-indias-asian-games-flag-bearer/articleshow/134346121.cms)
-- [Meet Dina McCormick, whom Zuckerberg asked to trade her Meta board seat for a job](https://timesofindia.indiatimes.com/technology/tech-news/born-in-cairo-raised-in-texas-meet-dina-powell-mccormick-the-executive-mark-zuckerberg-asked-to-trade-her-meta-board-seat-for-a-job/articleshow/134331563.cms)
+- ['US doing very well with China': Trump ahead of Xi Jinping's first White House visit](https://timesofindia.indiatimes.com/weather/us/us-doing-very-well-with-china-trump-ahead-of-xi-jinpings-first-white-house-visit-in-a-decade/articleshow/134346700.cms)
 - [US clears $2.7 billion Ukraine arms package to bolster air defences](https://timesofindia.indiatimes.com/world/us/us-clears-2-7-billion-ukraine-arms-package-to-bolster-air-defences/articleshow/134346377.cms)
 - [MHA cites internal security issues to defend FCRA tweak](https://timesofindia.indiatimes.com/india/mha-cites-internal-security-issues-to-defend-fcra-tweak/articleshow/134346084.cms)
-- [HC raps Bengal govt for detaining Murshidabad man on mere suspicion he was Bangladeshi](https://timesofindia.indiatimes.com/city/kolkata/hc-raps-bengal-govt-for-detaining-murshidabad-man-without-citing-reason/articleshow/134343624.cms)
-- [Ken Griffey Jr.'s $2.5M Orlando estate now listed for $27M](https://timesofindia.indiatimes.com/world/us/in-2004-ken-griffey-jr-paid-2-575-million-for-11-58-lakefront-acres-near-orlando-four-years-later-he-completed-a-22108-sq-ft-custom-mansion-and-the-estate-is-now-listed-for-27-million/articleshow/134343702.cms)
 
 **NDTV**
 - ["Good For NATO, Europe": Denmark PM Endorses Trump's Greenland Security Deal](https://www.ndtv.com/world-news/good-for-nato-europe-denmark-pm-mette-frederiksen-endorses-donald-trumps-greenland-security-deal-12067132#publisher=newsstand)
@@ -38,6 +38,9 @@
 - [Court Declines To Restrain Transfer Of 5 Elephants From Assam To Tamil Nadu](https://www.ndtv.com/india-news/court-declines-to-restrain-transfer-of-5-elephants-from-assam-to-tamil-nadu-12066812#publisher=newsstand)
 
 **Hindustan Times**
+- [9 sentenced to life in human trafficking case](https://www.hindustantimes.com/india-news/9-sentenced-to-life-in-human-trafficking-case-101789760155152.html)
+- [News channel executive denied bail in excise case in Kerala](https://www.hindustantimes.com/india-news/news-channel-executive-denied-bail-in-excise-case-in-kerala-101789760035088.html)
+- [T’gana man out on bail for pregnant wife’s murder killed by her brother](https://www.hindustantimes.com/india-news/tgana-man-out-on-bail-for-pregnant-wife-s-murder-killed-by-her-brother-101789759915066.html)
 - [Telangana CM seeks central aid to mitigate El Niño fallout in state](https://www.hindustantimes.com/india-news/telangana-cm-seeks-central-aid-to-mitigate-el-ni-o-fallout-in-state-101789759614446.html)
 - [DMK intensifies negotiations to form ‘third front’](https://www.hindustantimes.com/india-news/dmk-intensifies-negotiations-to-form-third-front-101789759498948.html)
 - [US national gets default bail in arms training case](https://www.hindustantimes.com/india-news/usnational-gets-default-bail-in-arms-training-case-101789759376346.html)
@@ -45,21 +48,18 @@
 - [DUSU 2026 election results LIVE: Counting of votes for 4 key posts today; ABVP, NSUI battle intensifies](https://www.hindustantimes.com/india-news/dusu-2026-election-results-live-updates-abvp-nsui-aisa-yash-dabas-ishu-maurya-vijay-shankar-meena-vote-counting-winner-101789782171387.html)
 - [Jhiram Valley massacre: Maoists planned ambush months in advance, rehearsed attack, court order reveals](https://www.hindustantimes.com/india-news/jhiram-valley-massacre-maoists-planned-ambush-months-in-advance-rehearsed-attack-court-order-reveals-101789752954830.html)
 - [Nestle India faces legal action as FSSAI flags baby food quality, promotion violations](https://www.hindustantimes.com/india-news/nestle-indias-baby-food-products-face-legal-action-as-fssai-cracks-down-on-violations-101789780611853.html)
-- [Gurugram cops destroyed proof: Family of man allegedly killed by ex-colleague, her partner](https://www.hindustantimes.com/india-news/gurugram-cops-destroyed-proof-family-of-man-allegedly-killed-by-ex-colleague-her-partner-yuvraj-singh-manchanda-murder-101789754390819.html)
-- [Trump to sign Russia sanctions bill today that threatens 100% tariffs on India: Report](https://www.hindustantimes.com/india-news/trump-to-sign-russia-sanctions-bill-today-that-threatens-100-per-cent-tariffs-on-india-101789751001313.html)
-- [‘Moving towards Atmanirbhar Bharat’: Rajnath Singh hails handover of aircraft, helicopters by HAL to IAF and PHL](https://www.hindustantimes.com/india-news/moving-rapidly-towards-atmanirbhar-bharat-rajnath-singh-hails-handover-of-aircraft-and-helicopters-by-hal-to-iaf-and-101789749533093.html)
 
 **Vijay Karnataka**
+- [ವಿವಾದದ ಮಧ್ಯೆ ತಿ.ನರಸೀಪುರದಲ್ಲಿ ಶಾಂತಿಯುತ ಗಣೇಶ ಶೋಭಾಯಾತ್ರೆ: ಮಿನಿ ದಸರಾ ಮಾದರಿಯಲ್ಲಿ ಮೆರವಣಿಗೆ, ಪ್ರತಾಪ್‌ ಸಿಂಹ ಭಾಗಿ!](https://vijaykarnataka.com/news/mysuru/ganesha-shobhayatra-concludes-peacefully-in-t-narasipura-amid-controversy/articleshow/134346346.cms)
+- [ಬೆಂಗಳೂರಲ್ಲಿ ಫುಟ್‌ಪಾತ್ ಮರುಒತ್ತುವರಿ ಮಾಡಿದ್ರೆ FIR, ದಂಡ ಫಿಕ್ಸ್: ಅಧಿಕಾರಿಗಳಿಗೆ ಸಚಿವ ಕೃಷ್ಣ ಬೈರೇಗೌಡ ಸೂಚನೆ‌](https://vijaykarnataka.com/news/bengaluru-city/minister-krishn-byregowda-order-to-file-fir-fine-on-footpath-re-encroachment-in-bengaluru/articleshow/134346508.cms)
 - [ಮಳೆಗಾಲದಲ್ಲೇ ಕರ್ನಾಟಕದ 710 ಗ್ರಾಮಗಳಲ್ಲಿ ನೀರಿನ ಸಮಸ್ಯೆ: ಡ್ಯಾಂ,ಕೆರೆಗಳಲ್ಲಿ ನೀರಿನ ಮಟ್ಟ ಕುಸಿತ, ಕುಡಿಯಲು-ಬಳಕೆಗೂ ನೀರಿಲ್ಲ!](https://vijaykarnataka.com/news/karnataka/water-crisis-in-710-villages-of-karnataka-during-monsoon-severe-shortage-of-drinking-water-in-drought-affected-areas/articleshow/134346270.cms)
-- [ಬೆಂಗಳೂರಲ್ಲಿನ ಅನಧಿಕೃತ ಪಿಜಿಗಳಿಗೆ ಹೈಕೋರ್ಟ್‌ ಬ್ರೇಕ್‌: ಪೇಯಿಂಗ್‌ ಗೇಸ್ಟ್‌ಗಳ ಸುರಕ್ಷತೆ, ನಿಯಂತ್ರಣಕ್ಕೆ ಮಾರ್ಗಸೂಚಿ ಜಾರಿ!](https://vijaykarnataka.com/news/bengaluru-city/high-court-puts-brake-on-unauthorized-pgs-in-bengaluru-guidelines-for-the-safety-of-paying-guests/articleshow/134346143.cms)
-- [ಕರ್ನಾಟಕದ 2ನೇ ಭಾಷೆಯಾಗಿ ತುಳುವಿಗೆ ಸ್ಥಾನಮಾನ: ಸಚಿವ ಸಂಪುಟ ನಿರ್ಣಯ; ದೇಗುಲ, ಮಸೀದಿಗಳಿಗೆ ಭರ್ಜರಿ ಅನುದಾನ ಘೋಷಣೆ](https://vijaykarnataka.com/news/mangaluru/mangaluru-cabinet-decides-grant-tulu-status-of-karnataka-second-language-massive-grants-announced-for-temples-mosques/articleshow/134332621.cms)
 - [ಐಶ್ವರ್ಯಾ ರೈ ಹೋಲುವ ಸ್ನೇಹಾ ಉಳ್ಳಾಲ್ ಗ್ಲಾಮರಸ್ ಅವತಾರ; ಪೂಲ್‌ಸೈಡ್ ಲುಕ್, ಮಿನಿ ಸ್ಕರ್ಟ್‌ ಧರಿಸಿ ಸ್ಟೈಲ್ ಮೋಡಿ!](https://vijaykarnataka.com/lifestyle/fashion/sneha-ullal-stylish-looks-mini-skirt-dresses-goa-vacation/articleshow/134346449.cms)
-- [ಅರಬ್ಬೀ ಸಮುದ್ರದಲ್ಲಿ ಭಾರತ-ಪಾಕಿಸ್ತಾನ ಯುದ್ಧನೌಕೆಗಳ ನಡುವೆ ಡಿಕ್ಕಿ: ಪಿಎನ್‌ಎಸ್‌ ಹುನೈನ್ ಹುಚ್ಚಾಟಕ್ಕೆ ಭಾರತ ಕಿಡಿ!](https://vijaykarnataka.com/news/india/india-and-pakistan-warship-collision-in-arabian-sea-mea-slams-pns-hunain-unprofessional-manoeuvre/articleshow/134337703.cms)
+- [ಬೆಂಗಳೂರಲ್ಲಿನ ಅನಧಿಕೃತ ಪಿಜಿಗಳಿಗೆ ಹೈಕೋರ್ಟ್‌ ಬ್ರೇಕ್‌: ಪೇಯಿಂಗ್‌ ಗೇಸ್ಟ್‌ಗಳ ಸುರಕ್ಷತೆ, ನಿಯಂತ್ರಣಕ್ಕೆ ಮಾರ್ಗಸೂಚಿ ಜಾರಿ!](https://vijaykarnataka.com/news/bengaluru-city/high-court-puts-brake-on-unauthorized-pgs-in-bengaluru-guidelines-for-the-safety-of-paying-guests/articleshow/134346143.cms)
 - [Photos: ಮಗನ ಅದ್ಧೂರಿ ನಾಮಕರಣದ ಸುಂದರ ಚಿತ್ರಗಳನ್ನ ಹಂಚಿಕೊಂಡ ‘ಲಕ್ಷ್ಮೀ ನಿವಾಸ’ ನಟಿ ಮಾನಸಾ ಮನೋಹರ್!](https://vijaykarnataka.com/vk-gallery/cinema/jothe-jotheyali-serial-actress-mansa-manohar-son-naming-ceremony/photoshow/134346386.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [ಶನಿವಾರ ಪುರುಷರು ಮತ್ತು ಸ್ತ್ರೀಯರು ಮಾಡಬಾರದ ಕೆಲಸಗಳು: ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/saturday-men-and-women-do-not-do-these-mistakes-otherwise-you-will-face-shani-angry/articleshow/134333229.cms)
 - [ಇನ್ವರ್ಟರ್ ಬಳಿ ಈ 7 ವಸ್ತುಗಳನ್ನು ಇಡಬೇಡಿ; ಓವರ್‌ಹೀಟ್ ಆಗಿ ಬೆಂಕಿ ಅವಘಡಕ್ಕೆ ಕಾರಣವಾಗಬಹುದು!](https://vijaykarnataka.com/lifestyle/relationship/home-inverter-safety-7-things-not-to-place-near-inverter/articleshow/134333698.cms)
-- [ಪರ್ವತಗಳನ್ನೇ ಅಲುಗಾಡಿಸಿದ ಉತ್ತರ ಕೊರಿಯಾ ಪರಮಾಣು ಪರೀಕ್ಷೆಗಳು: 1,399 ಭೂಕಂಪನಗಳಿಗೆ ಕಾರಣವಾದ ಕಿಮ್‌ ಜಾಂಗ್‌ ಉನ್‌ ಹಠ!](https://vijaykarnataka.com/news/world/north-koreas-nuclear-tests-triggered-unusual-earthquakes-near-mount-mantap-study-reveals/articleshow/134340141.cms)
+- [ಕರ್ನಾಟಕದ 2ನೇ ಭಾಷೆಯಾಗಿ ತುಳುವಿಗೆ ಸ್ಥಾನಮಾನ: ಸಚಿವ ಸಂಪುಟ ನಿರ್ಣಯ; ದೇಗುಲ, ಮಸೀದಿಗಳಿಗೆ ಭರ್ಜರಿ ಅನುದಾನ ಘೋಷಣೆ](https://vijaykarnataka.com/news/mangaluru/mangaluru-cabinet-decides-grant-tulu-status-of-karnataka-second-language-massive-grants-announced-for-temples-mosques/articleshow/134332621.cms)
 
 **The Hindu**
 - [Odisha government plans 870-Acre Silicon Valley hub in Cuttack’s Naraj for semiconductor, IT projects](https://www.thehindu.com/news/national/odisha/odisha-government-plans-870-acre-silicon-valley-hub-in-cuttacks-naraj-for-semiconductor-it-projects/article71481519.ece)
@@ -74,7 +74,8 @@
 - [Jhiram Valley Maoist attack case ‘rarest of rare': court order](https://www.thehindu.com/news/national/chhattisgarh/jhiram-valley-maoist-attack-case-rarest-of-rare-court-order/article71481943.ece)
 
 **Livemint**
-- [US-Iran war LIVE Updates: Trump’s UN speech to focus on Iran, Gaza peace plan, envoy Mike Waltz says](https://www.livemint.com/news/us-news/usiran-war-live-updates-trump-un-speech-to-focus-on-iran-gaza-peace-plan-strait-of-hormuz-sanction-bill-11789782948443.html)
+- [‘Will FOREVER have complete ability to do what is necessary in Greenland’ — Trump announces US-Denmark deal](https://www.livemint.com/news/us-news/will-forever-have-complete-ability-to-do-what-is-necessary-in-greenland-trump-announces-us-denmark-deal-11789781824701.html)
+- [US-Iran war LIVE Updates: Saudi Arabia issues second danger alerts for Riyadh and al-Kharj overnight](https://www.livemint.com/news/us-news/usiran-war-live-updates-trump-un-speech-to-focus-on-iran-gaza-peace-plan-strait-of-hormuz-sanction-bill-11789782948443.html)
 - [Petrol, diesel prices today, September 19: Check rates in Delhi, Mumbai, Bengaluru](https://www.livemint.com/news/india/petrol-diesel-prices-today-september-19-check-rates-in-delhi-mumbai-bengaluru-11789780532491.html)
 - [Trump signs Russia sanctions bill, clears way for 100% tariff on India and China](https://www.livemint.com/news/us-news/trump-signs-russia-sanctions-bill-clears-way-for-100-tariff-on-india-and-china-11789778841284.html)
 - ['Ban on the free press': WHCA condemns Trump's move to bar CNN, MS NOW and Politico](https://www.livemint.com/news/us-news/ban-on-the-free-press-whca-condemns-trumps-move-to-bar-cnn-ms-now-and-politico-11789778879181.html)
@@ -83,7 +84,6 @@
 - [Iran war US casualties: Why Pentagon tally shows 18 while officials cite 22-23](https://www.livemint.com/news/us-news/iran-war-us-casualties-why-pentagon-tally-shows-18-while-officials-cite-2223-11789762061360.html)
 - [Iran War Drives Bigger Diesel Supply Loss Despite Trump’s Claims](https://www.livemint.com/news/us-news/iran-war-drives-bigger-diesel-supply-loss-despite-trump-s-claims-11789759718718.html)
 - [Disney has hired veteran technology executive Karandeep Anand as its first chief technology officer: Who is he?](https://www.livemint.com/news/us-news/disney-has-hired-veteran-technology-executive-karandeep-anand-as-its-first-chief-technology-officer-who-is-he-11789755755723.html)
-- [Tamil Nadu gold ring for newborns: CM Vijay to launch scheme on Sep 28; 1.28L pieces ready for phase 1—check eligibility](https://www.livemint.com/news/india/tamil-nadu-gold-ring-for-newborns-cm-vijay-to-launch-scheme-on-sep-28-1-28l-pieces-ready-for-phase-1-check-eligibility-11789752385693.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -111,34 +111,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - Trump (7.7)
-- India (7.1)
+- India (5.8)
 - Emkay Global Financial (5.0)
-- Russia (4.5)
-- Iran (3.2)
+- Russia (3.2)
 - ICICI Securities (3.0)
 - target (3.0)
+- Greenland (2.9)
 - China (2.6)
-- Report (2.6)
 - Photos (2.6)
 - Bihar (2.6)
 - Politico (2.6)
-- Tamil Nadu (2.0)
+- White House (2.0)
 - Buy Bajaj Finance (2.0)
+- Iran (1.9)
 - Denmark (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ['No crude oil next month', Saudi Aramco tells some European refiners after Red Sea pipeline attack](https://timesofindia.indiatimes.com/business/international-business/no-crude-oil-next-month-saudi-aramco-tells-some-european-refiners-after-red-sea-pipeline-attack/articleshow/134337945.cms)
-- [सोयाबीन पिकाची अंत्ययात्रा! शेतकऱ्याने तब्बल आठ एकर क्षेत्रावर फिरवला नांगर, पावसाच्या खंडामुळे पीक उद्ध्वस्त](https://www.loksatta.com/nagpur/washim-soybean-crop-drought-farmer-plow-eight-acres-css-98-6143716/)
-- [Nandigram Congress Candidate Arrested: "ফোন ধরছেন না প্রার্থী, কিছুক্ষণ আগে আমায় বলেছিল যে, ওরা আমাকে কিডন্যাপ করতে পারে", চাঞ্চল্যকর দাবি প্রদেশ কংগ্রেসের সভাপতির](https://bengali.abplive.com/district/nandigram-congress-candidate-arrested-subhankar-sarkar-reaction-breaking-news-1193327)
-- [રાજ્યના પોલીસ બેડામાં મોટો ફેરફાર, 10 IPS-SPS અધિકારીઓની બદલી-નિમણૂક](https://www.gujaratsamachar.com/news/gandhinagar/major-reshuffle-in-the-state-police-system-transfer-and-appointment-of-10-ips-sps-officers-12940328563)
-- [Parthiv Patel Set To Replace Ajit Agarkar : रोहित शर्मा, सूर्याला कर्णधारपदावरुन हटवणाऱ्या अजित आगरकरांचा गेम ओव्हर? एक Coming Soonची पोस्ट अन् भारतीय क्रिकेटमध्ये खळबळ](https://marathi.abplive.com/sports/cricket/ajit-agarkar-future-in-doubt-parthiv-patel-coming-soon-post-sparks-bcci-chief-selector-buzz-marathi-news-1439521)
-- [158 વર્ષ જૂનો વારસો દાવ પર, ટાટા ગ્રુપમાં ચેરમેનની ખુરશી અને લિસ્ટિંગ મુદ્દે ખેંચમતાણ, જાણો વિવાદની સંપૂર્ણ કહાની](https://www.gujaratsamachar.com/news/national/158-year-old-legacy-at-stake-tata-group-is-in-a-tug-of-war-over-the-chairmans-chair-and-listing-know-the-full-story-of-the-controversy-33579478955)
-- [ബ്രാൻഡ് അംബാസഡറായി സഞ്ജു സാംസൺ; പ്രഖ്യാപിച്ചത് ഡൽഹി മുഖ്യമന്ത്രി രേഖ ഗുപ്ത](https://www.madhyamam.com/sports/cricket/sanju-samson-brand-ambassador-delhi-jan-kaushal-kendra-1555703)
-- [மாருதியின் மாஸ் காட்டும் ஆகஸ்ட் சேல்ஸ்: லிஸ்ட்ல டாப் 10 கார்கள் எதெல்லாம் தெரியுமா?](https://www.cardekho.com/ta/news/general/maruti-suzuki-august-2026-sales-report-wagon-r-leads-victoris-breaks-into-top-10-36666.htm)
-- [தாராபுரம் அதிமுக வேட்பாளர், நிர்வாகிகள் மீது வழக்குப்பதிவு](https://www.etvbharat.com/ta/state/dharapuram-aiadmk-candidate-and-office-bearers-police-fir-filed-tvk-leader-complaint-tns26091804867)
-- [शेवटी आहे तर राहुलचाच मुलगा! अन्वय द्रविडची ऑस्ट्रेलियाविरुद्ध स्फोटक खेळी, 18 चेंडूंमध्ये…](https://www.tv9marathi.com/photo-gallery/rahul-dravid-son-anvay-18-ball-38-runs-india-u19-vs-australia-u19-rajkot-2026-1759387.html)
+- [vivo X500 Pro Max's main specs are out just as it receives another certification](https://www.gsmarena.com/vivo_x500_pro_maxs_main_specs_are_out_just_as_it_receives_another_certification-news-74675.php)
+- [നന്ദിഗ്രാമിലെ കോണ്‍ഗ്രസ് സ്ഥാനാര്‍ത്ഥി അറസ്റ്റില്‍; മമത ബാനര്‍ജിയുടെ പിന്തുണക്ക് പിന്നാലെ നാടകീയ നീക്കങ്ങൾ](https://www.reporterlive.com/topnews/national/2026/09/18/nandigram-bypoll-congress-candidate-milan-pradhan-arrest-mamata-support)
+- [NASA Photos Show Before and After of Massive Asteroid Impact on the Moon](https://petapixel.com/2026/09/18/nasa-photos-show-before-and-after-of-massive-asteroid-impact-on-the-moon/)
+- [డూప్ లేకుండా.. శోభిత ధూళిపాళ్ల డెడికేషన్‌కు పా. రంజిత్ ఫిదా](https://www.chitrajyothy.com/2026/south-cinema/tamil/vettuvam-sobhita-dhulipala-no-stunt-double-pa-ranjith-praise-rcb-75500.html)
+- [Abhishek Sharma is forcing T20 cricket to rethink its oldest trade-off, and his rivals are nowhere near the answer](https://www.hindustantimes.com/cricket/abhishek-sharma-is-forcing-t20-cricket-to-rethink-its-oldest-trade-off-and-his-rivals-are-nowhere-near-the-answer-101789741523816.html)
+- [New US sanctions bill on Russia puts India's Modi in a bind](https://www.reuters.com/business/energy/new-us-sanctions-bill-russia-puts-indias-modi-bind-2026-09-18/)
+- [Weekend Rain Forecast: আশঙ্কা ঘূর্ণিঝড়ের, সক্রিয় ২ অক্ষরেখা; উইকএন্ডে ভিজবে কোন কোন জেলা?](https://bangla.aajtak.in/kolkata/story/two-active-troughs-cyclone-threat-looms-bengal-districts-kolkata-will-see-rain-this-weekend-sud-1452509-2026-09-18)
+- [8 ఏళ్ల ఎదురుచూపులకు ముగింపు.. ఆర్టీసీలో గుర్తింపు సంఘం ఎన్నికల షెడ్యూల్‌ విడుదల](https://telugu.samayam.com/telangana/news/tgsrtc-recognition-union-elections-polling-on-october-9-results-on-october-17/articleshow/134338177.cms)
+- [എന്ത് അമ്മയാടോ താന്‍, ആ കൊച്ചിന് കുറച്ച് സ്വൈര്യം കൊടുത്തൂടെ എന്നാണ് സിനിമ കണ്ടിട്ട് മകള്‍ ചോദിച്ചത്: മഞ്ജുശ്രീ നായര്‍](https://www.doolnews.com/manjusree-nair-about-the-response-after-the-release-of-bethlehem-kudumba-unit-64-144.html)
+- ["முழுக்க முழுக்க False case" - அன்பில் மகேஷ் பேட்டி](https://www.toptamilnews.com/thamizhagam/anbil-mahesh-press-meet/cid19269459.htm)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
