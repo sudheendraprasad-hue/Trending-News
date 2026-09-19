@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-19 20:01:56
+# India Trending Report — 2026-09-19 20:34:06
 
 ## Google Trends (India) — top trending searches
-1. [barcelona](https://trends.google.com/trending/rss?geo=IN)
-2. [fcb](https://trends.google.com/trending/rss?geo=IN)
-3. [pawan singh news](https://trends.google.com/trending/rss?geo=IN)
-4. [sohail khan](https://trends.google.com/trending/rss?geo=IN)
-5. [mom and son](https://trends.google.com/trending/rss?geo=IN)
-6. [desi](https://trends.google.com/trending/rss?geo=IN)
-7. [salman khan](https://trends.google.com/trending/rss?geo=IN)
-8. [rohit sharma](https://trends.google.com/trending/rss?geo=IN)
-9. [epl table](https://trends.google.com/trending/rss?geo=IN)
-10. [hotstar](https://trends.google.com/trending/rss?geo=IN)
+1. [barca](https://trends.google.com/trending/rss?geo=IN)
+2. [barcelona](https://trends.google.com/trending/rss?geo=IN)
+3. [fcb](https://trends.google.com/trending/rss?geo=IN)
+4. [pawan singh news](https://trends.google.com/trending/rss?geo=IN)
+5. [sohail khan](https://trends.google.com/trending/rss?geo=IN)
+6. [mom and son](https://trends.google.com/trending/rss?geo=IN)
+7. [desi](https://trends.google.com/trending/rss?geo=IN)
+8. [salman khan](https://trends.google.com/trending/rss?geo=IN)
+9. [rohit sharma](https://trends.google.com/trending/rss?geo=IN)
+10. [epl table](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Mamata's TMC rollercoaster: 3 days, 3 setbacks, then a breather](https://timesofindia.indiatimes.com/india/mamatas-72-hour-rollercoaster-symbol-tmc-name-candidates-exit-then-a-breather-on-day-3/articleshow/134353274.cms)
-- ['Only high IQ individuals need apply': Trump announces 'AI Force'](https://timesofindia.indiatimes.com/world/us/only-high-iq-individuals-need-apply-trump-announces-ai-force/articleshow/134358415.cms)
+- [A Tulu promise: Why DKS is trying a different language in BJP's coastal bastion](https://timesofindia.indiatimes.com/india/bjp-promise-in-its-coastal-bastion-why-dk-shivakumar-put-tulu-at-centre-in-mangaluru/articleshow/134353768.cms)
+- [Iran gives US 3 conditions to restart talks, says ‘threats won't achieve results’](https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms)
 - [Army chief’s military talks in Russia focus on artillery modernisation, capability development](https://timesofindia.indiatimes.com/defence/news/army-chiefs-military-talks-in-russia-focus-on-artillery-modernisation-capability-development/articleshow/134360116.cms)
 - [Father-son duo makes history: Shigenobu and Koji light cauldron in Nagoya](https://timesofindia.indiatimes.com/sports/asian-games-2026/father-son-duo-makes-history-five-time-asian-games-champion-shigenobu-murofushi-and-olympic-gold-medallist-son-koji-light-cauldron-in-aichi-nagoya/articleshow/134356286.cms)
-- ['I knew this was the end of my career': Doval recalls when China captured his agents](https://timesofindia.indiatimes.com/india/i-knew-this-was-the-end-of-my-career-ajit-doval-recalls-when-his-agents-were-captured-by-china/articleshow/134356490.cms)
+- ['Only high IQ individuals need apply': Trump announces 'AI Force'](https://timesofindia.indiatimes.com/world/us/only-high-iq-individuals-need-apply-trump-announces-ai-force/articleshow/134358415.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
+- ['I knew this was the end of my career': Doval recalls when China captured his agents](https://timesofindia.indiatimes.com/india/i-knew-this-was-the-end-of-my-career-ajit-doval-recalls-when-his-agents-were-captured-by-china/articleshow/134356490.cms)
+- [Mamata's TMC rollercoaster: 3 days, 3 setbacks, then a breather](https://timesofindia.indiatimes.com/india/mamatas-72-hour-rollercoaster-symbol-tmc-name-candidates-exit-then-a-breather-on-day-3/articleshow/134353274.cms)
 - ['How is it possible?' Kejriwal and family get SIR notice in Delhi, EC responds](https://timesofindia.indiatimes.com/india/everything-happening-to-keep-supreme-lord-happy-aap-asks-why-kejriwal-family-missing-from-delhi-voter-list/articleshow/134355364.cms)
-- [Meet Neha Thakur, 25, Himachal Pradesh’s first woman truck driver](https://timesofindia.indiatimes.com/life-style/people/meet-neha-thakur-the-25-year-old-from-mandi-who-left-air-hostess-training-to-become-himachal-pradeshs-first-woman-truck-driver-i-drive-a-truck-just-like-my-father/articleshow/134354416.cms)
-- [J&K crippled by ‘lame duck’ assembly & CM: Former CEC Quraishi](https://timesofindia.indiatimes.com/india/jk-crippled-by-lame-duck-assembly-cm-former-cec-quraishi/articleshow/134359747.cms)
-- [US tightens H-1B scrutiny: Employers with layoffs face closer checks](https://timesofindia.indiatimes.com/world/us/us-tightens-h-1b-scrutiny-employers-with-layoffs-face-closer-checks/articleshow/134351690.cms)
+- [Woman retires after 53 years; colleagues surprise her with font bearing her name](https://timesofindia.indiatimes.com/world/us/at-18-pat-lightizer-joined-a-massachusetts-company-where-letters-were-still-drawn-by-hand-53-years-later-she-retired-and-her-colleagues-surprised-her-with-a-font-bearing-her-name/articleshow/134335936.cms)
 
 **NDTV**
 - [After Slowdown Calls, Trump Says He Will Set Up 'AI Force', Name 'AI Czar'](https://www.ndtv.com/world-news/after-slowdown-calls-trump-says-he-will-set-up-ai-force-name-ai-czar-12070075#publisher=newsstand)
@@ -74,6 +74,7 @@
 - [‘India is entering a period of economic growth that could be unparalleled in our history’](https://www.thehindu.com/news/national/tamil-nadu//article71485038.ece)
 
 **Livemint**
+- [Trump-Xi state dinner: Why America’s biggest tech bosses will be at the table](https://www.livemint.com/news/us-news/trumpxi-state-dinner-why-america-s-biggest-tech-bosses-will-be-at-the-table-11789848887821.html)
 - [Xi Jinping's US state visit in 11 years: What Trump and China's leader will discuss](https://www.livemint.com/news/us-news/xi-jinpings-us-state-visit-in-11-years-what-trump-and-chinas-leader-will-discuss-11789846576456.html)
 - [Houthis claim attacks on Saudi capital after flames, black smoke seen near Riyadh airport](https://www.livemint.com/news/world/houthis-claim-attacks-on-saudi-capital-after-flames-black-smoke-seen-near-riyadh-airport-11789843604832.html)
 - [Trump announces ‘AI Force’, plans to name AI czar: ‘We will not in any way hinder or stifle growth’](https://www.livemint.com/news/us-news/trump-announces-ai-force-plans-to-name-ai-czar-we-will-not-in-any-way-hinder-or-stifle-growth-11789842303172.html)
@@ -83,7 +84,6 @@
 - [Trump defends son Don Jr. after Putin-linked Russian businessman-funded wedding: ‘He paid them back’](https://www.livemint.com/news/us-news/trump-defends-son-don-jr-after-putin-linked-russian-businessman-funded-wedding-he-paid-them-back-11789833376714.html)
 - [‘Shame on CBSE’ trends: Teacher claims delayed NCERT books are putting Class 9 students under pressure](https://www.livemint.com/news/india/shame-on-cbse-trends-teacher-claims-delayed-ncert-books-are-putting-class-9-students-under-pressure-11789830811226.html)
 - [Trump tariffs ‘unfair’: India will buy energy from commercially viable sources, says MoS amid Russia-Iran sanctions law](https://www.livemint.com/news/india/trump-tariffs-unfair-india-will-buy-energy-from-commercially-viable-sources-says-mos-amid-russia-iran-sanctions-law-11789828160506.html)
-- [Ed Sheeran returns to stage after Macklemore was removed and other acts withdrew over Palestine row](https://www.livemint.com/news/us-news/ed-sheeran-returns-to-stage-after-macklemore-was-removed-and-other-acts-withdrew-over-palestine-row-11789826090651.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -104,6 +104,7 @@
 - October (5.2)
 - DUSU (3.9)
 - India (2.9)
+- Trump-Xi (2.6)
 - AI Force' (2.0)
 - Rahul Gandhi (2.0)
 - Kejriwal (1.9)
@@ -112,23 +113,22 @@
 - What (1.9)
 - Vijay (1.6)
 - ABVP's (1.6)
-- Only (1.3)
-- Army (1.3)
-- Russia (1.3)
+- Tulu (1.3)
+- BJP's (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Mamata Banerjee | మ‌మ‌తాబెన‌ర్జికి దెబ్బ‌మీద దెబ్బ‌.. రేజిన‌గ‌ర్ అభ్య‌ర్థి కూడా పోటీ నుంచి నిష్క్ర‌మ‌ణ‌](https://www.ntnews.com/national/mamata-banerjees-pick-for-rejinagar-bypoll-withdraws-candidature-day-after-nandigram-blow-2514541)
-- [Durga Puja 2026: ২০২৬ সালের দুই পঞ্জিকা মতে মহালয়া থেকে দুর্গা ও লক্ষ্মী পুজা পর্যন্ত দিনক্ষণ, দেখে নিন](https://bangla.asianetnews.com/religion/durga-puja-2026-date-and-time-mahalaya-kojagari-lakshmi-puja-durga-puja-date-and-time-check-this/photoshow-5bic6d6)
-- [ईरान ने जासूस को दी फांसी, इजरायल को मिसाइल ठिकानों की जानकारी देने का आरोप](https://www.aajtak.in/world/story/iran-executes-spy-hossein-pedaran-for-leaking-military-secrets-to-israel-ntc-aktw-dskc-2647034-2026-09-19)
-- [3 करोड़ के नोटों से सजी गणेश प्रतिमा की कहानी... आस्था और उत्सव के बीच पंडाल में दिखी अनोखी थीम](https://www.aajtak.in/india/telangana/story/telangana-palvancha-ganesh-idols-decorated-with-currency-worth-rs-3-crore-lcla-rptc-2647018-2026-09-19)
-- ['મારી સાથે આ ભાષામાં આ વાત નહીં કરવાની', જનતાએ રોડ બનાવવાનું કહેતા મોદી કેબિનેટના મંત્રી ભડક્યા](https://www.gujaratsamachar.com/news/national/MP-Residents-Block-Jyotiraditya-Scindias-Convoy-Demanding-Road-Minister-Sanctions-3-Crore-77788504473)
-- [മമത ബാനര്‍ജിക്ക് വീണ്ടും കനത്ത തിരിച്ചടി; നന്ദിഗ്രാമിന് പിന്നാലെ റെജിനഗറിലും സ്ഥാനാര്‍ത്ഥി പിന്മാറി](https://www.reporterlive.com/topnews/national/2026/09/19/mamata-banerjee-trinamool-congress-rejinagar-nandigram-bypoll-candidate-election)
-- [ట్రంప్ భారీ షాక్.. లక్ష డాలర్ల ఫీజు రూల్ పొడిగింపు!](https://telugu.economictimes.com/news/business/trump-extends-100000-dollar-h1b-visa-fee-impact-on-indian-professionals/articleshow/134350177.cms)
-- [മുൻഭാര്യക്കൊപ്പം വീണ്ടും ഗണേഷ് കുമാർ; ആഘോഷമായി മകന്‍റെ വിവാഹം](https://www.metrovaartha.com/news/kerala/ganesh-kumar-reunites-with-ex-wife-sons-wedding-celebrated-grandly)
-- [एशियन गेम्स से पहले टीम इंडिया के साथ ब्लंडर! जर्सी और किट का साइज ने किया परेशान, BCCI को करनी पड़ी मशक्कत](https://www.aajtak.in/sports/asian-games/story/team-india-jersey-kit-issue-asian-games-2026-shreyas-iyer-bcci-tspok-dskc-2647024-2026-09-19)
-- [‘चीनी सेना ने पकड़ लिए थे हमारे एजेंट’, NSA डोभाल ने सुनाया 50 साल पुराना किस्सा](https://www.aajtak.in/india/news/story/ajit-doval-iit-roorkee-convocation-china-custody-sikkim-intelligence-mission-sherpa-life-lesson-map-reading-ntc-agkp-dskc-2647016-2026-09-19)
+- [അവനെ വളർത്തിയത് യാമിനി തങ്കച്ചി, മുറിഞ്ഞാൽ ചോര വരുന്ന ശരീരവും നോവുന്നൊരു മനസും ​ഗണേശിനുമുണ്ട്; കുറിപ്പ്!](https://malayalam.filmibeat.com/features/ganesh-kumar-s-son-s-wedding-photos-draw-criticism-netizen-defends-the-actor-and-his-family-144861.html)
+- [DUSU 2026 election results LIVE: ABVP sweeps DUSU polls, secures 3 posts, Independent Deepanshu Shokeen wins VP seat](https://www.hindustantimes.com/india-news/dusu-2026-election-results-live-updates-abvp-nsui-aisa-yash-dabas-ishu-maurya-vijay-shankar-meena-vote-counting-winner-101789782171387.html)
+- [கிரீன்லாந்து மீது அமெரிக்காவுக்கு நிரந்தர பாதுகாப்பு கட்டுப்பாடு? - டிரம்ப் அறிவித்த புதிய ஒப்பந்தம்](https://www.polimernews.com/worldnews/trump-greenland-us-permanent-security-control-denmark-deal-12551876)
+- [Abhishek Sharma: 'কিডন্যাপ করে নিয়ে যেতে চাই', ভারতের বিধ্বংসী ওপেনাকে নিয়ে চাঞ্চল্যকর মন্তব্য](https://bengali.abplive.com/sports/cricket/abhishek-sharma-female-fan-from-afghanistan-wants-to-kidnap-him-1193407)
+- [നടന്നുപോവുകയായിരുന്ന വയോധികനെ ബൈക്ക് ഇടിച്ചുതെറിപ്പിച്ചു; നിർത്താതെ പോയ വിദ്യാർഥികൾ പിടിയിൽ!](https://www.expresskerala.com/news/students-who-struck-and-flung-aside-an-elderly-pedestrian-and-then-drove-off-without-stopping-have-been-caught.html)
+- [250 करोड़ के बंगले में पहला गणपति विसर्जन, रणबीर-नीतू कपूर हुए भावुक, आलिया ने छिपाया बेटी राहा का चेहरा](https://www.aajtak.in/entertainment/bollywood-news/photo/ramayana-ranbir-kapoor-first-ganpati-visarjan-at-250-crore-bungalow-alia-bhatt-hides-raha-face-neetu-kapoor-tmovf-2647025-2026-09-19)
+- [Sanjay Shirsat: दुष्काळाच्या बैठकीत नेत्यांसाठी काजू-बदामांची मेजवानी, संजय शिरसाट संतापले 'अधिकारी काजू बदाम आणतात आणि बदनाम...'](https://marathi.abplive.com/news/politics/sanjay-shirsat-on-feast-of-cashews-and-almonds-for-leaders-at-a-drought-review-meeting-sanjay-shirsat-furious-officials-bring-cashews-and-almonds-yet-we-get-a-bad-name-1439580)
+- ["माझ्या मुलाचा छळ केला", IIT मुंबईतील आत्महत्याग्रस्त विद्यार्थ्याच्या आईची प्रतिक्रिया; म्हणाल्या, "आम्हाला..."](https://www.loksatta.com/maharashtra/iit-bombay-student-suicide-mother-statement-complaint-sgk-96-6144572/)
+- [‘વિકાસશીલ દેશો પર ખોટો દોષ ન થોપો’, કાર્બન ઉત્સર્જનના આરોપો પર PM મોદીનો જવાબ](https://www.gujaratsamachar.com/news/national/dont-put-the-wrong-blame-on-developing-countries-pm-modis-response-to-allegations-of-carbon-emissions-90313296694)
+- [Ghansawangi Drought : पिके करपली, जलस्रोत आटले; शेतकऱ्यांच्या ताटात माती](https://pudhari.news/maharashtra/marathwada/jalna/crops-withered-water-sources-dried-up-soil-on-the-farmers-plates-np88)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
