@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-19 01:34:00
+# India Trending Report — 2026-09-19 02:01:57
 
 ## Google Trends (India) — top trending searches
-1. [आज क्या है](https://trends.google.com/trending/rss?geo=IN)
-2. [guyana amazon warriors vs jamaica kingsmen match scorecard](https://trends.google.com/trending/rss?geo=IN)
-3. [greenland](https://trends.google.com/trending/rss?geo=IN)
-4. [வன்னி அரசு](https://trends.google.com/trending/rss?geo=IN)
-5. [maaz sadaqat](https://trends.google.com/trending/rss?geo=IN)
+1. [pib](https://trends.google.com/trending/rss?geo=IN)
+2. [आज क्या है](https://trends.google.com/trending/rss?geo=IN)
+3. [வானிலை](https://trends.google.com/trending/rss?geo=IN)
+4. [greenland](https://trends.google.com/trending/rss?geo=IN)
+5. [வன்னி அரசு](https://trends.google.com/trending/rss?geo=IN)
 6. [kirk mckenzie](https://trends.google.com/trending/rss?geo=IN)
-7. [tejaswini](https://trends.google.com/trending/rss?geo=IN)
-8. [japan vs hong kong](https://trends.google.com/trending/rss?geo=IN)
-9. [5](https://trends.google.com/trending/rss?geo=IN)
-10. [നിയമോപദേശം](https://trends.google.com/trending/rss?geo=IN)
+7. [maaz sadaqat](https://trends.google.com/trending/rss?geo=IN)
+8. [tejaswini](https://trends.google.com/trending/rss?geo=IN)
+9. [japan vs hong kong](https://trends.google.com/trending/rss?geo=IN)
+10. [5](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Trump signs Russia sanctions bill into law, allowing up to 100% tariffs on India](https://timesofindia.indiatimes.com/business/international-business/trump-signs-russia-sanctions-bill-into-law-gains-authority-to-impose-100-tariff-on-india-and-china/articleshow/134344362.cms)
 - [US reaches deal with Denmark for ‘permanent security control’ over Greenland](https://timesofindia.indiatimes.com/world/us/us-reaches-deal-with-denmark-for-permanent-security-control-over-greenland-says-donald-trump/articleshow/134343806.cms)
+- [‘Want peace for important deal’: Ex-employee, partner texted family from exec’s phone](https://timesofindia.indiatimes.com/city/delhi/want-some-peace-for-important-deal-ex-employee-partner-sent-texts-to-family-from-executives-phone-after-gurgaon-murder/articleshow/134346228.cms)
 - [Extremely speedy action by probe agency can create doubt: SC](https://timesofindia.indiatimes.com/india/extremely-speedy-action-by-probe-agency-can-create-doubt-sc/articleshow/134346134.cms)
-- [Pawan Sehrawat replaces Tajinderpal Singh Toor as India's Asian Games flag-bearer](https://timesofindia.indiatimes.com/sports/asian-games-2026/pawan-sehrawat-replaces-tajinderpal-singh-toor-as-indias-asian-games-flag-bearer/articleshow/134346121.cms)
-- [MHA cites internal security issues to defend FCRA tweak](https://timesofindia.indiatimes.com/india/mha-cites-internal-security-issues-to-defend-fcra-tweak/articleshow/134346084.cms)
+- [Why Pawan Sehrawat replaced Tajinderpal Singh as India's Asian Games flag-bearer](https://timesofindia.indiatimes.com/sports/asian-games-2026/pawan-sehrawat-replaces-tajinderpal-singh-toor-as-indias-asian-games-flag-bearer/articleshow/134346121.cms)
 - [Meet Dina McCormick, whom Zuckerberg asked to trade her Meta board seat for a job](https://timesofindia.indiatimes.com/technology/tech-news/born-in-cairo-raised-in-texas-meet-dina-powell-mccormick-the-executive-mark-zuckerberg-asked-to-trade-her-meta-board-seat-for-a-job/articleshow/134331563.cms)
+- [MHA cites internal security issues to defend FCRA tweak](https://timesofindia.indiatimes.com/india/mha-cites-internal-security-issues-to-defend-fcra-tweak/articleshow/134346084.cms)
+- [Tata Sons board unanimous on panel for RBI compliance](https://timesofindia.indiatimes.com/business/india-business/tata-sons-board-unanimous-on-panel-for-rbi-compliance/articleshow/134346292.cms)
 - [Sugar retail prices down 10% ahead of festive season, govt eases stock cap](https://timesofindia.indiatimes.com/business/india-business/sugar-retail-prices-down-10-ahead-of-festive-season-govt-eases-stock-cap/articleshow/134343638.cms)
 - [Mamata’s Nandigram nominee deserts, Congress’ pick arrested](https://timesofindia.indiatimes.com/city/kolkata/didi-candidate-withdraws-cops-arrest-cong-nandigram-nominee/articleshow/134343687.cms)
-- [Trump bans news outlets CNN, MS NOW, Politico from White House](https://timesofindia.indiatimes.com/world/us/reporting-fake-news-trump-bars-cnn-ms-now-politico-from-white-house-threatens-more-bans/articleshow/134343443.cms)
-- ['Haar nahi maanunga': Sujeet Kalkal's Asian Games 2026 gold mission on the road to LA Olympics](https://timesofindia.indiatimes.com/sports/asian-games-2026/haar-nahi-maanunga-sujeet-kalkals-asian-games-2026-gold-mission-on-the-road-to-la-olympics/articleshow/134336297.cms)
 
 **NDTV**
 - [Houthis Say Saudi Arabia Targeted Yemen With 26 Strikes In 24 Hours](https://www.ndtv.com/world-news/iran-war-houthis-say-saudi-arabia-targeted-yemen-with-26-strikes-in-24-hours-12067041#publisher=newsstand)
@@ -38,6 +38,7 @@
 - ["Fiction And Lies": Trump Bans CNN, Politico From White House](https://www.ndtv.com/world-news/donald-trump-bans-cnn-ms-now-politico-from-white-house-12066705#publisher=newsstand)
 
 **Hindustan Times**
+- [Nestle India's baby food products face legal action as FSSAI cracks down on violations](https://www.hindustantimes.com/india-news/nestle-indias-baby-food-products-face-legal-action-as-fssai-cracks-down-on-violations-101789780611853.html)
 - [Gurugram cops destroyed proof: Family of man allegedly killed by ex-colleague, her partner](https://www.hindustantimes.com/india-news/gurugram-cops-destroyed-proof-family-of-man-allegedly-killed-by-ex-colleague-her-partner-yuvraj-singh-manchanda-murder-101789754390819.html)
 - [Trump to sign Russia sanctions bill today that threatens 100% tariffs on India: Report](https://www.hindustantimes.com/india-news/trump-to-sign-russia-sanctions-bill-today-that-threatens-100-per-cent-tariffs-on-india-101789751001313.html)
 - [‘Moving towards Atmanirbhar Bharat’: Rajnath Singh hails handover of aircraft, helicopters by HAL to IAF and PHL](https://www.hindustantimes.com/india-news/moving-rapidly-towards-atmanirbhar-bharat-rajnath-singh-hails-handover-of-aircraft-and-helicopters-by-hal-to-iaf-and-101789749533093.html)
@@ -47,19 +48,18 @@
 - [‘But why now?’ Mamata questions arrest of Congress’ Nandigram bypoll candidate, calls it ‘BJP's vendetta politics’](https://www.hindustantimes.com/india-news/but-why-now-mamata-banerjee-tmc-questions-congress-nandigram-bypoll-candidates-arrest-101789747032193.html)
 - [MCD action continues after Satya Niketan tragedy: 397 properties face demolition in 13 days](https://www.hindustantimes.com/india-news/mcd-demolishes-397-buildings-seals-152-others-as-crackdown-intensifies-after-satya-niketan-pg-collapse-delhi-101789746261397.html)
 - [Gujarat man kills daughter, keeps body in fridge, dies by suicide; 3 notes found](https://www.hindustantimes.com/india-news/gujarat-man-kills-daughter-keeps-body-in-fridge-dies-by-suicide-3-notes-found-101789743338414.html)
-- [Darjeeling honeymoon turns tragic for newlyweds after barbecue fire engulfs woman, incident caught on cam](https://www.hindustantimes.com/india-news/darjeeling-honeymoon-turns-tragic-for-newlyweds-after-bbq-fire-engulfs-woman-incident-caught-on-cam-101789743589886.html)
 
 **Vijay Karnataka**
+- [ಮಳೆಗಾಲದಲ್ಲೇ ಕರ್ನಾಟಕದ 710 ಗ್ರಾಮಗಳಲ್ಲಿ ನೀರಿನ ಸಮಸ್ಯೆ: ಡ್ಯಾಂ,ಕೆರೆಗಳಲ್ಲಿ ನೀರಿನ ಮಟ್ಟ ಕುಸಿತ, ಕುಡಿಯಲು-ಬಳಕೆಗೂ ನೀರಿಲ್ಲ!](https://vijaykarnataka.com/news/karnataka/water-crisis-in-710-villages-of-karnataka-during-monsoon-severe-shortage-of-drinking-water-in-drought-affected-areas/articleshow/134346270.cms)
 - [ಬೆಂಗಳೂರಲ್ಲಿನ ಅನಧಿಕೃತ ಪಿಜಿಗಳಿಗೆ ಹೈಕೋರ್ಟ್‌ ಬ್ರೇಕ್‌: ಪೇಯಿಂಗ್‌ ಗೇಸ್ಟ್‌ಗಳ ಸುರಕ್ಷತೆ, ನಿಯಂತ್ರಣಕ್ಕೆ ಮಾರ್ಗಸೂಚಿ ಜಾರಿ!](https://vijaykarnataka.com/news/bengaluru-city/high-court-puts-brake-on-unauthorized-pgs-in-bengaluru-guidelines-for-the-safety-of-paying-guests/articleshow/134346143.cms)
 - [ಕರ್ನಾಟಕದ 2ನೇ ಭಾಷೆಯಾಗಿ ತುಳುವಿಗೆ ಸ್ಥಾನಮಾನ: ಸಚಿವ ಸಂಪುಟ ನಿರ್ಣಯ; ದೇಗುಲ, ಮಸೀದಿಗಳಿಗೆ ಭರ್ಜರಿ ಅನುದಾನ ಘೋಷಣೆ](https://vijaykarnataka.com/news/mangaluru/mangaluru-cabinet-decides-grant-tulu-status-of-karnataka-second-language-massive-grants-announced-for-temples-mosques/articleshow/134332621.cms)
-- [ಅರಬ್ಬೀ ಸಮುದ್ರದಲ್ಲಿ ಭಾರತ-ಪಾಕಿಸ್ತಾನ ಯುದ್ಧನೌಕೆಗಳ ನಡುವೆ ಡಿಕ್ಕಿ: ಪಿಎನ್‌ಎಸ್‌ ಹುನೈನ್ ಹುಚ್ಚಾಟಕ್ಕೆ ಭಾರತ ಕಿಡಿ!](https://vijaykarnataka.com/news/india/india-and-pakistan-warship-collision-in-arabian-sea-mea-slams-pns-hunain-unprofessional-manoeuvre/articleshow/134337703.cms)
 - [ಇನ್ವರ್ಟರ್ ಬಳಿ ಈ 7 ವಸ್ತುಗಳನ್ನು ಇಡಬೇಡಿ; ಓವರ್‌ಹೀಟ್ ಆಗಿ ಬೆಂಕಿ ಅವಘಡಕ್ಕೆ ಕಾರಣವಾಗಬಹುದು!](https://vijaykarnataka.com/lifestyle/relationship/home-inverter-safety-7-things-not-to-place-near-inverter/articleshow/134333698.cms)
-- [ಪರ್ವತಗಳನ್ನೇ ಅಲುಗಾಡಿಸಿದ ಉತ್ತರ ಕೊರಿಯಾ ಪರಮಾಣು ಪರೀಕ್ಷೆಗಳು: 1,399 ಭೂಕಂಪನಗಳಿಗೆ ಕಾರಣವಾದ ಕಿಮ್‌ ಜಾಂಗ್‌ ಉನ್‌ ಹಠ!](https://vijaykarnataka.com/news/world/north-koreas-nuclear-tests-triggered-unusual-earthquakes-near-mount-mantap-study-reveals/articleshow/134340141.cms)
+- [ಅರಬ್ಬೀ ಸಮುದ್ರದಲ್ಲಿ ಭಾರತ-ಪಾಕಿಸ್ತಾನ ಯುದ್ಧನೌಕೆಗಳ ನಡುವೆ ಡಿಕ್ಕಿ: ಪಿಎನ್‌ಎಸ್‌ ಹುನೈನ್ ಹುಚ್ಚಾಟಕ್ಕೆ ಭಾರತ ಕಿಡಿ!](https://vijaykarnataka.com/news/india/india-and-pakistan-warship-collision-in-arabian-sea-mea-slams-pns-hunain-unprofessional-manoeuvre/articleshow/134337703.cms)
 - [Photos: ಭವ್ಯಾ ಗೌಡ ಅಕ್ಕ ದಿವ್ಯಾ ಮೆಹಂದಿ ಶಾಸ್ತ್ರದಲ್ಲಿ ‘ಭಾಗ್ಯಲಕ್ಷ್ಮೀ’ ನಟಿ ಯಮುನಾ ಶ್ರೀನಿಧಿ ನೃತ್ಯ ಪ್ರದರ್ಶನ!](https://vijaykarnataka.com/vk-gallery/cinema/karna-serial-actress-bhavya-gowda-sister-divya-gowda-mehendi-yamuna-srinidi-dance-performance/photoshow/134346205.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [ಶನಿವಾರ ಪುರುಷರು ಮತ್ತು ಸ್ತ್ರೀಯರು ಮಾಡಬಾರದ ಕೆಲಸಗಳು: ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/saturday-men-and-women-do-not-do-these-mistakes-otherwise-you-will-face-shani-angry/articleshow/134333229.cms)
 - [ಲಾಲ್‌ಬಾಗ್ ರಾಜನ ದರ್ಶನ ಪಡೆದ ರಣವೀರ್ ಸಿಂಗ್; ಸಾಂಪ್ರದಾಯಿಕ ಲುಕ್‌ನಲ್ಲಿ ನಟನ ಮಿಂಚು, ‘ಧುರಂಧರ್’ ಕ್ರೇಜ್ ಮುಂದುವರಿಕೆ!](https://vijaykarnataka.com/lifestyle/fashion/ranveer-singh-lalbaugcha-raja-ganesha-darshan-white-kurta-festival-look/articleshow/134331222.cms)
-- [ಪಾಕಿಸ್ತಾನದ ಮಸೀದಿಯಲ್ಲಿ ಬಾಂಬ್‌ ಸ್ಪೋಟ: 15 ಪೊಲೀಸ್‌ ಅಧಿಕಾರಿಗಳು ಸೇರಿ 21 ಜನರ ಸಾವು!](https://vijaykarnataka.com/news/world/pakistan-mosque-bomb-blast-including-police-officers-many-feared-dead-during-friday-prayer/articleshow/134339517.cms)
+- [ಪರ್ವತಗಳನ್ನೇ ಅಲುಗಾಡಿಸಿದ ಉತ್ತರ ಕೊರಿಯಾ ಪರಮಾಣು ಪರೀಕ್ಷೆಗಳು: 1,399 ಭೂಕಂಪನಗಳಿಗೆ ಕಾರಣವಾದ ಕಿಮ್‌ ಜಾಂಗ್‌ ಉನ್‌ ಹಠ!](https://vijaykarnataka.com/news/world/north-koreas-nuclear-tests-triggered-unusual-earthquakes-near-mount-mantap-study-reveals/articleshow/134340141.cms)
 
 **The Hindu**
 - [Bihar announces OTS scheme for brick kilns, waives ₹90 crore interest on outstanding dues](https://www.thehindu.com/news/national/bihar/bihar-announces-ots-scheme-for-brick-kilns-waives-90-crore-interest-on-outstanding-dues/article71480765.ece)
@@ -74,6 +74,7 @@
 - [Every police station in Bihar to have a Child Help Desk from Oct. 2](https://www.thehindu.com/news/national/bihar/every-police-station-in-bihar-to-have-a-child-help-desk-from-oct-2/article71481323.ece)
 
 **Livemint**
+- [Petrol, diesel prices today, September 19: Check rates in Delhi, Mumbai, Bengaluru](https://www.livemint.com/news/india/petrol-diesel-prices-today-september-19-check-rates-in-delhi-mumbai-bengaluru-11789780532491.html)
 - [Trump signs Russia sanctions bill, clears way for 100% tariff on India and China](https://www.livemint.com/news/us-news/trump-signs-russia-sanctions-bill-clears-way-for-100-tariff-on-india-and-china-11789778841284.html)
 - ['Ban on the free press': WHCA condemns Trump's move to bar CNN, MS NOW and Politico](https://www.livemint.com/news/us-news/ban-on-the-free-press-whca-condemns-trumps-move-to-bar-cnn-ms-now-and-politico-11789778879181.html)
 - [Jewellers face higher hallmarking costs as festive, wedding demand picks up](https://www.livemint.com/news/india/jewellers-face-higher-hallmarking-costs-as-festive-wedding-demand-picks-up-11789727924731.html)
@@ -83,7 +84,6 @@
 - [Disney has hired veteran technology executive Karandeep Anand as its first chief technology officer: Who is he?](https://www.livemint.com/news/us-news/disney-has-hired-veteran-technology-executive-karandeep-anand-as-its-first-chief-technology-officer-who-is-he-11789755755723.html)
 - [Tamil Nadu gold ring for newborns: CM Vijay to launch scheme on Sep 28; 1.28L pieces ready for phase 1—check eligibility](https://www.livemint.com/news/india/tamil-nadu-gold-ring-for-newborns-cm-vijay-to-launch-scheme-on-sep-28-1-28l-pieces-ready-for-phase-1-check-eligibility-11789752385693.html)
 - [Amazon Prime users in US could get more cash as FTC makes key changes to $2.5bn settlement payments: Details here](https://www.livemint.com/news/us-news/amazon-prime-users-in-us-could-get-more-cash-as-ftc-makes-key-changes-to-2-5bn-settlement-payments-details-here-11789744668846.html)
-- [US gas prices near 2026 peak with weeks to go before midterms](https://www.livemint.com/news/us-news/us-gas-prices-near-2026-peak-with-weeks-to-go-before-midterms-11789748933988.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ರಷ್ಯಾ ನಿರ್ಬಂಧ ಮಸೂದೆಗೆ ಟ್ರಂಪ್ ಅಂಕಿತ : ಭಾರತ ಸೇರಿ ತೈಲ ಖರೀದಿದಾರರ ಮೇಲೆ ಶೇ.100ರವರೆಗೆ ಸುಂಕಕ್ಕೆ ಅವಕಾಶ](https://www.varthabharati.in/international/trump-signs-russia-sanctions-bill-provision-for-up-to-100-tariffs-on-oil-buyers-including-india-2276214)
 - [‘ಸೆಮಿಕಾನ್ ಇಂಡಿಯಾ’ 2ನೇ ದಿನ 10 ಕಂಪೆನಿಗಳ ಜತೆ ಸಚಿವ ಎಂ.ಬಿ.ಪಾಟೀಲ್ ಮಾತುಕತೆ](https://www.varthabharati.in/state/minister-mb-patil-holds-talks-with-10-companies-on-day-2-of-semicon-india-2276213)
 - [ಮೈಸೂರು‌: ಶೋಭಾಯಾತ್ರೆ ವೇಳೆ ಪ್ರಚೋದನಕಾರಿ ಭಾಷಣ ಮಾಡಿದ ಪ್ರತಾಪ್ ಸಿಂಹ](https://www.varthabharati.in/mysore/pratap-simha-makes-provocative-speech-during-mysuru-shobha-yatra-2276212)
 - [ಪೊಲೀಸ್ ಇಲಾಖೆ ಸಭೆಗಳಲ್ಲಿ ದಲಿತ ಪದ ಬಳಸದಂತೆ ಸೂಚನೆ](https://www.varthabharati.in/state/police-meetings-officials-instructed-not-to-use-the-term-dalit-2276210)
@@ -107,38 +108,37 @@
 - [ಶ್ರೀಲಂಕಾ ವಿರುದ್ಧ ಟಿ-20 ಸರಣಿ ಗೆದ್ದ ಇಂಗ್ಲೆಂಡ್](https://www.varthabharati.in/sports/england-won-the-t20-series-against-sri-lanka-2276206)
 - [Kalaburagi | ಜಮೀನು ವಿವಾದ : ಅಣ್ಣನಿಂದಲೇ ತಮ್ಮನ ಹತ್ಯೆ](https://www.varthabharati.in/kalaburagi/kalaburagi-land-dispute-younger-brother-murdered-by-elder-brother-2276205)
 - [ಭಟ್ಕಳದಲ್ಲಿ ಗಣೇಶ ಮೆರವಣಿಗೆ ವೇಳೆ ಕಲ್ಲು ತೂರಾಟದ ಆರೋಪ; 6 ಬಾಲಕರು ಪೊಲೀಸ್ ವಶಕ್ಕೆ](https://www.varthabharati.in/uttara-kannada/bhatkal-police-detain-six-minor-boys-over-alleged-stone-pelting-during-ganesh-procession-2276204)
-- [ಅಂಡರ್-19 ಏಕದಿನ ಪಂದ್ಯ: ಆಸ್ಟ್ರೇಲಿಯ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ 7 ರನ್ ಜಯ](https://www.varthabharati.in/sports/under-19-odi-india-beats-australia-by-7-runs-2276203)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (8.0)
 - India (6.8)
+- Trump (6.7)
 - Emkay Global Financial (5.0)
 - Russia (4.2)
-- Politico (4.2)
 - Mamata (3.9)
 - Congress (3.9)
 - Bihar (3.9)
 - ICICI Securities (3.0)
 - target (3.0)
+- Politico (2.9)
 - Nandigram (2.6)
 - Report (2.6)
-- MS NOW (2.0)
-- White House (2.0)
 - Tamil Nadu (2.0)
+- Buy Bajaj Finance (2.0)
+- Iran (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [490 दिन बाद भी नहीं मिटा निशान, सरगोधा एयरबेस पर ब्रह्मोस से बना गड्ढा मरम्मत के लिए खोला गया](https://www.aajtak.in/defence-news/story/490-days-satellite-images-show-brahmos-crater-at-sargodha-reopened-for-repair-dskc-2646279-2026-09-18)
-- [Control Resonant Is Almost a Picture Perfect PC Port](https://in.ign.com/control-2/272250/control-resonant-is-almost-a-picture-perfect-pc-port)
-- [OnePlus 16's main specs leak](https://www.gsmarena.com/oneplus_16s_main_specs_leak-news-74674.php)
-- [Gondhal Movie: नंदी के रहस्यमयी मुखौटे वाली फिल्म की ऑस्कर में एंट्री, आखिर क्या है 'गोंधल'?](https://www.aajtak.in/entertainment/news/story/gondhal-movie-mysterious-nandi-mask-enters-oscars-race-know-film-story-tmovg-dskc-2646229-2026-09-18)
-- [अजीत अगरकर के भविष्य पर सस्पेंस बरकरार, पार्थिव पटेल बन सकते हैं नए चीफ सेलेक्टर, AGM में हुए कई अहम फैसले](https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/bcci-agm-2026-updates-ajit-agarkar-parthiv-patel-chief-selector-ipl-governing-council/articleshow/134336669.cms)
-- [नंदीग्राम से कांग्रेस उम्मीदवार मिलन प्रधान गिरफ़्तार, ममता बनर्जी ने कुछ घंटे पहले ही दिया था समर्थन](https://www.indiatv.in/west-bengal/nandigram-by-election-congress-candidate-milan-pradhan-arrested-in-criminal-charge-2026-09-18-1244014)
-- [Sobhita Dhulipala: శోభిత ధూళిపాళకి తమిళ డైరెక్టర్ ఫిదా.. ఆమె చేసిన సాహసం ఏంటో తెలుసా, డూప్ లేకుండా](https://telugu.asianetnews.com/gallery/entertainment/vettuvam-director-pa-ranjith-heaps-praises-on-sobhita-dhulipala-byno3f3)
-- [यमनः हूती विद्रोहियों और सऊदी समर्थित सेना के बीच संघर्ष तेज़, 24 घंटों में 63 लोगों की मौत](https://www.bbc.com/hindi/live/ckg59ngn878yt)
-- [Nandigram bypoll: Congress candidate Milan Pradhan arrested hours after getting Mamata’s support](https://www.thehindu.com/news/national/west-bengal/nandigram-bypoll-row-congress-candidate-milan-pradhan-arrested/article71480889.ece)
-- [निठारी हत्याकांड में सुप्रीम कोर्ट से बरी सुरिंदर कोली हरिद्वार में मृत पाए गए](https://www.bbc.com/hindi/articles/c8y5z7v25g4qo)
+- [மாருதியின் மாஸ் காட்டும் ஆகஸ்ட் சேல்ஸ்: லிஸ்ட்ல டாப் 10 கார்கள் எதெல்லாம் தெரியுமா?](https://www.cardekho.com/ta/news/general/maruti-suzuki-august-2026-sales-report-wagon-r-leads-victoris-breaks-into-top-10-36666.htm)
+- [தாராபுரம் அதிமுக வேட்பாளர், நிர்வாகிகள் மீது வழக்குப்பதிவு](https://www.etvbharat.com/ta/state/dharapuram-aiadmk-candidate-and-office-bearers-police-fir-filed-tvk-leader-complaint-tns26091804867)
+- [शेवटी आहे तर राहुलचाच मुलगा! अन्वय द्रविडची ऑस्ट्रेलियाविरुद्ध स्फोटक खेळी, 18 चेंडूंमध्ये…](https://www.tv9marathi.com/photo-gallery/rahul-dravid-son-anvay-18-ball-38-runs-india-u19-vs-australia-u19-rajkot-2026-1759387.html)
+- [സഞ്ജു സാംസണ്‍ ഡല്‍ഹി സര്‍ക്കാരിന്റെ ബ്രാന്‍ഡ് അംബാസഡര്‍; മുഖ്യമന്ത്രിയുമായി കൂടിക്കാഴ്ച്ച നടത്തി](https://www.asianetnews.com/cricket-sports/sanju-samson-becomes-the-brand-ambassador-of-the-delhi-government-articleshow-w5dn11r)
+- [Congress candidate arrested | మమతా బెనర్జీ మద్దతు తర్వాత.. కాంగ్రెస్ నందిగ్రామ్ అభ్యర్థి అరెస్ట్‌](https://www.ntnews.com/national/congress-nandigram-candidate-arrested-after-mamata-banerjee-announces-support-2513979)
+- [Amreli Rain: અમરેલી જિલ્લામાં મેઘરાજાની જોરદાર બેટિંગ, સાવરકુંડલા, ધારી, રાજુલા, બગસરા પંથકમાં ધોધમાર વરસાદ](https://gujarati.abplive.com/news/gujarat/heavy-rainfall-in-savarkundla-dhari-rajula-and-bagsara-of-amreli-district-991491)
+- [அன்பில் மகேஸிடம் 7 மணி நேரம் போலீஸ் விசாரணை](https://www.hindutamil.in/news/tamilnadu/seven-hour-inquiry-with-anbil-mahesh-concludes)
+- [``விலைவாசி உயர்வுக்கு வழிவகுக்கும் UPI கட்டணம்" - நடைமுறைச் சிக்கல்கள் என்ன?| ஓர் அலசல்](https://www.vikatan.com/government-and-politics/economy/this-article-examines-the-charges-for-upi-transactions)
+- [Gautam Gambhir On Shubman Gill : बुमराहपासून श्रेयसपर्यंत सगळे बाहेर; शुभमन गिल एकटा पडतोय, कोच गौतम गंभीर ODI वर्ल्ड कपआधी टीमबद्दल नेमकं काय म्हणाला?](https://marathi.abplive.com/sports/cricket/gautam-gambhir-on-shubman-gill-say-not-fair-over-india-s-test-odi-struggles-marathi-news-1439519)
+- [എയർപോർട്ടുകളിൽ യാത്രക്കാരെ വലച്ച് ബാഗേജിലെ പുതിയ ‘ലിക്വിഡ്’ നിയമം!; ഒരേ ടെർമിനലിൽ രണ്ട് പരിധി, വിവാദം](https://www.manoramaonline.com/global-malayali/europe/2026/09/18/new-airport-security-rules-for-liquids-in-germany.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
