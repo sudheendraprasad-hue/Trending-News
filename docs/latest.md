@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-19 00:38:59
+# India Trending Report — 2026-09-19 01:01:30
 
 ## Google Trends (India) — top trending searches
-1. [നിയമോപദേശം](https://trends.google.com/trending/rss?geo=IN)
-2. [स्कूटर](https://trends.google.com/trending/rss?geo=IN)
-3. [हनुमान चालीसा](https://trends.google.com/trending/rss?geo=IN)
-4. [f](https://trends.google.com/trending/rss?geo=IN)
-5. [బంగాళాఖాతము](https://trends.google.com/trending/rss?geo=IN)
-6. [radha rani ki aarti](https://trends.google.com/trending/rss?geo=IN)
-7. [gold rate](https://trends.google.com/trending/rss?geo=IN)
-8. [amazon india](https://trends.google.com/trending/rss?geo=IN)
-9. [zara](https://trends.google.com/trending/rss?geo=IN)
-10. [telugu](https://trends.google.com/trending/rss?geo=IN)
+1. [japan vs hong kong](https://trends.google.com/trending/rss?geo=IN)
+2. [5](https://trends.google.com/trending/rss?geo=IN)
+3. [നിയമോപദേശം](https://trends.google.com/trending/rss?geo=IN)
+4. [स्कूटर](https://trends.google.com/trending/rss?geo=IN)
+5. [हनुमान चालीसा](https://trends.google.com/trending/rss?geo=IN)
+6. [f](https://trends.google.com/trending/rss?geo=IN)
+7. [బంగాళాఖాతము](https://trends.google.com/trending/rss?geo=IN)
+8. [radha rani ki aarti](https://trends.google.com/trending/rss?geo=IN)
+9. [gold rate](https://trends.google.com/trending/rss?geo=IN)
+10. [amazon india](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Trump signs Russia sanctions bill into law, allowing up to 100% tariffs on India](https://timesofindia.indiatimes.com/business/international-business/trump-signs-russia-sanctions-bill-into-law-gains-authority-to-impose-100-tariff-on-india-and-china/articleshow/134344362.cms)
 - [US reaches deal with Denmark for ‘permanent security control’ over Greenland](https://timesofindia.indiatimes.com/world/us/us-reaches-deal-with-denmark-for-permanent-security-control-over-greenland-says-donald-trump/articleshow/134343806.cms)
 - [Asian Games: Trouble in Japan! Indian athletes face housing, food & transport chaos](https://timesofindia.indiatimes.com/sports/asian-games-2026/trouble-in-japan-indian-athletes-face-accommodation-food-and-transport-woes-ahead-of-asian-games-2026/articleshow/134324733.cms)
+- [MHA cites internal security issues to defend FCRA tweak](https://timesofindia.indiatimes.com/india/mha-cites-internal-security-issues-to-defend-fcra-tweak/articleshow/134346084.cms)
 - [Presumption of guilt doesn't make prosecution case 'gospel truth': SC](https://timesofindia.indiatimes.com/india/presumption-of-guilt-doesnt-make-prosecution-case-gospel-truth-sc/articleshow/134345571.cms)
-- [Sugar retail prices down 10% ahead of festive season, govt eases stock cap](https://timesofindia.indiatimes.com/business/india-business/sugar-retail-prices-down-10-ahead-of-festive-season-govt-eases-stock-cap/articleshow/134343638.cms)
 - [Meet Dina McCormick, whom Zuckerberg asked to trade her Meta board seat for a job](https://timesofindia.indiatimes.com/technology/tech-news/born-in-cairo-raised-in-texas-meet-dina-powell-mccormick-the-executive-mark-zuckerberg-asked-to-trade-her-meta-board-seat-for-a-job/articleshow/134331563.cms)
+- [Sugar retail prices down 10% ahead of festive season, govt eases stock cap](https://timesofindia.indiatimes.com/business/india-business/sugar-retail-prices-down-10-ahead-of-festive-season-govt-eases-stock-cap/articleshow/134343638.cms)
 - [Mamata’s Nandigram nominee deserts, Congress’ pick arrested](https://timesofindia.indiatimes.com/city/kolkata/didi-candidate-withdraws-cops-arrest-cong-nandigram-nominee/articleshow/134343687.cms)
 - [Trump bans news outlets CNN, MS NOW, Politico from White House](https://timesofindia.indiatimes.com/world/us/reporting-fake-news-trump-bars-cnn-ms-now-politico-from-white-house-threatens-more-bans/articleshow/134343443.cms)
 - [Rajnath flags HAL delays, calls for realistic project timelines](https://timesofindia.indiatimes.com/defence/rajnath-hails-hal-for-delivering-three-aviation-platforms-from-one-stage/articleshow/134340041.cms)
-- [25% youths in 250 districts not in education or jobs: Survey](https://timesofindia.indiatimes.com/india/25-youths-in-250-districts-not-in-education-or-jobs-survey/articleshow/134345712.cms)
 
 **NDTV**
 - [Houthis Say Saudi Arabia Targeted Yemen With 26 Strikes In 24 Hours](https://www.ndtv.com/world-news/iran-war-houthis-say-saudi-arabia-targeted-yemen-with-26-strikes-in-24-hours-12067041#publisher=newsstand)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [టీజీఎస్ ఆర్టీసీలో మోగిన ఎన్నికల నగారా](https://www.andhrajyothy.com/2026/telangana/hyderabad/tgsrtc-union-elections-2026-polling-october-9-results-october-17-vvnp-1559140.html)
-- [BCCI AGM: बीसीसीआयच्या बैठकीत मोठे निर्णय, धुमाळ आणि मजुमदार आयपीएल गव्हर्निंग कौन्सिलमध्ये](https://marathi.asianetnews.com/sports/cricket/bcci-agm-2024-key-decisions-dhumal-majumdar-join-ipl-governing-council/articleshow-ysbpdp2)
-- [Aaryavir Sehwag impresses on India U19 debut, Anvay Dravid plays a blinder](https://www.indiatoday.in/sports/cricket/story/india-u19-vs-australia-u19-anvay-dravid-aaryavir-sehwag-seven-run-win-2997806-2026-09-18)
-- [નંદીગ્રામ પેટાચૂંટણી : કૉંગ્રેસ ઉમેદવારની '19 વર્ષ જૂના મામલામાં કરાઈ ધરપકડ'](https://www.bbc.com/gujarati/articles/c6qxvdd841x8o)
-- [ममता बॅनर्जी यांना आणखी एक मोठा धक्का; पक्षाचं नाव अन् चिन्ह गेल्यानंतर ज्याची भीती तेच घडलं](https://www.tv9marathi.com/national/mamata-banerjee-get-another-jolt-after-bengal-nandigram-candidate-sanchita-dey-withdraws-application-from-by-election-after-meeting-with-cm-adhikari-1759336.html)
-- [Asian Games Japan : राहिले दूर घर माझे! जपानमध्ये नेमबाजांची रेंजपासून 50 किमी निवासव्यवस्था, भारताच्या प्रशिक्षकांनी निराशा](https://maharashtratimes.com/sports/other-sports/japan-asian-games-2026-indian-shooting-team-upset-over-50-kilometer-distance-between-accommodation-and-practice-venue/articleshow/134334996.cms)
-- [हाथ रगड़े, धनुष-बाण चलाया... हरारे में ट्रेविस हेड का तूफान, शतक जड़कर किया स्पेशल सेलिब्रेशन](https://www.aajtak.in/sports/cricket/story/travis-head-fastest-odi-century-vs-zimbabwe-2nd-odi-harare-bow-and-arrow-celebration-tspoa-dskc-2646220-2026-09-18)
-- [ഏഷ്യൻ ഗെയിംസിന് ചുഴലിക്കാറ്റ് ഭീഷണി; കായികതാരങ്ങളെ ഒഴിപ്പിപ്പിക്കാൻ ജപ്പാൻ](https://www.southlive.in/cyclone-threat-to-asian-games-japan-to-evacuate-athletes/)
-- [New Apple Watches: Best deals on Series 12 and Ultra 4](https://mashable.com/tech/apple-watch-series-12-ultra-4-best-launch-deals)
-- [HAL hands over LCA FOC trainers, first HTT](https://timesofindia.indiatimes.com/defence/hal-hands-over-lca-foc-trainers-first-htt-40-ankur-to-iaf-4-dhruv-ng-choppers-to-pawan-hans/articleshow/134335070.cms)
+- [കൃഷിയിടത്തിലേക്ക് പോയവർ തിരിച്ചെത്തിയില്ല; ദമ്പതിമാർ വീട്ടുപറമ്പിലെ കുളത്തിൽ മരിച്ച നിലയിൽ](https://www.mathrubhumi.com/crime/news/kasaragod-couple-found-dead-in-pond-vellarikundu-izdn7qz1)
+- [Vemula Prashanth Reddy | హైకోర్టు తీర్పు కాంగ్రెస్ పార్టీకి చెంపపెట్టు : మాజీ మంత్రి వేముల ప్రశాంత్‌ రెడ్డి](https://www.ntnews.com/telangana/high-court-verdict-is-a-slap-in-the-face-for-the-congress-party-former-minister-vemula-prashanth-reddy-2513951)
+- [বিধ্বংসী দ্রাবিড়-পুত্র অন্বয়, নজর কাড়লেন আর্যবীরও](https://www.aaroananda.com/story/sports-news/breaking-news/sehwag-and-dravid-sons-shine-in-india-under-19-victory/11020263)
+- [Malda | জলমগ্ন ভূতনির অন্ধকারে স্পিডবোটে জন্ম নিল নতুন প্রাণ, নাম রাখা হল ‘প্লাবন’](https://uttarbangasambad.com/malda-malda-bhutni-flood-baby-born-plaban/)
+- [సురేందర్ కోలీ: ‘నిఠారీ వరుస హత్యల కేసు’లో నిర్దోషిగా విడుదలైన పది నెలలకే అనుమానాస్పద మృతి](https://www.bbc.com/telugu/articles/cwp84542mn1zo)
+- [குழந்தைகள் பால் பவுடரில் விதிமீறல்; நெஸ்லே நிறுவனம் மீது சட்ட நடவடிக்கை](https://www.dinamalar.com/news/india-tamil-news/childrens-milk-powder-violation-nestle-faces-legal-action/4326184)
+- [വിവാഹസ്വപ്നത്തിനു മേൽ അവന്റെ ചതിനിഴൽ; ഒടുവിൽ അദ്ഭുതം ഉദിച്ചു; എൽദോയ്ക്ക് അഭിമാനരക്ഷ!](https://www.manoramaonline.com/news/latest-news/2026/09/18/kochi-wedding-catering-scam-udayam-events.html)
+- [Kerala Power Cut Alert : ഇന്നും ഇരുട്ടിൽ, രാത്രിയിൽ വൈദ്യുതി നിയന്ത്രണം](https://www.malayalamtv9.com/kerala/kseb-power-cut-update-tonight-load-shedding-to-continue-accross-kerala-2232266.html)
+- [ராஞ்சியில் இருந்து பார்டர்-கவாஸ்கர் போட்டி மாற்றமா?](https://www.dailythanthi.com/sports/cricket/will-the-border-gavaskar-match-be-shifted-from-ranchi)
+- ['शुक्रिया भाई', जन्मदिन की बधाई देने पर प्रधानमंत्री मोदी ने UAE के राष्ट्रपति का जताया आभार; पश्चिम एशिया पर भी चर्चा](https://navbharattimes.indiatimes.com/india/president-of-uae-sheikh-mohamed-bin-zayed-al-nahyan-birthday-wishes-pm-modi/articleshow/134335680.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._

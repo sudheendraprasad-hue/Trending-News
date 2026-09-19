@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-09-19 00:38:59",
+  "generated_at": "2026-09-19 01:01:30",
   "google_trends": [
+    {
+      "title": "japan vs hong kong",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "5",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "\u0d28\u0d3f\u0d2f\u0d2e\u0d4b\u0d2a\u0d26\u0d47\u0d36\u0d02",
       "traffic": null,
@@ -40,16 +50,6 @@
       "title": "amazon india",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "zara",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "telugu",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
     }
   ],
   "outlets": {
@@ -67,16 +67,20 @@
         "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/trouble-in-japan-indian-athletes-face-accommodation-food-and-transport-woes-ahead-of-asian-games-2026/articleshow/134324733.cms"
       },
       {
+        "title": "MHA cites internal security issues to defend FCRA tweak",
+        "link": "https://timesofindia.indiatimes.com/india/mha-cites-internal-security-issues-to-defend-fcra-tweak/articleshow/134346084.cms"
+      },
+      {
         "title": "Presumption of guilt doesn't make prosecution case 'gospel truth': SC",
         "link": "https://timesofindia.indiatimes.com/india/presumption-of-guilt-doesnt-make-prosecution-case-gospel-truth-sc/articleshow/134345571.cms"
       },
       {
-        "title": "Sugar retail prices down 10% ahead of festive season, govt eases stock cap",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/sugar-retail-prices-down-10-ahead-of-festive-season-govt-eases-stock-cap/articleshow/134343638.cms"
-      },
-      {
         "title": "Meet Dina McCormick, whom Zuckerberg asked to trade her Meta board seat for a job",
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/born-in-cairo-raised-in-texas-meet-dina-powell-mccormick-the-executive-mark-zuckerberg-asked-to-trade-her-meta-board-seat-for-a-job/articleshow/134331563.cms"
+      },
+      {
+        "title": "Sugar retail prices down 10% ahead of festive season, govt eases stock cap",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/sugar-retail-prices-down-10-ahead-of-festive-season-govt-eases-stock-cap/articleshow/134343638.cms"
       },
       {
         "title": "Mamata\u2019s Nandigram nominee deserts, Congress\u2019 pick arrested",
@@ -89,10 +93,6 @@
       {
         "title": "Rajnath flags HAL delays, calls for realistic project timelines",
         "link": "https://timesofindia.indiatimes.com/defence/rajnath-hails-hal-for-delivering-three-aviation-platforms-from-one-stage/articleshow/134340041.cms"
-      },
-      {
-        "title": "25% youths in 250 districts not in education or jobs: Survey",
-        "link": "https://timesofindia.indiatimes.com/india/25-youths-in-250-districts-not-in-education-or-jobs-survey/articleshow/134345712.cms"
       }
     ],
     "NDTV": [
@@ -414,44 +414,44 @@
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u0c1f\u0c40\u0c1c\u0c40\u0c0e\u0c38\u0c4d \u0c06\u0c30\u0c4d\u0c1f\u0c40\u0c38\u0c40\u0c32\u0c4b \u0c2e\u0c4b\u0c17\u0c3f\u0c28 \u0c0e\u0c28\u0c4d\u0c28\u0c3f\u0c15\u0c32 \u0c28\u0c17\u0c3e\u0c30\u0c3e",
-      "link": "https://www.andhrajyothy.com/2026/telangana/hyderabad/tgsrtc-union-elections-2026-polling-october-9-results-october-17-vvnp-1559140.html"
+      "title": "\u0d15\u0d43\u0d37\u0d3f\u0d2f\u0d3f\u0d1f\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d47\u0d15\u0d4d\u0d15\u0d4d \u0d2a\u0d4b\u0d2f\u0d35\u0d7c \u0d24\u0d3f\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d46\u0d24\u0d4d\u0d24\u0d3f\u0d2f\u0d3f\u0d32\u0d4d\u0d32; \u0d26\u0d2e\u0d4d\u0d2a\u0d24\u0d3f\u0d2e\u0d3e\u0d7c \u0d35\u0d40\u0d1f\u0d4d\u0d1f\u0d41\u0d2a\u0d31\u0d2e\u0d4d\u0d2a\u0d3f\u0d32\u0d46 \u0d15\u0d41\u0d33\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d2e\u0d30\u0d3f\u0d1a\u0d4d\u0d1a \u0d28\u0d3f\u0d32\u0d2f\u0d3f\u0d7d",
+      "link": "https://www.mathrubhumi.com/crime/news/kasaragod-couple-found-dead-in-pond-vellarikundu-izdn7qz1"
     },
     {
-      "title": "BCCI AGM: \u092c\u0940\u0938\u0940\u0938\u0940\u0906\u092f\u091a\u094d\u092f\u093e \u092c\u0948\u0920\u0915\u0940\u0924 \u092e\u094b\u0920\u0947 \u0928\u093f\u0930\u094d\u0923\u092f, \u0927\u0941\u092e\u093e\u0933 \u0906\u0923\u093f \u092e\u091c\u0941\u092e\u0926\u093e\u0930 \u0906\u092f\u092a\u0940\u090f\u0932 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u093f\u0902\u0917 \u0915\u094c\u0928\u094d\u0938\u093f\u0932\u092e\u0927\u094d\u092f\u0947",
-      "link": "https://marathi.asianetnews.com/sports/cricket/bcci-agm-2024-key-decisions-dhumal-majumdar-join-ipl-governing-council/articleshow-ysbpdp2"
+      "title": "Vemula Prashanth Reddy | \u0c39\u0c48\u0c15\u0c4b\u0c30\u0c4d\u0c1f\u0c41 \u0c24\u0c40\u0c30\u0c4d\u0c2a\u0c41 \u0c15\u0c3e\u0c02\u0c17\u0c4d\u0c30\u0c46\u0c38\u0c4d \u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c40\u0c15\u0c3f \u0c1a\u0c46\u0c02\u0c2a\u0c2a\u0c46\u0c1f\u0c4d\u0c1f\u0c41 : \u0c2e\u0c3e\u0c1c\u0c40 \u0c2e\u0c02\u0c24\u0c4d\u0c30\u0c3f \u0c35\u0c47\u0c2e\u0c41\u0c32 \u0c2a\u0c4d\u0c30\u0c36\u0c3e\u0c02\u0c24\u0c4d\u200c \u0c30\u0c46\u0c21\u0c4d\u0c21\u0c3f",
+      "link": "https://www.ntnews.com/telangana/high-court-verdict-is-a-slap-in-the-face-for-the-congress-party-former-minister-vemula-prashanth-reddy-2513951"
     },
     {
-      "title": "Aaryavir Sehwag impresses on India U19 debut, Anvay Dravid plays a blinder",
-      "link": "https://www.indiatoday.in/sports/cricket/story/india-u19-vs-australia-u19-anvay-dravid-aaryavir-sehwag-seven-run-win-2997806-2026-09-18"
+      "title": "\u09ac\u09bf\u09a7\u09cd\u09ac\u0982\u09b8\u09c0 \u09a6\u09cd\u09b0\u09be\u09ac\u09bf\u09a1\u09bc-\u09aa\u09c1\u09a4\u09cd\u09b0 \u0985\u09a8\u09cd\u09ac\u09df, \u09a8\u099c\u09b0 \u0995\u09be\u09a1\u09bc\u09b2\u09c7\u09a8 \u0986\u09b0\u09cd\u09af\u09ac\u09c0\u09b0\u0993",
+      "link": "https://www.aaroananda.com/story/sports-news/breaking-news/sehwag-and-dravid-sons-shine-in-india-under-19-victory/11020263"
     },
     {
-      "title": "\u0aa8\u0a82\u0aa6\u0ac0\u0a97\u0acd\u0ab0\u0abe\u0aae \u0aaa\u0ac7\u0a9f\u0abe\u0a9a\u0ac2\u0a82\u0a9f\u0aa3\u0ac0 : \u0a95\u0ac9\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0ab8 \u0a89\u0aae\u0ac7\u0aa6\u0ab5\u0abe\u0ab0\u0aa8\u0ac0 '19 \u0ab5\u0ab0\u0acd\u0ab7 \u0a9c\u0ac2\u0aa8\u0abe \u0aae\u0abe\u0aae\u0ab2\u0abe\u0aae\u0abe\u0a82 \u0a95\u0ab0\u0abe\u0a88 \u0aa7\u0ab0\u0aaa\u0a95\u0aa1'",
-      "link": "https://www.bbc.com/gujarati/articles/c6qxvdd841x8o"
+      "title": "Malda | \u099c\u09b2\u09ae\u0997\u09cd\u09a8 \u09ad\u09c2\u09a4\u09a8\u09bf\u09b0 \u0985\u09a8\u09cd\u09a7\u0995\u09be\u09b0\u09c7 \u09b8\u09cd\u09aa\u09bf\u09a1\u09ac\u09cb\u099f\u09c7 \u099c\u09a8\u09cd\u09ae \u09a8\u09bf\u09b2 \u09a8\u09a4\u09c1\u09a8 \u09aa\u09cd\u09b0\u09be\u09a3, \u09a8\u09be\u09ae \u09b0\u09be\u0996\u09be \u09b9\u09b2 \u2018\u09aa\u09cd\u09b2\u09be\u09ac\u09a8\u2019",
+      "link": "https://uttarbangasambad.com/malda-malda-bhutni-flood-baby-born-plaban/"
     },
     {
-      "title": "\u092e\u092e\u0924\u093e \u092c\u0945\u0928\u0930\u094d\u091c\u0940 \u092f\u093e\u0902\u0928\u093e \u0906\u0923\u0916\u0940 \u090f\u0915 \u092e\u094b\u0920\u093e \u0927\u0915\u094d\u0915\u093e; \u092a\u0915\u094d\u0937\u093e\u091a\u0902 \u0928\u093e\u0935 \u0905\u0928\u094d \u091a\u093f\u0928\u094d\u0939 \u0917\u0947\u0932\u094d\u092f\u093e\u0928\u0902\u0924\u0930 \u091c\u094d\u092f\u093e\u091a\u0940 \u092d\u0940\u0924\u0940 \u0924\u0947\u091a \u0918\u0921\u0932\u0902",
-      "link": "https://www.tv9marathi.com/national/mamata-banerjee-get-another-jolt-after-bengal-nandigram-candidate-sanchita-dey-withdraws-application-from-by-election-after-meeting-with-cm-adhikari-1759336.html"
+      "title": "\u0c38\u0c41\u0c30\u0c47\u0c02\u0c26\u0c30\u0c4d \u0c15\u0c4b\u0c32\u0c40: \u2018\u0c28\u0c3f\u0c20\u0c3e\u0c30\u0c40 \u0c35\u0c30\u0c41\u0c38 \u0c39\u0c24\u0c4d\u0c2f\u0c32 \u0c15\u0c47\u0c38\u0c41\u2019\u0c32\u0c4b \u0c28\u0c3f\u0c30\u0c4d\u0c26\u0c4b\u0c37\u0c3f\u0c17\u0c3e \u0c35\u0c3f\u0c21\u0c41\u0c26\u0c32\u0c48\u0c28 \u0c2a\u0c26\u0c3f \u0c28\u0c46\u0c32\u0c32\u0c15\u0c47 \u0c05\u0c28\u0c41\u0c2e\u0c3e\u0c28\u0c3e\u0c38\u0c4d\u0c2a\u0c26 \u0c2e\u0c43\u0c24\u0c3f",
+      "link": "https://www.bbc.com/telugu/articles/cwp84542mn1zo"
     },
     {
-      "title": "Asian Games Japan : \u0930\u093e\u0939\u093f\u0932\u0947 \u0926\u0942\u0930 \u0918\u0930 \u092e\u093e\u091d\u0947! \u091c\u092a\u093e\u0928\u092e\u0927\u094d\u092f\u0947 \u0928\u0947\u092e\u092c\u093e\u091c\u093e\u0902\u091a\u0940 \u0930\u0947\u0902\u091c\u092a\u093e\u0938\u0942\u0928 50 \u0915\u093f\u092e\u0940 \u0928\u093f\u0935\u093e\u0938\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093e, \u092d\u093e\u0930\u0924\u093e\u091a\u094d\u092f\u093e \u092a\u094d\u0930\u0936\u093f\u0915\u094d\u0937\u0915\u093e\u0902\u0928\u0940 \u0928\u093f\u0930\u093e\u0936\u093e",
-      "link": "https://maharashtratimes.com/sports/other-sports/japan-asian-games-2026-indian-shooting-team-upset-over-50-kilometer-distance-between-accommodation-and-practice-venue/articleshow/134334996.cms"
+      "title": "\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0bb2\u0bcd \u0baa\u0bb5\u0bc1\u0b9f\u0bb0\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0ba4\u0bbf\u0bae\u0bc0\u0bb1\u0bb2\u0bcd; \u0ba8\u0bc6\u0bb8\u0bcd\u0bb2\u0bc7 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+      "link": "https://www.dinamalar.com/news/india-tamil-news/childrens-milk-powder-violation-nestle-faces-legal-action/4326184"
     },
     {
-      "title": "\u0939\u093e\u0925 \u0930\u0917\u0921\u093c\u0947, \u0927\u0928\u0941\u0937-\u092c\u093e\u0923 \u091a\u0932\u093e\u092f\u093e... \u0939\u0930\u093e\u0930\u0947 \u092e\u0947\u0902 \u091f\u094d\u0930\u0947\u0935\u093f\u0938 \u0939\u0947\u0921 \u0915\u093e \u0924\u0942\u092b\u093e\u0928, \u0936\u0924\u0915 \u091c\u0921\u093c\u0915\u0930 \u0915\u093f\u092f\u093e \u0938\u094d\u092a\u0947\u0936\u0932 \u0938\u0947\u0932\u093f\u092c\u094d\u0930\u0947\u0936\u0928",
-      "link": "https://www.aajtak.in/sports/cricket/story/travis-head-fastest-odi-century-vs-zimbabwe-2nd-odi-harare-bow-and-arrow-celebration-tspoa-dskc-2646220-2026-09-18"
+      "title": "\u0d35\u0d3f\u0d35\u0d3e\u0d39\u0d38\u0d4d\u0d35\u0d2a\u0d4d\u0d28\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d41 \u0d2e\u0d47\u0d7d \u0d05\u0d35\u0d28\u0d4d\u0d31\u0d46 \u0d1a\u0d24\u0d3f\u0d28\u0d3f\u0d34\u0d7d; \u0d12\u0d1f\u0d41\u0d35\u0d3f\u0d7d \u0d05\u0d26\u0d4d\u0d2d\u0d41\u0d24\u0d02 \u0d09\u0d26\u0d3f\u0d1a\u0d4d\u0d1a\u0d41; \u0d0e\u0d7d\u0d26\u0d4b\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d4d \u0d05\u0d2d\u0d3f\u0d2e\u0d3e\u0d28\u0d30\u0d15\u0d4d\u0d37!",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/18/kochi-wedding-catering-scam-udayam-events.html"
     },
     {
-      "title": "\u0d0f\u0d37\u0d4d\u0d2f\u0d7b \u0d17\u0d46\u0d2f\u0d3f\u0d02\u0d38\u0d3f\u0d28\u0d4d \u0d1a\u0d41\u0d34\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d31\u0d4d\u0d31\u0d4d \u0d2d\u0d40\u0d37\u0d23\u0d3f; \u0d15\u0d3e\u0d2f\u0d3f\u0d15\u0d24\u0d3e\u0d30\u0d19\u0d4d\u0d19\u0d33\u0d46 \u0d12\u0d34\u0d3f\u0d2a\u0d4d\u0d2a\u0d3f\u0d2a\u0d4d\u0d2a\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d7b \u0d1c\u0d2a\u0d4d\u0d2a\u0d3e\u0d7b",
-      "link": "https://www.southlive.in/cyclone-threat-to-asian-games-japan-to-evacuate-athletes/"
+      "title": "Kerala Power Cut Alert : \u0d07\u0d28\u0d4d\u0d28\u0d41\u0d02 \u0d07\u0d30\u0d41\u0d1f\u0d4d\u0d1f\u0d3f\u0d7d, \u0d30\u0d3e\u0d24\u0d4d\u0d30\u0d3f\u0d2f\u0d3f\u0d7d \u0d35\u0d48\u0d26\u0d4d\u0d2f\u0d41\u0d24\u0d3f \u0d28\u0d3f\u0d2f\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d23\u0d02",
+      "link": "https://www.malayalamtv9.com/kerala/kseb-power-cut-update-tonight-load-shedding-to-continue-accross-kerala-2232266.html"
     },
     {
-      "title": "New Apple Watches: Best deals on Series 12 and Ultra 4",
-      "link": "https://mashable.com/tech/apple-watch-series-12-ultra-4-best-launch-deals"
+      "title": "\u0bb0\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bb0\u0bcd-\u0b95\u0bb5\u0bbe\u0bb8\u0bcd\u0b95\u0bb0\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bbe?",
+      "link": "https://www.dailythanthi.com/sports/cricket/will-the-border-gavaskar-match-be-shifted-from-ranchi"
     },
     {
-      "title": "HAL hands over LCA FOC trainers, first HTT",
-      "link": "https://timesofindia.indiatimes.com/defence/hal-hands-over-lca-foc-trainers-first-htt-40-ankur-to-iaf-4-dhruv-ng-choppers-to-pawan-hans/articleshow/134335070.cms"
+      "title": "'\u0936\u0941\u0915\u094d\u0930\u093f\u092f\u093e \u092d\u093e\u0908', \u091c\u0928\u094d\u092e\u0926\u093f\u0928 \u0915\u0940 \u092c\u0927\u093e\u0908 \u0926\u0947\u0928\u0947 \u092a\u0930 \u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u092e\u094b\u0926\u0940 \u0928\u0947 UAE \u0915\u0947 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f \u0915\u093e \u091c\u0924\u093e\u092f\u093e \u0906\u092d\u093e\u0930; \u092a\u0936\u094d\u091a\u093f\u092e \u090f\u0936\u093f\u092f\u093e \u092a\u0930 \u092d\u0940 \u091a\u0930\u094d\u091a\u093e",
+      "link": "https://navbharattimes.indiatimes.com/india/president-of-uae-sheikh-mohamed-bin-zayed-al-nahyan-birthday-wishes-pm-modi/articleshow/134335680.cms"
     }
   ],
   "twitter": null
