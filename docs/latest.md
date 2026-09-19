@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-19 20:34:06
+# India Trending Report — 2026-09-19 21:01:44
 
 ## Google Trends (India) — top trending searches
 1. [barca](https://trends.google.com/trending/rss?geo=IN)
@@ -8,22 +8,22 @@
 5. [sohail khan](https://trends.google.com/trending/rss?geo=IN)
 6. [mom and son](https://trends.google.com/trending/rss?geo=IN)
 7. [desi](https://trends.google.com/trending/rss?geo=IN)
-8. [salman khan](https://trends.google.com/trending/rss?geo=IN)
-9. [rohit sharma](https://trends.google.com/trending/rss?geo=IN)
-10. [epl table](https://trends.google.com/trending/rss?geo=IN)
+8. [india news](https://trends.google.com/trending/rss?geo=IN)
+9. [salman khan](https://trends.google.com/trending/rss?geo=IN)
+10. [rohit sharma](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [A Tulu promise: Why DKS is trying a different language in BJP's coastal bastion](https://timesofindia.indiatimes.com/india/bjp-promise-in-its-coastal-bastion-why-dk-shivakumar-put-tulu-at-centre-in-mangaluru/articleshow/134353768.cms)
 - [Iran gives US 3 conditions to restart talks, says ‘threats won't achieve results’](https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms)
-- [Army chief’s military talks in Russia focus on artillery modernisation, capability development](https://timesofindia.indiatimes.com/defence/news/army-chiefs-military-talks-in-russia-focus-on-artillery-modernisation-capability-development/articleshow/134360116.cms)
+- [PM Modi pushes back on West’s narrative over emissions](https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms)
 - [Father-son duo makes history: Shigenobu and Koji light cauldron in Nagoya](https://timesofindia.indiatimes.com/sports/asian-games-2026/father-son-duo-makes-history-five-time-asian-games-champion-shigenobu-murofushi-and-olympic-gold-medallist-son-koji-light-cauldron-in-aichi-nagoya/articleshow/134356286.cms)
 - ['Only high IQ individuals need apply': Trump announces 'AI Force'](https://timesofindia.indiatimes.com/world/us/only-high-iq-individuals-need-apply-trump-announces-ai-force/articleshow/134358415.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
+- [Army chief’s military talks in Russia focus on artillery modernisation, capability development](https://timesofindia.indiatimes.com/defence/news/army-chiefs-military-talks-in-russia-focus-on-artillery-modernisation-capability-development/articleshow/134360116.cms)
+- [Psychology says feeling uneasy when someone is too kind doesn’t mean you’re ungrateful](https://timesofindia.indiatimes.com/life-style/relationships/psychology-says-people-who-feel-uncomfortable-when-someone-is-too-kind-to-them-arent-ungrateful-what-makes-receiving-affection-difficult/articleshow/134332419.cms)
 - ['I knew this was the end of my career': Doval recalls when China captured his agents](https://timesofindia.indiatimes.com/india/i-knew-this-was-the-end-of-my-career-ajit-doval-recalls-when-his-agents-were-captured-by-china/articleshow/134356490.cms)
 - [Mamata's TMC rollercoaster: 3 days, 3 setbacks, then a breather](https://timesofindia.indiatimes.com/india/mamatas-72-hour-rollercoaster-symbol-tmc-name-candidates-exit-then-a-breather-on-day-3/articleshow/134353274.cms)
-- ['How is it possible?' Kejriwal and family get SIR notice in Delhi, EC responds](https://timesofindia.indiatimes.com/india/everything-happening-to-keep-supreme-lord-happy-aap-asks-why-kejriwal-family-missing-from-delhi-voter-list/articleshow/134355364.cms)
-- [Woman retires after 53 years; colleagues surprise her with font bearing her name](https://timesofindia.indiatimes.com/world/us/at-18-pat-lightizer-joined-a-massachusetts-company-where-letters-were-still-drawn-by-hand-53-years-later-she-retired-and-her-colleagues-surprised-her-with-a-font-bearing-her-name/articleshow/134335936.cms)
 
 **NDTV**
 - [After Slowdown Calls, Trump Says He Will Set Up 'AI Force', Name 'AI Czar'](https://www.ndtv.com/world-news/after-slowdown-calls-trump-says-he-will-set-up-ai-force-name-ai-czar-12070075#publisher=newsstand)
@@ -62,6 +62,8 @@
 - [`ಟೆಸ್ಟ್ ಪಂದ್ಯದ ಒತ್ತಡ, ನಿದ್ರೆಯಿಲ್ಲದ ರಾತ್ರಿ': ತಾಯಿ ಮಾಡಿಕೊಡುತ್ತಿದ್ದ ಬಾಳೆಕಾಯಿ ವೇಫರ್ಸ್ ತಿನ್ನುತ್ತಿದ್ದ ಹಿಟ್ ಮ್ಯಾನ್!](https://vijaykarnataka.com/sports/cricket/news/rohit-sharma-eat-mother-made-banana-wafers-on-sleepless-test-match-night-to-decrease-pressure/articleshow/134355857.cms)
 
 **The Hindu**
+- [How will the U.S.’s Sanctioning Act affect India? | Explained](https://www.thehindu.com/news/national/how-will-the-uss-sanctioning-act-affect-india-explained/article71485870.ece)
+- [The digital recruiter | Shahzad Bhatti](https://www.thehindu.com/profile/the-digital-recruiter-shahzad-bhatti/article71485789.ece)
 - [Caste Hindu candidate claims reservation through bogus community certificate, Madras High Court refuses to order release of terminal benefits](https://www.thehindu.com/news/national/tamil-nadu/caste-hindu-candidate-claims-reservation-through-bogus-community-certificate-madras-high-court-refuses-to-order-release-of-terminal-benefits/article71484580.ece)
 - [TVK regime’s experiment of having two advisers to Vijay alongside Chief Secretary, giving mixed vibes to T.N.’s bureaucratic circles](https://www.thehindu.com/news/national/tamil-nadu/tvk-regimes-experiment-of-having-two-advisers-to-vijay-alongside-chief-secretary-giving-mixed-vibes-to-tns-bureaucratic-circles/article71485220.ece)
 - [Youth stabbed to death over personal enmity in Kalaburagi](https://www.thehindu.com/news/national/karnataka/youth-stabbed-to-death-over-personal-enmity-in-kalaburagi/article71485338.ece)
@@ -70,10 +72,9 @@
 - [Tiruppur yarn producers seek support from garment units to modify role of CCI](https://www.thehindu.com/news/cities/Coimbatore/tiruppur-yarn-producers-seek-support-from-garment-units-to-modify-role-of-cci/article71485402.ece)
 - [Tasmac employees at retail outlets across T.N. to wear uniform from November 15](https://www.thehindu.com/news/national/tamil-nadu/tasmac-employees-at-retail-outlets-across-tn-to-wear-uniform-from-november-15/article71485836.ece)
 - [Governor Arlekar takes part in beach-cleaning activity on Marina](https://www.thehindu.com/news/national/tamil-nadu/governor-arlekar-takes-part-in-beach-cleaning-activity-on-marina/article71484618.ece)
-- [Act if there are any violations: KTR](https://www.thehindu.com/news/national/telangana/act-if-there-are-any-violationsktr/article71485543.ece)
-- [‘India is entering a period of economic growth that could be unparalleled in our history’](https://www.thehindu.com/news/national/tamil-nadu//article71485038.ece)
 
 **Livemint**
+- [Melania Trump to launch ‘IMPERIA’ during UNGA week: Why women CEOs are at the centre of it](https://www.livemint.com/news/us-news/melania-trump-to-launch-imperia-during-unga-week-why-women-ceos-are-at-the-centre-of-it-11789844321946.html)
 - [Trump-Xi state dinner: Why America’s biggest tech bosses will be at the table](https://www.livemint.com/news/us-news/trumpxi-state-dinner-why-america-s-biggest-tech-bosses-will-be-at-the-table-11789848887821.html)
 - [Xi Jinping's US state visit in 11 years: What Trump and China's leader will discuss](https://www.livemint.com/news/us-news/xi-jinpings-us-state-visit-in-11-years-what-trump-and-chinas-leader-will-discuss-11789846576456.html)
 - [Houthis claim attacks on Saudi capital after flames, black smoke seen near Riyadh airport](https://www.livemint.com/news/world/houthis-claim-attacks-on-saudi-capital-after-flames-black-smoke-seen-near-riyadh-airport-11789843604832.html)
@@ -83,7 +84,6 @@
 - [Who is Earl Spencer? What Diana’s brother claims King Charles said after her death](https://www.livemint.com/news/world/who-is-earl-spencer-what-diana-s-brother-claims-king-charles-said-after-her-death-11789831019104.html)
 - [Trump defends son Don Jr. after Putin-linked Russian businessman-funded wedding: ‘He paid them back’](https://www.livemint.com/news/us-news/trump-defends-son-don-jr-after-putin-linked-russian-businessman-funded-wedding-he-paid-them-back-11789833376714.html)
 - [‘Shame on CBSE’ trends: Teacher claims delayed NCERT books are putting Class 9 students under pressure](https://www.livemint.com/news/india/shame-on-cbse-trends-teacher-claims-delayed-ncert-books-are-putting-class-9-students-under-pressure-11789830811226.html)
-- [Trump tariffs ‘unfair’: India will buy energy from commercially viable sources, says MoS amid Russia-Iran sanctions law](https://www.livemint.com/news/india/trump-tariffs-unfair-india-will-buy-energy-from-commercially-viable-sources-says-mos-amid-russia-iran-sanctions-law-11789828160506.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,35 +100,35 @@
 - [1965ರ ಭಾರತ–ಪಾಕ್ ಯುದ್ಧದ ವೀರ ಫ್ಲೈಟ್ ಲೆಫ್ಟಿನೆಂಟ್ ಎ.ಟಿ. ಕುಕ್ ನಿಧನ](https://www.varthabharati.in/National/flight-lieutenant-at-cooke-hero-of-the-1965-india-pakistan-war-passes-away-2276440)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (5.8)
 - October (5.2)
+- Trump (4.8)
 - DUSU (3.9)
-- India (2.9)
 - Trump-Xi (2.6)
 - AI Force' (2.0)
 - Rahul Gandhi (2.0)
-- Kejriwal (1.9)
-- Delhi (1.9)
 - Calls (1.9)
 - What (1.9)
+- West (1.6)
 - Vijay (1.6)
+- India (1.6)
 - ABVP's (1.6)
 - Tulu (1.3)
 - BJP's (1.3)
+- Iran (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [അവനെ വളർത്തിയത് യാമിനി തങ്കച്ചി, മുറിഞ്ഞാൽ ചോര വരുന്ന ശരീരവും നോവുന്നൊരു മനസും ​ഗണേശിനുമുണ്ട്; കുറിപ്പ്!](https://malayalam.filmibeat.com/features/ganesh-kumar-s-son-s-wedding-photos-draw-criticism-netizen-defends-the-actor-and-his-family-144861.html)
-- [DUSU 2026 election results LIVE: ABVP sweeps DUSU polls, secures 3 posts, Independent Deepanshu Shokeen wins VP seat](https://www.hindustantimes.com/india-news/dusu-2026-election-results-live-updates-abvp-nsui-aisa-yash-dabas-ishu-maurya-vijay-shankar-meena-vote-counting-winner-101789782171387.html)
-- [கிரீன்லாந்து மீது அமெரிக்காவுக்கு நிரந்தர பாதுகாப்பு கட்டுப்பாடு? - டிரம்ப் அறிவித்த புதிய ஒப்பந்தம்](https://www.polimernews.com/worldnews/trump-greenland-us-permanent-security-control-denmark-deal-12551876)
-- [Abhishek Sharma: 'কিডন্যাপ করে নিয়ে যেতে চাই', ভারতের বিধ্বংসী ওপেনাকে নিয়ে চাঞ্চল্যকর মন্তব্য](https://bengali.abplive.com/sports/cricket/abhishek-sharma-female-fan-from-afghanistan-wants-to-kidnap-him-1193407)
-- [നടന്നുപോവുകയായിരുന്ന വയോധികനെ ബൈക്ക് ഇടിച്ചുതെറിപ്പിച്ചു; നിർത്താതെ പോയ വിദ്യാർഥികൾ പിടിയിൽ!](https://www.expresskerala.com/news/students-who-struck-and-flung-aside-an-elderly-pedestrian-and-then-drove-off-without-stopping-have-been-caught.html)
-- [250 करोड़ के बंगले में पहला गणपति विसर्जन, रणबीर-नीतू कपूर हुए भावुक, आलिया ने छिपाया बेटी राहा का चेहरा](https://www.aajtak.in/entertainment/bollywood-news/photo/ramayana-ranbir-kapoor-first-ganpati-visarjan-at-250-crore-bungalow-alia-bhatt-hides-raha-face-neetu-kapoor-tmovf-2647025-2026-09-19)
-- [Sanjay Shirsat: दुष्काळाच्या बैठकीत नेत्यांसाठी काजू-बदामांची मेजवानी, संजय शिरसाट संतापले 'अधिकारी काजू बदाम आणतात आणि बदनाम...'](https://marathi.abplive.com/news/politics/sanjay-shirsat-on-feast-of-cashews-and-almonds-for-leaders-at-a-drought-review-meeting-sanjay-shirsat-furious-officials-bring-cashews-and-almonds-yet-we-get-a-bad-name-1439580)
-- ["माझ्या मुलाचा छळ केला", IIT मुंबईतील आत्महत्याग्रस्त विद्यार्थ्याच्या आईची प्रतिक्रिया; म्हणाल्या, "आम्हाला..."](https://www.loksatta.com/maharashtra/iit-bombay-student-suicide-mother-statement-complaint-sgk-96-6144572/)
-- [‘વિકાસશીલ દેશો પર ખોટો દોષ ન થોપો’, કાર્બન ઉત્સર્જનના આરોપો પર PM મોદીનો જવાબ](https://www.gujaratsamachar.com/news/national/dont-put-the-wrong-blame-on-developing-countries-pm-modis-response-to-allegations-of-carbon-emissions-90313296694)
-- [Ghansawangi Drought : पिके करपली, जलस्रोत आटले; शेतकऱ्यांच्या ताटात माती](https://pudhari.news/maharashtra/marathwada/jalna/crops-withered-water-sources-dried-up-soil-on-the-farmers-plates-np88)
+- [அம்பேத்கர் அயலக கல்வி உதவித்தொகை: மலேசியாவில் படிக்கும் மாணவர் பாரதிதாசனுக்கு நிதி விடுவிப்பு!](https://www.vikatan.com/government-and-politics/tamil-nadu-releases-second-year-scholarship-for-student)
+- [Devendra Fadnavis on Drought: दुष्काळाच्या बैठकीत नेत्यांसाठी काजू-बदामांची मेजवानी, देवेंद्र फडणवीस अधिकाऱ्यांना म्हणाले...](https://marathi.abplive.com/news/politics/devendra-fadnavis-on-drought-in-maharashtra-farmers-says-government-officials-give-cashews-and-almond-in-drought-meeting-marathi-news-1439590)
+- [खाने के पैकेट पर लिखे 14 नंबर पढ़ना सीखिए, FSSAI का है ये राज](https://www.aajtak.in/trending/story/fssai-14-digit-number-on-food-packets-license-registration-meaning-tstf-dskc-2647074-2026-09-19)
+- [জুবিন গর্গের প্রথম মৃত্যুবার্ষিকীতে সোনাপুরে ভক্তদের ভিড়, উঠল ন্যায়বিচারের দাবি](https://jagarantripura.com/2026/09/19/zubeen-gargs-first-death-anniversary-fans-gather-in-sonapur-renew-call-for-justice/)
+- ['He's paying him back': Trump defends Russian oligarch funding his son's Bahamas wedding](https://timesofindia.indiatimes.com/world/us/hes-paying-him-back-trump-defends-russian-oligarch-funding-his-sons-bahamas-wedding/articleshow/134350782.cms)
+- [“மாணவர் பாரதிதாசன் விவகாரத்தில் திமுக அரசியல் செய்கிறது” - அமைச்சர் வன்னி அரசு](https://www.hindutamil.in/news/tamilnadu/dmk-betrayed-dalit-students-minister-vanni-arasu-lashes-out)
+- [‘Returning the bottle’: BJP’s Ravneet Bittu detained after protest near Mann’s convoy](https://timesofindia.indiatimes.com/india/ravneet-bittu-detained-after-throwing-eggs-tomatoes-at-punjab-cm-manns-convoy/articleshow/134350865.cms)
+- [Raaka: 'రాకా’పై శిబి చక్రవర్తి సంచలన వ్యాఖ్యలు..](https://www.chitrajyothy.com/2026/tollywood/cibi-chakravarthys-sensational-comments-on-raaka-visuals-avm-75513.html)
+- [2026 ਦੀ ‘ਦੁਨੀਆ ਦੀ ਸਭ ਤੋਂ ਵਧੀਆ ਏਅਰਲਾਈਨ’ ਦਾ ਐਲਾਨ, Air NZ ਟਾਪ-20 ਵਿੱਚ ਵੀ ਨਹੀਂ](https://nzpunjabinews.com/new-zealand-1700/)
+- [Nandigram Abu Taher: 'সব নকল লোক পাশে বসিয়ে রাজনীতি করেছেন, চোখ নয় কান দিয়ে দেখতেন', ফের সরব নন্দীগ্রামের আবু তাহের](https://bengali.abplive.com/district/nandigram-by-poll-sanchita-pradhan-dey-withdrawn-nomination-abu-taher-slams-mamata-banerjee-1193410)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
