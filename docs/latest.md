@@ -1,14 +1,14 @@
-# India Trending Report — 2026-09-19 06:37:36
+# India Trending Report — 2026-09-19 07:01:49
 
 ## Google Trends (India) — top trending searches
-1. [uidai](https://trends.google.com/trending/rss?geo=IN)
-2. [hi](https://trends.google.com/trending/rss?geo=IN)
-3. [air india](https://trends.google.com/trending/rss?geo=IN)
-4. [lic](https://trends.google.com/trending/rss?geo=IN)
+1. [dsssb aso admit card](https://trends.google.com/trending/rss?geo=IN)
+2. [uidai](https://trends.google.com/trending/rss?geo=IN)
+3. [hi](https://trends.google.com/trending/rss?geo=IN)
+4. [air india](https://trends.google.com/trending/rss?geo=IN)
 5. [adidas](https://trends.google.com/trending/rss?geo=IN)
-6. [dcms](https://trends.google.com/trending/rss?geo=IN)
-7. [விமான நிலையம்](https://trends.google.com/trending/rss?geo=IN)
-8. [payment](https://trends.google.com/trending/rss?geo=IN)
+6. [lic](https://trends.google.com/trending/rss?geo=IN)
+7. [dcms](https://trends.google.com/trending/rss?geo=IN)
+8. [விமான நிலையம்](https://trends.google.com/trending/rss?geo=IN)
 9. [ಸಂಗೀತಾ ಭಟ್](https://trends.google.com/trending/rss?geo=IN)
 10. [income tax](https://trends.google.com/trending/rss?geo=IN)
 
@@ -17,13 +17,13 @@
 - [Surinder Koli & ‘Sada Ram’: How Nithari acquitted lived a double life in Haridwar](https://timesofindia.indiatimes.com/city/dehradun/acquitted-in-the-nithari-case-surinder-koli-had-two-ids-one-in-his-own-name-the-other-as-sada-ram/articleshow/134347669.cms)
 - [Watch: Iranian women run Tehran race event without hijab, defying compulsory rules](https://timesofindia.indiatimes.com/world/middle-east/watch-iranian-women-run-tehran-race-event-without-hijab-defying-compulsory-rules/articleshow/134347255.cms)
 - [‘Rained bricks on him’: UK-returned grad kidnaps, kills neighbour’s son in B'luru](https://timesofindia.indiatimes.com/city/bengaluru/rained-bricks-on-him-in-custody-uk-returned-grad-kidnaps-and-kills-neighbours-son-in-bengaluru/articleshow/134346727.cms)
+- ['We waited for like 6 hrs to get a room': Gukesh on why Arjun lost Round 1 game](https://timesofindia.indiatimes.com/sports/chess/we-all-waited-for-like-6-hours-to-get-a-room-d-gukesh-explains-why-arjun-erigaisi-lost-in-chess-olympiad-round-1-game/articleshow/134348479.cms)
 - [Trump signs Russia sanctions bill: Will India actually face 100% tariff](https://timesofindia.indiatimes.com/business/international-business/trump-signs-russia-sanctions-bill-what-it-means-and-will-india-actually-face-100-tariff/articleshow/134348307.cms)
+- [Musk promises 'Jesus-Level' miracles from Neuralink after a 'beautiful surprise'](https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-promises-jesus-level-miracles-from-neuralink-heres-the-beautiful-surprise-that-made-him-say-i-love-you/articleshow/134348285.cms)
 - ['Struck her with stones': After rape, Delhi man kills 10-year old in fear](https://timesofindia.indiatimes.com/city/delhi/after-rape-accused-planned-to-take-girl-back-but-killed-her-fearing-she-might-tell-parents/articleshow/134342191.cms)
-- [Mayor Zohran Mamdani sends 'AI warning' to landlords in New York](https://timesofindia.indiatimes.com/technology/tech-news/mayor-zohran-mamdani-sends-ai-warning-to-landlords-in-new-york-finding-a-home-in-new-york-is-hard-enough-stop-using-/articleshow/134346881.cms)
 - [Can your boss force you to serve full notice period? Know buyout rules & costs](https://timesofindia.indiatimes.com/business/india-business/can-your-boss-force-you-to-serve-the-full-notice-period-know-when-you-can-buy-out-what-happens-if-employer-says-no-and-what-you-may-have-to-pay/articleshow/134339540.cms)
 - [Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both killed](https://timesofindia.indiatimes.com/world/us/hugs-kisses-minutes-before-indian-origin-woman-and-her-friend-get-killed-by-train-in-manhattan-report/articleshow/134347745.cms)
 - [DC cricketer gets bail in alleged rape case after more than a month in jail](https://timesofindia.indiatimes.com/sports/cricket/news/delhi-capitals-cricketer-gets-bail-in-alleged-rape-case-after-more-than-a-month-in-jail/articleshow/134348011.cms)
-- [IIT-Bombay student dies by suicide after being caught using AI; students protest](https://timesofindia.indiatimes.com/city/mumbai/second-year-iit-bombay-student-dies-by-suicide-after-being-caught-using-ai-platform-during-exam/articleshow/134346768.cms)
 
 **NDTV**
 - [Trump Signs Russia Sanctions Bill, Clears Way For 100% Tariffs On India, China](https://www.ndtv.com/world-news/donald-trump-signs-russia-sanctions-bill-amid-ukraine-war-clears-way-for-100-tariffs-on-india-china-12067070#publisher=newsstand)
@@ -50,30 +50,33 @@
 - [Equal work alone not enough to claim equal pay: Supreme Court](https://www.hindustantimes.com/india-news/equal-work-alone-not-enough-to-claim-equal-pay-supreme-court-101789794601937.html)
 
 **Vijay Karnataka**
+- [ಕನ್ನಡ ಅಕ್ಷರ ಬರೆಯದ 7ನೇ ತರಗತಿ ವಿದ್ಯಾರ್ಥಿಗಳು: 180 ಶಿಕ್ಷಕರಿಗೆ ಕಾರಣ ಕೇಳಿ ಬಿಇಒ ನೋಟಿಸ್! ಪ್ರದೀಪ್ ಈಶ್ವರ್ ನಡೆಗೆ ಮೆಚ್ಚುಗೆ](https://vijaykarnataka.com/news/karnataka/notice-for-government-school-teachers-for-negligence/articleshow/134348044.cms)
 - [ಡಿಕೆಶಿ ಮಂಗಳೂರಿಗೆ ಹೋಗಿದ್ದು ಮೀನು ತಿನ್ನೋಕೆ - R ಅಶೋಕ : ಸಿಎಂ ಕೊಟ್ಟ ವ್ಯಂಗ್ಯ ಪ್ರತಿಕ್ರಿಯೆ ಹೀಗಿತ್ತು..](https://vijaykarnataka.com/news/karnataka/cm-dk-shivakumar-reply-r-ashoka-cabinet-meeting-mangaluru/articleshow/134349218.cms)
 - [ಸಿಎಂ ಡಿಕೆ ಶಿವಕುಮಾರ್‌ ಭೇಟಿಗೆ ಮಂಗಳೂರು ಹಳೆ ಬಂದರು ಬಂದ್: ವ್ಯವಹಾರಕ್ಕೆ ಸ್ಥಗಿತಕ್ಕೆ ಸಿಎಂ ಗರಂ, ತನಿಖೆಗೆ ಸೂಚನೆ!](https://vijaykarnataka.com/news/mangaluru/cm-dk-shivakumar-visits-mangaluru-old-port-orders-investigation-on-fishing-activities-halt-in-port/articleshow/134348023.cms)
-- [ಕೃಷ್ಣ ಬೈರೇಗೌಡ ದಿಢೀರ್ ನೈಟ್ ರೌಂಡ್ಸ್ : ದಾರಿಯುದ್ದಕ್ಕೂ ಸಮಸ್ಯೆ, ’ಕಾಮನ್ ಸೆನ್ಸ್ ಇಲ್ಲವೇ’ - ಎಂಜಿನಿಯರ್‌ಗಳಿಗೆ ತರಾಟೆ](https://vijaykarnataka.com/news/bengaluru-city/minister-krishna-byre-gowda-late-night-bengaluru-round-warning-to-engineers/articleshow/134348508.cms)
 - [ಕತ್ರಿನಾ ಕೈಫ್ ದಪ್ಪ ಆಗಿದ್ದಾರೆಂದು ಟ್ರೋಲ್ ಹೆರಿಗೆ ಬಳಿಕ ದೇಹದಲ್ಲಿ ಆಗುವ ಸಾಮಾನ್ಯ ಬದಲಾವಣೆಗಳೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/katrina-kaif-postpartum-body-changes-women-after-pregnancy/articleshow/134348311.cms)
-- [1 ಕೋಟಿ ಹಣದಾಸೆಗೆ ಬೆಂಗಳೂರಲ್ಲಿ 13ರ ಹರೆಯದ ಬಾಲಕನ ಕಿಡ್ನಾಪ್‌ ಮಾಡಿ ಬರ್ಬರವಾಗಿ ಕೊಲೆಗೈದ ಎಂ.ಟೆಕ್‌ ಪದವೀಧರ!](https://vijaykarnataka.com/news/bengaluru-city/mtech-graduate-brutally-murders-13-year-old-boy-in-bengaluru-for-1-cr-ransom-arrested/articleshow/134347711.cms)
+- [ಕೃಷ್ಣ ಬೈರೇಗೌಡ ದಿಢೀರ್ ನೈಟ್ ರೌಂಡ್ಸ್ : ದಾರಿಯುದ್ದಕ್ಕೂ ಸಮಸ್ಯೆ, ’ಕಾಮನ್ ಸೆನ್ಸ್ ಇಲ್ಲವೇ’ - ಎಂಜಿನಿಯರ್‌ಗಳಿಗೆ ತರಾಟೆ](https://vijaykarnataka.com/news/bengaluru-city/minister-krishna-byre-gowda-late-night-bengaluru-round-warning-to-engineers/articleshow/134348508.cms)
 - [BBK 13: ಕ್ಯಾಪ್ಟನ್ಸಿ ಟಾಸ್ಕ್‌ನಲ್ಲಿ ಆಸಿಯಾ ಮತ್ತು ತಂಡ ಲೈನ್ ಕ್ರಾಸ್ ಮಾಡಿಲ್ಲ! ಸಾಕ್ಷಿ ಕೊಟ್ಟ ನೆಟ್ಟಿಗರು!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-week-2-asiya-did-not-complete-captaincy-task-here-is-the-proof/articleshow/134348719.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [ಶನಿವಾರ ಪುರುಷರು ಮತ್ತು ಸ್ತ್ರೀಯರು ಮಾಡಬಾರದ ಕೆಲಸಗಳು: ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/saturday-men-and-women-do-not-do-these-mistakes-otherwise-you-will-face-shani-angry/articleshow/134333229.cms)
 - [ಐಶ್ವರ್ಯಾ ರೈ ಹೋಲುವ ಸ್ನೇಹಾ ಉಳ್ಳಾಲ್ ಗ್ಲಾಮರಸ್ ಅವತಾರ; ಪೂಲ್‌ಸೈಡ್ ಲುಕ್, ಮಿನಿ ಸ್ಕರ್ಟ್‌ ಧರಿಸಿ ಸ್ಟೈಲ್ ಮೋಡಿ!](https://vijaykarnataka.com/lifestyle/fashion/sneha-ullal-stylish-looks-mini-skirt-dresses-goa-vacation/articleshow/134346449.cms)
-- [US ವಶಕ್ಕೆ ಗ್ರೀನ್‌ಲ್ಯಾಂಡ್‌- ಡೆನ್ಮಾರ್ಕ್ ಜೊತೆ ಟ್ರಂಪ್ ಐತಿಹಾಸಿಕ ಒಪ್ಪಂದ; Greenlandನಲ್ಲಿ ಅಮೆರಿಕಾಗೆ ಶಾಶ್ವತ ಮಿಲಿಟರಿ ಅಧಿಕಾರ!](https://vijaykarnataka.com/news/world/us-gets-permanent-control-over-greenland-trump-announces-deal-with-denmark/articleshow/134347055.cms)
+- [1 ಕೋಟಿ ಹಣದಾಸೆಗೆ ಬೆಂಗಳೂರಲ್ಲಿ 13ರ ಹರೆಯದ ಬಾಲಕನ ಕಿಡ್ನಾಪ್‌ ಮಾಡಿ ಬರ್ಬರವಾಗಿ ಕೊಲೆಗೈದ ಎಂ.ಟೆಕ್‌ ಪದವೀಧರ!](https://vijaykarnataka.com/news/bengaluru-city/mtech-graduate-brutally-murders-13-year-old-boy-in-bengaluru-for-1-cr-ransom-arrested/articleshow/134347711.cms)
 
 **The Hindu**
+- [PM Modi inaugurates NGT’s climate conference, highlights climate inequality](https://www.thehindu.com/news/cities/Delhi/pm-modi-inaugurates-ngts-climate-conference-highlights-climate-inequality/article71483805.ece)
+- [Sonam Wangchuk to lead 20-km symbolic march in Leh on September 23](https://www.thehindu.com/news/national/ladakh/sonam-wangchuk-to-lead-20-km-symbolic-march-in-leh-on-september-23/article71483841.ece)
+- [Void one has to learn to live with but can never accept: Himanta on Zubeen death anniversary](https://www.thehindu.com/news/national/assam/void-one-has-to-learn-to-live-with-but-can-never-accept-himanta-on-zubeen-death-anniversary/article71483865.ece)
+- [Prominent dissident MLAs left out of AIADMK’s bypoll campaign events](https://www.thehindu.com/news/national/tamil-nadu/prominent-dissidents-left-out-of-aiadmks-bypoll-campaign-programmes/article71480391.ece)
+- [Home dept examining AG’s legal opinion on ED’s request to register case against Pinarayi Vijayan: Chennithala](https://www.thehindu.com/news/national/kerala/home-dept-examining-ags-legal-opinion-on-eds-request-to-register-case-against-pinarayi-vijayan-chennithala/article71483864.ece)
 - [Mumps cases reported in parts of Keralam’s Thrissur; DMO urges public to stay vigilant](https://www.thehindu.com/news/national/kerala/mumps-cases-reported-in-parts-of-keralams-thrissur-dmo-urges-public-to-stay-vigilant/article71480844.ece)
 - [71% consumers in Mumbai rarely asked for prescription, survey finds; Maharashtra FDA acted against 880 drug licensees in three months](https://www.thehindu.com/news/cities/mumbai/71-consumers-in-mumbai-rarely-asked-for-prescription-survey-finds-maharashtra-fda-acted-against-880-drug-licensees-in-three-months/article71480804.ece)
-- [Prominent dissident MLAs left out of AIADMK’s bypoll campaign events](https://www.thehindu.com/news/national/tamil-nadu/prominent-dissidents-left-out-of-aiadmks-bypoll-campaign-programmes/article71480391.ece)
 - [IIM Visakhapatnam opens admissions for fourth Executive MBA batch](https://www.thehindu.com/news/cities/Visakhapatnam/iim-visakhapatnam-opens-admissions-for-fourth-executive-mba-batch/article71482155.ece)
 - [Four students, driver injured as school bus collides with lorry on Chennai-Bengaluru NH near Ambur](https://www.thehindu.com/news/national/tamil-nadu/four-students-driver-injured-as-school-bus-collides-with-lorry-on-chennai-bengaluru-nh-near-ambur/article71483738.ece)
 - [Girl killed; seven others hurt after tractor ran amok during Ganesh immersion procession in Dharmavaram](https://www.thehindu.com/news/national/andhra-pradesh/girl-killed-many-others-hurt-after-tractor-ran-amok-during-ganesh-procession-in-dharmavaram/article71483561.ece)
-- [WBPDCL starts sale of surplus coal to NTPC](https://www.thehindu.com/business/wbpdcl-starts-sale-of-surplus-coal-to-ntpc/article71483787.ece)
-- [DUSU counting: ABVP leads in early trends for president’s post](https://www.thehindu.com/news/cities/Delhi/delhi-university-students-union-election-result-counting-on-september-19-2026/article71483753.ece)
-- [Bangalore Terriers return home after J&K deployment](https://www.thehindu.com/news/national/karnataka/bangalore-terriers-return-home-after-jk-deployment/article71480460.ece)
-- [DGGI uncovers ₹115 Crore GST evasion across Andhra Pradesh hotels](https://www.thehindu.com/news/national/andhra-pradesh/dggi-uncovers-115-crore-gst-evasion-across-andhra-pradesh-hotels/article71483692.ece)
 
 **Livemint**
+- [India’s software exports rise 8.2% to $221.4 billion in FY26, US share grows](https://www.livemint.com/news/india-software-exports-it-software-services-rbi-survey-ites-bpo-software-products-us-europe-11789753733461.html)
+- [DU election result: DUSU polls 2026 flouts  ₹5,000 spending cap; ABVP leads in early trends](https://www.livemint.com/news/india/du-election-result-dusu-polls-2026-flouts-rs-5-000-spending-cap-results-today-11789795291482.html)
+- [India plans red warning labels, school-age child pictorials on cough syrups to bar under-4 use](https://www.livemint.com/news/cough-syrup-children-under-4-dcgi-cdsco-drugs-rules-1945-cough-syrup-warning-paediatric-medicine-dghs-11789793636408.html)
 - [Saudi Arabia Issues Rare Air-Raid Alerts for Riyadh](https://www.livemint.com/news/us-news/saudi-arabia-issues-rare-air-raid-alerts-for-riyadh-11789798975186.html)
 - [TTD News: Who is Kailash Chand Manglam? ED arrests supplier in Tirupati Laddu ghee adulteration case](https://www.livemint.com/news/india/ttd-news-who-is-kailash-chand-manglam-ed-arrests-supplier-in-tirupati-laddu-ghee-adulteration-case-11789797565844.html)
 - [‘Moving towards aatmanirbharta’: Rajnath Singh as HAL delivers Tejas, Dhruv NG — All about these indigenous aircraft](https://www.livemint.com/news/india/moving-towards-aatmanirbharta-rajnath-singh-as-hal-delivers-tejas-dhruv-ng-all-about-these-indigenous-aircraft-11789791450910.html)
@@ -81,9 +84,6 @@
 - [IIT Bombay student caught using ChatGPT in exam dies by suicide; protest erupts on campus](https://www.livemint.com/news/india/iit-bombay-student-caught-using-chatgpt-in-exam-dies-by-suicide-protest-erupts-on-campus-11789785794539.html)
 - [‘Will FOREVER have complete ability to do what is necessary in Greenland’ — Trump announces US-Denmark deal](https://www.livemint.com/news/us-news/will-forever-have-complete-ability-to-do-what-is-necessary-in-greenland-trump-announces-us-denmark-deal-11789781824701.html)
 - [US-Iran war LIVE Updates: Iran threatens regional oil exports; Saudi Arabia issues second danger alert for Riyadh](https://www.livemint.com/news/us-news/usiran-war-live-updates-trump-un-speech-to-focus-on-iran-gaza-peace-plan-strait-of-hormuz-sanction-bill-11789782948443.html)
-- [Petrol, diesel prices today, September 19: Check rates in Delhi, Mumbai, Bengaluru](https://www.livemint.com/news/india/petrol-diesel-prices-today-september-19-check-rates-in-delhi-mumbai-bengaluru-11789780532491.html)
-- [Trump signs Russia sanctions bill, clears way for 100% tariff on India and China](https://www.livemint.com/news/us-news/trump-signs-russia-sanctions-bill-clears-way-for-100-tariff-on-india-and-china-11789778841284.html)
-- ['Ban on the free press': WHCA condemns Trump's move to bar CNN, MS NOW and Politico](https://www.livemint.com/news/us-news/ban-on-the-free-press-whca-condemns-trumps-move-to-bar-cnn-ms-now-and-politico-11789778879181.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ವಿಪಕ್ಷಗಳು ಪ್ರತಿಯೊಂದು ವಿಷಯವನ್ನೂ ರಾಜಕೀಯಕ್ಕೆ ಬಳಸಿಕೊಳ್ಳುವುದು ಸರಿಯಲ್ಲ: ಡಿಸಿಎಂ ಪರಮೇಶ್ವರ್](https://www.varthabharati.in/bangalore-city/unfair-for-opposition-parties-to-politicise-every-issue-dcm-parameshwara-2276245)
 - [ಹುಬ್ಬಳ್ಳಿಗೆ ಕೇಂದ್ರ ಗೃಹ ಸಚಿವ ಅಮಿತ್ ಶಾ ಆಗಮನ](https://www.varthabharati.in/dharwad/union-home-minister-amit-shah-arrives-in-hubballi-2276240)
 - [ಡಿಸಿ ಮನ್ನಾ ಭೂಮಿ ಹಂಚಿಕೆ: ಸರಕಾರದ ವಿರುದ್ಧ ದಲಿತ ಸಂಘರ್ಷ ಸಮಿತಿ ಅಸಮಾಧಾನ](https://www.varthabharati.in/DakshinaKannada/dc-manna-land-allotment-dalit-sangharsha-samiti-expresses-dissatisfaction-with-the-government-2276239)
 - [ಭಾರತೀಯರಿಗೆ EB-1 ಗ್ರೀನ್ ಕಾರ್ಡ್‌ ಗಳ ಲಭ್ಯತೆ ಸೆಪ್ಟೆಂಬರ್ ಅಂತ್ಯಕ್ಕೆ ಸ್ಥಗಿತಗೊಳ್ಳುವ ಸಾಧ್ಯತೆ: ಅಮೆರಿಕದ ವಿದೇಶಾಂಗ ಇಲಾಖೆ ಎಚ್ಚರಿಕೆ](https://www.varthabharati.in/international/us-foriegn-ministry-claims-to-stop-eb-1-greencard-to-indians-2276238)
@@ -107,24 +108,23 @@
 - [AI ಬಬಲ್ ಒಳಗೆ LLM ಎಂಬ ಕವಲಿನ ಭಸ್ಮಾಸುರ ಅವತಾರ](https://www.varthabharati.in/pitkayana/the-bhasmasura-avatar-of-the-llm-branch-within-the-ai-bubble-2276231)
 - [Raichuru | ಡಿಜೆ ಸೌಂಡಿಗೆ ಮಗು ಅಸ್ವಸ್ಥ ಆರೋಪ; ಜಿಲ್ಲಾಧಿಕಾರಿ ನಿವಾಸದ ಬಳಿ ತಡರಾತ್ರಿ ತಂದೆಯಿಂದ ಪ್ರತಿಭಟನೆ](https://www.varthabharati.in/raichur/raichur-high-dj-sound-alleged-to-have-caused-infant-illness-protests-erupt-outside-dc-residence-2276229)
 - [ಗಣೇಶ ಉತ್ಸವದಲ್ಲಿ ಭಕ್ತಿಯೇ ಮಾಯ...](https://www.varthabharati.in/javari-mathu/devotion-is-missing-from-the-ganesha-festival-2276227)
-- [ರಾಯಚೂರು ಜಿಪಂ | ಸ್ವಚ್ಛ ಭಾರತ ಮಿಷನ್ ನಡಿ ನಿರ್ಮಿಸಿದ ಶೌಚಾಲಯ, ಬಳಕೆಯ ವರದಿ ನೀಡಲು ಸೂಚನೆ](https://www.varthabharati.in/raichur/raichuru-zp-2276225)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (6.1)
 - Emkay Global Financial (5.0)
-- India (3.2)
+- Trump (4.8)
+- India (4.5)
 - ICICI Securities (3.0)
 - target (3.0)
-- Russia (2.9)
-- Greenland (2.9)
-- Delhi (2.6)
-- China (2.6)
 - DUSU (2.6)
-- Mumbai (2.6)
 - Riyadh (2.6)
 - IIT Bombay Student (2.0)
+- PM Modi (2.0)
 - Rajnath Singh (2.0)
 - Buy Bajaj Finance (2.0)
+- ChatGPT (1.9)
+- Russia (1.6)
+- Exam (1.6)
+- Telangana (1.6)
 
 ## NewsAPI top headlines (India)
 
