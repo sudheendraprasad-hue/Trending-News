@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-19 21:01:44
+# India Trending Report — 2026-09-19 21:32:53
 
 ## Google Trends (India) — top trending searches
 1. [barca](https://trends.google.com/trending/rss?geo=IN)
@@ -8,22 +8,22 @@
 5. [sohail khan](https://trends.google.com/trending/rss?geo=IN)
 6. [mom and son](https://trends.google.com/trending/rss?geo=IN)
 7. [desi](https://trends.google.com/trending/rss?geo=IN)
-8. [india news](https://trends.google.com/trending/rss?geo=IN)
-9. [salman khan](https://trends.google.com/trending/rss?geo=IN)
-10. [rohit sharma](https://trends.google.com/trending/rss?geo=IN)
+8. [salman khan](https://trends.google.com/trending/rss?geo=IN)
+9. [rohit sharma](https://trends.google.com/trending/rss?geo=IN)
+10. [epl table](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [A Tulu promise: Why DKS is trying a different language in BJP's coastal bastion](https://timesofindia.indiatimes.com/india/bjp-promise-in-its-coastal-bastion-why-dk-shivakumar-put-tulu-at-centre-in-mangaluru/articleshow/134353768.cms)
+- ['My son was killed, tortured': Mother of IIT-Bombay student seeks justice after his death](https://timesofindia.indiatimes.com/city/mumbai/my-son-was-killed-tortured-mother-of-iit-bombay-student-seeks-justice-after-his-death/articleshow/134352865.cms)
 - [Iran gives US 3 conditions to restart talks, says ‘threats won't achieve results’](https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms)
 - [PM Modi pushes back on West’s narrative over emissions](https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms)
 - [Father-son duo makes history: Shigenobu and Koji light cauldron in Nagoya](https://timesofindia.indiatimes.com/sports/asian-games-2026/father-son-duo-makes-history-five-time-asian-games-champion-shigenobu-murofushi-and-olympic-gold-medallist-son-koji-light-cauldron-in-aichi-nagoya/articleshow/134356286.cms)
 - ['Only high IQ individuals need apply': Trump announces 'AI Force'](https://timesofindia.indiatimes.com/world/us/only-high-iq-individuals-need-apply-trump-announces-ai-force/articleshow/134358415.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
+- [Ambulance stuck in mud, pregnant woman taken to hospital on bullock cart](https://timesofindia.indiatimes.com/city/indore/ambulance-stuck-in-mud-pregnant-woman-taken-to-hospital-on-bullock-cart/articleshow/134359932.cms)
+- [A Tulu promise: Why DKS is trying a different language in BJP's coastal bastion](https://timesofindia.indiatimes.com/india/bjp-promise-in-its-coastal-bastion-why-dk-shivakumar-put-tulu-at-centre-in-mangaluru/articleshow/134353768.cms)
+- [SC 'banyan tree' of environmental justice: CJI Surya Kant](https://timesofindia.indiatimes.com/india/sc-banyan-tree-of-environmental-justice-cji-surya-kant/articleshow/134360298.cms)
 - [Army chief’s military talks in Russia focus on artillery modernisation, capability development](https://timesofindia.indiatimes.com/defence/news/army-chiefs-military-talks-in-russia-focus-on-artillery-modernisation-capability-development/articleshow/134360116.cms)
-- [Psychology says feeling uneasy when someone is too kind doesn’t mean you’re ungrateful](https://timesofindia.indiatimes.com/life-style/relationships/psychology-says-people-who-feel-uncomfortable-when-someone-is-too-kind-to-them-arent-ungrateful-what-makes-receiving-affection-difficult/articleshow/134332419.cms)
-- ['I knew this was the end of my career': Doval recalls when China captured his agents](https://timesofindia.indiatimes.com/india/i-knew-this-was-the-end-of-my-career-ajit-doval-recalls-when-his-agents-were-captured-by-china/articleshow/134356490.cms)
-- [Mamata's TMC rollercoaster: 3 days, 3 setbacks, then a breather](https://timesofindia.indiatimes.com/india/mamatas-72-hour-rollercoaster-symbol-tmc-name-candidates-exit-then-a-breather-on-day-3/articleshow/134353274.cms)
 
 **NDTV**
 - [After Slowdown Calls, Trump Says He Will Set Up 'AI Force', Name 'AI Czar'](https://www.ndtv.com/world-news/after-slowdown-calls-trump-says-he-will-set-up-ai-force-name-ai-czar-12070075#publisher=newsstand)
@@ -105,6 +105,7 @@
 - DUSU (3.9)
 - Trump-Xi (2.6)
 - AI Force' (2.0)
+- CJI Surya Kant (2.0)
 - Rahul Gandhi (2.0)
 - Calls (1.9)
 - What (1.9)
@@ -112,23 +113,22 @@
 - Vijay (1.6)
 - India (1.6)
 - ABVP's (1.6)
-- Tulu (1.3)
-- BJP's (1.3)
-- Iran (1.3)
+- Mother (1.3)
+- IIT-Bombay (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [அம்பேத்கர் அயலக கல்வி உதவித்தொகை: மலேசியாவில் படிக்கும் மாணவர் பாரதிதாசனுக்கு நிதி விடுவிப்பு!](https://www.vikatan.com/government-and-politics/tamil-nadu-releases-second-year-scholarship-for-student)
-- [Devendra Fadnavis on Drought: दुष्काळाच्या बैठकीत नेत्यांसाठी काजू-बदामांची मेजवानी, देवेंद्र फडणवीस अधिकाऱ्यांना म्हणाले...](https://marathi.abplive.com/news/politics/devendra-fadnavis-on-drought-in-maharashtra-farmers-says-government-officials-give-cashews-and-almond-in-drought-meeting-marathi-news-1439590)
-- [खाने के पैकेट पर लिखे 14 नंबर पढ़ना सीखिए, FSSAI का है ये राज](https://www.aajtak.in/trending/story/fssai-14-digit-number-on-food-packets-license-registration-meaning-tstf-dskc-2647074-2026-09-19)
-- [জুবিন গর্গের প্রথম মৃত্যুবার্ষিকীতে সোনাপুরে ভক্তদের ভিড়, উঠল ন্যায়বিচারের দাবি](https://jagarantripura.com/2026/09/19/zubeen-gargs-first-death-anniversary-fans-gather-in-sonapur-renew-call-for-justice/)
-- ['He's paying him back': Trump defends Russian oligarch funding his son's Bahamas wedding](https://timesofindia.indiatimes.com/world/us/hes-paying-him-back-trump-defends-russian-oligarch-funding-his-sons-bahamas-wedding/articleshow/134350782.cms)
-- [“மாணவர் பாரதிதாசன் விவகாரத்தில் திமுக அரசியல் செய்கிறது” - அமைச்சர் வன்னி அரசு](https://www.hindutamil.in/news/tamilnadu/dmk-betrayed-dalit-students-minister-vanni-arasu-lashes-out)
-- [‘Returning the bottle’: BJP’s Ravneet Bittu detained after protest near Mann’s convoy](https://timesofindia.indiatimes.com/india/ravneet-bittu-detained-after-throwing-eggs-tomatoes-at-punjab-cm-manns-convoy/articleshow/134350865.cms)
-- [Raaka: 'రాకా’పై శిబి చక్రవర్తి సంచలన వ్యాఖ్యలు..](https://www.chitrajyothy.com/2026/tollywood/cibi-chakravarthys-sensational-comments-on-raaka-visuals-avm-75513.html)
-- [2026 ਦੀ ‘ਦੁਨੀਆ ਦੀ ਸਭ ਤੋਂ ਵਧੀਆ ਏਅਰਲਾਈਨ’ ਦਾ ਐਲਾਨ, Air NZ ਟਾਪ-20 ਵਿੱਚ ਵੀ ਨਹੀਂ](https://nzpunjabinews.com/new-zealand-1700/)
-- [Nandigram Abu Taher: 'সব নকল লোক পাশে বসিয়ে রাজনীতি করেছেন, চোখ নয় কান দিয়ে দেখতেন', ফের সরব নন্দীগ্রামের আবু তাহের](https://bengali.abplive.com/district/nandigram-by-poll-sanchita-pradhan-dey-withdrawn-nomination-abu-taher-slams-mamata-banerjee-1193410)
+- [The Paradise: తల్లి-కొడుకు కథగా ‘ది ప్యారడైజ్’.. సమ్మక్క పాత్రపై పెరుగుతున్న సస్పెన్స్!](https://www.v6velugu.com/who-is-sammakka-in-the-paradise-nani-comments-spark-massive-curiosity)
+- [Tirumala | తిరుమ‌ల‌ ల‌డ్డూలో క‌ల్తీ నెయ్యి కేసు.. కీల‌క నిందితుడిని అరెస్ట్ చేసిన ఈడీ](https://www.ntnews.com/national/tirumala-tirupati-devasthanams-ghee-adulteration-case-ed-arrests-company-promoter-on-money-laundering-charges-2514562)
+- [यमन जंग का नया मोड़! सऊदी पर हूती हमलों ने भारत समेत दुनिया की बढ़ा दी चिंता, UNSC ने जारी किया कड़ा संदेश](https://www.aajtak.in/world/story/saudi-arabia-aerial-threat-alert-riyadh-explosion-houthi-attacks-unsc-iran-spy-execution-mosad-red-sea-india-concern-ntc-agkp-dskc-2647142-2026-09-19)
+- [అమ్మాయితో ట్రిప్‌.. భార్యను మభ్యపెట్టేందుకు ఇమిగ్రేషన్‌ నాటకం](https://www.eenadu.net/telugu-news/india/pune-businessman-fakes-immigration-issue-to-hide-trip-with-woman-from-wife/0701/126169416)
+- [జలపాతంలోకి దూసుకెళ్లిన కారు.. ఎనిమిది మంది మృతి](https://www.eenadu.net/telugu-news/districts/odisha-news/703/126169423)
+- [DUSU Election 2026 Result: डूसू चुनाव में अध्यक्ष समेत 3 पदों पर ABVP की जीत, उपाध्यक्ष बने दीपांशु शौकीन](https://www.livehindustan.com/ncr/dusu-election-2026-result-live-abvp-vs-nsui-yash-dabas-vijay-shankar-meena-201789784746151.html)
+- [വൈദ്യുതി പ്രതിസന്ധി: സംസ്ഥാന സർക്കാരിനെ വിമർശിക്കാനില്ലെന്ന് സുരേഷ് ഗോപി Suresh gopi on kerala power crisis](https://www.asianetnews.com/kerala-news/suresh-gopi-says-he-does-not-wish-to-criticize-the-state-government-over-the-power-crisis-articleshow-q3g65y1)
+- [ગુજરાતમાં હવે ત્રણ દિવસ સુધી કયા જિલ્લામાં વરસાદ પડશે?](https://www.bbc.com/gujarati/articles/ck05rv7qmpgeo)
+- [‘चीनी सेना ने मेरे लोगों को पकड़ लिया, करियर खत्म था…’ अजीत डोभाल ने सुनाया खौफनाक किस्सा](https://www.livehindustan.com/national/ajit-doval-china-custody-intelligence-mission-iit-roorkee-convocation-story-201789807869504.html)
+- [UAE खोज रहे स्ट्रेट ऑफ होर्मुज का विकल्प, भारतीय कंपनी EIL को मिल सकता है बड़ा प्रोजेक्ट](https://www.jagran.com/business/biz-eil-eyes-big-oil-gas-projects-in-saudi-uae-for-hormuz-alternative-40378239.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
