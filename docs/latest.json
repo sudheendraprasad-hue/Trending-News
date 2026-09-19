@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-09-19 22:01:49",
+  "generated_at": "2026-09-19 22:32:49",
   "google_trends": [
+    {
+      "title": "ufc",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "raphinha",
       "traffic": null,
@@ -45,26 +50,21 @@
       "title": "rohit sharma",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "epl table",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
     }
   ],
   "outlets": {
     "Times of India": [
       {
-        "title": "'My son was killed, tortured': Mother of IIT-Bombay student seeks justice after his death",
-        "link": "https://timesofindia.indiatimes.com/city/mumbai/my-son-was-killed-tortured-mother-of-iit-bombay-student-seeks-justice-after-his-death/articleshow/134352865.cms"
+        "title": "Trump extends $100K H-1B visa fee until Sept 2027 but court stay remains: White House cites plunge in filings by IT cos",
+        "link": "https://timesofindia.indiatimes.com/world/us/trump-extends-100k-h-1b-visa-fee-until-sept-2027-but-court-stay-remains-white-house-cites-plunge-in-filings-by-it-cos/articleshow/134350381.cms"
       },
       {
-        "title": "Iran gives US 3 conditions to restart talks, says \u2018threats won't achieve results\u2019",
+        "title": "As monsoon withdrawal begins, season may end with 10% deficit",
+        "link": "https://timesofindia.indiatimes.com/india/as-monsoon-withdrawal-begins-season-may-end-with-10-deficit/articleshow/134360430.cms"
+      },
+      {
+        "title": "Iran gives US 7 conditions to restart talks, says \u2018threats won't achieve results\u2019",
         "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms"
-      },
-      {
-        "title": "PM Modi pushes back on West\u2019s narrative over emissions",
-        "link": "https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms"
       },
       {
         "title": "Father-son duo makes history: Shigenobu and Koji light cauldron in Nagoya",
@@ -79,6 +79,10 @@
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms"
       },
       {
+        "title": "PM Modi pushes back on West\u2019s narrative over emissions",
+        "link": "https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms"
+      },
+      {
         "title": "She paid Rs 79l for Rs 2.14cr villa, but it stayed unfinished; RERA orders refund",
         "link": "https://timesofindia.indiatimes.com/business/india-business/woman-paid-rs-79-lakh-for-a-rs-2-14-crore-villa-but-construction-remained-unfinished-telangana-rera-orders-full-refund-with-10-7-interest-and-fines-builder-rs-1-03-crore/articleshow/134326814.cms"
       },
@@ -89,10 +93,6 @@
       {
         "title": "A Tulu promise: Why DKS is trying a different language in BJP's coastal bastion",
         "link": "https://timesofindia.indiatimes.com/india/bjp-promise-in-its-coastal-bastion-why-dk-shivakumar-put-tulu-at-centre-in-mangaluru/articleshow/134353768.cms"
-      },
-      {
-        "title": "SC 'banyan tree' of environmental justice: CJI Surya Kant",
-        "link": "https://timesofindia.indiatimes.com/india/sc-banyan-tree-of-environmental-justice-cji-surya-kant/articleshow/134360298.cms"
       }
     ],
     "NDTV": [
@@ -355,12 +355,12 @@
       "score": 5.2
     },
     {
-      "term": "DUSU",
-      "score": 3.9
+      "term": "Trump",
+      "score": 4.8
     },
     {
-      "term": "Trump",
-      "score": 3.5
+      "term": "DUSU",
+      "score": 3.9
     },
     {
       "term": "What",
@@ -376,10 +376,6 @@
     },
     {
       "term": "AI Force'",
-      "score": 2
-    },
-    {
-      "term": "CJI Surya Kant",
       "score": 2
     },
     {
@@ -407,51 +403,55 @@
       "score": 1.6
     },
     {
-      "term": "Mother",
+      "term": "Sept",
+      "score": 1.3
+    },
+    {
+      "term": "Iran",
       "score": 1.3
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u0bae\u0ba4\u0bc1\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0b95\u0bae\u0bcd, \u0ba4\u0bbe\u0bb0\u0bbe\u0baa\u0bc1\u0bb0\u0bae\u0bcd \u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf \u0b87\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd - \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1 \u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bcd",
-      "link": "https://www.etvbharat.com/ta/state/madurantakam-dharapuram-bypoll-2026-election-commission-releases-final-list-of-candidates-tns26091903361"
+      "title": "Russia should respond to US sanctions with 'military deterrence': Dmitry Medvedev",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/russia-should-respond-to-us-sanctions-with-military-deterrence-dmitry-medvedev/articleshow/134352135.cms"
     },
     {
-      "title": "BJP\u2019s Ravneet Bittu detained after waving liquor bottle, eggs at CM\u2019s convoy in Ludhiana",
-      "link": "https://www.hindustantimes.com/cities/chandigarh-news/bjps-bittu-detained-after-waving-liquor-bottle-eggs-at-cm-s-convoy-in-ludhiana-101789811881043.html"
+      "title": "\u2018\u0d0e\u0d28\u0d4d\u0d24\u0d3e\u0d23\u0d4d \u0d0e\u0d28\u0d4d\u0d31\u0d46 \u0d15\u0d41\u0d31\u0d35\u0d4d ?, \u0d1e\u0d3e\u0d7b \u0d2e\u0d4b\u0d36\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d28\u0d3e\u0d2f\u0d3f \u0d2e\u0d3e\u0d31\u0d3f\u0d2f\u0d3f\u0d32\u0d4d\u0d32\u0d47, \u0d15\u0d1f\u0d41\u0d24\u0d4d\u0d24 \u0d35\u0d47\u0d26\u0d28\u2019; \u0d2a\u0d4d\u0d30\u0d24\u0d3e\u0d2a\u0d28\u0d4d\u0d31\u0d46 \u0d35\u0d3e\u0d15\u0d4d\u0d15\u0d41\u0d15\u0d7e \u0d39\u0d43\u0d26\u0d2f\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d24\u0d4b\u0d2e\u0d38\u0d4d \u0d09\u0d23\u0d4d\u0d23\u0d3f\u0d2f\u0d3e\u0d1f\u0d7b",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/19/thomas-unniyadan-speaks-out-against-kerala-congress-neglect.html"
     },
     {
-      "title": "\u0915\u0947\u0930\u0932 \u0915\u0940 \u0928\u0947\u0935\u0947\u0932 \u0905\u0915\u093e\u0926\u092e\u0940 \u0938\u0947 \u092a\u0915\u0921\u093c\u093e \u0917\u092f\u093e \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936\u0940, \u092b\u0930\u094d\u091c\u0940 \u0906\u0908\u0921\u0940 \u092a\u0930 \u0915\u0930 \u0930\u0939\u093e \u0925\u093e \u0915\u093e\u092e",
-      "link": "https://www.jagran.com/news/national-bangladeshi-man-biplob-soren-arrested-at-ezhimala-naval-academy-kerala-with-fake-indian-id-40378243.html"
+      "title": "Malaysia | \u0c2d\u0c3e\u0c30\u0c4d\u0c2f\u200c\u0c15\u0c41 \u0c24\u0c46\u0c32\u0c3f\u0c2f\u200c\u0c15\u0c41\u0c02\u0c21\u0c3e \u0c2a\u0c4d\u0c30\u0c3f\u0c2f\u0c41\u0c30\u0c3e\u0c32\u0c3f\u0c24\u0c4b \u0c2e\u200c\u0c32\u0c47\u0c38\u0c3f\u0c2f\u0c3e \u0c1f\u0c4d\u0c30\u0c3f\u0c2a\u0c4d \u0c2a\u0c4d\u0c32\u0c3e\u0c28\u0c4d.. \u0c05\u0c21\u0c4d\u0c21\u0c02\u0c17\u0c3e \u0c26\u0c4a\u0c30\u0c3f\u0c15\u0c3f\u0c2a\u0c4b\u0c2f\u0c3f\u0c28 \u0c2d\u200c\u0c30\u0c4d\u0c24\u200c",
+      "link": "https://www.ntnews.com/national/man-hides-malaysia-trip-with-woman-friend-from-wife-passport-error-gives-him-away-2514621"
     },
     {
-      "title": "Katrina Kaif: \u0995\u09c7\u09a8 \u098f\u09ae\u09a8 \u099a\u09c7\u09b9\u09be\u09b0\u09be \u0995\u09cd\u09af\u09be\u099f\u09b0\u09bf\u09a8\u09be\u09b0? \u09ae\u09be \u09b9\u0993\u09df\u09be\u09b0 \u09aa\u09b0 \u0995\u09c0 \u0998\u099f\u09c7\u099b\u09c7, \u09a4\u09be \u09b8\u09be\u09ae\u09a8\u09c7 \u09a8\u09bf\u09df\u09c7 \u0986\u09b8\u09b2\u09c7\u09a8 \u09a8\u09bf\u099c\u09c7\u0987",
-      "link": "https://tv9bangla.com/entertainment/katrina-kaif-breaks-silence-post-motherhood-body-shaming-response-1347425.html"
+      "title": "'\u092d\u093e\u0930\u0924 \u0915\u094b \u0915\u092e\u094d\u092f\u0941\u0928\u093f\u091c\u094d\u092e \u0938\u0947 \u0928\u0939\u0940\u0902, \u0939\u093f\u0902\u0926\u0942 \u0926\u0915\u094d\u0937\u093f\u0923\u092a\u0902\u0925\u0940 \u0938\u093e\u0902\u092a\u094d\u0930\u0926\u093e\u092f\u093f\u0915\u0924\u093e \u0938\u0947 \u0916\u0924\u0930\u093e...', \u0939\u093e\u092e\u093f\u0926 \u0905\u0902\u0938\u093e\u0930\u0940 \u0928\u0947 \u0915\u093f\u092f\u093e \u0928\u0947\u0939\u0930\u0942 \u0915\u0947 \u092a\u0941\u0930\u093e\u0928\u0947 \u092c\u092f\u093e\u0928 \u0915\u093e \u091c\u093f\u0915\u094d\u0930",
+      "link": "https://www.aajtak.in/india/news/story/hamid-ansari-recalls-nehru-old-statement-on-hindu-right-wing-communalism-ntc-dhrj-dskc-2647202-2026-09-19"
     },
     {
-      "title": "DUSU Result: \u092f\u0936 \u0921\u092c\u093e\u0938 \u092c\u0928\u0947 \u0921\u0942\u0938\u0942 \u0915\u0947 \u0928\u092f\u0947 \u0905\u0927\u094d\u092f\u0915\u094d\u0937, \u0926\u0940\u092a\u093e\u0902\u0936\u0941 \u0909\u092a\u093e\u0927\u094d\u092f\u0915\u094d\u0937, ABVP \u0915\u094b 3 \u092a\u0926, NSUI \u0915\u0940 \u0939\u093e\u0930",
-      "link": "https://www.aajtak.in/education/news/story/dusu-election-result-2026-live-updates-delhi-university-students-union-chunav-nsui-abvp-ntc-apdy-2646589-2026-09-19"
+      "title": "Raj Thackeray: \u0930\u093e\u091c \u0920\u093e\u0915\u0930\u0947\u0902\u0915\u0921\u0942\u0928 UPI \u0936\u0941\u0932\u094d\u0915\u093e\u0935\u0930\u0941\u0928 \u0938\u0930\u0915\u093e\u0930\u091a\u094d\u092f\u093e \u092c\u0926\u0932\u0947\u0932\u094d\u092f\u093e \u092d\u0942\u092e\u093f\u0915\u0947\u091a\u0940 \u091a\u093f\u0930\u092b\u093e\u0921, \u0921\u093f\u091c\u093f\u091f\u0932 \u0938\u093e\u092a\u0933\u094d\u092f\u093e\u091a\u093e \u0909\u0932\u094d\u0932\u0947\u0916 \u0915\u0930\u0924 \u092e\u094d\u0939\u0923\u093e\u0932\u0947...",
+      "link": "https://marathi.abplive.com/news/politics/raj-thackeray-share-social-media-post-on-narendra-modi-government-upi-mdr-recall-old-stand-of-govt-marathi-news-1439597"
     },
     {
-      "title": "\u2018Will take body to campus, won\u2019t leave\u2019: Father demands arrests in IIT-Bombay student suicide",
-      "link": "https://timesofindia.indiatimes.com/city/mumbai/will-take-body-to-campus-wont-leave-father-demands-arrests-in-iit-bombay-student-suicide/articleshow/134351514.cms"
+      "title": "\u0926\u0941\u0928\u093f\u092f\u093e\u092d\u0930 \u092e\u0947\u0902 '\u0928\u0940\u092e \u0915\u0930\u094b\u0932\u0940 \u092c\u093e\u092c\u093e' \u0915\u0947 \u0928\u093e\u092e \u0915\u0940 \u0917\u0942\u0902\u091c, '\u0939\u0928\u0941\u092e\u093e\u0928 \u0905\u0902\u0936' \u0915\u0940 \u091f\u0940\u092e \u0938\u0947 \u092e\u093f\u0932\u0947 CM \u0926\u0947\u0935\u0947\u0902\u0926\u094d\u0930 \u092b\u0921\u0923\u0935\u0940\u0938, \u0918\u0930 \u092a\u0930 \u0915\u093f\u092f\u093e \u0938\u094d\u0935\u093e\u0917\u0924",
+      "link": "https://www.aajtak.in/entertainment/bollywood-news/story/neem-karoli-baba-hanuman-ansh-box-office-300-crore-cm-devendra-fadnavis-congratulates-success-tmovb-dskc-2647192-2026-09-19"
     },
     {
-      "title": "\u099c\u09c1\u09ac\u09bf\u09a8 \u09a6\u09bf\u09ac\u09b8: \u09ad\u0995\u09cd\u09a4\u09a6\u09c7\u09b0 \u09a2\u09b2",
-      "link": "https://www.aaroananda.com/story/latest-news/breaking-news/zubin-garg-first-death-anniversary-assam-pays-tribute/11020384"
+      "title": "\u0938\u0930\u0915\u093e\u0930\u0940 \u0938\u094d\u0915\u0942\u0932 \u0915\u0947 \u092c\u091a\u094d\u091a\u094b\u0902 \u0915\u094b \u0932\u0902\u091a \u092e\u0947\u0902 \u092e\u093f\u0932\u0947\u0917\u0940 \u091a\u093f\u0915\u0928 \u092c\u093f\u0930\u092f\u093e\u0928\u0940, \u0925\u0932\u092a\u0924\u093f \u0935\u093f\u091c\u092f \u0938\u0930\u0915\u093e\u0930 \u0915\u0940 \u0924\u0948\u092f\u093e\u0930\u0940",
+      "link": "https://www.livehindustan.com/national/thalapathy-vijay-tamil-nadu-government-plann-chicken-biryani-to-government-school-children-201789811886895.html"
     },
     {
-      "title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9f\u0bbf\u0bb0\u0bae\u0bcd\u0baa\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 100% \u0b9a\u0bc1\u0b99\u0bcd\u0b95\u0bb5\u0bb0\u0bbf \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd| \u0bb0\u0bb7\u0bcd\u0baf\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 '\u0b9a\u0bc6\u0b95\u0bcd' \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0baf\u0bc6\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1!",
-      "link": "https://www.etvbharat.com/ta/international/trump-signs-russia-iran-sanctions-law-opens-door-to-100-percent-tariffs-on-india-and-china-tns26091903271"
+      "title": "Vijay Sethupathi says this about CM Vijay after claims of shading him on Bigg Boss Tamil 10; calls Jason Sanjay \u2018cute\u2019",
+      "link": "https://www.hindustantimes.com/entertainment/tamil-cinema/vijay-sethupathi-says-this-about-cm-vijay-after-claims-of-shading-him-on-bigg-boss-tamil-10-calls-jason-sanjay-cute-101789809410246.html"
     },
     {
-      "title": "Asian Games Mess: \u0c1c\u0c2a\u0c3e\u0c28\u0c4d \u0c2c\u0c2f\u0c32\u0c4d\u0c26\u0c47\u0c30\u0c47 \u0c2e\u0c41\u0c02\u0c26\u0c41 \u0c15\u0c4d\u0c30\u0c3f\u0c15\u0c46\u0c1f\u0c30\u0c4d\u0c32\u0c15\u0c41 \u0c1c\u0c46\u0c30\u0c4d\u0c38\u0c40 \u0c15\u0c37\u0c4d\u0c1f\u0c3e\u0c32\u0c41.. \u0c38\u0c30\u0c3f\u0c2a\u0c4b\u0c28\u0c3f \u0c15\u0c3f\u0c1f\u0c4d\u0c38\u0c4d, \u0c07\u0c30\u0c41\u0c15\u0c48\u0c28 \u0c17\u0c26\u0c41\u0c32\u0c24\u0c4b \u0c07\u0c2c\u0c4d\u0c2c\u0c02\u0c26\u0c41\u0c32\u0c41.. \u0c30\u0c02\u0c17\u0c02\u0c32\u0c4b\u0c15\u0c3f \u0c2c\u0c40\u0c38\u0c40\u0c38\u0c40\u0c10",
-      "link": "https://telugu.abplive.com/sports/cricket/indian-cricket-team-faces-kit-sizing-and-accommodation-issues-259366"
+      "title": "Measles: Death toll reaches 1,053 as 5 more children die in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1053-5-more-children-die-24-hours-1547226"
     },
     {
-      "title": "\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0aae\u0abe\u0a82\u0aa5\u0ac0 \u0a9a\u0acb\u0aae\u0abe\u0ab8\u0ac1\u0a82 \u0a95\u0acd\u0aaf\u0abe\u0ab0\u0ac7 \u0ab5\u0abf\u0aa6\u0abe\u0aaf \u0ab2\u0ac7 \u0a85\u0aa8\u0ac7 \u0aa4\u0ac7 \u0a95\u0ac7\u0ab5\u0ac0 \u0ab0\u0ac0\u0aa4\u0ac7 \u0aa8\u0a95\u0acd\u0a95\u0ac0 \u0aa5\u0abe\u0aaf?",
-      "link": "https://www.bbc.com/gujarati/watch/cknvl8m8l6gpo"
+      "title": "\u0ab6\u0abe\u0ab9\u0aa8\u0abe\u0a82 \u0aaa\u0ac2\u0aa4\u0ab3\u0abe\u0a82 \u0aac\u0abe\u0ab3\u0aa8\u0abe\u0ab0 21 \u0a96\u0ac7\u0aa1\u0ac2\u0aa4\u0acb \u0ab8\u0abe\u0aae\u0ac7 FIR, \u0a96\u0ac7\u0aa1\u0ac2\u0aa4\u0acb\u0a8f \u0ab6\u0ac1\u0a82 \u0a95\u0ab9\u0acd\u0aaf\u0ac1\u0a82?",
+      "link": "https://www.bbc.com/gujarati/articles/cx7v4q76n9pqo"
     }
   ],
   "twitter": null
