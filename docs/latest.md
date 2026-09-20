@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-20 01:01:57
+# India Trending Report — 2026-09-20 01:33:48
 
 ## Google Trends (India) — top trending searches
 1. [ufc](https://trends.google.com/trending/rss?geo=IN)
@@ -17,13 +17,13 @@
 - ['Negotiate or face decisive war': Iran sets 7 conditions to restart talks with US](https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms)
 - [As monsoon withdrawal begins, season may end with 10% deficit](https://timesofindia.indiatimes.com/india/as-monsoon-withdrawal-begins-season-may-end-with-10-deficit/articleshow/134360430.cms)
 - [Ambulance stuck in mud, pregnant woman taken to hospital on bullock cart](https://timesofindia.indiatimes.com/city/indore/ambulance-stuck-in-mud-pregnant-woman-taken-to-hospital-on-bullock-cart/articleshow/134359932.cms)
-- [In a first, abetment FIR filed against IIT-Bombay professor in 2nd-year student’s death](https://timesofindia.indiatimes.com/city/mumbai/in-a-first-abetment-fir-filed-against-iit-bombay-professor-in-second-year-students-death/articleshow/134359955.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
+- [In a first, abetment FIR filed against IIT-Bombay professor in 2nd-year student’s death](https://timesofindia.indiatimes.com/city/mumbai/in-a-first-abetment-fir-filed-against-iit-bombay-professor-in-second-year-students-death/articleshow/134359955.cms)
 - [PM Modi pushes back on West’s narrative over emissions](https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms)
 - [US military says it struck suspected drug-trafficking vessel, 4 killed](https://timesofindia.indiatimes.com/weather/us/us-military-says-it-struck-suspected-drug-trafficking-vessel-4-killed/articleshow/134362508.cms)
 - [ASI Harjit Singh murdered: Key suspect shot dead in police encounter in Amritsar](https://timesofindia.indiatimes.com/city/chandigarh/asi-killing-key-suspect-shot-dead-in-police-encounter-in-amritsar/articleshow/134359728.cms)
-- ['Only high IQ individuals need apply': Trump announces 'AI Force'](https://timesofindia.indiatimes.com/world/us/only-high-iq-individuals-need-apply-trump-announces-ai-force/articleshow/134358415.cms)
-- [Ken Griffey Jr.'s $2.5M Orlando estate now listed for $27m](https://timesofindia.indiatimes.com/world/us/in-2004-ken-griffey-jr-paid-2-575-million-for-11-58-lakefront-acres-near-orlando-four-years-later-he-completed-a-22108-sq-ft-custom-mansion-and-the-estate-is-now-listed-for-27-million/articleshow/134343702.cms)
+- [Saudi Arabia claims Houthis tried to attack its capital Riyadh with missiles](https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-claims-houthis-tried-to-attack-its-capital-riyadh-with-missiles/articleshow/134362350.cms)
+- [Murdoch's Aspen mansion lists for $29.85M after $3m buy in 1980s](https://timesofindia.indiatimes.com/real-estate/news/rupert-murdoch-bought-his-aspen-retreat-for-3-million-in-the-1980s-and-listed-it-for-5-million-in-1995-now-after-a-major-renovation-the-12172-square-foot-mansion-is-back-on-the-market-for-29-85-million/articleshow/134360222.cms)
 
 **NDTV**
 - [After Slowdown Calls, Trump Says He Will Set Up 'AI Force', Name 'AI Czar'](https://www.ndtv.com/world-news/after-slowdown-calls-trump-says-he-will-set-up-ai-force-name-ai-czar-12070075#publisher=newsstand)
@@ -50,16 +50,16 @@
 - [MP petrol pump dealers to stop accepting UPI payments above  ₹2,000 from October 15](https://www.hindustantimes.com/india-news/mp-petrol-pump-dealers-to-stop-accepting-upi-payments-above-rs-2-000-from-october-15-101789824516576.html)
 
 **Vijay Karnataka**
+- [ಮಂಗಳೂರು ಐಟಿ ಕ್ಷೇತ್ರ ಸೈಲೆಂಟ್‌, ನಿಗಮಗಳಿಗೆ ಹಣವಿಲ್ಲ! ಜೆನ್‌ಜೀಗಳ ನಿರೀಕ್ಷೆ ಹುಸಿ, ಬೇಡಿಕೆ ಪಟ್ಟಿಯಲ್ಲಿ ಬಾಕಿಯಾದ ಯೋಜನೆಗಳು](https://vijaykarnataka.com/news/mangaluru/mangalurus-it-sector-remains-quiet-corporations-lack-funds-gen-zs-expectations-dashed-projects-remain-pending-outcome-of-cabinet-meeting/articleshow/134362582.cms)
 - [ಗ್ರೇಟರ್ ಬೆಂಗಳೂರು ಪ್ರಾಧಿಕಾರದಿಂದ ನಗರ ವಾಸಿಗಳಿಗೆ ಸಾಫ್ಟ್‌ವೇರ್‌ ಶುಲ್ಕದ ಬರೆ!: ಯಾವುದಕ್ಕೆ ಎಷ್ಟು? ವಿರೋಧ ಯಾಕೆ?](https://vijaykarnataka.com/news/bengaluru-city/greater-bengaluru-authority-imposes-software-fee-burden-on-city-residents-/articleshow/134356459.cms)
 - [ನೈಸ್ ಟೋಲ್ ಅಕ್ರಮ ಆರೋಪ: 7 ದಿನದಲ್ಲಿ ಸ್ಫೋಟಕ ಸತ್ಯ ಬಹಿರಂಗ, ನಿಖಿಲ್ ಕುಮಾರಸ್ವಾಮಿ ಸುಳಿವು](https://vijaykarnataka.com/news/karnataka/nice-road-controversy-nikhil-kumaraswamy-slams-congress/articleshow/134351481.cms)
-- [ಬಿಟ್ಟಿ ಪ್ರಚಾರದ ಸ್ಟಂಟ್ ಗೆ ಊರಿಗೊಂದು ಕ್ಯಾಬಿನೆಟ್‌ ಸಭೆ ಬೇಕಾ? ವಿಧಾನಸಭೆ ಟೂರಿಂಗ್ ಟಾಕಿಸಾ?: ಎಚ್ ಡಿ ಕುಮಾರಸ್ವಾಮಿ ಲೇವಡಿ](https://vijaykarnataka.com/news/karnataka/hd-kumaraswamy-mocks-mangaluru-cabinet-meeting-as-touring-talkies/articleshow/134357597.cms)
 - [ಪಟೋಲಾ ಕುರ್ತಾದಲ್ಲಿ ಮಿಂಚಿದ ದೀಪಿಕಾ ಪಡುಕೋಣೆ; ಸಿದ್ಧಿವಿನಾಯಕ ದರ್ಶನಕ್ಕೆ ಬಂದ ನಟಿಯ ಲುಕ್ ವೈರಲ್!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-siddhivinayak-temple-patola-kurta-look/articleshow/134352111.cms)
 - [ದಿಲ್ಲಿ ಮತದಾರರ ಪಟ್ಟಿಯಲ್ಲಿ ಅರವಿಂದ್ ಕೇಜ್ರಿವಾಲ್ ಹೆಸರೇ ಇಲ್ಲ ಎಂದು ಆಪ್ ಆರೋಪ! ಚುನಾವಣಾ ಆಯೋಗ ಸ್ಪಷ್ಟನೆಯೇನು?](https://vijaykarnataka.com/news/new-delhi/aap-alleges-arvind-kejriwals-name-is-missing-from-the-delhi-voters-list-and-election-commissions-clarification/articleshow/134357020.cms)
 - [BBK 13 ಮೊದಲ ಕಿಚ್ಚನ ಚಪ್ಪಾಳೆ ಕೊಟ್ಟಿದ್ದು ಯಾರಿಗೆ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-show-2nd-week-first-kichchana-chappale-gives-to-karnataka-people-in-the-varada-kathe-kichchana-jothe/articleshow/134359755.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [ಚಾಣಕ್ಯ ನೀತಿ: ಈ 3 ಜನರೊಂದಿಗೆ ಶತ್ರುತ್ವ ಹೊಂದದಿರಲು ಕಾರಣ.!](https://vijaykarnataka.com/religion/hinduism/chanakya-niti-says-do-not-make-enmity-with-these-3-kind-of-people/articleshow/134352052.cms)
 - [ಕತ್ರಿನಾ ಕೈಫ್ ದಪ್ಪ ಆಗಿದ್ದಾರೆಂದು ಟ್ರೋಲ್ ಹೆರಿಗೆ ಬಳಿಕ ದೇಹದಲ್ಲಿ ಆಗುವ ಸಾಮಾನ್ಯ ಬದಲಾವಣೆಗಳೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/katrina-kaif-postpartum-body-changes-women-after-pregnancy/articleshow/134348311.cms)
-- [`ಟೆಸ್ಟ್ ಪಂದ್ಯದ ಒತ್ತಡ, ನಿದ್ರೆಯಿಲ್ಲದ ರಾತ್ರಿ': ತಾಯಿ ಮಾಡಿಕೊಡುತ್ತಿದ್ದ ಬಾಳೆಕಾಯಿ ವೇಫರ್ಸ್ ತಿನ್ನುತ್ತಿದ್ದ ಹಿಟ್ ಮ್ಯಾನ್!](https://vijaykarnataka.com/sports/cricket/news/rohit-sharma-eat-mother-made-banana-wafers-on-sleepless-test-match-night-to-decrease-pressure/articleshow/134355857.cms)
+- [ಬಿಟ್ಟಿ ಪ್ರಚಾರದ ಸ್ಟಂಟ್ ಗೆ ಊರಿಗೊಂದು ಕ್ಯಾಬಿನೆಟ್‌ ಸಭೆ ಬೇಕಾ? ವಿಧಾನಸಭೆ ಟೂರಿಂಗ್ ಟಾಕಿಸಾ?: ಎಚ್ ಡಿ ಕುಮಾರಸ್ವಾಮಿ ಲೇವಡಿ](https://vijaykarnataka.com/news/karnataka/hd-kumaraswamy-mocks-mangaluru-cabinet-meeting-as-touring-talkies/articleshow/134357597.cms)
 
 **The Hindu**
 - [Union Home Minister Amit Shah falls ill in Hubballi, skips inauguration of college](https://www.thehindu.com/news/national/karnataka/union-home-minister-amitshah-falls-ill-inhubballi/article71483956.ece)
@@ -74,6 +74,8 @@
 - [TVK regime’s experiment of having two advisers to Vijay alongside Chief Secretary, giving mixed vibes to T.N.’s bureaucratic circles](https://www.thehindu.com/news/national/tamil-nadu/tvk-regimes-experiment-of-having-two-advisers-to-vijay-alongside-chief-secretary-giving-mixed-vibes-to-tns-bureaucratic-circles/article71485220.ece)
 
 **Livemint**
+- [The cows were their livelihood. The goats, their insurance. Then the flood came.](https://www.livemint.com/news/india/assam-floods-livestock-livelihoods-11789728094373.html)
+- [US-Iran war LIVE Updates: Iran sets seven terms for renewed US talks; Saudi forces foil Riyadh attack](https://www.livemint.com/news/us-news/usiran-war-live-updates-tehran-seven-terms-for-peace-talks-saudi-forces-houthis-riyadh-attack-strait-of-hormuz-oil-trum-11789866401038.html)
 - [‘Wait, what?’ Jimmy Fallon stunned as Houston reporter Lauren Kelly reveals her Beyoncé connection](https://www.livemint.com/news/trends/wait-what-jimmy-fallon-stunned-as-houston-reporter-lauren-kelly-reveals-her-beyonc-connection-11789854160743.html)
 - [Woman found dead inside suitcase brought to Kansas fire station, police launches homicide investigation](https://www.livemint.com/news/us-news/woman-found-dead-inside-suitcase-brought-to-kansas-fire-station-police-launches-homicide-investigation-11789852982464.html)
 - [Melania Trump to launch ‘IMPERIA’ during UNGA week: Why women CEOs are at the centre of it](https://www.livemint.com/news/us-news/melania-trump-to-launch-imperia-during-unga-week-why-women-ceos-are-at-the-centre-of-it-11789844321946.html)
@@ -82,10 +84,18 @@
 - [Houthis claim attacks on Saudi capital after flames, black smoke seen near Riyadh airport](https://www.livemint.com/news/world/houthis-claim-attacks-on-saudi-capital-after-flames-black-smoke-seen-near-riyadh-airport-11789843604832.html)
 - [Trump announces ‘AI Force’, plans to name AI czar: ‘We will not in any way hinder or stifle growth’](https://www.livemint.com/news/us-news/trump-announces-ai-force-plans-to-name-ai-czar-we-will-not-in-any-way-hinder-or-stifle-growth-11789842303172.html)
 - [LPG Aadhaar authentication mandatory from October 1: What domestic consumers need to know](https://www.livemint.com/news/india/lpg-aadhaar-authentication-mandatory-from-october-1-what-domestic-consumers-need-to-know-11789840277321.html)
-- [US-China talks: 7 key issues Scott Bessent and He Lifeng will tackle before Trump-Xi summit](https://www.livemint.com/news/us-news/uschina-talks-7-key-issues-scott-bessent-and-he-lifeng-will-tackle-before-trump-xi-summit-11789836234879.html)
-- [Who is Earl Spencer? What Diana’s brother claims King Charles said after her death](https://www.livemint.com/news/world/who-is-earl-spencer-what-diana-s-brother-claims-king-charles-said-after-her-death-11789831019104.html)
 
-**Moneycontrol** — _unavailable_
+**Moneycontrol**
+- [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
+- [Buy Tejas Networks; target of Rs 1100: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html)
+- [Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html)
+- [Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html)
+- [Reduce Wipro; target of Rs 410: ICICI Securities](https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html)
+- [Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html)
+- [Buy Patel Engineering; target of Rs 80: ICICI Direct](https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html)
+- [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
 - [ಮೈಸೂರು: ಪ್ರತಾಪ್ ಸಿಂಹ ವಿರುದ್ಧ FIR ದಾಖಲಿಸುವಂತೆ ಕಾಂಗ್ರೆಸ್ ದೂರು](https://www.varthabharati.in/mysore/mysuru-congress-demands-fir-against-prathap-simha-2276452)
@@ -100,35 +110,35 @@
 - [1965ರ ಭಾರತ–ಪಾಕ್ ಯುದ್ಧದ ವೀರ ಫ್ಲೈಟ್ ಲೆಫ್ಟಿನೆಂಟ್ ಎ.ಟಿ. ಕುಕ್ ನಿಧನ](https://www.varthabharati.in/National/flight-lieutenant-at-cooke-hero-of-the-1965-india-pakistan-war-passes-away-2276440)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Emkay Global Financial (5.0)
+- Riyadh (3.9)
 - October (3.9)
 - DUSU (3.9)
-- Trump (3.5)
-- What (3.2)
+- ICICI Securities (3.0)
+- target (3.0)
+- Saudi (2.9)
+- What (2.9)
+- Iran (2.6)
+- Houthis (2.6)
 - Explained (2.6)
-- Trump-Xi (2.6)
-- AI Force' (2.0)
+- Trump (2.2)
 - Rahul Gandhi (2.0)
+- Buy Bajaj Finance (2.0)
 - Calls (1.9)
-- India (1.9)
-- West (1.6)
-- Vijay (1.6)
-- ABVP's (1.6)
-- Negotiate (1.3)
-- Iran (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [എഐ ചതിച്ചാശാനേ! തെറ്റായ റിപ്പോർട്ട്; ചൈനീസ് കപ്പൽ ആക്രമിക്കാനൊരുങ്ങി യുഎസ്](https://www.manoramaonline.com/news/latest-news/2026/09/19/ai-misinformation-leads-us-military-to-target-china-ship.html)
-- [Donald Trump | కీల‌క బిల్లుపై అమెరికా అధ్య‌క్షుడి సంత‌కం.. భార‌త్, చైనాల‌పై సుంకాలకు ట్రంప్‌కు ఫుల్‌ ప‌వ‌ర్‌..!](https://www.ntnews.com/international/us-president-donald-trump-signs-russia-sanctions-bill-into-law-2514774)
-- [Tamil News Live: இன்றைய முக்கிய செய்திகள்](https://www.maalaimalar.com/news/tamilnadu/today-news-in-tamil-live-updates-19-september-2026)
-- [വിവാദ റേഞ്ച് റോവർ കാർ കല്യാണ ആവശ്യത്തിന് ഉടമയ്ക്ക് നൽകി മന്ത്രി ഷാജി, വീണ്ടും ഉപയോഗിക്കുമോ?](https://www.asianetnews.com/kerala-news/minister-k-m-shaji-returned-the-controversial-range-rover-car-to-its-owner-articleshow-xc3sagr)
-- [உருகுவே ஆயர்களின் 'அத் லிமினா' சந்திப்பு: மதச்சார்பின்மைக்கு மத்தியில் நற்செய்திப் பணியின் சவால்கள்](https://www.vaticannews.va/ta/church/news/2026-09/uruguayan-bishops-prepare-for-pope-leo-xiv-s-visit.html)
-- [CM விஜய்க்கு ஆதரவாக அட்லி அரசியல் பாடம்.. விக்கித்து பார்த்த VJS ..! பத்தா விழாவில் பற்றிய நெருப்பு](https://www.polimernews.com/cinemanews/atlees-political-lesson-in-support-of-cm-vijay-vjs-left-stunned-the-fire-that-ignited-at-the-patta-event-12552818)
-- [आदित्य ठाकरे-दिशा सालियन भेटीबाबत वरुण सरदेसाई काय म्हणाले?](https://www.loksatta.com/maharashtra/varun-sardesai-aditya-thackeray-disha-salian-sushant-singh-rajput-allegations-marathi-news-vsd-99-6145128/)
-- [ரியாத் விமான நிலையம் அருகே கரும்புகையுடன் தீப்பிழம்புகள்: ஹவுதி தாக்குதல் என பயணிகள் அச்சம்](https://www.dinamalar.com/news/world-tamil-news/flames-with-black-smoke-near-riyadh-airport-passengers-fear-houthi-attack/4326997)
-- [Nabanna Salary: পুজোর মাসে লক্ষ্মীলাভ সরকারি কর্মীদের! DA, বোনাসের সঙ্গে দু'বার বেতন অক্টোবরে](https://bangla.asianetnews.com/west-bengal/kolkata/nabanna-salary-update-state-govt-employees-may-get-da-bonus-double-salary-october-bsm/photoshow-88ked01)
-- [സംസ്ഥാനത്ത് ഇന്നും വൈദ്യുതി നിയന്ത്രണത്തിന് സാധ്യത; വൈകിട്ട് 6.15 മുതൽ രാത്രി 12.45 വരെ](https://www.southlive.in/possibility-of-power-restrictions-in-the-state-today-as-well-from-615-pm-to-1245-am/)
+- [Adhir Chowdhury : কংগ্রেসকে সমর্থনের ঘোষণা মমতার, অধীর বললেন, 'আমি বিশ্বাস করি...'](https://bengali.abplive.com/district/mamata-banerjee-announces-support-to-congress-in-nandigram-by-election-2026-adhir-chowdhury-responds-1193447)
+- [AI માનવતાનો અંત લાવશે તેવી સંભાવના બિલકુલ શૂન્ય: NVIDIAના સીઈઓ જેન્સન હુઆંગનું મોટું નિવેદન, ઝડપી વિકાસની કરી હિમાયત](https://www.gujaratsamachar.com/news/science-technology/there-is-absolutely-zero-chance-that-ai-will-end-humanity-nvidia-ceo-jensen-huangs-big-statement-advocates-rapid-development-59852047214)
+- [रियाद में धमाके की आवाज, सऊदी अरब में जारी हुआ 'हवाई खतरे' का अलर्ट](https://www.aajtak.in/world/story/saudi-arabia-aerial-threat-riyadh-explosion-un-security-council-ntc-amkr-dskc-2647388-2026-09-19)
+- [വൻ താരനിരയുമായി അമൽ നീരദ്; ബാച്ച്ലർ പാർട്ടി D’EUX’ ഫസ്റ്റ്ലുക്ക് പുറത്ത്, റിലീസ് നവംബർ 19ന്](https://www.asianetnews.com/entertainment-news/amal-neerad-film-bachelor-party-deux-first-look-poster-articleshow-h21fmqg)
+- [Dilip Ghosh: 'তৃণমূল এখন সর্বহারার দল! প্রার্থী লাগলে আমরা দিতে পারি,' মমতাকে বেনজির কটাক্ষ দিলীপের](https://bengali.indianexpress.com/west-bengal/dilip-ghosh-attacks-tmc-over-candidate-withdrawal-nandigram-rejinagar-bypolls-12552440)
+- [Deepika Padukone, Ranveer Singh welcome second baby girl after daughter Dua on the auspicious occasion of Radhashtami, congratulations pour in - PIC inside](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-ranveer-singh-welcome-second-baby-become-parents-to-a-baby-girl-announce-with-an-adorable-post-pic-inside/articleshow/134332302.cms)
+- [दीपिका पादुकोण-रणवीर सिंह के घर आई लक्ष्मी, दूसरी बार पेरेंट्स बना कपल](https://www.abplive.com/entertainment/bollywood/deepika-padukone-ranveer-singh-blessed-with-second-baby-girl-3191169)
+- [દિવાળી પહેલા જ ભારત પર ફૂટશે ટેરિફ બોમ્બ? નવા કાયદાના સેકશન 113માં છુપાયેલો છે અસલ ખેલ](https://www.gujaratsamachar.com/news/international/will-a-tariff-bomb-explode-on-india-before-diwali-the-real-game-is-hidden-in-section-113-of-the-new-law-85723990555)
+- [ममता बनर्जी की पार्टी से चुनाव लड़ने को लेकर हाँ ना करने वाले कौन हैं रबीउल आलम](https://www.bbc.com/hindi/articles/c68xk75e2e52o)
+- [Monsoon Heay Rain: 25 সেপ্টেম্বর পর্যন্ত কোন কোন জেলায় ভারী বৃষ্টি? ডেট ধরে লিস্ট](https://bangla.aajtak.in/west-bengal/south-bengal/story/monsoon-heavy-rain-forecast-districts-list-date-by-date-west-bengal-weather-update-till-25-september-sbm-1452810-2026-09-19)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
