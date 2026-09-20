@@ -1,8 +1,8 @@
-# India Trending Report — 2026-09-20 08:34:45
+# India Trending Report — 2026-09-20 09:01:59
 
 ## Google Trends (India) — top trending searches
-1. [gta vi](https://trends.google.com/trending/rss?geo=IN)
-2. [riyadh saudi arabia](https://trends.google.com/trending/rss?geo=IN)
+1. [fc bayern munich](https://trends.google.com/trending/rss?geo=IN)
+2. [gta vi](https://trends.google.com/trending/rss?geo=IN)
 3. [svengoolie](https://trends.google.com/trending/rss?geo=IN)
 4. [luke reynolds](https://trends.google.com/trending/rss?geo=IN)
 5. [trump tariffs](https://trends.google.com/trending/rss?geo=IN)
@@ -14,16 +14,16 @@
 
 ## Latest headlines by outlet
 **Times of India**
-- ['Party of comedians & jokers': PM Modi's mimicry at Rahul Gandhi's event draws BJP ire](https://timesofindia.indiatimes.com/india/party-of-comedians-jokers-pm-modi-mimicry-at-rahul-gandhi-event-draws-bjp-ire/articleshow/134363991.cms)
-- [CCTV shows BMW crashing through barrier, falling off Mumbai Coastal Road bridge; 3 dead](https://timesofindia.indiatimes.com/city/mumbai/cctv-shows-bmw-crashing-through-barrier-falling-off-mumbai-coastal-road-bridge-3-dead/articleshow/134364553.cms)
-- [Congress calls SIR 'Shah Instigated Removal', flags large-scale voter deletions](https://timesofindia.indiatimes.com/india/congress-calls-sir-shah-instigated-removal-flags-large-scale-voter-deletions/articleshow/134365043.cms)
+- [Neurosurgeon burnt alive after car slams into divider, bursts into flames in Telangana](https://timesofindia.indiatimes.com/city/hyderabad/neurosurgeon-charred-to-death-after-car-hits-divider-catches-fire-in-telangana/articleshow/134365504.cms)
 - [Shafali’s ton helps India crush Bangladesh, storm into Asian Games final](https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/shafali-vermas-century-and-indias-bowling-blitz-crush-bangladesh-as-defending-champions-storm-into-asian-games-final/articleshow/134365242.cms)
-- [OpenAI tells 25% of engineers: your projects are on hold, you are now defending](https://timesofindia.indiatimes.com/technology/tech-news/1-in-4-openai-engineers-taken-off-work-president-greg-brockman-told-them-all-your-projects-are-on-hold-you-are-now-/articleshow/134364904.cms)
+- [Friends thrash Thar driver, he rams SUV into their cab in Gurgaon](https://timesofindia.indiatimes.com/city/gurgaon/friends-thrash-thar-driver-he-rams-suv-into-their-cab-in-gurgaon/articleshow/134364999.cms)
+- [Congress calls SIR 'Shah Instigated Removal', flags large-scale voter deletions](https://timesofindia.indiatimes.com/india/congress-calls-sir-shah-instigated-removal-flags-large-scale-voter-deletions/articleshow/134365043.cms)
+- [Fake Insta account, ‘Operation Honeymoon’: How Siya Goyal plotted fiancé's murder](https://timesofindia.indiatimes.com/city/pune/fake-social-media-id-used-to-lure-ketan-to-lohagad-fort-for-third-time-on-june-18-police/articleshow/134360038.cms)
+- [Google's former CEO Eric Schmidt warns: Within 5 years, AI could …](https://timesofindia.indiatimes.com/technology/tech-news/googles-former-ceo-eric-schmidt-warns-within-5-years-ai-could-/articleshow/134365167.cms)
+- [Yudh Abhyas 2026: M777 howitzers roar as Indian, US forces showcase firepower in Rajasthan](https://timesofindia.indiatimes.com/defence/news/yudh-abhyas-2026-m777-howitzers-roar-as-indian-us-foces-showcase-firepower-in-rajasthan/articleshow/134364756.cms)
+- [CCTV shows BMW crashing through barrier, falling off Mumbai Coastal Road bridge; 3 dead](https://timesofindia.indiatimes.com/city/mumbai/cctv-shows-bmw-crashing-through-barrier-falling-off-mumbai-coastal-road-bridge-3-dead/articleshow/134364553.cms)
+- ['Party of comedians & jokers': PM Modi's mimicry at Rahul Gandhi's event draws BJP ire](https://timesofindia.indiatimes.com/india/party-of-comedians-jokers-pm-modi-mimicry-at-rahul-gandhi-event-draws-bjp-ire/articleshow/134363991.cms)
 - ['Torture, caste discrimination': IIT-Bombay student’s father seeks justice](https://timesofindia.indiatimes.com/city/mumbai/torture-caste-discrimination-iit-bombay-students-father-seeks-justice-action-against-accused/articleshow/134363988.cms)
-- [Asian Games: MMA's Varun Sanyal medically unfit after dizziness during weight cut](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-mmas-varun-sanyal-declared-medically-unfit-in-attempt-at-weight-cut-after-getting-dizzy-in-sauna/articleshow/134364790.cms)
-- [Delhi pollution crackdown: Hotspots to be mapped, road works get Oct 31 deadline](https://timesofindia.indiatimes.com/india/delhi-pollution-crackdown-hotspots-to-be-mapped-pending-road-works-get-oct-31-deadline/articleshow/134365428.cms)
-- [China leads, US ranks 27th: Top 15 countries with highest math scores](https://timesofindia.indiatimes.com/education/news/china-leads-us-ranks-27th-top-15-countries-with-highest-math-scores/articleshow/134364505.cms)
-- [Tennessee farmer tried to return $20,000 IRS refund; singer John Rich stepped in](https://timesofindia.indiatimes.com/world/us/a-tennessee-farmer-spent-4-years-trying-to-return-a-mistaken-20000-irs-refund-instead-he-faced-4000-in-penalties-then-country-singer-john-rich-stepped-in-and-ended-the-dispute/articleshow/134364966.cms)
 
 **NDTV**
 - [Alfred Cooke's Final Interview: The Dogfight That Defined A Legend](https://www.ndtv.com/india-news/the-last-interview-of-fighter-pilot-alfred-tyrone-cooke-who-took-on-4-pakistani-sabres-12071475#publisher=newsstand)
@@ -38,6 +38,8 @@
 - [On Camera, Speeding BMW Falls Off Mumbai Coast Road Bridge, 3 Dead](https://www.ndtv.com/mumbai-news/3-dead-as-speeding-bmw-crashes-on-mumbai-coastal-road-falls-off-bridge-12071139#publisher=newsstand)
 
 **Hindustan Times**
+- [Odisha: Technical team examines health condition of rescued orangutans](https://www.hindustantimes.com/india-news/odisha-technical-team-examines-health-condition-of-rescued-orangutans-101789893257022.html)
+- [‘Money to light diyas, not for hostels?’ Rahul Gandhi targets PM Modi's birthday celebration](https://www.hindustantimes.com/india-news/money-to-light-diyas-not-for-hostels-rahul-gandhi-targets-pm-modis-birthday-celebration-101789890582573.html)
 - [Gen Z considers India's defence ties with Israel to be better than US, France: India Israel Centre](https://www.hindustantimes.com/india-news/gen-z-considers-india-s-defence-ties-with-israel-to-be-better-than-us-france-india-israel-centre-101789892153156.html)
 - [Early warning systems need alerts for non-rainfall triggers: climate scientist Tapio Schneider](https://www.hindustantimes.com/india-news/early-warning-systems-need-alerts-for-non-rainfall-triggers-climate-scientist-tapio-schneider-101789891966459.html)
 - [Vice President to inaugurate India International Water Week on September 22](https://www.hindustantimes.com/india-news/vice-president-to-inaugurate-india-international-water-week-on-september-22-101789891722676.html)
@@ -46,34 +48,33 @@
 - [Punjab ASI murder accused killed in police encounter, 'Pakistan' link emerges](https://www.hindustantimes.com/india-news/punjab-asi-harjit-singh-murder-accused-killed-in-police-encounter-pakistan-link-emerges-101789884543757.html)
 - [Book Box: Reading Afghanistan](https://www.hindustantimes.com/india-news/book-box-reading-afghanistan-101789889181489.html)
 - [Prashant Kishor's JSP announces 5 candidates for Bihar Legislative Council polls](https://www.hindustantimes.com/india-news/prashant-kishors-jsp-announces-5-candidates-for-bihar-legislative-council-poll-101789888783357.html)
-- [Nagaland: Deaths rise to 11 in suspected hooch tragedy, forensic report awaited](https://www.hindustantimes.com/india-news/nagaland-deaths-rise-to-11-in-suspected-hooch-tragedy-forensic-report-awaited-101789888761600.html)
-- [Three arrested for murder of bar owner shot dead in Maharashtra’s Shirur: Police](https://www.hindustantimes.com/india-news/three-arrested-for-murder-of-bar-owner-shot-dead-in-maharashtra-s-shirur-police-101789888701225.html)
 
 **Vijay Karnataka**
-- [ನಂಬಿಕೆ ನಕ್ಷೆ 2.0 ಜಾರಿ: ಅರ್ಧ ತಾಸಿನಲ್ಲಿಯೇ ಕೈಸೇರಲಿದೆ ಕಟ್ಟಡ ನಕ್ಷೆ ಮಂಜೂರಾತಿ! ಯಾವೆಲ್ಲಾ ದಾಖಲೆ ಬೇಕು?](https://vijaykarnataka.com/news/bengaluru-city/gba-nambike-naksha-2-0-implementation-building-plan-approval-to-be-received-within-just-half-an-hour-required-documents/articleshow/134364695.cms)
-- [ವೇದಿಕೆ ಮೇಲೆ ನರೇಂದ್ರ ಮೋದಿ ಬಗ್ಗೆ ಅಪಹಾಸ್ಯ: ʻಚೀ-ಪಕ್ಷʼ ನಾಯಕ ರಾಹುಲ್‌ ಗಾಂಧಿಗೆ ರಾಜಕೀಯ ಸಂಸ್ಕೃತಿ ಕಲಿಸಲು ಸಿದ್ಧ ಎಂದ ಬಿಜೆಪಿ!](https://vijaykarnataka.com/news/india/rahul-gandhi-mocks-pm-modi-in-chhatron-ki-goonj-event-bjp-accuses-lacks-of-basic-human-empathy/articleshow/134364714.cms)
-- [ರಷ್ಯಾ ನಿರ್ಬಂಧ ಮಸೂದೆಗೆ ಡೊನಾಲ್ಡ್‌ ಟ್ರಂಪ್‌ ಸಹಿ: ಭಾರತದ ಮೇಲೆ ಶೇ. 100ರಷ್ಟು ಅಮೆರಿಕದ ಸುಂಕ? ನ್ಯೂ ವಾರ್‌ Explained](https://vijaykarnataka.com/business/news/donald-trump-signs-russia-sanction-bill-us-gears-up-for-new-tariff-war-with-india/articleshow/134364196.cms)
+- [ಭದ್ರಾ ನೀರಿನ ಚಿತ್ರದುರ್ಗ ಶಾಖಾ ಕಾಲುವೆಯ ನಾಲೆ ಒಡೆದರೆ ಕಾನೂನು ಕ್ರಮ: ಹೊಳಲ್ಕೆರೆಯಲ್ಲಿ ಸಚಿವ ಟಿ. ರಘುಮೂರ್ತಿ ಎಚ್ಚರಿಕೆ](https://vijaykarnataka.com/news/chitradurga/legal-action-if-the-bhadra-water-chitradurga-branch-canal-breaches-minister-t-raghumurthy-warns-in-holalkere/articleshow/134363902.cms)
+- [ಅಪ್ಪನ 3 ಕೋಟಿ ರೂ. ಸಾಲ ತೀರಿಸಲು ಪಕ್ಕದ ಮನೆ ಬಾಲಕನ ಅಪಹರಿಸಿದ ಬೆಂಗಳೂರು ಟೆಕ್ಕಿ! ಸಿಕ್ಕಿಬೀಳುವ ಭಯದಲ್ಲಿ ಕೊಂದ](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-techie-kidnaps-neighbor-boy-to-repay-father-rs-3-crore-debt-kills-him-and-flees-in-fear-of-getting-caught/articleshow/134365466.cms)
+- [ಅಧಿಕಾರಿಗಳಿಗೆ ಗೌರವಯುತವಾಗಿ ಏನು ಕೊಡಬೇಕೊ ಅದನ್ನು ಕೊಡುವುದು ಧರ್ಮ: ಶಿವಲಿಂಗೇಗೌಡರನ್ನು ಬಡಿದು ಬಾಯಿಗೆ ಹಾಕಿಕೊಂಡ ಜೆಡಿಎಸ್!](https://vijaykarnataka.com/news/karnataka/opposition-slams-minister-shivalinge-gowda-for-his-respectfully-pay-govt-officials-for-getting-work-done-remark/articleshow/134365097.cms)
 - [ಪಟೋಲಾ ಕುರ್ತಾದಲ್ಲಿ ಮಿಂಚಿದ ದೀಪಿಕಾ ಪಡುಕೋಣೆ; ಸಿದ್ಧಿವಿನಾಯಕ ದರ್ಶನಕ್ಕೆ ಬಂದ ನಟಿಯ ಲುಕ್ ವೈರಲ್!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-siddhivinayak-temple-patola-kurta-look/articleshow/134352111.cms)
-- [ನಾಳೆಯ ಹವಾಮಾನ: ತೀವ್ರ ವಾಯುಭಾರ ಕುಸಿತ 5 ದಿನ ವ್ಯಾಪಕ ಮಳೆ: ರಾಜ್ಯದ 16 ಜಿಲ್ಲೆಗಳಿಗೆ ಯೆಲ್ಲೋ ಅಲರ್ಟ್ ಘೋಷಣೆ!](https://vijaykarnataka.com/news/karnataka/tomorrow-weather-severe-low-pressure-area-to-heavy-rain-for-september-20-to-24-5-days-yellow-alert-for-16-districts-karnataka/articleshow/134364202.cms)
+- [ನಂಬಿಕೆ ನಕ್ಷೆ 2.0 ಜಾರಿ: ಅರ್ಧ ತಾಸಿನಲ್ಲಿಯೇ ಕೈಸೇರಲಿದೆ ಕಟ್ಟಡ ನಕ್ಷೆ ಮಂಜೂರಾತಿ! ಯಾವೆಲ್ಲಾ ದಾಖಲೆ ಬೇಕು?](https://vijaykarnataka.com/news/bengaluru-city/gba-nambike-naksha-2-0-implementation-building-plan-approval-to-be-received-within-just-half-an-hour-required-documents/articleshow/134364695.cms)
 - [ಉಪೇಂದ್ರ ಗ್ರ್ಯಾಂಡ್ ಬರ್ತ್‌ಡೇ ಪಾರ್ಟಿಯಲ್ಲಿ ತಾರೆಯರು; ಫೋಟೋಗಳು ಇಲ್ಲಿವೆ..](https://vijaykarnataka.com/vk-gallery/cinema/meghana-raj-meghana-gaonkar-and-other-celebs-at-upendra-grand-birthday-celebration/photoshow/134365225.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [ಚಾಣಕ್ಯ ನೀತಿ: ಈ 3 ಜನರೊಂದಿಗೆ ಶತ್ರುತ್ವ ಹೊಂದದಿರಲು ಕಾರಣ.!](https://vijaykarnataka.com/religion/hinduism/chanakya-niti-says-do-not-make-enmity-with-these-3-kind-of-people/articleshow/134352052.cms)
 - [ಕತ್ರಿನಾ ಕೈಫ್ ದಪ್ಪ ಆಗಿದ್ದಾರೆಂದು ಟ್ರೋಲ್ ಹೆರಿಗೆ ಬಳಿಕ ದೇಹದಲ್ಲಿ ಆಗುವ ಸಾಮಾನ್ಯ ಬದಲಾವಣೆಗಳೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/katrina-kaif-postpartum-body-changes-women-after-pregnancy/articleshow/134348311.cms)
-- [ತಿಮ್ಮಪ್ಪನ ಭಕ್ತರಿಗೆ ಮತ್ತೊಂದು ಆಘಾತ : ತಿರುಪತಿ ಲಡ್ಡು ಕಲಬೆರಕೆ, ಇ.ಡಿ.ಯಿಂದ ಪ್ರಮುಖ ಆರೋಪಿ ಬಂಧನ](https://vijaykarnataka.com/news/hyderabad/tirupati-laddu-adulteration-key-accused-arrested-by-ed-tirupati-prasadam-controversy-details/articleshow/134363110.cms)
+- [ವೇದಿಕೆ ಮೇಲೆ ನರೇಂದ್ರ ಮೋದಿ ಬಗ್ಗೆ ಅಪಹಾಸ್ಯ: ʻಚೀ-ಪಕ್ಷʼ ನಾಯಕ ರಾಹುಲ್‌ ಗಾಂಧಿಗೆ ರಾಜಕೀಯ ಸಂಸ್ಕೃತಿ ಕಲಿಸಲು ಸಿದ್ಧ ಎಂದ ಬಿಜೆಪಿ!](https://vijaykarnataka.com/news/india/rahul-gandhi-mocks-pm-modi-in-chhatron-ki-goonj-event-bjp-accuses-lacks-of-basic-human-empathy/articleshow/134364714.cms)
 
 **The Hindu**
+- [Monsoon expected to withdraw from parts of Rajasthan over next 3-4 days](https://www.thehindu.com/news/national/rajasthan/monsoon-expected-to-withdraw-from-parts-of-rajasthan-over-next-3-4-days/article71487357.ece)
+- [SIR really means 'Shah Instigated Removal' of voters: Congress](https://www.thehindu.com/news/national/sir-really-means-shah-instigated-removal-of-voters-congress/article71487403.ece)
+- [IIT Bombay faculty member booked for caste abuse, suicide abetment](https://www.thehindu.com/news/national/maharashtra/iit-bombay-faculty-member-booked-for-caste-abuse-suicide-abetment/article71485392.ece)
+- [Three killed, one critically injured after speeding BMW crashes on Mumbai Coastal Road](https://www.thehindu.com/news/national/maharashtra/three-killed-one-critically-injured-after-speeding-bmw-crashes-on-mumbai-coastal-road/article71487123.ece)
 - [Keralam CM congratulates Vidarsha Vinod on Asian Games shooting silver medal](https://www.thehindu.com/news/national/kerala/keralam-cm-congratulates-vidarsha-vinod-on-asian-games-shooting-silver-medal/article71487275.ece)
 - [Local body elections will lay a strong foundation for Jana Sena Party in Srikakulam district: JSP leader](https://www.thehindu.com/news/national/andhra-pradesh/local-body-elections-will-lay-a-strong-foundation-for-jana-sena-party-in-srikakulam-district-jsp-leader/article71487105.ece)
 - [Hyena gave birth to two cubs at the Thiruvananthapuram Zoo](https://www.thehindu.com/news/national/kerala/hyena-gave-birth-to-two-cubs-at-the-thiruvananthapuram-zoo/article71487312.ece)
 - [SCoR, Vijayawada division, loads first rake of wood pulp to Maharashtra](https://www.thehindu.com/news/national/andhra-pradesh/scor-vijayawada-division-loads-first-rake-of-wood-pulp-to-maharashtra/article71487241.ece)
 - [BJP-RSS have hollowed out the education system, Rahul Gandhi standing with students: Congress](https://www.thehindu.com/news/national/bjp-rss-have-hollowed-out-the-education-system-rahul-gandhi-standing-with-students-congress/article71487291.ece)
 - [Nearly 800 families struggle to enter their homes in Parvatipuram-Manyam district](https://www.thehindu.com/news/national/andhra-pradesh/nearly-800-families-struggle-to-enter-their-homes-in-parvatipuram-manyam-district/article71487093.ece)
-- [Complete Ring Road works by December, says Minister Janardhan Reddy](https://www.thehindu.com/news/national/andhra-pradesh/complete-ring-road-works-by-december-says-minister-janardhan-reddy/article71487192.ece)
-- [Overnight rain bring temperatures down in Bengaluru, KIA records 94.2 mm](https://www.thehindu.com/news/cities/bangalore/overnight-rain-bring-temperatures-down-in-bengaluru-kia-records-942-mm/article71487287.ece)
-- [Lokesh inaugurates two government schools renovated under P4 model in Nellore](https://www.thehindu.com/news/national/andhra-pradesh/lokesh-inaugurates-two-government-schools-renovated-under-p4-model-in-nellore/article71472405.ece)
-- [Vaishnaw cautions industry about cyberattacks, disruption that may target India's growing chip might](https://www.thehindu.com/news/national/vaishnaw-cautions-industry-about-cyberattacks-disruption-that-may-target-indias-growing-chip-might/article71487191.ece)
 
 **Livemint**
+- [Three dead, one critical as BMW crashes on Mumbai Coastal Road, chilling videos emerge](https://www.livemint.com/news/india/mumbai-coastal-road-bmw-crashes-latest-news-chilling-video-emerge-death-toll-injured-11789892780079.html)
 - [Meet 25-year-old Neha Thakur, who left her air hostess dream to become Himachal's first woman truck driver](https://www.livemint.com/news/trends/meet-25-year-old-neha-thakur-who-left-her-air-hostess-dream-to-become-himachals-first-woman-truck-driver-11789889299139.html)
 - [‘They were caught by the Chinese': NSA Ajit Doval recounts moment he thought was end of his career](https://www.livemint.com/news/india/they-were-caught-by-the-chinese-nsa-ajit-doval-recounts-moment-he-thought-was-end-of-his-career-11789888692169.html)
 - [Harsh Goenka reacts as Delhi man trades ancestral gold to buy iPhone 18 Pro for wife](https://www.livemint.com/news/trends/harsh-goenka-reacts-as-delhi-man-trades-ancestral-gold-to-buy-iphone-18-pro-for-wife-11789886047381.html)
@@ -83,7 +84,6 @@
 - [‘Iran war costs US $45.1 billion’, surpassing Pentagon’s $38 billion estimate: Report](https://www.livemint.com/news/us-news/iran-war-costs-us-45-1-billion-surpassing-pentagon-s-38-billion-estimate-report-11789874700989.html)
 - [8-year-old among 2 dead in electrocution incident in Ganapati pandal in Mumbai's Lalbaug; 4 injured](https://www.livemint.com/news/india/8yearold-among-2-dead-in-electrocution-incident-in-ganapati-pandal-in-mumbais-lalbaug-4-injured-11789867307292.html)
 - [The cows were their livelihood. The goats, their insurance. Then the flood came.](https://www.livemint.com/news/india/assam-floods-livestock-livelihoods-11789728094373.html)
-- [US-Iran war LIVE Updates: Iran sets 7 terms for renewed talks; Trump cuts short Camp David stay; Houthis attack Riyadh](https://www.livemint.com/news/us-news/usiran-war-live-updates-tehran-seven-terms-for-peace-talks-saudi-forces-houthis-riyadh-attack-strait-of-hormuz-oil-trum-11789866401038.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,37 +98,40 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಚರಂಡಿಯಲ್ಲಿ ಕೊಚ್ಚಿ ಹೋದ ಕಾರು: ಎಂಟು ಮಂದಿ ಮೃತ್ಯು](https://www.varthabharati.in/National/eight-people-passes-away-as-the-car-drowns-in-a-drainage-2276505)
+- [Mysuru | ಗಣೇಶೋತ್ಸವ ಮೆರವಣಿಗೆ ವೇಳೆ ಪ್ರಚೋದನಕಾರಿ ಭಾಷಣ ಆರೋಪ: ಪ್ರತಾಪ್ ಸಿಂಹ ವಿರುದ್ಧ FIR ದಾಖಲು](https://www.varthabharati.in/mysore/fir-filed-against-pratap-simha-over-provocative-speech-in-mysuru-2276504)
+- [ತತ್ಕಾಲ್ ಟಿಕೆಟ್ ಗೊಂದಲ; ಅಪರಾಧದ ಕತೆಯಾಗಿ ಗಮನಸೆಳೆಯುತ್ತಿದೆ ‘ವೇಟಿಂಗ್ ಹೈ’ ವೆಬ್ ಸರಣಿ](https://www.varthabharati.in/cinema/web-series-waiting-way-is-making-is-own-way-to-attract-as-a-crime-thriller-2276503)
+- [ಇರಾನ್ ಯುದ್ಧದಲ್ಲಿ ಅಮೆರಿಕದ ರಕ್ಷಣಾ ಇಲಾಖೆ ಬಹಿರಂಗಪಡಿಸಿದ ಅಂಕಿಅಂಶಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಅಮೆರಿಕನ್ ಸೈನಿಕರು ಸಾವು: ʼವಾಷಿಂಗ್ಟನ್ ಪೋಸ್ಟ್ʼ ವರದಿ](https://www.varthabharati.in/international/washington-post-claims-more-death-of-soldiers-than-the-stats-of-defense-ministry-shows-2276502)
 - [ನಮ್ಮ ಷರತ್ತು ಈಡೇರುವವರೆಗೆ ಹಾರ್ಮುಝ್ ಜಲಸಂಧಿ ಮುಚ್ಚಿರಲಿದೆ: ಇರಾನ್ ಎಚ್ಚರಿಕೆ](https://www.varthabharati.in/international/strait-of-hormuz-will-remain-closed-until-our-regulations-are-satisfied-2276500)
 - [ಅಮೆರಿಕ ಪ್ರವಾಸದ ವಿವಾದದ ಬಳಿಕ ಮೊದಲ ಕಾರ್ಯಕ್ರಮ: ಗಾಝಾದ ಪರಿಸ್ಥಿತಿ ‘ಸಮರ್ಥಿಸಲಾಗದು’ ಎಂದ ಎಡ್ ಶೀರನ್](https://www.varthabharati.in/international/ed-sheerans-first-public-appearance-after-the-tour-of-america-2276499)
 - [ರಸ್ತೆ ಕಾಮಗಾರಿಗೆ ಆಗ್ರಹಿಸಿದ ಸ್ಥಳೀಯ ನಿವಾಸಿಗಳ ಜೊತೆ ಕೇಂದ್ರ ಸಚಿವ ಜ್ಯೋತಿರಾದಿತ್ಯ ಸಿಂಧಿಯಾ ವಾಗ್ವಾದ; ʼಅಧಿಕಾರದ ದುರಹಂಕಾರʼ ಎಂದ ಕಾಂಗ್ರೆಸ್](https://www.varthabharati.in/National/jyotiradidtya-sindhiya-argues-with-locals-in-case-of-road-construction-2276496)
 - [ಸೇತುವೆಯಿಂದ ಕೆಳಗೆ ಬಿದ್ದ BMW ಕಾರು; ಮೂವರು ಮೃತ್ಯು](https://www.varthabharati.in/National/bmw-car-falls-off-a-bridge-killing-three-2276494)
 - [Udupi | ಕೊಡವೂರು ಬಳಿ ನದಿಗೆ ಬಿದ್ದ ಕಾರು: ಚಾಲಕ, ಮಗುವಿನ ರಕ್ಷಣೆ](https://www.varthabharati.in/udupi/udupi-2276493)
 - [ದಿಲ್ಲಿ SIR: ಎಲ್.ಕೆ. ಅಡ್ವಾಣಿ, ಜಗದೀಪ್ ಧನ್ಕರ್, ಕಪಿಲ್ ಸಿಬಲ್ ಸೇರಿ ಹಲವು ಪ್ರಮುಖರಿಗೆ ಚುನಾವಣಾ ಆಯೋಗದಿಂದ ನೋಟಿಸ್](https://www.varthabharati.in/National/delhi-sir-advani-kejriwal-dhankhar-among-32-lakh-served-notice-2276492)
-- [ಅತಿಥಿ ಉಪನ್ಯಾಸಕರ ಸೇವೆ ಖಾಯಂಗೊಳಿಸಿ : ಡಾ.ಚಂದ್ರಕಾಂತ ಶಿರೋಳೆ ಆಗ್ರಹ](https://www.varthabharati.in/kalaburagi/guest-lecturers-2276491)
-- [Karnataka SIR | ಮತಪಟ್ಟಿಯಿಂದ 1.079 ಕೋಟಿ ಹೊರಗೆ, 6.4ಲಕ್ಷ ಒಳಗೆ](https://www.varthabharati.in/nimma-ankana/sir-2276488)
-- [ಅಂಗನವಾಡಿ ಮಕ್ಕಳ ತಟ್ಟೆಯಲ್ಲಿ ಪೌಷ್ಟಿಕಾಂಶಕ್ಕೆ ಬರ](https://www.varthabharati.in/nimma-ankana/--2276486)
-- [ಜಾಗತಿಕ ಕ್ವಾಂಟಂ ವೇದಿಕೆಯಾಗಿ 2027ರ "ಬೆಂಗಳೂರು ಕ್ವಾಂಟಂ ಸಮಿಟ್‌"ನ್ನು ವಿಸ್ತರಿಸಲು ಕರ್ನಾಟಕ ಸಜ್ಜು: ಸಚಿವ ಡಾ.ಅಜಯ್ ಸಿಂಗ್](https://www.varthabharati.in/bangalore-city/minister-dr-ajay-singh-2276485)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
-- Iran (3.9)
-- target (3.3)
-- Asian Games (3.0)
+- Congress (4.2)
+- Mumbai Coastal Road (3.0)
 - ICICI Securities (3.0)
-- Congress (2.9)
-- Delhi (2.6)
-- India's (2.6)
-- Maharashtra (2.6)
-- Houthis (2.6)
+- target (3.0)
+- Rajasthan (2.6)
+- Three (2.6)
+- Iran (2.6)
+- Mumbai (2.5)
+- Asian Games (2.0)
+- Shah Instigated Removal' (2.0)
+- PM Modi's (2.0)
+- Rahul Gandhi (2.0)
 - Buy Bajaj Finance (2.0)
-- Mumbai (1.9)
 - India (1.9)
-- Punjab (1.9)
-- Keralam (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [మహిళపై ఇంత కర్కశత్వమా?.. పోలీసులు జుట్టుపట్టి ఈడ్చుకెళ్లడమేంది?](https://www.ntnews.com/telangana/outrage-over-the-shocking-incident-in-hyderabad-where-a-police-officer-dragged-a-woman-along-the-road-by-her-hair-2515186)
+- [గోదావరిఖని ప్రాంతమే ‘ది ప్యారడైజ్‌’కు స్ఫూర్తి](https://www.ntnews.com/cinema/godavarikhani-inspired-the-paradise-2514886)
+- [Salman Khan denies health issues after Bigg Boss 20 concern](https://thenewsmill.com/2026/09/salman-khan-denies-health-issues-after-bigg-boss-20-concern/)
 - [Iran gives US 3 conditions to restart talks, says ‘Trump’s threats will not achieve results’](https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms)
 - [Amritsar ASI murder accused gunned down, Pakistan terror link under probe](https://www.indiatoday.in/cities/other-cities/story/amritsar-asi-murder-accused-deepak-singh-killed-in-retaliatory-firing-2998624-2026-09-20)
 - [దేశవ్యాప్తంగా 15 శాతం లోటు వర్షపాతం](https://prajasakti.com/latest-news/national-newss/15-percent-deficit-rainfall-across-the-country)
@@ -136,9 +139,6 @@
 - [பட்டினப்பாக்கம் தலைமைச் செயலகம் திட்டத்தை அரசு கைவிட வேண்டும்: எல்.முருகன் வலியுறுத்தல்](https://www.hindutamil.in/news/tamilnadu/l-murugan-demands-tn-govt-to-abandon-pattinappakkam-secretriat)
 - [OnePlus 16 makes Geekbench 7 debut, fails to keep up with iPhone 18 Pro Max and A20 Pro](https://www.notebookcheck.net/OnePlus-16-makes-Geekbench-7-debut-fails-to-keep-up-with-iPhone-18-Pro-Max-and-A20-Pro.1403357.0.html)
 - [Trinamool: তৃণমূল অফিস, প্রাক্তন বিধায়কের বাড়িতে হামলা, ভাঙা হল সিপিএমের শহিদ বেদি, মাইক নিয়ে বিজেপিকে হুঁশিয়ারি সিপিএম নেতার](https://bengali.abplive.com/district/trinamool-office-attacked-cpm-martyrs-memorial-vandalized-cpim-leader-issues-warning-to-bjp-over-microphone-1193482)
-- [Salman Khan lashes out at internet trolls amid Katrina Kaif’s postpartum weight comments; says ‘Kisi Ke Maa Banne Par...’](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-20-salman-khan-slams-trolls-for-body-shaming-remarks-mentions-kisi-ke-maa-banne-par-fans-say-he-is-supporting-katrina-kaif/articleshow/134359773.cms)
-- [ASI killing: Key suspect shot dead in police encounter in Amritsar](https://timesofindia.indiatimes.com/city/chandigarh/asi-killing-key-suspect-shot-dead-in-police-encounter-in-amritsar/articleshow/134359728.cms)
-- [Video: Salman Khan falls as his health deteriorates on Bigg Boss 20](https://www.siasat.com/video-salman-khan-falls-as-his-health-deteriorates-on-bigg-boss-20-3545001/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
