@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-20 00:40:43
+# India Trending Report — 2026-09-20 01:01:57
 
 ## Google Trends (India) — top trending searches
 1. [ufc](https://trends.google.com/trending/rss?geo=IN)
@@ -8,19 +8,19 @@
 5. [sevilla vs barcelona](https://trends.google.com/trending/rss?geo=IN)
 6. [pawan singh news](https://trends.google.com/trending/rss?geo=IN)
 7. [sohail khan](https://trends.google.com/trending/rss?geo=IN)
-8. [mom and son](https://trends.google.com/trending/rss?geo=IN)
-9. [desi](https://trends.google.com/trending/rss?geo=IN)
-10. [salman khan](https://trends.google.com/trending/rss?geo=IN)
+8. [desi](https://trends.google.com/trending/rss?geo=IN)
+9. [salman khan](https://trends.google.com/trending/rss?geo=IN)
+10. [rohit sharma](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - ['Negotiate or face decisive war': Iran sets 7 conditions to restart talks with US](https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms)
 - [As monsoon withdrawal begins, season may end with 10% deficit](https://timesofindia.indiatimes.com/india/as-monsoon-withdrawal-begins-season-may-end-with-10-deficit/articleshow/134360430.cms)
 - [Ambulance stuck in mud, pregnant woman taken to hospital on bullock cart](https://timesofindia.indiatimes.com/city/indore/ambulance-stuck-in-mud-pregnant-woman-taken-to-hospital-on-bullock-cart/articleshow/134359932.cms)
-- [Father-son duo makes history: Shigenobu and Koji light cauldron in Nagoya](https://timesofindia.indiatimes.com/sports/asian-games-2026/father-son-duo-makes-history-five-time-asian-games-champion-shigenobu-murofushi-and-olympic-gold-medallist-son-koji-light-cauldron-in-aichi-nagoya/articleshow/134356286.cms)
-- [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
 - [In a first, abetment FIR filed against IIT-Bombay professor in 2nd-year student’s death](https://timesofindia.indiatimes.com/city/mumbai/in-a-first-abetment-fir-filed-against-iit-bombay-professor-in-second-year-students-death/articleshow/134359955.cms)
+- [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
 - [PM Modi pushes back on West’s narrative over emissions](https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms)
+- [US military says it struck suspected drug-trafficking vessel, 4 killed](https://timesofindia.indiatimes.com/weather/us/us-military-says-it-struck-suspected-drug-trafficking-vessel-4-killed/articleshow/134362508.cms)
 - [ASI Harjit Singh murdered: Key suspect shot dead in police encounter in Amritsar](https://timesofindia.indiatimes.com/city/chandigarh/asi-killing-key-suspect-shot-dead-in-police-encounter-in-amritsar/articleshow/134359728.cms)
 - ['Only high IQ individuals need apply': Trump announces 'AI Force'](https://timesofindia.indiatimes.com/world/us/only-high-iq-individuals-need-apply-trump-announces-ai-force/articleshow/134358415.cms)
 - [Ken Griffey Jr.'s $2.5M Orlando estate now listed for $27m](https://timesofindia.indiatimes.com/world/us/in-2004-ken-griffey-jr-paid-2-575-million-for-11-58-lakefront-acres-near-orlando-four-years-later-he-completed-a-22108-sq-ft-custom-mansion-and-the-estate-is-now-listed-for-27-million/articleshow/134343702.cms)
@@ -65,13 +65,13 @@
 - [Union Home Minister Amit Shah falls ill in Hubballi, skips inauguration of college](https://www.thehindu.com/news/national/karnataka/union-home-minister-amitshah-falls-ill-inhubballi/article71483956.ece)
 - [In India’s capital, Delhiites reduced to documents](https://www.thehindu.com/news/cities/Delhi/in-indias-capital-delhiites-reduced-to-documents/article71484465.ece)
 - [What is the India-Pakistan conflict at sea about? | Explained](https://www.thehindu.com/news/national/what-is-the-india-pakistan-conflict-at-sea-about-explained/article71485874.ece)
+- [Malayalam movie HALF screened under Midnight Madness section at Toronto film festival](https://www.thehindu.com/news/national/kerala/malayalam-movie-half-screened-under-midnight-madness-section-at-toronto-film-festival/article71485652.ece)
+- [Clamour grows in Keralam to augment coaches, introduce more MEMU trains](https://www.thehindu.com/news/national/kerala/clamour-grows-in-keralam-to-augment-coaches-introduce-more-memu-trains/article71485451.ece)
 - [How will the U.S.’s Sanctioning Act affect India? | Explained](https://www.thehindu.com/news/national/how-will-the-uss-sanctioning-act-affect-india-explained/article71485870.ece)
 - [The digital recruiter | Shahzad Bhatti](https://www.thehindu.com/profile/the-digital-recruiter-shahzad-bhatti/article71485789.ece)
 - [Samrat Choudhary promises jobs to one crore women](https://www.thehindu.com/news/national/bihar/samrat-choudhary-promises-jobs-to-one-crore-women/article71485207.ece)
 - [Caste Hindu candidate claims reservation through bogus community certificate, Madras High Court refuses to order release of terminal benefits](https://www.thehindu.com/news/national/tamil-nadu/caste-hindu-candidate-claims-reservation-through-bogus-community-certificate-madras-high-court-refuses-to-order-release-of-terminal-benefits/article71484580.ece)
 - [TVK regime’s experiment of having two advisers to Vijay alongside Chief Secretary, giving mixed vibes to T.N.’s bureaucratic circles](https://www.thehindu.com/news/national/tamil-nadu/tvk-regimes-experiment-of-having-two-advisers-to-vijay-alongside-chief-secretary-giving-mixed-vibes-to-tns-bureaucratic-circles/article71485220.ece)
-- [Youth stabbed to death over personal enmity in Kalaburagi](https://www.thehindu.com/news/national/karnataka/youth-stabbed-to-death-over-personal-enmity-in-kalaburagi/article71485338.ece)
-- [Raichur ZP CEO Ishwar Kumar Kandoo instructs officers to conduct crop loss assessment in drought-hit areas](https://www.thehindu.com/news/national/karnataka/raichur-zp-ceo-ishwar-kumar-kandoo-instructs-officers-to-conduct-crop-loss-assessment-in-drought-hit-areas/article71484825.ece)
 
 **Livemint**
 - [‘Wait, what?’ Jimmy Fallon stunned as Houston reporter Lauren Kelly reveals her Beyoncé connection](https://www.livemint.com/news/trends/wait-what-jimmy-fallon-stunned-as-houston-reporter-lauren-kelly-reveals-her-beyonc-connection-11789854160743.html)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [In 2023, NASA’s orbiting 3D printer made a human knee meniscus, one of the first human tissue structures successfully bioprinted in space](https://timesofindia.indiatimes.com/science/in-2023-nasas-orbiting-3d-printer-made-a-human-knee-meniscus-one-of-the-first-human-tissue-structures-successfully-bioprinted-in-space/articleshow/134328836.cms)
-- [சென்னை விமான நிலைய நிர்வாக மாற்றம்: விஜயின் கடிதம்](https://www.tamilmurasu.com.sg/tamilnadu/chief-minister-vijay-writes-prime-minister-modi-requesting-change-chennai-airport-administration)
-- [சென்னை விமான நிலைய நிர்வாக மாற்றம்: விஜயின் கடிதம்](https://www.tamilmurasu.com.sg/tamilnadu/chief-minister-vijay-writes-prime-minister-modi-requesting-change-chennai-airport-administration?ref=tamilnadu)
-- [இந்தியாவுக்கு வரி ஆபத்து](https://www.tamilmurasu.com.sg/india/trump-signs-law-sanctioning-russia-100-tax-likely-india?ref=india)
-- [Burden Of Carbon Emissions Unfairly Put On Developing Countries : PM Modi](https://www.livelaw.in/top-stories/burden-of-carbon-emissions-unfairly-put-on-developing-countries-pm-modi-550870)
-- [નીચભંગ રાજયોગ: નીચનો મંગળ કરશે મોટી ઉથલપાથલ! આ 6 રાશિઓનું ભાગ્ય ચમકશે](https://gujarati.abplive.com/astro/mars-transit-cancer-neechbhang-rajyog-impact-world-war-share-market-991571)
-- [ഐഐടി വിദ്യാർഥിയുടെ മരണം: മകൻ മാനസിക പീഡനം നേരിട്ടതായി കുടുംബം; ജാതീയ അധിക്ഷേപമുണ്ടായെന്ന് പിതാവ്](https://www.mathrubhumi.com/crime/news/iit-bombay-student-death-harassment-allegation-protests-2026-gy9ua250)
-- [DUSU Results 2026: ABVP wins 3 posts, NSUI rebel Deepanshu Shokeen bags vice-president seat](https://timesofindia.indiatimes.com/city/delhi/dusu-results-2026-abvp-wins-3-posts-nsui-rebel-deepanshu-shokeen-bags-vice-president-seat/articleshow/134352850.cms)
-- [ஐரோப்பிய திருஅவையின் எதிர்காலம் குறித்து ஒன்றிணைந்த பயண மாநாட்டில் ஆலோசனை](https://www.vaticannews.va/ta/church/news/2026-09/european-synodality-conference-highlights-baptism-listening-and.html)
-- [H-1B visa fee | హెచ్‌-1బీ వీసా ఫీజు విష‌యంలో డొనాల్డ్ ట్రంప్ మరింత‌ క‌ఠిన వైఖ‌రి..!](https://www.ntnews.com/international/trump-extends-100000-dallors-h-1b-visa-fee-what-it-means-for-indian-workers-2514732)
+- [എഐ ചതിച്ചാശാനേ! തെറ്റായ റിപ്പോർട്ട്; ചൈനീസ് കപ്പൽ ആക്രമിക്കാനൊരുങ്ങി യുഎസ്](https://www.manoramaonline.com/news/latest-news/2026/09/19/ai-misinformation-leads-us-military-to-target-china-ship.html)
+- [Donald Trump | కీల‌క బిల్లుపై అమెరికా అధ్య‌క్షుడి సంత‌కం.. భార‌త్, చైనాల‌పై సుంకాలకు ట్రంప్‌కు ఫుల్‌ ప‌వ‌ర్‌..!](https://www.ntnews.com/international/us-president-donald-trump-signs-russia-sanctions-bill-into-law-2514774)
+- [Tamil News Live: இன்றைய முக்கிய செய்திகள்](https://www.maalaimalar.com/news/tamilnadu/today-news-in-tamil-live-updates-19-september-2026)
+- [വിവാദ റേഞ്ച് റോവർ കാർ കല്യാണ ആവശ്യത്തിന് ഉടമയ്ക്ക് നൽകി മന്ത്രി ഷാജി, വീണ്ടും ഉപയോഗിക്കുമോ?](https://www.asianetnews.com/kerala-news/minister-k-m-shaji-returned-the-controversial-range-rover-car-to-its-owner-articleshow-xc3sagr)
+- [உருகுவே ஆயர்களின் 'அத் லிமினா' சந்திப்பு: மதச்சார்பின்மைக்கு மத்தியில் நற்செய்திப் பணியின் சவால்கள்](https://www.vaticannews.va/ta/church/news/2026-09/uruguayan-bishops-prepare-for-pope-leo-xiv-s-visit.html)
+- [CM விஜய்க்கு ஆதரவாக அட்லி அரசியல் பாடம்.. விக்கித்து பார்த்த VJS ..! பத்தா விழாவில் பற்றிய நெருப்பு](https://www.polimernews.com/cinemanews/atlees-political-lesson-in-support-of-cm-vijay-vjs-left-stunned-the-fire-that-ignited-at-the-patta-event-12552818)
+- [आदित्य ठाकरे-दिशा सालियन भेटीबाबत वरुण सरदेसाई काय म्हणाले?](https://www.loksatta.com/maharashtra/varun-sardesai-aditya-thackeray-disha-salian-sushant-singh-rajput-allegations-marathi-news-vsd-99-6145128/)
+- [ரியாத் விமான நிலையம் அருகே கரும்புகையுடன் தீப்பிழம்புகள்: ஹவுதி தாக்குதல் என பயணிகள் அச்சம்](https://www.dinamalar.com/news/world-tamil-news/flames-with-black-smoke-near-riyadh-airport-passengers-fear-houthi-attack/4326997)
+- [Nabanna Salary: পুজোর মাসে লক্ষ্মীলাভ সরকারি কর্মীদের! DA, বোনাসের সঙ্গে দু'বার বেতন অক্টোবরে](https://bangla.asianetnews.com/west-bengal/kolkata/nabanna-salary-update-state-govt-employees-may-get-da-bonus-double-salary-october-bsm/photoshow-88ked01)
+- [സംസ്ഥാനത്ത് ഇന്നും വൈദ്യുതി നിയന്ത്രണത്തിന് സാധ്യത; വൈകിട്ട് 6.15 മുതൽ രാത്രി 12.45 വരെ](https://www.southlive.in/possibility-of-power-restrictions-in-the-state-today-as-well-from-615-pm-to-1245-am/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
