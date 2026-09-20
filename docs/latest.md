@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-20 00:02:18
+# India Trending Report — 2026-09-20 00:40:43
 
 ## Google Trends (India) — top trending searches
 1. [ufc](https://trends.google.com/trending/rss?geo=IN)
@@ -14,16 +14,16 @@
 
 ## Latest headlines by outlet
 **Times of India**
-- ['Trump's threats won't achieve results’: Iran conveys terms to US for restarting talks](https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms)
+- ['Negotiate or face decisive war': Iran sets 7 conditions to restart talks with US](https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms)
 - [As monsoon withdrawal begins, season may end with 10% deficit](https://timesofindia.indiatimes.com/india/as-monsoon-withdrawal-begins-season-may-end-with-10-deficit/articleshow/134360430.cms)
-- [ASI Harjit Singh murdered: Key suspect shot dead in police encounter in Amritsar](https://timesofindia.indiatimes.com/city/chandigarh/asi-killing-key-suspect-shot-dead-in-police-encounter-in-amritsar/articleshow/134359728.cms)
+- [Ambulance stuck in mud, pregnant woman taken to hospital on bullock cart](https://timesofindia.indiatimes.com/city/indore/ambulance-stuck-in-mud-pregnant-woman-taken-to-hospital-on-bullock-cart/articleshow/134359932.cms)
 - [Father-son duo makes history: Shigenobu and Koji light cauldron in Nagoya](https://timesofindia.indiatimes.com/sports/asian-games-2026/father-son-duo-makes-history-five-time-asian-games-champion-shigenobu-murofushi-and-olympic-gold-medallist-son-koji-light-cauldron-in-aichi-nagoya/articleshow/134356286.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
-- [UPI MDR: Can Rs 6,000 be split into three Rs 2,000 payments? No daily cap](https://timesofindia.indiatimes.com/business/india-business/upi-mdr-is-coming-can-a-rs-6000-bill-be-split-into-three-rs-2000-payments-to-avoid-charges-for-now-npci-has-no-daily-cap/articleshow/134356384.cms)
-- [Govt gets moving on monetising surplus realty](https://timesofindia.indiatimes.com/real-estate/news/govt-gets-moving-on-monetising-surplus-realty/articleshow/134362296.cms)
-- ['Only high IQ individuals need apply': Trump announces 'AI Force'](https://timesofindia.indiatimes.com/world/us/only-high-iq-individuals-need-apply-trump-announces-ai-force/articleshow/134358415.cms)
-- [Why parents keep old report cards and childhood drawings, according to psychology](https://timesofindia.indiatimes.com/life-style/parenting/moments/psychology-says-parents-who-keep-old-report-cards-and-childhood-drawings-may-be-preserving-a-part-of-their-own-life-story-not-just-memories/articleshow/134350487.cms)
+- [In a first, abetment FIR filed against IIT-Bombay professor in 2nd-year student’s death](https://timesofindia.indiatimes.com/city/mumbai/in-a-first-abetment-fir-filed-against-iit-bombay-professor-in-second-year-students-death/articleshow/134359955.cms)
 - [PM Modi pushes back on West’s narrative over emissions](https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms)
+- [ASI Harjit Singh murdered: Key suspect shot dead in police encounter in Amritsar](https://timesofindia.indiatimes.com/city/chandigarh/asi-killing-key-suspect-shot-dead-in-police-encounter-in-amritsar/articleshow/134359728.cms)
+- ['Only high IQ individuals need apply': Trump announces 'AI Force'](https://timesofindia.indiatimes.com/world/us/only-high-iq-individuals-need-apply-trump-announces-ai-force/articleshow/134358415.cms)
+- [Ken Griffey Jr.'s $2.5M Orlando estate now listed for $27m](https://timesofindia.indiatimes.com/world/us/in-2004-ken-griffey-jr-paid-2-575-million-for-11-58-lakefront-acres-near-orlando-four-years-later-he-completed-a-22108-sq-ft-custom-mansion-and-the-estate-is-now-listed-for-27-million/articleshow/134343702.cms)
 
 **NDTV**
 - [After Slowdown Calls, Trump Says He Will Set Up 'AI Force', Name 'AI Czar'](https://www.ndtv.com/world-news/after-slowdown-calls-trump-says-he-will-set-up-ai-force-name-ai-czar-12070075#publisher=newsstand)
@@ -62,6 +62,8 @@
 - [`ಟೆಸ್ಟ್ ಪಂದ್ಯದ ಒತ್ತಡ, ನಿದ್ರೆಯಿಲ್ಲದ ರಾತ್ರಿ': ತಾಯಿ ಮಾಡಿಕೊಡುತ್ತಿದ್ದ ಬಾಳೆಕಾಯಿ ವೇಫರ್ಸ್ ತಿನ್ನುತ್ತಿದ್ದ ಹಿಟ್ ಮ್ಯಾನ್!](https://vijaykarnataka.com/sports/cricket/news/rohit-sharma-eat-mother-made-banana-wafers-on-sleepless-test-match-night-to-decrease-pressure/articleshow/134355857.cms)
 
 **The Hindu**
+- [Union Home Minister Amit Shah falls ill in Hubballi, skips inauguration of college](https://www.thehindu.com/news/national/karnataka/union-home-minister-amitshah-falls-ill-inhubballi/article71483956.ece)
+- [In India’s capital, Delhiites reduced to documents](https://www.thehindu.com/news/cities/Delhi/in-indias-capital-delhiites-reduced-to-documents/article71484465.ece)
 - [What is the India-Pakistan conflict at sea about? | Explained](https://www.thehindu.com/news/national/what-is-the-india-pakistan-conflict-at-sea-about-explained/article71485874.ece)
 - [How will the U.S.’s Sanctioning Act affect India? | Explained](https://www.thehindu.com/news/national/how-will-the-uss-sanctioning-act-affect-india-explained/article71485870.ece)
 - [The digital recruiter | Shahzad Bhatti](https://www.thehindu.com/profile/the-digital-recruiter-shahzad-bhatti/article71485789.ece)
@@ -70,8 +72,6 @@
 - [TVK regime’s experiment of having two advisers to Vijay alongside Chief Secretary, giving mixed vibes to T.N.’s bureaucratic circles](https://www.thehindu.com/news/national/tamil-nadu/tvk-regimes-experiment-of-having-two-advisers-to-vijay-alongside-chief-secretary-giving-mixed-vibes-to-tns-bureaucratic-circles/article71485220.ece)
 - [Youth stabbed to death over personal enmity in Kalaburagi](https://www.thehindu.com/news/national/karnataka/youth-stabbed-to-death-over-personal-enmity-in-kalaburagi/article71485338.ece)
 - [Raichur ZP CEO Ishwar Kumar Kandoo instructs officers to conduct crop loss assessment in drought-hit areas](https://www.thehindu.com/news/national/karnataka/raichur-zp-ceo-ishwar-kumar-kandoo-instructs-officers-to-conduct-crop-loss-assessment-in-drought-hit-areas/article71484825.ece)
-- [Bihar CM donates one month’s salary to flood victims](https://www.thehindu.com/news/national/bihar/bihar-cm-donates-one-months-salary-to-flood-victims/article71485520.ece)
-- [Public holiday declared in Madurantakam, Dharapuram on October 6 for bypolls](https://www.thehindu.com/news/national/tamil-nadu/public-holiday-declared-in-madurantakam-dharapuram-on-october-6-for-bypolls/article71484591.ece)
 
 **Livemint**
 - [‘Wait, what?’ Jimmy Fallon stunned as Houston reporter Lauren Kelly reveals her Beyoncé connection](https://www.livemint.com/news/trends/wait-what-jimmy-fallon-stunned-as-houston-reporter-lauren-kelly-reveals-her-beyonc-connection-11789854160743.html)
@@ -100,7 +100,7 @@
 - [1965ರ ಭಾರತ–ಪಾಕ್ ಯುದ್ಧದ ವೀರ ಫ್ಲೈಟ್ ಲೆಫ್ಟಿನೆಂಟ್ ಎ.ಟಿ. ಕುಕ್ ನಿಧನ](https://www.varthabharati.in/National/flight-lieutenant-at-cooke-hero-of-the-1965-india-pakistan-war-passes-away-2276440)
 
 ## Cross-source trending keywords (derived from headlines above)
-- October (5.2)
+- October (3.9)
 - DUSU (3.9)
 - Trump (3.5)
 - What (3.2)
@@ -109,26 +109,26 @@
 - AI Force' (2.0)
 - Rahul Gandhi (2.0)
 - Calls (1.9)
+- India (1.9)
 - West (1.6)
 - Vijay (1.6)
-- India (1.6)
 - ABVP's (1.6)
-- Trump's (1.3)
+- Negotiate (1.3)
 - Iran (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [കേരളത്തിൽ ഇന്നും വൈദ്യുതി നിയന്ത്രണത്തിന് സാധ്യത; മുന്നറിയിപ്പുമായി കെഎസ്ഇബി](https://www.reporterlive.com/topnews/kerala/2026/09/19/kerala-power-restriction-kseb-warns-of-shortage)
-- [ഹൈറ്റിയിൽ കുട്ടികൾ പോഷകാഹാരകുറവിന്റെ ദുരിതത്തിൽ](https://www.vaticannews.va/ml/world/news/2026-09/children-at-risk-of-life-malnutrition-haiti-internal-conflict.html)
-- [விவசாயிகள் போராட்டம்: பேச்சுவார்த்தைக்கு இடையே வெளியேறி சென்ற அமைச்சர் ரமேஷ்! - என்ன நடந்தது?](https://www.vikatan.com/government-and-politics/minister-ramesh-left-while-the-talks-with-the-farmers-were-still-underway)
-- [Ajit Doval recalls mission when China captured Indian agents](https://www.indiatoday.in/india/story/nsa-ajit-doval-career-seemed-over-mission-china-captured-indian-agents-2998297-2026-09-19)
-- [दिशा सालियान के पिता सतीश ने आदित्य ठाकरे को नोटिस देने मातोश्री जाने से पहले कहा- किसी शिव सैनिक से नहीं डरता](https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/disha-salian-father-satish-reached-matoshree-seeking-to-serve-a-legal-notice-to-aaditya-thackeray/articleshow/134353319.cms)
-- [દિલ્હી યુનિવર્સિટી વિદ્યાર્થી સંઘની ચૂંટણીમાં ABVP ની શાનદાર જીત, અપક્ષ ઉમેદવારે ચોંકાવ્યા](https://gujarati.abplive.com/news/india/dusu-election-results-2026-abvps-win-nsui-loss-dipanshu-shokin-victory-991566)
-- [US-China talks: Trade truce, AI, Iran, rare earths in focus ahead of Trump-Xi summit](https://www.moneycontrol.com/world/us-china-talks-trade-truce-ai-iran-rare-earths-in-focus-ahead-of-trump-xi-summit-article-14033536.html)
-- [സനൽ കുമാർ ശശിധരനെതിരെ മാനനഷ്ടക്കേസുമായി മഞ്ജു വാര്യർ, അപകീർത്തികരമായ പോസ്റ്റുകൾ പിൻവലിക്കണം](https://www.asianetnews.com/kerala-news/manju-warrier-files-defamation-case-against-director-sanal-kumar-sasidharan-articleshow-6y06vag)
-- [এবার হুমায়ুন কবীরের বাড়ি পৌঁছে গেল পুলিশ, রেজিনগরে উপনির্বাচনের আগেই ধাক্কা AJUP-এর](https://bengali.abplive.com/district/rejinagar-by-election-2026-baharampur-ps-summons-ajup-chief-hymayun-kabir-over-audio-clip-incident-1193437)
-- [தலைமை செயலகம் முன்பு 24-ந்தேதி முற்றுகைப் போராட்டம் - விவசாய சங்கங்கள் அறிவிப்பு](https://www.dailythanthi.com/news/tamilnadu/farmers-associations-announce-a-siege-protest-in-front-of-the-secretariat-on-the-24th)
+- [In 2023, NASA’s orbiting 3D printer made a human knee meniscus, one of the first human tissue structures successfully bioprinted in space](https://timesofindia.indiatimes.com/science/in-2023-nasas-orbiting-3d-printer-made-a-human-knee-meniscus-one-of-the-first-human-tissue-structures-successfully-bioprinted-in-space/articleshow/134328836.cms)
+- [சென்னை விமான நிலைய நிர்வாக மாற்றம்: விஜயின் கடிதம்](https://www.tamilmurasu.com.sg/tamilnadu/chief-minister-vijay-writes-prime-minister-modi-requesting-change-chennai-airport-administration)
+- [சென்னை விமான நிலைய நிர்வாக மாற்றம்: விஜயின் கடிதம்](https://www.tamilmurasu.com.sg/tamilnadu/chief-minister-vijay-writes-prime-minister-modi-requesting-change-chennai-airport-administration?ref=tamilnadu)
+- [இந்தியாவுக்கு வரி ஆபத்து](https://www.tamilmurasu.com.sg/india/trump-signs-law-sanctioning-russia-100-tax-likely-india?ref=india)
+- [Burden Of Carbon Emissions Unfairly Put On Developing Countries : PM Modi](https://www.livelaw.in/top-stories/burden-of-carbon-emissions-unfairly-put-on-developing-countries-pm-modi-550870)
+- [નીચભંગ રાજયોગ: નીચનો મંગળ કરશે મોટી ઉથલપાથલ! આ 6 રાશિઓનું ભાગ્ય ચમકશે](https://gujarati.abplive.com/astro/mars-transit-cancer-neechbhang-rajyog-impact-world-war-share-market-991571)
+- [ഐഐടി വിദ്യാർഥിയുടെ മരണം: മകൻ മാനസിക പീഡനം നേരിട്ടതായി കുടുംബം; ജാതീയ അധിക്ഷേപമുണ്ടായെന്ന് പിതാവ്](https://www.mathrubhumi.com/crime/news/iit-bombay-student-death-harassment-allegation-protests-2026-gy9ua250)
+- [DUSU Results 2026: ABVP wins 3 posts, NSUI rebel Deepanshu Shokeen bags vice-president seat](https://timesofindia.indiatimes.com/city/delhi/dusu-results-2026-abvp-wins-3-posts-nsui-rebel-deepanshu-shokeen-bags-vice-president-seat/articleshow/134352850.cms)
+- [ஐரோப்பிய திருஅவையின் எதிர்காலம் குறித்து ஒன்றிணைந்த பயண மாநாட்டில் ஆலோசனை](https://www.vaticannews.va/ta/church/news/2026-09/european-synodality-conference-highlights-baptism-listening-and.html)
+- [H-1B visa fee | హెచ్‌-1బీ వీసా ఫీజు విష‌యంలో డొనాల్డ్ ట్రంప్ మరింత‌ క‌ఠిన వైఖ‌రి..!](https://www.ntnews.com/international/trump-extends-100000-dallors-h-1b-visa-fee-what-it-means-for-indian-workers-2514732)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
