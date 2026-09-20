@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20 16:34:33",
+  "generated_at": "2026-09-20 17:01:45",
   "google_trends": [
     {
       "title": "man utd",
@@ -7,7 +7,7 @@
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "atletico madrid",
+      "title": "atl\u00e9tico madrid vs real madrid",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
@@ -67,16 +67,20 @@
         "link": "https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms"
       },
       {
+        "title": "Healthcare goes digital: When doctors go behind the app wall, who gets left behind?",
+        "link": "https://timesofindia.indiatimes.com/india/healthcare-goes-digital-when-doctors-go-behind-the-app-wall-who-gets-left-behind/articleshow/134369357.cms"
+      },
+      {
         "title": "China's 13-year-old swimmer breaks Asian Games record, wins 200m butterfly gold",
         "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/chinas-13-year-old-swimmer-yu-zidi-clocks-205-08-to-break-asian-games-record-wins-200m-butterfly-gold-she-also-became-youngest-medallist-in-world-championships-swimming-history-in-2025/articleshow/134366162.cms"
       },
       {
-        "title": "Why Alberta wants out of Canada and how Trump\u2019s \u201851st state\u2019 idea fits in",
-        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/alberta-independence-explained-why-canadas-oil-province-wants-out-and-where-trump-fits-in/articleshow/134368208.cms"
-      },
-      {
         "title": "Self-flying aircraft completes first ever flight across US, company honours Wright Brothers",
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/from-self-driving-cars-to-self-flying-planes-autonomous-aircraft-completes-first-ever-flight-across-america-honours-wright-brothers/articleshow/134367411.cms"
+      },
+      {
+        "title": "Why Alberta wants out of Canada and how Trump\u2019s \u201851st state\u2019 idea fits in",
+        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/alberta-independence-explained-why-canadas-oil-province-wants-out-and-where-trump-fits-in/articleshow/134368208.cms"
       },
       {
         "title": "'Condition was not met': Tata Trusts challenges Chandrasekaran reappointment resolution",
@@ -89,10 +93,6 @@
       {
         "title": "Hockey India's 'blue' promise goes up in smoke; Indian teams wear saffron at Asiad",
         "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/hockey-indias-blue-promise-goes-up-in-smoke-as-indian-hockey-teams-wear-saffron-at-asian-games/articleshow/134370060.cms"
-      },
-      {
-        "title": "Healthcare goes digital: When doctors go behind the app wall, who gets left behind?",
-        "link": "https://timesofindia.indiatimes.com/india/healthcare-goes-digital-when-doctors-go-behind-the-app-wall-who-gets-left-behind/articleshow/134369357.cms"
       }
     ],
     "NDTV": [
@@ -223,44 +223,44 @@
     ],
     "The Hindu": [
       {
+        "title": "BJP leaders slam mimicry of PM at Rahul Gandhi\u2019s student event",
+        "link": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-leaders-slam-mimicry-of-pm-at-rahul-gandhis-student-event/article71488585.ece"
+      },
+      {
+        "title": "Kurmis to be kept out of UCC, says West Bengal CM; promises to withdraw old cases",
+        "link": "https://www.thehindu.com/news/national/west-bengal/kurmis-to-be-kept-out-of-ucc-says-west-bengal-cm-promises-to-withdraw-old-cases/article71488562.ece"
+      },
+      {
+        "title": "IPS officers Kanthi Rana Tata, Vishal Gunni get postings after revocation of suspension",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/ips-officers-kanthi-rana-tata-vishal-gunni-get-postings-after-revocation-of-suspension/article71488856.ece"
+      },
+      {
+        "title": "India needs multi-partisan approach for next level of development, says Manish Tewari",
+        "link": "https://www.thehindu.com/news/national/india-needs-multi-partisan-approach-for-next-level-of-development-says-manish-tewari/article71487949.ece"
+      },
+      {
+        "title": "ABVP\u2019s DUSU win shows youth back \u2018Nation First\u2019 politics: BJP",
+        "link": "https://www.thehindu.com/news/cities/Delhi//article71485542.ece"
+      },
+      {
+        "title": "Nearly 300 participate in district-level Yogasana championship in Visakhapatnam",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/nearly-300-participate-in-district-level-yogasana-championship-in-visakhapatnam/article71488481.ece"
+      },
+      {
+        "title": "Supreme Court wants law to safeguard multi-crore court deposits",
+        "link": "https://www.thehindu.com/news/national/supreme-court-wants-law-to-safeguard-multi-crore-court-deposits/article71488444.ece"
+      },
+      {
+        "title": "JAC marks 2,000 days of protest against Vizag steel plant privatisation",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/jac-marks-2000-days-of-protest-against-vizag-steel-plant-privatisation/article71488505.ece"
+      },
+      {
         "title": "Eye screening camp held for retired defence personnel",
         "link": "https://www.thehindu.com/news/national/andhra-pradesh/eye-screening-camp-held-for-retired-defence-personnel/article71488557.ece"
       },
       {
         "title": "Keralam doctors selected to present research at UICC World Cancer Congress in Hong Kong",
         "link": "https://www.thehindu.com/news/national/kerala/keralam-doctors-selected-to-present-research-at-uicc-world-cancer-congress-in-hong-kong/article71488687.ece"
-      },
-      {
-        "title": "Woman killed, husband and daughter injured as lorry hits motorcycle on Yellandu-Kothagudem main road",
-        "link": "https://www.thehindu.com/news/national/telangana/woman-killed-husband-and-daughter-injured-as-lorry-hits-motorcycle-on-yellandu-kothagudem-main-road/article71488829.ece"
-      },
-      {
-        "title": "Stomach pain leads to discovery of teenager\u2019s pregnancy; man held under POCSO",
-        "link": "https://www.thehindu.com/news/national/kerala/stomach-pain-leads-to-discovery-of-teenagers-pregnancy-man-held-under-pocso/article71488381.ece"
-      },
-      {
-        "title": "Congress team visits Janwada farmhouse, alleges violations and benami ownership",
-        "link": "https://www.thehindu.com/news/national/telangana/congress-team-visits-janwada-farmhouse-alleges-violations-and-benami-ownership/article71485578.ece"
-      },
-      {
-        "title": "Boating to boost tourism at Peruvannamuzhi",
-        "link": "https://www.thehindu.com/news/national/kerala/boating-to-boost-tourism-at-peruvannamuzhi/article71487538.ece"
-      },
-      {
-        "title": "Allotment letters for affordable flats in Hyderabad from Sept 21; Foundation stone for tower over 2.85 acre land in Raidurg",
-        "link": "https://www.thehindu.com/news/cities/Hyderabad/allotment-letters-for-affordable-flats-in-hyderabad-from-sept-21-foundation-stone-for-tower-over-285-acre-land-in-raidurg/article71488530.ece"
-      },
-      {
-        "title": "Four-year-old girl dies after accidentally getting locked inside car",
-        "link": "https://www.thehindu.com/news/national/telangana/four-year-old-girl-dies-after-accidentally-getting-locked-inside-car/article71488762.ece"
-      },
-      {
-        "title": "151 statues of Ambedkar were vandalised in U.P. under the BJP: Akhilesh Yadav",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/151-statues-of-ambedkar-were-vandalised-in-up-under-the-bjp-akhilesh-yadav/article71488451.ece"
-      },
-      {
-        "title": "Tata Trusts denies any deadlock at September 17 Board meeting, disputes casting vote mandate",
-        "link": "https://www.thehindu.com/business/Industry/tata-trusts-rejects-tata-sons-boards-reappointment-of-chandrasekaran-declares-vote-void-ab-initio/article71487711.ece"
       }
     ],
     "Livemint": [
@@ -349,6 +349,18 @@
     ],
     "Vartha Bharati": [
       {
+        "title": "\u0c97\u0c82\u0c97\u0cbe\u0cb5\u0ca4\u0cbf | \u0c97\u0ca3\u0cc7\u0cb6 \u0cae\u0cc2\u0cb0\u0ccd\u0ca4\u0cbf \u0cac\u0cb3\u0cbf \u0cae\u0cb2\u0c97\u0cbf\u0ca6\u0ccd\u0ca6 \u0cac\u0cbe\u0cb2\u0c95\u0ca8\u0ca8\u0ccd\u0ca8\u0cc1 \u0cac\u0cc6\u0c82\u0c95\u0cbf \u0cb9\u0c9a\u0ccd\u0c9a\u0cbf \u0c95\u0cca\u0cb2\u0cc6 \u0caf\u0ca4\u0ccd\u0ca8: \u0cac\u0cbe\u0cb2\u0c95\u0ca8 \u0cb8\u0ccd\u0ca5\u0cbf\u0ca4\u0cbf \u0c9a\u0cbf\u0c82\u0ca4\u0cbe\u0c9c\u0ca8\u0c95; \u0c86\u0cb0\u0ccb\u0caa\u0cbf\u0caf \u0cac\u0c82\u0ca7\u0ca8",
+        "link": "https://www.varthabharati.in/koppala/gangavati-a-boy-who-was-sleeping-near-ganesha-idol-was-set-on-fire-2276649"
+      },
+      {
+        "title": "\u0c95\u0caa\u0cbf\u0cb2\u0ccd \u0cb8\u0cbf\u0cac\u0cb2\u0ccd \u0cb0\u0cbf\u0c97\u0cc2 \u0cac\u0c82\u0ca4\u0cc1 SIR \u0ca8\u0ccb\u0c9f\u0cc0\u0cb8\u0ccd! \u0cb8\u0cbf\u0c82\u0ca7\u0cc1\u0cb5\u0cbe\u0ca6 \u0cae\u0ca4\u0c97\u0cb3 \u2018\u0cb5\u0cbf\u0cb6\u0cc7\u0cb7 \u0cb8\u0cae\u0c97\u0ccd\u0cb0 \u0ca4\u0cc6\u0c97\u0cc6\u0ca6\u0cc1 \u0cb9\u0cbe\u0c95\u0cc1\u0cb5\u0cbf\u0c95\u0cc6\u2019: EC \u0cb5\u0cbf\u0cb0\u0cc1\u0ca6\u0ccd\u0ca7 \u0cb8\u0cbf\u0cac\u0cb2\u0ccd \u0cb5\u0cbe\u0c97\u0ccd\u0ca6\u0cbe\u0cb3\u0cbf",
+        "link": "https://www.varthabharati.in/National/kapil-sibal-lashes-out-at-the-sir-following-the-ec-notice-regarding-the-special-comprehensive-deletion-of-valid-votes-2276648"
+      },
+      {
+        "title": "Mumbai | BMW \u0c95\u0cbe\u0cb0\u0cc1 \u0c85\u0caa\u0c98\u0cbe\u0ca4; \u0cae\u0cc2\u0cb5\u0cb0\u0cc1 \u0cae\u0cc3\u0ca4\u0ccd\u0caf\u0cc1, \u0c93\u0cb0\u0ccd\u0cb5 \u0c9a\u0cbf\u0c82\u0ca4\u0cbe\u0c9c\u0ca8\u0c95",
+        "link": "https://www.varthabharati.in/National/mumbai-bmw-car-accident-three-dead-one-in-critical-condition-2276647"
+      },
+      {
         "title": "\u0cb9\u0cbf\u0cb0\u0cbf\u0caf \u0caa\u0ca4\u0ccd\u0cb0\u0c95\u0cb0\u0ccd\u0ca4\u0cc6 \u0caa\u0cbe\u0caf\u0cb2\u0ccd \u0cae\u0cc6\u0cb9\u0ccd\u0ca4\u0cbe \u0ca8\u0cbf\u0ca7\u0ca8",
         "link": "https://www.varthabharati.in/National/senior-journalist-payal-mehta-passes-away-2276644"
       },
@@ -375,18 +387,6 @@
       {
         "title": "\u0cb5\u0cbf\u0c9f\u0ccd\u0cb2: \u0caf\u0cc1\u0cb5\u0ca4\u0cbf\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0cac\u0cc6\u0ca6\u0cb0\u0cbf\u0cb8\u0cbf \u0c9a\u0cbf\u0ca8\u0ccd\u0ca8\u0cbe\u0cad\u0cb0\u0ca3 \u0ca6\u0ccb\u0c9a\u0cbf\u0ca6 \u0c86\u0cb0\u0ccb\u0caa; \u0caa\u0ccd\u0cb0\u0c95\u0cb0\u0ca3 \u0ca6\u0cbe\u0c96\u0cb2\u0cc1",
         "link": "https://www.varthabharati.in/DakshinaKannada/vitla-gold-ornaments-extorted-from-young-woman-by-threatening-her-case-registered-2276638"
-      },
-      {
-        "title": "Asian Games Hockey | \u0c8e\u0c82\u0c9f\u0cc1 \u0c97\u0ccb\u0cb2\u0cc1 \u0c97\u0cb3\u0cbf\u0cb8\u0cbf\u0ca6 \u0ca6\u0cc0\u0caa\u0cbf\u0c95\u0cbe; \u0c89\u0c9c\u0ccd\u0cac\u0cc7\u0c95\u0cbf\u0cb8\u0ccd\u0ca4\u0cbe\u0ca8 \u0ca4\u0c82\u0ca1\u0ca6 \u0cb5\u0cbf\u0cb0\u0cc1\u0ca6\u0ccd\u0ca7 \u0cad\u0cbe\u0cb0\u0ca4\u0c95\u0ccd\u0c95\u0cc6 \u0cad\u0cb0\u0ccd\u0c9c\u0cb0\u0cbf \u0c9c\u0caf",
-        "link": "https://www.varthabharati.in/sports/deepika-scores-eight-goals-as-india-secures-a-massive-victory-against-uzbekistan-2276637"
-      },
-      {
-        "title": "\u0c95\u0cc7\u0cb0\u0ccd \u0c9a\u0cbe\u0cb0\u0cbf\u0c9f\u0cc7\u0cac\u0cb2\u0ccd \u0c9f\u0ccd\u0cb0\u0cb8\u0ccd\u0c9f\u0ccd\u200c\u0ca8\u0cbf\u0c82\u0ca6 \u0cb5\u0cbe\u0cb2\u0ccd\u0caa\u0cbe\u0ca1\u0cbf\u0caf \u0cac\u0ca1 \u0c95\u0cc1\u0c9f\u0cc1\u0c82\u0cac\u0c95\u0ccd\u0c95\u0cc6 \u2018\u0cb8\u0c82\u0c97\u0cbe\u0ca4\u0ccd\u2019 \u0cae\u0ca8\u0cc6 \u0cb9\u0cb8\u0ccd\u0ca4\u0cbe\u0c82\u0ca4\u0cb0",
-        "link": "https://www.varthabharati.in/DakshinaKannada/--2276636"
-      },
-      {
-        "title": "\u0cb8\u0cbe\u0cb9\u0cbf\u0ca4\u0ccd\u0caf \u0c8e\u0ca8\u0ccd\u0ca8\u0cc1\u0cb5\u0cc1\u0ca6\u0cc1 \u0cac\u0cb0\u0cbf \u0c85\u0c95\u0ccd\u0cb7\u0cb0\u0c97\u0cb3 \u0cb8\u0cae\u0ccd\u0cae\u0cbf\u0cb2\u0ca8\u0cb5\u0cb2\u0ccd\u0cb2 \u0c9c\u0cc0\u0cb5\u0cb8\u0cc6\u0cb2\u0cc6 : \u0caa\u0ccd\u0cb0\u0cca.\u0c8e\u0c82.\u0ca1\u0cbf. \u0cae\u0c82\u0c9a\u0cbf",
-        "link": "https://www.varthabharati.in/DakshinaKannada/--2276635"
       }
     ]
   },
@@ -416,6 +416,10 @@
       "score": 3.0
     },
     {
+      "term": "Mumbai",
+      "score": 2.9
+    },
+    {
       "term": "What",
       "score": 2.6
     },
@@ -424,12 +428,8 @@
       "score": 2.6
     },
     {
-      "term": "Congress",
+      "term": "India",
       "score": 2.6
-    },
-    {
-      "term": "Tata Trusts",
-      "score": 2
     },
     {
       "term": "Buy Bajaj Finance",
@@ -444,55 +444,55 @@
       "score": 1.6
     },
     {
-      "term": "Woman",
+      "term": "China",
       "score": 1.6
     },
     {
-      "term": "Mumbai",
+      "term": "Bengal",
       "score": 1.6
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u0915\u091f\u0930\u0940\u0928\u093e \u0915\u0940 \u092c\u0939\u0928 \u0915\u094b \u0921\u0947\u091f \u0915\u0930 \u0930\u0939\u0947 \u0935\u093f\u0915\u094d\u0915\u0940 \u0915\u094c\u0936\u0932 \u0915\u0947 \u092d\u093e\u0908 \u0938\u0928\u0940? \u0924\u0938\u094d\u0935\u0940\u0930\u094b\u0902 \u092e\u0947\u0902 \u091b\u093f\u092a\u093e \u092c\u0921\u093c\u093e \u0939\u093f\u0902\u091f",
-      "link": "https://www.aajtak.in/entertainment/news/story/is-suuny-kaushal-dating-katrina-kaif-sister-isabelle-here-is-evidence-tmov-dskc-2647190-2026-09-20"
+      "title": "Car accident | \u0c15\u0c3e\u0c30\u0c41 \u0c22\u0c40\u0c15\u0c4a\u0c28\u0c3f \u0c2e\u0c42\u0c21\u0c47\u0c33\u0c4d\u0c32 \u0c2c\u0c3e\u0c32\u0c41\u0c21\u0c41 \u0c2e\u0c43\u0c24\u0c3f",
+      "link": "https://www.ntnews.com/news/three-year-old-boy-dies-after-being-hit-by-car-in-santosh-nagar-2515292"
     },
     {
-      "title": "\u092e\u092e\u094d\u092e\u0940-\u0921\u0948\u0921\u0940 \u092d\u0940 \u0939\u094b\u0902\u0917\u0947 \u0916\u0941\u0936! 36KM \u092e\u093e\u0907\u0932\u0947\u091c... CNG \u0911\u091f\u094b\u092e\u0947\u091f\u093f\u0915 \u0935\u093e\u0932\u0940 3 \u0915\u093e\u0930\u0947\u0902",
-      "link": "https://www.aajtak.in/visualstories/auto/maruti-baleno-swift-dzire-cng-automatic-family-cars-price-mileage-auaw-285874-20-09-2026"
+      "title": "Mumbai Accident Costal Road : \u092e\u0941\u0902\u092c\u0908\u091a\u094d\u092f\u093e \u0915\u094b\u0938\u094d\u091f\u0932 \u0930\u094b\u0921\u0935\u0930\u0941\u0928 \u0917\u0941\u091c\u0930\u093e\u0924\u091a\u0940 \u092d\u0930\u0927\u093e\u0935 BMW \u0915\u093e\u0930 50 \u092b\u0942\u091f \u0916\u093e\u0932\u0940 \u0915\u094b\u0938\u0933\u0932\u0940, \u0917\u093e\u0921\u0940\u091a\u093e \u091a\u0947\u0902\u0926\u093e\u092e\u0947\u0902\u0926\u093e, \u092d\u0940\u0937\u0923 \u0905\u092a\u0918\u093e\u0924\u093e\u0924 \u0924\u093f\u0918\u093e\u0902\u091a\u093e \u092e\u0943\u0924\u094d\u092f\u0942",
+      "link": "https://marathi.abplive.com/news/mumbai/mumbai-costal-road-accident-bmw-car-fall-down-from-flyover-50-feet-down-3-ahmedabad-youths-died-1-girl-injured-near-haji-ali-marathi-news-1439654"
     },
     {
-      "title": "India vs Uzbekistan Highlights, Asian Games 2026 Women's hockey: Deepika scores eight as IND beats UZB 19-0",
-      "link": "https://sportstar.thehindu.com/asian-games/news/india-vs-uzbekistan-hockey-live-score-asian-games-2026-group-stage-match-updates-highlights/article71486936.ece"
+      "title": "\u0c05\u0c36\u0c4d\u0c32\u0c40\u0c32\u0c02\u0c2a\u0c48 \u0c28\u0c3f\u0c18\u0c3e \u0c28\u0c40\u0c21 - \u0c2c\u0c4d\u0c30\u0c4c\u0c1c\u0c3f\u0c02\u0c17\u0c4d\u200c \u0c39\u0c3f\u0c38\u0c4d\u0c1f\u0c30\u0c40 \u0c21\u0c3f\u0c32\u0c40\u0c1f\u0c4d\u200c \u0c1a\u0c47\u0c38\u0c3f\u0c28\u0c3e \u0c26\u0c4a\u0c30\u0c3f\u0c15\u0c3f\u0c2a\u0c4b\u0c24\u0c3e\u0c30\u0c41!\u200b",
+      "link": "https://www.etvbharat.com/te/state/us-technology-is-instantly-detecting-those-watching-indecent-videos-of-children-online-tgs26092000596"
     },
     {
-      "title": "'\u0926\u0932\u0926\u0932\u0940\u0924\u0942\u0928 \u092c\u093e\u0939\u0947\u0930 \u092a\u0921\u093e...'; \u0907\u0930\u093e\u0923\u091a\u094d\u092f\u093e \u0905\u092e\u0947\u0930\u093f\u0915\u0947\u0938\u092e\u094b\u0930 \u096d \u0905\u091f\u0940!",
-      "link": "https://www.loksatta.com/desh-videsh/iran-7-conditions-us-talks-end-war-quagmire-trump-sgk-96-6145625/"
+      "title": "Incredible to watch capability ISRO is developing in science missions: Indian-American NASA senior official",
+      "link": "https://telanganatoday.com/incredible-to-watch-capability-isro-is-developing-in-science-missions-indian-american-nasa-senior-official"
     },
     {
-      "title": "Mumbai Accident: \u092e\u0941\u0902\u092c\u0908\u091a\u094d\u092f\u093e \u0915\u094b\u0938\u094d\u091f\u0932 \u0930\u094b\u0921\u0935\u0930 \u092d\u0930\u0927\u093e\u0935 \u0915\u093e\u0930\u0928\u0947 \u091a\u094c\u0918\u093e\u0902\u0928\u093e \u0909\u0921\u0935\u0932\u0947; \u0924\u0940\u0928 \u091c\u0923\u093e\u0902\u091a\u093e \u092e\u0943\u0924\u094d\u092f\u0942, \u090f\u0915\u093e\u091a\u0940 \u092a\u094d\u0930\u0915\u0943\u0924\u0940 \u091a\u093f\u0902\u0924\u093e\u091c\u0928\u0915",
-      "link": "https://www.lokmat.com/mumbai/mumbai-accident-three-people-were-killed-and-one-critically-injured-after-bmw-crashed-on-the-mumbai-coastal-road-a-a747/"
+      "title": "Soybean Crop Damage : \u0936\u0947\u0902\u0917\u093e \u0928 \u0932\u093e\u0917\u0932\u094d\u092f\u093e\u0928\u0947 \u0968 \u090f\u0915\u0930 \u0938\u094b\u092f\u093e\u092c\u0940\u0928 \u091c\u0928\u093e\u0935\u0930\u093e\u0902\u091a\u094d\u092f\u093e \u0939\u0935\u093e\u0932\u0940",
+      "link": "https://pudhari.news/maharashtra/marathwada/chhatrapati-sambhajinagar/two-acres-of-soybean-crop-handed-over-to-livestock-due-to-failure-to-set-pods-np88"
     },
     {
-      "title": "\u092c\u093f\u0917 \u092c\u0949\u0938 \u092e\u0947\u0902 \u0932\u094c\u091f\u093e \u0938\u0932\u092e\u093e\u0928 \u0915\u093e '\u0926\u092c\u0902\u0917' \u0905\u0902\u0926\u093e\u091c, \u091f\u094d\u0930\u094b\u0932\u094d\u0938 \u092a\u0930 \u092d\u0921\u093c\u0915\u0947-\u0909\u0924\u093e\u0930\u0940 \u0936\u0930\u094d\u091f, \u092b\u0948\u0902\u0938 \u0915\u0940 \u0936\u093f\u0915\u093e\u092f\u0924 \u0939\u0941\u0908 \u0926\u0942\u0930!",
-      "link": "https://www.aajtak.in/entertainment/television/story/bigg-boss-20-weekend-ka-vaar-episode-13-recap-salman-khan-trolls-paparazzi-tmovj-dskc-2647770-2026-09-20"
+      "title": "\u0b86\u0ba4\u0bbe\u0bb0\u0bcd '\u0baa\u0baf\u0bcb \u0bae\u0bc6\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd' \u0baa\u0ba4\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bbe\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0b95\u0bcd. 1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bbe\u0ba9\u0bbf\u0baf \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbe\u0ba4\u0bc1 - \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0bb0\u0b9a\u0bc1",
+      "link": "https://www.etvbharat.com/ta/business/lpg-subsidy-aadhaar-biometric-authentication-mandatory-from-oct-1-for-subsidised-refills-tns26092000399"
     },
     {
-      "title": "Chiranjeevi: \u0c25\u0c3f\u0c2f\u0c47\u0c1f\u0c30\u0c4d \u0c2c\u0c3f\u0c1c\u0c3f\u0c28\u0c46\u0c38\u0c4d\u200c\u0c32\u0c4b \u0c2e\u0c46\u0c17\u0c3e\u0c38\u0c4d\u0c1f\u0c3e\u0c30\u0c4d \u0c17\u0c4d\u0c30\u0c3e\u0c02\u0c21\u0c4d \u0c0e\u0c02\u0c1f\u0c4d\u0c30\u0c40... \u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d\u200c\u0c32\u0c4b \u0c35\u0c30\u0c32\u0c4d\u0c21\u0c4d \u0c32\u0c3e\u0c30\u0c4d\u0c1c\u0c46\u0c38\u0c4d\u0c1f\u0c4d \u0c38\u0c4d\u0c15\u0c4d\u0c30\u0c40\u0c28\u0c4d \u0c0f\u0c30\u0c4d\u0c2a\u0c3e\u0c1f\u0c41\u0c15\u0c41 \u0c30\u0c46\u0c21\u0c40",
-      "link": "https://telugu.abplive.com/entertainment/cinema/chiranjeevi-to-build-worlds-largest-screen-in-hyderabad-megastar-grand-entry-into-theater-business-with-asian-cinemas-259410"
+      "title": "Khammam Doctor Charred To Death After Car Hits Divider",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/car-catches-fire-on-suryapet-khammam-highway-man-charred-to-death-1988941"
     },
     {
-      "title": "Vijay Vadettiwar: \u0924\u0947 \u0915\u0902\u0924\u094d\u0930\u093e\u091f \u0930\u0926\u094d\u0926 \u091d\u093e\u0932\u094d\u092f\u093e\u0928\u0947\u091a \u092a\u0947\u091f\u0932\u0947 \u0906\u0902\u0926\u094b\u0932\u0928, \u0935\u093f\u091c\u092f \u0935\u0921\u0947\u091f\u094d\u091f\u0940\u0935\u093e\u0930 \u092f\u093e\u0902\u091a\u093e \u092e\u0928\u094b\u091c \u091c\u0930\u093e\u0902\u0917\u0947\u0902\u0935\u0930 \u0917\u0902\u092d\u0940\u0930 \u0906\u0930\u094b\u092a",
-      "link": "https://www.tv9marathi.com/maharashtra/nagpur/vijay-vadettiwar-big-allegation-on-manoj-jarange-agitation-due-to-the-cancellation-of-the-irrigation-department-contract-jarange-angry-vijay-vadettiwar-makes-a-serious-allegation-1760085.html"
+      "title": "Breaking News : Asian Games 2026\u0aae\u0abe\u0a82 \u0a9f\u0ac7\u0a95\u0aac\u0acb\u0ab2 \u0a9a\u0ab0\u0acd\u0a9a\u0abe\u0aa8\u0acb \u0ab5\u0abf\u0ab7\u0aaf \u0aac\u0aa8\u0acd\u0aaf\u0acb, \u0a87\u0aa4\u0abf\u0ab9\u0abe\u0ab8 \u0a85\u0aa8\u0ac7 \u0aa8\u0abf\u0aaf\u0aae\u0acb \u0ab5\u0abf\u0ab6\u0ac7 \u0a9c\u0abe\u0aa3\u0acb",
+      "link": "https://tv9gujarati.com/sports/other-sports/breaking-news-asian-games-2026-teqball-entry-1517980.html"
     },
     {
-      "title": "\u0921\u0940\u092f\u0942 \u091b\u093e\u0924\u094d\u0930\u0938\u0902\u0918 \u091a\u0941\u0928\u093e\u0935\u0903 \u0926\u0940\u092a\u093e\u0902\u0936\u0941 \u0936\u094c\u0915\u0940\u0928 \u0915\u094c\u0928 \u0939\u0948\u0902, \u091c\u093f\u0928\u094d\u0939\u094b\u0902\u0928\u0947 \u0928\u0902\u0917\u0947 \u092a\u0948\u0930 \u0924\u092f \u0915\u093f\u092f\u093e \u091c\u0940\u0924 \u0915\u093e \u0938\u092b\u093c\u0930",
-      "link": "https://www.bbc.com/hindi/articles/c3qjk8wn2ldjo"
+      "title": "\u2018Come on, troll me now\u2019: Salman Khan takes off T-shirt on Bigg Boss 20 to confront haters",
+      "link": "https://indianexpress.com/article/entertainment/bollywood/salman-khan-takes-off-t-shirt-on-bigg-boss-20-to-confront-haters-10885697/"
     },
     {
-      "title": "Salman Khan: \u09ac\u09bf\u0997 \u09ac\u09b8\u09c7\u09b0 \u09b8\u099e\u09cd\u099a\u09be\u09b2\u09a8\u09be \u0995\u09b0\u09a4\u09c7 \u0995\u09b0\u09a4\u09c7 \u09ae\u099e\u09cd\u099a\u09c7\u0987 \u09b9\u09a0\u09be\u09ce \u0985\u09b8\u09c1\u09b8\u09cd\u09a5 \u09b8\u09b2\u09ae\u09a8 \u0996\u09be\u09a8? \u0995\u09cd\u09af\u09be\u09ae\u09c7\u09b0\u09be\u09df \u09af\u09be \u09a7\u09b0\u09be \u09aa\u09a1\u09bc\u09b2..",
-      "link": "https://bengali.abplive.com/entertainment/salman-khan-apologises-after-bigg-boss-20-promo-of-him-faking-sickness-leaves-fans-worried-entertainment-news-bollywood-1193507"
+      "title": "\u092e\u0941\u0902\u092c\u0908 \u092e\u0947\u0902 \u0924\u0947\u091c \u0930\u092b\u094d\u0924\u093e\u0930 BMW \u0915\u093e\u0930 \u092c\u094d\u0930\u093f\u091c \u0938\u0947 \u0928\u0940\u091a\u0947 \u0917\u093f\u0930\u0940, CCTV \u092e\u0947\u0902 \u0926\u093f\u0916\u093e \u0926\u0930\u094d\u0926\u0928\u093e\u0915 \u0939\u093e\u0926\u0938\u093e, 3 \u092f\u0941\u0935\u0915\u094b\u0902 \u0915\u0940 \u092e\u094c\u0924, \u090f\u0915 \u0918\u093e\u092f\u0932",
+      "link": "https://www.indiatv.in/maharashtra/horrific-accident-involving-a-speeding-bmw-in-mumbai-2026-09-20-1244241"
     }
   ],
   "twitter": null

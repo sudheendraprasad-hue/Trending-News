@@ -1,8 +1,8 @@
-# India Trending Report — 2026-09-20 16:34:33
+# India Trending Report — 2026-09-20 17:01:45
 
 ## Google Trends (India) — top trending searches
 1. [man utd](https://trends.google.com/trending/rss?geo=IN)
-2. [atletico madrid](https://trends.google.com/trending/rss?geo=IN)
+2. [atlético madrid vs real madrid](https://trends.google.com/trending/rss?geo=IN)
 3. [laliga](https://trends.google.com/trending/rss?geo=IN)
 4. [brian brobbey](https://trends.google.com/trending/rss?geo=IN)
 5. [spider man brand new day](https://trends.google.com/trending/rss?geo=IN)
@@ -17,13 +17,13 @@
 - [MAGA brown-out: For Indian Trump acolytes, citizenship comes with an asterisk](https://timesofindia.indiatimes.com/world/us/maga-brown-out-for-indian-trump-acolytes-citizenship-comes-with-an-asterisk/articleshow/134370837.cms)
 - [Landslide, flash flood kill 3 in Kerala amid heavy rain alert - video](https://timesofindia.indiatimes.com/city/kochi/3-dead-after-landslide-hits-keralas-idukki/articleshow/134371135.cms)
 - [Amit Shah wants UCC in all NDA states by 2029. What will JD(U) do in Bihar?](https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms)
+- [Healthcare goes digital: When doctors go behind the app wall, who gets left behind?](https://timesofindia.indiatimes.com/india/healthcare-goes-digital-when-doctors-go-behind-the-app-wall-who-gets-left-behind/articleshow/134369357.cms)
 - [China's 13-year-old swimmer breaks Asian Games record, wins 200m butterfly gold](https://timesofindia.indiatimes.com/sports/asian-games-2026/chinas-13-year-old-swimmer-yu-zidi-clocks-205-08-to-break-asian-games-record-wins-200m-butterfly-gold-she-also-became-youngest-medallist-in-world-championships-swimming-history-in-2025/articleshow/134366162.cms)
-- [Why Alberta wants out of Canada and how Trump’s ‘51st state’ idea fits in](https://timesofindia.indiatimes.com/world/rest-of-world/alberta-independence-explained-why-canadas-oil-province-wants-out-and-where-trump-fits-in/articleshow/134368208.cms)
 - [Self-flying aircraft completes first ever flight across US, company honours Wright Brothers](https://timesofindia.indiatimes.com/technology/tech-news/from-self-driving-cars-to-self-flying-planes-autonomous-aircraft-completes-first-ever-flight-across-america-honours-wright-brothers/articleshow/134367411.cms)
+- [Why Alberta wants out of Canada and how Trump’s ‘51st state’ idea fits in](https://timesofindia.indiatimes.com/world/rest-of-world/alberta-independence-explained-why-canadas-oil-province-wants-out-and-where-trump-fits-in/articleshow/134368208.cms)
 - ['Condition was not met': Tata Trusts challenges Chandrasekaran reappointment resolution](https://timesofindia.indiatimes.com/business/india-business/condition-was-not-met-tata-trusts-challenges-chandrasekaran-reappointment-resolution/articleshow/134370043.cms)
 - [‘People dying, yet crores spent on PM Modi’s birthday’: Tejashwi on Bihar floods](https://timesofindia.indiatimes.com/india/people-dying-in-bihar-floods-yet-crores-spent-on-pm-modis-birthday-tejashwi-yadav-slams-bjp/articleshow/134368867.cms)
 - [Hockey India's 'blue' promise goes up in smoke; Indian teams wear saffron at Asiad](https://timesofindia.indiatimes.com/sports/asian-games-2026/hockey-indias-blue-promise-goes-up-in-smoke-as-indian-hockey-teams-wear-saffron-at-asian-games/articleshow/134370060.cms)
-- [Healthcare goes digital: When doctors go behind the app wall, who gets left behind?](https://timesofindia.indiatimes.com/india/healthcare-goes-digital-when-doctors-go-behind-the-app-wall-who-gets-left-behind/articleshow/134369357.cms)
 
 **NDTV**
 - ['Runaway Board': Abhishek Singhvi Backs Tata Trusts' 'Shareholder Primacy'](https://www.ndtv.com/india-news/noel-tata-tata-despite-abhishek-singhvi-backs-tata-trusts-shareholder-primacy-calls-tata-sons-board-runaway-board-12073137#publisher=newsstand)
@@ -62,16 +62,16 @@
 - [`ಇಂಗ್ಲೆಂಡ್ ಗೇನು ಕಡಲೆಕಾಯಿ ಮಾರಲು ಬಂದಿದ್ದಿರಾ?': ಬಾಬರ್ ಆಝಂ ವಿರುದ್ಧ ವಸೀಂ ಅಕ್ರಂ ಕೆಂಡಾಮಂಡಲವಾದದ್ದೇಕೆ?](https://vijaykarnataka.com/sports/cricket/news/wasim-akram-lashes-out-at-babar-azam-have-you-come-to-england-to-sell-chickpeas/articleshow/134369605.cms)
 
 **The Hindu**
+- [BJP leaders slam mimicry of PM at Rahul Gandhi’s student event](https://www.thehindu.com/news/national/madhya-pradesh/bjp-leaders-slam-mimicry-of-pm-at-rahul-gandhis-student-event/article71488585.ece)
+- [Kurmis to be kept out of UCC, says West Bengal CM; promises to withdraw old cases](https://www.thehindu.com/news/national/west-bengal/kurmis-to-be-kept-out-of-ucc-says-west-bengal-cm-promises-to-withdraw-old-cases/article71488562.ece)
+- [IPS officers Kanthi Rana Tata, Vishal Gunni get postings after revocation of suspension](https://www.thehindu.com/news/national/andhra-pradesh/ips-officers-kanthi-rana-tata-vishal-gunni-get-postings-after-revocation-of-suspension/article71488856.ece)
+- [India needs multi-partisan approach for next level of development, says Manish Tewari](https://www.thehindu.com/news/national/india-needs-multi-partisan-approach-for-next-level-of-development-says-manish-tewari/article71487949.ece)
+- [ABVP’s DUSU win shows youth back ‘Nation First’ politics: BJP](https://www.thehindu.com/news/cities/Delhi//article71485542.ece)
+- [Nearly 300 participate in district-level Yogasana championship in Visakhapatnam](https://www.thehindu.com/news/national/andhra-pradesh/nearly-300-participate-in-district-level-yogasana-championship-in-visakhapatnam/article71488481.ece)
+- [Supreme Court wants law to safeguard multi-crore court deposits](https://www.thehindu.com/news/national/supreme-court-wants-law-to-safeguard-multi-crore-court-deposits/article71488444.ece)
+- [JAC marks 2,000 days of protest against Vizag steel plant privatisation](https://www.thehindu.com/news/national/andhra-pradesh/jac-marks-2000-days-of-protest-against-vizag-steel-plant-privatisation/article71488505.ece)
 - [Eye screening camp held for retired defence personnel](https://www.thehindu.com/news/national/andhra-pradesh/eye-screening-camp-held-for-retired-defence-personnel/article71488557.ece)
 - [Keralam doctors selected to present research at UICC World Cancer Congress in Hong Kong](https://www.thehindu.com/news/national/kerala/keralam-doctors-selected-to-present-research-at-uicc-world-cancer-congress-in-hong-kong/article71488687.ece)
-- [Woman killed, husband and daughter injured as lorry hits motorcycle on Yellandu-Kothagudem main road](https://www.thehindu.com/news/national/telangana/woman-killed-husband-and-daughter-injured-as-lorry-hits-motorcycle-on-yellandu-kothagudem-main-road/article71488829.ece)
-- [Stomach pain leads to discovery of teenager’s pregnancy; man held under POCSO](https://www.thehindu.com/news/national/kerala/stomach-pain-leads-to-discovery-of-teenagers-pregnancy-man-held-under-pocso/article71488381.ece)
-- [Congress team visits Janwada farmhouse, alleges violations and benami ownership](https://www.thehindu.com/news/national/telangana/congress-team-visits-janwada-farmhouse-alleges-violations-and-benami-ownership/article71485578.ece)
-- [Boating to boost tourism at Peruvannamuzhi](https://www.thehindu.com/news/national/kerala/boating-to-boost-tourism-at-peruvannamuzhi/article71487538.ece)
-- [Allotment letters for affordable flats in Hyderabad from Sept 21; Foundation stone for tower over 2.85 acre land in Raidurg](https://www.thehindu.com/news/cities/Hyderabad/allotment-letters-for-affordable-flats-in-hyderabad-from-sept-21-foundation-stone-for-tower-over-285-acre-land-in-raidurg/article71488530.ece)
-- [Four-year-old girl dies after accidentally getting locked inside car](https://www.thehindu.com/news/national/telangana/four-year-old-girl-dies-after-accidentally-getting-locked-inside-car/article71488762.ece)
-- [151 statues of Ambedkar were vandalised in U.P. under the BJP: Akhilesh Yadav](https://www.thehindu.com/news/national/uttar-pradesh/151-statues-of-ambedkar-were-vandalised-in-up-under-the-bjp-akhilesh-yadav/article71488451.ece)
-- [Tata Trusts denies any deadlock at September 17 Board meeting, disputes casting vote mandate](https://www.thehindu.com/business/Industry/tata-trusts-rejects-tata-sons-boards-reappointment-of-chandrasekaran-declares-vote-void-ab-initio/article71487711.ece)
 
 **Livemint**
 - [Trump signs Russia sanctions law, tariff threat looms over India, China: Can Africa become Putin’s next energy network?](https://www.livemint.com/news/world/trump-signs-russia-sanctions-law-tariff-threat-looms-over-india-china-can-africa-become-putin-s-next-energy-network-11789918545965.html)
@@ -98,6 +98,9 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಗಂಗಾವತಿ | ಗಣೇಶ ಮೂರ್ತಿ ಬಳಿ ಮಲಗಿದ್ದ ಬಾಲಕನನ್ನು ಬೆಂಕಿ ಹಚ್ಚಿ ಕೊಲೆ ಯತ್ನ: ಬಾಲಕನ ಸ್ಥಿತಿ ಚಿಂತಾಜನಕ; ಆರೋಪಿಯ ಬಂಧನ](https://www.varthabharati.in/koppala/gangavati-a-boy-who-was-sleeping-near-ganesha-idol-was-set-on-fire-2276649)
+- [ಕಪಿಲ್ ಸಿಬಲ್ ರಿಗೂ ಬಂತು SIR ನೋಟೀಸ್! ಸಿಂಧುವಾದ ಮತಗಳ ‘ವಿಶೇಷ ಸಮಗ್ರ ತೆಗೆದು ಹಾಕುವಿಕೆ’: EC ವಿರುದ್ಧ ಸಿಬಲ್ ವಾಗ್ದಾಳಿ](https://www.varthabharati.in/National/kapil-sibal-lashes-out-at-the-sir-following-the-ec-notice-regarding-the-special-comprehensive-deletion-of-valid-votes-2276648)
+- [Mumbai | BMW ಕಾರು ಅಪಘಾತ; ಮೂವರು ಮೃತ್ಯು, ಓರ್ವ ಚಿಂತಾಜನಕ](https://www.varthabharati.in/National/mumbai-bmw-car-accident-three-dead-one-in-critical-condition-2276647)
 - [ಹಿರಿಯ ಪತ್ರಕರ್ತೆ ಪಾಯಲ್ ಮೆಹ್ತಾ ನಿಧನ](https://www.varthabharati.in/National/senior-journalist-payal-mehta-passes-away-2276644)
 - [Bihar | ವಿಧಾನ ಪರಿಷತ್ ಚುನಾವಣೆ; 5 ಸ್ಥಾನಗಳಿಗೆ ಪ್ರಶಾಂತ್ ಕಿಶೋರ್ ರ ಪಕ್ಷದ ಅಭ್ಯರ್ಥಿಗಳ ಘೋಷಣೆ](https://www.varthabharati.in/National/jss-candidates-announced-for-5-bihar-legislative-council-seats-2276645)
 - [Mumbai | ಗಣೇಶ ಉತ್ಸವ ಪೆಂಡಾಲ್‌ ನಲ್ಲಿ ವಿದ್ಯುತ್ ಅವಘಡ; ಬಾಲಕಿ ಸಹಿತ ಇಬ್ಬರು ಮೃತ್ಯು, ನಾಲ್ವರಿಗೆ ಗಾಯ](https://www.varthabharati.in/National/mumbai-electrical-mishap-at-ganesh-festival-pandal-two-dead-including-a-girl-and-four-injured-2276643)
@@ -105,9 +108,6 @@
 - [ರಾಯಚೂರು ಜಿಲ್ಲಾ 12ನೇ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಸರ್ವಾಧ್ಯಕ್ಷರಾಗಿ ಹಿರಿಯ ಸಾಹಿತಿ ರಾಮಣ್ಣ ಹವಳೆ ಆಯ್ಕೆ](https://www.varthabharati.in/raichur/veteran-writer-ramanna-havale-elected-as-the-president-of-raichur-district-12th-kannada-sahitya-sammelan-2276641)
 - [ಬರ, ಕಸ್ತೂರಿ ರಂಗನ್ ವರದಿ ಕುರಿತು ಚರ್ಚೆ: ನಾಳೆಯಿಂದ(ಸೆ.21) ವಿಶೇಷ ಅಧಿವೇಶನ ಪ್ರಾರಂಭ](https://www.varthabharati.in/state/special-session-2276639)
 - [ವಿಟ್ಲ: ಯುವತಿಯನ್ನು ಬೆದರಿಸಿ ಚಿನ್ನಾಭರಣ ದೋಚಿದ ಆರೋಪ; ಪ್ರಕರಣ ದಾಖಲು](https://www.varthabharati.in/DakshinaKannada/vitla-gold-ornaments-extorted-from-young-woman-by-threatening-her-case-registered-2276638)
-- [Asian Games Hockey | ಎಂಟು ಗೋಲು ಗಳಿಸಿದ ದೀಪಿಕಾ; ಉಜ್ಬೇಕಿಸ್ತಾನ ತಂಡದ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ ಭರ್ಜರಿ ಜಯ](https://www.varthabharati.in/sports/deepika-scores-eight-goals-as-india-secures-a-massive-victory-against-uzbekistan-2276637)
-- [ಕೇರ್ ಚಾರಿಟೇಬಲ್ ಟ್ರಸ್ಟ್‌ನಿಂದ ವಾಲ್ಪಾಡಿಯ ಬಡ ಕುಟುಂಬಕ್ಕೆ ‘ಸಂಗಾತ್’ ಮನೆ ಹಸ್ತಾಂತರ](https://www.varthabharati.in/DakshinaKannada/--2276636)
-- [ಸಾಹಿತ್ಯ ಎನ್ನುವುದು ಬರಿ ಅಕ್ಷರಗಳ ಸಮ್ಮಿಲನವಲ್ಲ ಜೀವಸೆಲೆ : ಪ್ರೊ.ಎಂ.ಡಿ. ಮಂಚಿ](https://www.varthabharati.in/DakshinaKannada/--2276635)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
@@ -116,29 +116,29 @@
 - Indian (3.2)
 - ICICI Securities (3.0)
 - target (3.0)
+- Mumbai (2.9)
 - What (2.6)
 - Japan (2.6)
-- Congress (2.6)
-- Tata Trusts (2.0)
+- India (2.6)
 - Buy Bajaj Finance (2.0)
 - Jaishankar (1.6)
 - Karnataka (1.6)
-- Woman (1.6)
-- Mumbai (1.6)
+- China (1.6)
+- Bengal (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [कटरीना की बहन को डेट कर रहे विक्की कौशल के भाई सनी? तस्वीरों में छिपा बड़ा हिंट](https://www.aajtak.in/entertainment/news/story/is-suuny-kaushal-dating-katrina-kaif-sister-isabelle-here-is-evidence-tmov-dskc-2647190-2026-09-20)
-- [मम्मी-डैडी भी होंगे खुश! 36KM माइलेज... CNG ऑटोमेटिक वाली 3 कारें](https://www.aajtak.in/visualstories/auto/maruti-baleno-swift-dzire-cng-automatic-family-cars-price-mileage-auaw-285874-20-09-2026)
-- [India vs Uzbekistan Highlights, Asian Games 2026 Women's hockey: Deepika scores eight as IND beats UZB 19-0](https://sportstar.thehindu.com/asian-games/news/india-vs-uzbekistan-hockey-live-score-asian-games-2026-group-stage-match-updates-highlights/article71486936.ece)
-- ['दलदलीतून बाहेर पडा...'; इराणच्या अमेरिकेसमोर ७ अटी!](https://www.loksatta.com/desh-videsh/iran-7-conditions-us-talks-end-war-quagmire-trump-sgk-96-6145625/)
-- [Mumbai Accident: मुंबईच्या कोस्टल रोडवर भरधाव कारने चौघांना उडवले; तीन जणांचा मृत्यू, एकाची प्रकृती चिंताजनक](https://www.lokmat.com/mumbai/mumbai-accident-three-people-were-killed-and-one-critically-injured-after-bmw-crashed-on-the-mumbai-coastal-road-a-a747/)
-- [बिग बॉस में लौटा सलमान का 'दबंग' अंदाज, ट्रोल्स पर भड़के-उतारी शर्ट, फैंस की शिकायत हुई दूर!](https://www.aajtak.in/entertainment/television/story/bigg-boss-20-weekend-ka-vaar-episode-13-recap-salman-khan-trolls-paparazzi-tmovj-dskc-2647770-2026-09-20)
-- [Chiranjeevi: థియేటర్ బిజినెస్‌లో మెగాస్టార్ గ్రాండ్ ఎంట్రీ... హైదరాబాద్‌లో వరల్డ్ లార్జెస్ట్ స్క్రీన్ ఏర్పాటుకు రెడీ](https://telugu.abplive.com/entertainment/cinema/chiranjeevi-to-build-worlds-largest-screen-in-hyderabad-megastar-grand-entry-into-theater-business-with-asian-cinemas-259410)
-- [Vijay Vadettiwar: ते कंत्राट रद्द झाल्यानेच पेटले आंदोलन, विजय वडेट्टीवार यांचा मनोज जरांगेंवर गंभीर आरोप](https://www.tv9marathi.com/maharashtra/nagpur/vijay-vadettiwar-big-allegation-on-manoj-jarange-agitation-due-to-the-cancellation-of-the-irrigation-department-contract-jarange-angry-vijay-vadettiwar-makes-a-serious-allegation-1760085.html)
-- [डीयू छात्रसंघ चुनावः दीपांशु शौकीन कौन हैं, जिन्होंने नंगे पैर तय किया जीत का सफ़र](https://www.bbc.com/hindi/articles/c3qjk8wn2ldjo)
-- [Salman Khan: বিগ বসের সঞ্চালনা করতে করতে মঞ্চেই হঠাৎ অসুস্থ সলমন খান? ক্যামেরায় যা ধরা পড়ল..](https://bengali.abplive.com/entertainment/salman-khan-apologises-after-bigg-boss-20-promo-of-him-faking-sickness-leaves-fans-worried-entertainment-news-bollywood-1193507)
+- [Car accident | కారు ఢీకొని మూడేళ్ల బాలుడు మృతి](https://www.ntnews.com/news/three-year-old-boy-dies-after-being-hit-by-car-in-santosh-nagar-2515292)
+- [Mumbai Accident Costal Road : मुंबईच्या कोस्टल रोडवरुन गुजरातची भरधाव BMW कार 50 फूट खाली कोसळली, गाडीचा चेंदामेंदा, भीषण अपघातात तिघांचा मृत्यू](https://marathi.abplive.com/news/mumbai/mumbai-costal-road-accident-bmw-car-fall-down-from-flyover-50-feet-down-3-ahmedabad-youths-died-1-girl-injured-near-haji-ali-marathi-news-1439654)
+- [అశ్లీలంపై నిఘా నీడ - బ్రౌజింగ్‌ హిస్టరీ డిలీట్‌ చేసినా దొరికిపోతారు!​](https://www.etvbharat.com/te/state/us-technology-is-instantly-detecting-those-watching-indecent-videos-of-children-online-tgs26092000596)
+- [Incredible to watch capability ISRO is developing in science missions: Indian-American NASA senior official](https://telanganatoday.com/incredible-to-watch-capability-isro-is-developing-in-science-missions-indian-american-nasa-senior-official)
+- [Soybean Crop Damage : शेंगा न लागल्याने २ एकर सोयाबीन जनावरांच्या हवाली](https://pudhari.news/maharashtra/marathwada/chhatrapati-sambhajinagar/two-acres-of-soybean-crop-handed-over-to-livestock-due-to-failure-to-set-pods-np88)
+- [ஆதார் 'பயோ மெட்ரிக்' பதிவு செய்யாதவர்களுக்கு அக். 1 முதல் மானிய விலையில் சிலிண்டர் கிடையாது - மத்திய அரசு](https://www.etvbharat.com/ta/business/lpg-subsidy-aadhaar-biometric-authentication-mandatory-from-oct-1-for-subsidised-refills-tns26092000399)
+- [Khammam Doctor Charred To Death After Car Hits Divider](https://www.deccanchronicle.com/southern-states/telangana/car-catches-fire-on-suryapet-khammam-highway-man-charred-to-death-1988941)
+- [Breaking News : Asian Games 2026માં ટેકબોલ ચર્ચાનો વિષય બન્યો, ઇતિહાસ અને નિયમો વિશે જાણો](https://tv9gujarati.com/sports/other-sports/breaking-news-asian-games-2026-teqball-entry-1517980.html)
+- [‘Come on, troll me now’: Salman Khan takes off T-shirt on Bigg Boss 20 to confront haters](https://indianexpress.com/article/entertainment/bollywood/salman-khan-takes-off-t-shirt-on-bigg-boss-20-to-confront-haters-10885697/)
+- [मुंबई में तेज रफ्तार BMW कार ब्रिज से नीचे गिरी, CCTV में दिखा दर्दनाक हादसा, 3 युवकों की मौत, एक घायल](https://www.indiatv.in/maharashtra/horrific-accident-involving-a-speeding-bmw-in-mumbai-2026-09-20-1244241)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
