@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-20 01:33:48
+# India Trending Report — 2026-09-20 02:02:20
 
 ## Google Trends (India) — top trending searches
 1. [ufc](https://trends.google.com/trending/rss?geo=IN)
@@ -20,12 +20,13 @@
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
 - [In a first, abetment FIR filed against IIT-Bombay professor in 2nd-year student’s death](https://timesofindia.indiatimes.com/city/mumbai/in-a-first-abetment-fir-filed-against-iit-bombay-professor-in-second-year-students-death/articleshow/134359955.cms)
 - [PM Modi pushes back on West’s narrative over emissions](https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms)
+- [Olympiad: Erigaisi picks first win of tournament; India's winning juggernaut rolls on](https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-4-arjun-erigaisi-picks-first-win-of-tournament-indias-winning-juggernaut-rolls-on/articleshow/134362654.cms)
 - [US military says it struck suspected drug-trafficking vessel, 4 killed](https://timesofindia.indiatimes.com/weather/us/us-military-says-it-struck-suspected-drug-trafficking-vessel-4-killed/articleshow/134362508.cms)
 - [ASI Harjit Singh murdered: Key suspect shot dead in police encounter in Amritsar](https://timesofindia.indiatimes.com/city/chandigarh/asi-killing-key-suspect-shot-dead-in-police-encounter-in-amritsar/articleshow/134359728.cms)
-- [Saudi Arabia claims Houthis tried to attack its capital Riyadh with missiles](https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-claims-houthis-tried-to-attack-its-capital-riyadh-with-missiles/articleshow/134362350.cms)
 - [Murdoch's Aspen mansion lists for $29.85M after $3m buy in 1980s](https://timesofindia.indiatimes.com/real-estate/news/rupert-murdoch-bought-his-aspen-retreat-for-3-million-in-the-1980s-and-listed-it-for-5-million-in-1995-now-after-a-major-renovation-the-12172-square-foot-mansion-is-back-on-the-market-for-29-85-million/articleshow/134360222.cms)
 
 **NDTV**
+- [After Fire Near Riyadh Airport, Houthis Say They Targeted "Sensitive Sites"](https://www.ndtv.com/world-news/after-fire-near-riyadh-airport-houthis-say-they-targeted-sensitive-sites-12070048#publisher=newsstand)
 - [After Slowdown Calls, Trump Says He Will Set Up 'AI Force', Name 'AI Czar'](https://www.ndtv.com/world-news/after-slowdown-calls-trump-says-he-will-set-up-ai-force-name-ai-czar-12070075#publisher=newsstand)
 - [MK Stalin Targets Vijay Over UK Visit, Power Cuts, Law And Order](https://www.ndtv.com/india-news/mk-stalin-targets-vijay-over-uk-visit-power-cuts-law-and-order-12070225#publisher=newsstand)
 - [Aadhaar Biometric Authentication Must For Subsidised LPG Refills From October](https://www.ndtv.com/india-news/aadhaar-biometric-authentication-must-for-subsidised-lpg-refills-from-october-12070219#publisher=newsstand)
@@ -35,9 +36,10 @@
 - [Disha Salian's Father Visits Thackeray Residence To Serve Defamation Notice](https://www.ndtv.com/india-news/disha-salians-father-visits-thackeray-residence-to-serve-defamation-notice-12070200#publisher=newsstand)
 - [Anthropic, OpenAI, SpaceXAI, Google Sued Over AI Development Slowdown Calls](https://www.ndtv.com/world-news/anthropic-openai-spacexai-google-sued-over-ai-development-slowdown-calls-12070198#publisher=newsstand)
 - [Ahead Of Smog Season, Bhagwant Mann Defends Punjab Farmers, Takes Dig At Pakistan](https://www.ndtv.com/india-news/ahead-of-smog-season-bhagwant-mann-defends-punjab-farmers-with-a-lahore-dig-12070092#publisher=newsstand)
-- [1,000 Acres Of Delhi's Southern Ridge Set To Get Reserved Forest Status](https://www.ndtv.com/india-news/1-000-acres-of-delhis-southern-ridge-set-to-get-reserved-forest-status-12070168#publisher=newsstand)
 
 **Hindustan Times**
+- [Delhi CM Rekha Gupta, Arvind Kejriwal among 3.16mn voters get notices for SIR ‘discrepancies’](https://www.hindustantimes.com/india-news/delhi-sir-cm-rekha-gupta-arvind-kejriwal-among-3-16mn-voters-get-notices-for-discrepancies-101789865621621.html)
+- [Films, podcasts, Meghalaya honeymoon murder: How Siya Goyal and team planned Ketan’s killing at Lohagad Fort](https://www.hindustantimes.com/india-news/films-podcasts-meghalaya-honeymoon-murder-how-siya-goyal-and-team-planned-ketan-s-killing-at-lohagad-fort-101789866120895.html)
 - [Why was AAP's Arvind Kejriwal issued SIR notice? Poll body clarifies amid row](https://www.hindustantimes.com/india-news/why-was-aap-arvind-kejriwal-issued-sir-notice-poll-body-electoral-registration-officer-clarifies-amid-row-101789834329009.html)
 - [‘Tight slap on his face’: BJP targets Rahul Gandhi after ABVP's big win in DUSU elections](https://www.hindustantimes.com/india-news/tight-slap-on-his-face-bjp-rahul-gandhi-abvps-big-win-dusu-2026-election-results-nsui-congress-101789828782110.html)
 - [‘Majority did not vote for them’, says CJP's Saurav Das as ABVP sweeps DUSU polls](https://www.hindustantimes.com/india-news/majority-did-not-vote-for-them-says-cjp-saurav-das-as-abvp-sweeps-delhi-university-dusu-polls-101789825959056.html)
@@ -46,8 +48,6 @@
 - [Vijayawada man Sai Krishna beaten to death in police custody, cremated same night: SIT](https://www.hindustantimes.com/india-news/vijayawada-man-sai-krishna-beaten-to-death-in-police-custody-cremated-same-night-sit-101789831270447.html)
 - [CJI Surya Kant urges courts to assess cumulative harm in climate disputes](https://www.hindustantimes.com/india-news/cji-surya-kant-urges-courts-to-assess-cumulative-harm-in-climate-disputes-101789830552080.html)
 - [From international tennis tournaments to new DUSU president: Who is ABVP's Yash Dabas?](https://www.hindustantimes.com/india-news/from-international-tennis-tournaments-to-new-delhi-university-polls-dusu-president-who-is-abvp-yash-dabas-101789822217884.html)
-- [Delhi CM Rekha Gupta, Arvind Kejriwal get SIR notices; poll body responds amid row](https://www.hindustantimes.com/india-news/delhi-sir-cm-rekha-gupta-arvind-kejriwal-among-electors-being-served-notices-101789825928986.html)
-- [MP petrol pump dealers to stop accepting UPI payments above  ₹2,000 from October 15](https://www.hindustantimes.com/india-news/mp-petrol-pump-dealers-to-stop-accepting-upi-payments-above-rs-2-000-from-october-15-101789824516576.html)
 
 **Vijay Karnataka**
 - [ಮಂಗಳೂರು ಐಟಿ ಕ್ಷೇತ್ರ ಸೈಲೆಂಟ್‌, ನಿಗಮಗಳಿಗೆ ಹಣವಿಲ್ಲ! ಜೆನ್‌ಜೀಗಳ ನಿರೀಕ್ಷೆ ಹುಸಿ, ಬೇಡಿಕೆ ಪಟ್ಟಿಯಲ್ಲಿ ಬಾಕಿಯಾದ ಯೋಜನೆಗಳು](https://vijaykarnataka.com/news/mangaluru/mangalurus-it-sector-remains-quiet-corporations-lack-funds-gen-zs-expectations-dashed-projects-remain-pending-outcome-of-cabinet-meeting/articleshow/134362582.cms)
@@ -62,6 +62,7 @@
 - [ಬಿಟ್ಟಿ ಪ್ರಚಾರದ ಸ್ಟಂಟ್ ಗೆ ಊರಿಗೊಂದು ಕ್ಯಾಬಿನೆಟ್‌ ಸಭೆ ಬೇಕಾ? ವಿಧಾನಸಭೆ ಟೂರಿಂಗ್ ಟಾಕಿಸಾ?: ಎಚ್ ಡಿ ಕುಮಾರಸ್ವಾಮಿ ಲೇವಡಿ](https://vijaykarnataka.com/news/karnataka/hd-kumaraswamy-mocks-mangaluru-cabinet-meeting-as-touring-talkies/articleshow/134357597.cms)
 
 **The Hindu**
+- [Samrat Choudhary promises jobs to one crore women](https://www.thehindu.com/news/national/bihar/samrat-choudhary-promises-jobs-to-one-crore-women/article71485207.ece)
 - [Union Home Minister Amit Shah falls ill in Hubballi, skips inauguration of college](https://www.thehindu.com/news/national/karnataka/union-home-minister-amitshah-falls-ill-inhubballi/article71483956.ece)
 - [In India’s capital, Delhiites reduced to documents](https://www.thehindu.com/news/cities/Delhi/in-indias-capital-delhiites-reduced-to-documents/article71484465.ece)
 - [What is the India-Pakistan conflict at sea about? | Explained](https://www.thehindu.com/news/national/what-is-the-india-pakistan-conflict-at-sea-about-explained/article71485874.ece)
@@ -69,7 +70,6 @@
 - [Clamour grows in Keralam to augment coaches, introduce more MEMU trains](https://www.thehindu.com/news/national/kerala/clamour-grows-in-keralam-to-augment-coaches-introduce-more-memu-trains/article71485451.ece)
 - [How will the U.S.’s Sanctioning Act affect India? | Explained](https://www.thehindu.com/news/national/how-will-the-uss-sanctioning-act-affect-india-explained/article71485870.ece)
 - [The digital recruiter | Shahzad Bhatti](https://www.thehindu.com/profile/the-digital-recruiter-shahzad-bhatti/article71485789.ece)
-- [Samrat Choudhary promises jobs to one crore women](https://www.thehindu.com/news/national/bihar/samrat-choudhary-promises-jobs-to-one-crore-women/article71485207.ece)
 - [Caste Hindu candidate claims reservation through bogus community certificate, Madras High Court refuses to order release of terminal benefits](https://www.thehindu.com/news/national/tamil-nadu/caste-hindu-candidate-claims-reservation-through-bogus-community-certificate-madras-high-court-refuses-to-order-release-of-terminal-benefits/article71484580.ece)
 - [TVK regime’s experiment of having two advisers to Vijay alongside Chief Secretary, giving mixed vibes to T.N.’s bureaucratic circles](https://www.thehindu.com/news/national/tamil-nadu/tvk-regimes-experiment-of-having-two-advisers-to-vijay-alongside-chief-secretary-giving-mixed-vibes-to-tns-bureaucratic-circles/article71485220.ece)
 
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಐಐಟಿ-ಬಾಂಬೆ ವಿದ್ಯಾರ್ಥಿ ಆತ್ಮಹತ್ಯೆ ಪ್ರಕರಣ: ಸಂಸ್ಥೆಯ ಪ್ರಾಧ್ಯಾಪಕರೊಬ್ಬರ ವಿರುದ್ಧ ಎಫ್ಐಆರ್](https://www.varthabharati.in/national/iit-bombay-student-suicide-case-fir-against-a-professor-of-the-institute-2276453)
 - [ಮೈಸೂರು: ಪ್ರತಾಪ್ ಸಿಂಹ ವಿರುದ್ಧ FIR ದಾಖಲಿಸುವಂತೆ ಕಾಂಗ್ರೆಸ್ ದೂರು](https://www.varthabharati.in/mysore/mysuru-congress-demands-fir-against-prathap-simha-2276452)
 - ["ಮಾತ ತುಳುವೆರೆಗ್‌ ಎನ್ನ ಮೋಕೆದ ಸೊಲ್ಮೆಲು...": ತುಳು ಭಾಷೆಗೆ ಅಧಿಕೃತ ಮಾನ್ಯತೆ ನಿರ್ಧಾರಕ್ಕೆ ಸಿದ್ದರಾಮಯ್ಯ ಪ್ರತಿಕ್ರಿಯಿಸಿದ್ದು ಹೀಗೆ...](https://www.varthabharati.in/state/siddaramaiah-reacts-to-tulu-getting-official-language-status-2276451)
 - [West Bengal | 'ನೈಜ ಮೈತ್ರಿ’ಯಾದರೆ ಬಲವಾದ ಸಂದೇಶ ರವಾನೆ: TMC–ಕಾಂಗ್ರೆಸ್ ಮೈತ್ರಿಗೆ ಬಂಡಾಯ ಸಂಸದೆ ಸಾಯೋನಿ ಘೋಷ್ ಬೆಂಬಲ](https://www.varthabharati.in/national/true-partnership-rebel-trinamool-mp-saayoni-ghosh-bats-for-tmc-congress-alliance-says-will-send-powerful-message-2276450)
@@ -107,38 +108,37 @@
 - [ರಾಜ್ಯ ಸರಕಾರ ಹಾಗೂ ಪಕ್ಷದ ನಡುವೆ ಸಮನ್ವಯತೆ ಸಾಧಿಸಲು ರಾಜಕೀಯ ವ್ಯವಹಾರಗಳ ಸಮಿತಿ ರಚನೆ: ಬಿ.ಕೆ. ಹರಿಪ್ರಸಾದ್](https://www.varthabharati.in/state/political-affairs-committee-set-up-to-align-govt-and-party-bk-hariprasad-2276443)
 - [ಮತದಾರರ ಪಟ್ಟಿಯಿಂದ ತಮ್ಮ ಹೆಸರು ತೆಗೆಯಲು ಚುನಾವಣಾ ಅಧಿಕಾರಿಗಳ ಮೇಲೆ ಒತ್ತಡ: ಬಿಜೆಪಿಯ ಹಿರಿಯ ನಾಯಕ ಸುಬ್ರಮಣಿಯನ್ ಸ್ವಾಮಿ ಆರೋಪ](https://www.varthabharati.in/national/pressure-to-remove-names-from-the-voters-list-senior-bjp-leader-subramanian-swamy-2276442)
 - [ಯೆಮನ್ ಸಂಘರ್ಷದ ಬೆನ್ನಲ್ಲೇ ಸೌದಿ ರಾಜಧಾನಿಯಲ್ಲಿ ಸಂಭಾವ್ಯ ವಾಯುದಾಳಿ ಆತಂಕ](https://www.varthabharati.in/international/yemen-conflict-high-alert-in-riyadh-2276439)
-- [1965ರ ಭಾರತ–ಪಾಕ್ ಯುದ್ಧದ ವೀರ ಫ್ಲೈಟ್ ಲೆಫ್ಟಿನೆಂಟ್ ಎ.ಟಿ. ಕುಕ್ ನಿಧನ](https://www.varthabharati.in/National/flight-lieutenant-at-cooke-hero-of-the-1965-india-pakistan-war-passes-away-2276440)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
-- Riyadh (3.9)
-- October (3.9)
 - DUSU (3.9)
 - ICICI Securities (3.0)
 - target (3.0)
-- Saudi (2.9)
+- Riyadh (2.9)
 - What (2.9)
 - Iran (2.6)
-- Houthis (2.6)
+- October (2.6)
 - Explained (2.6)
+- Saudi (2.6)
 - Trump (2.2)
 - Rahul Gandhi (2.0)
 - Buy Bajaj Finance (2.0)
 - Calls (1.9)
+- India (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Adhir Chowdhury : কংগ্রেসকে সমর্থনের ঘোষণা মমতার, অধীর বললেন, 'আমি বিশ্বাস করি...'](https://bengali.abplive.com/district/mamata-banerjee-announces-support-to-congress-in-nandigram-by-election-2026-adhir-chowdhury-responds-1193447)
-- [AI માનવતાનો અંત લાવશે તેવી સંભાવના બિલકુલ શૂન્ય: NVIDIAના સીઈઓ જેન્સન હુઆંગનું મોટું નિવેદન, ઝડપી વિકાસની કરી હિમાયત](https://www.gujaratsamachar.com/news/science-technology/there-is-absolutely-zero-chance-that-ai-will-end-humanity-nvidia-ceo-jensen-huangs-big-statement-advocates-rapid-development-59852047214)
-- [रियाद में धमाके की आवाज, सऊदी अरब में जारी हुआ 'हवाई खतरे' का अलर्ट](https://www.aajtak.in/world/story/saudi-arabia-aerial-threat-riyadh-explosion-un-security-council-ntc-amkr-dskc-2647388-2026-09-19)
-- [വൻ താരനിരയുമായി അമൽ നീരദ്; ബാച്ച്ലർ പാർട്ടി D’EUX’ ഫസ്റ്റ്ലുക്ക് പുറത്ത്, റിലീസ് നവംബർ 19ന്](https://www.asianetnews.com/entertainment-news/amal-neerad-film-bachelor-party-deux-first-look-poster-articleshow-h21fmqg)
-- [Dilip Ghosh: 'তৃণমূল এখন সর্বহারার দল! প্রার্থী লাগলে আমরা দিতে পারি,' মমতাকে বেনজির কটাক্ষ দিলীপের](https://bengali.indianexpress.com/west-bengal/dilip-ghosh-attacks-tmc-over-candidate-withdrawal-nandigram-rejinagar-bypolls-12552440)
-- [Deepika Padukone, Ranveer Singh welcome second baby girl after daughter Dua on the auspicious occasion of Radhashtami, congratulations pour in - PIC inside](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-ranveer-singh-welcome-second-baby-become-parents-to-a-baby-girl-announce-with-an-adorable-post-pic-inside/articleshow/134332302.cms)
-- [दीपिका पादुकोण-रणवीर सिंह के घर आई लक्ष्मी, दूसरी बार पेरेंट्स बना कपल](https://www.abplive.com/entertainment/bollywood/deepika-padukone-ranveer-singh-blessed-with-second-baby-girl-3191169)
-- [દિવાળી પહેલા જ ભારત પર ફૂટશે ટેરિફ બોમ્બ? નવા કાયદાના સેકશન 113માં છુપાયેલો છે અસલ ખેલ](https://www.gujaratsamachar.com/news/international/will-a-tariff-bomb-explode-on-india-before-diwali-the-real-game-is-hidden-in-section-113-of-the-new-law-85723990555)
-- [ममता बनर्जी की पार्टी से चुनाव लड़ने को लेकर हाँ ना करने वाले कौन हैं रबीउल आलम](https://www.bbc.com/hindi/articles/c68xk75e2e52o)
-- [Monsoon Heay Rain: 25 সেপ্টেম্বর পর্যন্ত কোন কোন জেলায় ভারী বৃষ্টি? ডেট ধরে লিস্ট](https://bangla.aajtak.in/west-bengal/south-bengal/story/monsoon-heavy-rain-forecast-districts-list-date-by-date-west-bengal-weather-update-till-25-september-sbm-1452810-2026-09-19)
+- [WHO Flags Six Essential Childhood Cancer Medicines Facing Critical Access Gaps](https://oncodaily.com/public-health/childhood-cancer-medicines-588978)
+- [ബ്രെത്തലൈസർ പരിശോധനയ്‌ക്കിടെ കെഎസ്ഇബി ലൈൻമാൻ പൊലീസിനെ ആക്രമിച്ചു - വിഡിയോ](https://www.manoramaonline.com/news/latest-news/2026/09/19/kseb-lineman-attacks-police-during-breathalyzer-test-in-kottayam.html)
+- [પિતા! ઘરે પધારી નાની પરી, જુઓ ઇમોશનલ પોસ્ટ](https://www.gujaratfirst.com/breaking-news/deepika-ranveer-baby-news-second-baby-girl-emotional-post/340402/)
+- [अमेरिका आ रहे शी जिनपिंग की चापलूसी में जुटे ट्रंप, प्रोटोकॉल तोड़ मेलानिया संग एयरपोर्ट पर करेंगे अगवानी](https://navbharattimes.indiatimes.com/world/america/donald-trump-will-break-protocol-to-greet-xi-jinping-at-airport-along-with-melania/articleshow/134355297.cms)
+- [અફઘાનિસ્તાન T20 સિરીઝ: વૈભવ સૂર્યવંશીને કેમ પડતો મુકાયો? હેડ કોચ ગૌતમ ગંભીરનો ખુલાસો](https://gujarati.abplive.com/sports/cricket/vaibhav-suryavanshi-gautam-gambhir-afg-t20i-series-playing-11-reason-991575)
+- [Lalbaugcha Raja Jaideep Nemade Dies : लालबागच्या राजाच्या दर्शन रांगेत एकुलत्या एक मुलाच्या मृत्यूनंतर घरच्यांची पहिली प्रतिक्रिया, मंडळाबद्दल नेमकं काय म्हणाले?](https://marathi.abplive.com/news/mumbai/lalbaugcha-raja-darshan-25-year-old-jaideep-nemade-dies-family-reveals-what-happened-in-the-queue-marathi-news-1439618)
+- [In 2018, a Russian bioprinter made human cartilage tissue in orbit; years later, NASA printed human heart tissue on the ISS](https://timesofindia.indiatimes.com/science/in-2018-a-russian-bioprinter-made-human-cartilage-tissue-in-orbit-years-later-nasa-printed-human-heart-tissue-on-the-iss/articleshow/134333694.cms)
+- [काजू-बदामवरून राजकारण तापलं; हिंगोलीत कृषीमंत्री भरणेंना शेतकऱ्यांचा घेराव, टीकेनंतर काय म्हणाले?](https://www.tv9marathi.com/maharashtra/dattatray-bharne-firest-reaction-on-cashew-almonds-controversy-drought-review-meeting-farmer-angry-1759862.html)
+- [दूसरी बार पिता बने Ranveer Singh, दीपिका ने बेबी गर्ल को दिया जन्म; पहला पोस्ट आया सामने](https://www.jagran.com/entertainment/bollywood-ranveer-singh-deepika-padukone-welcome-second-baby-girl-shares-first-post-40378585.html)
+- [અમદાવાદના અનેક વિસ્તારોમાં મોડી સાંજે ધોધમાર વરસાદ, 25 સપ્ટેમ્બર સુધી હળવા વરસાદની આગાહી](https://www.gujaratsamachar.com/news/ahmedabad/rainfall-in-ahmedabad-many-area-45675939352)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
