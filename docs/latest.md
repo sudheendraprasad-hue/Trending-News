@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-20 11:01:54
+# India Trending Report — 2026-09-20 11:33:06
 
 ## Google Trends (India) — top trending searches
-1. [nbems neet pg result](https://trends.google.com/trending/rss?geo=IN)
-2. [india asian games](https://trends.google.com/trending/rss?geo=IN)
-3. [the scandal netflix](https://trends.google.com/trending/rss?geo=IN)
-4. [fc bayern munich](https://trends.google.com/trending/rss?geo=IN)
-5. [gta vi](https://trends.google.com/trending/rss?geo=IN)
-6. [riyadh saudi arabia](https://trends.google.com/trending/rss?geo=IN)
-7. [svengoolie](https://trends.google.com/trending/rss?geo=IN)
-8. [texas a](https://trends.google.com/trending/rss?geo=IN)
-9. [luke reynolds](https://trends.google.com/trending/rss?geo=IN)
-10. [trump tariffs](https://trends.google.com/trending/rss?geo=IN)
+1. [सोना चांदी](https://trends.google.com/trending/rss?geo=IN)
+2. [8th pay commission](https://trends.google.com/trending/rss?geo=IN)
+3. [hanuman ansh movie](https://trends.google.com/trending/rss?geo=IN)
+4. [nbems neet pg result](https://trends.google.com/trending/rss?geo=IN)
+5. [india asian games](https://trends.google.com/trending/rss?geo=IN)
+6. [the scandal netflix](https://trends.google.com/trending/rss?geo=IN)
+7. [fc bayern munich](https://trends.google.com/trending/rss?geo=IN)
+8. [gta vi](https://trends.google.com/trending/rss?geo=IN)
+9. [riyadh saudi arabia](https://trends.google.com/trending/rss?geo=IN)
+10. [svengoolie](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -38,40 +38,40 @@
 - ["If US Wants To Get Out Of Quagmire...": Iran Sends 7 Conditions To Trump](https://www.ndtv.com/world-news/us-iran-war-washington-ready-to-negotiate-as-tehran-sends-7-conditions-to-end-middle-east-war-to-trump-amid-saudi-houthis-attacks-12071721#publisher=newsstand)
 
 **Hindustan Times**
+- [IndiGo crew member, a single mother to 5-year-old, dies after car rams into her vehicle in Mumbai](https://www.hindustantimes.com/india-news/indigo-crew-member-kainoor-mistry-single-mother-to-5-year-old-dies-after-car-rams-into-her-vehicle-in-mumbai-101789901240344.html)
+- [Bank holiday tomorrow, September 21: Are banks closed in Kerala and Assam? Check details](https://www.hindustantimes.com/india-news/bank-holiday-tomorrow-september-21-in-kerala-and-assam-heres-what-we-know-101789899648387.html)
+- [Neurosurgeon charred to death after car hits roadside divider, catches fire in Telangana](https://www.hindustantimes.com/india-news/telangana-doctor-neurosurgeon-charred-to-death-car-hits-road-divider-catches-fire-nh-365-suryapet-khammam-hyderabad-101789900007135.html)
+- [Study maps 34 years of Uttarakhand glacier retreat, finds average of 23.23 metres a year](https://www.hindustantimes.com/india-news/study-maps-34-years-of-uttarakhand-glacier-retreat-finds-average-of-23-23-metres-a-year-101789901903958.html)
 - [Congress calls SIR ‘Shah Instigated Removal’, flags ‘unusually high’ voter deletions](https://www.hindustantimes.com/india-news/congress-flags-7-8-crore-voter-deletions-in-sir-alleges-shah-instigated-removal-jairam-ramesh-101789898157060.html)
 - [Shahdara, Barapullah among most polluted drains discharging into Yamuna: Report](https://www.hindustantimes.com/india-news/shahdara-barapullah-among-most-polluted-drains-discharging-into-yamuna-report-101789900103508.html)
 - [‘Cheap theatre’ vs ‘democratic right’: BJP, Opposition spar over PM Modi's mimicry at Rahul Gandhi event](https://www.hindustantimes.com/india-news/cheap-theatre-vs-democratic-right-bjp-opposition-congress-aap-tmc-spar-pm-modi-mimicry-rahul-gandhi-indore-event-101789897303326.html)
 - [Who was TSPC commander Brajesh Ganjhu, on the run for 20 years with over 50 cases?](https://www.hindustantimes.com/india-news/who-was-tspc-commander-brajesh-ganjhu-on-the-run-for-20-years-with-over-50-cases-101789897642952.html)
 - [Malayalam TV channel MD sent back to jail after 1-day excise custody in Wayanad liquor seizure case](https://www.hindustantimes.com/india-news/malayalam-tv-channel-md-sent-back-to-jail-after-one-day-excise-custody-in-wayanad-liquor-seizure-case-101789894992449.html)
 - [‘Give Vijay more time’: Prakash Raj urges patience in assessing Tamil Nadu CM](https://www.hindustantimes.com/india-news/give-vijay-more-time-prakash-raj-urges-patience-in-assessing-tamil-nadu-chief-minister-101789890913122.html)
-- [Military leaders discuss future of warfare, artillery at seminar in Chandigarh](https://www.hindustantimes.com/india-news/military-leaders-discuss-future-of-warfare-artillery-at-seminar-in-chandigarh-101789895083956.html)
-- ['Sign of the times': Saurav Das hails Gen-Z over independent candidate Deepanshu Shokeen's DUSU win](https://www.hindustantimes.com/india-news/sign-of-the-times-saurav-das-hails-gen-z-over-independent-candidate-deepanshu-shokeens-dusu-poll-win-101789893155632.html)
-- [Odisha: Technical team examines health condition of rescued orangutans](https://www.hindustantimes.com/india-news/odisha-technical-team-examines-health-condition-of-rescued-orangutans-101789893257022.html)
-- [‘Money to light diyas, not for hostels?’ Rahul Gandhi targets PM Modi's birthday celebration](https://www.hindustantimes.com/india-news/money-to-light-diyas-not-for-hostels-rahul-gandhi-targets-pm-modis-birthday-celebration-101789890582573.html)
 
 **Vijay Karnataka**
+- [ಮಾಜಿ ಸಚಿವ ಬಿ. ರಮಾನಾಥ ರೈ ಪ್ರಯಾಣಿಸುತ್ತಿದ್ದ ಕಾರು - ಖಾಸಗಿ ಬಸ್‌ ನಡುವೆ ಅಪಘಾತ! ಡಿಕ್ಕಿ ರಭಸಕ್ಕೆ ಕಾರು ಜಖಂ](https://vijaykarnataka.com/news/udupi/former-minister-b-ramanath-rais-car-collides-with-a-private-bus-causing-damage-to-the-car/articleshow/134367099.cms)
+- [ಅಮೆರಿಕಕ್ಕೆ 7 ಷರತ್ತುಗಳ ಪಟ್ಟಿ ರವಾನಿಸಿದ ಇರಾನ್‌: ಯುದ್ಧ ಮುಗಿಸಲು ಇದೊಂದೇ ದಾರಿ ಎಂದ ಟೆಹ್ರಾನ್‌! ಏನು ಉತ್ತರಿಸಲಿದೆ ವಾಷಿಂಗ್ಟನ್‌?](https://vijaykarnataka.com/news/world/iran-sends-7-conditions-to-united-states-to-end-prolonged-war-in-middle-east/articleshow/134366388.cms)
 - [Asian Games 2026: ಮಹಿಳಾ ಕ್ರಿಕೆಟ್ ನಲ್ಲಂತೂ ಇಲ್ಲ ಇಂಡೋ- ಪಾಕ್ ಮುಖಾಮುಖಿ! ಇನ್ನು ಪುರುಷರ ವಿಭಾಗದ್ದಷ್ಟೇ ಕುತೂಹಲ ಬಾಕಿ](https://vijaykarnataka.com/sports/cricket/news/asian-games-2026-india-vs-pakistan-no-match-in-womens-section-curiosity-in-men-section/articleshow/134366529.cms)
-- [LPG ಸಬ್ಸಿಡಿ: ಬಯೋಮೆಟ್ರಿಕ್ ಆಧಾರ್ ದೃಢೀಕರಣ ಕಡ್ಡಾಯ; ಅಕ್ಟೋಬರ್ 1 ಅಂತಿಮ ಗಡುವು; ಇ -ಕೆವೈಸಿಗೆ 3 ದಾರಿ](https://vijaykarnataka.com/business/news/lpg-subsidy-biometric-aadhaar-authentication-mandatory-october-1-is-the-final-deadline-3-ways-to-complete-e-kyc/articleshow/134366632.cms)
-- [ಬಯಲುಸೀಮೆಗೆ ಭದ್ರಾ ಜಲ ಸಂಭ್ರಮ: ನವೆಂಬರ್ ಅಂತ್ಯಕ್ಕೆ ಭದ್ರಾ ಮೇಲ್ದಂಡೆಯಿಂದ ಕೆರೆಗಳಿಗೆ ನೀರು ಹರಿಸಲು ಸರ್ಕಾರ ಬದ್ಧ: ಎನ್.ಚಲುವರಾಯಸ್ವಾಮಿ](https://vijaykarnataka.com/news/chitradurga/government-committed-to-releasing-water-from-bhadra-upper-bank-project-to-lakes-by-end-of-november/articleshow/134365858.cms)
 - [ಪಟೋಲಾ ಕುರ್ತಾದಲ್ಲಿ ಮಿಂಚಿದ ದೀಪಿಕಾ ಪಡುಕೋಣೆ; ಸಿದ್ಧಿವಿನಾಯಕ ದರ್ಶನಕ್ಕೆ ಬಂದ ನಟಿಯ ಲುಕ್ ವೈರಲ್!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-siddhivinayak-temple-patola-kurta-look/articleshow/134352111.cms)
-- [ಫ್ಲೈಓವರ್‌ನಿಂದ ಬಿದ್ದ ಬಿಎಂಡಬ್ಲ್ಯೂ ಕಾರು, ಮೂವರು ಯುವಕರ ದುರ್ಮರಣ: ವೇಗ ಪ್ರಾಣ ತೆಗೆಯುತ್ತೆ ಬೇಗ! ಬಿಸಿ ರಕ್ತಕ್ಕೆ ಏಕೆ ಅರ್ಥವಾಗ್ತಿಲ್ಲ?](https://vijaykarnataka.com/news/mumbai/3-people-killed-and-one-critically-injured-after-bmw-crashed-on-mumbai-coastal-road/articleshow/134365746.cms)
-- [ಕತ್ರಿನಾ ಕೈಫ್‌ಗೆ ಬಾಡಿ ಶೇಮಿಂಗ್:‌ ಟ್ರೋಲಿಗರ ವಿರುದ್ದ ಸಿಡಿದೆದ್ದ ಸಲ್ಮಾನ್‌ ಖಾನ್!](https://vijaykarnataka.com/tv/bigg-boss-kannada/salman-khan-angry-at-trolls-for-body-shaming-katrina-kaif-on-bigg-boss-show/articleshow/134366003.cms)
+- [LPG ಸಬ್ಸಿಡಿ: ಬಯೋಮೆಟ್ರಿಕ್ ಆಧಾರ್ ದೃಢೀಕರಣ ಕಡ್ಡಾಯ; ಅಕ್ಟೋಬರ್ 1 ಅಂತಿಮ ಗಡುವು; ಇ -ಕೆವೈಸಿಗೆ 3 ದಾರಿ](https://vijaykarnataka.com/business/news/lpg-subsidy-biometric-aadhaar-authentication-mandatory-october-1-is-the-final-deadline-3-ways-to-complete-e-kyc/articleshow/134366632.cms)
+- [ಕಿಚ್ಚ ಸುದೀಪ್‌ ಮುಂದೆ ಸೌಂದರ್ಯ ಶೆಟ್ಟಿ ಕಣ್ಣೀರು: ಹಿಗ್ಗಾಮುಗ್ಗಾ ಟ್ರೋಲ್‌ ಮಾಡಿದ ನೆಟ್ಟಿಗರು!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-soundarya-shetty-trolled/articleshow/134367180.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [ಚಾಣಕ್ಯ ನೀತಿ: ಈ 3 ಜನರೊಂದಿಗೆ ಶತ್ರುತ್ವ ಹೊಂದದಿರಲು ಕಾರಣ.!](https://vijaykarnataka.com/religion/hinduism/chanakya-niti-says-do-not-make-enmity-with-these-3-kind-of-people/articleshow/134352052.cms)
 - [ಕತ್ರಿನಾ ಕೈಫ್ ದಪ್ಪ ಆಗಿದ್ದಾರೆಂದು ಟ್ರೋಲ್ ಹೆರಿಗೆ ಬಳಿಕ ದೇಹದಲ್ಲಿ ಆಗುವ ಸಾಮಾನ್ಯ ಬದಲಾವಣೆಗಳೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/katrina-kaif-postpartum-body-changes-women-after-pregnancy/articleshow/134348311.cms)
-- [ಗಣೇಶೋತ್ಸವ ಪ್ರಚೋದನಕಾರಿ ಭಾಷಣ: ಪ್ರತಾಪ್ ಸಿಂಹ ಮೇಲೆ ಪೊಲೀಸ್‌ FIR ದಾಖಲು! 25 ಕೇಸಿವೆ, ಮತ್ತೊಂದಷ್ಟೇ ಎಂದ ಆರ್‌ ಅಶೋಕ್](https://vijaykarnataka.com/news/mysuru/provocative-speech-at-ganeshotsav-police-register-fir-against-pratap-simha-already-25-cases-this-is-just-one-more/articleshow/134366133.cms)
+- [ಬಯಲುಸೀಮೆಗೆ ಭದ್ರಾ ಜಲ ಸಂಭ್ರಮ: ನವೆಂಬರ್ ಅಂತ್ಯಕ್ಕೆ ಭದ್ರಾ ಮೇಲ್ದಂಡೆಯಿಂದ ಕೆರೆಗಳಿಗೆ ನೀರು ಹರಿಸಲು ಸರ್ಕಾರ ಬದ್ಧ: ಎನ್.ಚಲುವರಾಯಸ್ವಾಮಿ](https://vijaykarnataka.com/news/chitradurga/government-committed-to-releasing-water-from-bhadra-upper-bank-project-to-lakes-by-end-of-november/articleshow/134365858.cms)
 
 **The Hindu**
+- [Awareness meeting to limit human-sloth bear interactions in Nilgiris held](https://www.thehindu.com/news/cities/Coimbatore/awareness-meeting-to-limit-human-sloth-bear-interactions-in-nilgiris-held/article71487477.ece)
+- [CPI(M) warns TVK govt. not to take unilateral decisions](https://www.thehindu.com/news/cities/chennai/cpim-warns-tvk-govt-not-to-take-unilateral-decisions/article71487666.ece)
+- [Breathing in death: How mining dust in the Aravallis is killing residents](https://www.thehindu.com/news/national/breathing-in-death-how-mining-dust-in-the-aravallis-is-killing-residents/article71487568.ece)
+- [Cyber Fraud Network: three arrested, 507 bank accounts linked to accused frozen](https://www.thehindu.com/news/national/karnataka/cyber-fraud-network-three-arrested-507-bank-accounts-linked-to-accused-frozen/article71487370.ece)
+- [Nagenthran calls Rahul Gandhi a part-time politician](https://www.thehindu.com/news/national/tamil-nadu/nagenthran-calls-rahul-gandhi-a-part-time-politician/article71487551.ece)
 - [Kerala University to abandon K-REAP amid examination glitches](https://www.thehindu.com/news/national/kerala/kerala-university-toabandon-k-reap-amid-examination-glitches/article71487490.ece)
 - [Jan Suraaj Party announces five candidates for upcoming Bihar MLC polls](https://www.thehindu.com/news/national/bihar/jan-suraaj-party-announces-five-candidates-for-upcoming-bihar-mlc-polls/article71487647.ece)
 - [Delivery agent killed in accident](https://www.thehindu.com/news/cities/chennai/delivery-agent-killed-in-accident/article71487103.ece)
 - [Trade unions in Keralam seek government intervention as kerosene crisis continues to hit fishing sector](https://www.thehindu.com/news/national/kerala/trade-unions-in-keralam-seek-government-intervention-as-kerosene-crisis-continues-to-hit-fishing-sector/article71487354.ece)
 - [Antimicrobial resistance tightens grip on Keralam, say latest report](https://www.thehindu.com/news/national/kerala/antimicrobial-resistance-tightens-grip-on-keralam-say-latest-report/article71485333.ece)
-- [BRICS condemns EU carbon tax](https://www.thehindu.com/sci-tech/energy-and-environment/brics-condemns-eu-carbon-tax/article71361332.ece)
-- [Brazil, India are building strategic ties for a changing world, says Brazil’s Foreign Minister](https://www.thehindu.com/news/national/brazil-india-are-building-strategic-ties-for-a-changing-world-says-brazils-foreign-minister/article71459802.ece)
-- [At least two dead, four injured after electrocution near Ganesh pandal in Mumbai](https://www.thehindu.com/news/cities/mumbai/mumbai-ganesh-pandal-electrocution-several-dead-september-20-2026/article71487122.ece)
-- [Two dead, one injured in fire accident in Hubballi](https://www.thehindu.com/news/national/karnataka/two-dead-one-injured-in-fire-accident-in-hubballi/article71487437.ece)
-- [Anto Augustine’s custody in Excise dept to end on September 20](https://www.thehindu.com/news/national/kerala/anto-augustines-custody-in-excise-dept-to-end-on-september-20/article71487455.ece)
 
 **Livemint**
 - [Monsoon withdrawal begins from western Rajasthan](https://www.livemint.com/news/india-monsoon-withdrawal-imd-weather-rainfall-forecast-september2026-11789899868904.html)
@@ -98,29 +98,29 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [Asian Games Hockey 2026 | ಇಂಡೋನೇಶ್ಯಾ ತಂಡವನ್ನು 13-1 ಅಂತರದಲ್ಲಿ ಬಗ್ಗುಬಡಿದ ಭಾರತ](https://www.varthabharati.in/sports/india-defeats-indonesia-in-asian-games-hockey-2276533)
+- [ರಾಹುಲ್ ಗಾಂಧಿ ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ ಪ್ರಧಾನಿ ಮೋದಿಯನ್ನು ಅಣಕಿಸಿರುವುದಕ್ಕೆ ಬಿಜೆಪಿ ಆಕ್ರೋಶ](https://www.varthabharati.in/national/bjp-criticizes-rahul-gandhi-for-satire-against-pm-modi-2276532)
+- [ಕಸ್ತೂರಿ ರಂಗನ್ ವರದಿ: ಜನಾಭಿಪ್ರಾಯ ಆಧರಿಸಿ ನಿರ್ಧಾರ : ಸಿಎಂ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್](https://www.varthabharati.in/hassan/cm-dk-shivakumar-2276531)
+- [Bigg Boss 20 | ಎದೆನೋವಿನ ನಾಟಕದ ಬಗ್ಗೆ ಸ್ಪಷ್ಟನೆ ನೀಡಿದ ಸಲ್ಮಾನ್ ಖಾನ್](https://www.varthabharati.in/cinema/salman-khan-clarifies-about-his-fake-chest-pain-2276530)
+- [ಸಾರ್ವಜನಿಕ ದತ್ತಿಸಂಸ್ಥೆಗಳ ವಿರುದ್ಧ ದಾವೆ ಹೂಡುವ ಮುನ್ನ ನ್ಯಾಯಾಲಯದ ಅನುಮತಿ ಕಡ್ಡಾಯ: ಸುಪ್ರೀಂ ಕೋರ್ಟ್](https://www.varthabharati.in/National/supreme-court-demands-to-take-permit-of-court-before-suing-public-organisations-2276529)
 - [Uttar Pradesh | ಕಾನ್ಪುರದ ಸರಕಾರಿ ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ವೈದ್ಯನ ಚಾಲಕನಿಂದಲೇ ರೋಗಿಗಳ ತಪಾಸಣೆ; ವಿಡಿಯೋ ವೈರಲ್ ಬೆನ್ನಲ್ಲೆ ತನಿಖೆಗೆ ಆದೇಶ](https://www.varthabharati.in/National/doctors-chauffer-tests-the-patients-in-the-govt-hospital-in-kanpur-2276527)
 - [ಏಕಪಕ್ಷೀಯವಾಗಿ ವರ್ತಿಸುವುದನ್ನು ಮುಂದುವರಿಸಿದರೆ TVK ಸರಕಾರಕ್ಕೆ ನೀಡಿರುವ ಬೆಂಬಲವನ್ನು ಮರುಪರಿಶೀಲಿಸಲಾಗುವುದು: ಸಿಪಿಎಂ](https://www.varthabharati.in/National/may-reconsider-support-for-tvk-government-if-it-continues-to-act-unilateral-says-cpm-2276525)
 - [Karkala | ಮಾಜಿ ಸಚಿವ ರಮಾನಾಥ ರೈ ಪ್ರಯಾಣಿಸುತ್ತಿದ್ದ ಕಾರು ಮತ್ತು ಬಸ್‌ ನಡುವೆ ಅಪಘಾತ](https://www.varthabharati.in/udupi/karkala-car-accident-2276522)
 - [Bengaluru | ಐಷಾರಾಮಿ ಕಾರಿನಲ್ಲಿ ವ್ಯಕ್ತಿಯ ಮೃತದೇಹ ಪತ್ತೆ](https://www.varthabharati.in/bangalore-city/bengaluru-mans-body-found-inside-luxury-car-2276518)
 - [ನರೇಂದ್ರ ಮೋದಿ ವಿಕಾಸ ಪುರುಷನಲ್ಲ ದೇಶದ ಅಭಿವೃದ್ಧಿಯ ವಿನಾಶ ಪುರುಷ: ದೀಪ್ಸಿತಾ ಧರ್ ವಾಗ್ದಾಳಿ](https://www.varthabharati.in/DakshinaKannada/narendra-modi-is-not-a-development-man-he-is-the-destroyer-of-the-countrys-development-deepsita-dhar-2276517)
-- [IIT Bombay ವಿದ್ಯಾರ್ಥಿ ಆತ್ಮಹತ್ಯೆ ಪ್ರಕರಣ: ಪ್ರಾಧ್ಯಾಪಕರ ವಿರುದ್ಧ ಜಾತಿ ನಿಂದನೆ ಆರೋಪ](https://www.varthabharati.in/National/iit-bombay-student-suicide-case-caste-discrimination-blame-on-lecturer-2276515)
-- [SIR ಎಂದರೆ 'ಶಾ ಇನ್ಸ್ಟಿಗೇಟೆಡ್ ರಿಮೂವಲ್ʼ ಎಂದ ಕಾಂಗ್ರೆಸ್](https://www.varthabharati.in/National/sir-means-shah-instigated-removal-of-voters-says-congress-2276514)
-- [ರಾಯಚೂರು: ಸ್ವಚ್ಛ ಭಾರತ ಮಿಷನ್ ಶೌಚಾಲಯಗಳ ಸ್ಥಿತಿಗತಿ ವರದಿ ನೀಡಲು ಜಿಪಂ ಸಿಇಒ ಸೂಚನೆ](https://www.varthabharati.in/nimma-ankana/raichur-zilla-panchayat-ceo-directs-officials-to-submit-a-status-report-on-swachh-bharat-mission-toilets-2276513)
-- [ಹಂತ ಹಂತವಾಗಿ ಬರಪೀಡಿತ ತಾಲೂಕುಗಳ ಘೋಷಣೆ; 200ಕ್ಕೂ ಹೆಚ್ಚು ತಾಲೂಕುಗಳು ಪಟ್ಟಿಗೆ ಸೇರುವ ಸಾಧ್ಯತೆ : ಜಿ.ಪರಮೇಶ್ವರ್‌](https://www.varthabharati.in/davanagere/drought-hit-taluks-being-declared-in-phases-over-200-taluks-likely-to-be-added-to-the-list-g-parameshwara-2276511)
-- ["ಸ್ವಚ್ಛ ಸಾಗರ, ಸುರಕ್ಷಿತ ಸಾಗರ" : ಪಡುಬಿದ್ರಿ ಬ್ಲೂ ಫ್ಲ್ಯಾಗ್ ಬೀಚ್‌ನಲ್ಲಿ ಸ್ವಚ್ಛತಾ ಕಾರ್ಯಕ್ರಮ](https://www.varthabharati.in/udupi/clean-ocean-safe-ocean-cleanliness-program-at-padubidri-blue-flag-beach-2276510)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
 - ICICI Securities (3.0)
 - target (3.0)
+- Telangana (2.9)
 - Mumbai (2.9)
+- Kerala (2.9)
 - Russia (2.6)
 - Gurgaon (2.6)
-- India (2.6)
+- Neurosurgeon (2.6)
 - Keralam (2.6)
-- Brazil (2.6)
 - Asian Games (2.0)
-- PM Modi's (2.0)
 - Rahul Gandhi (2.0)
 - Buy Bajaj Finance (2.0)
 - Moscow (1.6)
@@ -129,6 +129,8 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [తీవ్ర వాయుగుండంగా అల్పపీడనం!](https://www.sakshi.com/telugu-news/andhra-pradesh/heavy-rains-likely-andhra-pradesh-next-five-days-2907560)
+- [சட்டம் ஒழுங்கு சீர்கேடு ஒரே நாளில் 8 பேர் வெட்டிக்கொலை: தமிழ்நாட்டை உலுக்கும் தொடர் படுகொலைகள்](https://www.dinakaran.com/news/law_order_hacking_murders_tamilnadu_killings/)
 - [అటు సర్వే... ఇటు నోటీసులు](https://www.eenadu.net/telugu-news/telangana/the-official-survey-of-lands-in-erravelli/1899/126169802)
 - [కోస్తాంధ్రకు 4 రోజులు భారీ వర్షాలు](https://www.andhrajyothy.com/2026/andhra-pradesh/coastal-andhra-to-get-heavy-rains-for-4-days-1559572.html)
 - [CONTROL Resonant Release Date, Price, Pre-Order Info And 10 Things To Know](https://sg.news.yahoo.com/control-resonant-release-date-price-224245150.html)
@@ -137,8 +139,6 @@
 - [పొడిబారుతున్న ఆంధ్రావని](https://www.eenadu.net/telugu-news/andhra-pradesh/south-india-including-andhra-pradesh-is-facing-a-severe-drought-threat/1799/126169761)
 - [Monsoon 2026: मान्सून महाराष्ट्रातून जाण्यास ऑक्टोबर उजाडणार, मध्य महाराष्ट्र आणि मराठवाड्यात २३ सप्टेंबरपर्यंत हलका पाऊस](https://pudhari.news/maharashtra/pune/monsoon-begins-its-withdrawal-from-rajasthan-ap84)
 - [Asian Games 2026 | गोंधळाच्या सावटात आशियाई स्पर्धेला प्रारंभ](https://pudhari.news/sports/japan-emperor-declares-asian-games-open-after-troubled-lead-up-ap84)
-- [ગોલમાલ ફાઇવનું મોશન પોસ્ટર લોન્ચ, ફિલ્મ આઠ જાન્યુઆરીએ રિલીઝ કરાશે](https://www.gujaratsamachar.com/news/entertainment/golmaal-fives-motion-poster-launched-film-to-release-on-january-8-31158407158)
-- [વાંચો તમારું 20 સપ્ટેમ્બર, 2026નું રાશિ ભવિષ્ય](https://www.gujaratsamachar.com/news/astro/read-your-horoscope-for-september-20-2026-29916577670)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
