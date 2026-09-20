@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-20 20:02:01
+# India Trending Report — 2026-09-20 20:33:54
 
 ## Google Trends (India) — top trending searches
 1. [8वें वेतन आयोग सैलरी](https://trends.google.com/trending/rss?geo=IN)
@@ -7,25 +7,28 @@
 4. [man utd](https://trends.google.com/trending/rss?geo=IN)
 5. [clock](https://trends.google.com/trending/rss?geo=IN)
 6. [laliga](https://trends.google.com/trending/rss?geo=IN)
-7. [brian brobbey](https://trends.google.com/trending/rss?geo=IN)
-8. [spider man brand new day](https://trends.google.com/trending/rss?geo=IN)
-9. [real madrid vs atlético madrid](https://trends.google.com/trending/rss?geo=IN)
-10. [real madrid](https://trends.google.com/trending/rss?geo=IN)
+7. [epl](https://trends.google.com/trending/rss?geo=IN)
+8. [brian brobbey](https://trends.google.com/trending/rss?geo=IN)
+9. [spider man brand new day](https://trends.google.com/trending/rss?geo=IN)
+10. [real madrid vs atlético madrid](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Amit Shah wants UCC in all NDA states by 2029. What will JD(U) do in Bihar?](https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms)
-- [‘When do I blow entire nation up?' Trump's ultimatum after Iran warns of 'decisive war'](https://timesofindia.indiatimes.com/world/us/when-do-i-blow-entire-nation-up-trumps-ultimatum-after-iran-warns-of-decisive-war/articleshow/134372224.cms)
+- [US prepares sweeping sanctions on International Criminal Court](https://timesofindia.indiatimes.com/world/us/us-prepares-sweeping-sanctions-on-international-criminal-court/articleshow/134375029.cms)
 - [93% of deleted Bengal voters have won appeals, EC tells SC](https://timesofindia.indiatimes.com/india/93-of-deleted-bengal-voters-have-won-appeals-ec-tells-sc/articleshow/134374880.cms)
 - [Landslide, flash flood kill 6 in Kerala amid heavy rain alert - video](https://timesofindia.indiatimes.com/city/kochi/3-dead-after-landslide-hits-keralas-idukki/articleshow/134371135.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
 - [Meet Sai Sri Valli Mogilineedi, eighth-grader who designed controlled-release antacid](https://timesofindia.indiatimes.com/world/us/meet-sai-sri-valli-mogilineedi-the-mechanicsburg-eighth-grader-who-designed-a-controlled-release-antacid-and-became-one-of-30-us-finalists-competing-for-more-than-100000-in-stem-awards/articleshow/134373682.cms)
 - [46-year-old man found dead inside luxury car in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/46-year-old-man-found-dead-inside-luxury-car-parked-on-koramangala-road-in-bengaluru/articleshow/134372028.cms)
+- [‘When do I blow entire nation up?' Trump's ultimatum after Iran warns of 'decisive war'](https://timesofindia.indiatimes.com/world/us/when-do-i-blow-entire-nation-up-trumps-ultimatum-after-iran-warns-of-decisive-war/articleshow/134372224.cms)
 - [Russia wraps up first wartime parliamentary election, Kremlin set to retain control](https://timesofindia.indiatimes.com/world/europe/russia-wraps-up-first-wartime-parliamentary-election-kremlin-set-to-retain-control/articleshow/134374935.cms)
 - ['Could change a lot': Zelenskky and Trump to meet in New York ahead of UNGA](https://timesofindia.indiatimes.com/world/us/could-change-a-lot-zelenskky-and-trump-to-meet-in-new-york-ahead-of-unga/articleshow/134373778.cms)
-- [Initial fuel loading begins at Rajasthan Atomic Power Project’s units 7 and 8](https://timesofindia.indiatimes.com/city/mumbai/initial-fuel-loading-begins-at-rajasthan-atomic-power-projects-units-7-and-8/articleshow/134370138.cms)
 
 **NDTV**
+- [North Korea Launches 2 Ballistic Missiles Toward Sea](https://www.ndtv.com/world-news/north-korea-launches-2-ballistic-missiles-toward-sea-12073587#publisher=newsstand)
+- [Analysis: Fewer Fires, Same Fog: Punjab's Stubble Politics Before 2027 Polls](https://www.ndtv.com/india-news/analysis-fewer-fires-same-fog-punjabs-stubble-politics-before-2027-polls-12073585#publisher=newsstand)
+- [Tata Trusts Against Listing, Diverted Attention: Harish Salve To NDTV](https://www.ndtv.com/india-news/trustees-put-on-notice-by-government-harish-salve-on-listing-row-at-tatas-12073306#publisher=newsstand)
 - [Punjab Man Consumes Poison Over Drug Inaction, Sparks Political Row](https://www.ndtv.com/india-news/punjab-man-consumes-poison-over-drug-inaction-sparks-political-row-12073568#publisher=newsstand)
 - ['25,000 CCTVs, 0 Arrests': Faridabad Man Seeks Answers After Father's Death](https://www.ndtv.com/india-news/25-000-cctvs-0-arrests-faridabad-man-seeks-answers-after-fathers-death-12073541#publisher=newsstand)
 - [On The Run For 24 Years, Rajasthan Man Arrested From Gujarat For Murder](https://www.ndtv.com/india-news/on-the-run-for-24-years-rajasthan-man-arrested-from-gujarat-for-murder-12073499#publisher=newsstand)
@@ -33,9 +36,6 @@
 - ['Runaway Board': Abhishek Singhvi Backs Tata Trusts' 'Shareholder Primacy'](https://www.ndtv.com/india-news/noel-tata-tata-despite-abhishek-singhvi-backs-tata-trusts-shareholder-primacy-calls-tata-sons-board-runaway-board-12073137#publisher=newsstand)
 - [Congress vs Congress: Karnataka MLA Threatens To Quit Over Drought Issues](https://www.ndtv.com/india-news/congress-vs-congress-karnataka-mla-threatens-to-quit-over-drought-issues-12073460#publisher=newsstand)
 - [Delhi High Court To Get 7 New Judges Tomorrow, Total Strength To Jump To 50](https://www.ndtv.com/india-news/delhi-high-court-to-get-7-new-judges-tomorrow-total-strength-to-jump-to-50-12073458#publisher=newsstand)
-- [Tata Trusts Objects To Listing, Shifted Attention: Harish Salve to NDTV](https://www.ndtv.com/india-news/trustees-put-on-notice-by-government-harish-salve-on-listing-row-at-tatas-12073306#publisher=newsstand)
-- [Chennai Tourist Dies In Kerala Landslide, Friend Injured](https://www.ndtv.com/india-news/chennai-tourist-dies-in-kerala-landslide-friend-injured-12073431#publisher=newsstand)
-- [Italy Will Soon Ban Burqas In School, Cap Foreign Students: Giorgia Meloni](https://www.ndtv.com/world-news/italy-will-soon-ban-burqas-in-school-cap-foreign-students-giorgia-meloni-12073348#publisher=newsstand)
 
 **Hindustan Times**
 - ['Notices do not mean name deletion': EC clarifies after Kejriwal, Jaishankar, Advani get SIR letters](https://www.hindustantimes.com/india-news/notices-do-not-mean-deletion-election-commission-ec-clarifies-after-kejriwal-jaishankar-advani-get-sir-letters-101789919166051.html)
@@ -49,7 +49,17 @@
 - [Ahmedabad Crime Branch arrests man wanted for 24 years in Rajasthan murder case](https://www.hindustantimes.com/india-news/ahmedabad-crime-branch-arrests-man-wanted-for-24-years-in-rajasthan-murder-case-101789916066672.html)
 - [‘Caste discrimination a stigma on Hindu society’: RSS' Hosabale says ‘our conduct’ can free us from it](https://www.hindustantimes.com/india-news/caste-discrimination-a-stigma-on-hindu-society-rss-hosabale-says-our-conduct-can-free-us-from-it-101789913679320.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಕಾರ್ಪೊರೇಟ್ ಕೆಲಸ ಬಿಟ್ಟು ಮಣ್ಣಿಗಿಳಿದ ಯುವತಿ; ಕ್ಯಾಪ್ಸಿಕಂ ಬೆಳೆದು ವರ್ಷಕ್ಕೆ 4 ಕೋಟಿ ರೂ. ಗಳಿಸುತ್ತಿರುವ ಪ್ರಣೀತಾ ವಮನ್ ಯಶೋಗಾಥೆ!](https://vijaykarnataka.com/business/news/young-woman-quits-corporate-job-to-turn-to-farming-the-success-story-of-pranitha-vaman-earns-4-crore-rs-growing-capsicum/articleshow/134368545.cms)
+- [ಗದಗ ತಾಲೂಕು ಬರಪೀಡಿತ ಎಂದು ಘೋಷಿಸದಿದ್ದರೆ ಶಾಸಕ ಸ್ಥಾನಕ್ಕೆ ರಾಜೀನಾಮೆ: ಹಿರಿಯ ಕಾಂಗ್ರೆಸಿಗ ಎಚ್ ಕೆ ಪಾಟೀಲ್ ಎಚ್ಚರಿಕೆ](https://vijaykarnataka.com/news/gadaga/h-k-patil-warns-resign-as-mla-if-gadag-taluk-is-not-declare-drought-hit/articleshow/134367365.cms)
+- [`ದೇಶದಲ್ಲಿ ಹುಲಿ, ವಿದೇಶದಲ್ಲಿ ಬೆಕ್ಕು'!: ಅಭಿಷೇಕ್ ಶರ್ಮಾ, ವೈಭವ್ ಸೂರ್ಯವಂಶಿ ಬಗ್ಗೆ ಹೊಗಳುತ್ತಲೇ ಚಾಟಿ ಬೀಸಿದ ಸಂದೀಪ್ ಪಾಟೀಲ್](https://vijaykarnataka.com/sports/cricket/news/sandeep-patil-warns-abhishek-sharma-vaibhav-sooryavanshi-about-failure-in-oversees-against-swing-bowling/articleshow/134370542.cms)
+- [ಪಟೋಲಾ ಕುರ್ತಾದಲ್ಲಿ ಮಿಂಚಿದ ದೀಪಿಕಾ ಪಡುಕೋಣೆ; ಸಿದ್ಧಿವಿನಾಯಕ ದರ್ಶನಕ್ಕೆ ಬಂದ ನಟಿಯ ಲುಕ್ ವೈರಲ್!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-siddhivinayak-temple-patola-kurta-look/articleshow/134352111.cms)
+- [ವ್ಹೀಲಿಂಗ್ ಪುಂಡರನ್ನು ತಪ್ಪಿಸುವ ಯತ್ನದಲ್ಲಿ ಟೆಂಪೋ ಟ್ರಾವೆಲರ್ ಅಪಘಾತ, ಯುವಕ ಸಾವು; ನಾಗರಬಾವಿ ಬಳಿ ಹೃದಯ ವಿದ್ರಾವಕ ಘಟನೆ](https://vijaykarnataka.com/news/bengaluru-city/tempo-traveller-accident-due-to-wheelying-stunt-by-youth-near-nagarabhavi-one-youth-dies-six-injury/articleshow/134372079.cms)
+- [ʻಬಿಗ್‌ ಬಾಸ್‌ 18 ಪ್ಲಸ್‌ ಅಲ್ಲ..ʼ: ‌ಸೌಂದರ್ಯ ತೇಜೋವಧೆ ಮಾಡಿದ ಮಂಜನಿಗೆ ಕಿಚ್ಚ ಸುದೀಪ್ ವಾರ್ನಿಂಗ್](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-kiccha-sudeep-takes-class-on-manja-over-soundarya-shetty/articleshow/134374916.cms)
+- [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
+- [ಚಾಣಕ್ಯ ನೀತಿ: ಈ 3 ಜನರೊಂದಿಗೆ ಶತ್ರುತ್ವ ಹೊಂದದಿರಲು ಕಾರಣ.!](https://vijaykarnataka.com/religion/hinduism/chanakya-niti-says-do-not-make-enmity-with-these-3-kind-of-people/articleshow/134352052.cms)
+- [ಕತ್ರಿನಾ ಕೈಫ್ ದಪ್ಪ ಆಗಿದ್ದಾರೆಂದು ಟ್ರೋಲ್ ಹೆರಿಗೆ ಬಳಿಕ ದೇಹದಲ್ಲಿ ಆಗುವ ಸಾಮಾನ್ಯ ಬದಲಾವಣೆಗಳೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/katrina-kaif-postpartum-body-changes-women-after-pregnancy/articleshow/134348311.cms)
+- [ಆನ್‌ಲೈನ್‌ ಟ್ರೇಡಿಂಗ್‌ ನೆಪದಲ್ಲಿ ಪಂಗನಾಮ ಹಾಕಿದ ಬೆಂಗಳೂರಿನ ಮೂವರು ವಂಚಕರ ಸೆರೆ; ಹೀಗೂ ಮೋಸ ಮಾಡ್ತಾರೆ ಜಾಗ್ರತೆಯಾಗಿರಿ!](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-poice-arests-3-fraudsters-online-trading-/articleshow/134371389.cms)
 
 **The Hindu**
 - [‘Stop Vizag Data Centers’ Instagram account blocked in India](https://www.thehindu.com/news/national/andhra-pradesh/stop-vizag-data-centers-instagram-account-blocked-in-india/article71487350.ece)
@@ -64,6 +74,7 @@
 - [3 dead, three missing in Nilambur flash flood](https://www.thehindu.com/news/national/kerala/one-dead-four-missing-in-nilambur-flash-floods/article71488413.ece)
 
 **Livemint**
+- [‘Gaslit by a king’: Charles Spencer breaks silence after Palace response to his Diana memoir](https://www.livemint.com/news/world/gaslit-by-a-king-charles-spencer-breaks-silence-after-palace-response-to-his-diana-memoir-swan-song-11789924380610.html)
 - [South Africa Questions 3 People of Interest in Women’s Murders](https://www.livemint.com/news/south-africa-questions-3-people-of-interest-in-women-s-murders-11789933458817.html)
 - [‘Skill is a tool, but…’: Startup founder points out common red flags among job seekers, as seen during interviews](https://www.livemint.com/news/trends/skill-is-a-tool-but-startup-founder-points-out-common-red-flags-among-job-seekers-as-seen-during-interviews-11789929001090.html)
 - [Giorgia Meloni plans burqa, niqab ban in Italian schools and cap on foreign students in classrooms](https://www.livemint.com/news/world/giorgia-meloni-plans-burqa-niqab-ban-in-italian-schools-and-cap-on-foreign-students-in-classrooms-11789925960986.html)
@@ -73,7 +84,6 @@
 - [Bengaluru Software Charge: Property owners to pay additional fee with tax, here's what it is and how much it can cost](https://www.livemint.com/news/bengaluru-software-charge-property-owners-to-pay-additional-fee-with-tax-heres-what-it-is-and-how-much-it-can-cost-11789921734374.html)
 - [Trump signs Russia sanctions law, tariff threat looms over India, China: Can Africa become Putin’s next energy network?](https://www.livemint.com/news/world/trump-signs-russia-sanctions-law-tariff-threat-looms-over-india-china-can-africa-become-putin-s-next-energy-network-11789918545965.html)
 - [Delhi SIR: Got an EC notice? CEO says names won’t be automatically deleted after Advani, Jaishankar among those flagged](https://www.livemint.com/news/india/delhi-sir-got-an-ec-notice-ceo-says-names-won-t-be-automatically-deleted-after-advani-jaishankar-among-those-flagged-11789913825204.html)
-- [Mark Zuckerberg sports De Bethune DB28xs Kind of Blue Tourbillon: Priced at  ₹2.1 cr, here's why it is special to him](https://www.livemint.com/news/trends/mark-zuckerberg-sports-de-bethune-db28xs-kind-of-blue-tourbillon-priced-at-rs-2-1-cr-heres-why-it-is-special-to-him-11789916816262.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -99,26 +109,26 @@
 - Congress (2.6)
 - Jaishankar (2.6)
 - Advani (2.6)
-- Giorgia Meloni (2.0)
-- Rajasthan (1.9)
 - Karnataka (1.9)
-- Landslide (1.6)
-- Kerala (1.6)
+- Rajasthan (1.6)
 - Bihar (1.3)
+- Landslide (1.3)
+- Kerala (1.3)
+- Atlanta (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [Asian Games 2026: भारताच्या लेकीने रचला इतिहास ! कोण आहे सुचिका? १२व्या वर्षी झालेला लैंगिक अत्याचार](https://www.lokmat.com/other-sports/asian-games-2026-indian-girl-creates-history-who-is-suchika-tariyal-who-was-sexually-assaulted-at-age-of-12-a-a747/)
+- [Neurosurgeon burnt alive after car hits divider, bursts into flames in Telangana](https://timesofindia.indiatimes.com/city/hyderabad/neurosurgeon-charred-to-death-after-car-hits-divider-catches-fire-in-telangana/articleshow/134365504.cms)
+- [মেমোরি সংকটে নতুন কৌশলে ছোট ফোন ও ল্যাপটপ নির্মাতারা](https://techworldbd.com/news/2235)
+- [Shafali Verma’s century and India’s bowling blitz crush Bangladesh as defending champions storm into Asian Games final](https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/shafali-vermas-century-and-indias-bowling-blitz-crush-bangladesh-as-defending-champions-storm-into-asian-games-final/articleshow/134365242.cms)
+- [స్పృహ కోల్పోయిన భారత ఎంఎంఏ ఫైటర్‌.. ఆసియా క్రీడలకు దూరం](https://www.prajasakti.com/latest-news/sports-10/asian-games-mmas-varun-sanyal-declared-medically-unfit)
+- [Semicon India 2026 draws global chipmakers as companies eye expansion in India](https://www.moneycontrol.com/news/india/semicon-india-2026-draws-global-chipmakers-as-companies-eye-expansion-in-india-14033810.html)
+- [दिल्ली में 3 दिनों की बैंक हड़ताल! SBI ने ग्राहकों को कहा- निपटा लें जरूरी काम](https://www.abplive.com/states/delhi-ncr/sbi-issued-advisory-to-customer-ahead-of-3-day-bank-strike-from-sept-28-to-30-3191408)
+- [અમરેલીમાં ભાદરવો ભરપૂર! જાફરાબાદ, લીલીયા, કુકાવાવ સહિત જિલ્લામાં સાર્વત્રિક વરસાદથી ખેડૂતોમાં ખુશીની લહેર](https://www.gujaratsamachar.com/news/amreli/amreli-district-heavy-rain-in-lathi-savarkundla-brings-joy-to-farmers-20394219350)
+- [Congress calls SIR 'Shah Instigated Removal', flags large-scale voter deletions](https://timesofindia.indiatimes.com/india/congress-calls-sir-shah-instigated-removal-flags-large-scale-voter-deletions/articleshow/134365043.cms)
 - [‘हम भी अच्छी जिंदगी जी सकते हैं’, करोड़ों की गाड़ी में बैठी मैथिली ठाकुर हुईं ट्रोल, कंगना ने दिया करारा जवाब](https://www.aajtak.in/entertainment/bollywood-news/story/kangana-ranaut-slams-trolls-over-singer-bjp-mla-maithili-thakur-new-13-crore-rolls-royce-tmovj-dskc-2648019-2026-09-20)
-- ['યુવાનોને અંધભક્ત બનાવી રહ્યા છે', રાહુલ ગાંધીએ ભાજપ પર સાધ્યું નિશાન](https://gujarati.abplive.com/news/india/they-are-turning-the-youth-into-blind-followers-rahul-gandhi-targets-the-bjp-991618)
-- [IND vs BAN, Highlights: India thumps Bangladesh to enter Asian Games 2026 women's cricket final; Shafali shines with century](https://sportstar.thehindu.com/asian-games/india-vs-bangladesh-asian-games-2026-womens-cricket-semifinal-live-score-updates/article71487003.ece)
-- [ગુજરાતના 3 જિલ્લામાં ભારે વરસાદનું ઓરેન્જ એલર્ટ જાહેર, હવામાન વિભાગની લેટેસ્ટ આગાહી](https://www.gujaratsamachar.com/news/amreli/orange-alert-issued-for-heavy-rain-in-3-districts-of-gujarat-latest-forecast-from-meteorological-department-48164931244)
-- [India vs Indonesia Highlights, Asian Games 2026 men's hockey: Dilpreet scores four as IND beats INA 13-1](https://sportstar.thehindu.com/asian-games/news/india-vs-indonesia-hockey-live-score-asian-games-2026-match-updates-highlights/article71487128.ece)
-- [Shafali Verma News : शेफाली वर्माने वादळी खेळीने इतिहास-भूगोल बदलून टाकला! टी-20 क्रिकेटमधील 6 मोठे विक्रम मोडले](https://marathi.abplive.com/sports/cricket/shafali-verma-fastest-century-in-t20i-women-india-vs-bangladesh-semi-final-asian-games-2026-broke-6-records-marathi-news-1439671)
-- [भारत ने बांग्लादेश को दूसरे सेमीफाइनल में दी करारी मात, गोल्ड मेडल मैच में श्रीलंका से होगा सामना](https://www.indiatv.in/sports/cricket/india-women-enters-into-the-final-of-asian-games-after-beating-bangladesh-now-will-face-srilanka-for-gold-medal-2026-09-20-1244269)
-- ["റേഷൻ കാർഡിന്റെ നാളുകൾ' ഓർമിപ്പിച്ച് ശൈഖ് മുഹമ്മദ്](https://www.sirajlive.com/sheikh-mohammed-open-letter-dubai-youth-history-ration-cards-pearl-industry.html)
-- [Cyclone Heavy Rain Bengal : গভীর নিম্নচাপ ঘনাচ্ছে, ঘূর্ণিঝড়ের কী অবস্থা-কবে থেকে ব্যাপক বৃষ্টি? Latest Weather Update](https://bangla.aajtak.in/west-bengal/south-bengal/story/low-pressure-system-and-cyclone-threat-west-bengal-south-districts-may-see-heavy-rain-before-puja-suk-1452953-2026-09-20)
-- [Hugs, kisses before NYC subway tragedy: New details emerge in Malaika Chitre, Navam Kaul deaths](https://www.hindustantimes.com/world-news/hugs-and-kisses-on-platform-before-nyc-subway-train-strike-details-emerge-malaika-chitre-navam-kaul-101789881748164.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
