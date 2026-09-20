@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-20 20:33:54
+# India Trending Report — 2026-09-20 21:01:58
 
 ## Google Trends (India) — top trending searches
 1. [8वें वेतन आयोग सैलरी](https://trends.google.com/trending/rss?geo=IN)
@@ -6,24 +6,24 @@
 3. [tata aeris](https://trends.google.com/trending/rss?geo=IN)
 4. [man utd](https://trends.google.com/trending/rss?geo=IN)
 5. [clock](https://trends.google.com/trending/rss?geo=IN)
-6. [laliga](https://trends.google.com/trending/rss?geo=IN)
+6. [atlético madrid vs real madrid](https://trends.google.com/trending/rss?geo=IN)
 7. [epl](https://trends.google.com/trending/rss?geo=IN)
 8. [brian brobbey](https://trends.google.com/trending/rss?geo=IN)
 9. [spider man brand new day](https://trends.google.com/trending/rss?geo=IN)
-10. [real madrid vs atlético madrid](https://trends.google.com/trending/rss?geo=IN)
+10. [real madrid](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Amit Shah wants UCC in all NDA states by 2029. What will JD(U) do in Bihar?](https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms)
+- ['Condition was not met': Tata Trusts challenges Chandrasekaran reappointment resolution](https://timesofindia.indiatimes.com/business/india-business/condition-was-not-met-tata-trusts-challenges-chandrasekaran-reappointment-resolution/articleshow/134370043.cms)
 - [US prepares sweeping sanctions on International Criminal Court](https://timesofindia.indiatimes.com/world/us/us-prepares-sweeping-sanctions-on-international-criminal-court/articleshow/134375029.cms)
+- ['Nothing worng if people happily tip govt officials': K'taka minister sparks row](https://timesofindia.indiatimes.com/city/bengaluru/offer-tips-to-good-officers-says-min-lands-in-soup/articleshow/134374842.cms)
 - [93% of deleted Bengal voters have won appeals, EC tells SC](https://timesofindia.indiatimes.com/india/93-of-deleted-bengal-voters-have-won-appeals-ec-tells-sc/articleshow/134374880.cms)
 - [Landslide, flash flood kill 6 in Kerala amid heavy rain alert - video](https://timesofindia.indiatimes.com/city/kochi/3-dead-after-landslide-hits-keralas-idukki/articleshow/134371135.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
+- [Amit Shah wants UCC in all NDA states by 2029. What will JD(U) do in Bihar?](https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms)
 - [Meet Sai Sri Valli Mogilineedi, eighth-grader who designed controlled-release antacid](https://timesofindia.indiatimes.com/world/us/meet-sai-sri-valli-mogilineedi-the-mechanicsburg-eighth-grader-who-designed-a-controlled-release-antacid-and-became-one-of-30-us-finalists-competing-for-more-than-100000-in-stem-awards/articleshow/134373682.cms)
 - [46-year-old man found dead inside luxury car in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/46-year-old-man-found-dead-inside-luxury-car-parked-on-koramangala-road-in-bengaluru/articleshow/134372028.cms)
 - [‘When do I blow entire nation up?' Trump's ultimatum after Iran warns of 'decisive war'](https://timesofindia.indiatimes.com/world/us/when-do-i-blow-entire-nation-up-trumps-ultimatum-after-iran-warns-of-decisive-war/articleshow/134372224.cms)
-- [Russia wraps up first wartime parliamentary election, Kremlin set to retain control](https://timesofindia.indiatimes.com/world/europe/russia-wraps-up-first-wartime-parliamentary-election-kremlin-set-to-retain-control/articleshow/134374935.cms)
-- ['Could change a lot': Zelenskky and Trump to meet in New York ahead of UNGA](https://timesofindia.indiatimes.com/world/us/could-change-a-lot-zelenskky-and-trump-to-meet-in-new-york-ahead-of-unga/articleshow/134373778.cms)
 
 **NDTV**
 - [North Korea Launches 2 Ballistic Missiles Toward Sea](https://www.ndtv.com/world-news/north-korea-launches-2-ballistic-missiles-toward-sea-12073587#publisher=newsstand)
@@ -63,6 +63,7 @@
 
 **The Hindu**
 - [‘Stop Vizag Data Centers’ Instagram account blocked in India](https://www.thehindu.com/news/national/andhra-pradesh/stop-vizag-data-centers-instagram-account-blocked-in-india/article71487350.ece)
+- [Once described as BIMARU, U.P. transformed as country’s growth engine, says CM Yogi](https://www.thehindu.com/news/national/uttar-pradesh/once-described-as-bimaru-up-transformed-as-countrys-growth-engine-says-cm-yogi/article71488822.ece)
 - [Missing measure in India’s magnet mission](https://www.thehindu.com/opinion/op-ed/missing-measure-in-indias-magnet-mission/article71488862.ece)
 - [Overnight rain brings temperatures down in Bengaluru; KIA weather station records 94.2 mm](https://www.thehindu.com/news/cities/bangalore/overnight-rain-bring-temperatures-down-in-bengaluru-kia-records-942-mm/article71487287.ece)
 - [Panathur Railway Underbridge submerged after rain, commuters struggle through hip-deep water](https://www.thehindu.com/news/cities/bangalore/panathur-railway-underbridge-submerged-after-rain-commuters-struggle-through-hip-deep-water/article71488104.ece)
@@ -71,7 +72,6 @@
 - [Man found dead inside parked car in Koramangala](https://www.thehindu.com/news/national/karnataka/man-found-dead-inside-parked-car-in-koramangala/article71487564.ece)
 - [‘India is entering a period of economic growth that could be unparalleled in our history’](https://www.thehindu.com/news/national/tamil-nadu//article71485038.ece)
 - [Dengue cases in Tamil Nadu decline for third consecutive year as per government data](https://www.thehindu.com/sci-tech/health/dengue-cases-in-tamil-nadu-decline-for-third-consecutive-year-as-per-government-data/article71487571.ece)
-- [3 dead, three missing in Nilambur flash flood](https://www.thehindu.com/news/national/kerala/one-dead-four-missing-in-nilambur-flash-floods/article71488413.ece)
 
 **Livemint**
 - [‘Gaslit by a king’: Charles Spencer breaks silence after Palace response to his Diana memoir](https://www.livemint.com/news/world/gaslit-by-a-king-charles-spencer-breaks-silence-after-palace-response-to-his-diana-memoir-swan-song-11789924380610.html)
@@ -102,33 +102,33 @@
 ## Cross-source trending keywords (derived from headlines above)
 - India (5.2)
 - Bengaluru (2.9)
-- What (2.6)
 - Bengal (2.6)
-- Russia (2.6)
-- Trump (2.6)
+- What (2.6)
 - Congress (2.6)
 - Jaishankar (2.6)
 - Advani (2.6)
 - Karnataka (1.9)
 - Rajasthan (1.6)
-- Bihar (1.3)
+- Condition (1.3)
+- Chandrasekaran (1.3)
+- Nothing (1.3)
+- K'taka (1.3)
 - Landslide (1.3)
 - Kerala (1.3)
-- Atlanta (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Asian Games 2026: भारताच्या लेकीने रचला इतिहास ! कोण आहे सुचिका? १२व्या वर्षी झालेला लैंगिक अत्याचार](https://www.lokmat.com/other-sports/asian-games-2026-indian-girl-creates-history-who-is-suchika-tariyal-who-was-sexually-assaulted-at-age-of-12-a-a747/)
-- [Neurosurgeon burnt alive after car hits divider, bursts into flames in Telangana](https://timesofindia.indiatimes.com/city/hyderabad/neurosurgeon-charred-to-death-after-car-hits-divider-catches-fire-in-telangana/articleshow/134365504.cms)
-- [মেমোরি সংকটে নতুন কৌশলে ছোট ফোন ও ল্যাপটপ নির্মাতারা](https://techworldbd.com/news/2235)
-- [Shafali Verma’s century and India’s bowling blitz crush Bangladesh as defending champions storm into Asian Games final](https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/shafali-vermas-century-and-indias-bowling-blitz-crush-bangladesh-as-defending-champions-storm-into-asian-games-final/articleshow/134365242.cms)
-- [స్పృహ కోల్పోయిన భారత ఎంఎంఏ ఫైటర్‌.. ఆసియా క్రీడలకు దూరం](https://www.prajasakti.com/latest-news/sports-10/asian-games-mmas-varun-sanyal-declared-medically-unfit)
-- [Semicon India 2026 draws global chipmakers as companies eye expansion in India](https://www.moneycontrol.com/news/india/semicon-india-2026-draws-global-chipmakers-as-companies-eye-expansion-in-india-14033810.html)
-- [दिल्ली में 3 दिनों की बैंक हड़ताल! SBI ने ग्राहकों को कहा- निपटा लें जरूरी काम](https://www.abplive.com/states/delhi-ncr/sbi-issued-advisory-to-customer-ahead-of-3-day-bank-strike-from-sept-28-to-30-3191408)
-- [અમરેલીમાં ભાદરવો ભરપૂર! જાફરાબાદ, લીલીયા, કુકાવાવ સહિત જિલ્લામાં સાર્વત્રિક વરસાદથી ખેડૂતોમાં ખુશીની લહેર](https://www.gujaratsamachar.com/news/amreli/amreli-district-heavy-rain-in-lathi-savarkundla-brings-joy-to-farmers-20394219350)
-- [Congress calls SIR 'Shah Instigated Removal', flags large-scale voter deletions](https://timesofindia.indiatimes.com/india/congress-calls-sir-shah-instigated-removal-flags-large-scale-voter-deletions/articleshow/134365043.cms)
-- [‘हम भी अच्छी जिंदगी जी सकते हैं’, करोड़ों की गाड़ी में बैठी मैथिली ठाकुर हुईं ट्रोल, कंगना ने दिया करारा जवाब](https://www.aajtak.in/entertainment/bollywood-news/story/kangana-ranaut-slams-trolls-over-singer-bjp-mla-maithili-thakur-new-13-crore-rolls-royce-tmovj-dskc-2648019-2026-09-20)
+- [રશિયા પર અત્યાર સુધીનો સૌથી મોટો હુમલો, યુક્રેને 1000થી વધુ ડ્રોન એટેક દ્વારા મોસ્કો હચમચાવ્યું](https://www.gujaratsamachar.com/news/international/in-the-biggest-attack-on-russia-ever-ukraine-shook-moscow-with-over-1000-drone-attacks-89822913179)
+- ['സഞ്ജു സാംസണെ വെറുതെ വിടൂ'; സൂര്യവംശിക്കായി പരിചയസമ്പന്നരായ കളിക്കാരെ ഒഴിവാക്കാനാവില്ലെന്ന് മുന്‍ താരം](https://www.asianetnews.com/cricket-sports/former-indian-women-cricketer-anjum-chopra-says-leave-sanju-samson-alone-articleshow-be2ggwh)
+- [Pentagon Investigators Say Overreliance on Palantir AI Tech Contributed to U.S. Strike That Killed 123 Iranian Children](https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477)
+- [Asian Games 2026: શેફાલીની તોફાની સદી, દીપ્તિ-નંદિનીનો કહેર, ભારત ફાઇનલમાં પહોંચ્યું](https://gujarati.abplive.com/sports/shafali-s-explosive-century-deepti-and-nandini-s-havoc-india-reaches-the-final-991624)
+- [Asian Games Women Cricket: শেফালির দুরন্ত সেঞ্চুরি, বাংলাদেশকে উড়িয়ে ফাইনালে পৌঁছে গেল ভারত](https://bangla.asianetnews.com/sports/cricket/asian-games-women-cricket-india-women-crush-bangladesh-to-reach-asian-games-cricket-final-asian-games-2026-anbsd/articleshow-4qq2qh0)
+- [Gujarat Rain: સાંજે 4 વાગ્યા સુધી રાજ્યમાં ગાજવીજ સાથે ભારે વરસાદની આગાહી, 3 જિલ્લામાં ઓરેન્જ એલર્ટ](https://gujarati.abplive.com/news/gujarat/nowcast-for-rain-in-gujarat-until-4-pm-orange-alert-for-3-districts-991623)
+- [Rahul Gandhi | కాంగ్రెస్ కార్య‌క్ర‌మంలో మోదీని అవ‌మానించేలా మిమిక్రీ.. రాహుల్ గాంధీపై బీజేపీ ఆగ్ర‌హం](https://www.ntnews.com/national/bjp-slams-rahul-gandhi-over-stage-act-mocking-pm-modi-elderly-woman-at-chhatron-ki-goonj-2514868)
+- [ఇంగ్లండ్‌లో సిక్కు బస్ డ్రైవర్‌పై యెమెన్ దేశస్థుడి దాడి](https://www.andhrajyothy.com/2026/international/yemeni-man-assaults-sikh-driver-steals-his-bus-rams-vehicles-in-uk-1559692.html)
+- [করম উৎসবে পুরুলিয়ায় শুভেন্দু! আদিবাসীদের ভাষা-সংস্কৃতি-ঐতিহ্য-অধিকার রক্ষার প্রতিশ্রুতি](https://bengali.indianexpress.com/west-bengal/purulia-karam-festival-suvendu-adhikari-jangalmahal-adivasi-kurmi-message-12554915)
+- [Smriti Mandhana News : स्मृती मानधनाने इतिहास रचला, आणखी एक विक्रम रचला, टी-20 आंतरराष्ट्रीय क्रिकेटमध्ये थक्क करणारी कामगिरी](https://marathi.abplive.com/sports/cricket/smriti-mandhana-breaks-suzie-bates-record-to-become-highest-run-scorer-in-women-s-t20i-cricket-smriti-mandhana-marathi-news-1439677)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
