@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-20 03:01:54
+# India Trending Report — 2026-09-20 03:35:33
 
 ## Google Trends (India) — top trending searches
 1. [iran news](https://trends.google.com/trending/rss?geo=IN)
-2. [dusu elections](https://trends.google.com/trending/rss?geo=IN)
-3. [ufc](https://trends.google.com/trending/rss?geo=IN)
-4. [bangalore weather](https://trends.google.com/trending/rss?geo=IN)
-5. [barca](https://trends.google.com/trending/rss?geo=IN)
+2. [ufc](https://trends.google.com/trending/rss?geo=IN)
+3. [bangalore weather](https://trends.google.com/trending/rss?geo=IN)
+4. [barca](https://trends.google.com/trending/rss?geo=IN)
+5. [barcelona](https://trends.google.com/trending/rss?geo=IN)
 6. [fcb](https://trends.google.com/trending/rss?geo=IN)
 7. [sevilla vs barcelona](https://trends.google.com/trending/rss?geo=IN)
 8. [pawan singh news](https://trends.google.com/trending/rss?geo=IN)
-9. [sohail khan](https://trends.google.com/trending/rss?geo=IN)
-10. [desi](https://trends.google.com/trending/rss?geo=IN)
+9. [desi](https://trends.google.com/trending/rss?geo=IN)
+10. [salman khan](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Numbers behind DUSU result: CJP momentum doesn’t show up in Left’s vote tally](https://timesofindia.indiatimes.com/city/delhi/numbers-behind-dusu-result-cjp-momentum-doesnt-show-up-in-lefts-vote-tally-nsui-rebels-victory-most-striking-story/articleshow/134362777.cms)
+- [Champions return, 314 debutants arrive: Inside India’s 500-plus Asian Games campaign](https://timesofindia.indiatimes.com/sports/asian-games-2026/champions-return-314-debutants-arrive-inside-indias-500-plus-asian-games-campaign/articleshow/134362698.cms)
+- [Something big brewing? Trump abruptly leaves Camp David, returns to White House](https://timesofindia.indiatimes.com/world/us/something-big-brewing-trump-abruptly-leaves-camp-david-returns-to-white-house/articleshow/134362824.cms)
+- [The Hindi writer from Delhi who interviewed Khomeini and Khamenei](https://timesofindia.indiatimes.com/city/delhi/the-hindi-writer-from-delhi-who-interviewed-khomeini-and-khamenei/articleshow/134362840.cms)
+- [Ambulance stuck in mud, pregnant woman taken to MP hospital on bullock cart](https://timesofindia.indiatimes.com/city/indore/ambulance-stuck-in-mud-pregnant-woman-taken-to-hospital-on-bullock-cart/articleshow/134359932.cms)
+- [Apple CEO recalls 25-year-old Apple lesson: ‘I wasn’t sure I belonged there’](https://timesofindia.indiatimes.com/technology/tech-news/john-ternus-on-the-lesson-he-learnt-25-years-ago-when-he-first-joined-apples-executive-team-says-i-wasnt-sure-i-belonged-there-the-people-i-met-were-so-/articleshow/134362789.cms)
 - ['Negotiate or face decisive war': Iran sets 7 conditions to restart talks with US](https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms)
 - [‘Sell your wife’: Delhi's killer couple who murdered executive face fraud probe](https://timesofindia.indiatimes.com/city/delhi/sell-your-wife-delhi-killer-couple-who-murdered-executive-yuvraj-singh-manchanda-under-scanner-for-frauds-worth-crores/articleshow/134362704.cms)
 - [In a first, abetment FIR filed against IIT-Bombay professor in student’s death](https://timesofindia.indiatimes.com/city/mumbai/in-a-first-abetment-fir-filed-against-iit-bombay-professor-in-second-year-students-death/articleshow/134359955.cms)
-- [Champions return, 314 debutants arrive: Inside India’s 500-plus Asian Games campaign](https://timesofindia.indiatimes.com/sports/asian-games-2026/champions-return-314-debutants-arrive-inside-indias-500-plus-asian-games-campaign/articleshow/134362698.cms)
-- [Something big brewing? Trump abruptly leaves Camp David, returns to White House](https://timesofindia.indiatimes.com/world/us/something-big-brewing-trump-abruptly-leaves-camp-david-returns-to-white-house/articleshow/134362824.cms)
-- [Apple CEO recalls 25-year-old Apple lesson: ‘I wasn’t sure I belonged there’](https://timesofindia.indiatimes.com/technology/tech-news/john-ternus-on-the-lesson-he-learnt-25-years-ago-when-he-first-joined-apples-executive-team-says-i-wasnt-sure-i-belonged-there-the-people-i-met-were-so-/articleshow/134362789.cms)
 - [As monsoon withdrawal begins, season may end with 10% deficit](https://timesofindia.indiatimes.com/india/as-monsoon-withdrawal-begins-season-may-end-with-10-deficit/articleshow/134360430.cms)
-- [Ambulance stuck in mud, pregnant woman taken to hospital on bullock cart](https://timesofindia.indiatimes.com/city/indore/ambulance-stuck-in-mud-pregnant-woman-taken-to-hospital-on-bullock-cart/articleshow/134359932.cms)
-- [PM Modi pushes back on West’s narrative over emissions](https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms)
-- [Olympiad: Erigaisi picks first win of tournament; India's winning juggernaut rolls on](https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-4-arjun-erigaisi-picks-first-win-of-tournament-indias-winning-juggernaut-rolls-on/articleshow/134362654.cms)
 
 **NDTV**
 - [Nila Vikhe Patil, Maharashtra Minister's Niece, Elected To Sweden Parliament](https://www.ndtv.com/world-news/nila-vikhe-patil-maharashtra-ministers-niece-elected-to-sweden-parliament-12070704#publisher=newsstand)
@@ -38,6 +38,8 @@
 - [Disha Salian's Father Visits Thackeray Residence To Serve Defamation Notice](https://www.ndtv.com/india-news/disha-salians-father-visits-thackeray-residence-to-serve-defamation-notice-12070200#publisher=newsstand)
 
 **Hindustan Times**
+- [‘Developing nations unjustly blamed’: PM Modi flags climate inequality](https://www.hindustantimes.com/india-news/developing-nations-unjustly-blamed-pm-modi-flags-climate-inequality-101789872087302.html)
+- [Jharkhand Naxal commander, with  ₹30 lakh bounty, killed in police encounter in UP's Varanasi](https://www.hindustantimes.com/india-news/jharkhand-naxal-commander-with-30-lakh-bounty-killed-in-police-encounter-in-ups-varanasi-101789873316653.html)
 - [8-year-old among 2 electrocuted to death near Ganapati pandal in Mumbai's Lalbaug](https://www.hindustantimes.com/india-news/8yearold-among-2-electrocuted-to-death-near-ganapati-pandal-in-mumbais-lalbaug-101789869654822.html)
 - [Nithari case's Surendra Koli cremated in Haridwar; police await autopsy report](https://www.hindustantimes.com/cities/delhi-news/surendra-koli-s-last-rites-performed-police-await-autopsy-report-101789841887641.html)
 - [IIM Jammu students threatened with  ₹500 fine for missing ‘mandatory’ Modi birthday event](https://www.hindustantimes.com/cities/chandigarh-news/congress-criticises-iim-jammu-after-students-fined-500-for-missing-pm-s-birthday-event-101789840747853.html)
@@ -46,32 +48,30 @@
 - [Films, podcasts, Meghalaya honeymoon murder: How Siya Goyal and team planned Ketan’s killing at Lohagad Fort](https://www.hindustantimes.com/india-news/films-podcasts-meghalaya-honeymoon-murder-how-siya-goyal-and-team-planned-ketan-s-killing-at-lohagad-fort-101789866120895.html)
 - [ED arrests UP firm promoter in Tirumala prasadam adulterated ghee supply case](https://www.hindustantimes.com/india-news/ed-arrests-up-firm-promoter-in-tirumala-prasadam-adulterated-ghee-supply-case-101789846691934.html)
 - [Andhra CM seeks steps to mitigate drought-like conditions](https://www.hindustantimes.com/india-news/andhra-cm-seeks-steps-to-mitigate-drought-like-conditions-101789846631667.html)
-- [Why was AAP's Arvind Kejriwal issued SIR notice? Poll body clarifies amid row](https://www.hindustantimes.com/india-news/why-was-aap-arvind-kejriwal-issued-sir-notice-poll-body-electoral-registration-officer-clarifies-amid-row-101789834329009.html)
-- [‘Despite Jhooth ki Goonj’: BJP targets Rahul Gandhi after ABVP's big win in DUSU elections](https://www.hindustantimes.com/india-news/tight-slap-on-his-face-bjp-rahul-gandhi-abvps-big-win-dusu-2026-election-results-nsui-congress-101789828782110.html)
 
 **Vijay Karnataka**
+- [ಕಸ್ತೂರಿರಂಗನ್‌ ವರದಿ ಆತಂಕ: ಸಿಎಂ ಡಿಕೆ ಶಿವಕುಮಾರ್ ಮೇಲೆ ಮಲೆನಾಡಿಗರ ನಿರೀಕ್ಷೆ, ಕಾಡಾನೆ ಹಾವಳಿ ಸೇರಿ ಸಮಸ್ಯೆಗಳ ಸರಮಾಲೆ](https://vijaykarnataka.com/news/hasana/concerns-over-the-kasturi-rangan-report-malnad-residents-pin-hopes-on-cm-dk-shivakumar/articleshow/134362719.cms)
 - [ತೆನೆ ಕಟ್ಟುವ ಹೊತ್ತಲ್ಲೇ ಕೈ ಕೊಟ್ಟ ಮಳೆ: ಭತ್ತದ ಇಳುವರಿಗೆ ಆತಂಕ, ಉಡುಪಿಯಲ್ಲಿ 15 ದಿನದಲ್ಲಿ ಕೇವಲ 4.2 ಸೆಂ.ಮೀ. ಮಳೆ](https://vijaykarnataka.com/news/udupi/rain-fails-just-as-paddy-crops-begin-to-ear-yield-at-risk-only-4-point-2-cm-of-rainfall-recorded-in-15-days-in-udupi-district/articleshow/134362729.cms)
 - [ಮಂಗಳೂರು ಐಟಿ ಕ್ಷೇತ್ರ ಸೈಲೆಂಟ್‌, ನಿಗಮಗಳಿಗೆ ಹಣವಿಲ್ಲ! ಜೆನ್‌ಜೀಗಳ ನಿರೀಕ್ಷೆ ಹುಸಿ, ಬೇಡಿಕೆ ಪಟ್ಟಿಯಲ್ಲಿ ಬಾಕಿಯಾದ ಯೋಜನೆಗಳು](https://vijaykarnataka.com/news/mangaluru/mangalurus-it-sector-remains-quiet-corporations-lack-funds-gen-zs-expectations-dashed-projects-remain-pending-outcome-of-cabinet-meeting/articleshow/134362582.cms)
-- [ಗ್ರೇಟರ್ ಬೆಂಗಳೂರು ಪ್ರಾಧಿಕಾರದಿಂದ ನಗರ ವಾಸಿಗಳಿಗೆ ಸಾಫ್ಟ್‌ವೇರ್‌ ಶುಲ್ಕದ ಬರೆ!: ಯಾವುದಕ್ಕೆ ಎಷ್ಟು? ವಿರೋಧ ಯಾಕೆ?](https://vijaykarnataka.com/news/bengaluru-city/greater-bengaluru-authority-imposes-software-fee-burden-on-city-residents-/articleshow/134356459.cms)
 - [ಪಟೋಲಾ ಕುರ್ತಾದಲ್ಲಿ ಮಿಂಚಿದ ದೀಪಿಕಾ ಪಡುಕೋಣೆ; ಸಿದ್ಧಿವಿನಾಯಕ ದರ್ಶನಕ್ಕೆ ಬಂದ ನಟಿಯ ಲುಕ್ ವೈರಲ್!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-siddhivinayak-temple-patola-kurta-look/articleshow/134352111.cms)
-- [ನೈಸ್ ಟೋಲ್ ಅಕ್ರಮ ಆರೋಪ: 7 ದಿನದಲ್ಲಿ ಸ್ಫೋಟಕ ಸತ್ಯ ಬಹಿರಂಗ, ನಿಖಿಲ್ ಕುಮಾರಸ್ವಾಮಿ ಸುಳಿವು](https://vijaykarnataka.com/news/karnataka/nice-road-controversy-nikhil-kumaraswamy-slams-congress/articleshow/134351481.cms)
+- [ಗ್ರೇಟರ್ ಬೆಂಗಳೂರು ಪ್ರಾಧಿಕಾರದಿಂದ ನಗರ ವಾಸಿಗಳಿಗೆ ಸಾಫ್ಟ್‌ವೇರ್‌ ಶುಲ್ಕದ ಬರೆ!: ಯಾವುದಕ್ಕೆ ಎಷ್ಟು? ವಿರೋಧ ಯಾಕೆ?](https://vijaykarnataka.com/news/bengaluru-city/greater-bengaluru-authority-imposes-software-fee-burden-on-city-residents-/articleshow/134356459.cms)
 - [BBK 13 ಕಾಮನರ್ಸ್‌ಗೆ ಅವಕಾಶ ಇಲ್ಲ: ಕಣ್ಣೀರಿಟ್ಟ ಧನುಷ್, ಕಾರಣ ಬಿಚ್ಚಿಟ್ಟ ಕಿಚ್ಚ ಸುದೀಪ್‌!](https://vijaykarnataka.com/tv/bigg-boss-kannada/kiccha-sudeep-is-angry-with-the-agniparikshe-contestants-no-chance-for-commoners-in-the-next-season-of-bigg-boss-kannada/articleshow/134362763.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [ಚಾಣಕ್ಯ ನೀತಿ: ಈ 3 ಜನರೊಂದಿಗೆ ಶತ್ರುತ್ವ ಹೊಂದದಿರಲು ಕಾರಣ.!](https://vijaykarnataka.com/religion/hinduism/chanakya-niti-says-do-not-make-enmity-with-these-3-kind-of-people/articleshow/134352052.cms)
 - [ಕತ್ರಿನಾ ಕೈಫ್ ದಪ್ಪ ಆಗಿದ್ದಾರೆಂದು ಟ್ರೋಲ್ ಹೆರಿಗೆ ಬಳಿಕ ದೇಹದಲ್ಲಿ ಆಗುವ ಸಾಮಾನ್ಯ ಬದಲಾವಣೆಗಳೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/katrina-kaif-postpartum-body-changes-women-after-pregnancy/articleshow/134348311.cms)
-- [ದಿಲ್ಲಿ ಮತದಾರರ ಪಟ್ಟಿಯಲ್ಲಿ ಅರವಿಂದ್ ಕೇಜ್ರಿವಾಲ್ ಹೆಸರೇ ಇಲ್ಲ ಎಂದು ಆಪ್ ಆರೋಪ! ಚುನಾವಣಾ ಆಯೋಗ ಸ್ಪಷ್ಟನೆಯೇನು?](https://vijaykarnataka.com/news/new-delhi/aap-alleges-arvind-kejriwals-name-is-missing-from-the-delhi-voters-list-and-election-commissions-clarification/articleshow/134357020.cms)
+- [ನೈಸ್ ಟೋಲ್ ಅಕ್ರಮ ಆರೋಪ: 7 ದಿನದಲ್ಲಿ ಸ್ಫೋಟಕ ಸತ್ಯ ಬಹಿರಂಗ, ನಿಖಿಲ್ ಕುಮಾರಸ್ವಾಮಿ ಸುಳಿವು](https://vijaykarnataka.com/news/karnataka/nice-road-controversy-nikhil-kumaraswamy-slams-congress/articleshow/134351481.cms)
 
 **The Hindu**
+- [Corteva Agriscience creates awareness on pest control among farmers in Nellore](https://www.thehindu.com/news/national/andhra-pradesh/corteva-agriscience-creates-awareness-on-pest-control-among-farmers-in-nellore/article71484932.ece)
 - [BSNL deputy general manager urges engineering students to embrace AI, robotics and quantum technology](https://www.thehindu.com/news/national/andhra-pradesh/bsnl-deputy-general-manager-urges-engineering-students-to-embrace-ai-robotics-and-quantum-technology/article71484459.ece)
+- [Nellore DLSA Chairman assures free legal counsel for poor prisoners](https://www.thehindu.com/news/national/andhra-pradesh/nellore-dlsa-chairman-assures-free-legal-counsel-for-poor-prisoners/article71485435.ece)
+- [T.N. government writes to PM Modi seeking to change the operator of Chennai airport](https://www.thehindu.com/news/cities/chennai/tn-government-writes-to-pm-modi-seeking-to-change-the-operator-of-chennai-airport/article71481590.ece)
 - [Sugarcane turned bitter for thousands of farmers in North Andhra districts](https://www.thehindu.com/news/national/andhra-pradesh/sugarcane-turned-bitter-for-thousands-of-farmers-in-north-andhra-districts/article71484443.ece)
 - [IIT Bombay faculty member booked for caste abuse, suicide abetment](https://www.thehindu.com/news/national/maharashtra/iit-bombay-faculty-member-booked-for-caste-abuse-suicide-abetment/article71485392.ece)
 - [Keralam power crisis: Suresh Gopi says previous governments too responsible, ‘time not yet’ to judge UDF](https://www.thehindu.com/news/national/kerala/keralam-power-crisis-suresh-gopi-says-previous-governments-too-responsible-asks-public-to-wait-before-judging-udf/article71484248.ece)
 - [Samrat Choudhary promises jobs to one crore women](https://www.thehindu.com/news/national/bihar/samrat-choudhary-promises-jobs-to-one-crore-women/article71485207.ece)
 - [Union Home Minister Amit Shah falls ill in Hubballi, skips inauguration of college](https://www.thehindu.com/news/national/karnataka/union-home-minister-amitshah-falls-ill-inhubballi/article71483956.ece)
 - [In India’s capital, Delhiites reduced to documents](https://www.thehindu.com/news/cities/Delhi/in-indias-capital-delhiites-reduced-to-documents/article71484465.ece)
-- [What is the India-Pakistan conflict at sea about? | Explained](https://www.thehindu.com/news/national/what-is-the-india-pakistan-conflict-at-sea-about-explained/article71485874.ece)
-- [Malayalam movie HALF screened under Midnight Madness section at Toronto film festival](https://www.thehindu.com/news/national/kerala/malayalam-movie-half-screened-under-midnight-madness-section-at-toronto-film-festival/article71485652.ece)
-- [Clamour grows in Keralam to augment coaches, introduce more MEMU trains](https://www.thehindu.com/news/national/kerala/clamour-grows-in-keralam-to-augment-coaches-introduce-more-memu-trains/article71485451.ece)
 
 **Livemint**
 - [8-year-old among 2 dead in electrocution incident in Ganapati pandal in Mumbai's Lalbaug; 4 injured](https://www.livemint.com/news/india/8yearold-among-2-dead-in-electrocution-incident-in-ganapati-pandal-in-mumbais-lalbaug-4-injured-11789867307292.html)
@@ -118,27 +118,27 @@
 - Houthis (2.9)
 - Iran (2.6)
 - Ganapati (2.6)
-- Keralam (2.6)
 - India (2.2)
 - Camp David (2.0)
+- PM Modi (2.0)
 - Mumbai's Lalbaug (2.0)
 - Buy Bajaj Finance (2.0)
-- Apple (1.6)
-- West (1.6)
+- Delhi (1.9)
+- Modi (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [बळीराजा दुष्काळात होरपळला; पावसाची दडी, राज्यावर दुष्काळाचं सावट](https://saamtv.esakal.com/maharashtra/maharashtra-drought-crisis-rainfall-deficit-marathwada-vidarbha-khandesh-kharif-crop-production-loss-soybean-cotton-maize-farmer-relief-government-action-om0906)
-- [‘നീ പോടാ പൂക്കി മോനേ’; സ്കൂളിൽ എസ്എഫ്ഐയുടെ വിവാദ പോസ്റ്റർ, ന്യായീകരിച്ച് ചിന്താ ജെറോം](https://www.manoramaonline.com/news/latest-news/2026/09/19/chintha-jerome-justifies-controversial-nee-poda-pooki-mone-poster-by-sfi-unit-committee-of-gunanandapuram-school-chavara.html)
-- [അഞ്ചുവയസ്സുകാരന്റെ മൃതദേഹം ആൾത്താമസമില്ലാത്ത വീട്ടിലെ കിണറ്റിൽ; സംഭവം തിരുവനന്തപുരത്ത്](https://www.asianetnews.com/kerala-news/a-five-year-old-boy-was-found-dead-in-thiruvananthapuram-articleshow-yn4sf2p)
-- [CDS General Raja Subramani shares ‘Dhara’ vision at IIT Roorkee convocation](https://www.aninews.in/news/national/general-news/bharat-is-not-a-geography-it-is-responsibility-cds-general-raja-subramani-shares-8216dhara8217-vision-at-iit-roorkee-convocation20260919202348/)
-- ['छात्रों की गूंज' कार्यक्रम में राहुल गांधी ने लगाया आरोप](https://www.bbc.com/hindi/articles/cj750k167z5go)
-- [दिल्ली यूनिवर्सिटी छात्रसंघ चुनाव में एबीवीपी का दबदबा, जेन ज़ी पर क्यों छिड़ी बहस](https://www.bbc.com/hindi/articles/cq4grv2m154ro)
-- [Breaking News: ‘દુઆ’ પછી દીપિકા-રણવીરના ઘરે વધુ એક નાના મહેમાનનું આગમન, બોલિવૂડ સ્ટાર્સે પાઠવી શુભેચ્છાઓ](https://tv9gujarati.com/entertainment/bollywood/deepika-padukone-and-ranveer-singh-welcome-second-baby-girl-after-dua-bollywood-stars-send-wishes-1518839.html)
-- [“முதல்வர் விஜய்யின் ஆணவத்துக்கு பாடம் புகட்டும் வாய்ப்பே இடைத்தேர்தல்...” - மு.க.ஸ்டாலின் ஆவேசம்](https://www.hindutamil.in/news/tamilnadu/dmk-president-stalin-slams-cm-vijay)
-- [एशियन गेम्स में कल भारतीय क्रिकेट टीम का सेमीफाइनल मुकाबला, हॉकी के भी दो मैच, देखिए रविवार का पूरा शेड्यूल](https://www.livehindustan.com/cricket/indian-women-cricket-team-s-semi-final-match-in-asian-games-along-with-two-hockey-matches-know-full-schedule-for-sunday-201789828649549.html)
-- [Breaking News Asian Games 2026: PM મોદીએ ટીમ ઈન્ડિયાને શુભેચ્છા પાઠવી, 500 ભારતીય ખેલાડીઓને પ્રોત્સાહિત કર્યા](https://tv9gujarati.com/sports/breaking-news-asian-games-2026-pm-narendra-modi-extends-best-wishes-to-team-india-1518838.html)
+- [প্রথমবার OMR-এ উচ্চমাধ্যমিক, প্রশ্নপত্র খোলা হবে পরীক্ষার্থীদের সামনে! আঁটসাঁট নিরাপত্তা তৃতীয় সেমিস্টারে](https://www.thewall.in/west-bengal/higher-secondary-3rd-semester-exam-omr-student-signatures-security/tid/205225)
+- [100% തീരുവ, നിർണായക ബില്ലിൽ ഒപ്പുവെച്ച് ട്രംപ്; ഇന്ത്യയ്ക്ക് ഭീഷണി?](https://www.mathrubhumi.com/videos/explainers/how-trumps-100-percentage-tariff-threat-on-russian-crude-oil-could-impact-indias-trade-and-energy-security-explained-lc31s0wb)
+- ['I knew this was the end of my career': Ajit Doval recalls when his agents were captured by China](https://timesofindia.indiatimes.com/india/i-knew-this-was-the-end-of-my-career-ajit-doval-recalls-when-his-agents-were-captured-by-china/articleshow/134356490.cms)
+- [പാലാരിവട്ടത്ത് സ്ത്രീകളെ ഭീഷണിപ്പെടുത്തി വിവസ്ത്രരാക്കി കവർച്ച; പ്രതികൾ പോലീസ് പിടിയിൽ](https://www.malayalamtv9.com/kerala/palarivattom-robbery-case-stole-worth-over-six-lakh-accused-arrested-by-police-2232652.html)
+- [करोड़ों LPG ग्राहकों के लिए बड़ी खबर, 1 अक्टूबर से बदलेगा गैस सिलेंडर का ये नियम](https://www.abplive.com/utility-news/big-news-for-lpg-customers-gas-cylinder-rule-will-change-from-october-1-aadhaar-based-verification-is-mandatory-3191209)
+- [పెళ్లి పేరుతో మోసం.. నటుడు, రెజ్లర్ సౌరవ్ గుజ్జర్‌పై కేసు](https://www.eenadu.net/telugu-news/districts/hyderabad-case-filed-against-actor-and-wrestler-saurav-gujjar/529/126169522)
+- [UPI MDR is coming: Can a Rs 6,000 bill be split into three Rs 2,000 payments to avoid charges? For now, NPCI has no daily cap](https://timesofindia.indiatimes.com/business/india-business/upi-mdr-is-coming-can-a-rs-6000-bill-be-split-into-three-rs-2000-payments-to-avoid-charges-for-now-npci-has-no-daily-cap/articleshow/134356384.cms)
+- [ભારતમાં AI સ્માર્ટ ચશ્માંને વેગ મળશે, તો અદૃશ્ય કૅમેરાથી શું ખતરો વધશે?](https://www.bbc.com/gujarati/articles/ck980q0p9mp7o)
+- [Abdul Sattar News: मनोज जरांगे पाटलांना बदनाम करण्याचं षडयंत्र, भेटीनंतर अब्दुल सत्तार सहा कोटींच्या आरोपावरही स्पष्टच बोलले](https://sarkarnama.esakal.com/maharashtra/marathwada/manoj-jarange-patil-defamation-conspiracy-abdul-sattar-six-crore-allegation-dk88-jp75)
+- [Monsoon Return: मॉन्सूनचा परतीचा प्रवास सुरू, ‘आयएमडी’ची घोषणा; पण जाता जाता मराठवाडा, विदर्भाची पाणी टंचाई करणार दूर](https://sarkarnama.esakal.com/maharashtra/monsoon-return-imd-maharashtra-rain-marathwada-vidarbha-monsoon-withdrawal-weather-update-aau85)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
