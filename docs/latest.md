@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-20 19:01:57
+# India Trending Report — 2026-09-20 19:31:28
 
 ## Google Trends (India) — top trending searches
 1. [8वें वेतन आयोग सैलरी](https://trends.google.com/trending/rss?geo=IN)
@@ -6,20 +6,20 @@
 3. [tata aeris](https://trends.google.com/trending/rss?geo=IN)
 4. [man utd](https://trends.google.com/trending/rss?geo=IN)
 5. [clock](https://trends.google.com/trending/rss?geo=IN)
-6. [real madrid vs](https://trends.google.com/trending/rss?geo=IN)
-7. [laliga](https://trends.google.com/trending/rss?geo=IN)
-8. [brian brobbey](https://trends.google.com/trending/rss?geo=IN)
-9. [spider man brand new day](https://trends.google.com/trending/rss?geo=IN)
-10. [real madrid vs atlético madrid](https://trends.google.com/trending/rss?geo=IN)
+6. [laliga](https://trends.google.com/trending/rss?geo=IN)
+7. [brian brobbey](https://trends.google.com/trending/rss?geo=IN)
+8. [spider man brand new day](https://trends.google.com/trending/rss?geo=IN)
+9. [real madrid vs atlético madrid](https://trends.google.com/trending/rss?geo=IN)
+10. [real madrid](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Amit Shah wants UCC in all NDA states by 2029. What will JD(U) do in Bihar?](https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms)
 - [‘When do I blow entire nation up?' Trump's ultimatum after Iran warns of 'decisive war'](https://timesofindia.indiatimes.com/world/us/when-do-i-blow-entire-nation-up-trumps-ultimatum-after-iran-warns-of-decisive-war/articleshow/134372224.cms)
 - [Landslide, flash flood kill 6 in Kerala amid heavy rain alert - video](https://timesofindia.indiatimes.com/city/kochi/3-dead-after-landslide-hits-keralas-idukki/articleshow/134371135.cms)
 - [46-year-old man found dead inside luxury car in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/46-year-old-man-found-dead-inside-luxury-car-parked-on-koramangala-road-in-bengaluru/articleshow/134372028.cms)
-- ['Could change a lot': Zelenskky and Trump to meet in New York ahead of UNGA](https://timesofindia.indiatimes.com/world/us/could-change-a-lot-zelenskky-and-trump-to-meet-in-new-york-ahead-of-unga/articleshow/134373778.cms)
-- [Amit Shah wants UCC in all NDA states by 2029. What will JD(U) do in Bihar?](https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
+- ['Could change a lot': Zelenskky and Trump to meet in New York ahead of UNGA](https://timesofindia.indiatimes.com/world/us/could-change-a-lot-zelenskky-and-trump-to-meet-in-new-york-ahead-of-unga/articleshow/134373778.cms)
 - [Initial fuel loading begins at Rajasthan Atomic Power Project’s units 7 and 8](https://timesofindia.indiatimes.com/city/mumbai/initial-fuel-loading-begins-at-rajasthan-atomic-power-projects-units-7-and-8/articleshow/134370138.cms)
 - [Healthcare goes digital: When doctors go behind the app wall, who gets left behind?](https://timesofindia.indiatimes.com/india/healthcare-goes-digital-when-doctors-go-behind-the-app-wall-who-gets-left-behind/articleshow/134369357.cms)
 - [MAGA brown-out: For Indian Trump acolytes, citizenship comes with an asterisk](https://timesofindia.indiatimes.com/world/us/maga-brown-out-for-indian-trump-acolytes-citizenship-comes-with-an-asterisk/articleshow/134370837.cms)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [‘এমন অভিজ্ঞতা আগে কখনো হয়নি’, জামাই রণবীরের ‘রামায়ণ’ নিয়ে মুখ খুললেন আলিয়ার মা](https://www.hindustantimes.com/bangla/entertainment/soni-razdan-on-ranbir-kapoors-ramayana-excited-to-see-son-in-law-as-lord-ram-271789886184693.html)
-- [शेफाली वर्मा ने ठोका टी20 का सबसे तेज शतक, तोड़ डाले 6 बड़े रिकॉर्ड](https://www.abplive.com/sports/cricket/shafali-verma-broke-6-major-records-fastest-century-in-t20i-women-india-vs-bangladesh-semi-final-asian-games-2026-3191370)
-- [Tata Trusts hires top lawyer Abhishek Manu Singhvi as row escalates with Tata Sons](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/companies/tata-trusts-hires-top-lawyer-abhishek-manu-singhvi-as-row-escalates-with-tata-sons-14033777.html)
-- [ബത്തേരി പൊലീസ് സ്റ്റേഷനിൽ നിന്ന് തൊണ്ടിമുതൽ മോഷണം പോയ സംഭവം: പ്രതിയായ പൊലീസുകാരൻ പത്താം ദിവസം പിടിയിൽ](https://www.asianetnews.com/kerala-news/accused-arrested-in-connection-with-the-theft-of-evidence-from-the-bathery-police-station-articleshow-2zybt84)
-- [వారిపై అమెరికా నిఘా.. ఇకపై ఆ వీడియోలు సీక్రెట్ గా చూసి, హిస్టరీ డిలీట్ చేసినా లాభం లేదు.. నేరుగా జైలుకే](https://idreampost.com/telangana/strict-cyber-surveillance-on-child-abuse-content-us-tech-exposes-viewers-in-hyderabad-dhy-406908.html)
-- [Asian Games 2026: വനിതാ ക്രിക്കറ്റ് ചരിത്രത്തിൽ ഇതാദ്യം, ലോക റെക്കോഡ് സെഞ്ചുറിയുമായി ഷഫാലി വർമ; റൺവേട്ടയിൽ സ്മൃതി തലപ്പത്ത്](https://malayalam.samayam.com/sports/cricket/news/shafali-verma-becomes-the-first-women-cricketer-to-score-hundred-in-asian-games-smriti-mandhana-top-in-t20-run-scorers/articleshow/134364771.cms)
-- ['मेरा कोई काम नहीं रहा, ना ही मेरी अहमियत...' AI के दौर में टेकी ने बयां किया डर](https://www.aajtak.in/trending/story/ai-corporate-job-insecurity-developer-story-tstf-dskc-2647933-2026-09-20)
-- [കരാട്ടെ പരിശീലകൻ കുഴഞ്ഞ് വീണ് മരിച്ചു, സിപിആർ നൽകി ആശുപത്രിയിലെത്തിച്ചിട്ടും ജീവൻ രക്ഷിക്കാനായില്ല](https://www.asianetnews.com/local-news/karate-instructor-collapses-and-dies-despite-cpr-and-being-rushed-to-hospital-life-could-not-be-saved-articleshow-5uu52t4)
-- [Shafali Verma: এশিয়ান গেমসে ইতিহাস শেফালির, ব্যাট হাতে প্রলয়, সেঞ্চুরিতে ছারখার করলেন বাংলাদেশকে](https://bengali.abplive.com/sports/cricket/india-vs-bangladesh-ind-w-vs-ban-w-shafali-verma-century-creates-history-india-score-195-runs-ind-vs-ban-1193522)
-- [അമിതവേഗതയിലെത്തിയ BMW കാർ പാലത്തിന്‍റെ കൈവരിയിലിടിച്ച് താഴേക്ക് പതിച്ചു; മുംബൈയിൽ മൂന്ന് പേർക്ക് ദാരുണാന്ത്യം](https://www.reporterlive.com/topnews/national/2026/09/20/bmw-crash-bridge-three-people-lost-lives-in-high-speed-accident)
+- [शादी के लिए बदला मजहब, दीपिका कक्कड़ ने आलीशान घर में पति के लिए बनाया नमाज रूम, रखी कुरान](https://www.aajtak.in/entertainment/television/photo/dipika-kakar-mumbai-5bhk-lavish-house-tour-namaz-quran-room-hindu-muslim-marriage-trolling-tmovf-2647857-2026-09-20)
+- [బెంగాల్‌లో ఉప ఎన్నికలకు ముందు అభ్యర్థుల అరెస్టులు](https://prajasakti.com/latest-news/national-newss/bengal-police-arrest-rejinagar-bypoll-candidate)
+- [26-27 सितंबर को बैंकों की छुट्टी, 28 से 30 तक 3 दिन की हड़ताल करेंगे कर्मचारी, 9 दिनों में सिर्फ 2 दिन होगा कामकाज](https://www.indiatv.in/paisa/business/banks-will-be-closed-on-september-26-27-and-employees-will-go-on-a-three-day-strike-from-the-28th-to-the-30th-operations-will-take-place-on-only-two-2026-09-20-1244264)
+- [शेफाली वर्माचा धडाका! ४९ चेंडूंत शतक!](https://www.tarunbharat.net/Encyc/2026/9/20/shafali-vermas-century-off-49-balls.html)
+- [Loss of Y Chromosome in Men Might Be an Early Indication of Cancer, Finds Study](https://www.onlymyhealth.com/loss-of-y-chromosome-in-men-might-be-an-early-indication-of-cancer-study-12977850462)
+- [‘BMW വായുവിൽ തലകീഴായി മറിഞ്ഞ് 75 അടി താഴ്ചയിലേക്ക്’; മുംബൈയിൽ കാറപകടത്തിൽ വിദ്യാർഥികൾക്ക് ദാരുണാന്ത്യം](https://www.mathrubhumi.com/news/india/mumbai-coastal-road-bmw-accident-3-dead-yornkgi4)
+- [Food poisoning | మోడల్ స్కూల్‌లో ఫుడ్ పాయిజన్.. 30 మంది విద్యార్థినులకు అస్వస్థత : వీడియో](https://www.ntnews.com/telangana/food-poisoning-at-a-model-school-in-narayanpet-district-2515359)
+- [ગંભીરા બ્રિજનું આજે લોકાર્પણ: 12 મહિનામાં ₹212 કરોડના ખર્ચે તૈયાર, આ શહેરો વચ્ચેનો વાહન વ્યવહાર બનશે ઝડપી](https://gujarati.abplive.com/news/gujarat/gambhira-bridge-inaugurated-today-completed-in-12-months-at-a-cost-of-212-crore-will-speed-up-traffic-between-these-cities-991615)
+- [Purandar Soybean Crop Loss: पावसाने दडी मारली; उभ्या सोयाबीनवर शेतकऱ्यांनी फिरवला ट्रॅक्टर, पुरंदरमध्ये खरीप संकटात](https://pudhari.news/maharashtra/pune/purandar-drought-soybean-crop-farmers-tractor-rain-shortage-sk04)
+- [धाराशिवमध्ये रोहित पवारांकडून पीक पाहणी; दुष्काळ जाहीर करण्याची मागणी](https://pudhari.news/maharashtra/marathwada/dharashiv/ratnapur-rohit-pawar-crop-inspection-drought-declaration-demand-mk96)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20 19:01:57",
+  "generated_at": "2026-09-20 19:31:28",
   "google_trends": [
     {
       "title": "8\u0935\u0947\u0902 \u0935\u0947\u0924\u0928 \u0906\u092f\u094b\u0917 \u0938\u0948\u0932\u0930\u0940",
@@ -27,11 +27,6 @@
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "real madrid vs",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
       "title": "laliga",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
@@ -50,10 +45,19 @@
       "title": "real madrid vs atl\u00e9tico madrid",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "real madrid",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
     }
   ],
   "outlets": {
     "Times of India": [
+      {
+        "title": "Amit Shah wants UCC in all NDA states by 2029. What will JD(U) do in Bihar?",
+        "link": "https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms"
+      },
       {
         "title": "\u2018When do I blow entire nation up?' Trump's ultimatum after Iran warns of 'decisive war'",
         "link": "https://timesofindia.indiatimes.com/world/us/when-do-i-blow-entire-nation-up-trumps-ultimatum-after-iran-warns-of-decisive-war/articleshow/134372224.cms"
@@ -67,16 +71,12 @@
         "link": "https://timesofindia.indiatimes.com/city/bengaluru/46-year-old-man-found-dead-inside-luxury-car-parked-on-koramangala-road-in-bengaluru/articleshow/134372028.cms"
       },
       {
-        "title": "'Could change a lot': Zelenskky and Trump to meet in New York ahead of UNGA",
-        "link": "https://timesofindia.indiatimes.com/world/us/could-change-a-lot-zelenskky-and-trump-to-meet-in-new-york-ahead-of-unga/articleshow/134373778.cms"
-      },
-      {
-        "title": "Amit Shah wants UCC in all NDA states by 2029. What will JD(U) do in Bihar?",
-        "link": "https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms"
-      },
-      {
         "title": "Atlanta man arrested after phone wipe; new ruling allows border searches",
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms"
+      },
+      {
+        "title": "'Could change a lot': Zelenskky and Trump to meet in New York ahead of UNGA",
+        "link": "https://timesofindia.indiatimes.com/world/us/could-change-a-lot-zelenskky-and-trump-to-meet-in-new-york-ahead-of-unga/articleshow/134373778.cms"
       },
       {
         "title": "Initial fuel loading begins at Rajasthan Atomic Power Project\u2019s units 7 and 8",
@@ -414,44 +414,44 @@
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u2018\u098f\u09ae\u09a8 \u0985\u09ad\u09bf\u099c\u09cd\u099e\u09a4\u09be \u0986\u0997\u09c7 \u0995\u0996\u09a8\u09cb \u09b9\u09df\u09a8\u09bf\u2019, \u099c\u09be\u09ae\u09be\u0987 \u09b0\u09a3\u09ac\u09c0\u09b0\u09c7\u09b0 \u2018\u09b0\u09be\u09ae\u09be\u09af\u09bc\u09a3\u2019 \u09a8\u09bf\u09df\u09c7 \u09ae\u09c1\u0996 \u0996\u09c1\u09b2\u09b2\u09c7\u09a8 \u0986\u09b2\u09bf\u09df\u09be\u09b0 \u09ae\u09be",
-      "link": "https://www.hindustantimes.com/bangla/entertainment/soni-razdan-on-ranbir-kapoors-ramayana-excited-to-see-son-in-law-as-lord-ram-271789886184693.html"
+      "title": "\u0936\u093e\u0926\u0940 \u0915\u0947 \u0932\u093f\u090f \u092c\u0926\u0932\u093e \u092e\u091c\u0939\u092c, \u0926\u0940\u092a\u093f\u0915\u093e \u0915\u0915\u094d\u0915\u0921\u093c \u0928\u0947 \u0906\u0932\u0940\u0936\u093e\u0928 \u0918\u0930 \u092e\u0947\u0902 \u092a\u0924\u093f \u0915\u0947 \u0932\u093f\u090f \u092c\u0928\u093e\u092f\u093e \u0928\u092e\u093e\u091c \u0930\u0942\u092e, \u0930\u0916\u0940 \u0915\u0941\u0930\u093e\u0928",
+      "link": "https://www.aajtak.in/entertainment/television/photo/dipika-kakar-mumbai-5bhk-lavish-house-tour-namaz-quran-room-hindu-muslim-marriage-trolling-tmovf-2647857-2026-09-20"
     },
     {
-      "title": "\u0936\u0947\u092b\u093e\u0932\u0940 \u0935\u0930\u094d\u092e\u093e \u0928\u0947 \u0920\u094b\u0915\u093e \u091f\u094020 \u0915\u093e \u0938\u092c\u0938\u0947 \u0924\u0947\u091c \u0936\u0924\u0915, \u0924\u094b\u095c \u0921\u093e\u0932\u0947 6 \u092c\u095c\u0947 \u0930\u093f\u0915\u0949\u0930\u094d\u0921",
-      "link": "https://www.abplive.com/sports/cricket/shafali-verma-broke-6-major-records-fastest-century-in-t20i-women-india-vs-bangladesh-semi-final-asian-games-2026-3191370"
+      "title": "\u0c2c\u0c46\u0c02\u0c17\u0c3e\u0c32\u0c4d\u200c\u0c32\u0c4b \u0c09\u0c2a \u0c0e\u0c28\u0c4d\u0c28\u0c3f\u0c15\u0c32\u0c15\u0c41 \u0c2e\u0c41\u0c02\u0c26\u0c41 \u0c05\u0c2d\u0c4d\u0c2f\u0c30\u0c4d\u0c25\u0c41\u0c32 \u0c05\u0c30\u0c46\u0c38\u0c4d\u0c1f\u0c41\u0c32\u0c41",
+      "link": "https://prajasakti.com/latest-news/national-newss/bengal-police-arrest-rejinagar-bypoll-candidate"
     },
     {
-      "title": "Tata Trusts hires top lawyer Abhishek Manu Singhvi as row escalates with Tata Sons",
-      "link": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/companies/tata-trusts-hires-top-lawyer-abhishek-manu-singhvi-as-row-escalates-with-tata-sons-14033777.html"
+      "title": "26-27 \u0938\u093f\u0924\u0902\u092c\u0930 \u0915\u094b \u092c\u0948\u0902\u0915\u094b\u0902 \u0915\u0940 \u091b\u0941\u091f\u094d\u091f\u0940, 28 \u0938\u0947 30 \u0924\u0915 3 \u0926\u093f\u0928 \u0915\u0940 \u0939\u0921\u093c\u0924\u093e\u0932 \u0915\u0930\u0947\u0902\u0917\u0947 \u0915\u0930\u094d\u092e\u091a\u093e\u0930\u0940, 9 \u0926\u093f\u0928\u094b\u0902 \u092e\u0947\u0902 \u0938\u093f\u0930\u094d\u092b 2 \u0926\u093f\u0928 \u0939\u094b\u0917\u093e \u0915\u093e\u092e\u0915\u093e\u091c",
+      "link": "https://www.indiatv.in/paisa/business/banks-will-be-closed-on-september-26-27-and-employees-will-go-on-a-three-day-strike-from-the-28th-to-the-30th-operations-will-take-place-on-only-two-2026-09-20-1244264"
     },
     {
-      "title": "\u0d2c\u0d24\u0d4d\u0d24\u0d47\u0d30\u0d3f \u0d2a\u0d4a\u0d32\u0d40\u0d38\u0d4d \u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d47\u0d37\u0d28\u0d3f\u0d7d \u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d4d \u0d24\u0d4a\u0d23\u0d4d\u0d1f\u0d3f\u0d2e\u0d41\u0d24\u0d7d \u0d2e\u0d4b\u0d37\u0d23\u0d02 \u0d2a\u0d4b\u0d2f \u0d38\u0d02\u0d2d\u0d35\u0d02: \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d2f\u0d3e\u0d2f \u0d2a\u0d4a\u0d32\u0d40\u0d38\u0d41\u0d15\u0d3e\u0d30\u0d7b \u0d2a\u0d24\u0d4d\u0d24\u0d3e\u0d02 \u0d26\u0d3f\u0d35\u0d38\u0d02 \u0d2a\u0d3f\u0d1f\u0d3f\u0d2f\u0d3f\u0d7d",
-      "link": "https://www.asianetnews.com/kerala-news/accused-arrested-in-connection-with-the-theft-of-evidence-from-the-bathery-police-station-articleshow-2zybt84"
+      "title": "\u0936\u0947\u092b\u093e\u0932\u0940 \u0935\u0930\u094d\u092e\u093e\u091a\u093e \u0927\u0921\u093e\u0915\u093e! \u096a\u096f \u091a\u0947\u0902\u0921\u0942\u0902\u0924 \u0936\u0924\u0915!",
+      "link": "https://www.tarunbharat.net/Encyc/2026/9/20/shafali-vermas-century-off-49-balls.html"
     },
     {
-      "title": "\u0c35\u0c3e\u0c30\u0c3f\u0c2a\u0c48 \u0c05\u0c2e\u0c46\u0c30\u0c3f\u0c15\u0c3e \u0c28\u0c3f\u0c18\u0c3e.. \u0c07\u0c15\u0c2a\u0c48 \u0c06 \u0c35\u0c40\u0c21\u0c3f\u0c2f\u0c4b\u0c32\u0c41 \u0c38\u0c40\u0c15\u0c4d\u0c30\u0c46\u0c1f\u0c4d \u0c17\u0c3e \u0c1a\u0c42\u0c38\u0c3f, \u0c39\u0c3f\u0c38\u0c4d\u0c1f\u0c30\u0c40 \u0c21\u0c3f\u0c32\u0c40\u0c1f\u0c4d \u0c1a\u0c47\u0c38\u0c3f\u0c28\u0c3e \u0c32\u0c3e\u0c2d\u0c02 \u0c32\u0c47\u0c26\u0c41.. \u0c28\u0c47\u0c30\u0c41\u0c17\u0c3e \u0c1c\u0c48\u0c32\u0c41\u0c15\u0c47",
-      "link": "https://idreampost.com/telangana/strict-cyber-surveillance-on-child-abuse-content-us-tech-exposes-viewers-in-hyderabad-dhy-406908.html"
+      "title": "Loss of Y Chromosome in Men Might Be an Early Indication of Cancer, Finds Study",
+      "link": "https://www.onlymyhealth.com/loss-of-y-chromosome-in-men-might-be-an-early-indication-of-cancer-study-12977850462"
     },
     {
-      "title": "Asian Games 2026: \u0d35\u0d28\u0d3f\u0d24\u0d3e \u0d15\u0d4d\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d31\u0d4d\u0d31\u0d4d \u0d1a\u0d30\u0d3f\u0d24\u0d4d\u0d30\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d07\u0d24\u0d3e\u0d26\u0d4d\u0d2f\u0d02, \u0d32\u0d4b\u0d15 \u0d31\u0d46\u0d15\u0d4d\u0d15\u0d4b\u0d21\u0d4d \u0d38\u0d46\u0d1e\u0d4d\u0d1a\u0d41\u0d31\u0d3f\u0d2f\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d37\u0d2b\u0d3e\u0d32\u0d3f \u0d35\u0d7c\u0d2e; \u0d31\u0d7a\u0d35\u0d47\u0d1f\u0d4d\u0d1f\u0d2f\u0d3f\u0d7d \u0d38\u0d4d\u0d2e\u0d43\u0d24\u0d3f \u0d24\u0d32\u0d2a\u0d4d\u0d2a\u0d24\u0d4d\u0d24\u0d4d",
-      "link": "https://malayalam.samayam.com/sports/cricket/news/shafali-verma-becomes-the-first-women-cricketer-to-score-hundred-in-asian-games-smriti-mandhana-top-in-t20-run-scorers/articleshow/134364771.cms"
+      "title": "\u2018BMW \u0d35\u0d3e\u0d2f\u0d41\u0d35\u0d3f\u0d7d \u0d24\u0d32\u0d15\u0d40\u0d34\u0d3e\u0d2f\u0d3f \u0d2e\u0d31\u0d3f\u0d1e\u0d4d\u0d1e\u0d4d 75 \u0d05\u0d1f\u0d3f \u0d24\u0d3e\u0d34\u0d4d\u0d1a\u0d2f\u0d3f\u0d32\u0d47\u0d15\u0d4d\u0d15\u0d4d\u2019; \u0d2e\u0d41\u0d02\u0d2c\u0d48\u0d2f\u0d3f\u0d7d \u0d15\u0d3e\u0d31\u0d2a\u0d15\u0d1f\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d35\u0d3f\u0d26\u0d4d\u0d2f\u0d3e\u0d7c\u0d25\u0d3f\u0d15\u0d7e\u0d15\u0d4d\u0d15\u0d4d \u0d26\u0d3e\u0d30\u0d41\u0d23\u0d3e\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d02",
+      "link": "https://www.mathrubhumi.com/news/india/mumbai-coastal-road-bmw-accident-3-dead-yornkgi4"
     },
     {
-      "title": "'\u092e\u0947\u0930\u093e \u0915\u094b\u0908 \u0915\u093e\u092e \u0928\u0939\u0940\u0902 \u0930\u0939\u093e, \u0928\u093e \u0939\u0940 \u092e\u0947\u0930\u0940 \u0905\u0939\u092e\u093f\u092f\u0924...' AI \u0915\u0947 \u0926\u094c\u0930 \u092e\u0947\u0902 \u091f\u0947\u0915\u0940 \u0928\u0947 \u092c\u092f\u093e\u0902 \u0915\u093f\u092f\u093e \u0921\u0930",
-      "link": "https://www.aajtak.in/trending/story/ai-corporate-job-insecurity-developer-story-tstf-dskc-2647933-2026-09-20"
+      "title": "Food poisoning | \u0c2e\u0c4b\u0c21\u0c32\u0c4d \u0c38\u0c4d\u0c15\u0c42\u0c32\u0c4d\u200c\u0c32\u0c4b \u0c2b\u0c41\u0c21\u0c4d \u0c2a\u0c3e\u0c2f\u0c3f\u0c1c\u0c28\u0c4d.. 30 \u0c2e\u0c02\u0c26\u0c3f \u0c35\u0c3f\u0c26\u0c4d\u0c2f\u0c3e\u0c30\u0c4d\u0c25\u0c3f\u0c28\u0c41\u0c32\u0c15\u0c41 \u0c05\u0c38\u0c4d\u0c35\u0c38\u0c4d\u0c25\u0c24 : \u0c35\u0c40\u0c21\u0c3f\u0c2f\u0c4b",
+      "link": "https://www.ntnews.com/telangana/food-poisoning-at-a-model-school-in-narayanpet-district-2515359"
     },
     {
-      "title": "\u0d15\u0d30\u0d3e\u0d1f\u0d4d\u0d1f\u0d46 \u0d2a\u0d30\u0d3f\u0d36\u0d40\u0d32\u0d15\u0d7b \u0d15\u0d41\u0d34\u0d1e\u0d4d\u0d1e\u0d4d \u0d35\u0d40\u0d23\u0d4d \u0d2e\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d41, \u0d38\u0d3f\u0d2a\u0d3f\u0d06\u0d7c \u0d28\u0d7d\u0d15\u0d3f \u0d06\u0d36\u0d41\u0d2a\u0d24\u0d4d\u0d30\u0d3f\u0d2f\u0d3f\u0d32\u0d46\u0d24\u0d4d\u0d24\u0d3f\u0d1a\u0d4d\u0d1a\u0d3f\u0d1f\u0d4d\u0d1f\u0d41\u0d02 \u0d1c\u0d40\u0d35\u0d7b \u0d30\u0d15\u0d4d\u0d37\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d3e\u0d2f\u0d3f\u0d32\u0d4d\u0d32",
-      "link": "https://www.asianetnews.com/local-news/karate-instructor-collapses-and-dies-despite-cpr-and-being-rushed-to-hospital-life-could-not-be-saved-articleshow-5uu52t4"
+      "title": "\u0a97\u0a82\u0aad\u0ac0\u0ab0\u0abe \u0aac\u0acd\u0ab0\u0abf\u0a9c\u0aa8\u0ac1\u0a82 \u0a86\u0a9c\u0ac7 \u0ab2\u0acb\u0a95\u0abe\u0ab0\u0acd\u0aaa\u0aa3: 12 \u0aae\u0ab9\u0abf\u0aa8\u0abe\u0aae\u0abe\u0a82 \u20b9212 \u0a95\u0ab0\u0acb\u0aa1\u0aa8\u0abe \u0a96\u0ab0\u0acd\u0a9a\u0ac7 \u0aa4\u0ac8\u0aaf\u0abe\u0ab0, \u0a86 \u0ab6\u0ab9\u0ac7\u0ab0\u0acb \u0ab5\u0a9a\u0acd\u0a9a\u0ac7\u0aa8\u0acb \u0ab5\u0abe\u0ab9\u0aa8 \u0ab5\u0acd\u0aaf\u0ab5\u0ab9\u0abe\u0ab0 \u0aac\u0aa8\u0ab6\u0ac7 \u0a9d\u0aa1\u0aaa\u0ac0",
+      "link": "https://gujarati.abplive.com/news/gujarat/gambhira-bridge-inaugurated-today-completed-in-12-months-at-a-cost-of-212-crore-will-speed-up-traffic-between-these-cities-991615"
     },
     {
-      "title": "Shafali Verma: \u098f\u09b6\u09bf\u09df\u09be\u09a8 \u0997\u09c7\u09ae\u09b8\u09c7 \u0987\u09a4\u09bf\u09b9\u09be\u09b8 \u09b6\u09c7\u09ab\u09be\u09b2\u09bf\u09b0, \u09ac\u09cd\u09af\u09be\u099f \u09b9\u09be\u09a4\u09c7 \u09aa\u09cd\u09b0\u09b2\u09df, \u09b8\u09c7\u099e\u09cd\u099a\u09c1\u09b0\u09bf\u09a4\u09c7 \u099b\u09be\u09b0\u0996\u09be\u09b0 \u0995\u09b0\u09b2\u09c7\u09a8 \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6\u0995\u09c7",
-      "link": "https://bengali.abplive.com/sports/cricket/india-vs-bangladesh-ind-w-vs-ban-w-shafali-verma-century-creates-history-india-score-195-runs-ind-vs-ban-1193522"
+      "title": "Purandar Soybean Crop Loss: \u092a\u093e\u0935\u0938\u093e\u0928\u0947 \u0926\u0921\u0940 \u092e\u093e\u0930\u0932\u0940; \u0909\u092d\u094d\u092f\u093e \u0938\u094b\u092f\u093e\u092c\u0940\u0928\u0935\u0930 \u0936\u0947\u0924\u0915\u0931\u094d\u092f\u093e\u0902\u0928\u0940 \u092b\u093f\u0930\u0935\u0932\u093e \u091f\u094d\u0930\u0945\u0915\u094d\u091f\u0930, \u092a\u0941\u0930\u0902\u0926\u0930\u092e\u0927\u094d\u092f\u0947 \u0916\u0930\u0940\u092a \u0938\u0902\u0915\u091f\u093e\u0924",
+      "link": "https://pudhari.news/maharashtra/pune/purandar-drought-soybean-crop-farmers-tractor-rain-shortage-sk04"
     },
     {
-      "title": "\u0d05\u0d2e\u0d3f\u0d24\u0d35\u0d47\u0d17\u0d24\u0d2f\u0d3f\u0d32\u0d46\u0d24\u0d4d\u0d24\u0d3f\u0d2f BMW \u0d15\u0d3e\u0d7c \u0d2a\u0d3e\u0d32\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d15\u0d48\u0d35\u0d30\u0d3f\u0d2f\u0d3f\u0d32\u0d3f\u0d1f\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d24\u0d3e\u0d34\u0d47\u0d15\u0d4d\u0d15\u0d4d \u0d2a\u0d24\u0d3f\u0d1a\u0d4d\u0d1a\u0d41; \u0d2e\u0d41\u0d02\u0d2c\u0d48\u0d2f\u0d3f\u0d7d \u0d2e\u0d42\u0d28\u0d4d\u0d28\u0d4d \u0d2a\u0d47\u0d7c\u0d15\u0d4d\u0d15\u0d4d \u0d26\u0d3e\u0d30\u0d41\u0d23\u0d3e\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d02",
-      "link": "https://www.reporterlive.com/topnews/national/2026/09/20/bmw-crash-bridge-three-people-lost-lives-in-high-speed-accident"
+      "title": "\u0927\u093e\u0930\u093e\u0936\u093f\u0935\u092e\u0927\u094d\u092f\u0947 \u0930\u094b\u0939\u093f\u0924 \u092a\u0935\u093e\u0930\u093e\u0902\u0915\u0921\u0942\u0928 \u092a\u0940\u0915 \u092a\u093e\u0939\u0923\u0940; \u0926\u0941\u0937\u094d\u0915\u093e\u0933 \u091c\u093e\u0939\u0940\u0930 \u0915\u0930\u0923\u094d\u092f\u093e\u091a\u0940 \u092e\u093e\u0917\u0923\u0940",
+      "link": "https://pudhari.news/maharashtra/marathwada/dharashiv/ratnapur-rohit-pawar-crop-inspection-drought-declaration-demand-mk96"
     }
   ],
   "twitter": null
