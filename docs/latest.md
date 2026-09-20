@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-20 10:01:59
+# India Trending Report — 2026-09-20 10:34:00
 
 ## Google Trends (India) — top trending searches
-1. [fc bayern munich](https://trends.google.com/trending/rss?geo=IN)
-2. [gta vi](https://trends.google.com/trending/rss?geo=IN)
-3. [riyadh saudi arabia](https://trends.google.com/trending/rss?geo=IN)
-4. [svengoolie](https://trends.google.com/trending/rss?geo=IN)
-5. [texas a](https://trends.google.com/trending/rss?geo=IN)
-6. [luke reynolds](https://trends.google.com/trending/rss?geo=IN)
-7. [trump tariffs](https://trends.google.com/trending/rss?geo=IN)
-8. [clemson](https://trends.google.com/trending/rss?geo=IN)
-9. [oxford](https://trends.google.com/trending/rss?geo=IN)
-10. [2026 नवरात्रि तिथि](https://trends.google.com/trending/rss?geo=IN)
+1. [nbems neet pg result](https://trends.google.com/trending/rss?geo=IN)
+2. [india asian games](https://trends.google.com/trending/rss?geo=IN)
+3. [the scandal netflix](https://trends.google.com/trending/rss?geo=IN)
+4. [fc bayern munich](https://trends.google.com/trending/rss?geo=IN)
+5. [gta vi](https://trends.google.com/trending/rss?geo=IN)
+6. [riyadh saudi arabia](https://trends.google.com/trending/rss?geo=IN)
+7. [svengoolie](https://trends.google.com/trending/rss?geo=IN)
+8. [texas a](https://trends.google.com/trending/rss?geo=IN)
+9. [luke reynolds](https://trends.google.com/trending/rss?geo=IN)
+10. [trump tariffs](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Neurosurgeon burnt alive after car slams into divider, bursts into flames in Telangana](https://timesofindia.indiatimes.com/city/hyderabad/neurosurgeon-charred-to-death-after-car-hits-divider-catches-fire-in-telangana/articleshow/134365504.cms)
+- [Day after Thar-cab road rage in Gurgaon, fresh car-ramming video surfaces](https://timesofindia.indiatimes.com/city/gurgaon/day-after-thar-cab-road-rage-in-gurgaon-fresh-car-ramming-video-surfaces/articleshow/134363625.cms)
 - [Shafali’s ton helps India crush Bangladesh, storm into Asian Games final](https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/shafali-vermas-century-and-indias-bowling-blitz-crush-bangladesh-as-defending-champions-storm-into-asian-games-final/articleshow/134365242.cms)
-- [Friends thrash Thar driver, he rams SUV into their cab in Gurgaon](https://timesofindia.indiatimes.com/city/gurgaon/friends-thrash-thar-driver-he-rams-suv-into-their-cab-in-gurgaon/articleshow/134364999.cms)
+- [West Bengal to withdraw TMC govt cases against Kurmis over 2025 stir](https://timesofindia.indiatimes.com/india/west-bengal-to-withdraw-tmc-govt-cases-against-kurmis-over-2025-stir-suvendu-adhikari/articleshow/134365972.cms)
+- [Imran Khan's sister Aleema arrested in Lahore ahead of planned PTI protest](https://timesofindia.indiatimes.com/world/pakistan/ex-pakistan-pm-imran-khans-sister-aleema-arrested-in-lahore-ahead-of-sept-27-pti-march/articleshow/134366345.cms)
+- [Pentagon wants ‘military versions’ of ChatGPT, Grok: Here’s what they offer](https://timesofindia.indiatimes.com/technology/tech-news/pentagon-wants-to-give-its-men-access-to-military-versions-of-chatgpt-and-grok-heres-what-these-specialised-versions-will-offer/articleshow/134365789.cms)
 - [Strong 6.1-magnitude earthquake strikes Papua New Guinea region](https://timesofindia.indiatimes.com/world/rest-of-world/strong-6-1-magnitude-earthquake-strikes-papua-new-guinea-region/articleshow/134366256.cms)
 - [Dilpreet's four-goal show headlines India's 13-1 rout of Indonesia at Asian Games](https://timesofindia.indiatimes.com/sports/asian-games-2026/dilpreet-singhs-four-goal-show-headlines-indias-13-1-rout-of-indonesia-at-asian-games/articleshow/134365493.cms)
-- [Google's former CEO Eric Schmidt warns: Within 5 years, AI could …](https://timesofindia.indiatimes.com/technology/tech-news/googles-former-ceo-eric-schmidt-warns-within-5-years-ai-could-/articleshow/134365167.cms)
 - [Congress calls SIR 'Shah Instigated Removal', flags large-scale voter deletions](https://timesofindia.indiatimes.com/india/congress-calls-sir-shah-instigated-removal-flags-large-scale-voter-deletions/articleshow/134365043.cms)
 - [India's defence industry takes off: The numbers explained](https://timesofindia.indiatimes.com/defence/news/indias-defence-industry-takes-off-the-numbers-explained/articleshow/134365534.cms)
-- [India, Japan Air Chiefs take Tejas to the skies in Veer Guardian 2026](https://timesofindia.indiatimes.com/defence/news/india-japan-defence-ties-take-flight-as-air-chiefs-fly-tejas-together-during-veer-guardian-2026/articleshow/134365952.cms)
-- [North Korea fires ballistic missile amid rising regional tensions](https://timesofindia.indiatimes.com/defence/international/north-korea-fires-apparent-ballistic-missile-amid-rising-regional-tensions/articleshow/134365168.cms)
 
 **NDTV**
 - [Too Much Content, Too Little Time: Can AI Finally Fix What To Watch?](https://www.ndtv.com/business-news/content-choices-ott-platform-streaming-movies-artificial-intelligence-search-12063891#publisher=newsstand)
@@ -38,6 +38,9 @@
 - [Hyderabad Actor-Wrestler Saurav Gurjar Accused Of Harassing Woman After Promising To Marry](https://www.ndtv.com/hyderabad-news/hyderabad-actor-wrestler-saurav-gurjar-accused-of-harassing-woman-after-promising-to-marry-12071614#publisher=newsstand)
 
 **Hindustan Times**
+- [‘Cheap theatre’ vs ‘democratic right’: BJP, Opposition spar over PM Modi's mimicry at Rahul Gandhi event](https://www.hindustantimes.com/india-news/cheap-theatre-vs-democratic-right-bjp-opposition-congress-aap-tmc-spar-pm-modi-mimicry-rahul-gandhi-indore-event-101789897303326.html)
+- [Who was TSPC commander Brajesh Ganjhu, on the run for 20 years with over 50 cases?](https://www.hindustantimes.com/india-news/who-was-tspc-commander-brajesh-ganjhu-on-the-run-for-20-years-with-over-50-cases-101789897642952.html)
+- [Malayalam TV channel MD sent back to jail after 1-day excise custody in Wayanad liquor seizure case](https://www.hindustantimes.com/india-news/malayalam-tv-channel-md-sent-back-to-jail-after-one-day-excise-custody-in-wayanad-liquor-seizure-case-101789894992449.html)
 - [‘Give Vijay more time’: Prakash Raj urges patience in assessing Tamil Nadu CM](https://www.hindustantimes.com/india-news/give-vijay-more-time-prakash-raj-urges-patience-in-assessing-tamil-nadu-chief-minister-101789890913122.html)
 - [Military leaders discuss future of warfare, artillery at seminar in Chandigarh](https://www.hindustantimes.com/india-news/military-leaders-discuss-future-of-warfare-artillery-at-seminar-in-chandigarh-101789895083956.html)
 - ['Sign of the times': Saurav Das hails Gen-Z over independent candidate Deepanshu Shokeen's DUSU win](https://www.hindustantimes.com/india-news/sign-of-the-times-saurav-das-hails-gen-z-over-independent-candidate-deepanshu-shokeens-dusu-poll-win-101789893155632.html)
@@ -45,9 +48,6 @@
 - [‘Money to light diyas, not for hostels?’ Rahul Gandhi targets PM Modi's birthday celebration](https://www.hindustantimes.com/india-news/money-to-light-diyas-not-for-hostels-rahul-gandhi-targets-pm-modis-birthday-celebration-101789890582573.html)
 - [Gen Z considers India's defence ties with Israel to be better than US, France: India Israel Centre](https://www.hindustantimes.com/india-news/gen-z-considers-india-s-defence-ties-with-israel-to-be-better-than-us-france-india-israel-centre-101789892153156.html)
 - [Early warning systems need alerts for non-rainfall triggers: climate scientist Tapio Schneider](https://www.hindustantimes.com/india-news/early-warning-systems-need-alerts-for-non-rainfall-triggers-climate-scientist-tapio-schneider-101789891966459.html)
-- [Vice President to inaugurate India International Water Week on September 22](https://www.hindustantimes.com/india-news/vice-president-to-inaugurate-india-international-water-week-on-september-22-101789891722676.html)
-- [Keralam health minister flags Aravana Prasadam shortage, questions timing of Sabarimala revamp](https://www.hindustantimes.com/india-news/keralam-health-minister-flags-aravana-prasadam-shortage-questions-timing-of-sabarimala-revamp-101789887637857.html)
-- [Death by breath: How mining dust in Aravallis is killing residents](https://www.hindustantimes.com/india-news/death-by-breath-how-mining-dust-in-aravallis-is-killing-residents-101789889273585.html)
 
 **Vijay Karnataka**
 - [ಫ್ಲೈಓವರ್‌ನಿಂದ ಬಿದ್ದ ಬಿಎಂಡಬ್ಲ್ಯೂ ಕಾರು, ಮೂವರು ಯುವಕರ ದುರ್ಮರಣ: ವೇಗ ಪ್ರಾಣ ತೆಗೆಯುತ್ತೆ ಬೇಗ! ಬಿಸಿ ರಕ್ತಕ್ಕೆ ಏಕೆ ಅರ್ಥವಾಗ್ತಿಲ್ಲ?](https://vijaykarnataka.com/news/mumbai/3-people-killed-and-one-critically-injured-after-bmw-crashed-on-mumbai-coastal-road/articleshow/134365746.cms)
@@ -62,16 +62,16 @@
 - [ಅಪ್ಪನ 3 ಕೋಟಿ ರೂ. ಸಾಲ ತೀರಿಸಲು ಪಕ್ಕದ ಮನೆ ಬಾಲಕನ ಅಪಹರಿಸಿದ ಬೆಂಗಳೂರು ಟೆಕ್ಕಿ! ಸಿಕ್ಕಿಬೀಳುವ ಭಯದಲ್ಲಿ ಕೊಂದ](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-techie-kidnaps-neighbor-boy-to-repay-father-rs-3-crore-debt-kills-him-and-flees-in-fear-of-getting-caught/articleshow/134365466.cms)
 
 **The Hindu**
-- [Private bus rammed into canal in Vijayawada, passengers safe](https://www.thehindu.com/news/national/andhra-pradesh/private-bus-rammed-into-canal-in-vijayawada-passengers-safe/article71487269.ece)
-- [Police probe assault of Class 12 Scheduled Caste student in Kallakurichi](https://www.thehindu.com/news/national/tamil-nadu/police-probe-assault-of-class-12-scheduled-caste-student-in-kallakurichi/article71487356.ece)
-- [One killed, five injured after vehicle overturns in Bengaluru](https://www.thehindu.com/news/national/karnataka/one-killed-five-injured-after-vehicle-overturns-in-bengaluru/article71487149.ece)
-- [15-year-old boy booked for impregnating minor girl in A.P.](https://www.thehindu.com/news/national/andhra-pradesh/15-year-old-boy-booked-for-impregnating-minor-girl-in-ap/article71487320.ece)
-- [One dead, two injured during Ganesh immersion procession in separate incidents in A.P.](https://www.thehindu.com/news/national/andhra-pradesh/one-dead-two-injured-during-ganesh-immersion-procession-in-separate-incidents-in-ap/article71487290.ece)
-- [Three killed, one critically injured after speeding BMW crashes on Mumbai Coastal Road](https://www.thehindu.com/news/national/maharashtra/three-killed-one-critically-injured-after-speeding-bmw-crashes-on-mumbai-coastal-road/article71487123.ece)
+- [At least two dead, four injured after electrocution near Ganesh pandal in Mumbai](https://www.thehindu.com/news/cities/mumbai/mumbai-ganesh-pandal-electrocution-several-dead-september-20-2026/article71487122.ece)
+- [Two dead, one injured in fire accident in Hubballi](https://www.thehindu.com/news/national/karnataka/two-dead-one-injured-in-fire-accident-in-hubballi/article71487437.ece)
+- [Anto Augustine’s custody in Excise dept to end on September 20](https://www.thehindu.com/news/national/kerala/anto-augustines-custody-in-excise-dept-to-end-on-september-20/article71487455.ece)
+- [Faculty development programme on linear algebra, differential equations begins at Andhra University](https://www.thehindu.com/news/cities/Visakhapatnam/faculty-development-programme-on-linear-algebra-differential-equations-begins-at-andhra-university/article71487276.ece)
 - [Rahul Gandhi flags lack of hostels for female students, seeks answers from PM Modi](https://www.thehindu.com/news/national/rahul-gandhi-flags-lack-of-hostels-for-female-students-seeks-answers-from-pm-modi/article71487489.ece)
-- [Police officer on the run for ‘stealing’ seized tobacco products nabbed from Ernakulam](https://www.thehindu.com/news/national/kerala/police-officer-on-the-run-for-stealing-seized-tobacco-products-nabbed-from-ernakulam/article71487427.ece)
-- [Mumbai plumber killed after metro work site barricade falls on moving bike](https://www.thehindu.com/news/cities/mumbai/mumbai-plumber-killed-after-metro-work-site-barricade-falls-on-moving-bike/article71487384.ece)
-- [Two ATM kiosks burgled near Karimnagar in pre-dawn heists](https://www.thehindu.com/news/national/telangana/two-atm-kiosks-burgled-near-karimnagar-in-pre-dawn-heists/article71487195.ece)
+- [‘Jhooth Ki Goonj’ posters surface in Indore ahead of Rahul Gandhi’s student event](https://www.thehindu.com/news/national/madhya-pradesh/jhooth-ki-goonj-posters-surface-in-indore-ahead-of-rahul-gandhis-student-event/article71484138.ece)
+- [Three killed, one critically injured after speeding car crashes on Mumbai Coastal Road](https://www.thehindu.com/news/national/maharashtra/three-killed-one-critically-injured-after-speeding-bmw-crashes-on-mumbai-coastal-road/article71487123.ece)
+- [Bengaluru-based A-One Steels India to raise ₹405 crore in an IPO](https://www.thehindu.com/business/Industry/bengaluru-based-a-one-steels-india-to-raise-405-crore-in-an-ipo/article71482276.ece)
+- [India's exports to core BRICS markets surge 34% in April-August; China leads](https://www.thehindu.com/news/national/indias-exports-to-core-brics-markets-surge-34-in-april-august-china-leads/article71487434.ece)
+- [IIT Bombay student found dead in hostel; institute says had been caught using mobile phone during exam](https://www.thehindu.com/news/national/maharashtra/iit-bombay-student-found-dead-in-hostel-institute-says-had-been-caught-using-mobile-phone-during-exam/article71483750.ece)
 
 **Livemint**
 - [CBFC Certification: ‘Say No to Drugs’ warning made part of Centre's film certification guidelines](https://www.livemint.com/news/india/cbfc-certification-say-no-to-drugs-warning-made-part-of-centres-film-certification-guidelines-11789895330611.html)
@@ -98,6 +98,8 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [Bengaluru | ಐಷಾರಾಮಿ ಕಾರಿನಲ್ಲಿ ವ್ಯಕ್ತಿಯ ಮೃತದೇಹ ಪತ್ತೆ](https://www.varthabharati.in/bangalore-city/bengaluru-mans-body-found-inside-luxury-car-2276518)
+- [ನರೇಂದ್ರ ಮೋದಿ ವಿಕಾಸ ಪುರುಷನಲ್ಲ ದೇಶದ ಅಭಿವೃದ್ಧಿಯ ವಿನಾಶ ಪುರುಷ: ದೀಪ್ಸಿತಾ ಧರ್ ವಾಗ್ದಾಳಿ](https://www.varthabharati.in/DakshinaKannada/narendra-modi-is-not-a-development-man-he-is-the-destroyer-of-the-countrys-development-deepsita-dhar-2276517)
 - [IIT Bombay ವಿದ್ಯಾರ್ಥಿ ಆತ್ಮಹತ್ಯೆ ಪ್ರಕರಣ: ಪ್ರಾಧ್ಯಾಪಕರ ವಿರುದ್ಧ ಜಾತಿ ನಿಂದನೆ ಆರೋಪ](https://www.varthabharati.in/National/iit-bombay-student-suicide-case-caste-discrimination-blame-on-lecturer-2276515)
 - [SIR ಎಂದರೆ 'ಶಾ ಇನ್ಸ್ಟಿಗೇಟೆಡ್ ರಿಮೂವಲ್ʼ ಎಂದ ಕಾಂಗ್ರೆಸ್](https://www.varthabharati.in/National/sir-means-shah-instigated-removal-of-voters-says-congress-2276514)
 - [ರಾಯಚೂರು: ಸ್ವಚ್ಛ ಭಾರತ ಮಿಷನ್ ಶೌಚಾಲಯಗಳ ಸ್ಥಿತಿಗತಿ ವರದಿ ನೀಡಲು ಜಿಪಂ ಸಿಇಒ ಸೂಚನೆ](https://www.varthabharati.in/nimma-ankana/raichur-zilla-panchayat-ceo-directs-officials-to-submit-a-status-report-on-swachh-bharat-mission-toilets-2276513)
@@ -106,29 +108,30 @@
 - [ಭಟ್ಕಳ:  AITM ನಲ್ಲಿ IoT ಕ್ಲಬ್ ಉದ್ಘಾಟನೆ](https://www.varthabharati.in/uttara-kannada/-aitm-iot-2276507)
 - [ಸಾಮಾಜಿಕ ಕಾರ್ಯಕರ್ತ ಎಂ. ಇಕ್ಬಾಲ್ ಮನ್ನಾ ಅವರಿಗೆ ಸನ್ಮಾನ](https://www.varthabharati.in/udupi/social-activist-m-iqbal-manna-felicitated-2276506)
 - [ಚರಂಡಿಯಲ್ಲಿ ಕೊಚ್ಚಿ ಹೋದ ಕಾರು: ಎಂಟು ಮಂದಿ ಮೃತ್ಯು](https://www.varthabharati.in/National/eight-people-passes-away-as-the-car-drowns-in-a-drainage-2276505)
-- [Mysuru | ಗಣೇಶೋತ್ಸವ ಮೆರವಣಿಗೆ ವೇಳೆ ಪ್ರಚೋದನಕಾರಿ ಭಾಷಣ ಆರೋಪ: ಪ್ರತಾಪ್ ಸಿಂಹ ವಿರುದ್ಧ FIR ದಾಖಲು](https://www.varthabharati.in/mysore/fir-filed-against-pratap-simha-over-provocative-speech-in-mysuru-2276504)
-- [ತತ್ಕಾಲ್ ಟಿಕೆಟ್ ಗೊಂದಲ; ಅಪರಾಧದ ಕತೆಯಾಗಿ ಗಮನಸೆಳೆಯುತ್ತಿದೆ ‘ವೇಟಿಂಗ್ ಹೈ’ ವೆಬ್ ಸರಣಿ](https://www.varthabharati.in/cinema/web-series-waiting-way-is-making-is-own-way-to-attract-as-a-crime-thriller-2276503)
 
 ## Cross-source trending keywords (derived from headlines above)
+- India's (5.2)
 - Emkay Global Financial (5.0)
-- India's (3.9)
+- Rahul Gandhi (4.0)
 - Mumbai (3.5)
-- India (3.2)
 - ICICI Securities (3.0)
 - target (3.0)
+- India (2.9)
 - Iran (2.9)
 - Gurgaon (2.6)
+- Pentagon (2.6)
 - Dead (2.6)
-- Police (2.6)
 - Three (2.6)
 - Asian Games (2.0)
-- Rahul Gandhi (2.0)
+- PM Modi's (2.0)
 - Mumbai Coastal Road (2.0)
-- Buy Bajaj Finance (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [“என் மிசா தியாகத்துக்கு மார்க் போட யாருக்கும் தகுதியில்லை” - திமுக முப்பெரும் விழாவில் ஸ்டாலின் திட்டவட்டம்](https://www.hindutamil.in/news/tamilnadu/stalin-speech-in-mupperum-vizha)
+- [పొడిబారుతున్న ఆంధ్రావని](https://www.eenadu.net/telugu-news/andhra-pradesh/south-india-including-andhra-pradesh-is-facing-a-severe-drought-threat/1799/126169761)
+- [Monsoon 2026: मान्सून महाराष्ट्रातून जाण्यास ऑक्टोबर उजाडणार, मध्य महाराष्ट्र आणि मराठवाड्यात २३ सप्टेंबरपर्यंत हलका पाऊस](https://pudhari.news/maharashtra/pune/monsoon-begins-its-withdrawal-from-rajasthan-ap84)
 - [Asian Games 2026 | गोंधळाच्या सावटात आशियाई स्पर्धेला प्रारंभ](https://pudhari.news/sports/japan-emperor-declares-asian-games-open-after-troubled-lead-up-ap84)
 - [ગોલમાલ ફાઇવનું મોશન પોસ્ટર લોન્ચ, ફિલ્મ આઠ જાન્યુઆરીએ રિલીઝ કરાશે](https://www.gujaratsamachar.com/news/entertainment/golmaal-fives-motion-poster-launched-film-to-release-on-january-8-31158407158)
 - [વાંચો તમારું 20 સપ્ટેમ્બર, 2026નું રાશિ ભવિષ્ય](https://www.gujaratsamachar.com/news/astro/read-your-horoscope-for-september-20-2026-29916577670)
@@ -136,9 +139,6 @@
 - [నీళ్లున్నయ్‌.. సర్కారే ఎత్తలే](https://www.ntnews.com/telangana/harish-rao-questions-telangana-govt-over-medigadda-water-utilisation-2515090)
 - [మహిళపై ఇంత కర్కశత్వమా?.. పోలీసులు జుట్టుపట్టి ఈడ్చుకెళ్లడమేంది?](https://www.ntnews.com/telangana/outrage-over-the-shocking-incident-in-hyderabad-where-a-police-officer-dragged-a-woman-along-the-road-by-her-hair-2515186)
 - [గోదావరిఖని ప్రాంతమే ‘ది ప్యారడైజ్‌’కు స్ఫూర్తి](https://www.ntnews.com/cinema/godavarikhani-inspired-the-paradise-2514886)
-- [Salman Khan denies health issues after Bigg Boss 20 concern](https://thenewsmill.com/2026/09/salman-khan-denies-health-issues-after-bigg-boss-20-concern/)
-- [Iran gives US 3 conditions to restart talks, says ‘Trump’s threats will not achieve results’](https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms)
-- [Amritsar ASI murder accused gunned down, Pakistan terror link under probe](https://www.indiatoday.in/cities/other-cities/story/amritsar-asi-murder-accused-deepak-singh-killed-in-retaliatory-firing-2998624-2026-09-20)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
