@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-20 21:33:09
+# India Trending Report — 2026-09-20 22:01:40
 
 ## Google Trends (India) — top trending searches
 1. [8वें वेतन आयोग सैलरी](https://trends.google.com/trending/rss?geo=IN)
@@ -14,16 +14,16 @@
 
 ## Latest headlines by outlet
 **Times of India**
-- ['Condition was not met': Tata Trusts challenges Chandrasekaran reappointment resolution](https://timesofindia.indiatimes.com/business/india-business/condition-was-not-met-tata-trusts-challenges-chandrasekaran-reappointment-resolution/articleshow/134370043.cms)
+- [Trump adds drones, snipers and ammunition to plans for Washington triumphal arch](https://timesofindia.indiatimes.com/world/us/donald-trump-adds-drones-snipers-and-ammunition-to-plans-for-washington-triumphal-arch/articleshow/134368581.cms)
+- [One year on, commodity prices eat into gains from GST rate rejig](https://timesofindia.indiatimes.com/business/india-business/one-year-on-commodity-prices-eat-into-gains-from-gst-rate-rejig/articleshow/134375353.cms)
 - [US prepares sweeping sanctions on International Criminal Court](https://timesofindia.indiatimes.com/world/us/us-prepares-sweeping-sanctions-on-international-criminal-court/articleshow/134375029.cms)
 - ['Nothing worng if people happily tip govt officials': K'taka minister sparks row](https://timesofindia.indiatimes.com/city/bengaluru/offer-tips-to-good-officers-says-min-lands-in-soup/articleshow/134374842.cms)
 - [Using recovery agents proves costly for truck financier, SC orders Rs 15 lakh payout](https://timesofindia.indiatimes.com/india/using-recovery-agents-proves-costly-for-truck-financier/articleshow/134375079.cms)
-- [5th case slapped on Congress’ Nandigram nominee Milan Pradhan, party to move HC](https://timesofindia.indiatimes.com/city/kolkata/another-warrant-against-milan-cong-to-move-hc/articleshow/134371430.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
-- [Amit Shah wants UCC in all NDA states by 2029. What will JD(U) do in Bihar?](https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms)
-- [Landslide, flash flood kill 6 in Kerala amid heavy rain alert - video](https://timesofindia.indiatimes.com/city/kochi/3-dead-after-landslide-hits-keralas-idukki/articleshow/134371135.cms)
+- [5th case slapped on Congress’ Nandigram nominee Milan Pradhan, party to move HC](https://timesofindia.indiatimes.com/city/kolkata/another-warrant-against-milan-cong-to-move-hc/articleshow/134371430.cms)
+- [Most economists see RBI raising rates in October policy](https://timesofindia.indiatimes.com/business/india-business/most-economists-see-rbi-raising-rates-in-october-policy/articleshow/134375349.cms)
 - [Aamir Khan’s Arjuna-winning ‘coach’ fights to save Indore akhada](https://timesofindia.indiatimes.com/city/bhopal/aamirs-arjuna-winning-coach-fights-to-save-indore-akhada/articleshow/134372961.cms)
-- [Meet Sai Sri Valli Mogilineedi, eighth-grader who designed controlled-release antacid](https://timesofindia.indiatimes.com/world/us/meet-sai-sri-valli-mogilineedi-the-mechanicsburg-eighth-grader-who-designed-a-controlled-release-antacid-and-became-one-of-30-us-finalists-competing-for-more-than-100000-in-stem-awards/articleshow/134373682.cms)
+- [Amit Shah wants UCC in all NDA states by 2029. What will JD(U) do in Bihar?](https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms)
 
 **NDTV**
 - [North Korea Launches 2 Ballistic Missiles Toward Sea](https://www.ndtv.com/world-news/north-korea-launches-2-ballistic-missiles-toward-sea-12073587#publisher=newsstand)
@@ -62,6 +62,7 @@
 - [ಆನ್‌ಲೈನ್‌ ಟ್ರೇಡಿಂಗ್‌ ನೆಪದಲ್ಲಿ ಪಂಗನಾಮ ಹಾಕಿದ ಬೆಂಗಳೂರಿನ ಮೂವರು ವಂಚಕರ ಸೆರೆ; ಹೀಗೂ ಮೋಸ ಮಾಡ್ತಾರೆ ಜಾಗ್ರತೆಯಾಗಿರಿ!](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-poice-arests-3-fraudsters-online-trading-/articleshow/134371389.cms)
 
 **The Hindu**
+- [INLD’s Sampat Singh attacks BJP’s ‘Seva Sankalp Abhiyaan’, alleges misuse of State machinery](https://www.thehindu.com/news/national/haryana/inlds-sampat-singh-attacks-bjps-seva-sankalp-abhiyaan-alleges-misuse-of-state-machinery/article71488503.ece)
 - [‘Stop Vizag Data Centers’ Instagram account blocked in India](https://www.thehindu.com/news/national/andhra-pradesh/stop-vizag-data-centers-instagram-account-blocked-in-india/article71487350.ece)
 - [Once described as BIMARU, U.P. transformed as country’s growth engine, says CM Yogi](https://www.thehindu.com/news/national/uttar-pradesh/once-described-as-bimaru-up-transformed-as-countrys-growth-engine-says-cm-yogi/article71488822.ece)
 - [Missing measure in India’s magnet mission](https://www.thehindu.com/opinion/op-ed/missing-measure-in-indias-magnet-mission/article71488862.ece)
@@ -71,7 +72,6 @@
 - [Human skull recovered from waste heap in Kozhikode](https://www.thehindu.com/news/national/kerala/human-skull-recovered-from-waste-heap-in-kozhikode/article71487663.ece)
 - [Man found dead inside parked car in Koramangala](https://www.thehindu.com/news/national/karnataka/man-found-dead-inside-parked-car-in-koramangala/article71487564.ece)
 - [‘India is entering a period of economic growth that could be unparalleled in our history’](https://www.thehindu.com/news/national/tamil-nadu//article71485038.ece)
-- [Dengue cases in Tamil Nadu decline for third consecutive year as per government data](https://www.thehindu.com/sci-tech/health/dengue-cases-in-tamil-nadu-decline-for-third-consecutive-year-as-per-government-data/article71487571.ece)
 
 **Livemint**
 - [What time is 60 Minutes on tonight? How to watch Patrick Clancy’s first TV interview on CBS](https://www.livemint.com/news/us-news/what-time-is-60-minutes-on-tonight-how-to-watch-patrick-clancy-s-first-tv-interview-on-cbs-11789938984690.html)
@@ -103,32 +103,32 @@
 - India (5.2)
 - Congress (3.9)
 - What (3.9)
+- Trump (2.6)
 - Karnataka (1.9)
 - Rajasthan (1.6)
+- Seva (1.6)
 - Bengaluru (1.6)
-- Condition (1.3)
-- Chandrasekaran (1.3)
+- Washington (1.3)
 - Nothing (1.3)
 - K'taka (1.3)
 - Using (1.3)
-- Nandigram (1.3)
 - Atlanta (1.3)
-- Bihar (1.3)
-- Landslide (1.3)
+- Nandigram (1.3)
+- Most (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [কুড়মালি ভাষাকে অষ্টম তফসিলে অন্তর্ভুক্ত করা হবে, প্রতিশ্রুতি মুখ্যমন্ত্রীর](https://eisamay.com/west-bengal-news/bankura-purulia-jhargram-news/cm-suvendu-adhikari-promises-eighth-schedule-status-for-kurmali-language-at-karam-festival-in-purulia/200545050.cms)
-- [ALTO से सस्ती लेकिन नहीं मिल रहे खरीदार! बमुश्किल बिकी 100 कार](https://www.aajtak.in/visualstories/auto/maruti-s-presso-cheaper-than-alto-get-100-customers-in-august-auaw-285877-20-09-2026)
-- [Big Breaking : ਦੁਪਹਿਰ 3 ਵਜੇ ਦੀਆਂ ਵੱਡੀਆਂ ਖ਼ਬਰਾਂ](https://wishavwarta.in/big-breaking3pm20september/)
-- [Monsoon: ચોમાસાને લઈ લેટેસ્ટ અપડેટ, જાણો રાજ્યમાંથી ચોમાસું કેટલા દિવસમાં લેશે વિદાય](https://gujarati.abplive.com/news/gujarat/major-update-on-the-monsoon-rain-forecast-for-two-days-991629)
-- [India’s exports to China surge 39% in April-August 2026-27, core BRICS shipments up 34%](https://www.moneycontrol.com/news/economy/policy/india-s-exports-to-china-jump-39-as-shipments-to-core-brics-nations-rise-34-14033857.html)
-- [भारत से बढ़ने लगी चीन की शॉपिंग, दुनिया में बज रहा 'लोकल' का डंका, इन आंकड़ों से इशारा समझिए](https://navbharattimes.indiatimes.com/business/business-news/india-exports-jump-39-to-china-brics-trade-picks-up-understand-hint/articleshow/134365954.cms)
-- [எலக்ட்ரிக் எஸ்யுவி சண்டை: மாருதி இ விட்டாரா Vs க்ரெட்டா EV- எது பெஸ்ட்?](https://tamil.abplive.com/auto/maruti-suzuki-e-vitara-hyundai-creta-electric-suv-auto-news-275094)
-- [உடல் எடை குறித்த விமர்சனங்களுக்கு சட்டையை கழற்றி சல்மான் கான் பதிலடி](https://www.dailythanthi.com/cinema/cinemanews/salman-khan-shuts-down-trolls-commenting-on-his-age-and-weight)
-- ['कप्तान बनने की जरूरत ही नहीं थी...', बाबर आजम पर भड़का ये पाकिस्तानी दिग्गज, कहा- बतौर खिलाड़ी ही खेलते](https://www.aajtak.in/sports/cricket/story/wasim-akram-slams-babar-azam-test-captaincy-england-series-pcb-chane-bechne-aaye-the-tspoa-dskc-2648065-2026-09-20)
-- [Asian Games 2026 : आधी शेफालीचं वादळी शतक, मग गोलंदाजांचा तांडव; बांगलादेशला लोळवत भारत अंतिम फेरीत, पाकिस्तानचा गेम ओव्हर](https://marathi.abplive.com/sports/cricket/india-face-sri-lanka-for-gold-medal-in-asian-games-2026-beat-bangladesh-by-114-runs-in-semi-final-shafali-verma-marathi-news-1439680)
+- [IPO Action: 20 IPOs to open for public subscription, 14 companies including NSE scheduled for listing next week](https://www.moneycontrol.com/news/business/ipo/ipo-action-20-ipos-to-open-for-public-subscription-14-companies-including-nse-scheduled-for-listing-next-week-14033868.html)
+- [Harish Rao | కేసీఆర్ మీద బురద జల్లితే రైతులకు న్యాయం జరుగుతుందా…? సీఎం రేవంత్‌పై హరీశ్‌ రావు ఫైర్‌](https://www.ntnews.com/telangana/harish-rao-fires-on-cm-revanth-reddy-during-conress-leaders-brs-joinings-2515416)
+- [Losing the Y chromosome could reveal where cancer is beginning](https://www.moneycontrol.com/news/trends/losing-the-y-chromosome-could-reveal-where-cancer-is-beginning-14033882.html)
+- [Ex-Pakistan PM Imran Khan's sister Aleema arrested in Lahore ahead of Sept 27 PTI march](https://timesofindia.indiatimes.com/world/pakistan/ex-pakistan-pm-imran-khans-sister-aleema-arrested-in-lahore-ahead-of-sept-27-pti-march/articleshow/134366345.cms)
+- [Disha Salian and Aaditya Thackeray: आदित्य ठाकरेंना नोटीस द्यायला दिशा सालियनच्या वडिलांनी मातोश्रीवर जाणे योग्य होते का? असीम सरोदेंची प्रतिक्रिया, म्हणाले....](https://marathi.abplive.com/crime/disha-salian-case-satish-salian-go-to-matoshree-to-give-notice-aaditya-thackeray-advocate-asim-sarode-reaction-marathi-news-1439683)
+- ["രേണു സുധി ഐസിയുവിൽ, ഇനിയൊരു കീമോ താങ്ങില്ല"; പ്രാർഥിക്കണമെന്ന് ശാരിക](https://www.metrovaartha.com/entertainment/renu-sudhi-in-icu-she-cannot-withstand-another-round-of-chemo-says-sharika-asking-for-prayers)
+- [സംസ്ഥാനത്ത് മഴ ശക്തമാകുന്നു; 7 ജില്ലകളിൽ ഇന്ന് യെല്ലോ അലർട്ട്](https://www.southlive.in/rain-intensifies-in-the-state-yellow-alert-in-7-districts-today/)
+- [प्रदेश में हर सप्ताह होगा बड़ा भर्ती इवेंट, छह महीने में एक लाख युवाओं को सरकारी नौकरी देंगे](https://www.amarujala.com/lucknow/up-cm-yogi-adityanath-said-every-week-there-will-be-a-big-recruitment-event-in-the-state-2026-09-20)
+- [રાહુલ ગાંધીએ ‘છાત્રોં કી ગૂંજ’ કાર્યક્રમમાં કયા મુદ્દા ઉઠાવ્યા?](https://www.bbc.com/gujarati/watch/cm70ld0q2gjno)
+- [సీనియర్ నటుడి చుట్టూ నెగెటివ్ సెంటిమెంట్](https://telugu.greatandhra.com/movies/movie-news/bad-sentiment-surrounding-sj-surya.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
