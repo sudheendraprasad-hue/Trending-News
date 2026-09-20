@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-09-20 22:01:40",
+  "generated_at": "2026-09-20 22:33:11",
   "google_trends": [
+    {
+      "title": "nfl",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "8\u0935\u0947\u0902 \u0935\u0947\u0924\u0928 \u0906\u092f\u094b\u0917 \u0938\u0948\u0932\u0930\u0940",
       "traffic": null,
@@ -27,27 +32,22 @@
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
+      "title": "laliga",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
       "title": "epl",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
+      "title": "brian brobbey",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
       "title": "spider man brand new day",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "real madrid vs atl\u00e9tico madrid",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "real madrid",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "atl\u00e9tico vs real madrid",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     }
@@ -67,16 +67,20 @@
         "link": "https://timesofindia.indiatimes.com/world/us/us-prepares-sweeping-sanctions-on-international-criminal-court/articleshow/134375029.cms"
       },
       {
-        "title": "'Nothing worng if people happily tip govt officials': K'taka minister sparks row",
+        "title": "'Nothing wrong if people happily tip govt officials': K'taka minister sparks row",
         "link": "https://timesofindia.indiatimes.com/city/bengaluru/offer-tips-to-good-officers-says-min-lands-in-soup/articleshow/134374842.cms"
       },
       {
-        "title": "Using recovery agents proves costly for truck financier, SC orders Rs 15 lakh payout",
-        "link": "https://timesofindia.indiatimes.com/india/using-recovery-agents-proves-costly-for-truck-financier/articleshow/134375079.cms"
+        "title": "Tata dipute: Lawyers Singhvi, Salve now on opposing sides",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/tata-dipute-singhvi-salve-now-on-opposing-sides/articleshow/134375598.cms"
       },
       {
         "title": "Atlanta man arrested after phone wipe; new ruling allows border searches",
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms"
+      },
+      {
+        "title": "Using recovery agents proves costly for truck financier, SC orders Rs 15 lakh payout",
+        "link": "https://timesofindia.indiatimes.com/india/using-recovery-agents-proves-costly-for-truck-financier/articleshow/134375079.cms"
       },
       {
         "title": "5th case slapped on Congress\u2019 Nandigram nominee Milan Pradhan, party to move HC",
@@ -89,10 +93,6 @@
       {
         "title": "Aamir Khan\u2019s Arjuna-winning \u2018coach\u2019 fights to save Indore akhada",
         "link": "https://timesofindia.indiatimes.com/city/bhopal/aamirs-arjuna-winning-coach-fights-to-save-indore-akhada/articleshow/134372961.cms"
-      },
-      {
-        "title": "Amit Shah wants UCC in all NDA states by 2029. What will JD(U) do in Bihar?",
-        "link": "https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms"
       }
     ],
     "NDTV": [
@@ -227,6 +227,10 @@
         "link": "https://www.thehindu.com/news/national/haryana/inlds-sampat-singh-attacks-bjps-seva-sankalp-abhiyaan-alleges-misuse-of-state-machinery/article71488503.ece"
       },
       {
+        "title": "Lucknow\u2019s S.R. Group of Institutions signs Five-Year MoU with SODES to strengthen digital education, skill development",
+        "link": "https://www.thehindu.com/news/national/odisha/lucknows-sr-group-of-institutions-signs-five-year-mou-with-sodes-to-strengthen-digital-education-skill-development/article71488600.ece"
+      },
+      {
         "title": "\u2018Stop Vizag Data Centers\u2019 Instagram account blocked in India",
         "link": "https://www.thehindu.com/news/national/andhra-pradesh/stop-vizag-data-centers-instagram-account-blocked-in-india/article71487350.ece"
       },
@@ -257,10 +261,6 @@
       {
         "title": "Man found dead inside parked car in Koramangala",
         "link": "https://www.thehindu.com/news/national/karnataka/man-found-dead-inside-parked-car-in-koramangala/article71487564.ece"
-      },
-      {
-        "title": "\u2018India is entering a period of economic growth that could be unparalleled in our history\u2019",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu//article71485038.ece"
       }
     ],
     "Livemint": [
@@ -351,15 +351,11 @@
   },
   "keywords": [
     {
-      "term": "India",
-      "score": 5.2
-    },
-    {
       "term": "Congress",
       "score": 3.9
     },
     {
-      "term": "What",
+      "term": "India",
       "score": 3.9
     },
     {
@@ -367,8 +363,20 @@
       "score": 2.6
     },
     {
+      "term": "What",
+      "score": 2.6
+    },
+    {
+      "term": "Tata",
+      "score": 1.9
+    },
+    {
       "term": "Karnataka",
       "score": 1.9
+    },
+    {
+      "term": "Salve",
+      "score": 1.6
     },
     {
       "term": "Rajasthan",
@@ -395,63 +403,55 @@
       "score": 1.3
     },
     {
-      "term": "Using",
-      "score": 1.3
-    },
-    {
       "term": "Atlanta",
       "score": 1.3
     },
     {
-      "term": "Nandigram",
-      "score": 1.3
-    },
-    {
-      "term": "Most",
+      "term": "Using",
       "score": 1.3
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "IPO Action: 20 IPOs to open for public subscription, 14 companies including NSE scheduled for listing next week",
-      "link": "https://www.moneycontrol.com/news/business/ipo/ipo-action-20-ipos-to-open-for-public-subscription-14-companies-including-nse-scheduled-for-listing-next-week-14033868.html"
+      "title": "Indian women\u2019s table tennis team stages comeback win against Singapore at Asian Games 2026",
+      "link": "https://thenewsmill.com/2026/09/indian-womens-table-tennis-team-stages-comeback-win-against-singapore-at-asian-games-2026/"
     },
     {
-      "title": "Harish Rao | \u0c15\u0c47\u0c38\u0c40\u0c06\u0c30\u0c4d \u0c2e\u0c40\u0c26 \u0c2c\u0c41\u0c30\u0c26 \u0c1c\u0c32\u0c4d\u0c32\u0c3f\u0c24\u0c47 \u0c30\u0c48\u0c24\u0c41\u0c32\u0c15\u0c41 \u0c28\u0c4d\u0c2f\u0c3e\u0c2f\u0c02 \u0c1c\u0c30\u0c41\u0c17\u0c41\u0c24\u0c41\u0c02\u0c26\u0c3e\u2026? \u0c38\u0c40\u0c0e\u0c02 \u0c30\u0c47\u0c35\u0c02\u0c24\u0c4d\u200c\u0c2a\u0c48 \u0c39\u0c30\u0c40\u0c36\u0c4d\u200c \u0c30\u0c3e\u0c35\u0c41 \u0c2b\u0c48\u0c30\u0c4d\u200c",
-      "link": "https://www.ntnews.com/telangana/harish-rao-fires-on-cm-revanth-reddy-during-conress-leaders-brs-joinings-2515416"
+      "title": "Deepika Padukone-Ranveer Singh welcome second baby girl; inside their Rs 100 crore sea-facing Bandra quadruplex and Prabhadevi home",
+      "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-ranveer-singh-welcome-second-baby-girl-inside-their-rs-100-crore-sea-facing-bandra-quadruplex-and-prabhadevi-home/articleshow/134366673.cms"
     },
     {
-      "title": "Losing the Y chromosome could reveal where cancer is beginning",
-      "link": "https://www.moneycontrol.com/news/trends/losing-the-y-chromosome-could-reveal-where-cancer-is-beginning-14033882.html"
+      "title": "HIV Injections Outperform Daily Pills for Teens in African Trial: Study",
+      "link": "https://newsable.asianetnews.com/lifestyle/hiv-injections-outperform-daily-pills-for-teens-in-african-trial-study-articleshow-2p5oes5"
     },
     {
-      "title": "Ex-Pakistan PM Imran Khan's sister Aleema arrested in Lahore ahead of Sept 27 PTI march",
-      "link": "https://timesofindia.indiatimes.com/world/pakistan/ex-pakistan-pm-imran-khans-sister-aleema-arrested-in-lahore-ahead-of-sept-27-pti-march/articleshow/134366345.cms"
+      "title": "Bigg Boss 20: \u0ab8\u0ab2\u0aae\u0abe\u0aa8 \u0a96\u0abe\u0aa8\u0ac7 \u0a9f\u0acd\u0ab0\u0acb\u0ab2\u0ab0\u0acd\u0ab8 \u0a85\u0aa8\u0ac7 \u0aaa\u0ac7\u0aaa\u0ab0\u0abe\u0a9d\u0ac0\u0aa8\u0ac0 \u0aac\u0acb\u0ab2\u0aa4\u0ac0 \u0aac\u0a82\u0aa7 \u0a95\u0ab0\u0ac0, \u0a95\u0ac7\u0aae\u0ac7\u0ab0\u0abe \u0ab8\u0abe\u0aae\u0ac7 \u0a9c \u0a89\u0aa4\u0abe\u0ab0\u0ac0 \u0a9f\u0ac0",
+      "link": "https://www.gujaratfirst.com/entertainment/salman-khan-removes-shirt-trolls-bigg-boss-gujarat-first-digital/340553/"
     },
     {
-      "title": "Disha Salian and Aaditya Thackeray: \u0906\u0926\u093f\u0924\u094d\u092f \u0920\u093e\u0915\u0930\u0947\u0902\u0928\u093e \u0928\u094b\u091f\u0940\u0938 \u0926\u094d\u092f\u093e\u092f\u0932\u093e \u0926\u093f\u0936\u093e \u0938\u093e\u0932\u093f\u092f\u0928\u091a\u094d\u092f\u093e \u0935\u0921\u093f\u0932\u093e\u0902\u0928\u0940 \u092e\u093e\u0924\u094b\u0936\u094d\u0930\u0940\u0935\u0930 \u091c\u093e\u0923\u0947 \u092f\u094b\u0917\u094d\u092f \u0939\u094b\u0924\u0947 \u0915\u093e? \u0905\u0938\u0940\u092e \u0938\u0930\u094b\u0926\u0947\u0902\u091a\u0940 \u092a\u094d\u0930\u0924\u093f\u0915\u094d\u0930\u093f\u092f\u093e, \u092e\u094d\u0939\u0923\u093e\u0932\u0947....",
-      "link": "https://marathi.abplive.com/crime/disha-salian-case-satish-salian-go-to-matoshree-to-give-notice-aaditya-thackeray-advocate-asim-sarode-reaction-marathi-news-1439683"
+      "title": "Titan open to buying smaller watch brands to expand premium, luxury portfolio",
+      "link": "https://www.moneycontrol.com/news/business/companies/titan-open-to-buying-smaller-watch-brands-to-expand-premium-luxury-portfolio-14033890.html"
     },
     {
-      "title": "\"\u0d30\u0d47\u0d23\u0d41 \u0d38\u0d41\u0d27\u0d3f \u0d10\u0d38\u0d3f\u0d2f\u0d41\u0d35\u0d3f\u0d7d, \u0d07\u0d28\u0d3f\u0d2f\u0d4a\u0d30\u0d41 \u0d15\u0d40\u0d2e\u0d4b \u0d24\u0d3e\u0d19\u0d4d\u0d19\u0d3f\u0d32\u0d4d\u0d32\"; \u0d2a\u0d4d\u0d30\u0d3e\u0d7c\u0d25\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d2e\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d36\u0d3e\u0d30\u0d3f\u0d15",
-      "link": "https://www.metrovaartha.com/entertainment/renu-sudhi-in-icu-she-cannot-withstand-another-round-of-chemo-says-sharika-asking-for-prayers"
+      "title": "\u092a\u094d\u0930\u0938\u093f\u0926\u094d\u0927 \u0928\u094d\u092f\u0942\u0930\u094b\u0938\u0930\u094d\u091c\u0928\u091a\u0947 \u0905\u092a\u0918\u093e\u0924\u0940 \u0928\u093f\u0927\u0928; \u092e\u0939\u093e\u092e\u093e\u0930\u094d\u0917\u093e\u0935\u0930 \u0915\u093e\u0930\u091a\u093e \u0915\u094b\u0933\u0938\u093e",
+      "link": "https://saamtv.esakal.com/national-international/famous-neurosurgeon-dr-jagadeesh-babu-dies-after-car-hits-divider-and-catches-fire-on-nh-365bb-highway-in-suryapet-telangana-om0906"
     },
     {
-      "title": "\u0d38\u0d02\u0d38\u0d4d\u0d25\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d4d \u0d2e\u0d34 \u0d36\u0d15\u0d4d\u0d24\u0d2e\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41; 7 \u0d1c\u0d3f\u0d32\u0d4d\u0d32\u0d15\u0d33\u0d3f\u0d7d \u0d07\u0d28\u0d4d\u0d28\u0d4d \u0d2f\u0d46\u0d32\u0d4d\u0d32\u0d4b \u0d05\u0d32\u0d7c\u0d1f\u0d4d\u0d1f\u0d4d",
-      "link": "https://www.southlive.in/rain-intensifies-in-the-state-yellow-alert-in-7-districts-today/"
+      "title": "\u0915\u094b\u0923 \u0906\u0939\u0947 MMA \u092b\u093e\u092f\u091f\u0930 \u0938\u0941\u091a\u093f\u0915\u093e \u0924\u093e\u0930\u093f\u092f\u093e\u0932? \u0935\u092f\u093e\u091a\u094d\u092f\u093e \u0967\u0968\u0935\u094d\u092f\u093e \u0935\u0930\u094d\u0937\u0940 \u091b\u0947\u0921\u091b\u093e\u0921\u0940\u091a\u093e \u0938\u093e\u092e\u0928\u093e, \u0969\u096c\u0935\u094d\u092f\u093e \u0935\u0930\u094d\u0937\u0940 \u090f\u0936\u093f\u092f\u0928 \u0917\u0947\u092e\u094d\u0938\u092e\u0927\u094d\u092f\u0947 \u0907\u0924\u093f\u0939\u093e\u0938 \u0918\u0921\u0935\u0932\u093e",
+      "link": "https://www.loksatta.com/krida/who-is-suchika-tariyal-asian-games-2026-first-mma-medal-for-india-profile-struggle-story-bdg-99-6146166/"
     },
     {
-      "title": "\u092a\u094d\u0930\u0926\u0947\u0936 \u092e\u0947\u0902 \u0939\u0930 \u0938\u092a\u094d\u0924\u093e\u0939 \u0939\u094b\u0917\u093e \u092c\u0921\u093c\u093e \u092d\u0930\u094d\u0924\u0940 \u0907\u0935\u0947\u0902\u091f, \u091b\u0939 \u092e\u0939\u0940\u0928\u0947 \u092e\u0947\u0902 \u090f\u0915 \u0932\u093e\u0916 \u092f\u0941\u0935\u093e\u0913\u0902 \u0915\u094b \u0938\u0930\u0915\u093e\u0930\u0940 \u0928\u094c\u0915\u0930\u0940 \u0926\u0947\u0902\u0917\u0947",
-      "link": "https://www.amarujala.com/lucknow/up-cm-yogi-adityanath-said-every-week-there-will-be-a-big-recruitment-event-in-the-state-2026-09-20"
+      "title": "Jalna News : \u0939\u093e\u0924\u093e\u0924\u094b\u0902\u0921\u093e\u0936\u0940 \u0906\u0932\u0947\u0932\u093e \u0918\u093e\u0938 \u0939\u093f\u0930\u093e\u0935\u0932\u093e",
+      "link": "https://pudhari.news/maharashtra/marathwada/jalna/pimpalgaon-renukai-crops-on-hundreds-of-hectares-damaged-due-to-lack-of-rain-np88"
     },
     {
-      "title": "\u0ab0\u0abe\u0ab9\u0ac1\u0ab2 \u0a97\u0abe\u0a82\u0aa7\u0ac0\u0a8f \u2018\u0a9b\u0abe\u0aa4\u0acd\u0ab0\u0acb\u0a82 \u0a95\u0ac0 \u0a97\u0ac2\u0a82\u0a9c\u2019 \u0a95\u0abe\u0ab0\u0acd\u0aaf\u0a95\u0acd\u0ab0\u0aae\u0aae\u0abe\u0a82 \u0a95\u0aaf\u0abe \u0aae\u0ac1\u0aa6\u0acd\u0aa6\u0abe \u0a89\u0aa0\u0abe\u0ab5\u0acd\u0aaf\u0abe?",
-      "link": "https://www.bbc.com/gujarati/watch/cm70ld0q2gjno"
+      "title": "\u0c30\u0c37\u0c4d\u0c2f\u0c3e\u0c2a\u0c48 \u0c35\u0c3f\u0c30\u0c41\u0c1a\u0c41\u0c15\u0c41\u0c2a\u0c21\u0c4d\u0c21 \u0c09\u0c15\u0c4d\u0c30\u0c46\u0c2f\u0c3f\u0c28\u0c4d\u200c- \u0c2e\u0c3e\u0c38\u0c4d\u0c15\u0c4b \u0c1a\u0c30\u0c3f\u0c24\u0c4d\u0c30\u0c32\u0c4b\u0c28\u0c47 \u0c05\u0c24\u0c3f\u0c2a\u0c46\u0c26\u0c4d\u0c26 \u0c21\u0c4d\u0c30\u0c4b\u0c28\u0c4d\u200c \u0c26\u0c3e\u0c21\u0c3f- \u0c2a\u0c3e\u0c30\u0c4d\u0c32\u0c2e\u0c46\u0c02\u0c1f\u0c4d\u200c \u0c0e\u0c28\u0c4d\u0c28\u0c3f\u0c15\u0c32 \u0c2a\u0c4b\u0c32\u0c3f\u0c02\u0c17\u0c4d \u0c35\u0c47\u0c33 \u0c05\u0c1f\u0c3e\u0c15\u0c4d\u200b",
+      "link": "https://www.etvbharat.com/te/international/ukraine-fires-over-several-drones-at-russia-including-hundreds-launched-at-moscow-ten26092002812"
     },
     {
-      "title": "\u0c38\u0c40\u0c28\u0c3f\u0c2f\u0c30\u0c4d \u0c28\u0c1f\u0c41\u0c21\u0c3f \u0c1a\u0c41\u0c1f\u0c4d\u0c1f\u0c42 \u0c28\u0c46\u0c17\u0c46\u0c1f\u0c3f\u0c35\u0c4d \u0c38\u0c46\u0c02\u0c1f\u0c3f\u0c2e\u0c46\u0c02\u0c1f\u0c4d",
-      "link": "https://telugu.greatandhra.com/movies/movie-news/bad-sentiment-surrounding-sj-surya.html"
+      "title": "Hyderabad: \u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c40\u0c32\u0c15\u0c41 \u0c17\u0c41\u0c21\u0c4d \u0c28\u0c4d\u0c2f\u0c42\u0c38\u0c4d.. \u0c2a\u0c02\u0c1c\u0c3e\u0c17\u0c41\u0c1f\u0c4d\u0c1f \u0c28\u0c41\u0c02\u0c1a\u0c3f \u0c1c\u0c42\u0c2c\u0c4d\u0c32\u0c40\u0c39\u0c3f\u0c32\u0c4d\u0c38\u0c4d \u0c1a\u0c46\u0c15\u0c4d \u0c2a\u0c4b\u0c38\u0c4d\u0c1f\u0c4d \u0c35\u0c30\u0c15\u0c41 \u0c0e\u0c32\u0c3f\u0c35\u0c47\u0c1f\u0c46\u0c21\u0c4d \u0c15\u0c3e\u0c30\u0c3f\u0c21\u0c3e\u0c30\u0c4d..!",
+      "link": "https://telugu.goodreturns.in/news/there-is-a-possibility-of-constructing-an-elevated-corridor-from-hyderabads-nagarjuna-circle-to-jub-058005.html"
     }
   ],
   "twitter": null

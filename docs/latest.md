@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-20 22:01:40
+# India Trending Report — 2026-09-20 22:33:11
 
 ## Google Trends (India) — top trending searches
-1. [8वें वेतन आयोग सैलरी](https://trends.google.com/trending/rss?geo=IN)
-2. [amit shah](https://trends.google.com/trending/rss?geo=IN)
-3. [tata aeris](https://trends.google.com/trending/rss?geo=IN)
-4. [man utd](https://trends.google.com/trending/rss?geo=IN)
-5. [clock](https://trends.google.com/trending/rss?geo=IN)
-6. [epl](https://trends.google.com/trending/rss?geo=IN)
-7. [spider man brand new day](https://trends.google.com/trending/rss?geo=IN)
-8. [real madrid vs atlético madrid](https://trends.google.com/trending/rss?geo=IN)
-9. [real madrid](https://trends.google.com/trending/rss?geo=IN)
-10. [atlético vs real madrid](https://trends.google.com/trending/rss?geo=IN)
+1. [nfl](https://trends.google.com/trending/rss?geo=IN)
+2. [8वें वेतन आयोग सैलरी](https://trends.google.com/trending/rss?geo=IN)
+3. [amit shah](https://trends.google.com/trending/rss?geo=IN)
+4. [tata aeris](https://trends.google.com/trending/rss?geo=IN)
+5. [man utd](https://trends.google.com/trending/rss?geo=IN)
+6. [clock](https://trends.google.com/trending/rss?geo=IN)
+7. [laliga](https://trends.google.com/trending/rss?geo=IN)
+8. [epl](https://trends.google.com/trending/rss?geo=IN)
+9. [brian brobbey](https://trends.google.com/trending/rss?geo=IN)
+10. [spider man brand new day](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Trump adds drones, snipers and ammunition to plans for Washington triumphal arch](https://timesofindia.indiatimes.com/world/us/donald-trump-adds-drones-snipers-and-ammunition-to-plans-for-washington-triumphal-arch/articleshow/134368581.cms)
 - [One year on, commodity prices eat into gains from GST rate rejig](https://timesofindia.indiatimes.com/business/india-business/one-year-on-commodity-prices-eat-into-gains-from-gst-rate-rejig/articleshow/134375353.cms)
 - [US prepares sweeping sanctions on International Criminal Court](https://timesofindia.indiatimes.com/world/us/us-prepares-sweeping-sanctions-on-international-criminal-court/articleshow/134375029.cms)
-- ['Nothing worng if people happily tip govt officials': K'taka minister sparks row](https://timesofindia.indiatimes.com/city/bengaluru/offer-tips-to-good-officers-says-min-lands-in-soup/articleshow/134374842.cms)
-- [Using recovery agents proves costly for truck financier, SC orders Rs 15 lakh payout](https://timesofindia.indiatimes.com/india/using-recovery-agents-proves-costly-for-truck-financier/articleshow/134375079.cms)
+- ['Nothing wrong if people happily tip govt officials': K'taka minister sparks row](https://timesofindia.indiatimes.com/city/bengaluru/offer-tips-to-good-officers-says-min-lands-in-soup/articleshow/134374842.cms)
+- [Tata dipute: Lawyers Singhvi, Salve now on opposing sides](https://timesofindia.indiatimes.com/business/india-business/tata-dipute-singhvi-salve-now-on-opposing-sides/articleshow/134375598.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
+- [Using recovery agents proves costly for truck financier, SC orders Rs 15 lakh payout](https://timesofindia.indiatimes.com/india/using-recovery-agents-proves-costly-for-truck-financier/articleshow/134375079.cms)
 - [5th case slapped on Congress’ Nandigram nominee Milan Pradhan, party to move HC](https://timesofindia.indiatimes.com/city/kolkata/another-warrant-against-milan-cong-to-move-hc/articleshow/134371430.cms)
 - [Most economists see RBI raising rates in October policy](https://timesofindia.indiatimes.com/business/india-business/most-economists-see-rbi-raising-rates-in-october-policy/articleshow/134375349.cms)
 - [Aamir Khan’s Arjuna-winning ‘coach’ fights to save Indore akhada](https://timesofindia.indiatimes.com/city/bhopal/aamirs-arjuna-winning-coach-fights-to-save-indore-akhada/articleshow/134372961.cms)
-- [Amit Shah wants UCC in all NDA states by 2029. What will JD(U) do in Bihar?](https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms)
 
 **NDTV**
 - [North Korea Launches 2 Ballistic Missiles Toward Sea](https://www.ndtv.com/world-news/north-korea-launches-2-ballistic-missiles-toward-sea-12073587#publisher=newsstand)
@@ -63,6 +63,7 @@
 
 **The Hindu**
 - [INLD’s Sampat Singh attacks BJP’s ‘Seva Sankalp Abhiyaan’, alleges misuse of State machinery](https://www.thehindu.com/news/national/haryana/inlds-sampat-singh-attacks-bjps-seva-sankalp-abhiyaan-alleges-misuse-of-state-machinery/article71488503.ece)
+- [Lucknow’s S.R. Group of Institutions signs Five-Year MoU with SODES to strengthen digital education, skill development](https://www.thehindu.com/news/national/odisha/lucknows-sr-group-of-institutions-signs-five-year-mou-with-sodes-to-strengthen-digital-education-skill-development/article71488600.ece)
 - [‘Stop Vizag Data Centers’ Instagram account blocked in India](https://www.thehindu.com/news/national/andhra-pradesh/stop-vizag-data-centers-instagram-account-blocked-in-india/article71487350.ece)
 - [Once described as BIMARU, U.P. transformed as country’s growth engine, says CM Yogi](https://www.thehindu.com/news/national/uttar-pradesh/once-described-as-bimaru-up-transformed-as-countrys-growth-engine-says-cm-yogi/article71488822.ece)
 - [Missing measure in India’s magnet mission](https://www.thehindu.com/opinion/op-ed/missing-measure-in-indias-magnet-mission/article71488862.ece)
@@ -71,7 +72,6 @@
 - [Boating to boost tourism at Peruvannamuzhi](https://www.thehindu.com/news/national/kerala/boating-to-boost-tourism-at-peruvannamuzhi/article71487538.ece)
 - [Human skull recovered from waste heap in Kozhikode](https://www.thehindu.com/news/national/kerala/human-skull-recovered-from-waste-heap-in-kozhikode/article71487663.ece)
 - [Man found dead inside parked car in Koramangala](https://www.thehindu.com/news/national/karnataka/man-found-dead-inside-parked-car-in-koramangala/article71487564.ece)
-- [‘India is entering a period of economic growth that could be unparalleled in our history’](https://www.thehindu.com/news/national/tamil-nadu//article71485038.ece)
 
 **Livemint**
 - [What time is 60 Minutes on tonight? How to watch Patrick Clancy’s first TV interview on CBS](https://www.livemint.com/news/us-news/what-time-is-60-minutes-on-tonight-how-to-watch-patrick-clancy-s-first-tv-interview-on-cbs-11789938984690.html)
@@ -100,35 +100,35 @@
 - [ಕಪಿಲ್ ಸಿಬಲ್ ರಿಗೂ ಬಂತು SIR ನೋಟೀಸ್! ಸಿಂಧುವಾದ ಮತಗಳ ‘ವಿಶೇಷ ಸಮಗ್ರ ತೆಗೆದು ಹಾಕುವಿಕೆ’: EC ವಿರುದ್ಧ ಸಿಬಲ್ ವಾಗ್ದಾಳಿ](https://www.varthabharati.in/National/kapil-sibal-lashes-out-at-the-sir-following-the-ec-notice-regarding-the-special-comprehensive-deletion-of-valid-votes-2276648)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (5.2)
 - Congress (3.9)
-- What (3.9)
+- India (3.9)
 - Trump (2.6)
+- What (2.6)
+- Tata (1.9)
 - Karnataka (1.9)
+- Salve (1.6)
 - Rajasthan (1.6)
 - Seva (1.6)
 - Bengaluru (1.6)
 - Washington (1.3)
 - Nothing (1.3)
 - K'taka (1.3)
-- Using (1.3)
 - Atlanta (1.3)
-- Nandigram (1.3)
-- Most (1.3)
+- Using (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [IPO Action: 20 IPOs to open for public subscription, 14 companies including NSE scheduled for listing next week](https://www.moneycontrol.com/news/business/ipo/ipo-action-20-ipos-to-open-for-public-subscription-14-companies-including-nse-scheduled-for-listing-next-week-14033868.html)
-- [Harish Rao | కేసీఆర్ మీద బురద జల్లితే రైతులకు న్యాయం జరుగుతుందా…? సీఎం రేవంత్‌పై హరీశ్‌ రావు ఫైర్‌](https://www.ntnews.com/telangana/harish-rao-fires-on-cm-revanth-reddy-during-conress-leaders-brs-joinings-2515416)
-- [Losing the Y chromosome could reveal where cancer is beginning](https://www.moneycontrol.com/news/trends/losing-the-y-chromosome-could-reveal-where-cancer-is-beginning-14033882.html)
-- [Ex-Pakistan PM Imran Khan's sister Aleema arrested in Lahore ahead of Sept 27 PTI march](https://timesofindia.indiatimes.com/world/pakistan/ex-pakistan-pm-imran-khans-sister-aleema-arrested-in-lahore-ahead-of-sept-27-pti-march/articleshow/134366345.cms)
-- [Disha Salian and Aaditya Thackeray: आदित्य ठाकरेंना नोटीस द्यायला दिशा सालियनच्या वडिलांनी मातोश्रीवर जाणे योग्य होते का? असीम सरोदेंची प्रतिक्रिया, म्हणाले....](https://marathi.abplive.com/crime/disha-salian-case-satish-salian-go-to-matoshree-to-give-notice-aaditya-thackeray-advocate-asim-sarode-reaction-marathi-news-1439683)
-- ["രേണു സുധി ഐസിയുവിൽ, ഇനിയൊരു കീമോ താങ്ങില്ല"; പ്രാർഥിക്കണമെന്ന് ശാരിക](https://www.metrovaartha.com/entertainment/renu-sudhi-in-icu-she-cannot-withstand-another-round-of-chemo-says-sharika-asking-for-prayers)
-- [സംസ്ഥാനത്ത് മഴ ശക്തമാകുന്നു; 7 ജില്ലകളിൽ ഇന്ന് യെല്ലോ അലർട്ട്](https://www.southlive.in/rain-intensifies-in-the-state-yellow-alert-in-7-districts-today/)
-- [प्रदेश में हर सप्ताह होगा बड़ा भर्ती इवेंट, छह महीने में एक लाख युवाओं को सरकारी नौकरी देंगे](https://www.amarujala.com/lucknow/up-cm-yogi-adityanath-said-every-week-there-will-be-a-big-recruitment-event-in-the-state-2026-09-20)
-- [રાહુલ ગાંધીએ ‘છાત્રોં કી ગૂંજ’ કાર્યક્રમમાં કયા મુદ્દા ઉઠાવ્યા?](https://www.bbc.com/gujarati/watch/cm70ld0q2gjno)
-- [సీనియర్ నటుడి చుట్టూ నెగెటివ్ సెంటిమెంట్](https://telugu.greatandhra.com/movies/movie-news/bad-sentiment-surrounding-sj-surya.html)
+- [Indian women’s table tennis team stages comeback win against Singapore at Asian Games 2026](https://thenewsmill.com/2026/09/indian-womens-table-tennis-team-stages-comeback-win-against-singapore-at-asian-games-2026/)
+- [Deepika Padukone-Ranveer Singh welcome second baby girl; inside their Rs 100 crore sea-facing Bandra quadruplex and Prabhadevi home](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-ranveer-singh-welcome-second-baby-girl-inside-their-rs-100-crore-sea-facing-bandra-quadruplex-and-prabhadevi-home/articleshow/134366673.cms)
+- [HIV Injections Outperform Daily Pills for Teens in African Trial: Study](https://newsable.asianetnews.com/lifestyle/hiv-injections-outperform-daily-pills-for-teens-in-african-trial-study-articleshow-2p5oes5)
+- [Bigg Boss 20: સલમાન ખાને ટ્રોલર્સ અને પેપરાઝીની બોલતી બંધ કરી, કેમેરા સામે જ ઉતારી ટી](https://www.gujaratfirst.com/entertainment/salman-khan-removes-shirt-trolls-bigg-boss-gujarat-first-digital/340553/)
+- [Titan open to buying smaller watch brands to expand premium, luxury portfolio](https://www.moneycontrol.com/news/business/companies/titan-open-to-buying-smaller-watch-brands-to-expand-premium-luxury-portfolio-14033890.html)
+- [प्रसिद्ध न्यूरोसर्जनचे अपघाती निधन; महामार्गावर कारचा कोळसा](https://saamtv.esakal.com/national-international/famous-neurosurgeon-dr-jagadeesh-babu-dies-after-car-hits-divider-and-catches-fire-on-nh-365bb-highway-in-suryapet-telangana-om0906)
+- [कोण आहे MMA फायटर सुचिका तारियाल? वयाच्या १२व्या वर्षी छेडछाडीचा सामना, ३६व्या वर्षी एशियन गेम्समध्ये इतिहास घडवला](https://www.loksatta.com/krida/who-is-suchika-tariyal-asian-games-2026-first-mma-medal-for-india-profile-struggle-story-bdg-99-6146166/)
+- [Jalna News : हातातोंडाशी आलेला घास हिरावला](https://pudhari.news/maharashtra/marathwada/jalna/pimpalgaon-renukai-crops-on-hundreds-of-hectares-damaged-due-to-lack-of-rain-np88)
+- [రష్యాపై విరుచుకుపడ్డ ఉక్రెయిన్‌- మాస్కో చరిత్రలోనే అతిపెద్ద డ్రోన్‌ దాడి- పార్లమెంట్‌ ఎన్నికల పోలింగ్ వేళ అటాక్​](https://www.etvbharat.com/te/international/ukraine-fires-over-several-drones-at-russia-including-hundreds-launched-at-moscow-ten26092002812)
+- [Hyderabad: హైదరాబాదీలకు గుడ్ న్యూస్.. పంజాగుట్ట నుంచి జూబ్లీహిల్స్ చెక్ పోస్ట్ వరకు ఎలివేటెడ్ కారిడార్..!](https://telugu.goodreturns.in/news/there-is-a-possibility-of-constructing-an-elevated-corridor-from-hyderabads-nagarjuna-circle-to-jub-058005.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
