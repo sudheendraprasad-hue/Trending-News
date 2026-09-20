@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-20 23:01:47
+# India Trending Report — 2026-09-20 23:31:46
 
 ## Google Trends (India) — top trending searches
 1. [nfl](https://trends.google.com/trending/rss?geo=IN)
@@ -7,23 +7,23 @@
 4. [tata aeris](https://trends.google.com/trending/rss?geo=IN)
 5. [man utd](https://trends.google.com/trending/rss?geo=IN)
 6. [clock](https://trends.google.com/trending/rss?geo=IN)
-7. [laliga](https://trends.google.com/trending/rss?geo=IN)
-8. [epl](https://trends.google.com/trending/rss?geo=IN)
-9. [brian brobbey](https://trends.google.com/trending/rss?geo=IN)
+7. [atlético madrid vs real madrid](https://trends.google.com/trending/rss?geo=IN)
+8. [laliga](https://trends.google.com/trending/rss?geo=IN)
+9. [epl](https://trends.google.com/trending/rss?geo=IN)
 10. [spider man brand new day](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Trump adds drones, snipers and ammunition to plans for Washington triumphal arch](https://timesofindia.indiatimes.com/world/us/donald-trump-adds-drones-snipers-and-ammunition-to-plans-for-washington-triumphal-arch/articleshow/134368581.cms)
-- [One year on, commodity prices eat into gains from GST rate rejig](https://timesofindia.indiatimes.com/business/india-business/one-year-on-commodity-prices-eat-into-gains-from-gst-rate-rejig/articleshow/134375353.cms)
-- [US prepares sweeping sanctions on International Criminal Court](https://timesofindia.indiatimes.com/world/us/us-prepares-sweeping-sanctions-on-international-criminal-court/articleshow/134375029.cms)
+- [Tata dipute: Lawyers Singhvi, Salve now on opposing sides](https://timesofindia.indiatimes.com/business/india-business/tata-dipute-singhvi-salve-now-on-opposing-sides/articleshow/134375598.cms)
 - [Iran threatens 'painful retaliation' if US strikes as Trump warns of 'big things'](https://timesofindia.indiatimes.com/world/middle-east/iran-warns-us-allies-against-new-attack-threatens-retaliation/articleshow/134374995.cms)
+- [More Delhi SIRprises: Jaishankar, Dhankhar, Advani on list of voters with ‘discrepancies’](https://timesofindia.indiatimes.com/city/delhi/lk-advani-dhankar-sisodia-also-issued-sir-notices/articleshow/134372553.cms)
 - ['Nothing wrong if people happily tip govt officials': K'taka minister sparks row](https://timesofindia.indiatimes.com/city/bengaluru/offer-tips-to-good-officers-says-min-lands-in-soup/articleshow/134374842.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
-- [Tata dipute: Lawyers Singhvi, Salve now on opposing sides](https://timesofindia.indiatimes.com/business/india-business/tata-dipute-singhvi-salve-now-on-opposing-sides/articleshow/134375598.cms)
+- [US prepares sweeping sanctions on International Criminal Court](https://timesofindia.indiatimes.com/world/us/us-prepares-sweeping-sanctions-on-international-criminal-court/articleshow/134375029.cms)
+- [One year on, commodity prices eat into gains from GST rate rejig](https://timesofindia.indiatimes.com/business/india-business/one-year-on-commodity-prices-eat-into-gains-from-gst-rate-rejig/articleshow/134375353.cms)
 - [Using recovery agents proves costly for truck financier, SC orders Rs 15 lakh payout](https://timesofindia.indiatimes.com/india/using-recovery-agents-proves-costly-for-truck-financier/articleshow/134375079.cms)
 - [5th case slapped on Congress’ Nandigram nominee Milan Pradhan, party to move HC](https://timesofindia.indiatimes.com/city/kolkata/another-warrant-against-milan-cong-to-move-hc/articleshow/134371430.cms)
-- [Most economists see RBI raising rates in October policy](https://timesofindia.indiatimes.com/business/india-business/most-economists-see-rbi-raising-rates-in-october-policy/articleshow/134375349.cms)
 
 **NDTV**
 - [North Korea Launches 2 Ballistic Missiles Toward Sea](https://www.ndtv.com/world-news/north-korea-launches-2-ballistic-missiles-toward-sea-12073587#publisher=newsstand)
@@ -74,6 +74,7 @@
 - [Human skull recovered from waste heap in Kozhikode](https://www.thehindu.com/news/national/kerala/human-skull-recovered-from-waste-heap-in-kozhikode/article71487663.ece)
 
 **Livemint**
+- [Dutch Police Break Up Violent Far-Right Protest in The Hague](https://www.livemint.com/news/dutch-police-break-up-violent-far-right-protest-in-the-hague-11789946269251.html)
 - [What time is 60 Minutes on tonight? How to watch Patrick Clancy’s first TV interview on CBS](https://www.livemint.com/news/us-news/what-time-is-60-minutes-on-tonight-how-to-watch-patrick-clancy-s-first-tv-interview-on-cbs-11789938984690.html)
 - [‘Gaslit by a king’: Charles Spencer breaks silence after Palace response to his Diana memoir](https://www.livemint.com/news/world/gaslit-by-a-king-charles-spencer-breaks-silence-after-palace-response-to-his-diana-memoir-swan-song-11789924380610.html)
 - [South Africa Questions 3 People of Interest in Women’s Murders](https://www.livemint.com/news/south-africa-questions-3-people-of-interest-in-women-s-murders-11789933458817.html)
@@ -83,7 +84,6 @@
 - [Karnataka FDA cracks down on fake drug racket: 24 licences hit,  ₹5 cr stock seized — what did it find during raid?](https://www.livemint.com/news/india/karnataka-fda-cracks-down-on-fake-drug-racket-24-licences-hit-rs-5-cr-stock-seized-what-did-it-find-during-raid-11789924262491.html)
 - [iPhone langar cancelled? Who is Raja D King, influencer and businessman whose event has been stopped in Chandigarh](https://www.livemint.com/news/trends/iphone-langar-cancelled-who-is-raja-d-king-influencer-and-businessman-whose-event-has-been-stopped-in-chandigarh-11789924761582.html)
 - [Bengaluru Software Charge: Property owners to pay additional fee with tax, here's what it is and how much it can cost](https://www.livemint.com/news/bengaluru-software-charge-property-owners-to-pay-additional-fee-with-tax-heres-what-it-is-and-how-much-it-can-cost-11789921734374.html)
-- [Trump signs Russia sanctions law, tariff threat looms over India, China: Can Africa become Putin’s next energy network?](https://www.livemint.com/news/world/trump-signs-russia-sanctions-law-tariff-threat-looms-over-india-china-can-africa-become-putin-s-next-energy-network-11789918545965.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,9 +100,11 @@
 - [ಕಪಿಲ್ ಸಿಬಲ್ ರಿಗೂ ಬಂತು SIR ನೋಟೀಸ್! ಸಿಂಧುವಾದ ಮತಗಳ ‘ವಿಶೇಷ ಸಮಗ್ರ ತೆಗೆದು ಹಾಕುವಿಕೆ’: EC ವಿರುದ್ಧ ಸಿಬಲ್ ವಾಗ್ದಾಳಿ](https://www.varthabharati.in/National/kapil-sibal-lashes-out-at-the-sir-following-the-ec-notice-regarding-the-special-comprehensive-deletion-of-valid-votes-2276648)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (3.9)
 - Congress (3.9)
-- India (3.9)
+- Trump (2.6)
+- Jaishankar (2.6)
+- Advani (2.6)
+- India (2.6)
 - What (2.6)
 - Tata (1.9)
 - Karnataka (1.9)
@@ -113,22 +115,20 @@
 - Bengaluru (1.6)
 - Washington (1.3)
 - Iran (1.3)
-- Nothing (1.3)
-- K'taka (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [રશિયા પર તૂટી પડ્યું યુક્રેન, તાબડતોડ 100થી વધુ ડ્રોન છોડ્યા; 2 ના મોત અને 20 ઘાયલ](https://gujarati.abplive.com/news/world/ukraine-launched-massive-drone-attack-on-russia-over-1000-drones-fired-991639)
-- [ఖైరతాబాద్ మహాగణపతి నిమజ్జనానికి ముహూర్తం ఖరారు](https://www.ap7am.com/tn/880740/khairatabad-maha-ganapathi-immersion-date-finalized)
-- [Lucky Zodiac Signs : उद्या 21 सप्टेंबरचा दिवस 5 राशींसाठी वरदानाचा; आठवड्याच्या पहिल्याच दिवशी महादेव देणार शुभवार्ता, वाचा लकी राशी](https://marathi.abplive.com/astro/lucky-zodiac-signs-on-21-september-2026-these-are-lucky-zodiacs-will-get-blessings-of-lord-shiva-astrology-marathi-news-1439693)
-- ['जातीवाचक शिवीगाळ करून मुलाला आत्महत्येला प्रवृत्त केलं'; आयआयटी मुंबईवर पालकांनी नेमके काय आरोप केले?](https://www.bbc.com/marathi/articles/cmy9z1d21jrvo)
-- [West Bengal News LIVE: ‘আন্দোলনের সময় দায়ের হওয়া সমস্ত মামলা প্রত্যাহার', কুড়মি সমাজকে বার্তা মুখ্যমন্ত্রীর](https://bengali.indianexpress.com/west-bengal/nandigram-bypoll-tmc-bjp-mamata-suvendu-eci-congress-milan-pradhan-arrest-rahul-gandhi-ritubrata-imd-west-bengal-news-live-update-12550996)
-- [ઉત્તર કોરિયાએ લોન્ચ કરી બેલિસ્ટીક મિસાઈલ, દક્ષિણ કોરિયા સહિત અમેરિકા અને જાપાન ભડક્યાં](https://www.gujaratsamachar.com/news/international/north-korea-launches-ballistic-missile-angers-south-korea-us-and-japan-55468970438)
-- ['Largest-ever' attack: Ukraine launches over 1,000 drones at Russia, oil refinery hit; 3 killed](https://timesofindia.indiatimes.com/world/europe/largest-ever-attack-on-moscow-ukraine-sends-over-1000-drones-into-russia-overnight/articleshow/134366997.cms)
-- [સાપ્તાહિક રાશિફળ: 20 થી 26 સપ્ટેમ્બરમાં કોનું ભાગ્ય ચમકશે? જાણો 12 રાશિનું ભવિષ્ય](https://gujarati.abplive.com/astro/weekly-horoscope-20-to-26-september-2026-saptahik-rashifal-gujarati-991638)
-- [Gujarat Rain: આગામી 3 કલાક રાજ્યના 19 જિલ્લાઓમાં ભારે વરસાદની આગાહી, જાણો ક્યાં તૂટી પડશે](https://gujarati.abplive.com/news/gujarat/heavy-rain-forecast-in-19-districts-of-the-state-in-the-next-3-hours-991635)
-- [Tata Sons dispute: Abhishek Singhvi says he enters fray with 'sadness and regret'](https://economictimes.indiatimes.com/news/company/corporate-trends/tata-sons-dispute-abhishek-singhvi-says-he-enters-fray-with-sadness-and-regret/articleshow/134366925.cms?from=mdr)
+- [रेड कारपेट बिछाकर शी जिनपिंग के स्वागत के लिए तैयार डोनाल्ड ट्रंप, एकदम से जज्बात कैसे बदल दिए?](https://www.livehindustan.com/international/america-and-china-relations-donald-trump-now-rolling-out-red-carpet-for-xi-jinping-201789902502167.html)
+- [5 दिन बाद खुलेगा तमन्ना भाटिया-सिद्धार्थ मल्होत्रा का रहस्य, सलमान खान संग लगाए ठुमके, Video](https://www.aajtak.in/entertainment/television/story/bigg-boss-20-tamanna-bhatia-sidharth-malhotra-the-one-pati-patni-aur-panga-2-salman-khan-dance-tmovb-dskc-2648133-2026-09-20)
+- [Bardhaman: 'তোলাবাজি করলে বেঁধে রাখা হবে', হুঁশিয়ারি বিজেপি বিধায়কের](https://bangla.aajtak.in/west-bengal/story/bjp-mla-manab-guha-warns-to-the-workers-in-extortion-allegation-bytt-sum-1453018-2026-09-20)
+- [8-வது ஊதியக் குழு: சம்பளம் மளமளன்னு உயரப் போகுது! 49 லட்சம் ஊழியர்கள் & 68 லட்சம் ஓய்வூதியதாரர்களுக்கான அதிரடி அப்டேட்!](https://tamil.economictimes.com/news/business/8th-pay-commission-salary-increase-for-employees-pension-rise-and-changes-in-2026/articleshow/134366340.cms)
+- [Ukraine | ర‌ష్యాపై భీక‌ర దాడి.. 1000 డ్రోన్ల‌తో విరుచుకుప‌డ్డ ఉక్రెయ‌న్.. ఇద్ద‌రు మృతి](https://www.ntnews.com/international/ukraine-fires-over-1000-drones-at-russia-largest-ever-attack-on-moscow-two-people-killed-2515476)
+- [Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raja: 'Some people a**** start to burn'](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-hits-back-at-people-trolling-maithili-thakur-for-arriving-in-rolls-royce-at-lalbaugcha-raja-some-people-a-start-to-burn/articleshow/134367439.cms)
+- [নির্বাচনের মধ্যেই মস্কোয় ভয়াবহ ড্রোন হামলা ইউক্রেনের! ১৬০০-র বেশি ড্রোন ধ্বংসের দাবি রাশিয়ার](https://bangla.asianetnews.com/international/world-news/hundreds-of-drones-targeting-moscow-and-its-surrounding-region-killed-at-least-two-people-and-damaged-a-major-refinery/articleshow-qko917e)
+- [પાકિસ્તાનના પૂર્વ વડાપ્રધાન ઈમરાન ખાનના બહેનની ધરપકડ, PTI પાર્ટીની 'લોંગ માર્ચ' પહેલા પોલીસની કાર્યવાહી](https://www.gujaratsamachar.com/news/international/former-pakistan-prime-minister-imran-khans-sister-arrested-police-action-before-pti-partys-long-march-35087150336)
+- [വിയർത്ത് ഭാരം കുറയ്ക്കാൻ ശ്രമിച്ചു, ബോധരഹിതനായി എംഎംഎ താരം വരുൺ; ഏഷ്യൻ ഗെയിംസിൽ നിന്ന് പിന്മാറി](https://www.mathrubhumi.com/sports/news/varun-sanyal-asian-games-2026-withdrawal-mma-erf9r3za)
+- [Telangana businesswoman claims CM's aide called her to guest house for meet](https://www.indiatoday.in/india/south/story/telangana-outdoor-advertising-entrepreneur-flags-cm-aide-guest-house-invite-2998868-2026-09-20)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
