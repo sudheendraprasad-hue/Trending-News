@@ -1,25 +1,25 @@
-# India Trending Report — 2026-09-19 23:31:33
+# India Trending Report — 2026-09-20 00:02:18
 
 ## Google Trends (India) — top trending searches
 1. [ufc](https://trends.google.com/trending/rss?geo=IN)
 2. [bangalore weather](https://trends.google.com/trending/rss?geo=IN)
-3. [fcb](https://trends.google.com/trending/rss?geo=IN)
-4. [sevilla vs barcelona](https://trends.google.com/trending/rss?geo=IN)
-5. [pawan singh news](https://trends.google.com/trending/rss?geo=IN)
-6. [sohail khan](https://trends.google.com/trending/rss?geo=IN)
-7. [mom and son](https://trends.google.com/trending/rss?geo=IN)
-8. [desi](https://trends.google.com/trending/rss?geo=IN)
-9. [india news](https://trends.google.com/trending/rss?geo=IN)
+3. [barca](https://trends.google.com/trending/rss?geo=IN)
+4. [fcb](https://trends.google.com/trending/rss?geo=IN)
+5. [sevilla vs barcelona](https://trends.google.com/trending/rss?geo=IN)
+6. [pawan singh news](https://trends.google.com/trending/rss?geo=IN)
+7. [sohail khan](https://trends.google.com/trending/rss?geo=IN)
+8. [mom and son](https://trends.google.com/trending/rss?geo=IN)
+9. [desi](https://trends.google.com/trending/rss?geo=IN)
 10. [salman khan](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [92% plunge in H-1B filings by IT firms after Trump’s $100K fee](https://timesofindia.indiatimes.com/world/us/trump-extends-100k-h-1b-visa-fee-until-sept-2027-but-court-stay-remains-white-house-cites-plunge-in-filings-by-it-cos/articleshow/134350381.cms)
+- ['Trump's threats won't achieve results’: Iran conveys terms to US for restarting talks](https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms)
 - [As monsoon withdrawal begins, season may end with 10% deficit](https://timesofindia.indiatimes.com/india/as-monsoon-withdrawal-begins-season-may-end-with-10-deficit/articleshow/134360430.cms)
 - [ASI Harjit Singh murdered: Key suspect shot dead in police encounter in Amritsar](https://timesofindia.indiatimes.com/city/chandigarh/asi-killing-key-suspect-shot-dead-in-police-encounter-in-amritsar/articleshow/134359728.cms)
 - [Father-son duo makes history: Shigenobu and Koji light cauldron in Nagoya](https://timesofindia.indiatimes.com/sports/asian-games-2026/father-son-duo-makes-history-five-time-asian-games-champion-shigenobu-murofushi-and-olympic-gold-medallist-son-koji-light-cauldron-in-aichi-nagoya/articleshow/134356286.cms)
-- [Iran gives US 7 conditions to restart talks, says ‘threats won't achieve results’](https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
+- [UPI MDR: Can Rs 6,000 be split into three Rs 2,000 payments? No daily cap](https://timesofindia.indiatimes.com/business/india-business/upi-mdr-is-coming-can-a-rs-6000-bill-be-split-into-three-rs-2000-payments-to-avoid-charges-for-now-npci-has-no-daily-cap/articleshow/134356384.cms)
 - [Govt gets moving on monetising surplus realty](https://timesofindia.indiatimes.com/real-estate/news/govt-gets-moving-on-monetising-surplus-realty/articleshow/134362296.cms)
 - ['Only high IQ individuals need apply': Trump announces 'AI Force'](https://timesofindia.indiatimes.com/world/us/only-high-iq-individuals-need-apply-trump-announces-ai-force/articleshow/134358415.cms)
 - [Why parents keep old report cards and childhood drawings, according to psychology](https://timesofindia.indiatimes.com/life-style/parenting/moments/psychology-says-parents-who-keep-old-report-cards-and-childhood-drawings-may-be-preserving-a-part-of-their-own-life-story-not-just-memories/articleshow/134350487.cms)
@@ -101,8 +101,8 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - October (5.2)
-- Trump (4.8)
 - DUSU (3.9)
+- Trump (3.5)
 - What (3.2)
 - Explained (2.6)
 - Trump-Xi (2.6)
@@ -113,22 +113,22 @@
 - Vijay (1.6)
 - India (1.6)
 - ABVP's (1.6)
-- Amritsar (1.3)
-- Father-son (1.3)
+- Trump's (1.3)
+- Iran (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Flames, huge plume of black smoke seen near Riyadh airport amid Houthi strikes](https://timesofindia.indiatimes.com/world/middle-east/flames-huge-plume-of-black-smoke-seen-near-riyadh-airport-amid-houthi-strikes/articleshow/134352887.cms)
-- [రష్యా చమురు Vs అమెరికా మార్కెట్.. భారత్ ముందున్న ఎనర్జీ లెక్క ఇదే!](https://tv9telugu.com/national/trumps-100-tariff-power-why-russian-oil-matters-to-india-and-what-it-means-for-the-economy-1915092.html)
-- [Loss of Y chromosome in men could be an early warning sign of cancer](https://phys.org/news/2026-09-loss-chromosome-men-early-cancer.html)
-- [Hanuman Ansh box office collection: મોટી ફિલ્મો પડી ફિક્કી, 'હનુમાન અંશ'ની આંધી આગળ 'દાયરા' અને 'વાઇબ' થયા સાફ!](https://www.gujaratfirst.com/entertainment/hanuman-ansh-box-office-collection-gujarat-first-digital/340362/)
-- [2027 માં શનિનું ડબલ ગોચર, 4 રાશિઓ અત્યારથી થઇ જાય એલર્ટ!](https://www.gujaratsamachar.com/news/astro/double-transit-of-saturn-in-2027-4-zodiac-signs-should-be-on-alert-from-now-on-49423607236)
-- [8వ వేతన సంఘం.. కనీస వేతనమే రూ. 63 వేలు.. ఏ ఫిట్‌మెంట్ ఫ్యాక్టర్‌పై ఎవరికి జీతం ఎంత పెరుగుతుందంటే?](https://telugu.samayam.com/business/business-news/8th-pay-commission-salary-hike-how-much-will-2-75-or-3-5-fitment-factor-increase-basic-pay/articleshow/134352158.cms)
-- [Video: 2 men get off friend's Thar after fight, he chases and rams their cab](https://www.indiatoday.in/cities/gurugram/story/gurugram-thar-driver-rams-rapido-cab-after-friends-dispute-2998289-2026-09-19)
-- [DUSU चुनाव में ABVP का डंका, अध्यक्ष समेत 3 पद जीते; निर्दलीय दीपांशु शौकीन बने उपाध्यक्ष](https://www.livehindustan.com/ncr/dusu-election-results-2026-abvp-wins-president-secretary-joint-secretary-posts-deepanshu-shokeen-vice-president-201789815550052.html)
-- [The Paradise : మీరు విగ్గు పెట్టుకుని చెప్తే మేము ఎలా వింటాం? - మహిళా జర్నలిస్ట్ కౌంటర్‌కు నాని స్పాంటేనియస్ రియాక్షన్](https://telugu.abplive.com/entertainment/cinema/nani-spontaneous-response-over-women-journalist-counter-about-braids-crowd-bursts-into-laughter-watch-video-259376)
-- [Aneurysm Repair Timing and Outcomes After aSAH](https://www.emjreviews.com/neurology/news/aneurysm-treatment-timing-fails-to-show-clear-benefit/)
+- [കേരളത്തിൽ ഇന്നും വൈദ്യുതി നിയന്ത്രണത്തിന് സാധ്യത; മുന്നറിയിപ്പുമായി കെഎസ്ഇബി](https://www.reporterlive.com/topnews/kerala/2026/09/19/kerala-power-restriction-kseb-warns-of-shortage)
+- [ഹൈറ്റിയിൽ കുട്ടികൾ പോഷകാഹാരകുറവിന്റെ ദുരിതത്തിൽ](https://www.vaticannews.va/ml/world/news/2026-09/children-at-risk-of-life-malnutrition-haiti-internal-conflict.html)
+- [விவசாயிகள் போராட்டம்: பேச்சுவார்த்தைக்கு இடையே வெளியேறி சென்ற அமைச்சர் ரமேஷ்! - என்ன நடந்தது?](https://www.vikatan.com/government-and-politics/minister-ramesh-left-while-the-talks-with-the-farmers-were-still-underway)
+- [Ajit Doval recalls mission when China captured Indian agents](https://www.indiatoday.in/india/story/nsa-ajit-doval-career-seemed-over-mission-china-captured-indian-agents-2998297-2026-09-19)
+- [दिशा सालियान के पिता सतीश ने आदित्य ठाकरे को नोटिस देने मातोश्री जाने से पहले कहा- किसी शिव सैनिक से नहीं डरता](https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/disha-salian-father-satish-reached-matoshree-seeking-to-serve-a-legal-notice-to-aaditya-thackeray/articleshow/134353319.cms)
+- [દિલ્હી યુનિવર્સિટી વિદ્યાર્થી સંઘની ચૂંટણીમાં ABVP ની શાનદાર જીત, અપક્ષ ઉમેદવારે ચોંકાવ્યા](https://gujarati.abplive.com/news/india/dusu-election-results-2026-abvps-win-nsui-loss-dipanshu-shokin-victory-991566)
+- [US-China talks: Trade truce, AI, Iran, rare earths in focus ahead of Trump-Xi summit](https://www.moneycontrol.com/world/us-china-talks-trade-truce-ai-iran-rare-earths-in-focus-ahead-of-trump-xi-summit-article-14033536.html)
+- [സനൽ കുമാർ ശശിധരനെതിരെ മാനനഷ്ടക്കേസുമായി മഞ്ജു വാര്യർ, അപകീർത്തികരമായ പോസ്റ്റുകൾ പിൻവലിക്കണം](https://www.asianetnews.com/kerala-news/manju-warrier-files-defamation-case-against-director-sanal-kumar-sasidharan-articleshow-6y06vag)
+- [এবার হুমায়ুন কবীরের বাড়ি পৌঁছে গেল পুলিশ, রেজিনগরে উপনির্বাচনের আগেই ধাক্কা AJUP-এর](https://bengali.abplive.com/district/rejinagar-by-election-2026-baharampur-ps-summons-ajup-chief-hymayun-kabir-over-audio-clip-incident-1193437)
+- [தலைமை செயலகம் முன்பு 24-ந்தேதி முற்றுகைப் போராட்டம் - விவசாய சங்கங்கள் அறிவிப்பு](https://www.dailythanthi.com/news/tamilnadu/farmers-associations-announce-a-siege-protest-in-front-of-the-secretariat-on-the-24th)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
