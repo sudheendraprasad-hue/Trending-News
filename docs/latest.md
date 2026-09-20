@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-20 04:35:18
+# India Trending Report — 2026-09-20 05:01:55
 
 ## Google Trends (India) — top trending searches
-1. [asian games japan 2026](https://trends.google.com/trending/rss?geo=IN)
-2. [iran war](https://trends.google.com/trending/rss?geo=IN)
-3. [kerala lottery results](https://trends.google.com/trending/rss?geo=IN)
-4. [arman tsarukyan](https://trends.google.com/trending/rss?geo=IN)
-5. [dusu elections](https://trends.google.com/trending/rss?geo=IN)
-6. [xxl](https://trends.google.com/trending/rss?geo=IN)
-7. [ufc](https://trends.google.com/trending/rss?geo=IN)
-8. [bangalore weather](https://trends.google.com/trending/rss?geo=IN)
-9. [donald trump](https://trends.google.com/trending/rss?geo=IN)
-10. [barca](https://trends.google.com/trending/rss?geo=IN)
+1. [maharaja](https://trends.google.com/trending/rss?geo=IN)
+2. [wh](https://trends.google.com/trending/rss?geo=IN)
+3. [brighton fc](https://trends.google.com/trending/rss?geo=IN)
+4. [rachin ravindra](https://trends.google.com/trending/rss?geo=IN)
+5. [ayushman bharat](https://trends.google.com/trending/rss?geo=IN)
+6. [asian games japan 2026](https://trends.google.com/trending/rss?geo=IN)
+7. [iran war](https://trends.google.com/trending/rss?geo=IN)
+8. [kerala lottery results](https://trends.google.com/trending/rss?geo=IN)
+9. [arman tsarukyan](https://trends.google.com/trending/rss?geo=IN)
+10. [dusu elections](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Watch: Smoke over Riyadh airport after Houthi's major attack on Saudi Arabia](https://timesofindia.indiatimes.com/world/middle-east/smoke-over-riyadh-airport-houthis-launch-major-missile-drone-attack-on-saudi-capital-video/articleshow/134363169.cms)
-- [Suchika Tariyal scripts history, assures India of first Asian Games medal](https://timesofindia.indiatimes.com/sports/asian-games-2026/suchika-tariyal-scripts-history-assures-india-of-first-asian-games-medal-in-mma-debut/articleshow/134363146.cms)
 - ['What is happening in Gaza is catastrophic': Ed Sheeran addresses Macklemore row](https://timesofindia.indiatimes.com/world/us/what-is-happening-in-gaza-is-catastrophic-and-unjustifiable-ed-sheeran-addresses-macklemore-row-on-stage/articleshow/134363208.cms)
+- [India open Asian Games shooting campaign with silver in women's 10m air rifle](https://timesofindia.indiatimes.com/sports/asian-games-2026/india-open-asian-games-shooting-campaign-with-silver-in-womens-10m-air-rifle/articleshow/134363580.cms)
 - ['Iran war has potential to escalate rapidly': US issues blanket Middle East travel alert](https://timesofindia.indiatimes.com/world/middle-east/environment-complex-us-issues-middle-east-travel-advisory-amid-houthi-attacks/articleshow/134362693.cms)
 - [Maharashtra minister's niece Nila Vikhe Patil elected to Swedish Parliament](https://timesofindia.indiatimes.com/world/europe/maharashtra-ministers-niece-nila-vikhe-patil-elected-to-swedish-parliament/articleshow/134363240.cms)
 - [Sam Altman, Elon Musk tease powerful AI model days after backing slower AI pace](https://timesofindia.indiatimes.com/technology/tech-news/after-agreeing-with-anthropic-ceo-dario-amodei-on-slowing-pace-of-ai-sam-altman-and-elon-musk-teased-next-powerful-model-days-later/articleshow/134362820.cms)
 - [The Hindi writer from Delhi who interviewed Khomeini and Khamenei](https://timesofindia.indiatimes.com/city/delhi/the-hindi-writer-from-delhi-who-interviewed-khomeini-and-khamenei/articleshow/134362840.cms)
+- [Suchika Tariyal scripts history, assures India of first Asian Games medal](https://timesofindia.indiatimes.com/sports/asian-games-2026/suchika-tariyal-scripts-history-assures-india-of-first-asian-games-medal-in-mma-debut/articleshow/134363146.cms)
 - [J&K: Fire damages Mata Vaishno Devi helipad terminal in Reasi](https://timesofindia.indiatimes.com/india/jk-fire-damages-mata-vaishno-devi-helipad-terminal-in-reasi/articleshow/134362930.cms)
 - [Numbers behind DUSU result: CJP momentum doesn’t show up in Left’s vote tally](https://timesofindia.indiatimes.com/city/delhi/numbers-behind-dusu-result-cjp-momentum-doesnt-show-up-in-lefts-vote-tally-nsui-rebels-victory-most-striking-story/articleshow/134362777.cms)
-- [Something big brewing? Trump abruptly leaves Camp David, returns to White House](https://timesofindia.indiatimes.com/world/us/something-big-brewing-trump-abruptly-leaves-camp-david-returns-to-white-house/articleshow/134362824.cms)
 
 **NDTV**
 - ['Football Will Deflate': Himanta Sarma Jabs Mamata Banerjee Over Party Symbol](https://www.ndtv.com/india-news/himanta-sarma-jabs-mamata-banerjee-over-new-trinamool-symbol-for-bypolls-football-will-deflate-12070863#publisher=newsstand)
@@ -38,6 +38,8 @@
 - [Israel Pardons Combat Medic Who Shot Dead Wounded Palestinian Attacker](https://www.ndtv.com/world-news/israel-pardons-combat-medic-who-shot-dead-wounded-palestinian-attacker-12070216#publisher=newsstand)
 
 **Hindustan Times**
+- [Just Like That: What is Hanuman Ansh telling us about India’s spiritual hunger?](https://www.hindustantimes.com/india-news/just-like-that-what-is-hanuman-ansh-telling-us-about-india-s-spiritual-hunger-101789878618949.html)
+- [SC rejects presumption of child sale, orders custody to adoptive parents in Telangana](https://www.hindustantimes.com/india-news/sc-rejects-presumption-of-child-sale-orders-custody-to-adoptive-parents-in-telangana-101789878018665.html)
 - [3 killed as speeding BMW runs over pedestrians on Mumbai's Coastal Road, driver held](https://www.hindustantimes.com/india-news/3-killed-as-speeding-bmw-runs-over-pedestrians-on-mumbais-coastal-road-driver-held-101789877188306.html)
 - [3.7 million SIR appeals pending in Bengal; ECI proposes 42 election tribunals](https://www.hindustantimes.com/india-news/37-million-sir-appeals-pending-in-bengal-eci-proposes-42-election-tribunals-101789876275450.html)
 - [US law gives Trump power to impose 100% tariffs on India, China over Russian oil](https://www.hindustantimes.com/india-news/us-law-gives-trump-power-to-impose-100-tariffs-on-india-china-over-russian-oil-101789874185931.html)
@@ -45,21 +47,19 @@
 - [1965 war hero Alfred Tyrone Cooke dies at 87; revisiting his legendary Kalaikunda dogfight](https://www.hindustantimes.com/india-news/1965-war-hero-alfred-tyrone-cooke-dies-at-87-revisiting-his-legendary-kalaikunda-dogfight-101789872158050.html)
 - [‘Developing nations unjustly blamed’: PM Modi flags climate inequality](https://www.hindustantimes.com/india-news/developing-nations-unjustly-blamed-pm-modi-flags-climate-inequality-101789872087302.html)
 - [Jharkhand Maoist commander, with  ₹30 lakh bounty, killed in police encounter in UP's Varanasi](https://www.hindustantimes.com/india-news/jharkhand-naxal-commander-with-30-lakh-bounty-killed-in-police-encounter-in-ups-varanasi-101789873316653.html)
-- [8-year-old among 2 electrocuted to death near Ganapati pandal in Mumbai's Lalbaug](https://www.hindustantimes.com/india-news/8yearold-among-2-electrocuted-to-death-near-ganapati-pandal-in-mumbais-lalbaug-101789869654822.html)
-- [Nithari case's Surendra Koli cremated in Haridwar; police await autopsy report](https://www.hindustantimes.com/cities/delhi-news/surendra-koli-s-last-rites-performed-police-await-autopsy-report-101789841887641.html)
-- [IIM Jammu students threatened with  ₹500 fine for missing ‘mandatory’ Modi birthday event](https://www.hindustantimes.com/cities/chandigarh-news/congress-criticises-iim-jammu-after-students-fined-500-for-missing-pm-s-birthday-event-101789840747853.html)
+- [8-year-old girl, woman electrocuted to death near Ganapati pandal in Mumbai](https://www.hindustantimes.com/india-news/8yearold-among-2-electrocuted-to-death-near-ganapati-pandal-in-mumbais-lalbaug-101789869654822.html)
 
 **Vijay Karnataka**
+- [ಪೆಟ್ರೋಲ್‌ ಬಂಕ್‌ಗಳಲ್ಲಿ 2000 ರೂ. ಮೇಲ್ಪಟ್ಟ UPI ವಹಿವಾಟು ಬಂದ್‌! ಮಧ್ಯಪ್ರದೇಶ ವ್ಯಾಪಾರಿಗಳ ಒಕ್ಕೂಟ ನಿರ್ಧಾರ](https://vijaykarnataka.com/news/india/upi-transactions-exceeding-rs-2000-halted-at-petrol-bunks-madhya-pradesh-traders-association-makes-decision/articleshow/134363582.cms)
 - [ರಾಜ್ಯದ 15 ಸಾವಿರ ಶಾಲಾ ಶಿಕ್ಷಕರ ನೇಮಕಾತಿ ರದ್ದು: ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್‌ ಮಹತ್ವದ ತೀರ್ಪು! ಹೊಸ ಪಟ್ಟಿಗೆ 3 ತಿಂಗಳ ಗಡುವು](https://vijaykarnataka.com/news/karnataka/appointment-of-15000-school-teachers-in-the-state-cancelled-karnataka-high-courts-significant-verdict-reason/articleshow/134363402.cms)
 - [ಕಸ್ತೂರಿರಂಗನ್‌ ವರದಿ ಆತಂಕ: ಸಿಎಂ ಡಿಕೆ ಶಿವಕುಮಾರ್ ಮೇಲೆ ಮಲೆನಾಡಿಗರ ನಿರೀಕ್ಷೆ, ಕಾಡಾನೆ ಹಾವಳಿ ಸೇರಿ ಸಮಸ್ಯೆಗಳ ಸರಮಾಲೆ](https://vijaykarnataka.com/news/hasana/concerns-over-the-kasturi-rangan-report-malnad-residents-pin-hopes-on-cm-dk-shivakumar/articleshow/134362719.cms)
-- [ತೆನೆ ಕಟ್ಟುವ ಹೊತ್ತಲ್ಲೇ ಕೈ ಕೊಟ್ಟ ಮಳೆ: ಭತ್ತದ ಇಳುವರಿಗೆ ಆತಂಕ, ಉಡುಪಿಯಲ್ಲಿ 15 ದಿನದಲ್ಲಿ ಕೇವಲ 4.2 ಸೆಂ.ಮೀ. ಮಳೆ](https://vijaykarnataka.com/news/udupi/rain-fails-just-as-paddy-crops-begin-to-ear-yield-at-risk-only-4-point-2-cm-of-rainfall-recorded-in-15-days-in-udupi-district/articleshow/134362729.cms)
 - [ಪಟೋಲಾ ಕುರ್ತಾದಲ್ಲಿ ಮಿಂಚಿದ ದೀಪಿಕಾ ಪಡುಕೋಣೆ; ಸಿದ್ಧಿವಿನಾಯಕ ದರ್ಶನಕ್ಕೆ ಬಂದ ನಟಿಯ ಲುಕ್ ವೈರಲ್!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-siddhivinayak-temple-patola-kurta-look/articleshow/134352111.cms)
-- [ಮಂಗಳೂರು ಐಟಿ ಕ್ಷೇತ್ರ ಸೈಲೆಂಟ್‌, ನಿಗಮಗಳಿಗೆ ಹಣವಿಲ್ಲ! ಜೆನ್‌ಜೀಗಳ ನಿರೀಕ್ಷೆ ಹುಸಿ, ಬೇಡಿಕೆ ಪಟ್ಟಿಯಲ್ಲಿ ಬಾಕಿಯಾದ ಯೋಜನೆಗಳು](https://vijaykarnataka.com/news/mangaluru/mangalurus-it-sector-remains-quiet-corporations-lack-funds-gen-zs-expectations-dashed-projects-remain-pending-outcome-of-cabinet-meeting/articleshow/134362582.cms)
+- [ತೆನೆ ಕಟ್ಟುವ ಹೊತ್ತಲ್ಲೇ ಕೈ ಕೊಟ್ಟ ಮಳೆ: ಭತ್ತದ ಇಳುವರಿಗೆ ಆತಂಕ, ಉಡುಪಿಯಲ್ಲಿ 15 ದಿನದಲ್ಲಿ ಕೇವಲ 4.2 ಸೆಂ.ಮೀ. ಮಳೆ](https://vijaykarnataka.com/news/udupi/rain-fails-just-as-paddy-crops-begin-to-ear-yield-at-risk-only-4-point-2-cm-of-rainfall-recorded-in-15-days-in-udupi-district/articleshow/134362729.cms)
 - [BBK 13 ಕಾಮನರ್ಸ್‌ಗೆ ಅವಕಾಶ ಇಲ್ಲ: ಕಣ್ಣೀರಿಟ್ಟ ಧನುಷ್, ಕಾರಣ ಬಿಚ್ಚಿಟ್ಟ ಕಿಚ್ಚ ಸುದೀಪ್‌!](https://vijaykarnataka.com/tv/bigg-boss-kannada/kiccha-sudeep-is-angry-with-the-agniparikshe-contestants-no-chance-for-commoners-in-the-next-season-of-bigg-boss-kannada/articleshow/134362763.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [ಚಾಣಕ್ಯ ನೀತಿ: ಈ 3 ಜನರೊಂದಿಗೆ ಶತ್ರುತ್ವ ಹೊಂದದಿರಲು ಕಾರಣ.!](https://vijaykarnataka.com/religion/hinduism/chanakya-niti-says-do-not-make-enmity-with-these-3-kind-of-people/articleshow/134352052.cms)
 - [ಕತ್ರಿನಾ ಕೈಫ್ ದಪ್ಪ ಆಗಿದ್ದಾರೆಂದು ಟ್ರೋಲ್ ಹೆರಿಗೆ ಬಳಿಕ ದೇಹದಲ್ಲಿ ಆಗುವ ಸಾಮಾನ್ಯ ಬದಲಾವಣೆಗಳೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/katrina-kaif-postpartum-body-changes-women-after-pregnancy/articleshow/134348311.cms)
-- [ಗ್ರೇಟರ್ ಬೆಂಗಳೂರು ಪ್ರಾಧಿಕಾರದಿಂದ ನಗರ ವಾಸಿಗಳಿಗೆ ಸಾಫ್ಟ್‌ವೇರ್‌ ಶುಲ್ಕದ ಬರೆ!: ಯಾವುದಕ್ಕೆ ಎಷ್ಟು? ವಿರೋಧ ಯಾಕೆ?](https://vijaykarnataka.com/news/bengaluru-city/greater-bengaluru-authority-imposes-software-fee-burden-on-city-residents-/articleshow/134356459.cms)
+- [ಮಂಗಳೂರು ಐಟಿ ಕ್ಷೇತ್ರ ಸೈಲೆಂಟ್‌, ನಿಗಮಗಳಿಗೆ ಹಣವಿಲ್ಲ! ಜೆನ್‌ಜೀಗಳ ನಿರೀಕ್ಷೆ ಹುಸಿ, ಬೇಡಿಕೆ ಪಟ್ಟಿಯಲ್ಲಿ ಬಾಕಿಯಾದ ಯೋಜನೆಗಳು](https://vijaykarnataka.com/news/mangaluru/mangalurus-it-sector-remains-quiet-corporations-lack-funds-gen-zs-expectations-dashed-projects-remain-pending-outcome-of-cabinet-meeting/articleshow/134362582.cms)
 
 **The Hindu**
 - [Govt jobs to one lakh youth in Uttar Pradesh, says Adityanath](https://www.thehindu.com/news/national/uttar-pradesh/govt-jobs-to-one-lakh-youth-in-uttar-pradesh-says-adityanath/article71487054.ece)
@@ -74,6 +74,7 @@
 - [BSNL deputy general manager urges engineering students to embrace AI, robotics and quantum technology](https://www.thehindu.com/news/national/andhra-pradesh/bsnl-deputy-general-manager-urges-engineering-students-to-embrace-ai-robotics-and-quantum-technology/article71484459.ece)
 
 **Livemint**
+- [Mumbai man's video on ‘rare’ workplace praise goes viral: ‘Heals 10 days of overthinking’](https://www.livemint.com/news/trends/mumbai-mans-video-on-rare-workplace-praise-goes-viral-heals-10-days-of-overthinking-11789878334761.html)
 - [‘Iran war costs US $45.1 billion’, surpassing Pentagon’s $38 billion estimate: Report](https://www.livemint.com/news/us-news/iran-war-costs-us-45-1-billion-surpassing-pentagon-s-38-billion-estimate-report-11789874700989.html)
 - [8-year-old among 2 dead in electrocution incident in Ganapati pandal in Mumbai's Lalbaug; 4 injured](https://www.livemint.com/news/india/8yearold-among-2-dead-in-electrocution-incident-in-ganapati-pandal-in-mumbais-lalbaug-4-injured-11789867307292.html)
 - [The cows were their livelihood. The goats, their insurance. Then the flood came.](https://www.livemint.com/news/india/assam-floods-livestock-livelihoods-11789728094373.html)
@@ -83,7 +84,6 @@
 - [Melania Trump to launch ‘IMPERIA’ during UNGA week: Why women CEOs are at the centre of it](https://www.livemint.com/news/us-news/melania-trump-to-launch-imperia-during-unga-week-why-women-ceos-are-at-the-centre-of-it-11789844321946.html)
 - [Trump-Xi state dinner: Why America’s biggest tech bosses will be at the table](https://www.livemint.com/news/us-news/trumpxi-state-dinner-why-america-s-biggest-tech-bosses-will-be-at-the-table-11789848887821.html)
 - [Xi Jinping's US state visit in 11 years: What Trump and China's leader will discuss](https://www.livemint.com/news/us-news/xi-jinpings-us-state-visit-in-11-years-what-trump-and-chinas-leader-will-discuss-11789846576456.html)
-- [Houthis claim attacks on Saudi capital after flames, black smoke seen near Riyadh airport](https://www.livemint.com/news/world/houthis-claim-attacks-on-saudi-capital-after-flames-black-smoke-seen-near-riyadh-airport-11789843604832.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,9 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ದಿಲ್ಲಿ S I R | ಸಿಎಂ ರೇಖಾ ಗುಪ್ತಾ, ಅರವಿಂದ್ ಕೇಜ್ರಿವಾಲ್ ಸೇರಿದಂತೆ 33 ಲಕ್ಷ ಮತದಾರರಿಗೆ ಚುನಾವಣಾ ಆಯೋಗದಿಂದ ನೋಟಿಸ್](https://www.varthabharati.in/National/delhi-sir-rekha-gupta-arvind-kejriwal-among-33-lakh-voters-issued-notices-to-validate-details-2276465)
+- [ರೆಟ್ರೋ ಫೋಟೊಗಳ ಟ್ರೆಂಡ್: ಎಚ್ಚರಿಕೆ ಅಗತ್ಯ](https://www.varthabharati.in/ankana/retro-photo-trend-caution-is-necessary-2276466)
+- [ಭಾರತದ ನರಮಂಡಲ](https://www.varthabharati.in/taxonomy/term/141639/nervous-system-of-india-2276464)
 - [Asian Games 2026 | ಈಜು ಸ್ಪರ್ಧೆಯ 100 ಮೀಟರ್ ಬ್ಯಾಕ್ ಸ್ಟ್ರೋಕ್‌ನಲ್ಲಿ ಭಾರತದ ರಿಷಭ್ ದಾಸ್ ಫೈನಲ್ ಗೆ](https://www.varthabharati.in/sports/asian-games-2026-indias-rishabh-das-reaches-the-final-of-the-100m-backstroke-swimming-event-2276462)
 - [ಕಸ್ತೂರಿರಂಗನ್ ವರದಿ: ಮುಖ್ಯಮಂತ್ರಿಗಳಿಗೊಂದು ಬಹಿರಂಗ ಪತ್ರ!](https://www.varthabharati.in/mano-boomike/kasturirangan-report-an-open-letter-to-the-chief-minister-2276458)
 - [ನಾಗರಿಕ ಸ್ವಾತಂತ್ರ್ಯ ಪ್ರತಿಪಾದಕರು](https://www.varthabharati.in/taxonomy/term/124814/civil-liberties-advocates-2276457)
@@ -105,40 +108,37 @@
 - [ಸೂಪರ್ ಸುಖೋಯಿ: ಹಳೆಯ ಯೋಧನಿಗೆ ಹೊಸ ಶಕ್ತಿ](https://www.varthabharati.in/ankana/super-sukhoi-new-power-for-the-old-warrior-2276455)
 - [ಅಮೆರಿಕದೊಂದಿಗೆ ಮಾತುಕತೆಗೆ ಇರಾನ್ ನ ಏಳು ಷರತ್ತುಗಳು : ದೇಶದ ಭದ್ರತಾ ಮುಖ್ಯಸ್ಥ ಮೊಹ್ಸೆನ್ ರಿಝಾಯಿ](https://www.varthabharati.in/international/irans-seven-conditions-for-talks-with-the-us-countrys-security-chief-mohsen-rezaei-2276454)
 - [ಐಐಟಿ-ಬಾಂಬೆ ವಿದ್ಯಾರ್ಥಿ ಆತ್ಮಹತ್ಯೆ ಪ್ರಕರಣ: ಸಂಸ್ಥೆಯ ಪ್ರಾಧ್ಯಾಪಕರೊಬ್ಬರ ವಿರುದ್ಧ ಎಫ್ಐಆರ್](https://www.varthabharati.in/national/iit-bombay-student-suicide-case-fir-against-a-professor-of-the-institute-2276453)
-- [ಮೈಸೂರು: ಪ್ರತಾಪ್ ಸಿಂಹ ವಿರುದ್ಧ FIR ದಾಖಲಿಸುವಂತೆ ಕಾಂಗ್ರೆಸ್ ದೂರು](https://www.varthabharati.in/mysore/mysuru-congress-demands-fir-against-prathap-simha-2276452)
-- ["ಮಾತ ತುಳುವೆರೆಗ್‌ ಎನ್ನ ಮೋಕೆದ ಸೊಲ್ಮೆಲು...": ತುಳು ಭಾಷೆಗೆ ಅಧಿಕೃತ ಮಾನ್ಯತೆ ನಿರ್ಧಾರಕ್ಕೆ ಸಿದ್ದರಾಮಯ್ಯ ಪ್ರತಿಕ್ರಿಯಿಸಿದ್ದು ಹೀಗೆ...](https://www.varthabharati.in/state/siddaramaiah-reacts-to-tulu-getting-official-language-status-2276451)
-- [West Bengal | 'ನೈಜ ಮೈತ್ರಿ’ಯಾದರೆ ಬಲವಾದ ಸಂದೇಶ ರವಾನೆ: TMC–ಕಾಂಗ್ರೆಸ್ ಮೈತ್ರಿಗೆ ಬಂಡಾಯ ಸಂಸದೆ ಸಾಯೋನಿ ಘೋಷ್ ಬೆಂಬಲ](https://www.varthabharati.in/national/true-partnership-rebel-trinamool-mp-saayoni-ghosh-bats-for-tmc-congress-alliance-says-will-send-powerful-message-2276450)
 
 ## Cross-source trending keywords (derived from headlines above)
+- India (6.5)
 - Emkay Global Financial (5.0)
-- Trump (4.8)
-- Riyadh (4.2)
-- India (3.9)
+- What (4.2)
 - Iran (3.9)
+- Trump (3.5)
+- Asian Games (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
-- Houthis (2.9)
-- What (2.9)
+- Riyadh (2.9)
 - Fire (2.9)
-- Bengal (2.9)
 - Smoke (2.6)
+- Bengal (2.6)
 - Ganapati (2.6)
+- Mumbai (2.6)
 - Explained (2.6)
-- Asian Games (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [सातवें शनिवार को Hanuman Ansh ने रचा इतिहास, बॉक्स ऑफिस कलेक्शन हुआ 300 करोड़ के पार](https://www.jagran.com/entertainment/box-office-neem-karoli-baba-film-hanuman-ansh-box-office-collection-crossed-300-crore-mark-by-the-seventh-saturday-40378731.html)
-- [সোনারপুরে প্রধানমন্ত্রীর ছবি ছেড়াকে কেন্দ্র করে ধুন্ধুমার, সিপিএম কার্যালয়ে ভাঙচুরের অভিযোগ বিজেপির বিরুদ্ধে](https://bengali.indianexpress.com/west-bengal/rajpur-sonarpur-kodalia-modi-photo-tear-cpm-office-vandalism-allegation-12552183)
-- ['దట్స్ ది స్పిరిట్'.. వరంగల్ ఎయిర్‌పోర్టుపై సందీప్ రెడ్డి వంగా, రేవంత్ రెడ్డి మధ్య ఆసక్తికర ట్వీట్లు](https://telugu.samayam.com/telangana/news/thats-the-spirit-telangana-cm-revanth-reddy-and-tollywood-director-sandeep-reddy-vanga-exchange-posts-over-warangal-airport-rudrama-and-kakatiya-names/articleshow/134357011.cms)
-- [LPG ગ્રાહકો માટે મોટા સમાચાર, 1 ઓક્ટોબરથી આધાર ઓથેન્ટિકેશન નહીં હોય તો ગુમાવવો પડશે સબસિડીનો લાભ](https://www.gujaratsamachar.com/news/international/important-news-for-lpg-consumers-from-october-1-if-there-is-no-aadhaar-authentication-the-benefit-of-subsidy-will-be-lost-27171025199)
-- [पेट्रोल पंपों पर UPI बंद, 2000 से ज्यादा के पेमेंट पर लगी रोक?](https://www.abplive.com/business/indian-oil-upi-services-stopped-at-mp-petrol-pumps-ban-imposed-on-payments-exceeding-2000-3191219)
-- [டாடா சன்ஸ் நிறுவனத்தை பங்குச் சந்தையில் பட்டியலிட நோயல் டாடா எதிர்ப்பு ஏன்? 5 காரணங்கள்](https://www.bbc.com/tamil/articles/c6vgy3d9n253o)
-- [കാണാതായ നാലര വയസ്സുകാരന്റെ മൃതദേഹം ആളൊഴിഞ്ഞ വീട്ടിലെ കിണറ്റിൽ; കണ്ടെത്തിയത് പോലീസ് നടത്തിയ തിരച്ചിലിൽ](https://www.mathrubhumi.com/news/kerala/four-year-old-boy-found-dead-in-well-balaramapuram-thiruvananthapuram-mtx1r5o4)
-- [Greenland, Denmark say Trump deal won't compromise sovereignty](https://www.thehindu.com/news/international/greenland-denmark-say-trump-deal-wont-compromise-sovereignty/article71485651.ece)
-- [IIT पवईत विद्यार्थ्याची आत्महत्या, साहिलला छळ करून मारल्याचा आईचा आरोप](https://saamtv.esakal.com/mumbai-pune/iit-bombay-powai-student-sahil-wakode-endlife-case-mother-alleges-harassment-after-copying-chatgpt-charge-students-protest-against-administration-mumbai-latest-news-om0906)
-- [സമൂഹ മാധ്യമത്തിലൂടെ അപകീർത്തിപ്പെടുത്തിയെന്ന കേസ്; 'ഹെലൻ ഓഫ് സ്പാർട്ട'യെ അറസ്റ്റ് ചെയ്ത് ജാമ്യത്തിൽ വിട്ടു](https://www.reporterlive.com/topnews/kerala/2026/09/19/helen-of-sparta-arrested-social-media-defamation-case-bail)
+- ['নারী শরীর নিয়ে কেন বিতর্ক?' ক্যাটরিনার পাশে দাঁড়িয়ে প্রশ্ন তুললেন খুশবু](https://www.hindustantimes.com/bangla/entertainment/khushbu-sundar-questions-why-women-s-bodies-are-up-for-public-debate-271789830142318.html)
+- [अंदर से इतना आलीशान है रणबीर-आलिया का 250 करोड़ का बंगला, दिखाई नए घर की झलक, हुईं ट्रोल](https://www.aajtak.in/entertainment/bollywood-news/photo/alia-bhatt-ranbir-kapoor-250-crore-lavish-home-royal-interior-inside-photos-actress-troll-ganpati-pujan-tmovb-2647554-2026-09-19)
+- [One month with Huawei's MatePad Air showed me exactly what Apple's next iPad Air is missing](https://tech.yahoo.com/computing/articles/one-month-huaweis-matepad-air-170000210.html)
+- [IIT Bombay faculty member booked for caste abuse, suicide abetment](https://www.thehindu.com/news/national/maharashtra/iit-bombay-faculty-member-booked-for-caste-abuse-suicide-abetment/article71485392.ece)
+- [Nagpur News| जातनिहाय जनगणनेत स्वतंत्र ओबीसी कॉलमसाठी एल्गार](https://pudhari.news/maharashtra/vidarbha/nagpur/nagpur-news-obc-protest-separate-column-caste-census-chalo-delhi-ng81)
+- [Saudi Arabia issues Riyadh alert as Iran sends war terms via Qatar](https://www.indiatoday.in/world/story/saudi-arabia-riyadh-alert-iran-conditions-end-war-qatar-ptag-2998569-2026-09-19)
+- [பிரதமர் மோடியால் முடியும்... இந்தியாவின் உதவியை நாட இலங்கை அரசுக்கு எதிர்க்கட்சி வலியுறுத்தல்](https://www.dinamalar.com/news/world-tamil-news/pm-modi-can-opposition-urges-sri-lankan-government-to-seek-indias-help/4327238)
+- ['मेरे बेटे को मारा गया..', IIT बॉम्बे में छात्र की मौत पर मां का आरोप, क्राइम ब्रांच को सौंपी गई जांच](https://www.aajtak.in/india/maharashtra/story/iit-bombay-student-sahil-wakode-death-mother-alleges-harassment-murder-police-investigation-ntcpvp-rptc-2647560-2026-09-19)
+- [യുഎസുമായി സമാധാന ധാരണ പുനസ്ഥാപിക്കാൻ ശ്രമം നടക്കുന്നുണ്ടെന്ന് ഇറാൻ; പാക് ആഭ്യന്തരമന്ത്രി ഇറാനിലേക്ക്](https://www.asianetnews.com/international-news/iran-says-efforts-underway-to-restore-peace-understanding-with-us-pakistan-interior-minister-will-visit-iran-soon-articleshow-goqq359)
+- [અમેરિકામાં બદલાયો ટેરિફ કાયદો: ટેક્સટાઇલથી લઈને IT સુધી, જાણો કયા કયા સેક્ટર્સ પર પડશે અસર?](https://www.gujaratsamachar.com/news/international/tariff-law-changed-in-america-from-textiles-to-it-know-which-sectors-will-be-affected-64724728121)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
