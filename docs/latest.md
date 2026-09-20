@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-20 22:33:11
+# India Trending Report — 2026-09-20 23:01:47
 
 ## Google Trends (India) — top trending searches
 1. [nfl](https://trends.google.com/trending/rss?geo=IN)
@@ -17,13 +17,13 @@
 - [Trump adds drones, snipers and ammunition to plans for Washington triumphal arch](https://timesofindia.indiatimes.com/world/us/donald-trump-adds-drones-snipers-and-ammunition-to-plans-for-washington-triumphal-arch/articleshow/134368581.cms)
 - [One year on, commodity prices eat into gains from GST rate rejig](https://timesofindia.indiatimes.com/business/india-business/one-year-on-commodity-prices-eat-into-gains-from-gst-rate-rejig/articleshow/134375353.cms)
 - [US prepares sweeping sanctions on International Criminal Court](https://timesofindia.indiatimes.com/world/us/us-prepares-sweeping-sanctions-on-international-criminal-court/articleshow/134375029.cms)
+- [Iran threatens 'painful retaliation' if US strikes as Trump warns of 'big things'](https://timesofindia.indiatimes.com/world/middle-east/iran-warns-us-allies-against-new-attack-threatens-retaliation/articleshow/134374995.cms)
 - ['Nothing wrong if people happily tip govt officials': K'taka minister sparks row](https://timesofindia.indiatimes.com/city/bengaluru/offer-tips-to-good-officers-says-min-lands-in-soup/articleshow/134374842.cms)
-- [Tata dipute: Lawyers Singhvi, Salve now on opposing sides](https://timesofindia.indiatimes.com/business/india-business/tata-dipute-singhvi-salve-now-on-opposing-sides/articleshow/134375598.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
+- [Tata dipute: Lawyers Singhvi, Salve now on opposing sides](https://timesofindia.indiatimes.com/business/india-business/tata-dipute-singhvi-salve-now-on-opposing-sides/articleshow/134375598.cms)
 - [Using recovery agents proves costly for truck financier, SC orders Rs 15 lakh payout](https://timesofindia.indiatimes.com/india/using-recovery-agents-proves-costly-for-truck-financier/articleshow/134375079.cms)
 - [5th case slapped on Congress’ Nandigram nominee Milan Pradhan, party to move HC](https://timesofindia.indiatimes.com/city/kolkata/another-warrant-against-milan-cong-to-move-hc/articleshow/134371430.cms)
 - [Most economists see RBI raising rates in October policy](https://timesofindia.indiatimes.com/business/india-business/most-economists-see-rbi-raising-rates-in-october-policy/articleshow/134375349.cms)
-- [Aamir Khan’s Arjuna-winning ‘coach’ fights to save Indore akhada](https://timesofindia.indiatimes.com/city/bhopal/aamirs-arjuna-winning-coach-fights-to-save-indore-akhada/articleshow/134372961.cms)
 
 **NDTV**
 - [North Korea Launches 2 Ballistic Missiles Toward Sea](https://www.ndtv.com/world-news/north-korea-launches-2-ballistic-missiles-toward-sea-12073587#publisher=newsstand)
@@ -62,6 +62,7 @@
 - [ಆನ್‌ಲೈನ್‌ ಟ್ರೇಡಿಂಗ್‌ ನೆಪದಲ್ಲಿ ಪಂಗನಾಮ ಹಾಕಿದ ಬೆಂಗಳೂರಿನ ಮೂವರು ವಂಚಕರ ಸೆರೆ; ಹೀಗೂ ಮೋಸ ಮಾಡ್ತಾರೆ ಜಾಗ್ರತೆಯಾಗಿರಿ!](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-poice-arests-3-fraudsters-online-trading-/articleshow/134371389.cms)
 
 **The Hindu**
+- [Heavy rains, squally wind likely in West Bengal from September 22](https://www.thehindu.com/news/national/west-bengal/heavy-rains-squally-wind-likely-in-west-bengal-from-september-22/article71488466.ece)
 - [INLD’s Sampat Singh attacks BJP’s ‘Seva Sankalp Abhiyaan’, alleges misuse of State machinery](https://www.thehindu.com/news/national/haryana/inlds-sampat-singh-attacks-bjps-seva-sankalp-abhiyaan-alleges-misuse-of-state-machinery/article71488503.ece)
 - [Lucknow’s S.R. Group of Institutions signs Five-Year MoU with SODES to strengthen digital education, skill development](https://www.thehindu.com/news/national/odisha/lucknows-sr-group-of-institutions-signs-five-year-mou-with-sodes-to-strengthen-digital-education-skill-development/article71488600.ece)
 - [‘Stop Vizag Data Centers’ Instagram account blocked in India](https://www.thehindu.com/news/national/andhra-pradesh/stop-vizag-data-centers-instagram-account-blocked-in-india/article71487350.ece)
@@ -71,7 +72,6 @@
 - [Panathur Railway Underbridge submerged after rain, commuters struggle through hip-deep water](https://www.thehindu.com/news/cities/bangalore/panathur-railway-underbridge-submerged-after-rain-commuters-struggle-through-hip-deep-water/article71488104.ece)
 - [Boating to boost tourism at Peruvannamuzhi](https://www.thehindu.com/news/national/kerala/boating-to-boost-tourism-at-peruvannamuzhi/article71487538.ece)
 - [Human skull recovered from waste heap in Kozhikode](https://www.thehindu.com/news/national/kerala/human-skull-recovered-from-waste-heap-in-kozhikode/article71487663.ece)
-- [Man found dead inside parked car in Koramangala](https://www.thehindu.com/news/national/karnataka/man-found-dead-inside-parked-car-in-koramangala/article71487564.ece)
 
 **Livemint**
 - [What time is 60 Minutes on tonight? How to watch Patrick Clancy’s first TV interview on CBS](https://www.livemint.com/news/us-news/what-time-is-60-minutes-on-tonight-how-to-watch-patrick-clancy-s-first-tv-interview-on-cbs-11789938984690.html)
@@ -100,35 +100,35 @@
 - [ಕಪಿಲ್ ಸಿಬಲ್ ರಿಗೂ ಬಂತು SIR ನೋಟೀಸ್! ಸಿಂಧುವಾದ ಮತಗಳ ‘ವಿಶೇಷ ಸಮಗ್ರ ತೆಗೆದು ಹಾಕುವಿಕೆ’: EC ವಿರುದ್ಧ ಸಿಬಲ್ ವಾಗ್ದಾಳಿ](https://www.varthabharati.in/National/kapil-sibal-lashes-out-at-the-sir-following-the-ec-notice-regarding-the-special-comprehensive-deletion-of-valid-votes-2276648)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Trump (3.9)
 - Congress (3.9)
 - India (3.9)
-- Trump (2.6)
 - What (2.6)
 - Tata (1.9)
 - Karnataka (1.9)
 - Salve (1.6)
 - Rajasthan (1.6)
+- Bengal (1.6)
 - Seva (1.6)
 - Bengaluru (1.6)
 - Washington (1.3)
+- Iran (1.3)
 - Nothing (1.3)
 - K'taka (1.3)
-- Atlanta (1.3)
-- Using (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Indian women’s table tennis team stages comeback win against Singapore at Asian Games 2026](https://thenewsmill.com/2026/09/indian-womens-table-tennis-team-stages-comeback-win-against-singapore-at-asian-games-2026/)
-- [Deepika Padukone-Ranveer Singh welcome second baby girl; inside their Rs 100 crore sea-facing Bandra quadruplex and Prabhadevi home](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-ranveer-singh-welcome-second-baby-girl-inside-their-rs-100-crore-sea-facing-bandra-quadruplex-and-prabhadevi-home/articleshow/134366673.cms)
-- [HIV Injections Outperform Daily Pills for Teens in African Trial: Study](https://newsable.asianetnews.com/lifestyle/hiv-injections-outperform-daily-pills-for-teens-in-african-trial-study-articleshow-2p5oes5)
-- [Bigg Boss 20: સલમાન ખાને ટ્રોલર્સ અને પેપરાઝીની બોલતી બંધ કરી, કેમેરા સામે જ ઉતારી ટી](https://www.gujaratfirst.com/entertainment/salman-khan-removes-shirt-trolls-bigg-boss-gujarat-first-digital/340553/)
-- [Titan open to buying smaller watch brands to expand premium, luxury portfolio](https://www.moneycontrol.com/news/business/companies/titan-open-to-buying-smaller-watch-brands-to-expand-premium-luxury-portfolio-14033890.html)
-- [प्रसिद्ध न्यूरोसर्जनचे अपघाती निधन; महामार्गावर कारचा कोळसा](https://saamtv.esakal.com/national-international/famous-neurosurgeon-dr-jagadeesh-babu-dies-after-car-hits-divider-and-catches-fire-on-nh-365bb-highway-in-suryapet-telangana-om0906)
-- [कोण आहे MMA फायटर सुचिका तारियाल? वयाच्या १२व्या वर्षी छेडछाडीचा सामना, ३६व्या वर्षी एशियन गेम्समध्ये इतिहास घडवला](https://www.loksatta.com/krida/who-is-suchika-tariyal-asian-games-2026-first-mma-medal-for-india-profile-struggle-story-bdg-99-6146166/)
-- [Jalna News : हातातोंडाशी आलेला घास हिरावला](https://pudhari.news/maharashtra/marathwada/jalna/pimpalgaon-renukai-crops-on-hundreds-of-hectares-damaged-due-to-lack-of-rain-np88)
-- [రష్యాపై విరుచుకుపడ్డ ఉక్రెయిన్‌- మాస్కో చరిత్రలోనే అతిపెద్ద డ్రోన్‌ దాడి- పార్లమెంట్‌ ఎన్నికల పోలింగ్ వేళ అటాక్​](https://www.etvbharat.com/te/international/ukraine-fires-over-several-drones-at-russia-including-hundreds-launched-at-moscow-ten26092002812)
-- [Hyderabad: హైదరాబాదీలకు గుడ్ న్యూస్.. పంజాగుట్ట నుంచి జూబ్లీహిల్స్ చెక్ పోస్ట్ వరకు ఎలివేటెడ్ కారిడార్..!](https://telugu.goodreturns.in/news/there-is-a-possibility-of-constructing-an-elevated-corridor-from-hyderabads-nagarjuna-circle-to-jub-058005.html)
+- [રશિયા પર તૂટી પડ્યું યુક્રેન, તાબડતોડ 100થી વધુ ડ્રોન છોડ્યા; 2 ના મોત અને 20 ઘાયલ](https://gujarati.abplive.com/news/world/ukraine-launched-massive-drone-attack-on-russia-over-1000-drones-fired-991639)
+- [ఖైరతాబాద్ మహాగణపతి నిమజ్జనానికి ముహూర్తం ఖరారు](https://www.ap7am.com/tn/880740/khairatabad-maha-ganapathi-immersion-date-finalized)
+- [Lucky Zodiac Signs : उद्या 21 सप्टेंबरचा दिवस 5 राशींसाठी वरदानाचा; आठवड्याच्या पहिल्याच दिवशी महादेव देणार शुभवार्ता, वाचा लकी राशी](https://marathi.abplive.com/astro/lucky-zodiac-signs-on-21-september-2026-these-are-lucky-zodiacs-will-get-blessings-of-lord-shiva-astrology-marathi-news-1439693)
+- ['जातीवाचक शिवीगाळ करून मुलाला आत्महत्येला प्रवृत्त केलं'; आयआयटी मुंबईवर पालकांनी नेमके काय आरोप केले?](https://www.bbc.com/marathi/articles/cmy9z1d21jrvo)
+- [West Bengal News LIVE: ‘আন্দোলনের সময় দায়ের হওয়া সমস্ত মামলা প্রত্যাহার', কুড়মি সমাজকে বার্তা মুখ্যমন্ত্রীর](https://bengali.indianexpress.com/west-bengal/nandigram-bypoll-tmc-bjp-mamata-suvendu-eci-congress-milan-pradhan-arrest-rahul-gandhi-ritubrata-imd-west-bengal-news-live-update-12550996)
+- [ઉત્તર કોરિયાએ લોન્ચ કરી બેલિસ્ટીક મિસાઈલ, દક્ષિણ કોરિયા સહિત અમેરિકા અને જાપાન ભડક્યાં](https://www.gujaratsamachar.com/news/international/north-korea-launches-ballistic-missile-angers-south-korea-us-and-japan-55468970438)
+- ['Largest-ever' attack: Ukraine launches over 1,000 drones at Russia, oil refinery hit; 3 killed](https://timesofindia.indiatimes.com/world/europe/largest-ever-attack-on-moscow-ukraine-sends-over-1000-drones-into-russia-overnight/articleshow/134366997.cms)
+- [સાપ્તાહિક રાશિફળ: 20 થી 26 સપ્ટેમ્બરમાં કોનું ભાગ્ય ચમકશે? જાણો 12 રાશિનું ભવિષ્ય](https://gujarati.abplive.com/astro/weekly-horoscope-20-to-26-september-2026-saptahik-rashifal-gujarati-991638)
+- [Gujarat Rain: આગામી 3 કલાક રાજ્યના 19 જિલ્લાઓમાં ભારે વરસાદની આગાહી, જાણો ક્યાં તૂટી પડશે](https://gujarati.abplive.com/news/gujarat/heavy-rain-forecast-in-19-districts-of-the-state-in-the-next-3-hours-991635)
+- [Tata Sons dispute: Abhishek Singhvi says he enters fray with 'sadness and regret'](https://economictimes.indiatimes.com/news/company/corporate-trends/tata-sons-dispute-abhishek-singhvi-says-he-enters-fray-with-sadness-and-regret/articleshow/134366925.cms?from=mdr)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
