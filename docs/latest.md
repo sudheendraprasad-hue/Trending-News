@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-20 19:31:28
+# India Trending Report — 2026-09-20 20:02:01
 
 ## Google Trends (India) — top trending searches
 1. [8वें वेतन आयोग सैलरी](https://trends.google.com/trending/rss?geo=IN)
@@ -16,14 +16,14 @@
 **Times of India**
 - [Amit Shah wants UCC in all NDA states by 2029. What will JD(U) do in Bihar?](https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms)
 - [‘When do I blow entire nation up?' Trump's ultimatum after Iran warns of 'decisive war'](https://timesofindia.indiatimes.com/world/us/when-do-i-blow-entire-nation-up-trumps-ultimatum-after-iran-warns-of-decisive-war/articleshow/134372224.cms)
+- [93% of deleted Bengal voters have won appeals, EC tells SC](https://timesofindia.indiatimes.com/india/93-of-deleted-bengal-voters-have-won-appeals-ec-tells-sc/articleshow/134374880.cms)
 - [Landslide, flash flood kill 6 in Kerala amid heavy rain alert - video](https://timesofindia.indiatimes.com/city/kochi/3-dead-after-landslide-hits-keralas-idukki/articleshow/134371135.cms)
-- [46-year-old man found dead inside luxury car in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/46-year-old-man-found-dead-inside-luxury-car-parked-on-koramangala-road-in-bengaluru/articleshow/134372028.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
+- [Meet Sai Sri Valli Mogilineedi, eighth-grader who designed controlled-release antacid](https://timesofindia.indiatimes.com/world/us/meet-sai-sri-valli-mogilineedi-the-mechanicsburg-eighth-grader-who-designed-a-controlled-release-antacid-and-became-one-of-30-us-finalists-competing-for-more-than-100000-in-stem-awards/articleshow/134373682.cms)
+- [46-year-old man found dead inside luxury car in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/46-year-old-man-found-dead-inside-luxury-car-parked-on-koramangala-road-in-bengaluru/articleshow/134372028.cms)
+- [Russia wraps up first wartime parliamentary election, Kremlin set to retain control](https://timesofindia.indiatimes.com/world/europe/russia-wraps-up-first-wartime-parliamentary-election-kremlin-set-to-retain-control/articleshow/134374935.cms)
 - ['Could change a lot': Zelenskky and Trump to meet in New York ahead of UNGA](https://timesofindia.indiatimes.com/world/us/could-change-a-lot-zelenskky-and-trump-to-meet-in-new-york-ahead-of-unga/articleshow/134373778.cms)
 - [Initial fuel loading begins at Rajasthan Atomic Power Project’s units 7 and 8](https://timesofindia.indiatimes.com/city/mumbai/initial-fuel-loading-begins-at-rajasthan-atomic-power-projects-units-7-and-8/articleshow/134370138.cms)
-- [Healthcare goes digital: When doctors go behind the app wall, who gets left behind?](https://timesofindia.indiatimes.com/india/healthcare-goes-digital-when-doctors-go-behind-the-app-wall-who-gets-left-behind/articleshow/134369357.cms)
-- [MAGA brown-out: For Indian Trump acolytes, citizenship comes with an asterisk](https://timesofindia.indiatimes.com/world/us/maga-brown-out-for-indian-trump-acolytes-citizenship-comes-with-an-asterisk/articleshow/134370837.cms)
-- [New Jersey couple gave away 90-acre estate; land is now a free public preserve](https://timesofindia.indiatimes.com/world/us/a-new-jersey-couple-spent-more-than-40-years-protecting-their-90-acre-property-from-development-after-ultimately-giving-away-the-entire-estate-the-land-is-now-a-free-public-preserve-with-a-201-year-old-tree/articleshow/134367513.cms)
 
 **NDTV**
 - [Punjab Man Consumes Poison Over Drug Inaction, Sparks Political Row](https://www.ndtv.com/india-news/punjab-man-consumes-poison-over-drug-inaction-sparks-political-row-12073568#publisher=newsstand)
@@ -49,31 +49,22 @@
 - [Ahmedabad Crime Branch arrests man wanted for 24 years in Rajasthan murder case](https://www.hindustantimes.com/india-news/ahmedabad-crime-branch-arrests-man-wanted-for-24-years-in-rajasthan-murder-case-101789916066672.html)
 - [‘Caste discrimination a stigma on Hindu society’: RSS' Hosabale says ‘our conduct’ can free us from it](https://www.hindustantimes.com/india-news/caste-discrimination-a-stigma-on-hindu-society-rss-hosabale-says-our-conduct-can-free-us-from-it-101789913679320.html)
 
-**Vijay Karnataka**
-- [ಕಾರ್ಪೊರೇಟ್ ಕೆಲಸ ಬಿಟ್ಟು ಮಣ್ಣಿಗಿಳಿದ ಯುವತಿ; ಕ್ಯಾಪ್ಸಿಕಂ ಬೆಳೆದು ವರ್ಷಕ್ಕೆ 4 ಕೋಟಿ ರೂ. ಗಳಿಸುತ್ತಿರುವ ಪ್ರಣೀತಾ ವಮನ್ ಯಶೋಗಾಥೆ!](https://vijaykarnataka.com/business/news/young-woman-quits-corporate-job-to-turn-to-farming-the-success-story-of-pranitha-vaman-earns-4-crore-rs-growing-capsicum/articleshow/134368545.cms)
-- [ಗದಗ ತಾಲೂಕು ಬರಪೀಡಿತ ಎಂದು ಘೋಷಿಸದಿದ್ದರೆ ಶಾಸಕ ಸ್ಥಾನಕ್ಕೆ ರಾಜೀನಾಮೆ: ಹಿರಿಯ ಕಾಂಗ್ರೆಸಿಗ ಎಚ್ ಕೆ ಪಾಟೀಲ್ ಎಚ್ಚರಿಕೆ](https://vijaykarnataka.com/news/gadaga/h-k-patil-warns-resign-as-mla-if-gadag-taluk-is-not-declare-drought-hit/articleshow/134367365.cms)
-- [`ದೇಶದಲ್ಲಿ ಹುಲಿ, ವಿದೇಶದಲ್ಲಿ ಬೆಕ್ಕು'!: ಅಭಿಷೇಕ್ ಶರ್ಮಾ, ವೈಭವ್ ಸೂರ್ಯವಂಶಿ ಬಗ್ಗೆ ಹೊಗಳುತ್ತಲೇ ಚಾಟಿ ಬೀಸಿದ ಸಂದೀಪ್ ಪಾಟೀಲ್](https://vijaykarnataka.com/sports/cricket/news/sandeep-patil-warns-abhishek-sharma-vaibhav-sooryavanshi-about-failure-in-oversees-against-swing-bowling/articleshow/134370542.cms)
-- [ಪಟೋಲಾ ಕುರ್ತಾದಲ್ಲಿ ಮಿಂಚಿದ ದೀಪಿಕಾ ಪಡುಕೋಣೆ; ಸಿದ್ಧಿವಿನಾಯಕ ದರ್ಶನಕ್ಕೆ ಬಂದ ನಟಿಯ ಲುಕ್ ವೈರಲ್!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-siddhivinayak-temple-patola-kurta-look/articleshow/134352111.cms)
-- [ವ್ಹೀಲಿಂಗ್ ಪುಂಡರನ್ನು ತಪ್ಪಿಸುವ ಯತ್ನದಲ್ಲಿ ಟೆಂಪೋ ಟ್ರಾವೆಲರ್ ಅಪಘಾತ, ಯುವಕ ಸಾವು; ನಾಗರಬಾವಿ ಬಳಿ ಹೃದಯ ವಿದ್ರಾವಕ ಘಟನೆ](https://vijaykarnataka.com/news/bengaluru-city/tempo-traveller-accident-due-to-wheelying-stunt-by-youth-near-nagarabhavi-one-youth-dies-six-injury/articleshow/134372079.cms)
-- [ʻಬಿಗ್‌ ಬಾಸ್‌ʼ ಮನೆಯಿಂದ ಹೊರಬಂದ ಕಿರಣ್‌ ಶಾಸ್ತ್ರಿ - ಮಂಜ! ಇದು Unexpected ಟ್ವಿಸ್ಟ್](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-kiran-manja-eviction-twist/articleshow/134374159.cms)
-- [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
-- [ಚಾಣಕ್ಯ ನೀತಿ: ಈ 3 ಜನರೊಂದಿಗೆ ಶತ್ರುತ್ವ ಹೊಂದದಿರಲು ಕಾರಣ.!](https://vijaykarnataka.com/religion/hinduism/chanakya-niti-says-do-not-make-enmity-with-these-3-kind-of-people/articleshow/134352052.cms)
-- [ಕತ್ರಿನಾ ಕೈಫ್ ದಪ್ಪ ಆಗಿದ್ದಾರೆಂದು ಟ್ರೋಲ್ ಹೆರಿಗೆ ಬಳಿಕ ದೇಹದಲ್ಲಿ ಆಗುವ ಸಾಮಾನ್ಯ ಬದಲಾವಣೆಗಳೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/katrina-kaif-postpartum-body-changes-women-after-pregnancy/articleshow/134348311.cms)
-- [ಆನ್‌ಲೈನ್‌ ಟ್ರೇಡಿಂಗ್‌ ನೆಪದಲ್ಲಿ ಪಂಗನಾಮ ಹಾಕಿದ ಬೆಂಗಳೂರಿನ ಮೂವರು ವಂಚಕರ ಸೆರೆ; ಹೀಗೂ ಮೋಸ ಮಾಡ್ತಾರೆ ಜಾಗ್ರತೆಯಾಗಿರಿ!](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-poice-arests-3-fraudsters-online-trading-/articleshow/134371389.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [‘Stop Vizag Data Centers’ Instagram account blocked in India](https://www.thehindu.com/news/national/andhra-pradesh/stop-vizag-data-centers-instagram-account-blocked-in-india/article71487350.ece)
+- [Missing measure in India’s magnet mission](https://www.thehindu.com/opinion/op-ed/missing-measure-in-indias-magnet-mission/article71488862.ece)
+- [Overnight rain brings temperatures down in Bengaluru; KIA weather station records 94.2 mm](https://www.thehindu.com/news/cities/bangalore/overnight-rain-bring-temperatures-down-in-bengaluru-kia-records-942-mm/article71487287.ece)
+- [Panathur Railway Underbridge submerged after rain, commuters struggle through hip-deep water](https://www.thehindu.com/news/cities/bangalore/panathur-railway-underbridge-submerged-after-rain-commuters-struggle-through-hip-deep-water/article71488104.ece)
+- [Boating to boost tourism at Peruvannamuzhi](https://www.thehindu.com/news/national/kerala/boating-to-boost-tourism-at-peruvannamuzhi/article71487538.ece)
+- [Human skull recovered from waste heap in Kozhikode](https://www.thehindu.com/news/national/kerala/human-skull-recovered-from-waste-heap-in-kozhikode/article71487663.ece)
+- [Man found dead inside parked car in Koramangala](https://www.thehindu.com/news/national/karnataka/man-found-dead-inside-parked-car-in-koramangala/article71487564.ece)
+- [‘India is entering a period of economic growth that could be unparalleled in our history’](https://www.thehindu.com/news/national/tamil-nadu//article71485038.ece)
 - [Dengue cases in Tamil Nadu decline for third consecutive year as per government data](https://www.thehindu.com/sci-tech/health/dengue-cases-in-tamil-nadu-decline-for-third-consecutive-year-as-per-government-data/article71487571.ece)
 - [3 dead, three missing in Nilambur flash flood](https://www.thehindu.com/news/national/kerala/one-dead-four-missing-in-nilambur-flash-floods/article71488413.ece)
-- [Experts discuss specific diagnosis and brain modulation in Alzheimer’s care](https://www.thehindu.com/sci-tech/health/experts-discuss-specific-diagnosis-and-brain-modulation-in-alzheimers-care/article71487569.ece)
-- [Village knowledge centre inaugurated in Villupuram district](https://www.thehindu.com/news/national/tamil-nadu/village-knowledge-centre-inaugurated-in-villupuram-district/article71487748.ece)
-- [Madurantakam bypolls: PMK’s abstention adds to changing electoral equations](https://www.thehindu.com/news/national/tamil-nadu/madurantakam-bypolls-pmks-abstention-adds-to-changing-electoral-equations/article71488622.ece)
-- [Keralam Chief Minister to launch ₹93.22-crore coastal protection project for Pozhiyoor](https://www.thehindu.com/news/national/kerala/keralam-chief-minister-to-launch-9322-crore-coastal-protection-project-for-pozhiyoor/article71488317.ece)
-- [India’s NGOs at a new funding crossroads](https://www.thehindu.com/opinion/lead/indias-ngos-at-a-new-funding-crossroads/article71488462.ece)
-- [TVK regime’s experiment, of having two Advisers to Vijay alongside Chief Secretary, giving mixed vibes to T.N.’s bureaucratic circles](https://www.thehindu.com/news/national/tamil-nadu/tvk-regimes-experiment-of-having-two-advisers-to-vijay-alongside-chief-secretary-giving-mixed-vibes-to-tns-bureaucratic-circles/article71485220.ece)
-- [NHAI, Forest Department efforts provide Pichavaram another 25 hectares of mangroves](https://www.thehindu.com/news/cities/chennai/nhai-forest-department-efforts-provide-pichavaram-another-25-hectares-of-mangroves/article71488858.ece)
-- [Glitzy Ganesh idol immersions leave behind chaos](https://www.thehindu.com/news/national/andhra-pradesh/glitzy-ganesh-idol-immersions-leave-behind-chaos/article71488916.ece)
 
 **Livemint**
+- [South Africa Questions 3 People of Interest in Women’s Murders](https://www.livemint.com/news/south-africa-questions-3-people-of-interest-in-women-s-murders-11789933458817.html)
 - [‘Skill is a tool, but…’: Startup founder points out common red flags among job seekers, as seen during interviews](https://www.livemint.com/news/trends/skill-is-a-tool-but-startup-founder-points-out-common-red-flags-among-job-seekers-as-seen-during-interviews-11789929001090.html)
 - [Giorgia Meloni plans burqa, niqab ban in Italian schools and cap on foreign students in classrooms](https://www.livemint.com/news/world/giorgia-meloni-plans-burqa-niqab-ban-in-italian-schools-and-cap-on-foreign-students-in-classrooms-11789925960986.html)
 - [Etihad Delhi-Abu Dhabi flight cancellation: What rules say about compensation when technical issues disrupt travel](https://www.livemint.com/news/india/etihad-delhi-abu-dhabi-flight-cancellation-what-rules-say-about-compensation-when-technical-issues-disrupt-travel-11789927190997.html)
@@ -83,7 +74,6 @@
 - [Trump signs Russia sanctions law, tariff threat looms over India, China: Can Africa become Putin’s next energy network?](https://www.livemint.com/news/world/trump-signs-russia-sanctions-law-tariff-threat-looms-over-india-china-can-africa-become-putin-s-next-energy-network-11789918545965.html)
 - [Delhi SIR: Got an EC notice? CEO says names won’t be automatically deleted after Advani, Jaishankar among those flagged](https://www.livemint.com/news/india/delhi-sir-got-an-ec-notice-ceo-says-names-won-t-be-automatically-deleted-after-advani-jaishankar-among-those-flagged-11789913825204.html)
 - [Mark Zuckerberg sports De Bethune DB28xs Kind of Blue Tourbillon: Priced at  ₹2.1 cr, here's why it is special to him](https://www.livemint.com/news/trends/mark-zuckerberg-sports-de-bethune-db28xs-kind-of-blue-tourbillon-priced-at-rs-2-1-cr-heres-why-it-is-special-to-him-11789916816262.html)
-- [Indian influencer loses her iPhone 16 Pro in Japan for the fifth time - What she found next left her stunned](https://www.livemint.com/news/trends/indian-influencer-loses-her-iphone-16-pro-in-japan-for-the-fifth-time-what-she-found-next-left-her-stunned-11789912888538.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,35 +90,35 @@
 - [ಕಪಿಲ್ ಸಿಬಲ್ ರಿಗೂ ಬಂತು SIR ನೋಟೀಸ್! ಸಿಂಧುವಾದ ಮತಗಳ ‘ವಿಶೇಷ ಸಮಗ್ರ ತೆಗೆದು ಹಾಕುವಿಕೆ’: EC ವಿರುದ್ಧ ಸಿಬಲ್ ವಾಗ್ದಾಳಿ](https://www.varthabharati.in/National/kapil-sibal-lashes-out-at-the-sir-following-the-ec-notice-regarding-the-special-comprehensive-deletion-of-valid-votes-2276648)
 
 ## Cross-source trending keywords (derived from headlines above)
-- What (3.9)
-- Trump (2.9)
-- When (2.6)
+- India (5.2)
+- Bengaluru (2.9)
+- What (2.6)
+- Bengal (2.6)
+- Russia (2.6)
+- Trump (2.6)
 - Congress (2.6)
 - Jaishankar (2.6)
 - Advani (2.6)
-- Japan (2.6)
-- India (2.6)
 - Giorgia Meloni (2.0)
-- Phone (2.0)
 - Rajasthan (1.9)
-- Indian (1.9)
 - Karnataka (1.9)
 - Landslide (1.6)
 - Kerala (1.6)
+- Bihar (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [शादी के लिए बदला मजहब, दीपिका कक्कड़ ने आलीशान घर में पति के लिए बनाया नमाज रूम, रखी कुरान](https://www.aajtak.in/entertainment/television/photo/dipika-kakar-mumbai-5bhk-lavish-house-tour-namaz-quran-room-hindu-muslim-marriage-trolling-tmovf-2647857-2026-09-20)
-- [బెంగాల్‌లో ఉప ఎన్నికలకు ముందు అభ్యర్థుల అరెస్టులు](https://prajasakti.com/latest-news/national-newss/bengal-police-arrest-rejinagar-bypoll-candidate)
-- [26-27 सितंबर को बैंकों की छुट्टी, 28 से 30 तक 3 दिन की हड़ताल करेंगे कर्मचारी, 9 दिनों में सिर्फ 2 दिन होगा कामकाज](https://www.indiatv.in/paisa/business/banks-will-be-closed-on-september-26-27-and-employees-will-go-on-a-three-day-strike-from-the-28th-to-the-30th-operations-will-take-place-on-only-two-2026-09-20-1244264)
-- [शेफाली वर्माचा धडाका! ४९ चेंडूंत शतक!](https://www.tarunbharat.net/Encyc/2026/9/20/shafali-vermas-century-off-49-balls.html)
-- [Loss of Y Chromosome in Men Might Be an Early Indication of Cancer, Finds Study](https://www.onlymyhealth.com/loss-of-y-chromosome-in-men-might-be-an-early-indication-of-cancer-study-12977850462)
-- [‘BMW വായുവിൽ തലകീഴായി മറിഞ്ഞ് 75 അടി താഴ്ചയിലേക്ക്’; മുംബൈയിൽ കാറപകടത്തിൽ വിദ്യാർഥികൾക്ക് ദാരുണാന്ത്യം](https://www.mathrubhumi.com/news/india/mumbai-coastal-road-bmw-accident-3-dead-yornkgi4)
-- [Food poisoning | మోడల్ స్కూల్‌లో ఫుడ్ పాయిజన్.. 30 మంది విద్యార్థినులకు అస్వస్థత : వీడియో](https://www.ntnews.com/telangana/food-poisoning-at-a-model-school-in-narayanpet-district-2515359)
-- [ગંભીરા બ્રિજનું આજે લોકાર્પણ: 12 મહિનામાં ₹212 કરોડના ખર્ચે તૈયાર, આ શહેરો વચ્ચેનો વાહન વ્યવહાર બનશે ઝડપી](https://gujarati.abplive.com/news/gujarat/gambhira-bridge-inaugurated-today-completed-in-12-months-at-a-cost-of-212-crore-will-speed-up-traffic-between-these-cities-991615)
-- [Purandar Soybean Crop Loss: पावसाने दडी मारली; उभ्या सोयाबीनवर शेतकऱ्यांनी फिरवला ट्रॅक्टर, पुरंदरमध्ये खरीप संकटात](https://pudhari.news/maharashtra/pune/purandar-drought-soybean-crop-farmers-tractor-rain-shortage-sk04)
-- [धाराशिवमध्ये रोहित पवारांकडून पीक पाहणी; दुष्काळ जाहीर करण्याची मागणी](https://pudhari.news/maharashtra/marathwada/dharashiv/ratnapur-rohit-pawar-crop-inspection-drought-declaration-demand-mk96)
+- [‘हम भी अच्छी जिंदगी जी सकते हैं’, करोड़ों की गाड़ी में बैठी मैथिली ठाकुर हुईं ट्रोल, कंगना ने दिया करारा जवाब](https://www.aajtak.in/entertainment/bollywood-news/story/kangana-ranaut-slams-trolls-over-singer-bjp-mla-maithili-thakur-new-13-crore-rolls-royce-tmovj-dskc-2648019-2026-09-20)
+- ['યુવાનોને અંધભક્ત બનાવી રહ્યા છે', રાહુલ ગાંધીએ ભાજપ પર સાધ્યું નિશાન](https://gujarati.abplive.com/news/india/they-are-turning-the-youth-into-blind-followers-rahul-gandhi-targets-the-bjp-991618)
+- [IND vs BAN, Highlights: India thumps Bangladesh to enter Asian Games 2026 women's cricket final; Shafali shines with century](https://sportstar.thehindu.com/asian-games/india-vs-bangladesh-asian-games-2026-womens-cricket-semifinal-live-score-updates/article71487003.ece)
+- [ગુજરાતના 3 જિલ્લામાં ભારે વરસાદનું ઓરેન્જ એલર્ટ જાહેર, હવામાન વિભાગની લેટેસ્ટ આગાહી](https://www.gujaratsamachar.com/news/amreli/orange-alert-issued-for-heavy-rain-in-3-districts-of-gujarat-latest-forecast-from-meteorological-department-48164931244)
+- [India vs Indonesia Highlights, Asian Games 2026 men's hockey: Dilpreet scores four as IND beats INA 13-1](https://sportstar.thehindu.com/asian-games/news/india-vs-indonesia-hockey-live-score-asian-games-2026-match-updates-highlights/article71487128.ece)
+- [Shafali Verma News : शेफाली वर्माने वादळी खेळीने इतिहास-भूगोल बदलून टाकला! टी-20 क्रिकेटमधील 6 मोठे विक्रम मोडले](https://marathi.abplive.com/sports/cricket/shafali-verma-fastest-century-in-t20i-women-india-vs-bangladesh-semi-final-asian-games-2026-broke-6-records-marathi-news-1439671)
+- [भारत ने बांग्लादेश को दूसरे सेमीफाइनल में दी करारी मात, गोल्ड मेडल मैच में श्रीलंका से होगा सामना](https://www.indiatv.in/sports/cricket/india-women-enters-into-the-final-of-asian-games-after-beating-bangladesh-now-will-face-srilanka-for-gold-medal-2026-09-20-1244269)
+- ["റേഷൻ കാർഡിന്റെ നാളുകൾ' ഓർമിപ്പിച്ച് ശൈഖ് മുഹമ്മദ്](https://www.sirajlive.com/sheikh-mohammed-open-letter-dubai-youth-history-ration-cards-pearl-industry.html)
+- [Cyclone Heavy Rain Bengal : গভীর নিম্নচাপ ঘনাচ্ছে, ঘূর্ণিঝড়ের কী অবস্থা-কবে থেকে ব্যাপক বৃষ্টি? Latest Weather Update](https://bangla.aajtak.in/west-bengal/south-bengal/story/low-pressure-system-and-cyclone-threat-west-bengal-south-districts-may-see-heavy-rain-before-puja-suk-1452953-2026-09-20)
+- [Hugs, kisses before NYC subway tragedy: New details emerge in Malaika Chitre, Navam Kaul deaths](https://www.hindustantimes.com/world-news/hugs-and-kisses-on-platform-before-nyc-subway-train-strike-details-emerge-malaika-chitre-navam-kaul-101789881748164.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
