@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-20 06:38:14
+# India Trending Report — 2026-09-20 07:01:45
 
 ## Google Trends (India) — top trending searches
 1. [2026 नवरात्रि तिथि](https://trends.google.com/trending/rss?geo=IN)
 2. [ed sheeran](https://trends.google.com/trending/rss?geo=IN)
-3. [calcutta football league](https://trends.google.com/trending/rss?geo=IN)
-4. [tiger cat](https://trends.google.com/trending/rss?geo=IN)
-5. [karunya lottery results](https://trends.google.com/trending/rss?geo=IN)
-6. [jimmy fallon](https://trends.google.com/trending/rss?geo=IN)
-7. [maharaja](https://trends.google.com/trending/rss?geo=IN)
-8. [brighton fc](https://trends.google.com/trending/rss?geo=IN)
-9. [rachin ravindra](https://trends.google.com/trending/rss?geo=IN)
-10. [asian games japan 2026](https://trends.google.com/trending/rss?geo=IN)
+3. [फ्री फायर फ्री रिडीम कोड](https://trends.google.com/trending/rss?geo=IN)
+4. [calcutta football league](https://trends.google.com/trending/rss?geo=IN)
+5. [tiger cat](https://trends.google.com/trending/rss?geo=IN)
+6. [karunya lottery results](https://trends.google.com/trending/rss?geo=IN)
+7. [jimmy fallon](https://trends.google.com/trending/rss?geo=IN)
+8. [maharaja](https://trends.google.com/trending/rss?geo=IN)
+9. [asian games 2026 medal tally](https://trends.google.com/trending/rss?geo=IN)
+10. [brighton fc](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -18,12 +18,12 @@
 - [3 youths killed, 1 critical after speeding BMW crashes on Mumbai's Coastal Road](https://timesofindia.indiatimes.com/city/mumbai/3-youths-killed-1-critical-after-speeding-bmw-crashes-on-mumbais-coastal-road/articleshow/134363457.cms)
 - [In a first, abetment FIR filed against IIT-Bombay professor in student’s death](https://timesofindia.indiatimes.com/city/mumbai/in-a-first-abetment-fir-filed-against-iit-bombay-professor-in-second-year-students-death/articleshow/134359955.cms)
 - [Second medal for India, Elavenil wins silver in women’s 10m air rifle at Asiad 2026](https://timesofindia.indiatimes.com/sports/asian-games-2026/elavenil-valarivan-narrowly-misses-out-on-gold-settles-for-womens-10m-air-rifle-silver-at-asian-games-2026/articleshow/134364039.cms)
-- [Ed Sheeran's Macklemore controversy sparks mixed reactions](https://timesofindia.indiatimes.com/entertainment/english/music/news/ed-sheerans-macklemore-controversy-sparks-mixed-reactions-fan-says-cancel-culture-didnt-work-as-singer-admits-mistakes/articleshow/134364116.cms)
 - [Mark Zuckerberg to OpenAI, Anthropic: Your AI agents, your responsibility](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-confirms-technology-industry-is-divided-on-ai-regulation-tells-openai-and-anthropic-your-ai-agents-your-/articleshow/134364246.cms)
+- [Ed Sheeran's Macklemore controversy sparks mixed reactions](https://timesofindia.indiatimes.com/entertainment/english/music/news/ed-sheerans-macklemore-controversy-sparks-mixed-reactions-fan-says-cancel-culture-didnt-work-as-singer-admits-mistakes/articleshow/134364116.cms)
 - [Maharashtra minister's niece Nila Vikhe Patil elected to Swedish Parliament](https://timesofindia.indiatimes.com/world/europe/maharashtra-ministers-niece-nila-vikhe-patil-elected-to-swedish-parliament/articleshow/134363240.cms)
 - [At 12, she was eve-teased: Suchika is now India’s first Asian Games MMA medallist](https://timesofindia.indiatimes.com/sports/asian-games-2026/at-12-she-was-eve-teased-it-changed-her-life-24-years-later-suchika-tariyal-is-indias-first-asian-games-mma-medallist/articleshow/134363738.cms)
-- [Sikh driver attacked, thrown off bus in England; hijacked vehicle crashes into cars](https://timesofindia.indiatimes.com/weather/uk/sikh-bus-driver-attacked-thrown-from-vehicle-in-england-hijacked-bus-crashes-into-cars/articleshow/134352821.cms)
 - [Dubuque turned 67,000 plastic bottles into floating islands for wildlife](https://timesofindia.indiatimes.com/world/us/in-2017-dubuque-turned-recycled-plastic-equal-to-about-67000-water-bottles-into-14-floating-islands-the-2674-sq-ft-system-now-adds-plant-fish-and-bird-habitat-to-bee-branch-creek/articleshow/134353237.cms)
+- [Meet Viraansh Bhanushali, Mumbai-born Oxford law student now in BRICS spotlight](https://timesofindia.indiatimes.com/life-style/people/meet-viraansh-bhanushali-the-mumbai-born-oxford-law-student-whose-speech-went-viral-and-is-now-in-the-brics-spotlight/articleshow/134363345.cms)
 
 **NDTV**
 - ['Uncouth, Foul-Mouthed': BJP On Rahul Gandhi's "Maa" Remarks With Comic](https://www.ndtv.com/india-news/uncouth-foul-mouthed-bjp-on-rahul-gandhis-maa-remarks-with-comic-pulkit-mani-12071043#publisher=newsstand)
@@ -38,6 +38,7 @@
 - [Nila Vikhe Patil, Maharashtra Minister's Niece, Elected To Sweden Parliament](https://www.ndtv.com/world-news/nila-vikhe-patil-maharashtra-ministers-niece-elected-to-sweden-parliament-12070704#publisher=newsstand)
 
 **Hindustan Times**
+- [BMW mangled, debris on road: Video shows aftermath of Mumbai crash that killed 3](https://www.hindustantimes.com/india-news/bmw-mangled-debris-on-road-video-shows-aftermath-of-mumbai-coastal-road-crash-that-killed-3-101789884604639.html)
 - [3 killed, 3 injured as truck crashes into crane, auto-rickshaw in Delhi’s Sarita Vihar](https://www.hindustantimes.com/india-news/3-killed-3-injured-as-truck-crashes-into-crane-auto-rickshaw-in-delhi-s-sarita-vihar-101789884859621.html)
 - [Who is Nila Vikhe Patil? Maharashtra BJP minister’s niece elected to Sweden Parliament](https://www.hindustantimes.com/india-news/who-is-nila-vikhe-patil-maharashtra-bjp-minister-s-niece-elected-to-sweden-parliament-101789873434268.html)
 - [Senior journalist Payal Mehta passes away; PM, Rahul Gandhi, CMs offer condolences](https://www.hindustantimes.com/india-news/cnn-news-18-senior-journalist-payal-mehta-passes-away-pm-rahul-gandhi-cms-offer-condolences-101789883657594.html)
@@ -47,31 +48,20 @@
 - [Objections mount over draft Kerala University rules restricting campus political activities](https://www.hindustantimes.com/india-news/objections-mount-over-draft-kerala-university-rules-restricting-campus-political-activities-101789881393581.html)
 - [HT Morning Brief September 20: Crime Branch to probe IIT-B student’s death; Rahul’s Indore event row; Asian Games](https://www.hindustantimes.com/india-news/ht-morning-brief-september-20-iit-bombay-student-suicide-asian-games-pm-modi-rahul-gandhi-us-iran-war-101789879742247.html)
 - [‘Low moral fibre’: Madras HC denies mother custody over intimate photos, late-night calls](https://www.hindustantimes.com/india-news/low-moral-fibre-madras-hc-denies-mother-custody-over-intimate-photos-late-night-calls-101789879448556.html)
-- [PM Modi's mimicry at Rahul Gandhi event irks BJP: 'Mother is not subject of politics'](https://www.hindustantimes.com/india-news/pm-modis-mimicry-at-rahul-gandhi-event-irks-bjp-mother-is-not-subject-of-politics-101789876578143.html)
 
-**Vijay Karnataka**
-- [ನಾಳೆಯ ಹವಾಮಾನ: ತೀವ್ರ ವಾಯುಭಾರ ಕುಸಿತ 5 ದಿನ ವ್ಯಾಪಕ ಮಳೆ: ರಾಜ್ಯದ 16 ಜಿಲ್ಲೆಗಳಿಗೆ ಯೆಲ್ಲೋ ಅಲರ್ಟ್ ಘೋಷಣೆ!](https://vijaykarnataka.com/news/karnataka/tomorrow-weather-severe-low-pressure-area-to-heavy-rain-for-september-20-to-24-5-days-yellow-alert-for-16-districts-karnataka/articleshow/134364202.cms)
-- [ತಿಮ್ಮಪ್ಪನ ಭಕ್ತರಿಗೆ ಮತ್ತೊಂದು ಆಘಾತ : ತಿರುಪತಿ ಲಡ್ಡು ಕಲಬೆರಕೆ, ಇ.ಡಿ.ಯಿಂದ ಪ್ರಮುಖ ಆರೋಪಿ ಬಂಧನ](https://vijaykarnataka.com/news/hyderabad/tirupati-laddu-adulteration-key-accused-arrested-by-ed-tirupati-prasadam-controversy-details/articleshow/134363110.cms)
-- [ಪೆಟ್ರೋಲ್‌ ಬಂಕ್‌ಗಳಲ್ಲಿ 2000 ರೂ. ಮೇಲ್ಪಟ್ಟ UPI ವಹಿವಾಟು ಬಂದ್‌! ಮಧ್ಯಪ್ರದೇಶ ವ್ಯಾಪಾರಿಗಳ ಒಕ್ಕೂಟ ನಿರ್ಧಾರ](https://vijaykarnataka.com/news/india/upi-transactions-exceeding-rs-2000-halted-at-petrol-bunks-madhya-pradesh-traders-association-makes-decision/articleshow/134363582.cms)
-- [ಪಟೋಲಾ ಕುರ್ತಾದಲ್ಲಿ ಮಿಂಚಿದ ದೀಪಿಕಾ ಪಡುಕೋಣೆ; ಸಿದ್ಧಿವಿನಾಯಕ ದರ್ಶನಕ್ಕೆ ಬಂದ ನಟಿಯ ಲುಕ್ ವೈರಲ್!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-siddhivinayak-temple-patola-kurta-look/articleshow/134352111.cms)
-- [ರಾಜ್ಯದ 15 ಸಾವಿರ ಶಾಲಾ ಶಿಕ್ಷಕರ ನೇಮಕಾತಿ ರದ್ದು: ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್‌ ಮಹತ್ವದ ತೀರ್ಪು! ಹೊಸ ಪಟ್ಟಿಗೆ 3 ತಿಂಗಳ ಗಡುವು](https://vijaykarnataka.com/news/karnataka/appointment-of-15000-school-teachers-in-the-state-cancelled-karnataka-high-courts-significant-verdict-reason/articleshow/134363402.cms)
-- [ʻಕ್ಯಾರೆಕ್ಟರ್‌ ಲೆಸ್‌ʼ ಎಂದ ಮಂಜ: ಕಣ್ಣೀರಿಟ್ಟ ಸೌಂದರ್ಯ ಪರ ನಿಂತು ʻಮಹಾಕವಿʼಗೆ ಜಾಡಿಸಿದ ಕಿಚ್ಚ ಸುದೀಪ್!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-kiccha-sudeep-takes-class-on-manja-calling-soundarya-shetty-characterless/articleshow/134364128.cms)
-- [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
-- [ಚಾಣಕ್ಯ ನೀತಿ: ಈ 3 ಜನರೊಂದಿಗೆ ಶತ್ರುತ್ವ ಹೊಂದದಿರಲು ಕಾರಣ.!](https://vijaykarnataka.com/religion/hinduism/chanakya-niti-says-do-not-make-enmity-with-these-3-kind-of-people/articleshow/134352052.cms)
-- [ಕತ್ರಿನಾ ಕೈಫ್ ದಪ್ಪ ಆಗಿದ್ದಾರೆಂದು ಟ್ರೋಲ್ ಹೆರಿಗೆ ಬಳಿಕ ದೇಹದಲ್ಲಿ ಆಗುವ ಸಾಮಾನ್ಯ ಬದಲಾವಣೆಗಳೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/katrina-kaif-postpartum-body-changes-women-after-pregnancy/articleshow/134348311.cms)
-- [ಕಸ್ತೂರಿರಂಗನ್‌ ವರದಿ ಆತಂಕ: ಸಿಎಂ ಡಿಕೆ ಶಿವಕುಮಾರ್ ಮೇಲೆ ಮಲೆನಾಡಿಗರ ನಿರೀಕ್ಷೆ, ಕಾಡಾನೆ ಹಾವಳಿ ಸೇರಿ ಸಮಸ್ಯೆಗಳ ಸರಮಾಲೆ](https://vijaykarnataka.com/news/hasana/concerns-over-the-kasturi-rangan-report-malnad-residents-pin-hopes-on-cm-dk-shivakumar/articleshow/134362719.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [Vaishnaw cautions industry about cyberattacks, disruption that may target India's growing chip might](https://www.thehindu.com/news/national/vaishnaw-cautions-industry-about-cyberattacks-disruption-that-may-target-indias-growing-chip-might/article71487191.ece)
+- [‘Gem Granite’ Veeramani — a stone cold perpetrator](https://www.thehindu.com/news/national/tamil-nadu/a-stone-coldperpetrator/article71485725.ece)
+- [Senior journalist Payal Mehta passes away; PM Modi, Union Ministers offer condolences](https://www.thehindu.com/news/national/senior-journalist-payal-mehta-passes-away-pm-modi-union-ministers-offer-condolences/article71487108.ece)
+- [TVK regime’s experiment of having two advisers to Vijay alongside Chief Secretary, giving mixed vibes to T.N.’s bureaucratic circles](https://www.thehindu.com/news/national/tamil-nadu/tvk-regimes-experiment-of-having-two-advisers-to-vijay-alongside-chief-secretary-giving-mixed-vibes-to-tns-bureaucratic-circles/article71485220.ece)
 - [Hope flows anew with revival of Andhra’s Veligonda project](https://www.thehindu.com/news/national/andhra-pradesh/hope-flows-anew-with-revival-of-andhras-veligonda-project/article71479450.ece)
 - [The digital recruiter | Shahzad Bhatti](https://www.thehindu.com/profile/the-digital-recruiter-shahzad-bhatti/article71485789.ece)
 - [Keralam minister K.M. Shaji faces controversy over use of ‘loaned’ luxury car as official vehicle](https://www.thehindu.com/news/national/kerala/keralam-minister-km-shaji-faces-controversy-over-use-of-loaned-luxury-car-as-official-vehicle/article71487102.ece)
 - [High Court directs Uttar Pradesh Police to ensure safety of same-sex couple in live-in relationship](https://www.thehindu.com/news/national/uttar-pradesh/high-court-directs-uttar-pradesh-police-to-ensure-safety-of-same-sex-couple-in-live-in-relationship/article71487019.ece)
 - [CM Rekha Gupta, former CM Kejriwal among those to get notices amid Delhi SIR](https://www.thehindu.com/news/cities/Delhi/delhi-election-commission-publishes-names-excluded-from-delhi-electoral-roll/article71484653.ece)
 - [Bengal police arrest Rejinagar bypoll candidate days after Nandigram candidate Milan Pradhan’s arrest](https://www.thehindu.com/news/national/west-bengal/bengal-police-arrest-rejinagar-bypoll-candidate-days-after-nandigram-candidate-milan-pradhans-arrest/article71487021.ece)
-- [At least two dead, four injured after electrocution near Ganesh pandal in Mumbai](https://www.thehindu.com/news/cities/mumbai/mumbai-ganesh-pandal-electrocution-several-dead-september-20-2026/article71487122.ece)
-- [What is the India-Pakistan conflict at sea about? | Explained](https://www.thehindu.com/news/national/what-is-the-india-pakistan-conflict-at-sea-about-explained/article71485874.ece)
-- [News in Frames | In pursuit of salt and survival](https://www.thehindu.com/news/national/andhra-pradesh/news-in-frames-in-pursuit-of-salt-and-survival/article71487144.ece)
-- [Not in a mould | Anant Nag](https://www.thehindu.com/news/national/karnataka/not-in-a-mould-anant-nag/article71485785.ece)
 
 **Livemint**
 - [Chicken biryani for mid-day meal in Tamil Nadu schools? ‘Even prisoner in jail gets...’ — what CM Vijay's minister said](https://www.livemint.com/news/india/chicken-biryani-for-mid-day-meal-in-tamil-nadu-schools-even-prisoner-in-jail-gets-what-cm-vijays-minister-said-11789885028106.html)
@@ -85,19 +75,10 @@
 - [Woman found dead inside suitcase brought to Kansas fire station, police launches homicide investigation](https://www.livemint.com/news/us-news/woman-found-dead-inside-suitcase-brought-to-kansas-fire-station-police-launches-homicide-investigation-11789852982464.html)
 - [Melania Trump to launch ‘IMPERIA’ during UNGA week: Why women CEOs are at the centre of it](https://www.livemint.com/news/us-news/melania-trump-to-launch-imperia-during-unga-week-why-women-ceos-are-at-the-centre-of-it-11789844321946.html)
 
-**Moneycontrol**
-- [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
-- [Buy Tejas Networks; target of Rs 1100: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html)
-- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html)
-- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html)
-- [Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html)
-- [Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html)
-- [Reduce Wipro; target of Rs 410: ICICI Securities](https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html)
-- [Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html)
-- [Buy Patel Engineering; target of Rs 80: ICICI Direct](https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html)
-- [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
+**Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
+- [Asian Games 2026 | ಭಾರತಕ್ಕೆ ಮತ್ತೊಂದು ಬೆಳ್ಳಿ: ಅಲ್ಪ ಅಂತರದಲ್ಲಿ ಚಿನ್ನ ಕಳೆದುಕೊಂಡ ಇಲಾವೆನಿಲ್ ವಲರಿವನ್](https://www.varthabharati.in/sports/elavenil-valarivan-misses-gold-in-a-nail-biting-thriller-2276481)
 - [ಬಹು ಆಯಾಮ ವ್ಯಕ್ತಿತ್ವದ ಆಪ್ತ ಚಿತ್ರಣ](https://www.varthabharati.in/pusthaka-sangathya/an-intimate-portrait-of-a-multifaceted-personality-2276476)
 - [ಸೌದಿ ಅರೇಬಿಯಾದ ರಿಯಾದ್ ನಗರವನ್ನು ಗುರಿಯಾಗಿಸಿಕೊಂಡು ಹೌದಿಗಳಿಂದ ಕ್ಷಿಪಣಿ ದಾಳಿ: ವರದಿ](https://www.varthabharati.in/international/houthis-missiles-target-riyadh-of-saudi-arabia-2276474)
 - [SKSSF ಪಮ್ಮಲೆ ಯುನಿಟ್‌ ಮಹಾಸಭೆ; ಅಧ್ಯಕ್ಷರಾಗಿ ಅಬ್ದುಲ್ ಕರೀಂ ಆಯ್ಕೆ](https://www.varthabharati.in/DakshinaKannada/skssf-pammale-unit-general-body-meeting-abdul-karim-elected-as-president-2276473)
@@ -107,38 +88,37 @@
 - [ರೆಟ್ರೋ ಫೋಟೊಗಳ ಟ್ರೆಂಡ್: ಎಚ್ಚರಿಕೆ ಅಗತ್ಯ](https://www.varthabharati.in/ankana/retro-photo-trend-caution-is-necessary-2276466)
 - [ಭಾರತದ ನರಮಂಡಲ](https://www.varthabharati.in/taxonomy/term/141639/nervous-system-of-india-2276464)
 - [Asian Games 2026 | ಈಜು ಸ್ಪರ್ಧೆಯ 100 ಮೀಟರ್ ಬ್ಯಾಕ್ ಸ್ಟ್ರೋಕ್‌ನಲ್ಲಿ ಭಾರತದ ರಿಷಭ್ ದಾಸ್ ಫೈನಲ್ ಗೆ](https://www.varthabharati.in/sports/asian-games-2026-indias-rishabh-das-reaches-the-final-of-the-100m-backstroke-swimming-event-2276462)
-- [ಕಸ್ತೂರಿರಂಗನ್ ವರದಿ: ಮುಖ್ಯಮಂತ್ರಿಗಳಿಗೊಂದು ಬಹಿರಂಗ ಪತ್ರ!](https://www.varthabharati.in/mano-boomike/kasturirangan-report-an-open-letter-to-the-chief-minister-2276458)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Emkay Global Financial (5.0)
+- Asian Games (4.0)
 - Iran (3.9)
 - Nila Vikhe Patil (3.0)
-- Asian Games (3.0)
-- ICICI Securities (3.0)
-- target (3.0)
 - Mumbai (2.9)
 - India (2.6)
-- What (2.6)
+- Senior (2.6)
 - Houthis (2.6)
-- Rahul (2.5)
-- PM Modi's (2.0)
-- Rahul Gandhi (2.0)
-- Buy Bajaj Finance (2.0)
+- Rahul (2.2)
+- Payal Mehta (2.0)
 - Maharashtra (1.9)
+- Parliament (1.9)
+- Trump (1.9)
+- Delhi (1.9)
+- Party (1.6)
+- Gandhi's (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [Video: Salman Khan falls as his health deteriorates on Bigg Boss 20](https://www.siasat.com/video-salman-khan-falls-as-his-health-deteriorates-on-bigg-boss-20-3545001/)
+- [Ajit Agarkar: রোহিত শর্মার জেরেই প্রধান নির্বাচক হিসাবে চাকরি যাচ্ছে অজিত আগরকরের?](https://bengali.abplive.com/sports/cricket/indian-cricket-captain-rohit-sharma-and-bcci-chief-selector-ajit-agarkar-1193481)
+- ['जहां ऐसा हो खींचकर चमाट मारो', कटरीना की बॉडी शेमिंग करने वालों पर भड़के सलमान, कपड़े उतारे और कहा- करो ट्रोल](https://navbharattimes.indiatimes.com/tv/bigg-boss/salman-khan-slammed-katrina-kaif-body-shaming-trolls-after-she-became-a-mother-during-bigg-boss-20-weekend-ka-vaar/articleshow/134359412.cms)
+- [റിയാദ് വിമാനത്താവളത്തിൽ വിമാന സർവീസുകൾക്ക് തടസ്സം; നിരവധി വിമാനങ്ങൾ റദ്ദാക്കി](https://www.mathrubhumi.com/pravasi/saudi-arabia/riyadh-airport-flight-disruptions-cancellations-y35jpopd)
+- [இந்தியா, சீனா மீது 100% வரி: மசோதாவுக்கு ட்ரம்ப் ஒப்புதல்](https://www.hindutamil.in/news/world/trump-approved-100-tax-on-india-bill)
+- [Rakhi Sawant On Rohit Sharma : तू मुंबईचा राजा, तर मी राणी...; रोहित शर्माला धमकी देत राखी सावंतने भररस्त्यात घातला राडा, नेमकं काय घडलं? पाहा VIDEO](https://marathi.abplive.com/sports/cricket/rakhi-sawant-blasts-rohit-sharma-in-latest-viral-drama-video-marathi-news-1439635)
 - [Trump says he will appoint a new AI adviser, without providing details](https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/)
 - [സമൂഹ മാധ്യമങ്ങളിലൂടെ അപകീർത്തിപ്പെടുത്തിയെന്ന കേസ്: ഹെലൻ ഓഫ് സ്പാർട്ട അറസ്റ്റിൽ, ജാമ്യത്തിൽ വിട്ടു](https://www.manoramaonline.com/news/latest-news/2026/09/20/influencer-helen-of-sparta-dhanya-arrested-in-thrissur-released-on-bail.html)
 - [‘We needed a change’ - Hansi Flick explains starting Dominik Livaković over Wojciech Szczęsny for Barcelona vs Sevilla](https://www.barcablaugranes.com/barcelona-la-liga/132889/hansi-flick-starting-dominik-livakovic-wojciech-szczesny-sevilla)
 - [റിയാദിലും അൽഖർജിലും അപകട മുന്നറിയിപ്പ് പിൻവലിച്ചു](https://www.mathrubhumi.com/pravasi/saudi-arabia/riyadh-alkharj-danger-warning-lifted-saudi-civil-defense-i4qkofq2)
-- [देन में शुरू हो गई आनाकानी, कैश का दबाव बना रहे व्यापारी](https://www.jagran.com/news/national-traders-oppose-upi-mdr-on-payments-over-2000-40378843.html)
-- [മെസ്സിയുടെ പേരിലെ ‘കള്ളക്കളി’ കേന്ദ്ര ഏജൻസികൾ കളത്തിലിറങ്ങിയേക്കും](https://www.madhyamam.com/kerala/messi-name-fraud-central-agencies-may-launch-probe-1556038)
-- [શું TMC ની હાલત પણ શિવસેના-NCP જેવું થશે? જાણો મમતા બેનર્જી પાસે હવે કયા વિકલ્પો છે](https://gujarati.abplive.com/news/india/tmc-crisis-mamata-banerjee-options-party-symbol-freeze-eci-decision-news-991595)
-- [1 अक्टूबर से बदल जाएगा LPG सिलेंडर बुकिंग का नियम, सब्सिडी के लिए आधार बायोमेट्रिक जरूरी](https://www.aajtak.in/business/utility/story/biometric-authentication-mandatory-for-lpg-cylinder-booking-from-october-1-ntcpvp-dskc-2647588-2026-09-19)
-- [અમદાવાદના કાલુપુર બ્રિજ પર AMTSએ 4 થી 5 વાહનોને મારી ટક્કર, ગફલતભરી રીતે બસ હાંકનાર ડ્રાઇવરની અટકાયત](https://www.gujaratsamachar.com/news/ahmedabad/amts-hits-4-to-5-vehicles-on-kalupur-bridge-in-ahmedabad-29438752906)
-- [പൃഥ്വി ഷായ്ക്ക് വീണ്ടും ‘ഷോക്ക്’, തിരിച്ചുവരവ് സാധ്യമോ?- Prithvi Shaw](https://www.manoramaonline.com/sports/cricket/2026/09/19/prithvi-shaw-career-struggles.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
