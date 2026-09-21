@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-21 04:01:59
+# India Trending Report — 2026-09-21 04:37:23
 
 ## Google Trends (India) — top trending searches
-1. [nse ipo gmp](https://trends.google.com/trending/rss?geo=IN)
-2. [inter miami vs](https://trends.google.com/trending/rss?geo=IN)
-3. [road accident](https://trends.google.com/trending/rss?geo=IN)
-4. [samsung one ui 9](https://trends.google.com/trending/rss?geo=IN)
-5. [coastal road mumbai](https://trends.google.com/trending/rss?geo=IN)
-6. [tiger cat](https://trends.google.com/trending/rss?geo=IN)
-7. [crude oil price](https://trends.google.com/trending/rss?geo=IN)
-8. [fc barcelona match](https://trends.google.com/trending/rss?geo=IN)
-9. [nfl](https://trends.google.com/trending/rss?geo=IN)
-10. [8वें वेतन आयोग सैलरी](https://trends.google.com/trending/rss?geo=IN)
+1. [kite](https://trends.google.com/trending/rss?geo=IN)
+2. [mail](https://trends.google.com/trending/rss?geo=IN)
+3. [sensex](https://trends.google.com/trending/rss?geo=IN)
+4. [nse ipo gmp](https://trends.google.com/trending/rss?geo=IN)
+5. [inter miami vs](https://trends.google.com/trending/rss?geo=IN)
+6. [road accident](https://trends.google.com/trending/rss?geo=IN)
+7. [samsung one ui 9](https://trends.google.com/trending/rss?geo=IN)
+8. [coastal road mumbai](https://trends.google.com/trending/rss?geo=IN)
+9. [tiger cat](https://trends.google.com/trending/rss?geo=IN)
+10. [teams](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -18,7 +18,7 @@
 - [Pakistan braces for protests as govt warns of $400 million daily loss](https://timesofindia.indiatimes.com/world/pakistan/pakistan-braces-for-protests-as-govt-warns-of-400-million-daily-loss/articleshow/134379349.cms)
 - [Delhi SIRprises: Jaishankar, Dhankhar, Advani & more issued notices for ‘discrepancies’](https://timesofindia.indiatimes.com/city/delhi/lk-advani-dhankar-sisodia-also-issued-sir-notices/articleshow/134372553.cms)
 - [‘Travel to Coimbatore, Madurai’: Annamalai takes swipe at Vijay’s UK trip](https://timesofindia.indiatimes.com/india/travel-to-coimbatore-madurai-annamalai-takes-swipe-at-vijays-uk-trip/articleshow/134379094.cms)
-- [Anthropic CEO may release new AI model ahead of IPO](https://timesofindia.indiatimes.com/technology/tech-news/anthropic-ceo-of-which-called-for-slowing-ai-development-may-release-new-model-ahead-of-ipo/articleshow/134378249.cms)
+- [Bill Gates ex-wife reveals why she didn’t fund daughter's startup](https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-said-his-children-will-inherit-less-than-1-of-his-wealth-ex-wife-melinda-gates-is-making-sure-of-it-reveals-why-she-didnt-fund-daughters-startup/articleshow/134379542.cms)
 - [Mumbai student alleges home search after pro-Palestine campaign](https://timesofindia.indiatimes.com/city/mumbai/mumbai-student-claims-cops-raid-after-taking-part-in-pro-palestine-campaign/articleshow/134378096.cms)
 - [AfD tops another German state poll, Merz’s CDU crashes to historic low](https://timesofindia.indiatimes.com/world/rest-of-world/afd-tops-another-german-state-poll-merzs-cdu-crashes-to-historic-low/articleshow/134378082.cms)
 - [Oil prices eases as Saudi supply recovery offsets Houthi attacks, US-Iran tensions](https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-brent-crude-eases-as-saudi-supply-recovery-offsets-houthi-attacks-us-iran-tensions/articleshow/134378182.cms)
@@ -38,6 +38,9 @@
 - ['Peace Our First Priority': Zelensky Says He'll Meet Trump In New York](https://www.ndtv.com/world-news/peace-our-first-priority-zelensky-says-hell-meet-trump-in-new-york-12074153#publisher=newsstand)
 
 **Hindustan Times**
+- [2 Indian students killed in Canada plane crash during flight training; consulate expresses grief](https://www.hindustantimes.com/india-news/2-indian-students-killed-in-canada-plane-crash-during-flight-training-consulate-expresses-grief-101789961727774.html)
+- [Mother throws toddler, nephew into well after dispute with husband; arrested](https://www.hindustantimes.com/india-news/mother-throws-toddler-nephew-into-well-after-dispute-with-husband-arrested-101789962419487.html)
+- [Basic trainer aircraft supplies hinge on timely engine deliveries by US: HAL](https://www.hindustantimes.com/india-news/basic-trainer-aircraft-supplies-hinge-on-timely-engine-deliveries-by-us-hal-101789962997204.html)
 - [Non-veg food thrown near Ganesh idol immersion event in Hyderabad, 3 detained](https://www.hindustantimes.com/india-news/nonveg-food-thrown-near-ganesh-idol-immersion-event-in-hyderabad-3-detained-101789959639102.html)
 - [Year after violent statehood protests, Sonam Wangchuk to lead 20-km march on Sep 23](https://www.hindustantimes.com/india-news/year-after-violent-statehood-protests-wangchuk-to-lead-20-km-march-on-sep-23-101789961136702.html)
 - [HT Morning Brief September 21: Tata dispute, Delhi SIR notices and Putin's stronghold in wartime elections](https://www.hindustantimes.com/india-news/ht-morning-brief-september-21-tata-dispute-delhi-sir-notices-and-putins-stronghold-in-wartime-elections-101789959691940.html)
@@ -45,9 +48,6 @@
 - [CM: All-party delegation to convey K’taka views to govt on Kasturirangan report](https://www.hindustantimes.com/india-news/cm-all-party-delegation-to-convey-k-taka-views-to-govt-on-kasturirangan-report-101789932089148.html)
 - [FDA cancels 16, suspends 8 drug licences in K’taka](https://www.hindustantimes.com/india-news/fda-cancels-16-suspends-8-drug-licences-in-ktaka-101789932029030.html)
 - [No move to ban politics at Kerala University: Minister](https://www.hindustantimes.com/india-news/no-move-to-ban-politics-at-kerala-university-minister-101789931848851.html)
-- [Govt allows use of mining debris, tweaks green clearance rules](https://www.hindustantimes.com/india-news/govt-allows-use-of-mining-debris-tweaks-green-clearance-rules-101789931807748.html)
-- [Centre has not stated reasons for denying screening permission to 31 films: Keralam minister](https://www.hindustantimes.com/india-news/centre-has-not-stated-reasons-for-denying-screening-permission-to-31-films-keralam-minister-101789931803465.html)
-- [Centre testing AI system to identify rural road defects](https://www.hindustantimes.com/india-news/centre-testing-ai-system-to-identify-rural-road-defects-101789931789298.html)
 
 **Vijay Karnataka**
 - [ಕರಾವಳಿ ಕೇಸರಿ ಕೋಟೆಯಲ್ಲಿ ಡಿಕೆ ಶಿವಕುಮಾರ್ ಸಂಚಲನ : ಬಿಜೆಪಿಗೆ ಎಚ್ಚರಿಕೆಯ ಗಂಟೆ - ಏಕೈಕ ಕಾರಣ ಇದೊಂದೇ ?](https://vijaykarnataka.com/news/karnataka/explainer-coastal-karnataka-bjp-fortress-dk-shivakumar-congress-strategy/articleshow/134379293.cms)
@@ -62,6 +62,7 @@
 - [ಕೈಕೊಟ್ಟ ಉತ್ತರಿ ಮಳೆಯಿಂದ ಬಾಗಲಕೋಟೆಯಲ್ಲಿ 35 ಡಿಗ್ರಿ ತಾಪಮಾನಕ್ಕೆ ತತ್ತರಿಸಿದ ಜನತೆಗೆ IMDಯಿಂದ ಮಳೆಯ ಸಿಹಿಸುದ್ದಿ!](https://vijaykarnataka.com/news/bagalkot/lack-of-rain-bagalkote-records-35-degree-temperature-unusual-heat-even-during-monsoon/articleshow/134378085.cms)
 
 **The Hindu**
+- [Caste bias a 'blot' on Hindu society: RSS leader Hosabale; calls for behavioural change](https://www.thehindu.com/news/national/caste-bias-a-blot-on-hindu-society-rss-leader-hosabale-calls-for-behavioural-change/article71490024.ece)
 - [Locally-built drone is highlight of Belagavi tech summit](https://www.thehindu.com/news/national/karnataka/locally-built-drone-is-highlight-of-belagavi-tech-summit/article71488083.ece)
 - [Agentic AI is not a magic wand | Arundhati Bhattacharya, President and CEO at Salesforce, South Asia](https://www.thehindu.com/sci-tech/technology/agentic-ai-is-not-a-magic-wand-says-arundhati-bhattacharya-president-and-ceo-at-salesforce-south-asia/article71475429.ece)
 - [Mumbai police search activist’s home over kite event for Palestinian children](https://www.thehindu.com/news/cities/mumbai/mumbai-police-search-activists-home-over-kite-event-for-palestinian-children/article71487492.ece)
@@ -71,19 +72,18 @@
 - [Getting away from gunshots](https://www.thehindu.com/news/national/himachal-pradesh/getting-away-from-gunshots/article71484095.ece)
 - [Heavy rains, squally wind likely in West Bengal from September 22](https://www.thehindu.com/news/national/west-bengal/heavy-rains-squally-wind-likely-in-west-bengal-from-september-22/article71488466.ece)
 - [INLD’s Sampat Singh attacks BJP’s ‘Seva Sankalp Abhiyaan’, alleges misuse of State machinery](https://www.thehindu.com/news/national/haryana/inlds-sampat-singh-attacks-bjps-seva-sankalp-abhiyaan-alleges-misuse-of-state-machinery/article71488503.ece)
-- [Lucknow’s S.R. Group of Institutions signs Five-Year MoU with SODES to strengthen digital education, skill development](https://www.thehindu.com/news/national/odisha/lucknows-sr-group-of-institutions-signs-five-year-mou-with-sodes-to-strengthen-digital-education-skill-development/article71488600.ece)
 
 **Livemint**
+- [Why India’s energy security is now caught in Trump’s ‘coercive geopolitics’? Expert weighs in](https://www.livemint.com/news/world/why-india-s-energy-security-is-now-caught-in-trump-s-coercive-geopolitics-expert-weighs-in-11789961181519.html)
+- [250 applications, no offers: IIM Kozhikode grad highlights harsh reality of corporate job market in viral post](https://www.livemint.com/news/250-applications-no-offers-iim-kozhikode-grad-highlights-harsh-reality-of-corporate-job-market-in-viral-post-11789961770921.html)
 - [UK woman quit a high-paying criminal law career for dog-walking, now earns  ₹50,000 a day](https://www.livemint.com/news/trends/uk-woman-quit-a-high-paying-criminal-law-career-for-dog-walking-now-earns-rs-50-000-a-day-11789959996867.html)
 - [Who Was Dhrubajyoti Guha? Indian-origin climber killed in Mt Manaslu avalanche](https://www.livemint.com/news/who-was-dhrubajyoti-guha-indian-origin-climber-killed-in-mt-manaslu-avalanche-11789957742576.html)
 - [Who is Pulkit Mani? Stand-up comedian at centre of Rahul Gandhi-Modi mimicry row](https://www.livemint.com/news/trends/who-is-pulkit-mani-stand-up-comedian-at-centre-of-rahul-gandhi-modi-mimicry-row-bjp-congress-smriti-irani-asanskari-11789958998250.html)
 - [‘I might not have a job tomorrow’: Man's post on colleague's sudden layoff sparks job security debate](https://www.livemint.com/news/trends/i-might-not-have-a-job-tomorrow-mans-post-on-colleagues-sudden-layoff-sparks-job-security-debate-11789954889071.html)
 - [Petrol, diesel prices today, September 21: Check rates in Delhi, Mumbai, Bengaluru](https://www.livemint.com/news/india/petrol-diesel-prices-today-september-21-check-rates-in-delhi-mumbai-bengaluru-11789953749691.html)
-- [US-Iran war LIVE Updates: US issues Iran travel warning, Tehran warns of 'continuous, painful' attacks on US bases if...](https://www.livemint.com/news/us-news/usiran-war-live-update-donald-trump-strait-of-hormuz-tehran-travel-warning-painful-attacks-us-bases-saudi-yemen-houthis-11789953418288.html)
+- [US-Iran war LIVE Updates: IRGC says it shot down US MQ-1 drone over Strait of Hormuz](https://www.livemint.com/news/us-news/usiran-war-live-update-donald-trump-strait-of-hormuz-tehran-travel-warning-painful-attacks-us-bases-saudi-yemen-houthis-11789953418288.html)
 - [Man Shot by ICE Agent in Austin, Texas, Sparking Mayor’s Ire](https://www.livemint.com/news/man-shot-by-ice-agent-in-austin-texas-sparking-mayor-s-ire-11789949689784.html)
 - [Dutch Police Break Up Violent Far-Right Protest in The Hague](https://www.livemint.com/news/dutch-police-break-up-violent-far-right-protest-in-the-hague-11789946269251.html)
-- [What time is 60 Minutes on tonight? How to watch Patrick Clancy’s first TV interview on CBS](https://www.livemint.com/news/us-news/what-time-is-60-minutes-on-tonight-how-to-watch-patrick-clancy-s-first-tv-interview-on-cbs-11789938984690.html)
-- [‘Gaslit by a king’: Charles Spencer breaks silence after Palace response to his Diana memoir](https://www.livemint.com/news/world/gaslit-by-a-king-charles-spencer-breaks-silence-after-palace-response-to-his-diana-memoir-swan-song-11789924380610.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,16 +98,16 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ರಾಹುಲ್ ಕಾಪಿ ಮಾಡುತ್ತಿದ್ದಾರಾ ಮೋದಿ?](https://www.varthabharati.in/on-record/is-rahul-copying-modi-2276693)
+- [1,400 ಕುಟುಂಬಗಳನ್ನು ತೆರವುಗೊಳಿಸಿದ ಜಾಗದಲ್ಲಿ ಅದಾನಿ ವಿದ್ಯುತ್ ಯೋಜನೆಗೆ ಅಸ್ಸಾಂ ಸಿಎಂ ಶಂಕುಸ್ಥಾಪನೆ](https://www.varthabharati.in/National/assam-cm-lays-foundation-stone-for-adani-power-project-on-land-cleared-of-1400-families-2276692)
+- [ಯಾರು ದೇಶ ದ್ರೋಹಿಗಳು](https://www.varthabharati.in/prachalita/who-are-the-traitors-2276691)
+- [ಬಲೂಚಿಸ್ತಾನದಲ್ಲಿ ಪಾಕ್ ಪಡೆಯ ಕಾರ್ಯಾಚರಣೆ: ಐವರು ಉಗ್ರರ ಹತ್ಯೆ, 23 ಒತ್ತೆಯಾಳುಗಳ ರಕ್ಷಣೆ](https://www.varthabharati.in/international/pakistani-forces-operation-in-balochistan-five-terrorists-killed-23-hostages-rescued-2276688)
 - [Mumbai | ಬೊರಿವಲಿಯ ಗರ್ಬಾ ಕಾರ್ಯಕ್ರಮಕ್ಕೆ ಮುಸ್ಲಿಮರಿಗೆ ನಿಷೇಧ: BJP ಶಾಸಕ ಸಂಜಯ್ ಉಪಾಧ್ಯಾಯ](https://www.varthabharati.in/National/mumbai-muslims-banned-from-borivali-garba-event-bjp-mla-sanjay-upadhyay-2276686)
 - [ಚಂದ್ರಶೇಖರನ್ ಮರುನೇಮಕಕ್ಕೆ ಟಾಟಾ ಟ್ರಸ್ಟ್ಸ್ ಆಕ್ಷೇಪ | ‘4:1ರ ಮತದಾನ ಅಪ್ರಸ್ತುತ; ಇಬ್ಬರು ನಾಮನಿರ್ದೇಶಿತ ನಿರ್ದೇಶಕರ ಬೆಂಬಲ ಅಗತ್ಯ’](https://www.varthabharati.in/National/tata-trusts-objects-to-chandrasekarans-reappointment-41-vote-irrelevant-support-of-two-nominee-directors-required-2276665)
 - [ಮಾವೊವಾದಿ ನಾಯಕ ಬ್ರಿಜೇಶ್ ಗಂಜು ಉತ್ತರ ಪ್ರದೇಶದ ಎಟಿಎಸ್‌ನ ಎನ್‌ಕೌಂಟರ್‌ಗೆ ಬಲಿ](https://www.varthabharati.in/National/maoist-leader-brijesh-ganju-killed-in-an-encounter-by-the-uttar-pradesh-ats-2276685)
 - [ಎಎಸ್‌ಡಿಡಿಒ ಪಟ್ಟಿಯಲ್ಲಿ ಹೆಸರು: ಮತದಾರರಿಗೇ ಮಾಹಿತಿ ಇಲ್ಲ!](https://www.varthabharati.in/nimma-ankana/name-on-asddo-list-voters-themselves-have-no-information-2276666)
 - [ಡಿಕೆಶಿ ಬೀಸಿದ ಬಲೆಗೆ ಬಿದ್ದೀತೆ ಮಂಗಳೂರಿನ ಮೀನು?](https://www.varthabharati.in/sampaadakeeya/did-the-fish-of-mangalore-fall-into-the-trap-set-by-dkshivakumar-2276664)
 - [ಮುಂಬೈ ಹೈರಾಕ್ಸ್ ಫಿಟ್ನೆಸ್ ರೇಸ್ ಪೂರ್ಣಗೊಳಿಸಿದ ದಕ್ಷಿಣ ಕನ್ನಡ ಜಿಲ್ಲಾಧಿಕಾರಿ ದರ್ಶನ್ ಎಚ್‌.ವಿ](https://www.varthabharati.in/national/mumbai-hyrox-fitness-race-completed-by-south-kannada-district-collector-darshan-hv-2276663)
-- [ಇರಾನ್ ಯುದ್ಧದ ಬಗ್ಗೆ ಟ್ರಂಪ್‌ ಮಹತ್ವದ ಸುಳಿವು; ಮೂರು ಆಯ್ಕೆಗಳು ಮುಂದಿಟ್ಟ ಅಮೆರಿಕ](https://www.varthabharati.in/international/trump-drops-significant-hint-regarding-iran-war-us-presents-three-options-2276662)
-- [ಅಡ್ಡೂರು ಸೆಂಟ್ರಲ್ ಕಮಿಟಿಯಿಂದ ಎಕ್ಸಲೆನ್ಸ್ ಅವಾರ್ಡ್ ವಿತರಣೆ, ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸನ್ಮಾನ](https://www.varthabharati.in/DakshinaKannada/--2276660)
-- [ಸರಕಾರ ಆರೋಗ್ಯ, ಶಿಕ್ಷಣಕ್ಕೆ ಮೊದಲ ಆದ್ಯತೆ ನೀಡಿದೆ : ಬೈರತಿ ಸುರೇಶ್](https://www.varthabharati.in/bangalore-city/--2276659)
-- [ʼವಂದೇ ಮಾತರಂʼ ಮೊದಲು ಹಾಡಿದ್ದೇ ಕಾಂಗ್ರೆಸ್ಸಿನವರು : ಶಿವರಾಜ್ ತಂಗಡಗಿ](https://www.varthabharati.in/bangalore-city/shivaraj-tangadagi-2276656)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Mumbai (5.2)
@@ -118,27 +118,27 @@
 - IIT-Bombay (2.6)
 - US-Iran (2.6)
 - Tata (2.6)
-- Centre (2.6)
 - Delhi (2.5)
 - Buy Bajaj Finance (2.0)
+- Trump (1.9)
 - Updates (1.6)
 - Court (1.6)
 - Texas (1.6)
-- Keralam (1.6)
+- Minister (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [മഴ കനക്കുന്നു: വാഗമൺ-ഈരാറ്റുപേട്ട റോഡിൽ മണ്ണിടിച്ചിൽ; 2 ജില്ലകളിൽ ഓറഞ്ച് അലർട്ട്](https://www.manoramaonline.com/news/latest-news/2026/09/20/kerala-weather-update-heavy-rain-forecasted-yellow-alert-issued-for-districts.html)
-- [बिहार NDA में पावर बैलेंस: BJP के स्पीकर और CM, अब JDU को मिलेगा विधान परिषद सभापति का पद](https://www.jagran.com/bihar/patna-city-jdu-to-head-bihar-legislative-council-chairman-post-40379647.html)
-- [కోస్గి కాలేజీ సెంటిమెంట్‌‌.. చంద్రబాబు, రేవంత్ సీఎంలయ్యారు.. కవిత ఆసక్తికర వ్యాఖ్యలు](https://telugu.samayam.com/telangana/mahabubnagar/kalvakuntla-kavitha-recalls-2009-kosgi-campaign-with-chandrababu-revanth-reddy-in-telangana-rakshana-sena-panchajanya-sankalpa-sabha/articleshow/134370711.cms)
-- [ZIM vs AUS, 3rd ODI, Australia tour of Zimbabwe 2026](https://www.cricbuzz.com/player-match-performance/match/152753/player/278/bowling?inningsId=2)
-- [राहुल गांधी के मंच पर पीएम मोदी की मिमिक्री, पुलकित मणि का कॉमेडी शो कैंसिल, बोले- माफी मांगता हूं](https://www.livehindustan.com/ncr/noida/pm-narendra-modi-mimicked-on-rahul-gandhi-stage-pulkit-mani-noida-comedy-show-cancelled-201789917844804.html)
-- [हामिद अंसारी ने हिंदू दक्षिणपंथ को लेकर क्या हवाला दिया जिस पर बोले योगी और ओवैसी](https://www.bbc.com/hindi/articles/cw99dlr0vyljo)
-- [Karnataka busts fake drug racket, suspends license of Pfizer depot, 7 other firms](https://www.indiatoday.in/cities/bengaluru/story/karnataka-fda-bidadi-fake-drug-racket-pfizer-7-licenses-suspended-2999051-2026-09-20)
-- ['चांद पर किसी देश का हक नहीं', ट्रंप के दावे पर मचा बवाल; क्या कहता है अंतरिक्ष कानून?](https://www.jagran.com/world/america-trump-moon-is-ours-claim-what-outer-space-treaty-says-40379643.html)
-- [इटली के स्कूलों में बुर्के पर लगेगा बैन, पीएम मेलोनी का बड़ा ऐलान; अगले साल हैं चुनाव](https://www.livehindustan.com/international/italian-schools-to-ban-burqas-pm-meloni-makes-big-announcement-elections-are-next-year-201789918456596.html)
-- [Meet Alexander Du, the 17-year-old Sewickley student who built $170 AI-powered glasses to help visually impaired users navigate after his grandmother lost her sight](https://timesofindia.indiatimes.com/science/discovery/meet-alexander-du-the-17-year-old-sewickley-student-who-built-170-ai-powered-glasses-to-help-visually-impaired-users-navigate-after-his-grandmother-lost-her-sight/articleshow/134370937.cms)
+- ['राजनीति की पिच' पर एंट्री करेंगे क्रिकेटर मोहम्मद शमी? जयंत चौधरी से मुलाकात के बाद सियासी हलचल तेज](https://www.livehindustan.com/uttar-pradesh/will-cricketer-mohammed-shami-enter-political-arena-political-speculation-intensifies-following-meeting-jayant-chaudhary-201789921512480.html)
+- [लालबाग परिसरात भक्तांना विजेचा धक्का, चिमुकलीसह महिलेचा मृत्यू, एक गंभीर](https://saamtv.esakal.com/mumbai-pune/mumbai-lalbaug-kalachowki-mahaganpati-ganesh-festival-electric-shock-incident-woman-eight-year-old-girl-dies-four-injured-safety-negligence-allegation-om0906)
+- [SIR notices to Jaishankar, Election Commissioner Sandhu, former CECs](https://www.thehindu.com/news/cities/Delhi/economist-bibek-debroy-who-passed-away-in-2024-flagged-for-notice-in-delhi-sir/article71487130.ece)
+- [’சிக்மா’ படம் ஒரு ஜாலியான அனுபவம்! - இயக்குநர் ராஜமௌலி](https://www.puthiyathalaimurai.com/cinema/director-rajamouli-praises-the-jason-sanjay-movie-sigma-as-a-fun-experience)
+- [कोस्टलवर BMW कारचा भीषण अपघात, BMW फुटबॉलसारखी हवेत उडाली](https://saamtv.esakal.com/mumbai-pune/mumbai-coastal-road-bmw-car-accident-haji-ali-bridge-falls-down-three-killed-one-seriously-injured-high-speed-car-crash-road-safety-issue-om0906)
+- [Flash flood in Nilambur river sweeps away nine; two dead, four missing](https://www.onmanorama.com/news/kerala/2026/09/20/flash-flood-in-nilambur-river-sweeps-away-nine-two-dead-four-missing.html)
+- [ચહેરો ઢાંકેલો હોય તો શાળામાં નો એન્ટ્રી! બુરખા-નકાબ પર લાગશે પ્રતિબંધ, PM મેલોનીનો મોટો નિર્ણય](https://www.gujaratsamachar.com/news/international/no-more-covering-your-face-at-school-italian-schools-to-ban-burqas-and-niqabs-pm-melonis-big-decision-94686782692)
+- [Apple Watch Series 12 preorder deal: Save on Apple’s new smartwatch at Amazon](https://mashable.com/tech/sept-16-apple-watch-series-12-preorder-deal)
+- [ஜெர்மனி நாட்டின் பிரபல பீர் திருவிழா கோலாகல ஆரம்பம்](https://www.dailythanthi.com/news/world/germanys-famous-beer-festival-begins-with-great-fanfare)
+- [Landslide, flash flood kill 6 in Kerala amid heavy rain alert - video](https://timesofindia.indiatimes.com/city/kochi/3-dead-after-landslide-hits-keralas-idukki/articleshow/134371135.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
