@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-21 20:33:27
+# India Trending Report — 2026-09-21 21:01:53
 
 ## Google Trends (India) — top trending searches
 1. [realme 16 pro](https://trends.google.com/trending/rss?geo=IN)
@@ -14,16 +14,16 @@
 
 ## Latest headlines by outlet
 **Times of India**
+- ['Russia has lost control': Trump flags diesel crisis, calls for end to Ukraine war](https://timesofindia.indiatimes.com/world/us/russia-has-lost-control-trump-flags-diesel-crisis-calls-for-end-to-ridiculous-ukraine-war/articleshow/134389919.cms)
 - [Trump dodged Yemen's plea for military support amid Houthi attacks on Riyadh: Report](https://timesofindia.indiatimes.com/world/middle-east/trump-dodged-yemens-plea-for-military-support-against-houthis-amid-attacks-on-saudi-arabia-report/articleshow/134392205.cms)
 - [Flights grounded at major US airports after construction workers cut backup cable](https://timesofindia.indiatimes.com/world/us/flights-grounded-at-major-us-airports-after-construction-workers-cut-backup-cable/articleshow/134396960.cms)
 - [Ishan is the 'chosen one'? Mayawati's latest U-turn deepens ongoing BSP family drama](https://timesofindia.indiatimes.com/india/the-chosen-one-for-a-role-in-bsp-is-ishan-mayawatis-another-u-turn-in-ongoing-family-drama/articleshow/134392964.cms)
 - [Pak in crisis: PTI to hold Sept 27 stir 'at all costs' for release of Imran Khan](https://timesofindia.indiatimes.com/world/pakistan/pakistan-in-crisis-pti-to-hold-sept-27-stir-at-all-costs-imran-khans-sisters-challenge-detention-orders/articleshow/134394418.cms)
-- [No median cuts, surface intersections on future high-speed NH corridors: NHAI](https://timesofindia.indiatimes.com/india/no-median-cuts-surface-intersections-on-future-high-speed-nh-corridors-nhai/articleshow/134397321.cms)
 - [USCIS warns against websites and businesses ‘guaranteeing’ faster visa](https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-warns-visa-applicants-against-websites-and-businesses-guaranteeing-visa-green-card-or-work-permit-faster/articleshow/134383537.cms)
-- [Trump: ‘Whoever wins AI, wins!’ Calls AI doomsday warnings a ‘hoax’](https://timesofindia.indiatimes.com/world/us/whoever-wins-ai-wins-trump-calls-ai-doomsday-warnings-bigger-hoax-than-climate-change/articleshow/134395249.cms)
+- [Lockheed ready for tech transfer of some parts of Super Hercules to India](https://timesofindia.indiatimes.com/defence/news/ready-for-tech-transfer-of-some-parts-of-super-hercules-to-india-says-lockheed-vp-calls-aircraft-best-option-for-iaf-as-mta-tender-is-out/articleshow/134397508.cms)
 - [Canadian NRI landlord wanted rented Punjab house back; HC allows tenant to stay](https://timesofindia.indiatimes.com/business/india-business/he-moved-to-canada-and-rented-his-punjab-house-for-rs-20000-a-month-then-sought-eviction-to-use-it-during-india-visits-punjab-haryana-hc-rules-against-landlord-allows-tenant-to-stay/articleshow/134380724.cms)
 - [Oilers linked to Dylan Larkin trade in Matthew Savoie-led blockbuster](https://timesofindia.indiatimes.com/sports/nhl/news/oilers-linked-to-blockbuster-dylan-larkin-trade-as-matthew-savoie-led-package-puts-detroit-in-a-difficult-position/articleshow/134379564.cms)
-- [Trump goes off air: US TV networks suspend coverage after White House bans CNN](https://timesofindia.indiatimes.com/world/us/major-us-tv-networks-blackout-trump-coverage-protest-white-house-ban-on-cnn/articleshow/134393531.cms)
+- [No median cuts, surface intersections on future high-speed NH corridors: NHAI](https://timesofindia.indiatimes.com/india/no-median-cuts-surface-intersections-on-future-high-speed-nh-corridors-nhai/articleshow/134397321.cms)
 
 **NDTV**
 - [Hundreds Of US Flights Cancelled After Air Traffic Control Malfunction](https://www.ndtv.com/world-news/hundreds-of-us-flights-cancelled-after-air-traffic-control-malfunction-12078490#publisher=newsstand)
@@ -65,15 +65,16 @@
 - [Plea in M.P. High Court seeks closure of Ladli Behna scheme over its financial cost; notice issued to government](https://www.thehindu.com/news/national/madhya-pradesh/plea-in-mp-high-court-seeks-closure-of-ladli-behna-scheme-over-its-financial-cost-notice-issued-to-government/article71492485.ece)
 - [Party-backed councillors detained in Haryana ahead of Rajasthan local body poll, alleges Congress](https://www.thehindu.com/news/national/haryana/party-backed-councillors-detained-in-haryana-ahead-of-rajasthan-local-body-poll-alleges-congress/article71492331.ece)
 - [100% drought likely to be declared in Maharashtra by month-end, says Minister](https://www.thehindu.com/news/national/maharashtra/100-drought-likely-to-be-declared-in-maharashtra-by-month-end-says-minister/article71492104.ece)
+- [J&K House Committee finds ‘irregularities’ in Jal Jeevan Mission, calls for probe](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-house-committee-finds-irregularities-in-jal-jeevan-mission-calls-for-probe/article71492474.ece)
 - [BDCC bank waiting for govt. sanction for recruitment, says MLA](https://www.thehindu.com/news/national/karnataka/bdcc-bank-waiting-for-govt-sanction-for-recruitment-says-mla/article71492310.ece)
 - [Belagavi students trained by zilla panchayat get into premier institutions](https://www.thehindu.com/news/national/karnataka/belagavi-students-trained-by-zilla-panchayat-get-into-premier-institutions/article71492176.ece)
 - [Supreme Court orders fresh probe into 2012 rape-murder near Dharmasthala in Karnataka](https://www.thehindu.com/news/national/karnataka/supreme-court-orders-fresh-probe-into-2012-rape-murder-near-dharmasthala-in-karnataka/article71492604.ece)
 - [Ram Temple donations theft case: SIT report finds 105 instances of unauthorised currency removal](https://www.thehindu.com/news/national/ram-temple-donations-theft-case-chargesheet-on-or-before-september-25/article71491193.ece)
 - [New checklist by Keralam research team records 3,261 flowering plant species in Agasthyamalai Biosphere Reserve](https://www.thehindu.com/news/national/kerala/new-checklist-by-keralam-research-team-records-3261-flowering-plant-species-in-agasthyamalai-biosphere-reserve/article71490560.ece)
 - [Karnataka to track cancer patients after fake drug bust](https://www.thehindu.com/news/national/karnataka/karnataka-to-track-cancer-patients-after-fake-drug-bust/article71492327.ece)
-- [ASR Collector reviews ‘Trishul’ strategy against crime in district](https://www.thehindu.com/news/national/andhra-pradesh/asr-collector-reviews-trishul-strategy-against-crime-in-district/article71492521.ece)
 
 **Livemint**
+- [El Nino ties record intensity: What 3.07°C Pacific warming means for weather from Central America to Indonesia](https://www.livemint.com/news/world/el-nino-ties-record-intensity-what-3-07-c-pacific-warming-means-for-weather-from-central-america-to-indonesia-11790019836871.html)
 - [UN Scrambles to Avoid a Repeat of Trump’s 2025 Escalator Snafu](https://www.livemint.com/news/world/un-scrambles-to-avoid-a-repeat-of-trump-s-2025-escalator-snafu-11790021316160.html)
 - [NYC Airports Face Delays After Air Traffic Control Outage](https://www.livemint.com/news/nyc-airports-face-delays-after-air-traffic-control-outage-11790020581299.html)
 - [Jennifer Eckhart dies at 36: Former Fox Business producer found dead at Florida home- What we know](https://www.livemint.com/news/us-news/jennifer-eckhart-dies-at-36-former-fox-business-producer-found-dead-at-florida-home-what-we-know-11790014231126.html)
@@ -83,7 +84,6 @@
 - [Bengaluru rent leaves woman shocked,  ₹60,000 for 2BHK with  ₹3-8 lakh deposit: ‘You might find God, but house not sure…’](https://www.livemint.com/news/trends/bengaluru-rent-leaves-woman-shocked-60-000-for-2bhk-with-3-8-lakh-deposit-you-might-find-god-but-house-not-sure-11790011208667.html)
 - [Looksmaxxing, cuffing season, vibe coding and more: US dictionary Merriam-Webster gets a ‘glow up’ with 1,400 new words](https://www.livemint.com/news/trends/looksmaxxing-cuffing-season-vibe-coding-and-more-us-dictionary-merriam-webster-gets-a-glow-up-with-1-400-new-words-11790007182033.html)
 - ['I was completely fine with it': Patrick Clancy on suicidal thoughts, his children and starting a new family](https://www.livemint.com/news/us-news/i-was-completely-fine-with-it-patrick-clancy-on-suicidal-thoughts-his-children-and-starting-a-new-family-11790002337400.html)
-- [Trump blocks CNN, MS NOW and Politico: Why White House press pool matters](https://www.livemint.com/news/us-news/trump-blocks-cnn-ms-now-and-politico-why-white-house-press-pool-matters-11790006906123.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,35 +100,35 @@
 - [ಪೌರಕಾರ್ಮಿಕರ ಸ್ಥಿತಿಗತಿ ಅಧ್ಯಯನಕ್ಕೆ ಸಮಿತಿ ರಚಿಸಿ: ಸಿಎಂಗೆ ಪತ್ರಕರ್ತರ ಬಳಗ ಮನವಿ](https://www.varthabharati.in/bangalore-city/--2276944)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (6.8)
+- Trump (4.2)
+- India (2.6)
 - Karnataka (2.6)
+- What (2.6)
 - Tumakur (2.6)
 - Police (1.9)
 - Flights (1.6)
 - Maharashtra (1.6)
+- Russia (1.3)
+- Ukraine (1.3)
 - Yemen's (1.3)
 - Houthi (1.3)
 - Riyadh (1.3)
 - Report (1.3)
 - Ishan (1.3)
-- Mayawati's (1.3)
-- U-turn (1.3)
-- Sept (1.3)
-- NHAI (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [RAW फाउंडर रामेश्वर नाथ काव बायोपिक: 'जेंटलमैन स्पाईमास्टर' के 16 साल की कहानी, कश्‍मीरी पंडित परिवार और बनारस](https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/biopic-on-raw-founder-rameshwar-nath-kao-karan-johar-big-announcement-story-will-span-16-years-of-the-gentleman-spymaster/articleshow/134384583.cms)
-- [Bank strike from September 28-30 as unions demand 5-day work week: Banks may be shut for 5 days in a row as September 26-27 are holidays; SBI, Union Bank issue customer advisories](https://timesofindia.indiatimes.com/business/india-business/bank-strike-from-september-28-30-as-unions-demand-5-day-work-week-banks-may-be-shut-for-5-days-in-a-row-as-september-26-27-are-holidays-sbi-union-bank-issue-customer-advisories/articleshow/134384019.cms)
-- [Shreyas Iyer : 'श्रेयस मला तू खूप आवडतोस'; तरूण चाहतीला कॅप्टनचं एका शब्दात उत्तर, पण वैभवने शेवटी जाताना केलेल्या कृतीची चर्चा](https://maharashtratimes.com/sports/cricket/cricket-news/team-india-captain-shreyas-iyer-female-fan-proposal-vaibhav-sooryavanshi-gesture-viral-vide/articleshow/134384106.cms)
-- [Who was R.N. Kao? Inside the life of India’s first R&AW chief who worked with Indira Gandhi and inspired Karan Johar’s upcoming film](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-was-r-n-kao-inside-the-life-of-indias-first-raw-chief-who-worked-with-indira-gandhi-and-inspired-karan-johars-upcoming-film/articleshow/134384543.cms)
-- [Explained: UP का बंटवारा चुनाव से पहले कितना जरूरी? योगी के मंत्री राजभर का दावा क्या](https://www.abplive.com/states/up-uk/op-rajbhar-said-uttar-pradesh-divide-in-four-areas-purvanchal-bundelkhand-awadh-and-west-untill-up-election-2027-explained-3191792)
-- [Goldman Sachs-এর সতর্কবার্তা](https://eisamay.com/business/stock-finance/it-stocks-fall-oracle-ofss-h1b-visa-fee-goldman-sachs-warning/200545422.cms)
-- [How Trump and Xi went from tariff war to trade truce](https://www.reuters.com/business/aerospace-defense/how-trump-xi-went-tariff-war-trade-truce-2026-09-21/)
-- [খাম প্রতীক নিয়ে বিতর্ক! কলকাতা হাইকোর্টে গেলেন আইএসএফ বিধায়ক নওশাদ সিদ্দিকি](https://www.thewall.in/west-bengal/isf-mla-nawsad-siddique-moves-to-high-court-about-party-symbol-issue/tid/205305)
-- [અમદાવાદના બાવળા નજીક ફતેવાડી કેનાલમાંથી 8 વર્ષની બાળકીનો મૃતદેહ મળ્યો, હત્યા કે અકસ્માત અંગે પોલીસે તપાસ શરૂ](https://www.gujaratsamachar.com/news/ahmedabad/body-of-8-year-old-girl-found-in-fatehwadi-canal-near-bavla-ahmedabad-police-start-investigation-into-or-48005382529)
-- [ఉపాధ్యాయులపై వైసీపీ నేతల దాడి.. మంత్రి బీసీ జనార్దన్ రెడ్డి ఫైర్..](https://www.andhrajyothy.com/2026/andhra-pradesh/krishna/mega-dsc-sports-quota-controversy-shap-office-vijayawada-ysrcp-leaders-minister-bc-janardhan-reddy-suri-1559971.html)
+- [হকিতে ইন্দোনেশিয়াকে ১৭ গোল, দু’ম‌্যাচে ৩৬ গোল দীপিকাদের](https://www.aaroananda.com/story/sports-news/breaking-news/india-women-hockey-team-historic-victory-at-asian-games/11020637)
+- [Minor girl, her friend harassed in Bihar’s Jamui; culprits in police custody, political slugfest ensues](https://www.thehindu.com/news/national/bihar/minor-girl-her-friend-harassed-in-bihars-jamui-culprits-in-police-custody-political-slugfest-ensues/article71490725.ece)
+- [ഇന്ത്യ-ജപ്പാന്‍ ചരിത്രപരമായ ടി20 പോരാട്ടം നാളെ സാനോയില്‍; അവസരം കാത്ത് കൗമാരതാരം വൈഭവ് സൂര്യവംശി](https://www.asianetnews.com/cricket-sports/historic-india-vs-japan-t20i-in-sano-tomorrow-and-vaibhav-sooryavanshi-eyes-opportunity-articleshow-bd64xl8)
+- [இளவேனில் வாலறிவன்: ஆசிய விளையாட்டுப் போட்டியில் 2 வெள்ளிப் பதக்கங்களை வென்றது எப்படி?](https://www.bbc.com/tamil/articles/cxyvz2gyvqmvo)
+- [मिरजमध्ये मोठी दुर्घटना, सिव्हिल हॉस्पिटलबाहेर स्लॅब कोसळला, 7 जण जखमी](https://www.tv9marathi.com/maharashtra/miraj-civil-hospital-slab-collapse-many-trapped-in-major-accident-1760908.html)
+- [एशियन गेम्स में आर माधवन का बेटा, जानें कैसा रहा डेब्यू मुकाबला](https://www.aajtak.in/entertainment/bollywood-news/story/r-madhavan-son-vedaant-first-asian-games-for-india-swimming-qualifiers-result-tmovj-dskc-2649008-2026-09-21)
+- [आंबेडकर का आइडिया, मायावती का प्रस्ताव... 71 साल पुराना है यूपी को 4 हिस्सों में बांटने का मंसूबा](https://www.aajtak.in/elections/assembly-chunav/story/up-divided-in-4-states-proposal-history-ambedkar-mayawati-rajbhar-poliitcal-game-ntcpkb-dskc-2649001-2026-09-21)
+- [Mumbai Crime BMW Car Accident: कोस्टल रोडवर 100 च्या स्पीडने BMW कार चालवणाऱ्या शनय गज्जलबद्दल धक्कादायक माहिती समोर, पोलिसांच्या तपासात काय कळालं?](https://marathi.abplive.com/crime/mumbai-crime-bmw-car-accident-coastal-road-shocking-information-came-into-light-about-shanay-gajjal-drink-and-drive-case-marathi-news-1439780)
+- [CTMની સ્કૂલમાં ધોરણ 4ના વિદ્યાર્થીએ વિદ્યાર્થીનીને ' આઈ લવ યુ' લખેલી ચિઠ્ઠી આપી, શિક્ષકે ફટકાર્યો હવે પોલીસ ફરિયાદ](https://www.gujaratsamachar.com/news/ahmedabad/a-class-4-student-in-ctms-school-gave-a-note-to-a-female-student-saying-i-love-you-the-teacher-has-now-filed-a-police-complaint-60912319735)
+- [Aaryavir Sehwag News : सेहवागच्या मुलाची धडाकेबाज सुरुवात, पण अर्धशतकाच्या उंबरठ्यावर मोठी चूक; नेमकं काय घडलं? सगळेच हैराण](https://marathi.abplive.com/sports/cricket/aryaveer-sehwag-run-out-at-47-misses-half-century-india-u19-vs-australia-u19-2nd-odi-marathi-news-1439777)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
