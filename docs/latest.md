@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-21 21:01:53
+# India Trending Report — 2026-09-21 21:34:00
 
 ## Google Trends (India) — top trending searches
 1. [realme 16 pro](https://trends.google.com/trending/rss?geo=IN)
@@ -23,7 +23,7 @@
 - [Lockheed ready for tech transfer of some parts of Super Hercules to India](https://timesofindia.indiatimes.com/defence/news/ready-for-tech-transfer-of-some-parts-of-super-hercules-to-india-says-lockheed-vp-calls-aircraft-best-option-for-iaf-as-mta-tender-is-out/articleshow/134397508.cms)
 - [Canadian NRI landlord wanted rented Punjab house back; HC allows tenant to stay](https://timesofindia.indiatimes.com/business/india-business/he-moved-to-canada-and-rented-his-punjab-house-for-rs-20000-a-month-then-sought-eviction-to-use-it-during-india-visits-punjab-haryana-hc-rules-against-landlord-allows-tenant-to-stay/articleshow/134380724.cms)
 - [Oilers linked to Dylan Larkin trade in Matthew Savoie-led blockbuster](https://timesofindia.indiatimes.com/sports/nhl/news/oilers-linked-to-blockbuster-dylan-larkin-trade-as-matthew-savoie-led-package-puts-detroit-in-a-difficult-position/articleshow/134379564.cms)
-- [No median cuts, surface intersections on future high-speed NH corridors: NHAI](https://timesofindia.indiatimes.com/india/no-median-cuts-surface-intersections-on-future-high-speed-nh-corridors-nhai/articleshow/134397321.cms)
+- [New Zealand trade pact to take effect on Oct 20, to give duty-free access](https://timesofindia.indiatimes.com/business/india-business/new-zealand-trade-pact-to-take-effect-on-oct-20-to-give-duty-free-access/articleshow/134397576.cms)
 
 **NDTV**
 - [Hundreds Of US Flights Cancelled After Air Traffic Control Malfunction](https://www.ndtv.com/world-news/hundreds-of-us-flights-cancelled-after-air-traffic-control-malfunction-12078490#publisher=newsstand)
@@ -49,19 +49,11 @@
 - [Inter-state gang behind Sagar spurious liquor tragedy: MP Police](https://www.hindustantimes.com/india-news/interstate-gang-behind-sagar-spurious-liquor-tragedy-mp-police-101790000564204.html)
 - [MoRTH pushes for an intelligent and clean construction](https://www.hindustantimes.com/india-news/morth-pushes-for-an-intelligent-and-clean-construction-101789999963656.html)
 
-**Vijay Karnataka**
-- [ಘಟ್ಟ ಪ್ರದೇಶ ಸಂರಕ್ಷಣೆ, ಸ್ಥಳೀಯರ ಹಿತ ಎರಡೂ ಮುಖ್ಯ: ಕಸ್ತೂರಿ ರಂಗನ್ ವರದಿ ಬಗ್ಗೆ ನಿಲುವು ಸ್ಪಷ್ಟಪಡಿಸಿದ ರಾಜ್ಯ ಸರಕಾರ](https://vijaykarnataka.com/news/karnataka/the-state-government-clarifies-on-kasturi-rangan-report-conservation-of-western-ghats-and-welfare-of-locals-both-important/articleshow/134394239.cms)
-- [ಚೀನಾ ಅಧ್ಯಕ್ಷರ ಅಮೆರಿಕ ಪ್ರವಾಸ: ಟ್ರಂಪ್ – ಜಿನ್‌ಪಿಂಗ್ ಹೈವೋಲ್ಟೇಜ್ ಭೇಟಿ ಕಡೆಗೆ ವಿಶ್ವದ ಕಣ್ಣು!](https://vijaykarnataka.com/news/world/chinese-president-usa-trip-trump-xi-jinping-high-voltage-meeting-eyes-of-the-world/articleshow/134395303.cms)
-- [ಬಿಡದಿ ಟೌನ್‌ಶಿಪ್‌ ಭೂಸ್ವಾಧೀನ: ರೈತರಿಂದ ಉಪವಾಸ ಆರಂಭ; ಹಿರಣ್ಯಾಕ್ಷನ ಪಾಪದ ಕೊಡ ತುಂಬುತ್ತಿದೆ ಎಂದು ಎಚ್‌ಡಿ ಕುಮಾರಸ್ವಾಮಿ ಕಿಡಿ](https://vijaykarnataka.com/news/ramanagara/bidadi-township-farmers-begin-a-fast-hd-kumaraswamy-lashes-out-karnataka-monstrous-government/articleshow/134393781.cms)
-- [ಟಾಯ್ಲೆಟ್‌ ಬೌಲ್ ಸುತ್ತ ಬೇಕಿಂಗ್ ಸೋಡಾ ಸಿಂಪಡಿಸುವ ಹೊಸ ಟ್ರೆಂಡ್; ನಿಜಕ್ಕೂ ಇದರಿಂದ ಏನು ಪ್ರಯೋಜನ?](https://vijaykarnataka.com/lifestyle/home-decor/baking-soda-around-toilet-bowl-benefits-cleaning-science/articleshow/134388683.cms)
-- [ಹೆಚ್ಚು ಜನರನ್ನು ನೋಡಿದರೆ ಭಾಷಣಕಾರರ ನಾಲಿಗೆ ಮತ್ತು ಮಿದುಳಿನ ಸಂಪರ್ಕ ಕಟ್!: ಹೈಕೋರ್ಟ್‌ ಅಸಮಾಧಾನ](https://vijaykarnataka.com/news/karnataka/karnataka-high-court-says-orators-loose-connection-between-tongue-and-brain-when-more-audience/articleshow/134396113.cms)
-- [BBK 13 ಸೌಂದರ್ಯ ಶೆಟ್ಟಿಗೆ ಜೈಲು ಶಿಕ್ಷೆ: ತಬ್ಬಿ ಕ್ಷಮೆ ಕೇಳಿದ ಮಂಜ, ಬಿಗ್‌ ಬಾಸ್‌ ಕಣ್ಣಾಮುಚ್ಚಾಲೆ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/in-bbk-13-has-sentenced-soundarya-shetty-to-jail-for-hitting-modern-mahakavi-manja/articleshow/134397478.cms)
-- [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
-- [2026 ಪರಿವರ್ತಿನಿ ಏಕಾದಶಿ: ಶುಭ ಮುಹೂರ್ತ, ಪೂಜೆ ವಿಧಾನ, ಮಹತ್ವ ಮತ್ತು ಮಂತ್ರಗಳು.!](https://vijaykarnataka.com/religion/festivals/parivartini-ekadashi-2026-date-and-time-puja-procedures-importance-and-mantras/articleshow/134390736.cms)
-- [ವಯಸ್ಸಾದ ಪೋಷಕರಲ್ಲಿ ಈ ಬದಲಾವಣೆಗಳು ಕೇವಲ ವಯಸ್ಸಿನ ಲಕ್ಷಣವಲ್ಲ; ಆಲ್ಝೈಮರ್ಸ್‌ನ ಆರಂಭಿಕ ಸೂಚನೆಯೂ ಆಗಿರಬಹುದು!](https://vijaykarnataka.com/lifestyle/health/world-alzheimers-day-2026-early-signs-alzheimers-parents/articleshow/134386113.cms)
-- [ಅಯೋಧ್ಯೆ ರಾಮಮಂದಿರ ದೇಣಿಗೆ ಲೂಟಿ ಪ್ರಕರಣ: 105 ಕಳ್ಳತನ ಪ್ರಕರಣ ಪತ್ತೆ! ಸೆ.25ರೊಳಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ಗೆ SIT ಚಾರ್ಜ್‌ಶೀಟ್?](https://vijaykarnataka.com/news/india/ayodhya-ram-temple-donation-theft-caught-on-cctv-105-times-sit-report/articleshow/134393656.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [Court orders fresh hearing in Sonia Gandhi’s voter roll entry case](https://www.thehindu.com/news/national/delhi-court-sets-aside-magistrate-order-refusing-probe-in-sonia-gandhis-pre-citizenship-electoral-entry/article71490940.ece)
+- [Class 10 girl and boy returning from coaching groped and assaulted in Bihar’s Jamui, sparking a political row](https://www.thehindu.com/news/national/bihar/two-class-10-students-a-girl-and-a-boy-groped-and-harassed-in-bihars-jamui-sparking-a-political-row/article71491560.ece)
 - [Plea in M.P. High Court seeks closure of Ladli Behna scheme over its financial cost; notice issued to government](https://www.thehindu.com/news/national/madhya-pradesh/plea-in-mp-high-court-seeks-closure-of-ladli-behna-scheme-over-its-financial-cost-notice-issued-to-government/article71492485.ece)
 - [Party-backed councillors detained in Haryana ahead of Rajasthan local body poll, alleges Congress](https://www.thehindu.com/news/national/haryana/party-backed-councillors-detained-in-haryana-ahead-of-rajasthan-local-body-poll-alleges-congress/article71492331.ece)
 - [100% drought likely to be declared in Maharashtra by month-end, says Minister](https://www.thehindu.com/news/national/maharashtra/100-drought-likely-to-be-declared-in-maharashtra-by-month-end-says-minister/article71492104.ece)
@@ -70,8 +62,6 @@
 - [Belagavi students trained by zilla panchayat get into premier institutions](https://www.thehindu.com/news/national/karnataka/belagavi-students-trained-by-zilla-panchayat-get-into-premier-institutions/article71492176.ece)
 - [Supreme Court orders fresh probe into 2012 rape-murder near Dharmasthala in Karnataka](https://www.thehindu.com/news/national/karnataka/supreme-court-orders-fresh-probe-into-2012-rape-murder-near-dharmasthala-in-karnataka/article71492604.ece)
 - [Ram Temple donations theft case: SIT report finds 105 instances of unauthorised currency removal](https://www.thehindu.com/news/national/ram-temple-donations-theft-case-chargesheet-on-or-before-september-25/article71491193.ece)
-- [New checklist by Keralam research team records 3,261 flowering plant species in Agasthyamalai Biosphere Reserve](https://www.thehindu.com/news/national/kerala/new-checklist-by-keralam-research-team-records-3261-flowering-plant-species-in-agasthyamalai-biosphere-reserve/article71490560.ece)
-- [Karnataka to track cancer patients after fake drug bust](https://www.thehindu.com/news/national/karnataka/karnataka-to-track-cancer-patients-after-fake-drug-bust/article71492327.ece)
 
 **Livemint**
 - [El Nino ties record intensity: What 3.07°C Pacific warming means for weather from Central America to Indonesia](https://www.livemint.com/news/world/el-nino-ties-record-intensity-what-3-07-c-pacific-warming-means-for-weather-from-central-america-to-indonesia-11790019836871.html)
@@ -102,10 +92,12 @@
 ## Cross-source trending keywords (derived from headlines above)
 - Trump (4.2)
 - India (2.6)
-- Karnataka (2.6)
+- Jamui (2.6)
 - What (2.6)
 - Tumakur (2.6)
+- Court (2.2)
 - Police (1.9)
+- Bihar (1.9)
 - Flights (1.6)
 - Maharashtra (1.6)
 - Russia (1.3)
@@ -113,22 +105,20 @@
 - Yemen's (1.3)
 - Houthi (1.3)
 - Riyadh (1.3)
-- Report (1.3)
-- Ishan (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [হকিতে ইন্দোনেশিয়াকে ১৭ গোল, দু’ম‌্যাচে ৩৬ গোল দীপিকাদের](https://www.aaroananda.com/story/sports-news/breaking-news/india-women-hockey-team-historic-victory-at-asian-games/11020637)
-- [Minor girl, her friend harassed in Bihar’s Jamui; culprits in police custody, political slugfest ensues](https://www.thehindu.com/news/national/bihar/minor-girl-her-friend-harassed-in-bihars-jamui-culprits-in-police-custody-political-slugfest-ensues/article71490725.ece)
-- [ഇന്ത്യ-ജപ്പാന്‍ ചരിത്രപരമായ ടി20 പോരാട്ടം നാളെ സാനോയില്‍; അവസരം കാത്ത് കൗമാരതാരം വൈഭവ് സൂര്യവംശി](https://www.asianetnews.com/cricket-sports/historic-india-vs-japan-t20i-in-sano-tomorrow-and-vaibhav-sooryavanshi-eyes-opportunity-articleshow-bd64xl8)
-- [இளவேனில் வாலறிவன்: ஆசிய விளையாட்டுப் போட்டியில் 2 வெள்ளிப் பதக்கங்களை வென்றது எப்படி?](https://www.bbc.com/tamil/articles/cxyvz2gyvqmvo)
-- [मिरजमध्ये मोठी दुर्घटना, सिव्हिल हॉस्पिटलबाहेर स्लॅब कोसळला, 7 जण जखमी](https://www.tv9marathi.com/maharashtra/miraj-civil-hospital-slab-collapse-many-trapped-in-major-accident-1760908.html)
-- [एशियन गेम्स में आर माधवन का बेटा, जानें कैसा रहा डेब्यू मुकाबला](https://www.aajtak.in/entertainment/bollywood-news/story/r-madhavan-son-vedaant-first-asian-games-for-india-swimming-qualifiers-result-tmovj-dskc-2649008-2026-09-21)
-- [आंबेडकर का आइडिया, मायावती का प्रस्ताव... 71 साल पुराना है यूपी को 4 हिस्सों में बांटने का मंसूबा](https://www.aajtak.in/elections/assembly-chunav/story/up-divided-in-4-states-proposal-history-ambedkar-mayawati-rajbhar-poliitcal-game-ntcpkb-dskc-2649001-2026-09-21)
-- [Mumbai Crime BMW Car Accident: कोस्टल रोडवर 100 च्या स्पीडने BMW कार चालवणाऱ्या शनय गज्जलबद्दल धक्कादायक माहिती समोर, पोलिसांच्या तपासात काय कळालं?](https://marathi.abplive.com/crime/mumbai-crime-bmw-car-accident-coastal-road-shocking-information-came-into-light-about-shanay-gajjal-drink-and-drive-case-marathi-news-1439780)
-- [CTMની સ્કૂલમાં ધોરણ 4ના વિદ્યાર્થીએ વિદ્યાર્થીનીને ' આઈ લવ યુ' લખેલી ચિઠ્ઠી આપી, શિક્ષકે ફટકાર્યો હવે પોલીસ ફરિયાદ](https://www.gujaratsamachar.com/news/ahmedabad/a-class-4-student-in-ctms-school-gave-a-note-to-a-female-student-saying-i-love-you-the-teacher-has-now-filed-a-police-complaint-60912319735)
-- [Aaryavir Sehwag News : सेहवागच्या मुलाची धडाकेबाज सुरुवात, पण अर्धशतकाच्या उंबरठ्यावर मोठी चूक; नेमकं काय घडलं? सगळेच हैराण](https://marathi.abplive.com/sports/cricket/aryaveer-sehwag-run-out-at-47-misses-half-century-india-u19-vs-australia-u19-2nd-odi-marathi-news-1439777)
+- [6 warning signs your gym workouts are harming you](https://economictimes.indiatimes.com/news/india/6-warning-signs-gym-workouts-are-harming-you/your-urine-has-turned-dark-brown/slideshow/134385720.cms?from=mdr)
+- [Piyush Goyal says India will study US Russia sanctions law](https://www.moneycontrol.com/news/business/economy/piyush-goyal-says-india-will-study-us-russia-sanctions-law-14034567.html)
+- [University of Sydney opens Single](https://www.expresshealthcare.in/news/university-of-sydney-opens-single-cell-cancer-proteomics-lab/455206/)
+- [Lava Virat Curve 5G launches with MediaTek Dimensity 7100 and 50MP camera](https://timesofindia.indiatimes.com/technology/mobiles-tabs/lava-virat-curve-5g-launches-with-mediatek-dimensity-7100-and-50mp-camera/articleshow/134385721.cms)
+- [Asian Games: এশিয়ান গেমসে শ্যুটিংয়ে আরও এক পদক জিতল ভারত, ১০ মিটার এয়ার রাইফেলে রুপো](https://bengali.abplive.com/sports/asian-games-2026-india-clinches-silver-in-men-s-10m-air-rifle-team-event-rudrankksh-patil-himanshu-dhillon-parth-mane-1193643)
+- [Delhi Court Sets Aside 'Unreasoned' Order Refusing FIR Against Sonia Gandhi For Inclusion In Voter List Before Acquiring Indian Citizenship](https://www.livelaw.in/news-updates/sonia-gandhi-fir-inclusion-in-voter-list-prior-to-citizenship-551036)
+- [Owaisi opens alliance door in UP; Congress warns AIMIM could end up helping BJP](https://timesofindia.indiatimes.com/india/owaisi-opens-alliance-door-in-up-congress-warns-aimim-could-end-up-helping-bjp/articleshow/134385208.cms)
+- [BMW that plunged off Mumbai's Coastal Road bridge had earlier hit couple, video viral](https://timesofindia.indiatimes.com/city/mumbai/bmw-that-plunged-off-mumbai-coastal-road-bridge-had-earlier-hit-couple-video-viral/articleshow/134384420.cms)
+- [Mithu Mukherjee: বাংলা সিনেমার জগতে নক্ষত্রপতন, মুম্বইয়ে প্রয়াত অভিনেত্রী মিঠু মুখোপাধ্যায়](https://bengali.abplive.com/entertainment/veteran-bengali-actor-mithu-mukherjee-died-in-mumbai-suffering-for-cancer-long-time-entertainment-news-tollywood-1193641)
+- [Student suicide: IIT Bombay apologises for earlier statement, suspends deanship of professor](https://theprint.in/india/education/student-suicide-iit-bombay-apologises-for-earlier-statement-suspends-deanship-of-professor/3048427/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
