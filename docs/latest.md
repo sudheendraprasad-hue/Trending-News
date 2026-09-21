@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-21 20:02:07
+# India Trending Report — 2026-09-21 20:33:27
 
 ## Google Trends (India) — top trending searches
 1. [realme 16 pro](https://trends.google.com/trending/rss?geo=IN)
@@ -26,6 +26,8 @@
 - [Trump goes off air: US TV networks suspend coverage after White House bans CNN](https://timesofindia.indiatimes.com/world/us/major-us-tv-networks-blackout-trump-coverage-protest-white-house-ban-on-cnn/articleshow/134393531.cms)
 
 **NDTV**
+- [Hundreds Of US Flights Cancelled After Air Traffic Control Malfunction](https://www.ndtv.com/world-news/hundreds-of-us-flights-cancelled-after-air-traffic-control-malfunction-12078490#publisher=newsstand)
+- [Delhi PG Building Collapse: Court Extends Judicial Custody Of 6 Accused](https://www.ndtv.com/india-news/delhi-pg-building-collapse-court-extends-judicial-custody-of-6-accused-12078458#publisher=newsstand)
 - [2 Workers Killed In Fire At Tyre Oil Factory In UP](https://www.ndtv.com/india-news/2-workers-killed-in-fire-at-tyre-oil-factory-in-up-12078426#publisher=newsstand)
 - [Man Kills Wife, Surrenders At Police Station In UP: Cops](https://www.ndtv.com/india-news/man-kills-wife-surrenders-at-police-station-in-up-cops-12078414#publisher=newsstand)
 - [US Networks Boycott Trump Coverage In Revolt Over White House Ban](https://www.ndtv.com/world-news/us-networks-boycott-donald-trump-coverage-in-revolt-over-white-house-ban-12078379#publisher=newsstand)
@@ -34,8 +36,6 @@
 - [15 Hours, 170 CCTVs: Child Rescued From Kidnapper After 100-km Chase](https://www.ndtv.com/india-news/15-hours-170-cctvs-one-rescue-gujarat-cops-crack-child-kidnapping-case-12078285#publisher=newsstand)
 - [Hyderabad Cop Video-Calls Woman, Then Dies By Suicide](https://www.ndtv.com/india-news/hyderabad-cop-video-calls-woman-then-dies-by-suicide-12078358#publisher=newsstand)
 - ["Nationalise Us, Please": Palantir CEO's Take On AI's Liability Problem](https://www.ndtv.com/world-news/openai-anthropic-not-listing-palantir-ceo-says-this-is-the-most-likely-outcome-for-ai-labs-12078282#publisher=newsstand)
-- [Bhutan's Gelephu City Announces Policy For Family Offices, Investment Funds](https://www.ndtv.com/world-news/bhutans-gelephu-city-announces-policy-for-family-offices-investment-funds-12078289#publisher=newsstand)
-- [Delhi's Oldest Voter, 125, Gets Poll Body Notice Over Name Mismatch](https://www.ndtv.com/india-news/delhis-oldest-voter-125-gets-poll-body-notice-over-name-mismatch-12078295#publisher=newsstand)
 
 **Hindustan Times**
 - [Two workers killed in fire at tyre oil factory in UP](https://www.hindustantimes.com/india-news/two-workers-killed-in-fire-at-tyre-oil-factory-in-up-101790016612494.html)
@@ -55,13 +55,16 @@
 - [ಬಿಡದಿ ಟೌನ್‌ಶಿಪ್‌ ಭೂಸ್ವಾಧೀನ: ರೈತರಿಂದ ಉಪವಾಸ ಆರಂಭ; ಹಿರಣ್ಯಾಕ್ಷನ ಪಾಪದ ಕೊಡ ತುಂಬುತ್ತಿದೆ ಎಂದು ಎಚ್‌ಡಿ ಕುಮಾರಸ್ವಾಮಿ ಕಿಡಿ](https://vijaykarnataka.com/news/ramanagara/bidadi-township-farmers-begin-a-fast-hd-kumaraswamy-lashes-out-karnataka-monstrous-government/articleshow/134393781.cms)
 - [ಟಾಯ್ಲೆಟ್‌ ಬೌಲ್ ಸುತ್ತ ಬೇಕಿಂಗ್ ಸೋಡಾ ಸಿಂಪಡಿಸುವ ಹೊಸ ಟ್ರೆಂಡ್; ನಿಜಕ್ಕೂ ಇದರಿಂದ ಏನು ಪ್ರಯೋಜನ?](https://vijaykarnataka.com/lifestyle/home-decor/baking-soda-around-toilet-bowl-benefits-cleaning-science/articleshow/134388683.cms)
 - [ಹೆಚ್ಚು ಜನರನ್ನು ನೋಡಿದರೆ ಭಾಷಣಕಾರರ ನಾಲಿಗೆ ಮತ್ತು ಮಿದುಳಿನ ಸಂಪರ್ಕ ಕಟ್!: ಹೈಕೋರ್ಟ್‌ ಅಸಮಾಧಾನ](https://vijaykarnataka.com/news/karnataka/karnataka-high-court-says-orators-loose-connection-between-tongue-and-brain-when-more-audience/articleshow/134396113.cms)
-- [BBK 13: ಮಿಡ್‌ ವೀಕ್ ಎಲಿಮಿನೇಷನ್‌ನಿಂದ ಓರ್ವ ಬಚಾವ್‌, ನೇರ ಬಾಗಿಲಿಗೆ ನಿಂತ ಉಳಿದವರು!](https://vijaykarnataka.com/tv/bigg-boss-kannada/mid-week-elimination-bbk-13-day-15-week-3-nomination/articleshow/134397170.cms)
+- [BBK 13 ಸೌಂದರ್ಯ ಶೆಟ್ಟಿಗೆ ಜೈಲು ಶಿಕ್ಷೆ: ತಬ್ಬಿ ಕ್ಷಮೆ ಕೇಳಿದ ಮಂಜ, ಬಿಗ್‌ ಬಾಸ್‌ ಕಣ್ಣಾಮುಚ್ಚಾಲೆ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/in-bbk-13-has-sentenced-soundarya-shetty-to-jail-for-hitting-modern-mahakavi-manja/articleshow/134397478.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [2026 ಪರಿವರ್ತಿನಿ ಏಕಾದಶಿ: ಶುಭ ಮುಹೂರ್ತ, ಪೂಜೆ ವಿಧಾನ, ಮಹತ್ವ ಮತ್ತು ಮಂತ್ರಗಳು.!](https://vijaykarnataka.com/religion/festivals/parivartini-ekadashi-2026-date-and-time-puja-procedures-importance-and-mantras/articleshow/134390736.cms)
 - [ವಯಸ್ಸಾದ ಪೋಷಕರಲ್ಲಿ ಈ ಬದಲಾವಣೆಗಳು ಕೇವಲ ವಯಸ್ಸಿನ ಲಕ್ಷಣವಲ್ಲ; ಆಲ್ಝೈಮರ್ಸ್‌ನ ಆರಂಭಿಕ ಸೂಚನೆಯೂ ಆಗಿರಬಹುದು!](https://vijaykarnataka.com/lifestyle/health/world-alzheimers-day-2026-early-signs-alzheimers-parents/articleshow/134386113.cms)
 - [ಅಯೋಧ್ಯೆ ರಾಮಮಂದಿರ ದೇಣಿಗೆ ಲೂಟಿ ಪ್ರಕರಣ: 105 ಕಳ್ಳತನ ಪ್ರಕರಣ ಪತ್ತೆ! ಸೆ.25ರೊಳಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ಗೆ SIT ಚಾರ್ಜ್‌ಶೀಟ್?](https://vijaykarnataka.com/news/india/ayodhya-ram-temple-donation-theft-caught-on-cctv-105-times-sit-report/articleshow/134393656.cms)
 
 **The Hindu**
+- [Plea in M.P. High Court seeks closure of Ladli Behna scheme over its financial cost; notice issued to government](https://www.thehindu.com/news/national/madhya-pradesh/plea-in-mp-high-court-seeks-closure-of-ladli-behna-scheme-over-its-financial-cost-notice-issued-to-government/article71492485.ece)
+- [Party-backed councillors detained in Haryana ahead of Rajasthan local body poll, alleges Congress](https://www.thehindu.com/news/national/haryana/party-backed-councillors-detained-in-haryana-ahead-of-rajasthan-local-body-poll-alleges-congress/article71492331.ece)
+- [100% drought likely to be declared in Maharashtra by month-end, says Minister](https://www.thehindu.com/news/national/maharashtra/100-drought-likely-to-be-declared-in-maharashtra-by-month-end-says-minister/article71492104.ece)
 - [BDCC bank waiting for govt. sanction for recruitment, says MLA](https://www.thehindu.com/news/national/karnataka/bdcc-bank-waiting-for-govt-sanction-for-recruitment-says-mla/article71492310.ece)
 - [Belagavi students trained by zilla panchayat get into premier institutions](https://www.thehindu.com/news/national/karnataka/belagavi-students-trained-by-zilla-panchayat-get-into-premier-institutions/article71492176.ece)
 - [Supreme Court orders fresh probe into 2012 rape-murder near Dharmasthala in Karnataka](https://www.thehindu.com/news/national/karnataka/supreme-court-orders-fresh-probe-into-2012-rape-murder-near-dharmasthala-in-karnataka/article71492604.ece)
@@ -69,11 +72,9 @@
 - [New checklist by Keralam research team records 3,261 flowering plant species in Agasthyamalai Biosphere Reserve](https://www.thehindu.com/news/national/kerala/new-checklist-by-keralam-research-team-records-3261-flowering-plant-species-in-agasthyamalai-biosphere-reserve/article71490560.ece)
 - [Karnataka to track cancer patients after fake drug bust](https://www.thehindu.com/news/national/karnataka/karnataka-to-track-cancer-patients-after-fake-drug-bust/article71492327.ece)
 - [ASR Collector reviews ‘Trishul’ strategy against crime in district](https://www.thehindu.com/news/national/andhra-pradesh/asr-collector-reviews-trishul-strategy-against-crime-in-district/article71492521.ece)
-- [Assembly witnesses blame game on origin of Kasturirangan report](https://www.thehindu.com/news/national/karnataka/assembly-witnesses-blame-game-on-origin-of-kasturirangan-report/article71492314.ece)
-- [G. Palanithurai appointed Adviser to Minister Anand](https://www.thehindu.com/news/national/tamil-nadu/g-palanithurai-appointed-adviser-to-minister-anand/article71492641.ece)
-- [Getting away from gunshots](https://www.thehindu.com/news/national/himachal-pradesh/getting-away-from-gunshots/article71484095.ece)
 
 **Livemint**
+- [UN Scrambles to Avoid a Repeat of Trump’s 2025 Escalator Snafu](https://www.livemint.com/news/world/un-scrambles-to-avoid-a-repeat-of-trump-s-2025-escalator-snafu-11790021316160.html)
 - [NYC Airports Face Delays After Air Traffic Control Outage](https://www.livemint.com/news/nyc-airports-face-delays-after-air-traffic-control-outage-11790020581299.html)
 - [Jennifer Eckhart dies at 36: Former Fox Business producer found dead at Florida home- What we know](https://www.livemint.com/news/us-news/jennifer-eckhart-dies-at-36-former-fox-business-producer-found-dead-at-florida-home-what-we-know-11790014231126.html)
 - [El Niño could become strongest on record, California Governor Gavin Newsom declares statewide emergency](https://www.livemint.com/news/us-news/el-ni-o-could-become-strongest-on-record-california-governor-gavin-newsom-declares-statewide-emergency-11790012492023.html)
@@ -83,7 +84,6 @@
 - [Looksmaxxing, cuffing season, vibe coding and more: US dictionary Merriam-Webster gets a ‘glow up’ with 1,400 new words](https://www.livemint.com/news/trends/looksmaxxing-cuffing-season-vibe-coding-and-more-us-dictionary-merriam-webster-gets-a-glow-up-with-1-400-new-words-11790007182033.html)
 - ['I was completely fine with it': Patrick Clancy on suicidal thoughts, his children and starting a new family](https://www.livemint.com/news/us-news/i-was-completely-fine-with-it-patrick-clancy-on-suicidal-thoughts-his-children-and-starting-a-new-family-11790002337400.html)
 - [Trump blocks CNN, MS NOW and Politico: Why White House press pool matters](https://www.livemint.com/news/us-news/trump-blocks-cnn-ms-now-and-politico-why-white-house-press-pool-matters-11790006906123.html)
-- [US sets Sept 23 shutdown for Iran airlines; Bessent warns non-compliant entities will be ‘knocked out of dollar system’](https://www.livemint.com/news/world/us-sets-sept-23-deadline-for-iran-airlines-bessent-warns-non-compliant-entities-will-be-knocked-out-of-dollar-system-11790003521660.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,35 +100,35 @@
 - [ಪೌರಕಾರ್ಮಿಕರ ಸ್ಥಿತಿಗತಿ ಅಧ್ಯಯನಕ್ಕೆ ಸಮಿತಿ ರಚಿಸಿ: ಸಿಎಂಗೆ ಪತ್ರಕರ್ತರ ಬಳಗ ಮನವಿ](https://www.varthabharati.in/bangalore-city/--2276944)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (5.5)
-- Sept (2.6)
+- Trump (6.8)
 - Karnataka (2.6)
 - Tumakur (2.6)
 - Police (1.9)
+- Flights (1.6)
+- Maharashtra (1.6)
 - Yemen's (1.3)
 - Houthi (1.3)
 - Riyadh (1.3)
 - Report (1.3)
-- Flights (1.3)
 - Ishan (1.3)
 - Mayawati's (1.3)
 - U-turn (1.3)
+- Sept (1.3)
 - NHAI (1.3)
-- USCIS (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [மண்டாடி வெற்றியை சொந்த ஊரில் கொண்டாடிய சூரி](https://cinema.dinamalar.com/news/kollywood/suri-celebrates-mandadi-victory-in-his-hometown/141017)
-- [US से आई ये खबर... फिर तेजी से बिखरा सोना, चांदी के भाव में भी गिरावट](https://www.aajtak.in/business/utility/photo/us-impact-gold-silver-price-fall-check-24k-yellow-metal-rates-tutd-2648973-2026-09-21)
-- [Asian Games 2026માં ભારતની ગોલ્ડ મેડલ અહી મફતમાં લાઈવ જોઈ શકશો](https://tv9gujarati.com/sports/cricket-news/breaking-news-asian-games-2026-when-and-where-can-you-watch-india-gold-medal-match-live-1519480.html)
-- [Asian Games 2026: ભારતીય ખેલાડીઓનો શાનદાર દેખાવ, ભારતે કુલ 6 મેડલ જીત્યા; મહિલા હોકી અને કબડ્ડીમાં એકતરફી જીત](https://www.gujaratsamachar.com/news/sports/asian-games-2026-indian-players-put-in-a-great-performance-india-won-a-total-of-6-medals-one-sided-wins-in-womens-hockey-and-kabaddi-65967615666)
-- [IIT Bombay : आयआयटी मुंबईतील साहिल वाकोडेच्या मृत्यूनंतर मोठी कारवाई; प्रा. सूर्यनारायण दुल्ला यांचे डीनपद निलंबित; संस्थेकडून आधीच्या विधानांवर दिलगिरी व्यक्त](https://marathi.abplive.com/news/mumbai/iit-bombay-student-death-professor-doolas-deanship-suspended-institute-retracts-statement-claiming-cheating-by-student-1439772)
-- ['Wild Witch Hunt': Delhi High Court Refuses To Entertain Plea Seeking CBI Probe Into Justice Yashwant Varma Cash Row](https://www.livelaw.in/high-court/delhi-high-court/justice-yashwant-varma-cash-row-cbi-probe-rejected-wild-witch-hunt-551020)
-- [செக் மோசடி விவகாரம்: ``அக்காவை நம்பாம யாரை நம்புறது நம்பினேன் ஆனா" - நடிகை ராதா உருக்கம்](https://cinema.vikatan.com/kollywood/a-complaint-has-been-filed-against-actress-radha-ambika-regarding-a-cheque-fraud-case)
-- [Punjab: ਮਾਨਸਾ ਦੀ ਅਦਾਲਤ ‘ਤੇ ਸਕੂਲਾਂ ਨੂੰ ਬੰਬ ਨਾਲ ਉਡਾਉਣ ਦੀ ਮਿਲੀ ਧਮਕੀ](https://wishavwarta.in/punjab-mansa-court-and-schools-receive-bomb-threat/)
-- [वैभव-अभिषेक ने ओपन किया तो... जापान का क्या होगा हाल? बेसबॉल के देश में दिखेगी 'क्रिकेट वाली कुटाई'](https://www.aajtak.in/sports/asian-games/story/vaibhav-sooryavanshi-abhishek-sharma-india-japan-t20-opening-asian-games-2026-bmsp-dskc-2648894-2026-09-21)
-- [Rain Alert: ગુજરાતમાં કેટલા દિવસ વરસશે વરસાદ, આજે ક્યાં જિલ્લામાં એલર્ટ, જાણો લેટેસ્ટ અપડેટ](https://gujarati.abplive.com/news/gujarat/gujarat-rain-latest-weather-update-21-september-991694)
+- [RAW फाउंडर रामेश्वर नाथ काव बायोपिक: 'जेंटलमैन स्पाईमास्टर' के 16 साल की कहानी, कश्‍मीरी पंडित परिवार और बनारस](https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/biopic-on-raw-founder-rameshwar-nath-kao-karan-johar-big-announcement-story-will-span-16-years-of-the-gentleman-spymaster/articleshow/134384583.cms)
+- [Bank strike from September 28-30 as unions demand 5-day work week: Banks may be shut for 5 days in a row as September 26-27 are holidays; SBI, Union Bank issue customer advisories](https://timesofindia.indiatimes.com/business/india-business/bank-strike-from-september-28-30-as-unions-demand-5-day-work-week-banks-may-be-shut-for-5-days-in-a-row-as-september-26-27-are-holidays-sbi-union-bank-issue-customer-advisories/articleshow/134384019.cms)
+- [Shreyas Iyer : 'श्रेयस मला तू खूप आवडतोस'; तरूण चाहतीला कॅप्टनचं एका शब्दात उत्तर, पण वैभवने शेवटी जाताना केलेल्या कृतीची चर्चा](https://maharashtratimes.com/sports/cricket/cricket-news/team-india-captain-shreyas-iyer-female-fan-proposal-vaibhav-sooryavanshi-gesture-viral-vide/articleshow/134384106.cms)
+- [Who was R.N. Kao? Inside the life of India’s first R&AW chief who worked with Indira Gandhi and inspired Karan Johar’s upcoming film](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-was-r-n-kao-inside-the-life-of-indias-first-raw-chief-who-worked-with-indira-gandhi-and-inspired-karan-johars-upcoming-film/articleshow/134384543.cms)
+- [Explained: UP का बंटवारा चुनाव से पहले कितना जरूरी? योगी के मंत्री राजभर का दावा क्या](https://www.abplive.com/states/up-uk/op-rajbhar-said-uttar-pradesh-divide-in-four-areas-purvanchal-bundelkhand-awadh-and-west-untill-up-election-2027-explained-3191792)
+- [Goldman Sachs-এর সতর্কবার্তা](https://eisamay.com/business/stock-finance/it-stocks-fall-oracle-ofss-h1b-visa-fee-goldman-sachs-warning/200545422.cms)
+- [How Trump and Xi went from tariff war to trade truce](https://www.reuters.com/business/aerospace-defense/how-trump-xi-went-tariff-war-trade-truce-2026-09-21/)
+- [খাম প্রতীক নিয়ে বিতর্ক! কলকাতা হাইকোর্টে গেলেন আইএসএফ বিধায়ক নওশাদ সিদ্দিকি](https://www.thewall.in/west-bengal/isf-mla-nawsad-siddique-moves-to-high-court-about-party-symbol-issue/tid/205305)
+- [અમદાવાદના બાવળા નજીક ફતેવાડી કેનાલમાંથી 8 વર્ષની બાળકીનો મૃતદેહ મળ્યો, હત્યા કે અકસ્માત અંગે પોલીસે તપાસ શરૂ](https://www.gujaratsamachar.com/news/ahmedabad/body-of-8-year-old-girl-found-in-fatehwadi-canal-near-bavla-ahmedabad-police-start-investigation-into-or-48005382529)
+- [ఉపాధ్యాయులపై వైసీపీ నేతల దాడి.. మంత్రి బీసీ జనార్దన్ రెడ్డి ఫైర్..](https://www.andhrajyothy.com/2026/andhra-pradesh/krishna/mega-dsc-sports-quota-controversy-shap-office-vijayawada-ysrcp-leaders-minister-bc-janardhan-reddy-suri-1559971.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
