@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-21 00:40:37
+# India Trending Report — 2026-09-21 01:02:21
 
 ## Google Trends (India) — top trending searches
-1. [nfl](https://trends.google.com/trending/rss?geo=IN)
-2. [8वें वेतन आयोग सैलरी](https://trends.google.com/trending/rss?geo=IN)
-3. [amit shah](https://trends.google.com/trending/rss?geo=IN)
-4. [tata aeris](https://trends.google.com/trending/rss?geo=IN)
-5. [man utd](https://trends.google.com/trending/rss?geo=IN)
-6. [clock](https://trends.google.com/trending/rss?geo=IN)
-7. [atlético madrid vs real madrid](https://trends.google.com/trending/rss?geo=IN)
-8. [laliga](https://trends.google.com/trending/rss?geo=IN)
-9. [epl](https://trends.google.com/trending/rss?geo=IN)
-10. [spider man brand new day](https://trends.google.com/trending/rss?geo=IN)
+1. [inter miami](https://trends.google.com/trending/rss?geo=IN)
+2. [nfl](https://trends.google.com/trending/rss?geo=IN)
+3. [8वें वेतन आयोग सैलरी](https://trends.google.com/trending/rss?geo=IN)
+4. [amit shah](https://trends.google.com/trending/rss?geo=IN)
+5. [tata aeris](https://trends.google.com/trending/rss?geo=IN)
+6. [man utd](https://trends.google.com/trending/rss?geo=IN)
+7. [clock](https://trends.google.com/trending/rss?geo=IN)
+8. [real madrid vs](https://trends.google.com/trending/rss?geo=IN)
+9. [laliga](https://trends.google.com/trending/rss?geo=IN)
+10. [epl](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -50,18 +50,19 @@
 - [Ahmedabad Crime Branch arrests man wanted for 24 years in Rajasthan murder case](https://www.hindustantimes.com/india-news/ahmedabad-crime-branch-arrests-man-wanted-for-24-years-in-rajasthan-murder-case-101789916066672.html)
 
 **Vijay Karnataka**
+- [ತುಳುವಿಗೆ ಅಧಿಕೃತ ಮಾನ್ಯತೆ: ಇನ್ಮೇಲೆ ಇಲಾಖಾ ಕಡತಗಳಲ್ಲಿ ತುಳು ಭಾಷೆ ಕಡ್ಡಾಯ, ಅಧಿಕಾರಿಗಳಿಗೂ ಭಾಷಾ ಜ್ಞಾನ ಅಗತ್ಯ!](https://vijaykarnataka.com/news/mangaluru/official-recognition-for-tulu-language-mandatory-use-of-tulu-in-administration/articleshow/134377369.cms)
 - [ಯುವ ಮೆರಿಡಿಯನ್‌ ಹೋಟೆಲ್ ಈಗ ಫಿಲ್ಮ್‌ ಸಿಟಿ; ʼಕಾಂತಾರ ಕಥೆ ಹುಟ್ಟಿದ್ದು ಇಲ್ಲೇʼ.. ಶೂಟಿಂಗ್ ಸೆಟ್ ಸೀಕ್ರೆಟ್ ಬಿಚ್ಚಿಟ್ಟ ನಟ ರಿಷಬ್‌ ಶೆಟ್ಟಿ!](https://vijaykarnataka.com/news/udupi/uva-meridian-hotel-now-film-city-rishabh-shetty-reveals-kantara-movie-story-shooting-set-secretes-in-meridian-bay/articleshow/134377186.cms)
 - [ಕಾರ್ಪೊರೇಟ್ ಕೆಲಸ ಬಿಟ್ಟು ಮಣ್ಣಿಗಿಳಿದ ಯುವತಿ; ಕ್ಯಾಪ್ಸಿಕಂ ಬೆಳೆದು ವರ್ಷಕ್ಕೆ 4 ಕೋಟಿ ರೂ. ಗಳಿಸುತ್ತಿರುವ ಪ್ರಣೀತಾ ವಮನ್ ಯಶೋಗಾಥೆ!](https://vijaykarnataka.com/business/news/young-woman-quits-corporate-job-to-turn-to-farming-the-success-story-of-pranitha-vaman-earns-4-crore-rs-growing-capsicum/articleshow/134368545.cms)
-- [ಗದಗ ತಾಲೂಕು ಬರಪೀಡಿತ ಎಂದು ಘೋಷಿಸದಿದ್ದರೆ ಶಾಸಕ ಸ್ಥಾನಕ್ಕೆ ರಾಜೀನಾಮೆ: ಹಿರಿಯ ಕಾಂಗ್ರೆಸಿಗ ಎಚ್ ಕೆ ಪಾಟೀಲ್ ಎಚ್ಚರಿಕೆ](https://vijaykarnataka.com/news/gadaga/h-k-patil-warns-resign-as-mla-if-gadag-taluk-is-not-declare-drought-hit/articleshow/134367365.cms)
 - [ಪಟೋಲಾ ಕುರ್ತಾದಲ್ಲಿ ಮಿಂಚಿದ ದೀಪಿಕಾ ಪಡುಕೋಣೆ; ಸಿದ್ಧಿವಿನಾಯಕ ದರ್ಶನಕ್ಕೆ ಬಂದ ನಟಿಯ ಲುಕ್ ವೈರಲ್!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-siddhivinayak-temple-patola-kurta-look/articleshow/134352111.cms)
-- [`ದೇಶದಲ್ಲಿ ಹುಲಿ, ವಿದೇಶದಲ್ಲಿ ಬೆಕ್ಕು'!: ಅಭಿಷೇಕ್ ಶರ್ಮಾ, ವೈಭವ್ ಸೂರ್ಯವಂಶಿ ಬಗ್ಗೆ ಹೊಗಳುತ್ತಲೇ ಚಾಟಿ ಬೀಸಿದ ಸಂದೀಪ್ ಪಾಟೀಲ್](https://vijaykarnataka.com/sports/cricket/news/sandeep-patil-warns-abhishek-sharma-vaibhav-sooryavanshi-about-failure-in-oversees-against-swing-bowling/articleshow/134370542.cms)
+- [ಗದಗ ತಾಲೂಕು ಬರಪೀಡಿತ ಎಂದು ಘೋಷಿಸದಿದ್ದರೆ ಶಾಸಕ ಸ್ಥಾನಕ್ಕೆ ರಾಜೀನಾಮೆ: ಹಿರಿಯ ಕಾಂಗ್ರೆಸಿಗ ಎಚ್ ಕೆ ಪಾಟೀಲ್ ಎಚ್ಚರಿಕೆ](https://vijaykarnataka.com/news/gadaga/h-k-patil-warns-resign-as-mla-if-gadag-taluk-is-not-declare-drought-hit/articleshow/134367365.cms)
 - [ʻಬಿಗ್‌ ಬಾಸ್‌ 18 ಪ್ಲಸ್‌ ಅಲ್ಲ..ʼ: ‌ಸೌಂದರ್ಯ ತೇಜೋವಧೆ ಮಾಡಿದ ಮಂಜನಿಗೆ ಕಿಚ್ಚ ಸುದೀಪ್ ವಾರ್ನಿಂಗ್](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-kiccha-sudeep-takes-class-on-manja-over-soundarya-shetty/articleshow/134374916.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [ಚಾಣಕ್ಯ ನೀತಿ: ಈ 3 ಜನರೊಂದಿಗೆ ಶತ್ರುತ್ವ ಹೊಂದದಿರಲು ಕಾರಣ.!](https://vijaykarnataka.com/religion/hinduism/chanakya-niti-says-do-not-make-enmity-with-these-3-kind-of-people/articleshow/134352052.cms)
 - [ಕತ್ರಿನಾ ಕೈಫ್ ದಪ್ಪ ಆಗಿದ್ದಾರೆಂದು ಟ್ರೋಲ್ ಹೆರಿಗೆ ಬಳಿಕ ದೇಹದಲ್ಲಿ ಆಗುವ ಸಾಮಾನ್ಯ ಬದಲಾವಣೆಗಳೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/katrina-kaif-postpartum-body-changes-women-after-pregnancy/articleshow/134348311.cms)
-- [ವ್ಹೀಲಿಂಗ್ ಪುಂಡರನ್ನು ತಪ್ಪಿಸುವ ಯತ್ನದಲ್ಲಿ ಟೆಂಪೋ ಟ್ರಾವೆಲರ್ ಅಪಘಾತ, ಯುವಕ ಸಾವು; ನಾಗರಬಾವಿ ಬಳಿ ಹೃದಯ ವಿದ್ರಾವಕ ಘಟನೆ](https://vijaykarnataka.com/news/bengaluru-city/tempo-traveller-accident-due-to-wheelying-stunt-by-youth-near-nagarabhavi-one-youth-dies-six-injury/articleshow/134372079.cms)
+- [`ದೇಶದಲ್ಲಿ ಹುಲಿ, ವಿದೇಶದಲ್ಲಿ ಬೆಕ್ಕು'!: ಅಭಿಷೇಕ್ ಶರ್ಮಾ, ವೈಭವ್ ಸೂರ್ಯವಂಶಿ ಬಗ್ಗೆ ಹೊಗಳುತ್ತಲೇ ಚಾಟಿ ಬೀಸಿದ ಸಂದೀಪ್ ಪಾಟೀಲ್](https://vijaykarnataka.com/sports/cricket/news/sandeep-patil-warns-abhishek-sharma-vaibhav-sooryavanshi-about-failure-in-oversees-against-swing-bowling/articleshow/134370542.cms)
 
 **The Hindu**
+- [Getting away from gunshots](https://www.thehindu.com/news/national/himachal-pradesh/getting-away-from-gunshots/article71484095.ece)
 - [Heavy rains, squally wind likely in West Bengal from September 22](https://www.thehindu.com/news/national/west-bengal/heavy-rains-squally-wind-likely-in-west-bengal-from-september-22/article71488466.ece)
 - [INLD’s Sampat Singh attacks BJP’s ‘Seva Sankalp Abhiyaan’, alleges misuse of State machinery](https://www.thehindu.com/news/national/haryana/inlds-sampat-singh-attacks-bjps-seva-sankalp-abhiyaan-alleges-misuse-of-state-machinery/article71488503.ece)
 - [Lucknow’s S.R. Group of Institutions signs Five-Year MoU with SODES to strengthen digital education, skill development](https://www.thehindu.com/news/national/odisha/lucknows-sr-group-of-institutions-signs-five-year-mou-with-sodes-to-strengthen-digital-education-skill-development/article71488600.ece)
@@ -69,9 +70,8 @@
 - [‘Stop Vizag Data Centers’ Instagram account blocked in India](https://www.thehindu.com/news/national/andhra-pradesh/stop-vizag-data-centers-instagram-account-blocked-in-india/article71487350.ece)
 - [Once described as BIMARU, U.P. transformed as country’s growth engine, says CM Yogi](https://www.thehindu.com/news/national/uttar-pradesh/once-described-as-bimaru-up-transformed-as-countrys-growth-engine-says-cm-yogi/article71488822.ece)
 - [Missing measure in India’s magnet mission](https://www.thehindu.com/opinion/op-ed/missing-measure-in-indias-magnet-mission/article71488862.ece)
+- [SIR: As against 80.62 lakh shifted, absent names, only 6.66 lakh Form-6 applications](https://www.thehindu.com/news/cities/bangalore/sir-against-8062-lakh-shifted-absent-names-only-666-lakh-form-6-applications/article71488325.ece)
 - [Overnight rain brings temperatures down in Bengaluru; KIA weather station records 94.2 mm](https://www.thehindu.com/news/cities/bangalore/overnight-rain-bring-temperatures-down-in-bengaluru-kia-records-942-mm/article71487287.ece)
-- [Panathur Railway Underbridge submerged after rain, commuters struggle through hip-deep water](https://www.thehindu.com/news/cities/bangalore/panathur-railway-underbridge-submerged-after-rain-commuters-struggle-through-hip-deep-water/article71488104.ece)
-- [Boating to boost tourism at Peruvannamuzhi](https://www.thehindu.com/news/national/kerala/boating-to-boost-tourism-at-peruvannamuzhi/article71487538.ece)
 
 **Livemint**
 - [Man Shot by ICE Agent in Austin, Texas, Sparking Mayor’s Ire](https://www.livemint.com/news/man-shot-by-ice-agent-in-austin-texas-sparking-mayor-s-ire-11789949689784.html)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [BCCI to draw line on Ombudsman’s jurisdiction over state-level matters | EXCLUSIVE](https://timesofindia.indiatimes.com/sports/cricket/news/bcci-to-draw-line-on-ombudsmans-jurisdiction-over-state-level-matters-exclusive/articleshow/134368960.cms)
+- [నేను వాళ్లూ, వీళ్లూ వదిలిన బాణాన్ని కాదు: కవిత](https://www.ap7am.com/tn/880748/kalvakuntla-kavitha-says-she-is-an-arrow-of-bahujans-not-others)
+- [రివ్యూ: ‘లస్ట్‌ స్టోరీస్‌ 3’.. సిద్ధార్థ్‌-అదితి దంపతుల ఆంథాలజీ ఎలా ఉంది?](https://www.eenadu.net/telugu-news/movies/lust-stories-3-review/0203/126170137)
+- [देवेंद्र फडणवीसांना लिहिलेल्या पत्रावरुन मंत्री चंद्रकांत पाटील यांचा शरद पवारांना खोचक टोला](https://www.tv9marathi.com/maharashtra/bjp-leader-minister-chandrakant-patil-slam-sharad-pawar-over-he-written-letter-to-cm-devendra-fadnavis-1760470.html)
+- [పుణే కేతన్ అగర్వాల్ హత్య కేసులో 5053 పేజీల ఛార్జిషీట్.. చాట్‌జీపీటీ, పాడ్‌కాస్ట్‌లు, ఫేక్ ఇన్‌స్టా అకౌంట్లు](https://telugu.samayam.com/latest-news/india-news/ketan-agarwal-murder-case-inspired-by-podcasts-and-meghalaya-murder-case-how-siya-allegedly-planned-pune-lohagad-fort-murder-5053-page-chargesheet-filed/articleshow/134368793.cms)
+- [Asian Games 2026 T20: வரலாற்று சாதனைப் படைத்த சஃபாலி வர்மா - வங்கதேசத்தை எளிதாக வென்ற இந்தியா!](https://www.etvbharat.com/ta/sports/india-beat-bangladesh-in-asian-games-2026-women-cricket-semi-final-tns26092003785)
+- [“மீசைய முறுக்கு 2” இசைக் கலைஞர்களின் வாழ்க்கை போராட்டத்தை பேசும் - ஹிப்ஹாப் ஆதி](https://www.dailythanthi.com/cinema/cinemanews/meesaiya-murukku-2-will-talk-about-the-life-struggles-of-musicians-hiphop-adi)
+- [Rain | వాయుగుండంగా మారిన అల్ప‌పీడ‌నం.. రాష్ట్రంలో రానున్న మూడు రోజుల్లో భారీ వ‌ర్షాలు..!](https://www.ntnews.com/telangana/rain-low-pressure-area-intensifies-into-a-depression-heavy-rains-expected-across-the-state-over-the-next-three-days-2515518)
 - [Harish Rao | లాగ్‌బుక్స్‌ మాయం.. ప్రజా సమస్యలు వదిలేసి మా పొలాల దగ్గర తిరుగుతున్నారు : హరీశ్‌ రావు](https://www.ntnews.com/nalgonda/yadadri/congress-leaders-moving-around-our-paddy-fields-with-neglecting-of-public-issues-says-harish-rao-2515510)
 - [தஞ்சை உள்பட 21 மாவட்டங்களில் கனமழைக்கு வாய்ப்பு - வானிலை ஆய்வு மையம் தகவல்](https://www.hindutamil.in/news/tamilnadu/heavy-rain-forecast-for-21-districts-including-delta-region)
-- [రెండు జిల్లాల మధ్య సరిహద్దు వివాదం.. రూ.3 వేల కోట్ల విలువైన భూమికి యజమానులెవరు? 60 ఏళ్లుగా లభించని పరిష్కారం..!](https://telugu.samayam.com/telangana/hyderabad/boundary-dispute-between-medchal-malkajgiri-and-yadadri-bhuvanagiri-districts-leaves-rs-3k-cr-land-claim-unresolved/articleshow/134368209.cms)
-- [Saurashtra Rain: ગીર સોમનાથમાં વીજળી પડતા એકનું મોત, સૌરાષ્ટ્રના 5 જિલ્લામાં ધોધમાર વરસાદથી જળબંબાકાર](https://gujarati.abplive.com/news/gujarat/saurashtra-heavy-rain-amreli-junagadh-waterlogging-weather-updates-991647)
-- [Upcoming IPO : આવતા અઠવાડિયે આવશે 6 મેઇનબોર્ડ IPO, NSE સહિત 12 લિસ્ટિંગ પર નજર, જાણો વિગત](https://tv9gujarati.com/business/september-ipo-boom-19-new-ipos-open-next-week-1519312.html)
-- ['रिमोट सेंसिंग तकनीक से कराएंगे फेक एनकाउंटर की जांच', अखिलेश यादव ने बीजेपी पर बोला हमला](https://www.jagran.com/uttar-pradesh/lucknow-city-akhilesh-yadav-vows-fake-encounter-probe-with-remote-sensing-40379467.html)
-- [Old era of jingoism, equating Nepali nationalism with anti-Indianism, is over: Nepal Finance Minister](https://www.thehindu.com/news/national/old-era-of-jingoism-equating-nepali-nationalism-with-anti-indianism-is-over-nepal-finance-minister/article71487515.ece)
-- [चंद्रशेखरन की ताजपोशी को Tata Trust ने बताया गैर-कानूनी, खारिज किया बोर्ड का फैसला](https://www.abplive.com/business/tata-trusts-terms-chandrasekaran-appointment-illegal-rejects-board-decision-3191515)
-- [નવરાત્રીમાં ભાડે મળશે ગરબા પાર્ટનર? વાયરલ પોસ્ટ પર સાયબર ક્રાઈમની મોટી ચેતવણી](https://gujarati.abplive.com/news/gujarat/rent-a-garba-partner-viral-post-navratri-ahmedabad-cyber-crime-alert-991644)
-- [दुष्काळ जाहीर करा, विकासकामे थांबवा, संकटात सापडलेल्या शेतकऱ्यांना जगवण्यासाठी खर्च करा, रोहित पवारांची सरकारकडे मागणी](https://marathi.abplive.com/agriculture/rohit-pawar-is-on-a-tour-to-inspect-the-drought-affected-regions-of-marathwada-and-has-demanded-that-the-government-provide-assistance-to-the-farmers-1439700)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
