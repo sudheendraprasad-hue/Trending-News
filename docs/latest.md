@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-21 01:02:21
+# India Trending Report — 2026-09-21 01:34:55
 
 ## Google Trends (India) — top trending searches
-1. [inter miami](https://trends.google.com/trending/rss?geo=IN)
-2. [nfl](https://trends.google.com/trending/rss?geo=IN)
-3. [8वें वेतन आयोग सैलरी](https://trends.google.com/trending/rss?geo=IN)
-4. [amit shah](https://trends.google.com/trending/rss?geo=IN)
-5. [tata aeris](https://trends.google.com/trending/rss?geo=IN)
-6. [man utd](https://trends.google.com/trending/rss?geo=IN)
-7. [clock](https://trends.google.com/trending/rss?geo=IN)
-8. [real madrid vs](https://trends.google.com/trending/rss?geo=IN)
-9. [laliga](https://trends.google.com/trending/rss?geo=IN)
-10. [epl](https://trends.google.com/trending/rss?geo=IN)
+1. [fc barcelona match](https://trends.google.com/trending/rss?geo=IN)
+2. [inter miami](https://trends.google.com/trending/rss?geo=IN)
+3. [nfl](https://trends.google.com/trending/rss?geo=IN)
+4. [8वें वेतन आयोग सैलरी](https://trends.google.com/trending/rss?geo=IN)
+5. [amit shah](https://trends.google.com/trending/rss?geo=IN)
+6. [tata aeris](https://trends.google.com/trending/rss?geo=IN)
+7. [man utd](https://trends.google.com/trending/rss?geo=IN)
+8. [clock](https://trends.google.com/trending/rss?geo=IN)
+9. [real madrid vs](https://trends.google.com/trending/rss?geo=IN)
+10. [laliga](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Bengal SIR tribunals may take 12 years to decide on appeals](https://timesofindia.indiatimes.com/india/bengal-sir-tribunals-may-take-12-years-to-decide-on-appeals/articleshow/134376466.cms)
+- [Delhi SIRprises: Jaishankar, Dhankhar, Advani & more issued notices for ‘discrepancies’](https://timesofindia.indiatimes.com/city/delhi/lk-advani-dhankar-sisodia-also-issued-sir-notices/articleshow/134372553.cms)
 - [Tata dipute: Lawyers Singhvi, Salve now on opposing sides](https://timesofindia.indiatimes.com/business/india-business/tata-dipute-singhvi-salve-now-on-opposing-sides/articleshow/134375598.cms)
 - [Indian-origin climber, Nepalese guide killed in Manaslu avalanche](https://timesofindia.indiatimes.com/world/south-asia/indian-origin-climber-nepalese-guide-killed-in-manaslu-avalanche/articleshow/134371124.cms)
-- [Iran threatens 'painful retaliation' if US strikes as Trump warns of 'big things'](https://timesofindia.indiatimes.com/world/middle-east/iran-warns-us-allies-against-new-attack-threatens-retaliation/articleshow/134374995.cms)
-- [Delhi SIRprises: Jaishankar, Dhankhar, Advani & more issued notices for ‘discrepancies’](https://timesofindia.indiatimes.com/city/delhi/lk-advani-dhankar-sisodia-also-issued-sir-notices/articleshow/134372553.cms)
+- ['I won't leave it until I win': Khan returns for his 4th Asiad with same Oly dream](https://timesofindia.indiatimes.com/sports/asian-games-2026/i-wont-leave-it-until-i-win-mairaj-ahmad-khan-returns-for-his-4th-asian-games-with-the-same-olympic-dream-he-had-20-years-ago/articleshow/134377486.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
+- [37 lakh cases pending: Bengal SIR tribunals may take 12 years to decide on appeals](https://timesofindia.indiatimes.com/india/bengal-sir-tribunals-may-take-12-years-to-decide-on-appeals/articleshow/134376466.cms)
+- [Iran threatens 'painful retaliation' if US strikes as Trump warns of 'big things'](https://timesofindia.indiatimes.com/world/middle-east/iran-warns-us-allies-against-new-attack-threatens-retaliation/articleshow/134374995.cms)
+- [ICE officer shoots, wounds man in Austin; protesters demand probe](https://timesofindia.indiatimes.com/world/us/ice-officer-shoots-wounds-man-in-austin-protesters-demand-probe/articleshow/134377450.cms)
 - ['Nothing wrong if people happily tip govt officials': K'taka minister sparks row](https://timesofindia.indiatimes.com/city/bengaluru/offer-tips-to-good-officers-says-min-lands-in-soup/articleshow/134374842.cms)
-- [US prepares sweeping sanctions on International Criminal Court](https://timesofindia.indiatimes.com/world/us/us-prepares-sweeping-sanctions-on-international-criminal-court/articleshow/134375029.cms)
-- [One year on, commodity prices eat into gains from GST rate rejig](https://timesofindia.indiatimes.com/business/india-business/one-year-on-commodity-prices-eat-into-gains-from-gst-rate-rejig/articleshow/134375353.cms)
-- [Using recovery agents proves costly for truck financier, SC orders Rs 15 lakh payout](https://timesofindia.indiatimes.com/india/using-recovery-agents-proves-costly-for-truck-financier/articleshow/134375079.cms)
+- [Michael Dell’s $10.9m Boston penthouse heads to auction with $6.5m reserve](https://timesofindia.indiatimes.com/real-estate/in-2016-michael-dell-paid-10-9-million-for-a-boston-penthouse-10-years-later-the-barely-used-4100-sq-ft-home-is-going-to-auction-with-a-6-5-million-reserve/articleshow/134371976.cms)
 
 **NDTV**
 - [North Korea Launches 2 Ballistic Missiles Toward Sea](https://www.ndtv.com/world-news/north-korea-launches-2-ballistic-missiles-toward-sea-12073587#publisher=newsstand)
@@ -50,16 +50,16 @@
 - [Ahmedabad Crime Branch arrests man wanted for 24 years in Rajasthan murder case](https://www.hindustantimes.com/india-news/ahmedabad-crime-branch-arrests-man-wanted-for-24-years-in-rajasthan-murder-case-101789916066672.html)
 
 **Vijay Karnataka**
+- [ಹುಣಸಗಿಯಲ್ಲಿ ಏಕಕಾಲಕ್ಕೆ 2 ಶಾಲೆಯಲ್ಲಿ ಕರ್ತವ್ಯದ ನಕಲಿ ದಾಖಲೆ ಸೃಷ್ಟಿಸಿ ಡಬಲ್‌ ಪೇ ಪಡೆದ ಅತಿಥಿ ಶಿಕ್ಷಕ!](https://vijaykarnataka.com/news/yadgir/yadgiri-guest-teacher-caught-in-double-salary-scandal-fraudulent-duty-records-uncovered/articleshow/134377455.cms)
 - [ತುಳುವಿಗೆ ಅಧಿಕೃತ ಮಾನ್ಯತೆ: ಇನ್ಮೇಲೆ ಇಲಾಖಾ ಕಡತಗಳಲ್ಲಿ ತುಳು ಭಾಷೆ ಕಡ್ಡಾಯ, ಅಧಿಕಾರಿಗಳಿಗೂ ಭಾಷಾ ಜ್ಞಾನ ಅಗತ್ಯ!](https://vijaykarnataka.com/news/mangaluru/official-recognition-for-tulu-language-mandatory-use-of-tulu-in-administration/articleshow/134377369.cms)
 - [ಯುವ ಮೆರಿಡಿಯನ್‌ ಹೋಟೆಲ್ ಈಗ ಫಿಲ್ಮ್‌ ಸಿಟಿ; ʼಕಾಂತಾರ ಕಥೆ ಹುಟ್ಟಿದ್ದು ಇಲ್ಲೇʼ.. ಶೂಟಿಂಗ್ ಸೆಟ್ ಸೀಕ್ರೆಟ್ ಬಿಚ್ಚಿಟ್ಟ ನಟ ರಿಷಬ್‌ ಶೆಟ್ಟಿ!](https://vijaykarnataka.com/news/udupi/uva-meridian-hotel-now-film-city-rishabh-shetty-reveals-kantara-movie-story-shooting-set-secretes-in-meridian-bay/articleshow/134377186.cms)
-- [ಕಾರ್ಪೊರೇಟ್ ಕೆಲಸ ಬಿಟ್ಟು ಮಣ್ಣಿಗಿಳಿದ ಯುವತಿ; ಕ್ಯಾಪ್ಸಿಕಂ ಬೆಳೆದು ವರ್ಷಕ್ಕೆ 4 ಕೋಟಿ ರೂ. ಗಳಿಸುತ್ತಿರುವ ಪ್ರಣೀತಾ ವಮನ್ ಯಶೋಗಾಥೆ!](https://vijaykarnataka.com/business/news/young-woman-quits-corporate-job-to-turn-to-farming-the-success-story-of-pranitha-vaman-earns-4-crore-rs-growing-capsicum/articleshow/134368545.cms)
 - [ಪಟೋಲಾ ಕುರ್ತಾದಲ್ಲಿ ಮಿಂಚಿದ ದೀಪಿಕಾ ಪಡುಕೋಣೆ; ಸಿದ್ಧಿವಿನಾಯಕ ದರ್ಶನಕ್ಕೆ ಬಂದ ನಟಿಯ ಲುಕ್ ವೈರಲ್!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-siddhivinayak-temple-patola-kurta-look/articleshow/134352111.cms)
-- [ಗದಗ ತಾಲೂಕು ಬರಪೀಡಿತ ಎಂದು ಘೋಷಿಸದಿದ್ದರೆ ಶಾಸಕ ಸ್ಥಾನಕ್ಕೆ ರಾಜೀನಾಮೆ: ಹಿರಿಯ ಕಾಂಗ್ರೆಸಿಗ ಎಚ್ ಕೆ ಪಾಟೀಲ್ ಎಚ್ಚರಿಕೆ](https://vijaykarnataka.com/news/gadaga/h-k-patil-warns-resign-as-mla-if-gadag-taluk-is-not-declare-drought-hit/articleshow/134367365.cms)
+- [ಕಾರ್ಪೊರೇಟ್ ಕೆಲಸ ಬಿಟ್ಟು ಮಣ್ಣಿಗಿಳಿದ ಯುವತಿ; ಕ್ಯಾಪ್ಸಿಕಂ ಬೆಳೆದು ವರ್ಷಕ್ಕೆ 4 ಕೋಟಿ ರೂ. ಗಳಿಸುತ್ತಿರುವ ಪ್ರಣೀತಾ ವಮನ್ ಯಶೋಗಾಥೆ!](https://vijaykarnataka.com/business/news/young-woman-quits-corporate-job-to-turn-to-farming-the-success-story-of-pranitha-vaman-earns-4-crore-rs-growing-capsicum/articleshow/134368545.cms)
 - [ʻಬಿಗ್‌ ಬಾಸ್‌ 18 ಪ್ಲಸ್‌ ಅಲ್ಲ..ʼ: ‌ಸೌಂದರ್ಯ ತೇಜೋವಧೆ ಮಾಡಿದ ಮಂಜನಿಗೆ ಕಿಚ್ಚ ಸುದೀಪ್ ವಾರ್ನಿಂಗ್](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-kiccha-sudeep-takes-class-on-manja-over-soundarya-shetty/articleshow/134374916.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [ಚಾಣಕ್ಯ ನೀತಿ: ಈ 3 ಜನರೊಂದಿಗೆ ಶತ್ರುತ್ವ ಹೊಂದದಿರಲು ಕಾರಣ.!](https://vijaykarnataka.com/religion/hinduism/chanakya-niti-says-do-not-make-enmity-with-these-3-kind-of-people/articleshow/134352052.cms)
 - [ಕತ್ರಿನಾ ಕೈಫ್ ದಪ್ಪ ಆಗಿದ್ದಾರೆಂದು ಟ್ರೋಲ್ ಹೆರಿಗೆ ಬಳಿಕ ದೇಹದಲ್ಲಿ ಆಗುವ ಸಾಮಾನ್ಯ ಬದಲಾವಣೆಗಳೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/katrina-kaif-postpartum-body-changes-women-after-pregnancy/articleshow/134348311.cms)
-- [`ದೇಶದಲ್ಲಿ ಹುಲಿ, ವಿದೇಶದಲ್ಲಿ ಬೆಕ್ಕು'!: ಅಭಿಷೇಕ್ ಶರ್ಮಾ, ವೈಭವ್ ಸೂರ್ಯವಂಶಿ ಬಗ್ಗೆ ಹೊಗಳುತ್ತಲೇ ಚಾಟಿ ಬೀಸಿದ ಸಂದೀಪ್ ಪಾಟೀಲ್](https://vijaykarnataka.com/sports/cricket/news/sandeep-patil-warns-abhishek-sharma-vaibhav-sooryavanshi-about-failure-in-oversees-against-swing-bowling/articleshow/134370542.cms)
+- [ಗದಗ ತಾಲೂಕು ಬರಪೀಡಿತ ಎಂದು ಘೋಷಿಸದಿದ್ದರೆ ಶಾಸಕ ಸ್ಥಾನಕ್ಕೆ ರಾಜೀನಾಮೆ: ಹಿರಿಯ ಕಾಂಗ್ರೆಸಿಗ ಎಚ್ ಕೆ ಪಾಟೀಲ್ ಎಚ್ಚರಿಕೆ](https://vijaykarnataka.com/news/gadaga/h-k-patil-warns-resign-as-mla-if-gadag-taluk-is-not-declare-drought-hit/articleshow/134367365.cms)
 
 **The Hindu**
 - [Getting away from gunshots](https://www.thehindu.com/news/national/himachal-pradesh/getting-away-from-gunshots/article71484095.ece)
@@ -74,6 +74,7 @@
 - [Overnight rain brings temperatures down in Bengaluru; KIA weather station records 94.2 mm](https://www.thehindu.com/news/cities/bangalore/overnight-rain-bring-temperatures-down-in-bengaluru-kia-records-942-mm/article71487287.ece)
 
 **Livemint**
+- [US-Iran war LIVE Updates: US issues Iran travel warning, Tehran warns of 'continuous, painful' attacks on US bases if...](https://www.livemint.com/news/us-news/usiran-war-live-update-donald-trump-strait-of-hormuz-tehran-travel-warning-painful-attacks-us-bases-saudi-yemen-houthis-11789953418288.html)
 - [Man Shot by ICE Agent in Austin, Texas, Sparking Mayor’s Ire](https://www.livemint.com/news/man-shot-by-ice-agent-in-austin-texas-sparking-mayor-s-ire-11789949689784.html)
 - [Dutch Police Break Up Violent Far-Right Protest in The Hague](https://www.livemint.com/news/dutch-police-break-up-violent-far-right-protest-in-the-hague-11789946269251.html)
 - [What time is 60 Minutes on tonight? How to watch Patrick Clancy’s first TV interview on CBS](https://www.livemint.com/news/us-news/what-time-is-60-minutes-on-tonight-how-to-watch-patrick-clancy-s-first-tv-interview-on-cbs-11789938984690.html)
@@ -83,9 +84,18 @@
 - [Giorgia Meloni plans burqa, niqab ban in Italian schools and cap on foreign students in classrooms](https://www.livemint.com/news/world/giorgia-meloni-plans-burqa-niqab-ban-in-italian-schools-and-cap-on-foreign-students-in-classrooms-11789925960986.html)
 - [Etihad Delhi-Abu Dhabi flight cancellation: What rules say about compensation when technical issues disrupt travel](https://www.livemint.com/news/india/etihad-delhi-abu-dhabi-flight-cancellation-what-rules-say-about-compensation-when-technical-issues-disrupt-travel-11789927190997.html)
 - [Karnataka FDA cracks down on fake drug racket: 24 licences hit,  ₹5 cr stock seized — what did it find during raid?](https://www.livemint.com/news/india/karnataka-fda-cracks-down-on-fake-drug-racket-24-licences-hit-rs-5-cr-stock-seized-what-did-it-find-during-raid-11789924262491.html)
-- [iPhone langar cancelled? Who is Raja D King, influencer and businessman whose event has been stopped in Chandigarh](https://www.livemint.com/news/trends/iphone-langar-cancelled-who-is-raja-d-king-influencer-and-businessman-whose-event-has-been-stopped-in-chandigarh-11789924761582.html)
 
-**Moneycontrol** — _unavailable_
+**Moneycontrol**
+- [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
+- [Buy Tejas Networks; target of Rs 1100: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html)
+- [Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html)
+- [Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html)
+- [Reduce Wipro; target of Rs 410: ICICI Securities](https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html)
+- [Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html)
+- [Buy Patel Engineering; target of Rs 80: ICICI Direct](https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html)
+- [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
 - [ಅಡ್ಡೂರು ಸೆಂಟ್ರಲ್ ಕಮಿಟಿಯಿಂದ ಎಕ್ಸಲೆನ್ಸ್ ಅವಾರ್ಡ್ ವಿತರಣೆ, ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸನ್ಮಾನ](https://www.varthabharati.in/DakshinaKannada/--2276660)
@@ -100,35 +110,35 @@
 - [ಕಪಿಲ್ ಸಿಬಲ್ ರಿಗೂ ಬಂತು SIR ನೋಟೀಸ್! ಸಿಂಧುವಾದ ಮತಗಳ ‘ವಿಶೇಷ ಸಮಗ್ರ ತೆಗೆದು ಹಾಕುವಿಕೆ’: EC ವಿರುದ್ಧ ಸಿಬಲ್ ವಾಗ್ದಾಳಿ](https://www.varthabharati.in/National/kapil-sibal-lashes-out-at-the-sir-following-the-ec-notice-regarding-the-special-comprehensive-deletion-of-valid-votes-2276648)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Emkay Global Financial (5.0)
+- ICICI Securities (3.0)
+- target (3.0)
 - Jaishankar (2.6)
 - Advani (2.6)
+- Iran (2.6)
+- Austin (2.6)
 - Congress (2.6)
 - India (2.6)
 - What (2.6)
-- Bengal (1.9)
+- Buy Bajaj Finance (2.0)
 - Tata (1.9)
+- Bengal (1.9)
 - Karnataka (1.9)
 - Salve (1.6)
-- Rajasthan (1.6)
-- Seva (1.6)
-- Indian-origin (1.3)
-- Nepalese (1.3)
-- Manaslu (1.3)
-- Iran (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [BCCI to draw line on Ombudsman’s jurisdiction over state-level matters | EXCLUSIVE](https://timesofindia.indiatimes.com/sports/cricket/news/bcci-to-draw-line-on-ombudsmans-jurisdiction-over-state-level-matters-exclusive/articleshow/134368960.cms)
-- [నేను వాళ్లూ, వీళ్లూ వదిలిన బాణాన్ని కాదు: కవిత](https://www.ap7am.com/tn/880748/kalvakuntla-kavitha-says-she-is-an-arrow-of-bahujans-not-others)
-- [రివ్యూ: ‘లస్ట్‌ స్టోరీస్‌ 3’.. సిద్ధార్థ్‌-అదితి దంపతుల ఆంథాలజీ ఎలా ఉంది?](https://www.eenadu.net/telugu-news/movies/lust-stories-3-review/0203/126170137)
-- [देवेंद्र फडणवीसांना लिहिलेल्या पत्रावरुन मंत्री चंद्रकांत पाटील यांचा शरद पवारांना खोचक टोला](https://www.tv9marathi.com/maharashtra/bjp-leader-minister-chandrakant-patil-slam-sharad-pawar-over-he-written-letter-to-cm-devendra-fadnavis-1760470.html)
-- [పుణే కేతన్ అగర్వాల్ హత్య కేసులో 5053 పేజీల ఛార్జిషీట్.. చాట్‌జీపీటీ, పాడ్‌కాస్ట్‌లు, ఫేక్ ఇన్‌స్టా అకౌంట్లు](https://telugu.samayam.com/latest-news/india-news/ketan-agarwal-murder-case-inspired-by-podcasts-and-meghalaya-murder-case-how-siya-allegedly-planned-pune-lohagad-fort-murder-5053-page-chargesheet-filed/articleshow/134368793.cms)
-- [Asian Games 2026 T20: வரலாற்று சாதனைப் படைத்த சஃபாலி வர்மா - வங்கதேசத்தை எளிதாக வென்ற இந்தியா!](https://www.etvbharat.com/ta/sports/india-beat-bangladesh-in-asian-games-2026-women-cricket-semi-final-tns26092003785)
-- [“மீசைய முறுக்கு 2” இசைக் கலைஞர்களின் வாழ்க்கை போராட்டத்தை பேசும் - ஹிப்ஹாப் ஆதி](https://www.dailythanthi.com/cinema/cinemanews/meesaiya-murukku-2-will-talk-about-the-life-struggles-of-musicians-hiphop-adi)
-- [Rain | వాయుగుండంగా మారిన అల్ప‌పీడ‌నం.. రాష్ట్రంలో రానున్న మూడు రోజుల్లో భారీ వ‌ర్షాలు..!](https://www.ntnews.com/telangana/rain-low-pressure-area-intensifies-into-a-depression-heavy-rains-expected-across-the-state-over-the-next-three-days-2515518)
-- [Harish Rao | లాగ్‌బుక్స్‌ మాయం.. ప్రజా సమస్యలు వదిలేసి మా పొలాల దగ్గర తిరుగుతున్నారు : హరీశ్‌ రావు](https://www.ntnews.com/nalgonda/yadadri/congress-leaders-moving-around-our-paddy-fields-with-neglecting-of-public-issues-says-harish-rao-2515510)
-- [தஞ்சை உள்பட 21 மாவட்டங்களில் கனமழைக்கு வாய்ப்பு - வானிலை ஆய்வு மையம் தகவல்](https://www.hindutamil.in/news/tamilnadu/heavy-rain-forecast-for-21-districts-including-delta-region)
+- [1,000க்கும் மேற்பட்ட ட்ரோன்கள் வீசி ரஷ்யா மீது உக்ரைன் பெரும் தாக்குதல்](https://www.dinamalar.com/news/india-tamil-news/ukraine-launches-massive-attack-on-russia-with-more-than-1000-drones/4327920)
+- [Asian Games 2026 Day 1 Medal Tally: Where India rank after two shooting silvers in Aichi-Nagoya](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-day-1-medal-tally-where-india-rank-after-two-shooting-silvers-in-aichi-nagoya/articleshow/134369371.cms)
+- [ઈરાન યુદ્ધ ભારે પડ્યું : ટ્રમ્પની મનમાનીથી અમેરિકાની મુશ્કેલી વધી, ડીઝલના ભાવ પહોંચ્યા આસામાને](https://www.gujaratsamachar.com/news/international/iran-war-escalates-trumps-arbitrariness-increases-americas-problems-diesel-prices-reach-record-highs-62132362567)
+- [1 ઓક્ટોબરથી લાગુ થશે LPG ગેસનો નવો નિયમ, સબસિડી જોઈતી હોય તો ઘરે બેઠા તરત કરો આ કામ](https://www.gujaratsamachar.com/news/national/new-lpg-gas-rules-will-be-implemented-from-october-1-if-you-want-subsidy-do-this-immediately-while-sitting-at-home-54972711675)
+- [Khairatabad By-Election : దానం నాగేందర్‌కు ఉపఎన్నికలు కలిసిరావు - ఎంపీ రఘునందన్‌రావు](https://vaartha.com/telangana/by-elections-do-not-favor-danam-nagender-mp-raghunandan-rao/779782/)
+- [సల్మాన్ ఖాన్: ‘ఈసారి చిరిగిపోయిన షూ వేసుకు వస్తా.. ఎంత ట్రోల్ చేస్తారో చేసుకోండి’](https://www.bbc.com/telugu/articles/c9770m778ggyo)
+- [ZIM vs AUS: 41 की उम्र में क्रेग इरविन ने बल्ले से रचा इतिहास, बना डाला गजब का रिकॉर्ड, ऑस्ट्रेलियाई गेंदबाज भी नहीं रोक सके](https://www.aajtak.in/sports/cricket/story/zim-vs-aus-3rd-odi-craig-ervine-scripts-history-becomes-oldest-player-in-history-to-achieve-this-aksp-dskc-2648354-2026-09-20)
+- [Senior Citizen FD: ₹1 लाख पर ₹7,450 तक ब्याज, BoI से लेकर SBI तक, जानें किस बैंक में कितना रिटर्न?](https://www.livehindustan.com/business/senior-citizen-fd-rates-bank-of-india-sbi-public-sector-and-other-banks-check-full-list-201789906724542.html)
+- [বিমানে Airplane Mode কেন? জানুন ফোন বন্ধ না করেও এর আসল কারণ](https://eisamay.com/photo-gallery/why-airplane-mode-required-on-flights-safety-reason/200545110.cms)
+- [From muscle to menopause: Why creatine is finding a new audience in women](https://www.cnbctv18.com/lifestyle/healthcare/from-muscle-to-menopause-why-creatine-is-finding-a-new-audience-in-women-19994339.htm)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
