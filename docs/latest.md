@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-21 18:38:09
+# India Trending Report — 2026-09-21 19:01:28
 
 ## Google Trends (India) — top trending searches
 1. [realme 16 pro](https://trends.google.com/trending/rss?geo=IN)
@@ -14,16 +14,16 @@
 
 ## Latest headlines by outlet
 **Times of India**
+- [Trump dodged Yemen's plea for military support amid Houthi attacks on Riyadh: Report](https://timesofindia.indiatimes.com/world/middle-east/trump-dodged-yemens-plea-for-military-support-against-houthis-amid-attacks-on-saudi-arabia-report/articleshow/134392205.cms)
 - [Ishan is the 'chosen one'? Mayawati's latest U-turn deepens ongoing BSP family drama](https://timesofindia.indiatimes.com/india/the-chosen-one-for-a-role-in-bsp-is-ishan-mayawatis-another-u-turn-in-ongoing-family-drama/articleshow/134392964.cms)
 - [Pak in crisis: PTI to hold Sept 27 stir 'at all costs' for release of Imran Khan](https://timesofindia.indiatimes.com/world/pakistan/pakistan-in-crisis-pti-to-hold-sept-27-stir-at-all-costs-imran-khans-sisters-challenge-detention-orders/articleshow/134394418.cms)
 - [Trump: ‘Whoever wins AI, wins!’ Calls AI doomsday warnings a ‘hoax’](https://timesofindia.indiatimes.com/world/us/whoever-wins-ai-wins-trump-calls-ai-doomsday-warnings-bigger-hoax-than-climate-change/articleshow/134395249.cms)
 - [Trump goes off air: US TV networks suspend coverage after White House bans CNN](https://timesofindia.indiatimes.com/world/us/major-us-tv-networks-blackout-trump-coverage-protest-white-house-ban-on-cnn/articleshow/134393531.cms)
-- [Over $3bn and counting: What's fuelling India's export surge to China?](https://timesofindia.indiatimes.com/business/india-business/ai-electronics-and-engineering-goods-fuel-indias-export-surge-into-china/articleshow/134388925.cms)
 - [USCIS warns against websites and businesses ‘guaranteeing’ faster visa](https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-warns-visa-applicants-against-websites-and-businesses-guaranteeing-visa-green-card-or-work-permit-faster/articleshow/134383537.cms)
-- [Russia was building sanctions-proof ties with Iran before US attacked: Report](https://timesofindia.indiatimes.com/business/international-business/from-finance-system-to-nuclear-tech-inside-russias-secret-plan-for-sanctions-proof-ties-with-iran/articleshow/134387884.cms)
+- [Over $3bn and counting: What's fuelling India's export surge to China?](https://timesofindia.indiatimes.com/business/india-business/ai-electronics-and-engineering-goods-fuel-indias-export-surge-into-china/articleshow/134388925.cms)
 - [Retired man deposits Rs 1.33cr, files no ITR; taxman sends notice, what ITAT said](https://timesofindia.indiatimes.com/business/india-business/retired-senior-citizen-teacher-deposited-rs-1-33-crore-cash-but-filed-no-itr-taxman-added-rs-48-73-lakh-itat-quashes-reassessment-heres-why/articleshow/134393155.cms)
 - [Oilers linked to Dylan Larkin trade in Matthew Savoie-led blockbuster](https://timesofindia.indiatimes.com/sports/nhl/news/oilers-linked-to-blockbuster-dylan-larkin-trade-as-matthew-savoie-led-package-puts-detroit-in-a-difficult-position/articleshow/134379564.cms)
-- [US on alert after China's 'dual-use' research vessels spotted near Alaska](https://timesofindia.indiatimes.com/world/us/us-on-alert-after-chinas-dual-use-research-vessels-spotted-near-alaska-multiple-times-this-year/articleshow/134387694.cms)
+- [Russia was building sanctions-proof ties with Iran before US attacked: Report](https://timesofindia.indiatimes.com/business/international-business/from-finance-system-to-nuclear-tech-inside-russias-secret-plan-for-sanctions-proof-ties-with-iran/articleshow/134387884.cms)
 
 **NDTV**
 - [Rider Dies, Wife Injured After Speeding Thar Hits Scooter In Greater Noida](https://www.ndtv.com/india-news/rider-dies-wife-injured-after-speeding-thar-hits-scooter-in-greater-noida-12078114#publisher=newsstand)
@@ -62,6 +62,9 @@
 - [ಅಯೋಧ್ಯೆ ರಾಮಮಂದಿರ ದೇಣಿಗೆ ಲೂಟಿ ಪ್ರಕರಣ: 105 ಕಳ್ಳತನ ಪ್ರಕರಣ ಪತ್ತೆ! ಸೆ.25ರೊಳಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ಗೆ SIT ಚಾರ್ಜ್‌ಶೀಟ್?](https://vijaykarnataka.com/news/india/ayodhya-ram-temple-donation-theft-caught-on-cctv-105-times-sit-report/articleshow/134393656.cms)
 
 **The Hindu**
+- [Tamil Nadu explains to Cauvery Authority the rationale behind its demand for clearing backlog of 16 tmc ft](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-explains-to-cauvery-authority-the-rationale-behind-its-demand-for-clearing-backlog-of-16-tmc-ft/article71492248.ece)
+- [Hyderabad’s Paradise-Shamirpet elevated corridor hopes to take long-distance traffic off local roads](https://www.thehindu.com/news/cities/Hyderabad/hyderabads-paradise-shamirpet-elevated-corridor-hopes-to-take-long-distance-traffic-off-local-roads/article71488339.ece)
+- [businessline’s 8th Changemaker Awards to be presented by Finance Minister](https://www.thehindu.com/business/businesslines-8th-changemaker-awards-ready-for-kick-off/article71492095.ece)
 - [Collector inspects dengue prevention measures in Cuddalore](https://www.thehindu.com/news/national/tamil-nadu/collector-inspects-dengue-prevention-measures-in-cuddalore/article71491027.ece)
 - [SIT files chargesheet in Sai Krishna’s alleged custodial death case](https://www.thehindu.com/news/national/andhra-pradesh/sit-files-chargesheet-in-sai-krishnas-alleged-custodial-death-case/article71492793.ece)
 - [NTR Collector launches ‘Operation Trishul’ to combat drug usage, crimes against women and road accidents](https://www.thehindu.com/news/national/andhra-pradesh/ntr-collector-launches-operation-trishul-to-combat-drug-usage-crimes-against-women-and-road-accidents/article71492455.ece)
@@ -69,9 +72,6 @@
 - [Centre plans to reward safe drivers with low insurance premiums](https://www.thehindu.com/news/national/good-drivers-may-benefit-from-lower-insurance-premiums/article71492466.ece)
 - [‘Partners for Multilateralism’: India to attend new non-superpower grouping’s inaugural session at UN](https://www.thehindu.com/news/national/partners-for-multilateralism-india-to-attend-new-non-superpower-groupings-inaugural-session-at-un/article71490513.ece)
 - [DBRC held livelihood support programme for waste and hair pickers in Vijayawada](https://www.thehindu.com/news/national/andhra-pradesh/dbrc-held-livelihood-support-programme-for-waste-and-hair-pickers-in-vijayawada/article71492530.ece)
-- [Cultural performances mark Mahakavi Gurajada’s 164th birth anniversary in Vijayawada](https://www.thehindu.com/news/national/andhra-pradesh/cultural-performances-mark-mahakavi-gurajadas-164th-birth-anniversary-in-vijayawada/article71492707.ece)
-- [Three Bandlaguda RTO officials suspended after viral video shows cash being counted](https://www.thehindu.com/news/national/telangana/three-bandlaguda-rto-officials-suspended-after-viral-video-shows-cash-being-counted/article71492847.ece)
-- [Supreme Court issues notice on plea in sinking of MSC Elsa 3](https://www.thehindu.com/news/national/supreme-court-issues-notice-on-plea-in-sinking-of-msc-elsa-3/article71492837.ece)
 
 **Livemint**
 - [Jennifer Eckhart dies at 36: Former Fox Business producer found dead at Florida home- What we know](https://www.livemint.com/news/us-news/jennifer-eckhart-dies-at-36-former-fox-business-producer-found-dead-at-florida-home-what-we-know-11790014231126.html)
@@ -88,6 +88,7 @@
 **Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
+- [ನಾಗಮಂಗಲ | ಅಂಗನವಾಡಿ ಕಾರ್ಯಕರ್ತೆ ಅತ್ಯಾಚಾರ ಪ್ರಕರಣ: ಗ್ರಾಮ ಲೆಕ್ಕಾಧಿಕಾರಿ ಬಂಧನ](https://www.varthabharati.in/mandya/mandya-2276956)
 - [Chamarajanagar | ಕೆಬ್ಬೇಪುರದಲ್ಲಿ ಅಸ್ಪೃಶ್ಯತೆ ಆಚರಣೆ: ನಾಲ್ವರ ಮೇಲೆ ಎಫ್‌ಐಆರ್ ದಾಖಲು](https://www.varthabharati.in/chamarajanagar/chamarajanagar-2276953)
 - [Tumakur | ಗಿಡಗಳ ಮಧ್ಯೆ ಗಾಂಜಾ ಬೆಳೆದ ಪೊಲೀಸ್ ಪುತ್ರನ ಬಂಧನ](https://www.varthabharati.in/tumkur/tumakur-2276952)
 - [Tumakur | ಕರ್ನಾಟಕ ಪಬ್ಲಿಕ್ ಶಾಲೆಗೆ ಕಲ್ಲು ತೂರಾಟ: ಕಿಟಕಿಗಳಿಗೆ ಹಾನಿ](https://www.varthabharati.in/tumkur/tumakuru-stone-pelting-at-karnataka-public-school-windows-damaged-2276951)
@@ -97,14 +98,14 @@
 - [IIT ಕ್ಯಾಂಪಸ್ ಗಳಲ್ಲೂ ಜಾತಿ ತಾರತಮ್ಯ: ಮುಗಿಯದ ಪಿಡುಗು](https://www.varthabharati.in/National/caste-discrimination-in-iit-campuses-too-a-persistent-scourge-2276942)
 - [ಕಸ್ತೂರಿ ರಂಗನ್ ವರದಿಯ ಟಿಪ್ಪಣಿ ಮಂಡಿಸಿದ ಡಿಸಿಎಂ: ವಸ್ತುನಿಷ್ಠ ನಿಲುವು ತಾಳಲು ಡಾ.ಜಿ.ಪರಮೇಶ್ವರ್ ಮನವಿ](https://www.varthabharati.in/bengaluru/dr-g-parameshwara-2276941)
 - [Bengaluru | ಮಾರಾಕಾಸ್ತ್ರಗಳನ್ನು ಹಿಡಿದು ವ್ಯಕ್ತಿಯ ಕೊಲೆಗೆ ಯತ್ನ: ಆರೋಪಿಗಳ ಬಂಧನ](https://www.varthabharati.in/bangalore-city/bengaluru-2276940)
-- [ಡಿವೈಎಫ್‌ಐ ದ.ಕ. ಜಿಲ್ಲಾ ನೂತನ ಸಮಿತಿ ರಚನೆ](https://www.varthabharati.in/DakshinaKannada/--2276939)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (3.9)
+- Trump (5.2)
+- Report (2.6)
 - Sept (2.6)
 - Iran (2.6)
 - India (2.6)
-- Vijayawada (2.6)
+- Hyderabad (2.6)
 - Bengaluru (2.6)
 - Tumakur (2.6)
 - Gujarat (1.9)
@@ -112,23 +113,22 @@
 - Thar (1.6)
 - Scorpio (1.6)
 - Collector (1.6)
-- Ishan (1.3)
-- Mayawati's (1.3)
-- U-turn (1.3)
+- Yemen's (1.3)
+- Houthi (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [US coffee chain Starbucks plans global tech centre in India](https://www.reuters.com/business/retail-consumer/us-coffee-chain-starbucks-plans-tech-centre-india-source-says-2026-09-21/)
-- [ఫైవ్ స్టార్ హోటళ్లో భోజనం చేస్తుండగా టేబుల్‌పై పరుగులు పెట్టిన బొద్దింక.. ఐఏఎస్ అధికారిని ట్యాగ్ చేస్తూ వార్నింగ్ ఇచ్చిన డాక్టర్](https://telugu.samayam.com/latest-news/india-news/doctor-ashok-seth-sees-cockroach-on-dining-table-at-jw-marriott-mumbai-five-star-hotel-after-he-tags-ias-officer-tukaram-munde-to-complaints/articleshow/134382006.cms)
-- [અગાઉ નકલી પોલીસ, હવે બનાવટી નાયબ મામલતદાર બની રોફ જમાવતો ઠગ ઝડપાયો, ક્રાઈમ બ્રાન્ચે મણિનગરમાંથી ઝડપ્યો](https://www.gujaratsamachar.com/news/ahmedabad/previously-a-fake-policeman-now-a-fake-deputy-mamlatdar-a-thug-was-caught-collecting-money-crime-branch-arrested-him-from-maninagar-82671947313)
-- [“ஆஸ்திரேலியாவை வீழ்த்த வேண்டும் என்ற வெறி இருக்கிறது” - ஸ்டீபன் பிளெமிங் மனம் திறப்பு](https://www.hindutamil.in/news/sports/england-test-cricket-coach-stephen-fleming-about-beating-australia)
-- [इधर अल-नीनो एक्टिव, उधर बंगाल की खाड़ी में साइक्लोन अर्नब का खतरा... क्या होगा मौसम पर असर?](https://www.aajtak.in/science/story/cyclone-arnab-el-nino-weather-alert-india-dskc-2648815-2026-09-21)
-- [അഫ്ഗാനിസ്ഥാനിൽ പാകിസ്താൻ വ്യോമാക്രമണം; മൂന്ന് പേർ മരിച്ചു, ഏറ്റുമുട്ടൽ രൂക്ഷം](https://www.reporterlive.com/topnews/international/2026/09/21/pakistan-airstrikes-afghanistan-kunar-taliban-border-conflict)
-- [ગાંધીનગર મનપાની ગત ચૂંટણીમાં 21 ટકા મત લઈ જનાર આમ આદમી પાર્ટી સત્તા સર કરવા મેદાને](https://www.abtakmedia.com/the-aam-aadmi-party-having-secured-21-of-the-votes-in-the-previous-gandhinagar-municipal-corporation-election-has-entered-the-fray-to-capture-power/)
-- [The Vvaan पर विवाद: सिद्धार्थ मल्‍होत्रा-तमन्‍ना की फिल्‍म पर 'चोरी' के आरोप, सिंगर ने वीडियो में दिखाए सबूत](https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/the-vvaan-lands-in-controversy-singer-sargam-vaish-accused-plagiarism-used-song-aigiri-nandini-without-consent/articleshow/134381913.cms)
-- [தாராபுரம்: தவெக வேட்பாளருக்கு எதிராக கொந்தளித்த மக்கள், பாதியில் நிறுத்தப்பட்ட தேர்தல் பிரசாரம்!](https://www.vikatan.com/government-and-politics/election/tharapuram-tvk-candidate-sathyabama-campaign-controversy)
-- ['पागल है क्या?', धुरंधर में जिस रोल ने लूटी वाहवाही, उसे करने से अक्षय खन्ना ने किया था इनकार](https://www.aajtak.in/entertainment/bollywood-news/story/akshaye-khanna-rejected-dhurandhar-villain-role-casting-director-mukesh-chhabra-tmovj-dskc-2648748-2026-09-21)
+- ['Broke into house, forced them into vehicles': Imran Khan’s son alleges aunts, cousins 'abducted' in Pakistan](https://timesofindia.indiatimes.com/world/pakistan/broke-into-house-forced-them-into-vehicles-imran-khans-son-alleges-aunts-cousins-abducted-in-pakistan/articleshow/134382110.cms)
+- [Sharad Pawar Drought: राज्यात दुष्काळाची दाहकता वाढली, आता शरद पवार मैदानात उतरणार, मोठी घोषणा](https://marathi.abplive.com/news/politics/sharad-pawar-will-visit-maharashtra-drought-prone-areas-districts-on-28-september-ncp-marathi-news-1439765)
+- [புதிய தலைமைச் செயலகம் கட்டும் முடிவை கைவிட மறுத்தால் போராட்டம்: ஸ்டாலின்](https://www.dinamalar.com/news/tamil-nadu-news/protest-if-govt-refuses-to-give-up-decision-on-building-new-secretariat-stalin/4328552)
+- [തൃശൂർ നഗരത്തിൽ വൻ കവർച്ച; കൂർക്കഞ്ചേരിയിലെ വീട്ടിൽ നിന്നും കവർന്നത് 55 പവൻ സ്വർണവും മൂന്നര ലക്ഷവും](https://www.asianetnews.com/kerala-news/major-robbery-in-thrissur-city-55-sovereigns-of-gold-stolen-from-house-when-family-was-at-hospital-articleshow-kzs2vtx)
+- [Why Tata Trusts’ voting rights are central to the Tata Sons power struggle](https://indianexpress.com/article/explained/explained-economics/tata-trusts-special-voting-rights-cyrus-mistry-case-10887071/)
+- [“கொண்டைக்கடலை விற்கவா வந்தீர்கள்?” - பாபர் அஸமை விமர்சித்த வாசிம் அக்ரம்](https://www.hindutamil.in/news/sports/wasim-akram-slams-babar-azam-pakistan-cricket)
+- [BJP MLAs recite full Vande Mataram in Karnataka Assembly despite 2-stanza order](https://timesofindia.indiatimes.com/india/bjp-mlas-recite-full-vande-mataram-in-karnataka-assembly-despite-2-stanza-order/articleshow/134382466.cms)
+- ['दोबारा गिरफ्तारी के लिए मजिस्ट्रेट की मंजूरी जरूरी, पुलिस को बताना होगा कारण'; सुप्रीम कोर्ट का बड़ा फैसला](https://www.jagran.com/news/national-supreme-court-mandates-magistrates-approval-for-re-arrest-40380053.html)
+- [Astronomers discover youngest known planet ever: Study](https://www.awazthevoice.in/gadgets-news/astronomers-discover-youngest-known-planet-ever-study-68041.html)
+- [Mamata Banerjee Supreme Court: দলের নাম ও জোড়াফুল প্রতীক কি ফিরে পাবেন মমতা? সুপ্রিম কোর্টে দ্রুত শুনানির সম্ভাবনা](https://bangla.aajtak.in/west-bengal/story/mamata-banerjee-moves-supreme-court-over-loss-of-name-and-symbol-top-court-to-consider-early-hearing-sud-1453261-2026-09-21)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
