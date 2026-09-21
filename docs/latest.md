@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-21 21:34:00
+# India Trending Report — 2026-09-21 22:02:09
 
 ## Google Trends (India) — top trending searches
 1. [realme 16 pro](https://trends.google.com/trending/rss?geo=IN)
@@ -18,12 +18,12 @@
 - [Trump dodged Yemen's plea for military support amid Houthi attacks on Riyadh: Report](https://timesofindia.indiatimes.com/world/middle-east/trump-dodged-yemens-plea-for-military-support-against-houthis-amid-attacks-on-saudi-arabia-report/articleshow/134392205.cms)
 - [Flights grounded at major US airports after construction workers cut backup cable](https://timesofindia.indiatimes.com/world/us/flights-grounded-at-major-us-airports-after-construction-workers-cut-backup-cable/articleshow/134396960.cms)
 - [Ishan is the 'chosen one'? Mayawati's latest U-turn deepens ongoing BSP family drama](https://timesofindia.indiatimes.com/india/the-chosen-one-for-a-role-in-bsp-is-ishan-mayawatis-another-u-turn-in-ongoing-family-drama/articleshow/134392964.cms)
-- [Pak in crisis: PTI to hold Sept 27 stir 'at all costs' for release of Imran Khan](https://timesofindia.indiatimes.com/world/pakistan/pakistan-in-crisis-pti-to-hold-sept-27-stir-at-all-costs-imran-khans-sisters-challenge-detention-orders/articleshow/134394418.cms)
+- [‘Dangerous for our Country’: Trump slams CNN, Politico, MS NOW over White House lawsuit](https://timesofindia.indiatimes.com/world/us/dangerous-for-our-country-trump-slams-cnn-politico-ms-now-over-white-house-lawsuit/articleshow/134397621.cms)
 - [USCIS warns against websites and businesses ‘guaranteeing’ faster visa](https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-warns-visa-applicants-against-websites-and-businesses-guaranteeing-visa-green-card-or-work-permit-faster/articleshow/134383537.cms)
-- [Lockheed ready for tech transfer of some parts of Super Hercules to India](https://timesofindia.indiatimes.com/defence/news/ready-for-tech-transfer-of-some-parts-of-super-hercules-to-india-says-lockheed-vp-calls-aircraft-best-option-for-iaf-as-mta-tender-is-out/articleshow/134397508.cms)
-- [Canadian NRI landlord wanted rented Punjab house back; HC allows tenant to stay](https://timesofindia.indiatimes.com/business/india-business/he-moved-to-canada-and-rented-his-punjab-house-for-rs-20000-a-month-then-sought-eviction-to-use-it-during-india-visits-punjab-haryana-hc-rules-against-landlord-allows-tenant-to-stay/articleshow/134380724.cms)
+- [Pak in crisis: PTI to hold Sept 27 stir 'at all costs' for release of Imran Khan](https://timesofindia.indiatimes.com/world/pakistan/pakistan-in-crisis-pti-to-hold-sept-27-stir-at-all-costs-imran-khans-sisters-challenge-detention-orders/articleshow/134394418.cms)
+- [Why parents keep old report cards and childhood drawings, according to psychology](https://timesofindia.indiatimes.com/life-style/parenting/moments/psychology-says-parents-who-keep-old-report-cards-and-childhood-drawings-may-be-preserving-a-part-of-their-own-life-story-not-just-memories/articleshow/134350487.cms)
 - [Oilers linked to Dylan Larkin trade in Matthew Savoie-led blockbuster](https://timesofindia.indiatimes.com/sports/nhl/news/oilers-linked-to-blockbuster-dylan-larkin-trade-as-matthew-savoie-led-package-puts-detroit-in-a-difficult-position/articleshow/134379564.cms)
-- [New Zealand trade pact to take effect on Oct 20, to give duty-free access](https://timesofindia.indiatimes.com/business/india-business/new-zealand-trade-pact-to-take-effect-on-oct-20-to-give-duty-free-access/articleshow/134397576.cms)
+- [Lockheed ready for tech transfer of some parts of Super Hercules to India](https://timesofindia.indiatimes.com/defence/news/ready-for-tech-transfer-of-some-parts-of-super-hercules-to-india-says-lockheed-vp-calls-aircraft-best-option-for-iaf-as-mta-tender-is-out/articleshow/134397508.cms)
 
 **NDTV**
 - [Hundreds Of US Flights Cancelled After Air Traffic Control Malfunction](https://www.ndtv.com/world-news/hundreds-of-us-flights-cancelled-after-air-traffic-control-malfunction-12078490#publisher=newsstand)
@@ -54,6 +54,7 @@
 **The Hindu**
 - [Court orders fresh hearing in Sonia Gandhi’s voter roll entry case](https://www.thehindu.com/news/national/delhi-court-sets-aside-magistrate-order-refusing-probe-in-sonia-gandhis-pre-citizenship-electoral-entry/article71490940.ece)
 - [Class 10 girl and boy returning from coaching groped and assaulted in Bihar’s Jamui, sparking a political row](https://www.thehindu.com/news/national/bihar/two-class-10-students-a-girl-and-a-boy-groped-and-harassed-in-bihars-jamui-sparking-a-political-row/article71491560.ece)
+- [SBSP chief Rajbhar’s claim on U.P. division ignites fresh debate as opposition hit out at NDA](https://www.thehindu.com/news/national/uttar-pradesh/sbsp-chief-rajbhars-claim-on-up-division-ignites-fresh-debate-as-opposition-hit-out-at-nda/article71492262.ece)
 - [Plea in M.P. High Court seeks closure of Ladli Behna scheme over its financial cost; notice issued to government](https://www.thehindu.com/news/national/madhya-pradesh/plea-in-mp-high-court-seeks-closure-of-ladli-behna-scheme-over-its-financial-cost-notice-issued-to-government/article71492485.ece)
 - [Party-backed councillors detained in Haryana ahead of Rajasthan local body poll, alleges Congress](https://www.thehindu.com/news/national/haryana/party-backed-councillors-detained-in-haryana-ahead-of-rajasthan-local-body-poll-alleges-congress/article71492331.ece)
 - [100% drought likely to be declared in Maharashtra by month-end, says Minister](https://www.thehindu.com/news/national/maharashtra/100-drought-likely-to-be-declared-in-maharashtra-by-month-end-says-minister/article71492104.ece)
@@ -61,9 +62,10 @@
 - [BDCC bank waiting for govt. sanction for recruitment, says MLA](https://www.thehindu.com/news/national/karnataka/bdcc-bank-waiting-for-govt-sanction-for-recruitment-says-mla/article71492310.ece)
 - [Belagavi students trained by zilla panchayat get into premier institutions](https://www.thehindu.com/news/national/karnataka/belagavi-students-trained-by-zilla-panchayat-get-into-premier-institutions/article71492176.ece)
 - [Supreme Court orders fresh probe into 2012 rape-murder near Dharmasthala in Karnataka](https://www.thehindu.com/news/national/karnataka/supreme-court-orders-fresh-probe-into-2012-rape-murder-near-dharmasthala-in-karnataka/article71492604.ece)
-- [Ram Temple donations theft case: SIT report finds 105 instances of unauthorised currency removal](https://www.thehindu.com/news/national/ram-temple-donations-theft-case-chargesheet-on-or-before-september-25/article71491193.ece)
 
 **Livemint**
+- [Gracie Mansion meeting: Zohran Mamdani hosts Donald Trump in New York as UN General Assembly week begins](https://www.livemint.com/news/us-news/gracie-mansion-meeting-zohran-mamdani-hosts-donald-trump-in-new-york-as-un-general-assembly-week-begins-11790026091725.html)
+- [Man Shot by ICE in Austin Says He Still Has Bullet in His Body](https://www.livemint.com/news/us-news/man-shot-by-ice-in-austin-says-he-still-has-bullet-in-his-body-11790026264954.html)
 - [El Nino ties record intensity: What 3.07°C Pacific warming means for weather from Central America to Indonesia](https://www.livemint.com/news/world/el-nino-ties-record-intensity-what-3-07-c-pacific-warming-means-for-weather-from-central-america-to-indonesia-11790019836871.html)
 - [UN Scrambles to Avoid a Repeat of Trump’s 2025 Escalator Snafu](https://www.livemint.com/news/world/un-scrambles-to-avoid-a-repeat-of-trump-s-2025-escalator-snafu-11790021316160.html)
 - [NYC Airports Face Delays After Air Traffic Control Outage](https://www.livemint.com/news/nyc-airports-face-delays-after-air-traffic-control-outage-11790020581299.html)
@@ -72,8 +74,6 @@
 - [53-year-old single father loses 30 kg in 18 months: The reason behind his fitness journey will move you](https://www.livemint.com/news/trends/53yearold-single-father-loses-30-kg-in-18-months-the-reason-behind-his-fitness-journey-will-move-you-11790012794330.html)
 - [Tukaram Mundhe-led Maharashtra FDA raids Swiggy Instamart, Amazon warehouse in Mumbai: Rat, cockroaches found](https://www.livemint.com/news/india/tukaram-mundhe-led-maharashtra-fda-raids-swiggy-instamart-amazon-warehouse-in-mumbai-rat-cockroaches-found-11790011503476.html)
 - [Bengaluru rent leaves woman shocked,  ₹60,000 for 2BHK with  ₹3-8 lakh deposit: ‘You might find God, but house not sure…’](https://www.livemint.com/news/trends/bengaluru-rent-leaves-woman-shocked-60-000-for-2bhk-with-3-8-lakh-deposit-you-might-find-god-but-house-not-sure-11790011208667.html)
-- [Looksmaxxing, cuffing season, vibe coding and more: US dictionary Merriam-Webster gets a ‘glow up’ with 1,400 new words](https://www.livemint.com/news/trends/looksmaxxing-cuffing-season-vibe-coding-and-more-us-dictionary-merriam-webster-gets-a-glow-up-with-1-400-new-words-11790007182033.html)
-- ['I was completely fine with it': Patrick Clancy on suicidal thoughts, his children and starting a new family](https://www.livemint.com/news/us-news/i-was-completely-fine-with-it-patrick-clancy-on-suicidal-thoughts-his-children-and-starting-a-new-family-11790002337400.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -90,7 +90,7 @@
 - [ಪೌರಕಾರ್ಮಿಕರ ಸ್ಥಿತಿಗತಿ ಅಧ್ಯಯನಕ್ಕೆ ಸಮಿತಿ ರಚಿಸಿ: ಸಿಎಂಗೆ ಪತ್ರಕರ್ತರ ಬಳಗ ಮನವಿ](https://www.varthabharati.in/bangalore-city/--2276944)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (4.2)
+- Trump (5.8)
 - India (2.6)
 - Jamui (2.6)
 - What (2.6)
@@ -109,16 +109,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [6 warning signs your gym workouts are harming you](https://economictimes.indiatimes.com/news/india/6-warning-signs-gym-workouts-are-harming-you/your-urine-has-turned-dark-brown/slideshow/134385720.cms?from=mdr)
-- [Piyush Goyal says India will study US Russia sanctions law](https://www.moneycontrol.com/news/business/economy/piyush-goyal-says-india-will-study-us-russia-sanctions-law-14034567.html)
-- [University of Sydney opens Single](https://www.expresshealthcare.in/news/university-of-sydney-opens-single-cell-cancer-proteomics-lab/455206/)
-- [Lava Virat Curve 5G launches with MediaTek Dimensity 7100 and 50MP camera](https://timesofindia.indiatimes.com/technology/mobiles-tabs/lava-virat-curve-5g-launches-with-mediatek-dimensity-7100-and-50mp-camera/articleshow/134385721.cms)
-- [Asian Games: এশিয়ান গেমসে শ্যুটিংয়ে আরও এক পদক জিতল ভারত, ১০ মিটার এয়ার রাইফেলে রুপো](https://bengali.abplive.com/sports/asian-games-2026-india-clinches-silver-in-men-s-10m-air-rifle-team-event-rudrankksh-patil-himanshu-dhillon-parth-mane-1193643)
-- [Delhi Court Sets Aside 'Unreasoned' Order Refusing FIR Against Sonia Gandhi For Inclusion In Voter List Before Acquiring Indian Citizenship](https://www.livelaw.in/news-updates/sonia-gandhi-fir-inclusion-in-voter-list-prior-to-citizenship-551036)
-- [Owaisi opens alliance door in UP; Congress warns AIMIM could end up helping BJP](https://timesofindia.indiatimes.com/india/owaisi-opens-alliance-door-in-up-congress-warns-aimim-could-end-up-helping-bjp/articleshow/134385208.cms)
-- [BMW that plunged off Mumbai's Coastal Road bridge had earlier hit couple, video viral](https://timesofindia.indiatimes.com/city/mumbai/bmw-that-plunged-off-mumbai-coastal-road-bridge-had-earlier-hit-couple-video-viral/articleshow/134384420.cms)
-- [Mithu Mukherjee: বাংলা সিনেমার জগতে নক্ষত্রপতন, মুম্বইয়ে প্রয়াত অভিনেত্রী মিঠু মুখোপাধ্যায়](https://bengali.abplive.com/entertainment/veteran-bengali-actor-mithu-mukherjee-died-in-mumbai-suffering-for-cancer-long-time-entertainment-news-tollywood-1193641)
-- [Student suicide: IIT Bombay apologises for earlier statement, suspends deanship of professor](https://theprint.in/india/education/student-suicide-iit-bombay-apologises-for-earlier-statement-suspends-deanship-of-professor/3048427/)
+- [ગ્રેડ-પેનો અમલ નહીં થતાં જમીન દફતર કચેરીઓના 90 કર્મચારીઓની અચોક્કસ મુદતની હડતાળ](https://www.gujaratsamachar.com/news/baroda/90-employees-of-land-registry-offices-go-on-indefinite-strike-over-non-implementation-of-grade-pay-87914169948)
+- [3 રાજ્યોમાં વાવાઝોડું અર્નબ ત્રાટકવાની આશંકા! બંગાળની ખાડીમાં મોટી હલચલ, અતિ ભારે વરસાદની આગાહી](https://www.gujaratsamachar.com/news/national/cyclone-arnab-likely-to-hit-3-states-big-disturbance-in-bay-of-bengal-very-heavy-rains-predicted-56800719389)
+- [दुबई के शासक के छोटे भाई शेख अहमद का निधन, अमीरात में 10 दिन का शोक](https://www.aajtak.in/world/story/dubai-sheikh-ahmed-bin-rashid-al-maktoum-dies-10-day-mourning-ntc-dhrj-dskc-2649101-2026-09-21)
+- [72મા નેશનલ ફિલ્મ એવોર્ડ સમારોહને લઈ એકતાનગરમાં ફિલ્મી સિતારાઓનું આગમન, અનેક કલાકાર પહોંચ્યા](https://gujarati.abplive.com/news/gujarat/film-stars-arrive-in-ekta-nagar-for-the-72nd-national-film-awards-ceremony-991705)
+- [தனுஷ் - தமிழரசன் பச்சமுத்து - சாய் அபயங்கர், புதிய கூட்டணி ?](https://cinema.dinamalar.com/news/kollywood/dhanush-tamizharasan-pachamuthu-sai-abhyankar-new-alliance/141026)
+- [Mumbai Crime BMW Car Accident: कोस्टल रोडवर कारच्या अपघातानंतरचं हादरवणारं दृश्य, मृतदेहांची भयंकर अवस्था पाहून प्रत्यक्षदर्शींचं काळीजही हेलावून गेलं](https://marathi.abplive.com/news/mumbai/mumbai-bmw-car-accident-on-coastal-road-bmw-fall-down-75-feet-down-3-youths-died-very-painful-death-marathi-news-1439791)
+- [Bank strike from September 28 to 30: SBI issues advisory, which banking services will be available?](https://www.thehindu.com/news/national/bank-strike-september-28-30-sbi-issues-advisory-banking-services-available/article71490677.ece)
+- [... तर राज्यात दुष्काळच पडला नसता; शरद पवारांचा दुष्काळी दौरा, पत्रकारांच्या प्रश्नावर मंत्री जयकुमार गोरेंची टीका](https://marathi.abplive.com/news/politics/minister-jaykumar-gore-criticizes-sharad-pawar-s-drought-inspection-tour-maharashtra-rain-state-would-not-have-faced-a-drought-at-all-1439792)
+- [37 ആണ് വയസ്സ്, തന്ത വൈബ് പിടിക്കാൻ ഉദ്ദേശിക്കുന്നില്ല; മന്ത്രിമാർക്ക് സ്വകാര്യ നിമിഷങ്ങൾ പാടില്ലേ?- ഒ.ജെ ജനീഷ്](https://www.mathrubhumi.com/news/kerala/oj-janeesh-defends-foreign-travel-controversy-xn1uxbvs)
+- [कांग्रेस की पूर्व अध्यक्ष सोनिया गांधी को झटका, नागरिकता से पहले वोटर लिस्ट में नाम पर कोर्ट का बड़ा फैसला](https://www.jagran.com/delhi/new-delhi-city-sonia-gandhi-voter-list-case-court-overturns-fir-denial-40380259.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
