@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-21 22:34:40
+# India Trending Report — 2026-09-21 23:02:30
 
 ## Google Trends (India) — top trending searches
 1. [indian](https://trends.google.com/trending/rss?geo=IN)
@@ -20,10 +20,10 @@
 - [Ishan is the 'chosen one'? Mayawati's latest U-turn deepens ongoing BSP family drama](https://timesofindia.indiatimes.com/india/the-chosen-one-for-a-role-in-bsp-is-ishan-mayawatis-another-u-turn-in-ongoing-family-drama/articleshow/134392964.cms)
 - [‘Dangerous for our Country’: Trump slams CNN, Politico, MS NOW over White House lawsuit](https://timesofindia.indiatimes.com/world/us/dangerous-for-our-country-trump-slams-cnn-politico-ms-now-over-white-house-lawsuit/articleshow/134397621.cms)
 - [USCIS warns against websites and businesses ‘guaranteeing’ faster visa](https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-warns-visa-applicants-against-websites-and-businesses-guaranteeing-visa-green-card-or-work-permit-faster/articleshow/134383537.cms)
-- [Pak in crisis: PTI to hold Sept 27 stir 'at all costs' for release of Imran Khan](https://timesofindia.indiatimes.com/world/pakistan/pakistan-in-crisis-pti-to-hold-sept-27-stir-at-all-costs-imran-khans-sisters-challenge-detention-orders/articleshow/134394418.cms)
+- [Supreme Court flags grosslypoor infra at IBC tribunals](https://timesofindia.indiatimes.com/india/supreme-court-flags-grosslypoor-infra-atibc-tribunals/articleshow/134399453.cms)
 - [Why parents keep old report cards and childhood drawings, according to psychology](https://timesofindia.indiatimes.com/life-style/parenting/moments/psychology-says-parents-who-keep-old-report-cards-and-childhood-drawings-may-be-preserving-a-part-of-their-own-life-story-not-just-memories/articleshow/134350487.cms)
 - [Oilers linked to Dylan Larkin trade in Matthew Savoie-led blockbuster](https://timesofindia.indiatimes.com/sports/nhl/news/oilers-linked-to-blockbuster-dylan-larkin-trade-as-matthew-savoie-led-package-puts-detroit-in-a-difficult-position/articleshow/134379564.cms)
-- [Lockheed ready for tech transfer of some parts of Super Hercules to India](https://timesofindia.indiatimes.com/defence/news/ready-for-tech-transfer-of-some-parts-of-super-hercules-to-india-says-lockheed-vp-calls-aircraft-best-option-for-iaf-as-mta-tender-is-out/articleshow/134397508.cms)
+- [Courts must not interfere in cop probe: Supreme Court](https://timesofindia.indiatimes.com/india/courts-must-not-interfere-in-cop-probe-supreme-court/articleshow/134399476.cms)
 
 **NDTV**
 - [UK Agrees To Saudi Request For Refuelling Support To Counter Houthis](https://www.ndtv.com/world-news/uk-agrees-to-saudi-request-for-refuelling-support-to-counter-houthis-12078571#publisher=newsstand)
@@ -62,16 +62,16 @@
 - [ಅಯೋಧ್ಯೆ ರಾಮಮಂದಿರ ದೇಣಿಗೆ ಲೂಟಿ ಪ್ರಕರಣ: 105 ಕಳ್ಳತನ ಪ್ರಕರಣ ಪತ್ತೆ! ಸೆ.25ರೊಳಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ಗೆ SIT ಚಾರ್ಜ್‌ಶೀಟ್?](https://vijaykarnataka.com/news/india/ayodhya-ram-temple-donation-theft-caught-on-cctv-105-times-sit-report/articleshow/134393656.cms)
 
 **The Hindu**
+- [Academicians write to Governor opposing the inter-university transfer of teachers](https://www.thehindu.com/news/national/west-bengal/academicians-write-to-governor-opposing-the-inter-university-transfer-of-teachers/article71492099.ece)
 - [Mahayuti Minister Mangal Prabhat Lodha is suppressing voice of community members, alleges Jain Monk](https://www.thehindu.com/news/cities/mumbai/mahayuti-minister-mangal-prabhat-lodha-is-suppressing-voice-of-community-members-alleges-jain-monk/article71492226.ece)
 - [Court orders fresh hearing in Sonia Gandhi’s voter roll entry case](https://www.thehindu.com/news/national/delhi-court-sets-aside-magistrate-order-refusing-probe-in-sonia-gandhis-pre-citizenship-electoral-entry/article71490940.ece)
 - [Class 10 girl and boy returning from coaching groped and assaulted in Bihar’s Jamui, sparking a political row](https://www.thehindu.com/news/national/bihar/two-class-10-students-a-girl-and-a-boy-groped-and-harassed-in-bihars-jamui-sparking-a-political-row/article71491560.ece)
 - [SBSP chief Rajbhar’s claim on U.P. division ignites fresh debate as opposition hit out at NDA](https://www.thehindu.com/news/national/uttar-pradesh/sbsp-chief-rajbhars-claim-on-up-division-ignites-fresh-debate-as-opposition-hit-out-at-nda/article71492262.ece)
+- [Union Minister Shivraj Chouhan accuses Punjab government of sheltering drug peddlers](https://www.thehindu.com/news/national/punjab/union-minister-shivraj-chouhan-accuses-punjab-government-of-sheltering-drug-peddlers/article71492300.ece)
 - [Plea in M.P. High Court seeks closure of Ladli Behna scheme over its financial cost; notice issued to government](https://www.thehindu.com/news/national/madhya-pradesh/plea-in-mp-high-court-seeks-closure-of-ladli-behna-scheme-over-its-financial-cost-notice-issued-to-government/article71492485.ece)
 - [Party-backed councillors detained in Haryana ahead of Rajasthan local body poll, alleges Congress](https://www.thehindu.com/news/national/haryana/party-backed-councillors-detained-in-haryana-ahead-of-rajasthan-local-body-poll-alleges-congress/article71492331.ece)
 - [100% drought likely to be declared in Maharashtra by month-end, says Minister](https://www.thehindu.com/news/national/maharashtra/100-drought-likely-to-be-declared-in-maharashtra-by-month-end-says-minister/article71492104.ece)
 - [J&K House Committee finds ‘irregularities’ in Jal Jeevan Mission, calls for probe](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-house-committee-finds-irregularities-in-jal-jeevan-mission-calls-for-probe/article71492474.ece)
-- [BDCC bank waiting for govt. sanction for recruitment, says MLA](https://www.thehindu.com/news/national/karnataka/bdcc-bank-waiting-for-govt-sanction-for-recruitment-says-mla/article71492310.ece)
-- [Belagavi students trained by zilla panchayat get into premier institutions](https://www.thehindu.com/news/national/karnataka/belagavi-students-trained-by-zilla-panchayat-get-into-premier-institutions/article71492176.ece)
 
 **Livemint**
 - [Gracie Mansion meeting: Zohran Mamdani hosts Donald Trump in New York as UN General Assembly week begins](https://www.livemint.com/news/us-news/gracie-mansion-meeting-zohran-mamdani-hosts-donald-trump-in-new-york-as-un-general-assembly-week-begins-11790026091725.html)
@@ -101,34 +101,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - Trump (5.8)
-- India (2.6)
 - Jamui (2.6)
 - What (2.6)
 - Tumakur (2.6)
-- Court (1.9)
+- Court (2.5)
+- Supreme Court (2.0)
 - Police (1.9)
 - Bihar (1.9)
+- Minister (1.9)
 - Flights (1.6)
-- Minister (1.6)
+- Governor (1.6)
 - Maharashtra (1.6)
 - Russia (1.3)
 - Ukraine (1.3)
 - Yemen's (1.3)
-- Houthi (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ആവശ്യങ്ങൾ അംഗീകരിക്കാതെ ഹോർമുസ് തുറക്കില്ലെന്ന് ഇറാൻ](https://www.manoramaonline.com/global-malayali/gulf/2026/09/21/iran-threatens-strait-of-hormuz-closure-over-demands.html)
-- [പ്രിയദർശിനി യാത്ര നൂറാം ദിവസത്തിലേക്ക്; സ്ത്രീ യാത്രക്കാരുടെ എണ്ണത്തിൽ 60 ശതമാനം വർധനവ്](https://www.asianetnews.com/kerala-news/priyadarshini-projects-completes-100-days-60-percent-increase-in-number-of-women-passengers-articleshow-41x9ing)
-- [दिल्ली की रोहिणी जेल में मर्डर, धारदार हथियार से विचाराधीन कैदी की हत्या](https://www.aajtak.in/india/delhi/story/murder-in-delhi-rohini-jail-undertrial-prisoner-ntcpvp-rpti-2649133-2026-09-21)
-- [IFA Shield 2026: IFA শিল্ড শুরু হচ্ছে, মোহনবাগান, ইস্টবেঙ্গলের ম্যাচগুলি কবে? পুরো সূচি রইল](https://bangla.aajtak.in/sports/football/story/ifa-shield-2026-fixture-matches-schedule-teams-groups-mohun-bagan-vs-east-bengal-northeast-united-arg-1453406-2026-09-21)
-- [Sensex settles 550 pts higher, Nifty ends above 23,400: Easing crude oil prices among key factors behind market rise](https://www.moneycontrol.com/news/business/markets/sensex-gains-500-pts-nifty-above-23-400-easing-crude-oil-prices-among-key-factors-behind-market-rise-14034201.html)
-- [Gold Silver Rate: સોના-ચાંદીની કિંમતમાં થયો ઘટાડો, ક્રૂડ ઓઇલના ભાવ પણ ઘટ્યા](https://gujarati.abplive.com/news/business/gold-and-silver-prices-fall-crude-oil-rates-also-drop-991707)
-- [Breaking News Asian Games 2026: મહિલા હોકીમાં ભારતનો ધમાકો, ઇન્ડોનેશિયાને 17-1થી હરાવ્યું, 3 ખેલાડીઓની હેટ્રિક](https://tv9gujarati.com/photo-gallery/sports-photos/breaking-news-asian-games-2026-japan-womens-hockey-india-beat-uzbekistan-1519558.html)
-- [Amit Shah : केंद्रीय गृहमंत्री अमित शाह यांनी घेतली 'हनुमान अंश' चित्रपटाच्या टीमची भेट! दिल्या खास शुभेच्छा](https://www.prahaar.in/2026/09/21/union-home-minister-amit-shah-met-the-team-of-the-movie-hanuman-ansh/)
-- [National Film Awards 2026 માટે સ્ટેચ્યુ ઓફ યુનિટી સજ્જ](https://www.gujaratfirst.com/narmada/national-film-awards-2026-statue-of-unity-gujarat-first-digital/340792/)
-- [KAIST Extends Lifespan of Graphite-Free Anode-Free Batteries That Could Make EV Batteries Smaller and Lighter](https://www.newswise.com/articles/kaist-extends-lifespan-of-graphite-free-anode-free-batteries-that-could-make-ev-batteries-smaller-and-lighter)
+- [சென்னையில் டெங்கு ஒழிப்பிற்காக பாதுகாப்பு மற்றும் தூய்மைப் பணியில் 3,597 பணியாளர்கள்! மாநகராட்சி ஆணையர் தகவல்](https://viduthalai.in/207082/%E0%AE%9A%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%9F%E0%AF%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81-%E0%AE%92%E0%AE%B4%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA/)
+- [சோமாலியாவில் நீடிக்கும் மனிதாபிமான நெருக்கடி முடிவுக்கு வர திருத்தந்தை இறைவேண்டல்](https://www.vaticannews.va/ta/pope/news/2026-09/pope-prays-for-end-to-humanitarian-crisis-somalia.html)
+- [દિલ્હી: SIR હેઠળ અડવાણી, કેજરીવાલ સહિત અનેક હસ્તીઓને નોટિસ, જાણો શું છે કારણ?](https://www.bbc.com/gujarati/articles/cwyvz2gvppl6o)
+- [Bhangar Clash: সায়ন্তন বসুকে ঘিরে রণক্ষেত্র ভাঙড় কলেজ, শিক্ষা নাকি রাজনীতির লড়াই?](https://www.aaroananda.com/story/latest-news/breaking-news/sayantan-basu-bhangar-college-governing-body-clash/11020676)
+- [Asian Games: दूसरे दिन भारत को मिले 4 मेडल, MMA में सुचिका तरियाल ने रचा इतिहास](https://www.indiatv.in/sports/other-sports/asian-games-2026-live-updates-india-21th-september-events-ind-vs-pak-match-1244388)
+- [జపాన్‌ చేరుకున్న టీమిండియా.. శ్రేయస్‌ వ్యాఖ్యలు వైరల్‌!](https://www.sakshi.com/telugu-news/sports/shreyas-iyer-response-viral-team-india-lands-japan-play-historic-t20i-match)
+- [വീണ്ടും കോളേജ് കുമാരനായി മമ്മൂക്ക; റീ-യൂണിയന്‍ ചിത്രങ്ങള്‍ സോഷ്യല്‍ മീഡിയയില്‍ വൈറലാകുന്നു](https://www.reporterlive.com/entertainment/entertainment-news/2026/09/21/photos-from-mammoottys-reunion-are-going-viral-on-social-media)
+- [Mithu Mukherjee Demise: ভেঙে গেল 'মৌচাক' জুটি, মিঠু মুখোপাধ্যায় নেই বিশ্বাসই হচ্ছে না রঞ্জিত মল্লিকের](https://bengali.abplive.com/entertainment/ranjit-mallick-morons-on-mithu-mukherjee-demise-entertainment-news-tollywood-1193663)
+- [Bhangar College : বিজেপি নেতা সায়ন্তন বসু যেতেই চরম বিক্ষোভ ভাঙড় কলেজে, ধুন্ধমার পরিস্থিতি; লাঠিচার্জ পুলিশের](https://bengali.abplive.com/district/bjp-leader-sayantan-basu-faces-agitation-in-bhangar-college-by-sfi-and-isf-counter-slogan-by-abvp-1193665)
+- [IIT-Bombay student death case: Dean Professor removed](https://www.thehindu.com/news/national/maharashtra/iit-bombay-student-death-case-dean-professor-removed/article71491033.ece)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
