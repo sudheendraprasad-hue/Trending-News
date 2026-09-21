@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-21 07:36:41
+# India Trending Report — 2026-09-21 08:02:04
 
 ## Google Trends (India) — top trending searches
-1. [epfo](https://trends.google.com/trending/rss?geo=IN)
-2. [xiaomi 18 pro max](https://trends.google.com/trending/rss?geo=IN)
-3. [cindy crawford](https://trends.google.com/trending/rss?geo=IN)
-4. [rbi](https://trends.google.com/trending/rss?geo=IN)
-5. [google ai](https://trends.google.com/trending/rss?geo=IN)
-6. [वीडियो](https://trends.google.com/trending/rss?geo=IN)
-7. [caleb williams](https://trends.google.com/trending/rss?geo=IN)
-8. [ss retail ipo gmp](https://trends.google.com/trending/rss?geo=IN)
-9. [map](https://trends.google.com/trending/rss?geo=IN)
-10. [leo horoscope today](https://trends.google.com/trending/rss?geo=IN)
+1. [giorgia meloni](https://trends.google.com/trending/rss?geo=IN)
+2. [आज का राशिफल](https://trends.google.com/trending/rss?geo=IN)
+3. [epfo](https://trends.google.com/trending/rss?geo=IN)
+4. [xiaomi 18 pro max](https://trends.google.com/trending/rss?geo=IN)
+5. [cindy crawford](https://trends.google.com/trending/rss?geo=IN)
+6. [rbi](https://trends.google.com/trending/rss?geo=IN)
+7. [google ai](https://trends.google.com/trending/rss?geo=IN)
+8. [वीडियो](https://trends.google.com/trending/rss?geo=IN)
+9. [caleb williams](https://trends.google.com/trending/rss?geo=IN)
+10. [ss retail ipo gmp](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Targets approved, bombs loaded & then Trump blinked: Why US pulled back from Houthi strikes](https://timesofindia.indiatimes.com/world/middle-east/targets-approved-bombs-loaded-then-trump-blinked-why-us-pulled-back-from-houthi-strikes/articleshow/134382217.cms)
 - [Student suicide case: IIT-Bombay apologises over remarks, prof suspended](https://timesofindia.indiatimes.com/india/iit-bombay-student-suicide-case-institute-apologises-over-earlier-remarks-student-affairs-dean-suspended/articleshow/134383217.cms)
+- [Targets approved, bombs loaded & then Trump blinked: Why US pulled back from Houthi strikes](https://timesofindia.indiatimes.com/world/middle-east/targets-approved-bombs-loaded-then-trump-blinked-why-us-pulled-back-from-houthi-strikes/articleshow/134382217.cms)
 - [High number of SIR notices result of rule change after Bihar experience](https://timesofindia.indiatimes.com/india/high-number-of-sir-notices-result-of-rule-change-after-bihar-experience/articleshow/134377557.cms)
 - [Enduring 'Stoneman' mystery: 13 skulls crushed in the dead of night](https://timesofindia.indiatimes.com/city/kolkata/enduring-stoneman-mystery-13-skulls-crushed-in-the-dead-of-night/articleshow/134381086.cms)
-- [Bihar-born, IIT Kanpur-educated Abhishek Anand takes his cricketing passion to Japan](https://timesofindia.indiatimes.com/sports/cricket/news/born-in-bihar-a-masters-degree-from-iit-kanpur-but-with-cricket-still-in-his-heart-abhishek-anand-has-taken-his-passion-to-japan/articleshow/134380587.cms)
+- ['Method of disenfranchising Indians': Kharge slams SIR, calls it a 'Frankenstein monster'](https://timesofindia.indiatimes.com/india/method-of-disenfranchising-indians-kharge-slams-sir-calls-it-a-frankenstein-monster/articleshow/134383476.cms)
 - [Meta's 'highest-paid' employee says sorry for ‘dumb joke’ over Muse AI booking](https://timesofindia.indiatimes.com/technology/tech-news/metas-highest-paid-employee-alexandr-wang-says-sorry-for-dumb-joke-after-cto-tech-company-says-he-booked-ticket-through-muse-ai-agent/articleshow/134382821.cms)
+- [Bihar-born, IIT Kanpur-educated Abhishek Anand takes his cricketing passion to Japan](https://timesofindia.indiatimes.com/sports/cricket/news/born-in-bihar-a-masters-degree-from-iit-kanpur-but-with-cricket-still-in-his-heart-abhishek-anand-has-taken-his-passion-to-japan/articleshow/134380587.cms)
+- [Safety Logic Of Open Shades: Airlines cite safety for raised blinds; clearer view speeds evacuation](https://timesofindia.indiatimes.com/life-style/travel/why-are-airplane-windows-required-to-stay-open-during-take-off-and-landing-the-safety-logic-behind-the-rule/articleshow/134382265.cms)
 - [Neurosurgeon dies as volvo swerves across lanes, hits barrier, erupts into flames](https://timesofindia.indiatimes.com/city/hyderabad/cctv-shows-volvo-swerve-across-lanes-hit-barrier-erupt-into-flames-telangana-neurosurgeon-dies/articleshow/134378159.cms)
 - ['Forced them into vehicles': Imran Khan’s son alleges aunts, cousins 'abducted'](https://timesofindia.indiatimes.com/world/pakistan/broke-into-house-forced-them-into-vehicles-imran-khans-son-alleges-aunts-cousins-abducted-in-pakistan/articleshow/134382110.cms)
-- [Why Suchika Tariyal lost despite a draw: Final denied by 700g, left her in tears](https://timesofindia.indiatimes.com/sports/asian-games-2026/why-suchika-tariyal-lost-despite-a-draw-how-700g-denied-indias-mma-fighter-a-historic-final-and-left-her-in-tears/articleshow/134382004.cms)
-- [BJP MLAs recite full Vande Mataram in Karnataka Assembly despite 2-stanza order](https://timesofindia.indiatimes.com/india/bjp-mlas-recite-full-vande-mataram-in-karnataka-assembly-despite-2-stanza-order/articleshow/134382466.cms)
 
 **NDTV**
 - [Who Is Suryanarayana Doolla? IIT Bombay Professor At Centre Of Student Suicide Row](https://www.ndtv.com/india-news/sahil-wakode-who-is-professor-suryanarayana-doolla-iit-bombay-professor-at-centre-of-student-suicide-row-12074720#publisher=newsstand)
@@ -39,7 +39,7 @@
 
 **Hindustan Times**
 - [SC scraps tribunal’s sweeping interim orders, says arbitration can’t be arbitrary](https://www.hindustantimes.com/india-news/sc-scraps-tribunal-s-sweeping-interim-orders-says-arbitration-can-t-be-arbitrary-101789975902997.html)
-- [Suryanarayana Doolla, IIT Bombay Dean of Student Affairs, suspended amid student suicide probe: Report](https://www.hindustantimes.com/india-news/suryanarayana-doolla-iit-bombay-dean-of-student-affairs-suspended-amid-student-suicide-probe-report-101789975566433.html)
+- [Suryanarayana Doolla, IIT Bombay Dean of Administrative Affairs, suspended amid student suicide probe](https://www.hindustantimes.com/india-news/suryanarayana-doolla-iit-bombay-dean-of-student-affairs-suspended-amid-student-suicide-probe-report-101789975566433.html)
 - [Keralam CM inaugurates 99th Maha Samadhi Day of Sree Narayana Guru](https://www.hindustantimes.com/india-news/keralam-cm-inaugurates-99th-maha-samadhi-day-of-sree-narayana-guru-101789975479675.html)
 - [‘MNS style’: Influencer made to prostrate, slap himself with slippers over Raj Thackeray remarks](https://www.hindustantimes.com/india-news/mns-style-influencer-mahesh-mote-made-to-prostrate-slap-himself-with-slippers-over-raj-thackeray-remarks-101789971731510.html)
 - [Kerala fest: Govt cites subject matter, says 31 films await further verification](https://www.hindustantimes.com/india-news/kerala-fest-govt-cites-subject-matter-says-31-films-await-further-verification-101789974698815.html)
@@ -50,28 +50,28 @@
 - [Multiple Delhi schools receive bomb threats, anti-sabotage checks on](https://www.hindustantimes.com/india-news/multiple-schools-including-central-delhi-receive-bomb-threats-anti-sabotage-check-probe-101789971897669.html)
 
 **Vijay Karnataka**
-- [ತುಳು ಭಾಷೆಗೆ ಸಿಕ್ಕ ಅಧಿಕೃತ ಮಾನ್ಯತೆ : ಈ ಮೂವರಲ್ಲಿ ಯಾರಿಗೆ ಸಿಗಬೇಕು ಇದರ ಕ್ರೆಡಿಟ್?](https://vijaykarnataka.com/news/karnataka/who-deserves-credit-tulu-official-language-recognition/articleshow/134382973.cms)
-- [ನಕಲಿ ಔಷಧ ಜಾಲದ ಬೆನ್ನತ್ತಿದ ಎಫ್‌ಡಿಎ ಅಧಿಕಾರಿಗಳು: ಕರ್ನಾಟಕದಲ್ಲಿ 16 ಔಷಧ ಮಳಿಗೆಗಳ ಲೈಸೆನ್ಸ್‌ ರದ್ದು, 8 ಮಳಿಗೆಯ ಪರವಾನಗಿ ಸಸ್ಪೆಂಡ್!](https://vijaykarnataka.com/news/karnataka/karnataka-cancels-16-drug-licences-and-suspends-8-licences-of-retailers-wholesalers-over-spurious-medicines/articleshow/134381240.cms)
-- [ಬೆಂಗಳೂರಿನ ಉತ್ತರಹಳ್ಳಿಯಲ್ಲಿ ಮಾರಕಾಸ್ತ್ರ ಝಳಪಿಸಿದ ಮುಸುಕುಧಾರಿಗಳು: ನಾಲ್ವರಿಗೆ ಗಂಭೀರ ಗಾಯ! ರೌಡಿಸಂ ನೆರಳಲ್ಲಿ ಸಿಲಿಕಾನ್‌ ಸಿಟಿ](https://vijaykarnataka.com/news/bengaluru-city/masked-gang-wielding-machetes-hacks-four-in-brutal-uttarahalli-attack-in-bengaluru/articleshow/134364114.cms)
+- [ಶಾಲೆಗಳಲ್ಲಿ ಬುರ್ಖಾ ನಿಷೇಧ, ವಿದೇಶಿ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಖ್ಯೆಗೆ ಮಿತಿ: ಇಟಲಿ ಪ್ರಧಾನಿ ಜಾರ್ಜಿಯಾ ಮೆಲೋನಿ ದೇಸಿ ರಾಜಕಾರಣ! MIGA ಸಂಚಲನ](https://vijaykarnataka.com/news/world/italy-moves-to-ban-burqa-in-schools-and-cap-foreign-students-per-classroom-giorgia-meloni-miga-push/articleshow/134382611.cms)
+- [ಧರ್ಮಸ್ಥಳ ಸೌಜನ್ಯಾ ಪ್ರಕರಣದ ಮರುತನಿಖೆಗೆ ಆದೇಶಿಸಿದ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ : 3 ತಿಂಗಳ ಗಡುವು](https://vijaykarnataka.com/news/karnataka/supreme-court-order-to-re-investigate-dharmasthala-soujanya-case-within-3-months/articleshow/134383480.cms)
+- [ವಿಶೇಷ ಅಧಿವೇಶನವೋ, ಚರ್ಚೆಯೋ? ಆಡಳಿತ ವಿಪಕ್ಷಗಳ ನಡುವೆ ಕ್ರೆಡಿಟ್ ವಾರ್, ಸದನದ ಮೊದಲ ದಿನವೇ ಗದ್ದಲ](https://vijaykarnataka.com/news/karnataka/special-session-or-special-disscusion-govt-or-opposition-word-battle-in-assembly-over-karnataka-assembly-session-name/articleshow/134383232.cms)
 - [ತಮಿಳುನಾಡಿನ ಶಾಲಾ ಮಕ್ಕಳಿಗೆ ವಾರಕ್ಕೊಮ್ಮೆ ಚಿಕನ್ ಬಿರಿಯಾನಿ; ಬೆಳೆಯುವ ಮಕ್ಕಳಿಗೆ ಚಿಕನ್‌ನಲ್ಲಿರುವ ಪ್ರೋಟೀನ್‌ನ ಪ್ರಯೋಜನಗಳೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/tamil-nadu-midday-meal-weekly-chicken-biryani-growing-children-protein-benefits/articleshow/134381039.cms)
-- [Kasturirangan Report : ’ಸಾಟಿಲೈಟ್, ಜಿಪಿಎಸ್ ಆಧಾರಿತ ಸಮೀಕ್ಷೆ ದೋಷಪೂರಿತ - ಒಪ್ಪಲು ಹೇಗೆ ಸಾಧ್ಯ’?](https://vijaykarnataka.com/news/hasana/kasturirangan-report-why-remote-sensing-survey-is-flawed-minister-km-shivalinge-gowda/articleshow/134382144.cms)
-- [‘ಮಾನ, ಮರ್ಯಾದೆ ತುಂಬಿ ತುಳುಕುತ್ತಿದೆ.. ಹೋಗಿ ಮಾರ್ಕೆಟ್‌ನಲ್ಲಿ ನಿಂತು..’: ವೈಷ್ಣವಿ ಬಗ್ಗೆ ಮಂಜ ಕೆಟ್ಟ ಕೊಳಕು ಮಾತು!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-week-3-manja-uses-foul-language-on-vaishnavi-viewers-are-angry/articleshow/134383222.cms)
+- [ತುಳು ಭಾಷೆಗೆ ಸಿಕ್ಕ ಅಧಿಕೃತ ಮಾನ್ಯತೆ : ಈ ಮೂವರಲ್ಲಿ ಯಾರಿಗೆ ಸಿಗಬೇಕು ಇದರ ಕ್ರೆಡಿಟ್?](https://vijaykarnataka.com/news/karnataka/who-deserves-credit-tulu-official-language-recognition/articleshow/134382973.cms)
+- [‘ನಾಚಿಕೆ ಇಲ್ಲದಂತೆ ಇಬ್ಬರೂ ನಗುತ್ತಿದ್ದಾರೆ’ - ಸೌಂದರ್ಯ ಶೆಟ್ಟಿ, ಲಿಖಿತ್ ಬಗ್ಗೆ ವೀಕ್ಷಕರು ಅಸಮಾಧಾನ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-week-3-viewers-are-disappointed-with-soundarya-shetty-and-likith/articleshow/134383806.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [ಶೇಷನಾಗ ಶ್ರೀಕೃಷ್ಣನ ಅಣ್ಣನಾಗಿದ್ದು ಹೇಗೆ.? ಪುರಾಣದಲ್ಲಿರುವ ಕಥೆ.!](https://vijaykarnataka.com/religion/hinduism/know-how-sheshnag-become-elder-brother-to-krishna/articleshow/134382838.cms)
 - [ಬದುಕಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡುವ ಮದರ್ ತೆರೆಸಾ ಮಾತುಗಳು: ಪ್ರೀತಿ, ದಯೆ ಮತ್ತು ಮಾನವೀಯತೆಯ ಅಮೂಲ್ಯ ಸಂದೇಶಗಳು](https://vijaykarnataka.com/lifestyle/relationship/mother-teresa-motivational-quotes-for-life-inspiration-and-kindness/articleshow/134377797.cms)
-- [ವರ್ತಕರ UPI MDRನಲ್ಲಿ ಶೇ.0.4 ನಷ್ಟು ಹೊರೆ, ನಗದು ವ್ಯವಹಾರ ಮತ್ತೆ ಹೆಚ್ಚಾಗುತ್ತಾ? ವ್ಯಾಪಾಸ್ಥರು ಹೇಳಿದ್ದೇನು?](https://vijaykarnataka.com/news/karnataka/upi-payment-mdr-rise-2000-above-0-4-from-october-15-2026-public-opinion/videoshow/134382731.cms)
+- [ನಕಲಿ ಔಷಧ ಜಾಲದ ಬೆನ್ನತ್ತಿದ ಎಫ್‌ಡಿಎ ಅಧಿಕಾರಿಗಳು: ಕರ್ನಾಟಕದಲ್ಲಿ 16 ಔಷಧ ಮಳಿಗೆಗಳ ಲೈಸೆನ್ಸ್‌ ರದ್ದು, 8 ಮಳಿಗೆಯ ಪರವಾನಗಿ ಸಸ್ಪೆಂಡ್!](https://vijaykarnataka.com/news/karnataka/karnataka-cancels-16-drug-licences-and-suspends-8-licences-of-retailers-wholesalers-over-spurious-medicines/articleshow/134381240.cms)
 
 **The Hindu**
+- [‘Partners for Multilateralism’: India to attend new non-superpower grouping’s inaugural session at UN](https://www.thehindu.com/news/national/partners-for-multilateralism-india-to-attend-new-non-superpower-groupings-inaugural-session-at-un/article71490513.ece)
+- [Gurajada’s works will inspire generations, says Minister Kondapalli Srinivas on 164th birth anniversary](https://www.thehindu.com/news/national/andhra-pradesh/gurajadas-works-will-inspire-generations-says-minister-kondapalli-srinivas-on-164th-birth-anniversary/article71490402.ece)
+- [Why has the Tamil Nadu Private Universities (Amendment) Bill, 2026, triggered a controversy? Explained](https://www.thehindu.com/news/national/tamil-nadu/why-has-the-tamil-nadu-private-universities-amendment-bill-2026-triggered-a-controversy-explained/article71490233.ece)
+- [YSRCP dharna meets PETs’ counter-dharna at SAAP office in Vijayawada over DSC sports quota jobs](https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-dharna-meets-pets-counter-dharna-at-saap-office-in-vijayawada-over-dsc-sports-quota-jobs/article71490231.ece)
 - [Delhi High Court lists Arvind Kejriwal, others’ contempt case for November 16 hearing](https://www.thehindu.com/news/cities/Delhi/delhi-high-court-lists-arvind-kejriwal-others-contempt-case-for-november-16-hearing/article71490498.ece)
 - [Stalin warns of massive protest over proposed Tamil Nadu Secretariat complex at Pattinapakkam](https://www.thehindu.com/news/national/tamil-nadu/stalin-warns-of-massive-protest-over-proposed-tamil-nadu-secretariat-complex-at-pattinapakkam/article71490486.ece)
 - [Karnataka issues order restricting Vande Mataram to two stanzas in State functions](https://www.thehindu.com/news/national/karnataka/karnataka-issues-order-restricting-vande-mataram-to-two-stanzas-in-state-functions/article71451466.ece)
 - [Vande Mataram ends after 2 stanzas in Karnataka Assembly and Council; BJP legislators recite full version](https://www.thehindu.com/news/national/karnataka/vande-mataram-ends-after-2-stanzas-in-karnataka-assembly-and-council-bjp-legislators-recite-full-version/article71490386.ece)
 - [Madras High Court dismisses writ petition challenging Vilathikulam DMK MLA Markandayan’s victory](https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-dismisses-writ-petition-challenging-vilathikulam-dmk-mla-markandayans-victory/article71490092.ece)
 - [Footballer Rijohn Jose dies in road accident](https://www.thehindu.com/sport/footballer-rijohn-jose-dies-in-road-accident/article71490408.ece)
-- [Fear revisits residents of Western Ghats](https://www.thehindu.com/news/national/karnataka/fear-revisits-residents-of-western-ghats/article71421030.ece)
-- [Tamil Nadu Minister T.K. Prabhu files ₹1-crore defamation case in Madras High Court against YouTuber Maridhas](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-minister-tk-prabhu-files-1-crore-defamation-case-in-madras-high-court-against-youtuber-maridhas/article71490074.ece)
-- [BJP misusing government agencies to pressure elected councillors: Congress leader Jully](https://www.thehindu.com/news/national/rajasthan/bjp-misusing-government-agencies-to-pressure-elected-councillors-congress-leader-jully/article71490290.ece)
-- [Name Mamnoor airport after Rani Rudrama Devi: BRS leader](https://www.thehindu.com/news/national/telangana/name-mamnoor-airport-after-rani-rudrama-devi-brs-leader/article71487769.ece)
 
 **Livemint**
 - [‘Mard ki aulaad maanunga…’: Why BJP MP Nishikant Dubey filed defamation case against ex-Finance Secretary Subhash Garg](https://www.livemint.com/news/india/mard-ki-aulaad-maanunga-why-bjp-mp-nishikant-dubey-filed-defamation-case-against-ex-finance-secretary-subhash-garg-11789973687416.html)
@@ -98,37 +98,39 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [‘ಪಾಪಾ’ ಎಂದು ಕರೆಯುವಂತೆ ತಮಾಷೆ ಮಾಡಿದ್ದಕ್ಕೆ ಸ್ನೇಹಿತರ ನಡುವೆ ಜಗಳ; 18 ವರ್ಷದ ಯುವಕನ ಕೊಲೆಯಲ್ಲಿ ಅಂತ್ಯ](https://www.varthabharati.in/National/18-year-old-youth-breathes-last-at-the-clash-began-with-sarcasm-of-calling-oneself-papa-2276729)
 - ["ನಙಲೊ ಉಮ್ಮ ಬಾಸೆ ನಙಲೊ ಪೆರಿಮೆ" ಆಶು ಅನುವಾದ ಸ್ಪರ್ಧೆ: ಫಲಿತಾಂಶ ಪ್ರಕಟ](https://www.varthabharati.in/DakshinaKannada/nanglo-umma-base-nanglo-perime-ashu-translation-competition-results-announced-2276726)
 - [ವಿಮೆನ್ ಇಂಡಿಯಾ ಮೂವ್‌ಮೆಂಟ್ ಕರ್ನಾಟಕ ರಾಜ್ಯ ಸಮಿತಿ ಸಭೆ](https://www.varthabharati.in/DakshinaKannada/women-india-movement-karnataka-state-committee-meeting-2276724)
 - [ಸೌಜನ್ಯಾ ಅತ್ಯಾಚಾರ-ಹತ್ಯೆ ಪ್ರಕರಣದ ಮರು ತನಿಖೆಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಆದೇಶ](https://www.varthabharati.in/DakshinaKannada/supreme-court-orders-fresh-investigation-into-soujanya-rape-and-murder-case-2276723)
+- [ಕಸ್ತೂರಿ ರಂಗನ್ ವರದಿ ವಿರೋಧಿಸಿ ಶೃಂಗೇರಿ ಬಂದ್; ರೈತರು, ಗ್ರಾಮಸ್ಥರಿಂದ ಪ್ರತಿಭಟನೆ](https://www.varthabharati.in/chikmagalur/sringeri-bandh-in-opposition-to-kasturirangan-report-farmers-and-villagers-stage-protest-2276728)
 - [ರಾಯಚೂರು: ಬರ ಪರಿಹಾರ ತಕ್ಷಣ ಬಿಡುಗಡೆಗೆ ಆಗ್ರಹಿಸಿ ಬಿಜೆಪಿ ಧರಣಿ](https://www.varthabharati.in/raichur/raichur-bjp-holds-staging-protest-demanding-immediate-release-of-drought-relief-funds-2276721)
 - [ವಿಧಾನ ಪರಿಷತ್ ಕಲಾಪ ಆರಂಭದಲ್ಲೇ ಗದ್ದಲ: ಸದನ ಮುಂದೂಡಿಕೆ](https://www.varthabharati.in/bangalore-city/karnataka-legislative-council-session-adjourned-amid-chaos-shortly-after-commencement-2276716)
 - [TMC ಹೆಸರು, ಚಿಹ್ನೆ ಬಳಸದಂತೆ ನಿರ್ಬಂಧ | ಚುನಾವಣಾ ಆಯೋಗದ ಕ್ರಮ ಪ್ರಶ್ನಿಸಿ ಮಮತಾ ಬ್ಯಾನರ್ಜಿ ಸಲ್ಲಿಸಿದ ಅರ್ಜಿಯ ತುರ್ತು ವಿಚಾರಣೆಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಸಮ್ಮತಿ](https://www.varthabharati.in/National/supreme-court-is-in-terms-with-immediate-inquire-against-election-commission-appealed-by-mamata-banerjee-2276715)
 - [ಐಐಟಿ ಬಾಂಬೆ ವಿದ್ಯಾರ್ಥಿ ಆತ್ಮಹತ್ಯೆ ಪ್ರಕರಣ | 18 ಬೇಡಿಕೆಗಳ ಕುರಿತು ಆಡಳಿತ ಮಂಡಳಿ –ಪ್ರತಿಭಟನಾಕಾರರ ಸಭೆ](https://www.varthabharati.in/National/iit-bombay-student-suicide-management-and-protestors-meet-with-18-demands-2276714)
 - [Keralam | ಇಡುಕ್ಕಿಯಲ್ಲಿ ಭಾರಿ ಮಳೆಗೆ ಭೂಕುಸಿತ: ಅವಶೇಷಗಳಡಿ ಸಿಲುಕಿ ಇಬ್ಬರು ಮೃತ್ಯು; ಓರ್ವ ಮಹಿಳೆಗೆ ಗಂಭೀರ ಗಾಯ](https://www.varthabharati.in/National/two-passes-away-in-the-landslide-in-idukki-2276713)
-- [ಚಿನ್ನದ ಬೆಲೆಯಲ್ಲಿ ಅಲ್ಪ ಇಳಿಕೆ; ಇಂದಿನ ದರವೆಷ್ಟು?](https://www.varthabharati.in/National/gold-prices-comes-down-find-out-todays-rate-2276709)
-- [ದಿಲ್ಲಿ SIR | ಕರಡು ಮತದಾರರ ಪಟ್ಟಿಯಲ್ಲಿ ದಿವಂಗತ ಅರ್ಥಶಾಸ್ತ್ರಜ್ಞ ಬಿಬೇಕ್ ದೇಬ್ರಾಯ್ ಹೆಸರು!](https://www.varthabharati.in/National/late-economist-bibek-debroy-name-listed-in-delhi-sir-list-2276708)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
 - IIT Bombay (4.0)
-- Student (3.2)
-- Vande Mataram (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
+- Student (2.9)
 - Trump (2.6)
 - Japan (2.6)
-- High (2.2)
 - Bombay (2.1)
-- Karnataka Assembly (2.0)
 - Raj Thackeray (2.0)
-- Madras High Court (2.0)
+- Vande Mataram (2.0)
 - Buy Bajaj Finance (2.0)
-- Karnataka (1.9)
+- High (1.9)
+- Doolla (1.9)
+- Telangana (1.6)
+- Woman (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [டெங்கு பரப்பும் ஏடிஸ் கொசு உற்பத்தி 20 நாளில் ரூ.5 லட்சம் அபராதம் வசூல்](https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/dengue-spreading-aedes-mosquito-production-rs-5-lakh-fine-collection-in-20-days/4328277)
+- [శివాజీ గణేశన్‌ కుమార్తె శాంతి కన్నుమూత](https://www.eenadu.net/telugu-news/districts/tamilnadu-news/704/126170226)
 - [ভারতে ব্যবসা শুরু এএসএমএল-এর](https://www.aaroananda.com/story/latest-news/breaking-news/asml-enters-india-semiconductor-market-tata-collaboration/11020596)
 - [रूस संसदीय चुनाव: 56% से ज्यादा मतदान, शुरुआती रुझानों में पुतिन की 'यूनाइटेड रशिया' आगे](https://www.aajtak.in/world/story/russia-parliamentary-elections-2026-united-russia-leads-vote-count-ntc-drmt-dskc-2648533-2026-09-21)
 - [Clinical Phenotypes and Care Guide](https://www.emjreviews.com/neurology/news/why-post-traumatic-headache-care-fails-most-concussion-patients/)
@@ -137,8 +139,6 @@
 - [Neurologists raise caution about early onset of Alzheimer’s](https://timesofindia.indiatimes.com/city/kolkata/neurologists-raise-caution-about-early-onset-of-alzheimers/articleshow/134374473.cms)
 - [വിദർശയുടെ മെഡൽ; ആര്യനാടിനും അഭിമാനം](https://www.mathrubhumi.com/thiruvananthapuram/news/localnews-thiruvananthapuram-iopnwzwt)
 - [சென்னையில் 4 இடங்களில் நள்ளிரவு வரை 1,800 விநாயகர் சிலைகள் கரைப்பு: பாதுகாப்பு ஏற்பாடுகள் தீவிரம்](https://www.dinakaran.com/news/chennai_vinayagar_idols_immersion_safety/)
-- [Bigg Boss 20: Rohed Khan gets evicted from the reality show; Rhiti Tiwari, Aasif Khan get emotional](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-20-rohed-khan-gets-evicted-from-the-reality-show-rhiti-tiwari-aasif-khan-get-emotional/articleshow/134374214.cms)
-- [Horoscope Today 21 September 2026 : आजचा सोमवार 6 राशींचं नशीब पालटणारा! भोलेनाथांच्या कृपेने आर्थिक तंगी मिटणार; वाचा आजचे राशीभविष्य](https://marathi.abplive.com/astro/horoscope-today-21-september-2026-monday-aajche-rashi-bhavishya-astrological-prediction-12-zodiac-signs-astrological-marathi-news-1439733)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
