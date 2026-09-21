@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-21 22:02:09
+# India Trending Report — 2026-09-21 22:34:40
 
 ## Google Trends (India) — top trending searches
-1. [realme 16 pro](https://trends.google.com/trending/rss?geo=IN)
-2. [facebook](https://trends.google.com/trending/rss?geo=IN)
-3. [karan wahi](https://trends.google.com/trending/rss?geo=IN)
-4. [kfintech](https://trends.google.com/trending/rss?geo=IN)
-5. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
-6. [manchester city](https://trends.google.com/trending/rss?geo=IN)
-7. [baker](https://trends.google.com/trending/rss?geo=IN)
-8. [amd share price](https://trends.google.com/trending/rss?geo=IN)
-9. [zaheer khan](https://trends.google.com/trending/rss?geo=IN)
-10. [bosa](https://trends.google.com/trending/rss?geo=IN)
+1. [indian](https://trends.google.com/trending/rss?geo=IN)
+2. [realme 16 pro](https://trends.google.com/trending/rss?geo=IN)
+3. [facebook](https://trends.google.com/trending/rss?geo=IN)
+4. [karan wahi](https://trends.google.com/trending/rss?geo=IN)
+5. [kfintech](https://trends.google.com/trending/rss?geo=IN)
+6. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
+7. [manchester city](https://trends.google.com/trending/rss?geo=IN)
+8. [baker](https://trends.google.com/trending/rss?geo=IN)
+9. [amd share price](https://trends.google.com/trending/rss?geo=IN)
+10. [zaheer khan](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -26,6 +26,8 @@
 - [Lockheed ready for tech transfer of some parts of Super Hercules to India](https://timesofindia.indiatimes.com/defence/news/ready-for-tech-transfer-of-some-parts-of-super-hercules-to-india-says-lockheed-vp-calls-aircraft-best-option-for-iaf-as-mta-tender-is-out/articleshow/134397508.cms)
 
 **NDTV**
+- [UK Agrees To Saudi Request For Refuelling Support To Counter Houthis](https://www.ndtv.com/world-news/uk-agrees-to-saudi-request-for-refuelling-support-to-counter-houthis-12078571#publisher=newsstand)
+- [Odisha SIR: More Than 20 Lakh Voters Deleted From Electoral Roll](https://www.ndtv.com/india-news/odisha-sir-more-than-20-lakh-voters-deleted-from-electoral-roll-12078533#publisher=newsstand)
 - [Hundreds Of US Flights Cancelled After Air Traffic Control Malfunction](https://www.ndtv.com/world-news/hundreds-of-us-flights-cancelled-after-air-traffic-control-malfunction-12078490#publisher=newsstand)
 - [Delhi PG Building Collapse: Court Extends Judicial Custody Of 6 Accused](https://www.ndtv.com/india-news/delhi-pg-building-collapse-court-extends-judicial-custody-of-6-accused-12078458#publisher=newsstand)
 - [2 Workers Killed In Fire At Tyre Oil Factory In UP](https://www.ndtv.com/india-news/2-workers-killed-in-fire-at-tyre-oil-factory-in-up-12078426#publisher=newsstand)
@@ -34,8 +36,6 @@
 - [On Groping Case, Bihar Minister's "Isolated Incidents Happen" Shocker](https://www.ndtv.com/india-news/on-bihar-groping-video-opposition-attacks-ministers-petty-cases-shocker-12077274#publisher=newsstand)
 - [Why Diesel Is Outpacing Crude Oil In The Global Price Surge](https://www.ndtv.com/world-news/why-diesel-is-outpacing-crude-oil-in-the-global-price-surge-12078364#publisher=newsstand)
 - [15 Hours, 170 CCTVs: Child Rescued From Kidnapper After 100-km Chase](https://www.ndtv.com/india-news/15-hours-170-cctvs-one-rescue-gujarat-cops-crack-child-kidnapping-case-12078285#publisher=newsstand)
-- [Hyderabad Cop Video-Calls Woman, Then Dies By Suicide](https://www.ndtv.com/india-news/hyderabad-cop-video-calls-woman-then-dies-by-suicide-12078358#publisher=newsstand)
-- ["Nationalise Us, Please": Palantir CEO's Take On AI's Liability Problem](https://www.ndtv.com/world-news/openai-anthropic-not-listing-palantir-ceo-says-this-is-the-most-likely-outcome-for-ai-labs-12078282#publisher=newsstand)
 
 **Hindustan Times**
 - [Two workers killed in fire at tyre oil factory in UP](https://www.hindustantimes.com/india-news/two-workers-killed-in-fire-at-tyre-oil-factory-in-up-101790016612494.html)
@@ -49,9 +49,20 @@
 - [Inter-state gang behind Sagar spurious liquor tragedy: MP Police](https://www.hindustantimes.com/india-news/interstate-gang-behind-sagar-spurious-liquor-tragedy-mp-police-101790000564204.html)
 - [MoRTH pushes for an intelligent and clean construction](https://www.hindustantimes.com/india-news/morth-pushes-for-an-intelligent-and-clean-construction-101789999963656.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಘಟ್ಟ ಪ್ರದೇಶ ಸಂರಕ್ಷಣೆ, ಸ್ಥಳೀಯರ ಹಿತ ಎರಡೂ ಮುಖ್ಯ: ಕಸ್ತೂರಿ ರಂಗನ್ ವರದಿ ಬಗ್ಗೆ ನಿಲುವು ಸ್ಪಷ್ಟಪಡಿಸಿದ ರಾಜ್ಯ ಸರಕಾರ](https://vijaykarnataka.com/news/karnataka/the-state-government-clarifies-on-kasturi-rangan-report-conservation-of-western-ghats-and-welfare-of-locals-both-important/articleshow/134394239.cms)
+- [ಚೀನಾ ಅಧ್ಯಕ್ಷರ ಅಮೆರಿಕ ಪ್ರವಾಸ: ಟ್ರಂಪ್ – ಜಿನ್‌ಪಿಂಗ್ ಹೈವೋಲ್ಟೇಜ್ ಭೇಟಿ ಕಡೆಗೆ ವಿಶ್ವದ ಕಣ್ಣು!](https://vijaykarnataka.com/news/world/chinese-president-usa-trip-trump-xi-jinping-high-voltage-meeting-eyes-of-the-world/articleshow/134395303.cms)
+- [ಬಿಡದಿ ಟೌನ್‌ಶಿಪ್‌ ಭೂಸ್ವಾಧೀನ: ರೈತರಿಂದ ಉಪವಾಸ ಆರಂಭ; ಹಿರಣ್ಯಾಕ್ಷನ ಪಾಪದ ಕೊಡ ತುಂಬುತ್ತಿದೆ ಎಂದು ಎಚ್‌ಡಿ ಕುಮಾರಸ್ವಾಮಿ ಕಿಡಿ](https://vijaykarnataka.com/news/ramanagara/bidadi-township-farmers-begin-a-fast-hd-kumaraswamy-lashes-out-karnataka-monstrous-government/articleshow/134393781.cms)
+- [ಟಾಯ್ಲೆಟ್‌ ಬೌಲ್ ಸುತ್ತ ಬೇಕಿಂಗ್ ಸೋಡಾ ಸಿಂಪಡಿಸುವ ಹೊಸ ಟ್ರೆಂಡ್; ನಿಜಕ್ಕೂ ಇದರಿಂದ ಏನು ಪ್ರಯೋಜನ?](https://vijaykarnataka.com/lifestyle/home-decor/baking-soda-around-toilet-bowl-benefits-cleaning-science/articleshow/134388683.cms)
+- [ಹೆಚ್ಚು ಜನರನ್ನು ನೋಡಿದರೆ ಭಾಷಣಕಾರರ ನಾಲಿಗೆ ಮತ್ತು ಮಿದುಳಿನ ಸಂಪರ್ಕ ಕಟ್!: ಹೈಕೋರ್ಟ್‌ ಅಸಮಾಧಾನ](https://vijaykarnataka.com/news/karnataka/karnataka-high-court-says-orators-loose-connection-between-tongue-and-brain-when-more-audience/articleshow/134396113.cms)
+- [BBK 13 ಸೌಂದರ್ಯ ಶೆಟ್ಟಿಗೆ ಜೈಲು ಶಿಕ್ಷೆ: ತಬ್ಬಿ ಕ್ಷಮೆ ಕೇಳಿದ ಮಂಜ, ಬಿಗ್‌ ಬಾಸ್‌ ಕಣ್ಣಾಮುಚ್ಚಾಲೆ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/in-bbk-13-has-sentenced-soundarya-shetty-to-jail-for-hitting-modern-mahakavi-manja/articleshow/134397478.cms)
+- [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
+- [2026 ಪರಿವರ್ತಿನಿ ಏಕಾದಶಿ: ಶುಭ ಮುಹೂರ್ತ, ಪೂಜೆ ವಿಧಾನ, ಮಹತ್ವ ಮತ್ತು ಮಂತ್ರಗಳು.!](https://vijaykarnataka.com/religion/festivals/parivartini-ekadashi-2026-date-and-time-puja-procedures-importance-and-mantras/articleshow/134390736.cms)
+- [ವಯಸ್ಸಾದ ಪೋಷಕರಲ್ಲಿ ಈ ಬದಲಾವಣೆಗಳು ಕೇವಲ ವಯಸ್ಸಿನ ಲಕ್ಷಣವಲ್ಲ; ಆಲ್ಝೈಮರ್ಸ್‌ನ ಆರಂಭಿಕ ಸೂಚನೆಯೂ ಆಗಿರಬಹುದು!](https://vijaykarnataka.com/lifestyle/health/world-alzheimers-day-2026-early-signs-alzheimers-parents/articleshow/134386113.cms)
+- [ಅಯೋಧ್ಯೆ ರಾಮಮಂದಿರ ದೇಣಿಗೆ ಲೂಟಿ ಪ್ರಕರಣ: 105 ಕಳ್ಳತನ ಪ್ರಕರಣ ಪತ್ತೆ! ಸೆ.25ರೊಳಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ಗೆ SIT ಚಾರ್ಜ್‌ಶೀಟ್?](https://vijaykarnataka.com/news/india/ayodhya-ram-temple-donation-theft-caught-on-cctv-105-times-sit-report/articleshow/134393656.cms)
 
 **The Hindu**
+- [Mahayuti Minister Mangal Prabhat Lodha is suppressing voice of community members, alleges Jain Monk](https://www.thehindu.com/news/cities/mumbai/mahayuti-minister-mangal-prabhat-lodha-is-suppressing-voice-of-community-members-alleges-jain-monk/article71492226.ece)
 - [Court orders fresh hearing in Sonia Gandhi’s voter roll entry case](https://www.thehindu.com/news/national/delhi-court-sets-aside-magistrate-order-refusing-probe-in-sonia-gandhis-pre-citizenship-electoral-entry/article71490940.ece)
 - [Class 10 girl and boy returning from coaching groped and assaulted in Bihar’s Jamui, sparking a political row](https://www.thehindu.com/news/national/bihar/two-class-10-students-a-girl-and-a-boy-groped-and-harassed-in-bihars-jamui-sparking-a-political-row/article71491560.ece)
 - [SBSP chief Rajbhar’s claim on U.P. division ignites fresh debate as opposition hit out at NDA](https://www.thehindu.com/news/national/uttar-pradesh/sbsp-chief-rajbhars-claim-on-up-division-ignites-fresh-debate-as-opposition-hit-out-at-nda/article71492262.ece)
@@ -61,7 +72,6 @@
 - [J&K House Committee finds ‘irregularities’ in Jal Jeevan Mission, calls for probe](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-house-committee-finds-irregularities-in-jal-jeevan-mission-calls-for-probe/article71492474.ece)
 - [BDCC bank waiting for govt. sanction for recruitment, says MLA](https://www.thehindu.com/news/national/karnataka/bdcc-bank-waiting-for-govt-sanction-for-recruitment-says-mla/article71492310.ece)
 - [Belagavi students trained by zilla panchayat get into premier institutions](https://www.thehindu.com/news/national/karnataka/belagavi-students-trained-by-zilla-panchayat-get-into-premier-institutions/article71492176.ece)
-- [Supreme Court orders fresh probe into 2012 rape-murder near Dharmasthala in Karnataka](https://www.thehindu.com/news/national/karnataka/supreme-court-orders-fresh-probe-into-2012-rape-murder-near-dharmasthala-in-karnataka/article71492604.ece)
 
 **Livemint**
 - [Gracie Mansion meeting: Zohran Mamdani hosts Donald Trump in New York as UN General Assembly week begins](https://www.livemint.com/news/us-news/gracie-mansion-meeting-zohran-mamdani-hosts-donald-trump-in-new-york-as-un-general-assembly-week-begins-11790026091725.html)
@@ -95,30 +105,30 @@
 - Jamui (2.6)
 - What (2.6)
 - Tumakur (2.6)
-- Court (2.2)
+- Court (1.9)
 - Police (1.9)
 - Bihar (1.9)
 - Flights (1.6)
+- Minister (1.6)
 - Maharashtra (1.6)
 - Russia (1.3)
 - Ukraine (1.3)
 - Yemen's (1.3)
 - Houthi (1.3)
-- Riyadh (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ગ્રેડ-પેનો અમલ નહીં થતાં જમીન દફતર કચેરીઓના 90 કર્મચારીઓની અચોક્કસ મુદતની હડતાળ](https://www.gujaratsamachar.com/news/baroda/90-employees-of-land-registry-offices-go-on-indefinite-strike-over-non-implementation-of-grade-pay-87914169948)
-- [3 રાજ્યોમાં વાવાઝોડું અર્નબ ત્રાટકવાની આશંકા! બંગાળની ખાડીમાં મોટી હલચલ, અતિ ભારે વરસાદની આગાહી](https://www.gujaratsamachar.com/news/national/cyclone-arnab-likely-to-hit-3-states-big-disturbance-in-bay-of-bengal-very-heavy-rains-predicted-56800719389)
-- [दुबई के शासक के छोटे भाई शेख अहमद का निधन, अमीरात में 10 दिन का शोक](https://www.aajtak.in/world/story/dubai-sheikh-ahmed-bin-rashid-al-maktoum-dies-10-day-mourning-ntc-dhrj-dskc-2649101-2026-09-21)
-- [72મા નેશનલ ફિલ્મ એવોર્ડ સમારોહને લઈ એકતાનગરમાં ફિલ્મી સિતારાઓનું આગમન, અનેક કલાકાર પહોંચ્યા](https://gujarati.abplive.com/news/gujarat/film-stars-arrive-in-ekta-nagar-for-the-72nd-national-film-awards-ceremony-991705)
-- [தனுஷ் - தமிழரசன் பச்சமுத்து - சாய் அபயங்கர், புதிய கூட்டணி ?](https://cinema.dinamalar.com/news/kollywood/dhanush-tamizharasan-pachamuthu-sai-abhyankar-new-alliance/141026)
-- [Mumbai Crime BMW Car Accident: कोस्टल रोडवर कारच्या अपघातानंतरचं हादरवणारं दृश्य, मृतदेहांची भयंकर अवस्था पाहून प्रत्यक्षदर्शींचं काळीजही हेलावून गेलं](https://marathi.abplive.com/news/mumbai/mumbai-bmw-car-accident-on-coastal-road-bmw-fall-down-75-feet-down-3-youths-died-very-painful-death-marathi-news-1439791)
-- [Bank strike from September 28 to 30: SBI issues advisory, which banking services will be available?](https://www.thehindu.com/news/national/bank-strike-september-28-30-sbi-issues-advisory-banking-services-available/article71490677.ece)
-- [... तर राज्यात दुष्काळच पडला नसता; शरद पवारांचा दुष्काळी दौरा, पत्रकारांच्या प्रश्नावर मंत्री जयकुमार गोरेंची टीका](https://marathi.abplive.com/news/politics/minister-jaykumar-gore-criticizes-sharad-pawar-s-drought-inspection-tour-maharashtra-rain-state-would-not-have-faced-a-drought-at-all-1439792)
-- [37 ആണ് വയസ്സ്, തന്ത വൈബ് പിടിക്കാൻ ഉദ്ദേശിക്കുന്നില്ല; മന്ത്രിമാർക്ക് സ്വകാര്യ നിമിഷങ്ങൾ പാടില്ലേ?- ഒ.ജെ ജനീഷ്](https://www.mathrubhumi.com/news/kerala/oj-janeesh-defends-foreign-travel-controversy-xn1uxbvs)
-- [कांग्रेस की पूर्व अध्यक्ष सोनिया गांधी को झटका, नागरिकता से पहले वोटर लिस्ट में नाम पर कोर्ट का बड़ा फैसला](https://www.jagran.com/delhi/new-delhi-city-sonia-gandhi-voter-list-case-court-overturns-fir-denial-40380259.html)
+- [ആവശ്യങ്ങൾ അംഗീകരിക്കാതെ ഹോർമുസ് തുറക്കില്ലെന്ന് ഇറാൻ](https://www.manoramaonline.com/global-malayali/gulf/2026/09/21/iran-threatens-strait-of-hormuz-closure-over-demands.html)
+- [പ്രിയദർശിനി യാത്ര നൂറാം ദിവസത്തിലേക്ക്; സ്ത്രീ യാത്രക്കാരുടെ എണ്ണത്തിൽ 60 ശതമാനം വർധനവ്](https://www.asianetnews.com/kerala-news/priyadarshini-projects-completes-100-days-60-percent-increase-in-number-of-women-passengers-articleshow-41x9ing)
+- [दिल्ली की रोहिणी जेल में मर्डर, धारदार हथियार से विचाराधीन कैदी की हत्या](https://www.aajtak.in/india/delhi/story/murder-in-delhi-rohini-jail-undertrial-prisoner-ntcpvp-rpti-2649133-2026-09-21)
+- [IFA Shield 2026: IFA শিল্ড শুরু হচ্ছে, মোহনবাগান, ইস্টবেঙ্গলের ম্যাচগুলি কবে? পুরো সূচি রইল](https://bangla.aajtak.in/sports/football/story/ifa-shield-2026-fixture-matches-schedule-teams-groups-mohun-bagan-vs-east-bengal-northeast-united-arg-1453406-2026-09-21)
+- [Sensex settles 550 pts higher, Nifty ends above 23,400: Easing crude oil prices among key factors behind market rise](https://www.moneycontrol.com/news/business/markets/sensex-gains-500-pts-nifty-above-23-400-easing-crude-oil-prices-among-key-factors-behind-market-rise-14034201.html)
+- [Gold Silver Rate: સોના-ચાંદીની કિંમતમાં થયો ઘટાડો, ક્રૂડ ઓઇલના ભાવ પણ ઘટ્યા](https://gujarati.abplive.com/news/business/gold-and-silver-prices-fall-crude-oil-rates-also-drop-991707)
+- [Breaking News Asian Games 2026: મહિલા હોકીમાં ભારતનો ધમાકો, ઇન્ડોનેશિયાને 17-1થી હરાવ્યું, 3 ખેલાડીઓની હેટ્રિક](https://tv9gujarati.com/photo-gallery/sports-photos/breaking-news-asian-games-2026-japan-womens-hockey-india-beat-uzbekistan-1519558.html)
+- [Amit Shah : केंद्रीय गृहमंत्री अमित शाह यांनी घेतली 'हनुमान अंश' चित्रपटाच्या टीमची भेट! दिल्या खास शुभेच्छा](https://www.prahaar.in/2026/09/21/union-home-minister-amit-shah-met-the-team-of-the-movie-hanuman-ansh/)
+- [National Film Awards 2026 માટે સ્ટેચ્યુ ઓફ યુનિટી સજ્જ](https://www.gujaratfirst.com/narmada/national-film-awards-2026-statue-of-unity-gujarat-first-digital/340792/)
+- [KAIST Extends Lifespan of Graphite-Free Anode-Free Batteries That Could Make EV Batteries Smaller and Lighter](https://www.newswise.com/articles/kaist-extends-lifespan-of-graphite-free-anode-free-batteries-that-could-make-ev-batteries-smaller-and-lighter)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
