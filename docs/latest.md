@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-21 02:35:46
+# India Trending Report — 2026-09-21 03:01:51
 
 ## Google Trends (India) — top trending searches
 1. [coastal road mumbai](https://trends.google.com/trending/rss?geo=IN)
@@ -15,15 +15,15 @@
 ## Latest headlines by outlet
 **Times of India**
 - [Delhi SIRprises: Jaishankar, Dhankhar, Advani & more issued notices for ‘discrepancies’](https://timesofindia.indiatimes.com/city/delhi/lk-advani-dhankar-sisodia-also-issued-sir-notices/articleshow/134372553.cms)
+- [Mumbai student alleges home search after pro-Palestine campaign](https://timesofindia.indiatimes.com/city/mumbai/mumbai-student-claims-cops-raid-after-taking-part-in-pro-palestine-campaign/articleshow/134378096.cms)
 - [AfD tops another German state poll, Merz’s CDU crashes to historic low](https://timesofindia.indiatimes.com/world/rest-of-world/afd-tops-another-german-state-poll-merzs-cdu-crashes-to-historic-low/articleshow/134378082.cms)
 - [Facebook, Instagram down for thousands of US users](https://timesofindia.indiatimes.com/technology/tech-news/facebook-instagram-down-for-thousands-of-us-users/articleshow/134377929.cms)
-- [Tata dispute: Lawyers Abhishek Singhvi, Harish Salve now on opposing sides](https://timesofindia.indiatimes.com/business/india-business/tata-dipute-singhvi-salve-now-on-opposing-sides/articleshow/134375598.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
+- [Oil prices eases as Saudi supply recovery offsets Houthi attacks, US-Iran tensions](https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-brent-crude-eases-as-saudi-supply-recovery-offsets-houthi-attacks-us-iran-tensions/articleshow/134378182.cms)
+- [Tata dispute: Lawyers Abhishek Singhvi, Harish Salve now on opposing sides](https://timesofindia.indiatimes.com/business/india-business/tata-dipute-singhvi-salve-now-on-opposing-sides/articleshow/134375598.cms)
 - [Iran rules out reopening Strait of Hormuz, returning to US talks until conditions met](https://timesofindia.indiatimes.com/world/middle-east/iran-rules-out-reopening-strait-of-hormuz-returning-to-us-talks-until-conditions-met/articleshow/134377764.cms)
+- [Olympiad: Pragg outwits Dutch No. 1 Anish Giri for first win; sister Vaishali loses](https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-5-praggnanandhaa-outwits-dutch-no-1-anish-giri-for-first-win-vaishalis-defeat-caps-indias-mixed-day/articleshow/134377923.cms)
 - [Indian-origin climber, Nepalese guide killed in Manaslu avalanche](https://timesofindia.indiatimes.com/world/south-asia/indian-origin-climber-nepalese-guide-killed-in-manaslu-avalanche/articleshow/134371124.cms)
-- ['I won't leave it until I win': Khan returns for his 4th Asiad with same Oly dream](https://timesofindia.indiatimes.com/sports/asian-games-2026/i-wont-leave-it-until-i-win-mairaj-ahmad-khan-returns-for-his-4th-asian-games-with-the-same-olympic-dream-he-had-20-years-ago/articleshow/134377486.cms)
-- [Iran threatens 'painful retaliation' if US strikes as Trump warns of 'big things'](https://timesofindia.indiatimes.com/world/middle-east/iran-warns-us-allies-against-new-attack-threatens-retaliation/articleshow/134374995.cms)
-- [37 lakh cases pending: Bengal SIR tribunals may take 12 years to decide on appeals](https://timesofindia.indiatimes.com/india/bengal-sir-tribunals-may-take-12-years-to-decide-on-appeals/articleshow/134376466.cms)
 
 **NDTV**
 - [ICE Agent Shoots And Wounds Man In Texas, US, Officials Say](https://www.ndtv.com/world-news/ice-agent-shoots-and-wounds-man-in-texas-us-officials-say-12074072#publisher=newsstand)
@@ -38,18 +38,28 @@
 - [Congress vs Congress: Karnataka MLA Threatens To Quit Over Drought Issues](https://www.ndtv.com/india-news/congress-vs-congress-karnataka-mla-threatens-to-quit-over-drought-issues-12073460#publisher=newsstand)
 
 **Hindustan Times**
+- [CM: All-party delegation to convey K’taka views to govt on Kasturirangan report](https://www.hindustantimes.com/india-news/cm-all-party-delegation-to-convey-k-taka-views-to-govt-on-kasturirangan-report-101789932089148.html)
+- [FDA cancels 16, suspends 8 drug licences in K’taka](https://www.hindustantimes.com/india-news/fda-cancels-16-suspends-8-drug-licences-in-ktaka-101789932029030.html)
+- [No move to ban politics at Kerala University: Minister](https://www.hindustantimes.com/india-news/no-move-to-ban-politics-at-kerala-university-minister-101789931848851.html)
+- [Govt allows use of mining debris, tweaks green clearance rules](https://www.hindustantimes.com/india-news/govt-allows-use-of-mining-debris-tweaks-green-clearance-rules-101789931807748.html)
+- [Centre has not stated reasons for denying screening permission to 31 films: Keralam minister](https://www.hindustantimes.com/india-news/centre-has-not-stated-reasons-for-denying-screening-permission-to-31-films-keralam-minister-101789931803465.html)
+- [Centre testing AI system to identify rural road defects](https://www.hindustantimes.com/india-news/centre-testing-ai-system-to-identify-rural-road-defects-101789931789298.html)
+- [Tackling climate change require well-structured policies, action: Prez Murmu](https://www.hindustantimes.com/india-news/tackling-climate-change-require-well-structured-policies-action-prez-murmu-101789931729422.html)
 - ['Threats from goon activists': Comedian Pulkit Mani says UP shows cancelled amid row over mimicry of PM Modi](https://www.hindustantimes.com/india-news/comedian-pulkit-mani-alleges-threats-says-noida-lucknow-kanpur-shows-cancelled-pm-modi-mimicry-row-101789952110066.html)
 - [Odisha jail superintendent arrested over alleged forgery after prisoner’s escape](https://www.hindustantimes.com/india-news/odisha-jail-superintendent-arrested-over-alleged-forgery-after-prisoner-s-escape-101789955676200.html)
 - [Name mismatch, age difference and more: Why 3.3 million voters in Delhi received EC notices after SIR bid in capital](https://www.hindustantimes.com/india-news/name-mismatch-age-difference-and-more-why-3-3-million-voters-in-delhi-received-ec-notices-after-sir-bid-in-capital-101789954533654.html)
-- [LPG tanker with 9 Indians hit by drone near Strait of Hormuz, crew safe](https://www.hindustantimes.com/india-news/lpg-tanker-with-9-indians-hit-by-drone-near-strait-of-hormuz-crew-safe-vessel-anchored-safely-at-khor-fakkan-101789954416537.html)
-- [BJP president Nitin Nabin on 2-day UP visit; to meet party functionaries](https://www.hindustantimes.com/india-news/bjp-president-nitin-nabin-on-2-day-up-visit-to-meet-party-functionaries-101789954474677.html)
-- [Angh, rooted in Nagaland's culture, selected for International Feature Film at Oscars 2027](https://www.hindustantimes.com/india-news/anghba-angh-nagaland-film-theja-rio-oscars-2027-academy-awards-international-feature-film-tiff-101789949295367.html)
-- [Delhi government proposes 3-month extension for fire service amendment rules, 2025](https://www.hindustantimes.com/india-news/delhi-government-proposes-3-month-extension-for-fire-service-amendment-rules-2025-101789950436023.html)
-- [Government to test Digi Yatra at major airports for international departures between October and December](https://www.hindustantimes.com/india-news/government-to-test-digi-yatra-at-major-airports-for-international-departures-between-october-and-december-101789949430843.html)
-- [As rains intensify in Keralam, CM orders hourly assessment of situation](https://www.hindustantimes.com/india-news/as-rains-intensify-in-keralam-cm-orders-hourly-assessment-of-situation-101789938159367.html)
-- [Top Maoist commander with  ₹30 lakh reward killed in encounter in UP's Varanasi](https://www.hindustantimes.com/india-news/top-maoist-commander-in-jharkhand-with-30-lakh-reward-brijesh-ganjhu-killed-in-encounter-in-varanasi-uttar-pradesh-101789931729147.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಕೈಕೊಟ್ಟ ಉತ್ತರಿ ಮಳೆಯಿಂದ ಬಾಗಲಕೋಟೆಯಲ್ಲಿ 35 ಡಿಗ್ರಿ ತಾಪಮಾನಕ್ಕೆ ತತ್ತರಿಸಿದ ಜನತೆಗೆ IMDಯಿಂದ ಮಳೆಯ ಸಿಹಿಸುದ್ದಿ!](https://vijaykarnataka.com/news/bagalkot/lack-of-rain-bagalkote-records-35-degree-temperature-unusual-heat-even-during-monsoon/articleshow/134378085.cms)
+- [ಚಿಕ್ಕಬಳ್ಳಾಪುರದ ಕ್ರಷರ್ ಕ್ವಾರಿ ಬಂದ್: ಗೃಹ ನಿರ್ಮಾಣ, ಅಭಿವೃದ್ಧಿ ಕಾಮಗಾರಿಗಳಿಗೆ ಹೊಡೆತ, ರಾಜ್ಯ ಸರಕಾರ ಡಬಲ್‌ ರಾಯಲ್ಟಿ ವಸೂಲಿ ಎಫೆಕ್ಟ್](https://vijaykarnataka.com/news/chikkaballapura/crusher-and-quarry-shutdown-in-chikkaballapur-blow-to-housing-construction-and-development-works-impact-of-state-governments-double-royalty-collection/articleshow/134377532.cms)
+- [ಸೊಲ್ಮೆಲ್ - ಅಂತೂ ಇಂತೂ ತುಳು ಭಾಷೆಗೆ ಸಿಕ್ತು ಅಧಿಕೃತ ಮಾನ್ಯತೆ : ಹೋರಾಟದ ಹಾದಿ, ಮಾನ್ಯತೆಯಿಂದಾಗುವ ಅನುಕೂಲಗಳು](https://vijaykarnataka.com/news/karnataka/explainer-tulu-language-official-status-history-and-benefits/articleshow/134347426.cms)
+- [ಬದುಕಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡುವ ಮದರ್ ತೆರೆಸಾ ಮಾತುಗಳು: ಪ್ರೀತಿ, ದಯೆ ಮತ್ತು ಮಾನವೀಯತೆಯ ಅಮೂಲ್ಯ ಸಂದೇಶಗಳು](https://vijaykarnataka.com/lifestyle/relationship/mother-teresa-motivational-quotes-for-life-inspiration-and-kindness/articleshow/134377797.cms)
+- [ತ್ಯಾಜ್ಯ ನೀರು ಸಂಸ್ಕರಣೆಗೆ ಬೆಂಗಳೂರಲ್ಲಿ 9 ಎಸ್‌ಟಿಪಿ ಘಟಕ ಸ್ಥಾಪನೆಗೆ ಮುಂದಾದ ಜಲಮಂಡಳಿ: 3 ಪ್ಯಾಕೇಜ್‌ನಲ್ಲಿ ಕಾರ್ಯ, ಎಲ್ಲೆಲ್ಲಿ?](https://vijaykarnataka.com/news/bengaluru-city/bwssb-to-establish-9-new-stps-costing-2071-crs-in-bengaluru-to-treat-wastewater/articleshow/134377573.cms)
+- [ಈ ವಾರ ಒಟಿಟಿಗೆ ಲಗ್ಗೆ ಇಟ್ಟ ಸೂಪರ್‌ ಹಿಟ್‌ ಸಿನಿಮಾಗಳ ಲಿಸ್ಟ್‌ ಇಲ್ಲಿದೆ ನೋಡಿ..](https://vijaykarnataka.com/tv/news/latest-ott-releases-se-ptember-this-week-movies-list/articleshow/134377838.cms)
+- [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
+- [ಉಪವಾಸ ವ್ರತ ಮಾಡುವಾಗ ತಪ್ಪಿಸಬೇಕಾದ 5 ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/avoid-to-do-these-mistakes-while-doing-fasting-in-vrat-or-puja/articleshow/134378103.cms)
+- [ಪಟೋಲಾ ಕುರ್ತಾದಲ್ಲಿ ಮಿಂಚಿದ ದೀಪಿಕಾ ಪಡುಕೋಣೆ; ಸಿದ್ಧಿವಿನಾಯಕ ದರ್ಶನಕ್ಕೆ ಬಂದ ನಟಿಯ ಲುಕ್ ವೈರಲ್!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-siddhivinayak-temple-patola-kurta-look/articleshow/134352111.cms)
+- [ವಂದೇಬಾರತ್‌ ರೈಲನ್ನು ಮಂಗಳೂರು ಸೆಂಟ್ರಲ್‌ನಿಂದ ಬೆಳಗ್ಗೆ ಓಡಿಸಲು ಆಗ್ರಹ: ವೇಳಾಪಟ್ಟಿ ಪರಿಷ್ಕರಣೆಗೆ ಸಲಹೆ](https://vijaykarnataka.com/news/mangaluru/mangalore-bangalore-route-vande-bharat-train-operation-expectation-in-morning-here-is-the-suggested-timetable/articleshow/134377554.cms)
 
 **The Hindu**
 - [Getting away from gunshots](https://www.thehindu.com/news/national/himachal-pradesh/getting-away-from-gunshots/article71484095.ece)
@@ -75,7 +85,17 @@
 - [‘Skill is a tool, but…’: Startup founder points out common red flags among job seekers, as seen during interviews](https://www.livemint.com/news/trends/skill-is-a-tool-but-startup-founder-points-out-common-red-flags-among-job-seekers-as-seen-during-interviews-11789929001090.html)
 - [Giorgia Meloni plans burqa, niqab ban in Italian schools and cap on foreign students in classrooms](https://www.livemint.com/news/world/giorgia-meloni-plans-burqa-niqab-ban-in-italian-schools-and-cap-on-foreign-students-in-classrooms-11789925960986.html)
 
-**Moneycontrol** — _unavailable_
+**Moneycontrol**
+- [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
+- [Buy Tejas Networks; target of Rs 1100: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html)
+- [Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html)
+- [Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html)
+- [Reduce Wipro; target of Rs 410: ICICI Securities](https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html)
+- [Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html)
+- [Buy Patel Engineering; target of Rs 80: ICICI Direct](https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html)
+- [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
 - [ಮುಂಬೈ ಹೈರಾಕ್ಸ್ ಫಿಟ್ನೆಸ್ ರೇಸ್ ಪೂರ್ಣಗೊಳಿಸಿದ ದಕ್ಷಿಣ ಕನ್ನಡ ಜಿಲ್ಲಾಧಿಕಾರಿ ದರ್ಶನ್ ಎಚ್‌.ವಿ](https://www.varthabharati.in/national/mumbai-hyrox-fitness-race-completed-by-south-kannada-district-collector-darshan-hv-2276663)
@@ -90,35 +110,35 @@
 - [ಡಿಎಸ್ಎಸ್‌ ಕುರಿತು ಪ್ರತಾಪ್ ಸಿಂಹ ಹೇಳಿಕೆಗೆ ದಲಿತ ಮುಖಂಡರ ಆಕ್ಷೇಪ; ಕ್ಷಮೆಯಾಚನೆಗೆ ಒತ್ತಾಯ!](https://www.varthabharati.in/koppala/dalit-leaders-object-to-statement-on-dss-pratap-simha-demands-an-apology-2276650)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Delhi (4.2)
-- Iran (3.9)
+- Emkay Global Financial (5.0)
+- ICICI Securities (3.0)
+- target (3.0)
+- Delhi (2.9)
+- Mumbai (2.6)
 - Instagram (2.6)
-- Strait (2.6)
-- Hormuz (2.6)
+- US-Iran (2.6)
+- Iran (2.6)
 - Congress (2.6)
+- Centre (2.6)
 - September (2.6)
 - India (2.6)
 - Bengaluru (2.6)
+- Buy Bajaj Finance (2.0)
 - Tata (1.9)
-- Texas (1.6)
-- Jaishankar (1.3)
-- Dhankhar (1.3)
-- Advani (1.3)
-- German (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [US announces AI dialogue with China, launches Board of Trade](https://www.scmp.com/news/china/diplomacy/article/3368171/us-china-seek-xi-trump-summit-deliverables-new-york-talks)
-- [Rajkot Rain: રાજકોટમાં 10 મિનિટમાં જળબંબાકાર, 3 દિવસ બાદ ધોધમાર વરસાદથી શહેરના તમામ માર્ગો પાણી-પાણી](https://gujarati.abplive.com/news/rajkot/rajkot-heavy-rain-updates-waterlogging-on-roads-weather-news-991657)
-- [জুবিন গার্গের স্মরণে নরসিংপুরে বিশেষ সাংস্কৃতিক অনুষ্ঠান](https://way2barak.com/%E0%A6%9C%E0%A7%81%E0%A6%AC%E0%A6%BF%E0%A6%A8-%E0%A6%97%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%A8%E0%A6%B0%E0%A6%B8/)
-- [Vidya Balan commands as Kantha in Jailer 2, has a face-off with Rajinikanth in first look. Watch](https://www.hindustantimes.com/entertainment/tamil-cinema/vidya-balan-commands-as-kantha-in-jailer-2-has-a-face-off-with-rajinikanth-in-first-look-watch-101789913731225.html)
-- ['नीम करोली बाबा' की बेटी ने 15 बार देखी 'हनुमान अंश', हर बार रोई, प्रोड्यूसर का खुलासा](https://www.aajtak.in/entertainment/bollywood-news/story/neem-karoli-baba-daughter-cried-watched-15-times-hanuman-ansh-box-office-329-crore-cross-producer-ragini-sona-tmovb-dskc-2648390-2026-09-20)
-- [Astrophysics study suggests Venus may have swallowed its moon](https://cyprus-mail.com/2026/09/20/astrophysics-study-suggests-venus-may-have-swallowed-its-moon)
-- [మహిళల టీ20 క్రికెట్‌లో స్మృతి మంధాన వరల్డ్ రికార్డ్!](https://telugu.samayam.com/sports/cricket/news/smriti-mandhana-scripts-history-surpasses-suzie-bates-as-highest-run-scorer-in-womens-t20is/articleshow/134364522.cms)
-- [Hockey India's 'blue' promise goes up in smoke as Indian teams wear saffron at Asian Games](https://timesofindia.indiatimes.com/sports/asian-games-2026/hockey-indias-blue-promise-goes-up-in-smoke-as-indian-hockey-teams-wear-saffron-at-asian-games/articleshow/134370060.cms)
-- ['अगर भारत डैम बनाता तो चीन आसमान सिर पर उठा लेता', तिब्बत में चीनी सुपर-डैम पर ब्रह्मा चेलानी ने किया ट्वीट](https://navbharattimes.indiatimes.com/india/indias-silence-on-chinas-60000-mw-super-dam-chinese-scientists-already-documented-seismic-risks/articleshow/134368988.cms)
-- [വീട് ലില്ലി വാങ്ങി, പക്ഷേ തദ്ദേശ രേഖകളിൽ ഉടമ അഗസ്റ്റിൻ- Anto Augustine House Ownership](https://www.manoramaonline.com/news/latest-news/2026/09/20/sbi-sale-certificate-panchayat-records-differ-ownership-anto-augustine-house.html)
+- [ഒറ്റപ്പെട്ടതോടെ പിണക്കമെല്ലാം മാറി; ഹർമൻപ്രീതിന് കൈ കൊടുത്ത് ബംഗ്ലാദേശ് ക്യാപ്റ്റൻ](https://www.mathrubhumi.com/sports/cricket/nigar-sultana-harmanpreet-kaur-handshake-2026-asian-games-k19bngrg)
+- ['আমি তো চাইবই কিন্তু...', কেন হিন্দি ছবিতে অভিনয় করতে দেখা যায় না আবিরকে?](https://www.hindustantimes.com/bangla/entertainment/abir-chatterjee-explain-why-he-do-not-work-in-hindi-film-industry-271789915975017.html)
+- [SIR Notice | బ్రేకింగ్.. విదేశాంగ శాఖ మంత్రికి ‘సర్’ నోటీసు..!](https://www.ntnews.com/national/foreign-affairs-minister-his-wife-gets-sir-notice-2515598)
+- [साड़ी पहन सिगरेट का धुआं उड़ाते हुए एंट्री, 'जेलर 2' में रजनीकांत के साथ धमाल मचाएंगी विद्या बालन](https://www.aajtak.in/entertainment/south-movies/story/vidya-balan-swag-entry-in-jailer-2-with-rajinikanth-first-look-out-tmovg-dskc-2648393-2026-09-20)
+- [L Balaji India A Head Coach : लक्ष्मीपती बालाजीची भारत अ संघाच्या मुख्य प्रशिक्षकपदी नियुक्ती; ऑस्ट्रेलियाविरुद्धच्या मालिकेपासून सांभाळणार धुरा](https://marathi.abplive.com/sports/cricket/lakshmipathy-balaji-appointed-india-a-head-coach-for-series-against-australia-a-marathi-news-1439714)
+- [New Study Reveals, ETPharma](https://pharma.economictimes.indiatimes.com/news/research-and-development/hiv-injections-keep-virus-suppressed-better-than-daily-pills-study/134370306)
+- [‘சூரி​யின் வெற்​றியை மக்கள் தங்கள் வெற்றியாகப் பார்க்கிறார்கள்!’ - வெற்றிமாறன்](https://www.hindutamil.in/news/cinema/tamil-cinema/director-vetrimaran-share-about-actor-soori-success)
+- [Italy to limit foreign students, ban burqa and hijab in schools](https://timesofindia.indiatimes.com/world/europe/italy-to-limit-foreign-students-ban-burqa-and-hijab-in-schools/articleshow/134370277.cms)
+- [માનવજાત સામે ગંભીર સંકટની ચેતવણી! 66 વર્ષ જૂની ભવિષ્યવાણી ચર્ચામાં, AIની વાત થઈ રહી છે સાચી](https://www.gujaratsamachar.com/news/international/warning-of-a-serious-threat-to-humanity-66-year-old-prophecy-in-discussion-talk-of-ai-is-coming-true-68123193565)
+- [റിസോർട്ട് ജീവനക്കാരന്റെ കൊലപാതകത്തിൽ ഉടമ അറസ്റ്റിൽ; മർദനം മദ്യലഹരിയിൽ](https://www.manoramaonline.com/news/latest-news/2026/09/20/kollam-resort-owner-arrested-for-murdering-employee-in-drunken-rage.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
