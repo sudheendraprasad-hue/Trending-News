@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-21 19:34:41
+# India Trending Report — 2026-09-21 20:02:07
 
 ## Google Trends (India) — top trending searches
 1. [realme 16 pro](https://trends.google.com/trending/rss?geo=IN)
@@ -18,12 +18,12 @@
 - [Flights grounded at major US airports after construction workers cut backup cable](https://timesofindia.indiatimes.com/world/us/flights-grounded-at-major-us-airports-after-construction-workers-cut-backup-cable/articleshow/134396960.cms)
 - [Ishan is the 'chosen one'? Mayawati's latest U-turn deepens ongoing BSP family drama](https://timesofindia.indiatimes.com/india/the-chosen-one-for-a-role-in-bsp-is-ishan-mayawatis-another-u-turn-in-ongoing-family-drama/articleshow/134392964.cms)
 - [Pak in crisis: PTI to hold Sept 27 stir 'at all costs' for release of Imran Khan](https://timesofindia.indiatimes.com/world/pakistan/pakistan-in-crisis-pti-to-hold-sept-27-stir-at-all-costs-imran-khans-sisters-challenge-detention-orders/articleshow/134394418.cms)
-- [Trump: ‘Whoever wins AI, wins!’ Calls AI doomsday warnings a ‘hoax’](https://timesofindia.indiatimes.com/world/us/whoever-wins-ai-wins-trump-calls-ai-doomsday-warnings-bigger-hoax-than-climate-change/articleshow/134395249.cms)
+- [No median cuts, surface intersections on future high-speed NH corridors: NHAI](https://timesofindia.indiatimes.com/india/no-median-cuts-surface-intersections-on-future-high-speed-nh-corridors-nhai/articleshow/134397321.cms)
 - [USCIS warns against websites and businesses ‘guaranteeing’ faster visa](https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-warns-visa-applicants-against-websites-and-businesses-guaranteeing-visa-green-card-or-work-permit-faster/articleshow/134383537.cms)
-- [Trump goes off air: US TV networks suspend coverage after White House bans CNN](https://timesofindia.indiatimes.com/world/us/major-us-tv-networks-blackout-trump-coverage-protest-white-house-ban-on-cnn/articleshow/134393531.cms)
-- [Retired man deposits Rs 1.33cr, files no ITR; taxman sends notice, what ITAT said](https://timesofindia.indiatimes.com/business/india-business/retired-senior-citizen-teacher-deposited-rs-1-33-crore-cash-but-filed-no-itr-taxman-added-rs-48-73-lakh-itat-quashes-reassessment-heres-why/articleshow/134393155.cms)
+- [Trump: ‘Whoever wins AI, wins!’ Calls AI doomsday warnings a ‘hoax’](https://timesofindia.indiatimes.com/world/us/whoever-wins-ai-wins-trump-calls-ai-doomsday-warnings-bigger-hoax-than-climate-change/articleshow/134395249.cms)
+- [Canadian NRI landlord wanted rented Punjab house back; HC allows tenant to stay](https://timesofindia.indiatimes.com/business/india-business/he-moved-to-canada-and-rented-his-punjab-house-for-rs-20000-a-month-then-sought-eviction-to-use-it-during-india-visits-punjab-haryana-hc-rules-against-landlord-allows-tenant-to-stay/articleshow/134380724.cms)
 - [Oilers linked to Dylan Larkin trade in Matthew Savoie-led blockbuster](https://timesofindia.indiatimes.com/sports/nhl/news/oilers-linked-to-blockbuster-dylan-larkin-trade-as-matthew-savoie-led-package-puts-detroit-in-a-difficult-position/articleshow/134379564.cms)
-- [Over $3bn and counting: What's fuelling India's export surge to China?](https://timesofindia.indiatimes.com/business/india-business/ai-electronics-and-engineering-goods-fuel-indias-export-surge-into-china/articleshow/134388925.cms)
+- [Trump goes off air: US TV networks suspend coverage after White House bans CNN](https://timesofindia.indiatimes.com/world/us/major-us-tv-networks-blackout-trump-coverage-protest-white-house-ban-on-cnn/articleshow/134393531.cms)
 
 **NDTV**
 - [2 Workers Killed In Fire At Tyre Oil Factory In UP](https://www.ndtv.com/india-news/2-workers-killed-in-fire-at-tyre-oil-factory-in-up-12078426#publisher=newsstand)
@@ -62,18 +62,19 @@
 - [ಅಯೋಧ್ಯೆ ರಾಮಮಂದಿರ ದೇಣಿಗೆ ಲೂಟಿ ಪ್ರಕರಣ: 105 ಕಳ್ಳತನ ಪ್ರಕರಣ ಪತ್ತೆ! ಸೆ.25ರೊಳಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ಗೆ SIT ಚಾರ್ಜ್‌ಶೀಟ್?](https://vijaykarnataka.com/news/india/ayodhya-ram-temple-donation-theft-caught-on-cctv-105-times-sit-report/articleshow/134393656.cms)
 
 **The Hindu**
+- [BDCC bank waiting for govt. sanction for recruitment, says MLA](https://www.thehindu.com/news/national/karnataka/bdcc-bank-waiting-for-govt-sanction-for-recruitment-says-mla/article71492310.ece)
+- [Belagavi students trained by zilla panchayat get into premier institutions](https://www.thehindu.com/news/national/karnataka/belagavi-students-trained-by-zilla-panchayat-get-into-premier-institutions/article71492176.ece)
+- [Supreme Court orders fresh probe into 2012 rape-murder near Dharmasthala in Karnataka](https://www.thehindu.com/news/national/karnataka/supreme-court-orders-fresh-probe-into-2012-rape-murder-near-dharmasthala-in-karnataka/article71492604.ece)
 - [Ram Temple donations theft case: SIT report finds 105 instances of unauthorised currency removal](https://www.thehindu.com/news/national/ram-temple-donations-theft-case-chargesheet-on-or-before-september-25/article71491193.ece)
 - [New checklist by Keralam research team records 3,261 flowering plant species in Agasthyamalai Biosphere Reserve](https://www.thehindu.com/news/national/kerala/new-checklist-by-keralam-research-team-records-3261-flowering-plant-species-in-agasthyamalai-biosphere-reserve/article71490560.ece)
 - [Karnataka to track cancer patients after fake drug bust](https://www.thehindu.com/news/national/karnataka/karnataka-to-track-cancer-patients-after-fake-drug-bust/article71492327.ece)
 - [ASR Collector reviews ‘Trishul’ strategy against crime in district](https://www.thehindu.com/news/national/andhra-pradesh/asr-collector-reviews-trishul-strategy-against-crime-in-district/article71492521.ece)
-- [Supreme Court orders fresh probe into 2012 rape-murder near Dharmasthala in Karnataka](https://www.thehindu.com/news/national/karnataka/supreme-court-orders-fresh-probe-into-2012-rape-murder-near-dharmasthala-in-karnataka/article71492604.ece)
 - [Assembly witnesses blame game on origin of Kasturirangan report](https://www.thehindu.com/news/national/karnataka/assembly-witnesses-blame-game-on-origin-of-kasturirangan-report/article71492314.ece)
 - [G. Palanithurai appointed Adviser to Minister Anand](https://www.thehindu.com/news/national/tamil-nadu/g-palanithurai-appointed-adviser-to-minister-anand/article71492641.ece)
 - [Getting away from gunshots](https://www.thehindu.com/news/national/himachal-pradesh/getting-away-from-gunshots/article71484095.ece)
-- [It may be time for Thirumavalavan to lead alliance in 2031: VCK general secretary](https://www.thehindu.com/news/national/tamil-nadu/it-may-be-time-for-thirumavalavan-to-lead-alliance-in-2031-vck-general-secretary/article71492504.ece)
-- [Tamil Nadu bypolls: After DMK’s plaint to EC, TVK drops leaders of alliance parties from star campaigner list](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bypolls-dmk-urges-election-commission-to-cancel-tvks-list-of-star-campaigners-from-other-parties/article71490583.ece)
 
 **Livemint**
+- [NYC Airports Face Delays After Air Traffic Control Outage](https://www.livemint.com/news/nyc-airports-face-delays-after-air-traffic-control-outage-11790020581299.html)
 - [Jennifer Eckhart dies at 36: Former Fox Business producer found dead at Florida home- What we know](https://www.livemint.com/news/us-news/jennifer-eckhart-dies-at-36-former-fox-business-producer-found-dead-at-florida-home-what-we-know-11790014231126.html)
 - [El Niño could become strongest on record, California Governor Gavin Newsom declares statewide emergency](https://www.livemint.com/news/us-news/el-ni-o-could-become-strongest-on-record-california-governor-gavin-newsom-declares-statewide-emergency-11790012492023.html)
 - [53-year-old single father loses 30 kg in 18 months: The reason behind his fitness journey will move you](https://www.livemint.com/news/trends/53yearold-single-father-loses-30-kg-in-18-months-the-reason-behind-his-fitness-journey-will-move-you-11790012794330.html)
@@ -83,7 +84,6 @@
 - ['I was completely fine with it': Patrick Clancy on suicidal thoughts, his children and starting a new family](https://www.livemint.com/news/us-news/i-was-completely-fine-with-it-patrick-clancy-on-suicidal-thoughts-his-children-and-starting-a-new-family-11790002337400.html)
 - [Trump blocks CNN, MS NOW and Politico: Why White House press pool matters](https://www.livemint.com/news/us-news/trump-blocks-cnn-ms-now-and-politico-why-white-house-press-pool-matters-11790006906123.html)
 - [US sets Sept 23 shutdown for Iran airlines; Bessent warns non-compliant entities will be ‘knocked out of dollar system’](https://www.livemint.com/news/world/us-sets-sept-23-deadline-for-iran-airlines-bessent-warns-non-compliant-entities-will-be-knocked-out-of-dollar-system-11790003521660.html)
-- [Gujarat Police warns against Garba partner for rent: ‘Forehead kiss for  ₹2,000, basic dance steps for  ₹1,000’](https://www.livemint.com/news/trends/forehead-kiss-for-2-000-basic-dance-steps-for-1-000-gujarat-police-warns-against-garba-partner-for-rent-11790002208477.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -104,8 +104,7 @@
 - Sept (2.6)
 - Karnataka (2.6)
 - Tumakur (2.6)
-- Police (2.2)
-- Gujarat (1.6)
+- Police (1.9)
 - Yemen's (1.3)
 - Houthi (1.3)
 - Riyadh (1.3)
@@ -114,21 +113,22 @@
 - Ishan (1.3)
 - Mayawati's (1.3)
 - U-turn (1.3)
-- Whoever (1.3)
+- NHAI (1.3)
+- USCIS (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [യൂടേണില്‍ യൂടേണ്‍; ലോക കേരള സഭ തുടരില്ലെന്ന നിലപാടില്‍ മാറ്റമില്ലെന്ന് മുഖ്യമന്ത്രി വി ഡി സതീശന്‍](https://www.reporterlive.com/topnews/kerala/2026/09/21/vd-satheesan-loka-kerala-sabha-will-not-continue-kerala-government-decision)
-- [നടി അംബികയ്ക്കെതിരെ ചെക്ക് കേസുമായി സഹോദരി രാധ; 46 കോടി തട്ടി, ചെന്നൈ പൊലീസ് അന്വേഷണം](https://www.manoramanews.com/kerala/latest/2026/09/21/actress-radha-files-cheque-fraud-complaint-against-sister-ambika-chennai.html)
-- [Weather update: આજે 7 રાજ્યોમાં ભારે વરસાદનું એલર્ટ, વાવાઝોડા-વીજળી સાથે ભારે વરસાદની આગાહી](https://gujarati.abplive.com/news/india/weather-update-heavy-rain-alert-imd-thunderstorm-and-lightning-warning-in-many-state-991692)
-- [IIT Bombay: आयआयटी मुंबईचा मोठा निर्णय! अधिष्ठाता सूर्यनारायण दुल्ला निलंबित, विद्यार्थी मृत्यू प्रकरणी नव्याने माफीही मागितली](https://www.lokmat.com/mumbai/iit-bombay-dean-suryanarayana-doolla-suspended-in-sahil-wakode-death-case-a-a571/)
-- [Rashmika Mandanna : నేను కింద కూర్చోలేను - ఫ్యాన్‌కు రష్మిక క్యూట్ సెల్ఫీ... మైసా షూటింగ్ అంటే వణుకేనన్న నేషనల్ క్రష్](https://telugu.abplive.com/entertainment/cinema/rashmika-mandanna-oblige-picture-with-fan-despite-her-pain-watch-video-mysaa-teaser-event-highlights-259509)
-- [Asian Games:మిక్స్‌డ్‌ మార్షల్‌ ఆర్ట్స్‌లో భారత్‌కు తొలి పతకం](https://prajasakti.com/sports/kreedalu/asian-games-india-first-medal-in-mixed-martial-arts)
-- [Asian Games:మిక్స్‌డ్‌ మార్షల్‌ ఆర్ట్స్‌లో భారత్‌కు తొలి పతకం](https://www.prajasakti.com/sports/kreedalu/asian-games-india-first-medal-in-mixed-martial-arts)
-- [ചെക്ക് തട്ടിപ്പ് പരാതി; നടി അംബികയ്ക്കെതിരെ സഹോദരി രാധ](https://www.asianetnews.com/entertainment-news/sister-radha-files-cheque-fraud-complaint-against-actress-ambika-articleshow-o1gndog)
-- [Monsoon Rain Update: दुष्काळात तेरावा महिना! मान्सूनच्या परतीच्या प्रवासाला सुरुवात; देशात 15 टक्के पावसाची तूट, महाराष्ट्रात पुढील 3 दिवस पावसाचा अंदाज](https://marathi.abplive.com/news/maharashtra/monsoon-rain-withdrawal-begins-15-percent-rainfall-deficit-in-india-maharashtra-weather-rain-forecast-update-marathi-news-1439769)
-- [IIT-Bombay apologises for earlier statement on circumstances surrounding student’s death](https://www.thehindu.com/news/national/maharashtra/iit-bombay-apologises-for-earlier-statement-on-circumstances-surrounding-students-death/article71490497.ece)
+- [மண்டாடி வெற்றியை சொந்த ஊரில் கொண்டாடிய சூரி](https://cinema.dinamalar.com/news/kollywood/suri-celebrates-mandadi-victory-in-his-hometown/141017)
+- [US से आई ये खबर... फिर तेजी से बिखरा सोना, चांदी के भाव में भी गिरावट](https://www.aajtak.in/business/utility/photo/us-impact-gold-silver-price-fall-check-24k-yellow-metal-rates-tutd-2648973-2026-09-21)
+- [Asian Games 2026માં ભારતની ગોલ્ડ મેડલ અહી મફતમાં લાઈવ જોઈ શકશો](https://tv9gujarati.com/sports/cricket-news/breaking-news-asian-games-2026-when-and-where-can-you-watch-india-gold-medal-match-live-1519480.html)
+- [Asian Games 2026: ભારતીય ખેલાડીઓનો શાનદાર દેખાવ, ભારતે કુલ 6 મેડલ જીત્યા; મહિલા હોકી અને કબડ્ડીમાં એકતરફી જીત](https://www.gujaratsamachar.com/news/sports/asian-games-2026-indian-players-put-in-a-great-performance-india-won-a-total-of-6-medals-one-sided-wins-in-womens-hockey-and-kabaddi-65967615666)
+- [IIT Bombay : आयआयटी मुंबईतील साहिल वाकोडेच्या मृत्यूनंतर मोठी कारवाई; प्रा. सूर्यनारायण दुल्ला यांचे डीनपद निलंबित; संस्थेकडून आधीच्या विधानांवर दिलगिरी व्यक्त](https://marathi.abplive.com/news/mumbai/iit-bombay-student-death-professor-doolas-deanship-suspended-institute-retracts-statement-claiming-cheating-by-student-1439772)
+- ['Wild Witch Hunt': Delhi High Court Refuses To Entertain Plea Seeking CBI Probe Into Justice Yashwant Varma Cash Row](https://www.livelaw.in/high-court/delhi-high-court/justice-yashwant-varma-cash-row-cbi-probe-rejected-wild-witch-hunt-551020)
+- [செக் மோசடி விவகாரம்: ``அக்காவை நம்பாம யாரை நம்புறது நம்பினேன் ஆனா" - நடிகை ராதா உருக்கம்](https://cinema.vikatan.com/kollywood/a-complaint-has-been-filed-against-actress-radha-ambika-regarding-a-cheque-fraud-case)
+- [Punjab: ਮਾਨਸਾ ਦੀ ਅਦਾਲਤ ‘ਤੇ ਸਕੂਲਾਂ ਨੂੰ ਬੰਬ ਨਾਲ ਉਡਾਉਣ ਦੀ ਮਿਲੀ ਧਮਕੀ](https://wishavwarta.in/punjab-mansa-court-and-schools-receive-bomb-threat/)
+- [वैभव-अभिषेक ने ओपन किया तो... जापान का क्या होगा हाल? बेसबॉल के देश में दिखेगी 'क्रिकेट वाली कुटाई'](https://www.aajtak.in/sports/asian-games/story/vaibhav-sooryavanshi-abhishek-sharma-india-japan-t20-opening-asian-games-2026-bmsp-dskc-2648894-2026-09-21)
+- [Rain Alert: ગુજરાતમાં કેટલા દિવસ વરસશે વરસાદ, આજે ક્યાં જિલ્લામાં એલર્ટ, જાણો લેટેસ્ટ અપડેટ](https://gujarati.abplive.com/news/gujarat/gujarat-rain-latest-weather-update-21-september-991694)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
