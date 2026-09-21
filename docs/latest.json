@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-09-21 01:34:55",
+  "generated_at": "2026-09-21 02:01:51",
   "google_trends": [
+    {
+      "title": "crude oil price",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "fc barcelona match",
       "traffic": null,
@@ -42,11 +47,6 @@
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "real madrid vs",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
       "title": "laliga",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
@@ -59,8 +59,12 @@
         "link": "https://timesofindia.indiatimes.com/city/delhi/lk-advani-dhankar-sisodia-also-issued-sir-notices/articleshow/134372553.cms"
       },
       {
-        "title": "Tata dipute: Lawyers Singhvi, Salve now on opposing sides",
+        "title": "Tata dispute: Lawyers Abhishek Singhvi, Harish Salve now on opposing sides",
         "link": "https://timesofindia.indiatimes.com/business/india-business/tata-dipute-singhvi-salve-now-on-opposing-sides/articleshow/134375598.cms"
+      },
+      {
+        "title": "Iran rules out reopening Strait of Hormuz, returning to US talks until conditions met",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-rules-out-reopening-strait-of-hormuz-returning-to-us-talks-until-conditions-met/articleshow/134377764.cms"
       },
       {
         "title": "Indian-origin climber, Nepalese guide killed in Manaslu avalanche",
@@ -75,12 +79,12 @@
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms"
       },
       {
-        "title": "37 lakh cases pending: Bengal SIR tribunals may take 12 years to decide on appeals",
-        "link": "https://timesofindia.indiatimes.com/india/bengal-sir-tribunals-may-take-12-years-to-decide-on-appeals/articleshow/134376466.cms"
-      },
-      {
         "title": "Iran threatens 'painful retaliation' if US strikes as Trump warns of 'big things'",
         "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-warns-us-allies-against-new-attack-threatens-retaliation/articleshow/134374995.cms"
+      },
+      {
+        "title": "37 lakh cases pending: Bengal SIR tribunals may take 12 years to decide on appeals",
+        "link": "https://timesofindia.indiatimes.com/india/bengal-sir-tribunals-may-take-12-years-to-decide-on-appeals/articleshow/134376466.cms"
       },
       {
         "title": "ICE officer shoots, wounds man in Austin; protesters demand probe",
@@ -89,13 +93,13 @@
       {
         "title": "'Nothing wrong if people happily tip govt officials': K'taka minister sparks row",
         "link": "https://timesofindia.indiatimes.com/city/bengaluru/offer-tips-to-good-officers-says-min-lands-in-soup/articleshow/134374842.cms"
-      },
-      {
-        "title": "Michael Dell\u2019s $10.9m Boston penthouse heads to auction with $6.5m reserve",
-        "link": "https://timesofindia.indiatimes.com/real-estate/in-2016-michael-dell-paid-10-9-million-for-a-boston-penthouse-10-years-later-the-barely-used-4100-sq-ft-home-is-going-to-auction-with-a-6-5-million-reserve/articleshow/134371976.cms"
       }
     ],
     "NDTV": [
+      {
+        "title": "ICE Agent Shoots And Wounds Man In Texas, US, Officials Say",
+        "link": "https://www.ndtv.com/world-news/ice-agent-shoots-and-wounds-man-in-texas-us-officials-say-12074072#publisher=newsstand"
+      },
       {
         "title": "North Korea Launches 2 Ballistic Missiles Toward Sea",
         "link": "https://www.ndtv.com/world-news/north-korea-launches-2-ballistic-missiles-toward-sea-12073587#publisher=newsstand"
@@ -131,16 +135,28 @@
       {
         "title": "Congress vs Congress: Karnataka MLA Threatens To Quit Over Drought Issues",
         "link": "https://www.ndtv.com/india-news/congress-vs-congress-karnataka-mla-threatens-to-quit-over-drought-issues-12073460#publisher=newsstand"
-      },
-      {
-        "title": "Delhi High Court To Get 7 New Judges Tomorrow, Total Strength To Jump To 50",
-        "link": "https://www.ndtv.com/india-news/delhi-high-court-to-get-7-new-judges-tomorrow-total-strength-to-jump-to-50-12073458#publisher=newsstand"
       }
     ],
     "Hindustan Times": [
       {
+        "title": "Angh, rooted in Nagaland's culture, selected for International Feature Film at Oscars 2027",
+        "link": "https://www.hindustantimes.com/india-news/anghba-angh-nagaland-film-theja-rio-oscars-2027-academy-awards-international-feature-film-tiff-101789949295367.html"
+      },
+      {
+        "title": "Delhi government proposes 3-month extension for fire service amendment rules, 2025",
+        "link": "https://www.hindustantimes.com/india-news/delhi-government-proposes-3-month-extension-for-fire-service-amendment-rules-2025-101789950436023.html"
+      },
+      {
+        "title": "Government to test Digi Yatra at major airports for international departures between October and December",
+        "link": "https://www.hindustantimes.com/india-news/government-to-test-digi-yatra-at-major-airports-for-international-departures-between-october-and-december-101789949430843.html"
+      },
+      {
         "title": "As rains intensify in Keralam, CM orders hourly assessment of situation",
         "link": "https://www.hindustantimes.com/india-news/as-rains-intensify-in-keralam-cm-orders-hourly-assessment-of-situation-101789938159367.html"
+      },
+      {
+        "title": "Top Maoist commander with  \u20b930 lakh reward killed in encounter in UP's Varanasi",
+        "link": "https://www.hindustantimes.com/india-news/top-maoist-commander-in-jharkhand-with-30-lakh-reward-brijesh-ganjhu-killed-in-encounter-in-varanasi-uttar-pradesh-101789931729147.html"
       },
       {
         "title": "'Notices do not mean name deletion': EC clarifies after Kejriwal, Jaishankar, Advani get SIR letters",
@@ -161,48 +177,32 @@
       {
         "title": "Two Indian activists were invited to scrapped security dialogue in Pakistan",
         "link": "https://www.hindustantimes.com/india-news/two-indian-activists-were-invited-to-scrapped-security-dialogue-in-pakistan-101789919247009.html"
-      },
-      {
-        "title": "FDA cancels 16, suspends eight drug licences in Karnataka",
-        "link": "https://www.hindustantimes.com/india-news/fda-cancels-16-suspends-eight-drug-licences-in-karnataka-101789917927424.html"
-      },
-      {
-        "title": "Fair skin, curly hair, tall height no basis to determine caste, religion: Madras HC",
-        "link": "https://www.hindustantimes.com/india-news/madras-high-court-hc-fair-skin-curly-hair-tall-height-no-basis-to-determine-caste-religion-community-certificate-101789911200468.html"
-      },
-      {
-        "title": "All about \u2018Yatra of Seva\u2019: 20 teams to cover 35,500 km between Gujarat's Vadnagar to Varanasi",
-        "link": "https://www.hindustantimes.com/india-news/all-about-yatra-of-seva-20-teams-to-cover-35500-km-between-gujarat-vadnagar-to-varanasi-101789915073551.html"
-      },
-      {
-        "title": "Ahmedabad Crime Branch arrests man wanted for 24 years in Rajasthan murder case",
-        "link": "https://www.hindustantimes.com/india-news/ahmedabad-crime-branch-arrests-man-wanted-for-24-years-in-rajasthan-murder-case-101789916066672.html"
       }
     ],
     "Vijay Karnataka": [
       {
-        "title": "\u0cb9\u0cc1\u0ca3\u0cb8\u0c97\u0cbf\u0caf\u0cb2\u0ccd\u0cb2\u0cbf \u0c8f\u0c95\u0c95\u0cbe\u0cb2\u0c95\u0ccd\u0c95\u0cc6 2 \u0cb6\u0cbe\u0cb2\u0cc6\u0caf\u0cb2\u0ccd\u0cb2\u0cbf \u0c95\u0cb0\u0ccd\u0ca4\u0cb5\u0ccd\u0caf\u0ca6 \u0ca8\u0c95\u0cb2\u0cbf \u0ca6\u0cbe\u0c96\u0cb2\u0cc6 \u0cb8\u0cc3\u0cb7\u0ccd\u0c9f\u0cbf\u0cb8\u0cbf \u0ca1\u0cac\u0cb2\u0ccd\u200c \u0caa\u0cc7 \u0caa\u0ca1\u0cc6\u0ca6 \u0c85\u0ca4\u0cbf\u0ca5\u0cbf \u0cb6\u0cbf\u0c95\u0ccd\u0cb7\u0c95!",
-        "link": "https://vijaykarnataka.com/news/yadgir/yadgiri-guest-teacher-caught-in-double-salary-scandal-fraudulent-duty-records-uncovered/articleshow/134377455.cms"
+        "title": "\u0cb5\u0c82\u0ca6\u0cc7\u0cac\u0cbe\u0cb0\u0ca4\u0ccd\u200c \u0cb0\u0cc8\u0cb2\u0ca8\u0ccd\u0ca8\u0cc1 \u0cae\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0cb8\u0cc6\u0c82\u0c9f\u0ccd\u0cb0\u0cb2\u0ccd\u200c\u0ca8\u0cbf\u0c82\u0ca6 \u0cac\u0cc6\u0cb3\u0c97\u0ccd\u0c97\u0cc6 \u0c93\u0ca1\u0cbf\u0cb8\u0cb2\u0cc1 \u0c86\u0c97\u0ccd\u0cb0\u0cb9: \u0cb5\u0cc7\u0cb3\u0cbe\u0caa\u0c9f\u0ccd\u0c9f\u0cbf \u0caa\u0cb0\u0cbf\u0cb7\u0ccd\u0c95\u0cb0\u0ca3\u0cc6\u0c97\u0cc6 \u0cb8\u0cb2\u0cb9\u0cc6",
+        "link": "https://vijaykarnataka.com/news/mangaluru/mangalore-bangalore-route-vande-bharat-train-operation-expectation-in-morning-here-is-the-suggested-timetable/articleshow/134377554.cms"
       },
       {
-        "title": "\u0ca4\u0cc1\u0cb3\u0cc1\u0cb5\u0cbf\u0c97\u0cc6 \u0c85\u0ca7\u0cbf\u0c95\u0cc3\u0ca4 \u0cae\u0cbe\u0ca8\u0ccd\u0caf\u0ca4\u0cc6: \u0c87\u0ca8\u0ccd\u0cae\u0cc7\u0cb2\u0cc6 \u0c87\u0cb2\u0cbe\u0c96\u0cbe \u0c95\u0ca1\u0ca4\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0ca4\u0cc1\u0cb3\u0cc1 \u0cad\u0cbe\u0cb7\u0cc6 \u0c95\u0ca1\u0ccd\u0ca1\u0cbe\u0caf, \u0c85\u0ca7\u0cbf\u0c95\u0cbe\u0cb0\u0cbf\u0c97\u0cb3\u0cbf\u0c97\u0cc2 \u0cad\u0cbe\u0cb7\u0cbe \u0c9c\u0ccd\u0c9e\u0cbe\u0ca8 \u0c85\u0c97\u0ca4\u0ccd\u0caf!",
-        "link": "https://vijaykarnataka.com/news/mangaluru/official-recognition-for-tulu-language-mandatory-use-of-tulu-in-administration/articleshow/134377369.cms"
+        "title": "\u0cae\u0cc8\u0cb8\u0cc2\u0cb0\u0cc1 \u0ca6\u0cb8\u0cb0\u0cc6 \u0cb8\u0cbe\u0c82\u0cb8\u0ccd\u0c95\u0cc3\u0ca4\u0cbf\u0c95 \u0c95\u0cbe\u0cb0\u0ccd\u0caf\u0c95\u0ccd\u0cb0\u0cae\u0c95\u0ccd\u0c95\u0cc6 \u0c95\u0cb2\u0cbe\u0cb5\u0cbf\u0ca6\u0cb0\u0cbf\u0c82\u0ca6 \u0ca6\u0cbe\u0c96\u0cb2\u0cc6\u0caf 3,893 \u0c85\u0cb0\u0ccd\u0c9c\u0cbf: \u0cb9\u0cca\u0cb0\u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0ca6 \u0c95\u0cb2\u0cbe\u0cb5\u0cbf\u0ca6\u0cb0\u0cbf\u0c82\u0ca6\u0cb2\u0cc2 \u0c86\u0cb8\u0c95\u0ccd\u0ca4\u0cbf!",
+        "link": "https://vijaykarnataka.com/news/mysuru/dasara-2026-record-3893-cultural-applications-submitted-for-mysuru-dasara-cultural-event/articleshow/134377596.cms"
       },
       {
-        "title": "\u0caf\u0cc1\u0cb5 \u0cae\u0cc6\u0cb0\u0cbf\u0ca1\u0cbf\u0caf\u0ca8\u0ccd\u200c \u0cb9\u0ccb\u0c9f\u0cc6\u0cb2\u0ccd \u0c88\u0c97 \u0cab\u0cbf\u0cb2\u0ccd\u0cae\u0ccd\u200c \u0cb8\u0cbf\u0c9f\u0cbf; \u02bc\u0c95\u0cbe\u0c82\u0ca4\u0cbe\u0cb0 \u0c95\u0ca5\u0cc6 \u0cb9\u0cc1\u0c9f\u0ccd\u0c9f\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1 \u0c87\u0cb2\u0ccd\u0cb2\u0cc7\u02bc.. \u0cb6\u0cc2\u0c9f\u0cbf\u0c82\u0c97\u0ccd \u0cb8\u0cc6\u0c9f\u0ccd \u0cb8\u0cc0\u0c95\u0ccd\u0cb0\u0cc6\u0c9f\u0ccd \u0cac\u0cbf\u0c9a\u0ccd\u0c9a\u0cbf\u0c9f\u0ccd\u0c9f \u0ca8\u0c9f \u0cb0\u0cbf\u0cb7\u0cac\u0ccd\u200c \u0cb6\u0cc6\u0c9f\u0ccd\u0c9f\u0cbf!",
-        "link": "https://vijaykarnataka.com/news/udupi/uva-meridian-hotel-now-film-city-rishabh-shetty-reveals-kantara-movie-story-shooting-set-secretes-in-meridian-bay/articleshow/134377186.cms"
+        "title": "\u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0cb9\u0cbf\u0c82\u0c97\u0cbe\u0cb0\u0cc1 \u0cb9\u0c82\u0c97\u0cbe\u0cae\u0cbf\u0c97\u0cc2 \u0cac\u0cb0\u0cb2\u0cbf\u0ca6\u0cc6 \u0cac\u0cb0! \u0cb8\u0cc2\u0caa\u0cb0\u0ccd\u200c \u0c8e\u0cb2\u0ccd\u200c\u0ca8\u0cbf\u0ca8\u0cca \u0caa\u0ccd\u0cb0\u0cad\u0cbe\u0cb5\u0ca6\u0cbf\u0c82\u0ca6 \u0c95\u0cc3\u0cb7\u0cbf \u0c95\u0cc1\u0c82\u0ca0\u0cbf\u0ca4",
+        "link": "https://vijaykarnataka.com/news/karnataka/drought-to-hit-karnatakas-post-monsoon-cropping-season-too-agriculture-stunted-by-super-el-nio-impact/articleshow/134377474.cms"
       },
       {
         "title": "\u0caa\u0c9f\u0ccb\u0cb2\u0cbe \u0c95\u0cc1\u0cb0\u0ccd\u0ca4\u0cbe\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0cae\u0cbf\u0c82\u0c9a\u0cbf\u0ca6 \u0ca6\u0cc0\u0caa\u0cbf\u0c95\u0cbe \u0caa\u0ca1\u0cc1\u0c95\u0ccb\u0ca3\u0cc6; \u0cb8\u0cbf\u0ca6\u0ccd\u0ca7\u0cbf\u0cb5\u0cbf\u0ca8\u0cbe\u0caf\u0c95 \u0ca6\u0cb0\u0ccd\u0cb6\u0ca8\u0c95\u0ccd\u0c95\u0cc6 \u0cac\u0c82\u0ca6 \u0ca8\u0c9f\u0cbf\u0caf \u0cb2\u0cc1\u0c95\u0ccd \u0cb5\u0cc8\u0cb0\u0cb2\u0ccd!",
         "link": "https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-siddhivinayak-temple-patola-kurta-look/articleshow/134352111.cms"
       },
       {
-        "title": "\u0c95\u0cbe\u0cb0\u0ccd\u0caa\u0cca\u0cb0\u0cc7\u0c9f\u0ccd \u0c95\u0cc6\u0cb2\u0cb8 \u0cac\u0cbf\u0c9f\u0ccd\u0c9f\u0cc1 \u0cae\u0ca3\u0ccd\u0ca3\u0cbf\u0c97\u0cbf\u0cb3\u0cbf\u0ca6 \u0caf\u0cc1\u0cb5\u0ca4\u0cbf; \u0c95\u0ccd\u0caf\u0cbe\u0caa\u0ccd\u0cb8\u0cbf\u0c95\u0c82 \u0cac\u0cc6\u0cb3\u0cc6\u0ca6\u0cc1 \u0cb5\u0cb0\u0ccd\u0cb7\u0c95\u0ccd\u0c95\u0cc6 4 \u0c95\u0ccb\u0c9f\u0cbf \u0cb0\u0cc2. \u0c97\u0cb3\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0cbf\u0cb0\u0cc1\u0cb5 \u0caa\u0ccd\u0cb0\u0ca3\u0cc0\u0ca4\u0cbe \u0cb5\u0cae\u0ca8\u0ccd \u0caf\u0cb6\u0ccb\u0c97\u0cbe\u0ca5\u0cc6!",
-        "link": "https://vijaykarnataka.com/business/news/young-woman-quits-corporate-job-to-turn-to-farming-the-success-story-of-pranitha-vaman-earns-4-crore-rs-growing-capsicum/articleshow/134368545.cms"
+        "title": "\u0cb9\u0cc1\u0ca3\u0cb8\u0c97\u0cbf\u0caf\u0cb2\u0ccd\u0cb2\u0cbf \u0c8f\u0c95\u0c95\u0cbe\u0cb2\u0c95\u0ccd\u0c95\u0cc6 2 \u0cb6\u0cbe\u0cb2\u0cc6\u0caf\u0cb2\u0ccd\u0cb2\u0cbf \u0c95\u0cb0\u0ccd\u0ca4\u0cb5\u0ccd\u0caf\u0ca6 \u0ca8\u0c95\u0cb2\u0cbf \u0ca6\u0cbe\u0c96\u0cb2\u0cc6 \u0cb8\u0cc3\u0cb7\u0ccd\u0c9f\u0cbf\u0cb8\u0cbf \u0ca1\u0cac\u0cb2\u0ccd\u200c \u0caa\u0cc7 \u0caa\u0ca1\u0cc6\u0ca6 \u0c85\u0ca4\u0cbf\u0ca5\u0cbf \u0cb6\u0cbf\u0c95\u0ccd\u0cb7\u0c95!",
+        "link": "https://vijaykarnataka.com/news/yadgir/yadgiri-guest-teacher-caught-in-double-salary-scandal-fraudulent-duty-records-uncovered/articleshow/134377455.cms"
       },
       {
-        "title": "\u02bb\u0cac\u0cbf\u0c97\u0ccd\u200c \u0cac\u0cbe\u0cb8\u0ccd\u200c 18 \u0caa\u0ccd\u0cb2\u0cb8\u0ccd\u200c \u0c85\u0cb2\u0ccd\u0cb2..\u02bc: \u200c\u0cb8\u0ccc\u0c82\u0ca6\u0cb0\u0ccd\u0caf \u0ca4\u0cc7\u0c9c\u0ccb\u0cb5\u0ca7\u0cc6 \u0cae\u0cbe\u0ca1\u0cbf\u0ca6 \u0cae\u0c82\u0c9c\u0ca8\u0cbf\u0c97\u0cc6 \u0c95\u0cbf\u0c9a\u0ccd\u0c9a \u0cb8\u0cc1\u0ca6\u0cc0\u0caa\u0ccd \u0cb5\u0cbe\u0cb0\u0ccd\u0ca8\u0cbf\u0c82\u0c97\u0ccd",
-        "link": "https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-kiccha-sudeep-takes-class-on-manja-over-soundarya-shetty/articleshow/134374916.cms"
+        "title": "\u0c88 \u0cb5\u0cbe\u0cb0 \u0c92\u0c9f\u0cbf\u0c9f\u0cbf\u0c97\u0cc6 \u0cb2\u0c97\u0ccd\u0c97\u0cc6 \u0c87\u0c9f\u0ccd\u0c9f \u0cb8\u0cc2\u0caa\u0cb0\u0ccd\u200c \u0cb9\u0cbf\u0c9f\u0ccd\u200c \u0cb8\u0cbf\u0ca8\u0cbf\u0cae\u0cbe\u0c97\u0cb3 \u0cb2\u0cbf\u0cb8\u0ccd\u0c9f\u0ccd\u200c \u0c87\u0cb2\u0ccd\u0cb2\u0cbf\u0ca6\u0cc6 \u0ca8\u0ccb\u0ca1\u0cbf..",
+        "link": "https://vijaykarnataka.com/tv/news/latest-ott-releases-se-ptember-this-week-movies-list/articleshow/134377838.cms"
       },
       {
         "title": "\u0cb9\u0cac\u0ccd\u0cac\u0ca6 \u0c9c\u0ccb\u0cb0\u0cc1 \u0cb8\u0ccc\u0c82\u0ca1\u0ccd\u200c\u0c97\u0cc6 \u0cb9\u0cc1\u0cb7\u0cbe\u0cb0\u0ccd\u200c! \u0c9c\u0ccb\u0cb0\u0cbe\u0ca6 \u0cb6\u0cac\u0ccd\u0ca6 \u0cb9\u0cc3\u0ca6\u0caf \u0cac\u0ca1\u0cbf\u0ca4, \u0cac\u0cbf\u0caa\u0cbf \u0cae\u0cc7\u0cb2\u0cc6 \u0cb9\u0cc7\u0c97\u0cc6 \u0caa\u0cb0\u0cbf\u0ca3\u0cbe\u0cae \u0cac\u0cc0\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0cc6?",
@@ -217,8 +217,8 @@
         "link": "https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/katrina-kaif-postpartum-body-changes-women-after-pregnancy/articleshow/134348311.cms"
       },
       {
-        "title": "\u0c97\u0ca6\u0c97 \u0ca4\u0cbe\u0cb2\u0cc2\u0c95\u0cc1 \u0cac\u0cb0\u0caa\u0cc0\u0ca1\u0cbf\u0ca4 \u0c8e\u0c82\u0ca6\u0cc1 \u0c98\u0ccb\u0cb7\u0cbf\u0cb8\u0ca6\u0cbf\u0ca6\u0ccd\u0ca6\u0cb0\u0cc6 \u0cb6\u0cbe\u0cb8\u0c95 \u0cb8\u0ccd\u0ca5\u0cbe\u0ca8\u0c95\u0ccd\u0c95\u0cc6 \u0cb0\u0cbe\u0c9c\u0cc0\u0ca8\u0cbe\u0cae\u0cc6: \u0cb9\u0cbf\u0cb0\u0cbf\u0caf \u0c95\u0cbe\u0c82\u0c97\u0ccd\u0cb0\u0cc6\u0cb8\u0cbf\u0c97 \u0c8e\u0c9a\u0ccd \u0c95\u0cc6 \u0caa\u0cbe\u0c9f\u0cc0\u0cb2\u0ccd \u0c8e\u0c9a\u0ccd\u0c9a\u0cb0\u0cbf\u0c95\u0cc6",
-        "link": "https://vijaykarnataka.com/news/gadaga/h-k-patil-warns-resign-as-mla-if-gadag-taluk-is-not-declare-drought-hit/articleshow/134367365.cms"
+        "title": "\u0ca4\u0cc1\u0cb3\u0cc1\u0cb5\u0cbf\u0c97\u0cc6 \u0c85\u0ca7\u0cbf\u0c95\u0cc3\u0ca4 \u0cae\u0cbe\u0ca8\u0ccd\u0caf\u0ca4\u0cc6: \u0c87\u0ca8\u0ccd\u0cae\u0cc7\u0cb2\u0cc6 \u0c87\u0cb2\u0cbe\u0c96\u0cbe \u0c95\u0ca1\u0ca4\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0ca4\u0cc1\u0cb3\u0cc1 \u0cad\u0cbe\u0cb7\u0cc6 \u0c95\u0ca1\u0ccd\u0ca1\u0cbe\u0caf, \u0c85\u0ca7\u0cbf\u0c95\u0cbe\u0cb0\u0cbf\u0c97\u0cb3\u0cbf\u0c97\u0cc2 \u0cad\u0cbe\u0cb7\u0cbe \u0c9c\u0ccd\u0c9e\u0cbe\u0ca8 \u0c85\u0c97\u0ca4\u0ccd\u0caf!",
+        "link": "https://vijaykarnataka.com/news/mangaluru/official-recognition-for-tulu-language-mandatory-use-of-tulu-in-administration/articleshow/134377369.cms"
       }
     ],
     "The Hindu": [
@@ -265,6 +265,14 @@
     ],
     "Livemint": [
       {
+        "title": "\u2018I might not have a job tomorrow\u2019: Man's post on colleague's sudden layoff sparks job security debate",
+        "link": "https://www.livemint.com/news/trends/i-might-not-have-a-job-tomorrow-mans-post-on-colleagues-sudden-layoff-sparks-job-security-debate-11789954889071.html"
+      },
+      {
+        "title": "Petrol, diesel prices today, September 21: Check rates in Delhi, Mumbai, Bengaluru",
+        "link": "https://www.livemint.com/news/india/petrol-diesel-prices-today-september-21-check-rates-in-delhi-mumbai-bengaluru-11789953749691.html"
+      },
+      {
         "title": "US-Iran war LIVE Updates: US issues Iran travel warning, Tehran warns of 'continuous, painful' attacks on US bases if...",
         "link": "https://www.livemint.com/news/us-news/usiran-war-live-update-donald-trump-strait-of-hormuz-tehran-travel-warning-painful-attacks-us-bases-saudi-yemen-houthis-11789953418288.html"
       },
@@ -295,14 +303,6 @@
       {
         "title": "Giorgia Meloni plans burqa, niqab ban in Italian schools and cap on foreign students in classrooms",
         "link": "https://www.livemint.com/news/world/giorgia-meloni-plans-burqa-niqab-ban-in-italian-schools-and-cap-on-foreign-students-in-classrooms-11789925960986.html"
-      },
-      {
-        "title": "Etihad Delhi-Abu Dhabi flight cancellation: What rules say about compensation when technical issues disrupt travel",
-        "link": "https://www.livemint.com/news/india/etihad-delhi-abu-dhabi-flight-cancellation-what-rules-say-about-compensation-when-technical-issues-disrupt-travel-11789927190997.html"
-      },
-      {
-        "title": "Karnataka FDA cracks down on fake drug racket: 24 licences hit,  \u20b95 cr stock seized \u2014 what did it find during raid?",
-        "link": "https://www.livemint.com/news/india/karnataka-fda-cracks-down-on-fake-drug-racket-24-licences-hit-rs-5-cr-stock-seized-what-did-it-find-during-raid-11789924262491.html"
       }
     ],
     "Moneycontrol": [
@@ -396,6 +396,10 @@
       "score": 5
     },
     {
+      "term": "Iran",
+      "score": 3.9
+    },
+    {
       "term": "ICICI Securities",
       "score": 3
     },
@@ -404,15 +408,15 @@
       "score": 3.0
     },
     {
+      "term": "Delhi",
+      "score": 2.9
+    },
+    {
       "term": "Jaishankar",
       "score": 2.6
     },
     {
       "term": "Advani",
-      "score": 2.6
-    },
-    {
-      "term": "Iran",
       "score": 2.6
     },
     {
@@ -424,11 +428,15 @@
       "score": 2.6
     },
     {
+      "term": "September",
+      "score": 2.6
+    },
+    {
       "term": "India",
       "score": 2.6
     },
     {
-      "term": "What",
+      "term": "Bengaluru",
       "score": 2.6
     },
     {
@@ -442,57 +450,49 @@
     {
       "term": "Bengal",
       "score": 1.9
-    },
-    {
-      "term": "Karnataka",
-      "score": 1.9
-    },
-    {
-      "term": "Salve",
-      "score": 1.6
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "1,000\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9f\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc0\u0b9a\u0bbf \u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0bae\u0bc0\u0ba4\u0bc1 \u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
-      "link": "https://www.dinamalar.com/news/india-tamil-news/ukraine-launches-massive-attack-on-russia-with-more-than-1000-drones/4327920"
+      "title": "\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u092e\u0947\u0902 \u0915\u094d\u092f\u093e \u0939\u0948 \u0938\u092c\u094d\u091c\u093f\u092f\u094b\u0902 \u0915\u093e \u092d\u093e\u0935? \u092c\u0939\u093e\u0935\u0932\u092a\u0941\u0930 \u092e\u0902\u0921\u0940 \u0938\u0947 \u0906\u092f\u093e \u0935\u0940\u0921\u093f\u092f\u094b \u0935\u093e\u092f\u0930\u0932",
+      "link": "https://www.aajtak.in/trending/story/pakistan-bahawalpur-vegetable-market-rates-video-viral-tstf-dskc-2648377-2026-09-20"
     },
     {
-      "title": "Asian Games 2026 Day 1 Medal Tally: Where India rank after two shooting silvers in Aichi-Nagoya",
-      "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-day-1-medal-tally-where-india-rank-after-two-shooting-silvers-in-aichi-nagoya/articleshow/134369371.cms"
+      "title": "\u2018\u0bae\u0bc0\u0ba9\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bae\u0bcd\u0bae\u0ba9\u0bcd \u0b95\u0bcb\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0b9f\u0bae\u0bc1\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0b85\u0bb1\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0b8f\u0bb1\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\u2019 - \u0b9a\u0bc1.\u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0b9f\u0bc7\u0b9a\u0ba9\u0bcd",
+      "link": "https://www.hindutamil.in/news/tamilnadu/hrce-take-responsibility-for-shortcomings-meenakshi-amman-temple-consecration-says-su-venkatesan"
     },
     {
-      "title": "\u0a88\u0ab0\u0abe\u0aa8 \u0aaf\u0ac1\u0aa6\u0acd\u0aa7 \u0aad\u0abe\u0ab0\u0ac7 \u0aaa\u0aa1\u0acd\u0aaf\u0ac1\u0a82 : \u0a9f\u0acd\u0ab0\u0aae\u0acd\u0aaa\u0aa8\u0ac0 \u0aae\u0aa8\u0aae\u0abe\u0aa8\u0ac0\u0aa5\u0ac0 \u0a85\u0aae\u0ac7\u0ab0\u0abf\u0a95\u0abe\u0aa8\u0ac0 \u0aae\u0ac1\u0ab6\u0acd\u0a95\u0ac7\u0ab2\u0ac0 \u0ab5\u0aa7\u0ac0, \u0aa1\u0ac0\u0a9d\u0ab2\u0aa8\u0abe \u0aad\u0abe\u0ab5 \u0aaa\u0ab9\u0acb\u0a82\u0a9a\u0acd\u0aaf\u0abe \u0a86\u0ab8\u0abe\u0aae\u0abe\u0aa8\u0ac7",
-      "link": "https://www.gujaratsamachar.com/news/international/iran-war-escalates-trumps-arbitrariness-increases-americas-problems-diesel-prices-reach-record-highs-62132362567"
+      "title": "\u0aa6\u0abf\u0ab2\u0acd\u0ab9\u0ac0 \u0aae\u0aa4\u0aa6\u0abe\u0ab0 \u0aaf\u0abe\u0aa6\u0ac0: \u0ab2\u0abe\u0ab2\u0a95\u0ac3\u0ab7\u0acd\u0aa3 \u0a85\u0aa1\u0ab5\u0abe\u0aa3\u0ac0 \u0a85\u0aa8\u0ac7 \u0ab8\u0abf\u0ab8\u0acb\u0aa6\u0abf\u0aaf\u0abe \u0ab8\u0ab9\u0abf\u0aa4 33 \u0ab2\u0abe\u0a96 \u0aae\u0aa4\u0aa6\u0abe\u0ab0\u0acb\u0aa8\u0ac7 \u0a9a\u0ac2\u0a82\u0a9f\u0aa3\u0ac0 \u0aaa\u0a82\u0a9a\u0aa8\u0ac0 \u0aa8\u0acb\u0a9f\u0abf\u0ab8",
+      "link": "https://gujarati.abplive.com/news/india/delhi-sir-voter-list-notice-lk-advani-manish-sisodia-election-commission-991654"
     },
     {
-      "title": "1 \u0a93\u0a95\u0acd\u0a9f\u0acb\u0aac\u0ab0\u0aa5\u0ac0 \u0ab2\u0abe\u0a97\u0ac1 \u0aa5\u0ab6\u0ac7 LPG \u0a97\u0ac7\u0ab8\u0aa8\u0acb \u0aa8\u0ab5\u0acb \u0aa8\u0abf\u0aaf\u0aae, \u0ab8\u0aac\u0ab8\u0abf\u0aa1\u0ac0 \u0a9c\u0acb\u0a88\u0aa4\u0ac0 \u0ab9\u0acb\u0aaf \u0aa4\u0acb \u0a98\u0ab0\u0ac7 \u0aac\u0ac7\u0aa0\u0abe \u0aa4\u0ab0\u0aa4 \u0a95\u0ab0\u0acb \u0a86 \u0a95\u0abe\u0aae",
-      "link": "https://www.gujaratsamachar.com/news/national/new-lpg-gas-rules-will-be-implemented-from-october-1-if-you-want-subsidy-do-this-immediately-while-sitting-at-home-54972711675"
+      "title": "25 \u0d15\u0d4b\u0d1f\u0d3f\u0d2f\u0d41\u0d1f\u0d46 \u0d28\u0d3f\u0d31\u0d35\u0d3f\u0d7d \u0d2a\u0d3e\u0d7c\u0d35\u0d24\u0d3f \u0d24\u0d3f\u0d30\u0d41\u0d35\u0d4b\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d\u0d31\u0d46 '\u0d2a\u0d4d\u0d30\u0d25\u0d2e \u0d26\u0d43\u0d37\u0d4d\u0d1f\u0d4d\u0d2f\u0d3e \u0d15\u0d41\u0d31\u0d4d\u0d31\u0d15\u0d4d\u0d15\u0d3e\u0d7c'",
+      "link": "https://www.asianetnews.com/entertainment/box-office/parvathy-thiruvothu-movie-pradhama-drishtya-kuttakkar-collet-25-crore-articleshow-k41635n"
     },
     {
-      "title": "Khairatabad By-Election : \u0c26\u0c3e\u0c28\u0c02 \u0c28\u0c3e\u0c17\u0c47\u0c02\u0c26\u0c30\u0c4d\u200c\u0c15\u0c41 \u0c09\u0c2a\u0c0e\u0c28\u0c4d\u0c28\u0c3f\u0c15\u0c32\u0c41 \u0c15\u0c32\u0c3f\u0c38\u0c3f\u0c30\u0c3e\u0c35\u0c41 - \u0c0e\u0c02\u0c2a\u0c40 \u0c30\u0c18\u0c41\u0c28\u0c02\u0c26\u0c28\u0c4d\u200c\u0c30\u0c3e\u0c35\u0c41",
-      "link": "https://vaartha.com/telangana/by-elections-do-not-favor-danam-nagender-mp-raghunandan-rao/779782/"
+      "title": "\u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09a8\u09c7\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7\u0987 \u09ae\u09b8\u09cd\u0995\u09cb\u09df \u09ad\u09df\u09be\u09ac\u09b9 \u09a1\u09cd\u09b0\u09cb\u09a8 \u09b9\u09be\u09ae\u09b2\u09be,\u09ac\u09bf\u09aa\u09c1\u09b2 \u0995\u09cd\u09b7\u09df\u0995\u09cd\u09b7\u09a4\u09bf",
+      "link": "https://biswabanglasangbad.com/international/massive-drone-attack-on-moscow-during-elections-extensive-damage"
     },
     {
-      "title": "\u0c38\u0c32\u0c4d\u0c2e\u0c3e\u0c28\u0c4d \u0c16\u0c3e\u0c28\u0c4d: \u2018\u0c08\u0c38\u0c3e\u0c30\u0c3f \u0c1a\u0c3f\u0c30\u0c3f\u0c17\u0c3f\u0c2a\u0c4b\u0c2f\u0c3f\u0c28 \u0c37\u0c42 \u0c35\u0c47\u0c38\u0c41\u0c15\u0c41 \u0c35\u0c38\u0c4d\u0c24\u0c3e.. \u0c0e\u0c02\u0c24 \u0c1f\u0c4d\u0c30\u0c4b\u0c32\u0c4d \u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c3e\u0c30\u0c4b \u0c1a\u0c47\u0c38\u0c41\u0c15\u0c4b\u0c02\u0c21\u0c3f\u2019",
-      "link": "https://www.bbc.com/telugu/articles/c9770m778ggyo"
+      "title": "TMC office, ex-MLA's home, CPM memorial attacked in Bengal; BJP denies role",
+      "link": "https://m.rediff.com/news/report/tmc-office-ex-mlas-home-cpm-memorial-attacked-in-bengal-bjp-denies-role/20260920.htm"
     },
     {
-      "title": "ZIM vs AUS: 41 \u0915\u0940 \u0909\u092e\u094d\u0930 \u092e\u0947\u0902 \u0915\u094d\u0930\u0947\u0917 \u0907\u0930\u0935\u093f\u0928 \u0928\u0947 \u092c\u0932\u094d\u0932\u0947 \u0938\u0947 \u0930\u091a\u093e \u0907\u0924\u093f\u0939\u093e\u0938, \u092c\u0928\u093e \u0921\u093e\u0932\u093e \u0917\u091c\u092c \u0915\u093e \u0930\u093f\u0915\u0949\u0930\u094d\u0921, \u0911\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u093f\u092f\u093e\u0908 \u0917\u0947\u0902\u0926\u092c\u093e\u091c \u092d\u0940 \u0928\u0939\u0940\u0902 \u0930\u094b\u0915 \u0938\u0915\u0947",
-      "link": "https://www.aajtak.in/sports/cricket/story/zim-vs-aus-3rd-odi-craig-ervine-scripts-history-becomes-oldest-player-in-history-to-achieve-this-aksp-dskc-2648354-2026-09-20"
+      "title": "\u0c30\u0c40\u0c1c\u0c28\u0c2c\u0c41\u0c32\u0c4d\u200c\u0c17\u0c3e\u0c28\u0c47.. \u2018\u0c26 \u0c2a\u0c4d\u0c2f\u0c3e\u0c30\u0c21\u0c48\u0c1c\u0c4d\u2019 \u0c1a\u0c3f\u0c24\u0c4d\u0c30\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23 \u0c2a\u0c4d\u0c30\u0c2d\u0c41\u0c24\u0c4d\u0c35\u0c02 \u0c17\u0c41\u0c21\u0c4d \u0c28\u0c4d\u0c2f\u0c42\u0c38\u0c4d",
+      "link": "https://www.chitrajyothy.com/2026/tollywood/the-paradise-ticket-price-hike-special-shows-telangana-government-rcb-75556.html"
     },
     {
-      "title": "Senior Citizen FD: \u20b91 \u0932\u093e\u0916 \u092a\u0930 \u20b97,450 \u0924\u0915 \u092c\u094d\u092f\u093e\u091c, BoI \u0938\u0947 \u0932\u0947\u0915\u0930 SBI \u0924\u0915, \u091c\u093e\u0928\u0947\u0902 \u0915\u093f\u0938 \u092c\u0948\u0902\u0915 \u092e\u0947\u0902 \u0915\u093f\u0924\u0928\u093e \u0930\u093f\u091f\u0930\u094d\u0928?",
-      "link": "https://www.livehindustan.com/business/senior-citizen-fd-rates-bank-of-india-sbi-public-sector-and-other-banks-check-full-list-201789906724542.html"
+      "title": "\u0aaf\u0ac1\u0aa6\u0acd\u0aa7 \u0a96\u0aa4\u0aae \u0aa5\u0ab5\u0abe\u0aa8\u0abe \u0a8f\u0a82\u0aa7\u0abe\u0aa3! \u0a88\u0ab0\u0abe\u0aa8 3 \u0aae\u0acb\u0a9f\u0ac0 \u0ab6\u0ab0\u0aa4\u0acb \u0ab8\u0abe\u0aa5\u0ac7 \u0a85\u0aae\u0ac7\u0ab0\u0abf\u0a95\u0abe \u0ab8\u0abe\u0aa5\u0ac7 \u0ab5\u0abe\u0aa4\u0a9a\u0ac0\u0aa4 \u0a95\u0ab0\u0ab5\u0abe \u0aa4\u0ac8\u0aaf\u0abe\u0ab0, \u0a9a\u0ac7\u0aa4\u0ab5\u0aa3\u0ac0 \u0aaa\u0aa3 \u0a86\u0aaa\u0ac0",
+      "link": "https://www.gujaratsamachar.com/news/international/iran-agrees-to-negotiate-with-the-us-on-certain-conditions-says-it-will-not-spare-them-if-attacked-96884655634"
     },
     {
-      "title": "\u09ac\u09bf\u09ae\u09be\u09a8\u09c7 Airplane Mode \u0995\u09c7\u09a8? \u099c\u09be\u09a8\u09c1\u09a8 \u09ab\u09cb\u09a8 \u09ac\u09a8\u09cd\u09a7 \u09a8\u09be \u0995\u09b0\u09c7\u0993 \u098f\u09b0 \u0986\u09b8\u09b2 \u0995\u09be\u09b0\u09a3",
-      "link": "https://eisamay.com/photo-gallery/why-airplane-mode-required-on-flights-safety-reason/200545110.cms"
+      "title": "Death strikes | \u0c15\u0c3e\u0c30\u0c41 \u0c30\u0c42\u0c2a\u0c02\u0c32\u0c4b \u0c15\u0c2c\u0c33\u0c3f\u0c02\u0c1a\u0c3f\u0c28 \u0c2e\u0c43\u0c24\u0c4d\u0c2f\u0c41\u0c35\u0c41.. \u0c0a\u0c2a\u0c3f\u0c30\u0c3e\u0c21\u0c15 \u0c28\u0c3e\u0c32\u0c41\u0c17\u0c47\u0c33\u0c4d\u0c32 \u0c1a\u0c3f\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c3f \u0c26\u0c41\u0c30\u0c4d\u0c2e\u0c30\u0c23\u0c02",
+      "link": "https://www.ntnews.com/khammam/death-strikes-in-the-form-of-a-car-four-year-old-girl-dies-of-suffocation-2515557"
     },
     {
-      "title": "From muscle to menopause: Why creatine is finding a new audience in women",
-      "link": "https://www.cnbctv18.com/lifestyle/healthcare/from-muscle-to-menopause-why-creatine-is-finding-a-new-audience-in-women-19994339.htm"
+      "title": "Asian Games Breaking: \u0ab6\u0ac7\u0aab\u0abe\u0ab2\u0ac0 \u0ab5\u0ab0\u0acd\u0aae\u0abe\u0aa8\u0ac1\u0a82 49 \u0aac\u0acb\u0ab2\u0aae\u0abe\u0a82 \u0a90\u0aa4\u0abf\u0ab9\u0abe\u0ab8\u0abf\u0a95 \u0aa4\u0acb\u0aab\u0abe\u0aa8; \u0a8f\u0ab6\u0abf\u0aaf\u0aa8 \u0a97\u0ac7\u0aae\u0acd\u0ab8\u0aae\u0abe\u0a82 \u0ab8\u0aa6\u0ac0 \u0aab\u0a9f\u0a95\u0abe\u0ab0\u0aa8\u0abe\u0ab0\u0ac0 \u0aaa\u0acd\u0ab0\u0aa5\u0aae \u0aad\u0abe\u0ab0\u0aa4\u0ac0\u0aaf \u0aae\u0ab9\u0abf\u0ab2\u0abe \u0aac\u0aa8\u0ac0",
+      "link": "https://tv9gujarati.com/sports/cricket-news/breaking-news-asian-games-2026-shafali-verma-smashes-49-ball-century-creates-history-1519328.html"
     }
   ],
   "twitter": null
