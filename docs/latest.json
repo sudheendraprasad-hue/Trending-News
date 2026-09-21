@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20 23:31:46",
+  "generated_at": "2026-09-21 00:02:13",
   "google_trends": [
     {
       "title": "nfl",
@@ -32,11 +32,6 @@
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "atl\u00e9tico madrid vs real madrid",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
       "title": "laliga",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
@@ -50,13 +45,22 @@
       "title": "spider man brand new day",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "real madrid",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
     }
   ],
   "outlets": {
     "Times of India": [
       {
-        "title": "Trump adds drones, snipers and ammunition to plans for Washington triumphal arch",
-        "link": "https://timesofindia.indiatimes.com/world/us/donald-trump-adds-drones-snipers-and-ammunition-to-plans-for-washington-triumphal-arch/articleshow/134368581.cms"
+        "title": "Bengal SIR tribunals may take 12 years to decide on appeals",
+        "link": "https://timesofindia.indiatimes.com/india/bengal-sir-tribunals-may-take-12-years-to-decide-on-appeals/articleshow/134376466.cms"
+      },
+      {
+        "title": "Indian-origin climber Dhrubajyoti Guha, Nepalese guide killed in Manaslu avalanche",
+        "link": "https://timesofindia.indiatimes.com/world/south-asia/indian-origin-climber-nepalese-guide-killed-in-manaslu-avalanche/articleshow/134371124.cms"
       },
       {
         "title": "Tata dipute: Lawyers Singhvi, Salve now on opposing sides",
@@ -67,16 +71,16 @@
         "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-warns-us-allies-against-new-attack-threatens-retaliation/articleshow/134374995.cms"
       },
       {
-        "title": "More Delhi SIRprises: Jaishankar, Dhankhar, Advani on list of voters with \u2018discrepancies\u2019",
+        "title": "Delhi SIRprises: Jaishankar, Dhankhar, Advani & more issued notices for \u2018discrepancies\u2019",
         "link": "https://timesofindia.indiatimes.com/city/delhi/lk-advani-dhankar-sisodia-also-issued-sir-notices/articleshow/134372553.cms"
-      },
-      {
-        "title": "'Nothing wrong if people happily tip govt officials': K'taka minister sparks row",
-        "link": "https://timesofindia.indiatimes.com/city/bengaluru/offer-tips-to-good-officers-says-min-lands-in-soup/articleshow/134374842.cms"
       },
       {
         "title": "Atlanta man arrested after phone wipe; new ruling allows border searches",
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms"
+      },
+      {
+        "title": "'Nothing wrong if people happily tip govt officials': K'taka minister sparks row",
+        "link": "https://timesofindia.indiatimes.com/city/bengaluru/offer-tips-to-good-officers-says-min-lands-in-soup/articleshow/134374842.cms"
       },
       {
         "title": "US prepares sweeping sanctions on International Criminal Court",
@@ -89,10 +93,6 @@
       {
         "title": "Using recovery agents proves costly for truck financier, SC orders Rs 15 lakh payout",
         "link": "https://timesofindia.indiatimes.com/india/using-recovery-agents-proves-costly-for-truck-financier/articleshow/134375079.cms"
-      },
-      {
-        "title": "5th case slapped on Congress\u2019 Nandigram nominee Milan Pradhan, party to move HC",
-        "link": "https://timesofindia.indiatimes.com/city/kolkata/another-warrant-against-milan-cong-to-move-hc/articleshow/134371430.cms"
       }
     ],
     "NDTV": [
@@ -235,6 +235,10 @@
         "link": "https://www.thehindu.com/news/national/odisha/lucknows-sr-group-of-institutions-signs-five-year-mou-with-sodes-to-strengthen-digital-education-skill-development/article71488600.ece"
       },
       {
+        "title": "BJD mounts pressure on BJP government over MMDR amendment act seeking special session of assembly",
+        "link": "https://www.thehindu.com/news/national/odisha/bjd-mounts-pressure-on-bjp-government-over-mmdr-amendment-act-seeking-special-session-of-assembly/article71488059.ece"
+      },
+      {
         "title": "\u2018Stop Vizag Data Centers\u2019 Instagram account blocked in India",
         "link": "https://www.thehindu.com/news/national/andhra-pradesh/stop-vizag-data-centers-instagram-account-blocked-in-india/article71487350.ece"
       },
@@ -257,10 +261,6 @@
       {
         "title": "Boating to boost tourism at Peruvannamuzhi",
         "link": "https://www.thehindu.com/news/national/kerala/boating-to-boost-tourism-at-peruvannamuzhi/article71487538.ece"
-      },
-      {
-        "title": "Human skull recovered from waste heap in Kozhikode",
-        "link": "https://www.thehindu.com/news/national/kerala/human-skull-recovered-from-waste-heap-in-kozhikode/article71487663.ece"
       }
     ],
     "Livemint": [
@@ -351,19 +351,15 @@
   },
   "keywords": [
     {
-      "term": "Congress",
-      "score": 3.9
-    },
-    {
-      "term": "Trump",
-      "score": 2.6
-    },
-    {
       "term": "Jaishankar",
       "score": 2.6
     },
     {
       "term": "Advani",
+      "score": 2.6
+    },
+    {
+      "term": "Congress",
       "score": 2.6
     },
     {
@@ -373,6 +369,10 @@
     {
       "term": "What",
       "score": 2.6
+    },
+    {
+      "term": "Bengal",
+      "score": 1.9
     },
     {
       "term": "Tata",
@@ -391,10 +391,6 @@
       "score": 1.6
     },
     {
-      "term": "Bengal",
-      "score": 1.6
-    },
-    {
       "term": "Seva",
       "score": 1.6
     },
@@ -403,55 +399,59 @@
       "score": 1.6
     },
     {
-      "term": "Washington",
+      "term": "Indian-origin",
       "score": 1.3
     },
     {
-      "term": "Iran",
+      "term": "Nepalese",
+      "score": 1.3
+    },
+    {
+      "term": "Manaslu",
       "score": 1.3
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u0930\u0947\u0921 \u0915\u093e\u0930\u092a\u0947\u091f \u092c\u093f\u091b\u093e\u0915\u0930 \u0936\u0940 \u091c\u093f\u0928\u092a\u093f\u0902\u0917 \u0915\u0947 \u0938\u094d\u0935\u093e\u0917\u0924 \u0915\u0947 \u0932\u093f\u090f \u0924\u0948\u092f\u093e\u0930 \u0921\u094b\u0928\u093e\u0932\u094d\u0921 \u091f\u094d\u0930\u0902\u092a, \u090f\u0915\u0926\u092e \u0938\u0947 \u091c\u091c\u094d\u092c\u093e\u0924 \u0915\u0948\u0938\u0947 \u092c\u0926\u0932 \u0926\u093f\u090f?",
-      "link": "https://www.livehindustan.com/international/america-and-china-relations-donald-trump-now-rolling-out-red-carpet-for-xi-jinping-201789902502167.html"
+      "title": "Legendary actor Sivaji Ganesan's eldest daughter dies",
+      "link": "https://m.rediff.com/news/commentary/2026/sep/20/legendary-actor-sivaji-ganesans-eldest-daughter-dies/936ff04f9d374aabb205903d288b6b4a"
     },
     {
-      "title": "5 \u0926\u093f\u0928 \u092c\u093e\u0926 \u0916\u0941\u0932\u0947\u0917\u093e \u0924\u092e\u0928\u094d\u0928\u093e \u092d\u093e\u091f\u093f\u092f\u093e-\u0938\u093f\u0926\u094d\u0927\u093e\u0930\u094d\u0925 \u092e\u0932\u094d\u0939\u094b\u0924\u094d\u0930\u093e \u0915\u093e \u0930\u0939\u0938\u094d\u092f, \u0938\u0932\u092e\u093e\u0928 \u0916\u093e\u0928 \u0938\u0902\u0917 \u0932\u0917\u093e\u090f \u0920\u0941\u092e\u0915\u0947, Video",
-      "link": "https://www.aajtak.in/entertainment/television/story/bigg-boss-20-tamanna-bhatia-sidharth-malhotra-the-one-pati-patni-aur-panga-2-salman-khan-dance-tmovb-dskc-2648133-2026-09-20"
+      "title": "How one India T20I could become Japanese cricket's defining moment",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/how-one-india-t20i-could-become-japanese-crickets-defining-moment/articleshow/134367678.cms"
     },
     {
-      "title": "Bardhaman: '\u09a4\u09cb\u09b2\u09be\u09ac\u09be\u099c\u09bf \u0995\u09b0\u09b2\u09c7 \u09ac\u09c7\u0981\u09a7\u09c7 \u09b0\u09be\u0996\u09be \u09b9\u09ac\u09c7', \u09b9\u09c1\u0981\u09b6\u09bf\u09df\u09be\u09b0\u09bf \u09ac\u09bf\u099c\u09c7\u09aa\u09bf \u09ac\u09bf\u09a7\u09be\u09df\u0995\u09c7\u09b0",
-      "link": "https://bangla.aajtak.in/west-bengal/story/bjp-mla-manab-guha-warns-to-the-workers-in-extortion-allegation-bytt-sum-1453018-2026-09-20"
+      "title": "Cricket Video : \u091a\u093e\u092f\u0928\u093e \u0938\u094d\u091f\u0902\u092a \u0905\u0938\u0924\u0940\u0932 \u0924\u0930 \u0905\u0938\u0902\u091a \u0939\u094b\u0923\u093e\u0930! \u0915\u094d\u0930\u093f\u0915\u094d\u0930\u0947\u091f \u092e\u0945\u091a\u092e\u0927\u0940\u0932 \u0924\u094b \u0935\u094d\u0939\u093f\u0921\u0940\u0913 \u0924\u0941\u092b\u093e\u0928 \u0935\u094d\u0939\u093e\u092f\u0930\u0932, \u091a\u0947\u0902\u0921\u0942 \u0938\u094d\u091f\u0902\u092a\u0932\u093e \u0932\u093e\u0917\u0932\u093e \u0924\u0930\u0940\u2026",
+      "link": "https://www.tv9marathi.com/sports/cricket-news/cricket-stadium-viral-video-netizens-said-when-the-wickets-are-made-in-china-this-is-what-happens-1760432.html"
     },
     {
-      "title": "8-\u0bb5\u0ba4\u0bc1 \u0b8a\u0ba4\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1: \u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd \u0bae\u0bb3\u0bae\u0bb3\u0ba9\u0bcd\u0ba9\u0bc1 \u0b89\u0baf\u0bb0\u0baa\u0bcd \u0baa\u0bcb\u0b95\u0bc1\u0ba4\u0bc1! 49 \u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd & 68 \u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b85\u0baa\u0bcd\u0b9f\u0bc7\u0b9f\u0bcd!",
-      "link": "https://tamil.economictimes.com/news/business/8th-pay-commission-salary-increase-for-employees-pension-rise-and-changes-in-2026/articleshow/134366340.cms"
+      "title": "\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd -\u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0baa\u0bbf\u0bb2\u0bcd \u0bb0\u0bc2.2000 \u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd UPI \u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbe\u0ba4\u0bc1 : \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9f\u0bc0\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1 : \u0bae\u0bc1\u0bb4\u0bc1 \u0bb5\u0bbf\u0bb5\u0bb0\u0bae\u0bcd",
+      "link": "https://tamil.economictimes.com/personal-finance/mp-petrol-dealers-rule-on-no-upi-about-2000rs-full-details/articleshow/134367977.cms"
     },
     {
-      "title": "Ukraine | \u0c30\u200c\u0c37\u0c4d\u0c2f\u0c3e\u0c2a\u0c48 \u0c2d\u0c40\u0c15\u200c\u0c30 \u0c26\u0c3e\u0c21\u0c3f.. 1000 \u0c21\u0c4d\u0c30\u0c4b\u0c28\u0c4d\u0c32\u200c\u0c24\u0c4b \u0c35\u0c3f\u0c30\u0c41\u0c1a\u0c41\u0c15\u0c41\u0c2a\u200c\u0c21\u0c4d\u0c21 \u0c09\u0c15\u0c4d\u0c30\u0c46\u0c2f\u200c\u0c28\u0c4d.. \u0c07\u0c26\u0c4d\u0c26\u200c\u0c30\u0c41 \u0c2e\u0c43\u0c24\u0c3f",
-      "link": "https://www.ntnews.com/international/ukraine-fires-over-1000-drones-at-russia-largest-ever-attack-on-moscow-two-people-killed-2515476"
+      "title": "\u0930\u0942\u0938 \u092e\u0947\u0902 \u092e\u0924\u0926\u093e\u0928 \u0915\u0947 \u092c\u0940\u091a \u092c\u0921\u093c\u093e \u0939\u092e\u0932\u093e, \u092f\u0942\u0915\u094d\u0930\u0947\u0928 \u0928\u0947 \u092e\u0949\u0938\u094d\u0915\u094b \u092a\u0930 \u0926\u093e\u0917\u0947 1600 \u0938\u0947 \u0905\u0927\u093f\u0915 \u0921\u094d\u0930\u094b\u0928; \u0930\u093f\u092b\u093e\u0907\u0928\u0930\u0940 \u0924\u092c\u093e\u0939",
+      "link": "https://www.jagran.com/world/russia-ukraine-drones-hit-moscow-during-elections-refinery-damaged-40379438.html"
     },
     {
-      "title": "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raja: 'Some people a**** start to burn'",
-      "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-hits-back-at-people-trolling-maithili-thakur-for-arriving-in-rolls-royce-at-lalbaugcha-raja-some-people-a-start-to-burn/articleshow/134367439.cms"
+      "title": "\u0d07\u0d1f\u0d41\u0d15\u0d4d\u0d15\u0d3f \u0d35\u0d1f\u0d4d\u0d1f\u0d35\u0d1f\u0d2f\u0d3f\u0d7d \u0d2e\u0d23\u0d4d\u0d23\u0d3f\u0d1f\u0d3f\u0d1a\u0d4d\u0d1a\u0d3f\u0d7d; \u0d30\u0d23\u0d4d\u0d1f\u0d4d \u0d2a\u0d47\u0d7c\u0d15\u0d4d\u0d15\u0d4d \u0d26\u0d3e\u0d30\u0d41\u0d23\u0d3e\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d02, \u0d12\u0d30\u0d3e\u0d7e\u0d15\u0d4d\u0d15\u0d4d \u0d17\u0d41\u0d30\u0d41\u0d24\u0d30 \u0d2a\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d4d; \u0d2e\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d24\u0d4d \u0d15\u0d4a\u0d1f\u0d4d\u0d1f\u0d15\u0d4d\u0d15\u0d2e\u0d4d\u0d2a\u0d42\u0d7c \u0d38\u0d4d\u0d35\u0d26\u0d47\u0d36\u0d3f\u0d15\u0d7e",
+      "link": "https://www.asianetnews.com/kerala-news/two-people-died-in-vattavada-idukki-landslide-articleshow-q1legta"
     },
     {
-      "title": "\u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09a8\u09c7\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7\u0987 \u09ae\u09b8\u09cd\u0995\u09cb\u09df \u09ad\u09df\u09be\u09ac\u09b9 \u09a1\u09cd\u09b0\u09cb\u09a8 \u09b9\u09be\u09ae\u09b2\u09be \u0987\u0989\u0995\u09cd\u09b0\u09c7\u09a8\u09c7\u09b0! \u09e7\u09ec\u09e6\u09e6-\u09b0 \u09ac\u09c7\u09b6\u09bf \u09a1\u09cd\u09b0\u09cb\u09a8 \u09a7\u09cd\u09ac\u0982\u09b8\u09c7\u09b0 \u09a6\u09be\u09ac\u09bf \u09b0\u09be\u09b6\u09bf\u09df\u09be\u09b0",
-      "link": "https://bangla.asianetnews.com/international/world-news/hundreds-of-drones-targeting-moscow-and-its-surrounding-region-killed-at-least-two-people-and-damaged-a-major-refinery/articleshow-qko917e"
+      "title": "SIR : \u0a9c\u0aaf\u0ab6\u0a82\u0a95\u0ab0, \u0a85\u0aa1\u0ab5\u0abe\u0aa3\u0ac0, \u0a95\u0ac7\u0a9c\u0ab0\u0ac0\u0ab5\u0abe\u0ab2\u0aa8\u0ac7 \u0a9a\u0ac2\u0a82\u0a9f\u0aa3\u0ac0 \u0aaa\u0a82\u0a9a\u0aa8\u0ac0 \u0aa8\u0acb\u0a9f\u0abf\u0ab8, \u0ab2\u0abf\u0ab8\u0acd\u0a9f\u0aae\u0abe\u0a82 \u0a9a\u0ac2\u0a82\u0a9f\u0aa3\u0ac0 \u0a95\u0aae\u0abf\u0ab6\u0aa8\u0ab0 \u0ab8\u0ab9\u0abf\u0aa4 \u0a85\u0aa8\u0ac7\u0a95 VIP \u0aa8\u0abe\u0aae",
+      "link": "https://www.gujaratsamachar.com/news/national/sir-notice-to-election-commissioner-ss-sandhu-list-also-includes-names-of-external-affairs-minister-jaishankar-advani-and-singhvi-68594803333"
     },
     {
-      "title": "\u0aaa\u0abe\u0a95\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8\u0aa8\u0abe \u0aaa\u0ac2\u0ab0\u0acd\u0ab5 \u0ab5\u0aa1\u0abe\u0aaa\u0acd\u0ab0\u0aa7\u0abe\u0aa8 \u0a88\u0aae\u0ab0\u0abe\u0aa8 \u0a96\u0abe\u0aa8\u0aa8\u0abe \u0aac\u0ab9\u0ac7\u0aa8\u0aa8\u0ac0 \u0aa7\u0ab0\u0aaa\u0a95\u0aa1, PTI \u0aaa\u0abe\u0ab0\u0acd\u0a9f\u0ac0\u0aa8\u0ac0 '\u0ab2\u0acb\u0a82\u0a97 \u0aae\u0abe\u0ab0\u0acd\u0a9a' \u0aaa\u0ab9\u0ac7\u0ab2\u0abe \u0aaa\u0acb\u0ab2\u0ac0\u0ab8\u0aa8\u0ac0 \u0a95\u0abe\u0ab0\u0acd\u0aaf\u0ab5\u0abe\u0ab9\u0ac0",
-      "link": "https://www.gujaratsamachar.com/news/international/former-pakistan-prime-minister-imran-khans-sister-arrested-police-action-before-pti-partys-long-march-35087150336"
+      "title": "Chiranjeevi Kaaka : \u0c2e\u0c30\u0c4b\u0c38\u0c3e\u0c30\u0c3f \u0c1a\u0c3f\u0c30\u0c41 \u0c32\u0c40\u0c15\u0c4d\u0c38\u0c4d - '\u0c15\u0c3e\u0c15\u0c3e'\u0c15\u0c41 \u0c15\u0c26\u0c3f\u0c30\u0c3f\u0c15\u0c3f \u0c32\u0c3f\u0c02\u0c15\u0c4d \u0c0f\u0c02\u0c1f\u0c4b \u0c1a\u0c46\u0c2a\u0c4d\u0c2a\u0c47\u0c38\u0c3f\u0c28 \u0c2e\u0c46\u0c17\u0c3e\u0c38\u0c4d\u0c1f\u0c3e\u0c30\u0c4d... \u0c2b\u0c4d\u0c2f\u0c3e\u0c28\u0c4d\u0c38\u0c4d \u0c35\u0c46\u0c2f\u0c3f\u0c1f\u0c3f\u0c02\u0c17\u0c4d",
+      "link": "https://telugu.abplive.com/entertainment/cinema/chiranjeevi-leaked-his-character-name-in-bobby-kolli-kaaka-movie-chiru-leaks-trending-watch-video-259449"
     },
     {
-      "title": "\u0d35\u0d3f\u0d2f\u0d7c\u0d24\u0d4d\u0d24\u0d4d \u0d2d\u0d3e\u0d30\u0d02 \u0d15\u0d41\u0d31\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d3e\u0d7b \u0d36\u0d4d\u0d30\u0d2e\u0d3f\u0d1a\u0d4d\u0d1a\u0d41, \u0d2c\u0d4b\u0d27\u0d30\u0d39\u0d3f\u0d24\u0d28\u0d3e\u0d2f\u0d3f \u0d0e\u0d02\u0d0e\u0d02\u0d0e \u0d24\u0d3e\u0d30\u0d02 \u0d35\u0d30\u0d41\u0d7a; \u0d0f\u0d37\u0d4d\u0d2f\u0d7b \u0d17\u0d46\u0d2f\u0d3f\u0d02\u0d38\u0d3f\u0d7d \u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d4d \u0d2a\u0d3f\u0d28\u0d4d\u0d2e\u0d3e\u0d31\u0d3f",
-      "link": "https://www.mathrubhumi.com/sports/news/varun-sanyal-asian-games-2026-withdrawal-mma-erf9r3za"
+      "title": "'27,000 votes, 27 seats': Akhilesh lays out Samajwadi Party strategy to counter BJP in UP polls",
+      "link": "https://timesofindia.indiatimes.com/india/27000-votes-27-seats-akhilesh-lays-out-samajwadi-party-strategy-to-counter-bjp-in-up-polls/articleshow/134367945.cms"
     },
     {
-      "title": "Telangana businesswoman claims CM's aide called her to guest house for meet",
-      "link": "https://www.indiatoday.in/india/south/story/telangana-outdoor-advertising-entrepreneur-flags-cm-aide-guest-house-invite-2998868-2026-09-20"
+      "title": "\u0d0e\u0d38\u0d4d\u0d0e\u0d2b\u0d4d\u0d10 \u0d38\u0d4d\u0d15\u0d42\u0d7e \u0d15\u0d41\u0d1f\u0d4d\u0d1f\u0d3f\u0d15\u0d33\u0d41\u0d1f\u0d46 '\u0d2a\u0d42\u0d15\u0d4d\u0d15\u0d3f' \u0d2c\u0d3e\u0d28\u0d31\u0d3f\u0d7d \u0d35\u0d3f\u0d35\u0d3e\u0d26\u0d02 \u0d15\u0d24\u0d4d\u0d24\u0d41\u0d28\u0d4d\u0d28\u0d41, \u0d2a\u0d4b\u0d32\u0d40\u0d38\u0d4d \u0d2e\u0d47\u0d27\u0d3e\u0d35\u0d3f\u0d15\u0d4d\u0d15\u0d4d \u0d2a\u0d30\u0d3e\u0d24\u0d3f \u0d28\u0d7d\u0d15\u0d3f \u0d15\u0d46\u0d0e\u0d38\u0d4d\u200c\u0d2f\u0d41",
+      "link": "https://www.asianetnews.com/kerala-news/sfi-pookkie-banner-controversy-escalates-ksu-files-complaint-with-kollam-district-police-chief-articleshow-7wtdsxf"
     }
   ],
   "twitter": null

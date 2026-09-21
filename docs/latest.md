@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-20 23:31:46
+# India Trending Report — 2026-09-21 00:02:13
 
 ## Google Trends (India) — top trending searches
 1. [nfl](https://trends.google.com/trending/rss?geo=IN)
@@ -7,23 +7,23 @@
 4. [tata aeris](https://trends.google.com/trending/rss?geo=IN)
 5. [man utd](https://trends.google.com/trending/rss?geo=IN)
 6. [clock](https://trends.google.com/trending/rss?geo=IN)
-7. [atlético madrid vs real madrid](https://trends.google.com/trending/rss?geo=IN)
-8. [laliga](https://trends.google.com/trending/rss?geo=IN)
-9. [epl](https://trends.google.com/trending/rss?geo=IN)
-10. [spider man brand new day](https://trends.google.com/trending/rss?geo=IN)
+7. [laliga](https://trends.google.com/trending/rss?geo=IN)
+8. [epl](https://trends.google.com/trending/rss?geo=IN)
+9. [spider man brand new day](https://trends.google.com/trending/rss?geo=IN)
+10. [real madrid](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Trump adds drones, snipers and ammunition to plans for Washington triumphal arch](https://timesofindia.indiatimes.com/world/us/donald-trump-adds-drones-snipers-and-ammunition-to-plans-for-washington-triumphal-arch/articleshow/134368581.cms)
+- [Bengal SIR tribunals may take 12 years to decide on appeals](https://timesofindia.indiatimes.com/india/bengal-sir-tribunals-may-take-12-years-to-decide-on-appeals/articleshow/134376466.cms)
+- [Indian-origin climber Dhrubajyoti Guha, Nepalese guide killed in Manaslu avalanche](https://timesofindia.indiatimes.com/world/south-asia/indian-origin-climber-nepalese-guide-killed-in-manaslu-avalanche/articleshow/134371124.cms)
 - [Tata dipute: Lawyers Singhvi, Salve now on opposing sides](https://timesofindia.indiatimes.com/business/india-business/tata-dipute-singhvi-salve-now-on-opposing-sides/articleshow/134375598.cms)
 - [Iran threatens 'painful retaliation' if US strikes as Trump warns of 'big things'](https://timesofindia.indiatimes.com/world/middle-east/iran-warns-us-allies-against-new-attack-threatens-retaliation/articleshow/134374995.cms)
-- [More Delhi SIRprises: Jaishankar, Dhankhar, Advani on list of voters with ‘discrepancies’](https://timesofindia.indiatimes.com/city/delhi/lk-advani-dhankar-sisodia-also-issued-sir-notices/articleshow/134372553.cms)
-- ['Nothing wrong if people happily tip govt officials': K'taka minister sparks row](https://timesofindia.indiatimes.com/city/bengaluru/offer-tips-to-good-officers-says-min-lands-in-soup/articleshow/134374842.cms)
+- [Delhi SIRprises: Jaishankar, Dhankhar, Advani & more issued notices for ‘discrepancies’](https://timesofindia.indiatimes.com/city/delhi/lk-advani-dhankar-sisodia-also-issued-sir-notices/articleshow/134372553.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
+- ['Nothing wrong if people happily tip govt officials': K'taka minister sparks row](https://timesofindia.indiatimes.com/city/bengaluru/offer-tips-to-good-officers-says-min-lands-in-soup/articleshow/134374842.cms)
 - [US prepares sweeping sanctions on International Criminal Court](https://timesofindia.indiatimes.com/world/us/us-prepares-sweeping-sanctions-on-international-criminal-court/articleshow/134375029.cms)
 - [One year on, commodity prices eat into gains from GST rate rejig](https://timesofindia.indiatimes.com/business/india-business/one-year-on-commodity-prices-eat-into-gains-from-gst-rate-rejig/articleshow/134375353.cms)
 - [Using recovery agents proves costly for truck financier, SC orders Rs 15 lakh payout](https://timesofindia.indiatimes.com/india/using-recovery-agents-proves-costly-for-truck-financier/articleshow/134375079.cms)
-- [5th case slapped on Congress’ Nandigram nominee Milan Pradhan, party to move HC](https://timesofindia.indiatimes.com/city/kolkata/another-warrant-against-milan-cong-to-move-hc/articleshow/134371430.cms)
 
 **NDTV**
 - [North Korea Launches 2 Ballistic Missiles Toward Sea](https://www.ndtv.com/world-news/north-korea-launches-2-ballistic-missiles-toward-sea-12073587#publisher=newsstand)
@@ -65,13 +65,13 @@
 - [Heavy rains, squally wind likely in West Bengal from September 22](https://www.thehindu.com/news/national/west-bengal/heavy-rains-squally-wind-likely-in-west-bengal-from-september-22/article71488466.ece)
 - [INLD’s Sampat Singh attacks BJP’s ‘Seva Sankalp Abhiyaan’, alleges misuse of State machinery](https://www.thehindu.com/news/national/haryana/inlds-sampat-singh-attacks-bjps-seva-sankalp-abhiyaan-alleges-misuse-of-state-machinery/article71488503.ece)
 - [Lucknow’s S.R. Group of Institutions signs Five-Year MoU with SODES to strengthen digital education, skill development](https://www.thehindu.com/news/national/odisha/lucknows-sr-group-of-institutions-signs-five-year-mou-with-sodes-to-strengthen-digital-education-skill-development/article71488600.ece)
+- [BJD mounts pressure on BJP government over MMDR amendment act seeking special session of assembly](https://www.thehindu.com/news/national/odisha/bjd-mounts-pressure-on-bjp-government-over-mmdr-amendment-act-seeking-special-session-of-assembly/article71488059.ece)
 - [‘Stop Vizag Data Centers’ Instagram account blocked in India](https://www.thehindu.com/news/national/andhra-pradesh/stop-vizag-data-centers-instagram-account-blocked-in-india/article71487350.ece)
 - [Once described as BIMARU, U.P. transformed as country’s growth engine, says CM Yogi](https://www.thehindu.com/news/national/uttar-pradesh/once-described-as-bimaru-up-transformed-as-countrys-growth-engine-says-cm-yogi/article71488822.ece)
 - [Missing measure in India’s magnet mission](https://www.thehindu.com/opinion/op-ed/missing-measure-in-indias-magnet-mission/article71488862.ece)
 - [Overnight rain brings temperatures down in Bengaluru; KIA weather station records 94.2 mm](https://www.thehindu.com/news/cities/bangalore/overnight-rain-bring-temperatures-down-in-bengaluru-kia-records-942-mm/article71487287.ece)
 - [Panathur Railway Underbridge submerged after rain, commuters struggle through hip-deep water](https://www.thehindu.com/news/cities/bangalore/panathur-railway-underbridge-submerged-after-rain-commuters-struggle-through-hip-deep-water/article71488104.ece)
 - [Boating to boost tourism at Peruvannamuzhi](https://www.thehindu.com/news/national/kerala/boating-to-boost-tourism-at-peruvannamuzhi/article71487538.ece)
-- [Human skull recovered from waste heap in Kozhikode](https://www.thehindu.com/news/national/kerala/human-skull-recovered-from-waste-heap-in-kozhikode/article71487663.ece)
 
 **Livemint**
 - [Dutch Police Break Up Violent Far-Right Protest in The Hague](https://www.livemint.com/news/dutch-police-break-up-violent-far-right-protest-in-the-hague-11789946269251.html)
@@ -100,35 +100,35 @@
 - [ಕಪಿಲ್ ಸಿಬಲ್ ರಿಗೂ ಬಂತು SIR ನೋಟೀಸ್! ಸಿಂಧುವಾದ ಮತಗಳ ‘ವಿಶೇಷ ಸಮಗ್ರ ತೆಗೆದು ಹಾಕುವಿಕೆ’: EC ವಿರುದ್ಧ ಸಿಬಲ್ ವಾಗ್ದಾಳಿ](https://www.varthabharati.in/National/kapil-sibal-lashes-out-at-the-sir-following-the-ec-notice-regarding-the-special-comprehensive-deletion-of-valid-votes-2276648)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Congress (3.9)
-- Trump (2.6)
 - Jaishankar (2.6)
 - Advani (2.6)
+- Congress (2.6)
 - India (2.6)
 - What (2.6)
+- Bengal (1.9)
 - Tata (1.9)
 - Karnataka (1.9)
 - Salve (1.6)
 - Rajasthan (1.6)
-- Bengal (1.6)
 - Seva (1.6)
 - Bengaluru (1.6)
-- Washington (1.3)
-- Iran (1.3)
+- Indian-origin (1.3)
+- Nepalese (1.3)
+- Manaslu (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [रेड कारपेट बिछाकर शी जिनपिंग के स्वागत के लिए तैयार डोनाल्ड ट्रंप, एकदम से जज्बात कैसे बदल दिए?](https://www.livehindustan.com/international/america-and-china-relations-donald-trump-now-rolling-out-red-carpet-for-xi-jinping-201789902502167.html)
-- [5 दिन बाद खुलेगा तमन्ना भाटिया-सिद्धार्थ मल्होत्रा का रहस्य, सलमान खान संग लगाए ठुमके, Video](https://www.aajtak.in/entertainment/television/story/bigg-boss-20-tamanna-bhatia-sidharth-malhotra-the-one-pati-patni-aur-panga-2-salman-khan-dance-tmovb-dskc-2648133-2026-09-20)
-- [Bardhaman: 'তোলাবাজি করলে বেঁধে রাখা হবে', হুঁশিয়ারি বিজেপি বিধায়কের](https://bangla.aajtak.in/west-bengal/story/bjp-mla-manab-guha-warns-to-the-workers-in-extortion-allegation-bytt-sum-1453018-2026-09-20)
-- [8-வது ஊதியக் குழு: சம்பளம் மளமளன்னு உயரப் போகுது! 49 லட்சம் ஊழியர்கள் & 68 லட்சம் ஓய்வூதியதாரர்களுக்கான அதிரடி அப்டேட்!](https://tamil.economictimes.com/news/business/8th-pay-commission-salary-increase-for-employees-pension-rise-and-changes-in-2026/articleshow/134366340.cms)
-- [Ukraine | ర‌ష్యాపై భీక‌ర దాడి.. 1000 డ్రోన్ల‌తో విరుచుకుప‌డ్డ ఉక్రెయ‌న్.. ఇద్ద‌రు మృతి](https://www.ntnews.com/international/ukraine-fires-over-1000-drones-at-russia-largest-ever-attack-on-moscow-two-people-killed-2515476)
-- [Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raja: 'Some people a**** start to burn'](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-hits-back-at-people-trolling-maithili-thakur-for-arriving-in-rolls-royce-at-lalbaugcha-raja-some-people-a-start-to-burn/articleshow/134367439.cms)
-- [নির্বাচনের মধ্যেই মস্কোয় ভয়াবহ ড্রোন হামলা ইউক্রেনের! ১৬০০-র বেশি ড্রোন ধ্বংসের দাবি রাশিয়ার](https://bangla.asianetnews.com/international/world-news/hundreds-of-drones-targeting-moscow-and-its-surrounding-region-killed-at-least-two-people-and-damaged-a-major-refinery/articleshow-qko917e)
-- [પાકિસ્તાનના પૂર્વ વડાપ્રધાન ઈમરાન ખાનના બહેનની ધરપકડ, PTI પાર્ટીની 'લોંગ માર્ચ' પહેલા પોલીસની કાર્યવાહી](https://www.gujaratsamachar.com/news/international/former-pakistan-prime-minister-imran-khans-sister-arrested-police-action-before-pti-partys-long-march-35087150336)
-- [വിയർത്ത് ഭാരം കുറയ്ക്കാൻ ശ്രമിച്ചു, ബോധരഹിതനായി എംഎംഎ താരം വരുൺ; ഏഷ്യൻ ഗെയിംസിൽ നിന്ന് പിന്മാറി](https://www.mathrubhumi.com/sports/news/varun-sanyal-asian-games-2026-withdrawal-mma-erf9r3za)
-- [Telangana businesswoman claims CM's aide called her to guest house for meet](https://www.indiatoday.in/india/south/story/telangana-outdoor-advertising-entrepreneur-flags-cm-aide-guest-house-invite-2998868-2026-09-20)
+- [Legendary actor Sivaji Ganesan's eldest daughter dies](https://m.rediff.com/news/commentary/2026/sep/20/legendary-actor-sivaji-ganesans-eldest-daughter-dies/936ff04f9d374aabb205903d288b6b4a)
+- [How one India T20I could become Japanese cricket's defining moment](https://timesofindia.indiatimes.com/sports/cricket/news/how-one-india-t20i-could-become-japanese-crickets-defining-moment/articleshow/134367678.cms)
+- [Cricket Video : चायना स्टंप असतील तर असंच होणार! क्रिक्रेट मॅचमधील तो व्हिडीओ तुफान व्हायरल, चेंडू स्टंपला लागला तरी…](https://www.tv9marathi.com/sports/cricket-news/cricket-stadium-viral-video-netizens-said-when-the-wickets-are-made-in-china-this-is-what-happens-1760432.html)
+- [பெட்ரோல் -டீசல் பில் ரூ.2000 க்கு மேல் இருந்தால் UPI கிடையாது : மத்திய பிரதேச டீலர்களின் அதிரடி முடிவு : முழு விவரம்](https://tamil.economictimes.com/personal-finance/mp-petrol-dealers-rule-on-no-upi-about-2000rs-full-details/articleshow/134367977.cms)
+- [रूस में मतदान के बीच बड़ा हमला, यूक्रेन ने मॉस्को पर दागे 1600 से अधिक ड्रोन; रिफाइनरी तबाह](https://www.jagran.com/world/russia-ukraine-drones-hit-moscow-during-elections-refinery-damaged-40379438.html)
+- [ഇടുക്കി വട്ടവടയിൽ മണ്ണിടിച്ചിൽ; രണ്ട് പേർക്ക് ദാരുണാന്ത്യം, ഒരാൾക്ക് ഗുരുതര പരിക്ക്; മരിച്ചത് കൊട്ടക്കമ്പൂർ സ്വദേശികൾ](https://www.asianetnews.com/kerala-news/two-people-died-in-vattavada-idukki-landslide-articleshow-q1legta)
+- [SIR : જયશંકર, અડવાણી, કેજરીવાલને ચૂંટણી પંચની નોટિસ, લિસ્ટમાં ચૂંટણી કમિશનર સહિત અનેક VIP નામ](https://www.gujaratsamachar.com/news/national/sir-notice-to-election-commissioner-ss-sandhu-list-also-includes-names-of-external-affairs-minister-jaishankar-advani-and-singhvi-68594803333)
+- [Chiranjeevi Kaaka : మరోసారి చిరు లీక్స్ - 'కాకా'కు కదిరికి లింక్ ఏంటో చెప్పేసిన మెగాస్టార్... ఫ్యాన్స్ వెయిటింగ్](https://telugu.abplive.com/entertainment/cinema/chiranjeevi-leaked-his-character-name-in-bobby-kolli-kaaka-movie-chiru-leaks-trending-watch-video-259449)
+- ['27,000 votes, 27 seats': Akhilesh lays out Samajwadi Party strategy to counter BJP in UP polls](https://timesofindia.indiatimes.com/india/27000-votes-27-seats-akhilesh-lays-out-samajwadi-party-strategy-to-counter-bjp-in-up-polls/articleshow/134367945.cms)
+- [എസ്എഫ്ഐ സ്കൂൾ കുട്ടികളുടെ 'പൂക്കി' ബാനറിൽ വിവാദം കത്തുന്നു, പോലീസ് മേധാവിക്ക് പരാതി നൽകി കെഎസ്‌യു](https://www.asianetnews.com/kerala-news/sfi-pookkie-banner-controversy-escalates-ksu-files-complaint-with-kollam-district-police-chief-articleshow-7wtdsxf)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
