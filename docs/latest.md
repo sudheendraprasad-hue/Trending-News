@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-21 11:36:05
+# India Trending Report — 2026-09-21 12:02:10
 
 ## Google Trends (India) — top trending searches
 1. [irvine](https://trends.google.com/trending/rss?geo=IN)
@@ -8,21 +8,21 @@
 5. [tornado warning news](https://trends.google.com/trending/rss?geo=IN)
 6. [sheikh ahmed bin rashid al maktoum](https://trends.google.com/trending/rss?geo=IN)
 7. [gemini](https://trends.google.com/trending/rss?geo=IN)
-8. [email](https://trends.google.com/trending/rss?geo=IN)
-9. [aaj ka tula rashifal](https://trends.google.com/trending/rss?geo=IN)
-10. [batman knightfall part 2](https://trends.google.com/trending/rss?geo=IN)
+8. [aaj ka tula rashifal](https://trends.google.com/trending/rss?geo=IN)
+9. [batman knightfall part 2](https://trends.google.com/trending/rss?geo=IN)
+10. [sbi](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Bihar harassment horror: Police arrest three, launch manhunt for four others](https://timesofindia.indiatimes.com/india/bihar-harassment-horror-police-arrest-three-launch-manhunt-for-four-others/articleshow/134387784.cms)
+- [Russia was building sanctions-proof ties with Iran before US attacked: Report](https://timesofindia.indiatimes.com/business/international-business/from-finance-system-to-nuclear-tech-inside-russias-secret-plan-for-sanctions-proof-ties-with-iran/articleshow/134387884.cms)
 - [Student suicide case: Now, IIT-B faculty hold protest in support of suspended professor](https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-faculty-protest-in-support-of-prof-doolla-after-deanship-suspension-amid-student-death-row/articleshow/134384685.cms)
 - [Watch: Humanoid robot throws punches, kicks influencer across cage](https://timesofindia.indiatimes.com/world/us/robot-vs-human-humanoid-robot-throws-punches-kicks-influencer-across-cage-video/articleshow/134388124.cms)
+- [UP school horror: Man shoots teacher dead after spat, then turns gun on himself](https://timesofindia.indiatimes.com/city/lucknow/26-year-old-teacher-shot-dead-inside-school-in-ups-lakhimpur-kheri-accused-dies-by-suicide/articleshow/134387795.cms)
+- [USCIS warns against websites and businesses ‘guaranteeing’ faster visa](https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-warns-visa-applicants-against-websites-and-businesses-guaranteeing-visa-green-card-or-work-permit-faster/articleshow/134383537.cms)
+- [Ladakh’s traditional yak churpi cheese wins gold at international competition](https://timesofindia.indiatimes.com/life-style/food-news/from-ladakhs-high-altitude-villages-to-brazil-yak-churpi-a-traditional-cheese-made-from-yak-milk-by-nomadic-families-for-generations-wins-gold-at-an-international-competition/articleshow/134387866.cms)
 - [Two gold at 13 for China’s Yu Zidi, but youngest Asian Games record remains unclear](https://timesofindia.indiatimes.com/sports/asian-games-2026/two-gold-at-13-yu-zidis-rise-and-summer-mcintosh-rivalry-dominate-swimming-talk-but-youngest-asian-games-record-remains-unclear/articleshow/134388134.cms)
 - [BMW that plunged off Mumbai Coastal Road bridge had earlier hit couple, video viral](https://timesofindia.indiatimes.com/city/mumbai/bmw-that-plunged-off-mumbai-coastal-road-bridge-had-earlier-hit-couple-video-viral/articleshow/134384420.cms)
-- [Meta's 'highest-paid' employee says sorry for ‘dumb joke’ over Muse AI booking](https://timesofindia.indiatimes.com/technology/tech-news/metas-highest-paid-employee-alexandr-wang-says-sorry-for-dumb-joke-after-cto-tech-company-says-he-booked-ticket-through-muse-ai-agent/articleshow/134382821.cms)
-- [What is OneTag? Switch FASTag bank, retain same tag; fresh KYC, get refund](https://timesofindia.indiatimes.com/business/india-business/nitin-gadkari-has-launched-onetag-fastag-users-can-now-switch-issuer-banks-without-changing-the-physical-tag-or-tag-id-fresh-kyc-is-required-and-old-wallet-balance-will-be-refunded/articleshow/134386239.cms)
-- [US on alert after China's 'dual-use' research vessels spotted near Alaska](https://timesofindia.indiatimes.com/world/us/us-on-alert-after-chinas-dual-use-research-vessels-spotted-near-alaska-multiple-times-this-year/articleshow/134387694.cms)
-- ['We'll change geography of war': Iran warns US of new weapons, targets](https://timesofindia.indiatimes.com/world/middle-east/well-change-geography-of-war-iran-warns-us-of-new-weapons-targets/articleshow/134385268.cms)
 - [Asian Games swimming: R Madhavan's son misses final; Srihari Nataraj finishes 10th](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-r-madhavans-son-vedaant-misses-relay-final-srihari-nataraj-finishes-last-in-50m-backstroke-in-disappointing-day-for-indian-swimmers/articleshow/134386980.cms)
 
 **NDTV**
@@ -38,6 +38,7 @@
 - [In Pune Murder, Garland Photo Hints At Secret Marriage At Rajasthan Temple](https://www.ndtv.com/india-news/ketan-agarwal-siya-goyal-chetan-chaudhary-in-pune-fort-murder-garland-photo-hints-at-secret-marriage-at-rajasthan-temple-12075615#publisher=newsstand)
 
 **Hindustan Times**
+- [15-yr-old boy shot dead by unknown armed individuals in Manipur’s Tamei: Cop](https://www.hindustantimes.com/india-news/15yrold-boy-shot-dead-by-unknown-armed-individuals-in-manipur-s-tamei-cop-101789990964828.html)
 - [Kasturirangan opposes Kasturirangan report, seeks ground level survey of Western ghats](https://www.hindustantimes.com/india-news/kasturirangan-opposes-kasturirangan-report-seeks-ground-level-survey-of-western-ghats-101789988129746.html)
 - [3 arrested, SIT formed, Opposition fumes over Jamui harassment case | Top updates](https://www.hindustantimes.com/india-news/3-arrested-sit-formed-victims-identified-in-bihar-jamui-harassment-case-viral-video-top-updates-101789985173813.html)
 - [IIT Bombay faculty forum backs professor accused of abetting student suicide](https://www.hindustantimes.com/india-news/iit-bombay-faculty-forum-backs-professor-accused-of-abetting-student-suicide-101789987302415.html)
@@ -47,33 +48,33 @@
 - [2020 Delhi riots: HC to hear bail pleas by Umar Khalid, Sharjeel Imam in UAPA case on Sep 30](https://www.hindustantimes.com/india-news/2020-delhi-riots-hc-to-hear-bail-pleas-by-umar-khalid-sharjeel-imam-in-uapa-case-on-sep-30-101789986578306.html)
 - [‘Patriarchy, not culture’: Rahul Gandhi demands POCSO action over mob harassment in Bihar's Jamui](https://www.hindustantimes.com/india-news/patriarchy-not-culture-rahul-gandhi-demands-pocso-action-over-mob-harassment-in-bihar-jamui-viral-video-101789981412268.html)
 - [India has served 8 times on UNSC: Why does it want a permanent seat now?](https://www.hindustantimes.com/india-news/india-has-served-8-times-on-unsc-why-does-it-want-a-permanent-seat-now-101789981371976.html)
-- [Teacher shot in Lakhimpur Kheri school; attacker kills self fearing arrest: Cops](https://www.hindustantimes.com/india-news/teacher-shot-in-lakhimpur-kheri-school-fearing-arrest-attackers-kills-self-cop-101789984079366.html)
 
 **Vijay Karnataka**
+- [ನಾಳೆಯ ಹವಾಮಾನ: ರಾಜ್ಯದಲ್ಲಿ ಮುಂಗಾರು ಚುರುಕು: ಸೆ.24 ವರೆಗೂ ಭಾರೀ ಮಳೆ - ವಿವಿಧ ಜಿಲ್ಲೆಗೆ ಯೆಲ್ಲೋ, ಆರೆಂಜ್‌ ರೆಡ್‌ ಅಲರ್ಟ್!](https://vijaykarnataka.com/news/karnataka/tomorrow-weather-monsoon-intensifies-in-karnataka-heavy-rain-until-september-24-yellow-orange-red-alerts-for-districts/articleshow/134388099.cms)
+- [ರಾಹುಲ್‌ ಗಾಂಧಿ ಮುಂದೆ ನರೇಂದ್ರ ಮೋದಿ ಅನುಕರಣೆ ಮಾಡಿದ ಪುಲ್ಕಿತ್‌ ಮಣಿಗೆ ಬೆದರಿಕೆ ಕರೆಗಳು: ಮೂರು ನಗರಗಳಲ್ಲಿ ಕಾರ್ಯಕ್ರಮ ರದ್ದು!](https://vijaykarnataka.com/news/india/comedian-pulkit-mani-cancelled-shows-in-three-cities-amid-rahul-gandhi-event-mimicry-row/articleshow/134388031.cms)
 - [ಜಪಾನ್ ಕ್ರಿಕೆಟ್ ತಂಡದಲ್ಲಿ ಬಿಹಾರದ ಐಐಟಿ ಪದವೀಧರ! 'ಬಿಹಾರಿಗಳು ಎಲ್ಲಿಲ್ಲ ಹೇಳಿ'ಎಂಬ ವಿಡಿಯೋ ವೈರಲ್!](https://vijaykarnataka.com/sports/cricket/news/abhishek-anand-an-iit-graduate-from-bihar-in-japan-cricket-team-video-viral/articleshow/134387885.cms)
-- [KPSC ಹಗರಣ: ಅಲೋಕ್‌ ಕುಮಾರ್‌ ನೇತೃತ್ವದಲ್ಲಿ SIT ರಚಿಸಿದ ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್‌; 100 ದಿನದೊಳಗೆ ತನಿಖೆ ಪೂರ್ಣಕ್ಕೆ ಗಡುವು](https://vijaykarnataka.com/news/karnataka/kpsc-scam-karnataka-high-court-constitutes-sit-led-by-alok-kumar-sets-deadline-to-complete-investigation-100-days/articleshow/134388212.cms)
-- [ಐಐಟಿ ಬಾಂಬೆ ವಿದ್ಯಾರ್ಥಿ ಸಾಹಿಲ್ ಆತ್ಮಹತ್ಯೆ ಪ್ರಕರಣ: ಸಂಸ್ಥೆಯಿಂದ ಕ್ಷಮೆಯಾಚನೆ, ಡೀನ್ ಸೂರ್ಯನಾರಾಯಣ ದೂಲ್ಲಾ ಅಮಾನತು!](https://vijaykarnataka.com/news/mumbai/iit-bombay-apologizes-over-student-suicide-row-suspends-dean-suryanarayana-doolla-amid-campus-protest/articleshow/134386472.cms)
 - [ವಯಸ್ಸಾದ ಪೋಷಕರಲ್ಲಿ ಈ ಬದಲಾವಣೆಗಳು ಕೇವಲ ವಯಸ್ಸಿನ ಲಕ್ಷಣವಲ್ಲ; ಆಲ್ಝೈಮರ್ಸ್‌ನ ಆರಂಭಿಕ ಸೂಚನೆಯೂ ಆಗಿರಬಹುದು!](https://vijaykarnataka.com/lifestyle/health/world-alzheimers-day-2026-early-signs-alzheimers-parents/articleshow/134386113.cms)
-- [8ನೇ ವೇತನ ಆಯೋಗ - HRA : 2.57 ಫಿಟ್ಮೆಂಟ್ ಫ್ಯಾಕ್ಟರ್’ಗೆ, ಮಾಸಿಕ ವೇತನ ಎಷ್ಟು ಏರಿಕೆಯಾಗಬಹುದು?](https://vijaykarnataka.com/business/personal-finance/8th-pay-commission-level-10-employee-hra-calculation-fitment-factor/articleshow/134387711.cms)
-- [Photos: ಅಕ್ಕನ ಮದುವೆಗೆ ದೊಡ್ಡ ಸರ್‌ಪ್ರೈಸ್ ಕೊಟ್ಟ ಭವ್ಯಾ ಗೌಡ: ಗಳಗಳನೆ ಅತ್ತ ಮದುಮಗಳು ದಿವ್ಯಾ ಗೌಡ!](https://vijaykarnataka.com/vk-gallery/cinema/karna-serial-actress-bhavya-gowda-s-tribute-to-her-sisters-during-divya-gowda-wedding/photoshow/134387336.cms)
+- [KPSC ಹಗರಣ: ಅಲೋಕ್‌ ಕುಮಾರ್‌ ನೇತೃತ್ವದಲ್ಲಿ SIT ರಚಿಸಿದ ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್‌; 100 ದಿನದೊಳಗೆ ತನಿಖೆ ಪೂರ್ಣಕ್ಕೆ ಗಡುವು](https://vijaykarnataka.com/news/karnataka/kpsc-scam-karnataka-high-court-constitutes-sit-led-by-alok-kumar-sets-deadline-to-complete-investigation-100-days/articleshow/134388212.cms)
+- [Photos: ಕಾಸ್ಟಿಂಗ್ ಡೈರೆಕ್ಟರ್‌ ಹೇಮಂತ್ - ದಿವ್ಯಾ ಗೌಡ ಮದುವೆಗೆ ಯಾವೆಲ್ಲಾ Bigg Boss ತಾರೆಯರು ಬಂದಿದ್ರು ಗೊತ್ತಾ?](https://vijaykarnataka.com/vk-gallery/cinema/anupama-gowda-rajath-prashanth-sambargi-dog-satish-and-other-bigg-boss-contestants-at-divya-gowda-hemanth-kumar-reception/photoshow/134388849.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [2026 ಪರಿವರ್ತಿನಿ ಏಕಾದಶಿ: ಆರ್ಥಿಕ ಸಮೃದ್ಧಿಗಾಗಿ ಮಾಡಬಹುದಾದ ಧಾರ್ಮಿಕ ಆಚರಣೆ.!](https://vijaykarnataka.com/religion/pooja-vidhana/parivartini-ekadashi-2026-do-these-works-to-remove-money-issues/articleshow/134387587.cms)
 - [ಗಣಪನ ವಿನ್ಯಾಸದ ನೆಕ್ಲೇಸ್, ಹಸಿರು ಬನಾರಸಿ ಸೀರೆಯಲ್ಲಿ ನೀತಾ ಅಂಬಾನಿ; ರಾಯಲ್ ಲುಕ್‌ಗೆ ಫಿದಾ ಫ್ಯಾನ್ಸ್](https://vijaykarnataka.com/lifestyle/fashion/nita-ambani-bappa-necklace-green-banarasi-saree-royal-look/articleshow/134384000.cms)
-- [ಹನಿ ನೀರಿಲ್ಲದ ನದಿಯಲ್ಲಿ ಗಣೇಶ ಮೂರ್ತಿಯನ್ನ ಬಿಟ್ಟುಹೋದ ಭಕ್ತರು! ಸಂಜೆಯೇ ಅಬ್ಬರದ ಮಳೆ - ಆಂಧ್ರದ ಚಿತ್ರಾವತಿಯಲ್ಲೊಂದು ವಿಸ್ಮಯ](https://vijaykarnataka.com/news/hyderabad/not-a-drop-of-water-in-river-devotees-leave-the-ganesha-idol-on-sand-heart-wrenching-incident-in-chitravati-river/articleshow/134387003.cms)
+- [ಐಐಟಿ ಬಾಂಬೆ ವಿದ್ಯಾರ್ಥಿ ಸಾಹಿಲ್ ಆತ್ಮಹತ್ಯೆ ಪ್ರಕರಣ: ಸಂಸ್ಥೆಯಿಂದ ಕ್ಷಮೆಯಾಚನೆ, ಡೀನ್ ಸೂರ್ಯನಾರಾಯಣ ದೂಲ್ಲಾ ಅಮಾನತು!](https://vijaykarnataka.com/news/mumbai/iit-bombay-apologizes-over-student-suicide-row-suspends-dean-suryanarayana-doolla-amid-campus-protest/articleshow/134386472.cms)
 
 **The Hindu**
+- [Python rescued from dance troupe during Ganesh procession in Hyderabad](https://www.thehindu.com/news/cities/Hyderabad/python-rescued-from-dance-troupe-during-ganesh-procession-in-hyderabad/article71491210.ece)
+- [Tamil Nadu CM Vijay reviews Northeast monsoon preparedness, dengue prevention measures](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-reviews-northeast-monsoon-preparedness-dengue-prevention-measures/article71491281.ece)
+- [Malabar Milma faces action over financial irregularities](https://www.thehindu.com/news/national/kerala/malabar-milma-faces-action-over-financial-irregularities/article71491096.ece)
+- [Delhi Court sets aside Magistrate order refusing probe in Sonia Gandhi’s pre-citizenship electoral entry](https://www.thehindu.com/news/national/delhi-court-sets-aside-magistrate-order-refusing-probe-in-sonia-gandhis-pre-citizenship-electoral-entry/article71490940.ece)
+- [Heavy rainfall forecast in 14 Telangana districts on September 22](https://www.thehindu.com/news/national/telangana/heavy-rainfall-forecast-in-14-telangana-districts-on-september-22/article71490919.ece)
+- [Groundwater crisis in Punjab is widening social and economic divide, finds study](https://www.thehindu.com/news/national/punjab/groundwater-crisis-in-punjab-is-widening-social-and-economic-divide-finds-study/article71490906.ece)
+- [Former V-P Hamid Ansari’s remarks exposed ‘Muslim League-Maoist character’ of Congress, says BJP](https://www.thehindu.com/news/national/former-v-p-hamid-ansaris-remarks-exposed-muslim-league-maoist-character-of-congress-says-bjp/article71491220.ece)
+- [Two Trinamool Congress leaders held in Bengal in connection with attack on Nadda’s convoy six years ago](https://www.thehindu.com/news/national/west-bengal/two-trinamool-congress-leaders-held-in-bengal-in-connection-with-attack-on-naddas-convoy-six-years-ago/article71491202.ece)
+- [Congress says SIT failed to secure CCTV evidence in Sai Krishna custodial death case, seeks CBI probe](https://www.thehindu.com/news/national/andhra-pradesh/congress-says-sit-failed-to-secure-cctv-evidence-in-sai-krishna-custodial-death-case-seeks-cbi-probe/article71490656.ece)
 - [UDF has no plans to revive Loka Kerala Sabha in LDF-era format: Satheesan](https://www.thehindu.com/news/national/kerala/udf-has-no-plans-to-revive-loka-kerala-sabha-in-ldf-era-format-satheesan/article71490923.ece)
-- [Vande Mataram ends after 2 stanzas in Karnataka Assembly and Council; BJP legislators recite full version](https://www.thehindu.com/news/national/karnataka/vande-mataram-ends-after-2-stanzas-in-karnataka-assembly-and-council-bjp-legislators-recite-full-version/article71490386.ece)
-- [Around 20 'unauthorised' homes, farmhouses razed as part of road-widening drive in south Delhi](https://www.thehindu.com/news/national/around-20-unauthorised-homes-farmhouses-razed-as-part-of-road-widening-drive-in-south-delhi/article71491115.ece)
-- [Minor girl, her friend harassed in Bihar’s Jamui; culprits in police custody, political slugfest ensues](https://www.thehindu.com/news/national/bihar/minor-girl-her-friend-harassed-in-bihars-jamui-culprits-in-police-custody-political-slugfest-ensues/article71490725.ece)
-- [23 drug consumers complete de-addiction programme after Telangana’s EAGLE Force operation](https://www.thehindu.com/news/national/telangana/23-drug-consumers-complete-de-addiction-programme-after-telanganas-eagle-force-operation/article71488571.ece)
-- [IIT-Bombay student death case: Dean Professor removed](https://www.thehindu.com/news/national/maharashtra/iit-bombay-student-death-case-dean-professor-removed/article71491033.ece)
-- [IIT-Bombay apologises for earlier statement on circumstances surrounding student’s death](https://www.thehindu.com/news/national/maharashtra/iit-bombay-apologises-for-earlier-statement-on-circumstances-surrounding-students-death/article71490497.ece)
-- [Khadi advocate who humbled global fashion giant Prada with Kolhapuri chappal passes away](https://www.thehindu.com/news/national/karnataka/social-worker-and-handicrafts-promoter-g-n-gopikrishna-passes-away-in-belagavi-prada-khapli-wheat-rava/article71476486.ece)
-- [Music studio set up in 100-year-old home craved by builders in Belagavi](https://www.thehindu.com/news/national/karnataka/music-studio-set-up-in-100-year-old-home-craved-by-builders-in-belagavi/article71490738.ece)
-- [Over 81,000 Ganesh idols immersed across Cyberabad in six days](https://www.thehindu.com/news/cities/Hyderabad/over-81000-ganesh-idols-immersed-across-cyberabad-in-six-days/article71490682.ece)
 
 **Livemint**
+- [Did ‘government of India’ invite applications for free laptops? PIB Fact Check debunks social media posts](https://www.livemint.com/news/india/did-government-of-india-invite-applications-for-free-laptops-pib-fact-check-debunks-social-media-posts-11789989974290.html)
 - [Afghanistan says 3 killed in Pakistani airstrikes: Why tensions are rising again](https://www.livemint.com/news/world/afghanistan-says-3-killed-in-pakistani-airstrikes-why-tensions-are-rising-again-11789979936767.html)
 - [Foreigners shout at Indian passenger at Vienna airport: Social media post sparks debate on how Indians behave abroad](https://www.livemint.com/news/trends/foreigners-shout-at-indian-passenger-at-vienna-airport-social-media-post-sparks-debate-on-how-indians-behave-abroad-11789986910525.html)
 - [Dubai Ruler’s brother dies at 76: Who was Sheikh Ahmed bin Rashid Al Maktoum? Horse racing patron, real estate tycoon](https://www.livemint.com/news/world/dubai-ruler-s-brother-dies-at-76-who-was-sheikh-ahmed-bin-rashid-al-maktoum-horse-racing-patron-real-estate-tycoon-11789985274369.html)
@@ -83,7 +84,6 @@
 - [Who is Abhishek Manu Singhvi? The lawyer who fought for Tata Sons against Mistry is now fighting against it](https://www.livemint.com/news/india/who-is-abhishek-manu-singhvi-the-lawyer-who-fought-for-tata-sons-against-mistry-is-now-fighting-against-it-11789970092458.html)
 - [‘Mard ki aulaad maanunga…’: Why BJP MP Nishikant Dubey filed defamation case against ex-Finance Secretary Subhash Garg](https://www.livemint.com/news/india/mard-ki-aulaad-maanunga-why-bjp-mp-nishikant-dubey-filed-defamation-case-against-ex-finance-secretary-subhash-garg-11789973687416.html)
 - [IIT Bombay suicide case: Crime Branch to summon professor for questioning, students issue 18 demands | Top updates](https://www.livemint.com/news/india/iit-bombay-suicide-case-branch-to-summon-professor-for-questioning-students-issue-18-demands-top-updates-11789971198503.html)
-- [Raj Thackeray reel row: Pune influencer Mahesh Mote allegedly made to prostrate, do sit-ups and record apology](https://www.livemint.com/news/india/raj-thackeray-reel-row-pune-influencer-mahesh-mote-allegedly-made-to-prostrate-do-sit-ups-and-record-apology-11789970977851.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,8 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [Kalaburagi | ಶಿಕ್ಷಕರು ಸಮಾಜದ ಭವಿಷ್ಯ ರೂಪಿಸುವ ಶಕ್ತಿ : ಶಾಸಕ ಅಲ್ಲಮಪ್ರಭು ಪಾಟೀಲ](https://www.varthabharati.in/kalaburagi/kalaburagi-teachers-are-the-force-that-shapes-societys-future-mla-allamaprabhu-patil-2276774)
+- [ಉಪ್ಪು ಅಯೋಡೈಸೇಷನ್‌ನಿಂದ ಭಾರತದ ಮಕ್ಕಳಲ್ಲಿ ಗಾಯಿಟರ್ ಇಳಿಕೆ, ಆದರೆ ಹೆಚ್ಚುತ್ತಿದೆ ಥೈರಾಯ್ಡ್ ಆಟೋಇಮ್ಯೂನಿಟಿ: Lancet ಅಧ್ಯಯನ ವರದಿ](https://www.varthabharati.in/vishesha-varadigalu/salt-iodization-reduces-goiter-in-indian-children-but-thyroid-autoimmunity-is-on-the-rise-lancet-study-report-2276773)
 - [UAE ಉಪಾಧ್ಯಕ್ಷರ ಸಹೋದರ ಶೇಖ್ ಅಹ್ಮದ್ ನಿಧನ; ದುಬೈನಲ್ಲಿ 10 ದಿನಗಳ ಶೋಕಾಚರಣೆ ಘೋಷಣೆ](https://www.varthabharati.in/gulf/sheikh-ahmed-brother-of-the-uae-vice-president-2276772)
 - [ಟೊರೊಂಟೊದಲ್ಲಿ ನಾಗಾಲ್ಯಾಂಡ್ನ ‘ಆಂಗ್’ ಚಿತ್ರಕ್ಕೆ ಪ್ರಶಸ್ತಿ; ನೇರವಾಗಿ ಆಸ್ಕರ್ ಸ್ಪರ್ಧೆಗೆ ಪ್ರವೇಶ](https://www.varthabharati.in/cinema/nagalands-film-ang-wins-award-in-toronto-secures-direct-entry-into-the-oscar-race-2276770)
 - [ಕ್ಲಾಸಿಕ್ ಟ್ರೋಫಿ-2026 | ಸಿಎಫ್‌ಸಿ ಕರಿಂಬಿಲ ಚಾಂಪಿಯನ್, ವೈಕಿಂಗ್ ರನ್ನರ್ ಅಪ್](https://www.varthabharati.in/DakshinaKannada/classic-trophy-2026-cfc-karimbila-champion-viking-runner-up-2276767)
@@ -106,39 +108,37 @@
 - [ಬಿಹಾರದಲ್ಲಿ ಅಪ್ರಾಪ್ತ ಬಾಲಕಿ ಮೇಲೆ ದೌರ್ಜನ್ಯದ ವಿಡಿಯೋ ವೈರಲ್ | ಆರೋಪಿಗಳನ್ನು ಇನ್ನೂ ಏಕೆ ಬಂಧಿಸಿಲ್ಲ?: ರಾಹುಲ್ ಗಾಂಧಿ ಪ್ರಶ್ನೆ](https://www.varthabharati.in/National/rahul-gandhi-questions-why-the-culprits-of-bihar-are-still-not-arrested-in-regards-to-girls-harassment-2276763)
 - [ಒಂದು ಪ್ರಕರಣದಲ್ಲಿ ಜಾಮೀನು ಸಿಗದಿದ್ದರೂ ಮತ್ತೊಂದು ಪ್ರಕರಣದಲ್ಲಿ ನಿರೀಕ್ಷಣಾ ಜಾಮೀನು ಕೇಳಬಹುದು: ಸುಪ್ರೀಂ ಕೋರ್ಟ್](https://www.varthabharati.in/National/one-can-seek-bail-in-another-case-if-denied-bail-for-the-one-says-supreme-court-2276762)
 - [ಹುಬ್ಬಳ್ಳಿ-ಧಾರವಾಡಕ್ಕೆ ಮಹಾದಾಯಿ ಯೋಜನೆ ನೀರು: ಅನುಮತಿಗಾಗಿ ಮನಪಾ ಸಭೆ ಕರೆಯಲು ರೈತರ ಆಗ್ರಹ](https://www.varthabharati.in/dharwad/mahadayi-project-2276759)
-- [Asian Games | MMA ಸೆಮಿಫೈನಲ್: ಡ್ರಾ ಬಳಿಕ ಸೋತರೂ ಕಂಚಿನೊಂದಿಗೆ ಐತಿಹಾಸಿಕ ಸಾಧನೆ ಮಾಡಿದ ಭಾರತದ ಸುಚಿಕಾ ತರಿಯಾಲ್](https://www.varthabharati.in/sports/indian-mma-wrestler-scripts-history-even-after-losing-silver-2276758)
-- [ವಿದ್ಯಾರ್ಥಿ ಸಾವಿನ ಕುರಿತ ಹೇಳಿಕೆಗೆ ಕ್ಷಮೆಯಾಚಿಸಿದ ಐಐಟಿ ಬಾಂಬೆ](https://www.varthabharati.in/National/iit-bombay-issues-apology-for-the-statement-about-the-students-death-2276755)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
-- Jamui (4.2)
-- Bihar (3.9)
-- Asian Games (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
-- What (2.6)
+- India (2.9)
+- Congress (2.9)
+- Jamui (2.9)
+- Bihar (2.6)
 - Iran (2.6)
 - Opinion (2.6)
 - Kasturirangan (2.6)
-- Delhi (2.6)
-- IIT-Bombay (2.6)
+- Asian Games (2.0)
 - IIT Bombay (2.0)
 - Buy Bajaj Finance (2.0)
 - case (1.8)
+- Russia (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [બોલેરોએ પાંચ વાહનને હડફેટે લઈ બાઈક ચાલકને કચડયા](https://www.gujaratsamachar.com/news/rajkot/bolero-hits-five-vehicles-crushes-biker-23683416071)
+- [મોરબીમાં ભાજપના નગરસેવિકાના પતિ દ્વારા લાચાર મહિલા પર દુષ્કર્મ](https://www.gujaratsamachar.com/news/morbi/helpless-woman-raped-by-husband-of-bjp-corporator-in-morbi-36304883325)
+- [हद में रहें, ओछी राजनीति... राहुल गांधी के इंदौर कार्यक्रम में पीएम मोदी की मां पर मिमिक्री, महाराष्ट्र में घमासान](https://navbharattimes.indiatimes.com/metro/mumbai/politics/pm-modi-mimicry-at-rahul-gandhi-indore-event-maharashtra-bjp-shiv-sena-attacks-congress/articleshow/134377234.cms)
+- [HILT Policy | 10,000 కోట్ల భూమికి ఎసరు.. హిల్ట్‌ ముసుగులో భూములు హాంఫట్‌!](https://www.ntnews.com/telangana/gopanpally-98-acre-aluminium-factory-land-now-worth-thousands-of-crores-2515939)
+- [ఓపెన్‌ ఏఐని హ్యాక్‌ చేసిన ఏపీ సర్కారీ బడి పూర్వ విద్యార్థి](https://www.andhrajyothy.com/2026/national/ap-government-school-alumnus-hacks-openai-1559878.html)
 - [યુક્રેને રશિયા પર 1100 ડ્રોન છોડયા રાજધાની મોસ્કો પર સૌથી મોટો હુમલો](https://www.gujaratsamachar.com/news/international/ukraine-launches-1100-drones-on-russia-biggest-attack-on-capital-moscow-95215917670)
 - [बंगाल की खाड़ी में बना ऐसा सिस्टम, यूपी से ओडिशा तक तूफानी बारिश का अलर्ट; चलेंगी तेज हवाएं](https://www.livehindustan.com/weather/heavy-rain-alert-up-bihar-odisha-bengal-low-pressure-formed-bhari-barish-201789946207655.html)
 - [ఖైరతాబాద్‌లో కాంగ్రెస్‌ ఖేల్‌ ఖతం](https://www.ntnews.com/telangana/mlc-dasoju-sravan-says-congress-finished-in-khairatabad-2515871)
 - [Congress | కాంగ్రెస్‌ రాజ్యంలో కౌరవ పాలన.. కాంట్రాక్ట్‌ కావాలంటే.. గెస్ట్‌హౌస్‌కు రావాల్సిందే!](https://www.ntnews.com/telangana/woman-entrepreneur-alleges-harassment-over-government-advertisement-contract-in-telangana-2515837)
 - [কুড়মি আন্দোলনের সব মামলা প্রত্যাহারের ঘোষণাও শুভেন্দুর](https://eisamay.com/west-bengal-news/bankura-purulia-jhargram-news/all-cases-against-kurmi-community-to-be-with-drawn-says-cm-suvendu-adhikari/200545320.cms)
-- [పూజిత హ్యాట్రిక్‌.. అమరావతి ఈ ఛాంపియన్స్‌కు వరుసగా రెండో విజయం](https://www.eenadu.net/telugu-news/sports/pujitha-hattrick-fires-amaravati-echampions-past-rayalaseema-zen-stars-in-wapl/0499/126170371)
-- [3 killed as speeding BMW crashes into divider on Mumbai’s Coastal Road](https://indianexpress.com/article/cities/mumbai/three-killed-one-critically-injured-as-speeding-bmw-crashes-on-mumbai-coastal-road-10885842/)
-- [பர்சனல் லோனை முன்கூட்டியே கட்டினால் சிபில் ஸ்கோர் குறையுமா?](https://www.dinamalar.com/news/premium-news/will-your-cibil-score-go-down-if-you-pay-off-your-personal-loan-early/4328406)
-- [வலிந்து நுழைக்கப்பட்ட இடைத்தேர்தல்... உணர்ந்து மக்கள் வாக்களிப்பார்களா?](https://www.vikatan.com/government-and-politics/governance/editorial-page-vikatan-plus-september-27-2026)
-- [யு.பி.ஐ., பரிவர்த்தனை கட்டணம் வளர்ச்சி பயணத்திற்கு அவசியம்!](https://www.dinamalar.com/weekly/thalaiyangam/transaction-fee-is-essential-to-the-upis-growth-journey/4328385)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
