@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-21 00:02:13
+# India Trending Report — 2026-09-21 00:40:37
 
 ## Google Trends (India) — top trending searches
 1. [nfl](https://trends.google.com/trending/rss?geo=IN)
@@ -7,16 +7,16 @@
 4. [tata aeris](https://trends.google.com/trending/rss?geo=IN)
 5. [man utd](https://trends.google.com/trending/rss?geo=IN)
 6. [clock](https://trends.google.com/trending/rss?geo=IN)
-7. [laliga](https://trends.google.com/trending/rss?geo=IN)
-8. [epl](https://trends.google.com/trending/rss?geo=IN)
-9. [spider man brand new day](https://trends.google.com/trending/rss?geo=IN)
-10. [real madrid](https://trends.google.com/trending/rss?geo=IN)
+7. [atlético madrid vs real madrid](https://trends.google.com/trending/rss?geo=IN)
+8. [laliga](https://trends.google.com/trending/rss?geo=IN)
+9. [epl](https://trends.google.com/trending/rss?geo=IN)
+10. [spider man brand new day](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Bengal SIR tribunals may take 12 years to decide on appeals](https://timesofindia.indiatimes.com/india/bengal-sir-tribunals-may-take-12-years-to-decide-on-appeals/articleshow/134376466.cms)
-- [Indian-origin climber Dhrubajyoti Guha, Nepalese guide killed in Manaslu avalanche](https://timesofindia.indiatimes.com/world/south-asia/indian-origin-climber-nepalese-guide-killed-in-manaslu-avalanche/articleshow/134371124.cms)
 - [Tata dipute: Lawyers Singhvi, Salve now on opposing sides](https://timesofindia.indiatimes.com/business/india-business/tata-dipute-singhvi-salve-now-on-opposing-sides/articleshow/134375598.cms)
+- [Indian-origin climber, Nepalese guide killed in Manaslu avalanche](https://timesofindia.indiatimes.com/world/south-asia/indian-origin-climber-nepalese-guide-killed-in-manaslu-avalanche/articleshow/134371124.cms)
 - [Iran threatens 'painful retaliation' if US strikes as Trump warns of 'big things'](https://timesofindia.indiatimes.com/world/middle-east/iran-warns-us-allies-against-new-attack-threatens-retaliation/articleshow/134374995.cms)
 - [Delhi SIRprises: Jaishankar, Dhankhar, Advani & more issued notices for ‘discrepancies’](https://timesofindia.indiatimes.com/city/delhi/lk-advani-dhankar-sisodia-also-issued-sir-notices/articleshow/134372553.cms)
 - [Atlanta man arrested after phone wipe; new ruling allows border searches](https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms)
@@ -50,16 +50,16 @@
 - [Ahmedabad Crime Branch arrests man wanted for 24 years in Rajasthan murder case](https://www.hindustantimes.com/india-news/ahmedabad-crime-branch-arrests-man-wanted-for-24-years-in-rajasthan-murder-case-101789916066672.html)
 
 **Vijay Karnataka**
+- [ಯುವ ಮೆರಿಡಿಯನ್‌ ಹೋಟೆಲ್ ಈಗ ಫಿಲ್ಮ್‌ ಸಿಟಿ; ʼಕಾಂತಾರ ಕಥೆ ಹುಟ್ಟಿದ್ದು ಇಲ್ಲೇʼ.. ಶೂಟಿಂಗ್ ಸೆಟ್ ಸೀಕ್ರೆಟ್ ಬಿಚ್ಚಿಟ್ಟ ನಟ ರಿಷಬ್‌ ಶೆಟ್ಟಿ!](https://vijaykarnataka.com/news/udupi/uva-meridian-hotel-now-film-city-rishabh-shetty-reveals-kantara-movie-story-shooting-set-secretes-in-meridian-bay/articleshow/134377186.cms)
 - [ಕಾರ್ಪೊರೇಟ್ ಕೆಲಸ ಬಿಟ್ಟು ಮಣ್ಣಿಗಿಳಿದ ಯುವತಿ; ಕ್ಯಾಪ್ಸಿಕಂ ಬೆಳೆದು ವರ್ಷಕ್ಕೆ 4 ಕೋಟಿ ರೂ. ಗಳಿಸುತ್ತಿರುವ ಪ್ರಣೀತಾ ವಮನ್ ಯಶೋಗಾಥೆ!](https://vijaykarnataka.com/business/news/young-woman-quits-corporate-job-to-turn-to-farming-the-success-story-of-pranitha-vaman-earns-4-crore-rs-growing-capsicum/articleshow/134368545.cms)
 - [ಗದಗ ತಾಲೂಕು ಬರಪೀಡಿತ ಎಂದು ಘೋಷಿಸದಿದ್ದರೆ ಶಾಸಕ ಸ್ಥಾನಕ್ಕೆ ರಾಜೀನಾಮೆ: ಹಿರಿಯ ಕಾಂಗ್ರೆಸಿಗ ಎಚ್ ಕೆ ಪಾಟೀಲ್ ಎಚ್ಚರಿಕೆ](https://vijaykarnataka.com/news/gadaga/h-k-patil-warns-resign-as-mla-if-gadag-taluk-is-not-declare-drought-hit/articleshow/134367365.cms)
-- [`ದೇಶದಲ್ಲಿ ಹುಲಿ, ವಿದೇಶದಲ್ಲಿ ಬೆಕ್ಕು'!: ಅಭಿಷೇಕ್ ಶರ್ಮಾ, ವೈಭವ್ ಸೂರ್ಯವಂಶಿ ಬಗ್ಗೆ ಹೊಗಳುತ್ತಲೇ ಚಾಟಿ ಬೀಸಿದ ಸಂದೀಪ್ ಪಾಟೀಲ್](https://vijaykarnataka.com/sports/cricket/news/sandeep-patil-warns-abhishek-sharma-vaibhav-sooryavanshi-about-failure-in-oversees-against-swing-bowling/articleshow/134370542.cms)
 - [ಪಟೋಲಾ ಕುರ್ತಾದಲ್ಲಿ ಮಿಂಚಿದ ದೀಪಿಕಾ ಪಡುಕೋಣೆ; ಸಿದ್ಧಿವಿನಾಯಕ ದರ್ಶನಕ್ಕೆ ಬಂದ ನಟಿಯ ಲುಕ್ ವೈರಲ್!](https://vijaykarnataka.com/lifestyle/fashion/deepika-padukone-siddhivinayak-temple-patola-kurta-look/articleshow/134352111.cms)
-- [ವ್ಹೀಲಿಂಗ್ ಪುಂಡರನ್ನು ತಪ್ಪಿಸುವ ಯತ್ನದಲ್ಲಿ ಟೆಂಪೋ ಟ್ರಾವೆಲರ್ ಅಪಘಾತ, ಯುವಕ ಸಾವು; ನಾಗರಬಾವಿ ಬಳಿ ಹೃದಯ ವಿದ್ರಾವಕ ಘಟನೆ](https://vijaykarnataka.com/news/bengaluru-city/tempo-traveller-accident-due-to-wheelying-stunt-by-youth-near-nagarabhavi-one-youth-dies-six-injury/articleshow/134372079.cms)
+- [`ದೇಶದಲ್ಲಿ ಹುಲಿ, ವಿದೇಶದಲ್ಲಿ ಬೆಕ್ಕು'!: ಅಭಿಷೇಕ್ ಶರ್ಮಾ, ವೈಭವ್ ಸೂರ್ಯವಂಶಿ ಬಗ್ಗೆ ಹೊಗಳುತ್ತಲೇ ಚಾಟಿ ಬೀಸಿದ ಸಂದೀಪ್ ಪಾಟೀಲ್](https://vijaykarnataka.com/sports/cricket/news/sandeep-patil-warns-abhishek-sharma-vaibhav-sooryavanshi-about-failure-in-oversees-against-swing-bowling/articleshow/134370542.cms)
 - [ʻಬಿಗ್‌ ಬಾಸ್‌ 18 ಪ್ಲಸ್‌ ಅಲ್ಲ..ʼ: ‌ಸೌಂದರ್ಯ ತೇಜೋವಧೆ ಮಾಡಿದ ಮಂಜನಿಗೆ ಕಿಚ್ಚ ಸುದೀಪ್ ವಾರ್ನಿಂಗ್](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-13-kiccha-sudeep-takes-class-on-manja-over-soundarya-shetty/articleshow/134374916.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [ಚಾಣಕ್ಯ ನೀತಿ: ಈ 3 ಜನರೊಂದಿಗೆ ಶತ್ರುತ್ವ ಹೊಂದದಿರಲು ಕಾರಣ.!](https://vijaykarnataka.com/religion/hinduism/chanakya-niti-says-do-not-make-enmity-with-these-3-kind-of-people/articleshow/134352052.cms)
 - [ಕತ್ರಿನಾ ಕೈಫ್ ದಪ್ಪ ಆಗಿದ್ದಾರೆಂದು ಟ್ರೋಲ್ ಹೆರಿಗೆ ಬಳಿಕ ದೇಹದಲ್ಲಿ ಆಗುವ ಸಾಮಾನ್ಯ ಬದಲಾವಣೆಗಳೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/katrina-kaif-postpartum-body-changes-women-after-pregnancy/articleshow/134348311.cms)
-- [ಆನ್‌ಲೈನ್‌ ಟ್ರೇಡಿಂಗ್‌ ನೆಪದಲ್ಲಿ ಪಂಗನಾಮ ಹಾಕಿದ ಬೆಂಗಳೂರಿನ ಮೂವರು ವಂಚಕರ ಸೆರೆ; ಹೀಗೂ ಮೋಸ ಮಾಡ್ತಾರೆ ಜಾಗ್ರತೆಯಾಗಿರಿ!](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-poice-arests-3-fraudsters-online-trading-/articleshow/134371389.cms)
+- [ವ್ಹೀಲಿಂಗ್ ಪುಂಡರನ್ನು ತಪ್ಪಿಸುವ ಯತ್ನದಲ್ಲಿ ಟೆಂಪೋ ಟ್ರಾವೆಲರ್ ಅಪಘಾತ, ಯುವಕ ಸಾವು; ನಾಗರಬಾವಿ ಬಳಿ ಹೃದಯ ವಿದ್ರಾವಕ ಘಟನೆ](https://vijaykarnataka.com/news/bengaluru-city/tempo-traveller-accident-due-to-wheelying-stunt-by-youth-near-nagarabhavi-one-youth-dies-six-injury/articleshow/134372079.cms)
 
 **The Hindu**
 - [Heavy rains, squally wind likely in West Bengal from September 22](https://www.thehindu.com/news/national/west-bengal/heavy-rains-squally-wind-likely-in-west-bengal-from-september-22/article71488466.ece)
@@ -74,6 +74,7 @@
 - [Boating to boost tourism at Peruvannamuzhi](https://www.thehindu.com/news/national/kerala/boating-to-boost-tourism-at-peruvannamuzhi/article71487538.ece)
 
 **Livemint**
+- [Man Shot by ICE Agent in Austin, Texas, Sparking Mayor’s Ire](https://www.livemint.com/news/man-shot-by-ice-agent-in-austin-texas-sparking-mayor-s-ire-11789949689784.html)
 - [Dutch Police Break Up Violent Far-Right Protest in The Hague](https://www.livemint.com/news/dutch-police-break-up-violent-far-right-protest-in-the-hague-11789946269251.html)
 - [What time is 60 Minutes on tonight? How to watch Patrick Clancy’s first TV interview on CBS](https://www.livemint.com/news/us-news/what-time-is-60-minutes-on-tonight-how-to-watch-patrick-clancy-s-first-tv-interview-on-cbs-11789938984690.html)
 - [‘Gaslit by a king’: Charles Spencer breaks silence after Palace response to his Diana memoir](https://www.livemint.com/news/world/gaslit-by-a-king-charles-spencer-breaks-silence-after-palace-response-to-his-diana-memoir-swan-song-11789924380610.html)
@@ -83,7 +84,6 @@
 - [Etihad Delhi-Abu Dhabi flight cancellation: What rules say about compensation when technical issues disrupt travel](https://www.livemint.com/news/india/etihad-delhi-abu-dhabi-flight-cancellation-what-rules-say-about-compensation-when-technical-issues-disrupt-travel-11789927190997.html)
 - [Karnataka FDA cracks down on fake drug racket: 24 licences hit,  ₹5 cr stock seized — what did it find during raid?](https://www.livemint.com/news/india/karnataka-fda-cracks-down-on-fake-drug-racket-24-licences-hit-rs-5-cr-stock-seized-what-did-it-find-during-raid-11789924262491.html)
 - [iPhone langar cancelled? Who is Raja D King, influencer and businessman whose event has been stopped in Chandigarh](https://www.livemint.com/news/trends/iphone-langar-cancelled-who-is-raja-d-king-influencer-and-businessman-whose-event-has-been-stopped-in-chandigarh-11789924761582.html)
-- [Bengaluru Software Charge: Property owners to pay additional fee with tax, here's what it is and how much it can cost](https://www.livemint.com/news/bengaluru-software-charge-property-owners-to-pay-additional-fee-with-tax-heres-what-it-is-and-how-much-it-can-cost-11789921734374.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -111,24 +111,24 @@
 - Salve (1.6)
 - Rajasthan (1.6)
 - Seva (1.6)
-- Bengaluru (1.6)
 - Indian-origin (1.3)
 - Nepalese (1.3)
 - Manaslu (1.3)
+- Iran (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Legendary actor Sivaji Ganesan's eldest daughter dies](https://m.rediff.com/news/commentary/2026/sep/20/legendary-actor-sivaji-ganesans-eldest-daughter-dies/936ff04f9d374aabb205903d288b6b4a)
-- [How one India T20I could become Japanese cricket's defining moment](https://timesofindia.indiatimes.com/sports/cricket/news/how-one-india-t20i-could-become-japanese-crickets-defining-moment/articleshow/134367678.cms)
-- [Cricket Video : चायना स्टंप असतील तर असंच होणार! क्रिक्रेट मॅचमधील तो व्हिडीओ तुफान व्हायरल, चेंडू स्टंपला लागला तरी…](https://www.tv9marathi.com/sports/cricket-news/cricket-stadium-viral-video-netizens-said-when-the-wickets-are-made-in-china-this-is-what-happens-1760432.html)
-- [பெட்ரோல் -டீசல் பில் ரூ.2000 க்கு மேல் இருந்தால் UPI கிடையாது : மத்திய பிரதேச டீலர்களின் அதிரடி முடிவு : முழு விவரம்](https://tamil.economictimes.com/personal-finance/mp-petrol-dealers-rule-on-no-upi-about-2000rs-full-details/articleshow/134367977.cms)
-- [रूस में मतदान के बीच बड़ा हमला, यूक्रेन ने मॉस्को पर दागे 1600 से अधिक ड्रोन; रिफाइनरी तबाह](https://www.jagran.com/world/russia-ukraine-drones-hit-moscow-during-elections-refinery-damaged-40379438.html)
-- [ഇടുക്കി വട്ടവടയിൽ മണ്ണിടിച്ചിൽ; രണ്ട് പേർക്ക് ദാരുണാന്ത്യം, ഒരാൾക്ക് ഗുരുതര പരിക്ക്; മരിച്ചത് കൊട്ടക്കമ്പൂർ സ്വദേശികൾ](https://www.asianetnews.com/kerala-news/two-people-died-in-vattavada-idukki-landslide-articleshow-q1legta)
-- [SIR : જયશંકર, અડવાણી, કેજરીવાલને ચૂંટણી પંચની નોટિસ, લિસ્ટમાં ચૂંટણી કમિશનર સહિત અનેક VIP નામ](https://www.gujaratsamachar.com/news/national/sir-notice-to-election-commissioner-ss-sandhu-list-also-includes-names-of-external-affairs-minister-jaishankar-advani-and-singhvi-68594803333)
-- [Chiranjeevi Kaaka : మరోసారి చిరు లీక్స్ - 'కాకా'కు కదిరికి లింక్ ఏంటో చెప్పేసిన మెగాస్టార్... ఫ్యాన్స్ వెయిటింగ్](https://telugu.abplive.com/entertainment/cinema/chiranjeevi-leaked-his-character-name-in-bobby-kolli-kaaka-movie-chiru-leaks-trending-watch-video-259449)
-- ['27,000 votes, 27 seats': Akhilesh lays out Samajwadi Party strategy to counter BJP in UP polls](https://timesofindia.indiatimes.com/india/27000-votes-27-seats-akhilesh-lays-out-samajwadi-party-strategy-to-counter-bjp-in-up-polls/articleshow/134367945.cms)
-- [എസ്എഫ്ഐ സ്കൂൾ കുട്ടികളുടെ 'പൂക്കി' ബാനറിൽ വിവാദം കത്തുന്നു, പോലീസ് മേധാവിക്ക് പരാതി നൽകി കെഎസ്‌യു](https://www.asianetnews.com/kerala-news/sfi-pookkie-banner-controversy-escalates-ksu-files-complaint-with-kollam-district-police-chief-articleshow-7wtdsxf)
+- [Harish Rao | లాగ్‌బుక్స్‌ మాయం.. ప్రజా సమస్యలు వదిలేసి మా పొలాల దగ్గర తిరుగుతున్నారు : హరీశ్‌ రావు](https://www.ntnews.com/nalgonda/yadadri/congress-leaders-moving-around-our-paddy-fields-with-neglecting-of-public-issues-says-harish-rao-2515510)
+- [தஞ்சை உள்பட 21 மாவட்டங்களில் கனமழைக்கு வாய்ப்பு - வானிலை ஆய்வு மையம் தகவல்](https://www.hindutamil.in/news/tamilnadu/heavy-rain-forecast-for-21-districts-including-delta-region)
+- [రెండు జిల్లాల మధ్య సరిహద్దు వివాదం.. రూ.3 వేల కోట్ల విలువైన భూమికి యజమానులెవరు? 60 ఏళ్లుగా లభించని పరిష్కారం..!](https://telugu.samayam.com/telangana/hyderabad/boundary-dispute-between-medchal-malkajgiri-and-yadadri-bhuvanagiri-districts-leaves-rs-3k-cr-land-claim-unresolved/articleshow/134368209.cms)
+- [Saurashtra Rain: ગીર સોમનાથમાં વીજળી પડતા એકનું મોત, સૌરાષ્ટ્રના 5 જિલ્લામાં ધોધમાર વરસાદથી જળબંબાકાર](https://gujarati.abplive.com/news/gujarat/saurashtra-heavy-rain-amreli-junagadh-waterlogging-weather-updates-991647)
+- [Upcoming IPO : આવતા અઠવાડિયે આવશે 6 મેઇનબોર્ડ IPO, NSE સહિત 12 લિસ્ટિંગ પર નજર, જાણો વિગત](https://tv9gujarati.com/business/september-ipo-boom-19-new-ipos-open-next-week-1519312.html)
+- ['रिमोट सेंसिंग तकनीक से कराएंगे फेक एनकाउंटर की जांच', अखिलेश यादव ने बीजेपी पर बोला हमला](https://www.jagran.com/uttar-pradesh/lucknow-city-akhilesh-yadav-vows-fake-encounter-probe-with-remote-sensing-40379467.html)
+- [Old era of jingoism, equating Nepali nationalism with anti-Indianism, is over: Nepal Finance Minister](https://www.thehindu.com/news/national/old-era-of-jingoism-equating-nepali-nationalism-with-anti-indianism-is-over-nepal-finance-minister/article71487515.ece)
+- [चंद्रशेखरन की ताजपोशी को Tata Trust ने बताया गैर-कानूनी, खारिज किया बोर्ड का फैसला](https://www.abplive.com/business/tata-trusts-terms-chandrasekaran-appointment-illegal-rejects-board-decision-3191515)
+- [નવરાત્રીમાં ભાડે મળશે ગરબા પાર્ટનર? વાયરલ પોસ્ટ પર સાયબર ક્રાઈમની મોટી ચેતવણી](https://gujarati.abplive.com/news/gujarat/rent-a-garba-partner-viral-post-navratri-ahmedabad-cyber-crime-alert-991644)
+- [दुष्काळ जाहीर करा, विकासकामे थांबवा, संकटात सापडलेल्या शेतकऱ्यांना जगवण्यासाठी खर्च करा, रोहित पवारांची सरकारकडे मागणी](https://marathi.abplive.com/agriculture/rohit-pawar-is-on-a-tour-to-inspect-the-drought-affected-regions-of-marathwada-and-has-demanded-that-the-government-provide-assistance-to-the-farmers-1439700)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
