@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-22 23:02:01
+# India Trending Report — 2026-09-22 23:33:04
 
 ## Google Trends (India) — top trending searches
 1. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
@@ -15,15 +15,15 @@
 ## Latest headlines by outlet
 **Times of India**
 - ['Told him to tolerate it': Parents regret advice to kid in IIT-B suicide case](https://timesofindia.indiatimes.com/city/mumbai/made-a-mistake-by-telling-him-to-tolerate-it-grieving-parents-demand-arrests-in-iit-bombay-student-suicide-case/articleshow/134414786.cms)
+- [‘Vande Mataram’ row: Courts can’t dictate what nat’l song should be, says SC](https://timesofindia.indiatimes.com/india/courts-cant-dictate-what-natl-song-should-be-shouldnt-punish-for-refusing-to-sing-vande-mataram-supreme-court/articleshow/134423155.cms)
 - [From ‘annihilate Iran’ to ‘super intelligence’, Trump boasts of US power at UNGA](https://timesofindia.indiatimes.com/world/us/trump-threatens-to-annihilate-iran-make-a-deal-or-get-destroyed/articleshow/134417865.cms)
+- [No rule stops airport companies from having airlines: Govt](https://timesofindia.indiatimes.com/business/india-business/no-rule-stops-airport-companies-from-having-airlines-govt/articleshow/134423179.cms)
 - [In a first, US F-35 fighters to take part in IAF exercise](https://timesofindia.indiatimes.com/defence/news/in-a-first-uss-5th-gen-stealth-jet-f-35-to-take-part-in-iafs-multinational-exercise-tarang-shakti/articleshow/134423102.cms)
-- [The China+1 question: Does India lose if Trump and Xi make peace?](https://timesofindia.indiatimes.com/business/india-business/from-chips-to-china1-five-reasons-india-should-watch-trump-xi-handshake/articleshow/134411510.cms)
-- [US approves $425 million sale of MH-60R Seahawk helicopters and equipments to Denmark](https://timesofindia.indiatimes.com/defence/international/us-approves-425-million-sale-of-mh-60r-seahawk-helicopters-and-equipments-to-denmark/articleshow/134418132.cms)
 - [MediaTek targets Qualcomm's fortress with an unmatched new weapon](https://timesofindia.indiatimes.com/technology/tech-news/mediatek-seems-ready-to-storm-into-qualcomms-biggest-fortress-and-with-a-weapon-that-american-chip-maker-still-has-no-answer-to/articleshow/134412852.cms)
-- [ED appeal ‘abuse of process’ in National Herald case: Gandhis](https://timesofindia.indiatimes.com/india/ed-appeal-abuse-of-process-in-national-herald-case-gandhis/articleshow/134423114.cms)
+- [The China+1 question: Does India lose if Trump and Xi make peace?](https://timesofindia.indiatimes.com/business/india-business/from-chips-to-china1-five-reasons-india-should-watch-trump-xi-handshake/articleshow/134411510.cms)
 - [Gold jumps 60% to Rs 1.57L from Rs 98,000 a year ago; sales fall 15%, coins gain](https://timesofindia.indiatimes.com/business/india-business/gold-prices-surge-60-from-rs-98000-to-rs-1-57-lakh-per-10-grams-in-a-year-ganesh-chaturthi-sales-fall-15-as-buyers-switch-to-lighter-jewellery-also-buy-coins/articleshow/134405905.cms)
-- [Ahead of ‘firing’ deaths anniversary, promise of Article 371 framework for Ladakh](https://timesofindia.indiatimes.com/india/ahead-of-firing-deaths-anniversary-promise-of-article-371-framework-for-ladakh/articleshow/134420177.cms)
-- [Vietnam to Colombo flight makes emergency landing at Chennai airport](https://timesofindia.indiatimes.com/city/chennai/vietjet-flight-makes-emergency-landing-at-chennai-airport/articleshow/134418100.cms)
+- [US approves $425 million sale of MH-60R Seahawk helicopters and equipments to Denmark](https://timesofindia.indiatimes.com/defence/international/us-approves-425-million-sale-of-mh-60r-seahawk-helicopters-and-equipments-to-denmark/articleshow/134418132.cms)
+- [Exorbitant pricing of drugs is ‘extortion': Supreme Court](https://timesofindia.indiatimes.com/india/exorbitant-pricing-of-drugs-is-extortion-supreme-court/articleshow/134423165.cms)
 
 **NDTV**
 - [Anthropic Launches New Version Of Its Claude Amid Global AI Slowdown Calls](https://www.ndtv.com/world-news/anthropic-launches-new-version-of-its-claude-amid-global-ai-slowdown-calls-12083903#publisher=newsstand)
@@ -62,6 +62,9 @@
 - [ಗೃಹಲಕ್ಷ್ಮಿ ಯೋಜನೆ ಮರುಪರಿಶೀಲನೆ: ಹೊಸ ಮಾರ್ಗಸೂಚಿ 17 ಪ್ರಶ್ನೆಗಳು; ಕುಟುಂಬದ ಯಜಮಾನನ ಆಧಾರ್‌ ಕಡ್ಡಾಯ ಸೇರಿ ಹಲವು ನಿಯಮ](https://vijaykarnataka.com/news/karnataka/review-of-gruha-lakshmi-scheme-new-guidelines-17-questions-aadhaar-of-male-head-of-family-also-mandatory/articleshow/134415708.cms)
 
 **The Hindu**
+- [Asian Games 2026 LIVE | Men’s Singles: Jay Meena in quarterfinal against Sherwin Nuguit](https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-23-2026/article71496842.ece)
+- [Maharashtra SIR: 30% electorate likely to be disenfranchised, says Congress](https://www.thehindu.com/news/national/maharashtra/206-crore-voter-roll-exclusions-in-maharashtra-alarming-says-congress-seeks-probe/article71495289.ece)
+- [BJP MLA stirs row with ‘Muslims should bring their daughters, sisters’ to Garba remarks](https://www.thehindu.com/news/national/madhya-pradesh/bjp-mla-stirs-row-with-muslims-should-bring-their-daughters-sisters-to-garba-remarks/article71496775.ece)
 - [Astha Kunj Park gang-rape: LSR suspends classes; students consider leaving Delhi amid safety fears](https://www.thehindu.com/news/cities/Delhi/astha-kunj-park-gang-rape-lsr-suspends-classes-students-consider-leaving-delhi-amid-safety-fears/article71496925.ece)
 - [World Rhino Day focus on India-Bhutan joint conservation](https://www.thehindu.com/news/national/assam/world-rhino-day-focus-on-india-bhutan-joint-conservation/article71496029.ece)
 - [M.P. Minister expresses regret on body-shaming remarks on woman colleague after backlash](https://www.thehindu.com/news/national/madhya-pradesh/mp-minister-expresses-regret-on-body-shaming-remarks-on-woman-colleague-after-backlash/article71496305.ece)
@@ -69,9 +72,6 @@
 - [FACT foundation day observed](https://www.thehindu.com/news/national/kerala/fact-foundation-day-observed-cpi-alleges-bid-to-glorify-cp-ramaswamy-iyer/article71496727.ece)
 - [Monsoon Session of Odisha House witnesses ruckus over textbook errors, mines Act](https://www.thehindu.com/news/national/odisha/monsoon-session-of-odisha-house-witnesses-ruckus-over-textbook-errors-mines-law/article71496021.ece)
 - [Probe sought into alleged secrecy over Assembly panel’s visit to Aralam farm](https://www.thehindu.com/news/national/kerala/probe-sought-into-alleged-secrecy-over-assembly-panels-visit-to-aralam-farm/article71496466.ece)
-- [BJP maintains dominance in Rajasthan urban bodies by winning 6 deputy mayor seats](https://www.thehindu.com/news/national/rajasthan/bjpmaintains-dominance-in-rajasthan-urban-bodies-by-winning-6-deputy-mayor-seats/article71496437.ece)
-- [Freezing democracy: On the Election Commission of India and West Bengal](https://www.thehindu.com/opinion/editorial/freezing-democracy-on-the-eci-and-west-bengal/article71495672.ece)
-- [Haryana police use water cannons, tear gas to disperse farmers protesting paddy procurement delay](https://www.thehindu.com/news/national/haryana/haryana-police-use-water-cannons-tear-gas-to-disperse-farmers-protesting-paddy-procurement-delay/article71496152.ece)
 
 **Livemint**
 - [Hurricane Polo Becomes One of 2026’s Strongest Storms Off Mexico](https://www.livemint.com/news/hurricane-polo-becomes-one-of-2026-s-strongest-storms-off-mexico-11790115282361.html)
@@ -103,32 +103,32 @@
 - Trump (5.4)
 - Iran (3.9)
 - UNGA (3.9)
-- India (2.9)
 - What (2.9)
+- Govt (2.6)
+- India (1.6)
 - Denmark (1.6)
-- Bengal (1.6)
 - Odisha (1.6)
 - Delhi (1.6)
-- case (1.5)
 - Told (1.3)
 - Parents (1.3)
 - IIT-B (1.3)
-- Seahawk (1.3)
+- Courts (1.3)
 - MediaTek (1.3)
+- Qualcomm's (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [সৃজলা সামনে এলেই বদলে যায় দুর্নিবার? গায়কের বডি ল্যাংগুয়েজ নিয়ে প্রশ্ন ঝিলামের](https://bengali.indianexpress.com/entertainment/bigg-boss-bangla-jhilam-warns-durnibar-srijla-body-language-12563414)
-- [Rani Mukerji Mother Death: প্রয়াত রানি মুখোপাধ্যায়ের মা কৃষ্ণা , বয়স হয়েছিল ৭৫ বছর](https://bangla.asianetnews.com/entertainment/bollywood-actor-rani-mukerji-mother-krishna-mukerji-passes-away/articleshow-57tphn7)
-- [NSE ஐபிஓ ஷேர்மார்க்கெட் வருவதற்கு, வங்கிகளுக்கு மட்டுமே ரூ.186 கோடி கட்டணம்](https://tamil.economictimes.com/nse-ipo-186-crore-fees-to-20-banks-huge-demand-from-investors/articleshow/134410308.cms)
-- [ഓച്ചിറ കാളകെട്ട് ഉത്സവം; നാളെ പ്രാദേശിക അവധി, മൂന്ന് താലൂക്കുകളില്‍ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾക്കും സർക്കാർ ഓഫീസുകൾക്കും ബാധകം](https://www.asianetnews.com/kerala-news/holiday-for-three-taluks-tomorrow-holiday-for-karunagappally-karthikappally-and-mavelikkara-articleshow-nxr9zh6)
-- [National Film Awards 2026 LIVE: Aditya Dhar hopes to return with Dhurandhar next year, Yami Gautam gushes on her win](https://www.hindustantimes.com/entertainment/bollywood/72nd-national-film-awards-2026-live-updates-kartik-aryan-yami-gautam-mammootty-president-droupadi-murmur-101790061352035.html)
-- ["हम होर्मुज खोलने को तैयार हैं, अगर...." ईरान ने अमेरिका को भेजा प्रस्ताव, क्या अब थम जाएगा युद्ध?](https://www.indiatv.in/world/around-the-world/iran-ready-to-open-strait-of-hormuz-if-us-eases-military-pressure-is-iran-us-war-end-now-2026-09-22-1244693)
-- [Airtel bundles Apple iCloud+, Apple TV with Rs.999 postpaid plans without hiking tariffs](https://www.tradingview.com/news/moodys:a93e2e5185c54:0-airtel-bundles-apple-icloud-apple-tv-with-rs-999-postpaid-plans-without-hiking-tariffs/)
-- [व्वा व्वा व्वा..किती सुंदर, निळ्या साडीमधील ही अभिनेत्री कोण? जिच्या सौंदर्याने वेधलं सर्वांचं लक्ष](https://www.tv9marathi.com/entertainment/actress-sharvari-kulkarni-traditional-look-in-a-blue-saree-1761799.html)
-- ['नक्सलियों के हिसाब से कानून नहीं बनेगा..': वंदे मातरम पर सुनवाई, CJI सूर्यकांत बोले- आगे के लिए बचा कर रखें दलील](https://navbharattimes.indiatimes.com/india/vande-mataram-hearing-sg-naxalite-remark-controversy-cji-surya-kant-save-argument-for-later/articleshow/134410000.cms)
-- [Jio, Airtel અને Vi યુઝર્સને બખ્ખાં! TRAI ના આદેશથી સસ્તા થશે રિચાર્જ, જાણો નિયમ](https://gujarati.abplive.com/technology/trai-new-recharge-rules-jio-airtel-vi-calling-sms-plans-validity-2026-991797)
+- [Yatharth Hospital launches memory clinic](https://www.expresshealthcare.in/news/yatharth-hospital-launches-memory-clinic/455238/)
+- [झाड़ी में छिपे आरोपी... जहां हुआ जमुई कांड के आरोपियों का एनकाउंटर, वहां पहुंचा आजतक](https://www.aajtak.in/bihar/story/jamui-girl-eve-teasing-ground-report-hare-ram-yadav-nandan-yadav-ntcppl-dskc-2650160-2026-09-22)
+- [Asian Games 2026 India medallists: চলতি এশিয়ান গেমসে ভারত এখনও পর্যন্ত মোট কতগুলো পদক জিতেছে? দেখে নিন পূর্ণাঙ্গ তালিকা](https://bengali.indianexpress.com/sports/asian-games-2026-india-medallists-full-list-aichi-nagoya-12564496)
+- [Do we really have two brains? Stanford research offers a surprising answer](https://indianexpress.com/article/lifestyle/health/stanford-study-brain-two-different-organs-improve-research-10888995/)
+- [বিশ্বের সবথেকে বেশি বিক্রি হওয়া গাড়ির কথা জানেন?](https://eisamay.com/photo-gallery/most-sold-car-in-the-world-toyota-corolla/200545873.cms)
+- [தபால் வாக்கு சேகரிப்பு தொடங்கியது](https://www.tamilmurasu.com.sg/tamilnadu/election-postal-vote-collection-work-has-begun)
+- [North Bengal News: মূর্তি নদীর উপর নতুন ব্রিজ চালু, জলপাইগুড়ি থেকে যাতায়াতে](https://bangla.aajtak.in/west-bengal/north-bengal-news/story/new-murti-bridge-nagrakata-jalpaiguri-connectivity-north-bengal-tourism-prb-1453913-2026-09-22)
+- ['सवाल यह नहीं है कि कब...' बांग्लादेश वापसी पर शेख हसीना का बड़ा बयान, 'कैसे' ने बढ़ाया सस्पेंस](https://www.livehindustan.com/national/sheikh-hasina-interview-question-is-not-when-but-rather-how-return-to-bangladesh-201790075516417.html)
+- [Abhishek Sharma Record: अभिषेक शर्माचा नकोसा विक्रम! Golden Duckवर OUT होताच रोहित शर्माला टाकलं मागे](https://www.loksatta.com/krida/ind-vs-jap-abhishek-sharma-named-unwanted-record-after-got-out-on-golden-duck-breaks-rohit-sharma-record-amd-2000-6149927/)
+- [Before CRISPR, there was VIPR. It is a new gene-editing tool](https://theprint.in/science/crispr-vipr-uc-berkley-gene-editing/3049952/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
