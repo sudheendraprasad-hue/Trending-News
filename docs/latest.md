@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-22 22:33:50
+# India Trending Report — 2026-09-22 23:02:01
 
 ## Google Trends (India) — top trending searches
 1. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
@@ -16,16 +16,18 @@
 **Times of India**
 - ['Told him to tolerate it': Parents regret advice to kid in IIT-B suicide case](https://timesofindia.indiatimes.com/city/mumbai/made-a-mistake-by-telling-him-to-tolerate-it-grieving-parents-demand-arrests-in-iit-bombay-student-suicide-case/articleshow/134414786.cms)
 - [From ‘annihilate Iran’ to ‘super intelligence’, Trump boasts of US power at UNGA](https://timesofindia.indiatimes.com/world/us/trump-threatens-to-annihilate-iran-make-a-deal-or-get-destroyed/articleshow/134417865.cms)
+- [In a first, US F-35 fighters to take part in IAF exercise](https://timesofindia.indiatimes.com/defence/news/in-a-first-uss-5th-gen-stealth-jet-f-35-to-take-part-in-iafs-multinational-exercise-tarang-shakti/articleshow/134423102.cms)
 - [The China+1 question: Does India lose if Trump and Xi make peace?](https://timesofindia.indiatimes.com/business/india-business/from-chips-to-china1-five-reasons-india-should-watch-trump-xi-handshake/articleshow/134411510.cms)
 - [US approves $425 million sale of MH-60R Seahawk helicopters and equipments to Denmark](https://timesofindia.indiatimes.com/defence/international/us-approves-425-million-sale-of-mh-60r-seahawk-helicopters-and-equipments-to-denmark/articleshow/134418132.cms)
-- [Ahead of ‘firing’ deaths anniversary, promise of Article 371 framework for Ladakh](https://timesofindia.indiatimes.com/india/ahead-of-firing-deaths-anniversary-promise-of-article-371-framework-for-ladakh/articleshow/134420177.cms)
 - [MediaTek targets Qualcomm's fortress with an unmatched new weapon](https://timesofindia.indiatimes.com/technology/tech-news/mediatek-seems-ready-to-storm-into-qualcomms-biggest-fortress-and-with-a-weapon-that-american-chip-maker-still-has-no-answer-to/articleshow/134412852.cms)
-- [Vietnam to Colombo flight makes emergency landing at Chennai airport](https://timesofindia.indiatimes.com/city/chennai/vietjet-flight-makes-emergency-landing-at-chennai-airport/articleshow/134418100.cms)
+- [ED appeal ‘abuse of process’ in National Herald case: Gandhis](https://timesofindia.indiatimes.com/india/ed-appeal-abuse-of-process-in-national-herald-case-gandhis/articleshow/134423114.cms)
 - [Gold jumps 60% to Rs 1.57L from Rs 98,000 a year ago; sales fall 15%, coins gain](https://timesofindia.indiatimes.com/business/india-business/gold-prices-surge-60-from-rs-98000-to-rs-1-57-lakh-per-10-grams-in-a-year-ganesh-chaturthi-sales-fall-15-as-buyers-switch-to-lighter-jewellery-also-buy-coins/articleshow/134405905.cms)
-- [Indian Navy to procure 6 more landing craft utility platforms to boost amphibious ops](https://timesofindia.indiatimes.com/defence/news/indian-navy-plans-to-procure-six-more-landing-craft-utility-platforms-to-boost-amphibious-operations/articleshow/134420711.cms)
-- [Kalkaji rape case: DU's LSR college shifts classes online amid safety concerns](https://timesofindia.indiatimes.com/city/delhi/safety-security-paramount-lady-shri-ram-college-cancels-classes-goes-online-after-kalkaji-mandir-gang-rape-case/articleshow/134417900.cms)
+- [Ahead of ‘firing’ deaths anniversary, promise of Article 371 framework for Ladakh](https://timesofindia.indiatimes.com/india/ahead-of-firing-deaths-anniversary-promise-of-article-371-framework-for-ladakh/articleshow/134420177.cms)
+- [Vietnam to Colombo flight makes emergency landing at Chennai airport](https://timesofindia.indiatimes.com/city/chennai/vietjet-flight-makes-emergency-landing-at-chennai-airport/articleshow/134418100.cms)
 
 **NDTV**
+- [Anthropic Launches New Version Of Its Claude Amid Global AI Slowdown Calls](https://www.ndtv.com/world-news/anthropic-launches-new-version-of-its-claude-amid-global-ai-slowdown-calls-12083903#publisher=newsstand)
+- [US Treasury Chief Scott Bessent Could Become Trump's New AI Adviser: Report](https://www.ndtv.com/world-news/us-treasury-chief-scott-bessent-could-become-trumps-new-ai-adviser-report-12083885#publisher=newsstand)
 - [Iran's Araghchi Meets US Envoy Witkoff, Sets Conditions For Hormuz Reopening](https://www.ndtv.com/world-news/irans-araghchi-meets-us-envoy-witkoff-sets-conditions-for-hormuz-reopening-12083797#publisher=newsstand)
 - [15 Men Jailed For 220 Years Over 2019 Lanka Bombings That Killed 279](https://www.ndtv.com/world-news/sri-lanka-easter-sunday-bombings-15-men-jailed-for-220-years-over-2019-bombings-that-killed-260-12083549#publisher=newsstand)
 - [Trump Says Russia, Ukraine Are Going To 'Make A Deal' Soon](https://www.ndtv.com/world-news/donald-trump-says-russia-ukraine-are-going-to-make-a-deal-soon-12083704#publisher=newsstand)
@@ -34,8 +36,6 @@
 - [Man Shoots Wife, 2 Priests In UP's Azamgarh, Takes 2 Children Hostage](https://www.ndtv.com/india-news/man-shoots-wife-2-priests-in-ups-azamgarh-takes-2-children-hostage-12083575#publisher=newsstand)
 - [After Months Of Tension, Trump Signs Security Deal With Denmark, Greenland](https://www.ndtv.com/world-news/after-months-of-tension-trump-signs-security-deal-with-denmark-greenland-12083580#publisher=newsstand)
 - [Trump Renames AI To "Super Intelligence", Says 'Artificial' Sounds Fake](https://www.ndtv.com/world-news/us-to-call-ai-super-intelligence-donald-trump-says-artificial-makes-it-sound-fake-12083194#publisher=newsstand)
-- [4 Months On, No FIR Yet In Vaishno Devi's Rs 550 Crore-Silver 'Scandal'](https://www.ndtv.com/india-news/4-months-on-no-fir-yet-in-vaishno-devis-rs-550-crore-silver-scandal-case-12083565#publisher=newsstand)
-- ["MBS Won't Forget": Ex-US Official On Trump Not Helping Saudi Against Houthis](https://www.ndtv.com/world-news/mbs-wont-forget-ex-us-official-on-trump-not-helping-saudi-against-houthis-12083569#publisher=newsstand)
 
 **Hindustan Times**
 - ['US shouldn't punish India, global markets over Russian oil': JPMorgan chief Jamie Dimon](https://www.hindustantimes.com/india-news/us-shouldnt-punish-india-global-markets-over-russian-oil-jpmorgan-chase-chief-jamie-dimon-new-us-russia-sanctions-bill-101790096632204.html)
@@ -100,12 +100,11 @@
 - [ಮಂಗಳೂರು: ಲೋಕಾಯುಕ್ತ ಬಲೆಗೆ ಬಿದ್ದ ಇನ್ಸ್‌ಪೆಕ್ಟರ್‌ಗೆ ನ್ಯಾಯಾಂಗ ಬಂಧನ](https://www.varthabharati.in/DakshinaKannada/--2277205)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (5.7)
+- Trump (5.4)
 - Iran (3.9)
 - UNGA (3.9)
 - India (2.9)
 - What (2.9)
-- Kalkaji (2.6)
 - Denmark (1.6)
 - Bengal (1.6)
 - Odisha (1.6)
@@ -115,20 +114,21 @@
 - Parents (1.3)
 - IIT-B (1.3)
 - Seahawk (1.3)
+- MediaTek (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Rani Mukherjee Mother Krishna Mukherjee Death: अभिनेत्री राणी मुखर्जीला मातृशोक; डोक्यावरुन आईचं छत्र हरपलं, कृष्णा मुखर्जींचे निधन](https://marathi.abplive.com/entertainment/rani-mukherjee-mother-krishna-mukherjee-dies-at-age-of-75-yash-raj-films-shares-post-in-social-media-1439886)
-- [NSE IPO allotment: How to check status online on National Stock Exchange, BSE, MUFG Intime India; listing date, time here](https://upstox.com/news/market-news/ipo/nse-ipo-allotment-how-to-check-status-online-on-national-stock-exchange-bse-mufg-intime-india-listing-date-time-revealed/article-200623/)
-- [Breaking News : ગઢડામાં જળઝીલણી એકાદશીની ઉજવણી કરતા ઘેલો નદીમાં નાવડી પલટી, સાધુ-સંતો સહીત 6 લોકોનો આબાદ બચાવ, જુઓ Video](https://tv9gujarati.com/gujarat/boat-capsizes-in-ghelo-river-during-jal-jhilani-ekadashi-celebrations-in-gadhada-six-people-including-sadhus-and-saints-narrowly-escape-1520198.html)
-- [Guru Gochar 2026 : १२ वर्षांनंतर सिंह राशीत गुरुचा प्रवेश, २०२७ पर्यंत या राशींना बंपर लॉटरी](https://marathi.asianetnews.com/lifestyle/jupiter-transit-in-leo-2026-lucky-zodiac-signs-and-astrology-predictions/photoshow-k6iif57)
-- [Vadodara News : ‘દંગલ’થી મળી પ્રેરણા, હવે તુર્કીમાં જીત્યો ગોલ્ડ... હિમાનીની જોરદાર કહાની](https://www.gujaratfirst.com/vadodara/vadodara-himani-hirani-wins-gold-medal-turkiye-wrestling-gujarat-first-digital/341056/)
-- [8th Pay Commission: बड़ा फायदा.. अगर 8वें आयोग में हुई देरी, तो इन कर्मचारियों को मिलेंगे 18 लाख](https://www.aajtak.in/business/utility/photo/8th-pay-commission-six-to-eight-level-employees-will-receive-18-lakh-arear-tutd-2650057-2026-09-22)
-- [रानी मुखर्जी पर टूटा दुखों का पहाड़, मां कृष्णा मुखर्जी का 75 साल की उम्र में निधन](https://www.aajtak.in/entertainment/bollywood-news/story/rani-mukerji-mother-krishna-mukerji-death-passes-away-at-75-age-was-playback-singer-tmova-dskc-2650122-2026-09-22)
-- [National Film Awards 2026 Live Updates: LIVE: श्रीकांत को बेस्ट हिंदी फिल्म, अश्विनी वैष्णव बोले- अगला अवॉर्ड नए टूरिस्ट प्लेस पर होगा](https://www.aajtak.in/entertainment/bollywood-news/story/national-film-awards-2026-live-updates-anant-nag-kartik-aaryan-yami-gautam-mammootty-tmovg-dskc-2650100-2026-09-22)
-- [UPI MDR GST : सोशल मीडियावर एमडीआरवरील जीएसटी संदर्भात दावे, अखेर NPCI कडून स्पष्टीकरण, नेमका काय म्हटलं?](https://marathi.abplive.com/business/npci-clarification-on-mdr-transactions-and-gst-appeal-not-believe-rumours-marathi-news-1439884)
-- [Lucky Zodiac Signs : उद्या 23 सप्टेंबरचा दिवस 5 राशींसाठी ठरणार भाग्याचा; दिवसाच्या सुरुवातीला मिळणार शुभवार्ता, गणरायाची कृपा, आजचे राशीभविष्य](https://marathi.abplive.com/astro/lucky-zodiac-signs-on-23-september-2026-these-are-lucky-zodiac-signs-will-get-blessings-of-lord-ganesha-astrology-marathi-news-1439885)
+- [সৃজলা সামনে এলেই বদলে যায় দুর্নিবার? গায়কের বডি ল্যাংগুয়েজ নিয়ে প্রশ্ন ঝিলামের](https://bengali.indianexpress.com/entertainment/bigg-boss-bangla-jhilam-warns-durnibar-srijla-body-language-12563414)
+- [Rani Mukerji Mother Death: প্রয়াত রানি মুখোপাধ্যায়ের মা কৃষ্ণা , বয়স হয়েছিল ৭৫ বছর](https://bangla.asianetnews.com/entertainment/bollywood-actor-rani-mukerji-mother-krishna-mukerji-passes-away/articleshow-57tphn7)
+- [NSE ஐபிஓ ஷேர்மார்க்கெட் வருவதற்கு, வங்கிகளுக்கு மட்டுமே ரூ.186 கோடி கட்டணம்](https://tamil.economictimes.com/nse-ipo-186-crore-fees-to-20-banks-huge-demand-from-investors/articleshow/134410308.cms)
+- [ഓച്ചിറ കാളകെട്ട് ഉത്സവം; നാളെ പ്രാദേശിക അവധി, മൂന്ന് താലൂക്കുകളില്‍ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾക്കും സർക്കാർ ഓഫീസുകൾക്കും ബാധകം](https://www.asianetnews.com/kerala-news/holiday-for-three-taluks-tomorrow-holiday-for-karunagappally-karthikappally-and-mavelikkara-articleshow-nxr9zh6)
+- [National Film Awards 2026 LIVE: Aditya Dhar hopes to return with Dhurandhar next year, Yami Gautam gushes on her win](https://www.hindustantimes.com/entertainment/bollywood/72nd-national-film-awards-2026-live-updates-kartik-aryan-yami-gautam-mammootty-president-droupadi-murmur-101790061352035.html)
+- ["हम होर्मुज खोलने को तैयार हैं, अगर...." ईरान ने अमेरिका को भेजा प्रस्ताव, क्या अब थम जाएगा युद्ध?](https://www.indiatv.in/world/around-the-world/iran-ready-to-open-strait-of-hormuz-if-us-eases-military-pressure-is-iran-us-war-end-now-2026-09-22-1244693)
+- [Airtel bundles Apple iCloud+, Apple TV with Rs.999 postpaid plans without hiking tariffs](https://www.tradingview.com/news/moodys:a93e2e5185c54:0-airtel-bundles-apple-icloud-apple-tv-with-rs-999-postpaid-plans-without-hiking-tariffs/)
+- [व्वा व्वा व्वा..किती सुंदर, निळ्या साडीमधील ही अभिनेत्री कोण? जिच्या सौंदर्याने वेधलं सर्वांचं लक्ष](https://www.tv9marathi.com/entertainment/actress-sharvari-kulkarni-traditional-look-in-a-blue-saree-1761799.html)
+- ['नक्सलियों के हिसाब से कानून नहीं बनेगा..': वंदे मातरम पर सुनवाई, CJI सूर्यकांत बोले- आगे के लिए बचा कर रखें दलील](https://navbharattimes.indiatimes.com/india/vande-mataram-hearing-sg-naxalite-remark-controversy-cji-surya-kant-save-argument-for-later/articleshow/134410000.cms)
+- [Jio, Airtel અને Vi યુઝર્સને બખ્ખાં! TRAI ના આદેશથી સસ્તા થશે રિચાર્જ, જાણો નિયમ](https://gujarati.abplive.com/technology/trai-new-recharge-rules-jio-airtel-vi-calling-sms-plans-validity-2026-991797)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
