@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-22 00:39:43
+# India Trending Report — 2026-09-22 01:01:30
 
 ## Google Trends (India) — top trending searches
-1. [indian](https://trends.google.com/trending/rss?geo=IN)
-2. [realme 16 pro](https://trends.google.com/trending/rss?geo=IN)
-3. [facebook](https://trends.google.com/trending/rss?geo=IN)
-4. [karan wahi](https://trends.google.com/trending/rss?geo=IN)
-5. [kfintech](https://trends.google.com/trending/rss?geo=IN)
-6. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
-7. [manchester city](https://trends.google.com/trending/rss?geo=IN)
-8. [baker](https://trends.google.com/trending/rss?geo=IN)
-9. [amd share price](https://trends.google.com/trending/rss?geo=IN)
-10. [bosa](https://trends.google.com/trending/rss?geo=IN)
+1. [realme 16 pro](https://trends.google.com/trending/rss?geo=IN)
+2. [facebook](https://trends.google.com/trending/rss?geo=IN)
+3. [karan wahi](https://trends.google.com/trending/rss?geo=IN)
+4. [kfintech](https://trends.google.com/trending/rss?geo=IN)
+5. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
+6. [manchester city](https://trends.google.com/trending/rss?geo=IN)
+7. [baker](https://trends.google.com/trending/rss?geo=IN)
+8. [amd share price](https://trends.google.com/trending/rss?geo=IN)
+9. [bosa](https://trends.google.com/trending/rss?geo=IN)
+10. [japan national cricket team vs india national cricket team players](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -18,15 +18,17 @@
 - ['Russia has lost control': Trump flags diesel crisis, calls for end to Ukraine war](https://timesofindia.indiatimes.com/world/us/russia-has-lost-control-trump-flags-diesel-crisis-calls-for-end-to-ridiculous-ukraine-war/articleshow/134389919.cms)
 - [Amid Trump’s clash with CNN, Politico, MS NOW, White House launches ‘Trump TV’](https://timesofindia.indiatimes.com/world/us/amid-trumps-clash-with-cnn-politico-ms-now-white-house-launches-trump-tv/articleshow/134399824.cms)
 - [US to reopen Cold War-era base, set up new military presence in Greenland: Report](https://timesofindia.indiatimes.com/world/us/us-plans-to-reopen-two-military-sites-in-greenland-report/articleshow/134399797.cms)
-- [Trump dodged Yemen's plea for military support amid Houthi attacks on Riyadh: Report](https://timesofindia.indiatimes.com/world/middle-east/trump-dodged-yemens-plea-for-military-support-against-houthis-amid-attacks-on-saudi-arabia-report/articleshow/134392205.cms)
 - [USCIS warns against websites and businesses ‘guaranteeing’ faster visa](https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-warns-visa-applicants-against-websites-and-businesses-guaranteeing-visa-green-card-or-work-permit-faster/articleshow/134383537.cms)
 - [Flights grounded at major US airports after construction workers cut backup cable](https://timesofindia.indiatimes.com/world/us/flights-grounded-at-major-us-airports-after-construction-workers-cut-backup-cable/articleshow/134396960.cms)
 - [Oilers linked to Dylan Larkin trade in Matthew Savoie-led blockbuster](https://timesofindia.indiatimes.com/sports/nhl/news/oilers-linked-to-blockbuster-dylan-larkin-trade-as-matthew-savoie-led-package-puts-detroit-in-a-difficult-position/articleshow/134379564.cms)
 - [Retired man deposits Rs 1.33cr, files no ITR; taxman sends notice, what ITAT said](https://timesofindia.indiatimes.com/business/india-business/retired-senior-citizen-teacher-deposited-rs-1-33-crore-cash-but-filed-no-itr-taxman-added-rs-48-73-lakh-itat-quashes-reassessment-heres-why/articleshow/134393155.cms)
 - [Lt Gen Mohit Seth to be new GOC of White Knight Corps](https://timesofindia.indiatimes.com/india/lt-gen-mohit-seth-to-be-new-goc-of-white-knight-corps/articleshow/134399769.cms)
+- [El Nino, heat fuel destructive storms across Pacific](https://timesofindia.indiatimes.com/home/environment/el-nino-heat-fuel-destructive-storms-across-pacific/articleshow/134399598.cms)
 
 **NDTV**
-- [At UN, S Jaishankar Discusses Regional, Global Issues With Foreign Ministers](https://www.ndtv.com/india-news/eam-jaishankar-discusses-regional-global-issues-with-foreign-counterparts-on-margins-of-unga-session-12078527#publisher=newsstand)
+- [6 Killed, 8 Injured In Saudi Strikes In Yemen Port City: Report](https://www.ndtv.com/world-news/6-killed-8-injured-in-saudi-strikes-in-yemen-port-city-report-12078728#publisher=newsstand)
+- [UN General Assembly 2026: S Jaishankar Holds Talks On Global, Regional Issues](https://www.ndtv.com/india-news/eam-jaishankar-discusses-regional-global-issues-with-foreign-counterparts-on-margins-of-unga-session-12078527#publisher=newsstand)
+- [Trump Meets Mamdani In New York, Discusses Immigration, Housing Projects](https://www.ndtv.com/world-news/donald-trump-praises-zohran-mamdani-after-meeting-in-new-york-12078695#publisher=newsstand)
 - ["Threat To Democracy": Trump Slams CNN, Politico Over White House Lawsuit](https://www.ndtv.com/world-news/donald-trump-slams-cnn-politico-after-lawsuit-over-white-house-access-12078662#publisher=newsstand)
 - [EU Foreign Policy Chief Calls For Continued Sanctions On Russia](https://www.ndtv.com/world-news/eu-foreign-policy-chief-calls-for-continued-sanctions-on-russia-12078652#publisher=newsstand)
 - [UK Agrees To Saudi Request For Refuelling Support To Counter Houthis](https://www.ndtv.com/world-news/uk-agrees-to-saudi-request-for-refuelling-support-to-counter-houthis-12078571#publisher=newsstand)
@@ -34,8 +36,6 @@
 - [Hundreds Of US Flights Cancelled After Air Traffic Control Malfunction](https://www.ndtv.com/world-news/hundreds-of-us-flights-cancelled-after-air-traffic-control-malfunction-12078490#publisher=newsstand)
 - [Delhi PG Building Collapse: Court Extends Judicial Custody Of 6 Accused](https://www.ndtv.com/india-news/delhi-pg-building-collapse-court-extends-judicial-custody-of-6-accused-12078458#publisher=newsstand)
 - [2 Workers Killed In Fire At Tyre Oil Factory In UP](https://www.ndtv.com/india-news/2-workers-killed-in-fire-at-tyre-oil-factory-in-up-12078426#publisher=newsstand)
-- [Man Kills Wife, Surrenders At Police Station In UP: Cops](https://www.ndtv.com/india-news/man-kills-wife-surrenders-at-police-station-in-up-cops-12078414#publisher=newsstand)
-- [US Networks Boycott Trump Coverage In Revolt Over White House Ban](https://www.ndtv.com/world-news/us-networks-boycott-donald-trump-coverage-in-revolt-over-white-house-ban-12078379#publisher=newsstand)
 
 **Hindustan Times**
 - [Two workers killed in fire at tyre oil factory in UP](https://www.hindustantimes.com/india-news/two-workers-killed-in-fire-at-tyre-oil-factory-in-up-101790016612494.html)
@@ -62,16 +62,16 @@
 - [ಬಿಡದಿ ಟೌನ್‌ಶಿಪ್‌ ಭೂಸ್ವಾಧೀನ: ರೈತರಿಂದ ಉಪವಾಸ ಆರಂಭ; ಹಿರಣ್ಯಾಕ್ಷನ ಪಾಪದ ಕೊಡ ತುಂಬುತ್ತಿದೆ ಎಂದು ಎಚ್‌ಡಿ ಕುಮಾರಸ್ವಾಮಿ ಕಿಡಿ](https://vijaykarnataka.com/news/ramanagara/bidadi-township-farmers-begin-a-fast-hd-kumaraswamy-lashes-out-karnataka-monstrous-government/articleshow/134393781.cms)
 
 **The Hindu**
+- [Academicians write to Governor opposing the inter-university transfer of teachers](https://www.thehindu.com/news/national/west-bengal/academicians-write-to-governor-opposing-the-inter-university-transfer-of-teachers/article71492099.ece)
+- [100% drought likely to be declared in Maharashtra by month-end, says Minister](https://www.thehindu.com/news/national/maharashtra/100-drought-likely-to-be-declared-in-maharashtra-by-month-end-says-minister/article71492104.ece)
 - [Burglars steal service pistol, 30 live cartridges, jewellery and cash from Nanded head constable’s home](https://www.thehindu.com/news/national/maharashtra/burglars-steal-service-pistol-30-live-cartridges-jewellery-and-cash-from-nanded-head-constables-home/article71491545.ece)
 - [Revision of bus fares in Tamil Nadu: Madras High Court grants four more weeks for the government to take final call](https://www.thehindu.com/news/national/tamil-nadu/revision-of-bus-fares-in-tamil-nadu-madras-high-court-grants-four-more-weeks-for-the-government-to-take-final-call/article71492341.ece)
+- [Next panchayat election only after the delimitation: Samrat Choudhary](https://www.thehindu.com/news/national/bihar/next-panchayat-election-only-after-the-delimitation-samrat-choudhary/article71491749.ece)
 - [NCW takes suo motu cognizance of Jamui incident](https://www.thehindu.com/news/national/bihar/ncw-takes-suo-motu-cognizance-of-jamui-incident/article71491840.ece)
 - [BJP wins six of seven mayoral polls in Rajasthan; Congress cries foul](https://www.thehindu.com/news/national/rajasthan/bjp-wins-six-of-seven-mayoral-polls-in-rajasthan-congress-cries-foul/article71492065.ece)
-- [Academicians write to Governor opposing the inter-university transfer of teachers](https://www.thehindu.com/news/national/west-bengal/academicians-write-to-governor-opposing-the-inter-university-transfer-of-teachers/article71492099.ece)
 - [Mahayuti Minister Mangal Prabhat Lodha is suppressing voice of community members, alleges Jain Monk](https://www.thehindu.com/news/cities/mumbai/mahayuti-minister-mangal-prabhat-lodha-is-suppressing-voice-of-community-members-alleges-jain-monk/article71492226.ece)
 - [Court orders fresh hearing in Sonia Gandhi’s voter roll entry case](https://www.thehindu.com/news/national/delhi-court-sets-aside-magistrate-order-refusing-probe-in-sonia-gandhis-pre-citizenship-electoral-entry/article71490940.ece)
 - [Class 10 girl and boy returning from coaching groped and assaulted in Bihar’s Jamui, sparking a political row](https://www.thehindu.com/news/national/bihar/two-class-10-students-a-girl-and-a-boy-groped-and-harassed-in-bihars-jamui-sparking-a-political-row/article71491560.ece)
-- [SBSP chief Rajbhar’s claim on U.P. division ignites fresh debate as opposition hit out at NDA](https://www.thehindu.com/news/national/uttar-pradesh/sbsp-chief-rajbhars-claim-on-up-division-ignites-fresh-debate-as-opposition-hit-out-at-nda/article71492262.ece)
-- [Union Minister Shivraj Chouhan accuses Punjab government of sheltering drug peddlers](https://www.thehindu.com/news/national/punjab/union-minister-shivraj-chouhan-accuses-punjab-government-of-sheltering-drug-peddlers/article71492300.ece)
 
 **Livemint**
 - [Uttar Pradesh to Gujarat: how job crisis differs in India’s poll-bound states](https://www.livemint.com/news/india/up-to-gujarat-how-job-crisis-differs-in-india-s-poll-bound-states-11789990572636.html)
@@ -100,35 +100,35 @@
 - [ಪೌರಕಾರ್ಮಿಕರ ಸ್ಥಿತಿಗತಿ ಅಧ್ಯಯನಕ್ಕೆ ಸಮಿತಿ ರಚಿಸಿ: ಸಿಎಂಗೆ ಪತ್ರಕರ್ತರ ಬಳಗ ಮನವಿ](https://www.varthabharati.in/bangalore-city/--2276944)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (5.4)
+- Trump (4.1)
 - Jamui (3.9)
 - Russia (2.6)
 - Report (2.6)
+- Pacific (2.6)
 - India (2.6)
 - Gujarat (2.6)
 - What (2.6)
 - Tumakur (2.6)
 - Court (2.2)
+- El Nino (2.0)
+- UN General Assembly (2.0)
 - El Ni (2.0)
-- Police (1.9)
 - Politico (1.6)
 - Flights (1.6)
-- Bihar (1.6)
-- Governor (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [மதுராந்தகம் தனி தொகுதியில்- அ.தி.மு.க., வேட்பாளர் தீவிர ஓட்டு சேகரிப்பு](https://www.dinamalar.com/news/tamil-nadu-district-news-chengalpattu/madurantakam-separate-constituency---aiadmk-candidate-intensive-vote-collection/4328814)
-- [Houthi escalation, Mecca Pact: Why India is watching West Asia closely | Point Blank](https://www.hindustantimes.com/world-news/houthi-escalation-mecca-pact-why-india-is-watching-west-asia-closely-point-blank-101789987385918.html)
-- [कर्नाटक विधानसभा में 'वंदे मातरम्' पर बवाल, 2 स्टैंजा बाद ऑडियो बंद... BJP विधायकों ने पूरा गाया](https://www.livehindustan.com/national/vande-mataram-audio-of-in-karnataka-assembly-stopped-after-two-stanzas-bjp-mlas-sang-full-version-201789992537349.html)
-- [2026 வசூலில் டாப் 5ல் இடம் பிடித்த மண்டாடி](https://cinema.dinamalar.com/news/kollywood/mandaadi-top-5-in-2026-collections/141032)
-- [ரூ.100 கோடியை கடந்தது சூரியின் ‘மண்டாடி’ வசூல்!](https://www.hindutamil.in/news/cinema/tamil-cinema/mandaadi-movie-cross-100-crore-collection)
-- [Asian Games 2026 : ત્રણેય મેચમાં ભારતે પાકિસ્તાનને પછાડ્યું, ટેબલ ટેનિસમાં 3-0થી ક્લીન સ્વીપ](https://www.gujaratsamachar.com/news/sports/india-defeated-pakistan-indian-players-also-dominated-in-kabaddi-and-hockey-90120590113)
-- [అయోధ్య రామ మందిరంలో 105 సార్లు చోరీ : సుప్రీం కోర్టుకు సిట్ నివేదిక](https://www.v6velugu.com/ram-temple-donation-theft-caught-on-cctv-105-times-probe-report)
-- [BJP News : फडणवीसांच्या खाजगी सचिवांनी आमदार पत्नीचा विरोधकच संपवला; भाजप प्रवेशानंतर माजी आमदार लगेचच राजकीय निवृत्ती घेणार?](https://sarkarnama.esakal.com/maharashtra/vidarbha/congress-rahul-bondre-bjp-entry-chikhli-politics-vidyadhar-mahale-shweta-mahale-hn97)
-- [Ram Mandir | రామ మందిర విరాళాల చోరీ కేసు..నిందితుల్ని గుర్తించిన సిట్.. 25న చార్జిషీటు దాఖ‌లు](https://www.ntnews.com/national/ram-mandir-donation-theft-sit-identifies-all-accused-chargesheet-to-be-filed-by-september-25-in-supreme-court-2516380)
-- [Russia's ruling pro-Putin party wins wartime election with over 57% of vote, near-complete results show](https://www.thehindu.com/news/international/russias-ruling-pro-putin-party-wins-wartime-election-with-over-57-of-vote-near-complete-results-show/article71491436.ece)
+- [Snapdragon-Powered Googlebook Laptops Promise Seamless Connectivity With Android](https://petapixel.com/2026/09/21/snapdragon-powered-googlebook-laptops-promise-seamless-connectivity-with-android/)
+- [चेन्‍नई सुपरकिंग्‍स ने Zaheer Khan को बनाया नया हेड कोच, CSK का सोशल मीडिया पोस्‍ट हुआ वायरल](https://www.jagran.com/cricket/headlines-chennai-super-kings-named-zaheer-khan-as-head-coach-who-replaces-stephen-fleming-40380482.html)
+- [IPhone 18 Pro Accessibility Features Point To A More Useful Future For AI](https://sg.news.yahoo.com/iphone-18-pro-accessibility-features-130000173.html)
+- [CSK name Zaheer Khan as head coach for IPL 2027](https://www.cricbuzz.com/cricket-news/140241/csk-name-zaheer-khan-as-head-coach-for-ipl-2027)
+- [Green Lava: ஆஸ்கார் விருதுக்கான பயணத்தைத் தொடங்கும் இளைஞனின் கதை](https://www.vaticannews.va/ta/vatican-city/news/2026-09/green-lava-young-man-s-story-begins-journey-to-the-oscars.html)
+- [అక్టోబర్‌ 20 నుంచి అమల్లోకి భారత్‌-న్యూజిలాండ్‌ ఎఫ్‌టీఏ: గోయల్‌](https://www.eenadu.net/telugu-news/india/india-and-new-zealand-trade-pact-to-come-into-force-on-oct-20-says-goyal/0701/126170808)
+- [Humayun Kabir: সাড়ে ৪ ঘণ্টা পর বহরমপুর থানা থেকে বেরোলেন হুমায়ুন কবীর, চাঞ্চল্যকর দাবি AJUP নেতার, " ও আমাকে হঠাৎ করে বলে.."](https://bengali.abplive.com/district/ajup-leader-humayun-kabir-reaction-after-attend-police-summon-1193675)
+- [కాకినాడ జిల్లాలో వైసీపీ బిగ్ షాక్.. జనసేనలోకి ఆ పార్టీ సీనియర్ నేత.. పవన్ సమక్షంలో చేరిక](https://telugu.samayam.com/andhra-pradesh/news/prathipadu-ex-mla-varupula-subbarao-resign-ysrcp-and-join-in-janaseana-party/articleshow/134389954.cms)
+- ['क्या मुस्लिमों से उठ गया भरोसा?', अखिलेश यादव के PDA रथ के रंग को लेकर मायावती ने सपा पर बोला हमला](https://www.jagran.com/uttar-pradesh/lucknow-city-mayawati-slams-akhilesh-yadav-pda-rath-color-questions-muslim-trust-40380450.html)
+- [IIT सुसाइड केस में डीन पद से हटाए गए प्रोफेसर के समर्थन में उतरे फैकल्टी मेंबर, कैम्पस में मार्च](https://www.livehindustan.com/national/iit-bombay-student-suicide-case-faculty-forum-supports-prof-doolla-201789994555778.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
