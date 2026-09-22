@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-22 21:01:53
+# India Trending Report — 2026-09-22 21:33:40
 
 ## Google Trends (India) — top trending searches
 1. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
@@ -6,11 +6,11 @@
 3. [real madrid vs psg](https://trends.google.com/trending/rss?geo=IN)
 4. [leicester city vs fulham u-21](https://trends.google.com/trending/rss?geo=IN)
 5. [nations league](https://trends.google.com/trending/rss?geo=IN)
-6. [taylor swift](https://trends.google.com/trending/rss?geo=IN)
-7. [opus 5.5](https://trends.google.com/trending/rss?geo=IN)
-8. [বঙ্গোপসাগর](https://trends.google.com/trending/rss?geo=IN)
-9. [कर्मचारी](https://trends.google.com/trending/rss?geo=IN)
-10. [गेंदबाजी](https://trends.google.com/trending/rss?geo=IN)
+6. [airbnb](https://trends.google.com/trending/rss?geo=IN)
+7. [taylor swift](https://trends.google.com/trending/rss?geo=IN)
+8. [opus 5.5](https://trends.google.com/trending/rss?geo=IN)
+9. [বঙ্গোপসাগর](https://trends.google.com/trending/rss?geo=IN)
+10. [कर्मचारी](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -22,20 +22,20 @@
 - [MediaTek targets Qualcomm's fortress with an unmatched new weapon](https://timesofindia.indiatimes.com/technology/tech-news/mediatek-seems-ready-to-storm-into-qualcomms-biggest-fortress-and-with-a-weapon-that-american-chip-maker-still-has-no-answer-to/articleshow/134412852.cms)
 - [Kalkaji rape case: DU's LSR college shifts classes online amid safety concerns](https://timesofindia.indiatimes.com/city/delhi/safety-security-paramount-lady-shri-ram-college-cancels-classes-goes-online-after-kalkaji-mandir-gang-rape-case/articleshow/134417900.cms)
 - [Gold jumps 60% to Rs 1.57L from Rs 98,000 a year ago; sales fall 15%, coins gain](https://timesofindia.indiatimes.com/business/india-business/gold-prices-surge-60-from-rs-98000-to-rs-1-57-lakh-per-10-grams-in-a-year-ganesh-chaturthi-sales-fall-15-as-buyers-switch-to-lighter-jewellery-also-buy-coins/articleshow/134405905.cms)
+- [J&K scans 21 lakh library books, pulls out 4,000 titles; ‘objectionable content’ under scrutiny](https://timesofindia.indiatimes.com/india/jk-scans-21-lakh-library-books-pulls-out-4000-titles-objectionable-content-under-scrutiny/articleshow/134420150.cms)
 - [Trump-Pezeshkian meeting on UNGA sidelines? US prez 'open' to talks with Iran](https://timesofindia.indiatimes.com/world/us/trump-pezeshkian-meeting-on-unga-sidelines-us-president-open-to-talks-with-iran/articleshow/134416649.cms)
-- [CSK's Vansh Bedi says he is not the unnamed player in sting operation row](https://timesofindia.indiatimes.com/sports/cricket/news/false-and-defamatory-csks-vansh-bedi-says-he-is-not-the-unnamed-player-in-sting-operation-controversy/articleshow/134416107.cms)
 
 **NDTV**
-- [Explainer: What Is In US-Greenland-Denmark Security Deal?](https://www.ndtv.com/world-news/explainer-what-is-in-us-greenland-denmark-security-deal-12083629#publisher=newsstand)
+- [Iran's Araghchi Meets US Envoy Witkoff, Sets Conditions For Hormuz Reopening](https://www.ndtv.com/world-news/irans-araghchi-meets-us-envoy-witkoff-sets-conditions-for-hormuz-reopening-12083797#publisher=newsstand)
+- [15 Men Jailed For 220 Years Over 2019 Lanka Bombings That Killed 279](https://www.ndtv.com/world-news/sri-lanka-easter-sunday-bombings-15-men-jailed-for-220-years-over-2019-bombings-that-killed-260-12083549#publisher=newsstand)
+- [Trump Says Russia, Ukraine Are Going To 'Make A Deal' Soon](https://www.ndtv.com/world-news/donald-trump-says-russia-ukraine-are-going-to-make-a-deal-soon-12083704#publisher=newsstand)
 - [After Threatening To "Annihilate" Iran, Trump Reveals "Good" Talks Happened](https://www.ndtv.com/world-news/after-threatening-to-annihilate-iran-trump-reveals-good-talks-happened-12083617#publisher=newsstand)
+- [Explainer: What Is In US-Greenland-Denmark Security Deal?](https://www.ndtv.com/world-news/explainer-what-is-in-us-greenland-denmark-security-deal-12083629#publisher=newsstand)
 - [Man Shoots Wife, 2 Priests In UP's Azamgarh, Takes 2 Children Hostage](https://www.ndtv.com/india-news/man-shoots-wife-2-priests-in-ups-azamgarh-takes-2-children-hostage-12083575#publisher=newsstand)
 - [After Months Of Tension, Trump Signs Security Deal With Denmark, Greenland](https://www.ndtv.com/world-news/after-months-of-tension-trump-signs-security-deal-with-denmark-greenland-12083580#publisher=newsstand)
 - [Trump Renames AI To "Super Intelligence", Says 'Artificial' Sounds Fake](https://www.ndtv.com/world-news/us-to-call-ai-super-intelligence-donald-trump-says-artificial-makes-it-sound-fake-12083194#publisher=newsstand)
 - [4 Months On, No FIR Yet In Vaishno Devi's Rs 550 Crore-Silver 'Scandal'](https://www.ndtv.com/india-news/4-months-on-no-fir-yet-in-vaishno-devis-rs-550-crore-silver-scandal-case-12083565#publisher=newsstand)
 - ["MBS Won't Forget": Ex-US Official On Trump Not Helping Saudi Against Houthis](https://www.ndtv.com/world-news/mbs-wont-forget-ex-us-official-on-trump-not-helping-saudi-against-houthis-12083569#publisher=newsstand)
-- ['Need The Money Now': Rs 700-Crore Mylapore Fund Scam Victims Demand Fast-Track Justice](https://www.ndtv.com/india-news/need-the-money-now-rs-700-crore-mylapore-fund-scam-victims-gather-to-seek-quick-justice-12083562#publisher=newsstand)
-- [15 Men Jailed For 220 Years Over 2019 Lanka Bombings That Killed 260](https://www.ndtv.com/world-news/sri-lanka-easter-sunday-bombings-15-men-jailed-for-220-years-over-2019-bombings-that-killed-260-12083549#publisher=newsstand)
-- [Dance, Liquor Videos: Bihar Groping Horror Accused's Facebook Timeline](https://www.ndtv.com/india-news/bihar-groping-horror-accuseds-facebook-timeline-dance-liquor-videos-12081524#publisher=newsstand)
 
 **Hindustan Times**
 - ['US shouldn't punish India, global markets over Russian oil': JPMorgan chief Jamie Dimon](https://www.hindustantimes.com/india-news/us-shouldnt-punish-india-global-markets-over-russian-oil-jpmorgan-chase-chief-jamie-dimon-new-us-russia-sanctions-bill-101790096632204.html)
@@ -101,7 +101,7 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - UNGA (7.8)
-- Trump (6.7)
+- Trump (7.0)
 - Iran (5.2)
 - India (2.9)
 - What (2.9)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [సినీ పరిశ్రమకు శుభవార్త.. త్వరలోనే నంది అవార్డుల ప్రకటన](https://www.eenadu.net/telugu-news/movies/nandi-awards-announcement-in-october-month/0210/126171435)
-- [India survive Japan scare to clinch 200th T20I win](https://m.cricbuzz.com/cricket-news/140251/india-survive-japan-scare-to-clinch-200th-t20i-win)
-- [India survive Japan scare to clinch 200th T20I win](https://www.cricbuzz.com/cricket-news/140251/india-survive-japan-scare-to-clinch-200th-t20i-win-cricbuzzcom)
-- [এশিয়ান গেমস ২০২৬: টেবিল টেনিস মহিলা দলগত কোয়ার্টার ফাইনালে থাইল্যান্ডকে হারাল ভারত](https://bengali.hindusthansamachar.in/Encyc/2026/9/22/Asian-Games-2026-India-defeated-Thailand-in-the-wo.php)
-- [আইফোন ১৮ প্রো ব্যবহারকারীরা ক্রমাগত তাদের ডিভাইস স্বতঃস্ফূর্তভাবে রিস্টার্ট হওয়ার সমস্যার সম্মুখীন হচ্ছেন।](https://www.vietnam.vn/bn/nguoi-dung-iphone-18-pro-lien-tuc-gap-tinh-trang-may-tu-khoi-dong-lai)
-- [ஆசிய விளையாட்டு போட்டியில் இந்தியாவுக்கு தங்கம்.. தமிழக வீராங்கனைக்கு ஊக்கத்தொகை அறிவித்த முதலமைச்சர் விஜய்](https://www.polimernews.com/sportsnews/india-wins-womens-t20-gold-asia-games-madurai-cricketer-kamalini-gets-rs-75-lakh-incentive-12563832)
-- [અમદાવાદના ગોતામાં સિલ્વર આૅક કોલેજ બહાર ક્રેનની ટક્કરે આશાસ્પદ યુવતીનું મોત](https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-fatal-outside-silver-oak-college-promising-girl-dies-after-being-hit-by-crane-39394040366)
-- [India vs Japan: జపాన్‌పై టీమిండియా థ్రిల్లింగ్ విక్టరీ.. టీ20ల్లో 200వ విజయం](https://telugu.asianetnews.com/gallery/cricket-sports/ind-vs-jpn-india-beats-japan-by-2-runs-in-thriller-to-register-historic-200th-t20i-win-asian-games-2drf3nt)
-- [தமிழ்நாட்டில் தீவிரமடையும் டெங்கு, உண்ணிக் காய்ச்சல்! பாதிப்பு எண்ணிக்கை அதிகரிப்பு](https://viduthalai.in/207143/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%A4%E0%AF%80%E0%AE%B5%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AE%9F%E0%AF%88%E0%AE%AF/)
-- [প্রথমবার দিল্লির বাইরে জাতীয় চলচ্চিত্র পুরস্কারের আসর, রাষ্ট্রপতির হাতে সম্মানিত হবেন তারকারা](https://bengali.indianexpress.com/entertainment/72-national-film-awards-ekta-nagar-president-droupadi-murmu-12563397)
+- [शाहरुख खानने घेतले लालबागच्या राजाचे दर्शन!](https://www.loksatta.com/manoranjan/bollywood/shahrukh-khan-uses-his-manager-pooja-dadlanis-dupatta-during-lalbaugcha-raja-with-wife-and-daughter-netizen-reacts-nsp-98-6149667/)
+- [Rani Mukerji’s mother Krishna Mukerji passes away at 75; Aditya Chopra's production house issues official statement](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-mukerjis-mother-krishna-mukerji-passes-away-at-75-aditya-chopras-production-house-issues-official-statement/articleshow/134408409.cms)
+- [প্রয়াত রানি মুখোপাধ্যায়ের মা, যশরাজ ফিল্মস](https://bengali.abplive.com/entertainment/rani-mukerjis-mother-krishna-mukerji-dies-at-75-1193781)
+- [मैं इस बार जंग हार गया.., इमोशनल होते हुए मार्क वुड ने अंतरराष्ट्रीय क्रिकेट से लिया संन्यास](https://www.livehindustan.com/cricket/england-fast-bowler-mark-wood-has-announced-his-retirement-from-international-cricket-201790068760792.html)
+- [India vs Japan: इज्जत बच गई...जापान से जैसे-तैसे जीती टीम इंडिया](https://www.aajtak.in/sports/cricket/story/india-vs-japan-t20-live-score-and-commentary-ball-by-ball-from-sano-international-cricket-ground-aksp-dskc-2649594-2026-09-22)
+- [36 की उम्र में इस धाकड़ गेंदबाज ने लिया संन्यास, इंग्लैंड के लिए जीते 2 वर्ल्ड कप](https://www.aajtak.in/sports/cricket/story/england-fast-bowler-mark-wood-announces-retirement-from-international-cricket-tspoa-dskc-2650080-2026-09-22)
+- [IND vs JPN : मोठा वाद! श्रेयस अय्यर भांडला, अम्पायरने निर्णय बदलला; तसं नसतं झालं तर जिंकला असता जपान, नेमकं काय घडलं ?](https://www.esakal.com/krida/cricket/ind-vs-jpn-big-controversy-shreyas-iyer-argues-with-umpire-wide-decision-changed-after-axar-patels-delivery-svg87)
+- [तुषार मेहता ने किसे बता दिया 'नक्सली', CJI की कोर्ट में भड़के वकील; जजों ने बीच में दिया दखल](https://www.livehindustan.com/national/vande-mataram-case-supreme-court-tushar-mehta-s-muralidhar-naxalite-remark-201790066346467.html)
+- [मोबाइल रिचार्ज का खेल बदला! TRAI हुआ सख्त, अब बिना डेटा वाले प्लान्स भी मिलेंगे, 28 नहीं, 30 दिन की मिलेगी वैलिडिटी](https://www.aajtak.in/technology/tech-news/story/trai-new-rule-without-data-cheap-recharge-jio-airtel-vi-ttecm-dskc-2650063-2026-09-22)
+- [How the Tata Sons battle unfolded over four board meetings](https://www.moneycontrol.com/news/business/how-the-tata-sons-battle-unfolded-over-four-board-meetings-14035400.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
