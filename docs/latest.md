@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-22 08:36:20
+# India Trending Report — 2026-09-22 09:02:01
 
 ## Google Trends (India) — top trending searches
-1. [asian games medal tally 2026](https://trends.google.com/trending/rss?geo=IN)
-2. [live score](https://trends.google.com/trending/rss?geo=IN)
-3. [fancode](https://trends.google.com/trending/rss?geo=IN)
-4. [jev ai](https://trends.google.com/trending/rss?geo=IN)
-5. [sonyliv](https://trends.google.com/trending/rss?geo=IN)
-6. [email](https://trends.google.com/trending/rss?geo=IN)
-7. [cricbuzz](https://trends.google.com/trending/rss?geo=IN)
-8. [python](https://trends.google.com/trending/rss?geo=IN)
-9. [icici direct](https://trends.google.com/trending/rss?geo=IN)
-10. [cat](https://trends.google.com/trending/rss?geo=IN)
+1. [india vs sri lanka](https://trends.google.com/trending/rss?geo=IN)
+2. [hang seng index](https://trends.google.com/trending/rss?geo=IN)
+3. [nifty 50](https://trends.google.com/trending/rss?geo=IN)
+4. [sports](https://trends.google.com/trending/rss?geo=IN)
+5. [লটারি সংবাদ](https://trends.google.com/trending/rss?geo=IN)
+6. [asian games men](https://trends.google.com/trending/rss?geo=IN)
+7. [bhakra dam](https://trends.google.com/trending/rss?geo=IN)
+8. [कर्मचारी भविष्य निधि](https://trends.google.com/trending/rss?geo=IN)
+9. [meesho share price](https://trends.google.com/trending/rss?geo=IN)
+10. [icc](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [‘Made us sit on lap’: Bihar girls accuse headmaster of entering washroom, harassing](https://timesofindia.indiatimes.com/city/patna/made-us-sit-on-lap-nawada-girls-accuse-headmaster-of-entering-washroom-harassing-them/articleshow/134406433.cms)
 - [First gold for India at Asian Games 2026: Women's cricket team beats Sri Lanka in final](https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/first-gold-for-india-at-asian-games-2026-harmanpreet-kaur-led-womens-cricket-team-beat-sri-lanka-in-final/articleshow/134406442.cms)
 - [Bihar molestation case: Main accused Nandan Yadav injured in police encounter](https://timesofindia.indiatimes.com/city/patna/bihar-class-10-girl-molestation-case-main-accused-nandan-yadav-injured-in-police-encounter-in-jamui/articleshow/134405351.cms)
+- [Russia planning 'grey zone operations'? Why is Europe intuitively spooked](https://timesofindia.indiatimes.com/world/europe/russia-planning-denial-gray-zone-operations-why-is-europe-intuitively-spooked/articleshow/134403086.cms)
 - [Father of dalit IIT-Bombay student, who died by suicide in 2023, detained at stir](https://timesofindia.indiatimes.com/city/mumbai/father-of-dalit-iit-bombay-student-who-died-by-suicide-in-2023-detained-at-stir/articleshow/134400695.cms)
+- [Microsoft AI CEO Mustafa Suleyman has ‘China advice’ for American AI companies](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ai-ceo-mustafa-suleyman-has-advice-for-american-ai-companies-you-should-not-use-china-as-an-excuse-to-skip/articleshow/134387097.cms)
 - [3 pose as cops, gang-rape Delhi teen near Kalkaji Mandir](https://timesofindia.indiatimes.com/city/delhi/3-pose-as-cops-gang-rape-minor-near-kalkaji-mandir/articleshow/134400155.cms)
-- [India survive huge Japan scare, win by two runs in historic T20I](https://timesofindia.indiatimes.com/sports/cricket/news/india-survive-huge-japan-scare-win-by-two-runs-in-historic-t20i/articleshow/134406816.cms)
-- [Zoho founder Sridhar Vembu to engineers: Use AI but never cede](https://timesofindia.indiatimes.com/technology/tech-news/zoho-founder-sridhar-vembu-to-engineers-use-ai-but-never-/articleshow/134401558.cms)
 - [Will shut Iranian flights from tomorrow: US new arm-twist move against Tehran](https://timesofindia.indiatimes.com/world/us/no-fuel-no-services-us-threatens-global-shutdown-of-iranian-airlines-from-wednesday/articleshow/134401733.cms)
-- [India’s space sovereignty: From building missions to building depth](https://timesofindia.indiatimes.com/science/indias-space-sovereignty-from-building-missions-to-building-depth-milestones-gaps-whats-next/articleshow/134404971.cms)
-- [India sees rise in both overweight and underweight](https://timesofindia.indiatimes.com/india/india-sees-rise-in-both-overweight-and-underweight/articleshow/134405982.cms)
-- ['No complaint received by SC/ST cell from Sahil': IIT-B prof on student suicide case](https://timesofindia.indiatimes.com/india/no-complaint-received-by-sc/st-cell-from-sahil-wakode-iit-b-professor-on-student-suicide-case/articleshow/134403567.cms)
+- [Gold jumps 60% to Rs 1.57L from Rs 98,000 a year ago; sales fall 15%, coins gain](https://timesofindia.indiatimes.com/business/india-business/gold-prices-surge-60-from-rs-98000-to-rs-1-57-lakh-per-10-grams-in-a-year-ganesh-chaturthi-sales-fall-15-as-buyers-switch-to-lighter-jewellery-also-buy-coins/articleshow/134405905.cms)
+- [India survive huge Japan scare, win by two runs in historic T20I](https://timesofindia.indiatimes.com/sports/cricket/news/india-survive-huge-japan-scare-win-by-two-runs-in-historic-t20i/articleshow/134406816.cms)
 
 **NDTV**
 - [Key Accused In Bihar Shocker Shot In Police Encounter, Taken To Hospital](https://www.ndtv.com/india-news/jamui-key-accused-in-bihar-shocker-shot-in-police-encounter-taken-to-hospital-12080096#publisher=newsstand)
@@ -50,18 +50,19 @@
 - [National song choice is State’s call, penal consequences open to scrutiny: SC](https://www.hindustantimes.com/india-news/national-song-choice-is-state-s-call-penal-consequences-open-to-scrutiny-sc-101790061176079.html)
 
 **Vijay Karnataka**
-- [ಶಿವಲಿಂಗೇಗೌಡ 'ಲಂಚ'ದ ಹೇಳಿಕೆ ವಿಪಕ್ಷಗಳಿಗೆ ಅಸ್ತ್ರ! ಸರ್ಕಾರದ ನಿಲುವೇನು ಎಂದು ಬಿಜೆಪಿ ಪ್ರಶ್ನೆ, ಕಾಂಗ್ರೆಸ್‌ಗೆ ಮುಜುಗರ](https://vijaykarnataka.com/news/karnataka/shivalinge-gowdas-bribe-remark-becomes-ammunition-for-the-opposition-bjp-questions-the-governments-stance-congress-faces-embarrassment/articleshow/134405230.cms)
-- [Asian Games Women: ಶ್ರೀಲಂಕಾ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ ಐತಿಹಾಸಿಕ ಜಯ: ವನಿತೆಯರ ಮುಡಿಗೇರಿದ 2026ರ ಮೊದಲ ಚಿನ್ನದ ಪದಕ!](https://vijaykarnataka.com/sports/cricket/news/indian-women-cricket-team-achieves-historic-victory-against-sri-lanka-wins-gold-medal-in-asian-games/articleshow/134404415.cms)
-- [ಕರ್ನಾಟಕದ ವಿಧಾನ ಪರಿಷತ್ ಚುನಾವಣೆ ಘೋಷಣೆ: ವೇಳಾಪಟ್ಟಿ ಬಿಡುಗಡೆ ಮಾಡಿದ ಚುನಾವಣಾ ಆಯೋಗ; 4 ಶಾಸಕರು ನಿವೃತ್ತಿ](https://vijaykarnataka.com/news/karnataka/karnataka-legislative-council-elections-announced-4-members-retiring-election-commission-releases-schedule/articleshow/134406199.cms)
+- [ಕೆಪಿಎಸ್‌ಸಿ ಬಂದ್‌ ಮಾಡಲು ಯೋಚಿಸುತ್ತಿದ್ದೇನೆ: ಸಾರ್ವಜನಿಕ ಪರೀಕ್ಷೆಗಳಿಗೆ ʻಅನ್ಯ ಮಾರ್ಗʼ ಹುಡುಕುತ್ತಿರುವುದಾಗಿ ಡಿಕೆ ಶಿವಕುಮಾರ್ ಘೋಷಣೆ!‌](https://vijaykarnataka.com/news/karnataka/cm-dk-shivakumar-in-search-of-possible-ways-to-shut-down-kpsc-for-alleged-recruitment-scam/articleshow/134407323.cms)
+- [ಕ್ರಿಕೆಟ್ ಅವಕಾಶ ವಂಚಿತ ಮೊಹಮ್ಮದ್ ಶಮಿ ರಾಜಕೀಯಕ್ಕೆ: ಬಿಜೆಪಿ ಮೈತ್ರಿಕೂಟದಿಂದ ಸ್ಪರ್ಧೆ?](https://vijaykarnataka.com/news/india/mohammed-shami-politics-bjp-alliance-speculation-uttar-pradesh-assembly-election-2027/articleshow/134407345.cms)
+- [ಮಲೆನಾಡನ್ನು ಆವರಿಸಿದ ಭೀಕರ ಬರ: ಥಂಡಿ ಕಾಲದಲ್ಲಿ ಚಂಡಿ ಬಿಸಿಲು, ನೀರೂ ಇಲ್ಲ, ವಿದ್ಯುತ್ ಕೂಡಾ ಇಲ್ಲ!](https://vijaykarnataka.com/news/shivamogga/severe-drought-grips-malenadu-in-karnataka-scorching-heat-during-the-cool-season-no-water-and-no-electricity-either/articleshow/134405353.cms)
 - [ದಪ್ಪ, ಆರೋಗ್ಯಕರ ಗಡ್ಡ ಬೇಕಾ? ತೆಂಗಿನೆಣ್ಣೆ, ಹರಳೆಣ್ಣೆ ಸೇರಿದಂತೆ ಈ ನೈಸರ್ಗಿಕ ಎಣ್ಣೆಗಳ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/beauty/natural-oils-for-thicker-healthier-beard-rosemary-castor-oil/articleshow/134406313.cms)
-- [ಪುಲ್ಕಿತ್‌ ಮಣಿ ಯಾರು? ನರೇಂದ್ರ ಮೋದಿ ಅನುಕರಿಸಿ ಸಂಕಷ್ಟಕ್ಕೆ ಸಿಲುಕಿದ ಹಾಸ್ಯನಟ: ಕರಿಯರ್‌ ತಿಂದ್ರಾ ರಾಹುಲ್‌ ಗಾಂಧಿ?](https://vijaykarnataka.com/news/india/who-is-pulkit-mani-comedian-who-is-in-trouble-after-pm-modi-mimicry-row-in-rahul-gandhi-event/articleshow/134402368.cms)
-- [ಪಲ್ಲವಿ ಮೆಡಂಗೆ ಏನಾಗಿತ್ತು? ನಿಜವಾದ ಕಾರಣ ತಿಳಿಸಿ ಗಳಗಳನೆ ಅತ್ತ ಮಲ್ಲಮ್ಮ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bigg-boss-kannada-mallamma-mentor-pallavi-passes-away-dengue-fever/articleshow/134406565.cms)
+- [ಶಿವಲಿಂಗೇಗೌಡ 'ಲಂಚ'ದ ಹೇಳಿಕೆ ವಿಪಕ್ಷಗಳಿಗೆ ಅಸ್ತ್ರ! ಸರ್ಕಾರದ ನಿಲುವೇನು ಎಂದು ಬಿಜೆಪಿ ಪ್ರಶ್ನೆ, ಕಾಂಗ್ರೆಸ್‌ಗೆ ಮುಜುಗರ](https://vijaykarnataka.com/news/karnataka/shivalinge-gowdas-bribe-remark-becomes-ammunition-for-the-opposition-bjp-questions-the-governments-stance-congress-faces-embarrassment/articleshow/134405230.cms)
+- [Photos: ಅದ್ಧೂರಿಯಾಗಿ ಗಣೇಶೋತ್ಸವ ಮಾಡಿ ಕುಣಿದು ಕುಪ್ಪಳಿಸಿದ ‘ಗೀತಾ’ ನಟಿ ಶರ್ಮಿತಾ ಗೌಡ!](https://vijaykarnataka.com/vk-gallery/cinema/geetha-serial-actress-sharmitha-gowda-celebrates-ganesha-chathurthi-2026/photoshow/134407619.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [ಅತಿಯಾದ ಅಕ್ಕರೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಿಕೊಳ್ಳಲು ಭಗವದ್ಗೀತೆಯ 5 ಪಾಠಗಳು.!](https://vijaykarnataka.com/religion/hinduism/these-are-the-5-bhagavad-gita-lessons-helps-you-to-come-out-from-over-attachment/articleshow/134407066.cms)
 - [ಜಿಮ್‌ನಲ್ಲಿ ವರ್ಕೌಟ್, ಕ್ರಿಕೆಟ್ ಆಡುವಾಗಲೇ ಹೃದಯಾಘಾತ; ಆರೋಗ್ಯವಂತರಿಗೂ ಏಕೆ ಈ ಅಪಾಯ?](https://vijaykarnataka.com/lifestyle/health/world-heart-day-2026-why-heart-attack-occurs-during-cricket-or-gym-workout/articleshow/134404192.cms)
-- [ಇದು ಬೆಳಕಲ್ಲ, ದರ್ಶನ: ಟೆಹ್ರಾನ್‌ ರಾತ್ರಿ ಆಕಾಶದಲ್ಲಿ ನಿಗೂಢ ಹಾರುವ ವಸ್ತು ಪತ್ತೆ! ಪರಗ್ರಹ ಜೀವಿಗಳನ್ನೂ ಸೆಳೆದ ಅಮೆರಿಕದ ಯುದ್ಧ?](https://vijaykarnataka.com/news/world/mysterious-object-hovers-over-tehran-sky-1976-ufo-sighting-incident-recurred-amid-us-iran-war/articleshow/134405510.cms)
+- [Asian Games Women: ಶ್ರೀಲಂಕಾ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ ಐತಿಹಾಸಿಕ ಜಯ: ವನಿತೆಯರ ಮುಡಿಗೇರಿದ 2026ರ ಮೊದಲ ಚಿನ್ನದ ಪದಕ!](https://vijaykarnataka.com/sports/cricket/news/indian-women-cricket-team-achieves-historic-victory-against-sri-lanka-wins-gold-medal-in-asian-games/articleshow/134404415.cms)
 
 **The Hindu**
+- [Exalogic-CMRL payoff case: Keralam’s UDF govt orders police inquiry into ED report seeking action against Pinarayi Vijayan](https://www.thehindu.com/news/national/kerala/exalogic-cmrl-payoff-case-keralams-udf-govt-orders-police-inquiry-into-ed-report-seeking-action-against-pinarayi-vijayan/article71494724.ece)
 - [36 Ganesh Utsav Samithi members detained after protest at Tank Bund](https://www.thehindu.com/news/national/telangana/36-ganesh-utsav-samithi-members-detained-after-protest-at-tank-bund/article71492411.ece)
 - [Jamui minor girl harassment case: Main accused shot in the leg during police encounter](https://www.thehindu.com/news/national/bihar/jamui-minor-girl-harassment-case-main-accused-shot-in-the-leg-during-police-encounter/article71494721.ece)
 - [Women’s cricket team extends dominance, delivers India its first gold at Asian Games 2026](https://www.thehindu.com/sport/cricket/womens-cricket-team-extends-dominance-delivers-india-its-first-gold-at-asian-games-2026/article71494713.ece)
@@ -71,9 +72,9 @@
 - [Pawan Kalyan to shift to Pithapuram by year-end, set up camp office to strengthen Jana Sena](https://www.thehindu.com/news/national/andhra-pradesh/pawan-kalyan-to-shift-to-pithapuram-by-year-end-set-up-camp-office-to-strengthen-jana-sena/article71494403.ece)
 - [Another inscription brought to light at Kondaveedu fort](https://www.thehindu.com/news/national/andhra-pradesh/another-inscription-brought-to-light-at-kondaveedu-fort/article71494140.ece)
 - [UDF faces criticism over Ministers’ alleged foreign junkets, Keralam CM’s private plane travel](https://www.thehindu.com/news/national/kerala/udf-faces-criticism-over-ministers-alleged-foreign-junkets-keralam-cms-private-plane-travel/article71494511.ece)
-- [More ragi with less water: Online programme to promote ‘Guli Ragi’ cultivation on September 23](https://www.thehindu.com/news/national/karnataka/more-ragi-with-less-water-online-programme-to-promote-guli-ragi-cultivation-on-september-23/article71494290.ece)
 
 **Livemint**
+- [Tier-3 tech graduate's professional journey from  ₹3 LPA to  ₹20 LPA goes viral: ‘Constantly felt like I wasn’t good’](https://www.livemint.com/news/trends/tier3-tech-graduates-professional-journey-from-3-lpa-to-20-lpa-goes-viral-constantly-felt-like-i-wasn-t-good-11790063555175.html)
 - [Trump vs press: From Nixon and Obama to White House media ban, history of presidential clashes with journalists](https://www.livemint.com/news/us-news/trump-vs-press-from-nixon-and-obama-to-white-house-media-ban-history-of-presidential-clashes-with-journalists-11790060781145.html)
 - [Will Trump meet Iranian President Pezeshkian at UNGA in New York? Here's what to expect as US-Iran war rages on](https://www.livemint.com/news/us-news/will-trump-meet-iranian-president-pezeshkian-at-unga-in-new-york-heres-what-to-expect-as-us-iran-war-rages-on-11790063023596.html)
 - [Rajya Sabha Election dates for UP, Uttarakhand, Bengal announced: Full schedule, retiring members; who is likely to win](https://www.livemint.com/news/india/rajya-sabha-election-dates-for-up-uttarakhand-bengal-announced-full-schedule-retiring-members-who-is-likely-to-win-11790059884419.html)
@@ -83,7 +84,6 @@
 - [Green dot or red? What the new labeling means for your everyday toiletries as Centre amends Legal Metrology Rules](https://www.livemint.com/news/india/green-dot-or-red-what-the-new-labeling-means-for-your-everyday-toiletries-as-centre-amends-legal-metrology-rules-11790055047744.html)
 - [Who is Justice RC Chavan? Ex-Bombay HC judge who resigned from Maharashtra UCC panel — Here's why he quit](https://www.livemint.com/news/india/who-is-justice-rc-chavan-ex-bombay-hc-judge-who-resigned-from-maharashtra-ucc-panel-heres-why-he-quit-11790054466099.html)
 - [China expels 2 top generals ‘disloyal’ to CCP: Why is Xi Jinping purging PLA's top ranks?](https://www.livemint.com/news/world/china-expels-2-top-generals-disloyal-to-ccp-why-is-xi-jinping-purging-plas-top-ranks-11790047748193.html)
-- [‘Soul-sucking’: Techie's viral post on AI coding tools sparks debate, Elon Musk reacts](https://www.livemint.com/news/trends/soulsucking-techies-viral-post-on-ai-coding-tools-sparks-debate-elon-musk-reacts-11790045885996.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,8 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [‘ರಾಮನ ಹೆಸರಿಗೆ ಕಳಂಕ ತರಬೇಡಿ’: ರಾಮಮಂದಿರ ದೇಣಿಗೆ ಕಳ್ಳತನ ಪ್ರಕರಣದ ಚಾರ್ಜ್‌ಶೀಟ್ ವಿಳಂಬಕ್ಕೆ ಕಾಂಗ್ರೆಸ್ ಟೀಕೆ](https://www.varthabharati.in/National/do-not-tarnish-the-name-of-rama-congress-criticizes-delay-in-charge-sheet-filing-for-ram-mandir-donation-theft-case-2277026)
+- [ಕಾಞಂಗಾಡ್ | ನಿತ್ಯಾನಂದ ಆಶ್ರಮದಲ್ಲಿ ʼಅನುಭವ ಕಥನʼ ಕೃತಿ ಬಿಡುಗಡೆ](https://www.varthabharati.in/kasaragod/kanhangad-anubhava-kathana-book-released-at-nityananda-ashram-2277024)
 - [Basavakalyan | ಬೈಕ್‌ಗೆ ಟ್ರಕ್‌ ವಾಹನ ಢಿಕ್ಕಿ : ಸವಾರ ಸ್ಥಳದಲ್ಲೇ ಮೃತ್ಯು](https://www.varthabharati.in/bidar/basavakalyan-truck-collides-with-bike-rider-dies-on-the-spot-2277022)
 - [ಕಸ್ತೂರಿ ರಂಗನ್ ವರದಿ ಮತ್ತು ಬರ ಪರಿಸ್ಥಿತಿ: ರಾಜ್ಯದ ಹಿತಾಸಕ್ತಿಯ ವಿಚಾರದಲ್ಲಿ ರಾಜಕೀಯ ಬೇಡ, ಒಗ್ಗಟ್ಟು ಇರಲಿ : ಜಿ.ಪರಮೇಶ್ವರ್‌](https://www.varthabharati.in/state/possibility-of-200-taluks-being-added-to-drought-hit-list-g-parameshwara-2277021)
 - [Raichur | ಕಾಲುವೆ ಬಂದ್ ವಿರೋಧಿಸಿ ಸಿಂಧನೂರಿನಲ್ಲಿ ಮುಂದುವರಿದ ರೈತರ ಪ್ರತಿಭಟನೆ](https://www.varthabharati.in/raichur/raichur-farmers-protest-in-sindhanur-against-canal-closure-2277019)
@@ -106,16 +108,16 @@
 - [ಬೀದರ್‌ನ ಶಾಹೀನ್ ಸಂಸ್ಥೆಯ ಮಂಗಳೂರಿನ ವಿದ್ಯಾರ್ಥಿನಿ ತೀವ್ರ ಅಸ್ವಸ್ಥ : ಸಮಗ್ರ ತನಿಖೆಗೆ ಪೋಷಕರ ಆಗ್ರಹ](https://www.varthabharati.in/dakshinakannada/bidars-shaheen-institution-student-from-mangaluru-critically-ill-parents-demand-thorough-probe-2277014)
 - [ಈ ದುರಂತ ಸರಣಿಗೆ ಕೊನೆಯೇ ಇಲ್ಲವೇ?](https://www.varthabharati.in/nimma-ankana/is-there-no-end-to-this-series-of-tragedies-2277012)
 - [ಉತ್ತರ ಪ್ರದೇಶ ಸೇರಿದಂತೆ 3 ರಾಜ್ಯಗಳ 12 ರಾಜ್ಯಸಭಾ ಸ್ಥಾನಗಳಿಗೆ ಚುನಾವಣೆ ದಿನಾಂಕ ಘೋಷಣೆ](https://www.varthabharati.in/National/rajya-sabha-polls-on-october-16-12-seats-up-for-grabs-in-up-uttarakhand-and-bengal-2277011)
-- [ಬಂಟಕಲ್ಲು | ಚಿರತೆಯ ಮೃತದೇಹ ಪತ್ತೆ](https://www.varthabharati.in/udupi/bantakal-leopard-carcass-found-2277010)
-- [ಕರ್ನಾಟಕ ಸೇರಿದಂತೆ 4 ರಾಜ್ಯಗಳ ಪದವೀಧರ, ಶಿಕ್ಷಕರ ಕ್ಷೇತ್ರಗಳಿಗೆ ಚುನಾವಣೆ ದಿನಾಂಕ ಘೋಷಣೆ](https://www.varthabharati.in/national/election-dates-announced-for-graduate-and-teacher-constituencies-in-four-states-including-karnataka-2277007)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (8.7)
+- India (6.1)
 - Emkay Global Financial (5.0)
 - ICICI Securities (3.0)
 - target (3.0)
+- China (2.9)
 - Hyderabad (2.9)
 - Trump (2.9)
+- Bihar (2.9)
 - Main (2.6)
 - Opinion (2.6)
 - Scheme (2.6)
@@ -123,12 +125,12 @@
 - Asian Games (2.0)
 - IIT Bombay (2.0)
 - White House (2.0)
-- Buy Bajaj Finance (2.0)
-- What (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [Researchers have tweaked the traditional lithium-ion battery formula to deliver high capacity in high-power discharges - exactly what we need for home energy storage and EV batteries](https://tech.yahoo.com/science/articles/researchers-tweaked-traditional-lithium-ion-210000659.html)
+- [Zaheer appointment another sign of Dhoni’s enduring influence at CSK](https://www.cricbuzz.com/cricket-news/140245/at-csk-zaheer-khans-appointment-is-another-sign-of-dhonis-enduring-influence-cricbuzzcom)
 - [Upcoming superpower: 4 European nations back India's bid for permanent UNSC seat](https://www.indiatoday.in/india/story/un-security-council-india-wins-support-from-4-european-nations-for-permanent-unsc-seat-2999914-2026-09-22)
 - [অন্নপূর্ণা যোজনা সংক্রান্ত অভিযোগ জানাতে হবে রাজনৈতিক দলের নেতাদের, সরকারি অফিসের পরামর্শ ঘিরে বিতর্ক](https://eisamay.com/west-bengal-news/bardhaman-news/controversy-surrounds-the-directive-for-government-offices-to-refer-complaints-regarding-the-annapurna-yojana-to-political-party-leaders/200545751.cms)
 - [46 കോടിയുടെ ചെക്ക് തട്ടിപ്പ്; നടി അംബികയ്‌ക്കെതിരേ സഹോദരി രാധയുടെ പരാതി](https://www.mathrubhumi.com/pravasi/chennai/pravasi-chennai-hrzu9krt)
@@ -137,8 +139,6 @@
 - [நடிகை அம்பிகா மீது ராதா புகார்](https://www.dinamalar.com/news/tamil-nadu-news/46-attempt-to-defraud-of-crores-radha-files-complaint-against-actress-ambika/4329189)
 - [No median cuts, surface intersections on future high-speed NH corridors: NHAI](https://timesofindia.indiatimes.com/india/no-median-cuts-surface-intersections-on-future-high-speed-nh-corridors-nhai/articleshow/134397321.cms)
 - [Googlebook laptops: specs, pricing and release date](https://t2online.in/tech/tech-news/googlebook-laptops--specs--pricing-and-release-date/2008160)
-- [రష్యా పార్లమెంట్‌ ఎన్నికల్లో పుతిన్‌ ఘన విజయం](https://www.ntnews.com/international/putins-united-russia-scores-landslide-victory-in-russian-parliamentary-elections-2516535)
-- [కుమారుడి పేరు వెల్లడించిన నారా రోహిత్‌](https://www.eenadu.net/telugu-news/movies/nara-rohith-reveals-son-name/0201/126170924)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
