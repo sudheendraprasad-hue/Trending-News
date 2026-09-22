@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-22 01:34:25
+# India Trending Report — 2026-09-22 02:02:11
 
 ## Google Trends (India) — top trending searches
 1. [video](https://trends.google.com/trending/rss?geo=IN)
@@ -15,7 +15,7 @@
 ## Latest headlines by outlet
 **Times of India**
 - [Grounds in writing a must during arrests even in UAPA: Supreme Court](https://timesofindia.indiatimes.com/india/grounds-in-writing-a-must-during-arrests-even-in-uapa-supreme-court/articleshow/134399539.cms)
-- ['Russia has lost control': Trump flags diesel crisis, calls for end to Ukraine war](https://timesofindia.indiatimes.com/world/us/russia-has-lost-control-trump-flags-diesel-crisis-calls-for-end-to-ridiculous-ukraine-war/articleshow/134389919.cms)
+- [Inevitable veto power? 4 European nations back India’s permanent UN seat bid](https://timesofindia.indiatimes.com/india/visegrad-four-backs-india-for-permanent-unsc-seat-jaishankar-calls-first-india-v4-meet-historic/articleshow/134397233.cms)
 - [Amid Trump’s clash with CNN, Politico, MS NOW, White House launches ‘Trump TV’](https://timesofindia.indiatimes.com/world/us/amid-trumps-clash-with-cnn-politico-ms-now-white-house-launches-trump-tv/articleshow/134399824.cms)
 - [US to reopen Cold War-era base, set up new military presence in Greenland: Report](https://timesofindia.indiatimes.com/world/us/us-plans-to-reopen-two-military-sites-in-greenland-report/articleshow/134399797.cms)
 - [USCIS warns against websites and businesses ‘guaranteeing’ faster visa](https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-warns-visa-applicants-against-websites-and-businesses-guaranteeing-visa-green-card-or-work-permit-faster/articleshow/134383537.cms)
@@ -23,7 +23,7 @@
 - [Oilers linked to Dylan Larkin trade in Matthew Savoie-led blockbuster](https://timesofindia.indiatimes.com/sports/nhl/news/oilers-linked-to-blockbuster-dylan-larkin-trade-as-matthew-savoie-led-package-puts-detroit-in-a-difficult-position/articleshow/134379564.cms)
 - [Retired man deposits Rs 1.33cr, files no ITR; taxman sends notice, what ITAT said](https://timesofindia.indiatimes.com/business/india-business/retired-senior-citizen-teacher-deposited-rs-1-33-crore-cash-but-filed-no-itr-taxman-added-rs-48-73-lakh-itat-quashes-reassessment-heres-why/articleshow/134393155.cms)
 - [Lt Gen Mohit Seth to be new GOC of White Knight Corps](https://timesofindia.indiatimes.com/india/lt-gen-mohit-seth-to-be-new-goc-of-white-knight-corps/articleshow/134399769.cms)
-- [El Nino, heat fuel destructive storms across Pacific](https://timesofindia.indiatimes.com/home/environment/el-nino-heat-fuel-destructive-storms-across-pacific/articleshow/134399598.cms)
+- [5 British schoolgirls, 14-15, build firebreak robot, represent UK globally](https://timesofindia.indiatimes.com/world/uk/five-british-schoolgirls-aged-14-and-15-built-a-robot-with-five-metre-folding-arms-designed-to-create-wildfire-firebreaks-their-two-year-old-robotics-club-is-now-representing-great-britain-globally/articleshow/134394841.cms)
 
 **NDTV**
 - [6 Killed, 8 Injured In Saudi Strikes In Yemen Port City: Report](https://www.ndtv.com/world-news/6-killed-8-injured-in-saudi-strikes-in-yemen-port-city-report-12078728#publisher=newsstand)
@@ -38,7 +38,9 @@
 - [2 Workers Killed In Fire At Tyre Oil Factory In UP](https://www.ndtv.com/india-news/2-workers-killed-in-fire-at-tyre-oil-factory-in-up-12078426#publisher=newsstand)
 
 **Hindustan Times**
+- [Bihar minister calls Jamui harassment case 'isolated', 'minor' incident; Opposition terms it ‘blot’](https://www.hindustantimes.com/india-news/bihar-minister-jdu-state-president-calls-jamui-harassment-case-isolated-minor-incident-opposition-terms-it-blot-101790039579942.html)
 - [Indian Institutes of Management mull over common UG entrance test, MBA counselling amid other changes](https://www.hindustantimes.com/india-news/iim-indian-institute-of-management-common-ug-entrance-test-admissions-counselling-mba-101790036497853.html)
+- [Supreme Court bars re-arrest of person after illegal arrest, mandates judicial oversight](https://www.hindustantimes.com/india-news/supreme-court-bars-re-arrest-of-person-after-illegal-arrest-mandates-judicial-oversight-101790017860019.html)
 - [Two workers killed in fire at tyre oil factory in UP](https://www.hindustantimes.com/india-news/two-workers-killed-in-fire-at-tyre-oil-factory-in-up-101790016612494.html)
 - [Starbucks to open first India global capability centre in Chennai, create 800 high-paying jobs](https://www.hindustantimes.com/india-news/starbucks-to-open-first-india-global-capability-centre-in-chennai-create-800-high-paying-jobs-101790009279136.html)
 - [‘Recall Bihar before 2005’, JD(U) state chief says on Jamui harassment row; RJD alleges ‘goonda raj’](https://www.hindustantimes.com/india-news/recall-bihar-before-2005-jdu-state-chief-umesh-singh-kushwaha-jamui-harassment-row-congress-rjd-allege-goonda-raj-101790003810456.html)
@@ -46,22 +48,21 @@
 - [57-year-old dairy operator killed after Thar hits scooter in Jaipur](https://www.hindustantimes.com/india-news/57-year-old-dairy-operator-killed-after-thar-hits-scooter-in-jaipur-101789999975216.html)
 - [India-New Zealand FTA to come into force on October 20, Piyush Goyal says](https://www.hindustantimes.com/india-news/indianew-zealand-fta-to-come-into-force-on-october-20-piyush-goyal-says-101790005605009.html)
 - [Goa elderly sisters found dead at home, leave cash for last rites: Police](https://www.hindustantimes.com/india-news/goa-elderly-sisters-found-dead-at-home-leave-cash-for-last-ritespolice-101790003748715.html)
-- [Google to report child abuse content directly to Indian authorities: Spokesperson](https://www.hindustantimes.com/india-news/google-to-report-child-sexual-abuse-content-directly-to-indian-authorities-spokesperson-101790003322115.html)
-- [Inter-state gang behind Sagar spurious liquor tragedy: MP Police](https://www.hindustantimes.com/india-news/interstate-gang-behind-sagar-spurious-liquor-tragedy-mp-police-101790000564204.html)
 
 **Vijay Karnataka**
+- [ಬೆಂಗಳೂರು ವಾಯು ಗುಣಮಟ್ಟ ಕಳಪೆ! 2026ರ ರಾಷ್ಟ್ರೀಯ ಶುದ್ಧ ಗಾಳಿ ಸಮೀಕ್ಷೆಯಲ್ಲಿ ಸಿಲಿಕಾನ್‌ ಸಿಟಿಗೆ 32ನೇ ಸ್ಥಾನ; ದೆಹಲಿ, ಮುಂಬೈಗಿಂತ ಹಿಂದೆ..](https://vijaykarnataka.com/news/bengaluru-city/clean-air-survey-bengaluru-ranks-32nd-in-centres-swachh-vayu-sarvekshan-2026-falling-behind-delhi-and-mumbai/articleshow/134399965.cms)
 - [ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರದಲ್ಲಿ ಎತ್ತಿನಹೊಳೆ ನೀರಿನ ನಿರೀಕ್ಷೆ: ಬಯಲುಸೀಮೆ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಬರ ತೀವ್ರ ಸಂಕಷ್ಟಕ್ಕೆ ಬೇಕಿದೆ ಶಾಶ್ವತ ಪರಿಹಾರ](https://vijaykarnataka.com/news/bengaluru-rural/when-ettinahole-project-water-reaches-to-bengaluru-rural-demand-for-water-in-drought-condition-asking-for-permanent-solution/articleshow/134400051.cms)
 - [ಕದ್ರಿ ಬಳಿ 200m ಎತ್ತರದ ʼಮಂಗಳೂರು ಐʼ ಕಟ್ಟಡಕ್ಕೆ ಕ್ಯಾಬಿನೆಟ್‌ ಅಸ್ತು; ದುಬೈ ಮಾಡೆಲ್‌ 360 ಡಿಗ್ರಿ ವೀಕ್ಷಣಾ ಗ್ಯಾಲರಿ ಸೇರಿ ನಾನಾ ವಿಶೇಷತೆ!](https://vijaykarnataka.com/news/mangaluru/cabinet-approves-to-build-200m-tall-mangaluru-eye-building-with-dubai-model-360-degree-viewing-gallery/articleshow/134399822.cms)
-- [El Niño: ಕರಾವಳಿಯ‌ಲ್ಲಿ ಹಿಂಗಾರು ಅವಧಿಯಲ್ಲೇ ಸುಡುಬಿಸಿಲು; ಶೇ.29ರಷ್ಟು ಮಳೆ ಕೊರತೆಗೆ ಭತ್ತದ ಬೆಳೆಗೂ ಬಿಸಿಲಿನ ಬರ!](https://vijaykarnataka.com/news/mangaluru/el-nio-impact-declining-rainfall-in-coastal-areas-severe-effect-on-rice-crop-and-increasing-temperature/articleshow/134399771.cms)
 - [ಟಾಯ್ಲೆಟ್‌ ಬೌಲ್ ಸುತ್ತ ಬೇಕಿಂಗ್ ಸೋಡಾ ಸಿಂಪಡಿಸುವ ಹೊಸ ಟ್ರೆಂಡ್; ನಿಜಕ್ಕೂ ಇದರಿಂದ ಏನು ಪ್ರಯೋಜನ?](https://vijaykarnataka.com/lifestyle/home-decor/baking-soda-around-toilet-bowl-benefits-cleaning-science/articleshow/134388683.cms)
-- [ದಕ್ಷಿಣ ಕನ್ನಡವೋ? ಮಂಗಳೂರೋ?: ದಕ್ಷಿಣಕನ್ನಡ ಜಿಲ್ಲೆ ಮರುನಾಮಕರಣಕ್ಕೆ ಸಂಪುಟದ ತಾತ್ವಿಕ ಒಪ್ಪಿಗೆಯಿಂದ ಹೊಸ ಚರ್ಚೆ ಶುರು!](https://vijaykarnataka.com/news/mangaluru/dakshina-kannada-vs-mangaluru-debate-as-cabinet-approves-renaming-dakshina-kannada-district-gives-30-day-deadline/articleshow/134399616.cms)
-- [BBK 13 ಸೌಂದರ್ಯ ಶೆಟ್ಟಿಗೆ ಜೈಲು ಶಿಕ್ಷೆ: ತಬ್ಬಿ ಕ್ಷಮೆ ಕೇಳಿದ ಮಂಜ, ಬಿಗ್‌ ಬಾಸ್‌ ಕಣ್ಣಾಮುಚ್ಚಾಲೆ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/in-bbk-13-has-sentenced-soundarya-shetty-to-jail-for-hitting-modern-mahakavi-manja/articleshow/134397478.cms)
+- [El Niño: ಕರಾವಳಿಯ‌ಲ್ಲಿ ಹಿಂಗಾರು ಅವಧಿಯಲ್ಲೇ ಸುಡುಬಿಸಿಲು; ಶೇ.29ರಷ್ಟು ಮಳೆ ಕೊರತೆಗೆ ಭತ್ತದ ಬೆಳೆಗೂ ಬಿಸಿಲಿನ ಬರ!](https://vijaykarnataka.com/news/mangaluru/el-nio-impact-declining-rainfall-in-coastal-areas-severe-effect-on-rice-crop-and-increasing-temperature/articleshow/134399771.cms)
+- [ಗಿನ್ನೆಸ್‌ ಪುಟಕ್ಕೆ ಸೇರಿದ ಅಲ್ಲು ಅರ್ಜುನ್‌ ʻರಾಕಾʼ: ರಿಯಲ್ ಟೈಮ್‌ ಮೋಷನ್‌ ಕ್ಯಾಪ್ಚರ್‌ನಲ್ಲಿ ಹೊಸ ಸಾಹಸ!](https://vijaykarnataka.com/entertainment/news/allu-arjun-atlee-raaka-guinness-world-record-motion-capture/articleshow/134400167.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
-- [2026 ಪರಿವರ್ತಿನಿ ಏಕಾದಶಿ: ಶುಭ ಮುಹೂರ್ತ, ಪೂಜೆ ವಿಧಾನ, ಮಹತ್ವ ಮತ್ತು ಮಂತ್ರಗಳು.!](https://vijaykarnataka.com/religion/festivals/parivartini-ekadashi-2026-date-and-time-puja-procedures-importance-and-mantras/articleshow/134390736.cms)
+- [2026 ಪರಿವರ್ತಿನಿ ಏಕಾದಶಿ: ಇಂದು ದಾನ ಮಾಡಬೇಕಾದ ವಸ್ತುಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/parivartini-ekadashi-2026-donate-these-things-to-remove-money-problems/articleshow/134400207.cms)
 - [ವಯಸ್ಸಾದ ಪೋಷಕರಲ್ಲಿ ಈ ಬದಲಾವಣೆಗಳು ಕೇವಲ ವಯಸ್ಸಿನ ಲಕ್ಷಣವಲ್ಲ; ಆಲ್ಝೈಮರ್ಸ್‌ನ ಆರಂಭಿಕ ಸೂಚನೆಯೂ ಆಗಿರಬಹುದು!](https://vijaykarnataka.com/lifestyle/health/world-alzheimers-day-2026-early-signs-alzheimers-parents/articleshow/134386113.cms)
-- [ಘಟ್ಟ ಪ್ರದೇಶ ಸಂರಕ್ಷಣೆ, ಸ್ಥಳೀಯರ ಹಿತ ಎರಡೂ ಮುಖ್ಯ: ಕಸ್ತೂರಿ ರಂಗನ್ ವರದಿ ಬಗ್ಗೆ ನಿಲುವು ಸ್ಪಷ್ಟಪಡಿಸಿದ ರಾಜ್ಯ ಸರಕಾರ](https://vijaykarnataka.com/news/karnataka/the-state-government-clarifies-on-kasturi-rangan-report-conservation-of-western-ghats-and-welfare-of-locals-both-important/articleshow/134394239.cms)
+- [ದಕ್ಷಿಣ ಕನ್ನಡವೋ? ಮಂಗಳೂರೋ?: ದಕ್ಷಿಣಕನ್ನಡ ಜಿಲ್ಲೆ ಮರುನಾಮಕರಣಕ್ಕೆ ಸಂಪುಟದ ತಾತ್ವಿಕ ಒಪ್ಪಿಗೆಯಿಂದ ಹೊಸ ಚರ್ಚೆ ಶುರು!](https://vijaykarnataka.com/news/mangaluru/dakshina-kannada-vs-mangaluru-debate-as-cabinet-approves-renaming-dakshina-kannada-district-gives-30-day-deadline/articleshow/134399616.cms)
 
 **The Hindu**
+- ['Historic occasion': Jaishankar describes first V4+India Foreign Ministers meeting](https://www.thehindu.com/news/national/historic-occasion-jaishankar-describes-first-v4india-foreign-ministers-meeting/article71493950.ece)
 - [GST rate cuts have been offset by ‘galloping’ inflation: Congress](https://www.thehindu.com/news/national/gst-rate-cuts-have-been-offset-by-galloping-inflation-congress/article71492303.ece)
 - [Former V-P Hamid Ansari’s remarks exposed ‘Muslim League-Maoist character’ of Congress, says BJP](https://www.thehindu.com/news/national/former-v-p-hamid-ansaris-remarks-exposed-muslim-league-maoist-character-of-congress-says-bjp/article71491220.ece)
 - [Academicians write to Governor opposing the inter-university transfer of teachers](https://www.thehindu.com/news/national/west-bengal/academicians-write-to-governor-opposing-the-inter-university-transfer-of-teachers/article71492099.ece)
@@ -71,9 +72,9 @@
 - [Next panchayat election only after the delimitation: Samrat Choudhary](https://www.thehindu.com/news/national/bihar/next-panchayat-election-only-after-the-delimitation-samrat-choudhary/article71491749.ece)
 - [NCW takes suo motu cognizance of Jamui incident](https://www.thehindu.com/news/national/bihar/ncw-takes-suo-motu-cognizance-of-jamui-incident/article71491840.ece)
 - [BJP wins six of seven mayoral polls in Rajasthan; Congress cries foul](https://www.thehindu.com/news/national/rajasthan/bjp-wins-six-of-seven-mayoral-polls-in-rajasthan-congress-cries-foul/article71492065.ece)
-- [Mahayuti Minister Mangal Prabhat Lodha is suppressing voice of community members, alleges Jain Monk](https://www.thehindu.com/news/cities/mumbai/mahayuti-minister-mangal-prabhat-lodha-is-suppressing-voice-of-community-members-alleges-jain-monk/article71492226.ece)
 
 **Livemint**
+- [Taylor Swift gets new MTV VMA honour as Madonna returns: 5 things to know about 2026 awards](https://www.livemint.com/news/us-news/taylor-swift-gets-new-mtv-vma-honour-as-madonna-returns-5-things-to-know-about-2026-awards-11790041020414.html)
 - [Over 1,000 flights cancelled as air travel disrupted across US Northeast; services resume: What caused the outage?](https://www.livemint.com/news/us-news/over-1-000-flights-cancelled-as-air-travel-disrupted-across-us-northeast-services-resume-what-caused-the-outage-11790039694714.html)
 - [US-Iran War LIVE: US threatens Iran airlines with shutdown; oil prices edge higher](https://www.livemint.com/news/us-news/us-iran-war-live-updates-oil-price-strait-of-hormuz-houthis-attack-saudi-trump-red-sea-11790038133488.html)
 - [Uttar Pradesh to Gujarat: how job crisis differs in India’s poll-bound states](https://www.livemint.com/news/india/up-to-gujarat-how-job-crisis-differs-in-india-s-poll-bound-states-11789990572636.html)
@@ -83,7 +84,6 @@
 - [UN Scrambles to Avoid a Repeat of Trump’s 2025 Escalator Snafu](https://www.livemint.com/news/world/un-scrambles-to-avoid-a-repeat-of-trump-s-2025-escalator-snafu-11790021316160.html)
 - [NYC Airports Face Delays After Air Traffic Control Outage](https://www.livemint.com/news/nyc-airports-face-delays-after-air-traffic-control-outage-11790020581299.html)
 - [Jennifer Eckhart dies at 36: Former Fox Business producer found dead at Florida home- What we know](https://www.livemint.com/news/us-news/jennifer-eckhart-dies-at-36-former-fox-business-producer-found-dead-at-florida-home-what-we-know-11790014231126.html)
-- [El Niño could become strongest on record, California Governor Gavin Newsom declares statewide emergency](https://www.livemint.com/news/us-news/el-ni-o-could-become-strongest-on-record-california-governor-gavin-newsom-declares-statewide-emergency-11790012492023.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,9 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಭದ್ರತಾ ಮಂಡಳಿಯ ಖಾಯಂ ಸದಸ್ಯತ್ವಕ್ಕೆ ಭಾರತದ ಪ್ರಯತ್ನಕ್ಕೆ V4 ರಾಷ್ಟ್ರಗಳ ಬೆಂಬಲ](https://www.varthabharati.in/international/4-european-nations-back-indias-bid-for-permanent-unsc-seat-2276963)
+- [ಶಾಸಕಿಯಾಗಿ ಕೆಲವೇ ತಿಂಗಳುಗಳಲ್ಲಿ ರೋಲ್ಸ್ ರಾಯ್ಸ್ ಕಾರಿನಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡ ಬಿಜೆಪಿಯ ಮೈಥಿಲಿ ಠಾಕೂರ್](https://www.varthabharati.in/National/bjps-maithili-thakur-spotted-in-rolls-royce-within-months-of-becoming-mla-2276962)
+- [483 ರಸ್ತೆ ಕಾಮಗಾರಿಗಳಲ್ಲಿ 72.01 ಕೋಟಿ ರೂ. ಹೆಚ್ಚುವರಿ ವೆಚ್ಚ](https://www.varthabharati.in/nimma-ankana/7201-crore-excess-expenditure-in-483-road-works-2276961)
 - [Chennai | 100 ಕೋಟಿ ರೂ. ಕ್ಲಬ್‌ ಗೆ ಎಂಟ್ರಿ: ‘ಮಂಡಾಡಿ’ಯಿಂದ ಸೂರಿಗೆ ಸ್ಟಾರ್ ಪಟ್ಟ](https://www.varthabharati.in/vishesha-varadigalu/entry-into-100-crore-club-suri-gets-star-status-with-mandadi-2276960)
 - [ದ್ವೇಷ ಭಾಷಣ; ಕ್ರಿಮಿನಲ್ ಪ್ರಕರಣ ರದ್ದು ಕೋರಿದ ಅರ್ಜಿಗಳ ವಿಚಾರಣೆ ಅ.28ಕ್ಕೆ ನಿಗದಿಪಡಿಸಿದ ಹೈಕೋರ್ಟ್](https://www.varthabharati.in/bangalore-city/high-court-2276959)
 - [ನ್ಯಾಯಬದ್ಧ ವೇತನ ಪಡೆಯುವುದು ಕಾರ್ಮಿಕರ ಹಕ್ಕು : ಹೈಕೋರ್ಟ್](https://www.varthabharati.in/bangalore-city/high-court-2276958)
@@ -105,40 +108,37 @@
 - [ನಾಗಮಂಗಲ | ಅಂಗನವಾಡಿ ಕಾರ್ಯಕರ್ತೆ ಅತ್ಯಾಚಾರ ಪ್ರಕರಣ: ಗ್ರಾಮ ಲೆಕ್ಕಾಧಿಕಾರಿ ಬಂಧನ](https://www.varthabharati.in/mandya/mandya-2276956)
 - [Chamarajanagar | ಕೆಬ್ಬೇಪುರದಲ್ಲಿ ಅಸ್ಪೃಶ್ಯತೆ ಆಚರಣೆ: ನಾಲ್ವರ ಮೇಲೆ ಎಫ್‌ಐಆರ್ ದಾಖಲು](https://www.varthabharati.in/chamarajanagar/chamarajanagar-2276953)
 - [Tumakur | ಗಿಡಗಳ ಮಧ್ಯೆ ಗಾಂಜಾ ಬೆಳೆದ ಪೊಲೀಸ್ ಪುತ್ರನ ಬಂಧನ](https://www.varthabharati.in/tumkur/tumakur-2276952)
-- [Tumakur | ಕರ್ನಾಟಕ ಪಬ್ಲಿಕ್ ಶಾಲೆಗೆ ಕಲ್ಲು ತೂರಾಟ: ಕಿಟಕಿಗಳಿಗೆ ಹಾನಿ](https://www.varthabharati.in/tumkur/tumakuru-stone-pelting-at-karnataka-public-school-windows-damaged-2276951)
-- [CNN ನಿಷೇಧದ ಬೆನ್ನಲ್ಲೇ ಟ್ರಂಪ್ ಟಿವಿ ಪ್ರಸಾರ ಸ್ಥಗಿತಗೊಳಿಸಿದ ವೈಟ್ ಹೌಸ್ ಪೂಲ್](https://www.varthabharati.in/international/white-house-pool-suspends-tv-coverage-of-trump-after-cnn-ban-2276946)
-- [2013ರಲ್ಲೆ ಕಸ್ತೂರಿ ರಂಗನ್ ವರದಿ ಕುರಿತು ಗಮನ ಹರಿಸಬೇಕಿತ್ತು : ಅಶೋಕ್ ಕುಮಾರ್ ರೈ](https://www.varthabharati.in/bangalore-city/ashok-kumar-rai-2276945)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
-- Trump (4.1)
+- India (4.2)
+- Jamui (3.9)
 - Congress (3.9)
 - What (3.9)
 - ICICI Securities (3.0)
 - target (3.0)
-- Russia (2.6)
+- Trump (2.8)
 - Report (2.6)
-- Pacific (2.6)
-- India (2.6)
 - Chennai (2.6)
-- Jamui (2.6)
 - Gujarat (2.6)
-- Tumakur (2.6)
-- El Nino (2.0)
+- Supreme Court (2.0)
+- UN General Assembly (2.0)
+- Buy Bajaj Finance (2.0)
+- Global (1.8)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [మనిషి vs రొబోట్.. బాక్సింగ్ రింగ్‌లో బిగ్ ఫైట్..!](https://www.bigtvlive.com/science-technology/man-vs-robot-fight-humanoid-robot-takes-on-influencer-in-san-francisco.html)
-- [টাটা সাম্রাজ্যে ক্ষমতার লড়াই: চন্দ্রশেখরণের মেয়াদবৃদ্ধি ঘিরে টাটা সন্স বনাম টাটা ট্রাস্ট দ্বন্দ্ব তুঙ্গে](https://bengali.indianexpress.com/west-bengal/tata-sons-tata-trusts-voting-rights-tata-mistry-verdict-chandrasekaran-reappointment-12559330)
-- [Caught on camera: Speeding Thar rams into scooter, 57-year-old dies](https://timesofindia.indiatimes.com/city/jaipur/57-year-old-dairy-operator-killed-after-speeding-thar-hits-scooter-from-behind-in-jaipur/articleshow/134390431.cms)
-- [CSK के नए हेड कोच बने जहीर खान, IPL 2027 से पहले सौंपी गई टीम की कमान](https://www.aajtak.in/sports/cricket/story/chennai-super-kings-name-zaheer-khan-head-coach-after-18-year-fleming-era-aksp-dskc-2649302-2026-09-21)
-- [ન્યૂયોર્કમાં ટ્રમ્પ અને ઈરાનના રાષ્ટ્રપ્રમુખ વચ્ચે મુલાકાત થવાની સંભાવના: અમેરિકી રાષ્ટ્રપ્રમુખે આપ્યો સંકેત](https://www.gujaratsamachar.com/news/international/will-masoud-pezeshkian-meet-with-trump-what-did-the-us-president-hint-at-15047261300)
-- [Constable | బండ్లగూడ ఆర్టీవో ఆఫీస్‌ నగదు లెక్కింపు వ్యవహారం.. కానిస్టేబుల్ సస్పెన్షన్](https://www.ntnews.com/hyderabad/constable-suspended-in-bandlaguda-rta-office-cash-counting-issue-2516423)
-- [रिलीज से पहले ही अल्लू अर्जुन की Raaka ने रचा इतिहास, एटली की फिल्म के नाम दर्ज हुआ गिनीज वर्ल्ड रिकॉर्ड](https://www.jagran.com/entertainment/bollywood-allu-arjun-raaka-movie-creates-history-in-guinness-world-record-proud-moment-for-atlee-40380501.html)
-- [പ്രായപൂർത്തിയാകാത്ത 3 പേർക്ക് കള്ള് നൽകി; കേസെടുത്ത് പൊലീസ്- Serving Toddy to Minors](https://www.manoramaonline.com/news/latest-news/2026/09/21/serving-toddy-to-minors-police-case-against-toddy-shop.html)
-- [Xi Jinping | అమెరికాలో ప‌ర్య‌టించ‌నున్న చైనా అధ్య‌క్షుడు జిన్‌పింగ్.. ట్రంప్‌తో ద్వైపాక్షిక చ‌ర్చ‌లు](https://www.ntnews.com/international/chinas-president-xi-jinping-to-visit-us-from-september-23-25-trade-talks-with-donald-trump-in-focus-2516427)
-- [Allu Arjun and Atlee's Raaka sets Guinness World Record for using motion-capture with 37 performers simultaneously](https://www.hindustantimes.com/entertainment/telugu-cinema/allu-arjun-atlee-raaka-sets-guinness-world-record-for-using-motion-capture-with-37-performers-simultaneously-101789994173822.html)
+- [Clinicians' words hold power to heal or harm patients](https://www.news-medical.net/news/20260921/Clinicians-words-hold-power-to-heal-or-harm-patients.aspx)
+- [Vijay: సీఎం విజయ్‌పై ఎన్నో సందేహాలున్నాయ్‌.. కానీ,..: ప్రకాశ్‌ రాజ్‌](https://www.eenadu.net/telugu-news/india/have-several-doubts-about-vijay-says-prakash-raj/0701/126170830)
+- [Radha accuses sister Ambika of ‘stealing cheques’ to claim Rs 46 cr, files complaint](https://indianexpress.com/article/entertainment/malayalam/actor-radha-files-cheque-fraud-case-against-sister-ambika-brother-rs-46-crore-10887779/)
+- [CNN, Politico, MS Now to sue Trump administration over 'ban' from White House, President cites ‘fake news’](https://www.hindustantimes.com/world-news/us-news/cnn-politico-ms-now-to-sue-trump-administration-over-ban-from-white-house-president-cites-fake-news-101789994971346.html)
+- [ഓടുന്ന സ്വകാര്യ ബസിൽനിന്ന് തെറിച്ചുവീണു; യുവതിക്ക് ദാരുണാന്ത്യം](https://www.manoramaonline.com/news/latest-news/2026/09/21/woman-dies-falling-from-moving-bus-kochi.html)
+- [India's NSE IPO draws over $10 billion, traders eye modest listing pop](https://www.reuters.com/world/india/indias-nse-ipo-draws-10-billion-bids-2026-09-21/)
+- [CNN, MS NOW and Politico suing Trump over White House ban](https://www.reuters.com/world/cnn-ms-now-politico-file-lawsuit-against-trump-administration-over-white-house-2026-09-21/)
+- [‘முதல்வர் விஜய் ஒப்புதலின்றி பட்டினப்பாக்கம் தலைமைச் செயலக திட்டத்துக்கு உத்தரவா?’ - கனிமொழி](https://www.hindutamil.in/news/tamilnadu/did-officials-order-the-pattinapakkam-project-without-the-chief-minister-approval-kanimozhi-asks)
+- [കണ്ണൂർ വാരിയേഴ്സും തൃശൂർ മാജിക് എഫ്സിയും ഏറ്റുമുട്ടും, ലീഗ് ജേതാക്കൾക്ക് ഷീൽഡ്- SLK](https://www.manoramaonline.com/sports/football/2026/09/21/super-league-kerala-season-3-from-september-25.html)
+- [IPL 2027 પહેલા ચેન્નઈ સુપર કિંગ્સની મોટી જાહેરાત, આ દિગ્ગજ ક્રિકેટરને બનાવ્યો હેડ કોચ](https://gujarati.abplive.com/sports/cricket/chennai-super-kings-announce-zaheer-khan-as-new-head-coach-991726)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
