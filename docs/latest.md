@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-22 22:01:57
+# India Trending Report — 2026-09-22 22:33:50
 
 ## Google Trends (India) — top trending searches
 1. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
@@ -22,8 +22,8 @@
 - [MediaTek targets Qualcomm's fortress with an unmatched new weapon](https://timesofindia.indiatimes.com/technology/tech-news/mediatek-seems-ready-to-storm-into-qualcomms-biggest-fortress-and-with-a-weapon-that-american-chip-maker-still-has-no-answer-to/articleshow/134412852.cms)
 - [Vietnam to Colombo flight makes emergency landing at Chennai airport](https://timesofindia.indiatimes.com/city/chennai/vietjet-flight-makes-emergency-landing-at-chennai-airport/articleshow/134418100.cms)
 - [Gold jumps 60% to Rs 1.57L from Rs 98,000 a year ago; sales fall 15%, coins gain](https://timesofindia.indiatimes.com/business/india-business/gold-prices-surge-60-from-rs-98000-to-rs-1-57-lakh-per-10-grams-in-a-year-ganesh-chaturthi-sales-fall-15-as-buyers-switch-to-lighter-jewellery-also-buy-coins/articleshow/134405905.cms)
+- [Indian Navy to procure 6 more landing craft utility platforms to boost amphibious ops](https://timesofindia.indiatimes.com/defence/news/indian-navy-plans-to-procure-six-more-landing-craft-utility-platforms-to-boost-amphibious-operations/articleshow/134420711.cms)
 - [Kalkaji rape case: DU's LSR college shifts classes online amid safety concerns](https://timesofindia.indiatimes.com/city/delhi/safety-security-paramount-lady-shri-ram-college-cancels-classes-goes-online-after-kalkaji-mandir-gang-rape-case/articleshow/134417900.cms)
-- [History refuses to leave J&K as assembly debates Hari Singh, Sheikh Abdullah anniv holidays](https://timesofindia.indiatimes.com/india/history-refuses-to-leave-jk-as-assembly-debates-hari-singh-sheikh-abdullah-anniv-holidays/articleshow/134420161.cms)
 
 **NDTV**
 - [Iran's Araghchi Meets US Envoy Witkoff, Sets Conditions For Hormuz Reopening](https://www.ndtv.com/world-news/irans-araghchi-meets-us-envoy-witkoff-sets-conditions-for-hormuz-reopening-12083797#publisher=newsstand)
@@ -64,6 +64,7 @@
 **The Hindu**
 - [Astha Kunj Park gang-rape: LSR suspends classes; students consider leaving Delhi amid safety fears](https://www.thehindu.com/news/cities/Delhi/astha-kunj-park-gang-rape-lsr-suspends-classes-students-consider-leaving-delhi-amid-safety-fears/article71496925.ece)
 - [World Rhino Day focus on India-Bhutan joint conservation](https://www.thehindu.com/news/national/assam/world-rhino-day-focus-on-india-bhutan-joint-conservation/article71496029.ece)
+- [M.P. Minister expresses regret on body-shaming remarks on woman colleague after backlash](https://www.thehindu.com/news/national/madhya-pradesh/mp-minister-expresses-regret-on-body-shaming-remarks-on-woman-colleague-after-backlash/article71496305.ece)
 - [Confident of a hat-trick in U.P.: Nabin](https://www.thehindu.com/news/national/uttar-pradesh/confident-of-a-hat-trick-inupnabin/article71495972.ece)
 - [FACT foundation day observed](https://www.thehindu.com/news/national/kerala/fact-foundation-day-observed-cpi-alleges-bid-to-glorify-cp-ramaswamy-iyer/article71496727.ece)
 - [Monsoon Session of Odisha House witnesses ruckus over textbook errors, mines Act](https://www.thehindu.com/news/national/odisha/monsoon-session-of-odisha-house-witnesses-ruckus-over-textbook-errors-mines-law/article71496021.ece)
@@ -71,9 +72,9 @@
 - [BJP maintains dominance in Rajasthan urban bodies by winning 6 deputy mayor seats](https://www.thehindu.com/news/national/rajasthan/bjpmaintains-dominance-in-rajasthan-urban-bodies-by-winning-6-deputy-mayor-seats/article71496437.ece)
 - [Freezing democracy: On the Election Commission of India and West Bengal](https://www.thehindu.com/opinion/editorial/freezing-democracy-on-the-eci-and-west-bengal/article71495672.ece)
 - [Haryana police use water cannons, tear gas to disperse farmers protesting paddy procurement delay](https://www.thehindu.com/news/national/haryana/haryana-police-use-water-cannons-tear-gas-to-disperse-farmers-protesting-paddy-procurement-delay/article71496152.ece)
-- [NC, BJP members spar on issue of holiday on anniversaries of Maharaja Hari Singh, Sheikh Mohammad Abdullah](https://www.thehindu.com/news/national/nc-bjp-members-spar-on-issue-of-holiday-on-anniversaries-of-maharaja-hari-singh-sheikh-mohammad-abdullah/article71494490.ece)
 
 **Livemint**
+- [Hurricane Polo Becomes One of 2026’s Strongest Storms Off Mexico](https://www.livemint.com/news/hurricane-polo-becomes-one-of-2026-s-strongest-storms-off-mexico-11790115282361.html)
 - [MrBeast faces backlash over $10 million Ghana project: Here’s how he responded to critics](https://www.livemint.com/news/trends/mrbeast-faces-backlash-over-10-million-ghana-project-here-s-how-he-responded-to-critics-11790112090959.html)
 - [Trump says CNN, MS NOW, Politico could return to White House if court rules against media ban](https://www.livemint.com/news/us-news/trump-says-cnn-ms-now-politico-could-return-to-white-house-if-court-rules-against-media-ban-11790109377772.html)
 - [A Florida artist spent decades creating this bizarre world. Now his family is opening it for Halloween](https://www.livemint.com/news/trends/a-florida-artist-spent-decades-creating-this-bizarre-world-now-his-family-is-opening-it-for-halloween-11790095712189.html)
@@ -83,7 +84,6 @@
 - [Hurricane Polo reaches Category 5 strength: When it is likely to make landfall and which areas to be worst affected?](https://www.livemint.com/news/us-news/hurricane-polo-reaches-category-5-strength-when-it-is-likely-to-make-landfall-and-which-areas-to-be-worst-affected-11790098503867.html)
 - [‘Ridiculous or reasonable?’ Gurgaon couple reveals  ₹1.2 lakh monthly spending breakdown](https://www.livemint.com/news/trends/ridiculous-or-reasonable-gurgaon-couple-reveals-1-2-lakh-monthly-spending-breakdown-11790096906006.html)
 - [Obamacare crackdown: Why Trump administration is removing 750,000 people from health insurance rolls](https://www.livemint.com/news/us-news/obamacare-crackdown-why-trump-administration-is-removing-750-000-people-from-health-insurance-rolls-11790096669647.html)
-- [Trump at UNGA: US President again claims credit for India-Pakistan ceasefire - ‘Saved 30 million lives’](https://www.livemint.com/news/us-news/trump-at-unga-us-president-again-claims-credit-for-india-pakistan-ceasefire-saved-30-million-lives-11790097779903.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,9 +100,9 @@
 - [ಮಂಗಳೂರು: ಲೋಕಾಯುಕ್ತ ಬಲೆಗೆ ಬಿದ್ದ ಇನ್ಸ್‌ಪೆಕ್ಟರ್‌ಗೆ ನ್ಯಾಯಾಂಗ ಬಂಧನ](https://www.varthabharati.in/DakshinaKannada/--2277205)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (7.0)
-- UNGA (5.2)
+- Trump (5.7)
 - Iran (3.9)
+- UNGA (3.9)
 - India (2.9)
 - What (2.9)
 - Kalkaji (2.6)
@@ -119,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [What does it mean to have relationship ambivalence?](https://psyche.co/ideas/what-does-it-mean-to-have-relationship-ambivalence)
-- [નંબર પ્લેટ વગર અને ફેન્સી નંબર પ્લેટ વાહનો સામે પોલીસની મેગા ડ્રાઇવ, 4 હજારથી વધુ વાહનો ડિટેઇન](https://gujarati.abplive.com/news/gujarat/police-mega-drive-against-vehicles-without-number-plates-over-4000-vehicles-detained-991790)
-- [‘ਮਾਨ ਦੇ ਮੁਨਾਫੇ’ ਮੁਹਿੰਮ ਤਹਿਤ ਕੈਬਨਿਟ ਮੰਤਰੀ ਮੁੰਡੀਆਂ ਵੱਲੋਂ ਹਲਕਾ ਸਾਹਨੇਵਾਲ ਦੇ ਪਿੰਡ ਜੰਡਿਆਲੀ ‘ਚ ਘਰ-ਘਰ ਸੰਪਰਕ](https://wishavwarta.in/punjab-cabinet-minister-mundian-conducted-door-to-door-contact-in-jandiali-village/)
-- [യെല്ലോ അലര്‍ട്ട്‌](https://www.malayalamtv9.com/kerala/kerala-rain-forecast-yellow-alert-declared-in-7-districts-for-september-23-2233406.html)
-- [India vs Japan T20 : शेवटच्या षटकात हायव्होल्टेज ड्रामा! टीम इंडियावर वाईड बॉलसाठी भांडण्याची वेळ, श्रेयस अय्यर थेट पंचांशी भिडला अन्... नेमकं काय घडलं? VIDEO](https://marathi.abplive.com/sports/cricket/india-vs-japan-t20-high-voltage-drama-in-final-over-wide-decision-changed-as-india-win-by-2-runs-shreyas-iyer-marathi-news-1439880)
-- [Iran’s 7-day Hormuz offer to Trump: Tehran says strait will reopen if US lifts blockade and eases military pressure](https://www.moneycontrol.com/world/iran-s-7-day-hormuz-offer-to-trump-tehran-says-strait-will-reopen-if-us-lifts-blockade-and-eases-military-pressure-article-14035453.html)
-- [Breaking News: દુનિયાની પહેલી મહિલા ક્રિકેટર, જેણે આવું કારનામું કર્યું; ગોલ્ડ મેડલ મેચમાં સ્મૃતિ મંધાનાએ રચ્યો ‘વર્લ્ડ રેકોર્ડ’](https://tv9gujarati.com/photo-gallery/smriti-mandhana-creates-history-in-asian-games-gold-medal-match-with-world-record-1520121.html)
-- [ஜெம் வீரமணி: `மொபைலில் சிறுமியின் பாலியல் வீடியோ'- வீரமணியின் வலதுகரம் கைது.. வேகமெடுக்கும் விசாரணை!](https://www.vikatan.com/crime/gem-veeramani-ex-employee-arrested-in-chennai)
-- [Angiogram | యాంజియోగ్రామ్ ప‌రీక్ష అంటే ఏమిటి.. దీని వ‌ల్ల గుండె స‌మ‌స్య‌లు ఎలా తెలుస్తాయి..?](https://www.ntnews.com/health/what-is-angiogram-how-it-identifies-heart-problems-2517058)
-- [Bhiwandi Crime Magur fish Walking catfish: भिवंडीत सापडला धोकादायक मांगूर माशांचा प्रचंड साठा, लगेच खड्डा खणला अन् भसाभसा मीठ ओतून संपवलं](https://marathi.abplive.com/crime/bhiwandi-crime-magur-fish-walking-catfish-175-kilo-seized-in-shop-drum-destroy-in-pothole-throwing-salt-marathi-news-1439878)
+- [Rani Mukherjee Mother Krishna Mukherjee Death: अभिनेत्री राणी मुखर्जीला मातृशोक; डोक्यावरुन आईचं छत्र हरपलं, कृष्णा मुखर्जींचे निधन](https://marathi.abplive.com/entertainment/rani-mukherjee-mother-krishna-mukherjee-dies-at-age-of-75-yash-raj-films-shares-post-in-social-media-1439886)
+- [NSE IPO allotment: How to check status online on National Stock Exchange, BSE, MUFG Intime India; listing date, time here](https://upstox.com/news/market-news/ipo/nse-ipo-allotment-how-to-check-status-online-on-national-stock-exchange-bse-mufg-intime-india-listing-date-time-revealed/article-200623/)
+- [Breaking News : ગઢડામાં જળઝીલણી એકાદશીની ઉજવણી કરતા ઘેલો નદીમાં નાવડી પલટી, સાધુ-સંતો સહીત 6 લોકોનો આબાદ બચાવ, જુઓ Video](https://tv9gujarati.com/gujarat/boat-capsizes-in-ghelo-river-during-jal-jhilani-ekadashi-celebrations-in-gadhada-six-people-including-sadhus-and-saints-narrowly-escape-1520198.html)
+- [Guru Gochar 2026 : १२ वर्षांनंतर सिंह राशीत गुरुचा प्रवेश, २०२७ पर्यंत या राशींना बंपर लॉटरी](https://marathi.asianetnews.com/lifestyle/jupiter-transit-in-leo-2026-lucky-zodiac-signs-and-astrology-predictions/photoshow-k6iif57)
+- [Vadodara News : ‘દંગલ’થી મળી પ્રેરણા, હવે તુર્કીમાં જીત્યો ગોલ્ડ... હિમાનીની જોરદાર કહાની](https://www.gujaratfirst.com/vadodara/vadodara-himani-hirani-wins-gold-medal-turkiye-wrestling-gujarat-first-digital/341056/)
+- [8th Pay Commission: बड़ा फायदा.. अगर 8वें आयोग में हुई देरी, तो इन कर्मचारियों को मिलेंगे 18 लाख](https://www.aajtak.in/business/utility/photo/8th-pay-commission-six-to-eight-level-employees-will-receive-18-lakh-arear-tutd-2650057-2026-09-22)
+- [रानी मुखर्जी पर टूटा दुखों का पहाड़, मां कृष्णा मुखर्जी का 75 साल की उम्र में निधन](https://www.aajtak.in/entertainment/bollywood-news/story/rani-mukerji-mother-krishna-mukerji-death-passes-away-at-75-age-was-playback-singer-tmova-dskc-2650122-2026-09-22)
+- [National Film Awards 2026 Live Updates: LIVE: श्रीकांत को बेस्ट हिंदी फिल्म, अश्विनी वैष्णव बोले- अगला अवॉर्ड नए टूरिस्ट प्लेस पर होगा](https://www.aajtak.in/entertainment/bollywood-news/story/national-film-awards-2026-live-updates-anant-nag-kartik-aaryan-yami-gautam-mammootty-tmovg-dskc-2650100-2026-09-22)
+- [UPI MDR GST : सोशल मीडियावर एमडीआरवरील जीएसटी संदर्भात दावे, अखेर NPCI कडून स्पष्टीकरण, नेमका काय म्हटलं?](https://marathi.abplive.com/business/npci-clarification-on-mdr-transactions-and-gst-appeal-not-believe-rumours-marathi-news-1439884)
+- [Lucky Zodiac Signs : उद्या 23 सप्टेंबरचा दिवस 5 राशींसाठी ठरणार भाग्याचा; दिवसाच्या सुरुवातीला मिळणार शुभवार्ता, गणरायाची कृपा, आजचे राशीभविष्य](https://marathi.abplive.com/astro/lucky-zodiac-signs-on-23-september-2026-these-are-lucky-zodiac-signs-will-get-blessings-of-lord-ganesha-astrology-marathi-news-1439885)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
