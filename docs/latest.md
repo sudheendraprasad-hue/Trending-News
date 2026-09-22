@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-22 21:33:40
+# India Trending Report — 2026-09-22 22:01:57
 
 ## Google Trends (India) — top trending searches
 1. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
@@ -14,16 +14,16 @@
 
 ## Latest headlines by outlet
 **Times of India**
+- ['Told him to tolerate it': Parents regret advice to kid in IIT-B suicide case](https://timesofindia.indiatimes.com/city/mumbai/made-a-mistake-by-telling-him-to-tolerate-it-grieving-parents-demand-arrests-in-iit-bombay-student-suicide-case/articleshow/134414786.cms)
 - [From ‘annihilate Iran’ to ‘super intelligence’, Trump boasts of US power at UNGA](https://timesofindia.indiatimes.com/world/us/trump-threatens-to-annihilate-iran-make-a-deal-or-get-destroyed/articleshow/134417865.cms)
 - [The China+1 question: Does India lose if Trump and Xi make peace?](https://timesofindia.indiatimes.com/business/india-business/from-chips-to-china1-five-reasons-india-should-watch-trump-xi-handshake/articleshow/134411510.cms)
 - [US approves $425 million sale of MH-60R Seahawk helicopters and equipments to Denmark](https://timesofindia.indiatimes.com/defence/international/us-approves-425-million-sale-of-mh-60r-seahawk-helicopters-and-equipments-to-denmark/articleshow/134418132.cms)
-- ['Told him to tolerate it': Parents regret advice to kid in IIT-B suicide case](https://timesofindia.indiatimes.com/city/mumbai/made-a-mistake-by-telling-him-to-tolerate-it-grieving-parents-demand-arrests-in-iit-bombay-student-suicide-case/articleshow/134414786.cms)
-- [Vietnam to Colombo flight makes emergency landing at Chennai airport](https://timesofindia.indiatimes.com/city/chennai/vietjet-flight-makes-emergency-landing-at-chennai-airport/articleshow/134418100.cms)
+- [Ahead of ‘firing’ deaths anniversary, promise of Article 371 framework for Ladakh](https://timesofindia.indiatimes.com/india/ahead-of-firing-deaths-anniversary-promise-of-article-371-framework-for-ladakh/articleshow/134420177.cms)
 - [MediaTek targets Qualcomm's fortress with an unmatched new weapon](https://timesofindia.indiatimes.com/technology/tech-news/mediatek-seems-ready-to-storm-into-qualcomms-biggest-fortress-and-with-a-weapon-that-american-chip-maker-still-has-no-answer-to/articleshow/134412852.cms)
-- [Kalkaji rape case: DU's LSR college shifts classes online amid safety concerns](https://timesofindia.indiatimes.com/city/delhi/safety-security-paramount-lady-shri-ram-college-cancels-classes-goes-online-after-kalkaji-mandir-gang-rape-case/articleshow/134417900.cms)
+- [Vietnam to Colombo flight makes emergency landing at Chennai airport](https://timesofindia.indiatimes.com/city/chennai/vietjet-flight-makes-emergency-landing-at-chennai-airport/articleshow/134418100.cms)
 - [Gold jumps 60% to Rs 1.57L from Rs 98,000 a year ago; sales fall 15%, coins gain](https://timesofindia.indiatimes.com/business/india-business/gold-prices-surge-60-from-rs-98000-to-rs-1-57-lakh-per-10-grams-in-a-year-ganesh-chaturthi-sales-fall-15-as-buyers-switch-to-lighter-jewellery-also-buy-coins/articleshow/134405905.cms)
-- [J&K scans 21 lakh library books, pulls out 4,000 titles; ‘objectionable content’ under scrutiny](https://timesofindia.indiatimes.com/india/jk-scans-21-lakh-library-books-pulls-out-4000-titles-objectionable-content-under-scrutiny/articleshow/134420150.cms)
-- [Trump-Pezeshkian meeting on UNGA sidelines? US prez 'open' to talks with Iran](https://timesofindia.indiatimes.com/world/us/trump-pezeshkian-meeting-on-unga-sidelines-us-president-open-to-talks-with-iran/articleshow/134416649.cms)
+- [Kalkaji rape case: DU's LSR college shifts classes online amid safety concerns](https://timesofindia.indiatimes.com/city/delhi/safety-security-paramount-lady-shri-ram-college-cancels-classes-goes-online-after-kalkaji-mandir-gang-rape-case/articleshow/134417900.cms)
+- [History refuses to leave J&K as assembly debates Hari Singh, Sheikh Abdullah anniv holidays](https://timesofindia.indiatimes.com/india/history-refuses-to-leave-jk-as-assembly-debates-hari-singh-sheikh-abdullah-anniv-holidays/articleshow/134420161.cms)
 
 **NDTV**
 - [Iran's Araghchi Meets US Envoy Witkoff, Sets Conditions For Hormuz Reopening](https://www.ndtv.com/world-news/irans-araghchi-meets-us-envoy-witkoff-sets-conditions-for-hormuz-reopening-12083797#publisher=newsstand)
@@ -62,6 +62,8 @@
 - [ಗೃಹಲಕ್ಷ್ಮಿ ಯೋಜನೆ ಮರುಪರಿಶೀಲನೆ: ಹೊಸ ಮಾರ್ಗಸೂಚಿ 17 ಪ್ರಶ್ನೆಗಳು; ಕುಟುಂಬದ ಯಜಮಾನನ ಆಧಾರ್‌ ಕಡ್ಡಾಯ ಸೇರಿ ಹಲವು ನಿಯಮ](https://vijaykarnataka.com/news/karnataka/review-of-gruha-lakshmi-scheme-new-guidelines-17-questions-aadhaar-of-male-head-of-family-also-mandatory/articleshow/134415708.cms)
 
 **The Hindu**
+- [Astha Kunj Park gang-rape: LSR suspends classes; students consider leaving Delhi amid safety fears](https://www.thehindu.com/news/cities/Delhi/astha-kunj-park-gang-rape-lsr-suspends-classes-students-consider-leaving-delhi-amid-safety-fears/article71496925.ece)
+- [World Rhino Day focus on India-Bhutan joint conservation](https://www.thehindu.com/news/national/assam/world-rhino-day-focus-on-india-bhutan-joint-conservation/article71496029.ece)
 - [Confident of a hat-trick in U.P.: Nabin](https://www.thehindu.com/news/national/uttar-pradesh/confident-of-a-hat-trick-inupnabin/article71495972.ece)
 - [FACT foundation day observed](https://www.thehindu.com/news/national/kerala/fact-foundation-day-observed-cpi-alleges-bid-to-glorify-cp-ramaswamy-iyer/article71496727.ece)
 - [Monsoon Session of Odisha House witnesses ruckus over textbook errors, mines Act](https://www.thehindu.com/news/national/odisha/monsoon-session-of-odisha-house-witnesses-ruckus-over-textbook-errors-mines-law/article71496021.ece)
@@ -70,10 +72,9 @@
 - [Freezing democracy: On the Election Commission of India and West Bengal](https://www.thehindu.com/opinion/editorial/freezing-democracy-on-the-eci-and-west-bengal/article71495672.ece)
 - [Haryana police use water cannons, tear gas to disperse farmers protesting paddy procurement delay](https://www.thehindu.com/news/national/haryana/haryana-police-use-water-cannons-tear-gas-to-disperse-farmers-protesting-paddy-procurement-delay/article71496152.ece)
 - [NC, BJP members spar on issue of holiday on anniversaries of Maharaja Hari Singh, Sheikh Mohammad Abdullah](https://www.thehindu.com/news/national/nc-bjp-members-spar-on-issue-of-holiday-on-anniversaries-of-maharaja-hari-singh-sheikh-mohammad-abdullah/article71494490.ece)
-- [Water wealth: On groundwater exploitation in Punjab](https://www.thehindu.com/opinion/editorial/water-wealth-on-groundwater-exploitation-in-punjab/article71495725.ece)
-- [On Sign Language Day, an interpreter recalls a moment on stage with the President](https://www.thehindu.com/news/national/andhra-pradesh/on-sign-language-day-an-interpreter-recalls-a-moment-on-stage-with-the-president/article71496143.ece)
 
 **Livemint**
+- [MrBeast faces backlash over $10 million Ghana project: Here’s how he responded to critics](https://www.livemint.com/news/trends/mrbeast-faces-backlash-over-10-million-ghana-project-here-s-how-he-responded-to-critics-11790112090959.html)
 - [Trump says CNN, MS NOW, Politico could return to White House if court rules against media ban](https://www.livemint.com/news/us-news/trump-says-cnn-ms-now-politico-could-return-to-white-house-if-court-rules-against-media-ban-11790109377772.html)
 - [A Florida artist spent decades creating this bizarre world. Now his family is opening it for Halloween](https://www.livemint.com/news/trends/a-florida-artist-spent-decades-creating-this-bizarre-world-now-his-family-is-opening-it-for-halloween-11790095712189.html)
 - [Netanyahu-Mamdani clash escalates: Israeli PM vows to ‘tell the truth’ about NYC mayor at UNGA](https://www.livemint.com/news/world/netanyahu-vs-mamdani-explodes-ahead-of-unga-i-m-going-to-tell-the-truth-about-you-11790105193860.html)
@@ -83,7 +84,6 @@
 - [‘Ridiculous or reasonable?’ Gurgaon couple reveals  ₹1.2 lakh monthly spending breakdown](https://www.livemint.com/news/trends/ridiculous-or-reasonable-gurgaon-couple-reveals-1-2-lakh-monthly-spending-breakdown-11790096906006.html)
 - [Obamacare crackdown: Why Trump administration is removing 750,000 people from health insurance rolls](https://www.livemint.com/news/us-news/obamacare-crackdown-why-trump-administration-is-removing-750-000-people-from-health-insurance-rolls-11790096669647.html)
 - [Trump at UNGA: US President again claims credit for India-Pakistan ceasefire - ‘Saved 30 million lives’](https://www.livemint.com/news/us-news/trump-at-unga-us-president-again-claims-credit-for-india-pakistan-ceasefire-saved-30-million-lives-11790097779903.html)
-- [Turkish President Erdogan raises Kashmir issue at UNGA again, calls for India-Pakistan dialogue under UN framework](https://www.livemint.com/news/us-news/turkish-president-erdogan-raises-kashmir-issue-at-unga-again-calls-for-india-pakistan-dialogue-under-un-framework-11790096272913.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,35 +100,35 @@
 - [ಮಂಗಳೂರು: ಲೋಕಾಯುಕ್ತ ಬಲೆಗೆ ಬಿದ್ದ ಇನ್ಸ್‌ಪೆಕ್ಟರ್‌ಗೆ ನ್ಯಾಯಾಂಗ ಬಂಧನ](https://www.varthabharati.in/DakshinaKannada/--2277205)
 
 ## Cross-source trending keywords (derived from headlines above)
-- UNGA (7.8)
 - Trump (7.0)
-- Iran (5.2)
+- UNGA (5.2)
+- Iran (3.9)
 - India (2.9)
 - What (2.9)
 - Kalkaji (2.6)
-- Kashmir (2.6)
-- India-Pakistan (2.6)
-- President (2.2)
-- Turkish President Erdogan (2.0)
 - Denmark (1.6)
 - Bengal (1.6)
 - Odisha (1.6)
+- Delhi (1.6)
 - case (1.5)
+- Told (1.3)
+- Parents (1.3)
+- IIT-B (1.3)
 - Seahawk (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [शाहरुख खानने घेतले लालबागच्या राजाचे दर्शन!](https://www.loksatta.com/manoranjan/bollywood/shahrukh-khan-uses-his-manager-pooja-dadlanis-dupatta-during-lalbaugcha-raja-with-wife-and-daughter-netizen-reacts-nsp-98-6149667/)
-- [Rani Mukerji’s mother Krishna Mukerji passes away at 75; Aditya Chopra's production house issues official statement](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-mukerjis-mother-krishna-mukerji-passes-away-at-75-aditya-chopras-production-house-issues-official-statement/articleshow/134408409.cms)
-- [প্রয়াত রানি মুখোপাধ্যায়ের মা, যশরাজ ফিল্মস](https://bengali.abplive.com/entertainment/rani-mukerjis-mother-krishna-mukerji-dies-at-75-1193781)
-- [मैं इस बार जंग हार गया.., इमोशनल होते हुए मार्क वुड ने अंतरराष्ट्रीय क्रिकेट से लिया संन्यास](https://www.livehindustan.com/cricket/england-fast-bowler-mark-wood-has-announced-his-retirement-from-international-cricket-201790068760792.html)
-- [India vs Japan: इज्जत बच गई...जापान से जैसे-तैसे जीती टीम इंडिया](https://www.aajtak.in/sports/cricket/story/india-vs-japan-t20-live-score-and-commentary-ball-by-ball-from-sano-international-cricket-ground-aksp-dskc-2649594-2026-09-22)
-- [36 की उम्र में इस धाकड़ गेंदबाज ने लिया संन्यास, इंग्लैंड के लिए जीते 2 वर्ल्ड कप](https://www.aajtak.in/sports/cricket/story/england-fast-bowler-mark-wood-announces-retirement-from-international-cricket-tspoa-dskc-2650080-2026-09-22)
-- [IND vs JPN : मोठा वाद! श्रेयस अय्यर भांडला, अम्पायरने निर्णय बदलला; तसं नसतं झालं तर जिंकला असता जपान, नेमकं काय घडलं ?](https://www.esakal.com/krida/cricket/ind-vs-jpn-big-controversy-shreyas-iyer-argues-with-umpire-wide-decision-changed-after-axar-patels-delivery-svg87)
-- [तुषार मेहता ने किसे बता दिया 'नक्सली', CJI की कोर्ट में भड़के वकील; जजों ने बीच में दिया दखल](https://www.livehindustan.com/national/vande-mataram-case-supreme-court-tushar-mehta-s-muralidhar-naxalite-remark-201790066346467.html)
-- [मोबाइल रिचार्ज का खेल बदला! TRAI हुआ सख्त, अब बिना डेटा वाले प्लान्स भी मिलेंगे, 28 नहीं, 30 दिन की मिलेगी वैलिडिटी](https://www.aajtak.in/technology/tech-news/story/trai-new-rule-without-data-cheap-recharge-jio-airtel-vi-ttecm-dskc-2650063-2026-09-22)
-- [How the Tata Sons battle unfolded over four board meetings](https://www.moneycontrol.com/news/business/how-the-tata-sons-battle-unfolded-over-four-board-meetings-14035400.html)
+- [What does it mean to have relationship ambivalence?](https://psyche.co/ideas/what-does-it-mean-to-have-relationship-ambivalence)
+- [નંબર પ્લેટ વગર અને ફેન્સી નંબર પ્લેટ વાહનો સામે પોલીસની મેગા ડ્રાઇવ, 4 હજારથી વધુ વાહનો ડિટેઇન](https://gujarati.abplive.com/news/gujarat/police-mega-drive-against-vehicles-without-number-plates-over-4000-vehicles-detained-991790)
+- [‘ਮਾਨ ਦੇ ਮੁਨਾਫੇ’ ਮੁਹਿੰਮ ਤਹਿਤ ਕੈਬਨਿਟ ਮੰਤਰੀ ਮੁੰਡੀਆਂ ਵੱਲੋਂ ਹਲਕਾ ਸਾਹਨੇਵਾਲ ਦੇ ਪਿੰਡ ਜੰਡਿਆਲੀ ‘ਚ ਘਰ-ਘਰ ਸੰਪਰਕ](https://wishavwarta.in/punjab-cabinet-minister-mundian-conducted-door-to-door-contact-in-jandiali-village/)
+- [യെല്ലോ അലര്‍ട്ട്‌](https://www.malayalamtv9.com/kerala/kerala-rain-forecast-yellow-alert-declared-in-7-districts-for-september-23-2233406.html)
+- [India vs Japan T20 : शेवटच्या षटकात हायव्होल्टेज ड्रामा! टीम इंडियावर वाईड बॉलसाठी भांडण्याची वेळ, श्रेयस अय्यर थेट पंचांशी भिडला अन्... नेमकं काय घडलं? VIDEO](https://marathi.abplive.com/sports/cricket/india-vs-japan-t20-high-voltage-drama-in-final-over-wide-decision-changed-as-india-win-by-2-runs-shreyas-iyer-marathi-news-1439880)
+- [Iran’s 7-day Hormuz offer to Trump: Tehran says strait will reopen if US lifts blockade and eases military pressure](https://www.moneycontrol.com/world/iran-s-7-day-hormuz-offer-to-trump-tehran-says-strait-will-reopen-if-us-lifts-blockade-and-eases-military-pressure-article-14035453.html)
+- [Breaking News: દુનિયાની પહેલી મહિલા ક્રિકેટર, જેણે આવું કારનામું કર્યું; ગોલ્ડ મેડલ મેચમાં સ્મૃતિ મંધાનાએ રચ્યો ‘વર્લ્ડ રેકોર્ડ’](https://tv9gujarati.com/photo-gallery/smriti-mandhana-creates-history-in-asian-games-gold-medal-match-with-world-record-1520121.html)
+- [ஜெம் வீரமணி: `மொபைலில் சிறுமியின் பாலியல் வீடியோ'- வீரமணியின் வலதுகரம் கைது.. வேகமெடுக்கும் விசாரணை!](https://www.vikatan.com/crime/gem-veeramani-ex-employee-arrested-in-chennai)
+- [Angiogram | యాంజియోగ్రామ్ ప‌రీక్ష అంటే ఏమిటి.. దీని వ‌ల్ల గుండె స‌మ‌స్య‌లు ఎలా తెలుస్తాయి..?](https://www.ntnews.com/health/what-is-angiogram-how-it-identifies-heart-problems-2517058)
+- [Bhiwandi Crime Magur fish Walking catfish: भिवंडीत सापडला धोकादायक मांगूर माशांचा प्रचंड साठा, लगेच खड्डा खणला अन् भसाभसा मीठ ओतून संपवलं](https://marathi.abplive.com/crime/bhiwandi-crime-magur-fish-walking-catfish-175-kilo-seized-in-shop-drum-destroy-in-pothole-throwing-salt-marathi-news-1439878)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
