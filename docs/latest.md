@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-22 20:34:41
+# India Trending Report — 2026-09-22 21:01:53
 
 ## Google Trends (India) — top trending searches
-1. [real madrid vs psg](https://trends.google.com/trending/rss?geo=IN)
+1. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
 2. [the paradise](https://trends.google.com/trending/rss?geo=IN)
-3. [leicester city vs fulham u-21](https://trends.google.com/trending/rss?geo=IN)
-4. [nations league](https://trends.google.com/trending/rss?geo=IN)
-5. [taylor swift](https://trends.google.com/trending/rss?geo=IN)
-6. [opus 5.5](https://trends.google.com/trending/rss?geo=IN)
-7. [বঙ্গোপসাগর](https://trends.google.com/trending/rss?geo=IN)
-8. [कर्मचारी](https://trends.google.com/trending/rss?geo=IN)
-9. [गेंदबाजी](https://trends.google.com/trending/rss?geo=IN)
-10. [download](https://trends.google.com/trending/rss?geo=IN)
+3. [real madrid vs psg](https://trends.google.com/trending/rss?geo=IN)
+4. [leicester city vs fulham u-21](https://trends.google.com/trending/rss?geo=IN)
+5. [nations league](https://trends.google.com/trending/rss?geo=IN)
+6. [taylor swift](https://trends.google.com/trending/rss?geo=IN)
+7. [opus 5.5](https://trends.google.com/trending/rss?geo=IN)
+8. [বঙ্গোপসাগর](https://trends.google.com/trending/rss?geo=IN)
+9. [कर्मचारी](https://trends.google.com/trending/rss?geo=IN)
+10. [गेंदबाजी](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -49,7 +49,17 @@
 - [Tejashwi Yadav slams Bihar CM over Jamui minor assault, demands action against all accused](https://www.hindustantimes.com/india-news/tejashwi-yadav-slams-bihar-cm-over-jamui-minor-assault-demands-action-against-all-accused-101790087136369.html)
 - [‘Every single day, we hit a new low’: Cong questions Delhi CM over Kalkaji gangrape case](https://www.hindustantimes.com/india-news/pawan-khera-rekha-gupta-kalkaji-rape-case-every-single-day-we-hit-a-new-low-cong-questions-delhi-cm-over-kalkaji-gan-101790086542901.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಡೇಟಾ ಬೇಡದ ಮೊಬೈಲ್ ಬಳಕೆದಾರರಿಗೆ ಗುಡ್ ನ್ಯೂಸ್! ದುಬಾರಿ ರೀಚಾರ್ಜ್ ಪ್ಯಾಕ್‌ಗೆ ಬ್ರೇಕ್‌: ಹೀಗಿದೆ 'ಟ್ರಾಯ್' ಹೊಸ ನಿಯಮ](https://vijaykarnataka.com/business/news/end-to-expensive-recharge-packs-trais-new-rules-/articleshow/134417030.cms)
+- [ಪೇಜಾವರ ಶ್ರೀ- ಮೋದಿ ಮಹತ್ವದ ಭೇಟಿ: ಶ್ರೀ ವಿಶ್ವೇಶತೀರ್ಥರ ಜನ್ಮಶತಾಬ್ದಿ ಯೋಜನೆ ಲಾಂಛನ ಬಿಡುಗಡೆ; ಪ್ರಧಾನಿಗೆ ಯಕ್ಷಗಾನದ ರಾಜಕಿರೀಟ!](https://vijaykarnataka.com/news/udupi/pejavara-sri-modi-visit-sri-vishweshathirtha-birth-centenary-project-logo-launch/articleshow/134416566.cms)
+- [ಉಪ್ಪಿನ ಸೇವನೆ ನಿಯಂತ್ರಣಕ್ಕೆ ಕರ್ನಾಟಕ ಸರಕಾರದಿಂದ ಕ್ರಿಯಾಯೋಜನೆ ಬಿಡುಗಡೆ; ಏನಿದು ಹೊಸಕ್ರಮ?](https://vijaykarnataka.com/news/karnataka/karnataka-government-releases-action-plan-to-reduce-salt-consumption-/articleshow/134418944.cms)
+- [ಮತ್ತೆ ಚಿಗುರಬಹುದು ಹಳೆಯ ಪ್ರೀತಿ? Gen Zನಲ್ಲಿ ಸದ್ದು ಮಾಡುತ್ತಿರುವ ಡೋಪಮೈನ್ ಡೇಟಿಂಗ್ ಟ್ರೆಂಡ್!](https://vijaykarnataka.com/lifestyle/relationship/gen-z-dopamine-dating-trend-meaning-and-impact/articleshow/134416443.cms)
+- [ಮೋದಿಗೆ ಬಿಕೆ ಹರಿಪ್ರಸಾದ್ ಏಕವಚನದಲ್ಲಿ ನಿಂದಿಸಿದ್ದಕ್ಕೆ ಗದ್ದಲ: ವಿಧಾನ ಪರಿಷತ್‌ನಲ್ಲಿ ಮಂಗಳವಾರ ನಡೆದದ್ದೇನು?](https://vijaykarnataka.com/news/karnataka/vidhana-parishad-session-bk-hariprasad-using-disrespectful-language-against-modi-bjp-congress-heated-exchange/articleshow/134418329.cms)
+- [Photos: ‘ಅಗ್ನಿಪರೀಕ್ಷೆ’ ಮುಗಿಸಿ ಉತ್ತರಾಖಂಡಕ್ಕೆ ತೆರಳಿದ ಬಿಗ್‌ ಬಾಸ್‌ ಸಂಗೀತಾ ಶೃಂಗೇರಿ!](https://vijaykarnataka.com/vk-gallery/actress/bigg-boss-sangeetha-sringeris-uttarakhand-tour-with-family/photoshow/134418965.cms)
+- [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
+- [ಕನಸಿನಲ್ಲಿ ಕಾಣುವ ಶುಭ, ಅಶುಭ ಸಂಕೇತಗಳು: ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/superstition/dream-signs-these-dreams-are-the-auspicious-signs/articleshow/134412979.cms)
+- [ಪಾರ್ಕ್ ಮಾಡಿದ ಕಾರಿಗೆ ಇಲಿಗಳು ಏಕೆ ಬರುತ್ತವೆ? ತಡೆಯಲು ಈ ನೈಸರ್ಗಿಕ ವಿಧಾನಗಳು ಸಹಕಾರಿ](https://vijaykarnataka.com/lifestyle/home-decor/why-rats-enter-parked-cars-natural-ways-to-keep-rats-away/articleshow/134408701.cms)
+- [ಗೃಹಲಕ್ಷ್ಮಿ ಯೋಜನೆ ಮರುಪರಿಶೀಲನೆ: ಹೊಸ ಮಾರ್ಗಸೂಚಿ 17 ಪ್ರಶ್ನೆಗಳು; ಕುಟುಂಬದ ಯಜಮಾನನ ಆಧಾರ್‌ ಕಡ್ಡಾಯ ಸೇರಿ ಹಲವು ನಿಯಮ](https://vijaykarnataka.com/news/karnataka/review-of-gruha-lakshmi-scheme-new-guidelines-17-questions-aadhaar-of-male-head-of-family-also-mandatory/articleshow/134415708.cms)
 
 **The Hindu**
 - [Confident of a hat-trick in U.P.: Nabin](https://www.thehindu.com/news/national/uttar-pradesh/confident-of-a-hat-trick-inupnabin/article71495972.ece)
@@ -64,7 +74,9 @@
 - [On Sign Language Day, an interpreter recalls a moment on stage with the President](https://www.thehindu.com/news/national/andhra-pradesh/on-sign-language-day-an-interpreter-recalls-a-moment-on-stage-with-the-president/article71496143.ece)
 
 **Livemint**
-- [Netanyahu vs Mamdani explodes ahead of UNGA: ‘I’m going to tell the truth about you’](https://www.livemint.com/news/world/netanyahu-vs-mamdani-explodes-ahead-of-unga-i-m-going-to-tell-the-truth-about-you-11790105193860.html)
+- [Trump says CNN, MS NOW, Politico could return to White House if court rules against media ban](https://www.livemint.com/news/us-news/trump-says-cnn-ms-now-politico-could-return-to-white-house-if-court-rules-against-media-ban-11790109377772.html)
+- [A Florida artist spent decades creating this bizarre world. Now his family is opening it for Halloween](https://www.livemint.com/news/trends/a-florida-artist-spent-decades-creating-this-bizarre-world-now-his-family-is-opening-it-for-halloween-11790095712189.html)
+- [Netanyahu-Mamdani clash escalates: Israeli PM vows to ‘tell the truth’ about NYC mayor at UNGA](https://www.livemint.com/news/world/netanyahu-vs-mamdani-explodes-ahead-of-unga-i-m-going-to-tell-the-truth-about-you-11790105193860.html)
 - [Binance faces US criminal probe over Iran sanctions violations | What we know](https://www.livemint.com/news/binance-faces-us-criminal-probe-over-iran-sanctions-violations-what-we-know-11790095881342.html)
 - [US national Van Dyke pays  ₹5.5 lakh compounding charge; may return to US: What it means for NIA case & UAPA probe](https://www.livemint.com/news/india/us-national-matthew-van-dyke-pays-5-5-lakh-compounding-charge-may-return-to-uswhat-it-means-for-nia-case-uapa-pr-11790103623384.html)
 - [Hurricane Polo reaches Category 5 strength: When it is likely to make landfall and which areas to be worst affected?](https://www.livemint.com/news/us-news/hurricane-polo-reaches-category-5-strength-when-it-is-likely-to-make-landfall-and-which-areas-to-be-worst-affected-11790098503867.html)
@@ -72,8 +84,6 @@
 - [Obamacare crackdown: Why Trump administration is removing 750,000 people from health insurance rolls](https://www.livemint.com/news/us-news/obamacare-crackdown-why-trump-administration-is-removing-750-000-people-from-health-insurance-rolls-11790096669647.html)
 - [Trump at UNGA: US President again claims credit for India-Pakistan ceasefire - ‘Saved 30 million lives’](https://www.livemint.com/news/us-news/trump-at-unga-us-president-again-claims-credit-for-india-pakistan-ceasefire-saved-30-million-lives-11790097779903.html)
 - [Turkish President Erdogan raises Kashmir issue at UNGA again, calls for India-Pakistan dialogue under UN framework](https://www.livemint.com/news/us-news/turkish-president-erdogan-raises-kashmir-issue-at-unga-again-calls-for-india-pakistan-dialogue-under-un-framework-11790096272913.html)
-- [Trump signs US-Denmark-Greenland agreement: What the new US security deal means](https://www.livemint.com/news/us-news/trump-signs-us-denmark-greenland-agreement-what-the-new-us-security-agreement-means-11790092732510.html)
-- [CDSCO flags indiscriminate use of painkillers and antibiotics](https://www.livemint.com/news/cdsco-flags-indiscriminate-use-of-painkillers-and-antibiotics-11790088574575.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -93,8 +103,8 @@
 - UNGA (7.8)
 - Trump (6.7)
 - Iran (5.2)
-- What (4.2)
 - India (2.9)
+- What (2.9)
 - Kalkaji (2.6)
 - Kashmir (2.6)
 - India-Pakistan (2.6)
@@ -109,16 +119,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [சிவராசா அனோஜன்: செளதியில் இலங்கை தமிழருக்கு விதிக்கப்பட்ட சிறை தண்டனை மரண தண்டனையாக அதிகரிக்கப்பட்டது ஏன்?](https://www.bbc.com/tamil/articles/cxr50j4q7zm5o)
-- [Airtel to offer complementary iCloud service to iPhone users](https://www.thehindubusinessline.com/info-tech/airtel-to-offer-complementary-icloud-service-to-iphone-users/article71494726.ece)
-- [दुष्काळ निवारणासाठी उपसमिती गठीत, सर्व मंत्री-आमदार बांधावर दिसतील; मंत्रिमंडळ बैठकीनंतर मुख्यमंत्र्यांनी दिली माहिती](https://marathi.abplive.com/news/maharashtra/cm-devendra-fadnavis-announces-after-cabinet-meeting-sub-committee-formed-for-drought-relief-rain-update-all-ministers-and-mlas-to-visit-the-farmers-1439868)
-- [యుద్ధం, హింస లేకపోవడమే కాదు.. మనసు ప్రశాంతంగా ఉండటమే అసలైన శాంతి: గురుదేవ్ శ్రీ శ్రీ రవిశంకర్](https://telugu.samayam.com/latest-news/india-news/gurudev-sri-sri-ravi-shankar-explains-the-power-of-inner-peace-says-peace-is-more-than-the-absence-of-war/articleshow/134407128.cms)
-- [तमिलनाडु के सरकारी स्कूलों में मिड-डे मील में मिलेगी चिकन बिरयानी! विजय सरकार ने बनाई एक्सपर्ट कमेटी](https://www.aajtak.in/india/news/story/tamil-nadu-school-chicken-biryani-expert-committee-cm-vijay-ntc-mnrd-smsr-2649993-2026-09-22)
-- [വന്ദേമാതരത്തിന്റെ ആറ് ഈരടികള്‍ പാടുന്നത് തടഞ്ഞാല്‍ ശിക്ഷിക്കുന്ന നിയമം; കേന്ദ്രത്തോട് സുപ്രീംകോടതി വിശദീകരണം തേടി](https://www.doolnews.com/the-supreme-court-seeks-response-of-the-union-government-on-plea-on-vandemataram-amendment-62-173.html)
-- [Pandharpur Crime Love Story: प्रियकर सुनेबद्दल वाईट बोलला, आजीबाईंनी कायमचा संपवला, पंढरपूरच्या लव्हस्टोरीचा भयानक शेवट](https://marathi.abplive.com/crime/pandharpur-crime-love-story-old-age-couple-girlfriend-ends-boyfriend-over-abusing-daughter-in-law-solapur-marathi-news-1439867)
-- [Asian Games 2026: Women’s cricket team clinches India’s first gold in style](https://www.thehindu.com/sport/cricket/womens-cricket-team-extends-dominance-delivers-india-its-first-gold-at-asian-games-2026/article71494713.ece)
-- [Jamui minor girl harassment case: All seven accused arrested; main accused shot in the leg during police encounter](https://www.thehindu.com/news/national/bihar/jamui-minor-girl-harassment-case-main-accused-shot-in-the-leg-during-police-encounter/article71494721.ece)
-- [Apurva Nemlekar Trolled: 'ही म्हातारी..., हिचा चेहरा लूज पडलाय...'; ट्रोल करणाऱ्या महिलेला तिचाच फोटो शेअर करुन अपूर्वा नेमळेकरनं झापलं](https://marathi.abplive.com/entertainment/apurva-nemlekar-got-trolled-for-her-physique-gave-befitting-reply-to-comment-marathi-actress-news-1439863)
+- [సినీ పరిశ్రమకు శుభవార్త.. త్వరలోనే నంది అవార్డుల ప్రకటన](https://www.eenadu.net/telugu-news/movies/nandi-awards-announcement-in-october-month/0210/126171435)
+- [India survive Japan scare to clinch 200th T20I win](https://m.cricbuzz.com/cricket-news/140251/india-survive-japan-scare-to-clinch-200th-t20i-win)
+- [India survive Japan scare to clinch 200th T20I win](https://www.cricbuzz.com/cricket-news/140251/india-survive-japan-scare-to-clinch-200th-t20i-win-cricbuzzcom)
+- [এশিয়ান গেমস ২০২৬: টেবিল টেনিস মহিলা দলগত কোয়ার্টার ফাইনালে থাইল্যান্ডকে হারাল ভারত](https://bengali.hindusthansamachar.in/Encyc/2026/9/22/Asian-Games-2026-India-defeated-Thailand-in-the-wo.php)
+- [আইফোন ১৮ প্রো ব্যবহারকারীরা ক্রমাগত তাদের ডিভাইস স্বতঃস্ফূর্তভাবে রিস্টার্ট হওয়ার সমস্যার সম্মুখীন হচ্ছেন।](https://www.vietnam.vn/bn/nguoi-dung-iphone-18-pro-lien-tuc-gap-tinh-trang-may-tu-khoi-dong-lai)
+- [ஆசிய விளையாட்டு போட்டியில் இந்தியாவுக்கு தங்கம்.. தமிழக வீராங்கனைக்கு ஊக்கத்தொகை அறிவித்த முதலமைச்சர் விஜய்](https://www.polimernews.com/sportsnews/india-wins-womens-t20-gold-asia-games-madurai-cricketer-kamalini-gets-rs-75-lakh-incentive-12563832)
+- [અમદાવાદના ગોતામાં સિલ્વર આૅક કોલેજ બહાર ક્રેનની ટક્કરે આશાસ્પદ યુવતીનું મોત](https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-fatal-outside-silver-oak-college-promising-girl-dies-after-being-hit-by-crane-39394040366)
+- [India vs Japan: జపాన్‌పై టీమిండియా థ్రిల్లింగ్ విక్టరీ.. టీ20ల్లో 200వ విజయం](https://telugu.asianetnews.com/gallery/cricket-sports/ind-vs-jpn-india-beats-japan-by-2-runs-in-thriller-to-register-historic-200th-t20i-win-asian-games-2drf3nt)
+- [தமிழ்நாட்டில் தீவிரமடையும் டெங்கு, உண்ணிக் காய்ச்சல்! பாதிப்பு எண்ணிக்கை அதிகரிப்பு](https://viduthalai.in/207143/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%A4%E0%AF%80%E0%AE%B5%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AE%9F%E0%AF%88%E0%AE%AF/)
+- [প্রথমবার দিল্লির বাইরে জাতীয় চলচ্চিত্র পুরস্কারের আসর, রাষ্ট্রপতির হাতে সম্মানিত হবেন তারকারা](https://bengali.indianexpress.com/entertainment/72-national-film-awards-ekta-nagar-president-droupadi-murmu-12563397)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
