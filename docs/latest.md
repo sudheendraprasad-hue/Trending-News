@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-22 19:33:00
+# India Trending Report — 2026-09-22 20:01:51
 
 ## Google Trends (India) — top trending searches
-1. [leicester city vs fulham u-21](https://trends.google.com/trending/rss?geo=IN)
-2. [nations league](https://trends.google.com/trending/rss?geo=IN)
-3. [taylor swift](https://trends.google.com/trending/rss?geo=IN)
-4. [opus 5.5](https://trends.google.com/trending/rss?geo=IN)
-5. [বঙ্গোপসাগর](https://trends.google.com/trending/rss?geo=IN)
-6. [कर्मचारी](https://trends.google.com/trending/rss?geo=IN)
-7. [गेंदबाजी](https://trends.google.com/trending/rss?geo=IN)
-8. [download](https://trends.google.com/trending/rss?geo=IN)
-9. [dax index](https://trends.google.com/trending/rss?geo=IN)
-10. [ব্যাংক](https://trends.google.com/trending/rss?geo=IN)
+1. [real madrid vs psg](https://trends.google.com/trending/rss?geo=IN)
+2. [the paradise](https://trends.google.com/trending/rss?geo=IN)
+3. [leicester city vs fulham u-21](https://trends.google.com/trending/rss?geo=IN)
+4. [nations league](https://trends.google.com/trending/rss?geo=IN)
+5. [taylor swift](https://trends.google.com/trending/rss?geo=IN)
+6. [opus 5.5](https://trends.google.com/trending/rss?geo=IN)
+7. [বঙ্গোপসাগর](https://trends.google.com/trending/rss?geo=IN)
+8. [कर्मचारी](https://trends.google.com/trending/rss?geo=IN)
+9. [गेंदबाजी](https://trends.google.com/trending/rss?geo=IN)
+10. [download](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -21,7 +21,7 @@
 - [Kalkaji rape case: DU's LSR college shifts classes online amid safety concerns](https://timesofindia.indiatimes.com/city/delhi/safety-security-paramount-lady-shri-ram-college-cancels-classes-goes-online-after-kalkaji-mandir-gang-rape-case/articleshow/134417900.cms)
 - [MediaTek targets Qualcomm's fortress with an unmatched new weapon](https://timesofindia.indiatimes.com/technology/tech-news/mediatek-seems-ready-to-storm-into-qualcomms-biggest-fortress-and-with-a-weapon-that-american-chip-maker-still-has-no-answer-to/articleshow/134412852.cms)
 - [Trump-Pezeshkian meeting on UNGA sidelines? US prez 'open' to talks with Iran](https://timesofindia.indiatimes.com/world/us/trump-pezeshkian-meeting-on-unga-sidelines-us-president-open-to-talks-with-iran/articleshow/134416649.cms)
-- [Lionel Richie hospitalized again with irregular heartbeat, has AFib procedure](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lionel-richie-hospitalised-for-third-time-in-three-months-with-irregular-heartbeat-undergoes-afib-heart-procedure-earth-wind-fire-cancel-three-tour-shows/articleshow/134416377.cms)
+- [Gold jumps 60% to Rs 1.57L from Rs 98,000 a year ago; sales fall 15%, coins gain](https://timesofindia.indiatimes.com/business/india-business/gold-prices-surge-60-from-rs-98000-to-rs-1-57-lakh-per-10-grams-in-a-year-ganesh-chaturthi-sales-fall-15-as-buyers-switch-to-lighter-jewellery-also-buy-coins/articleshow/134405905.cms)
 - [CSK's Vansh Bedi says he is not the unnamed player in sting operation row](https://timesofindia.indiatimes.com/sports/cricket/news/false-and-defamatory-csks-vansh-bedi-says-he-is-not-the-unnamed-player-in-sting-operation-controversy/articleshow/134416107.cms)
 - [Ganesh Utsav turns tragic: Woman dies after falling into boiling sambar in Andhra](https://timesofindia.indiatimes.com/city/vijayawada/ganesh-utsav-turns-tragic-as-woman-dies-after-falling-into-boiling-sambar-during-annadanam-in-vijayawada/articleshow/134404315.cms)
 
@@ -62,18 +62,20 @@
 - [ಗೃಹಲಕ್ಷ್ಮಿ ಯೋಜನೆ ಮರುಪರಿಶೀಲನೆ: ಹೊಸ ಮಾರ್ಗಸೂಚಿ 17 ಪ್ರಶ್ನೆಗಳು; ಕುಟುಂಬದ ಯಜಮಾನನ ಆಧಾರ್‌ ಕಡ್ಡಾಯ ಸೇರಿ ಹಲವು ನಿಯಮ](https://vijaykarnataka.com/news/karnataka/review-of-gruha-lakshmi-scheme-new-guidelines-17-questions-aadhaar-of-male-head-of-family-also-mandatory/articleshow/134415708.cms)
 
 **The Hindu**
-- [AISA claims college cancelled panel discussion after ‘threat’](https://www.thehindu.com/news/national/karnataka/aisa-claims-college-cancelled-panel-discussion-after-threat/article71496964.ece)
-- [Haifa day: Deterioration of memorial in Basra distresses families of martyrs](https://www.thehindu.com/news/national/karnataka/haifa-day-deterioration-of-memorial-in-basra-distresses-families-of-martyrs/article71496745.ece)
-- [Anekal police bust illegal gun-dealing gang; seven arrested, five country-made pistols seized](https://www.thehindu.com/news/national/karnataka/anekal-police-bust-illegal-gun-dealing-gang-seven-arrested-five-country-made-pistols-seized/article71494767.ece)
-- [Chairperson, Members of National Commission for Scheduled Tribes meet CM Vijay](https://www.thehindu.com/news/national/tamil-nadu/chairperson-members-of-national-commission-for-scheduled-tribes-meet-cm-vijay/article71494896.ece)
-- [Reiterating the basics of criminalisation](https://www.thehindu.com/opinion/op-ed/reiterating-the-basics-of-criminalisation/article71496880.ece)
-- [Regional Round (South) of NTPC Electron quiz held in Chennai](https://www.thehindu.com/news/national/tamil-nadu/regional-round-south-of-ntpc-electron-quiz-held-in-chennai/article71496386.ece)
-- [Packed schedule for Jaishankar at UN as India campaigns for Security Council election](https://www.thehindu.com/news/national/packed-schedule-for-jaishankar-at-un-as-india-campaigns-for-security-council-election/article71496048.ece)
+- [Confident of a hat-trick in U.P.: Nabin](https://www.thehindu.com/news/national/uttar-pradesh/confident-of-a-hat-trick-inupnabin/article71495972.ece)
+- [FACT foundation day observed](https://www.thehindu.com/news/national/kerala/fact-foundation-day-observed-cpi-alleges-bid-to-glorify-cp-ramaswamy-iyer/article71496727.ece)
+- [Monsoon Session of Odisha House witnesses ruckus over textbook errors, mines Act](https://www.thehindu.com/news/national/odisha/monsoon-session-of-odisha-house-witnesses-ruckus-over-textbook-errors-mines-law/article71496021.ece)
+- [Probe sought into alleged secrecy over Assembly panel’s visit to Aralam farm](https://www.thehindu.com/news/national/kerala/probe-sought-into-alleged-secrecy-over-assembly-panels-visit-to-aralam-farm/article71496466.ece)
+- [BJP maintains dominance in Rajasthan urban bodies by winning 6 deputy mayor seats](https://www.thehindu.com/news/national/rajasthan/bjpmaintains-dominance-in-rajasthan-urban-bodies-by-winning-6-deputy-mayor-seats/article71496437.ece)
+- [Freezing democracy: On the Election Commission of India and West Bengal](https://www.thehindu.com/opinion/editorial/freezing-democracy-on-the-eci-and-west-bengal/article71495672.ece)
+- [Haryana police use water cannons, tear gas to disperse farmers protesting paddy procurement delay](https://www.thehindu.com/news/national/haryana/haryana-police-use-water-cannons-tear-gas-to-disperse-farmers-protesting-paddy-procurement-delay/article71496152.ece)
+- [NC, BJP members spar on issue of holiday on anniversaries of Maharaja Hari Singh, Sheikh Mohammad Abdullah](https://www.thehindu.com/news/national/nc-bjp-members-spar-on-issue-of-holiday-on-anniversaries-of-maharaja-hari-singh-sheikh-mohammad-abdullah/article71494490.ece)
+- [Water wealth: On groundwater exploitation in Punjab](https://www.thehindu.com/opinion/editorial/water-wealth-on-groundwater-exploitation-in-punjab/article71495725.ece)
 - [On Sign Language Day, an interpreter recalls a moment on stage with the President](https://www.thehindu.com/news/national/andhra-pradesh/on-sign-language-day-an-interpreter-recalls-a-moment-on-stage-with-the-president/article71496143.ece)
-- [No sanction required under BNSS to prosecute public servants for disproportionate assets, rules Madras High Court](https://www.thehindu.com/news/national/tamil-nadu/no-sanction-required-under-bnss-to-prosecute-public-servants-for-disproportionate-assets-rules-madras-high-court/article71494241.ece)
-- [Fishermen plan protest against new Secretariat project at Foreshore Estate on Sept. 29](https://www.thehindu.com/news/cities/chennai/fishermen-plan-protest-against-new-secretariat-project-at-foreshore-estate-on-sept-29/article71496802.ece)
 
 **Livemint**
+- [Binance faces US criminal probe over Iran sanctions violations | What we know](https://www.livemint.com/news/binance-faces-us-criminal-probe-over-iran-sanctions-violations-what-we-know-11790095881342.html)
+- [US national Van Dyke pays  ₹5.5 lakh compounding charge; may return to US: What it means for NIA case & UAPA probe](https://www.livemint.com/news/india/us-national-matthew-van-dyke-pays-5-5-lakh-compounding-charge-may-return-to-uswhat-it-means-for-nia-case-uapa-pr-11790103623384.html)
 - [Hurricane Polo reaches Category 5 strength: When it is likely to make landfall and which areas to be worst affected?](https://www.livemint.com/news/us-news/hurricane-polo-reaches-category-5-strength-when-it-is-likely-to-make-landfall-and-which-areas-to-be-worst-affected-11790098503867.html)
 - [‘Ridiculous or reasonable?’ Gurgaon couple reveals  ₹1.2 lakh monthly spending breakdown](https://www.livemint.com/news/trends/ridiculous-or-reasonable-gurgaon-couple-reveals-1-2-lakh-monthly-spending-breakdown-11790096906006.html)
 - [Obamacare crackdown: Why Trump administration is removing 750,000 people from health insurance rolls](https://www.livemint.com/news/us-news/obamacare-crackdown-why-trump-administration-is-removing-750-000-people-from-health-insurance-rolls-11790096669647.html)
@@ -82,8 +84,6 @@
 - [Trump signs US-Denmark-Greenland agreement: What the new US security deal means](https://www.livemint.com/news/us-news/trump-signs-us-denmark-greenland-agreement-what-the-new-us-security-agreement-means-11790092732510.html)
 - [CDSCO flags indiscriminate use of painkillers and antibiotics](https://www.livemint.com/news/cdsco-flags-indiscriminate-use-of-painkillers-and-antibiotics-11790088574575.html)
 - [Trump’s UNGA speech: ‘Big decision’ on Iran, economic isolation call and 8 other key points](https://www.livemint.com/news/us-news/trumps-unga-speech-big-decision-on-iran-economic-isolation-call-and-8-other-key-points-11790089786447.html)
-- [Hayden Panettiere cause of death revealed: Actor died from fentanyl overdose, coroner says](https://www.livemint.com/news/us-news/hayden-panettiere-cause-of-death-revealed-actor-died-from-fentanyl-overdose-coroner-says-11790089947274.html)
-- [Reaping profits by YouTube and discarded materials: This couple built 2,500-sq-ft home for $40,000, sold it for $290,000](https://www.livemint.com/news/trends/reaping-profits-by-youtube-and-discarded-materials-this-couple-built-2-500-sq-ft-home-for-40-000-sold-it-for-290000-11790087735807.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -102,33 +102,33 @@
 ## Cross-source trending keywords (derived from headlines above)
 - UNGA (7.8)
 - Trump (6.7)
-- Iran (5.2)
+- Iran (6.5)
+- What (4.2)
 - India (2.9)
-- Chennai (2.6)
 - Kalkaji (2.6)
 - Andhra (2.6)
 - Kashmir (2.6)
 - India-Pakistan (2.6)
 - President (2.2)
 - Turkish President Erdogan (2.0)
-- What (1.6)
+- Bengal (1.6)
+- Odisha (1.6)
+- case (1.5)
 - Trump's (1.3)
-- Told (1.3)
-- Parents (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [लालबागचा राजा के दरबार में शाहरुख खान, मैनेजर के दुपट्टे से पोछा चेहरा, पास खड़ी दिखीं पत्नी-बेटी](https://www.aajtak.in/entertainment/bollywood-news/story/shah-rukh-khan-performed-pooja-lalbaugcha-raja-wipes-face-with-manager-pooja-dadlani-dupatta-suhana-gauri-khan-tmovf-dskc-2649822-2026-09-22)
-- [I cannot be held responsible for all social media posts by DMK handles, functionaries: Stalin tells Madras High Court](https://www.thehindu.com/news/national/tamil-nadu/i-cannot-be-held-responsible-for-all-social-media-posts-by-dmk-handles-functionaries-stalin-tells-madras-high-court/article71494219.ece)
-- ["Necessary to preserve legacy of 'Tata Group'": Sharad Pawar raises concerns over Tata Sons governance, calls for respecting Tata Trusts' role](https://www.aninews.in/news/national/general-news/necessary-to-preserve-legacy-of-tata-group-sharad-pawar-raises-concerns-over-tata-sons-governance-calls-for-respecting-tata-trusts-role20260922130026/)
-- [जापान के खिलाफ फुस्स हुआ अभिषेक शर्मा का बल्ला, गोल्डन डक पर आउट होकर शर्मनाक रिकॉर्ड लिस्ट में हुए शामिल](https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/abhishesk-sharma-golden-duck-ind-vs-jpn-t20i-most-golden-duck-by-indian-opner/articleshow/134405803.cms)
-- [8వ వేతన సంఘం ఆలస్యం.. అరియర్స్‌తోనే లెవెల్ 8 ఉద్యోగికి రూ. 18 లక్షలు వస్తాయా?](https://telugu.samayam.com/business/business-news/8th-pay-commission-arrears-calculator-can-level-8-employees-get-up-to-rs-18-lakh/articleshow/134404393.cms)
-- [ബ്രസീൽ ഫുട്‌ബോൾ ഇതിഹാസം റൊണാൾഡീന്യോ കൊച്ചിയിൽ; പ്രതിരോധ കുത്തിവെപ്പ് സർട്ടിഫിക്കറ്റിൽ ആശയക്കുഴപ്പം](https://www.mathrubhumi.com/sports/football/ronaldinho-arrives-in-kochi-football-match-ohgc46s6)
-- [विधानपरिषदेच्या पदवीधर-शिक्षक मतदारसंघांच्या ५ जागांसाठी २३ ऑक्टोबरला मतदान|Maharashtra Legislative Council Election](https://pudhari.news/maharashtra/mumbai/maharashtra-mlc-graduates-teachers-election-october-23-sb97)
-- [Chiranjeevi | చిరంజీవి సినీ ప్రస్థానానికి 48 ఏళ్లు.. ఆ పేరు మీ ప్రేమతో శాశ్వత గుర్తింపుగా మారింది..](https://www.ntnews.com/cinema/chiranjeevi-emotional-post-viral-2-2516960)
-- [Vande Mataram case: Heated exchange between S Muralidhar, SG Tushar Mehta in Supreme Court over 'Naxalite' remark](https://www.barandbench.com/news/vande-mataram-case-heated-exchange-between-s-muralidhar-sg-tushar-mehta-in-supreme-court-over-naxalite-remark)
-- [V4+India બેઠક 2026: ચાર યુરોપિયન દેશોએ UNSCમાં ભારતની કાયમી સભ્યપદની દાવેદારીને સમર્થન આપ્યું](https://www.gujaratsamachar.com/news/daily-current-affairs/v4india-meeting-2026-four-european-countries-support-indias-bid-for-permanent-membership-in-unsc-74085851910)
+- [Jamui Encounter: স্কুটার থেকে নামিয়ে নাবালিকাকে নির্যাতন, শরীর খামচে ধরে তুলে নিয়ে যাওয়ার চেষ্টা, একজনকে এনকাউন্টার পুলিশের](https://bengali.abplive.com/crime/bihar-jamui-groping-case-police-encounters-one-accused-arrested-after-being-shot-1193765)
+- [Karnataka High Court defers hearing in PIL challenging State order limiting Vande Mataram to 2 stanzas](https://www.barandbench.com/news/litigation/karnataka-high-court-defers-hearing-in-pil-challenging-state-order-limiting-vande-mataram-to-2-stanzas)
+- [Mumbai-Ahmedabad Bullet Train: 320kmh की स्‍पीड... फिर अचानक आ जाए भूंकप, तो बुलेट ट्रेन का क्‍या होगा?](https://www.aajtak.in/business/utility/photo/what-happens-earthquake-at-mumbai-ahmedabad-bullet-train-speed-320kmh-tutd-2649852-2026-09-22)
+- [২ লক্ষ টাকা বাজেটে Keeway-EZI Hypervolt-R হতে পারে বেস্ট চয়েস](https://eisamay.com/auto-news/keeway-hypervolt-r-at-2-lakh-rupees-price-point-is-a-best-option/200545870.cms)
+- [IND W vs SL W: भारतीय बेटियों का गोल्डन परफॉर्मेंस, श्रीलंका को रौंद हासिल किया सोने का तमगा](https://www.jagran.com/cricket/match-report-india-women-vs-sri-lanka-women-gold-medal-match-report-scorecard-asian-games-2026-smriti-mandhana-40381138.html)
+- [காலர்போன் அறுவை சிகிச்சை.. 4 நாட்களிலேயே பணிக்கு திரும்பிய அமைச்சர் கீர்த்தனா..](https://www.polimernews.com/politicsnews/collarbone-surgery-minister-keerthana-returns-to-work-in-4-days-12563518)
+- [Breaking News : ભારતીય મહિલા ક્રિકેટ ટીમે Asian Games 2026માં શ્રીલંકાને હરાવી ગોલ્ડ મેડલ જીત્યો, જુઓ ફોટો](https://tv9gujarati.com/photo-gallery/breaking-news-asian-games-2026-indian-women-cricket-team-won-gold-medal-1520068.html)
+- [भारत ने एशियन गेम्स में गोल्ड मेडल जीतकर रचा इतिहास, श्रीलंका को फाइनल में 147 रनों से पीटा](https://www.indiatv.in/sports/cricket/india-won-the-gold-medal-in-the-asian-games-2026-beats-sri-lanka-women-team-in-final-2026-09-22-1244642)
+- [दिल्ली: नाबालिग लड़की के साथ गैंगरेप, एनकाउंटर के दौरान मुख्य अभियुक्त को लगी गोली](https://www.bbc.com/hindi/articles/c6ly7enyx18yo)
+- [മുട്ടില്‍ മരംമുറി കേസും വഞ്ചനാ കേസും ഒരു കോടതിയിൽ, റോജി അഗസ്റ്റിന്റെ ആവശ്യം അംഗീകരിച്ച് സുപ്രീം കോടതി](https://www.asianetnews.com/kerala-news/supreme-court-grants-roji-augustines-request-to-have-the-muttiltree-case-and-fraud-case-heard-in-the-same-court-articleshow-3cckcy6)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._

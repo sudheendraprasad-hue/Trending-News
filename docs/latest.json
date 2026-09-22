@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-09-22 19:33:00",
+  "generated_at": "2026-09-22 20:01:51",
   "google_trends": [
+    {
+      "title": "real madrid vs psg",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "the paradise",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "leicester city vs fulham u-21",
       "traffic": null,
@@ -40,16 +50,6 @@
       "title": "download",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "dax index",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "\u09ac\u09cd\u09af\u09be\u0982\u0995",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
     }
   ],
   "outlets": {
@@ -83,8 +83,8 @@
         "link": "https://timesofindia.indiatimes.com/world/us/trump-pezeshkian-meeting-on-unga-sidelines-us-president-open-to-talks-with-iran/articleshow/134416649.cms"
       },
       {
-        "title": "Lionel Richie hospitalized again with irregular heartbeat, has AFib procedure",
-        "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lionel-richie-hospitalised-for-third-time-in-three-months-with-irregular-heartbeat-undergoes-afib-heart-procedure-earth-wind-fire-cancel-three-tour-shows/articleshow/134416377.cms"
+        "title": "Gold jumps 60% to Rs 1.57L from Rs 98,000 a year ago; sales fall 15%, coins gain",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/gold-prices-surge-60-from-rs-98000-to-rs-1-57-lakh-per-10-grams-in-a-year-ganesh-chaturthi-sales-fall-15-as-buyers-switch-to-lighter-jewellery-also-buy-coins/articleshow/134405905.cms"
       },
       {
         "title": "CSK's Vansh Bedi says he is not the unnamed player in sting operation row",
@@ -223,47 +223,55 @@
     ],
     "The Hindu": [
       {
-        "title": "AISA claims college cancelled panel discussion after \u2018threat\u2019",
-        "link": "https://www.thehindu.com/news/national/karnataka/aisa-claims-college-cancelled-panel-discussion-after-threat/article71496964.ece"
+        "title": "Confident of a hat-trick in\u00a0U.P.:\u00a0Nabin",
+        "link": "https://www.thehindu.com/news/national/uttar-pradesh/confident-of-a-hat-trick-inupnabin/article71495972.ece"
       },
       {
-        "title": "Haifa day: Deterioration of memorial in Basra distresses families of martyrs",
-        "link": "https://www.thehindu.com/news/national/karnataka/haifa-day-deterioration-of-memorial-in-basra-distresses-families-of-martyrs/article71496745.ece"
+        "title": "FACT foundation day observed",
+        "link": "https://www.thehindu.com/news/national/kerala/fact-foundation-day-observed-cpi-alleges-bid-to-glorify-cp-ramaswamy-iyer/article71496727.ece"
       },
       {
-        "title": "Anekal police bust illegal gun-dealing gang; seven arrested, five country-made pistols seized",
-        "link": "https://www.thehindu.com/news/national/karnataka/anekal-police-bust-illegal-gun-dealing-gang-seven-arrested-five-country-made-pistols-seized/article71494767.ece"
+        "title": "Monsoon Session of Odisha House witnesses ruckus over textbook errors, mines Act",
+        "link": "https://www.thehindu.com/news/national/odisha/monsoon-session-of-odisha-house-witnesses-ruckus-over-textbook-errors-mines-law/article71496021.ece"
       },
       {
-        "title": "Chairperson, Members of National Commission for Scheduled Tribes meet CM Vijay",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/chairperson-members-of-national-commission-for-scheduled-tribes-meet-cm-vijay/article71494896.ece"
+        "title": "Probe sought into alleged secrecy over Assembly panel\u2019s visit to Aralam farm",
+        "link": "https://www.thehindu.com/news/national/kerala/probe-sought-into-alleged-secrecy-over-assembly-panels-visit-to-aralam-farm/article71496466.ece"
       },
       {
-        "title": "Reiterating the basics of criminalisation",
-        "link": "https://www.thehindu.com/opinion/op-ed/reiterating-the-basics-of-criminalisation/article71496880.ece"
+        "title": "BJP\u00a0maintains dominance in Rajasthan urban bodies by winning 6 deputy mayor seats",
+        "link": "https://www.thehindu.com/news/national/rajasthan/bjpmaintains-dominance-in-rajasthan-urban-bodies-by-winning-6-deputy-mayor-seats/article71496437.ece"
       },
       {
-        "title": "Regional Round (South) of NTPC Electron quiz held in Chennai",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/regional-round-south-of-ntpc-electron-quiz-held-in-chennai/article71496386.ece"
+        "title": "Freezing democracy: On the Election Commission of India and West Bengal",
+        "link": "https://www.thehindu.com/opinion/editorial/freezing-democracy-on-the-eci-and-west-bengal/article71495672.ece"
       },
       {
-        "title": "Packed schedule for Jaishankar at UN as India campaigns for Security Council election",
-        "link": "https://www.thehindu.com/news/national/packed-schedule-for-jaishankar-at-un-as-india-campaigns-for-security-council-election/article71496048.ece"
+        "title": "Haryana police use water cannons, tear gas to disperse farmers protesting paddy procurement delay",
+        "link": "https://www.thehindu.com/news/national/haryana/haryana-police-use-water-cannons-tear-gas-to-disperse-farmers-protesting-paddy-procurement-delay/article71496152.ece"
+      },
+      {
+        "title": "NC, BJP members spar on issue of holiday on anniversaries of Maharaja Hari Singh, Sheikh Mohammad Abdullah",
+        "link": "https://www.thehindu.com/news/national/nc-bjp-members-spar-on-issue-of-holiday-on-anniversaries-of-maharaja-hari-singh-sheikh-mohammad-abdullah/article71494490.ece"
+      },
+      {
+        "title": "Water wealth: On groundwater exploitation in Punjab",
+        "link": "https://www.thehindu.com/opinion/editorial/water-wealth-on-groundwater-exploitation-in-punjab/article71495725.ece"
       },
       {
         "title": "On Sign Language Day, an interpreter recalls a moment on stage with the President",
         "link": "https://www.thehindu.com/news/national/andhra-pradesh/on-sign-language-day-an-interpreter-recalls-a-moment-on-stage-with-the-president/article71496143.ece"
-      },
-      {
-        "title": "No sanction required under BNSS to prosecute public servants for disproportionate assets, rules Madras High Court",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/no-sanction-required-under-bnss-to-prosecute-public-servants-for-disproportionate-assets-rules-madras-high-court/article71494241.ece"
-      },
-      {
-        "title": "Fishermen plan protest against new Secretariat project at Foreshore Estate on Sept. 29",
-        "link": "https://www.thehindu.com/news/cities/chennai/fishermen-plan-protest-against-new-secretariat-project-at-foreshore-estate-on-sept-29/article71496802.ece"
       }
     ],
     "Livemint": [
+      {
+        "title": "Binance faces US criminal probe over Iran sanctions violations | What we know",
+        "link": "https://www.livemint.com/news/binance-faces-us-criminal-probe-over-iran-sanctions-violations-what-we-know-11790095881342.html"
+      },
+      {
+        "title": "US national Van Dyke pays  \u20b95.5 lakh compounding charge; may return to US: What it means for NIA case & UAPA probe",
+        "link": "https://www.livemint.com/news/india/us-national-matthew-van-dyke-pays-5-5-lakh-compounding-charge-may-return-to-uswhat-it-means-for-nia-case-uapa-pr-11790103623384.html"
+      },
       {
         "title": "Hurricane Polo reaches Category 5 strength: When it is likely to make landfall and which areas to be worst affected?",
         "link": "https://www.livemint.com/news/us-news/hurricane-polo-reaches-category-5-strength-when-it-is-likely-to-make-landfall-and-which-areas-to-be-worst-affected-11790098503867.html"
@@ -295,14 +303,6 @@
       {
         "title": "Trump\u2019s UNGA speech: \u2018Big decision\u2019 on Iran, economic isolation call and 8 other key points",
         "link": "https://www.livemint.com/news/us-news/trumps-unga-speech-big-decision-on-iran-economic-isolation-call-and-8-other-key-points-11790089786447.html"
-      },
-      {
-        "title": "Hayden Panettiere cause of death revealed: Actor died from fentanyl overdose, coroner says",
-        "link": "https://www.livemint.com/news/us-news/hayden-panettiere-cause-of-death-revealed-actor-died-from-fentanyl-overdose-coroner-says-11790089947274.html"
-      },
-      {
-        "title": "Reaping profits by YouTube and discarded materials: This couple built 2,500-sq-ft home for $40,000, sold it for $290,000",
-        "link": "https://www.livemint.com/news/trends/reaping-profits-by-youtube-and-discarded-materials-this-couple-built-2-500-sq-ft-home-for-40-000-sold-it-for-290000-11790087735807.html"
       }
     ],
     "Moneycontrol": [],
@@ -360,15 +360,15 @@
     },
     {
       "term": "Iran",
-      "score": 5.2
+      "score": 6.5
+    },
+    {
+      "term": "What",
+      "score": 4.2
     },
     {
       "term": "India",
       "score": 2.9
-    },
-    {
-      "term": "Chennai",
-      "score": 2.6
     },
     {
       "term": "Kalkaji",
@@ -395,63 +395,63 @@
       "score": 2
     },
     {
-      "term": "What",
+      "term": "Bengal",
       "score": 1.6
     },
     {
+      "term": "Odisha",
+      "score": 1.6
+    },
+    {
+      "term": "case",
+      "score": 1.5
+    },
+    {
       "term": "Trump's",
-      "score": 1.3
-    },
-    {
-      "term": "Told",
-      "score": 1.3
-    },
-    {
-      "term": "Parents",
       "score": 1.3
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u0932\u093e\u0932\u092c\u093e\u0917\u091a\u093e \u0930\u093e\u091c\u093e \u0915\u0947 \u0926\u0930\u092c\u093e\u0930 \u092e\u0947\u0902 \u0936\u093e\u0939\u0930\u0941\u0916 \u0916\u093e\u0928, \u092e\u0948\u0928\u0947\u091c\u0930 \u0915\u0947 \u0926\u0941\u092a\u091f\u094d\u091f\u0947 \u0938\u0947 \u092a\u094b\u091b\u093e \u091a\u0947\u0939\u0930\u093e, \u092a\u093e\u0938 \u0916\u0921\u093c\u0940 \u0926\u093f\u0916\u0940\u0902 \u092a\u0924\u094d\u0928\u0940-\u092c\u0947\u091f\u0940",
-      "link": "https://www.aajtak.in/entertainment/bollywood-news/story/shah-rukh-khan-performed-pooja-lalbaugcha-raja-wipes-face-with-manager-pooja-dadlani-dupatta-suhana-gauri-khan-tmovf-dskc-2649822-2026-09-22"
+      "title": "Jamui Encounter: \u09b8\u09cd\u0995\u09c1\u099f\u09be\u09b0 \u09a5\u09c7\u0995\u09c7 \u09a8\u09be\u09ae\u09bf\u09df\u09c7 \u09a8\u09be\u09ac\u09be\u09b2\u09bf\u0995\u09be\u0995\u09c7 \u09a8\u09bf\u09b0\u09cd\u09af\u09be\u09a4\u09a8, \u09b6\u09b0\u09c0\u09b0 \u0996\u09be\u09ae\u099a\u09c7 \u09a7\u09b0\u09c7 \u09a4\u09c1\u09b2\u09c7 \u09a8\u09bf\u09df\u09c7 \u09af\u09be\u0993\u09df\u09be\u09b0 \u099a\u09c7\u09b7\u09cd\u099f\u09be, \u098f\u0995\u099c\u09a8\u0995\u09c7 \u098f\u09a8\u0995\u09be\u0989\u09a8\u09cd\u099f\u09be\u09b0 \u09aa\u09c1\u09b2\u09bf\u09b6\u09c7\u09b0",
+      "link": "https://bengali.abplive.com/crime/bihar-jamui-groping-case-police-encounters-one-accused-arrested-after-being-shot-1193765"
     },
     {
-      "title": "I cannot be held responsible for all social media posts by DMK handles, functionaries: Stalin tells Madras High Court",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/i-cannot-be-held-responsible-for-all-social-media-posts-by-dmk-handles-functionaries-stalin-tells-madras-high-court/article71494219.ece"
+      "title": "Karnataka High Court defers hearing in PIL challenging State order limiting Vande Mataram to 2 stanzas",
+      "link": "https://www.barandbench.com/news/litigation/karnataka-high-court-defers-hearing-in-pil-challenging-state-order-limiting-vande-mataram-to-2-stanzas"
     },
     {
-      "title": "\"Necessary to preserve legacy of 'Tata Group'\": Sharad Pawar raises concerns over Tata Sons governance, calls for respecting Tata Trusts' role",
-      "link": "https://www.aninews.in/news/national/general-news/necessary-to-preserve-legacy-of-tata-group-sharad-pawar-raises-concerns-over-tata-sons-governance-calls-for-respecting-tata-trusts-role20260922130026/"
+      "title": "Mumbai-Ahmedabad Bullet Train: 320kmh \u0915\u0940 \u0938\u094d\u200d\u092a\u0940\u0921... \u092b\u093f\u0930 \u0905\u091a\u093e\u0928\u0915 \u0906 \u091c\u093e\u090f \u092d\u0942\u0902\u0915\u092a, \u0924\u094b \u092c\u0941\u0932\u0947\u091f \u091f\u094d\u0930\u0947\u0928 \u0915\u093e \u0915\u094d\u200d\u092f\u093e \u0939\u094b\u0917\u093e?",
+      "link": "https://www.aajtak.in/business/utility/photo/what-happens-earthquake-at-mumbai-ahmedabad-bullet-train-speed-320kmh-tutd-2649852-2026-09-22"
     },
     {
-      "title": "\u091c\u093e\u092a\u093e\u0928 \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u092b\u0941\u0938\u094d\u0938 \u0939\u0941\u0906 \u0905\u092d\u093f\u0937\u0947\u0915 \u0936\u0930\u094d\u092e\u093e \u0915\u093e \u092c\u0932\u094d\u0932\u093e, \u0917\u094b\u0932\u094d\u0921\u0928 \u0921\u0915 \u092a\u0930 \u0906\u0909\u091f \u0939\u094b\u0915\u0930 \u0936\u0930\u094d\u092e\u0928\u093e\u0915 \u0930\u093f\u0915\u0949\u0930\u094d\u0921 \u0932\u093f\u0938\u094d\u091f \u092e\u0947\u0902 \u0939\u0941\u090f \u0936\u093e\u092e\u093f\u0932",
-      "link": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/abhishesk-sharma-golden-duck-ind-vs-jpn-t20i-most-golden-duck-by-indian-opner/articleshow/134405803.cms"
+      "title": "\u09e8 \u09b2\u0995\u09cd\u09b7 \u099f\u09be\u0995\u09be \u09ac\u09be\u099c\u09c7\u099f\u09c7 Keeway-EZI Hypervolt-R \u09b9\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7 \u09ac\u09c7\u09b8\u09cd\u099f \u099a\u09df\u09c7\u09b8",
+      "link": "https://eisamay.com/auto-news/keeway-hypervolt-r-at-2-lakh-rupees-price-point-is-a-best-option/200545870.cms"
     },
     {
-      "title": "8\u0c35 \u0c35\u0c47\u0c24\u0c28 \u0c38\u0c02\u0c18\u0c02 \u0c06\u0c32\u0c38\u0c4d\u0c2f\u0c02.. \u0c05\u0c30\u0c3f\u0c2f\u0c30\u0c4d\u0c38\u0c4d\u200c\u0c24\u0c4b\u0c28\u0c47 \u0c32\u0c46\u0c35\u0c46\u0c32\u0c4d 8 \u0c09\u0c26\u0c4d\u0c2f\u0c4b\u0c17\u0c3f\u0c15\u0c3f \u0c30\u0c42. 18 \u0c32\u0c15\u0c4d\u0c37\u0c32\u0c41 \u0c35\u0c38\u0c4d\u0c24\u0c3e\u0c2f\u0c3e?",
-      "link": "https://telugu.samayam.com/business/business-news/8th-pay-commission-arrears-calculator-can-level-8-employees-get-up-to-rs-18-lakh/articleshow/134404393.cms"
+      "title": "IND W vs SL W: \u092d\u093e\u0930\u0924\u0940\u092f \u092c\u0947\u091f\u093f\u092f\u094b\u0902 \u0915\u093e \u0917\u094b\u0932\u094d\u0921\u0928 \u092a\u0930\u092b\u0949\u0930\u094d\u092e\u0947\u0902\u0938, \u0936\u094d\u0930\u0940\u0932\u0902\u0915\u093e \u0915\u094b \u0930\u094c\u0902\u0926 \u0939\u093e\u0938\u093f\u0932 \u0915\u093f\u092f\u093e \u0938\u094b\u0928\u0947 \u0915\u093e \u0924\u092e\u0917\u093e",
+      "link": "https://www.jagran.com/cricket/match-report-india-women-vs-sri-lanka-women-gold-medal-match-report-scorecard-asian-games-2026-smriti-mandhana-40381138.html"
     },
     {
-      "title": "\u0d2c\u0d4d\u0d30\u0d38\u0d40\u0d7d \u0d2b\u0d41\u0d1f\u0d4d\u200c\u0d2c\u0d4b\u0d7e \u0d07\u0d24\u0d3f\u0d39\u0d3e\u0d38\u0d02 \u0d31\u0d4a\u0d23\u0d3e\u0d7e\u0d21\u0d40\u0d28\u0d4d\u0d2f\u0d4b \u0d15\u0d4a\u0d1a\u0d4d\u0d1a\u0d3f\u0d2f\u0d3f\u0d7d; \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d30\u0d4b\u0d27 \u0d15\u0d41\u0d24\u0d4d\u0d24\u0d3f\u0d35\u0d46\u0d2a\u0d4d\u0d2a\u0d4d \u0d38\u0d7c\u0d1f\u0d4d\u0d1f\u0d3f\u0d2b\u0d3f\u0d15\u0d4d\u0d15\u0d31\u0d4d\u0d31\u0d3f\u0d7d \u0d06\u0d36\u0d2f\u0d15\u0d4d\u0d15\u0d41\u0d34\u0d2a\u0d4d\u0d2a\u0d02",
-      "link": "https://www.mathrubhumi.com/sports/football/ronaldinho-arrives-in-kochi-football-match-ohgc46s6"
+      "title": "\u0b95\u0bbe\u0bb2\u0bb0\u0bcd\u0baa\u0bcb\u0ba9\u0bcd \u0b85\u0bb1\u0bc1\u0bb5\u0bc8 \u0b9a\u0bbf\u0b95\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8.. 4 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bc7\u0baf\u0bc7 \u0baa\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0baf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b95\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba9\u0bbe..",
+      "link": "https://www.polimernews.com/politicsnews/collarbone-surgery-minister-keerthana-returns-to-work-in-4-days-12563518"
     },
     {
-      "title": "\u0935\u093f\u0927\u093e\u0928\u092a\u0930\u093f\u0937\u0926\u0947\u091a\u094d\u092f\u093e \u092a\u0926\u0935\u0940\u0927\u0930-\u0936\u093f\u0915\u094d\u0937\u0915 \u092e\u0924\u0926\u093e\u0930\u0938\u0902\u0918\u093e\u0902\u091a\u094d\u092f\u093e \u096b \u091c\u093e\u0917\u093e\u0902\u0938\u093e\u0920\u0940 \u0968\u0969 \u0911\u0915\u094d\u091f\u094b\u092c\u0930\u0932\u093e \u092e\u0924\u0926\u093e\u0928|Maharashtra Legislative Council Election",
-      "link": "https://pudhari.news/maharashtra/mumbai/maharashtra-mlc-graduates-teachers-election-october-23-sb97"
+      "title": "Breaking News : \u0aad\u0abe\u0ab0\u0aa4\u0ac0\u0aaf \u0aae\u0ab9\u0abf\u0ab2\u0abe \u0a95\u0acd\u0ab0\u0abf\u0a95\u0ac7\u0a9f \u0a9f\u0ac0\u0aae\u0ac7 Asian Games 2026\u0aae\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab2\u0a82\u0a95\u0abe\u0aa8\u0ac7 \u0ab9\u0ab0\u0abe\u0ab5\u0ac0 \u0a97\u0acb\u0ab2\u0acd\u0aa1 \u0aae\u0ac7\u0aa1\u0ab2 \u0a9c\u0ac0\u0aa4\u0acd\u0aaf\u0acb, \u0a9c\u0ac1\u0a93 \u0aab\u0acb\u0a9f\u0acb",
+      "link": "https://tv9gujarati.com/photo-gallery/breaking-news-asian-games-2026-indian-women-cricket-team-won-gold-medal-1520068.html"
     },
     {
-      "title": "Chiranjeevi | \u0c1a\u0c3f\u0c30\u0c02\u0c1c\u0c40\u0c35\u0c3f \u0c38\u0c3f\u0c28\u0c40 \u0c2a\u0c4d\u0c30\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c3e\u0c28\u0c3f\u0c15\u0c3f 48 \u0c0f\u0c33\u0c4d\u0c32\u0c41.. \u0c06 \u0c2a\u0c47\u0c30\u0c41 \u0c2e\u0c40 \u0c2a\u0c4d\u0c30\u0c47\u0c2e\u0c24\u0c4b \u0c36\u0c3e\u0c36\u0c4d\u0c35\u0c24 \u0c17\u0c41\u0c30\u0c4d\u0c24\u0c3f\u0c02\u0c2a\u0c41\u0c17\u0c3e \u0c2e\u0c3e\u0c30\u0c3f\u0c02\u0c26\u0c3f..",
-      "link": "https://www.ntnews.com/cinema/chiranjeevi-emotional-post-viral-2-2516960"
+      "title": "\u092d\u093e\u0930\u0924 \u0928\u0947 \u090f\u0936\u093f\u092f\u0928 \u0917\u0947\u092e\u094d\u0938 \u092e\u0947\u0902 \u0917\u094b\u0932\u094d\u0921 \u092e\u0947\u0921\u0932 \u091c\u0940\u0924\u0915\u0930 \u0930\u091a\u093e \u0907\u0924\u093f\u0939\u093e\u0938, \u0936\u094d\u0930\u0940\u0932\u0902\u0915\u093e \u0915\u094b \u092b\u093e\u0907\u0928\u0932 \u092e\u0947\u0902 147 \u0930\u0928\u094b\u0902 \u0938\u0947 \u092a\u0940\u091f\u093e",
+      "link": "https://www.indiatv.in/sports/cricket/india-won-the-gold-medal-in-the-asian-games-2026-beats-sri-lanka-women-team-in-final-2026-09-22-1244642"
     },
     {
-      "title": "Vande Mataram case: Heated exchange between S Muralidhar, SG Tushar Mehta in Supreme Court over 'Naxalite' remark",
-      "link": "https://www.barandbench.com/news/vande-mataram-case-heated-exchange-between-s-muralidhar-sg-tushar-mehta-in-supreme-court-over-naxalite-remark"
+      "title": "\u0926\u093f\u0932\u094d\u0932\u0940: \u0928\u093e\u092c\u093e\u0932\u093f\u0917 \u0932\u095c\u0915\u0940 \u0915\u0947 \u0938\u093e\u0925 \u0917\u0948\u0902\u0917\u0930\u0947\u092a, \u090f\u0928\u0915\u093e\u0909\u0902\u091f\u0930 \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u092e\u0941\u0916\u094d\u092f \u0905\u092d\u093f\u092f\u0941\u0915\u094d\u0924 \u0915\u094b \u0932\u0917\u0940 \u0917\u094b\u0932\u0940",
+      "link": "https://www.bbc.com/hindi/articles/c6ly7enyx18yo"
     },
     {
-      "title": "V4+India \u0aac\u0ac7\u0aa0\u0a95 2026: \u0a9a\u0abe\u0ab0 \u0aaf\u0ac1\u0ab0\u0acb\u0aaa\u0abf\u0aaf\u0aa8 \u0aa6\u0ac7\u0ab6\u0acb\u0a8f UNSC\u0aae\u0abe\u0a82 \u0aad\u0abe\u0ab0\u0aa4\u0aa8\u0ac0 \u0a95\u0abe\u0aaf\u0aae\u0ac0 \u0ab8\u0aad\u0acd\u0aaf\u0aaa\u0aa6\u0aa8\u0ac0 \u0aa6\u0abe\u0ab5\u0ac7\u0aa6\u0abe\u0ab0\u0ac0\u0aa8\u0ac7 \u0ab8\u0aae\u0ab0\u0acd\u0aa5\u0aa8 \u0a86\u0aaa\u0acd\u0aaf\u0ac1\u0a82",
-      "link": "https://www.gujaratsamachar.com/news/daily-current-affairs/v4india-meeting-2026-four-european-countries-support-indias-bid-for-permanent-membership-in-unsc-74085851910"
+      "title": "\u0d2e\u0d41\u0d1f\u0d4d\u0d1f\u0d3f\u0d32\u0d4d\u200d \u0d2e\u0d30\u0d02\u0d2e\u0d41\u0d31\u0d3f \u0d15\u0d47\u0d38\u0d41\u0d02 \u0d35\u0d1e\u0d4d\u0d1a\u0d28\u0d3e \u0d15\u0d47\u0d38\u0d41\u0d02 \u0d12\u0d30\u0d41 \u0d15\u0d4b\u0d1f\u0d24\u0d3f\u0d2f\u0d3f\u0d7d, \u0d31\u0d4b\u0d1c\u0d3f \u0d05\u0d17\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d06\u0d35\u0d36\u0d4d\u0d2f\u0d02 \u0d05\u0d02\u0d17\u0d40\u0d15\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d38\u0d41\u0d2a\u0d4d\u0d30\u0d40\u0d02 \u0d15\u0d4b\u0d1f\u0d24\u0d3f",
+      "link": "https://www.asianetnews.com/kerala-news/supreme-court-grants-roji-augustines-request-to-have-the-muttiltree-case-and-fraud-case-heard-in-the-same-court-articleshow-3cckcy6"
     }
   ],
   "twitter": null
