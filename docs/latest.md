@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-22 20:01:51
+# India Trending Report — 2026-09-22 20:34:41
 
 ## Google Trends (India) — top trending searches
 1. [real madrid vs psg](https://trends.google.com/trending/rss?geo=IN)
@@ -14,16 +14,16 @@
 
 ## Latest headlines by outlet
 **Times of India**
-- [From ‘annihilate Iran’ to ‘super intelligence’, Trump's boasts of US power at UNGA](https://timesofindia.indiatimes.com/world/us/trump-threatens-to-annihilate-iran-make-a-deal-or-get-destroyed/articleshow/134417865.cms)
+- [From ‘annihilate Iran’ to ‘super intelligence’, Trump boasts of US power at UNGA](https://timesofindia.indiatimes.com/world/us/trump-threatens-to-annihilate-iran-make-a-deal-or-get-destroyed/articleshow/134417865.cms)
 - [The China+1 question: Does India lose if Trump and Xi make peace?](https://timesofindia.indiatimes.com/business/india-business/from-chips-to-china1-five-reasons-india-should-watch-trump-xi-handshake/articleshow/134411510.cms)
+- [US approves $425 million sale of MH-60R Seahawk helicopters and equipments to Denmark](https://timesofindia.indiatimes.com/defence/international/us-approves-425-million-sale-of-mh-60r-seahawk-helicopters-and-equipments-to-denmark/articleshow/134418132.cms)
 - ['Told him to tolerate it': Parents regret advice to kid in IIT-B suicide case](https://timesofindia.indiatimes.com/city/mumbai/made-a-mistake-by-telling-him-to-tolerate-it-grieving-parents-demand-arrests-in-iit-bombay-student-suicide-case/articleshow/134414786.cms)
 - [Vietnam to Colombo flight makes emergency landing at Chennai airport](https://timesofindia.indiatimes.com/city/chennai/vietjet-flight-makes-emergency-landing-at-chennai-airport/articleshow/134418100.cms)
-- [Kalkaji rape case: DU's LSR college shifts classes online amid safety concerns](https://timesofindia.indiatimes.com/city/delhi/safety-security-paramount-lady-shri-ram-college-cancels-classes-goes-online-after-kalkaji-mandir-gang-rape-case/articleshow/134417900.cms)
 - [MediaTek targets Qualcomm's fortress with an unmatched new weapon](https://timesofindia.indiatimes.com/technology/tech-news/mediatek-seems-ready-to-storm-into-qualcomms-biggest-fortress-and-with-a-weapon-that-american-chip-maker-still-has-no-answer-to/articleshow/134412852.cms)
-- [Trump-Pezeshkian meeting on UNGA sidelines? US prez 'open' to talks with Iran](https://timesofindia.indiatimes.com/world/us/trump-pezeshkian-meeting-on-unga-sidelines-us-president-open-to-talks-with-iran/articleshow/134416649.cms)
+- [Kalkaji rape case: DU's LSR college shifts classes online amid safety concerns](https://timesofindia.indiatimes.com/city/delhi/safety-security-paramount-lady-shri-ram-college-cancels-classes-goes-online-after-kalkaji-mandir-gang-rape-case/articleshow/134417900.cms)
 - [Gold jumps 60% to Rs 1.57L from Rs 98,000 a year ago; sales fall 15%, coins gain](https://timesofindia.indiatimes.com/business/india-business/gold-prices-surge-60-from-rs-98000-to-rs-1-57-lakh-per-10-grams-in-a-year-ganesh-chaturthi-sales-fall-15-as-buyers-switch-to-lighter-jewellery-also-buy-coins/articleshow/134405905.cms)
+- [Trump-Pezeshkian meeting on UNGA sidelines? US prez 'open' to talks with Iran](https://timesofindia.indiatimes.com/world/us/trump-pezeshkian-meeting-on-unga-sidelines-us-president-open-to-talks-with-iran/articleshow/134416649.cms)
 - [CSK's Vansh Bedi says he is not the unnamed player in sting operation row](https://timesofindia.indiatimes.com/sports/cricket/news/false-and-defamatory-csks-vansh-bedi-says-he-is-not-the-unnamed-player-in-sting-operation-controversy/articleshow/134416107.cms)
-- [Ganesh Utsav turns tragic: Woman dies after falling into boiling sambar in Andhra](https://timesofindia.indiatimes.com/city/vijayawada/ganesh-utsav-turns-tragic-as-woman-dies-after-falling-into-boiling-sambar-during-annadanam-in-vijayawada/articleshow/134404315.cms)
 
 **NDTV**
 - [Explainer: What Is In US-Greenland-Denmark Security Deal?](https://www.ndtv.com/world-news/explainer-what-is-in-us-greenland-denmark-security-deal-12083629#publisher=newsstand)
@@ -49,17 +49,7 @@
 - [Tejashwi Yadav slams Bihar CM over Jamui minor assault, demands action against all accused](https://www.hindustantimes.com/india-news/tejashwi-yadav-slams-bihar-cm-over-jamui-minor-assault-demands-action-against-all-accused-101790087136369.html)
 - [‘Every single day, we hit a new low’: Cong questions Delhi CM over Kalkaji gangrape case](https://www.hindustantimes.com/india-news/pawan-khera-rekha-gupta-kalkaji-rape-case-every-single-day-we-hit-a-new-low-cong-questions-delhi-cm-over-kalkaji-gan-101790086542901.html)
 
-**Vijay Karnataka**
-- [ಡೇಟಾ ಬೇಡದ ಮೊಬೈಲ್ ಬಳಕೆದಾರರಿಗೆ ಗುಡ್ ನ್ಯೂಸ್! ದುಬಾರಿ ರೀಚಾರ್ಜ್ ಪ್ಯಾಕ್‌ಗೆ ಬ್ರೇಕ್‌: ಹೀಗಿದೆ 'ಟ್ರಾಯ್' ಹೊಸ ನಿಯಮ](https://vijaykarnataka.com/business/news/end-to-expensive-recharge-packs-trais-new-rules-/articleshow/134417030.cms)
-- [ಪೇಜಾವರ ಶ್ರೀ- ಮೋದಿ ಮಹತ್ವದ ಭೇಟಿ: ಶ್ರೀ ವಿಶ್ವೇಶತೀರ್ಥರ ಜನ್ಮಶತಾಬ್ದಿ ಯೋಜನೆ ಲಾಂಛನ ಬಿಡುಗಡೆ; ಪ್ರಧಾನಿಗೆ ಯಕ್ಷಗಾನದ ರಾಜಕಿರೀಟ!](https://vijaykarnataka.com/news/udupi/pejavara-sri-modi-visit-sri-vishweshathirtha-birth-centenary-project-logo-launch/articleshow/134416566.cms)
-- [ಉಪ್ಪಿನ ಸೇವನೆ ನಿಯಂತ್ರಣಕ್ಕೆ ಕರ್ನಾಟಕ ಸರಕಾರದಿಂದ ಕ್ರಿಯಾಯೋಜನೆ ಬಿಡುಗಡೆ; ಏನಿದು ಹೊಸಕ್ರಮ?](https://vijaykarnataka.com/news/karnataka/karnataka-government-releases-action-plan-to-reduce-salt-consumption-/articleshow/134418944.cms)
-- [ಮತ್ತೆ ಚಿಗುರಬಹುದು ಹಳೆಯ ಪ್ರೀತಿ? Gen Zನಲ್ಲಿ ಸದ್ದು ಮಾಡುತ್ತಿರುವ ಡೋಪಮೈನ್ ಡೇಟಿಂಗ್ ಟ್ರೆಂಡ್!](https://vijaykarnataka.com/lifestyle/relationship/gen-z-dopamine-dating-trend-meaning-and-impact/articleshow/134416443.cms)
-- [ಮೋದಿಗೆ ಬಿಕೆ ಹರಿಪ್ರಸಾದ್ ಏಕವಚನದಲ್ಲಿ ನಿಂದಿಸಿದ್ದಕ್ಕೆ ಗದ್ದಲ: ವಿಧಾನ ಪರಿಷತ್‌ನಲ್ಲಿ ಮಂಗಳವಾರ ನಡೆದದ್ದೇನು?](https://vijaykarnataka.com/news/karnataka/vidhana-parishad-session-bk-hariprasad-using-disrespectful-language-against-modi-bjp-congress-heated-exchange/articleshow/134418329.cms)
-- [Photos: ‘ಅಗ್ನಿಪರೀಕ್ಷೆ’ ಮುಗಿಸಿ ಉತ್ತರಾಖಂಡಕ್ಕೆ ತೆರಳಿದ ಬಿಗ್‌ ಬಾಸ್‌ ಸಂಗೀತಾ ಶೃಂಗೇರಿ!](https://vijaykarnataka.com/vk-gallery/actress/bigg-boss-sangeetha-sringeris-uttarakhand-tour-with-family/photoshow/134418965.cms)
-- [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
-- [ಕನಸಿನಲ್ಲಿ ಕಾಣುವ ಶುಭ, ಅಶುಭ ಸಂಕೇತಗಳು: ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/superstition/dream-signs-these-dreams-are-the-auspicious-signs/articleshow/134412979.cms)
-- [ಪಾರ್ಕ್ ಮಾಡಿದ ಕಾರಿಗೆ ಇಲಿಗಳು ಏಕೆ ಬರುತ್ತವೆ? ತಡೆಯಲು ಈ ನೈಸರ್ಗಿಕ ವಿಧಾನಗಳು ಸಹಕಾರಿ](https://vijaykarnataka.com/lifestyle/home-decor/why-rats-enter-parked-cars-natural-ways-to-keep-rats-away/articleshow/134408701.cms)
-- [ಗೃಹಲಕ್ಷ್ಮಿ ಯೋಜನೆ ಮರುಪರಿಶೀಲನೆ: ಹೊಸ ಮಾರ್ಗಸೂಚಿ 17 ಪ್ರಶ್ನೆಗಳು; ಕುಟುಂಬದ ಯಜಮಾನನ ಆಧಾರ್‌ ಕಡ್ಡಾಯ ಸೇರಿ ಹಲವು ನಿಯಮ](https://vijaykarnataka.com/news/karnataka/review-of-gruha-lakshmi-scheme-new-guidelines-17-questions-aadhaar-of-male-head-of-family-also-mandatory/articleshow/134415708.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
 - [Confident of a hat-trick in U.P.: Nabin](https://www.thehindu.com/news/national/uttar-pradesh/confident-of-a-hat-trick-inupnabin/article71495972.ece)
@@ -74,6 +64,7 @@
 - [On Sign Language Day, an interpreter recalls a moment on stage with the President](https://www.thehindu.com/news/national/andhra-pradesh/on-sign-language-day-an-interpreter-recalls-a-moment-on-stage-with-the-president/article71496143.ece)
 
 **Livemint**
+- [Netanyahu vs Mamdani explodes ahead of UNGA: ‘I’m going to tell the truth about you’](https://www.livemint.com/news/world/netanyahu-vs-mamdani-explodes-ahead-of-unga-i-m-going-to-tell-the-truth-about-you-11790105193860.html)
 - [Binance faces US criminal probe over Iran sanctions violations | What we know](https://www.livemint.com/news/binance-faces-us-criminal-probe-over-iran-sanctions-violations-what-we-know-11790095881342.html)
 - [US national Van Dyke pays  ₹5.5 lakh compounding charge; may return to US: What it means for NIA case & UAPA probe](https://www.livemint.com/news/india/us-national-matthew-van-dyke-pays-5-5-lakh-compounding-charge-may-return-to-uswhat-it-means-for-nia-case-uapa-pr-11790103623384.html)
 - [Hurricane Polo reaches Category 5 strength: When it is likely to make landfall and which areas to be worst affected?](https://www.livemint.com/news/us-news/hurricane-polo-reaches-category-5-strength-when-it-is-likely-to-make-landfall-and-which-areas-to-be-worst-affected-11790098503867.html)
@@ -83,7 +74,6 @@
 - [Turkish President Erdogan raises Kashmir issue at UNGA again, calls for India-Pakistan dialogue under UN framework](https://www.livemint.com/news/us-news/turkish-president-erdogan-raises-kashmir-issue-at-unga-again-calls-for-india-pakistan-dialogue-under-un-framework-11790096272913.html)
 - [Trump signs US-Denmark-Greenland agreement: What the new US security deal means](https://www.livemint.com/news/us-news/trump-signs-us-denmark-greenland-agreement-what-the-new-us-security-agreement-means-11790092732510.html)
 - [CDSCO flags indiscriminate use of painkillers and antibiotics](https://www.livemint.com/news/cdsco-flags-indiscriminate-use-of-painkillers-and-antibiotics-11790088574575.html)
-- [Trump’s UNGA speech: ‘Big decision’ on Iran, economic isolation call and 8 other key points](https://www.livemint.com/news/us-news/trumps-unga-speech-big-decision-on-iran-economic-isolation-call-and-8-other-key-points-11790089786447.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -102,33 +92,33 @@
 ## Cross-source trending keywords (derived from headlines above)
 - UNGA (7.8)
 - Trump (6.7)
-- Iran (6.5)
+- Iran (5.2)
 - What (4.2)
 - India (2.9)
 - Kalkaji (2.6)
-- Andhra (2.6)
 - Kashmir (2.6)
 - India-Pakistan (2.6)
 - President (2.2)
 - Turkish President Erdogan (2.0)
+- Denmark (1.6)
 - Bengal (1.6)
 - Odisha (1.6)
 - case (1.5)
-- Trump's (1.3)
+- Seahawk (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Jamui Encounter: স্কুটার থেকে নামিয়ে নাবালিকাকে নির্যাতন, শরীর খামচে ধরে তুলে নিয়ে যাওয়ার চেষ্টা, একজনকে এনকাউন্টার পুলিশের](https://bengali.abplive.com/crime/bihar-jamui-groping-case-police-encounters-one-accused-arrested-after-being-shot-1193765)
-- [Karnataka High Court defers hearing in PIL challenging State order limiting Vande Mataram to 2 stanzas](https://www.barandbench.com/news/litigation/karnataka-high-court-defers-hearing-in-pil-challenging-state-order-limiting-vande-mataram-to-2-stanzas)
-- [Mumbai-Ahmedabad Bullet Train: 320kmh की स्‍पीड... फिर अचानक आ जाए भूंकप, तो बुलेट ट्रेन का क्‍या होगा?](https://www.aajtak.in/business/utility/photo/what-happens-earthquake-at-mumbai-ahmedabad-bullet-train-speed-320kmh-tutd-2649852-2026-09-22)
-- [২ লক্ষ টাকা বাজেটে Keeway-EZI Hypervolt-R হতে পারে বেস্ট চয়েস](https://eisamay.com/auto-news/keeway-hypervolt-r-at-2-lakh-rupees-price-point-is-a-best-option/200545870.cms)
-- [IND W vs SL W: भारतीय बेटियों का गोल्डन परफॉर्मेंस, श्रीलंका को रौंद हासिल किया सोने का तमगा](https://www.jagran.com/cricket/match-report-india-women-vs-sri-lanka-women-gold-medal-match-report-scorecard-asian-games-2026-smriti-mandhana-40381138.html)
-- [காலர்போன் அறுவை சிகிச்சை.. 4 நாட்களிலேயே பணிக்கு திரும்பிய அமைச்சர் கீர்த்தனா..](https://www.polimernews.com/politicsnews/collarbone-surgery-minister-keerthana-returns-to-work-in-4-days-12563518)
-- [Breaking News : ભારતીય મહિલા ક્રિકેટ ટીમે Asian Games 2026માં શ્રીલંકાને હરાવી ગોલ્ડ મેડલ જીત્યો, જુઓ ફોટો](https://tv9gujarati.com/photo-gallery/breaking-news-asian-games-2026-indian-women-cricket-team-won-gold-medal-1520068.html)
-- [भारत ने एशियन गेम्स में गोल्ड मेडल जीतकर रचा इतिहास, श्रीलंका को फाइनल में 147 रनों से पीटा](https://www.indiatv.in/sports/cricket/india-won-the-gold-medal-in-the-asian-games-2026-beats-sri-lanka-women-team-in-final-2026-09-22-1244642)
-- [दिल्ली: नाबालिग लड़की के साथ गैंगरेप, एनकाउंटर के दौरान मुख्य अभियुक्त को लगी गोली](https://www.bbc.com/hindi/articles/c6ly7enyx18yo)
-- [മുട്ടില്‍ മരംമുറി കേസും വഞ്ചനാ കേസും ഒരു കോടതിയിൽ, റോജി അഗസ്റ്റിന്റെ ആവശ്യം അംഗീകരിച്ച് സുപ്രീം കോടതി](https://www.asianetnews.com/kerala-news/supreme-court-grants-roji-augustines-request-to-have-the-muttiltree-case-and-fraud-case-heard-in-the-same-court-articleshow-3cckcy6)
+- [சிவராசா அனோஜன்: செளதியில் இலங்கை தமிழருக்கு விதிக்கப்பட்ட சிறை தண்டனை மரண தண்டனையாக அதிகரிக்கப்பட்டது ஏன்?](https://www.bbc.com/tamil/articles/cxr50j4q7zm5o)
+- [Airtel to offer complementary iCloud service to iPhone users](https://www.thehindubusinessline.com/info-tech/airtel-to-offer-complementary-icloud-service-to-iphone-users/article71494726.ece)
+- [दुष्काळ निवारणासाठी उपसमिती गठीत, सर्व मंत्री-आमदार बांधावर दिसतील; मंत्रिमंडळ बैठकीनंतर मुख्यमंत्र्यांनी दिली माहिती](https://marathi.abplive.com/news/maharashtra/cm-devendra-fadnavis-announces-after-cabinet-meeting-sub-committee-formed-for-drought-relief-rain-update-all-ministers-and-mlas-to-visit-the-farmers-1439868)
+- [యుద్ధం, హింస లేకపోవడమే కాదు.. మనసు ప్రశాంతంగా ఉండటమే అసలైన శాంతి: గురుదేవ్ శ్రీ శ్రీ రవిశంకర్](https://telugu.samayam.com/latest-news/india-news/gurudev-sri-sri-ravi-shankar-explains-the-power-of-inner-peace-says-peace-is-more-than-the-absence-of-war/articleshow/134407128.cms)
+- [तमिलनाडु के सरकारी स्कूलों में मिड-डे मील में मिलेगी चिकन बिरयानी! विजय सरकार ने बनाई एक्सपर्ट कमेटी](https://www.aajtak.in/india/news/story/tamil-nadu-school-chicken-biryani-expert-committee-cm-vijay-ntc-mnrd-smsr-2649993-2026-09-22)
+- [വന്ദേമാതരത്തിന്റെ ആറ് ഈരടികള്‍ പാടുന്നത് തടഞ്ഞാല്‍ ശിക്ഷിക്കുന്ന നിയമം; കേന്ദ്രത്തോട് സുപ്രീംകോടതി വിശദീകരണം തേടി](https://www.doolnews.com/the-supreme-court-seeks-response-of-the-union-government-on-plea-on-vandemataram-amendment-62-173.html)
+- [Pandharpur Crime Love Story: प्रियकर सुनेबद्दल वाईट बोलला, आजीबाईंनी कायमचा संपवला, पंढरपूरच्या लव्हस्टोरीचा भयानक शेवट](https://marathi.abplive.com/crime/pandharpur-crime-love-story-old-age-couple-girlfriend-ends-boyfriend-over-abusing-daughter-in-law-solapur-marathi-news-1439867)
+- [Asian Games 2026: Women’s cricket team clinches India’s first gold in style](https://www.thehindu.com/sport/cricket/womens-cricket-team-extends-dominance-delivers-india-its-first-gold-at-asian-games-2026/article71494713.ece)
+- [Jamui minor girl harassment case: All seven accused arrested; main accused shot in the leg during police encounter](https://www.thehindu.com/news/national/bihar/jamui-minor-girl-harassment-case-main-accused-shot-in-the-leg-during-police-encounter/article71494721.ece)
+- [Apurva Nemlekar Trolled: 'ही म्हातारी..., हिचा चेहरा लूज पडलाय...'; ट्रोल करणाऱ्या महिलेला तिचाच फोटो शेअर करुन अपूर्वा नेमळेकरनं झापलं](https://marathi.abplive.com/entertainment/apurva-nemlekar-got-trolled-for-her-physique-gave-befitting-reply-to-comment-marathi-actress-news-1439863)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
