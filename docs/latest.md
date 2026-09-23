@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-23 04:36:09
+# India Trending Report — 2026-09-23 05:01:51
 
 ## Google Trends (India) — top trending searches
-1. [ఇరాన్](https://trends.google.com/trending/rss?geo=IN)
-2. [flash flood risk](https://trends.google.com/trending/rss?geo=IN)
-3. [weather kanpur](https://trends.google.com/trending/rss?geo=IN)
-4. [nse listing date](https://trends.google.com/trending/rss?geo=IN)
-5. [rani mukherjee](https://trends.google.com/trending/rss?geo=IN)
-6. [আবহাওয়া](https://trends.google.com/trending/rss?geo=IN)
-7. [వాతావరణం](https://trends.google.com/trending/rss?geo=IN)
-8. [रेल](https://trends.google.com/trending/rss?geo=IN)
-9. [weather today](https://trends.google.com/trending/rss?geo=IN)
-10. [साईं सुदर्शन](https://trends.google.com/trending/rss?geo=IN)
+1. [hero motors share price](https://trends.google.com/trending/rss?geo=IN)
+2. [ఇరాన్](https://trends.google.com/trending/rss?geo=IN)
+3. [flash flood risk](https://trends.google.com/trending/rss?geo=IN)
+4. [weather kanpur](https://trends.google.com/trending/rss?geo=IN)
+5. [nse listing date](https://trends.google.com/trending/rss?geo=IN)
+6. [rani mukherjee](https://trends.google.com/trending/rss?geo=IN)
+7. [আবহাওয়া](https://trends.google.com/trending/rss?geo=IN)
+8. [వాతావరణం](https://trends.google.com/trending/rss?geo=IN)
+9. [रेल](https://trends.google.com/trending/rss?geo=IN)
+10. [weather today](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Peacemaker with a warning to annihilate: The major contradictions in Trump's UN speech](https://timesofindia.indiatimes.com/world/us/peacemaker-with-a-warning-to-annihilate-the-major-contradictions-in-trumps-un-speech/articleshow/134425179.cms)
+- [Karnataka man 'murdered' in UAE, body cut into 9 pieces; wife, son untraceable](https://timesofindia.indiatimes.com/city/mangaluru/karnataka-man-murdered-in-sharjah-body-cut-into-9-pieces-wife-son-untraceable-says-kin/articleshow/134425604.cms)
 - [UP man kills wife, 2 priests, takes 3 children hostage; shot dead after 7-hour standoff](https://timesofindia.indiatimes.com/city/lucknow/seven-hour-siege-ends-in-encounter-man-son-dead-two-daughters-rescued/articleshow/134420388.cms)
-- ['Stalked, hit deliberately': Delhi woman claims bikers chased her scooty before crash](https://timesofindia.indiatimes.com/city/delhi/woman-scooterist-claims-bikers-chased-hit-injured-her-near-panchsheel-metro-stn-cops-probe/articleshow/134418669.cms)
 - [LSR cancels classes, goes online after Kalkaji Mandir gang rape case](https://timesofindia.indiatimes.com/city/delhi/safety-security-paramount-lady-shri-ram-college-cancels-classes-goes-online-after-kalkaji-mandir-gang-rape-case/articleshow/134417900.cms)
-- [Juggling Chess Olympiad prep and commentary gig in India: The other side of GM Irina](https://timesofindia.indiatimes.com/sports/chess/juggling-chess-olympiad-prep-and-a-commentary-gig-in-india-the-other-side-of-americas-only-female-gm-irina-krush/articleshow/134425151.cms)
-- ['Almost all agents' data stolen? Hackers claim FBI job site breach, stole 2TB of data](https://timesofindia.indiatimes.com/world/us/almost-all-agents-data-stolen-hackers-claim-they-breached-fbi-jobs-site-stole-2tb-of-data/articleshow/134425198.cms)
 - [1980s AI photo trend: Delhi Police warns users of fake profiles, blackmail](https://timesofindia.indiatimes.com/technology/tech-news/1980s-ai-photo-trend-delhi-police-warns-users-of-fake-profiles-blackmail-and-cyber-fraud/articleshow/134425293.cms)
-- [Shouldn’t punish for refusing to sing ‘Vande Mataram’: Supreme Court](https://timesofindia.indiatimes.com/india/courts-cant-dictate-what-natl-song-should-be-shouldnt-punish-for-refusing-to-sing-vande-mataram-supreme-court/articleshow/134423155.cms)
+- [‘Firearms, knife and more’: How 3 men posing as cops turned 17-year-old’s birthday outing into a nightmare](https://timesofindia.indiatimes.com/city/delhi/firearms-knife-and-more-how-3-men-posing-as-cops-turned-17-year-olds-birthday-outing-into-a-nightmare/articleshow/134423680.cms)
 - [Heavy LHB bogie corrosion worries Railways; toilet leaks, saline air blamed](https://timesofindia.indiatimes.com/business/india-business/heavy-corrosion-in-lhb-train-coach-bogies-despite-improved-materials-worries-railway-engineers-toilet-leaks-cleaning-chemicals-and-saline-air-blamed-railway-board-orders-special-safety-checks/articleshow/134406709.cms)
-- [Trump buys up to $50,000 of Musk’s SpaceX, sells some a week later](https://timesofindia.indiatimes.com/business/international-business/trump-buys-up-to-50000-of-musks-spacex-sells-some-a-week-later/articleshow/134425049.cms)
-- [US-Iran talks: What was discussed in Trump's 'good meeting' on the sidelines of UNGA](https://timesofindia.indiatimes.com/world/middle-east/us-iran-talks-what-was-discussed-in-trumps-good-meeting-on-the-sidelines-of-unga/articleshow/134425060.cms)
+- ['Almost all agents' data stolen? Hackers claim FBI job site breach, stole 2TB of data](https://timesofindia.indiatimes.com/world/us/almost-all-agents-data-stolen-hackers-claim-they-breached-fbi-jobs-site-stole-2tb-of-data/articleshow/134425198.cms)
+- [Juggling Chess Olympiad prep and commentary gig in India: The other side of GM Irina](https://timesofindia.indiatimes.com/sports/chess/juggling-chess-olympiad-prep-and-a-commentary-gig-in-india-the-other-side-of-americas-only-female-gm-irina-krush/articleshow/134425151.cms)
+- [Builder delayed Rs 44.36L flat by 18 months; RERA orders 10.7% interest](https://timesofindia.indiatimes.com/business/india-business/builder-delayed-rs-44-36-lakh-flat-possession-by-18-months-and-charged-rs-30000-debris-fee-telangana-rera-orders-him-to-pay-homebuyer-10-7-interest-compensation-for-delay/articleshow/134416038.cms)
 
 **NDTV**
 - [IIT Bombay Professor Suryanarayana Doolla, At Centre Of Student's Suicide Row, Sent On Leave](https://www.ndtv.com/india-news/iit-bombay-professor-suryanarayana-doolla-at-centre-of-students-suicide-row-sent-on-leave-12084355#publisher=newsstand)
@@ -50,31 +50,31 @@
 - [7 hours of terror: Man kills wife, priests and son in UP hostage drama; shot dead by police](https://www.hindustantimes.com/india-news/azamgarh-man-who-killed-wife-two-priests-shot-after-7-hour-hostage-drama-up-news-puja-101790130993910.html)
 
 **Vijay Karnataka**
-- [UAEಯ ಶಾರ್ಜಾದಲ್ಲಿ ಉಡುಪಿ ಮೂಲದ ವ್ಯಕ್ತಿಯ ಬರ್ಬರ ಹತ್ಯೆ, 9 ತುಂಡುಗಳಾಗಿ ದೇಹ ಪತ್ತೆ: ಪತ್ನಿ-ಮಗ ನಿಗೂಢವಾಗಿ ನಾಪತ್ತೆ!](https://vijaykarnataka.com/news/world/udupi-man-killed-and-chopped-into-in-9-parts-in-uae-sharjah-in-july-wife-son-also-untraceable/articleshow/134424679.cms)
-- [ದೆಹಲಿ ಹೈಕಮಾಂಡ್ ಚೇಂಬರ್’ನಲ್ಲಿ ಅಂದು ನಡೆದಿದ್ದೇನು? ಸಿದ್ದರಾಮಯ್ಯ ರಾಜೀನಾಮೆ ರಹಸ್ಯ ತೆರೆದಿಟ್ಟ R ಅಶೋಕ!](https://vijaykarnataka.com/news/karnataka/siddaramaiah-resignation-r-ashoka-reveals-delhi-high-command-developments/articleshow/134424819.cms)
-- [ಪಿಎಂ ಕಿಸಾನ್‌ ಸಮ್ಮಾನ್‌ ಯೋಜನೆ ಹಲವು ರೈತರಿಗೆ ತಡೆ! ಕೆಲ ಷರತ್ತುಗಳಿಂದ ರೈತರಿಗೆ ತಾರತಮ್ಯದ ಆರೋಪ, ಯಾರೆಲ್ಲಾ ವಂಚಿತರು ಗೊತ್ತೇ?](https://vijaykarnataka.com/news/karnataka/pm-kisan-samman-scheme-benefits-halted-for-many-farmers-do-you-know-the-criteria/articleshow/134424479.cms)
+- [ದಾವಣಗೆರೆಯಲ್ಲಿ ಬರ ಸಂಕಷ್ಟ-ಕೆಲಸವಿಲ್ಲದ ಕಾರ್ಮಿಕರಿಗೆ ಅಡಕೆ ಚೂರು ಆಸರೆ!](https://vijaykarnataka.com/news/chitradurga/davanagere-droght-effect-labors-not-getting-jpb-they-earning-depending-on-areca-nut-pieces/articleshow/134424494.cms)
+- [ಟೋಲ್ ಸುಲಿಗೆ : ಮೂಲ ವೆಚ್ಚಕ್ಕಿಂತ 3 ಪಟ್ಟು ಹಣ ಸಂಗ್ರಹವಾದ್ರೂ, ನಗರದ ಈ 2 ರಸ್ತೆಯಲ್ಲಿ ನಿಲ್ಲದ ವಸೂಲಿ!](https://vijaykarnataka.com/news/bengaluru-city/explainer-bengaluru-toll-plazas-excess-collection-controversy/articleshow/134425691.cms)
+- [ರಾಯಚೂರಲ್ಲಿ ರೈತಾಪಿ ಕುಟುಂಬಕ್ಕೆ ಉರುಳಾದ ಸರ್ಕಾರದ ಸಾಲದ ನಿಯಮ: ಮೃತ ರೈತರ ಹೆಸರಲ್ಲಿ ಲೋನ್ ದಾಖಲೆ ಇಲ್ಲದೇ 25 ಪರಿಹಾರ ಅರ್ಜಿ ತಿರಸ್ಕೃತ!](https://vijaykarnataka.com/news/raichur/government-agriculture-loan-rule-causes-distress-for-farming-families-25-relief-applications-rejected-in-raichur/articleshow/134425496.cms)
 - [ಮನೆಯಲ್ಲಿ ಹಲ್ಲಿ ಪದೇ ಪದೇ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಿದೆಯೇ? ಮೊಟ್ಟೆ ಇಡುವ ಈ ಜಾಗಗಳ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/home-decor/lizard-movement-in-house-hidden-places-where-lizards-lay-eggs/articleshow/134425483.cms)
-- [ಅಂತರ್ಜಲ ಹೆಚ್ಚಳಕ್ಕೆ ಸಬ್‌ಸರ್ಫೇಸ್‌ ಚೆಕ್‌ಡ್ಯಾಂ: ಬರದಿಂದ ಕುಸಿದ ಜಲಮಟ್ಟ ಸುಧಾರಣೆಗೆ ಬಳ್ಳಾರಿ ಜಿಲ್ಲಾಡಳಿತದ ಮೆಗಾ ಪ್ಲಾನ್!](https://vijaykarnataka.com/news/bellary/ballari-admnistration-plans-to-construct-subsurface-checkdam-for-groundwater-improvement/articleshow/134424177.cms)
+- [UAEಯ ಶಾರ್ಜಾದಲ್ಲಿ ಉಡುಪಿ ಮೂಲದ ವ್ಯಕ್ತಿಯ ಬರ್ಬರ ಹತ್ಯೆ, 9 ತುಂಡುಗಳಾಗಿ ದೇಹ ಪತ್ತೆ: ಪತ್ನಿ-ಮಗ ನಿಗೂಢವಾಗಿ ನಾಪತ್ತೆ!](https://vijaykarnataka.com/news/world/udupi-man-killed-and-chopped-into-in-9-parts-in-uae-sharjah-in-july-wife-son-also-untraceable/articleshow/134424679.cms)
 - [72ನೇ ರಾಷ್ಟ್ರೀಯ ಚಲನಚಿತ್ರ ಪ್ರಶಸ್ತಿ: ರಾಷ್ಟ್ರಮಟ್ಟದಲ್ಲಿ ಮಿಂಚಿದ ಕನ್ನಡಿಗರಿವರು!](https://vijaykarnataka.com/entertainment/news/72nd-national-film-awards-kannada-winners-list/articleshow/134425275.cms)
 - [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
 - [ಹಣೆಯ ಮೇಲೆ ಇಟ್ಟುಕೊಳ್ಳುವ ತಿಲಕಗಳ ವಿಧಗಳು, ಅವುಗಳ ಮಹತ್ವ.!](https://vijaykarnataka.com/religion/pooja-vidhana/different-types-of-tilak-people-put-on-their-forehead-in-hinduism/articleshow/134423846.cms)
 - [ಮತ್ತೆ ಚಿಗುರಬಹುದು ಹಳೆಯ ಪ್ರೀತಿ? Gen Zನಲ್ಲಿ ಸದ್ದು ಮಾಡುತ್ತಿರುವ ಡೋಪಮೈನ್ ಡೇಟಿಂಗ್ ಟ್ರೆಂಡ್!](https://vijaykarnataka.com/lifestyle/relationship/gen-z-dopamine-dating-trend-meaning-and-impact/articleshow/134416443.cms)
-- [Mysuru dasara 2026: ಸಾಂಸ್ಕೃತಿಕ ನಗರಿ ಕಂಬಳಕ್ಕೆ ಸಜ್ಜು ಬೆಂಗಳೂರು ಬಳಿಕ ಸಾಂಸ್ಕೃತಿಕ ನಗರಿಗೆ ಎಂಟ್ರಿ - 100ಕ್ಕೂ ಅಧಿಕ ಕೋಣಗಳು ಭಾಗಿ](https://vijaykarnataka.com/news/karnataka/after-bengaluru-kambala-organized-in-mysuru-dasara-2026-over-100-buffaloes-to-participate-in-race-date-time-and-highlights-are-hear/articleshow/134424084.cms)
+- [ದೆಹಲಿ ಹೈಕಮಾಂಡ್ ಚೇಂಬರ್’ನಲ್ಲಿ ಅಂದು ನಡೆದಿದ್ದೇನು? ಸಿದ್ದರಾಮಯ್ಯ ರಾಜೀನಾಮೆ ರಹಸ್ಯ ತೆರೆದಿಟ್ಟ R ಅಶೋಕ!](https://vijaykarnataka.com/news/karnataka/siddaramaiah-resignation-r-ashoka-reveals-delhi-high-command-developments/articleshow/134424819.cms)
 
 **The Hindu**
+- [‘Broad daylight dacoity’, says Supreme Court on overpricing of essential cancer drugs](https://www.thehindu.com/news/national/broad-daylight-dacoity-says-supreme-court-on-overpricing-of-essential-cancer-drugs/article71497051.ece)
+- [Why lessons from Hyderabad’s KBR faux pas must inform our future](https://www.thehindu.com/news/national/telangana/why-lessons-from-kbr-faux-pas-must-inform-our-future/article71497139.ece)
+- [Asian Games 2026 LIVE | Mirabai Chanu eyes gold as women’s 48kg weightlifting final begins](https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-23-2026/article71496842.ece)
+- [Amaravati Regional Summit in Vijayawada on October 16 ahead of CII Partnership Summit in Visakhapatnam](https://www.thehindu.com/news/national/andhra-pradesh/amaravati-regional-summit-in-vijayawada-on-october-16-ahead-of-cii-partnership-summit-in-visakhapatnam/article71496636.ece)
 - [Nellore man gets 10 years’ jail for raping 98-year-old woman as a teenager in 2017](https://www.thehindu.com/news/national/andhra-pradesh/nellore-teenager-gets-10-years-jail-for-rape-of-98-year-old-woman/article71496569.ece)
-- [Asian Games 2026 LIVE | Manu Bhaker finishes fifth, misses out on medal in women’s 10m air pistol](https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-23-2026/article71496842.ece)
 - [Coalition publishes Kannada translation of seventh ESA draft to bridge information gap for local communities](https://www.thehindu.com/news/cities/bangalore/coalition-publishes-kannada-translation-of-seventh-esa-draft-to-bridge-information-gap-for-local-communities/article71495473.ece)
 - [Tribal man killed in wild elephant attack in Keralam’s Idukki](https://www.thehindu.com/news/national/kerala/tribal-man-killed-in-wild-elephant-attack-in-idukki/article71498157.ece)
 - [Asian Games 2026 India’s medallists: Full list of winners](https://www.thehindu.com/sport/asian-games-2026-india-medalists-full-list-of-winners-aichi-nagoya-japan/article71491065.ece)
 - [Man kills wife and priests in ritual dispute, dies in police encounter](https://www.thehindu.com/news/national/uttar-pradesh/man-kills-wife-and-priests-in-ritual-dispute-dies-in-police-encounter/article71498239.ece)
 - [Sonam Wangchuk slams delay in making public judicial panel report on September 2025 police action](https://www.thehindu.com/news/national/sonam-wangchuk-slams-delay-in-making-public-judicial-panel-report-on-september-2025-police-action/article71496794.ece)
-- [Karnataka High Court refuses to quash money laundering proceedings against real estate firm Ozone Urbana Infra Developers](https://www.thehindu.com/news/national/karnataka/karnataka-high-court-refuses-to-quash-money-laundering-proceedings-against-real-estate-firm-ozone-urbana-infra-developers/article71496345.ece)
-- [HRF condemns Instagram curbs on ‘Stop Vizag Data Centers’ account, asks Meta to disclose legal basis](https://www.thehindu.com/news/national/andhra-pradesh/hrf-condemns-instagram-curbs-on-stop-vizag-data-centers-account-asks-meta-to-disclose-legal-basis/article71496541.ece)
-- [Baba Siddique murder case: MCOCA court rejects Aakash Srivastav’s bail plea, SC denies relief to co-accused](https://www.thehindu.com/news/cities/mumbai/baba-siddique-murder-case-mcoca-court-rejects-aakash-srivastavs-bail-plea-sc-denies-relief-to-co-accused/article71497093.ece)
 
 **Livemint**
-- [Why Meloni wants to ban burqas, niqabs in Italian schools? How Europe regulates Islamic veils | Explained](https://www.livemint.com/news/world/why-giorgia-meloni-wants-to-ban-burqas-niqabs-in-italian-schools-how-europe-regulates-islamic-veils-explained-11790130074349.html)
+- [Italy’s veil debate: Why Meloni wants burqas, niqabs banned in schools?  How Europe regulates Islamic dress | Explained](https://www.livemint.com/news/world/why-giorgia-meloni-wants-to-ban-burqas-niqabs-in-italian-schools-how-europe-regulates-islamic-veils-explained-11790130074349.html)
 - [NYC Mayor Mamdani announces $131.5 million DoorDash settlement over underpaid delivery workers: Deal explained](https://www.livemint.com/news/us-news/nyc-mayor-mamdani-announces-131-5-million-doordash-settlement-over-underpaid-delivery-workers-deal-explained-11790131113113.html)
 - [Australia tightens visa rules for students, visitors and workers: Key changes explained](https://www.livemint.com/news/india/australia-tightens-visa-rules-for-students-visitors-and-workers-key-changes-explained-11790131586684.html)
 - [‘Feeling burned out’: Bengaluru techie earning  ₹35 LPA contemplates 6-month career break, sparks debate](https://www.livemint.com/news/feeling-burned-out-bengaluru-techie-earning-35-lpa-contemplates-6-month-career-break-sparks-debate-11790129512496.html)
@@ -82,7 +82,7 @@
 - [Why is Trump administration accepting White South African refugees to US again? Here's what we know](https://www.livemint.com/news/us-news/why-is-trump-administration-accepting-white-south-african-refugees-to-the-us-again-heres-what-we-know-11790128237518.html)
 - [Taylor Swift announces ‘Patient Zero’, her first single after wedding; new track to release September 25](https://www.livemint.com/news/us-news/taylor-swift-announces-patient-zero-her-first-single-after-wedding-new-track-to-release-september-25-11790128142850.html)
 - [Petrol, diesel prices today, September 23: Check rates in Delhi, Mumbai, Bengaluru](https://www.livemint.com/news/india/petrol-diesel-prices-today-september-23-check-rates-in-delhi-mumbai-bengaluru-11790126147371.html)
-- [Iran War Live: Trump warns Iran of 'annihilation' but says deal could be near; Tehran sets Hormuz conditions](https://www.livemint.com/news/us-news/iran-war-live-updates-strait-of-hormuz-houthis-saudi-arabia-trump-oil-price-11790124295205.html)
+- [Iran War Live: Tehran rejects Trump's 'annihilation' warning, sets Hormuz conditions](https://www.livemint.com/news/us-news/iran-war-live-updates-strait-of-hormuz-houthis-saudi-arabia-trump-oil-price-11790124295205.html)
 - [Hurricane Polo Becomes One of 2026’s Strongest Storms Off Mexico](https://www.livemint.com/news/hurricane-polo-becomes-one-of-2026-s-strongest-storms-off-mexico-11790115282361.html)
 
 **Moneycontrol**
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [Kundapura | ಕೋಟೇಶ್ವರದ ಕೋಟಿತೀರ್ಥ ಪುಷ್ಕರಣಿಗೆ ಹಾರಿ ಯುವಕ ಆತ್ಮಹತ್ಯೆ](https://www.varthabharati.in/udupi/young-man-commits-suicide-by-jumping-into-koteshwaras-kotiteertha-lake-2277230)
 - [ವಿಶ್ವಸಂಸ್ಥೆಯ ಸಾಮಾನ್ಯ ಸಭೆಯಲ್ಲಿ ಕಾಶ್ಮೀರ ವಿಚಾರ ಪ್ರಸ್ತಾಪಿಸಿದ ತುರ್ಕಿಯೆ ಅಧ್ಯಕ್ಷ ಎರ್ದೊಗಾನ್](https://www.varthabharati.in/international/trkiye-president-erdogan-raised-the-kashmir-issue-at-the-un-general-assembly-2277225)
 - [ಸಾಲಕ್ಕೆ ಜೀತಗಾರರಾದ ‘ಪಣಿಯರು’](https://www.varthabharati.in/nimma-ankana/paniyas-who-became-bonded-laborers-due-to-debt-2277227)
 - [Asian Games 2026 | ಸಾಫ್ಟ್ ಟೆನಿಸ್ ಪುರುಷರ ಸಿಂಗಲ್ಸ್ ನಲ್ಲಿ ಜೈ ಮೀನಾ ಸೆಮಿಫೈನಲ್ ಗೆ](https://www.varthabharati.in/sports/asian-games-2026-jay-meena-reaches-semi-finals-in-mens-singles-soft-tennis-2277224)
@@ -107,14 +108,11 @@
 - [Uttar Pradesh | ಪತ್ನಿ, ಪುತ್ರ, ಇಬ್ಬರು ಅರ್ಚಕರ ಹತ್ಯೆ : ಮೂವರು ಮಕ್ಕಳನ್ನು ಒತ್ತೆಯಾಳಾಗಿರಿಸಿದ ವ್ಯಕ್ತಿ](https://www.varthabharati.in/uttar-pradesh-murder-of-wife-son-and-two-priests-man-holds-three-children-hostage/national/uttar-pradesh-2277219)
 - [ಬರೋಡಾದ ಆಲದ ಮರದ ಕೆಳಗೆ ಹುಟ್ಟಿದ ‘ಅಂಬೇಡ್ಕರ್’ ಎಂಬ ಮಹಾ ಸಂಕಲ್ಪ](https://www.varthabharati.in/vishesha-varadigalu/the-great-ambition-of-ambedkar-was-born-under-a-banyan-tree-in-baroda-2277218)
 - [8 ಅಧಿಕಾರಿಗಳ ಮನೆಗಳ ಮೇಲೆ ಲೋಕಾಯುಕ್ತ ದಾಳಿ: 29.61 ಕೋಟಿ ರೂ. ಮೌಲ್ಯದ ಆಸ್ತಿ, 80 ಮದ್ಯದ ಬಾಟಲಿ ಪತ್ತೆ](https://www.varthabharati.in/bangalore-city/lokayukta-2277217)
-- [ಪಂಡಿತ್ ಇಂದೂಧರ್ ನಿರೋಡಿ ನಿಧನ](https://www.varthabharati.in/mysore/--2277216)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
-- Trump (4.5)
 - India (3.9)
 - September (3.9)
-- Delhi (3.2)
 - Asian Games (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
@@ -122,23 +120,25 @@
 - Bengaluru (2.6)
 - Global (2.4)
 - Buy Bajaj Finance (2.0)
-- Trump's (1.6)
+- Trump's (1.9)
+- Delhi (1.9)
+- Trump (1.9)
+- Karnataka (1.6)
 - Petrol (1.6)
-- Hormuz (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [‘If necessary’: Trump warns he’ll use new Russia tariff powers to end Ukraine war](https://www.moneycontrol.com/world/if-necessary-trump-warns-he-ll-use-new-russia-tariff-powers-to-end-ukraine-war-article-14035786.html)
+- [WEF સર્વેમાં મોટો દાવો: ગ્લોબલ ઈકોનોમિમાં ભારતની રફ્તાર સામે ચીન અને યુરોપ પણ થંભી જશે](https://www.gujaratsamachar.com/news/international/big-claim-in-wef-survey-even-china-and-europe-will-stop-against-indias-progress-in-the-global-economy-36811595382)
+- [চোটে নেই জ়েলকোভিচ, মোহনবাগানের ভরসা ম্যাকলারেন](https://www.aaroananda.com/story/sports-news/breaking-news/mohun-bagan-vs-deccan-fc-ifa-shield-opening-match/11020872)
+- [മോഹൻലാലിന്റെ അവതരണവുമായി ഫഹദ് ഫാസിലിന്റെ 'ഡോണ്ട് ട്രബിൾ ദി ട്രബിള്‍' ട്രെയ്ലർ](https://www.asianetnews.com/trailer/fahadh-fassil-movie-dont-trouble-the-trouble-trailer-articleshow-458fglf)
+- [তৃণমূলের পার্টি অফিস পুর্নদখল ঘিরে মুকুন্দপুরে তুলকালাম, রক্তাক্ত হুমায়ুন কবীর, আক্রান্ত উপাসনাও, "আমাকে মেরে.."](https://bengali.abplive.com/district/humayun-kabir-attack-upasana-injured-around-mamata-tmc-party-office-in-mukundapur-kolkata-breaking-news-1193832)
+- [Shakuntala Tai Nagarkar passed away: ज्येष्ठ लावणीसम्राज्ञीचं निधन; कर्करोगाशी प्रदीर्घ झुंज अखेर थांबली](https://saamtv.esakal.com/entertainment/veteran-lavani-queen-shakuntala-tai-nagarkar-dies-at-66-after-long-battle-with-cancer-maharashtra-loses-a-lavani-icon-bbj88)
+- [Sakshi Choudhary Boxing : पॅरिस ऑलिम्पिकच्या पदकविजेतीला थेट ५-० ने लोळवले! भारताच्या साक्षी चौधरीचा रिंगमध्ये थरार; पदार्पणातच मोठा उलटफेर](https://www.dainikprabhat.com/asian-games-2026-boxing-sakshi-choudhary-stuns-olympic-medalist-aira-villegas-5-0)
 - [IAS बनना चाहती थी, कॉम्प्रोमाइज से किया इनकार तो डूबा करियर! 19 साल बाद चमकी इंडियन आइडल सिंगर](https://www.aajtak.in/entertainment/bollywood-news/story/indian-idol-fame-singer-deepali-sahay-quit-ias-dream-struggled-19-years-asked-to-compromise-ar-rahman-gave-break-tmova-dskc-2640935-2026-09-22)
 - [India news: Police investigate alleged gang-rape in Delhi](https://www.dw.com/en/india-news-police-investigate-alleged-gang-rape-in-delhi/live-79365177)
 - [NIT Srinagar inaugurates advanced observatory for Astronomy and Astrophysics'](https://jkmonitor.org/science-and-environment/nit-srinagar-inaugurates-advanced-observatory-for-astronomy-and-astrophysics)
-- [জাতীয় চলচ্চিত্র পুরস্কার প্রদানের মঞ্চে জনপ্রিয় ফিল্ম আর্টিস্টদের উদ্দেশে বড় আহ্বান রাষ্ট্রপতির](https://bengali.abplive.com/entertainment/president-droupadi-murmu-urged-popular-film-artists-not-to-endorse-products-harmful-to-people-s-health-in-national-film-awards-2026-program-1193828)
-- [MSFT Layoffs: Microsoft Cuts 268 Xbox Jobs As Gaming Reset Deepens](https://www.tradingview.com/news/stocktwits:878104318094b:0-msft-layoffs-microsoft-cuts-268-xbox-jobs-as-gaming-reset-deepens/)
-- [डील या खेल खत्म... UN में ट्रंप की ईरान को खुली धमकी, तेहरान को 'रास्ता' भी दिखाया](https://www.livehindustan.com/international/deal-or-game-over-donald-trump-issues-open-threat-to-iran-at-unga-know-latest-update-201790093143377.html)
-- [National Awards 2026: ગુજરાતી ફિલ્મ ‘મારન’ એ મારી બાજી, કઈ ફિલ્મે કઈ ભાષામાં રાષ્ટ્રીય પુરસ્કાર જીત્યો? જુઓ આખું List](https://tv9gujarati.com/photo-gallery/72nd-national-film-awards-2026-article-370-wins-best-feature-full-winners-list-1520450.html)
-- [राहुल गांधींचा फोन अन् भाजपचा प्लॅन फेल; राज्यातील बड्या नेत्याच्या पक्ष प्रवेशाला ब्रेक](https://saamtv.esakal.com/maharashtra/rahul-gandhi-phone-call-stops-former-congress-mla-rahul-bondre-bjp-entry-maharashtra-politics-buldhana-chikhli-om0906)
-- [ക്യൂബയിലെ കമ്മ്യൂണിസ്റ്റ് ഭരണകൂടം വീഴുമെന്ന് യുഎന്നിൽ ട്രംപ്, പ്രസംഗം ബഹിഷ്കരിച്ച് ക്യൂബൻ സംഘം](https://www.mathrubhumi.com/news/world/trump-predicts-fall-of-cuba-communist-government-un-i8i3ly2s)
-- [एशियन गेम्स में 23 स‍ितंबर भारत का मेडल डे? मीराबाई-मनु के अलावा रोशिबिना और बैडमिंटन टीम पर नजर](https://www.aajtak.in/sports/asian-games/story/asian-games-2026-india-schedule-september-23-mirabai-chanu-manu-bhaker-tspok-dskc-2650348-2026-09-22)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
