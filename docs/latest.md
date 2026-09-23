@@ -1,10 +1,10 @@
-# India Trending Report — 2026-09-23 01:34:11
+# India Trending Report — 2026-09-23 02:01:57
 
 ## Google Trends (India) — top trending searches
 1. [আবহাওয়া](https://trends.google.com/trending/rss?geo=IN)
 2. [వాతావరణం](https://trends.google.com/trending/rss?geo=IN)
-3. [today weather](https://trends.google.com/trending/rss?geo=IN)
-4. [रेल](https://trends.google.com/trending/rss?geo=IN)
+3. [रेल](https://trends.google.com/trending/rss?geo=IN)
+4. [today weather](https://trends.google.com/trending/rss?geo=IN)
 5. [weather today](https://trends.google.com/trending/rss?geo=IN)
 6. [साईं सुदर्शन](https://trends.google.com/trending/rss?geo=IN)
 7. [హైదరాబాద్](https://trends.google.com/trending/rss?geo=IN)
@@ -22,7 +22,7 @@
 - [MediaTek targets Qualcomm's fortress with an unmatched new weapon](https://timesofindia.indiatimes.com/technology/tech-news/mediatek-seems-ready-to-storm-into-qualcomms-biggest-fortress-and-with-a-weapon-that-american-chip-maker-still-has-no-answer-to/articleshow/134412852.cms)
 - [In a first, US F-35 fighters to take part in IAF exercise](https://timesofindia.indiatimes.com/defence/news/in-a-first-uss-5th-gen-stealth-jet-f-35-to-take-part-in-iafs-multinational-exercise-tarang-shakti/articleshow/134423102.cms)
 - [Heavy LHB bogie corrosion worries Railways; toilet leaks, saline air blamed](https://timesofindia.indiatimes.com/business/india-business/heavy-corrosion-in-lhb-train-coach-bogies-despite-improved-materials-worries-railway-engineers-toilet-leaks-cleaning-chemicals-and-saline-air-blamed-railway-board-orders-special-safety-checks/articleshow/134406709.cms)
-- [US approves $425 million sale of MH-60R Seahawk helicopters and equipments to Denmark](https://timesofindia.indiatimes.com/defence/international/us-approves-425-million-sale-of-mh-60r-seahawk-helicopters-and-equipments-to-denmark/articleshow/134418132.cms)
+- [US approves $425 million sale of MH-60R Seahawk helicopters and equipment to Denmark](https://timesofindia.indiatimes.com/defence/international/us-approves-425-million-sale-of-mh-60r-seahawk-helicopters-and-equipments-to-denmark/articleshow/134418132.cms)
 - [Exorbitant pricing of drugs is ‘extortion': Supreme Court](https://timesofindia.indiatimes.com/india/exorbitant-pricing-of-drugs-is-extortion-supreme-court/articleshow/134423165.cms)
 
 **NDTV**
@@ -38,20 +38,32 @@
 - [Trump Says Russia, Ukraine Are Going To 'Make A Deal' Soon](https://www.ndtv.com/world-news/donald-trump-says-russia-ukraine-are-going-to-make-a-deal-soon-12083704#publisher=newsstand)
 
 **Hindustan Times**
+- [Murmu urges top artistes against harmful product endorsements: 'True star spreads light, not darkness'](https://www.hindustantimes.com/india-news/72nd-national-film-awards-best-actors-president-droupadi-murmu-speech-101790127456806.html)
+- [A national party with no presence in Parliament: The shrinking of the BSP](https://www.hindustantimes.com/india-news/rajya-sabha-elections-2026-uttar-pradesh-polls-2027-bahujan-samaj-party-mayawati-101790126573820.html)
+- [Kazakhstan coach booked under POCSO after 16-year-old cyclist alleges rape in Punjab's Patiala](https://www.hindustantimes.com/india-news/kazakhstan-coach-booked-under-pocso-after-16-year-old-cyclist-rape-in-punjab-patiala-national-institute-of-sports-101790126106631.html)
+- [CCPA flags free sale of restricted security gear on e-commerce platforms](https://www.hindustantimes.com/india-news/ccpa-flags-free-sale-of-restricted-security-gear-on-e-commerce-platforms-101790125990147.html)
 - [Woman allegedly chased, harassed, pushed off scooter by bike-borne men near Panchsheel Park Metro station in Delhi](https://www.hindustantimes.com/india-news/woman-allegedly-chased-harassed-pushed-off-scooter-by-bike-borne-men-near-panchsheel-park-metro-station-in-delhi-101790125458256.html)
 - [No guards, no lights: Delhi teen's gang-rape exposes Aastha Kunj Park’s glaring security gaps](https://www.hindustantimes.com/india-news/no-guards-no-lights-delhi-teens-gang-rape-kalkaji-temple-exposes-aastha-kunj-park-s-glaring-security-gaps-101790124657171.html)
 - [‘Notices going almost mechanically’: CJI-led bench asks EC to address SIR concerns among voters](https://www.hindustantimes.com/india-news/notices-going-almost-mechanically-cji-led-bench-supreme-court-asks-election-commission-voter-concerns-sir-101790120434949.html)
 - [BJP set to gain one seat in upcoming Rajya Sabha polls, BSP may draw blank](https://www.hindustantimes.com/india-news/bjp-set-to-gain-one-seat-in-upcoming-rajya-sabha-polls-bsp-may-draw-blank-101790104683854.html)
-- ['US shouldn't punish India, global markets over Russian oil': JPMorgan chief Jamie Dimon](https://www.hindustantimes.com/india-news/us-shouldnt-punish-india-global-markets-over-russian-oil-jpmorgan-chase-chief-jamie-dimon-new-us-russia-sanctions-bill-101790096632204.html)
-- [Assam: Singer Simanta Shekhar quits BJP, won’t join any political party](https://www.hindustantimes.com/india-news/assam-singer-simanta-shekhar-quits-bjp-won-t-join-any-political-party-101790095382910.html)
-- [ED files prosecution complaint against former chairman, 6 others in CGPSC case](https://www.hindustantimes.com/india-news/ed-files-prosecution-complaint-against-former-chairman-6-others-in-cgpsccase-101790094362258.html)
-- [Turkish President Erdogan raises Kashmir issue in UNGA speech: 'Should be addressed through dialogue'](https://www.hindustantimes.com/india-news/turkey-president-recep-tayyip-erdogan-raises-kashmir-issue-in-unga-should-be-addressed-through-dialogue-101790094036119.html)
-- [Govt overhauls airport transit system in hub-and-spoke model after lapse: Naidu](https://www.hindustantimes.com/india-news/govt-overhauls-airport-transit-system-in-hub-and-spoke-model-after-lapse-naidu-101790093283008.html)
-- [Cyclone ‘Arnab’ next in line? Bay of Bengal system intensifies into deep depression, to cross Andhra-Odisha coast by…](https://www.hindustantimes.com/india-news/bay-of-bengal-system-intensifies-into-deep-depression-to-cross-andhra-odisha-coast-by-september-23-101790092446695.html)
+- [American citizen VanDyke seeks discharge after paying penalty for illegal entry](https://www.hindustantimes.com/india-news/american-citizen-vandyke-seeks-discharge-after-paying-penalty-for-illegal-entry-nia-arrest-immigration-101790103903407.html)
+- [53 students died across IITs in 5 years, more than half of them SCs, STs, OBCs](https://www.hindustantimes.com/india-news/53-students-died-across-iits-in-5-years-more-than-half-of-them-scs-sts-obcs-suicides-data-101790103843880.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಅ.11ರಿಂದ ಮೈಸೂರು ದಸರಾ ಫ್ಲವರ್‌ ಶೋ: ʼಪ್ರಜಾಪ್ರಭುತ್ವದ ಹಬ್ಬʼ ಥೀಮ್‌ನಲ್ಲಿ ಕಂಗೊಳಿಸಲು ಊಟಿ, ಪುಣೆಯಿಂದ ತರಹೇವಾರಿ ಹೂಗಳ ಆಗಮನ!](https://vijaykarnataka.com/news/mysuru/mysuru-dasara-flower-show-2026-starts-from-oct-11-under-the-theme-festival-of-democracy/articleshow/134423698.cms)
+- [ದಕ್ಷಿಣ ಕನ್ನಡ ಸೇರಿ ನಾಲ್ಕಾರುಜಿಲ್ಲೆಗಳಿಗೆ ಆಸರೆಯಾಗಿರುವ ವೆನ್ಲಾಕ್‌ ಆಸ್ಪತ್ರೆಗೆ ಬೆಡ್‌ಗಳ ಬಲ: 200 ಹಾಸಿಗೆ, ಐಸಿಯು ವ್ಯವಸ್ಥೆ- ಸಿಬ್ಬಂದಿ, ಉಪಕರಣ ಪೂರೈಸಿ ಉನ್ನತೀಕರಣ](https://vijaykarnataka.com/news/mangaluru/boost-for-wenlock-hospital-a-lifeline-for-dakshina-kannada-and-several-neighboring-districts-addition-of-200-beds-and-icu-facilities-and-staffs/articleshow/134423707.cms)
+- [ಬೆಂಗಳೂರಲ್ಲಿ ಸರಗಳ್ಳರ ಹಾವಳಿ: ಟ್ರೇಡಿಂಗ್ ನಷ್ಟ, ಸಾಲ ತೀರಿಸಲು ಸರಗಳ್ಳತನಕ್ಕಿಳಿದ ಟ್ಯೂಷನ್ ಟೀಚರ್ ಅರೆಸ್ಟ್!](https://vijaykarnataka.com/news/bengaluru-city/robbery-in-bangauru-tuition-teacher-arrested-in-chain-snatching-case-to-clear-debt/articleshow/134423550.cms)
+- [ಮತ್ತೆ ಚಿಗುರಬಹುದು ಹಳೆಯ ಪ್ರೀತಿ? Gen Zನಲ್ಲಿ ಸದ್ದು ಮಾಡುತ್ತಿರುವ ಡೋಪಮೈನ್ ಡೇಟಿಂಗ್ ಟ್ರೆಂಡ್!](https://vijaykarnataka.com/lifestyle/relationship/gen-z-dopamine-dating-trend-meaning-and-impact/articleshow/134416443.cms)
+- [ದೊಮ್ಮಲೂರಿನಲ್ಲಿ ಸೆಟ್‌ಬ್ಯಾಕ್‌ ಬಿಡದೆ ನಿರ್ಮಿಸುತ್ತಿದ್ದ ಕಟ್ಟಡ ತೆರವಿಗೆ GBA ನೋಟಿಸ್;‌ ಕರೆಂಟ್‌ ಕಟ್‌ಗೆ ಆಯುಕ್ತ ಮಹೇಶ್ವರ್ ರಾವ್ ಸೂಚನೆ!](https://vijaykarnataka.com/news/bengaluru-city/gba-notice-issued-for-building-construction-violating-setback-rule-in-dommalur/articleshow/134423433.cms)
+- [ಭಾರತೀಯ ಚಿತ್ರರಂಗದಲ್ಲೇ ಮೊದಲು: ಸಿಂಪಲ್ ಸುನಿ ‘ಲಂಬೋದರ 2.0’ ಚಿತ್ರಕ್ಕೆ ನಿಜವಾದ ರೋಬೋಟ್ ʻಜಿಯಾʼ ಎಂಟ್ರಿ!](https://vijaykarnataka.com/entertainment/news/real-humanoid-robot-jia-to-star-in-kannada-movie-lambodara-2-0/articleshow/134423945.cms)
+- [ಹಬ್ಬದ ಜೋರು ಸೌಂಡ್‌ಗೆ ಹುಷಾರ್‌! ಜೋರಾದ ಶಬ್ದ ಹೃದಯ ಬಡಿತ, ಬಿಪಿ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತೆ?](https://vijaykarnataka.com/lifestyle/health/loud-festival-noise-effects-stress-blood-pressure-heart-rate/articleshow/134307673.cms)
+- [ಹಣೆಯ ಮೇಲೆ ಇಟ್ಟುಕೊಳ್ಳುವ ತಿಲಕಗಳ ವಿಧಗಳು, ಅವುಗಳ ಮಹತ್ವ.!](https://vijaykarnataka.com/religion/pooja-vidhana/different-types-of-tilak-people-put-on-their-forehead-in-hinduism/articleshow/134423846.cms)
+- [ಪಾರ್ಕ್ ಮಾಡಿದ ಕಾರಿಗೆ ಇಲಿಗಳು ಏಕೆ ಬರುತ್ತವೆ? ತಡೆಯಲು ಈ ನೈಸರ್ಗಿಕ ವಿಧಾನಗಳು ಸಹಕಾರಿ](https://vijaykarnataka.com/lifestyle/home-decor/why-rats-enter-parked-cars-natural-ways-to-keep-rats-away/articleshow/134408701.cms)
+- [ತುಳುವಿಗೆ ಮಾನ್ಯತೆ ಬೆನ್ನಲ್ಲೇ ಅಧಿಕೃತ ಭಾಷಾ ಸ್ಥಾನಮಾನಕ್ಕೆ ಉರ್ದು, ಕೊಡವ, ಲಂಬಾಣಿ ಸೇರಿ ಅನ್ಯ ಭಾಷಿಕರ ಲಾಬಿ ಶುರು!](https://vijaykarnataka.com/news/udupi/urdu-kodava-and-lambani-and-other-languages-demanding-official-language-status-after-tulu-official-status/articleshow/134423230.cms)
 
 **The Hindu**
+- [Lack of hygienic menstrual shelters posing health risk to tribal women](https://www.thehindu.com/news/national/kerala/lack-of-hygienic-menstrual-shelters-posing-health-risk-to-tribal-women/article71495609.ece)
+- [Pakistan must act against cross-border terrorism before world believes it would do what it says: MEA](https://www.thehindu.com/news/national/pakistan-must-act-against-cross-border-terrorism-before-world-believes-it-would-do-what-it-says-mea/article71498029.ece)
 - [Asian Games 2026 India’s medallists: Full list of winners](https://www.thehindu.com/sport/asian-games-2026-india-medalists-full-list-of-winners-aichi-nagoya-japan/article71491065.ece)
 - [Asian Games 2026 LIVE | India's defeats Philippines men's sepak takraw team regu](https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-23-2026/article71496842.ece)
 - [2020 Delhi riots case: Sharjeel Imam gets interim bail to attend cousin’s wedding](https://www.thehindu.com/news/national/2020-delhi-riots-case-sharjeel-imam-gets-interim-bail-for-seven-days/article71495454.ece)
@@ -60,10 +72,10 @@
 - [BJP MLA stirs row with ‘Muslims should bring their daughters, sisters’ to Garba remarks](https://www.thehindu.com/news/national/madhya-pradesh/bjp-mla-stirs-row-with-muslims-should-bring-their-daughters-sisters-to-garba-remarks/article71496775.ece)
 - [The story of a ‘Government Farm Village’ in Madras](https://www.thehindu.com/news/cities/chennai/the-story-of-a-government-farm-village-in-madras/article71494494.ece)
 - [DGMA files statement on steps taken for technical assessment of MSC Elsa 3 wreck](https://www.thehindu.com/news/national/kerala/dgma-files-statement-on-steps-taken-for-technical-assessment-of-msc-elsa-3-wreck/article71496496.ece)
-- [Azhvanchery Thamprakkal announces Keralam’s Mamankam festival dates](https://www.thehindu.com/news/national/kerala/azhvanchery-thamprakkal-announces-keralams-mamankam-festival-dates/article71496259.ece)
-- [Samastha Mushawara meet in Kerala’s Kozhikode to test ties with IUML](https://www.thehindu.com/news/national/kerala/samastha-mushawara-meet-in-keralas-kozhikode-to-test-ties-with-iuml/article71496084.ece)
 
 **Livemint**
+- [Taylor Swift announces ‘Patient Zero’, her first single after wedding; new track to release September 25](https://www.livemint.com/news/us-news/taylor-swift-announces-patient-zero-her-first-single-after-wedding-new-track-to-release-september-25-11790128142850.html)
+- [Petrol, diesel prices today, September 23: Check rates in Delhi, Mumbai, Bengaluru](https://www.livemint.com/news/india/petrol-diesel-prices-today-september-23-check-rates-in-delhi-mumbai-bengaluru-11790126147371.html)
 - [Iran War Live: Trump warns Iran of 'annihilation' but says deal could be near; Tehran sets Hormuz conditions](https://www.livemint.com/news/us-news/iran-war-live-updates-strait-of-hormuz-houthis-saudi-arabia-trump-oil-price-11790124295205.html)
 - [Hurricane Polo Becomes One of 2026’s Strongest Storms Off Mexico](https://www.livemint.com/news/hurricane-polo-becomes-one-of-2026-s-strongest-storms-off-mexico-11790115282361.html)
 - [MrBeast faces backlash over $10 million Ghana project: Here’s how he responded to critics](https://www.livemint.com/news/trends/mrbeast-faces-backlash-over-10-million-ghana-project-here-s-how-he-responded-to-critics-11790112090959.html)
@@ -72,12 +84,21 @@
 - [Netanyahu-Mamdani clash escalates: Israeli PM vows to ‘tell the truth’ about NYC mayor at UNGA](https://www.livemint.com/news/world/netanyahu-vs-mamdani-explodes-ahead-of-unga-i-m-going-to-tell-the-truth-about-you-11790105193860.html)
 - [Binance faces US criminal probe over Iran sanctions violations | What we know](https://www.livemint.com/news/binance-faces-us-criminal-probe-over-iran-sanctions-violations-what-we-know-11790095881342.html)
 - [US national Van Dyke pays  ₹5.5 lakh compounding charge; may return to US: What it means for NIA case & UAPA probe](https://www.livemint.com/news/india/us-national-matthew-van-dyke-pays-5-5-lakh-compounding-charge-may-return-to-uswhat-it-means-for-nia-case-uapa-pr-11790103623384.html)
-- [Hurricane Polo reaches Category 5 strength: When it is likely to make landfall and which areas to be worst affected?](https://www.livemint.com/news/us-news/hurricane-polo-reaches-category-5-strength-when-it-is-likely-to-make-landfall-and-which-areas-to-be-worst-affected-11790098503867.html)
-- [‘Ridiculous or reasonable?’ Gurgaon couple reveals  ₹1.2 lakh monthly spending breakdown](https://www.livemint.com/news/trends/ridiculous-or-reasonable-gurgaon-couple-reveals-1-2-lakh-monthly-spending-breakdown-11790096906006.html)
 
-**Moneycontrol** — _unavailable_
+**Moneycontrol**
+- [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
+- [Buy Tejas Networks; target of Rs 1100: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html)
+- [Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html)
+- [Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html)
+- [Reduce Wipro; target of Rs 410: ICICI Securities](https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html)
+- [Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html)
+- [Buy Patel Engineering; target of Rs 80: ICICI Direct](https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html)
+- [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಬರೋಡಾದ ಆಲದ ಮರದ ಕೆಳಗೆ ಹುಟ್ಟಿದ ‘ಅಂಬೇಡ್ಕರ್’ ಎಂಬ ಮಹಾ ಸಂಕಲ್ಪ](https://www.varthabharati.in/vishesha-varadigalu/the-great-ambition-of-ambedkar-was-born-under-a-banyan-tree-in-baroda-2277218)
 - [8 ಅಧಿಕಾರಿಗಳ ಮನೆಗಳ ಮೇಲೆ ಲೋಕಾಯುಕ್ತ ದಾಳಿ: 29.61 ಕೋಟಿ ರೂ. ಮೌಲ್ಯದ ಆಸ್ತಿ, 80 ಮದ್ಯದ ಬಾಟಲಿ ಪತ್ತೆ](https://www.varthabharati.in/bangalore-city/lokayukta-2277217)
 - [ಪಂಡಿತ್ ಇಂದೂಧರ್ ನಿರೋಡಿ ನಿಧನ](https://www.varthabharati.in/mysore/--2277216)
 - [Chikkaballapur | ರೈತ ಸಂಘದ ಕಚೇರಿಯಲ್ಲೇ ರೈತ ಮುಖಂಡ ಆತ್ಮಹತ್ಯೆ](https://www.varthabharati.in/chikka-ballapur/chikkaballapur-2277215)
@@ -87,38 +108,37 @@
 - [ಮಣಿಪುರಿ ಸಂಗೀತಗಾರನ ಹತ್ಯೆ ಮತ್ತು ಈಶಾನ್ಯ ಭಾರತೀಯರ ಮೇಲಿನ ಜನಾಂಗೀಯ ನಿಂದನೆಗೆ ಸರ್ಕಾರದ ನಿರ್ಲಕ್ಷ್ಯವೇ ಕಾರಣ?](https://www.varthabharati.in/vishesha-varadigalu/go-back-to-your-country-manipuri-musicians-killing-reignites-concerns-over-racism-against-northeasterners-govt-inaction-2277210)
 - [ಪಾಕಿಸ್ತಾನದ ಮಾಜಿ ಪ್ರಧಾನಿ ಇಮ್ರಾನ್ ಖಾನ್ ಅವರ ಮೂವರು ಸಹೋದರಿಯರನ್ನು 30 ದಿನಗಳ ಕಾಲ ವಶಕ್ಕೆ ಪಡೆದಿರುವುದು ಯಾಕೆ?](https://www.varthabharati.in/vishesha-varadigalu/why-have-imran-khans-three-sisters-been-detained-for-30-days-2277208)
 - [ಮಾಜಿ ಸಚಿವ ರಮಾನಾಥ ರೈ ಆಸ್ಪತ್ರೆಯಿಂದ ಡಿಸ್ಚಾರ್ಜ್](https://www.varthabharati.in/DakshinaKannada/--2277207)
-- [ಮಂಗಳೂರು: ಲೋಕಾಯುಕ್ತ ಬಲೆಗೆ ಬಿದ್ದ ಇನ್ಸ್‌ಪೆಕ್ಟರ್‌ಗೆ ನ್ಯಾಯಾಂಗ ಬಂಧನ](https://www.varthabharati.in/DakshinaKannada/--2277205)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Delhi (5.5)
+- Emkay Global Financial (5.0)
 - Trump (4.5)
-- Delhi (4.2)
 - Iran (4.2)
-- Govt (2.6)
-- Kashmir (2.6)
-- India (2.6)
-- UNGA (2.6)
+- ICICI Securities (3.0)
+- target (3.0)
+- September (2.6)
 - What (2.6)
 - Asian Games (2.0)
+- Buy Bajaj Finance (2.0)
+- Global (1.8)
 - Here (1.6)
 - Hormuz (1.6)
-- Courts (1.3)
-- MediaTek (1.3)
-- Qualcomm's (1.3)
-- Railways (1.3)
+- Emkay (1.5)
+- Financial (1.5)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [വൈദ്യുതി പ്രതിസന്ധി; മറ്റ് സംസ്ഥാനങ്ങളുമായി ചർച്ച നടത്തുന്നതടക്കമുള്ള സാധ്യതകൾ തേടുന്നുണ്ടെന്ന് മന്ത്രി സണ്ണി ജോസഫ്](https://www.metrovaartha.com/news/kerala/power-crisis-minister-sunny-joseph-states-that-options-including-holding-discussions-with-other-states-are-being-explored)
-- [Bombay High Court: सण उत्सवासह मिरवणुकीत सार्वजनिक स्थळी फटाके वाजवण्यास बंदी, ध्वनी प्रदूषण मर्यादा ओलांडणाऱ्यावंर कठोर कारवाई, उपकरणं जप्त करा : मुंबई हायकोर्ट](https://marathi.abplive.com/news/mumbai/bombay-high-court-put-complete-ban-on-bursting-fire-crackers-on-public-roads-during-festivals-marathi-news-1439897)
-- [જાતે પેઇનકિલર કે એન્ટિબાયોટિક લો છો? કેન્દ્ર સરકારની આ નવી ગાઈડલાઈન વાંચો](https://gujarati.abplive.com/lifestyle/health/cdsco-warning-risks-of-self-medication-painkillers-and-antibiotics-side-991811)
-- [After Hindenburg: 5 Adani group companies settle disclosure violation case with Sebi](https://economictimes.indiatimes.com/markets/stocks/news/after-hindenburg-5-adani-group-companies-settle-disclosure-violation-case-with-sebi/articleshow/134413631.cms?from=mdr)
-- [செப்., 28 முதல் செப். 30 வரை வங்கிகள் ஸ்டிரைக்!](https://www.dinamalar.com/news/tamil-nadu-news/banks-to-go-on-strike-from-september-28-to-september-30-across-the-country-work-likely-to-be-affected-for-5-days/4329787)
-- [ஜெம் வீரமணி வழக்கு: "திமுக-வும், தவெக-வும் வாதிட்டுக் கொண்டு காலந்தாழ்த்தாமல்..!"- வானதி சீனிவாசன்](https://www.vikatan.com/government-and-politics/vanathi-srinivasan-has-posted-regarding-the-gem-veeramani-case)
-- [Apple Just Got a New Signal From iPhone 18 Demand](https://www.tradingview.com/news/gurufocus:c04f255a9094b:0-apple-just-got-a-new-signal-from-iphone-18-demand/)
-- [72nd National Film Awards 2026 Winners list : सर्वोत्कृष्ट अभिनेता, अभिनेत्री ते बेस्ट डायरेक्टर, राष्ट्रीय चित्रपट पुरस्कार कोणाला मिळाला? वाचा Full List](https://www.tv9marathi.com/entertainment/72nd-national-film-awards-2026-full-winners-list-check-best-actor-film-director-dadasaheb-phalke-award-details-in-marathi-2-1761956.html)
-- [Trump-Xi Meeting: ट्रंप-जिनपिंग की केमिस्‍ट्री पर भारत की रहेगी पैनी नजर, चिप से लेकर 'चाइना+1' तक दांव पर](https://navbharattimes.indiatimes.com/business/business-news/trump-xi-proposed-meeting-reasons-india-keep-watch-chips-to-china1-on-stake/articleshow/134413229.cms)
-- [How To Get Siri AI After Updating To iOS 27](https://www.bgr.com/2265148/how-to-enable-siri-ai-ios-27-guide/)
+- [‘സർവകാല റെക്കോർഡുകളും തകർത്തു!’; തിരുവോണം ബംപർ വിൽപ്പന 438 കോടി കടന്നു](https://www.manoramanews.com/kerala/latest/2026/09/22/kerala-thiruvonam-bumper-lottery-sales-cross-record-turnover.html)
+- [Gleneagles Mumbai Launches Multidisciplinary Memory Clinic On World Alzheimer’s Day](https://www.bwhealthcareworld.com/article/gleneagles-mumbai-launches-multidisciplinary-memory-clinic-on-world-alzheimer-s-day-625041)
+- [72nd National Film Awards:कार्तिक आर्यन, ममूटी 'सर्वोत्कृष्ट अभिनेता'…वाचा राष्ट्रीय चित्रपट पुरस्कार विजेत्यांची संपूर्ण यादी](https://pudhari.news/soneri/72nd-national-film-awards-winners-list-nl76)
+- [Halo to Activision. Xbox merges studios and cuts 268 jobs](https://www.thegamebusiness.com/p/halo-to-activision-xbox-merges-studios)
+- [Iran Hormuz Strait News: সুখবর! ৭ দিনের মধ্যে হরমুজ খুলতে রাজি ইরান, দিল বড় শর্ত](https://bangla.aajtak.in/world/story/iran-hormuz-strait-news-seven-day-reopening-offer-to-us-prb-1454009-2026-09-22)
+- [Rani Mukerji's mother's funeral: Shah Rukh Khan, Alia Bhatt, Karan Johar, Anil Kapoor arrive to pay last respects](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-mukerjis-mothers-funeral-shah-rukh-khan-alia-bhatt-karan-johar-anil-kapoor-among-others-arrive-to-offer-their-final-respects/articleshow/134414115.cms)
+- [ഈ അച്ഛനും മക്കളും പൊളിക്കും; അവറാച്ചന്‍ ആന്‍ഡ് സണ്‍സിന്റെ ട്രെയിലര്‍ റിലീസായി](https://www.reporterlive.com/entertainment/entertainment-news/2026/09/22/the-trailer-for-avarachan-and-sons-has-been-released)
+- [Lalbaugcha Raja: संजय दत्त आणि मान्यताने घेतलं लालबागच्या राजाचं दर्शन](https://marathi.asianetnews.com/entertainment/sanjay-dutt-and-maanayata-visit-lalbaugcha-raja-for-darshan/articleshow-x0rpqci)
+- ['इंटीमेट सीन' के दौरान एक्टर ने किया था अजीब सवाल, सुनकर सन्न रह गए थे विशाल भारद्वाज](https://www.jagran.com/entertainment/bollywood-vishal-bhardwaj-recalls-actress-asking-are-we-going-to-use-tongue-before-intimate-scene-40381646.html)
+- [Mahindra का धमाका, लॉन्च की THAR OG, इतने रुपये रखी है कीमत](https://www.aajtak.in/auto/news/story/mahindra-thar-og-launch-price-features-details-auam-dskc-2650282-2026-09-22)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
