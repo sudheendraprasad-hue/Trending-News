@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-23 19:35:10
+# India Trending Report — 2026-09-23 20:02:26
 
 ## Google Trends (India) — top trending searches
 1. [barcelona vs paris fc](https://trends.google.com/trending/rss?geo=IN)
@@ -7,8 +7,8 @@
 4. [paradise movie review](https://trends.google.com/trending/rss?geo=IN)
 5. [khabib](https://trends.google.com/trending/rss?geo=IN)
 6. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
-7. [hyundai bayon suv](https://trends.google.com/trending/rss?geo=IN)
-8. [the love hypothesis](https://trends.google.com/trending/rss?geo=IN)
+7. [the love hypothesis](https://trends.google.com/trending/rss?geo=IN)
+8. [hyundai bayon suv](https://trends.google.com/trending/rss?geo=IN)
 9. [exoplanet](https://trends.google.com/trending/rss?geo=IN)
 10. [ott releases this week](https://trends.google.com/trending/rss?geo=IN)
 
@@ -22,8 +22,8 @@
 - [DoorDash agrees to $131.5m after payment errors affected 200,000-plus NYC workers](https://timesofindia.indiatimes.com/technology/tech-news/americas-largest-food-delivery-company-doordash-admits-it-underpaid-or-paid-late-to-200000-plus-workers-in-new-york-city-for-over-three-years-will-pay-131-5-million-in-settlement-and-apologises/articleshow/134439134.cms)
 - [George Floyd’s siblings seek accounting of $14.7m memorial GoFundMe](https://timesofindia.indiatimes.com/world/us/in-2020-george-floyds-memorial-gofundme-raised-14-7-million-six-years-later-three-of-his-siblings-are-asking-brother-philonise-for-a-full-accounting-of-the-fundraiser-and-its-distributions/articleshow/134433362.cms)
 - [J&K elected govt has no say in book ban: Omar Abdullah](https://timesofindia.indiatimes.com/india/jk-elected-govt-has-no-say-in-book-ban-omar-abdullah/articleshow/134444869.cms)
+- [Tap water on paper, no proper accounts, says J&K probe panel](https://timesofindia.indiatimes.com/india/tap-water-on-paper-no-proper-accounts-says-jk-probe-panel/articleshow/134445471.cms)
 - ['Int'l system broken': Rubio's msg amid UNGA, says US interests above world order](https://timesofindia.indiatimes.com/world/us/international-system-broken-rubios-stark-message-amid-unga-says-us-interests-above-world-order/articleshow/134442962.cms)
-- [Ladakh LG clears withdrawal of cases against 20 in September 24 violence](https://timesofindia.indiatimes.com/india/ladakh-lg-clears-withdrawal-of-cases-against-20-in-september-24-violence/articleshow/134444621.cms)
 
 **NDTV**
 - [Central Agency Search In Mohali Is Fresh Political Flashpoint In Punjab](https://www.ndtv.com/india-news/central-agency-search-in-mohali-is-fresh-political-flashpoint-in-punjab-12089034#publisher=newsstand)
@@ -62,6 +62,8 @@
 - [VK Real Estate Summit: ಬೆಂಗಳೂರಿನಲ್ಲಿ ಕಾಸಾಗ್ರ್ಯಾಂಡ್‌ ಹೆಜ್ಜೆಗುರುತು: ದಕ್ಷಿಣ ಭಾರತದ ರಿಯಲ್ ಎಸ್ಟೇಟ್ ಬದಲಾವಣೆಯ ಪ್ರತಿಬಿಂಬ](https://vijaykarnataka.com/business/news/vk-real-estate-summit-casagrand-bengaluru-growth-story-reflects-the-changing-face-of-south-india-real-estate-market/articleshow/134440682.cms)
 
 **The Hindu**
+- [Elephant calf swept away in Teesta rescued by fishermen, reunited with mother](https://www.thehindu.com/news/national/elephant-calf-swept-away-in-teesta-rescued-by-fishermen-reunited-with-mother/article71501503.ece)
+- [Priyanka Gandhi meets flood victims, workers in Nilambur](https://www.thehindu.com/news/national/kerala/priyanka-gandhi-meets-flood-victims-workers-in-nilambur/article71500629.ece)
 - [Rain batters Srikakulam for second day](https://www.thehindu.com/news/national/andhra-pradesh/rain-batters-srikakulam-for-second-day/article71500370.ece)
 - [Several banks offer rebate on interest rates for green buildings, says expert](https://www.thehindu.com/news/cities/chennai/several-banks-offer-rebate-on-interest-rates-for-green-buildings-says-expert/article71501195.ece)
 - [CPCL looking to be a part of the renewable energy growth journey: H. Shankar](https://www.thehindu.com/news/cities/chennai/cpcl-looking-to-be-a-part-of-the-renewable-energy-growth-journey-h-shankar/article71501107.ece)
@@ -70,10 +72,10 @@
 - [Refinery sector must balance energy security with net-zero push: industry experts at The Hindu Sustainability Summit](https://www.thehindu.com/news/national/tamil-nadu/refinery-sector-must-balance-energy-security-with-net-zero-push-industry-experts-at-the-hindu-sustainability-summit/article71499906.ece)
 - [UG-NEET: Third round counselling from September 24](https://www.thehindu.com/news/national/karnataka/ug-neet-third-round-counselling-from-september-24/article71500880.ece)
 - [Communication between CEC, ECs shows functioning democracy: BJP](https://www.thehindu.com/news/national/communication-between-cec-ecs-shows-functioning-democracy-bjp/article71500602.ece)
-- [Malkajgiri police seize 730 kg suspected adulterated ginger-garlic paste, 500 kg paneer in food safety raids](https://www.thehindu.com/news/cities/Hyderabad/malkajgiri-police-seize-730-kg-suspected-adulterated-ginger-garlic-paste-500-kg-paneer-in-food-safety-raids/article71500834.ece)
-- [Over 70 tree species among 1,128 marked for felling for Hebbal tunnel project](https://www.thehindu.com/news/cities/bangalore/over-70-tree-species-among-1128-marked-for-felling-for-hebbal-tunnel-project/article71500072.ece)
 
 **Livemint**
+- [White House denies report of 90-day US diesel export ban](https://www.livemint.com/news/us-news/white-house-denies-report-of-90-day-us-diesel-export-ban-11790191870550.html)
+- [CDC Recognizes Measles Death After Pennsylvania Conflict](https://www.livemint.com/news/us-news/cdc-recognizes-measles-death-after-pennsylvania-conflict-11790192578526.html)
 - [Indian woman spends over  ₹1 cr living in Manhattan, pays  ₹10 lakh monthly rent; internet calls NYC life ‘overhyped’](https://www.livemint.com/news/trends/indian-woman-spends-over-1-cr-living-in-manhattan-pays-10-lakh-monthly-rent-internet-calls-nyc-life-overhyped-11790186820651.html)
 - [FIFA fans in Delhi, Gurugram can revisit Spain’s World Cup win on Coca-Cola’s Golden Can: Where to buy, price and more](https://www.livemint.com/news/trends/fifa-fans-in-delhi-gurugram-can-revisit-spain-s-world-cup-win-on-coca-cola-s-golden-can-where-to-buy-price-and-more-11790185124368.html)
 - [Trump-Xi summit itinerary: Full schedule of Chinese president’s 3-day US state visit from Sept 23-25](https://www.livemint.com/news/us-news/trumpxi-summit-itinerary-full-schedule-of-chinese-president-s-3-day-us-state-visit-from-sept-2325-11790186865493.html)
@@ -82,8 +84,6 @@
 - [Who will be next UN chief? Meet 7 candidates in race to replace Guterres; how secretary-general is chosen | Explained](https://www.livemint.com/news/world/who-will-be-next-un-chief-meet-7-candidates-in-race-to-replace-guterres-how-secretary-general-is-chosen-explained-11790183110083.html)
 - [Cyclone tracking: Deep depression nears Andhra - Odisha coast; IMD issues red alert. Is there a holiday tomorrow?](https://www.livemint.com/news/india/cyclone-live-tracking-deep-depression-nears-andhra-odisha-coast-imd-issues-red-alert-is-there-a-holiday-tomorrow-11790182953250.html)
 - [‘Why don’t you give New Jersey to Israelis?’ Syria’s al-Sharaa recalls Trump exchange over Golan Heights at UNGA](https://www.livemint.com/news/world/why-don-t-you-give-new-jersey-to-israelis-syria-s-al-sharaa-recalls-trump-exchange-over-golan-heights-at-unga-11790181297367.html)
-- [Amazon, Zepto & 3 other platforms face FSSAI's penal action over misleading claims: Which products did it flag?](https://www.livemint.com/news/india/amazon-zepto-3-other-platforms-face-fssai-action-over-misleading-food-claims-violation-which-products-did-it-fla-11790176482339.html)
-- [Harvey Weinstein sentenced to 15 years in prison in #MeToo-era case after retrial](https://www.livemint.com/news/us-news/harvey-weinstein-sentenced-to-15-years-in-prison-in-metoo-era-case-after-retrial-11790179572903.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -156,8 +156,8 @@
 - Trump (4.2)
 - Russia (2.9)
 - Trump-Xi (2.6)
-- September (2.6)
 - Chinese (2.6)
+- White House (2.0)
 - The Hindu Sustainability (2.0)
 - Sustainability (1.9)
 - Ukraine (1.6)
@@ -169,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ஆசிய விளையாட்டுப் போட்டி: வெள்ளி வென்றார் மீராபாய் சானு](https://www.hindutamil.in/news/sports/mirabai-chanu-wins-her-first-asian-games-medal-in-weightlifting)
-- [Jay Pawar cries at Ajit Srushti Ganapati after hearing Late Father Ajit Pawar voice; आईचा फोटो पाहून बरं वाटलं, ती रडत असते का रे अजून? हुबेहूब अजित पवार यांचा आवाज, जय पवार यांच्या डोळ्यातून अश्रू ओघ](https://maharashtratimes.com/maharashtra/pune-news/jay-pawar-cries-at-ajit-srushti-ganapati-after-hearing-late-father-ajit-pawar-voice/articleshow/134428381.cms)
-- ['ஜெம்' வீரமணி வழக்கில் செல்போனில் 'காணொளி வைத்திருந்த' முன்னாள் ஊழியர் கைது](https://www.bbc.com/tamil/articles/cxvgymq86n28o)
-- [ரிஸ்க் இல்லாத ஃபிக்சட் டெபாசிட் திட்டத்தை தேடுகிறீர்களா.. எந்த பேங்க்ல அதிக வட்டி கொடுக்குறாங்க தெரியுமா?](https://tamil.economictimes.com/news/business/secure-your-money-banks-offering-highest-interest-rates-on-555-days-fixed-deposit/articleshow/134428617.cms)
-- [ગુજરાત યુનિવર્સિટીના પૂર્વ કુલપતિ નિરજા ગુપ્તાએ વિવાદ વચ્ચે 14 કરોડથી વધુની ગ્રાન્ટ પરત કરી, પ્રોજેક્ટમાંથી આપ્યું રાજીનામું](https://www.gujaratsamachar.com/news/ahmedabad/former-gujarat-university-vice-chancellor-neerja-gupta-returns-grant-worth-over-rs-14-crore-amid-controversy-resigns-from-both-projects-94918353555)
-- [Vasant Davkhare Case Verdict: मोठी बातमी! उद्धव ठाकरे-एकनाथ शिंदेंना कल्याण कोर्टाचा दिलासा; दिवंगत नेते वसंत डावखरे प्रकरणाचा 17 वर्षांनी निकाल, चौघांची निर्दोष मुक्तता](https://marathi.abplive.com/news/politics/uddhav-thackeray-eknath-shinde-grants-relief-in-vasant-davkhare-case-verdict-all-four-kalyan-court-acquitted-after-17-years-marathi-news-1439974)
-- [IMD Weather Report: આજે દેશના 4 રાજ્યોમાં ભારેથી અતિભારે વરસાદનું એલર્ટ, 60 kmph ઝડપે પવન ફૂંકાશે](https://gujarati.abplive.com/news/india/imd-weather-report-september-23-extremely-heavy-rainfall-today-four-states-storms-speed-of-60-kmph-991858)
-- [ભારતમાં 2026નું પ્રથમ વાવાઝોડું આવી ગયું? જાણો IMDની લેટેસ્ટ અપડેટ અને વરસાદી એલર્ટ](https://www.gujaratsamachar.com/news/national/Deep-Depression-in-Bay-of-Bengal-May-Form-Cyclone-Red-Alert-in-Odisha-40862215660)
-- [Hyundai Bayon: புதிய மிட்-சைஸ் எஸ்யுவிக்கான முன்பதிவை தொடங்கிய ஹுண்டாய் - கட்டணம், விலை, அம்சங்கள், ரைவல்?](https://tamil.abplive.com/auto/hyundai-bayon-bookings-open-in-india-at-rs-11000-ahead-of-launch-know-spec-feat-automobile-news-275393)
-- [পুজোর আগে সুখবর! ১৫ অক্টোবরই মিলবে সরকারি কর্মীদের বেতন](https://eisamay.com/west-bengal-news/kolkata-news/west-bengal-govt-employees-salary-pension-15-october-before-durga-puja/200546292.cms)
+- [बल्ले से आग उगल रहे हैं कुमार कुशाग्र! ऑस्ट्रेलिया 'ए' के खिलाफ ठोका शतक, संकट में फंसी टीम इंडिया को ऐसे उबारा](https://www.aajtak.in/sports/cricket/story/kumar-kushagra-scores-century-in-india-a-vs-australia-a-first-unofficial-test-aksp-dskc-2650885-2026-09-23)
+- [Zelenskyy calls for trilateral meeting with Putin, Trump](https://www.cnbc.com/2026/09/23/ukraine-war-zelenskyy-putin-trump-russia.html)
+- [UN में पाकिस्तान के बिगड़े बोल, भारत को गीदड़भभकी देकर बोले इशाक डार- 'आर्टिकल 370...'](https://www.abplive.com/news/world/pakistan-deputy-prime-minister-ishaq-dar-on-india-article-370-removed-3192683)
+- [BHIM MyUPI వచ్చేసింది.. ఇప్పుడు ఒకేచోట 9 రకాల సర్వీసులు.. తెలుగులో కూడా సేవలు!](https://telugu.samayam.com/business/business-news/bhim-myupi-launched-9-different-services-users-can-access-in-one-place-check-here/articleshow/134428535.cms)
+- [Punjab Breaking: ਸਾਬਕਾ ED ਡਾਇਰੈਕਟੋਰੇਟ ਨਿਰੰਜਨ ਸਿੰਘ ਤੇ ਸਾਬਕਾ DSP ਬਲਵਿੰਦਰ ਸੇਖੋਂ ‘ਵਾਰਿਸ ਪੰਜਾਬ ਦੇ’ ’ਚ ਹੋਏ ਸ਼ਾਮਿਲ](https://wishavwarta.in/punjab-breaking-former-ed-official-niranjan-singh-former-dsp-balwinder-sekhon-join-waris-punjab-de/)
+- [കേരളത്തിൽ ആദ്യം, കെഎസ്ആർടിസിക്ക് ബസ് വാങ്ങി നൽകി അങ്കമാലി സ്വദേശി](https://www.asianetnews.com/kerala-news/first-in-kerala-angamaly-native-buys-and-donates-bus-to-ksrtc-articleshow-ft268y7)
+- [28 വർഷത്തെ കാത്തിരിപ്പിന് അവസാനം; ഏഷ്യൻ ഗെയിംസിൽ വെള്ളിത്തിളക്കവുമായി മീരാബായ് ചാനു ചരിത്രത്തിലേക്ക്](https://www.mathrubhumi.com/sports/features/mirabai-chanu-silver-medal-asian-games-2026-chslnxcl)
+- [Anantapur: ఉపాధ్యాయులపై దాడులను ఖండించిన ఎమ్మెల్యే దగ్గుపాటి ప్రసాద్!](https://www.hmtvlive.com/telugu-news/anantapur/mla-daggupapati-prasad-condemns-attacks-on-teachers-in-anantapur-189641)
+- [8th Pay: 3.25 ફિટમેન્ટ ફેક્ટર, 5% વાર્ષિક પગાર વધારો અને OPS ની માંગ, 3 લાખ કર્મચારીઓને થશે ફાયદો](https://gujarati.abplive.com/news/business/8th-pay-commission-fitment-factor-salary-hike-annual-increment-higher-allowances-and-ops-restoration-demand-991861)
+- [SIR મુદ્દે ચૂંટણી પંચમાં આંતરિક ભૂકંપ, CIC જ્ઞાનેશ કુમાર સામે સાથી કમિશનરોની 14 ગંભીર ફરિયાદ](https://www.gujaratsamachar.com/news/national/ECI-Internal-Crisis-Commissioners-Raise-Objections-Against-CEC-on-Voter-Lists-95704267942)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
