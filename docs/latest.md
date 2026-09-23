@@ -1,41 +1,41 @@
-# India Trending Report — 2026-09-23 21:02:17
+# India Trending Report — 2026-09-23 21:34:04
 
 ## Google Trends (India) — top trending searches
-1. [portugal national football team](https://trends.google.com/trending/rss?geo=IN)
-2. [dow jones](https://trends.google.com/trending/rss?geo=IN)
-3. [new ott releases](https://trends.google.com/trending/rss?geo=IN)
-4. [barcelona vs paris fc](https://trends.google.com/trending/rss?geo=IN)
-5. [saudi arabia vs kuwait](https://trends.google.com/trending/rss?geo=IN)
-6. [अनिल अग्रवाल](https://trends.google.com/trending/rss?geo=IN)
-7. [khabib nurmagomedov](https://trends.google.com/trending/rss?geo=IN)
-8. [paradise movie review](https://trends.google.com/trending/rss?geo=IN)
-9. [khabib](https://trends.google.com/trending/rss?geo=IN)
-10. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
+1. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
+2. [portugal national football team](https://trends.google.com/trending/rss?geo=IN)
+3. [dow jones](https://trends.google.com/trending/rss?geo=IN)
+4. [new ott releases](https://trends.google.com/trending/rss?geo=IN)
+5. [barcelona vs paris fc](https://trends.google.com/trending/rss?geo=IN)
+6. [saudi arabia vs kuwait](https://trends.google.com/trending/rss?geo=IN)
+7. [अनिल अग्रवाल](https://trends.google.com/trending/rss?geo=IN)
+8. [khabib nurmagomedov](https://trends.google.com/trending/rss?geo=IN)
+9. [paradise movie review](https://trends.google.com/trending/rss?geo=IN)
+10. [khabib](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [EC 'dissent' row: Oppn seeks fresh polls, CEC's arrest; BJP lauds 'pure democracy'](https://timesofindia.indiatimes.com/india/ec-dissent-row-opposition-seeks-cecs-arrest-fresh-polls-in-states-bjp-lauds-pure-democracy-top-developments/articleshow/134437472.cms)
 - [Putin's party wins again as expected. So why does Russia still hold elections?](https://timesofindia.indiatimes.com/world/europe/putins-party-wins-again-as-expected-so-why-does-russia-still-hold-elections/articleshow/134435340.cms)
 - [Big US-China meet: Who has the leverage? Five cards Trump, Xi bring to the table](https://timesofindia.indiatimes.com/world/us/who-holds-the-leverage-five-cards-trump-and-xi-bring-to-the-table/articleshow/134434709.cms)
 - [Can Pakistan afford to be the Muslim world's 'security guard'?](https://timesofindia.indiatimes.com/world/pakistan/pakistan-wants-to-be-the-muslim-worlds-security-guard-can-its-economy-pay-the-bill/articleshow/134439616.cms)
-- ['Terrorist' or 'victims of terrorism'? Iran's Pezeshkian takes Trump head-on at UNGA](https://timesofindia.indiatimes.com/world/us/terrorist-or-victims-of-terrorism-irans-pezeshkian-takes-trump-head-on-at-unga/articleshow/134441135.cms)
-- [Why Iran looms large over Trump-Xi talks in White House](https://timesofindia.indiatimes.com/world/us/why-iran-looms-large-over-trump-xi-talks-in-white-house/articleshow/134442548.cms)
 - [DoorDash agrees to $131.5m after payment errors affected 200,000-plus NYC workers](https://timesofindia.indiatimes.com/technology/tech-news/americas-largest-food-delivery-company-doordash-admits-it-underpaid-or-paid-late-to-200000-plus-workers-in-new-york-city-for-over-three-years-will-pay-131-5-million-in-settlement-and-apologises/articleshow/134439134.cms)
-- [J&K elected govt has no say in book ban: Omar Abdullah](https://timesofindia.indiatimes.com/india/jk-elected-govt-has-no-say-in-book-ban-omar-abdullah/articleshow/134444869.cms)
+- [LoP's presence in panel to pick CEC, ECs 'ornamental': SC judge](https://timesofindia.indiatimes.com/india/lops-presence-in-panel-to-pick-cec-ecs-ornamental-sc-judge/articleshow/134445716.cms)
 - [Gadkari urges sugar mills to make CBG; says Rs 22 lakh crore goes abroad for fuel imports](https://timesofindia.indiatimes.com/business/india-business/nitin-gadkari-says-india-is-sending-rs-22-lakh-crore-out-of-country-to-import-petrol-diesel-and-gas-pushes-sugar-mills-to-make-compressed-bio-gas-bio-manure-and-sustainable-aviation-fuel/articleshow/134432994.cms)
-- [Tap water on paper, no proper accounts, says J&K probe panel](https://timesofindia.indiatimes.com/india/tap-water-on-paper-no-proper-accounts-says-jk-probe-panel/articleshow/134445471.cms)
-- ['Int'l system broken': Rubio's msg amid UNGA, says US interests above world order](https://timesofindia.indiatimes.com/world/us/international-system-broken-rubios-stark-message-amid-unga-says-us-interests-above-world-order/articleshow/134442962.cms)
+- [Ensure govt benefits reach all eligible, PM Modi tells mantris](https://timesofindia.indiatimes.com/india/ensure-govt-benefits-reach-all-eligible-pm-modi-tells-mantris/articleshow/134445763.cms)
+- ['Terrorist' or 'victims of terrorism'? Iran's Pezeshkian takes Trump head-on at UNGA](https://timesofindia.indiatimes.com/world/us/terrorist-or-victims-of-terrorism-irans-pezeshkian-takes-trump-head-on-at-unga/articleshow/134441135.cms)
+- [Private retailers start rationing diesel sales](https://timesofindia.indiatimes.com/india/private-retailers-start-rationing-diesel-sales/articleshow/134445769.cms)
 
 **NDTV**
-- [Central Agency Search In Mohali Is Fresh Political Flashpoint In Punjab](https://www.ndtv.com/india-news/central-agency-search-in-mohali-is-fresh-political-flashpoint-in-punjab-12089034#publisher=newsstand)
-- [OpenAI, Anthropic Can Slow Down, No One's Pointing Gun: Sridhar Vembu To NDTV](https://www.ndtv.com/india-news/openai-anthropic-can-slow-down-no-ones-pointing-gun-sridhar-vembu-to-ndtv-12089029#publisher=newsstand)
-- ['Passed Class 10 Before Birth?' Congress Goes To Court Over BJP Nandigram Pick](https://www.ndtv.com/india-news/passed-class-10-before-birth-congress-goes-to-court-over-bjp-nandigram-pick-12089026#publisher=newsstand)
-- ['1 Man, 10 Votes. 2 Men, 0 Votes': Abhishek Singhvi's Dig At Poll Body Chief](https://www.ndtv.com/india-news/abhishek-singhvis-dig-at-poll-body-chief-1-man-10-votes-2-men-0-votes-12088991#publisher=newsstand)
+- [Russia Considering US Invitation For Putin To Attend G20 Meeting](https://www.ndtv.com/world-news/russia-considering-us-invitation-for-vladimir-putin-to-attend-g20-meeting-12089228#publisher=newsstand)
+- [Putin's Envoy To Meet Team Trump In New York Over Ukraine War](https://www.ndtv.com/world-news/putins-envoy-kirill-dmitriev-to-meet-team-trump-in-new-york-over-ukraine-war-12089204#publisher=newsstand)
+- [5 Seconds, 5 Bullets: Men On Bike Shoot At Ex-Councillor In Patna Colony](https://www.ndtv.com/india-news/5-seconds-5-bullets-men-on-bike-shoot-at-ex-councillor-in-patna-colony-12089037#publisher=newsstand)
 - [CCTV Shows Moment When IIT Student Was Stopped During Exam, Pulled Aside](https://www.ndtv.com/india-news/on-camera-iit-bombay-student-sahil-wakode-who-died-by-suicide-stopped-during-exam-pulled-aside-12088050#publisher=newsstand)
-- [Israeli Soldier Injured in West Bank Car Ramming Attack](https://www.ndtv.com/world-news/israeli-soldier-injured-in-west-bank-car-ramming-attack-12089000#publisher=newsstand)
-- [Akali Dal's Rural Re-entry Plan: Harsimrat Badal On Anti-Drugs Campaign](https://www.ndtv.com/india-news/akali-dals-rural-re-entry-plan-harsimrat-badal-on-anti-drugs-campaign-12088998#publisher=newsstand)
-- [Zelensky Urges World Leaders To Choke Russia's Revenues To End War](https://www.ndtv.com/world-news/zelensky-urges-world-leaders-to-choke-russias-revenues-to-end-war-12088994#publisher=newsstand)
-- [Noida District Magistrate Gets Relief, Supreme Court Pauses Rs 5-Lakh Compensation](https://www.ndtv.com/india-news/noida-district-magistrate-medha-roopam-gets-relief-supreme-court-pauses-rs-5-lakh-compensation-12088623#publisher=newsstand)
-- [Trump Invites Putin To G20 Summit In Miami Amid Ukraine War](https://www.ndtv.com/world-news/trump-invites-putin-to-g20-summit-in-miami-amid-ukraine-war-12088899#publisher=newsstand)
+- ["Will Slow Down As Much As Necessary", Says Anthropic CEO Amid Safety Concerns](https://www.ndtv.com/world-news/anthropic-ceo-dario-amodei-says-will-slow-down-ai-amid-safety-concerns-12089114#publisher=newsstand)
+- [2 Cops, Two CRPF Jawans Arrested For 'Gangrape' Of Woman In UP](https://www.ndtv.com/world-news/2-cops-two-crpf-jawan-arrested-for-gangrape-of-woman-in-up-12089082#publisher=newsstand)
+- [High Court Acquits UP Woman Convicted Of Killing Her 3 Children](https://www.ndtv.com/india-news/high-court-acquits-up-woman-convicted-of-killing-her-3-children-12089069#publisher=newsstand)
+- [FBI Cyberattack Exposed Personal, Assignment Details Of Personnel: Report](https://www.ndtv.com/world-news/fbi-cyberattack-exposed-personal-assignment-details-of-personnel-report-12089053#publisher=newsstand)
+- [OpenAI, Anthropic Can Slow Down, No One's Pointing Gun: Sridhar Vembu To NDTV](https://www.ndtv.com/india-news/openai-anthropic-can-slow-down-no-ones-pointing-gun-sridhar-vembu-to-ndtv-12089029#publisher=newsstand)
+- [Rescuer Onboard, UK Far-Right Activist Slashes Migrant Dinghy With Knife](https://www.ndtv.com/world-news/rescuer-onboard-uk-far-right-activist-slashes-migrant-dinghy-with-knife-12089038#publisher=newsstand)
 
 **Hindustan Times**
 - [2 UP cops, 2 CRPF personnel held for 'gangrape' of woman in Amroha](https://www.hindustantimes.com/india-news/2-up-cops-2-crpf-personnel-held-for-gangrape-of-woman-in-amroha-101790188497140.html)
@@ -49,19 +49,10 @@
 - [Three Maoists surrender in Bankura with AK-47, INSAS rifles: West Bengal Police](https://www.hindustantimes.com/india-news/three-maoists-surrender-in-bankura-with-ak-47-insas-rifles-west-bengal-police-101790180361351.html)
 - [India, China have ‘sufficient political, historical wisdom’ to handle differences: Chinese envoy](https://www.hindustantimes.com/india-news/india-china-have-sufficient-political-historical-wisdom-to-handle-differences-chinese-envoy-101790177357441.html)
 
-**Vijay Karnataka**
-- [KMF ನಂದಿನಿ ಹಾಲು ದರ ಹೆಚ್ಚಳಕ್ಕೆ ಸಮ್ಮತಿ; ರೈತರ ಬೇಡಿಕೆಗೆ ಮಣಿದ ಸರ್ಕಾರ! ಗ್ರಾಹಕರಿಗೆ ಪ್ರತಿ ಲೀಟರ್‌ಗೆ 5 ರೂ. ಏರಿಕೆ?](https://vijaykarnataka.com/news/karnataka/approval-granted-for-kmf-nandini-milk-price-hike-government-will-consumers-face-a-hike-of-4-to-5-rs-per-litre/articleshow/134441549.cms)
-- [ರೈತರಿಗೆ ವಿದ್ಯುತ್ ಆಘಾತ: ಕೃಷಿ ಪಂಪ್‌ಸೆಟ್‌ ಗೆ 1 ತಾಸು ವಿದ್ಯುತ್‌ ಕಡಿತ; ಠೇವಣಿ ಕಟ್ಟದ ಐಪಿಗಳ ಸಂಪರ್ಕ ಕಡಿತ ಎಂದ ಸಚಿವ ಜಾರ್ಜ್](https://vijaykarnataka.com/news/karnataka/kj-george-says-1-hour-power-cut-to-farmers-pumpset/articleshow/134442699.cms)
-- [ಶಾಲಿನ ಬಗ್ಗೆ ಕುಶಾಲು ಮಾಡಲು ಹೋಗಿ ಜಗಳ: ವಿಧಾನ ಪರಿಷತ್‌ನಲ್ಲಿ ಗದ್ದಲಕ್ಕೆ ಕಾರಣವಾದ ಹಸಿರು ಶಾಲಿನ ವಿಷಯ!](https://vijaykarnataka.com/news/karnataka/issue-of-green-shawl-cause-uproar-at-legislative-council/articleshow/134443851.cms)
-- [ಹೂವಿನ ಕುಂಡದಲ್ಲಿ ಇರುವೆ ಕಂಡರೆ ಹೀಗೆ ಮಾಡಿ; ಗಿಡಕ್ಕೆ ಹಾನಿಯಾಗದ ನೈಸರ್ಗಿಕ ಪರಿಹಾರಗಳು](https://vijaykarnataka.com/lifestyle/home-decor/how-to-get-rid-of-ants-in-flower-pots-natural-tips/articleshow/134434288.cms)
-- [ನಮ್ಮ ಮೆಟ್ರೋ ಗುಲಾಬಿ ಮಾರ್ಗದ ರೈಲಿಗೆ ರೈಲ್ವೆ ಮಂಡಳಿ ಅನುಮೋದನೆ; ಅಕ್ಟೋಬರ್‌ ಮಧ್ಯದಲ್ಲಿ ಆರಂಭ; 6 ನಿಲ್ದಾಣಗಳ ನಡುವೆ ಸಂಚಾರ](https://vijaykarnataka.com/news/bengaluru-city/railway-board-approves-namma-metro-pink-line-train-operations-to-start-in-mid-october-service-to-run-between-6-stations/articleshow/134441537.cms)
-- [BBK 13: ಕಿರಣ್‌ ಶಾಸ್ತ್ರಿಗೆ ತಾಂಡವ್‌ ಹಿಂಟ್‌ ಕೊಟ್ಟರಾ? ಗೇಮ್‌ನಲ್ಲಿ ನಡಿತಾ ತಾರತಮ್ಯ!](https://vijaykarnataka.com/tv/news/bbk-13-week-3-contestant-tandav-ram-gives-a-hint-to-kiran-shastry-about-pipe-task/articleshow/134444886.cms)
-- [ಪಾರ್ಕ್ ಮಾಡಿದ ಕಾರಿಗೆ ಇಲಿಗಳು ಏಕೆ ಬರುತ್ತವೆ? ತಡೆಯಲು ಈ ನೈಸರ್ಗಿಕ ವಿಧಾನಗಳು ಸಹಕಾರಿ](https://vijaykarnataka.com/lifestyle/home-decor/why-rats-enter-parked-cars-natural-ways-to-keep-rats-away/articleshow/134408701.cms)
-- [ದೇವರ ಕೋಣೆಯ ಮೇಲೆ ಮತ್ತು ಕೆಳಗೆ ಇಡಬಾರದ ವಸ್ತುಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/its-better-to-avoid-to-keep-these-things-on-puja-room/articleshow/134439128.cms)
-- [CDSCO ಎಚ್ಚರಿಕೆ: ಪೇನ್‌ಕಿಲ್ಲರ್, ಆ್ಯಂಟಿಬಯೋಟಿಕ್‌ಗಳ ಅನಗತ್ಯ ಬಳಕೆ; ಕಿಡ್ನಿ ಸಮಸ್ಯೆ ಬಗ್ಗೆ ಎಚ್ಚರ!](https://vijaykarnataka.com/lifestyle/health/cdsco-warning-unnecessary-painkiller-antibiotic-use-side-effects/articleshow/134431451.cms)
-- [VK Real Estate Summit: ಬೆಂಗಳೂರಿನಲ್ಲಿ ಕಾಸಾಗ್ರ್ಯಾಂಡ್‌ ಹೆಜ್ಜೆಗುರುತು: ದಕ್ಷಿಣ ಭಾರತದ ರಿಯಲ್ ಎಸ್ಟೇಟ್ ಬದಲಾವಣೆಯ ಪ್ರತಿಬಿಂಬ](https://vijaykarnataka.com/business/news/vk-real-estate-summit-casagrand-bengaluru-growth-story-reflects-the-changing-face-of-south-india-real-estate-market/articleshow/134440682.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [BSP president Mayawati appoints younger nephew Ishan Anand as new national convener](https://www.thehindu.com/news/national/uttar-pradesh/bsp-president-mayawati-appoints-younger-nephew-ishan-anand-as-new-national-convener/article71500784.ece)
 - [Elephant calf swept away in Teesta rescued by fishermen, reunited with mother](https://www.thehindu.com/news/national/elephant-calf-swept-away-in-teesta-rescued-by-fishermen-reunited-with-mother/article71501503.ece)
 - [Man kills wife and priests in ritual dispute in Azamgarh, later dies in police encounter](https://www.thehindu.com/news/national/uttar-pradesh/man-kills-wife-and-priests-in-ritual-dispute-dies-in-police-encounter/article71498239.ece)
 - [Prepared for another fight, says Hooda, seeks support
@@ -72,7 +63,6 @@ from voters in his Assembly constituency](https://www.thehindu.com/news/national
 - [Eight Meghalaya UDP MLAs join BJP](https://www.thehindu.com/news/national/meghalaya/eight-meghalaya-udp-mlas-join-bjp/article71500995.ece)
 - [Rain batters Srikakulam for second day](https://www.thehindu.com/news/national/andhra-pradesh/rain-batters-srikakulam-for-second-day/article71500370.ece)
 - [Several banks offer rebate on interest rates for green buildings, says expert](https://www.thehindu.com/news/cities/chennai/several-banks-offer-rebate-on-interest-rates-for-green-buildings-says-expert/article71501195.ece)
-- [CPCL looking to be a part of the renewable energy growth journey: H. Shankar](https://www.thehindu.com/news/cities/chennai/cpcl-looking-to-be-a-part-of-the-renewable-energy-growth-journey-h-shankar/article71501107.ece)
 
 **Livemint**
 - [Zelensky at UNGA: ‘Limit Putin's money. Limit his war’ — key takeaways from Ukraine president’s address](https://www.livemint.com/news/world/zelensky-at-unga-limit-putins-money-limit-his-war-key-takeaways-from-ukraine-president-s-address-11790193820244.html)
@@ -126,13 +116,7 @@ from voters in his Assembly constituency](https://www.thehindu.com/news/national
 - [October Festival List 2026: ಅಕ್ಟೋಬರ್ ತಿಂಗಳಲ್ಲಿ ಆಚರಿಸುವ ಹಬ್ಬಗಳ ಪಟ್ಟಿ ಇಲ್ಲಿದೆ](https://tv9kannada.com/spiritual/october-festival-list-2026-here-the-list-of-festivals-celebration-in-october-1241780.html)
 - [ರಾಷ್ಟ್ರ ಪ್ರಶಸ್ತಿ ತಂದು ಗಣಪತಿ ಪಾದಕ್ಕೆ ಅರ್ಪಿಸಿದ ನಟ ಕಾರ್ತಿಕ್ ಆರ್ಯನ್](https://tv9kannada.com/entertainment/bollywood/kartik-aaryan-places-his-first-national-award-at-lalbaugcha-raja-feet-1241848.html)
 
-**Prajavani**
-- [ಚುನಾವಣಾ ಆಯುಕ್ತರ ನೇಮಕ: ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ನಲ್ಲಿ ಭಿನ್ನ ತೀರ್ಪು](https://www.prajavani.net/news/india-news/supreme-court-split-verdict-election-commissioners-appointment-act-4282131)
-- [ವಿಧಾನ ಮಂಡಲ ಅಧಿವೇಶನ | ದಿವಾಳಿ ಸರ್ಕಾರದ ಕುಬೇರ ಮುಖ್ಯಮಂತ್ರಿ:  ಸುನಿಲ್ ಕುಮಾರ್‌](https://www.prajavani.net/news/karnataka-news/karnataka-assembly-debate-bjp-congress-finance-clash-4283075)
-- [ಬರ ನಷ್ಟ ಪರಿಹಾರವಾಗಿ ₹3,705 ಕೋಟಿ ನೆರವು ಕೋರಿ ಕೇಂದ್ರಕ್ಕೆ ಡಿಕೆಶಿ ಮೊರೆ](https://www.prajavani.net/news/karnataka-news/dk-shivakumar-writes-to-pm-modi-seeking-drought-relief-funds-4283083)
-- [ರೇಣುಕಸ್ವಾಮಿ ಕೊಲೆ: ಮಾಫಿ ಸಾಕ್ಷಿ ವಿರೋಧಿಸಿದ್ದ ವಿಜಯಲಕ್ಷ್ಮಿ ದರ್ಶನ್ ಅರ್ಜಿ ವಜಾ](https://www.prajavani.net/news/karnataka-news/high-court-dismisses-vijayalakshmi-darshan-petition-approver-status-4283142)
-- [AK47 ಹಿಡಿದು ಸಾಗುತ್ತಿದ್ದ ಧೈರ್ಯಶಾಲಿ IPS ಅಧಿಕಾರಿ: ಯಾರು ಈ ಸಂಜುಕ್ತಾ ಪರಾಶರ್?](https://www.prajavani.net/news/india-news/sanjukta-parashar-first-woman-to-head-crpf-cobra-unit-biography-4281628)
-- [ಅಲ್ಲು ಅರ್ಜುನ್ ನಟನೆಯ, ಅಟ್ಲಿ ನಿರ್ದೇಶನದ ‘ರಾಕಾ’ ಗಿನ್ನಿಸ್ ವಿಶ್ವ ದಾಖಲೆ](https://www.prajavani.net/entertainment/cinema/allu-arjun-atlee-raaka-movie-guinness-world-record-4278884)
+**Prajavani** — _unavailable_
 
 **eedina**
 - [ಯಾದಗಿರಿ | ಎಸ್‌ಐಆರ್ ವಿರುದ್ಧ ‘ಪರಿಶೋಧನೆ, ಪ್ರತಿರೋಧ’ ಪ್ರವಾಸ: ‘ಅರ್ಹ ಮತದಾರನೊಬ್ಬನೂ ಹೊರಗುಳಿಯಬಾರದು’: ಬಹುಭಾಷ ನಟ ಪ್ರಕಾಶ್ ರೈ](https://eedina.com/?p=765581)
@@ -147,35 +131,35 @@ from voters in his Assembly constituency](https://www.thehindu.com/news/national
 - [ತುಮಕೂರು | ಸಿಂಹಾದ್ರಿ ಹತ್ಯೆ: ಆರೋಪಿಗಳ ಬಂಧನಕ್ಕೆ ಒಳಮೀಸಲಾತಿ ಹೋರಾಟ ಸಮಿತಿ ಆಗ್ರಹ](https://eedina.com/?p=765547)
 
 ## Cross-source trending keywords (derived from headlines above)
-- UNGA (6.5)
+- UNGA (5.2)
 - India (5.2)
+- Russia (3.2)
 - Ukraine (2.9)
-- Russia (2.9)
 - Trump (2.9)
-- Trump-Xi (2.6)
 - Chinese (2.6)
-- White House (2.0)
-- Putin's (1.6)
-- Omar (1.6)
-- Zelensky (1.6)
-- Summit (1.6)
+- Putin's (1.9)
+- Meet (1.6)
+- CRPF (1.6)
 - Rubio (1.6)
 - Limit (1.6)
 - Indian (1.6)
+- Oppn (1.3)
+- CEC's (1.3)
+- Five (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Goa Becomes First State to Adopt Adult Vaccination Policy, Says Health Minister Vishwajit Rane](https://www.heraldgoa.in/goa/goa-becomes-first-state-to-adopt-adult-vaccination-policy-says-health-minister-vishwajit-rane/489770/)
-- [Bank: ఆదివారం బ్యాంకులు ప‌నిచేయ‌నున్నాయి.. కేంద్ర ప్ర‌భుత్వం కీల‌క నిర్ణ‌యం](https://telugu.asianetnews.com/gallery/business/banks-to-remain-open-on-sunday-september-27-ahead-of-three-day-nationwide-strike-ubz5hhu)
-- [Mirabai Chanu: ഏഷ്യൻ ഗെയിംസ് ഭാരദ്വേഹനത്തിൽ ചരിത്രമെഴുതി മീരാബായ് ചാനു; ഇന്ത്യക്ക് വെള്ളിത്തിളക്കം](https://www.asianetnews.com/other-sports/28-years-of-waiting-over-mirabai-chanu-ends-indias-asian-games-drought-with-historic-silver-articleshow-0nya7ma)
-- [ગુજરાતમાં અમીરીની નવી મર્યાદા: ટોપ 1% માટે 30 રૂપિયા લાખ જરૂરી](https://www.gujaratsamachar.com/news/ahmedabad/new-wealth-limit-in-gujarat-rs-30-lakh-required-for-top-1percent-95933051035)
-- [State Govt Salary: পুজোর আগে রাজ্য সরকারি কর্মীদের জন্য সুখবর, মাসের মাঝখানেই পাওয়া যাবে বেতন, পেনশন!](https://bengali.abplive.com/district/state-govt-going-to-give-salary-mid-month-of-durga-puja-big-news-district-news-update-bjp-1193897)
-- [ICC रैंकिंग में जमकर फेरबदल, श्रेयस अय्यर ने लगाई छलांंग और ईशान किशन का नुकसान; हैरी ब्रूक टॉप 5 में पहुंचे](https://www.livehindustan.com/cricket/shreyas-iyer-makes-a-big-jump-in-latest-icc-t20i-rankings-harry-brooke-enters-top-5-ishan-kishan-loses-ratings-201790151624577.html)
-- [बैंक हड़ताल से पहले बड़ी राहत:रविवार को खुले रहेंगे देश के सभी बैंक, वित्त मंत्रालय और आरबीआई का बड़ा फैसला](https://www.amarujala.com/business/business-diary/banks-to-remain-open-on-sunday-sept-27-ahead-of-proposed-3-day-nationwide-strike-2026-09-23)
-- [క్రికెటర్‌ కాబోయి.. ‘సాఫ్ట్‌’గా పతకం పట్టేసి: ఆసియా గేమ్స్‌లో మీనా చరిత్ర](https://www.eenadu.net/telugu-news/sports/who-is-jay-meena-he-india-1st-soft-tennis-bronze-at-asian-games/0401/126172155)
-- [चुनाव आयुक्तों की नियुक्ति पर SC का बंटा फैसला, कहा- बड़ी बेंच पर CJI लें निर्णय](https://www.abplive.com/news/india/supreme-court-verdict-on-election-commissioners-appointment-over-replacing-cji-with-cabinet-minister-3192660)
-- [अमेरिका का Ego हर्ट, ईरान ने 47 MQ-9 रीपर ड्रोन तबाह किए, जेट भी... ट्रंप के गुस्से की असली कहानी](https://www.aajtak.in/defence-news/story/visualization-reveals-scale-of-us-aircraft-losses-in-iran-war-dskc-2650991-2026-09-23)
+- [October Grah Gochar 2026: ઓક્ટોબરમાં બદલાશે ગ્રહોની ચાલ, આ 4 રાશિઓનું ખુલી જશે ભાગ્ય](https://www.gujaratfirst.com/dharmbhakti/october-grah-gochar-2026-planetary-transits-leo-jupiter-enter-leo-mesh-rashi-gujarat-first/341227/)
+- [கிரிக்கெட்டில் புதிய மைல்கல்... சச்சினின் சாதனையை உடைத்த ஜோ ரூட்](https://www.dailythanthi.com/sports/cricket/a-new-milestone-in-cricket-joe-root-breaks-sachins-record)
+- [BJP Prabhari list: भाजपने भाकरी फिरवली, संघटनेत सर्वात मोठा खांदेपालट, महाराष्ट्रातील चार नेत्यांना मोठी जबाबदारी](https://marathi.abplive.com/news/politics/bjp-announce-new-prabhari-and-sah-prabhari-list-make-big-changes-in-party-maharashtra-vinod-tawde-medha-kulkarni-smriti-irani-amit-malviya-marathi-news-1439997)
+- [બંધારણે બતાવેલા રસ્તા પર ચાલો, સમાનતાના આદર્શને અપનાવો: MSUના કોન્વોકેશનમાં રાષ્ટ્રપતિનો સંદેશ](https://www.gujaratsamachar.com/news/baroda/walk-on-the-path-shown-by-the-constitution-embrace-the-ideal-of-equality-presidents-message-to-youth-at-msu-convocation-91903579484)
+- [CEC और चुनाव आयुक्तों की नियुक्ति से जुड़े कानून की वैधता पर SC का फैसला बंटा, क्या है पूरा मामला?](https://www.jagran.com/news/national-supreme-court-delivers-a-split-verdict-on-appointment-of-cec-and-election-commissioners-40382495.html)
+- [கிராப்ட் பேப்பர் விலை தொடர்ந்து உயர்வு அட்டை பெட்டி உற்பத்தி பாதிப்பு](https://www.dinakaran.com/news/kraft-paper-prices-cardboard-production-affected/)
+- [IND vs WI Odi: ഇന്ത്യൻ ടീം വെെകിട്ട് തിരുവനന്തപുരത്ത് എത്തും, സഞ്ജുവിന്റെ തട്ടകത്തിൽ പരിശീലനം; കസറാൻ കോഹ്ലിയും രോഹിത്തും](https://malayalam.samayam.com/sports/cricket/news/ind-vs-wi-odi-indian-cricket-team-start-practice-on-tomorrow-in-sanju-samsons-home-ground-karyavattom-stadium/articleshow/134430793.cms)
+- [Devendra Fadnavis | दोन दिवसांत दुष्काळाचा जीआर; शेतकऱ्यांना सरसकट मदत : मुख्यमंत्री फडणवीस](https://pudhari.news/maharashtra/marathwada/latur/devendra-fadnavis-announces-drought-gr-and-all-inclusive-farmer-aid-in-latur-as80)
+- [शिवसेना फुटीपेक्षा डेंजर खेळी; भाजपनं सत्तेतला वाटेकरी पक्षच फोडला; विधानसभेत (नंबर)गेम फिरला](https://maharashtratimes.com/india-news/major-political-shift-in-meghalaya-as-8-sitting-udp-mlas-join-bjp-party-strength-rises-to-10/articleshow/134430373.cms)
+- [Banks to remain open on Sunday for customers’ convenience in view of proposed nationwide strike](https://www.thehindu.com/news/national/banks-to-remain-open-on-sunday-for-customers-convenience-in-view-of-proposed-nationwide-strike/article71499133.ece)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
