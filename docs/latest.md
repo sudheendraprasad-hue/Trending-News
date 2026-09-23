@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-23 20:34:31
+# India Trending Report — 2026-09-23 21:02:17
 
 ## Google Trends (India) — top trending searches
-1. [dow jones](https://trends.google.com/trending/rss?geo=IN)
-2. [new ott releases](https://trends.google.com/trending/rss?geo=IN)
-3. [barcelona vs paris fc](https://trends.google.com/trending/rss?geo=IN)
-4. [saudi arabia vs kuwait](https://trends.google.com/trending/rss?geo=IN)
-5. [अनिल अग्रवाल](https://trends.google.com/trending/rss?geo=IN)
-6. [khabib nurmagomedov](https://trends.google.com/trending/rss?geo=IN)
-7. [paradise movie review](https://trends.google.com/trending/rss?geo=IN)
-8. [khabib](https://trends.google.com/trending/rss?geo=IN)
-9. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
-10. [the love hypothesis](https://trends.google.com/trending/rss?geo=IN)
+1. [portugal national football team](https://trends.google.com/trending/rss?geo=IN)
+2. [dow jones](https://trends.google.com/trending/rss?geo=IN)
+3. [new ott releases](https://trends.google.com/trending/rss?geo=IN)
+4. [barcelona vs paris fc](https://trends.google.com/trending/rss?geo=IN)
+5. [saudi arabia vs kuwait](https://trends.google.com/trending/rss?geo=IN)
+6. [अनिल अग्रवाल](https://trends.google.com/trending/rss?geo=IN)
+7. [khabib nurmagomedov](https://trends.google.com/trending/rss?geo=IN)
+8. [paradise movie review](https://trends.google.com/trending/rss?geo=IN)
+9. [khabib](https://trends.google.com/trending/rss?geo=IN)
+10. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -20,8 +20,8 @@
 - ['Terrorist' or 'victims of terrorism'? Iran's Pezeshkian takes Trump head-on at UNGA](https://timesofindia.indiatimes.com/world/us/terrorist-or-victims-of-terrorism-irans-pezeshkian-takes-trump-head-on-at-unga/articleshow/134441135.cms)
 - [Why Iran looms large over Trump-Xi talks in White House](https://timesofindia.indiatimes.com/world/us/why-iran-looms-large-over-trump-xi-talks-in-white-house/articleshow/134442548.cms)
 - [DoorDash agrees to $131.5m after payment errors affected 200,000-plus NYC workers](https://timesofindia.indiatimes.com/technology/tech-news/americas-largest-food-delivery-company-doordash-admits-it-underpaid-or-paid-late-to-200000-plus-workers-in-new-york-city-for-over-three-years-will-pay-131-5-million-in-settlement-and-apologises/articleshow/134439134.cms)
-- [George Floyd’s siblings seek accounting of $14.7m memorial GoFundMe](https://timesofindia.indiatimes.com/world/us/in-2020-george-floyds-memorial-gofundme-raised-14-7-million-six-years-later-three-of-his-siblings-are-asking-brother-philonise-for-a-full-accounting-of-the-fundraiser-and-its-distributions/articleshow/134433362.cms)
 - [J&K elected govt has no say in book ban: Omar Abdullah](https://timesofindia.indiatimes.com/india/jk-elected-govt-has-no-say-in-book-ban-omar-abdullah/articleshow/134444869.cms)
+- [Gadkari urges sugar mills to make CBG; says Rs 22 lakh crore goes abroad for fuel imports](https://timesofindia.indiatimes.com/business/india-business/nitin-gadkari-says-india-is-sending-rs-22-lakh-crore-out-of-country-to-import-petrol-diesel-and-gas-pushes-sugar-mills-to-make-compressed-bio-gas-bio-manure-and-sustainable-aviation-fuel/articleshow/134432994.cms)
 - [Tap water on paper, no proper accounts, says J&K probe panel](https://timesofindia.indiatimes.com/india/tap-water-on-paper-no-proper-accounts-says-jk-probe-panel/articleshow/134445471.cms)
 - ['Int'l system broken': Rubio's msg amid UNGA, says US interests above world order](https://timesofindia.indiatimes.com/world/us/international-system-broken-rubios-stark-message-amid-unga-says-us-interests-above-world-order/articleshow/134442962.cms)
 
@@ -62,17 +62,17 @@
 - [VK Real Estate Summit: ಬೆಂಗಳೂರಿನಲ್ಲಿ ಕಾಸಾಗ್ರ್ಯಾಂಡ್‌ ಹೆಜ್ಜೆಗುರುತು: ದಕ್ಷಿಣ ಭಾರತದ ರಿಯಲ್ ಎಸ್ಟೇಟ್ ಬದಲಾವಣೆಯ ಪ್ರತಿಬಿಂಬ](https://vijaykarnataka.com/business/news/vk-real-estate-summit-casagrand-bengaluru-growth-story-reflects-the-changing-face-of-south-india-real-estate-market/articleshow/134440682.cms)
 
 **The Hindu**
+- [Elephant calf swept away in Teesta rescued by fishermen, reunited with mother](https://www.thehindu.com/news/national/elephant-calf-swept-away-in-teesta-rescued-by-fishermen-reunited-with-mother/article71501503.ece)
 - [Man kills wife and priests in ritual dispute in Azamgarh, later dies in police encounter](https://www.thehindu.com/news/national/uttar-pradesh/man-kills-wife-and-priests-in-ritual-dispute-dies-in-police-encounter/article71498239.ece)
 - [Prepared for another fight, says Hooda, seeks support
 from voters in his Assembly constituency](https://www.thehindu.com/news/national/haryana/prepared-for-another-fight-says-hooda-seeks-support-from-voters-in-his-assembly-constituency/article71500848.ece)
 - [Minister in CEC-EC selection panel fails ‘perception test’, says Justice Datta in split verdict](https://www.thehindu.com/news/national/minister-in-cec-ec-selection-panel-fails-perception-test-says-justice-datta-in-split-verdict/article71499280.ece)
-- [Elephant calf swept away in Teesta rescued by fishermen, reunited with mother](https://www.thehindu.com/news/national/elephant-calf-swept-away-in-teesta-rescued-by-fishermen-reunited-with-mother/article71501503.ece)
+- [Omar, Mehbooba flag differences within ECI, seek course correction](https://www.thehindu.com/news/national/jammu-and-kashmir/omar-mehbooba-flag-differences-within-eci-seek-course-correction/article71499694.ece)
 - [Priyanka Gandhi meets flood victims, workers in Nilambur](https://www.thehindu.com/news/national/kerala/priyanka-gandhi-meets-flood-victims-workers-in-nilambur/article71500629.ece)
 - [Eight Meghalaya UDP MLAs join BJP](https://www.thehindu.com/news/national/meghalaya/eight-meghalaya-udp-mlas-join-bjp/article71500995.ece)
 - [Rain batters Srikakulam for second day](https://www.thehindu.com/news/national/andhra-pradesh/rain-batters-srikakulam-for-second-day/article71500370.ece)
 - [Several banks offer rebate on interest rates for green buildings, says expert](https://www.thehindu.com/news/cities/chennai/several-banks-offer-rebate-on-interest-rates-for-green-buildings-says-expert/article71501195.ece)
 - [CPCL looking to be a part of the renewable energy growth journey: H. Shankar](https://www.thehindu.com/news/cities/chennai/cpcl-looking-to-be-a-part-of-the-renewable-energy-growth-journey-h-shankar/article71501107.ece)
-- [The Hindu Sustainability Summit: ‘Treat waste water as an economic resource’](https://www.thehindu.com/news/cities/chennai/the-hindu-sustainability-summit-treat-waste-water-as-an-economic-resource/article71500702.ece)
 
 **Livemint**
 - [Zelensky at UNGA: ‘Limit Putin's money. Limit his war’ — key takeaways from Ukraine president’s address](https://www.livemint.com/news/world/zelensky-at-unga-limit-putins-money-limit-his-war-key-takeaways-from-ukraine-president-s-address-11790193820244.html)
@@ -149,7 +149,6 @@ from voters in his Assembly constituency](https://www.thehindu.com/news/national
 ## Cross-source trending keywords (derived from headlines above)
 - UNGA (6.5)
 - India (5.2)
-- Summit (2.9)
 - Ukraine (2.9)
 - Russia (2.9)
 - Trump (2.9)
@@ -157,25 +156,26 @@ from voters in his Assembly constituency](https://www.thehindu.com/news/national
 - Chinese (2.6)
 - White House (2.0)
 - Putin's (1.6)
+- Omar (1.6)
 - Zelensky (1.6)
+- Summit (1.6)
 - Rubio (1.6)
 - Limit (1.6)
 - Indian (1.6)
-- Five (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Big Boss Bangla: আহত সৃজলা, রোষের মুখে নন্দিনী! 'দয়া করে মানবিকতা দিয়ে বিষয়টা..', কী আবেদন করা হল নন্দিনীর টিমের তরফ থেকে?](https://bengali.abplive.com/entertainment/nandini-dutta-team-requested-not-to-spread-negativity-over-srijla-injury-issue-in-big-boss-bangla-entertainment-news-tollywood-1193895)
-- [India vs Japan: জাপানের বিরুদ্ধে ভারতের নাটকীয় জয়ের পর অক্ষরের ওয়াইড বল নিয়ে তুঙ্গে বিতর্ক, কী বলছে নিয়ম?](https://bengali.abplive.com/sports/cricket/india-vs-japan-reversal-of-a-wide-ball-in-the-final-over-by-axar-patel-stirs-controversy-ahead-of-asian-games-1193894)
-- [NASA SpaceX Crew-13 Mission Launch](https://www.bhaskarenglish.in/tech-science/news/nasa-spacex-crew-13-mission-launch-florida-iss-139121362.html)
-- [દક્ષિણ આફ્રિકાના ડરબનમાં એક ઘરમાં ઘૂસીને અંધાધૂંધ ગોળીબાર](https://gujarati.indianexpress.com/news/indiscriminate-shooting-after-breaking-into-a-house-in-durban-south-africa-ap-12567311)
-- [SIR મામલે ચૂંટણી કમિશનરો વચ્ચે મતભેદોના 'અહેવાલ'થી રાજકારણ ગરમાયું, શું છે સમગ્ર મામલો?](https://www.bbc.com/gujarati/articles/c8zxzqr0dwdvo)
-- [ఈనెల 28 నుంచి 30 వరకు బ్యాంకులు బంద్.. ఆదివారం పని చేస్తాయి..](https://www.andhrajyothy.com/2026/business/bank-strike-september-28-30-sbi-canara-bank-services-to-be-affected-sgr-1560623.html)
-- [Gautam Adani reclaims top spot as India’s richest, edges out Mukesh Ambani: Hurun Rich List](https://economictimes.indiatimes.com/news/company/corporate-trends/gautam-adani-reclaims-top-spot-as-indias-richest-edges-out-mukesh-ambani/articleshow/134429510.cms?from=mdr)
-- [ईशान आनंद बनाए गए BSP के राष्ट्रीय संयोजक, मायावती का बड़ा ऐलान, इन दो नेताओं से सीखने को कहा](https://navbharattimes.indiatimes.com/state/uttar-pradesh/lucknow/ishan-anand-appointed-bsp-national-coordinator-mayawati-announcement/articleshow/134429473.cms)
-- [रविवार को भी खुलेंगे बैंक, हड़ताल से पहले सरकार का बड़ा फैसला](https://www.abplive.com/business/banks-to-remain-open-on-sunday-too-government-major-decision-ahead-of-3-day-strike-3192694)
-- [देशातील आणखी एक पक्ष फुटला; मित्रपक्षाचेच आठ आमदार भाजपच्या गळाला, रात्रीत फिरली चक्रं Meghalaya UDP Split](https://sarkarnama.esakal.com/desh/bjp-assembly-strength-meghalaya-udp-eight-mlas-join-10-rm82)
+- [Goa Becomes First State to Adopt Adult Vaccination Policy, Says Health Minister Vishwajit Rane](https://www.heraldgoa.in/goa/goa-becomes-first-state-to-adopt-adult-vaccination-policy-says-health-minister-vishwajit-rane/489770/)
+- [Bank: ఆదివారం బ్యాంకులు ప‌నిచేయ‌నున్నాయి.. కేంద్ర ప్ర‌భుత్వం కీల‌క నిర్ణ‌యం](https://telugu.asianetnews.com/gallery/business/banks-to-remain-open-on-sunday-september-27-ahead-of-three-day-nationwide-strike-ubz5hhu)
+- [Mirabai Chanu: ഏഷ്യൻ ഗെയിംസ് ഭാരദ്വേഹനത്തിൽ ചരിത്രമെഴുതി മീരാബായ് ചാനു; ഇന്ത്യക്ക് വെള്ളിത്തിളക്കം](https://www.asianetnews.com/other-sports/28-years-of-waiting-over-mirabai-chanu-ends-indias-asian-games-drought-with-historic-silver-articleshow-0nya7ma)
+- [ગુજરાતમાં અમીરીની નવી મર્યાદા: ટોપ 1% માટે 30 રૂપિયા લાખ જરૂરી](https://www.gujaratsamachar.com/news/ahmedabad/new-wealth-limit-in-gujarat-rs-30-lakh-required-for-top-1percent-95933051035)
+- [State Govt Salary: পুজোর আগে রাজ্য সরকারি কর্মীদের জন্য সুখবর, মাসের মাঝখানেই পাওয়া যাবে বেতন, পেনশন!](https://bengali.abplive.com/district/state-govt-going-to-give-salary-mid-month-of-durga-puja-big-news-district-news-update-bjp-1193897)
+- [ICC रैंकिंग में जमकर फेरबदल, श्रेयस अय्यर ने लगाई छलांंग और ईशान किशन का नुकसान; हैरी ब्रूक टॉप 5 में पहुंचे](https://www.livehindustan.com/cricket/shreyas-iyer-makes-a-big-jump-in-latest-icc-t20i-rankings-harry-brooke-enters-top-5-ishan-kishan-loses-ratings-201790151624577.html)
+- [बैंक हड़ताल से पहले बड़ी राहत:रविवार को खुले रहेंगे देश के सभी बैंक, वित्त मंत्रालय और आरबीआई का बड़ा फैसला](https://www.amarujala.com/business/business-diary/banks-to-remain-open-on-sunday-sept-27-ahead-of-proposed-3-day-nationwide-strike-2026-09-23)
+- [క్రికెటర్‌ కాబోయి.. ‘సాఫ్ట్‌’గా పతకం పట్టేసి: ఆసియా గేమ్స్‌లో మీనా చరిత్ర](https://www.eenadu.net/telugu-news/sports/who-is-jay-meena-he-india-1st-soft-tennis-bronze-at-asian-games/0401/126172155)
+- [चुनाव आयुक्तों की नियुक्ति पर SC का बंटा फैसला, कहा- बड़ी बेंच पर CJI लें निर्णय](https://www.abplive.com/news/india/supreme-court-verdict-on-election-commissioners-appointment-over-replacing-cji-with-cabinet-minister-3192660)
+- [अमेरिका का Ego हर्ट, ईरान ने 47 MQ-9 रीपर ड्रोन तबाह किए, जेट भी... ट्रंप के गुस्से की असली कहानी](https://www.aajtak.in/defence-news/story/visualization-reveals-scale-of-us-aircraft-losses-in-iran-war-dskc-2650991-2026-09-23)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
