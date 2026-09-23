@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-22 23:33:04
+# India Trending Report — 2026-09-23 00:02:28
 
 ## Google Trends (India) — top trending searches
-1. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
-2. [the paradise](https://trends.google.com/trending/rss?geo=IN)
-3. [real madrid vs psg](https://trends.google.com/trending/rss?geo=IN)
-4. [leicester city vs fulham u-21](https://trends.google.com/trending/rss?geo=IN)
-5. [nations league](https://trends.google.com/trending/rss?geo=IN)
-6. [airbnb](https://trends.google.com/trending/rss?geo=IN)
-7. [taylor swift](https://trends.google.com/trending/rss?geo=IN)
-8. [opus 5.5](https://trends.google.com/trending/rss?geo=IN)
-9. [বঙ্গোপসাগর](https://trends.google.com/trending/rss?geo=IN)
-10. [कर्मचारी](https://trends.google.com/trending/rss?geo=IN)
+1. [weather report](https://trends.google.com/trending/rss?geo=IN)
+2. [ప్రపంచ రికార్డు](https://trends.google.com/trending/rss?geo=IN)
+3. [పాఠశాల](https://trends.google.com/trending/rss?geo=IN)
+4. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
+5. [the paradise](https://trends.google.com/trending/rss?geo=IN)
+6. [real madrid vs psg](https://trends.google.com/trending/rss?geo=IN)
+7. [leicester city vs fulham u-21](https://trends.google.com/trending/rss?geo=IN)
+8. [nations league](https://trends.google.com/trending/rss?geo=IN)
+9. [airbnb](https://trends.google.com/trending/rss?geo=IN)
+10. [taylor swift](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -21,11 +21,13 @@
 - [In a first, US F-35 fighters to take part in IAF exercise](https://timesofindia.indiatimes.com/defence/news/in-a-first-uss-5th-gen-stealth-jet-f-35-to-take-part-in-iafs-multinational-exercise-tarang-shakti/articleshow/134423102.cms)
 - [MediaTek targets Qualcomm's fortress with an unmatched new weapon](https://timesofindia.indiatimes.com/technology/tech-news/mediatek-seems-ready-to-storm-into-qualcomms-biggest-fortress-and-with-a-weapon-that-american-chip-maker-still-has-no-answer-to/articleshow/134412852.cms)
 - [The China+1 question: Does India lose if Trump and Xi make peace?](https://timesofindia.indiatimes.com/business/india-business/from-chips-to-china1-five-reasons-india-should-watch-trump-xi-handshake/articleshow/134411510.cms)
-- [Gold jumps 60% to Rs 1.57L from Rs 98,000 a year ago; sales fall 15%, coins gain](https://timesofindia.indiatimes.com/business/india-business/gold-prices-surge-60-from-rs-98000-to-rs-1-57-lakh-per-10-grams-in-a-year-ganesh-chaturthi-sales-fall-15-as-buyers-switch-to-lighter-jewellery-also-buy-coins/articleshow/134405905.cms)
+- [Heavy LHB bogie corrosion worries Railways; toilet leaks, saline air blamed](https://timesofindia.indiatimes.com/business/india-business/heavy-corrosion-in-lhb-train-coach-bogies-despite-improved-materials-worries-railway-engineers-toilet-leaks-cleaning-chemicals-and-saline-air-blamed-railway-board-orders-special-safety-checks/articleshow/134406709.cms)
 - [US approves $425 million sale of MH-60R Seahawk helicopters and equipments to Denmark](https://timesofindia.indiatimes.com/defence/international/us-approves-425-million-sale-of-mh-60r-seahawk-helicopters-and-equipments-to-denmark/articleshow/134418132.cms)
 - [Exorbitant pricing of drugs is ‘extortion': Supreme Court](https://timesofindia.indiatimes.com/india/exorbitant-pricing-of-drugs-is-extortion-supreme-court/articleshow/134423165.cms)
 
 **NDTV**
+- [Two Cops Found Dead Inside Car In Jammu And Kashmir](https://www.ndtv.com/india-news/two-cops-found-dead-inside-car-in-jammu-and-kashmir-12083941#publisher=newsstand)
+- ["You Should Not Be Here": Trump Scolds CNN Journalist At UN Amid Row](https://www.ndtv.com/world-news/donald-trump-scolds-cnn-journalist-kaitlan-collins-at-un-amid-row-12083923#publisher=newsstand)
 - [Anthropic Launches New Version Of Its Claude Amid Global AI Slowdown Calls](https://www.ndtv.com/world-news/anthropic-launches-new-version-of-its-claude-amid-global-ai-slowdown-calls-12083903#publisher=newsstand)
 - [US Treasury Chief Scott Bessent Could Become Trump's New AI Adviser: Report](https://www.ndtv.com/world-news/us-treasury-chief-scott-bessent-could-become-trumps-new-ai-adviser-report-12083885#publisher=newsstand)
 - [Iran's Araghchi Meets US Envoy Witkoff, Sets Conditions For Hormuz Reopening](https://www.ndtv.com/world-news/irans-araghchi-meets-us-envoy-witkoff-sets-conditions-for-hormuz-reopening-12083797#publisher=newsstand)
@@ -34,8 +36,6 @@
 - [After Threatening To "Annihilate" Iran, Trump Reveals "Good" Talks Happened](https://www.ndtv.com/world-news/after-threatening-to-annihilate-iran-trump-reveals-good-talks-happened-12083617#publisher=newsstand)
 - [Explainer: What Is In US-Greenland-Denmark Security Deal?](https://www.ndtv.com/world-news/explainer-what-is-in-us-greenland-denmark-security-deal-12083629#publisher=newsstand)
 - [Man Shoots Wife, 2 Priests In UP's Azamgarh, Takes 2 Children Hostage](https://www.ndtv.com/india-news/man-shoots-wife-2-priests-in-ups-azamgarh-takes-2-children-hostage-12083575#publisher=newsstand)
-- [After Months Of Tension, Trump Signs Security Deal With Denmark, Greenland](https://www.ndtv.com/world-news/after-months-of-tension-trump-signs-security-deal-with-denmark-greenland-12083580#publisher=newsstand)
-- [Trump Renames AI To "Super Intelligence", Says 'Artificial' Sounds Fake](https://www.ndtv.com/world-news/us-to-call-ai-super-intelligence-donald-trump-says-artificial-makes-it-sound-fake-12083194#publisher=newsstand)
 
 **Hindustan Times**
 - ['US shouldn't punish India, global markets over Russian oil': JPMorgan chief Jamie Dimon](https://www.hindustantimes.com/india-news/us-shouldnt-punish-india-global-markets-over-russian-oil-jpmorgan-chase-chief-jamie-dimon-new-us-russia-sanctions-bill-101790096632204.html)
@@ -100,13 +100,14 @@
 - [ಮಂಗಳೂರು: ಲೋಕಾಯುಕ್ತ ಬಲೆಗೆ ಬಿದ್ದ ಇನ್ಸ್‌ಪೆಕ್ಟರ್‌ಗೆ ನ್ಯಾಯಾಂಗ ಬಂಧನ](https://www.varthabharati.in/DakshinaKannada/--2277205)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (5.4)
+- Trump (5.1)
 - Iran (3.9)
 - UNGA (3.9)
 - What (2.9)
 - Govt (2.6)
+- Kashmir (2.6)
 - India (1.6)
-- Denmark (1.6)
+- Here (1.6)
 - Odisha (1.6)
 - Delhi (1.6)
 - Told (1.3)
@@ -114,21 +115,20 @@
 - IIT-B (1.3)
 - Courts (1.3)
 - MediaTek (1.3)
-- Qualcomm's (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [ਸ੍ਰੀ ਅਨੰਦਪੁਰ ਸਾਹਿਬ ਨਾਲ ਸਬੰਧਤ ਮਾਮਲੇ ਦੀ ਗੰਭੀਰਤਾ ਨਾਲ ਜਾਂਚ ਲਈ ਸ਼੍ਰੋਮਣੀ ਕਮੇਟੀ ਪ੍ਰਧਾਨ ਵੱਲੋਂ ਕਮੇਟੀ ਗਠਿਤ](https://wishavwarta.in/sgpc-constitutes-a-committee-to-thoroughly-investigate-matter-related-to-sri-anandpur-sahib/)
+- [कप्तान श्रेयस अय्यर ने पकड़ी अंपायर की गलती और बच गई भारतीय टीम, जापान T20I में अक्षर पटेल हो गए थे नाराज](https://www.livehindustan.com/cricket/captain-shreyas-iyer-pointed-out-umpire-mistake-to-save-team-india-axar-patel-was-upset-vs-japan-t20i-last-over-video-201790075705372.html)
+- [134 दिन में दूसरी बार क्यों मिल रहे हैं दुनिया के दो ताक़तवर राष्ट्रपति?](https://www.bbc.com/hindi/articles/cxddvpp0qezpo)
+- [न्यूयॉर्क पहुंचे पाकिस्तानी पीएम शहबाज शरीफ की अंतरराष्ट्रीय बेइज्जती, चोर-चोर के पोस्टर से पटी सड़क, VIDEO](https://www.aajtak.in/world/story/pakistan-pm-shahbaz-sharif-protest-economic-crisis-expensive-aircraft-new-york-ntcpvp-dskc-2650187-2026-09-22)
+- [మలయాళంలో మరో సర్‌ప్రైజ్‌ హిట్‌.. రూ.25 కోట్లు దాటిన థ్రిల్లర్‌ సినిమా](https://www.eenadu.net/telugu-news/movies/pradhama-drishtya-kuttakkar-hitting-rs-25-cr/0201/126171461)
+- [Breaking News Asian Games 2026: પહેલા અમ્પાયર સાથે દલીલ, પછી રોમાંચક જીત… ભારત-જાપાન મેચમાં હાઈ-વોલ્ટેજ ડ્રામા](https://tv9gujarati.com/photo-gallery/cricket-photos/breaking-news-asian-games-2026-ind-vs-jpn-no-ball-controversy-high-voltage-drama-1520244.html)
+- [மத்திய அரசு புதிய கெடு](https://kalkionline.com/news/mobile-screen-guard-bis-standards-april-2027-india)
+- [संयुक्त राष्ट्र महासभा में हिस्सा लेंगे ईरानी राष्ट्रपति, अमेरिका ने होटल से बाहर जाने पर लगाई रोक](https://www.jagran.com/world/america-iran-president-pezeshkian-faces-us-restrictions-at-unga-40381470.html)
 - [Yatharth Hospital launches memory clinic](https://www.expresshealthcare.in/news/yatharth-hospital-launches-memory-clinic/455238/)
 - [झाड़ी में छिपे आरोपी... जहां हुआ जमुई कांड के आरोपियों का एनकाउंटर, वहां पहुंचा आजतक](https://www.aajtak.in/bihar/story/jamui-girl-eve-teasing-ground-report-hare-ram-yadav-nandan-yadav-ntcppl-dskc-2650160-2026-09-22)
-- [Asian Games 2026 India medallists: চলতি এশিয়ান গেমসে ভারত এখনও পর্যন্ত মোট কতগুলো পদক জিতেছে? দেখে নিন পূর্ণাঙ্গ তালিকা](https://bengali.indianexpress.com/sports/asian-games-2026-india-medallists-full-list-aichi-nagoya-12564496)
-- [Do we really have two brains? Stanford research offers a surprising answer](https://indianexpress.com/article/lifestyle/health/stanford-study-brain-two-different-organs-improve-research-10888995/)
-- [বিশ্বের সবথেকে বেশি বিক্রি হওয়া গাড়ির কথা জানেন?](https://eisamay.com/photo-gallery/most-sold-car-in-the-world-toyota-corolla/200545873.cms)
-- [தபால் வாக்கு சேகரிப்பு தொடங்கியது](https://www.tamilmurasu.com.sg/tamilnadu/election-postal-vote-collection-work-has-begun)
-- [North Bengal News: মূর্তি নদীর উপর নতুন ব্রিজ চালু, জলপাইগুড়ি থেকে যাতায়াতে](https://bangla.aajtak.in/west-bengal/north-bengal-news/story/new-murti-bridge-nagrakata-jalpaiguri-connectivity-north-bengal-tourism-prb-1453913-2026-09-22)
-- ['सवाल यह नहीं है कि कब...' बांग्लादेश वापसी पर शेख हसीना का बड़ा बयान, 'कैसे' ने बढ़ाया सस्पेंस](https://www.livehindustan.com/national/sheikh-hasina-interview-question-is-not-when-but-rather-how-return-to-bangladesh-201790075516417.html)
-- [Abhishek Sharma Record: अभिषेक शर्माचा नकोसा विक्रम! Golden Duckवर OUT होताच रोहित शर्माला टाकलं मागे](https://www.loksatta.com/krida/ind-vs-jap-abhishek-sharma-named-unwanted-record-after-got-out-on-golden-duck-breaks-rohit-sharma-record-amd-2000-6149927/)
-- [Before CRISPR, there was VIPR. It is a new gene-editing tool](https://theprint.in/science/crispr-vipr-uc-berkley-gene-editing/3049952/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
