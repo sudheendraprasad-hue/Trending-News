@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-23 22:33:49
+# India Trending Report — 2026-09-23 23:01:36
 
 ## Google Trends (India) — top trending searches
 1. [mirabai chanu](https://trends.google.com/trending/rss?geo=IN)
@@ -14,16 +14,16 @@
 
 ## Latest headlines by outlet
 **Times of India**
+- [Xi Jinping arrives in Washington as Trump gives rare airport welcome to kick off US state visit](https://timesofindia.indiatimes.com/world/us/xi-jinping-arrives-in-washington-as-trump-gives-rare-airport-welcome-to-kick-off-us-state-visit-top-developments/articleshow/134448382.cms)
 - [EC 'dissent' row: Oppn seeks fresh polls, CEC's arrest; BJP lauds 'pure democracy'](https://timesofindia.indiatimes.com/india/ec-dissent-row-opposition-seeks-cecs-arrest-fresh-polls-in-states-bjp-lauds-pure-democracy-top-developments/articleshow/134437472.cms)
 - [Putin's party wins again as expected. So why does Russia still hold elections?](https://timesofindia.indiatimes.com/world/europe/putins-party-wins-again-as-expected-so-why-does-russia-still-hold-elections/articleshow/134435340.cms)
+- [After split verdict, SC refers law on EC appointment to larger bench](https://timesofindia.indiatimes.com/india/after-split-verdict-sc-refers-law-on-ec-appointment-to-larger-bench-decision-comes-amid-row-over-ec-functioning/articleshow/134448337.cms)
 - [Cong-led oppn demands Gyanesh ouster, Supreme Court probe](https://timesofindia.indiatimes.com/india/with-vote-chori-bjp-rss-ec-committed-act-of-treason-rahul/articleshow/134445981.cms)
-- [In meet with Rubio, Jaishankar conveys Russia sanctions law concerns](https://timesofindia.indiatimes.com/world/us/jaishankar-rubio-meeting-india-flags-sanctions-us-waves-friendship/articleshow/134441253.cms)
 - [DoorDash agrees to $131.5m after payment errors affected 200,000-plus NYC workers](https://timesofindia.indiatimes.com/technology/tech-news/americas-largest-food-delivery-company-doordash-admits-it-underpaid-or-paid-late-to-200000-plus-workers-in-new-york-city-for-over-three-years-will-pay-131-5-million-in-settlement-and-apologises/articleshow/134439134.cms)
+- [In meet with Rubio, Jaishankar conveys Russia sanctions law concerns](https://timesofindia.indiatimes.com/world/us/jaishankar-rubio-meeting-india-flags-sanctions-us-waves-friendship/articleshow/134441253.cms)
+- [George Floyd’s siblings seek accounting of $14.7m memorial GoFundMe](https://timesofindia.indiatimes.com/world/us/in-2020-george-floyds-memorial-gofundme-raised-14-7-million-six-years-later-three-of-his-siblings-are-asking-brother-philonise-for-a-full-accounting-of-the-fundraiser-and-its-distributions/articleshow/134433362.cms)
 - [Allegations of transfer of BCI assets to trust matter of concern: Supreme Court](https://timesofindia.indiatimes.com/india/allegations-of-transfer-of-bci-assets-to-trust-matter-of-concern-supreme-court/articleshow/134445959.cms)
-- [Gadkari urges sugar mills to make CBG; says Rs 22 lakh crore goes abroad for fuel imports](https://timesofindia.indiatimes.com/business/india-business/nitin-gadkari-says-india-is-sending-rs-22-lakh-crore-out-of-country-to-import-petrol-diesel-and-gas-pushes-sugar-mills-to-make-compressed-bio-gas-bio-manure-and-sustainable-aviation-fuel/articleshow/134432994.cms)
 - [EC faultlines have a long history, dating back to 1989](https://timesofindia.indiatimes.com/india/ec-faultlines-have-a-long-history-dating-back-to-1989/articleshow/134446008.cms)
-- [Sergio Gor makes rare appearance at event hosted by Chinese envoy](https://timesofindia.indiatimes.com/india/gor-makes-rare-appearance-at-event-hosted-by-chinese-envoy/articleshow/134445800.cms)
-- [BJP defends EC, says oppn trying to discredit panel](https://timesofindia.indiatimes.com/india/bjp-defends-ec-says-oppn-trying-to-discredit-panel/articleshow/134445963.cms)
 
 **NDTV**
 - [Russia Considering US Invitation For Putin To Attend G20 Meeting](https://www.ndtv.com/world-news/russia-considering-us-invitation-for-vladimir-putin-to-attend-g20-meeting-12089228#publisher=newsstand)
@@ -49,22 +49,33 @@
 - [Three Maoists surrender in Bankura with AK-47, INSAS rifles: West Bengal Police](https://www.hindustantimes.com/india-news/three-maoists-surrender-in-bankura-with-ak-47-insas-rifles-west-bengal-police-101790180361351.html)
 - [India, China have ‘sufficient political, historical wisdom’ to handle differences: Chinese envoy](https://www.hindustantimes.com/india-news/india-china-have-sufficient-political-historical-wisdom-to-handle-differences-chinese-envoy-101790177357441.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [KMF ನಂದಿನಿ ಹಾಲು ದರ ಹೆಚ್ಚಳಕ್ಕೆ ಸಮ್ಮತಿ; ರೈತರ ಬೇಡಿಕೆಗೆ ಮಣಿದ ಸರ್ಕಾರ! ಗ್ರಾಹಕರಿಗೆ ಪ್ರತಿ ಲೀಟರ್‌ಗೆ 5 ರೂ. ಏರಿಕೆ?](https://vijaykarnataka.com/news/karnataka/approval-granted-for-kmf-nandini-milk-price-hike-government-will-consumers-face-a-hike-of-4-to-5-rs-per-litre/articleshow/134441549.cms)
+- [ರೈತರಿಗೆ ವಿದ್ಯುತ್ ಆಘಾತ: ಕೃಷಿ ಪಂಪ್‌ಸೆಟ್‌ ಗೆ 1 ತಾಸು ವಿದ್ಯುತ್‌ ಕಡಿತ; ಠೇವಣಿ ಕಟ್ಟದ ಐಪಿಗಳ ಸಂಪರ್ಕ ಕಡಿತ ಎಂದ ಸಚಿವ ಜಾರ್ಜ್](https://vijaykarnataka.com/news/karnataka/kj-george-says-1-hour-power-cut-to-farmers-pumpset/articleshow/134442699.cms)
+- [ಶಾಲಿನ ಬಗ್ಗೆ ಕುಶಾಲು ಮಾಡಲು ಹೋಗಿ ಜಗಳ: ವಿಧಾನ ಪರಿಷತ್‌ನಲ್ಲಿ ಗದ್ದಲಕ್ಕೆ ಕಾರಣವಾದ ಹಸಿರು ಶಾಲಿನ ವಿಷಯ!](https://vijaykarnataka.com/news/karnataka/issue-of-green-shawl-cause-uproar-at-legislative-council/articleshow/134443851.cms)
+- [ಹೂವಿನ ಕುಂಡದಲ್ಲಿ ಇರುವೆ ಕಂಡರೆ ಹೀಗೆ ಮಾಡಿ; ಗಿಡಕ್ಕೆ ಹಾನಿಯಾಗದ ನೈಸರ್ಗಿಕ ಪರಿಹಾರಗಳು](https://vijaykarnataka.com/lifestyle/home-decor/how-to-get-rid-of-ants-in-flower-pots-natural-tips/articleshow/134434288.cms)
+- [ನಮ್ಮ ಮೆಟ್ರೋ ಗುಲಾಬಿ ಮಾರ್ಗದ ರೈಲಿಗೆ ರೈಲ್ವೆ ಮಂಡಳಿ ಅನುಮೋದನೆ; ಅಕ್ಟೋಬರ್‌ ಮಧ್ಯದಲ್ಲಿ ಆರಂಭ; 6 ನಿಲ್ದಾಣಗಳ ನಡುವೆ ಸಂಚಾರ](https://vijaykarnataka.com/news/bengaluru-city/railway-board-approves-namma-metro-pink-line-train-operations-to-start-in-mid-october-service-to-run-between-6-stations/articleshow/134441537.cms)
+- [BBK 13: ಕಿರಣ್‌ ಶಾಸ್ತ್ರಿಗೆ ತಾಂಡವ್‌ ಹಿಂಟ್‌ ಕೊಟ್ಟರಾ? ಗೇಮ್‌ನಲ್ಲಿ ನಡಿತಾ ತಾರತಮ್ಯ!](https://vijaykarnataka.com/tv/news/bbk-13-week-3-contestant-tandav-ram-gives-a-hint-to-kiran-shastry-about-pipe-task/articleshow/134444886.cms)
+- [ಪಾರ್ಕ್ ಮಾಡಿದ ಕಾರಿಗೆ ಇಲಿಗಳು ಏಕೆ ಬರುತ್ತವೆ? ತಡೆಯಲು ಈ ನೈಸರ್ಗಿಕ ವಿಧಾನಗಳು ಸಹಕಾರಿ](https://vijaykarnataka.com/lifestyle/home-decor/why-rats-enter-parked-cars-natural-ways-to-keep-rats-away/articleshow/134408701.cms)
+- [ದೇವರ ಕೋಣೆಯ ಮೇಲೆ ಮತ್ತು ಕೆಳಗೆ ಇಡಬಾರದ ವಸ್ತುಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/its-better-to-avoid-to-keep-these-things-on-puja-room/articleshow/134439128.cms)
+- [CDSCO ಎಚ್ಚರಿಕೆ: ಪೇನ್‌ಕಿಲ್ಲರ್, ಆ್ಯಂಟಿಬಯೋಟಿಕ್‌ಗಳ ಅನಗತ್ಯ ಬಳಕೆ; ಕಿಡ್ನಿ ಸಮಸ್ಯೆ ಬಗ್ಗೆ ಎಚ್ಚರ!](https://vijaykarnataka.com/lifestyle/health/cdsco-warning-unnecessary-painkiller-antibiotic-use-side-effects/articleshow/134431451.cms)
+- [VK Real Estate Summit: ಬೆಂಗಳೂರಿನಲ್ಲಿ ಕಾಸಾಗ್ರ್ಯಾಂಡ್‌ ಹೆಜ್ಜೆಗುರುತು: ದಕ್ಷಿಣ ಭಾರತದ ರಿಯಲ್ ಎಸ್ಟೇಟ್ ಬದಲಾವಣೆಯ ಪ್ರತಿಬಿಂಬ](https://vijaykarnataka.com/business/news/vk-real-estate-summit-casagrand-bengaluru-growth-story-reflects-the-changing-face-of-south-india-real-estate-market/articleshow/134440682.cms)
 
 **The Hindu**
+- [Bihar BJP MLA criticises own government for distributing ₹10,000 crore to JEEVIKA didis](https://www.thehindu.com/news/national/bihar/bihar-bjp-mla-criticises-own-government-for-distributing10000-crore-to-jeevika-didis/article71500064.ece)
+- [CM Fadnavis and DCM Shinde visit drought-prone regions in Maharashtra](https://www.thehindu.com/news/national/maharashtra/cm-fadnavisand-dcm-shinde-visit-drought-prone-regions-in-maharashtra/article71500515.ece)
+- [U.P. CM Yogi launches Bharat Taxi and Mukhyamantri Krishak Samriddhi Yojana](https://www.thehindu.com/news/national/uttar-pradesh/bharat-taxi-to-operate-on-zero-commission-drivers-to-get-5-lakh-social-security-cm-yogi-adityanath/article71499180.ece)
+- [Madhya Pradesh traders, retailers observe ‘No UPI Day’, seek rollback of MDR charges](https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-traders-retailers-observe-no-upi-day-seek-rollback-of-mdr-charges/article71500720.ece)
+- [West Bengal CM asks Ministers to concentrate on work rather than being hyperactive on the street](https://www.thehindu.com/news/national/west-bengal/west-bengal-cm-asks-ministers-to-concentrate-on-work-rather-than-being-hyperactive-on-the-street/article71501025.ece)
 - [Bihar Cabinet gives nod for setting up two universities](https://www.thehindu.com/news/national/bihar/bihar-cabinet-gives-nod-for-setting-up-two-universities/article71500749.ece)
 - [BSP president Mayawati appoints younger nephew Ishan Anand as new national convener](https://www.thehindu.com/news/national/uttar-pradesh/bsp-president-mayawati-appoints-younger-nephew-ishan-anand-as-new-national-convener/article71500784.ece)
 - [Elephant calf swept away in Teesta rescued by fishermen, reunited with mother](https://www.thehindu.com/news/national/elephant-calf-swept-away-in-teesta-rescued-by-fishermen-reunited-with-mother/article71501503.ece)
 - [Man kills wife and priests in ritual dispute in Azamgarh, later dies in police encounter](https://www.thehindu.com/news/national/uttar-pradesh/man-kills-wife-and-priests-in-ritual-dispute-dies-in-police-encounter/article71498239.ece)
 - [Prepared for another fight, says Hooda, seeks support
 from voters in his Assembly constituency](https://www.thehindu.com/news/national/haryana/prepared-for-another-fight-says-hooda-seeks-support-from-voters-in-his-assembly-constituency/article71500848.ece)
-- [Minister in CEC-EC selection panel fails ‘perception test’, says Justice Datta in split verdict](https://www.thehindu.com/news/national/minister-in-cec-ec-selection-panel-fails-perception-test-says-justice-datta-in-split-verdict/article71499280.ece)
-- [Omar, Mehbooba flag differences within ECI, seek course correction](https://www.thehindu.com/news/national/jammu-and-kashmir/omar-mehbooba-flag-differences-within-eci-seek-course-correction/article71499694.ece)
-- [Priyanka Gandhi meets flood victims, workers in Nilambur](https://www.thehindu.com/news/national/kerala/priyanka-gandhi-meets-flood-victims-workers-in-nilambur/article71500629.ece)
-- [Eight Meghalaya UDP MLAs join BJP](https://www.thehindu.com/news/national/meghalaya/eight-meghalaya-udp-mlas-join-bjp/article71500995.ece)
-- [Rain batters Srikakulam for second day](https://www.thehindu.com/news/national/andhra-pradesh/rain-batters-srikakulam-for-second-day/article71500370.ece)
 
 **Livemint**
+- [Hurricane Watch Posted on Hawaii’s Big Island as Nolo Approaches](https://www.livemint.com/news/hurricane-watch-posted-on-hawaii-s-big-island-as-nolo-approaches-11790203525312.html)
 - [Zelensky at UNGA: ‘Limit Putin's money. Limit his war’ — key takeaways from Ukraine president’s address](https://www.livemint.com/news/world/zelensky-at-unga-limit-putins-money-limit-his-war-key-takeaways-from-ukraine-president-s-address-11790193820244.html)
 - [White House denies report of 90-day US diesel export ban](https://www.livemint.com/news/us-news/white-house-denies-report-of-90-day-us-diesel-export-ban-11790191870550.html)
 - [CDC Recognizes Measles Death After Pennsylvania Conflict](https://www.livemint.com/news/us-news/cdc-recognizes-measles-death-after-pennsylvania-conflict-11790192578526.html)
@@ -74,7 +85,6 @@ from voters in his Assembly constituency](https://www.thehindu.com/news/national
 - [₹1.5 lakh ‘donation’ for 2-year-old’s preschool admission? Ahmedabad entrepreneur’s post sparks debate](https://www.livemint.com/news/trends/15-lakh-donation-for-2-year-old-s-preschool-admission-ahmedabad-entrepreneur-s-post-sparks-debate-11790184997383.html)
 - [Jaishankar raises India’s concerns over US Russia sanctions law with Rubio at UNGA](https://www.livemint.com/news/world/jaishankar-raises-india-s-concerns-over-us-russia-sanctions-law-with-rubio-at-unga-11790183917138.html)
 - [Who will be next UN chief? Meet 7 candidates in race to replace Guterres; how secretary-general is chosen | Explained](https://www.livemint.com/news/world/who-will-be-next-un-chief-meet-7-candidates-in-race-to-replace-guterres-how-secretary-general-is-chosen-explained-11790183110083.html)
-- [Cyclone tracking: Deep depression nears Andhra - Odisha coast; IMD issues red alert. Is there a holiday tomorrow?](https://www.livemint.com/news/india/cyclone-live-tracking-deep-depression-nears-andhra-odisha-coast-imd-issues-red-alert-is-there-a-holiday-tomorrow-11790182953250.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -117,7 +127,16 @@ from voters in his Assembly constituency](https://www.thehindu.com/news/national
 - [ರಾಷ್ಟ್ರ ಪ್ರಶಸ್ತಿ ತಂದು ಗಣಪತಿ ಪಾದಕ್ಕೆ ಅರ್ಪಿಸಿದ ನಟ ಕಾರ್ತಿಕ್ ಆರ್ಯನ್](https://tv9kannada.com/entertainment/bollywood/kartik-aaryan-places-his-first-national-award-at-lalbaugcha-raja-feet-1241848.html)
 
 **Prajavani**
-- [ಸಾಂಸ್ಕೃತಿಕ ಮುನ್ನೋಟ](https://www.prajavani.net/district/bengaluru-city/bengaluru-cultural-events-weekend-guide-plays-dance-music-4283194)
+- [ಸುದ್ದಿ ಗುದ್ದು | ತಿಂಗಳೇಶ: ಸೆಪ್ಟೆಂಬರ್ 24, 2026](https://www.prajavani.net/news/cartoons/suddi-guddu-tingalesha-september-kannada-column-4282664)
+- [ಚುರುಮುರಿ: ಹೆಸರಲ್ಲಿ ಎಲ್ಲ ಇದೆ!](https://www.prajavani.net/op-ed/churumuri/karnataka-political-satire-naming-controversy-development-4282247)
+- [ಸಂಪಾದಕೀಯ | ನಕಲಿ ಔಷಧಗಳ ಬೃಹತ್ ಜಾಲ: ರೋಗಿಗಳು ಬಲಿಪಶು ಆಗದಿರಲಿ](https://www.prajavani.net/op-ed/editorial/fake-drug-racket-bengaluru-hospital-safety-concerns-4282236)
+- [ಸಂಗತ ಅಂಕಣ: ವೃದ್ಧಾಪ್ಯ ಪಿಂಚಣಿ ಎಲ್ಲರ ಹಕ್ಕಾಗಲಿ](https://www.prajavani.net/op-ed/opinion/universal-old-age-pension-rights-for-farmers-and-workers-4282240)
+- [ಗಿರೀಶ ದೊಡ್ಡಮನಿ ವಿಶ್ಲೇಷಣೆ | ಹಿನ್ನೆಲೆಗೆ ಆಟ: ಮುನ್ನೆಲೆಗೆ ಹಟ](https://www.prajavani.net/op-ed/articles/rohit-sharma-odi-world-cup-ajit-agarkar-resignation-bcci-4282515)
+- [25 ವರ್ಷಗಳ ಹಿಂದೆ: ಭಾರತ, ಪಾಕ್‌ ಮೇಲಿನ ದಿಗ್ಬಂಧನ ರದ್ದು](https://www.prajavani.net/op-ed/prajavani-archive/us-lifts-sanctions-on-india-and-pakistan-4282244)
+- [75 ವರ್ಷಗಳ ಹಿಂದೆ: ಭಾರತದ ಅವಹೇಳನ ಮಾಡುವುದೇ ಉದ್ದೇಶ](https://www.prajavani.net/op-ed/prajavani-archive/graham-report-pakistan-propaganda-historical-news-4281786)
+- [ಗೌತಮ್‌ ಅದಾನಿ ದೇಶದ ನಂ. 1 ಶ್ರೀಮಂತ](https://www.prajavani.net/business/commerce-news/gautam-adani-richest-indian-hurun-india-list-4282873)
+- [ವಾಚಕರ ವಾಣಿ: ಸೆಪ್ಟೆಂಬರ್ 24, 2026](https://www.prajavani.net/op-ed/readers-letter/prajavani-readers-forum-letters-to-editor-september-4282508)
+- [ಚಿನಕುರುಳಿ ಕಾರ್ಟೂನು: 24 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/news/cartoons/chinakurali-cartoon-september-twenty-four-4282833)
 
 **eedina**
 - [ಯಾದಗಿರಿ | ಎಸ್‌ಐಆರ್ ವಿರುದ್ಧ ‘ಪರಿಶೋಧನೆ, ಪ್ರತಿರೋಧ’ ಪ್ರವಾಸ: ‘ಅರ್ಹ ಮತದಾರನೊಬ್ಬನೂ ಹೊರಗುಳಿಯಬಾರದು’: ಬಹುಭಾಷ ನಟ ಪ್ರಕಾಶ್ ರೈ](https://eedina.com/?p=765581)
@@ -134,33 +153,33 @@ from voters in his Assembly constituency](https://www.thehindu.com/news/national
 ## Cross-source trending keywords (derived from headlines above)
 - India (5.2)
 - Russia (4.5)
-- Chinese (3.9)
 - UNGA (3.9)
 - Rubio (2.9)
 - Ukraine (2.9)
 - Jaishankar (2.6)
+- Chinese (2.6)
 - Supreme Court (2.0)
 - Putin's (1.9)
+- Trump (1.6)
 - Meet (1.6)
 - CRPF (1.6)
 - Limit (1.6)
 - Indian (1.6)
-- Oppn (1.3)
-- CEC's (1.3)
+- Washington (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [জন্মের আগেই মাধ্যমিক পাস হাসিরানি রথের? হাইকোর্টে চাঞ্চল্যকর অভিযোগ কংগ্রেসের, 'আইনে আস্থা আছে', পাল্টা নন্দীগ্রামের BJP প্রার্থী](https://bengali.abplive.com/district/nandigram-bjp-candidate-hasirani-rath-pass-exams-before-she-was-even-born-congress-allegation-high-court-1193911)
-- [Telugu Film Federation | జానీ మాస్టర్ సతీమణికి షాక్.. సుమలత కమిటీని ర‌ద్దు చేసిన ఫిల్మ్ ఫెడరేషన్!](https://www.ntnews.com/cinema/tollywood-dancers-association-crisis-sumalatha-executive-committee-dissolved-raghu-master-takes-charge-2517999)
-- [Badminton Highlights from Asian Games 2026, September 23: India’s men settle for badminton team bronze after China semifinal defeat](https://sportstar.thehindu.com/asian-games/india-vs-china-live-asian-games-2026-badminton-mens-team-semifinal-highlights-sept-23/article71498350.ece)
-- [हरीश द्विवेदी, स्मृति ईरानी, राम माधव... संगठन में बदलाव से बीजेपी के 6 नेताओं का बढ़ा कद](https://www.aajtak.in/india/politics/story/bjp-reorganization-6-leaders-role-and-stature-increased-harish-dwivedi-smriti-irani-ram-madhav-ntcpkb-dskc-2651106-2026-09-23)
-- [Kunal Ghosh on NCPI: 'NCPI-এর হোয়াটসঅ্যাপ গ্রুপে অ্যাড করেছে', বিস্ফোরক কুণাল ঘোষ, হাতে আছে চাঞ্চল্যকর স্ক্রিনশট!](https://tv9bangla.com/kolkata/mamata-trinamool-congress-mla-kunal-ghosh-shows-he-is-a-member-of-ncpi-whatsapp-group-1348317.html)
-- [ഏഷ്യൻ ഗെയിംസ് സ്വർണം നേടിയ കൗമാരതാരം കമാലിനിക്ക് 75 ലക്ഷം പാരിതോഷികം പ്രഖ്യാപിച്ച് വിജയ്](https://www.mathrubhumi.com/sports/cricket/asian-games-gold-kamalini-vijay-reward-x8mrywb5)
-- [Stock Market Close: Sensex gains 299 pts, Nifty ends at 23,447; metal pack rises 2%, IT sheds 1%](https://www.business-standard.com/markets/news/stock-market-live-nse-bse-sensex-today-nifty-gift-nifty-brent-crude-oil-price-russia-war-jindal-supreme-share-price-september-23-126092300112_1.html)
-- [Taking Stock: Market rebounds; Nifty above 23,400, Sensex up 299 pts; metals, realty lead](https://www.moneycontrol.com/news/business/markets/taking-stock-market-rebounds-nifty-above-23-400-sensex-up-299-pts-metals-realty-lead-14036426.html)
-- [BJP Prabhari List: भाजपामध्ये मोठे फेरबदल; मेधा कुलकर्णी, तावडे, कराडांवर मोठी जबाबदारी, तर महाराष्ट्राच्या प्रभारीपदी ‘या’ नेत्याची नियुक्ती](https://www.loksatta.com/desh-videsh/bjp-prabhari-list-maharashtra-baijayant-panda-amit-malviya-appointment-gkt-96-6151891/)
-- [Sarbori Mukherjee: ধুন্ধুমার মুকুন্দপুরে! 'টপ ৩ ক্রিমিনালস'-এর নাম বললেন বিজেপি বিধায়ক শর্বরী মুখোপাধ্যায়, কারা তাঁরা ?](https://bengali.abplive.com/district/mukundapur-clash-bjp-mla-sarbori-mukherjee-names-the-top-3-criminals-who-are-they-bjp-tmc-clash-1193910)
+- [തെരഞ്ഞെടുപ്പ് കമ്മീഷന്‍ വോട്ടര്‍ രജിസ്‌ട്രേഷന്‍ ഫോമില്‍ നടത്തിയ മാറ്റങ്ങള്‍ നിയമവിരുദ്ധം: മുന്‍ തെരഞ്ഞെടുപ്പ് കമ്മീഷണര്‍](https://www.doolnews.com/former-cec-o-p-rawat-calls-form-6-changes-absolutely-wrong-and-illegal-flags-very-serious-ec-differences-62-178.html)
+- [Mamata Banerjee : 'পুরনো তালিকায় আবার ভোট, জ্ঞানেশ কুমারের গ্রেফতারি' দাবি মমতার...](https://bengali.abplive.com/district/mamata-banerjee-demands-election-again-and-arrest-of-gyanesh-kumar-amid-sir-controversy-1193914)
+- [રવિવાર 27 સપ્ટેમ્બરે બધી સરકારી બેંકો ખુલ્લી રહેશે, 3 દિવસની હડતાળને લઈ લેવાયો નિર્ણય](https://gujarati.abplive.com/news/business/banks-to-remain-open-on-sunday-september-27-decision-taken-due-to-the-three-day-strike-991882)
+- [മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മീഷണർ ഗ്യാനേഷ് കുമാർ രാജിവയ്ക്കണം: സിപിഐ](https://www.twentyfournews.com/2026/09/23/cpi-demands-chief-election-commissioner-gyanesh-kumar-should-resignation.html)
+- [हिस्‍सेदारी बेचने की खबर, फिर झटके में 20% भागा ये स्‍टॉक!](https://www.aajtak.in/business/news/photo/whirlpool-india-ltd-share-zoom-20-percent-after-stake-sell-news-tutd-2651127-2026-09-23)
+- [ECINet Controversy: ECs Flag Centralised Access & Legal Violations](https://indianexpress.com/article/express-exclusive/election-commission-special-intensive-revision-sir-electoral-roll-centralisation-eci-ecinet-10889738/)
+- ["...तर निवडणूक आयोगाचे ते निर्णय बेकायदेशीरच आहेत", माजी मुख्य निवडणूक आयुक्त कुरेशी यांनी सांगितला कायदा](https://www.lokmat.com/national/then-those-decisions-of-the-election-commission-are-illegal-former-chief-election-commissioner-qureshi-said-the-law-a-a571/)
+- [জল কমছে ! উৎসবের মেজাজে ফিরছে ভূতনি, সরকারি অনুদানের ভরসায় পুজো উদ্যোক্তারা](https://www.etvbharat.com/bn/state/malda-flood-situation-water-receding-bhutni-getting-back-into-durga-puja-festive-mood-wbs26092301661)
+- [Painkillers, Antibiotics Linked To Kidney Disease Risk: CDSCO](https://www.deccanchronicle.com/lifestyle/health-and-well-being/cdsco-warns-against-indiscriminate-painkiller-antibiotic-use-1989896)
+- [बाढ़ में मछली पकड़ने निकले थे 5 दोस्त, रेलवे ट्रैक पर पहुंचते ही मच गया मौत का तांडव, राजधानी एक्सप्रेस ने 4 को कुचला, एक गंभीर](https://www.aajtak.in/india/news/story/four-youths-killed-train-accident-tekkali-srikakulam-railway-track-lclar-rptc-2651115-2026-09-23)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
