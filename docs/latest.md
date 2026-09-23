@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-23 20:02:26
+# India Trending Report — 2026-09-23 20:34:31
 
 ## Google Trends (India) — top trending searches
-1. [barcelona vs paris fc](https://trends.google.com/trending/rss?geo=IN)
-2. [saudi arabia vs kuwait](https://trends.google.com/trending/rss?geo=IN)
-3. [अनिल अग्रवाल](https://trends.google.com/trending/rss?geo=IN)
-4. [paradise movie review](https://trends.google.com/trending/rss?geo=IN)
-5. [khabib](https://trends.google.com/trending/rss?geo=IN)
-6. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
-7. [the love hypothesis](https://trends.google.com/trending/rss?geo=IN)
-8. [hyundai bayon suv](https://trends.google.com/trending/rss?geo=IN)
-9. [exoplanet](https://trends.google.com/trending/rss?geo=IN)
-10. [ott releases this week](https://trends.google.com/trending/rss?geo=IN)
+1. [dow jones](https://trends.google.com/trending/rss?geo=IN)
+2. [new ott releases](https://trends.google.com/trending/rss?geo=IN)
+3. [barcelona vs paris fc](https://trends.google.com/trending/rss?geo=IN)
+4. [saudi arabia vs kuwait](https://trends.google.com/trending/rss?geo=IN)
+5. [अनिल अग्रवाल](https://trends.google.com/trending/rss?geo=IN)
+6. [khabib nurmagomedov](https://trends.google.com/trending/rss?geo=IN)
+7. [paradise movie review](https://trends.google.com/trending/rss?geo=IN)
+8. [khabib](https://trends.google.com/trending/rss?geo=IN)
+9. [dow jones index](https://trends.google.com/trending/rss?geo=IN)
+10. [the love hypothesis](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -62,18 +62,20 @@
 - [VK Real Estate Summit: ಬೆಂಗಳೂರಿನಲ್ಲಿ ಕಾಸಾಗ್ರ್ಯಾಂಡ್‌ ಹೆಜ್ಜೆಗುರುತು: ದಕ್ಷಿಣ ಭಾರತದ ರಿಯಲ್ ಎಸ್ಟೇಟ್ ಬದಲಾವಣೆಯ ಪ್ರತಿಬಿಂಬ](https://vijaykarnataka.com/business/news/vk-real-estate-summit-casagrand-bengaluru-growth-story-reflects-the-changing-face-of-south-india-real-estate-market/articleshow/134440682.cms)
 
 **The Hindu**
+- [Man kills wife and priests in ritual dispute in Azamgarh, later dies in police encounter](https://www.thehindu.com/news/national/uttar-pradesh/man-kills-wife-and-priests-in-ritual-dispute-dies-in-police-encounter/article71498239.ece)
+- [Prepared for another fight, says Hooda, seeks support
+from voters in his Assembly constituency](https://www.thehindu.com/news/national/haryana/prepared-for-another-fight-says-hooda-seeks-support-from-voters-in-his-assembly-constituency/article71500848.ece)
+- [Minister in CEC-EC selection panel fails ‘perception test’, says Justice Datta in split verdict](https://www.thehindu.com/news/national/minister-in-cec-ec-selection-panel-fails-perception-test-says-justice-datta-in-split-verdict/article71499280.ece)
 - [Elephant calf swept away in Teesta rescued by fishermen, reunited with mother](https://www.thehindu.com/news/national/elephant-calf-swept-away-in-teesta-rescued-by-fishermen-reunited-with-mother/article71501503.ece)
 - [Priyanka Gandhi meets flood victims, workers in Nilambur](https://www.thehindu.com/news/national/kerala/priyanka-gandhi-meets-flood-victims-workers-in-nilambur/article71500629.ece)
+- [Eight Meghalaya UDP MLAs join BJP](https://www.thehindu.com/news/national/meghalaya/eight-meghalaya-udp-mlas-join-bjp/article71500995.ece)
 - [Rain batters Srikakulam for second day](https://www.thehindu.com/news/national/andhra-pradesh/rain-batters-srikakulam-for-second-day/article71500370.ece)
 - [Several banks offer rebate on interest rates for green buildings, says expert](https://www.thehindu.com/news/cities/chennai/several-banks-offer-rebate-on-interest-rates-for-green-buildings-says-expert/article71501195.ece)
 - [CPCL looking to be a part of the renewable energy growth journey: H. Shankar](https://www.thehindu.com/news/cities/chennai/cpcl-looking-to-be-a-part-of-the-renewable-energy-growth-journey-h-shankar/article71501107.ece)
 - [The Hindu Sustainability Summit: ‘Treat waste water as an economic resource’](https://www.thehindu.com/news/cities/chennai/the-hindu-sustainability-summit-treat-waste-water-as-an-economic-resource/article71500702.ece)
-- [Sustainability must be backed by measurable outcomes, practical action: Tamil Nadu Minister V.K. Rajeev](https://www.thehindu.com/news/cities/chennai/sustainability-must-be-backed-by-measurable-outcomes-practical-action-tamil-nadu-minister-vk-rajeev/article71499279.ece)
-- [Refinery sector must balance energy security with net-zero push: industry experts at The Hindu Sustainability Summit](https://www.thehindu.com/news/national/tamil-nadu/refinery-sector-must-balance-energy-security-with-net-zero-push-industry-experts-at-the-hindu-sustainability-summit/article71499906.ece)
-- [UG-NEET: Third round counselling from September 24](https://www.thehindu.com/news/national/karnataka/ug-neet-third-round-counselling-from-september-24/article71500880.ece)
-- [Communication between CEC, ECs shows functioning democracy: BJP](https://www.thehindu.com/news/national/communication-between-cec-ecs-shows-functioning-democracy-bjp/article71500602.ece)
 
 **Livemint**
+- [Zelensky at UNGA: ‘Limit Putin's money. Limit his war’ — key takeaways from Ukraine president’s address](https://www.livemint.com/news/world/zelensky-at-unga-limit-putins-money-limit-his-war-key-takeaways-from-ukraine-president-s-address-11790193820244.html)
 - [White House denies report of 90-day US diesel export ban](https://www.livemint.com/news/us-news/white-house-denies-report-of-90-day-us-diesel-export-ban-11790191870550.html)
 - [CDC Recognizes Measles Death After Pennsylvania Conflict](https://www.livemint.com/news/us-news/cdc-recognizes-measles-death-after-pennsylvania-conflict-11790192578526.html)
 - [Indian woman spends over  ₹1 cr living in Manhattan, pays  ₹10 lakh monthly rent; internet calls NYC life ‘overhyped’](https://www.livemint.com/news/trends/indian-woman-spends-over-1-cr-living-in-manhattan-pays-10-lakh-monthly-rent-internet-calls-nyc-life-overhyped-11790186820651.html)
@@ -83,7 +85,6 @@
 - [Jaishankar raises India’s concerns over US Russia sanctions law with Rubio at UNGA](https://www.livemint.com/news/world/jaishankar-raises-india-s-concerns-over-us-russia-sanctions-law-with-rubio-at-unga-11790183917138.html)
 - [Who will be next UN chief? Meet 7 candidates in race to replace Guterres; how secretary-general is chosen | Explained](https://www.livemint.com/news/world/who-will-be-next-un-chief-meet-7-candidates-in-race-to-replace-guterres-how-secretary-general-is-chosen-explained-11790183110083.html)
 - [Cyclone tracking: Deep depression nears Andhra - Odisha coast; IMD issues red alert. Is there a holiday tomorrow?](https://www.livemint.com/news/india/cyclone-live-tracking-deep-depression-nears-andhra-odisha-coast-imd-issues-red-alert-is-there-a-holiday-tomorrow-11790182953250.html)
-- [‘Why don’t you give New Jersey to Israelis?’ Syria’s al-Sharaa recalls Trump exchange over Golan Heights at UNGA](https://www.livemint.com/news/world/why-don-t-you-give-new-jersey-to-israelis-syria-s-al-sharaa-recalls-trump-exchange-over-golan-heights-at-unga-11790181297367.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -130,12 +131,8 @@
 - [ವಿಧಾನ ಮಂಡಲ ಅಧಿವೇಶನ | ದಿವಾಳಿ ಸರ್ಕಾರದ ಕುಬೇರ ಮುಖ್ಯಮಂತ್ರಿ:  ಸುನಿಲ್ ಕುಮಾರ್‌](https://www.prajavani.net/news/karnataka-news/karnataka-assembly-debate-bjp-congress-finance-clash-4283075)
 - [ಬರ ನಷ್ಟ ಪರಿಹಾರವಾಗಿ ₹3,705 ಕೋಟಿ ನೆರವು ಕೋರಿ ಕೇಂದ್ರಕ್ಕೆ ಡಿಕೆಶಿ ಮೊರೆ](https://www.prajavani.net/news/karnataka-news/dk-shivakumar-writes-to-pm-modi-seeking-drought-relief-funds-4283083)
 - [ರೇಣುಕಸ್ವಾಮಿ ಕೊಲೆ: ಮಾಫಿ ಸಾಕ್ಷಿ ವಿರೋಧಿಸಿದ್ದ ವಿಜಯಲಕ್ಷ್ಮಿ ದರ್ಶನ್ ಅರ್ಜಿ ವಜಾ](https://www.prajavani.net/news/karnataka-news/high-court-dismisses-vijayalakshmi-darshan-petition-approver-status-4283142)
-- [ಎಸ್‌ಐಟಿಯಲ್ಲಿದ್ದ ಕುಶಾಲ್‌ ಚೌಕ್ಸೆ ಎಸ್ ಪಿ ಆಗಿ ವರ್ಗಾವಣೆ](https://www.prajavani.net/news/karnataka-news/kushal-chaukse-transferred-as-chitradurga-sp-4282991)
-- [ರಾಮಮಂದಿರ ಕಾಣಿಕೆ ಕನ್ನ: ದೋಷಾರೋಪ ಪಟ್ಟಿಯಲ್ಲಿ ಇಲ್ಲ ಚಂಪತ್ ರಾಯ್‌ ಹೆಸರು](https://www.prajavani.net/news/india-news/ram-mandir-donation-scam-chargesheet-filed-ayodhya-court-4282915)
-- [ವಿದ್ಯಾರ್ಥಿಗಳ ಸುರಕ್ಷತೆಗಾಗಿ 'ಆತ್ಮಹತ್ಯೆ ತಡೆ ಕಂಬಿ' ಹೊಂದಿರುವ ಫ್ಯಾನ್ ಅಳವಡಿಕೆ](https://www.prajavani.net/news/india-news/bit-mesra-installs-anti-suicide-ceiling-fans-for-student-safety-4282840)
-- [ಜಾನಪದದ ಜಾಡಿನಲ್ಲಿದೆ ಬದುಕಿನ ಲಯ: ನಿರ್ಮಲಾನಂದನಾಥಶ್ರೀ](https://www.prajavani.net/district/mandya/adichunchanagiri-nirmalanandanatha-swamiji-folk-art-festival-nagegowda-award-4282959)
-- [ಕರ್ನಾಟಕ ಬಿಜೆಪಿಗೆ ಹರೀಶ್‌ ದ್ವಿವೇದಿ ಉಸ್ತುವಾರಿ](https://www.prajavani.net/news/karnataka-news/harish-dwivedi-appointed-as-karnataka-bjp-incharge-4282507)
-- [ಇಂಡಿ ಕಾಂಗ್ರೆಸ್ ಶಾಸಕ ರಾಜೀನಾಮೆ ಪ್ರಹಸನ](https://www.prajavani.net/news/karnataka-news/indi-mla-yashavantharayagouda-patil-resignation-drama-drought-list-4282822)
+- [AK47 ಹಿಡಿದು ಸಾಗುತ್ತಿದ್ದ ಧೈರ್ಯಶಾಲಿ IPS ಅಧಿಕಾರಿ: ಯಾರು ಈ ಸಂಜುಕ್ತಾ ಪರಾಶರ್?](https://www.prajavani.net/news/india-news/sanjukta-parashar-first-woman-to-head-crpf-cobra-unit-biography-4281628)
+- [ಅಲ್ಲು ಅರ್ಜುನ್ ನಟನೆಯ, ಅಟ್ಲಿ ನಿರ್ದೇಶನದ ‘ರಾಕಾ’ ಗಿನ್ನಿಸ್ ವಿಶ್ವ ದಾಖಲೆ](https://www.prajavani.net/entertainment/cinema/allu-arjun-atlee-raaka-movie-guinness-world-record-4278884)
 
 **eedina**
 - [ಯಾದಗಿರಿ | ಎಸ್‌ಐಆರ್ ವಿರುದ್ಧ ‘ಪರಿಶೋಧನೆ, ಪ್ರತಿರೋಧ’ ಪ್ರವಾಸ: ‘ಅರ್ಹ ಮತದಾರನೊಬ್ಬನೂ ಹೊರಗುಳಿಯಬಾರದು’: ಬಹುಭಾಷ ನಟ ಪ್ರಕಾಶ್ ರೈ](https://eedina.com/?p=765581)
@@ -152,33 +149,33 @@
 ## Cross-source trending keywords (derived from headlines above)
 - UNGA (6.5)
 - India (5.2)
-- Summit (4.2)
-- Trump (4.2)
+- Summit (2.9)
+- Ukraine (2.9)
 - Russia (2.9)
+- Trump (2.9)
 - Trump-Xi (2.6)
 - Chinese (2.6)
 - White House (2.0)
-- The Hindu Sustainability (2.0)
-- Sustainability (1.9)
-- Ukraine (1.6)
+- Putin's (1.6)
+- Zelensky (1.6)
 - Rubio (1.6)
+- Limit (1.6)
 - Indian (1.6)
-- Putin's (1.3)
 - Five (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [बल्ले से आग उगल रहे हैं कुमार कुशाग्र! ऑस्ट्रेलिया 'ए' के खिलाफ ठोका शतक, संकट में फंसी टीम इंडिया को ऐसे उबारा](https://www.aajtak.in/sports/cricket/story/kumar-kushagra-scores-century-in-india-a-vs-australia-a-first-unofficial-test-aksp-dskc-2650885-2026-09-23)
-- [Zelenskyy calls for trilateral meeting with Putin, Trump](https://www.cnbc.com/2026/09/23/ukraine-war-zelenskyy-putin-trump-russia.html)
-- [UN में पाकिस्तान के बिगड़े बोल, भारत को गीदड़भभकी देकर बोले इशाक डार- 'आर्टिकल 370...'](https://www.abplive.com/news/world/pakistan-deputy-prime-minister-ishaq-dar-on-india-article-370-removed-3192683)
-- [BHIM MyUPI వచ్చేసింది.. ఇప్పుడు ఒకేచోట 9 రకాల సర్వీసులు.. తెలుగులో కూడా సేవలు!](https://telugu.samayam.com/business/business-news/bhim-myupi-launched-9-different-services-users-can-access-in-one-place-check-here/articleshow/134428535.cms)
-- [Punjab Breaking: ਸਾਬਕਾ ED ਡਾਇਰੈਕਟੋਰੇਟ ਨਿਰੰਜਨ ਸਿੰਘ ਤੇ ਸਾਬਕਾ DSP ਬਲਵਿੰਦਰ ਸੇਖੋਂ ‘ਵਾਰਿਸ ਪੰਜਾਬ ਦੇ’ ’ਚ ਹੋਏ ਸ਼ਾਮਿਲ](https://wishavwarta.in/punjab-breaking-former-ed-official-niranjan-singh-former-dsp-balwinder-sekhon-join-waris-punjab-de/)
-- [കേരളത്തിൽ ആദ്യം, കെഎസ്ആർടിസിക്ക് ബസ് വാങ്ങി നൽകി അങ്കമാലി സ്വദേശി](https://www.asianetnews.com/kerala-news/first-in-kerala-angamaly-native-buys-and-donates-bus-to-ksrtc-articleshow-ft268y7)
-- [28 വർഷത്തെ കാത്തിരിപ്പിന് അവസാനം; ഏഷ്യൻ ഗെയിംസിൽ വെള്ളിത്തിളക്കവുമായി മീരാബായ് ചാനു ചരിത്രത്തിലേക്ക്](https://www.mathrubhumi.com/sports/features/mirabai-chanu-silver-medal-asian-games-2026-chslnxcl)
-- [Anantapur: ఉపాధ్యాయులపై దాడులను ఖండించిన ఎమ్మెల్యే దగ్గుపాటి ప్రసాద్!](https://www.hmtvlive.com/telugu-news/anantapur/mla-daggupapati-prasad-condemns-attacks-on-teachers-in-anantapur-189641)
-- [8th Pay: 3.25 ફિટમેન્ટ ફેક્ટર, 5% વાર્ષિક પગાર વધારો અને OPS ની માંગ, 3 લાખ કર્મચારીઓને થશે ફાયદો](https://gujarati.abplive.com/news/business/8th-pay-commission-fitment-factor-salary-hike-annual-increment-higher-allowances-and-ops-restoration-demand-991861)
-- [SIR મુદ્દે ચૂંટણી પંચમાં આંતરિક ભૂકંપ, CIC જ્ઞાનેશ કુમાર સામે સાથી કમિશનરોની 14 ગંભીર ફરિયાદ](https://www.gujaratsamachar.com/news/national/ECI-Internal-Crisis-Commissioners-Raise-Objections-Against-CEC-on-Voter-Lists-95704267942)
+- [Big Boss Bangla: আহত সৃজলা, রোষের মুখে নন্দিনী! 'দয়া করে মানবিকতা দিয়ে বিষয়টা..', কী আবেদন করা হল নন্দিনীর টিমের তরফ থেকে?](https://bengali.abplive.com/entertainment/nandini-dutta-team-requested-not-to-spread-negativity-over-srijla-injury-issue-in-big-boss-bangla-entertainment-news-tollywood-1193895)
+- [India vs Japan: জাপানের বিরুদ্ধে ভারতের নাটকীয় জয়ের পর অক্ষরের ওয়াইড বল নিয়ে তুঙ্গে বিতর্ক, কী বলছে নিয়ম?](https://bengali.abplive.com/sports/cricket/india-vs-japan-reversal-of-a-wide-ball-in-the-final-over-by-axar-patel-stirs-controversy-ahead-of-asian-games-1193894)
+- [NASA SpaceX Crew-13 Mission Launch](https://www.bhaskarenglish.in/tech-science/news/nasa-spacex-crew-13-mission-launch-florida-iss-139121362.html)
+- [દક્ષિણ આફ્રિકાના ડરબનમાં એક ઘરમાં ઘૂસીને અંધાધૂંધ ગોળીબાર](https://gujarati.indianexpress.com/news/indiscriminate-shooting-after-breaking-into-a-house-in-durban-south-africa-ap-12567311)
+- [SIR મામલે ચૂંટણી કમિશનરો વચ્ચે મતભેદોના 'અહેવાલ'થી રાજકારણ ગરમાયું, શું છે સમગ્ર મામલો?](https://www.bbc.com/gujarati/articles/c8zxzqr0dwdvo)
+- [ఈనెల 28 నుంచి 30 వరకు బ్యాంకులు బంద్.. ఆదివారం పని చేస్తాయి..](https://www.andhrajyothy.com/2026/business/bank-strike-september-28-30-sbi-canara-bank-services-to-be-affected-sgr-1560623.html)
+- [Gautam Adani reclaims top spot as India’s richest, edges out Mukesh Ambani: Hurun Rich List](https://economictimes.indiatimes.com/news/company/corporate-trends/gautam-adani-reclaims-top-spot-as-indias-richest-edges-out-mukesh-ambani/articleshow/134429510.cms?from=mdr)
+- [ईशान आनंद बनाए गए BSP के राष्ट्रीय संयोजक, मायावती का बड़ा ऐलान, इन दो नेताओं से सीखने को कहा](https://navbharattimes.indiatimes.com/state/uttar-pradesh/lucknow/ishan-anand-appointed-bsp-national-coordinator-mayawati-announcement/articleshow/134429473.cms)
+- [रविवार को भी खुलेंगे बैंक, हड़ताल से पहले सरकार का बड़ा फैसला](https://www.abplive.com/business/banks-to-remain-open-on-sunday-too-government-major-decision-ahead-of-3-day-strike-3192694)
+- [देशातील आणखी एक पक्ष फुटला; मित्रपक्षाचेच आठ आमदार भाजपच्या गळाला, रात्रीत फिरली चक्रं Meghalaya UDP Split](https://sarkarnama.esakal.com/desh/bjp-assembly-strength-meghalaya-udp-eight-mlas-join-10-rm82)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
