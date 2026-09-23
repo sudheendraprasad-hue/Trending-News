@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-23 05:34:39
+# India Trending Report — 2026-09-23 11:18:31
 
 ## Google Trends (India) — top trending searches
 1. [hero motors share price](https://trends.google.com/trending/rss?geo=IN)
@@ -17,13 +17,13 @@
 - [Peacemaker with a warning to annihilate: The major contradictions in Trump's UN speech](https://timesofindia.indiatimes.com/world/us/peacemaker-with-a-warning-to-annihilate-the-major-contradictions-in-trumps-un-speech/articleshow/134425179.cms)
 - [Karnataka man murdered in UAE, body cut into 9 pieces; wife, son untraceable](https://timesofindia.indiatimes.com/city/mangaluru/karnataka-man-murdered-in-sharjah-body-cut-into-9-pieces-wife-son-untraceable-says-kin/articleshow/134425604.cms)
 - [Nationwide strike : Banks to remain shut for three days - what customers need to know](https://timesofindia.indiatimes.com/business/india-business/nationwide-strike-banks-to-remain-shut-from-monday-for-three-days-what-customers-need-to-know/articleshow/134426007.cms)
-- [Gwalior teen raped by 17-year-old neighbour on day of Jamui horror](https://timesofindia.indiatimes.com/city/bhopal/blackmailed-with-morphed-pics-gwalior-teen-raped-by-17-year-old-neighbour-on-day-of-jamui-horror/articleshow/134424045.cms)
+- [Back home on leave, army man 'beaten to death' by drunk youths in road rage](https://timesofindia.indiatimes.com/city/guwahati/6-sent-to-judicial-custody-over-killing-of-soldier-in-mizoram/articleshow/134418439.cms)
 - [Trump says 'artificial' makes AI sound fake, renames it 'super intelligence'](https://timesofindia.indiatimes.com/technology/tech-news/donald-trump-wants-to-rename-ai-says-artificial-makes-ai-sound-fake-renames-it-super-intelligence-it-is-exactly-the-opposite-of-/articleshow/134424332.cms)
-- ['Stalked, hit deliberately': Delhi woman claims bikers chased her scooty before crash](https://timesofindia.indiatimes.com/city/delhi/woman-scooterist-claims-bikers-chased-hit-injured-her-near-panchsheel-metro-stn-cops-probe/articleshow/134418669.cms)
+- [South Africa mass shooting: At least 11 killed by unidentified gunman in Durban](https://timesofindia.indiatimes.com/world/rest-of-world/south-africa-mass-shooting-at-least-11-killed-by-unidentified-gunman-in-durban/articleshow/134426336.cms)
 - [Heavy LHB bogie corrosion worries Railways; toilet leaks, saline air blamed](https://timesofindia.indiatimes.com/business/india-business/heavy-corrosion-in-lhb-train-coach-bogies-despite-improved-materials-worries-railway-engineers-toilet-leaks-cleaning-chemicals-and-saline-air-blamed-railway-board-orders-special-safety-checks/articleshow/134406709.cms)
-- [Trump to increase presence with two ‘very big’ military bases in Greenland](https://timesofindia.indiatimes.com/world/us/trump-signs-security-agreement-with-denmark-greenland-to-increase-presence-with-two-very-big-military-bases/articleshow/134418453.cms)
-- [India men's skeet team clinch bronze after shoot-off win over Kazakhstan](https://timesofindia.indiatimes.com/sports/asian-games-2026/india-mens-skeet-team-clinch-bronze-after-shoot-off-win-over-kazakhstan/articleshow/134425185.cms)
-- [How 3 men posing as cops turned 17-year-old’s birthday outing into a nightmare](https://timesofindia.indiatimes.com/city/delhi/firearms-knife-and-more-how-3-men-posing-as-cops-turned-17-year-olds-birthday-outing-into-a-nightmare/articleshow/134423680.cms)
+- [Gwalior teen raped by 17-year-old neighbour on day of Jamui horror](https://timesofindia.indiatimes.com/city/bhopal/blackmailed-with-morphed-pics-gwalior-teen-raped-by-17-year-old-neighbour-on-day-of-jamui-horror/articleshow/134424045.cms)
+- [India ODI squad to assemble in Thiruvananthapuram by September 24](https://timesofindia.indiatimes.com/sports/cricket/news/india-odi-squad-to-assemble-in-thiruvananthapuram-by-september-24/articleshow/134426545.cms)
+- ['Stalked, hit deliberately': Delhi woman claims bikers chased her scooty before crash](https://timesofindia.indiatimes.com/city/delhi/woman-scooterist-claims-bikers-chased-hit-injured-her-near-panchsheel-metro-stn-cops-probe/articleshow/134418669.cms)
 
 **NDTV**
 - ["No Dissent By Any Election Commissioner": Sources As Opposition Targets Gyanesh Kumar](https://www.ndtv.com/india-news/no-dissent-by-any-election-commissioner-sources-as-opposition-targets-gyanesh-kumar-12084661#publisher=newsstand)
@@ -38,8 +38,9 @@
 - [College Student Allegedly Chased, Harassed By 2 Men On Bike In Delhi, Pushed Off Scooty](https://www.ndtv.com/delhi-news/college-student-chased-harassed-by-2-men-on-bike-in-delhi-pushed-off-scooty-12084290#publisher=newsstand)
 
 **Hindustan Times**
-- [Cyclone 'Arnab' alert: Are schools in Odisha, Andhra Pradesh open today?](https://www.hindustantimes.com/india-news/cyclone-arnab-alert-are-schools-in-odisha-andhra-pradesh-open-today-101790132961280.html)
-- [‘Invisible hand’: Opp questions ECI after report on commissioners’ SIR concerns](https://www.hindustantimes.com/india-news/invisible-hand-opp-questions-eci-after-report-on-commissioners-sir-concerns-101790140034168.html)
+- [‘Gyanesh Kumar is enemy of India’: CJP's Abhijeet Dipke on report over EC internal rift](https://www.hindustantimes.com/india-news/gyanesh-kumar-enemy-of-india-cjp-abhijeet-dipke-report-ec-internal-rift-cec-sukhbir-singh-sandhu-vivek-joshi-101790140113469.html)
+- [Storm alert: Are schools in Odisha, Andhra Pradesh open or closed today?](https://www.hindustantimes.com/india-news/cyclone-arnab-alert-are-schools-in-odisha-andhra-pradesh-open-today-101790132961280.html)
+- [‘Invisible hand’: Opposition questions ECI after report on commissioners’ SIR concerns](https://www.hindustantimes.com/india-news/invisible-hand-opp-questions-eci-after-report-on-commissioners-sir-concerns-101790140034168.html)
 - [Election Commission sources reject report of internal disquiet: ‘SIR, all other decisions unanimous’](https://www.hindustantimes.com/india-news/election-commission-sources-reject-report-of-internal-disquiet-sir-all-other-decisions-unanimous-101790138963394.html)
 - ['Russia’s economy depends on India': Zelensky says ending oil trade could stop Ukraine war](https://www.hindustantimes.com/world-news/russia-economy-depends-on-india-ukraine-president-zelensky-war-us-donald-trump-sanctions-law-tariffs-putin-101790135854174.html)
 - [Keralam govt orders probe against former CM Pinarayi Vijayan and family in CMRL case](https://www.hindustantimes.com/india-news/keralam-govt-orders-probe-against-former-cm-pinarayi-vijayan-and-family-in-cmrl-case-101790135102435.html)
@@ -47,7 +48,6 @@
 - [Uttarakhand: Two arrested for submitting fake documents for NEET UG 2025 admission](https://www.hindustantimes.com/india-news/uttarakhand-two-arrested-for-submitting-fake-documents-for-neet-ug-2025-admission-101790135802629.html)
 - [AI must not create new divides, Jaishankar urges Global South](https://www.hindustantimes.com/india-news/ai-artificial-intelligence-s-jaishankar-debate-regulations-divisions-101790135691458.html)
 - [2020 rape uncovered in Gujarat as son fails bone marrow match with dying father](https://www.hindustantimes.com/india-news/bone-marrow-test-raises-questions-about-sons-parentage-opens-2020-rape-case-in-gujarat-morbi-bone-marrow-101790127715646.html)
-- [Nagaon bypoll: Congress slams BJP over convoy with leaders attacked in Assam](https://www.hindustantimes.com/india-news/nagaon-bypoll-congress-slams-bjp-over-convoy-with-leaders-attacked-in-assam-101790132913215.html)
 
 **Vijay Karnataka**
 - [ಉಂಡೆ ಕೊಬ್ಬರಿ ದರ ಪಾತಾಳಕ್ಕೆ : ಕೊಬ್ಬರಿ ಬೆಳೆಗಾರರಿಗೆ ವಾಟಿ ಹೊಡೆತ, ಕರ್ನಾಟಕದ ರೈತರು, ವ್ಯಾಪಾರಸ್ಥರು ಕಂಗಾಲು](https://vijaykarnataka.com/news/hasana/copra-price-fallen-in-karnataka-due-to-vati-import-from-tamilnadu-and-kerala-farmers-are-worried/articleshow/134424509.cms)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಸುಪ್ರಿಂ ಕೋರ್ಟ್ ಆದೇಶದಿಂದ ವಂದೇ ಮಾತರಂ ಹಾಡಲು ಬಾರದ ಬಿಜೆಪಿಗರು ನೆಮ್ಮದಿಯ ನಿಟ್ಟುಸಿರು ಬಿಡುವಂತಾಗಿದೆ: ಬಿ.ಕೆ.ಹರಿಪ್ರಸಾದ್ ವ್ಯಂಗ್ಯ](https://www.varthabharati.in/bjp-leaders-who-dont-know-vande-mataram-can-sigh-in-relief-b.k.-hariprasads-taunt)
 - [Delhi | ಕಾಲೇಜು ಪಕ್ಕದ ಪಾರ್ಕ್ ಬಳಿ ಲೈಂಗಿಕ ದೌರ್ಜನ್ಯ ಪ್ರಕರಣ : ಆನ್‌ ಲೈನ್‌ ತರಗತಿ ಮೊರೆ ಹೋದ  ಲೇಡಿ ಶ್ರೀ ರಾಮ್ ಮಹಿಳಾ ಕಾಲೇಜು](https://www.varthabharati.in/National/delhi-sexual-assault-case-near-park-next-to-college-lady-shri-ram-college-for-women-switches-to-online-classes-2277237)
 - [ಕಸ್ತೂರಿರಂಗನ್ ವರದಿ: ಪರಿಸರ ನಾಶದ ಬಂಡವಾಳಶಾಹಿ ಮೂಲವನ್ನೇಕೆ ಪ್ರಶ್ನಿಸುವುದಿಲ್ಲ?](https://www.varthabharati.in/taxonomy/term/100061/kasturirangan-report-why-does-it-not-question-the-capitalist-roots-of-environmental-destruction-2277235)
 - [Kundapura | ಕೋಟೇಶ್ವರದ ಕೋಟಿತೀರ್ಥ ಪುಷ್ಕರಣಿಗೆ ಹಾರಿ ಯುವಕ ಆತ್ಮಹತ್ಯೆ](https://www.varthabharati.in/udupi/young-man-commits-suicide-by-jumping-into-koteshwaras-kotiteertha-lake-2277230)
@@ -107,38 +108,89 @@
 - [6 ವರ್ಷಗಳಲ್ಲಿ ಹೊರ ರಾಜ್ಯದವರಿಂದ 490 ಎಕರೆ ಕೃಷಿ ಜಮೀನು ಖರೀದಿ](https://www.varthabharati.in/vishesha-varadigalu/490-acres-of-agricultural-land-purchased-by-people-from-other-states-over-6-years-2277223)
 - [ಇರಾನ್ ನಾಯಕರೊಂದಿಗೆ ಮೂರು ಗಂಟೆಗಳ ಕಾಲ ಮಾತುಕತೆ ನಡೆಸಿದ ಅಮೆರಿಕ ನಿಯೋಗ; ‘ಅತ್ಯಂತ ಉತ್ತಮ ಸಭೆ’ ಎಂದ ಟ್ರಂಪ್](https://www.varthabharati.in/international/us-delegation-holds-three-hour-talks-with-iranian-leaders-trump-calls-it-very-good-2277220)
 - [ಅಪ್ರಬುದ್ಧ ಹೇಳಿಕೆ ಅನರ್ಥಕ್ಕೆ ದಾರಿ](https://www.varthabharati.in/sampaadakeeya/an-immature-statement-leads-to-trouble-2277222)
-- [Uttar Pradesh | ಪತ್ನಿ, ಪುತ್ರ, ಇಬ್ಬರು ಅರ್ಚಕರ ಹತ್ಯೆ : ಮೂವರು ಮಕ್ಕಳನ್ನು ಒತ್ತೆಯಾಳಾಗಿರಿಸಿದ ವ್ಯಕ್ತಿ](https://www.varthabharati.in/uttar-pradesh-murder-of-wife-son-and-two-priests-man-holds-three-children-hostage/national/uttar-pradesh-2277219)
+
+**Asianet Kannada**
+- [Ballari Farmers: ಅಧಿಕಾರಿಗಳ ನಿರ್ಲಕ್ಷ್ಯಕ್ಕೆ ರೈತರ ಉತ್ತರ: 3 ದಿನ ಭಗೀರಥ ಪ್ರಯತ್ನ!](https://kannada.asianetnews.com/karnataka-districts/ballari-somalapur-cross-farmers-set-an-example-by-desilting-tungabhadra-low-level-canal-at-their-own-expense-mrq/articleshow-p79idqp)
+- [ಮುರಿದು ಬಿತ್ತಾ ಲವ್ ಮ್ಯಾರೇಜ್ ಆಗಿದ್ದ ಸೆಲೆಬ್ರಿಟಿ ಜೋಡಿಯ 13 ವರ್ಷಗಳ ದಾಂಪತ್ಯ? ಏನಾಯ್ತು..!?](https://kannada.asianetnews.com/entertainment/malayalam-actors-vinu-mohan-and-vidya-kumar-have-reportedly-divorced-by-mutual-consent/articleshow-vs4wt0x)
+- [ಮೈದಾ ಬೇಡ, ಜಂಕ್‌ನಿಂದ ದೂರ, ಮನೆಯಲ್ಲಿ ಸುಲಭವಾಗಿ ಮಾಡಿ ಆರೋಗ್ಯಕರ ಪಿಜ್ಜಾ, ಇಲ್ಲಿದೆ ಟಿಪ್ಸ್](https://kannada.asianetnews.com/gallery/kitchen/no-maida-no-junk-food-make-healthy-pizza-at-home-with-these-easy-tips-rfv0tgg)
+- [ಬೆಳೆ ರಕ್ಷಣೆಗೆ ದಿನಕ್ಕೆ 5 ಸಾವಿರ ಬಾಡಿಗೆ ಟ್ಯಾಂಕರ್‌ನಿಂದ ನೀರುಣಿಸಿದ ಕೊಟ್ಟೂರಿನ ರೈತ](https://kannada.asianetnews.com/karnataka-districts/vijayanagara-kotturu-to-protect-their-crops-farmers-are-paying-a-daily-rent-of-rs-5000-to-water-them-using-tankers-mrq/articleshow-hnwc4wf)
+- [TRAI ಹೊಸ ನಿಯಮ ಜಾರಿ: 30 ಕೋಟಿ ಮೊಬೈಲ್ ಬಳಕೆದಾರರಿಗೆ ಗುಡ್‌ನ್ಯೂಸ್! ಇನ್ಮುಂದೆ ಇಂಟರ್‌ನೆಟ್ ಡೇಟಾ ಇಲ್ಲದಿದ್ರೂ ಸಿಗುತ್ತೆ ಈ ಸೌಲಭ್ಯ!](https://kannada.asianetnews.com/india-news/trai-new-rules-more-voice-sms-only-recharge-plans-for-mobile-users-check-top-changes-rav/articleshow-wxt23sa)
+- [ಭಾರತ ಪಾಕಿಸ್ತಾನ ಸೇರಿ ವಿಶ್ವದ 8 ಯುದ್ಧ ನಿಲ್ಲಿಸಿದ್ದೇ ನಾನು: ಮತ್ತೊಮ್ಮೆ ಕೊಚ್ಚಿಕೊಂಡ ಟ್ರಂಪ್! ಇರಾನ್‌ಗೆ ಎಚ್ಚರಿಕೆ](https://kannada.asianetnews.com/world-news/us-president-donald-trump-at-81st-unga-claims-stopping-8-wars-including-india-vs-pakistan-gdp/articleshow-dvhx81y)
+- [ಲಟ್ಟಣಿಗೆ ಮುಟ್ಟದೆಯೂ ಮಾಡಬಹುದು ತೆಳು ಹೋಳಿಗೆ.. ಇಲ್ಲಿದೆ ಸಿಂಪಲ್ ಟ್ರಿಕ್](https://kannada.asianetnews.com/webstories/food/easy-kitchen-trick-to-make-puran-poli-without-rolling-pin-ovqbs3s)
+- [ಈ 4 ರಾಶಿಗಳು 92 ದಿನಗಳ ಕಾಲ ರಾಜರಂತೆ ಬದುಕುತ್ತವೆ, ಗ್ರಹ ಸ್ಥಾನದಿಂದ ಭರ್ಜರಿ ಹಬ್ಬ](https://kannada.asianetnews.com/festivals/these-4-zodiac-signs-will-live-a-life-fit-for-a-king-for-92-days-suh/articleshow-zq7snk3)
+- [ಕುಕ್ಕರ್‌ನಲ್ಲಿ ಬೇಯಿಸಿದ ಅನ್ನ ಉತ್ತಮವೇ? ಅಥವಾ ಸ್ಟೀಮರ್‌ನಲ್ಲಿ ಬೇಯಿಸುವುದು ಆರೋಗ್ಯಕರವೇ?](https://kannada.asianetnews.com/food/rice-cooking-pressure-cooker-or-pot-which-method-helps-preserve-nutrients-kvn/articleshow-wpwgrul)
+- [ಸಾರ್..ತಿಂಗಳಿಗೆ 75 ಸಾವಿರ ದುಡಿಯುತ್ತೇನೆ, ಅದ್ರೂ ಕೊನೆಗೆ ಸಾಲ ಎಂದ ಆಟೋ ಚಾಲಕನ ಮಾತು ವೈರಲ್](https://kannada.asianetnews.com/viral/auto-driver-says-he-earns-rs-75000-monthly-but-still-ends-up-in-debt-video-goes-viral/articleshow-h9q9d5t)
+
+**News18 Kannada**
+- [Bigg Boss: ಎಲಿಮಿನೇಟ್ ಆದ್ರೂ ನಗುತ್ತಲೇ ಬಿಗ್​ಬಾಸ್ ಮನೆಯಿಂದ ಹೋಗಿದ್ದ ಆ ಮಾಜಿ ಸ್ಪರ್ಧಿ ಅರೆಸ್ಟ್](https://kannada.news18.com/news/entertainment/bigg-boss-fame-varshini-venkat-arrested-after-cheating-case-dvp-2494452.html)
+- [CM DK Shivakumar vs R Ashok | ಸರ್ಕಾರಕ್ಕೆ ಬರಗಾಲದ ಬಿಸಿ ಮುಟ್ಟಿಸಲು ಸಜ್ಜಾದ ಬಿಜೆಪಿ!](https://kannada.news18.com/videos/bengaluru-urban/cm-dk-shivakumar-vs-r-ashok-psp-2494464.html)
+- [Heart Attack: ಜಿಮ್‌ಗೆ ಹೋಗುವವರೆಲ್ಲರಿಗೂ ಇದು ಗೊತ್ತಿರಲೇಬೇಕು! ಹೃದಯಾಘಾತ ತಪ್ಪಿಸುವ ಸಿಂಪಲ್ ಟಿಪ್ಸ್ ಇಲ್ಲಿವೆ](https://kannada.news18.com/news/lifestyle/why-are-lives-being-lost-in-gyms-and-playgrounds-find-out-the-main-causes-of-heart-attacks-during-workouts-msy-ws-l-2494455.html)
+- [Anant Nag Receives Dadasaheb Phalke Award | ಅನಂತ್‌ನಾಗ್‌ಗೆ ದಾದಾ ಸಾಹೇಬ್ ಫಾಲ್ಕೆ | N18S](https://kannada.news18.com/videos/entertainment/anant-nag-receives-dadasaheb-phalke-award-psp-2494460.html)
+- [Bad Zodiac Sign: ಹಿಡಿದ ಪಟ್ಟು ಬಿಡದ ಹಠಮಾರಿಗಳು! ಈ ರಾಶಿಯವರು ಎಷ್ಟೇ ಒಳ್ಳೆಯವರಾದರೂ ಕೊನೆಗೆ ಒಂಟಿಯಾಗುವುದೇಕೆ?](https://kannada.news18.com/news/astrology/leo-pride-may-hinder-progress-avh-ws-el-2494450.html)
+- [Petrol and Diesel Price: ಇಂದು ನಿಮ್ಮ ನಗರದಲ್ಲಿ ಪೆಟ್ರೋಲ್ ಡೀಸೆಲ್ ಬೆಲೆ ಚೆಕ್ ಮಾಡಿದ್ರಾ? ಇಲ್ಲೇ ನೋಡಿ](https://kannada.news18.com/news/business/petrol-and-diesel-latest-prices-on-sep-23rd-2026-on-several-cities-india-including-bengaluru-akd-2494449.html)
+- [Kichcha Sudeep: ಬಿಲ್ಲ ರಂಗ ಬಾಷಾ ಚಿತ್ರದಲ್ಲಿ ಸುದೀಪ್ 3 ಪಾತ್ರಗಳು! ದೇವರಾಯ ಚಿತ್ರಕ್ಕಾಗಿ ಸಖತ್ ಲುಕ್](https://kannada.news18.com/news/entertainment/kichcha-sudeep-triple-role-in-billa-ranga-baashaa-movie-rvj-dvp-2494401.html)
+- [Two Cops Dead Ramban: ಕಾರ್‌ನೊಳಗೆ ಇಬ್ಬರು ಪೊಲೀಸರ ಮೃತದೇಹ ಪತ್ತೆ! ಕಾಶ್ಮೀರದಲ್ಲಿ ನಡೆದ ಅನುಮಾನಾಸ್ಪದ ಸಾವಿನ ಹಿಂದಿರೋದು ಯಾರು?](https://kannada.news18.com/news/national-international/two-jk-policemen-found-dead-inside-parked-car-in-rambans-batote-area-akd-2494424.html)
+- [PM Modi US Visit: ಅಮೆರಿಕಾಗೆ ಮೋದಿ ಭೇಟಿ ಫಿಕ್ಸ್, ವರ್ಷಾಂತ್ಯಕ್ಕೆ ಟ್ರಂಪ್ ಜೊತೆ ಮೀಟಿಂಗ್](https://kannada.news18.com/news/national-international/modi-us-visit-for-g20-summit-quad-meeting-possibility-pod-ws-l-2494441.html)
+- [Bengaluru Property: ಬೆಂಗಳೂರು ಆಸ್ತಿ ಮಾಲೀಕರಿಗೆ ಗುಡ್​ ನ್ಯೂಸ್​! ಇನ್ಮುಂದೆ ಇ-ಖಾತಾ ಮಾಡಿಸಲು ಟೆನ್ಶನ್​ ಇಲ್ಲ](https://kannada.news18.com/news/state/bengaluru-property-owners-e-khata-process-easier-gba-latest-update-hmg-2494391.html)
+
+**TV9 Kannada**
+- [Gold Rates 23 September: ಚಿನ್ನದ ಬೆಲೆ ಗ್ರಾಮ್​ಗೆ 80 ರೂ ಇಳಿಕೆ; ಇಲ್ಲಿದೆ ದರಪಟ್ಟಿ](https://tv9kannada.com/business/gold-rate-23-september-2026-gold-prices-down-on-wednesday-news-in-kannada-1241519.html)
+- [Karnataka Legislative Council Live: ವಿಧಾನ ಪರಿಷತ್​​ ಅಧಿವೇಶನ; ಮೂರನೇ ದಿನದ ಕಲಾಪ ನೇರಪ್ರಸಾರ](https://tv9kannada.com/videos/karnataka-legislative-council-special-session-day-3-live-streaming-in-tv9-kannada-1241516.html)
+- [Karnataka Assembly Session Live: ಕೊನೆಯ ದಿನದ ವಿಧಾನಸಭೆ ಅಧಿವೇಶನದ ನೇರಪ್ರಸಾರ](https://tv9kannada.com/videos/karnataka-legislative-assembly-special-session-day-3-live-online-streaming-in-tv9-kannada-1241507.html)
+- [ಕೆಪಿಎಸ್​ಸಿ ನೇಮಕಾತಿ ಅಕ್ರಮ: ಎಸ್​ಐಟಿ ರಚನೆಯ ಹೈಕೋರ್ಟ್ ಆದೇಶಕ್ಕೆ ಸರ್ಕಾರ ಠಕ್ಕರ್, ಸುಪ್ರೀಂನಲ್ಲಿ ಪ್ರಶ್ನಿಸಲು ತೀರ್ಮಾನ](https://tv9kannada.com/karnataka/kpsc-recruitment-scam-karnataka-government-to-challenge-high-court-sit-order-in-supreme-court-1241502.html)
+- [ಕೆವಿಎನ್ ಸಂಸ್ಥೆಯಿಂದ ಮೋಸ ಆರೋಪ, ನಿರ್ಮಾಪಕರ ಸಂಘಕ್ಕೆ ದೂರು, ಪರಿಹಾರಕ್ಕೆ ಒತ್ತಾಯ](https://tv9kannada.com/entertainment/complaint-against-kvn-productions-by-padmavathi-films-1241485.html)
+- [ಶ್ರಾದ್ಧ ಮಾಡೋಕೆ ಸಮಯ ಇಲ್ವಾ? ಪೂರ್ವಜರ ಆಶೀರ್ವಾದ ಪಡೆಯಲು ಈ ಒಂದು ಸರಳ ದಾರಿ ಅನುಸರಿಸಿ!](https://tv9kannada.com/spiritual/pitru-paksha-sprinkling-water-at-main-door-for-ancestral-blessings-1241497.html)
+- [ಶತದಿನೋತ್ಸವ ಆಚರಿಸಿದ ಬಳಿಕವೇ ‘ಹನುಮಾನ್ ಅಂಶ್’ ಒಟಿಟಿಗೆ; 100 ಕೋಟಿ ರೂ ಡೀಲ್?](https://tv9kannada.com/entertainment/ott/hanuman-ansh-producer-clarifies-100-crore-ott-deal-rumors-and-eyes-100-day-theatrical-run-1241495.html)
+- [ಕಣ್ಣೆದುರಲ್ಲೇ ಮಗುವಿಗೆ ಜನ್ಮ ನೀಡುವ ಬೊಂಬೆ: ‘ಝುರು’ ಕಂಪನಿಯ ವಿಚಿತ್ರ ಆಟಿಕೆ ವೀಡಿಯೋ ವೈರಲ್](https://tv9kannada.com/trending/zuru-giving-birth-doll-sparks-outrage-my-mini-baby-surprise-controversy-1241494.html)
+- [ತೆಲಂಗಾಣಕ್ಕೆ ಕೃಷ್ಣಾ ನದಿಯಿಂದ ನೀರು: ರೈತರ ಸಂಕಷ್ಟಕ್ಕೆ ಸ್ಪಂದಿಸಿದ ಕರ್ನಾಟಕ ಸರ್ಕಾರ!](https://tv9kannada.com/karnataka/bengaluru/karnataka-releases-krishna-water-to-telangana-jurala-project-gates-opened-1241493.html)
+- [ಐಐಟಿ ಬಾಂಬೆ ವಿದ್ಯಾರ್ಥಿ ಆತ್ಮಹತ್ಯೆ ಕೇಸ್: ಕಡ್ಡಾಯ ರಜೆ ಮೇಲೆ ಹೊರ ನಡೆದ  ಪ್ರೊಫೆಸರ್ ಸೂರ್ಯನಾರಾಯಣ ದೂಲ್ಲಾ](https://tv9kannada.com/national/iit-bombay-student-death-prof-doolla-sent-on-leave-amidst-caste-discrimination-row-1241486.html)
+
+**Prajavani**
+- [ಪುತ್ತೂರು: ಕಾರ್ತಿಕ್ ಸುವರ್ಣ ಕೊಲೆ ಪ್ರಕರಣದಲ್ಲಿ ಇಬ್ಬರಿಗೆ ಜೀವಾವಧಿ ಶಿಕ್ಷೆ](https://www.prajavani.net/district/dakshina-kannada/puttur-karthik-suvarna-merla-murder-life-imprisonment-4280739)
+- [ಆಲಿಸುವುದರಿಂದ ಎಷ್ಟೆಲ್ಲಾ ಕಲಿಯಬಹುದು?: ಆನ್‌ಲೈನ್ ಸಂವಾದಗಳ ಮಹತ್ವವೇನು?](https://www.prajavani.net/explainer/digest/how-much-can-you-learn-by-listening-the-educational-potential-of-conversations-online-4281375)
+- [ಮಡಿಕೇರಿ: ಯೋಗದಲ್ಲಿ ಮತ್ತೆ 3 ವಿಶ್ವ ದಾಖಲೆಗೆ ಸಿಂಚನಾ ಸಿದ್ಧತೆ](https://www.prajavani.net/district/kodagu/sinchana-yoga-world-record-attempt-madikeri-4280486)
+- [ಆತ್ಮಹತ್ಯೆ ಪ್ರಕರಣ: RDCC ಬ್ಯಾಂಕ್ ವ್ಯವಸ್ಥಾಪಕಿ ಸೇರಿ 15 ಮಂದಿ ವಿರುದ್ಧ ಪ್ರಕರಣ](https://www.prajavani.net/district/raichur/maski-suicide-case-three-arrested-police-investigation-4280922)
+- [ಸಿದ್ದರಾಮಯ್ಯ ಕೆಳಗಿಳಿಸಿದ್ದು ಯಾರು?: ಅಶೋಕ](https://www.prajavani.net/news/karnataka-news/siddaramaiah-chief-minister-politics-r-ashoka-assembly-4281120)
+- [ಕಾಲುವೆ ಬಂದ್‌ಗೆ ಜಿಲ್ಲಾಧಿಕಾರಿ ಹೊರಡಿಸಿರುವ ಆದೇಶಕ್ಕೆ ತೀವ್ರ ವಿರೋಧ, ಪ್ರತಿಭಟನೆ](https://www.prajavani.net/district/raichur/sindhanur-farmers-protest-against-dc-order-on-canal-closure-4279620)
+- [ಸ್ಥಳೀಯ ಸಂಸ್ಥೆ ಚುನಾವಣೆಗೆ ಸಜ್ಜಾಗಿ–ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ. ಶಿವಕುಮಾರ್‌](https://www.prajavani.net/news/karnataka-news/local-body-elections-dk-shivakumar-congress-karnataka-4281127)
+- [ಕಾರ್ಪೊರೇಟ್ ಉದ್ಯೋಗ ಶಾಶ್ವತವಲ್ಲ; ಅನಿಶ್ಚಿತತೆಯಲ್ಲೂ ದೃಢವಾಗಿರುವುದು ಹೇಗೆ?](https://www.prajavani.net/explainer/digest/how-to-stay-resilient-in-uncertain-corporate-jobs-4281367)
+- [ರಾಜ್ಯದಲ್ಲಿ ಕೊಲೆ, ಅತ್ಯಾಚಾರ, ದೌರ್ಜನ್ಯ ಪ್ರಕರಣಗಳ ಹೆಚ್ಚಳ: ಭಾಸ್ಕರ ಪ್ರಸಾದ](https://www.prajavani.net/district/raichur/manvi-crime-allegations-dalit-organizations-protest-4281217)
+- [ಲೋಕಾಯುಕ್ತ ದಾಳಿ: ನಿವೃತ್ತ ಕೃಷಿ ಅಧಿಕಾರಿ ಬಳಿ ₹3 ಕೋಟಿ ಮೌಲ್ಯದ ಆಸ್ತಿ ಪತ್ತೆ](https://www.prajavani.net/district/bidar/lokayukta-raid-retired-agriculture-officer-bidar-assets-seized-4280258)
+
+**eedina**
+- [ಬಾಗಲಕೋಟೆ | ಮುಂದುವರಿದ ಬಿಸಿಲ ಬೇಗೆ: ಮಳೆ ನಿರೀಕ್ಷೆಯಲ್ಲಿ ಕೃಷ್ಣಾ ತೀರದ ರೈತರು](https://eedina.com/?p=764603)
+- [ಏಷ್ಯನ್ ಗೇಮ್ಸ್: ಸ್ಕೀಟ್ ಶೂಟಿಂಗ್, ಸಾಫ್ಟ್ ಟೆನಿಸ್‌ನಲ್ಲಿ ಭಾರತಕ್ಕೆ ಕಂಚು; ಪದಕದತ್ತ ಮೀರಾಬಾಯಿ ದಾಪುಗಾಲು](https://eedina.com/?p=765187)
+- [ಇನ್ಸ್‌ಪೆಕ್ಟರ್‌ಗೆ ಜಾತಿ ನಿಂದನೆ: ಪ್ರತಾಪ್ ಸಿಂಹ ವಿರುದ್ಧ ಮತ್ತೊಂದು ಎಫ್‌ಐಆರ್ ದಾಖಲು](https://eedina.com/?p=765182)
+- [ಬೆಳಗಾವಿ | ಬರ ವಿದ್ಯುತ್ ಸಮಸ್ಯೆ: ಸವದಿ ವಿರುದ್ದ ಕುಮಠಳ್ಳಿ ವ್ಯಂಗ್ಯ](https://eedina.com/?p=765175)
+- [ಸೌಜನ್ಯ ಪ್ರಕರಣ: ಮರುತನಿಖೆ ಆದೇಶಕ್ಕೆ ‘ಕೊಂದವರು ಯಾರು?’ ಆಂದೋಲನ ಸ್ವಾಗತ, ದಕ್ಷ ಎಸ್‌ಐಟಿ ರಚನೆಗೆ ಆಗ್ರಹ](https://eedina.com/?p=765177)
+- [ಆಲಮಟ್ಟಿ 3ನೇ ಹಂತದ ಯೋಜನೆ ಜಾರಿಗೆ ಹೋರಾಟ ತೀವ್ರ](https://eedina.com/?p=765171)
+- [ಬೆಳಗಾವಿ | ಬಳೆ ತಯಾರ್ ಇದಾವ್‌, ಹಾಕೊಳ್ಳಕ್‌ ತಯಾರಾಗ್ರಿ : ಸವದಿಗೆ ಕುಮಠಳ್ಳಿ ವ್ಯಂಗ್ಯ](https://eedina.com/?p=765163)
+- [ರಾಯಚೂರು | ದಲಿತರ ಸರಣಿ ಮೂರು ಕೊಲೆಗಳ ಸಿಐಡಿ ತನಿಖೆಗೆ ಆಗ್ರಹ: ಗೃಹ ಸಚಿವರಿಗೆ ಮನವಿ](https://eedina.com/?p=765153)
+- [‘SIR ಪ್ರಕ್ರಿಯೆ ಕುರಿತು ನಮಗೆ ಏನನ್ನೂ ತಿಳಿಸದೇ ತೀರ್ಮಾನ’: ಗ್ಯಾನೇಶ್ ಕುಮಾರ್ ವಿರುದ್ಧ ಸಿಡಿದೆದ್ದ ಇಬ್ಬರು ಚುನಾವಣಾ ಆಯುಕ್ತರು!](https://eedina.com/?p=765152)
+- [ರಾಯಚೂರು | ಬಸವರಾಜ ಆತ್ಮಹತ್ಯೆ ಪ್ರಕರಣ: 15 ಮಂದಿ ವಿರುದ್ಧ ಕೇಸ್, ಮೂವರ ಬಂಧನ](https://eedina.com/?p=765143)
 
 ## Cross-source trending keywords (derived from headlines above)
+- September (6.5)
 - Delhi (5.5)
 - Emkay Global Financial (5.0)
-- Trump (4.2)
-- Bengaluru (3.9)
-- September (3.9)
+- Bengaluru (4.2)
+- Live (3.2)
 - ICICI Securities (3.0)
 - target (3.0)
-- India (2.6)
+- Trump (2.9)
+- India (2.9)
+- Petrol (2.9)
 - Keralam (2.6)
-- Congress (2.6)
 - Global (2.4)
 - Asian Games (2.0)
 - Buy Bajaj Finance (2.0)
-- Trump's (1.6)
-- Deal (1.6)
+- Karnataka (1.9)
 
 ## NewsAPI top headlines (India)
+_Skipped — set NEWSAPI_KEY in .env to enable (https://newsapi.org)._
 
 ## GNews top headlines (India)
-- [Sisir Adhikari : “শুভেন্দুবাবুর থেকেও বেশি ভোটে জিতবে” , নন্দীগ্রামের বিজেপি প্রার্থী হাসিরানিকে নিয়ে বড় দাবি শিশির অধিকারীর](https://bengali.abplive.com/district/sisir-adhikari-claims-bjp-candidate-hasirani-rath-will-got-more-vote-from-cm-suvendu-adhikari-on-nandigram-by-election-2026-1193830)
-- [കാക്കനാട് അമ്പാടിമൂലയില്‍ യുവതിയെ പെട്രോള്‍ ഒഴിച്ച് തീ കൊളുത്തി; ഭര്‍ത്താവ് അറസ്റ്റിൽ](https://www.reporterlive.com/topnews/kerala/2026/09/22/kakkanad-incident-accused-arrested-by-police)
-- [UNGA में तुर्की के राष्ट्रपति एर्दोगन ने फिर अलापा 'कश्मीर राग', संयुक्त राष्ट्र के मंच से कह दी बड़ी बात](https://navbharattimes.indiatimes.com/world/america/turkish-president-recep-tayyip-erdogan-raises-kashmir-issue-in-unga-speech/articleshow/134417554.cms)
-- [Who is Dinesh Thakkar? Angel One boss who bought a Mumbai tower for Rs 711 crore?](https://timesofindia.indiatimes.com/business/india-business/who-is-dinesh-thakkar-angel-one-boss-who-bought-a-mumbai-tower-for-rs-711-crore/articleshow/134417341.cms)
-- ['टैरिफ बम' से थमेगी रूस-यूक्रेन जंग? UNGA में ट्रंप ने खोले पत्ते, भारत के लिए टेंशन की बात](https://www.livehindustan.com/international/doanld-trump-said-in-unga-new-tariff-law-could-help-stop-russia-ukraine-war-201790097189226.html)
-- [અમદાવાદમાં મચ્છરજન્ય રોગચાળાનો કહેર, 20 જ દિવસમાં ડેન્ગ્યુના 496 કેસો નોંધાયા: ઓગસ્ટ મહિનાની સરખામણીએ 37 ટકાનો ઉછાળો](https://www.gujaratsamachar.com/news/ahmedabad/amc-dengue-malaria-cases-september-2026-health-report-76778876680)
-- [‘Kashmir issue should be addressed through dialogue’: Turkey's Erdogan at UNGA](https://timesofindia.indiatimes.com/world/middle-east/kashmir-issue-should-be-addressed-through-dialogue-turkeys-erdogan-at-unga/articleshow/134417230.cms)
-- [4x4 வேணுமா? இல்லை 2WD போதுமா? தார் OG-ன் வேரியன்ட் வாரியான பவர்டிரெயின் ஆப்ஷன்கள் விவரங்கள்!](https://www.cardekho.com/ta/news/general/heres-a-look-at-the-variantwise-powertrain-choices-on-offer-with-the-2026-mahindra-thar-og-36691.htm)
-- [Regulator warns against indiscriminate use of painkillers and antibiotics, cites kidney disease risk](https://www.thehindu.com/sci-tech/health/regulator-warns-against-indiscriminate-use-of-painkillers-and-antibiotics-cites-kidney-disease-risk/article71495663.ece)
-- [‘You shouldn’t be here covering me’: Trump confronts CNN’s Kaitlan Collins at UN amid White House ban](https://timesofindia.indiatimes.com/world/us/you-shouldnt-be-here-covering-me-trump-confronts-cnns-kaitlan-collins-at-un-amid-white-house-ban/articleshow/134416955.cms)
+_Skipped — set GNEWS_KEY in .env to enable (https://gnews.io)._
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._

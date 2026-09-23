@@ -60,6 +60,11 @@ NEWS_RSS_FEEDS = {
     "Livemint": "https://www.livemint.com/rss/news",
     "Moneycontrol": "https://www.moneycontrol.com/rss/latestnews.xml",
     "Vartha Bharati": "https://www.varthabharati.in/google_feeds.xml",
+    "Asianet Kannada": "https://kannada.asianetnews.com/rss",
+    "News18 Kannada": "https://kannada.news18.com/commonfeeds/v1/kan/rss/latest.xml",
+    "TV9 Kannada": "https://tv9kannada.com/feed",
+    "Prajavani": "https://www.prajavani.net/feed",
+    "eedina": "https://eedina.com/feed/",
 }
 
 GOOGLE_TRENDS_RSS_URLS = [
@@ -122,6 +127,13 @@ def fetch_news_rss(feed_name, url, top_n):
         for entry in feed.entries[:top_n]:
             title = getattr(entry, "title", "").strip()
             link = getattr(entry, "link", "").strip() or None
+            if not link:
+                # Some feeds (e.g. eedina) ship malformed <link> tags that
+                # feedparser can't recover; fall back to the entry id/guid
+                # when it's itself a usable URL.
+                entry_id = getattr(entry, "id", "").strip()
+                if entry_id.startswith("http"):
+                    link = entry_id
             if title:
                 headlines.append({"title": html.unescape(title), "link": link})
         if not headlines:
