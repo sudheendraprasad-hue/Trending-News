@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-24 00:02:12
+# India Trending Report — 2026-09-24 00:40:53
 
 ## Google Trends (India) — top trending searches
-1. [morgan stanley](https://trends.google.com/trending/rss?geo=IN)
-2. [कुमार कुशाग्र](https://trends.google.com/trending/rss?geo=IN)
-3. [benjamin šeško](https://trends.google.com/trending/rss?geo=IN)
-4. [mirabai chanu](https://trends.google.com/trending/rss?geo=IN)
-5. [fc barcelona femení vs paris fc (women) standings](https://trends.google.com/trending/rss?geo=IN)
-6. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
-7. [portugal national football team](https://trends.google.com/trending/rss?geo=IN)
-8. [dow jones](https://trends.google.com/trending/rss?geo=IN)
-9. [new ott releases](https://trends.google.com/trending/rss?geo=IN)
-10. [barcelona vs paris fc](https://trends.google.com/trending/rss?geo=IN)
+1. [aaj ka mausam](https://trends.google.com/trending/rss?geo=IN)
+2. [weather patna](https://trends.google.com/trending/rss?geo=IN)
+3. [weather today](https://trends.google.com/trending/rss?geo=IN)
+4. [today weather](https://trends.google.com/trending/rss?geo=IN)
+5. [ভারী বৃষ্টি](https://trends.google.com/trending/rss?geo=IN)
+6. [सोने](https://trends.google.com/trending/rss?geo=IN)
+7. [wasim akram](https://trends.google.com/trending/rss?geo=IN)
+8. [పింఛను](https://trends.google.com/trending/rss?geo=IN)
+9. [morgan stanley](https://trends.google.com/trending/rss?geo=IN)
+10. [afghanistan vs japan](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Xi Jinping arrives in Washington as Trump gives rare airport welcome to kick off US state visit](https://timesofindia.indiatimes.com/world/us/xi-jinping-arrives-in-washington-as-trump-gives-rare-airport-welcome-to-kick-off-us-state-visit-top-developments/articleshow/134448382.cms)
-- [Your loan EMI has a US problem: How the Fed quietly influences RBI rate decisions](https://timesofindia.indiatimes.com/business/india-business/your-loan-emi-has-a-washington-problem-how-the-fed-quietly-influences-rbi-rate-decisions/articleshow/134432773.cms)
+- [Trump-Xi meeting: What's on agenda as Chinese president begins 3-day US visit](https://timesofindia.indiatimes.com/world/us/trump-xi-meeting-whats-on-agenda-as-chinese-president-begins-3-day-us-visit/articleshow/134448554.cms)
+- [8 US Navy sailors attempted suicide during USS Lincoln's Iran deployment](https://timesofindia.indiatimes.com/world/us/eight-us-navy-sailors-in-uss-abraham-lincoln-strike-group-attempted-suicide-during-iran-war-deployment/articleshow/134448759.cms)
 - [Putin's party wins again as expected. So why does Russia still hold elections?](https://timesofindia.indiatimes.com/world/europe/putins-party-wins-again-as-expected-so-why-does-russia-still-hold-elections/articleshow/134435340.cms)
 - [After split verdict, SC refers law on EC appointment to larger bench](https://timesofindia.indiatimes.com/india/after-split-verdict-sc-refers-law-on-ec-appointment-to-larger-bench-decision-comes-amid-row-over-ec-functioning/articleshow/134448337.cms)
-- [Cong-led oppn demands Gyanesh ouster, Supreme Court probe](https://timesofindia.indiatimes.com/india/with-vote-chori-bjp-rss-ec-committed-act-of-treason-rahul/articleshow/134445981.cms)
 - [DoorDash agrees to $131.5m after payment errors affected 200,000-plus NYC workers](https://timesofindia.indiatimes.com/technology/tech-news/americas-largest-food-delivery-company-doordash-admits-it-underpaid-or-paid-late-to-200000-plus-workers-in-new-york-city-for-over-three-years-will-pay-131-5-million-in-settlement-and-apologises/articleshow/134439134.cms)
-- [N Chandrasekaran's real vote test: Tata Sons AGM, not boardroom](https://timesofindia.indiatimes.com/business/india-business/n-chandrasekarans-real-vote-test-tata-sons-agm-not-boardroom/articleshow/134448457.cms)
+- [Cong-led oppn demands Gyanesh ouster, Supreme Court probe](https://timesofindia.indiatimes.com/india/with-vote-chori-bjp-rss-ec-committed-act-of-treason-rahul/articleshow/134445981.cms)
 - [George Floyd’s siblings seek accounting of $14.7m memorial GoFundMe](https://timesofindia.indiatimes.com/world/us/in-2020-george-floyds-memorial-gofundme-raised-14-7-million-six-years-later-three-of-his-siblings-are-asking-brother-philonise-for-a-full-accounting-of-the-fundraiser-and-its-distributions/articleshow/134433362.cms)
-- [In meet with Rubio, Jaishankar conveys Russia sanctions law concerns](https://timesofindia.indiatimes.com/world/us/jaishankar-rubio-meeting-india-flags-sanctions-us-waves-friendship/articleshow/134441253.cms)
-- [Allegations of transfer of BCI assets to trust matter of concern: Supreme Court](https://timesofindia.indiatimes.com/india/allegations-of-transfer-of-bci-assets-to-trust-matter-of-concern-supreme-court/articleshow/134445959.cms)
+- [N Chandrasekaran's real vote test: Tata Sons AGM, not boardroom](https://timesofindia.indiatimes.com/business/india-business/n-chandrasekarans-real-vote-test-tata-sons-agm-not-boardroom/articleshow/134448457.cms)
+- [Govt rejects OIC's J&K references as 'factually incorrect'](https://timesofindia.indiatimes.com/india/govt-rejects-oics-jk-references-as-factually-incorrect/articleshow/134448760.cms)
+- [Xi Jinping arrives in Washington as Trump gives rare airport welcome to kick off US state visit](https://timesofindia.indiatimes.com/world/us/xi-jinping-arrives-in-washington-as-trump-gives-rare-airport-welcome-to-kick-off-us-state-visit-top-developments/articleshow/134448382.cms)
 
 **NDTV**
 - [Delhi Clears 1,300 Pink E-Autos For Women, Transgender Drivers: Who Can Apply](https://www.ndtv.com/delhi-news/delhi-clears-1-300-pink-e-autos-for-women-transgender-drivers-who-can-apply-12089409#publisher=newsstand)
@@ -50,16 +50,16 @@
 - [India, China have ‘sufficient political, historical wisdom’ to handle differences: Chinese envoy](https://www.hindustantimes.com/india-news/india-china-have-sufficient-political-historical-wisdom-to-handle-differences-chinese-envoy-101790177357441.html)
 
 **Vijay Karnataka**
+- [ಸೌದೆ ಕಡಿಯಲು ಅಮ್ಮನ ಕಷ್ಟ ನೋಡಿ 'ಕಟ್ ಇಟ್ ಈಸಿ'ಯಂತ್ರ ರೂಪಿಸಿದ ಮಗ: Inspire Manak ರಾಷ್ಟ್ರಮಟ್ಟದ ಸ್ಪರ್ಧೆಗೆ ಉಡುಪಿಯ ಬಾಲವಿಜ್ಞಾನಿ ಆದಿತ್ಯ ಆಯ್ಕೆ!](https://vijaykarnataka.com/news/udupi/young-scientist-aditya-from-udupi-innovatives-cut-it-easy-machine-for-log-cutting-selected-for-inspire-manak-competition/articleshow/134448602.cms)
 - [KMF ನಂದಿನಿ ಹಾಲು ದರ ಹೆಚ್ಚಳಕ್ಕೆ ಸಮ್ಮತಿ; ರೈತರ ಬೇಡಿಕೆಗೆ ಮಣಿದ ಸರ್ಕಾರ! ಗ್ರಾಹಕರಿಗೆ ಪ್ರತಿ ಲೀಟರ್‌ಗೆ 5 ರೂ. ಏರಿಕೆ?](https://vijaykarnataka.com/news/karnataka/approval-granted-for-kmf-nandini-milk-price-hike-government-will-consumers-face-a-hike-of-4-to-5-rs-per-litre/articleshow/134441549.cms)
 - [ರೈತರಿಗೆ ವಿದ್ಯುತ್ ಆಘಾತ: ಕೃಷಿ ಪಂಪ್‌ಸೆಟ್‌ ಗೆ 1 ತಾಸು ವಿದ್ಯುತ್‌ ಕಡಿತ; ಠೇವಣಿ ಕಟ್ಟದ ಐಪಿಗಳ ಸಂಪರ್ಕ ಕಡಿತ ಎಂದ ಸಚಿವ ಜಾರ್ಜ್](https://vijaykarnataka.com/news/karnataka/kj-george-says-1-hour-power-cut-to-farmers-pumpset/articleshow/134442699.cms)
-- [ಶಾಲಿನ ಬಗ್ಗೆ ಕುಶಾಲು ಮಾಡಲು ಹೋಗಿ ಜಗಳ: ವಿಧಾನ ಪರಿಷತ್‌ನಲ್ಲಿ ಗದ್ದಲಕ್ಕೆ ಕಾರಣವಾದ ಹಸಿರು ಶಾಲಿನ ವಿಷಯ!](https://vijaykarnataka.com/news/karnataka/issue-of-green-shawl-cause-uproar-at-legislative-council/articleshow/134443851.cms)
 - [ಹೂವಿನ ಕುಂಡದಲ್ಲಿ ಇರುವೆ ಕಂಡರೆ ಹೀಗೆ ಮಾಡಿ; ಗಿಡಕ್ಕೆ ಹಾನಿಯಾಗದ ನೈಸರ್ಗಿಕ ಪರಿಹಾರಗಳು](https://vijaykarnataka.com/lifestyle/home-decor/how-to-get-rid-of-ants-in-flower-pots-natural-tips/articleshow/134434288.cms)
-- [ನಮ್ಮ ಮೆಟ್ರೋ ಗುಲಾಬಿ ಮಾರ್ಗದ ರೈಲಿಗೆ ರೈಲ್ವೆ ಮಂಡಳಿ ಅನುಮೋದನೆ; ಅಕ್ಟೋಬರ್‌ ಮಧ್ಯದಲ್ಲಿ ಆರಂಭ; 6 ನಿಲ್ದಾಣಗಳ ನಡುವೆ ಸಂಚಾರ](https://vijaykarnataka.com/news/bengaluru-city/railway-board-approves-namma-metro-pink-line-train-operations-to-start-in-mid-october-service-to-run-between-6-stations/articleshow/134441537.cms)
+- [ಶಾಲಿನ ಬಗ್ಗೆ ಕುಶಾಲು ಮಾಡಲು ಹೋಗಿ ಜಗಳ: ವಿಧಾನ ಪರಿಷತ್‌ನಲ್ಲಿ ಗದ್ದಲಕ್ಕೆ ಕಾರಣವಾದ ಹಸಿರು ಶಾಲಿನ ವಿಷಯ!](https://vijaykarnataka.com/news/karnataka/issue-of-green-shawl-cause-uproar-at-legislative-council/articleshow/134443851.cms)
 - [BBK 13: ಕಿರಣ್‌ ಶಾಸ್ತ್ರಿಗೆ ತಾಂಡವ್‌ ಹಿಂಟ್‌ ಕೊಟ್ಟರಾ? ಗೇಮ್‌ನಲ್ಲಿ ನಡಿತಾ ತಾರತಮ್ಯ!](https://vijaykarnataka.com/tv/news/bbk-13-week-3-contestant-tandav-ram-gives-a-hint-to-kiran-shastry-about-pipe-task/articleshow/134444886.cms)
 - [ಪಾರ್ಕ್ ಮಾಡಿದ ಕಾರಿಗೆ ಇಲಿಗಳು ಏಕೆ ಬರುತ್ತವೆ? ತಡೆಯಲು ಈ ನೈಸರ್ಗಿಕ ವಿಧಾನಗಳು ಸಹಕಾರಿ](https://vijaykarnataka.com/lifestyle/home-decor/why-rats-enter-parked-cars-natural-ways-to-keep-rats-away/articleshow/134408701.cms)
 - [ದೇವರ ಕೋಣೆಯ ಮೇಲೆ ಮತ್ತು ಕೆಳಗೆ ಇಡಬಾರದ ವಸ್ತುಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/its-better-to-avoid-to-keep-these-things-on-puja-room/articleshow/134439128.cms)
 - [CDSCO ಎಚ್ಚರಿಕೆ: ಪೇನ್‌ಕಿಲ್ಲರ್, ಆ್ಯಂಟಿಬಯೋಟಿಕ್‌ಗಳ ಅನಗತ್ಯ ಬಳಕೆ; ಕಿಡ್ನಿ ಸಮಸ್ಯೆ ಬಗ್ಗೆ ಎಚ್ಚರ!](https://vijaykarnataka.com/lifestyle/health/cdsco-warning-unnecessary-painkiller-antibiotic-use-side-effects/articleshow/134431451.cms)
-- [VK Real Estate Summit: ಬೆಂಗಳೂರಿನಲ್ಲಿ ಕಾಸಾಗ್ರ್ಯಾಂಡ್‌ ಹೆಜ್ಜೆಗುರುತು: ದಕ್ಷಿಣ ಭಾರತದ ರಿಯಲ್ ಎಸ್ಟೇಟ್ ಬದಲಾವಣೆಯ ಪ್ರತಿಬಿಂಬ](https://vijaykarnataka.com/business/news/vk-real-estate-summit-casagrand-bengaluru-growth-story-reflects-the-changing-face-of-south-india-real-estate-market/articleshow/134440682.cms)
+- [ನಮ್ಮ ಮೆಟ್ರೋ ಗುಲಾಬಿ ಮಾರ್ಗದ ರೈಲಿಗೆ ರೈಲ್ವೆ ಮಂಡಳಿ ಅನುಮೋದನೆ; ಅಕ್ಟೋಬರ್‌ ಮಧ್ಯದಲ್ಲಿ ಆರಂಭ; 6 ನಿಲ್ದಾಣಗಳ ನಡುವೆ ಸಂಚಾರ](https://vijaykarnataka.com/news/bengaluru-city/railway-board-approves-namma-metro-pink-line-train-operations-to-start-in-mid-october-service-to-run-between-6-stations/articleshow/134441537.cms)
 
 **The Hindu**
 - [Sagar hooch tragedy: Two more key accused held after encounter; 39 arrested so far](https://www.thehindu.com/news/national/madhya-pradesh/sagar-hooch-tragedy-two-more-key-accused-held-after-encounter-39-arrested-so-far/article71500299.ece)
@@ -74,6 +74,7 @@
 - [Madhya Pradesh traders, retailers observe ‘No UPI Day’, seek rollback of MDR charges](https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-traders-retailers-observe-no-upi-day-seek-rollback-of-mdr-charges/article71500720.ece)
 
 **Livemint**
+- [Russia sanctions, Iran War, energy and Ukraine: What Jaishankar and Rubio discussed on UNGA sidelines](https://www.livemint.com/news/us-news/russia-sanctions-iran-war-energy-and-ukraine-what-jaishankar-and-rubio-discussed-on-unga-sidelines-trump-11790207428522.html)
 - [Oil Holds Advance on Renewed Tensions Between the US and Iran](https://www.livemint.com/news/us-news/oil-holds-advance-on-renewed-tensions-between-the-us-and-iran-11790206897559.html)
 - [Hurricane Watch Posted on Hawaii’s Big Island as Nolo Approaches](https://www.livemint.com/news/hurricane-watch-posted-on-hawaii-s-big-island-as-nolo-approaches-11790203525312.html)
 - [Zelensky at UNGA: ‘Limit Putin's money. Limit his war’ — key takeaways from Ukraine president’s address](https://www.livemint.com/news/world/zelensky-at-unga-limit-putins-money-limit-his-war-key-takeaways-from-ukraine-president-s-address-11790193820244.html)
@@ -83,7 +84,6 @@
 - [FIFA fans in Delhi, Gurugram can revisit Spain’s World Cup win on Coca-Cola’s Golden Can: Where to buy, price and more](https://www.livemint.com/news/trends/fifa-fans-in-delhi-gurugram-can-revisit-spain-s-world-cup-win-on-coca-cola-s-golden-can-where-to-buy-price-and-more-11790185124368.html)
 - [Trump-Xi summit itinerary: Full schedule of Chinese president’s 3-day US state visit from Sept 23-25](https://www.livemint.com/news/us-news/trumpxi-summit-itinerary-full-schedule-of-chinese-president-s-3-day-us-state-visit-from-sept-2325-11790186865493.html)
 - [₹1.5 lakh ‘donation’ for 2-year-old’s preschool admission? Ahmedabad entrepreneur’s post sparks debate](https://www.livemint.com/news/trends/15-lakh-donation-for-2-year-old-s-preschool-admission-ahmedabad-entrepreneur-s-post-sparks-debate-11790184997383.html)
-- [Jaishankar raises India’s concerns over US Russia sanctions law with Rubio at UNGA](https://www.livemint.com/news/world/jaishankar-raises-india-s-concerns-over-us-russia-sanctions-law-with-rubio-at-unga-11790183917138.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -114,6 +114,7 @@
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ಮಾರ್ಗಮಧ್ಯೆ ಕೈಕೊಟ್ಟ ಬಸ್ ಹೆಡ್‌ಲೈಟ್ಸ್: ಮೊಬೈಲ್ ಟಾರ್ಚ್ ಹಾಕ್ಕೊಂಡು ಕೆಎಸ್‌ಆರ್‌ಟಿಸಿ ಬಸ್ ಓಡಿಸಿದ ಚಾಲಕ](https://tv9kannada.com/videos/ksrtc-bus-driver-uses-mobile-torchlight-after-headlights-fail-on-dark-stretch-1241879.html)
 - [ದಿನ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರು ಆರ್ಥಿಕತೆಯನ್ನು ಗಟ್ಟಿಗೊಳಿಸುವಲ್ಲಿ ಮುಗ್ಗರಿಸುವರು…](https://tv9kannada.com/horoscope/daily-horoscope-for-september-24-2026-dakshinayana-greeshma-season-badrapada-masa-shukla-paksha-thursday-astrology-1241709.html)
 - [ಕೆಪಿಎಸ್​ಸಿ ಕೇಸ್​ನ ಎಸ್ಐಟಿಯಲ್ಲಿದ್ದ ಐಪಿಎಸ್ ಅಧಿಕಾರಿ ಕುಶಲ್ ಚೌಕ್ಸಿ ದಿಢೀರ್ ವರ್ಗಾವಣೆ](https://tv9kannada.com/karnataka/bengaluru/ips-officer-kushal-chouksey-who-was-part-of-the-sit-probing-the-kpsc-case-has-been-abruptly-transferred-1241863.html)
 - [ಸ್ವಕ್ಷದ ನಾಯಕನಿಂದಲೇ ಸಚಿವ ಮಧುಬಂಗಾರಪ್ಪ ಪಿಎ ಹಣ ವಸೂಲಿ ದಂಧೆ ಬಯಲು](https://tv9kannada.com/videos/congress-leader-sundaresh-alleges-corruption-in-shivamogga-points-finger-at-minister-madhu-bangarappa-pa-1241869.html)
@@ -123,7 +124,6 @@
 - [Viral: ಪ್ರೀತಿಸಿದವಳ ಕೈ ಹಿಡಿಯಲು ಮಗನಿಗೆ ಷರತ್ತು ಹಾಕಿದ ಪೋಷಕರು; ಬೇಸರ ವ್ಯಕ್ತಪಡಿಸಿದ ಯುವಕ](https://tv9kannada.com/trending/parents-set-a-condition-for-their-son-to-take-out-a-personal-loan-for-a-lavish-wedding-1241862.html)
 - [‘ನಮ್ಮ ಕಷ್ಟ ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳಿ’: ರೀಲ್ಸ್ ಮೂಲಕ ಗ್ರಾಮದ ಸಮಸ್ಯೆ ತೆರೆದಿಟ್ಟ ಬಾಲಕ](https://tv9kannada.com/videos/dharwad-boys-viral-reel-harobelavadi-road-repair-plea-1241855.html)
 - [October Festival List 2026: ಅಕ್ಟೋಬರ್ ತಿಂಗಳಲ್ಲಿ ಆಚರಿಸುವ ಹಬ್ಬಗಳ ಪಟ್ಟಿ ಇಲ್ಲಿದೆ](https://tv9kannada.com/spiritual/october-festival-list-2026-here-the-list-of-festivals-celebration-in-october-1241780.html)
-- [ರಾಷ್ಟ್ರ ಪ್ರಶಸ್ತಿ ತಂದು ಗಣಪತಿ ಪಾದಕ್ಕೆ ಅರ್ಪಿಸಿದ ನಟ ಕಾರ್ತಿಕ್ ಆರ್ಯನ್](https://tv9kannada.com/entertainment/bollywood/kartik-aaryan-places-his-first-national-award-at-lalbaugcha-raja-feet-1241848.html)
 
 **Prajavani**
 - [ಆಳ–ಅಗಲ| ಒಡೆದ ಮನೆಯಾಯಿತೇ ಚುನಾವಣಾ ಆಯೋಗ? ಸಂಚಲನ ಸೃಷ್ಟಿಸಿದ ವರದಿ](https://www.prajavani.net/explainer/detail/election-commission-internal-rift-commissioners-objections-report-4283125)
@@ -150,35 +150,35 @@
 - [ತುಮಕೂರು | ಸಿಂಹಾದ್ರಿ ಹತ್ಯೆ: ಆರೋಪಿಗಳ ಬಂಧನಕ್ಕೆ ಒಳಮೀಸಲಾತಿ ಹೋರಾಟ ಸಮಿತಿ ಆಗ್ರಹ](https://eedina.com/?p=765547)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (5.2)
-- Russia (4.5)
+- Russia (4.2)
+- Ukraine (4.2)
+- Chinese (3.9)
+- India (3.9)
 - UNGA (3.9)
-- Rubio (2.9)
-- Ukraine (2.9)
-- Jaishankar (2.6)
-- Chinese (2.6)
+- Trump-Xi (2.6)
 - Maharashtra (2.6)
-- Supreme Court (2.0)
-- Trump (1.9)
+- Iran (1.9)
 - Putin's (1.9)
+- Trump (1.9)
 - Delhi (1.6)
 - CRPF (1.6)
+- Rubio (1.6)
 - Limit (1.6)
 - Indian (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [சிரியாவில் 60 ஆண்டுகளுக்குப் பிறகு மீண்டும் திறக்கப்பட்ட கிறிஸ்தவ பள்ளிகள்](https://www.vaticannews.va/ta/church/news/2026-09/two-christian-schools-reopen-in-syria-after-decades-of-closure.html)
-- [SIM कार्ड से जुड़ी एक गलती आपको पहुंचा सकती है जेल, 1 मिनट में ऐसे करें चेक](https://www.jagran.com/news/national-sim-card-new-rule-face-up-to-50-lakh-fine-and-3-years-in-jail-for-misuse-under-new-dot-rules-40382664.html)
-- [Benefits of HPV immunisation for adolescent health](https://timesofindia.indiatimes.com/health/benefits-of-hpv-immunisation-for-adolescent-health/articleshow/134435832.cms)
-- [Microsoft cuts 268 Xbox jobs as gaming restructuring deepens](https://www.hrkatha.com/news/microsoft-cuts-268-xbox-jobs-as-gaming-restructuring-deepens/)
-- [പിണറായി വിജയനും മുഹമ്മദ് റിയാസിനുമെതിരായ അന്വേഷണം; എസ്ഐടി രൂപീകരിച്ചു: എച്ച്.വെങ്കിടേഷ് നേതൃത്വം നൽകും](https://www.manoramaonline.com/news/latest-news/2026/09/23/sit-formed-in-cmrl-case-against-pinarayi-vijayan-and-pa-mohammed-riyas.html)
-- [Kavitha: రేవంత్ రెడ్డికి కవిత నెల రోజుల డెడ్‌లైన్](https://vaartha.com/telangana/adilabad-rims-ac-blast-kavitha-reacts/781002/)
-- [IPL ऑक्शन को लेकर बड़ा ऐलान, दिसंबर में होगा आयोजन, वेन्यू का भी हुआ खुलासा](https://www.indiatv.in/sports/cricket/bcci-secretary-devajit-saikia-said-ipl-auction-will-be-in-goa-in-the-month-of-december-2026-09-23-1244938)
-- [Easter Sunday blasts case: Sri Lankan court sentences each convict to 220 years in prison; all 15 to appeal against verdict](https://www.thehindu.com/news/international/easter-sunday-blasts-case-sri-lanka-court-sentencing-jail-term-15-men-appeal-verdict/article71499681.ece)
-- [Astha Kunj rape horror: LSR students take out protest march; offline classes to resume from tomorrow](https://timesofindia.indiatimes.com/city/delhi/astha-kunj-rape-horror-lsr-students-take-out-protest-march-offline-classes-to-resume-from-tomorrow/articleshow/134435566.cms)
-- [Priyanka Gandhi | ఎన్నిక‌ల సంఘం రిగ్గింగ్‌ను అనుమ‌తిస్తే అది దేశ ద్రోహం, రాజ ద్రోహ‌మే : ప్రియాంకాగాంధీ](https://www.ntnews.com/national/if-cec-allowed-election-rigging-its-treason-priyanka-gandhi-2518077)
+- [The Subtle Missing Spaces](https://architecture.live/the-subtle-missing-spaces/)
+- [A red hexagon on your food pack? FSSAI proposes new warning-label regime](https://economictimes.indiatimes.com/industry/cons-products/food/a-red-hexagon-on-your-food-pack-fssai-proposes-new-warning-label-regime/articleshow/134437583.cms?from=mdr)
+- [Andhra: ఏపీ కేబినెట్‌ కీలక నిర్ణయం.. ఇన్‌ఫ్లుయెన్సర్లకు ఇక చెల్లింపులు](https://tv9telugu.com/andhra-pradesh/ap-cabinet-approves-social-media-influencers-policy-payments-based-on-followers-1918070.html)
+- [चुनाव आयोग पर जस्टिस दीपांकर की अहम टिप्पणी, ‘सिर्फ स्वतंत्र होना नहीं, स्वतंत्र रूप से काम करते हुए दिखना भी जरूरी'](https://www.indiatv.in/india/national/justice-dipankar-datta-said-eci-must-not-only-be-independent-but-also-be-seen-act-independently-2026-09-23-1244948)
+- ['We were really looking forward to Japan': Teary-eyed Manu Bhaker remembers late coach Jaspal Rana](https://timesofindia.indiatimes.com/sports/asian-games-2026/we-were-really-looking-forward-to-japan-teary-eyed-manu-bhaker-remembers-late-coach-jaspal-rana/articleshow/134437570.cms)
+- [क्या चुनाव आयोग में नियुक्तियों का मामला बड़ी बेंच को भेजा जाना चाहिए? सुप्रीम कोर्ट में बंटा फैसला](https://www.jagran.com/news/national-supreme-court-split-verdict-on-cec-appointments-constitution-bench-call-40382741.html)
+- [चुनाव आयोग के भीतर के ऐसे चार मामले, जब उसकी विश्वसनीयता पर उठे गंभीर सवाल](https://www.bbc.com/hindi/articles/c5vgyle00xjdo)
+- [El Niño could kill 15,800 in India within next 6 months, says survey: What is it? How does it affect temperatures?](https://www.livemint.com/news/india/el-ni-o-could-kill-15-800-in-india-within-next-6-months-says-survey-what-is-it-how-does-it-affect-temperatures-11790165434004.html)
+- [“ஜெம் வீரமணி வழக்கில் முந்தைய திமுக அரசு செய்தது துரோகம்” - சீமான் விமர்சனம்](https://www.hindutamil.in/news/tamilnadu/expedite-the-gem-veeramani-case-and-ensure-the-death-penalty-says-seeman)
+- [Sarvam AI launches Saaras V4 speech recognition model for multilingual voice applications](https://www.moneycontrol.com/technology/sarvam-ai-launches-saaras-v4-speech-recognition-model-for-multilingual-voice-applications-article-14036566.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
