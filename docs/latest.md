@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-24 21:33:39
+# India Trending Report — 2026-09-24 22:02:04
 
 ## Google Trends (India) — top trending searches
-1. [netherlands national football team vs germany national football team standings](https://trends.google.com/trending/rss?geo=IN)
-2. [ruben van bommel](https://trends.google.com/trending/rss?geo=IN)
-3. [rasmus højlund](https://trends.google.com/trending/rss?geo=IN)
-4. [joão palhinha](https://trends.google.com/trending/rss?geo=IN)
-5. [sayed abu farchi](https://trends.google.com/trending/rss?geo=IN)
-6. [quinten timber](https://trends.google.com/trending/rss?geo=IN)
-7. [marc-andré ter stegen](https://trends.google.com/trending/rss?geo=IN)
-8. [younes ebnoutalib](https://trends.google.com/trending/rss?geo=IN)
-9. [karim adeyemi](https://trends.google.com/trending/rss?geo=IN)
-10. [felix nmecha](https://trends.google.com/trending/rss?geo=IN)
+1. [ruben van bommel](https://trends.google.com/trending/rss?geo=IN)
+2. [rasmus højlund](https://trends.google.com/trending/rss?geo=IN)
+3. [portugal fc match](https://trends.google.com/trending/rss?geo=IN)
+4. [quinten timber](https://trends.google.com/trending/rss?geo=IN)
+5. [marc-andré ter stegen](https://trends.google.com/trending/rss?geo=IN)
+6. [younes ebnoutalib](https://trends.google.com/trending/rss?geo=IN)
+7. [karim adeyemi](https://trends.google.com/trending/rss?geo=IN)
+8. [sonyliv](https://trends.google.com/trending/rss?geo=IN)
+9. [oscar bobb](https://trends.google.com/trending/rss?geo=IN)
+10. [aykroyd](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Straitcraft: How geography gives Iran leverage and could do the same for India](https://timesofindia.indiatimes.com/world/middle-east/straitcraft-how-geography-gives-iran-leverage-and-could-do-the-same-for-india/articleshow/134462869.cms)
 - [Rahul attacks Centre over EC-SIR row; BJP calls it 'jooth ki goonj'](https://timesofindia.indiatimes.com/india/all-elections-rigged-laws-illegal-rahul-gandhi-attacks-centre-over-ec-sir-row-bjp-calls-it-jooth-ki-goonj/articleshow/134464189.cms)
 - [Xi Jinping tests Donald Trump with 'Thucydides Trap'](https://timesofindia.indiatimes.com/world/us/xi-jinping-tests-donald-trump-with-thucydides-trap/articleshow/134467004.cms)
+- [G4: UNSC losing its credibility, unable to maintain global peace](https://timesofindia.indiatimes.com/india/g4-unsc-losing-its-credibility-unable-to-maintain-global-peace/articleshow/134470070.cms)
 - [CNN, MS NOW and Politico back at White House after court halts Trump ban](https://timesofindia.indiatimes.com/world/us/cnn-ms-now-and-politico-return-to-white-house-after-judge-blocks-trump-ban/articleshow/134468961.cms)
+- [Jeff Bezos’ Earth Fund adds $25 million for Pacific Ocean conservation](https://timesofindia.indiatimes.com/technology/tech-news/in-2023-jeff-bezos-earth-fund-pledged-100-million-for-pacific-conservation-three-years-later-a-new-25-million-round-is-backing-five-nations-to-protect-and-manage-625000-square-miles-of-ocean/articleshow/134455342.cms)
+- [Opposition to move third motion to remove CEC Gyanesh Kumar](https://timesofindia.indiatimes.com/india/oppositions-3rd-bid-to-remove-cec-gyanesh-kumar-fresh-motion-likely-april-24-notice-pending/articleshow/134469862.cms)
+- [Wife sold shares, bought husband’s Rs 7.5 crore property; taxman send notice](https://timesofindia.indiatimes.com/business/india-business/wife-sold-shares-for-rs-8-31-crore-ltcg-bought-husbands-mumbai-property-for-rs-7-5-crore-and-claimed-section-54f-exemption-taxman-calls-it-tax-avoidance-but-itat-mumbai-gives-relief-to-her/articleshow/134465968.cms)
 - [‘No greater partner than Trump’: Netanyahu defends Iran war as delegates walk out at UNGA](https://timesofindia.indiatimes.com/world/middle-east/no-greater-partner-than-president-trump-netanyahu-defends-iran-war-attacks-critics-as-delegates-walk-out-at-unga/articleshow/134469836.cms)
 - [Shehbaz-Pezeshkian meet in New York, Pak pushes de-escalation, Islamabad MoU](https://timesofindia.indiatimes.com/world/middle-east/shehbaz-pezeshkian-meet-in-new-york-pakistan-pushes-de-escalation-islamabad-mou/articleshow/134469182.cms)
-- [Jeff Bezos’ Earth Fund adds $25 million for Pacific Ocean conservation](https://timesofindia.indiatimes.com/technology/tech-news/in-2023-jeff-bezos-earth-fund-pledged-100-million-for-pacific-conservation-three-years-later-a-new-25-million-round-is-backing-five-nations-to-protect-and-manage-625000-square-miles-of-ocean/articleshow/134455342.cms)
-- ['No eligible elector will be left behind': Goa CEO clarifies on 97 missing voters](https://timesofindia.indiatimes.com/india/no-eligible-elector-will-be-left-behind-goa-ceo-clarifies-on-97-missing-voters/articleshow/134467956.cms)
-- [Wife sold shares, bought husband’s Rs 7.5 crore property; taxman send notice](https://timesofindia.indiatimes.com/business/india-business/wife-sold-shares-for-rs-8-31-crore-ltcg-bought-husbands-mumbai-property-for-rs-7-5-crore-and-claimed-section-54f-exemption-taxman-calls-it-tax-avoidance-but-itat-mumbai-gives-relief-to-her/articleshow/134465968.cms)
-- [Get details, communicate govt’s position effectively, PM Modi tells ministers](https://timesofindia.indiatimes.com/india/get-details-communicate-govts-position-effectively-pm-modi-tells-ministers/articleshow/134469781.cms)
-- [Wangchuk fears 'encounter' after accusing govt of Ladakh atrocities](https://timesofindia.indiatimes.com/india/wangchuk-fears-encounter-after-accusing-govt-of-ladakh-atrocities/articleshow/134469652.cms)
 
 **NDTV**
 - ["Many Jews No Longer Feel Safe In New York": Netanyahu Slams Mamdani At UN](https://www.ndtv.com/world-news/many-jews-feel-unsafe-in-new-york-since-zohran-mamdani-election-netanyahu-12094554#publisher=newsstand)
@@ -64,6 +64,7 @@
 **The Hindu**
 - [The murky world of political party finance](https://www.thehindu.com/opinion/lead/the-murky-world-of-political-party-finance/article71504827.ece)
 - [A nation’s song: On Vande Mataram’s rendition](https://www.thehindu.com/opinion/editorial/a-nations-song-on-vande-matarams-rendition/article71504906.ece)
+- [Petition in Bombay High Court seeks stay on SIR in Maharashtra, restoration of voter names](https://www.thehindu.com/news/national/maharashtra/petition-in-bombay-high-court-seeks-stay-on-sir-in-maharashtra-restoration-of-voter-names/article71505245.ece)
 - [Confident that Vijay will accept Rahul as Prime Ministerial candidate: Manickam Tagore](https://www.thehindu.com/news/national/tamil-nadu/confident-that-vijay-will-accept-rahul-as-prime-ministerial-candidate-manickam-tagore/article71504912.ece)
 - [Yet to assess impact of mines Act on Odisha, says Minister as legislators flag potential loss](https://www.thehindu.com/news/national/odisha/yet-to-assess-impact-of-mines-act-on-odisha-says-minister-as-legislators-flag-potential-loss/article71503971.ece)
 - [‘Enter at own risk’: churches to non-Christians as anti-conversion law takes effect in Chhattisgarh](https://www.thehindu.com/news/national/chhattisgarh/enter-at-own-risk-churches-to-non-christians-as-anti-conversion-law-takes-effect-in-chhattisgarh/article71504784.ece)
@@ -71,7 +72,6 @@
 - [Role of pharmacists in strengthening healthcare systems highlighted](https://www.thehindu.com/news/national/andhra-pradesh/role-of-pharmacists-in-strengthening-healthcare-systems-highlighted/article71504871.ece)
 - [Bitumen price surge hits road works, adding to motorists’ woes in Kochi](https://www.thehindu.com/news/national/kerala/bitumen-price-surge-hits-road-works-adding-to-motorists-woes-in-kochi/article71494267.ece)
 - [IIT Bombay student death: Youth Congress seeks arrest of director, professor; independent probe into student’s death](https://www.thehindu.com/news/cities/mumbai/iit-bombay-student-death-youth-congress-seeks-arrest-of-director-professor-independent-probe-into-students-death/article71505357.ece)
-- [Veeramani case: Stalin says DMK regime did not protect anyone](https://www.thehindu.com/news/national/tamil-nadu/veeramani-case-stalin-says-dmk-regime-did-not-protect-anyone/article71505742.ece)
 
 **Livemint**
 - [Trump-Xi Summit: Xi's ‘Thucydides Trap’ warning, push for Taiwan stance — 6 key takeaways from White House talks](https://www.livemint.com/news/us-news/trumpxi-summit-xis-thucydides-trap-warning-push-for-taiwan-stance-6-key-takeaways-from-white-house-talks-11790284152049.html)
@@ -126,7 +126,7 @@
 - [ಸೌಜನ್ಯ ಕೊಲೆ ಕೇಸ್ ತನಿಖೆಗೆ ಎನ್.ಶಶಿಕುಮಾರ್ ನೇತೃತ್ವದ ಎಸ್​​ಐಟಿ ರಚಿಸಿದ ಸರ್ಕಾರ](https://tv9kannada.com/karnataka/karnataka-government-formed-sit-team-for-soujanya-case-fresh-probe-1242232.html)
 
 **Prajavani**
-- [PODCAST | ಕಸ್ತೂರಿರಂಗನ್ ವರದಿ ಜಾರಿ: ರಾಜಕೀಯ ವಿರೋಧದ ಹಿಂದಿನ ಅಸಲಿಯತ್ತೇನು?](https://www.prajavani.net/news/karnataka-news/kasturirangan-report-western-ghats-political-opposition-analysis-4285681)
+- [ಕಾವೇರಿ: ಬದಲಾಗದ ಪ್ರಾಧಿಕಾರದ ನಿಲುವು](https://www.prajavani.net/news/karnataka-news/cauvery-water-management-authority-orders-karnataka-to-release-water-to-tamil-nadu-4284718)
 
 **eedina**
 - [ಧಾರವಾಡ | ಸೆ. 27ಕ್ಕೆ ಪರಿಶಿಷ್ಟ ಜಾತಿ, ಪರಿಶಿಷ್ಟ ಪಂಗಡಗಳ ಕುಂದುಕೊರತೆ ಸಭೆ](https://eedina.com/?p=766003)
@@ -141,35 +141,35 @@
 - [ಸೌಜನ್ಯ ಪ್ರಕರಣದ ಮರುತನಿಖೆಗೆ ಐಜಿಪಿ ಶಶಿಕುಮಾರ್ ನೇತೃತ್ವದಲ್ಲಿ SIT ರಚನೆ](https://eedina.com/?p=765958)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Iran (5.2)
 - Centre (3.9)
-- Iran (3.9)
 - UNGA (3.9)
 - Netanyahu (3.5)
 - Trump (3.2)
 - White House (3.0)
 - Rahul (2.9)
+- India (2.6)
 - Delhi (2.6)
 - What (2.6)
+- CEC Gyanesh Kumar (2.0)
 - IIT Bombay (2.0)
-- Modi (1.6)
 - Bengal (1.6)
 - Odisha (1.6)
-- Stalin (1.6)
-- EC-SIR (1.3)
+- Straitcraft (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Ankit Mohan Promotion Row: फर्जंद फेम अंकितची प्रमोशनला दांडी; १ कोटीच्या दंडाची चर्चा असतानाच वर्तनुकीवर दिलं स्पष्टीकरण](https://pudhari.news/soneri/ankit-mohan-promotion-controversy-clarifies-behavior-rs-1-crore-fine-rumors-aas86)
-- [Bans, Muse AI keychain debut at Meta Connect](https://www.medianama.com/2026/09/223-meta-connect-vr-glasses-muse-ai-keychain/)
-- ['48 घंटे के अंदर इस्तीफा दें CEC ज्ञानेश कुमार...', CJP ने खोला मोर्चा, बड़े आंदोलन का अल्टीमेटम](https://www.aajtak.in/india/news/story/election-commission-sir-gyanesh-kumar-objections-cjp-allegations-and-demand-resignation-rptc-2652064-2026-09-24)
-- [Veeramani POCSO case: ఈ గ్రానైట్ కింగ్ .. తమిళనాడు ఎప్‌స్టీన్ - బాలికలపై అఘాయిత్యాలు - అరెస్ట్](https://telugu.abplive.com/news/tamil-nadu-granite-baron-veeramani-pocso-case-decades-abuse-259825)
-- [इंट्रा-डे में 32% टूटा पॉलिसीबाजार का शेयर, एक प्रपोजल से बिगड़ा निवेशकों का मूड](https://www.livehindustan.com/business/policybazaar-parent-company-pb-fintech-shares-crash-32-percent-after-irdai-proposals-what-mean-for-company-201790241988655.html)
-- [এশিয়াডে ভারতীয় হকির দাপট অব্যাহত, কোরিয়াকে ৮-২ হারালেন হরমনপ্রীতরা](https://eisamay.com/sports/other-sports/india-storm-past-south-korea-8-2-as-hockey-dominance-continues-at-asian-games-2026/200546735.cms)
-- [student attack kollam school കൊല്ലത്ത് ഒൻപതാം ക്ലാസുകാരനെ സ്കൂൾ ജീവനക്കാരൻ കരണത്തടിച്ചെന്ന് പരാതി](https://www.asianetnews.com/news/complaint-kollam-that-school-staff-member-slapped-ninth-grade-student-articleshow-g464xn5)
-- [அமெரிக்காவில் ஈரான் குழு: அமெரிக்காவிடம் என்னென்ன நிபந்தனைகள் வைத்தோம்? - ஈரான் சொல்லும் பட்டியல்!](https://www.vikatan.com/government-and-politics/iran-conveys-conditions-to-us-through-qatar-mediated-talks)
-- [அமெரிக்காவில் ஈரான் குழு: அமெரிக்காவிடம் என்னென்ன நிபந்தனைகள் வைத்தோம்? - ஈரான் சொல்லும் பட்டியல்!](https://www.vikatan.com/government-and-politics/iran-conveys-conditions-to-us-through-qatar-mediated-talks?pfrom=story-card)
-- [Mars Transit : शनीच्या नक्षत्रात मंगळाचा प्रवेश, या 3 राशींचे वाढणार टेन्शन](https://marathi.asianetnews.com/lifestyle/mars-transit-in-saturn-nakshatra-brings-huge-loss-for-three-zodiac-signs/photoshow-47zehli)
+- [Exclusive: ‘বিগ বস বাংলা’য় কবে ফিরবেন সৃজলা? চোটের পর মিলল বড় আপডেট](https://www.thewall.in/entertainment/when-will-srijla-guha-return-to-bigg-boss-bangla-latest-update-revealed/tid/205572)
+- [Smart Home Gift Buying Guide 2026: Upgrades Everyone Will Love](https://www.cnet.com/deals/smart-home-gift-buying-guide-2026-upgrades-everyone-will-love/)
+- [Mumbai Indians : मुंबई इंडियन्सने घेतला मोठा निर्णय! महिला टीमचा प्रशिक्षक बदलला, ऑस्ट्रेलियन खेळाडूच्या हाती 2027 पर्यंत सूत्रं](https://marathi.abplive.com/sports/cricket/mumbai-indians-change-head-coach-australian-luke-williams-takes-charge-until-2027-wpl-season-marathi-news-1440115)
+- [PB Fintech stock crashes 34%: This September put contract turned Rs 20,000 investment into Rs 75 lakh in one day](https://www.moneycontrol.com/news/business/markets/pb-fintech-stock-crashes-34-this-september-put-contract-turned-rs-20-000-investment-into-rs-75-lakh-in-one-day-14037393.html)
+- [8 ઈમેલ છતાં 97 નાગરિકોના મત કેમ છીનવાયા? ચૂંટણી પંચ સામે વિપક્ષ આક્રમક](https://www.gujaratsamachar.com/news/national/Goa-SIR-Row-97-Eligible-Voters-Dropped-from-Final-Electoral-Roll-Due-to-ECINet-System-64068648691)
+- [New study traces Bat's origins to Europe 65 million years ago](https://theprint.in/science/new-study-traces-bats-origins-to-europe-65-million-years-ago/3052208/)
+- [Journalist Ravi Nair Moves Supreme Court For Release From Custody In Adani Defamation Case](https://www.livelaw.in/top-stories/supreme-court-journalist-ravi-nair-plea-for-release-arrested-in-adani-defamation-case-non-bailable-warrant-551622)
+- [জমির পর বালি পাচার ! সুমিত রায়কে কি ফের হেফাজতে চাইবে পুলিশ](https://www.etvbharat.com/bn/state/following-salboni-land-case-police-may-now-seek-sumit-roys-custody-in-a-sand-smuggling-case-as-well-wbs26092403675)
+- [CJP: సీఈసీ జ్ఞానేశ్ కుమార్ 48 గంట‌ల్లోగా రిజైన్ చేయాలి: కాక్రోచ్ పార్టీ డిమాండ్‌](https://www.ntnews.com/national/cjp-demands-resignation-of-cec-gyanesh-kumar-within-48-hours-2518820)
+- ['उस रात नींद नहीं आई...', वैभव सूर्यवंशी के लिए संजू सैमसन को बाहर करने के बाद क्या हुआ? गंभीर ने खोला बड़ा राज](https://www.aajtak.in/sports/cricket/story/gautam-gambhir-sanju-samson-vaibhav-sooryavanshi-toughest-decision-team-india-tspok-dskc-2652012-2026-09-24)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
