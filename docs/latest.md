@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-24 23:01:44
+# India Trending Report — 2026-09-24 23:33:35
 
 ## Google Trends (India) — top trending searches
-1. [netherlands national football team vs germany national football team standings](https://trends.google.com/trending/rss?geo=IN)
-2. [ruben van bommel](https://trends.google.com/trending/rss?geo=IN)
-3. [rasmus højlund](https://trends.google.com/trending/rss?geo=IN)
-4. [joão palhinha](https://trends.google.com/trending/rss?geo=IN)
-5. [portugal fc match](https://trends.google.com/trending/rss?geo=IN)
-6. [quinten timber](https://trends.google.com/trending/rss?geo=IN)
-7. [marc-andré ter stegen](https://trends.google.com/trending/rss?geo=IN)
-8. [younes ebnoutalib](https://trends.google.com/trending/rss?geo=IN)
-9. [karim adeyemi](https://trends.google.com/trending/rss?geo=IN)
-10. [sonyliv](https://trends.google.com/trending/rss?geo=IN)
+1. [ruben van bommel](https://trends.google.com/trending/rss?geo=IN)
+2. [rasmus højlund](https://trends.google.com/trending/rss?geo=IN)
+3. [joão palhinha](https://trends.google.com/trending/rss?geo=IN)
+4. [portugal fc match](https://trends.google.com/trending/rss?geo=IN)
+5. [quinten timber](https://trends.google.com/trending/rss?geo=IN)
+6. [marc-andré ter stegen](https://trends.google.com/trending/rss?geo=IN)
+7. [younes ebnoutalib](https://trends.google.com/trending/rss?geo=IN)
+8. [karim adeyemi](https://trends.google.com/trending/rss?geo=IN)
+9. [sonyliv](https://trends.google.com/trending/rss?geo=IN)
+10. [oscar bobb](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [At least 30 actors, politicians arrested in anti-Netanyahu protest outside UN](https://timesofindia.indiatimes.com/world/us/at-least-30-arrested-including-actors-politicians-during-anti-netanyahu-protest-outside-un/articleshow/134472170.cms)
 - [Straitcraft: How geography gives Iran leverage and could do the same for India](https://timesofindia.indiatimes.com/world/middle-east/straitcraft-how-geography-gives-iran-leverage-and-could-do-the-same-for-india/articleshow/134462869.cms)
+- [TMC factional row: SC asks EC for timeframe to decide party name, symbol dispute](https://timesofindia.indiatimes.com/india/sc-seeks-timeframe-from-ec-on-deciding-tmc-factional-feud/articleshow/134472183.cms)
 - [Rs 94,000 crore looted by Dubai-based scammers: CBI arrests key Mahadev app accused](https://timesofindia.indiatimes.com/india/dubai-based-scammers-looted-rs-94000cr-cbi-arrests-mahadev-app-key-accused-deported-from-uae/articleshow/134471944.cms)
+- [Jeff Bezos’ Earth Fund adds $25 million for Pacific Ocean conservation](https://timesofindia.indiatimes.com/technology/tech-news/in-2023-jeff-bezos-earth-fund-pledged-100-million-for-pacific-conservation-three-years-later-a-new-25-million-round-is-backing-five-nations-to-protect-and-manage-625000-square-miles-of-ocean/articleshow/134455342.cms)
+- [8 years of Ayushman Bharat: 60 crore beneficiaries, Rs 2 lakh crore in treatment](https://timesofindia.indiatimes.com/india/8-years-of-ayushman-bharat-60-crore-beneficiaries-rs-2-lakh-crore-in-treatment/articleshow/134472206.cms)
+- [Wife sold shares, bought husband’s Rs 7.5 crore property; taxman send notice](https://timesofindia.indiatimes.com/business/india-business/wife-sold-shares-for-rs-8-31-crore-ltcg-bought-husbands-mumbai-property-for-rs-7-5-crore-and-claimed-section-54f-exemption-taxman-calls-it-tax-avoidance-but-itat-mumbai-gives-relief-to-her/articleshow/134465968.cms)
 - [Rahul attacks Centre over EC-SIR row; BJP calls it 'jooth ki goonj'](https://timesofindia.indiatimes.com/india/all-elections-rigged-laws-illegal-rahul-gandhi-attacks-centre-over-ec-sir-row-bjp-calls-it-jooth-ki-goonj/articleshow/134464189.cms)
 - [SIR row: EC says Form 6, 8 with citizenship declaration were unanimously approved](https://timesofindia.indiatimes.com/india/ec-troika-unanimously-approved-sir-orders-on-forms-6-8-citizenship-declaration-officials/articleshow/134470059.cms)
 - [Xi Jinping tests Donald Trump with 'Thucydides Trap'](https://timesofindia.indiatimes.com/world/us/xi-jinping-tests-donald-trump-with-thucydides-trap/articleshow/134467004.cms)
-- [Jeff Bezos’ Earth Fund adds $25 million for Pacific Ocean conservation](https://timesofindia.indiatimes.com/technology/tech-news/in-2023-jeff-bezos-earth-fund-pledged-100-million-for-pacific-conservation-three-years-later-a-new-25-million-round-is-backing-five-nations-to-protect-and-manage-625000-square-miles-of-ocean/articleshow/134455342.cms)
-- [‘Terror attack from Pak soil will be act of war’: Defence minister Rajnath warns](https://timesofindia.indiatimes.com/defence/terror-attack-from-pak-soil-will-mean-act-of-war-defence-minister-warns/articleshow/134470076.cms)
-- [Wife sold shares, bought husband’s Rs 7.5 crore property; taxman send notice](https://timesofindia.indiatimes.com/business/india-business/wife-sold-shares-for-rs-8-31-crore-ltcg-bought-husbands-mumbai-property-for-rs-7-5-crore-and-claimed-section-54f-exemption-taxman-calls-it-tax-avoidance-but-itat-mumbai-gives-relief-to-her/articleshow/134465968.cms)
-- [Hurricane Polo lashes Mexico coast as Nolo strengthens near Hawaii](https://timesofindia.indiatimes.com/world/rest-of-world/hurricane-polo-drenches-mexico-coast-as-tropical-storm-nolo-threatens-hawaii-with-heavy-rain/articleshow/134472001.cms)
-- [G4: UNSC losing its credibility, unable to maintain global peace](https://timesofindia.indiatimes.com/india/g4-unsc-losing-its-credibility-unable-to-maintain-global-peace/articleshow/134470070.cms)
 
 **NDTV**
 - [Trump Asks Supreme Court To Allow Quick 3rd-Country Deportations To Continue](https://www.ndtv.com/world-news/donald-trump-asks-supreme-court-to-allow-quick-3rd-country-deportations-to-continue-12094844#publisher=newsstand)
@@ -62,6 +62,7 @@
 - [ಸೌಜನ್ಯ ಕೊಲೆ ಪ್ರಕರಣ ಮರುತನಿಖೆಗೆ SIT ರಚನೆ: 5 ಪೊಲೀಸ್‌ ಅಧಿಕಾರಿಗೆ ಜವಾಬ್ದಾರಿ; ಖಡಕ್ IPS ಅಧಿಕಾರಿ ಶಶಿಕುಮಾರ್ ನೇತೃತ್ವ](https://vijaykarnataka.com/news/karnataka/sit-formed-to-reinvestigate-sowjanya-murder-case-responsibility-assigned-to-5-police-officers-led-by-tough-n-shashikumar/articleshow/134466926.cms)
 
 **The Hindu**
+- [Shutdown over poor school infra paralyses Arunachal capital](https://www.thehindu.com/news/national/arunachal-pradesh/shutdown-over-poor-school-infra-paralyses-arunachal-capital/article71504474.ece)
 - [U.P. International Trade Show 2026 set to position State as Global Sourcing hub, says Minister](https://www.thehindu.com/news/national/uttar-pradesh/up-international-trade-show-2026-set-to-position-state-as-global-sourcing-hub-says-minister/article71504690.ece)
 - [‘Enter at own risk’: churches to non-Christians as anti-conversion law takes effect in Chhattisgarh](https://www.thehindu.com/news/national/chhattisgarh/enter-at-own-risk-churches-to-non-christians-as-anti-conversion-law-takes-effect-in-chhattisgarh/article71504784.ece)
 - [Adani promises ₹1 lakh crore investment in West Bengal by 2035, looks to diversify in power generation and transmission](https://www.thehindu.com/news/national/west-bengal/adani-group-to-invest-over-1-lakh-crore-in-bengal-by-2035-gautam-adani/article71503371.ece)
@@ -71,7 +72,6 @@
 - [A nation’s song: On Vande Mataram’s rendition](https://www.thehindu.com/opinion/editorial/a-nations-song-on-vande-matarams-rendition/article71504906.ece)
 - [Petition in Bombay High Court seeks stay on SIR in Maharashtra, restoration of voter names](https://www.thehindu.com/news/national/maharashtra/petition-in-bombay-high-court-seeks-stay-on-sir-in-maharashtra-restoration-of-voter-names/article71505245.ece)
 - [Confident that Vijay will accept Rahul as Prime Ministerial candidate: Manickam Tagore](https://www.thehindu.com/news/national/tamil-nadu/confident-that-vijay-will-accept-rahul-as-prime-ministerial-candidate-manickam-tagore/article71504912.ece)
-- [Yet to assess impact of mines Act on Odisha, says Minister as legislators flag potential loss](https://www.thehindu.com/news/national/odisha/yet-to-assess-impact-of-mines-act-on-odisha-says-minister-as-legislators-flag-potential-loss/article71503971.ece)
 
 **Livemint**
 - [Trump-Xi Summit: Xi's ‘Thucydides Trap’ warning, push for Taiwan stance — 6 key takeaways from White House talks](https://www.livemint.com/news/us-news/trumpxi-summit-xis-thucydides-trap-warning-push-for-taiwan-stance-6-key-takeaways-from-white-house-talks-11790284152049.html)
@@ -126,16 +126,16 @@
 - [ಸೌಜನ್ಯ ಕೊಲೆ ಕೇಸ್ ತನಿಖೆಗೆ ಎನ್.ಶಶಿಕುಮಾರ್ ನೇತೃತ್ವದ ಎಸ್​​ಐಟಿ ರಚಿಸಿದ ಸರ್ಕಾರ](https://tv9kannada.com/karnataka/karnataka-government-formed-sit-team-for-soujanya-case-fresh-probe-1242232.html)
 
 **Prajavani**
-- [ಲೈಂಗಿಕ ದೌರ್ಜನ್ಯ: ನ್ಯಾಯಕ್ಕೆ  ಮೊರೆ](https://www.prajavani.net/district/mysuru/tribal-girl-sexual-assault-reinvestigation-human-trafficking-karnataka-4285292)
-- [ಚಿನಕುರುಳಿ ಕಾರ್ಟೂನು: 25 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/news/cartoons/chinakurali-cartoon-september-twenty-five-4285173)
-- [ಗುಲಾಬಿ ಮಾರ್ಗ: ಗಡುವು ಮುಂದಕ್ಕೆ](https://www.prajavani.net/district/bengaluru-city/bengaluru-namma-metro-pink-line-deadline-extended-october-4285640)
-- [ನಗರದಲ್ಲಿ ಇಂದು: ಬೆಂಗಳೂರು ನಗರದ ಕಾರ್ಯಕ್ರಮಗಳು-  25 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/district/bengaluru-city/bengaluru-city-events-september-twenty-four-educational-cultural-programs-4285645)
-- [ಫ್ಯಾಕ್ಟ್‌ಚೆಕ್‌ | ಅಖಿಲೇಶ್ ಯಾದವ್‌ ಜತೆ ನಂದನ್‌ ಯಾದವ್‌ ಚಿತ್ರ: ನಿಜಾಂಶವೇನು?](https://www.prajavani.net/news/fact-check/akhilesh-yadav-nandan-yadav-fake-ai-image-fact-check-4285538)
-- [ನುಡಿ ಬೆಳಗು: ಕುರುಡರು ಮತ್ತು ಆನೆ](https://www.prajavani.net/op-ed/nudi-belagu/blind-men-and-elephant-moral-story-kannada-4284764)
-- [ರೋಷಿಬಿನಾ ಛಲಕ್ಕೆ ಒಲಿದ  ರಜತ](https://www.prajavani.net/sports/other-sports/roshibina-devi-wins-silver-medal-wushu-asian-games-4284774)
-- [ದಿನದ ಪಂಚಾಂಗ: 25 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/astro-vastu/panchanga/daily-panchanga-september-twenty-fifth-4285096)
-- [ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ನಡವಳಿಕೆ ಅಕ್ಷಮ್ಯ: ಪ್ರಮಾದಗಳನ್ನು ಕೋರ್ಟ್ ಸರಿಪಡಿಸಲಿ](https://www.prajavani.net/op-ed/editorial/election-commission-gyanesh-kumar-controversy-voter-list-revision-4284809)
-- [ದಿನ ಭವಿಷ್ಯ: ಈ ರಾಶಿಯ ಅವಿವಾಹಿತರಿಗೆ ಮಾತೃ ವರ್ಗದಿಂದ ಸಂಬಂಧ ಅರಸಿ ಬರಲಿದೆ](https://www.prajavani.net/astro-vastu/horoscope/daily-horoscope-kannada-astrology-marriage-predictions-4285077)
+- [ವಿದೇಶ ವಿದ್ಯಮಾನ: ಮಾಧ್ಯಮದ ಮೇಲೆ ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಕೆಂಗಣ್ಣು](https://www.prajavani.net/explainer/detail/donald-trump-white-house-media-ban-legal-conflict-4285597)
+- [75 ವರ್ಷಗಳ ಹಿಂದೆ: ಭಾರತ ಸರಹದ್ದಿನೊಳಗೆ ಪಾಕಿಸ್ತಾನದ ವಿಮಾನ](https://www.prajavani.net/op-ed/prajavani-archive/pakistan-aircraft-forced-landing-indian-border-anniversary-4284254)
+- [ಸಂಗತ ಅಂಕಣ | ಕೃಷಿ: ಚೌಕಟ್ಟಿನಿಂದ ಹೊರಬರುವ ಕಾಲ](https://www.prajavani.net/op-ed/opinion/karnataka-drought-areca-farming-crisis-diversification-4284821)
+- [25 ವರ್ಷಗಳ ಹಿಂದೆ: ವಿಶ್ವಸಂಸ್ಥೆ ಕಚೇರಿ ವಶ](https://www.prajavani.net/op-ed/prajavani-archive/taliban-takes-over-united-nations-offices-afghanistan-4284896)
+- [‘2,598 ಜನರ ಹೆಸರು ತೆಗೆಯಲು ಬಿಜೆಪಿ ಶಾಸಕರಿಂದ ಪತ್ರ'](https://www.prajavani.net/news/karnataka-news/congress-alleges-bjp-mla-letter-to-remove-minority-voters-from-list-4285545)
+- [ಉಪ್ಪಿನ ಪೊಟ್ಟಣದ ಮೇಲೆ ಇರಲಿದೆ ಎಚ್ಚರಿಕೆ ಸಂದೇಶ](https://www.prajavani.net/news/karnataka-news/karnataka-government-mandatory-warning-labels-on-salt-packets-4285239)
+- [ಚುರುಮುರಿ: ಹೊಸ ಫ್ಯಾಷನ್!](https://www.prajavani.net/op-ed/churumuri/kannada-political-satire-haratekate-state-economy-trump-media-4284836)
+- [ವಾಚಕರ ವಾಣಿ: 25 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/op-ed/readers-letter/vachakara-vani-letters-to-the-editor-september-environmental-kpsc-recruitment-issues-4284906)
+- [ಸುಭಾಷಿತ: ಜಾನ್‌ ಕೀಟ್ಸ್‌](https://www.prajavani.net/op-ed/subhashita/john-keats-subhashita-prajavani-4284908)
+- [ಪ್ರತಿ ರೈತರಿಗೆ ₹2,500 ಆರ್ಥಿಕ ನೆರವು](https://www.prajavani.net/news/karnataka-news/karnataka-government-announces-financial-aid-for-drought-hit-farmers-4285574)
 
 **eedina**
 - [ಧಾರವಾಡ | ಸೆ. 27ಕ್ಕೆ ಪರಿಶಿಷ್ಟ ಜಾತಿ, ಪರಿಶಿಷ್ಟ ಪಂಗಡಗಳ ಕುಂದುಕೊರತೆ ಸಭೆ](https://eedina.com/?p=766003)
@@ -152,33 +152,33 @@
 ## Cross-source trending keywords (derived from headlines above)
 - Iran (3.9)
 - Centre (3.9)
+- Netanyahu (3.2)
 - Rahul (2.9)
 - India (2.6)
 - Mahadev (2.6)
 - Delhi (2.6)
-- Minister (2.6)
 - UNGA (2.6)
 - What (2.6)
-- Netanyahu (2.2)
 - White House (2.0)
 - Bengal (1.9)
-- Odisha (1.6)
+- crore (1.5)
 - Straitcraft (1.3)
 - Dubai-based (1.3)
+- Wife (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Lawyer Gandra Mohan Rao | ‘బీఆర్ఎస్ పార్టీకి ఇదొక గొప్ప విజయం.. మిగతా ఎమ్మెల్యేలు కూడా..’](https://www.ntnews.com/telangana/this-is-great-victory-to-brs-party-says-senior-lawyer-gandra-mohan-rao-2518878)
-- ['पिता की हत्या का मलाल नहीं, दुख चाकू से गोदकर मारने का है', विनीत मिनोचा केस में बेटे सुब्रत के कुबूलनामे का Video](https://www.aajtak.in/uttar-pradesh/story/kanpur-businessman-vineet-manocha-murder-case-son-subrat-confession-ntc-rlch-rpti-2652119-2026-09-24)
-- [2026-ல் இந்தியாவின் Top 10 பணக்காரர்கள்... அம்பானியை பின்னுக்குத் தள்ளிய அதானி! டாப் 10 லிஸ்ட் இதோ!](https://kumudam.com/india-top-10-richest-people-2026-gautam-adani-mukesh-ambani)
-- [Paradise KCR Role: కేసీఆర్ బయోపిక్‌కు పర్ఫెక్ట్ యాక్టర్ దొరికేశాడు](https://telugu.abplive.com/entertainment/cinema/kcr-biopic-audience-feels-priyadarshi-would-be-perfect-choice-after-watching-his-role-in-nani-the-paradise-259835)
-- [CJP threatens ‘Jantar Mantar 2.0’ if CEC Gyanesh Kumar does not resign](https://www.thehindu.com/news/national/cjp-threatens-jantar-mantar-20-if-cec-gyanesh-kumar-does-not-resign/article71503624.ece)
-- [Man, 25, died from caffeine overdose after he was found walking barefoot and vomiting blood in street](https://www.thesun.co.uk/news/40478452/man-died-caffeine-overdose-vomiting-blood/)
-- [How a Delhi call centre duped US victims of Rs 100 cr](https://m.rediff.com/news/commentary/2026/sep/24/how-a-delhi-call-centre-duped-us-victims-of-rs-100-cr/e7596255996573cec60202038fb93b75)
-- [₹1.5 लाख सस्ती... कम्फर्टेबल! नई THAR OG ने दूर की ये दिक्कतें](https://www.aajtak.in/visualstories/auto/mahindra-thar-og-old-vs-new-changes-features-engine-auaw-286035-24-09-2026)
-- [Supreme Court Lays Down Safeguards To Prevent Misuse Of POCSO Act In Child Custody Cases, Quashes False FIR Against Father](https://www.livelaw.in/top-stories/supreme-court-lays-down-safeguards-to-prevent-misuse-of-pocso-act-in-child-custody-cases-quashes-false-fir-against-father-551637)
-- [BJP spent more in Bengal poll than Cong did across 5 state polls](https://m.rediff.com/news/report/bjp-spent-more-in-bengal-poll-than-cong-did-across-5-state-polls/20260924.htm)
+- [No UPI Day : मोठी बातमी! 2 ऑक्टोबरला देशभरात UPI बंद, गांधी जयंतीला व्यापाऱ्यांचा 'नो यूपीआय डे', फक्त कॅश स्वीकारणार](https://marathi.abplive.com/business/no-upi-day-mdr-charges-upi-payment-ban-2-october-gandhi-jayanti-business-marathi-news-1440127)
+- ['I have never met late Disha Salian or Aditya Thackeray ever in my life': Sooraj Pancholi issues fresh statement after CBI probe, urges agencies to investigate ‘thoroughly and completely’](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-have-never-met-late-disha-salian-or-aditya-thackeray-ever-in-my-life-sooraj-pancholi-issues-fresh-statement-after-cbi-probe-urges-agencies-to-investigate-thoroughly-and-completely/articleshow/134460690.cms)
+- [Asian Games 2026: ఇది కదా టీమిండియా రేంజ్.. మ్యాచ్ ముందే భయపడ్డ పాక్ కోచ్](https://idreampost.com/sports/pakistan-coach-mike-hesson-calls-india-the-benchmark-in-white-ball-cricket-408033.html)
+- [राज्यात दुष्काळी परिस्थिती! शरद पवार मैदानात, पंढरपुरात काढणार मोर्चा, बैठकीला अभिजीत पाटलांसह उत्तम जानकरांची दांडी](https://marathi.abplive.com/news/solapur/sharad-pawar-ncp-pandharpur-news-drought-like-situation-in-the-state-sharad-pawar-ncp-to-stage-a-protest-march-in-pandharpur-mp-dhairyasheel-mohite-patil-shares-details-1440125)
+- [విజయనగరంలో భారీ వర్షాలు.. రహదారులపై వరద](https://www.eenadu.net/videos/playvideo/heavy-rains-in-vizianagaram/1/81664)
+- [सऊदी अरब की चेतावनी के बाद मक्का में हाई अलर्ट, सिविल डिफेंस ने क्या चेतावनी जारी की?](https://www.indiatv.in/world/around-the-world/mecca-on-alert-as-saudi-arabia-issues-warning-what-alert-did-civil-defence-issue-2026-09-24-1245147)
+- [Noida bus fire: passengers warned driver of burning smell; 17 challans worth ₹1.59 lakh pending against vehicle](https://www.thehindu.com/elections/uttar-pradesh-assembly/noida-bus-fire-passengers-warned-driver-of-burning-smell-17-challans-pending-against-vehicle/article71503505.ece)
+- [ரூ.20 கோடி பேரம்](https://minnambalam.com/gem-veeramani-case-john-pandian-rs-20-crore-deal-allegation/)
+- [જો ફરી હુમલો થયો તો યુદ્ધ હિંદ મહાસાગર સુધી પહોંચશે! ઈરાનની અમેરિકાને ખુલ્લી ચેતવણી](https://www.gujaratsamachar.com/news/international/if-attacked-again-the-war-will-reach-the-indian-ocean-irans-open-warning-to-america-31823312004)
+- [‘गटर शो बंद करा’ थेट सलमानला सुनावलं ! Bigg Boss वर टीका करत सुनील पालचा भाईजानशी पंगा](https://www.tv9marathi.com/entertainment/sunil-pal-calls-bigg-boss-a-gutter-show-questions-salman-khans-advice-1763367.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
