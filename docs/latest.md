@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-24 20:02:19
+# India Trending Report — 2026-09-24 20:36:27
 
 ## Google Trends (India) — top trending searches
-1. [marc-andré ter stegen](https://trends.google.com/trending/rss?geo=IN)
+1. [quinten timber](https://trends.google.com/trending/rss?geo=IN)
 2. [younes ebnoutalib](https://trends.google.com/trending/rss?geo=IN)
-3. [nadiem amiri](https://trends.google.com/trending/rss?geo=IN)
-4. [sony liv](https://trends.google.com/trending/rss?geo=IN)
+3. [marc-andré ter stegen](https://trends.google.com/trending/rss?geo=IN)
+4. [nadiem amiri](https://trends.google.com/trending/rss?geo=IN)
 5. [karim adeyemi](https://trends.google.com/trending/rss?geo=IN)
-6. [oscar bobb](https://trends.google.com/trending/rss?geo=IN)
-7. [aykroyd](https://trends.google.com/trending/rss?geo=IN)
-8. [joão félix](https://trends.google.com/trending/rss?geo=IN)
+6. [sonyliv](https://trends.google.com/trending/rss?geo=IN)
+7. [oscar bobb](https://trends.google.com/trending/rss?geo=IN)
+8. [aykroyd](https://trends.google.com/trending/rss?geo=IN)
 9. [love hypothesis](https://trends.google.com/trending/rss?geo=IN)
 10. [kevin schade](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Iowa rescue mission turns thrift store into 46-bed shelter, frees space for 25 beds](https://timesofindia.indiatimes.com/world/us/an-iowa-rescue-mission-is-closing-its-downtown-thrift-store-and-turning-the-retail-floor-into-a-46-bed-emergency-shelter-the-move-will-also-free-space-for-25-beds-for-women-and-children/articleshow/134455103.cms)
 - [Rahul attacks Centre over EC-SIR row; BJP calls it 'jooth ki goonj'](https://timesofindia.indiatimes.com/india/all-elections-rigged-laws-illegal-rahul-gandhi-attacks-centre-over-ec-sir-row-bjp-calls-it-jooth-ki-goonj/articleshow/134464189.cms)
 - [Xi Jinping tests Donald Trump with 'Thucydides Trap'](https://timesofindia.indiatimes.com/world/us/xi-jinping-tests-donald-trump-with-thucydides-trap/articleshow/134467004.cms)
 - [CNN, MS NOW and Politico back at White House after court halts Trump ban](https://timesofindia.indiatimes.com/world/us/cnn-ms-now-and-politico-return-to-white-house-after-judge-blocks-trump-ban/articleshow/134468961.cms)
-- [Shehbaz-Pezeshkian meet in New York, Pak pushes de-escalation, Islamabad MoU](https://timesofindia.indiatimes.com/world/middle-east/shehbaz-pezeshkian-meet-in-new-york-pakistan-pushes-de-escalation-islamabad-mou/articleshow/134469182.cms)
 - [Jeff Bezos’ Earth Fund adds $25 million for Pacific Ocean conservation](https://timesofindia.indiatimes.com/technology/tech-news/in-2023-jeff-bezos-earth-fund-pledged-100-million-for-pacific-conservation-three-years-later-a-new-25-million-round-is-backing-five-nations-to-protect-and-manage-625000-square-miles-of-ocean/articleshow/134455342.cms)
-- ['No eligible elector will be left behind': Goa CEO clarifies on 97 missing voters](https://timesofindia.indiatimes.com/india/no-eligible-elector-will-be-left-behind-goa-ceo-clarifies-on-97-missing-voters/articleshow/134467956.cms)
+- [Shehbaz-Pezeshkian meet in New York, Pak pushes de-escalation, Islamabad MoU](https://timesofindia.indiatimes.com/world/middle-east/shehbaz-pezeshkian-meet-in-new-york-pakistan-pushes-de-escalation-islamabad-mou/articleshow/134469182.cms)
 - [Wife sold shares, bought husband’s Rs 7.5 crore property; taxman send notice](https://timesofindia.indiatimes.com/business/india-business/wife-sold-shares-for-rs-8-31-crore-ltcg-bought-husbands-mumbai-property-for-rs-7-5-crore-and-claimed-section-54f-exemption-taxman-calls-it-tax-avoidance-but-itat-mumbai-gives-relief-to-her/articleshow/134465968.cms)
-- [Did AI-‘kill chain’ lead to deadly Iran school strike? What report claims](https://timesofindia.indiatimes.com/world/middle-east/did-ai-enabled-kill-chain-outdated-intel-lead-to-deadly-iran-school-strike-what-report-claims/articleshow/134464054.cms)
-- [Horse declared ‘unfit’ by EFI gets all-clear from Asian Games organisers](https://timesofindia.indiatimes.com/sports/asian-games-2026/horse-declared-unfit-by-efi-gets-all-clear-from-asian-games-organisers/articleshow/134466575.cms)
-- [SC flags ‘false’ POCSO cases in marital disputes, bars immediate arrest of accused parent](https://timesofindia.indiatimes.com/india/sc-flags-false-pocso-cases-in-marital-disputes-bars-immediate-arrest-of-accused-parent/articleshow/134466036.cms)
+- ['No eligible elector will be left behind': Goa CEO clarifies on 97 missing voters](https://timesofindia.indiatimes.com/india/no-eligible-elector-will-be-left-behind-goa-ceo-clarifies-on-97-missing-voters/articleshow/134467956.cms)
+- [Get details, communicate govt’s position effectively, PM Modi tells ministers](https://timesofindia.indiatimes.com/india/get-details-communicate-govts-position-effectively-pm-modi-tells-ministers/articleshow/134469781.cms)
+- [Wangchuk fears 'encounter' after accusing govt of Ladakh atrocities](https://timesofindia.indiatimes.com/india/wangchuk-fears-encounter-after-accusing-govt-of-ladakh-atrocities/articleshow/134469652.cms)
 
 **NDTV**
 - [Trump-Xi Jinping LIVE Updates: Trump Says He Had A "Great Meeting" With Xi Jinping](https://www.ndtv.com/world-news/donald-trump-xi-jinping-live-updates-us-china-summit-white-house-state-visit-key-announcements-trade-ai-live-news-12092374#publisher=newsstand)
@@ -55,13 +55,16 @@
 - [ಮೈಸೂರು ದಸರಾ 2026 ಉದ್ಘಾಟನೆಗೆ ಕೊಪ್ಪಳ ಗವಿಮಠದ ಅಭಿನವ ಗವಿಸಿದ್ದೇಶ್ವರ ಸ್ವಾಮೀಜಿ ಆಯ್ಕೆ](https://vijaykarnataka.com/news/karnataka/abhinava-gavisiddeshwara-swamiji-of-koppals-gavimatha-selected-to-inaugurate-mysuru-dasara-2026/articleshow/134465181.cms)
 - [ಇರುವೆ ಕಾಟ, ದುರ್ವಾಸನೆ, ಬೂಷ್ಟು ಸಮಸ್ಯೆ? ಬಾಗಿಲ ಬಳಿ ವಿನೆಗರ್ ಹೀಗೆ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/spraying-vinegar-at-home-entrance-for-pests-and-odor/articleshow/134458271.cms)
 - [ಜಾತಿ ನಿಂದನೆ ಕೇಸ್‌ ರದ್ದು ಕೋರಿ ಪ್ರತಾಪ್‌ ಸಿಂಹ ಅರ್ಜಿ: ವಿಚಾರಣೆ ಮುಂದೂಡಿದ ಹೈಕೋರ್ಟ್‌; ಏನಿದು ಪ್ರಕರಣ?](https://vijaykarnataka.com/news/karnataka/prathap-simha-seeks-quashing-of-caste-abuse-case-karnataka-high-court-adjourns-hearing/articleshow/134467163.cms)
-- [ತಾಂಡವ್‌ ರಾಮ್‌ BBK 13ನಿಂದ ಔಟ್‌: ಇದು ಅನ್‌ಫೇರ್‌ ಎಂದು ಬಿಕ್ಕಿ ಬಿಕ್ಕಿ ಕಣ್ಣೀರಿಟ್ಟ ಗಗನ್‌ ಚಿನ್ನಪ್ಪ, ಇಲ್ಲೊಂದು ಟ್ವಿಸ್ಟ್ ಅಡಗಿದೆ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-week-3rd-mid-week-elimination-tandav-ram-out-soundarya-shetty-safe/articleshow/134468436.cms)
+- [ಕಿಶನ್ ಬಿಳಗಲಿ BBK 13ಗೆ ಪ್ರವೇಶ: "ಮುಂದಿನ ಮೂರು ದಿನಗಳ ಕಾಲ ಆ ನೆನಪುಗಳನ್ನ ಮರಳಿ ಜೀವಿಸುವೆ" ಎಂದ ಬಿಗ್‌ ಬಾಸ್‌ ಸೀಸನ್‌-7 ಸ್ಪರ್ಧಿ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/the-bigg-boss-season-7-contestant-kishan-bilagali-enters-bbk-13-house/articleshow/134469502.cms)
 - [ಪಾರ್ಕ್ ಮಾಡಿದ ಕಾರಿಗೆ ಇಲಿಗಳು ಏಕೆ ಬರುತ್ತವೆ? ತಡೆಯಲು ಈ ನೈಸರ್ಗಿಕ ವಿಧಾನಗಳು ಸಹಕಾರಿ](https://vijaykarnataka.com/lifestyle/home-decor/why-rats-enter-parked-cars-natural-ways-to-keep-rats-away/articleshow/134408701.cms)
 - [2026 ಅನಂತ ಚತುರ್ದಶಿ ಶುಭ ಮುಹೂರ್ತ, ಪೂಜೆ ವಿಧಾನ, ಮಹತ್ವ, ಮಂತ್ರಗಳು.!](https://vijaykarnataka.com/religion/festivals/anant-chaturdashi-2026-date-and-time-puja-procedures-importance-and-mantras/articleshow/134463337.cms)
 - [ಲಂಡನ್ ಫ್ಯಾಷನ್ ವೀಕ್‌ನಲ್ಲಿ ‘ಆದರ್ಶ್ ಬಾಲಕ’! 80-90ರ ದಶಕದ ಶಾಲಾ ಚಾರ್ಟ್‌ಗಳಿಗೆ ಹೊಸ ಫ್ಯಾಷನ್ ಟಚ್](https://vijaykarnataka.com/lifestyle/fashion/lovebirds-studio-london-fashion-week-adarsh-balak-blue-checks-gown/articleshow/134455745.cms)
 - [ಸೌಜನ್ಯ ಕೊಲೆ ಪ್ರಕರಣ ಮರುತನಿಖೆಗೆ SIT ರಚನೆ: 5 ಪೊಲೀಸ್‌ ಅಧಿಕಾರಿಗೆ ಜವಾಬ್ದಾರಿ; ಖಡಕ್ IPS ಅಧಿಕಾರಿ ಶಶಿಕುಮಾರ್ ನೇತೃತ್ವ](https://vijaykarnataka.com/news/karnataka/sit-formed-to-reinvestigate-sowjanya-murder-case-responsibility-assigned-to-5-police-officers-led-by-tough-n-shashikumar/articleshow/134466926.cms)
 
 **The Hindu**
+- [Confident that Vijay will accept Rahul as Prime Ministerial candidate: Manickam Tagore](https://www.thehindu.com/news/national/tamil-nadu/confident-that-vijay-will-accept-rahul-as-prime-ministerial-candidate-manickam-tagore/article71504912.ece)
+- [Yet to assess impact of mines Act on Odisha, says Minister as legislators flag potential loss](https://www.thehindu.com/news/national/odisha/yet-to-assess-impact-of-mines-act-on-odisha-says-minister-as-legislators-flag-potential-loss/article71503971.ece)
+- [‘Enter at own risk’: churches to non-Christians as anti-conversion law takes effect in Chhattisgarh](https://www.thehindu.com/news/national/chhattisgarh/enter-at-own-risk-churches-to-non-christians-as-anti-conversion-law-takes-effect-in-chhattisgarh/article71504784.ece)
 - [GVP College to organise national seminar on NEP-2020](https://www.thehindu.com/news/national/andhra-pradesh/gvp-college-to-organise-national-seminar-on-nep-2020/article71504934.ece)
 - [Role of pharmacists in strengthening healthcare systems highlighted](https://www.thehindu.com/news/national/andhra-pradesh/role-of-pharmacists-in-strengthening-healthcare-systems-highlighted/article71504871.ece)
 - [Bitumen price surge hits road works, adding to motorists’ woes in Kochi](https://www.thehindu.com/news/national/kerala/bitumen-price-surge-hits-road-works-adding-to-motorists-woes-in-kochi/article71494267.ece)
@@ -69,11 +72,9 @@
 - [Tiruvannamalai Arunachaleswarar Temple receives eight-year-old elephant Hiralal from Assam](https://www.thehindu.com/news/national/tamil-nadu/eight-year-old-elephant-hiralal-to-arrive-at-arunachaleswarar-temple-in-tiruvannamalai/article71504652.ece)
 - [Lizard found in food served to students, cooks relieved of duty](https://www.thehindu.com/news/cities/chennai/lizard-found-in-food-served-to-students-cooks-relieved-of-duty/article71505358.ece)
 - [Medical college students’ union in Kozhikode objects to appointment of acting HoD](https://www.thehindu.com/news/national/kerala/medical-college-students-union-in-kozhikode-objects-to-appointment-of-acting-hod/article71504280.ece)
-- [Seven persons held in Tirupattur for possession of sharp weapons](https://www.thehindu.com/news/national/tamil-nadu/seven-persons-held-in-tirupattur-for-possession-of-sharp-weapons/article71504119.ece)
-- [Encroachments removed to provide easy access to Government Higher Secondary School in Pernambut](https://www.thehindu.com/news/national/tamil-nadu/encroachments-removed-to-provide-easy-access-to-government-higher-secondary-school-in-pernambut/article71504131.ece)
-- [Ex-servicemen, widows in Telangana to get higher welfare grants, new assistance schemes approved](https://www.thehindu.com/news/national/telangana/ex-servicemen-widows-in-telangana-to-get-higher-welfare-grants-new-assistance-schemes-approved/article71505285.ece)
 
 **Livemint**
+- [Palestine president Mahmoud Abbas at UNGA — What he said on Israeli settlements, US visa ban and elections](https://www.livemint.com/news/world/palestine-president-mahmoud-abbas-at-unga-what-he-said-on-israeli-settlements-us-visa-ban-and-elections-11790279871818.html)
 - [Republican California Sheriff’s 650,000-ballot seizure declared ‘unlawful’ — What the court said](https://www.livemint.com/news/us-news/republican-california-sheriff-s-650-000-ballot-seizure-declared-unlawful-what-the-court-said-11790278997841.html)
 - [Netanyahu at UNGA — says attacking Iran was ‘one of the easiest decisions’ he ever made: Key takeaways](https://www.livemint.com/news/world/netanyahu-at-unga-says-attacking-iran-was-one-of-the-easiest-decisions-he-ever-made-key-takeaways-11790277514864.html)
 - [US-Iran war: Will Strait of Hormuz reopen and blockade end? Both nations discuss phased deal, says report](https://www.livemint.com/news/world/usiran-war-will-strait-of-hormuz-reopen-and-blockade-end-both-nations-discuss-phased-deal-says-report-11790271850746.html)
@@ -83,7 +84,6 @@
 - [Centre to ask banks’ body to ensure consumers don't pay MDR on UPI payments](https://www.livemint.com/news/india/centre-to-ask-banks-body-to-ensure-consumers-dont-pay-mdr-on-upi-payments-11790267529232.html)
 - [New York vs Polymarket: Why is the prediction platform facing legal action and what did it say? Explained](https://www.livemint.com/news/us-news/new-york-vs-polymarket-why-is-the-prediction-platform-facing-legal-action-and-what-did-it-say-explained-11790267790896.html)
 - [Xi-Trump summit: Nod to historic ‘peace toast’, seabass and a lot of Chinese influence, what's on state dinner menu?](https://www.livemint.com/news/us-news/xitrump-summit-nod-to-historic-peace-toast-seabass-and-a-lot-of-chinese-influence-whats-on-state-dinner-menu-11790265086910.html)
-- [California wine industry crisis: Signorello faces foreclosure, Gundlach Bundschu files for bankruptcy](https://www.livemint.com/news/us-news/california-wine-industry-crisis-signorello-faces-foreclosure-gundlach-bundschu-files-for-bankruptcy-11790268815507.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -132,10 +132,6 @@
 - [ಬಿಡದಿ ಟೌನ್‌ಶಿಪ್: ಧರಣಿ ಸ್ಥಳಕ್ಕೆ ಜಿಲ್ಲಾಧಿಕಾರಿ ಭೇಟಿ](https://www.prajavani.net/district/ramanagara/bidadi-satellite-township-protest-ramanagara-dc-visit-4285567)
 - [ಸೌಜನ್ಯಾ ಕೊಲೆ: ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಆದೇಶದ ಬೆನ್ನಲ್ಲೇ ಎಸ್‌ಐಟಿ ರಚನೆ](https://www.prajavani.net/news/karnataka-news/soujanya-murder-case-sit-formed-for-re-investigation-4285555)
 - [ಈ ದಿನದ ಪ್ರಮುಖ 10 ಸುದ್ದಿಗಳು: ಗುರುವಾರ, 24 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/news/india-news/top-ten-karnataka-and-national-news-updates-september-4285114)
-- [30 ಲಕ್ಷ ಮತದಾರರ ಹೆಸರು ಅಳಿಸಲು ಸಂಚು: ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಹಂಚಿಕೊಂಡ ಅಭಿಷೇಕ್](https://www.prajavani.net/news/india-news/abhishek-banerjee-alleges-voter-list-deletion-conspiracy-screenshot-viral-4285465)
-- [ಸಿಇಸಿ ಜ್ಞಾನೇಶ್‌ ಕುಮಾರ್ ವಿರುದ್ಧ ದೂರು ದಾಖಲಿಸಿದ ಮಹುವಾ ಮೊಯಿತ್ರಾ](https://www.prajavani.net/news/india-news/mahua-moitra-complaint-against-chief-election-commissioner-gyanesh-kumar-4285412)
-- [ಕೆಜಿಎಫ್‌ ಶಾಸಕಿ ರೂಪಕಲಾ ಧಮ್ಕಿ ಹಾಕಿದ್ದು ಭಯಗೊಂಡಿದ್ದೇನೆ: ಶಾಸಕ ನಾರಾಯಣಸ್ವಾಮಿ](https://www.prajavani.net/district/kolar/mla-narayanaswamy-alleges-threat-by-roopakala-shashidhar-4285471)
-- [ಮೋದಿ, ಶಾ, ಜ್ಞಾನೇಶ್‌ ಕುಮಾರ್‌ ದೇಶದ್ರೋಹಿಗಳು: ರಾಹುಲ್‌ ಗಾಂಧಿ ಆಕ್ರೋಶ](https://www.prajavani.net/news/india-news/rahul-gandhi-alleges-modi-shah-and-cec-destroyed-voting-process-4285390)
 
 **eedina**
 - [ಧಾರವಾಡ | ಸೆ. 27ಕ್ಕೆ ಪರಿಶಿಷ್ಟ ಜಾತಿ, ಪರಿಶಿಷ್ಟ ಪಂಗಡಗಳ ಕುಂದುಕೊರತೆ ಸಭೆ](https://eedina.com/?p=766003)
@@ -151,34 +147,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - Centre (3.9)
-- Iran (3.9)
-- What (2.6)
+- Rahul (2.9)
+- Iran (2.6)
 - Delhi (2.6)
+- UNGA (2.6)
+- What (2.6)
 - New York (2.0)
-- Asian Games (2.0)
 - Trump (1.9)
-- Rahul (1.6)
+- Modi (1.6)
 - Bengal (1.6)
+- Odisha (1.6)
 - Stalin (1.6)
 - Hormuz (1.6)
-- California (1.6)
+- Iowa (1.3)
 - EC-SIR (1.3)
-- Politico (1.3)
-- Shehbaz-Pezeshkian (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [নন্দীগ্রামে ভোটের আগে স্বস্তিতে কংগ্রেস প্রার্থী মিলন প্রধান, বড় নির্দেশ হাইকোর্টের](https://bangla.aajtak.in/west-bengal/south-bengal/story/calcutta-high-court-nandigram-congress-candidate-milan-pradhan-cannot-be-shown-as-arrested-new-case-gets-partial-relief-sus-1454718-2026-09-24)
-- [Did F-35 parts headed for US land in Chinese possession? Big jet mystery looms ahead of Trump-Xi talks](https://www.hindustantimes.com/world-news/f35-jet-parts-headed-for-us-in-chinese-possession-mystery-looms-ahead-of-donald-trump-xi-jinping-talks-washington-101790232693239.html)
-- [Kolhapur Student Anushka Powar on headphone dies after Dhanbad Express hits Crime News; एक्स्प्रेसची धडक, अनुष्का 30 फूट﻿ उंच उडाली, भेदरुन मैत्रिणीही बेशुद्ध; कोल्हापुरात थरारक घटना, 2 फुटांची जागा ठ](https://maharashtratimes.com/maharashtra/kolhapur/kolhapur-student-anushka-powar-on-headphone-dies-after-dhanbad-express-hits/articleshow/134455393.cms)
-- [তালাশ বিডি । অন্যায়ের বিরুদ্ধে সাহসী মুখপাত্র](https://talashbd.com/news/705363351435934)
-- [Calcutta High Court: ISF-এর প্রতীকচিহ্ন ঋতব্রত-তৃণমূলকে কেন দেওয়া হল? কমিশনের ভূমিকায় ক্ষুব্ধ আদালত, বিচারপতি বললেন, ‘নির্বাচন এলেই খেলা শুরু হয়ে যায়’](https://bengali.abplive.com/district/isf-envelop-syymbol-row-calcutta-high-court-rebukes-election-commission-for-giving-it-to-democratic-trinamool-congress-1193995)
-- [Where did World's First Bats come from? Scientists uncover a 65-million-year-old evolutionary mystery](https://www.moneycontrol.com/science/where-did-world-s-first-bats-come-from-scientists-uncover-a-65-million-year-old-evolutionary-mystery-article-14037230.html)
-- [83 વર્ષની વયે દેશના બીજા સૌથી અમીર એક્ટર બન્યા અમિતાભ બચ્ચન! સંપત્તિમાં 145 ટકાનો ઉછાળો](https://www.gujaratsamachar.com/news/entertainment/Hurun-India-Rich-List-2026-Amitabh-Bachchan-is-Indias-2nd-Richest-Actor-with-Rs-4000-Crore-29441732220)
-- [Ind vs WI 1sT ODI : शुभमन गिलच्या नेतृत्वाखाली टीम इंडिया तिरुवनंतपुरममध्ये दाखल; रोहित-विराटचं पुनरागमन, वेस्ट इंडिजविरुद्ध सामने कुठे पाहता येणार?](https://marathi.abplive.com/sports/cricket/india-vs-west-indies-2026-schedule-live-streaming-rohit-virat-return-shubman-gill-captain-marathi-news-1440099)
-- [India vs South Korea Highlights, Asian Games Hockey: Dilpreet, Abhishek score brace each as IND register 8-2 win](https://www.hindustantimes.com/sports/hockey/india-vs-south-korea-mens-hockey-live-score-asian-games-2026-pool-a-match-updates-september-24-101790225931570.html)
-- [TMC सिंबल फ्रीज विवाद पर सुप्रीम कोर्ट सख्त... चुनाव आयोग से पूछा- 'बताएं अंतिम फैसला लेने में कितना समय लगेगा?'](https://www.aajtak.in/west-bengal/story/mamta-banerjee-election-commission-supreme-court-tmc-name-symbol-dispute-ntc-aktw-rptc-2651879-2026-09-24)
+- [ഓസ്‌ട്രേലിയന്‍ സര്‍ക്കാര്‍ ഹെല്‍ത്ത് കെയര്‍ ഡാറ്റാബേസ് ഹാക്ക് ചെയ്ത് ഓപ്പണ്‍ എ.ഐ ഏജന്റ്: അറിഞ്ഞത് മാസങ്ങള്‍ക്കുശേഷം](https://www.doolnews.com/unacceptable-australian-pm-says-openai-hacked-government-health-website-63-178.html)
+- [മലയാള സിനിമയുടെ പെരുന്തച്ചൻ വിടപറഞ്ഞിട്ട് 14 വർഷം; അഭിനയത്തിന്റെ വിസ്മയമായി തിലകൻ എന്നും ഓർമ്മയിൽ](https://www.expresskerala.com/news/fourteen-years-since-the-passing-of-the-master-craftsman-perumthachan-of-malayalam-cinema-thilakan-remains-in-our-memories-as-a-marvel-of-acting.html)
+- [War may reach Indian Ocean if US attacks again, warns Iran](https://www.moneycontrol.com/world/war-may-reach-indian-ocean-if-us-attacks-again-warns-iran-article-14037285.html)
+- [Man died after overdose of caffeine, inquest hears](https://www.mirror.co.uk/news/uk-news/man-died-after-overdose-caffeine-37696513)
+- ['The Paradise' box office collection Day 1 [LIVE]: Nani, Raghav Juyal and Kayadu Lohar starrer action drama opens with Rs 12.55 crore India net amid mixed audience reactions](https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/the-paradise-box-office-collection-day-1-live-nani-raghav-juyal-and-kayadu-lohar-starrer-action-drama-opens-with-rs-12-55-crore-india-net-amid-mixed-audience-reactions-for-srikanth-odela-directorial/articleshow/134456328.cms)
+- [IIT-Bombay suicide case: Sahil Wakode's father detained on way to campus to begin hunger strike](https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-suicide-case-sahil-wakodes-father-held-while-heading-to-campus-to-begin-hunger-strike/articleshow/134456186.cms)
+- [સંપત્તિમાં રૂ.2500 કરોડનો કડાકો છતાં શાહરુખ ભારતનો સૌથી અમીર એક્ટર, સલમાન અને બચ્ચન કેટલા પાછળ?](https://www.gujaratsamachar.com/news/entertainment/despite-a-drop-of-rs-2500-crore-in-wealth-shah-rukh-is-indias-richest-actor-how-far-behind-are-salman-and-bachchan-30933326894)
+- [“ஜெம் வீரமணி வழக்கில் சிபிஐ விசாரணை தேவையில்லை” - வைகோ](https://www.hindutamil.in/news/tamilnadu/vaiko-says-cbi-inquiry-is-not-required-in-the-gem-veeramani-case)
+- [વેજલપુરમાંથી ગોલ્ડી બરાર ગેંગનો શૂટર 'આરિફ પિસ્તોલ' ઝડપાયો, અમદાવાદ-દિલ્હી પોલીસનું સંયુક્ત ઓપરેશન!](https://www.gujaratsamachar.com/news/ahmedabad/joint-operation-by-ahmedabad-and-delhi-police-operative-arif-of-goldie-brar-gang-arrested-from-vejalpur-55856635047)
+- [Hubble Space Telescope completes 2 lakh orbits](https://www.manoramayearbook.in/current-affairs/world/2026/09/24/hubble-space-telescope-2-lakh-orbits.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
