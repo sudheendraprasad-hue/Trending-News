@@ -1,31 +1,34 @@
-# India Trending Report — 2026-09-24 21:02:15
+# India Trending Report — 2026-09-24 21:33:39
 
 ## Google Trends (India) — top trending searches
-1. [erling haaland](https://trends.google.com/trending/rss?geo=IN)
+1. [netherlands national football team vs germany national football team standings](https://trends.google.com/trending/rss?geo=IN)
 2. [ruben van bommel](https://trends.google.com/trending/rss?geo=IN)
-3. [quinten timber](https://trends.google.com/trending/rss?geo=IN)
-4. [marc-andré ter stegen](https://trends.google.com/trending/rss?geo=IN)
-5. [younes ebnoutalib](https://trends.google.com/trending/rss?geo=IN)
-6. [nadiem amiri](https://trends.google.com/trending/rss?geo=IN)
-7. [karim adeyemi](https://trends.google.com/trending/rss?geo=IN)
-8. [sonyliv](https://trends.google.com/trending/rss?geo=IN)
-9. [oscar bobb](https://trends.google.com/trending/rss?geo=IN)
-10. [aykroyd](https://trends.google.com/trending/rss?geo=IN)
+3. [rasmus højlund](https://trends.google.com/trending/rss?geo=IN)
+4. [joão palhinha](https://trends.google.com/trending/rss?geo=IN)
+5. [sayed abu farchi](https://trends.google.com/trending/rss?geo=IN)
+6. [quinten timber](https://trends.google.com/trending/rss?geo=IN)
+7. [marc-andré ter stegen](https://trends.google.com/trending/rss?geo=IN)
+8. [younes ebnoutalib](https://trends.google.com/trending/rss?geo=IN)
+9. [karim adeyemi](https://trends.google.com/trending/rss?geo=IN)
+10. [felix nmecha](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Rahul attacks Centre over EC-SIR row; BJP calls it 'jooth ki goonj'](https://timesofindia.indiatimes.com/india/all-elections-rigged-laws-illegal-rahul-gandhi-attacks-centre-over-ec-sir-row-bjp-calls-it-jooth-ki-goonj/articleshow/134464189.cms)
 - [Xi Jinping tests Donald Trump with 'Thucydides Trap'](https://timesofindia.indiatimes.com/world/us/xi-jinping-tests-donald-trump-with-thucydides-trap/articleshow/134467004.cms)
 - [CNN, MS NOW and Politico back at White House after court halts Trump ban](https://timesofindia.indiatimes.com/world/us/cnn-ms-now-and-politico-return-to-white-house-after-judge-blocks-trump-ban/articleshow/134468961.cms)
+- [‘No greater partner than Trump’: Netanyahu defends Iran war as delegates walk out at UNGA](https://timesofindia.indiatimes.com/world/middle-east/no-greater-partner-than-president-trump-netanyahu-defends-iran-war-attacks-critics-as-delegates-walk-out-at-unga/articleshow/134469836.cms)
 - [Shehbaz-Pezeshkian meet in New York, Pak pushes de-escalation, Islamabad MoU](https://timesofindia.indiatimes.com/world/middle-east/shehbaz-pezeshkian-meet-in-new-york-pakistan-pushes-de-escalation-islamabad-mou/articleshow/134469182.cms)
-- ['No eligible elector will be left behind': Goa CEO clarifies on 97 missing voters](https://timesofindia.indiatimes.com/india/no-eligible-elector-will-be-left-behind-goa-ceo-clarifies-on-97-missing-voters/articleshow/134467956.cms)
 - [Jeff Bezos’ Earth Fund adds $25 million for Pacific Ocean conservation](https://timesofindia.indiatimes.com/technology/tech-news/in-2023-jeff-bezos-earth-fund-pledged-100-million-for-pacific-conservation-three-years-later-a-new-25-million-round-is-backing-five-nations-to-protect-and-manage-625000-square-miles-of-ocean/articleshow/134455342.cms)
-- [Get details, communicate govt’s position effectively, PM Modi tells ministers](https://timesofindia.indiatimes.com/india/get-details-communicate-govts-position-effectively-pm-modi-tells-ministers/articleshow/134469781.cms)
+- ['No eligible elector will be left behind': Goa CEO clarifies on 97 missing voters](https://timesofindia.indiatimes.com/india/no-eligible-elector-will-be-left-behind-goa-ceo-clarifies-on-97-missing-voters/articleshow/134467956.cms)
 - [Wife sold shares, bought husband’s Rs 7.5 crore property; taxman send notice](https://timesofindia.indiatimes.com/business/india-business/wife-sold-shares-for-rs-8-31-crore-ltcg-bought-husbands-mumbai-property-for-rs-7-5-crore-and-claimed-section-54f-exemption-taxman-calls-it-tax-avoidance-but-itat-mumbai-gives-relief-to-her/articleshow/134465968.cms)
+- [Get details, communicate govt’s position effectively, PM Modi tells ministers](https://timesofindia.indiatimes.com/india/get-details-communicate-govts-position-effectively-pm-modi-tells-ministers/articleshow/134469781.cms)
 - [Wangchuk fears 'encounter' after accusing govt of Ladakh atrocities](https://timesofindia.indiatimes.com/india/wangchuk-fears-encounter-after-accusing-govt-of-ladakh-atrocities/articleshow/134469652.cms)
-- [India’s homegrown AI-powered combat aircraft hits 100-hour flight test milestone](https://timesofindia.indiatimes.com/defence/news/indias-homegrown-ai-powered-combat-aircraft-hits-100-hour-flight-test-milestone/articleshow/134469752.cms)
 
 **NDTV**
+- ["Many Jews No Longer Feel Safe In New York": Netanyahu Slams Mamdani At UN](https://www.ndtv.com/world-news/many-jews-feel-unsafe-in-new-york-since-zohran-mamdani-election-netanyahu-12094554#publisher=newsstand)
+- [Netanyahu Attacks UK, France, Turkey In Fiery UN Speech](https://www.ndtv.com/world-news/benjamin-netanyahu-attacks-uk-france-turkey-in-fiery-un-speech-12094745#publisher=newsstand)
+- [Video: Dozens Of Delegates Walk Out As Netanyahu Takes UN Stage](https://www.ndtv.com/world-news/dozens-of-delegates-walk-out-of-un-hall-at-start-of-netanyahu-speech-12094640#publisher=newsstand)
 - [Trump-Xi Jinping LIVE Updates: Trump Says He Had A "Great Meeting" With Xi Jinping](https://www.ndtv.com/world-news/donald-trump-xi-jinping-live-updates-us-china-summit-white-house-state-visit-key-announcements-trade-ai-live-news-12092374#publisher=newsstand)
 - [Drive Through Tollgates: New Rules For High-Speed Highways](https://www.ndtv.com/india-news/drive-through-tollgates-new-rules-for-high-speed-highways-12094638#publisher=newsstand)
 - [Hollywood Stars Among Arrests In New York Anti-Netanyahu Protest](https://www.ndtv.com/world-news/hollywood-stars-among-arrests-in-new-york-anti-netanyahu-protest-12094607#publisher=newsstand)
@@ -33,9 +36,6 @@
 - [Bay Of Bengal Depression To Bring Heavy Rain To Bengal, Odisha And Other States](https://www.ndtv.com/india-news/weather-tomorrow-telangana-may-see-extremely-heavy-rain-orange-alert-in-jharkhand-12092206#publisher=newsstand)
 - [DMK Didn't Try To Shield Granite Baron Accused In Sex Abuse Case: MK Stalin](https://www.ndtv.com/india-news/no-orders-were-issued-to-shield-r-veeramani-under-dmk-mk-stalin-12094290#publisher=newsstand)
 - [Calling Husband Dark', Fat' Not Grounds For Divorce: High Court](https://www.ndtv.com/thehook/agency/calling-husband-dark-fat-not-grounds-for-divorce-high-court-12094568#publisher=newsstand)
-- [Woman Alleges Her Photo Was Morphed During CJP Protests, Case Filed](https://www.ndtv.com/india-news/woman-alleges-her-photo-was-morphed-during-cjp-protests-cops-file-case-12094421#publisher=newsstand)
-- [Hundreds Of Trucks Block Turkey-Iran Border After US Blockade](https://www.ndtv.com/world-news/hundreds-of-trucks-clog-turkey-iran-border-as-us-blockade-changes-trade-pattern-12094567#publisher=newsstand)
-- [US Deploys Laser Weapons In Hormuz That Can Be Operated With Xbox Controllers: Report](https://www.ndtv.com/world-news/us-iran-war-weapons-news-us-deploying-laser-weapons-in-hormuz-that-can-be-operated-with-xbox-console-12093870#publisher=newsstand)
 
 **Hindustan Times**
 - [India, Russia, Iran among 9 countries to be part of BRICS Theatre Festival in Delhi](https://www.hindustantimes.com/india-news/india-russia-iran-among-9-countries-to-be-part-of-brics-theatre-festival-in-delhi-101790274778746.html)
@@ -70,10 +70,12 @@
 - [GVP College to organise national seminar on NEP-2020](https://www.thehindu.com/news/national/andhra-pradesh/gvp-college-to-organise-national-seminar-on-nep-2020/article71504934.ece)
 - [Role of pharmacists in strengthening healthcare systems highlighted](https://www.thehindu.com/news/national/andhra-pradesh/role-of-pharmacists-in-strengthening-healthcare-systems-highlighted/article71504871.ece)
 - [Bitumen price surge hits road works, adding to motorists’ woes in Kochi](https://www.thehindu.com/news/national/kerala/bitumen-price-surge-hits-road-works-adding-to-motorists-woes-in-kochi/article71494267.ece)
+- [IIT Bombay student death: Youth Congress seeks arrest of director, professor; independent probe into student’s death](https://www.thehindu.com/news/cities/mumbai/iit-bombay-student-death-youth-congress-seeks-arrest-of-director-professor-independent-probe-into-students-death/article71505357.ece)
 - [Veeramani case: Stalin says DMK regime did not protect anyone](https://www.thehindu.com/news/national/tamil-nadu/veeramani-case-stalin-says-dmk-regime-did-not-protect-anyone/article71505742.ece)
-- [Tiruvannamalai Arunachaleswarar Temple receives eight-year-old elephant Hiralal from Assam](https://www.thehindu.com/news/national/tamil-nadu/eight-year-old-elephant-hiralal-to-arrive-at-arunachaleswarar-temple-in-tiruvannamalai/article71504652.ece)
 
 **Livemint**
+- [Trump-Xi Summit: Xi's ‘Thucydides Trap’ warning, push for Taiwan stance — 6 key takeaways from White House talks](https://www.livemint.com/news/us-news/trumpxi-summit-xis-thucydides-trap-warning-push-for-taiwan-stance-6-key-takeaways-from-white-house-talks-11790284152049.html)
+- [White House wants US government review of OpenAI, Anthropic’s new AI models before UK access — Report](https://www.livemint.com/news/us-news/white-house-wants-us-government-review-of-openai-anthropic-s-new-ai-models-before-uk-access-report-11790271763243.html)
 - [Palestine president Mahmoud Abbas at UNGA — What he said on Israeli settlements, US visa ban and elections](https://www.livemint.com/news/world/palestine-president-mahmoud-abbas-at-unga-what-he-said-on-israeli-settlements-us-visa-ban-and-elections-11790279871818.html)
 - [Republican California Sheriff’s 650,000-ballot seizure declared ‘unlawful’ — What the court said](https://www.livemint.com/news/us-news/republican-california-sheriff-s-650-000-ballot-seizure-declared-unlawful-what-the-court-said-11790278997841.html)
 - [Netanyahu at UNGA — says attacking Iran was ‘one of the easiest decisions’ he ever made: Key takeaways](https://www.livemint.com/news/world/netanyahu-at-unga-says-attacking-iran-was-one-of-the-easiest-decisions-he-ever-made-key-takeaways-11790277514864.html)
@@ -82,8 +84,6 @@
 - [UPI MDR: ‘Not a single penny’ will go to govt; earnings to be shared among banks and other entities, says report](https://www.livemint.com/news/india/upi-mdr-not-a-single-penny-will-go-to-govt-earnings-to-be-shared-among-banks-and-other-entities-says-report-11790269413021.html)
 - [IIT Bombay suicide: Late student's parents launch hunger strike, mid-sem exam deferred amid caste discrimination claims](https://www.livemint.com/news/india/iit-bombay-suicide-late-students-parents-launch-hunger-strike-mid-sem-exam-deferred-amid-caste-discrimination-claims-11790270749776.html)
 - [Centre to ask banks’ body to ensure consumers don't pay MDR on UPI payments](https://www.livemint.com/news/india/centre-to-ask-banks-body-to-ensure-consumers-dont-pay-mdr-on-upi-payments-11790267529232.html)
-- [New York vs Polymarket: Why is the prediction platform facing legal action and what did it say? Explained](https://www.livemint.com/news/us-news/new-york-vs-polymarket-why-is-the-prediction-platform-facing-legal-action-and-what-did-it-say-explained-11790267790896.html)
-- [Xi-Trump summit: Nod to historic ‘peace toast’, seabass and a lot of Chinese influence, what's on state dinner menu?](https://www.livemint.com/news/us-news/xitrump-summit-nod-to-historic-peace-toast-seabass-and-a-lot-of-chinese-influence-whats-on-state-dinner-menu-11790265086910.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -127,8 +127,6 @@
 
 **Prajavani**
 - [PODCAST | ಕಸ್ತೂರಿರಂಗನ್ ವರದಿ ಜಾರಿ: ರಾಜಕೀಯ ವಿರೋಧದ ಹಿಂದಿನ ಅಸಲಿಯತ್ತೇನು?](https://www.prajavani.net/news/karnataka-news/kasturirangan-report-western-ghats-political-opposition-analysis-4285681)
-- [ಸೇನೆಯಲ್ಲಿ ಕೆಲಸ ಕೊಡಿಸುವುದಾಗಿ ವಂಚನೆಗೆ ಯತ್ನ](https://www.prajavani.net/district/bagalkot/army-job-recruitment-fraud-arrest-bagalkot-4285285)
-- [ಲಾರಿ ಹರಿದು ಇಬ್ಬರು ಕಾವಲುಗಾರರ ಸಾವು](https://www.prajavani.net/district/kalaburagi/aland-kalaburagi-security-guards-killed-by-lorry-accident-4285030)
 
 **eedina**
 - [ಧಾರವಾಡ | ಸೆ. 27ಕ್ಕೆ ಪರಿಶಿಷ್ಟ ಜಾತಿ, ಪರಿಶಿಷ್ಟ ಪಂಗಡಗಳ ಕುಂದುಕೊರತೆ ಸಭೆ](https://eedina.com/?p=766003)
@@ -144,34 +142,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - Centre (3.9)
+- Iran (3.9)
+- UNGA (3.9)
+- Netanyahu (3.5)
+- Trump (3.2)
+- White House (3.0)
 - Rahul (2.9)
-- India (2.6)
-- Iran (2.6)
 - Delhi (2.6)
-- UNGA (2.6)
 - What (2.6)
-- New York (2.0)
-- Trump (1.9)
+- IIT Bombay (2.0)
 - Modi (1.6)
 - Bengal (1.6)
 - Odisha (1.6)
 - Stalin (1.6)
-- Hormuz (1.6)
 - EC-SIR (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [NSE shares list with gains on debut day: How much Radhakishan Damani, Raamdeo Agrawal & other ace investors’ stakes are now worth](https://economictimes.indiatimes.com/markets/stocks/news/nse-shares-rise-5-on-debut-day-how-much-radhakishan-damani-raamdeo-agrawal-other-ace-investors-stakes-are-now-worth/articleshow/134456618.cms?from=mdr)
-- [8 अल्पवयीन मुलांना पट्ट्याने मारहाण, जातीवाचक शिवीगाळ, मानवाधिकार आयोगाचा संताप; पुण्यातील 11 पोलिसांविरुद्ध गुन्हा](https://marathi.abplive.com/news/pune/pune-ambegaon-8-minors-beaten-with-a-belt-and-subjected-to-castes-slurs-human-rights-commission-outraged-fir-registered-against-11-police-personnel-in-pune-1440110)
-- [अफगानिस्तान पर हमले के बाद रूस ने PAK पर टेढ़ी की नजर, तालिबान बोला- इंशाअल्लाह... माकूल जवाब देंगे](https://www.aajtak.in/world/story/russian-embassy-in-afghanistan-pakistan-air-strike-kabul-ntcppl-dskc-2651994-2026-09-24)
-- [Trump: ఆ మీడియా ప్ర‌తినిధుల‌పై బ్యాన్ ఎత్తివేయండి.. ట్రంప్ స‌ర్కారుకు ఫెడ‌ర‌ల్ కోర్టు ఆదేశం](https://www.ntnews.com/international/reinstate-white-house-access-to-cnn-ms-now-and-politico-reporters-federal-judge-orders-trump-administration-2518765)
-- [Sunil pal on Salman khan: 'सलमान खानला आपण बनवलंय...' सुनील पालचा संताप; 'बंद करा हा गटर शो', म्हणत 'बिग बॉस'वरही भडकला](https://marathi.abplive.com/entertainment/sunil-pal-on-salman-khan-and-bigg-boss-20-says-gutter-to-the-show-also-troll-bigg-boss-contestants-1440111)
-- [...तो हम ज्ञानेश कुमार को गोली मार देंगे, मुख्य चुनाव आयुक्त पर बोले VIP चीफ मुकेश सहनी](https://www.livehindustan.com/bihar/i-will-shoot-gyanesh-kumar-vip-chief-reacts-on-chief-election-commissioner-of-india-201790238211966.html)
-- [नाबालिग लड़की का Video वायरल करने वाला मोबाइल पुलिस के कब्जे में... समस्तीपुर SP ने बताई पूरी कहानी](https://www.aajtak.in/bihar/story/samastipur-girl-harassment-video-case-mobile-seized-four-arrested-ntc-mnrd-smsr-2651982-2026-09-24)
-- [TMC Symbol ও Name নিয়ে আর কত সময় লাগবে? কমিশনকে প্রশ্ন সুপ্রিম কোর্টের](https://bangla.aajtak.in/desh/story/supreme-court-tmc-symbol-and-name-mamata-banerjee-sbm-1454741-2026-09-24)
-- [Supreme Court gives Centre last chance to explain steps taken against child porn online](https://www.barandbench.com/news/supreme-court-gives-centre-last-chance-to-explain-steps-taken-against-child-porn-online)
-- [Stock Market Today Live, Sept 24: Sensex crashes 1,180 pts, Nifty near 23,000; NSE shares trade with 3% gain](https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-24-september-2026/article71499498.ece)
+- [Ankit Mohan Promotion Row: फर्जंद फेम अंकितची प्रमोशनला दांडी; १ कोटीच्या दंडाची चर्चा असतानाच वर्तनुकीवर दिलं स्पष्टीकरण](https://pudhari.news/soneri/ankit-mohan-promotion-controversy-clarifies-behavior-rs-1-crore-fine-rumors-aas86)
+- [Bans, Muse AI keychain debut at Meta Connect](https://www.medianama.com/2026/09/223-meta-connect-vr-glasses-muse-ai-keychain/)
+- ['48 घंटे के अंदर इस्तीफा दें CEC ज्ञानेश कुमार...', CJP ने खोला मोर्चा, बड़े आंदोलन का अल्टीमेटम](https://www.aajtak.in/india/news/story/election-commission-sir-gyanesh-kumar-objections-cjp-allegations-and-demand-resignation-rptc-2652064-2026-09-24)
+- [Veeramani POCSO case: ఈ గ్రానైట్ కింగ్ .. తమిళనాడు ఎప్‌స్టీన్ - బాలికలపై అఘాయిత్యాలు - అరెస్ట్](https://telugu.abplive.com/news/tamil-nadu-granite-baron-veeramani-pocso-case-decades-abuse-259825)
+- [इंट्रा-डे में 32% टूटा पॉलिसीबाजार का शेयर, एक प्रपोजल से बिगड़ा निवेशकों का मूड](https://www.livehindustan.com/business/policybazaar-parent-company-pb-fintech-shares-crash-32-percent-after-irdai-proposals-what-mean-for-company-201790241988655.html)
+- [এশিয়াডে ভারতীয় হকির দাপট অব্যাহত, কোরিয়াকে ৮-২ হারালেন হরমনপ্রীতরা](https://eisamay.com/sports/other-sports/india-storm-past-south-korea-8-2-as-hockey-dominance-continues-at-asian-games-2026/200546735.cms)
+- [student attack kollam school കൊല്ലത്ത് ഒൻപതാം ക്ലാസുകാരനെ സ്കൂൾ ജീവനക്കാരൻ കരണത്തടിച്ചെന്ന് പരാതി](https://www.asianetnews.com/news/complaint-kollam-that-school-staff-member-slapped-ninth-grade-student-articleshow-g464xn5)
+- [அமெரிக்காவில் ஈரான் குழு: அமெரிக்காவிடம் என்னென்ன நிபந்தனைகள் வைத்தோம்? - ஈரான் சொல்லும் பட்டியல்!](https://www.vikatan.com/government-and-politics/iran-conveys-conditions-to-us-through-qatar-mediated-talks)
+- [அமெரிக்காவில் ஈரான் குழு: அமெரிக்காவிடம் என்னென்ன நிபந்தனைகள் வைத்தோம்? - ஈரான் சொல்லும் பட்டியல்!](https://www.vikatan.com/government-and-politics/iran-conveys-conditions-to-us-through-qatar-mediated-talks?pfrom=story-card)
+- [Mars Transit : शनीच्या नक्षत्रात मंगळाचा प्रवेश, या 3 राशींचे वाढणार टेन्शन](https://marathi.asianetnews.com/lifestyle/mars-transit-in-saturn-nakshatra-brings-huge-loss-for-three-zodiac-signs/photoshow-47zehli)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
