@@ -1,21 +1,21 @@
-# India Trending Report — 2026-09-23 23:31:39
+# India Trending Report — 2026-09-24 00:02:12
 
 ## Google Trends (India) — top trending searches
-1. [कुमार कुशाग्र](https://trends.google.com/trending/rss?geo=IN)
-2. [benjamin šeško](https://trends.google.com/trending/rss?geo=IN)
-3. [mirabai chanu](https://trends.google.com/trending/rss?geo=IN)
-4. [fc barcelona femení vs paris fc (women) standings](https://trends.google.com/trending/rss?geo=IN)
-5. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
-6. [portugal national football team](https://trends.google.com/trending/rss?geo=IN)
-7. [dow jones](https://trends.google.com/trending/rss?geo=IN)
-8. [new ott releases](https://trends.google.com/trending/rss?geo=IN)
-9. [saudi arabia vs kuwait](https://trends.google.com/trending/rss?geo=IN)
-10. [अनिल अग्रवाल](https://trends.google.com/trending/rss?geo=IN)
+1. [morgan stanley](https://trends.google.com/trending/rss?geo=IN)
+2. [कुमार कुशाग्र](https://trends.google.com/trending/rss?geo=IN)
+3. [benjamin šeško](https://trends.google.com/trending/rss?geo=IN)
+4. [mirabai chanu](https://trends.google.com/trending/rss?geo=IN)
+5. [fc barcelona femení vs paris fc (women) standings](https://trends.google.com/trending/rss?geo=IN)
+6. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
+7. [portugal national football team](https://trends.google.com/trending/rss?geo=IN)
+8. [dow jones](https://trends.google.com/trending/rss?geo=IN)
+9. [new ott releases](https://trends.google.com/trending/rss?geo=IN)
+10. [barcelona vs paris fc](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Xi Jinping arrives in Washington as Trump gives rare airport welcome to kick off US state visit](https://timesofindia.indiatimes.com/world/us/xi-jinping-arrives-in-washington-as-trump-gives-rare-airport-welcome-to-kick-off-us-state-visit-top-developments/articleshow/134448382.cms)
-- [EC 'dissent' row: Oppn seeks fresh polls, CEC's arrest; BJP lauds 'pure democracy'](https://timesofindia.indiatimes.com/india/ec-dissent-row-opposition-seeks-cecs-arrest-fresh-polls-in-states-bjp-lauds-pure-democracy-top-developments/articleshow/134437472.cms)
+- [Your loan EMI has a US problem: How the Fed quietly influences RBI rate decisions](https://timesofindia.indiatimes.com/business/india-business/your-loan-emi-has-a-washington-problem-how-the-fed-quietly-influences-rbi-rate-decisions/articleshow/134432773.cms)
 - [Putin's party wins again as expected. So why does Russia still hold elections?](https://timesofindia.indiatimes.com/world/europe/putins-party-wins-again-as-expected-so-why-does-russia-still-hold-elections/articleshow/134435340.cms)
 - [After split verdict, SC refers law on EC appointment to larger bench](https://timesofindia.indiatimes.com/india/after-split-verdict-sc-refers-law-on-ec-appointment-to-larger-bench-decision-comes-amid-row-over-ec-functioning/articleshow/134448337.cms)
 - [Cong-led oppn demands Gyanesh ouster, Supreme Court probe](https://timesofindia.indiatimes.com/india/with-vote-chori-bjp-rss-ec-committed-act-of-treason-rahul/articleshow/134445981.cms)
@@ -62,6 +62,7 @@
 - [VK Real Estate Summit: ಬೆಂಗಳೂರಿನಲ್ಲಿ ಕಾಸಾಗ್ರ್ಯಾಂಡ್‌ ಹೆಜ್ಜೆಗುರುತು: ದಕ್ಷಿಣ ಭಾರತದ ರಿಯಲ್ ಎಸ್ಟೇಟ್ ಬದಲಾವಣೆಯ ಪ್ರತಿಬಿಂಬ](https://vijaykarnataka.com/business/news/vk-real-estate-summit-casagrand-bengaluru-growth-story-reflects-the-changing-face-of-south-india-real-estate-market/articleshow/134440682.cms)
 
 **The Hindu**
+- [Sagar hooch tragedy: Two more key accused held after encounter; 39 arrested so far](https://www.thehindu.com/news/national/madhya-pradesh/sagar-hooch-tragedy-two-more-key-accused-held-after-encounter-39-arrested-so-far/article71500299.ece)
 - [Arunachal Pradesh State Cabinet approves panel for survey of Siang mega dam](https://www.thehindu.com/news/national/arunachal-pradesh/arunachal-pradesh-state-cabinet-approves-panel-for-survey-of-siang-mega-dam/article71499793.ece)
 - [J&K observes holiday on Dogra king Hari Singh’s birthday; BJP holds special functions](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-observes-holiday-on-dogra-king-hari-singhs-birthday-bjp-holds-special-functions/article71499861.ece)
 - [Bihar BJP MLA criticises own government for distributing ₹10,000 crore to JEEVIKA didis](https://www.thehindu.com/news/national/bihar/bihar-bjp-mla-criticises-own-government-for-distributing10000-crore-to-jeevika-didis/article71500064.ece)
@@ -71,9 +72,9 @@
 - [Red warning alert issued for 4 Odisha districs as disaster response forces in place for deep depression](https://www.thehindu.com/news/national/odisha/red-warning-alert-issued-for-4-odisha-districs-as-disaster-response-forces-in-place-for-deep-depression/article71500624.ece)
 - [High Court bans firecrackers, laser lights and music in festival processions in Maharashtra](https://www.thehindu.com/news/national/maharashtra/high-court-bans-firecrackers-laser-lights-and-music-in-festival-processions-in-maharashtra/article71500685.ece)
 - [Madhya Pradesh traders, retailers observe ‘No UPI Day’, seek rollback of MDR charges](https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-traders-retailers-observe-no-upi-day-seek-rollback-of-mdr-charges/article71500720.ece)
-- [West Bengal CM asks Ministers to concentrate on work rather than being hyperactive on the street](https://www.thehindu.com/news/national/west-bengal/west-bengal-cm-asks-ministers-to-concentrate-on-work-rather-than-being-hyperactive-on-the-street/article71501025.ece)
 
 **Livemint**
+- [Oil Holds Advance on Renewed Tensions Between the US and Iran](https://www.livemint.com/news/us-news/oil-holds-advance-on-renewed-tensions-between-the-us-and-iran-11790206897559.html)
 - [Hurricane Watch Posted on Hawaii’s Big Island as Nolo Approaches](https://www.livemint.com/news/hurricane-watch-posted-on-hawaii-s-big-island-as-nolo-approaches-11790203525312.html)
 - [Zelensky at UNGA: ‘Limit Putin's money. Limit his war’ — key takeaways from Ukraine president’s address](https://www.livemint.com/news/world/zelensky-at-unga-limit-putins-money-limit-his-war-key-takeaways-from-ukraine-president-s-address-11790193820244.html)
 - [White House denies report of 90-day US diesel export ban](https://www.livemint.com/news/us-news/white-house-denies-report-of-90-day-us-diesel-export-ban-11790191870550.html)
@@ -83,7 +84,6 @@
 - [Trump-Xi summit itinerary: Full schedule of Chinese president’s 3-day US state visit from Sept 23-25](https://www.livemint.com/news/us-news/trumpxi-summit-itinerary-full-schedule-of-chinese-president-s-3-day-us-state-visit-from-sept-2325-11790186865493.html)
 - [₹1.5 lakh ‘donation’ for 2-year-old’s preschool admission? Ahmedabad entrepreneur’s post sparks debate](https://www.livemint.com/news/trends/15-lakh-donation-for-2-year-old-s-preschool-admission-ahmedabad-entrepreneur-s-post-sparks-debate-11790184997383.html)
 - [Jaishankar raises India’s concerns over US Russia sanctions law with Rubio at UNGA](https://www.livemint.com/news/world/jaishankar-raises-india-s-concerns-over-us-russia-sanctions-law-with-rubio-at-unga-11790183917138.html)
-- [Who will be next UN chief? Meet 7 candidates in race to replace Guterres; how secretary-general is chosen | Explained](https://www.livemint.com/news/world/who-will-be-next-un-chief-meet-7-candidates-in-race-to-replace-guterres-how-secretary-general-is-chosen-explained-11790183110083.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -126,7 +126,16 @@
 - [ರಾಷ್ಟ್ರ ಪ್ರಶಸ್ತಿ ತಂದು ಗಣಪತಿ ಪಾದಕ್ಕೆ ಅರ್ಪಿಸಿದ ನಟ ಕಾರ್ತಿಕ್ ಆರ್ಯನ್](https://tv9kannada.com/entertainment/bollywood/kartik-aaryan-places-his-first-national-award-at-lalbaugcha-raja-feet-1241848.html)
 
 **Prajavani**
-- [ಸಾಂಸ್ಕೃತಿಕ ಮುನ್ನೋಟ](https://www.prajavani.net/district/bengaluru-city/bengaluru-cultural-events-weekend-guide-plays-dance-music-4283194)
+- [ಆಳ–ಅಗಲ| ಒಡೆದ ಮನೆಯಾಯಿತೇ ಚುನಾವಣಾ ಆಯೋಗ? ಸಂಚಲನ ಸೃಷ್ಟಿಸಿದ ವರದಿ](https://www.prajavani.net/explainer/detail/election-commission-internal-rift-commissioners-objections-report-4283125)
+- [ಎಲ್‌ಎಲ್‌.ಬಿ: ಲಿಂಗತ್ವ ಅಲ್ಪಸಂಖ್ಯಾತರಿಗೆ ಮೀಸಲು](https://www.prajavani.net/news/karnataka-news/kslu-llb-transgender-reservation-karnataka-high-court-4282980)
+- [ಇ.ಸಿ ಆಯುಕ್ತರ ಮಧ್ಯೆ ಬಿಕ್ಕಟ್ಟು?](https://www.prajavani.net/news/india-news/internal-rift-among-election-commissioners-over-decision-making-4283049)
+- [ದಿನ ಭವಿಷ್ಯ: ಈ ರಾಶಿಯವರ ವೃತ್ತಿಯಲ್ಲಿ ಜವಾಬ್ದಾರಿ ಹೆಚ್ಚಳವಾಗಲಿದೆ](https://www.prajavani.net/astro-vastu/horoscope/daily-horoscope-september-twenty-four-astrology-updates-4282862)
+- [ಕೆ.ಆರ್.ಮಾರುಕಟ್ಟೆ: ಕಾಣದ ಸುಧಾರಣೆ](https://www.prajavani.net/district/bengaluru-city/kr-market-bengaluru-infrastructure-issues-heritage-building-neglect-4283185)
+- [ನುಡಿ ಬೆಳಗು: ಡುನಾಂಟ್ ಎಂಬ ಸೇವಾಜೀವಿ](https://www.prajavani.net/op-ed/articles/henry-dunant-red-cross-founder-humanitarian-journey-4282276)
+- [ದಿನದ ಪಂಚಾಂಗ: 24 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/astro-vastu/panchanga/daily-kannada-panchangam-september%E0%B2%B0-4282863)
+- [ನಗರದಲ್ಲಿ ಇಂದು: ಬೆಂಗಳೂರು ನಗರದ ಕಾರ್ಯಕ್ರಮಗಳು 24 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/district/bengaluru-city/bengaluru-city-events-september-twenty-four-two-thousand-twenty-six-4283127)
+- [ಗುಂಡಣ್ಣ ಕಾರ್ಟೂನು: 24 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/news/cartoons/gundanna-cartoon-september-twenty-four-4282679)
+- [ಸುದ್ದಿ ಗುದ್ದು | ತಿಂಗಳೇಶ: ಸೆಪ್ಟೆಂಬರ್ 24, 2026](https://www.prajavani.net/news/cartoons/suddi-guddu-tingalesha-september-kannada-column-4282664)
 
 **eedina**
 - [ಯಾದಗಿರಿ | ಎಸ್‌ಐಆರ್ ವಿರುದ್ಧ ‘ಪರಿಶೋಧನೆ, ಪ್ರತಿರೋಧ’ ಪ್ರವಾಸ: ‘ಅರ್ಹ ಮತದಾರನೊಬ್ಬನೂ ಹೊರಗುಳಿಯಬಾರದು’: ಬಹುಭಾಷ ನಟ ಪ್ರಕಾಶ್ ರೈ](https://eedina.com/?p=765581)
@@ -153,23 +162,23 @@
 - Trump (1.9)
 - Putin's (1.9)
 - Delhi (1.6)
-- Meet (1.6)
 - CRPF (1.6)
 - Limit (1.6)
+- Indian (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [West Bengal Fire Department Recruitment: দমকলে এবার স্থায়ী চাকরির ঘোষণা শুভেন্দুর, কত লোকের নিয়োগ?](https://bangla.aajtak.in/education/story/west-bengal-fire-department-1400-recruitment-2500-more-jobs-within-one-year-cm-suvendu-adhikari-sus-1454364-2026-09-23)
-- [Honda QC3: একবার চার্জ দিলে ১৪৫ কিমি, সঙ্গে ৩২ লিটার স্টোরেজ! হন্ডার নতুন ই-স্কুটারের দাম কত?](https://bangla.asianetnews.com/automobile/honda-qc3-electric-scooter-launched-with-145km-range-and-32l-storage-check-price-ev-scooter-india-anbsd/photoshow-8h1ka95)
-- [FIR फेम एक्टर की हालत गंभीर, आईसीयू में भर्ती, बहन बोलीं- अब पैसे खत्म हो गए हैं](https://www.abplive.com/entertainment/television/fir-actor-ishwar-thakur-in-icu-condition-critical-financial-issue-3192797)
-- [క్యాన్సర్‌ను జయించి.. హీరోయిన్‌గా ఎంట్రీ: కుమార్తె ప్రయాణంపై నటుడి భావోద్వేగం](https://www.eenadu.net/telugu-news/movies/vivek-oberoi-got-emotional-as-adopted-daughter-signs-first-nepali-film/0201/126172187)
-- [കെഎസ്ആർടിസിക്ക് ഒരു ബസ് 'ജോസേട്ടന്റെ വക', ചരിത്രത്തിലാദ്യം; 40 ലക്ഷം രൂപ മുഖ്യമന്ത്രി ഏറ്റുവാങ്ങി](https://www.manoramaonline.com/news/latest-news/2026/09/23/ksrtc-receives-historic-sponsorship-for-ksrtc-bus-from-private-person.html)
-- [டெங்கு காய்ச்சல் பாதிப்புக்கு உள்ளானவர்களா நீங்கள்? பொது சுகாதாரத்துறை முக்கிய அறிவுறுத்தல்](https://www.etvbharat.com/ta/state/public-health-department-advised-those-affected-by-dengue-fever-to-wear-face-masks-tns26092302915)
-- [AI leaders to brief UN amid warnings the technology could slip beyond human control](https://www.reuters.com/business/ai-leaders-brief-un-amid-warnings-technology-could-slip-beyond-human-control-2026-09-23/)
-- [കെഎസ്ആര്‍ടിസിക്ക് ബസ് വാങ്ങി നല്‍കി അങ്കമാലി സ്വദേശി; 40 ലക്ഷം രൂപയുടെ ചെക്ക് മുഖ്യമന്ത്രിക്ക് കൈമാറി](https://www.reporterlive.com/topnews/kerala/2026/09/23/ksrtc-bus-donation-angamaly-jose-40-lakh)
-- ['জ্ঞানেশ কুমারের গ্রেফতার হওয়া উচিত', সরব অভিষেক, 'মিথ্যা তথ্য, বিভ্রান্ত করছে', পাল্টা বিজেপি](https://bengali.abplive.com/district/eci-gyanesh-kumar-allegation-abhishek-banerjee-x-post-bjp-reacts-1193915)
-- [સુચિકા હુડ્ડા: 12 વર્ષની ઉંમરે છેડતી થઈ, ચાર રમતો શીખી, છેક 24 વર્ષે ભારત માટે મેડલ જીત્યો](https://www.bbc.com/gujarati/articles/cmzxzq7n6w07o)
+- [சிரியாவில் 60 ஆண்டுகளுக்குப் பிறகு மீண்டும் திறக்கப்பட்ட கிறிஸ்தவ பள்ளிகள்](https://www.vaticannews.va/ta/church/news/2026-09/two-christian-schools-reopen-in-syria-after-decades-of-closure.html)
+- [SIM कार्ड से जुड़ी एक गलती आपको पहुंचा सकती है जेल, 1 मिनट में ऐसे करें चेक](https://www.jagran.com/news/national-sim-card-new-rule-face-up-to-50-lakh-fine-and-3-years-in-jail-for-misuse-under-new-dot-rules-40382664.html)
+- [Benefits of HPV immunisation for adolescent health](https://timesofindia.indiatimes.com/health/benefits-of-hpv-immunisation-for-adolescent-health/articleshow/134435832.cms)
+- [Microsoft cuts 268 Xbox jobs as gaming restructuring deepens](https://www.hrkatha.com/news/microsoft-cuts-268-xbox-jobs-as-gaming-restructuring-deepens/)
+- [പിണറായി വിജയനും മുഹമ്മദ് റിയാസിനുമെതിരായ അന്വേഷണം; എസ്ഐടി രൂപീകരിച്ചു: എച്ച്.വെങ്കിടേഷ് നേതൃത്വം നൽകും](https://www.manoramaonline.com/news/latest-news/2026/09/23/sit-formed-in-cmrl-case-against-pinarayi-vijayan-and-pa-mohammed-riyas.html)
+- [Kavitha: రేవంత్ రెడ్డికి కవిత నెల రోజుల డెడ్‌లైన్](https://vaartha.com/telangana/adilabad-rims-ac-blast-kavitha-reacts/781002/)
+- [IPL ऑक्शन को लेकर बड़ा ऐलान, दिसंबर में होगा आयोजन, वेन्यू का भी हुआ खुलासा](https://www.indiatv.in/sports/cricket/bcci-secretary-devajit-saikia-said-ipl-auction-will-be-in-goa-in-the-month-of-december-2026-09-23-1244938)
+- [Easter Sunday blasts case: Sri Lankan court sentences each convict to 220 years in prison; all 15 to appeal against verdict](https://www.thehindu.com/news/international/easter-sunday-blasts-case-sri-lanka-court-sentencing-jail-term-15-men-appeal-verdict/article71499681.ece)
+- [Astha Kunj rape horror: LSR students take out protest march; offline classes to resume from tomorrow](https://timesofindia.indiatimes.com/city/delhi/astha-kunj-rape-horror-lsr-students-take-out-protest-march-offline-classes-to-resume-from-tomorrow/articleshow/134435566.cms)
+- [Priyanka Gandhi | ఎన్నిక‌ల సంఘం రిగ్గింగ్‌ను అనుమ‌తిస్తే అది దేశ ద్రోహం, రాజ ద్రోహ‌మే : ప్రియాంకాగాంధీ](https://www.ntnews.com/national/if-cec-allowed-election-rigging-its-treason-priyanka-gandhi-2518077)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
