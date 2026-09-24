@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-24 01:34:31
+# India Trending Report — 2026-09-24 02:01:58
 
 ## Google Trends (India) — top trending searches
-1. [benjamin ito-davis](https://trends.google.com/trending/rss?geo=IN)
-2. [asian games kabaddi](https://trends.google.com/trending/rss?geo=IN)
-3. [फास्टैग](https://trends.google.com/trending/rss?geo=IN)
-4. [తెలంగాణ](https://trends.google.com/trending/rss?geo=IN)
-5. [aaj ka mausam](https://trends.google.com/trending/rss?geo=IN)
-6. [weather patna](https://trends.google.com/trending/rss?geo=IN)
-7. [weather today](https://trends.google.com/trending/rss?geo=IN)
-8. [today weather](https://trends.google.com/trending/rss?geo=IN)
-9. [ভারী বৃষ্টি](https://trends.google.com/trending/rss?geo=IN)
-10. [सोने](https://trends.google.com/trending/rss?geo=IN)
+1. [వాతావరణం](https://trends.google.com/trending/rss?geo=IN)
+2. [benjamin ito-davis](https://trends.google.com/trending/rss?geo=IN)
+3. [asian games kabaddi](https://trends.google.com/trending/rss?geo=IN)
+4. [फास्टैग](https://trends.google.com/trending/rss?geo=IN)
+5. [తెలంగాణ](https://trends.google.com/trending/rss?geo=IN)
+6. [aaj ka mausam](https://trends.google.com/trending/rss?geo=IN)
+7. [weather patna](https://trends.google.com/trending/rss?geo=IN)
+8. [weather today](https://trends.google.com/trending/rss?geo=IN)
+9. [today weather](https://trends.google.com/trending/rss?geo=IN)
+10. [ভারী বৃষ্টি](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Trump receives Xi Jinping at airport as Chinese prez begins 3-day US visit: What's on agenda](https://timesofindia.indiatimes.com/world/us/trump-xi-meeting-whats-on-agenda-as-chinese-president-begins-3-day-us-visit/articleshow/134448554.cms)
+- [100-foot-long red carpet and B-1 bombers: How Trump welcomed Xi to US; video](https://timesofindia.indiatimes.com/world/us/100-foot-long-red-carpet-and-b-1-bombers-how-trump-welcomed-xi-to-us-video/articleshow/134449138.cms)
+- [Several feared dead after moving bus catches fire on Yamuna Expressway](https://timesofindia.indiatimes.com/city/noida/noida-moving-bus-catches-fire-on-yamuna-expressway-several-injured/articleshow/134449164.cms)
+- [Kalkaji gang-rape: Police probe if Aastha Kunj park was hunting ground of accused](https://timesofindia.indiatimes.com/city/delhi/police-probe-if-aastha-kunj-park-was-hunting-ground-of-rape-accused/articleshow/134449043.cms)
 - [8 US Navy sailors attempted suicide during USS Lincoln's Iran deployment](https://timesofindia.indiatimes.com/world/us/eight-us-navy-sailors-in-uss-abraham-lincoln-strike-group-attempted-suicide-during-iran-war-deployment/articleshow/134448759.cms)
-- [After split verdict, SC refers law on EC appointment to larger bench](https://timesofindia.indiatimes.com/india/after-split-verdict-sc-refers-law-on-ec-appointment-to-larger-bench-decision-comes-amid-row-over-ec-functioning/articleshow/134448337.cms)
-- [LoP's presence in panel to pick CEC, ECs 'ornamental': SC judge](https://timesofindia.indiatimes.com/india/lops-presence-in-panel-to-pick-cec-ecs-ornamental-sc-judge/articleshow/134445716.cms)
 - [DoorDash agrees to $131.5m after payment errors affected 200,000-plus NYC workers](https://timesofindia.indiatimes.com/technology/tech-news/americas-largest-food-delivery-company-doordash-admits-it-underpaid-or-paid-late-to-200000-plus-workers-in-new-york-city-for-over-three-years-will-pay-131-5-million-in-settlement-and-apologises/articleshow/134439134.cms)
-- [Roshibina Devi wins silver, falls short against China's Xiaoyu in final](https://timesofindia.indiatimes.com/sports/asian-games-2026/roshibina-devi-settles-for-silver-after-losing-womens-sanda-60kg-final/articleshow/134448936.cms)
+- [After split verdict, SC refers law on EC appointment to larger bench](https://timesofindia.indiatimes.com/india/after-split-verdict-sc-refers-law-on-ec-appointment-to-larger-bench-decision-comes-amid-row-over-ec-functioning/articleshow/134448337.cms)
 - [George Floyd’s siblings seek accounting of $14.7m memorial GoFundMe](https://timesofindia.indiatimes.com/world/us/in-2020-george-floyds-memorial-gofundme-raised-14-7-million-six-years-later-three-of-his-siblings-are-asking-brother-philonise-for-a-full-accounting-of-the-fundraiser-and-its-distributions/articleshow/134433362.cms)
+- [LoP's presence in panel to pick CEC, ECs 'ornamental': SC judge](https://timesofindia.indiatimes.com/india/lops-presence-in-panel-to-pick-cec-ecs-ornamental-sc-judge/articleshow/134445716.cms)
+- [Roshibina Devi wins silver, falls short against China's Xiaoyu in final](https://timesofindia.indiatimes.com/sports/asian-games-2026/roshibina-devi-settles-for-silver-after-losing-womens-sanda-60kg-final/articleshow/134448936.cms)
 - [Putin's party wins again as expected. So why does Russia still hold elections?](https://timesofindia.indiatimes.com/world/europe/putins-party-wins-again-as-expected-so-why-does-russia-still-hold-elections/articleshow/134435340.cms)
-- [Cong-led oppn demands Gyanesh ouster, Supreme Court probe](https://timesofindia.indiatimes.com/india/with-vote-chori-bjp-rss-ec-committed-act-of-treason-rahul/articleshow/134445981.cms)
-- [N Chandrasekaran's real vote test: Tata Sons AGM, not boardroom](https://timesofindia.indiatimes.com/business/india-business/n-chandrasekarans-real-vote-test-tata-sons-agm-not-boardroom/articleshow/134448457.cms)
 
 **NDTV**
 - [41-Year-Old Woman Drugged, Raped On Pretext Of Job In Delhi: Cops](https://www.ndtv.com/delhi-news/41-year-old-woman-drugged-raped-on-pretext-of-job-in-delhi-cops-12089559#publisher=newsstand)
@@ -38,6 +38,8 @@
 - [Putin's Envoy To Meet Team Trump In New York Over Ukraine War](https://www.ndtv.com/world-news/putins-envoy-kirill-dmitriev-to-meet-team-trump-in-new-york-over-ukraine-war-12089204#publisher=newsstand)
 
 **Hindustan Times**
+- [Zelensky says Russia tricking Indians into joining war: ‘Don’t let Putin drag you in'](https://www.hindustantimes.com/india-news/zelensky-says-russia-tricking-indians-into-joining-ukraine-war-don-t-let-putin-drag-you-in-at-unga-101790211686923.html)
+- [TRAI orders telecom companies to offer voice and SMS-only plans](https://www.hindustantimes.com/india-news/trai-orders-telecom-companies-to-offer-voice-and-sms-only-plans-101790214146664.html)
 - [Indian seaman killed off Oman coast, 11th such incident amid West Asia crisis](https://www.hindustantimes.com/india-news/indian-seaman-killed-off-oman-coast-mv-cape-dao-11th-such-incident-amid-west-asia-crisis-us-iran-war-strait-of-hormuz-101790207895738.html)
 - [2 UP cops, 2 CRPF personnel held for 'gangrape' of woman in Amroha](https://www.hindustantimes.com/india-news/2-up-cops-2-crpf-personnel-held-for-gangrape-of-woman-in-amroha-101790188497140.html)
 - [UNSC's inability to address ongoing conflicts highlights urgency of reform: India](https://www.hindustantimes.com/india-news/unsc-inability-to-address-ongoing-conflicts-highlights-urgency-of-reform-india-101790184169345.html)
@@ -46,8 +48,6 @@
 - [Ayushman Bharat turns eight: 600 million people covered under PM-JAY](https://www.hindustantimes.com/india-news/ayushman-bharat-turns-eight-600-million-people-covered-under-pmjay-101790182940540.html)
 - [Germany says India can leverage Russia ties to help end Ukraine war](https://www.hindustantimes.com/india-news/germany-says-india-can-leverage-russia-ties-to-help-end-ukraine-war-101790182639669.html)
 - [US State Secretary Marco Rubio says global system ‘broken’: ‘Can’t address potential conflicts like India-Pakistan’](https://www.hindustantimes.com/india-news/us-state-secretary-marco-rubio-says-global-system-broken-cant-address-potential-conflicts-like-india-pakistan-trump-101790179537566.html)
-- [Sanjana Sanghi at UNGA: Actor calls for investment in education, healthcare and greater role for youth](https://www.hindustantimes.com/india-news/sanjana-sanghi-unga-actor-calls-for-investment-in-education-healthcare-and-youth-101790170621892.html)
-- [Three Maoists surrender in Bankura with AK-47, INSAS rifles: West Bengal Police](https://www.hindustantimes.com/india-news/three-maoists-surrender-in-bankura-with-ak-47-insas-rifles-west-bengal-police-101790180361351.html)
 
 **Vijay Karnataka**
 - [ಬೆಂಗಳೂರಲ್ಲಿ ಅಡಮಾನ ನೆಪದಲ್ಲಿ ಅಕ್ರಮವಾಗಿ ಅಧಿಕ ಬೆಲೆಗೆ ವಾಹನ ಮಾರ‍್ತಿದ್ದ ವಂಚಕರ ಜಾಲ ಪತ್ತೆ: ಕಾರು ಡೀಲರ್‌ ಬಂಧನ, 14 ಕಾರು ಜಪ್ತಿ!](https://vijaykarnataka.com/news/bengaluru-city/fraudulent-network-selling-mortgaged-vehicles-illegally-at-high-price-busted-in-bengaluru-car-dealer-arrested/articleshow/134448978.cms)
@@ -57,7 +57,7 @@
 - [ಸೌದೆ ಕಡಿಯಲು ಅಮ್ಮನ ಕಷ್ಟ ನೋಡಿ 'ಕಟ್ ಇಟ್ ಈಸಿ'ಯಂತ್ರ ರೂಪಿಸಿದ ಮಗ: Inspire Manak ರಾಷ್ಟ್ರಮಟ್ಟದ ಸ್ಪರ್ಧೆಗೆ ಉಡುಪಿಯ ಬಾಲವಿಜ್ಞಾನಿ ಆದಿತ್ಯ ಆಯ್ಕೆ!](https://vijaykarnataka.com/news/udupi/young-scientist-aditya-from-udupi-innovatives-cut-it-easy-machine-for-log-cutting-selected-for-inspire-manak-competition/articleshow/134448602.cms)
 - [ಪ್ರೇಯಸಿ ಜೊತೆ ನಟ ಗೋವಿಂದ ಪ್ರತ್ಯಕ್ಷ: ʻಪ್ರಾಣಿಗಳೇ ಮೇಲುʼ ಎಂದು ಆಕ್ರೋಶ ಹೊರಹಾಕಿದ ಪತ್ನಿ](https://vijaykarnataka.com/entertainment/bollywood/sunita-ahuja-calls-humans-cheaters-after-govinda-lalbaug-visit-with-komal-rani/articleshow/134449076.cms)
 - [ಪಾರ್ಕ್ ಮಾಡಿದ ಕಾರಿಗೆ ಇಲಿಗಳು ಏಕೆ ಬರುತ್ತವೆ? ತಡೆಯಲು ಈ ನೈಸರ್ಗಿಕ ವಿಧಾನಗಳು ಸಹಕಾರಿ](https://vijaykarnataka.com/lifestyle/home-decor/why-rats-enter-parked-cars-natural-ways-to-keep-rats-away/articleshow/134408701.cms)
-- [ದೇವರ ಕೋಣೆಯ ಮೇಲೆ ಮತ್ತು ಕೆಳಗೆ ಇಡಬಾರದ ವಸ್ತುಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/its-better-to-avoid-to-keep-these-things-on-puja-room/articleshow/134439128.cms)
+- [ಸೋಮವಾರದಿಂದ ಭಾನುವಾರದವರೆಗೆ ಮಂತ್ರಗಳು ಮತ್ತದರ ಪ್ರಯೋಜನಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/weekly-mantras-monday-to-sunday-daily-mantras-and-its-benefits/articleshow/134449201.cms)
 - [CDSCO ಎಚ್ಚರಿಕೆ: ಪೇನ್‌ಕಿಲ್ಲರ್, ಆ್ಯಂಟಿಬಯೋಟಿಕ್‌ಗಳ ಅನಗತ್ಯ ಬಳಕೆ; ಕಿಡ್ನಿ ಸಮಸ್ಯೆ ಬಗ್ಗೆ ಎಚ್ಚರ!](https://vijaykarnataka.com/lifestyle/health/cdsco-warning-unnecessary-painkiller-antibiotic-use-side-effects/articleshow/134431451.cms)
 - [KMF ನಂದಿನಿ ಹಾಲು ದರ ಹೆಚ್ಚಳಕ್ಕೆ ಸಮ್ಮತಿ; ರೈತರ ಬೇಡಿಕೆಗೆ ಮಣಿದ ಸರ್ಕಾರ! ಗ್ರಾಹಕರಿಗೆ ಪ್ರತಿ ಲೀಟರ್‌ಗೆ 5 ರೂ. ಏರಿಕೆ?](https://vijaykarnataka.com/news/karnataka/approval-granted-for-kmf-nandini-milk-price-hike-government-will-consumers-face-a-hike-of-4-to-5-rs-per-litre/articleshow/134441549.cms)
 
@@ -74,6 +74,7 @@
 - [Arunachal Pradesh State Cabinet approves panel for survey of Siang mega dam](https://www.thehindu.com/news/national/arunachal-pradesh/arunachal-pradesh-state-cabinet-approves-panel-for-survey-of-siang-mega-dam/article71499793.ece)
 
 **Livemint**
+- [Petrol, diesel prices today, September 24: Check rates in Delhi, Mumbai, Bengaluru, Chennai](https://www.livemint.com/news/india/petrol-diesel-prices-today-september-24-check-rates-in-delhi-mumbai-bengaluru-chennai-11790213041119.html)
 - [US-Iran War News Live: Iran cancels flights as sanctions hit, Indian seafarer killed in strike off Oman coast](https://www.livemint.com/news/us-news/usiran-war-news-live-iran-flights-us-sanctions-donald-trump-unga-masoud-pezeshkian-strait-of-hormuz-11790211488453.html)
 - [India mulls a wholesale-retail pharmacy ratio to curb misuse](https://www.livemint.com/news/india/pharmacy-ratio-wholesale-retail-drugs-retail-healthcare-11790160219810.html)
 - [Russia sanctions, Iran War, energy and Ukraine: What Jaishankar and Rubio discussed on UNGA sidelines](https://www.livemint.com/news/us-news/russia-sanctions-iran-war-energy-and-ukraine-what-jaishankar-and-rubio-discussed-on-unga-sidelines-trump-11790207428522.html)
@@ -83,7 +84,6 @@
 - [White House denies report of 90-day US diesel export ban](https://www.livemint.com/news/us-news/white-house-denies-report-of-90-day-us-diesel-export-ban-11790191870550.html)
 - [CDC Recognizes Measles Death After Pennsylvania Conflict](https://www.livemint.com/news/us-news/cdc-recognizes-measles-death-after-pennsylvania-conflict-11790192578526.html)
 - [Indian woman spends over  ₹1 cr living in Manhattan, pays  ₹10 lakh monthly rent; internet calls NYC life ‘overhyped’](https://www.livemint.com/news/trends/indian-woman-spends-over-1-cr-living-in-manhattan-pays-10-lakh-monthly-rent-internet-calls-nyc-life-overhyped-11790186820651.html)
-- [FIFA fans in Delhi, Gurugram can revisit Spain’s World Cup win on Coca-Cola’s Golden Can: Where to buy, price and more](https://www.livemint.com/news/trends/fifa-fans-in-delhi-gurugram-can-revisit-spain-s-world-cup-win-on-coca-cola-s-golden-can-where-to-buy-price-and-more-11790185124368.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [Asian Games 2026 | ಸಾಂಡಾ ವಿಭಾಗದಲ್ಲಿ ಭಾರತದ ವುಶು ಪಟು; ರೋಷಿಬಿನಾ ದೇವಿಗೆ ಬೆಳ್ಳಿ ಪದಕ](https://www.varthabharati.in/sports/asian-games-2026-indian-wushu-athlete-in-sanda-category-silver-medal-for-roshibina-devi-2277511)
 - [ರಾಷ್ಟ್ರೀಯ ಲೋಕ್ ಅದಾಲತ್‍ನಲ್ಲಿ 44,28,455 ಪ್ರಕರಣ ಇತ್ಯರ್ಥ : ನ್ಯಾ.ಅನು ಸಿವರಾಮನ್](https://www.varthabharati.in/bangalore-city/lok-adalat-2277510)
 - [ತೃತೀಯ ಲಿಂಗಿಗಳಿಗೆ 3 ವರ್ಷದ ಎಲ್‌ಎಲ್‌ಬಿ ಕೋರ್ಸ್‌ನಲ್ಲಿ ಶೇ.1 ಮೀಸಲಾತಿ; ಕೆಎಸ್‌ಎಲ್‌ಯು ಅಧಿಸೂಚನೆ](https://www.varthabharati.in/bangalore-city/-3-1--2277509)
 - [ರಾಜ್ಯಕ್ಕೆ ಬರ ಪರಿಹಾರ ಕೋರಿ ಕೇಂದ್ರಕ್ಕೆ ಸಿಎಂ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್ ಪತ್ರ](https://www.varthabharati.in/bangalore-city/cm-dk-shivakumar-2277508)
@@ -107,9 +108,10 @@
 - [2019ರಲ್ಲಿ ಶ್ರೀಲಂಕಾದಲ್ಲಿ ಈಸ್ಟರ್ ರವಿವಾರದಂದು ನಡೆದ ಸರಣಿ ಸ್ಫೋಟ: ಭೀಕರ ಉಗ್ರ ದಾಳಿ ಪ್ರಕರಣದಲ್ಲಿ 15 ಮಂದಿಗೆ 220 ವರ್ಷಗಳ ಜೈಲು ಶಿಕ್ಷೆ](https://www.varthabharati.in/vishesha-varadigalu/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says-2277503)
 - [ಕಲಾವಿದರು ಪ್ರಶಸ್ತಿ ಪಡೆಯುವುದು ಸುಲಭವಲ್ಲ: ಉಮಾಶ್ರೀ](https://www.varthabharati.in/bangalore-city/umashree-2277502)
 - [ಅಟ್ಟಿಕಾ ಗೋಲ್ಡ್ ಕಂಪೆನಿಯ 19 ಸ್ಥಳಗಳ ಮೇಲೆ ಈ.ಡಿ. ದಾಳಿ](https://www.varthabharati.in/bangalore-city/ed-raids-2277501)
-- [IIT-ಬಾಂಬೆ ವಿದ್ಯಾರ್ಥಿ ಆತ್ಮಹತ್ಯೆ ಪ್ರಕರಣ: ಇಲ್ಲಿವರೆಗಿನ ತನಿಖೆಯಲ್ಲಿ ಏನೇನು ತಿಳಿದುಬಂದಿದೆ?](https://www.varthabharati.in/vishesha-varadigalu/inside-iit-bombay-student-suicide-probe-questioning-professor-unlocking-phone-and-more-2277500)
 
 **Asianet Kannada**
+- [ರಾಜ್ಯ ಸರ್ಕಾರದ ಆರ್ಥಿಕ ದಿವಾಳಿಗೆ ಬಿಜೆಪಿ ಖಂಡನೆ; ನಿನ್ನೆ ಚೊಂಬು ಚಳುವಳಿ, ಇಂದು ಶವಯಾತ್ರೆ ಪ್ರತಿಭಟನೆ](https://kannada.asianetnews.com/politics/karnataka-bjp-to-protest-against-congress-state-govt-s-financial-crisis-at-vidhana-soudha-sat/articleshow-39eht85)
+- [ಅರಸೀಕೆರೆಗೆ ವಂದೇ ಭಾರತ್ ರೈಲು? ಪ್ರಯಾಣಿಕರ ಬೇಡಿಕೆ ಈಡೇರುತ್ತಾ? ರೈಲ್ವೆ ವ್ಯವಸ್ಥಾಪಕರಿಗೆ ಸಲ್ಲಿಸಿದ ಮನವಿಯಲ್ಲೇನಿದೆ?](https://kannada.asianetnews.com/karnataka-districts/hassan-passengers-request-a-stop-for-the-vande-bharat-train-at-arasikere-swr-rav/articleshow-0xpuxgx)
 - [ಜಾತಕ ಸೆಪ್ಟೆಂಬರ್ 24: ಮೇಷ, ಮಿಥುನ ರಾಶಿಯವರಿಗೆ ಯಶಸ್ಸು + ಬಡ್ತಿಯ ಶುಭ ಸುದ್ದಿ, ಆರ್ಥಿಕ ಲಾಭದ ಯೋಗವಿರುತ್ತದೆ](https://kannada.asianetnews.com/daily-horoscope/today-prediction-horoscope-of-24-september-2026-suh/articleshow-pqg959l)
 - [ಪರೀಕ್ಷೆಯಲ್ಲಿ ಚೀಟಿಂಗ್ ಆರೋಪ, ಪ್ರೊಫೆಸರ್ ಜತೆ ಚರ್ಚೆ, ಬಳಿಕ ದುರಂತ! ಐಐಟಿ ಸ್ಟೂಡೆಂಟ್‌ ಕೊನೇ ದೃಶ್ಯ ಸಿಸಿಟಿವಿಯಲ್ಲಿ ವೈರಲ್!](https://kannada.asianetnews.com/viral/iit-bombay-sahil-wakode-case-cctv-footage-exam-hall-mobile-phone-professor-suryanarayana-doolla-mumbai-investigation-bmk/articleshow-iiwt5up)
 - [Bigg Boss ಕಾವ್ಯಾ ಶೈವ ಕ್ಯೂಟ್​ ಫೋಟೋಶೂಟ್​: ಏನಾದ್ರೂ ಗುಡ್​ ನ್ಯೂಸಾ? ನಟಿ ಸೈಲೆಂಟ್​](https://kannada.asianetnews.com/gallery/relationship/bigg-boss-kavya-shaivas-cute-photoshoot-is-it-any-good-news-actress-is-silent-suc-h79f3mx)
@@ -118,36 +120,35 @@
 - [Indian Railways: ಕಡಿಮೆ ದರದಲ್ಲಿ ಎಸಿ ಕೋಚ್‌ಗಳು! ಗರೀಬ್ ರಥ್ ಇಷ್ಟೊಂದು ಜನಪ್ರಿಯವಾಗಲು ಕಾರಣವೇನು? ರೈಲ್ವೆಯ ಮಾಸ್ಟರ್ ಪ್ಲಾನ್ ಇಲ್ಲಿದೆ!](https://kannada.asianetnews.com/karnataka-districts/garib-rath-express-indian-railways-low-cost-ac-train-2006-lalu-prasad-yadav-history-ticket-price-features-routes-bmk/articleshow-vl5i6ig)
 - [ಸರ್ಕಾರಿ ಉದ್ಯೋಗಿಗಳು, ಪಿಂಚಣಿದಾರರಿಗೆ ಭಾರೀ ಗುಡ್‌ನ್ಯೂಸ್‌ ನೀಡಿದ ಕೇಂದ್ರ ಸರ್ಕಾರ](https://kannada.asianetnews.com/business/central-government-advances-september-salary-pension-release-bank-strike-san/articleshow-19tc91r)
 - [ನಮ್ಮ ಮೆಟ್ರೋ ಗುಲಾಬಿ ಮಾರ್ಗದ ಬಗ್ಗೆ ಹೊರಬಿತ್ತು ಅಚ್ಚರಿಯ ಸುದ್ದಿ](https://kannada.asianetnews.com/bengaluru-urban/railway-board-approves-train-operations-on-bengaluru-metros-pink-line/articleshow-x95c7bg)
-- [ಕರ್ನಾಟಕ ಪಿಕಲ್‌ಬಾಲ್, ಬೆಂಗಳೂರು, ಮಂಗಳೂರು , ತುಮಕೂರು ಸೇರಿ 7 ತಂಡಗಳಿಗೆ 56 ಆಟಗಾರರ ಆಯ್ಕೆ](https://kannada.asianetnews.com/other-sports/karnataka-pickleball-56-players-selected-for-7-teams-including-bengaluru/articleshow-2mhxw8k)
-- [ಯಾವುದೇ ಬಿಲ್, ಬಸ್ ಟಿಕೆಟ್ ಮುಟ್ಟೋ ಮುಂಚೆ ಇಷ್ಟು ಮಾಡಿ.. ಇಲ್ಲವೆಂದ್ರೆ ಕಾದಿದೆ ಕ್ಯಾನ್ಸರ್, ಬಂಜೆತನದ ಆಪತ್ತು!](https://kannada.asianetnews.com/gallery/health-life/why-bus-conductors-must-wear-gloves-the-threat-behind-printed-tickets-p6k7uxr)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ಅಜಿತ್ ಅಗರ್ಕರ್ ಅಧಿಕಾರಾವಧಿ ಅಂತ್ಯ: ಖಚಿತಪಡಿಸಿದ ಬಿಸಿಸಿಐ!](https://tv9kannada.com/sports/cricket-news/ajit-agarkar-to-exit-as-chief-selector-1241898.html)
+- [‘ದಿ ಬ್ಯಾಡ್ಸ್ ಆಫ್ ಬಾಲಿವುಡ್ ಸೀಸನ್ 2’ ಮೂಲಕ ಮತ್ತೆ ಬರಲು ರೆಡಿ ಆದ ಆರ್ಯನ್ ಖಾನ್](https://tv9kannada.com/entertainment/bollywood/aryan-khan-to-return-with-the-bads-of-bollywood-season-2-fans-gets-happy-1241899.html)
+- [ಹೊಸ ರೈಲುಗಳ ಸಂಚಾರಕ್ಕೆ ರೈಲ್ವೆ ಮಂಡಳಿ ಅನುಮೋದನೆ: ಶೀಘ್ರವೇ ನಮ್ಮ ಮೆಟ್ರೋ ಪಿಂಕ್​​ ಲೈನ್​​ ಕಾರ್ಯಾರಂಭ ಸಾಧ್ಯತೆ](https://tv9kannada.com/karnataka/bengaluru/big-boost-for-namma-metro-railway-board-grants-approval-for-beml-trains-on-pink-line-elevated-stretch-1241894.html)
+- [ಅರ್ನಬ್ ಚಂಡಮಾರುತ: ಆಂಧ್ರ-ಒಡಿಶಾ ತೀರದಲ್ಲಿ ಅಬ್ಬರಿಸಿದ ಮಳೆ, ಗಜಪತಿಯಲ್ಲಿ 1,500 ಜನರ ಸ್ಥಳಾಂತರ](https://tv9kannada.com/national/arnab-cyclone-red-alert-and-evacuations-as-storm-batters-andhra-odisha-coast-1241896.html)
+- [Home Clean Tips: ಮನೆ ಯಾವಾಗಲೂ ಅಚ್ಚುಕಟ್ಟಾಗಿ ಕಾಣಬೇಕೇ? ಪ್ರತಿದಿನದ ಈ 10 ನಿಮಿಷದ ಅಭ್ಯಾಸ ಸಾಕು](https://tv9kannada.com/lifestyle/10-minute-daily-habits-to-keep-home-clean-and-organized-1241893.html)
+- [ಏಕದಿನ ವಿಶ್ವಕಪ್​​ನಲ್ಲಿ ‘ಸ್ಟಾಪ್ ಕ್ಲಾಕ್’ ನಿಯಮ!](https://tv9kannada.com/sports/cricket-news/odi-world-cup-2027-icc-implements-stop-clock-rule-permanently-1241396.html)
+- [ಕರ್ನಾಟಕ ವಾಯು ಗುಣಮಟ್ಟ ವರದಿ: ಬೆಂಗಳೂರು ಸೇರಿ ಪ್ರಮುಖ ನಗರಗಳಲ್ಲಿ ವಾಯು ಮಾಲಿನ್ಯ ಹೇಗಿದೆ?](https://tv9kannada.com/karnataka/karnataka-aqi-update-monsoon-improves-air-quality-bengaluru-moderate-1241891.html)
 - [ಎಮರ್ಜೆನ್ಸಿ ಎಕ್ಸಿಟ್​​ನಲ್ಲಿ ದೊಡ್ಡ ಟ್ವಿಸ್ಟ್? ಮೂವರು ಹೊರಕ್ಕೆ, ಮೂವರು ಒಳಕ್ಕೆ?](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-is-history-repeating-with-wildcard-entries-and-emergency-exits-1241889.html)
 - [ಗಣೇಶೋತ್ಸವ ಮೆರವಣಿಗೆಯ ಭದ್ರತೆಗೆ ನಿಯೋಜನೆಗೊಂಡಿದ್ದ ಪೊಲೀಸ್​​ ಸಿಬ್ಬಂದಿ ಮನೆಗೇ ಕಳ್ಳರಿಂದ ಕನ್ನ: ಹಣ, ಬಂಗಾರ ಕದ್ದು ಎಸ್ಕೇಪ್​](https://tv9kannada.com/karnataka/bengaluru/cops-house-burgled-in-bengaluru-while-on-ganeshotsav-security-duty-gold-and-cash-stolen-1241886.html)
 - [ಇಂದಿನ ದಿನ ಭವಿಷ್ಯ: ಗುರುಬಲ ಯಾರಿಗಿದೆ?; 12 ರಾಶಿಗಳ ಇಂದಿನ ಫಲಾಫಲ](https://tv9kannada.com/videos/daily-horoscope-24-sep-2026-dr-basavaraj-gurujis-zodiac-predictions-1241885.html)
-- [ಶಕ್ತಿ ಪ್ರದರ್ಶನಕ್ಕೆ ಮುಂದಾದ ಸಚಿವ ಸತೀಶ್ ಜಾರಕಿಹೊಳಿ?: ನವೆಂಬರ್‌ನಲ್ಲಿ ನಾಯಕ ಸಮುದಾಯದ ಬೃಹತ್ ಸಮಾವೇಶಕ್ಕೆ ಸಿದ್ಧತೆ](https://tv9kannada.com/videos/minister-satish-jarkiholi-plans-mega-nayaka-community-convention-in-november-1241882.html)
-- [ಕರ್ನಾಟಕ ಹವಾಮಾನ ವರದಿ: ರಾಜ್ಯದ ಹಲವು ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಮುಂದುವರಿದ ಭಾರಿ ಮಳೆ](https://tv9kannada.com/karnataka/karnataka-rains-imd-forecasts-heavy-rainfall-yellow-alert-for-bengaluru-and-coasts-1241881.html)
-- [ಮಾರ್ಗಮಧ್ಯೆ ಕೈಕೊಟ್ಟ ಬಸ್ ಹೆಡ್‌ಲೈಟ್ಸ್: ಮೊಬೈಲ್ ಟಾರ್ಚ್ ಹಾಕ್ಕೊಂಡು ಕೆಎಸ್‌ಆರ್‌ಟಿಸಿ ಬಸ್ ಓಡಿಸಿದ ಚಾಲಕ](https://tv9kannada.com/videos/ksrtc-bus-driver-uses-mobile-torchlight-after-headlights-fail-on-dark-stretch-1241879.html)
-- [ದಿನ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರು ಆರ್ಥಿಕತೆಯನ್ನು ಗಟ್ಟಿಗೊಳಿಸುವಲ್ಲಿ ಮುಗ್ಗರಿಸುವರು…](https://tv9kannada.com/horoscope/daily-horoscope-for-september-24-2026-dakshinayana-greeshma-season-badrapada-masa-shukla-paksha-thursday-astrology-1241709.html)
-- [ಕೆಪಿಎಸ್​ಸಿ ಕೇಸ್​ನ ಎಸ್ಐಟಿಯಲ್ಲಿದ್ದ ಐಪಿಎಸ್ ಅಧಿಕಾರಿ ಕುಶಲ್ ಚೌಕ್ಸಿ ದಿಢೀರ್ ವರ್ಗಾವಣೆ](https://tv9kannada.com/karnataka/bengaluru/ips-officer-kushal-chouksey-who-was-part-of-the-sit-probing-the-kpsc-case-has-been-abruptly-transferred-1241863.html)
-- [ಸ್ವಕ್ಷದ ನಾಯಕನಿಂದಲೇ ಸಚಿವ ಮಧುಬಂಗಾರಪ್ಪ ಪಿಎ ಹಣ ವಸೂಲಿ ದಂಧೆ ಬಯಲು](https://tv9kannada.com/videos/congress-leader-sundaresh-alleges-corruption-in-shivamogga-points-finger-at-minister-madhu-bangarappa-pa-1241869.html)
-- [ಬಿಗ್ ಬಾಸ್: ಮತ್ತೆ ವೈಯಕ್ತಿಕ ವಿಚಾರ ಇಟ್ಟುಕೊಂಡು ಅತಿಯಾಗಿ ಮಾತಾಡಿದ ಮಂಜ](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-13-manja-personal-attack-on-dhanush-cycle-guinness-record-1241867.html)
 
 **Prajavani**
-- [ಆಳ–ಅಗಲ| ಒಡೆದ ಮನೆಯಾಯಿತೇ ಚುನಾವಣಾ ಆಯೋಗ? ಸಂಚಲನ ಸೃಷ್ಟಿಸಿದ ವರದಿ](https://www.prajavani.net/explainer/detail/election-commission-internal-rift-commissioners-objections-report-4283125)
-- [ಎಲ್‌ಎಲ್‌.ಬಿ: ಲಿಂಗತ್ವ ಅಲ್ಪಸಂಖ್ಯಾತರಿಗೆ ಮೀಸಲು](https://www.prajavani.net/news/karnataka-news/kslu-llb-transgender-reservation-karnataka-high-court-4282980)
-- [ಇ.ಸಿ ಆಯುಕ್ತರ ಮಧ್ಯೆ ಬಿಕ್ಕಟ್ಟು?](https://www.prajavani.net/news/india-news/internal-rift-among-election-commissioners-over-decision-making-4283049)
-- [ಕೆ.ಆರ್.ಮಾರುಕಟ್ಟೆ: ಕಾಣದ ಸುಧಾರಣೆ](https://www.prajavani.net/district/bengaluru-city/kr-market-bengaluru-infrastructure-issues-heritage-building-neglect-4283185)
-- [ದಿನ ಭವಿಷ್ಯ: ಈ ರಾಶಿಯವರ ವೃತ್ತಿಯಲ್ಲಿ ಜವಾಬ್ದಾರಿ ಹೆಚ್ಚಳವಾಗಲಿದೆ](https://www.prajavani.net/astro-vastu/horoscope/daily-horoscope-september-twenty-four-astrology-updates-4282862)
-- [ನುಡಿ ಬೆಳಗು: ಡುನಾಂಟ್ ಎಂಬ ಸೇವಾಜೀವಿ](https://www.prajavani.net/op-ed/articles/henry-dunant-red-cross-founder-humanitarian-journey-4282276)
-- [ದಿನದ ಪಂಚಾಂಗ: 24 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/astro-vastu/panchanga/daily-kannada-panchangam-september%E0%B2%B0-4282863)
-- [ನಗರದಲ್ಲಿ ಇಂದು: ಬೆಂಗಳೂರು ನಗರದ ಕಾರ್ಯಕ್ರಮಗಳು 24 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/district/bengaluru-city/bengaluru-city-events-september-twenty-four-two-thousand-twenty-six-4283127)
-- [ಗುಂಡಣ್ಣ ಕಾರ್ಟೂನು: 24 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/news/cartoons/gundanna-cartoon-september-twenty-four-4282679)
-- [ಸುದ್ದಿ ಗುದ್ದು | ತಿಂಗಳೇಶ: ಸೆಪ್ಟೆಂಬರ್ 24, 2026](https://www.prajavani.net/news/cartoons/suddi-guddu-tingalesha-september-kannada-column-4282664)
+- [ಕೊಟ್ಟೂರು | ಅಧಿಕಾರಿಗಳ ನಿರ್ಲಕ್ಷ್ಯ: ಚರಂಡಿ ಸ್ವಚ್ಛತೆಗೆ ಮಹಿಳೆಯೇ ಮುಂದಾದರು..](https://www.prajavani.net/district/vijayanagara/kotturu-woman-cleans-drain-haralu-village-sanitation-4283419)
+- [ಪೌರಕಾರ್ಮಿಕರ ಸಮಸ್ಯೆ ಪರಿಹಾರಕ್ಕೆ ಆದ್ಯತೆ ನೀಡಿ: ಬಳ್ಳಾರಿ DC ನಾಗೇಂದ್ರ ಪ್ರಸಾದ್](https://www.prajavani.net/district/ballari/ballari-civic-workers-welfare-dc-nagendra-prasad-4283411)
+- [170 ಮಂದಿಗೆ ಮನೆ ನೀಡುವುದು ಸಾಧ್ಯ: ಪೌರಕಾರ್ಮಿಕ ದಿನಾಚರಣೆಯಲ್ಲಿ ಮೊಳಗಿದ ಆಶಯ](https://www.prajavani.net/district/vijayanagara/hosapete-pourakarmika-housing-project-possible-4283292)
+- [ಪ್ರಜಾವಾಣಿ ಸಹಪಾಠಿ: ಸೆಪ್ಟೆಂಬರ್‌ 24ರ ಸ್ಪರ್ಧಾ ಕಣ](https://www.prajavani.net/education-career/education/prajavani-sahapathi-competitive-exam-quiz-september-twenty-four-4282101)
+- [ರೂಬರೂಹ್: ಈ ಹುಚ್ಚು ಮನಸಿಗೆ ಜೀವನದಾಟಗಳೇನು ಗೊತ್ತು...](https://www.prajavani.net/art-culture/article-features/anand-bakshi-song-analysis-life-and-memories-4281906)
+- [ಪಿತೃಪಕ್ಷ ಯಾವಾಗ ಆರಂಭ? ಆಚರಣೆ ಹಿಂದಿರುವ ಉದ್ದೇಶ ತಿಳಿದುಕೊಳ್ಳಿ](https://www.prajavani.net/community/religion/pitru-paksha-significance-purpose-and-karna-story-4281479)
+- [ಸಮಗ್ರ ಎಣ್ಣೆಬೀಜ ಸಂಸ್ಕರಣಾ ಘಟಕವನ್ನು ನಿರ್ದೇಶಕ ಗಿರಿಧರ್ ಪರ್ವತಂ ಉದ್ಘಾಟಿಸಿದರು](https://www.prajavani.net/district/mysuru/mysuru-oilseed-processing-unit-cftri-inauguration-4283554)
+- [ಕುಟುಂಬ ನೆಮ್ಮದಿಗೆ ಮಹಿಳೆ ಪಾತ್ರ ಹಿರಿದು: ಕಿಮ್ಮನೆ ರತ್ನಾಕರ](https://www.prajavani.net/district/shivamogga/thirthahalli-kimmane-ratnakar-women-role-family-economy-4283555)
+- [ನವಲಗುಂದದಲ್ಲಿ ಗಣಪತಿ ರಥೋತ್ಸವ ಸಂಭ್ರಮದಿಂದ ಜರುಗಿತು](https://www.prajavani.net/district/dharwad/navalgund-ganapati-rathotsava-celebration-dharwad-4283552)
+- [ಉಡುಪಿಯಲ್ಲಿ ಪೌರಕಾರ್ಮಿಕರ ದಿನ ಆಚರಣೆ, ಸ್ಪರ್ಧೆ ವಿಜೇತರಿಗೆ ಬಹುಮಾನ](https://www.prajavani.net/district/udupi/udupi-civic-workers-day-celebration-prize-distribution-4283553)
 
 **eedina**
+- [ರಾಯಚೂರು | ಮತದಾರರ ಪಟ್ಟಿಯಲ್ಲಿ ತಾರತಮ್ಯ, ಗಣ್ಯರ ಹೆಸರು ಡಿಲೀಟ್ ಮಾಡಿ ಮತ್ತೆ ಸೇರ್ಪಡೆ:  ಪ್ರಕಾಶ್ ರಾಜ್](https://eedina.com/?p=765592)
 - [ಯಾದಗಿರಿ | ಎಸ್‌ಐಆರ್ ವಿರುದ್ಧ ‘ಪರಿಶೋಧನೆ, ಪ್ರತಿರೋಧ’ ಪ್ರವಾಸ: ‘ಅರ್ಹ ಮತದಾರನೊಬ್ಬನೂ ಹೊರಗುಳಿಯಬಾರದು’: ಬಹುಭಾಷ ನಟ ಪ್ರಕಾಶ್ ರೈ](https://eedina.com/?p=765581)
 - [ಉತ್ತರ ಕನ್ನಡ | ಸೆ.24ರಂದು ಯೆಲ್ಲೋ ಅಲರ್ಟ್‌: ಜಿಲ್ಲಾಡಳಿತದಿಂದ ಮುನ್ನೆಚ್ಚರಿಕೆ](https://eedina.com/?p=765571)
 - [ಬೆಳಗಾವಿ | ರಾಮದುರ್ಗ, ಸವದತ್ತಿ, ಕಾಗವಾಡ, ಗೋಕಾಕ ತಾಲೂಕುಗಳು ಬರ ಪಟ್ಟಿಯಲ್ಲಿ ಸೆರ್ಪಡೆ: ಭರವಸೆ ಈಡೇರಿಸಿದ ಶಾಸಕ ಅಶೋಕ ಪಟ್ಟಣ](https://eedina.com/?p=765572)
@@ -157,38 +158,37 @@
 - [ಧಾರವಾಡ | ಅಕ್ಟೋಬರ್ 23ರಂದು ಪಶ್ಚಿಮ ಪದವೀಧರ ಕ್ಷೇತ್ರ ಚುನಾವಣೆ](https://eedina.com/?p=765557)
 - [ಹಾವೇರಿ | ಸತ್ತಳೆಂದು ಅಂತ್ಯಕ್ರಿಯೆ ಸಿದ್ದತೆ ವೇಳೆ, ಸಾವಿನಂಚಿನಿಂದ ಪಾರಾದ ಅಜ್ಜಿ](https://eedina.com/?p=765554)
 - [ಔರಾದ ತಾಲೂಕು ʼಬರʼ ಘೋಷಿಸಿ : ಸಿಎಂಗೆ ಶಾಸಕ ಪ್ರಭು ಚವ್ಹಾಣ ಮನವಿ](https://eedina.com/?p=765551)
-- [ತುಮಕೂರು | ಸಿಂಹಾದ್ರಿ ಹತ್ಯೆ: ಆರೋಪಿಗಳ ಬಂಧನಕ್ಕೆ ಒಳಮೀಸಲಾತಿ ಹೋರಾಟ ಸಮಿತಿ ಆಗ್ರಹ](https://eedina.com/?p=765547)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Russia (5.5)
 - India (5.2)
 - Emkay Global Financial (5.0)
-- Russia (4.2)
 - Ukraine (4.2)
 - Indian (4.2)
-- UNGA (3.9)
+- Asian Games (4.0)
 - Iran (3.2)
 - Delhi (3.2)
-- Asian Games (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
+- Zelensky (2.6)
 - Oman (2.6)
+- UNGA (2.6)
 - Roshibina Devi (2.0)
 - CEC Gyanesh Kumar (2.0)
-- Buy Bajaj Finance (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Jammu and Kashmir | జ‌మ్మూ కాశ్మీర్‌పై మాట్లాడే హ‌క్కు మీకు లేదు.. ఓఐసీ దేశాల‌కు ఇండియా వార్నింగ్](https://www.ntnews.com/national/get-pakistan-to-fix-its-terror-problem-india-hits-back-at-oic-over-jammu-and-kashmir-references-2518136)
-- [Andhra Pradesh: ఇకపై సోషల్ మీడియా ఇన్‌ఫ్లుయెన్సర్లకు డబ్బులు చెల్లించనున్న ప్రభుత్వం](https://telugu.asianetnews.com/gallery/andhra-pradesh/andhra-pradesh-cabinet-approves-social-media-influencer-policy-payments-up-to-rs-15000-fu0fq1l)
-- ['પુરુષ' બનીને રહેનારાં એ મહિલા ખિલાડી જેમણે એશિયન ગેમ્સમાં સિલ્વર મેડલ જીત્યો?](https://www.bbc.com/gujarati/articles/c3rr481yn8rqo)
-- [UN में चल रहा था भाषण, इंस्टा रील देखने में व्यस्त थे इस देश के राष्ट्रपति!](https://www.aajtak.in/world/story/syrian-president-ahmed-al-sharaa-instagram-reels-unga-ntcppl-dskc-2651255-2026-09-23)
-- [காமராஜர் காலை உணவு திட்டம் விரிவாக்கத்தில் 77,087 பேர் பயன்](https://www.dinamalar.com/kalvimalar/1/82035-77087-people-benefit-from-kamarajar-breakfast-scheme-expansion)
-- [Trump plans grand spectacle for potentially tense Xi talks](https://www.reuters.com/world/china/trump-plans-grand-spectacle-potentially-tense-xi-talks-2026-09-23/)
-- ['Prime Minister's Nominee Can't Be Expected To Defy Him': Justice Datta Doubts Independence Of Election Commissioners' Selection Panel](https://www.livelaw.in/top-stories/prime-ministers-nominee-cant-be-expected-to-defy-him-justice-datta-doubts-independence-of-election-commissioners-selection-panel-551489)
-- [ഹോർമൂസിൽ കപ്പൽ ആക്രമണം, 2 നാവികർ കൊല്ലപ്പെട്ടു; യെമൻ ആക്രമണത്തിൽ അമേരിക്കയ്ക്ക് ഹൂതികളുടെ മുന്നറിയിപ്പ്](https://www.mathrubhumi.com/pravasi/saudi-arabia/strait-of-hormuz-missile-attack-houthi-saudi-ib06fntt)
-- [বুলডোজারে গুঁড়িয়ে দিলেন 31 কোটির কাফ সিরাপ, নেশামুক্ত সমাজ গড়ার ডাক মুখ্যমন্ত্রীর](https://www.etvbharat.com/bn/state/chief-minister-suvendu-adhikari-personally-crushed-cough-syrup-worth-31-crore-with-bulldozer-in-new-town-wbs26092305011)
-- [Today Headlines | மாலை 6 மணி தலைப்புச் செய்திகள் (20.09.2026) | 6 PM Headlines | ThanthiTV](https://www.thanthitv.com/%E0%AE%9A%E0%AE%AE%E0%AF%80%E0%AE%AA%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF-%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D/today-headlines-6-pm-headlines-20092026-6-pm-headlines-thanthitv)
+- [అమెరికాతో మీమ్స్‌ వార్‌లో బాలయ్యను వాడేసిన ఇరాన్.. ‘భగవంత్ కేసరి’ వీడియోతో అదిరే కౌంటర్..!](https://telugu.samayam.com/latest-news/india-news/memes-war-with-us-iran-counter-to-nandamuri-balakrishna-movie-bhagavanth-kesari-scene/articleshow/134439994.cms)
+- [Shruti Haasan: పెళ్లంటే ఇష్టమే.. కానీ](https://www.eenadu.net/telugu-news/women/shruti-haasan-reveals-her-views-about-marriage-and-motherhood-in-telugu/6206/126172250)
+- [China's 80% Grip on Iranian Oil Looms Over Trump-Xi Summit](https://oilprice.com/Geopolitics/International/Chinas-80-Grip-on-Iranian-Oil-Looms-Over-Trump-Xi-Summit.html)
+- [‘ടോസ് ഇടും മുൻപേ വിവരം ചോർത്തും, ഒരു കളിക്ക് 60 ലക്ഷം, ആകെ 3 കോടി’: സിഎസ്കെയെ പിടിച്ചുകുലുക്കി വീണ്ടും ഒത്തുകളി ആരോപണം](https://www.manoramaonline.com/sports/cricket/2026/09/23/ex-csk-star-vansh-bedi-breaks-silence-as-ipl-fixing-row-grips-indian-cricket-false-and-defamatory.html)
+- [मार्को रूबियो से मिले जयशंकर, रूसी तेल खरीद पर 100% ट्रंप टैरिफ पर जताई चिंता](https://www.livehindustan.com/national/jaishankar-meets-marco-rubio-expresses-concern-over-100-trump-tariff-on-russian-oil-purchases-unga-201790171445743.html)
+- [In meeting with Rubio, Jaishankar raises India’s concerns about sanctions Act](https://www.thehindu.com/news/national/jaishankar-marco-rubio-meeting-in-usa-september-23-2026/article71500354.ece)
+- [Jaishankar 'reiterates India’s interests & concerns’ over Russia sanctions act in talks with Rubio](https://timesofindia.indiatimes.com/india/jaishankar-reiterates-indias-interests-concerns-over-russia-sanctions-bill-in-talks-with-rubio-us-ties/articleshow/134439850.cms)
+- [El Nino heat could kill 15,800 by February](https://www.dw.com/en/india-news-el-nino-heat-could-kill-15800-by-february-report-warns/live-79382508)
+- [सतीश सालियन यांच्या नोटीसला आदित्य ठाकरे यांचं प्रत्युत्तर, 26 पानांचं उत्तर, मुद्देसूद भूमिका मांडली](https://maharashtratimes.com/maharashtra/mumbai-news/aaditya-thackeray-lawyer-anshuman-sinha-answer-to-satish-salian-defamation-notice/articleshow/134439306.cms)
+- [EPF Wage Ceiling: 1952లో నెలకు రూ.300.. ఇప్పుడు రూ.25000! పీఎఫ్ వేతన పరిమితి ప్రయాణం తెలుసా? పెన్షన్‌పై ప్రభావం ఎంత?](https://telugu.samayam.com/business/business-news/epf-wage-ceiling-history-1952-to-2026-wage-limit-hiked-from-rs-300-to-rs-25000-per-month-know-full-details/articleshow/134439912.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
