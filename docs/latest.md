@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-24 19:33:33
+# India Trending Report — 2026-09-24 20:02:19
 
 ## Google Trends (India) — top trending searches
-1. [aykroyd](https://trends.google.com/trending/rss?geo=IN)
-2. [oscar bobb](https://trends.google.com/trending/rss?geo=IN)
-3. [joão félix](https://trends.google.com/trending/rss?geo=IN)
-4. [love hypothesis](https://trends.google.com/trending/rss?geo=IN)
-5. [toxic ott release date](https://trends.google.com/trending/rss?geo=IN)
-6. [kevin schade](https://trends.google.com/trending/rss?geo=IN)
-7. [côte d'ivoire vs ghana](https://trends.google.com/trending/rss?geo=IN)
-8. [cristiano ronaldo](https://trends.google.com/trending/rss?geo=IN)
-9. [austria vs israel](https://trends.google.com/trending/rss?geo=IN)
-10. [portugal fc](https://trends.google.com/trending/rss?geo=IN)
+1. [marc-andré ter stegen](https://trends.google.com/trending/rss?geo=IN)
+2. [younes ebnoutalib](https://trends.google.com/trending/rss?geo=IN)
+3. [nadiem amiri](https://trends.google.com/trending/rss?geo=IN)
+4. [sony liv](https://trends.google.com/trending/rss?geo=IN)
+5. [karim adeyemi](https://trends.google.com/trending/rss?geo=IN)
+6. [oscar bobb](https://trends.google.com/trending/rss?geo=IN)
+7. [aykroyd](https://trends.google.com/trending/rss?geo=IN)
+8. [joão félix](https://trends.google.com/trending/rss?geo=IN)
+9. [love hypothesis](https://trends.google.com/trending/rss?geo=IN)
+10. [kevin schade](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -26,16 +26,16 @@
 - [SC flags ‘false’ POCSO cases in marital disputes, bars immediate arrest of accused parent](https://timesofindia.indiatimes.com/india/sc-flags-false-pocso-cases-in-marital-disputes-bars-immediate-arrest-of-accused-parent/articleshow/134466036.cms)
 
 **NDTV**
+- [Trump-Xi Jinping LIVE Updates: Trump Says He Had A "Great Meeting" With Xi Jinping](https://www.ndtv.com/world-news/donald-trump-xi-jinping-live-updates-us-china-summit-white-house-state-visit-key-announcements-trade-ai-live-news-12092374#publisher=newsstand)
+- [Drive Through Tollgates: New Rules For High-Speed Highways](https://www.ndtv.com/india-news/drive-through-tollgates-new-rules-for-high-speed-highways-12094638#publisher=newsstand)
+- [Hollywood Stars Among Arrests In New York Anti-Netanyahu Protest](https://www.ndtv.com/world-news/hollywood-stars-among-arrests-in-new-york-anti-netanyahu-protest-12094607#publisher=newsstand)
 - [Meta AI Boss Posts Edited Altman-Dario Pic With PM Modi, Then Deletes It](https://www.ndtv.com/world-news/meta-ai-boss-posts-edited-altman-dario-pic-with-pm-modi-then-deletes-it-12094526#publisher=newsstand)
-- [Trump-Xi Jinping LIVE Updates: Trump, Xi To Talk Trade, AI, Iran War At US-China Bilateral Meet](https://www.ndtv.com/world-news/donald-trump-xi-jinping-live-updates-us-china-summit-white-house-state-visit-key-announcements-trade-ai-live-news-12092374#publisher=newsstand)
-- [China To Send 2 Giant Pandas, Ping Ping And Fu Shuang, To US Zoo](https://www.ndtv.com/world-news/china-to-send-2-giant-pandas-ping-ping-and-fu-shuang-to-us-zoo-12094481#publisher=newsstand)
-- [Child Rape Cases Went Up 4 Times Over A Decade, Convictions Remained Low](https://www.ndtv.com/india-news/child-rape-cases-went-up-4-times-over-a-decade-convictions-remained-low-12094444#publisher=newsstand)
-- [Centre Seeks 2-Year Window To Implement Top Court's OBC Creamy Layer Verdict](https://www.ndtv.com/india-news/centre-seeks-2-year-window-to-implement-top-courts-obc-creamy-layer-verdict-12094430#publisher=newsstand)
-- [Woman Alleges Her Photo Was Morphed During CJP Protests, Cops File Case](https://www.ndtv.com/india-news/woman-alleges-her-photo-was-morphed-during-cjp-protests-cops-file-case-12094421#publisher=newsstand)
-- [UAE Suspends All Flights By Iranian Airlines To Comply With US Sanctions](https://www.ndtv.com/world-news/uae-suspends-all-flights-by-iranian-airlines-to-comply-with-us-sanctions-12094412#publisher=newsstand)
-- [2 Men On Bike Snatch Woman Sarpanch's Earrings In Punjab Village](https://www.ndtv.com/india-news/2-men-on-bike-snatch-woman-sarpanchs-earrings-in-punjab-village-12094400#publisher=newsstand)
-- [No Orders Were Issued To Shield R Veeramani Under DMK: MK Stalin](https://www.ndtv.com/india-news/no-orders-were-issued-to-shield-r-veeramani-under-dmk-mk-stalin-12094290#publisher=newsstand)
-- [US, China Must Ensure AI Develops Under "Human Control": Xi At White House](https://www.ndtv.com/world-news/us-china-must-ensure-ai-develops-under-human-control-xi-jinping-at-white-house-12093435#publisher=newsstand)
+- [Bay Of Bengal Depression To Bring Heavy Rain To Bengal, Odisha And Other States](https://www.ndtv.com/india-news/weather-tomorrow-telangana-may-see-extremely-heavy-rain-orange-alert-in-jharkhand-12092206#publisher=newsstand)
+- [DMK Didn't Try To Shield Granite Baron Accused In Sex Abuse Case: MK Stalin](https://www.ndtv.com/india-news/no-orders-were-issued-to-shield-r-veeramani-under-dmk-mk-stalin-12094290#publisher=newsstand)
+- [Calling Husband Dark', Fat' Not Grounds For Divorce: High Court](https://www.ndtv.com/thehook/agency/calling-husband-dark-fat-not-grounds-for-divorce-high-court-12094568#publisher=newsstand)
+- [Woman Alleges Her Photo Was Morphed During CJP Protests, Case Filed](https://www.ndtv.com/india-news/woman-alleges-her-photo-was-morphed-during-cjp-protests-cops-file-case-12094421#publisher=newsstand)
+- [Hundreds Of Trucks Block Turkey-Iran Border After US Blockade](https://www.ndtv.com/world-news/hundreds-of-trucks-clog-turkey-iran-border-as-us-blockade-changes-trade-pattern-12094567#publisher=newsstand)
+- [US Deploys Laser Weapons In Hormuz That Can Be Operated With Xbox Controllers: Report](https://www.ndtv.com/world-news/us-iran-war-weapons-news-us-deploying-laser-weapons-in-hormuz-that-can-be-operated-with-xbox-console-12093870#publisher=newsstand)
 
 **Hindustan Times**
 - [India, Russia, Iran among 9 countries to be part of BRICS Theatre Festival in Delhi](https://www.hindustantimes.com/india-news/india-russia-iran-among-9-countries-to-be-part-of-brics-theatre-festival-in-delhi-101790274778746.html)
@@ -62,6 +62,8 @@
 - [ಸೌಜನ್ಯ ಕೊಲೆ ಪ್ರಕರಣ ಮರುತನಿಖೆಗೆ SIT ರಚನೆ: 5 ಪೊಲೀಸ್‌ ಅಧಿಕಾರಿಗೆ ಜವಾಬ್ದಾರಿ; ಖಡಕ್ IPS ಅಧಿಕಾರಿ ಶಶಿಕುಮಾರ್ ನೇತೃತ್ವ](https://vijaykarnataka.com/news/karnataka/sit-formed-to-reinvestigate-sowjanya-murder-case-responsibility-assigned-to-5-police-officers-led-by-tough-n-shashikumar/articleshow/134466926.cms)
 
 **The Hindu**
+- [GVP College to organise national seminar on NEP-2020](https://www.thehindu.com/news/national/andhra-pradesh/gvp-college-to-organise-national-seminar-on-nep-2020/article71504934.ece)
+- [Role of pharmacists in strengthening healthcare systems highlighted](https://www.thehindu.com/news/national/andhra-pradesh/role-of-pharmacists-in-strengthening-healthcare-systems-highlighted/article71504871.ece)
 - [Bitumen price surge hits road works, adding to motorists’ woes in Kochi](https://www.thehindu.com/news/national/kerala/bitumen-price-surge-hits-road-works-adding-to-motorists-woes-in-kochi/article71494267.ece)
 - [Veeramani case: Stalin says DMK regime did not protect anyone](https://www.thehindu.com/news/national/tamil-nadu/veeramani-case-stalin-says-dmk-regime-did-not-protect-anyone/article71505742.ece)
 - [Tiruvannamalai Arunachaleswarar Temple receives eight-year-old elephant Hiralal from Assam](https://www.thehindu.com/news/national/tamil-nadu/eight-year-old-elephant-hiralal-to-arrive-at-arunachaleswarar-temple-in-tiruvannamalai/article71504652.ece)
@@ -70,10 +72,10 @@
 - [Seven persons held in Tirupattur for possession of sharp weapons](https://www.thehindu.com/news/national/tamil-nadu/seven-persons-held-in-tirupattur-for-possession-of-sharp-weapons/article71504119.ece)
 - [Encroachments removed to provide easy access to Government Higher Secondary School in Pernambut](https://www.thehindu.com/news/national/tamil-nadu/encroachments-removed-to-provide-easy-access-to-government-higher-secondary-school-in-pernambut/article71504131.ece)
 - [Ex-servicemen, widows in Telangana to get higher welfare grants, new assistance schemes approved](https://www.thehindu.com/news/national/telangana/ex-servicemen-widows-in-telangana-to-get-higher-welfare-grants-new-assistance-schemes-approved/article71505285.ece)
-- [Bypoll in Madurantakam was forced: Palaniswami](https://www.thehindu.com/news/national/tamil-nadu/bypoll-in-madurantakam-was-forced-palaniswami/article71505234.ece)
-- [Anna University partners with Boeing India to establish Flammability Learning Laboratory](https://www.thehindu.com/news/national/tamil-nadu/anna-university-partners-with-boeing-india-to-establish-flammability-learning-laboratory/article71503553.ece)
 
 **Livemint**
+- [Republican California Sheriff’s 650,000-ballot seizure declared ‘unlawful’ — What the court said](https://www.livemint.com/news/us-news/republican-california-sheriff-s-650-000-ballot-seizure-declared-unlawful-what-the-court-said-11790278997841.html)
+- [Netanyahu at UNGA — says attacking Iran was ‘one of the easiest decisions’ he ever made: Key takeaways](https://www.livemint.com/news/world/netanyahu-at-unga-says-attacking-iran-was-one-of-the-easiest-decisions-he-ever-made-key-takeaways-11790277514864.html)
 - [US-Iran war: Will Strait of Hormuz reopen and blockade end? Both nations discuss phased deal, says report](https://www.livemint.com/news/world/usiran-war-will-strait-of-hormuz-reopen-and-blockade-end-both-nations-discuss-phased-deal-says-report-11790271850746.html)
 - [Dunkin’ Donuts offering 1 million free coffee: Here's how to grab your fav cup of joe today, see promo code](https://www.livemint.com/news/us-news/dunkin-donuts-offering-1-million-free-coffee-heres-how-to-grab-your-fav-cup-of-joe-today-see-promo-code-11790271204855.html)
 - [UPI MDR: ‘Not a single penny’ will go to govt; earnings to be shared among banks and other entities, says report](https://www.livemint.com/news/india/upi-mdr-not-a-single-penny-will-go-to-govt-earnings-to-be-shared-among-banks-and-other-entities-says-report-11790269413021.html)
@@ -82,8 +84,6 @@
 - [New York vs Polymarket: Why is the prediction platform facing legal action and what did it say? Explained](https://www.livemint.com/news/us-news/new-york-vs-polymarket-why-is-the-prediction-platform-facing-legal-action-and-what-did-it-say-explained-11790267790896.html)
 - [Xi-Trump summit: Nod to historic ‘peace toast’, seabass and a lot of Chinese influence, what's on state dinner menu?](https://www.livemint.com/news/us-news/xitrump-summit-nod-to-historic-peace-toast-seabass-and-a-lot-of-chinese-influence-whats-on-state-dinner-menu-11790265086910.html)
 - [California wine industry crisis: Signorello faces foreclosure, Gundlach Bundschu files for bankruptcy](https://www.livemint.com/news/us-news/california-wine-industry-crisis-signorello-faces-foreclosure-gundlach-bundschu-files-for-bankruptcy-11790268815507.html)
-- [Who is Suneel Lodhi? Soulful voice of 'Maine Tere Hi Bharose Hanuman' song from Neem Karoli Baba movie Hanuman Ansh](https://www.livemint.com/news/trends/who-is-suneel-lodhi-soulful-voice-of-maine-tere-hi-bharose-hanuman-song-from-neem-karoli-baba-movie-hanuman-ansh-11790267518166.html)
-- [FDA upgrades Vitruvias Therapeutics recall: Superpotent thyroid tablets could trigger heart problems; who is at risk?](https://www.livemint.com/news/us-news/fda-upgrades-vitruvias-therapeutics-recall-superpotent-thyroid-tablets-could-trigger-heart-problems-who-is-at-risk-11790266807660.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -150,35 +150,35 @@
 - [ಸೌಜನ್ಯ ಪ್ರಕರಣದ ಮರುತನಿಖೆಗೆ ಐಜಿಪಿ ಶಶಿಕುಮಾರ್ ನೇತೃತ್ವದಲ್ಲಿ SIT ರಚನೆ](https://eedina.com/?p=765958)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Centre (4.2)
-- Trump (2.9)
-- Iran (2.9)
+- Centre (3.9)
+- Iran (3.9)
+- What (2.6)
 - Delhi (2.6)
 - New York (2.0)
 - Asian Games (2.0)
+- Trump (1.9)
 - Rahul (1.6)
-- House (1.6)
-- Veeramani (1.6)
+- Bengal (1.6)
 - Stalin (1.6)
-- India (1.6)
+- Hormuz (1.6)
+- California (1.6)
 - EC-SIR (1.3)
 - Politico (1.3)
 - Shehbaz-Pezeshkian (1.3)
-- Wife (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ['ગમે તેટલી સત્તા મળે, અમે સેવાના માર્ગે જ રહીશું', વડનગરથી કાશી જતાં યાત્રીઓ સાથે PM મોદીની વાતચીત](https://www.gujaratsamachar.com/news/national/PM-Modi-Interacts-with-Seva-Sankalp-Abhiyan-Workers-Emphasizes-Public-Service-19978240916)
-- [सीरीज हार पर किया सवाल, तो गौतम गंभीर वर्ल्ड कप बीच में ले आए, बोले - 17 महीने में भारत ने खिताब जीता था](https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/gautam-gambhir-statement-on-india-lose-series-against-england-and-ireland-reminds-team-win-world-cup-in-17-months/articleshow/134455151.cms)
-- [Telangana Politics : తెలంగాణలో ఉపఎన్నికలు ఖాయం.. ఈ ఎమ్మెల్యేను అనర్హుడిగా తేల్చిన సుప్రీంకోర్టు](https://telugu.asianetnews.com/gallery/telangana/supreme-court-upholds-telangana-hc-order-disqualifying-mla-danam-nagender-6apqgtm)
-- [₹85,000 crore gone! PB Fintech to HDFC Bank - these 5 financial stocks witness highest wealth erosion on IRDAI's move](https://www.livemint.com/market/stock-market-news/rs-85-000-crore-gone-pb-fintech-to-hdfc-bank-these-5-financial-stocks-witness-highest-wealth-erosion-on-irdais-move-11790233480906.html)
-- [Who is Luke Delaney? Meet NASA test pilot preparing for his first spaceflight with SpaceX Crew 13](https://www.hindustantimes.com/world-news/us-news/who-is-luke-delaney-meet-nasa-test-pilot-preparing-for-his-first-spaceflight-with-spacex-crew-13-101790185478083.html)
-- [Who is Jessica Watkins? NASA astronaut set to command SpaceX Crew 13 mission to International Space Station](https://www.hindustantimes.com/world-news/us-news/who-is-jessica-watkins-nasa-astronaut-set-to-command-spacex-crew-13-mission-to-international-space-station-101790182253353.html)
-- [Gold Price Today Kolkata: পুজোর আগে একলাফে কমলো সোনার দাম!২২ ২৪ ক্যারেট সোনা দেশের কোথায় কত দামে বিক্রি হচ্ছে জেনে নিন](https://bangla.asianetnews.com/business/gold-price-today-kolkata-24-09-related-latest-updates-various-cities-prices-ajker-sonar-dam/photoshow-yyps1xt)
-- [യുദ്ധമൊന്നും ഏശില്ല; ഇന്ത്യ വളരും സൂപ്പർ ശക്തിയായി - India GDP growth forecast](https://www.manoramaonline.com/business/economy/2026/09/24/india-gdp-growth-forecast-narendra-modi.html)
-- [જ્ઞાનેશકુમાર કોણ છે, શું છે તેમનું રામમંદિર અને કાશ્મીરનું કનેક્શન?](https://www.bbc.com/gujarati/articles/cqvgyv111xxmo)
-- [Calcutta High Court pulls up State for arresting Nandigram Congress candidate in yet another 2007 case](https://www.barandbench.com/news/calcutta-high-court-pulls-up-state-for-arresting-nandigram-congress-candidate-in-yet-another-2007-case)
+- [নন্দীগ্রামে ভোটের আগে স্বস্তিতে কংগ্রেস প্রার্থী মিলন প্রধান, বড় নির্দেশ হাইকোর্টের](https://bangla.aajtak.in/west-bengal/south-bengal/story/calcutta-high-court-nandigram-congress-candidate-milan-pradhan-cannot-be-shown-as-arrested-new-case-gets-partial-relief-sus-1454718-2026-09-24)
+- [Did F-35 parts headed for US land in Chinese possession? Big jet mystery looms ahead of Trump-Xi talks](https://www.hindustantimes.com/world-news/f35-jet-parts-headed-for-us-in-chinese-possession-mystery-looms-ahead-of-donald-trump-xi-jinping-talks-washington-101790232693239.html)
+- [Kolhapur Student Anushka Powar on headphone dies after Dhanbad Express hits Crime News; एक्स्प्रेसची धडक, अनुष्का 30 फूट﻿ उंच उडाली, भेदरुन मैत्रिणीही बेशुद्ध; कोल्हापुरात थरारक घटना, 2 फुटांची जागा ठ](https://maharashtratimes.com/maharashtra/kolhapur/kolhapur-student-anushka-powar-on-headphone-dies-after-dhanbad-express-hits/articleshow/134455393.cms)
+- [তালাশ বিডি । অন্যায়ের বিরুদ্ধে সাহসী মুখপাত্র](https://talashbd.com/news/705363351435934)
+- [Calcutta High Court: ISF-এর প্রতীকচিহ্ন ঋতব্রত-তৃণমূলকে কেন দেওয়া হল? কমিশনের ভূমিকায় ক্ষুব্ধ আদালত, বিচারপতি বললেন, ‘নির্বাচন এলেই খেলা শুরু হয়ে যায়’](https://bengali.abplive.com/district/isf-envelop-syymbol-row-calcutta-high-court-rebukes-election-commission-for-giving-it-to-democratic-trinamool-congress-1193995)
+- [Where did World's First Bats come from? Scientists uncover a 65-million-year-old evolutionary mystery](https://www.moneycontrol.com/science/where-did-world-s-first-bats-come-from-scientists-uncover-a-65-million-year-old-evolutionary-mystery-article-14037230.html)
+- [83 વર્ષની વયે દેશના બીજા સૌથી અમીર એક્ટર બન્યા અમિતાભ બચ્ચન! સંપત્તિમાં 145 ટકાનો ઉછાળો](https://www.gujaratsamachar.com/news/entertainment/Hurun-India-Rich-List-2026-Amitabh-Bachchan-is-Indias-2nd-Richest-Actor-with-Rs-4000-Crore-29441732220)
+- [Ind vs WI 1sT ODI : शुभमन गिलच्या नेतृत्वाखाली टीम इंडिया तिरुवनंतपुरममध्ये दाखल; रोहित-विराटचं पुनरागमन, वेस्ट इंडिजविरुद्ध सामने कुठे पाहता येणार?](https://marathi.abplive.com/sports/cricket/india-vs-west-indies-2026-schedule-live-streaming-rohit-virat-return-shubman-gill-captain-marathi-news-1440099)
+- [India vs South Korea Highlights, Asian Games Hockey: Dilpreet, Abhishek score brace each as IND register 8-2 win](https://www.hindustantimes.com/sports/hockey/india-vs-south-korea-mens-hockey-live-score-asian-games-2026-pool-a-match-updates-september-24-101790225931570.html)
+- [TMC सिंबल फ्रीज विवाद पर सुप्रीम कोर्ट सख्त... चुनाव आयोग से पूछा- 'बताएं अंतिम फैसला लेने में कितना समय लगेगा?'](https://www.aajtak.in/west-bengal/story/mamta-banerjee-election-commission-supreme-court-tmc-name-symbol-dispute-ntc-aktw-rptc-2651879-2026-09-24)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
