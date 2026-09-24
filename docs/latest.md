@@ -1,8 +1,8 @@
-# India Trending Report — 2026-09-24 02:35:21
+# India Trending Report — 2026-09-24 03:01:51
 
 ## Google Trends (India) — top trending searches
-1. [kendel kadowaki-fleming](https://trends.google.com/trending/rss?geo=IN)
-2. [వాతావరణం](https://trends.google.com/trending/rss?geo=IN)
+1. [వాతావరణం](https://trends.google.com/trending/rss?geo=IN)
+2. [benjamin ito-davis](https://trends.google.com/trending/rss?geo=IN)
 3. [asian games kabaddi](https://trends.google.com/trending/rss?geo=IN)
 4. [फास्टैग](https://trends.google.com/trending/rss?geo=IN)
 5. [తెలంగాణ](https://trends.google.com/trending/rss?geo=IN)
@@ -14,16 +14,16 @@
 
 ## Latest headlines by outlet
 **Times of India**
+- [9 killed after sleeper bus catches fire on Yamuna Expressway](https://timesofindia.indiatimes.com/city/noida/noida-moving-bus-catches-fire-on-yamuna-expressway-several-injured/articleshow/134449164.cms)
 - [100-foot-long red carpet and B-1 bombers: How Trump welcomed Xi to US](https://timesofindia.indiatimes.com/world/us/100-foot-long-red-carpet-and-b-1-bombers-how-trump-welcomed-xi-to-us-video/articleshow/134449138.cms)
-- [Several dead after moving bus catches fire on Yamuna Expressway](https://timesofindia.indiatimes.com/city/noida/noida-moving-bus-catches-fire-on-yamuna-expressway-several-injured/articleshow/134449164.cms)
 - [Kalkaji gang-rape: Police probe if Aastha Kunj park was hunting ground of accused](https://timesofindia.indiatimes.com/city/delhi/police-probe-if-aastha-kunj-park-was-hunting-ground-of-rape-accused/articleshow/134449043.cms)
 - [Apple Siri settlement: iPhone 15 Pro, iPhone 16 owners can claim up to $95](https://timesofindia.indiatimes.com/technology/tech-news/apple-siri-settlement-iphone-15-pro-iphone-16-owners-can-now-claim-up-to-95-heres-how-to-file/articleshow/134449291.cms)
-- [8 US Navy sailors attempted suicide during USS Lincoln's Iran deployment](https://timesofindia.indiatimes.com/world/us/eight-us-navy-sailors-in-uss-abraham-lincoln-strike-group-attempted-suicide-during-iran-war-deployment/articleshow/134448759.cms)
+- [Oil prices today: Brent crude edges lower as Iran keeps door open to diplomacy](https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-brent-crude-eases-as-iran-keeps-door-open-to-diplomacy/articleshow/134449528.cms)
 - [George Floyd’s siblings seek accounting of $14.7m memorial GoFundMe](https://timesofindia.indiatimes.com/world/us/in-2020-george-floyds-memorial-gofundme-raised-14-7-million-six-years-later-three-of-his-siblings-are-asking-brother-philonise-for-a-full-accounting-of-the-fundraiser-and-its-distributions/articleshow/134433362.cms)
+- [8 US Navy sailors attempted suicide during USS Lincoln's Iran deployment](https://timesofindia.indiatimes.com/world/us/eight-us-navy-sailors-in-uss-abraham-lincoln-strike-group-attempted-suicide-during-iran-war-deployment/articleshow/134448759.cms)
+- [Olympiad: India's gold chances get bleaker despite win in open; women still in hunt](https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-7-indias-chances-of-gold-get-bleaker-despite-win-in-open-women-still-in-hunt/articleshow/134449255.cms)
 - [Watch: RAF Hawk T2 crashes and explodes near airbase in Wales](https://timesofindia.indiatimes.com/world/uk/raf-hawk-t2-crashes-and-explodes-near-airbase-in-wales-pilots-eject-safely/articleshow/134449248.cms)
-- [After split verdict, SC refers law on EC appointment to larger bench](https://timesofindia.indiatimes.com/india/after-split-verdict-sc-refers-law-on-ec-appointment-to-larger-bench-decision-comes-amid-row-over-ec-functioning/articleshow/134448337.cms)
-- [LoP's presence in panel to pick CEC, ECs 'ornamental': SC judge](https://timesofindia.indiatimes.com/india/lops-presence-in-panel-to-pick-cec-ecs-ornamental-sc-judge/articleshow/134445716.cms)
-- [How 2017's 10 backpacks grew into a program feeding thousands in Metro Atlanta](https://timesofindia.indiatimes.com/world/us/in-2017-a-few-volunteers-packed-10-backpacks-with-food-for-children-nine-years-later-the-programme-is-feeding-thousands-of-students-across-metro-atlanta/articleshow/134444319.cms)
+- [Alex Trebek’s longtime LA home was demolished and replaced with a mansion](https://timesofindia.indiatimes.com/real-estate/news/alex-trebeks-former-la-home-was-demolished-after-his-death-a-new-20000-square-foot-mansion-replaced-the-house-his-family-lived-in-for-nearly-30-years/articleshow/134442661.cms)
 
 **NDTV**
 - [41-Year-Old Woman Drugged, Raped On Pretext Of Job In Delhi: Cops](https://www.ndtv.com/delhi-news/41-year-old-woman-drugged-raped-on-pretext-of-job-in-delhi-cops-12089559#publisher=newsstand)
@@ -38,32 +38,33 @@
 - [Putin's Envoy To Meet Team Trump In New York Over Ukraine War](https://www.ndtv.com/world-news/putins-envoy-kirill-dmitriev-to-meet-team-trump-in-new-york-over-ukraine-war-12089204#publisher=newsstand)
 
 **Hindustan Times**
-- [55-year-old Karnataka man murdered in UAE's Sharjah, dismembered body found in car trunk](https://www.hindustantimes.com/india-news/55-year-old-karnataka-man-murdered-in-uaes-sharjah-dismembered-body-found-in-car-trunk-udupi-news-101790215100626.html)
-- [TMC asks LS Secretariat not to nominate rebel MPs to parliamentary panels](https://www.hindustantimes.com/india-news/tmc-asks-ls-secretariat-not-to-nominate-rebel-mps-to-parliamentary-panels-101790215586440.html)
-- ['Differing views part of decision-making': Election Commission pushes back against criticism](https://www.hindustantimes.com/india-news/differing-views-part-of-decision-making-election-commission-pushes-back-against-dissent-report-sir-gyanesh-kumar-101790213925453.html)
-- [9 dead as AC sleeper bus with 35 passengers catches fire in Greater Noida](https://www.hindustantimes.com/india-news/sleeper-ac-fire-yamuna-expressway-greater-noida-uttar-pradesh-mahoba-yogi-adityanath-101790215168223.html)
-- [Zelensky says Russia tricking Indians into joining war: ‘Don’t let Putin drag you in'](https://www.hindustantimes.com/india-news/zelensky-says-russia-tricking-indians-into-joining-ukraine-war-don-t-let-putin-drag-you-in-at-unga-101790211686923.html)
-- [TRAI orders telecom companies to offer voice and SMS-only plans](https://www.hindustantimes.com/india-news/trai-orders-telecom-companies-to-offer-voice-and-sms-only-plans-101790214146664.html)
-- [Indian seaman killed off Oman coast, 11th such incident amid West Asia crisis](https://www.hindustantimes.com/india-news/indian-seaman-killed-off-oman-coast-mv-cape-dao-11th-such-incident-amid-west-asia-crisis-us-iran-war-strait-of-hormuz-101790207895738.html)
-- [2 UP cops, 2 CRPF personnel held for 'gangrape' of woman in Amroha](https://www.hindustantimes.com/india-news/2-up-cops-2-crpf-personnel-held-for-gangrape-of-woman-in-amroha-101790188497140.html)
-- [UNSC's inability to address ongoing conflicts highlights urgency of reform: India](https://www.hindustantimes.com/india-news/unsc-inability-to-address-ongoing-conflicts-highlights-urgency-of-reform-india-101790184169345.html)
-- [Aaditya Thackeray responds to Satish Salian's notice, refutes allegation of defamation](https://www.hindustantimes.com/india-news/aaditya-thackeray-responds-to-satish-salians-notice-refutes-allegation-of-defamation-101790183835488.html)
+- [Govt to challenge HC’s KPSC SIT order](https://www.hindustantimes.com/india-news/govt-to-challenge-hc-s-kpsc-sit-order-101790192901416.html)
+- [Satheesan defends using private chartered aircraft](https://www.hindustantimes.com/india-news/satheesan-defends-using-private-chartered-aircraft-101790192866581.html)
+- [Cong MLA resigns over taluks’ exclusion from drought-hit list](https://www.hindustantimes.com/india-news/cong-mla-resigns-over-taluks-exclusion-from-drought-hit-list-101790192842220.html)
+- [SIT formed to probe allegations of graft against Vijayan, kin](https://www.hindustantimes.com/india-news/sit-formed-to-probe-allegations-of-graft-against-vijayan-kin-101790192841630.html)
+- [Deep depression LIVE updates: Landfall to continue over 2 hours; Odisha, Andhra on red alert](https://www.hindustantimes.com/india-news/deep-depression-cyclone-arnab-live-updates-bay-of-bengal-weather-today-odisha-andhra-pradesh-rain-impact-latest-schools-101790215445770.html)
+- [FM flags significance of Brics tax push](https://www.hindustantimes.com/india-news/fm-flags-significance-of-brics-tax-push-101790192120937.html)
+- [India private sector activity gains pace in Sept](https://www.hindustantimes.com/india-news/india-private-sector-activity-gains-pace-in-sept-101790192061005.html)
+- [BCI not an ‘expert body’ to regulate legal education standards, says SC](https://www.hindustantimes.com/india-news/bci-not-an-expert-body-to-regulate-legal-education-standards-says-sc-101790192002136.html)
+- [FSSAI backs single phase front-of-pack labelling](https://www.hindustantimes.com/india-news/fssai-backs-single-phase-front-of-pack-labelling-101790191941177.html)
+- [Parl panel likely to discuss role of CAPF in West Bengal](https://www.hindustantimes.com/india-news/parl-panel-likely-to-discuss-role-of-capf-in-west-bengal-101790191701449.html)
 
 **Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [Engineering student’s ‘suicide’ turns out to be murder; two arrested](https://www.thehindu.com/news/cities/Hyderabad/engineering-students-suicide-turns-out-to-be-murder-two-arrested/article71502595.ece)
+- [Asian Games 2026 India’s medallists: Full list of winners](https://www.thehindu.com/sport/asian-games-2026-india-medalists-full-list-of-winners-aichi-nagoya-japan/article71491065.ece)
+- [Asian Games 2026 LIVE: Roshibina Devi bags second Asian Games silver in wushu](https://www.thehindu.com/news/national/asian-games-2026-live-updates-on-september-24-2026/article71501314.ece)
+- [Elephant calf swept away in Teesta rescued by fishermen, reunited with mother](https://www.thehindu.com/news/national/elephant-calf-swept-away-in-teesta-rescued-by-fishermen-reunited-with-mother/article71501503.ece)
 - [At least nine killed as sleeper bus catches fire on Yamuna Expressway; driver, conductor arrested for culpable homicide](https://www.thehindu.com/news/national/uttar-pradesh/noida-bus-fire-accident-death-toll-updates/article71502592.ece)
 - [Dissent row: Election Commission says highlighting certain internal notes gives only one side of the picture](https://www.thehindu.com/news/national/differing-views-observations-are-normal-part-of-deliberation-in-any-institution-eci-on-reports-of-internal-friction/article71499104.ece)
 - [CJP to take up issue of ECI reforms as CEC Gyanesh Kumar faces flak](https://www.thehindu.com/news/national/cjp-to-take-up-issue-of-eci-reforms-as-cec-gyanesh-kumar-faces-flak/article71502526.ece)
 - [Opposition calls for CEC Gyanesh Kumar’s removal after report on Election Commissioners’ dissent](https://www.thehindu.com/news/national/election-commission-dissent-sparks-opposition-call-for-cec-gyanesh-kumars-removal/article71498434.ece)
 - [Tamil Nadu Congress leader says he told Chennai Police about Veeramani scandal two years ago](https://www.thehindu.com/news/national/tamil-nadu/veeramani-sex-abuse-case-tamil-nadu-congress-leader-says-he-told-chennai-police-about-scandal-two-years-ago/article71500822.ece)
 - [‘Gem Granite’ Veeramani — a stone cold perpetrator](https://www.thehindu.com/news/national/tamil-nadu/a-stone-coldperpetrator-gem-granite-veeramani/article71485725.ece)
-- [One Indian killed in attack on ship off Oman; Centre condemns attack](https://www.thehindu.com/news/national/indian-national-killed-mv-cape-dao-attack-indian-embassy-oman/article71501151.ece)
-- [India-EU FTA to be signed on December 16](https://www.thehindu.com/business/Economy/india-eu-fta-to-be-signed-on-december-16/article71499760.ece)
-- [One year of Leh violence that killed four: What happened in 2025?](https://www.thehindu.com/news/national/ladakh/2025-leh-protests-what-was-it-sonam-wangchuks-role-explained/article71498281.ece)
-- [Asian Games 2026 LIVE: Roshibina Devi bags second Asian Games silver in wushu](https://www.thehindu.com/news/national/asian-games-2026-live-updates-on-september-24-2026/article71501314.ece)
 
 **Livemint**
+- [PM Modi likely to visit Canada in December: What’s on agenda as Carney eyes India-Canada trade deal around G20](https://www.livemint.com/news/india/pm-modi-likely-to-visit-canada-in-december-what-s-on-the-agenda-as-carney-eyes-india-canada-trade-around-g20-11790216152075.html)
 - [9 dead as AC bus catches fire on Yamuna Expressway in Greater Noida](https://www.livemint.com/news/india/ac-bus-catches-fire-on-yamuna-expressway-in-greater-noida-11790216487188.html)
 - [India cuts edible oil import duty ahead of festivals: Will it bring relief after prices rose 20% in a year?](https://www.livemint.com/news/india/india-cuts-edible-oil-import-duty-ahead-of-festivals-will-it-bring-relief-after-prices-rose-20-in-a-year-11790215507014.html)
 - [Donald Trump rolls out red carpet for Xi Jinping as US, China eye deals on trade, AI and rare earths](https://www.livemint.com/news/us-news/donald-trump-rolls-out-red-carpet-for-xi-jinping-as-us-china-eye-deals-on-trade-ai-and-rare-earths-11790214877641.html)
@@ -73,11 +74,12 @@
 - [Russia sanctions, Iran War, energy and Ukraine: What Jaishankar and Rubio discussed on UNGA sidelines](https://www.livemint.com/news/us-news/russia-sanctions-iran-war-energy-and-ukraine-what-jaishankar-and-rubio-discussed-on-unga-sidelines-trump-11790207428522.html)
 - [Oil Holds Advance on Renewed Tensions Between the US and Iran](https://www.livemint.com/news/us-news/oil-holds-advance-on-renewed-tensions-between-the-us-and-iran-11790206897559.html)
 - [Hurricane Watch Posted on Hawaii’s Big Island as Nolo Approaches](https://www.livemint.com/news/hurricane-watch-posted-on-hawaii-s-big-island-as-nolo-approaches-11790203525312.html)
-- [Zelensky at UNGA: ‘Limit Putin's money. Limit his war’ — key takeaways from Ukraine president’s address](https://www.livemint.com/news/world/zelensky-at-unga-limit-putins-money-limit-his-war-key-takeaways-from-ukraine-president-s-address-11790193820244.html)
 
 **Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
+- [Noida: ಚಲಿಸುತ್ತಿದ್ದ ಬಸ್ ನಲ್ಲಿ ದಿಢೀರ್ ಬೆಂಕಿ; ಕನಿಷ್ಠ ಒಂಬತ್ತು ಮಂದಿ ಮೃತ್ಯು](https://www.varthabharati.in/national/noida-fire-breaks-out-suddenly-in-moving-bus-at-least-nine-dead-2277513)
+- [ಪರಿಷತ್ ಚುನಾವಣೆ; ನಾಲ್ಕು ಸ್ಥಾನ ಗೆಲ್ಲುವ ವಿಶ್ವಾಸವಿದೆ: ಸಿಎಂ ಡಿ ಕೆ ಶಿವಕುಮಾರ್](https://www.varthabharati.in/state/council-elections-confident-of-winning-four-seats-cm-dk-shivakumar-2277512)
 - [Asian Games 2026 | ಸಾಂಡಾ ವಿಭಾಗದಲ್ಲಿ ಭಾರತದ ವುಶು ಪಟು ರೋಷಿಬಿನಾ ದೇವಿಗೆ ಬೆಳ್ಳಿ ಪದಕ](https://www.varthabharati.in/sports/asian-games-2026-indian-wushu-athlete-in-sanda-category-silver-medal-for-roshibina-devi-2277511)
 - [ರಾಷ್ಟ್ರೀಯ ಲೋಕ್ ಅದಾಲತ್‍ನಲ್ಲಿ 44,28,455 ಪ್ರಕರಣ ಇತ್ಯರ್ಥ : ನ್ಯಾ.ಅನು ಸಿವರಾಮನ್](https://www.varthabharati.in/bangalore-city/lok-adalat-2277510)
 - [ತೃತೀಯ ಲಿಂಗಿಗಳಿಗೆ 3 ವರ್ಷದ ಎಲ್‌ಎಲ್‌ಬಿ ಕೋರ್ಸ್‌ನಲ್ಲಿ ಶೇ.1 ಮೀಸಲಾತಿ; ಕೆಎಸ್‌ಎಲ್‌ಯು ಅಧಿಸೂಚನೆ](https://www.varthabharati.in/bangalore-city/-3-1--2277509)
@@ -86,10 +88,11 @@
 - [ಒಮಾನ್ ಕರಾವಳಿಯಲ್ಲಿ ಹಡಗಿನ ಮೇಲೆ ಟಾರ್ಪಿಡೊ ದಾಳಿ; ಭಾರತೀಯ ನಾವಿಕ ಮೃತ್ಯು: MEA](https://www.varthabharati.in/National/indian-seafarer-killed-19-rescued-after-torpedoes-strike-ship-off-oman-coast-2277505)
 - [Mysuru | ಪ್ರತಾಪ್‌ ಸಿಂಹ ಬಂಧನಕ್ಕೆ ಒತ್ತಾಯಿಸಿ ದಸಂಸ ಧರಣಿ](https://www.varthabharati.in/bangalore-city/mysuru-2277504)
 - [2019ರಲ್ಲಿ ಶ್ರೀಲಂಕಾದಲ್ಲಿ ಈಸ್ಟರ್ ರವಿವಾರದಂದು ನಡೆದ ಸರಣಿ ಸ್ಫೋಟ: ಭೀಕರ ಉಗ್ರ ದಾಳಿ ಪ್ರಕರಣದಲ್ಲಿ 15 ಮಂದಿಗೆ 220 ವರ್ಷಗಳ ಜೈಲು ಶಿಕ್ಷೆ](https://www.varthabharati.in/vishesha-varadigalu/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says-2277503)
-- [ಕಲಾವಿದರು ಪ್ರಶಸ್ತಿ ಪಡೆಯುವುದು ಸುಲಭವಲ್ಲ: ಉಮಾಶ್ರೀ](https://www.varthabharati.in/bangalore-city/umashree-2277502)
-- [ಅಟ್ಟಿಕಾ ಗೋಲ್ಡ್ ಕಂಪೆನಿಯ 19 ಸ್ಥಳಗಳ ಮೇಲೆ ಈ.ಡಿ. ದಾಳಿ](https://www.varthabharati.in/bangalore-city/ed-raids-2277501)
 
 **Asianet Kannada**
+- [Cyclone Arnab: ಕರ್ನಾಟಕದಲ್ಲೂ ಭಾರೀ ಮಳೆ ಆಗುತ್ತಾ? ಹವಾಮಾನ ಇಲಾಖೆ ಎಚ್ಚರಿಕೆ ಏನು?](https://kannada.asianetnews.com/karnataka-districts/cyclone-arnab-will-karnataka-see-heavy-rain-weather-department-warn/articleshow-q0ltntn)
+- [ವಿಧಾನಸಭೆ: 'ಏನ್ ಮಾಡೋಕಾಗುತ್ತೆ ನಿಮ್ ಕೈಲಿ?..'  ಒಂದೇ ಜಿಲ್ಲೆಯ ಇಬ್ಬರು 'ಕೈ' ಶಾಸಕರ ನಡುವೆ ಗಲಾಟೆ!](https://kannada.asianetnews.com/politics/karnataka-assembly-why-did-bangarapet-mla-sn-narayanaswamy-and-kgf-mla-rupakala-shashidhar-clash-rav/articleshow-mzq4eke)
+- [Bengaluru: ಬರೋಬ್ಬರಿ 6 ಕೇಂದ್ರ ಸರ್ಕಾರಿ ಉದ್ಯೋಗ ಪಡೆದುಕೊಂಡ ಯುವತಿ; ಕೊನೆಗೆ ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡಿದ್ದು ಯಾವ ಕೆಲಸ?](https://kannada.asianetnews.com/india-news/young-woman-qualified-for-as-many-as-six-central-government-jobs-finally-got-appointment-letter-in-bengaluru-sns/articleshow-upopkkp)
 - [ಮುಖೇಶ್ ಅಂಬಾನಿ ಹಿಂದಿಕ್ಕಿ ಭಾರತದ ನಂ.1 ಶ್ರೀಮಂತರಾದ ಗೌತಮ್ ಅದಾನಿ; ಹಣವೆಷ್ಟಿದೆ ನೋಡಿ!](https://kannada.asianetnews.com/business/gautam-adani-overtakes-mukesh-ambani-hurun-india-no-1-rich-list-2026/articleshow-b1g414u)
 - [ಶಿಕ್ಷಣ ನೀತಿ ಬದಲಾಗದೆ ದೇಶ ಬದಲಾಗದು: ಡಾ. ಬಿಳಿಮಲೆ | ಚುನಾವಣೆ ವ್ಯವಸ್ಥೆ ಬಗ್ಗೆಯೂ ಕಳವಳ](https://kannada.asianetnews.com/education/dr-purushottama-bilimale-speaks-on-education-system-at-kannada-literary-conference-sheshadripura-rav/articleshow-af9g42n)
 - [ರಾಜ್ಯ ಸರ್ಕಾರದ ಆರ್ಥಿಕ ದಿವಾಳಿಗೆ ಬಿಜೆಪಿ ಖಂಡನೆ; ನಿನ್ನೆ ಚೊಂಬು ಚಳುವಳಿ, ಇಂದು ಶವಯಾತ್ರೆ ಪ್ರತಿಭಟನೆ](https://kannada.asianetnews.com/politics/karnataka-bjp-to-protest-against-congress-state-govt-s-financial-crisis-at-vidhana-soudha-sat/articleshow-39eht85)
@@ -97,13 +100,13 @@
 - [ಜಾತಕ ಸೆಪ್ಟೆಂಬರ್ 24: ಮೇಷ, ಮಿಥುನ ರಾಶಿಯವರಿಗೆ ಯಶಸ್ಸು + ಬಡ್ತಿಯ ಶುಭ ಸುದ್ದಿ, ಆರ್ಥಿಕ ಲಾಭದ ಯೋಗವಿರುತ್ತದೆ](https://kannada.asianetnews.com/daily-horoscope/today-prediction-horoscope-of-24-september-2026-suh/articleshow-pqg959l)
 - [ಪರೀಕ್ಷೆಯಲ್ಲಿ ಚೀಟಿಂಗ್ ಆರೋಪ, ಪ್ರೊಫೆಸರ್ ಜತೆ ಚರ್ಚೆ, ಬಳಿಕ ದುರಂತ! ಐಐಟಿ ಸ್ಟೂಡೆಂಟ್‌ ಕೊನೇ ದೃಶ್ಯ ಸಿಸಿಟಿವಿಯಲ್ಲಿ ವೈರಲ್!](https://kannada.asianetnews.com/viral/iit-bombay-sahil-wakode-case-cctv-footage-exam-hall-mobile-phone-professor-suryanarayana-doolla-mumbai-investigation-bmk/articleshow-iiwt5up)
 - [Bigg Boss ಕಾವ್ಯಾ ಶೈವ ಕ್ಯೂಟ್​ ಫೋಟೋಶೂಟ್​: ಏನಾದ್ರೂ ಗುಡ್​ ನ್ಯೂಸಾ? ನಟಿ ಸೈಲೆಂಟ್​](https://kannada.asianetnews.com/gallery/relationship/bigg-boss-kavya-shaivas-cute-photoshoot-is-it-any-good-news-actress-is-silent-suc-h79f3mx)
-- [ಜಪಾನ್‌ಗೆ ಹೋಗಿದ್ದು ಇದಕ್ಕೇನಾ? ಪತಿ ಬುಮ್ರಾಗೆ ಕ್ಲಾಸ್ ತೆಗೆದುಕೊಂಡ ಸಂಜನಾ ಗಣೇಶನ್](https://kannada.asianetnews.com/cricket-sports/jasprit-bumrah-wife-sanjana-ganeshan-comment-viral/articleshow-c8cefbz)
-- [MrBeast ತಿಂಗಳಿಗೆ ಕೋಟ್ಯಂತರ ರೂಪಾಯಿ ಸಂಪಾದಿಸೋದು ಹೇಗೆ? ಯೂಟ್ಯೂಬರ್ ಆಗಲು ಈ ಸೀಕ್ರೆಟ್ ಗೊತ್ತಿರಲಿ!](https://kannada.asianetnews.com/gallery/cine-world/how-much-does-mrbeast-earn-every-month-know-his-youtube-success-strategy-xzzogt0)
-- [Indian Railways: ಕಡಿಮೆ ದರದಲ್ಲಿ ಎಸಿ ಕೋಚ್‌ಗಳು! ಗರೀಬ್ ರಥ್ ಇಷ್ಟೊಂದು ಜನಪ್ರಿಯವಾಗಲು ಕಾರಣವೇನು? ರೈಲ್ವೆಯ ಮಾಸ್ಟರ್ ಪ್ಲಾನ್ ಇಲ್ಲಿದೆ!](https://kannada.asianetnews.com/karnataka-districts/garib-rath-express-indian-railways-low-cost-ac-train-2006-lalu-prasad-yadav-history-ticket-price-features-routes-bmk/articleshow-vl5i6ig)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ನಿದ್ದೆಗೆಡಿಸಿದ ಆ ಒಂದು ರಾತ್ರಿ! ಗಂಭೀರ್ ತೆಗೆದುಕೊಂಡ ಕಠಿಣ ನಿರ್ಧಾರ!](https://tv9kannada.com/sports/cricket-news/how-teen-sooryavanshi-gave-gautam-gambhir-a-sleepless-night-1241918.html)
+- [ನಂದಿನಿ ಹಾಲು ಲೀಟರ್‌ಗೆ 10 ರೂ ಹೆಚ್ಚಿಸಲು ಶಾಸಕರ ಪಟ್ಟು: ಸಿಎಂ ಡಿ.ಕೆ. ಶಿವಕುಮಾರ್‌ ಮೇಲೆ ಹೆಚ್ಚಿದ ಒತ್ತಡ](https://tv9kannada.com/videos/karnataka-mlas-demand-10-nandini-milk-price-hike-vijayendra-seeks-higher-subsidy-1241920.html)
+- [ಮೊಬೈಲ್ ಜಪ್ತಿ, ಪ್ರೊಫೆಸರ್ ಜತೆ ವಾಗ್ವಾದ: ಸಾಹಿಲ್ ಸಾವಿಗೂ ಮುನ್ನ ಐಐಟಿ ಬಾಂಬೆಯ ಪರೀಕ್ಷಾ ಕೊಠಡಿಯಲ್ಲಿ ನಡೆದಿದ್ದೇನು? ವಿಡಿಯೋ ಇಲ್ಲಿದೆ](https://tv9kannada.com/national/iit-bombay-death-sahil-wakodes-last-moments-in-exam-hall-and-caste-row-investigation-1241915.html)
 - [ಬೈಕ್ ಟ್ಯಾಕ್ಸಿಗೆ ಅನುಮತಿ: ಹೈಕೋರ್ಟ್ ತೀರ್ಪು ಪ್ರಶ್ನಿಸಿ ಸುಪ್ರೀಂಕೋರ್ಟ್ ಮೊರೆ ಹೋದ ಕರ್ನಾಟಕದ 5 ಆಟೋ, ಟ್ಯಾಕ್ಸಿ ಚಾಲಕರ ಸಂಘಟನೆಗಳು](https://tv9kannada.com/karnataka/bengaluru/bike-taxi-row-5-karnataka-auto-and-taxi-drivers-unions-move-supreme-court-challenging-high-court-order-1241912.html)
 - [ಏನಿದು ಐಪಿಎಲ್ ಮಿನಿ ಹರಾಜು? ಇದರ ನಿಯಮಗಳೇನು?](https://tv9kannada.com/sports/cricket-news/ipl-mini-auction-explained-everything-you-need-to-know-about-the-rules-and-guidelines-1241910.html)
 - [ಗ್ಲಾಮರ್ ಲೋಕದ ಧ್ರುವತಾರೆ ಸಿಲ್ಕ್ ಸ್ಮಿತಾ: ಬೆಳಕಿನ ಹಿಂದಿನ ಕತ್ತಲ ಜೀವನ](https://tv9kannada.com/entertainment/silk-smitha-the-glamour-queen-rise-tragic-fall-and-mysterious-final-days-1241911.html)
@@ -111,23 +114,21 @@
 - [ಆಸ್ಕರ್ ರೇಸ್‌ನಲ್ಲಿ ‘ಗೋಂಧಲ್’; ಅಸಮಾಧಾನ ಹೊರಹಾಕಿದ ಖ್ಯಾತ ನಿರ್ದೇಶಕ](https://tv9kannada.com/entertainment/bollywood/oscar-2027-anurag-kashyap-questions-gondhal-entry-director-santosh-davakhar-responds-1241904.html)
 - [ಯಮುನಾ ಎಕ್ಸ್‌ಪ್ರೆಸ್‌ವೇಯಲ್ಲಿ ಬೆಚ್ಚಿಬೀಳಿಸೊ ದುರಂತ: ಸ್ಲೀಪರ್ ಬಸ್‌ಗೆ ಬೆಂಕಿ ಹೊತ್ತಿಕೊಂಡು 9 ಮಂದಿ ಸಜೀವ ದಹನ](https://tv9kannada.com/national/yamuna-expressway-bus-fire-9-dead-in-sleeper-bus-blaze-safety-concerns-mount-1241903.html)
 - [ಅಜಿತ್ ಅಗರ್ಕರ್ ಅಧಿಕಾರಾವಧಿ ಅಂತ್ಯ: ಖಚಿತಪಡಿಸಿದ ಬಿಸಿಸಿಐ!](https://tv9kannada.com/sports/cricket-news/ajit-agarkar-to-exit-as-chief-selector-1241898.html)
-- [‘ದಿ ಬ್ಯಾಡ್ಸ್ ಆಫ್ ಬಾಲಿವುಡ್ ಸೀಸನ್ 2’ ಮೂಲಕ ಮತ್ತೆ ಬರಲು ರೆಡಿ ಆದ ಆರ್ಯನ್ ಖಾನ್](https://tv9kannada.com/entertainment/bollywood/aryan-khan-to-return-with-the-bads-of-bollywood-season-2-fans-gets-happy-1241899.html)
-- [ಹೊಸ ರೈಲುಗಳ ಸಂಚಾರಕ್ಕೆ ರೈಲ್ವೆ ಮಂಡಳಿ ಅನುಮೋದನೆ: ಶೀಘ್ರವೇ ನಮ್ಮ ಮೆಟ್ರೋ ಪಿಂಕ್​​ ಲೈನ್​​ ಕಾರ್ಯಾರಂಭ ಸಾಧ್ಯತೆ](https://tv9kannada.com/karnataka/bengaluru/big-boost-for-namma-metro-railway-board-grants-approval-for-beml-trains-on-pink-line-elevated-stretch-1241894.html)
-- [ಅರ್ನಬ್ ಚಂಡಮಾರುತ: ಆಂಧ್ರ-ಒಡಿಶಾ ತೀರದಲ್ಲಿ ಅಬ್ಬರಿಸಿದ ಮಳೆ, ಗಜಪತಿಯಲ್ಲಿ 1,500 ಜನರ ಸ್ಥಳಾಂತರ](https://tv9kannada.com/national/arnab-cyclone-red-alert-and-evacuations-as-storm-batters-andhra-odisha-coast-1241896.html)
 
 **Prajavani**
-- [‘ಬ್ಯಾನ್‌’ ಹೇಳಿಕೆಯಿಂದ ಅಡಿಕೆ ಬೆಲೆ ಕುಸಿತ: ಸಂಸದ ಬಿ.ವೈ. ರಾಘವೇಂದ್ರ](https://www.prajavani.net/district/shivamogga/arecanut-price-drop-shivamogga-mp-statement-farmers-concern-4283338)
-- [ಮಾಜಿ ಶಾಸಕರಿಂದ ಜನರ ಮಧ್ಯೆ ಬೆಂಕಿ ಹಚ್ಚುವ ಕೆಲಸ: ಶಾಸಕ ದೇವೇಂದ್ರಪ್ಪ ಆರೋಪ](https://www.prajavani.net/district/davanagere/jagaluru-mla-devendrappa-accuses-former-mlas-of-incitement-4283312)
-- [ಪೌರಕಾರ್ಮಿಕರ ಕಾಯಂ ಪ್ರಕ್ರಿಯೆ ಪಾರದರ್ಶಕ: ದಾವಣಗೆರೆ ಡಿಸಿ ಗಂಗಾಧರಸ್ವಾಮಿ](https://www.prajavani.net/district/davanagere/davanagere-pourakarmikara-permanent-process-transparent-4283288)
-- [ಮಲೇಬೆನ್ನೂರು: ನಾಲೆ ಕೊನೆ ಭಾಗಕ್ಕೆ ನೀರು ಹರಿಸಲು ರೈತರ ಆಗ್ರಹ](https://www.prajavani.net/district/davanagere/malabennur-bhadra-canal-water-demand-farmers-protest-4283333)
-- [ವಿಟಿಯುನಲ್ಲಿ ರಾಜ್ಯಕ್ಕೆ ಪ್ರಥಮ ರ‍್ಯಾಂಕ್: 12 ಪದಕಗಳೊಂದಿಗೆ ವಿದ್ಯಾರ್ಥಿಯ ಸಾಧನೆ](https://www.prajavani.net/district/davanagere/davanagere-jit-student-viswanath-achieves-gold-medals-4283505)
-- [ತಾಂಬಾ|2ನೇ ದಿನಕ್ಕೆ ಕಾಲಿಟ್ಟಿ ಧರಣಿ: ಅಧಿಕಾರಿಗಳ ಮನವೊಲಿಕೆಗೂ ಪಟ್ಟು ಬಿಡದ ರೈತರು](https://www.prajavani.net/district/vijayapura/farmers-protest-indi-chadchan-drought-relief-lake-water-4281930)
-- [ವಿಜಯಪುರ: ಅರ್ಕಾಟ್ ದರ್ಗಾ ಉರುಸ್ ಪ್ರಯುಕ್ತ  ಸದ್ಭಾವನಾ ಯಾತ್ರೆ](https://www.prajavani.net/district/vijayapura/vijayapura-arkat-dargah-urus-bhakti-sadbhavana-yatre-4283543)
-- [ಸ್ಮಶಾನ ಭೂಮಿ ರಕ್ಷಣೆ | ನಿರ್ಲಕ್ಷ್ಯ ಸಲ್ಲ: ವಿಜಯಪುರ  ಜಿಲ್ಲಾಧಿಕಾರಿ ಎಚ್ಚರಿಕೆ](https://www.prajavani.net/district/vijayapura/vijayapura-cremation-ground-protection-dc-warns-officials-4283330)
-- [ಒಮಾನ್ ಕರಾವಳಿಯಲ್ಲಿ ವಾಣಿಜ್ಯ ಹಡಗಿನ ಮೇಲೆ ದಾಳಿ: ಭಾರತ ಖಂಡನೆ](https://www.prajavani.net/news/india-news/oman-coast-commercial-ship-attack-india-condemns-4283858)
-- [ಇಂಡಿ, ಚಡಚಣ ಬರ ಘೋಷಣೆಗೆ ಆಗ್ರಹ: ಬಿಜೆಪಿಯಿಂದ ಜಿಲ್ಲಾಧಿಕಾರಿ ಕಚೇರಿ ಎದುರು ಧರಣಿ](https://www.prajavani.net/district/vijayapura/vijayapura-indi-chadachan-drought-declaration-protest-4283286)
+- [ಮಿತಿ ಮೀರಿದ ಸಾಲ, ಸರ್ಕಾರ ದಿವಾಳಿ: ನಿಖಿಲ್ ಕುಮಾರಸ್ವಾಮಿ ವಾಗ್ದಾಳಿ](https://www.prajavani.net/district/ramanagara/ramanagara-karnataka-government-debt-crisis-jds-attack-4283297)
+- [ಚೀನಾ, US ಎದುರಾಳಿಗಳಲ್ಲ ಎಂದ ಜಿನ್‌ಪಿಂಗ್: ಐತಿಹಾಸಿಕ ಕ್ಷಣಕ್ಕೆ ಟ್ರಂಪ್ ಸಾಕ್ಷಿ](https://www.prajavani.net/news/world-news/xi-jinping-visit-us-china-relations-trump-meeting-4283887)
+- [ಕೆಸರು ಗದ್ದೆಯಾದ ಚಿಕ್ಕ ಕಲ್ಬಾಳು ರಸ್ತೆ: ವಾಹನ ಸವಾರರ ಪರದಾಟ](https://www.prajavani.net/district/ramanagara/ramanagara-chikka-kalbalu-cheeluru-muddy-road-trouble-4283372)
+- [ಹಾರೋಹಳ್ಳಿ | ಬೈಕ್‌, ಮೊಬೈಲ್‌ ಕಳವು: ನಾಲ್ವರ ಬಂಧನ](https://www.prajavani.net/district/ramanagara/harohalli-police-arrest-four-for-bike-and-mobile-theft-4282955)
+- [ಬಿಡದಿ ಟೌನ್‌ಶಿಪ್ | ಮುಂದುವರಿದ ಧರಣಿ, ದಿನವಿಡೀ ರಸ್ತೆ ತಡೆ: ಸೀರೆಯಲ್ಲೇ ಪೆಂಡಾಲ್](https://www.prajavani.net/district/ramanagara/township-protest-6-4282979)
+- [ಹುಣಸೂರು | ಮನವಿ ನೀಡಿದರೂ ಸಿಗದ ಪರಿಹಾರ: ವಿದ್ಯುತ್‌ ಕಲ್ಪಿಸಲು ದಸಂಸ ಆಗ್ರಹ](https://www.prajavani.net/district/mysuru/hunsur-dasamsa-demands-electricity-connection-ambedkar-nagara-4283403)
+- [ಬಾಲಮುರಳಿಕೃಷ್ಣ ಸ್ವರ ಸಂಭ್ರಮ: ಮುದಗೊಳಿಸಿದ ವಿದ್ವಾನ್‌ ನೆಮ್ಮಾರ ಕಣ್ಣನ್ ನಾದಸ್ವರ](https://www.prajavani.net/district/mysuru/mysuru-balamuralikrishna-swara-sambrama-music-festival-4283454)
+- [ಕಬ್ಬಿಗೆ ಎಫ್‌ಆರ್‌ಪಿ | 10ರೊಳಗೆ ಏರಿಸದಿದ್ದರೆ ಹೋರಾಟ: ಕುರುಬೂರು ಶಾಂತಕುಮಾರ್‌](https://www.prajavani.net/district/mysuru/sugarcane-frp-hike-farmers-protest-warning-karnataka-4282155)
+- [ನೋಯ್ಡಾದಲ್ಲಿ ಬಸ್‌ಗೆ ಬೆಂಕಿ: 9 ಮಂದಿ ಸಜೀವ ದಹನ, ಹಲವರಿಗೆ ಗಾಯ](https://www.prajavani.net/news/india-news/noida-yamuna-expressway-bus-fire-tragedy-deaths-4283886)
+- [ಪೌರಕಾರ್ಮಿಕರು ಸ್ವಚ್ಛತೆಯ ಶಿಲ್ಪಿಗಳು: ಸಂಸದ ಯದುವೀರ್‌](https://www.prajavani.net/district/mysuru/pourakarmika-day-mysuru-yaduveer-speech-4282197)
 
 **eedina**
+- [ಉತ್ತರ ಕನ್ನಡ | ಅಂಗನವಾಡಿ, ಶಾಲೆ, ಆಸ್ಪತ್ರೆಗಳಿಗೆ ಆದ್ಯತೆಯ ಮೇರೆಗೆ ಕುಡಿಯುವ ನೀರು: ಸಿಇಒ ಡಾ. ದಿಲೀಷ್ ಶಶಿ](https://eedina.com/?p=765605)
 - [ಬೀದರ್‌ | ಗಣೇಶ ವಿಸರ್ಜನೆ ಮೆರವಣಿಗೆ ವೇಳೆ ದಲಿತರ ಯುವಕರ ಮೇಲೆ ಹಲ್ಲೆ, 8 ಜನರ ವಿರುದ್ಧ ಎಫ್‌ಐಆರ್](https://eedina.com/?p=765594)
 - [ರಾಯಚೂರು | ಮತದಾರರ ಪಟ್ಟಿಯಲ್ಲಿ ತಾರತಮ್ಯ, ಗಣ್ಯರ ಹೆಸರು ಡಿಲೀಟ್ ಮಾಡಿ ಮತ್ತೆ ಸೇರ್ಪಡೆ:  ಪ್ರಕಾಶ್ ರಾಜ್](https://eedina.com/?p=765592)
 - [ಯಾದಗಿರಿ | ಎಸ್‌ಐಆರ್ ವಿರುದ್ಧ ‘ಪರಿಶೋಧನೆ, ಪ್ರತಿರೋಧ’ ಪ್ರವಾಸ: ‘ಅರ್ಹ ಮತದಾರನೊಬ್ಬನೂ ಹೊರಗುಳಿಯಬಾರದು’: ಬಹುಭಾಷ ನಟ ಪ್ರಕಾಶ್ ರೈ](https://eedina.com/?p=765581)
@@ -137,38 +138,37 @@
 - [ಗದಗ | ಮಾರಕಾಸ್ತ್ರಗಳಿಂದ ವ್ಯಕ್ತಿ ಕೊಲೆ](https://eedina.com/?p=765564)
 - [ಧಾರವಾಡ | ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಹೆಚ್ಚಿನ ಕಾಳಜಿ ವಹಿಸಿ: ಎಸ್.ಎಫ್. ಸಿದ್ದನಗೌಡರ](https://eedina.com/?p=765561)
 - [ಧಾರವಾಡ | ಅಕ್ಟೋಬರ್ 23ರಂದು ಪಶ್ಚಿಮ ಪದವೀಧರ ಕ್ಷೇತ್ರ ಚುನಾವಣೆ](https://eedina.com/?p=765557)
-- [ಹಾವೇರಿ | ಸತ್ತಳೆಂದು ಅಂತ್ಯಕ್ರಿಯೆ ಸಿದ್ದತೆ ವೇಳೆ, ಸಾವಿನಂಚಿನಿಂದ ಪಾರಾದ ಅಜ್ಜಿ](https://eedina.com/?p=765554)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (3.9)
-- Iran (3.2)
+- India (5.2)
+- Iran (4.5)
+- Asian Games (4.0)
 - Delhi (3.2)
 - Yamuna Expressway (3.0)
-- Asian Games (3.0)
-- Russia (2.9)
-- Ukraine (2.9)
-- Zelensky (2.6)
-- Oman (2.6)
+- LIVE (2.6)
 - Veeramani (2.6)
-- UNGA (2.6)
+- Bengaluru (2.6)
 - Phone (2.0)
-- Election Commission (2.0)
-- Greater Noida (2.0)
 - CEC Gyanesh Kumar (2.0)
+- Police (1.6)
+- Watch (1.6)
+- Russia (1.6)
+- Ukraine (1.6)
+- Chennai (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [A planet 64 light-years away is sending radio signals; astronomers trace their source to auroras on the distant world](https://timesofindia.indiatimes.com/science/space/a-planet-64-light-years-away-is-sending-radio-signals-astronomers-trace-their-source-to-auroras-on-the-distant-world/articleshow/134440284.cms)
-- [Supreme Court Judges Urge CJI To Consider Constituting Permanent Constitution Bench, Flag Years-Long Delay In References](https://www.livelaw.in/top-stories/supreme-court-judges-urge-cji-to-consider-constituting-permanent-constitution-bench-flag-years-long-delay-in-references-551505)
-- [UNGA में ईरान के राष्ट्रपति का ट्रंप को पलटवार, बोले- 'हम खुद आतंकवाद..'](https://www.abplive.com/news/world/iranian-president-masoud-pezeshkian-hits-back-at-trump-at-unga-we-are-victims-of-terrorism-3192893)
-- [अमिताभ-सलमान को पछाड़ शाहरुख खान बने भारत के सबसे अमीर एक्टर, जानें कितनी है किंग खान की नेटवर्थ](https://www.livehindustan.com/entertainment/bollywood/shah-rukh-khan-is-indias-richest-actor-with-10-thousand-networth-201790171728110.html)
-- [Asian Games 2026: गर्व कीजिए! 75 साल के इतिहास में जो कभी नहीं हुआ, वो इन तीन बेटियों ने कर दिखाया](https://navbharattimes.indiatimes.com/sports/asian-games/news/maheshwari-chauhan-parinaaz-dhaliwal-raiza-dhillon-profile-win-first-women-skeet-team-medal-for-india-in-asian-games/articleshow/134440026.cms)
-- [No Dhanush vs Rajinikanth: ‘Om’ postponed to avert clash with ‘Jailer 2’](https://www.thehindu.com/entertainment/movies/dhanush-rajinikanth-om-chapter-1-postponed-jailer-2-suriya-scene/article71500363.ece)
-- [VIDEO: પાકિસ્તાની જાસૂસ બન્યો આયુષ્માન ખુરાના, પછી ભારતની ભક્તિ, મજેદાર છે ફિલ્મ 'ઉડતા તીર'નું ટ્રેલર](https://www.gujaratsamachar.com/news/entertainment/ayushmann-khurrana-udta-teer-trailer-comedy-spy-thriller-81032296268)
-- [સોનાના ભાવમાં સતત ત્રીજા દિવસે મોટો કડાકો: જાણો 24, 22 અને 18 કેરેટ સોનાના આજના લેટેસ્ટ ભાવ](https://gujarati.abplive.com/news/business/gold-price-today-falls-third-straight-day-24-22-18-carat-rates-update-991897)
-- ['১৪০০ পদ পূরণ করব খুব দ্রুত', দমকল বিভাগে নিয়োগের আশ্বাস মুখ্যমন্ত্রীর...](https://bengali.abplive.com/district/suvendu-adhikari-announces-1-400-personnel-to-be-recruited-in-the-state-fire-and-emergency-services-department-1193930)
-- [ഹോർമൂസ് കടലിടുക്കിൽ ചരക്ക് കപ്പലിന് നേരെ ആക്രമണം; രണ്ട് ജീവനക്കാർക്ക് പരിക്ക്](https://www.reporterlive.com/topnews/international/2026/09/23/hormuz-strait-cargo-ship-attack-two-crew-members-injured)
+- [Pezeshkian says Iran won't surrender, after Trump's annihilation threat](https://www.reuters.com/world/middle-east/hope-progress-after-us-iran-hold-first-shuttle-talks-months-2026-09-23/)
+- ['Terrorist' or 'victims of terrorism'? Iran's Pezeshkian takes Trump head-on at UNGA](https://timesofindia.indiatimes.com/world/us/terrorist-or-victims-of-terrorism-irans-pezeshkian-takes-trump-head-on-at-unga/articleshow/134441135.cms)
+- [40 करोड़ की एडवांस बुकिंग! 'द पैराडाइज' ने रिलीज से पहले मचाया गदर, बनी नानी के करियर की सबसे बड़ी ओपनर](https://www.abplive.com/entertainment/bollywood/the-paradise-day-1-box-office-collection-nani-film-advance-booking-report-biggest-opener-3192897)
+- [Ram Charan: చిరంజీవి 48 ఏళ్ల సినీ ప్రస్థానం.. ‘50 ఏళ్ల మైల్ స్టోన్ కోసం ఎదురుచూస్తున్నా’ అంటూ రామ్ చరణ్ ఎమోషనల్ పోస్ట్‌](https://telugu.samayam.com/telugu-movies/cinema-news/ram-charan-shares-emotional-note-on-chiranjeevi-48-years-in-film-industry/articleshow/134441138.cms)
+- [ഇന്ത്യ-വെസ്റ്റ് ഇന്‍ഡീസ് ഏകദിന പരമ്പര; വിരാട് കോഹ് ലി തിരുവനന്തപുരത്തെത്തി](https://www.thejasnews.com/sports/cricket/india-west-indies-odi-series-virat-kohli-in-thiruvananthapuram-271990)
+- [Aaditya Thackeray : सतीश सालियन यांच्या नोटिशीला आदित्य ठाकरेंचे उत्तर, बदनामीचा कोणताही हेतू नसल्याचा दावा](https://marathi.abplive.com/news/mumbai/aaditya-thackeray-reply-to-satish-salian-notice-disha-salian-case-mumbai-marathi-news-1440027)
+- [UNGAના સ્ટેજ પર આવતા ઈરાનના રાષ્ટ્ર પ્રમુખ પેજેશ્કિયાનનો ટ્રમ્પ પર પ્રહાર, સુપ્રીમ લીડરની હત્યાની અપાવી યાદ](https://www.gujaratsamachar.com/news/international/iranian-president-pjeshkian-attacks-trump-on-unga-stage-reminds-of-supreme-leaders-assassination-44141178758)
+- [സംസ്ഥാനത്തെ വൈദ്യുതി പ്രതിസന്ധി: പരിഹാരം കാണാൻ മുഖ്യമന്ത്രി വിളിച്ച ഉന്നതതല യോഗം നാളെ](https://www.asianetnews.com/kerala-news/kerala-state-power-crisis-kseb-high-level-meeting-called-by-cm-vd-satheesan-today-articleshow-6lagbun)
+- [బాలయ్య యాక్షన్ సీన్ క్లిప్ తో ట్రంప్ కు ఇరాన్ ఘాటు కౌంటర్..!](https://telugu.oneindia.com/news/international/iran-embassy-trolls-trump-with-balakrishna-movie-clip-over-annihilate-iran-remark-507615.html)
+- [Tata Trusts, Tata Sons board unaware of N Chandrasekaran family’s TVS link](https://indianexpress.com/article/business/tata-trusts-chandrasekaran-family-tvs-motor-deal-disclosure-questions-10891097/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
