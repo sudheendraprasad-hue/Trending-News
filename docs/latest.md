@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-25 19:33:15
+# India Trending Report — 2026-09-25 20:01:47
 
 ## Google Trends (India) — top trending searches
-1. [france](https://trends.google.com/trending/rss?geo=IN)
-2. [africa cup of nations qualification](https://trends.google.com/trending/rss?geo=IN)
-3. [algeria vs zambia](https://trends.google.com/trending/rss?geo=IN)
-4. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
-5. [mali vs cabo verde](https://trends.google.com/trending/rss?geo=IN)
-6. [morocco vs gabon](https://trends.google.com/trending/rss?geo=IN)
-7. [sweden vs romania](https://trends.google.com/trending/rss?geo=IN)
-8. [egypt vs angola](https://trends.google.com/trending/rss?geo=IN)
-9. [poland vs bosnia and herzegovina](https://trends.google.com/trending/rss?geo=IN)
-10. [kallakkadal](https://trends.google.com/trending/rss?geo=IN)
+1. [mika godts](https://trends.google.com/trending/rss?geo=IN)
+2. [france](https://trends.google.com/trending/rss?geo=IN)
+3. [africa cup of nations qualification](https://trends.google.com/trending/rss?geo=IN)
+4. [algeria vs zambia](https://trends.google.com/trending/rss?geo=IN)
+5. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
+6. [mali vs cabo verde](https://trends.google.com/trending/rss?geo=IN)
+7. [morocco vs gabon](https://trends.google.com/trending/rss?geo=IN)
+8. [sweden vs romania](https://trends.google.com/trending/rss?geo=IN)
+9. [egypt vs angola](https://trends.google.com/trending/rss?geo=IN)
+10. [poland vs bosnia and herzegovina](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -62,18 +62,20 @@
 - [ಅಮೆರಿಕ ಭಾಗಶಃ ಷರತ್ತು ಈಡೇರಿಸಿದರೆ ಹರ್ಮುಜ್‌ ಮುಕ್ತ, ಪರಮಾಣು ಕಾರ್ಯಕ್ರಮ ಮಾತುಕತೆಗೂ ಸಿದ್ಧ: ಇರಾನ್ ಹೊಸ ಪ್ರಸ್ತಾಪ](https://vijaykarnataka.com/news/world/irans-new-proposal-if-usa-partially-meets-conditions-within-a-week-strait-of-hormuz-will-open/articleshow/134490418.cms)
 
 **The Hindu**
+- [M.P. gets govt. bus service after 21 years; 351 buses flagged off](https://www.thehindu.com/news/national/madhya-pradesh/mp-getsgovt-bus-service-after-21-years-351-buses-flagged-off/article71509637.ece)
+- [Foreign buyers impressed by experiential tourism avenues in Keralam](https://www.thehindu.com/news/national/kerala/foreign-buyers-impressed-by-experiential-tourism-avenues-in-keralam/article71509052.ece)
+- [VCK councillors stage walk out over placement of Ambedkar’s photo in Chennai Corporation council hall](https://www.thehindu.com/news/cities/chennai/vck-councillors-stage-walk-out-over-placement-of-ambedkars-photo-in-chennai-corporation-council-hall/article71508719.ece)
+- [Hyderabad Metro Rail Phase-I takeover, Phase-II expansion hit roadblock as funding search drags on](https://www.thehindu.com/news/national/telangana/hyderabad-metro-rail-phase-i-takeover-phase-ii-expansion-hit-roadblock-as-funding-search-drags-on/article71509329.ece)
+- [A laddu mirroring the changing fortunes of Balapur](https://www.thehindu.com/news/national/telangana/a-laddu-mirroring-the-changing-fortunes-of-balapur/article71509261.ece)
+- [Narrowed posture: On Karnataka and the Kasturirangan Report](https://www.thehindu.com/opinion/editorial/narrowed-posture-on-karnataka-and-the-kasturirangan-report/article71508916.ece)
 - [1,671 km of stormwater drains being desilted: Chennai Mayor](https://www.thehindu.com/news/national/tamil-nadu/1671-km-of-stormwater-drains-being-desilted-chennai-mayor/article71510339.ece)
 - [Rani Channamma University officials held over fraud allegations](https://www.thehindu.com/news/national/karnataka/rani-channamma-university-officials-held-over-fraud-allegations/article71508843.ece)
 - [Railways to run 102 festival special trips via Solapur division](https://www.thehindu.com/news/national/karnataka/railways-to-run-102-festival-special-trips-via-solapur-division/article71509426.ece)
 - [Blood donation camp held in Raichur](https://www.thehindu.com/news/national/karnataka/blood-donation-camp-held-in-raichur/article71508760.ece)
-- [AIADMK not agreeing to field a common candidate reason for not extending support: PMK](https://www.thehindu.com/news/national/tamil-nadu/aiadmk-not-agreeing-to-field-a-common-candidate-reason-for-not-extending-support-pmk/article71510149.ece)
-- [Magistrate court directs police to investigate actor Ansiba Hassan’s petition against Lakshmi Priya](https://www.thehindu.com/news/national/kerala/magistrate-court-directs-police-to-investigate-actor-ansiba-hassans-petition-against-lakshmi-priya/article71509725.ece)
-- [Police issue summons to Anto Augustine over comments about Chief Minister V.D. Satheesan](https://www.thehindu.com/news/national/kerala/police-issue-summons-to-anto-augustine-over-comments-about-chief-minister-vd-satheesan/article71509634.ece)
-- [Belagavi firm Aequs gets approval for ₹650-crore equity infusion](https://www.thehindu.com/news/national/karnataka/belagavi-firm-aequs-gets-approval-for-650-crore-equity-infusion/article71510170.ece)
-- [KSEB’s Anti Power Theft Squad unearths irregularities in Ernakulam district](https://www.thehindu.com/news/national/kerala/ksebs-anti-power-theft-squad-unearths-irregularities-in-ernakulam-district/article71509594.ece)
-- [Swell surges alert for Keralam coast from September 26 to 28](https://www.thehindu.com/news/national/kerala/swell-surges-alert-for-keralam-coast-from-september-26-to-28/article71510298.ece)
 
 **Livemint**
+- [ICE Enforcement Hits Kansas Meatpacking Operations, Ranchers Say](https://www.livemint.com/news/us-news/ice-enforcement-hits-kansas-meatpacking-operations-ranchers-say-11790365423991.html)
+- [Kaun Banega Crorepati 18: Noida techie faces  ₹25 lakh Dead Sea question — here’s why he decided to quit](https://www.livemint.com/news/trends/kbc-18-noida-techie-faces-rs-25-lakh-dead-sea-question-here-s-why-he-decided-to-quit-11790362346449.html)
 - [Westbury high school: Houston ISD student shot dead on Dryad Street near campus; no suspect arrested yet](https://www.livemint.com/news/us-news/westbury-high-school-houston-isd-student-shot-dead-on-dryad-street-near-campus-no-suspect-arrested-yet-11790359105178.html)
 - [Airbus detects quality issue in A321 neo fuselage coating; around a dozen IndiGo aircraft impacted](https://www.livemint.com/news/india/airbus-detects-quality-issue-in-a321neo-fuselage-coating-around-a-dozen-indigo-aircraft-impacted-11790358422246.html)
 - [What is Bhajan Clubbing? PM Modi attends Delhi event marking Deendayal Upadhyaya’s birth anniversary](https://www.livemint.com/news/india/what-is-bhajan-clubbing-pm-modi-attends-delhi-event-marking-deendayal-upadhyaya-s-birth-anniversary-11790355872549.html)
@@ -82,8 +84,6 @@
 - [Who is Mandeep K Bhandari? Meet the new CBSE chairman — an IAS officer with medical background](https://www.livemint.com/news/india/who-is-mandeep-k-bhandari-meet-the-new-cbse-chairman-an-ias-officer-with-medical-background-11790355333975.html)
 - [US proposes new trilateral peace talks with Russia and Ukraine in UAE: Zelensky](https://www.livemint.com/news/world/us-proposes-new-trilateral-peace-talks-with-russia-and-ukraine-in-uae-zelensky-11790345229479.html)
 - [Weather tomorrow: IMD issues red, orange alerts across several Uttarakhand districts for Sep 26, 27; CM Dhami reacts](https://www.livemint.com/news/india/uttarakhand-weather-forecast-imd-issues-red-orange-yellow-alerts-across-13-districts-on-sep-26-27-cm-dhami-rea-11790347136838.html)
-- [US Army plans for possible Cuba operation: Police, medical units could be ready within 120 days — Report](https://www.livemint.com/news/us-news/us-army-plans-for-possible-cuba-operation-police-medical-units-could-be-ready-within-120-days-report-11790345861778.html)
-- [Dolly Parton Day: How Nashville is turning 25 September into a citywide tribute to the music icon](https://www.livemint.com/news/trends/dolly-parton-day-how-nashville-is-turning-25-september-into-a-citywide-tribute-to-the-music-icon-11790342161717.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -151,34 +151,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (3.9)
-- September (3.9)
 - What (2.6)
 - Delhi (2.6)
 - Case (2.6)
 - Odisha (2.6)
 - Airbus (2.6)
 - IndiGo (2.6)
-- Report (2.6)
-- Police (2.6)
 - Veeramani Sexual Abuse (2.0)
-- Chief (1.6)
 - Mandeep (1.6)
 - Bhandari (1.6)
 - CBSE (1.6)
+- Stalin (1.6)
+- Open (1.6)
+- Vijay (1.6)
+- Jaishankar (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Savita Malpekar On Lalbaugcha Raja, Mumbaicha Raja: 'लालबागचा राजा'ला तेव्हा फुटाणे द्यायलाही कुणी नसायचं...'; मराठी अभिनेत्रीनं आढेवेढे न घेता थेटच सांगितलं, 'मुंबईचा राजा'बद्दल म्हणाली...](https://marathi.abplive.com/entertainment/savita-malpekar-on-lalbaugcha-raja-mumbaicha-raja-ganeshgalli-lalbaug-parel-kalachowki-ganesh-visarjan-2026-marathi-news-1440202)
-- [Election Commission row LIVE: CJP founder Dipke urges Opposition to boycott ‘rigged’ elections](https://www.thehindu.com/news/national/election-commission-row-live-ec-faces-fresh-credibility-crisis-amid-new-allegations-against-cec/article71507022.ece)
-- [മുഖ്യമന്ത്രിയുടെ ചാർട്ടേർഡ് ഫ്ലൈറ്റ് യാത്രയിൽ നീങ്ങാത്ത ദുരൂഹത; ഉത്തരം കിട്ടാൻ ബുധനാഴ്ച വരെ കാത്തിരിക്കണം](https://www.asianetnews.com/kerala-news/mystery-behind-the-chief-minister-vd-satheesan-chartered-flight-journey-articleshow-dyvolca)
-- [മത്സരയോട്ടവും കയ്യാങ്കളിയും: പെർമിറ്റ് റദാക്കിയേക്കും- Private Bus Rash Driving](https://www.manoramaonline.com/news/latest-news/2026/09/25/rash-driving-brawl-kochi-bus-permits-cancelled.html)
-- [Raj Thackeray: सत्तेतील रेडे 'ज्ञानेशा'कडून वेद वदवतायंत; नुकतीच झालेली संपूर्ण SIR प्रक्रिया रद्द करा, राज ठाकरेंची मागणी](https://marathi.abplive.com/news/politics/raj-thackeray-demands-the-cancellation-of-the-recently-sir-process-election-commission-dnyanesh-kumar-for-bjp-1440205)
-- ['പിഞ്ചുമക്കളുടെ മുഖം കണ്ടപ്പോൾ ആത്മഹത്യ ചെയ്യാൻ തോന്നിയില്ല'-തുറന്നുപറഞ്ഞ് മേരി കോം](https://www.mathrubhumi.com/sports/news/mary-kom-bigg-boss-20-suicidal-thoughts-revelation-mmbc6km2)
-- [മുട്ടിൽ മരംമുറി കേസ്: വനംവകുപ്പിന് തിരിച്ചടി; വനത്തിൽ നിന്ന് മരംമുറിച്ചെന്ന് തെളിയിക്കാനായില്ല](https://www.reporterlive.com/topnews/kerala/2026/09/25/muttill-tree-felling-case-forest-department-fails-to-prove-illegal-tree-cutting)
-- [കണ്ണൂരിൽ ഫിസിയോ തെറാപ്പിക്കിടെ യുവതിയെ പീഡിപ്പിക്കാൻ ശ്രമം; ഫിസിയോതെറാപ്പിസ്റ്റ് അറസ്റ്റിൽ](https://malayalam.news18.com/news/crime/physiotherapist-arrested-for-attempted-assault-during-therapy-session-in-kannur-srn-ws-l-789957.html)
-- [புதுக்குளம் பகுதி சாலைகளில் லாரிகளில் இருந்து சிதறும் கற்கள்](https://www.dinakaran.com/news/stones-scattering-lorries-pudhukulam-road/)
-- [புதுக்குளம் பகுதி சாலைகளில் லாரிகளில் இருந்து சிதறும் கற்கள்](https://www.dinakaran.com/news/stones-scattering-lorries-pudhukulam-road/amp/?utm=relatedarticles)
+- [आईआईटी बॉम्बे के छात्र की मौत के मामले में माता](https://www.bbc.com/hindi/articles/cqlyl995e83no)
+- [जिनपिंग को दिखाया 50 करोड़ का हेलीपैड, B2 बॉम्बर से सलामी... ट्रंप का शोऑफ!](https://www.aajtak.in/world/story/white-house-new-granite-helipad-trump-xi-jinping-marine-one-cost-ntc-mnrd-dskc-2652830-2026-09-25)
+- [কেন সদস্যপদ বাতিল হবে না রচনা, শতাব্দীদের? NCPI সাংসদদের দিতে হবে জবাব, ১ মাস চেয়েছিলেন, কমিয়ে কতদিন সময় বেঁধে দিল স্পিকার অফিস](https://bengali.news18.com/news/kolkata/speakers-office-has-set-a-deadline-for-ncpi-mps-to-answer-why-their-membership-should-not-be-cancelled-ank-2907001.html)
+- [ব্রাজ়িল-আমেরিকা থেকে তুরস্ক-সাইপ্রাস! লড়াই থামানোর বিশ্বমঞ্চেও ‘যুদ্ধং দেহি’ রাষ্ট্রনেতারা! দিন ঘনিয়ে আসছে রাষ্ট্রপুঞ্জের?](https://www.anandabazar.com/photogallery/from-kashmir-to-iran-what-issues-were-raised-by-world-leaders-including-donald-trump-at-un-general-assembly-dgtl-photogallery-prnt/cid/1715341)
+- [भारत वेस्ट इंडिज रविवारी पहिला वनडे सामना, विराटच्या टार्गेटर सचिनचा विक्रम; किती वाजता सुरू होणार?](https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-wiodiseries-first-odi-match-virat-kohli-can-break-sachin-tendulkar-record/articleshow/134478999.cms)
+- [নন্দীগ্রামের কংগ্রেস প্রার্থী মিলন প্রধানের গ্রেফতারির সিদ্ধান্ত খারিজ, ডিভিশন বেঞ্চে রাজ্য সরকার](https://bengali.abplive.com/district/nandigram-congress-candidate-milan-prodhan-case-state-government-go-to-division-bench-breaking-news-1194099)
+- [Chandigarh cop shot dead at Sector 22 home, son apprehended for questioning](https://www.tribuneindia.com/news/chandigarh/chandigarh-cop-shot-dead-at-sector-22-home-son-prime-accused-in-case/)
+- [११ वर्षांत दुष्काळाचा सातवा फेरा; यंदा दुष्काळाची परिस्थिती अतिभीषण](https://marathi.freepressjournal.in/maharashtra/maharashtra-drought-crisis-11-years-seventh-drought-cycle)
+- [Asian Games: कबड्डी में भारत का फिर ‘राजतिलक’, पुरुष-महिला फाइनल में… 11 गोल्ड के बाद अब 12वें की हुंकार!](https://www.aajtak.in/sports/asian-games/story/india-kabaddi-men-women-final-asian-games-2026-11-gold-bmsp-dskc-2652872-2026-09-25)
+- [Can your lungs repair themselves if you quit smoking? Pulmonologist Dr Samir Garde says NOT all damage is REVERSIBLE](https://www.hindustantimes.com/lifestyle/health/world-lung-day-can-your-lungs-repair-themselves-if-you-quit-smoking-a-pulmonologist-says-not-all-damage-is-reversible-101790320231823.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
