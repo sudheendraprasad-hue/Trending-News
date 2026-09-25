@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-25 20:01:47
+# India Trending Report — 2026-09-25 20:35:26
 
 ## Google Trends (India) — top trending searches
-1. [mika godts](https://trends.google.com/trending/rss?geo=IN)
-2. [france](https://trends.google.com/trending/rss?geo=IN)
-3. [africa cup of nations qualification](https://trends.google.com/trending/rss?geo=IN)
-4. [algeria vs zambia](https://trends.google.com/trending/rss?geo=IN)
-5. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
-6. [mali vs cabo verde](https://trends.google.com/trending/rss?geo=IN)
-7. [morocco vs gabon](https://trends.google.com/trending/rss?geo=IN)
-8. [sweden vs romania](https://trends.google.com/trending/rss?geo=IN)
-9. [egypt vs angola](https://trends.google.com/trending/rss?geo=IN)
-10. [poland vs bosnia and herzegovina](https://trends.google.com/trending/rss?geo=IN)
+1. [france football](https://trends.google.com/trending/rss?geo=IN)
+2. [mika godts](https://trends.google.com/trending/rss?geo=IN)
+3. [france](https://trends.google.com/trending/rss?geo=IN)
+4. [africa cup of nations qualification](https://trends.google.com/trending/rss?geo=IN)
+5. [algeria vs zambia](https://trends.google.com/trending/rss?geo=IN)
+6. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
+7. [mali vs cabo verde](https://trends.google.com/trending/rss?geo=IN)
+8. [morocco vs gabon](https://trends.google.com/trending/rss?geo=IN)
+9. [sweden vs romania](https://trends.google.com/trending/rss?geo=IN)
+10. [egypt vs angola](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [India is kicking car safety into top gear with Bharat NCAP 2.0: What you need to know](https://timesofindia.indiatimes.com/india/5-ways-india-is-kicking-car-safety-into-top-gear-with-bharat-ncap-2-0-what-buyers-need-to-know/articleshow/134487081.cms)
 - [UP polls: Why Akhilesh’s ‘rath’ show in Raebareli is message for Rahul](https://timesofindia.indiatimes.com/india/2027-up-assembly-polls-fight-against-bjp-or-congress-why-akhileshs-rath-show-in-raebareli-is-message-for-rahul/articleshow/134487928.cms)
+- [Pakistan PM draws ‘red line’ over Mecca at UN, defends Saudi-Türkiye defence pact](https://timesofindia.indiatimes.com/world/pakistan/no-muslim-can-even-dare-pakistan-pm-at-un-condemns-houthi-attacks-draws-red-line-over-mecca/articleshow/134492050.cms)
 - [Trump embraces Xi as peer, alarms partners and critics](https://timesofindia.indiatimes.com/world/us/trump-embraces-xi-as-peer-alarms-partners-and-critics/articleshow/134489947.cms)
 - [NDA unease over EC-SIR row? 3 BJP allies seek answers as oppn turns up heat](https://timesofindia.indiatimes.com/india/unease-within-nda-over-ec-sir-row-three-bjp-allies-seek-clarification-as-opposition-keeps-up-pressure/articleshow/134488531.cms)
-- [Hardik Pandya set to miss India A fixtures; racing against time for New Zealand tour](https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandya-set-to-miss-india-a-fixtures-racing-against-time-for-new-zealand-tour-exclusive/articleshow/134489676.cms)
 - [Zuckerberg’s $300m superyacht docks in Japan, gets neighbour who once wanted Meta out](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-300-million-superyacht-docked-in-japan-for-the-first-time-launchpad-has-a-new-neighbour-the-billionaire-who-once-wanted-meta-suspend-its-japanese-operations/articleshow/134478817.cms)
-- [Why Trump's F-35 deal with Saudi Arabia unsettles Israel, opens big door for China](https://timesofindia.indiatimes.com/world/middle-east/trumps-48-f-35-jets-for-saudi-arabia-why-is-israel-uneasy-and-china-a-key-concern/articleshow/134479408.cms)
+- [Hardik Pandya set to miss India A fixtures; racing against time for New Zealand tour](https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandya-set-to-miss-india-a-fixtures-racing-against-time-for-new-zealand-tour-exclusive/articleshow/134489676.cms)
 - [Nebraska couple lost $59,759 home over $588 tax debt; compensation claim revived](https://timesofindia.indiatimes.com/world/us/a-nebraska-couple-lost-a-mortgage-free-home-assessed-at-59759-after-a-588-21-tax-debt-grew-to-5268-32-the-us-supreme-court-sent-the-case-back-and-nebraskas-top-court-revived-the-compensation-claim/articleshow/134486717.cms)
 - [Tom Brady vs Patrick Mahomes: Why TB12 Foundation can't match 15 and Mahomies](https://timesofindia.indiatimes.com/sports/nfl/news/tom-brady-vs-patrick-mahomes-why-tb12-foundation-could-never-match-15-and-the-mahomies/articleshow/134486061.cms)
-- [Trump-Xi bonhomie set to continue, leaders announce two more meetings](https://timesofindia.indiatimes.com/world/us/trump-xi-bonhomie-set-to-continue-leaders-announce-two-more-meetings/articleshow/134490297.cms)
+- [Why Trump's F-35 deal with Saudi Arabia unsettles Israel, opens big door for China](https://timesofindia.indiatimes.com/world/middle-east/trumps-48-f-35-jets-for-saudi-arabia-why-is-israel-uneasy-and-china-a-key-concern/articleshow/134479408.cms)
 
 **NDTV**
 - ["Spectacular": PM Modi Takes Part In Bhajan Clubbing Event In Delhi](https://www.ndtv.com/india-news/spectacular-pm-modi-takes-part-in-bhajan-clubbing-event-in-delhi-12099219#publisher=newsstand)
@@ -55,7 +55,7 @@
 - [ಬಿಡದಿ ರೈತರ ಹೋರಾಟ: ಭೈರಮಂಗಲ ರಸ್ತೆತಡೆ ಚಳವಳಿಗೆ ಪೊಲೀಸರ ಬ್ರೇಕ್‌; ಶುಕ್ರವಾರ ಇಡೀ ದಿನ ನಡೆದದ್ದೇನು?](https://vijaykarnataka.com/news/ramanagara/bidadi-farmers-protest-police-halt-byramangala-road-blockade/articleshow/134491070.cms)
 - [ಪತಿಯ ಜೊತೆ ಸದಾ ಇರಲು ಸಾಧ್ಯವಿಲ್ಲ, ಆದರೂ ನಾವು ಖುಷಿಯಾಗಿದ್ದೇವೆ, ಶ್ರೇಯಾ ಘೋಷಾಲ್ ಹೇಳಿದ ಸಂತೋಷದ ದಾಂಪತ್ಯದ ಗುಟ್ಟು](https://vijaykarnataka.com/lifestyle/relationship/shreya-ghoshal-secret-to-happy-marriage-busy-life/articleshow/134488062.cms)
 - [ಅನುಕಂಪದ ನೇಮಕ ಒಮ್ಮೆ ನೀಡುವ ಹರಿಹಾರವೇ ಹೊರತು ನಿರಂತರ ಸೌಲಭ್ಯ ಪಡೆವ ಹಕ್ಕಲ್ಲ: ಹೈಕೋರ್ಟ್‌ ಸ್ಪಷ್ಟನೆ](https://vijaykarnataka.com/news/karnataka/high-court-clarifies-compassionate-appointment-is-one-time-measure-of-relief-not-right-to-continuous-benefit/articleshow/134490673.cms)
-- [ವಿದೇಶದಲ್ಲೂ BBK 13 ತಾಂಡವ್‌ ರಾಮ್‌ ಎಕ್ಸಿಟ್‌ ಸುದ್ದಿ, ಎಕ್‌ದಮ್‌ ಹೆಚ್ಚಿದ ಫಾಲೋವರ್ಸ್‌!](https://vijaykarnataka.com/tv/bigg-boss-kannada/news-of-thandav-rams-exit-from-bbk-13-mid-week-elimination-reaches-even-abroad-and-his-followers-count-in-the-instagram-account-has-increase/articleshow/134490384.cms)
+- [ಜೈಲಿಗೆ ಹೋದರೂ BBK 13 ಎಲಿಮಿನೇಷನ್‌ನಿಂದ ಕಿರಣ್‌ ಶಾಸ್ತ್ರಿ ಸೇಫ್‌! ಹೇಗೆ ಗೊತ್ತಾ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-first-kalape-contestant-kiran-shastri-is-safe-from-mid-week-emergency-exit-elimination/articleshow/134491930.cms)
 - [ಪಾರ್ಕ್ ಮಾಡಿದ ಕಾರಿಗೆ ಇಲಿಗಳು ಏಕೆ ಬರುತ್ತವೆ? ತಡೆಯಲು ಈ ನೈಸರ್ಗಿಕ ವಿಧಾನಗಳು ಸಹಕಾರಿ](https://vijaykarnataka.com/lifestyle/home-decor/why-rats-enter-parked-cars-natural-ways-to-keep-rats-away/articleshow/134408701.cms)
 - [2026 ಭಾದ್ರಪದ ಪೂರ್ಣಿಮಾ: ಶುಭ ಮುಹೂರ್ತ, ಪೂಜೆ ವಿಧಾನ, ಮಂತ್ರಗಳು, ಶುಭ ಕಾರ್ಯಗಳು.!](https://vijaykarnataka.com/religion/festivals/bhadrapada-purnima-2026-date-and-time-puja-procedures-importance-and-spiritual-activities/articleshow/134486597.cms)
 - [ಮಲ್ಲಿಗೆ ಗಿಡಕ್ಕೆ ಹಾವು ಬರುತ್ತದೆಯೇ? ಕಾಫಿ ಪುಡಿ ಗಿಡಕ್ಕೆ ಹಾಕಬಹುದೇ? ಗಿಡಗಳ ಆರೈಕೆಯ ನಂಬಿಕೆಗಳ ಹಿಂದಿನ ಸತ್ಯ](https://vijaykarnataka.com/lifestyle/home-decor/plant-care-myths-and-facts-jasmine-coffee-grounds-midday-watering/articleshow/134480920.cms)
@@ -68,12 +68,13 @@
 - [Hyderabad Metro Rail Phase-I takeover, Phase-II expansion hit roadblock as funding search drags on](https://www.thehindu.com/news/national/telangana/hyderabad-metro-rail-phase-i-takeover-phase-ii-expansion-hit-roadblock-as-funding-search-drags-on/article71509329.ece)
 - [A laddu mirroring the changing fortunes of Balapur](https://www.thehindu.com/news/national/telangana/a-laddu-mirroring-the-changing-fortunes-of-balapur/article71509261.ece)
 - [Narrowed posture: On Karnataka and the Kasturirangan Report](https://www.thehindu.com/opinion/editorial/narrowed-posture-on-karnataka-and-the-kasturirangan-report/article71508916.ece)
+- [ICG ship Shaunak sails for Australia with QUAD officers onboard](https://www.thehindu.com/news/national/icg-ship-shaunak-sails-for-australia-with-quad-officers-onboard/article71509417.ece)
 - [1,671 km of stormwater drains being desilted: Chennai Mayor](https://www.thehindu.com/news/national/tamil-nadu/1671-km-of-stormwater-drains-being-desilted-chennai-mayor/article71510339.ece)
 - [Rani Channamma University officials held over fraud allegations](https://www.thehindu.com/news/national/karnataka/rani-channamma-university-officials-held-over-fraud-allegations/article71508843.ece)
 - [Railways to run 102 festival special trips via Solapur division](https://www.thehindu.com/news/national/karnataka/railways-to-run-102-festival-special-trips-via-solapur-division/article71509426.ece)
-- [Blood donation camp held in Raichur](https://www.thehindu.com/news/national/karnataka/blood-donation-camp-held-in-raichur/article71508760.ece)
 
 **Livemint**
+- [Trump warns Xi against support for Iran — China gives conflicting assurances](https://www.livemint.com/news/us-news/trump-warns-xi-against-support-for-iran-china-gives-conflicting-assurances-11790366660161.html)
 - [ICE Enforcement Hits Kansas Meatpacking Operations, Ranchers Say](https://www.livemint.com/news/us-news/ice-enforcement-hits-kansas-meatpacking-operations-ranchers-say-11790365423991.html)
 - [Kaun Banega Crorepati 18: Noida techie faces  ₹25 lakh Dead Sea question — here’s why he decided to quit](https://www.livemint.com/news/trends/kbc-18-noida-techie-faces-rs-25-lakh-dead-sea-question-here-s-why-he-decided-to-quit-11790362346449.html)
 - [Westbury high school: Houston ISD student shot dead on Dryad Street near campus; no suspect arrested yet](https://www.livemint.com/news/us-news/westbury-high-school-houston-isd-student-shot-dead-on-dryad-street-near-campus-no-suspect-arrested-yet-11790359105178.html)
@@ -83,7 +84,6 @@
 - [Noah Woods death: Inquest hears how three-year-old non-verbal boy died in Suffolk Pond](https://www.livemint.com/news/world/noah-woods-death-inquest-hears-how-three-year-old-non-verbal-boy-died-in-suffolk-pond-11790353802373.html)
 - [Who is Mandeep K Bhandari? Meet the new CBSE chairman — an IAS officer with medical background](https://www.livemint.com/news/india/who-is-mandeep-k-bhandari-meet-the-new-cbse-chairman-an-ias-officer-with-medical-background-11790355333975.html)
 - [US proposes new trilateral peace talks with Russia and Ukraine in UAE: Zelensky](https://www.livemint.com/news/world/us-proposes-new-trilateral-peace-talks-with-russia-and-ukraine-in-uae-zelensky-11790345229479.html)
-- [Weather tomorrow: IMD issues red, orange alerts across several Uttarakhand districts for Sep 26, 27; CM Dhami reacts](https://www.livemint.com/news/india/uttarakhand-weather-forecast-imd-issues-red-orange-yellow-alerts-across-13-districts-on-sep-26-27-cm-dhami-rea-11790347136838.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -135,7 +135,7 @@
 - [ಷರತ್ತುಗಳನ್ನು ಪೂರೈಸಿದರೆ 7 ದಿನಗಳಲ್ಲಿ ಹೊರ್ಮುಜ್‌ ತೆರೆಯುತ್ತೇವೆ: ಇರಾನ್‌](https://www.prajavani.net/news/world-news/iran-proposes-opening-strait-of-hormuz-in-seven-days-4287874)
 - [ಬರಿಗಣ್ಣಿಗೆ ಕಾಣದ ವಸ್ತುಗಳನ್ನು ಗುರುತಿಸಲು ಮೊಬೈಲ್ ಕ್ಯಾಮೆರಾ ಸೆನ್ಸಾರ್](https://www.prajavani.net/news/india-news/iit-kharagpur-smartphone-sensor-microscopic-detection-technology-4287966)
 - [ಎಸ್‌ಐಆರ್‌ ನಿರ್ವಹಣೆ: ಸ್ಪಷ್ಟನೆಗೆ ಎನ್‌ಡಿಎ ಮಿತ್ರಪಕ್ಷಗಳ ಆಗ್ರಹ](https://www.prajavani.net/news/india-news/nda-allies-demand-clarification-from-election-commission-on-ssr-management-4287952)
-- [10 ಲಕ್ಷ ಹೊಸ ಪಡಿತರ ಚೀಟಿ: ಆಹಾರ ಸಚಿವ ರಿಜ್ವಾನ್‌ ಅರ್ಷದ್‌](https://www.prajavani.net/news/karnataka-news/karnataka-food-minister-rizwan-arshad-new-ration-cards-announcement-4287890)
+- [ಬರ್ಮಕಿಡ್‌ ಕುಟುಂಬದ ಪತನ: ಕಳಚಿದ ಭಾರತ–ಇಸ್ಲಾಂ ‘ಬೌದ್ಧಿಕ ಸೇತುವೆ’](https://www.prajavani.net/op-ed/articles/barmakids-and-the-lost-bridge-between-india-and-islam-4287292)
 
 **eedina**
 - [ಉಡುಪಿ | ಧರ್ಮದ ಹೆಸರಿನಲ್ಲಿ ವಿಭಜನೆ ಬೇಡ, ಮಾನವೀಯತೆಗೆ ಆದ್ಯತೆ ನೀಡಿ : ಮುಹಮ್ಮದ್ ಕುಂಞಿ](https://eedina.com/?p=766370)
@@ -152,6 +152,8 @@
 ## Cross-source trending keywords (derived from headlines above)
 - India (3.9)
 - What (2.6)
+- Trump (2.6)
+- China (2.6)
 - Delhi (2.6)
 - Case (2.6)
 - Odisha (2.6)
@@ -163,22 +165,20 @@
 - CBSE (1.6)
 - Stalin (1.6)
 - Open (1.6)
-- Vijay (1.6)
-- Jaishankar (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [आईआईटी बॉम्बे के छात्र की मौत के मामले में माता](https://www.bbc.com/hindi/articles/cqlyl995e83no)
-- [जिनपिंग को दिखाया 50 करोड़ का हेलीपैड, B2 बॉम्बर से सलामी... ट्रंप का शोऑफ!](https://www.aajtak.in/world/story/white-house-new-granite-helipad-trump-xi-jinping-marine-one-cost-ntc-mnrd-dskc-2652830-2026-09-25)
-- [কেন সদস্যপদ বাতিল হবে না রচনা, শতাব্দীদের? NCPI সাংসদদের দিতে হবে জবাব, ১ মাস চেয়েছিলেন, কমিয়ে কতদিন সময় বেঁধে দিল স্পিকার অফিস](https://bengali.news18.com/news/kolkata/speakers-office-has-set-a-deadline-for-ncpi-mps-to-answer-why-their-membership-should-not-be-cancelled-ank-2907001.html)
-- [ব্রাজ়িল-আমেরিকা থেকে তুরস্ক-সাইপ্রাস! লড়াই থামানোর বিশ্বমঞ্চেও ‘যুদ্ধং দেহি’ রাষ্ট্রনেতারা! দিন ঘনিয়ে আসছে রাষ্ট্রপুঞ্জের?](https://www.anandabazar.com/photogallery/from-kashmir-to-iran-what-issues-were-raised-by-world-leaders-including-donald-trump-at-un-general-assembly-dgtl-photogallery-prnt/cid/1715341)
-- [भारत वेस्ट इंडिज रविवारी पहिला वनडे सामना, विराटच्या टार्गेटर सचिनचा विक्रम; किती वाजता सुरू होणार?](https://maharashtratimes.com/sports/cricket/cricket-news/ind-vs-wiodiseries-first-odi-match-virat-kohli-can-break-sachin-tendulkar-record/articleshow/134478999.cms)
-- [নন্দীগ্রামের কংগ্রেস প্রার্থী মিলন প্রধানের গ্রেফতারির সিদ্ধান্ত খারিজ, ডিভিশন বেঞ্চে রাজ্য সরকার](https://bengali.abplive.com/district/nandigram-congress-candidate-milan-prodhan-case-state-government-go-to-division-bench-breaking-news-1194099)
-- [Chandigarh cop shot dead at Sector 22 home, son apprehended for questioning](https://www.tribuneindia.com/news/chandigarh/chandigarh-cop-shot-dead-at-sector-22-home-son-prime-accused-in-case/)
-- [११ वर्षांत दुष्काळाचा सातवा फेरा; यंदा दुष्काळाची परिस्थिती अतिभीषण](https://marathi.freepressjournal.in/maharashtra/maharashtra-drought-crisis-11-years-seventh-drought-cycle)
-- [Asian Games: कबड्डी में भारत का फिर ‘राजतिलक’, पुरुष-महिला फाइनल में… 11 गोल्ड के बाद अब 12वें की हुंकार!](https://www.aajtak.in/sports/asian-games/story/india-kabaddi-men-women-final-asian-games-2026-11-gold-bmsp-dskc-2652872-2026-09-25)
-- [Can your lungs repair themselves if you quit smoking? Pulmonologist Dr Samir Garde says NOT all damage is REVERSIBLE](https://www.hindustantimes.com/lifestyle/health/world-lung-day-can-your-lungs-repair-themselves-if-you-quit-smoking-a-pulmonologist-says-not-all-damage-is-reversible-101790320231823.html)
+- [പൂജാമുറിയിലെ സ്വർണാഭരണങ്ങൾ സമൂഹമാധ്യമത്തിൽ; യൂട്യൂബറുടെ വീട് കുത്തിത്തുറന്ന് 118 പവനും പണവും കവർന്നു](https://malayalam.news18.com/news/kerala/youtuber-house-robbery-118-sovereign-gold-stolen-mm-789972.html)
+- [ஒரே நாளில் ஆல்டைம் ஹிட் அடித்த ட்ரான்ஸ்போர்ட் கார்ப்பரேஷன் ஆஃப் இந்தியா, 14% வரை உயர்ந்த பங்கு விலை](https://tamil.economictimes.com/market/stocks/shares-surge-14-in-a-day-transport-corporation-of-india-considers-share-buyback-proposal-in-upcoming-board-meeting/articleshow/134479960.cms)
+- ['हनुमान अंश' ही नहीं, ये 7 फिल्में भी रहीं Sleeper Hit, छठी फिल्म ने तो कमाए थे 300 करोड़](https://hindi.news18.com/photogallery/entertainment/bollywood-not-only-hanuman-ansh-these-7-films-also-turned-into-sleeper-hits-sixth-film-earned-300-crore-10863693.html)
+- [NEP vs AFG: नेपाल ने किया अफगानिस्तान का T20I में काम तमाम, एशियन गेम्स में दी पटखनी, ऐसे पलटी हारी हुई बाजी](https://www.aajtak.in/sports/asian-games/story/nepal-afghanistan-asian-games-2026-t20i-cricket-match-highlights-tspok-dskc-2652919-2026-09-25)
+- [ഹോർമുസ് കടലിടുക്ക് തുറക്കുന്നതിനും ആണവ ചർച്ചകൾക്കും 7 ദിവസത്തെ പദ്ധതിയുമായി ഇറാൻ](https://malayalam.news18.com/news/world/iran-proposes-7-day-plan-to-reopen-strait-of-hormuz-and-restart-nuclear-talks-with-us-rv-789973.html)
+- [43 की उम्र में तीसरी बार प्रेग्नेंट एक्ट्रेस? पति ने दी गुड न्यूज, हुआ इमोशनल](https://www.aajtak.in/entertainment/television/photo/debina-banerjee-pregnant-third-time-at-43-age-gurmeet-choudhary-share-good-news-gets-emotional-isha-malviya-tmovb-2652902-2026-09-25)
+- [Bats first originated in Europe 65 million years ago, scientists say](https://www.thehindu.com/sci-tech/science/bats-first-originated-in-europe-65-million-years-ago-scientists-say/article71506978.ece)
+- [કચ્છ, ઉત્તર ગુજરાતમાંથી ચોમાસાની વિદાય શરૂ, રાજ્યમાં ક્યાં](https://www.bbc.com/gujarati/articles/cqn74npv5jvpo)
+- [Tata Aeris: வெறும் 5.29 லட்சத்தில் களமிறங்கிய டாடா ஏரிஸ், 6 ஏர்பேக்குகள்- டிசையருக்கு போட்டி? என்னென்ன அம்சங்கள்?](https://tamil.abplive.com/auto/tata-aeris-launched-starting-price-rs-5-29-lakh-cheaper-than-maruti-dzire-automobile-news-275607)
+- [Asian Games: Defending champions Satwiksairaj Rankireddy, Chirag Shetty suffer shock first-round exit](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-defending-champions-satwiksairaj-rankireddy-chirag-shetty-suffer-shock-first-round-exit-in-mens-doubles-event/articleshow/134479772.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
