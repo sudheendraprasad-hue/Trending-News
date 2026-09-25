@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-25 19:02:04
+# India Trending Report — 2026-09-25 19:33:15
 
 ## Google Trends (India) — top trending searches
-1. [morocco vs gabon](https://trends.google.com/trending/rss?geo=IN)
-2. [sweden vs romania](https://trends.google.com/trending/rss?geo=IN)
-3. [egypt vs angola](https://trends.google.com/trending/rss?geo=IN)
-4. [poland vs bosnia and herzegovina](https://trends.google.com/trending/rss?geo=IN)
-5. [kallakkadal](https://trends.google.com/trending/rss?geo=IN)
-6. [heart of the beast](https://trends.google.com/trending/rss?geo=IN)
-7. [toxic ott](https://trends.google.com/trending/rss?geo=IN)
-8. [türkiye vs france](https://trends.google.com/trending/rss?geo=IN)
-9. [italy vs belgium](https://trends.google.com/trending/rss?geo=IN)
-10. [shaque](https://trends.google.com/trending/rss?geo=IN)
+1. [france](https://trends.google.com/trending/rss?geo=IN)
+2. [africa cup of nations qualification](https://trends.google.com/trending/rss?geo=IN)
+3. [algeria vs zambia](https://trends.google.com/trending/rss?geo=IN)
+4. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
+5. [mali vs cabo verde](https://trends.google.com/trending/rss?geo=IN)
+6. [morocco vs gabon](https://trends.google.com/trending/rss?geo=IN)
+7. [sweden vs romania](https://trends.google.com/trending/rss?geo=IN)
+8. [egypt vs angola](https://trends.google.com/trending/rss?geo=IN)
+9. [poland vs bosnia and herzegovina](https://trends.google.com/trending/rss?geo=IN)
+10. [kallakkadal](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [India is kicking car safety into top gear with Bharat NCAP 2.0: What you need to know](https://timesofindia.indiatimes.com/india/5-ways-india-is-kicking-car-safety-into-top-gear-with-bharat-ncap-2-0-what-buyers-need-to-know/articleshow/134487081.cms)
 - [UP polls: Why Akhilesh’s ‘rath’ show in Raebareli is message for Rahul](https://timesofindia.indiatimes.com/india/2027-up-assembly-polls-fight-against-bjp-or-congress-why-akhileshs-rath-show-in-raebareli-is-message-for-rahul/articleshow/134487928.cms)
 - [Trump embraces Xi as peer, alarms partners and critics](https://timesofindia.indiatimes.com/world/us/trump-embraces-xi-as-peer-alarms-partners-and-critics/articleshow/134489947.cms)
 - [NDA unease over EC-SIR row? 3 BJP allies seek answers as oppn turns up heat](https://timesofindia.indiatimes.com/india/unease-within-nda-over-ec-sir-row-three-bjp-allies-seek-clarification-as-opposition-keeps-up-pressure/articleshow/134488531.cms)
 - [Hardik Pandya set to miss India A fixtures; racing against time for New Zealand tour](https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandya-set-to-miss-india-a-fixtures-racing-against-time-for-new-zealand-tour-exclusive/articleshow/134489676.cms)
-- [Why Trump's F-35 deal with Saudi Arabia unsettles Israel, opens big door for China](https://timesofindia.indiatimes.com/world/middle-east/trumps-48-f-35-jets-for-saudi-arabia-why-is-israel-uneasy-and-china-a-key-concern/articleshow/134479408.cms)
 - [Zuckerberg’s $300m superyacht docks in Japan, gets neighbour who once wanted Meta out](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-300-million-superyacht-docked-in-japan-for-the-first-time-launchpad-has-a-new-neighbour-the-billionaire-who-once-wanted-meta-suspend-its-japanese-operations/articleshow/134478817.cms)
-- [Trump-Xi bonhomie set to continue, leaders announce two more meetings](https://timesofindia.indiatimes.com/world/us/trump-xi-bonhomie-set-to-continue-leaders-announce-two-more-meetings/articleshow/134490297.cms)
+- [Why Trump's F-35 deal with Saudi Arabia unsettles Israel, opens big door for China](https://timesofindia.indiatimes.com/world/middle-east/trumps-48-f-35-jets-for-saudi-arabia-why-is-israel-uneasy-and-china-a-key-concern/articleshow/134479408.cms)
 - [Nebraska couple lost $59,759 home over $588 tax debt; compensation claim revived](https://timesofindia.indiatimes.com/world/us/a-nebraska-couple-lost-a-mortgage-free-home-assessed-at-59759-after-a-588-21-tax-debt-grew-to-5268-32-the-us-supreme-court-sent-the-case-back-and-nebraskas-top-court-revived-the-compensation-claim/articleshow/134486717.cms)
 - [Tom Brady vs Patrick Mahomes: Why TB12 Foundation can't match 15 and Mahomies](https://timesofindia.indiatimes.com/sports/nfl/news/tom-brady-vs-patrick-mahomes-why-tb12-foundation-could-never-match-15-and-the-mahomies/articleshow/134486061.cms)
-- ['Compromised PM does it again': Cong after bail to US national held in terror case](https://timesofindia.indiatimes.com/india/compromised-pm-does-it-again-congress-targets-centre-over-bail-for-us-national-matthew-aaron-vandyke-held-in-terror-conspiracy-case/articleshow/134488557.cms)
+- [Trump-Xi bonhomie set to continue, leaders announce two more meetings](https://timesofindia.indiatimes.com/world/us/trump-xi-bonhomie-set-to-continue-leaders-announce-two-more-meetings/articleshow/134490297.cms)
 
 **NDTV**
 - ["Spectacular": PM Modi Takes Part In Bhajan Clubbing Event In Delhi](https://www.ndtv.com/india-news/spectacular-pm-modi-takes-part-in-bhajan-clubbing-event-in-delhi-12099219#publisher=newsstand)
@@ -62,16 +62,16 @@
 - [ಅಮೆರಿಕ ಭಾಗಶಃ ಷರತ್ತು ಈಡೇರಿಸಿದರೆ ಹರ್ಮುಜ್‌ ಮುಕ್ತ, ಪರಮಾಣು ಕಾರ್ಯಕ್ರಮ ಮಾತುಕತೆಗೂ ಸಿದ್ಧ: ಇರಾನ್ ಹೊಸ ಪ್ರಸ್ತಾಪ](https://vijaykarnataka.com/news/world/irans-new-proposal-if-usa-partially-meets-conditions-within-a-week-strait-of-hormuz-will-open/articleshow/134490418.cms)
 
 **The Hindu**
+- [1,671 km of stormwater drains being desilted: Chennai Mayor](https://www.thehindu.com/news/national/tamil-nadu/1671-km-of-stormwater-drains-being-desilted-chennai-mayor/article71510339.ece)
+- [Rani Channamma University officials held over fraud allegations](https://www.thehindu.com/news/national/karnataka/rani-channamma-university-officials-held-over-fraud-allegations/article71508843.ece)
+- [Railways to run 102 festival special trips via Solapur division](https://www.thehindu.com/news/national/karnataka/railways-to-run-102-festival-special-trips-via-solapur-division/article71509426.ece)
+- [Blood donation camp held in Raichur](https://www.thehindu.com/news/national/karnataka/blood-donation-camp-held-in-raichur/article71508760.ece)
+- [AIADMK not agreeing to field a common candidate reason for not extending support: PMK](https://www.thehindu.com/news/national/tamil-nadu/aiadmk-not-agreeing-to-field-a-common-candidate-reason-for-not-extending-support-pmk/article71510149.ece)
+- [Magistrate court directs police to investigate actor Ansiba Hassan’s petition against Lakshmi Priya](https://www.thehindu.com/news/national/kerala/magistrate-court-directs-police-to-investigate-actor-ansiba-hassans-petition-against-lakshmi-priya/article71509725.ece)
+- [Police issue summons to Anto Augustine over comments about Chief Minister V.D. Satheesan](https://www.thehindu.com/news/national/kerala/police-issue-summons-to-anto-augustine-over-comments-about-chief-minister-vd-satheesan/article71509634.ece)
 - [Belagavi firm Aequs gets approval for ₹650-crore equity infusion](https://www.thehindu.com/news/national/karnataka/belagavi-firm-aequs-gets-approval-for-650-crore-equity-infusion/article71510170.ece)
 - [KSEB’s Anti Power Theft Squad unearths irregularities in Ernakulam district](https://www.thehindu.com/news/national/kerala/ksebs-anti-power-theft-squad-unearths-irregularities-in-ernakulam-district/article71509594.ece)
 - [Swell surges alert for Keralam coast from September 26 to 28](https://www.thehindu.com/news/national/kerala/swell-surges-alert-for-keralam-coast-from-september-26-to-28/article71510298.ece)
-- [Tolerance is not acceptance: Tiruchi N. Siva to political rivals](https://www.thehindu.com/news/national/tamil-nadu/tolerance-is-not-acceptance-tiruchi-n-siva-to-political-rivals/article71510284.ece)
-- [Food safety inspections expose hygiene lapses at hotels, restaurants in Visakhapatnam](https://www.thehindu.com/news/national/andhra-pradesh/food-safety-inspections-expose-hygiene-lapses-at-hotels-restaurants-in-visakhapatnam/article71509496.ece)
-- [Kerala State Sports Council staff suspended](https://www.thehindu.com/news/national/kerala/kerala-state-sports-council-staff-suspended/article71509770.ece)
-- [Over 300 participate in PU principals’ summit](https://www.thehindu.com/news/national/karnataka/over-300-participate-in-pu-principals-summit/article71509843.ece)
-- [Union Minister and NDA ally Jitan Ram Manjhi says Scheduled Castes, Scheduled Tribes MPs not given enough time to speak in Parliament](https://www.thehindu.com/news/national/scst-mps-not-given-enough-time-to-speak-in-parliament-says-nda-ally-and-minister-jitan-ram-manjhi/article71509412.ece)
-- [People urged not to abandon children](https://www.thehindu.com/news/national/andhra-pradesh/people-urged-not-to-abandon-children/article71509423.ece)
-- [Polavaram officials sound alert as Sabari river in spate](https://www.thehindu.com/news/national/andhra-pradesh/polavaram-officials-sound-alert-as-sabari-river-in-spate/article71509210.ece)
 
 **Livemint**
 - [Westbury high school: Houston ISD student shot dead on Dryad Street near campus; no suspect arrested yet](https://www.livemint.com/news/us-news/westbury-high-school-houston-isd-student-shot-dead-on-dryad-street-near-campus-no-suspect-arrested-yet-11790359105178.html)
@@ -114,6 +114,7 @@
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ದಿನ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರು ಅಪಮಾನವನ್ನು ವ್ಯಕ್ತಪಡಿಸಲು ಕಾಯುವರು…](https://tv9kannada.com/horoscope/daily-horoscope-for-september-26-2026-dakshinayana-greeshma-season-badrapada-masa-shukla-paksha-satursday-astrology-1242505.html)
 - [Bigg Boss Kannada: ಗಗನ್​​ಗೆ ಸಿಕ್ತು ‘ಚಿನ್ನ’, ಕಿರಿ-ಕಿರಿ ಮಾಡಿದ ಕಿರಣ್​​ಗೆ ಜೈಲು](https://tv9kannada.com/entertainment/bigg-boss-kannada-gagan-voted-as-performer-of-week-and-kiran-voted-as-worst-performer-1242696.html)
 - [ಪೊಲೀಸ್ ಭವನದಲ್ಲೇ ಬಿಡದಿ ರೈತರ ಉಪವಾಸ ಸತ್ಯಾಗ್ರಹ: ‘ಭೂಮಿ ಬಿಡಿ, ಇಲ್ಲಾ ದಯಾಮರಣ ಕೊಡಿ’ ಎಂದು ಆಕ್ರೋಶ](https://tv9kannada.com/videos/ramanagara-bidadi-farmers-stage-hunger-strike-at-police-bhavan-demand-land-release-or-euthanasia-1242692.html)
 - [‘ಜ್ಞಾನೇಶ್ ಕುಮಾರ್​ಗೆ ಪದ್ಮಭೂಷಣ ಪ್ರಶಸ್ತಿ ಕೊಡಬೇಕು’; ಚುನಾವಣಾ ಆಯುಕ್ತರನ್ನು ಸಮರ್ಥಿಸಿಕೊಂಡ ಬಿಜೆಪಿ](https://tv9kannada.com/national/cec-gyanesh-kumar-deserves-padma-bhushan-award-bjp-hits-back-amid-opposition-protests-over-sir-row-1242691.html)
@@ -123,7 +124,6 @@
 - [ಭಜನ್ ಕ್ಲಬ್ಬಿಂಗ್​ನಲ್ಲಿ ಮೋದಿ; ಯುವಕರ ಜೊತೆ ಭಕ್ತಿಗೀತೆಗೆ ತಾಳ ಹಾಕಿದ ಪ್ರಧಾನಿ](https://tv9kannada.com/videos/pm-narendra-modi-attends-bhajan-clubbing-on-deendayal-upadhyaya-birth-anniversary-watch-video-1242678.html)
 - [ಮೈಸೂರು ದಸರಾಗೆ ಕರಾವಳಿಯ ಕಂಬಳದ ಮೆರುಗು: ಸಾಂಪ್ರದಾಯಿಕ ಕ್ರೀಡಾ ವೈಭವಕ್ಕೆ ಸಕಲ ಸಿದ್ಧತೆ](https://tv9kannada.com/karnataka/dakshina-kannada/mysuru-dasara-kambala-preparations-underway-across-karnatakas-coastal-region-1242674.html)
 - [2028ರ ಚುನಾವಣೆ ಗೆಲ್ಲಲು ಬಿಜೆಪಿ ಭರ್ಜರಿ ಪ್ಲ್ಯಾನ್:ಬಳ್ಳಾರಿ ಪಾದಯಾತ್ರೆ ಯಶಸ್ಸಿನ ಬೆನ್ನಲ್ಲೇ ಮತ್ತೊಂದು ಯಾತ್ರೆ](https://tv9kannada.com/videos/karnataka-bjp-booth-vijaya-sankalpa-yatra-from-october-1st-for-target-2028-assembly-election-1242675.html)
-- [ಮಾಡರ್ನ್ ಮಹಾಕವಿ ಮಂಜು ವಿರುದ್ಧ ಕುಶಾಲ ದೂರು: ವಿಡಿಯೋ](https://tv9kannada.com/videos/artist-kushala-gave-complaint-against-bigg-boss-contestant-manja-1242671.html)
 
 **Prajavani**
 - [‌ರಾಜಕೀಯಕ್ಕೆ ಎಸ್ಐಆರ್ ಬಳಕೆ ಸರಿಯಲ್ಲ: ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ. ಶಿವಕುಮಾರ್](https://www.prajavani.net/news/karnataka-news/dk-shivakumar-objects-political-use-of-voter-list-revision-4287940)
@@ -150,35 +150,35 @@
 - [ಚಿಕ್ಕಮಗಳೂರು |ರಾಜ್ಯದಲ್ಲಿ ಪ್ರಸ್ತುತ 9,೦೦೦ಕ್ಕೂ ಹೆಚ್ಚು ಪೋಕ್ಸೋ ಪ್ರಕರಣ](https://eedina.com/?p=766324)
 
 ## Cross-source trending keywords (derived from headlines above)
+- India (3.9)
 - September (3.9)
-- India (2.6)
+- What (2.6)
 - Delhi (2.6)
 - Case (2.6)
 - Odisha (2.6)
 - Airbus (2.6)
 - IndiGo (2.6)
 - Report (2.6)
+- Police (2.6)
 - Veeramani Sexual Abuse (2.0)
+- Chief (1.6)
 - Mandeep (1.6)
 - Bhandari (1.6)
 - CBSE (1.6)
-- Stalin (1.6)
-- Open (1.6)
-- Vijay (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [கானா இசையின் கொண்டாட்டம்... ‘மீசைய முறுக்கு 2’ திரை விமர்சனம்](https://www.dailythanthi.com/cinema/movie-review/a-celebration-of-gaana-music-meesaya-murukku-2-movie-review)
-- ['ది ప్యారడైజ్' సునామీ.. తొలి రోజే రూ.88 కోట్ల గ్రాస్](https://www.chitrajyothy.com/2026/tollywood/nani-the-paradise-movie-creating-tsunami-first-day-88-crores-gross-collected-srk-75699.html)
-- [Government, banks to decide subsidy amount for UPI that will continue after MDR comes in](https://www.thehindu.com/business/Economy/government-and-banks-to-decide-subsidy-amount-for-upi-that-will-continue-after-mdr-comes-in/article71507443.ece)
-- [लखनऊ से रांची तक बारिश-आंधी का कहर, UP समेत कई राज्यों में अलर्ट](https://www.aajtak.in/science/story/imd-weather-alert-heavy-rain-up-mp-ranchi-lucknow-dskc-2652790-2026-09-25)
-- ['ஜூலை 5...அழைக்கப்பட்ட மூன்று அமைச்சர்கள் + சபாநாயகர்!'](https://www.vikatan.com/government-and-politics/july-5-three-ministers-speaker-invited-the-controversial-event-and-the-background)
-- [வாய்கிழிய வசனம் பேசிய சிஎம் விஜய் எங்கே? பள்ளி மாணவி கடத்தி பாலியல் வன்கொடுமை - சீறிய உதயநிதி](https://tamil.abplive.com/news/politics/udhayanidhi-stalin-schoolgirl-kidnapping-paliyal-assault-condemns-govt-275591)
-- [Swedish, Finnish fighter jets intercept group of Russian military aircraft](https://www.reuters.com/business/aerospace-defense/swedish-finnish-fighter-jets-intercept-russian-military-aircraft-2026-09-25/)
-- [బాలాపూర్ గణేష్ శోభాయాత్ర ప్రారంభం](https://vaartha.com/latest-news/balapur-ganesh-shobhayatra-starts-hyderabad/781569/)
-- ['આતંકી હાફિઝ સઈદને ક્યારે સજા આપશો?', ભારતીય પત્રકારના સવાલ પર ઊભી પૂંછડીએ ભાગ્યા પાકિસ્તાની PM શાહબાઝ શરીફ](https://gujarati.news18.com/news/national-international/pakistan-pm-shehbaz-sharif-avoids-hafiz-saeed-question-indian-journalist-ym-2630126.html)
-- [தருமபுரி அருகே அரசுப்பள்ளி மாணவிகளுக்கு பாலியல் தொல்லை அளித்த கணித ஆசிரியர் போக்சோவில் கைது!!](https://www.dinakaran.com/news/dharmapuri-government-school-female-student-sexual-harassment-teacher-pocso/)
+- [Savita Malpekar On Lalbaugcha Raja, Mumbaicha Raja: 'लालबागचा राजा'ला तेव्हा फुटाणे द्यायलाही कुणी नसायचं...'; मराठी अभिनेत्रीनं आढेवेढे न घेता थेटच सांगितलं, 'मुंबईचा राजा'बद्दल म्हणाली...](https://marathi.abplive.com/entertainment/savita-malpekar-on-lalbaugcha-raja-mumbaicha-raja-ganeshgalli-lalbaug-parel-kalachowki-ganesh-visarjan-2026-marathi-news-1440202)
+- [Election Commission row LIVE: CJP founder Dipke urges Opposition to boycott ‘rigged’ elections](https://www.thehindu.com/news/national/election-commission-row-live-ec-faces-fresh-credibility-crisis-amid-new-allegations-against-cec/article71507022.ece)
+- [മുഖ്യമന്ത്രിയുടെ ചാർട്ടേർഡ് ഫ്ലൈറ്റ് യാത്രയിൽ നീങ്ങാത്ത ദുരൂഹത; ഉത്തരം കിട്ടാൻ ബുധനാഴ്ച വരെ കാത്തിരിക്കണം](https://www.asianetnews.com/kerala-news/mystery-behind-the-chief-minister-vd-satheesan-chartered-flight-journey-articleshow-dyvolca)
+- [മത്സരയോട്ടവും കയ്യാങ്കളിയും: പെർമിറ്റ് റദാക്കിയേക്കും- Private Bus Rash Driving](https://www.manoramaonline.com/news/latest-news/2026/09/25/rash-driving-brawl-kochi-bus-permits-cancelled.html)
+- [Raj Thackeray: सत्तेतील रेडे 'ज्ञानेशा'कडून वेद वदवतायंत; नुकतीच झालेली संपूर्ण SIR प्रक्रिया रद्द करा, राज ठाकरेंची मागणी](https://marathi.abplive.com/news/politics/raj-thackeray-demands-the-cancellation-of-the-recently-sir-process-election-commission-dnyanesh-kumar-for-bjp-1440205)
+- ['പിഞ്ചുമക്കളുടെ മുഖം കണ്ടപ്പോൾ ആത്മഹത്യ ചെയ്യാൻ തോന്നിയില്ല'-തുറന്നുപറഞ്ഞ് മേരി കോം](https://www.mathrubhumi.com/sports/news/mary-kom-bigg-boss-20-suicidal-thoughts-revelation-mmbc6km2)
+- [മുട്ടിൽ മരംമുറി കേസ്: വനംവകുപ്പിന് തിരിച്ചടി; വനത്തിൽ നിന്ന് മരംമുറിച്ചെന്ന് തെളിയിക്കാനായില്ല](https://www.reporterlive.com/topnews/kerala/2026/09/25/muttill-tree-felling-case-forest-department-fails-to-prove-illegal-tree-cutting)
+- [കണ്ണൂരിൽ ഫിസിയോ തെറാപ്പിക്കിടെ യുവതിയെ പീഡിപ്പിക്കാൻ ശ്രമം; ഫിസിയോതെറാപ്പിസ്റ്റ് അറസ്റ്റിൽ](https://malayalam.news18.com/news/crime/physiotherapist-arrested-for-attempted-assault-during-therapy-session-in-kannur-srn-ws-l-789957.html)
+- [புதுக்குளம் பகுதி சாலைகளில் லாரிகளில் இருந்து சிதறும் கற்கள்](https://www.dinakaran.com/news/stones-scattering-lorries-pudhukulam-road/)
+- [புதுக்குளம் பகுதி சாலைகளில் லாரிகளில் இருந்து சிதறும் கற்கள்](https://www.dinakaran.com/news/stones-scattering-lorries-pudhukulam-road/amp/?utm=relatedarticles)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
