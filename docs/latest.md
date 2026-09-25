@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-25 21:01:54
+# India Trending Report — 2026-09-25 21:35:14
 
 ## Google Trends (India) — top trending searches
-1. [will smith](https://trends.google.com/trending/rss?geo=IN)
-2. [lalbaugcha raja](https://trends.google.com/trending/rss?geo=IN)
-3. [france football](https://trends.google.com/trending/rss?geo=IN)
-4. [mika godts](https://trends.google.com/trending/rss?geo=IN)
-5. [france](https://trends.google.com/trending/rss?geo=IN)
-6. [africa cup of nations qualification](https://trends.google.com/trending/rss?geo=IN)
-7. [algeria vs zambia](https://trends.google.com/trending/rss?geo=IN)
-8. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
-9. [mali vs cabo verde](https://trends.google.com/trending/rss?geo=IN)
-10. [morocco vs gabon](https://trends.google.com/trending/rss?geo=IN)
+1. [rhiti tiwari](https://trends.google.com/trending/rss?geo=IN)
+2. [realme 16 pro 5g harry potter edition](https://trends.google.com/trending/rss?geo=IN)
+3. [italy national football team vs belgium national football team standings](https://trends.google.com/trending/rss?geo=IN)
+4. [esteban lepaul](https://trends.google.com/trending/rss?geo=IN)
+5. [will smith](https://trends.google.com/trending/rss?geo=IN)
+6. [lalbaugcha raja](https://trends.google.com/trending/rss?geo=IN)
+7. [france football](https://trends.google.com/trending/rss?geo=IN)
+8. [mika godts](https://trends.google.com/trending/rss?geo=IN)
+9. [france](https://trends.google.com/trending/rss?geo=IN)
+10. [africa cup of nations qualification](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -49,31 +49,23 @@
 - [‘Open your mouth, Stalin sir’: Vijay targets former CM over Veeramani POCSO case, DMK chief hits back](https://www.hindustantimes.com/india-news/open-your-mouth-mk-stalin-sir-vijay-targets-former-cm-over-r-veeramani-pocso-case-dmk-chief-hits-back-101790351194961.html)
 - [Centre extends AFSPA in parts of Arunachal Pradesh for another six months](https://www.hindustantimes.com/india-news/centre-extends-afspa-in-parts-of-arunachal-pradesh-for-another-six-months-101790352220611.html)
 
-**Vijay Karnataka**
-- [ರಾಜ್ಯದ 3 IAS, 5 KAS ಅಧಿಕಾರಿಗಳ ವರ್ಗಾವಣೆ; ಜಿಲ್ಲಾ ಪಂಚಾಯಿತಿ CEO, ವಾಯವ್ಯ ಸಾರಿಗೆ MD, KEA ಪರೀಕ್ಷಾ ನಿಯಂತ್ರಕರು ಬದಲು](https://vijaykarnataka.com/news/karnataka/transfer-of-3-ias-and-5-kas-officers-in-karnataka-zilla-panchayat-ceo-nwkrtc-md-kea-controller-of-examinations-replaced/articleshow/134487849.cms)
-- [ಕರ್ನಾಟಕದ ಸರಕಾರಿ ಕಾಲೇಜುಗಳಲ್ಲಿನ ಸ್ನಾತಕೋತ್ತರ ಕೋರ್ಸ್‌ಗಳ ಶುಲ್ಕಶೇ 5ರಷ್ಟು ಹೆಚ್ಚಳ; ಇಲ್ಲಿದೆ ಸಂಪೂರ್ಣ ವಿವರ](https://vijaykarnataka.com/news/karnataka/government-college-postgraduate-courses-5-fee-hike-in-karnataka/articleshow/134489712.cms)
-- [ಬಿಡದಿ ರೈತರ ಹೋರಾಟ: ಭೈರಮಂಗಲ ರಸ್ತೆತಡೆ ಚಳವಳಿಗೆ ಪೊಲೀಸರ ಬ್ರೇಕ್‌; ಶುಕ್ರವಾರ ಇಡೀ ದಿನ ನಡೆದದ್ದೇನು?](https://vijaykarnataka.com/news/ramanagara/bidadi-farmers-protest-police-halt-byramangala-road-blockade/articleshow/134491070.cms)
-- [ಪತಿಯ ಜೊತೆ ಸದಾ ಇರಲು ಸಾಧ್ಯವಿಲ್ಲ, ಆದರೂ ನಾವು ಖುಷಿಯಾಗಿದ್ದೇವೆ, ಶ್ರೇಯಾ ಘೋಷಾಲ್ ಹೇಳಿದ ಸಂತೋಷದ ದಾಂಪತ್ಯದ ಗುಟ್ಟು](https://vijaykarnataka.com/lifestyle/relationship/shreya-ghoshal-secret-to-happy-marriage-busy-life/articleshow/134488062.cms)
-- [ಅನುಕಂಪದ ನೇಮಕ ಒಮ್ಮೆ ನೀಡುವ ಹರಿಹಾರವೇ ಹೊರತು ನಿರಂತರ ಸೌಲಭ್ಯ ಪಡೆವ ಹಕ್ಕಲ್ಲ: ಹೈಕೋರ್ಟ್‌ ಸ್ಪಷ್ಟನೆ](https://vijaykarnataka.com/news/karnataka/high-court-clarifies-compassionate-appointment-is-one-time-measure-of-relief-not-right-to-continuous-benefit/articleshow/134490673.cms)
-- [ಜೈಲಿಗೆ ಹೋದರೂ BBK 13 ಎಲಿಮಿನೇಷನ್‌ನಿಂದ ಕಿರಣ್‌ ಶಾಸ್ತ್ರಿ ಸೇಫ್‌! ಹೇಗೆ ಗೊತ್ತಾ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-first-kalape-contestant-kiran-shastri-is-safe-from-mid-week-emergency-exit-elimination/articleshow/134491930.cms)
-- [ಪಾರ್ಕ್ ಮಾಡಿದ ಕಾರಿಗೆ ಇಲಿಗಳು ಏಕೆ ಬರುತ್ತವೆ? ತಡೆಯಲು ಈ ನೈಸರ್ಗಿಕ ವಿಧಾನಗಳು ಸಹಕಾರಿ](https://vijaykarnataka.com/lifestyle/home-decor/why-rats-enter-parked-cars-natural-ways-to-keep-rats-away/articleshow/134408701.cms)
-- [2026 ಭಾದ್ರಪದ ಪೂರ್ಣಿಮಾ: ಶುಭ ಮುಹೂರ್ತ, ಪೂಜೆ ವಿಧಾನ, ಮಂತ್ರಗಳು, ಶುಭ ಕಾರ್ಯಗಳು.!](https://vijaykarnataka.com/religion/festivals/bhadrapada-purnima-2026-date-and-time-puja-procedures-importance-and-spiritual-activities/articleshow/134486597.cms)
-- [ಮಲ್ಲಿಗೆ ಗಿಡಕ್ಕೆ ಹಾವು ಬರುತ್ತದೆಯೇ? ಕಾಫಿ ಪುಡಿ ಗಿಡಕ್ಕೆ ಹಾಕಬಹುದೇ? ಗಿಡಗಳ ಆರೈಕೆಯ ನಂಬಿಕೆಗಳ ಹಿಂದಿನ ಸತ್ಯ](https://vijaykarnataka.com/lifestyle/home-decor/plant-care-myths-and-facts-jasmine-coffee-grounds-midday-watering/articleshow/134480920.cms)
-- [ಅಮೆರಿಕ ಭಾಗಶಃ ಷರತ್ತು ಈಡೇರಿಸಿದರೆ ಹರ್ಮುಜ್‌ ಮುಕ್ತ, ಪರಮಾಣು ಕಾರ್ಯಕ್ರಮ ಮಾತುಕತೆಗೂ ಸಿದ್ಧ: ಇರಾನ್ ಹೊಸ ಪ್ರಸ್ತಾಪ](https://vijaykarnataka.com/news/world/irans-new-proposal-if-usa-partially-meets-conditions-within-a-week-strait-of-hormuz-will-open/articleshow/134490418.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
 - [Greater Noida bus fire: booking manager arrested for negligence](https://www.thehindu.com/news/national/uttar-pradesh/greater-noida-bus-fire-booking-manager-arrested-for-negligence/article71509263.ece)
 - [Congress hopes for calm in Punjab unit but storm clouds remain ahead of 2027 Assembly election](https://www.thehindu.com/news/national/punjab/congress-hopes-for-calm-in-punjab-unit-but-storm-clouds-remain-ahead-of-2027-assembly-election/article71509096.ece)
+- [M.M. Joshi condemns music concert at Badrinath, urges Centre and Uttarakhand government to ban such events](https://www.thehindu.com/news/national/mm-joshi-condemns-music-concert-at-badrinath-urges-centre-and-uttarakhand-government-to-ban-such-events/article71509818.ece)
 - [M.P. gets govt. bus service after 21 years; 351 buses flagged off](https://www.thehindu.com/news/national/madhya-pradesh/mp-getsgovt-bus-service-after-21-years-351-buses-flagged-off/article71509637.ece)
 - [Foreign buyers impressed by experiential tourism avenues in Keralam](https://www.thehindu.com/news/national/kerala/foreign-buyers-impressed-by-experiential-tourism-avenues-in-keralam/article71509052.ece)
+- [Bihar Minister accuses RJD of making objectionable videos viral on social media](https://www.thehindu.com/news/national/bihar/bihar-minister-accuses-rjd-of-making-objectionable-videos-viral-on-social-media/article71509898.ece)
 - [VCK councillors stage walk out over placement of Ambedkar’s photo in Chennai Corporation council hall](https://www.thehindu.com/news/cities/chennai/vck-councillors-stage-walk-out-over-placement-of-ambedkars-photo-in-chennai-corporation-council-hall/article71508719.ece)
 - [E20 fuel increases mileage, helps farmers, and will not harm vehicles, says Gadkari](https://www.thehindu.com/news/national/e20-fuel-increases-mileage-helps-farmers-and-will-not-harm-vehicles-says-gadkari/article71509834.ece)
 - [Hyderabad Metro Rail Phase-I takeover, Phase-II expansion hit roadblock as funding search drags on](https://www.thehindu.com/news/national/telangana/hyderabad-metro-rail-phase-i-takeover-phase-ii-expansion-hit-roadblock-as-funding-search-drags-on/article71509329.ece)
 - [A laddu mirroring the changing fortunes of Balapur](https://www.thehindu.com/news/national/telangana/a-laddu-mirroring-the-changing-fortunes-of-balapur/article71509261.ece)
-- [Narrowed posture: On Karnataka and the Kasturirangan Report](https://www.thehindu.com/opinion/editorial/narrowed-posture-on-karnataka-and-the-kasturirangan-report/article71508916.ece)
-- [ICG ship Shaunak sails for Australia with QUAD officers onboard](https://www.thehindu.com/news/national/icg-ship-shaunak-sails-for-australia-with-quad-officers-onboard/article71509417.ece)
 
 **Livemint**
+- [Nigella Lawson has a very unusual Bake Off habit — Alison Hammond reveals what she does: ‘She’s like Cleopatra'](https://www.livemint.com/news/world/nigella-lawson-has-a-very-unusual-bake-off-habit-alison-hammond-reveals-what-she-does-she-s-like-cleopatra-11790370760296.html)
+- [Trump’s voter verification system returns: What changed after Supreme Court ruling](https://www.livemint.com/news/us-news/trumps-voter-verification-system-returns-what-changed-after-supreme-court-ruling-11790365501392.html)
 - [Iran-Linked Oil Tankers Seized by Navy Sailing Toward US](https://www.livemint.com/news/us-news/iranlinked-oil-tankers-seized-by-navy-sailing-toward-us-11790369992931.html)
 - [Iran offers to reopen Strait of Hormuz in 7 days: 3 conditions it has set for Trump](https://www.livemint.com/news/us-news/iran-offers-to-reopen-strait-of-hormuz-in-7-days-3-conditions-it-has-set-for-trump-11790367464037.html)
 - [Trump warns Xi against support for Iran — China gives conflicting assurances](https://www.livemint.com/news/us-news/trump-warns-xi-against-support-for-iran-china-gives-conflicting-assurances-11790366660161.html)
@@ -82,8 +74,6 @@
 - [Westbury high school: Houston ISD student shot dead on Dryad Street near campus; no suspect arrested yet](https://www.livemint.com/news/us-news/westbury-high-school-houston-isd-student-shot-dead-on-dryad-street-near-campus-no-suspect-arrested-yet-11790359105178.html)
 - [Airbus detects quality issue in A321 neo fuselage coating; around a dozen IndiGo aircraft impacted](https://www.livemint.com/news/india/airbus-detects-quality-issue-in-a321neo-fuselage-coating-around-a-dozen-indigo-aircraft-impacted-11790358422246.html)
 - [What is Bhajan Clubbing? PM Modi attends Delhi event marking Deendayal Upadhyaya’s birth anniversary](https://www.livemint.com/news/india/what-is-bhajan-clubbing-pm-modi-attends-delhi-event-marking-deendayal-upadhyaya-s-birth-anniversary-11790355872549.html)
-- [The death of distance: How Vande Bharat, bridges, tunnels and expressways draw Indian cities closer without moving](https://www.livemint.com/news/india/the-death-of-distance-vande-bharat-bridges-tunnels-expressways-helping-indian-cities-to-get-closer-without-movi-11790347692438.html)
-- [Noah Woods death: Inquest hears how three-year-old non-verbal boy died in Suffolk Pond](https://www.livemint.com/news/world/noah-woods-death-inquest-hears-how-three-year-old-non-verbal-boy-died-in-suffolk-pond-11790353802373.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -147,35 +137,35 @@
 - [ಚಿಕ್ಕಮಗಳೂರು |ರಾಜ್ಯದಲ್ಲಿ ಪ್ರಸ್ತುತ 9,೦೦೦ಕ್ಕೂ ಹೆಚ್ಚು ಪೋಕ್ಸೋ ಪ್ರಕರಣ](https://eedina.com/?p=766324)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (3.9)
+- Trump (5.2)
 - India (3.9)
-- What (2.6)
+- What (3.9)
 - China (2.6)
 - Delhi (2.6)
 - Case (2.6)
 - Odisha (2.6)
 - Airbus (2.6)
 - IndiGo (2.6)
+- Centre (2.6)
 - Iran (2.6)
 - Veeramani Sexual Abuse (2.0)
 - Punjab (1.9)
 - Congress (1.6)
 - Stalin (1.6)
-- Open (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [જામનગર એલસીબીની કાર્યવાહી : ડુપ્લીકેટ ઇંગ્લીશ દારૂના ગુનામાં નાસતા ફરતા બે આરોપીઓ રાજસ્થાન અને હરિયાણામાંથી ઝડપાયા](https://www.gujaratsamachar.com/news/jamnagar/jamnagar-lcb-action-two-accused-absconding-in-duplicate-english-liquor-case-arrested-from-rajasthan-and-haryana-81450074067)
-- [Air India Pilot: జూరిచ్ టు ఢిల్లీ విమానం.. ఎయిర్ ఇండియా పైల‌ట్ స‌స్పెన్ష‌న్‌](https://www.ntnews.com/national/air-india-co-pilot-fails-alcohol-test-at-zurich-airport-he-is-suspended-2519605)
-- [ट्रंप ने दिखाया बाइडेन का ऑटो-पेन तो खिलखिला उठे जिनपिंग... दिलचस्प VIDEO](https://www.aajtak.in/world/story/donald-trump-joe-biden-autopen-joke-xi-jinping-laughs-white-houe-ntc-mnrd-smsr-2652922-2026-09-25)
-- [Suvendu Adhikari: বিদ্যুতে মিলবে ইউনিট প্রতি ২ টাকা ভর্তুকি! কৃষকদের জন্য বড় ঘোষণা শুভেন্দুর](https://tv9bangla.com/west-bengal/purba-bardhaman/bardhaman-rally-cm-suvendu-adhikari-announces-power-bill-relief-msp-hike-for-farmers-1348774.html)
-- ["മാറി നിൽക്ക്"; മാധ്യമങ്ങളോട് കയർത്ത് മുഖ്യമന്ത്രി വി.ഡി. സതീശൻ](https://www.newsmalayalam.com/newsroom/kerala/chief-minister-snaps-at-the-media-vd-satheesan)
-- ['बिग बॉस' में फ्लॉप हुईं बादशाह की EX वाइफ ईशा, न गेम-न मुद्दा, सलमान की चेतावनी भी बेअसर!](https://www.aajtak.in/entertainment/television/story/bigg-boss-isha-rikhi-flop-game-salman-khan-warning-nomination-updates-tmovf-dskc-2652412-2026-09-25)
-- [अर्जुन तेंडुलकरला पत्नी सानियाने रोमँटिक होत दिल्या वाढदिवसाच्या शुभेच्छा, पाहा खास फोटो](https://www.lokmat.com/cricket/news/arjun-tendulkars-wife-sania-romantically-wishes-him-on-his-birthday-see-special-photo-a-a301/)
-- [Heavy rain lashes Odisha; over 10,000 people evacuated, ministers rush to affected districts | LIVE](https://www.thehindu.com/news/national/cyclone-arnab-heavy-rain-lashes-odisha-andhra-pradesh-red-alert-weather-live-updates-september-25-2026/article71506926.ece)
-- [SA vs AUS: చరిత్ర సృష్టించిన సౌతాఫ్రికా ఆల్‌రౌండర్‌](https://www.sakshi.com/telugu-news/sports/marco-jansen-becomes-1st-player-achieve-rarest-rare-feat-vs-aus-2912603)
-- [ગણેશ વિસર્જન: બાપ્પાની વિદાયથી ભાવુક બન્યા ભક્તો, ગુજરાતભરમાં ભક્તિમય માહોલ](https://gujarati.abplive.com/astro/ganesh-visarjan-anant-chaturdashi-gujarat-ahmedabad-surat-vadodara-lunawada-992011)
+- [મુખ્ય ચૂંટણી કમિશનર જ્ઞાનેશ કુમારને લઈને ભાજપના સાથી પક્ષો પણ ચિંતિત, કહ્યું- તેમણે જવાબ આપવો જોઈએ](https://www.gujaratsamachar.com/news/national/now-even-bjp-allies-are-worried-about-cec-gyanesh-kumar-said-give-an-answer-35994254762)
+- [Yashpal Sharma Brother Arrested: सापळा रचला, अभिनेत्याच्या भावाला ३ हजार रुपयांची लाच घेताना अटक; लाचलुचपत प्रतिबंधक विभागाची कारवाई](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/yashpal-sharmas-brother-held-for-accepting-rs-3000-bribe-in-hisar/articleshow/134480485.cms)
+- [દેશભરની બેંકોમાં 28થી 30 સપ્ટેમ્બર હડતાળ! જાણો કઈ બે માગ માટે કર્મચારીઓએ છેડ્યો છે જંગ](https://www.gujaratsamachar.com/news/utility/Public-Sector-Bank-Employees-Announce-3-Day-Nationwide-Strike-Over-5-Day-Workweek-98212133356)
+- [CJP नेताओं दीपके, रांका और दास के खिलाफ HC में याचिका, तुरंत सुनवाई को तैयार अदालत; महिला ने लगाया है आरोप](https://www.livehindustan.com/ncr/cjp-leaders-saurav-das-abhijeet-dipke-ashutosh-ranka-delhi-hc-agrees-to-hear-plea-201790327867386.html)
+- [नेपाळ क्रिकेट संघाचा अफगाणिस्तानला धक्का, Asian Games 2026 मध्ये दमदार विजयी सुरुवात](https://www.lokmat.com/cricket/news/nepal-afghanistan-asian-games-2026-t20i-cricket-match-highlights-nep-vs-afg-t20i-a-a747/)
+- [Gold and Silver Price: পুজোর আগে সোনার দামে বড় বদল? কলকাতায় সোনা-রুপোর দামে চমক?](https://bengali.abplive.com/business/gold-and-silver-price-for-25-september-know-the-rate-chart-1194107)
+- [വോട്ട് മോഷണം മുതൽ നിയമ മോഷണം വരെ: ഇന്ത്യൻ ജനാധിപത്യത്തിന്റെ കാവൽക്കാർ ആരെ ഭയക്കണം?](https://www.southlive.in/from-vote-theft-to-legal-theft-whom-should-the-guardians-of-indian-democracy-fear/)
+- [ആ ബ്ലാക്ക് മെയിലിങ് അവസാനിച്ചു; രേഖ പുറത്തുവിട്ടത് ഒത്തുകളി വെളിവാക്കാൻ: ഷോൺ ജോർജ്](https://www.manoramaonline.com/news/latest-news/2026/09/25/shone-george-denies-internal-discord-in-bjp-over-cmrl-case-diary.html)
+- [Ranveer Singh makes first public appearance after welcoming second daughter with Deepika Padukone; attends screening of Padda starrer ‘Hunkkaar: The Roar’](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-makes-first-public-appearance-after-welcoming-second-daughter-with-deepika-padukone-attends-screening-of-padda-starrer-hunkkaar-the-roar/articleshow/134480952.cms)
+- [Asian Games 2026: ১০ মিটার এয়ার পিস্তল মিক্সড টিম ইভেন্টে সোনা জিতলেন সুরুচি, কমলজিৎ](https://bengali.abplive.com/sports/asian-games-2026-suruchi-kamaljeet-win-10m-air-pistol-mixed-team-gold-know-details-1194103)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
