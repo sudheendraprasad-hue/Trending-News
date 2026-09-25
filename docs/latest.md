@@ -1,23 +1,23 @@
-# India Trending Report — 2026-09-25 20:35:26
+# India Trending Report — 2026-09-25 21:01:54
 
 ## Google Trends (India) — top trending searches
-1. [france football](https://trends.google.com/trending/rss?geo=IN)
-2. [mika godts](https://trends.google.com/trending/rss?geo=IN)
-3. [france](https://trends.google.com/trending/rss?geo=IN)
-4. [africa cup of nations qualification](https://trends.google.com/trending/rss?geo=IN)
-5. [algeria vs zambia](https://trends.google.com/trending/rss?geo=IN)
-6. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
-7. [mali vs cabo verde](https://trends.google.com/trending/rss?geo=IN)
-8. [morocco vs gabon](https://trends.google.com/trending/rss?geo=IN)
-9. [sweden vs romania](https://trends.google.com/trending/rss?geo=IN)
-10. [egypt vs angola](https://trends.google.com/trending/rss?geo=IN)
+1. [will smith](https://trends.google.com/trending/rss?geo=IN)
+2. [lalbaugcha raja](https://trends.google.com/trending/rss?geo=IN)
+3. [france football](https://trends.google.com/trending/rss?geo=IN)
+4. [mika godts](https://trends.google.com/trending/rss?geo=IN)
+5. [france](https://trends.google.com/trending/rss?geo=IN)
+6. [africa cup of nations qualification](https://trends.google.com/trending/rss?geo=IN)
+7. [algeria vs zambia](https://trends.google.com/trending/rss?geo=IN)
+8. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
+9. [mali vs cabo verde](https://trends.google.com/trending/rss?geo=IN)
+10. [morocco vs gabon](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Trump embraces Xi as peer, alarms partners and critics](https://timesofindia.indiatimes.com/world/us/trump-embraces-xi-as-peer-alarms-partners-and-critics/articleshow/134489947.cms)
 - [India is kicking car safety into top gear with Bharat NCAP 2.0: What you need to know](https://timesofindia.indiatimes.com/india/5-ways-india-is-kicking-car-safety-into-top-gear-with-bharat-ncap-2-0-what-buyers-need-to-know/articleshow/134487081.cms)
 - [UP polls: Why Akhilesh’s ‘rath’ show in Raebareli is message for Rahul](https://timesofindia.indiatimes.com/india/2027-up-assembly-polls-fight-against-bjp-or-congress-why-akhileshs-rath-show-in-raebareli-is-message-for-rahul/articleshow/134487928.cms)
 - [Pakistan PM draws ‘red line’ over Mecca at UN, defends Saudi-Türkiye defence pact](https://timesofindia.indiatimes.com/world/pakistan/no-muslim-can-even-dare-pakistan-pm-at-un-condemns-houthi-attacks-draws-red-line-over-mecca/articleshow/134492050.cms)
-- [Trump embraces Xi as peer, alarms partners and critics](https://timesofindia.indiatimes.com/world/us/trump-embraces-xi-as-peer-alarms-partners-and-critics/articleshow/134489947.cms)
 - [NDA unease over EC-SIR row? 3 BJP allies seek answers as oppn turns up heat](https://timesofindia.indiatimes.com/india/unease-within-nda-over-ec-sir-row-three-bjp-allies-seek-clarification-as-opposition-keeps-up-pressure/articleshow/134488531.cms)
 - [Zuckerberg’s $300m superyacht docks in Japan, gets neighbour who once wanted Meta out](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-300-million-superyacht-docked-in-japan-for-the-first-time-launchpad-has-a-new-neighbour-the-billionaire-who-once-wanted-meta-suspend-its-japanese-operations/articleshow/134478817.cms)
 - [Hardik Pandya set to miss India A fixtures; racing against time for New Zealand tour](https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandya-set-to-miss-india-a-fixtures-racing-against-time-for-new-zealand-tour-exclusive/articleshow/134489676.cms)
@@ -62,18 +62,20 @@
 - [ಅಮೆರಿಕ ಭಾಗಶಃ ಷರತ್ತು ಈಡೇರಿಸಿದರೆ ಹರ್ಮುಜ್‌ ಮುಕ್ತ, ಪರಮಾಣು ಕಾರ್ಯಕ್ರಮ ಮಾತುಕತೆಗೂ ಸಿದ್ಧ: ಇರಾನ್ ಹೊಸ ಪ್ರಸ್ತಾಪ](https://vijaykarnataka.com/news/world/irans-new-proposal-if-usa-partially-meets-conditions-within-a-week-strait-of-hormuz-will-open/articleshow/134490418.cms)
 
 **The Hindu**
+- [Greater Noida bus fire: booking manager arrested for negligence](https://www.thehindu.com/news/national/uttar-pradesh/greater-noida-bus-fire-booking-manager-arrested-for-negligence/article71509263.ece)
+- [Congress hopes for calm in Punjab unit but storm clouds remain ahead of 2027 Assembly election](https://www.thehindu.com/news/national/punjab/congress-hopes-for-calm-in-punjab-unit-but-storm-clouds-remain-ahead-of-2027-assembly-election/article71509096.ece)
 - [M.P. gets govt. bus service after 21 years; 351 buses flagged off](https://www.thehindu.com/news/national/madhya-pradesh/mp-getsgovt-bus-service-after-21-years-351-buses-flagged-off/article71509637.ece)
 - [Foreign buyers impressed by experiential tourism avenues in Keralam](https://www.thehindu.com/news/national/kerala/foreign-buyers-impressed-by-experiential-tourism-avenues-in-keralam/article71509052.ece)
 - [VCK councillors stage walk out over placement of Ambedkar’s photo in Chennai Corporation council hall](https://www.thehindu.com/news/cities/chennai/vck-councillors-stage-walk-out-over-placement-of-ambedkars-photo-in-chennai-corporation-council-hall/article71508719.ece)
+- [E20 fuel increases mileage, helps farmers, and will not harm vehicles, says Gadkari](https://www.thehindu.com/news/national/e20-fuel-increases-mileage-helps-farmers-and-will-not-harm-vehicles-says-gadkari/article71509834.ece)
 - [Hyderabad Metro Rail Phase-I takeover, Phase-II expansion hit roadblock as funding search drags on](https://www.thehindu.com/news/national/telangana/hyderabad-metro-rail-phase-i-takeover-phase-ii-expansion-hit-roadblock-as-funding-search-drags-on/article71509329.ece)
 - [A laddu mirroring the changing fortunes of Balapur](https://www.thehindu.com/news/national/telangana/a-laddu-mirroring-the-changing-fortunes-of-balapur/article71509261.ece)
 - [Narrowed posture: On Karnataka and the Kasturirangan Report](https://www.thehindu.com/opinion/editorial/narrowed-posture-on-karnataka-and-the-kasturirangan-report/article71508916.ece)
 - [ICG ship Shaunak sails for Australia with QUAD officers onboard](https://www.thehindu.com/news/national/icg-ship-shaunak-sails-for-australia-with-quad-officers-onboard/article71509417.ece)
-- [1,671 km of stormwater drains being desilted: Chennai Mayor](https://www.thehindu.com/news/national/tamil-nadu/1671-km-of-stormwater-drains-being-desilted-chennai-mayor/article71510339.ece)
-- [Rani Channamma University officials held over fraud allegations](https://www.thehindu.com/news/national/karnataka/rani-channamma-university-officials-held-over-fraud-allegations/article71508843.ece)
-- [Railways to run 102 festival special trips via Solapur division](https://www.thehindu.com/news/national/karnataka/railways-to-run-102-festival-special-trips-via-solapur-division/article71509426.ece)
 
 **Livemint**
+- [Iran-Linked Oil Tankers Seized by Navy Sailing Toward US](https://www.livemint.com/news/us-news/iranlinked-oil-tankers-seized-by-navy-sailing-toward-us-11790369992931.html)
+- [Iran offers to reopen Strait of Hormuz in 7 days: 3 conditions it has set for Trump](https://www.livemint.com/news/us-news/iran-offers-to-reopen-strait-of-hormuz-in-7-days-3-conditions-it-has-set-for-trump-11790367464037.html)
 - [Trump warns Xi against support for Iran — China gives conflicting assurances](https://www.livemint.com/news/us-news/trump-warns-xi-against-support-for-iran-china-gives-conflicting-assurances-11790366660161.html)
 - [ICE Enforcement Hits Kansas Meatpacking Operations, Ranchers Say](https://www.livemint.com/news/us-news/ice-enforcement-hits-kansas-meatpacking-operations-ranchers-say-11790365423991.html)
 - [Kaun Banega Crorepati 18: Noida techie faces  ₹25 lakh Dead Sea question — here’s why he decided to quit](https://www.livemint.com/news/trends/kbc-18-noida-techie-faces-rs-25-lakh-dead-sea-question-here-s-why-he-decided-to-quit-11790362346449.html)
@@ -82,8 +84,6 @@
 - [What is Bhajan Clubbing? PM Modi attends Delhi event marking Deendayal Upadhyaya’s birth anniversary](https://www.livemint.com/news/india/what-is-bhajan-clubbing-pm-modi-attends-delhi-event-marking-deendayal-upadhyaya-s-birth-anniversary-11790355872549.html)
 - [The death of distance: How Vande Bharat, bridges, tunnels and expressways draw Indian cities closer without moving](https://www.livemint.com/news/india/the-death-of-distance-vande-bharat-bridges-tunnels-expressways-helping-indian-cities-to-get-closer-without-movi-11790347692438.html)
 - [Noah Woods death: Inquest hears how three-year-old non-verbal boy died in Suffolk Pond](https://www.livemint.com/news/world/noah-woods-death-inquest-hears-how-three-year-old-non-verbal-boy-died-in-suffolk-pond-11790353802373.html)
-- [Who is Mandeep K Bhandari? Meet the new CBSE chairman — an IAS officer with medical background](https://www.livemint.com/news/india/who-is-mandeep-k-bhandari-meet-the-new-cbse-chairman-an-ias-officer-with-medical-background-11790355333975.html)
-- [US proposes new trilateral peace talks with Russia and Ukraine in UAE: Zelensky](https://www.livemint.com/news/world/us-proposes-new-trilateral-peace-talks-with-russia-and-ukraine-in-uae-zelensky-11790345229479.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -131,9 +131,6 @@
 - [ಜಾಗತಿಕ ಮಾರುಕಟ್ಟೆಗೆ ಕಲಬುರಗಿ ‘ತೊಗರಿಬೇಳೆ’: ಮಾಲ್ಡೀವ್ಸ್‌ಗೆ ರವಾನೆ](https://www.prajavani.net/news/karnataka-news/kalaburagi-gi-tag-red-gram-exported-to-maldives-4288138)
 - [ಪೌರಕಾರ್ಮಿಕರಿಗೆ ಸೌಲಭ್ಯ ದೊರಕಿಸಲು ಸಚಿವ ಸಂಪುಟ ಉಪಸಮಿತಿ‌ ರಚನೆ: ಸಿಎಂ](https://www.prajavani.net/news/karnataka-news/karnataka-cabinet-sub-committee-for-pourakarmika-welfare-schemes-4286827)
 - [ಸರೇ ಚಾಂಪಿಯನ್‌ಶಿಪ್‌: ಕನ್ನಡಿಗರುಯುಕೆ ಕ್ರಿಕೆಟ್ ಕ್ಲಬ್‌ನ ಪಯಣ](https://www.prajavani.net/news/nrk/kannadigaru-uk-cricket-club-wins-surrey-championship-4288053)
-- [ಕೆಪಿಎಸ್‌ಸಿ ಹುದ್ದೆಗಳ ನೇಮಕಾತಿ ಅಕ್ರಮ: ಘ್ಯಾನೇಂದ್ರ ಕುಮಾರ್‌ ಜಾಮೀನು ಅರ್ಜಿ ವಜಾ](https://www.prajavani.net/news/karnataka-news/kpsc-recruitment-scam-ias-officer-bail-rejected-4288000)
-- [ಷರತ್ತುಗಳನ್ನು ಪೂರೈಸಿದರೆ 7 ದಿನಗಳಲ್ಲಿ ಹೊರ್ಮುಜ್‌ ತೆರೆಯುತ್ತೇವೆ: ಇರಾನ್‌](https://www.prajavani.net/news/world-news/iran-proposes-opening-strait-of-hormuz-in-seven-days-4287874)
-- [ಬರಿಗಣ್ಣಿಗೆ ಕಾಣದ ವಸ್ತುಗಳನ್ನು ಗುರುತಿಸಲು ಮೊಬೈಲ್ ಕ್ಯಾಮೆರಾ ಸೆನ್ಸಾರ್](https://www.prajavani.net/news/india-news/iit-kharagpur-smartphone-sensor-microscopic-detection-technology-4287966)
 - [ಎಸ್‌ಐಆರ್‌ ನಿರ್ವಹಣೆ: ಸ್ಪಷ್ಟನೆಗೆ ಎನ್‌ಡಿಎ ಮಿತ್ರಪಕ್ಷಗಳ ಆಗ್ರಹ](https://www.prajavani.net/news/india-news/nda-allies-demand-clarification-from-election-commission-on-ssr-management-4287952)
 - [ಬರ್ಮಕಿಡ್‌ ಕುಟುಂಬದ ಪತನ: ಕಳಚಿದ ಭಾರತ–ಇಸ್ಲಾಂ ‘ಬೌದ್ಧಿಕ ಸೇತುವೆ’](https://www.prajavani.net/op-ed/articles/barmakids-and-the-lost-bridge-between-india-and-islam-4287292)
 
@@ -150,35 +147,35 @@
 - [ಚಿಕ್ಕಮಗಳೂರು |ರಾಜ್ಯದಲ್ಲಿ ಪ್ರಸ್ತುತ 9,೦೦೦ಕ್ಕೂ ಹೆಚ್ಚು ಪೋಕ್ಸೋ ಪ್ರಕರಣ](https://eedina.com/?p=766324)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Trump (3.9)
 - India (3.9)
 - What (2.6)
-- Trump (2.6)
 - China (2.6)
 - Delhi (2.6)
 - Case (2.6)
 - Odisha (2.6)
 - Airbus (2.6)
 - IndiGo (2.6)
+- Iran (2.6)
 - Veeramani Sexual Abuse (2.0)
-- Mandeep (1.6)
-- Bhandari (1.6)
-- CBSE (1.6)
+- Punjab (1.9)
+- Congress (1.6)
 - Stalin (1.6)
 - Open (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [പൂജാമുറിയിലെ സ്വർണാഭരണങ്ങൾ സമൂഹമാധ്യമത്തിൽ; യൂട്യൂബറുടെ വീട് കുത്തിത്തുറന്ന് 118 പവനും പണവും കവർന്നു](https://malayalam.news18.com/news/kerala/youtuber-house-robbery-118-sovereign-gold-stolen-mm-789972.html)
-- [ஒரே நாளில் ஆல்டைம் ஹிட் அடித்த ட்ரான்ஸ்போர்ட் கார்ப்பரேஷன் ஆஃப் இந்தியா, 14% வரை உயர்ந்த பங்கு விலை](https://tamil.economictimes.com/market/stocks/shares-surge-14-in-a-day-transport-corporation-of-india-considers-share-buyback-proposal-in-upcoming-board-meeting/articleshow/134479960.cms)
-- ['हनुमान अंश' ही नहीं, ये 7 फिल्में भी रहीं Sleeper Hit, छठी फिल्म ने तो कमाए थे 300 करोड़](https://hindi.news18.com/photogallery/entertainment/bollywood-not-only-hanuman-ansh-these-7-films-also-turned-into-sleeper-hits-sixth-film-earned-300-crore-10863693.html)
-- [NEP vs AFG: नेपाल ने किया अफगानिस्तान का T20I में काम तमाम, एशियन गेम्स में दी पटखनी, ऐसे पलटी हारी हुई बाजी](https://www.aajtak.in/sports/asian-games/story/nepal-afghanistan-asian-games-2026-t20i-cricket-match-highlights-tspok-dskc-2652919-2026-09-25)
-- [ഹോർമുസ് കടലിടുക്ക് തുറക്കുന്നതിനും ആണവ ചർച്ചകൾക്കും 7 ദിവസത്തെ പദ്ധതിയുമായി ഇറാൻ](https://malayalam.news18.com/news/world/iran-proposes-7-day-plan-to-reopen-strait-of-hormuz-and-restart-nuclear-talks-with-us-rv-789973.html)
-- [43 की उम्र में तीसरी बार प्रेग्नेंट एक्ट्रेस? पति ने दी गुड न्यूज, हुआ इमोशनल](https://www.aajtak.in/entertainment/television/photo/debina-banerjee-pregnant-third-time-at-43-age-gurmeet-choudhary-share-good-news-gets-emotional-isha-malviya-tmovb-2652902-2026-09-25)
-- [Bats first originated in Europe 65 million years ago, scientists say](https://www.thehindu.com/sci-tech/science/bats-first-originated-in-europe-65-million-years-ago-scientists-say/article71506978.ece)
-- [કચ્છ, ઉત્તર ગુજરાતમાંથી ચોમાસાની વિદાય શરૂ, રાજ્યમાં ક્યાં](https://www.bbc.com/gujarati/articles/cqn74npv5jvpo)
-- [Tata Aeris: வெறும் 5.29 லட்சத்தில் களமிறங்கிய டாடா ஏரிஸ், 6 ஏர்பேக்குகள்- டிசையருக்கு போட்டி? என்னென்ன அம்சங்கள்?](https://tamil.abplive.com/auto/tata-aeris-launched-starting-price-rs-5-29-lakh-cheaper-than-maruti-dzire-automobile-news-275607)
-- [Asian Games: Defending champions Satwiksairaj Rankireddy, Chirag Shetty suffer shock first-round exit](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-defending-champions-satwiksairaj-rankireddy-chirag-shetty-suffer-shock-first-round-exit-in-mens-doubles-event/articleshow/134479772.cms)
+- [જામનગર એલસીબીની કાર્યવાહી : ડુપ્લીકેટ ઇંગ્લીશ દારૂના ગુનામાં નાસતા ફરતા બે આરોપીઓ રાજસ્થાન અને હરિયાણામાંથી ઝડપાયા](https://www.gujaratsamachar.com/news/jamnagar/jamnagar-lcb-action-two-accused-absconding-in-duplicate-english-liquor-case-arrested-from-rajasthan-and-haryana-81450074067)
+- [Air India Pilot: జూరిచ్ టు ఢిల్లీ విమానం.. ఎయిర్ ఇండియా పైల‌ట్ స‌స్పెన్ష‌న్‌](https://www.ntnews.com/national/air-india-co-pilot-fails-alcohol-test-at-zurich-airport-he-is-suspended-2519605)
+- [ट्रंप ने दिखाया बाइडेन का ऑटो-पेन तो खिलखिला उठे जिनपिंग... दिलचस्प VIDEO](https://www.aajtak.in/world/story/donald-trump-joe-biden-autopen-joke-xi-jinping-laughs-white-houe-ntc-mnrd-smsr-2652922-2026-09-25)
+- [Suvendu Adhikari: বিদ্যুতে মিলবে ইউনিট প্রতি ২ টাকা ভর্তুকি! কৃষকদের জন্য বড় ঘোষণা শুভেন্দুর](https://tv9bangla.com/west-bengal/purba-bardhaman/bardhaman-rally-cm-suvendu-adhikari-announces-power-bill-relief-msp-hike-for-farmers-1348774.html)
+- ["മാറി നിൽക്ക്"; മാധ്യമങ്ങളോട് കയർത്ത് മുഖ്യമന്ത്രി വി.ഡി. സതീശൻ](https://www.newsmalayalam.com/newsroom/kerala/chief-minister-snaps-at-the-media-vd-satheesan)
+- ['बिग बॉस' में फ्लॉप हुईं बादशाह की EX वाइफ ईशा, न गेम-न मुद्दा, सलमान की चेतावनी भी बेअसर!](https://www.aajtak.in/entertainment/television/story/bigg-boss-isha-rikhi-flop-game-salman-khan-warning-nomination-updates-tmovf-dskc-2652412-2026-09-25)
+- [अर्जुन तेंडुलकरला पत्नी सानियाने रोमँटिक होत दिल्या वाढदिवसाच्या शुभेच्छा, पाहा खास फोटो](https://www.lokmat.com/cricket/news/arjun-tendulkars-wife-sania-romantically-wishes-him-on-his-birthday-see-special-photo-a-a301/)
+- [Heavy rain lashes Odisha; over 10,000 people evacuated, ministers rush to affected districts | LIVE](https://www.thehindu.com/news/national/cyclone-arnab-heavy-rain-lashes-odisha-andhra-pradesh-red-alert-weather-live-updates-september-25-2026/article71506926.ece)
+- [SA vs AUS: చరిత్ర సృష్టించిన సౌతాఫ్రికా ఆల్‌రౌండర్‌](https://www.sakshi.com/telugu-news/sports/marco-jansen-becomes-1st-player-achieve-rarest-rare-feat-vs-aus-2912603)
+- [ગણેશ વિસર્જન: બાપ્પાની વિદાયથી ભાવુક બન્યા ભક્તો, ગુજરાતભરમાં ભક્તિમય માહોલ](https://gujarati.abplive.com/astro/ganesh-visarjan-anant-chaturdashi-gujarat-ahmedabad-surat-vadodara-lunawada-992011)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
