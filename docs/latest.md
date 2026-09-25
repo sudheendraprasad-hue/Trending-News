@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-25 22:01:58
+# India Trending Report — 2026-09-25 22:34:47
 
 ## Google Trends (India) — top trending searches
 1. [egypt national football team vs angola national football team standings](https://trends.google.com/trending/rss?geo=IN)
@@ -10,7 +10,7 @@
 7. [lalbaugcha raja](https://trends.google.com/trending/rss?geo=IN)
 8. [mika godts](https://trends.google.com/trending/rss?geo=IN)
 9. [france](https://trends.google.com/trending/rss?geo=IN)
-10. [africa cup of nations qualification](https://trends.google.com/trending/rss?geo=IN)
+10. [algeria vs zambia](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -63,6 +63,8 @@
 
 **The Hindu**
 - [U.P. Congress leaders clash with police, detained during protest against Chief Election Commissioner](https://www.thehindu.com/news/national/uttar-pradesh/up-congress-leaders-clash-with-police-detained-during-protest-against-chief-election-commissioner/article71509301.ece)
+- [Jammu and Kashmir High Court turns down ED plea to insert fresh charges against Farooq Abdullah in JKCA scam](https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmir-high-court-turns-down-ed-plea-to-insert-fresh-charges-against-farooq-abdullah-in-jkca-scam/article71509206.ece)
+- [FIR lodged against Bihar CMO staff for posting Jamui victim’s photo on X](https://www.thehindu.com/news/national/bihar/fir-lodged-against-bihar-cmo-staff-for-posting-jamui-victims-photo-on-x/article71510152.ece)
 - [Greater Noida bus fire: booking manager arrested for negligence](https://www.thehindu.com/news/national/uttar-pradesh/greater-noida-bus-fire-booking-manager-arrested-for-negligence/article71509263.ece)
 - [Former IAS officer appointed on Maha UCC panel](https://www.thehindu.com/news/national/maharashtra/former-ias-officer-appointed-on-maha-ucc-panel/article71509943.ece)
 - [Congress hopes for calm in Punjab unit but storm clouds remain ahead of 2027 Assembly election](https://www.thehindu.com/news/national/punjab/congress-hopes-for-calm-in-punjab-unit-but-storm-clouds-remain-ahead-of-2027-assembly-election/article71509096.ece)
@@ -70,10 +72,10 @@
 - [M.P. gets govt. bus service after 21 years; 351 buses flagged off](https://www.thehindu.com/news/national/madhya-pradesh/mp-getsgovt-bus-service-after-21-years-351-buses-flagged-off/article71509637.ece)
 - [Foreign buyers impressed by experiential tourism avenues in Keralam](https://www.thehindu.com/news/national/kerala/foreign-buyers-impressed-by-experiential-tourism-avenues-in-keralam/article71509052.ece)
 - [Bihar Minister accuses RJD of making objectionable videos viral on social media](https://www.thehindu.com/news/national/bihar/bihar-minister-accuses-rjd-of-making-objectionable-videos-viral-on-social-media/article71509898.ece)
-- [VCK councillors stage walk out over placement of Ambedkar’s photo in Chennai Corporation council hall](https://www.thehindu.com/news/cities/chennai/vck-councillors-stage-walk-out-over-placement-of-ambedkars-photo-in-chennai-corporation-council-hall/article71508719.ece)
-- [E20 fuel increases mileage, helps farmers, and will not harm vehicles, says Gadkari](https://www.thehindu.com/news/national/e20-fuel-increases-mileage-helps-farmers-and-will-not-harm-vehicles-says-gadkari/article71509834.ece)
 
 **Livemint**
+- [New York’s Nor’easter Threat Grows With Volatile Storm Track](https://www.livemint.com/news/new-york-s-nor-easter-threat-grows-with-volatile-storm-track-11790373812670.html)
+- [Connor Nelson’s California apartment break-in: What happened and what we know so far](https://www.livemint.com/news/us-news/connor-nelson-s-california-apartment-break-in-what-happened-and-what-we-know-so-far-11790372474787.html)
 - [Melania Trump says she had a ‘very beautiful childhood’ under communism — But reveals one big difference](https://www.livemint.com/news/us-news/melania-trump-says-she-had-a-very-beautiful-childhood-under-communism-but-reveals-one-big-difference-11790370354306.html)
 - [Nigella Lawson has a very unusual Bake Off habit — Alison Hammond reveals what she does: ‘She’s like Cleopatra'](https://www.livemint.com/news/world/nigella-lawson-has-a-very-unusual-bake-off-habit-alison-hammond-reveals-what-she-does-she-s-like-cleopatra-11790370760296.html)
 - [Trump’s voter verification system returns: What changed after Supreme Court ruling](https://www.livemint.com/news/us-news/trumps-voter-verification-system-returns-what-changed-after-supreme-court-ruling-11790365501392.html)
@@ -82,8 +84,6 @@
 - [Trump warns Xi against support for Iran — China gives conflicting assurances](https://www.livemint.com/news/us-news/trump-warns-xi-against-support-for-iran-china-gives-conflicting-assurances-11790366660161.html)
 - [ICE Enforcement Hits Kansas Meatpacking Operations, Ranchers Say](https://www.livemint.com/news/us-news/ice-enforcement-hits-kansas-meatpacking-operations-ranchers-say-11790365423991.html)
 - [Kaun Banega Crorepati 18: Noida techie faces  ₹25 lakh Dead Sea question — here’s why he decided to quit](https://www.livemint.com/news/trends/kbc-18-noida-techie-faces-rs-25-lakh-dead-sea-question-here-s-why-he-decided-to-quit-11790362346449.html)
-- [Westbury high school: Houston ISD student shot dead on Dryad Street near campus; no suspect arrested yet](https://www.livemint.com/news/us-news/westbury-high-school-houston-isd-student-shot-dead-on-dryad-street-near-campus-no-suspect-arrested-yet-11790359105178.html)
-- [Airbus detects quality issue in A321 neo fuselage coating; around a dozen IndiGo aircraft impacted](https://www.livemint.com/news/india/airbus-detects-quality-issue-in-a321neo-fuselage-coating-around-a-dozen-indigo-aircraft-impacted-11790358422246.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -128,7 +128,6 @@
 **Prajavani**
 - [‌ರಾಜಕೀಯಕ್ಕೆ ಎಸ್ಐಆರ್ ಬಳಕೆ ಸರಿಯಲ್ಲ: ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ. ಶಿವಕುಮಾರ್](https://www.prajavani.net/news/karnataka-news/dk-shivakumar-objects-political-use-of-voter-list-revision-4287940)
 - [ಫಿಫಾ ಸ್ನೇಹಪರ ಫುಟ್‍ಬಾಲ್ ಪಂದ್ಯ: ಪನಾಮಾ ಜೊತೆಗೆ ಡ್ರಾ ಸಾಧಿಸಿದ ಭಾರತ](https://www.prajavani.net/sports/football/india-vs-panama-fifa-friendly-football-match-draw-bengaluru-4288068)
-- [ಜಾಗತಿಕ ಮಾರುಕಟ್ಟೆಗೆ ಕಲಬುರಗಿ ‘ತೊಗರಿಬೇಳೆ’: ಮಾಲ್ಡೀವ್ಸ್‌ಗೆ ರವಾನೆ](https://www.prajavani.net/news/karnataka-news/kalaburagi-gi-tag-red-gram-exported-to-maldives-4288138)
 - [ಸರೇ ಚಾಂಪಿಯನ್‌ಶಿಪ್‌: ಕನ್ನಡಿಗರುಯುಕೆ ಕ್ರಿಕೆಟ್ ಕ್ಲಬ್‌ನ ಪಯಣ](https://www.prajavani.net/news/nrk/kannadigaru-uk-cricket-club-wins-surrey-championship-4288053)
 - [ಎಸ್‌ಐಆರ್‌ ನಿರ್ವಹಣೆ: ಸ್ಪಷ್ಟನೆಗೆ ಎನ್‌ಡಿಎ ಮಿತ್ರಪಕ್ಷಗಳ ಆಗ್ರಹ](https://www.prajavani.net/news/india-news/nda-allies-demand-clarification-from-election-commission-on-ssr-management-4287952)
 - [ಬರ್ಮಕಿಡ್‌ ಕುಟುಂಬದ ಪತನ: ಕಳಚಿದ ಭಾರತ–ಇಸ್ಲಾಂ ‘ಬೌದ್ಧಿಕ ಸೇತುವೆ’](https://www.prajavani.net/op-ed/articles/barmakids-and-the-lost-bridge-between-india-and-islam-4287292)
@@ -148,33 +147,33 @@
 ## Cross-source trending keywords (derived from headlines above)
 - Trump (6.8)
 - India (3.9)
+- What (3.9)
 - Congress (2.9)
-- What (2.6)
 - Liberia (2.6)
 - Case (2.6)
 - Odisha (2.6)
-- Airbus (2.6)
-- IndiGo (2.6)
 - Centre (2.6)
 - Iran (2.6)
 - Veeramani Sexual Abuse (2.0)
 - Punjab (1.9)
 - Chief (1.6)
 - Stalin (1.6)
+- Open (1.6)
+- Vijay (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [“அரசுப் பள்ளி வளாகங்களிலேயே மாணவிகளுக்கு பாதுகாப்பு இல்லை” - உதயநிதி சாடல்](https://www.hindutamil.in/news/tamilnadu/no-safety-for-girl-students-even-within-government-school-premises-udhayanidhi-condemns-incident)
-- [Ola Shares: భారీగా పెరిగి ఒక్కసారిగా మళ్లీ పడిపోయిన ఓలా షేర్లు.. స్టాక్ పతనానికి కారణాలివే!](https://telugu.samayam.com/business/share-market/ola-electric-share-price-september-25-shares-fall-9-percent-after-rights-issue-plan/articleshow/134480582.cms)
-- [બોલિવૂડ અભિનેતા મુશ્તાક ખાન સુપુર્દ-એ-ખાક, અંતિમ ક્ષણોની વાત કરતાં ભાવુક થયો પુત્ર મોહસિન](https://www.gujaratsamachar.com/news/entertainment/Bollywood-Actor-Mushtaq-Khan-Laid-to-Rest-Son-Mohsin-Gets-Emotional-51273936157)
-- [सुप्रीम कोर्ट ने हिंदी को आधिकारिक भाषा बनाने की मांग वाली याचिका खारिज की](https://hindi.livelaw.in/category/news-updates/supreme-court-hindi-official-language-hindi-in-supreme-court-article-348-551804)
-- [₹5.29 लाख में लॉन्च हुई सबसे सस्ती सेडान Tata Aeris, धांसू सेफ्टी और फीचर्स ने डिजायर-ऑरा के उड़ाए होश](https://navbharattimes.indiatimes.com/auto/car-bikes/tata-cars-launches-new-aeris-compact-sedan-at-5-lakh-29-thousand-rupees-petrol-and-icng-options-with-better-features-safety/articleshow/134481272.cms)
-- [India A: ఆస్ట్రేలియా-ఏపై 162 ర‌న్స్ తేడాతో భార‌త్‌-ఏ గెలుపు](https://www.ntnews.com/sports/india-a-thump-australia-a-by-162-runs-in-first-four-day-fixture-2519753)
-- [पेट्रोल पंपांवर UPI पेमेंटचा ₹5 चार्ज हटणार? डीलर्सच्या मागणीवर पेट्रोलियम मंत्रालयाचं मोठं स्पष्टीकरण, काय सांगितलं?](https://www.tv9marathi.com/business/petrol-pump-upi-charge-5-rs-mdr-on-payments-above-2000-rs-petroleum-ministry-clarifies-1764016.html)
-- [पुतिन और जिनपिंग के US जाने पर बमवर्षक विमान क्यों उड़े, क्या मैसेज देना चाहते हैं ट्रंप?](https://www.livehindustan.com/international/donald-trump-us-bomber-aircraft-fly-overhead-to-welcome-vladimir-putin-and-xi-jinping-201790328138627.html)
-- [LIVE: मुंबईत भाविकांचा महासागर अन् ‘मोरया’चा गजर! पाहा घरबसल्या लालबागच्या राजाची विसर्जन मिरवणूक](https://www.mumbaitak.in/amp/city-news/story/lalbaugcha-raja-visarjan-procession-live-streaming-2026-mumbai-3287728-2026-09-25)
-- [Asian Games 2026 India medal tally today LIVE: Suruchi-Kamaljeet win gold; Manpreet, Baranica win bronze; Gulveer wins silver](https://sportstar.thehindu.com/asian-games/asian-games-2026-india-medal-tally-live-day-7-september-25/article71507065.ece)
+- ['अरे हा तर आजोबा राजेश खन्नासारखा दिसतो' अक्षय-ट्विकलचा मुलगा आरवला पाहून चाहते शॉक, Viral Video](https://www.esakal.com/trending-news/twinkle-khanna-spotted-with-son-aarav-kumar-daughter-nitara-at-mumbai-airport-fans-compare-aarav-to-rajesh-khanna-viral-video-amk08)
+- [দুর্গাপুজোর আগে শোকের ছায়া, মাকে হারালেন সঙ্গীত পরিচালক ইন্দ্রদীপ দাশগুপ্ত, কী হয়েছিল তাঁর?](https://www.anandabazar.com/entertainment/tollywood-mourns-as-music-director-indraadip-dasgupta-loses-his-mother-at-89-dgtl/cid/1715384)
+- [വീരമണി പോക്‌സോ കേസ്; നടപടിയെടുക്കാത്ത രണ്ട് ഐ.പി.എസ് ഉദ്യോഗസ്ഥരെ ചുമതലകളിൽ നിന്ന് നീക്കി](https://www.expresskerala.com/news/veeramani-pocso-case-two-ips-officers-removed-from-their-posts-for-failing-to-take-action.html)
+- [IIT बॉम्बेबाहेर काँग्रेसची निदर्शने; काँग्रेस खासदार वर्षा गायकवाड, NSIU च्या कार्यकर्त्यांना पोलिसांनी घेतले ताब्यात](https://marathi.freepressjournal.in/mumbai/iit-bombay-congress-protest-varsha-gaikwad-nsui-workers-detained)
+- [દોસ્તમાંથી કટ્ટર દુશ્મન કેમ બન્યા? જાણો પાકિસ્તાન-અફઘાનિસ્તાન વચ્ચે ફરી કેમ ભડક્યું યુદ્ધ!](https://www.gujaratsamachar.com/news/international/why-did-friends-become-bitter-enemies-know-why-war-broke-out-again-between-pakistan-and-afghanistan-73692394500)
+- [‘গোঁফ না থাকলে সে আবার পুরুষ নাকি!’, সলমনকে অপমান বিগ বস প্রতিযোগী আসিফের? শোরগোল নেটপাড়ায়!](https://www.hindustantimes.com/bangla/entertainment/men-without-moustaches-arent-real-men-panchayat-fame-aasif-khan-ignites-huge-controversy-on-salman-khans-bigg-boss-20-271790330092402.html)
+- [காவிரி நீர் பிரச்சினையில் தமிழ்நாடு அரசின் மனுவுக்குக் கருநாடக அரசு பதில் அளிக்க வேண்டும் : உச்சநீதிமன்றம் உத்தரவு](https://viduthalai.in/207523/%E0%AE%95%E0%AE%BE%E0%AE%B5%E0%AE%BF%E0%AE%B0%E0%AE%BF-%E0%AE%A8%E0%AF%80%E0%AE%B0%E0%AF%8D-%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%A9%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%B2/)
+- [3 மாதங்களில் 30% மேல் வீழ்ச்சியடைந்த சுஸ்லான் எனர்ஜி பங்குகள்.. இப்போ வாங்கலாமா.. நிபுணர்கள் அட்வைஸ் என்ன?](https://tamil.economictimes.com/market/stocks/suzlon-energy-shares-down-30-percent-in-3-months-should-you-buy-check-expert-advice/articleshow/134482173.cms)
+- [Aadhav Arjuna: ஜெம் வீரமணி வழக்கு: திமுக ஆட்சியில் முடிக்க ரூ.80 கோடி பரிமாற்றமா? ஆதவ் அர்ஜுனா கேள்வி!](https://tamil.abplive.com/elections/aadhav-arjuna-speech-madurantakam-by-election-2026-campaign-tamil-news-live-275623)
+- [Stock Market Close: Sensex rises 315 pts, Nifty ends at 23,140; realty, auto shares shine](https://www.business-standard.com/markets/news/stock-market-live-updates-september-25-sensex-today-nifty50-gift-nifty-crude-oil-prices-nse-share-price-126092500092_1.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
