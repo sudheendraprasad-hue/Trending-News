@@ -1,31 +1,33 @@
-# India Trending Report — 2026-09-24 23:33:35
+# India Trending Report — 2026-09-25 00:02:17
 
 ## Google Trends (India) — top trending searches
-1. [ruben van bommel](https://trends.google.com/trending/rss?geo=IN)
-2. [rasmus højlund](https://trends.google.com/trending/rss?geo=IN)
-3. [joão palhinha](https://trends.google.com/trending/rss?geo=IN)
-4. [portugal fc match](https://trends.google.com/trending/rss?geo=IN)
-5. [quinten timber](https://trends.google.com/trending/rss?geo=IN)
-6. [marc-andré ter stegen](https://trends.google.com/trending/rss?geo=IN)
-7. [younes ebnoutalib](https://trends.google.com/trending/rss?geo=IN)
-8. [karim adeyemi](https://trends.google.com/trending/rss?geo=IN)
-9. [sonyliv](https://trends.google.com/trending/rss?geo=IN)
-10. [oscar bobb](https://trends.google.com/trending/rss?geo=IN)
+1. [hong kong vs oman](https://trends.google.com/trending/rss?geo=IN)
+2. [हेली मैथ्यूज](https://trends.google.com/trending/rss?geo=IN)
+3. [ప్రపంచ రికార్డు](https://trends.google.com/trending/rss?geo=IN)
+4. [जयंत चौधरी](https://trends.google.com/trending/rss?geo=IN)
+5. [மதுமிதா](https://trends.google.com/trending/rss?geo=IN)
+6. [ruben van bommel](https://trends.google.com/trending/rss?geo=IN)
+7. [rasmus højlund](https://trends.google.com/trending/rss?geo=IN)
+8. [joão palhinha](https://trends.google.com/trending/rss?geo=IN)
+9. [portugal fc match](https://trends.google.com/trending/rss?geo=IN)
+10. [quinten timber](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [At least 30 actors, politicians arrested in anti-Netanyahu protest outside UN](https://timesofindia.indiatimes.com/world/us/at-least-30-arrested-including-actors-politicians-during-anti-netanyahu-protest-outside-un/articleshow/134472170.cms)
+- [Centre moves SC for 2-year window to implement OBC creamy layer verdict](https://timesofindia.indiatimes.com/india/centre-pleads-for-prospective-effect-of-sc-creamy-layer-ruling/articleshow/134472256.cms)
+- [BJP spent Rs 287 crore in Bengal polls, over half its five-state election bill](https://timesofindia.indiatimes.com/india/bjp-spent-287cr-in-bengal-54-of-total-expense-in-5-assembly-polls/articleshow/134472238.cms)
 - [Straitcraft: How geography gives Iran leverage and could do the same for India](https://timesofindia.indiatimes.com/world/middle-east/straitcraft-how-geography-gives-iran-leverage-and-could-do-the-same-for-india/articleshow/134462869.cms)
-- [TMC factional row: SC asks EC for timeframe to decide party name, symbol dispute](https://timesofindia.indiatimes.com/india/sc-seeks-timeframe-from-ec-on-deciding-tmc-factional-feud/articleshow/134472183.cms)
-- [Rs 94,000 crore looted by Dubai-based scammers: CBI arrests key Mahadev app accused](https://timesofindia.indiatimes.com/india/dubai-based-scammers-looted-rs-94000cr-cbi-arrests-mahadev-app-key-accused-deported-from-uae/articleshow/134471944.cms)
 - [Jeff Bezos’ Earth Fund adds $25 million for Pacific Ocean conservation](https://timesofindia.indiatimes.com/technology/tech-news/in-2023-jeff-bezos-earth-fund-pledged-100-million-for-pacific-conservation-three-years-later-a-new-25-million-round-is-backing-five-nations-to-protect-and-manage-625000-square-miles-of-ocean/articleshow/134455342.cms)
-- [8 years of Ayushman Bharat: 60 crore beneficiaries, Rs 2 lakh crore in treatment](https://timesofindia.indiatimes.com/india/8-years-of-ayushman-bharat-60-crore-beneficiaries-rs-2-lakh-crore-in-treatment/articleshow/134472206.cms)
+- [TMC factional row: SC asks EC for timeframe to decide party name, symbol dispute](https://timesofindia.indiatimes.com/india/sc-seeks-timeframe-from-ec-on-deciding-tmc-factional-feud/articleshow/134472183.cms)
 - [Wife sold shares, bought husband’s Rs 7.5 crore property; taxman send notice](https://timesofindia.indiatimes.com/business/india-business/wife-sold-shares-for-rs-8-31-crore-ltcg-bought-husbands-mumbai-property-for-rs-7-5-crore-and-claimed-section-54f-exemption-taxman-calls-it-tax-avoidance-but-itat-mumbai-gives-relief-to-her/articleshow/134465968.cms)
+- [Rs 94,000 crore looted by Dubai-based scammers: CBI arrests key Mahadev app accused](https://timesofindia.indiatimes.com/india/dubai-based-scammers-looted-rs-94000cr-cbi-arrests-mahadev-app-key-accused-deported-from-uae/articleshow/134471944.cms)
+- [8 years of Ayushman Bharat: 60 crore beneficiaries, Rs 2 lakh crore in treatment](https://timesofindia.indiatimes.com/india/8-years-of-ayushman-bharat-60-crore-beneficiaries-rs-2-lakh-crore-in-treatment/articleshow/134472206.cms)
 - [Rahul attacks Centre over EC-SIR row; BJP calls it 'jooth ki goonj'](https://timesofindia.indiatimes.com/india/all-elections-rigged-laws-illegal-rahul-gandhi-attacks-centre-over-ec-sir-row-bjp-calls-it-jooth-ki-goonj/articleshow/134464189.cms)
-- [SIR row: EC says Form 6, 8 with citizenship declaration were unanimously approved](https://timesofindia.indiatimes.com/india/ec-troika-unanimously-approved-sir-orders-on-forms-6-8-citizenship-declaration-officials/articleshow/134470059.cms)
-- [Xi Jinping tests Donald Trump with 'Thucydides Trap'](https://timesofindia.indiatimes.com/world/us/xi-jinping-tests-donald-trump-with-thucydides-trap/articleshow/134467004.cms)
 
 **NDTV**
+- ['Lies To Sanitise Genocide': Mamdani Hits Back At Netanyahu After UN Criticism](https://www.ndtv.com/world-news/zohran-mamdani-hits-back-at-benjamin-netanyahu-after-un-criticism-12094949#publisher=newsstand)
+- [Man Injured In 2024 Trump Assassination Attempt Dies In Pennsylvania](https://www.ndtv.com/world-news/james-copenhaver-man-who-injured-in-2024-trump-assassination-attempt-dies-in-pennsylvania-12094904#publisher=newsstand)
 - [Trump Asks Supreme Court To Allow Quick 3rd-Country Deportations To Continue](https://www.ndtv.com/world-news/donald-trump-asks-supreme-court-to-allow-quick-3rd-country-deportations-to-continue-12094844#publisher=newsstand)
 - [Trump-Xi Jinping LIVE Updates: Trump Says He Had A "Great Meeting" With Xi Jinping](https://www.ndtv.com/world-news/donald-trump-xi-jinping-live-updates-us-china-summit-white-house-state-visit-key-announcements-trade-ai-live-news-12092374#publisher=newsstand)
 - ["Many Jews No Longer Feel Safe In New York": Netanyahu Slams Mamdani At UN](https://www.ndtv.com/world-news/many-jews-feel-unsafe-in-new-york-since-zohran-mamdani-election-netanyahu-12094554#publisher=newsstand)
@@ -34,8 +36,6 @@
 - [Drive Through Tollgates: New Rules For High-Speed Highways](https://www.ndtv.com/india-news/drive-through-tollgates-new-rules-for-high-speed-highways-12094638#publisher=newsstand)
 - [Hollywood Stars Among Arrests In New York Anti-Netanyahu Protest](https://www.ndtv.com/world-news/hollywood-stars-among-arrests-in-new-york-anti-netanyahu-protest-12094607#publisher=newsstand)
 - [Meta AI Boss Posts Edited Altman-Dario Pic With PM Modi, Then Deletes It](https://www.ndtv.com/world-news/meta-ai-boss-posts-edited-altman-dario-pic-with-pm-modi-then-deletes-it-12094526#publisher=newsstand)
-- [Bay Of Bengal Depression To Bring Heavy Rain To Bengal, Odisha And Other States](https://www.ndtv.com/india-news/weather-tomorrow-telangana-may-see-extremely-heavy-rain-orange-alert-in-jharkhand-12092206#publisher=newsstand)
-- [DMK Didn't Try To Shield Granite Baron Accused In Sex Abuse Case: MK Stalin](https://www.ndtv.com/india-news/no-orders-were-issued-to-shield-r-veeramani-under-dmk-mk-stalin-12094290#publisher=newsstand)
 
 **Hindustan Times**
 - [India, Russia, Iran among 9 countries to be part of BRICS Theatre Festival in Delhi](https://www.hindustantimes.com/india-news/india-russia-iran-among-9-countries-to-be-part-of-brics-theatre-festival-in-delhi-101790274778746.html)
@@ -63,6 +63,7 @@
 
 **The Hindu**
 - [Shutdown over poor school infra paralyses Arunachal capital](https://www.thehindu.com/news/national/arunachal-pradesh/shutdown-over-poor-school-infra-paralyses-arunachal-capital/article71504474.ece)
+- [ED raids sparks political uproar in Punjab](https://www.thehindu.com/news/national/punjab/ed-raids-sparks-political-uproar-in-punjab/article71504545.ece)
 - [U.P. International Trade Show 2026 set to position State as Global Sourcing hub, says Minister](https://www.thehindu.com/news/national/uttar-pradesh/up-international-trade-show-2026-set-to-position-state-as-global-sourcing-hub-says-minister/article71504690.ece)
 - [‘Enter at own risk’: churches to non-Christians as anti-conversion law takes effect in Chhattisgarh](https://www.thehindu.com/news/national/chhattisgarh/enter-at-own-risk-churches-to-non-christians-as-anti-conversion-law-takes-effect-in-chhattisgarh/article71504784.ece)
 - [Adani promises ₹1 lakh crore investment in West Bengal by 2035, looks to diversify in power generation and transmission](https://www.thehindu.com/news/national/west-bengal/adani-group-to-invest-over-1-lakh-crore-in-bengal-by-2035-gautam-adani/article71503371.ece)
@@ -71,7 +72,6 @@
 - [Akhilesh visits Raebareli under ‘PDA Yatra’ eyeing broader public outreach](https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-visits-raebareli-under-pda-yatra-eyeing-broader-public-outreach/article71505048.ece)
 - [A nation’s song: On Vande Mataram’s rendition](https://www.thehindu.com/opinion/editorial/a-nations-song-on-vande-matarams-rendition/article71504906.ece)
 - [Petition in Bombay High Court seeks stay on SIR in Maharashtra, restoration of voter names](https://www.thehindu.com/news/national/maharashtra/petition-in-bombay-high-court-seeks-stay-on-sir-in-maharashtra-restoration-of-voter-names/article71505245.ece)
-- [Confident that Vijay will accept Rahul as Prime Ministerial candidate: Manickam Tagore](https://www.thehindu.com/news/national/tamil-nadu/confident-that-vijay-will-accept-rahul-as-prime-ministerial-candidate-manickam-tagore/article71504912.ece)
 
 **Livemint**
 - [Trump-Xi Summit: Xi's ‘Thucydides Trap’ warning, push for Taiwan stance — 6 key takeaways from White House talks](https://www.livemint.com/news/us-news/trumpxi-summit-xis-thucydides-trap-warning-push-for-taiwan-stance-6-key-takeaways-from-white-house-talks-11790284152049.html)
@@ -150,35 +150,35 @@
 - [ಸೌಜನ್ಯ ಪ್ರಕರಣದ ಮರುತನಿಖೆಗೆ ಐಜಿಪಿ ಶಶಿಕುಮಾರ್ ನೇತೃತ್ವದಲ್ಲಿ SIT ರಚನೆ](https://eedina.com/?p=765958)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Centre (5.2)
 - Iran (3.9)
-- Centre (3.9)
-- Netanyahu (3.2)
-- Rahul (2.9)
+- Netanyahu (3.5)
 - India (2.6)
 - Mahadev (2.6)
 - Delhi (2.6)
 - UNGA (2.6)
 - What (2.6)
 - White House (2.0)
-- Bengal (1.9)
-- crore (1.5)
+- crore (1.8)
+- Bengal (1.6)
+- Rahul (1.6)
 - Straitcraft (1.3)
-- Dubai-based (1.3)
 - Wife (1.3)
+- Dubai-based (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [No UPI Day : मोठी बातमी! 2 ऑक्टोबरला देशभरात UPI बंद, गांधी जयंतीला व्यापाऱ्यांचा 'नो यूपीआय डे', फक्त कॅश स्वीकारणार](https://marathi.abplive.com/business/no-upi-day-mdr-charges-upi-payment-ban-2-october-gandhi-jayanti-business-marathi-news-1440127)
-- ['I have never met late Disha Salian or Aditya Thackeray ever in my life': Sooraj Pancholi issues fresh statement after CBI probe, urges agencies to investigate ‘thoroughly and completely’](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-have-never-met-late-disha-salian-or-aditya-thackeray-ever-in-my-life-sooraj-pancholi-issues-fresh-statement-after-cbi-probe-urges-agencies-to-investigate-thoroughly-and-completely/articleshow/134460690.cms)
-- [Asian Games 2026: ఇది కదా టీమిండియా రేంజ్.. మ్యాచ్ ముందే భయపడ్డ పాక్ కోచ్](https://idreampost.com/sports/pakistan-coach-mike-hesson-calls-india-the-benchmark-in-white-ball-cricket-408033.html)
-- [राज्यात दुष्काळी परिस्थिती! शरद पवार मैदानात, पंढरपुरात काढणार मोर्चा, बैठकीला अभिजीत पाटलांसह उत्तम जानकरांची दांडी](https://marathi.abplive.com/news/solapur/sharad-pawar-ncp-pandharpur-news-drought-like-situation-in-the-state-sharad-pawar-ncp-to-stage-a-protest-march-in-pandharpur-mp-dhairyasheel-mohite-patil-shares-details-1440125)
-- [విజయనగరంలో భారీ వర్షాలు.. రహదారులపై వరద](https://www.eenadu.net/videos/playvideo/heavy-rains-in-vizianagaram/1/81664)
-- [सऊदी अरब की चेतावनी के बाद मक्का में हाई अलर्ट, सिविल डिफेंस ने क्या चेतावनी जारी की?](https://www.indiatv.in/world/around-the-world/mecca-on-alert-as-saudi-arabia-issues-warning-what-alert-did-civil-defence-issue-2026-09-24-1245147)
-- [Noida bus fire: passengers warned driver of burning smell; 17 challans worth ₹1.59 lakh pending against vehicle](https://www.thehindu.com/elections/uttar-pradesh-assembly/noida-bus-fire-passengers-warned-driver-of-burning-smell-17-challans-pending-against-vehicle/article71503505.ece)
-- [ரூ.20 கோடி பேரம்](https://minnambalam.com/gem-veeramani-case-john-pandian-rs-20-crore-deal-allegation/)
-- [જો ફરી હુમલો થયો તો યુદ્ધ હિંદ મહાસાગર સુધી પહોંચશે! ઈરાનની અમેરિકાને ખુલ્લી ચેતવણી](https://www.gujaratsamachar.com/news/international/if-attacked-again-the-war-will-reach-the-indian-ocean-irans-open-warning-to-america-31823312004)
-- [‘गटर शो बंद करा’ थेट सलमानला सुनावलं ! Bigg Boss वर टीका करत सुनील पालचा भाईजानशी पंगा](https://www.tv9marathi.com/entertainment/sunil-pal-calls-bigg-boss-a-gutter-show-questions-salman-khans-advice-1763367.html)
+- ['द पैराडाइज' रिव्यू: हिंसा के अतिरेक के कारण हार गई पहचान की ये लड़ाई, नानी के जबरा फैंस को आएगा मजा](https://navbharattimes.indiatimes.com/entertainment/movie-review/the-paradise-movie-review-in-hindi-starring-nani-sonali-kulkarni-raghav-juyal-mohan-babu-directed-by-srikanth-odela/moviereview/134461711.cms)
+- [चुनाव आयोग पर आई रिपोर्ट के बाद उद्धव, ममता और केजरीवाल हमलावर, बोले दोबारा कराए जाएं चुनाव](https://www.bbc.com/hindi/articles/c699d8rnkergo)
+- [East Bengal FC: কাস্টমসের বিরুদ্ধে পিছিয়ে পড়েও জয়, আইএফএ শিল্ডের শুরুতেই ছন্দে ইস্টবেঙ্গল](https://bangla.asianetnews.com/sports/east-bengal-fc-beat-calcutta-customs-club-ifa-shield-2026-opener-anbsg/articleshow-4fqbrvk)
+- [Breaking News : કોમેડિયન સુનિલ પાલે કહ્યું- "સલમાન ખાનને શરમ આવવી જોઈએ, આપણે જ સલમાનખાન બનાવ્યો છે" જુઓ Video - Gujarati News](https://tv9gujarati.com/entertainment/breaking-news-comedian-sunil-pal-says-salman-khan-should-be-ashamed-it-is-we-who-made-salman-khan-watch-video-1521275.html)
+- ['ਖੇਡਾਂ ਵਤਨ ਪੰਜਾਬ ਦੀਆਂ- 2026' ਦੇ ਜ਼ਿਲ੍ਹਾ ਪੱਧਰੀ ਖੇਡ ਮੁਕਾਬਲਿਆਂ ਦਾ ਸ਼ਡਿਊਲ ਜਾਰੀ](https://www.babushahi.in/sports.php?id=335387)
+- [ભાજપની જીતનું રહસ્ય હવે ખબર પડી, મત ચોરીના પુરાવા સામે આવ્યા: ચૂંટણી પંચ પર રાહુલ ગાંધીનો મોટો પ્રહાર](https://www.gujaratsamachar.com/news/national/rahul-gandhis-press-conference-begins-can-speak-on-sir-and-election-commission-report-x-written-on-it-exposing-the-enemies-of-the-constitution-35454782254)
+- ['Biggest Risk Is Regulatory Risk': Nithin Kamath Weighs In As IRDAI Proposal Sparks 34% PB Fintech Rout](https://www.ndtvprofit.com/markets/biggest-risk-is-regulatory-risk-nithin-kamath-weighs-in-as-irdai-proposal-sparks-34-pb-fintech-rout-12092328)
+- [ஜெம் வீரமணி வழக்கு: சாந்தி, மகேந்திர சிம்ஹனை 3 நாள் போலீஸ் காவலில் விசாரிக்க உத்தரவு](https://www.hindutamil.in/news/tamilnadu/gem-veeramani-case-order-issued-for-3-day-police-custody-of-shanthi-and-mahendra-simhan)
+- [ODI में डबल सेंचुरी से चूकने के बावजूद हेली मैथ्यूज ने रचा इतिहास, 13 साल पुराना रिकॉर्ड टूटा](https://www.livehindustan.com/cricket/hayley-matthews-created-history-despite-missing-out-on-a-double-century-in-zimbabwe-women-vs-west-indies-women-1st-odi-201790248433000.html)
+- [Gujarat Rain: વેસ્ટર્ન ડિસ્ટર્બન્સ સક્રિય, ગુજરાતમાં 7 દિવસ વરસાદની આગાહી, જાણો ક્યાં પડશે](https://gujarati.abplive.com/news/gujarat/rain-expected-in-gujarat-over-the-next-7-days-weather-forecast-991956)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
