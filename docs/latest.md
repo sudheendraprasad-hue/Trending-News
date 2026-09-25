@@ -1,28 +1,28 @@
-# India Trending Report — 2026-09-25 01:02:41
+# India Trending Report — 2026-09-25 01:33:13
 
 ## Google Trends (India) — top trending searches
-1. [weather report](https://trends.google.com/trending/rss?geo=IN)
-2. [haiti vs trinidad and tobago](https://trends.google.com/trending/rss?geo=IN)
-3. [बहू](https://trends.google.com/trending/rss?geo=IN)
-4. [आज का मौसम](https://trends.google.com/trending/rss?geo=IN)
-5. [weather today](https://trends.google.com/trending/rss?geo=IN)
-6. [weather lucknow](https://trends.google.com/trending/rss?geo=IN)
-7. [తెలంగాణ](https://trends.google.com/trending/rss?geo=IN)
-8. [hong kong vs oman](https://trends.google.com/trending/rss?geo=IN)
-9. [ప్రపంచ రికార్డు](https://trends.google.com/trending/rss?geo=IN)
-10. [மதுமிதா](https://trends.google.com/trending/rss?geo=IN)
+1. [today's weather](https://trends.google.com/trending/rss?geo=IN)
+2. [today weather report](https://trends.google.com/trending/rss?geo=IN)
+3. [anant chaturdashi](https://trends.google.com/trending/rss?geo=IN)
+4. [weather report](https://trends.google.com/trending/rss?geo=IN)
+5. [haiti vs trinidad and tobago](https://trends.google.com/trending/rss?geo=IN)
+6. [बहू](https://trends.google.com/trending/rss?geo=IN)
+7. [आज का मौसम](https://trends.google.com/trending/rss?geo=IN)
+8. [weather today](https://trends.google.com/trending/rss?geo=IN)
+9. [flash flood risk](https://trends.google.com/trending/rss?geo=IN)
+10. [weather lucknow](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Trump hosts Xi at White House state dinner with tech, finance heavy guest list](https://timesofindia.indiatimes.com/world/us/white-house-state-dinner-trump-welcomes-xi-as-tech-bosses-top-executives-arrive/articleshow/134472449.cms)
+- [‘We’ve never gotten along better’: Trump, Xi strike warm tone at White House dinner](https://timesofindia.indiatimes.com/world/us/trump-xi-exchange-warm-words-before-white-house-state-dinner-what-they-said/articleshow/134472633.cms)
 - [Watch: Netanyahu holds up pager at UN, recalls Israel’s attack on Hezbollah](https://timesofindia.indiatimes.com/world/middle-east/remember-the-pagers-netanyahu-flashes-device-at-un-recalls-deadly-hezbollah-operation-video/articleshow/134472567.cms)
 - [EC eyes October electoral roll revision across poll-bound states](https://timesofindia.indiatimes.com/india/ec-may-order-ssr-of-rolls-in-oct-for-poll-bound-states/articleshow/134471984.cms)
-- [At least 30 actors, politicians arrested in anti-Netanyahu protest outside UN](https://timesofindia.indiatimes.com/world/us/at-least-30-arrested-including-actors-politicians-during-anti-netanyahu-protest-outside-un/articleshow/134472170.cms)
+- [Opposition set to move fresh motion against CEC Gyanesh Kumar](https://timesofindia.indiatimes.com/india/oppositions-3rd-bid-to-remove-cec-gyanesh-kumar-fresh-motion-likely-april-24-notice-pending/articleshow/134469862.cms)
+- [Ex-CJI, more legal experts back Tata Sons on Chandra's reappointment](https://timesofindia.indiatimes.com/business/india-business/ex-cji-more-legal-experts-back-tata-sons-on-chandras-reappointment/articleshow/134470064.cms)
 - [Jeff Bezos’ Earth Fund adds $25 million for Pacific Ocean conservation](https://timesofindia.indiatimes.com/technology/tech-news/in-2023-jeff-bezos-earth-fund-pledged-100-million-for-pacific-conservation-three-years-later-a-new-25-million-round-is-backing-five-nations-to-protect-and-manage-625000-square-miles-of-ocean/articleshow/134455342.cms)
 - [Wife sold shares, bought husband’s Rs 7.5 crore property; taxman send notice](https://timesofindia.indiatimes.com/business/india-business/wife-sold-shares-for-rs-8-31-crore-ltcg-bought-husbands-mumbai-property-for-rs-7-5-crore-and-claimed-section-54f-exemption-taxman-calls-it-tax-avoidance-but-itat-mumbai-gives-relief-to-her/articleshow/134465968.cms)
+- [‘Whatever is in best interest of team’: Gambhir’s candid Rohit Sharma admission](https://timesofindia.indiatimes.com/sports/cricket/news/whatever-is-in-the-best-interest-of-the-team-gautam-gambhirs-candid-rohit-sharma-admission/articleshow/134452583.cms)
 - [Centre moves SC for 2-year window to implement OBC creamy layer verdict](https://timesofindia.indiatimes.com/india/centre-pleads-for-prospective-effect-of-sc-creamy-layer-ruling/articleshow/134472256.cms)
-- [BJP spent Rs 287 crore in Bengal polls, over half its five-state election bill](https://timesofindia.indiatimes.com/india/bjp-spent-287cr-in-bengal-54-of-total-expense-in-5-assembly-polls/articleshow/134472238.cms)
-- [‘No greater partner than Trump’: Netanyahu defends Iran war as delegates walk out at UNGA](https://timesofindia.indiatimes.com/world/middle-east/no-greater-partner-than-president-trump-netanyahu-defends-iran-war-attacks-critics-as-delegates-walk-out-at-unga/articleshow/134469836.cms)
 - [Tech exec who slept in sauna can pursue £76M from Gitpod, tribunal rules](https://timesofindia.indiatimes.com/world/uk/tech-executive-shannon-burns-who-slept-in-sauna-after-forgetting-room-key-on-austria-trip-can-pursue-76-million-from-gitpod-tribunal-rejects-1-million-cap-amid-openai-acquisition/articleshow/134469036.cms)
 
 **NDTV**
@@ -38,16 +38,16 @@
 - [Meta AI Boss Posts Edited Altman-Dario Pic With PM Modi, Then Deletes It](https://www.ndtv.com/world-news/meta-ai-boss-posts-edited-altman-dario-pic-with-pm-modi-then-deletes-it-12094526#publisher=newsstand)
 
 **Hindustan Times**
+- [Use facial recognition, real-time alerts to tackle human trafficking: MHA to states/UTs](https://www.hindustantimes.com/india-news/use-facial-recognition-real-time-alerts-to-tackle-human-trafficking-mha-to-statesuts-101790299087470.html)
+- [‘Mark VIP’: ECI adds fresh feature in app used by booth level officers amid SIR](https://www.hindustantimes.com/india-news/eci-election-commission-sir-special-intensive-revision-mark-vip-blo-booth-level-officers-101790295949625.html)
+- ['No anti-incumbency for BJP, Modi': Rahul Gandhi intensifies attack on CEC Gyanesh Kumar amid row](https://www.hindustantimes.com/india-news/no-anti-incumbency-for-bjp-modi-rahul-gandhi-intensifies-attack-on-cec-gyanesh-kumar-amid-row-101790278201637.html)
+- [ED seeks fugitive offender tag for MGF promoter Shravan Gupta](https://www.hindustantimes.com/india-news/ed-seeks-fugitive-offender-tag-for-mgf-promoter-shravan-gupta-101790277480773.html)
 - [India, Russia, Iran among 9 countries to be part of BRICS Theatre Festival in Delhi](https://www.hindustantimes.com/india-news/india-russia-iran-among-9-countries-to-be-part-of-brics-theatre-festival-in-delhi-101790274778746.html)
 - [Delhi court allows US national VanDyke, 6 Ukrainians to travel home after NIA charge sheet](https://www.hindustantimes.com/india-news/delhi-court-allows-vandyke-6-ukrainians-to-travel-home-after-nia-charge-sheet-101790272980061.html)
 - [Railway Protection Force sets up narcotics cell, plans MoU with NCB](https://www.hindustantimes.com/india-news/railway-protection-force-sets-up-narcotics-cell-plans-mou-with-ncb-101790272320348.html)
 - [SC reserves order on Centre plea against retrospective OBC creamy layer ruling](https://www.hindustantimes.com/india-news/sc-reserves-order-on-centre-plea-against-retrospective-obc-creamy-layer-ruling-101790265959954.html)
 - [‘Resign within 48 hours or Jantar Mantar 2.0’: CJP's ultimatum to CEC Gyanesh Kumar](https://www.hindustantimes.com/india-news/resign-in-48-hours-or-jantar-mantar-2-cjp-ultimatum-to-cec-gyanesh-kumar-abhijeet-dipke-saurav-das-ashutosh-ranka-101790265132417.html)
 - [‘Spoke to him at 10pm’: Greater Noida bus fire victims’ son searches for father](https://www.hindustantimes.com/india-news/spoke-to-him-at-10pm-greater-noida-bus-fire-victims-son-searches-for-father-101790258620715.html)
-- [SC commutes death sentence of man who raped, murdered 6-year-old stepdaughter](https://www.hindustantimes.com/india-news/sc-commutes-death-sentence-of-man-who-raped-murdered-6-year-old-stepdaughter-101790265057614.html)
-- [Rahul Gandhi says laws passed by MPs ‘illegal’: 'Vote chori is kanoon chori'](https://www.hindustantimes.com/india-news/rahul-gandhi-press-conference-laws-passed-by-mps-illegal-links-vote-chori-to-kanoon-chori-gyanesh-kumar-cec-101790260899549.html)
-- [SC orders safeguards against Pocso Act misuse in marital disputes](https://www.hindustantimes.com/india-news/sc-orders-safeguards-against-pocso-act-misuse-in-marital-disputes-101790264397538.html)
-- [Mahadev app: CBI arrests key accused Abhishek Kumar after he arrives from Dubai](https://www.hindustantimes.com/india-news/mahadev-app-cbi-arrests-key-accused-abhishek-kumar-after-he-arrives-from-dubai-101790263137568.html)
 
 **Vijay Karnataka**
 - [ಅಯ್ಯಪ್ಪ ಭಕ್ತರಿಕೆ ಸಿಹಿಸುದ್ದಿ: ಶಬರಿಮಲೆ ಅರವಣ ಪ್ರಸಾದ ವಿವಾದ ಸುಖಾಂತ್ಯ, ಕೊರತೆ ನೀಗಿಸಲು ಕೇರಳಂನ ವಿಡಿ ಸತೀಶನ್‌ ಭರವಸೆ](https://vijaykarnataka.com/news/kasaragod/good-news-for-ayyappa-devotees-the-sabarimala-aravana-prasadam-controversy-has-been-resolved-with-keralas-vd-satheesan-assurence/articleshow/134472522.cms)
@@ -62,18 +62,19 @@
 - [ಮೈಸೂರು ದಸರಾ 2026 ಉದ್ಘಾಟನೆಗೆ ಕೊಪ್ಪಳ ಗವಿಮಠದ ಅಭಿನವ ಗವಿಸಿದ್ದೇಶ್ವರ ಸ್ವಾಮೀಜಿ ಆಯ್ಕೆ](https://vijaykarnataka.com/news/karnataka/abhinava-gavisiddeshwara-swamiji-of-koppals-gavimatha-selected-to-inaugurate-mysuru-dasara-2026/articleshow/134465181.cms)
 
 **The Hindu**
-- [Bengaluru police issues guidelines to curb harassment, extortion by transgender persons](https://www.thehindu.com/news/national/karnataka/bengaluru-police-issues-guidelines-to-curb-harassment-extortion-by-transgender-persons/article71504300.ece)
+- [Rahul Gandhi a master of deception, allegations of vote theft lack evidence: BJP](https://www.thehindu.com/news/national/rahul-gandhi-a-master-of-deception-allegations-of-vote-theft-lack-evidence-bjp/article71505389.ece)
 - [12 years of ‘Make in India’ in 12 metrics — Low and patchy impact on growth, employment & global share](https://www.thehindu.com/business/Economy/12-years-of-make-in-india-in-12-metrics-low-and-patchy-impact-on-growth-employment-global-share/article71505448.ece)
+- [Trinamool symbol freeze row: Supreme Court asks EC adjudication timeline](https://www.thehindu.com/news/national/west-bengal/tmc-symbol-freeze-row-supreme-court-asks-ec-adjudication-timeline/article71503259.ece)
+- [Opposition to move fresh notice for CEC’s removal; INDIA bloc mulls joint action](https://www.thehindu.com/news/national/opposition-to-move-fresh-notice-for-cecs-removal-india-bloc-mulls-joint-action/article71504708.ece)
+- [Changing culture of movie-watching](https://www.thehindu.com/news/national/telangana/changing-culture-of-movie-watching/article71505778.ece)
+- [Covering the bases: from visibility to votes](https://www.thehindu.com/news/national/covering-the-bases-from-visibility-to-votes/article71502791.ece)
+- [Bengaluru police issues guidelines to curb harassment, extortion by transgender persons](https://www.thehindu.com/news/national/karnataka/bengaluru-police-issues-guidelines-to-curb-harassment-extortion-by-transgender-persons/article71504300.ece)
 - [Operations of quarries, trekking sites, adventure tourism centres suspended in Keralam’s Wayanad](https://www.thehindu.com/news/national/kerala/operations-of-quarries-trekking-sites-adventure-tourism-centres-suspended-in-keralams-wayanad/article71505251.ece)
 - [Inputs from ASHAs to shape AI-enabled training platform for cervical cancer screening in Assam](https://www.thehindu.com/news/national/assam/inputs-from-ashas-to-shape-ai-enabled-training-platform-for-cervical-cancer-screening-in-assam/article71504049.ece)
 - [Shutdown over poor school infra paralyses Arunachal capital](https://www.thehindu.com/news/national/arunachal-pradesh/shutdown-over-poor-school-infra-paralyses-arunachal-capital/article71504474.ece)
-- [ED raids sparks political uproar in Punjab](https://www.thehindu.com/news/national/punjab/ed-raids-sparks-political-uproar-in-punjab/article71504545.ece)
-- [BEST to install check-meter to tackle consumers’ complaints of inflated bills on smart meters](https://www.thehindu.com/news/cities/mumbai/best-to-install-check-meter-to-tackle-consumers-complaints-of-inflated-bills-on-smart-meters/article71504569.ece)
-- [U.P. International Trade Show 2026 set to position State as Global Sourcing hub, says Minister](https://www.thehindu.com/news/national/uttar-pradesh/up-international-trade-show-2026-set-to-position-state-as-global-sourcing-hub-says-minister/article71504690.ece)
-- [‘Enter at own risk’: churches to non-Christians as anti-conversion law takes effect in Chhattisgarh](https://www.thehindu.com/news/national/chhattisgarh/enter-at-own-risk-churches-to-non-christians-as-anti-conversion-law-takes-effect-in-chhattisgarh/article71504784.ece)
-- [Adani promises ₹1 lakh crore investment in West Bengal by 2035, looks to diversify in power generation and transmission](https://www.thehindu.com/news/national/west-bengal/adani-group-to-invest-over-1-lakh-crore-in-bengal-by-2035-gautam-adani/article71503371.ece)
 
 **Livemint**
+- [US-Iran war LIVE Updates: Tehran wants to revive June ceasefire with US, 'willing to give up 60% enriched uranium'](https://www.livemint.com/news/us-news/us-iran-war-live-updates-masoud-pezeshkian-revive-june-ceasefire-willing-to-give-up-60-enriched-uranium-11790298425388.html)
 - [Regulator mulls digital platform for drugmakers' test reports](https://www.livemint.com/news/india/apex-drugs-regulator-in-digital-platform-drugs-test-reports-pharma-healthcare-11790245889517.html)
 - [Trump-Xi Summit: Xi's ‘Thucydides Trap’ warning, push for Taiwan stance — 6 key takeaways from White House talks](https://www.livemint.com/news/us-news/trumpxi-summit-xis-thucydides-trap-warning-push-for-taiwan-stance-6-key-takeaways-from-white-house-talks-11790284152049.html)
 - [White House wants US government review of OpenAI, Anthropic’s new AI models before UK access — Report](https://www.livemint.com/news/us-news/white-house-wants-us-government-review-of-openai-anthropic-s-new-ai-models-before-uk-access-report-11790271763243.html)
@@ -83,9 +84,18 @@
 - [US-Iran war: Will Strait of Hormuz reopen and blockade end? Both nations discuss phased deal, says report](https://www.livemint.com/news/world/usiran-war-will-strait-of-hormuz-reopen-and-blockade-end-both-nations-discuss-phased-deal-says-report-11790271850746.html)
 - [Dunkin’ Donuts offering 1 million free coffee: Here's how to grab your fav cup of joe today, see promo code](https://www.livemint.com/news/us-news/dunkin-donuts-offering-1-million-free-coffee-heres-how-to-grab-your-fav-cup-of-joe-today-see-promo-code-11790271204855.html)
 - [UPI MDR: ‘Not a single penny’ will go to govt; earnings to be shared among banks and other entities, says report](https://www.livemint.com/news/india/upi-mdr-not-a-single-penny-will-go-to-govt-earnings-to-be-shared-among-banks-and-other-entities-says-report-11790269413021.html)
-- [IIT Bombay suicide: Late student's parents launch hunger strike, mid-sem exam deferred amid caste discrimination claims](https://www.livemint.com/news/india/iit-bombay-suicide-late-students-parents-launch-hunger-strike-mid-sem-exam-deferred-amid-caste-discrimination-claims-11790270749776.html)
 
-**Moneycontrol** — _unavailable_
+**Moneycontrol**
+- [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
+- [Buy Tejas Networks; target of Rs 1100: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html)
+- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html)
+- [Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html)
+- [Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html)
+- [Reduce Wipro; target of Rs 410: ICICI Securities](https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html)
+- [Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html)
+- [Buy Patel Engineering; target of Rs 80: ICICI Direct](https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html)
+- [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
 - [ರಾಜ್ಯ ಪೊಲೀಸ್ ಮಹಾ ನಿರ್ದೇಶಕರ ಕಚೇರಿಯ ಆವರಣದಲ್ಲಿ ಗಣೇಶ ಮೂರ್ತಿ ಪ್ರತಿಷ್ಠಾಪನೆ; ಪೂಜೆಗೆ ಸಿಬ್ಬಂದಿ ತಪ್ಪದೇ ಭಾಗವಹಿಸುವಂತೆ ಸುತ್ತೋಲೆ](https://www.varthabharati.in/bangalore-city/--2277808)
@@ -100,6 +110,8 @@
 - [ಪ್ರಶ್ನೆಪತ್ರಿಕೆ ಸೋರಿಕೆ ಪ್ರಕರಣ | NEET-UG ಆಕಾಂಕ್ಷಿಗೆ ಎರಡು ವರ್ಷ ನಿಷೇಧ](https://www.varthabharati.in/National/question-paper-leak-case-neet-ug-aspirant-banned-for-two-years-2277796)
 
 **Asianet Kannada**
+- [ಅವಳಿ ಮತದಾರರಿಗೆ SIR ಸಾಫ್ಟ್‌ವೇರ್‌ನಿಂದ ಟ್ರಬಲ್;  ಚುನಾವಣಾ ಆಯೋಗ ಹೇಳಿದ್ದೇನು?](https://kannada.asianetnews.com/state/twins-flagged-as-logical-discrepancy-in-karnataka-s-sir-what-did-eci-says-rav/articleshow-z621rzm)
+- [​‘ಕಾಂತಾರ’ಕ್ಕೂ ಮುನ್ನವೇ ರಿಷಬ್ ಶೆಟ್ಟಿ ಮಾಡಿದ್ದ ಆ ಬಿಗ್ ಪ್ರಯೋಗ! 7 ನಿರ್ದೇಶಕರ 'ಕಥಾ ಸಂಗಮ' ಕಥೆ ಗೊತ್ತಾ?](https://kannada.asianetnews.com/entertainment/katha-sangama-movie-rishab-shettys-unique-tribute-to-puttanna-kanagal/articleshow-970hu75)
 - [ಜಾತಕ ಸೆಪ್ಟೆಂಬರ್ 25: ಮೇಷ, ಧನು ಮತ್ತು ಕುಂಭ ರಾಶಿಗೆ ಬಲವಾದ ಆರ್ಥಿಕ ಲಾಭ, ಬಡ್ತಿಯ ಸೂಚನೆ ಇರಬಹುದು](https://kannada.asianetnews.com/daily-horoscope/today-prediction-horoscope-of-25-september-2026-suh/articleshow-0piv2g3)
 - [ಮೋದಿ, ಶಾ, ಸಿಇಸಿ ಮೂವರು ದೇಶದ್ರೋಹಿಗಳಾ? ರಾಹುಲ್ ಗಾಂಧಿ ಆಡಿದ ಆ ಮಾತು ಸಂಚಲನ!](https://kannada.asianetnews.com/india-news/political-row-erupts-over-rahul-gandhis-remarks-on-pm-modi-amit-shah-and-cec-traitors-rav/articleshow-zgnbb9u)
 - [Upper bhadra project: ಕೇಂದ್ರ ಒಪ್ಪಿಗೆ ನೀಡಿದ್ರೂ ಭದ್ರಾ ಮೇಲ್ದಂಡೆ ಯೋಜನೆಗೆ ಆಂಧ್ರದ ಕ್ಯಾತೆ: ಸುಪ್ರೀಂನಲ್ಲಿ ಏನಾಯ್ತು?](https://kannada.asianetnews.com/state/andhra-pradesh-objectes-upper-bhadra-project-in-karnataka-sc-court-adjourned-ple-for-eight-week-rav/articleshow-kb36fha)
@@ -108,12 +120,13 @@
 - ['ಆ ರಾತ್ರಿ ನನಗೆ ನಿದ್ದೆ ಬರಲಿಲ್ಲ'  ಸೂರ್ಯವಂಶಿಗಾಗಿ ಸಂಜು ಔಟ್ ಆದ್ನಾ? ಗಂಭೀರ್ ಬಿಚ್ಚಿಟ್ರು ರಹಸ್ಯ](https://kannada.asianetnews.com/cricket-sports/team-india-coach-gautam-gambhir-on-vaibhav-suryavamshi-and-sanju-samson/articleshow-4al8g2x)
 - [ರಾಜ್ಯದ ಸಾರಿಗೆ ಸಂಸ್ಥೆಗಳ ಶೇ. 34 ರಷ್ಟು ಬಸ್‌ಗಳು ಇಂದಿಗೂ BS-3: ರಸ್ತೆಯಲ್ಲಿವೆ ಪರಿಸರಕ್ಕೆ ಮಾರಕವಾದ 8,700ಕ್ಕೂ ಹೆಚ್ಚು ಬಸ್‌ಗಳು](https://kannada.asianetnews.com/bengaluru-urban/ksrtc-bs3-buses-pollution-karnataka-rtc-electric-buses-scrap-policy-san/articleshow-zv8d4xv)
 - [Cricket ಸಮರಕ್ಕೆ '22 ಯಾರ್ಡ್ಸ್ ಸೂಕ್ತವೆಂದಿದ್ದೇಕೆ?: ಇಲ್ಲಿದೆ ಈ ಟೆಕ್ನಿಕಲ್‌ ಕಂಪ್ಲೀಟ್ ಹಿಸ್ಟರಿ!](https://kannada.asianetnews.com/cricket-sports/why-cricket-pitch-is-22-yards-history-gunters-chain-cricket-pitch-len-bmk/articleshow-9g77fql)
-- [ಭಕ್ತಿಯಿಂದ ಗಣೇಶನಿಗೆ ₹500 ಕಾಣಿಕೆ ನೀಡಿದ ಸ್ಟಾರ್ ನಟಿ, ತಕ್ಷಣ ಜೇಬಿಗೆ ಇಳಿಸಿಕೊಂಡ ವ್ಯಕ್ತಿ! VIDEO](https://kannada.asianetnews.com/india-news/lord-ganeshas-donation-theft-at-lalbaugcha-raja-given-by-actress-madhoo-shah/articleshow-53r09be)
-- [Recipe : ಪನೀರ್ ಮಾಡಿದಾಗ ಉಳಿಯುವ ನೀರನ್ನು ಎಸೆಯಬೇಡಿ, ಈ ರೆಸಿಪಿ ಒಮ್ಮೆ ಟ್ರೈ ಮಾಡಿ](https://kannada.asianetnews.com/food/have-leftover-water-after-making-paneer-do-not-throw-it-away-turn-it-into-a-delicious-soup-instead/articleshow-ekrlop8)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [‘ಬಿಗ್ ಬಾಸ್ ಇದು ನ್ಯಾಯಸಮ್ಮತವಲ್ಲ’; ತಾಂಡವ್ ಎಲಿಮಿನೇಷನ್​ಗೆ ಓಪನ್ ಆಗಿ ಅಸಮಾಧಾನ ಹೊರಹಾಕಿದ ಗಗನ್](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-gagan-chinappa-breaks-down-over-thandav-ram-shocking-elimination-1242262.html)
+- [ಕರ್ನಾಟಕ ಹವಾಮಾನ ವರದಿ: ಕರಾವಳಿ ಮತ್ತು ಮಲೆನಾಡು ಭಾಗಗಳಲ್ಲಿ ಭಾರಿ ಮಳೆ ಮುನ್ಸೂಚನೆ](https://tv9kannada.com/karnataka/bengaluru/karnataka-weather-forecast-rain-predicted-in-coastal-and-interior-districts-1242261.html)
+- [ಮಂಡ್ಯದಲ್ಲಿ ನಿಲ್ಲದ ಹೆಚ್‌ಡಿಕೆ-ಕಾಂಗ್ರೆಸ್ ಶಾಸಕರ ಸಮರ: ಮದ್ದೂರಲ್ಲಿ ಆಟೋ ನಿಲ್ದಾಣ ವಿಚಾರಕ್ಕೆ ಜಟಾಪಟಿ](https://tv9kannada.com/karnataka/mandya/hd-kumaraswamy-vs-congress-conflict-intensifies-in-mandya-union-minister-and-mla-kadaluru-uday-clash-over-maddur-auto-stand-1242258.html)
 - [Horoscope Today: ಇಂದು ಅನಂತ ಪದ್ಮನಾಭ ವ್ರತ ಆಚರಣೆಯಿಂದ ಐಶ್ವರ್ಯ ಮತ್ತು ಯಶಸ್ಸು ಲಭ್ಯ](https://tv9kannada.com/videos/horoscope-today-25th-september-2026-dr-basavaraj-gurujis-predictions-for-zodiac-signs-1242256.html)
 - [ದಿನ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರು ಮನಸ್ಸಿನ ಒಡಕನ್ನು ಸರಿಮಾಡಿಕೊಳ್ಳುವರು…](https://tv9kannada.com/horoscope/daily-horoscope-for-september-25-2026-dakshinayana-greeshma-season-badrapada-masa-shukla-paksha-friday-astrology-1242112.html)
 - [ತಪ್ಪಾಯ್ತು ಧನುಶ್ ಲೆಕ್ಕಾಚಾರ, ಮನೆಯಿಂದ ಹೊರ ಹೋದ ಮೆಚ್ಚಿನ ಸ್ಪರ್ಧಿ](https://tv9kannada.com/entertainment/bigg-boss-kannada-dhanush-became-reason-for-tandav-eviction-1242245.html)
@@ -121,9 +134,6 @@
 - [2028ಕ್ಕೆ ನಾನೇನು ಎಲೆಕ್ಷನ್​​ಗೆ ನಿಲ್ಲಲ್ಲ: ಚಿತ್ರದುರ್ಗ ಎಸ್ಪಿ ವಿರುದ್ಧ ಶಾಸಕ ವೀರೇಂದ್ರ ಪಪ್ಪಿ ಕೆಂಡಾಮಂಡಲ](https://tv9kannada.com/videos/i-will-not-contest-2028-elections-mla-virendra-pappi-spark-out-at-chitradurga-sp-1242239.html)
 - [ಯಾರ ಓಟು ಇನ್ಯಾರಿಗೋ, ಮನೆಯಿಂದ ಹೊರ ಹೋಗಿದ್ದು ಯಾರು?](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-13-tandav-ram-evicted-from-house-in-mid-week-elimination-1242243.html)
 - [ಬಣ್ಣದ ಲೋಕಕ್ಕೆ ಟಗರು ಎಂಟ್ರಿ: ಮತ್ತೆ ‘ಮುಖ್ಯಮಂತ್ರಿ’ ಆಗಲಿದ್ದಾರೆ ಸಿದ್ದರಾಮಯ್ಯ!](https://tv9kannada.com/entertainment/sandalwood/former-karnataka-chief-minister-siddaramaiah-is-all-set-to-make-his-entry-into-the-kannada-film-industry-1242189.html)
-- [‘ಎಐ ಸಂಪೂರ್ಣವಾಗಿ ಮಾನವ ನಿಯಂತ್ರಣದಲ್ಲೇ ಇರಬೇಕು’; ಅಮೆರಿಕದಲ್ಲಿ ಚೀನಾ ಅಧ್ಯಕ್ಷ ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್ ಸಂದೇಶ](https://tv9kannada.com/world/us-and-china-must-ensure-ai-develops-under-human-control-used-for-good-president-xi-jinping-at-white-house-with-trump-1242238.html)
-- [ಸಿದ್ದರಾಮಯ್ಯರನ್ನು ಭೇಟಿ ಮಾಡಿದ ಮಾಜಿ ಕ್ರಿಕೆಟಿಗ ಮೊಹಮ್ಮದ್ ಅಜರುದ್ದೀನ್](https://tv9kannada.com/videos/former-cricketer-telangana-minister-mohammad-azharuddin-met-former-cm-siddaramaiah-1242231.html)
-- [‘ಚೀನಾ-ಅಮೆರಿಕದ ನಡುವಿನ ಸ್ಪರ್ಧೆ ಆರೋಗ್ಯಕರವಾಗಿರಲಿ’; ಶ್ವೇತಭವನದಲ್ಲಿ ಟ್ರಂಪ್ ಪ್ರತಿಪಾದನೆ](https://tv9kannada.com/world/competition-between-us-and-china-should-be-a-healthy-one-donald-trump-tells-xi-jinping-1242234.html)
 
 **Prajavani**
 - [ಎಸ್‌ಐಆರ್: ಜಿಬಿಎ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ 3 ಲಕ್ಷ ತಪ್ಪು ಫಾರ್ಮ್‌ ಸಲ್ಲಿಕೆ](https://www.prajavani.net/district/bengaluru-city/bengaluru-voter-list-revision-three-lakh-wrong-forms-submitted-4285438)
@@ -150,35 +160,35 @@
 - [ಸೌಜನ್ಯ ಪ್ರಕರಣದ ಮರುತನಿಖೆಗೆ ಐಜಿಪಿ ಶಶಿಕುಮಾರ್ ನೇತೃತ್ವದಲ್ಲಿ SIT ರಚನೆ](https://eedina.com/?p=765958)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Netanyahu (6.1)
-- Iran (3.9)
-- UNGA (3.9)
-- Trump (3.5)
+- Emkay Global Financial (5.0)
+- Netanyahu (3.8)
 - White House (3.0)
+- CEC Gyanesh Kumar (3.0)
+- ICICI Securities (3.0)
+- target (3.0)
+- Opposition (2.6)
 - Centre (2.6)
 - India (2.6)
+- Iran (2.6)
 - Delhi (2.6)
+- US-Iran (2.6)
+- UNGA (2.6)
 - What (2.6)
-- Bengal (1.6)
-- Watch (1.3)
-- Israel (1.3)
-- Hezbollah (1.3)
-- October (1.3)
-- Wife (1.3)
+- Trump (2.2)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [27 साल के हुए अर्जुन तेंदुलकर, पापा सचिन ने खास अंदाज में किया बर्थडे विश, देसी लुक में बहन सारा ने भी खींचा ध्यान](https://www.aajtak.in/lifestyle/news/story/sachin-tendulkar-special-birthdays-wish-for-son-arjun-on-his-27th-birthday-share-unseen-photo-with-daughter-sara-stuns-in-desi-look-viral-post-tvisx-dskc-2652084-2026-09-24)
-- [एक मैच का 4 करोड़ 80 लाख... टीम इंडिया की चांदी; BCCI को मिला तगड़ा स्पॉन्सर](https://www.abplive.com/sports/cricket/indian-cricket-team-title-sponsorship-rights-muthoot-fincorp-check-deal-details-3193295)
-- [ప్రణయ్ హత్య కేసు దోషి మృతి.. చర్లపల్లి జైలులో గుండెపోటు, గాంధీ ఆస్పత్రిలో కన్నుమూత](https://telugu.samayam.com/telangana/news/nalgonda-amrutha-pranay-murder-case-convict-abdul-bari-dies-after-falling-ill-in-cherlapally-jail/articleshow/134463048.cms)
-- [జీవితాంతం నీవు నా దగ్గరే ఉంటావు: విజయ్ దేవరకొండ](https://www.ap7am.com/tn/881234/vijay-deverakonda-says-you-will-be-with-me-for-the-rest-of-my-life)
-- ['Jhoot ki goonj by frustrated leader': BJP mocks Rahul Gandhi's presser on EC-SIR row](https://timesofindia.indiatimes.com/india/jhoot-ki-goonj-by-frustrated-leader-bjp-mocks-rahul-gandhis-presser-on-ec-sir-row/articleshow/134462963.cms)
-- [Shashi Tharoor | ఆ వినాశ సాఫ్ట్‌వేర్‌ను ర‌ద్దు చేయాలి.. ఎంపీ శ‌శిథ‌రూర్ పిలుపు..!](https://www.ntnews.com/national/cancel-this-disastrous-software-shashi-tharoor-to-poll-body-on-its-ecinet-app-2519008)
-- ['Today, a Khan and a Singh won a medal for India': Satnam Singh on Asian Games rowing bronze](https://timesofindia.indiatimes.com/sports/asian-games-2026/today-a-khan-and-a-singh-won-a-medal-for-india-satnam-singh-on-asian-games-rowing-bronze/articleshow/134462785.cms)
-- [Netanyahu's fleeting visit to New York mirrors strained US ties](https://www.reuters.com/world/middle-east/netanyahus-fleeting-visit-new-york-mirrors-strained-us-ties-2026-09-24/)
-- [PB Fintech fall wipes out nearly Rs 9,000 crore from mutual fund holdings in a day](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/pb-fintech-fall-wipes-out-nearly-rs-9-000-crore-from-mutual-fund-holdings-in-a-day-14037533.html)
-- [Tata Sons tells Noel Tata, Chandrasekaran’s reappointment is valid, rejecting his objections](https://economictimes.indiatimes.com/news/company/corporate-trends/tata-sons-tells-noel-tata-chandrasekarans-reappointment-is-valid-rejecting-his-objections/articleshow/134462798.cms?from=mdr)
+- [India news: Cockroach party demands election head resign](https://www.dw.com/en/india-news-cockroach-party-demands-election-commissioner-gyanesh-kumars-resignation/live-79405879)
+- ['No anti-incumbency against BJP?' Party counters Rahul Gandhi with Tamil Nadu, Bengal poll history](https://timesofindia.indiatimes.com/india/no-anti-incumbency-against-bjp-party-counters-rahul-gandhi-with-tamil-nadu-bengal-poll-history/articleshow/134463753.cms)
+- [Muthoot Fincorp bags India home season title sponsorship rights](https://www.cricbuzz.com/cricket-news/140273/muthoot-fincorp-bags-india-home-season-title-sponsorship-rights)
+- [બંગાળમાં મમતા 3 વાર CM બન્યા, ઓડિશામાં 25 વર્ષ BJD સત્તામાં: એન્ટી-ઇન્કમ્બન્સી મુદ્દે રાહુલ ગાંધી પર BJPનો વળતો પ્રહાર](https://www.gujaratsamachar.com/news/national/mamata-became-cm-3-times-in-bengal-bjd-in-power-for-25-years-in-odisha-bjp-hits-back-at-rahul-gandhi-on-anti-incumbency-issue-33001533913)
+- [শুক্রবারে ভাসবে দক্ষিণবঙ্গ, নিম্নচাপের জেরে বানভাসি অবস্থা, কেমন থাকবে হাওড়া-হুগলি-কলকাতা ?](https://bengali.abplive.com/district/west-bengal-weather-update-heavy-rain-thunderstorm-gusty-wind-forecast-kolkata-howrah-hooghly-alert-imd-report-1194031)
+- [“மோடி, அமித் ஷா சதி... ஞானேஷ் குமார் உடனே பதவி விலக வேண்டும்” - ராகுல் காந்தி](https://www.hindutamil.in/news/india/cec-gyanesh-kumar-must-resign-immediately-pm-modi-hm-shah-to-be-investigated-says-rahul-gandhi)
+- [‘ഇ.ഡി റിപ്പോർട്ടിൽ സർക്കാർ വീഴ്ച വരുത്തി’: വിജിലൻസ് അന്വേഷണം ആവശ്യപ്പെട്ട് ഹൈക്കോടതിയിൽ ഹർജി](https://www.manoramaonline.com/news/latest-news/2026/09/24/high-court-petition-demands-vigilance-probe-into-ed-report-against-pinarayi-vijayan-veena-riyas.html)
+- ['हनुमान अंश' की कमाई में लगेगी सेंध? हॉलीवुड से बॉलीवुड तक, रिलीज हो रहीं ये बड़ी फिल्में](https://www.aajtak.in/entertainment/bollywood-news/story/hanuman-ansh-box-office-350-cr-new-releases-to-effect-neem-karoli-baba-business-the-vvaan-ramayan-tmovh-dskc-2652113-2026-09-24)
+- [SEBI approves new PMS rules, opens door to IPOs, foreign securities and MF investments](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/sebi-approves-new-pms-rules-opens-door-to-ipos-foreign-securities-and-mf-investments-14037226.html)
+- [The Paradise box office collection day 1 (updated live): Nani film beats Dasara, HIT 3 opening at ₹34.51 crore](https://www.hindustantimes.com/entertainment/telugu-cinema/the-paradise-box-office-collection-day-1-nani-gets-the-biggest-opening-of-his-career-at-30-crore-beats-dasara-hit-3-101790253330219.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
