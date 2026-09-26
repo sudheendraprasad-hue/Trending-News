@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-26 00:40:25
+# India Trending Report — 2026-09-26 01:01:38
 
 ## Google Trends (India) — top trending searches
-1. [बारिश मौसम](https://trends.google.com/trending/rss?geo=IN)
-2. [today weather](https://trends.google.com/trending/rss?geo=IN)
-3. [fabrizio romano](https://trends.google.com/trending/rss?geo=IN)
-4. [japan vs nepal](https://trends.google.com/trending/rss?geo=IN)
-5. [క్రికెట్](https://trends.google.com/trending/rss?geo=IN)
-6. [தமிழ் நாடு](https://trends.google.com/trending/rss?geo=IN)
-7. [egypt national football team vs angola national football team standings](https://trends.google.com/trending/rss?geo=IN)
-8. [rhiti tiwari](https://trends.google.com/trending/rss?geo=IN)
-9. [realme 16 pro 5g harry potter edition](https://trends.google.com/trending/rss?geo=IN)
-10. [italy national football team vs belgium national football team standings](https://trends.google.com/trending/rss?geo=IN)
+1. [weather today](https://trends.google.com/trending/rss?geo=IN)
+2. [mosam](https://trends.google.com/trending/rss?geo=IN)
+3. [england vs india](https://trends.google.com/trending/rss?geo=IN)
+4. [lakshya sen](https://trends.google.com/trending/rss?geo=IN)
+5. [बारिश मौसम](https://trends.google.com/trending/rss?geo=IN)
+6. [today weather](https://trends.google.com/trending/rss?geo=IN)
+7. [आज का मौसम कैसा रहेगा](https://trends.google.com/trending/rss?geo=IN)
+8. [fabrizio romano](https://trends.google.com/trending/rss?geo=IN)
+9. [japan vs nepal](https://trends.google.com/trending/rss?geo=IN)
+10. [క్రికెట్](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [‘Choice now rests with US’: Iran offers America 7-day plan to reopen Strait of Hormuz](https://timesofindia.indiatimes.com/world/middle-east/choice-now-rests-with-us-iran-offers-america-7-day-plan-to-reopen-strait-of-hormuz/articleshow/134495234.cms)
+- [‘Choice now rests with US’: Iran offers 7-day framework to reopen Hormuz - how the plan will work](https://timesofindia.indiatimes.com/world/middle-east/choice-now-rests-with-us-iran-offers-america-7-day-plan-to-reopen-strait-of-hormuz/articleshow/134495234.cms)
+- [Trump, Xi end 3-day summit with tea, stability pledge & little progress on key disputes](https://timesofindia.indiatimes.com/world/us/trump-xi-end-three-day-summit-with-tea-stability-pledge-and-a-little-progress-on-key-disputes/articleshow/134495324.cms)
 - [Watch: Russian drones hit McDonald’s-linked warehouse in Ukraine, 5 killed](https://timesofindia.indiatimes.com/world/europe/ukraine-russia-strikes-mcdonalds-linked-warehouse-in-kyiv-as-5-killed-video/articleshow/134495142.cms)
 - [Why Trump's F-35 deal with Saudi Arabia unsettles Israel, opens big door for China](https://timesofindia.indiatimes.com/world/middle-east/trumps-48-f-35-jets-for-saudi-arabia-why-is-israel-uneasy-and-china-a-key-concern/articleshow/134479408.cms)
-- [14 killed in Congo plane crash, two senior military officials among dead](https://timesofindia.indiatimes.com/world/rest-of-world/14-killed-in-congo-plane-crash-two-senior-military-officials-among-dead/articleshow/134495193.cms)
-- [Trump gets Supreme Court nod for voter citizenship checks weeks before midterms](https://timesofindia.indiatimes.com/world/us/supreme-court-allows-trump-administration-to-use-controversial-voter-citizenship-database-before-midterms/articleshow/134495290.cms)
 - [Zuckerberg’s $300m superyacht docks in Japan, gets neighbour who once wanted Meta out](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-300-million-superyacht-docked-in-japan-for-the-first-time-launchpad-has-a-new-neighbour-the-billionaire-who-once-wanted-meta-suspend-its-japanese-operations/articleshow/134478817.cms)
-- [Trump embraces Xi as peer, alarms partners and critics](https://timesofindia.indiatimes.com/world/us/trump-embraces-xi-as-peer-alarms-partners-and-critics/articleshow/134489947.cms)
+- [14 killed in Congo plane crash, two senior military officials among dead](https://timesofindia.indiatimes.com/world/rest-of-world/14-killed-in-congo-plane-crash-two-senior-military-officials-among-dead/articleshow/134495193.cms)
 - [Nebraska couple lost $59,759 home over $588 tax debt; compensation claim revived](https://timesofindia.indiatimes.com/world/us/a-nebraska-couple-lost-a-mortgage-free-home-assessed-at-59759-after-a-588-21-tax-debt-grew-to-5268-32-the-us-supreme-court-sent-the-case-back-and-nebraskas-top-court-revived-the-compensation-claim/articleshow/134486717.cms)
 - [Tom Brady vs Patrick Mahomes: Why TB12 Foundation can't match 15 and Mahomies](https://timesofindia.indiatimes.com/sports/nfl/news/tom-brady-vs-patrick-mahomes-why-tb12-foundation-could-never-match-15-and-the-mahomies/articleshow/134486061.cms)
-- [US Supreme Court rejects Trump-backed Missouri congressional map for third time](https://timesofindia.indiatimes.com/world/us/us-supreme-court-rejects-trump-backed-missouri-congressional-map-for-third-time/articleshow/134495273.cms)
+- ['A terrorist country is asking me': Jaishankar's sharp reply to Pak journalist](https://timesofindia.indiatimes.com/india/a-terrorist-country-is-asking-me-jaishankars-sharp-reply-to-pak-journalist/articleshow/134488558.cms)
+- [Trump gets Supreme Court nod for voter citizenship checks weeks before midterms](https://timesofindia.indiatimes.com/world/us/supreme-court-allows-trump-administration-to-use-controversial-voter-citizenship-database-before-midterms/articleshow/134495290.cms)
 
 **NDTV**
 - [Chief Justice To Inaugurate India's 1st Victim Rights Centre Today In Patna](https://www.ndtv.com/india-news/chief-justice-surya-kant-to-inaugurate-indias-1st-victim-rights-centre-today-in-patna-12099765#publisher=newsstand)
@@ -100,6 +100,7 @@
 - [ಮಕ್ಕಳ ಡಿಜಿಟಲ್ ಮಾಧ್ಯಮ ಬಳಕೆ, ಶಾಲೆಗಳಲ್ಲಿ ಸ್ಮಾರ್ಟ್ಫೋನ್ ನಿಷೇಧ ಕುರಿತು ರಾಷ್ಟ್ರೀಯ ನೀತಿ ಅಗತ್ಯ: ವರದಿ](https://www.varthabharati.in/National/national-policy-needed-on-childrens-digital-media-usage-and-smartphone-bans-in-schools-2278038)
 
 **Asianet Kannada**
+- [₹77 ಸಾವಿರ ಬಿಲ್ ಬಾಕಿ; ವಿದ್ಯುತ್ ಕಡಿತ ಮಾಡಿದ್ದಕ್ಕೆ ಹೆಸ್ಕಾಂ ಅಧಿಕಾರಿಗಳ ಮೇಲೆ MLC ಹಟ್ಟಿಹೊಳಿ ಹಲ್ಲೆ? ಮನೆಯಲ್ಲಿ ನಡೆದಿದ್ದೇನು?](https://kannada.asianetnews.com/karnataka-districts/rs-77000-power-bill-row-mlc-hattiholi-accused-of-assaulting-hescom-officials-rav/articleshow-grkoi7q)
 - [ಆಲಮಟ್ಟಿ-ಯಾದಗಿರಿ ರೈಲ್ವೆ ಮಾರ್ಗ : 100 ವರ್ಷಗಳ ಹಿಂದಿನ ಯೋಜನೆಗೆ ಈಗ ಸಿಕ್ತು ಮರುಜೀವ!](https://kannada.asianetnews.com/karnataka-districts/almatti-yadgir-railway-line-100-year-old-project-gets-new-lease-of-life-rav/articleshow-x9u6mlv)
 - [ಶಿವಮೊಗ್ಗ ಹಿಂದೂ ಮಹಾಸಭಾ ಗಣಪತಿ ವಿಸರ್ಜನೆ ವೇಳೆ ಹೊಸ ಪದ್ದತಿಗೆ ಮುನ್ನುಡಿ](https://kannada.asianetnews.com/karnataka-districts/the-song-vande-mataram-was-played-during-the-ganesha-immersion-procession-in-shivamogga/articleshow-ampyr5l)
 - ['ನನ್ನ ಮೇಲೆ ಮಾಟಮಂತ್ರ ಮಾಡಿದ್ದಾರೆ, ದಿನದಿಂದ ದಿನಕ್ಕೆ ಕುಳ್ಳ ಆಗ್ತಿದ್ದೇನೆ' ಜಿಲ್ಲಾಧಿಕಾರಿಗೆ ವಿಚಿತ್ರ ದೂರು ನೀಡಿದ ವಿದ್ಯಾವಂತ ಯುವಕ](https://kannada.asianetnews.com/viral/black-magic-height-reduction-claim-kurnool-andhra-pradesh-collector-complaint/articleshow-5eoy7f0)
@@ -109,11 +110,12 @@
 - [400 ಅಂಗನವಾಡಿಯ 5500 ಮಕ್ಕಳಿಗೆ ಹಾಲು ಕೊಡದೇ ಅನ್ಯಾಯ, ಸರ್ಕಾರದ ವಿರದ್ಧ ಭುಗಿಲೆದ್ದ ಆಕ್ರೋಶ](https://kannada.asianetnews.com/india-news/injustice-no-milk-for-5500-children-across-400-anganwadis-denied-milk-in-gujarat/articleshow-knlaw9g)
 - [ಮಗುವಾದ ಬಳಿಕ ಗಂಡನ ಮೇಲೆ ಹೆಂಡತಿಗೆ ಕೋಪ ಏಕೆ ಹೆಚ್ಚಾಗುತ್ತೆ? ಕಾರಣ ತಿಳಿದರೆ ಅಚ್ಚರಿಯಾಗುತ್ತೆ!](https://kannada.asianetnews.com/gallery/relationship/why-do-women-feel-more-irritated-with-their-husbands-after-becoming-mothers-8n23rtr)
 - [ಕೇವಲ 5,000 ರೂಪಾಯಿಗೆ ಮನೆಗೆ ತನ್ನಿ ನೂತನ ಇವಿ ಸ್ಕೂಟರ್: 4 ಗಂಟೆಗಳಲ್ಲಿ ಫುಲ್ ಚಾರ್ಜ್, 145 ಕಿ.ಮೀ ಮೈಲೇಜ್!](https://kannada.asianetnews.com/bike-news/honda-qc3-electric-scooter-launch-price-range-features-booking-india-san/articleshow-ncmke10)
-- [ಡುಯಲ್ ಸಿಲಿಂಡರ್ ಸಿಎನ್‌ಜಿ, 6 ಏರ್‌ಬ್ಯಾಗ್, 360 ಡಿಗ್ರಿ ಕ್ಯಾಮೆರಾ: ಟಾಟಾ ಏರಿಸ್ ಕಾರಿನ ಆಕರ್ಷಕ ಫೀಚರ್ಸ್ ಇಲ್ಲಿದೆ](https://kannada.asianetnews.com/car-news/tata-aeris-sedan-launched-india-price-specifications-features-replace-tigor-san/articleshow-bem2lra)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ತೀರ್ಥಹಳ್ಳಿಯಲ್ಲಿ ಅರಣ್ಯ ವೀಕ್ಷಕನ ಮನೆಯಲ್ಲಿಯೇ ಲಕ್ಷಾಂತರ ಮೌಲ್ಯದ ಅಕ್ರಮ ನಾಟ ವಶ!](https://tv9kannada.com/videos/major-timber-racket-uncovered-at-forest-watchers-residence-in-shivamoggas-munduvalli-1242702.html)
+- [Horoscope Today: ಇಂದು ಅನಂತ ಹುಣ್ಣಿಮೆಯ ವಿಶೇಷ ದಿನ; ಈ ಎಲ್ಲಾ ರಾಶಿಗಳಿಗೆ ಶುಭ](https://tv9kannada.com/videos/horoscope-today-26th-september-2026-dr-basavaraj-gurujis-predictions-for-zodiac-signs-1242704.html)
 - [ದಿನ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರು ಅಪಮಾನವನ್ನು ವ್ಯಕ್ತಪಡಿಸಲು ಕಾಯುವರು…](https://tv9kannada.com/horoscope/daily-horoscope-for-september-26-2026-dakshinayana-greeshma-season-badrapada-masa-shukla-paksha-satursday-astrology-1242505.html)
 - [Bigg Boss Kannada: ಗಗನ್​​ಗೆ ಸಿಕ್ತು ‘ಚಿನ್ನ’, ಕಿರಿ-ಕಿರಿ ಮಾಡಿದ ಕಿರಣ್​​ಗೆ ಜೈಲು](https://tv9kannada.com/entertainment/bigg-boss-kannada-gagan-voted-as-performer-of-week-and-kiran-voted-as-worst-performer-1242696.html)
 - [ಪೊಲೀಸ್ ಭವನದಲ್ಲೇ ಬಿಡದಿ ರೈತರ ಉಪವಾಸ ಸತ್ಯಾಗ್ರಹ: ‘ಭೂಮಿ ಬಿಡಿ, ಇಲ್ಲಾ ದಯಾಮರಣ ಕೊಡಿ’ ಎಂದು ಆಕ್ರೋಶ](https://tv9kannada.com/videos/ramanagara-bidadi-farmers-stage-hunger-strike-at-police-bhavan-demand-land-release-or-euthanasia-1242692.html)
@@ -122,8 +124,6 @@
 - [ಕ್ಯಾಪ್ಟನ್ ಸಂಗೀತಾಗೆ ಜೈಕಾರ ಹಾಕಿದ ಮನೆ ಮಂದಿ: ಪೆಚ್ಚಾದ ಕಿರಣ್](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-season-13-housemates-hails-captain-sangeetha-for-punishing-kiran-1242686.html)
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಕ್ರಿಕೆಟ್; ಒಂದೇ ತಂಡದಲ್ಲಿ ಒಂದೇ ಉಪನಾಮದ 7 ಆಟಗಾರರು](https://tv9kannada.com/sports/cricket-news/oman-vs-hong-kong-unique-al-balushi-squad-1242676.html)
 - [ಭಜನ್ ಕ್ಲಬ್ಬಿಂಗ್​ನಲ್ಲಿ ಮೋದಿ; ಯುವಕರ ಜೊತೆ ಭಕ್ತಿಗೀತೆಗೆ ತಾಳ ಹಾಕಿದ ಪ್ರಧಾನಿ](https://tv9kannada.com/videos/pm-narendra-modi-attends-bhajan-clubbing-on-deendayal-upadhyaya-birth-anniversary-watch-video-1242678.html)
-- [ಮೈಸೂರು ದಸರಾಗೆ ಕರಾವಳಿಯ ಕಂಬಳದ ಮೆರುಗು: ಸಾಂಪ್ರದಾಯಿಕ ಕ್ರೀಡಾ ವೈಭವಕ್ಕೆ ಸಕಲ ಸಿದ್ಧತೆ](https://tv9kannada.com/karnataka/dakshina-kannada/mysuru-dasara-kambala-preparations-underway-across-karnatakas-coastal-region-1242674.html)
-- [2028ರ ಚುನಾವಣೆ ಗೆಲ್ಲಲು ಬಿಜೆಪಿ ಭರ್ಜರಿ ಪ್ಲ್ಯಾನ್:ಬಳ್ಳಾರಿ ಪಾದಯಾತ್ರೆ ಯಶಸ್ಸಿನ ಬೆನ್ನಲ್ಲೇ ಮತ್ತೊಂದು ಯಾತ್ರೆ](https://tv9kannada.com/videos/karnataka-bjp-booth-vijaya-sankalpa-yatra-from-october-1st-for-target-2028-assembly-election-1242675.html)
 
 **Prajavani**
 - [ಹಸಿರು ಗುರುತು ಕಂಡರೆ ಸಾಕೇ? ನಿಮ್ಮ ಟೂತ್‌ಪೇಸ್ಟ್‌ನಲ್ಲಿ ನಿಜವಾಗಿ ಏನಿದೆ?](https://www.prajavani.net/health/wellness-diet/toothpaste-ingredients-green-mark-fluoride-facts-4287233)
@@ -134,8 +134,8 @@
 - [ನಗರದಲ್ಲಿ ಇಂದು: ಬೆಂಗಳೂರು ನಗರದ ಕಾರ್ಯಕ್ರಮಗಳು- 26 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/district/bengaluru-city/bengaluru-city-events-september-twenty-six-cultural-programs-4288142)
 - [ದಿನ ಭವಿಷ್ಯ: ಈ ರಾಶಿಯವರಿಗೆ ಹಣಕಾಸಿನ ಬಗ್ಗೆ ಚಿಂತಿಸುವ ಅಗತ್ಯವಿಲ್ಲ](https://www.prajavani.net/astro-vastu/horoscope/daily-kannada-horoscope-september-twenty-five-4287662)
 - [ದಿನದ ಪಂಚಾಂಗ: 26 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/astro-vastu/panchanga/kannada-daily-panchanga-september-twenty-six-astrology-4287666)
-- [ಗಣಿಗಾರಿಕೆ ತ್ಯಾಜ್ಯಕ್ಕೂ ಬಂತು ‘ಮೌಲ್ಯ’](https://www.prajavani.net/district/ballari/iron-ore-mining-waste-disposal-rules-relaxed-by-environment-ministry-4288133)
 - [ಹೆಸ್ಕಾಂ ಅಧಿಕಾರಿಗಳ ಪ್ರತಿಭಟನೆ](https://www.prajavani.net/district/belagavi/hescom-officials-protest-belagavi-mlc-channaraj-hattiholi-assault-allegation-4287889)
+- [ಗಣಿಗಾರಿಕೆ ತ್ಯಾಜ್ಯಕ್ಕೂ ಬಂತು ‘ಮೌಲ್ಯ’](https://www.prajavani.net/district/ballari/iron-ore-mining-waste-disposal-rules-relaxed-by-environment-ministry-4288133)
 
 **eedina**
 - [ಉಡುಪಿ | ಧರ್ಮದ ಹೆಸರಿನಲ್ಲಿ ವಿಭಜನೆ ಬೇಡ, ಮಾನವೀಯತೆಗೆ ಆದ್ಯತೆ ನೀಡಿ : ಮುಹಮ್ಮದ್ ಕುಂಞಿ](https://eedina.com/?p=766370)
@@ -155,30 +155,30 @@
 - Supreme Court (3.0)
 - Hormuz (2.9)
 - Odisha (2.9)
-- Strait (2.6)
 - China (2.6)
 - Report (2.6)
 - India (2.6)
 - What (2.6)
 - Seized (1.6)
 - Liberia (1.6)
-- Court (1.5)
 - Choice (1.3)
-- America (1.3)
+- Watch (1.3)
+- Russian (1.3)
+- McDonald (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Ramayana song: రామాయణం నుంచి శ్రీరాముడి భక్తి భావాన్ని చాటే జై జై రామ్ రిలీజ్](https://telugu.webdunia.com/article/telugu-cinema-news/jai-jai-ram-song-from-the-ramayana-that-embodies-devotion-to-sri-rama-has-been-released-126092500035_1.html)
-- [Breaking News: વડોદરાના માનુષ શાહે Asian Games 2026માં જીત્યો બ્રોન્ઝ મેડલ, ગુજરાતના મુખ્યમંત્રી ભૂપેન્દ્ર પટેલે પાઠવી શુભેચ્છા](https://tv9gujarati.com/sports/other-sports/breaking-news-asian-games-manush-bronze-medal-gujarat-cm-patel-congratulate-him-1521785.html)
-- ['The hero's wife doesn't like you': Taapsee Pannu recalls the 'worst reason' for being replaced in a film despite locking dates](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-heros-wife-doesnt-like-you-taapsee-pannu-recalls-the-worst-reason-for-being-replaced-in-a-film-despite-locking-dates/articleshow/134485548.cms)
-- [Navpancham Rajyog 2026 : 26 સપ્ટેમ્બરે બનશે સૂર્ય-યમનો નવપંચમ રાજયોગ, 3 રાશિઓ માટે ખુલશે પૈસાની નવી તકો!](https://tv9gujarati.com/photo-gallery/sun-yam-navpancham-rajyog-26-september-2026-lucky-zodiac-signs-financial-benefits-1521786.html)
-- [iPhone की कीमतों पर फिर संकट, 2027 में और महंगा हो सकता है Apple का फोन](https://www.aajtak.in/technology/tech-news/story/iphone-2027-price-hike-memory-dram-nand-samsung-deal-ttecm-dskc-2653151-2026-09-25)
-- [વિશ્વભરમાં ઓઈલ સંકટ વચ્ચે મોટો વળાંક, હોર્મુઝ ખોલવા ઈરાને અમેરિકાને આપી '7 દિવસની ડેડલાઇન'](https://www.gujaratsamachar.com/news/national/amidst-the-global-oil-crisis-a-major-turning-point-iran-gives-america-a-7-day-deadline-to-open-hormuz-37998735081)
-- [ആദ്യ ദിന കളക്ഷനിൽ വമ്പൻ നേട്ടവുമായി നാനി ചിത്രം 'ദി പാരഡൈസ്'](https://www.asianetnews.com/entertainment-news/the-paradise-movie-starring-nani-box-office-collection-day-1-articleshow-w0rdgn4)
-- [US ആക്രമിച്ചേക്കാം; ജാഗ്രതയിലെന്ന് കാനഡ, ഒന്നിച്ചുനിന്നവർ കൊമ്പുകോർക്കുമോ? അങ്കലാപ്പിൽ വടക്കേ അമേരിക്ക](https://www.mathrubhumi.com/news/world/us-vs-canada-military-capabilities-comparison-2026-yrh8cr0u)
-- [గంగమ్మ ఒడికి చేరిన బాలాపూర్ గణపయ్య..](https://www.andhrajyothy.com/2026/telangana/hyderabad/balapur-ganesh-immersion-laddu-auction-vvnp-1561303.html)
-- [ரூ.10 லட்ச பட்ஜெட் SUV: இந்த தீபாவளிக்கு நீங்கள் உண்மையில் கருத்தில் கொள்ள வேண்டிய 11 மாடல்கள் எவை?](https://www.cardekho.com/ta/news/general/planning-an-suv-for-diwali-these-11-cars-start-below-rs-10-lakh-36710.htm)
+- [Pancreatic Cancer Mortality Inequalities](https://www.emjreviews.com/oncology/news/pancreatic-cancer-mortality-remains-unequal-across-japan/)
+- [IND vs PAK : 'आमचं टार्गेट भारत नाही तर सुवर्णपदक'; एशियन गेम्सच्या मॅचआधी पाकिस्तानच्या कर्णधाराचे विधान चर्चेत](https://maharashtratimes.com/sports/cricket/cricket-news/pakistan-captain-sahibzada-farhan-statement-on-team-india-before-asian-games-2026-match/articleshow/134485645.cms)
+- [Best Mileage Scooters: রোজ অফিসে যাওয়ার জন্য স্কুটার খুঁজছেন? দাম ও মাইলেজ দেখে এই ৫টি মডেল চেক করুন!](https://bangla.asianetnews.com/automobile/best-mileage-scooters-top-5-best-mileage-scooters-for-daily-office-commute-in-india-office-commute-scooters-anbsd/photoshow-83xd0sb)
+- [Black hole jets may shape fate of galaxies by heating surrounding gas](https://ddindia.co.in/2026/09/black-hole-jets-may-shape-fate-of-galaxies-by-heating-surrounding-gas/)
+- [अमेरिका ने भारत के ख़िलाफ़ 100 फ़ीसदी टैरिफ़ लगा दिया तो क्या होगा?](https://www.bbc.com/hindi/articles/c6zjzlmlv88po)
+- [மத்திய அரசு ஊழியர்களுக்கு 8-வது ஊதியக் குழு மூலமா ரூ.18 லட்சம் வரை அரியர்ஸ் கிடைக்க வாய்ப்பிருக்குன்னு பேசிக்கிறாங்க!](https://tamil.economictimes.com/news/business/central-government-employees-could-get-rs-18-lakh-arrears-through-8th-pay-commission/articleshow/134485750.cms)
+- [ஐ.நா.வில் உரையாற்றிய இஸ்ரேல் பிரதமர் நேதன்யாகுவுக்கு எதிர்ப்பு..!](https://www.polimernews.com/worldnews/opposition-to-israeli-prime-minister-netanyahus-address-at-the-un-12575547)
+- [India vs Panama LIVE SCORE : Ryan Williams scores opening goal; 138th-ranked Blue Tigers take on World No. 44](https://sportstar.thehindu.com/football/indian-football/india-vs-panama-live-score-indian-football-match-updates-ind-v-pan-goals-updates-highlights/article71508799.ece)
+- [झुग्गी में रहते थे, कभी साइकिल थी साथी! अली फजल की कामयाबी देख ऋचा बोलीं- इस दिन के लिए पाला](https://www.aajtak.in/entertainment/news/story/richa-chadha-interview-ali-fazal-movies-wedding-rakh-mirzapur-rttm-dskc-2653077-2026-09-25)
+- [ஆஸ்திரேலியா ஏ அணியை இந்தியா ஏ அணி வீழ்த்தியது](https://www.dinamalar.com/news/puducherry/india-a-beat-australia-a/4332378)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
