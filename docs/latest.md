@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-26 22:01:53
+# India Trending Report — 2026-09-26 22:34:35
 
 ## Google Trends (India) — top trending searches
-1. [james garner](https://trends.google.com/trending/rss?geo=IN)
-2. [mikel oyarzabal](https://trends.google.com/trending/rss?geo=IN)
-3. [usa vs peru](https://trends.google.com/trending/rss?geo=IN)
-4. [sloop](https://trends.google.com/trending/rss?geo=IN)
-5. [carlos alcaraz](https://trends.google.com/trending/rss?geo=IN)
-6. [north macedonia vs switzerland](https://trends.google.com/trending/rss?geo=IN)
-7. [czechia vs croatia](https://trends.google.com/trending/rss?geo=IN)
-8. [oman vs saudi arabia](https://trends.google.com/trending/rss?geo=IN)
-9. [spain vs england](https://trends.google.com/trending/rss?geo=IN)
+1. [england national football team vs spain national football team standings](https://trends.google.com/trending/rss?geo=IN)
+2. [james garner](https://trends.google.com/trending/rss?geo=IN)
+3. [mikel oyarzabal](https://trends.google.com/trending/rss?geo=IN)
+4. [usa vs peru](https://trends.google.com/trending/rss?geo=IN)
+5. [sloop](https://trends.google.com/trending/rss?geo=IN)
+6. [carlos alcaraz](https://trends.google.com/trending/rss?geo=IN)
+7. [north macedonia vs switzerland](https://trends.google.com/trending/rss?geo=IN)
+8. [czechia vs croatia](https://trends.google.com/trending/rss?geo=IN)
+9. [oman vs saudi arabia](https://trends.google.com/trending/rss?geo=IN)
 10. [photo](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Russia backs India's claim to UNSC seat, firmly shuts door on Germany & Japan](https://timesofindia.indiatimes.com/world/us/russia-backs-indias-claim-to-unsc-seat-firmly-shuts-door-on-germany-japan/articleshow/134508102.cms)
-- ['It's for perpetrator of terrorism to mend its ways': Jaishankar takes aim at Pak in UN](https://timesofindia.indiatimes.com/india/its-for-perpetrator-of-terrorism-to-mend-its-ways-jaishankar-takes-aim-at-pakistan-in-un-speech/articleshow/134508397.cms)
+- [Jaishankar at UNGA: Pakistan serial practitioner of terror, must face outcome](https://timesofindia.indiatimes.com/india/indias-right-to-defend-itself-from-terrorism-will-be-exercised-eam/articleshow/134510292.cms)
+- [4 killed as helicopter crashes in field in Canada’s Quebec, probe launched](https://timesofindia.indiatimes.com/world/rest-of-world/4-killed-as-helicopter-crashes-in-field-in-canadas-quebec/articleshow/134512844.cms)
 - [BJP allies back EC, say opposition attacks undermine democracy](https://timesofindia.indiatimes.com/india/bjp-allies-close-ranks-flay-oppn-for-undermining-democracy/articleshow/134510147.cms)
 - [10 women dead in 2 months: South Africa probes possible links in Ekurhuleni killings](https://timesofindia.indiatimes.com/world/rest-of-world/10-women-dead-in-2-months-south-africa-probes-possible-links-in-ekurhuleni-killings/articleshow/134510157.cms)
 - [Florida used robot rabbits to hunt Burmese pythons threatening the Everglades](https://timesofindia.indiatimes.com/technology/tech-news/when-a-district-in-florida-used-robot-rabbits-to-eliminate-growing-population-of-burmese-pythons-and-protect-everglades/articleshow/134385404.cms)
-- [PM Modi, Shah put CEC in charge of match-fixing elections: Rahul](https://timesofindia.indiatimes.com/india/modi-shah-put-cec-in-charge-of-match-fixing-elections-rahul/articleshow/134510130.cms)
 - [He attested brother’s sale deed; HC cites oral partition, family loses 3.5 acres claim](https://timesofindia.indiatimes.com/business/india-business/he-attested-brothers-sale-deed-decades-ago-madras-hc-cites-it-as-evidence-of-oral-partition-rejects-familys-claim-to-3-5-acres-of-ancestral-land/articleshow/134507211.cms)
+- [PM Modi, Shah put CEC in charge of match-fixing elections: Rahul](https://timesofindia.indiatimes.com/india/modi-shah-put-cec-in-charge-of-match-fixing-elections-rahul/articleshow/134510130.cms)
 - [Higher EPF wage limit: Monthly PF contributions rise to Rs 3,917](https://timesofindia.indiatimes.com/india/higher-epf-wage-limit-monthly-pf-contributions-rise-to-3917/articleshow/134510271.cms)
 - ['India calls for restraint': EAM on ship attacks in Gulf, seafarers at UNGA](https://timesofindia.indiatimes.com/india/india-calls-for-restraint-jaishankar-on-ship-attacks-in-gulf-seafarers-at-unga-top-quotes/articleshow/134508304.cms)
-- [80 aircraft, 40 countries: IAF’s Tarang Shakti air exercise kicks off in Jodhpur](https://timesofindia.indiatimes.com/defence/news/80-aircraft-40-countries-1500-personnel-iafs-biggest-air-exercise-tarang-shakti-kicks-off-in-jodhpur-us-france-envoys-hail-multinational-drill/articleshow/134510091.cms)
 
 **NDTV**
 - [Judicial System Has Long Focused On Accused And Offence, Says Chief Justice](https://www.ndtv.com/india-news/judicial-system-has-long-focused-on-accused-and-offence-chief-justice-surya-kant-12103256#publisher=newsstand)
@@ -74,6 +74,8 @@
 - [T.N. government to appeal against Ponmudy’s acquittal in ₹28.37-crore red sand quarrying case, ED tells Madras HC](https://www.thehindu.com/news/national/tamil-nadu/tn-government-to-appeal-against-ponmudys-acquittal-in-2837-crore-red-sand-quarrying-case-ed-tells-madras-hc/article71512675.ece)
 
 **Livemint**
+- [Heavy Storm Cuts Power, Grounds Planes Across US Northeast](https://www.livemint.com/news/world/heavy-storm-cuts-power-grounds-planes-across-us-northeast-11790460131403.html)
+- [Prince Harry wants Earl Spencer for rumoured Princess Diana documentary project: Report](https://www.livemint.com/news/world/prince-harry-wants-earl-spencer-for-rumoured-princess-diana-documentary-project-report-11790457314972.html)
 - [Trump renews Russia-Ukraine peace push, urges Zelensky, Putin to ‘make a deal... settle’](https://www.livemint.com/news/us-news/trump-renews-russia-ukraine-peace-push-urges-zelensky-putin-to-make-a-deal-settle-11790455929199.html)
 - [Billy Gardell, well-known for Bob Hearts Abishola, reveals why weight loss surgery ‘probably saved’ his life](https://www.livemint.com/news/trends/billy-gardell-well-known-for-bob-hearts-abishola-reveals-why-weight-loss-surgery-probably-saved-his-life-11790454285085.html)
 - [‘Because they’re dying’, ‘They have no money now’: Trump reveals why Iran wants Strait of Hormuz reopened](https://www.livemint.com/news/us-news/because-they-re-dying-they-have-no-money-now-trump-reveals-why-iran-wants-strait-of-hormuz-reopened-11790454562393.html)
@@ -82,8 +84,6 @@
 - [Weather tomorrow 27 September: Very heavy rain in Uttarakhand, Himachal; snowfall likely | Check Delhi, UP, MP and more](https://www.livemint.com/news/india/weather-tomorrow-27-september-very-heavy-rain-in-uttarakhand-himachal-snowfall-likely-check-delhi-up-mp-and-more-11790446844966.html)
 - [Who is Mohibullah Ansari? IPS officer who failed Class 10, 12 pre-board exams and cracked IIT, set to receive US honour](https://www.livemint.com/news/india/who-is-mohibullah-ansari-ips-officer-who-failed-class-10-12-pre-board-exams-and-cracked-iit-set-to-receive-us-honour-11790442535821.html)
 - [Food safety vs public health: Maharashtra FDA chief Tukaram Mundhe calls for behaviour change](https://www.livemint.com/news/india/food-safety-vs-public-health-maharashtra-fda-chief-tukaram-mundhe-calls-for-behaviour-change-11790441695389.html)
-- [S Jaishankar slams Pakistan at UNGA — says ‘serial practitioner of terrorism’ cannot claim immunity](https://www.livemint.com/news/india/s-jaishankar-slams-pakistan-at-unga-says-serial-practitioner-of-terrorism-cannot-claim-immunity-11790445490912.html)
-- [Hurricane Nolo strengthens near Hawaii: When will the storm hit Big Island, how much rain is expected — latest updates](https://www.livemint.com/news/us-news/hurricane-nolo-strengthens-near-hawaii-when-will-the-storm-hit-big-island-how-much-rain-is-expected-latest-updates-11790441287457.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -140,16 +140,16 @@
 - [ಮಂಗಳೂರು | ಬಾಲ್ಕನಿಯ ತಡೆಗೋಡೆ ಕುಸಿದು ಬಿದ್ದು ಓರ್ವ ವಿದ್ಯಾರ್ಥಿಯ ಮೆದುಳು ನಿಷ್ಕ್ರಿಯ, ನಾಲ್ವರಿಗೆ ಗಾಯ](https://eedina.com/?p=766728)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Jaishankar (6.5)
 - UNGA (5.8)
+- Jaishankar (5.2)
 - India (2.6)
 - Uttarakhand (2.6)
 - Iran (2.6)
 - September (2.6)
 - Trump (2.6)
 - CJI Surya Kant (2.0)
-- Justice (1.9)
 - Pakistan (1.9)
+- Justice (1.9)
 - Russia (1.6)
 - India's (1.6)
 - INDIA (1.6)
@@ -159,16 +159,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [தேர்தல் ஆணையர் விலகக் கோரிக்கை; காங்கிரஸ் கட்சி நாடு தழுவிய போராட்டம்](https://www.tamilmurasu.com.sg/india/demand-election-commissioners-resignation-congress-partys-nationwide-protest)
-- [Mamata loyalist MLA Kunal Ghosh's car attacked with stones, eggs in Bengal's Hooghly](https://www.indiatoday.in/india/story/west-bengal-kunal-ghosh-car-attack-hooghly-mamata-banerjee-rally-uttarpara-3003510-2026-09-26)
-- [कल का मौसम 27 सितंबर: 14 घंटे के अंदर 19 राज्यों में मूसलाधार बारिश का अलर्ट, 85 की स्पीड से हवा; IMD अपडेट](https://navbharattimes.indiatimes.com/india/tomorrow-weather-27-september-2026-thunderstorm-and-heavy-rain-alert-in-19-states-within-14-hours-wind-speed-up-to-85-kmph-delhi-up-bihar-temperature/articleshow/134501645.cms)
-- [Vinod Kambli Viral Video: Video: विनोद कांबळीचा वृद्धाश्रमातील व्हिडिओ व्हायरल; म्हणाला, 'मला इथं आल्यापासून..'](https://marathi.abplive.com/sports/vinod-kambli-latest-video-viral-on-social-media-he-is-presently-at-an-elderly-care-centre-in-thane-1440302)
-- [ஜெம் வீரமணி பாலியல் வழக்கு: "FIR பதிவு செய்ததே பேரம் பேசுவதற்காகத்தான்" - அமைச்சர் நிர்மல் குமார்](https://www.vikatan.com/government-and-politics/fir-against-gem-veeramani-registered-for-purpose-of-bargaining-minister-nirmal-kumar)
-- ['मुझे नजरबंद कर दिया गया', रैली में जाने से पहले भड़कीं ममता बनर्जी, कहा- 'बीजेपी के गुंडों...'](https://www.abplive.com/news/india/mamata-banerjee-tmc-i-am-placed-under-house-arrest-srirampur-court-rally-3194067)
-- [ഒമാനിൽ ജീവനക്കാർക്ക് നേരെ വിദേശികൾ പണമെറിഞ്ഞതായി പ്രചരിച്ച വീഡിയോ; വിശദീകരണവുമായി അധികൃതർ](https://www.reporterlive.com/gulf/oman/2026/09/26/oman-police-explanation-on-viral-money-throwing-videos)
-- [हूती हमलों से मचा हड़कंप, सऊदी के साथ खड़े हुए तुर्की-पाकिस्तान, जानें बैठक में क्या हुआ](https://www.aajtak.in/world/story/saudi-arabia-pakistan-turkiye-defence-officials-assist-riyadh-wake-of-houthi-attack-dskc-2653885-2026-09-26)
-- [Virat Kohli: ২০২৭-এই ইতি? নিজের ভবিষ্যৎ নিয়ে মুখ খুললেন বিরাট কোহলি](https://bengali.abplive.com/sports/cricket/virat-kohli-opens-up-on-his-future-plan-and-odi-world-cup-2027-1194237)
-- [Viral Video: ఒకప్పుడు టీమిండియా స్టార్.. ఇప్పుడు కేర్ సెంటర్‌లో.. ఆ వీడియో చూసి చలించిపోయిన ఫ్యాన్స్](https://tv9telugu.com/sports/cricket-news/vinod-kambli-viral-video-former-india-cricketer-spotted-at-care-centre-fans-express-concern-1920171.html)
+- [ஆசிய விளையாட்டு 2026 | கபடியில் தங்கம் வென்று ஆடவர் மற்றும் மகளிர் அணிகள் வரலாற்றுச் சாதனை!](https://www.etvbharat.com/ta/sports/indian-men-and-women-kabaddi-team-sweep-gold-medal-in-asian-games-2026-tns26092603968)
+- [మమతా బెనర్జీ పార్టీ ఎమ్మెల్యే కారుపై రాళ్లు, కోడిగుడ్లతో దాడి](https://www.ap7am.com/tn/881474/kunal-ghosh-mamata-banerjee-party-mla-car-attacked-with-stones-and-eggs)
+- [Hardik Pandya : टीम इंडियाला मोठा धक्का,हार्दिक पांड्या पुन्हा दुखापतग्रस्त, न्यूझीलंड दौऱ्यात खेळणार की नाही?](https://marathi.abplive.com/sports/cricket/hardik-pandya-ruled-out-of-australia-a-series-surprising-reason-may-be-missed-new-zealand-tour-marathi-news-1440311)
+- [Mamata CPIM Alliance Controversy: 'বামেরা থাকলে আমাদের উঠে যেতে বলত', সিপিএম- মমতা কাছাকাছি আসতেই কটাক্ষ সন্দীপনের](https://bengali.news18.com/news/kolkata/sandipan-saha-mocks-at-mamata-banerjee-for-trying-to-form-alliance-with-cpim-dmg-2908171.html)
+- [India men beat Iran to win gold medal; become nine-time champions](https://www.olympics.com/en/news/asian-games-2026-kabaddi-men-india-vs-iran-final-match-report)
+- [Virat Kohli says he will retire from India cricket after 2027 World Cup](https://www.aljazeera.com/sports/2026/9/26/india-cricket-great-virat-kohli-says-2027-world-cup-will-be-his-last)
+- [தலைமைத் தேர்தல் ஆணையர் ஞானேஷ் குமாரை குற்றம் சாட்டப்பட்ட நபராக விசாரிக்கக்கோரி உச்ச நீதிமன்றத்தில் மனு](https://viduthalai.in/207720/%E0%AE%A4%E0%AE%B2%E0%AF%88%E0%AE%AE%E0%AF%88%E0%AE%A4%E0%AF%8D-%E0%AE%A4%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D-%E0%AE%86%E0%AE%A3%E0%AF%88%E0%AE%AF%E0%AE%B0%E0%AF%8D-%E0%AE%9E/)
+- [முதல்வர் விஜய் ரிவ்யூ செய்யல... ரீல்ஸ் எடுத்து விட்டிருக்காரு; ஸ்டாலின் விமர்சனம்](https://www.dinamalar.com/news/tamil-nadu-news/stalin-slams-cm-vijay-for-not-reviewing-reels/4333136)
+- [“மின் வாரிய அலுவலகத்தில் முதல்வர் செய்தது ரிவ்யூ அல்ல... ரீல்ஸ்!” - ஸ்டாலின் விமர்சனம்](https://www.hindutamil.in/news/tamilnadu/mk-stalin-condemns-cm-vijay)
+- [Asian Games : ਭਾਰਤੀ ਪੁਰਸ਼ ਹਾਕੀ ਟੀਮ ਨੇ ਜਾਪਾਨ ਨੂੰ ਹਰਾ ਕੇ ਸੈਮੀਫਾਈਨਲ ਵਿੱਚ ਕੀਤਾ ਪ੍ਰਵੇਸ਼ ; ਲਗਾਤਾਰ ਚੌਥੀ ਜਿੱਤ ਕੀਤੀ ਦਰਜ](https://wishavwarta.in/indian-mens-hockey-team-reaches-semifinals/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
