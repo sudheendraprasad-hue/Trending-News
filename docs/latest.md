@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-26 22:34:35
+# India Trending Report — 2026-09-26 23:02:08
 
 ## Google Trends (India) — top trending searches
 1. [england national football team vs spain national football team standings](https://trends.google.com/trending/rss?geo=IN)
@@ -14,16 +14,16 @@
 
 ## Latest headlines by outlet
 **Times of India**
+- ['India calls for restraint': EAM on ship attacks in Gulf, seafarers at UNGA](https://timesofindia.indiatimes.com/india/india-calls-for-restraint-jaishankar-on-ship-attacks-in-gulf-seafarers-at-unga-top-quotes/articleshow/134508304.cms)
 - [Russia backs India's claim to UNSC seat, firmly shuts door on Germany & Japan](https://timesofindia.indiatimes.com/world/us/russia-backs-indias-claim-to-unsc-seat-firmly-shuts-door-on-germany-japan/articleshow/134508102.cms)
-- [Jaishankar at UNGA: Pakistan serial practitioner of terror, must face outcome](https://timesofindia.indiatimes.com/india/indias-right-to-defend-itself-from-terrorism-will-be-exercised-eam/articleshow/134510292.cms)
 - [4 killed as helicopter crashes in field in Canada’s Quebec, probe launched](https://timesofindia.indiatimes.com/world/rest-of-world/4-killed-as-helicopter-crashes-in-field-in-canadas-quebec/articleshow/134512844.cms)
 - [BJP allies back EC, say opposition attacks undermine democracy](https://timesofindia.indiatimes.com/india/bjp-allies-close-ranks-flay-oppn-for-undermining-democracy/articleshow/134510147.cms)
 - [10 women dead in 2 months: South Africa probes possible links in Ekurhuleni killings](https://timesofindia.indiatimes.com/world/rest-of-world/10-women-dead-in-2-months-south-africa-probes-possible-links-in-ekurhuleni-killings/articleshow/134510157.cms)
 - [Florida used robot rabbits to hunt Burmese pythons threatening the Everglades](https://timesofindia.indiatimes.com/technology/tech-news/when-a-district-in-florida-used-robot-rabbits-to-eliminate-growing-population-of-burmese-pythons-and-protect-everglades/articleshow/134385404.cms)
+- [Jaishankar at UNGA: Pakistan serial practitioner of terror, must face outcome](https://timesofindia.indiatimes.com/india/indias-right-to-defend-itself-from-terrorism-will-be-exercised-eam/articleshow/134510292.cms)
 - [He attested brother’s sale deed; HC cites oral partition, family loses 3.5 acres claim](https://timesofindia.indiatimes.com/business/india-business/he-attested-brothers-sale-deed-decades-ago-madras-hc-cites-it-as-evidence-of-oral-partition-rejects-familys-claim-to-3-5-acres-of-ancestral-land/articleshow/134507211.cms)
 - [PM Modi, Shah put CEC in charge of match-fixing elections: Rahul](https://timesofindia.indiatimes.com/india/modi-shah-put-cec-in-charge-of-match-fixing-elections-rahul/articleshow/134510130.cms)
 - [Higher EPF wage limit: Monthly PF contributions rise to Rs 3,917](https://timesofindia.indiatimes.com/india/higher-epf-wage-limit-monthly-pf-contributions-rise-to-3917/articleshow/134510271.cms)
-- ['India calls for restraint': EAM on ship attacks in Gulf, seafarers at UNGA](https://timesofindia.indiatimes.com/india/india-calls-for-restraint-jaishankar-on-ship-attacks-in-gulf-seafarers-at-unga-top-quotes/articleshow/134508304.cms)
 
 **NDTV**
 - [Judicial System Has Long Focused On Accused And Offence, Says Chief Justice](https://www.ndtv.com/india-news/judicial-system-has-long-focused-on-accused-and-offence-chief-justice-surya-kant-12103256#publisher=newsstand)
@@ -62,6 +62,9 @@
 - [ಕಬಡ್ಡಿಯಲ್ಲಿ `ಡಬಲ್‌ ಚಿನ್ನ', ಮ್ಯಾರಥಾನ್ ನಲ್ಲಿ ಐತಿಹಾಸಿಕ ರಜತ!; ಶನಿವಾರ ಒಂದೇ ದಿನ 7 ಪದಕ ಬಾಚಿದ ಭಾರತ](https://vijaykarnataka.com/sports/other-sports/double-gold-in-kabaddi-historic-silver-in-marathon-india-bags-7-medals-on-saturday-/articleshow/134506725.cms)
 
 **The Hindu**
+- [23 IPS transferred in a latest rejig in West Bengal police](https://www.thehindu.com/news/national/west-bengal/23-ips-transferred-in-a-latest-rejig-in-west-bengal-police/article71513407.ece)
+- [MNS and Shiv Sena (UBT) to hold join protest on October 4 against ECI](https://www.thehindu.com/news/national/maharashtra/mns-and-shiv-sena-ubt-to-hold-join-protest-on-october-4-against-eci/article71514206.ece)
+- [Mehbooba Mufti appeals to 'secular-minded' people to join protest at Delhi's Jantar Mantar on September 29](https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-mufti-appeals-to-secular-minded-people-to-join-protest-at-delhis-jantar-mantar-on-september-29/article71512684.ece)
 - [Nandigram and Rejinagar bypoll: Ballot without the battle](https://www.thehindu.com/news/national/west-bengal/nandigram-and-rejinagar-bypoll-ballot-without-the-battle/article71512622.ece)
 - [‘Justice must find its way to the citizen’: CJI Surya Kant](https://www.thehindu.com/news/national/justice-must-find-its-way-to-the-citizen-cji-surya-kant/article71513548.ece)
 - [Trade unions, farm outfits join chorus to remove CEC Gyanesh Kumar](https://www.thehindu.com/news/national/trade-unions-farm-outfits-join-chorus-to-remove-cec-gyanesh-kumar/article71513513.ece)
@@ -69,9 +72,6 @@
 - [At UNGA, Jaishankar hits back at Pakistan PM on terrorism, Indus Waters Treaty](https://www.thehindu.com/news/international/arguments-by-serial-practitioner-of-terrorism-will-not-stand-eam-jaishankar-slams-pakistan-at-unga/article71514019.ece)
 - [CEC row: CPI(M) general secretary M.A. Baby pushes for broader Opposition unity, calls for INDIA Bloc-Plus](https://www.thehindu.com/news/national/kerala/cec-row-cpim-general-secretary-ma-baby-pushes-for-broader-opposition-unity-calls-for-india-bloc-plus/article71513487.ece)
 - [Jharkhand govt. opposing mines Act to facilitate coal theft, says Annpurna Devi](https://www.thehindu.com/news/national/jharkhand/jharkhandgovt-opposing-mines-act-to-facilitate-coal-theft-saysannpurnadevi/article71513024.ece)
-- [Education Department official urges teachers to focus on improving learning outcomes](https://www.thehindu.com/news/national/andhra-pradesh/education-department-official-urges-teachers-to-focus-on-learning-outcomes/article71513187.ece)
-- [HDK asks ECI to reveal facts](https://www.thehindu.com/news/national/karnataka/hdk-asks-eci-to-reveal-facts/article71513481.ece)
-- [T.N. government to appeal against Ponmudy’s acquittal in ₹28.37-crore red sand quarrying case, ED tells Madras HC](https://www.thehindu.com/news/national/tamil-nadu/tn-government-to-appeal-against-ponmudys-acquittal-in-2837-crore-red-sand-quarrying-case-ed-tells-madras-hc/article71512675.ece)
 
 **Livemint**
 - [Heavy Storm Cuts Power, Grounds Planes Across US Northeast](https://www.livemint.com/news/world/heavy-storm-cuts-power-grounds-planes-across-us-northeast-11790460131403.html)
@@ -125,7 +125,10 @@
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್ 8ನೇ ದಿನದಂದು ಭಾರತಕ್ಕೆ 7 ಪದಕ; 30 ಕ್ಕೇರಿದ ಪದಕಗಳ ಸಂಖ್ಯೆ](https://tv9kannada.com/sports/asian-games-2026-india-day8-7-medals-kabaddi-gold-marathon-silver-1243014.html)
 - [‘ಅದು ಮುರಿದುಬಿದ್ದ ಮನೆ’; ಗೋವಿಂದ-ಸುನೀತಾ ಸಂಸಾರದ ಬಗ್ಗೆ ಕೋಮಲ್ ರಾನಿ ತಿರುಗೇಟು](https://tv9kannada.com/entertainment/bollywood/govinda-sunita-ahuja-dispute-actress-komal-rani-swarnkar-hits-back-at-homebreaker-allegations-1243013.html)
 
-**Prajavani** — _unavailable_
+**Prajavani**
+- [25 ವರ್ಷಗಳ ಹಿಂದೆ: ಜಂಟಿ ದಾಳಿ: ಅಮೆರಿಕ, ಪಾಕ್‌ ಭಿನ್ನಮತ](https://www.prajavani.net/op-ed/prajavani-archive/us-pakistan-disagreement-over-taliban-military-operation-4289806)
+- [75 ವರ್ಷಗಳ ಹಿಂದೆ: ಮಹಾಚುನಾವಣೆಗೆ ಮುನ್ನ ಕೇಂದ್ರ ಸಂಪುಟ ಪುನರ್‌ರಚನೆ](https://www.prajavani.net/op-ed/prajavani-archive/cabinet-reshuffle-ambedkar-resignation-history-4289802)
+- [ಮನೆ ಮಾರಾಟ ಶೇ 6ರಷ್ಟು ಇಳಿಕೆ](https://www.prajavani.net/business/commerce-news/home-sales-in-major-indian-cities-decline-by-six-percent-4289995)
 
 **eedina**
 - [ಕಲಬುರಗಿ | ಪ್ರೀತಿಸಿದ ಯುವತಿಯನ್ನೇ ಮದುವೆಯಾಗಲು ಪಟ್ಟು: ಟವರ್ ಏರಿದ ಯುವಕ!](https://eedina.com/?p=766771)
@@ -142,10 +145,10 @@
 ## Cross-source trending keywords (derived from headlines above)
 - UNGA (5.8)
 - Jaishankar (5.2)
+- September (3.9)
 - India (2.6)
 - Uttarakhand (2.6)
 - Iran (2.6)
-- September (2.6)
 - Trump (2.6)
 - CJI Surya Kant (2.0)
 - Pakistan (1.9)
@@ -154,21 +157,21 @@
 - India's (1.6)
 - INDIA (1.6)
 - Maharashtra (1.6)
-- UNSC (1.3)
+- Gulf (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ஆசிய விளையாட்டு 2026 | கபடியில் தங்கம் வென்று ஆடவர் மற்றும் மகளிர் அணிகள் வரலாற்றுச் சாதனை!](https://www.etvbharat.com/ta/sports/indian-men-and-women-kabaddi-team-sweep-gold-medal-in-asian-games-2026-tns26092603968)
-- [మమతా బెనర్జీ పార్టీ ఎమ్మెల్యే కారుపై రాళ్లు, కోడిగుడ్లతో దాడి](https://www.ap7am.com/tn/881474/kunal-ghosh-mamata-banerjee-party-mla-car-attacked-with-stones-and-eggs)
-- [Hardik Pandya : टीम इंडियाला मोठा धक्का,हार्दिक पांड्या पुन्हा दुखापतग्रस्त, न्यूझीलंड दौऱ्यात खेळणार की नाही?](https://marathi.abplive.com/sports/cricket/hardik-pandya-ruled-out-of-australia-a-series-surprising-reason-may-be-missed-new-zealand-tour-marathi-news-1440311)
-- [Mamata CPIM Alliance Controversy: 'বামেরা থাকলে আমাদের উঠে যেতে বলত', সিপিএম- মমতা কাছাকাছি আসতেই কটাক্ষ সন্দীপনের](https://bengali.news18.com/news/kolkata/sandipan-saha-mocks-at-mamata-banerjee-for-trying-to-form-alliance-with-cpim-dmg-2908171.html)
-- [India men beat Iran to win gold medal; become nine-time champions](https://www.olympics.com/en/news/asian-games-2026-kabaddi-men-india-vs-iran-final-match-report)
-- [Virat Kohli says he will retire from India cricket after 2027 World Cup](https://www.aljazeera.com/sports/2026/9/26/india-cricket-great-virat-kohli-says-2027-world-cup-will-be-his-last)
-- [தலைமைத் தேர்தல் ஆணையர் ஞானேஷ் குமாரை குற்றம் சாட்டப்பட்ட நபராக விசாரிக்கக்கோரி உச்ச நீதிமன்றத்தில் மனு](https://viduthalai.in/207720/%E0%AE%A4%E0%AE%B2%E0%AF%88%E0%AE%AE%E0%AF%88%E0%AE%A4%E0%AF%8D-%E0%AE%A4%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D-%E0%AE%86%E0%AE%A3%E0%AF%88%E0%AE%AF%E0%AE%B0%E0%AF%8D-%E0%AE%9E/)
-- [முதல்வர் விஜய் ரிவ்யூ செய்யல... ரீல்ஸ் எடுத்து விட்டிருக்காரு; ஸ்டாலின் விமர்சனம்](https://www.dinamalar.com/news/tamil-nadu-news/stalin-slams-cm-vijay-for-not-reviewing-reels/4333136)
-- [“மின் வாரிய அலுவலகத்தில் முதல்வர் செய்தது ரிவ்யூ அல்ல... ரீல்ஸ்!” - ஸ்டாலின் விமர்சனம்](https://www.hindutamil.in/news/tamilnadu/mk-stalin-condemns-cm-vijay)
-- [Asian Games : ਭਾਰਤੀ ਪੁਰਸ਼ ਹਾਕੀ ਟੀਮ ਨੇ ਜਾਪਾਨ ਨੂੰ ਹਰਾ ਕੇ ਸੈਮੀਫਾਈਨਲ ਵਿੱਚ ਕੀਤਾ ਪ੍ਰਵੇਸ਼ ; ਲਗਾਤਾਰ ਚੌਥੀ ਜਿੱਤ ਕੀਤੀ ਦਰਜ](https://wishavwarta.in/indian-mens-hockey-team-reaches-semifinals/)
+- [Asian Games 2026: भारताचा कबड्डीत ‘डबल धमाका’; महिला संघानंतर पुरुषांनीही इराणला नमवत जिंकलं गोल्ड](https://www.loksatta.com/krida/asian-games-2026-indian-mens-kabaddi-team-won-gold-medal-by-defeating-iran-in-finals-amd-2000-6157444/)
+- ["Nobody Can Be A Homebreaker In Already Broken House"](https://www.ndtv.com/entertainment/komal-rani-reacts-to-affair-rumours-with-govinda-nobody-can-be-a-homebreaker-in-already-broken-house-12101437)
+- [शकीरा के गाने को राजस्थानी अंदाज़ में गाकर सुर्खियां बटोर रहे इन कलाकारों से मिलिए](https://www.bbc.com/hindi/articles/cvn0jjr67yylo)
+- ['આ મારા દેશ માટે છેલ્લો હશે...': શું Virat Kohli વનડે વર્લ્ડ કપ ટ્રોફી જીતીને ક્રિકેટને અલવિદા કહેશે?](https://www.gujaratfirst.com/cricket-news/virat-kohli-last-world-cup-2027-retirement-plan/341941/)
+- [Air India AI171 crash: Pilots’ body seeks role in panel reviewing draft final probe report, flags simulator timing gap](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/air-india-ai171-crash-pilots-body-seeks-role-in-panel-reviewing-draft-final-probe-report-flags-simulator-timing-gap-14038885.html)
+- [उत्तर प्रदेश विधानसभा निवडणुकीत कोण मारणार बाजी? पहिला सर्व्हे समोर, धक्कादायक निकालाची शक्यता, भाजपला थेट…](https://www.tv9marathi.com/national/who-will-emerge-victorious-in-the-uttar-pradesh-assembly-elections-first-survey-released-possibility-of-a-shocking-result-1764850.html)
+- [കാര്യവട്ടത്ത് മഴ വില്ലനാകുമോ? ഇന്ത്യ VS വെസ്റ്റ് ഇന്‍ഡീസ് മത്സരത്തിലെ കാലവസ്ഥാ പ്രവചനം ഇങ്ങനെ!](https://www.doolnews.com/india-vs-west-indies-match-green-field-stadium-weather-forcast-65-141.html)
+- [ഫോം ആറിലെ എസ്.ഐ.ആര്‍ നിബന്ധന നിയമവിരുദ്ധം; ജൂലൈയില്‍ തന്നെ തെരഞ്ഞെടുപ്പ് കമ്മീഷന് ബ്രിട്ടാസ് കത്തയച്ചു](https://www.doolnews.com/sir-requirement-in-form-6-is-illegal-britas-wrote-to-the-election-commission-as-early-as-july-62-177.html)
+- [दिवाली-दशहरा पर 102 फेरे स्‍पेशल ट्रेन चलाएगा रेलवे, कल से शुरू होगी बुकिंग](https://www.aajtak.in/business/utility/story/indian-railway-diwali-dussehra-festival-special-trains-booking-start-27th-sept-tutd-dskc-2653917-2026-09-26)
+- [Bangladesh jewellery shop owner's body found inside floating drum; Hindu credit union token in pocket](https://timesofindia.indiatimes.com/world/south-asia/bangladesh-jewellery-shop-owners-body-found-inside-floating-drum-hindu-credit-union-token-in-pocket/articleshow/134502587.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
