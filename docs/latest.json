@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-09-25 23:32:52",
+  "generated_at": "2026-09-26 00:02:03",
   "google_trends": [
+    {
+      "title": "fabrizio romano",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "\u0c15\u0c4d\u0c30\u0c3f\u0c15\u0c46\u0c1f\u0c4d",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "jpn vs nep",
       "traffic": null,
@@ -35,21 +50,6 @@
       "title": "will smith",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "lalbaugcha raja",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "mika godts",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "france",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
     }
   ],
   "outlets": {
@@ -59,28 +59,24 @@
         "link": "https://timesofindia.indiatimes.com/world/middle-east/trumps-48-f-35-jets-for-saudi-arabia-why-is-israel-uneasy-and-china-a-key-concern/articleshow/134479408.cms"
       },
       {
+        "title": "Watch: Russian drones hit McDonald\u2019s-linked warehouse in Ukraine, 5 killed",
+        "link": "https://timesofindia.indiatimes.com/world/europe/ukraine-russia-strikes-mcdonalds-linked-warehouse-in-kyiv-as-5-killed-video/articleshow/134495142.cms"
+      },
+      {
+        "title": "14 killed in Congo plane crash, two senior military officials among dead",
+        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/14-killed-in-congo-plane-crash-two-senior-military-officials-among-dead/articleshow/134495193.cms"
+      },
+      {
         "title": "Trump embraces Xi as peer, alarms partners and critics",
         "link": "https://timesofindia.indiatimes.com/world/us/trump-embraces-xi-as-peer-alarms-partners-and-critics/articleshow/134489947.cms"
-      },
-      {
-        "title": "India is kicking car safety into top gear with Bharat NCAP 2.0: What you need to know",
-        "link": "https://timesofindia.indiatimes.com/india/5-ways-india-is-kicking-car-safety-into-top-gear-with-bharat-ncap-2-0-what-buyers-need-to-know/articleshow/134487081.cms"
-      },
-      {
-        "title": "3 BJP allies say EC must clear air, can't lose people's trust",
-        "link": "https://timesofindia.indiatimes.com/india/3-bjp-allies-say-ec-must-clear-air-cant-lose-peoples-trust/articleshow/134495064.cms"
-      },
-      {
-        "title": "Trump mocks Biden\u2019s autopen use while showing Xi presidential portraits",
-        "link": "https://timesofindia.indiatimes.com/world/us/this-is-the-autopen-trump-mocks-biden-while-showing-xi-presidential-portraits/articleshow/134492460.cms"
       },
       {
         "title": "Zuckerberg\u2019s $300m superyacht docks in Japan, gets neighbour who once wanted Meta out",
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-300-million-superyacht-docked-in-japan-for-the-first-time-launchpad-has-a-new-neighbour-the-billionaire-who-once-wanted-meta-suspend-its-japanese-operations/articleshow/134478817.cms"
       },
       {
-        "title": "Lawyers move SC, AG for action on poll panel chief",
-        "link": "https://timesofindia.indiatimes.com/india/lawyers-move-sc-ag-for-action-on-poll-panel-chief/articleshow/134494979.cms"
+        "title": "India is kicking car safety into top gear with Bharat NCAP 2.0: What you need to know",
+        "link": "https://timesofindia.indiatimes.com/india/5-ways-india-is-kicking-car-safety-into-top-gear-with-bharat-ncap-2-0-what-buyers-need-to-know/articleshow/134487081.cms"
       },
       {
         "title": "Nebraska couple lost $59,759 home over $588 tax debt; compensation claim revived",
@@ -91,8 +87,12 @@
         "link": "https://timesofindia.indiatimes.com/sports/nfl/news/tom-brady-vs-patrick-mahomes-why-tb12-foundation-could-never-match-15-and-the-mahomies/articleshow/134486061.cms"
       },
       {
-        "title": "Months after OSM row, government appoints new CBSE chairperson",
-        "link": "https://timesofindia.indiatimes.com/india/months-after-osm-row-govt-appoints-new-cbse-chairperson/articleshow/134492463.cms"
+        "title": "AFSPA extended in 3 NE states; Kuki group chief held in Aizawl",
+        "link": "https://timesofindia.indiatimes.com/india/afspa-extended-in-3-ne-states-kuki-group-chief-held-in-aizawl/articleshow/134492482.cms"
+      },
+      {
+        "title": "3 BJP allies say EC must clear air, can't lose people's trust",
+        "link": "https://timesofindia.indiatimes.com/india/3-bjp-allies-say-ec-must-clear-air-cant-lose-peoples-trust/articleshow/134495064.cms"
       }
     ],
     "NDTV": [
@@ -223,8 +223,20 @@
     ],
     "The Hindu": [
       {
+        "title": "BJP wins mayor elections at three municipal corporations in Rajasthan",
+        "link": "https://www.thehindu.com/news/national/rajasthan/bjp-wins-mayor-elections-at-three-municipal-corporations-in-rajasthan/article71509004.ece"
+      },
+      {
         "title": "SPPU students suspend mess fee protest after V-C assurance; decision on hike on Sept 26",
         "link": "https://www.thehindu.com/news/national/maharashtra/sppu-students-suspend-mess-fee-protest-after-v-c-assurance-decision-on-hike-on-sept-26/article71508902.ece"
+      },
+      {
+        "title": "MPSC Drug Inspector paper leak: 4 more arrested, total arrests rise to 11",
+        "link": "https://www.thehindu.com/news/national/maharashtra/mpsc-drug-inspector-paper-leak-4-more-arrested-total-arrests-rise-to-11/article71508883.ece"
+      },
+      {
+        "title": "After cousin Uddhav, Raj Thackeray seeks scrapping of SIR",
+        "link": "https://www.thehindu.com/news/national/maharashtra/after-cousin-uddhav-raj-thackeray-seeks-scrapping-of-sir/article71509506.ece"
       },
       {
         "title": "U.P. Congress leaders clash with police, detained during protest against Chief Election Commissioner",
@@ -249,18 +261,6 @@
       {
         "title": "FIR lodged against Bihar CMO staff for posting Jamui victim\u2019s photo on X",
         "link": "https://www.thehindu.com/news/national/bihar/fir-lodged-against-bihar-cmo-staff-for-posting-jamui-victims-photo-on-x/article71510152.ece"
-      },
-      {
-        "title": "Greater Noida bus fire: booking manager arrested for negligence",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/greater-noida-bus-fire-booking-manager-arrested-for-negligence/article71509263.ece"
-      },
-      {
-        "title": "Former IAS officer appointed on Maha UCC panel",
-        "link": "https://www.thehindu.com/news/national/maharashtra/former-ias-officer-appointed-on-maha-ucc-panel/article71509943.ece"
-      },
-      {
-        "title": "Congress hopes for calm in Punjab unit but storm clouds remain ahead of 2027 Assembly election",
-        "link": "https://www.thehindu.com/news/national/punjab/congress-hopes-for-calm-in-punjab-unit-but-storm-clouds-remain-ahead-of-2027-assembly-election/article71509096.ece"
       }
     ],
     "Livemint": [
@@ -435,6 +435,14 @@
     ],
     "Prajavani": [
       {
+        "title": "\u0cb9\u0cb8\u0cbf\u0cb0\u0cc1 \u0c97\u0cc1\u0cb0\u0cc1\u0ca4\u0cc1 \u0c95\u0c82\u0ca1\u0cb0\u0cc6 \u0cb8\u0cbe\u0c95\u0cc7? \u0ca8\u0cbf\u0cae\u0ccd\u0cae \u0c9f\u0cc2\u0ca4\u0ccd\u200c\u0caa\u0cc7\u0cb8\u0ccd\u0c9f\u0ccd\u200c\u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0ca8\u0cbf\u0c9c\u0cb5\u0cbe\u0c97\u0cbf \u0c8f\u0ca8\u0cbf\u0ca6\u0cc6?",
+        "link": "https://www.prajavani.net/health/wellness-diet/toothpaste-ingredients-green-mark-fluoride-facts-4287233"
+      },
+      {
+        "title": "\u0c9a\u0cbf\u0ca8\u0c95\u0cc1\u0cb0\u0cc1\u0cb3\u0cbf \u0c95\u0cbe\u0cb0\u0ccd\u0c9f\u0cc2\u0ca8\u0cc1: 26 \u0cb8\u0cc6\u0caa\u0ccd\u0c9f\u0cc6\u0c82\u0cac\u0cb0\u0ccd 2026",
+        "link": "https://www.prajavani.net/news/cartoons/chinakurali-cartoon-september-twenty-six-4287991"
+      },
+      {
         "title": "\u0cb5\u0cbe\u0cb0\u0ca6 \u0cb5\u0cbf\u0cb6\u0cc7\u0cb7: \u0cb8\u0c82\u0c98\u0cb0\u0ccd\u0cb7\u0ca6 \u0c95\u0cbe\u0cb2\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0cb6\u0cbe\u0c82\u0ca4\u0cbf\u0caf \u0ca7\u0ccd\u0caf\u0cbe\u0ca8, \u0c97\u0cc1\u0c9f\u0cc6\u0cb0\u0cb8\u0ccd\u200c \u0cb5\u0cbf\u0ca6\u0cbe\u0caf \u0cad\u0cbe\u0cb7\u0ca3",
         "link": "https://www.prajavani.net/op-ed/profile/antonio-guterres-un-farewell-speech-global-challenges-4288096"
       },
@@ -465,14 +473,6 @@
       {
         "title": "\u0cb9\u0cc6\u0cb8\u0ccd\u0c95\u0cbe\u0c82 \u0c85\u0ca7\u0cbf\u0c95\u0cbe\u0cb0\u0cbf\u0c97\u0cb3 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0cad\u0c9f\u0ca8\u0cc6",
         "link": "https://www.prajavani.net/district/belagavi/hescom-officials-protest-belagavi-mlc-channaraj-hattiholi-assault-allegation-4287889"
-      },
-      {
-        "title": "\u0cac\u0cbf\u0ca1\u0ca6\u0cbf \u0c9f\u0ccc\u0ca8\u0ccd\u200c\u0cb6\u0cbf\u0caa\u0ccd: 70 \u0cb0\u0cc8\u0ca4\u0cb0\u0cc1 \u0cb5\u0cb6\u0c95\u0ccd\u0c95\u0cc6",
-        "link": "https://www.prajavani.net/district/ramanagara/bidadi-township-farmers-protest-arrest-ramanagara-4287931"
-      },
-      {
-        "title": "\u0cb8\u0cc1\u0ca6\u0ccd\u0ca6\u0cbf \u0c97\u0cc1\u0ca6\u0ccd\u0ca6\u0cc1 | \u0ca4\u0cbf\u0c82\u0c97\u0cb3\u0cc7\u0cb6: 26 \u0cb8\u0cc6\u0caa\u0ccd\u0c9f\u0cc6\u0c82\u0cac\u0cb0\u0ccd 2026",
-        "link": "https://www.prajavani.net/news/cartoons/prajavani-tingalesha-cartoon-september-twenty-six-4287637"
       }
     ],
     "eedina": [
@@ -521,7 +521,7 @@
   "keywords": [
     {
       "term": "Trump",
-      "score": 8.1
+      "score": 6.8
     },
     {
       "term": "India",
@@ -536,10 +536,6 @@
       "score": 3.9
     },
     {
-      "term": "Congress",
-      "score": 3.9
-    },
-    {
       "term": "Iran",
       "score": 3.2
     },
@@ -548,7 +544,15 @@
       "score": 2.6
     },
     {
+      "term": "AFSPA",
+      "score": 2.6
+    },
+    {
       "term": "Report",
+      "score": 2.6
+    },
+    {
+      "term": "Congress",
       "score": 2.6
     },
     {
@@ -574,53 +578,49 @@
     {
       "term": "Kashmir",
       "score": 1.6
-    },
-    {
-      "term": "Noida",
-      "score": 1.6
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u091c\u094d\u091e\u093e\u0928\u0947\u0936 \u0915\u0941\u092e\u093e\u0930 \u0915\u0940 \u0907\u0938\u094d\u0924\u0940\u092b\u093c\u0947 \u0915\u0940 \u092e\u093e\u0902\u0917, \u091c\u093e\u0928\u093f\u090f \u092e\u0941\u0916\u094d\u092f \u091a\u0941\u0928\u093e\u0935 \u0906\u092f\u0941\u0915\u094d\u0924 \u0915\u094b \u0915\u0948\u0938\u0947 \u0939\u091f\u093e\u092f\u093e \u091c\u093e \u0938\u0915\u0924\u093e \u0939\u0948",
-      "link": "https://www.bbc.com/hindi/articles/cjly4q4gy7xeo"
+      "title": "Iran pitches seven-day roadmap to end conflict with US",
+      "link": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us"
     },
     {
-      "title": "\"\u0909\u0928\u094d\u0939\u0947\u0902 \u0924\u094b \u092a\u0926\u094d\u092e \u092d\u0942\u0937\u0923 \u0905\u0935\u093e\u0930\u094d\u0921 \u0926\u0947\u0928\u093e \u091a\u093e\u0939\u093f\u090f\", CEC \u091c\u094d\u091e\u093e\u0928\u0947\u0936 \u0915\u0941\u092e\u093e\u0930 \u0915\u0947 \u0932\u093f\u090f \u092c\u0902\u0917\u093e\u0932 \u0915\u0947 BJP \u0905\u0927\u094d\u092f\u0915\u094d\u0937 \u0928\u0947 \u0915\u094d\u092f\u094b\u0902 \u0915\u0939\u093e \u0910\u0938\u093e?",
-      "link": "https://www.indiatv.in/west-bengal/cec-gyanesh-kumar-should-be-given-padma-bhushan-award-why-bengal-bjp-president-said-2026-09-25-1245343"
+      "title": "\u0d2e\u0d4b\u0d26\u0d3f\u0d15\u0d4d\u0d15\u0d46\u0d3e\u0d2a\u0d4d\u0d2a\u0d02 \u0d2f\u0d41\u0d35\u0d24\u0d3f\u0d2f\u0d41\u0d1f\u0d46 \u0d1a\u0d3f\u0d24\u0d4d\u0d30\u0d02: \u0d2e\u0d4b\u0d7c\u0d2b\u0d4d \u0d1a\u0d46\u0d2f\u0d4d\u0d24\u0d4d \u0d09\u0d2a\u0d2f\u0d4b\u0d17\u0d3f\u0d1a\u0d4d\u0d1a\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d2a\u0d30\u0d3e\u0d24\u0d3f; \u0d38\u0d3f\u0d1c\u0d46\u0d2a\u0d3f \u0d28\u0d47\u0d24\u0d3e\u0d15\u0d4d\u0d15\u0d7e\u0d15\u0d4d\u0d15\u0d4d \u0d28\u0d4b\u0d1f\u0d4d\u0d1f\u0d3f\u0d38\u0d4d \u0d05\u0d2f\u0d1a\u0d4d\u0d1a\u0d4d \u0d39\u0d48\u0d15\u0d4d\u0d15\u0d4b\u0d1f\u0d24\u0d3f",
+      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/25/morphed-photo-with-modi-high-court-issues-notice-to-cjp-leaders-in-ai-image-case.html"
     },
     {
-      "title": "Workday Moves Toward Agentic Contract Lifecycle Management With New Workflow Agent",
-      "link": "https://cloudwars.com/cloud-wars-minute/workday-takes-agentic-ai-from-assistants-to-core-business-workflows/"
+      "title": "5 Officers Suspended Over Satya Niketan PG Collapse, Enquiry Initiated To Fix Responsibility: MCD Tells Delhi High Court",
+      "link": "https://www.livelaw.in/high-court/delhi-high-court/5-officers-suspended-over-satya-niketan-pg-collapse-enquiry-initiated-to-fix-responsibility-mcd-tells-delhi-high-court-551846"
     },
     {
-      "title": "iPhone 18 Green Line : \u098f\u09a4 \u09a6\u09be\u09ae \u09a6\u09bf\u09df\u09c7 \u09ab\u09c7\u09be\u09a8 \u0995\u09bf\u09a8\u09c7\u0993 \u09b8\u09cd\u09ac\u09b8\u09cd\u09a4\u09bf \u09a8\u09c7\u0987! iPhone 18-\u098f\u09b0 \u09a1\u09bf\u09b8\u09aa\u09cd\u09b2\u09c7\u09a4\u09c7 \u0997\u09cd\u09b0\u09bf\u09a8 \u09b2\u09be\u0987\u09a8? \u09ad\u09bf\u09a1\u09bf\u0993 \u0998\u09bf\u09b0\u09c7 \u099c\u09b2\u09cd\u09aa\u09a8\u09be",
-      "link": "https://bengali.news18.com/news/technology/green-line-issue-in-iphone-18-display-users-post-video-and-claim-on-social-media-smj-2907271.html"
+      "title": "Anthony Russo Talks About",
+      "link": "https://www.ndtv.com/entertainment/anthony-russo-talks-about-avengers-endgame-re-release-says-the-film-connects-to-avengers-doomsday-12097269"
     },
     {
-      "title": "\u092c\u0948\u0902\u0915\u094b\u0902 \u092e\u0947\u0902 \u0936\u0928\u093f\u0935\u093e\u0930 \u0915\u0940 \u091b\u0941\u091f\u094d\u091f\u0940 \u092a\u0930 \u0918\u092e\u093e\u0938\u093e\u0928, \u0915\u0947\u0902\u0926\u094d\u0930 \u0938\u0930\u0915\u093e\u0930 \u0928\u0947 \u092f\u0942\u0928\u093f\u092f\u0902\u0938 \u0915\u094b \u0926\u093f\u092f\u093e \u091d\u091f\u0915\u093e",
-      "link": "https://www.livehindustan.com/business/bank-strike-modi-government-never-agreed-to-5-day-week-working-201790334832269.html"
+      "title": "IND vs WI: \u0a95\u0acb\u0ab9\u0ab2\u0ac0-\u0ab0\u0acb\u0ab9\u0abf\u0aa4 \u0aa8\u0ab9\u0ac0\u0a82, \u0a86 2 \u0aac\u0acb\u0ab2\u0ab0\u0acb \u0ab5\u0ac7\u0ab8\u0acd\u0a9f \u0a88\u0aa8\u0acd\u0aa1\u0abf\u0a9d \u0aae\u0abe\u0a9f\u0ac7 \u0aac\u0aa8\u0ab6\u0ac7 \u0ab8\u0acc\u0aa5\u0ac0 \u0aae\u0acb\u0a9f\u0acb \u0a96\u0aa4\u0ab0\u0acb",
+      "link": "https://tv9gujarati.com/photo-gallery/cricket-photos/breaking-news-ind-vs-wi-odi-not-virat-rohit-but-jadeja-siraj-threat-for-west-indies-1521775.html"
     },
     {
-      "title": "'\u091c\u0939\u093e\u0902 \u0915\u0947 \u0939\u0948\u0902, \u0935\u0939\u0940\u0902 \u092d\u0947\u091c\u0947 \u091c\u093e\u090f\u0902...', \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u0915\u0947 PM \u0928\u0947 \u092c\u0924\u093e\u092f\u093e \u0930\u094b\u0939\u093f\u0902\u0917\u094d\u092f\u093e \u0938\u092e\u0938\u094d\u092f\u093e \u0915\u093e \u0938\u092e\u093e\u0927\u093e\u0928",
-      "link": "https://www.aajtak.in/world/story/rohingya-problem-in-bangladesh-prime-minister-tarique-rahman-un-address-ntcppl-dskc-2653117-2026-09-25"
+      "title": "Salt Vs Sugar | \u0c09\u0c2a\u0c4d\u0c2a\u0c41 \u0c35\u200c\u0c30\u0c4d\u0c38\u0c46\u0c38\u0c4d \u0c1a\u200c\u0c15\u0c4d\u0c15\u0c46\u0c30\u200c.. \u0c17\u0c41\u0c02\u0c21\u0c46 \u0c06\u0c30\u0c4b\u0c17\u0c4d\u0c2f\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c0f\u0c26\u0c3f \u0c0e\u0c15\u0c4d\u0c15\u0c41\u0c35 \u0c39\u0c3e\u0c28\u0c3f \u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c41\u0c02\u0c26\u0c3f..?",
+      "link": "https://www.ntnews.com/health/salt-vs-sugar-which-one-is-more-unhealthy-to-heart-and-what-health-experts-say-2519848"
     },
     {
-      "title": "Russia sanctions law while India faces tariff risk?",
-      "link": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/could-china-get-a-waiver-under-the-us-russia-sanctions-law-while-india-faces-tariff-risk-14038372.html"
+      "title": "\u2018CEC \u091c\u094d\u091e\u093e\u0928\u0947\u0936 \u0915\u0941\u092e\u093e\u0930 \u0915\u094b \u092b\u093e\u0902\u0938\u0940 \u0939\u094b\u0928\u0940 \u091a\u093e\u0939\u093f\u090f\u2019, \u0907\u0938 \u0938\u093e\u0902\u0938\u0926 \u0928\u0947 \u0915\u0930 \u0926\u0940 \u092d\u092f\u093e\u0928\u0915 \u092e\u093e\u0902\u0917, \u092c\u094b\u0932\u0947- \u092c\u093f\u091c\u0932\u0940 \u0915\u0947 \u0916\u0902\u092d\u0947 \u092a\u0930...",
+      "link": "https://www.livehindustan.com/bihar/gyanesh-kumar-should-be-hanged-from-an-electric-pole-purnia-mp-pappu-yadav-big-demand-says-bigger-terrorist-201790331307586.html"
     },
     {
-      "title": "\u0d2e\u0d7b\u0d2a\u0d4d\u0d30\u0d40\u0d24\u0d4d \u0d15\u0d57\u0d31\u0d3f\u0d28\u0d4d \u0d35\u0d46\u0d19\u0d4d\u0d15\u0d32\u0d02, \u0d15\u0d43\u0d37\u0d4d\u0d23 \u0d05\u0d1e\u0d4d\u0d1a\u0d3e\u0d2e\u0d24\u0d4d, \u0d38\u0d4d\u0d2a\u0d4d\u0d30\u0d3f\u0d28\u0d4d\u0d31\u0d3f\u0d7d \u0d28\u0d3f\u0d30\u0d3e\u0d36",
-      "link": "https://www.mathrubhumi.com/sports/other-sports/asian-games-2026-manpreet-kaur-bronze-shot-put-vq88xgtg"
+      "title": "\u0d35\u0d40\u0d1f\u0d4d\u0d1f\u0d3f\u0d32\u0d46 \u0d38\u0d4d\u0d35\u0d30\u0d4d\u200d\u0d23\u0d35\u0d41\u0d02 \u0d2a\u0d23\u0d35\u0d41\u0d02 \u0d35\u0d40\u0d21\u0d3f\u0d2f\u0d4b\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d2a\u0d4d\u0d30\u0d26\u0d30\u0d4d\u200d\u0d36\u0d3f\u0d2a\u0d4d\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d41; \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d46 \u0d2f\u0d42\u0d1f\u0d4d\u0d2f\u0d42\u0d2c\u0d31\u0d41\u0d1f\u0d46 \u0d35\u0d40\u0d1f\u0d4d\u0d1f\u0d3f\u0d32\u0d4d\u200d \u0d35\u0d28\u0d4d\u200d \u0d15\u0d35\u0d30\u0d4d\u200d\u0d1a\u0d4d\u0d1a, 118 \u0d2a\u0d35\u0d28\u0d4d\u200d \u0d28\u0d37\u0d4d\u0d1f\u0d02",
+      "link": "https://janamtv.com/81061279/"
     },
     {
-      "title": "\u0a85\u0aae\u0aa6\u0abe\u0ab5\u0abe\u0aa6: \u0aaa\u0abe\u0ab2\u0aa1\u0ac0\u0aae\u0abe\u0a82 \u0ab8\u0acd\u0aaa\u0abe \u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0ab0\u0aae\u0abe\u0a82 \u0aad\u0ac0\u0ab7\u0aa3 \u0a86\u0a97, \u0aa7\u0ac1\u0aae\u0abe\u0aa1\u0abe \u0ab5\u0a9a\u0acd\u0a9a\u0ac7 \u0aab\u0ab8\u0abe\u0aaf\u0ac7\u0ab2\u0abe 4 \u0ab2\u0acb\u0a95\u0acb\u0aa8\u0ac1\u0a82 \u0ab8\u0aab\u0ab3 \u0ab0\u0ac7\u0ab8\u0acd\u0a95\u0acd\u0aaf\u0ac2",
-      "link": "https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-massive-fire-breaks-out-at-spa-center-in-paldi-4-people-trapped-in-smoke-successfully-rescued-34759697341"
+      "title": "Sampoornesh Babu: \u0c1c\u0c30\u0c4d\u0c28\u0c32\u0c3f\u0c38\u0c4d\u0c1f\u0c4d \u0c05\u0c28\u0c41\u0c1a\u0c3f\u0c24 \u0c35\u0c4d\u0c2f\u0c3e\u0c16\u0c4d\u0c2f\u0c32\u0c2a\u0c48 \u0c38\u0c4d\u0c2a\u0c02\u0c26\u0c3f\u0c02\u0c1a\u0c3f\u0c28 \u0c38\u0c02\u0c2a\u0c42\u0c30\u0c4d\u0c23\u0c47\u0c37\u0c4d\u200c \u0c2c\u0c3e\u0c2c\u0c41.. \u0c0f\u0c2e\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c02\u0c1f\u0c47?",
+      "link": "https://telugu.samayam.com/telugu-movies/cinema-news/the-paradise-actor-sampoornesh-babu-defends-journalist-nagendra-kumar-amid-body-shaming-controversy/articleshow/134484007.cms"
     },
     {
-      "title": "'Hanuman Ansh' director Vishal Chaturvedi reveals Mushtaq Khan was set to star in his next film, mourns actor's death: 'What a legacy'",
-      "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hanuman-ansh-director-vishal-chaturvedi-reveals-mushtaq-khan-was-set-to-star-in-his-next-film-mourns-actors-death-what-a-legacy/articleshow/134483523.cms"
+      "title": "Raghubir Yadav says playing godman Baapji accused of sexual abuse in Aneet Padda starrer \u2018Hunkkaar\u2019 felt like \u2018fighting death every day because of pain\u2019: \u2018My heartbeat would rise\u2019",
+      "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raghubir-yadav-says-playing-godman-baapji-accused-of-sexual-abuse-in-aneet-padda-starrer-hunkkaar-felt-like-fighting-death-every-day-because-of-pain-my-heartbeat-would-rise/articleshow/134484347.cms"
     }
   ],
   "twitter": null

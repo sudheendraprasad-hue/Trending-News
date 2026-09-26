@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-25 23:32:52
+# India Trending Report — 2026-09-26 00:02:03
 
 ## Google Trends (India) — top trending searches
-1. [jpn vs nep](https://trends.google.com/trending/rss?geo=IN)
-2. [egypt national football team vs angola national football team standings](https://trends.google.com/trending/rss?geo=IN)
-3. [rhiti tiwari](https://trends.google.com/trending/rss?geo=IN)
-4. [realme 16 pro 5g harry potter edition](https://trends.google.com/trending/rss?geo=IN)
-5. [italy national football team vs belgium national football team standings](https://trends.google.com/trending/rss?geo=IN)
-6. [esteban lepaul](https://trends.google.com/trending/rss?geo=IN)
-7. [will smith](https://trends.google.com/trending/rss?geo=IN)
-8. [lalbaugcha raja](https://trends.google.com/trending/rss?geo=IN)
-9. [mika godts](https://trends.google.com/trending/rss?geo=IN)
-10. [france](https://trends.google.com/trending/rss?geo=IN)
+1. [fabrizio romano](https://trends.google.com/trending/rss?geo=IN)
+2. [క్రికెట్](https://trends.google.com/trending/rss?geo=IN)
+3. [தமிழ் நாடு](https://trends.google.com/trending/rss?geo=IN)
+4. [jpn vs nep](https://trends.google.com/trending/rss?geo=IN)
+5. [egypt national football team vs angola national football team standings](https://trends.google.com/trending/rss?geo=IN)
+6. [rhiti tiwari](https://trends.google.com/trending/rss?geo=IN)
+7. [realme 16 pro 5g harry potter edition](https://trends.google.com/trending/rss?geo=IN)
+8. [italy national football team vs belgium national football team standings](https://trends.google.com/trending/rss?geo=IN)
+9. [esteban lepaul](https://trends.google.com/trending/rss?geo=IN)
+10. [will smith](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Why Trump's F-35 deal with Saudi Arabia unsettles Israel, opens big door for China](https://timesofindia.indiatimes.com/world/middle-east/trumps-48-f-35-jets-for-saudi-arabia-why-is-israel-uneasy-and-china-a-key-concern/articleshow/134479408.cms)
+- [Watch: Russian drones hit McDonald’s-linked warehouse in Ukraine, 5 killed](https://timesofindia.indiatimes.com/world/europe/ukraine-russia-strikes-mcdonalds-linked-warehouse-in-kyiv-as-5-killed-video/articleshow/134495142.cms)
+- [14 killed in Congo plane crash, two senior military officials among dead](https://timesofindia.indiatimes.com/world/rest-of-world/14-killed-in-congo-plane-crash-two-senior-military-officials-among-dead/articleshow/134495193.cms)
 - [Trump embraces Xi as peer, alarms partners and critics](https://timesofindia.indiatimes.com/world/us/trump-embraces-xi-as-peer-alarms-partners-and-critics/articleshow/134489947.cms)
-- [India is kicking car safety into top gear with Bharat NCAP 2.0: What you need to know](https://timesofindia.indiatimes.com/india/5-ways-india-is-kicking-car-safety-into-top-gear-with-bharat-ncap-2-0-what-buyers-need-to-know/articleshow/134487081.cms)
-- [3 BJP allies say EC must clear air, can't lose people's trust](https://timesofindia.indiatimes.com/india/3-bjp-allies-say-ec-must-clear-air-cant-lose-peoples-trust/articleshow/134495064.cms)
-- [Trump mocks Biden’s autopen use while showing Xi presidential portraits](https://timesofindia.indiatimes.com/world/us/this-is-the-autopen-trump-mocks-biden-while-showing-xi-presidential-portraits/articleshow/134492460.cms)
 - [Zuckerberg’s $300m superyacht docks in Japan, gets neighbour who once wanted Meta out](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-300-million-superyacht-docked-in-japan-for-the-first-time-launchpad-has-a-new-neighbour-the-billionaire-who-once-wanted-meta-suspend-its-japanese-operations/articleshow/134478817.cms)
-- [Lawyers move SC, AG for action on poll panel chief](https://timesofindia.indiatimes.com/india/lawyers-move-sc-ag-for-action-on-poll-panel-chief/articleshow/134494979.cms)
+- [India is kicking car safety into top gear with Bharat NCAP 2.0: What you need to know](https://timesofindia.indiatimes.com/india/5-ways-india-is-kicking-car-safety-into-top-gear-with-bharat-ncap-2-0-what-buyers-need-to-know/articleshow/134487081.cms)
 - [Nebraska couple lost $59,759 home over $588 tax debt; compensation claim revived](https://timesofindia.indiatimes.com/world/us/a-nebraska-couple-lost-a-mortgage-free-home-assessed-at-59759-after-a-588-21-tax-debt-grew-to-5268-32-the-us-supreme-court-sent-the-case-back-and-nebraskas-top-court-revived-the-compensation-claim/articleshow/134486717.cms)
 - [Tom Brady vs Patrick Mahomes: Why TB12 Foundation can't match 15 and Mahomies](https://timesofindia.indiatimes.com/sports/nfl/news/tom-brady-vs-patrick-mahomes-why-tb12-foundation-could-never-match-15-and-the-mahomies/articleshow/134486061.cms)
-- [Months after OSM row, government appoints new CBSE chairperson](https://timesofindia.indiatimes.com/india/months-after-osm-row-govt-appoints-new-cbse-chairperson/articleshow/134492463.cms)
+- [AFSPA extended in 3 NE states; Kuki group chief held in Aizawl](https://timesofindia.indiatimes.com/india/afspa-extended-in-3-ne-states-kuki-group-chief-held-in-aizawl/articleshow/134492482.cms)
+- [3 BJP allies say EC must clear air, can't lose people's trust](https://timesofindia.indiatimes.com/india/3-bjp-allies-say-ec-must-clear-air-cant-lose-peoples-trust/articleshow/134495064.cms)
 
 **NDTV**
 - [Chief Justice To Inaugurate India's 1st Victim Rights Centre Today In Patna](https://www.ndtv.com/india-news/chief-justice-surya-kant-to-inaugurate-indias-1st-victim-rights-centre-today-in-patna-12099765#publisher=newsstand)
@@ -62,16 +62,16 @@
 - [ಅಮೆರಿಕ ಭಾಗಶಃ ಷರತ್ತು ಈಡೇರಿಸಿದರೆ ಹರ್ಮುಜ್‌ ಮುಕ್ತ, ಪರಮಾಣು ಕಾರ್ಯಕ್ರಮ ಮಾತುಕತೆಗೂ ಸಿದ್ಧ: ಇರಾನ್ ಹೊಸ ಪ್ರಸ್ತಾಪ](https://vijaykarnataka.com/news/world/irans-new-proposal-if-usa-partially-meets-conditions-within-a-week-strait-of-hormuz-will-open/articleshow/134490418.cms)
 
 **The Hindu**
+- [BJP wins mayor elections at three municipal corporations in Rajasthan](https://www.thehindu.com/news/national/rajasthan/bjp-wins-mayor-elections-at-three-municipal-corporations-in-rajasthan/article71509004.ece)
 - [SPPU students suspend mess fee protest after V-C assurance; decision on hike on Sept 26](https://www.thehindu.com/news/national/maharashtra/sppu-students-suspend-mess-fee-protest-after-v-c-assurance-decision-on-hike-on-sept-26/article71508902.ece)
+- [MPSC Drug Inspector paper leak: 4 more arrested, total arrests rise to 11](https://www.thehindu.com/news/national/maharashtra/mpsc-drug-inspector-paper-leak-4-more-arrested-total-arrests-rise-to-11/article71508883.ece)
+- [After cousin Uddhav, Raj Thackeray seeks scrapping of SIR](https://www.thehindu.com/news/national/maharashtra/after-cousin-uddhav-raj-thackeray-seeks-scrapping-of-sir/article71509506.ece)
 - [U.P. Congress leaders clash with police, detained during protest against Chief Election Commissioner](https://www.thehindu.com/news/national/uttar-pradesh/up-congress-leaders-clash-with-police-detained-during-protest-against-chief-election-commissioner/article71509301.ece)
 - [2026 monsoon on its way to be wettest in Odisha since 2000](https://www.thehindu.com/news/national/odisha/2026-monsoon-on-its-way-to-be-wettest-in-odisha-since-2000/article71509530.ece)
 - [Congress legislators flash banners demanding CEC Gyanesh Kumar’s resignation inside Jammu and Kashmir assembly](https://www.thehindu.com/news/national/jammu-and-kashmir/congress-legislators-flash-banners-demanding-cec-gyanesh-kumars-resignation-inside-jammu-and-kashmir-assembly/article71509469.ece)
 - [BJP manufactured narrative and created religious divide ahead of West Bengal polls through YouTubers, says TMC spokesperson](https://www.thehindu.com/news/national/west-bengal/bjp-manufactured-narrative-and-created-religious-divide-ahead-of-west-bengal-polls-through-youtubers-says-tmc-spokesperson/article71509269.ece)
 - [Jammu and Kashmir High Court turns down ED plea to insert fresh charges against Farooq Abdullah in JKCA scam](https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmir-high-court-turns-down-ed-plea-to-insert-fresh-charges-against-farooq-abdullah-in-jkca-scam/article71509206.ece)
 - [FIR lodged against Bihar CMO staff for posting Jamui victim’s photo on X](https://www.thehindu.com/news/national/bihar/fir-lodged-against-bihar-cmo-staff-for-posting-jamui-victims-photo-on-x/article71510152.ece)
-- [Greater Noida bus fire: booking manager arrested for negligence](https://www.thehindu.com/news/national/uttar-pradesh/greater-noida-bus-fire-booking-manager-arrested-for-negligence/article71509263.ece)
-- [Former IAS officer appointed on Maha UCC panel](https://www.thehindu.com/news/national/maharashtra/former-ias-officer-appointed-on-maha-ucc-panel/article71509943.ece)
-- [Congress hopes for calm in Punjab unit but storm clouds remain ahead of 2027 Assembly election](https://www.thehindu.com/news/national/punjab/congress-hopes-for-calm-in-punjab-unit-but-storm-clouds-remain-ahead-of-2027-assembly-election/article71509096.ece)
 
 **Livemint**
 - [New York’s Nor’easter Threat Grows With Volatile Storm Track](https://www.livemint.com/news/new-york-s-nor-easter-threat-grows-with-volatile-storm-track-11790373812670.html)
@@ -126,6 +126,8 @@
 - [2028ರ ಚುನಾವಣೆ ಗೆಲ್ಲಲು ಬಿಜೆಪಿ ಭರ್ಜರಿ ಪ್ಲ್ಯಾನ್:ಬಳ್ಳಾರಿ ಪಾದಯಾತ್ರೆ ಯಶಸ್ಸಿನ ಬೆನ್ನಲ್ಲೇ ಮತ್ತೊಂದು ಯಾತ್ರೆ](https://tv9kannada.com/videos/karnataka-bjp-booth-vijaya-sankalpa-yatra-from-october-1st-for-target-2028-assembly-election-1242675.html)
 
 **Prajavani**
+- [ಹಸಿರು ಗುರುತು ಕಂಡರೆ ಸಾಕೇ? ನಿಮ್ಮ ಟೂತ್‌ಪೇಸ್ಟ್‌ನಲ್ಲಿ ನಿಜವಾಗಿ ಏನಿದೆ?](https://www.prajavani.net/health/wellness-diet/toothpaste-ingredients-green-mark-fluoride-facts-4287233)
+- [ಚಿನಕುರುಳಿ ಕಾರ್ಟೂನು: 26 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/news/cartoons/chinakurali-cartoon-september-twenty-six-4287991)
 - [ವಾರದ ವಿಶೇಷ: ಸಂಘರ್ಷದ ಕಾಲದಲ್ಲಿ ಶಾಂತಿಯ ಧ್ಯಾನ, ಗುಟೆರಸ್‌ ವಿದಾಯ ಭಾಷಣ](https://www.prajavani.net/op-ed/profile/antonio-guterres-un-farewell-speech-global-challenges-4288096)
 - [ಬಬಲೇಶ್ವರ: ಮುಸ್ಲಿಂ ಮತಕ್ಕೆ ‘ಕನ್ನ’?](https://www.prajavani.net/news/karnataka-news/babaleshwar-voter-list-discrepancy-illegal-applications-filed-4288017)
 - [ರಾಜ್ಯದಾದ್ಯಂತ ಕೆಎಂಎಫ್‌ ಡೇರಿ ತಪಾಸಣೆ](https://www.prajavani.net/district/mandya/kmf-dairy-inspection-karnataka-milk-powder-adulteration-case-4287001)
@@ -134,8 +136,6 @@
 - [ದಿನದ ಪಂಚಾಂಗ: 26 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/astro-vastu/panchanga/kannada-daily-panchanga-september-twenty-six-astrology-4287666)
 - [ಗಣಿಗಾರಿಕೆ ತ್ಯಾಜ್ಯಕ್ಕೂ ಬಂತು ‘ಮೌಲ್ಯ’](https://www.prajavani.net/district/ballari/iron-ore-mining-waste-disposal-rules-relaxed-by-environment-ministry-4288133)
 - [ಹೆಸ್ಕಾಂ ಅಧಿಕಾರಿಗಳ ಪ್ರತಿಭಟನೆ](https://www.prajavani.net/district/belagavi/hescom-officials-protest-belagavi-mlc-channaraj-hattiholi-assault-allegation-4287889)
-- [ಬಿಡದಿ ಟೌನ್‌ಶಿಪ್: 70 ರೈತರು ವಶಕ್ಕೆ](https://www.prajavani.net/district/ramanagara/bidadi-township-farmers-protest-arrest-ramanagara-4287931)
-- [ಸುದ್ದಿ ಗುದ್ದು | ತಿಂಗಳೇಶ: 26 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/news/cartoons/prajavani-tingalesha-cartoon-september-twenty-six-4287637)
 
 **eedina**
 - [ಉಡುಪಿ | ಧರ್ಮದ ಹೆಸರಿನಲ್ಲಿ ವಿಭಜನೆ ಬೇಡ, ಮಾನವೀಯತೆಗೆ ಆದ್ಯತೆ ನೀಡಿ : ಮುಹಮ್ಮದ್ ಕುಂಞಿ](https://eedina.com/?p=766370)
@@ -150,35 +150,35 @@
 - [ಚಿಕ್ಕಮಗಳೂರು |ರಾಜ್ಯದಲ್ಲಿ ಪ್ರಸ್ತುತ 9,೦೦೦ಕ್ಕೂ ಹೆಚ್ಚು ಪೋಕ್ಸೋ ಪ್ರಕರಣ](https://eedina.com/?p=766324)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (8.1)
+- Trump (6.8)
 - India (3.9)
 - What (3.9)
 - Odisha (3.9)
-- Congress (3.9)
 - Iran (3.2)
 - China (2.6)
+- AFSPA (2.6)
 - Report (2.6)
+- Congress (2.6)
 - Jammu (2.6)
 - Centre (1.6)
 - Hormuz (1.6)
 - Seized (1.6)
 - Liberia (1.6)
 - Kashmir (1.6)
-- Noida (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ज्ञानेश कुमार की इस्तीफ़े की मांग, जानिए मुख्य चुनाव आयुक्त को कैसे हटाया जा सकता है](https://www.bbc.com/hindi/articles/cjly4q4gy7xeo)
-- ["उन्हें तो पद्म भूषण अवार्ड देना चाहिए", CEC ज्ञानेश कुमार के लिए बंगाल के BJP अध्यक्ष ने क्यों कहा ऐसा?](https://www.indiatv.in/west-bengal/cec-gyanesh-kumar-should-be-given-padma-bhushan-award-why-bengal-bjp-president-said-2026-09-25-1245343)
-- [Workday Moves Toward Agentic Contract Lifecycle Management With New Workflow Agent](https://cloudwars.com/cloud-wars-minute/workday-takes-agentic-ai-from-assistants-to-core-business-workflows/)
-- [iPhone 18 Green Line : এত দাম দিয়ে ফোন কিনেও স্বস্তি নেই! iPhone 18-এর ডিসপ্লেতে গ্রিন লাইন? ভিডিও ঘিরে জল্পনা](https://bengali.news18.com/news/technology/green-line-issue-in-iphone-18-display-users-post-video-and-claim-on-social-media-smj-2907271.html)
-- [बैंकों में शनिवार की छुट्टी पर घमासान, केंद्र सरकार ने यूनियंस को दिया झटका](https://www.livehindustan.com/business/bank-strike-modi-government-never-agreed-to-5-day-week-working-201790334832269.html)
-- ['जहां के हैं, वहीं भेजे जाएं...', बांग्लादेश के PM ने बताया रोहिंग्या समस्या का समाधान](https://www.aajtak.in/world/story/rohingya-problem-in-bangladesh-prime-minister-tarique-rahman-un-address-ntcppl-dskc-2653117-2026-09-25)
-- [Russia sanctions law while India faces tariff risk?](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/could-china-get-a-waiver-under-the-us-russia-sanctions-law-while-india-faces-tariff-risk-14038372.html)
-- [മൻപ്രീത് കൗറിന് വെങ്കലം, കൃഷ്ണ അഞ്ചാമത്, സ്പ്രിന്റിൽ നിരാശ](https://www.mathrubhumi.com/sports/other-sports/asian-games-2026-manpreet-kaur-bronze-shot-put-vq88xgtg)
-- [અમદાવાદ: પાલડીમાં સ્પા સેન્ટરમાં ભીષણ આગ, ધુમાડા વચ્ચે ફસાયેલા 4 લોકોનું સફળ રેસ્ક્યૂ](https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-massive-fire-breaks-out-at-spa-center-in-paldi-4-people-trapped-in-smoke-successfully-rescued-34759697341)
-- ['Hanuman Ansh' director Vishal Chaturvedi reveals Mushtaq Khan was set to star in his next film, mourns actor's death: 'What a legacy'](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hanuman-ansh-director-vishal-chaturvedi-reveals-mushtaq-khan-was-set-to-star-in-his-next-film-mourns-actors-death-what-a-legacy/articleshow/134483523.cms)
+- [Iran pitches seven-day roadmap to end conflict with US](https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us)
+- [മോദിക്കൊപ്പം യുവതിയുടെ ചിത്രം: മോർഫ് ചെയ്ത് ഉപയോഗിച്ചെന്ന് പരാതി; സിജെപി നേതാക്കൾക്ക് നോട്ടിസ് അയച്ച് ഹൈക്കോടതി](https://www.manoramaonline.com/news/latest-news/2026/09/25/morphed-photo-with-modi-high-court-issues-notice-to-cjp-leaders-in-ai-image-case.html)
+- [5 Officers Suspended Over Satya Niketan PG Collapse, Enquiry Initiated To Fix Responsibility: MCD Tells Delhi High Court](https://www.livelaw.in/high-court/delhi-high-court/5-officers-suspended-over-satya-niketan-pg-collapse-enquiry-initiated-to-fix-responsibility-mcd-tells-delhi-high-court-551846)
+- [Anthony Russo Talks About](https://www.ndtv.com/entertainment/anthony-russo-talks-about-avengers-endgame-re-release-says-the-film-connects-to-avengers-doomsday-12097269)
+- [IND vs WI: કોહલી-રોહિત નહીં, આ 2 બોલરો વેસ્ટ ઈન્ડિઝ માટે બનશે સૌથી મોટો ખતરો](https://tv9gujarati.com/photo-gallery/cricket-photos/breaking-news-ind-vs-wi-odi-not-virat-rohit-but-jadeja-siraj-threat-for-west-indies-1521775.html)
+- [Salt Vs Sugar | ఉప్పు వ‌ర్సెస్ చ‌క్కెర‌.. గుండె ఆరోగ్యానికి ఏది ఎక్కువ హాని చేస్తుంది..?](https://www.ntnews.com/health/salt-vs-sugar-which-one-is-more-unhealthy-to-heart-and-what-health-experts-say-2519848)
+- [‘CEC ज्ञानेश कुमार को फांसी होनी चाहिए’, इस सांसद ने कर दी भयानक मांग, बोले- बिजली के खंभे पर...](https://www.livehindustan.com/bihar/gyanesh-kumar-should-be-hanged-from-an-electric-pole-purnia-mp-pappu-yadav-big-demand-says-bigger-terrorist-201790331307586.html)
+- [വീട്ടിലെ സ്വര്‍ണവും പണവും വീഡിയോയില്‍ പ്രദര്‍ശിപ്പിച്ചു; പിന്നാലെ യൂട്യൂബറുടെ വീട്ടില്‍ വന്‍ കവര്‍ച്ച, 118 പവന്‍ നഷ്ടം](https://janamtv.com/81061279/)
+- [Sampoornesh Babu: జర్నలిస్ట్ అనుచిత వ్యాఖ్యలపై స్పందించిన సంపూర్ణేష్‌ బాబు.. ఏమన్నారంటే?](https://telugu.samayam.com/telugu-movies/cinema-news/the-paradise-actor-sampoornesh-babu-defends-journalist-nagendra-kumar-amid-body-shaming-controversy/articleshow/134484007.cms)
+- [Raghubir Yadav says playing godman Baapji accused of sexual abuse in Aneet Padda starrer ‘Hunkkaar’ felt like ‘fighting death every day because of pain’: ‘My heartbeat would rise’](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raghubir-yadav-says-playing-godman-baapji-accused-of-sexual-abuse-in-aneet-padda-starrer-hunkkaar-felt-like-fighting-death-every-day-because-of-pain-my-heartbeat-would-rise/articleshow/134484347.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
