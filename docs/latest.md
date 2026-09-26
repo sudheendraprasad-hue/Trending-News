@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-26 19:32:27
+# India Trending Report — 2026-09-26 20:01:57
 
 ## Google Trends (India) — top trending searches
-1. [sloop](https://trends.google.com/trending/rss?geo=IN)
-2. [carlos alcaraz](https://trends.google.com/trending/rss?geo=IN)
+1. [usa vs peru](https://trends.google.com/trending/rss?geo=IN)
+2. [sloop](https://trends.google.com/trending/rss?geo=IN)
 3. [north macedonia vs switzerland](https://trends.google.com/trending/rss?geo=IN)
-4. [czechia vs croatia](https://trends.google.com/trending/rss?geo=IN)
-5. [oman vs saudi arabia](https://trends.google.com/trending/rss?geo=IN)
-6. [photo](https://trends.google.com/trending/rss?geo=IN)
-7. [england vs spain](https://trends.google.com/trending/rss?geo=IN)
-8. [asian games kabaddi 2026 live](https://trends.google.com/trending/rss?geo=IN)
-9. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
-10. [bonus share](https://trends.google.com/trending/rss?geo=IN)
+4. [carlos alcaraz](https://trends.google.com/trending/rss?geo=IN)
+5. [czechia vs croatia](https://trends.google.com/trending/rss?geo=IN)
+6. [oman vs saudi arabia](https://trends.google.com/trending/rss?geo=IN)
+7. [photo](https://trends.google.com/trending/rss?geo=IN)
+8. [england vs spain](https://trends.google.com/trending/rss?geo=IN)
+9. [asian games kabaddi 2026 live](https://trends.google.com/trending/rss?geo=IN)
+10. [manoj tiwari](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -38,6 +38,7 @@
 - [Where Things Stand After Trump Rejects Iran's Hormuz Proposal](https://www.ndtv.com/world-news/us-iran-war-where-things-stand-after-trump-rejects-irans-hormuz-proposal-12103015#publisher=newsstand)
 
 **Hindustan Times**
+- [Telangana to remove eligible private properties from 22-A list](https://www.hindustantimes.com/india-news/telangana-to-remove-eligible-private-properties-from-banned-list-for-registration-101790451040938.html)
 - ['Countries far from conflicts being penalised': Jaishankar invokes PM Modi's remark at UNGA](https://www.hindustantimes.com/india-news/countries-far-from-conflicts-being-penalised-jaishankar-invokes-pm-modis-remark-at-unga-101790444378170.html)
 - ['Serial practitioner of terrorism misrepresented facts': Jaishankar hits out at Pakistan PM Sharif at UNGA](https://www.hindustantimes.com/india-news/serial-practitioner-of-terrorism-misrepresented-facts-jaishankar-slams-pakistan-at-unga-sharif-101790442243484.html)
 - [Uttarakhand bans loud sound systems near Badrinath Dham temple, other religious sites in Chamoli](https://www.hindustantimes.com/india-news/uttarakhand-bans-loud-sound-systems-near-badrinath-dham-temple-other-religious-sites-in-chamoli-101790437985850.html)
@@ -47,31 +48,20 @@
 - [Child drug abuse is a child protection issue, not just health: CJI Surya Kant](https://www.hindustantimes.com/india-news/child-drug-abuse-is-a-child-protection-issue-not-just-health-cji-surya-kant-101790436278649.html)
 - [TMC chief Mamata Banerjee to attend INDIA bloc meeting on September 30](https://www.hindustantimes.com/india-news/tmc-chief-mamata-banerjee-to-attend-india-bloc-meeting-on-september-30-101790435021552.html)
 - [Gauhati University student found dead at homestay in Assam; male friend arrested](https://www.hindustantimes.com/india-news/gauhati-university-student-found-dead-at-homestay-in-assam-male-friend-arrested-101790430130139.html)
-- [‘Reaffirms integrity, credibility’: TDP chief welcomes 'unanimous EC clarification' day after BJP allies' appeal](https://www.hindustantimes.com/india-news/reaffirms-integrity-credibility-tdp-chief-welcomes-unanimous-ec-clarification-day-after-bjp-allies-appeal-101790434056020.html)
 
-**Vijay Karnataka**
-- [ಹಾಲಿನ ದರ ಏರಿಕೆ ಸುಳಿವು ನೀಡಿದ ಡಿಕೆಶಿ: ಸಂಪುಟದಲ್ಲಿ ಚರ್ಚಿಸಿ ತೀರ್ಮಾನ, ರೈತರಿಗೆ ಸಿಹಿ, ಗ್ರಾಹಕರಿಗೆ ಕಹಿ?](https://vijaykarnataka.com/news/karnataka/dk-shivakumar-on-nandini-milk-price-hike-demand/articleshow/134504209.cms)
-- [`ಒಂದಿಂಚೂ ಜಮೀನು ಪಡೆಯಲು ಬಿಡೊಲ್ಲ': ಬಿಡದಿ ಟೌನ್‌ಶಿಪ್‌ ವಿರುದ್ಧ ಗುಡುಗಿದ ಎಚ್ ಡಿ ಕುಮಾರಸ್ವಾಮಿ; ರೈತರ ನಿರಶನ ಅಂತ್ಯ](https://vijaykarnataka.com/news/ramanagara/protest-against-bidadi-township-hd-kumaraswamy-intervenes-farmers-end-hunger-strike/articleshow/134508245.cms)
-- [ಕಾಡುಬೀಸನಹಳ್ಳಿ ಭೂಸ್ವಾಧೀನ ಕೈಬಿಟ್ಟ KIADB ಆದೇಶ ಊರ್ಜಿತ; ಭೂಮಾಲೀಕರ ಒಪ್ಪಿಗೆಯಿಲ್ಲದೆ ಸ್ವಾಧೀನ ಅಸಾಧ್ಯ ಎಂದ ಹೈಕೋರ್ಟ್‌](https://vijaykarnataka.com/news/karnataka/kiadb-kadubeesanahalli-land-acquisition-case-karnataka-high-court-rules-acquisition-impossible-without-landowner-consent-/articleshow/134507769.cms)
-- [ಪಿತೃ ಪಕ್ಷ 2026: ಪಿತೃಗಳಿಗೆ ಪಾಯಸ-ಪೂರಿ ಅರ್ಪಿಸುವ ಸಂಪ್ರದಾಯ, ಮಾಡುವ ವಿಧಾನ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/home-decor/pitru-paksha-2026-kheer-puri-first-day-ancestor-offering/articleshow/134501695.cms)
-- [ಮಗಳ ವಿದ್ಯಾಭ್ಯಾಸದ ಕಾರಣ ನೀಡಿದ್ದ ಪವಿತ್ರಾ ಗೌಡ ಜಾಮೀನು ವಜಾ; ಪ್ರದೋಷ್ ವಿಚಾರದಲ್ಲಿ ದರ್ಶನ್ ಅರ್ಜಿಗೂ ಕೋರ್ಟ್ ನಕಾರ](https://vijaykarnataka.com/news/karnataka/court-rejects-pavithra-gowdas-bail-ple-also-denies-darshans-application-regarding-pradosh/articleshow/134507261.cms)
-- [ಸ್ಟ್ರೋಕ್‌, ಗ್ಯಾಂಗ್ರೀನ್‌ನಿಂದ ಕಾಲು ಕಟ್‌: ತೀವ್ರ ಅನಾರೋಗ್ಯದಿಂದ ಡ್ರಮ್ಮರ್ ದೇವ ನಿಧನ](https://vijaykarnataka.com/entertainment/news/rcb-fan-music-director-drummer-deva-passes-away/articleshow/134509712.cms)
-- [ಅಕ್ಷಯ್ ಕುಮಾರ್ ಪತ್ನಿ ಟ್ವಿಂಕಲ್ ಖನ್ನಾ ಹೇಳಿದ ಕಿಚನ್ ಟಿಪ್ಸ್; ಜಿರಳೆ ಕಾಟಕ್ಕೆ ಈ ಸರಳ ಮನೆಮದ್ದು](https://vijaykarnataka.com/lifestyle/home-decor/twinkle-khanna-kitchen-remedy-to-get-rid-of-cockroaches/articleshow/134499248.cms)
-- [2026 ಪಿತೃ ಪಕ್ಷ: ಮನೆಯಲ್ಲಿ ಶ್ರಾದ್ಧ ಮಾಡುವ ಸರಳ ವಿಧಾನ.!](https://vijaykarnataka.com/religion/pooja-vidhana/pitru-paksha-2026-step-by-step-procedure-to-perform-shraddha/articleshow/134503981.cms)
-- [ಅಕ್ಷಯ್ ಕುಮಾರ್ ಪತ್ನಿ ಟ್ವಿಂಕಲ್ ಖನ್ನಾ ಹೇಳಿದ ಕಿಚನ್ ಟಿಪ್ಸ್; ಜಿರಳೆ ಕಾಟಕ್ಕೆ ಈ ಸರಳ ಮನೆಮದ್ದು](https://vijaykarnataka.com/lifestyle/home-decor/twinkle-khanna-kitchen-remedy-to-get-rid-of-cockroaches/articleshow/134499248.cms)
-- [ಕಬಡ್ಡಿಯಲ್ಲಿ `ಡಬಲ್‌ ಚಿನ್ನ', ಮ್ಯಾರಥಾನ್ ನಲ್ಲಿ ಐತಿಹಾಸಿಕ ರಜತ!; ಶನಿವಾರ ಒಂದೇ ದಿನ 7 ಪದಕ ಬಾಚಿದ ಭಾರತ](https://vijaykarnataka.com/sports/other-sports/double-gold-in-kabaddi-historic-silver-in-marathon-india-bags-7-medals-on-saturday-/articleshow/134506725.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [At UNGA, Jaishankar hits back at Pakistan PM on terrorism, Indus Waters Treaty](https://www.thehindu.com/news/international/arguments-by-serial-practitioner-of-terrorism-will-not-stand-eam-jaishankar-slams-pakistan-at-unga/article71514019.ece)
+- [CEC row: CPI(M) general secretary M.A. Baby pushes for broader Opposition unity, calls for INDIA Bloc-Plus](https://www.thehindu.com/news/national/kerala/cec-row-cpim-general-secretary-ma-baby-pushes-for-broader-opposition-unity-calls-for-india-bloc-plus/article71513487.ece)
+- [Jharkhand govt. opposing mines Act to facilitate coal theft, says Annpurna Devi](https://www.thehindu.com/news/national/jharkhand/jharkhandgovt-opposing-mines-act-to-facilitate-coal-theft-saysannpurnadevi/article71513024.ece)
+- [Education Department official urges teachers to focus on improving learning outcomes](https://www.thehindu.com/news/national/andhra-pradesh/education-department-official-urges-teachers-to-focus-on-learning-outcomes/article71513187.ece)
 - [HDK asks ECI to reveal facts](https://www.thehindu.com/news/national/karnataka/hdk-asks-eci-to-reveal-facts/article71513481.ece)
 - [T.N. government to appeal against Ponmudy’s acquittal in ₹28.37-crore red sand quarrying case, ED tells Madras HC](https://www.thehindu.com/news/national/tamil-nadu/tn-government-to-appeal-against-ponmudys-acquittal-in-2837-crore-red-sand-quarrying-case-ed-tells-madras-hc/article71512675.ece)
 - [Sanitation workers to receive ₹50 as food allowance daily](https://www.thehindu.com/news/cities/chennai/sanitation-workers-to-receive-50-as-food-allowance-daily/article71513707.ece)
 - [Madras HC quashes order taking cognisance of ED complaint against drug smuggling accused Jaffer Sadiq](https://www.thehindu.com/news/national/tamil-nadu/madras-hc-quashes-order-taking-cognisance-of-ed-complaint-against-drug-smuggling-accused-jaffer-sadiq/article71512876.ece)
 - [Ernakulam continues to report highest number of influenza cases in Keralam](https://www.thehindu.com/news/national/kerala/ernakulam-continues-to-report-highest-number-of-influenza-cases-in-keralam/article71513754.ece)
 - [Palaniswami accuses Vijay of speaking contrary to truth on ‘Gem’ Veeramani’s arrest](https://www.thehindu.com/news/national/tamil-nadu/palaniswami-accuses-vijay-of-speaking-contrary-to-truth-on-gem-veeramanis-arrest/article71513475.ece)
-- [Two bus passengers held for possession of illicit arrack near Katpadi](https://www.thehindu.com/news/national/tamil-nadu/two-bus-passengers-held-for-possession-of-illicit-arrack-near-katpadi/article71512933.ece)
-- [Gang held in Tirupattur for abducting school student](https://www.thehindu.com/news/national/tamil-nadu/gang-held-in-tirupattur-for-abducting-school-student/article71512943.ece)
-- [IIT Madras-backed Unicorn India Ventures raises ₹450 crore; to complete the fund at ₹1,000 crore by December](https://www.thehindu.com/news/national/karnataka/iit-madras-backed-unicorn-india-ventures-raises-450-crore-to-complete-the-fund-at-1000-crore-by-december/article71513812.ece)
-- [Byelections in Madurantakam and Dharapuram may test AIADMK’s sway over Scheduled Caste voters](https://www.thehindu.com/news/national/tamil-nadu/byelections-in-madurantakam-and-dharapuram-may-test-aiadmks-sway-over-scheduled-caste-voters/article71513064.ece)
 
 **Livemint**
 - [Jaishankar's UNGA address — ‘Our right to defend ourselves’ to ‘endless war must end’: 7 key takeaways](https://www.livemint.com/news/india/jaishankar-at-unga-pakistan-terrorism-ukraine-war-gulf-conflict-palestine-maritime-safety-7-major-messages-11790448839769.html)
@@ -88,16 +78,16 @@
 **Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
+- [ಪರಶುರಾಮ ಪ್ರತಿಮೆ ಮರುಸ್ಥಾಪನೆ ಮನವಿ; ಸರ್ಕಾರದ ಅಂಗಳಕ್ಕೆ ವರ್ಗಾಯಿಸಿದ ಹೈಕೋರ್ಟ್](https://www.varthabharati.in/bangalore-city/high-court-2278280)
+- [ದೇಶದಲ್ಲಿ 13 ಕೋಟಿ ಮತದಾರರನ್ನು ಪಟ್ಟಿಯಿಂದ ತೆಗೆದಿದ್ದಾರೆ : ಪ್ರಕಾಶ್ ರಾಜ್](https://www.varthabharati.in/bangalore-city/prakash-raj-2278279)
+- [ನಾಗಮಂಗಲ : ಗಣೇಶ ವಿಸರ್ಜನಾ ಮೆರವಣಿಗೆ ವೇಳೆ ಪ್ರಚೋದನಕಾರಿ ಭಾಷಣ ಆರೋಪ; ಆರೆಸ್ಸೆಸ್ ಮುಖಂಡನ ವಿರುದ್ಧ ಸುವೋಮೋಟೋ ಪ್ರಕರಣ ದಾಖಲು](https://www.varthabharati.in/bengaluru/nagamangala-2278278)
+- [ಮದ್ರಾಸ್ ಐಐಟಿ ಹಳೆಯ ವಿದ್ಯಾರ್ಥಿಗಳ ಸಂಘದ ವಾರ್ಷಿಕೋತ್ಸವ](https://www.varthabharati.in/bangalore-city/iit-madras-2278277)
+- [ಅಹಿಂದ ಸಂಘಟನೆಯಲ್ಲಿ ಯಾವುದೇ ಬಿರುಕಿಲ್ಲ, ಎಲ್ಲರೂ ಒಟ್ಟಿಗೆ ಇದ್ದಾರೆ : ಮಧುಬಂಗಾರಪ್ಪ](https://www.varthabharati.in/mysore/madhu-bangarappa-2278276)
 - [ಸಿಡಿಎಸ್ ಪ್ರಶಂಸಾ ಕಾರ್ಡ್‌ಗೆ ಭಾಜನರಾದ ಮೇಜರ್ ಮಣಿವಣ್ಣನ್](https://www.varthabharati.in/bangalore-city/--2278275)
 - [ಎಸ್‌ಐಆರ್ ಪ್ರಕ್ರಿಯೆ ರದ್ದುಪಡಿಸಿ : ಪ್ರಕಾಶ್ ರಾಜ್ ಆಗ್ರಹ](https://www.varthabharati.in/chikka-ballapur/prakash-raj-2278274)
 - [Belagavi | ಗಣೇಶ ವಿಸರ್ಜನೆ ವೇಳೆ ಕೆರೆಯಲ್ಲಿ ಮುಳುಗಿ ಯುವಕ ಮೃತ್ಯು](https://www.varthabharati.in/belgaum/belagavi-2278273)
 - [ಭಯೋತ್ಪಾದನೆ ವಿರುದ್ಧ ರಾಜಿ ಇಲ್ಲ: ವಿಶ್ವಸಂಸ್ಥೆಯಲ್ಲಿ ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಜೈಶಂಕರ್ ಎಚ್ಚರಿಕೆ](https://www.varthabharati.in/international/serial-practitioner-of-terrorism-jaishankars-blunt-message-to-pakistan-at-un-2278272)
 - [ಗೆಳತಿಯನ್ನು ಮದುವೆಯಾಗಲು 21 ವರ್ಷ ತುಂಬುವವರೆಗೆ ಕಾಯುವಂತೆ ಹೇಳಿದ್ದ ತಂದೆಯನ್ನು ಗುಂಡಿಕ್ಕಿ ಕೊಂದ ಮಗ](https://www.varthabharati.in/National/chandigarh-cop-shot-dead-by-teen-son-had-told-him-to-wait-till-21-to-marry-lover-2278271)
-- [ಮಂಗಳೂರು ಶಿಕ್ಷಕರ ಸಹಕಾರಿ ಕ್ರೆಡಿಟ್ ಸಂಘದ ಮಹಾಸಭೆ](https://www.varthabharati.in/DakshinaKannada/--2278268)
-- [ದಲಿತ ವ್ಯಕ್ತಿ ಮುಖ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತರಾಗಿರುವುದು ಕಾಂಗ್ರೆಸ್‌ಗೆ ಸಹಿಸಿಕೊಳ್ಳಲು ಆಗುತ್ತಿಲ್ಲ : ಗೋವಿಂದ ಕಾರಜೋಳ](https://www.varthabharati.in/vijayapura/govind-karjol-2278267)
-- [ಪೊಲೀಸ್ ನೋಟೀಸ್‌ಗೆ ಹಾಜರಾಗಲು ಕಾಲಾವಕಾಶ ಕೋರಿ ಕಲ್ಲಡ್ಕ ಪ್ರಭಾಕರ ಭಟ್ ಮನವಿ](https://www.varthabharati.in/DakshinaKannada/kalladka-prabhakar-bhat-seeks-time-to-appear-in-response-to-police-notice-2278266)
-- [ಮತದಾರರ ಪಟ್ಟಿಯಿಂದ ಯುವ ಮತದಾರರನ್ನು ದೂರವಿಡಲು ಷಡ್ಯಂತ್ರ: ಪಿ.ವಿ. ಮೋಹನ್ ಆರೋಪ](https://www.varthabharati.in/DakshinaKannada/--2278264)
-- [ವಾಮಂಜೂರು: ಶಾರದಾ ಮಹೋತ್ಸವದ ಆಮಂತ್ರಣ ಪತ್ರಿಕೆ ಬಿಡುಗಡೆ](https://www.varthabharati.in/DakshinaKannada/--2278263)
 
 **Asianet Kannada**
 - [ನಿದ್ದೆ ಬಂದಿಲ್ಲ ಎಂದು  ಫೋನ್ ತೆಗೆದು ರೀಲ್ಸ್ ನೋಡ್ತೀರಾ? ಉರಿಯೋ ಬೆಂಕಿಗೆ ತುಪ್ಪ ಸುರಿಯೋದು ಅಂದ್ರೆ ಇದೇ!](https://kannada.asianetnews.com/gallery/health-life/cant-sleep-after-waking-up-at-3-am-6-proven-rules-to-drift-off-quickly-0okq8g8)
@@ -150,35 +140,35 @@
 - [ಮಂಗಳೂರು | ಬಾಲ್ಕನಿಯ ತಡೆಗೋಡೆ ಕುಸಿದು ಬಿದ್ದು ಓರ್ವ ವಿದ್ಯಾರ್ಥಿಯ ಮೆದುಳು ನಿಷ್ಕ್ರಿಯ, ನಾಲ್ವರಿಗೆ ಗಾಯ](https://eedina.com/?p=766728)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Jaishankar (5.5)
-- UNGA (5.5)
-- India (4.2)
+- Jaishankar (6.8)
+- UNGA (5.8)
+- India (3.9)
 - Uttarakhand (2.6)
 - September (2.6)
+- Opposition (2.6)
 - Delhi (2.2)
+- Pakistan (2.2)
 - Madras HC (2.0)
 - Trump (1.9)
-- Pakistan (1.9)
 - Sharif (1.6)
 - Congress (1.6)
 - Serial (1.6)
 - Weather (1.6)
-- Russia (1.3)
-- India's (1.3)
+- INDIA (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Virat Kohli: অনুশীলনে মেজাজ হারালেন বিরাট, প্রথম ওয়ান ডে'র আগেই কি ভারতীয় শিবিরে অশান্তি?](https://bengali.abplive.com/sports/cricket/india-vs-west-indiea-odi-series-during-practice-session-virat-kohli-losses-his-cool-know-details-1194220)
-- [I walked 10,000 steps with the Apple Watch Ultra 4 vs Garmin Fenix 9 Pro - and I was not expecting this](https://www.tomsguide.com/wellness/fitness-trackers/i-walked-10-000-steps-with-the-apple-watch-ultra-4-vs-garmin-fenix-9-pro-and-i-was-not-expecting-this)
-- [43ఏళ్ల వయసులో నటుడి కారుణ్య మరణం.. భరించలేని బాధంటూ చివరి పోస్ట్‌](https://www.eenadu.net/telugu-news/movies/french-actor-director-arnaud-denis-dies-by-euthanasia/0201/126174226)
-- [मोदी समेत दुनिया के ये बड़े नेता यूएन महासभा को संबोधित करने क्यों नहीं गए](https://www.bbc.com/hindi/articles/cmzxzz001jr2o)
-- [Jahnavi Killekar Shares Kolhapur Shooting Incident: 'कोल्हापूरला शुटिंग होतं, तेव्हा मी बिस्लेरीच्या पाण्यानं आंघोळ करायचे...'; जान्हवी किल्लेकरचं वक्तव्य चर्चेत, नेमकं काय म्हणाली?](https://marathi.abplive.com/entertainment/jahnavi-killekar-share-kolhapur-psycho-ranga-movie-shooting-incident-she-used-bisleri-water-for-bath-1440280)
-- [PM Modi’s ‘bhajan clubbing’ draws ‘priorities’ barb from Abhijeet Dipke as rapes, EC rows roil Delhi](https://www.telegraphindia.com/india/pm-modis-bhajan-clubbing-draws-priorities-barb-from-abhijeet-dipke-as-rapes-ec-rows-roil-delhi/cid/2181792)
-- [અમે ફેમસ થઈએ તો તમને શું વાંધો છે?, કોમલ રાની સાથે લાલબાગ જવાના વિવાદ પર ગોવિંદાનો જવાબ](https://www.gujaratsamachar.com/news/entertainment/what-do-you-mind-if-we-become-famous-govindas-response-to-the-controversy-over-going-to-lalbagh-with-komal-rani-86935473999)
-- [മദ്യപാനത്തിനിടെ കല്ലെടുത്ത് എറിഞ്ഞു, തർക്കം; ആലപ്പുഴയിൽ യുവാവിനെ സുഹൃത്ത് കുത്തിക്കൊന്നു](https://www.mathrubhumi.com/crime/news/alappuzha-murder-man-stabbed-to-death-dispute-s8tnomye)
-- [Manoj Jarange Patil: अंतरवाली सराटीतून अवघ्या काही तासात उपोषणाचा मंडप हटवला, मनोज जरांगे पाटलांची पहिली प्रतिक्रिया; म्हणाले...](https://marathi.abplive.com/news/politics/manoj-jarange-patil-first-reaction-on-antarwali-sarati-hunger-strike-protest-tent-stage-removed-overnight-jalna-maratha-reservation-marathi-news-1440281)
-- [ഏഷ്യൻ ഗെയിംസ് ക്രിക്കറ്റ്, ക്വാർട്ടർ ഫൈനൽ ലൈനപ്പായി; ഇന്ത്യയ്ക്ക് എതിരാളികൾ അഫ്ഗാനിസ്ഥാൻ](https://www.asianetnews.com/cricket-sports/asian-games-2026-mens-cricket-quarter-final-lineup-confirmed-india-to-face-afghanistan-articleshow-v7t5c24)
+- [KTR | చాలా ఏళ్ల తర్వాత థియేటర్‌కు కేటీఆర్.. నాని ‘ది ప్యారడైజ్’ సినిమాపై ఆసక్తికర పోస్ట్!](https://www.ntnews.com/cinema/ktr-to-watch-nanis-the-paradise-in-theatres-after-many-years-shares-post-2520510)
+- [செஸ் ஒலிம்பியாட் 2026 |ஜெர்மனியை வீழ்த்தி இந்திய ஆடவர் அணி அபார வெற்றி; மகளிர் அணியும் அசத்தல்!](https://www.etvbharat.com/ta/sports/chess-olympiad-2026-india-men-and-women-maintain-second-spot-with-crucial-wins-tns26092602685)
+- [പിണറായിക്കും മകൾ‌ക്കും എതിരായ അന്വേഷണം: പൊലീസിനു നൽകിയ വിവരങ്ങൾ സമർപ്പിക്കാൻ ഇ.ഡിക്ക് നിർദേശം, വിശദവാദം കേൾക്കും](https://www.manoramaonline.com/news/latest-news/2026/09/26/high-court-seeks-ed-report-on-pinarayi-vijayan-daughter-in-sealed-cover.html)
+- [इमरान के समर्थन में मार्च से घबराए शहबाज! 22 हजार पुलिसकर्मी तैनात, इस्लामाबाद बंद](https://www.abplive.com/news/world/imran-khan-party-pti-march-in-islamabad-on-4-october-22-police-personnal-deploy-highway-block-3193941)
+- [Asian Games 2026: ক্রিকেটের পর কবাডি, এশিয়ান গেমসে ফের দেশকে সোনা এনে দিলেন ভারতের মেয়েরা](https://bengali.abplive.com/sports/asian-games-2026-india-women-s-kabaddi-team-clinches-fourth-gold-with-win-over-iran-1194221)
+- [Asian Games 2026 squash: Anahat Singh calls semi](https://www.olympics.com/en/news/asian-games-2026-squash-semi-final-anahat-singh-reaction)
+- [മാസപ്പടി കേസിൽ എഫ്ഐആർ രജിസ്റ്റർ ചെയ്യാൻ വിജിലൻസിന് ബാധ‍്യതയില്ലേ? ചോദ‍്യവുമായി ഹൈക്കോടതി](https://www.metrovaartha.com/news/kerala/hc-asks-does-the-vigilance-not-have-an-obligation-to-register-fir-in-cmrl-exalogic-case)
+- [மாயமான தமிழகப் பக்தர்கள் பற்றிய புதிய தகவல்கள்](https://www.tamilmurasu.com.sg/india/nepal-floods-relatives-wail-85-tamil-nadu-devotees-whose-whereabouts-are-still-unknown)
+- [Disaster zone declared across Bangkok as heavy rain triggers flooding](https://www.aljazeera.com/news/2026/9/26/disaster-zone-declared-across-bangkok-as-heavy-rain-triggers-flooding)
+- [Mahakavya Shri Ramayan Katha: रामायण आहे की मस्करी! सुग्रीवाच्या पोस्टरमध्ये मोठी चूक, चक्क चष्मा घातलेला वानर दिसला; नेटकऱ्यांच्या उलटसुलट प्रतिक्रिया](https://marathi.abplive.com/entertainment/mahakavya-shri-ramayan-katha-sugriva-poster-mistake-goes-viral-netizens-react-to-vanar-wearing-glasses-anjali-arora-1440284)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
