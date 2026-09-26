@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-26 23:02:08
+# India Trending Report — 2026-09-26 23:32:49
 
 ## Google Trends (India) — top trending searches
-1. [england national football team vs spain national football team standings](https://trends.google.com/trending/rss?geo=IN)
-2. [james garner](https://trends.google.com/trending/rss?geo=IN)
-3. [mikel oyarzabal](https://trends.google.com/trending/rss?geo=IN)
-4. [usa vs peru](https://trends.google.com/trending/rss?geo=IN)
-5. [sloop](https://trends.google.com/trending/rss?geo=IN)
-6. [carlos alcaraz](https://trends.google.com/trending/rss?geo=IN)
-7. [north macedonia vs switzerland](https://trends.google.com/trending/rss?geo=IN)
-8. [czechia vs croatia](https://trends.google.com/trending/rss?geo=IN)
-9. [oman vs saudi arabia](https://trends.google.com/trending/rss?geo=IN)
-10. [photo](https://trends.google.com/trending/rss?geo=IN)
+1. [canada vs chile](https://trends.google.com/trending/rss?geo=IN)
+2. [తెలంగాణ](https://trends.google.com/trending/rss?geo=IN)
+3. [anahat singh](https://trends.google.com/trending/rss?geo=IN)
+4. [james garner](https://trends.google.com/trending/rss?geo=IN)
+5. [mikel oyarzabal](https://trends.google.com/trending/rss?geo=IN)
+6. [usa vs peru](https://trends.google.com/trending/rss?geo=IN)
+7. [sloop](https://trends.google.com/trending/rss?geo=IN)
+8. [eng vs spain](https://trends.google.com/trending/rss?geo=IN)
+9. [carlos alcaraz](https://trends.google.com/trending/rss?geo=IN)
+10. [north macedonia vs switzerland](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -18,12 +18,12 @@
 - [Russia backs India's claim to UNSC seat, firmly shuts door on Germany & Japan](https://timesofindia.indiatimes.com/world/us/russia-backs-indias-claim-to-unsc-seat-firmly-shuts-door-on-germany-japan/articleshow/134508102.cms)
 - [4 killed as helicopter crashes in field in Canada’s Quebec, probe launched](https://timesofindia.indiatimes.com/world/rest-of-world/4-killed-as-helicopter-crashes-in-field-in-canadas-quebec/articleshow/134512844.cms)
 - [BJP allies back EC, say opposition attacks undermine democracy](https://timesofindia.indiatimes.com/india/bjp-allies-close-ranks-flay-oppn-for-undermining-democracy/articleshow/134510147.cms)
-- [10 women dead in 2 months: South Africa probes possible links in Ekurhuleni killings](https://timesofindia.indiatimes.com/world/rest-of-world/10-women-dead-in-2-months-south-africa-probes-possible-links-in-ekurhuleni-killings/articleshow/134510157.cms)
+- [At least 12 dead in suicide bomb blast near police post in northwestern Pakistan](https://timesofindia.indiatimes.com/world/pakistan/at-least-12-dead-in-suicide-bomb-blast-near-police-post-in-northwestern-pakistan/articleshow/134503303.cms)
 - [Florida used robot rabbits to hunt Burmese pythons threatening the Everglades](https://timesofindia.indiatimes.com/technology/tech-news/when-a-district-in-florida-used-robot-rabbits-to-eliminate-growing-population-of-burmese-pythons-and-protect-everglades/articleshow/134385404.cms)
-- [Jaishankar at UNGA: Pakistan serial practitioner of terror, must face outcome](https://timesofindia.indiatimes.com/india/indias-right-to-defend-itself-from-terrorism-will-be-exercised-eam/articleshow/134510292.cms)
+- [10 women dead in 2 months: South Africa probes possible links in Ekurhuleni killings](https://timesofindia.indiatimes.com/world/rest-of-world/10-women-dead-in-2-months-south-africa-probes-possible-links-in-ekurhuleni-killings/articleshow/134510157.cms)
 - [He attested brother’s sale deed; HC cites oral partition, family loses 3.5 acres claim](https://timesofindia.indiatimes.com/business/india-business/he-attested-brothers-sale-deed-decades-ago-madras-hc-cites-it-as-evidence-of-oral-partition-rejects-familys-claim-to-3-5-acres-of-ancestral-land/articleshow/134507211.cms)
-- [PM Modi, Shah put CEC in charge of match-fixing elections: Rahul](https://timesofindia.indiatimes.com/india/modi-shah-put-cec-in-charge-of-match-fixing-elections-rahul/articleshow/134510130.cms)
-- [Higher EPF wage limit: Monthly PF contributions rise to Rs 3,917](https://timesofindia.indiatimes.com/india/higher-epf-wage-limit-monthly-pf-contributions-rise-to-3917/articleshow/134510271.cms)
+- [Bangladesh to replace planned sculptures at historic sites](https://timesofindia.indiatimes.com/world/south-asia/bangladesh-to-replace-planned-sculptures-at-historic-sites/articleshow/134512935.cms)
+- [Awami members celebrating Hasina’s birthday under Bangladesh govt lens](https://timesofindia.indiatimes.com/world/south-asia/awami-members-celebrating-hasinas-birthday-under-lens/articleshow/134512936.cms)
 
 **NDTV**
 - [Judicial System Has Long Focused On Accused And Offence, Says Chief Justice](https://www.ndtv.com/india-news/judicial-system-has-long-focused-on-accused-and-offence-chief-justice-surya-kant-12103256#publisher=newsstand)
@@ -126,6 +126,10 @@
 - [‘ಅದು ಮುರಿದುಬಿದ್ದ ಮನೆ’; ಗೋವಿಂದ-ಸುನೀತಾ ಸಂಸಾರದ ಬಗ್ಗೆ ಕೋಮಲ್ ರಾನಿ ತಿರುಗೇಟು](https://tv9kannada.com/entertainment/bollywood/govinda-sunita-ahuja-dispute-actress-komal-rani-swarnkar-hits-back-at-homebreaker-allegations-1243013.html)
 
 **Prajavani**
+- [ದಿನ ಭವಿಷ್ಯ: ಈ ರಾಶಿಯ ಅವಿವಾಹಿತರಿಗೆ ಕಂಕಣ ಭಾಗ್ಯ ದೊರೆಯುವುದು](https://www.prajavani.net/astro-vastu/horoscope/daily-horoscope-marriage-prediction-astrology-kannada-4289707)
+- [ದಿನದ ಪಂಚಾಂಗ: 27 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/astro-vastu/panchanga/daily-kannada-panchanga-september-twenty-seven-pitrupaksha-4289715)
+- [ಚಿನಕುರುಳಿ ಕಾರ್ಟೂನು: 27 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/news/cartoons/prajavani-chinakuruli-cartoon-september-twenty-seven-4290240)
+- [ಗುಂಡಣ್ಣ ಕಾರ್ಟೂನು: 27 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/news/cartoons/gundanna-cartoon-september-twenty-seven-4290246)
 - [25 ವರ್ಷಗಳ ಹಿಂದೆ: ಜಂಟಿ ದಾಳಿ: ಅಮೆರಿಕ, ಪಾಕ್‌ ಭಿನ್ನಮತ](https://www.prajavani.net/op-ed/prajavani-archive/us-pakistan-disagreement-over-taliban-military-operation-4289806)
 - [75 ವರ್ಷಗಳ ಹಿಂದೆ: ಮಹಾಚುನಾವಣೆಗೆ ಮುನ್ನ ಕೇಂದ್ರ ಸಂಪುಟ ಪುನರ್‌ರಚನೆ](https://www.prajavani.net/op-ed/prajavani-archive/cabinet-reshuffle-ambedkar-resignation-history-4289802)
 - [ಮನೆ ಮಾರಾಟ ಶೇ 6ರಷ್ಟು ಇಳಿಕೆ](https://www.prajavani.net/business/commerce-news/home-sales-in-major-indian-cities-decline-by-six-percent-4289995)
@@ -143,10 +147,11 @@
 - [ಮಂಗಳೂರು | ಬಾಲ್ಕನಿಯ ತಡೆಗೋಡೆ ಕುಸಿದು ಬಿದ್ದು ಓರ್ವ ವಿದ್ಯಾರ್ಥಿಯ ಮೆದುಳು ನಿಷ್ಕ್ರಿಯ, ನಾಲ್ವರಿಗೆ ಗಾಯ](https://eedina.com/?p=766728)
 
 ## Cross-source trending keywords (derived from headlines above)
-- UNGA (5.8)
-- Jaishankar (5.2)
+- UNGA (4.5)
+- Jaishankar (3.9)
 - September (3.9)
 - India (2.6)
+- Bangladesh (2.6)
 - Uttarakhand (2.6)
 - Iran (2.6)
 - Trump (2.6)
@@ -157,21 +162,20 @@
 - India's (1.6)
 - INDIA (1.6)
 - Maharashtra (1.6)
-- Gulf (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Asian Games 2026: भारताचा कबड्डीत ‘डबल धमाका’; महिला संघानंतर पुरुषांनीही इराणला नमवत जिंकलं गोल्ड](https://www.loksatta.com/krida/asian-games-2026-indian-mens-kabaddi-team-won-gold-medal-by-defeating-iran-in-finals-amd-2000-6157444/)
-- ["Nobody Can Be A Homebreaker In Already Broken House"](https://www.ndtv.com/entertainment/komal-rani-reacts-to-affair-rumours-with-govinda-nobody-can-be-a-homebreaker-in-already-broken-house-12101437)
-- [शकीरा के गाने को राजस्थानी अंदाज़ में गाकर सुर्खियां बटोर रहे इन कलाकारों से मिलिए](https://www.bbc.com/hindi/articles/cvn0jjr67yylo)
-- ['આ મારા દેશ માટે છેલ્લો હશે...': શું Virat Kohli વનડે વર્લ્ડ કપ ટ્રોફી જીતીને ક્રિકેટને અલવિદા કહેશે?](https://www.gujaratfirst.com/cricket-news/virat-kohli-last-world-cup-2027-retirement-plan/341941/)
-- [Air India AI171 crash: Pilots’ body seeks role in panel reviewing draft final probe report, flags simulator timing gap](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/air-india-ai171-crash-pilots-body-seeks-role-in-panel-reviewing-draft-final-probe-report-flags-simulator-timing-gap-14038885.html)
-- [उत्तर प्रदेश विधानसभा निवडणुकीत कोण मारणार बाजी? पहिला सर्व्हे समोर, धक्कादायक निकालाची शक्यता, भाजपला थेट…](https://www.tv9marathi.com/national/who-will-emerge-victorious-in-the-uttar-pradesh-assembly-elections-first-survey-released-possibility-of-a-shocking-result-1764850.html)
-- [കാര്യവട്ടത്ത് മഴ വില്ലനാകുമോ? ഇന്ത്യ VS വെസ്റ്റ് ഇന്‍ഡീസ് മത്സരത്തിലെ കാലവസ്ഥാ പ്രവചനം ഇങ്ങനെ!](https://www.doolnews.com/india-vs-west-indies-match-green-field-stadium-weather-forcast-65-141.html)
-- [ഫോം ആറിലെ എസ്.ഐ.ആര്‍ നിബന്ധന നിയമവിരുദ്ധം; ജൂലൈയില്‍ തന്നെ തെരഞ്ഞെടുപ്പ് കമ്മീഷന് ബ്രിട്ടാസ് കത്തയച്ചു](https://www.doolnews.com/sir-requirement-in-form-6-is-illegal-britas-wrote-to-the-election-commission-as-early-as-july-62-177.html)
-- [दिवाली-दशहरा पर 102 फेरे स्‍पेशल ट्रेन चलाएगा रेलवे, कल से शुरू होगी बुकिंग](https://www.aajtak.in/business/utility/story/indian-railway-diwali-dussehra-festival-special-trains-booking-start-27th-sept-tutd-dskc-2653917-2026-09-26)
-- [Bangladesh jewellery shop owner's body found inside floating drum; Hindu credit union token in pocket](https://timesofindia.indiatimes.com/world/south-asia/bangladesh-jewellery-shop-owners-body-found-inside-floating-drum-hindu-credit-union-token-in-pocket/articleshow/134502587.cms)
+- [Asian Games : कबड्डीत भारतानं दुसरं सुवर्णपदक मिळवलं, टीम इंडियाचा अटीतटीच्या लढतीत विजय, 40-34 नं इराणला हरवलं](https://marathi.abplive.com/sports/asian-games-2026-indian-mens-kabaddi-team-won-gold-with-defeat-iran-in-final-by-40-34-1440317)
+- [શુભમન ગિલ પહેલી વનડેમાંથી બહાર? નેટ પ્રેક્ટિસમાં ઈજાગ્રસ્ત થયા બાદ કોચનું મોટું નિવેદન](https://gujarati.abplive.com/sports/cricket/shubman-gill-injury-update-india-vs-west-indies-1st-odi-match-playing-11-992097)
+- [વહેલી સવાર સુધી ગૂંજ્યા 'ગણપતિ બાપ્પા મોરિયા'ના નાદ: વડોદરામાં 16 હજારથી વધુ શ્રીજી પ્રતિમાઓનું વિસર્જન](https://www.gujaratsamachar.com/news/baroda/chants-of-ganpati-bappa-morya-echoed-till-early-morning-immersion-of-more-than-16-thousand-shriji-idols-in-vadodara-78213846264)
+- [After NSE IPO exchange debut, Macquarie calls stock ‘The Dominator’ - here’s why](https://www.livemint.com/market/stock-market-news/after-nse-ipo-exchange-debut-macquarie-calls-stock-the-dominator-here-s-why-check-share-price-target-11790419480001.html)
+- [Video: कुणाल घोष की गाड़ी पर हमला, फेंके गए अंडे, TMC विधायक बोले- यह जंगलराज](https://www.abplive.com/news/india/tmc-mla-kunal-ghosh-car-attacked-eggs-thrown-tmc-mla-calls-jungle-raj-3194065)
+- [Sunil Grover’s uncanny Ajay Devgn mimicry steals the show ahead of ‘Drishyam 3’ release; fans say, 'Mimicry sounds more original than original himself'](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunil-grovers-uncanny-ajay-devgn-mimicry-steals-the-show-ahead-of-drishyam-3-release-fans-say-mimicry-sounds-more-original-than-original-himself/articleshow/134503291.cms)
+- [‘‘கார்த்திக் சுப்புராஜின் திரை மொழி வியக்க வைக்கிறது’’ - ‘டோரதி’க்கு மணிரத்னம் பாராட்டு](https://www.hindutamil.in/news/cinema/tamil-cinema/mani-ratnam-express-his-thought-about-dorothy)
+- [Breaking News: શુભમન ગિલની ઈજાથી ટીમ ઈન્ડિયાની પ્લેઈંગ ઈલેવન બદલાશે, કયા ખેલાડીને મળશે તક?](https://tv9gujarati.com/sports/cricket-news/breaking-news-ind-vs-wi-shubman-gills-injury-team-india-playing-will-change-1522258.html)
+- [રાજકોટમાં Blinkitના સ્ટોરેજમાંથી 596 કિલો સડેલા શાકભાજી-ફળ, અખાદ્ય ગ્રોસરી આઈટમ્સ પકડાયા](https://www.etvbharat.com/gu/state/rajkot-blinkit-596-kg-rotten-vegetables-fruits-destroyed-rmc-health-department-raid-gjs26092603887)
+- [At least 11 dead in suicide bomb blast near police post in northwestern Pakistan](https://timesofindia.indiatimes.com/world/pakistan/11-killed-30-injured-in-blast-in-pakistans-dera-ismail-khan/articleshow/134503303.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
