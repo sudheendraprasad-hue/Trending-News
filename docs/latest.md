@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-26 03:35:38
+# India Trending Report — 2026-09-26 04:02:01
 
 ## Google Trends (India) — top trending searches
 1. [बुध](https://trends.google.com/trending/rss?geo=IN)
@@ -7,23 +7,23 @@
 4. [मौसम](https://trends.google.com/trending/rss?geo=IN)
 5. [sundeep jora](https://trends.google.com/trending/rss?geo=IN)
 6. [today's weather](https://trends.google.com/trending/rss?geo=IN)
-7. [weather patna](https://trends.google.com/trending/rss?geo=IN)
+7. [weather delhi](https://trends.google.com/trending/rss?geo=IN)
 8. [nepal vs japan](https://trends.google.com/trending/rss?geo=IN)
-9. [weather today](https://trends.google.com/trending/rss?geo=IN)
-10. [mosam](https://trends.google.com/trending/rss?geo=IN)
+9. [mosam](https://trends.google.com/trending/rss?geo=IN)
+10. [england vs india](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Trump rejects Iran's 7-day ceasefire offer, expects to resume bombing post midterms](https://timesofindia.indiatimes.com/world/us/trump-rejects-irans-7-day-ceasefire-offer-expects-to-resume-bombing-post-midterms/articleshow/134495519.cms)
+- [‘Trump Strait’: US President renames Hormuz after rejecting 7-day ceasefire offer](https://timesofindia.indiatimes.com/world/us/trump-strait-us-president-shares-new-map-of-hormuz-after-rejecting-7-day-ceasefire-offer/articleshow/134496440.cms)
 - ['Hypocritical homilies about democratic rights': India flays Pakistan at UN](https://timesofindia.indiatimes.com/world/us/hypocritical-homilies-about-democratic-rights-india-flays-pakistan-at-un/articleshow/134495894.cms)
 - [Amarinder says BJP didn't seek his views on Punjab; AAP calls him 'opportunistic'](https://timesofindia.indiatimes.com/india/amarinder-says-bjp-didnt-seek-his-views-on-punjab-aap-calls-him-opportunistic/articleshow/134496346.cms)
-- [Marking 'VIPs' routine, was part of SSR even before SIR: Officials](https://timesofindia.indiatimes.com/india/marking-vips-routine-was-part-of-ssr-even-before-sir-officials/articleshow/134495079.cms)
+- [Centre extends Afspa in parts of Manipur, Arunachal, Nagaland for 6 more months](https://timesofindia.indiatimes.com/city/guwahati/centre-extends-afspa-in-parts-of-manipur-arunachal-nagaland-for-6-more-months/articleshow/134490469.cms)
 - [Meta AI CEO Alexandr Wang sets the record straight on his Meta Connect 2026 outfit](https://timesofindia.indiatimes.com/technology/tech-news/meta-ai-ceo-alexandr-wang-sets-the-record-straight-on-how-he-dressed-for-metas-connect-2026-conference-this-week-says-excuse-me-i-must-/articleshow/134495756.cms)
-- [Comedy show row: Professor, student apologise to each other after viral video](https://timesofindia.indiatimes.com/city/ahmedabad/comedy-show-row-professor-student-apologise-to-each-other-after-viral-video/articleshow/134495657.cms)
+- [Saudi Arabia has not ruled out developing nuclear weapons, US assessment warns](https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-has-not-ruled-out-developing-nuclear-weapons-classified-us-assessment-warns/articleshow/134496335.cms)
 - [Nebraska couple lost $59,759 home over $588 tax debt; compensation claim revived](https://timesofindia.indiatimes.com/world/us/a-nebraska-couple-lost-a-mortgage-free-home-assessed-at-59759-after-a-588-21-tax-debt-grew-to-5268-32-the-us-supreme-court-sent-the-case-back-and-nebraskas-top-court-revived-the-compensation-claim/articleshow/134486717.cms)
 - [Tom Brady vs Patrick Mahomes: Why TB12 Foundation can't match 15 and Mahomies](https://timesofindia.indiatimes.com/sports/nfl/news/tom-brady-vs-patrick-mahomes-why-tb12-foundation-could-never-match-15-and-the-mahomies/articleshow/134486061.cms)
-- [IndiGo engineer stays with mother inside Noida bus, both die](https://timesofindia.indiatimes.com/city/noida/indigo-engineer-among-noida-bus-fire-victims-identified-from-ring-on-finger/articleshow/134491749.cms)
-- [OpenAI says its AI agents bypassed security controls on US government websites](https://timesofindia.indiatimes.com/world/us/openai-says-its-ai-agents-bypassed-security-controls-on-us-government-websites/articleshow/134496014.cms)
+- [Trump rejects Iran's 7-day ceasefire offer, expects to resume bombing post midterms](https://timesofindia.indiatimes.com/world/us/trump-rejects-irans-7-day-ceasefire-offer-expects-to-resume-bombing-post-midterms/articleshow/134495519.cms)
+- [Wangchuk compares Ladakh situation with Tibet; CTA calls it 'misplaced, inaccurate'](https://timesofindia.indiatimes.com/india/a-day-after-wangchuk-compares-ladakh-situation-with-tibet-central-tibetan-administration-calls-comparison-misplaced-inaccurate/articleshow/134496429.cms)
 
 **NDTV**
 - [Chief Justice To Inaugurate India's 1st Victim Rights Centre Today In Patna](https://www.ndtv.com/india-news/chief-justice-surya-kant-to-inaugurate-indias-1st-victim-rights-centre-today-in-patna-12099765#publisher=newsstand)
@@ -38,6 +38,8 @@
 - [In Setback For Anthropic, US Court Refuses To Overturn Pentagon Ban](https://www.ndtv.com/world-news/in-setback-for-anthropic-us-court-refuses-to-overturn-pentagon-ban-12099516#publisher=newsstand)
 
 **Hindustan Times**
+- [FIR against official in Bihar CM’s office over social media post revealing Jamui survivor’s identity](https://www.hindustantimes.com/india-news/firagainst-official-in-bihar-cm-s-office-over-social-media-post-revealing-jamui-survivor-s-identity-101790394270455.html)
+- [HT Morning News Brief September 26: India warns Pakistan at UN; Sawan Barwal wins silver at Asian Games](https://www.hindustantimes.com/india-news/asian-games-india-medals-un-pakistan-kashmir-nani-movie-review-101790391214468.html)
 - [4 wrestlers challenge Brij Bhushan’s acquittal, call trial court verdict ‘archaic, stereotypical’](https://www.hindustantimes.com/india-news/4-wrestlers-challenge-brij-bhushan-s-acquittal-call-trial-court-verdict-archaic-stereotypical-101790391160609.html)
 - [BJP moves to contain ‘rigged polls’ row, launches counter-offensive](https://www.hindustantimes.com/india-news/bjp-moves-to-contain-rigged-polls-row-launches-counteroffensive-101790391654017.html)
 - ['Pakistan's duplicity will neither benefit it nor the world': India slams Shehbaz Sharif's UN speech](https://www.hindustantimes.com/india-news/india-pakistan-un-shehbaz-sharif-speech-kashmir-terrorism-101790389147577.html)
@@ -46,20 +48,18 @@
 - [Unease within Keralam BJP over CMRL claims](https://www.hindustantimes.com/india-news/unease-within-keralam-bjp-over-cmrl-claims-101790365104268.html)
 - [Exclude areas in proposed ESZ: Keralam minister Sunny Joseph to Centre](https://www.hindustantimes.com/india-news/exclude-areas-in-proposed-esz-keralam-minister-sunny-joseph-to-centre-101790365043925.html)
 - [Centre push for wider adoption of ABHA accounts](https://www.hindustantimes.com/india-news/centre-push-for-wider-adoption-of-abha-accounts-101790364684495.html)
-- [Loss of five-month-old foetus amounts to loss of child: Allahabad HC](https://www.hindustantimes.com/india-news/loss-of-five-month-old-foetus-amounts-to-loss-of-child-allahabad-hc-101790364623599.html)
-- [4 bodies of Nagas found near Myanmar border in Manipur](https://www.hindustantimes.com/india-news/4-bodies-of-nagas-found-near-myanmar-border-in-manipur-101790364563498.html)
 
 **Vijay Karnataka**
+- [ಮೈಸೂರು ದಸರಾಗೆ ಗ್ಲೋಬಲ್‌ ಟಚ್: ಜಂಬೂಸವಾರಿ ವೀಕ್ಷಣೆಗೆ ಭಾರತದಲ್ಲಿನ ‌ವಿದೇಶಿ ರಾಯಭಾರಿಗಳ ಆಹ್ವಾನಕ್ಕೆ ಸರ್ಕಾರದಿಂದ ನಿರ್ಧಾರ!](https://vijaykarnataka.com/news/mysuru/mysuru-dasara-2026-festival-govt-decides-to-invite-foreign-diplomats-for-dasara-jambusavari-viewing/articleshow/134496184.cms)
 - [UP Opinion Poll : ಅಸೆಂಬ್ಲಿ ಚುನಾವಣೆಗೂ ಮುನ್ನ ಹೊರಬಿದ್ದ ಮೊದಲ ಸರ್ವೇ- ಕುತೂಹಲಕಾರಿ ಫಲಿತಾಂಶ](https://vijaykarnataka.com/news/india/uttar-pradesh-opinion-poll-news-leader-matrize-bjp-upper-hand/articleshow/134496151.cms)
 - [Bengaluru Crime- ದುಡಿದ ಸಂಬಳ ತನಗೆ ಕೊಟ್ಟಿಲ್ಲ ಎಂದು ಪತ್ನಿ ಕೊಂದು ಮೂಟೆ ಕಟ್ಟಿ ಶವ ಎಸೆದ ಪತಿ! 1 ತಿಂಗಳ ಬಳಿಕ ಹಂತಕ ಅರೆಸ್ಟ್](https://vijaykarnataka.com/news/bengaluru-city/husband-killed-and-dumped-wife-over-salary-argument-in-bengaluru-arrested-after-one-month/articleshow/134496026.cms)
-- [ನಂದಿನಿ ಹಾಲಿನ ದರ ಪ್ರತಿ ಲೀ.ಗೆ 10ರೂ. ಏರಿಕೆ? ಇಂದು(ಸೆ.26) ಸಿಎಂ ಡಿಕೆಶಿ ಜೊತೆ ಹಾಲು ಉತ್ಪಾದಕರ ಸಭೆ ಬಳಿಕ ಹೊರಬೀಳಲಿದೆ ನಿರ್ಧಾರ!](https://vijaykarnataka.com/news/karnataka/milk-price-hike-nandini-milk-price-may-go-up-by-at-least-rs-10-a-litre/articleshow/134495493.cms)
 - [ಕಷ್ಟದ ದಿನಗಳು ಶಾಶ್ವತವಲ್ಲ; ಭರವಸೆ ಕಳೆದುಕೊಳ್ಳಬೇಡಿ: ಚಾರ್ಲಿ ಚಾಪ್ಲಿನ್ ಜೀವನ ಪಾಠ](https://vijaykarnataka.com/lifestyle/relationship/charlie-chaplin-motivational-quotes-faith-courage-imagination-success/articleshow/134495858.cms)
-- [ವಿಷ್ಣುವಿನ ದಶಾವತಾರ, ಚತುರ್ವಿಂಶತಿ ನಾಮಸ್ಮರಣೆಯನ್ನು ಕೊಂಡಾಡಿದ ಶ್ರೀ ವ್ಯಾಸರಾಜರ ಕೀರ್ತನೆ: ಹಾಡು ಹಳತು ಭಾವ ನವೀನ, ಸಂಚಿಕೆ-155](https://vijaykarnataka.com/edit-oped/columns/significance-of-dashavatara-in-poem-of-sri-vyasaraja-column-by-srinath-bhalle-in-haadu-halatu-bhaava-naveena-part-155/articleshow/134495720.cms)
+- [ನಂದಿನಿ ಹಾಲಿನ ದರ ಪ್ರತಿ ಲೀ.ಗೆ 10ರೂ. ಏರಿಕೆ? ಇಂದು(ಸೆ.26) ಸಿಎಂ ಡಿಕೆಶಿ ಜೊತೆ ಹಾಲು ಉತ್ಪಾದಕರ ಸಭೆ ಬಳಿಕ ಹೊರಬೀಳಲಿದೆ ನಿರ್ಧಾರ!](https://vijaykarnataka.com/news/karnataka/milk-price-hike-nandini-milk-price-may-go-up-by-at-least-rs-10-a-litre/articleshow/134495493.cms)
 - [ನೆಗೆಟಿವ್‌ ರಿವ್ಯೂ ಎಫೆಕ್ಟ್:‌ 2ನೇ ದಿನ ಭಾರಿ ಕುಸಿತ ಕಂಡ ನಾನಿ ನಟನೆಯ ʻಪ್ಯಾರಡೈಸ್‌ʼ ಗಳಿಸಿದ್ದೆಷ್ಟು?](https://vijaykarnataka.com/entertainment/news/nani-the-paradise-movie-day-2-box-office-net-drops-due-to-reviews/articleshow/134496087.cms)
 - [ಪಾರ್ಕ್ ಮಾಡಿದ ಕಾರಿಗೆ ಇಲಿಗಳು ಏಕೆ ಬರುತ್ತವೆ? ತಡೆಯಲು ಈ ನೈಸರ್ಗಿಕ ವಿಧಾನಗಳು ಸಹಕಾರಿ](https://vijaykarnataka.com/lifestyle/home-decor/why-rats-enter-parked-cars-natural-ways-to-keep-rats-away/articleshow/134408701.cms)
 - [ಹುಣ್ಣಿಮೆ ದಿನ ಹಣದ ಸಮೃದ್ಧಿಗಾಗಿ ಮಾಡಲಾಗುವ ಧಾರ್ಮಿಕ ಆಚರಣೆಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/do-these-spiritual-activities-on-full-moon-night-or-purnima-to-get-money-and-luck/articleshow/134495624.cms)
 - [ಪತಿಯ ಜೊತೆ ಸದಾ ಇರಲು ಸಾಧ್ಯವಿಲ್ಲ, ಆದರೂ ನಾವು ಖುಷಿಯಾಗಿದ್ದೇವೆ, ಶ್ರೇಯಾ ಘೋಷಾಲ್ ಹೇಳಿದ ಸಂತೋಷದ ದಾಂಪತ್ಯದ ಗುಟ್ಟು](https://vijaykarnataka.com/lifestyle/relationship/shreya-ghoshal-secret-to-happy-marriage-busy-life/articleshow/134488062.cms)
-- [GBA ಗಡಿ ಮೀರಿ ಪುರಸಭೆ,ಗ್ರಾಪಂ ವ್ಯಾಪ್ತಿಗೂ ಜಲಮಂಡಳಿ ಸೇವೆ: ಇಡೀ ಬೆಂಗಳೂರು ನಗರ ಜಿಲ್ಲೆಗೆ BWSSB ಕಾರ್ಯವ್ಯಾಪ್ತಿ ವಿಸ್ತರಿಸಿ ಸರ್ಕಾರ ಆದೇಶ!](https://vijaykarnataka.com/news/bengaluru-city/expansion-of-bwssb-services-to-bangaluru-urban-district-water-sewage-plans-in-municipalities-and-gram-panchayats/articleshow/134495402.cms)
+- [ವಿಷ್ಣುವಿನ ದಶಾವತಾರ, ಚತುರ್ವಿಂಶತಿ ನಾಮಸ್ಮರಣೆಯನ್ನು ಕೊಂಡಾಡಿದ ಶ್ರೀ ವ್ಯಾಸರಾಜರ ಕೀರ್ತನೆ: ಹಾಡು ಹಳತು ಭಾವ ನವೀನ, ಸಂಚಿಕೆ-155](https://vijaykarnataka.com/edit-oped/columns/significance-of-dashavatara-in-poem-of-sri-vyasaraja-column-by-srinath-bhalle-in-haadu-halatu-bhaava-naveena-part-155/articleshow/134495720.cms)
 
 **The Hindu**
 - [Asian Games 2026 LIVE | Sawan Barwal wins silver in men’s marathon final](https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-26-2026/article71510179.ece)
@@ -74,6 +74,8 @@
 - [Attacks on commercial shipping in Gulf, Red Sea simply indefensible: Jaishankar as India and Liberia announce ‘group of friends’](https://www.thehindu.com/news/national/attacks-on-commercial-shipping-in-gulf-red-sea-simply-indefensible-jaishankar/article71509676.ece)
 
 **Livemint**
+- [Congo plane crash: 14 killed, including two senior military officials](https://www.livemint.com/news/world/congo-plane-crash-14-killed-including-two-senior-military-officials-11790393997374.html)
+- [Delhi-NCR weather today: Rain, gusty winds likely for next 3 days; temperature to dip further](https://www.livemint.com/news/india/delhincr-weather-today-rain-gusty-winds-likely-for-next-3-days-temperature-to-dip-further-11790392474727.html)
 - [Jaishankar rebuffs Pakistani reporter at UNGA: ‘A terrorist country is asking me?’](https://www.livemint.com/news/world/jaishankar-rebuffs-pakistani-reporter-at-unga-a-terrorist-country-is-asking-me-11790386628601.html)
 - [US-Iran war: Donald Trump rejects Tehran's seven-day ceasefire proposal to reopen Hormuz, expects bombing to resume](https://www.livemint.com/news/us-news/usiran-war-donald-trump-rejects-tehrans-seven-day-ceasefire-proposal-to-reopen-hormuz-expects-bombing-to-resume-11790388539757.html)
 - [Petrol, diesel prices today, September 26: Here's how much fuel costs in Delhi, Mumbai, Bengaluru](https://www.livemint.com/news/india/petrol-diesel-prices-today-september-26-heres-how-much-fuel-costs-in-delhi-mumbai-bengaluru-11790385138692.html)
@@ -82,8 +84,6 @@
 - [US-Iran war LIVE: Iran awaits US' response after report says Trump rejected Tehran's ceasefire proposal](https://www.livemint.com/news/us-news/us-iran-war-live-news-latest-updates-donald-trump-pezeshkian-abbas-araghchi-hormuz-ceasefire-houthis-midterms-11790383390608.html)
 - [New York’s Nor’easter Threat Grows With Volatile Storm Track](https://www.livemint.com/news/new-york-s-nor-easter-threat-grows-with-volatile-storm-track-11790373812670.html)
 - [Connor Nelson’s California apartment break-in: What happened and what we know so far](https://www.livemint.com/news/us-news/connor-nelson-s-california-apartment-break-in-what-happened-and-what-we-know-so-far-11790372474787.html)
-- [Melania Trump says she had a ‘very beautiful childhood’ under communism — But reveals one big difference](https://www.livemint.com/news/us-news/melania-trump-says-she-had-a-very-beautiful-childhood-under-communism-but-reveals-one-big-difference-11790370354306.html)
-- [Nigella Lawson has a very unusual Bake Off habit — Alison Hammond reveals what she does: ‘She’s like Cleopatra'](https://www.livemint.com/news/world/nigella-lawson-has-a-very-unusual-bake-off-habit-alison-hammond-reveals-what-she-does-she-s-like-cleopatra-11790370760296.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -110,6 +110,9 @@
 - [ಸಂಘರ್ಷವನ್ನು ಕೊನೆಗೊಳಿಸಲು ಇರಾನ್‌ ನಿಂದ ಯೋಜನೆ ಪ್ರಸ್ತಾಪ](https://www.varthabharati.in/international/iran-proposes-a-plan-to-end-the-conflict-2278043)
 
 **Asianet Kannada**
+- [ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಶೂಟಿಂಗ್: ಭಾರತಕ್ಕೆ ಶೂಟಿಂಗ್‌ನಲ್ಲಿ ಕೊನೆಗೂ ಸಿಕ್ತು ಚಿನ್ನ!](https://kannada.asianetnews.com/sports/asian-games-2026-india-win-2nd-gold-as-kamaljeet-suruchi-claim-mixed-team-shooting-gold-kvn/articleshow-skydb3z)
+- [Emerald Jewellery: ಮಾಧುರಿ ದೀಕ್ಷಿತ್ ಸ್ಟೈಲ್‌ನ 5 ಎಮರಾಲ್ಡ್ ಜ್ಯುವೆಲರಿ ಡಿಸೈನ್ಸ್, ನೀವೂ ಟ್ರೈ ಮಾಡಿ](https://kannada.asianetnews.com/webstories/fashion/madhuri-dixit-inspired-emerald-jewellery-designs-for-modern-look-gvd-xqstvc9)
+- [ಶೂ-ಸಾಕ್ಸ್‌ ಗುಣಮಟ್ಟ ಕಳಪೆ ಅಲ್ಲ, ಅಳತೆಯಲ್ಲಿ ವ್ಯತ್ಯಾಸವಾಗಿದೆ ಅಷ್ಟೇ ಎಂದ ಸಚಿವ ಮಧು ಬಂಗಾರಪ್ಪ](https://kannada.asianetnews.com/karnataka-districts/madhu-bangarappa-response-school-shoes-socks-quality-issue-karnataka-san/articleshow-n0t1e7w)
 - [ಕಡ್ಲೆ ಹಿಟ್ಟಲ್ಲಿ ಪಕೋಡ ಮಾತ್ರ ಅಲ್ಲ… ಟೆಸ್ಟಿಯಾದ ಚಟ್ನಿ ಮಾಡಬಹುದು](https://kannada.asianetnews.com/food/how-to-make-gujarati-besan-chutney-at-home-a-delicious-side-dish/articleshow-8425o6u)
 - [Sui Dhaga Earrings: ಕೇವಲ 200 ರೂ.ಗೆ ಸಿಗುವ 5 ಟ್ರೆಂಡಿ ಸೂಜಿ ದಾರ ಕಿವಿಯೋಲೆಗಳ ಡಿಸೈನ್ ಇಲ್ಲಿದೆ](https://kannada.asianetnews.com/webstories/fashion/5-trendy-sui-dhaga-earrings-under-200-rupees-see-latest-designs-gvd-tazqyyq)
 - [ಸ್ನೇಹಿತರಿಗೆ ಮುಖ ತೋರಿಸಲು ಹೆದರುತ್ತಿದ್ದ ಸ್ವಿಗ್ಗಿ ಡೆಲಿವರಿ ಬಾಯ್ ಇಂದು ಕೋಟಿ ಮನೆ ಒಡೆಯ! ಹೇಗೆ ಗೊತ್ತಾ?](https://kannada.asianetnews.com/bengaluru-urban/from-swiggy-delivery-agent-to-seafood-restaurant-owner-koushik-kharvis-inspiring-journey/articleshow-8e98c2x)
@@ -117,23 +120,20 @@
 - [ಅನುಕಂಪದ ನೇಮಕ ನಿರಂತರ ಹಕ್ಕಲ್ಲ ಒಮ್ಮೆಯಷ್ಟೇ ಲಭಿಸುವ ಸೌಲಭ್ಯ: ಕೆಎಟಿ ಆದೇಶ ರದ್ದುಗೊಳಿಸಿದ ಹೈಕೋರ್ಟ್‌](https://kannada.asianetnews.com/karnataka-districts/compassionate-appointment-not-a-continuous-right-karnataka-high-court-verdict-san/articleshow-vnhkg8z)
 - [ಕೆ.ಆರ್.ಮಾರ್ಕೆಟ್‌ನಲ್ಲಿ ಮಳಿಗೆಗಳ ಮಾಲೀಕರಿಗೆ ಜಗದೀಶ್‌ ಎಚ್ಚರಿಕೆ, 15 ದಿನಗಳಲ್ಲಿ ಬಾಕಿ ಬಾಡಿಗೆ ಕಟ್ಟದಿದ್ದರೆ ಬೀಗ!](https://kannada.asianetnews.com/bengaluru-urban/pay-rent-in-15-days-or-face-sealing-gba-issues-ultimatum-to-kr-market-merchants-gdp/articleshow-2de6ut3)
 - [ಆ ವ್ಯಕ್ತಿಯ ಹೆಸರು ಕೇಳಿದ ತಕ್ಷಣ ಕೈಯಲ್ಲಿದ್ದ ಸಿಗರೇಟ್ ಬಿಸಾಕಿ ಎದ್ದು ನಿಂತ ರಜನಿಕಾಂತ್: ಕಾರಣವೇನು?](https://kannada.asianetnews.com/entertainment/kollywood-super-star-rajinikanths-guru-devotion-tanikella-bharani-reveals-an-unforgettable-incident-gvd/articleshow-is5k0ge)
-- [ಚಿಕನ್, ಮೊಟ್ಟೆ ಬೇಡ… ಈ ಸಸ್ಯಾಹಾರಿ ಆಹಾರಗಳಿಂದಲೇ ಸಿಗುತ್ತೆ ದಿನಕ್ಕೆ 90 ಗ್ರಾಂ ಪ್ರೋಟೀನ್!](https://kannada.asianetnews.com/gallery/food/how-to-get-90-grams-of-protein-daily-without-mutton-chicken-or-eggs-kidv26o)
-- [ಯಲಹಂಕ, ಆನೇಕಲ್ ತಾಲೂಕುಗಳು ಈಗ ಬೆಂಗಳೂರು ಜಲಮಂಡಳಿ ವ್ಯಾಪ್ತಿಗೆ, ಆದ್ರೆ ಸದ್ಯಕ್ಕೆ ಕಾವೇರಿ ನೀರಿಲ್ಲ](https://kannada.asianetnews.com/bengaluru-urban/bwssb-jurisdiction-expanded-yelahanka-anekal-bengaluru-urban-san/articleshow-dbuhvfo)
-- ['ದಿ ಪ್ಯಾರಡೈಸ್' ಟ್ರೋಲ್‌ಗಳನ್ನು ಎಂಜಾಯ್ ಮಾಡ್ತಿದ್ದೀನಿ': ಟೀಕೆಗಳಿಗೆ ನಾನಿ ಎಮೋಷನಲ್ ರಿಯಾಕ್ಷನ್](https://kannada.asianetnews.com/entertainment/tollywood-natural-star-nani-promises-to-learn-from-mistakes-after-the-paradise-trolls-and-box-office-gvd/articleshow-vl6ql6l)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ಡೇಟಾ ಇರದ ವಾಯ್ಸ್ ಪ್ಲಾನ್ ಮಾತ್ರ ಇರಬೇಕು: ಟ್ರಾಯ್ ಹೊಸ ರೂಲ್ಸ್​ನಿಂದ ನಿಟ್ಟುಸಿರು ಬಿಟ್ಟ ಜನರು](https://tv9kannada.com/business/airtel-jio-vi-voice-sms-only-recharge-plans-trai-1242765.html)
+- [ಪಿತೃಪಕ್ಷದಲ್ಲಿ ಹೊಸ ಬಟ್ಟೆ ಖರೀದಿಸಬಹುದೇ? ಶಾಸ್ತ್ರಗಳು ಮತ್ತು ಸಂಪ್ರದಾಯ ಹೇಳುವುದೇನು?](https://tv9kannada.com/spiritual/pitru-paksha-new-clothes-allowed-understanding-shradha-and-traditions-1242762.html)
+- [ನವರಾತ್ರಿ, ದೀಪಾವಳಿ ಹಿನ್ನೆಲೆ ಬೆಂಗಳೂರಿನಿಂದ ಮುಂಬೈ, ವಿಶಾಖಪಟ್ಟಣಂ ನಡುವೆ ವಿಶೇಷ ರೈಲುಗಳ ಸಂಚಾರ](https://tv9kannada.com/karnataka/bengaluru/diwali-and-navratri-festival-rush-railways-announces-special-trains-connecting-bengaluru-with-mumbai-and-visakhapatnam-1242761.html)
+- [ಲೀಕ್ ಆದ ನನ್ನ ಖಾಸಗಿ ವಿಡಿಯೋನ ವಾಚ್​​ಮನ್ ಕೂಡ ನೋಡುತ್ತಿದ್ದ; ರಾಧಿಕಾ ಆಪ್ಟೆ](https://tv9kannada.com/entertainment/leaked-intimate-video-played-by-security-guard-radhika-apte-reveals-mental-stress-and-fear-1242758.html)
 - [ಭಾದ್ರಪದ ಹುಣ್ಣಿಮೆಯಂದು ಈ ತಪ್ಪುಗಳನ್ನು ಮಾಡಬೇಡಿ! ವ್ರತದ ಪೂರ್ಣ ಫಲ ಪಡೆಯಲು ಹೀಗೆ ಮಾಡಿ](https://tv9kannada.com/spiritual/bhadrapada-purnima-2026-vrata-vidhi-significance-and-fasting-rules-for-peace-and-prosperity-1242748.html)
 - [ಮೈಸೂರು ದಸರಾ 2026: ಕೊಪ್ಪಳದ ಗವಿಮಠದ ಅಭಿನವ ಗವಿಸಿದ್ದೇಶ್ವರರಿಗೂ ಮೊದಲು ದಸರಾ ಉದ್ಘಾಟಿಸಿದ್ದ ಮಠಾಧೀಶರು ಇವರು!](https://tv9kannada.com/videos/koppala-gavi-math-seer-to-inaugurate-mysuru-dasara-2026-after-14-year-gap-1242755.html)
 - [ಇಬ್ಬರು ಇದ್ದರೂ, ಇಲ್ಲದಿದ್ದರೂ ಕ್ರಿಕೆಟ್ ಇರುತ್ತೆ: ಸೆಹ್ವಾಗ್ ಖಡಕ್ ಮಾತು!](https://tv9kannada.com/sports/cricket-news/no-kohli-rohit-no-problem-sehwag-on-crickets-future-1242739.html)
 - [ಕೊಪ್ಪಳ: ದಸರಾ ಉದ್ಘಾಟಕರಾಗಿರುವ ಗವಿ ಸಿದ್ದೇಶ್ವರ ಶ್ರೀಗಳಿಗೆ ಬಹಿರಂಗ ಪತ್ರ; ಕಾರ್ಖಾನೆಗಳ ಮಾಲಿನ್ಯ ತಡೆಗೆ ಒತ್ತಡ ತರಲು ಮನವಿ](https://tv9kannada.com/karnataka/koppal/environmental-activists-write-open-letter-to-gavisiddeshwara-swamiji-over-koppal-pollution-1242740.html)
 - [ಕಾಂಗೋದಲ್ಲಿ ವಿಮಾನ ಪತನಗೊಂಡು 14 ಮಂದಿ ದುರ್ಮರಣ: ಇಬ್ಬರು ಹಿರಿಯ ಸೇನಾಧಿಕಾರಿಗಳೂ ಸಾವು](https://tv9kannada.com/world/congo-plane-crash-kills-14-including-two-top-senior-army-generals-near-kenge-1242742.html)
 - [ರಿಲೀಸ್​ಗೂ ಮೊದಲೇ ‘ಜೈಲರ್ 2’ ಹವಾ; ತೆಲುಗು ಹಕ್ಕು ಬರೋಬ್ಬರಿ 45 ಕೋಟಿಗೆ ಸೇಲ್](https://tv9kannada.com/entertainment/jailer-2-telugu-theatrical-rights-sold-for-rs-45-crore-ahead-of-grand-dasara-release-1242738.html)
-- [Apple Pay: ಭಾರತಕ್ಕೆ ಬರಲಿದೆ ಆಪಲ್ ಪೇ; ಯುಪಿಐ ಇಲ್ಲದೆ ಇದು ಹೇಗೆ ಕೆಲಸ ಮಾಡಲಿದೆ?](https://tv9kannada.com/business/apple-pay-india-launch-october-2026-how-it-works-1242736.html)
-- [ಮತ್ತೆ ಗಾಯಾಳು… ‘ಎ’ ಸರಣಿಗೂ ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯ ಅಲಭ್ಯ!](https://tv9kannada.com/sports/cricket-news/hardik-pandya-set-to-miss-the-india-a-series-against-australia-a-1242729.html)
-- [ಮುಚ್ಚುವ ಹಂತದಲ್ಲಿದ್ದ ಹೋಟೆಲ್ ಅದೃಷ್ಟ ಬದಲಿಸಿದ ಅನುಷ್ಕಾ-ವಿರಾಟ್ ನೀಡಿದ ಆರ್ಡರ್; ಈಗ ಕೋಟಿಯ ಒಡೆಯ](https://tv9kannada.com/entertainment/how-virat-kohli-and-anushka-sharma-saved-a-struggling-mumbai-eatery-delhi-se-from-closure-1242732.html)
-- [Weighted Blanket: ಹೆಚ್ಚು ತೂಕ ಹೊಂದಿರುವ ಹೊದಿಕೆ ನಿಜಕ್ಕೂ ನಿದ್ದೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆಯೇ?](https://tv9kannada.com/lifestyle/weighted-blanket-benefits-sleep-quality-1242730.html)
 
 **Prajavani**
 - [ಪಾಡ್‌ಕಾಸ್ಟ್: ಹಣಕಾಸು ವಿವೇಕಕ್ಕಿದು ಸಕಾಲ, ಆರ್ಥಿಕ ನೀಲನಕ್ಷೆ ಸರ್ಕಾರಕ್ಕೆ ಅಗತ್ಯ](https://www.prajavani.net/op-ed/podcast/karnataka-government-financial-roadmap-economic-wisdom-podcast-4288877)
@@ -148,6 +148,7 @@
 - [ತಮಿಳುನಾಡಿಗೆ ನೀರು: ರೈತರಿಂದ ರಸ್ತೆ ತಡೆ](https://www.prajavani.net/district/mandya/mandya-cauvery-water-protest-farmers-road-block-4288191)
 
 **eedina**
+- [ಅರ್ನಾಬ್ ಗೋಸ್ವಾಮಿ ವಿರುದ್ಧ ₹45 ಕೋಟಿ ಮಾನನಷ್ಟ ಮೊಕದ್ದಮೆ ಹೂಡಿದ ಕಾಂಗ್ರೆಸ್ ಸಂಸದ](https://eedina.com/?p=766395)
 - [ಲಾಪತಾ ಲೇಡೀಸ್: ಮನೆ ಒಳಗೂ ಹೊರಗೂ ಕಳೆದುಹೋಗುವ ಮಹಿಳೆಯರ ಹುಡುಕಾಟ](https://eedina.com/?p=766223)
 - [‘ಅಟ್ಟಿಕಾ ಗೋಲ್ಡ್’ ಕಚೇರಿಗಳ ಮೇಲೆ ದಾಳಿ: ನಗದು, ಆಭರಣ ಜಪ್ತಿ](https://eedina.com/?p=766388)
 - [ಹಾಸನ | ಸಹಕಾರ ಸಂಘದ ಏಳಿಗೆಗೆ ಎಲ್ಲರೂ ಕೈಜೋಡಿಸಿ: ಜಗದೀಶ್](https://eedina.com/?p=766389)
@@ -157,38 +158,37 @@
 - [ಉಡುಪಿ | ಶಾರ್ಜಾದಲ್ಲಿ ಹತ್ಯೆಗೀಡಾದ ಅಲ್ವಿನ್ ಪ್ರಕಾಶ್ ಕುಂದರ್‌ಗೆ ಹುಟ್ಟೂರಿನಲ್ಲಿ ಅಂತಿಮ ನಮನ](https://eedina.com/?p=766358)
 - [ಚಿಕ್ಕಮಗಳೂರು | “ಬಾಲಕಾರ್ಮಿಕ ಪದ್ಧತಿಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನಿರ್ಮೂಲನೆ”ಗೊಳಿಸಬೇಕು; ನ್ಯಾ. ರವೀಂದ್ರ ಹೆಗಡೆ](https://eedina.com/?p=766352)
 - [ಲೈಂಗಿಕ ಕಿರುಕುಳ; ಬಿಜೆಪಿ ನಾಯಕ ಬ್ರಿಜ್ ಭೂಷಣ್ ಸಿಂಗ್ ಖುಲಾಸೆ ಪ್ರಶ್ನಿಸಿ ಕೋರ್ಟ್ ಮೆಟ್ಟಿಲೇರಿದ ಮಹಿಳಾ ಕುಸ್ತಿಪಟುಗಳು](https://eedina.com/?p=766338)
-- [ಬೆಳಗಾವಿ | ಅಕ್ಟೋಬರ್ 4ರಂದು ಶಿವಾಜಿ ಕಾಗಣಿಕರ್ ಕುರಿತು ಮೂರು ಕೃತಿಗಳ ಲೋಕಾರ್ಪಣೆ](https://eedina.com/?p=766341)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (6.5)
+- India (7.8)
 - Emkay Global Financial (5.0)
 - Trump (4.5)
-- Asian Games (3.0)
+- Centre (4.2)
+- Asian Games (4.0)
 - ICICI Securities (3.0)
 - target (3.0)
-- Centre (2.9)
+- Hormuz (2.9)
 - Bengaluru (2.9)
+- Pakistan (2.6)
 - LIVE (2.6)
 - Hyderabad (2.6)
 - Jaishankar (2.6)
 - US-Iran (2.6)
 - Tehran's (2.6)
-- What (2.6)
-- Buy Bajaj Finance (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [IND vs WI: शुभमन गिल की चोट ने बढ़ा दी टीम इंडिया की टेंशन, मोहम्‍मद सिराज की गेंद पर चोटिल हुए भारतीय कप्‍तान](https://www.jagran.com/cricket/headlines-shubman-gill-injury-scare-ahead-of-1st-odi-against-west-indies-40385205.html)
-- [Attacks on commercial shipping in Gulf, Red Sea simply indefensible: Jaishankar as India and Liberia announce ‘group of friends’](https://www.thehindu.com/news/national/attacks-on-commercial-shipping-in-gulf-red-sea-simply-indefensible-jaishankar/article71509676.ece)
-- [હૂતીઓ સામે લડી રહેલા સાઉદીને મોટી રાહત... US-પાકે. સાથ ન આપ્યો તો ફ્રાન્સ આવ્યું મેદાનમાં, રાષ્ટ્રપ્રમુખે કરી મોટી જાહેરાત](https://www.gujaratsamachar.com/news/ahmedabad/big-relief-for-saudis-fighting-against-houthis-us-pak-if-they-dont-support-france-will-come-to-the-fore-president-makes-big-announcement-10051450778)
-- [गणपती विसर्जनावेळी सावळ्याच्या भूतकाळाचा उलगडा; स्वामींच्या लीलेने समोर येणार मोठं सत्य!](https://www.lokmat.com/filmy/television/jai-jai-swami-samarth-sawlyas-biggest-secret-to-be-revealed-during-ganpati-visarjan-a-a603/)
-- [By Shaping and Shrinking Light, Engineers Alter a Material’s Magnetic Properties](https://www.newswise.com/articles/by-shaping-and-shrinking-light-engineers-alter-a-material-s-magnetic-properties)
-- [ટ્રમ્પનું પ્રમુખપદ નવેમ્બરમાં જ ખતમ થશે ? અમેરિકાના અગ્રીમ નેતાઓનો ગજબનો ધડાકો](https://www.gujaratsamachar.com/news/international/will-trumps-presidency-end-in-november-a-huge-outburst-from-americas-top-leaders-62427546689)
-- [World Lung Day: Mumbai’s Air Pollution Raises Respiratory Health Concerns](https://theindianpractitioner.com/world-lung-day-mumbais-air-pollution-raises-respiratory-health-concerns/)
-- [Rohit Sharma: వెస్టిండీస్ సిరీస్‌లో రోహిత్ విఫలమైతే.. న్యూజిలాండ్ సిరీస్‌కు కష్టమేనా..?](https://www.hmtvlive.com/telugu-news/sports/rohit-sharma-west-indies-odi-series-2026-future-190974)
-- [Arjun Das: డేటింగ్ యాప్స్ చుట్టూ ప్రేమకథ.. క్రేజీగా '#లవ్' సిరీస్ ట్రైలర్!](https://telugu.news18.com/news/movies/two-dating-apps-one-love-story-arjun-das-love-series-trailer-is-out-bh-3233572.html)
-- [ગાંધીનગરમાં ભાજપની 32 ઉમેદવારોની યાદી જાહેર, નેતાઓના ફેવરેટ નાઈ અને મનપા ફોટોગ્રાફરને મળી ટિકિટ](https://www.etvbharat.com/gu/state/gandhinagar-bjp-gives-ticket-to-barber-and-photographer-in-first-list-of-32-candidates-gjs26092507140)
+- [विनोद कांबळीच्या व्हिडीओने पुन्हा चिंता वाढवली; वृद्धाश्रमात दिसले, सेंटरच्या सुविधांबद्दलही सांगितलं, म्हणाले…](https://www.tv9marathi.com/sports/cricket-news/vinod-kambli-shares-emotional-video-from-old-age-home-care-centre-fans-worried-about-his-well-being-1764292.html)
+- ["Terrorist Country Asking Me?" S Jaishankar Rips Into Pak Journalist's Question](https://www.ndtv.com/india-news/terrorist-country-asking-me-s-jaishankar-rips-into-pak-journalists-question-12098881)
+- [New CBSE chairman Mandeep Bhandari: From MBBS gold medallist to top IAS officer](https://www.indiatoday.in/education-today/story/ias-officer-mandeep-bhandari-named-new-cbse-chairman-months-after-re-evaluation-row-3003146-2026-09-25)
+- ['വി മുരളീധരൻ എനിക്കെതിരെ പരാതി കൊടുത്തെന്ന് തെളിയിച്ചാൽ പൊതുപ്രവർത്തനം നിർത്തും'; കർത്താ മാസപ്പടി ഡയറിയിൽ ഷോൺ ജോർജ്](https://malayalam.news18.com/news/kerala/if-v-muraleedharan-complaint-against-me-will-quit-political-life-shone-george-on-kartha-masappadi-diary-nkn-ws-l-790057.html)
+- [Google Health App Adds Passive Blood Pressure, Metabolic Tracking For Pixel Watch Users](https://www.ndtvprofit.com/technology/google-health-app-adds-passive-blood-pressure-metabolic-tracking-for-pixel-watch-users-12097932)
+- [IAS officer Mandeep Bhandari appointed new CBSE chairman; 3rd to hold post in 4 months](https://www.hindustantimes.com/india-news/ias-officer-mandeep-bhandari-named-new-cbse-chairman-osm-evaluation-row-101790350701809.html)
+- [సార్.. నోరు తెరవండి.. డీఎంకే అధినేత స్టాలిన్‌‌పై సీఎం విజయ్ ఫైర్](https://www.andhrajyothy.com/2026/national/tamil-nadu-cm-vijay-criticises-dmk-stalin-over-madurantakam-bypoll-and-pocso-case-pcs-1561326.html)
+- [AAI Chairman transferred to Rural Development Department](https://www.thehindubusinessline.com/economy/logistics/aai-chairman-transferred-to-rural-development-department/article71509552.ece)
+- [Indraadip Dasgupta: মাতৃহারা টলি পরিচালক-সঙ্গীত পরিচালক ইন্দ্রদীপ দাশগুপ্ত, দুর্গাপুজোর আগেই দুঃসংবাদ](https://bengali.abplive.com/entertainment/indraadip-dasgupta-mother-demise-entertainment-news-tollywood-1194160)
+- [পাঁচ মিনিটেই 70 শতাংশ চার্জ হবে আপনার গাড়ি, চমকে দেওয়ার মতো প্রযুক্তি আনল চিনের সংস্থা](https://www.etvbharat.com/bn/technology/with-5-minute-ultrafast-charging-chinese-auto-companies-race-ahead-on-ev-technology-wbs26092507999)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
