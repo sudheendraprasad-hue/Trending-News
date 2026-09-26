@@ -1,15 +1,15 @@
-# India Trending Report — 2026-09-26 21:33:55
+# India Trending Report — 2026-09-26 22:01:53
 
 ## Google Trends (India) — top trending searches
-1. [england national football team vs spain national football team standings](https://trends.google.com/trending/rss?geo=IN)
-2. [james garner](https://trends.google.com/trending/rss?geo=IN)
-3. [mikel oyarzabal](https://trends.google.com/trending/rss?geo=IN)
-4. [usa vs peru](https://trends.google.com/trending/rss?geo=IN)
-5. [sloop](https://trends.google.com/trending/rss?geo=IN)
+1. [james garner](https://trends.google.com/trending/rss?geo=IN)
+2. [mikel oyarzabal](https://trends.google.com/trending/rss?geo=IN)
+3. [usa vs peru](https://trends.google.com/trending/rss?geo=IN)
+4. [sloop](https://trends.google.com/trending/rss?geo=IN)
+5. [carlos alcaraz](https://trends.google.com/trending/rss?geo=IN)
 6. [north macedonia vs switzerland](https://trends.google.com/trending/rss?geo=IN)
-7. [carlos alcaraz](https://trends.google.com/trending/rss?geo=IN)
-8. [czechia vs croatia](https://trends.google.com/trending/rss?geo=IN)
-9. [oman vs saudi arabia](https://trends.google.com/trending/rss?geo=IN)
+7. [czechia vs croatia](https://trends.google.com/trending/rss?geo=IN)
+8. [oman vs saudi arabia](https://trends.google.com/trending/rss?geo=IN)
+9. [spain vs england](https://trends.google.com/trending/rss?geo=IN)
 10. [photo](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
@@ -17,13 +17,13 @@
 - [Russia backs India's claim to UNSC seat, firmly shuts door on Germany & Japan](https://timesofindia.indiatimes.com/world/us/russia-backs-indias-claim-to-unsc-seat-firmly-shuts-door-on-germany-japan/articleshow/134508102.cms)
 - ['It's for perpetrator of terrorism to mend its ways': Jaishankar takes aim at Pak in UN](https://timesofindia.indiatimes.com/india/its-for-perpetrator-of-terrorism-to-mend-its-ways-jaishankar-takes-aim-at-pakistan-in-un-speech/articleshow/134508397.cms)
 - [BJP allies back EC, say opposition attacks undermine democracy](https://timesofindia.indiatimes.com/india/bjp-allies-close-ranks-flay-oppn-for-undermining-democracy/articleshow/134510147.cms)
-- [PM Modi, Shah put CEC in charge of match-fixing elections: Rahul](https://timesofindia.indiatimes.com/india/modi-shah-put-cec-in-charge-of-match-fixing-elections-rahul/articleshow/134510130.cms)
-- ['India calls for restraint': EAM on ship attacks in Gulf, seafarers at UNGA](https://timesofindia.indiatimes.com/india/india-calls-for-restraint-jaishankar-on-ship-attacks-in-gulf-seafarers-at-unga-top-quotes/articleshow/134508304.cms)
+- [10 women dead in 2 months: South Africa probes possible links in Ekurhuleni killings](https://timesofindia.indiatimes.com/world/rest-of-world/10-women-dead-in-2-months-south-africa-probes-possible-links-in-ekurhuleni-killings/articleshow/134510157.cms)
 - [Florida used robot rabbits to hunt Burmese pythons threatening the Everglades](https://timesofindia.indiatimes.com/technology/tech-news/when-a-district-in-florida-used-robot-rabbits-to-eliminate-growing-population-of-burmese-pythons-and-protect-everglades/articleshow/134385404.cms)
-- [80 aircraft, 40 countries: IAF’s Tarang Shakti air exercise kicks off in Jodhpur](https://timesofindia.indiatimes.com/defence/news/80-aircraft-40-countries-1500-personnel-iafs-biggest-air-exercise-tarang-shakti-kicks-off-in-jodhpur-us-france-envoys-hail-multinational-drill/articleshow/134510091.cms)
+- [PM Modi, Shah put CEC in charge of match-fixing elections: Rahul](https://timesofindia.indiatimes.com/india/modi-shah-put-cec-in-charge-of-match-fixing-elections-rahul/articleshow/134510130.cms)
 - [He attested brother’s sale deed; HC cites oral partition, family loses 3.5 acres claim](https://timesofindia.indiatimes.com/business/india-business/he-attested-brothers-sale-deed-decades-ago-madras-hc-cites-it-as-evidence-of-oral-partition-rejects-familys-claim-to-3-5-acres-of-ancestral-land/articleshow/134507211.cms)
-- [India, Bangladesh look towards Rahman visit in November](https://timesofindia.indiatimes.com/india/india-bangladesh-look-towards-rahman-visit-in-nov/articleshow/134510003.cms)
-- [INDIA bloc to meet on Sept 30, CEC's ouster on top of agenda](https://timesofindia.indiatimes.com/india/india-bloc-to-meet-on-sept-30-cecs-ouster-on-top-of-agenda/articleshow/134510117.cms)
+- [Higher EPF wage limit: Monthly PF contributions rise to Rs 3,917](https://timesofindia.indiatimes.com/india/higher-epf-wage-limit-monthly-pf-contributions-rise-to-3917/articleshow/134510271.cms)
+- ['India calls for restraint': EAM on ship attacks in Gulf, seafarers at UNGA](https://timesofindia.indiatimes.com/india/india-calls-for-restraint-jaishankar-on-ship-attacks-in-gulf-seafarers-at-unga-top-quotes/articleshow/134508304.cms)
+- [80 aircraft, 40 countries: IAF’s Tarang Shakti air exercise kicks off in Jodhpur](https://timesofindia.indiatimes.com/defence/news/80-aircraft-40-countries-1500-personnel-iafs-biggest-air-exercise-tarang-shakti-kicks-off-in-jodhpur-us-france-envoys-hail-multinational-drill/articleshow/134510091.cms)
 
 **NDTV**
 - [Judicial System Has Long Focused On Accused And Offence, Says Chief Justice](https://www.ndtv.com/india-news/judicial-system-has-long-focused-on-accused-and-offence-chief-justice-surya-kant-12103256#publisher=newsstand)
@@ -62,6 +62,7 @@
 - [ಕಬಡ್ಡಿಯಲ್ಲಿ `ಡಬಲ್‌ ಚಿನ್ನ', ಮ್ಯಾರಥಾನ್ ನಲ್ಲಿ ಐತಿಹಾಸಿಕ ರಜತ!; ಶನಿವಾರ ಒಂದೇ ದಿನ 7 ಪದಕ ಬಾಚಿದ ಭಾರತ](https://vijaykarnataka.com/sports/other-sports/double-gold-in-kabaddi-historic-silver-in-marathon-india-bags-7-medals-on-saturday-/articleshow/134506725.cms)
 
 **The Hindu**
+- [Nandigram and Rejinagar bypoll: Ballot without the battle](https://www.thehindu.com/news/national/west-bengal/nandigram-and-rejinagar-bypoll-ballot-without-the-battle/article71512622.ece)
 - [‘Justice must find its way to the citizen’: CJI Surya Kant](https://www.thehindu.com/news/national/justice-must-find-its-way-to-the-citizen-cji-surya-kant/article71513548.ece)
 - [Trade unions, farm outfits join chorus to remove CEC Gyanesh Kumar](https://www.thehindu.com/news/national/trade-unions-farm-outfits-join-chorus-to-remove-cec-gyanesh-kumar/article71513513.ece)
 - [4 killed, 5 injured as metal container carrying gelatin sticks, attached to tractor, explodes in Maharashtra’s Yavatmal district: Police](https://www.thehindu.com/news/cities/mumbai/4-killed-5-injured-as-metal-container-carrying-gelatin-sticks-attached-to-tractor-explodes-in-maharashtras-yavatmal-district-police/article71514097.ece)
@@ -71,7 +72,6 @@
 - [Education Department official urges teachers to focus on improving learning outcomes](https://www.thehindu.com/news/national/andhra-pradesh/education-department-official-urges-teachers-to-focus-on-learning-outcomes/article71513187.ece)
 - [HDK asks ECI to reveal facts](https://www.thehindu.com/news/national/karnataka/hdk-asks-eci-to-reveal-facts/article71513481.ece)
 - [T.N. government to appeal against Ponmudy’s acquittal in ₹28.37-crore red sand quarrying case, ED tells Madras HC](https://www.thehindu.com/news/national/tamil-nadu/tn-government-to-appeal-against-ponmudys-acquittal-in-2837-crore-red-sand-quarrying-case-ed-tells-madras-hc/article71512675.ece)
-- [Sanitation workers to receive ₹50 as food allowance daily](https://www.thehindu.com/news/cities/chennai/sanitation-workers-to-receive-50-as-food-allowance-daily/article71513707.ece)
 
 **Livemint**
 - [Trump renews Russia-Ukraine peace push, urges Zelensky, Putin to ‘make a deal... settle’](https://www.livemint.com/news/us-news/trump-renews-russia-ukraine-peace-push-urges-zelensky-putin-to-make-a-deal-settle-11790455929199.html)
@@ -125,9 +125,7 @@
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್ 8ನೇ ದಿನದಂದು ಭಾರತಕ್ಕೆ 7 ಪದಕ; 30 ಕ್ಕೇರಿದ ಪದಕಗಳ ಸಂಖ್ಯೆ](https://tv9kannada.com/sports/asian-games-2026-india-day8-7-medals-kabaddi-gold-marathon-silver-1243014.html)
 - [‘ಅದು ಮುರಿದುಬಿದ್ದ ಮನೆ’; ಗೋವಿಂದ-ಸುನೀತಾ ಸಂಸಾರದ ಬಗ್ಗೆ ಕೋಮಲ್ ರಾನಿ ತಿರುಗೇಟು](https://tv9kannada.com/entertainment/bollywood/govinda-sunita-ahuja-dispute-actress-komal-rani-swarnkar-hits-back-at-homebreaker-allegations-1243013.html)
 
-**Prajavani**
-- [ಪ್ರೊ. ಶ್ರೀನಿವಾಸ ತೋಫಖಾನೆ ಅವರ ಶತಮಾನದ ನೆನಪು, ನಮನ ಕಾರ್ಯಕ್ರಮ](https://www.prajavani.net/district/dharwad/srinivasa-tophakhane-centenary-celebration-geeta-ramayana-book-release-hubballi-4290314)
-- [ಚುನಾವಣಾ ಆಯೋಗ ವಿವಾದ: ಸೆ. 30ಕ್ಕೆ ‘ಇಂಡಿಯಾ’ ಮೈತ್ರಿಕೂಟದ ಸಭೆ](https://www.prajavani.net/news/india-news/india-alliance-meeting-election-commission-controversy-delhi-4289711)
+**Prajavani** — _unavailable_
 
 **eedina**
 - [ಕಲಬುರಗಿ | ಪ್ರೀತಿಸಿದ ಯುವತಿಯನ್ನೇ ಮದುವೆಯಾಗಲು ಪಟ್ಟು: ಟವರ್ ಏರಿದ ಯುವಕ!](https://eedina.com/?p=766771)
@@ -144,8 +142,7 @@
 ## Cross-source trending keywords (derived from headlines above)
 - Jaishankar (6.5)
 - UNGA (5.8)
-- India (3.9)
-- INDIA (2.9)
+- India (2.6)
 - Uttarakhand (2.6)
 - Iran (2.6)
 - September (2.6)
@@ -155,22 +152,23 @@
 - Pakistan (1.9)
 - Russia (1.6)
 - India's (1.6)
+- INDIA (1.6)
 - Maharashtra (1.6)
 - UNSC (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [``தன்வீட்டுப் பெண்களையே பாதுகாக்க முடியாதவர் முதல்வர் விஜய்" - திமுக பரந்தாமன் பேட்டி](https://www.vikatan.com/government-and-politics/paranthaman-has-responded-to-cm-vijays-speech-in-maduranthakam)
-- [भारत के सातवें दिन के स्कोर, अपडेट और रिजल्ट जानें](https://www.olympics.com/hi/news/asian-games-2026-live-scores-updates-results-india-september-26)
-- [Heard Screams From Girls Hostel](https://www.ndtv.com/india-news/ghost-rumour-triggers-massive-protests-at-chitkara-university-in-patiala-heard-screams-from-girls-hostel-12101303)
-- [Modi gave more people energy access than anyone in history: Australian PM](https://www.hindustantimes.com/india-news/narendra-modi-gave-more-people-energy-access-than-anyone-in-history-australian-pm-anthony-albanese-india-101790408191952.html)
-- [Thai capital Bangkok declared disaster zone amid widespread flooding](https://www.cnn.com/2026/09/26/asia/bangkok-flooding-disaster-zone-thailand-intl)
-- [Virat Kohli: तो अजून शिकतोय, त्याच्याकडे योग्य असं… विराट कोहलीनं कॅप्टन शुभमन गिलबद्दल केलेल्या विधानाची चर्चा](https://www.tv9marathi.com/sports/virat-kohli-statement-on-how-shubman-gill-handle-team-after-leading-team-india-1764748.html)
-- [ગુજરાતના પાડોશી રાજ્યમાં 75% હિસ્સામાં દુષ્કાળ, 32થી વધુ જિલ્લામાં પાણીની ભારે અછત](https://www.gujaratsamachar.com/news/national/drought-in-75percent-of-gujarats-neighboring-state-severe-water-shortage-in-more-than-32-districts-65137634851)
-- [दिल्ली: काली माता मंदिर परिसर में मिला कंकाल, फॉरेंसिक जांच से खुलेगा राज!](https://www.aajtak.in/india/delhi/story/delhi-minto-road-kali-mata-temple-suspected-human-skeleton-cleanliness-drive-rpti-2653866-2026-09-26)
-- [Ticket no. TL 360615. wins ₹30 crore first prize of Keralam government’s Thiruvonam bumper lottery](https://www.thehindu.com/news/national/kerala/ticket-no-tl-360615-wins-30-crore-first-prize-of-keralam-governments-thiruvonam-bumper-lottery/article71512269.ece)
-- [Watch: Eggs hurled, car window smashed as Kunal Ghosh heads to Mamata rally](https://timesofindia.indiatimes.com/india/watch-eggs-hurled-car-window-smashed-as-kunal-ghosh-heads-to-mamata-rally/articleshow/134501381.cms)
+- [தேர்தல் ஆணையர் விலகக் கோரிக்கை; காங்கிரஸ் கட்சி நாடு தழுவிய போராட்டம்](https://www.tamilmurasu.com.sg/india/demand-election-commissioners-resignation-congress-partys-nationwide-protest)
+- [Mamata loyalist MLA Kunal Ghosh's car attacked with stones, eggs in Bengal's Hooghly](https://www.indiatoday.in/india/story/west-bengal-kunal-ghosh-car-attack-hooghly-mamata-banerjee-rally-uttarpara-3003510-2026-09-26)
+- [कल का मौसम 27 सितंबर: 14 घंटे के अंदर 19 राज्यों में मूसलाधार बारिश का अलर्ट, 85 की स्पीड से हवा; IMD अपडेट](https://navbharattimes.indiatimes.com/india/tomorrow-weather-27-september-2026-thunderstorm-and-heavy-rain-alert-in-19-states-within-14-hours-wind-speed-up-to-85-kmph-delhi-up-bihar-temperature/articleshow/134501645.cms)
+- [Vinod Kambli Viral Video: Video: विनोद कांबळीचा वृद्धाश्रमातील व्हिडिओ व्हायरल; म्हणाला, 'मला इथं आल्यापासून..'](https://marathi.abplive.com/sports/vinod-kambli-latest-video-viral-on-social-media-he-is-presently-at-an-elderly-care-centre-in-thane-1440302)
+- [ஜெம் வீரமணி பாலியல் வழக்கு: "FIR பதிவு செய்ததே பேரம் பேசுவதற்காகத்தான்" - அமைச்சர் நிர்மல் குமார்](https://www.vikatan.com/government-and-politics/fir-against-gem-veeramani-registered-for-purpose-of-bargaining-minister-nirmal-kumar)
+- ['मुझे नजरबंद कर दिया गया', रैली में जाने से पहले भड़कीं ममता बनर्जी, कहा- 'बीजेपी के गुंडों...'](https://www.abplive.com/news/india/mamata-banerjee-tmc-i-am-placed-under-house-arrest-srirampur-court-rally-3194067)
+- [ഒമാനിൽ ജീവനക്കാർക്ക് നേരെ വിദേശികൾ പണമെറിഞ്ഞതായി പ്രചരിച്ച വീഡിയോ; വിശദീകരണവുമായി അധികൃതർ](https://www.reporterlive.com/gulf/oman/2026/09/26/oman-police-explanation-on-viral-money-throwing-videos)
+- [हूती हमलों से मचा हड़कंप, सऊदी के साथ खड़े हुए तुर्की-पाकिस्तान, जानें बैठक में क्या हुआ](https://www.aajtak.in/world/story/saudi-arabia-pakistan-turkiye-defence-officials-assist-riyadh-wake-of-houthi-attack-dskc-2653885-2026-09-26)
+- [Virat Kohli: ২০২৭-এই ইতি? নিজের ভবিষ্যৎ নিয়ে মুখ খুললেন বিরাট কোহলি](https://bengali.abplive.com/sports/cricket/virat-kohli-opens-up-on-his-future-plan-and-odi-world-cup-2027-1194237)
+- [Viral Video: ఒకప్పుడు టీమిండియా స్టార్.. ఇప్పుడు కేర్ సెంటర్‌లో.. ఆ వీడియో చూసి చలించిపోయిన ఫ్యాన్స్](https://tv9telugu.com/sports/cricket-news/vinod-kambli-viral-video-former-india-cricketer-spotted-at-care-centre-fans-express-concern-1920171.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
