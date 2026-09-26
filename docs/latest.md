@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-26 00:02:03
+# India Trending Report — 2026-09-26 00:40:25
 
 ## Google Trends (India) — top trending searches
-1. [fabrizio romano](https://trends.google.com/trending/rss?geo=IN)
-2. [క్రికెట్](https://trends.google.com/trending/rss?geo=IN)
-3. [தமிழ் நாடு](https://trends.google.com/trending/rss?geo=IN)
-4. [jpn vs nep](https://trends.google.com/trending/rss?geo=IN)
-5. [egypt national football team vs angola national football team standings](https://trends.google.com/trending/rss?geo=IN)
-6. [rhiti tiwari](https://trends.google.com/trending/rss?geo=IN)
-7. [realme 16 pro 5g harry potter edition](https://trends.google.com/trending/rss?geo=IN)
-8. [italy national football team vs belgium national football team standings](https://trends.google.com/trending/rss?geo=IN)
-9. [esteban lepaul](https://trends.google.com/trending/rss?geo=IN)
-10. [will smith](https://trends.google.com/trending/rss?geo=IN)
+1. [बारिश मौसम](https://trends.google.com/trending/rss?geo=IN)
+2. [today weather](https://trends.google.com/trending/rss?geo=IN)
+3. [fabrizio romano](https://trends.google.com/trending/rss?geo=IN)
+4. [japan vs nepal](https://trends.google.com/trending/rss?geo=IN)
+5. [క్రికెట్](https://trends.google.com/trending/rss?geo=IN)
+6. [தமிழ் நாடு](https://trends.google.com/trending/rss?geo=IN)
+7. [egypt national football team vs angola national football team standings](https://trends.google.com/trending/rss?geo=IN)
+8. [rhiti tiwari](https://trends.google.com/trending/rss?geo=IN)
+9. [realme 16 pro 5g harry potter edition](https://trends.google.com/trending/rss?geo=IN)
+10. [italy national football team vs belgium national football team standings](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Why Trump's F-35 deal with Saudi Arabia unsettles Israel, opens big door for China](https://timesofindia.indiatimes.com/world/middle-east/trumps-48-f-35-jets-for-saudi-arabia-why-is-israel-uneasy-and-china-a-key-concern/articleshow/134479408.cms)
+- [‘Choice now rests with US’: Iran offers America 7-day plan to reopen Strait of Hormuz](https://timesofindia.indiatimes.com/world/middle-east/choice-now-rests-with-us-iran-offers-america-7-day-plan-to-reopen-strait-of-hormuz/articleshow/134495234.cms)
 - [Watch: Russian drones hit McDonald’s-linked warehouse in Ukraine, 5 killed](https://timesofindia.indiatimes.com/world/europe/ukraine-russia-strikes-mcdonalds-linked-warehouse-in-kyiv-as-5-killed-video/articleshow/134495142.cms)
+- [Why Trump's F-35 deal with Saudi Arabia unsettles Israel, opens big door for China](https://timesofindia.indiatimes.com/world/middle-east/trumps-48-f-35-jets-for-saudi-arabia-why-is-israel-uneasy-and-china-a-key-concern/articleshow/134479408.cms)
 - [14 killed in Congo plane crash, two senior military officials among dead](https://timesofindia.indiatimes.com/world/rest-of-world/14-killed-in-congo-plane-crash-two-senior-military-officials-among-dead/articleshow/134495193.cms)
-- [Trump embraces Xi as peer, alarms partners and critics](https://timesofindia.indiatimes.com/world/us/trump-embraces-xi-as-peer-alarms-partners-and-critics/articleshow/134489947.cms)
+- [Trump gets Supreme Court nod for voter citizenship checks weeks before midterms](https://timesofindia.indiatimes.com/world/us/supreme-court-allows-trump-administration-to-use-controversial-voter-citizenship-database-before-midterms/articleshow/134495290.cms)
 - [Zuckerberg’s $300m superyacht docks in Japan, gets neighbour who once wanted Meta out](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-300-million-superyacht-docked-in-japan-for-the-first-time-launchpad-has-a-new-neighbour-the-billionaire-who-once-wanted-meta-suspend-its-japanese-operations/articleshow/134478817.cms)
-- [India is kicking car safety into top gear with Bharat NCAP 2.0: What you need to know](https://timesofindia.indiatimes.com/india/5-ways-india-is-kicking-car-safety-into-top-gear-with-bharat-ncap-2-0-what-buyers-need-to-know/articleshow/134487081.cms)
+- [Trump embraces Xi as peer, alarms partners and critics](https://timesofindia.indiatimes.com/world/us/trump-embraces-xi-as-peer-alarms-partners-and-critics/articleshow/134489947.cms)
 - [Nebraska couple lost $59,759 home over $588 tax debt; compensation claim revived](https://timesofindia.indiatimes.com/world/us/a-nebraska-couple-lost-a-mortgage-free-home-assessed-at-59759-after-a-588-21-tax-debt-grew-to-5268-32-the-us-supreme-court-sent-the-case-back-and-nebraskas-top-court-revived-the-compensation-claim/articleshow/134486717.cms)
 - [Tom Brady vs Patrick Mahomes: Why TB12 Foundation can't match 15 and Mahomies](https://timesofindia.indiatimes.com/sports/nfl/news/tom-brady-vs-patrick-mahomes-why-tb12-foundation-could-never-match-15-and-the-mahomies/articleshow/134486061.cms)
-- [AFSPA extended in 3 NE states; Kuki group chief held in Aizawl](https://timesofindia.indiatimes.com/india/afspa-extended-in-3-ne-states-kuki-group-chief-held-in-aizawl/articleshow/134492482.cms)
-- [3 BJP allies say EC must clear air, can't lose people's trust](https://timesofindia.indiatimes.com/india/3-bjp-allies-say-ec-must-clear-air-cant-lose-peoples-trust/articleshow/134495064.cms)
+- [US Supreme Court rejects Trump-backed Missouri congressional map for third time](https://timesofindia.indiatimes.com/world/us/us-supreme-court-rejects-trump-backed-missouri-congressional-map-for-third-time/articleshow/134495273.cms)
 
 **NDTV**
 - [Chief Justice To Inaugurate India's 1st Victim Rights Centre Today In Patna](https://www.ndtv.com/india-news/chief-justice-surya-kant-to-inaugurate-indias-1st-victim-rights-centre-today-in-patna-12099765#publisher=newsstand)
@@ -38,6 +38,7 @@
 - [In Setback For Anthropic, US Court Refuses To Overturn Pentagon Ban](https://www.ndtv.com/world-news/in-setback-for-anthropic-us-court-refuses-to-overturn-pentagon-ban-12099516#publisher=newsstand)
 
 **Hindustan Times**
+- [Super El Nino report: Co-author explains methodology behind '451,000 excess deaths' estimate](https://www.hindustantimes.com/india-news/super-el-nino-report-co-author-explains-methodology-behind-451-000-excess-deaths-estimate-101790381285702.html)
 - [Heavy rain floods Chhattisgarh; one dead, Bastar villages cut off, schools shut in 8 districts](https://www.hindustantimes.com/india-news/heavy-rain-floods-chhattisgarh-one-dead-bastar-villages-cut-off-schools-shut-in-8-districts-101790358503279.html)
 - [Royal Bengal tiger cub rescued from house in Odisha’s Mayurbhanj](https://www.hindustantimes.com/india-news/royal-bengal-tiger-cub-rescued-from-house-in-odisha-s-mayurbhanj-101790357842676.html)
 - [SC reserves order on Sambhal Jama Masjid survey; 1991 Act cited in plea](https://www.hindustantimes.com/india-news/sc-reserves-order-on-sambhal-jama-masjid-survey-1991-act-cited-in-plea-101790357062962.html)
@@ -47,7 +48,6 @@
 - [Airbus detects surface coating issue with A321neo fuselage, some IndiGo planes impacted: Report](https://www.hindustantimes.com/india-news/airbus-detects-surface-coating-issue-with-a321neo-fuselage-some-indigo-planes-impacted-report-101790354257495.html)
 - [Amid row over declaration by voters, EC officials say 2.37 crore new electors added in 18-28 age group](https://www.hindustantimes.com/india-news/amid-row-over-declaration-by-voters-ec-officials-say-2-37-crore-new-electors-added-in-18-28-age-group-101790353636374.html)
 - [‘Open your mouth, Stalin sir’: Vijay targets former CM over Veeramani POCSO case, DMK chief hits back](https://www.hindustantimes.com/india-news/open-your-mouth-mk-stalin-sir-vijay-targets-former-cm-over-r-veeramani-pocso-case-dmk-chief-hits-back-101790351194961.html)
-- [Centre extends AFSPA in parts of Arunachal Pradesh for another six months](https://www.hindustantimes.com/india-news/centre-extends-afspa-in-parts-of-arunachal-pradesh-for-another-six-months-101790352220611.html)
 
 **Vijay Karnataka**
 - [ರಾಜ್ಯದ 3 IAS, 5 KAS ಅಧಿಕಾರಿಗಳ ವರ್ಗಾವಣೆ; ಜಿಲ್ಲಾ ಪಂಚಾಯಿತಿ CEO, ವಾಯವ್ಯ ಸಾರಿಗೆ MD, KEA ಪರೀಕ್ಷಾ ನಿಯಂತ್ರಕರು ಬದಲು](https://vijaykarnataka.com/news/karnataka/transfer-of-3-ias-and-5-kas-officers-in-karnataka-zilla-panchayat-ceo-nwkrtc-md-kea-controller-of-examinations-replaced/articleshow/134487849.cms)
@@ -62,16 +62,16 @@
 - [ಅಮೆರಿಕ ಭಾಗಶಃ ಷರತ್ತು ಈಡೇರಿಸಿದರೆ ಹರ್ಮುಜ್‌ ಮುಕ್ತ, ಪರಮಾಣು ಕಾರ್ಯಕ್ರಮ ಮಾತುಕತೆಗೂ ಸಿದ್ಧ: ಇರಾನ್ ಹೊಸ ಪ್ರಸ್ತಾಪ](https://vijaykarnataka.com/news/world/irans-new-proposal-if-usa-partially-meets-conditions-within-a-week-strait-of-hormuz-will-open/articleshow/134490418.cms)
 
 **The Hindu**
+- [2020 Delhi riots case: Supreme Court relaxes specific bail condition for about-to-be-married accused](https://www.thehindu.com/news/cities/Delhi/2020-delhi-riots-case-supreme-court-relaxes-specific-bail-condition-for-about-to-be-married-accused/article71509648.ece)
+- [Asian Games 2026 LIVE | Men's Marathon final: Sawan Barwal and Kartik Karkera](https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-26-2026/article71510179.ece)
+- [Odisha Pedestrian Safety Rules, 2026 proposes pedestrian path mandatory](https://www.thehindu.com/news/national/odisha/odisha-pedestrian-safety-rules-2026-proposes-pedestrian-path-mandatory/article71509089.ece)
 - [BJP wins mayor elections at three municipal corporations in Rajasthan](https://www.thehindu.com/news/national/rajasthan/bjp-wins-mayor-elections-at-three-municipal-corporations-in-rajasthan/article71509004.ece)
 - [SPPU students suspend mess fee protest after V-C assurance; decision on hike on Sept 26](https://www.thehindu.com/news/national/maharashtra/sppu-students-suspend-mess-fee-protest-after-v-c-assurance-decision-on-hike-on-sept-26/article71508902.ece)
 - [MPSC Drug Inspector paper leak: 4 more arrested, total arrests rise to 11](https://www.thehindu.com/news/national/maharashtra/mpsc-drug-inspector-paper-leak-4-more-arrested-total-arrests-rise-to-11/article71508883.ece)
+- [Aaditya Thackeray seeks postponement of MPSC State Service Mains pending reform panel report](https://www.thehindu.com/news/national/maharashtra/aaditya-thackeray-seeks-postponement-of-mpsc-state-service-mains-pending-reform-panel-report/article71509822.ece)
+- [U.P. focuses on high-yielding disease-resistant sugarcane varieties, scientific sugarcane cultivation practices and mechanization](https://www.thehindu.com/news/national/uttar-pradesh/up-focuses-on-high-yielding-disease-resistant-sugarcane-varieties-scientific-sugarcane-cultivation-practices-and-mechanization/article71509757.ece)
+- [Trust earned through serving people is BJP’s strength: Nitin Nabin](https://www.thehindu.com/news/national/rajasthan/trust-earned-through-serving-people-is-bjps-strength-nitin-nabin/article71509585.ece)
 - [After cousin Uddhav, Raj Thackeray seeks scrapping of SIR](https://www.thehindu.com/news/national/maharashtra/after-cousin-uddhav-raj-thackeray-seeks-scrapping-of-sir/article71509506.ece)
-- [U.P. Congress leaders clash with police, detained during protest against Chief Election Commissioner](https://www.thehindu.com/news/national/uttar-pradesh/up-congress-leaders-clash-with-police-detained-during-protest-against-chief-election-commissioner/article71509301.ece)
-- [2026 monsoon on its way to be wettest in Odisha since 2000](https://www.thehindu.com/news/national/odisha/2026-monsoon-on-its-way-to-be-wettest-in-odisha-since-2000/article71509530.ece)
-- [Congress legislators flash banners demanding CEC Gyanesh Kumar’s resignation inside Jammu and Kashmir assembly](https://www.thehindu.com/news/national/jammu-and-kashmir/congress-legislators-flash-banners-demanding-cec-gyanesh-kumars-resignation-inside-jammu-and-kashmir-assembly/article71509469.ece)
-- [BJP manufactured narrative and created religious divide ahead of West Bengal polls through YouTubers, says TMC spokesperson](https://www.thehindu.com/news/national/west-bengal/bjp-manufactured-narrative-and-created-religious-divide-ahead-of-west-bengal-polls-through-youtubers-says-tmc-spokesperson/article71509269.ece)
-- [Jammu and Kashmir High Court turns down ED plea to insert fresh charges against Farooq Abdullah in JKCA scam](https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmir-high-court-turns-down-ed-plea-to-insert-fresh-charges-against-farooq-abdullah-in-jkca-scam/article71509206.ece)
-- [FIR lodged against Bihar CMO staff for posting Jamui victim’s photo on X](https://www.thehindu.com/news/national/bihar/fir-lodged-against-bihar-cmo-staff-for-posting-jamui-victims-photo-on-x/article71510152.ece)
 
 **Livemint**
 - [New York’s Nor’easter Threat Grows With Volatile Storm Track](https://www.livemint.com/news/new-york-s-nor-easter-threat-grows-with-volatile-storm-track-11790373812670.html)
@@ -100,6 +100,7 @@
 - [ಮಕ್ಕಳ ಡಿಜಿಟಲ್ ಮಾಧ್ಯಮ ಬಳಕೆ, ಶಾಲೆಗಳಲ್ಲಿ ಸ್ಮಾರ್ಟ್ಫೋನ್ ನಿಷೇಧ ಕುರಿತು ರಾಷ್ಟ್ರೀಯ ನೀತಿ ಅಗತ್ಯ: ವರದಿ](https://www.varthabharati.in/National/national-policy-needed-on-childrens-digital-media-usage-and-smartphone-bans-in-schools-2278038)
 
 **Asianet Kannada**
+- [ಆಲಮಟ್ಟಿ-ಯಾದಗಿರಿ ರೈಲ್ವೆ ಮಾರ್ಗ : 100 ವರ್ಷಗಳ ಹಿಂದಿನ ಯೋಜನೆಗೆ ಈಗ ಸಿಕ್ತು ಮರುಜೀವ!](https://kannada.asianetnews.com/karnataka-districts/almatti-yadgir-railway-line-100-year-old-project-gets-new-lease-of-life-rav/articleshow-x9u6mlv)
 - [ಶಿವಮೊಗ್ಗ ಹಿಂದೂ ಮಹಾಸಭಾ ಗಣಪತಿ ವಿಸರ್ಜನೆ ವೇಳೆ ಹೊಸ ಪದ್ದತಿಗೆ ಮುನ್ನುಡಿ](https://kannada.asianetnews.com/karnataka-districts/the-song-vande-mataram-was-played-during-the-ganesha-immersion-procession-in-shivamogga/articleshow-ampyr5l)
 - ['ನನ್ನ ಮೇಲೆ ಮಾಟಮಂತ್ರ ಮಾಡಿದ್ದಾರೆ, ದಿನದಿಂದ ದಿನಕ್ಕೆ ಕುಳ್ಳ ಆಗ್ತಿದ್ದೇನೆ' ಜಿಲ್ಲಾಧಿಕಾರಿಗೆ ವಿಚಿತ್ರ ದೂರು ನೀಡಿದ ವಿದ್ಯಾವಂತ ಯುವಕ](https://kannada.asianetnews.com/viral/black-magic-height-reduction-claim-kurnool-andhra-pradesh-collector-complaint/articleshow-5eoy7f0)
 - [ಮೃತದೇಹದ ಬಟ್ಟೆ ಮೇಲಿದ್ದ ಟ್ಯಾಗ್ ನೀಡಿತು ರೋಚಕ ಸುಳಿವು, ಒಂದೇ ವಾರಕ್ಕೆ ಕೊಲೆಯ ರಹಸ್ಯ ಬೇಧಿಸಿದ ಪೊಲೀಸರು](https://kannada.asianetnews.com/bengaluru-urban/women-murder-by-husband-clothing-tag-on-the-body-provided-a-crucial-clue-in-the-case/articleshow-c0tnnnr)
@@ -109,7 +110,6 @@
 - [ಮಗುವಾದ ಬಳಿಕ ಗಂಡನ ಮೇಲೆ ಹೆಂಡತಿಗೆ ಕೋಪ ಏಕೆ ಹೆಚ್ಚಾಗುತ್ತೆ? ಕಾರಣ ತಿಳಿದರೆ ಅಚ್ಚರಿಯಾಗುತ್ತೆ!](https://kannada.asianetnews.com/gallery/relationship/why-do-women-feel-more-irritated-with-their-husbands-after-becoming-mothers-8n23rtr)
 - [ಕೇವಲ 5,000 ರೂಪಾಯಿಗೆ ಮನೆಗೆ ತನ್ನಿ ನೂತನ ಇವಿ ಸ್ಕೂಟರ್: 4 ಗಂಟೆಗಳಲ್ಲಿ ಫುಲ್ ಚಾರ್ಜ್, 145 ಕಿ.ಮೀ ಮೈಲೇಜ್!](https://kannada.asianetnews.com/bike-news/honda-qc3-electric-scooter-launch-price-range-features-booking-india-san/articleshow-ncmke10)
 - [ಡುಯಲ್ ಸಿಲಿಂಡರ್ ಸಿಎನ್‌ಜಿ, 6 ಏರ್‌ಬ್ಯಾಗ್, 360 ಡಿಗ್ರಿ ಕ್ಯಾಮೆರಾ: ಟಾಟಾ ಏರಿಸ್ ಕಾರಿನ ಆಕರ್ಷಕ ಫೀಚರ್ಸ್ ಇಲ್ಲಿದೆ](https://kannada.asianetnews.com/car-news/tata-aeris-sedan-launched-india-price-specifications-features-replace-tigor-san/articleshow-bem2lra)
-- [ಗೋಡೆ ಮೇಲೆ ಪೆನ್ಸಿಲ್ ಗುರುತು, ಕೊಳಕು ನಿಮಿಷದಲ್ಲಿ ತೆಗೆಯುವ ಸುಲಭ ವಿಧಾನ](https://kannada.asianetnews.com/life/easy-way-to-remove-pencil-marks-and-dirt-from-the-wall-in-a-minute/articleshow-1dl2g2m)
 
 **News18 Kannada** — _unavailable_
 
@@ -150,35 +150,35 @@
 - [ಚಿಕ್ಕಮಗಳೂರು |ರಾಜ್ಯದಲ್ಲಿ ಪ್ರಸ್ತುತ 9,೦೦೦ಕ್ಕೂ ಹೆಚ್ಚು ಪೋಕ್ಸೋ ಪ್ರಕರಣ](https://eedina.com/?p=766324)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (6.8)
-- India (3.9)
-- What (3.9)
-- Odisha (3.9)
-- Iran (3.2)
+- Trump (8.1)
+- Iran (4.5)
+- Supreme Court (3.0)
+- Hormuz (2.9)
+- Odisha (2.9)
+- Strait (2.6)
 - China (2.6)
-- AFSPA (2.6)
 - Report (2.6)
-- Congress (2.6)
-- Jammu (2.6)
-- Centre (1.6)
-- Hormuz (1.6)
+- India (2.6)
+- What (2.6)
 - Seized (1.6)
 - Liberia (1.6)
-- Kashmir (1.6)
+- Court (1.5)
+- Choice (1.3)
+- America (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Iran pitches seven-day roadmap to end conflict with US](https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us)
-- [മോദിക്കൊപ്പം യുവതിയുടെ ചിത്രം: മോർഫ് ചെയ്ത് ഉപയോഗിച്ചെന്ന് പരാതി; സിജെപി നേതാക്കൾക്ക് നോട്ടിസ് അയച്ച് ഹൈക്കോടതി](https://www.manoramaonline.com/news/latest-news/2026/09/25/morphed-photo-with-modi-high-court-issues-notice-to-cjp-leaders-in-ai-image-case.html)
-- [5 Officers Suspended Over Satya Niketan PG Collapse, Enquiry Initiated To Fix Responsibility: MCD Tells Delhi High Court](https://www.livelaw.in/high-court/delhi-high-court/5-officers-suspended-over-satya-niketan-pg-collapse-enquiry-initiated-to-fix-responsibility-mcd-tells-delhi-high-court-551846)
-- [Anthony Russo Talks About](https://www.ndtv.com/entertainment/anthony-russo-talks-about-avengers-endgame-re-release-says-the-film-connects-to-avengers-doomsday-12097269)
-- [IND vs WI: કોહલી-રોહિત નહીં, આ 2 બોલરો વેસ્ટ ઈન્ડિઝ માટે બનશે સૌથી મોટો ખતરો](https://tv9gujarati.com/photo-gallery/cricket-photos/breaking-news-ind-vs-wi-odi-not-virat-rohit-but-jadeja-siraj-threat-for-west-indies-1521775.html)
-- [Salt Vs Sugar | ఉప్పు వ‌ర్సెస్ చ‌క్కెర‌.. గుండె ఆరోగ్యానికి ఏది ఎక్కువ హాని చేస్తుంది..?](https://www.ntnews.com/health/salt-vs-sugar-which-one-is-more-unhealthy-to-heart-and-what-health-experts-say-2519848)
-- [‘CEC ज्ञानेश कुमार को फांसी होनी चाहिए’, इस सांसद ने कर दी भयानक मांग, बोले- बिजली के खंभे पर...](https://www.livehindustan.com/bihar/gyanesh-kumar-should-be-hanged-from-an-electric-pole-purnia-mp-pappu-yadav-big-demand-says-bigger-terrorist-201790331307586.html)
-- [വീട്ടിലെ സ്വര്‍ണവും പണവും വീഡിയോയില്‍ പ്രദര്‍ശിപ്പിച്ചു; പിന്നാലെ യൂട്യൂബറുടെ വീട്ടില്‍ വന്‍ കവര്‍ച്ച, 118 പവന്‍ നഷ്ടം](https://janamtv.com/81061279/)
-- [Sampoornesh Babu: జర్నలిస్ట్ అనుచిత వ్యాఖ్యలపై స్పందించిన సంపూర్ణేష్‌ బాబు.. ఏమన్నారంటే?](https://telugu.samayam.com/telugu-movies/cinema-news/the-paradise-actor-sampoornesh-babu-defends-journalist-nagendra-kumar-amid-body-shaming-controversy/articleshow/134484007.cms)
-- [Raghubir Yadav says playing godman Baapji accused of sexual abuse in Aneet Padda starrer ‘Hunkkaar’ felt like ‘fighting death every day because of pain’: ‘My heartbeat would rise’](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raghubir-yadav-says-playing-godman-baapji-accused-of-sexual-abuse-in-aneet-padda-starrer-hunkkaar-felt-like-fighting-death-every-day-because-of-pain-my-heartbeat-would-rise/articleshow/134484347.cms)
+- [Ramayana song: రామాయణం నుంచి శ్రీరాముడి భక్తి భావాన్ని చాటే జై జై రామ్ రిలీజ్](https://telugu.webdunia.com/article/telugu-cinema-news/jai-jai-ram-song-from-the-ramayana-that-embodies-devotion-to-sri-rama-has-been-released-126092500035_1.html)
+- [Breaking News: વડોદરાના માનુષ શાહે Asian Games 2026માં જીત્યો બ્રોન્ઝ મેડલ, ગુજરાતના મુખ્યમંત્રી ભૂપેન્દ્ર પટેલે પાઠવી શુભેચ્છા](https://tv9gujarati.com/sports/other-sports/breaking-news-asian-games-manush-bronze-medal-gujarat-cm-patel-congratulate-him-1521785.html)
+- ['The hero's wife doesn't like you': Taapsee Pannu recalls the 'worst reason' for being replaced in a film despite locking dates](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-heros-wife-doesnt-like-you-taapsee-pannu-recalls-the-worst-reason-for-being-replaced-in-a-film-despite-locking-dates/articleshow/134485548.cms)
+- [Navpancham Rajyog 2026 : 26 સપ્ટેમ્બરે બનશે સૂર્ય-યમનો નવપંચમ રાજયોગ, 3 રાશિઓ માટે ખુલશે પૈસાની નવી તકો!](https://tv9gujarati.com/photo-gallery/sun-yam-navpancham-rajyog-26-september-2026-lucky-zodiac-signs-financial-benefits-1521786.html)
+- [iPhone की कीमतों पर फिर संकट, 2027 में और महंगा हो सकता है Apple का फोन](https://www.aajtak.in/technology/tech-news/story/iphone-2027-price-hike-memory-dram-nand-samsung-deal-ttecm-dskc-2653151-2026-09-25)
+- [વિશ્વભરમાં ઓઈલ સંકટ વચ્ચે મોટો વળાંક, હોર્મુઝ ખોલવા ઈરાને અમેરિકાને આપી '7 દિવસની ડેડલાઇન'](https://www.gujaratsamachar.com/news/national/amidst-the-global-oil-crisis-a-major-turning-point-iran-gives-america-a-7-day-deadline-to-open-hormuz-37998735081)
+- [ആദ്യ ദിന കളക്ഷനിൽ വമ്പൻ നേട്ടവുമായി നാനി ചിത്രം 'ദി പാരഡൈസ്'](https://www.asianetnews.com/entertainment-news/the-paradise-movie-starring-nani-box-office-collection-day-1-articleshow-w0rdgn4)
+- [US ആക്രമിച്ചേക്കാം; ജാഗ്രതയിലെന്ന് കാനഡ, ഒന്നിച്ചുനിന്നവർ കൊമ്പുകോർക്കുമോ? അങ്കലാപ്പിൽ വടക്കേ അമേരിക്ക](https://www.mathrubhumi.com/news/world/us-vs-canada-military-capabilities-comparison-2026-yrh8cr0u)
+- [గంగమ్మ ఒడికి చేరిన బాలాపూర్ గణపయ్య..](https://www.andhrajyothy.com/2026/telangana/hyderabad/balapur-ganesh-immersion-laddu-auction-vvnp-1561303.html)
+- [ரூ.10 லட்ச பட்ஜெட் SUV: இந்த தீபாவளிக்கு நீங்கள் உண்மையில் கருத்தில் கொள்ள வேண்டிய 11 மாடல்கள் எவை?](https://www.cardekho.com/ta/news/general/planning-an-suv-for-diwali-these-11-cars-start-below-rs-10-lakh-36710.htm)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
