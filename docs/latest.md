@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-27 23:01:46
+# India Trending Report — 2026-09-27 23:33:36
 
 ## Google Trends (India) — top trending searches
-1. [columbus vs inter miami](https://trends.google.com/trending/rss?geo=IN)
-2. [income tax audit](https://trends.google.com/trending/rss?geo=IN)
-3. [germany vs](https://trends.google.com/trending/rss?geo=IN)
-4. [germany national football team](https://trends.google.com/trending/rss?geo=IN)
-5. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
-6. [renato veiga](https://trends.google.com/trending/rss?geo=IN)
-7. [full moon](https://trends.google.com/trending/rss?geo=IN)
-8. [bolivia vs paraguay](https://trends.google.com/trending/rss?geo=IN)
-9. [mivi one 5g phone](https://trends.google.com/trending/rss?geo=IN)
-10. [diogo costa](https://trends.google.com/trending/rss?geo=IN)
+1. [haiti vs costa rica](https://trends.google.com/trending/rss?geo=IN)
+2. [pak vs hk](https://trends.google.com/trending/rss?geo=IN)
+3. [ప్రధాన మంత్రి కిసాన్ సమ్మాన్ నిధి](https://trends.google.com/trending/rss?geo=IN)
+4. [asian games live](https://trends.google.com/trending/rss?geo=IN)
+5. [రుతుపవనం](https://trends.google.com/trending/rss?geo=IN)
+6. [columbus vs inter miami](https://trends.google.com/trending/rss?geo=IN)
+7. [income tax audit](https://trends.google.com/trending/rss?geo=IN)
+8. [germany vs](https://trends.google.com/trending/rss?geo=IN)
+9. [renato veiga](https://trends.google.com/trending/rss?geo=IN)
+10. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -20,10 +20,10 @@
 - [5 held in UK for suspected plot to attack air base used by US](https://timesofindia.indiatimes.com/world/uk/5-held-in-uk-for-suspected-plot-to-attack-air-base-used-by-us/articleshow/134525372.cms)
 - [Yemeni government forces claim four Iranian experts killed in Taiz](https://timesofindia.indiatimes.com/world/middle-east/4-iranian-experts-killed-in-taiz-as-yemen-army-unleashes-756-operation-offensive-against-houthis/articleshow/134525782.cms)
 - [New Green Card rules from September: Categories affected and those exempt](https://timesofindia.indiatimes.com/technology/tech-news/new-green-card-rules-that-came-into-effect-starting-this-september-list-of-categories-subject-to-the-changes-and-those-that-are-not-impacted/articleshow/134515826.cms)
-- [Boeing flags 737 MAX glitch that may turn off auto pilot](https://timesofindia.indiatimes.com/india/boeing-flags-737-max-glitch-that-may-turn-off-auto-pilot/articleshow/134526139.cms)
+- [Festive shopping to pinch as Iran war sets AC, TV prices on fire](https://timesofindia.indiatimes.com/business/india-business/shipments-facing-port-delays-of-up-to-a-month/articleshow/134528881.cms)
 - [$17.1M to restore 206,000 acres, 225 miles for wildlife movement in West](https://timesofindia.indiatimes.com/science/wildlife/fourteen-us-projects-will-restore-or-protect-wildlife-movement-across-more-than-206000-acres-and-improve-225-miles-of-fencing-after-a-new-17-1-million-conservation-investment-across-the-west/articleshow/134514775.cms)
-- [Apple bets on heart-health features to win watch buyers](https://timesofindia.indiatimes.com/business/india-business/apple-bets-on-heart-health-features-to-win-watch-buyers/articleshow/134528827.cms)
-- [2 separate shootings in S Africa townships leave at least 27 dead](https://timesofindia.indiatimes.com/world/rest-of-world/27-killed-in-two-separate-mass-shootings-near-south-africas-biggest-cities/articleshow/134515864.cms)
+- [Boeing flags 737 MAX glitch that may turn off auto pilot](https://timesofindia.indiatimes.com/india/boeing-flags-737-max-glitch-that-may-turn-off-auto-pilot/articleshow/134526139.cms)
+- ['MDR to boost UPI use in cross border payments': JP Morgan Global Payments co-head](https://timesofindia.indiatimes.com/business/india-business/mdr-to-boost-upi-use-in-cross-border-payments/articleshow/134528851.cms)
 
 **NDTV**
 - [Amritpal Singh's Waris Punjab De A New Challenge For Akali Dal Ahead Of Polls](https://www.ndtv.com/india-news/amritpal-singhs-waris-punjab-de-a-new-challenge-for-akali-dal-ahead-of-polls-12106559#publisher=newsstand)
@@ -49,17 +49,7 @@
 - [Bengaluru-bound IndiGo flight suffers tail strike while landing at Kempegowda airport; DGCA to probe incident](https://www.hindustantimes.com/india-news/bengalurubound-indigo-flight-suffers-tail-strike-while-landing-at-kempegowda-airport-dgca-to-probe-incident-101790525461947.html)
 - [75-yr-old Odisha woman swept by swollen river survives crocodile-infested waters](https://www.hindustantimes.com/india-news/71yearold-woman-swept-22-km-by-swollen-river-survives-crocodile-infested-waters-101790522694795.html)
 
-**Vijay Karnataka**
-- [ವಿರಾಟ್‌ ಕೊಹ್ಲಿ, ಶುಭ್ಮನ್‌ ಗಿಲ್‌ ಶತಕ: ವೆಸ್ಟ್‌ ಇಂಡೀಸ್‌ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ ಗೆಲುವು! ರನ್‌ ಮಷಿನ್‌ ಬರೆದ ವಿಶ್ವ ದಾಖಲೆಗಳೆಷ್ಟು?](https://vijaykarnataka.com/sports/cricket/news/india-beats-west-indies-in-1st-odi-virat-kohli-shatters-2-world-records-hits-stunning-century/articleshow/134523249.cms)
-- [ತೈವಾನ್‌ ಹೆಸರೇ ಎತ್ತಿಲ್ಲ: ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್‌ ಜೊತೆ ನಡೆದ ಮಾತುಕತೆಯ ವಿವರ ತಿಳಿಸಿದ ಡೊನಾಲ್ಡ್‌ ಟ್ರಂಪ್!‌ ತೈಪೆ ಆತಂಕ ದ್ವಿಗುಣ](https://vijaykarnataka.com/news/world/no-discussion-about-taiwan-wih-chinese-president-xi-jinping-during-bilateral-talks-clarifies-donald-trump/articleshow/134521976.cms)
-- [SSLC 600 ಅಂಕ ಪಡೆದವರಿಗೆ ನನ್ನ ಸಂಸ್ಥೆಯಲ್ಲಿ ಉಚಿತ PUC ಶಿಕ್ಷಣ: ಪ್ರದೀಪ್ ಈಶ್ವರ್; ದಾವಣಗೆರೆ ಜಿಲ್ಲೆ ಮಕ್ಕಳಿಗೆ ವಾಗ್ದಾನ](https://vijaykarnataka.com/news/davanagere/free-puc-education-at-my-institution-for-those-who-scored-600-marks-in-sslc-pradeep-eshwar/articleshow/134521795.cms)
-- [ಚಹಾ ಮಾಡಿದ ನಂತರ ಶುಂಠಿ ಬಿಸಾಡಬೇಡಿ; ಉಳಿದ ಶುಂಠಿಯಿಂದಲೇ ರುಚಿಕರ ಖಾರ ಚಟ್ನಿ ತಯಾರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/used-ginger-after-making-tea-chutney-recipe/articleshow/134508419.cms)
-- [ಭಾರತ ಶಕ್ತಿಶಾಲಿಯಾದಷ್ಟೂ ಅಮೆರಿಕ ಭಯದಿಂದ ನರಳುತ್ತದೆ: ಜಿಯೋಪೊಲಿಟಿಕ್ಸ್‌ ನಂಬಿಕೆ ಅಲುಗಾಡಿಸಿದ ರಷ್ಯಾ ರಾಯಭಾರಿ!](https://vijaykarnataka.com/news/india/us-fears-indias-rise-wont-let-it-become-another-china-says-russian-envoy-denis-alipov/articleshow/134520930.cms)
-- [ಅವಿನಾಶ್ ಶಟಮರ್ಷಣಗೆ BBK 13ನಿಂದ ಲಭಿಸಿದ ಬಹುಮಾನ ಎಷ್ಟು?: ಪತ್ನಿ ಪ್ರಿಯಾ ಭಾವುಕ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/what-prize-did-avinash-shatamarshana-receive-from-bbk-13/articleshow/134524909.cms)
-- [ಅಕ್ಷಯ್ ಕುಮಾರ್ ಪತ್ನಿ ಟ್ವಿಂಕಲ್ ಖನ್ನಾ ಹೇಳಿದ ಕಿಚನ್ ಟಿಪ್ಸ್; ಜಿರಳೆ ಕಾಟಕ್ಕೆ ಈ ಸರಳ ಮನೆಮದ್ದು](https://vijaykarnataka.com/lifestyle/home-decor/twinkle-khanna-kitchen-remedy-to-get-rid-of-cockroaches/articleshow/134499248.cms)
-- [2026 ಪಿತೃ ಪಕ್ಷ: ಕರ್ಣ ಸ್ವರ್ಗದಿಂದ ಭೂಮಿಗೆ ಮರಳಲು ಕಾರಣ.!](https://vijaykarnataka.com/religion/hinduism/pitru-paksha-2026-reason-behind-karna-back-to-earth-from-the-heaven/articleshow/134517525.cms)
-- [ಪಿತೃ ಪಕ್ಷ 2026: ಪಿತೃಗಳಿಗೆ ಪಾಯಸ-ಪೂರಿ ಅರ್ಪಿಸುವ ಸಂಪ್ರದಾಯ, ಮಾಡುವ ವಿಧಾನ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/home-decor/pitru-paksha-2026-kheer-puri-first-day-ancestor-offering/articleshow/134501695.cms)
-- [ಅಕ್ಟೋಬರ್ 1 ರಿಂದ ಹೊಸ ನಿಯಮ: LPG ಸಿಲಿಂಡರ್, FD ದರ, ಮೊಬೈಲ್ ರಿಚಾರ್ಜ್, ರೇಷನ್‌ ಅಂಗಡಿಗೆ ಸಂಬಂಧಿಸಿದ 7 ಬದಲಾವಣೆಗಳು](https://vijaykarnataka.com/business/news/new-rules-from-october-1-7-significant-changes-regarding-lpg-cylinders-fd-rates-property-tax-and-ration-shops/articleshow/134520998.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
 - [Kerala High Court directs State to ensure adequate facilities at POCSO courts](https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-state-to-ensure-adequate-facilities-at-pocso-courts/article71509475.ece)
@@ -162,21 +152,21 @@
 - Iranian (1.3)
 - Taiz (1.3)
 - Categories (1.3)
-- Boeing (1.3)
+- Festive (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Maharashtra Weather Tomorrow (उद्याचे हवामान): आभाळ फाटणार, भरपूर पाऊस बरसणार! ‘या’ 7 जिल्ह्यांना मुसळधार पावसाचा इशारा](https://marathi.timesnownews.com/maharashtra/maharashtra-weather-forecast-tomorrow-28-september-2026-heavy-rain-alert-for-7-districts-monsoon-withdrawal-updates-article-156234299)
-- [CJP નેતા આશુતોષ રાંકાની અટકાયત, અજ્ઞાત સ્થળે લઈ જવાતા હડકંપ; વકીલોને મળવા ન દેવાતા હોવાનો દીપકેનો દાવો](https://www.gujaratsamachar.com/news/national/cjp-leader-ashutosh-ranka-detained-taken-to-unknown-location-agitation-deepke-claims-that-lawyers-are-not-allowed-to-meet-him-30408884871)
-- [मंत्री प्रवेश वर्मा ने बहस के बाद युवक को मारा थप्पड़, केजरीवाल ने की गिरफ्तारी की मांग](https://www.jagran.com/delhi/new-delhi-city-delhi-minister-pravesh-verma-slaps-youth-kejriwal-demands-arrest-40386988.html)
-- [A scientist turned an $80 motel room into a makeshift lab; then she discovered two new species of microscopic amoebae](https://timesofindia.indiatimes.com/science/nature/a-scientist-turned-an-80-motel-room-into-a-makeshift-lab-then-she-discovered-two-new-species-of-microscopic-amoebae/articleshow/134518611.cms)
-- [தென் ஆப்பிரிக்காவில் துப்பாக்கி சூடு; 27 பேர் பலி](https://www.dailythanthi.com/news/world/gunfire-in-south-africa-27-killed)
-- [સુરત : 'દીકરાને સતત ખેંચ આવવા લાગી, આંખો ઉપર ચડી ગઈ', રસીકરણ બાદ બાળકોને કેમ દાખલ કરવાં પડ્યાં?](https://www.bbc.com/gujarati/articles/c6y0zerd0rg1o)
-- [రూ.18లక్షల అప్పు.. అనుష్క శర్మ ఆర్డర్‌తో రెస్టారెంట్ దశే మారిపోయింది!](https://www.andhrajyothy.com/2026/prathyekam/anushka-sharma-chole-bhature-order-changes-delhi-se-restaurant-fate-srav-1561928.html)
-- [Suvendu Adhikari: শুভেন্দু অধিকারীর মৃত্যুকামনা? হুমায়ুন কবীরের বিরুদ্ধে অভিযোগ দায়ের হল](https://bengali.abplive.com/district/humayun-kabir-faces-fir-for-allegedly-wishing-death-of-suvendu-adhikari-ahead-of-rejinagar-by-elections-1194349)
-- [गोविंदा की 'गर्लफ्रेंड' पर भड़कीं बहू कश्मीरा, लगाई लताड़, बोलीं- कातिल कहा है](https://www.aajtak.in/entertainment/bollywood-news/story/govinda-girlfriend-komal-rani-swarnkar-called-sunita-ahuja-murderers-kashmera-shah-reacts-tmovb-dskc-2654569-2026-09-27)
-- [राजनीति, कोचिंग या वापस विदेश? Ex-IAS दिव्या मित्तल ने अपनी नई पोस्ट से बढ़ाया सस्पेंस, कहा- 29 सितंबर सुबह बताऊंगी](https://www.aajtak.in/uttar-pradesh/story/former-ias-divya-mittal-social-media-post-next-plan-29-september-politics-coaching-book-lcln-dskc-2654586-2026-09-27)
+- [Trump's Former Lawyer Alina Habba, 42, Marries 29-Year-Old Turkish Billionaire In Star-Studded Wedding](https://www.ndtv.com/world-news/trumps-former-lawyer-alina-habba-42-marries-29-year-old-turkish-billionaire-in-star-studded-wedding-12105213)
+- [Vijay's Son Jason Sanjay Gets Special Wish From Nagarjuna Ahead Of Sigma Release](https://www.ndtv.com/entertainment/nagarjuna-akkineni-is-all-praise-for-thalapathy-vijay-as-his-son-jason-sanjay-debuts-with-sigma-telugu-audience-loves-him-12104966)
+- [West Bengal News Live: ফের বিপাকে হুমায়ুন কবীর, মুখ্যমন্ত্রীর মৃত্যু কামনা করায় অভিযোগ দায়ের হল থানায়](https://bengali.abplive.com/district/west-bengal-news-live-updates-humayun-kabir-gynesh-kumar-sir-cm-suvendu-adhikari-nandigram-rejinagar-by-election-2026-mamata-banerjee-congress-tmc-ncpi-bjp-cjp-27-september-1194354)
+- [कौन हैं अभिजीत दीपके के मेंटर? वीडियो कॉल में खुला राज](https://www.prabhatkhabar.com/national/jantar-mantar-protest-abhijeet-deepke-mentor-ajinkya-shinde-cjp-video-call)
+- [VIDEO: દિલ્હીમાં રોડનું નિરીક્ષણ કરવા પહોંચેલા મંત્રીએ યુવકને લાફો ઝીંકી દીધો, AAPએ કહ્યું-'GenZની તાકાતનો હજુ સુધી અહેસાસ નથી થયો'](https://www.gujaratsamachar.com/news/national/video-minister-who-arrived-to-inspect-roads-in-delhi-slapped-a-youth-aap-said-the-power-of-genz-has-not-been-realized-yet-69206195983)
+- [செப்டம்பர் 28 நாளை பங்குச் சந்தையில் அதிக கவனம் பெறும் பங்குகள் இவைதான்!](https://tamil.economictimes.com/market/stocks/stocks-to-watch-on-september-28-adani-sail-bccl-and-more/articleshow/134519072.cms)
+- [New mobile recharge rules: 30-day plans, call-only options and more; TRAI rules explained](https://timesofindia.indiatimes.com/business/india-business/new-mobile-recharge-rules-30-day-plans-call-only-options-and-more-trai-rules-explained/articleshow/134519014.cms)
+- [വിദ്യാർഥിനിക്ക് പ്രിയദർശിനി ബസിൽ അധിക്ഷേപം, ഇടപെട്ട് മുഖ്യമന്ത്രി- Student Harassment](https://www.manoramaonline.com/news/latest-news/2026/09/27/police-case-against-bus-conductor-student-harassment-cm-vd-satheesan-intervention.html)
+- ['Supported when they were weak, now...': Sonam Wangchuk on CJP's protest call against CEC Gyanesh Kumar](https://www.hindustantimes.com/india-news/sonam-wangchuk-backs-cjp-protest-against-cec-gyanesh-kumar-election-commission-abhijeet-dipke-call-for-october-2-101790504695763.html)
+- [सलमान खान ने ट्रोल्स को लताड़ा, फातिमा सना शेख ने की तारीफ, बोलीं- ये बड़ी बात](https://www.aajtak.in/entertainment/bollywood-news/story/fatima-sana-shaikh-support-paparazzi-salman-khan-muh-tod-jawab-to-trolls-on-bigg-boss-20-tmovg-dskc-2654573-2026-09-27)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
