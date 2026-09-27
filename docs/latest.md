@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-27 19:01:48
+# India Trending Report — 2026-09-27 19:33:04
 
 ## Google Trends (India) — top trending searches
-1. [germany vs greece](https://trends.google.com/trending/rss?geo=IN)
-2. [bank strike news](https://trends.google.com/trending/rss?geo=IN)
-3. [mexx meerdink](https://trends.google.com/trending/rss?geo=IN)
-4. [सोनम वांगचुक](https://trends.google.com/trending/rss?geo=IN)
-5. [रोहित शर्मा](https://trends.google.com/trending/rss?geo=IN)
-6. [kick](https://trends.google.com/trending/rss?geo=IN)
-7. [today's match](https://trends.google.com/trending/rss?geo=IN)
-8. [drishyam 3](https://trends.google.com/trending/rss?geo=IN)
-9. [norway vs portugal](https://trends.google.com/trending/rss?geo=IN)
-10. [mikel oyarzabal](https://trends.google.com/trending/rss?geo=IN)
+1. [portugal](https://trends.google.com/trending/rss?geo=IN)
+2. [portugal fc](https://trends.google.com/trending/rss?geo=IN)
+3. [joão félix](https://trends.google.com/trending/rss?geo=IN)
+4. [joão palhinha](https://trends.google.com/trending/rss?geo=IN)
+5. [germany vs greece](https://trends.google.com/trending/rss?geo=IN)
+6. [bank strike news](https://trends.google.com/trending/rss?geo=IN)
+7. [mexx meerdink](https://trends.google.com/trending/rss?geo=IN)
+8. [सोनम वांगचुक](https://trends.google.com/trending/rss?geo=IN)
+9. [रोहित शर्मा](https://trends.google.com/trending/rss?geo=IN)
+10. [kick](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -62,16 +62,16 @@
 - [ಅಕ್ಟೋಬರ್ 1 ರಿಂದ ಹೊಸ ನಿಯಮ: LPG ಸಿಲಿಂಡರ್, FD ದರ, ಮೊಬೈಲ್ ರಿಚಾರ್ಜ್, ರೇಷನ್‌ ಅಂಗಡಿಗೆ ಸಂಬಂಧಿಸಿದ 7 ಬದಲಾವಣೆಗಳು](https://vijaykarnataka.com/business/news/new-rules-from-october-1-7-significant-changes-regarding-lpg-cylinders-fd-rates-property-tax-and-ration-shops/articleshow/134520998.cms)
 
 **The Hindu**
-- [Form 26 and the statutory mandate](https://www.thehindu.com/opinion/op-ed/form-26-and-the-statutory-mandate/article71516242.ece)
+- [PM Modi pays tribute to ‘organisational genius’ Ashok Singhal on his birth centenary](https://www.thehindu.com/news/national/pm-modi-pays-tribute-to-organisational-genius-ashok-singhal-on-his-birth-centenary/article71515567.ece)
 - [Bank unions defer three-day nationwide strike after ‘understandings reached’ with IBA](https://www.thehindu.com/business/Industry/bank-unions-defer-three-day-nationwide-strike-ubfu/article71517225.ece)
-- [Work on storm-water drain near Virugambakkam canal to be completed in 2 weeks](https://www.thehindu.com/news/national/tamil-nadu/work-on-storm-water-drain-near-virugambakkam-canal-to-be-completed-in-2-weeks/article71515801.ece)
+- [Govt. to build ‘Karnataka Mantapa’ modeled after ‘Bharat Mandapam’: CM Shivakumar](https://www.thehindu.com/news/national/karnataka/govt-to-build-karnataka-mantapa-modeled-after-bharat-mandapam-cm-shivakumar/article71516720.ece)
 - [Unfortunate that Veerashaiava-Lingayat community which worked for social justice has to seek justice now: Khandre](https://www.thehindu.com/news/national/karnataka/unfortunate-that-veerashaiava-lingayat-community-which-worked-for-social-justice-has-to-seek-justice-now-khandre/article71516688.ece)
+- [Form 26 and the statutory mandate](https://www.thehindu.com/opinion/op-ed/form-26-and-the-statutory-mandate/article71516242.ece)
+- [Work on storm-water drain near Virugambakkam canal to be completed in 2 weeks](https://www.thehindu.com/news/national/tamil-nadu/work-on-storm-water-drain-near-virugambakkam-canal-to-be-completed-in-2-weeks/article71515801.ece)
 - [No load-shedding for now, says K.J. George](https://www.thehindu.com/news/national/karnataka/no-load-shedding-for-now-says-kj-george/article71516595.ece)
 - [Three-storey building under construction collapses near Ambala City; four dead, over 10 injured](https://www.thehindu.com/news/national/haryana/under-construction-building-collapses-near-ambala-city/article71516646.ece)
 - [Why are students protesting at IIT-Bombay? | Explained](https://www.thehindu.com/news/national/maharashtra/why-are-students-protesting-at-iit-bombay-explained/article71513061.ece)
 - ['Illegal detention' by Assam Police finally ended: CJP’s Ashutosh Ranka after release](https://www.thehindu.com/news/national/cjps-ashutosh-ranka-his-team-detained/article71515449.ece)
-- [Opposition refuses to be part of the all-party delegation to Centre over drought relief](https://www.thehindu.com/news/national/karnataka/opposition-refuses-to-be-part-of-the-all-party-delegation-to-centre-over-drought-relief/article71516407.ece)
-- [Over 45,000 participate in 13th edition of Wipro Bengaluru Marathon](https://www.thehindu.com/news/national/karnataka/over-45000-participate-in-13th-edition-of-wipro-bengaluru-marathon/article71516250.ece)
 
 **Livemint**
 - [Bank strike on 28, 29, 30 September deferred; salaried individuals to get money in account as usual?](https://www.livemint.com/news/india/bank-strike-on-28-29-30-september-deferred-salaried-individuals-to-get-money-in-account-as-usual-11790534456293.html)
@@ -88,16 +88,16 @@
 **Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
+- [ತ್ಯಾವರೆಕೊಪ್ಪ: ನಾಲ್ಕು ಸಿಂಹದ ಮರಿಗಳ ಸಾವು](https://www.varthabharati.in/shimoga/shivamogga-2278507)
 - [ಪಟ್ಟಭದ್ರರು ಜಾತಿ, ಧರ್ಮದ ಹೆಸರಿನಲ್ಲಿ ಸಮಾಜ ಒಡೆಯುತ್ತಿರುತ್ತಾರೆ : ಸಿದ್ದರಾಮಯ್ಯ](https://www.varthabharati.in/mysore/siddaramaiah-2278503)
 - [ವಿಪ್ರೋ ಬೆಂಗಳೂರು ಮ್ಯಾರಥಾನ್‌ 2026: ಬುಗಾಥಾ ಶ್ರೀನು ಮತ್ತು ಭಾಗೀರಥಿ ಚಾಂಪಿಯನ್‌](https://www.varthabharati.in/bangalore-city/wipro-bengaluru-marathon-2026-2278501)
 - [ರಸ್ತೆಗೆ ಕಸ ಎಸೆಯುವವರ ಮನೆ ಮುಂದೆ ತ್ಯಾಜ್ಯ ಸುರಿದ ಹುಬ್ಬಳ್ಳಿ-ಧಾರವಾಡ ಪಾಲಿಕೆ](https://www.varthabharati.in/dharwad/hubballi-dharwad-2278499)
 - [Haryana | ನಿರ್ಮಾಣ ಹಂತದ ಕಟ್ಟಡ ಕುಸಿದು ನಾಲ್ವರು ಮೃತ್ಯು; ಅವಶೇಷಗಳಡಿ ಹಲವರು ಸಿಲುಕಿರುವ ಶಂಕೆ](https://www.varthabharati.in/National/4-killed-as-3-storey-under-construction-building-collapses-in-haryana-13-rescued-2278497)
 - [‘ಸರಕಾರವನ್ನು ಬೆಂಬಲಿಸಿದ್ದಕ್ಕೆ ಪಶ್ಚಾತ್ತಾಪವಾಗುತ್ತಿದೆ’: ಬಿಹಾರದಲ್ಲಿ ಅಪರಾಧಗಳ ಹೆಚ್ಚಳದ ಬಗ್ಗೆ ಚಿರಾಗ್ ಪಾಸ್ವಾನ್ ಆಕ್ರೋಶ](https://www.varthabharati.in/National/regret-supporting-chirag-paswan-attacks-bihar-govt-over-rising-crimes-against-women-2278496)
+- [ದೇಶದಲ್ಲಿ SIR ಜಾರಿಯಾದ ಬಳಿಕ 7 ಚುನಾವಣೆ ನಡೆದಿದ್ದು, ಈ ಚುನಾವಣೆಗಳು ನ್ಯಾಯಸಮ್ಮತವಾಗಿ ನಡೆದಿಲ್ಲ : ಪ್ರಕಾಶ್ ರಾಜ್](https://www.varthabharati.in/bangalore-city/prakash-raj-2278506)
 - [ಆಲ್ ಇಂಡಿಯಾ ಮಿಲ್ಲಿ ಕೌನ್ಸಿಲ್ ರಾಜ್ಯಾಧ್ಯಕ್ಷರಾಗಿ ಮುಫ್ತಿ ಅಹ್ಮದ್ ಸಿಮಾಲ್ ರಶಾದಿ ಆಯ್ಕೆ](https://www.varthabharati.in/bangalore-city/--2278504)
 - [ಅಮೆರಿಕದ ದಾಳಿಯನ್ನು ಎದುರಿಸಲು ಸಿದ್ಧ: ಇರಾನ್](https://www.varthabharati.in/international/iran-ready-to-face-us-attack-2278494)
 - [ಚೆಸ್ ಒಲಿಂಪಿಯಾಡ್ | ಓಪನ್ ವಿಭಾಗದಲ್ಲಿ ಭಾರತಕ್ಕೆ ಬೆಳ್ಳಿ ; ಮಹಿಳಾ ವಿಭಾಗದಲ್ಲಿ ಕಂಚು](https://www.varthabharati.in/sports/chess-olympiad-india-wins-silver-in-open-section-women-claim-bronze-2278493)
-- [ನೇಪಾಳ | ಪ್ರವಾಹ, ಭೂಕುಸಿತಕ್ಕೆ ಕನಿಷ್ಠ 14 ಜನರು ಮೃತ್ಯು](https://www.varthabharati.in/National/nepal-at-least-14-people-killed-in-floods-and-landslides-2278492)
-- [Asian Games | ಮಹಿಳಾ ಹಾಕಿ : ಭಾರತ ಸೆಮಿಫೈನಲ್‌ಗೆ](https://www.varthabharati.in/sports/asian-games-2026-womens-hockey-india-beat-japan-to-book-semi-final-berth-2278491)
 
 **Asianet Kannada**
 - ['ಯಾರು ಏನು ಬೇಕಾದರೂ ಮಾತನ್ನಾಡಬಹುದು; ಅಪ್ಪಾಜಿ, ವಿಷ್ಣು ಸರ್ ಸಂಬಂಧವೇ ಬೇರೆ' ಶಿವಣ್ಣ ಹೇಳಿದ್ದೇನು?](https://kannada.asianetnews.com/entertainment/hat-trick-hero-shivanna-speaks-about-the-relationship-between-dr-vishnuvardhan-and-dr-rajkumar/articleshow-p26qo5v)
@@ -153,7 +153,7 @@
 - September (5.2)
 - Bank (2.9)
 - Killed (2.9)
-- Bengaluru (2.9)
+- Bengaluru (2.6)
 - strike (2.4)
 - Parvesh Verma (2.0)
 - Lovely Professional University (2.0)
@@ -169,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Explainer: મુખ્ય ચૂંટણી કમિશનર જ્ઞાનેશ કુમાર વિરુદ્ધ મહાભિયોગ, જાણો આ હોદ્દા પર બેઠેલા અધિકારીને હટાવવાની પ્રક્રિયા શું છે](https://www.gujaratsamachar.com/news/national/impeachment-against-cec-gyanesh-kumar-what-is-the-process-to-remove-him-from-office-48253465309)
-- [हिरासत में लिए गए CJP के आशुतोष रांका, ‘स्कूल ठीक करने’ को गए थे असम; हिमंत सरमा पर भड़के](https://www.livehindustan.com/national/ashutosh-ranka-of-cjp-detained-in-assam-says-himanta-sarma-is-scared-201790492184845.html)
-- [Maruti Hybrid: பெட்ரோல் பேக்கப்பில் மாருதியின் புதிய ஹைப்ரிட் கார்..! அசரவைக்கும் மைலேஜ் - எந்தெந்த மாடல்கள்?](https://tamil.abplive.com/auto/new-maruti-hybrid-cars-to-offer-ev-like-driving-with-petrol-backup-knowmore-price-spec-feat-automobile-news-275764)
-- ['Illegal detention' by Assam Police finally ended: CJP’s Ashutosh Ranka after release](https://www.thehindu.com/news/national/cjps-ashutosh-ranka-his-team-detained/article71515449.ece)
-- [Nandigram By Poll Update: ‘জাহাজ’ বাড়িতে পুলিশ! শেখ সুফিয়ানের খোঁজে পৌঁছল নন্দীগ্রাম থানা,কোথায় লুকিয়ে একদা মমতা-ঘনিষ্ঠ নেতা?](https://bengali.news18.com/news/west-bengal/purba-medinipur-nandigram-bypoll-update-police-went-to-once-mamata-banerjee-close-leader-sheikh-sufian-s-house-here-is-the-update-sta-2908790.html)
-- [India vs West Indies 1st ODI Live Score: वेस्टइंडीज की जबरदस्त शुरुआत, भारतीय टीम को विकेट की तलाश](https://www.aajtak.in/sports/cricket/story/india-vs-west-indies-1st-odi-live-score-ind-vs-wi-match-updates-kohli-rohit-tspoa-aksp-dskc-2654390-2026-09-27)
-- [റേഞ്ച് റോവർ കാറിൽ നിൽക്കുന്ന ചിത്രം എഐ; മാധ‍്യമങ്ങൾ ഏകപക്ഷീയമായാണ് വാർത്തകൾ നൽകിയതെന്ന് മന്ത്രി കെ.എം. ഷാജി](https://www.metrovaartha.com/news/kerala/minister-km-shaji-car-controversy-updates-2)
-- ['सर्जिकल स्ट्राइक के 10 साल', PM मोदी ने 'मन की बात' में पाक पर क्या कहा](https://www.abplive.com/news/india/pm-narendra-modi-on-pakistan-surgical-strike-loc-in-mann-ki-baat-3194348)
-- [Banks | నేడు ప‌నిచేయ‌నున్న బ్యాంకులు.. ఏయే బ్యాంకులు ప‌ని చేస్తాయంటే](https://www.ntnews.com/national/banks-open-today-september-27-check-which-banks-will-function-on-sunday-are-private-banks-open-today-2521272)
-- [मॉडल से कम नहीं पाकिस्तान की ये खिलाड़ी... रील्स में जलवा, मैदान पर फ्लॉप](https://www.aajtak.in/visualstories/sports/pakistan-noreen-hussain-glamorous-pole-vaulter-asian-games-2026-performance-tspoa-tspok-286104-27-09-2026)
+- [‘তুই কে রাজবীর দে?’ নন্দিনীর বিস্ফোরক মন্তব্য, ‘বিগ বস’-এ কি জমছে প্রেমের গল্প?](https://bengali.indianexpress.com/entertainment/rajveer-de-nandini-fight-love-angle-bigg-boss-bangla-3-12581161)
+- [Silver Price Fall: चांदी हाई से अब ₹1.85 लाख सस्ती, 5 दिन में बिखरा भाव, जानें 24 कैरेट सोने का रेट](https://www.aajtak.in/business/utility/photo/silver-price-fall-more-crash-from-high-gold-also-plunges-check-10-gram-20-22-24-karat-gold-rate-update-tutc-2654412-2026-09-27)
+- [Rain threat looms over lopsided India vs Afghanistan quarter-final](https://www.cricinfo.com/series/asian-games-men-s-cricket-competition-2026-1552449/afghanistan-vs-india-2nd-quarter-final-1552773/match-preview)
+- [Gajkesari Rajyog in October 2026 : ઓક્ટોબરમાં બનશે ગજકેસરી રાજયોગ, આ 3 રાશિના જાતકોનું ભાગ્ય ચમકી શકે છે!](https://tv9gujarati.com/photo-gallery/ajakesari-rajyoga-october-2026-lucky-zodiac-signs-benefit-1522640.html)
+- [सामाजिक सन्मानासाठी लढा! या जातीची दलित समुदायातून बाहेर पडण्याची इच्छा! SC/ST कायद्याचाही वापर न करण्याचा निर्णय](https://www.lokmat.com/national/fight-for-social-respect-devendra-kula-vellalar-caste-demands-exit-from-sc-list-decision-not-to-use-sc-st-act-a-a653/)
+- [Operation Sindoor Lessons: Why India Must Prepare For Wars Of Tomorrow](https://www.ndtv.com/india-news/ndtv-defence-summit-operation-sindoor-lessons-why-india-must-prepare-for-the-wars-of-tomorrow-12104446)
+- [Mojtaba Khamenei ‘pulled from rubble’ after US-Israeli strikes hit Tehran hospital: Report](https://timesofindia.indiatimes.com/world/middle-east/mojtaba-khamenei-pulled-from-rubble-after-us-israeli-strikes-hit-tehran-hospital-report/articleshow/134516364.cms)
+- ['સર્જિકલ સ્ટ્રાઈકના 10 વર્ષ', PM મોદીએ 'મન કી બાત'માં પાકિસ્તાન વિશે શું કહ્યું?](https://gujarati.abplive.com/news/india/pm-modi-surgical-strike-10-years-mann-ki-baat-pakistan-terror-992145)
+- [അമിത് ഷായ്ക്ക് നേരെ കരിങ്കാെടി കാട്ടിയ യൂത്ത് കോൺ​ഗ്രസ് പ്രവർത്തകർക്കെതിരെ കേന്ദ്രത്തിന് പരാതി നൽകി ബിജെപി](https://malayalam.news18.com/news/kerala/bjp-files-complaint-over-black-flag-protest-against-amit-shah-sbs-ws-l-790169.html)
+- [தமிழக அரசின் புதிய மாற்றம்](https://www.tamilmurasu.com.sg/tamilnadu/ban-asking-about-law-and-order-rti)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
