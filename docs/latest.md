@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-27 08:35:38
+# India Trending Report — 2026-09-27 09:01:44
 
 ## Google Trends (India) — top trending searches
-1. [jiohotstar](https://trends.google.com/trending/rss?geo=IN)
-2. [temba bavuma](https://trends.google.com/trending/rss?geo=IN)
-3. [hotstar](https://trends.google.com/trending/rss?geo=IN)
-4. [marco jansen](https://trends.google.com/trending/rss?geo=IN)
-5. [whatsapp android app navigation redesign](https://trends.google.com/trending/rss?geo=IN)
-6. [west indies vs india](https://trends.google.com/trending/rss?geo=IN)
-7. [today match](https://trends.google.com/trending/rss?geo=IN)
-8. [दक्षिण अफ्रीका बनाम ऑस्ट्रेलिया](https://trends.google.com/trending/rss?geo=IN)
-9. [tristan stubbs](https://trends.google.com/trending/rss?geo=IN)
-10. [ಚಿನ್ನ](https://trends.google.com/trending/rss?geo=IN)
+1. [icc](https://trends.google.com/trending/rss?geo=IN)
+2. [india match](https://trends.google.com/trending/rss?geo=IN)
+3. [jiohotstar](https://trends.google.com/trending/rss?geo=IN)
+4. [cricbuzz](https://trends.google.com/trending/rss?geo=IN)
+5. [hotstar](https://trends.google.com/trending/rss?geo=IN)
+6. [jio hotstar](https://trends.google.com/trending/rss?geo=IN)
+7. [marco jansen](https://trends.google.com/trending/rss?geo=IN)
+8. [josh hazlewood](https://trends.google.com/trending/rss?geo=IN)
+9. [whatsapp android app navigation redesign](https://trends.google.com/trending/rss?geo=IN)
+10. [west indies vs india](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [New Form 6 enrolments where no SIR is under way won't need mapping](https://timesofindia.indiatimes.com/india/new-form-6-enrolments-where-no-sir-is-under-way-wont-need-mapping/articleshow/134510074.cms)
 - ['Bomb' alert: Homes evacuated near UK military base as army squad called in](https://timesofindia.indiatimes.com/world/uk/bomb-alert-homes-evacuated-near-uk-military-base-as-army-squad-called-in/articleshow/134516658.cms)
 - [111 MPs, MLAs changed parties after winning elections since 2022: ADR](https://timesofindia.indiatimes.com/india/npf-gets-most-bjp-second-as-111-mps-mlas-switch-parties-since-2022-adr/articleshow/134517020.cms)
 - ['Tried to drag me out': TMC MLA Kunal Ghosh attacked, car smashed - video](https://timesofindia.indiatimes.com/india/tried-to-drag-me-out-tmc-mla-kunal-ghoshs-car-smashed-says-guards-drew-guns-to-save-him-video/articleshow/134516703.cms)
-- [Google turns 28: 10 things the company wrote down when it was young and still follows](https://timesofindia.indiatimes.com/technology/tech-news/google-turns-28-10-things-that-google-says-it-first-wrote-when-it-was-just-a-few-years-old-and-you-can-still-hold-the-company-to/articleshow/134515877.cms)
-- [Vijay Kumar Sharma becomes government teacher at 59 after clearing TGT, PGT](https://timesofindia.indiatimes.com/education/news/he-cleared-tgt-exam-6-times-and-pgt-4-times-at-59-vijay-kumar-sharma-finally-became-a-government-teacher/articleshow/134514427.cms)
+- [Meta reverses decision to reject ads for Elon Musk documentary, calls it an 'error'](https://timesofindia.indiatimes.com/technology/tech-news/meta-refused-to-run-ads-promoting-elon-musks-documentary-calls-it-error-and-/articleshow/134516423.cms)
+- [Mark mood check: Crude, US-Iran talks and economic data to drive Dalal Street this week](https://timesofindia.indiatimes.com/business/india-business/mark-mood-check-crude-us-iran-talks-and-economic-data-to-drive-dalal-street-this-week/articleshow/134517140.cms)
+- [New Form 6 enrolments where no SIR is under way won't need mapping](https://timesofindia.indiatimes.com/india/new-form-6-enrolments-where-no-sir-is-under-way-wont-need-mapping/articleshow/134510074.cms)
 - [Amit Shah flags off India's first LNG train, launches Rs 1,542 crore railway projects](https://timesofindia.indiatimes.com/india/amit-shah-flags-off-indias-first-lng-train-in-gujarat-launches-rs-1542-crore-railway-projects/articleshow/134516636.cms)
 - [Mojtaba Khamenei ‘pulled from rubble’ after US-Israeli strikes hit Tehran hospital](https://timesofindia.indiatimes.com/world/middle-east/mojtaba-khamenei-pulled-from-rubble-after-us-israeli-strikes-hit-tehran-hospital-report/articleshow/134516364.cms)
 - [Asian Games: Abhay Singh wins silver after spirited fight in men's squash final](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-abhay-singh-wins-silver-after-spirited-fight-in-mens-squash-final/articleshow/134516833.cms)
-- [Ed Sheeran concerts canceled at Gillette Stadium amid nor’easter warnings](https://timesofindia.indiatimes.com/world/us/two-sold-out-ed-sheeran-concerts-at-massachusetts-gillette-stadium-were-canceled-hours-before-the-weekend-shows-the-venue-cited-severe-noreaster-warnings-with-fans-promised-refunds-as-the-storm-threatened-new-england/articleshow/134515806.cms)
+- [October 2026: 70,000 rural youth set for placement-linked training under DDU-GKY 2.0](https://timesofindia.indiatimes.com/education/news/october-2026-70000-rural-youth-set-for-placement-linked-training-under-ddu-gky-2-0/articleshow/134517013.cms)
 
 **NDTV**
 - [NDTV Defence Summit 2026 LIVE Updates: Experts On Building Bharat's Arsenal of Innovation](https://www.ndtv.com/india-news/ndtv-defence-summit-2026-live-updates-key-announcements-defence-strategy-and-military-technology-rajnath-singh-keynote-address-12103640#publisher=newsstand)
@@ -38,6 +38,7 @@
 - [Relentless Rainfall Triggers Floods, Landslides Across Nepal](https://www.ndtv.com/world-news/relentless-rainfall-triggers-floods-landslides-across-nepal-12104033#publisher=newsstand)
 
 **Hindustan Times**
+- [India ready for ‘every kind of strike’ against terrorism: Defence minister Rajnath Singh warns Pakistan](https://www.hindustantimes.com/india-news/rajnath-singh-warns-pakistan-india-ready-for-every-kind-of-strike-against-terrorism-101790494466240.html)
 - [Ashutosh Ranka, volunteers detained in Assam ahead of meet: ‘Cops acting like goons’](https://www.hindustantimes.com/india-news/cockroach-janta-party-volunteers-detained-assam-police-ashutosh-ranka-abhijeet-dipke-101790493201322.html)
 - [SC to hear on Monday plea challenging imposition of MDR on UPI payments above  ₹2,000](https://www.hindustantimes.com/india-news/sc-to-hear-on-monday-plea-challenging-imposition-of-mdr-on-upi-payments-above-rs-2000-101790493051916.html)
 - [Tata Motors PV expects 15 pc market share 'very soon': MD Shailesh Chandra](https://www.hindustantimes.com/india-news/tata-motors-pv-expects-15-pc-market-share-very-soon-md-shailesh-chandra-101790489965182.html)
@@ -47,33 +48,33 @@
 - [Keralam minister defends use of friend’s Range Rover as official vehicle, says no rules violated](https://www.hindustantimes.com/india-news/keralam-minister-defends-use-of-friend-s-range-rover-as-official-vehicle-says-no-rules-violated-101790491387915.html)
 - [‘No confusion in Election Commission’: BJP MP hits back at Congress amid row](https://www.hindustantimes.com/india-news/no-confusion-in-election-commission-bjp-mp-hits-back-at-congress-amid-row-101790476308853.html)
 - [SC orders action against Mau SPs from 2023 over 'casual approach' in criminal case trial](https://www.hindustantimes.com/india-news/sc-orders-action-against-mau-sps-from-2023-over-casual-approach-in-criminal-case-trial-101790491207185.html)
-- [Delhi CM Rekha Gupta hits out at opposition over SIR row, defends election commission](https://www.hindustantimes.com/india-news/rekha-gupta-hits-out-at-opposition-over-sir-row-defends-election-commission-101790490768398.html)
 
 **Vijay Karnataka**
+- [ʼUNSCಯಲ್ಲಿ ಭಾರತಕ್ಕೆ ಶಾಶ್ವತ ಸ್ಥಾನ ನೀಡಿʼ- UNGA ವೇದಿಕೆಯಲ್ಲಿ ರಷ್ಯಾ ಬ್ಯಾಟಿಂಗ್:‌ ವಿಶ್ವಸಂಸ್ಥೆಯಲ್ಲಿ ಭಾರತದ ಪ್ರಾತಿನಿಧ್ಯಕ್ಕೆ ಹೆಚ್ಚುತ್ತಿದೆ ಬಲ!](https://vijaykarnataka.com/news/world/russia-backs-indias-unsc-permanent-membership-bid-at-unga/articleshow/134516078.cms)
 - [ಮುಂದಿನ ವಾರ ಬ್ಯಾಂಕ್‌ಗಳು 5 ದಿನ ರಜೆ, 2 ದಿನ ಮಾತ್ರ ಓಪನ್! ಮುಷ್ಕರ ಯಾವೆಲ್ಲಾ ಬ್ಯಾಂಕ್‌ಗೆ ಅನ್ವಯ? ಪರ್ಯಾಯ ಮಾರ್ಗವೇನು?](https://vijaykarnataka.com/business/news/banks-to-be-closed-for-5-days-next-week-open-for-only-2-days-september-28-to-october-4-what-are-alternatives/articleshow/134516163.cms)
 - [ಮೈಸೂರು ದಸರಾ ಮಾದರಿಯಲ್ಲಿ ಅದ್ದೂರಿಯಾಗಿ ಹಾಸನಾಂಬೆ ಉತ್ಸವ: ಅ.29ರಿಂದ ನ.11ರವರೆಗೆ ವೈಭವದ ದರ್ಶನೋತ್ಸವ!](https://vijaykarnataka.com/news/hasana/dasara-model-grand-hassanambha-festival-celebration-from-oct-29-to-nov-11-in-hassan/articleshow/134515598.cms)
-- [ಭಾರತದಲ್ಲಿ ಗೋಲ್ಡ್‌ ಲೋನ್‌ಗೆ ಭಾರೀ ಡಿಮ್ಯಾಂಡ್‌, 2 ವರ್ಷದಲ್ಲಿ 4 ಪಟ್ಟು ಹೆಚ್ಚು, ಕಾರಣವೇನು?](https://vijaykarnataka.com/news/india/huge-demand-for-gold-loans-in-india-a-fourfold-increase-in-two-years-what-is-thereason/videoshow/134517099.cms)
 - [ಚಹಾ ಮಾಡಿದ ನಂತರ ಶುಂಠಿ ಬಿಸಾಡಬೇಡಿ; ಉಳಿದ ಶುಂಠಿಯಿಂದಲೇ ರುಚಿಕರ ಖಾರ ಚಟ್ನಿ ತಯಾರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/used-ginger-after-making-tea-chutney-recipe/articleshow/134508419.cms)
-- [ಹಿರಿಯರ ಸ್ಮರಣೆಗೆಂದೇ ಮೀಸಲು ಪಿತೃಪಕ್ಷ! ಇಂದಿನಿಂದ(ಸೆ.27) ಆರಂಭ, ಇಲ್ಲಿದೆ ಆಚರಣೆ ಮಹತ್ವ](https://vijaykarnataka.com/news/karnataka/pitru-paksha-is-dedicated-to-remembering-ancestors-it-begins-today-sept-27-here-is-the-significance-of-the-observance/articleshow/134514903.cms)
+- [ಭಾರತದಲ್ಲಿ ಗೋಲ್ಡ್‌ ಲೋನ್‌ಗೆ ಭಾರೀ ಡಿಮ್ಯಾಂಡ್‌, 2 ವರ್ಷದಲ್ಲಿ 4 ಪಟ್ಟು ಹೆಚ್ಚು, ಕಾರಣವೇನು?](https://vijaykarnataka.com/news/india/huge-demand-for-gold-loans-in-india-a-fourfold-increase-in-two-years-what-is-thereason/videoshow/134517099.cms)
 - [BBK 13: ಇವರೇ ನೋಡಿ ವೈಲ್ಡ್‌ ಕಾರ್ಡ್ ಎಂಟ್ರಿ ಪಡೆದ ಸ್ಪರ್ಧಿಗಳು?](https://vijaykarnataka.com/tv/bigg-boss-kannada/here-are-the-contestants-who-have-made-a-wild-card-entry-in-the-bbk-13-show-3rd-week/articleshow/134516496.cms)
 - [ಅಕ್ಷಯ್ ಕುಮಾರ್ ಪತ್ನಿ ಟ್ವಿಂಕಲ್ ಖನ್ನಾ ಹೇಳಿದ ಕಿಚನ್ ಟಿಪ್ಸ್; ಜಿರಳೆ ಕಾಟಕ್ಕೆ ಈ ಸರಳ ಮನೆಮದ್ದು](https://vijaykarnataka.com/lifestyle/home-decor/twinkle-khanna-kitchen-remedy-to-get-rid-of-cockroaches/articleshow/134499248.cms)
 - [2026 ಪಿತೃ ಪಕ್ಷ: ಮನೆಯಲ್ಲಿ ಶ್ರಾದ್ಧ ಮಾಡುವ ಸರಳ ವಿಧಾನ.!](https://vijaykarnataka.com/religion/pooja-vidhana/pitru-paksha-2026-step-by-step-procedure-to-perform-shraddha/articleshow/134503981.cms)
 - [ಪಿತೃ ಪಕ್ಷ 2026: ಪಿತೃಗಳಿಗೆ ಪಾಯಸ-ಪೂರಿ ಅರ್ಪಿಸುವ ಸಂಪ್ರದಾಯ, ಮಾಡುವ ವಿಧಾನ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/home-decor/pitru-paksha-2026-kheer-puri-first-day-ancestor-offering/articleshow/134501695.cms)
-- [ಬೆಂಗಳೂರಿನ ಸತ್ಯಾತ್ಮ ತೀರ್ಥ ಸ್ವಾಮೀಜಿ ಕಾರು ಅಪಘಾತ! ಹಾವೇರಿ ಹೆದ್ದಾರಿಯಲ್ಲಿ ಘಟನೆ; ಹುಬ್ಬಳ್ಳಿ ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲು](https://vijaykarnataka.com/news/haveri/bengaluru-satyatma-tirtha-swamiji-car-accident-incident-occurred-on-haveri-nh4-highway-admitted-to-hubballi-hospital/articleshow/134515742.cms)
+- [ಹಿರಿಯರ ಸ್ಮರಣೆಗೆಂದೇ ಮೀಸಲು ಪಿತೃಪಕ್ಷ! ಇಂದಿನಿಂದ(ಸೆ.27) ಆರಂಭ, ಇಲ್ಲಿದೆ ಆಚರಣೆ ಮಹತ್ವ](https://vijaykarnataka.com/news/karnataka/pitru-paksha-is-dedicated-to-remembering-ancestors-it-begins-today-sept-27-here-is-the-significance-of-the-observance/articleshow/134514903.cms)
 
 **The Hindu**
+- [SIR in Maharashtra may have deleted 3 crore voters, claims MLA Rohit Pawar](https://www.thehindu.com/news/national/maharashtra/sir-in-maharashtra-may-have-deleted-3-crore-voters-claims-mla-rohit-pawar/article71515543.ece)
+- [Over 2000 citizens write to CJI to stay SIR, initiate suo motu proceedings on EC conduct](https://www.thehindu.com/news/national/over-2000-citizens-write-to-cji-to-stay-sir-initiate-suo-motu-proceedings-on-ec-conduct/article71515544.ece)
+- [Punjab varsity students protest, block highway over unverified rape report](https://www.thehindu.com/news/national/punjab/punjab-varsity-students-protest-block-highway-over-rape-of-female-student/article71515254.ece)
+- [At UNGA, Jaishankar hits back at Pakistan PM on terrorism, Indus Waters Treaty](https://www.thehindu.com/news/international/arguments-by-serial-practitioner-of-terrorism-will-not-stand-eam-jaishankar-slams-pakistan-at-unga/article71514019.ece)
+- [Tamil Nadu government exempts Public (Law and Order) Department from RTI Act](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-exempts-public-law-and-order-department-from-rti-act/article71515196.ece)
 - [Palle Panduga 3.0 set to be launched to transform rural roads](https://www.thehindu.com/news/national/andhra-pradesh/palle-panduga-30-set-to-be-launched-to-transform-rural-roads/article71515376.ece)
 - [Suvendu claims Mamata responsible for deletion of 27 lakh names in Bengal SIR, not BJP or ECI](https://www.thehindu.com/news/national/west-bengal/suvendu-claims-mamata-responsible-for-deletion-of-27-lakh-names-in-bengal-sir-not-bjp-or-eci/article71515437.ece)
 - [2024 Lok Sabha polls: DMDK’s Vijaya Prabhakaran to withdraw election petition against Congress MP Manickam Tagore’s victory](https://www.thehindu.com/news/national/tamil-nadu/2024-lok-sabha-polls-dmdks-vijaya-prabhakaran-to-withdraw-election-petition-against-congress-mp-manickam-tagores-victory/article71515304.ece)
 - [Two men die allegedly due to suffocation from chemical leak inside public toilet in Mumbai](https://www.thehindu.com/news/cities/mumbai/death-from-suspected-chemical-leak-in-goregaon-public-toilet/article71515462.ece)
 - [Surgical strikes presented bold example of India's counter-terrorism policy: PM Modi](https://www.thehindu.com/news/national/pm-modi-mann-ki-baat-surgical-strike-september-27-2026/article71515461.ece)
-- [Sachivalayam employees organise ‘Chalo Vijayawada’, stage protest at Dharna Chowk](https://www.thehindu.com/news/national/andhra-pradesh/sachivalayam-employees-organise-chalo-vijayawada-stage-protest-at-dharna-chowk/article71515413.ece)
-- [Sukhbir Singh Sandhu and Vivek Joshi | Dissent in the Election Commission](https://www.thehindu.com/news/national/sukhbir-singh-sandhu-and-vivek-joshi-dissent-in-the-commission/article71513848.ece)
-- [Karur stampede left an indelible scar: Tamil Nadu CM Vijay on first anniversary](https://www.thehindu.com/news/national/tamil-nadu/karur-stampede-left-an-indelible-scar-says-vijay-on-first-anniversary/article71515129.ece)
-- [Uttaradi math seer injured in accident; math clarifies he is out of danger](https://www.thehindu.com/news/national/karnataka/uttaradi-math-seer-injured-in-accident-math-clarifies-he-is-out-of-danger/article71515308.ece)
-- [Tamil Nadu government exempts Public (Law and Order) Department from RTI Act](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-exempts-public-law-and-order-department-from-rti-act/article71515196.ece)
 
 **Livemint**
+- [US-Iran war: Mojtaba Khamenei 'pulled from rubble' after strikes — New claim after Trump says Supreme leader ‘not dead’](https://www.livemint.com/news/world/usiran-war-mojtaba-khamenei-pulled-from-rubble-after-strikes-new-claim-after-trump-says-supreme-leader-not-dead-11790497646487.html)
 - [Mint explainer: what has changed in the new HAM highway contract?](https://www.livemint.com/news/hybrid-annuity-model-ham-new-mca-highway-projects-developers-payment-11790480682838.html)
 - [Who is Petal Gahlot? First Secretary at India’s Permanent Mission to the UN, who schooled Pak PM Shehbaz Sharif at UNGA](https://www.livemint.com/news/india/who-is-petal-gahlot-first-secretary-at-india-s-permanent-mission-to-the-un-who-schooled-pak-pm-shehbaz-sharif-at-unga-11790493201212.html)
 - [World Tourism Day 2026 special: These 5 locations became fan pilgrimage after iconic movies - Full details here](https://www.livemint.com/news/trends/world-tourism-day-2026-special-these-5-locations-became-fan-pilgrimage-after-iconic-movies-full-details-here-11790488001165.html)
@@ -83,7 +84,6 @@
 - [Russia, other countries back India's bid for permanent seat at UNSC, Lavrov opposes additional seats to Western nations](https://www.livemint.com/news/india/russia-other-countries-back-indias-bid-for-permanent-seat-at-unsc-lavrov-opposes-additional-seats-to-western-nations-11790484808113.html)
 - [Bengaluru techie's reality check on  ₹2 crore flats goes viral — ‘Gen Z getting humbled by housing prices’](https://www.livemint.com/news/trends/bengaluru-techies-reality-check-on-2-crore-flats-goes-viral-gen-z-getting-humbled-by-housing-prices-11790482595762.html)
 - [One dead, hundreds of flights cancelled, power lines hit as 'Nor'easter' storm batters parts of US: What we know so far](https://www.livemint.com/news/us-news/one-dead-hundreds-of-flights-cancelled-power-lines-hit-as-noreaster-storm-batters-parts-of-us-what-we-know-so-far-11790479673409.html)
-- [Google's birthday: Why the September 27 celebration doesn't match its official September 4 incorporation date](https://www.livemint.com/news/trends/googles-birthday-why-the-september-27-celebration-doesnt-match-its-official-september-4-incorporation-date-11790476765631.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,18 +98,20 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- ["ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ಆಯೋಗದ ಬಹುಮತವಿಲ್ಲದೆ ನಡೆಸಿದ ಚುನಾವಣೆಗಳು ಮತ್ತು SIR ಕಾನೂನುಬಾಹಿರವಲ್ಲವೇ?"](https://www.varthabharati.in/video/gyanesh-kumar-2278338)
+- [ಪಶ್ಚಿಮ ಬಂಗಾಳ SIR: 27 ಲಕ್ಷ ಮತದಾರರ ಹೆಸರು ಅಳಿಸಲು ಮಮತಾ ಬ್ಯಾನರ್ಜಿ ಕಾರಣ ಎಂದ ಸುವೇಂದು ಅಧಿಕಾರಿ](https://www.varthabharati.in/National/suvendra-adhikari-claims-mamatha-banerjee-is-the-reason-for-deletion-of-27-lakhs-voters-from-list-2278337)
+- [ಚುನಾವಣಾ ಆಯೋಗವನ್ನೇ ಕೈಗೊಂಬೆ ಮಾಡಿಕೊಂಡಿದ್ದಾರೆ: ದಿನೇಶ್ ಅಮಿನ್ ಮಟ್ಟು| Dinesh Amin Mattu | Special Interview](https://www.varthabharati.in/video/dinesh-amin-mattu-special-interview-2278335)
+- [ಯುಎನ್‌ನಲ್ಲಿ ಟ್ರಂಪ್ ಬೆದರಿಕೆಗೆ ಪೆಜೆಶ್ಕಿಯಾನ್ ಖಡಕ್ ಪ್ರತ್ಯುತ್ತರ | Masoud Pezeshkian UN Speech](https://www.varthabharati.in/video/pezeshkian-hits-back-at-trumps-threat-at-the-un-masoud-pezeshkian-un-speech-2278334)
 - [Chamarajanagar | ವ್ಯಕ್ತಿಯನ್ನು ಬಲಿ ತೆಗೆದುಕೊಂಡಿದ್ದ ಹುಲಿ ಸರೆ](https://www.varthabharati.in/chamarajanagar/chamarajanagar-2278331)
 - [Fact Check | ಜಂತರ್ ಮಂತರ್ ನಲ್ಲಿ ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ವಿರುದ್ಧ ಬೃಹತ್ ಪ್ರತಿಭಟನೆ ನಡೆಯುತ್ತಿಲ್ಲ; ಸ್ಪಷ್ಟನೆ ನೀಡಿದ ದಿಲ್ಲಿ ಪೊಲೀಸರು](https://www.varthabharati.in/National/delhi-police-fact-checks-viral-jantar-mantar-protest-video-amid-sir-row-2278330)
 - [ದಸರಾ ಉದ್ಘಾಟನೆ ಆಹ್ವಾನ ತಿರಸ್ಕರಿಸಿದ ಗವಿಸಿದ್ದೇಶ್ವರ ಶ್ರೀಗಳು ಎಂದು ಸುಳ್ಳು ಸುದ್ದಿ ಹರಡಿದ ಆರೋಪ: ಪ್ರಕರಣ ದಾಖಲು](https://www.varthabharati.in/koppala/koppala-2278327)
 - [ಮಾದಾಪುರ ಸರಕಾರಿ ಶಾಲೆಯಲ್ಲಿ ಮೂಲಸೌಕರ್ಯ ಕೊರತೆ: ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸಂಕಷ್ಟ](https://www.varthabharati.in/nimma-ankana/lack-of-infrastructure-at-madapura-government-school-students-face-hardship-2278295)
 - [South Africa | ಸಾಮೂಹಿಕ ಗುಂಡಿನ ದಾಳಿ : 17 ಮಂದಿ ಮೃತ್ಯು, 15 ಮಂದಿಗೆ ಗಾಯ](https://www.varthabharati.in/international/mass-firing-in-south-africa-kills-17-and-injures-15-2278325)
 - ['ಲವ್ ಜಿಹಾದ್', ಮರ್ಯಾದೆಗೇಡು ಹತ್ಯೆಗಳು ಮತ್ತು ಸಂವಿಧಾನ: ಭಾರತೀಯ ಮಹಿಳೆಯರು ಯಾರನ್ನು ಪ್ರೀತಿಸಬೇಕು ಎಂಬ ಬಗ್ಗೆ ತೀವ್ರಗೊಳ್ಳುತ್ತಿರುವ ಹೋರಾಟ](https://www.varthabharati.in/vishesha-varadigalu/love-jihad-honour-killings-and-constitution-whom-to-love-indian-women-2278324)
-- [‘ಪನೀರ್’ ಹೆಸರಿನಲ್ಲಿ ಹಾಲಿನ ಪರ್ಯಾಯ ಉತ್ಪನ್ನ ಮಾರಾಟಕ್ಕೆ FSSAI ತಡೆ](https://www.varthabharati.in/National/fssai-haults-sale-of-paneers-alternate-milk-product-2278323)
-- [ಕೊಲ್ಲೂರು ಶ್ರೀ ಮೂಕಾಂಬಿಕಾ ದೇವಸ್ಥಾನಕ್ಕೆ ಸಂಸದ ಬಿ.ವೈ.ರಾಘವೇಂದ್ರ, ಬಿಜೆಪಿ ರಾಜ್ಯಾಧ್ಯಕ್ಷ ವಿಜಯೇಂದ್ರ ಭೇಟಿ](https://www.varthabharati.in/udupi/mp-by-raghavendra-bjp-state-president-vijayendra-visit-kollur-sri-mookambika-temple-2278322)
-- [ಗುವಾಹಟಿಯಲ್ಲಿ ಸಿಜೆಪಿ ಸಹ-ಸಂಯೋಜಕ ಅಶುತೋಷ್ ರಂಕಾ, ತಂಡ ಪೊಲೀಸ್ ವಶಕ್ಕೆ](https://www.varthabharati.in/national/co-founder-of-cjp-ashutosh-ranka-arrested-by-police-in-guwahati-2278320)
-- [Dharwad | ಕಾರು ಅಪಘಾತ; ಉತ್ತರಾಧಿಮಠ ಶ್ರೀಗಳಿಗೆ ಸಣ್ಣಪುಟ್ಟ ಗಾಯ](https://www.varthabharati.in/dharwad/dharwad-car-accident-uttaradi-math-seer-sustains-minor-injuries-2278318)
 
 **Asianet Kannada**
+- [ಪ್ರತಿದಿನ ಬೆಳಗ್ಗೆ ಒಂದು ಲವಂಗ ತಿಂದರೆ ಬಹಳಷ್ಟು ಲಾಭಗಳಿವೆ!](https://kannada.asianetnews.com/gallery/health-life/amazing-health-benefits-of-eating-cloves-every-morning-on-an-empty-stomach-to-know-here-tsxzuuu)
+- [ಬೆಂಗಳೂರಿನ ಬಗ್ಗೆ 10 ವರ್ಷಗಳ ಅನುಭವ ಹಂಚಿಕೊಂಡ ಮಹಿಳೆ; ಟ್ರಾಫಿಕ್, ಆಹಾರ, ಪಾರ್ಟಿ, ರಾತ್ರಿಯ ಓಡಾಟದ ಬಗ್ಗೆ ಏನಂದ್ರು?](https://kannada.asianetnews.com/viral/woman-shares-what-she-learnt-after-10-years-in-bengaluru-goes-viral-rav/articleshow-n7r7o93)
 - [2019ರ ಸೆಮಿಫೈನಲ್‌ನಲ್ಲಿ ಅಂದು ನಡೆದಿದ್ದೇನು? ವಿಶ್ವಕಪ್ ಸೋಲಿನ ಅಸಲಿ ನೋವು ಬಿಚ್ಚಿಟ್ಟ 'ಕಿಂಗ್ ಕೊಹ್ಲಿ'!](https://kannada.asianetnews.com/cricket-sports/virat-kohli-breaks-silence-on-2019-world-cup-heartbreak-says-it-was-a-horrible-hangover/articleshow-bzuflf8)
 - [Bigg Boss 13: ಕಿಚ್ಚನ ಚಪ್ಪಾಳೆ ಈ ಬಾರಿ ಫ್ರೀಯಲ್ಲ, ಜೊತೆಗೆ ಸಿಗತ್ತೆ ಒಂದು ಲಕ್ಷ ರೂ! ಮೊದಲು ಪಡೆದಾಕೆ ಇವರೇ](https://kannada.asianetnews.com/gallery/tv-talk/asiya-firdose-of-bigg-boss-13-kichchana-chappale-with-one-lakh-rupees-suc-r8mfv1f)
 - [ಬೆಳಗಿನ ತಿಂಡಿಗೆ ಮಾಡಿ ನೋಡಿ ಸಾಫ್ಟ್‌ ಹಾಗೂ ಸ್ಪಂಜಿನಂತಿರುವ ಬನ್ ದೋಸೆ; ಮಾಡೋದು ತುಂಬಾ ಸುಲಭ!](https://kannada.asianetnews.com/food/bun-dosa-breakfast-recipe-suh/articleshow-p97az8l)
@@ -118,8 +120,6 @@
 - [ಎಲ್ಲರೂ ಡಾಲರ್ ನೋಡ್ತಾರೆ, ಆದ್ರೆ ತ್ಯಾಗಗಳನ್ನಲ್ಲ...; ಕೆನಡಾದಲ್ಲಿರುವ ಭಾರತೀಯ ಯುವತಿಯ ವಿಡಿಯೋ ವೈರಲ್](https://kannada.asianetnews.com/viral/indian-woman-in-canada-shares-hidden-struggles-of-living-abroad-in-viral-video-sat/articleshow-glefg1g)
 - [ರೆಸಿಪಿ ಬದಲಾಗದಿದ್ರೂ ವಿಮಾನದಲ್ಲಿ ತಿನ್ನುವಾಗ ಆಹಾರದ ರುಚಿ ಏಕೆ ಬೇರೆ? ಇಲ್ಲಿದೆ ಇಂಟರೆಸ್ಟಿಂಗ್ ಫ್ಯಾಕ್ಟ್](https://kannada.asianetnews.com/gallery/life/why-does-food-taste-different-on-an-airplane-what-happens-to-your-taste-buds-at-35000-feet-rav-etc74io)
 - [Chamarajanagar: ಕರ್ನಾಟಕಕ್ಕೆ ಆಗಮಿಸುತ್ತಿದ್ದ ತಮಿಳುನಾಡಿನ ಹಸುಗಳಿಗೆ ನಿರ್ಬಂಧ, ಬರಪರಿಸ್ಥಿತಿಯಿಂದ ಎಚ್ಚೆತ್ತ ಅರಣ್ಯ ಇಲಾಖೆ!](https://kannada.asianetnews.com/karnataka-districts/restrictions-imposed-on-cattle-from-tamil-nadu-entering-karnataka-forest-department-takes-action-drought-conditions-sns/articleshow-e1n2tby)
-- [ಈ 7 ಲಕ್ಷಣಗಳು ಕಂಡುಬಂದರೆ ಕಿಡ್ನಿ ಸ್ಟೋನ್ ಸಮಸ್ಯೆ ಇರಬಹುದು ಎಚ್ಚರ.. ನಿರ್ಲಕ್ಷ್ಯ ಮಾಡ್ಬೇಡಿ!](https://kannada.asianetnews.com/gallery/health-life/kidney-stone-early-signs-and-symptoms-to-watch-out-for-to-know-here-w1f890g)
-- [ಕಾಲೇಜು ಹಾಸ್ಟೆಲ್‌ಗೆ ಹೊರಟಿದ್ದ 22ರ ವಿದ್ಯಾರ್ಥಿನಿ ಹೋಮ್‌ಸ್ಟೇನಲ್ಲಿ ಅನುಮಾನಾಸ್ಪದ ಸಾವು!](https://kannada.asianetnews.com/india-news/guwahati-university-student-nimisha-thakuria-tragic-passing-homestay-case-sat/articleshow-atl5pop)
 
 **News18 Kannada** — _unavailable_
 
@@ -136,9 +136,6 @@
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್​: ಹೀಗಾದ್ರೆ ಮಾತ್ರ ಭಾರತ vs ಪಾಕಿಸ್ತಾನ್ ಮುಖಾಮುಖಿ](https://tv9kannada.com/sports/cricket-news/asian-games-2026-how-india-vs-pakistan-clash-can-happen-1243172.html)
 
 **Prajavani**
-- [ಮಮ್ಮುಟ್ಟಿ ಹಣೆಗೆ ತಿಲಕ: ಟೀಕಾಕಾರರನ್ನು 'ಬಾವಿ ಕಪ್ಪೆ' ಎಂದ ಹರಿಶ್ರೀ ಯೂಸುಫ್](https://www.prajavani.net/entertainment/cinema/mammootty-tilak-controversy-harisree-yusuf-reaction-4291149)
-- [ದಸರಾ ವಿಚಾರದಲ್ಲಿ ಸುಳ್ಳು ಸುದ್ದಿ ಪ್ರಕಟ: ಕೊಪ್ಪಳದಲ್ಲಿ ಎಫ್‌ಐಆರ್‌ ದಾಖಲು](https://www.prajavani.net/news/karnataka-news/koppal-police-file-fir-against-fake-news-on-dasara-inauguration-4291179)
-- [ಯಾವ ಪ್ರೆಸ್ಟೀಜ್ ಇಲ್ಲ, ಕುಮಾರಸ್ವಾಮಿ ಯೋಜನೆ ಮುಂದುವರಿಸುತ್ತಿದ್ದೇನೆ: ಡಿಕೆಶಿ](https://www.prajavani.net/news/karnataka-news/dk-shivakumar-on-bidadi-township-and-kumaraswamy-plan-4291174)
 - [ನಟ ಮುಷ್ತಾಕ್ ಜತೆ ಕೆಲಸ ಮಾಡುವ ಬಯಕೆ: ಭಾವುಕ ಸಂದೇಶ ಹಂಚಿದ ನಿರ್ದೇಶಕ ವಿಶಾಲ್](https://www.prajavani.net/entertainment/cinema/mushtaq-khan-vishal-chaturvedi-tribute-4291112)
 - [ಅಲ್ಪಸಂಖ್ಯಾತ ಮತದಾರರ ಕೈಬಿಡಲು ಸಂಚು: ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ. ಶಿವಕುಮಾರ್‌](https://www.prajavani.net/news/karnataka-news/bengaluru-minority-voters-conspiracy-dk-shivakumar-statement-4290414)
 - [ಬೆಳಗಾವಿ: ಗಣೇಶ ಮೂರ್ತಿಗಳ ವಿಸರ್ಜನೆ, 42 ತಾಸು ನಡೆದ ಮೆರವಣಿಗೆ](https://www.prajavani.net/district/belagavi/belagavi-ganesha-immersion-procession-record-duration-4291142)
@@ -146,35 +143,28 @@
 - [ಬರ ಪರಿಸ್ಥಿತಿ ಅಧ್ಯಯನ: ಅಕ್ಟೋಬರ್ 3ರಿಂದ ರಾಜ್ಯಕ್ಕೆ ಕೇಂದ್ರ ತಂಡ ಭೇಟಿ](https://www.prajavani.net/news/karnataka-news/central-team-to-visit-karnataka-for-drought-assessment-4291118)
 - [ಹಿರೇಕೆರೂರ ತಾಲ್ಲೂಕು ಕಚೇರಿಯಲ್ಲಿ ಸ್ವಚ್ಛತೆ ಮಾಯ:ಕಸದಿಂದ ಆವೃತ್ತವಾದ ಕಚೇರಿ ಆವರಣ](https://www.prajavani.net/district/haveri/hirekerur-taluk-office-cleanliness-missing-public-grievance-4290699)
 - [ಸೂಪರ್‌ ಸಂಡೇ ವಿತ್‌ ಬಾದ್‌ಷಾ: ಸಿನಿ ಪಯಣದಲ್ಲಿ 30 ವರ್ಷ ಪೂರೈಸಿದ ಕಿಚ್ಚ ಸುದೀಪ್‌](https://www.prajavani.net/entertainment/cinema/kiccha-sudeep-thirty-years-cinema-celebration-4291078)
+- [ಉತ್ತರ ಕನ್ನಡ| ಯುವ ಮತದಾರರದ್ದೇ ಪಾರುಪತ್ಯ! ; ರಾಜಕೀಯ ಪಕ್ಷಗಳಿಗೆ ಸವಾಲು](https://www.prajavani.net/district/uttara-kannada/uttara-kannada-youth-voters-challenge-political-parties-election-4290669)
+- [ಸಿರುಗುಪ್ಪ: ಜ್ಞಾನವಿಕಾಸ ಕೇಂದ್ರದ ವಾರ್ಷಿಕೋತ್ಸವ ಮತ್ತು ವರಮಹಾಲಕ್ಷ್ಮಿ ಪೂಜೆ](https://www.prajavani.net/district/ballari/siruguppa-jnanavikasa-kendra-annual-day-varamahalakshmi-pooje-4290990)
+- [ವಿಶ್ವ ನದಿಗಳ ದಿನ: ಚಿಕ್ಕಬಳ್ಳಾಪುರ ಜಿಲ್ಲೆಯ ನದಿಗಳಿಗಿಲ್ಲ ರಕ್ಷಣೆ, ಕಾಯಕಲ್ಪ](https://www.prajavani.net/district/chikkaballapur/chikkaballapur-rivers-lack-protection-revitalization-water-crisis-4290406)
 
-**eedina**
-- [ಹಾಸನ | SIR ವಿರೋಧ: ಚುನಾವಣಾ ಆಯೋಗ ಅಕ್ರಮವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿದೆ; ನಟ ಪ್ರಕಾಶ್ ರಾಜ್](https://eedina.com/?p=766850)
-- [4 ವರ್ಷಗಳಲ್ಲಿ 111 ಸಂಸದರು, ಶಾಸಕರ ಪಕ್ಷಾಂತರ: ಶೇ. 26ರಷ್ಟು ನಾಯಕರನ್ನು ಸೇರಿಸಿಕೊಂಡ ಬಿಜೆಪಿ!](https://eedina.com/?p=766843)
-- [ಹುಬ್ಬಳ್ಳಿ | ಶೇಕ್ರಾ ನಾಯ್ಕ ಅವರಿಗೆ ವಿಭಾ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ](https://eedina.com/?p=766840)
-- [ಅಲ್ಲಮನ ಅನನ್ಯ ಪದಪ್ರಯೋಗಗಳು | ಅತಿನಿದ್ರಿಗಳು](https://eedina.com/?p=763164)
-- [ಚುನಾವಣಾ ಆಯೋಗದ ಸಭೆ: ಪರಿಹಾರವಲ್ಲ, ತೇಪೆ ಹಚ್ಚುವ ಕಾರ್ಯಕ್ರಮ](https://eedina.com/?p=766831)
-- [ಮಳೆ ಅಬ್ಬರ: ಉತ್ತರ ಪ್ರದೇಶದಲ್ಲಿ 10 ಮಂದಿ ಸಾವು; ಒಡಿಶಾದಲ್ಲಿ ಪ್ರವಾಹ](https://eedina.com/?p=766830)
-- [26 ಬಾರಿ ಸೋತರೂ ಕುಗ್ಗದ ಛಲ; 59ನೇ ವಯಸ್ಸಿನಲ್ಲಿ ಸರ್ಕಾರಿ ಶಿಕ್ಷಕ ಹುದ್ದೆ ಪಡೆದ ವೃದ್ಧ](https://eedina.com/?p=766826)
-- [ಬೆಳಗಾವಿ | ಇಂದು ಬಸವ ಜಯಂತಿ ಉತ್ಸವ ಸಮಿತಿ ಅಭಿನಂದನಾ ಸಮಾರಂಭ](https://eedina.com/?p=766822)
-- [1,870 ಕೋಟಿ ರೂ. ದೇಣಿಗೆ ದಂಧೆ ಆರೋಪ: ಗುಜರಾತ್‌ನ 3 ರಾಜಕೀಯ ಪಕ್ಷಗಳ ಅಕ್ರಮ ಬಯಲು](https://eedina.com/?p=766816)
-- [ಬೆಳಗಾವಿ | ಸಾವಿನ ಕದ ತಟ್ಟಿ ಬಂದ ರೈತನ ಮಗನಿಗೆ 12 ಚಿನ್ನದ ಪದಕ](https://eedina.com/?p=766815)
+**eedina** — _unavailable_
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
 - India's (4.2)
+- India (3.5)
 - ICICI Securities (3.0)
 - target (3.0)
+- UNGA (2.9)
+- US-Iran (2.6)
+- UNSC (2.6)
 - What (2.6)
-- September (2.6)
 - Chamarajanagar (2.6)
-- India (2.2)
+- Mojtaba Khamenei (2.0)
 - Tamil Nadu (2.0)
-- Election Commission (2.0)
 - Buy Bajaj Finance (2.0)
-- Vijay (1.9)
+- Defence (1.9)
 - Congress (1.9)
-- NDTV (1.6)
-- Mamata (1.6)
 
 ## NewsAPI top headlines (India)
 
