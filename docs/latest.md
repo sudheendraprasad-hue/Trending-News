@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-27 22:35:42
+# India Trending Report — 2026-09-27 23:01:46
 
 ## Google Trends (India) — top trending searches
 1. [columbus vs inter miami](https://trends.google.com/trending/rss?geo=IN)
 2. [income tax audit](https://trends.google.com/trending/rss?geo=IN)
 3. [germany vs](https://trends.google.com/trending/rss?geo=IN)
-4. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
-5. [renato veiga](https://trends.google.com/trending/rss?geo=IN)
-6. [full moon](https://trends.google.com/trending/rss?geo=IN)
-7. [bolivia vs paraguay](https://trends.google.com/trending/rss?geo=IN)
-8. [mivi one 5g phone](https://trends.google.com/trending/rss?geo=IN)
-9. [diogo costa](https://trends.google.com/trending/rss?geo=IN)
-10. [francisco conceição](https://trends.google.com/trending/rss?geo=IN)
+4. [germany national football team](https://trends.google.com/trending/rss?geo=IN)
+5. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
+6. [renato veiga](https://trends.google.com/trending/rss?geo=IN)
+7. [full moon](https://trends.google.com/trending/rss?geo=IN)
+8. [bolivia vs paraguay](https://trends.google.com/trending/rss?geo=IN)
+9. [mivi one 5g phone](https://trends.google.com/trending/rss?geo=IN)
+10. [diogo costa](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -22,8 +22,8 @@
 - [New Green Card rules from September: Categories affected and those exempt](https://timesofindia.indiatimes.com/technology/tech-news/new-green-card-rules-that-came-into-effect-starting-this-september-list-of-categories-subject-to-the-changes-and-those-that-are-not-impacted/articleshow/134515826.cms)
 - [Boeing flags 737 MAX glitch that may turn off auto pilot](https://timesofindia.indiatimes.com/india/boeing-flags-737-max-glitch-that-may-turn-off-auto-pilot/articleshow/134526139.cms)
 - [$17.1M to restore 206,000 acres, 225 miles for wildlife movement in West](https://timesofindia.indiatimes.com/science/wildlife/fourteen-us-projects-will-restore-or-protect-wildlife-movement-across-more-than-206000-acres-and-improve-225-miles-of-fencing-after-a-new-17-1-million-conservation-investment-across-the-west/articleshow/134514775.cms)
-- [BJP CMs counter-attack, demand opposition apology for its 'fabricated' campaign](https://timesofindia.indiatimes.com/india/bjp-cms-counter-attack-demand-oppn-apology-for-its-fabricated-campaign/articleshow/134526204.cms)
-- [SIR tweaks proof of 'disaster', says Congress](https://timesofindia.indiatimes.com/india/akhilesh-to-skip-india-bloc-meet-on-sept-30-sir-tweaks-proof-of-disaster-says-congress/articleshow/134526193.cms)
+- [Apple bets on heart-health features to win watch buyers](https://timesofindia.indiatimes.com/business/india-business/apple-bets-on-heart-health-features-to-win-watch-buyers/articleshow/134528827.cms)
+- [2 separate shootings in S Africa townships leave at least 27 dead](https://timesofindia.indiatimes.com/world/rest-of-world/27-killed-in-two-separate-mass-shootings-near-south-africas-biggest-cities/articleshow/134515864.cms)
 
 **NDTV**
 - [Amritpal Singh's Waris Punjab De A New Challenge For Akali Dal Ahead Of Polls](https://www.ndtv.com/india-news/amritpal-singhs-waris-punjab-de-a-new-challenge-for-akali-dal-ahead-of-polls-12106559#publisher=newsstand)
@@ -134,9 +134,6 @@
 - [ಜ್ಞಾನೇಶ್ ಬಿಜೆಪಿಯ ಏಜೆಂಟ್: ಕೆಪಿಸಿಸಿ ಅಧ್ಯಕ್ಷ ಬಿ.ಕೆ. ಹರಿಪ್ರಸಾದ್](https://www.prajavani.net/news/karnataka-news/bk-hariprasad-criticizes-gyanesh-kumar-bjp-agent-allegation-4292165)
 - [ಅಕ್ರಮ ಜೂಜು: ಗೇಮ್ಸ್‌ಕ್ರಾಫ್ಟ್‌
 ₹442.35 ಕೋಟಿ ಮುಟ್ಟುಗೋಲು](https://www.prajavani.net/district/bengaluru-city/gameskraft-technologies-assets-seizure-ed-online-gambling-fraud-4292262)
-- [‘ಕಿಂಗ್’ ಕೊಹ್ಲಿ,‘ಪ್ರಿನ್ಸ್’ ಗಿಲ್ ಶತಕದ ವೈಭವ; ಭಾರತಕ್ಕೆ ಮಣಿದ ವೆಸ್ಟ್‌ ಇಂಡೀಸ್](https://www.prajavani.net/sports/cricket/india-vs-west-indies-odi-kohli-gill-centuries-victory-4292068)
-- [ಜನಗಣತಿ| ಸ್ವಯಂ ಗಣತಿ ಪೂರ್ಣಗೊಳಿಸಿ: ಮನದ ಮಾತು ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ ಪ್ರಧಾನಿ  ಕರೆ](https://www.prajavani.net/news/india-news/pm-modi-mann-ki-baat-census-self-enumeration-surgical-strike-anniversary-4292050)
-- [ಅಹಮದಾಬಾದ್‌: ದೇಶದ ಮೊದಲ ಎಲ್‌ಎನ್‌ಜಿ ಚಾಲಿತ ರೈಲಿಗೆ ಅಮಿತ್ ಶಾ  ಚಾಲನೆ](https://www.prajavani.net/news/india-news/india-first-lng-powered-train-inauguration-amit-shah-4292275)
 
 **eedina**
 - [ಯಾದಗಿರಿ | ತತ್ವಪದಕಾರ ಅವಧೂತ ಶ್ರೀ ರಂಗಲಿಂಗೇಶ್ವರ ಕುರಿತು ವಿಶೇಷ ಉಪನ್ಯಾಸ](https://eedina.com/?p=767051)
@@ -155,7 +152,6 @@
 - September (5.2)
 - strike (2.7)
 - Lovely Professional University (2.0)
-- Congress (1.6)
 - Polls (1.6)
 - Odisha (1.6)
 - High (1.6)
@@ -166,20 +162,21 @@
 - Iranian (1.3)
 - Taiz (1.3)
 - Categories (1.3)
+- Boeing (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ['ബെത്‌ലഹേം കുടുംബ യൂണിറ്റി'ന്‍റെ ഒടിടി റിലീസ് തിയതി എത്തി](https://www.asianetnews.com/entertainment-news/nivin-pauly-movie-bethlehem-kudumba-unit-ott-streaming-from-october-2-on-jiohotstar-articleshow-0sx46xr)
-- [Virender Sehwag Sara Gurpal: 'क्रिकेटर्स मला मेसेज करतात'; Reality शोमध्ये दाखवले चॅट, वीरेंद्र सेहवाग म्हणाले, 'म्हणून रन होत नाहीत...'](https://marathi.abplive.com/entertainment/sara-gurpal-reveals-cricketers-slide-into-her-dms-virender-sehwags-savage-comment-steals-the-show-1440420)
-- [പ്രിയദർശിനി ബസിൽ പെൺകുട്ടിയെ അപമാനിച്ച സംഭവം; നടപടിക്ക് നിർദേശം നൽകി മുഖ്യമന്ത്രി](https://www.newsmalayalam.com/newsroom/kerala/incident-involving-the-harassment-of-a-girl-on-the-priyadarshini-bus-chief-minister-orders-action)
-- [Vidyanand Bapat : विद्यानंद बापटांचा भाषणाच्या सुरुवातीला प्रश्न, म्हणाले, 'इथे कोण कोण पेठेतून आलंय?' उत्तर मिळताच हसले अन् म्हणाले..](https://marathi.abplive.com/news/pune/vidyanand-bapat-pune-dj-sound-controversy-amol-palekar-felicitation-speech-peth-residents-150-years-old-lifestyle-roads-festivals-maharashtra-marathi-news-1440422)
-- [કચ્છ નીલપર શાળા દુષ્કર્મ કેસ: ફરાર આચાર્ય વિપુલ ગોહિલ આણંદના સોજીત્રાથી ઝડપાયો, ગૃહમાતા સહિત 3 સામે ગુનો નોંધાયો](https://www.gujaratsamachar.com/news/kutch/kutchs-nilpar-school-case-absconding-principal-vipul-gohil-arrested-from-sojitra-crime-registered-against-three-including-housewife-10267064585)
-- [Asian Games 2026 Day 9 Live: सर्वेश कुशारे ने हाई जंप में जीता सिल्वर, पारुल के नाम ब्रॉन्ज़](https://www.abplive.com/sports/asian-games-2026-day-9-live-update-india-medal-tally-schedule-27-september-results-3194246)
-- [കാര്യവട്ടത്തും വന്ദേമാതരം മുഴങ്ങി, ആലപിച്ചത് ദേശീയ ഗാനത്തിന് മുൻപ്](https://www.mathrubhumi.com/sports/cricket/india-vs-west-indies-vandemataram-karyavattom-ywzme2wo)
-- [வாக்காளர் ஆவணங்களை வீடுகளுக்கே சென்று சேகரிக்க உத்தரவு](https://www.tamilmurasu.com.sg/india/order-collect-elector-documents-visiting-homes)
-- [விமர்சனங்களை மீறி 136 கோடி வசூலித்த தி பாரடைஸ்](https://cinema.dinamalar.com/news/kollywood/the-paradise-collected-136-crore-despite-criticism/141138)
-- [Mamata Banerjee: মমতার সুবিধাবাদের রাজনীতি! BJP-র সঙ্গে জোট দিয়ে শুরু, তারপরে হঠাৎ হাত ধরলেন কংগ্রেসের, এখন পরম বন্ধু চিরশত্রু CPIM-ও](https://bengali.news18.com/news/kolkata/mamata-banerjee-s-politics-of-convenience-journey-from-bjp-ally-nda-to-congress-partner-upa-to-recent-left-outreach-sta-2909008.html)
+- [Maharashtra Weather Tomorrow (उद्याचे हवामान): आभाळ फाटणार, भरपूर पाऊस बरसणार! ‘या’ 7 जिल्ह्यांना मुसळधार पावसाचा इशारा](https://marathi.timesnownews.com/maharashtra/maharashtra-weather-forecast-tomorrow-28-september-2026-heavy-rain-alert-for-7-districts-monsoon-withdrawal-updates-article-156234299)
+- [CJP નેતા આશુતોષ રાંકાની અટકાયત, અજ્ઞાત સ્થળે લઈ જવાતા હડકંપ; વકીલોને મળવા ન દેવાતા હોવાનો દીપકેનો દાવો](https://www.gujaratsamachar.com/news/national/cjp-leader-ashutosh-ranka-detained-taken-to-unknown-location-agitation-deepke-claims-that-lawyers-are-not-allowed-to-meet-him-30408884871)
+- [मंत्री प्रवेश वर्मा ने बहस के बाद युवक को मारा थप्पड़, केजरीवाल ने की गिरफ्तारी की मांग](https://www.jagran.com/delhi/new-delhi-city-delhi-minister-pravesh-verma-slaps-youth-kejriwal-demands-arrest-40386988.html)
+- [A scientist turned an $80 motel room into a makeshift lab; then she discovered two new species of microscopic amoebae](https://timesofindia.indiatimes.com/science/nature/a-scientist-turned-an-80-motel-room-into-a-makeshift-lab-then-she-discovered-two-new-species-of-microscopic-amoebae/articleshow/134518611.cms)
+- [தென் ஆப்பிரிக்காவில் துப்பாக்கி சூடு; 27 பேர் பலி](https://www.dailythanthi.com/news/world/gunfire-in-south-africa-27-killed)
+- [સુરત : 'દીકરાને સતત ખેંચ આવવા લાગી, આંખો ઉપર ચડી ગઈ', રસીકરણ બાદ બાળકોને કેમ દાખલ કરવાં પડ્યાં?](https://www.bbc.com/gujarati/articles/c6y0zerd0rg1o)
+- [రూ.18లక్షల అప్పు.. అనుష్క శర్మ ఆర్డర్‌తో రెస్టారెంట్ దశే మారిపోయింది!](https://www.andhrajyothy.com/2026/prathyekam/anushka-sharma-chole-bhature-order-changes-delhi-se-restaurant-fate-srav-1561928.html)
+- [Suvendu Adhikari: শুভেন্দু অধিকারীর মৃত্যুকামনা? হুমায়ুন কবীরের বিরুদ্ধে অভিযোগ দায়ের হল](https://bengali.abplive.com/district/humayun-kabir-faces-fir-for-allegedly-wishing-death-of-suvendu-adhikari-ahead-of-rejinagar-by-elections-1194349)
+- [गोविंदा की 'गर्लफ्रेंड' पर भड़कीं बहू कश्मीरा, लगाई लताड़, बोलीं- कातिल कहा है](https://www.aajtak.in/entertainment/bollywood-news/story/govinda-girlfriend-komal-rani-swarnkar-called-sunita-ahuja-murderers-kashmera-shah-reacts-tmovb-dskc-2654569-2026-09-27)
+- [राजनीति, कोचिंग या वापस विदेश? Ex-IAS दिव्या मित्तल ने अपनी नई पोस्ट से बढ़ाया सस्पेंस, कहा- 29 सितंबर सुबह बताऊंगी](https://www.aajtak.in/uttar-pradesh/story/former-ias-divya-mittal-social-media-post-next-plan-29-september-politics-coaching-book-lcln-dskc-2654586-2026-09-27)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
