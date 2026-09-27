@@ -1,41 +1,41 @@
-# India Trending Report — 2026-09-27 20:02:14
+# India Trending Report — 2026-09-27 20:34:35
 
 ## Google Trends (India) — top trending searches
-1. [francisco conceição](https://trends.google.com/trending/rss?geo=IN)
-2. [israel vs ireland](https://trends.google.com/trending/rss?geo=IN)
-3. [portugal](https://trends.google.com/trending/rss?geo=IN)
-4. [joão félix](https://trends.google.com/trending/rss?geo=IN)
-5. [portugal fc](https://trends.google.com/trending/rss?geo=IN)
-6. [joão palhinha](https://trends.google.com/trending/rss?geo=IN)
-7. [portugal national football team](https://trends.google.com/trending/rss?geo=IN)
-8. [germany vs greece](https://trends.google.com/trending/rss?geo=IN)
-9. [bank strike news](https://trends.google.com/trending/rss?geo=IN)
-10. [mexx meerdink](https://trends.google.com/trending/rss?geo=IN)
+1. [tax audit extension](https://trends.google.com/trending/rss?geo=IN)
+2. [erling haaland](https://trends.google.com/trending/rss?geo=IN)
+3. [full moon](https://trends.google.com/trending/rss?geo=IN)
+4. [mivi one 5g phone](https://trends.google.com/trending/rss?geo=IN)
+5. [bolivia vs paraguay](https://trends.google.com/trending/rss?geo=IN)
+6. [francisco conceição](https://trends.google.com/trending/rss?geo=IN)
+7. [israel vs ireland](https://trends.google.com/trending/rss?geo=IN)
+8. [portugal](https://trends.google.com/trending/rss?geo=IN)
+9. [portugal fc](https://trends.google.com/trending/rss?geo=IN)
+10. [joão félix](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Proposed bank strike deferred after talks between bank body and unions](https://timesofindia.indiatimes.com/business/india-business/proposed-bank-strike-deferred-after-talks-between-bank-body-and-unions/articleshow/134524605.cms)
 - [LPU row escalates: Stones pelted, vehicles set on fire as police lathicharge students](https://timesofindia.indiatimes.com/city/chandigarh/lpu-row-escalates-police-lathicharge-students-after-highway-blockade-stone-pelting-reported/articleshow/134522175.cms)
+- [Proposed bank strike deferred after talks between bank body and unions](https://timesofindia.indiatimes.com/business/india-business/proposed-bank-strike-deferred-after-talks-between-bank-body-and-unions/articleshow/134524605.cms)
 - [5 held in UK for suspected plot to attack air base used by US](https://timesofindia.indiatimes.com/world/uk/5-held-in-uk-for-suspected-plot-to-attack-air-base-used-by-us/articleshow/134525372.cms)
 - [Yemeni government forces claim four Iranian experts killed in Taiz](https://timesofindia.indiatimes.com/world/middle-east/4-iranian-experts-killed-in-taiz-as-yemen-army-unleashes-756-operation-offensive-against-houthis/articleshow/134525782.cms)
-- [3 killed, 4 injured after fight erupts into gunfire at Detroit strip club in US](https://timesofindia.indiatimes.com/world/us/detroit-strip-club-shooting-argument-turns-deadly-3-killed-and-4-injured/articleshow/134524307.cms)
+- [India to attend SCO officials' meeting in Pakistan](https://timesofindia.indiatimes.com/india/india-to-attend-sco-officials-meeting-in-pakistan/articleshow/134526093.cms)
 - [New Green Card rules from September: Categories affected and those exempt](https://timesofindia.indiatimes.com/technology/tech-news/new-green-card-rules-that-came-into-effect-starting-this-september-list-of-categories-subject-to-the-changes-and-those-that-are-not-impacted/articleshow/134515826.cms)
-- [15,000 runs for Kohli! Virat joins Sachin Tendulkar in ODI record book](https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/virat-kohli-becomes-only-the-second-batter-after-sachin-tendulkar-to-reach-this-milestone/articleshow/134522424.cms)
+- [Two dead after avalanche hits Himlung Himal base camp in Nepal; 10 missing](https://timesofindia.indiatimes.com/world/south-asia/two-bodies-recovered-after-deadly-himlung-himal-avalanche-12-remain-missing-in-nepal/articleshow/134525989.cms)
 - [$17.1M to restore 206,000 acres, 225 miles for wildlife movement in West](https://timesofindia.indiatimes.com/science/wildlife/fourteen-us-projects-will-restore-or-protect-wildlife-movement-across-more-than-206000-acres-and-improve-225-miles-of-fencing-after-a-new-17-1-million-conservation-investment-across-the-west/articleshow/134514775.cms)
-- [Barrier-free tolling: How FASTag & number plates will auto-collect toll](https://timesofindia.indiatimes.com/business/india-business/indias-barrier-free-tolling-explained-no-more-stopping-as-fastag-number-plate-recognition-will-help-collect-toll-automatically/articleshow/134520514.cms)
-- [When ‘secret spot’ goes viral: The tourism trap of too many views, too many visitors](https://timesofindia.indiatimes.com/india/when-secret-spot-goes-viral-the-tourism-trap-of-too-many-views-too-many-visitors/articleshow/134518410.cms)
+- [3 killed, 4 injured after fight erupts into gunfire at Detroit strip club in US](https://timesofindia.indiatimes.com/world/us/detroit-strip-club-shooting-argument-turns-deadly-3-killed-and-4-injured/articleshow/134524307.cms)
+- [15,000 runs for Kohli! Virat joins Sachin Tendulkar in ODI record book](https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/virat-kohli-becomes-only-the-second-batter-after-sachin-tendulkar-to-reach-this-milestone/articleshow/134522424.cms)
 
 **NDTV**
-- [3-Day Bank Strike Deferred After Meeting Between Association, Unions](https://www.ndtv.com/india-news/3-day-bank-strike-deferred-after-meeting-between-banks-association-unions-12106408#publisher=newsstand)
-- [UP Makes Display Of 'Use By Date' Mandatory For All Sweets](https://www.ndtv.com/india-news/up-makes-display-of-use-by-date-mandatory-for-all-sweets-12106500#publisher=newsstand)
-- [2 Children Killed, Their Mothers Injured After Water Tank Collapses In Gurugram](https://www.ndtv.com/india-news/2-children-killed-their-mothers-injured-after-water-tank-collapses-in-gurugram-12106499#publisher=newsstand)
-- [2 Killed, 10 Missing After Avalanche Strikes Nepal's Himlung Himal Peak](https://www.ndtv.com/world-news/2-killed-10-missing-after-avalanche-strikes-nepals-himlung-himal-peak-12106461#publisher=newsstand)
-- ["They Overplayed Their Hand": Trump Says Talks With Iran To Resume Next Week](https://www.ndtv.com/world-news/they-overplayed-their-hand-donald-trump-says-talks-with-iran-to-resume-next-week-12106459#publisher=newsstand)
-- [Sikkim Village May Be Declared 'Uninhabitable' After Series Of Landslides](https://www.ndtv.com/india-news/sikkim-village-may-be-declared-uninhabitable-after-series-of-landslides-12106440#publisher=newsstand)
-- [5 Years After 'Battle Of Baghpat' Over Chaat, 'War Of Hapur' Over Chutney](https://www.ndtv.com/india-news/5-years-after-battle-of-baghpat-over-chaat-war-of-hapur-over-chutney-12106414#publisher=newsstand)
-- [3 Killed, 4 Injured After Argument Leads To Gunfire At US Strip Club](https://www.ndtv.com/world-news/3-killed-4-injured-after-argument-leads-to-gunfire-at-us-strip-club-12106418#publisher=newsstand)
+- [Amritpal Singh's Waris Punjab De A New Challenge For Akali Dal Ahead Of Polls](https://www.ndtv.com/india-news/amritpal-singhs-waris-punjab-de-a-new-challenge-for-akali-dal-ahead-of-polls-12106559#publisher=newsstand)
 - ['Self-regulation Is Not Enough': Bill Gates Joins Calls For AI Safeguards](https://www.ndtv.com/world-news/self-regulation-is-not-enough-bill-gates-joins-calls-for-ai-safeguards-12106403#publisher=newsstand)
 - [Students Deny 'Rape' In Video Released By Punjab's Lovely Professional University, Then Call It Scripted](https://www.ndtv.com/india-news/punjab-university-lpu-students-protest-rape-lovely-professional-university-12106376#publisher=newsstand)
+- [2 Killed, 10 Missing After Avalanche Strikes Nepal's Himlung Himal Peak](https://www.ndtv.com/world-news/2-killed-10-missing-after-avalanche-strikes-nepals-himlung-himal-peak-12106461#publisher=newsstand)
+- ['Will Deter Enemy From War': Israel Minister Calls For Lebanon, Gaza Takeover](https://www.ndtv.com/world-news/will-deter-enemy-from-war-israel-minister-calls-for-lebanon-gaza-takeover-12106543#publisher=newsstand)
+- [Lufthansa Flight To Lisbon Diverted To Lyon After Powerbank Catches Fire](https://www.ndtv.com/world-news/lufthansa-flight-to-lisbon-diverted-to-lyon-after-powerbank-catches-fire-12106539#publisher=newsstand)
+- [Suvendu Adhikari Says Bengal Will Protect Cows, Jail People Who Insult Monks](https://www.ndtv.com/india-news/suvendu-adhikari-says-bengal-will-protect-cows-jail-people-who-insult-monks-12106533#publisher=newsstand)
+- [In Rajasthan Civic Polls, BJP Scoops Up 204 Boards, Congress Trails With 96](https://www.ndtv.com/india-news/in-rajasthan-civic-polls-bjp-scoops-up-204-boards-congress-trails-with-96-12106532#publisher=newsstand)
+- [3-Day Bank Strike Deferred After Meeting Between Association, Unions](https://www.ndtv.com/india-news/3-day-bank-strike-deferred-after-meeting-between-banks-association-unions-12106408#publisher=newsstand)
+- [UP Makes Display Of 'Use By Date' Mandatory For All Sweets](https://www.ndtv.com/india-news/up-makes-display-of-use-by-date-mandatory-for-all-sweets-12106500#publisher=newsstand)
 
 **Hindustan Times**
 - [Odisha CM tours flood-hit districts as govt moves over 1 lakh people to relief camps](https://www.hindustantimes.com/india-news/odisha-cm-tours-flood-hit-districts-as-govt-moves-over-1-lakh-people-to-relief-camps-101790534052020.html)
@@ -74,6 +74,7 @@
 - [No load-shedding for now, says K.J. George](https://www.thehindu.com/news/national/karnataka/no-load-shedding-for-now-says-kj-george/article71516595.ece)
 
 **Livemint**
+- [Bank employees worked on Sunday but Monday strike deferred; change in plan triggers meme fest online](https://www.livemint.com/news/trends/bank-employees-worked-on-sunday-but-monday-strike-deferred-change-in-plan-triggers-meme-fest-online-11790534100063.html)
 - [Bank strike on 28, 29, 30 September deferred; salaried individuals to get money in account as usual?](https://www.livemint.com/news/india/bank-strike-on-28-29-30-september-deferred-salaried-individuals-to-get-money-in-account-as-usual-11790534456293.html)
 - [Parvesh Verma slap row: What to know about Tilak Nagar road inspection incident in Delhi as AAP protests — 5 points](https://www.livemint.com/news/india/parvesh-verma-slap-row-what-to-know-about-tilak-nagar-road-inspection-incident-in-delhi-as-aap-protests-5-points-11790529723551.html)
 - [3-day bank strike has been deferred: Check UFBU's complete statement; decision on Saturdays as holidays, and more](https://www.livemint.com/news/india/3day-bank-strike-has-been-deferred-11790530650902.html)
@@ -83,11 +84,12 @@
 - [3-day bank strike: Will your September salary be delayed? Here’s all you need to know](https://www.livemint.com/news/india/3day-bank-strike-will-your-september-salary-be-delayed-here-s-all-you-need-to-know-11790524877346.html)
 - [Daylight Saving Time 2026: Why Americans will get an extra hour on November 1 after Halloween](https://www.livemint.com/news/us-news/daylight-saving-time-2026-why-americans-will-get-an-extra-hour-on-november-1-after-halloween-11790518620317.html)
 - [Bengaluru traffic gets worse? Cars queue up inside society as users say ‘never come out ever’](https://www.livemint.com/news/trends/bengaluru-traffic-gets-worse-cars-queue-up-inside-society-as-users-say-never-come-out-ever-11790519254418.html)
-- [Your favourite grocery snacks may vanish in 2026 — here’s why Pepsi and major brands are cutting products](https://www.livemint.com/news/trends/your-favourite-grocery-snacks-may-vanish-in-2026-here-s-why-pepsi-and-major-brands-are-cutting-products-11790513802236.html)
 
 **Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
+- [ಚುನಾವಣಾ ಆಯೋಗದಿಂದ ನಡೆದದ್ದು ಸಭೆಯಲ್ಲ, ತೇಪೆ ಹಚ್ಚುವ ಕ್ರಮ : ಎಸ್‍ಐಆರ್ ವಿರೋಧಿ ಒಕ್ಕೂಟ](https://www.varthabharati.in/bangalore-city/--2278511)
+- [ಕರ್ನಾಟಕ ಜೈನ ಧರ್ಮದ ಕರ್ಮ ಭೂಮಿ : ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್](https://www.varthabharati.in/bengaluru/dk-shivakumar-2278510)
 - [ಕರಾವಳಿ ನಿಯಂತ್ರಣ ವಲಯ ಸಮಸ್ಯೆಗಳಿಗೆ ಮುಕ್ತಿ ನೀಡಲು ಯತ್ನ : ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್](https://www.varthabharati.in/bengaluru/dk-shivakumar-2278509)
 - [ಕರಾವಳಿಯಲ್ಲಿ ಹೂಡಿಕೆ, ಉದ್ಯೋಗ ಸೃಷ್ಟಿಗೆ ಉತ್ತೇಜನ : ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್](https://www.varthabharati.in/bengaluru/dk-shivakumar-2278508)
 - [ತ್ಯಾವರೆಕೊಪ್ಪ: ನಾಲ್ಕು ಸಿಂಹದ ಮರಿಗಳ ಸಾವು](https://www.varthabharati.in/shimoga/shivamogga-2278507)
@@ -96,8 +98,6 @@
 - [ರಸ್ತೆಗೆ ಕಸ ಎಸೆಯುವವರ ಮನೆ ಮುಂದೆ ತ್ಯಾಜ್ಯ ಸುರಿದ ಹುಬ್ಬಳ್ಳಿ-ಧಾರವಾಡ ಪಾಲಿಕೆ](https://www.varthabharati.in/dharwad/hubballi-dharwad-2278499)
 - [Haryana | ನಿರ್ಮಾಣ ಹಂತದ ಕಟ್ಟಡ ಕುಸಿದು ನಾಲ್ವರು ಮೃತ್ಯು; ಅವಶೇಷಗಳಡಿ ಹಲವರು ಸಿಲುಕಿರುವ ಶಂಕೆ](https://www.varthabharati.in/National/4-killed-as-3-storey-under-construction-building-collapses-in-haryana-13-rescued-2278497)
 - [‘ಸರಕಾರವನ್ನು ಬೆಂಬಲಿಸಿದ್ದಕ್ಕೆ ಪಶ್ಚಾತ್ತಾಪವಾಗುತ್ತಿದೆ’: ಬಿಹಾರದಲ್ಲಿ ಅಪರಾಧಗಳ ಹೆಚ್ಚಳದ ಬಗ್ಗೆ ಚಿರಾಗ್ ಪಾಸ್ವಾನ್ ಆಕ್ರೋಶ](https://www.varthabharati.in/National/regret-supporting-chirag-paswan-attacks-bihar-govt-over-rising-crimes-against-women-2278496)
-- [ದೇಶದಲ್ಲಿ SIR ಜಾರಿಯಾದ ಬಳಿಕ 7 ಚುನಾವಣೆ ನಡೆದಿದ್ದು, ಈ ಚುನಾವಣೆಗಳು ನ್ಯಾಯಸಮ್ಮತವಾಗಿ ನಡೆದಿಲ್ಲ : ಪ್ರಕಾಶ್ ರಾಜ್](https://www.varthabharati.in/bangalore-city/prakash-raj-2278506)
-- [ಆಲ್ ಇಂಡಿಯಾ ಮಿಲ್ಲಿ ಕೌನ್ಸಿಲ್ ರಾಜ್ಯಾಧ್ಯಕ್ಷರಾಗಿ ಮುಫ್ತಿ ಅಹ್ಮದ್ ಸಿಮಾಲ್ ರಶಾದಿ ಆಯ್ಕೆ](https://www.varthabharati.in/bangalore-city/--2278504)
 
 **Asianet Kannada**
 - ['ಯಾರು ಏನು ಬೇಕಾದರೂ ಮಾತನ್ನಾಡಬಹುದು; ಅಪ್ಪಾಜಿ, ವಿಷ್ಣು ಸರ್ ಸಂಬಂಧವೇ ಬೇರೆ' ಶಿವಣ್ಣ ಹೇಳಿದ್ದೇನು?](https://kannada.asianetnews.com/entertainment/hat-trick-hero-shivanna-speaks-about-the-relationship-between-dr-vishnuvardhan-and-dr-rajkumar/articleshow-p26qo5v)
@@ -126,17 +126,17 @@
 - [ವರ್ಲ್ಡ್‌ಸ್ಕಿಲ್ಸ್ ಶಾಂಘೈ 2026: 10ನೇ ಸ್ಥಾನಕ್ಕೆ ಜಿಗಿದ ಭಾರತ- 6 ಬೆಳ್ಳಿ ಹಾಗೂ 20 ಪದಕ ಗೆದ್ದು ಐತಿಹಾಸಿಕ ಸಾಧನೆ](https://tv9kannada.com/business/india-shows-best-performance-at-worldskills-shanghai-2026-wins-6-silver-medals-20-medallions-for-excellence-1243357.html)
 
 **Prajavani**
+- [ತ್ಯಾವರೆಕೊಪ್ಪ: ಅಮ್ಮನ ಆರೈಕೆ ಸಿಗದೇ ನಾಲ್ಕು ಸಿಂಹದ ಮರಿಗಳ ಸಾವು](https://www.prajavani.net/district/shivamogga/lion-cubs-death-tyavarekoppa-safari-shimoga-lioness-sarah-4292015)
+- [ತುಮಕೂರು | ನಾಲ್ಕು ತಿಂಗಳು ಕಳೆದರೂ ಬಾರದ ಪಠ್ಯಪುಸ್ತಕ: ಪೋಷಕರ ಆರೋಪ](https://www.prajavani.net/district/tumakuru/textbook-shortage-in-tumakuru-schools-delays-learning-4291970)
+- [ಎಸ್‌ಐಆರ್‌ | ಚುನಾವಣಾ ಆಯೋಗದ ಹೇಳಿಕೆ ತಪ್ಪೊಪ್ಪಿಗೆಯಂತಿದೆ: ಪ್ರಕಾಶ್‌ ರಾಜ್‌](https://www.prajavani.net/district/hasana/prakash-raj-criticizes-election-commission-voter-list-revision-4291920)
+- [ಬಿಡದಿ ಟೌನ್‌ಶಿಪ್: 15 ರೈತರ ವಿರುದ್ಧ ಎಫ್‌ಐಆರ್ ಅಸ್ತ್ರ](https://www.prajavani.net/district/ramanagara/bidadi-township-protest-fir-against-farmers-ramanagara-4291962)
+- [ಅಕ್ರಮ ಎಸಗಿದ ಖೇಣಿಗೆ ಸಿಎಂ ರಕ್ಷಣೆ:  ಎಚ್‌.ಡಿ.ಕುಮಾರಸ್ವಾಮಿ ಆರೋಪ](https://www.prajavani.net/news/karnataka-news/kumaraswamy-alleges-dk-shivakumar-protecting-ashok-kheny-in-nice-scam-4291954)
+- [ಜ್ಞಾನೇಶ್ ಬಿಜೆಪಿಯ ಏಜೆಂಟ್: ಕೆಪಿಸಿಸಿ ಅಧ್ಯಕ್ಷ ಬಿ.ಕೆ. ಹರಿಪ್ರಸಾದ್](https://www.prajavani.net/news/karnataka-news/bk-hariprasad-criticizes-gyanesh-kumar-bjp-agent-allegation-4292165)
 - [ಅಕ್ರಮ ಜೂಜು: ಗೇಮ್ಸ್‌ಕ್ರಾಫ್ಟ್‌
 ₹442.35 ಕೋಟಿ ಮುಟ್ಟುಗೋಲು](https://www.prajavani.net/district/bengaluru-city/gameskraft-technologies-assets-seizure-ed-online-gambling-fraud-4292262)
 - [‘ಕಿಂಗ್’ ಕೊಹ್ಲಿ,‘ಪ್ರಿನ್ಸ್’ ಗಿಲ್ ಶತಕದ ವೈಭವ; ಭಾರತಕ್ಕೆ ಮಣಿದ ವೆಸ್ಟ್‌ ಇಂಡೀಸ್](https://www.prajavani.net/sports/cricket/india-vs-west-indies-odi-kohli-gill-centuries-victory-4292068)
 - [ಜನಗಣತಿ| ಸ್ವಯಂ ಗಣತಿ ಪೂರ್ಣಗೊಳಿಸಿ: ಮನದ ಮಾತು ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ ಪ್ರಧಾನಿ  ಕರೆ](https://www.prajavani.net/news/india-news/pm-modi-mann-ki-baat-census-self-enumeration-surgical-strike-anniversary-4292050)
 - [ಅಹಮದಾಬಾದ್‌: ದೇಶದ ಮೊದಲ ಎಲ್‌ಎನ್‌ಜಿ ಚಾಲಿತ ರೈಲಿಗೆ ಅಮಿತ್ ಶಾ  ಚಾಲನೆ](https://www.prajavani.net/news/india-news/india-first-lng-powered-train-inauguration-amit-shah-4292275)
-- [ಪ್ರೇಯಸಿಗಾಗಿ ಟವರ್ ಹತ್ತಿದ ಯುವಕ!: ಮದುವೆ ಮಾಡುವ ವಾಗ್ದಾನದಿಂದ ಸುಖಾಂತ್ಯ](https://www.prajavani.net/district/kalaburagi/kalaburagi-youth-climbs-mobile-tower-demanding-marriage-with-lover-4292218)
-- [ಅಪರಾಧಿಗಳ ಮೇಲೆ ನಿಯಂತ್ರಣವಿಲ್ಲ: ಬಿಹಾರ ಸರ್ಕಾರದ ವಿರುದ್ಧ ಚಿರಾಗ್‌ ಕಿಡಿ](https://www.prajavani.net/news/india-news/chirag-paswan-criticizes-bihar-government-over-law-and-order-4292129)
-- [ದೆಹಲಿ ಸಚಿವರಿಂದ ವ್ಯಕ್ತಿ ಮೇಲೆ ಹಲ್ಲೆ; ಬಂಧನಕ್ಕೆ ಎಎಪಿ ಒತ್ತಾಯ](https://www.prajavani.net/news/india-news/delhi-minister-assault-case-aap-demands-arrest-4292100)
-- [ಕೊಲ್ಲಿ ಸಂಘರ್ಷ | ನಾವಿಕರನ್ನು ಗುರಿಯಾಗಿರಿಸುವುದು ಸ್ವೀಕಾರಾರ್ಹವಲ್ಲ: ಭಾರತ](https://www.prajavani.net/news/india-news/jaishankar-unga-speech-gulf-conflict-seafarers-safety-pakistan-terrorism-4292054)
-- [ವಿವಾದಿತ ಆದೇಶ ಹಿಂಪಡೆದ ತಮಿಳುನಾಡು ಸರ್ಕಾರ](https://www.prajavani.net/news/india-news/tamil-nadu-government-withdraws-rti-exemption-order-law-and-order-department-4292047)
-- [ಚುನಾವಣಾ ಆಯುಕ್ತರ ಮಧ್ಯೆ ತೇಪೆ ಹಚ್ಚಲಾಗಿದೆ– ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ. ಶಿವಕುಮಾರ್](https://www.prajavani.net/news/karnataka-news/dk-shivakumar-statement-on-election-commissioners-and-voter-theft-allegations-4292043)
 
 **eedina**
 - [ಯಾದಗಿರಿ | ತತ್ವಪದಕಾರ ಅವಧೂತ ಶ್ರೀ ರಂಗಲಿಂಗೇಶ್ವರ ಕುರಿತು ವಿಶೇಷ ಉಪನ್ಯಾಸ](https://eedina.com/?p=767051)
@@ -152,34 +152,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - September (5.2)
-- Bank (2.9)
-- Killed (2.9)
+- Bank (4.2)
+- strike (2.7)
 - Bengaluru (2.6)
-- strike (2.4)
 - Lovely Professional University (2.0)
 - bank (1.8)
+- Polls (1.6)
 - Odisha (1.6)
 - High (1.6)
 - IndiGo (1.6)
-- Proposed (1.3)
+- deferred (1.5)
 - Stones (1.3)
+- Proposed (1.3)
 - Yemeni (1.3)
 - Iranian (1.3)
-- Taiz (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ['खाड़ी देशों की सुरक्षा को हल्के में ना लें' UNGA के मंच से सऊदी विदेश मंत्री की दुनिया को चेतावनी, हूतियों और ईरान का जिक्र](https://navbharattimes.indiatimes.com/world/america/saudi-arabia-fm-faisal-bin-farhan-unga-speech-iran-war-houthis-west-asia-security/articleshow/134516544.cms)
-- [వైకాపాకు షాక్... బొత్స సొంత స్థానం చీపురుపల్లిలో వలసలు](https://telugu.webdunia.com/article/andhra-pradesh-news/botsa-satyanarayana-stronghold-cheepurupalli-faces-major-shock-as-ysrcp-leaders-resign-126092700009_1.html)
-- ['എനിക്കെതിരെ ആരോപണം വന്ന സമയം, അന്ന് രാത്രി രമേശ്ജി വിളിച്ചു, വരണമെന്ന് നിര്‍ബന്ധം പറഞ്ഞു'](https://www.manoramanews.com/entertainment/latest/2026/09/27/nivin-pauly-recalls-kalyan-family-support-during-allegation-kalyan-homes-event.html)
-- [Debjit On Kunal Ghosh: BJP-র বিরুদ্ধে হামলার অভিযোগে সরব কুণাল, কী প্রতিক্রিয়া রাজ্য বিজেপির প্রধান মুখপাত্র দেবজিতের ?](https://bengali.abplive.com/district/kunal-ghosh-car-attack-bjp-head-spokes-person-debjit-sarkar-withdraw-his-claims-breaking-news-1194324)
-- ['Bomb' alert: Homes evacuated near UK military base as army squad called in](https://timesofindia.indiatimes.com/world/uk/bomb-alert-homes-evacuated-near-uk-military-base-as-army-squad-called-in/articleshow/134516658.cms)
-- [ഞായറാഴ്ചയും ബാങ്കുകൾ പ്രവർത്തിക്കുന്നു, കറുത്ത ബാഡ്ജണിഞ്ഞ് ജീവനക്കാർ, കേന്ദ്രവുമായി നടത്തിയ ചർച്ച പരാജയപ്പെട്ടു](https://www.asianetnews.com/local-news/banks-are-operating-on-sunday-employees-are-wearing-black-badges-following-the-failure-of-talks-with-the-centre-articleshow-fq84gl4)
-- [Maharashtra SIR : निवडणूक आयोगाचा मोठा निर्णय, महाराष्ट्रात SIR ला मुदतवाढ, 'या' तारखेपर्यंत नोंदवा आक्षेप](https://sarkarnama.esakal.com/maharashtra/maharashtra-sir-deadline-extended-october-12-by-election-commission-rm89-pg00)
-- [Amit Shah flags off India's first LNG train in Gujarat, launches Rs 1,542 crore railway projects](https://timesofindia.indiatimes.com/india/amit-shah-flags-off-indias-first-lng-train-in-gujarat-launches-rs-1542-crore-railway-projects/articleshow/134516636.cms)
-- [‘ന്യൂനപക്ഷ മോർച്ചയുടെ പരിപാടിക്കെത്തി മോദിയെ പുകഴ്ത്തി, പിന്നാലെ ഡയറക്ടർ പദവി’ ജിജി തോംസണെതിരേ ബിജെപി നേതാവ്](https://www.mathrubhumi.com/news/kerala/bjp-jiji-joseph-confirms-giji-thomson-claims-wxi64nkj)
-- [ஒரே சார்ஜில் 1338 கி.மீ. - கின்னஸ் உலக சாதனை படைத்து மாஸ் காட்டிய EV - எந்த கார் தெரியுமா?](https://tamil.abplive.com/auto/audi-a6-sportback-etron-guinness-world-record-1338-km-production-electric-275771)
+- [Ranbir Kapoor loses his cool with paparazzi after ‘Ramayana’ event as he steps out with Alia Bhatt, Vicky Kaushal and Sanjay Leela Bhansali: ‘Bahut bol raha hai tu’](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-loses-his-cool-with-paparazzi-after-ramayana-event-as-he-steps-out-with-alia-bhatt-vicky-kaushal-and-sanjay-leela-bhansali-bahut-bol-raha-hai-tu/articleshow/134517169.cms)
+- [Rajkot: ગોંડલ નજીક કારે એક્ટિવાને ટક્કર મારતા પતિ-પત્ની અને પુત્રનું ઘટનાસ્થળે જ મોત](https://gujarati.abplive.com/news/rajkot/rajkot-gondal-road-accident-three-of-same-family-died-tata-nexon-activa-collision-992147)
+- [Vijay's TVK Government Withdraws Controversial RTI Move Amid Backlash](https://www.ndtv.com/india-news/vijays-tvk-government-withdraws-controversial-rti-move-amid-backlash-12104642)
+- [मोटी, म्हैस म्हणणाऱ्यांना स्वरा भास्करने दिलं असं उत्तर; थेट ब्लाऊजवरच..](https://www.tv9marathi.com/entertainment/swara-bhasker-in-virendra-sehwag-show-rise-and-fall-2-moti-written-on-blouse-answer-back-to-trolls-in-her-own-style-1765556.html)
+- [ભારે વરસાદ વચ્ચે નેપાળમાં હિમલુંગ હિમાલ બેઝ કેમ્પ પર હિમસ્ખલન, 10 પવર્તારોહકો ગુમ](https://www.gujaratsamachar.com/news/international/avalanche-at-himlung-himal-base-camp-in-nepal-amid-heavy-rains-10-climbers-missing-99196936453)
+- [ન્યૂ યૉર્ક, ન્યૂ જર્સી અને બૅંગકૉકમાં એટલો વરસાદ પડ્યો કે વાહનો ડૂબી ગયાં અને રસ્તા પર હોડી ફરવા લાગી](https://www.bbc.com/gujarati/articles/ckvgyd58q24no)
+- ['उस हार ने मुझे अंदर से तोड़ दिया...', विराट कोहली का छलका दर्द, याद किया 2019 का वर्ल्ड कप सेमीफाइनल](https://www.aajtak.in/sports/cricket/story/virat-kohli-2019-world-cup-heartbreak-2027-world-cup-last-chapter-tspoa-dskc-2654402-2026-09-27)
+- [રાજુલાના બાર પટોળી ગામે બીમાર સિંહનું રેસ્ક્યૂ કરવા ગયેલા વનકર્મી અને ટ્રેકર પર સિંહનો હુમલો, બંને ઈજાગ્રસ્ત સારવાર હેઠળ](https://www.gujaratsamachar.com/news/amreli/a-lion-attacked-a-forest-guard-and-a-tracker-who-had-gone-to-rescue-a-sick-lion-in-bar-patoli-village-of-rajula-both-injured-and-undergoing-treatment-29038677619)
+- [ગોંડલ પાસે ગમખ્વાર અકસ્માત: પતિ-પત્ની અને 13 વર્ષના પુત્ર સહિત એક જ પરિવારના 3નાં મોત](https://www.gujaratsamachar.com/news/gujarat/fatal-near-gondal-3-of-the-same-family-including-husband-and-wife-and-13-year-old-son-die-37609344873)
+- [കോലി നോട്ടൗട്ട് @ തിരുവനന്തപുരം; അടിച്ചെടുക്കാന്‍ റെക്കോര്‍ഡുകള്‍; ഇന്ത്യയ്ക്ക് ബോളിങ്](https://www.manoramanews.com/sports/cricket/2026/09/27/india-vs-west-indies-1st-odi-thiruvananthapuram-virat-kohli-records-naman-dhir-debut.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
