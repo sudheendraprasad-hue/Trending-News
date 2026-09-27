@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-27 04:36:18
+# India Trending Report — 2026-09-27 05:01:53
 
 ## Google Trends (India) — top trending searches
 1. [సెప్టెంబర్ 27](https://trends.google.com/trending/rss?geo=IN)
@@ -21,9 +21,9 @@
 - [OpenAI's AI agents hacked government sites, now 53 ChatGPT user images have leaked](https://timesofindia.indiatimes.com/technology/tech-news/after-breaking-into-corporate-and-government-websites-across-the-world-chatgpt-maker-openais-ai-agents-now-leak-users-images/articleshow/134514493.cms)
 - [‘Army of Robots’: Ukraine turns to machines for its most dangerous missions](https://timesofindia.indiatimes.com/defence/international/army-of-robots-ukraine-turns-to-machines-for-its-most-dangerous-missions/articleshow/134514241.cms)
 - [He attested brother’s sale deed; HC cites oral partition, family loses 3.5 acres claim](https://timesofindia.indiatimes.com/business/india-business/he-attested-brothers-sale-deed-decades-ago-madras-hc-cites-it-as-evidence-of-oral-partition-rejects-familys-claim-to-3-5-acres-of-ancestral-land/articleshow/134507211.cms)
+- [Chess Olympiad 2026: Can India retain their gold medals on final day?](https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-2026-can-india-retain-their-gold-medals-on-final-day-in-samarkand/articleshow/134513539.cms)
 - [Russia backs India's claim to UNSC seat, firmly shuts door on Germany & Japan](https://timesofindia.indiatimes.com/world/us/russia-backs-indias-claim-to-unsc-seat-firmly-shuts-door-on-germany-japan/articleshow/134508102.cms)
 - [EC to audit ECINET independently after allegations of access issues](https://timesofindia.indiatimes.com/india/after-meeting-ec-says-officials-will-visit-homes-of-those-sent-notices/articleshow/134513237.cms)
-- [‘No jealousy’: Jurel reveals what Sooryavanshi does others ‘can’t even dream of’](https://timesofindia.indiatimes.com/sports/cricket/news/no-jealousy-dhruv-jurel-reveals-what-vaibhav-sooryavanshi-does-that-others-cant-even-dream-of/articleshow/134513363.cms)
 
 **NDTV**
 - ["I Can't Leave My Client, Abandon Duty": Woman Lawyer Assaulted In Delhi](https://www.ndtv.com/delhi-news/i-cant-leave-my-client-abandon-duty-woman-lawyer-assaulted-in-delhi-12103821#publisher=newsstand)
@@ -50,18 +50,19 @@
 - [No bidders for Rushikonda palace project](https://www.hindustantimes.com/india-news/no-bidders-for-rushikonda-palace-project-101790450754580.html)
 
 **Vijay Karnataka**
+- [Mysuru Dasara 2026: ದಸರಾ ಆಹಾರ ಮೇಳದಲ್ಲಿ ಸಾಂಪ್ರದಾಯಿಕ ರುಚಿ ಜೊತೆ ಸಿಗಲಿದೆ ರಷ್ಯಾ, ಟಿಬೆಟಿಯನ್‌ ಸೇರಿ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಖಾದ್ಯಗಳ ರಸದೌತಣ!](https://vijaykarnataka.com/news/mysuru/mysuru-dasara-2026-food-fair-to-have-traditional-and-international-cuisines-in-more-than-100-stalls/articleshow/134514645.cms)
 - [ಕರ್ನಾಟಕದಲ್ಲಿ ಬ್ಯಾನ್‌ ಬಳಿಕವೂ ಆಹಾರ ಪದಾರ್ಥಗಳಲ್ಲಿ ನಿಂತಿಲ್ಲ ಕೃತಕ ಬಣ್ಣದ ಕಳ್ಳಾಟ: ವಿಕ ರಿಯಾಲಿಟಿ ಚೆಕ್‌ನಲ್ಲಿ ಶಾಕಿಂಗ್ ಸತ್ಯ ಬಯಲು!](https://vijaykarnataka.com/news/karnataka/vk-reality-check-reveals-despite-ban-of-artificial-colors-use-in-food-items-continues-in-karnataka/articleshow/134514393.cms)
 - [ಸೊರಗಿದ ಜೋಗ ಜಲಪಾತ: ವಿದ್ಯುತ್‌ ಕ್ಷಾಮದ ಮುನ್ಸೂಚನೆ, ಕರೆಂಟ್‌ ಉತ್ಪಾದನೆಗೆ ಲಿಂಗನಮಕ್ಕಿ ಜಲಾಶಯದಲ್ಲಿ ನೀರಿನ ಕೊರತೆ ಆತಂಕ](https://vijaykarnataka.com/news/shivamogga/waning-jog-falls-warning-of-power-shortage-concerns-over-water-scarcity-for-electricity-generation/articleshow/134513840.cms)
-- [14 ವರ್ಷದ ಬಳಿಕ ಖಾಕಿ ಬಲೆಗೆ ಬಿದ್ದ ಕೊಲೆಗಾರ: ಸಾಂಬಾರ್‌ ವಿಚಾರಕ್ಕೆ ಸಹಚರನನ್ನು ಕೊಂದು ಎಸ್ಕೇಪ್‌ , ಆಪರೇಷನ್ ಜರಿ ಸಕ್ಸಸ್ ಆಗಿದ್ದು ಹೇಗೆ ಗೊತ್ತಾ?](https://vijaykarnataka.com/news/bengaluru-city/murderer-caught-by-police-after-14-years-he-fled-after-killing-an-associate-over-a-dispute-about-sambar-do-you-know-how-operation-jari-succeeded/articleshow/134513515.cms)
 - [ಚಹಾ ಮಾಡಿದ ನಂತರ ಶುಂಠಿ ಬಿಸಾಡಬೇಡಿ; ಉಳಿದ ಶುಂಠಿಯಿಂದಲೇ ರುಚಿಕರ ಖಾರ ಚಟ್ನಿ ತಯಾರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/used-ginger-after-making-tea-chutney-recipe/articleshow/134508419.cms)
-- [2027ರ ಅಂತ್ಯಕ್ಕೆ ಮೆಟ್ರೋ ನೀಲಿ ಮಾರ್ಗದ ಹೆಬ್ಬಾಳ-ಕೆಂಪೇಗೌಡ ವಿಮಾನ ನಿಲ್ದಾಣ ರೆಡಿ ? ಸಿಲ್ಕ್ ಬೋರ್ಡ್‌-ಕೆ.ಆರ್‌.ಪುರಂ ಭಾಗ ಸಂಚಾರಕ್ಕೆ ಮುಕ್ತ ಯಾವಾಗ?](https://vijaykarnataka.com/news/bengaluru-city/will-the-hebbal-kempegowda-airport-section-of-the-metro-blue-line-be-ready-by-the-end-of-2027-when-will-the-silk-board-kr-puram-section-be-open-for-traffic/articleshow/134513330.cms)
+- [14 ವರ್ಷದ ಬಳಿಕ ಖಾಕಿ ಬಲೆಗೆ ಬಿದ್ದ ಕೊಲೆಗಾರ: ಸಾಂಬಾರ್‌ ವಿಚಾರಕ್ಕೆ ಸಹಚರನನ್ನು ಕೊಂದು ಎಸ್ಕೇಪ್‌ , ಆಪರೇಷನ್ ಜರಿ ಸಕ್ಸಸ್ ಆಗಿದ್ದು ಹೇಗೆ ಗೊತ್ತಾ?](https://vijaykarnataka.com/news/bengaluru-city/murderer-caught-by-police-after-14-years-he-fled-after-killing-an-associate-over-a-dispute-about-sambar-do-you-know-how-operation-jari-succeeded/articleshow/134513515.cms)
 - [ಸ್ಟ್ರೋಕ್‌, ಗ್ಯಾಂಗ್ರೀನ್‌ನಿಂದ ಕಾಲು ಕಟ್‌: ತೀವ್ರ ಅನಾರೋಗ್ಯದಿಂದ ಡ್ರಮ್ಮರ್ ದೇವ ನಿಧನ](https://vijaykarnataka.com/entertainment/news/rcb-fan-music-director-drummer-deva-passes-away/articleshow/134509712.cms)
 - [ಅಕ್ಷಯ್ ಕುಮಾರ್ ಪತ್ನಿ ಟ್ವಿಂಕಲ್ ಖನ್ನಾ ಹೇಳಿದ ಕಿಚನ್ ಟಿಪ್ಸ್; ಜಿರಳೆ ಕಾಟಕ್ಕೆ ಈ ಸರಳ ಮನೆಮದ್ದು](https://vijaykarnataka.com/lifestyle/home-decor/twinkle-khanna-kitchen-remedy-to-get-rid-of-cockroaches/articleshow/134499248.cms)
 - [2026 ಪಿತೃ ಪಕ್ಷ: ಮನೆಯಲ್ಲಿ ಶ್ರಾದ್ಧ ಮಾಡುವ ಸರಳ ವಿಧಾನ.!](https://vijaykarnataka.com/religion/pooja-vidhana/pitru-paksha-2026-step-by-step-procedure-to-perform-shraddha/articleshow/134503981.cms)
 - [ಪಿತೃ ಪಕ್ಷ 2026: ಪಿತೃಗಳಿಗೆ ಪಾಯಸ-ಪೂರಿ ಅರ್ಪಿಸುವ ಸಂಪ್ರದಾಯ, ಮಾಡುವ ವಿಧಾನ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/home-decor/pitru-paksha-2026-kheer-puri-first-day-ancestor-offering/articleshow/134501695.cms)
-- [ಯುದ್ಧ ಅಂತ್ಯಕ್ಕೆ ಇರಾನ್‌ ನೀಡಿದ ಶಾಂತಿ ಆಫರ್‌ ತಿರಸ್ಕರಿಸಿ‌ದ ಟ್ರಂಪ್:‌ ಹೊರ್ಮುಜ್‌ ಅನ್ನು ಮತ್ತೆ ʼಟ್ರಂಪ್‌ ಜಲಸಂಧಿʼ ಎಂದು ಕರೆದ US ಅಧ್ಯಕ್ಷ!](https://vijaykarnataka.com/news/world/donald-trump-shares-new-map-renaming-of-hormuz-as-trump-strait-after-rejecting-irans-7-day-ceasefire-offer/articleshow/134500956.cms)
+- [2027ರ ಅಂತ್ಯಕ್ಕೆ ಮೆಟ್ರೋ ನೀಲಿ ಮಾರ್ಗದ ಹೆಬ್ಬಾಳ-ಕೆಂಪೇಗೌಡ ವಿಮಾನ ನಿಲ್ದಾಣ ರೆಡಿ ? ಸಿಲ್ಕ್ ಬೋರ್ಡ್‌-ಕೆ.ಆರ್‌.ಪುರಂ ಭಾಗ ಸಂಚಾರಕ್ಕೆ ಮುಕ್ತ ಯಾವಾಗ?](https://vijaykarnataka.com/news/bengaluru-city/will-the-hebbal-kempegowda-airport-section-of-the-metro-blue-line-be-ready-by-the-end-of-2027-when-will-the-silk-board-kr-puram-section-be-open-for-traffic/articleshow/134513330.cms)
 
 **The Hindu**
+- [News in Frames: After the drought,a refreshing respite](https://www.thehindu.com/news/national/andhra-pradesh/news-in-frames-after-the-droughta-refreshing-respite/article71515224.ece)
 - [Tamil Nadu government exempts Public (Law and Order) Department from RTI Act](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-exempts-public-law-and-order-department-from-rti-act/article71515196.ece)
 - [Gyanesh Kumar suggested I contest on BJP ticket in 2019, says ex-Chief Secretary Jiji Thomson](https://www.thehindu.com/news/national/kerala/gyanesh-kumar-suggested-i-contest-on-bjp-ticket-in-2019-says-ex-chief-secretary-jiji-thomson/article71513288.ece)
 - [From idol immersions to funeral rites, Maharashtra faces the drought pinch](https://www.thehindu.com/news/national/maharashtra/from-idol-immersions-to-funeral-rites-maharashtra-faces-the-drought-pinch/article71514004.ece)
@@ -71,9 +72,9 @@
 - [A year after Karur stampede at TVK rally, scars remain and justice still elusive](https://www.thehindu.com/news/national/tamil-nadu/one-year-of-karur-stampede-at-tvk-rally-joseph-vijay-justice-for-victims-still-elusive/article71507633.ece)
 - [Karur stampede: Anatomy of the tragedy at Vijay’s TVK rally in Tamil Nadu](https://www.thehindu.com/news/national/tamil-nadu/karur-stampede-anatomy-of-the-tragedy-at-vijays-tvk-rally-in-tamil-nadu/article70103198.ece)
 - [Karur stampede: First accused Mathiyazhagan, another TVK functionary sent to 15-day judicial custody](https://www.thehindu.com/news/national/tamil-nadu/karur-stampede-tvk-central-town-secretary-arrested-produced-in-court/article70111873.ece)
-- [NDA-ruled Andhra Pradesh refuses to defend changes to trans rights law in SC; Uttarakhand says law beneficial](https://www.thehindu.com/news/national/nda-ruled-andhra-pradesh-refuses-to-defend-changes-to-trans-rights-law-in-sc-uttarakhand-says-law-beneficial/article71512778.ece)
 
 **Livemint**
+- [Bengaluru techie's reality check on  ₹2 crore flats goes viral — ‘Gen Z getting humbled by housing prices’](https://www.livemint.com/news/trends/bengaluru-techies-reality-check-on-2-crore-flats-goes-viral-gen-z-getting-humbled-by-housing-prices-11790482595762.html)
 - [One dead, hundreds of flights cancelled, power lines hit as 'Nor'easter' storm batters parts of US: What we know so far](https://www.livemint.com/news/us-news/one-dead-hundreds-of-flights-cancelled-power-lines-hit-as-noreaster-storm-batters-parts-of-us-what-we-know-so-far-11790479673409.html)
 - [Google's birthday: Why the September 27 celebration doesn't match its official September 4 incorporation date](https://www.livemint.com/news/trends/googles-birthday-why-the-september-27-celebration-doesnt-match-its-official-september-4-incorporation-date-11790476765631.html)
 - [US-Iran war: Trump rejects Tehran's ceasefire proposal, says ‘they’re losing badly'; Iran backs diplomacy | Top Updates](https://www.livemint.com/news/us-news/usiran-war-trump-rejects-tehrans-ceasefire-proposal-says-they-re-losing-badly-iran-backs-diplomacy-top-updates-11790474477109.html)
@@ -83,7 +84,6 @@
 - [Heavy Storm Cuts Power, Grounds Planes Across US Northeast](https://www.livemint.com/news/world/heavy-storm-cuts-power-grounds-planes-across-us-northeast-11790460131403.html)
 - [Prince Harry wants Earl Spencer for rumoured Princess Diana documentary project: Report](https://www.livemint.com/news/world/prince-harry-wants-earl-spencer-for-rumoured-princess-diana-documentary-project-report-11790457314972.html)
 - [Trump renews Russia-Ukraine peace push, urges Zelensky, Putin to ‘make a deal... settle’](https://www.livemint.com/news/us-news/trump-renews-russia-ukraine-peace-push-urges-zelensky-putin-to-make-a-deal-settle-11790455929199.html)
-- [Billy Gardell, well-known for Bob Hearts Abishola, reveals why weight loss surgery ‘probably saved’ his life](https://www.livemint.com/news/trends/billy-gardell-well-known-for-bob-hearts-abishola-reveals-why-weight-loss-surgery-probably-saved-his-life-11790454285085.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,18 +98,21 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಅಪೂರ್ಣ ಕಾಮಗಾರಿಗಳಿಗೆ ವಿಶೇಷ ಅನುದಾನ, ಎಸ್‌ಆರ್ ದರ ಪರಿಷ್ಕರಣೆಗೆ ಸಿಎಂಗೆ ಮನವಿ](https://www.varthabharati.in/DakshinaKannada/appeal-to-cm-for-special-grant-for-incomplete-works-revision-of-sr-rates-2278303)
+- [Punjab | ಕಟ್ಟಡ ನಿರ್ಮಾಣ ಕಾರ್ಮಿಕನಿಂದ ವಿದ್ಯಾರ್ಥಿನಿಯ ಮೇಲೆ ಅತ್ಯಾಚಾರ ಆರೋಪ; 'ಲವ್ಲಿ' ಯೂನಿವರ್ಸಿಟಿಯಲ್ಲಿ ಹಿಂಸಾತ್ಮಕ ರೂಪ ಪಡೆದ ಪ್ರತಿಭಟನೆ](https://www.varthabharati.in/National/labour-harasses-a-student-protest-turns-violent-in-punjab-2278302)
+- [ಬಾಲ್ಕನಿಯ ತಡೆಗೋಡೆ ಕುಸಿದು ಬಿದ್ದು ವಿದ್ಯಾರ್ಥಿ ಮೃತ್ಯು ಪ್ರಕರಣ : ಸಂಘಟಕರು, ಕಟ್ಟಡ ಮಾಲಕರ ವಿರುದ್ಧ ಎಫ್‌ಐಆರ್‌](https://www.varthabharati.in/dakshinakannada/balcony-collapse-student-death-case-fir-against-organisers-and-building-owners-2278300)
+- [ಬರೆದುದ್ದಕ್ಕಿಂತ ಹೆಚ್ಚು ಬದುಕಿದ ಅಮೃತರು!](https://www.varthabharati.in/mano-boomike/lived-beyond-their-words-2278299)
 - [ಭಾರತದ ಮನಸ್ಸಿಗೇನು ಬೇಕು?](https://www.varthabharati.in/taxonomy/term/141639/what-does-indias-heart-need-2278298)
 - [ಎಐ ಉದ್ಯೋಗ ಕಡಿತ: ಶಾಂತವಾಗಿದೆಯೇ ಭಾರತ?](https://www.varthabharati.in/ankana/ai-job-cuts-is-india-staying-calm-2278297)
 - [‘‘ಸರಕಾರ ಬೆಂಬಲ ಕೊಟ್ಟಿದೆ, ತುಳುವರು ಭಾಷೆ ಬೆಳೆಸಬೇಕು’’ -ಡಾ. ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ](https://www.varthabharati.in/ankana/government-has-extended-support-tulu-people-must-promote-and-develop-the-language-dr-purushothama-bilimale-2278296)
 - [ಮಾದಾಪುರ ಸರಕಾರಿ ಶಾಲೆಯಲ್ಲಿ ಮೂಲಸೌಕರ್ಯ ಕೊರತೆ: ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸಂಕಷ್ಟ](https://www.varthabharati.in/nimma-ankana/lack-of-infrastructure-at-madapura-government-school-students-face-hardship-2278295)
 - [ಇತಿಹಾಸದ ಮೂರು ಸಾಮ್ರಾಜ್ಯಗಳ ಸಂಗಮ ‘ಕಲಬುರಗಿ’](https://www.varthabharati.in/nimma-ankana/kalaburagi-the-confluence-of-three-historical-empires-2278294)
 - [ಸಾಂಸ್ಥಿಕ ನಿಯಮಾವಳಿಗಳಂತೆ ಎಸ್ಐಆರ್ ಪ್ರಕ್ರಿಯೆ ಸಾಮೂಹಿಕವಾಗಿ ನಡೆಯುತ್ತದೆ: ಆಂಧ್ರಪ್ರದೇಶ ಸಿಎಂ ಚಂದ್ರಬಾಬು ನಾಯ್ಡು](https://www.varthabharati.in/National/sir-process-will-be-conducted-collectively-as-per-institutional-rules-andhra-pradesh-cm-chandrababu-naidu-2278290)
-- [29 ವರ್ಷಗಳಿಂದ ಹಿಂದೂ-ಮುಸ್ಲಿಮ್ ಯುವಕರ ಸಹಭಾಗಿತ್ವದಲ್ಲಿ ಗಣೇಶೋತ್ಸವ](https://www.varthabharati.in/nimma-ankana/ganeshotsav-celebrated-through-the-joint-participation-of-hindu-and-muslim-youths-for-29-years-2278292)
-- [ಕಾರ್ಖಾನೆಗಳಿಗೆ ಅಧಿಕಾರಶಾಹಿ ಕೃಪಾಕಟಾಕ್ಷ?](https://www.varthabharati.in/nimma-ankana/bureaucratic-benevolence-towards-factories-2278291)
-- [ಟಿಎಲ್‌ಬಿಸಿ : ಒಂದೂವರೆ ತಿಂಗಳಾದರೂ ಕೊನೆ ಭಾಗಕ್ಕೆ ತಲುಪದ ನೀರು](https://www.varthabharati.in/nimma-ankana/tlbc-water-yet-to-reach-the-tail-end-despite-a-month-and-a-half-having-passed-2278293)
-- [ಖ್ಯಾತ ಡ್ರಮ್‌ ವಾದಕ ʼಡ್ರಮ್ಮರ್ ದೇವಾʼ ನಿಧನ](https://www.varthabharati.in/bangalore-city/renowned-drummer-drummer-deva-passes-away-2278289)
 
 **Asianet Kannada**
+- [ಕಾಂಕ್ರೀಟ್ ಗೋಡೆಗಳು ಕಲಾಕೃತಿಗಳಾದಾಗ..! ಸಿಲ್ಕ್‌ಬೋರ್ಡ್ ಫ್ಲೈಓವರ್‌ಗೆ ಹೊಸ ಲುಕ್; ಫೋಟೋ ಗ್ಯಾಲರಿ ನೋಡಿ!](https://kannada.asianetnews.com/gallery/state/silk-board-flyover-gets-a-colorful-makeove-ramalinga-reddy-gives-it-a-new-look-rav-ah5n60d)
+- [ಜೆಡಿಎಸ್ ತೊರೆದು ಕಾಂಗ್ರೆಸ್ ಸೇರಿದ ನೂರುಲ್ಲಾ & ಮುಸ್ಲಿಂ ಮುಖಂಡರು; ಸ್ವಾಗತಿಸಿದ ಸಚಿವ ಪಿ.ಎಂ.ನರೇಂದ್ರಸ್ವಾಮಿ](https://kannada.asianetnews.com/karnataka-districts/noorulla-and-muslim-leaders-leave-jds-to-join-congress-welcomed-by-narendraswamy-sat/articleshow-mgskpgl)
+- [ವೆಸ್ಟ್‌ ಇಂಡೀಸ್ ಚಾಲೆಂಜ್‌ಗೆ ಟೀಂ ಇಂಡಿಯಾ! ಇಂದಿನಿಂದ ಹೈವೋಲ್ಟೇಜ್ ಸರಣಿ, ಎಷ್ಟು ಗಂಟೆಗೆ ಆರಂಭ? ಎಲ್ಲಿ ನೇರ ಪ್ರಸಾರ?](https://kannada.asianetnews.com/cricket-sports/india-vs-west-indies-1st-odi-rohit-sharma-virat-kohli-under-spotlight-in-thiruvananthapuram-kvn/articleshow-c5yfdr8)
 - [ಹಣದ ಸಮಸ್ಯೆ ದೂರ, ವೃತ್ತಿಯಲ್ಲಿ ಪ್ರಗತಿ! ಅಕ್ಟೋಬರ್ 17ರಿಂದ ಈ 4 ರಾಶಿಗೆ ಶುಕ್ರಾದಿತ್ಯ ರಾಜಯೋಗ](https://kannada.asianetnews.com/gallery/festivals/shukraditya-rajyog-17-october-2026-horoscope-lucky-zodiac-signs-suh-asvkixd)
 - ['ಅದು ಮುರಿದುಬಿದ್ದಿರೋ ಮನೆ'.. ಗೋವಿಂದ-ಸುನೀತಾ ಸಂಸಾರದ ಬಗ್ಗೆ ಕೋಮಲ್ ರಾಣಿ ಪೋಸ್ಟ್ ವೈರಲ್](https://kannada.asianetnews.com/news-entertainment/actress-komal-rani-has-lashed-out-at-actor-govinda-wife-sunita-amid-their-family-dispute-in-social-media-post/articleshow-19hv2n4)
 - [ಮಗಳ ಒಂದು ಪ್ರಶ್ನೆ... ಇಂಟರ್ನೆಟ್‌ನಲ್ಲೀಗ ಭಾರಿ ಚರ್ಚೆ! ಏರ್‌ಪೋರ್ಟ್‌ ಒಳಗೆ ಲಗೇಜ್ ಶಾಪ್ ಇರೋದರ ಅಸಲಿ ರಹಸ್ಯ ಏನು?](https://kannada.asianetnews.com/viral/why-do-airports-have-luggage-stores-after-check-in-a-daughters-question-sparks-debate/articleshow-eb313ae)
@@ -117,13 +120,11 @@
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್‌: ಕಬಡ್ಡಿಯಲ್ಲಿ ಭಾರತಕ್ಕೆ ಡಬಲ್ ಚಿನ್ನ..! ಚಾಂಪಿಯನ್ ಪಟ್ಟ ಉಳಿಸಿಕೊಂಡ ಭಾರತ ಪುರುಷ, ಮಹಿಳಾ ತಂಡಗಳು](https://kannada.asianetnews.com/sports/asian-games-2026-india-win-both-mens-and-womens-kabaddi-gold-against-iran-kvn/articleshow-7wmpvmx)
 - [ಬೆಂಗಳೂರು: 'ಗೇಟ್ ಲಾಕ್ ಮಾಡಿದ್ದರಿಂದ ಬದುಕುಳಿದೆ...'; Rapido ಡೆಲಿವರಿ ಬಾಯ್ ಕೃತ್ಯಕ್ಕೆ ಬೆಚ್ಚಿದ ಯುವತಿ!](https://kannada.asianetnews.com/bengaluru-urban/rapido-delivery-boy-try-to-enter-young-woman-house-incident-bengaluru-weekend-viral-post-sat/articleshow-im4v66b)
 - [Diamond Pendant Designs: ಡೈಮಂಡ್ ಪೆಂಡೆಂಟ್‌ನಲ್ಲಿ ಹೊಸ ಟ್ರೆಂಡ್, ಈ ಡಿಸೈನ್‌ಗಳು ಸಖತ್ ಗಮನ ಸೆಳೆಯುತ್ತಿವೆ!](https://kannada.asianetnews.com/webstories/fashion/6-unique-diamond-pendant-designs-in-gold-to-gift-your-wife-gvd-gsd786f)
-- ['ರಾವಣ' ಪಾತ್ರಕ್ಕೆ ಕನ್ನಡದ ಸ್ಟಾರ್ ಯಶ್ ಆಯ್ಕೆ ಹಿಂದಿನ ಗುಟ್ಟೇನು? 'ರಾಮಾಯಣ'ದ ಈ ಅಸಲೀ ಕಾರಣ ಈಗ ಬಹಿರಂಗ!](https://kannada.asianetnews.com/news-entertainment/producer-namit-malhotra-reveals-the-choice-of-yash-in-ramayana-movie-as-ravana/articleshow-hezmgy6)
-- [ಗುರು ಗ್ರಹದ ಮಹಾ ಸಂಚಾರ! ಆಶ್ಲೇಷ ನಕ್ಷತ್ರದ 4ನೇ ಪಾದ ಪ್ರವೇಶ, ಈ 6 ರಾಶಿಗಳಿಗೆ ಅದೃಷ್ಟೋದಯ](https://kannada.asianetnews.com/festivals/jupiter-nakshatra-transit-2026-october-ashlesha-4th-pada-lucky-zodiac-signs-suh/articleshow-ai7ixxw)
-- [Gold Earrings: ವೆಸ್ಟರ್ನ್ ಔಟ್‌ಫಿಟ್‌ಗೆ ಮ್ಯಾಚ್ ಆಗುವ 5 ಟ್ರೆಂಡಿ ಇಯರಿಂಗ್ಸ್, ನಿಮ್ಮ ಲುಕ್ ಸೂಪರ್ ಆಗಿರುತ್ತೆ!](https://kannada.asianetnews.com/webstories/fashion/5-trendy-gold-earring-designs-for-western-outfits-gvd-iva7zke)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ವಿಷ್ಣುವರ್ಧನ್ ಅಮೃತ ಮಹೋತ್ಸವಕ್ಕಾಗಿ ಒಂದಾಗುತ್ತಿದೆ ಇಡೀ ಕನ್ನಡ ಚಿತ್ರರಂಗ](https://tv9kannada.com/videos/kannada-film-industry-unites-for-dr-vishnuvardhan-amrutha-mahotsava-event-says-veerakaputra-srinivas-1243125.html)
 - [ನಿಮ್ಮ ದಿನ ಅದೃಷ್ಟ ತರಬೇಕೇ? ಹಾಗಿದ್ರೆ ವಾರದ ಯಾವ ದಿನ ಯಾವ ಬಣ್ಣದ ಬಟ್ಟೆ ಧರಿಸಬೇಕು ತಿಳಿಯಿರಿ!](https://tv9kannada.com/spiritual/daily-astrological-colors-boost-mood-and-success-with-planetary-hues-1243121.html)
 - [ಕೆಎಸ್​ಆರ್​ಟಿಸಿ ಸೇರಿ ಕರ್ನಾಟಕದ ನಾಲ್ಕು ಸಾರಿಗೆ ನಿಗಮಗಳಲ್ಲಿವೆ 8786 ಬಿಎಸ್-3 ಬಸ್: ವಾಯುಮಾಲಿನ್ಯ ಹೆಚ್ಚಳಕ್ಕೂ ಕಾರಣ](https://tv9kannada.com/karnataka/karnataka-transport-buses-8786-bs-3-buses-raise-air-pollution-concerns-1243119.html)
 - [ಘರ್ ವಾಪ್ಸಿ: 20 ವರ್ಷಗಳ ಬಳಿಕ ಹಿಂದೂ ಧರ್ಮಕ್ಕೆ ಮರಳಿದ ವ್ಯಕ್ತಿ, ರಫೀಕ್ ಮತ್ತೆ ರಾಜ್‌ಕುಮಾರ್ ಆದ, ಪತ್ನಿ ಅಫ್ಸಾರಿ ಈಗ ಅನಿತಾ](https://tv9kannada.com/national/ghar-wapsi-rajkumar-returns-to-hinduism-with-wife-afsari-in-jhansi-after-20-years-1243117.html)
@@ -133,9 +134,11 @@
 - [ಸುದೀಪ್ ಸಿನಿ ಜರ್ನಿಗೆ 30 ವರ್ಷ: ಶುಭಕೋರಿದ ಸಲ್ಮಾನ್ ಖಾನ್, ಗಂಗೂಲಿ, ಮೋಹನ್​ಲಾಲ್](https://tv9kannada.com/videos/bigg-boss-kannada-13-salman-khan-sourav-ganguly-mohanlal-wish-kichcha-sudeep-on-30-years-in-cinema-1243109.html)
 - [ಸೆಪ್ಟೆಂಬರ್ 28 ರಿಂದ ಅಕ್ಟೋಬರ್ 4ರ ವರೆಗಿನ ದ್ವಾದಶ ರಾಶಿಗಳ ಫಲಾಫಲ ಇಲ್ಲಿದೆ](https://tv9kannada.com/videos/weekly-horoscope-dr-basavaraj-gurujis-predictions-for-28th-september-4th-october-2026-1243111.html)
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್​: 11 ವರ್ಷದ ಬಾಲಕನಿಗೆ ಚಿನ್ನದ ಪದಕ!](https://tv9kannada.com/sports/11-year-old-yuki-makes-asian-games-history-1243104.html)
-- [ಬಿಜೆಪಿ-ಜೆಡಿಎಸ್ ಮೈತ್ರಿಯಲ್ಲಿ ಸಿಎಂ ವಿಚಾರಕ್ಕೆ ಫುಲ್‌ಸ್ಟಾಪ್: ವಿಜಯೇಂದ್ರ, ಕುಮಾರಸ್ವಾಮಿ ಸ್ಪಷ್ಟ ಸಂದೇಶ](https://tv9kannada.com/karnataka/bjp-jds-alliance-clears-cm-face-confusion-vijayendra-and-kumaraswamy-send-unity-message-1243092.html)
 
 **Prajavani**
+- [ಬಿಡದಿ ಹೋರಾಟ ಹತ್ತಿಕ್ಕಲು ಬಿಡೆವು : ಎಚ್.ಡಿ. ಕುಮಾರಸ್ವಾಮಿ](https://www.prajavani.net/district/ramanagara/channapattana-farmers-protest-hd-kumaraswamy-supports-bidadi-struggle-4290460)
+- [ನೋಂದಣಿಯಾಗದ ಉತ್ಪನ್ನ ಮಾರಾಟ: ಅಮೆಜಾನ್, ಫ್ಲಿಪ್‌ಕಾರ್ಟ್, ಜಿಯೋಮಾರ್ಟ್‌ಗೆ ದಂಡ](https://www.prajavani.net/business/commerce-news/amazon-flipkart-jiomart-fined-for-unregistered-herbicide-sales-4291046)
+- [ಈ ದಿನದ ಪ್ರಮುಖ 10 ಸುದ್ದಿಗಳು: ಭಾನುವಾರ, 27 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/news/india-news/karnataka-top-ten-news-september-twenty-seven-4291041)
 - [ಪ್ರವಾಸ ಕಥನ: ಧಂಕರ್‌ ಎಂಬ ವಿಶಿಷ್ಟ ಊರಿನಿಂದ...](https://www.prajavani.net/miscellaneous/travel/dankar-village-life-snow-bound-himachal-pradesh-4290400)
 - [ಉಡುಪಿ: ಕರ್ನಾಟಕ ರಾಜ್ಯ ಮುಕ್ತ ವಿವಿ ಕೋರ್ಸ್‌ಗಳ ಪ್ರವೇಶಾತಿಗೆ ಅವಧಿ ವಿಸ್ತರಣೆ](https://www.prajavani.net/district/udupi/udupi-karnatka-state-open-university-admission-extension-4291018)
 - [ಮೊದಲ ಓದು: ಮೈಸೂರು ಕೃಷಿ ಇತಿಹಾಸದ ಕುರಿತು ಮಹತ್ವದ ಒಳನೋಟ](https://www.prajavani.net/art-culture/book-review/mysuru-agriculture-history-nalwadi-krishnaraja-wadiyar-era-4290555)
@@ -143,11 +146,9 @@
 - [ಮೊದಲ ಓದು: ನೀತಿಯ ನೆಲೆಯಲ್ಲಿ ಸಮಾಜದ ಕನಸು](https://www.prajavani.net/art-culture/book-review/kilara-ganesh-hegde-social-ethics-vision-uttara-kannada-4290568)
 - [ಮರವಂತೆ: ಉಚಿತ ನೇತ್ರ ತಪಾಸಣೆ ಶಿಬಿರ ಇಂದು](https://www.prajavani.net/district/udupi/maravanthe-free-eye-camp-today-byndoor-4290963)
 - [ವಾರ ಭವಿಷ್ಯ: ಈ ರಾಶಿಯವರಿಗೆ ಉದ್ಯೋಗದಲ್ಲಿ ಆದಾಯ ಹೆಚ್ಚಾಗುವ ಸಾಧ್ಯತೆ](https://www.prajavani.net/astro-vastu/horoscope/weekly-horoscope-september-career-income-growth-prediction-4289783)
-- [ವಿಶ್ವಸಂಸ್ಥೆ ಭದ್ರತಾ ಮಂಡಳಿಯಲ್ಲಿ ಕಾಯಂ ಸದಸ್ಯತ್ವ: ಭಾರತಕ್ಕೆ ರಷ್ಯಾ ಬೆಂಬಲ](https://www.prajavani.net/news/world-news/russia-supports-india-permanent-membership-un-security-council-4291033)
-- [ಪಡುಬಿದ್ರಿ ಜಂಕ್ಷನ್‌ನಲ್ಲಿ ಕಾರು-ಸ್ಕೂಟರ್ ಅಪಘಾತ: ಸವಾರ ಸಾವು](https://www.prajavani.net/district/udupi/padubidri-junction-car-scooter-accident-death-4290943)
-- [ಎನ್‌ಎಸ್‌ಎಸ್‌ನಿಂದ ವ್ಯಕ್ತಿತ್ವ ವಿಕಸನ ಸಾಧ್ಯ: ವಿದ್ಯಾಧರ ಹೆಗ್ಡೆ](https://www.prajavani.net/district/udupi/hebri-nss-program-personality-development-students-4290874)
 
 **eedina**
+- [ಹೊರಟ್ಟಿ ಅವರ ಹೋರಾಟದ ಬದುಕು ಮತ್ತು ಅವರ ಭಕ್ತ ಮಂಡಳಿಯ ಚಪ್ಪಾಳೆ](https://eedina.com/?p=766809)
 - [ರಾಯಚೂರು | ವಿದ್ಯುತ್ ಶಾರ್ಟ್ ಸರ್ಕ್ಯೂಟ್‌ನಿಂದ ಗುಡಿಸಲು ಸಂಪೂರ್ಣ ಭಸ್ಮ](https://eedina.com/?p=766805)
 - [ತಮಗೆ ಬಿಜೆಪಿ‌ ಸೇರುವಂತೆ ಗ್ಯಾನೇಶ್ ಕುಮಾರ್ ಆಹ್ವಾನಿಸಿದ್ದರು: ನಿವೃತ್ತ ಐಎಎಸ್ ಜಿಜಿ ಥಾಮ್ಸನ್](https://eedina.com/?p=766802)
 - [ಬರಗೂರು ರಾಮಚಂದ್ರಪ್ಪ ಅವರ ಕತೆ | ಕ್ಷಾಮ](https://eedina.com/?p=763471)
@@ -157,15 +158,15 @@
 - [Bhalki Ground Report | ಮುಸ್ಲಿಮರ ಮತ ಹಕ್ಕಿಗೆ ಕನ್ನ: ಬಗೆದಷ್ಟು ಬಯಲಾಗ್ತಿದೆ ‘ಫಾರ್ಮ್-7’ರ ಸಂಚು?](https://eedina.com/?p=766607)
 - [ಕಲಬುರಗಿ | ಪ್ರೀತಿಸಿದ ಯುವತಿಯನ್ನೇ ಮದುವೆಯಾಗಲು ಪಟ್ಟು: ಟವರ್ ಏರಿದ ಯುವಕ!](https://eedina.com/?p=766771)
 - [ಬೆಳಗಾವಿ | ವಿಫಲತೆಯಿಂದ ಕುಗ್ಗದೆ ಯಶಸ್ಸಿನತ್ತ ಸಾಗಿರಿ: ರಾಜ್ಯಪಾಲ ಗೆಹ್ಲೋಟ್](https://eedina.com/?p=766766)
-- [ಅಳಿವಿನ ಅಂಚಿನಲ್ಲಿ ಅಕ್ಕಸಾಲಿಗರ ಕುಲಕಸುಬು: ಸರ್ಕಾರದ ನೆರವಿಗೆ ಚಿನ್ನ-ಬೆಳ್ಳಿ ಕೆಲಸಗಾರರ ಆಗ್ರಹ](https://eedina.com/?p=766753)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Karur (5.2)
 - Emkay Global Financial (5.0)
 - September (3.9)
+- India (3.2)
 - ICICI Securities (3.0)
 - target (3.0)
-- India (2.9)
+- Punjab (2.9)
 - Vijay (2.6)
 - Trump (2.6)
 - Iran (2.6)
@@ -174,21 +175,20 @@
 - Tamil Nadu (2.0)
 - Buy Bajaj Finance (2.0)
 - Thomson (1.6)
-- Punjab (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [8-வது ஊதியக்குழு: மத்திய அரசு ஊழியர்களுக்கு ரூ.18 லட்சம் வரை அரியர்ஸ் கிடைக்குமா?](https://minnambalam.com/8th-pay-commission-central-government-employees-rs-18-lakh-arrears/)
+- [2027 ஒருநாள் உலகக் கோப்பையுடன் சர்வதேச கிரிக்கெட்டிலிருந்து ஓய்வு: கோலி அறிவிப்பு](https://www.hindutamil.in/news/sports/virat-kohli-confirms-retirement-after-2027-odi-world-cup)
+- [NASA’s SpaceX Crew-13 Astronauts arrive at Kennedy Space Center](https://www.clickorlando.com/news/local/2026/09/26/watch-live-nasas-spacex-crew-13-astronauts-arrive-at-kennedy-space-center/)
+- [Suryapet: చిట్టీల పేరుతో జనాలకు కుచ్చుటోపీ.. రూ.10 కోట్లతో ఉడాయించిన ప్రభుత్వ టీచర్](https://telugu.samayam.com/telangana/nalgonda/govt-school-teacher-cheated-rs-10-crores-in-the-name-of-chits-in-suryapet/articleshow/134507728.cms)
+- [गंगा एक्सप्रेसवे पर BJP विधायक की फॉर्च्यूनर का भीषण एक्सीडेंट, CCTV में कैद हुई घटना](https://www.aajtak.in/india/news/story/ganga-expressway-bjp-mla-chandrapal-singh-lodhi-fortuner-accident-cctv-video-ntc-acwi-rpti-2654133-2026-09-26)
+- ['டோரதி' தமிழ்த் திரைப்படம் மீது சமூக ஊடகங்களில் விமர்சனம் ஏன்? ஒரு பார்வை](https://www.bbc.com/tamil/articles/cmpd008v94dyo)
+- [BJP News : বিজেপিতে ফের সাংগঠনিক রদবদল, বড় দায়িত্বে সজল ঘোষ](https://bengali.abplive.com/district/bjp-hold-organizational-reshuffle-again-sajal-ghosh-becomes-spokesperson-of-west-bengal-bjp-1194283)
 - ['കേന്ദ്രമന്ത്രിയാകാം; ബിജെപി ടിക്കറ്റിൽ മത്സരിച്ചുകൂടെ? 'മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മീഷണർക്കെതിരെ ജിജി തോംസൺ](https://malayalam.news18.com/news/kerala/former-chief-secretary-jiji-thompson-against-chief-election-commissioner-gyanesh-kumar-bjp-ticket-allegation-nkn-ws-l-790147.html)
 - [शादी के 30 साल बाद पति को मारा-काटा फिर जलाया, बदबू न आए इसलिए ड्रम से ढांका, अधजला शव रेत में दबाया, गुजरात से बेटा आया तब खुला राज](https://navbharattimes.indiatimes.com/state/madhya-pradesh/alirajpur/murder-son-question-father-body-sand-buried/articleshow/134507467.cms)
 - [IND vs WI: ભારત-વેસ્ટ ઈન્ડિઝ પહેલી ODI વરસાદના કારણે થશે રદ? જાણો તિરુવનંતપુરમમાં કેવું રહેશે હવામાન](https://tv9gujarati.com/photo-gallery/cricket-photos/breaking-news-ind-vs-wi-india-vs-west-indies-thiruvananthapuram-rain-weather-update-1522419.html)
-- [क्या आपको भी संडे को बैंक खुले रहने का मिला है मैसेज, जानिए सरकारी बैंक कब रहेंगे हड़ताल पर](https://www.bbc.com/hindi/articles/ck4gjjzwdp28o)
-- [ભારતનું અર્થતંત્ર લગાવશે લાંબી છલાંગ!, 10%થી વધુ ગ્રોથનો નાણામંત્રીએ કર્યો દાવો](https://www.gujaratsamachar.com/news/national/indias-economy-will-take-a-big-leap-finance-minister-claims-growth-of-more-than-10percent-97173751184)
-- [पप्पा आत्महत्या करतील म्हणून मी त्यांच्या मागे जातो; धाराशिवच्या शेतकरी पुत्राची व्यथा ऐकून महाराष्ट्र हादरला](https://saamtv.esakal.com/maharashtra/maharashtra-drought-crisis-dharashiv-farmer-son-follows-father-fearing-endlife-aditya-thackeray-emotional-story-farmer-family-crop-loss-drought-marathwada-maharashtra-farmer-distress-om0906)
-- ['ഇത് അവസാന ഏകദിന ലോകകപ്പ്, അതാണ് എന്റെ പ്രചോദനം, കിരീടം നേടാൻ എന്ത് ചെയ്യാനും തയ്യാർ'; ചർച്ചയായി വിരാട് കോലിയുടെ വാക്കുകൾ](https://marunadanmalayalee.com/sports/cricket/virat-kohli-about-2027-worldcup-864217)
-- [ट्रंप को चिनफिंग का संदेश: एशिया में चीन के प्रभाव को चुनौती न दे अमेरिका, ताइवान](https://www.jagran.com/world/america-xi-jinpings-us-visit-chinas-message-to-trump-on-asia-40386398.html)
-- [Gyanesh Kumar Allegations: ‘বিজেপি-র হয়ে ভোটে লড়ার প্রস্তাব দিয়েছিলেন জ্ঞানেশ কুমার’, দাবি কেরলের প্রাক্তন মুখ্যসচিবের](https://bengali.abplive.com/news/gyanesh-kumar-allegedly-offered-election-ticket-for-bjp-to-former-kerala-chief-secretary-jiji-thomson-election-commission-sir-row-1194277)
-- [Railway Breaking: LNG થી દોડશે દેશની પ્રથમ ટ્રેન, સાબરમતીથી થશે પ્રસ્થાન, જાણો ડીઝલની સરખામણીએ કેટલી થશે બચત અને શું છે ખાસિયતો](https://tv9gujarati.com/gujarat/breaking-news-indias-first-lng-train-to-start-from-gujarat-sabarmati-know-fuel-savings-and-key-features-1522420.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
