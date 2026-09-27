@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-27 00:42:26
+# India Trending Report — 2026-09-27 01:02:25
 
 ## Google Trends (India) — top trending searches
-1. [mexico vs colombia](https://trends.google.com/trending/rss?geo=IN)
-2. [cruz azul vs toluca](https://trends.google.com/trending/rss?geo=IN)
-3. [canada vs chile](https://trends.google.com/trending/rss?geo=IN)
-4. [తెలంగాణ](https://trends.google.com/trending/rss?geo=IN)
-5. [anahat singh](https://trends.google.com/trending/rss?geo=IN)
-6. [vvan movie release date](https://trends.google.com/trending/rss?geo=IN)
-7. [james garner](https://trends.google.com/trending/rss?geo=IN)
-8. [mikel oyarzabal](https://trends.google.com/trending/rss?geo=IN)
-9. [usa vs peru](https://trends.google.com/trending/rss?geo=IN)
-10. [sloop](https://trends.google.com/trending/rss?geo=IN)
+1. [weather today](https://trends.google.com/trending/rss?geo=IN)
+2. [google's birthday](https://trends.google.com/trending/rss?geo=IN)
+3. [आज का मौसम](https://trends.google.com/trending/rss?geo=IN)
+4. [ஓணம்](https://trends.google.com/trending/rss?geo=IN)
+5. [अक्टूबर](https://trends.google.com/trending/rss?geo=IN)
+6. [mexico vs colombia](https://trends.google.com/trending/rss?geo=IN)
+7. [eenadu epaper](https://trends.google.com/trending/rss?geo=IN)
+8. [cruz azul vs toluca](https://trends.google.com/trending/rss?geo=IN)
+9. [canada vs chile](https://trends.google.com/trending/rss?geo=IN)
+10. [తెలంగాణ](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - ['India calls for restraint': EAM on ship attacks in Gulf, seafarers at UNGA](https://timesofindia.indiatimes.com/india/india-calls-for-restraint-jaishankar-on-ship-attacks-in-gulf-seafarers-at-unga-top-quotes/articleshow/134508304.cms)
-- [Iran keeps door open to talks as Trump rejects Hormuz proposal](https://timesofindia.indiatimes.com/world/middle-east/iran-keeps-door-open-to-talks-as-trump-rejects-hormuz-proposal/articleshow/134512981.cms)
-- [‘SIR decisions unanimous’: EC backs decision-making process](https://timesofindia.indiatimes.com/india/all-sir-rollout-decisions-unanimous-ec-says-meeting-agendas-for-all-meetings-to-be-circulated-in-advance/articleshow/134513112.cms)
+- [Iran keeps door open for talks as Trump rejects Hormuz proposal](https://timesofindia.indiatimes.com/world/middle-east/iran-keeps-door-open-to-talks-as-trump-rejects-hormuz-proposal/articleshow/134512981.cms)
+- [After meeting, EC says officials will visit homes of those sent notices](https://timesofindia.indiatimes.com/india/after-meeting-ec-says-officials-will-visit-homes-of-those-sent-notices/articleshow/134513237.cms)
 - [Russia backs India's claim to UNSC seat, firmly shuts door on Germany & Japan](https://timesofindia.indiatimes.com/world/us/russia-backs-indias-claim-to-unsc-seat-firmly-shuts-door-on-germany-japan/articleshow/134508102.cms)
-- [4 killed as helicopter crashes in field in Canada’s Quebec, probe launched](https://timesofindia.indiatimes.com/world/rest-of-world/4-killed-as-helicopter-crashes-in-field-in-canadas-quebec/articleshow/134512844.cms)
 - [Florida used robot rabbits to hunt Burmese pythons threatening the Everglades](https://timesofindia.indiatimes.com/technology/tech-news/when-a-district-in-florida-used-robot-rabbits-to-eliminate-growing-population-of-burmese-pythons-and-protect-everglades/articleshow/134385404.cms)
-- [BJP allies back EC, say opposition attacks undermine democracy](https://timesofindia.indiatimes.com/india/bjp-allies-close-ranks-flay-oppn-for-undermining-democracy/articleshow/134510147.cms)
+- [4 killed as helicopter crashes in field in Canada’s Quebec, probe launched](https://timesofindia.indiatimes.com/world/rest-of-world/4-killed-as-helicopter-crashes-in-field-in-canadas-quebec/articleshow/134512844.cms)
 - [He attested brother’s sale deed; HC cites oral partition, family loses 3.5 acres claim](https://timesofindia.indiatimes.com/business/india-business/he-attested-brothers-sale-deed-decades-ago-madras-hc-cites-it-as-evidence-of-oral-partition-rejects-familys-claim-to-3-5-acres-of-ancestral-land/articleshow/134507211.cms)
+- [BJP allies back EC, say opposition attacks undermine democracy](https://timesofindia.indiatimes.com/india/bjp-allies-close-ranks-flay-oppn-for-undermining-democracy/articleshow/134510147.cms)
+- [‘SIR decisions unanimous’: EC backs decision-making process](https://timesofindia.indiatimes.com/india/all-sir-rollout-decisions-unanimous-ec-says-meeting-agendas-for-all-meetings-to-be-circulated-in-advance/articleshow/134513112.cms)
 - [2 more Naga men killed as ethnic violence flares up in Manipur again](https://timesofindia.indiatimes.com/india/2-more-naga-men-killed-as-ethnic-violence-flares-up-in-manipur-again/articleshow/134513083.cms)
-- [At least 12 dead in suicide bomb blast near police post in northwestern Pakistan](https://timesofindia.indiatimes.com/world/pakistan/at-least-12-dead-in-suicide-bomb-blast-near-police-post-in-northwestern-pakistan/articleshow/134503303.cms)
 
 **NDTV**
 - [Judicial System Has Long Focused On Accused And Offence, Says Chief Justice](https://www.ndtv.com/india-news/judicial-system-has-long-focused-on-accused-and-offence-chief-justice-surya-kant-12103256#publisher=newsstand)
@@ -38,6 +38,7 @@
 - [Lady Shri Ram Students Back At Campus After Delhi Rape, Anxiety Persists](https://www.ndtv.com/india-news/lady-shri-ram-students-back-at-campus-after-delhi-rape-anxiety-persists-12103212#publisher=newsstand)
 
 **Hindustan Times**
+- [‘World on edge of abyss today, seeing weaponisation of everything’: Jaishankar at UN](https://www.hindustantimes.com/india-news/india-un-speech-jaishankar-global-south-conflicts-latest-news-101790469399990.html)
 - [Telangana to remove eligible private properties from 22-A list](https://www.hindustantimes.com/india-news/telangana-to-remove-eligible-private-properties-from-banned-list-for-registration-101790451040938.html)
 - ['Countries far from conflicts being penalised': Jaishankar invokes PM Modi's remark at UNGA](https://www.hindustantimes.com/india-news/countries-far-from-conflicts-being-penalised-jaishankar-invokes-pm-modis-remark-at-unga-101790444378170.html)
 - ['Serial practitioner of terrorism misrepresented facts': Jaishankar hits out at Pakistan PM Sharif at UNGA](https://www.hindustantimes.com/india-news/serial-practitioner-of-terrorism-misrepresented-facts-jaishankar-slams-pakistan-at-unga-sharif-101790442243484.html)
@@ -47,7 +48,6 @@
 - [17-year-old Nikita Kumari shines as India beat Iran to win kabaddi gold](https://www.hindustantimes.com/india-news/17yearold-nikita-kumari-shines-as-india-beat-iran-to-win-kabaddi-gold-101790436878811.html)
 - [Child drug abuse is a child protection issue, not just health: CJI Surya Kant](https://www.hindustantimes.com/india-news/child-drug-abuse-is-a-child-protection-issue-not-just-health-cji-surya-kant-101790436278649.html)
 - [TMC chief Mamata Banerjee to attend INDIA bloc meeting on September 30](https://www.hindustantimes.com/india-news/tmc-chief-mamata-banerjee-to-attend-india-bloc-meeting-on-september-30-101790435021552.html)
-- [Gauhati University student found dead at homestay in Assam; male friend arrested](https://www.hindustantimes.com/india-news/gauhati-university-student-found-dead-at-homestay-in-assam-male-friend-arrested-101790430130139.html)
 
 **Vijay Karnataka** — _unavailable_
 
@@ -104,6 +104,7 @@
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [Horoscope Today: ಇಂದಿನಿಂದ ಪಿತೃಪಕ್ಷ ಪ್ರಾರಂಭ; ಈ ರಾಶಿಗಿದೆ ಅಭಿವೃದ್ಧಿ ಹಾಗೂ ಧನಲಾಭದ ಯೋಗ!](https://tv9kannada.com/videos/horoscope-today-27th-september-2026-dr-basavaraj-gurujis-predictions-for-zodiac-signs-1243061.html)
 - [ದಿನ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರು ಎದುರಾಳಿಗೆ ಹಾಕಿದ ಸವಾಲನ್ನು ಗೆಲ್ಲಬೇಕಾಗಿಬರಬಹುದು…](https://tv9kannada.com/horoscope/daily-horoscope-for-september-27-2026-dakshinayana-greeshma-season-badrapada-masa-shukla-paksha-sunday-astrology-1242899.html)
 - [ಮೊದಲ ಏಕದಿನ ಪಂದ್ಯದಿಂದ ಶುಭ್​ಮನ್ ಗಿಲ್ ಔಟ್? ಕೋಚ್ ಹೇಳಿದ್ದಿದು](https://tv9kannada.com/photo-gallery/cricket-photos/shubman-gill-injury-update-west-indies-odi-captain-ready-to-play-1243023.html)
 - [‘ಜನರ ವೋಟ್ ವಿರುದ್ಧ ಹೋಗಲ್ಲ’; ತಾಂಡವ್ ರಾಮ್ ಉಳಿಸಿ ಸುದೀಪ್ ಮಾತು](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-kiccha-sudeep-clarifies-tandav-ram-elimination-voting-controversy-1243040.html)
@@ -113,7 +114,6 @@
 - [ತೀವ್ರ ಸ್ವರೂಪ ಪಡೆದ ಬಿಡದಿ ರೈತರ ಹೋರಾಟ: ಸ್ಥಳಕ್ಕೆ ಧಾವಿಸಿದ ಹೆಚ್​ಡಿ ಕುಮಾರಸ್ವಾಮಿ; ಪೊಲೀಸರ ಸಸ್ಪೆಂಡ್​​ಗೆ ಆಗ್ರಹ ​](https://tv9kannada.com/karnataka/ramanagara/bidadi-farmers-protest-intensifies-hd-kumaraswamy-visits-site-demands-suspension-of-police-personnel-1243001.html)
 - [ಪಾಕಿಸ್ತಾನದಲ್ಲಿ ತಾಲಿಬಾನ್​ನಿಂದ ಭೀಕರ ಬಾಂಬ್ ಸ್ಫೋಟ; 12 ಜನ ಸಾವು, 30 ಮಂದಿಗೆ ಗಾಯ](https://tv9kannada.com/world/suicide-bomb-blast-in-pakistans-khyber-pakhtunkhwa12-killed-and-30-injured-taliban-group-claims-responsibility-1243015.html)
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್ 8ನೇ ದಿನದಂದು ಭಾರತಕ್ಕೆ 7 ಪದಕ; 30 ಕ್ಕೇರಿದ ಪದಕಗಳ ಸಂಖ್ಯೆ](https://tv9kannada.com/sports/asian-games-2026-india-day8-7-medals-kabaddi-gold-marathon-silver-1243014.html)
-- [‘ಅದು ಮುರಿದುಬಿದ್ದ ಮನೆ’; ಗೋವಿಂದ-ಸುನೀತಾ ಸಂಸಾರದ ಬಗ್ಗೆ ಕೋಮಲ್ ರಾನಿ ತಿರುಗೇಟು](https://tv9kannada.com/entertainment/bollywood/govinda-sunita-ahuja-dispute-actress-komal-rani-swarnkar-hits-back-at-homebreaker-allegations-1243013.html)
 
 **Prajavani**
 - [ನಗರದಲ್ಲಿ ಇಂದು: ಬೆಂಗಳೂರು ನಗರದ ಕಾರ್ಯಕ್ರಮಗಳು- 27 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/district/bengaluru-city/bengaluru-city-events-september-twenty-seven-daily-diary-4290370)
@@ -140,35 +140,35 @@
 - [ಮಂಗಳೂರು | ಬಾಲ್ಕನಿಯ ತಡೆಗೋಡೆ ಕುಸಿದು ಬಿದ್ದು ಓರ್ವ ವಿದ್ಯಾರ್ಥಿಯ ಮೆದುಳು ನಿಷ್ಕ್ರಿಯ, ನಾಲ್ವರಿಗೆ ಗಾಯ](https://eedina.com/?p=766728)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Jaishankar (5.2)
 - UNGA (4.5)
 - Iran (3.9)
 - Trump (3.9)
-- Jaishankar (3.9)
 - September (3.9)
 - India (2.6)
 - Hormuz (2.6)
 - Uttarakhand (2.6)
 - CJI Surya Kant (2.0)
-- Pakistan (1.9)
 - Justice (1.9)
 - Russia (1.6)
 - India's (1.6)
 - INDIA (1.6)
 - Maharashtra (1.6)
+- Gulf (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [প্রেম ভাঙতেই বন্ধ টাকার জোগান! বদলে গেল সব হিসাব, নায়িকার প্রযোজনা সংস্থায় তাই বড় বদল?](https://www.anandabazar.com/entertainment/love-lost-funding-stopped-actresss-production-house-gets-a-new-address-amid-breakup-rumours-dgtl/cid/1715678)
-- [Gyanesh Kumar: गल्ली ते दिल्ली ते सुप्रीम कोर्टापर्यंत चौफेर घेरताच मुख्य निवडणूक आयुक्त ज्ञानेश कुमारांची दोन आयुक्तांसोबत बैठक, महाराष्ट्रासाठी निर्णय घेतला](https://marathi.abplive.com/news/politics/chief-election-commissioner-gyanesh-kumar-who-is-embroiled-in-controversy-over-sir-meets-with-two-commissioners-in-delhi-1440324)
-- [ચોમાસાની વિદાય ટાણે વરસાદનો વધુ એક રાઉન્ડ! કચ્છ-સૌરાષ્ટ્રમાં આ તારીખોએ વરસાદની આગાહી](https://gujarati.abplive.com/news/gujarat/gujarat-weather-forecast-kutch-saurashtra-light-rain-forecast-western-disturbance-992107)
-- [Former Kerala Chief Secretary says Gyanesh Kumar asked him to contest on a BJP seat](https://www.thenewsminute.com/kerala/keralaformer-kerala-chief-secretary-says-gyanesh-kumar-asked-him-to-contest-on-a-bjp-seat)
-- [9 ખેલાડી અને બધાની સરનેમ એકસમાન, એશિયન ગેમ્સમાં ઓમાન ક્રિકેટ ટીમે ધ્યાન ખેંચ્યું](https://www.gujaratsamachar.com/news/sports/oman-cricket-team-attracts-attention-at-asian-games-with-9-players-and-all-have-the-same-surname-82070712615)
-- [Asian Games: Tajinderpal Singh Toor misses hat-trick of golds, wins silver in shot put](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-tajinderpal-singh-toor-misses-hat-trick-of-golds-settles-for-silver-in-shot-put/articleshow/134504580.cms)
-- [വിദേശത്ത് ജോലി വാഗ്ദാനം ചെയ്ത് പണം തട്ടി, ആംസ്റ്റർ ഓവർസീസ് സിഇഒ പാർവതി മായ റിമാൻഡിൽ](https://www.asianetnews.com/kerala-news/amster-overseas-kochi-ceo-parvathy-maya-remanded-articleshow-celd0my)
-- [નર્મદા જમીન વિવાદ: ‘મોઢવાડિયા અંગ્રેજો જેવું શાસન ચલાવે છે’, મનસુખ વસાવાનો ગંભીર આરોપ](https://gujarati.abplive.com/news/gujarat/narmada-forest-land-dispute-mansukh-vasava-slams-arjun-modhwadia-news-992105)
-- [പാകിസ്ഥാനിൽ വീണ്ടും സ്ഫോടനം; 11 പേർ കൊല്ലപ്പെട്ടു, നിരവധി പേർക്ക് പരിക്ക്](https://www.asianetnews.com/international-news/several-killed-in-blast-at-northwestern-pakistan-articleshow-9s4qvxz)
-- [Sai Pallavi Serves Understated Elegance In A Silk Saree At Ramayana Event In Mumbai](https://www.ndtv.com/lifestyle/sai-pallavi-serves-understated-elegance-in-a-silk-saree-at-ramayana-event-in-mumbai-12101895)
+- [ఈసీ కీలక సమావేశం.. ఎన్నికల కమిషనర్ల మధ్య విబేధాలపై వార్తల వేళ స్పష్టత](https://telugu.samayam.com/latest-news/india-news/sir-row-election-commission-urgent-meeting-and-says-final-decisions-unanimous-clarifies-on-electoral-rolls/articleshow/134504834.cms)
+- [Mamata Banerjee: 'দাদা বৌদির বিরিয়ানির দোকানেও এর থেকে বেশি ভিড় হয়!' শ্রীরামপুরে মমতার সভায় ফাঁকা মাঠ নিয়ে কটাক্ষ বিজেপি-র](https://bengali.news18.com/news/west-bengal/hooghly-mamata-banerjee-rally-ground-remains-empty-in-sreerampore-dmg-2908226.html)
+- [Salman Khan Calls Out Rhiti Tiwari Over Foul Language In Bigg Boss 20](https://www.ndtv.com/entertainment/worst-diss-ever-salman-khan-calls-out-rhiti-tiwari-over-foul-language-in-bigg-boss-20-12101898)
+- [टीम इंडियात निवड होऊनही हार्दिक पंड्या न खेळताच बाहेर, रोहितच्या कॅप्टन्सीत खेळला शेवटची मॅच; नेमकं काय कारण?](https://maharashtratimes.com/sports/cricket/cricket-news/hardik-pandya-was-ruled-out-of-the-series-against-the-australia-a-team-due-to-an-injury/articleshow/134503519.cms)
+- [തെരഞ്ഞെടുപ്പ് കമ്മീഷൻ - എസ്ഐആർ വിവാദങ്ങൾക്കിടെ ഇൻഡി ബ്ളോക് ഡൽഹിയിൽ യോഗം ചേരുമെന്ന് റിപ്പോർട്ട്](https://malayalam.news18.com/news/india/indi-alliance-meeting-september-30-gyanesh-kumar-election-commission-controversy-mm-790140.html)
+- [India star confirms ICC Men's CWC27 will be his last](https://www.icc-cricket.com/news/india-star-confirms-icc-men-s-cwc27-will-be-his-last)
+- [‘‘आई-वडिलांची लाडकी लेक’’; मृणाल ठाकूरने शेअर केला आई-बाबांसोबतचा खास फोटो, साधेपणाने जिंकलं चाहत्यांचं मन](https://www.lokmat.com/filmy/bollywood/mrunal-thakur-shares-adorable-photo-with-her-parents-calls-herself-their-beloved-daughter-a-a603/)
+- [Watch: Ranbir Kapoor, Sai Pallavi Join YouTuber MrBeast At Special Ramayana Event](https://www.ndtv.com/entertainment/watch-ranbir-kapoor-sai-pallavi-join-youtuber-mrbeast-at-special-ramayana-event-12102003)
+- [ഫോം 6-ൽ വിശദീകരണം; SIR വിവാദങ്ങൾക്കിടെ തിരഞ്ഞെടുപ്പ് കമ്മീഷന്റെ അസാധാരണ യോഗം](https://www.mathrubhumi.com/news/india/election-commission-clarifies-voter-list-revision-and-ecinet-security-j9viws26)
+- [IMD weather update : अतिमुसळधार पावसाचा इशारा, पाऊस दाणादाण उडवणार, हवामान विभागाकडून तातडीचा हाय अलर्ट](https://www.tv9marathi.com/national/imd-weather-update-warning-of-extremely-heavy-rainfall-issued-for-17-states-including-maharashtra-1764959.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
