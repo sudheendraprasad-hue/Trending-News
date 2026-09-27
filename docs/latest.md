@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-27 11:34:48
+# India Trending Report — 2026-09-27 12:02:13
 
 ## Google Trends (India) — top trending searches
-1. [நடிகர்](https://trends.google.com/trending/rss?geo=IN)
+1. [न्यायाधीश](https://trends.google.com/trending/rss?geo=IN)
 2. [tom banton](https://trends.google.com/trending/rss?geo=IN)
-3. [మద్యం](https://trends.google.com/trending/rss?geo=IN)
-4. [પિતૃ પક્ષ](https://trends.google.com/trending/rss?geo=IN)
-5. [பிக் பாஸ் 10](https://trends.google.com/trending/rss?geo=IN)
-6. [joe root](https://trends.google.com/trending/rss?geo=IN)
-7. [sm74](https://trends.google.com/trending/rss?geo=IN)
-8. [ben duckett](https://trends.google.com/trending/rss?geo=IN)
+3. [நடிகர்](https://trends.google.com/trending/rss?geo=IN)
+4. [మద్యం](https://trends.google.com/trending/rss?geo=IN)
+5. [પિતૃ પક્ષ](https://trends.google.com/trending/rss?geo=IN)
+6. [பிக் பாஸ் 10](https://trends.google.com/trending/rss?geo=IN)
+7. [joe root](https://trends.google.com/trending/rss?geo=IN)
+8. [sm74](https://trends.google.com/trending/rss?geo=IN)
 9. [jordan cox](https://trends.google.com/trending/rss?geo=IN)
-10. [england vs sri lanka](https://trends.google.com/trending/rss?geo=IN)
+10. [વિદ્યાર્થી](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- ['Oye maar kisse raha hai': On cam, Delhi minister Parvesh Verma slaps man](https://timesofindia.indiatimes.com/city/delhi/oye-maar-kisse-raha-hai-delhi-minister-parvesh-verma-slaps-man-during-road-inspection-aap-shares-video/articleshow/134518513.cms)
+- ['Oye maar kise raha hai': On cam, Delhi minister Parvesh Verma slaps man](https://timesofindia.indiatimes.com/city/delhi/oye-maar-kisse-raha-hai-delhi-minister-parvesh-verma-slaps-man-during-road-inspection-aap-shares-video/articleshow/134518513.cms)
+- ['Recite Bhagavad Gita fearlessly': Suvendu claims 'winds have changed' in Bengal](https://timesofindia.indiatimes.com/india/recite-bhagavad-gita-fearlessly-suvendu-adhikari-claims-winds-have-changed-in-bengal/articleshow/134519200.cms)
 - ['Didn't collect ID': Guwahati homestay where student, ‘lover’ stayed 5 times sealed](https://timesofindia.indiatimes.com/city/guwahati/didnt-collect-id-documents-guwahati-homestay-where-student-lover-stayed-5-times-in-a-month-sealed/articleshow/134517902.cms)
-- ['We trusted EC in 2017': Akhilesh alleges poll officials deleted SP votes in 2022](https://timesofindia.indiatimes.com/india/we-trusted-ec-in-2017-akhilesh-alleges-poll-officials-deleted-sp-votes-in-2022/articleshow/134518817.cms)
 - [New Green Card rules from September: Categories affected and those exempt](https://timesofindia.indiatimes.com/technology/tech-news/new-green-card-rules-that-came-into-effect-starting-this-september-list-of-categories-subject-to-the-changes-and-those-that-are-not-impacted/articleshow/134515826.cms)
-- [Archaeologists discover 1,700-year-old Roman-era pyramid tomb in Egypt](https://timesofindia.indiatimes.com/science/archaeology/archaeologists-have-discovered-a-1700-year-old-roman-era-pyramid-tomb-in-egypts-dakhla-oasis-the-small-mud-brick-monument-combines-egyptian-greek-and-roman-traditions-and-held-a-married-couple/articleshow/134516790.cms)
+- [Thierry Henry lists combined SoHo penthouse for $25 million after 2026 renovation](https://timesofindia.indiatimes.com/real-estate/news/in-2010-thierry-henry-paid-14-85-million-for-a-soho-penthouse-and-the-unit-below-after-combining-them-into-a-roughly-6000-sq-ft-triplex-and-renovating-it-again-in-2026-he-is-asking-25-million/articleshow/134514670.cms)
+- ['We trusted EC in 2017': Akhilesh alleges poll officials deleted SP votes in 2022](https://timesofindia.indiatimes.com/india/we-trusted-ec-in-2017-akhilesh-alleges-poll-officials-deleted-sp-votes-in-2022/articleshow/134518817.cms)
+- [RAF Fairford alert: Several arrested, homes evacuated near US air base - key details](https://timesofindia.indiatimes.com/world/uk/several-arrested-near-uks-raf-fairford-in-explosives-probe-us-base-on-highest-alert-key-details/articleshow/134518951.cms)
 - [New mobile recharge rules: 30-day plans, call-only options and more](https://timesofindia.indiatimes.com/business/india-business/new-mobile-recharge-rules-30-day-plans-call-only-options-and-more-trai-rules-explained/articleshow/134519014.cms)
-- ['Marriage doesn't advance age': HC rejects Muslim personal law defence in POCSO case](https://timesofindia.indiatimes.com/india/marriage-does-not-advance-a-childs-age-delhi-hc-rejects-muslim-personal-law-defence-in-pocso-case/articleshow/134518468.cms)
-- [Pakistan minister's throat-cut gesture to Afghan journalist backfires - video](https://timesofindia.indiatimes.com/world/pakistan/dont-go-back-like-this-pak-ministers-throat-cut-gesture-to-afghan-journalist-backfires-video/articleshow/134518493.cms)
-- [Bob Marley’s Kingston home became a museum preserving his personal treasures](https://timesofindia.indiatimes.com/world/rest-of-world/in-1975-bob-marley-bought-kingstons-56-hope-road-and-made-it-his-home-after-his-1981-death-rita-marley-converted-the-property-into-a-museum-six-years-later-preserving-his-personal-treasures/articleshow/134517552.cms)
-- [Scientists dumped 1,500 Christmas trees in a lake to transform its ecosystem](https://timesofindia.indiatimes.com/science/nature/in-2021-scientists-threw-1500-christmas-trees-into-a-lake-three-years-later-they-had-completely-transformed-the-ecosystem/articleshow/134502058.cms)
+- [Artists saved Nina Simone’s childhood home; it is now fully restored](https://timesofindia.indiatimes.com/world/us/in-2017-four-artists-paid-95000-to-save-nina-simones-deteriorating-childhood-home-in-north-carolina-eight-years-later-the-three-room-house-where-she-learned-piano-was-fully-restored/articleshow/134517989.cms)
+- [Man buys $50 painting at Hamptons sale, sells it for C$290,000](https://timesofindia.indiatimes.com/world/rest-of-world/in-2024-allen-treibitz-paid-50-for-a-painting-at-a-hamptons-barn-sale-months-later-it-was-authenticated-as-emily-carrs-1912-masset-q-c-i-and-sold-at-a-toronto-auction-for-c290000/articleshow/134435029.cms)
 
 **NDTV**
 - ['New Weapons Shouldn't Take Years To Integrate': Air Marshal Tejpal Singh At NDTV Defence Summit](https://www.ndtv.com/india-news/new-weapons-should-not-take-years-to-integrate-air-marshal-tejpal-singh-at-ndtv-defence-summit-2026-12104533#publisher=newsstand)
@@ -38,6 +38,7 @@
 - ['Bigger Than The China Challenge': Former Army Commander On What AI Drone Warfare Means For India](https://www.ndtv.com/india-news/bigger-than-the-china-challenge-former-army-commander-on-what-ai-drone-warfare-means-for-india-12104728#publisher=newsstand)
 
 **Hindustan Times**
+- [UP rain fury: 56 dead in three days, flood-like situation in several districts](https://www.hindustantimes.com/india-news/up-rain-fury-56-dead-in-three-days-flood-like-situation-in-several-districts-101790508738356.html)
 - ['Supported when they were weak, now...': Sonam Wangchuk on CJP's protest call against CEC Gyanesh Kumar](https://www.hindustantimes.com/india-news/sonam-wangchuk-backs-cjp-protest-against-cec-gyanesh-kumar-election-commission-abhijeet-dipke-call-for-october-2-101790504695763.html)
 - [Vijay govt's U-turn amid row over RTI exemption for law and order department; DMK takes ‘shameful’ swipe](https://www.hindustantimes.com/india-news/vijay-govt-tamil-nadu-makes-u-turn-over-rti-exemption-for-law-and-order-department-row-dmk-mp-kanimozhi-shameful-swipe-101790504996371.html)
 - [‘They smashed car window, tried to drag me out’: TMC's Kunal Ghosh alleges armed men tried to kill him](https://www.hindustantimes.com/india-news/they-smashed-car-window-tried-to-drag-me-out-tmc-kunal-ghosh-alleges-armed-men-tried-to-kill-him-fresh-attack-bengal-101790505035177.html)
@@ -47,33 +48,33 @@
 - [In third hike this year, appliances to cost 5-8% more from October 1: Report](https://www.hindustantimes.com/india-news/third-price-hike-this-year-appliances-to-cost-5-8-more-from-october-1-101790499396336.html)
 - [Watch: Monkey barges into Ranchi liquor shop, drinks quarter of vodka and dozes off](https://www.hindustantimes.com/india-news/watch-monkey-barges-into-jharkhand-ranchi-liquor-shop-drinks-quarter-of-vodka-and-dozes-off-video-101790502166028.html)
 - [Mobile phone retailers to protest against UPI MDR charges on October 2](https://www.hindustantimes.com/india-news/mobile-phone-retailers-to-protest-against-upi-mdr-charges-on-october-2-101790500699886.html)
-- [Manipur Kalenjang attack: Death toll rises to 3, one injured, says police](https://www.hindustantimes.com/india-news/manipur-kalenjang-attack-death-toll-rises-to-3-one-injured-says-police-101790501091870.html)
 
 **Vijay Karnataka**
+- [UNGA ಭಾಷಣದಲ್ಲಿ ಪಾಕಿಸ್ತಾನದ ಅಸಲಿಯತ್ತು ಬಿಚ್ಚಿಟ್ಟ ಜೈಶಂಕರ್‌: ಶೆಹಬಾಜ್‌ ಷರೀಫ್‌ ಹೇಳಿದ ಸುಳ್ಳುಗಳಿಗೆ ಸತ್ಯದ ಉತ್ತರ!](https://vijaykarnataka.com/news/world/s-jaishankar-calls-pakistan-as-serial-sponsor-of-terrorism-rebuts-shehbaz-sharifs-false-claims-at-unga/articleshow/134517972.cms)
 - [ಸರ್ಜಿಕಲ್ ಸ್ಟ್ರೈಕ್‌ಗೆ 10 ವರ್ಷ: ಭಯೋತ್ಪಾದನೆಗೆ ʼಶೂನ್ಯ ಸಹಿಷ್ಣುತೆʼ ಇಂದಿನ ಭಾರತದ ನೀತಿ- ಮನ್ ಕಿ ಬಾತ್‌ನಲ್ಲಿ ಪ್ರಧಾನಿ ಮೋದಿ ಪ್ರತಿಪಾದನೆ!](https://vijaykarnataka.com/news/india/zero-tolerance-against-terrorism-pm-modi-recalls-surgical-strike-ahead-of-10th-anniversary-in-mann-ki-batt/articleshow/134518398.cms)
 - [ಅಪಘಾತ ಬಳಿಕ ಉತ್ತರಾಧಿಮಠ ಸತ್ಯಾತ್ಮತೀರ್ಥ ಶ್ರೀಪಾದಂಗಳವರಿಗೆ ಚಿಕಿತ್ಸೆ, ಚೇತರಿಕೆ; ಭಕ್ತರಿಗೆ ಸ್ವಾಮೀಜಿ ವಿಡಿಯೋ ಸಂದೇಶ](https://vijaykarnataka.com/news/haveri/accident-recovery-for-satyathma-tirtha-sripadangala-of-uttaradi-matha-swamiji-shares-a-video-message-with-devotees/articleshow/134518527.cms)
-- [ನಮ್ಮ ಮೆಟ್ರೋ ನೀಲಿ ಮಾರ್ಗ 2027ರ ಅಂತ್ಯಕ್ಕೆ ರೆಡಿ, 17 ಹೊಸ ನಿಲ್ದಾಣಗಳು, 5 ಮೆಗಾ ಯೋಜನೆಗಳು](https://vijaykarnataka.com/news/karnataka/namma-metro-blue-line-ready-by-end-of-2027-17-new-stations-5-mega-projects/videoshow/134519192.cms)
 - [ಚಹಾ ಮಾಡಿದ ನಂತರ ಶುಂಠಿ ಬಿಸಾಡಬೇಡಿ; ಉಳಿದ ಶುಂಠಿಯಿಂದಲೇ ರುಚಿಕರ ಖಾರ ಚಟ್ನಿ ತಯಾರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/used-ginger-after-making-tea-chutney-recipe/articleshow/134508419.cms)
-- [ಅಕ್ಟೋಬರ್ 1ರಿಂದ 3 ಮಹತ್ವದ ನಿಯಮ ಜಾರಿ, ಗ್ಯಾಸ್‌ ಸಬ್ಸಿಡಿ, ಬ್ಯಾಂಕ್ ಎಫ್‌ಡಿ, ಜನನ ಪ್ರಮಾಣಪತ್ರದಲ್ಲಿ ಬದಲಾವಣೆ](https://vijaykarnataka.com/news/india/new-rule-changes-from-october-2026-changes-regarding-gas-subsidies-bank-fds-and-birth-certificates/videoshow/134519140.cms)
+- [ನಮ್ಮ ಮೆಟ್ರೋ ನೀಲಿ ಮಾರ್ಗ 2027ರ ಅಂತ್ಯಕ್ಕೆ ರೆಡಿ, 17 ಹೊಸ ನಿಲ್ದಾಣಗಳು, 5 ಮೆಗಾ ಯೋಜನೆಗಳು](https://vijaykarnataka.com/news/karnataka/namma-metro-blue-line-ready-by-end-of-2027-17-new-stations-5-mega-projects/videoshow/134519192.cms)
 - [ಮೋಕ್ಷಿತಾ ಪೈ ಭಾವುಕ: ನಾಳೆಯಿಂದ ‘ಜಗದ್ದಾತ್ರಿ’ ಹವಾ ಶುರು, ವಿಜಯ್ ಸೂರ್ಯ ಹೇಳಿದ್ದೇನು?](https://vijaykarnataka.com/tv/news/mokshita-pai-emotional-will-hit-the-screens-on-jagaddatri-serial-on-september-28-from-9-pm/articleshow/134519139.cms)
 - [ಅಕ್ಷಯ್ ಕುಮಾರ್ ಪತ್ನಿ ಟ್ವಿಂಕಲ್ ಖನ್ನಾ ಹೇಳಿದ ಕಿಚನ್ ಟಿಪ್ಸ್; ಜಿರಳೆ ಕಾಟಕ್ಕೆ ಈ ಸರಳ ಮನೆಮದ್ದು](https://vijaykarnataka.com/lifestyle/home-decor/twinkle-khanna-kitchen-remedy-to-get-rid-of-cockroaches/articleshow/134499248.cms)
 - [2026 ಪಿತೃ ಪಕ್ಷ: ಕರ್ಣ ಸ್ವರ್ಗದಿಂದ ಭೂಮಿಗೆ ಮರಳಲು ಕಾರಣ.!](https://vijaykarnataka.com/religion/hinduism/pitru-paksha-2026-reason-behind-karna-back-to-earth-from-the-heaven/articleshow/134517525.cms)
 - [ಪಿತೃ ಪಕ್ಷ 2026: ಪಿತೃಗಳಿಗೆ ಪಾಯಸ-ಪೂರಿ ಅರ್ಪಿಸುವ ಸಂಪ್ರದಾಯ, ಮಾಡುವ ವಿಧಾನ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/home-decor/pitru-paksha-2026-kheer-puri-first-day-ancestor-offering/articleshow/134501695.cms)
-- [ಅಪ್ರತಿಮ ವೀರ ಭಗತ್ ಸಿಂಗ್: ಕ್ರಾಂತಿಯ ಕಿಡಿಯಿಂದ ವಿಚಾರದ ಬೆಳಕಿನವರೆಗೆ! ಆಧುನಿಕ ಭಾರತಕ್ಕೂ ಸಲ್ಲುವ ನೈಜ ಕ್ರಾಂತಿಕಾರಿ](https://vijaykarnataka.com/news/vk-special/from-political-independence-to-social-justice-how-bhagat-singh-ideals-matter-in-modern-india/articleshow/134518182.cms)
+- [ಅಕ್ಟೋಬರ್ 1ರಿಂದ 3 ಮಹತ್ವದ ನಿಯಮ ಜಾರಿ, ಗ್ಯಾಸ್‌ ಸಬ್ಸಿಡಿ, ಬ್ಯಾಂಕ್ ಎಫ್‌ಡಿ, ಜನನ ಪ್ರಮಾಣಪತ್ರದಲ್ಲಿ ಬದಲಾವಣೆ](https://vijaykarnataka.com/news/india/new-rule-changes-from-october-2026-changes-regarding-gas-subsidies-bank-fds-and-birth-certificates/videoshow/134519140.cms)
 
 **The Hindu**
+- [Pinarayi Vijayan, Ramesh Chennithala cross swords over Kerala Lok Ayukta](https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-ramesh-chennithala-cross-swords-over-kerala-lok-ayukta/article71515762.ece)
+- [40-year-old demand for road to Scheduled Caste village causes communal rift in Nilgiris](https://www.thehindu.com/news/national/tamil-nadu/40-year-old-demand-for-road-to-scheduled-caste-village-causes-communal-rift-in-nilgiris/article71515572.ece)
+- [Former U.P. Minister Ram Govind Chaudhary cremated in Ballia with State honours](https://www.thehindu.com/news/national/uttar-pradesh/former-up-minister-ram-govind-chaudhary-cremated-in-ballia-with-state-honours/article71515833.ece)
+- [When AI agents go rogue: Australia breach offers warning for countries like India](https://www.thehindu.com/news/national/when-ai-agents-go-rogue-australia-breach-offers-warning-for-countries-like-india/article71515799.ece)
 - [Operation Toofan to enter second phase on September 28; focus on drug prevention and rehabilitation](https://www.thehindu.com/news/national/kerala/operation-toofan-to-enter-second-phase-on-september-28-focus-on-drug-prevention-and-rehabilitation/article71515789.ece)
 - [NEET paper leak impact: CISF to guard NTA premises; stricter monitoring for 'confidential' areas](https://www.thehindu.com/news/national/neet-paper-leak-impact-cisf-to-guard-nta-premises-stricter-monitoring-for-confidential-areas/article71515827.ece)
 - [Indian non-profits lag on digital maturity, AI adoption: report](https://www.thehindu.com/sci-tech/technology/indian-non-profits-lag-on-digital-maturity-ai-adoption-report/article71512189.ece)
 - [Mamata camp's TMC MLA claims car attacked twice in two days](https://www.thehindu.com/news/national/west-bengal/mamata-camps-tmc-mla-claims-car-attacked-twice-in-two-days/article71515732.ece)
 - [Mobile phone retailers to protest against UPI MDR charges on October 2](https://www.thehindu.com/news/national/mobile-phone-retailers-to-protest-against-upi-mdr-charges-on-october-2/article71515807.ece)
 - [Keralam researchers discover a new species of genus Begonia in Western Ghats](https://www.thehindu.com/news/national/kerala/keralam-researchers-discover-a-new-species-of-genus-begonia-in-western-ghats/article71513107.ece)
-- [Six years on, ringed Eurasian whimbrel resighted on Keralam coast; marked Tibetan sand-plover also recorded](https://www.thehindu.com/news/national/kerala/six-years-on-ringed-eurasian-whimbrel-resighted-on-keralam-coast-marked-tibetan-sand-plover-also-recorded/article71507743.ece)
-- [Wangchuk backs October 2 CJP protest against CEC, may not attend physically](https://www.thehindu.com/news/national/wangchuk-backs-october-2-cjp-protest-against-cec-may-not-attend-physically/article71515723.ece)
-- [India, Canada preparing to take ties to 'higher level': Jaishankar](https://www.thehindu.com/news/national/india-canada-preparing-to-take-ties-to-higher-level-jaishankar/article71515782.ece)
-- [Tracheal stents offer relief to dog breeds prone to breathing problems; veterinarians trained in Chennai](https://www.thehindu.com/news/national/tamil-nadu/tracheal-stents-offer-relief-to-dog-breeds-prone-to-breathing-problems-veterinarians-trained-in-chennai/article71515750.ece)
 
 **Livemint**
+- [Bihar’s  ₹21,000 crore mineral reserves may generate over  ₹5,000 crore annual revenue, says report](https://www.livemint.com/news/india/bihars-21-000-crore-mineral-reserves-may-generate-over-5-000-crore-annual-revenue-says-report-11790505619842.html)
 - [Who is Priyanka Saxena? After 10 years in IAF, she lost her fighter pilot husband; SC backs her return](https://www.livemint.com/news/india/who-is-priyanka-saxena-after-10-years-in-iaf-she-lost-her-fighter-pilot-husband-sc-backs-her-return-11790503949694.html)
 - [Russian Strikes Kill Four in Ukraine, Damage Kyiv Data Center](https://www.livemint.com/news/world/russian-strikes-kill-four-in-ukraine-damage-kyiv-data-center-11790504414709.html)
 - [Consumer drags PVR Cinemas to court after ads play for 17 minutes before movie: Movie chain must now pay  ₹75,000](https://www.livemint.com/news/india/consumer-drags-pvr-cinemas-to-court-after-ads-play-for-17-minutes-before-movie-movie-chain-must-now-pay-rs-75000-11790503840927.html)
@@ -83,7 +84,6 @@
 - [US-Iran war: Mojtaba Khamenei 'pulled from rubble' after strikes — New claim after Trump says Supreme leader ‘not dead’](https://www.livemint.com/news/world/usiran-war-mojtaba-khamenei-pulled-from-rubble-after-strikes-new-claim-after-trump-says-supreme-leader-not-dead-11790497646487.html)
 - [Mint explainer: what has changed in the new HAM highway contract?](https://www.livemint.com/news/hybrid-annuity-model-ham-new-mca-highway-projects-developers-payment-11790480682838.html)
 - [Who is Petal Gahlot? First Secretary at India’s Permanent Mission to the UN, who schooled Pak PM Shehbaz Sharif at UNGA](https://www.livemint.com/news/india/who-is-petal-gahlot-first-secretary-at-india-s-permanent-mission-to-the-un-who-schooled-pak-pm-shehbaz-sharif-at-unga-11790493201212.html)
-- [World Tourism Day 2026 special: These 5 locations became fan pilgrimage after iconic movies - Full details here](https://www.livemint.com/news/trends/world-tourism-day-2026-special-these-5-locations-became-fan-pilgrimage-after-iconic-movies-full-details-here-11790488001165.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,32 +98,34 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಮಂಗಳೂರು ಸಿಸಿಬಿ ಪೊಲೀಸರ ಕಾರ್ಯಾಚರಣೆ : ಎಂಡಿಎಂಎ ಸಹಿತ ಮೂವರು ಆರೋಪಿಗಳ ಸೆರೆ](https://www.varthabharati.in/DakshinaKannada/mangaluru-ccb-police-operation-three-accused-arrested-with-mdma-2278365)
+- [SIR ಇಲ್ಲದ ರಾಜ್ಯಗಳಲ್ಲಿ ಹೊಸ ಫಾರ್ಮ್ 6 ನೋಂದಣಿಗಳಿಗೆ ಮ್ಯಾಪಿಂಗ್ ಅಗತ್ಯವಿಲ್ಲ](https://www.varthabharati.in/National/no-need-of-mapping-the-new-form-6-in-non-sir-states-2278364)
+- [ನೇಪಾಳದಲ್ಲಿ ಹಿಮಪಾತ; ಬೇಸ್ ಕ್ಯಾಂಪ್‌ ನಲ್ಲಿದ್ದ 6 ಮಂದಿ ನಾಪತ್ತೆ](https://www.varthabharati.in/international/avalanche-breakdown-in-nepal-2278363)
+- [ಛೂ ಬಾಣ | ಪಿ. ಮಹಮ್ಮದ್ ಕಾರ್ಟೂನ್](https://www.varthabharati.in/chubana/cartoon-2278360)
 - [ಹೃದಯದ ಆರೋಗ್ಯಕ್ಕೆ ಬೇಕು ನೆಮ್ಮದಿಯ ನಿದ್ರೆ; ವೈದ್ಯರು ಸೂಚಿಸಿದ 5 ಸೂತ್ರಗಳು](https://www.varthabharati.in/health/doctor-suggests-a-good-sleep-required-for-heart-health-2278358)
 - [UPIಗೆ ಎಂಡಿಆರ್ ಶುಲ್ಕ ವಿರೋಧಿಸಿ ಮೊಬೈಲ್ ಫೋನ್ ಚಿಲ್ಲರೆ ವ್ಯಾಪಾರಿಗಳಿಂದ ಅ.2ರಂದು ಪ್ರತಿಭಟನೆ](https://www.varthabharati.in/National/local-vendors-to-observe-protest-against-mdr-charges-for-upi-on-oct-2-2278357)
 - [ಎಲ್ಲ ಸಾಂವಿಧಾನಿಕ ಸಂಸ್ಥೆಗಳ ಮೇಲೆ ಕಾಂಗ್ರೆಸ್‌ ಅನುಮಾನ, ಚುನಾವಣೆಯಲ್ಲಿ ಸೋಲುವ ಭಯದಿಂದ ಆರೋಪ :  ಆರ್‌.ಅಶೋಕ್‌](https://www.varthabharati.in/state/r-ashoka-2278355)
 - [Asian Games 2026 | ಕ್ವಾರ್ಟರ್ ಫೈನಲ್‌ ನಲ್ಲಿ ಸಿಂಧು ಪಡೆಗೆ ಸೋಲು; ಬ್ಯಾಡ್ಮಿಂಟನ್‌ ನಲ್ಲಿ ಭಾರತದ ಪದಕದ ಕನಸು ಭಗ್ನ](https://www.varthabharati.in/sports/sindhu-loses-in-quarter-finals-of-asian-games-2278354)
 - [Tamil Nadu | ಗುಟ್ಕಾ ಸಾಗಿಸುತ್ತಿದ್ದ ಕಾರನ್ನು 40 ಕಿ.ಮೀ. ಬೆನ್ನಟ್ಟಿದ ಪೊಲೀಸರು; ಮೇಲ್ಛಾವಣಿ ಹಿಡಿದು ಸಾಗಿದ ಹೆಡ್ ಕಾನ್ಸ್‌ಟೇಬಲ್](https://www.varthabharati.in/National/police-chases-the-car-exporting-the-gutka-in-tamil-nadu-2278353)
 - [Uttar Pradesh | ಭಾರೀ ಮಳೆಗೆ ಜನಜೀವನ ಅಸ್ತವ್ಯಸ್ತ: 10 ಮಂದಿ ಮೃತ್ಯು](https://www.varthabharati.in/National/torrential-rain-hits-uttar-pradesh-killling-10-people-2278352)
-- [30 ದಿನಗಳ ರೀಚಾರ್ಜ್, ಕರೆ–SMS ಮಾತ್ರವೇ ಇರುವ ಯೋಜನೆ ಕಡ್ಡಾಯ: ದೂರಸಂಪರ್ಕ ಕಂಪೆನಿಗಳಿಗೆ ಕೇಂದ್ರ ಸರಕಾರದ ಸೂಚನೆ](https://www.varthabharati.in/National/central-govt-warns-telecommunication-companies-to-launch-compulsory-30-days-package-2278351)
-- [ದೇಹಕ್ಕೆ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಜೈವಿಕ ಗಡಿಯಾರಗಳಿವೆ; ಹೊಸ ಅಧ್ಯಯನದಲ್ಲಿ ಬಯಲು!](https://www.varthabharati.in/health/body-has-more-than-one-biological-clock-2278349)
-- [ನಾಲ್ಕು ವರ್ಷಗಳಲ್ಲಿ ಪಕ್ಷಗಳನ್ನು ಬದಲಿಸಿದ 111 ಹಾಲಿ ಸಂಸದರು, ಶಾಸಕರು; ಶೇ.26ರಷ್ಟು ಮಂದಿ ಬಿಜೆಪಿಗೆ ಸೇರ್ಪಡೆ: ಎಡಿಆರ್](https://www.varthabharati.in/National/adr-reports-that-past-four-years-about-111-parliamentarians-have-horse-traded-among-26-have-joined-bjp-2278347)
-- [ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ನ ಹಲವು ಭ್ರಷ್ಟ ನ್ಯಾಯಾಧೀಶರು ನ್ಯಾಯವ್ಯವಸ್ಥೆಗೆ ಹಾನಿ ಉಂಟುಮಾಡಿದ್ದಾರೆ: ಹಿರಿಯ ವಕೀಲ ದುಶ್ಯಂತ್ ದವೆ ಆರೋಪ](https://www.varthabharati.in/National/system-is-disturbed-by-the-corrupt-judges-in-the-supreme-court-2278345)
 
 **Asianet Kannada**
+- [DRDO ನಿಡಿದ ಬಿಗ್ ಶಾಕ್: ಭಾರತದ ಕೈಸೇರಿತು ಸ್ವದೇಶಿ ಟ್ಯಾಂಕ್ ಕಿಲ್ಲರ್! ಚೀನಾ-ಪಾಕ್ ಪಡೆಗಳಿಗೆ ಅಸಲಿ ನಡುಕ ಸ್ಟಾರ್ಟ್](https://kannada.asianetnews.com/science/nag-mk-2-missile-india-drdo-tank-killer-fire-and-forget-namica-igmdp-bmk/articleshow-nwydemm)
+- [Bengaluru: ತೀವ್ರ ಬರಗಾಲದ ನಡುವೆಯೂ ತುಂಬಿದ ಆದಿ ಹೊಸಹಳ್ಳಿ ಕಲ್ಯಾಣಿ; ಇದು ಆರ್ಟ್‌ ಆಫ್ ಲಿವಿಂಗ್ ಜಲಕ್ರಾಂತಿ](https://kannada.asianetnews.com/gallery/karnataka-districts/nelamangala-adi-hosahalli-kalyani-overflowing-despite-severe-drought-art-of-living-s-jalakranti-sns-tc86g3t)
+- [ಬಡತನದಲ್ಲೇ ಬೆಂದು ಸಾವನ್ನಪ್ಪಿದ ಅಜ್ಜಿಯ ಮನೆಯಲ್ಲಿತ್ತು 10 ಕೋಟಿ ರೂ. ಕಲ್ಲು! ಮುಂದೇನಾಯ್ತು ನೋಡಿ](https://kannada.asianetnews.com/life/woman-used-rock-as-doorstop-for-decades-then-discovered-it-was-worth-10-crore-suc/articleshow-6000yhc)
+- ['ಮದುವೆ ಯಾವಾಗ?' ಪ್ರಶ್ನೆಗೆ ಅಂಜಲಿ 'ಹತ್ತಿ' ಚಾಟಿ ಏಟು.. ಸ್ನೇಹಿತರ ಅಂತರಂಗದ ಆಸೆಯ ಅಸಲೀಯತ್ತು ಬಟಾಬಯಲು](https://kannada.asianetnews.com/gallery/news-entertainment/actress-anjali-gives-strong-response-to-those-who-repeatedly-ask-when-are-you-getting-married-and-revealsreason-behind-66ikafw)
+- [ಮೂಕಜೀವಿಗಳಿಗಾಗಿ ಖ್ಯಾತ ಆ್ಯಂಕರ್ ರಶ್ಮಿ ಗೌತಮ್ ಧ್ವನಿ: ಟ್ರೋಲರ್ಸ್‌ಗೆ ಕೊಟ್ಟ ಸಂದೇಶ ವೈರಲ್!](https://kannada.asianetnews.com/entertainment/telgu-anchor-actress-rashmi-gautam-hits-back-at-trolls-with-an-emotional-message-use-your-time-wisely-gvd/articleshow-he7ao7y)
+- [ದುಡಿದ ಹಣ ಎಲ್ಲಿ ಮಾಯವಾಗ್ತಿದೆ ಅಂತ ಗೊತ್ತಾಗ್ತಿಲ್ವಾ? ಮನೆಯ ಈ ಮೂಲೆಗಳನ್ನೊಮ್ಮೆ ಚೆಕ್ ಮಾಡಿ!](https://kannada.asianetnews.com/gallery/vaastu/throw-these-5-useless-things-out-of-your-house-to-fix-money-problems-u8cyls3)
 - [Shivamogga: ಜನ್ಮ ನೀಡಿದ ಎರಡೇ ದಿನಕ್ಕೆ 4 ಸಿಂಹದ ಮರಿಗಳ ಸಾವು; ಸಿಂಹಿಣಿ ಸಾರಾಗೆ ಚೊಚ್ಚಲ ಹೆರಿಗೆ](https://kannada.asianetnews.com/gallery/karnataka-districts/tragedy-in-shivamogga-zoo-4-newborn-asiatic-lion-cubs-die-within-two-days-of-birth-mrq-6tf4xg3)
 - [ಹಬ್ಬಕ್ಕೆ ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್, ಗೃಹಪಯೋಗಿ ವಸ್ತು ಖರೀದಿಸಲು ಪ್ಲಾನ್ ಇದೆಯಾ? ಹೊಸ ಅಪ್‌ಡೇಟ್ ನೋಡಿ](https://kannada.asianetnews.com/business/festival-shopping-alert-electronics-and-home-appliance-prices-set-to-rise-soon/articleshow-esby2ig)
 - [Cricket; ವಿಕೆಟ್ ಸಿಕ್ಕರೂ ಸರಿಹೋಗದ ಲೆಕ್ಕಾಚಾರ; ಗಿಲ್ ಮಾಡಿದ 'ಆ' ಬಿಗ್ ಮಿಸ್ಟೇಕ್ ಅಹಂಕಾರವೋ ಅಥವಾ ನಾಯಕತ್ವದ ಮೂರ್ಖತನವೋ?](https://kannada.asianetnews.com/cricket-sports/india-vs-west-indies-odi-2026-shubman-gill-tactical-blunder-kuldeep-yadav-john-campbell-135-run-partnership-bmk/articleshow-tygg2mb)
 - [ಬಾಲಿವುಡ್​ ನಟರ, ಭಾರತದ ಸಿರಿವಂತರ ಮಕ್ಕಳು ಓದುವ ಶಾಲೆಗಳು ಇವೇ ನೋಡಿ, ಫೀಸ್​ ಎಷ್ಟಿದೆ ಗೊತ್ತಾ](https://kannada.asianetnews.com/gallery/education/these-are-the-schools-where-the-children-of-bollywood-actors-and-the-richest-people-study-suc-bsx08kt)
-- [‘ದಿ ಪ್ಯಾರಡೈಸ್’ನಲ್ಲಿ ಕಯಾದು ಪಾತ್ರದ ಬಗ್ಗೆ ಟೀಕೆ: ಚಿಟ್ಟೆಯ ಟ್ಯಾಟೂ ಕೂಡ ಕಥೆಯಲ್ಲಿ ಪ್ರಮುಖ!](https://kannada.asianetnews.com/entertainment/telugu-film-the-paradise-controversy-actress-kayadu-lohars-character-sparks-mixed-reactions-gvd/articleshow-9khg08a)
-- [ಪೆಟ್ರೋಲ್ ಲೀ.ಗೆ ₹25 ಅಷ್ಟೇ! ಎಥೆನಾಲ್, ಹೈಡ್ರೋಜನ್ ವಾಹನಗಳ ಬಗ್ಗೆ ನಿತಿನ್ ಗಡ್ಕರಿ ಬಿಚ್ಚಿಟ್ಟ ಮಹತ್ವದ ಮಾಹಿತಿ](https://kannada.asianetnews.com/india-news/union-minister-nitin-gadkari-has-provided-information-regarding-launch-of-vehicles-that-run-on-100-percent-ethanol-mrq/articleshow-bketx9u)
-- [‘ಜಾಸ್ತಿ ಮಾತಾಡ್ತಾ ಇದೀಯ ನೀನು’.. ಪಾಪರಾಜಿಗಳ ಮೇಲೆ ರಣಬೀರ್ ಕಪೂರ್ ಅಷ್ಟೊಂದು ರೊಚ್ಚಿಗೆದ್ದಿದ್ದು ಏಕೆ?](https://kannada.asianetnews.com/news-entertainment/ranbir-kapoor-warning-and-reprimanding-paparazzi-for-being-overly-loud-and-talkative-video-goes-viral-on-social-media/articleshow-0ppawwt)
-- [Drought; ಕೇಂದ್ರ-ರಾಜ್ಯಗಳ ನಡುವೆ 'ಬರ' ಸಂಗ್ರಾಮ; ಪರಿಹಾರದ ಚಾವಿ ಯಾರ ಕೈಯಲ್ಲಿದೆ? ಬರ ಘೋಷಣೆಗೆ ಇರುವ ಮಾನದಂಡಗಳೇನು?](https://kannada.asianetnews.com/bengaluru-urban/karnataka-drought-declaration-criteria-relief-funds-sdrf-ndrf-farmers-bmk/articleshow-z06qtfs)
-- [ಒಂದು  BMW i7 ಕಾರಿಗೆ ಸುರಿಯುವ ಹಣದಲ್ಲಿ ಎಷ್ಟು ಕಾರುಗಳನ್ನ ಖರೀದಿ ಮಾಡಬಹುದು? ಅಚ್ಚರಿಯ ಲೆಕ್ಕಾಚಾರ](https://kannada.asianetnews.com/car-news/how-many-cars-can-buy-in-price-of-a-single-bmw-i7-you-will-get-50-maruti-suzuki-alto-10/articleshow-6fn87et)
-- [ಪ್ರಭಾಸ್ 'ಫೌಜಿ' ಶೂಟಿಂಗ್ ಭರಾಟೆ: ಟೀಸರ್, ಫೈಟ್ ಸೀಕ್ವೆನ್ಸ್, ರಿಲೀಸ್‌ ಡೇಟ್ ಬಗ್ಗೆ ಬಿಗ್ ಅಪ್‌ಡೇಟ್](https://kannada.asianetnews.com/entertainment/telugu-actor-prabhas-fans-get-ready-fauji-teaser-may-arrive-on-his-birthday-gvd/articleshow-fxsocaz)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [4 ವರ್ಷಗಳ ನಂತರ ಚೊಚ್ಚಲ ಏಕದಿನ ಶತಕ ಬಾರಿಸಿದ ಜಸ್ಟಿನ್ ಗ್ರೀವ್ಸ್](https://tv9kannada.com/photo-gallery/cricket-photos/justin-greaves-maiden-odi-century-ind-vs-wi-1st-match-1243262.html)
+- [ಗಾಂಧಿ ಜಯಂತಿಯಂದು ‘ನೋ ಯುಪಿಐ ಡೇ’ ಕರೆ ನೀಡಿರುವ ಸುದ್ದಿ ಸುಳ್ಳು: ವರ್ತಕರ ಒಕ್ಕೂಟ ಸ್ಪಷ್ಟನೆ](https://tv9kannada.com/business/cait-clarifies-no-upi-day-call-on-october-2nd-is-false-1243263.html)
 - [ಕಾಳಿ ನದಿಯ ಒಡಲಿಗೆ ಕನ್ನ: ಕಾರವಾರದಲ್ಲಿ ಎಗ್ಗಿಲ್ಲದೆ ಅಕ್ರಮ ಮರಳುಗಾರಿಕೆ; ಗೋವಾಕ್ಕೂ ಸಾಗಾಟ!](https://tv9kannada.com/karnataka/uttara-kannada/kali-river-sand-mining-illegal-sand-extraction-rages-in-karwar-1243245.html)
 - [50 ಹಳ್ಳಿ ಜನರಿಗೆ ಭೂಮಿ ಹಿಂದಿರುಗಿಸಬೇಕು: ಆಂದೋಲನ ಘೋಷಿಸಿದ ಕೇಂದ್ರ ಸಚಿವ ಕುಮಾರಸ್ವಾಮಿ](https://tv9kannada.com/videos/union-minister-hd-kumaraswamy-announces-jan-andolan-on-october-2nd-in-bengaluru-1243256.html)
 - [ರಾವಣನಾಗಿ ಯಶ್, ‘ರಾಮಾಯಣ’ದಿಂದ ಹೊಸ ಪೋಸ್ಟರ್ ರಿಲೀಸ್](https://tv9kannada.com/entertainment/fans-impressed-by-new-ramayana-posters-featuring-ranbir-kapoor-sai-pallavi-yash-and-ravi-dubey-1243257.html)
@@ -132,8 +134,6 @@
 - [ವಾಸ್ತು ಶಾಸ್ತ್ರ: ಮನೆಯ ನಕಾರಾತ್ಮಕತೆ ಓಡಿಸಿ, ಆರ್ಥಿಕ ಅಭಿವೃದ್ಧಿ ತರುವ 5 ಅದ್ಭುತ ಸರಳ ಮಾರ್ಗಗಳು!](https://tv9kannada.com/spiritual/vastu-tips-for-positive-home-energy-remove-negativity-and-boost-peace-prosperity-1243244.html)
 - [ಕೆಆರ್​ಐಡಿಎಲ್ ಎಇಇ ನಾಪತ್ತೆ​​: 14 ದಿನವಾದರೂ ಸುಳಿವಿಲ್ಲ; ಪೊಲೀಸರ ವಿಶೇಷ ತಂಡ ರಚನೆ](https://tv9kannada.com/karnataka/gadag/gadag-kridl-aee-missing-case-no-trace-after-14-days-special-police-team-formed-1243235.html)
 - [ತ್ಯಾವರೆಕೊಪ್ಪ ಮೃಗಾಲಯದಲ್ಲಿ ಸೂತಕದ ಛಾಯೆ: ಸಿಂಹಿಣಿ ಜನ್ಮ ನೀಡಿದ್ದ 4 ಮರಿಗಳ ಸಾವು](https://tv9kannada.com/karnataka/shivamogga/four-lion-cubs-dies-in-shivamogga-tyavarekoppa-zoo-1243238.html)
-- [ರಾಯಚೂರು ಜಿಲ್ಲಾ ಪಂಚಾಯತ್ ನೇಮಕಾತಿ: 7 ಬ್ಲಾಕ್ ಕೋಆರ್ಡಿನೇಟರ್ ಹುದ್ದೆಗಳಿಗೆ ಅರ್ಜಿ ಆಹ್ವಾನ](https://tv9kannada.com/karnataka/raichur-zp-recruitment-2026-7-block-coordinator-posts-apply-online-now-1243234.html)
-- [ವಿಷ್ಣು ಅಮೃತ ಮಹೋತ್ಸವದಲ್ಲಿ ಶಿವಣ್ಣ ಮುತ್ತಿನಂಥ ಮಾತು: ವಿಡಿಯೋ](https://tv9kannada.com/videos/shiva-rajkumar-speech-at-vishnuvardhan-amrutha-mahotsava-1243236.html)
 
 **Prajavani**
 - [ನೂತನ ಕಚೇರಿಗೆ ಸ್ಥಳಾಂತರಗೊಂಡ ಎನ್‌ಟಿಎ: ಸಿಐಎಸ್‌ಎಫ್ ಭದ್ರತೆ](https://www.prajavani.net/news/india-news/nta-shifts-to-new-office-with-cisf-security-4291332)
@@ -148,6 +148,8 @@
 - [₹136 ಕೋಟಿ ಗಳಿಕೆಯತ್ತ ಸಾಗಿದ ನಾನಿ ಅಭಿನಯದ 'ದಿ ಪ್ಯಾರಡೈಸ್'](https://www.prajavani.net/entertainment/cinema/nani-the-paradise-box-office-collection-three-days-4291156)
 
 **eedina**
+- [ಧಾರವಾಡ | ಭಾರತದ ಸಂವಿಧಾನ ಜನರ ಅಶೋತ್ತರಗಳನ್ನು ಪ್ರತಿ ಬಿಂಬಿಸುವ ಕೃತಿಯಾಗಿದೆ: ಡಾ. ರಾಘವೇಂದ್ರ ಪಾಟೀಲ](https://eedina.com/?p=766935)
+- [‘ಕೊಂದವರು ಯಾರು?’ – ಧರ್ಮಸ್ಥಳದ ಸಂತ್ರಸ್ತರಿಗೆ ನ್ಯಾಯಕ್ಕಾಗಿ ಅ.2ರಂದು ಬೃಹತ್ ವಿಚಾರ ಸಂಕಿರಣ](https://eedina.com/?p=766928)
 - [ಹಾವೇರಿ | ಬೆಟಗೇರಿ ಕೃಷ್ಣಶರ್ಮ, ವಿ.ಕೃ. ಗೋಕಾಕರು ಕನ್ನಡ ವಿವೇಕ ಕಟ್ಟಿದವರು: ಕವಿ ಡಾ. ಸಿದ್ದಲಿಂಗ ಪಟ್ಟಣಶೆಟ್ಟಿ](https://eedina.com/?p=766920)
 - [ಮಧುಗಿರಿ | ಸಿಂಹಾದ್ರಿ ಹತ್ಯೆ: ಪೊಲೀಸ್ ನಿರ್ಲಕ್ಷ್ಯ ಆರೋಪ; ಕಸಾಪುರದಲ್ಲಿ ಶಾಂತಿಸಭೆಗೆ ಒತ್ತಾಯ](https://eedina.com/?p=766910)
 - [ಉತ್ತರ ಪ್ರದೇಶದಲ್ಲಿ ಜಲಪ್ರಳಯ: ಪ್ರವಾಹಕ್ಕೆ 56 ಮಂದಿ ಬಲಿ, ಸಾವಿರಕ್ಕೂ ಹೆಚ್ಚು ಮನೆಗಳು ಧ್ವಂಸ](https://eedina.com/?p=766909)
@@ -156,39 +158,37 @@
 - [ಬೀದರ್‌ | ಸೆ.29ರಂದು ನೀರು, ಬರ, ಪರಿಸರ ಕುರಿತು ವಿಚಾರ ಸಂಕಿರಣ](https://eedina.com/?p=766902)
 - [ಬೀದರ್‌ | ಶಿಕ್ಷಕರು ಸಮಾಜದ ಭವಿಷ್ಯ ನಿರ್ಮಿಸುವ ಶಿಲ್ಪಿಗಳು: ಪುಣ್ಯವತಿ ವಿಸಾಜಿ](https://eedina.com/?p=766896)
 - [ಬೆಳಗಾವಿ | ಸಕ್ಕರೆ ಕಾರ್ಖಾನೆ ಕಾರ್ಮಿಕರ ರಾಜ್ಯಮಟ್ಟದ ಸಮಾವೇಶ: ಪ್ರಮುಖ ನಿರ್ಣಯಗಳ ಅಂಗೀಕಾರ](https://eedina.com/?p=766891)
-- [ಬೀದರ್‌ | ಅಂಬೇಡ್ಕರ್ ಚಿಂತನೆ ವಿದ್ಯಾರ್ಥಿಗಳ ಬದುಕಿಗೆ ಮಾರ್ಗದರ್ಶನವಾಗಲಿ: ಸಿದ್ರಾಮ ಸಿಂಧೆ](https://eedina.com/?p=766882)
-- [ತಮಿಳುನಾಡಿನಲ್ಲಿ ತೀವ್ರ ವಿರೋಧ: ‘ಆರ್‌ಟಿಐ ವಿನಾಯಿತಿ’ ನಿರ್ಧಾರದಿಂದ ಹಿಂದೆ ಸರಿದ ವಿಜಯ್ ಸರ್ಕಾರ](https://eedina.com/?p=766883)
 
 ## Cross-source trending keywords (derived from headlines above)
-- October (5.2)
 - Emkay Global Financial (5.0)
+- October (3.9)
 - ICICI Securities (3.0)
 - target (3.0)
 - India (2.9)
-- Wangchuk (2.9)
 - September (2.6)
 - Mobile (2.6)
-- Keralam (2.6)
+- UNGA (2.6)
 - Summit (2.2)
 - NDTV Defence Summit (2.0)
 - UPI MDR (2.0)
 - Buy Bajaj Finance (2.0)
+- Former (1.6)
+- Wangchuk (1.6)
 - Mint (1.6)
-- Defence (1.5)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- ['The Paradise' box office collection day 3: Nani and Kayadu Lohar film earns Rs 15.25 cr; records 2.3% growth; India net reaches Rs 76.40 cr](https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-box-office-collection-day-3-nani-and-kayadu-lohar-film-earns-rs-15-25-cr-records-2-3-growth-india-net-reaches-rs-76-40-cr/articleshow/134513081.cms)
+- [ચોમાસાની વિદાય ટાણે અર્નબ વાવાઝોડાનું તાંડવ, યુપીમાં ભારે વરસાદ વચ્ચે 42નાં મોત](https://www.gujaratsamachar.com/news/national/cyclone-arnab-heavy-rains-in-up-42-dead-94502052264)
+- [આજનુ પંચાંગ તા.27/9/2026,રવિવાર](https://www.gujaratsamachar.com/news/astro/todays-panchang-date-2792026-sunday-21260392012)
+- ['ट्रंप का बयान देखा, अब मध्यस्थों के जवाब का इंतजार...', होर्मुज प्रस्ताव पर बोले ईरानी विदेश मंत्री अराघची](https://www.aajtak.in/world/story/iran-waits-mediator-response-on-hormuz-proposal-abbas-araghchi-trump-ntc-dhrj-dskc-2654210-2026-09-27)
 - [SIR पर बवाल के बीच चुनाव आयोग ने लिए 4 बड़े फैसले, नोटिस मिलने पर भी कहीं जाना नहीं होगा](https://www.livehindustan.com/national/election-commissions-4-decisions-amid-sir-and-cec-gyanesh-kumar-row-201790464736706.html)
 - [സാധാരണക്കാരനിൽ നിന്ന് പാർട്ടി അകന്നു, സിപിഎം ആലപ്പുഴ ജില്ലാ വിശാല സമിതി യോഗത്തിൽ രൂക്ഷ വിമർശനം](https://www.asianetnews.com/local-news/party-left-comrades-and-common-man-standed-criticism-in-cpm-extended-state-committee-meeting-articleshow-7r8f6ai)
 - [చిట్టీల గురువు.. 10 కోట్లతో ఉడాయింపు!](https://www.andhrajyothy.com/2026/telangana/hyderabad/teacher-allegedly-flees-after-10-crore-chit-fund-fraud-1561810.html)
 - [2027.. నా చివరి ప్రపంచకప్‌](https://www.eenadu.net/telugu-news/sports/virat-kohli-says-2027-tournament-will-be-his-last-world-cup/0499/126174556)
 - [തിരുവോണം ബംപർ 30 കോടി രൂപ തളിപ്പറമ്പിൽ വിറ്റ ടിക്കറ്റിന്- Thiruvonam Bumper Lottery](https://www.manoramaonline.com/news/latest-news/2026/09/27/thiruvonam-bumper-lottery-indian-rupee30-crore-prize-winner-in-kannur.html)
 - [ఈ ఏఐ ఏంట్రా బాబూ.. ఇంత పనిచేసింది?](https://www.sakshi.com/telugu-news/national/ai-camera-mistakes-guitar-pillion-rider-bengaluru-2913917)
-- [വരുമാനത്തേക്കാൾ ഉയർന്ന സമ്പാദ്യം, ജിഎസ്ടി ജോയിന്റ് കമ്മീഷണറുടെ ഓഫീസിൽ പരിശോധന, 14 ലക്ഷം രൂപയും യുഎസ് ഡോളറും കണ്ടെത്തി](https://www.asianetnews.com/kerala-news/vigilance-rain-in-gst-joint-commision-office-seize-14-lakh-and-us-dollar-articleshow-xmchl4d)
-- [Why claims that China’s BeiDou satellite was refuelled in orbit could change space race](https://www.scmp.com/news/china/science/article/3368579/claims-chinas-beidou-satellite-was-refuelled-orbit-could-change-space-race)
-- [గోదావరికి పెరిగిన వరద](https://www.andhrajyothy.com/2026/andhra-pradesh/godavari-flood-intensifies-as-5-lakh-cusecs-released-into-sea-1561783.html)
-- [టికెట్లు 2.69 లక్షలు.. యూజర్లు 6 లక్షలు!](https://www.andhrajyothy.com/2026/andhra-pradesh/ttd-explains-delay-in-rs-300-special-darshan-ticket-booking-1561780.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
