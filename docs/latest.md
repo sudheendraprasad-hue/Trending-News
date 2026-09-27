@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-27 01:34:55
+# India Trending Report — 2026-09-27 02:01:54
 
 ## Google Trends (India) — top trending searches
 1. [nashville vs toronto](https://trends.google.com/trending/rss?geo=IN)
@@ -14,16 +14,16 @@
 
 ## Latest headlines by outlet
 **Times of India**
-- [Jaishankar at UNGA: Pakistan serial practitioner of terror, must face outcome](https://timesofindia.indiatimes.com/india/indias-right-to-defend-itself-from-terrorism-will-be-exercised-eam/articleshow/134510292.cms)
+- [Russia backs India's claim to UNSC seat, firmly shuts door on Germany & Japan](https://timesofindia.indiatimes.com/world/us/russia-backs-indias-claim-to-unsc-seat-firmly-shuts-door-on-germany-japan/articleshow/134508102.cms)
 - [400 flights cancelled, 100,000 without power as Nor-easter hits US East Coast](https://timesofindia.indiatimes.com/world/us/400-flights-cancelled-100000-without-power-as-nor-easter-hits-us-east-coast/articleshow/134513403.cms)
 - [Iran keeps door open for talks as Trump rejects Hormuz proposal](https://timesofindia.indiatimes.com/world/middle-east/iran-keeps-door-open-to-talks-as-trump-rejects-hormuz-proposal/articleshow/134512981.cms)
 - [After meeting, EC says officials will visit homes of those sent notices](https://timesofindia.indiatimes.com/india/after-meeting-ec-says-officials-will-visit-homes-of-those-sent-notices/articleshow/134513237.cms)
 - [Florida used robot rabbits to hunt Burmese pythons threatening the Everglades](https://timesofindia.indiatimes.com/technology/tech-news/when-a-district-in-florida-used-robot-rabbits-to-eliminate-growing-population-of-burmese-pythons-and-protect-everglades/articleshow/134385404.cms)
-- [Russia backs India's claim to UNSC seat, firmly shuts door on Germany & Japan](https://timesofindia.indiatimes.com/world/us/russia-backs-indias-claim-to-unsc-seat-firmly-shuts-door-on-germany-japan/articleshow/134508102.cms)
+- [Principal rapes 13-year-old in Gujarat; FIR filed](https://timesofindia.indiatimes.com/city/rajkot/school-principal-booked-for-raping-13-year-old-girl-in-kutch/articleshow/134509710.cms)
 - [He attested brother’s sale deed; HC cites oral partition, family loses 3.5 acres claim](https://timesofindia.indiatimes.com/business/india-business/he-attested-brothers-sale-deed-decades-ago-madras-hc-cites-it-as-evidence-of-oral-partition-rejects-familys-claim-to-3-5-acres-of-ancestral-land/articleshow/134507211.cms)
+- [Jaishankar at UNGA: Pakistan serial practitioner of terror, must face outcome](https://timesofindia.indiatimes.com/india/indias-right-to-defend-itself-from-terrorism-will-be-exercised-eam/articleshow/134510292.cms)
 - [4 killed as helicopter crashes in field in Canada’s Quebec, probe launched](https://timesofindia.indiatimes.com/world/rest-of-world/4-killed-as-helicopter-crashes-in-field-in-canadas-quebec/articleshow/134512844.cms)
 - [‘No jealousy’: Jurel reveals what Sooryavanshi does others ‘can’t even dream of’](https://timesofindia.indiatimes.com/sports/cricket/news/no-jealousy-dhruv-jurel-reveals-what-vaibhav-sooryavanshi-does-that-others-cant-even-dream-of/articleshow/134513363.cms)
-- [80 aircraft, 40 countries: IAF’s Tarang Shakti air exercise kicks off in Jodhpur](https://timesofindia.indiatimes.com/defence/news/80-aircraft-40-countries-1500-personnel-iafs-biggest-air-exercise-tarang-shakti-kicks-off-in-jodhpur-us-france-envoys-hail-multinational-drill/articleshow/134510091.cms)
 
 **NDTV**
 - [Judicial System Has Long Focused On Accused And Offence, Says Chief Justice](https://www.ndtv.com/india-news/judicial-system-has-long-focused-on-accused-and-offence-chief-justice-surya-kant-12103256#publisher=newsstand)
@@ -62,6 +62,9 @@
 - [ಮಗಳ ವಿದ್ಯಾಭ್ಯಾಸದ ಕಾರಣ ನೀಡಿದ್ದ ಪವಿತ್ರಾ ಗೌಡ ಜಾಮೀನು ವಜಾ; ಪ್ರದೋಷ್ ವಿಚಾರದಲ್ಲಿ ದರ್ಶನ್ ಅರ್ಜಿಗೂ ಕೋರ್ಟ್ ನಕಾರ](https://vijaykarnataka.com/news/karnataka/court-rejects-pavithra-gowdas-bail-ple-also-denies-darshans-application-regarding-pradosh/articleshow/134507261.cms)
 
 **The Hindu**
+- [Match sickle cell status, not horoscopes before marriage, say experts in Odisha](https://www.thehindu.com/sci-tech/health/match-sickle-cell-status-not-horoscopes-before-marriage-say-experts-in-odisha/article71513322.ece)
+- [In Bihar, criminal escapes police custody by jumping into river](https://www.thehindu.com/news/national/bihar/in-bihar-criminal-escapes-police-custody-by-jumping-into-river/article71513454.ece)
+- [It's not BRICS or UN, BRICS is supportive of UN: Jaishankar](https://www.thehindu.com/news/national/its-not-brics-or-un-brics-is-supportive-of-un-jaishankar/article71513762.ece)
 - [Asian Games 2026 India’s medallists: Full list of winners](https://www.thehindu.com/sport/asian-games-2026-india-medalists-full-list-of-winners-aichi-nagoya-japan/article71491065.ece)
 - [Election Commission stops physical hearings for voters, to start enrolment drive](https://www.thehindu.com/news/national/election-commission-new-special-intensive-revision-rules/article71512646.ece)
 - [A ‘superior’ CEC renders Election Commissioners ‘non-functional’, Supreme Court had warned](https://www.thehindu.com/news/national/a-superior-cec-renders-election-commissioners-non-functional-supreme-court-had-warned/article71513102.ece)
@@ -69,9 +72,6 @@
 - [MNS and Shiv Sena (UBT) to hold join protest on October 4 against ECI](https://www.thehindu.com/news/national/maharashtra/mns-and-shiv-sena-ubt-to-hold-join-protest-on-october-4-against-eci/article71514206.ece)
 - [Mehbooba Mufti appeals to 'secular-minded' people to join protest at Delhi's Jantar Mantar on September 29](https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-mufti-appeals-to-secular-minded-people-to-join-protest-at-delhis-jantar-mantar-on-september-29/article71512684.ece)
 - [Nandigram and Rejinagar bypoll: Ballot without the battle](https://www.thehindu.com/news/national/west-bengal/nandigram-and-rejinagar-bypoll-ballot-without-the-battle/article71512622.ece)
-- [‘Justice must find its way to the citizen’: CJI Surya Kant](https://www.thehindu.com/news/national/justice-must-find-its-way-to-the-citizen-cji-surya-kant/article71513548.ece)
-- [Trade unions, farm outfits join chorus to remove CEC Gyanesh Kumar](https://www.thehindu.com/news/national/trade-unions-farm-outfits-join-chorus-to-remove-cec-gyanesh-kumar/article71513513.ece)
-- [4 killed, 5 injured as metal container carrying gelatin sticks, attached to tractor, explodes in Maharashtra’s Yavatmal district: Police](https://www.thehindu.com/news/cities/mumbai/4-killed-5-injured-as-metal-container-carrying-gelatin-sticks-attached-to-tractor-explodes-in-maharashtras-yavatmal-district-police/article71514097.ece)
 
 **Livemint**
 - [The week ahead in numbers: Factory growth, GST collections, vehicle sales](https://www.livemint.com/news/india/iip-data-gst-collections-august-iip-11790362776057.html)
@@ -98,6 +98,8 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [America | ಪೂರ್ವ ಕರಾವಳಿಗೆ ಅಪ್ಪಳಿಸಿದ ‘ನಾರ್-ಈಸ್ಟರ್’ ಚಂಡಮಾರುತ : 400ಕ್ಕೂ ಹೆಚ್ಚು ವಿಮಾನ ರದ್ದು, 1 ಲಕ್ಷಕ್ಕೂ ಅಧಿಕ ಮನೆಗಳಲ್ಲಿ ವಿದ್ಯುತ್ ವ್ಯತ್ಯಯ](https://www.varthabharati.in/international/400-flights-cancelled-100000-without-power-as-nor-easter-hits-us-east-coast-2278286)
+- [ಬೆಳ್ತಂಗಡಿ, ಧರ್ಮಸ್ಥಳ ಪೊಲೀಸ್ ಠಾಣೆ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ದಾಖಲಾಗಿದ್ದ ಅಸ್ವಾಭಾವಿಕ ಸಾವು ಪ್ರಕರಣ](https://www.varthabharati.in/nimma-ankana/unnatural-death-case-registered-in-belthangady-dharmasthala-police-station-limits-2278285)
 - [Mangaluru | ಬಾಲ್ಕನಿಯ ತಡೆಗೋಡೆ ಕುಸಿದು ಬಿದ್ದು ಗಂಭೀರ ಗಾಯಗೊಂಡಿದ್ದ ವಿದ್ಯಾರ್ಥಿ ಮೃತ್ಯು](https://www.varthabharati.in/dakshinakannada/mangaluru-student-shammaz-dies-after-treatment-fails-he-was-seriously-injured-when-balcony-parapet-collapsed-2278284)
 - [ಪರಶುರಾಮ ಪ್ರತಿಮೆ ಮರುಸ್ಥಾಪನೆ ಮನವಿ; ಸರ್ಕಾರದ ಅಂಗಳಕ್ಕೆ ವರ್ಗಾಯಿಸಿದ ಹೈಕೋರ್ಟ್](https://www.varthabharati.in/bangalore-city/high-court-2278280)
 - [ದೇಶದಲ್ಲಿ 13 ಕೋಟಿ ಮತದಾರರನ್ನು ಪಟ್ಟಿಯಿಂದ ತೆಗೆದಿದ್ದಾರೆ : ಪ್ರಕಾಶ್ ರಾಜ್](https://www.varthabharati.in/bangalore-city/prakash-raj-2278279)
@@ -106,8 +108,6 @@
 - [ಅಹಿಂದ ಸಂಘಟನೆಯಲ್ಲಿ ಯಾವುದೇ ಬಿರುಕಿಲ್ಲ, ಎಲ್ಲರೂ ಒಟ್ಟಿಗೆ ಇದ್ದಾರೆ : ಮಧುಬಂಗಾರಪ್ಪ](https://www.varthabharati.in/mysore/madhu-bangarappa-2278276)
 - [ಸಿಡಿಎಸ್ ಪ್ರಶಂಸಾ ಕಾರ್ಡ್‌ಗೆ ಭಾಜನರಾದ ಮೇಜರ್ ಮಣಿವಣ್ಣನ್](https://www.varthabharati.in/bangalore-city/--2278275)
 - [ಎಸ್‌ಐಆರ್ ಪ್ರಕ್ರಿಯೆ ರದ್ದುಪಡಿಸಿ : ಪ್ರಕಾಶ್ ರಾಜ್ ಆಗ್ರಹ](https://www.varthabharati.in/chikka-ballapur/prakash-raj-2278274)
-- [Belagavi | ಗಣೇಶ ವಿಸರ್ಜನೆ ವೇಳೆ ಕೆರೆಯಲ್ಲಿ ಮುಳುಗಿ ಯುವಕ ಮೃತ್ಯು](https://www.varthabharati.in/belgaum/belagavi-2278273)
-- [ಭಯೋತ್ಪಾದನೆ ವಿರುದ್ಧ ರಾಜಿ ಇಲ್ಲ: ವಿಶ್ವಸಂಸ್ಥೆಯಲ್ಲಿ ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಜೈಶಂಕರ್ ಎಚ್ಚರಿಕೆ](https://www.varthabharati.in/international/serial-practitioner-of-terrorism-jaishankars-blunt-message-to-pakistan-at-un-2278272)
 
 **Asianet Kannada**
 - [ಜನಾಕ್ರೋಶ ಬೆನ್ನಲ್ಲೇ SIRನಲ್ಲಿ ಮಹತ್ವದ ಬದಲಾವಣೆ! ನೋಟಿಸ್ ಬಂದಿದ್ಯಾ? ಮುಂದೇನು? ಇಲ್ಲಿದೆ ಡಿಟೇಲ್ಸ್](https://kannada.asianetnews.com/india-news/sir-update-after-meeting-ec-says-officials-will-visit-homes-of-those-sent-notice-rav/articleshow-qedwweu)
@@ -124,6 +124,8 @@
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ಹಾಸನಾಂಬೆ ದರ್ಶನೋತ್ಸವಕ್ಕೆ ದಿನಾಂಕ ಫಿಕ್ಸ್: ಈ ಬಾರಿ ಹೇಗಿರಲಿದೆ ಉತ್ಸವ? ವಿವರಗಳು ಇಲ್ಲಿವೆ](https://tv9kannada.com/karnataka/hassan/hasanamba-temple-darshan-2026-dates-announced-october-29-to-november-11-1243071.html)
+- [‘ಕನ್ನಡದ ಶಿವಮಣಿ’ ಡ್ರಮ್ಮರ್ ದೇವ ವಿಧಿವಶ: ಅನಾರೋಗ್ಯದಿಂದ ನಿಧನ](https://tv9kannada.com/entertainment/sandalwood/famous-kannada-drummer-deva-passes-away-at-64-due-to-health-issue-1243067.html)
 - [ಕರ್ನಾಟಕ ವಾಯು ಗುಣಮಟ್ಟ: ಬೆಂಗಳೂರು ಸೇರಿದಂತೆ ಇಂದು ಹಲವು ನಗರಗಳ ಎಕ್ಯೂಐ ಉತ್ತಮ](https://tv9kannada.com/karnataka/bengaluru/karnataka-and-bengaluru-aqi-today-air-quality-index-remains-in-good-category-1243068.html)
 - [ಕರ್ನಾಟಕ ಹವಾಮಾನ: ಕರಾವಳಿಯಲ್ಲಿ ಮಳೆ ಚುರುಕು, ಒಳನಾಡಿನಲ್ಲೂ ಮಳೆ ಮುನ್ಸೂಚನೆ](https://tv9kannada.com/karnataka/karnataka-weather-forecast-heavy-rain-alert-for-kodagu-mysuru-rain-expected-across-several-districts-1243063.html)
 - [Horoscope Today: ಇಂದಿನಿಂದ ಪಿತೃಪಕ್ಷ ಪ್ರಾರಂಭ; ಈ ರಾಶಿಗಿದೆ ಅಭಿವೃದ್ಧಿ ಹಾಗೂ ಧನಲಾಭದ ಯೋಗ!](https://tv9kannada.com/videos/horoscope-today-27th-september-2026-dr-basavaraj-gurujis-predictions-for-zodiac-signs-1243061.html)
@@ -132,22 +134,21 @@
 - [‘ಜನರ ವೋಟ್ ವಿರುದ್ಧ ಹೋಗಲ್ಲ’; ತಾಂಡವ್ ರಾಮ್ ಉಳಿಸಿ ಸುದೀಪ್ ಮಾತು](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-kiccha-sudeep-clarifies-tandav-ram-elimination-voting-controversy-1243040.html)
 - [ಭಾನುವಾರದ ಎಪಿಸೋಡಿನಲ್ಲಿ ಕಾದಿದೆ ಶಾಕ್: ಎಂಟ್ರಿ ಕೊಡಲಿದ್ದಾರೆ ಮೂವರು ಸ್ಪರ್ಧಿಗಳು](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-three-new-members-joining-bigg-boss-house-1243043.html)
 - [ಮೈಸೂರಿನಲ್ಲಿ ಕೇವಲ 8 ತಿಂಗಳಲ್ಲಿ 36 ಕೋಟಿ ರೂ. ಲೂಟಿ, ಹಿರಿಯ ನಾಗರಿಕರೇ ಟಾರ್ಗೆಟ್](https://tv9kannada.com/videos/mysuru-cyber-fraud-crores-lost-in-8-months-as-scammers-target-citizens-1243035.html)
-- [ಬಿಗ್ ಬಾಸ್​ನಲ್ಲಿ ಶನಿವಾರವೇ ಇಬ್ಬರು ಎಲಿಮಿನೇಟ್; ಪ್ರಮುಖರೇ ಔಟ್](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-vaishnavi-and-avinash-evicted-from-the-house-1243024.html)
-- [ತೀವ್ರ ಸ್ವರೂಪ ಪಡೆದ ಬಿಡದಿ ರೈತರ ಹೋರಾಟ: ಸ್ಥಳಕ್ಕೆ ಧಾವಿಸಿದ ಹೆಚ್​ಡಿ ಕುಮಾರಸ್ವಾಮಿ; ಪೊಲೀಸರ ಸಸ್ಪೆಂಡ್​​ಗೆ ಆಗ್ರಹ ​](https://tv9kannada.com/karnataka/ramanagara/bidadi-farmers-protest-intensifies-hd-kumaraswamy-visits-site-demands-suspension-of-police-personnel-1243001.html)
 
 **Prajavani**
+- [ಭೀಮಸಮುದ್ರ| ಅದಿರು ಲಾರಿ ಸಂಚಾರ ವಿರೋಧಿ ಪ್ರತಿಭಟನೆ; ಪೊಲೀಸರಿಗೆ ದಿಗ್ಬಂಧನ](https://www.prajavani.net/district/chitradurga/bhimasamudra-villagers-block-police-vehicles-protesting-mining-lorries-4290126)
+- [ವಿವಾದದ ಬಳಿಕ ಚುನಾವಣಾ ಆಯೋಗದ ಮೂವರು ಆಯುಕ್ತರ ಮೊದಲ ಸಭೆ: ಆಕ್ರೋಶ ಶಮನಕ್ಕೆ ಯತ್ನ](https://www.prajavani.net/news/india-news/election-commission-voter-list-revision-notice-inquiry-process-change-4290230)
+- [‘ಶೈಕ್ಷಣಿಕ ಸಂಯೋಜಕ’ರ ನೇಮಕಕ್ಕೆ ನಿರಾಸಕ್ತಿ: ಅತಿಥಿಗಳಿಗೆ ಸಿಗದ ‘ಹುದ್ದೆ’](https://www.prajavani.net/news/karnataka-news/karnataka-guest-lecturers-academic-coordinators-recruitment-delay-4290013)
+- [ಒಳನೋಟ| ಇಂದು ವಿಶ್ವ ನದಿಗಳ ದಿನ: ಕಲುಷಿತ ನದಿ; ತೀರದ ಬೇಗುದಿ..](https://www.prajavani.net/explainer/olanota/karnataka-river-pollution-water-quality-report-world-rivers-day-4289446)
+- [ಪ್ರಜಾವಾಣಿ ಸಹಪಾಠಿ: ಸೆಪ್ಟೆಂಬರ್‌ 27ರ ಸ್ಪರ್ಧಾ ಕಣ](https://www.prajavani.net/education-career/education/prajavani-sahapathi-spardha-kana-september-quiz-9-4286790)
 - [ಸಂಗೀತ ಸಾಮಿಪ್ಯ: ಧ್ವನಿ ಒಡೆದರೂ ಧೃತಿಗೆಡದ ನಾದಯೋಗಿ; ಶೆಮ್ಮಂಗುಡಿ ಜೀವನ ಪಯಣ](https://www.prajavani.net/art-culture/art/semmangudi-srinivasa-iyer-carnatic-music-journey-biography-4289003)
 - [‘ಎಸ್‌ಐಆರ್‌ ಅಪಾಯದ ಪ್ರಕ್ರಿಯೆ’ ಪ್ರಕಾಶ್ ರಾಜ್ ಹೇಳಿದರು](https://www.prajavani.net/district/bangaluru-rural/devanahalli-voter-list-revision-prakash-raj-criticizes-4290373)
-- [ನಗರದಲ್ಲಿ ಇಂದು: ಬೆಂಗಳೂರು ನಗರದ ಕಾರ್ಯಕ್ರಮಗಳು- 27 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/district/bengaluru-city/bengaluru-city-events-september-twenty-seven-daily-diary-4290370)
-- [PV Web Exclusive: ಕರಾವಳಿ ಜಿಲ್ಲೆ ಉಡುಪಿಯಲ್ಲೂ ಕರಿಚಿರತೆ ಜಾಡು](https://www.prajavani.net/district/web-exclusive/black-panther-sighting-in-udupi-district-karnataka-4289603)
-- [ನಿರ್ವಿಕಲ್ಪ ಅವರ ಕಥೆ: ಪಾಪುಗುರು](https://www.prajavani.net/art-culture/short-story/retired-police-officer-peer-saab-tragic-story-4289726)
-- [ಮೌನೇಶ ನವಲಹಳ್ಳಿ ಅವರ ಕವಿತೆ: ಹೊಸ ಬಿಸಿಲು](https://www.prajavani.net/art-culture/poetry/mounesh-navalahalli-kannada-poem-hosa-bisilu-4289756)
-- [ವಾರಭವಿಷ್ಯ:27-09-2026ರಿಂದ 03-10-202; ಉದ್ಯೋಗದಲ್ಲಿ ಆದಾಯ ಹೆಚ್ಚಾಗುವ ಸಾಧ್ಯತೆ](https://www.prajavani.net/astro-vastu/horoscope/weekly-horoscope-september-career-income-growth-prediction-4289783)
-- [ಸಾವು ಗೆದ್ದವನಿಗೆ 12 ಚಿನ್ನದ ಪದಕ](https://www.prajavani.net/district/belagavi/vtu-civil-engineering-student-vishwanath-wins-twelve-gold-medals-4289649)
-- [‘ಗವಿಶ್ರೀ ದಸರಾ ಉದ್ಘಾಟನೆ ನಿರಾಕರಿಸಿಲ್ಲ’](https://www.prajavani.net/district/koppal/gavisiddheshwara-swamiji-mysuru-dasara-inauguration-clarification-4290130)
-- [ಭೀಮಸಮುದ್ರ; ಪೊಲೀಸರಿಗೆ ದಿಗ್ಬಂಧನ](https://www.prajavani.net/district/chitradurga/bhimasamudra-villagers-block-police-vehicles-protesting-mining-lorries-4290126)
+- [ಕುವೆಂಪು ‘ವಿಚಾರಕ್ರಾಂತಿ’ಗೂ ಶಿವಾಚಾರ್ಯರ ‘ಸಂಕಲ್ಪ’ಕ್ಕೂ ಸಾಮ್ಯತೆ](https://www.prajavani.net/district/bengaluru-city/kuvempu-vicharakranti-shivakumara-shivacharya-sankalpa-similarities-4290596)
+- [ಬಾರ್ಕೂರಿನ ಶಾಸನಗಳ ಪುನರ್‌ ಅಧ್ಯಯನವಾಗಲಿ: ಡಿ.ವಿ. ಪರಮಶಿವಮೂರ್ತಿ](https://www.prajavani.net/district/udupi/barkur-inscriptions-re-study-conservation-hampi-vc-4290548)
+- [65ನೇ ಪಾರಂಪರಿಕ ಸಂಗೀತೋತ್ಸವಕ್ಕೆ ತೆರೆ ಬಿದ್ದಿತು](https://www.prajavani.net/district/mysuru/mysuru-traditional-music-festival-concludes-4290561)
 
 **eedina**
+- [ರಾಯಚೂರು | ಮುಖ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತರ ವಜಾಕ್ಕೆ ಆಗ್ರಹ: ಅ.15ರಿಂದ ಜಂತರ ಮಂಥರ್‌ನಲ್ಲಿ ಪ್ರತಿಭಟನೆ](https://eedina.com/?p=766790)
 - [ರಾಯಚೂರು | ಪೊತ್ನಾಳ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಮೂಲಸೌಕರ್ಯ ಕೊರತೆ: ಓದಲು ಬರುವ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಪರದಾಟ](https://eedina.com/?p=766715)
 - [Ground Report | ಮುಸ್ಲಿಮರ ಮತ ಹಕ್ಕಿಗೆ ಕನ್ನ: ಬಗೆದಷ್ಟು ಬಯಲಾಗ್ತಿದೆ ‘ಫಾರ್ಮ್-7’ರ ಸಂಚು?](https://eedina.com/?p=766607)
 - [ಕಲಬುರಗಿ | ಪ್ರೀತಿಸಿದ ಯುವತಿಯನ್ನೇ ಮದುವೆಯಾಗಲು ಪಟ್ಟು: ಟವರ್ ಏರಿದ ಯುವಕ!](https://eedina.com/?p=766771)
@@ -157,10 +158,9 @@
 - [ಬೆಳಗಾವಿ | ವಿಟಿಯುನಲ್ಲಿ ಏವಿಯೇಷನ್, ರೈಲ್ವೆ ಎಂಜಿನಿಯರಿಂಗ್ ಕೋರ್ಸ್: ಸಚಿವ ಬಸವರಾಜ ರಾಯರೆಡ್ಡಿ](https://eedina.com/?p=766746)
 - [ಗದಗ | ಶೈಕ್ಷಣಿಕ ಸಂಯೋಜಕರನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳದಿದ್ದರೆ ಹೋರಾಟ: ಹನಮಂತ ಕಲ್ಮನಿ ಎಚ್ಚರಿಕೆ](https://eedina.com/?p=766743)
 - [ಕಲಬುರಗಿ | ಸಿಇಸಿ ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ವಜಾಕ್ಕೆ ಆಗ್ರಹ: ಎಸ್‌ಐಆರ್ ಸ್ಥಗಿತಕ್ಕೆ ಸಿಪಿಐ ಒತ್ತಾಯ](https://eedina.com/?p=766739)
-- [ಧಾರವಾಡ | ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಎಐ ಬಳಕೆ ಇತಿ-ಮಿತಿ ಇರಲಿ: ವಿಶ್ರಾಂತ ಕುಲಪತಿ ಪ್ರೊ. ಬಿ.ಡಿ.ಕುಂಬಾರ](https://eedina.com/?p=766733)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Jaishankar (5.2)
+- Jaishankar (6.5)
 - Iran (5.2)
 - Trump (5.2)
 - Emkay Global Financial (5.0)
@@ -171,24 +171,24 @@
 - India's (2.9)
 - Hormuz (2.6)
 - India (2.6)
+- BRICS (2.6)
 - At UN (2.0)
 - Election Commission (2.0)
 - Buy Bajaj Finance (2.0)
-- Justice (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [VIDEO| ખેડબ્રહ્મામાં ભાદરવી પૂનમે ભક્તિનો મહાકુંભ: 10 લાખથી વધુ ભક્તોએ મા અંબિકાના દર્શન કર્યા, 5,550થી વધુ ધજા ચઢાવાઈ](https://www.gujaratsamachar.com/news/sabarkantha/khedbrahma-ambika-temple-bhadarvi-poonam-fair-devotees-darshan-34059827825)
-- [Fronx-Baleno का बढ़ेगा माइलेज, कंपनी कर रही नई टेक्नोलॉजी पर काम](https://www.aajtak.in/visualstories/auto/suzuki-confirms-range-extender-hybrid-plug-in-hybrid-small-cars-auam-286086-26-09-2026)
-- [बेल्जियम से ओडिशा, फिर झारखंड-बिहार होते हुए यूपी में एंट्री... क्या है 308 पहियों वाले ट्रक पर लदी ये भारी-भरकम मशीन?](https://www.aajtak.in/uttar-pradesh/story/belgium-to-lakhimpur-what-is-this-massive-machine-loaded-onto-a-308-wheel-truck-lclam-strc-2653937-2026-09-26)
-- ['बिहार में चरमराई कानून व्यवस्था', महिला सुरक्षा पर BJP सांसद ने अपनी ही सरकार को घेरा](https://www.abplive.com/states/bihar/bjp-mp-shambhu-sharan-patel-attacks-on-samrat-choudhary-government-over-womens-safety-bihar-police-ann-3194164)
-- [अमेरिका-चीन ने पका ली ख‍िचड़ी, 30 अरब डॉलर की टैरिफ कटौती पर हो गई डील, भारत के लिए मतलब](https://navbharattimes.indiatimes.com/business/business-news/us-china-agree-to-30-billion-usd-reciprocal-tariff-cut-says-report-impact-on-india/articleshow/134505244.cms)
-- [In 2018, Australia’s RangerBot identified coral-eating crown-of-thorns starfish with 99.4% accuracy and was designed to target them with bile-salt injections](https://timesofindia.indiatimes.com/science/in-2018-australias-rangerbot-identified-coral-eating-crown-of-thorns-starfish-with-99-4-accuracy-and-was-built-to-kill-each-one-with-a-single-bile-salt-injection/articleshow/134482993.cms)
-- [‘വിദർശ രാജ്യത്തിനാകെ അഭിമാനം’; വീട് സന്ദർശിച്ച് പ്രിയങ്ക ഗാന്ധി](https://www.mathrubhumi.com/sports/news/priyanka-gandhi-visits-asian-games-medalist-vidarsha-vinod-i3zjvbu3)
-- [அன்பை மட்டுமே விதைப்போம் : சூர்யா பேச்சு](https://cinema.dinamalar.com/news/kollywood/lets-sow-only-love-surya-talks/141126)
-- [‘എസ്ഐആർ ഉൾപ്പെടെയുള്ള പ്രധാന തീരുമാനങ്ങൾ ഏകകണ്ഠം’; വിവാദങ്ങൾക്കിടെ യോഗം ചേർന്ന് തിരഞ്ഞെടുപ്പ് കമ്മീഷൻ](https://www.southlive.in/key-decisions-including-on-the-sir-were-unanimous-election-commission-meets-amidst-controversies/)
-- [Asian Games: Prachi Choudhary wins 400m bronze as India’s medal tally swells to 30](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-prachi-choudhary-wins-400m-bronze-as-indias-medal-tally-swells-to-30/articleshow/134505254.cms)
+- [నా లైఫ్‌లో బేర్ బాడీతో చేసినవి మూడే సినిమాలు.. శ్రీకాంత్ చంపేశాడు: మోహన్ బాబు](https://www.chitrajyothy.com/2026/tollywood/mohan-babu-the-paradise-bare-body-scenes-srikanth-odela-rcb-75740.html)
+- [திமுகவுக்கு வழக்கு... அதிமுகவுக்கு பெட்டி.... தவெக குறித்து உதயநிதி விமர்சனம்](https://www.dinamalar.com/news/tamil-nadu-news/case-for-dmk-box-for-aiadmk-udhayanidhi-criticises-dwega/4333413)
+- [અમદાવાદમાં રોડના ખાડા અને બ્રિજથી ટ્રાફિક જામ: 35 રસ્તા રિપેર કરવા, S.G. હાઈવે બ્રિજ 31 ઓક્ટોબર સુધીમાં પૂર્ણ કરવા સૂચના](https://www.gujaratsamachar.com/news/ahmedabad/traffic-potholes-road-repairing-work-in-ahmedabad-many-area-police-commissioner-order-repair-potholes-12070874843)
+- [विदेशी मीडिया में भारत के चुनाव आयोग की चर्चा किस रूप में हो रही है?](https://www.bbc.com/hindi/articles/cmd944jnj4evo)
+- [બોલિવુડ એક્ટર મુસ્તાક ખાનનું લિવર કેન્સરથી મોત, જાણો શું છે આ બીમારી](https://www.etvbharat.com/gu/health/know-about-liver-cancer-bollywood-actor-mushtaq-khan-died-gjs26092605361)
+- [HPV Vaccine: One Shot or Two? What Current Guidelines Say](https://www.deccanchronicle.com/lifestyle/hpv-vaccine-one-shot-or-two-what-current-guidelines-say-1990800)
+- [Ganesh Visarjan: 33 तास 33 मिनिटे या 'विक्रमी' वेळेनंतर पुणे गणेश विसर्जन मिरवणूक संपली; मंडळांवर कारवाई होणार? पोलिस आयुक्तांचं मोठं विधान](https://sarkarnama.esakal.com/pune/pune-ganesh-visarjan-procession-ends-after-33-hours-33-minutes-police-action-on-mandals-cp-amitesh-kumar-big-statement-dk88)
+- [Supreme Court: SIR-এ নাম বাদ যাওয়ায় ৩১ আসনে তৃণমূলের হারের দাবি ভুল, সুপ্রিম কোর্টে জানাল কমিশন](https://bengali.news18.com/news/national/sir-adjudication-deletions-led-to-tmc-loss-in-31-seats-in-bengal-this-is-wrong-to-say-said-eci-on-supereme-court-ank-2908417.html)
+- [எஸ்ஐஆர் குறித்து ஒருமனதாக எடுக்கப்பட்ட முடிவுகள்: தேர்தல் ஆணையம் விவரிப்பு](https://www.hindutamil.in/news/india/all-decisions-including-the-sir-were-taken-unanimously-election-commission)
+- [બેંક હડતાળ પહેલાં રવિવારે કઈ બેંકો ખુલ્લી રહેશે અને કઈ બંધ? જાણો તમામ મહત્ત્વની વિગતો](https://gujarati.abplive.com/news/india/bank-strike-sunday-open-public-sector-banks-27-september-ufbu-strike-update-992112)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
