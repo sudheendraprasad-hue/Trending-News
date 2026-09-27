@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-27 08:01:57
+# India Trending Report — 2026-09-27 08:35:38
 
 ## Google Trends (India) — top trending searches
-1. [sa vs aus](https://trends.google.com/trending/rss?geo=IN)
-2. [west indies vs zimbabwe](https://trends.google.com/trending/rss?geo=IN)
-3. [pay commission](https://trends.google.com/trending/rss?geo=IN)
-4. [ఆంధ్ర ప్రదేశ్](https://trends.google.com/trending/rss?geo=IN)
-5. [squadron leader](https://trends.google.com/trending/rss?geo=IN)
-6. [prasidh krishna](https://trends.google.com/trending/rss?geo=IN)
-7. [kuldeep yadav](https://trends.google.com/trending/rss?geo=IN)
-8. [कश्मीर](https://trends.google.com/trending/rss?geo=IN)
-9. [వాతావరణ సూచన](https://trends.google.com/trending/rss?geo=IN)
-10. [kavach](https://trends.google.com/trending/rss?geo=IN)
+1. [jiohotstar](https://trends.google.com/trending/rss?geo=IN)
+2. [temba bavuma](https://trends.google.com/trending/rss?geo=IN)
+3. [hotstar](https://trends.google.com/trending/rss?geo=IN)
+4. [marco jansen](https://trends.google.com/trending/rss?geo=IN)
+5. [whatsapp android app navigation redesign](https://trends.google.com/trending/rss?geo=IN)
+6. [west indies vs india](https://trends.google.com/trending/rss?geo=IN)
+7. [today match](https://trends.google.com/trending/rss?geo=IN)
+8. [दक्षिण अफ्रीका बनाम ऑस्ट्रेलिया](https://trends.google.com/trending/rss?geo=IN)
+9. [tristan stubbs](https://trends.google.com/trending/rss?geo=IN)
+10. [ಚಿನ್ನ](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [New Form 6 enrolments where no SIR is under way won't need mapping](https://timesofindia.indiatimes.com/india/new-form-6-enrolments-where-no-sir-is-under-way-wont-need-mapping/articleshow/134510074.cms)
 - ['Bomb' alert: Homes evacuated near UK military base as army squad called in](https://timesofindia.indiatimes.com/world/uk/bomb-alert-homes-evacuated-near-uk-military-base-as-army-squad-called-in/articleshow/134516658.cms)
+- [111 MPs, MLAs changed parties after winning elections since 2022: ADR](https://timesofindia.indiatimes.com/india/npf-gets-most-bjp-second-as-111-mps-mlas-switch-parties-since-2022-adr/articleshow/134517020.cms)
+- ['Tried to drag me out': TMC MLA Kunal Ghosh attacked, car smashed - video](https://timesofindia.indiatimes.com/india/tried-to-drag-me-out-tmc-mla-kunal-ghoshs-car-smashed-says-guards-drew-guns-to-save-him-video/articleshow/134516703.cms)
+- [Google turns 28: 10 things the company wrote down when it was young and still follows](https://timesofindia.indiatimes.com/technology/tech-news/google-turns-28-10-things-that-google-says-it-first-wrote-when-it-was-just-a-few-years-old-and-you-can-still-hold-the-company-to/articleshow/134515877.cms)
+- [Vijay Kumar Sharma becomes government teacher at 59 after clearing TGT, PGT](https://timesofindia.indiatimes.com/education/news/he-cleared-tgt-exam-6-times-and-pgt-4-times-at-59-vijay-kumar-sharma-finally-became-a-government-teacher/articleshow/134514427.cms)
 - [Amit Shah flags off India's first LNG train, launches Rs 1,542 crore railway projects](https://timesofindia.indiatimes.com/india/amit-shah-flags-off-indias-first-lng-train-in-gujarat-launches-rs-1542-crore-railway-projects/articleshow/134516636.cms)
 - [Mojtaba Khamenei ‘pulled from rubble’ after US-Israeli strikes hit Tehran hospital](https://timesofindia.indiatimes.com/world/middle-east/mojtaba-khamenei-pulled-from-rubble-after-us-israeli-strikes-hit-tehran-hospital-report/articleshow/134516364.cms)
-- [Google turns 28: 10 things the company wrote down when it was young and still follows](https://timesofindia.indiatimes.com/technology/tech-news/google-turns-28-10-things-that-google-says-it-first-wrote-when-it-was-just-a-few-years-old-and-you-can-still-hold-the-company-to/articleshow/134515877.cms)
-- [Vijay government exempts Tamil Nadu Public (Law & Order) department from RTI](https://timesofindia.indiatimes.com/india/vijay-government-exempts-tamil-nadu-public-law-order-department-from-rti-what-it-means/articleshow/134516445.cms)
-- [Vijay Kumar Sharma becomes government teacher at 59 after clearing TGT, PGT](https://timesofindia.indiatimes.com/education/news/he-cleared-tgt-exam-6-times-and-pgt-4-times-at-59-vijay-kumar-sharma-finally-became-a-government-teacher/articleshow/134514427.cms)
-- ['Himanta Sarma is scared': CJP’s Ashutosh Ranka, his team detained in Guwahati](https://timesofindia.indiatimes.com/city/guwahati/cjps-ashutosh-ranka-his-team-detained-in-guwahati-himanta-sarma-is-scared-well-show-school-reality/articleshow/134515317.cms)
-- [‘Ma, they punched me’: Student’s last call to family; how horror unfolded at homestay](https://timesofindia.indiatimes.com/city/guwahati/ma-they-punched-me-in-the-chest-students-last-call-before-death-at-guwahati-homestay-accused-claims-she-hanged-herself/articleshow/134514085.cms)
-- [Asian Games: What Indian medallists can earn in cash rewards, jobs & other incentives](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-what-indian-medallists-can-earn-in-cash-rewards-government-jobs-and-state-incentives/articleshow/134516489.cms)
+- [Asian Games: Abhay Singh wins silver after spirited fight in men's squash final](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-abhay-singh-wins-silver-after-spirited-fight-in-mens-squash-final/articleshow/134516833.cms)
+- [Ed Sheeran concerts canceled at Gillette Stadium amid nor’easter warnings](https://timesofindia.indiatimes.com/world/us/two-sold-out-ed-sheeran-concerts-at-massachusetts-gillette-stadium-were-canceled-hours-before-the-weekend-shows-the-venue-cited-severe-noreaster-warnings-with-fans-promised-refunds-as-the-storm-threatened-new-england/articleshow/134515806.cms)
 
 **NDTV**
 - [NDTV Defence Summit 2026 LIVE Updates: Experts On Building Bharat's Arsenal of Innovation](https://www.ndtv.com/india-news/ndtv-defence-summit-2026-live-updates-key-announcements-defence-strategy-and-military-technology-rajnath-singh-keynote-address-12103640#publisher=newsstand)
@@ -52,14 +52,14 @@
 **Vijay Karnataka**
 - [ಮುಂದಿನ ವಾರ ಬ್ಯಾಂಕ್‌ಗಳು 5 ದಿನ ರಜೆ, 2 ದಿನ ಮಾತ್ರ ಓಪನ್! ಮುಷ್ಕರ ಯಾವೆಲ್ಲಾ ಬ್ಯಾಂಕ್‌ಗೆ ಅನ್ವಯ? ಪರ್ಯಾಯ ಮಾರ್ಗವೇನು?](https://vijaykarnataka.com/business/news/banks-to-be-closed-for-5-days-next-week-open-for-only-2-days-september-28-to-october-4-what-are-alternatives/articleshow/134516163.cms)
 - [ಮೈಸೂರು ದಸರಾ ಮಾದರಿಯಲ್ಲಿ ಅದ್ದೂರಿಯಾಗಿ ಹಾಸನಾಂಬೆ ಉತ್ಸವ: ಅ.29ರಿಂದ ನ.11ರವರೆಗೆ ವೈಭವದ ದರ್ಶನೋತ್ಸವ!](https://vijaykarnataka.com/news/hasana/dasara-model-grand-hassanambha-festival-celebration-from-oct-29-to-nov-11-in-hassan/articleshow/134515598.cms)
-- [ಹಿರಿಯರ ಸ್ಮರಣೆಗೆಂದೇ ಮೀಸಲು ಪಿತೃಪಕ್ಷ! ಇಂದಿನಿಂದ(ಸೆ.27) ಆರಂಭ, ಇಲ್ಲಿದೆ ಆಚರಣೆ ಮಹತ್ವ](https://vijaykarnataka.com/news/karnataka/pitru-paksha-is-dedicated-to-remembering-ancestors-it-begins-today-sept-27-here-is-the-significance-of-the-observance/articleshow/134514903.cms)
+- [ಭಾರತದಲ್ಲಿ ಗೋಲ್ಡ್‌ ಲೋನ್‌ಗೆ ಭಾರೀ ಡಿಮ್ಯಾಂಡ್‌, 2 ವರ್ಷದಲ್ಲಿ 4 ಪಟ್ಟು ಹೆಚ್ಚು, ಕಾರಣವೇನು?](https://vijaykarnataka.com/news/india/huge-demand-for-gold-loans-in-india-a-fourfold-increase-in-two-years-what-is-thereason/videoshow/134517099.cms)
 - [ಚಹಾ ಮಾಡಿದ ನಂತರ ಶುಂಠಿ ಬಿಸಾಡಬೇಡಿ; ಉಳಿದ ಶುಂಠಿಯಿಂದಲೇ ರುಚಿಕರ ಖಾರ ಚಟ್ನಿ ತಯಾರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/used-ginger-after-making-tea-chutney-recipe/articleshow/134508419.cms)
-- [ಬೆಂಗಳೂರಿನ ಸತ್ಯಾತ್ಮ ತೀರ್ಥ ಸ್ವಾಮೀಜಿ ಕಾರು ಅಪಘಾತ! ಹಾವೇರಿ ಹೆದ್ದಾರಿಯಲ್ಲಿ ಘಟನೆ; ಹುಬ್ಬಳ್ಳಿ ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲು](https://vijaykarnataka.com/news/haveri/bengaluru-satyatma-tirtha-swamiji-car-accident-incident-occurred-on-haveri-nh4-highway-admitted-to-hubballi-hospital/articleshow/134515742.cms)
+- [ಹಿರಿಯರ ಸ್ಮರಣೆಗೆಂದೇ ಮೀಸಲು ಪಿತೃಪಕ್ಷ! ಇಂದಿನಿಂದ(ಸೆ.27) ಆರಂಭ, ಇಲ್ಲಿದೆ ಆಚರಣೆ ಮಹತ್ವ](https://vijaykarnataka.com/news/karnataka/pitru-paksha-is-dedicated-to-remembering-ancestors-it-begins-today-sept-27-here-is-the-significance-of-the-observance/articleshow/134514903.cms)
 - [BBK 13: ಇವರೇ ನೋಡಿ ವೈಲ್ಡ್‌ ಕಾರ್ಡ್ ಎಂಟ್ರಿ ಪಡೆದ ಸ್ಪರ್ಧಿಗಳು?](https://vijaykarnataka.com/tv/bigg-boss-kannada/here-are-the-contestants-who-have-made-a-wild-card-entry-in-the-bbk-13-show-3rd-week/articleshow/134516496.cms)
 - [ಅಕ್ಷಯ್ ಕುಮಾರ್ ಪತ್ನಿ ಟ್ವಿಂಕಲ್ ಖನ್ನಾ ಹೇಳಿದ ಕಿಚನ್ ಟಿಪ್ಸ್; ಜಿರಳೆ ಕಾಟಕ್ಕೆ ಈ ಸರಳ ಮನೆಮದ್ದು](https://vijaykarnataka.com/lifestyle/home-decor/twinkle-khanna-kitchen-remedy-to-get-rid-of-cockroaches/articleshow/134499248.cms)
 - [2026 ಪಿತೃ ಪಕ್ಷ: ಮನೆಯಲ್ಲಿ ಶ್ರಾದ್ಧ ಮಾಡುವ ಸರಳ ವಿಧಾನ.!](https://vijaykarnataka.com/religion/pooja-vidhana/pitru-paksha-2026-step-by-step-procedure-to-perform-shraddha/articleshow/134503981.cms)
 - [ಪಿತೃ ಪಕ್ಷ 2026: ಪಿತೃಗಳಿಗೆ ಪಾಯಸ-ಪೂರಿ ಅರ್ಪಿಸುವ ಸಂಪ್ರದಾಯ, ಮಾಡುವ ವಿಧಾನ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/home-decor/pitru-paksha-2026-kheer-puri-first-day-ancestor-offering/articleshow/134501695.cms)
-- [ಗಡುವುಗಳ ಹೊಳೆಯಲಿ ತೇಲುತ್ತಿದೆ ಬಯಲುಸೀಮೆ ಬಾಯಾರಿಕೆ: ಕೋಲಾರ, ಚಿಕ್ಕಬಳ್ಳಾಪುರಕ್ಕೆ ಎತ್ತಿನಹೊಳೆ ಯೋಜನೆಯಿಂದ 2027ರ ಅಂತ್ಯಕ್ಕೆ ನೀರು ಹರಿಯುತ್ತಾ?](https://vijaykarnataka.com/news/chikkaballapura/yettinahole-project-still-only-in-speech-is-it-surely-complets-in-2027-end-what-is-the-progress-work-here-are-the-details-explained/articleshow/134513611.cms)
+- [ಬೆಂಗಳೂರಿನ ಸತ್ಯಾತ್ಮ ತೀರ್ಥ ಸ್ವಾಮೀಜಿ ಕಾರು ಅಪಘಾತ! ಹಾವೇರಿ ಹೆದ್ದಾರಿಯಲ್ಲಿ ಘಟನೆ; ಹುಬ್ಬಳ್ಳಿ ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲು](https://vijaykarnataka.com/news/haveri/bengaluru-satyatma-tirtha-swamiji-car-accident-incident-occurred-on-haveri-nh4-highway-admitted-to-hubballi-hospital/articleshow/134515742.cms)
 
 **The Hindu**
 - [Palle Panduga 3.0 set to be launched to transform rural roads](https://www.thehindu.com/news/national/andhra-pradesh/palle-panduga-30-set-to-be-launched-to-transform-rural-roads/article71515376.ece)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [Chamarajanagar | ವ್ಯಕ್ತಿಯನ್ನು ಬಲಿ ತೆಗೆದುಕೊಂಡಿದ್ದ ಹುಲಿ ಸರೆ](https://www.varthabharati.in/chamarajanagar/chamarajanagar-2278331)
 - [Fact Check | ಜಂತರ್ ಮಂತರ್ ನಲ್ಲಿ ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ವಿರುದ್ಧ ಬೃಹತ್ ಪ್ರತಿಭಟನೆ ನಡೆಯುತ್ತಿಲ್ಲ; ಸ್ಪಷ್ಟನೆ ನೀಡಿದ ದಿಲ್ಲಿ ಪೊಲೀಸರು](https://www.varthabharati.in/National/delhi-police-fact-checks-viral-jantar-mantar-protest-video-amid-sir-row-2278330)
 - [ದಸರಾ ಉದ್ಘಾಟನೆ ಆಹ್ವಾನ ತಿರಸ್ಕರಿಸಿದ ಗವಿಸಿದ್ದೇಶ್ವರ ಶ್ರೀಗಳು ಎಂದು ಸುಳ್ಳು ಸುದ್ದಿ ಹರಡಿದ ಆರೋಪ: ಪ್ರಕರಣ ದಾಖಲು](https://www.varthabharati.in/koppala/koppala-2278327)
 - [ಮಾದಾಪುರ ಸರಕಾರಿ ಶಾಲೆಯಲ್ಲಿ ಮೂಲಸೌಕರ್ಯ ಕೊರತೆ: ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸಂಕಷ್ಟ](https://www.varthabharati.in/nimma-ankana/lack-of-infrastructure-at-madapura-government-school-students-face-hardship-2278295)
@@ -107,23 +108,25 @@
 - [ಕೊಲ್ಲೂರು ಶ್ರೀ ಮೂಕಾಂಬಿಕಾ ದೇವಸ್ಥಾನಕ್ಕೆ ಸಂಸದ ಬಿ.ವೈ.ರಾಘವೇಂದ್ರ, ಬಿಜೆಪಿ ರಾಜ್ಯಾಧ್ಯಕ್ಷ ವಿಜಯೇಂದ್ರ ಭೇಟಿ](https://www.varthabharati.in/udupi/mp-by-raghavendra-bjp-state-president-vijayendra-visit-kollur-sri-mookambika-temple-2278322)
 - [ಗುವಾಹಟಿಯಲ್ಲಿ ಸಿಜೆಪಿ ಸಹ-ಸಂಯೋಜಕ ಅಶುತೋಷ್ ರಂಕಾ, ತಂಡ ಪೊಲೀಸ್ ವಶಕ್ಕೆ](https://www.varthabharati.in/national/co-founder-of-cjp-ashutosh-ranka-arrested-by-police-in-guwahati-2278320)
 - [Dharwad | ಕಾರು ಅಪಘಾತ; ಉತ್ತರಾಧಿಮಠ ಶ್ರೀಗಳಿಗೆ ಸಣ್ಣಪುಟ್ಟ ಗಾಯ](https://www.varthabharati.in/dharwad/dharwad-car-accident-uttaradi-math-seer-sustains-minor-injuries-2278318)
-- [ಸಂಘಟನ್ ಸೃಜನ್ ಅಭಿಯಾನ-2 ಚಿಕ್ಕಮಗಳೂರು ಜಿಲ್ಲಾ ವೀಕ್ಷಕರಾಗಿ ಲುಕ್ಮಾನ್ ಬಂಟ್ವಾಳ ನೇಮಕ](https://www.varthabharati.in/DakshinaKannada/lukman-bantwal-appointed-chikkamagaluru-district-observer-for-sanghatan-srijan-abhiyan-2-2278311)
 
 **Asianet Kannada**
+- [2019ರ ಸೆಮಿಫೈನಲ್‌ನಲ್ಲಿ ಅಂದು ನಡೆದಿದ್ದೇನು? ವಿಶ್ವಕಪ್ ಸೋಲಿನ ಅಸಲಿ ನೋವು ಬಿಚ್ಚಿಟ್ಟ 'ಕಿಂಗ್ ಕೊಹ್ಲಿ'!](https://kannada.asianetnews.com/cricket-sports/virat-kohli-breaks-silence-on-2019-world-cup-heartbreak-says-it-was-a-horrible-hangover/articleshow-bzuflf8)
+- [Bigg Boss 13: ಕಿಚ್ಚನ ಚಪ್ಪಾಳೆ ಈ ಬಾರಿ ಫ್ರೀಯಲ್ಲ, ಜೊತೆಗೆ ಸಿಗತ್ತೆ ಒಂದು ಲಕ್ಷ ರೂ! ಮೊದಲು ಪಡೆದಾಕೆ ಇವರೇ](https://kannada.asianetnews.com/gallery/tv-talk/asiya-firdose-of-bigg-boss-13-kichchana-chappale-with-one-lakh-rupees-suc-r8mfv1f)
+- [ಬೆಳಗಿನ ತಿಂಡಿಗೆ ಮಾಡಿ ನೋಡಿ ಸಾಫ್ಟ್‌ ಹಾಗೂ ಸ್ಪಂಜಿನಂತಿರುವ ಬನ್ ದೋಸೆ; ಮಾಡೋದು ತುಂಬಾ ಸುಲಭ!](https://kannada.asianetnews.com/food/bun-dosa-breakfast-recipe-suh/articleshow-p97az8l)
+- [ಟ್ರೆಂಡ್ ಆಯ್ತು ಸಾಯಿ ಪಲ್ಲವಿ ಲುಕ್.. ಕೊನೆಗೂ ಉದ್ದ ಕೂದಲಿಗೆ ಕತ್ತರಿ ಹಾಕಿದ್ರಾ? ಕೈಯಲ್ಲಿರೋ ಟ್ಯಾಟೂ ಯಾರದ್ದು?](https://kannada.asianetnews.com/gallery/entertainment/sai-pallavi-stuns-in-new-short-haircut-and-hidden-tattoo-at-mumbai-airport-g54hc0r)
 - [Cooking Hacks: ಐದು ತಪ್ಪುಗಳನ್ನು ಮಾಡಿದ್ರೆ ಅಡುಗೆ ಎಂದಿಗೂ ಪರ್ಫೆಕ್ಟ್ ಆಗಲ್ಲ](https://kannada.asianetnews.com/webstories/kitchen/cooking-hacks-in-kannada-if-you-make-these-five-mistakes-your-cooking-will-never-be-perfect-mrq-uamfl0b)
 - [ಎಲ್ಲರೂ ಡಾಲರ್ ನೋಡ್ತಾರೆ, ಆದ್ರೆ ತ್ಯಾಗಗಳನ್ನಲ್ಲ...; ಕೆನಡಾದಲ್ಲಿರುವ ಭಾರತೀಯ ಯುವತಿಯ ವಿಡಿಯೋ ವೈರಲ್](https://kannada.asianetnews.com/viral/indian-woman-in-canada-shares-hidden-struggles-of-living-abroad-in-viral-video-sat/articleshow-glefg1g)
 - [ರೆಸಿಪಿ ಬದಲಾಗದಿದ್ರೂ ವಿಮಾನದಲ್ಲಿ ತಿನ್ನುವಾಗ ಆಹಾರದ ರುಚಿ ಏಕೆ ಬೇರೆ? ಇಲ್ಲಿದೆ ಇಂಟರೆಸ್ಟಿಂಗ್ ಫ್ಯಾಕ್ಟ್](https://kannada.asianetnews.com/gallery/life/why-does-food-taste-different-on-an-airplane-what-happens-to-your-taste-buds-at-35000-feet-rav-etc74io)
 - [Chamarajanagar: ಕರ್ನಾಟಕಕ್ಕೆ ಆಗಮಿಸುತ್ತಿದ್ದ ತಮಿಳುನಾಡಿನ ಹಸುಗಳಿಗೆ ನಿರ್ಬಂಧ, ಬರಪರಿಸ್ಥಿತಿಯಿಂದ ಎಚ್ಚೆತ್ತ ಅರಣ್ಯ ಇಲಾಖೆ!](https://kannada.asianetnews.com/karnataka-districts/restrictions-imposed-on-cattle-from-tamil-nadu-entering-karnataka-forest-department-takes-action-drought-conditions-sns/articleshow-e1n2tby)
 - [ಈ 7 ಲಕ್ಷಣಗಳು ಕಂಡುಬಂದರೆ ಕಿಡ್ನಿ ಸ್ಟೋನ್ ಸಮಸ್ಯೆ ಇರಬಹುದು ಎಚ್ಚರ.. ನಿರ್ಲಕ್ಷ್ಯ ಮಾಡ್ಬೇಡಿ!](https://kannada.asianetnews.com/gallery/health-life/kidney-stone-early-signs-and-symptoms-to-watch-out-for-to-know-here-w1f890g)
 - [ಕಾಲೇಜು ಹಾಸ್ಟೆಲ್‌ಗೆ ಹೊರಟಿದ್ದ 22ರ ವಿದ್ಯಾರ್ಥಿನಿ ಹೋಮ್‌ಸ್ಟೇನಲ್ಲಿ ಅನುಮಾನಾಸ್ಪದ ಸಾವು!](https://kannada.asianetnews.com/india-news/guwahati-university-student-nimisha-thakuria-tragic-passing-homestay-case-sat/articleshow-atl5pop)
-- [ಟೀ ಟೈಂಗೆ ಮಾಡಿ ನೋಡಿ ರುಚಿಕರವಾದ ಅವಲಕ್ಕಿ ಚಾಟ್ಸ್; ಒಮ್ಮೆ ಮಾಡಿದ್ರೆ ಮತ್ತೆ ಮತ್ತೆ ತಿನ್ನಬೇಕು ಅನಿಸುತ್ತೆ!](https://kannada.asianetnews.com/food/avalakki-chats-recipe-suh/articleshow-gnpxq4w)
-- [ಸ್ವಿಗ್ಗಿ ಡೆಲಿವರಿ ಬಾಯ್‌ ಜೊತೆ 5 ಸ್ಟಾರ್ ಹೋಟೆಲ್‌ಗೆ ಹೊರಟ ಕಂಟೆಂಟ್ ಕ್ರಿಯೇಟರ್! ಮುಂದೆ ನಡೆದಿದ್ದೇನು ಗೊತ್ತಾ?](https://kannada.asianetnews.com/india-news/content-creator-takes-swiggy-delivery-partner-to-a-5-star-hotel-internet-loves-the-gesture/articleshow-u0cu2wm)
-- [ಪ್ರಾಣ ಕಳೆದುಕೊಳ್ಳಲು ಅಸ್ಸಾಂನ ಪುಟ್ಟ ಗ್ರಾಮಕ್ಕೆ ಬರೋ ಪಕ್ಷಿಗಳು; ಗ್ರಾಮಸ್ಥರಲ್ಲಿ ಭಯ](https://kannada.asianetnews.com/science/strange-phenomenon-of-birds-dying-mysteriously-between-september-and-november-in-assam-jatinga-village-mrq/articleshow-hcqvr1r)
-- [ಕಾಟನ್ ಕ್ಯಾಂಡಿಯನ್ನು ಮೊದಲು ತಯಾರಿಸಿದ್ದು ಒಬ್ಬ ಡೆಂಟಿಸ್ಟ್! 120 ವರ್ಷಗಳ ಹಳೆಯ ಕಥೆ ಇದು](https://kannada.asianetnews.com/gallery/food/cotton-candy-history-who-invented-the-sweet-and-how-did-it-get-its-name-3f0oq55)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ಟಾಸ್ ಗೆದ್ದ ಭಾರತ: ಟೀಮ್ ಇಂಡಿಯಾ ಪರ ಆಲ್​ರೌಂಡರ್ ಪಾದಾರ್ಪಣೆ](https://tv9kannada.com/sports/cricket-news/india-vs-west-indies-1st-odi-toss-update-and-playing-xi-1243193.html)
+- [ಮಳೆ ಅಬ್ಬರ, ಭೂಕುಸಿತ ಬದರಿನಾಥ ರಾಷ್ಟ್ರೀಯ ಹೆದ್ದಾರಿ ಬಂದ್, ರಿಷಿಕೇಶ–ಬದರಿನಾಥ ರಸ್ತೆ ಸಂಚಾರ ಸ್ಥಗಿತ](https://tv9kannada.com/videos/heavy-rain-triggers-fresh-landslide-badrinath-highway-shut-near-sirobagarh-1243200.html)
+- [ಎಸ್‌ಬಿಐ ನೇಮಕಾತಿ: ವಾರ್ಷಿಕ 97 ಲಕ್ಷ ರೂ.ವರೆಗೆ ವೇತನ; 207 ಹುದ್ದೆಗಳ ಭರ್ತಿಗೆ ಅರ್ಜಿ ಆಹ್ವಾನ](https://tv9kannada.com/national/sbi-specialist-officer-recruitment-207-wealth-management-jobs-apply-by-oct-5-1243192.html)
 - [ಕರ್ನಾಟಕದ ಬರ ಪೀಡಿತ ಪ್ರದೇಶಗಳಿಗೆ ಭೇಟಿ ನೀಡಲಿದೆ ಕೇಂದ್ರ ತಂಡ](https://tv9kannada.com/videos/karnataka-drought-central-team-to-visit-drought-hit-areas-in-october-1243191.html)
 - [ಚಾಮರಾಜನಗರ ಆದಿವಾಸಿಗಳಿಗೆ ಆಹಾರ ಕಿಟ್ ಸ್ಥಗಿತ: ಒಂದು ಹೊತ್ತು ಊಟಕ್ಕೂ ಕಷ್ಟ ಪಡುತ್ತಿರುವ ಕಾಡಿನ ಮಕ್ಕಳು!](https://tv9kannada.com/videos/chamarajanagar-tribals-face-dire-food-crisis-as-state-halts-essential-kits-1243197.html)
 - [Video: ಉದ್ಯೋಗಿಗಳಿಗೆ ಸರ್ಪ್ರೈಸ್ ಆಗಿ ಐಫೋನ್‌ ನೀಡಿ ನಗು ಮೂಡಿಸಿದ ಬಾಸ್](https://tv9kannada.com/trending/boss-brings-smiles-to-employees-faces-by-gifting-them-surprise-iphones-1243183.html)
@@ -131,11 +134,11 @@
 - [ವಿದ್ಯಾರ್ಥಿನಿ ಮೇಲೆ ಅತ್ಯಾಚಾರ ವದಂತಿ: ರೊಚ್ಚಿಗೆದ್ದ ವಿದ್ಯಾರ್ಥಿಗಳಿಂದ ಪಂಜಾಬ್‌ನ ಎಲ್‌ಪಿಯು ಕ್ಯಾಂಪಸ್ ಧ್ವಂಸ](https://tv9kannada.com/national/lpu-campus-violence-student-protest-over-physical-assault-rumor-blocks-highway-in-punjab-1243181.html)
 - [ಬಿಗ್ ಬಾಸ್ ಕನ್ನಡ ಸೀಸನ್ 13: ಮೂವರು ವೈಲ್ಡ್ ಕಾರ್ಡ್ ಸ್ಪರ್ಧಿಗಳಿಗೆ ಸುದೀಪ್ ಸ್ವಾಗತ](https://tv9kannada.com/videos/bigg-boss-kannada-season-13-three-wildcard-contestants-entry-kichcha-sudeep-welcomes-1243185.html)
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್​: ಹೀಗಾದ್ರೆ ಮಾತ್ರ ಭಾರತ vs ಪಾಕಿಸ್ತಾನ್ ಮುಖಾಮುಖಿ](https://tv9kannada.com/sports/cricket-news/asian-games-2026-how-india-vs-pakistan-clash-can-happen-1243172.html)
-- [ಮಲ್ಲಿಕಾರ್ಜುನ ಖರ್ಗೆ ಜತೆ ಏನೇನು ಮಾತುಕತೆಯಾಯ್ತು? ಸಿಎಂ ಡಿಕೆ ಶಿವಕುಮಾರ್ ನೀಡಿದ ಮಾಹಿತಿ ಇಲ್ಲಿದೆ](https://tv9kannada.com/videos/dk-shivakumar-meets-mallikarjun-kharge-voter-list-issue-corporation-appointments-discussed-1243173.html)
-- [ಬಿಸ್ಕತ್ತು ಬೇಡ, ನಂಗೆ ಮದ್ಯವೇ ಬೇಕು: ವೈನ್​ ಶಾಪ್​ಗೆ ನುಗ್ಗಿ ಹಲ್ಲಿನಿಂದ ಹೆಂಡದ ಬಾಟಲಿ ಮುಚ್ಚಳ ತೆಗೆದು ಗುಟುಕು ಹಾಕಿದ ಮಂಗ](https://tv9kannada.com/national/viral-drunken-monkey-swigs-wine-at-ranchi-shop-stuns-onlookers-and-goes-viral-1243168.html)
-- [ವರ್ಷಕ್ಕೆ ಎರಡೇ ಬಾರಿ ನಡೆಯುವ ಪವಾಡ: ಶಿವಲಿಂಗವನ್ನು ನೇರವಾಗಿ ಸ್ಪರ್ಶಿಸಿದ ಸೂರ್ಯ ರಶ್ಮಿ!](https://tv9kannada.com/videos/addanki-temple-miracle-sunlight-illuminates-shiva-lingam-in-prakasam-district-1243169.html)
 
 **Prajavani**
+- [ಮಮ್ಮುಟ್ಟಿ ಹಣೆಗೆ ತಿಲಕ: ಟೀಕಾಕಾರರನ್ನು 'ಬಾವಿ ಕಪ್ಪೆ' ಎಂದ ಹರಿಶ್ರೀ ಯೂಸುಫ್](https://www.prajavani.net/entertainment/cinema/mammootty-tilak-controversy-harisree-yusuf-reaction-4291149)
+- [ದಸರಾ ವಿಚಾರದಲ್ಲಿ ಸುಳ್ಳು ಸುದ್ದಿ ಪ್ರಕಟ: ಕೊಪ್ಪಳದಲ್ಲಿ ಎಫ್‌ಐಆರ್‌ ದಾಖಲು](https://www.prajavani.net/news/karnataka-news/koppal-police-file-fir-against-fake-news-on-dasara-inauguration-4291179)
+- [ಯಾವ ಪ್ರೆಸ್ಟೀಜ್ ಇಲ್ಲ, ಕುಮಾರಸ್ವಾಮಿ ಯೋಜನೆ ಮುಂದುವರಿಸುತ್ತಿದ್ದೇನೆ: ಡಿಕೆಶಿ](https://www.prajavani.net/news/karnataka-news/dk-shivakumar-on-bidadi-township-and-kumaraswamy-plan-4291174)
 - [ನಟ ಮುಷ್ತಾಕ್ ಜತೆ ಕೆಲಸ ಮಾಡುವ ಬಯಕೆ: ಭಾವುಕ ಸಂದೇಶ ಹಂಚಿದ ನಿರ್ದೇಶಕ ವಿಶಾಲ್](https://www.prajavani.net/entertainment/cinema/mushtaq-khan-vishal-chaturvedi-tribute-4291112)
 - [ಅಲ್ಪಸಂಖ್ಯಾತ ಮತದಾರರ ಕೈಬಿಡಲು ಸಂಚು: ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ. ಶಿವಕುಮಾರ್‌](https://www.prajavani.net/news/karnataka-news/bengaluru-minority-voters-conspiracy-dk-shivakumar-statement-4290414)
 - [ಬೆಳಗಾವಿ: ಗಣೇಶ ಮೂರ್ತಿಗಳ ವಿಸರ್ಜನೆ, 42 ತಾಸು ನಡೆದ ಮೆರವಣಿಗೆ](https://www.prajavani.net/district/belagavi/belagavi-ganesha-immersion-procession-record-duration-4291142)
@@ -143,9 +146,6 @@
 - [ಬರ ಪರಿಸ್ಥಿತಿ ಅಧ್ಯಯನ: ಅಕ್ಟೋಬರ್ 3ರಿಂದ ರಾಜ್ಯಕ್ಕೆ ಕೇಂದ್ರ ತಂಡ ಭೇಟಿ](https://www.prajavani.net/news/karnataka-news/central-team-to-visit-karnataka-for-drought-assessment-4291118)
 - [ಹಿರೇಕೆರೂರ ತಾಲ್ಲೂಕು ಕಚೇರಿಯಲ್ಲಿ ಸ್ವಚ್ಛತೆ ಮಾಯ:ಕಸದಿಂದ ಆವೃತ್ತವಾದ ಕಚೇರಿ ಆವರಣ](https://www.prajavani.net/district/haveri/hirekerur-taluk-office-cleanliness-missing-public-grievance-4290699)
 - [ಸೂಪರ್‌ ಸಂಡೇ ವಿತ್‌ ಬಾದ್‌ಷಾ: ಸಿನಿ ಪಯಣದಲ್ಲಿ 30 ವರ್ಷ ಪೂರೈಸಿದ ಕಿಚ್ಚ ಸುದೀಪ್‌](https://www.prajavani.net/entertainment/cinema/kiccha-sudeep-thirty-years-cinema-celebration-4291078)
-- [ಉತ್ತರ ಕನ್ನಡ| ಯುವ ಮತದಾರರದ್ದೇ ಪಾರುಪತ್ಯ! ; ರಾಜಕೀಯ ಪಕ್ಷಗಳಿಗೆ ಸವಾಲು](https://www.prajavani.net/district/uttara-kannada/uttara-kannada-youth-voters-challenge-political-parties-election-4290669)
-- [ಸಿರುಗುಪ್ಪ: ಜ್ಞಾನವಿಕಾಸ ಕೇಂದ್ರದ ವಾರ್ಷಿಕೋತ್ಸವ ಮತ್ತು ವರಮಹಾಲಕ್ಷ್ಮಿ ಪೂಜೆ](https://www.prajavani.net/district/ballari/siruguppa-jnanavikasa-kendra-annual-day-varamahalakshmi-pooje-4290990)
-- [ವಿಶ್ವ ನದಿಗಳ ದಿನ: ಚಿಕ್ಕಬಳ್ಳಾಪುರ ಜಿಲ್ಲೆಯ ನದಿಗಳಿಗಿಲ್ಲ ರಕ್ಷಣೆ, ಕಾಯಕಲ್ಪ](https://www.prajavani.net/district/chikkaballapur/chikkaballapur-rivers-lack-protection-revitalization-water-crisis-4290406)
 
 **eedina**
 - [ಹಾಸನ | SIR ವಿರೋಧ: ಚುನಾವಣಾ ಆಯೋಗ ಅಕ್ರಮವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿದೆ; ನಟ ಪ್ರಕಾಶ್ ರಾಜ್](https://eedina.com/?p=766850)
@@ -162,23 +162,24 @@
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
 - India's (4.2)
-- Vijay (3.2)
 - ICICI Securities (3.0)
 - target (3.0)
-- What (2.9)
-- Order (2.6)
+- What (2.6)
 - September (2.6)
+- Chamarajanagar (2.6)
 - India (2.2)
-- Ashutosh Ranka (2.0)
 - Tamil Nadu (2.0)
 - Election Commission (2.0)
 - Buy Bajaj Finance (2.0)
+- Vijay (1.9)
 - Congress (1.9)
-- Public (1.6)
+- NDTV (1.6)
+- Mamata (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [ఎస్‌ఐఆర్‌ ప్రక్రియలో సడలింపులు..](https://prajasakti.com/national-newss/national/wf-1790437698615)
 - [3వేల కోట్ల డాలర్ల టారిఫ్‌‌ల కోతకు చైనా, అమెరికా అంగీకారం](https://prajasakti.com/international-news/abroad-users-49/chin-us-agree-to-cut-30-billion-in-tariffs)
 - [Iran insists on diplomatic solution after Trump rejects peace plan](https://www.thehindu.com/news/international/trump-rejects-iran-proposal-for-deal-to-reopen-hormuz/article71514089.ece)
 - [పాకిస్థాన్‌ దిమ్మతిరిగిపోయేలా జైశంకర్‌ కామెంట్స్‌](https://www.sakshi.com/telugu-news/national/jaishankars-blunt-message-pakistan-un-2913856)
@@ -188,7 +189,6 @@
 - [At UN, Russia Backs India's Bid For Permanent Security Council Seat](https://www.ndtv.com/world-news/at-un-russia-backs-indias-bid-for-permanent-security-council-seat-12103228)
 - [What is The Sift in Minecraft? Definition, release date, 2027 update and everything to know](https://www.hindustantimes.com/sports/us-sports/what-is-the-sift-in-minecraft-definition-release-date-2027-update-and-everything-to-know-101790448941607.html)
 - [ஆண்கள் குண்டு எறிதல் வெள்ளி வென்றார் தூர்](https://www.dinakaran.com/news/mens-shotput-silver-won-thoor/amp/?utm=relatedarticles)
-- [ஆண்கள் குண்டு எறிதல் வெள்ளி வென்றார் தூர்](https://www.dinakaran.com/news/mens-shotput-silver-won-thoor/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
