@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-26 23:32:49
+# India Trending Report — 2026-09-27 00:02:30
 
 ## Google Trends (India) — top trending searches
 1. [canada vs chile](https://trends.google.com/trending/rss?geo=IN)
 2. [తెలంగాణ](https://trends.google.com/trending/rss?geo=IN)
 3. [anahat singh](https://trends.google.com/trending/rss?geo=IN)
-4. [james garner](https://trends.google.com/trending/rss?geo=IN)
-5. [mikel oyarzabal](https://trends.google.com/trending/rss?geo=IN)
-6. [usa vs peru](https://trends.google.com/trending/rss?geo=IN)
-7. [sloop](https://trends.google.com/trending/rss?geo=IN)
-8. [eng vs spain](https://trends.google.com/trending/rss?geo=IN)
-9. [carlos alcaraz](https://trends.google.com/trending/rss?geo=IN)
-10. [north macedonia vs switzerland](https://trends.google.com/trending/rss?geo=IN)
+4. [vvan movie release date](https://trends.google.com/trending/rss?geo=IN)
+5. [james garner](https://trends.google.com/trending/rss?geo=IN)
+6. [mikel oyarzabal](https://trends.google.com/trending/rss?geo=IN)
+7. [usa vs peru](https://trends.google.com/trending/rss?geo=IN)
+8. [sloop](https://trends.google.com/trending/rss?geo=IN)
+9. [eng vs spain](https://trends.google.com/trending/rss?geo=IN)
+10. [carlos alcaraz](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Iran keeps door open to talks as Trump rejects Hormuz proposal](https://timesofindia.indiatimes.com/world/middle-east/iran-keeps-door-open-to-talks-as-trump-rejects-hormuz-proposal/articleshow/134512981.cms)
 - ['India calls for restraint': EAM on ship attacks in Gulf, seafarers at UNGA](https://timesofindia.indiatimes.com/india/india-calls-for-restraint-jaishankar-on-ship-attacks-in-gulf-seafarers-at-unga-top-quotes/articleshow/134508304.cms)
 - [Russia backs India's claim to UNSC seat, firmly shuts door on Germany & Japan](https://timesofindia.indiatimes.com/world/us/russia-backs-indias-claim-to-unsc-seat-firmly-shuts-door-on-germany-japan/articleshow/134508102.cms)
 - [4 killed as helicopter crashes in field in Canada’s Quebec, probe launched](https://timesofindia.indiatimes.com/world/rest-of-world/4-killed-as-helicopter-crashes-in-field-in-canadas-quebec/articleshow/134512844.cms)
 - [BJP allies back EC, say opposition attacks undermine democracy](https://timesofindia.indiatimes.com/india/bjp-allies-close-ranks-flay-oppn-for-undermining-democracy/articleshow/134510147.cms)
-- [At least 12 dead in suicide bomb blast near police post in northwestern Pakistan](https://timesofindia.indiatimes.com/world/pakistan/at-least-12-dead-in-suicide-bomb-blast-near-police-post-in-northwestern-pakistan/articleshow/134503303.cms)
 - [Florida used robot rabbits to hunt Burmese pythons threatening the Everglades](https://timesofindia.indiatimes.com/technology/tech-news/when-a-district-in-florida-used-robot-rabbits-to-eliminate-growing-population-of-burmese-pythons-and-protect-everglades/articleshow/134385404.cms)
-- [10 women dead in 2 months: South Africa probes possible links in Ekurhuleni killings](https://timesofindia.indiatimes.com/world/rest-of-world/10-women-dead-in-2-months-south-africa-probes-possible-links-in-ekurhuleni-killings/articleshow/134510157.cms)
+- [At least 12 dead in suicide bomb blast near police post in northwestern Pakistan](https://timesofindia.indiatimes.com/world/pakistan/at-least-12-dead-in-suicide-bomb-blast-near-police-post-in-northwestern-pakistan/articleshow/134503303.cms)
 - [He attested brother’s sale deed; HC cites oral partition, family loses 3.5 acres claim](https://timesofindia.indiatimes.com/business/india-business/he-attested-brothers-sale-deed-decades-ago-madras-hc-cites-it-as-evidence-of-oral-partition-rejects-familys-claim-to-3-5-acres-of-ancestral-land/articleshow/134507211.cms)
+- [10 women dead in 2 months: South Africa probes possible links in Ekurhuleni killings](https://timesofindia.indiatimes.com/world/rest-of-world/10-women-dead-in-2-months-south-africa-probes-possible-links-in-ekurhuleni-killings/articleshow/134510157.cms)
 - [Bangladesh to replace planned sculptures at historic sites](https://timesofindia.indiatimes.com/world/south-asia/bangladesh-to-replace-planned-sculptures-at-historic-sites/articleshow/134512935.cms)
-- [Awami members celebrating Hasina’s birthday under Bangladesh govt lens](https://timesofindia.indiatimes.com/world/south-asia/awami-members-celebrating-hasinas-birthday-under-lens/articleshow/134512936.cms)
 
 **NDTV**
 - [Judicial System Has Long Focused On Accused And Offence, Says Chief Justice](https://www.ndtv.com/india-news/judicial-system-has-long-focused-on-accused-and-offence-chief-justice-surya-kant-12103256#publisher=newsstand)
@@ -148,13 +148,13 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - UNGA (4.5)
+- Iran (3.9)
+- Trump (3.9)
 - Jaishankar (3.9)
 - September (3.9)
+- Hormuz (2.6)
 - India (2.6)
-- Bangladesh (2.6)
 - Uttarakhand (2.6)
-- Iran (2.6)
-- Trump (2.6)
 - CJI Surya Kant (2.0)
 - Pakistan (1.9)
 - Justice (1.9)
@@ -166,16 +166,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Asian Games : कबड्डीत भारतानं दुसरं सुवर्णपदक मिळवलं, टीम इंडियाचा अटीतटीच्या लढतीत विजय, 40-34 नं इराणला हरवलं](https://marathi.abplive.com/sports/asian-games-2026-indian-mens-kabaddi-team-won-gold-with-defeat-iran-in-final-by-40-34-1440317)
-- [શુભમન ગિલ પહેલી વનડેમાંથી બહાર? નેટ પ્રેક્ટિસમાં ઈજાગ્રસ્ત થયા બાદ કોચનું મોટું નિવેદન](https://gujarati.abplive.com/sports/cricket/shubman-gill-injury-update-india-vs-west-indies-1st-odi-match-playing-11-992097)
-- [વહેલી સવાર સુધી ગૂંજ્યા 'ગણપતિ બાપ્પા મોરિયા'ના નાદ: વડોદરામાં 16 હજારથી વધુ શ્રીજી પ્રતિમાઓનું વિસર્જન](https://www.gujaratsamachar.com/news/baroda/chants-of-ganpati-bappa-morya-echoed-till-early-morning-immersion-of-more-than-16-thousand-shriji-idols-in-vadodara-78213846264)
-- [After NSE IPO exchange debut, Macquarie calls stock ‘The Dominator’ - here’s why](https://www.livemint.com/market/stock-market-news/after-nse-ipo-exchange-debut-macquarie-calls-stock-the-dominator-here-s-why-check-share-price-target-11790419480001.html)
-- [Video: कुणाल घोष की गाड़ी पर हमला, फेंके गए अंडे, TMC विधायक बोले- यह जंगलराज](https://www.abplive.com/news/india/tmc-mla-kunal-ghosh-car-attacked-eggs-thrown-tmc-mla-calls-jungle-raj-3194065)
-- [Sunil Grover’s uncanny Ajay Devgn mimicry steals the show ahead of ‘Drishyam 3’ release; fans say, 'Mimicry sounds more original than original himself'](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunil-grovers-uncanny-ajay-devgn-mimicry-steals-the-show-ahead-of-drishyam-3-release-fans-say-mimicry-sounds-more-original-than-original-himself/articleshow/134503291.cms)
-- [‘‘கார்த்திக் சுப்புராஜின் திரை மொழி வியக்க வைக்கிறது’’ - ‘டோரதி’க்கு மணிரத்னம் பாராட்டு](https://www.hindutamil.in/news/cinema/tamil-cinema/mani-ratnam-express-his-thought-about-dorothy)
-- [Breaking News: શુભમન ગિલની ઈજાથી ટીમ ઈન્ડિયાની પ્લેઈંગ ઈલેવન બદલાશે, કયા ખેલાડીને મળશે તક?](https://tv9gujarati.com/sports/cricket-news/breaking-news-ind-vs-wi-shubman-gills-injury-team-india-playing-will-change-1522258.html)
-- [રાજકોટમાં Blinkitના સ્ટોરેજમાંથી 596 કિલો સડેલા શાકભાજી-ફળ, અખાદ્ય ગ્રોસરી આઈટમ્સ પકડાયા](https://www.etvbharat.com/gu/state/rajkot-blinkit-596-kg-rotten-vegetables-fruits-destroyed-rmc-health-department-raid-gjs26092603887)
-- [At least 11 dead in suicide bomb blast near police post in northwestern Pakistan](https://timesofindia.indiatimes.com/world/pakistan/11-killed-30-injured-in-blast-in-pakistans-dera-ismail-khan/articleshow/134503303.cms)
+- [12 Killed, 30 Injured As Suicide Bomber Blows Up Vehicle At Checkpoint In Pak](https://www.ndtv.com/world-news/11-killed-in-suicide-bombing-at-police-checkpoint-in-paks-khyber-pakhtunkhwa-12101799)
+- ['2027નો વનડે વર્લ્ડ કપ મારો છેલ્લો હશે', વિરાટ કોહલીની જાહેરાતથી ચાહકો સ્તબ્ધ, કહ્યું-'પૂરો જીવ રેડી દઈશ'](https://www.gujaratsamachar.com/news/sports/virat-kohli-announces-2027-odi-world-cup-will-be-his-last-tournament-75046626839)
+- [Gyanesh Kumar: 'জ্ঞানেশ কুমার মাস্ট গো, আপনারা বাংলা নিয়েছেন, আমরা দিল্লি নেব', শ্রীরামপুরে তীব্র আক্রমণে মমতা](https://bengali.abplive.com/district/mamata-banerjee-serampore-rally-attacks-bjp-gyanesh-kumar-seema-khanna-sir-row-1194250)
+- [അമിത് ഷായ്ക്ക് നേരെ കൊല്ലത്ത് യൂത്ത് കോണ്‍ഗ്രസിന്റെ കരിങ്കൊടി പ്രതിഷേധം; പൊലീസ് ബലം പ്രയോഗിച്ച് നീക്കി](https://www.doolnews.com/youth-congress-protest-against-amit-shah-at-kollam-61-173.html)
+- [Kongan, Bhadra and Bolland reach Asian Games 2026 sprint finals](https://thenewsmill.com/2026/09/kongan-bhadra-and-bolland-reach-asian-games-2026-sprint-finals/)
+- [पाकिस्तान के डेरा इस्माइल खान में बड़ा धमाका, 11 लोगों की मौत और 30 घायल](https://www.aajtak.in/world/story/northwestern-pakistan-dera-ismail-khan-blast-11-killed-30-injured-ntc-amkr-dskc-2653953-2026-09-26)
+- [Kunal Ghosh’s car attacked | మమతా వర్గం ఎమ్మెల్యే కారుపై.. రాళ్లు, గుడ్లతో దాడి](https://www.ntnews.com/national/mamata-banerjees-loyalist-mla-kunal-ghoshs-car-attacked-with-stones-eggs-in-west-bengal-2520671)
+- [পরের বছরই শেষ বিশ্বকাপ! ঘোষণা কোহলির, ভারতকে ট্রফি জেতাতে যা দরকার সেটাই করবেন, আক্ষেপ পূরণ করার স্বপ্ন রোহিতের](https://www.anandabazar.com/sports/cricket/virat-kohli-says-next-year-will-be-his-last-world-cup-rohit-sharma-wants-to-fulfill-unfinished-business-dgtl/cid/1715657)
+- [‘Gyanesh uncle abhi resign mat karo’: CJP’s ‘Jantar Mantar 2.0’ threat sparks ‘Protest Season 2’ frenzy online](https://www.telegraphindia.com/india/gyanesh-uncle-abhi-resign-mat-karo-cjps-jantar-mantar-2-0-threat-sparks-protest-season-2-frenzy-online/cid/2181820)
+- [SIR row: EC says final decisions unanimous, clarifies officer’s role, voter inclusion process](https://timesofindia.indiatimes.com/india/sir-row-eci-says-final-decisions-unanimous-clarifies-officers-role-voter-inclusion-process/articleshow/134503740.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
