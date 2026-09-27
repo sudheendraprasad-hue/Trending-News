@@ -1,8 +1,8 @@
-# India Trending Report — 2026-09-27 13:34:19
+# India Trending Report — 2026-09-27 14:01:56
 
 ## Google Trends (India) — top trending searches
-1. [राघव चड्ढा](https://trends.google.com/trending/rss?geo=IN)
-2. [live cricket score](https://trends.google.com/trending/rss?geo=IN)
+1. [nigeria vs sierra leone](https://trends.google.com/trending/rss?geo=IN)
+2. [राघव चड्ढा](https://trends.google.com/trending/rss?geo=IN)
 3. [ಬಿಗ್ ಬಾಸ್ ಕನ್ನಡ](https://trends.google.com/trending/rss?geo=IN)
 4. [parvesh verma](https://trends.google.com/trending/rss?geo=IN)
 5. [नेटफ्लिक्स](https://trends.google.com/trending/rss?geo=IN)
@@ -10,34 +10,37 @@
 7. [tom banton](https://trends.google.com/trending/rss?geo=IN)
 8. [நடிகர்](https://trends.google.com/trending/rss?geo=IN)
 9. [మద్యం](https://trends.google.com/trending/rss?geo=IN)
-10. [પિતૃ પક્ષ](https://trends.google.com/trending/rss?geo=IN)
+10. [aus vs sa](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [NEET leak fallout: CISF to guard NTA’s confidential exam areas](https://timesofindia.indiatimes.com/india/neet-leak-fallout-cisf-to-guard-ntas-confidential-exam-areas/articleshow/134519895.cms)
-- ['Oye maar kaise raha hai': On cam, Delhi minister Parvesh Verma slaps man](https://timesofindia.indiatimes.com/city/delhi/oye-maar-kisse-raha-hai-delhi-minister-parvesh-verma-slaps-man-during-road-inspection-aap-shares-video/articleshow/134518513.cms)
 - [Tamil Nadu govt rolls back law and order department’s RTI exemption amid backlash](https://timesofindia.indiatimes.com/india/tamil-nadu-govt-rolls-back-law-and-order-departments-rti-exemption-amid-backlash/articleshow/134519738.cms)
-- [When ‘secret spot’ goes viral: The tourism trap of too many views, too many visitors](https://timesofindia.indiatimes.com/india/when-secret-spot-goes-viral-the-tourism-trap-of-too-many-views-too-many-visitors/articleshow/134518410.cms)
+- [‘Hurled abuses at my family’: Delhi minister reveals ‘truth’ behind viral slap video](https://timesofindia.indiatimes.com/city/delhi/hurled-abuses-at-my-family-delhi-minister-parvesh-verma-reveals-the-truth-behind-viral-slap-video/articleshow/134519878.cms)
+- ['American terrorist army': Iran claims second US submarine seized in Hormuz](https://timesofindia.indiatimes.com/world/middle-east/american-terrorist-army-iran-claims-second-us-submarine-seized-in-hormuz/articleshow/134521244.cms)
+- [NEET leak fallout: CISF to guard NTA’s confidential exam areas](https://timesofindia.indiatimes.com/india/neet-leak-fallout-cisf-to-guard-ntas-confidential-exam-areas/articleshow/134519895.cms)
 - [New Green Card rules from September: Categories affected and those exempt](https://timesofindia.indiatimes.com/technology/tech-news/new-green-card-rules-that-came-into-effect-starting-this-september-list-of-categories-subject-to-the-changes-and-those-that-are-not-impacted/articleshow/134515826.cms)
-- [Ohio lawyer bought 155 acres in 1988, farms 500, rejected $500K timber cut](https://timesofindia.indiatimes.com/world/us/in-1988-ohio-attorney-neil-mckown-secretly-bought-155-neglected-acres-38-years-later-the-family-farms-nearly-500-acres-and-he-declined-a-400000-500000-timber-cut-to-keep-the-woods/articleshow/134519863.cms)
+- [$17.1M to restore 206,000 acres, 225 miles for wildlife movement in West](https://timesofindia.indiatimes.com/science/wildlife/fourteen-us-projects-will-restore-or-protect-wildlife-movement-across-more-than-206000-acres-and-improve-225-miles-of-fencing-after-a-new-17-1-million-conservation-investment-across-the-west/articleshow/134514775.cms)
+- [When ‘secret spot’ goes viral: The tourism trap of too many views, too many visitors](https://timesofindia.indiatimes.com/india/when-secret-spot-goes-viral-the-tourism-trap-of-too-many-views-too-many-visitors/articleshow/134518410.cms)
+- [Who is Sarvesh Kushare? From Hangzhou heartbreak to Asian Games silver in Japan](https://timesofindia.indiatimes.com/sports/asian-games-2026/who-is-sarvesh-kushare-from-hangzhou-heartbreak-to-asian-games-silver-in-japan/articleshow/134520835.cms)
 - [Barrier-free tolling: How FASTag & number plates will auto-collect toll](https://timesofindia.indiatimes.com/business/india-business/indias-barrier-free-tolling-explained-no-more-stopping-as-fastag-number-plate-recognition-will-help-collect-toll-automatically/articleshow/134520514.cms)
-- [Chess Olympiad: Savitha heroics bring medal; Arjun helps India bag Open silver](https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-savitha-shri-heroics-bring-medal-arjun-erigaisi-turns-hero-as-india-bag-silver-in-open-section/articleshow/134520444.cms)
-- [‘Minister’s aides threatened to kill me’: Man recalls being slapped by Parvesh Verma](https://timesofindia.indiatimes.com/city/delhi/he-raised-his-hand-against-me-youth-seen-being-slapped-by-parvesh-verma-recounts-road-inspection-row/articleshow/134518503.cms)
-- [NY farmer turned 30 acres into solar, earns $1,500-$1,800 per acre](https://timesofindia.indiatimes.com/world/us/in-2023-new-york-farmer-tony-emmi-began-turning-30-acres-of-good-farmland-into-a-solar-field-three-years-later-he-says-the-lease-pays-roughly-1500-to-1800-per-acre-each-year/articleshow/134518868.cms)
+- [US removed 14,000 traps, 600,000 pounds; 11 projects target 15,450 more](https://timesofindia.indiatimes.com/science/nature/a-us-cleanup-program-removed-more-than-14000-lost-fishing-traps-weighing-nearly-600000-pounds-in-two-years-and-documented-almost-36000-trapped-animals-11-new-projects-will-now-target-another-15450-traps/articleshow/134519173.cms)
 
 **NDTV**
-- ['Indian Ocean Region Among Most Militarised': Navy Chief Flags Threats](https://www.ndtv.com/india-news/indian-ocean-region-among-most-militarised-navy-chief-admiral-krishna-swaminathan-flags-threats-12105360#publisher=newsstand)
+- [NDTV Defence Summit 2026 Highlights: Chief Of Defence Staff NS Raja Subramani On AI Transforming Battlefield](https://www.ndtv.com/india-news/ndtv-defence-summit-2026-live-updates-key-announcements-defence-strategy-and-military-technology-rajnath-singh-keynote-address-12103640#publisher=newsstand)
+- ["Integrate With Us On Mission Mode": Navy Chief To Skyroot At NDTV Summit](https://www.ndtv.com/india-news/integrate-with-us-on-mission-mode-navy-chief-to-skyroot-at-ndtv-summit-12105591#publisher=newsstand)
+- [AI Will Transform Battlefield In All Aspects: Chief Of Defence Staff To NDTV](https://www.ndtv.com/india-news/ndtv-defence-summit-2026-ns-raja-subramani-ai-will-transform-battlefield-in-all-aspects-chief-of-defence-staff-to-ndtv-12105567#publisher=newsstand)
+- [Hyderabad Gym Owner Charged For Harassing Woman Cop During Ganesh Immersion](https://www.ndtv.com/india-news/hyderabad-gym-owner-charged-for-harassing-woman-cop-during-ganesh-immersion-12105584#publisher=newsstand)
+- [Weather Tomorrow: Heavy Rain Forecast In Parts Of Uttarakhand, UP, Bihar, Assam, Meghalaya](https://www.ndtv.com/india-news/weather-tomorrow-monday-weather-september-28-weather-rain-thunderstorms-in-uttarakhand-up-bihar-assam-meghalaya-12105520#publisher=newsstand)
 - [Russian Envoy Claims "A Freudian Slip" Revealed US Fears Of India's Rise](https://www.ndtv.com/world-news/ndtv-defence-summit-russian-envoy-denis-alipov-claims-a-freudian-slip-revealed-us-fears-of-indias-rise-12105397#publisher=newsstand)
+- [India To Get F-35 Or Su-57? What Russian Envoy Said At NDTV Defence Summit](https://www.ndtv.com/india-news/ndtv-defence-summit-2026-india-to-get-f-35-or-sukhoi-57-what-russian-envoy-denis-alipov-said-at-ndtv-defence-summit-12105492#publisher=newsstand)
+- ['Indian Ocean Region Among Most Militarised': Navy Chief Flags Threats](https://www.ndtv.com/india-news/indian-ocean-region-among-most-militarised-navy-chief-admiral-krishna-swaminathan-flags-threats-12105360#publisher=newsstand)
 - [Swedish Defence Firm SAAB Wants Indian Suppliers As Part Of Global Supply Chain](https://www.ndtv.com/india-news/ndtv-defence-summit-2026-swedish-defence-firm-saab-wants-indian-suppliers-as-part-of-global-supply-chain-12105349#publisher=newsstand)
 - ["AAP Worker Abused My Family": Delhi Minister Parvesh Verma On Slap Row](https://www.ndtv.com/india-news/aap-worker-abused-my-family-delhi-minister-parvesh-verma-on-slap-row-12105401#publisher=newsstand)
-- [In 'Avengers: Age Of Ultron' Moment, Ukraine Launches 'Army Of Robots'](https://www.ndtv.com/world-news/manhattan-project-for-physical-ai-ukraine-announces-army-of-robots-12105169#publisher=newsstand)
-- [NDTV Defence Summit 2026 LIVE Updates: Defence Secretary Rajesh Kumar Singh On Building India's Defence Edge](https://www.ndtv.com/india-news/ndtv-defence-summit-2026-live-updates-key-announcements-defence-strategy-and-military-technology-rajnath-singh-keynote-address-12103640#publisher=newsstand)
-- ['Aatmanirbharta': Navy Chief To NDTV On Lessons From Hormuz, Bab El-Mandeb](https://www.ndtv.com/india-news/ndtv-defence-summit-2026-admiral-krishna-swaminathan-aatmanirbharta-navy-chief-to-ndtv-on-lessons-from-hormuz-bab-el-mandeb-12105337#publisher=newsstand)
-- [Ping Ping, Fu Shuang: 2 Giant Pandas From China Arrive In US](https://www.ndtv.com/world-news/ping-ping-fu-shuang-2-giant-pandas-from-china-arrive-in-us-12105307#publisher=newsstand)
-- [Adani Group's Dhamra Port Makes History, To Run Fully On Renewable Power](https://www.ndtv.com/india-news/adani-groups-dhamra-port-makes-history-to-run-fully-on-renewable-power-12105289#publisher=newsstand)
-- [Pregnant Woman Faints During Fight In Maharashtra. She Was Taken 275 km Away, Burnt Alive](https://www.ndtv.com/india-news/pregnant-woman-faints-during-fight-she-was-taken-275-km-away-burnt-alive-12105130#publisher=newsstand)
 
 **Hindustan Times**
+- [Just Like That: How social media is reshaping news, TV and the media landscape](https://www.hindustantimes.com/india-news/just-like-that-how-social-media-is-reshaping-news-tv-and-the-media-landscape-101790477037969.html)
+- [AAP alleges Parvesh Verma slapped man during Delhi road inspection; minister blames provocation](https://www.hindustantimes.com/india-news/aap-alleges-parvesh-verma-slapped-man-during-delhi-road-inspection-minister-blames-provocation-101790514661629.html)
+- ['Brahman devta, Samajwadi Party join karliya?’: BJP councillor, Ravi Kishan spar over waterlogging in UP's Gorakhpur](https://www.hindustantimes.com/india-news/bjp-councillor-ravi-kishan-spar-after-heavy-waterlogging-up-gorakhpur-brahaman-devta-samajwadi-party-join-karliya-101790511099481.html)
 - [UP woman murdered, buried in garden in Jaipur; search on for live-in partner: Cops](https://www.hindustantimes.com/india-news/up-woman-murdered-buried-in-garden-in-jaipur-search-on-for-live-in-partner-cops-101790514165452.html)
 - [Congress to hold protest across Jharkhand on September 28, seek resignation of CEC Gyanesh Kumar](https://www.hindustantimes.com/india-news/congress-to-hold-protest-across-jharkhand-on-september-28-seek-resignation-of-cec-gyanesh-kumar-101790513785477.html)
 - [HT Evening Brief Sept 27: Parvesh Verma's slapgate in Delhi; Ancy Sojan wins silver at Asian Games](https://www.hindustantimes.com/india-news/ht-evening-brief-september-27-parvesh-verma-slapgate-delhi-vijay-rti-asian-games-actors-smoking-ads-top-news-101790511900253.html)
@@ -45,9 +48,6 @@
 - [Rishikesh rafting halted indefinitely as Ganga water level rises: Officials](https://www.hindustantimes.com/india-news/rishikesh-rafting-halted-indefinitely-as-ganga-water-level-risesofficials-101790511412774.html)
 - [Delhi minister Parvesh Verma loses cool, slaps man filming him during road inspection | Video](https://www.hindustantimes.com/india-news/delhi-deputy-cm-parvesh-verma-loses-cool-slaps-man-filming-him-during-road-inspection-video-101790509456988.html)
 - [Ludhiana to host 'Jashan-e-Inquilab' on Bhagat Singh's birth anniversary on Sep 28](https://www.hindustantimes.com/india-news/ludhiana-to-host-jashan-e-inquilab-on-bhagat-singh-s-birth-anniversary-on-sep-28-101790510094081.html)
-- [UP rain fury: 56 dead in three days, flood-like situation in several districts](https://www.hindustantimes.com/india-news/up-rain-fury-56-dead-in-three-days-flood-like-situation-in-several-districts-101790508738356.html)
-- ['Supported when they were weak, now...': Sonam Wangchuk on CJP's protest call against CEC Gyanesh Kumar](https://www.hindustantimes.com/india-news/sonam-wangchuk-backs-cjp-protest-against-cec-gyanesh-kumar-election-commission-abhijeet-dipke-call-for-october-2-101790504695763.html)
-- [Vijay govt's U-turn amid row over RTI exemption for law and order department; DMK takes ‘shameful’ swipe](https://www.hindustantimes.com/india-news/vijay-govt-tamil-nadu-makes-u-turn-over-rti-exemption-for-law-and-order-department-row-dmk-mp-kanimozhi-shameful-swipe-101790504996371.html)
 
 **Vijay Karnataka**
 - [ಚುನಾವಣಾ ಆಯೋಗವನ್ನು ಪ್ರಶ್ನಿಸುವುದನ್ನು ರಾಹುಲ್‌ ಗಾಂಧಿ ಚಟ ಮಾಡಿಕೊಂಡಿದ್ದಾರೆ: ವಿಪಕ್ಷ ನಾಯಕನ ʻಖದರ್‌ʼ ಹೇಳಿಕೊಟ್ಟ ಆರ್.‌ ಅಶೋಕ್‌!](https://vijaykarnataka.com/news/karnataka/rahul-gandhi-making-false-accusations-against-the-election-commission-out-of-frustration-says-r-ashoka/articleshow/134520062.cms)
@@ -62,18 +62,20 @@
 - [UNGA ಭಾಷಣದಲ್ಲಿ ಪಾಕಿಸ್ತಾನದ ಅಸಲಿಯತ್ತು ಬಿಚ್ಚಿಟ್ಟ ಜೈಶಂಕರ್‌: ಶೆಹಬಾಜ್‌ ಷರೀಫ್‌ ಹೇಳಿದ ಸುಳ್ಳುಗಳಿಗೆ ಸತ್ಯದ ಉತ್ತರ!](https://vijaykarnataka.com/news/world/s-jaishankar-calls-pakistan-as-serial-sponsor-of-terrorism-rebuts-shehbaz-sharifs-false-claims-at-unga/articleshow/134517972.cms)
 
 **The Hindu**
-- [SIR row: Chavan seeks probe into ECI working; Raut says government's sole agenda is to protect CEC](https://www.thehindu.com/news/national/sir-row-chavan-seeks-probe-into-eci-working-raut-says-governments-sole-agenda-is-to-protect-cec/article71516222.ece)
-- [CJP leader Ashutosh Ranka, others detained in Guwahati](https://www.thehindu.com/news/national/cjps-ashutosh-ranka-his-team-detained/article71515449.ece)
-- [Karnataka Examinations Authority considers introducing three-layer OMR sheets for recruitment exams to prevent malpractices](https://www.thehindu.com/news/national/karnataka/karnataka-examinations-authority-considers-introducing-three-layer-omr-sheets-for-recruitment-exams-to-prevent-malpractices/article71512960.ece)
-- [Official inspects Akhanda Godavari project works in Rajamahendravaram](https://www.thehindu.com/news/national/andhra-pradesh/official-inspects-akhanda-godavari-project-works-in-rajamahendravaram/article71516085.ece)
-- [Ponnam calls for greater political representation for Padmasalis](https://www.thehindu.com/news/national/telangana/ponnam-calls-for-greater-political-representation-for-padmasalis/article71516139.ece)
-- [EESL to showcase India’s energy-efficiency initiatives in Germany](https://www.thehindu.com/news/national/telangana/eesl-to-showcase-indias-energy-efficiency-initiatives-in-germany/article71515826.ece)
-- [BC-A communities samithi urges Bandi Sanjay to withdraw his statement](https://www.thehindu.com/news/national/telangana/bc-a-communities-samithi-urges-bandi-sanjay-to-withdraw-his-statement/article71516211.ece)
-- [AI workshop held for college teachers](https://www.thehindu.com/news/national/kerala/ai-workshop-held-for-college-teachers/article71516126.ece)
-- [HMWS&SB to survey all STPs in city](https://www.thehindu.com/news/national/telangana/hmwssb-to-survey-all-stps-in-city/article71515589.ece)
-- [KLU hosts two-day ‘skill Palaver’ hackathon to make students industry-ready](https://www.thehindu.com/news/national/andhra-pradesh/klu-hosts-two-day-skill-palaver-hackathon-to-make-students-industry-ready/article71516113.ece)
+- [Orthodox Church head completes apostolic visit to Ethiopia](https://www.thehindu.com/news/national/kerala/orthodox-church-head-completes-apostolic-visit-to-ethiopia/article71516029.ece)
+- [Advanced radiology technologies highlighted at ‘Radiology Live’ programme in Kalaburagi](https://www.thehindu.com/news/national/karnataka/advanced-radiology-technologies-highlighted-at-radiology-live-programme-in-kalaburagi/article71516368.ece)
+- [SFI visits tribal schools in Maredumilli mandal, flags bad infrastructure](https://www.thehindu.com/news/national/andhra-pradesh/sfi-visits-tribal-schools-in-maredumilli-mandal-flags-bad-infrastructure/article71516265.ece)
+- [ESA row heats up in Pathanamthitta as Keralam government’s proposal offers partial relief](https://www.thehindu.com/news/national/kerala/esa-row-heats-up-in-pathanamthitta-as-keralam-governments-proposal-offers-partial-relief/article71516003.ece)
+- [Kovur sugar factory workers to receive ₹22 crore in pending wages after 11 years](https://www.thehindu.com/news/national/andhra-pradesh/kovur-sugar-factory-workers-to-receive-22-crore-in-pending-wages-after-11-years/article71515681.ece)
+- [Study flags E. coli in 67% of water samples in Keralam’s Pala region](https://www.thehindu.com/news/national/kerala/study-flags-e-coli-in-67-of-water-samples-in-keralams-pala-region/article71516096.ece)
+- [Mob attacks woman while feeding community dogs](https://www.thehindu.com/news/national/karnataka/mob-attacks-woman-while-feeding-community-dogs/article71512400.ece)
+- [Focus is on strengthening export ecosystem in Andhra Pradesh, says APNRTS president Ravi Kumar](https://www.thehindu.com/news/national/andhra-pradesh/focus-is-on-strengthening-export-ecosystem-in-andhra-pradesh-says-apnrts-president-ravi-kumar/article71515366.ece)
+- [M.A. Baby meets Kejriwal ahead of INDIA bloc meeting on Election Commission](https://www.thehindu.com/news/national/ma-baby-meets-kejriwal-ahead-of-india-bloc-meeting-on-election-commission/article71516130.ece)
+- [SCoR GM inspects Rayanapadu wagon workshop](https://www.thehindu.com/news/national/andhra-pradesh/scor-gm-inspects-rayanapadu-wagon-workshop/article71516280.ece)
 
 **Livemint**
+- [New York and Northeast Facing Another Day of Wild Weather](https://www.livemint.com/news/us-news/new-york-and-northeast-facing-another-day-of-wild-weather-11790516910196.html)
+- [‘No UPI Day’ on October 2? Mobile retailers protest proposed 0.4% MDR on payments](https://www.livemint.com/news/india/no-upi-day-on-october-2-mobile-retailers-protest-proposed-0-4-mdr-on-payments-11790513884544.html)
 - [Heavy rain likely in parts of north India, northeast and south over next week](https://www.livemint.com/news/india-weather-imd-rainfall-forecast-monsoon-withdrawal-southwest-monsoon-heavy-rainfall-11790500524522.html)
 - [Tamil Nadu government withdraws RTI exemption for Law and Order Department amid criticism](https://www.livemint.com/news/india/tamil-nadu-government-withdraws-rti-exemption-for-law-and-order-department-amid-criticism-11790510226916.html)
 - [PM calls on citizens to participate in Census 2027](https://www.livemint.com/news/pm-calls-on-citizens-to-participate-in-census-2027-11790495006932.html)
@@ -82,8 +84,6 @@
 - [Russian Strikes Kill Four in Ukraine, Damage Kyiv Data Center](https://www.livemint.com/news/world/russian-strikes-kill-four-in-ukraine-damage-kyiv-data-center-11790504414709.html)
 - [Consumer drags PVR Cinemas to court after ads play for 17 minutes before movie: Movie chain must now pay  ₹75,000](https://www.livemint.com/news/india/consumer-drags-pvr-cinemas-to-court-after-ads-play-for-17-minutes-before-movie-movie-chain-must-now-pay-rs-75000-11790503840927.html)
 - [PM Modi's Mann Ki Baat Top Quotes: From surgical strike to amla, Ashok Singhal and ‘most beautiful tribute to Bapu’](https://www.livemint.com/news/india/pm-modis-mann-ki-baat-top-quotes-from-surgical-strike-to-amla-ashok-singhal-and-most-beautiful-tribute-to-bapu-11790501389057.html)
-- [Brics can serve as a platform for talks, cooperation, and reaching consensus: Iranian ambassador Fathali](https://www.livemint.com/news/india/iran-india-relations-oil-chabahar-port-brics-ambassador-mohammad-fathali-11790483043525.html)
-- [Mint Explainer | Why a super-charged El Niño is a postcard from our future](https://www.livemint.com/news/india/mint-explainer-super-charged-el-ni-o-postcard-from-future-11790495503860.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,18 +98,21 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
-- [ʼಬರ ಅಧ್ಯಯನʼ ಅಕ್ಟೋಬರ್ 3ಕ್ಕೆ ರಾಜ್ಯಕ್ಕೆ ಕೇಂದ್ರ ತಂಡ ಆಗಮನ](https://www.varthabharati.in/state/drought-assessment-2278387)
-- [Bantwal | ಅಮ್ಮುಂಜೆಯಲ್ಲಿ ಉಚಿತ ವೈದ್ಯಕೀಯ ಶಿಬಿರ, ವಿದ್ಯಾರ್ಥಿ ವೇತನ ವಿತರಣೆ](https://www.varthabharati.in/DakshinaKannada/bantwal-free-medical-camp-and-scholarship-distribution-in-ammunje-2278386)
-- [ಸರಕಾರ ಬಸವಣ್ಣನವರ ಹಾದಿಯಲ್ಲಿ ನಡೆಯುತ್ತಿದೆ : ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್](https://www.varthabharati.in/bangalore-city/dk-shivakumar-2278385)
-- [ಜ್ಞಾನೇಶ್ ರಾಜೀನಾಮೆ ಕೇಳದೆ 'ಸಾಕ್ಷಿ' ಆಗಲು ರಾಹುಲ್ ಹೇಳಿದ್ದೇಕೆ? । ನೇರ ಮಾತು | Gyanesh Kumar | Rahul Gandhi](https://www.varthabharati.in/video/why-did-rahul-ask-gyanesh-kumar-to-become-an-approver-instead-of-seeking-his-resignation-nera-maathu-gyanesh-kumar-rahul-gandhi-2278384)
-- [ನಮಗೆ ಏನಾದರೂ ಆದರೆ ನನ್ನ ತಾಯಿ ಮತ್ತು ಸಂಘಟನೆಗಳೇ ಹೊಣೆ : ಮಂಜುಳಾ | Sakleshpura](https://www.varthabharati.in/video/if-anything-happens-to-us-my-mother-and-organisations-will-be-responsible-manjula-sakleshpur-2278382)
-- [Mangaluru | ತುಳುವಿನ ‘ಶೇಕ್ಸ್‌ಪಿಯರ್’ಅಮೃತ ಸೋಮೇಶ್ವರ : ಮುಕುಂದರಾಜ್ ಪ್ರಶಂಸೆ](https://www.varthabharati.in/DakshinaKannada/mangaluru-tulus-shakespeare-amrita-someshwara-mukundaraj-praised-2278381)
-- [Delhi | ರಸ್ತೆ ಪರಿಶೀಲನೆ ವೇಳೆ ವ್ಯಕ್ತಿಗೆ ಕಪಾಳಮೋಕ್ಷ ಮಾಡಿದ ಬಿಜೆಪಿ ಸಚಿವ ಪರ್ವೇಶ್ ವರ್ಮಾ: ವಿಡಿಯೋ ವೈರಲ್](https://www.varthabharati.in/national/delhi-minister-parvesh-verma-slaps-man-during-road-inspection-aap-shares-video-2278380)
-- [ಸಲ್ಫರ್‌ನಿಂದ ಆಹಾರ ಬಿಕ್ಕಟ್ಟು : ದೇಶದ ಕೃಷಿ ಕ್ಷೇತ್ರಕ್ಕೆ ಗಂಡಾಂತರ? | Sulfur Crisis](https://www.varthabharati.in/video/food-crisis-due-to-sulfur-shortage-a-threat-to-indias-agriculture-sector-sulfur-crisis-2278379)
-- [ಅದಾನಿ ಹೊಸ ಪ್ಲ್ಯಾನ್‌ಗೆ ಇಂಡಿಗೋ, ಏರ್ ಇಂಡಿಯಾ ತೀವ್ರ ವಿರೋಧ ಏಕೆ ? | Adani | IndiGo | Air India | Modi Govt](https://www.varthabharati.in/video/why-are-indigo-and-air-india-strongly-opposing-adanis-new-plan-adani-indigo-air-india-modi-govt-2278378)
-- [Mangaluru | ಜಮೀಯತೇ ಅಹ್ಲೇ ಹದೀಸ್‌ನ ನವೀಕೃತ ಕಚೇರಿ ಉದ್ಘಾಟನೆ](https://www.varthabharati.in/DakshinaKannada/mangaluru-inauguration-of-the-renovated-office-of-jamiyyat-e-ahle-hadith-2278377)
+- [ಎಇಇ ಫರ್ವೀಝ್ ನಾಪತ್ತೆ ಪ್ರಕರಣ: ರಕ್ಷಣೆಗೆ ಜೆಡಿಎಸ್ ಆಗ್ರಹ](https://www.varthabharati.in/bengaluru/jds-2278403)
+- [Bidar | ಈಶಾನ್ಯ ಶಿಕ್ಷಕರ ಕ್ಷೇತ್ರ ಚುನಾವಣೆ: ಬೀದರ್‌ನಲ್ಲಿ ಬಿಜೆಪಿ ಪೂರ್ವಭಾವಿ ಸಭೆ](https://www.varthabharati.in/bidar/bidar-north-east-teachers-constituency-election-bjp-holds-preparatory-meeting-in-bidar-2278402)
+- [Yadagiri | ಪ್ರಜಾಸೇವಾ ಕಾರ್ಯಕ್ರಮ : ಅಧಿಕಾರಿಗಳ ನಿರ್ಲಕ್ಷ್ಯಕ್ಕೆ ಕರವೇ ಆಕ್ರೋಶ](https://www.varthabharati.in/yadagir/yadagiri-public-service-program-karave-outraged-by-officials-negligence-2278401)
+- [ರಾಯಚೂರು ರಿಪೋರ್ಟರ್ಸ್ ಗಿಲ್ಡ್ ಬೆಳ್ಳಿ ಮಹೋತ್ಸವ: ಸೌಹಾರ್ದ ಕ್ರಿಕೆಟ್ ಟೂರ್ನಿಗೆ ಚಾಲನೆ](https://www.varthabharati.in/raichur/raichur-reporters-guild-silver-jubilee-friendly-cricket-tournament-kicks-off-2278400)
+- [Vijayanagara | ಎಸ್‌ಐಆರ್ ಪ್ರಕ್ರಿಯೆ ವಿರುದ್ಧ ನಾಳೆ ಕಾಂಗ್ರೆಸ್‌ನಿಂದ ಬೃಹತ್ ಪ್ರತಿಭಟನೆ](https://www.varthabharati.in/vijayanagara/vijayanagara-congress-to-stage-massive-protest-tomorrow-against-the-sir-process-2278399)
+- [Kalaburagi | ಬಹುಶಿಸ್ತೀಯ ಸಂಶೋಧನೆಗೆ ಇಇಜಿ ತಂತ್ರಜ್ಞಾನ ಬಳಕೆ ಹೆಚ್ಚಳ ಅಗತ್ಯ: ಪ್ರೊ.ಬಟ್ಟು ಸತ್ಯನಾರಾಯಣ](https://www.varthabharati.in/kalaburagi/kalaburagi-increased-use-of-eeg-technology-is-necessary-for-multidisciplinary-research-prof-battu-satyanarayana-2278398)
+- [ಬಿಡದಿ ರೈತರ ಹೋರಾಟ ರಾಜ್ಯ ಸರಕಾರ ಹತ್ತಿಕ್ಕುತ್ತಿದೆ : ಎಚ್.ಡಿ.ಕುಮಾರಸ್ವಾಮಿ](https://www.varthabharati.in/bangalore-city/hd-kumaraswamy-2278397)
+- [ಕನಕಗಿರಿ ಸಮುದಾಯ ಆರೋಗ್ಯ ಕೇಂದ್ರಕ್ಕೆ ನ್ಯಾಯಾಧೀಶರ ದಿಢೀರ್ ಭೇಟಿ, ಪರಿಶೀಲನೆ](https://www.varthabharati.in/koppala/judge-makes-surprise-visit-and-inspection-of-kanakagiri-community-health-centre-2278395)
+- [Raichur | ಎಕ್ಸ್‌ರೇ ಟೆಕ್ನಿಷಿಯನ್‌ಗಳಿಗೂ ಹೊರಗುತ್ತಿಗೆ ನೇಮಕಕ್ಕೆ ಅವಕಾಶ: ಡಾ.ರಜನಿ ಎಂ.](https://www.varthabharati.in/raichur/raichur-provision-for-outsourcing-x-ray-technicians-dr-rajani-m-2278394)
+- [ಅವರು ದುರ್ಬಲರಾಗಿದ್ದಾಗ ನಾನು ಬೆಂಬಲಿಸಿದ್ದೆ : CEC ವಿರುದ್ಧ ಸಿಜೆಪಿ ಪ್ರತಿಭಟನಾ ಕರೆ ಕುರಿತು ಸೋನಂ ವಾಂಗ್ಚುಕ್ ಪ್ರತಿಕ್ರಿಯೆ](https://www.varthabharati.in/National/supported-when-they-were-weak-now-sonam-wangchuk-on-cjps-protest-call-against-cec-gyanesh-kumar-2278393)
 
 **Asianet Kannada**
+- [ಅಮಿತಾಭ್​ರನ್ನು ನೋಡಲು ಬಂದಿದ್ದ ಉಗ್ರ ಕಸಬ್​: ಶಾಕಿಂಗ್​ ಘಟನೆ ತೆರೆದಿಟ್ಟ ವಕೀಲ- ಬಿಗ್​ ಬಿ ಹೇಳಿದ್ದೇನು](https://kannada.asianetnews.com/entertainment/amitabh-bachchan-reacts-after-ujjwal-nikam-reveals-ajmal-kasab-claimed-he-came-to-meet-big-b-suc/articleshow-g2gn9zc)
+- [ಸುವೇಂದು ಅಧಿಕಾರಿ ಸಾವಿಗೆ ಪ್ರಾರ್ಥಿಸುತ್ತೇನೆ, ಟೀಕೆ ಬೆನ್ನಲ್ಲೇ ಉಲ್ಟಾ ಹೊಡೆದ ಹುಮಾಯುನ್](https://kannada.asianetnews.com/india-news/humayun-kabir-faces-backlash-over-suvendu-adhikari-remark-later-changes-statement/articleshow-qaes9ug)
+- [ನಿಮ್ಮ Toothpaste ಸಸ್ಯಾಹಾರಿನಾ, ಮಾಂಸಾಹಾರಿನಾ? ಟ್ಯೂಬ್ ಮೇಲಿನ 'ಕಲರ್ ಕೋಡ್' ರಹಸ್ಯ ಇಲ್ಲಿದೆ](https://kannada.asianetnews.com/gallery/health-life/dont-fall-for-the-lie-the-real-reason-toothpaste-tubes-have-color-codes-tesvbfy)
 - [ಗ್ಯಾಸ್ ಸ್ಟವ್‌ನಂತೆ ಇಂಡಕ್ಷನ್ ತೊಳೆದ್ರೆ ಗ್ಲಾಸ್ ಒಡೆದುಹೋಗುತ್ತೆ ಹುಷಾರ್! ಇಲ್ಲಿದೆ ಕ್ಲೀನ್ ಮಾಡುವ ಸರಿಯಾದ ವಿಧಾನ](https://kannada.asianetnews.com/gallery/kitchen/how-to-clean-induction-cooktop-safely-never-make-these-costly-mistakes-45mv0om)
 - [ಬೆಂಗಳೂರಲ್ಲಿ ಐದು ತಿಂಗಳ ನಾಯಿ ಮೇಲೆ ಹೀನ ಕೃತ್ಯ, ಭಾರೀ ಆಕ್ರೋಶ ವ್ಯಕ್ತವಾಗಿದೆ](https://kannada.asianetnews.com/bengaluru-urban/person-who-shot-and-injured-a-puppy-with-an-air-gun-at-nelamangala-taluku/articleshow-f5ivkka)
 - [Sweet Potato Benefits: ಸಿಹಿಗೆಣಸು ತಿಂದರೆ ಸಿಗುವ 7 ಅದ್ಭುತ ಆರೋಗ್ಯ ಪ್ರಯೋಜನಗಳಿವು](https://kannada.asianetnews.com/webstories/health-life/7-amazing-health-benefits-of-eating-sweet-potatoes-daily-gvd-q5oq51y)
@@ -117,13 +120,12 @@
 - [ಬಿಗ್ ಬಾಸ್ ಮಾಜಿ ಸ್ಪರ್ಧಿ ಅರೆಸ್ಟ್, ವೈದ್ಯರಿಂದ 5 ಲಕ್ಷ ರೂ ವಸೂಲಿಗೆ ಯತ್ನಿಸಿ ಹಲ್ಲೆ ಆರೋಪ](https://kannada.asianetnews.com/gallery/tv-talk/former-bigg-boss-contestant-divya-shinde-arrested-over-alleged-assault-on-doctor-fxu2nql)
 - ['ಡಿ-ಹೈಡ್ರೇಶನ್' ಲಕ್ಷಣಗಳನ್ನು ನಿರ್ಲಕ್ಷ್ಯ ಮಾಡಲೇಬೇಡಿ; ಮುಂದೆ ದೊಡ್ಡ ಅಪಾಯ ಎದುರಾಗಬಹುದು!](https://kannada.asianetnews.com/gallery/health-life/warning-signs-of-dehydration-you-must-never-ignore-and-save-your-life-with-right-hydration-n7z34lp)
 - [ತಾಂಡವ್ ರಾಮ್ ಕಿವಿ ಹಿಂಡಿದ ಕಿಚ್ಚ ಸುದೀಪ್‌: '12 ವರ್ಷದಲ್ಲಿ ಮೊದಲಿಗ ನೀವೇ' ಎಂದಿದ್ದೇಕೆ?](https://kannada.asianetnews.com/tv-talk/bigg-boss-kannada-13-double-elimination-tandav-ram-re-entry-and-three-wild-card-entries-gvd/articleshow-33vchlx)
-- [ದ್ರೌಪದಿ ವಸ್ತ್ರಾಪಹರಣ ತಡೆಯಲು ಗಾಳಿಯಲ್ಲಿ ತೇಲಿ ಬಂದ ಕೃಷ್ಣ: ವೈರಲ್​ ವಿಡಿಯೋಗೆ ಬೆಕ್ಕಸಬೆರಗಾದ ಜನರು](https://kannada.asianetnews.com/viral/krishna-comes-in-the-air-to-save-draupadi-people-are-amazed-by-the-viral-video-suc/articleshow-zg4ro9l)
-- [ಓವನ್, ಎಸೆನ್ಸ್, ಎಗ್ ಏನೂ ಬೇಡ.. ಬರೀ ರವೆ-ಹಾಲಿನಿಂದ 30 ನಿಮಿಷದಲ್ಲಿ ಮಾಡಿ ಸೂಪರ್ ಸಾಫ್ಟ್ ಸ್ಪಾಂಜಿ ಕೇಕ್](https://kannada.asianetnews.com/food/quick-30-minute-rava-cake-with-milk-and-curd-step-by-step-guide/articleshow-fprmukq)
-- [UP Election: ಕಾಂಗ್ರೆಸ್‌ಗೆ ಕೈ ಕೊಡ್ತಾರಾ ಅಖಿಲೇಶ್? ಮೈತ್ರಿ ಬಿರುಕಿನ ಸ್ಟೋರಿಗೆ ರೋಚಕ ಟ್ವಿಸ್ಟ್ ಕೊಟ್ಟ ಎಸ್‌ಪಿ ಬಾಸ್!](https://kannada.asianetnews.com/india-news/akhilesh-yadav-sp-congress-alliance-up-election-2027-seat-sharing-pda-rath-yatra-ajay-rai-bmk/articleshow-g7a36tg)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ಕಡಲ ತಡಿಯ ಮರಳಿನ ಮೇಲೆ ಅಭ್ಯಾಸ ಮಾಡಿ ಬೆಳ್ಳಿ ಗೆದ್ದ ಆನ್ಸಿ ಸೋಜನ್..!](https://tv9kannada.com/photo-gallery/cricket-photos/india-ancy-sojan-silver-medal-asian-games-women-long-jump-1243309.html)
+- [ಹಾವೇರಿ ಜಿಲ್ಲಾಸ್ಪತ್ರೆಯ ಕ್ಯಾಂಟೀನ್‌ನಲ್ಲಿ ಬಾಣಂತಿಗೆ ನೀಡಿದ್ದ ಕೇಸರಿಬಾತ್‌ನಲ್ಲಿ ಹಲ್ಲಿ ಪತ್ತೆ](https://tv9kannada.com/videos/lizard-found-in-kesari-bath-served-at-haveri-district-hospital-canteen-1243308.html)
 - [40 ಕೆಜಿ ತೂಕ ಕಡಿಮೆ ಮಾಡಿಕೊಂಡ ನಟಿ ಖುಷ್ಬು, ಸಾಧ್ಯವಾಗಿದ್ದು ಹೇಗೆ?](https://tv9kannada.com/entertainment/kushboo-sundar-talks-about-weight-loss-journey-1243306.html)
 - [ಗೊಂಚಲು ಗೊಂಚಲು ವಿಕೆಟ್ ಪಡೆದವರ ಪಟ್ಟಿಯಲ್ಲಿ ಕುಲ್ದೀಪ್​ಗೆ 2ನೇ ಸ್ಥಾನ..!](https://tv9kannada.com/photo-gallery/cricket-photos/kuldeep-yadav-4-wickets-vs-west-indies-odi-record-1243298.html)
 - [ಭಾನುವಾರವೂ ಕಚೇರಿಗೆ ಹಾಜರ್! ಬಾಕಿ ಕಡತಗಳ ವಿಲೇವಾರಿ; ಕರ್ತವ್ಯ ಪ್ರಜ್ಞೆ ಮೆರೆದ ತಹಶೀಲ್ದಾರ್, ಸಿಬ್ಬಂದಿ](https://tv9kannada.com/karnataka/dharwad/hubballi-tahsildar-office-staff-work-on-sunday-to-clear-backlog-1243279.html)
@@ -132,8 +134,6 @@
 - [ಮತದಾರರ ನೊಂದಣಿ ಪ್ರಕ್ರಿಯೆಗೆ ಫಾರ್ಮ್ 6 ಜೊತೆಗೆ ಮ್ಯಾಪಿಂಗ್ ಡಿಕ್ಲರೇಶನ್ ಕೊಡಬೇಕಾ? ಚುನಾವಣಾ ಆಯೋಗದಿಂದ ಸ್ಪಷ್ಟನೆ](https://tv9kannada.com/national/eci-clarification-no-mapping-declaration-required-for-form-6-enrollments-in-states-where-sir-not-underway-1243288.html)
 - [ಮೊಹಮ್ಮದ್ ಅಜರುದ್ದೀನ್ ದಾಖಲೆ ಮುರಿದ ವಿರಾಟ್ ಕೊಹ್ಲಿ](https://tv9kannada.com/photo-gallery/cricket-photos/virat-kohli-breaks-azharuddin-odi-record-west-indies-1243278.html)
 - [86 ರೂ. ಔಷಧಿಗೆ 4528 ಎಂಆರ್​​​ಪಿ: ರೋಗಿಗಳನ್ನ ಸುಲಿಗೆ ಮಾಡ್ತಿದ್ದ ಆಸ್ಪತ್ರೆ, ಕಂಪನಿಗಳ ಕಳ್ಳಾಟ ಬಯಲು](https://tv9kannada.com/karnataka/fda-exposes-254-pharma-companies-for-loots-money-from-patients-in-medicine-1243275.html)
-- [ತೊದಲು ನುಡಿಯಲ್ಲೇ ಅಚ್ಚರಿ ಮೂಡಿಸಿದ ಪುಟಾಣಿ: ವೈಷ್ಣವಿಯ ಟ್ಯಾಲೆಂಟ್​ಗೆ ಮನಸೋತ ಇಂಡಿಯಾ ಬುಕ್ ಆಫ್ ರೆಕಾರ್ಡ್ಸ್](https://tv9kannada.com/videos/bagalkot-4-year-old-vaishnavi-kadagad-enters-india-book-of-records-for-exceptional-talent-1243264.html)
-- [4 ವರ್ಷಗಳ ನಂತರ ಚೊಚ್ಚಲ ಏಕದಿನ ಶತಕ ಬಾರಿಸಿದ ಜಸ್ಟಿನ್ ಗ್ರೀವ್ಸ್](https://tv9kannada.com/photo-gallery/cricket-photos/justin-greaves-maiden-odi-century-ind-vs-wi-1st-match-1243262.html)
 
 **Prajavani**
 - [ಕೇಂದ್ರ ಸರ್ಕಾರ ತುರ್ತಾಗಿ ಎಫ್‌ಆರ್‌ಪಿ, ಎಂಎಸ್‌ಪಿ ನಿಗದಿಪಡಿಸಲಿ: ಲಕ್ಷ್ಮಣ ಸವದಿ](https://www.prajavani.net/district/belagavi/laxman-savadi-demands-central-government-fix-sugarcane-frp-and-sugar-msp-4291599)
@@ -148,6 +148,8 @@
 - [ಟಿವಿ ಸ್ಕ್ರೀನ್‌ ಮೇಲೆ ಧೂಳು, ಜಿಡ್ಡು ಇದೆಯಾ? ಈ ರೀತಿ  ಸ್ವಚ್ಛಗೊಳಿಸಿ...](https://www.prajavani.net/miscellaneous/home-decor/how-to-clean-smart-tv-screen-tips-and-precautions-4291276)
 
 **eedina**
+- [ಕೆನಡಾದಲ್ಲಿ ಬೆಳ್ಳಿ ಪದಕ ಗೆದ್ದ ವಿಜಯಪುರದ ಸಚಿನ್ ತುಕಾರಾಮ್ ಸಾಲೊಂಕೆ](https://eedina.com/?p=766976)
+- [ಗ್ಯಾನೇಶ್ ಕುಮಾರ್ ರಾಜೀನಾಮೆ ನೀಡಲಿ: ಇಸಿಐ ವಿವರಣೆ ತಿರಸ್ಕರಿಸಿದ ಸಿಪಿಐಎಂ; ಸಿಇಸಿ ಪದಚ್ಯುತಿಗೆ ಆಗ್ರಹ](https://eedina.com/?p=766977)
 - [ಮುದ್ದೇಬಿಹಾಳ | ದಾಸೋಹಿ ರೈತ ಉತ್ಪಾದಕ ಸಹಕಾರಿ ಸಂಘದ ಆರ್ಥಿಕ ಚಟುವಟಿಕೆ: ಗವಿಸಿದ್ದೇಶ್ವರ ಶ್ರೀಗಳಿಂದ ಚಾಲನೆ](https://eedina.com/?p=766962)
 - [ಮಾನವೀಯತೆಯೇ ಎಲ್ಲ ಧರ್ಮಗಳ ಸಾರ: ಸಿದ್ದರಾಮಯ್ಯ](https://eedina.com/?p=766968)
 - [ಸಮುದ್ರದಲ್ಲಿ ಅಲೆಗಳು ಭೋರ್ಗರೆಯುತ್ತಿರುವಾಗ ಈಜುವುದು ನನಗಿಷ್ಟ: ವೈರಲ್ ಆಯ್ತು ರಾಹುಲ್ ಗಾಂಧಿ ‘X’ ಪೋಸ್ಟ್](https://eedina.com/?p=766964)
@@ -156,39 +158,37 @@
 - [ಬಾಗೇಪಲ್ಲಿ | 13ನೇ ರಾಜ್ಯಮಟ್ಟದ ಡಿ.ವೈ.ಎಫ್.ಐ ಯುವಜನ ಸಮ್ಮೇಳನ ಅಂಗವಾಗಿ ವಿವಿಧ ಜಿಲ್ಲೆಗಳ ಪ್ರತಿನಿಧಿಗಳಿಂದ ವಿಚಾರ ಸಂಕಿರ್ಣ](https://eedina.com/?p=766954)
 - [ಕೋಲಾರ | ನರಸಾಪುರ ಕೆ ಬಿ ಹೊಸಹಳ್ಳಿ ಬಂಡೆಯಲ್ಲಿ ಯಲಹಂಕ ಬಾಗಲೂರು ಮೂಲದ ಲಾರಿ ಚಾಲಕನ ಸಾವು](https://eedina.com/?p=766946)
 - [ಹುಬ್ಬಳ್ಳಿ | ಸಾರಿಗೆ ಸಂಸ್ಥೆ ಚಾಲಕ ಆತ್ಮಹತ್ಯೆ](https://eedina.com/?p=766926)
-- [ಯುಪಿಐ ಪಾವತಿ ಮೇಲೆ MDR ಶುಲ್ಕ: ಕೇಂದ್ರದ ನಿರ್ಧಾರ ಪ್ರಶ್ನಿಸಿ ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ಗೆ ಅರ್ಜಿ, ಸೆ. 28ರಂದು ವಿಚಾರಣೆ](https://eedina.com/?p=766940)
-- [ಬಾಗೇಪಲ್ಲಿ | ಬರ ಘೋಷಣೆ ರೈತರಿಗೆ ಮಾಡಿದ ಅವಮಾನ: ಚನ್ನರಾಯಪ್ಪ ಟೀಕೆ](https://eedina.com/?p=766938)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Delhi (5.5)
 - Emkay Global Financial (5.0)
-- India (4.2)
-- Parvesh Verma (3.0)
+- target (3.3)
 - ICICI Securities (3.0)
-- target (3.0)
 - September (2.6)
-- Mangaluru (2.6)
+- Bihar (2.6)
+- Kalaburagi (2.6)
+- Keralam (2.6)
 - Tamil Nadu (2.0)
-- CEC Gyanesh Kumar (2.0)
+- Asian Games (2.0)
+- Chief Of Defence (2.0)
+- Parvesh Verma (2.0)
 - Buy Bajaj Finance (2.0)
+- Summit (1.9)
 - Global (1.8)
-- Minister (1.6)
-- Ukraine (1.6)
-- Adani (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Turkish actors Emin Günenç and İlsu Demirci on global popularity of Arafta, gruelling shoots, massive fandom | Interview](https://www.hindustantimes.com/entertainment/others/exclusive-turkish-actors-emin-g-nen-lsu-demirci-on-global-popularity-of-arafta-gruelling-shoots-fandom-aamir-khan-fan-101790430414296.html)
-- ['AI में चीन से बहुत आगे हैं...', शी जिनपिंग से बातचीत के बाद बोले ट्रंप- चीन के साथ 'इंटीग्रेट' नहीं करेंगे](https://www.aajtak.in/world/story/trump-rejects-ai-partnership-with-china-after-xi-jinping-visit-ntc-dhrj-dskc-2654216-2026-09-27)
-- [रवि किशन से जुड़े वायरल वीडियो पर कांग्रेस ने क्या कहा](https://www.bbc.com/hindi/live/ck5ylllqvr2gt)
-- [തുടക്കം ഉറക്കത്തിൽ നിന്ന്, കടന്നു പോകുന്നത് ഗുരുതര രോഗാവസ്ഥയിലൂടെ... വെളിപ്പെടുത്തലുമായി നടൻ!](https://www.manoramaonline.com/health/mental-health/2026/09/26/anupam-kher-mental-health-reveal.html)
-- [70 हजार का Galaxy S25 Ultra और 1.09 लाख रुपये का iPhone 17 Pro, अमेजन-फ्लिपकार्ट सेल की डील्स लीक](https://navbharattimes.indiatimes.com/tech/gadgets-news/amazon-great-indian-festival-deal-2026-flipkart-big-billion-days-sale-deal-reveal-iphone-17-pro-on-one-lakh-nine-thousand-and-samsung-galaxy-s25-ultra-under-70000/articleshow/134499636.cms)
-- [What if the potential Man City sanctions push Erling Haaland to leave?](https://www.bavarianfootballworks.com/transfer-rumors/260908/what-if-the-potential-manchester-city-sanctions-push-erling-haaland-to-psg-real-madrid-or-fc-barcelona)
-- [घर के फर्श के नीचे दफन था राज: मध्य प्रदेश में महिला ने पति को उतारा मौत के घाट, बेडरूम में गड्ढा खोदकर गाड़ा शव](https://www.jagran.com/news/national-woman-kills-husband-in-madhya-pradesh-40386525.html)
-- [KBC 18: अमिताभ बच्चन से मिलने आया था आतंकी कसाब? Big B का फूटा गुस्सा, बोले- गोली मार देता](https://www.aajtak.in/entertainment/television/story/kaun-banega-crorepati-18-amitabh-bachchan-angry-says-shot-ajmal-kasab-ujjwal-nikam-reveals-terrorist-came-mumbai-meet-big-b-tmovb-dskc-2654165-2026-09-27)
-- [साबरमती से चलेगी देश की पहली LNG ट्रेन, हर साल होगी करीब 12 लाख रुपये की बचत](https://www.abplive.com/utility-news/first-lng-train-to-start-from-sabarmati-home-minister-amit-shah-to-launch-first-ride-on-27-september-3194235)
-- [Asian Games 2026 Day 8 Live: स्क्वैश मेें आज आएगा डबल गोल्ड, एथेलिटक्स में भी बड़ी उम्मीदें](https://www.aajtak.in/sports/asian-games/story/asian-games-2026-day-8-live-updates-27-september-india-schedule-results-athletics-squash-badminton-medal-tally-tspoa-aksp-2654214-2026-09-27)
+- [தலைமை தேர்தல் ஆணையர் பதவி விலகலை தீவிரப்படுத்த செப்.30-ல் இண்டியா கூட்டணி ஆலோசனை கூட்டம்](https://www.hindutamil.in/news/india/india-bloc-to-meet-on-september-30-to-push-for-chief-election-commissioner-resignation)
+- [Child rights panel seeks report on measles deaths in Keralam’s Malappuram](https://www.thehindu.com/news/national/kerala/child-rights-panel-seeks-report-on-measles-deaths-in-keralams-malappuram/article71513301.ece)
+- [Asian Games 2026 Day 9 LIVE Updates — Treesa-Gayatri crash out; Archery compound teams reach semis; Manu Bhaker fails to impress in women's 25m pistol event](https://sportstar.thehindu.com/asian-games/news/asian-games-2026-day-9-live-updates-september-27-news-highlights-medals/article71515069.ece)
+- [ഫൈനലിലേക്ക് ഉന്നം വച്ച് പുരുഷ, വനിത കോമ്പൗണ്ട് ആർച്ചറി ടീമുകൾ; അമ്പെയ്‌ത്തിൽ ഇന്ത്യ സെമിയിൽ](https://www.etvbharat.com/ml/sports/asian-games-2026-indian-men-women-compound-archery-kls26092700356)
+- [तेज प्रताप यादव ने स्वरा भास्कर को कहा 'मोटी', एक्ट्रेस बोलीं- लालू यादव से मिलवाओ](https://www.aajtak.in/entertainment/ott/story/tej-pratap-yadav-called-swara-bhasker-moti-actress-reacts-body-shaming-want-meet-lalu-prasad-yadav-rise-and-fall-tmovb-dskc-2654156-2026-09-27)
+- [ஆசிய விளையாட்டு போட்டி: கபடியில் இந்தியாவுக்கு இரட்டை தங்கம்](https://www.hindutamil.in/news/sports/asian-games-double-gold-for-indian-kabaddi-team)
+- [അച്ഛന്റെ മരണ സർട്ടിഫിക്കറ്റിനെത്തിയ 22 കാരിക്ക് അശ്ലീല സന്ദേശം; രാത്രി വീട്ടിൽ കയറിയ വില്ലേജ് ഓഫീസറെ നാട്ടുകാർ പിടികൂടി](https://malayalam.news18.com/news/kerala/village-officer-arrested-in-kannur-over-obscene-messages-to-woman-seeking-father-s-death-certificate-sbs-ws-l-790153.html)
+- [UP से हिमाचल तक बारिश का तांडव! कई राज्यों में बाढ़ जैसे हालात, फसलें-मकान बर्बाद](https://www.aajtak.in/india/news/story/delhi-ncr-weather-update-heavy-rain-floods-up-bihar-uttarakhand-crops-destroyed-ntc-drmt-dskc-2654213-2026-09-27)
+- [പാകിസ്താനിലെ പൊലീസ് ചെക്ക് പോസ്റ്റിൽ ചാവേറാക്രമണം; 12 പേർ മരിച്ചതായി റിപ്പോർട്ട്](https://www.reporterlive.com/topnews/international/2026/09/27/pakistan-suicide-attack-dera-ismail-khan-12-killed)
+- [സ്ക്രിപ്റ്റിൽ ഇല്ലാത്ത സീൻ, കാല് മടക്കിക്കെട്ടി ഒറിജിനൽ ആശുപത്രിയിൽ ഷൂട്ടിങ്, കൺട്രോൾ വിട്ട് കരഞ്ഞു; അഞ്ജലി](https://www.reporterlive.com/entertainment/entertainment-news/2026/09/27/actress-anjali-reveals-emotional-trauma-during-filming-couldnt-stop-crying-after-cut)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
