@@ -1,13 +1,8 @@
 {
-  "generated_at": "2026-09-27 21:34:32",
+  "generated_at": "2026-09-27 22:01:56",
   "google_trends": [
     {
       "title": "germany vs",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "germany national football team",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
@@ -18,11 +13,6 @@
     },
     {
       "title": "renato veiga",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "8\u0935\u0947\u0902 \u0935\u0947\u0924\u0928 \u0906\u092f\u094b\u0917 \u0938\u0948\u0932\u0930\u0940",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
@@ -50,6 +40,16 @@
       "title": "norway national football team vs portugal national football team standings",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "portugal football",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "diogo costa",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
     }
   ],
   "outlets": {
@@ -59,8 +59,8 @@
         "link": "https://timesofindia.indiatimes.com/city/chandigarh/lpu-row-escalates-police-lathicharge-students-after-highway-blockade-stone-pelting-reported/articleshow/134522175.cms"
       },
       {
-        "title": "Proposed bank strike deferred after talks between bank body and unions",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/proposed-bank-strike-deferred-after-talks-between-bank-body-and-unions/articleshow/134524605.cms"
+        "title": "Bank unions call off 3-day strike after assurances, IBA to study demands",
+        "link": "https://timesofindia.indiatimes.com/india/bank-unions-call-off-3-day-strike-after-assurances-iba-to-study-demands/articleshow/134526239.cms"
       },
       {
         "title": "5 held in UK for suspected plot to attack air base used by US",
@@ -71,20 +71,20 @@
         "link": "https://timesofindia.indiatimes.com/world/middle-east/4-iranian-experts-killed-in-taiz-as-yemen-army-unleashes-756-operation-offensive-against-houthis/articleshow/134525782.cms"
       },
       {
-        "title": "Boeing flags 737 MAX glitch that may turn off auto pilot",
-        "link": "https://timesofindia.indiatimes.com/india/boeing-flags-737-max-glitch-that-may-turn-off-auto-pilot/articleshow/134526139.cms"
-      },
-      {
         "title": "New Green Card rules from September: Categories affected and those exempt",
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/new-green-card-rules-that-came-into-effect-starting-this-september-list-of-categories-subject-to-the-changes-and-those-that-are-not-impacted/articleshow/134515826.cms"
       },
       {
-        "title": "BJP CMs counter-attack, demand opposition apology for its 'fabricated' campaign",
-        "link": "https://timesofindia.indiatimes.com/india/bjp-cms-counter-attack-demand-oppn-apology-for-its-fabricated-campaign/articleshow/134526204.cms"
+        "title": "Boeing flags 737 MAX glitch that may turn off auto pilot",
+        "link": "https://timesofindia.indiatimes.com/india/boeing-flags-737-max-glitch-that-may-turn-off-auto-pilot/articleshow/134526139.cms"
       },
       {
         "title": "$17.1M to restore 206,000 acres, 225 miles for wildlife movement in West",
         "link": "https://timesofindia.indiatimes.com/science/wildlife/fourteen-us-projects-will-restore-or-protect-wildlife-movement-across-more-than-206000-acres-and-improve-225-miles-of-fencing-after-a-new-17-1-million-conservation-investment-across-the-west/articleshow/134514775.cms"
+      },
+      {
+        "title": "BJP CMs counter-attack, demand opposition apology for its 'fabricated' campaign",
+        "link": "https://timesofindia.indiatimes.com/india/bjp-cms-counter-attack-demand-oppn-apology-for-its-fabricated-campaign/articleshow/134526204.cms"
       },
       {
         "title": "SIR tweaks proof of 'disaster', says Congress",
@@ -520,12 +520,12 @@
   },
   "keywords": [
     {
-      "term": "September",
-      "score": 5.2
+      "term": "Bank",
+      "score": 5.5
     },
     {
-      "term": "Bank",
-      "score": 4.2
+      "term": "September",
+      "score": 5.2
     },
     {
       "term": "strike",
@@ -538,10 +538,6 @@
     {
       "term": "Lovely Professional University",
       "score": 2
-    },
-    {
-      "term": "bank",
-      "score": 1.8
     },
     {
       "term": "Congress",
@@ -564,63 +560,67 @@
       "score": 1.6
     },
     {
-      "term": "deferred",
-      "score": 1.5
-    },
-    {
       "term": "Stones",
       "score": 1.3
     },
     {
-      "term": "Proposed",
+      "term": "Yemeni",
       "score": 1.3
     },
     {
-      "term": "Yemeni",
+      "term": "Iranian",
+      "score": 1.3
+    },
+    {
+      "term": "Taiz",
+      "score": 1.3
+    },
+    {
+      "term": "Categories",
       "score": 1.3
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u0d12\u0d15\u0d4d\u0d1f\u0d4b\u0d2c\u0d30\u0d4d\u200d \u0d30\u0d23\u0d4d\u0d1f\u0d3f\u0d28\u0d4d \u0d24\u0d28\u0d4d\u0d28\u0d46, \u0d06\u0d37\u0d4d\u200c\u0d32\u0d3f\u0d2f\u0d41\u0d02 \u0d1c\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d3f\u0d28\u0d41\u0d02 \u0d15\u0d41\u0d1f\u0d41\u0d02\u0d2c \u0d2f\u0d42\u0d23\u0d3f\u0d31\u0d4d\u0d31\u0d41\u0d02 \u0d12.\u0d1f\u0d3f.\u0d1f\u0d3f\u0d2f\u0d3f\u0d32\u0d47\u0d15\u0d4d\u0d15\u0d4d",
-      "link": "https://www.doolnews.com/bethlehem-kudumba-unit-ott-streaming-date-out-64-159.html"
+      "title": "Soni Razdan On Career Downfall After Married With Mahesh Bhatt ; \u092e\u0939\u0947\u0936 \u092d\u091f\u094d\u091f \u092f\u093e\u0902\u091a\u0940 \u0926\u0941\u0938\u0930\u0940 \u092c\u093e\u092f\u0915\u094b \u092c\u0928\u0932\u094d\u092f\u093e\u0935\u0930 \u0906\u0932\u093f\u092f\u093e\u091a\u094d\u092f\u093e \u0906\u0908\u0932\u093e \u092d\u094b\u0917\u093e\u0935\u0932\u093e \u0932\u093e\u0917\u0932\u093e \u0924\u094d\u0930\u093e\u0938, \u092c\u0939\u0930\u0932\u0947\u0932\u0902 \u0915\u0930\u093f\u092f\u0930 \u092a\u093e\u0923\u094d\u092f\u093e\u0924, \u0938\u094b\u0928\u0940 \u0930\u093e\u091c\u0926\u093e\u0928 \u092f\u093e\u0902\u091a\u0940 \u0916\u0902\u0924",
+      "link": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/soni-razdan-talked-on-career-downfall-after-married-with-mahesh-bhatt/articleshow/134517969.cms"
     },
     {
-      "title": "\u09ae\u09be\u09b0\u09cd\u0995\u09bf\u09a8 \u09ac\u09be\u09b9\u09bf\u09a8\u09c0\u09b0 \u09ac\u09cd\u09af\u09ac\u09b9\u09c3\u09a4 \u09ac\u09bf\u09ae\u09be\u09a8\u0998\u09be\u0981\u099f\u09bf\u09b0 \u0995\u09be\u099b\u09c7 \u09ac\u09be\u09dc\u09bf\u0998\u09b0 \u0996\u09be\u09b2\u09bf \u0995\u09b0\u099b\u09c7 \u09af\u09c1\u0995\u09cd\u09a4\u09b0\u09be\u099c\u09cd\u09af \u09aa\u09c1\u09b2\u09bf\u09b6",
-      "link": "https://www.banglatelegraph.com/article/225711"
+      "title": "South Africa shootings: 27 killed, 26 wounded in separate attacks near Johannesburg, Cape Town",
+      "link": "https://www.moneycontrol.com/world/south-africa-bar-shooting-17-killed-15-wounded-as-gunmen-open-fire-near-johannesburg-article-14039268.html"
     },
     {
-      "title": "23 \u0914\u0930 \u0938\u0948\u0928\u094d\u092f \u091f\u0948\u0902\u0915 \u0915\u0947 \u090a\u092a\u0930 \u091a\u0922\u093c\u0947 LPU \u0915\u0947 \u091b\u093e\u0924\u094d\u0930, \u092b\u0917\u0935\u093e\u0921\u093c\u093e \u092e\u0947\u0902 \u0909\u0917\u094d\u0930 \u0939\u0941\u0906 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928",
-      "link": "https://www.jagran.com/punjab/jalandhar-city-lpu-protest-students-climb-mig-23-tank-know-his-demand-investigation-sit-formed-40386903.html"
+      "title": "'Hanuman Ansh' box office collection Day 52 [LIVE]: Neem Karoli Baba film earned net of Rs 3.03 crore so far today",
+      "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-52-live-neem-karoli-baba-film-earned-net-of-rs-3-03-crore-so-far-today/articleshow/134518133.cms"
     },
     {
-      "title": "'Important To Also See How Your Ally Talks To Your Enemy': Security Expert",
-      "link": "https://www.ndtv.com/india-news/ndtv-defence-summit-2026-important-to-also-see-how-your-ally-talks-to-your-enemy-security-expert-12104839"
+      "title": "'Didn't collect ID documents': Guwahati homestay where student, \u2018lover\u2019 stayed 5 times in a month sealed",
+      "link": "https://timesofindia.indiatimes.com/city/guwahati/didnt-collect-id-documents-guwahati-homestay-where-student-lover-stayed-5-times-in-a-month-sealed/articleshow/134517902.cms"
     },
     {
-      "title": "Experts discuss vaccine schedules, missed doses and common misconceptions",
-      "link": "https://www.thehindu.com/sci-tech/health/experts-discuss-vaccine-schedules-missed-doses-and-common-misconceptions/article71515542.ece"
+      "title": "\u0a30\u0a4b\u0a2e\u0a3e\u0a02\u0a1f\u0a3f\u0a15 \u0a10\u0a15\u0a38\u0a3c\u0a28 \u0a21\u0a30\u0a3e\u0a2e\u0a3e \u0a2b\u0a3f\u0a32\u0a2e \u2018Anbil Avan\u2019 \u0a28\u0a42\u0a70 U/A \u0a38\u0a30\u0a1f\u0a40\u0a2b\u0a3f\u0a15\u0a47\u0a1f \u0a28\u0a3e\u0a32 \u0a30\u0a3f\u0a32\u0a40\u0a1c\u0a3c \u0a32\u0a08 \u0a2e\u0a3f\u0a32\u0a40 \u0a2e\u0a28\u0a1c\u0a3c\u0a42\u0a30\u0a40",
+      "link": "https://wishavwarta.in/anbil-avan-cleared-for-release-with-u-a-certificate/"
     },
     {
-      "title": "\u0b95\u0b9f\u0bc8\u0b9a\u0bbf \u0b92\u0bb0\u0bc1\u0ba8\u0bbe\u0bb3\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf: \u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bbf\u0b99\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bc1",
-      "link": "https://www.dailythanthi.com/sports/cricket/final-odi-england-choose-batting"
+      "title": "Stock market prediction: Experts see more pain ahead but see bottom in Oct 2026 amid Nifty, Sensex poor show - 3 reasons",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-experts-see-more-pain-ahead-but-see-bottom-in-oct-2026-amid-nifty-sensex-poor-show-3-reasons-11790495351548.html"
     },
     {
-      "title": "\u09e7 \u0985\u0995\u09cd\u099f\u09cb\u09ac\u09b0 \u09a5\u09c7\u0995\u09c7 \u09ac\u09be\u09a1\u09bc\u099b\u09c7 AC, TV \u09ab\u09cd\u09b0\u09bf\u099c\u09c7\u09b0 \u09a6\u09be\u09ae, \u0996\u09b0\u099a \u0995\u09a4 \u09ac\u09be\u09a1\u09bc\u09ac\u09c7?",
-      "link": "https://eisamay.com/business/business-news/ac-tv-refrigerator-washing-machine-price-hike-october-1-festive-season/200548044.cms"
+      "title": "BJP Nitin Nabin \u09a6\u09b2\u09ac\u09bf\u09b0\u09cb\u09a7\u09c0\u09a6\u09c7\u09b0 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6 \u09b0\u09c1\u0996\u09a4\u09c7 \u0995\u09a1\u09bc\u09be \u09a8\u099c\u09b0, \u0995\u09b0\u09cd\u09ae\u09c0\u09a6\u09c7\u09b0 \u09a8\u09ae\u09cd\u09b0\u09ad\u09be\u09ac\u09c7 \u0995\u09be\u099c\u09c7\u09b0 \u09a8\u09bf\u09b0\u09cd\u09a6\u09c7\u09b6 \u09a8\u09bf\u09a4\u09bf\u09a8 \u09a8\u09ac\u09c0\u09a8\u09c7\u09b0",
+      "link": "https://bengali.news18.com/news/kolkata/bjp-nitin-nabin-instructs-district-leadership-to-stop-infiltration-in-party-rc-2908892.html"
     },
     {
-      "title": "Asian Games: Sindhu Criticises Badminton Schedule And Lack Of Hawk-Eye",
-      "link": "https://m.rediff.com/sports/report/sindhu-criticizes-asian-games-badminton-scheduling-and-lack-of-hawk-eye/20260927.htm"
+      "title": "\u0bae\u0ba4\u0bc1\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0b95\u0bae\u0bcd \u0b95\u0bbf\u0bb1\u0bbf\u0bb8\u0bcd\u0ba4\u0bb5 \u0b86\u0bb2\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0bae\u0bc1\u0b95 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0baa\u0bb0\u0ba8\u0bcd\u0ba4\u0bbe\u0bae\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc7\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1: \u0b87\u0ba9\u0bbf\u0b95\u0bcb \u0b87\u0bb0\u0bc1\u0ba4\u0baf\u0bb0\u0bbe\u0b9c\u0bcd \u0baa\u0bbf\u0bb0\u0b9a\u0bbe\u0bb0\u0bae\u0bcd",
+      "link": "https://www.dinakaran.com/news/maduranthakam-christianchurch-dmkcandidate-paranthaman-inigoirudayaraj/"
     },
     {
-      "title": "Secretariat Employees Protest: \u0c38\u0c1a\u0c3f\u0c35\u0c3e\u0c32\u0c2f \u0c09\u0c26\u0c4d\u0c2f\u0c4b\u0c17\u0c41\u0c32 \u0c1a\u0c32\u0c4b \u0c35\u0c3f\u0c1c\u0c2f\u0c35\u0c3e\u0c21 \u0c27\u0c30\u0c4d\u0c28\u0c3e\u0c32\u0c4b \u0c09\u0c26\u0c4d\u0c30\u0c3f\u0c15\u0c4d\u0c24\u0c24.. \u0c06\u0c02\u0c26\u0c4b\u0c33\u0c28\u0c15\u0c3e\u0c30\u0c41\u0c32 \u0c05\u0c30\u0c46\u0c38\u0c4d\u0c1f\u0c4d!",
-      "link": "https://telugu.abplive.com/andhra-pradesh/secretariat-employees-protest-in-vijayawada-tensions-rise-as-police-detain-demonstrators-at-dharna-chowk-260071"
+      "title": "Three matches in 24 hours! PV Sindhu criticises Asian Games badminton schedule",
+      "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/three-matches-in-24-hours-pv-sindhu-criticises-asian-games-badminton-schedule/articleshow/134517977.cms"
     },
     {
-      "title": "Dalal Street Week Ahead: US-Iran situation, crude oil prices among 10 key factors to watch",
-      "link": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-us-iran-situation-crude-oil-prices-among-10-key-factors-to-watch-14039225.html"
+      "title": "''\u0b9c\u0bc6\u0bae\u0bcd \u0bb5\u0bc0\u0bb0\u0bae\u0ba3\u0bbf\u0baf\u0bbe\u0bb2\u0bcd \u0b8e\u0ba9\u0bcd \u0bae\u0b95\u0bb3\u0bcd \u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0bb3\u0bcd!\"- 10 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0ba4\u0bbe\u0baf\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0baa\u0bc1\u0b95\u0bbe\u0bb0\u0bcd",
+      "link": "https://www.vikatan.com/government-and-politics/governance/gem-granites-veeramani-pocso-case-ice-house-mother-complaint"
     }
   ],
   "twitter": null
