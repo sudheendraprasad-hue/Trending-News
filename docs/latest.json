@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-09-27 22:01:56",
+  "generated_at": "2026-09-27 22:35:42",
   "google_trends": [
+    {
+      "title": "columbus vs inter miami",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "income tax audit",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "germany vs",
       "traffic": null,
@@ -22,11 +32,6 @@
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "tax audit extension",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
       "title": "bolivia vs paraguay",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
@@ -37,17 +42,12 @@
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
-      "title": "norway national football team vs portugal national football team standings",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "portugal football",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
       "title": "diogo costa",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "francisco concei\u00e7\u00e3o",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     }
@@ -55,8 +55,12 @@
   "outlets": {
     "Times of India": [
       {
-        "title": "LPU row escalates: Stones pelted, vehicles set on fire as police lathicharge students",
-        "link": "https://timesofindia.indiatimes.com/city/chandigarh/lpu-row-escalates-police-lathicharge-students-after-highway-blockade-stone-pelting-reported/articleshow/134522175.cms"
+        "title": "Panda-monium: When diplomacy goes to the dogs, horses, and elephants",
+        "link": "https://timesofindia.indiatimes.com/world/us/panda-monium-when-diplomacy-goes-to-the-dogs-horses-and-elephants/articleshow/134522097.cms"
+      },
+      {
+        "title": "LPU protests: Over 2,000 police deployed after stone-pelting, vehicles set ablaze",
+        "link": "https://timesofindia.indiatimes.com/india/lpu-unrest-over-2000-police-deployed-after-stone-pelting-vehicles-set-ablaze/articleshow/134528785.cms"
       },
       {
         "title": "Bank unions call off 3-day strike after assurances, IBA to study demands",
@@ -89,10 +93,6 @@
       {
         "title": "SIR tweaks proof of 'disaster', says Congress",
         "link": "https://timesofindia.indiatimes.com/india/akhilesh-to-skip-india-bloc-meet-on-sept-30-sir-tweaks-proof-of-disaster-says-congress/articleshow/134526193.cms"
-      },
-      {
-        "title": "India to attend SCO officials' meeting in Pakistan",
-        "link": "https://timesofindia.indiatimes.com/india/india-to-attend-sco-officials-meeting-in-pakistan/articleshow/134526093.cms"
       }
     ],
     "NDTV": [
@@ -265,6 +265,10 @@
     ],
     "Livemint": [
       {
+        "title": "Could your protein powder cost more? The US-Canada trade war is putting whey at risk",
+        "link": "https://www.livemint.com/news/us-news/could-your-protein-powder-cost-more-the-us-canada-trade-war-is-putting-whey-at-risk-11790545872835.html"
+      },
+      {
         "title": "Bank employees worked on Sunday but Monday strike deferred; change in plan triggers meme fest online",
         "link": "https://www.livemint.com/news/trends/bank-employees-worked-on-sunday-but-monday-strike-deferred-change-in-plan-triggers-meme-fest-online-11790534100063.html"
       },
@@ -299,10 +303,6 @@
       {
         "title": "Daylight Saving Time 2026: Why Americans will get an extra hour on November 1 after Halloween",
         "link": "https://www.livemint.com/news/us-news/daylight-saving-time-2026-why-americans-will-get-an-extra-hour-on-november-1-after-halloween-11790518620317.html"
-      },
-      {
-        "title": "Bengaluru traffic gets worse? Cars queue up inside society as users say \u2018never come out ever\u2019",
-        "link": "https://www.livemint.com/news/trends/bengaluru-traffic-gets-worse-cars-queue-up-inside-society-as-users-say-never-come-out-ever-11790519254418.html"
       }
     ],
     "Moneycontrol": [],
@@ -532,10 +532,6 @@
       "score": 2.7
     },
     {
-      "term": "Bengaluru",
-      "score": 2.6
-    },
-    {
       "term": "Lovely Professional University",
       "score": 2
     },
@@ -560,7 +556,11 @@
       "score": 1.6
     },
     {
-      "term": "Stones",
+      "term": "Panda-monium",
+      "score": 1.3
+    },
+    {
+      "term": "When",
       "score": 1.3
     },
     {
@@ -583,44 +583,44 @@
   "newsapi": [],
   "gnews": [
     {
-      "title": "Soni Razdan On Career Downfall After Married With Mahesh Bhatt ; \u092e\u0939\u0947\u0936 \u092d\u091f\u094d\u091f \u092f\u093e\u0902\u091a\u0940 \u0926\u0941\u0938\u0930\u0940 \u092c\u093e\u092f\u0915\u094b \u092c\u0928\u0932\u094d\u092f\u093e\u0935\u0930 \u0906\u0932\u093f\u092f\u093e\u091a\u094d\u092f\u093e \u0906\u0908\u0932\u093e \u092d\u094b\u0917\u093e\u0935\u0932\u093e \u0932\u093e\u0917\u0932\u093e \u0924\u094d\u0930\u093e\u0938, \u092c\u0939\u0930\u0932\u0947\u0932\u0902 \u0915\u0930\u093f\u092f\u0930 \u092a\u093e\u0923\u094d\u092f\u093e\u0924, \u0938\u094b\u0928\u0940 \u0930\u093e\u091c\u0926\u093e\u0928 \u092f\u093e\u0902\u091a\u0940 \u0916\u0902\u0924",
-      "link": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/soni-razdan-talked-on-career-downfall-after-married-with-mahesh-bhatt/articleshow/134517969.cms"
+      "title": "'\u0d2c\u0d46\u0d24\u0d4d\u200c\u0d32\u0d39\u0d47\u0d02 \u0d15\u0d41\u0d1f\u0d41\u0d02\u0d2c \u0d2f\u0d42\u0d23\u0d3f\u0d31\u0d4d\u0d31\u0d3f'\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d12\u0d1f\u0d3f\u0d1f\u0d3f \u0d31\u0d3f\u0d32\u0d40\u0d38\u0d4d \u0d24\u0d3f\u0d2f\u0d24\u0d3f \u0d0e\u0d24\u0d4d\u0d24\u0d3f",
+      "link": "https://www.asianetnews.com/entertainment-news/nivin-pauly-movie-bethlehem-kudumba-unit-ott-streaming-from-october-2-on-jiohotstar-articleshow-0sx46xr"
     },
     {
-      "title": "South Africa shootings: 27 killed, 26 wounded in separate attacks near Johannesburg, Cape Town",
-      "link": "https://www.moneycontrol.com/world/south-africa-bar-shooting-17-killed-15-wounded-as-gunmen-open-fire-near-johannesburg-article-14039268.html"
+      "title": "Virender Sehwag Sara Gurpal: '\u0915\u094d\u0930\u093f\u0915\u0947\u091f\u0930\u094d\u0938 \u092e\u0932\u093e \u092e\u0947\u0938\u0947\u091c \u0915\u0930\u0924\u093e\u0924'; Reality \u0936\u094b\u092e\u0927\u094d\u092f\u0947 \u0926\u093e\u0916\u0935\u0932\u0947 \u091a\u0945\u091f, \u0935\u0940\u0930\u0947\u0902\u0926\u094d\u0930 \u0938\u0947\u0939\u0935\u093e\u0917 \u092e\u094d\u0939\u0923\u093e\u0932\u0947, '\u092e\u094d\u0939\u0923\u0942\u0928 \u0930\u0928 \u0939\u094b\u0924 \u0928\u093e\u0939\u0940\u0924...'",
+      "link": "https://marathi.abplive.com/entertainment/sara-gurpal-reveals-cricketers-slide-into-her-dms-virender-sehwags-savage-comment-steals-the-show-1440420"
     },
     {
-      "title": "'Hanuman Ansh' box office collection Day 52 [LIVE]: Neem Karoli Baba film earned net of Rs 3.03 crore so far today",
-      "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-52-live-neem-karoli-baba-film-earned-net-of-rs-3-03-crore-so-far-today/articleshow/134518133.cms"
+      "title": "\u0d2a\u0d4d\u0d30\u0d3f\u0d2f\u0d26\u0d7c\u0d36\u0d3f\u0d28\u0d3f \u0d2c\u0d38\u0d3f\u0d7d \u0d2a\u0d46\u0d7a\u0d15\u0d41\u0d1f\u0d4d\u0d1f\u0d3f\u0d2f\u0d46 \u0d05\u0d2a\u0d2e\u0d3e\u0d28\u0d3f\u0d1a\u0d4d\u0d1a \u0d38\u0d02\u0d2d\u0d35\u0d02; \u0d28\u0d1f\u0d2a\u0d1f\u0d3f\u0d15\u0d4d\u0d15\u0d4d \u0d28\u0d3f\u0d7c\u0d26\u0d47\u0d36\u0d02 \u0d28\u0d7d\u0d15\u0d3f \u0d2e\u0d41\u0d16\u0d4d\u0d2f\u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f",
+      "link": "https://www.newsmalayalam.com/newsroom/kerala/incident-involving-the-harassment-of-a-girl-on-the-priyadarshini-bus-chief-minister-orders-action"
     },
     {
-      "title": "'Didn't collect ID documents': Guwahati homestay where student, \u2018lover\u2019 stayed 5 times in a month sealed",
-      "link": "https://timesofindia.indiatimes.com/city/guwahati/didnt-collect-id-documents-guwahati-homestay-where-student-lover-stayed-5-times-in-a-month-sealed/articleshow/134517902.cms"
+      "title": "Vidyanand Bapat : \u0935\u093f\u0926\u094d\u092f\u093e\u0928\u0902\u0926 \u092c\u093e\u092a\u091f\u093e\u0902\u091a\u093e \u092d\u093e\u0937\u0923\u093e\u091a\u094d\u092f\u093e \u0938\u0941\u0930\u0941\u0935\u093e\u0924\u0940\u0932\u093e \u092a\u094d\u0930\u0936\u094d\u0928, \u092e\u094d\u0939\u0923\u093e\u0932\u0947, '\u0907\u0925\u0947 \u0915\u094b\u0923 \u0915\u094b\u0923 \u092a\u0947\u0920\u0947\u0924\u0942\u0928 \u0906\u0932\u0902\u092f?' \u0909\u0924\u094d\u0924\u0930 \u092e\u093f\u0933\u0924\u093e\u091a \u0939\u0938\u0932\u0947 \u0905\u0928\u094d \u092e\u094d\u0939\u0923\u093e\u0932\u0947..",
+      "link": "https://marathi.abplive.com/news/pune/vidyanand-bapat-pune-dj-sound-controversy-amol-palekar-felicitation-speech-peth-residents-150-years-old-lifestyle-roads-festivals-maharashtra-marathi-news-1440422"
     },
     {
-      "title": "\u0a30\u0a4b\u0a2e\u0a3e\u0a02\u0a1f\u0a3f\u0a15 \u0a10\u0a15\u0a38\u0a3c\u0a28 \u0a21\u0a30\u0a3e\u0a2e\u0a3e \u0a2b\u0a3f\u0a32\u0a2e \u2018Anbil Avan\u2019 \u0a28\u0a42\u0a70 U/A \u0a38\u0a30\u0a1f\u0a40\u0a2b\u0a3f\u0a15\u0a47\u0a1f \u0a28\u0a3e\u0a32 \u0a30\u0a3f\u0a32\u0a40\u0a1c\u0a3c \u0a32\u0a08 \u0a2e\u0a3f\u0a32\u0a40 \u0a2e\u0a28\u0a1c\u0a3c\u0a42\u0a30\u0a40",
-      "link": "https://wishavwarta.in/anbil-avan-cleared-for-release-with-u-a-certificate/"
+      "title": "\u0a95\u0a9a\u0acd\u0a9b \u0aa8\u0ac0\u0ab2\u0aaa\u0ab0 \u0ab6\u0abe\u0ab3\u0abe \u0aa6\u0ac1\u0ab7\u0acd\u0a95\u0ab0\u0acd\u0aae \u0a95\u0ac7\u0ab8: \u0aab\u0ab0\u0abe\u0ab0 \u0a86\u0a9a\u0abe\u0ab0\u0acd\u0aaf \u0ab5\u0abf\u0aaa\u0ac1\u0ab2 \u0a97\u0acb\u0ab9\u0abf\u0ab2 \u0a86\u0aa3\u0a82\u0aa6\u0aa8\u0abe \u0ab8\u0acb\u0a9c\u0ac0\u0aa4\u0acd\u0ab0\u0abe\u0aa5\u0ac0 \u0a9d\u0aa1\u0aaa\u0abe\u0aaf\u0acb, \u0a97\u0ac3\u0ab9\u0aae\u0abe\u0aa4\u0abe \u0ab8\u0ab9\u0abf\u0aa4 3 \u0ab8\u0abe\u0aae\u0ac7 \u0a97\u0ac1\u0aa8\u0acb \u0aa8\u0acb\u0a82\u0aa7\u0abe\u0aaf\u0acb",
+      "link": "https://www.gujaratsamachar.com/news/kutch/kutchs-nilpar-school-case-absconding-principal-vipul-gohil-arrested-from-sojitra-crime-registered-against-three-including-housewife-10267064585"
     },
     {
-      "title": "Stock market prediction: Experts see more pain ahead but see bottom in Oct 2026 amid Nifty, Sensex poor show - 3 reasons",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-experts-see-more-pain-ahead-but-see-bottom-in-oct-2026-amid-nifty-sensex-poor-show-3-reasons-11790495351548.html"
+      "title": "Asian Games 2026 Day 9 Live: \u0938\u0930\u094d\u0935\u0947\u0936 \u0915\u0941\u0936\u093e\u0930\u0947 \u0928\u0947 \u0939\u093e\u0908 \u091c\u0902\u092a \u092e\u0947\u0902 \u091c\u0940\u0924\u093e \u0938\u093f\u0932\u094d\u0935\u0930, \u092a\u093e\u0930\u0941\u0932 \u0915\u0947 \u0928\u093e\u092e \u092c\u094d\u0930\u0949\u0928\u094d\u095b",
+      "link": "https://www.abplive.com/sports/asian-games-2026-day-9-live-update-india-medal-tally-schedule-27-september-results-3194246"
     },
     {
-      "title": "BJP Nitin Nabin \u09a6\u09b2\u09ac\u09bf\u09b0\u09cb\u09a7\u09c0\u09a6\u09c7\u09b0 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6 \u09b0\u09c1\u0996\u09a4\u09c7 \u0995\u09a1\u09bc\u09be \u09a8\u099c\u09b0, \u0995\u09b0\u09cd\u09ae\u09c0\u09a6\u09c7\u09b0 \u09a8\u09ae\u09cd\u09b0\u09ad\u09be\u09ac\u09c7 \u0995\u09be\u099c\u09c7\u09b0 \u09a8\u09bf\u09b0\u09cd\u09a6\u09c7\u09b6 \u09a8\u09bf\u09a4\u09bf\u09a8 \u09a8\u09ac\u09c0\u09a8\u09c7\u09b0",
-      "link": "https://bengali.news18.com/news/kolkata/bjp-nitin-nabin-instructs-district-leadership-to-stop-infiltration-in-party-rc-2908892.html"
+      "title": "\u0d15\u0d3e\u0d30\u0d4d\u0d2f\u0d35\u0d1f\u0d4d\u0d1f\u0d24\u0d4d\u0d24\u0d41\u0d02 \u0d35\u0d28\u0d4d\u0d26\u0d47\u0d2e\u0d3e\u0d24\u0d30\u0d02 \u0d2e\u0d41\u0d34\u0d19\u0d4d\u0d19\u0d3f, \u0d06\u0d32\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d24\u0d4d \u0d26\u0d47\u0d36\u0d40\u0d2f \u0d17\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d \u0d2e\u0d41\u0d7b\u0d2a\u0d4d",
+      "link": "https://www.mathrubhumi.com/sports/cricket/india-vs-west-indies-vandemataram-karyavattom-ywzme2wo"
     },
     {
-      "title": "\u0bae\u0ba4\u0bc1\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0b95\u0bae\u0bcd \u0b95\u0bbf\u0bb1\u0bbf\u0bb8\u0bcd\u0ba4\u0bb5 \u0b86\u0bb2\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0bae\u0bc1\u0b95 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0baa\u0bb0\u0ba8\u0bcd\u0ba4\u0bbe\u0bae\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc7\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1: \u0b87\u0ba9\u0bbf\u0b95\u0bcb \u0b87\u0bb0\u0bc1\u0ba4\u0baf\u0bb0\u0bbe\u0b9c\u0bcd \u0baa\u0bbf\u0bb0\u0b9a\u0bbe\u0bb0\u0bae\u0bcd",
-      "link": "https://www.dinakaran.com/news/maduranthakam-christianchurch-dmkcandidate-paranthaman-inigoirudayaraj/"
+      "title": "\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bb0\u0bcd \u0b86\u0bb5\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc7 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9a\u0bc7\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1",
+      "link": "https://www.tamilmurasu.com.sg/india/order-collect-elector-documents-visiting-homes"
     },
     {
-      "title": "Three matches in 24 hours! PV Sindhu criticises Asian Games badminton schedule",
-      "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/three-matches-in-24-hours-pv-sindhu-criticises-asian-games-badminton-schedule/articleshow/134517977.cms"
+      "title": "\u0bb5\u0bbf\u0bae\u0bb0\u0bcd\u0b9a\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf 136 \u0b95\u0bcb\u0b9f\u0bbf \u0bb5\u0b9a\u0bc2\u0bb2\u0bbf\u0ba4\u0bcd\u0ba4 \u0ba4\u0bbf \u0baa\u0bbe\u0bb0\u0b9f\u0bc8\u0bb8\u0bcd",
+      "link": "https://cinema.dinamalar.com/news/kollywood/the-paradise-collected-136-crore-despite-criticism/141138"
     },
     {
-      "title": "''\u0b9c\u0bc6\u0bae\u0bcd \u0bb5\u0bc0\u0bb0\u0bae\u0ba3\u0bbf\u0baf\u0bbe\u0bb2\u0bcd \u0b8e\u0ba9\u0bcd \u0bae\u0b95\u0bb3\u0bcd \u0ba4\u0bb1\u0bcd\u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0bb3\u0bcd!\"- 10 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0ba4\u0bbe\u0baf\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0baa\u0bc1\u0b95\u0bbe\u0bb0\u0bcd",
-      "link": "https://www.vikatan.com/government-and-politics/governance/gem-granites-veeramani-pocso-case-ice-house-mother-complaint"
+      "title": "Mamata Banerjee: \u09ae\u09ae\u09a4\u09be\u09b0 \u09b8\u09c1\u09ac\u09bf\u09a7\u09be\u09ac\u09be\u09a6\u09c7\u09b0 \u09b0\u09be\u099c\u09a8\u09c0\u09a4\u09bf! BJP-\u09b0 \u09b8\u0999\u09cd\u0997\u09c7 \u099c\u09cb\u099f \u09a6\u09bf\u09af\u09bc\u09c7 \u09b6\u09c1\u09b0\u09c1, \u09a4\u09be\u09b0\u09aa\u09b0\u09c7 \u09b9\u09a0\u09be\u09ce \u09b9\u09be\u09a4 \u09a7\u09b0\u09b2\u09c7\u09a8 \u0995\u0982\u0997\u09cd\u09b0\u09c7\u09b8\u09c7\u09b0, \u098f\u0996\u09a8 \u09aa\u09b0\u09ae \u09ac\u09a8\u09cd\u09a7\u09c1 \u099a\u09bf\u09b0\u09b6\u09a4\u09cd\u09b0\u09c1 CPIM-\u0993",
+      "link": "https://bengali.news18.com/news/kolkata/mamata-banerjee-s-politics-of-convenience-journey-from-bjp-ally-nda-to-congress-partner-upa-to-recent-left-outreach-sta-2909008.html"
     }
   ],
   "twitter": null

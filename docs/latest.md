@@ -1,20 +1,21 @@
-# India Trending Report — 2026-09-27 22:01:56
+# India Trending Report — 2026-09-27 22:35:42
 
 ## Google Trends (India) — top trending searches
-1. [germany vs](https://trends.google.com/trending/rss?geo=IN)
-2. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
-3. [renato veiga](https://trends.google.com/trending/rss?geo=IN)
-4. [full moon](https://trends.google.com/trending/rss?geo=IN)
-5. [tax audit extension](https://trends.google.com/trending/rss?geo=IN)
-6. [bolivia vs paraguay](https://trends.google.com/trending/rss?geo=IN)
-7. [mivi one 5g phone](https://trends.google.com/trending/rss?geo=IN)
-8. [norway national football team vs portugal national football team standings](https://trends.google.com/trending/rss?geo=IN)
-9. [portugal football](https://trends.google.com/trending/rss?geo=IN)
-10. [diogo costa](https://trends.google.com/trending/rss?geo=IN)
+1. [columbus vs inter miami](https://trends.google.com/trending/rss?geo=IN)
+2. [income tax audit](https://trends.google.com/trending/rss?geo=IN)
+3. [germany vs](https://trends.google.com/trending/rss?geo=IN)
+4. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
+5. [renato veiga](https://trends.google.com/trending/rss?geo=IN)
+6. [full moon](https://trends.google.com/trending/rss?geo=IN)
+7. [bolivia vs paraguay](https://trends.google.com/trending/rss?geo=IN)
+8. [mivi one 5g phone](https://trends.google.com/trending/rss?geo=IN)
+9. [diogo costa](https://trends.google.com/trending/rss?geo=IN)
+10. [francisco conceição](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [LPU row escalates: Stones pelted, vehicles set on fire as police lathicharge students](https://timesofindia.indiatimes.com/city/chandigarh/lpu-row-escalates-police-lathicharge-students-after-highway-blockade-stone-pelting-reported/articleshow/134522175.cms)
+- [Panda-monium: When diplomacy goes to the dogs, horses, and elephants](https://timesofindia.indiatimes.com/world/us/panda-monium-when-diplomacy-goes-to-the-dogs-horses-and-elephants/articleshow/134522097.cms)
+- [LPU protests: Over 2,000 police deployed after stone-pelting, vehicles set ablaze](https://timesofindia.indiatimes.com/india/lpu-unrest-over-2000-police-deployed-after-stone-pelting-vehicles-set-ablaze/articleshow/134528785.cms)
 - [Bank unions call off 3-day strike after assurances, IBA to study demands](https://timesofindia.indiatimes.com/india/bank-unions-call-off-3-day-strike-after-assurances-iba-to-study-demands/articleshow/134526239.cms)
 - [5 held in UK for suspected plot to attack air base used by US](https://timesofindia.indiatimes.com/world/uk/5-held-in-uk-for-suspected-plot-to-attack-air-base-used-by-us/articleshow/134525372.cms)
 - [Yemeni government forces claim four Iranian experts killed in Taiz](https://timesofindia.indiatimes.com/world/middle-east/4-iranian-experts-killed-in-taiz-as-yemen-army-unleashes-756-operation-offensive-against-houthis/articleshow/134525782.cms)
@@ -23,7 +24,6 @@
 - [$17.1M to restore 206,000 acres, 225 miles for wildlife movement in West](https://timesofindia.indiatimes.com/science/wildlife/fourteen-us-projects-will-restore-or-protect-wildlife-movement-across-more-than-206000-acres-and-improve-225-miles-of-fencing-after-a-new-17-1-million-conservation-investment-across-the-west/articleshow/134514775.cms)
 - [BJP CMs counter-attack, demand opposition apology for its 'fabricated' campaign](https://timesofindia.indiatimes.com/india/bjp-cms-counter-attack-demand-oppn-apology-for-its-fabricated-campaign/articleshow/134526204.cms)
 - [SIR tweaks proof of 'disaster', says Congress](https://timesofindia.indiatimes.com/india/akhilesh-to-skip-india-bloc-meet-on-sept-30-sir-tweaks-proof-of-disaster-says-congress/articleshow/134526193.cms)
-- [India to attend SCO officials' meeting in Pakistan](https://timesofindia.indiatimes.com/india/india-to-attend-sco-officials-meeting-in-pakistan/articleshow/134526093.cms)
 
 **NDTV**
 - [Amritpal Singh's Waris Punjab De A New Challenge For Akali Dal Ahead Of Polls](https://www.ndtv.com/india-news/amritpal-singhs-waris-punjab-de-a-new-challenge-for-akali-dal-ahead-of-polls-12106559#publisher=newsstand)
@@ -74,6 +74,7 @@
 - [No load-shedding for now, says K.J. George](https://www.thehindu.com/news/national/karnataka/no-load-shedding-for-now-says-kj-george/article71516595.ece)
 
 **Livemint**
+- [Could your protein powder cost more? The US-Canada trade war is putting whey at risk](https://www.livemint.com/news/us-news/could-your-protein-powder-cost-more-the-us-canada-trade-war-is-putting-whey-at-risk-11790545872835.html)
 - [Bank employees worked on Sunday but Monday strike deferred; change in plan triggers meme fest online](https://www.livemint.com/news/trends/bank-employees-worked-on-sunday-but-monday-strike-deferred-change-in-plan-triggers-meme-fest-online-11790534100063.html)
 - [Bank strike on 28, 29, 30 September deferred; salaried individuals to get money in account as usual?](https://www.livemint.com/news/india/bank-strike-on-28-29-30-september-deferred-salaried-individuals-to-get-money-in-account-as-usual-11790534456293.html)
 - [Parvesh Verma slap row: What to know about Tilak Nagar road inspection incident in Delhi as AAP protests — 5 points](https://www.livemint.com/news/india/parvesh-verma-slap-row-what-to-know-about-tilak-nagar-road-inspection-incident-in-delhi-as-aap-protests-5-points-11790529723551.html)
@@ -83,7 +84,6 @@
 - [Lovely Professional University protest turns violent: Protesters clash with police, stones pelted over 'rape' case](https://www.livemint.com/news/india/lovely-professional-university-protest-turns-violent-protesters-clash-with-police-stones-pelted-over-rape-case-11790525996403.html)
 - [3-day bank strike: Will your September salary be delayed? Here’s all you need to know](https://www.livemint.com/news/india/3day-bank-strike-will-your-september-salary-be-delayed-here-s-all-you-need-to-know-11790524877346.html)
 - [Daylight Saving Time 2026: Why Americans will get an extra hour on November 1 after Halloween](https://www.livemint.com/news/us-news/daylight-saving-time-2026-why-americans-will-get-an-extra-hour-on-november-1-after-halloween-11790518620317.html)
-- [Bengaluru traffic gets worse? Cars queue up inside society as users say ‘never come out ever’](https://www.livemint.com/news/trends/bengaluru-traffic-gets-worse-cars-queue-up-inside-society-as-users-say-never-come-out-ever-11790519254418.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -154,14 +154,14 @@
 - Bank (5.5)
 - September (5.2)
 - strike (2.7)
-- Bengaluru (2.6)
 - Lovely Professional University (2.0)
 - Congress (1.6)
 - Polls (1.6)
 - Odisha (1.6)
 - High (1.6)
 - IndiGo (1.6)
-- Stones (1.3)
+- Panda-monium (1.3)
+- When (1.3)
 - Yemeni (1.3)
 - Iranian (1.3)
 - Taiz (1.3)
@@ -170,16 +170,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Soni Razdan On Career Downfall After Married With Mahesh Bhatt ; महेश भट्ट यांची दुसरी बायको बनल्यावर आलियाच्या आईला भोगावला लागला त्रास, बहरलेलं करियर पाण्यात, सोनी राजदान यांची खंत](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/soni-razdan-talked-on-career-downfall-after-married-with-mahesh-bhatt/articleshow/134517969.cms)
-- [South Africa shootings: 27 killed, 26 wounded in separate attacks near Johannesburg, Cape Town](https://www.moneycontrol.com/world/south-africa-bar-shooting-17-killed-15-wounded-as-gunmen-open-fire-near-johannesburg-article-14039268.html)
-- ['Hanuman Ansh' box office collection Day 52 [LIVE]: Neem Karoli Baba film earned net of Rs 3.03 crore so far today](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-52-live-neem-karoli-baba-film-earned-net-of-rs-3-03-crore-so-far-today/articleshow/134518133.cms)
-- ['Didn't collect ID documents': Guwahati homestay where student, ‘lover’ stayed 5 times in a month sealed](https://timesofindia.indiatimes.com/city/guwahati/didnt-collect-id-documents-guwahati-homestay-where-student-lover-stayed-5-times-in-a-month-sealed/articleshow/134517902.cms)
-- [ਰੋਮਾਂਟਿਕ ਐਕਸ਼ਨ ਡਰਾਮਾ ਫਿਲਮ ‘Anbil Avan’ ਨੂੰ U/A ਸਰਟੀਫਿਕੇਟ ਨਾਲ ਰਿਲੀਜ਼ ਲਈ ਮਿਲੀ ਮਨਜ਼ੂਰੀ](https://wishavwarta.in/anbil-avan-cleared-for-release-with-u-a-certificate/)
-- [Stock market prediction: Experts see more pain ahead but see bottom in Oct 2026 amid Nifty, Sensex poor show - 3 reasons](https://www.livemint.com/market/stock-market-news/stock-market-prediction-experts-see-more-pain-ahead-but-see-bottom-in-oct-2026-amid-nifty-sensex-poor-show-3-reasons-11790495351548.html)
-- [BJP Nitin Nabin দলবিরোধীদের প্রবেশ রুখতে কড়া নজর, কর্মীদের নম্রভাবে কাজের নির্দেশ নিতিন নবীনের](https://bengali.news18.com/news/kolkata/bjp-nitin-nabin-instructs-district-leadership-to-stop-infiltration-in-party-rc-2908892.html)
-- [மதுராந்தகம் கிறிஸ்தவ ஆலயங்களில் திமுக வேட்பாளர் பரந்தாமனுக்கு வாக்கு சேகரிப்பு: இனிகோ இருதயராஜ் பிரசாரம்](https://www.dinakaran.com/news/maduranthakam-christianchurch-dmkcandidate-paranthaman-inigoirudayaraj/)
-- [Three matches in 24 hours! PV Sindhu criticises Asian Games badminton schedule](https://timesofindia.indiatimes.com/sports/asian-games-2026/three-matches-in-24-hours-pv-sindhu-criticises-asian-games-badminton-schedule/articleshow/134517977.cms)
-- [''ஜெம் வீரமணியால் என் மகள் தற்கொலை செய்துகொண்டாள்!"- 10 ஆண்டுகளுக்குப் பிறகு தாய் அதிர்ச்சி புகார்](https://www.vikatan.com/government-and-politics/governance/gem-granites-veeramani-pocso-case-ice-house-mother-complaint)
+- ['ബെത്‌ലഹേം കുടുംബ യൂണിറ്റി'ന്‍റെ ഒടിടി റിലീസ് തിയതി എത്തി](https://www.asianetnews.com/entertainment-news/nivin-pauly-movie-bethlehem-kudumba-unit-ott-streaming-from-october-2-on-jiohotstar-articleshow-0sx46xr)
+- [Virender Sehwag Sara Gurpal: 'क्रिकेटर्स मला मेसेज करतात'; Reality शोमध्ये दाखवले चॅट, वीरेंद्र सेहवाग म्हणाले, 'म्हणून रन होत नाहीत...'](https://marathi.abplive.com/entertainment/sara-gurpal-reveals-cricketers-slide-into-her-dms-virender-sehwags-savage-comment-steals-the-show-1440420)
+- [പ്രിയദർശിനി ബസിൽ പെൺകുട്ടിയെ അപമാനിച്ച സംഭവം; നടപടിക്ക് നിർദേശം നൽകി മുഖ്യമന്ത്രി](https://www.newsmalayalam.com/newsroom/kerala/incident-involving-the-harassment-of-a-girl-on-the-priyadarshini-bus-chief-minister-orders-action)
+- [Vidyanand Bapat : विद्यानंद बापटांचा भाषणाच्या सुरुवातीला प्रश्न, म्हणाले, 'इथे कोण कोण पेठेतून आलंय?' उत्तर मिळताच हसले अन् म्हणाले..](https://marathi.abplive.com/news/pune/vidyanand-bapat-pune-dj-sound-controversy-amol-palekar-felicitation-speech-peth-residents-150-years-old-lifestyle-roads-festivals-maharashtra-marathi-news-1440422)
+- [કચ્છ નીલપર શાળા દુષ્કર્મ કેસ: ફરાર આચાર્ય વિપુલ ગોહિલ આણંદના સોજીત્રાથી ઝડપાયો, ગૃહમાતા સહિત 3 સામે ગુનો નોંધાયો](https://www.gujaratsamachar.com/news/kutch/kutchs-nilpar-school-case-absconding-principal-vipul-gohil-arrested-from-sojitra-crime-registered-against-three-including-housewife-10267064585)
+- [Asian Games 2026 Day 9 Live: सर्वेश कुशारे ने हाई जंप में जीता सिल्वर, पारुल के नाम ब्रॉन्ज़](https://www.abplive.com/sports/asian-games-2026-day-9-live-update-india-medal-tally-schedule-27-september-results-3194246)
+- [കാര്യവട്ടത്തും വന്ദേമാതരം മുഴങ്ങി, ആലപിച്ചത് ദേശീയ ഗാനത്തിന് മുൻപ്](https://www.mathrubhumi.com/sports/cricket/india-vs-west-indies-vandemataram-karyavattom-ywzme2wo)
+- [வாக்காளர் ஆவணங்களை வீடுகளுக்கே சென்று சேகரிக்க உத்தரவு](https://www.tamilmurasu.com.sg/india/order-collect-elector-documents-visiting-homes)
+- [விமர்சனங்களை மீறி 136 கோடி வசூலித்த தி பாரடைஸ்](https://cinema.dinamalar.com/news/kollywood/the-paradise-collected-136-crore-despite-criticism/141138)
+- [Mamata Banerjee: মমতার সুবিধাবাদের রাজনীতি! BJP-র সঙ্গে জোট দিয়ে শুরু, তারপরে হঠাৎ হাত ধরলেন কংগ্রেসের, এখন পরম বন্ধু চিরশত্রু CPIM-ও](https://bengali.news18.com/news/kolkata/mamata-banerjee-s-politics-of-convenience-journey-from-bjp-ally-nda-to-congress-partner-upa-to-recent-left-outreach-sta-2909008.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
