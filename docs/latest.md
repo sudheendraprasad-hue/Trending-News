@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-27 21:02:04
+# India Trending Report — 2026-09-27 21:34:32
 
 ## Google Trends (India) — top trending searches
-1. [renato veiga](https://trends.google.com/trending/rss?geo=IN)
-2. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
-3. [8वें वेतन आयोग सैलरी](https://trends.google.com/trending/rss?geo=IN)
-4. [erling haaland](https://trends.google.com/trending/rss?geo=IN)
-5. [tax audit extension](https://trends.google.com/trending/rss?geo=IN)
+1. [germany vs](https://trends.google.com/trending/rss?geo=IN)
+2. [germany national football team](https://trends.google.com/trending/rss?geo=IN)
+3. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
+4. [renato veiga](https://trends.google.com/trending/rss?geo=IN)
+5. [8वें वेतन आयोग सैलरी](https://trends.google.com/trending/rss?geo=IN)
 6. [full moon](https://trends.google.com/trending/rss?geo=IN)
-7. [mivi one 5g phone](https://trends.google.com/trending/rss?geo=IN)
+7. [tax audit extension](https://trends.google.com/trending/rss?geo=IN)
 8. [bolivia vs paraguay](https://trends.google.com/trending/rss?geo=IN)
-9. [pedro neto](https://trends.google.com/trending/rss?geo=IN)
-10. [ørjan nyland](https://trends.google.com/trending/rss?geo=IN)
+9. [mivi one 5g phone](https://trends.google.com/trending/rss?geo=IN)
+10. [norway national football team vs portugal national football team standings](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -20,10 +20,10 @@
 - [Yemeni government forces claim four Iranian experts killed in Taiz](https://timesofindia.indiatimes.com/world/middle-east/4-iranian-experts-killed-in-taiz-as-yemen-army-unleashes-756-operation-offensive-against-houthis/articleshow/134525782.cms)
 - [Boeing flags 737 MAX glitch that may turn off auto pilot](https://timesofindia.indiatimes.com/india/boeing-flags-737-max-glitch-that-may-turn-off-auto-pilot/articleshow/134526139.cms)
 - [New Green Card rules from September: Categories affected and those exempt](https://timesofindia.indiatimes.com/technology/tech-news/new-green-card-rules-that-came-into-effect-starting-this-september-list-of-categories-subject-to-the-changes-and-those-that-are-not-impacted/articleshow/134515826.cms)
-- [India to attend SCO officials' meeting in Pakistan](https://timesofindia.indiatimes.com/india/india-to-attend-sco-officials-meeting-in-pakistan/articleshow/134526093.cms)
+- [BJP CMs counter-attack, demand opposition apology for its 'fabricated' campaign](https://timesofindia.indiatimes.com/india/bjp-cms-counter-attack-demand-oppn-apology-for-its-fabricated-campaign/articleshow/134526204.cms)
 - [$17.1M to restore 206,000 acres, 225 miles for wildlife movement in West](https://timesofindia.indiatimes.com/science/wildlife/fourteen-us-projects-will-restore-or-protect-wildlife-movement-across-more-than-206000-acres-and-improve-225-miles-of-fencing-after-a-new-17-1-million-conservation-investment-across-the-west/articleshow/134514775.cms)
-- [IndiGo A321 suffers tail strike in Bengaluru](https://timesofindia.indiatimes.com/india/indigo-a321-suffers-tail-strike-in-bengaluru/articleshow/134526157.cms)
-- [Two dead after avalanche hits Himlung Himal base camp in Nepal; 10 missing](https://timesofindia.indiatimes.com/world/south-asia/two-bodies-recovered-after-deadly-himlung-himal-avalanche-12-remain-missing-in-nepal/articleshow/134525989.cms)
+- [SIR tweaks proof of 'disaster', says Congress](https://timesofindia.indiatimes.com/india/akhilesh-to-skip-india-bloc-meet-on-sept-30-sir-tweaks-proof-of-disaster-says-congress/articleshow/134526193.cms)
+- [India to attend SCO officials' meeting in Pakistan](https://timesofindia.indiatimes.com/india/india-to-attend-sco-officials-meeting-in-pakistan/articleshow/134526093.cms)
 
 **NDTV**
 - [Amritpal Singh's Waris Punjab De A New Challenge For Akali Dal Ahead Of Polls](https://www.ndtv.com/india-news/amritpal-singhs-waris-punjab-de-a-new-challenge-for-akali-dal-ahead-of-polls-12106559#publisher=newsstand)
@@ -49,7 +49,17 @@
 - [Bengaluru-bound IndiGo flight suffers tail strike while landing at Kempegowda airport; DGCA to probe incident](https://www.hindustantimes.com/india-news/bengalurubound-indigo-flight-suffers-tail-strike-while-landing-at-kempegowda-airport-dgca-to-probe-incident-101790525461947.html)
 - [75-yr-old Odisha woman swept by swollen river survives crocodile-infested waters](https://www.hindustantimes.com/india-news/71yearold-woman-swept-22-km-by-swollen-river-survives-crocodile-infested-waters-101790522694795.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ವಿರಾಟ್‌ ಕೊಹ್ಲಿ, ಶುಭ್ಮನ್‌ ಗಿಲ್‌ ಶತಕ: ವೆಸ್ಟ್‌ ಇಂಡೀಸ್‌ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ ಗೆಲುವು! ರನ್‌ ಮಷಿನ್‌ ಬರೆದ ವಿಶ್ವ ದಾಖಲೆಗಳೆಷ್ಟು?](https://vijaykarnataka.com/sports/cricket/news/india-beats-west-indies-in-1st-odi-virat-kohli-shatters-2-world-records-hits-stunning-century/articleshow/134523249.cms)
+- [ತೈವಾನ್‌ ಹೆಸರೇ ಎತ್ತಿಲ್ಲ: ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್‌ ಜೊತೆ ನಡೆದ ಮಾತುಕತೆಯ ವಿವರ ತಿಳಿಸಿದ ಡೊನಾಲ್ಡ್‌ ಟ್ರಂಪ್!‌ ತೈಪೆ ಆತಂಕ ದ್ವಿಗುಣ](https://vijaykarnataka.com/news/world/no-discussion-about-taiwan-wih-chinese-president-xi-jinping-during-bilateral-talks-clarifies-donald-trump/articleshow/134521976.cms)
+- [SSLC 600 ಅಂಕ ಪಡೆದವರಿಗೆ ನನ್ನ ಸಂಸ್ಥೆಯಲ್ಲಿ ಉಚಿತ PUC ಶಿಕ್ಷಣ: ಪ್ರದೀಪ್ ಈಶ್ವರ್; ದಾವಣಗೆರೆ ಜಿಲ್ಲೆ ಮಕ್ಕಳಿಗೆ ವಾಗ್ದಾನ](https://vijaykarnataka.com/news/davanagere/free-puc-education-at-my-institution-for-those-who-scored-600-marks-in-sslc-pradeep-eshwar/articleshow/134521795.cms)
+- [ಚಹಾ ಮಾಡಿದ ನಂತರ ಶುಂಠಿ ಬಿಸಾಡಬೇಡಿ; ಉಳಿದ ಶುಂಠಿಯಿಂದಲೇ ರುಚಿಕರ ಖಾರ ಚಟ್ನಿ ತಯಾರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/used-ginger-after-making-tea-chutney-recipe/articleshow/134508419.cms)
+- [ಭಾರತ ಶಕ್ತಿಶಾಲಿಯಾದಷ್ಟೂ ಅಮೆರಿಕ ಭಯದಿಂದ ನರಳುತ್ತದೆ: ಜಿಯೋಪೊಲಿಟಿಕ್ಸ್‌ ನಂಬಿಕೆ ಅಲುಗಾಡಿಸಿದ ರಷ್ಯಾ ರಾಯಭಾರಿ!](https://vijaykarnataka.com/news/india/us-fears-indias-rise-wont-let-it-become-another-china-says-russian-envoy-denis-alipov/articleshow/134520930.cms)
+- [ಅವಿನಾಶ್ ಶಟಮರ್ಷಣಗೆ BBK 13ನಿಂದ ಲಭಿಸಿದ ಬಹುಮಾನ ಎಷ್ಟು?: ಪತ್ನಿ ಪ್ರಿಯಾ ಭಾವುಕ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/what-prize-did-avinash-shatamarshana-receive-from-bbk-13/articleshow/134524909.cms)
+- [ಅಕ್ಷಯ್ ಕುಮಾರ್ ಪತ್ನಿ ಟ್ವಿಂಕಲ್ ಖನ್ನಾ ಹೇಳಿದ ಕಿಚನ್ ಟಿಪ್ಸ್; ಜಿರಳೆ ಕಾಟಕ್ಕೆ ಈ ಸರಳ ಮನೆಮದ್ದು](https://vijaykarnataka.com/lifestyle/home-decor/twinkle-khanna-kitchen-remedy-to-get-rid-of-cockroaches/articleshow/134499248.cms)
+- [2026 ಪಿತೃ ಪಕ್ಷ: ಕರ್ಣ ಸ್ವರ್ಗದಿಂದ ಭೂಮಿಗೆ ಮರಳಲು ಕಾರಣ.!](https://vijaykarnataka.com/religion/hinduism/pitru-paksha-2026-reason-behind-karna-back-to-earth-from-the-heaven/articleshow/134517525.cms)
+- [ಪಿತೃ ಪಕ್ಷ 2026: ಪಿತೃಗಳಿಗೆ ಪಾಯಸ-ಪೂರಿ ಅರ್ಪಿಸುವ ಸಂಪ್ರದಾಯ, ಮಾಡುವ ವಿಧಾನ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/home-decor/pitru-paksha-2026-kheer-puri-first-day-ancestor-offering/articleshow/134501695.cms)
+- [ಅಕ್ಟೋಬರ್ 1 ರಿಂದ ಹೊಸ ನಿಯಮ: LPG ಸಿಲಿಂಡರ್, FD ದರ, ಮೊಬೈಲ್ ರಿಚಾರ್ಜ್, ರೇಷನ್‌ ಅಂಗಡಿಗೆ ಸಂಬಂಧಿಸಿದ 7 ಬದಲಾವಣೆಗಳು](https://vijaykarnataka.com/business/news/new-rules-from-october-1-7-significant-changes-regarding-lpg-cylinders-fd-rates-property-tax-and-ration-shops/articleshow/134520998.cms)
 
 **The Hindu**
 - [Kerala High Court directs State to ensure adequate facilities at POCSO courts](https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-state-to-ensure-adequate-facilities-at-pocso-courts/article71509475.ece)
@@ -143,33 +153,33 @@
 ## Cross-source trending keywords (derived from headlines above)
 - September (5.2)
 - Bank (4.2)
-- Bengaluru (3.9)
-- strike (3.0)
-- IndiGo (2.9)
+- strike (2.7)
+- Bengaluru (2.6)
 - Lovely Professional University (2.0)
 - bank (1.8)
+- Congress (1.6)
 - Polls (1.6)
 - Odisha (1.6)
 - High (1.6)
+- IndiGo (1.6)
 - deferred (1.5)
 - Stones (1.3)
 - Proposed (1.3)
 - Yemeni (1.3)
-- Iranian (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Fortis defends itself after Supreme Court allows forensic audit, says it was "complete stranger" to Daiichi-Singh Brothers dispute](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/fortis-defends-itself-after-supreme-court-allows-forensic-audit-says-it-was-complete-stranger-to-daiichi-singh-brothers-dispute/articleshow/134517489.cms?from=mdr)
-- [নাগাড়ে কাশি, গলাব্যথা, ঢোক গিলতে কষ্ট ভাইরাল জ্বর না-ও হতে পারে, কোন ৩ রোগের বিপদসঙ্কেত?](https://www.anandabazar.com/health-and-wellness/persistent-cough-and-swollen-face-why-it-might-be-asthma-bronchitis-or-severe-allergy-dgtl/cid/1715830)
-- [South Africa police launch manhunt after 17 killed in tavern shooting](https://indianexpress.com/article/world/us-iran-war-live-news-updates-trump-reject-proposal-hormuz-reopen-pakistan-mou-oil-prices-shipping-un-10895515/)
-- [Asian Games 2026: No squash gold for India as Anahat Singh, Abhay Singh win silver](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-no-squash-gold-for-india-as-anahat-singh-abhay-singh-win-silver/articleshow/134517368.cms)
-- [Gun Fire: నెత్తురోడిన సౌతాఫ్రికా వీధులు.. విచక్షణారహితంగా కాల్పులు.. 27 మంది దుర్మరణం!](https://telugu.news18.com/news/national-international/south-africa-mass-shootings-27-killed-in-separate-gun-attacks-near-johannesburg-and-cape-town-townships-sjn-3234592.html)
-- [Anahat Singh, Abhay Singh settle for silver medals in singles](https://www.olympics.com/en/news/asian-games-2026-squash-singles-finals-report-abhay-anahat-singh)
-- [Students Climb Atop MiG-23, Tank As Dramatic Scenes Unfold At Punjab's LPU](https://www.ndtv.com/india-news/lovely-professional-university-students-climb-atop-mig-23-tank-as-dramatic-scenes-unfold-at-punjabs-lpu-12104712)
-- [India vs West Indies LIVE Updates, 1st ODI IND vs WI LIVE Updates: 4, 4, 4, 4 - Shubman Gill's Gamble Backfires; Rohit Sharma Drops Tough Chance](https://sports.ndtv.com/india-vs-west-indies-2026/india-vs-west-indies-live-score-1st-odi-ind-vs-wi-live-updates-shubman-gill-virat-kohli-rohit-sharma-cricket-12104194)
-- [Big News: ਸਾਬਕਾ ਕੇਂਦਰੀ ਮੰਤਰੀ ਰਵਨੀਤ ਬਿੱਟੂ ਨੂੰ ਮਿਲੀ ਜਾਨੋਂ ਮਾਰਨ ਦੀ ਧਮਕੀ](https://wishavwarta.in/big-news-former-union-minister-ravneet-bittu-receives-death-threat/)
-- [बॉक्स ऑफिस पर कमाई को तरसी अंजलि अरोड़ा की फिल्म महाकाव्य श्री रामायण कथा, दो दिन में हुआ बुरा हाल](https://www.aajtak.in/entertainment/bollywood-news/story/mahakavya-shree-ramayana-katha-anjali-arora-box-office-collection-report-tmovj-dskc-2654437-2026-09-27)
+- [ഒക്ടോബര്‍ രണ്ടിന് തന്നെ, ആഷ്‌ലിയും ജസ്റ്റിനും കുടുംബ യൂണിറ്റും ഒ.ടി.ടിയിലേക്ക്](https://www.doolnews.com/bethlehem-kudumba-unit-ott-streaming-date-out-64-159.html)
+- [মার্কিন বাহিনীর ব্যবহৃত বিমানঘাঁটির কাছে বাড়িঘর খালি করছে যুক্তরাজ্য পুলিশ](https://www.banglatelegraph.com/article/225711)
+- [23 और सैन्य टैंक के ऊपर चढ़े LPU के छात्र, फगवाड़ा में उग्र हुआ प्रदर्शन](https://www.jagran.com/punjab/jalandhar-city-lpu-protest-students-climb-mig-23-tank-know-his-demand-investigation-sit-formed-40386903.html)
+- ['Important To Also See How Your Ally Talks To Your Enemy': Security Expert](https://www.ndtv.com/india-news/ndtv-defence-summit-2026-important-to-also-see-how-your-ally-talks-to-your-enemy-security-expert-12104839)
+- [Experts discuss vaccine schedules, missed doses and common misconceptions](https://www.thehindu.com/sci-tech/health/experts-discuss-vaccine-schedules-missed-doses-and-common-misconceptions/article71515542.ece)
+- [கடைசி ஒருநாள் போட்டி: இங்கிலாந்து பேட்டிங் தேர்வு](https://www.dailythanthi.com/sports/cricket/final-odi-england-choose-batting)
+- [১ অক্টোবর থেকে বাড়ছে AC, TV ফ্রিজের দাম, খরচ কত বাড়বে?](https://eisamay.com/business/business-news/ac-tv-refrigerator-washing-machine-price-hike-october-1-festive-season/200548044.cms)
+- [Asian Games: Sindhu Criticises Badminton Schedule And Lack Of Hawk-Eye](https://m.rediff.com/sports/report/sindhu-criticizes-asian-games-badminton-scheduling-and-lack-of-hawk-eye/20260927.htm)
+- [Secretariat Employees Protest: సచివాలయ ఉద్యోగుల చలో విజయవాడ ధర్నాలో ఉద్రిక్తత.. ఆందోళనకారుల అరెస్ట్!](https://telugu.abplive.com/andhra-pradesh/secretariat-employees-protest-in-vijayawada-tensions-rise-as-police-detain-demonstrators-at-dharna-chowk-260071)
+- [Dalal Street Week Ahead: US-Iran situation, crude oil prices among 10 key factors to watch](https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-us-iran-situation-crude-oil-prices-among-10-key-factors-to-watch-14039225.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
