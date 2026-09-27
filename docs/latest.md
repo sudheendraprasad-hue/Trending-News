@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-27 17:34:00
+# India Trending Report — 2026-09-27 18:02:18
 
 ## Google Trends (India) — top trending searches
 1. [bank strike news](https://trends.google.com/trending/rss?geo=IN)
@@ -14,30 +14,32 @@
 
 ## Latest headlines by outlet
 **Times of India**
-- [Parvesh Verma slap row: Man files complaint, police reveal prior FIR against him](https://timesofindia.indiatimes.com/india/threatened-to-kill-me-man-files-complaint-against-delhi-pwd-minister-parvesh-verma-over-slap-during-road-inspection/articleshow/134522216.cms)
-- [‘Illegal detention by Assam Police has finally ended’: CJP’s Ranka to address press](https://timesofindia.indiatimes.com/city/guwahati/illegal-detention-by-assam-police-has-finally-ended-cjps-ashutosh-ranka-to-address-press/articleshow/134523500.cms)
-- ['Won't bow our head': Iran embassy invokes Baahubali to echo Pezeshkian's UN speech](https://timesofindia.indiatimes.com/world/middle-east/will-never-bow-our-head-iran-embassy-invokes-baahubali-to-echo-pezeshkians-defiant-un-speech/articleshow/134523031.cms)
+- [Proposed bank strike deferred after talks between bank body and unions](https://timesofindia.indiatimes.com/business/india-business/proposed-bank-strike-deferred-after-talks-between-bank-body-and-unions/articleshow/134524605.cms)
+- [LPU row escalates: Stones pelted, vehicles set on fire as police lathicharge students](https://timesofindia.indiatimes.com/city/chandigarh/lpu-row-escalates-police-lathicharge-students-after-highway-blockade-stone-pelting-reported/articleshow/134522175.cms)
+- [3 killed, 4 injured after fight erupts into gunfire at Detroit strip club in US](https://timesofindia.indiatimes.com/world/us/detroit-strip-club-shooting-argument-turns-deadly-3-killed-and-4-injured/articleshow/134524307.cms)
 - [15,000 runs for Kohli! Virat joins Sachin Tendulkar in ODI record book](https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/virat-kohli-becomes-only-the-second-batter-after-sachin-tendulkar-to-reach-this-milestone/articleshow/134522424.cms)
-- [Asian Games: Athletics leads India’s seven-medal haul, three boxers assure medals](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-day-8-athletics-leads-indias-seven-medal-haul-three-boxers-assure-medals/articleshow/134521777.cms)
+- [Parvesh Verma slap row: Man files complaint, police reveal prior FIR against him](https://timesofindia.indiatimes.com/india/threatened-to-kill-me-man-files-complaint-against-delhi-pwd-minister-parvesh-verma-over-slap-during-road-inspection/articleshow/134522216.cms)
 - [New Green Card rules from September: Categories affected and those exempt](https://timesofindia.indiatimes.com/technology/tech-news/new-green-card-rules-that-came-into-effect-starting-this-september-list-of-categories-subject-to-the-changes-and-those-that-are-not-impacted/articleshow/134515826.cms)
+- [‘Illegal detention by Assam Police has finally ended’: CJP’s Ranka to address press](https://timesofindia.indiatimes.com/city/guwahati/illegal-detention-by-assam-police-has-finally-ended-cjps-ashutosh-ranka-to-address-press/articleshow/134523500.cms)
 - [$17.1M to restore 206,000 acres, 225 miles for wildlife movement in West](https://timesofindia.indiatimes.com/science/wildlife/fourteen-us-projects-will-restore-or-protect-wildlife-movement-across-more-than-206000-acres-and-improve-225-miles-of-fencing-after-a-new-17-1-million-conservation-investment-across-the-west/articleshow/134514775.cms)
-- [Nepal battered by severe rain: 21 dead, 5 missing as floods, landslides worsen](https://timesofindia.indiatimes.com/world/south-asia/nepal-battered-by-severe-rain-21-dead-5-missing-as-floods-landslides-worsen/articleshow/134523964.cms)
+- ['Won't bow our head': Iran embassy invokes Baahubali to echo Pezeshkian's UN speech](https://timesofindia.indiatimes.com/world/middle-east/will-never-bow-our-head-iran-embassy-invokes-baahubali-to-echo-pezeshkians-defiant-un-speech/articleshow/134523031.cms)
 - ['I promised myself': Virat Kohli after 15,000-run landmark](https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/i-promised-myself-im-going-to-play-positively-virat-kohli-after-15000-run-landmark/articleshow/134523992.cms)
-- [IndiGo A321 enroute Blr suffers tail strike; plane lands safely in second attempt](https://timesofindia.indiatimes.com/india/indigo-a321-suffers-tail-strike-during-go-around-at-bangalore-plane-lands-safely-in-second-attempt/articleshow/134523319.cms)
 
 **NDTV**
-- [12 Chief Ministers vs Rahul Gandhi: BJP's Attack Formation In Gyanesh Kumar's Defence](https://www.ndtv.com/india-news/bjp-deploys-a-dozen-chief-ministers-vs-rahul-gandhi-on-gyanesh-kumar-row-lies-exposed-12105917#publisher=newsstand)
-- [Amit Shah Flags Off India's 1st LNG-Powered Train From Gujarat's Sabarmati](https://www.ndtv.com/india-news/amit-shah-flags-off-indias-1st-lng-powered-train-from-gujarats-sabarmati-12105888#publisher=newsstand)
-- [5 Arrested For Terrorist Activity Near UK Airbase Used By US In Iran War](https://www.ndtv.com/world-news/5-arrested-for-terrorist-activity-near-uk-airbase-used-by-us-in-iran-war-12105850#publisher=newsstand)
-- [In Dramatic Chase, Tamil Nadu Cop Travels 40 kms On Smugglers' Car Roof](https://www.ndtv.com/india-news/coimbatore-car-chase-video-in-dramatic-chase-tamil-nadu-cop-travels-40-kms-on-smugglers-car-roof-12105838#publisher=newsstand)
-- ["Situation On China Border Stable, No Cause For Concern": Chief Of Defence Staff To NDTV](https://www.ndtv.com/india-news/situation-on-china-border-stable-no-cause-for-concern-chief-of-defence-staff-to-ndtv-12105794#publisher=newsstand)
-- ["View Was To Go With Palantir": Top Defence Official On "AI Spine" For Forces](https://www.ndtv.com/india-news/building-an-ai-spine-for-armed-forces-defence-secretary-rajesh-kumar-singh-to-ndtv-12105688#publisher=newsstand)
-- ["Good Product But...": Russian Envoy Compares American F-35 With Su-57 Fighter Jet](https://www.ndtv.com/india-news/ndtv-defence-summit-2026-india-to-get-f-35-or-sukhoi-57-what-russian-envoy-denis-alipov-said-at-ndtv-defence-summit-12105492#publisher=newsstand)
-- ['Prepared To Respond Quickly, Decisively': Defence Chief On Pakistan Threat](https://www.ndtv.com/india-news/prepared-to-respond-quickly-decisively-defence-chief-subramani-on-pakistan-threat-operation-sindoor-lessons-12105666#publisher=newsstand)
-- ["Technology Must Be Owned In India": Samtel CEO On Viksit Bharat Goal](https://www.ndtv.com/india-news/technology-must-be-owned-in-india-samtel-ceo-on-viksit-bharat-goal-12105380#publisher=newsstand)
-- [AI Will Transform Battlefield In All Aspects: Chief Of Defence Staff To NDTV](https://www.ndtv.com/india-news/ndtv-defence-summit-2026-ns-raja-subramani-ai-will-transform-battlefield-in-all-aspects-chief-of-defence-staff-to-ndtv-12105567#publisher=newsstand)
+- [Students Deny 'Rape' In Video Released By Punjab's Lovely Professional University, Then Call It Scripted](https://www.ndtv.com/india-news/punjab-university-lpu-students-protest-rape-lovely-professional-university-12106376#publisher=newsstand)
+- [Students Deny 'Rape' In Video Released By Punjab's Lovely Professional University, Then Call It Scripted](https://www.ndtv.com/india-news/punjab-university-lpu-students-protest-rape-lovely-professional-university-12106376#publisher=newsstand)
+- [2 Suffocate To Death After Inhaling Toxic Chemical In Mumbai Public Toilet](https://www.ndtv.com/india-news/2-suffocate-to-death-after-inhaling-toxic-chemical-in-mumbai-public-toilet-12106355#publisher=newsstand)
+- [Pressure Mounts On Chief Poll Officer As Opposition Plans Concerted Action](https://www.ndtv.com/india-news/pressure-mounts-on-chief-poll-officer-as-opposition-plans-concerted-action-12106352#publisher=newsstand)
+- [Students, Teachers Injured In Clashes At Kolkata Film Institute](https://www.ndtv.com/india-news/clash-at-kolkatas-ray-film-institute-students-teachers-injured-12106146#publisher=newsstand)
+- [IndiGo Flight Suffers Tail Strike In Bengaluru, Airline Blames Weather](https://www.ndtv.com/india-news/indigo-flight-suffers-tail-strike-in-bengaluru-airline-blames-weather-12106249#publisher=newsstand)
+- [Video: Delhi Minister Parvesh Verma Loses Cool, Slaps Man Filming Inspection](https://www.ndtv.com/india-news/video-delhi-minister-parvesh-verma-loses-cool-slaps-man-in-delhi-12104998#publisher=newsstand)
+- ["For Data Recovery": Iran Guards Seize US Submarine Drone In Hormuz](https://www.ndtv.com/world-news/us-iran-war-for-data-recovery-iran-guards-seize-us-submarine-drone-in-hormuz-12106218#publisher=newsstand)
+- [On Camera, Thar Roxx Knocks Down Biker On Dwarka Expressway, Flees](https://www.ndtv.com/india-news/on-camera-thar-roxx-knocks-down-biker-on-delhi-gurugram-expressway-flees-accident-on-dwarka-expressway-12103632#publisher=newsstand)
+- [501 In 2006 To 469 In 2025: Global Student Scores Drop As Screen Time Rises](https://www.ndtv.com/world-news/501-in-2006-to-469-in-2025-global-student-scores-drop-as-screen-time-rises-12106087#publisher=newsstand)
 
 **Hindustan Times**
+- [‘Hooliganism won’t be tolerated; what is his crime?': Rahul Gandhi, AAP rage over Parvesh Verma's slapgate](https://www.hindustantimes.com/india-news/hooliganism-wont-be-tolerated-what-is-his-crime-rahul-gandhi-aap-rage-over-parvesh-vermas-slapgate-tilak-nagar-101790527436669.html)
+- [High alert in Uttarkashi after IMD rain warning, administration issues advisory](https://www.hindustantimes.com/india-news/high-alert-in-uttarkashi-after-imd-rain-warning-administration-issues-advisory-101790528530636.html)
 - [LPU postpones mid-term exams, suspends classes for 10 days amid violent protests](https://www.hindustantimes.com/india-news/violence-punjab-lovely-professional-university-lpu-postpones-mid-term-exams-suspends-classes-for-ten-days-rape-suicide-101790529078792.html)
 - [Ashutosh Ranka says team CJP's ‘illegal detention’ by Assam Police 'finally ended'; Dipke reacts](https://www.hindustantimes.com/india-news/ashutosh-ranka-says-illegal-detention-by-assam-police-finally-ended-cjp-team-chief-dipke-reacts-101790527524604.html)
 - [Why Mumbai police denied permission to CJP for October 2 protest against CEC Gyanesh Kumar](https://www.hindustantimes.com/india-news/why-mumbai-police-denied-permission-to-cjp-for-october-2-protest-against-cec-gyanesh-kumar-101790523912934.html)
@@ -46,8 +48,6 @@
 - [75-yr-old Odisha woman swept by swollen river survives crocodile-infested waters](https://www.hindustantimes.com/india-news/71yearold-woman-swept-22-km-by-swollen-river-survives-crocodile-infested-waters-101790522694795.html)
 - ['Grabbed by neck, threatened to kill me': Man slapped by Parvesh Verma alleges assault by ‘BJP workers’](https://www.hindustantimes.com/india-news/grabbed-by-neck-threatened-to-kill-me-man-slapped-by-parvesh-verma-alleges-assault-by-bjp-workers-aap-viral-video-101790517293780.html)
 - [Nationwide bank strike from tomorrow: Will online services still work? Which banks will be open? Key details](https://www.hindustantimes.com/india-news/bank-strike-tomorrow-nationwide-will-online-services-work-which-banks-open-hdfc-icici-axis-bank-ufbu-latest-news-101790519555537.html)
-- [‘Tortured, kicked in chest by boyfriend’: Family alleges gang-rape after student found dead in Guwahati](https://www.hindustantimes.com/india-news/student-found-dead-at-guwahati-homestay-father-alleges-gang-rape-murder-101790521015158.html)
-- [Blasts heard inside campus, police SUVs set on fire by mob: Why Punjab's LPU is growing tense](https://www.hindustantimes.com/india-news/blasts-heard-inside-campus-police-suvs-set-on-fire-by-mob-why-punjabs-lpu-is-growing-tense-101790520295607.html)
 
 **Vijay Karnataka**
 - [ವಿರಾಟ್‌ ಕೊಹ್ಲಿ, ಶುಭ್ಮನ್‌ ಗಿಲ್‌ ಶತಕ: ವೆಸ್ಟ್‌ ಇಂಡೀಸ್‌ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ ಗೆಲುವು! ರನ್‌ ಮಷಿನ್‌ ಬರೆದ ವಿಶ್ವ ದಾಖಲೆಗಳೆಷ್ಟು?](https://vijaykarnataka.com/sports/cricket/news/india-beats-west-indies-in-1st-odi-virat-kohli-shatters-2-world-records-hits-stunning-century/articleshow/134523249.cms)
@@ -62,18 +62,19 @@
 - [ಅಕ್ಟೋಬರ್ 1 ರಿಂದ ಹೊಸ ನಿಯಮ: LPG ಸಿಲಿಂಡರ್, FD ದರ, ಮೊಬೈಲ್ ರಿಚಾರ್ಜ್, ರೇಷನ್‌ ಅಂಗಡಿಗೆ ಸಂಬಂಧಿಸಿದ 7 ಬದಲಾವಣೆಗಳು](https://vijaykarnataka.com/business/news/new-rules-from-october-1-7-significant-changes-regarding-lpg-cylinders-fd-rates-property-tax-and-ration-shops/articleshow/134520998.cms)
 
 **The Hindu**
+- [A silver in Japan sparks wild celebrations in Keralam’s Nattika](https://www.thehindu.com/news/national/kerala/a-silver-in-japan-sparks-wild-celebrations-in-keralams-nattika/article71516682.ece)
+- [Renowned Sanskrit scholar Mahamahopadhyaya R. Krishnamurthy Shastri passes away in Chennai](https://www.thehindu.com/news/cities/chennai/renowned-sanskrit-scholar-mahamahopadhyaya-r-krishnamurthy-shastri-passes-away-in-chennai/article71516977.ece)
+- [Convoy of former Tripura Chief Minister attacked, opposition blames BJP](https://www.thehindu.com/news/national/tripura/convoy-of-former-tripura-chief-minister-attacked-opposition-blames-bjp/article71516243.ece)
+- [Pulicat fishermen urge T.N., Andhra govts. to demarcate fishing grounds using GPS](https://www.thehindu.com/news/cities/chennai/pulicat-fishermen-urge-tn-andhra-govts-to-demarcate-fishing-grounds-using-gps/article71516891.ece)
+- [Chennai Corporation to set up Amma Canteen at Omandurar hospital](https://www.thehindu.com/news/national/tamil-nadu/chennai-corporation-to-set-up-amma-canteen-at-omandurar-hospital/article71516194.ece)
+- [Motorists seek installation of streetlights on VIT High Road](https://www.thehindu.com/news/national/tamil-nadu/motorists-seek-installation-of-streetlights-on-vit-high-road/article71515900.ece)
+- [Cookery competition held in Vellore](https://www.thehindu.com/news/national/tamil-nadu/cookery-competition-held-in-vellore/article71515905.ece)
+- [Ranipet police returns recovered phones to owners](https://www.thehindu.com/news/national/tamil-nadu/ranipet-police-returns-recovered-phones-to-owners/article71515902.ece)
+- [TNPCB tells NGT Sun Pharma did not implement proposed expansion in Chengalpattu](https://www.thehindu.com/news/cities/chennai/tnpcb-tells-ngt-sun-pharma-did-not-implement-proposed-expansion-in-chengalpattu/article71515736.ece)
 - [GRP seize 25 kg of ganja at Jolarpet railway station](https://www.thehindu.com/news/national/tamil-nadu/grp-seize-25-kg-of-ganja-at-jolarpet-railway-station/article71515908.ece)
-- [M.A. Baby meets Kejriwal ahead of INDIA bloc meeting on Election Commission](https://www.thehindu.com/news/national/ma-baby-meets-kejriwal-ahead-of-india-bloc-meeting-on-election-commission/article71516130.ece)
-- [Vizag hosts 18th Vysakhi Nrityotsav showcasing diverse classical dances](https://www.thehindu.com/news/national/andhra-pradesh/vizag-hosts-18th-vysakhi-nrityotsav-showcasing-diverse-classical-dances/article71517053.ece)
-- [Amid concerns over Russia sanctions law, Foreign Secretary meets U.S. delegation](https://www.thehindu.com/news/national/amid-concerns-over-russia-sanctions-law-foreign-secretary-meets-us-delegation/article71516990.ece)
-- [Two men die allegedly due to suffocation from chemical leak inside public toilet in Mumbai](https://www.thehindu.com/news/cities/mumbai/death-from-suspected-chemical-leak-in-goregaon-public-toilet/article71515462.ece)
-- [Cyber help desks to be set up at all police stations in Kozhikode district](https://www.thehindu.com/news/national/kerala/cyber-help-desks-to-be-set-up-at-all-police-stations-in-kozhikode-district/article71515841.ece)
-- [Bidadi police book protesters for unauthorised demonstration at Byramangala](https://www.thehindu.com/news/national/karnataka/bidadi-police-book-protesters-for-unauthorised-demonstration-at-byramangala/article71516114.ece)
-- [Punjab’s LPU student protesters block NH-44, clash with police after alleged rape of female student](https://www.thehindu.com/news/national/punjab/punjab-varsity-students-protest-block-highway-over-rape-of-female-student/article71515254.ece)
-- [Bhadragiri Mart, a tribal women-led enterprise, bags State-level award](https://www.thehindu.com/news/national/telangana/bhadragiri-mart-a-tribal-women-led-enterprise-bags-state-level-award/article71515858.ece)
-- [Former BSP Minister, others join Congress in run-up to Uttar Pradesh Assembly polls](https://www.thehindu.com/news/national/uttar-pradesh/former-bsp-minister-others-join-congress-in-run-up-to-uttar-pradesh-assembly-polls/article71516691.ece)
 
 **Livemint**
+- [3-day bank strike has been deferred: Check UFBU's complete statement; decision on Saturdays as holidays and more](https://www.livemint.com/news/india/3day-bank-strike-has-been-deferred-11790530650902.html)
 - [FM Sitharaman to visit Qatar from 27-29 September, attend AIIB annual meeting](https://www.livemint.com/news/india/fm-sitharaman-to-visit-qatar-from-27-29-september-attend-aiib-annual-meeting-11790528523268.html)
 - [IndiGo flight suffers tail strike while landing in Bengaluru amid gusty weather conditions](https://www.livemint.com/news/india/indigo-flight-suffers-tail-strike-while-landing-in-bengaluru-amid-gusty-weather-conditions-11790526027337.html)
 - [Lovely Professional University protest turns violent: Protesters clash with police, stones pelted over 'rape' case](https://www.livemint.com/news/india/lovely-professional-university-protest-turns-violent-protesters-clash-with-police-stones-pelted-over-rape-case-11790525996403.html)
@@ -83,7 +84,6 @@
 - [Your favourite grocery snacks may vanish in 2026 — here’s why Pepsi and major brands are cutting products](https://www.livemint.com/news/trends/your-favourite-grocery-snacks-may-vanish-in-2026-here-s-why-pepsi-and-major-brands-are-cutting-products-11790513802236.html)
 - [New York and Northeast Facing Another Day of Wild Weather](https://www.livemint.com/news/us-news/new-york-and-northeast-facing-another-day-of-wild-weather-11790516910196.html)
 - [‘No UPI Day’ on October 2? Mobile retailers protest proposed 0.4% MDR on payments](https://www.livemint.com/news/india/no-upi-day-on-october-2-mobile-retailers-protest-proposed-0-4-mdr-on-payments-11790513884544.html)
-- [Heavy rain likely in parts of north India, northeast and south over next week](https://www.livemint.com/news/india-weather-imd-rainfall-forecast-monsoon-withdrawal-southwest-monsoon-heavy-rainfall-11790500524522.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,18 +98,19 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [Asian Games | ಮಹಿಳಾ ಹಾಕಿ : ಭಾರತ ಸೆಮಿಫೈನಲ್‌ಗೆ](https://www.varthabharati.in/sports/asian-games-2026-womens-hockey-india-beat-japan-to-book-semi-final-berth-2278491)
+- [Asian Games | ಡೆಕಾತ್ಲಾನ್ : ತೇಜಸ್ವಿನ್ ಶಂಕರ್‌ಗೆ ಕಂಚಿನ ಪದಕ; 2 ಪದಕ ಗೆದ್ದ ಮೊದಲ ಭಾರತೀಯ](https://www.varthabharati.in/sports/asian-games-tejaswin-shankar-bags-bronze-in-mens-decathlon-2278489)
+- [ಕಾಂಗೋ | ದೋಣಿ ಮಗುಚಿ 12 ಜನರು ಮೃತ್ಯು; ಹಲವರು ನಾಪತ್ತೆ](https://www.varthabharati.in/international/12-dead-dozens-missing-after-vessel-capsizes-in-eastern-congos-lake-kivu-2278487)
+- [ಬೆಂಗಳೂರು | ಲ್ಯಾಂಡಿಂಗ್ ವೇಳೆ ರನ್‌ವೇಗೆ ಬಡಿದ ಇಂಡಿಗೋ ವಿಮಾನದ ಹಿಂಭಾಗ : ಪ್ರಯಾಣಿಕರು ಸುರಕ್ಷಿತ](https://www.varthabharati.in/National/indigo-flight-suffers-tail-strike-in-bengaluru-airline-blames-weather-2278485)
+- [“ಸಮುದ್ರ ಪ್ರಕ್ಷುಬ್ಧವಾಗಿದ್ದಾಗ ಈಜುವುದು ನನಗೆ ಇಷ್ಟ": ಸಿಇಸಿ ವಿವಾದದ ನಡುವೆ ರಾಹುಲ್ ಗಾಂಧಿ ಪೋಸ್ಟ್](https://www.varthabharati.in/National/i-love-swimming-in-sea-when-its-rough-rahul-gandhi-shares-cryptic-post-amid-cec-row-2278484)
+- [ಇಂಗ್ಲೆಂಡ್ | ಅಮೆರಿಕದ ವಾಯುನೆಲೆ ಬಳಿ ಶಂಕಿತರ ಬಂಧನ; ಸ್ಥಳೀಯರ ಸ್ಥಳಾಂತರ](https://www.varthabharati.in/international/england-suspects-arrested-near-us-air-base-locals-evacuated-2278483)
 - [ಭಾರತ್ ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್ ಲಿಮಿಟೆಡ್ ನೇಮಕಾತಿ; ಯಾರು ಅರ್ಜಿ ಸಲ್ಲಿಸಬಹುದು?](https://www.varthabharati.in/mahiti---margadarshana/bharat-electronics-limited-2278482)
 - [ಅ.1ರಿಂದ ಗೃಹಬಳಕೆಯ ಇಲೆಕ್ಟ್ರಾನಿಕ್ ಉತ್ಪನ್ನಗಳ ಬೆಲೆಯೇರಿಕೆ ಶೇ.8ರವರೆಗೆ ಹೆಚ್ಚಳ ಸಾಧ್ಯತೆ](https://www.varthabharati.in/National/ac-tv-appliances-prices-to-increase-up-to-8-from-october-1-ahead-of-festive-season-2278481)
 - [Kalaburagi | ಬಸವಣ್ಣನವರ ತತ್ವ ಯಾರೊಬ್ಬರ ಸ್ವತ್ತಲ್ಲ; ಧಾರ್ಮಿಕ ಸ್ವಾತಂತ್ರ್ಯ ಪ್ರಶ್ನಿಸುವ ಹಕ್ಕು ಯಾರಿಗೂ ಇಲ್ಲ: ಕಾಡಸಿದ್ದೇಶ್ವರ ಸ್ವಾಮೀಜಿ](https://www.varthabharati.in/kalaburagi-basavannas-philosophy-is-no-ones-property-none-has-the-right-to-question-religious-freedom-kaadasiddeshwara-swamiji)
 - [Asian Games | ಹೈಜಂಪ್, ಲಾಂಗ್‌ ಜಂಪ್‌ನಲ್ಲಿ ಭಾರತಕ್ಕೆ ಬೆಳ್ಳಿ](https://www.varthabharati.in/sports/asian-games-india-clinch-silver-medals-in-womens-long-jump-mens-high-jump-and-both-squash-singles-2278478)
-- [Bengaluru | ರಾಹುಲ್ ಗಾಂಧಿ ವಿರುದ್ಧ ಆಧಾರ ರಹಿತ ಹೇಳಿಕೆ; ರಾಜೀವ್ ಚಂದ್ರಶೇಖರ್ ವಿರುದ್ಧ ಕಾಂಗ್ರೆಸ್ ಪ್ರತಿಭಟನೆ](https://www.varthabharati.in/bengaluru/bengaluru-2278477)
-- [ಆನ್‍ಲೈನ್ ಬೆಟ್ಟಿಂಗ್ ಸಂಸ್ಥೆಗಳಿಗೆ ಸೇರಿದ 442.35 ಕೋಟಿ ರೂ. ಜಪ್ತಿ ಮಾಡಿದ ಈ.ಡಿ.](https://www.varthabharati.in/bengaluru/ed-2278475)
-- [Koppal | ರಸ್ತೆ ಅಪಘಾತ: ಮಹಿಳೆ ಮೃತ್ಯು](https://www.varthabharati.in/koppala/koppal-road-accident-woman-dies-2278474)
-- [Chitapur | ಧರ್ಮಸ್ಥಳ ಸಂಸ್ಥೆಯ ಉಚಿತ ಹೊಲಿಗೆ ತರಬೇತಿಯ ಸದುಪಯೋಗ ಪಡೆದುಕೊಳ್ಳಿ: ಲೂಸಿಪ್ರೀಯ](https://www.varthabharati.in/kalaburagi/chitapur-make-good-use-of-the-free-tailoring-training-offered-by-the-dharmasthala-organization-lucy-priya-2278473)
-- [Chitapur | ಧಾರವಾಡ ಕೃಷಿ ಮೇಳಕ್ಕೆ ನಾಗರೆಡ್ಡಿ ಗೋಪಸೇನ್ ಚಾಲನೆ](https://www.varthabharati.in/kalaburagi/chitapur-nagareddy-gopasen-inaugurates-dharwad-agricultural-fair-2278472)
-- [ಬಾಲ್ಕನಿ ಕುಸಿತ ದುರ್ಘಟನೆ: ಮೃತ ವಿದ್ಯಾರ್ಥಿಯ ಮನೆಗೆ, ಆಸ್ಪತ್ರೆಗೆ ಯೆಂಗ್ ಡೆಮಾಕ್ರಟ್ಸ್ ನಾಯಕರು ಭೇಟಿ](https://www.varthabharati.in/DakshinaKannada/--2278471)
 
 **Asianet Kannada**
+- [ವಿವಾದಕ್ಕೀಡಾದ ಅನಂತ್ ಅಂಬಾನಿಗೆ ನೀಡಿದ ಫ್ರೊಫೆಸರ್ ಸ್ಥಾನ, ಇಂಗ್ಲೆಂಡ್ ಯೂನಿವರ್ಸಿಟಿ ಸ್ಪಷ್ಟನೆ](https://kannada.asianetnews.com/world-news/newcastle-university-clarifies-anant-ambani-professor-appointment-amid-controversy/articleshow-nnmvvlg)
 - [TVK: ಮಿತ್ರಪಕ್ಷಗಳ ತೀವ್ರ ವಿರೋಧ; ಜಾರಿಯಾದ ಕೆಲವೇ ಗಂಟೆಗಳಲ್ಲಿ ವಿವಾದಾತ್ಮಕ ನಿರ್ಧಾರ ಹಿಂಪಡೆದ ವಿಜಯ್‌ ಸರ್ಕಾರ!](https://kannada.asianetnews.com/cricket-sports/vijay-government-rti-order-withdrawn-tamil-nadu-law-order-department-controversy-bmk/articleshow-wnyg032)
 - [ಇಸ್ಕಾನ್ ಬೆಂಗಳೂರಿನಲ್ಲಿ ವಿಶ್ವಗುರು ಸಂಭ್ರಮೋತ್ಸವ,  ಈ ಮಹಾನ್ ಗುರುಗಳ ಸಾಧನೆ ವಿವರ ಇಲ್ಲಿದೆ](https://kannada.asianetnews.com/bengaluru-urban/vishwa-guru-sambhramotsava-at-iskcon-bangalore/articleshow-3thzgss)
 - [ಬೆಂಗಳೂರು ಏರ್‌ಪೋರ್ಟ್‌ನಲ್ಲಿ ತಪ್ಪಿದ ಭಾರೀ ಅನಾಹುತ: ಇಂಡಿಗೋ ವಿಮಾನ ಲ್ಯಾಂಡಿಂಗ್ ವೇಳೆ ರನ್‌ವೇಗೆ ಬಡಿದ ಬಾಲ! ಡಿಜಿಸಿಎ ತನಿಖೆ](https://kannada.asianetnews.com/state/bengaluru-indigo-flight-suffers-tail-strike-while-landing-at-kempegowda-airport-dgca-rav/articleshow-3miokif)
@@ -119,7 +120,6 @@
 - [ಸಿಕ್ಸರ್ ಮೂಲಕ ಪಂದ್ಯ ಫಿನೀಶ್ ಮಾಡಿದ ಕೊಹ್ಲಿ, ವಿಂಡೀಸ್ ವಿರುದ್ದ ಭಾರತಕ್ಕೆ 8 ವಿಕೆಟ್ ಗೆಲುವು](https://kannada.asianetnews.com/cricket-sports/virat-kohli-finishes-match-with-a-six-india-beat-west-indies-by-8-wickets/articleshow-tubyqcd)
 - [RCB ಅಭಿಮಾನಿಗಳಿಗೆ ಸಂತಸದ ಸುದ್ದಿ, ಮತ್ತೊಂದು ಇತಿಹಾಸ ಸೃಷ್ಟಿ; ಮೈದಾನದಲ್ಲಿ ಅಷ್ಟೇ ಅಲ್ಲ ಕಣ್ರಿ](https://kannada.asianetnews.com/cricket-sports/rcb-made-history-by-debuting-at-milan-fashion-week-with-puma/articleshow-ydgsogt)
 - [ವಿಂಡೀಸ್ ವಿರುದ್ಧ ಭರ್ಜರಿ ಶತಕ, ಸಚಿನ್ ತೆಂಡೂಲ್ಕರ್ ದಾಖಲೆ ಬ್ರೇಕ್ ಮಾಡಿದ ವಿರಾಟ್ ಕೊಹ್ಲಿ](https://kannada.asianetnews.com/cricket-sports/virat-kohli-smashes-century-against-west-indies-breaks-sachin-tendulkar-record/articleshow-0xbz178)
-- [2028ರಲ್ಲಿ ನನಗೂ ಸಿಎಂ ಆಗುವಾಸೆ, ಮಾಡುತ್ತಾರಾ?: ಶಾಸಕ ಪ್ರದೀಪ್ ಈಶ್ವರ್ ಪ್ರಶ್ನೆ!](https://kannada.asianetnews.com/karnataka-districts/2028-karnataka-cm-race-congress-mla-pradeep-eshwar-says-will-they-make-me-cm-gvd/articleshow-fbufzwa)
 
 **News18 Kannada** — _unavailable_
 
@@ -148,6 +148,8 @@
 - [ರಾಂಕಾ ಸೇರಿದಂತೆ ಬೆಂಬಲಿಗರು ಪೊಲೀಸರ ವಶಕ್ಕೆ: ಸಿಜೆಪಿ ಆರೋಪ](https://www.prajavani.net/news/india-news/ashutosh-ranka-cjp-volunteers-detained-guwahati-police-assam-4291949)
 
 **eedina**
+- [ಯಾದಗಿರಿ | ತತ್ವಪದಕಾರ ಅವಧೂತ ಶ್ರೀ ರಂಗಲಿಂಗೇಶ್ವರ ಕುರಿತು ವಿಶೇಷ ಉಪನ್ಯಾಸ](https://eedina.com/?p=767051)
+- [ಬೇಲೂರು | ಡಾ. ಬಿ. ಆರ್ ಅಂಬೇಡ್ಕರ್ ಪ್ರತಿಮೆಗೆ ಪ್ರಕಾಶ್ ರಾಜ್ ಮಾಲಾರ್ಪಣೆ](https://eedina.com/?p=767048)
 - [ಯಾದಗಿರಿ | ಬಿಸಿಯೂಟ ನೌಕರರ ಬೇಡಿಕೆ ಈಡೇರಿಸುವಂತೆ ಆಗ್ರಹಿಸಿ ಮನವಿ](https://eedina.com/?p=767045)
 - [ಕಲಬುರಗಿ | ಈಶಾನ್ಯ ಶಿಕ್ಷಕರ ಕ್ಷೇತ್ರ: ಮತದಾರರ ಪಟ್ಟಿಗೆ ಹೆಸರು ಸೇರ್ಪಡೆಗೆ ಸೆ.29 ಕೊನೆಯ ದಿನ](https://eedina.com/?p=767042)
 - [ಕಲಬುರಗಿ | ವಜ್ರ ಮಹೋತ್ಸವದ ಸ್ಮರಣಾರ್ಥ ವಿಶೇಷ ಅಂಚೆ ಲಕೋಟೆ ಬಿಡುಗಡೆ](https://eedina.com/?p=767039)
@@ -156,39 +158,37 @@
 - [ಯಾದಗಿರಿ | ಶೋಷಿತ ಸಮುದಾಯಗಳ ಪ್ರಗತಿಗೆ ಶಿಕ್ಷಣ, ಸಂಘಟನೆ, ಹೋರಾಟ ಅಗತ್ಯ: ಪರಶುರಾಮ್ ನೀಲನಾಯಕ](https://eedina.com/?p=767030)
 - [ಚಿಕ್ಕಮಗಳೂರು | SIR ವಿರೋಧ: ಸಂವಿಧಾನ ಕೊಲೆ ಯತ್ನಕ್ಕೆ ಕಾರಣರಾದ ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ಗೆ ಶಿಕ್ಷೆ ಆಗಬೇಕು; ನಟ ಪ್ರಕಾಶ್ ರಾಜ್](https://eedina.com/?p=767025)
 - [ದಾಂಡೇಲಿ | ವಾಟರ್ ಆಕ್ಟಿವಿಟೀಸ್‌ಗೆ ಅಡ್ಡಿ: ರೆಸಾರ್ಟ್ ಮ್ಯಾನೇಜರ್, ಸಿಬ್ಬಂದಿ ವಿರುದ್ಧ ಜೀವ ಬೆದರಿಕೆ ಆರೋಪ](https://eedina.com/?p=767010)
-- [ನಿರ್ದಿಷ್ಟ ವ್ಯವಸ್ಥೆಯನ್ನು ಜನರು ಒಪ್ಪಿಕೊಂಡು ಅನುಸರಿಸಿದಾಗ ಸಾಮಾಜಿಕ ವ್ಯವಸ್ಥೆಯಾಗಿ ಬಲಗೊಳ್ಳುತ್ತದೆ: ಡಾ. ಪ್ರವೀಣ್ ರಾಮಚಂದ್ರ](https://eedina.com/?p=767009)
-- [2017ರಲ್ಲಿ ಚುನಾವಣಾ ಆಯೋಗವನ್ನು ನಂಬಿದ್ದೆವು, ಆದರೆ 2022ರಲ್ಲಿ ಎಸ್‌ಪಿ ಮತಗಳನ್ನು ಇಸಿ ಅಳಿಸಿದೆ: ಅಖಿಲೇಶ್ ಆರೋಪ](https://eedina.com/?p=767012)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
 - September (3.9)
 - Bengaluru (3.9)
+- Lovely Professional University (3.0)
 - ICICI Securities (3.0)
+- Asian Games (3.0)
 - target (3.0)
-- India (2.9)
-- IndiGo (2.9)
+- Scripted (2.6)
 - October (2.6)
-- Chitapur (2.6)
-- Defence (2.5)
-- police (2.1)
 - Parvesh Verma (2.0)
 - Assam Police (2.0)
-- Asian Games (2.0)
-- Chief Of Defence (2.0)
+- Students Deny (2.0)
+- Rape' In Video (2.0)
+- Released By Punjab's (2.0)
+- Then Call It (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [CM Suvendu Adhikari: ‘SIR পশ্চিমবঙ্গে তেঁতো, কিন্তু কেরালায় মিষ্টি’, মমতার ‘ভোটে হারিনি’-র জবাব দিলেন শুভেন্দু! ছবি দেখিয়ে স্পষ্ট করলেন বার্তা](https://bengali.news18.com/news/kolkata/bitter-in-west-bengal-but-sweet-in-kerala-cm-suvendu-adhikari-attacks-mamata-banerjee-and-opposition-over-bengal-sir-remark-ank-2908740.html)
-- [Nutrition: It’s More Than What We Put on Our Plate](https://kashmirconvener.com/nutrition-its-more-than-what-we-put-on-our-plate/)
-- [The Paradise Box Office Collection Day 3: Nani Film Crosses Rs 100 Crore Mark](https://www.ndtv.com/entertainment/the-paradise-box-office-collection-day-3-nani-film-crosses-rs-100-crore-mark-12104092)
-- [మహిళపై అత్యాచార వదంతులు.. యూనివర్సిటీలో తీవ్ర ఉద్రిక్తతలు](https://www.andhrajyothy.com/2026/national/lpu-students-protest-after-rape-rumours-trigger-tension-and-fire-incident-pcs-1561889.html)
-- [દુષ્કર્મ બાદ વિદ્યાર્થીનીએ આત્મહત્યા કર્યાની વાત ફેલાતા 2000 વિદ્યાર્થીઓએ લવલી યુનિવર્સિટીમાં તોડફોડ-આગચંપી કરી](https://www.gujaratsamachar.com/news/national/2000-students-vandalize-lovely-university-after-rumors-spread-that-the-student-committed-after-being-raped-22702331157)
-- [Festive shopping gets costlier as brands plan to hike AC, TV and appliance prices from October 1](https://economictimes.indiatimes.com/industry/cons-products/durables/ac-tv-price-hike-october-1-blue-star-godrej-appliances-haier-daikin-super-plastronics-panasonic-lg-bosch-home-comfort-hitachi-thomson-kodak-blaupunkt-lg-electronics-diwali-sale/articleshow/134514891.cms?from=mdr)
-- [क्रिकेटपटूच्या लेकाचा मैदानावर धुमाकूळ! ३० चौकार, २० षटकारांसह २७९ धावांची वादळी खेळी, कोण आहे १३ वर्षांचा ईसा बट?](https://www.loksatta.com/krida/sikandar-raza-son-eesa-butt-scored-279-runs-146-balls-20-sixes-zimbabwe-u14-match-wants-to-play-with-father-bdg-99-6158239/)
-- [ഇന്ത്യന്‍ സൂപ്പര്‍ ലീഗിന് അടുത്തമാസം തുടക്കം; കൊല്‍ക്കത്ത ഡാര്‍ബി നവംബര്‍ 29ന്](https://www.asianetnews.com/football-sports/indian-super-league-starts-next-month-with-bfc-vs-sporting-club-match-articleshow-grqvqo7)
-- [Pune Ganesh Festival: पुण्यात पोलिसांचे नियोजन कागदावरच; लक्ष्मी रस्त्यावर अनेक मंडळांनी केली घुसखोरी, नेमकं काय घडलं?](https://maharashtratimes.com/maharashtra/pune-news/pune-ganesh-visarjan-procession-police-planning-fails-encroachment-by-mandals-on-laxmi-road/articleshow/134515053.cms)
-- [UNSC: భారత్ కోసం గళమెత్తిన రష్యా.. ఐక్యరాజ్యసమితి వేదికగా కుండ బద్దలు కొట్టిన మిత్ర దేశం](https://telugu.news18.com/news/national-international/russia-backs-india-s-bid-for-permanent-unsc-seat-sergey-lavrov-opposes-more-seats-for-western-nations-sjn-3234421.html)
+- [DA Hike 2026: কেন্দ্রীয় সরকারি কর্মীদের সুখবর! পুজোর আগেই মিলবে বকেয়া টাকা? ৫০ হাজার টাকা বেসিক স্যালারিতে কত পাবেন? দেখুন ক্যালকুলেশন](https://bengali.news18.com/photogallery/business/da-hike-2026-3-4-percent-increase-expected-how-much-da-will-announce-for-central-employees-check-salary-increase-on-rs-50000-basic-ac-2908738.html)
+- [200 टन वजन और बेल्जियम से बलरामपुर तक का सफर... 308 पहिये वाले ट्रक पर ऐसा क्या लदा है?](https://www.jagran.com/news/national-200-tones-weight-vessel-from-belgium-to-balrampur-loaded-on-308-tyre-truck-know-details-40386640.html)
+- [Bigg Boss Marathi Fame Divya Shinde: बेल्ट अन् काठीनं झोडलं; डॉक्टरांना काळंनिळं होईपर्यंत मारलं, बिग बॉस फेम अभिनेत्रीवर गुन्हा दाखल, नेमकं प्रकरण काय?](https://marathi.abplive.com/entertainment/bigg-boss-marathi-fame-divya-shinde-booked-in-pune-doctor-assault-case-over-rs-5-lakh-demand-1440385)
+- ["Ready For Any Strikes Against Terrorists": Rajnath Singh's Message To Pak At NDTV Defence Summit](https://www.ndtv.com/india-news/ready-for-any-strikes-against-terrorists-rajnath-singhs-message-to-pak-at-ndtv-defence-summit-12104178)
+- [चीन के साथ ईरान का ये दांव, क्या अमेरिका के शिकंजे से उसे आज़ाद करा देगा?](https://www.bbc.com/hindi/articles/ckpq00rpd4v2o)
+- [ભારતને રશિયાનું ખુલ્લેઆમ સમર્થન, UNSC માં કાયમી સભ્યપદ માટેની હાકલ સાથે પશ્ચિમી દેશોનો વિરોધ કર્યો](https://www.gujaratsamachar.com/news/international/russia-openly-supports-india-opposes-western-countries-with-call-for-permanent-membership-in-unsc-58209077272)
+- [रूस की परमाणु युद्ध में महाविनाश से बचने की तैयारी? रहस्यमय पहाड़ के नीचे बन रहा पुतिन का 'न्यूक्लियर हाइडआउट'?](https://navbharattimes.indiatimes.com/world/rest-of-europe/russia-secret-nuclear-bunker-yamantau-mountain-dead-hand-putin-third-world-war-preparation/articleshow/134515314.cms)
+- [CJP’s Ashutosh Ranka, his team detained in Guwahati: ‘Himanta Sarma is scared we’ll show reality of schools'](https://timesofindia.indiatimes.com/city/guwahati/cjps-ashutosh-ranka-his-team-detained-in-guwahati-himanta-sarma-is-scared-well-show-school-reality/articleshow/134515317.cms)
+- [കേരള ട്രാവല്‍ മാര്‍ട്ട് പതിമൂന്നാം പതിപ്പിന് കൊടിയിറങ്ങി; 45000 ല്‍ അധികം ബിസിനസ് കൂടിക്കാഴ്ചകൾ](https://www.manoramanews.com/business/latest/2026/09/27/13th-kerala-travel-mart-concludes-in-kochi-with-45000-b2b-meetings.html)
+- [Ram Shriram Early Investor Story & Facts](https://www.bhaskarenglish.in/tech-science/news/google-birthday-history-ram-shriram-story-early-investor-139164516.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
