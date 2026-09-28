@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-28 22:02:03
+# India Trending Report — 2026-09-28 22:34:49
 
 ## Google Trends (India) — top trending searches
 1. [france](https://trends.google.com/trending/rss?geo=IN)
 2. [dow jones](https://trends.google.com/trending/rss?geo=IN)
-3. [sebastiano esposito](https://trends.google.com/trending/rss?geo=IN)
-4. [pio esposito](https://trends.google.com/trending/rss?geo=IN)
-5. [one ui 9 s25 ultra](https://trends.google.com/trending/rss?geo=IN)
-6. [javelin throw](https://trends.google.com/trending/rss?geo=IN)
-7. [romania vs bosnia and herzegovina](https://trends.google.com/trending/rss?geo=IN)
-8. [stock split](https://trends.google.com/trending/rss?geo=IN)
-9. [নেপাল](https://trends.google.com/trending/rss?geo=IN)
-10. [sweden vs poland](https://trends.google.com/trending/rss?geo=IN)
+3. [pio esposito](https://trends.google.com/trending/rss?geo=IN)
+4. [one ui 9 s25 ultra](https://trends.google.com/trending/rss?geo=IN)
+5. [javelin throw](https://trends.google.com/trending/rss?geo=IN)
+6. [romania vs bosnia and herzegovina](https://trends.google.com/trending/rss?geo=IN)
+7. [stock split](https://trends.google.com/trending/rss?geo=IN)
+8. [নেপাল](https://trends.google.com/trending/rss?geo=IN)
+9. [sweden vs poland](https://trends.google.com/trending/rss?geo=IN)
+10. [belgium vs france](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Punjab's poll drug debate has old players in new roles: BJP, Cong attack; AAP defends](https://timesofindia.indiatimes.com/india/punjab-election-drug-debate-has-old-players-in-new-roles-bjp-congress-attack-as-aap-defends-its-record/articleshow/134542419.cms)
 - [FBI adds Goldy Brar to its 10 most wanted list, offers $1 million reward](https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/134549606.cms)
+- [Government to tighten rules to block under-18 accounts on social media platforms](https://timesofindia.indiatimes.com/india/sg-govt-to-tighten-rules-to-block-under-18-accounts-on-social-media-platforms/articleshow/134552959.cms)
 - ['Very soon’: Trump predicts US victory in Iran war, says gas prices will tumble](https://timesofindia.indiatimes.com/world/middle-east/very-soon-trump-predicts-us-victory-in-iran-war-says-gas-prices-will-tumble/articleshow/134550107.cms)
-- [14 killed as fire tears through Russian fireworks factory](https://timesofindia.indiatimes.com/world/rest-of-world/14-dead-in-massive-blaze-at-russian-fireworks-factory/articleshow/134550018.cms)
 - [US labor dept hints at 'total shutdown' of H-1B visa program](https://timesofindia.indiatimes.com/technology/tech-news/department-of-labor-ig-anthony-desposito-hints-at-total-shutdown-of-h-1b-via-program-says-365-days-from-now-/articleshow/134532030.cms)
-- [Trump slams UK over release of suspects in alleged terror plot targeting US airbase](https://timesofindia.indiatimes.com/world/us/trump-questions-uk-release-of-five-suspects-held-over-alleged-attack-on-us-airbase/articleshow/134550101.cms)
+- [14 killed as fire tears through Russian fireworks factory](https://timesofindia.indiatimes.com/world/rest-of-world/14-dead-in-massive-blaze-at-russian-fireworks-factory/articleshow/134550018.cms)
 - [14-year-old Georgia student scores perfect 1600 on SAT](https://timesofindia.indiatimes.com/world/us/a-14-year-old-georgia-student-scored-a-perfect-1600-on-the-sat-after-taking-college-level-courses-ashrit-talluri-of-fulton-county-achieved-the-maximum-score-while-still-in-an-age-group-far-younger-than-typical-sat-test-takers/articleshow/134516628.cms)
 - [US viral delivery driver's $700K fundraiser pulled after daughter posed as neighbour](https://timesofindia.indiatimes.com/world/us/us-81-year-old-viral-delivery-drivers-700k-fundraiser-for-wifes-cancer-treatment-pulled-after-discovering-daughter-posed-as-neighbour-to-raise-money/articleshow/134538859.cms)
+- [Trump slams UK over release of suspects in alleged terror plot targeting US airbase](https://timesofindia.indiatimes.com/world/us/trump-questions-uk-release-of-five-suspects-held-over-alleged-attack-on-us-airbase/articleshow/134550101.cms)
 - [To avert listing, Noel submits Tata Sons revamp plan to RBI](https://timesofindia.indiatimes.com/business/india-business/to-avert-listing-noel-submits-tata-sons-revamp-plan-to-rbi/articleshow/134550157.cms)
-- [Stock market rout: Sensex sinks to 6-month low, Rs 17 lakh crore wiped out in a month](https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-takes-sensex-to-6-month-low-index-tanks-5-in-a-month-as-investors-lose-rs-17-lakh-crore/articleshow/134544486.cms)
 
 **NDTV**
 - [Netanyahu, UAE President Meet In Abu Dhabi, Discuss Bilateral Ties](https://www.ndtv.com/world-news/benjamin-netanyahu-uae-president-meet-in-abu-dhabi-discuss-bilateral-ties-12111867#publisher=newsstand)
@@ -114,6 +114,7 @@
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ನಿತ್ಯ ಭವಿಷ್ಯ : ಇಂದು ಈ ರಾಶಿಯವರ ಮೇಲೆ ಹೆಚ್ಚಿನವ ಕಣ್ಣು ಇರುವುದು…](https://tv9kannada.com/horoscope/horoscope-today-sept-29-2026-your-zodiac-predictions-for-finance-career-and-love-1243733.html)
 - [ಗುಪ್ತಾಂಗ ಕಟ್, ರೂಂನಲ್ಲಿತ್ತು ಗ್ರೈಂಡರ್; ವೃಂದಾವನದಲ್ಲಿ ಪ್ರೇಮಾನಂದ ಮಹಾರಾಜ್ ಶಿಷ್ಯನ ಅನುಮಾನಾಸ್ಪದ ಸಾವು](https://tv9kannada.com/national/private-part-cut-grinder-found-in-room-mystery-over-premanand-maharaj-disciples-death-in-vrindavan-1243877.html)
 - [ಬಿಗ್ ಬಾಸ್ ಕನ್ನಡ ಸೀಸನ್ 13: ಯಶಸ್, ಶಾಸ್ತ್ರಿಗೆ ಬುದ್ಧಿ ಕಲಿಸಿದ ವೈಲ್ಡ್ ಕಾರ್ಡ್ ಸ್ಪರ್ಧಿ ಗಾನವಿ ಗೌಡ](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-season-13-wild-card-entry-gaanavi-gowda-targets-yashas-and-kiran-shastri-1243876.html)
 - [ಬಸ್ ಸೌಲಭ್ಯವಿಲ್ಲದೇ ಶಾಲೆಗೆ ಹೋಗಲು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಟಂಟಂಗಳೇ ಆಸರೆ: ಸ್ವಲ್ಪ ಯಾಮಾರಿದ್ರೂ ಪ್ರಾಣಕ್ಕೇ ಕುತ್ತು](https://tv9kannada.com/videos/yadgir-rural-students-risk-their-lives-as-lack-of-government-bus-service-disrupts-daily-commute-1243869.html)
@@ -123,7 +124,6 @@
 - [ಮಲೆನಾಡಲ್ಲೂ ಶುರುವಾಯ್ತು ಜಲಕ್ಷಾಮದ ಭೀತಿ: ಬರಿದಾಗುವ ಹಂತಕ್ಕೆ ತಲುಪಿದ ಜೀವನಾಡಿ ತುಂಗಾ ನದಿ!](https://tv9kannada.com/karnataka/chikkamagaluru/water-scarcity-fear-grips-malenadu-tunga-river-on-the-verge-of-running-dry-1243843.html)
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್: ನೀರಜ್ ಇಲ್ಲದೆಯೇ ಜಾವೆಲಿನ್​ನಲ್ಲಿ ಬೆಳ್ಳಿ, ಕಂಚು ಗೆದ್ದ ಭಾರತ](https://tv9kannada.com/photo-gallery/2026-asian-games-india-javelin-medals-yashveer-rohit-1243846.html)
 - [ಡಿಕೆಶಿಗೆ ಮನವಿಗೆ ರಾಜನಾಥ್ ಸಿಂಗ್ ಒಪ್ಪಿಗೆ: ಈ ಬಾರಿ ಮೈಸೂರು ದಸರಾದಲ್ಲಿ ಏರ್ ಶೋ, ಸೇನಾ ಪರೇಡ್](https://tv9kannada.com/videos/rajanath-singh-gives-permission-for-air-show-and-army-parade-in-mysuru-dasara-after-dk-shivakumar-requested-1243859.html)
-- [ಪಶ್ಚಿಮ ಬಂಗಾಳದ ಪ್ರವಾಸದ ವೇಳೆ ಝಲ್ಮುರಿ ಸವಿದ ಬಿಜೆಪಿ ಅಧ್ಯಕ್ಷ ನಿತಿನ್ ನವೀನ್](https://tv9kannada.com/videos/bjp-national-president-nitin-nabin-enjoys-jhalmuri-in-kolkata-during-west-bengal-visit-1243857.html)
 
 **Prajavani**
 - [ಮೈಸೂರು | ಅಣ್ಣನ ಮಗಳ ಮೇಲೆ ಅತ್ಯಾಚಾರ: ಚಿಕ್ಕಪ್ಪನಿಗೆ 25 ವರ್ಷ ಜೈಲು ಶಿಕ್ಷೆ](https://www.prajavani.net/district/mysuru/mysuru-pocso-court-sentence-uncle-sexual-assault-case-4294449)
@@ -169,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [OPPO F35 5G Series India Launch Date Confirmed](https://telecomtalk.info/oppo-f35-5g-series-india-launch-date/1012273/)
-- [Plea In Supreme Court To Suspend Gyanesh Kumar As CEC, Declare ECI Decisions Cannot Be Taken Unilaterally](https://www.livelaw.in/top-stories/plea-in-supreme-court-to-suspend-gyanesh-kumar-as-cec-declare-eci-decisions-cannot-be-taken-unilaterally-552097)
-- [સરકારે મોબાઇલ રિચાર્જના નિયમો બદલી નાંખ્યા: Jio, Airtel, Vi ના ગ્રાહકોને થશે સીધી અસર](https://gujarati.abplive.com/technology/trai-mobile-recharge-rules-jio-airtel-vi-30-days-validity-plan-update-992223)
-- [Stock market crash today: BSE Sensex crashes over 1,100 points, investors lose Rs 8.92 lakh crore - top reasons for fall](https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-today-why-bse-sensex-and-nifty50-have-crashed-on-september-28-2026-us-iran-war-crude-oil-rupee-top-reasons-for-fall/articleshow/134532562.cms)
-- [சேவைகள் தடையின்றி தொடர்ந்தன](https://www.tamilmurasu.com.sg/india/employees-strike-postponed-banking-services-continued-uninterrupted?ref=india)
-- [சேவைகள் தடையின்றி தொடர்ந்தன](https://www.tamilmurasu.com.sg/india/employees-strike-postponed-banking-services-continued-uninterrupted)
-- [‘Gem Granite’ Veeramani booked in second POCSO Act case](https://www.thehindu.com/news/national/tamil-nadu/gem-granite-veeramani-booked-in-second-pocso-act-case/article71519195.ece)
-- [VIDEO: હિટમેન રોહિત શર્મા બસમાંથી ઊતરતી વખતે લપસી પડ્યા, વિરાટ કોહલીનું રિએક્શન વાઈરલ](https://www.gujaratsamachar.com/news/sports/video-hitman-rohit-sharma-slips-while-getting-off-the-bus-virat-kohlis-reaction-goes-viral-68263426437)
-- [Gold-Silver Price Crash Today: चांदी का बुलबुला फूटा... अचानक 9000 रुपये सस्ती, सोना भी ₹4000 सस्ता](https://www.aajtak.in/business/utility/story/silver-bubble-burst-price-crash-gold-rs-4000-cheaper-check-new-rate-update-tutc-dskc-2655404-2026-09-28)
-- [ഏഷ്യന്‍ ഗെയിംസ്: ഈഷ സിംഗിന് വെള്ളി; ക്രിക്കറ്റില്‍ ഇന്ത്യ സെമിയില്‍](https://janamtv.com/81061726/)
+- [ജയിലിൽ പോയ മൂന്നെണ്ണത്തിൽ ഒന്നിന്റെ കല്യാണമായി, എന്റെ കാശിന് തായ്‌ലൻഡിൽ ഹണിമൂണും: ദിയ കൃഷ്ണ പറയുന്നു](https://www.manoramaonline.com/movies/tv/2026/09/28/diya-krishna-s-shocking-revelation-employee-on-thailand-honeymoon-amidst-theft-case.html)
+- [Ai+ Pulse 2 FE launched in India at ₹9,999 with 5000mAh battery, 120Hz display, and 50MP camera](https://www.mobigyaan.com/ai-plus-pulse-2-fe-india)
+- [Three-language policy: Supreme Court directs CBSE to grant class 6 same exemption allowed to class 7](https://www.barandbench.com/news/litigation/three-language-policy-supreme-court-directs-cbse-to-grant-class-6-same-exemption-allowed-to-class-7)
+- [NPS For Traders: చిన్న దుకాణం పెట్టుకున్నారా? నెలకు రూ.3000 ఇస్తోన్న కేంద్రం.. ఈ PMSYM స్కీమ్ గురించి తెలుసా?](https://telugu.samayam.com/business/business-news/national-pension-scheme-for-traders-rs-3000-monthly-pension-eligibility/articleshow/134539167.cms)
+- [‘নির্বাচন কমিশন কোনও পক্ষের দ্বারা চালিত হলে যা-হওয়ার তাই হয়েছে’! আইএসএফের প্রতীক মামলায় রায় স্থগিত হাই কোর্টের](https://www.anandabazar.com/west-bengal/calcutta-high-court-reserved-its-order-on-symbol-issue-of-isf-and-raised-questions-over-ecis-decision-dgtl/cid/1716075)
+- [লঞ্চ হলো নতুন Renault Triber Turbo, কী কী পরিবর্তন?](https://eisamay.com/auto-news/renault-triber-turbo-edition-launched-in-india-with-better-specs-and-increased-mileage/200548497.cms)
+- [4 డేస్ ప్యారడైజ్ టోటల్ కలెక్షన్స్….4వ రోజున మాస్ ఊచకోత!!](https://t2blive.com/4days-paradise-ww-total-collections/)
+- [Mamata TMC: পুরভোটেও উধাও জোড়াফুল? সুপ্রিম নির্দেশে ফের বড় ধাক্কা মমতা শিবিরের](https://bengali.news18.com/news/national/big-setback-for-mamata-tmc-as-joraphool-symbol-is-unlikely-to-return-in-municipal-elections-after-supreme-court-order-dmg-2910154.html)
+- [വിജയിനെ കാണാൻ തടിച്ചുകൂടിയവർ ബോധരഹിതരായി- Actor Vijay](https://www.manoramaonline.com/news/latest-news/2026/09/28/cm-vijay-event-people-faint-heat-madurai.html)
+- [BREAKING: Income Tax searches at 12 locations linked to Rakul Preet Singh, Vashu Bhagnani, Panorama Studios, Ali Abbas Zafar](https://www.bollywoodhungama.com/news/bollywood/breaking-income-tax-searches-at-12-locations-linked-to-rakul-preet-singh-vashu-bhagnani-panorama-studios-ali-abbas-zafar/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
