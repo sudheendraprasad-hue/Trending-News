@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28 22:34:49",
+  "generated_at": "2026-09-28 23:01:55",
   "google_trends": [
     {
       "title": "france",
@@ -63,20 +63,20 @@
         "link": "https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/134549606.cms"
       },
       {
-        "title": "Government to tighten rules to block under-18 accounts on social media platforms",
-        "link": "https://timesofindia.indiatimes.com/india/sg-govt-to-tighten-rules-to-block-under-18-accounts-on-social-media-platforms/articleshow/134552959.cms"
+        "title": "UAE confirms Netanyahu\u2019s secret visit; Iran dominated six-hour talks",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-confirms-netanyahus-secret-visit-says-talks-focused-on-iran-bilateral-ties/articleshow/134553026.cms"
       },
       {
-        "title": "'Very soon\u2019: Trump predicts US victory in Iran war, says gas prices will tumble",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/very-soon-trump-predicts-us-victory-in-iran-war-says-gas-prices-will-tumble/articleshow/134550107.cms"
+        "title": "Government to tighten rules to block under-18 accounts on social media platforms",
+        "link": "https://timesofindia.indiatimes.com/india/sg-govt-to-tighten-rules-to-block-under-18-accounts-on-social-media-platforms/articleshow/134552959.cms"
       },
       {
         "title": "US labor dept hints at 'total shutdown' of H-1B visa program",
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/department-of-labor-ig-anthony-desposito-hints-at-total-shutdown-of-h-1b-via-program-says-365-days-from-now-/articleshow/134532030.cms"
       },
       {
-        "title": "14 killed as fire tears through Russian fireworks factory",
-        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/14-dead-in-massive-blaze-at-russian-fireworks-factory/articleshow/134550018.cms"
+        "title": "'Very soon\u2019: Trump predicts US victory in Iran war, says gas prices will tumble",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/very-soon-trump-predicts-us-victory-in-iran-war-says-gas-prices-will-tumble/articleshow/134550107.cms"
       },
       {
         "title": "14-year-old Georgia student scores perfect 1600 on SAT",
@@ -87,15 +87,19 @@
         "link": "https://timesofindia.indiatimes.com/world/us/us-81-year-old-viral-delivery-drivers-700k-fundraiser-for-wifes-cancer-treatment-pulled-after-discovering-daughter-posed-as-neighbour-to-raise-money/articleshow/134538859.cms"
       },
       {
-        "title": "Trump slams UK over release of suspects in alleged terror plot targeting US airbase",
-        "link": "https://timesofindia.indiatimes.com/world/us/trump-questions-uk-release-of-five-suspects-held-over-alleged-attack-on-us-airbase/articleshow/134550101.cms"
+        "title": "14 killed as fire tears through Russian fireworks factory",
+        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/14-dead-in-massive-blaze-at-russian-fireworks-factory/articleshow/134550018.cms"
       },
       {
-        "title": "To avert listing, Noel submits Tata Sons revamp plan to RBI",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/to-avert-listing-noel-submits-tata-sons-revamp-plan-to-rbi/articleshow/134550157.cms"
+        "title": "Trump slams UK over release of suspects in alleged terror plot targeting US airbase",
+        "link": "https://timesofindia.indiatimes.com/world/us/trump-questions-uk-release-of-five-suspects-held-over-alleged-attack-on-us-airbase/articleshow/134550101.cms"
       }
     ],
     "NDTV": [
+      {
+        "title": "NASA Announces New Missions For Boeing Starliner Spacecraft",
+        "link": "https://www.ndtv.com/world-news/nasa-announces-new-missions-for-boeing-starliner-spacecraft-12111929#publisher=newsstand"
+      },
       {
         "title": "Netanyahu, UAE President Meet In Abu Dhabi, Discuss Bilateral Ties",
         "link": "https://www.ndtv.com/world-news/benjamin-netanyahu-uae-president-meet-in-abu-dhabi-discuss-bilateral-ties-12111867#publisher=newsstand"
@@ -131,10 +135,6 @@
       {
         "title": "From 6th-Gen Fighters To AI: 15 Biggest Takeaways From NDTV Defence Summit",
         "link": "https://www.ndtv.com/india-news/ndtv-defence-summit-china-pakistan-from-6th-gen-fighters-to-ai-15-biggest-takeaways-from-ndtv-defence-summit-12111614#publisher=newsstand"
-      },
-      {
-        "title": "Iran's Araghchi To Meet Qatari Mediators In New York Today",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-iran-foreign-minister-abbas-araghchi-to-meet-qatari-mediators-in-new-york-today-strait-of-hormuz-donald-trump-12111621#publisher=newsstand"
       }
     ],
     "Hindustan Times": [
@@ -540,6 +540,14 @@
       "score": 2.9
     },
     {
+      "term": "Netanyahu",
+      "score": 2.6
+    },
+    {
+      "term": "Iran",
+      "score": 2.6
+    },
+    {
       "term": "Kyani",
       "score": 2.6
     },
@@ -570,57 +578,49 @@
     {
       "term": "Maharashtra",
       "score": 2.2
-    },
-    {
-      "term": "Supreme Court",
-      "score": 2
-    },
-    {
-      "term": "Punjab's",
-      "score": 1.6
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u0d1c\u0d2f\u0d3f\u0d32\u0d3f\u0d7d \u0d2a\u0d4b\u0d2f \u0d2e\u0d42\u0d28\u0d4d\u0d28\u0d46\u0d23\u0d4d\u0d23\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d12\u0d28\u0d4d\u0d28\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d15\u0d32\u0d4d\u0d2f\u0d3e\u0d23\u0d2e\u0d3e\u0d2f\u0d3f, \u0d0e\u0d28\u0d4d\u0d31\u0d46 \u0d15\u0d3e\u0d36\u0d3f\u0d28\u0d4d \u0d24\u0d3e\u0d2f\u0d4d\u200c\u0d32\u0d7b\u0d21\u0d3f\u0d7d \u0d39\u0d23\u0d3f\u0d2e\u0d42\u0d23\u0d41\u0d02: \u0d26\u0d3f\u0d2f \u0d15\u0d43\u0d37\u0d4d\u0d23 \u0d2a\u0d31\u0d2f\u0d41\u0d28\u0d4d\u0d28\u0d41",
-      "link": "https://www.manoramaonline.com/movies/tv/2026/09/28/diya-krishna-s-shocking-revelation-employee-on-thailand-honeymoon-amidst-theft-case.html"
+      "title": "\u0d1a\u0d48\u0d28\u0d2f\u0d3f\u0d7d \u0d09\u0d37\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d4a\u0d2a\u0d4d\u0d2a\u0d2e\u0d46\u0d24\u0d4d\u0d24\u0d3f, \u0d1c\u0d2a\u0d4d\u0d2a\u0d3e\u0d28\u0d3f\u0d7d \u0d09\u0d37\u0d2f\u0d46 \u0d2e\u0d31\u0d3f\u0d15\u0d1f\u0d28\u0d4d\u0d28\u0d41, 42 \u0d35\u0d7c\u0d37\u0d02 \u0d2a\u0d34\u0d15\u0d4d\u0d15\u0d2e\u0d41\u0d33\u0d4d\u0d33 \u0d31\u0d46\u0d15\u0d4d\u0d15\u0d4b\u0d21\u0d4d \u0d2d\u0d47\u0d26\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d35\u0d3f\u0d24\u0d4d\u0d2f",
+      "link": "https://www.mathrubhumi.com/sports/other-sports/vithya-ramraj-breaks-pt-usha-national-record-asian-games-2026-rz59ubia"
     },
     {
-      "title": "Ai+ Pulse 2 FE launched in India at \u20b99,999 with 5000mAh battery, 120Hz display, and 50MP camera",
-      "link": "https://www.mobigyaan.com/ai-plus-pulse-2-fe-india"
+      "title": "Revanth Reddy: \u0c13\u0c1f\u0c41\u0c15\u0c41 \u0c28\u0c4b\u0c1f\u0c41 \u0c15\u0c47\u0c38\u0c41\u0c32\u0c4b \u0c30\u0c47\u0c35\u0c02\u0c24\u0c4d \u0c30\u0c46\u0c21\u0c4d\u0c21\u0c3f\u0c15\u0c3f \u0c0a\u0c30\u0c1f",
+      "link": "https://vaartha.com/telangana/revanth-reddy-has-received-relief-in-the-vote-for-note-case/782957/"
     },
     {
-      "title": "Three-language policy: Supreme Court directs CBSE to grant class 6 same exemption allowed to class 7",
-      "link": "https://www.barandbench.com/news/litigation/three-language-policy-supreme-court-directs-cbse-to-grant-class-6-same-exemption-allowed-to-class-7"
+      "title": "\u0bb0\u0b9c\u0bbf\u0ba9\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u201c\u0b9c\u0bc6\u0baf\u0bbf\u0bb2\u0bb0\u0bcd 2\u201d \u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b87\u0b9a\u0bc8 \u0b86\u0bb2\u0bcd\u0baa \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+      "link": "https://www.dailythanthi.com/cinema/cinemanews/rajinikanths-jailer-2-music-album-release-announcement"
     },
     {
-      "title": "NPS For Traders: \u0c1a\u0c3f\u0c28\u0c4d\u0c28 \u0c26\u0c41\u0c15\u0c3e\u0c23\u0c02 \u0c2a\u0c46\u0c1f\u0c4d\u0c1f\u0c41\u0c15\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c3e? \u0c28\u0c46\u0c32\u0c15\u0c41 \u0c30\u0c42.3000 \u0c07\u0c38\u0c4d\u0c24\u0c4b\u0c28\u0c4d\u0c28 \u0c15\u0c47\u0c02\u0c26\u0c4d\u0c30\u0c02.. \u0c08 PMSYM \u0c38\u0c4d\u0c15\u0c40\u0c2e\u0c4d \u0c17\u0c41\u0c30\u0c3f\u0c02\u0c1a\u0c3f \u0c24\u0c46\u0c32\u0c41\u0c38\u0c3e?",
-      "link": "https://telugu.samayam.com/business/business-news/national-pension-scheme-for-traders-rs-3000-monthly-pension-eligibility/articleshow/134539167.cms"
+      "title": "CBDT extends tax audit deadline to October 21: Taxpayers get more time to file audit report",
+      "link": "https://www.moneycontrol.com/news/business/personal-finance/cbdt-extends-tax-audit-deadline-taxpayers-get-more-time-to-file-audit-report-14038428.html"
     },
     {
-      "title": "\u2018\u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09a8 \u0995\u09ae\u09bf\u09b6\u09a8 \u0995\u09cb\u09a8\u0993 \u09aa\u0995\u09cd\u09b7\u09c7\u09b0 \u09a6\u09cd\u09ac\u09be\u09b0\u09be \u099a\u09be\u09b2\u09bf\u09a4 \u09b9\u09b2\u09c7 \u09af\u09be-\u09b9\u0993\u09df\u09be\u09b0 \u09a4\u09be\u0987 \u09b9\u09df\u09c7\u099b\u09c7\u2019! \u0986\u0987\u098f\u09b8\u098f\u09ab\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a4\u09c0\u0995 \u09ae\u09be\u09ae\u09b2\u09be\u09df \u09b0\u09be\u09df \u09b8\u09cd\u09a5\u0997\u09bf\u09a4 \u09b9\u09be\u0987 \u0995\u09cb\u09b0\u09cd\u099f\u09c7\u09b0",
-      "link": "https://www.anandabazar.com/west-bengal/calcutta-high-court-reserved-its-order-on-symbol-issue-of-isf-and-raised-questions-over-ecis-decision-dgtl/cid/1716075"
+      "title": "CBSE-\u09b0 \u09b7\u09b7\u09cd\u09a0 \u09b6\u09cd\u09b0\u09c7\u09a3\u09bf\u09a4\u09c7\u0993 \u098f\u0996\u09a8\u0987 \u09ac\u09be\u09a7\u09cd\u09af\u09a4\u09be\u09ae\u09c2\u09b2\u0995 \u09a8\u09df \u09a4\u09c3\u09a4\u09c0\u09df \u09ad\u09be\u09b7\u09be, \u09b8\u09c1\u09aa\u09cd\u09b0\u09bf\u09ae \u0995\u09cb\u09b0\u09cd\u099f\u09c7\u09b0 \u09a8\u09bf\u09b0\u09cd\u09a6\u09c7\u09b6\u09c7 \u09b8\u09cd\u09ac\u09b8\u09cd\u09a4\u09bf \u09aa\u09dc\u09c1\u09df\u09be\u09a6\u09c7\u09b0",
+      "link": "https://www.thewall.in/India/cbse-class-6-third-language-mandatory-policy-exemption-supreme-court-order/tid/205790"
     },
     {
-      "title": "\u09b2\u099e\u09cd\u099a \u09b9\u09b2\u09cb \u09a8\u09a4\u09c1\u09a8 Renault Triber Turbo, \u0995\u09c0 \u0995\u09c0 \u09aa\u09b0\u09bf\u09ac\u09b0\u09cd\u09a4\u09a8?",
-      "link": "https://eisamay.com/auto-news/renault-triber-turbo-edition-launched-in-india-with-better-specs-and-increased-mileage/200548497.cms"
+      "title": "Nandigram By Election 2026 : \u09a8\u09a8\u09cd\u09a6\u09c0\u0997\u09cd\u09b0\u09be\u09ae\u09c7 \u0995\u0982\u0997\u09cd\u09b0\u09c7\u09b8\u09c7\u09b0 \u09aa\u09cd\u09b0\u099a\u09be\u09b0 \u0997\u09be\u09a1\u09bc\u09bf\u09a4\u09c7 \u09b9\u09be\u09ae\u09b2\u09be\u09b0 \u0985\u09ad\u09bf\u09af\u09cb\u0997, '\u09a6\u09be\u09df\u09ad\u09be\u09b0 \u09ac\u09bf\u099c\u09c7\u09aa\u09bf \u09a8\u09bf\u09a4\u09c7 \u09aa\u09be\u09b0\u09ac\u09c7 \u09a8\u09be'",
+      "link": "https://bengali.abplive.com/district/congress-s-campaign-vehicle-for-nandigram-by-election-2026-allegedly-attacked-by-bjp-1194482"
     },
     {
-      "title": "4 \u0c21\u0c47\u0c38\u0c4d \u0c2a\u0c4d\u0c2f\u0c3e\u0c30\u0c21\u0c48\u0c1c\u0c4d \u0c1f\u0c4b\u0c1f\u0c32\u0c4d \u0c15\u0c32\u0c46\u0c15\u0c4d\u0c37\u0c28\u0c4d\u0c38\u0c4d\u2026.4\u0c35 \u0c30\u0c4b\u0c1c\u0c41\u0c28 \u0c2e\u0c3e\u0c38\u0c4d \u0c0a\u0c1a\u0c15\u0c4b\u0c24!!",
-      "link": "https://t2blive.com/4days-paradise-ww-total-collections/"
+      "title": "\u0968 \u0911\u0915\u094d\u091f\u094b\u092c\u0930\u0932\u093e \u092f\u0942\u092a\u0940\u0906\u092f \u092c\u0902\u0926 \u0930\u093e\u0939\u0923\u093e\u0930? \u0935\u094d\u092f\u093e\u092a\u093e\u0930\u0940 \u0938\u0902\u0918\u091f\u0928\u0947\u091a\u093e \u092e\u094b\u0920\u093e \u0916\u0941\u0932\u093e\u0938\u093e!",
+      "link": "https://www.loksatta.com/business/news/no-upi-day-october-2-fake-rumor-cait-clarification-rap-91-6160787/"
     },
     {
-      "title": "Mamata TMC: \u09aa\u09c1\u09b0\u09ad\u09cb\u099f\u09c7\u0993 \u0989\u09a7\u09be\u0993 \u099c\u09cb\u09a1\u09bc\u09be\u09ab\u09c1\u09b2? \u09b8\u09c1\u09aa\u09cd\u09b0\u09bf\u09ae \u09a8\u09bf\u09b0\u09cd\u09a6\u09c7\u09b6\u09c7 \u09ab\u09c7\u09b0 \u09ac\u09a1\u09bc \u09a7\u09be\u0995\u09cd\u0995\u09be \u09ae\u09ae\u09a4\u09be \u09b6\u09bf\u09ac\u09bf\u09b0\u09c7\u09b0",
-      "link": "https://bengali.news18.com/news/national/big-setback-for-mamata-tmc-as-joraphool-symbol-is-unlikely-to-return-in-municipal-elections-after-supreme-court-order-dmg-2910154.html"
+      "title": "\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bcd \u0bb5\u0bbe\u0bb4\u0ba4\u0bcd \u0ba4\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bb1\u0bcd\u0bb1 \u0b9a\u0bc2\u0bb4\u0bb2\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1\u0bb5\u0b95\u0bc8 \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc7 - \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd \u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bbe\u0b9c\u0bcd",
+      "link": "https://www.etvbharat.com/ta/entertainment/creating-an-unlivable-environment-for-transgender-people-is-a-form-of-violence-director-karthik-subbaraj-tns26092803192"
     },
     {
-      "title": "\u0d35\u0d3f\u0d1c\u0d2f\u0d3f\u0d28\u0d46 \u0d15\u0d3e\u0d23\u0d3e\u0d7b \u0d24\u0d1f\u0d3f\u0d1a\u0d4d\u0d1a\u0d41\u0d15\u0d42\u0d1f\u0d3f\u0d2f\u0d35\u0d7c \u0d2c\u0d4b\u0d27\u0d30\u0d39\u0d3f\u0d24\u0d30\u0d3e\u0d2f\u0d3f- Actor Vijay",
-      "link": "https://www.manoramaonline.com/news/latest-news/2026/09/28/cm-vijay-event-people-faint-heat-madurai.html"
+      "title": "\u099c\u0999\u09cd\u0997\u09bf\u09a6\u09ae\u09a8 \u0985\u09ad\u09bf\u09af\u09be\u09a8\u09c7 \u09a8\u09bf\u09df\u09a8\u09cd\u09a4\u09cd\u09b0\u09a3 \u09b9\u09be\u09b0\u09be\u09b2 \u09b0\u09cb\u09ac\u099f-\u09aa\u09c1\u09b2\u09bf\u09b6! \u098f\u09b2\u09cb\u09aa\u09be\u09a5\u09be\u09a1\u09bc\u09bf \u0997\u09c1\u09b2\u09bf \u09a4\u09bf\u09a8 \u09ad\u09cd\u09af\u09be\u09a8\u09c7, \u09aa\u09cd\u09b0\u0995\u09be\u09b6\u09cd\u09af\u09c7 \u09ad\u09df\u0999\u09cd\u0995\u09b0 \u09ad\u09bf\u09a1\u09bf\u09df\u09cb",
+      "link": "https://www.anandabazar.com/viral/video-claims-uk-robot-police-fires-at-vans-near-airbase-used-by-america-during-special-operation-dgtl/cid/1716084"
     },
     {
-      "title": "BREAKING: Income Tax searches at 12 locations linked to Rakul Preet Singh, Vashu Bhagnani, Panorama Studios, Ali Abbas Zafar",
-      "link": "https://www.bollywoodhungama.com/news/bollywood/breaking-income-tax-searches-at-12-locations-linked-to-rakul-preet-singh-vashu-bhagnani-panorama-studios-ali-abbas-zafar/"
+      "title": "India\u2019s industrial output growth accelerates to 8% in August, manufacturing rises 9%",
+      "link": "https://www.moneycontrol.com/news/business/india-s-industrial-output-growth-accelerates-to-8-in-august-manufacturing-rises-9-14040142.html"
     }
   ],
   "twitter": null

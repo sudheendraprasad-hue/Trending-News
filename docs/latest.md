@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-28 22:34:49
+# India Trending Report — 2026-09-28 23:01:55
 
 ## Google Trends (India) — top trending searches
 1. [france](https://trends.google.com/trending/rss?geo=IN)
@@ -16,16 +16,17 @@
 **Times of India**
 - [Punjab's poll drug debate has old players in new roles: BJP, Cong attack; AAP defends](https://timesofindia.indiatimes.com/india/punjab-election-drug-debate-has-old-players-in-new-roles-bjp-congress-attack-as-aap-defends-its-record/articleshow/134542419.cms)
 - [FBI adds Goldy Brar to its 10 most wanted list, offers $1 million reward](https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/134549606.cms)
+- [UAE confirms Netanyahu’s secret visit; Iran dominated six-hour talks](https://timesofindia.indiatimes.com/world/middle-east/uae-confirms-netanyahus-secret-visit-says-talks-focused-on-iran-bilateral-ties/articleshow/134553026.cms)
 - [Government to tighten rules to block under-18 accounts on social media platforms](https://timesofindia.indiatimes.com/india/sg-govt-to-tighten-rules-to-block-under-18-accounts-on-social-media-platforms/articleshow/134552959.cms)
-- ['Very soon’: Trump predicts US victory in Iran war, says gas prices will tumble](https://timesofindia.indiatimes.com/world/middle-east/very-soon-trump-predicts-us-victory-in-iran-war-says-gas-prices-will-tumble/articleshow/134550107.cms)
 - [US labor dept hints at 'total shutdown' of H-1B visa program](https://timesofindia.indiatimes.com/technology/tech-news/department-of-labor-ig-anthony-desposito-hints-at-total-shutdown-of-h-1b-via-program-says-365-days-from-now-/articleshow/134532030.cms)
-- [14 killed as fire tears through Russian fireworks factory](https://timesofindia.indiatimes.com/world/rest-of-world/14-dead-in-massive-blaze-at-russian-fireworks-factory/articleshow/134550018.cms)
+- ['Very soon’: Trump predicts US victory in Iran war, says gas prices will tumble](https://timesofindia.indiatimes.com/world/middle-east/very-soon-trump-predicts-us-victory-in-iran-war-says-gas-prices-will-tumble/articleshow/134550107.cms)
 - [14-year-old Georgia student scores perfect 1600 on SAT](https://timesofindia.indiatimes.com/world/us/a-14-year-old-georgia-student-scored-a-perfect-1600-on-the-sat-after-taking-college-level-courses-ashrit-talluri-of-fulton-county-achieved-the-maximum-score-while-still-in-an-age-group-far-younger-than-typical-sat-test-takers/articleshow/134516628.cms)
 - [US viral delivery driver's $700K fundraiser pulled after daughter posed as neighbour](https://timesofindia.indiatimes.com/world/us/us-81-year-old-viral-delivery-drivers-700k-fundraiser-for-wifes-cancer-treatment-pulled-after-discovering-daughter-posed-as-neighbour-to-raise-money/articleshow/134538859.cms)
+- [14 killed as fire tears through Russian fireworks factory](https://timesofindia.indiatimes.com/world/rest-of-world/14-dead-in-massive-blaze-at-russian-fireworks-factory/articleshow/134550018.cms)
 - [Trump slams UK over release of suspects in alleged terror plot targeting US airbase](https://timesofindia.indiatimes.com/world/us/trump-questions-uk-release-of-five-suspects-held-over-alleged-attack-on-us-airbase/articleshow/134550101.cms)
-- [To avert listing, Noel submits Tata Sons revamp plan to RBI](https://timesofindia.indiatimes.com/business/india-business/to-avert-listing-noel-submits-tata-sons-revamp-plan-to-rbi/articleshow/134550157.cms)
 
 **NDTV**
+- [NASA Announces New Missions For Boeing Starliner Spacecraft](https://www.ndtv.com/world-news/nasa-announces-new-missions-for-boeing-starliner-spacecraft-12111929#publisher=newsstand)
 - [Netanyahu, UAE President Meet In Abu Dhabi, Discuss Bilateral Ties](https://www.ndtv.com/world-news/benjamin-netanyahu-uae-president-meet-in-abu-dhabi-discuss-bilateral-ties-12111867#publisher=newsstand)
 - ['Wars No Longer Make Sense': Pope Urges Russia, Ukraine To Sit Down And Talk](https://www.ndtv.com/world-news/pope-leo-urges-russia-ukraine-to-sit-down-and-talk-12111813#publisher=newsstand)
 - [Rahul Gandhi Flags 727 Voter Exclusions In Delhi. What Poll Body Said](https://www.ndtv.com/india-news/rahul-gandhi-flags-727-voter-exclusions-in-delhi-what-poll-body-said-12111683#publisher=newsstand)
@@ -35,7 +36,6 @@
 - [Congress Moves Candidates To Secret Location Ahead Of Gandhinagar Civic Polls](https://www.ndtv.com/india-news/congress-moves-candidates-to-secret-location-ahead-of-gandhinagar-civic-polls-12111680#publisher=newsstand)
 - [Maharashtra Food Body Suspends 30 Licenses, Seizes Stock Worth A Crore](https://www.ndtv.com/india-news/maharashtra-food-body-suspends-30-licenses-seizes-stock-worth-a-crore-12111644#publisher=newsstand)
 - [From 6th-Gen Fighters To AI: 15 Biggest Takeaways From NDTV Defence Summit](https://www.ndtv.com/india-news/ndtv-defence-summit-china-pakistan-from-6th-gen-fighters-to-ai-15-biggest-takeaways-from-ndtv-defence-summit-12111614#publisher=newsstand)
-- [Iran's Araghchi To Meet Qatari Mediators In New York Today](https://www.ndtv.com/world-news/us-iran-war-iran-foreign-minister-abbas-araghchi-to-meet-qatari-mediators-in-new-york-today-strait-of-hormuz-donald-trump-12111621#publisher=newsstand)
 
 **Hindustan Times**
 - [Gangster Goldy Brar added to FBI's 10 Most Wanted list with $1 million reward](https://www.hindustantimes.com/india-news/gangster-goldy-brar-added-to-fbis-10-most-wanted-list-with-1-million-reward-101790632166096.html)
@@ -155,6 +155,8 @@
 - Mumbai (3.9)
 - Asian Games (3.0)
 - What (2.9)
+- Netanyahu (2.6)
+- Iran (2.6)
 - Kyani (2.6)
 - October (2.6)
 - Odisha (2.6)
@@ -163,22 +165,20 @@
 - Karnataka (2.6)
 - Here's (2.6)
 - Maharashtra (2.2)
-- Supreme Court (2.0)
-- Punjab's (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ജയിലിൽ പോയ മൂന്നെണ്ണത്തിൽ ഒന്നിന്റെ കല്യാണമായി, എന്റെ കാശിന് തായ്‌ലൻഡിൽ ഹണിമൂണും: ദിയ കൃഷ്ണ പറയുന്നു](https://www.manoramaonline.com/movies/tv/2026/09/28/diya-krishna-s-shocking-revelation-employee-on-thailand-honeymoon-amidst-theft-case.html)
-- [Ai+ Pulse 2 FE launched in India at ₹9,999 with 5000mAh battery, 120Hz display, and 50MP camera](https://www.mobigyaan.com/ai-plus-pulse-2-fe-india)
-- [Three-language policy: Supreme Court directs CBSE to grant class 6 same exemption allowed to class 7](https://www.barandbench.com/news/litigation/three-language-policy-supreme-court-directs-cbse-to-grant-class-6-same-exemption-allowed-to-class-7)
-- [NPS For Traders: చిన్న దుకాణం పెట్టుకున్నారా? నెలకు రూ.3000 ఇస్తోన్న కేంద్రం.. ఈ PMSYM స్కీమ్ గురించి తెలుసా?](https://telugu.samayam.com/business/business-news/national-pension-scheme-for-traders-rs-3000-monthly-pension-eligibility/articleshow/134539167.cms)
-- [‘নির্বাচন কমিশন কোনও পক্ষের দ্বারা চালিত হলে যা-হওয়ার তাই হয়েছে’! আইএসএফের প্রতীক মামলায় রায় স্থগিত হাই কোর্টের](https://www.anandabazar.com/west-bengal/calcutta-high-court-reserved-its-order-on-symbol-issue-of-isf-and-raised-questions-over-ecis-decision-dgtl/cid/1716075)
-- [লঞ্চ হলো নতুন Renault Triber Turbo, কী কী পরিবর্তন?](https://eisamay.com/auto-news/renault-triber-turbo-edition-launched-in-india-with-better-specs-and-increased-mileage/200548497.cms)
-- [4 డేస్ ప్యారడైజ్ టోటల్ కలెక్షన్స్….4వ రోజున మాస్ ఊచకోత!!](https://t2blive.com/4days-paradise-ww-total-collections/)
-- [Mamata TMC: পুরভোটেও উধাও জোড়াফুল? সুপ্রিম নির্দেশে ফের বড় ধাক্কা মমতা শিবিরের](https://bengali.news18.com/news/national/big-setback-for-mamata-tmc-as-joraphool-symbol-is-unlikely-to-return-in-municipal-elections-after-supreme-court-order-dmg-2910154.html)
-- [വിജയിനെ കാണാൻ തടിച്ചുകൂടിയവർ ബോധരഹിതരായി- Actor Vijay](https://www.manoramaonline.com/news/latest-news/2026/09/28/cm-vijay-event-people-faint-heat-madurai.html)
-- [BREAKING: Income Tax searches at 12 locations linked to Rakul Preet Singh, Vashu Bhagnani, Panorama Studios, Ali Abbas Zafar](https://www.bollywoodhungama.com/news/bollywood/breaking-income-tax-searches-at-12-locations-linked-to-rakul-preet-singh-vashu-bhagnani-panorama-studios-ali-abbas-zafar/)
+- [ചൈനയിൽ ഉഷയ്ക്കൊപ്പമെത്തി, ജപ്പാനിൽ ഉഷയെ മറികടന്നു, 42 വർഷം പഴക്കമുള്ള റെക്കോഡ് ഭേദിച്ച് വിത്യ](https://www.mathrubhumi.com/sports/other-sports/vithya-ramraj-breaks-pt-usha-national-record-asian-games-2026-rz59ubia)
+- [Revanth Reddy: ఓటుకు నోటు కేసులో రేవంత్ రెడ్డికి ఊరట](https://vaartha.com/telangana/revanth-reddy-has-received-relief-in-the-vote-for-note-case/782957/)
+- [ரஜினியின் “ஜெயிலர் 2” திரைப்படத்தின் இசை ஆல்ப வெளியீட்டு அறிவிப்பு](https://www.dailythanthi.com/cinema/cinemanews/rajinikanths-jailer-2-music-album-release-announcement)
+- [CBDT extends tax audit deadline to October 21: Taxpayers get more time to file audit report](https://www.moneycontrol.com/news/business/personal-finance/cbdt-extends-tax-audit-deadline-taxpayers-get-more-time-to-file-audit-report-14038428.html)
+- [CBSE-র ষষ্ঠ শ্রেণিতেও এখনই বাধ্যতামূলক নয় তৃতীয় ভাষা, সুপ্রিম কোর্টের নির্দেশে স্বস্তি পড়ুয়াদের](https://www.thewall.in/India/cbse-class-6-third-language-mandatory-policy-exemption-supreme-court-order/tid/205790)
+- [Nandigram By Election 2026 : নন্দীগ্রামে কংগ্রেসের প্রচার গাড়িতে হামলার অভিযোগ, 'দায়ভার বিজেপি নিতে পারবে না'](https://bengali.abplive.com/district/congress-s-campaign-vehicle-for-nandigram-by-election-2026-allegedly-attacked-by-bjp-1194482)
+- [२ ऑक्टोबरला यूपीआय बंद राहणार? व्यापारी संघटनेचा मोठा खुलासा!](https://www.loksatta.com/business/news/no-upi-day-october-2-fake-rumor-cait-clarification-rap-91-6160787/)
+- [திருநங்கைகள் வாழத் தகுதியற்ற சூழலை உருவாக்குவது ஒருவகை வன்முறையே - இயக்குநர் கார்த்திக் சுப்புராஜ்](https://www.etvbharat.com/ta/entertainment/creating-an-unlivable-environment-for-transgender-people-is-a-form-of-violence-director-karthik-subbaraj-tns26092803192)
+- [জঙ্গিদমন অভিযানে নিয়ন্ত্রণ হারাল রোবট-পুলিশ! এলোপাথাড়ি গুলি তিন ভ্যানে, প্রকাশ্যে ভয়ঙ্কর ভিডিয়ো](https://www.anandabazar.com/viral/video-claims-uk-robot-police-fires-at-vans-near-airbase-used-by-america-during-special-operation-dgtl/cid/1716084)
+- [India’s industrial output growth accelerates to 8% in August, manufacturing rises 9%](https://www.moneycontrol.com/news/business/india-s-industrial-output-growth-accelerates-to-8-in-august-manufacturing-rises-9-14040142.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
