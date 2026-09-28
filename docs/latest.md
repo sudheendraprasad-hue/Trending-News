@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-28 23:01:55
+# India Trending Report — 2026-09-28 23:35:32
 
 ## Google Trends (India) — top trending searches
-1. [france](https://trends.google.com/trending/rss?geo=IN)
-2. [dow jones](https://trends.google.com/trending/rss?geo=IN)
-3. [pio esposito](https://trends.google.com/trending/rss?geo=IN)
-4. [one ui 9 s25 ultra](https://trends.google.com/trending/rss?geo=IN)
-5. [javelin throw](https://trends.google.com/trending/rss?geo=IN)
-6. [romania vs bosnia and herzegovina](https://trends.google.com/trending/rss?geo=IN)
-7. [stock split](https://trends.google.com/trending/rss?geo=IN)
-8. [নেপাল](https://trends.google.com/trending/rss?geo=IN)
-9. [sweden vs poland](https://trends.google.com/trending/rss?geo=IN)
-10. [belgium vs france](https://trends.google.com/trending/rss?geo=IN)
+1. [टिकट](https://trends.google.com/trending/rss?geo=IN)
+2. [sl vs nep](https://trends.google.com/trending/rss?geo=IN)
+3. [france](https://trends.google.com/trending/rss?geo=IN)
+4. [dow jones](https://trends.google.com/trending/rss?geo=IN)
+5. [pio esposito](https://trends.google.com/trending/rss?geo=IN)
+6. [one ui 9 s25 ultra](https://trends.google.com/trending/rss?geo=IN)
+7. [javelin throw](https://trends.google.com/trending/rss?geo=IN)
+8. [romania vs bosnia and herzegovina](https://trends.google.com/trending/rss?geo=IN)
+9. [stock split](https://trends.google.com/trending/rss?geo=IN)
+10. [নেপাল](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Liquor smugglers use code names and clever hiding tricks to evade prohibition in Bihar](https://timesofindia.indiatimes.com/city/patna/liquor-smugglers-use-code-names-and-clever-hiding-tricks-to-evade-prohibition/articleshow/134519062.cms)
+- [UAE confirms Netanyahu’s secret visit; Iran dominated six-hour talks](https://timesofindia.indiatimes.com/world/middle-east/uae-confirms-netanyahus-secret-visit-says-talks-focused-on-iran-bilateral-ties/articleshow/134553026.cms)
 - [Punjab's poll drug debate has old players in new roles: BJP, Cong attack; AAP defends](https://timesofindia.indiatimes.com/india/punjab-election-drug-debate-has-old-players-in-new-roles-bjp-congress-attack-as-aap-defends-its-record/articleshow/134542419.cms)
 - [FBI adds Goldy Brar to its 10 most wanted list, offers $1 million reward](https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/134549606.cms)
-- [UAE confirms Netanyahu’s secret visit; Iran dominated six-hour talks](https://timesofindia.indiatimes.com/world/middle-east/uae-confirms-netanyahus-secret-visit-says-talks-focused-on-iran-bilateral-ties/articleshow/134553026.cms)
-- [Government to tighten rules to block under-18 accounts on social media platforms](https://timesofindia.indiatimes.com/india/sg-govt-to-tighten-rules-to-block-under-18-accounts-on-social-media-platforms/articleshow/134552959.cms)
 - [US labor dept hints at 'total shutdown' of H-1B visa program](https://timesofindia.indiatimes.com/technology/tech-news/department-of-labor-ig-anthony-desposito-hints-at-total-shutdown-of-h-1b-via-program-says-365-days-from-now-/articleshow/134532030.cms)
-- ['Very soon’: Trump predicts US victory in Iran war, says gas prices will tumble](https://timesofindia.indiatimes.com/world/middle-east/very-soon-trump-predicts-us-victory-in-iran-war-says-gas-prices-will-tumble/articleshow/134550107.cms)
+- [SC to CBSE: Exempt Class VI from 3-language education policy this year](https://timesofindia.indiatimes.com/india/sc-to-cbse-exempt-class-vi-from-3-lang-edu-policy-this-year/articleshow/134553060.cms)
 - [14-year-old Georgia student scores perfect 1600 on SAT](https://timesofindia.indiatimes.com/world/us/a-14-year-old-georgia-student-scored-a-perfect-1600-on-the-sat-after-taking-college-level-courses-ashrit-talluri-of-fulton-county-achieved-the-maximum-score-while-still-in-an-age-group-far-younger-than-typical-sat-test-takers/articleshow/134516628.cms)
 - [US viral delivery driver's $700K fundraiser pulled after daughter posed as neighbour](https://timesofindia.indiatimes.com/world/us/us-81-year-old-viral-delivery-drivers-700k-fundraiser-for-wifes-cancer-treatment-pulled-after-discovering-daughter-posed-as-neighbour-to-raise-money/articleshow/134538859.cms)
-- [14 killed as fire tears through Russian fireworks factory](https://timesofindia.indiatimes.com/world/rest-of-world/14-dead-in-massive-blaze-at-russian-fireworks-factory/articleshow/134550018.cms)
-- [Trump slams UK over release of suspects in alleged terror plot targeting US airbase](https://timesofindia.indiatimes.com/world/us/trump-questions-uk-release-of-five-suspects-held-over-alleged-attack-on-us-airbase/articleshow/134550101.cms)
+- [No stay on MDR but SC asks under what law was it imposed](https://timesofindia.indiatimes.com/india/explain-legal-basis-of-mdr-supreme-court-tells-centre/articleshow/134553051.cms)
+- [Omar Abdullah: If guns decide statehood, Pakistan will decide](https://timesofindia.indiatimes.com/india/omar-abdullah-if-guns-decide-statehood-pakistan-will-decide/articleshow/134548876.cms)
 
 **NDTV**
 - [NASA Announces New Missions For Boeing Starliner Spacecraft](https://www.ndtv.com/world-news/nasa-announces-new-missions-for-boeing-starliner-spacecraft-12111929#publisher=newsstand)
@@ -49,17 +49,7 @@
 - [‘Ask for PM Modi's resignation directly': Arvind Kejriwal to CJP amid protest call against CEC Gyanesh Kumar](https://www.hindustantimes.com/india-news/ask-for-pm-modi-resignation-directly-arvind-kejriwal-to-cjp-abhijeet-dipke-amid-eci-row-cec-gyanesh-kumar-101790604699398.html)
 - [Odisha, Chhattisgarh CMs to meet Amit Shah over Mahanadi water dispute](https://www.hindustantimes.com/india-news/odisha-chhattisgarh-cms-to-meet-amit-shah-over-mahanadi-water-dispute-101790606653440.html)
 
-**Vijay Karnataka**
-- [ಟ್ರಾಫಿಕ್‌ ನಿಯಮ ಉಲ್ಲಂಘನೆ ದಂಡ ಕಟ್ಟದವರ ವಿದ್ಯುತ್‌ ಬಿಲ್‌ಗೆ ಮೊತ್ತ ಸೇರಿಸಿ: ಸರ್ಕಾರಕ್ಕೆ ʻಕ್ರೇಜಿʼ ಐಡಿಯಾ ಕೊಟ್ಟ ಸುಪ್ರೀಂಕೋರ್ಟ್‌!](https://vijaykarnataka.com/news/india/pay-traffic-fines-or-lose-power-supreme-court-suggests-linking-unpaid-e-challans-to-electricity-bills/articleshow/134540286.cms)
-- [ಕರ್ನಾಟಕದಲ್ಲಿ ಮುಕ್ತ ಶಾಲಾ ವ್ಯವಸ್ಥೆಗೆ ಮರುಜೀವ; ಶಿಕ್ಷಣ ಅರ್ಧಕ್ಕೆ ಮೊಟಕುಗೊಳಿಸಿದವರಿಗೂ ಮುಂದುವರಿಸಲು ಅವಕಾಶ](https://vijaykarnataka.com/news/karnataka/pen-school-system-revive-in-karnataka-opportunity-for-discontinued-their-education-to-resume-studies/articleshow/134548532.cms)
-- [Asian Games 2026- ಅಥ್ಲೆಟಿಕ್ಸ್‌ ನಲ್ಲಿ ಸಂಭ್ರಮ! ಜಾವೆಲಿನ್ ಡಬಲ್ ಧಮಾಕ! ಒಂದೇ ದಿನ 8 ಪದಕ ಗೆದ್ದು ಬೀಗಿದ ಭಾರತ](https://vijaykarnataka.com/sports/other-sports/asian-games-2026-india-bags-8-medals-in-single-day-including-2-in-javelin-throw/articleshow/134547459.cms)
-- [ಗಿಡದ ಎಲೆಗಳು ಹಳದಿಯಾಗುತ್ತಿವೆಯೇ? ನೀರು, ಗೊಬ್ಬರ ಹಾಕುವ ಮುನ್ನ ಈ ಕಾರಣ ಪರಿಶೀಲಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/gardening-tip-plant-leaves-turning-yellow-causes-watering-fertilizer/articleshow/134518181.cms)
-- [ಉತ್ತರ ಪ್ರದೇಶದಿಂದ ರಾಜ್ಯಸಭೆಗೆ ಸ್ಮೃತಿ ಇರಾನಿ, ವರುಣ್ ಗಾಂಧಿ ರೀ ಎಂಟ್ರಿ?: 10ನೇ ಸೀಟಿಗೆ ಬಿಜೆಪಿ- ಎಸ್ ಪಿ ಜಟಾಪಟಿ!](https://vijaykarnataka.com/news/india/smriti-irani-and-varun-gandhi-re-entry-to-rajya-sabha-from-uttar-pradesh/articleshow/134549072.cms)
-- [BBK 13 ಮಂಜ & ಲಿಖಿತ್‌ ಕ್ಯಾಪ್ಟನ್ಸಿಯಿಂದ ಔಟ್‌: ಬಿಗ್‌ ಮನೆಗೆ ಎಂಟ್ರಿ ಆಗ್ತಿದ್ದಂತೆ ಗಿಚ್ಚಿ ಗಿಲಿಗಿಲಿ ಪ್ರಶಾಂತ್‌ ಗುನ್ನ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-contestants-manja-and-likhith-out-of-the-captaincy-race-in-the-4th-week/articleshow/134549871.cms)
-- [ಅಕ್ಷಯ್ ಕುಮಾರ್ ಪತ್ನಿ ಟ್ವಿಂಕಲ್ ಖನ್ನಾ ಹೇಳಿದ ಕಿಚನ್ ಟಿಪ್ಸ್; ಜಿರಳೆ ಕಾಟಕ್ಕೆ ಈ ಸರಳ ಮನೆಮದ್ದು](https://vijaykarnataka.com/lifestyle/home-decor/twinkle-khanna-kitchen-remedy-to-get-rid-of-cockroaches/articleshow/134499248.cms)
-- [Coconut: ಪೂಜೆಯ ನಂತರ ಪ್ರಸಾದವಾಗಿ ತೆಂಗಿನಕಾಯಿಯನ್ನು ನೀಡುವ ಮಹತ್ವ.!](https://vijaykarnataka.com/religion/pooja-vidhana/know-why-they-give-coconut-as-a-prasadam-after-puja/articleshow/134542574.cms)
-- [ಸಾಕ್ಸ್‌ ಇಲ್ಲದೆ ಶೂ ಹಾಕ್ತೀರಾ? ಕಾಲಿನ ದುರ್ವಾಸನೆ ಹೆಚ್ಚಾಗಲು ಕಾರಣವೇನು? ತಡೆಯುವ ಸರಳ ವಿಧಾನಗಳು](https://vijaykarnataka.com/lifestyle/home-decor/shoes-without-socks-foot-odor-causes-prevention-tips/articleshow/134516664.cms)
-- [ರೇಣುಕಾಸ್ವಾಮಿ ಕೊಲೆ: ಕೋರ್ಟ್‌ನಲ್ಲಿ 3 ತಾಸು ಮಾಫಿ ಸಾಕ್ಷಿ ಪ್ರದೋಷ್‌ ಹೇಳಿಕೆ; ದರ್ಶನ್‌ ಕ್ಲಬ್‌ ಮೀಟಿಂಗ್‌ನಿಂದ ಪಟ್ಟಣಗೆರೆ ಶೆಡ್‌ವರೆಗೂ](https://vijaykarnataka.com/news/karnataka/renukaswamy-murder-case-approver-pradoshs-statement-recorded-in-court-over-3-hours-meeting-with-darshan-thoogudeepa/articleshow/134547206.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
 - [UAE signals another $25 billion investment in India; eyes ports, energy and space sectors: Goyal](https://www.thehindu.com/business/Economy/uae-signals-another-25-billion-investment-in-india-eyes-ports-energy-and-space-sectors-goyal/article71520349.ece)
@@ -127,15 +117,6 @@
 
 **Prajavani**
 - [ಮೈಸೂರು | ಅಣ್ಣನ ಮಗಳ ಮೇಲೆ ಅತ್ಯಾಚಾರ: ಚಿಕ್ಕಪ್ಪನಿಗೆ 25 ವರ್ಷ ಜೈಲು ಶಿಕ್ಷೆ](https://www.prajavani.net/district/mysuru/mysuru-pocso-court-sentence-uncle-sexual-assault-case-4294449)
-- [ಅಥ್ಲೆಟಿಕ್ಸ್‌ನಲ್ಲಿ ಪದಕಗಳ ಸುಗ್ಗಿ: ಶ್ರೀಶಂಕರ್‌, ಗುಲ್ವೀರ್, ಯಶವೀರ್‌ಗೆ ಬೆಳ್ಳಿ](https://www.prajavani.net/sports/other-sports/sreeshankar-gulveer-yashveer-win-silver-medals-asian-games-athletics-4294512)
-- [Asian Games | ಆಡದೇ ಸೆಮಿಫೈನಲ್‌ಗೇರಿದ ಭಾರತ: ಮಳೆಯ ಪಾಲಾದ ಎಂಟರ ಘಟ್ಟದ ಪಂದ್ಯ](https://www.prajavani.net/sports/cricket/india-reaches-asian-games-cricket-semi-finals-after-rain-washes-out-quarter-final-4294414)
-- [ವೈದ್ಯಕೀಯ ಸಿಬ್ಬಂದಿ ಮೇಲೆ ದಾಳಿ ಸಲ್ಲ: ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌](https://www.prajavani.net/news/india-news/supreme-court-on-medical-staff-assault-ramesh-mhatre-bail-cancelled-4294087)
-- [ಚುನಾವಣಾ ಆಯೋಗದ ಕಚೇರಿಗೆ ಮುತ್ತಿಗೆ ಯತ್ನ: ‘ಕೈ’ ಯುವ ಕಾರ್ಯಕರ್ತರು ವಶಕ್ಕೆ](https://www.prajavani.net/news/india-news/congress-youth-workers-detained-election-commission-protest-4294266)
-- [ಭಾರತದ 5 ಕೋಟಿ ಶಾಲಾ ಮಕ್ಕಳಿಗಿಲ್ಲ ಸ್ವಚ್ಛತಾ ಸೌಲಭ್ಯ: ಯುನಿಸೆಫ್‌ ವರದಿ](https://www.prajavani.net/news/india-news/india-school-sanitation-unicef-report-crisis-4294324)
-- [ವಿದ್ಯುತ್‌ ಬಿಲ್‌ಗೆ ಟ್ರಾಫಿಕ್‌ ಇ–ಚಲನ್‌ ಲಿಂಕ್ ಮಾಡಿ: ಸುಪ್ರೀಂಕೋರ್ಟ್‌ ಸಲಹೆ](https://www.prajavani.net/news/india-news/supreme-court-suggests-linking-traffic-fine-with-electricity-bill-4294355)
-- [ಉಜ್ಜಯಿನಿಯಲ್ಲಿ ರಸ್ತೆ ವಿಸ್ತರಣೆ | ಮಸೀದಿ ತೆರವಿಗೆ ವಿರೋಧ: ಕಲ್ಲು ತೂರಾಟ](https://www.prajavani.net/news/india-news/ujjain-mosque-demolition-protest-stone-pelting-police-clash-4293924)
-- [ಸ್ಯಾಮ್ಸಂಗ್‌ ಫೋನ್‌ ಬೆಲೆ ತುಟ್ಟಿ](https://www.prajavani.net/business/commerce-news/samsung-galaxy-s-series-mobile-price-hike-india-4294342)
-- [ರಫ್ತು ಶೇ 15ರಷ್ಟು ಹೆಚ್ಚಳ: ಸಚಿವ ಪೀಯೂಷ್ ಗೋಯಲ್](https://www.prajavani.net/business/commerce-news/india-goods-export-growth-piyush-goyal-commerce-ministry-data-4294336)
 
 **eedina**
 - [ಕಲಬುರಗಿ | ಎಸ್‌ಐಆರ್ ವಿರುದ್ಧ ಕಾಂಗ್ರೆಸ್ ಆಕ್ರೋಶ; ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ರಾಜೀನಾಮೆಗೆ ಆಗ್ರಹ](https://eedina.com/?p=767401)
@@ -151,12 +132,9 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (5.8)
-- Trump (4.2)
 - Mumbai (3.9)
-- Asian Games (3.0)
 - What (2.9)
 - Netanyahu (2.6)
-- Iran (2.6)
 - Kyani (2.6)
 - October (2.6)
 - Odisha (2.6)
@@ -165,20 +143,23 @@
 - Karnataka (2.6)
 - Here's (2.6)
 - Maharashtra (2.2)
+- Supreme Court (2.0)
+- Punjab's (1.6)
+- Trump (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ചൈനയിൽ ഉഷയ്ക്കൊപ്പമെത്തി, ജപ്പാനിൽ ഉഷയെ മറികടന്നു, 42 വർഷം പഴക്കമുള്ള റെക്കോഡ് ഭേദിച്ച് വിത്യ](https://www.mathrubhumi.com/sports/other-sports/vithya-ramraj-breaks-pt-usha-national-record-asian-games-2026-rz59ubia)
-- [Revanth Reddy: ఓటుకు నోటు కేసులో రేవంత్ రెడ్డికి ఊరట](https://vaartha.com/telangana/revanth-reddy-has-received-relief-in-the-vote-for-note-case/782957/)
-- [ரஜினியின் “ஜெயிலர் 2” திரைப்படத்தின் இசை ஆல்ப வெளியீட்டு அறிவிப்பு](https://www.dailythanthi.com/cinema/cinemanews/rajinikanths-jailer-2-music-album-release-announcement)
-- [CBDT extends tax audit deadline to October 21: Taxpayers get more time to file audit report](https://www.moneycontrol.com/news/business/personal-finance/cbdt-extends-tax-audit-deadline-taxpayers-get-more-time-to-file-audit-report-14038428.html)
-- [CBSE-র ষষ্ঠ শ্রেণিতেও এখনই বাধ্যতামূলক নয় তৃতীয় ভাষা, সুপ্রিম কোর্টের নির্দেশে স্বস্তি পড়ুয়াদের](https://www.thewall.in/India/cbse-class-6-third-language-mandatory-policy-exemption-supreme-court-order/tid/205790)
-- [Nandigram By Election 2026 : নন্দীগ্রামে কংগ্রেসের প্রচার গাড়িতে হামলার অভিযোগ, 'দায়ভার বিজেপি নিতে পারবে না'](https://bengali.abplive.com/district/congress-s-campaign-vehicle-for-nandigram-by-election-2026-allegedly-attacked-by-bjp-1194482)
-- [२ ऑक्टोबरला यूपीआय बंद राहणार? व्यापारी संघटनेचा मोठा खुलासा!](https://www.loksatta.com/business/news/no-upi-day-october-2-fake-rumor-cait-clarification-rap-91-6160787/)
-- [திருநங்கைகள் வாழத் தகுதியற்ற சூழலை உருவாக்குவது ஒருவகை வன்முறையே - இயக்குநர் கார்த்திக் சுப்புராஜ்](https://www.etvbharat.com/ta/entertainment/creating-an-unlivable-environment-for-transgender-people-is-a-form-of-violence-director-karthik-subbaraj-tns26092803192)
-- [জঙ্গিদমন অভিযানে নিয়ন্ত্রণ হারাল রোবট-পুলিশ! এলোপাথাড়ি গুলি তিন ভ্যানে, প্রকাশ্যে ভয়ঙ্কর ভিডিয়ো](https://www.anandabazar.com/viral/video-claims-uk-robot-police-fires-at-vans-near-airbase-used-by-america-during-special-operation-dgtl/cid/1716084)
-- [India’s industrial output growth accelerates to 8% in August, manufacturing rises 9%](https://www.moneycontrol.com/news/business/india-s-industrial-output-growth-accelerates-to-8-in-august-manufacturing-rises-9-14040142.html)
+- [Asian Games 2026 Day 10: Sreeshankar, Gulveer and Esha shine as India stack up eight medals in a rousing all-round show](https://www.hindustantimes.com/sports/others/asian-games-2026-live-updates-day-10-schedule-results-medal-tally-today-28-september-latest-updates-japan-101790547512083.html)
+- [Calcutta High Court: 'যদি নির্বাচন কমিশন রাজনৈতিক দলের...,' ISF-র প্রতীক মামলায় রায় স্থগিত, হাইকোর্টে প্রশ্নের মুখে...](https://www.hindustantimes.com/bangla/bengal/calcutta-high-court-reserves-verdict-on-isf-symbol-case-271790594892518.html)
+- ['अगर SIR में गड़बड़ी है तो प्रियंका गांधी चुनाव कैसे जीतीं', चिराग पासवान का कांग्रेस से सवाल](https://www.livehindustan.com/national/chirag-paswan-questions-congress-if-irregularities-sir-how-priyanka-gandhi-win-election-201790594291894.html)
+- [Rohit Sharma : रोहित शर्मा बसमधून उतरताना पायऱ्यांवरुन पाय घसरुन पडला, विराट कोहली काळजीनं पाहात राहिला, नेमकं काय घडलं? पाहा व्हिडिओ](https://marathi.abplive.com/sports/cricket/rohit-sharma-slipped-from-the-bus-after-india-vs-west-indies-first-odi-video-viral-1440542)
+- [Defence Secretary RK Singh](https://www.ndtv.com/india-news/ndtv-defence-summit-no-sukhoi-57-decision-yet-india-bets-on-ai-networks-to-bridge-stealth-gaps-defence-secretary-rk-singh-12109376)
+- [Bullet Train Project: పేదల భూములు కొల్లగొడితే ఊరుకునేది లేదు - కేటీఆర్ ఫైర్](https://vaartha.com/telangana/brs-ktr-warning-on-bullet-train-project-and-bahadurguda-lands/782975/)
+- [आम्ही कोणासोबतही जाणार नाही, Sharad Pawar यांच्या वक्तव्यानंतर आव्हाड आणि मुश्रीफ काय म्हणाले?](https://marathi.ndtv.com/videos/after-sharad-pawar-s-statement-what-did-awhad-and-mushrif-say-about-not-joining-anyone-1165676)
+- [தாராபுரம் இடைத்தேர்தல்: பிரச்சார வாகனத்தை முற்றுகையிட்ட பொதுமக்கள்!](https://www.dinakaran.com/news/tarapuram-by-election-campaign-vehicle-public/amp)
+- [ચાંદીમાં 7000 થી વધુનો મોટો ઘટાડો, જાણો હવે કેટલી છે 1 કિલો ચાંદીની કિંમત?](https://gujarati.abplive.com/news/business/silver-price-crash-by-7000-rs-know-what-is-news-price-of-1kg-992232)
+- [NSE IPO: 3 દિવસમાં ઉચ્ચતમ સ્તરથી 6.25% તૂટ્યો શેર, શોર્ટ ટર્મમાં જોખમના સંકેત, તો લોંગ ટર્મનું રોકાણ સેફ કે અનસેફ?](https://tv9gujarati.com/photo-gallery/nse-ipo-shares-tumbled-6-15-percent-in-3-days-long-term-investment-safe-or-unsafe-1523399.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
