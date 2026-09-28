@@ -1,21 +1,21 @@
-# India Trending Report — 2026-09-28 19:36:45
+# India Trending Report — 2026-09-28 20:01:58
 
 ## Google Trends (India) — top trending searches
-1. [javelin throw](https://trends.google.com/trending/rss?geo=IN)
-2. [stock split](https://trends.google.com/trending/rss?geo=IN)
-3. [romania vs bosnia and herzegovina](https://trends.google.com/trending/rss?geo=IN)
-4. [নেপাল](https://trends.google.com/trending/rss?geo=IN)
-5. [sweden vs poland](https://trends.google.com/trending/rss?geo=IN)
-6. [belgium vs france](https://trends.google.com/trending/rss?geo=IN)
-7. [türkiye vs italy](https://trends.google.com/trending/rss?geo=IN)
-8. [gas](https://trends.google.com/trending/rss?geo=IN)
-9. [israel iran war](https://trends.google.com/trending/rss?geo=IN)
-10. [bigshare ipo allotment status](https://trends.google.com/trending/rss?geo=IN)
+1. [pio esposito](https://trends.google.com/trending/rss?geo=IN)
+2. [one ui 9 s25 ultra](https://trends.google.com/trending/rss?geo=IN)
+3. [javelin throw](https://trends.google.com/trending/rss?geo=IN)
+4. [romania vs bosnia and herzegovina](https://trends.google.com/trending/rss?geo=IN)
+5. [stock split](https://trends.google.com/trending/rss?geo=IN)
+6. [নেপাল](https://trends.google.com/trending/rss?geo=IN)
+7. [sweden vs poland](https://trends.google.com/trending/rss?geo=IN)
+8. [belgium vs france](https://trends.google.com/trending/rss?geo=IN)
+9. [türkiye vs italy](https://trends.google.com/trending/rss?geo=IN)
+10. [gas](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [FBI adds Goldy Brar to its 10 most wanted list, offers $1 million reward](https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/134549606.cms)
 - [Punjab's poll drug debate has old players in new roles: BJP, Cong attack; AAP defends](https://timesofindia.indiatimes.com/india/punjab-election-drug-debate-has-old-players-in-new-roles-bjp-congress-attack-as-aap-defends-its-record/articleshow/134542419.cms)
-- [FBI puts gangster Goldy Brar on Ten Most Wanted Fugitives list](https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/134549606.cms)
 - [Stock market rout: Sensex sinks to 6-month low, Rs 17 lakh crore wiped out in a month](https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-takes-sensex-to-6-month-low-index-tanks-5-in-a-month-as-investors-lose-rs-17-lakh-crore/articleshow/134544486.cms)
 - [From containment to commerce? Trump's 'arms sales pitch' to Xi stuns Washington](https://timesofindia.indiatimes.com/world/us/from-containment-to-commerce-trump-is-said-to-make-arms-sales-pitch-to-xi/articleshow/134546909.cms)
 - [US labor dept hints at 'total shutdown' of H-1B visa program](https://timesofindia.indiatimes.com/technology/tech-news/department-of-labor-ig-anthony-desposito-hints-at-total-shutdown-of-h-1b-via-program-says-365-days-from-now-/articleshow/134532030.cms)
@@ -62,6 +62,8 @@
 - [ಷೇರು ಮಾರುಕಟ್ಟೆ ಎಂಟ್ರಿ ತಪ್ಪಿಸಲು Tata Trusts ಮಾಸ್ಟರ್ ಪ್ಲಾನ್: 2 ಕಂಪನಿ ವಿಲೀನ! ಏನಿದು ಮಹತ್ವದ ವಿದ್ಯಮಾನ?](https://vijaykarnataka.com/business/stock-market/tata-trusts-to-merge-two-companies-to-avoid-stock-market-entry/articleshow/134546989.cms)
 
 **The Hindu**
+- [Punjab campus violence triggers political slugfest; university blames outsiders](https://www.thehindu.com/news/national/punjab/punjab-campus-violence-triggers-political-slugfest-university-blames-outsiders/article71520862.ece)
+- [Moderate 58.14% voter turnout in byelections in Ernakulam](https://www.thehindu.com/news/national/kerala/5814-voter-turnout-recorded-in-byelections-in-ernakulam/article71520914.ece)
 - [Sustainable development must go hand-in-hand with environmental conservation: B.S. Jha](https://www.thehindu.com/news/national/karnataka/sustainable-development-must-go-hand-in-hand-with-environmental-conservation-bs-jha/article71519930.ece)
 - [Karnataka youth achieves impressive feat in Shanghai World Skills Competition](https://www.thehindu.com/news/national/karnataka/karnataka-youth-achieves-impressive-feat-in-shanghai-world-skills-competition/article71520463.ece)
 - [Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2](https://www.thehindu.com/news/national/karnataka/bharatiya-vidya-bhavan-to-host-literary-festival-on-karnatakas-indegenous-languages-from-october-2/article71519907.ece)
@@ -70,10 +72,9 @@
 - [Locals symbolically ‘open’ Bengaluru Metro Pink Line, demand early launch](https://www.thehindu.com/news/national/karnataka/locals-symbolically-open-bengaluru-metro-pink-line-demand-early-launch/article71521103.ece)
 - [Vijay announces ₹30 lakh for Asian Games athlete](https://www.thehindu.com/news/national/tamil-nadu/vijay-announces-30-lakh-for-asian-games-athlete/article71520738.ece)
 - [Minister urges youth to become job providers](https://www.thehindu.com/news/national/kerala/minister-urges-youth-to-become-job-providers/article71520130.ece)
-- [Prime accused in overseas recruitment scam gets bail](https://www.thehindu.com/news/national/kerala/prime-accused-in-overseas-recruitment-scam-gets-bail/article71520581.ece)
-- [KSRTC to introduce new Rajahamsa service between Bengaluru and Bhagamandala in Kodagu](https://www.thehindu.com/news/national/karnataka/ksrtc-to-introduce-new-rajahamsa-service-between-bengaluru-and-bhagamandala-in-kodagu/article71520954.ece)
 
 **Livemint**
+- [Jacquees arrested in Hollywood on DUI and battery charges: What police allege happened](https://www.livemint.com/news/trends/jacquees-arrested-in-hollywood-on-dui-and-battery-charges-what-police-allege-happened-11790623170999.html)
 - [Tukaram Mundhe's Maharashtra FDA suspends licence of 122-year-old Kyani cafe in Mumbai: Here's what inspection found](https://www.livemint.com/news/india/tukaram-mundhes-maharashtra-fda-suspends-licence-of-122-year-old-kyani-cafe-in-mumbai-heres-what-inspection-found-11790613345327.html)
 - [US midterms 2026: Elon Musk, Greg Brockman, Yass among billionaires funding political campaigns, mostly Republican](https://www.livemint.com/news/us-news/us-midterms-2026-elon-musk-greg-brockman-yass-among-billionaires-funding-political-campaigns-mostly-republican-11790619133004.html)
 - [What happens after a 14-year-old scores a perfect 1600 on the SAT? Ashrit Talluri is already taking college courses](https://www.livemint.com/news/trends/what-happens-after-a-14-year-old-scores-a-perfect-1600-on-the-sat-ashrit-talluri-is-already-taking-college-courses-11790608982333.html)
@@ -83,7 +84,6 @@
 - [Trump administration slashes fuel economy standards for cars, light trucks: Here's what changes](https://www.livemint.com/news/us-news/trump-administration-slashes-fuel-economy-standards-for-cars-light-trucks-heres-what-changes-11790604680806.html)
 - [Who is Nitin Gupta? IIT topper returns to India inspired by SRK's film. Why did he choose mosquito brains study?](https://www.livemint.com/news/trends/who-is-nitin-gupta-iit-topper-returns-to-india-inspired-by-srks-film-why-did-he-choose-mosquito-brains-study-11790608729315.html)
 - [Ashutosh Ranka donated  ₹21,100 to AAP before CJP stint – Who else contributed to Kejriwal’s party in 2025-26?](https://www.livemint.com/news/india/ashutosh-ranka-donated-rs-21-100-to-aap-before-joining-cjp-who-else-contributed-to-arvind-kejriwal-s-party-in-25-26-ec-11790607361642.html)
-- [Delhi steps up winter air pollution action with time-bound measures across key sectors](https://www.livemint.com/news/delhi-steps-up-winter-air-pollution-action-with-time-bound-measures-across-key-sectors-11790595253291.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -126,16 +126,16 @@
 - [ಪಶ್ಚಿಮ ಬಂಗಾಳದ ಪ್ರವಾಸದ ವೇಳೆ ಝಲ್ಮುರಿ ಸವಿದ ಬಿಜೆಪಿ ಅಧ್ಯಕ್ಷ ನಿತಿನ್ ನವೀನ್](https://tv9kannada.com/videos/bjp-national-president-nitin-nabin-enjoys-jhalmuri-in-kolkata-during-west-bengal-visit-1243857.html)
 
 **Prajavani**
-- [ಎಐಗಿಂತ ಸಂಸ್ಕೃತಿ, ಸಂಸ್ಕಾರ ಅಗತ್ಯ: ಉಪ ಮುಖ್ಯಮಂತ್ರಿ ಜಿ. ಪರಮೇಶ್ವರ](https://www.prajavani.net/district/bengaluru-city/parameshwara-speech-on-culture-and-artificial-intelligence-bengaluru-awards-4294536)
-- [ಮರದ ಕೊಂಬೆ ಬಿದ್ದು ಗಾಯಗೊಂಡ ವ್ಯಕ್ತಿಗೆ ₹2.77 ಕೋಟಿ ಪರಿಹಾರಕ್ಕೆ ಹೈಕೋರ್ಟ್ ಆದೇಶ](https://www.prajavani.net/district/bengaluru-city/high-court-orders-compensation-for-tree-branch-fall-victim-4294500)
-- [ನಾಡಹಬ್ಬ ದಸರೆಗೆ ಯುವ ಸಂಭ್ರಮದ ಮುನ್ನುಡಿ...ಮಿಂಚು ಹರಿಸಿದ ಗಾಯಕ ವಿಜಯಪ್ರಕಾಶ್‌](https://www.prajavani.net/district/mysuru/mysuru-yuva-sambhrama-dasara-inauguration-vijay-prakash-sapthami-gowda-4294526)
-- [ಅಭಿವೃದ್ಧಿ ಯೋಜನೆ: ರಕ್ಷಣಾ ಇಲಾಖೆ ಜಾಗಕ್ಕೆ ಸಿಎಂ ಡಿ. ಕೆ. ಶಿವಕುಮಾರ್ ಮೊರೆ](https://www.prajavani.net/news/india-news/dk-shivakumar-meets-rajnath-singh-for-bengaluru-infrastructure-projects-defence-land-4294343)
-- [ನ್ಯಾಯಾಂಗ ನಿಂದನೆ ಮೊಕದ್ದಮೆ: ಕಸಾಪ ಆಡಳಿತಾಧಿಕಾರಿಗೆ ಹೈಕೋರ್ಟ್ ನೋಟಿಸ್](https://www.prajavani.net/district/bengaluru-city/high-court-notice-kannada-sahitya-parishat-administrator-4294421)
-- [ಬೆಂಗಳೂರು | ಲಾರಿ ಡಿಕ್ಕಿ: ಪತ್ನಿ ಸಾವು, ಪತಿಗೆ ಗಾಯ](https://www.prajavani.net/district/bengaluru-city/kanakapura-road-lorry-accident-woman-killed-bypass-protest-4294515)
-- [ಕೆಂಪೇಗೌಡ  ವಿಮಾನ ನಿಲ್ದಾಣ: ₹11.44 ಕೋಟಿ ಮೌಲ್ಯದ ಚಿನ್ನ, ಗಾಂಜಾ ಜಪ್ತಿ](https://www.prajavani.net/district/bangaluru-rural/gold-and-ganja-seized-at-kempegowda-international-airport-bangalore-4294560)
-- [ಯುಪಿಐ ಶುಲ್ಕ: ಮಧ್ಯಂತರ ತಡೆಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ ನಕಾರ](https://www.prajavani.net/news/india-news/supreme-court-refuses-stay-on-upi-mdr-charges-4294389)
-- [ತ್ರಿಭಾಷಾ ಸೂತ್ರ | 6ನೇ ತರಗತಿಗೂ ವಿನಾಯಿತಿ: ಸಿಬಿಎಸ್‌ಇಗೆ  ಸುಪ್ರೀಂ ನಿರ್ದೇಶನ](https://www.prajavani.net/news/india-news/supreme-court-directs-cbse-exemption-three-language-formula-class-six-4294384)
-- [ಪಾಕ್‌ನಲ್ಲಿ SCO ರಾಷ್ಟ್ರೀಯ ಸಂಯೋಜಕರ ಸಭೆ: ಭಾರತ ಸೇರಿದಂತೆ ಹಲವು ದೇಶಗಳು ಭಾಗಿ](https://www.prajavani.net/news/india-news/sco-national-coordinators-meeting-islamabad-india-participation-4294428)
+- [ಮೈಸೂರು | ಅಣ್ಣನ ಮಗಳ ಮೇಲೆ ಅತ್ಯಾಚಾರ: ಚಿಕ್ಕಪ್ಪನಿಗೆ 25 ವರ್ಷ ಜೈಲು ಶಿಕ್ಷೆ](https://www.prajavani.net/district/mysuru/mysuru-pocso-court-sentence-uncle-sexual-assault-case-4294449)
+- [ಅಥ್ಲೆಟಿಕ್ಸ್‌ನಲ್ಲಿ ಪದಕಗಳ ಸುಗ್ಗಿ: ಶ್ರೀಶಂಕರ್‌, ಗುಲ್ವೀರ್, ಯಶವೀರ್‌ಗೆ ಬೆಳ್ಳಿ](https://www.prajavani.net/sports/other-sports/sreeshankar-gulveer-yashveer-win-silver-medals-asian-games-athletics-4294512)
+- [Asian Games | ಆಡದೇ ಸೆಮಿಫೈನಲ್‌ಗೇರಿದ ಭಾರತ: ಮಳೆಯ ಪಾಲಾದ ಎಂಟರ ಘಟ್ಟದ ಪಂದ್ಯ](https://www.prajavani.net/sports/cricket/india-reaches-asian-games-cricket-semi-finals-after-rain-washes-out-quarter-final-4294414)
+- [ವೈದ್ಯಕೀಯ ಸಿಬ್ಬಂದಿ ಮೇಲೆ ದಾಳಿ ಸಲ್ಲ: ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌](https://www.prajavani.net/news/india-news/supreme-court-on-medical-staff-assault-ramesh-mhatre-bail-cancelled-4294087)
+- [ಚುನಾವಣಾ ಆಯೋಗದ ಕಚೇರಿಗೆ ಮುತ್ತಿಗೆ ಯತ್ನ: ‘ಕೈ’ ಯುವ ಕಾರ್ಯಕರ್ತರು ವಶಕ್ಕೆ](https://www.prajavani.net/news/india-news/congress-youth-workers-detained-election-commission-protest-4294266)
+- [ಭಾರತದ 5 ಕೋಟಿ ಶಾಲಾ ಮಕ್ಕಳಿಗಿಲ್ಲ ಸ್ವಚ್ಛತಾ ಸೌಲಭ್ಯ: ಯುನಿಸೆಫ್‌ ವರದಿ](https://www.prajavani.net/news/india-news/india-school-sanitation-unicef-report-crisis-4294324)
+- [ವಿದ್ಯುತ್‌ ಬಿಲ್‌ಗೆ ಟ್ರಾಫಿಕ್‌ ಇ–ಚಲನ್‌ ಲಿಂಕ್ ಮಾಡಿ: ಸುಪ್ರೀಂಕೋರ್ಟ್‌ ಸಲಹೆ](https://www.prajavani.net/news/india-news/supreme-court-suggests-linking-traffic-fine-with-electricity-bill-4294355)
+- [ಉಜ್ಜಯಿನಿಯಲ್ಲಿ ರಸ್ತೆ ವಿಸ್ತರಣೆ | ಮಸೀದಿ ತೆರವಿಗೆ ವಿರೋಧ: ಕಲ್ಲು ತೂರಾಟ](https://www.prajavani.net/news/india-news/ujjain-mosque-demolition-protest-stone-pelting-police-clash-4293924)
+- [ಸ್ಯಾಮ್ಸಂಗ್‌ ಫೋನ್‌ ಬೆಲೆ ತುಟ್ಟಿ](https://www.prajavani.net/business/commerce-news/samsung-galaxy-s-series-mobile-price-hike-india-4294342)
+- [ರಫ್ತು ಶೇ 15ರಷ್ಟು ಹೆಚ್ಚಳ: ಸಚಿವ ಪೀಯೂಷ್ ಗೋಯಲ್](https://www.prajavani.net/business/commerce-news/india-goods-export-growth-piyush-goyal-commerce-ministry-data-4294336)
 
 **eedina**
 - [ಕಲಬುರಗಿ | ಎಸ್‌ಐಆರ್ ವಿರುದ್ಧ ಕಾಂಗ್ರೆಸ್ ಆಕ್ರೋಶ; ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ರಾಜೀನಾಮೆಗೆ ಆಗ್ರಹ](https://eedina.com/?p=767401)
@@ -152,14 +152,14 @@
 ## Cross-source trending keywords (derived from headlines above)
 - India (5.8)
 - Mumbai (4.2)
-- Asian Games (3.0)
-- Bengaluru (2.9)
+- Asian Games (4.0)
 - Karnataka (2.9)
 - Where (2.6)
 - Homestay (2.6)
 - Kyani (2.6)
 - October (2.6)
 - Odisha (2.6)
+- What (2.6)
 - Here's (2.6)
 - Tata Trusts (2.0)
 - Video Emerges From (2.0)
@@ -169,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ['ക്ഷേത്രത്തില്‍ നിന്നുള്ള ശബ്ദം ഉറക്കം കളയുന്നു'; പരാതിയുമായി അല്ലു സിരീഷ്](https://www.reporterlive.com/entertainment/entertainment-news/2026/09/28/allu-sirish-lodges-a-complaint-to-sound-from-the-temple-is-disturbing)
-- [एक दिन पहले रिंग में मचाया था तहलका, अगले ही दिन हो गई मौत... 40 साल के WWE स्टार के निधन से शोक की लहर](https://www.aajtak.in/sports/news/story/who-was-benjamin-satterley-former-wwe-star-dies-at-40-one-day-after-aew-all-out-aksp-dskc-2655284-2026-09-28)
-- [எந்த கட்டுமானத்துக்கு எந்த சிமென்ட்..! - விலை அதிகமாக இருந்தால் தரமானதா?](https://www.hindutamil.in/news/supplements/sontha-veedu/which-cement-for-which-construction-explained)
-- [₹2000 से ज्यादा के UPI पेमेंट पर देना होगा अतिरिक्त चार्ज, SC का केंद्र के फैसले पर रोक लगाने से इनकार](https://www.jagran.com/news/national-no-stay-on-centre-decision-to-impose-mdr-on-upi-payments-says-supreme-court-40387661.html)
-- [Oppo F35 Series Launch: Date, Expected Price, Camera, Battery And Other Details](https://www.ndtvprofit.com/technology/oppo-f35-series-launch-date-expected-price-camera-battery-and-other-details-12108118)
-- [SRFTI: রবিতে দিনভর ধুন্ধুমার, সোমে মৌন প্রতিবাদ SRFTI পড়ুয়াদের একাংশের! গোলমালে বামেদের দুষে দাওয়াইয়ের নিদান সুকান্তের](https://bengali.news18.com/news/kolkata/srfti-clash-incident-some-part-of-students-silent-protest-on-monday-sukanta-majumdar-allegations-on-left-smc-2909913.html)
-- [IT searches multiple locations linked to Rakul Preet Singh, Vashu Bhagnani and Panorama Studios over alleged tax evasion involving funds sent abroad: Report](https://www.moneycontrol.com/entertainment/bollywood/it-raids-multiple-locations-linked-to-rakul-preet-singh-vashu-bhagnani-and-panorama-studios-over-alleged-tax-evasion-involving-funds-sent-abroad-report-article-14039896.html)
-- [India vs Panama: বিশ্বকাপ খেলা পানামার সঙ্গে ১-১ ড্র ভারতের, বেঙ্গালুরুর ট্র্যাফিককে দুষছেন পানামার কোচ](https://bangla.aajtak.in/sports/football/photo/panama-coach-thomas-christiansen-blames-bengaluru-traffic-poor-logistics-for-draw-against-india-arg-1456159-2026-09-28)
-- [Gold Silver Rate: સોના-ચાંદીના ભાવમાં અચાનક મોટો ઘટાડો, જાણો લેટેસ્ટ કિંમત](https://gujarati.abplive.com/news/business/drop-of-up-to-rs-6600-in-silver-prices-gold-prices-fell-by-more-than-3200-rs-992209)
-- [Nandini-Rajveer Love: বিগ বসের ঘরে এসে পাকল প্রেম! নন্দিনী ও রাজবীর এখন থেকে committed](https://bengali.news18.com/photogallery/entertainment/bigg-boss-bangla-nandini-dutta-proposes-rajveer-dey-the-pair-declares-they-are-in-love-pbd-2909848.html)
+- [‘কয়েকজনকে জেলে পাঠানো উচিত’, ট্রোলিং নিয়ে বিস্ফোরক সলমন খান](https://bengali.indianexpress.com/entertainment/salman-khan-ai-videos-social-media-censorship-bigg-boss-20-weekend-ka-vaar-12584083)
+- [South Korea vs Ukraine | ఆ సైనికుల అప్ప‌గింత గురించి ఐరాస‌లో జెలెన్‌స్కీ వెల్ల‌డి.. ద‌క్షిణ‌కొరియా తీవ్ర అభ్యంత‌రం..!](https://www.ntnews.com/international/seoul-seeks-apology-after-ukraine-reveals-transfer-of-north-korean-pows-2522137)
+- ['These Are Just Bye-Elections': CJI Declines Urgent Hearing Of SIR Cases Ahead Of West Bengal By-Polls](https://www.livelaw.in/top-stories/supreme-court-these-are-just-bye-elections-cji-declines-urgent-hearing-of-west-bengal-sir-cases-ahead-of-rejinagar-bypolls-552063)
+- [On Ranbir Kapoor's 44th Birthday, Only Love And No War From Alia Bhatt, Vicky Kaushal And Sanjay Leela Bhansali](https://www.ndtv.com/entertainment/on-ranbir-kapoors-44th-birthday-only-love-and-no-war-from-alia-bhatt-vicky-kaushal-and-sanjay-leela-bhansali-12108245)
+- [ഇൻഫ്ലുവൻസർ നിധി ജീവനൊടുക്കി; കോൾ റെക്കോഡ് പരിശോധിക്കുമെന്ന് പൊലീസ്](https://www.metrovaartha.com/entertainment/influencer-nidhi-dies-by-suicide-police-to-examine-call-records)
+- [Searches At 12 Places Linked To Actor Rakul Preet Singh, Bollywood Industry](https://www.ndtv.com/india-news/tax-searches-at-12-places-linked-to-bollywood-over-suspicious-funds-rakul-preet-singh-vashu-bhagnani-panorama-studios-12108210)
+- [Gold Price: পুজোর আগে সোনার দামে বড় চমক, এবার কি দাম কমল অনেকটা? দেখে নিন আজকের রেটচার্ট](https://bengali.abplive.com/business/gold-silver-price-28-september-gold-silver-rate-decreased-kolkata-updates-1194453)
+- [बाबर के लड़कों के बाद, फातिमा की बहनों ने लॉन्च किया ‘नया योगा’, पाकिस्तानियों को देख भारतीय बोले- नहीं होगा!](https://navbharattimes.indiatimes.com/viral/viral-news/pakistan-women-team-seen-doing-weird-exercises-before-cricket-match-people-remember-babar-boys-same-act/articleshow/134535978.cms)
+- ['അമ്മ വരുമോ ? വിജയ് സർക്കാരിന്റെ 'മാമന്റെ സ്വർണമോതിരം' പദ്ധതിക്ക് തൃഷയുടെ പിന്തുണയുമായി പോസ്റ്റർ](https://malayalam.news18.com/news/india/trisha-fan-s-posters-promoting-thaimaman-thanga-mothiram-scheme-speculation-on-her-political-entry-sbs-790255.html)
+- [Biggest midday movers amid market fall: Vodafone Idea, Adani Ports, NSE and others](https://www.etnownews.com/markets/biggest-midday-movers-vodafone-idea-adani-ports-nse-bank-of-india-aequs-september-28-article-156239703)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
