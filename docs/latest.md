@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-28 00:43:28
+# India Trending Report — 2026-09-28 01:03:12
 
 ## Google Trends (India) — top trending searches
 1. [sahibzada farhan](https://trends.google.com/trending/rss?geo=IN)
@@ -17,13 +17,13 @@
 - [Balakot to Sindoor, India gave befitting reply: PM Modi on Pakistan terror](https://timesofindia.indiatimes.com/india/balakot-to-sindoor-india-gave-befitting-reply-pm-modi-on-pakistan-terror/articleshow/134529110.cms)
 - [Bank unions call off 3-day strike after assurances, IBA to study demands](https://timesofindia.indiatimes.com/india/bank-unions-call-off-3-day-strike-after-assurances-iba-to-study-demands/articleshow/134526239.cms)
 - [Boeing flags 737 MAX glitch that may turn off auto pilot](https://timesofindia.indiatimes.com/india/boeing-flags-737-max-glitch-that-may-turn-off-auto-pilot/articleshow/134526139.cms)
-- ['Mk 18 Mod 2 Kingfish': IRGC claims second US underwater drone seized in Strait of Hormuz](https://timesofindia.indiatimes.com/world/middle-east/iran-claims-second-us-drone-seized-in-strait-of-hormuz-identifies-it-as-mk-18-kingfish/articleshow/134528963.cms)
 - [New Green Card rules from September: Categories affected and those exempt](https://timesofindia.indiatimes.com/technology/tech-news/new-green-card-rules-that-came-into-effect-starting-this-september-list-of-categories-subject-to-the-changes-and-those-that-are-not-impacted/articleshow/134515826.cms)
-- [UP double murder: Retired Army man, 1st wife found dead in pool of blood](https://timesofindia.indiatimes.com/city/agra/hathras-double-murder-retired-army-man-first-wife-found-dead-in-pool-of-blood-at-home-near-agra-bypass/articleshow/134517957.cms)
-- [$17.1M to restore 206,000 acres, 225 miles for wildlife movement in West](https://timesofindia.indiatimes.com/science/wildlife/fourteen-us-projects-will-restore-or-protect-wildlife-movement-across-more-than-206000-acres-and-improve-225-miles-of-fencing-after-a-new-17-1-million-conservation-investment-across-the-west/articleshow/134514775.cms)
-- [LPU protests: Over 2,000 police deployed after stone-pelting, vehicles set ablaze](https://timesofindia.indiatimes.com/india/lpu-unrest-over-2000-police-deployed-after-stone-pelting-vehicles-set-ablaze/articleshow/134528785.cms)
-- [Panda-monium: When diplomacy goes to the dogs, horses, and elephants](https://timesofindia.indiatimes.com/world/us/panda-monium-when-diplomacy-goes-to-the-dogs-horses-and-elephants/articleshow/134522097.cms)
+- ['Mk 18 Mod 2 Kingfish': IRGC claims second US underwater drone seized in Strait of Hormuz](https://timesofindia.indiatimes.com/world/middle-east/iran-claims-second-us-drone-seized-in-strait-of-hormuz-identifies-it-as-mk-18-kingfish/articleshow/134528963.cms)
+- [Louisiana neighbors' fight over 70-foot strip ends with $15K, dead cow stunt](https://timesofindia.indiatimes.com/world/us/louisiana-neighbours-fought-over-a-70-foot-strip-of-land-after-signs-bright-lights-and-even-a-dead-cow-appeared-near-the-boundary-an-appeals-court-upheld-15000-in-damages-and-an-injunction/articleshow/134522211.cms)
 - [Abhishek's 30-ball ton hid the number that should really worry T20 bowlers](https://timesofindia.indiatimes.com/sports/cricket/news/abhishek-sharmas-30-ball-ton-hid-the-number-that-should-really-worry-t20-bowlers/articleshow/134516612.cms)
+- [UP double murder: Retired Army man, 1st wife found dead in pool of blood](https://timesofindia.indiatimes.com/city/agra/hathras-double-murder-retired-army-man-first-wife-found-dead-in-pool-of-blood-at-home-near-agra-bypass/articleshow/134517957.cms)
+- [LPU protests: Over 2,000 police deployed after stone-pelting, vehicles set ablaze](https://timesofindia.indiatimes.com/india/lpu-unrest-over-2000-police-deployed-after-stone-pelting-vehicles-set-ablaze/articleshow/134528785.cms)
+- [Yellowstone rangers pulled 20,100 items from geysers, including 280 hats](https://timesofindia.indiatimes.com/world/us/yellowstone-rangers-remove-20100-pieces-of-trash-from-geothermal-areas-in-2026-including-more-than-5000-rocks-and-sticks-280-visitor-hats-and-over-18-in-coins/articleshow/134523257.cms)
 
 **NDTV**
 - [Amritpal Singh's Waris Punjab De A New Challenge For Akali Dal Ahead Of Polls](https://www.ndtv.com/india-news/amritpal-singhs-waris-punjab-de-a-new-challenge-for-akali-dal-ahead-of-polls-12106559#publisher=newsstand)
@@ -50,16 +50,16 @@
 - [75-yr-old Odisha woman swept by swollen river survives crocodile-infested waters](https://www.hindustantimes.com/india-news/71yearold-woman-swept-22-km-by-swollen-river-survives-crocodile-infested-waters-101790522694795.html)
 
 **Vijay Karnataka**
+- [ಕೊನೆ ಕ್ಷಣದಲ್ಲಿ 3 ದಿನಗಳ ಬ್ಯಾಂಕ್ ಮುಷ್ಕರ ಮುಂದೂಡಿಕೆ: ಎಂದಿನಂತೆ ಇಂದು (ಸೆ.28) ಬ್ಯಾಂಕ್‌ಗಳು ಓಪನ್, ಗ್ರಾಹಕರಿಗೆ ಶಾಖೆಗಳಲ್ಲಿ ಸೇವೆ ಲಭ್ಯ!](https://vijaykarnataka.com/business/news/3-day-bank-strike-deferred-after-talks-between-bank-body-and-unions-banking-operations-to-run-normally-today/articleshow/134529047.cms)
 - [ಎಲ್‌ನಿನೋ ಎಫೆಕ್ಟ್‌ಗೆ ಕರಾವಳಿಯ ಕಟ್ಟಡ ನಿರ್ಮಾಣ ವಲಯದಲ್ಲಿ ಕಂಪನ: ನೀರಿನ ಅಭಾವದಿಂದ ನಿರ್ಮಾಣ ಕಾರ್ಯ ವಿಳಂಬದ ಭೀತಿ!](https://vijaykarnataka.com/news/mangaluru/el-nio-affects-construction-industry-as-severe-water-shortage-causes-delay-in-construction-work/articleshow/134528940.cms)
 - [Explained: ರಷ್ಯಾ ವಿರುದ್ಧ ಸಮರದ ಮಧ್ಯೆ ಯುದ್ಧಭೂಮಿಗೆ ʼರೋಬೋಟ್‌ ಸೈನ್ಯʼ ಇಳಿಸಲು ಮುಂದಾದ ಉಕ್ರೇನ್! ಏನಿದು Army Of Robots?](https://vijaykarnataka.com/news/world/explainer-ukraine-ex-defense-minister-announces-army-of-robots-manhattan-project-for-physical-ai/articleshow/134519281.cms)
-- [ವಿರಾಟ್‌ ಕೊಹ್ಲಿ, ಶುಭ್ಮನ್‌ ಗಿಲ್‌ ಶತಕ: ವೆಸ್ಟ್‌ ಇಂಡೀಸ್‌ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ ಗೆಲುವು! ರನ್‌ ಮಷಿನ್‌ ಬರೆದ ವಿಶ್ವ ದಾಖಲೆಗಳೆಷ್ಟು?](https://vijaykarnataka.com/sports/cricket/news/india-beats-west-indies-in-1st-odi-virat-kohli-shatters-2-world-records-hits-stunning-century/articleshow/134523249.cms)
 - [ಚಹಾ ಮಾಡಿದ ನಂತರ ಶುಂಠಿ ಬಿಸಾಡಬೇಡಿ; ಉಳಿದ ಶುಂಠಿಯಿಂದಲೇ ರುಚಿಕರ ಖಾರ ಚಟ್ನಿ ತಯಾರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/used-ginger-after-making-tea-chutney-recipe/articleshow/134508419.cms)
-- [ತೈವಾನ್‌ ಹೆಸರೇ ಎತ್ತಿಲ್ಲ: ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್‌ ಜೊತೆ ನಡೆದ ಮಾತುಕತೆಯ ವಿವರ ತಿಳಿಸಿದ ಡೊನಾಲ್ಡ್‌ ಟ್ರಂಪ್!‌ ತೈಪೆ ಆತಂಕ ದ್ವಿಗುಣ](https://vijaykarnataka.com/news/world/no-discussion-about-taiwan-wih-chinese-president-xi-jinping-during-bilateral-talks-clarifies-donald-trump/articleshow/134521976.cms)
+- [ವಿರಾಟ್‌ ಕೊಹ್ಲಿ, ಶುಭ್ಮನ್‌ ಗಿಲ್‌ ಶತಕ: ವೆಸ್ಟ್‌ ಇಂಡೀಸ್‌ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ ಗೆಲುವು! ರನ್‌ ಮಷಿನ್‌ ಬರೆದ ವಿಶ್ವ ದಾಖಲೆಗಳೆಷ್ಟು?](https://vijaykarnataka.com/sports/cricket/news/india-beats-west-indies-in-1st-odi-virat-kohli-shatters-2-world-records-hits-stunning-century/articleshow/134523249.cms)
 - [ಅವಿನಾಶ್ ಶಟಮರ್ಷಣಗೆ BBK 13ನಿಂದ ಲಭಿಸಿದ ಬಹುಮಾನ ಎಷ್ಟು?: ಪತ್ನಿ ಪ್ರಿಯಾ ಭಾವುಕ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/what-prize-did-avinash-shatamarshana-receive-from-bbk-13/articleshow/134524909.cms)
 - [ಅಕ್ಷಯ್ ಕುಮಾರ್ ಪತ್ನಿ ಟ್ವಿಂಕಲ್ ಖನ್ನಾ ಹೇಳಿದ ಕಿಚನ್ ಟಿಪ್ಸ್; ಜಿರಳೆ ಕಾಟಕ್ಕೆ ಈ ಸರಳ ಮನೆಮದ್ದು](https://vijaykarnataka.com/lifestyle/home-decor/twinkle-khanna-kitchen-remedy-to-get-rid-of-cockroaches/articleshow/134499248.cms)
 - [2026 ಪಿತೃ ಪಕ್ಷ: ಕರ್ಣ ಸ್ವರ್ಗದಿಂದ ಭೂಮಿಗೆ ಮರಳಲು ಕಾರಣ.!](https://vijaykarnataka.com/religion/hinduism/pitru-paksha-2026-reason-behind-karna-back-to-earth-from-the-heaven/articleshow/134517525.cms)
 - [ಪಿತೃ ಪಕ್ಷ 2026: ಪಿತೃಗಳಿಗೆ ಪಾಯಸ-ಪೂರಿ ಅರ್ಪಿಸುವ ಸಂಪ್ರದಾಯ, ಮಾಡುವ ವಿಧಾನ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/home-decor/pitru-paksha-2026-kheer-puri-first-day-ancestor-offering/articleshow/134501695.cms)
-- [SSLC 600 ಅಂಕ ಪಡೆದವರಿಗೆ ನನ್ನ ಸಂಸ್ಥೆಯಲ್ಲಿ ಉಚಿತ PUC ಶಿಕ್ಷಣ: ಪ್ರದೀಪ್ ಈಶ್ವರ್; ದಾವಣಗೆರೆ ಜಿಲ್ಲೆ ಮಕ್ಕಳಿಗೆ ವಾಗ್ದಾನ](https://vijaykarnataka.com/news/davanagere/free-puc-education-at-my-institution-for-those-who-scored-600-marks-in-sslc-pradeep-eshwar/articleshow/134521795.cms)
+- [ತೈವಾನ್‌ ಹೆಸರೇ ಎತ್ತಿಲ್ಲ: ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್‌ ಜೊತೆ ನಡೆದ ಮಾತುಕತೆಯ ವಿವರ ತಿಳಿಸಿದ ಡೊನಾಲ್ಡ್‌ ಟ್ರಂಪ್!‌ ತೈಪೆ ಆತಂಕ ದ್ವಿಗುಣ](https://vijaykarnataka.com/news/world/no-discussion-about-taiwan-wih-chinese-president-xi-jinping-during-bilateral-talks-clarifies-donald-trump/articleshow/134521976.cms)
 
 **The Hindu**
 - [Kerala High Court directs State to ensure adequate facilities at POCSO courts](https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-state-to-ensure-adequate-facilities-at-pocso-courts/article71509475.ece)
@@ -100,6 +100,8 @@
 - [Haryana | ನಿರ್ಮಾಣ ಹಂತದ ಕಟ್ಟಡ ಕುಸಿದು ನಾಲ್ವರು ಮೃತ್ಯು; ಅವಶೇಷಗಳಡಿ ಹಲವರು ಸಿಲುಕಿರುವ ಶಂಕೆ](https://www.varthabharati.in/National/4-killed-as-3-storey-under-construction-building-collapses-in-haryana-13-rescued-2278497)
 
 **Asianet Kannada**
+- [13ನೇ ಶತಮಾನದ ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ ಕಾಲದ ಅಪರೂಪದ ವೀರಗಲ್ಲು ವಡಕಿ ಗ್ರಾಮದಲ್ಲಿ ಪತ್ತೆ!](https://kannada.asianetnews.com/karnataka-districts/13th-century-vijayanagara-empire-veeragallu-found-in-kanakagiri-vadaki-village-sat/articleshow-6xmc3zg)
+- [ಗಂಗಾವತಿ-ದರೋಜಿ ಹೊಸ ರೈಲು ಮಾರ್ಗಕ್ಕೆ ಜೀವದಾನ: ಕಾಮಗಾರಿ ಆರಂಭಕ್ಕೆ ಕೇಂದ್ರ ಸಚಿವ ವಿ.ಸೋಮಣ್ಣಗೆ ಮನವಿ](https://kannada.asianetnews.com/karnataka-districts/gangavathi-daroji-railway-line-appeal-to-union-minister-v-somanna-by-former-mla-paranna-munavalli-sat/articleshow-phhpb44)
 - [ಬ್ಯಾಂಕ್ ಗ್ರಾಹಕರಿಗೆ ಗುಡ್‌ನ್ಯೂಸ್: ಇಂದಿನಿಂದ ಆರಂಭವಾಗಬೇಕಿದ್ದ 3 ದಿನಗಳ ಬ್ಯಾಂಕ್ ಮುಷ್ಕರ ಮುಂದೂಡಿಕೆ!](https://kannada.asianetnews.com/india-news/bank-strike-deferred-ufbu-and-iba-meeting-success-banks-open-normally-today-sat/articleshow-65a267z)
 - [ಬೆಂಗಳೂರು-ಮೈಸೂರು ರೈಲು ಪ್ರಯಾಣಿಕರೇ ಗಮನಿಸಿ; ಮೆಮು ರೈಲುಗಳ ತಾತ್ಕಾಲಿಕ ನಿಲ್ದಾಣ ಬದಲಾವಣೆ ಅವಧಿ ವಿಸ್ತರಣೆ](https://kannada.asianetnews.com/karnataka-districts/ksr-bengaluru-to-ashokapuram-mysuru-memu-train-temporary-extension-till-march-2027-sat/articleshow-nays717)
 - ['ಯಾರು ಏನು ಬೇಕಾದರೂ ಮಾತನ್ನಾಡಬಹುದು; ಅಪ್ಪಾಜಿ, ವಿಷ್ಣು ಸರ್ ಸಂಬಂಧವೇ ಬೇರೆ' ಶಿವಣ್ಣ ಹೇಳಿದ್ದೇನು?](https://kannada.asianetnews.com/entertainment/hat-trick-hero-shivanna-speaks-about-the-relationship-between-dr-vishnuvardhan-and-dr-rajkumar/articleshow-p26qo5v)
@@ -108,8 +110,6 @@
 - [ಇಸ್ಕಾನ್ ಬೆಂಗಳೂರಿನಲ್ಲಿ ವಿಶ್ವಗುರು ಸಂಭ್ರಮೋತ್ಸವ,  ಈ ಮಹಾನ್ ಗುರುಗಳ ಸಾಧನೆ ವಿವರ ಇಲ್ಲಿದೆ](https://kannada.asianetnews.com/bengaluru-urban/vishwa-guru-sambhramotsava-at-iskcon-bangalore/articleshow-3thzgss)
 - [ಬೆಂಗಳೂರು ಏರ್‌ಪೋರ್ಟ್‌ನಲ್ಲಿ ತಪ್ಪಿದ ಭಾರೀ ಅನಾಹುತ: ಇಂಡಿಗೋ ವಿಮಾನ ಲ್ಯಾಂಡಿಂಗ್ ವೇಳೆ ರನ್‌ವೇಗೆ ಬಡಿದ ಬಾಲ! ಡಿಜಿಸಿಎ ತನಿಖೆ](https://kannada.asianetnews.com/state/bengaluru-indigo-flight-suffers-tail-strike-while-landing-at-kempegowda-airport-dgca-rav/articleshow-3miokif)
 - [ಶಿವಣ್ಣಗೆ ವಾಚ್ ಉಡುಗೊರೆ ನೀಡಿ ವಿಷ್ಣು ದಾದಾ ಏನು ಹೇಳಿದ್ದರಂತೆ ಗೊತ್ತಾ? ಸಾಹಸಸಿಂಹನ ನೆನೆದ ಹ್ಯಾಟ್ರಿಕ್ ಹೀರೋ](https://kannada.asianetnews.com/entertainment/dr-shivarajkumar-recalls-the-incident-where-vishnuvardhan-gifted-him-a-watch/articleshow-qcptg8s)
-- [Cricket; ರೋಹಿತ್-ಶುಭಮನ್ ಜೋಡಿ ಅಬ್ಬರದಲ್ಲಿ ಕಮರಿತಾ ಯಶಸ್ವಿ-ವೈಭವ್ ಭವಿಷ್ಯ? ಇಕ್ಕಟ್ಟಿನ ಸ್ಥಿತಿಯಲ್ಲಿ  ಯಂಗ್ ಸೆನ್ಸೇಷನ್ಸ್‌!](https://kannada.asianetnews.com/cricket-sports/yashasvi-jaiswal-vaibhav-suryavanshi-bench-team-india-playing-xi-opportunity-2027-world-cup-bmk/articleshow-mimafmv)
-- [₹ ಲಕ್ಷಾಂತರ ಕೊಟ್ಟು iPhone 18 Pro ಖರೀದಿಸಿದವರಿಗೆ ಬಿಗ್ ಶಾಕ್! ಫೋನ್‌ ಇದ್ದಕ್ಕಿದ್ದಂತೆ ರಿಸ್ಟಾರ್ಟ್ ಆಗ್ತಿರೋದ್ಯಾಕೆ?](https://kannada.asianetnews.com/mobiles/iphone-18-pro-users-face-reboot-bug-apple-reportedly-readies-a-fix-rav/articleshow-g26pwmg)
 
 **News18 Kannada** — _unavailable_
 
@@ -164,21 +164,21 @@
 - India (1.3)
 - Pakistan (1.3)
 - Boeing (1.3)
-- Kingfish' (1.3)
+- Categories (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [IND vs WI Innings Highlights: অল্পের জন্য রক্ষা পেল গ্রিনিজ়দের রেকর্ড, কুলদীপের ভেল্কির পরেও বড় স্কোর ওয়েস্ট ইন্ডিজ়ের](https://bengali.abplive.com/sports/cricket/ind-vs-wi-innings-highlights-india-given-target-of-296-runs-vs-west-indies-justin-greaves-century-virat-kohli-rohit-sharma-1194358)
-- [SRFTI Clash Update: ইটবৃষ্টি, গেট ভাঙার চেষ্টা ক্ষিপ্ত জনতার! আরও উত্তপ্ত SRFTI, পাঁচিল টপকে ভিতরে ঢুকল পুলিশ](https://bengali.news18.com/news/kolkata/tension-increases-at-srfti-after-student-abgp-clash-police-enters-campus-dmg-2909190.html)
-- [హైదరాబాద్ - బెంగళూరు హైవేపై కారు దగ్ధం](https://www.eenadu.net/telugu-news/districts/hyderabad-fire-accident-on-hyderabad-to-bengaluru-highway/529/126174975)
-- [May Allah book his ticket: Bengal leader Humayun Kabir wishes Suvendu Adhikari ahead of bypoll](https://www.indiatoday.in/india/story/humayun-kabir-suvendu-adhikari-remark-rejinagar-bypoll-row-3004228-2026-09-27)
-- [വൈദ്യുതി പതിസന്ധി തുടര്‍ന്നാല്‍ സര്‍ക്കാരിനെതിരെ പ്രതിഷേധത്തിനിറങ്ങും; മുന്നറിയിപ്പുമായി യൂത്ത് ലീഗ്](https://www.reporterlive.com/topnews/kerala/2026/09/27/youth-league-palakkad-power-crisis-government-criticism)
-- [IPO Market: స్టాక్ మార్కెట్లో IPOల జోరు.. సెబీ తలుపు తట్టిన 9 కంపెనీలు ఇవే!](https://telugu.news18.com/news/business/sebi-ipo-filings-nine-companies-trans-acnr-maharashtra-oil-extractions-2026-kb-ws-n-3234737.html)
-- [Bank Strike Update : उद्यापासून ३ दिवस बँक कर्मचाऱ्यांचा संप, ATM - UPI ही बंद राहणार? महत्त्वाची अपडेट](https://saamtv.esakal.com/business/bank-strike-update-3-day-bank-strike-from-september-28-will-upi-and-atms-remain-open-latest-marathi-update-ssj03)
-- [అక్టోబర్ 12 నుంచి శ్రీవారి నవరాత్ర](https://vaartha.com/andhra-pradesh/thirupathi/tirumala-navaratri-brahmotsavalu-2026-schedule-ttd/782511/)
-- [வெஸ்ட் இண்டீஸ் 295 ரன்கள்](https://www.dailythanthi.com/sports/cricket/first-odi-west-indies-score-295-runs)
-- [IND vs WI 1st ODI 2026 live scorecard, toss winner, winning probability, result and highlights from Thiruvananthapuram](https://sports.yahoo.com/articles/ind-vs-wi-1st-odi-060602918.html)
+- [શેર ખરીદવા પર લાગશે UPI ચાર્જ? બ્રોકર્સ કે ગ્રાહકો, કોણ ચૂકવશે? NSE ના CEO નો મોટો ખુલાસો](https://gujarati.abplive.com/news/business/upi-mdr-charge-share-market-stock-broker-client-nse-news-update-rules-992168)
+- [Cricket Breaking: IND vs WI: 24 વર્ષ પછી ભારતીય બોલરોની કફોડી હાલત, વેસ્ટઇન્ડિઝના ઓપનરોનો જબરદસ્ત ચમત્કાર](https://tv9gujarati.com/sports/cricket-news/breaking-news-ind-vs-wi-west-indies-openers-make-history-with-100-run-stand-after-24-years-1522879.html)
+- [Anjali Anand News: वजन कमी कर, त्यानंतर..., कास्टिंग डायरेक्टरने अभिनेत्रीला दिलेला सल्ला; म्हणाली, अभिनय सोडण्याचा…](https://www.prahaar.in/2026/09/27/dhamal-4-actress-anjali-anand-shared-struggle-days-yrf-casting-weight-loss-karan-johar-first-meet/)
+- [ദക്ഷിണാഫ്രിക്കയിൽ രണ്ടിടത്ത് കൂട്ടവെടിവെപ്പ്; 27 പേർ കൊ ല്ലപ്പെട്ടു](https://janayugomonline.com/mass-shootings-at-two-locations-in-south-africa-27-people-killed/)
+- [गुवाहाटीः सीजेपी के आशुतोष रांका हिरासत में, अभिजीत दीपके ने कहा, 'मैं भी जाउंगा असम'](https://www.bbc.com/hindi/articles/c6wyzve010e5o)
+- [Weather Alert : महाराष्ट्रात पुन्हा हवापालट, सोमवारी वादळी पाऊस कोसळणार, 6 जिल्ह्यांना यलो अलर्ट](https://news18marathi.com/photogallery/pune/maharashtra-weather-updates-has-issued-a-yellow-rain-alert-for-6-districts-in-the-state-l18w-local18-1791357.html)
+- [সংগঠন এবং জনপ্রতিনিধিদের মধ্যে সহযোগিতায় জোর, চাই দল এবং সরকারের সমম্বয়ও! রাজ্য বিজেপি-কে নিতিন-বার্তা](https://www.anandabazar.com/west-bengal/bjp-president-nitin-nabin-asks-west-bengal-bjp-to-maintain-co-ordination-in-all-areas-dgtl/cid/1715863)
+- [Gyanesh Kumar Resignation Demands: জ্ঞানেশ কুমারের পদত্যাগ চেয়ে রাস্তায় নামবেন সোনম ওয়াংচুক? আগের মতো ককরোচদের পাশে দেখা যাবে তাঁকে? মুখ খুললেন](https://bengali.abplive.com/news/sonam-wangchuk-says-he-supprots-cockroach-janta-party-in-protest-against-gyanesh-kumar-1194360)
+- [సహనం కోల్పోయిన మంత్రి.. ప్రతిపక్ష ఎమ్మెల్యే సహాయకుడిపై దాడి](https://www.eenadu.net/telugu-news/india/delhi-minister-parvesh-verma-loses-cool-slaps-man-filming-inspection/0701/126174970)
+- [Kuldeep four-for trips West Indies up after Greaves' century](https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-1st-odi-1529227/match-report)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
