@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-28 17:36:13
+# India Trending Report — 2026-09-28 18:02:53
 
 ## Google Trends (India) — top trending searches
-1. [israel iran war](https://trends.google.com/trending/rss?geo=IN)
-2. [bigshare ipo allotment status](https://trends.google.com/trending/rss?geo=IN)
-3. [ipo allotment status](https://trends.google.com/trending/rss?geo=IN)
-4. [ரஜினிகாந்த்](https://trends.google.com/trending/rss?geo=IN)
-5. [राज्य सभा](https://trends.google.com/trending/rss?geo=IN)
-6. [georgia vs ukraine](https://trends.google.com/trending/rss?geo=IN)
-7. [banks strike](https://trends.google.com/trending/rss?geo=IN)
-8. [zimbabwe vs dr congo](https://trends.google.com/trending/rss?geo=IN)
-9. [ఇందిరమ్మ ఇళ్ల పథకం](https://trends.google.com/trending/rss?geo=IN)
-10. [షాయ్ హోప్](https://trends.google.com/trending/rss?geo=IN)
+1. [gas](https://trends.google.com/trending/rss?geo=IN)
+2. [israel iran war](https://trends.google.com/trending/rss?geo=IN)
+3. [bigshare ipo allotment status](https://trends.google.com/trending/rss?geo=IN)
+4. [ipo allotment status](https://trends.google.com/trending/rss?geo=IN)
+5. [ரஜினிகாந்த்](https://trends.google.com/trending/rss?geo=IN)
+6. [राज्य सभा](https://trends.google.com/trending/rss?geo=IN)
+7. [georgia vs ukraine](https://trends.google.com/trending/rss?geo=IN)
+8. [banks strike](https://trends.google.com/trending/rss?geo=IN)
+9. [zimbabwe vs dr congo](https://trends.google.com/trending/rss?geo=IN)
+10. [ఇందిరమ్మ ఇళ్ల పథకం](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -23,7 +23,7 @@
 - ['Was fearing for my life': Indian student in Florida says he was harassed, abused](https://timesofindia.indiatimes.com/world/us/look-at-this-indian-university-of-florida-student-says-he-was-harassed-abused-i-was-genuinely-fearing-for-my-life/articleshow/134545467.cms)
 - [14-year-old Georgia student scores perfect 1600 on SAT](https://timesofindia.indiatimes.com/world/us/a-14-year-old-georgia-student-scored-a-perfect-1600-on-the-sat-after-taking-college-level-courses-ashrit-talluri-of-fulton-county-achieved-the-maximum-score-while-still-in-an-age-group-far-younger-than-typical-sat-test-takers/articleshow/134516628.cms)
 - [US viral delivery driver's $700K fundraiser pulled after daughter posed as neighbour](https://timesofindia.indiatimes.com/world/us/us-81-year-old-viral-delivery-drivers-700k-fundraiser-for-wifes-cancer-treatment-pulled-after-discovering-daughter-posed-as-neighbour-to-raise-money/articleshow/134538859.cms)
-- ['Leave us alone': 3 students say LPU posted rape 'truth' video without consent](https://timesofindia.indiatimes.com/city/chandigarh/lpu-on-boil-3-female-students-say-university-posted-video-without-consent-say-they-face-abuse/articleshow/134538908.cms)
+- [Once known for tree-lined avenues, craters define these posh areas in Bhopal now](https://timesofindia.indiatimes.com/city/bhopal/once-known-for-tree-lined-avenues-craters-define-these-posh-areas-in-bhopal-now/articleshow/134525722.cms)
 
 **NDTV**
 - [J&K Bureaucrats Oppose Statehood Resolution In Rare Letter To Assembly Speaker](https://www.ndtv.com/india-news/dont-allow-statehood-resolution-j-k-bureaucrats-letter-to-assembly-speaker-12111057#publisher=newsstand)
@@ -52,16 +52,16 @@
 **Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [Holiday World bags ‘Best Inbound Tour Operator’ award](https://www.thehindu.com/news/national/andhra-pradesh/holiday-world-bags-best-inbound-tour-operator-award/article71521092.ece)
+- [Hospitals in Visakhapatnam mark World Heart Day with focus on early detection](https://www.thehindu.com/news/national/andhra-pradesh/hospitals-in-visakhapatnam-mark-world-heart-day-with-focus-on-early-detection/article71520780.ece)
+- [IMD forecasts light showers, strong winds in Andhra Pradesh](https://www.thehindu.com/news/national/andhra-pradesh/imd-forecasts-light-showers-strong-winds-in-andhra-pradesh/article71520798.ece)
+- [Lokesh distributes 372 title deeds, pledges water, gas, drainage facilities for Mangalagiri by 2029](https://www.thehindu.com/news/national/andhra-pradesh/lokesh-distributes-372-title-deeds-pledges-water-gas-drainage-facilities-for-mangalagiri-by-2029/article71519902.ece)
 - [States stumped as demography panel seeks religion-wise data on vehicles, schools, voters](https://www.thehindu.com/news/national/states-stumped-as-demography-panel-seeks-religion-wise-data-on-vehicles-schools-voters/article71520565.ece)
+- [BJP accuses Opposition leaders of conspiring to derail India’s progress](https://www.thehindu.com/news/national/bjp-accuses-opposition-leaders-of-conspiring-to-derail-indias-progress/article71520282.ece)
+- [Digital tourism awareness session held at Araku college](https://www.thehindu.com/news/national/andhra-pradesh/digital-tourism-awareness-session-held-at-araku-college/article71521017.ece)
+- [Rabi planning: Centre asks States to assess water availability, prioritise pulses, oilseeds](https://www.thehindu.com/news/national/centre-to-send-teams-to-assess-drought-in-karnataka-maharashtra-shivraj-singh-chouhan/article71519176.ece)
 - [YouTuber Aswanth Kok taken into custody over suspected drunk driving](https://www.thehindu.com/news/national/kerala/youtuber-aswanth-kok-taken-into-custody-over-suspected-drunk-driving/article71521172.ece)
 - [BJP’s SC/ST Lok Sabha MPs took part in fewer debates than House average and party peers](https://www.thehindu.com/news/national/bjps-scst-lok-sabha-mps-took-part-in-fewer-debates-than-house-average-and-party-peers/article71520138.ece)
-- [Kerala HC grants pre-arrest bail to YouTuber](https://www.thehindu.com/news/national/kerala/kerala-hc-grants-pre-arrest-bail-to-youtuber/article71521013.ece)
-- [Supreme Court asks how children can have social media accounts, as underlying contracts are legally void](https://www.thehindu.com/news/national/supreme-court-asks-how-children-can-have-social-media-accounts-as-underlying-contracts-are-legally-void/article71520970.ece)
-- [Clashes in Ujjain over razing of mosque’s portion, 15 detained](https://www.thehindu.com/news/national/madhya-pradesh/ujjain-madhya-pradesh-protests-mosque-demolition-road-widening-project/article71518811.ece)
-- [Sangam Dairy plans expansion, targets ₹2,500 crore turnover](https://www.thehindu.com/news/national/andhra-pradesh/sangam-dairy-plans-expansion-targets-2500-crore-turnover/article71520521.ece)
-- [Workshop on ‘Quaternary Earth System Processes and Geohazards in Southern India’ begins at NCESS](https://www.thehindu.com/news/national/kerala/workshop-on-quaternary-earth-system-processes-and-geohazards-in-southern-india-begins-at-ncess/article71520496.ece)
-- [40 trekkers trapped at high altitude rescued in Uttarkashi, many still stranded](https://www.thehindu.com/news/national/uttarakhand/trekkers-and-expedition-members-stranded-at-high-altitude-kalindi-pass-base-and-audens-col-base-in-uttarkashi/article71518572.ece)
-- [Participants of the 4th Congress of the International Russophile Movement meet Governor](https://www.thehindu.com/news/national/kerala/participants-of-the-4th-congress-of-the-international-russophile-movement-meet-governor/article71520539.ece)
 
 **Livemint**
 - [What happens after a 14-year-old scores a perfect 1600 on the SAT? Ashrit Talluri is already taking college courses](https://www.livemint.com/news/trends/what-happens-after-a-14-year-old-scores-a-perfect-1600-on-the-sat-ashrit-talluri-is-already-taking-college-courses-11790608982333.html)
@@ -90,6 +90,8 @@
 - [Raichur | ಕೃಷ್ಣಾ ನದಿಯಲ್ಲಿ ಈಜಲು ಹೋದ ಯುವಕ ಮೃತ್ಯು](https://www.varthabharati.in/raichur/raichur-youth-dies-while-swimming-in-the-krishna-river-2278771)
 
 **Asianet Kannada**
+- [Asian Gamesನಲ್ಲಿ ಹಿಂದಿನ ದಾಖಲೆ ಮುರಿಯತ್ತಾ ಭಾರತ? ಈ ಬಾರಿ ಗಳಿಸಿದ ಪದಕಗಳೆಷ್ಟು? ಫುಲ್​ ಡಿಟೇಲ್ಸ್​](https://kannada.asianetnews.com/other-sports/did-india-break-the-previous-record-in-the-asian-games-how-many-medals-did-they-win-this-time-suc/articleshow-oml25op)
+- [RCB retention list: 13 ಸ್ಟಾರ್‍‌ಗಳನ್ನ ಉಳಿಸಿಕೊಂಡ ಆರ್‌ಸಿಬಿ, ನಾಲ್ವರಿಗೆ ಗೇಟ್‌ಪಾಸ್](https://kannada.asianetnews.com/cricket-sports/wpl-2027-rcb-retention-list-13-players-retained-4-stars-released/articleshow-zgbrp4s)
 - [Supreme Court: 10 ವರ್ಷದ ಕಂದಮ್ಮನ ಕಣ್ಣೀರಿಗೆ ಸಿಕ್ಕಿತು ನ್ಯಾಯ; ಆ ಕಾಮುಕ ವಯಸ್ಸಾಗುವವರೆಗೂ ಕಂಬಿ ಎಣಿಸಲಿ ಎಂದ ಜಡ್ಜ್ ಸ್ಪಂದನೆ ವೈರಲ್](https://kannada.asianetnews.com/india-news/ten-year-old-girl-pocso-case-sumit-shakya-life-imprisonment-delhi-high-court-compensation-bmk/articleshow-oagw116)
 - [ಎಟಿಎಂನಲ್ಲಿ ಕಾರ್ಡ್ ಹಾಕಿದರೆ ಬರುತ್ತೆ 24 ಕ್ಯಾರಟ್ ಅಪರಂಜಿ ಚಿನ್ನ, ವೈರಲ್ ಆಯ್ತು ದುಬೈ ಗೋಲ್ಡ್ ಎಟಿಎಂ](https://kannada.asianetnews.com/viral/dubai-gold-to-go-atm-machine-24k-gold-coin-bar-purchase-details-san/articleshow-g7eydug)
 - [ಪ್ರದೀಪ್ ಈಶ್ವರ್ ವಿರುದ್ಧ ತಿರುಗಿಬಿದ್ದ ಕಾಂಗ್ರೆಸ್ ಮುಖಂಡರು, ದೂರುಗಳ ಹೊತ್ತು ದೌಡಾಯಿಸಿದ ನಾಯಕರು](https://kannada.asianetnews.com/bengaluru-urban/chikkaballapur-congress-leaders-revolt-against-mla-pradeep-eshwar-kpcc-complaint/articleshow-vtga7gc)
@@ -98,8 +100,6 @@
 - [ಟಾಟಾ ಸಮೂಹದಲ್ಲಿ ಭಿನ್ನಮತದ ಕಾವು: ಕೊಲ್ಲೂರು, ಶೃಂಗೇರಿಗೆ ಭೇಟಿ ನೀಡಿ ಆಶೀರ್ವಾದ ಪಡೆದ ಟಾಟಾ ಸನ್ಸ್ ಚೇರ್ಮನ್ ಎನ್. ಚಂದ್ರಶೇಖರನ್](https://kannada.asianetnews.com/karnataka-districts/tata-sons-chairman-n-chandrasekaran-kollur-mookambika-temple-visit-tata-group-dispute-san/articleshow-bq1gfeg)
 - [ಸೋದರಮಾವನ ಬಂಗಾರದ ಉಂಗುರ ಯೋಜನೆ ಜಾರಿ, ಸಿಎಂ ವಿಜಯ್ ಎಷ್ಟು ಗ್ರಾಂ ಚಿನ್ನ ಕೊಡ್ತಾರೆ?](https://kannada.asianetnews.com/india-news/tamil-nadu-cm-vijay-free-gold-ring-scheme-for-newborn-babies-details/articleshow-yrpmfpi)
 - [Post office Schemes ಪತ್ನಿ ಜೊತೆ ಈ ಖಾತೆ ತೆರೆಯಿರಿ, ಪ್ರತಿ 3 ತಿಂಗಳಿಗೂ ಸಿಗಲಿದೆ ₹25,899!](https://kannada.asianetnews.com/my-money-money/post-office-mis-2026-7-4-percent-interest-14-lakh-investment-monthly-income-calculation-bmk/articleshow-lecf4is)
-- [Jagadhatri: ಅನ್ಯಾಯಕ್ಕೆ ಬೆಂಕಿಯಾಗೋ ಜಗದ್ಧಾತ್ರಿ ಸೀರಿಯಲ್ ಮೊದಲ ಎಪಿಸೋಡ್ ಹೇಗಿತ್ತು?](https://kannada.asianetnews.com/tv-talk/zee-kannada-new-serial-jagadhatri-1st-episode-review-mokshitha-pai-action-packed-romantic-thriller-suspense-mrq/articleshow-g4yvi4c)
-- [ಆನೆಗಳ ಸ್ವರ್ಗ ಅಂಬೋಸೆಲಿ: ಕಿಲಿಮಂಜಾರೋ ಹಿನ್ನೆಲೆಯ ಈ ವನ್ಯಲೋಕ ನೋಡಿದರೆ ಬೆರಗಾಗ್ತೀರಾ!](https://kannada.asianetnews.com/travel/amboseli-national-park-where-elephants-roam-with-mount-kilimanjaro-in-the-background-gvd/articleshow-52l1n14)
 
 **News18 Kannada** — _unavailable_
 
@@ -116,18 +116,20 @@
 - [ಪಶ್ಚಿಮ ಬಂಗಾಳದ ಪ್ರವಾಸದ ವೇಳೆ ಝಲ್ಮುರಿ ಸವಿದ ಬಿಜೆಪಿ ಅಧ್ಯಕ್ಷ ನಿತಿನ್ ನವೀನ್](https://tv9kannada.com/videos/bjp-national-president-nitin-nabin-enjoys-jhalmuri-in-kolkata-during-west-bengal-visit-1243857.html)
 
 **Prajavani**
+- [ಬೆಂಗಳೂರು | ಲಾರಿ ಡಿಕ್ಕಿ: ಪತ್ನಿ ಸಾವು, ಪತಿಗೆ ಗಾಯ](https://www.prajavani.net/district/bengaluru-city/kanakapura-road-lorry-accident-woman-killed-bypass-protest-4294515)
+- [ಕೆಂಪೇಗೌಡ  ವಿಮಾನ ನಿಲ್ದಾಣ: ₹11.44 ಕೋಟಿ ಮೌಲ್ಯದ ಚಿನ್ನ, ಗಾಂಜಾ ಜಪ್ತಿ](https://www.prajavani.net/district/bangaluru-rural/gold-and-ganja-seized-at-kempegowda-international-airport-bangalore-4294560)
+- [ಯುಪಿಐ ಶುಲ್ಕ: ಮಧ್ಯಂತರ ತಡೆಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ ನಕಾರ](https://www.prajavani.net/news/india-news/supreme-court-refuses-stay-on-upi-mdr-charges-4294389)
+- [ತ್ರಿಭಾಷಾ ಸೂತ್ರ | 6ನೇ ತರಗತಿಗೂ ವಿನಾಯಿತಿ: ಸಿಬಿಎಸ್‌ಇಗೆ  ಸುಪ್ರೀಂ ನಿರ್ದೇಶನ](https://www.prajavani.net/news/india-news/supreme-court-directs-cbse-exemption-three-language-formula-class-six-4294384)
 - [ಪಾಕ್‌ನಲ್ಲಿ SCO ರಾಷ್ಟ್ರೀಯ ಸಂಯೋಜಕರ ಸಭೆ: ಭಾರತ ಸೇರಿದಂತೆ ಹಲವು ದೇಶಗಳು ಭಾಗಿ](https://www.prajavani.net/news/india-news/sco-national-coordinators-meeting-islamabad-india-participation-4294428)
 - [ಯೆಮನ್‌ನಲ್ಲಿ ಭಾರಿ ಜನರ ಹತ್ಯೆ: ಡಬ್ಲ್ಯುಎಚ್‌ಒ](https://www.prajavani.net/news/world-news/yemen-conflict-casualties-who-report-displacement-4294325)
 - [ಐಐಟಿ ಬಾಂಬೆ: ಗೆಳತಿಗೆ ಕರೆ ಮಾಡಿ ವಿಷಾದ ವ್ಯಕ್ತಪಡಿಸಿದ್ದ ಸಾಹಿಲ್](https://www.prajavani.net/news/india-news/iit-bombay-student-sahil-wakode-suicide-case-investigation-4294360)
 - [ಸೊಹ್ರಾಬುದ್ದೀನ್‌ ಶೇಖ್‌ ಎನ್‌ಕೌಂಟರ್| 22 ಆರೋಪಿಗಳ ಖುಲಾಸೆ: ಪರಿಶೀಲನೆಗೆ ಸಮ್ಮತಿ](https://www.prajavani.net/news/india-news/supreme-court-to-examine-sohrabuddin-sheikh-encounter-acquittals-4294426)
 - [ಇಂಡಿಯಾ ಮೈತ್ರಿಕೂಟದ ಸಭೆಗೆ ಅಖಿಲೇಶ್ ಯಾದವ್ ಗೈರು: ಕಾಂಗ್ರೆಸ್‌ಗೆ ಸ್ಪಷ್ಟ ಸಂದೇಶ!](https://www.prajavani.net/news/india-news/akhilesh-yadav-skips-india-alliance-meeting-message-to-congress-on-seat-sharing-4294446)
 - [ಜಿಯೊ-ಟ್ಯಾಗ್‌ ಮೂಲಕ ಹಾಜರಾತಿ |  ಸೆ.30ರವರೆಗೆ ಗಡುವು: ಶಾಲಾ ಶಿಕ್ಷಣ ಇಲಾಖೆ](https://www.prajavani.net/news/karnataka-news/geo-tagging-attendance-deadline-karnataka-teachers-4294418)
-- [ಕೇರಳಂನಲ್ಲಿ ಮತಗಳ್ಳತನದ ಮಾತಿಲ್ಲವೇಕೆ?: ಛಲವಾದಿ ನಾರಾಯಣ ಸ್ವಾಮಿ](https://www.prajavani.net/news/karnataka-news/chalavadi-narayana-swamy-questions-congress-on-voter-fraud-claims-4294413)
-- [ಮಹಾರಾಷ್ಟ್ರದ ತುಳಸಿ ಗ್ರಾಮದಲ್ಲಿ ನೀರಿನ ಅಭಾವ: ಹಳ್ಳಿ ಮಾರಾಟಕ್ಕಿಟ್ಟ ಗ್ರಾಮಸ್ಥರು](https://www.prajavani.net/news/india-news/maharashtra-tulshi-village-for-sale-protest-water-crisis-4294398)
-- [ಸಿಲಿಂಡರ್‌ ತೂಕ ವ್ಯತ್ಯಾಸ | ₹ 79 ಸಾವಿರ ದಂಡ ವಸೂಲಿ: ಸಚಿವ ರಿಜ್ವಾನ್ ಅರ್ಷದ್](https://www.prajavani.net/news/karnataka-news/lpg-cylinder-weight-shortage-fine-mission-nikhara-4294397)
-- [‘ಸುಪ್ರೀಂ’ ನ್ಯಾಯಮೂರ್ತಿಗಳಾಗಿ ನೇಮಕ ಮಾಡಲು ಕೊಲಿಜಿಯಂ ಶಿಫಾರಸು](https://www.prajavani.net/news/india-news/supreme-court-collegium-recommends-three-new-judges-appointment-4294377)
 
 **eedina**
+- [ಕಲಬುರಗಿ | ಅವೈಜ್ಞಾನಿಕ ಬರ ಪರಿಹಾರ ಖಂಡಿಸಿ ರೈತ ಸಂಘ ಪ್ರತಿಭಟನೆ](https://eedina.com/?p=767385)
+- [ಕಲಬುರಗಿ | ಭೀಕರ ಬರಕ್ಕೆ ಶಾಶ್ವತ ಪರಿಹಾರ ನೀಡಿ: ರೈತ ಸಂಘದ ಆಗ್ರಹ](https://eedina.com/?p=767382)
 - [ರಾಯಚೂರು | ಈಜಲು ತೆರಳಿದ್ದಾಗ ನೀರಿನಲ್ಲಿ ಮುಳುಗಿ ಯುವಕ ಸಾವು](https://eedina.com/?p=767375)
 - [ರಾಯಚೂರು | ತೆರಿಗೆ ವಸೂಲಾತಿಯಲ್ಲಿ ಲೋಪ: ಇಬ್ಬರು ಪಿಡಿಓ ಅಮಾನತು, ಮೂವರು ಕರವಸೂಲಿಗಾರರ ವಜಾಕ್ಕೆ ವಿಚಾರಣೆ](https://eedina.com/?p=767063)
 - [ಹಾವೇರಿ | ಪುಸ್ತಕ ಓದಿನ ಪರಂಪರೆಯನ್ನು ಮರು ಕಟ್ಟಬೇಕಾಗಿದೆ: ಶೋಭಾ ಜಾಗಟಗೇರಿ](https://eedina.com/?p=767366)
@@ -136,39 +138,37 @@
 - [ಔರಾದ್‌ | ಭಗತ್ ಸಿಂಗ್ ತ್ಯಾಗ, ದೇಶಪ್ರೇಮ ಯುವ ಜನಾಂಗಕ್ಕೆ ಆದರ್ಶ](https://eedina.com/?p=767354)
 - [ಉತ್ತರ ಕನ್ನಡ | 3.24 ಲಕ್ಷ ಪಡಿತರ ಚೀಟಿ ಸದಸ್ಯರ ಇ-ಕೆವೈಸಿ ಬಾಕಿ; ಅಕ್ಟೋಬರ್ 20ರೊಳಗೆ ಪೂರ್ಣಗೊಳಿಸಲು ಮನವಿ](https://eedina.com/?p=767345)
 - [ಉಡುಪಿ | ಇಂದ್ರಾಳಿ ಮಂಚಿ ನೂರಾನಿ ಮಸೀದಿಗೆ ನೂತನ ಆಡಳಿತ ಸಮಿತಿ ರಚನೆ](https://eedina.com/?p=767348)
-- [ಮಂಗಳೂರು | ಎಸ್‌ಐಆರ್ ಪ್ರಕ್ರಿಯೆ ನಿಲ್ಲಿಸಿ, ಚುನಾವಣಾ ಆಯೋಗದ ಕಾರ್ಯ ತನಿಖೆಗೊಳಪಡಿಸಿ: ಪ್ರಕಾಶ್ ರಾಜ್](https://eedina.com/?p=767336)
-- [ಉತ್ತರ ಕನ್ನಡ | ಪಶ್ಚಿಮ ಪದವೀಧರ ಕ್ಷೇತ್ರ ಚುನಾವಣೆ: ಅಧಿಸೂಚನೆ ಪ್ರಕಟ, ಅಕ್ಟೊಬರ್ 23ಕ್ಕೆ ಮತದಾನ](https://eedina.com/?p=767324)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (4.8)
-- Supreme Court (3.0)
+- India (5.8)
 - Odisha (2.9)
 - Delhi (2.9)
-- Ujjain (2.6)
 - Mumbai (2.6)
+- Centre (2.6)
+- States (2.6)
 - Trump (2.6)
+- Supreme Court (2.0)
 - Punjab's (1.6)
 - Iran (1.6)
 - Kejriwal (1.6)
-- YouTuber (1.6)
-- Court (1.5)
 - Trump's (1.3)
 - Washington (1.3)
 - Cong (1.3)
+- Another (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [‘അസാധ്യ’ ഫ്രീകിക്കുമായി മെസ്സി, 98-ാം മിനിറ്റിലെ ഗോളിൽ മയാമി തോറ്റു](https://www.mathrubhumi.com/sports/football/inter-miami-vs-columbus-mls-match-report-messi-goal-voamqoru)
-- ['निर्भया कांड से तुलना करने से खुद को नहीं रोक सकते', दिल्ली](https://www.jagran.com/news/national-supreme-court-slams-delhi-rape-cases-cites-nirbhaya-parallel-40387544.html)
-- [Karan Wahi celebrates Jennifer Winget’s new chapter with heartfelt note: ‘Blessed we crossed paths’](https://timesofindia.indiatimes.com/tv/news/hindi/karan-wahi-celebrates-jennifer-wingets-new-chapter-with-heartfelt-note-blessed-we-crossed-paths/articleshow/134532889.cms)
-- ['हनुमान अंश' ने 8वें संडे दुनियाभर में रचा इतिहास, 400 करोड़ के हुई पार, तोड़े 'कांतारा'-'3 इडियट्स' के रिकॉर्ड](https://www.abplive.com/entertainment/bollywood/hanuman-ansh-box-office-collection-day-52-worldwide-film-cross-400-crores-beat-kantara-3-idiots-globally-3194678)
-- [നിലനിൽപ്പിന്‍റെ രാഷ്ട്രീയം പറയുന്ന 'ഗ്ലോബ്'; നിറഞ്ഞ സദസ്സിൽ പ്രദർശനം](https://www.asianetnews.com/entertainment-news/globe-movie-got-audience-attention-at-idsffk-2026-articleshow-wihewra)
-- [కిమ్‌ సైనికుల అప్పగింత.. జెలెన్‌స్కీపై దక్షిణ కొరియా సీరియస్‌](https://www.eenadu.net/telugu-news/world/south-korea-has-demanded-an-apology-from-ukraine/0801/126175523)
-- [Tollywood News: সব্যসাচীর কলমে চিত্রনাট্য, অভিনয় করবেন প্রসেনজিৎ-ঋত্বিক! সঙ্গে থাকছেন ইশা, শুভাশিসও](https://bengali.abplive.com/entertainment/prosenjit-chatterjee-ritwick-chakraborty-isha-saha-in-new-tollywood-film-script-written-by-sabyasachi-chowdhury-entertainment-news-tollywood-1194437)
-- [Tear Gas, Lathi Charge In Protesters vs Cops Over Ujjain Mosque Removal](https://www.ndtv.com/india-news/protesters-cops-clash-as-part-of-mosque-set-to-be-demolished-in-ujjain-12107570)
-- [হামলাকাণ্ডে হাইকোর্টের দ্বারস্থ বিধায়ক কুণাল ঘোষ, মামলা দায়েরের অনুমতি দিলেন বিচারপতি সৌগত ভট্টাচার্য](https://bengali.abplive.com/district/kunal-ghosh-moves-calcutta-high-court-on-his-car-attack-breaking-news-1194439)
-- [Vinod Kambli Wife: निर्लज्जपणाचा कळस! विनोद कांबळीच्या बिकट अवस्थेवर पत्नीने उडवली खिल्ली, थेट त्याच्या…](https://www.tv9marathi.com/sports/vinod-kambli-wife-andrea-hewitt-statement-after-old-age-home-video-viral-1766152.html)
+- [Allu Sirish | పండుగ వేళ డీజే శబ్దాలపై అల్లు శిరీష్ ఫిర్యాదు.. సోషల్ మీడియాలో మాత్రం భిన్నాభిప్రాయాలు](https://www.ntnews.com/cinema/allu-sirish-gives-complaint-about-dj-sounds-2522067)
+- [IND vs WI: विराट कोहली पर कप्तान गिल का बरसा प्यार, मैच के बाद सरेआम कही दिल की बात](https://www.aajtak.in/sports/cricket/story/ind-vs-wi-1st-odi-shubman-gill-four-word-x-post-featuring-virat-kohli-goes-viral-aksp-dskc-2655178-2026-09-28)
+- [23-Year-Old Pune Techie Dies By Suicide, Family Alleges Dowry Harassment](https://www.ndtv.com/india-news/23-year-old-pune-techie-dies-by-suicide-family-alleges-dowry-harassment-12107666)
+- [Tamil Nadu CM Vijay launches gold ring scheme for newborns: How much gold is offered and how can parents claim it?](https://www.livemint.com/money/tamil-nadu-gold-ring-scheme-launches-today-how-much-gold-will-newborn-babies-get-process-to-claim-it-11790570511097.html)
+- [ഷാഹി മസ്ജിദ് പൊളിക്കലിനെതിരെ പ്രതിഷേധം: ഉജ്ജയിനിയിൽ ജനക്കൂട്ടത്തെ നേരിടാൻ കണ്ണീർവാതകം പ്രയോഗിച്ച് പോലീസ്](https://www.southlive.in/protest-against-shahi-masjid-demolition-police-use-tear-gas-to-tackle-crowd-in-ujjain/)
+- [कुलदीप ठरला गेमचेंजर- शुभमन गिल](https://www.tarunbharat.net/Encyc/2026/9/28/kuldeep-proved-to-be-game-changer.html)
+- [ઉજ્જૈનમાં રસ્તો પહોળો કરવા શાહી મસ્જિદના હિસ્સા પર હથોડો ચલાવાતા હોબાળો, ટીયરગેસનો મારો ચલાવાયો](https://www.gujaratsamachar.com/news/national/Ujjain-Masjid-Demolition-Dispute-Clashes-Erupt-Over-Road-Widening-Project-for-Simhastha-94332727281)
+- [iPhone 17, iPhone 16 prices during Flipkart Big Billion Days 2026: Expected deals and bank offers](https://www.moneycontrol.com/technology/iphone-17-iphone-16-prices-during-flipkart-big-billion-days-2026-expected-deals-and-bank-offers-article-14039813.html)
+- [ഹോർമുസ് കടലിടുക്ക് തുറക്കാൻ തയ്യാറാണെന്ന് ഇറാൻ; 'വേണ്ടാ' എന്ന് ട്രംപ്; യു.എസ് നിലപാടിന് പിന്നിൽ](https://malayalam.news18.com/news/world/iran-ready-to-open-strait-of-hormuz-trump-says-no-what-is-behind-the-us-stance-nkn-ws-l-790228.html)
+- [The Vvaan Box Office Collections: Sidharth Malhotra and Tamannaah Bhatia starrer puts up PROMISING Rs 32 crore first weekend](https://www.pinkvilla.com/entertainment/box-office/the-vvaan-box-office-collections-sidharth-malhotra-and-tamannaah-bhatia-starrer-puts-up-promising-rs-32-crore-first-weekend-1405637)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
