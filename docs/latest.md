@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-28 20:36:56
+# India Trending Report — 2026-09-28 21:03:03
 
 ## Google Trends (India) — top trending searches
-1. [dow jones](https://trends.google.com/trending/rss?geo=IN)
-2. [sebastiano esposito](https://trends.google.com/trending/rss?geo=IN)
-3. [pio esposito](https://trends.google.com/trending/rss?geo=IN)
-4. [one ui 9 s25 ultra](https://trends.google.com/trending/rss?geo=IN)
-5. [javelin throw](https://trends.google.com/trending/rss?geo=IN)
-6. [romania vs bosnia and herzegovina](https://trends.google.com/trending/rss?geo=IN)
-7. [stock split](https://trends.google.com/trending/rss?geo=IN)
-8. [নেপাল](https://trends.google.com/trending/rss?geo=IN)
-9. [sweden vs poland](https://trends.google.com/trending/rss?geo=IN)
-10. [belgium vs france](https://trends.google.com/trending/rss?geo=IN)
+1. [france](https://trends.google.com/trending/rss?geo=IN)
+2. [dow jones](https://trends.google.com/trending/rss?geo=IN)
+3. [sebastiano esposito](https://trends.google.com/trending/rss?geo=IN)
+4. [pio esposito](https://trends.google.com/trending/rss?geo=IN)
+5. [one ui 9 s25 ultra](https://trends.google.com/trending/rss?geo=IN)
+6. [javelin throw](https://trends.google.com/trending/rss?geo=IN)
+7. [romania vs bosnia and herzegovina](https://trends.google.com/trending/rss?geo=IN)
+8. [stock split](https://trends.google.com/trending/rss?geo=IN)
+9. [নেপাল](https://trends.google.com/trending/rss?geo=IN)
+10. [sweden vs poland](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [FBI adds Goldy Brar to its 10 most wanted list, offers $1 million reward](https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/134549606.cms)
 - [Punjab's poll drug debate has old players in new roles: BJP, Cong attack; AAP defends](https://timesofindia.indiatimes.com/india/punjab-election-drug-debate-has-old-players-in-new-roles-bjp-congress-attack-as-aap-defends-its-record/articleshow/134542419.cms)
+- [FBI adds Goldy Brar to its 10 most wanted list, offers $1 million reward](https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/134549606.cms)
+- [Trump slams UK over release of suspects in alleged terror plot targeting US airbase](https://timesofindia.indiatimes.com/world/us/trump-questions-uk-release-of-five-suspects-held-over-alleged-attack-on-us-airbase/articleshow/134550101.cms)
 - [Stock market rout: Sensex sinks to 6-month low, Rs 17 lakh crore wiped out in a month](https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-takes-sensex-to-6-month-low-index-tanks-5-in-a-month-as-investors-lose-rs-17-lakh-crore/articleshow/134544486.cms)
 - [Trump denies offering US weapons to China, contradicts ambassador’s account](https://timesofindia.indiatimes.com/world/us/trump-denies-offering-us-arms-to-chinas-xi-contradicts-his-own-envoy/articleshow/134550046.cms)
 - [US labor dept hints at 'total shutdown' of H-1B visa program](https://timesofindia.indiatimes.com/technology/tech-news/department-of-labor-ig-anthony-desposito-hints-at-total-shutdown-of-h-1b-via-program-says-365-days-from-now-/articleshow/134532030.cms)
-- [14 killed as fire tears through Russian fireworks factory](https://timesofindia.indiatimes.com/world/rest-of-world/14-dead-in-massive-blaze-at-russian-fireworks-factory/articleshow/134550018.cms)
 - [14-year-old Georgia student scores perfect 1600 on SAT](https://timesofindia.indiatimes.com/world/us/a-14-year-old-georgia-student-scored-a-perfect-1600-on-the-sat-after-taking-college-level-courses-ashrit-talluri-of-fulton-county-achieved-the-maximum-score-while-still-in-an-age-group-far-younger-than-typical-sat-test-takers/articleshow/134516628.cms)
 - [US viral delivery driver's $700K fundraiser pulled after daughter posed as neighbour](https://timesofindia.indiatimes.com/world/us/us-81-year-old-viral-delivery-drivers-700k-fundraiser-for-wifes-cancer-treatment-pulled-after-discovering-daughter-posed-as-neighbour-to-raise-money/articleshow/134538859.cms)
-- [Tata Trusts propose merging 2 firms with Tata Sons to avoid RBI listing mandate](https://timesofindia.indiatimes.com/business/india-business/tata-trusts-propose-merging-2-firms-with-tata-sons-to-avoid-rbi-listing-mandate-nbfc-tag/articleshow/134545466.cms)
-- [Another child rape case against granite baron Veeramani 12 years after girl’s suicide](https://timesofindia.indiatimes.com/city/chennai/another-child-rape-case-registered-against-granite-baron-veeramani-based-on-complaint-of-woman-whose-daughter-died-by-suicide/articleshow/134544872.cms)
+- [14 killed as fire tears through Russian fireworks factory](https://timesofindia.indiatimes.com/world/rest-of-world/14-dead-in-massive-blaze-at-russian-fireworks-factory/articleshow/134550018.cms)
+- [Couple protects 655 acres along Montana's Stillwater River](https://timesofindia.indiatimes.com/world/us/in-2005-a-minnesota-couple-bought-20-acres-beside-montanas-stillwater-river-17-years-later-they-had-assembled-655-acres-and-placed-the-entire-property-under-conservation-protection-for-bears-wolves-and-elk/articleshow/134539540.cms)
 
 **NDTV**
 - [Rahul Gandhi Flags 727 Voter Exclusions In Delhi. What Poll Body Said](https://www.ndtv.com/india-news/rahul-gandhi-flags-727-voter-exclusions-in-delhi-what-poll-body-said-12111683#publisher=newsstand)
@@ -151,9 +151,9 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (5.8)
+- Trump (4.2)
 - Asian Games (4.0)
 - Mumbai (3.9)
-- Trump (2.9)
 - What (2.9)
 - Delhi (2.9)
 - Karnataka (2.9)
@@ -169,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Sardar 2: ‘సర్దార్‌2’.. ఓటీటీ స్ట్రీమింగ్‌ ఎప్పుడంటే..](https://www.chitrajyothy.com/2026/ott/karthi-starrer-sardar-2-ott-streaming-on-amazon-avm-75794.html)
-- [ભારતની પ્રથમ LNG ટ્રેન : સાબરમતીથી ભારતની પ્રથમ LNG આધારિત ડ્યુઅલ-ફ્યુઅલ ટ્રેનનું પ્રસ્થાન](https://www.gujaratsamachar.com/news/daily-current-affairs/indias-first-lng-train-indias-first-lng-based-dual-fuel-train-departs-from-sabarmati-91983314728)
-- ['4 महीने में लीजिए फैसला', TMC के चुनाव चिन्ह पर SC ने EC को दी डेडलाइन](https://www.abplive.com/news/india/supreme-court-sets-deadline-for-ec-regarding-tmc-election-symbol-3194793)
-- [Asian Games: Manu Bhaker returns empty-handed after four medal events as India’s shooting campaign falls short of Hangzhou](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-manu-bhaker-returns-empty-handed-after-four-medal-events-as-indias-shooting-campaign-falls-short-of-hangzhou/articleshow/134536745.cms)
-- [సచిన్‌, ధోని స్థానాలు ఎప్పటికీ పదిలమే: కోహ్లీ](https://www.eenadu.net/telugu-news/sports/virat-kohli-talks-about-sachin-and-dhoni/0401/126175566)
-- [Ambalal Patel Weather Forcast : નવરાત્રિની શરૂઆતમાં કેવું રહેશે વાતાવરણ? જુઓ તારીખો સાથે લેટેસ્ટ અપડેટ](https://www.gujaratfirst.com/ahmedabad/ambalal-patel-weather-forecast-gujarat-october/342374/)
-- [Mojtaba Pulled From Rubble After Surviving 2nd US Strike: Cleric's Big Claim](https://www.ndtv.com/world-news/did-mojtaba-survive-us-strikes-twice-clerics-pulled-from-rubble-claim-12108427)
-- [கடைசி ஒருநாள் போட்டி: இலங்கையை வீழ்த்தி இங்கிலாந்து அபார வெற்றி](https://www.dailythanthi.com/sports/cricket/final-odi-england-crush-sri-lanka-for-huge-win)
-- [Motorola announces #BigBillionMotoDeals, bringing festive offers on edge, moto g series, and signature](https://theprint.in/ani-press-releases/motorola-announces-bigbillionmotodeals-bringing-festive-offers-on-edge-moto-g-series-and-signature/3055498/)
-- [Praniti Shinde on Gyanesh Kumar: 'पहिली विकेट प्रधान, दुसरी ज्ञानेश कुमार, अन् तिसरी...'; प्रणिती शिंदेंचा निवडणूक आयुक्तांवर घणाघात, मोदी-शाहांवरही निशाणा](https://marathi.abplive.com/news/politics/praniti-shinde-on-gyanesh-kumar-resignation-arrest-vote-chori-sir-form-6-election-commission-criticizes-pm-narendra-modi-amit-shah-marathi-news-1440520)
+- [Sharad Pawar on Merger with NDA: आपण कुठेही आणि कुणासोबतही जाणार नाही, यायचं असेल तर आमच्यासोबत या; शरद पवारांची मोठी घोषणा](https://marathi.abplive.com/news/politics/sharad-pawar-decision-on-merger-with-nda-says-we-will-not-go-anywher-with-anyone-if-you-want-join-us-maharashtra-politics-bjp-ncp-marathi-news-1440523)
+- [পুজোর আগেই চাকরি হারানোর আশঙ্কা! বিকাশ ভবনের সামনে বিক্ষোভ চুক্তিভিত্তিক কম্পিউটার শিক্ষকদের](https://www.thewall.in/west-bengal/contractual-computer-teachers-protest-salt-lake-kolkata-2026/tid/205775)
+- [Bank Employees Overtime: संपही झाला नाही, रविववारी कामही करावं लागलं ते वेगळं! आता ओव्हरटाइमचे किती मिळणार? गणित पाहा](https://maharashtratimes.com/business/business-news/bank-union-3-day-strike-deferred-will-employees-who-worked-on-sunday-27-get-overtime-payment/articleshow/134535231.cms)
+- [At 19, Pincky Balhara lost three family members ahead of Asian Games debut; Now, she is only Indian to win multiple Kurash medals](https://timesofindia.indiatimes.com/sports/asian-games-2026/at-19-pincky-balhara-lost-three-family-members-ahead-of-asian-games-debut-now-she-is-only-indian-to-win-multiple-kurash-medals/articleshow/134534050.cms)
+- [किसके पास रहेगा TMC का नाम और चुनाव चिह्न? सुप्रीम कोर्ट ने तय की डेडलाइन](https://www.jagran.com/news/national-supreme-court-fixes-time-frame-for-ec-to-decide-dispute-over-tmc-name-election-symbol-40387750.html)
+- [Protests in Ujjain over demolition of portion of mosque for road-widening project](https://www.thehindu.com/news/national/madhya-pradesh/ujjain-madhya-pradesh-protests-mosque-demolition-road-widening-project/article71518811.ece)
+- [జ్యోతిక కోసం సూర్య నాలుగేళ్లు ఎదురు చూశాడు: శివకుమార్](https://www.eenadu.net/telugu-news/movies/lived-with-us-for-18-years-sivakumar-praises-jyotika-reveals-suriyas-pre-marriage-rule/0201/126175572)
+- [Breaking News : સુપ્રીમ કોર્ટે UPI ચાર્જ પર તાત્કાલિક રોક લગાવવાનો ઇનકાર કર્યો, કેન્દ્ર અને NPCIને પાઠવી નોટિસ](https://tv9gujarati.com/national/breaking-news-supreme-court-refuses-to-immediately-stay-upi-charges-issues-notice-to-centre-and-npci-1523276.html)
+- ['സച്ചിന്‍ എക്കാലത്തും സച്ചിന്‍ തന്നെയായിരിക്കും'; ചരിത്രനേട്ടങ്ങള്‍ക്ക് പിന്നാലെ പ്രതികരണവുമായി വിരാട് കോലി](https://www.asianetnews.com/cricket-sports/virat-kohli-on-sachin-tendulkar-and-his-impact-in-cricket-articleshow-a1fmazt)
+- [Motorola announces #BigBillionMotoDeals, bringing festive offers on edge, moto g series, and signature](https://www.aninews.in/news/business/motorola-announces-bigbillionmotodeals-bringing-festive-offers-on-edge-moto-g-series-and-signature20260928141958/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
