@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-28 21:35:10
+# India Trending Report — 2026-09-28 22:02:03
 
 ## Google Trends (India) — top trending searches
 1. [france](https://trends.google.com/trending/rss?geo=IN)
@@ -22,10 +22,12 @@
 - [Trump slams UK over release of suspects in alleged terror plot targeting US airbase](https://timesofindia.indiatimes.com/world/us/trump-questions-uk-release-of-five-suspects-held-over-alleged-attack-on-us-airbase/articleshow/134550101.cms)
 - [14-year-old Georgia student scores perfect 1600 on SAT](https://timesofindia.indiatimes.com/world/us/a-14-year-old-georgia-student-scored-a-perfect-1600-on-the-sat-after-taking-college-level-courses-ashrit-talluri-of-fulton-county-achieved-the-maximum-score-while-still-in-an-age-group-far-younger-than-typical-sat-test-takers/articleshow/134516628.cms)
 - [US viral delivery driver's $700K fundraiser pulled after daughter posed as neighbour](https://timesofindia.indiatimes.com/world/us/us-81-year-old-viral-delivery-drivers-700k-fundraiser-for-wifes-cancer-treatment-pulled-after-discovering-daughter-posed-as-neighbour-to-raise-money/articleshow/134538859.cms)
+- [To avert listing, Noel submits Tata Sons revamp plan to RBI](https://timesofindia.indiatimes.com/business/india-business/to-avert-listing-noel-submits-tata-sons-revamp-plan-to-rbi/articleshow/134550157.cms)
 - [Stock market rout: Sensex sinks to 6-month low, Rs 17 lakh crore wiped out in a month](https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-takes-sensex-to-6-month-low-index-tanks-5-in-a-month-as-investors-lose-rs-17-lakh-crore/articleshow/134544486.cms)
-- [Trump denies offering US weapons to China, contradicts ambassador’s account](https://timesofindia.indiatimes.com/world/us/trump-denies-offering-us-arms-to-chinas-xi-contradicts-his-own-envoy/articleshow/134550046.cms)
 
 **NDTV**
+- [Netanyahu, UAE President Meet In Abu Dhabi, Discuss Bilateral Ties](https://www.ndtv.com/world-news/benjamin-netanyahu-uae-president-meet-in-abu-dhabi-discuss-bilateral-ties-12111867#publisher=newsstand)
+- ['Wars No Longer Make Sense': Pope Urges Russia, Ukraine To Sit Down And Talk](https://www.ndtv.com/world-news/pope-leo-urges-russia-ukraine-to-sit-down-and-talk-12111813#publisher=newsstand)
 - [Rahul Gandhi Flags 727 Voter Exclusions In Delhi. What Poll Body Said](https://www.ndtv.com/india-news/rahul-gandhi-flags-727-voter-exclusions-in-delhi-what-poll-body-said-12111683#publisher=newsstand)
 - [Adani Group Cleared Of Minimum Public Shareholding Violation Charges By SEBI](https://www.ndtv.com/india-news/adani-group-cleared-of-minimum-public-shareholding-violation-charges-12111627#publisher=newsstand)
 - [14 Dead In Fire At Russian Fireworks Factory: Report](https://www.ndtv.com/world-news/14-dead-in-fire-at-russian-fireworks-factory-report-12111750#publisher=newsstand)
@@ -34,10 +36,9 @@
 - [Maharashtra Food Body Suspends 30 Licenses, Seizes Stock Worth A Crore](https://www.ndtv.com/india-news/maharashtra-food-body-suspends-30-licenses-seizes-stock-worth-a-crore-12111644#publisher=newsstand)
 - [From 6th-Gen Fighters To AI: 15 Biggest Takeaways From NDTV Defence Summit](https://www.ndtv.com/india-news/ndtv-defence-summit-china-pakistan-from-6th-gen-fighters-to-ai-15-biggest-takeaways-from-ndtv-defence-summit-12111614#publisher=newsstand)
 - [Iran's Araghchi To Meet Qatari Mediators In New York Today](https://www.ndtv.com/world-news/us-iran-war-iran-foreign-minister-abbas-araghchi-to-meet-qatari-mediators-in-new-york-today-strait-of-hormuz-donald-trump-12111621#publisher=newsstand)
-- [51-Year-Old Fruit Vendor Found Hanging In Delhi: Cops](https://www.ndtv.com/delhi-news/51-year-old-fruit-vendor-found-hanging-in-delhi-cops-12111622#publisher=newsstand)
-- [In Slapgate Row, Report Filed Against Delhi Minister, Police Case On AAP MLA](https://www.ndtv.com/india-news/in-slapgate-row-report-filed-against-delhi-minister-police-case-on-aap-mla-12111619#publisher=newsstand)
 
 **Hindustan Times**
+- [Gangster Goldy Brar added to FBI's 10 Most Wanted list with $1 million reward](https://www.hindustantimes.com/india-news/gangster-goldy-brar-added-to-fbis-10-most-wanted-list-with-1-million-reward-101790632166096.html)
 - [India, Fiji hold key meeting to boost cooperation in maritime security, cyber training](https://www.hindustantimes.com/india-news/india-fiji-hold-key-meeting-to-boost-cooperation-in-maritime-security-cyber-training-101790620302331.html)
 - [US sets zero tariff on certain speciality drugs, ingredients from India, 19 other nations](https://www.hindustantimes.com/india-news/us-sets-zero-tariff-on-certain-speciality-drugs-ingredients-from-india-19-other-nations-101790613511567.html)
 - [Ujjain mosque demolition: MP HC disposes of pleas by Muslim side after 'settlement' with civic body](https://www.hindustantimes.com/india-news/ujjain-mosque-demolition-hc-disposes-of-pleas-by-muslim-side-after-settlement-with-civic-body-101790613396993.html)
@@ -47,7 +48,6 @@
 - [Supreme Court suggests ways to recover unpaid traffic challans of  ₹20,000 crore: 'Add it to electricity bill'](https://www.hindustantimes.com/india-news/supreme-court-suggests-ways-to-recover-unpaid-traffic-challans-of-rs-20-000-crore-add-it-to-electricity-bill-101790606564282.html)
 - [‘Ask for PM Modi's resignation directly': Arvind Kejriwal to CJP amid protest call against CEC Gyanesh Kumar](https://www.hindustantimes.com/india-news/ask-for-pm-modi-resignation-directly-arvind-kejriwal-to-cjp-abhijeet-dipke-amid-eci-row-cec-gyanesh-kumar-101790604699398.html)
 - [Odisha, Chhattisgarh CMs to meet Amit Shah over Mahanadi water dispute](https://www.hindustantimes.com/india-news/odisha-chhattisgarh-cms-to-meet-amit-shah-over-mahanadi-water-dispute-101790606653440.html)
-- [Odisha man beaten to death, body burnt over witchcraft suspicion: Police](https://www.hindustantimes.com/india-news/odisha-man-beaten-to-death-body-burnt-over-witchcraft-suspicion-police-101790606172312.html)
 
 **Vijay Karnataka**
 - [ಟ್ರಾಫಿಕ್‌ ನಿಯಮ ಉಲ್ಲಂಘನೆ ದಂಡ ಕಟ್ಟದವರ ವಿದ್ಯುತ್‌ ಬಿಲ್‌ಗೆ ಮೊತ್ತ ಸೇರಿಸಿ: ಸರ್ಕಾರಕ್ಕೆ ʻಕ್ರೇಜಿʼ ಐಡಿಯಾ ಕೊಟ್ಟ ಸುಪ್ರೀಂಕೋರ್ಟ್‌!](https://vijaykarnataka.com/news/india/pay-traffic-fines-or-lose-power-supreme-court-suggests-linking-unpaid-e-challans-to-electricity-bills/articleshow/134540286.cms)
@@ -137,38 +137,48 @@
 - [ಸ್ಯಾಮ್ಸಂಗ್‌ ಫೋನ್‌ ಬೆಲೆ ತುಟ್ಟಿ](https://www.prajavani.net/business/commerce-news/samsung-galaxy-s-series-mobile-price-hike-india-4294342)
 - [ರಫ್ತು ಶೇ 15ರಷ್ಟು ಹೆಚ್ಚಳ: ಸಚಿವ ಪೀಯೂಷ್ ಗೋಯಲ್](https://www.prajavani.net/business/commerce-news/india-goods-export-growth-piyush-goyal-commerce-ministry-data-4294336)
 
-**eedina** — _unavailable_
+**eedina**
+- [ಕಲಬುರಗಿ | ಎಸ್‌ಐಆರ್ ವಿರುದ್ಧ ಕಾಂಗ್ರೆಸ್ ಆಕ್ರೋಶ; ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ರಾಜೀನಾಮೆಗೆ ಆಗ್ರಹ](https://eedina.com/?p=767401)
+- [ಕಲಬುರಗಿ | ಇಸ್ಪೀಟ್ ಜೂಜಾಟ: 13 ಮಂದಿ ಬಂಧನ](https://eedina.com/?p=767397)
+- [ಯಾದಗಿರಿ | ಅಕ್ರಮವಾಗಿ ದಾಸ್ತಾನು ಮಾಡಿದ್ದ 29 ಕ್ವಿಂಟಾಲ್ ಪಡಿತರ ಅಕ್ಕಿ ವಶ](https://eedina.com/?p=767393)
+- [ಯಾದಗಿರಿ | ಮುಖ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತ ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ರಾಜೀನಾಮೆಗೆ ಒತ್ತಾಯಿಸಿ ಜಿಲ್ಲಾ ಕಾಂಗ್ರೆಸ್ ಪ್ರತಿಭಟನೆ](https://eedina.com/?p=767388)
+- [ಕಲಬುರಗಿ | ಅವೈಜ್ಞಾನಿಕ ಬರ ಪರಿಹಾರ ಖಂಡಿಸಿ ರೈತ ಸಂಘ ಪ್ರತಿಭಟನೆ](https://eedina.com/?p=767385)
+- [ಕಲಬುರಗಿ | ಭೀಕರ ಬರಕ್ಕೆ ಶಾಶ್ವತ ಪರಿಹಾರ ನೀಡಿ: ರೈತ ಸಂಘದ ಆಗ್ರಹ](https://eedina.com/?p=767382)
+- [ರಾಯಚೂರು | ಈಜಲು ತೆರಳಿದ್ದಾಗ ನೀರಿನಲ್ಲಿ ಮುಳುಗಿ ಯುವಕ ಸಾವು](https://eedina.com/?p=767375)
+- [ರಾಯಚೂರು | ತೆರಿಗೆ ವಸೂಲಾತಿಯಲ್ಲಿ ಲೋಪ: ಇಬ್ಬರು ಪಿಡಿಓ ಅಮಾನತು, ಮೂವರು ಕರವಸೂಲಿಗಾರರ ವಜಾಕ್ಕೆ ವಿಚಾರಣೆ](https://eedina.com/?p=767063)
+- [ಹಾವೇರಿ | ಪುಸ್ತಕ ಓದಿನ ಪರಂಪರೆಯನ್ನು ಮರು ಕಟ್ಟಬೇಕಾಗಿದೆ: ಶೋಭಾ ಜಾಗಟಗೇರಿ](https://eedina.com/?p=767366)
+- [ತುಮಕೂರು | ರೈತರ ಸಂಕಷ್ಟಕ್ಕೆ ಸ್ಪಂದಿಸಿ : ವೈಜ್ಞಾನಿಕ ಬರ ಪರಿಹಾರಕ್ಕೆ ಆಗ್ರಹ](https://eedina.com/?p=767363)
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (5.8)
-- Trump (5.5)
+- Trump (4.2)
 - Mumbai (3.9)
-- Odisha (3.9)
 - Asian Games (3.0)
 - What (2.9)
-- Delhi (2.9)
 - Kyani (2.6)
 - October (2.6)
+- Odisha (2.6)
 - Mahanadi (2.6)
 - Goyal (2.6)
 - Karnataka (2.6)
 - Here's (2.6)
 - Maharashtra (2.2)
 - Supreme Court (2.0)
+- Punjab's (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [નિરમા યુનિવર્સિટીમાં વિદ્યાર્થીનો કોલર પકડનાર પ્રોફેસરને સસ્પેન્ડ કરવાની માગ સાથે દેખાવો, જંતર-મંતર જેવા આંદોલનની NSUIની ચીમકી](https://www.gujaratsamachar.com/news/ahmedabad/nsui-protests-to-immediately-suspend-professor-who-grabbed-students-collar-at-nirma-university-threatens-jantar-mantar-like-agitation-16906788744)
-- [Sharad Pawar: चर्चा धुडकावल्या, सस्पेन्स संपवला; एनडीएसोबत जाण्यासह विलीनीकरणावर शरद पवारांकडून एक घाव, दोन तुकडे!](https://maharashtratimes.com/maharashtra/mumbai-news/sharad-pawar-delivers-a-clear-message-against-nda-and-halt-to-merger-talks-with-ncp-sunetra-pawar/articleshow/134537909.cms)
-- [করুণাময়ীতে শিক্ষকদের অবস্থান](https://www.aaroananda.com/story/latest-news/breaking-news/ict-teachers-protest-in-karunamoyee-for-job-security/11021745)
-- [पंकजा मुंडेंचा दुष्काळ दौरा, शेतकरी भावुक, फोडला टाहो](https://www.tv9marathi.com/maharashtra/pankaja-mundes-drought-tour-farmers-moved-to-tears-broke-down-in-grief-1766449.html)
-- [நடிகர் “அட்டகத்தி” தினேஷ் உடனான காதலை அறிவித்த பிரபல தொகுப்பாளினி](https://www.dailythanthi.com/cinema/cinemanews/the-famous-host-who-declared-her-love-for-actor-attakathi-dinesh)
-- [ഷൂട്ടിങ് റേഞ്ചിൽ അഴുക്കുചാലിലെ ദുർഗന്ധം; ഏഷ്യൻ ഗെയിംസ് സംഘാടകർക്കെതിരേ ആഞ്ഞടിച്ച് മനു ഭാക്കറുടെ പിതാവ്](https://www.mathrubhumi.com/sports/news/manu-bhaker-father-slams-asian-games-organizers-nagoya-iw63ljva)
-- [ज्ञानेश कुमार के खिलाफ कांग्रेस ने खोला मोर्चा, दिल्ली-UP समेत देशभर में प्रदर्शन](https://www.abplive.com/news/india/congress-protest-against-gyanesh-kumar-election-commission-bjp-up-delhi-3194811)
-- [एक रिमोट से 4 डिवाइस कंट्रोल! ₹435 में मिल रहा ये काम का डिवाइस](https://www.aajtak.in/visualstories/technology/remote-control-switch-board-4-w-ay-rf-switch-price-prym-286143-28-09-2026)
-- [WPL 2027 Retention Full List: महिला प्रीमियर लीग की रिटेंशन लिस्ट जारी, RCB ने रिलीज किए ये 4 प्लेयर, देखिए पूरी सूची](https://www.livehindustan.com/cricket/wpl-retention-list-live-update-women-s-premier-league-retention-list-for-2027-has-released-check-details-201790587063912.html)
-- ['Zyada toh nahi lagi?' Shehzad Poonawalla's Rise & Fall thrashing by Siwet Tomar sparks reactions](https://www.hindustantimes.com/india-news/zyada-toh-nahi-lagi-shehzad-poonawalla-rise-fall-thrashing-sparks-reactions-siwet-swara-bhasker-101790585444699.html)
+- [OPPO F35 5G Series India Launch Date Confirmed](https://telecomtalk.info/oppo-f35-5g-series-india-launch-date/1012273/)
+- [Plea In Supreme Court To Suspend Gyanesh Kumar As CEC, Declare ECI Decisions Cannot Be Taken Unilaterally](https://www.livelaw.in/top-stories/plea-in-supreme-court-to-suspend-gyanesh-kumar-as-cec-declare-eci-decisions-cannot-be-taken-unilaterally-552097)
+- [સરકારે મોબાઇલ રિચાર્જના નિયમો બદલી નાંખ્યા: Jio, Airtel, Vi ના ગ્રાહકોને થશે સીધી અસર](https://gujarati.abplive.com/technology/trai-mobile-recharge-rules-jio-airtel-vi-30-days-validity-plan-update-992223)
+- [Stock market crash today: BSE Sensex crashes over 1,100 points, investors lose Rs 8.92 lakh crore - top reasons for fall](https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-today-why-bse-sensex-and-nifty50-have-crashed-on-september-28-2026-us-iran-war-crude-oil-rupee-top-reasons-for-fall/articleshow/134532562.cms)
+- [சேவைகள் தடையின்றி தொடர்ந்தன](https://www.tamilmurasu.com.sg/india/employees-strike-postponed-banking-services-continued-uninterrupted?ref=india)
+- [சேவைகள் தடையின்றி தொடர்ந்தன](https://www.tamilmurasu.com.sg/india/employees-strike-postponed-banking-services-continued-uninterrupted)
+- [‘Gem Granite’ Veeramani booked in second POCSO Act case](https://www.thehindu.com/news/national/tamil-nadu/gem-granite-veeramani-booked-in-second-pocso-act-case/article71519195.ece)
+- [VIDEO: હિટમેન રોહિત શર્મા બસમાંથી ઊતરતી વખતે લપસી પડ્યા, વિરાટ કોહલીનું રિએક્શન વાઈરલ](https://www.gujaratsamachar.com/news/sports/video-hitman-rohit-sharma-slips-while-getting-off-the-bus-virat-kohlis-reaction-goes-viral-68263426437)
+- [Gold-Silver Price Crash Today: चांदी का बुलबुला फूटा... अचानक 9000 रुपये सस्ती, सोना भी ₹4000 सस्ता](https://www.aajtak.in/business/utility/story/silver-bubble-burst-price-crash-gold-rs-4000-cheaper-check-new-rate-update-tutc-dskc-2655404-2026-09-28)
+- [ഏഷ്യന്‍ ഗെയിംസ്: ഈഷ സിംഗിന് വെള്ളി; ക്രിക്കറ്റില്‍ ഇന്ത്യ സെമിയില്‍](https://janamtv.com/81061726/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
