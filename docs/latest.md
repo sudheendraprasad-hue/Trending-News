@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-28 21:03:03
+# India Trending Report — 2026-09-28 21:35:10
 
 ## Google Trends (India) — top trending searches
 1. [france](https://trends.google.com/trending/rss?geo=IN)
@@ -16,14 +16,14 @@
 **Times of India**
 - [Punjab's poll drug debate has old players in new roles: BJP, Cong attack; AAP defends](https://timesofindia.indiatimes.com/india/punjab-election-drug-debate-has-old-players-in-new-roles-bjp-congress-attack-as-aap-defends-its-record/articleshow/134542419.cms)
 - [FBI adds Goldy Brar to its 10 most wanted list, offers $1 million reward](https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/134549606.cms)
-- [Trump slams UK over release of suspects in alleged terror plot targeting US airbase](https://timesofindia.indiatimes.com/world/us/trump-questions-uk-release-of-five-suspects-held-over-alleged-attack-on-us-airbase/articleshow/134550101.cms)
-- [Stock market rout: Sensex sinks to 6-month low, Rs 17 lakh crore wiped out in a month](https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-takes-sensex-to-6-month-low-index-tanks-5-in-a-month-as-investors-lose-rs-17-lakh-crore/articleshow/134544486.cms)
-- [Trump denies offering US weapons to China, contradicts ambassador’s account](https://timesofindia.indiatimes.com/world/us/trump-denies-offering-us-arms-to-chinas-xi-contradicts-his-own-envoy/articleshow/134550046.cms)
+- ['Very soon’: Trump predicts US victory in Iran war, says gas prices will tumble](https://timesofindia.indiatimes.com/world/middle-east/very-soon-trump-predicts-us-victory-in-iran-war-says-gas-prices-will-tumble/articleshow/134550107.cms)
+- [14 killed as fire tears through Russian fireworks factory](https://timesofindia.indiatimes.com/world/rest-of-world/14-dead-in-massive-blaze-at-russian-fireworks-factory/articleshow/134550018.cms)
 - [US labor dept hints at 'total shutdown' of H-1B visa program](https://timesofindia.indiatimes.com/technology/tech-news/department-of-labor-ig-anthony-desposito-hints-at-total-shutdown-of-h-1b-via-program-says-365-days-from-now-/articleshow/134532030.cms)
+- [Trump slams UK over release of suspects in alleged terror plot targeting US airbase](https://timesofindia.indiatimes.com/world/us/trump-questions-uk-release-of-five-suspects-held-over-alleged-attack-on-us-airbase/articleshow/134550101.cms)
 - [14-year-old Georgia student scores perfect 1600 on SAT](https://timesofindia.indiatimes.com/world/us/a-14-year-old-georgia-student-scored-a-perfect-1600-on-the-sat-after-taking-college-level-courses-ashrit-talluri-of-fulton-county-achieved-the-maximum-score-while-still-in-an-age-group-far-younger-than-typical-sat-test-takers/articleshow/134516628.cms)
 - [US viral delivery driver's $700K fundraiser pulled after daughter posed as neighbour](https://timesofindia.indiatimes.com/world/us/us-81-year-old-viral-delivery-drivers-700k-fundraiser-for-wifes-cancer-treatment-pulled-after-discovering-daughter-posed-as-neighbour-to-raise-money/articleshow/134538859.cms)
-- [14 killed as fire tears through Russian fireworks factory](https://timesofindia.indiatimes.com/world/rest-of-world/14-dead-in-massive-blaze-at-russian-fireworks-factory/articleshow/134550018.cms)
-- [Couple protects 655 acres along Montana's Stillwater River](https://timesofindia.indiatimes.com/world/us/in-2005-a-minnesota-couple-bought-20-acres-beside-montanas-stillwater-river-17-years-later-they-had-assembled-655-acres-and-placed-the-entire-property-under-conservation-protection-for-bears-wolves-and-elk/articleshow/134539540.cms)
+- [Stock market rout: Sensex sinks to 6-month low, Rs 17 lakh crore wiped out in a month](https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-takes-sensex-to-6-month-low-index-tanks-5-in-a-month-as-investors-lose-rs-17-lakh-crore/articleshow/134544486.cms)
+- [Trump denies offering US weapons to China, contradicts ambassador’s account](https://timesofindia.indiatimes.com/world/us/trump-denies-offering-us-arms-to-chinas-xi-contradicts-his-own-envoy/articleshow/134550046.cms)
 
 **NDTV**
 - [Rahul Gandhi Flags 727 Voter Exclusions In Delhi. What Poll Body Said](https://www.ndtv.com/india-news/rahul-gandhi-flags-727-voter-exclusions-in-delhi-what-poll-body-said-12111683#publisher=newsstand)
@@ -62,18 +62,20 @@
 - [ರೇಣುಕಾಸ್ವಾಮಿ ಕೊಲೆ: ಕೋರ್ಟ್‌ನಲ್ಲಿ 3 ತಾಸು ಮಾಫಿ ಸಾಕ್ಷಿ ಪ್ರದೋಷ್‌ ಹೇಳಿಕೆ; ದರ್ಶನ್‌ ಕ್ಲಬ್‌ ಮೀಟಿಂಗ್‌ನಿಂದ ಪಟ್ಟಣಗೆರೆ ಶೆಡ್‌ವರೆಗೂ](https://vijaykarnataka.com/news/karnataka/renukaswamy-murder-case-approver-pradoshs-statement-recorded-in-court-over-3-hours-meeting-with-darshan-thoogudeepa/articleshow/134547206.cms)
 
 **The Hindu**
+- [UAE signals another $25 billion investment in India; eyes ports, energy and space sectors: Goyal](https://www.thehindu.com/business/Economy/uae-signals-another-25-billion-investment-in-india-eyes-ports-energy-and-space-sectors-goyal/article71520349.ece)
+- [SIR row: Congress holds protest across Maharashtra seeking Gyanesh Kumar’s removal](https://www.thehindu.com/news/national/maharashtra/sir-row-congress-holds-protest-across-maharashtra-seeking-gyanesh-kumars-removal/article71520317.ece)
+- [Sahil Wakode’s parents stage hunger strike at Azad Maidan, demand professor’s arrest](https://www.thehindu.com/news/national/maharashtra/sahil-wakodes-parents-stage-hunger-strike-at-azad-maidan-demand-professors-arrest/article71520922.ece)
+- [Indirectly mining affected people in Odisha get substantial DMF fund, CAG unearths](https://www.thehindu.com/news/national/odisha/indirectly-mining-affected-people-in-odisha-get-substantial-dmf-fund-cag-unearths/article71520592.ece)
 - [Shah to chair meeting to resolve Mahanadi water-sharing dispute](https://www.thehindu.com/news/national/odisha/shah-to-chair-meeting-to-resolvemahanadiwater-sharing-dispute/article71520979.ece)
 - [Punjab campus violence triggers political slugfest; university blames outsiders](https://www.thehindu.com/news/national/punjab/punjab-campus-violence-triggers-political-slugfest-university-blames-outsiders/article71520862.ece)
 - [Moderate 58.14% voter turnout in byelections in Ernakulam](https://www.thehindu.com/news/national/kerala/5814-voter-turnout-recorded-in-byelections-in-ernakulam/article71520914.ece)
 - [Sustainable development must go hand-in-hand with environmental conservation: B.S. Jha](https://www.thehindu.com/news/national/karnataka/sustainable-development-must-go-hand-in-hand-with-environmental-conservation-bs-jha/article71519930.ece)
 - [Karnataka youth achieves impressive feat in Shanghai World Skills Competition](https://www.thehindu.com/news/national/karnataka/karnataka-youth-achieves-impressive-feat-in-shanghai-world-skills-competition/article71520463.ece)
 - [Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2](https://www.thehindu.com/news/national/karnataka/bharatiya-vidya-bhavan-to-host-literary-festival-on-karnatakas-indegenous-languages-from-october-2/article71519907.ece)
-- [Truck catches fire after collision with bike on Kanakapura road; rider injured](https://www.thehindu.com/news/national/karnataka/truck-catches-fire-after-collision-with-bike-on-kanakapura-road-rider-injured/article71519616.ece)
-- [Bengaluru tree branch fall tragedy prompts Karnataka HC to script tech driven public safety framework across State](https://www.thehindu.com/news/national/karnataka/bengaluru-tree-fall-tragedy-prompts-karnataka-hc-to-script-tech-driven-public-safety-framework-across-state/article71520301.ece)
-- [Locals symbolically ‘open’ Bengaluru Metro Pink Line, demand early launch](https://www.thehindu.com/news/national/karnataka/locals-symbolically-open-bengaluru-metro-pink-line-demand-early-launch/article71521103.ece)
-- [Vijay announces ₹30 lakh for Asian Games athlete](https://www.thehindu.com/news/national/tamil-nadu/vijay-announces-30-lakh-for-asian-games-athlete/article71520738.ece)
 
 **Livemint**
+- [Jonathan McKinsey, New York Times executive, fatally shot in California as in-laws arrested for killing](https://www.livemint.com/news/us-news/jonathan-mckinsey-new-york-times-executive-fatally-shot-in-california-as-in-laws-arrested-for-killing-11790629844784.html)
+- [Milania Giudice seen in tense airport confrontation with mom Teresa as new bodycam footage emerges](https://www.livemint.com/news/trends/milania-giudice-seen-in-tense-airport-confrontation-with-mom-teresa-as-new-bodycam-footage-emerges-11790627182924.html)
 - [Jacquees arrested in Hollywood on DUI and battery charges: What police allege happened](https://www.livemint.com/news/trends/jacquees-arrested-in-hollywood-on-dui-and-battery-charges-what-police-allege-happened-11790623170999.html)
 - [Tukaram Mundhe's Maharashtra FDA suspends licence of 122-year-old Kyani cafe in Mumbai: Here's what inspection found](https://www.livemint.com/news/india/tukaram-mundhes-maharashtra-fda-suspends-licence-of-122-year-old-kyani-cafe-in-mumbai-heres-what-inspection-found-11790613345327.html)
 - [US midterms 2026: Elon Musk, Greg Brockman, Yass among billionaires funding political campaigns, mostly Republican](https://www.livemint.com/news/us-news/us-midterms-2026-elon-musk-greg-brockman-yass-among-billionaires-funding-political-campaigns-mostly-republican-11790619133004.html)
@@ -82,8 +84,6 @@
 - [India Energy Week 2027 to focus on energy security amid global oil-market volatility](https://www.livemint.com/news/india/india-energy-week-2027-to-focus-on-energy-security-amid-global-oil-market-volatility-11790609516354.html)
 - [FSSAI’s energy drink crackdown: Red Bull sues regulator, says label ban could bring business to standstill](https://www.livemint.com/news/india/fssais-energy-drink-crackdown-red-bull-sues-regulator-says-label-ban-could-bring-business-to-standstill-11790612215109.html)
 - [Trump administration slashes fuel economy standards for cars, light trucks: Here's what changes](https://www.livemint.com/news/us-news/trump-administration-slashes-fuel-economy-standards-for-cars-light-trucks-heres-what-changes-11790604680806.html)
-- [Who is Nitin Gupta? IIT topper returns to India inspired by SRK's film. Why did he choose mosquito brains study?](https://www.livemint.com/news/trends/who-is-nitin-gupta-iit-topper-returns-to-india-inspired-by-srks-film-why-did-he-choose-mosquito-brains-study-11790608729315.html)
-- [Ashutosh Ranka donated  ₹21,100 to AAP before CJP stint – Who else contributed to Kejriwal’s party in 2025-26?](https://www.livemint.com/news/india/ashutosh-ranka-donated-rs-21-100-to-aap-before-joining-cjp-who-else-contributed-to-arvind-kejriwal-s-party-in-25-26-ec-11790607361642.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -137,48 +137,38 @@
 - [ಸ್ಯಾಮ್ಸಂಗ್‌ ಫೋನ್‌ ಬೆಲೆ ತುಟ್ಟಿ](https://www.prajavani.net/business/commerce-news/samsung-galaxy-s-series-mobile-price-hike-india-4294342)
 - [ರಫ್ತು ಶೇ 15ರಷ್ಟು ಹೆಚ್ಚಳ: ಸಚಿವ ಪೀಯೂಷ್ ಗೋಯಲ್](https://www.prajavani.net/business/commerce-news/india-goods-export-growth-piyush-goyal-commerce-ministry-data-4294336)
 
-**eedina**
-- [ಕಲಬುರಗಿ | ಎಸ್‌ಐಆರ್ ವಿರುದ್ಧ ಕಾಂಗ್ರೆಸ್ ಆಕ್ರೋಶ; ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ರಾಜೀನಾಮೆಗೆ ಆಗ್ರಹ](https://eedina.com/?p=767401)
-- [ಕಲಬುರಗಿ | ಇಸ್ಪೀಟ್ ಜೂಜಾಟ: 13 ಮಂದಿ ಬಂಧನ](https://eedina.com/?p=767397)
-- [ಯಾದಗಿರಿ | ಅಕ್ರಮವಾಗಿ ದಾಸ್ತಾನು ಮಾಡಿದ್ದ 29 ಕ್ವಿಂಟಾಲ್ ಪಡಿತರ ಅಕ್ಕಿ ವಶ](https://eedina.com/?p=767393)
-- [ಯಾದಗಿರಿ | ಮುಖ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತ ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ರಾಜೀನಾಮೆಗೆ ಒತ್ತಾಯಿಸಿ ಜಿಲ್ಲಾ ಕಾಂಗ್ರೆಸ್ ಪ್ರತಿಭಟನೆ](https://eedina.com/?p=767388)
-- [ಕಲಬುರಗಿ | ಅವೈಜ್ಞಾನಿಕ ಬರ ಪರಿಹಾರ ಖಂಡಿಸಿ ರೈತ ಸಂಘ ಪ್ರತಿಭಟನೆ](https://eedina.com/?p=767385)
-- [ಕಲಬುರಗಿ | ಭೀಕರ ಬರಕ್ಕೆ ಶಾಶ್ವತ ಪರಿಹಾರ ನೀಡಿ: ರೈತ ಸಂಘದ ಆಗ್ರಹ](https://eedina.com/?p=767382)
-- [ರಾಯಚೂರು | ಈಜಲು ತೆರಳಿದ್ದಾಗ ನೀರಿನಲ್ಲಿ ಮುಳುಗಿ ಯುವಕ ಸಾವು](https://eedina.com/?p=767375)
-- [ರಾಯಚೂರು | ತೆರಿಗೆ ವಸೂಲಾತಿಯಲ್ಲಿ ಲೋಪ: ಇಬ್ಬರು ಪಿಡಿಓ ಅಮಾನತು, ಮೂವರು ಕರವಸೂಲಿಗಾರರ ವಜಾಕ್ಕೆ ವಿಚಾರಣೆ](https://eedina.com/?p=767063)
-- [ಹಾವೇರಿ | ಪುಸ್ತಕ ಓದಿನ ಪರಂಪರೆಯನ್ನು ಮರು ಕಟ್ಟಬೇಕಾಗಿದೆ: ಶೋಭಾ ಜಾಗಟಗೇರಿ](https://eedina.com/?p=767366)
-- [ತುಮಕೂರು | ರೈತರ ಸಂಕಷ್ಟಕ್ಕೆ ಸ್ಪಂದಿಸಿ : ವೈಜ್ಞಾನಿಕ ಬರ ಪರಿಹಾರಕ್ಕೆ ಆಗ್ರಹ](https://eedina.com/?p=767363)
+**eedina** — _unavailable_
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (5.8)
-- Trump (4.2)
-- Asian Games (4.0)
+- Trump (5.5)
 - Mumbai (3.9)
+- Odisha (3.9)
+- Asian Games (3.0)
 - What (2.9)
 - Delhi (2.9)
-- Karnataka (2.9)
 - Kyani (2.6)
 - October (2.6)
-- Odisha (2.6)
 - Mahanadi (2.6)
+- Goyal (2.6)
+- Karnataka (2.6)
 - Here's (2.6)
+- Maharashtra (2.2)
 - Supreme Court (2.0)
-- Punjab's (1.6)
-- Stock (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Sharad Pawar on Merger with NDA: आपण कुठेही आणि कुणासोबतही जाणार नाही, यायचं असेल तर आमच्यासोबत या; शरद पवारांची मोठी घोषणा](https://marathi.abplive.com/news/politics/sharad-pawar-decision-on-merger-with-nda-says-we-will-not-go-anywher-with-anyone-if-you-want-join-us-maharashtra-politics-bjp-ncp-marathi-news-1440523)
-- [পুজোর আগেই চাকরি হারানোর আশঙ্কা! বিকাশ ভবনের সামনে বিক্ষোভ চুক্তিভিত্তিক কম্পিউটার শিক্ষকদের](https://www.thewall.in/west-bengal/contractual-computer-teachers-protest-salt-lake-kolkata-2026/tid/205775)
-- [Bank Employees Overtime: संपही झाला नाही, रविववारी कामही करावं लागलं ते वेगळं! आता ओव्हरटाइमचे किती मिळणार? गणित पाहा](https://maharashtratimes.com/business/business-news/bank-union-3-day-strike-deferred-will-employees-who-worked-on-sunday-27-get-overtime-payment/articleshow/134535231.cms)
-- [At 19, Pincky Balhara lost three family members ahead of Asian Games debut; Now, she is only Indian to win multiple Kurash medals](https://timesofindia.indiatimes.com/sports/asian-games-2026/at-19-pincky-balhara-lost-three-family-members-ahead-of-asian-games-debut-now-she-is-only-indian-to-win-multiple-kurash-medals/articleshow/134534050.cms)
-- [किसके पास रहेगा TMC का नाम और चुनाव चिह्न? सुप्रीम कोर्ट ने तय की डेडलाइन](https://www.jagran.com/news/national-supreme-court-fixes-time-frame-for-ec-to-decide-dispute-over-tmc-name-election-symbol-40387750.html)
-- [Protests in Ujjain over demolition of portion of mosque for road-widening project](https://www.thehindu.com/news/national/madhya-pradesh/ujjain-madhya-pradesh-protests-mosque-demolition-road-widening-project/article71518811.ece)
-- [జ్యోతిక కోసం సూర్య నాలుగేళ్లు ఎదురు చూశాడు: శివకుమార్](https://www.eenadu.net/telugu-news/movies/lived-with-us-for-18-years-sivakumar-praises-jyotika-reveals-suriyas-pre-marriage-rule/0201/126175572)
-- [Breaking News : સુપ્રીમ કોર્ટે UPI ચાર્જ પર તાત્કાલિક રોક લગાવવાનો ઇનકાર કર્યો, કેન્દ્ર અને NPCIને પાઠવી નોટિસ](https://tv9gujarati.com/national/breaking-news-supreme-court-refuses-to-immediately-stay-upi-charges-issues-notice-to-centre-and-npci-1523276.html)
-- ['സച്ചിന്‍ എക്കാലത്തും സച്ചിന്‍ തന്നെയായിരിക്കും'; ചരിത്രനേട്ടങ്ങള്‍ക്ക് പിന്നാലെ പ്രതികരണവുമായി വിരാട് കോലി](https://www.asianetnews.com/cricket-sports/virat-kohli-on-sachin-tendulkar-and-his-impact-in-cricket-articleshow-a1fmazt)
-- [Motorola announces #BigBillionMotoDeals, bringing festive offers on edge, moto g series, and signature](https://www.aninews.in/news/business/motorola-announces-bigbillionmotodeals-bringing-festive-offers-on-edge-moto-g-series-and-signature20260928141958/)
+- [નિરમા યુનિવર્સિટીમાં વિદ્યાર્થીનો કોલર પકડનાર પ્રોફેસરને સસ્પેન્ડ કરવાની માગ સાથે દેખાવો, જંતર-મંતર જેવા આંદોલનની NSUIની ચીમકી](https://www.gujaratsamachar.com/news/ahmedabad/nsui-protests-to-immediately-suspend-professor-who-grabbed-students-collar-at-nirma-university-threatens-jantar-mantar-like-agitation-16906788744)
+- [Sharad Pawar: चर्चा धुडकावल्या, सस्पेन्स संपवला; एनडीएसोबत जाण्यासह विलीनीकरणावर शरद पवारांकडून एक घाव, दोन तुकडे!](https://maharashtratimes.com/maharashtra/mumbai-news/sharad-pawar-delivers-a-clear-message-against-nda-and-halt-to-merger-talks-with-ncp-sunetra-pawar/articleshow/134537909.cms)
+- [করুণাময়ীতে শিক্ষকদের অবস্থান](https://www.aaroananda.com/story/latest-news/breaking-news/ict-teachers-protest-in-karunamoyee-for-job-security/11021745)
+- [पंकजा मुंडेंचा दुष्काळ दौरा, शेतकरी भावुक, फोडला टाहो](https://www.tv9marathi.com/maharashtra/pankaja-mundes-drought-tour-farmers-moved-to-tears-broke-down-in-grief-1766449.html)
+- [நடிகர் “அட்டகத்தி” தினேஷ் உடனான காதலை அறிவித்த பிரபல தொகுப்பாளினி](https://www.dailythanthi.com/cinema/cinemanews/the-famous-host-who-declared-her-love-for-actor-attakathi-dinesh)
+- [ഷൂട്ടിങ് റേഞ്ചിൽ അഴുക്കുചാലിലെ ദുർഗന്ധം; ഏഷ്യൻ ഗെയിംസ് സംഘാടകർക്കെതിരേ ആഞ്ഞടിച്ച് മനു ഭാക്കറുടെ പിതാവ്](https://www.mathrubhumi.com/sports/news/manu-bhaker-father-slams-asian-games-organizers-nagoya-iw63ljva)
+- [ज्ञानेश कुमार के खिलाफ कांग्रेस ने खोला मोर्चा, दिल्ली-UP समेत देशभर में प्रदर्शन](https://www.abplive.com/news/india/congress-protest-against-gyanesh-kumar-election-commission-bjp-up-delhi-3194811)
+- [एक रिमोट से 4 डिवाइस कंट्रोल! ₹435 में मिल रहा ये काम का डिवाइस](https://www.aajtak.in/visualstories/technology/remote-control-switch-board-4-w-ay-rf-switch-price-prym-286143-28-09-2026)
+- [WPL 2027 Retention Full List: महिला प्रीमियर लीग की रिटेंशन लिस्ट जारी, RCB ने रिलीज किए ये 4 प्लेयर, देखिए पूरी सूची](https://www.livehindustan.com/cricket/wpl-retention-list-live-update-women-s-premier-league-retention-list-for-2027-has-released-check-details-201790587063912.html)
+- ['Zyada toh nahi lagi?' Shehzad Poonawalla's Rise & Fall thrashing by Siwet Tomar sparks reactions](https://www.hindustantimes.com/india-news/zyada-toh-nahi-lagi-shehzad-poonawalla-rise-fall-thrashing-sparks-reactions-siwet-swara-bhasker-101790585444699.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
