@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-27 23:33:36
+# India Trending Report — 2026-09-28 00:02:26
 
 ## Google Trends (India) — top trending searches
-1. [haiti vs costa rica](https://trends.google.com/trending/rss?geo=IN)
-2. [pak vs hk](https://trends.google.com/trending/rss?geo=IN)
-3. [ప్రధాన మంత్రి కిసాన్ సమ్మాన్ నిధి](https://trends.google.com/trending/rss?geo=IN)
-4. [asian games live](https://trends.google.com/trending/rss?geo=IN)
-5. [రుతుపవనం](https://trends.google.com/trending/rss?geo=IN)
-6. [columbus vs inter miami](https://trends.google.com/trending/rss?geo=IN)
-7. [income tax audit](https://trends.google.com/trending/rss?geo=IN)
-8. [germany vs](https://trends.google.com/trending/rss?geo=IN)
-9. [renato veiga](https://trends.google.com/trending/rss?geo=IN)
-10. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
+1. [mls](https://trends.google.com/trending/rss?geo=IN)
+2. [haiti vs costa rica](https://trends.google.com/trending/rss?geo=IN)
+3. [pakistan vs hong kong](https://trends.google.com/trending/rss?geo=IN)
+4. [ప్రధాన మంత్రి కిసాన్ సమ్మాన్ నిధి](https://trends.google.com/trending/rss?geo=IN)
+5. [asian games live](https://trends.google.com/trending/rss?geo=IN)
+6. [రుతుపవనం](https://trends.google.com/trending/rss?geo=IN)
+7. [columbus vs inter miami](https://trends.google.com/trending/rss?geo=IN)
+8. [income tax audit](https://trends.google.com/trending/rss?geo=IN)
+9. [germany vs](https://trends.google.com/trending/rss?geo=IN)
+10. [renato veiga](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [UP double murder: Retired Army man, 1st wife found dead in pool of blood](https://timesofindia.indiatimes.com/city/agra/hathras-double-murder-retired-army-man-first-wife-found-dead-in-pool-of-blood-at-home-near-agra-bypass/articleshow/134517957.cms)
 - [Panda-monium: When diplomacy goes to the dogs, horses, and elephants](https://timesofindia.indiatimes.com/world/us/panda-monium-when-diplomacy-goes-to-the-dogs-horses-and-elephants/articleshow/134522097.cms)
 - [LPU protests: Over 2,000 police deployed after stone-pelting, vehicles set ablaze](https://timesofindia.indiatimes.com/india/lpu-unrest-over-2000-police-deployed-after-stone-pelting-vehicles-set-ablaze/articleshow/134528785.cms)
 - [Bank unions call off 3-day strike after assurances, IBA to study demands](https://timesofindia.indiatimes.com/india/bank-unions-call-off-3-day-strike-after-assurances-iba-to-study-demands/articleshow/134526239.cms)
 - [5 held in UK for suspected plot to attack air base used by US](https://timesofindia.indiatimes.com/world/uk/5-held-in-uk-for-suspected-plot-to-attack-air-base-used-by-us/articleshow/134525372.cms)
-- [Yemeni government forces claim four Iranian experts killed in Taiz](https://timesofindia.indiatimes.com/world/middle-east/4-iranian-experts-killed-in-taiz-as-yemen-army-unleashes-756-operation-offensive-against-houthis/articleshow/134525782.cms)
 - [New Green Card rules from September: Categories affected and those exempt](https://timesofindia.indiatimes.com/technology/tech-news/new-green-card-rules-that-came-into-effect-starting-this-september-list-of-categories-subject-to-the-changes-and-those-that-are-not-impacted/articleshow/134515826.cms)
-- [Festive shopping to pinch as Iran war sets AC, TV prices on fire](https://timesofindia.indiatimes.com/business/india-business/shipments-facing-port-delays-of-up-to-a-month/articleshow/134528881.cms)
+- ['Mk 18 Mod 2 Kingfish': IRGC claims second US underwater drone seized in Strait of Hormuz](https://timesofindia.indiatimes.com/world/middle-east/iran-claims-second-us-drone-seized-in-strait-of-hormuz-identifies-it-as-mk-18-kingfish/articleshow/134528963.cms)
 - [$17.1M to restore 206,000 acres, 225 miles for wildlife movement in West](https://timesofindia.indiatimes.com/science/wildlife/fourteen-us-projects-will-restore-or-protect-wildlife-movement-across-more-than-206000-acres-and-improve-225-miles-of-fencing-after-a-new-17-1-million-conservation-investment-across-the-west/articleshow/134514775.cms)
-- [Boeing flags 737 MAX glitch that may turn off auto pilot](https://timesofindia.indiatimes.com/india/boeing-flags-737-max-glitch-that-may-turn-off-auto-pilot/articleshow/134526139.cms)
-- ['MDR to boost UPI use in cross border payments': JP Morgan Global Payments co-head](https://timesofindia.indiatimes.com/business/india-business/mdr-to-boost-upi-use-in-cross-border-payments/articleshow/134528851.cms)
+- [Yemeni government forces claim four Iranian experts killed in Taiz](https://timesofindia.indiatimes.com/world/middle-east/4-iranian-experts-killed-in-taiz-as-yemen-army-unleashes-756-operation-offensive-against-houthis/articleshow/134525782.cms)
+- [Festive shopping to pinch as Iran war sets AC, TV prices on fire](https://timesofindia.indiatimes.com/business/india-business/shipments-facing-port-delays-of-up-to-a-month/articleshow/134528881.cms)
 
 **NDTV**
 - [Amritpal Singh's Waris Punjab De A New Challenge For Akali Dal Ahead Of Polls](https://www.ndtv.com/india-news/amritpal-singhs-waris-punjab-de-a-new-challenge-for-akali-dal-ahead-of-polls-12106559#publisher=newsstand)
@@ -49,7 +49,17 @@
 - [Bengaluru-bound IndiGo flight suffers tail strike while landing at Kempegowda airport; DGCA to probe incident](https://www.hindustantimes.com/india-news/bengalurubound-indigo-flight-suffers-tail-strike-while-landing-at-kempegowda-airport-dgca-to-probe-incident-101790525461947.html)
 - [75-yr-old Odisha woman swept by swollen river survives crocodile-infested waters](https://www.hindustantimes.com/india-news/71yearold-woman-swept-22-km-by-swollen-river-survives-crocodile-infested-waters-101790522694795.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [Explained: ರಷ್ಯಾ ವಿರುದ್ಧ ಸಮರದ ಮಧ್ಯೆ ಯುದ್ಧಭೂಮಿಗೆ ʼರೋಬೋಟ್‌ ಸೈನ್ಯʼ ಇಳಿಸಲು ಮುಂದಾದ ಉಕ್ರೇನ್! ಏನಿದು Army Of Robots?](https://vijaykarnataka.com/news/world/explainer-ukraine-ex-defense-minister-announces-army-of-robots-manhattan-project-for-physical-ai/articleshow/134519281.cms)
+- [ವಿರಾಟ್‌ ಕೊಹ್ಲಿ, ಶುಭ್ಮನ್‌ ಗಿಲ್‌ ಶತಕ: ವೆಸ್ಟ್‌ ಇಂಡೀಸ್‌ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ ಗೆಲುವು! ರನ್‌ ಮಷಿನ್‌ ಬರೆದ ವಿಶ್ವ ದಾಖಲೆಗಳೆಷ್ಟು?](https://vijaykarnataka.com/sports/cricket/news/india-beats-west-indies-in-1st-odi-virat-kohli-shatters-2-world-records-hits-stunning-century/articleshow/134523249.cms)
+- [ತೈವಾನ್‌ ಹೆಸರೇ ಎತ್ತಿಲ್ಲ: ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್‌ ಜೊತೆ ನಡೆದ ಮಾತುಕತೆಯ ವಿವರ ತಿಳಿಸಿದ ಡೊನಾಲ್ಡ್‌ ಟ್ರಂಪ್!‌ ತೈಪೆ ಆತಂಕ ದ್ವಿಗುಣ](https://vijaykarnataka.com/news/world/no-discussion-about-taiwan-wih-chinese-president-xi-jinping-during-bilateral-talks-clarifies-donald-trump/articleshow/134521976.cms)
+- [ಚಹಾ ಮಾಡಿದ ನಂತರ ಶುಂಠಿ ಬಿಸಾಡಬೇಡಿ; ಉಳಿದ ಶುಂಠಿಯಿಂದಲೇ ರುಚಿಕರ ಖಾರ ಚಟ್ನಿ ತಯಾರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/used-ginger-after-making-tea-chutney-recipe/articleshow/134508419.cms)
+- [SSLC 600 ಅಂಕ ಪಡೆದವರಿಗೆ ನನ್ನ ಸಂಸ್ಥೆಯಲ್ಲಿ ಉಚಿತ PUC ಶಿಕ್ಷಣ: ಪ್ರದೀಪ್ ಈಶ್ವರ್; ದಾವಣಗೆರೆ ಜಿಲ್ಲೆ ಮಕ್ಕಳಿಗೆ ವಾಗ್ದಾನ](https://vijaykarnataka.com/news/davanagere/free-puc-education-at-my-institution-for-those-who-scored-600-marks-in-sslc-pradeep-eshwar/articleshow/134521795.cms)
+- [ಅವಿನಾಶ್ ಶಟಮರ್ಷಣಗೆ BBK 13ನಿಂದ ಲಭಿಸಿದ ಬಹುಮಾನ ಎಷ್ಟು?: ಪತ್ನಿ ಪ್ರಿಯಾ ಭಾವುಕ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/what-prize-did-avinash-shatamarshana-receive-from-bbk-13/articleshow/134524909.cms)
+- [ಅಕ್ಷಯ್ ಕುಮಾರ್ ಪತ್ನಿ ಟ್ವಿಂಕಲ್ ಖನ್ನಾ ಹೇಳಿದ ಕಿಚನ್ ಟಿಪ್ಸ್; ಜಿರಳೆ ಕಾಟಕ್ಕೆ ಈ ಸರಳ ಮನೆಮದ್ದು](https://vijaykarnataka.com/lifestyle/home-decor/twinkle-khanna-kitchen-remedy-to-get-rid-of-cockroaches/articleshow/134499248.cms)
+- [2026 ಪಿತೃ ಪಕ್ಷ: ಕರ್ಣ ಸ್ವರ್ಗದಿಂದ ಭೂಮಿಗೆ ಮರಳಲು ಕಾರಣ.!](https://vijaykarnataka.com/religion/hinduism/pitru-paksha-2026-reason-behind-karna-back-to-earth-from-the-heaven/articleshow/134517525.cms)
+- [ಪಿತೃ ಪಕ್ಷ 2026: ಪಿತೃಗಳಿಗೆ ಪಾಯಸ-ಪೂರಿ ಅರ್ಪಿಸುವ ಸಂಪ್ರದಾಯ, ಮಾಡುವ ವಿಧಾನ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/home-decor/pitru-paksha-2026-kheer-puri-first-day-ancestor-offering/articleshow/134501695.cms)
+- [ಸರ್ಜಿಕಲ್ ಸ್ಟ್ರೈಕ್‌ಗೆ 10 ವರ್ಷ: ಭಯೋತ್ಪಾದನೆಗೆ ʼಶೂನ್ಯ ಸಹಿಷ್ಣುತೆʼ ಇಂದಿನ ಭಾರತದ ನೀತಿ- ಮನ್ ಕಿ ಬಾತ್‌ನಲ್ಲಿ ಪ್ರಧಾನಿ ಮೋದಿ ಪ್ರತಿಪಾದನೆ!](https://vijaykarnataka.com/news/india/zero-tolerance-against-terrorism-pm-modi-recalls-surgical-strike-ahead-of-10th-anniversary-in-mann-ki-batt/articleshow/134518398.cms)
 
 **The Hindu**
 - [Kerala High Court directs State to ensure adequate facilities at POCSO courts](https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-state-to-ensure-adequate-facilities-at-pocso-courts/article71509475.ece)
@@ -122,8 +132,6 @@
 - [ಬಿಡದಿ ಟೌನ್‌ಶಿಪ್: 15 ರೈತರ ವಿರುದ್ಧ ಎಫ್‌ಐಆರ್ ಅಸ್ತ್ರ](https://www.prajavani.net/district/ramanagara/bidadi-township-protest-fir-against-farmers-ramanagara-4291962)
 - [ಅಕ್ರಮ ಎಸಗಿದ ಖೇಣಿಗೆ ಸಿಎಂ ರಕ್ಷಣೆ:  ಎಚ್‌.ಡಿ.ಕುಮಾರಸ್ವಾಮಿ ಆರೋಪ](https://www.prajavani.net/news/karnataka-news/kumaraswamy-alleges-dk-shivakumar-protecting-ashok-kheny-in-nice-scam-4291954)
 - [ಜ್ಞಾನೇಶ್ ಬಿಜೆಪಿಯ ಏಜೆಂಟ್: ಕೆಪಿಸಿಸಿ ಅಧ್ಯಕ್ಷ ಬಿ.ಕೆ. ಹರಿಪ್ರಸಾದ್](https://www.prajavani.net/news/karnataka-news/bk-hariprasad-criticizes-gyanesh-kumar-bjp-agent-allegation-4292165)
-- [ಅಕ್ರಮ ಜೂಜು: ಗೇಮ್ಸ್‌ಕ್ರಾಫ್ಟ್‌
-₹442.35 ಕೋಟಿ ಮುಟ್ಟುಗೋಲು](https://www.prajavani.net/district/bengaluru-city/gameskraft-technologies-assets-seizure-ed-online-gambling-fraud-4292262)
 
 **eedina**
 - [ಯಾದಗಿರಿ | ತತ್ವಪದಕಾರ ಅವಧೂತ ಶ್ರೀ ರಂಗಲಿಂಗೇಶ್ವರ ಕುರಿತು ವಿಶೇಷ ಉಪನ್ಯಾಸ](https://eedina.com/?p=767051)
@@ -148,25 +156,25 @@
 - IndiGo (1.6)
 - Panda-monium (1.3)
 - When (1.3)
-- Yemeni (1.3)
-- Iranian (1.3)
-- Taiz (1.3)
 - Categories (1.3)
-- Festive (1.3)
+- Kingfish' (1.3)
+- IRGC (1.3)
+- Strait (1.3)
+- Hormuz (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Trump's Former Lawyer Alina Habba, 42, Marries 29-Year-Old Turkish Billionaire In Star-Studded Wedding](https://www.ndtv.com/world-news/trumps-former-lawyer-alina-habba-42-marries-29-year-old-turkish-billionaire-in-star-studded-wedding-12105213)
-- [Vijay's Son Jason Sanjay Gets Special Wish From Nagarjuna Ahead Of Sigma Release](https://www.ndtv.com/entertainment/nagarjuna-akkineni-is-all-praise-for-thalapathy-vijay-as-his-son-jason-sanjay-debuts-with-sigma-telugu-audience-loves-him-12104966)
-- [West Bengal News Live: ফের বিপাকে হুমায়ুন কবীর, মুখ্যমন্ত্রীর মৃত্যু কামনা করায় অভিযোগ দায়ের হল থানায়](https://bengali.abplive.com/district/west-bengal-news-live-updates-humayun-kabir-gynesh-kumar-sir-cm-suvendu-adhikari-nandigram-rejinagar-by-election-2026-mamata-banerjee-congress-tmc-ncpi-bjp-cjp-27-september-1194354)
-- [कौन हैं अभिजीत दीपके के मेंटर? वीडियो कॉल में खुला राज](https://www.prabhatkhabar.com/national/jantar-mantar-protest-abhijeet-deepke-mentor-ajinkya-shinde-cjp-video-call)
-- [VIDEO: દિલ્હીમાં રોડનું નિરીક્ષણ કરવા પહોંચેલા મંત્રીએ યુવકને લાફો ઝીંકી દીધો, AAPએ કહ્યું-'GenZની તાકાતનો હજુ સુધી અહેસાસ નથી થયો'](https://www.gujaratsamachar.com/news/national/video-minister-who-arrived-to-inspect-roads-in-delhi-slapped-a-youth-aap-said-the-power-of-genz-has-not-been-realized-yet-69206195983)
-- [செப்டம்பர் 28 நாளை பங்குச் சந்தையில் அதிக கவனம் பெறும் பங்குகள் இவைதான்!](https://tamil.economictimes.com/market/stocks/stocks-to-watch-on-september-28-adani-sail-bccl-and-more/articleshow/134519072.cms)
-- [New mobile recharge rules: 30-day plans, call-only options and more; TRAI rules explained](https://timesofindia.indiatimes.com/business/india-business/new-mobile-recharge-rules-30-day-plans-call-only-options-and-more-trai-rules-explained/articleshow/134519014.cms)
-- [വിദ്യാർഥിനിക്ക് പ്രിയദർശിനി ബസിൽ അധിക്ഷേപം, ഇടപെട്ട് മുഖ്യമന്ത്രി- Student Harassment](https://www.manoramaonline.com/news/latest-news/2026/09/27/police-case-against-bus-conductor-student-harassment-cm-vd-satheesan-intervention.html)
-- ['Supported when they were weak, now...': Sonam Wangchuk on CJP's protest call against CEC Gyanesh Kumar](https://www.hindustantimes.com/india-news/sonam-wangchuk-backs-cjp-protest-against-cec-gyanesh-kumar-election-commission-abhijeet-dipke-call-for-october-2-101790504695763.html)
-- [सलमान खान ने ट्रोल्स को लताड़ा, फातिमा सना शेख ने की तारीफ, बोलीं- ये बड़ी बात](https://www.aajtak.in/entertainment/bollywood-news/story/fatima-sana-shaikh-support-paparazzi-salman-khan-muh-tod-jawab-to-trolls-on-bigg-boss-20-tmovg-dskc-2654573-2026-09-27)
+- [Delhi minister Parvesh Verma slaps man filming him while inspecting broken road in west Delhi](https://indianexpress.com/article/cities/delhi/delhi-minister-parvesh-verma-slaps-man-delhi-road-inspection-10896244/)
+- [Pravesh Verma Slap: દિલ્હીમાં ખરાબ રસ્તા મુદ્દે બબાલ, મંત્રી પ્રવેશ વર્માએ યુવકને મારી થપ્પડ](https://www.gujaratfirst.com/national/pravesh-verma-slap-tilak-nagar-road-inspection-gujarat-first-digital/342206/)
+- ['હું તો તેની સાથે જ રહીશ!': અમદાવાદમાં ટેમ્પોચાલકના પ્રેમમાં પડેલી સગીરાનો ઘરમાં હાઈવોલ્ટેજ ડ્રામા, 181 અભયમની ટીમે મામલો શાંત પાડ્યો](https://www.gujaratsamachar.com/news/ahmedabad/shahibaug-minor-girl-love-affair-with-tempo-driver-181-abhayam-counselling-80134667967)
+- [ईरानी सेना का दावा- अमेरिका कमजोर, हम पहले से ज्यादा तैयार... फिर हमला हुआ तो होगी बड़ी जंग](https://www.aajtak.in/defence-news/story/iran-army-voices-readiness-for-potential-renewed-us-attack-dskc-2654653-2026-09-27)
+- [સોના-ચાંદીમાં મોટો કડાકો: ચાંદી ₹10,000 સસ્તી થઈ, સોનામાં પણ ભારે ઘટાડો; જાણો આજના રેટ](https://gujarati.abplive.com/news/business/gold-silver-price-drop-weekly-fall-today-22k-24k-rates-update-news-992164)
+- [Electronics Price Hike: দীপাবলির আগে বড় ধাক্কা! ১ অক্টোবর থেকে দাম বাড়ছে AC, TV, ফ্রিজ-সহ একাধিক ইলেকট্রনিক্সের](https://bengali.news18.com/photogallery/technology/electronics-price-hike-ac-tv-and-appliances-prices-to-increase-up-to-8-percent-from-october-1-ahead-of-festive-season-ac-2909097.html)
+- [Bank Strike 2026: సెప్టెంబర్ 28 నుంచి మూడు రోజుల పాటు బ్యాంకుల సమ్మె.. ఏటీఎంలు, యూపీఐ పనిచేస్తాయా?](https://telugu.abplive.com/business/three-day-nationwide-bank-strike-starting-tomorrow-will-upi-and-atms-work-all-you-need-to-know-260079)
+- [பக்காவாக கலக்கும் Jio வெறும் ரூ,198 யில் அன்லிமிடெட் 5G டேட்டா மற்றும் பல நன்மை](https://www.digit.in/ta/news/telecom/jio-best-cheapest-5g-recharge-plan-198-with-unlimited-calling-benefits.html)
+- [FD से लेकर विला तक... Rummyculture ऐप केस में ED ने जब्त की 443 करोड़ की संपत्ति](https://www.aajtak.in/india/news/story/ed-seizes-assets-worth-four-hundred-crore-in-rummy-culture-app-fraud-case-ntc-acwi-rpti-2654649-2026-09-27)
+- [Bumrah and Vaibhav: ബുംറയും വൈഭവും തിരിച്ചെത്തും, സഞ്ജു തുടരും, അഫ്ഗാനെതിരെ ഇന്ത്യയുടെ സാധ്യതാ ഇലവൻ](https://www.asianetnews.com/cricket-sports/asian-games-quarters-bumrah-and-vaibhav-set-to-return-as-india-eye-changes-against-afghanistan-articleshow-60fhkhe)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
