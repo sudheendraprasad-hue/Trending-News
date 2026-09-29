@@ -1,7 +1,7 @@
-# India Trending Report — 2026-09-29 21:02:22
+# India Trending Report — 2026-09-29 21:36:21
 
 ## Google Trends (India) — top trending searches
-1. [spain](https://trends.google.com/trending/rss?geo=IN)
+1. [marc pubill](https://trends.google.com/trending/rss?geo=IN)
 2. [somalia vs côte d'ivoire](https://trends.google.com/trending/rss?geo=IN)
 3. [scotland vs switzerland](https://trends.google.com/trending/rss?geo=IN)
 4. [spain vs croatia](https://trends.google.com/trending/rss?geo=IN)
@@ -26,6 +26,9 @@
 - [Can’t deny employee security clearance based on kin’s antecedents: J&K high court](https://timesofindia.indiatimes.com/india/cant-deny-employee-security-clearance-based-on-kins-antecedents-jk-high-court/articleshow/134573666.cms)
 
 **NDTV**
+- [5 New Sites Added To India's UNESCO Tentative List For World Heritage](https://www.ndtv.com/india-news/5-new-sites-added-to-indias-unesco-tentative-list-for-world-heritage-12117131#publisher=newsstand)
+- [Trump, Tech Executives Sign "Morally Binding" AI Document](https://www.ndtv.com/world-news/donald-trump-tech-executives-sign-morally-binding-ai-document-12117085#publisher=newsstand)
+- [US Supreme Court Allows Trump's 3rd-Country Deportations](https://www.ndtv.com/world-news/us-supreme-court-allows-trumps-3rd-country-deportations-12117032#publisher=newsstand)
 - [Local Shiv Sena (UBT) Leader Dies In Thane After Firing By Unidentified Men](https://www.ndtv.com/india-news/local-shiv-sena-ubt-leader-pradeep-purnekar-dies-in-thane-after-firing-by-unidentified-men-12117002#publisher=newsstand)
 - [No Mother-Child Photo On Baby Food Packets, Orders Team Tukaram Mundhe](https://www.ndtv.com/india-news/no-mother-child-photo-on-baby-food-packets-orders-team-tukaram-mundhe-12116965#publisher=newsstand)
 - [Delhi Bans Bus Strikes For 6 Months, Commuters Get Relief](https://www.ndtv.com/india-news/delhi-bans-bus-strikes-agitations-for-6-months-commuters-get-relief-12116939#publisher=newsstand)
@@ -33,9 +36,6 @@
 - [INDIA Bloc To Meet Today Over Poll Body Row: Options And Gameplan](https://www.ndtv.com/india-news/india-bloc-to-meet-today-over-poll-body-row-options-and-gameplan-12116922#publisher=newsstand)
 - [Zohran Mamdani Reveals Why He Texts Trump From "Time To Time"](https://www.ndtv.com/world-news/zohran-mamdani-reveals-why-he-texts-donald-trump-from-time-to-time-12116918#publisher=newsstand)
 - [High Court Setback For Arvind Kejriwal In PM Modi Degree Case](https://www.ndtv.com/india-news/high-court-setback-for-arvind-kejriwal-in-pm-modi-degree-case-12116915#publisher=newsstand)
-- [Bhagat Singh To Punjab's Water: AAP Widens Its Political Campaign](https://www.ndtv.com/india-news/bhagat-singh-to-punjabs-water-aap-widens-its-political-campaign-12116891#publisher=newsstand)
-- [Attend, Don't Just Write Articles: Mallikarjun Kharge's Lighthearted Dig At Shashi Tharoor](https://www.ndtv.com/india-news/attend-dont-just-write-articles-mallikarjun-kharges-lighthearted-dig-at-shashi-tharoor-12116706#publisher=newsstand)
-- [YouTuber Savukku Shankar Gets 3 Years' Jail In 2013 Defamation, Threat Case](https://www.ndtv.com/india-news/youtuber-savukku-shankar-gets-3-years-jail-in-2013-defamation-threat-case-12116860#publisher=newsstand)
 
 **Hindustan Times**
 - [SC pulls up NCPCR for ‘indifferent’ implemention of 25% EWS quota](https://www.hindustantimes.com/india-news/sc-pulls-up-ncpcr-for-indifferent-implemention-of-25-ews-quota-101790708191879.html)
@@ -151,8 +151,8 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - India (5.2)
+- Trump (4.2)
 - Kashmir (3.9)
-- Trump (2.9)
 - Delhi (2.9)
 - Budgam (2.6)
 - Keralam (2.6)
@@ -169,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [‘If he thinks about 100 centuries’: Ajinkya Rahane reveals if Virat Kohli can reach the milestone](https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/if-he-thinks-about-100-centuries-ajinkya-rahane-reveals-if-virat-kohli-can-reach-the-milestone/articleshow/134561429.cms)
-- [Ekam Bawa On Rhiti Tiwari : मी अजूनही तुझा कायदेशीर बाप! MS Dhoni सिनेमाचा पैसा गेला कुठे सांग? बिग बॉस फेम रिती तिवारीवर सावत्र वडिलांचे आरोप](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/singer-ekam-bawa-posted-allegations-video-on-bigg-boss-20-contestant-rhiti-tiwari/articleshow/134561078.cms)
-- [श्री चरणी ने ICC T20I रैंकिंग में पलटा इतिहास, सबसे ज्यादा रेटिंग हासिल की; स्मृति मंधाना की टॉप 5 में एंट्री](https://www.livehindustan.com/cricket/sri-charani-makes-history-in-icc-womens-t20i-rankings-after-achieving-817-rating-points-smriti-mandhana-enters-top-5-201790670560444.html)
-- [મહિલાઓને જ નહીં… પુરુષોને પણ થાય છે ‘બ્રેસ્ટ કેન્સર’, આ લક્ષણોને ભૂલથી પણ ન કરો ‘નજરઅંદાજ’](https://tv9gujarati.com/photo-gallery/male-breast-cancer-health-tips-know-the-early-symptoms-and-warning-signs-men-should-not-ignore-1523891.html)
-- [Smartwatch AI Reaches 91% Accuracy in Heart Rhythm Study, With Important Trade-Offs](https://www.devdiscourse.com/article/health/3983093-smartwatch-ai-reaches-91-accuracy-in-heart-rhythm-study-with-important-trade-offs)
-- [Assam Rifles jawan killed, four injured in suspected militant attack along Myanmar border in Arunachal Pradesh](https://timesofindia.indiatimes.com/india/assam-rifles-jawan-killed-four-injured-in-suspected-militant-attack-along-myanmar-border-in-arunachal-pradesh/articleshow/134561299.cms)
-- [Can technology help reduce premature cardiac deaths?](https://www.hindustantimes.com/ht-insight/public-health/can-technology-help-reduce-premature-cardiac-deaths-101790671638155.html)
-- ['அவர் இல்லாமல் 2027 உலகக் கோப்பைக்கு போகவே முடியாது': பிசிசிஐ தேர்வுக்குழுவுக்கு அஸ்வின் ஓபன் மெசேஜ்](https://tamil.newsbytesapp.com/news/sports/r-ashwin-backs-kuldeep-yadav-for-2027-odi-world-cup-cannot-go-to-south-africa-without-him/story)
-- ['Hanuman Ansh' box office collection Day 54 [LIVE]: Vishal Chaturvedi and Shobhinaw Satyaa's spiritual biopic on Neem Kaorli Baba biopic sustains eight week run, crosses Rs 310 crore India net mark](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-54-live-vishal-chaturvedi-and-shobhinaw-satyaas-spiritual-biopic-on-neem-kaorli-baba-sustains-eight-week-run-eyes-rs-315-crore-india-net-mark-after-tapping-the-rs-400-crore-worldwide-gross-milestone/articleshow/134561090.cms)
-- [কোহলি নিজেকে বাইরে রেখে বানালেন ওয়ানডের ‘সেরা’ ব্যাটসম্যান](https://www.prothomalo.com/sports/cricket/e7pnbiuqsi)
+- [Assam Rifles Jawan Killed In Action After Patrol Team Attacked In Arunachal](https://www.ndtv.com/india-news/assam-rifles-jawan-killed-in-action-after-patrol-team-attacked-in-arunachal-12113937)
+- [या अभिनेत्रीवर क्रिकेटर्सही फिदा, वीरेंद्र सेहवागने गुपित केलं उघड; कोण आहे ती?](https://www.tv9marathi.com/entertainment/who-is-sara-gurpal-rise-and-fall-punjabi-singer-actress-received-message-from-indian-cricketers-1767309.html)
+- [മത്സരം ജപ്പാനിൽ, ആവേശം യാക്കരയിൽ, ശ്രീശങ്കറിന്റെ മത്സരം തത്സമയം കണ്ട് കുടുംബവും നാട്ടുകാരും](https://www.manoramaonline.com/sports/other-sports/2026/09/29/sreeshankar-asian-games-silver.html)
+- [Drishyam 3 Advance Booking Day 1 Live: रिलीज से पहले ‘दृश्यम 3' का भौकाल, एडवांस बुकिंग में 9 करोड़ के हुई पार](https://www.abplive.com/entertainment/bollywood/drishyam-3-advance-booking-day-1-live-updates-ajay-devgn-film-pre-ticket-sale-collection-net-in-india-3195116)
+- [லண்டனில் நடந்த உலகின் மிக முக்கிய ஏலம்: ரூ.400 கோடிக்கும் அதிகமான விலைக்கு விற்ற 4 Rolex கடிகாரங்கள்](https://tamil.newsbytesapp.com/news/business/rolex-four-seasons-daytona-charity-auction-london-49-million/story)
+- [मुंबईतील अँटिलिया स्फोटकप्रकरणात तब्बल साडे पाच वर्षानंतर सचिन वाझेला जामीन; पण, तुरुंगातून सुटकेची शक्यता कमीच](https://marathi.abplive.com/crime/sachin-vaze-granted-bail-in-the-mumbai-antilia-explosives-case-after-a-staggering-five-and-a-half-years-mansukh-hiren-case-1440650)
+- [શેરબજાર અને સોના-ચાંદી ધરાશાયી, FD પણ નકામી… હવે તમારા પૈસા ક્યાં સુરક્ષિત રહેશે? જાણો એક્સપર્ટ્સનો અભિપ્રાય](https://tv9gujarati.com/photo-gallery/gold-stock-market-and-fd-returns-under-pressure-where-should-investors-invest-their-money-now-1523936.html)
+- [Gyanesh Kumar: ‘SIR বেআইনি, নতুন করে ব্যালটে ভোট হোক’, বলছেন মোদি সরকারের প্রাক্তন মন্ত্রী, সমালোচনা সুপ্রিম কোর্টেরও](https://bengali.abplive.com/news/sir-was-illegal-says-former-union-minister-home-secretary-rk-singh-demands-case-against-gyanesh-kumar-questions-supreme-court-1194562)
+- [భారత్ సమస్యను అమెరికా అర్థం చేసుకోవాలి: విదేశాంగ మంత్రి..](https://www.andhrajyothy.com/2026/national/s-jaishankar-on-indiaus-ties-terrorism-concerns-draw-red-line-sgr-1562551.html)
+- [Private hospitals functioning like industries, not service providers: Supreme Court](https://www.barandbench.com/news/private-hospitals-functioning-like-industries-not-service-providers-supreme-court)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._

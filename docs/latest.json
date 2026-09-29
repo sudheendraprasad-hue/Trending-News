@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29 21:02:22",
+  "generated_at": "2026-09-29 21:36:21",
   "google_trends": [
     {
-      "title": "spain",
+      "title": "marc pubill",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
@@ -97,6 +97,18 @@
     ],
     "NDTV": [
       {
+        "title": "5 New Sites Added To India's UNESCO Tentative List For World Heritage",
+        "link": "https://www.ndtv.com/india-news/5-new-sites-added-to-indias-unesco-tentative-list-for-world-heritage-12117131#publisher=newsstand"
+      },
+      {
+        "title": "Trump, Tech Executives Sign \"Morally Binding\" AI Document",
+        "link": "https://www.ndtv.com/world-news/donald-trump-tech-executives-sign-morally-binding-ai-document-12117085#publisher=newsstand"
+      },
+      {
+        "title": "US Supreme Court Allows Trump's 3rd-Country Deportations",
+        "link": "https://www.ndtv.com/world-news/us-supreme-court-allows-trumps-3rd-country-deportations-12117032#publisher=newsstand"
+      },
+      {
         "title": "Local Shiv Sena (UBT) Leader Dies In Thane After Firing By Unidentified Men",
         "link": "https://www.ndtv.com/india-news/local-shiv-sena-ubt-leader-pradeep-purnekar-dies-in-thane-after-firing-by-unidentified-men-12117002#publisher=newsstand"
       },
@@ -123,18 +135,6 @@
       {
         "title": "High Court Setback For Arvind Kejriwal In PM Modi Degree Case",
         "link": "https://www.ndtv.com/india-news/high-court-setback-for-arvind-kejriwal-in-pm-modi-degree-case-12116915#publisher=newsstand"
-      },
-      {
-        "title": "Bhagat Singh To Punjab's Water: AAP Widens Its Political Campaign",
-        "link": "https://www.ndtv.com/india-news/bhagat-singh-to-punjabs-water-aap-widens-its-political-campaign-12116891#publisher=newsstand"
-      },
-      {
-        "title": "Attend, Don't Just Write Articles: Mallikarjun Kharge's Lighthearted Dig At Shashi Tharoor",
-        "link": "https://www.ndtv.com/india-news/attend-dont-just-write-articles-mallikarjun-kharges-lighthearted-dig-at-shashi-tharoor-12116706#publisher=newsstand"
-      },
-      {
-        "title": "YouTuber Savukku Shankar Gets 3 Years' Jail In 2013 Defamation, Threat Case",
-        "link": "https://www.ndtv.com/india-news/youtuber-savukku-shankar-gets-3-years-jail-in-2013-defamation-threat-case-12116860#publisher=newsstand"
       }
     ],
     "Hindustan Times": [
@@ -524,12 +524,12 @@
       "score": 5.2
     },
     {
-      "term": "Kashmir",
-      "score": 3.9
+      "term": "Trump",
+      "score": 4.2
     },
     {
-      "term": "Trump",
-      "score": 2.9
+      "term": "Kashmir",
+      "score": 3.9
     },
     {
       "term": "Delhi",
@@ -583,44 +583,44 @@
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u2018If he thinks about 100 centuries\u2019: Ajinkya Rahane reveals if Virat Kohli can reach the milestone",
-      "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/if-he-thinks-about-100-centuries-ajinkya-rahane-reveals-if-virat-kohli-can-reach-the-milestone/articleshow/134561429.cms"
+      "title": "Assam Rifles Jawan Killed In Action After Patrol Team Attacked In Arunachal",
+      "link": "https://www.ndtv.com/india-news/assam-rifles-jawan-killed-in-action-after-patrol-team-attacked-in-arunachal-12113937"
     },
     {
-      "title": "Ekam Bawa On Rhiti Tiwari : \u092e\u0940 \u0905\u091c\u0942\u0928\u0939\u0940 \u0924\u0941\u091d\u093e \u0915\u093e\u092f\u0926\u0947\u0936\u0940\u0930 \u092c\u093e\u092a! MS Dhoni \u0938\u093f\u0928\u0947\u092e\u093e\u091a\u093e \u092a\u0948\u0938\u093e \u0917\u0947\u0932\u093e \u0915\u0941\u0920\u0947 \u0938\u093e\u0902\u0917? \u092c\u093f\u0917 \u092c\u0949\u0938 \u092b\u0947\u092e \u0930\u093f\u0924\u0940 \u0924\u093f\u0935\u093e\u0930\u0940\u0935\u0930 \u0938\u093e\u0935\u0924\u094d\u0930 \u0935\u0921\u093f\u0932\u093e\u0902\u091a\u0947 \u0906\u0930\u094b\u092a",
-      "link": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/singer-ekam-bawa-posted-allegations-video-on-bigg-boss-20-contestant-rhiti-tiwari/articleshow/134561078.cms"
+      "title": "\u092f\u093e \u0905\u092d\u093f\u0928\u0947\u0924\u094d\u0930\u0940\u0935\u0930 \u0915\u094d\u0930\u093f\u0915\u0947\u091f\u0930\u094d\u0938\u0939\u0940 \u092b\u093f\u0926\u093e, \u0935\u0940\u0930\u0947\u0902\u0926\u094d\u0930 \u0938\u0947\u0939\u0935\u093e\u0917\u0928\u0947 \u0917\u0941\u092a\u093f\u0924 \u0915\u0947\u0932\u0902 \u0909\u0918\u0921; \u0915\u094b\u0923 \u0906\u0939\u0947 \u0924\u0940?",
+      "link": "https://www.tv9marathi.com/entertainment/who-is-sara-gurpal-rise-and-fall-punjabi-singer-actress-received-message-from-indian-cricketers-1767309.html"
     },
     {
-      "title": "\u0936\u094d\u0930\u0940 \u091a\u0930\u0923\u0940 \u0928\u0947 ICC T20I \u0930\u0948\u0902\u0915\u093f\u0902\u0917 \u092e\u0947\u0902 \u092a\u0932\u091f\u093e \u0907\u0924\u093f\u0939\u093e\u0938, \u0938\u092c\u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u0930\u0947\u091f\u093f\u0902\u0917 \u0939\u093e\u0938\u093f\u0932 \u0915\u0940; \u0938\u094d\u092e\u0943\u0924\u093f \u092e\u0902\u0927\u093e\u0928\u093e \u0915\u0940 \u091f\u0949\u092a 5 \u092e\u0947\u0902 \u090f\u0902\u091f\u094d\u0930\u0940",
-      "link": "https://www.livehindustan.com/cricket/sri-charani-makes-history-in-icc-womens-t20i-rankings-after-achieving-817-rating-points-smriti-mandhana-enters-top-5-201790670560444.html"
+      "title": "\u0d2e\u0d24\u0d4d\u0d38\u0d30\u0d02 \u0d1c\u0d2a\u0d4d\u0d2a\u0d3e\u0d28\u0d3f\u0d7d, \u0d06\u0d35\u0d47\u0d36\u0d02 \u0d2f\u0d3e\u0d15\u0d4d\u0d15\u0d30\u0d2f\u0d3f\u0d7d, \u0d36\u0d4d\u0d30\u0d40\u0d36\u0d19\u0d4d\u0d15\u0d31\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d2e\u0d24\u0d4d\u0d38\u0d30\u0d02 \u0d24\u0d24\u0d4d\u0d38\u0d2e\u0d2f\u0d02 \u0d15\u0d23\u0d4d\u0d1f\u0d4d \u0d15\u0d41\u0d1f\u0d41\u0d02\u0d2c\u0d35\u0d41\u0d02 \u0d28\u0d3e\u0d1f\u0d4d\u0d1f\u0d41\u0d15\u0d3e\u0d30\u0d41\u0d02",
+      "link": "https://www.manoramaonline.com/sports/other-sports/2026/09/29/sreeshankar-asian-games-silver.html"
     },
     {
-      "title": "\u0aae\u0ab9\u0abf\u0ab2\u0abe\u0a93\u0aa8\u0ac7 \u0a9c \u0aa8\u0ab9\u0ac0\u0a82\u2026 \u0aaa\u0ac1\u0ab0\u0ac1\u0ab7\u0acb\u0aa8\u0ac7 \u0aaa\u0aa3 \u0aa5\u0abe\u0aaf \u0a9b\u0ac7 \u2018\u0aac\u0acd\u0ab0\u0ac7\u0ab8\u0acd\u0a9f \u0a95\u0ac7\u0aa8\u0acd\u0ab8\u0ab0\u2019, \u0a86 \u0ab2\u0a95\u0acd\u0ab7\u0aa3\u0acb\u0aa8\u0ac7 \u0aad\u0ac2\u0ab2\u0aa5\u0ac0 \u0aaa\u0aa3 \u0aa8 \u0a95\u0ab0\u0acb \u2018\u0aa8\u0a9c\u0ab0\u0a85\u0a82\u0aa6\u0abe\u0a9c\u2019",
-      "link": "https://tv9gujarati.com/photo-gallery/male-breast-cancer-health-tips-know-the-early-symptoms-and-warning-signs-men-should-not-ignore-1523891.html"
+      "title": "Drishyam 3 Advance Booking Day 1 Live: \u0930\u093f\u0932\u0940\u091c \u0938\u0947 \u092a\u0939\u0932\u0947 \u2018\u0926\u0943\u0936\u094d\u092f\u092e 3' \u0915\u093e \u092d\u094c\u0915\u093e\u0932, \u090f\u0921\u0935\u093e\u0902\u0938 \u092c\u0941\u0915\u093f\u0902\u0917 \u092e\u0947\u0902 9 \u0915\u0930\u094b\u0921\u093c \u0915\u0947 \u0939\u0941\u0908 \u092a\u093e\u0930",
+      "link": "https://www.abplive.com/entertainment/bollywood/drishyam-3-advance-booking-day-1-live-updates-ajay-devgn-film-pre-ticket-sale-collection-net-in-india-3195116"
     },
     {
-      "title": "Smartwatch AI Reaches 91% Accuracy in Heart Rhythm Study, With Important Trade-Offs",
-      "link": "https://www.devdiscourse.com/article/health/3983093-smartwatch-ai-reaches-91-accuracy-in-heart-rhythm-study-with-important-trade-offs"
+      "title": "\u0bb2\u0ba3\u0bcd\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4 \u0b89\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0bae\u0bbf\u0b95 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b8f\u0bb2\u0bae\u0bcd: \u0bb0\u0bc2.400 \u0b95\u0bcb\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0bb1 4 Rolex \u0b95\u0b9f\u0bbf\u0b95\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+      "link": "https://tamil.newsbytesapp.com/news/business/rolex-four-seasons-daytona-charity-auction-london-49-million/story"
     },
     {
-      "title": "Assam Rifles jawan killed, four injured in suspected militant attack along Myanmar border in Arunachal Pradesh",
-      "link": "https://timesofindia.indiatimes.com/india/assam-rifles-jawan-killed-four-injured-in-suspected-militant-attack-along-myanmar-border-in-arunachal-pradesh/articleshow/134561299.cms"
+      "title": "\u092e\u0941\u0902\u092c\u0908\u0924\u0940\u0932 \u0905\u0901\u091f\u093f\u0932\u093f\u092f\u093e \u0938\u094d\u092b\u094b\u091f\u0915\u092a\u094d\u0930\u0915\u0930\u0923\u093e\u0924 \u0924\u092c\u094d\u092c\u0932 \u0938\u093e\u0921\u0947 \u092a\u093e\u091a \u0935\u0930\u094d\u0937\u093e\u0928\u0902\u0924\u0930 \u0938\u091a\u093f\u0928 \u0935\u093e\u091d\u0947\u0932\u093e \u091c\u093e\u092e\u0940\u0928; \u092a\u0923, \u0924\u0941\u0930\u0941\u0902\u0917\u093e\u0924\u0942\u0928 \u0938\u0941\u091f\u0915\u0947\u091a\u0940 \u0936\u0915\u094d\u092f\u0924\u093e \u0915\u092e\u0940\u091a",
+      "link": "https://marathi.abplive.com/crime/sachin-vaze-granted-bail-in-the-mumbai-antilia-explosives-case-after-a-staggering-five-and-a-half-years-mansukh-hiren-case-1440650"
     },
     {
-      "title": "Can technology help reduce premature cardiac deaths?",
-      "link": "https://www.hindustantimes.com/ht-insight/public-health/can-technology-help-reduce-premature-cardiac-deaths-101790671638155.html"
+      "title": "\u0ab6\u0ac7\u0ab0\u0aac\u0a9c\u0abe\u0ab0 \u0a85\u0aa8\u0ac7 \u0ab8\u0acb\u0aa8\u0abe-\u0a9a\u0abe\u0a82\u0aa6\u0ac0 \u0aa7\u0ab0\u0abe\u0ab6\u0abe\u0aaf\u0ac0, FD \u0aaa\u0aa3 \u0aa8\u0a95\u0abe\u0aae\u0ac0\u2026 \u0ab9\u0ab5\u0ac7 \u0aa4\u0aae\u0abe\u0ab0\u0abe \u0aaa\u0ac8\u0ab8\u0abe \u0a95\u0acd\u0aaf\u0abe\u0a82 \u0ab8\u0ac1\u0ab0\u0a95\u0acd\u0ab7\u0abf\u0aa4 \u0ab0\u0ab9\u0ac7\u0ab6\u0ac7? \u0a9c\u0abe\u0aa3\u0acb \u0a8f\u0a95\u0acd\u0ab8\u0aaa\u0ab0\u0acd\u0a9f\u0acd\u0ab8\u0aa8\u0acb \u0a85\u0aad\u0abf\u0aaa\u0acd\u0ab0\u0abe\u0aaf",
+      "link": "https://tv9gujarati.com/photo-gallery/gold-stock-market-and-fd-returns-under-pressure-where-should-investors-invest-their-money-now-1523936.html"
     },
     {
-      "title": "'\u0b85\u0bb5\u0bb0\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bb2\u0bcd 2027 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bcb\u0b95\u0bb5\u0bc7 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1': \u0baa\u0bbf\u0b9a\u0bbf\u0b9a\u0bbf\u0b90 \u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb8\u0bcd\u0bb5\u0bbf\u0ba9\u0bcd \u0b93\u0baa\u0ba9\u0bcd \u0bae\u0bc6\u0b9a\u0bc7\u0b9c\u0bcd",
-      "link": "https://tamil.newsbytesapp.com/news/sports/r-ashwin-backs-kuldeep-yadav-for-2027-odi-world-cup-cannot-go-to-south-africa-without-him/story"
+      "title": "Gyanesh Kumar: \u2018SIR \u09ac\u09c7\u0986\u0987\u09a8\u09bf, \u09a8\u09a4\u09c1\u09a8 \u0995\u09b0\u09c7 \u09ac\u09cd\u09af\u09be\u09b2\u099f\u09c7 \u09ad\u09cb\u099f \u09b9\u09cb\u0995\u2019, \u09ac\u09b2\u099b\u09c7\u09a8 \u09ae\u09cb\u09a6\u09bf \u09b8\u09b0\u0995\u09be\u09b0\u09c7\u09b0 \u09aa\u09cd\u09b0\u09be\u0995\u09cd\u09a4\u09a8 \u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0, \u09b8\u09ae\u09be\u09b2\u09cb\u099a\u09a8\u09be \u09b8\u09c1\u09aa\u09cd\u09b0\u09bf\u09ae \u0995\u09cb\u09b0\u09cd\u099f\u09c7\u09b0\u0993",
+      "link": "https://bengali.abplive.com/news/sir-was-illegal-says-former-union-minister-home-secretary-rk-singh-demands-case-against-gyanesh-kumar-questions-supreme-court-1194562"
     },
     {
-      "title": "'Hanuman Ansh' box office collection Day 54 [LIVE]: Vishal Chaturvedi and Shobhinaw Satyaa's spiritual biopic on Neem Kaorli Baba biopic sustains eight week run, crosses Rs 310 crore India net mark",
-      "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-54-live-vishal-chaturvedi-and-shobhinaw-satyaas-spiritual-biopic-on-neem-kaorli-baba-sustains-eight-week-run-eyes-rs-315-crore-india-net-mark-after-tapping-the-rs-400-crore-worldwide-gross-milestone/articleshow/134561090.cms"
+      "title": "\u0c2d\u0c3e\u0c30\u0c24\u0c4d \u0c38\u0c2e\u0c38\u0c4d\u0c2f\u0c28\u0c41 \u0c05\u0c2e\u0c46\u0c30\u0c3f\u0c15\u0c3e \u0c05\u0c30\u0c4d\u0c25\u0c02 \u0c1a\u0c47\u0c38\u0c41\u0c15\u0c4b\u0c35\u0c3e\u0c32\u0c3f: \u0c35\u0c3f\u0c26\u0c47\u0c36\u0c3e\u0c02\u0c17 \u0c2e\u0c02\u0c24\u0c4d\u0c30\u0c3f..",
+      "link": "https://www.andhrajyothy.com/2026/national/s-jaishankar-on-indiaus-ties-terrorism-concerns-draw-red-line-sgr-1562551.html"
     },
     {
-      "title": "\u0995\u09cb\u09b9\u09b2\u09bf \u09a8\u09bf\u099c\u09c7\u0995\u09c7 \u09ac\u09be\u0987\u09b0\u09c7 \u09b0\u09c7\u0996\u09c7 \u09ac\u09be\u09a8\u09be\u09b2\u09c7\u09a8 \u0993\u09df\u09be\u09a8\u09a1\u09c7\u09b0 \u2018\u09b8\u09c7\u09b0\u09be\u2019 \u09ac\u09cd\u09af\u09be\u099f\u09b8\u09ae\u09cd\u09af\u09be\u09a8",
-      "link": "https://www.prothomalo.com/sports/cricket/e7pnbiuqsi"
+      "title": "Private hospitals functioning like industries, not service providers: Supreme Court",
+      "link": "https://www.barandbench.com/news/private-hospitals-functioning-like-industries-not-service-providers-supreme-court"
     }
   ],
   "twitter": null
