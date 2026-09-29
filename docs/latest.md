@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-29 19:37:02
+# India Trending Report — 2026-09-29 20:03:24
 
 ## Google Trends (India) — top trending searches
-1. [spain](https://trends.google.com/trending/rss?geo=IN)
-2. [somalia vs côte d'ivoire](https://trends.google.com/trending/rss?geo=IN)
-3. [scotland vs switzerland](https://trends.google.com/trending/rss?geo=IN)
-4. [spain vs croatia](https://trends.google.com/trending/rss?geo=IN)
-5. [czechia vs england](https://trends.google.com/trending/rss?geo=IN)
-6. [saudi arabia vs iraq](https://trends.google.com/trending/rss?geo=IN)
-7. [moneyview ipo allotment status](https://trends.google.com/trending/rss?geo=IN)
-8. [divya mittal ias](https://trends.google.com/trending/rss?geo=IN)
-9. [ఫహాద్ ఫాజిల్](https://trends.google.com/trending/rss?geo=IN)
-10. [मुम्बई](https://trends.google.com/trending/rss?geo=IN)
+1. [lamine yamal](https://trends.google.com/trending/rss?geo=IN)
+2. [spain](https://trends.google.com/trending/rss?geo=IN)
+3. [somalia vs côte d'ivoire](https://trends.google.com/trending/rss?geo=IN)
+4. [scotland vs switzerland](https://trends.google.com/trending/rss?geo=IN)
+5. [spain vs croatia](https://trends.google.com/trending/rss?geo=IN)
+6. [czechia vs england](https://trends.google.com/trending/rss?geo=IN)
+7. [saudi arabia vs iraq](https://trends.google.com/trending/rss?geo=IN)
+8. [moneyview ipo allotment status](https://trends.google.com/trending/rss?geo=IN)
+9. [divya mittal ias](https://trends.google.com/trending/rss?geo=IN)
+10. [ఫహాద్ ఫాజిల్](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [INDIA bloc meet: Opposition to sharpen EC, BJP attack - what's on agenda](https://timesofindia.indiatimes.com/india/india-bloc-meet-united-opposition-to-step-up-attack-on-ec-bjp-whats-on-agenda/articleshow/134571011.cms)
+- [At CWC, Rahul credits Cong for EC 'revelations', gives 'oppose & resist' message](https://timesofindia.indiatimes.com/india/sir-row-at-cwc-meet-rahul-gandhi-credits-congress-for-ec-revelations-gives-oppose-and-resist-message/articleshow/134570199.cms)
 - [Budgam encounter: Army kills LeT terrorist in fierce gunfight in Yousmarg](https://timesofindia.indiatimes.com/india/budgam-encounter-army-kills-let-terrorist-in-fierce-gunfight-in-yousmarg/articleshow/134573357.cms)
 - [Mehul Choksi drops damages claim against government, Hungarian woman in London HC](https://timesofindia.indiatimes.com/world/uk/mehul-choksi-drops-damages-claim-in-london-hc-against-goi-hungarian-woman-he-accused-of-kidnapping-him/articleshow/134572978.cms)
 - [Trade irony amid Trump threat: Why Russia is buying its own oil as fuel from India](https://timesofindia.indiatimes.com/business/india-business/trade-irony-amid-trump-threat-why-russia-is-buying-its-own-oil-as-fuel-from-india/articleshow/134563758.cms)
 - [Delhi bus gang rape: Charge sheet mentions semen, hair strands as key evidence](https://timesofindia.indiatimes.com/city/delhi/delhi-bus-gang-rape-398-page-charge-sheet-mentions-semen-hair-strands-as-key-evidence-against-2/articleshow/134571479.cms)
 - [Mark Zuckerberg, Priscilla Chan donate $4 million to save 600-year-old Hawaii fishpond](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-and-priscilla-chan-donated-4-million-to-save-a-600-year-old-hawaii-fishpond-they-wont-own-the-land-nonprofit-that-now-owns-says-we-plan-to-restore-it-as-a-working-/articleshow/134556953.cms)
-- [CISF jawan kills 4 colleagues at Kathua hydel plant](https://timesofindia.indiatimes.com/india/cisf-jawan-kills-4-colleagues-at-kathua-hydel-plant/articleshow/134572873.cms)
+- [INDIA bloc meet: Opposition to sharpen EC, BJP attack - what's on agenda](https://timesofindia.indiatimes.com/india/india-bloc-meet-united-opposition-to-step-up-attack-on-ec-bjp-whats-on-agenda/articleshow/134571011.cms)
 - [Nevada volunteers remove 120,125 pounds of waste from Truckee River watershed](https://timesofindia.indiatimes.com/world/us/more-than-575-nevada-volunteers-worked-across-26-truckee-river-watershed-sites-and-removed-120125-pounds-of-waste-in-one-day-including-2500-pounds-pulled-directly-from-the-river-and-64320-pounds-of-invasive-weeds/articleshow/134562743.cms)
+- [CISF jawan kills 4 colleagues at Kathua hydel plant](https://timesofindia.indiatimes.com/india/cisf-jawan-kills-4-colleagues-at-kathua-hydel-plant/articleshow/134572873.cms)
 - [Fort Kochi’s 300-year-old Koder House completely gutted in fire](https://timesofindia.indiatimes.com/city/kochi/fort-kochis-300-year-old-koder-house-completely-gutted-in-fire/articleshow/134569621.cms)
-- [With eye on New Zealand tour, BCCI to issue Ranji Trophy diktat](https://timesofindia.indiatimes.com/sports/cricket/news/with-eye-on-new-zealand-tour-bcci-to-issue-ranji-trophy-diktat/articleshow/134571677.cms)
 
 **NDTV**
 - [Local Shiv Sena (UBT) Leader Dies In Thane After Firing By Unidentified Men](https://www.ndtv.com/india-news/local-shiv-sena-ubt-leader-pradeep-purnekar-dies-in-thane-after-firing-by-unidentified-men-12117002#publisher=newsstand)
@@ -62,16 +62,16 @@
 - [`ನಮ್ಮ ಹಣೆಬರಹವೇ ಇಷ್ಟು': ಏಷ್ಯನ್ ಗೇಮ್ಸ್‌ನಿಂದ ಹೊರಬಿದ್ದಿದ್ದಕ್ಕೆ ಮಲೇಷ್ಯಾ ಕ್ರಿಕೆಟಿಗನ ಭಾವುಕ ಎಕ್ಸ್ ಪೋಸ್ಟ್!](https://vijaykarnataka.com/sports/cricket/news/malaysian-cricketers-emotional-x-post-over-exclusion-from-asian-games-goes-viral-/articleshow/134570696.cms)
 
 **The Hindu**
+- [Rajasthan HC cancels FIR against Independent MLA arrested during local body polls](https://www.thehindu.com/news/national/other-states/rajasthan-hc-cancels-fir-against-independent-mla-arrested-during-local-body-polls/article71524919.ece)
+- [Highly educated professionals are vulnerable to financial cybercrime, finds IIT-Madras study](https://www.thehindu.com/news/national/tamil-nadu/highly-educated-professionals-are-vulnerable-to-financial-cybercrime-finds-iit-madras-study/article71524692.ece)
+- [Terrorist killed in ongoing operation in Kashmir’s Budgam](https://www.thehindu.com/news/national/jammu-and-kashmir/terrorist-killed-in-ongoing-operation-in-kashmirs-budgam/article71525620.ece)
+- [Temple burgled near Katpadi](https://www.thehindu.com/news/national/tamil-nadu/temple-burgled-near-katpadi/article71524166.ece)
+- [BLAs in Delhi bypassed EC’s 10-form daily limit using poll panel’s own portal, data show](https://www.thehindu.com/news/cities/Delhi/party-appointed-blas-bypass-eci-cap-for-10-applications-a-day-through-its-own-portal-for-deletions/article71524945.ece)
+- [Democracy without choice: how unopposed Maharashtra rural polls silence dissent](https://www.thehindu.com/news/national/maharashtra/democracy-without-choice-how-unopposed-maharashtra-rural-polls-silence-dissent/article71524112.ece)
+- [Sahil Wakode’s parents seek police protection, allege threat to life and probe](https://www.thehindu.com/news/national/maharashtra/sahil-wakodes-parents-seek-police-protection-allege-threat-to-life-and-probe/article71525165.ece)
+- [CMC organises events to mark World Heart Day](https://www.thehindu.com/news/national/tamil-nadu/cmc-organises-events-to-mark-world-heart-day/article71524159.ece)
 - [Mammoth protest at Kittur Chennamma Circle by Sugarcane farmers; Farmers agree for talk at Delhi with Joshi after intervention by MLAs Tenginakai, Patil](https://www.thehindu.com/news/national/karnataka/mammoth-protest-at-kittur-chennamma-circle-by-sugarcane-farmers-farmers-agree-for-talk-at-delhi-with-joshi-after-intervention-by-mlas-tenginakai-patil/article71524508.ece)
 - [Of those deleted in SIR so far, over 71% in ‘absent, shifted or others’ category](https://www.thehindu.com/news/national/of-those-deleted-in-sir-so-far-over-71-in-absent-shifted-or-others-category/article71524969.ece)
-- [Tamil scholar Pudhumanar and A.R. Venkatachalapathy honoured with awards](https://www.thehindu.com/news/national/tamil-nadu/tamil-scholar-pudhumanar-and-ar-venkatachalapathy-honoured-with-awards/article71524838.ece)
-- [EC reverts to allowing Form 6 submission without attached declaration in non-SIR States](https://www.thehindu.com/news/national/ec-reverts-to-allowing-form-6-submission-without-attached-declaration-in-non-sir-states/article71525571.ece)
-- [Ministers Aadhav Arjuna, C.T.R. Nirmal Kumar urge Madras High Court to dismiss DMK’s defamation case](https://www.thehindu.com/news/national/tamil-nadu/ministers-aadhav-arjuna-ctr-nirmal-kumar-urge-madras-high-court-to-dismiss-dmks-defamation-case/article71525136.ece)
-- [Nagenthran urges Madurantakam electorate to think about horse trading and then vote](https://www.thehindu.com/news/national/tamil-nadu/nagenthran-urges-madurantakam-electorate-to-think-about-horse-trading-and-then-vote/article71525160.ece)
-- [T.N. government proposes memorial for 5 icons on University Union Grounds at Chepet in Chennai, sports teachers object](https://www.thehindu.com/news/national/tamil-nadu/tn-government-proposes-memorial-for-5-icons-on-university-union-grounds-at-chepet-in-chennai-sports-teachers-object/article71525294.ece)
-- [Major fire engulfs Fort Kochi’s historic Koder House](https://www.thehindu.com/news/cities/Kochi/major-fire-breaks-out-at-fort-kochis-iconic-koder-house/article71524915.ece)
-- [Local Sena (UBT) leader dies in Thane after firing by unidentified assailants](https://www.thehindu.com/news/national/maharashtra/local-sena-ubt-leader-dies-in-thane-after-firing-by-unidentified-assailants/article71525600.ece)
-- [Surveillance is not the only privacy issue](https://www.thehindu.com/opinion/op-ed/surveillance-is-not-the-only-privacy-issue/article71525462.ece)
 
 **Livemint**
 - [Kathua shooting: CISF Head Constable kills 4 colleagues in Jammu and Kashmir](https://www.livemint.com/news/india/kathua-shooting-cisf-head-constable-kills-4-colleagues-in-jammu-and-kashmir-11790703879092.html)
@@ -126,6 +126,8 @@
 - [ಜಮ್ಮು ಕಾಶ್ಮೀರದ ಕಥುವಾದಲ್ಲಿ ಸಹೋದ್ಯೋಗಿಯಿಂದಲೇ ಗುಂಡಿನ ದಾಳಿ; ನಾಲ್ವರು ಸಿಐಎಸ್‌ಎಫ್ ಸಿಬ್ಬಂದಿ ದಾರುಣ ಸಾವು](https://tv9kannada.com/national/4-cisf-personnel-killed-after-colleague-opens-fire-at-camp-in-jammu-and-kashmirs-kathua-1244307.html)
 
 **Prajavani**
+- [ಟ್ರ್ಯಾಕ್‌ನಲ್ಲಿ ಚಿನ್ನದ ಹೊನಲು: ವನಿತೆಯರ 4X400 ಮೀ ರಿಲೆಯಲ್ಲಿ ಮಿಂಚಿದ ಭಾರತ](https://www.prajavani.net/sports/other-sports/indian-women-relay-team-wins-gold-asian-games-4296739)
+- [Asian Games athletics: ಗುಲ್ವೀರ್ ಸಿಂಗ್ ಪದಕ ‘ಹ್ಯಾಟ್ರಿಕ್’](https://www.prajavani.net/sports/other-sports/gulveer-singh-medal-hattrick-asian-games-athletics-4296866)
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್‌ ಬಾಕ್ಸಿಂಗ್‌: ಫೈನಲ್‌ಗೆ ಅಂಕುಶ್‌, ಪರ್ವೀನ್ ಹೂಡಾ](https://www.prajavani.net/sports/other-sports/ankush-panghal-parveen-hooda-reach-asian-games-boxing-finals-4295879)
 - [ಬೆಳಗಾವಿ, ಹುಬ್ಬಳ್ಳಿಗೆ ‘ಜಾಗತಿಕ ತಂತ್ರಜ್ಞಾನ ಕೇಂದ್ರ: ರಾಜ್ಯ ಸರ್ಕಾರ ಅನುಮೋದನೆ](https://www.prajavani.net/news/karnataka-news/karnataka-government-approves-global-technology-centers-in-hubballi-and-belagavi-4296719)
 - [ಬ್ಯಾಡಗಿ ಮೆಣಸಿನಕಾಯಿ ದರ ಏರಿಕೆ: ಪ್ರತಿ ಕ್ವಿಂಟಲ್‌ಗೆ ₹77 ಸಾವಿರ](https://www.prajavani.net/district/haveri/byadagi-chilli-price-hike-haveri-market-4296630)
@@ -134,8 +136,6 @@
 - [ಮ್ಯಾನ್ಮಾರ್ ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಸ್ಫೋಟ: 49 ಮಂದಿ ಸಾವು](https://www.prajavani.net/news/world-news/myanmar-market-air-strike-casualties-4296568)
 - [ಹಮಾಸ್‌ ದಾಳಿ: ಇಸ್ರೇಲ್‌ಗೆ ಮೊದಲೇ ಎಚ್ಚರಿಕೆ ನೀಡಿದ್ದ ಯುಎಇ, ಈಜಿಪ್ಟ್‌](https://www.prajavani.net/news/world-news/israel-netanyahu-uae-hamas-attack-warning-reports-4296604)
 - [ಬಂಕ್‌ಗಳಲ್ಲಿ ಹೆಚ್ಚಿದ ಬೇಡಿಕೆ: ನಯಾರಾ, ಜಿಯೊದಲ್ಲಿ ಡೀಸೆಲ್‌ ಮಾರಾಟ ಮಿತಿ](https://www.prajavani.net/business/commerce-news/nayara-jio-bp-diesel-sales-limit-india-4296612)
-- [ಎಇಇ ಪರ್ವೇಜ್ ಪತ್ತೆಗೆ ಕ್ರಮ ಕೈಗೊಳ್ಳಲಾಗಿದೆ: ಸಚಿವ ಈಶ್ವರ ಖಂಡ್ರೆ](https://www.prajavani.net/news/karnataka-news/minister-eshwar-khandre-missing-kridl-engineer-search-4296685)
-- [ಕೇರಳಂ: ಸ್ಥಳೀಯ ಚುನಾವಣೆಯಲ್ಲಿ ಆಡಳಿತರೂಢ ಯುಡಿಎಫ್‌ಗೆ ಹಿನ್ನಡೆ](https://www.prajavani.net/news/india-news/kerala-local-body-bypoll-results-ldf-wins-udf-setback-4296796)
 
 **eedina**
 - [‘ಮುಖ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತರು ಕೂಡಲೇ ರಾಜೀನಾಮೆ ನೀಡಬೇಕು’ : ಸುರೇಶ್ ಶೆಟ್ಟಿ ಬನ್ನಂಜೆ](https://eedina.com/?p=767797)
@@ -150,35 +150,35 @@
 - [ಕರಾವಳಿಯಲ್ಲಿ ಹೈಕೋರ್ಟ್‌ ಪೀಠ ಸ್ಥಾಪನೆ: ಪರಿಶೀಲನೆಗೆ ಸಮಿತಿ ರಚನೆ](https://eedina.com/?p=767751)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Delhi (4.2)
 - India (3.9)
+- Kashmir (3.9)
 - Trump (2.9)
-- Delhi (2.9)
 - Kathua (2.9)
 - CISF (2.9)
+- Budgam (2.6)
 - Keralam (2.6)
 - Assam (2.6)
-- Kashmir (2.6)
-- Fort Kochi (2.0)
-- Koder House (2.0)
 - INDIA (1.6)
-- Thane (1.6)
 - Mumbai (1.6)
-- Opposition (1.3)
-- Budgam (1.3)
+- Rahul (1.3)
+- Cong (1.3)
+- Army (1.3)
+- Yousmarg (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ज्ञानेश कुमार का इस्तीफा, और... SIR विवाद के बीच CWC मीटिंग में खड़गे ने रखी पांच डिमांड](https://www.aajtak.in/india/news/story/mallikarjun-kharge-alleges-election-commission-modi-government-democracy-threat-ntcpvp-rptc-2656190-2026-09-29)
-- [ஆவேச கங்கை அமரன், ஆசுவாச வெங்கட் பிரபு, விசுவாச சிவகார்த்திகேயன் !](https://www.andhimazhai.com/cinema/cinema-news/aavesa-gangai-amaran-aasuvaasa-vengat-prabhu-visuvaasa-sivakarthikeyan-29092026)
-- [PM मोदी ने ज्ञानेश कुमार पर दबाव डाला, नैतिकता के आधार पर इस्तीफा दें; खरगे बोले-कांग्रेस सड़क से संसद तक लड़ेगी](https://navbharattimes.indiatimes.com/india/congress-president-mallikarjun-kharge-swipe-at-the-chief-election-commissioner-gyanesh-kumar-calling-him-a-puppet/articleshow/134559116.cms)
-- [Durnibar- Nirnajan Mondal: "পাল্টিবাজ, চোখের জলের টোপ ফেলে লোককে নিজের দলে টানে", দুর্নিবার-নিরঞ্জনের বিরাট ঝামেলায় জমে উঠল বিগ বস](https://bengali.news18.com/photogallery/entertainment/bigg-boss-bangla-laughtersen-niranjan-mondal-durnibar-fight-over-srijla-pbd-2911148.html)
-- [Can India still secure a tariff edge over rivals as Russia sanctions add uncertainty?](https://www.moneycontrol.com/news/business/economy/goyal-greer-meet-can-india-still-secure-a-tariff-edge-over-rivals-as-russia-sanctions-add-uncertainty-14040812.html)
-- [ഹൈവേയിൽ കന്നുകാലിയെ ഇടിച്ചു, പിന്നാലെ ഡിവൈഡറിലേക്ക് പാഞ്ഞുകയറി; തകർന്ന് തരിപ്പണമായി ആഡംബര എസ്.യു.വി; അപകടത്തിൽ രണ്ടുമരണം](https://www.asianetnews.com/india-news/gujarat-highway-luxury-suv-accident-hits-bull-and-rammed-into-divider-articleshow-uxy2dm7)
-- [Tata Sons listing, leadership transition may reshape group's long-term financial strategy: S&P](https://economictimes.indiatimes.com/news/company/corporate-trends/tata-leadership-transition-ipo-unlikely-to-impact-ratings-sp-global-says/articleshow/134559713.cms?from=mdr)
-- [Small Saving Schemes: सुकन्‍या समृद्धि, PPF समेत छोटी बचत स्‍कीमों में बढ़ेगा ब्याज, क्या संकेत दे रही महंगाई और बॉन्ड यील्ड?](https://navbharattimes.indiatimes.com/business/business-news/interest-rates-of-small-savings-schemes-will-go-up-for-next-quarter-or-not/articleshow/134559569.cms)
-- ["He Will Rise Again": Shehzad Poonawalla's Team Reacts To Rise And Fall 2 Clash With Siwet Tomar](https://www.ndtv.com/entertainment/he-will-rise-again-shehzad-poonawallas-team-reacts-to-rise-and-fall-2-clash-with-siwet-tomar-12113367)
-- [Onkar Bhojane On Director Milind Kawde Allegations: अनप्रोफेशनल, खोटारडा म्हणत, दिग्दर्शकांनी आरोपांची राळ उठवली; आता ओंकार भोजनेचं थेट उत्तर, म्हणाला, 'पीआरचे नवे फंडे...'](https://marathi.abplive.com/entertainment/onkar-bhojane-on-director-milind-kawde-allegations-afratafri-marathi-movie-maharashtrachi-hasyajatra-1440626)
+- [सोलार पॅनेल लावले, पण त्यातून बनणारी वीज वाया जातेय?](https://www.bbc.com/marathi/articles/cmj6437dez6ro)
+- [HC On Recruitment Scam: এবার হাইকোর্ট থেকে ডিলিস্ট অর্থাৎ তালিকার বাইরেই চলে গেল নিয়োগ দুর্নীতির সিবিআই-এর মামলা! কেন?](https://tv9bangla.com/kolkata/recruitment-scam-calcutta-high-court-delists-cbi-plea-to-disband-sit-as-supreme-court-case-is-pending-1349613.html)
+- [ఓటు హక్కు కాపాడుకోవడానికి పోరాడాల్సిన పరిస్థితి వచ్చింది: మల్లికార్జున ఖర్గే](https://www.v6velugu.com/congress-president-mallikarjun-kharge-comments-on-sir-in-cwc-meeting-today)
+- [Bollywood News: বিয়ের আগেই মা হতে চেয়েছিলেন, IVF করিয়েছিলেন দু’-দু’বার, খোলসা করলেন বলিউড নায়িকা](https://bengali.abplive.com/entertainment/swara-bhasker-reveals-she-tried-ivf-twice-before-marriage-and-welcoing-daughter-1194555)
+- [Delhi HC quashes FSSAI order directing Red Bull to drop 'energy drink' label](https://timesofindia.indiatimes.com/india/delhi-hc-quashes-fssai-order-directing-red-bull-to-drop-energy-drink-label/articleshow/134560140.cms)
+- [സ്കൂൾ വിട്ടുവരുന്ന സഹോദരനെ കൂട്ടാൻ അമ്മയ്ക്കൊപ്പമെത്തി, സ്കൂൾ ബസ് കയറിയിറങ്ങി ഒന്നര വയസുകാരിക്ക് ദാരുണാന്ത്യം](https://www.asianetnews.com/india-news/toddler-dies-after-school-bus-runs-over-her-in-mysuru-karnataka-articleshow-71y1iac)
+- [Two MHA officials held for seeking illegal gratification to facilitate FCRA registration](https://www.aninews.in/news/national/politics/two-mha-officials-held-for-seeking-illegal-gratification-to-facilitate-fcra-registration20260929132416/)
+- [भारतीय शेयर बाज़ार में जारी गिरावट की चार बड़ी वजहें, कैसी होगी आगे की राह](https://www.bbc.com/hindi/articles/c5pve9nnvdwlo)
+- ['वो जिसके साथ रहे खुश रहे', सुनीता आहूजा ने गोविंदा-कोमल के लालाबागचा दर्शन पर तोड़ी चुप्पी](https://www.abplive.com/entertainment/bollywood/sunita-ahuja-breaks-her-silence-on-govinda-and-komal-rani-swarnkar-lalabaugcha-darshan-said-god-bless-him-3195264)
+- [Kharge: సీఈసీపై వ‌త్తిడి చేసిన ప్ర‌ధాని రాజీనామా చేయాలి: ఖ‌ర్గే డిమాండ్‌](https://www.ntnews.com/national/pm-should-resign-for-pressuring-cec-said-kharge-at-cwc-meet-2522903)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
