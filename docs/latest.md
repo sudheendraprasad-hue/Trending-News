@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-29 03:38:21
+# India Trending Report — 2026-09-29 04:02:18
 
 ## Google Trends (India) — top trending searches
-1. [bangladesh vs malaysia](https://trends.google.com/trending/rss?geo=IN)
-2. [நீர்](https://trends.google.com/trending/rss?geo=IN)
-3. [ಹವಾಮಾನ](https://trends.google.com/trending/rss?geo=IN)
-4. [ಸುವರ್ಣ ನ್ಯೂಸ್](https://trends.google.com/trending/rss?geo=IN)
-5. [weather bengaluru](https://trends.google.com/trending/rss?geo=IN)
-6. [हनुमान चालीसा](https://trends.google.com/trending/rss?geo=IN)
-7. [bose earbuds](https://trends.google.com/trending/rss?geo=IN)
-8. [अरविंद केजरीवाल](https://trends.google.com/trending/rss?geo=IN)
-9. [श्रीलंका बनाम नेपाल](https://trends.google.com/trending/rss?geo=IN)
-10. [टिकट](https://trends.google.com/trending/rss?geo=IN)
+1. [new national crush of india](https://trends.google.com/trending/rss?geo=IN)
+2. [bangladesh vs malaysia](https://trends.google.com/trending/rss?geo=IN)
+3. [நீர்](https://trends.google.com/trending/rss?geo=IN)
+4. [ಹವಾಮಾನ](https://trends.google.com/trending/rss?geo=IN)
+5. [ಸುವರ್ಣ ನ್ಯೂಸ್](https://trends.google.com/trending/rss?geo=IN)
+6. [weather bengaluru](https://trends.google.com/trending/rss?geo=IN)
+7. [हनुमान चालीसा](https://trends.google.com/trending/rss?geo=IN)
+8. [bose earbuds](https://trends.google.com/trending/rss?geo=IN)
+9. [अरविंद केजरीवाल](https://trends.google.com/trending/rss?geo=IN)
+10. [श्रीलंका बनाम नेपाल](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -20,10 +20,10 @@
 - [OCs issued but possession delayed as amenities not ready: Wish Town homebuyers](https://timesofindia.indiatimes.com/city/noida/ocs-issued-but-possession-delayed-as-lifts-amenities-not-ready-say-wish-town-homebuyers/articleshow/134549922.cms)
 - [Europe's biggest chip company sells nothing at home, ASML exec says](https://timesofindia.indiatimes.com/technology/tech-news/europes-biggest-chip-company-has-zero-customers-at-home-asml-executive-says-were-not-selling-anything-at-all-in-europe-thats-because-/articleshow/134553990.cms)
 - [Will Pakistan decide J&K statehood, asks CM Omar Abdullah](https://timesofindia.indiatimes.com/india/omar-abdullah-if-guns-decide-statehood-pakistan-will-decide/articleshow/134548876.cms)
+- [FBI adds Goldy Brar to its 10 most wanted list, offers $1 million reward](https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/134549606.cms)
 - [49 killed in Myanmar as junta carries airstrikes in rebel-controlled Rakhine](https://timesofindia.indiatimes.com/world/rest-of-world/49-killed-in-myanmar-as-junta-carries-out-airstrike-in-rebel-controlled-rakhine-region/articleshow/134554050.cms)
 - [Oil prices rise for second session as US-Iran conflict fuels supply concerns](https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-brent-crude-rises-for-second-session-as-us-iran-conflict-fuels-supply-concerns/articleshow/134554701.cms)
-- [In 2nd attempt to avoid listing, Noel submits Tata Sons revamp plan to RBI](https://timesofindia.indiatimes.com/business/india-business/to-avert-listing-noel-submits-tata-sons-revamp-plan-to-rbi/articleshow/134550157.cms)
-- [Ex-governor's 6,000-acre 1930 buy grew to 201,000-acre park gift by 1962](https://timesofindia.indiatimes.com/world/us/in-1930-former-maine-governor-percival-baxter-bought-nearly-6000-acres-around-mount-katahdin-32-years-later-his-final-acquisition-brought-his-gifted-parkland-to-201018-acres-now-part-of-a-209644-acre-park/articleshow/134549933.cms)
+- [Giant's Causeway removing 20kg of lucky coins to stop crumbling](https://timesofindia.indiatimes.com/science/nature/for-years-visitors-placed-coins-in-the-cracks-of-giants-causeway-for-good-luck-now-more-than-20-kilos-are-being-removed-to-protect-the-world-heritage-site-from-crumbling/articleshow/134534654.cms)
 
 **NDTV**
 - [Explained: Why Uttar Pradesh Is Seeing Heavy, Continuous Rainfall](https://www.ndtv.com/india-news/explainer-why-is-uttar-pradesh-seeing-heavy-continuous-rainfall-12108568#publisher=newsstand)
@@ -38,16 +38,16 @@
 - [Future Warfare To Pakistan Threat: 15 Big Takeaways From NDTV Defence Summit](https://www.ndtv.com/india-news/ndtv-defence-summit-china-pakistan-from-6th-gen-fighters-to-ai-15-biggest-takeaways-from-ndtv-defence-summit-12111614#publisher=newsstand)
 
 **Hindustan Times**
+- [AAP’s donations see 68% drop, CJP’s Ashutosh Ranka, firm tied to MP who joined BJP among donors](https://www.hindustantimes.com/india-news/aaps-donations-see-68-drop-cjp-s-ashutosh-ranka-firm-tied-to-mp-who-joined-bjp-among-donors-101790651614796.html)
+- [MoTA, IGNCA pact seeks to save country’s vanishing tribal heritage](https://www.hindustantimes.com/india-news/mota-ignca-pact-seeks-to-save-country-s-vanishing-tribal-heritage-101790653580987.html)
+- [Delhi high court questions FSSAI over order to Red Bull: 'Was a notice issued first?'](https://www.hindustantimes.com/india-news/delhi-high-court-questions-fssai-over-order-to-red-bull-was-a-notice-issued-first-101790652919047.html)
+- [Filed  ₹2 cr defamation suit against Subhash Garg, says Nishikant Dubey](https://www.hindustantimes.com/india-news/filed-rs-2-cr-defamation-suit-against-subhash-garg-says-nishikant-dubey-101790652682835.html)
 - [Mekedatu project: Karnataka CM Shivakumar to renew invite to TN CM Vijay for talks](https://www.hindustantimes.com/india-news/mekedatu-project-karnataka-cm-shivakumar-to-renew-invite-to-tn-cm-vijay-for-talks-101790652320735.html)
 - [HT Morning Brief September 29: Goldy Brar on FBI's Most Wanted list, unrest at LPU, Day 11 of Asian Games](https://www.hindustantimes.com/india-news/ht-morning-brief-september-29-goldy-brar-on-fbis-most-wanted-list-unrest-at-lpu-trump-essar-group-deal-asian-games-101790650620020.html)
 - [Haryana DGP admits lapses in handling of Yuvraj Singh Manchanda's body](https://www.hindustantimes.com/india-news/haryana-dgp-admits-lapses-in-handling-of-delhi-man-yuvraj-singh-manchandas-body-101790650330570.html)
 - ['Will rise again': Shehzad Poonawalla thanks fans for support after thrashing by Siwet Tomar on Rise & Fall](https://www.hindustantimes.com/india-news/will-rise-again-shehzad-poonawalla-thanks-fans-for-support-after-thrashing-by-siwet-tomar-on-rise-fall-101790650968417.html)
 - [Trump announces India-based Essar Group's new steel plant in Iowa: ‘Largest in American history’](https://www.hindustantimes.com/india-news/donald-trump-announces-india-based-essar-group-new-steel-plant-in-iowa-largest-us-history-ravi-rewant-ruia-investment-101790647637636.html)
 - [When Gokhale brought Gandhi to Garden City](https://www.hindustantimes.com/india-news/when-gokhale-brought-gandhi-to-garden-city-101790623935278.html)
-- [ED interrogates prime accused in Viveka Reddy murder case](https://www.hindustantimes.com/india-news/ed-interrogates-prime-accused-in-viveka-reddy-murder-case-101790623454892.html)
-- [Garg Aviation flouted flight data-monitoring norms: AAIB in Kanpur training aircraft crash probe](https://www.hindustantimes.com/india-news/garg-aviation-flouted-flight-data-monitoring-norms-aaib-101790623275518.html)
-- [Congress stages rallies against EC-CEC issue in Hyderabad, Vijaywada](https://www.hindustantimes.com/india-news/congress-stages-rallies-against-ec-cec-issue-in-hyderabad-vijaywada-101790623275016.html)
-- [Two ‘masterminds’ of a conspiracy to build bombs get bail days after NIA chargesheet](https://www.hindustantimes.com/india-news/two-masterminds-of-a-conspiracy-to-build-bombs-get-bail-days-after-nia-chargesheet-101790623214055.html)
 
 **Vijay Karnataka**
 - [ಯುವದಸರೆಗೆ ಸಿದ್‌ ಶ್ರೀರಾಮ್‌, ಜಾಸ್ಮಿನ್‌ ಸ್ಯಾಂಡ್ಲಾಸ್‌ ಸೇರಿ ಸ್ಟಾರ್‌ ಸಿಂಗರ್ಸ್ ರಂಗು! ಅ.13ರಿಂದ 5 ದಿನ ಸಂಗೀತ ರಸದೌತಣ, ಯಾರೆಲ್ಲಾ ಭಾಗಿ?](https://vijaykarnataka.com/news/mysuru/mysuru-yuva-dasara-2026-from-oct-13-singer-sid-shriram-jasmine-sandlas-to-perfrom-prabhudeva-inaugarates-the-event/articleshow/134554220.cms)
@@ -62,16 +62,16 @@
 - [ಮೈಸೂರು ಉಸ್ತುವಾರಿ ಸಚಿವ ಯತೀಂದ್ರ ವರ್ತನೆಗೆ ತನ್ವೀರ್‌ ಸೇಠ್‌ ಬೇಸರ: ಕಾರ್ಯಕ್ರಮದಿಂದ ಅರ್ಧಕ್ಕೇ ಎದ್ದು ಹೋದರು! ಕಾರಣ ಗೊತ್ತಾ?](https://vijaykarnataka.com/news/mysuru/tanveer-sait-upset-with-mysuru-in-charge-minister-yathindras-conduct-walked-out-of-the-event-midway-do-you-know-the-reason/articleshow/134553610.cms)
 
 **The Hindu**
+- [20-year-old youth abducted in broad daylight in Bihar’s Supaul](https://www.thehindu.com/news/national/bihar/20-year-old-youth-abducted-in-broad-daylight-in-bihars-supaul/article71520852.ece)
+- [Delhi announces vehicle curbs, work-from-home, construction bans for winter pollution](https://www.thehindu.com/news/cities/Delhi/delhi-announces-vehicle-curbs-work-from-home-construction-bans-for-winter-pollution/article71519626.ece)
+- [Vijayapura lad wins silver medal at Commonwealth powerlifting championship in Canada](https://www.thehindu.com/news/national/karnataka/vijayapura-lad-wins-silver-medal-at-commonwealth-powerlifting-championship-in-canada/article71520321.ece)
+- [Satheesan government faces first major electoral test as counting begins in 38 local body wards across 12 districts](https://www.thehindu.com/news/national/kerala/keralam-by-election-local-body-wards-updates/article71522429.ece)
 - [Bombay High Court to hear plea seeking transparency in Maharashtra SIR](https://www.thehindu.com/news/national/maharashtra/bombay-high-court-to-hear-plea-seeking-transparency-in-maharashtra-sir/article71520795.ece)
 - [PMO reviews Ambedkarite writings in university curricula after anonymous post calls them ’poison’](https://www.thehindu.com/news/national/telangana/pmo-reviews-ambedkarite-writings-in-university-curricula-after-anonymous-post-calls-them-poison/article71521420.ece)
 - [Asian Games 2026 India’s medallists: Full list of winners](https://www.thehindu.com/sport/asian-games-2026-india-medalists-full-list-of-winners-aichi-nagoya-japan/article71491065.ece)
 - [States stumped as demography panel seeks religion-wise data on vehicles, schools, voters](https://www.thehindu.com/news/national/states-stumped-as-demography-panel-seeks-religion-wise-data-on-vehicles-schools-voters/article71520565.ece)
 - [SIR will unite Opposition, says Telangana CM Revanth](https://www.thehindu.com/news/national/telangana/simon-go-back-then-sir-go-back-in-coming-days-says-revanth/article71521045.ece)
 - [Over 40 modules of Shahzad Bhatti network busted, 350 held across 15 States: Amit Shah](https://www.thehindu.com/news/national/over-40-modules-of-shahzad-bhatti-network-busted-350-held-across-15-states-amit-shah/article71520689.ece)
-- [BJP accuses Opposition leaders of conspiring to derail India’s progress](https://www.thehindu.com/news/national/bjp-accuses-opposition-leaders-of-conspiring-to-derail-indias-progress/article71520282.ece)
-- [Future polls must use pre-SIR voter list, say civil society groups, demanding a full rollback of the SIR](https://www.thehindu.com/news/national/future-polls-must-use-pre-sir-voter-list-say-civil-society-groups-demanding-a-full-rollback-of-the-sir/article71520444.ece)
-- [Ex-Home Secretary R.K. Singh accuses CEC Gyanesh Kumar of ‘illegalities’ in SIR, calls for Opposition unity](https://www.thehindu.com/news/national/ex-home-secretary-rk-singh-accuses-cec-gyanesh-kumar-of-illegalities-in-sir-calls-for-opposition-unity/article71522341.ece)
-- [Nabin tells West Bengal BJP ministers that party should not interfere in government functioning](https://www.thehindu.com/news/national/west-bengal/nabin-tells-west-bengal-bjp-ministers-that-party-should-not-interfere-in-government-functioning/article71521056.ece)
 
 **Livemint**
 - [Seoul Says North Korea’s Mines Likely Behind DMZ Explosions](https://www.livemint.com/news/world/seoul-says-north-korea-s-mines-likely-behind-dmz-explosions-11790651183835.html)
@@ -98,7 +98,8 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
-- [ಅಮಿತ್ ಶಾ ಕೇರಳ ಭೇಟಿಯ ವೇಳೆ ಕಪ್ಪು ಬಾವುಟ ಪ್ರದರ್ಶನ: ಭದ್ರತಾ ಲೋಪ ಆರೋಪಿಸಿ ಬಿಜೆಪಿಯಿಂದ ಪ್ರತಿಭಟನೆ](https://www.varthabharati.in/National/black-flags-waved-during-amit-shahs-kerala-visit-bjp-protests-alleging-security-lapse-2278796)
+- [Asian Games 2026 | ಶೂಟಿಂಗ್ ನ ಟ್ರ್ಯಾಪ್ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಭಾರತ ಮಹಿಳಾ ತಂಡಕ್ಕೆ ಬೆಳ್ಳಿ ಪದಕ](https://www.varthabharati.in/sports/asian-games-2026-silver-medal-for-indian-womens-team-in-shooting-trap-event-2278799)
+- [ಅಮಿತ್ ಶಾ ಕೇರಳಂ ಭೇಟಿಯ ವೇಳೆ ಕಪ್ಪು ಬಾವುಟ ಪ್ರದರ್ಶನ: ಭದ್ರತಾ ಲೋಪ ಆರೋಪಿಸಿ ಬಿಜೆಪಿಯಿಂದ ಪ್ರತಿಭಟನೆ](https://www.varthabharati.in/national/black-flags-waved-during-amit-shahs-kerala-visit-bjp-protests-alleging-security-lapse-2278796)
 - [ಜೀವಘಾತಕ ನಕಲಿ ಔಷಧಿಗಳು](https://www.varthabharati.in/sampaadakeeya/life-threatening-counterfeit-medicines-2278795)
 - [18 ವರ್ಷದೊಳಗಿನವರ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಖಾತೆ ನಿರ್ಬಂಧಕ್ಕೆ ನಿಯಮ ಬಿಗಿ: ಸುಪ್ರೀಂಕೋರ್ಟ್ ಗೆ ತಿಳಿಸಿದ ಸಾಲಿಸಿಟರ್ ಜನರಲ್](https://www.varthabharati.in/national/rules-for-restricting-social-media-accounts-of-those-under-18-to-be-tightened-solicitor-general-informs-supreme-court-2278794)
 - [ಪೆರೋಲ್‌ ಪಡೆದು ಪರಾರಿ | ಕಾಂಬೋಡಿಯಾದಲ್ಲಿ ಮನೆ, ಉದ್ಯಮ ಕಟ್ಟಿಕೊಂಡಿದ್ದ ಹರ್ಯಾಣದ ಗ್ಯಾಂಗ್‌ಸ್ಟರ್‌!](https://www.varthabharati.in/National/absconds-after-obtaining-parole-haryana-gangster-had-built-a-home-and-business-in-cambodia-2278793)
@@ -107,23 +108,25 @@
 - [ಹಿಂದುತ್ವಕ್ಕೆ ಸೇವೆ ಸಲ್ಲಿಸಿ ಸಾಕೋ ಸಾಕಾಗಿದೆ: ಬಿಜೆಪಿ ಮುಖಂಡ ಕೃಷ್ಣಪ್ಪ ಕಲ್ಲಡ್ಕರದ್ದು ಎಂದು ಹೇಳಲಾದ ಆಡಿಯೋ ವೈರಲ್](https://www.varthabharati.in/dakshinakannada/fed-up-with-serving-hindutva-audio-allegedly-belonging-to-bjp-leader-krishnappa-kalladka-goes-viral-2278786)
 - [Raichur | ಮುಖ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತರನ್ನು ವಜಾಗೊಳಿಸಲು ಆಗ್ರಹಿಸಿ ಎಡಪಕ್ಷಗಳಿಂದ ಪ್ರತಿಭಟನೆ](https://www.varthabharati.in/raichur/raichur-left-parties-protest-demanding-the-dismissal-of-the-chief-election-commissioner-2278784)
 - [ಮತಪಟ್ಟಿಯಿಂದ ಅರ್ಹರ ಹೆಸರುಗಳನ್ನು ಕಡಿತಗೊಳಿಸಲು ಫಾರಂ-7 ದುರುಪಯೋಗ : ಜಮಾಅತೆ ಇಸ್ಲಾಮೀ ಹಿಂದ್](https://www.varthabharati.in/bangalore-city/misuse-of-form-7-to-remove-eligible-names-from-the-electoral-roll-jamaat-e-islami-hind-2278783)
-- [ಮರದ ಕೊಂಬೆ ಬಿದ್ದು ಗಾಯಗೊಂಡಿದ್ದ ವ್ಯಕ್ತಿಗೆ 2.82 ಕೋಟಿ ರೂ. ಪರಿಹಾರ ಪಾವತಿಸಲು ಪಾಲಿಕೆಗೆ ಹೈಕೋರ್ಟ್ ಆದೇಶ](https://www.varthabharati.in/state/high-court-2278782)
 
 **Asianet Kannada**
+- [Shivamogga: ಯೋಜಿತ ಶಿರಾಳಕೊಪ್ಪದ ಪಟ್ಟಣದ ಸುತ್ತ ವರ್ತುಲ ರಸ್ತೆ ನಿರ್ಮಿಸದಂತೆ ಆಗ್ರಹ](https://kannada.asianetnews.com/karnataka-districts/shivamogga-demand-to-not-construct-a-ring-road-around-the-planned-town-of-shiralakoppa-mrq/articleshow-h27b099)
+- [ರಕುಲ್ ಪ್ರೀತ್ ಸಿಂಗ್, ವಾಸು ಭಗ್ನಾನಿ ಮನೆಗಳ ಮೇಲೆ ಐಟಿ ದಾಳಿ: ‘ಪನೋರಮಾ ಸ್ಟುಡಿಯೋಸ್’ ಮೇಲೂ ಕಣ್ಣು!](https://kannada.asianetnews.com/news-entertainment/mumbai-income-tax-department-officials-ride-on-rakul-preet-singh-and-producer-vashu-bhagnani-residences/articleshow-rlqcigi)
+- [Coconut Milk: ಕೂದಲು ದಪ್ಪವಾಗಿ, ಉದ್ದವಾಗಿ ಬೆಳೆಯಬೇಕಾ? ತೆಂಗಿನ ಹಾಲಿನ ಈ ಟ್ರಿಕ್ ಬಳಸಿ!](https://kannada.asianetnews.com/webstories/health-life/coconut-milk-for-hair-growth-natural-tips-for-long-and-thick-hair-gvd-3zfm6a7)
+- [Mysuru dasara: ಬೆಳಗ್ಗೆ ಅಸಮಾಧಾನ-ಸಂಜೆ ಸಮಾಧಾನ.. ಇದು ಯತೀಂದ್ರ- ತನ್ವೀರ್‌ ಕಥೆ ಅಷ್ಟಕ್ಕೂ ಆಗಿದ್ದೇನು?!](https://kannada.asianetnews.com/politics/mysuru-dasara-what-really-happened-between-yatindra-and-tanveer-rav/articleshow-nix7dgf)
 - [ನಟ ಕಾರ್ತಿ, ಆಶಿಕಾ ನಟನೆಯ 'ಸರ್ದಾರ್ 2' ಒಟಿಟಿಗೆ ಎಂಟ್ರಿ: ಎಲ್ಲಿ, ಯಾವಾಗ ರಿಲೀಸ್ ಗೊತ್ತಾ?](https://kannada.asianetnews.com/entertainment/tamil-actor-karthi-ashika-ranganaths-sardar-2-gets-ott-release-date-to-stream-on-amazon-prime-video-gvd/articleshow-hx34plw)
 - [Gandhi Jayanti: ಗಾಂಧೀಜಿ ಮೊದಲ ಬಾರಿಗೆ ಬೆಂಗಳೂರಿಗೆ ಬಂದಾಗ ಆನಂದ್ ರಾವ್ ಸರ್ಕಲ್‌ನ ಈ ಮನೆಯಲ್ಲಿದ್ರು! ಆ ಘಟನೆ ಇಂದಿಗೂ ರೋಚಕ!](https://kannada.asianetnews.com/state/gandhi-jayanti-2026-when-gokhale-brought-gandhi-to-garden-city-rav/articleshow-i3z91nq)
 - [9ನೇ ಕ್ಲಾಸ್ ಫೇಲ್ ಆದ ಕನ್ನಡದ ನಟಿಗೆ ಇಂಗ್ಲಿಷ್ ಕಲಿಸಿದ್ದು ವೆಂಕಟೇಶ್, ನಾಗಾರ್ಜುನ: ಹೇಗೆ ಅಂತೀರಾ?](https://kannada.asianetnews.com/gallery/entertainment/actress-khushbu-sundar-reveals-the-story-behind-her-fluent-english-and-credits-venkatesh-nagarjuna-gvd-zart3gm)
 - [ಮುಂಬೈ ಮೆಟ್ರೋ ಸ್ಟೇ‍ಷನ್‌ನಲ್ಲಿ ಉಗುಳಲೂ ಪ್ರತ್ಯೇಕ ಸ್ಥಳ: ವಿಶ್ವದಲ್ಲೇ ಇದೇ ಮೊದಲು!](https://kannada.asianetnews.com/india-news/a-dedicated-spot-for-spitting-at-a-mumbai-metro-station-a-world-first-mrq/articleshow-qbgm8rg)
 - [ಈ ಸ್ಟಾರ್ ನಟನ ಜೊತೆ ಸಿನಿಮಾ ಅಂದಾಗ ಕುಣಿದು ಕುಪ್ಪಳಿಸಿದ್ರು: ಅರ್ಧ ಗಂಟೆಯಲ್ಲೇ ಕಥೆ ಕೇಳಿ ಓಕೆ ಎಂದ್ರು ಕಿಯಾರಾ!](https://kannada.asianetnews.com/entertainment/director-koratala-siva-reveals-how-kiara-advani-landed-bharat-ane-nenu-with-mahesh-babu-gvd/articleshow-a0yg09w)
 - [ಹಾಸನ ಮೇಲ್ಸೇತುವೆ ಸಾರ್ವಜನಿಕ ಸಂಚಾರಕ್ಕೆ ಯಾವಾಗ ಮುಕ್ತ? ಕಾಮಗಾರಿ ಪ್ರಗತಿ ಹೇಗಿದೆ?](https://kannada.asianetnews.com/karnataka-districts/when-will-the-hassan-flyover-be-open-to-public-traffic-how-is-the-progress-of-the-work-mrq/articleshow-o446s0b)
-- [ಚಂದ್ರ ಮಂಗಳದಿಂದ 5 ರಾಶಿಗೆ ಮಹಾಲಕ್ಷ್ಮೀ ರಾಜಯೋಗ; ನವೆಂಬರ್ 1ರಿಂದ ಅದೃಷ್ಟ ಶುಭಾರಂಭ](https://kannada.asianetnews.com/gallery/festivals/kannada-astrology-mahalakshmi-rajayoga-for-five-zodiac-signs-starting-november-1-to-3-a-lucky-new-beginning-mrq-7ga051f)
-- [ಬೆಂಗಳೂರಿನಿಂದ ಭಾಗಮಂಡಲಕ್ಕೆ ರಾಜಹಂಸ ಬಸ್; ಸಮಯ, ಟಿಕೆಟ್ ದರ ಎಷ್ಟು?](https://kannada.asianetnews.com/webstories/state/ksrtc-s-rajahams-bus-from-bengaluru-to-bhagamandala-what-are-the-timings-and-ticket-fares-mrq-54smswz)
-- [ಗಣಪತಿಗೆ ಹೂವಿನ ಹಾರ, ಕರ್ಪೂರ ತಂದು ಮುಸ್ಲಿಂ ಮಹಿಳೆಯರಿಂದ ವಿಶೇಷ ಪೂಜೆ:  ಭಾವೈಕ್ಯತೆಗೆ ಸಾಕ್ಷಿಯಾದ ಮಲ್ಲಿಗೆ ನಗರ!](https://kannada.asianetnews.com/karnataka-districts/hindus-muslims-came-together-ganesha-visarjana-in-islampet-hoovina-hadagali-vijayanagar-rav/articleshow-sad7z6o)
-- [Udupi: ಕ್ರಿಕೆಟ್ ಆಡಿದ 60 ಮಂದಿ  ಕ್ರೈಸ್ತ ಧರ್ಮಗುರುಗಳು, ಡಿಕನ್‌ರು; ಹೇಗಿತ್ತು ಪಂದ್ಯ?](https://kannada.asianetnews.com/karnataka-districts/udupi-kannarpadi-60-christian-priests-and-deacons-drew-attention-by-playing-cricket-mrq/articleshow-bygsn2x)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [Bangalore Rains: ಧಾರಾಕಾರ ಮಳೆಗೆ ವೈಟ್​ಫಿಲ್ಡ್, ಮಾರತ್ತಹಳ್ಳಿ, ಔಟರ್ ರಿಂಗ್ ರಸ್ತೆ ಜಲಾವೃತ](https://tv9kannada.com/videos/bengaluru-rains-heavy-rain-floods-whitefield-marathahalli-and-outer-ring-road-1243942.html)
+- [ವಾಸ್ತು ಶಾಸ್ತ್ರ: ಮನೆಯ ಈ ಸ್ಥಳಗಳಲ್ಲಿ ದೀಪ ಹಚ್ಚುವುದು ಶುಭವಲ್ಲ, ನಕಾರಾತ್ಮಕತೆ ಹೆಚ್ಚಾಗಬಹುದು!](https://tv9kannada.com/spiritual/vastu-tips-for-lighting-lamps-attract-positive-energy-and-prosperity-home-1243963.html)
+- [ಇತಿಹಾಸ ಸೃಷ್ಟಿಸಿದ ಎಲಾನ್ ಮಸ್ಕ್ ಕನಸಿನ ಕೂಸು: ಮೊದಲ ಬಾರಿಗೆ ಭೂಕಕ್ಷೆ ತಲುಪಿದ ದೈತ್ಯ ‘ಸ್ಟಾರ್‌ಶಿಪ್’ ರಾಕೆಟ್](https://tv9kannada.com/world/spacex-starship-achieves-first-orbital-flight-deploys-26-starlink-satellites-1243960.html)
 - [TV9 Kannada News Live sept.29: ಬೆಂಗಳೂರಿನಲ್ಲಿ ನಡುರಾತ್ರಿ ಧಾರಾಕಾರ ಮಳೆ! ಈ ಹೊತ್ತಿನ ಪ್ರಮುಖ ಸುದ್ದಿಗಳು ಇಲ್ಲಿವೆ](https://tv9kannada.com/karnataka/tv9-kannada-live-breaking-news-29-september-2026-cm-dk-shivakumar-bengaluru-rain-asian-games-bigg-boss-karnataka-weather-updates-1243955.html)
 - [ಮೈದಾನದಲ್ಲೇ ಕಿತ್ತಾಡಿಕೊಂಡ ಸೌತ್ ಆಫ್ರಿಕಾ ಆಟಗಾರರು!](https://tv9kannada.com/sports/cricket-news/sa-vs-aus-bavuma-and-de-kock-clash-on-field-1243949.html)
 - [ಆಟೋದಲ್ಲಿ ‘ಪುಟ್ಟಮಲ್ಲಿ’ ಹಾಡಿಗೆ ಡ್ಯಾನ್ಸ್ ಮಾಡಿದ ಡಾಲಿ ಧನಂಜಯ್, ವಾಸುಕಿ ಹಾಗೂ ರೀಷ್ಮಾ](https://tv9kannada.com/entertainment/sandalwood/daali-dhananjay-vasuki-vaibhav-and-reeshma-nanaiah-vibe-to-puttamalli-song-in-an-auto-1243948.html)
@@ -131,9 +134,6 @@
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್​: ಸೆಮಿಫೈನಲ್​ನಲ್ಲಿ ಟೀಮ್ ಇಂಡಿಯಾದ ಎದುರಾಳಿ ಯಾರು ಗೊತ್ತಾ?](https://tv9kannada.com/sports/cricket-news/asian-games-2026-india-vs-sri-lanka-2nd-semi-final-1243934.html)
 - [ಬೆಂಗಳೂರು: ಬಾಲಕನ ಅಪಹರಣ, ಕೊಲೆ ಕೇಸ್; ತನಿಖೆ ವೇಳೆ ಭಾಸ್ಕರ್‌ನ ಮಾಸ್ಟರ್ ಪ್ಲಾನ್ ಬಯಲು!](https://tv9kannada.com/karnataka/bengaluru/bengaluru-crime-uk-returned-mtech-graduate-kidnaps-and-unalives-minor-boy-for-gaming-debt-1243940.html)
 - [ಅಸಹ್ಯದಲ್ಲೇ ಅಸಹ್ಯ, ಅದಕ್ಕೆ ನಾಮಿನೇಟ್ ಮಾಡಿದೆ; ಕಿರಣ್​​ ವಿರುದ್ಧ ತಿರುಬಿದ್ದ ವೈಲ್ಡ್​ ಕಾರ್ಡ್ ಸ್ಪರ್ಧಿಗಳು](https://tv9kannada.com/videos/bigg-boss-kannada-13-wildcard-entrants-gagana-and-prashanth-target-kiran-shastri-in-heated-nomination-1243936.html)
-- [ಅಮೆರಿಕ ಇತಿಹಾಸದಲ್ಲೇ ಅತಿದೊಡ್ಡ ಉಕ್ಕಿನ ಸ್ಥಾವರ: ಭಾರತದ ಎಸ್ಸಾರ್ ಗ್ರೂಪ್‌ನಿಂದ 1.5 ಲಕ್ಷ ಕೋಟಿ ರೂ. ಬೃಹತ್ ಹೂಡಿಕೆ](https://tv9kannada.com/world/essar-groups-18b-dollar-us-steel-plant-india-invests-in-americas-largest-mill-creates-8k-jobs-1243938.html)
-- [ಮೇಕೆದಾಟು ಯೋಜನೆ: ಕೇಂದ್ರದ ಮಧ್ಯಸ್ಥಿಕೆ ಕೋರಿದ ಸಿಎಂ ಡಿಕೆ ಶಿವಕುಮಾರ್, ನಿಯೋಗ ಕಳುಹಿಸಲು ತಮಿಳುನಾಡಿಗೆ ಸೂಚಿಸಲು ಮನವಿ](https://tv9kannada.com/karnataka/mekedatu-project-cm-dk-shivakumar-seeks-centres-intervention-invites-tamil-nadu-delegation-1243931.html)
-- [ರಕುಲ್ ಪ್ರೀತ್ ಸಿಂಗ್ ಹಾಗೂ ವಾಸು ಭಗ್ನಾನಿ ನಿವಾಸಗಳ ಮೇಲೆ ಐಟಿ ದಾಳಿ: ದೃಶ್ಯಂ 3 ನಿರ್ಮಾಪಕರಿಗೂ ಸಂಕಷ್ಟ](https://tv9kannada.com/entertainment/bollywood/it-raids-on-rakul-preet-singh-vashu-bhagnani-and-drishyam-3-producers-in-mumbai-1243930.html)
 
 **Prajavani**
 - [‘ಕಾಮಧೇನು’ ಯೋಜನೆ: ಐವರು ಮಹಿಳೆಯರಿಗೆ ರಾಸು ವಿತರಣೆ](https://www.prajavani.net/district/bangaluru-rural/aanekal-rotary-kamadhenu-scheme-cattle-distribution-4294948)
@@ -148,6 +148,7 @@
 - [ಮೈಸೂರು: ಅನ್ನದಾನಕ್ಕೆ ಕೇಂದ್ರ ಸಚಿವ ಎಚ್‌.ಡಿ. ಕುಮಾರಸ್ವಾಮಿ ಚಾಲನೆ](https://www.prajavani.net/district/mysuru/mysuru-hd-kumaraswamy-annadana-ganesha-festival-4295045)
 
 **eedina**
+- [ದೆಹಲಿಯಲ್ಲಿ ಮಹಿಳೆಯರ ಸುರಕ್ಷತೆ ಬಗ್ಗೆ ಪ್ರಾಧಿಕಾರಗಳ ನಿರ್ಲಕ್ಷ್ಯ: ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ತೀವ್ರ ಅಸಮಾಧಾನ](https://eedina.com/?p=767423)
 - [ಜನಸಂಖ್ಯಾ ಸಮಿತಿಯ ‘ಧರ್ಮ ಆಧಾರಿತ’ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಲಾಗದೆ ರಾಜ್ಯ ಸರ್ಕಾರಗಳ ಪರದಾಟ](https://eedina.com/?p=767420)
 - [ಹಾವೇರಿ | ಜ್ಞಾನೇಶ ಕುಮಾರ ರಾಜೀನಾಮೆಗೆ ಆಗ್ರಹಿಸಿ ಕಾಂಗ್ರೆಸ್ ಪ್ರತಿಭಟನೆ](https://eedina.com/?p=767416)
 - [ಚಿಟಗುಪ್ಪ | ಜೆಜೆಎಂ, ರಾಜ್ಯ ಹೆದ್ದಾರಿ ಕಳಪೆ ಕಾಮಗಾರಿ ಖಂಡಿಸಿ ಬೇಮಳಖೇಡ ಗ್ರಾಮಸ್ಥರ ಪ್ರತಿಭಟನೆ](https://eedina.com/?p=767408)
@@ -157,38 +158,37 @@
 - [ಯಾದಗಿರಿ | ಮುಖ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತ ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ರಾಜೀನಾಮೆಗೆ ಒತ್ತಾಯಿಸಿ ಜಿಲ್ಲಾ ಕಾಂಗ್ರೆಸ್ ಪ್ರತಿಭಟನೆ](https://eedina.com/?p=767388)
 - [ಕಲಬುರಗಿ | ಅವೈಜ್ಞಾನಿಕ ಬರ ಪರಿಹಾರ ಖಂಡಿಸಿ ರೈತ ಸಂಘ ಪ್ರತಿಭಟನೆ](https://eedina.com/?p=767385)
 - [ಕಲಬುರಗಿ | ಭೀಕರ ಬರಕ್ಕೆ ಶಾಶ್ವತ ಪರಿಹಾರ ನೀಡಿ: ರೈತ ಸಂಘದ ಆಗ್ರಹ](https://eedina.com/?p=767382)
-- [ರಾಯಚೂರು | ಈಜಲು ತೆರಳಿದ್ದಾಗ ನೀರಿನಲ್ಲಿ ಮುಳುಗಿ ಯುವಕ ಸಾವು](https://eedina.com/?p=767375)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Trump (5.5)
 - Emkay Global Financial (5.0)
-- Opposition (3.9)
+- Delhi (4.2)
+- Goldy Brar (3.0)
+- Asian Games (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
-- India (2.9)
 - September (2.6)
 - States (2.6)
 - Iran (2.6)
 - Mumbai (2.6)
 - India's Essar Group (2.0)
-- Goldy Brar (2.0)
-- Asian Games (2.0)
 - New York Times (2.0)
 - Buy Bajaj Finance (2.0)
+- India's (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Renault Triber 100PS লঞ্চ হল ভারতে, প্রায় 8 লাখের এই গাড়ি ফ্যামিলি ট্রিপের জন্য বেস্ট অপশন](https://www.etvbharat.com/bn/technology/renault-triber-100ps-launched-in-india-with-7-lakh-84-thousand-wbs26092806932)
-- [Iran denies link to attack on airbase as UK minister warns of ‘proxies’](https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies)
-- [Venturing Beyond Arabian Sea Only Brought Harm To US: Mojtaba Khamenei](https://www.ndtv.com/world-news/venturing-beyond-arabian-sea-only-brought-harm-to-us-mojtaba-khamenei-12110782)
-- [Virat Kohli: రిటైర్మెంట్ పై అభిమానుల గుండె పగిలే వార్త చెప్పిన కోహ్లీ](https://telugu.asianetnews.com/gallery/cricket-sports/virat-kohli-retirement-confirmed-2027-odi-world-cup-will-be-my-last-tournament-for-india-gm4p2nf)
-- [Clashes erupt in Patna during protest seeking resignation of CEC Gyanesh Kumar](https://www.thehindu.com/news/national/bihar/clashes-erupt-in-patna-during-protest-seeking-resignation-of-cec-gyanesh-kumar/article71519820.ece)
-- [थप्पड़ कांड में प्रवेश वर्मा के खिलाफ NCR दर्ज, AAP विधायक जरनैल सिंह पर FIR](https://www.aajtak.in/india/delhi/story/delhi-slap-incident-police-registers-ncr-minister-pravesh-verma-aap-mla-jarnail-singh-ntc-ntyv-rpti-2655756-2026-09-28)
-- [Endgame Encore Scenes Explained By Russo Brothers](https://www.empireonline.com/movies/features/avengers-endgame-encore-new-scenes-explained-by-russo-brothers/)
-- [Tata Trusts proposes recast of Tata Sons to avoid listing](https://www.thehindu.com/business/tata-trusts-proposes-recast-of-tata-sons-to-avoid-listing/article71520398.ece)
-- [Breaking News Asian Games 2026: નીરજ ચોપરાની ગેરહાજરી છતાં ભાલા ફેંકમાં ભારતે જીત્યા બે મેડલ, યશવીર-રોહિતે કર્યો કમાલ](https://tv9gujarati.com/photo-gallery/sports-photos/breaking-news-asian-games-2026-yashvir-singh-rohit-yadav-win-medal-in-javelin-throw-1523553.html)
-- [അമിത് ഷായ്ക്ക് കരിങ്കൊടി: മുഖ്യമന്ത്രിയല്ല, വീഡിയോ പിൻവലിക്കാൻ ആവശ്യപ്പെട്ടത് തന്റെ ഓഫീസെന്ന് മന്ത്രി ഒ ജെ ജനീഷ്](https://malayalam.news18.com/news/kerala/minister-o-j-janeesh-clarifies-his-office-removed-amit-shah-protest-video-not-cm-rv-ws-l-790334.html)
+- [Trump set to announce $15 billion steel plant in Iowa ahead of midterms](https://www.moneycontrol.com/world/trump-set-to-announce-15-billion-steel-plant-in-iowa-ahead-of-midterms-article-14040344.html)
+- [McCann India turns Piyush Mishra’s ‘Maine Pyar Kiya’ regret into Flipkart’s iPhone BBD campaign](https://campaignbriefasia.com/2026/09/29/mccann-india-turns-piyush-mishras-maine-pyar-kiya-regret-into-flipkarts-iphone-bbd-campaign/)
+- [ज्ञानेश कुमारांचा राजीनामा का नको? गिरीश कुबेरांचे विश्लेषण](https://www.loksatta.com/desh-videsh/gyanesh-kumar-resignation-girish-kuber-election-commission-analysis-vsd-99-6161441/)
+- [શુક્ર વક્રી 2026: પિતૃપક્ષથી દિવાળી સુધી ચમકશે આ 4 રાશિઓનું ભાગ્ય, થશે મોટો ધનલાભ](https://gujarati.abplive.com/astro/shukra-vakri-2026-retrograde-venus-effects-on-zodiac-signs-deepavali-992262)
+- [Drishyam 3 देखने जा रहे हैं तो रुकिए! 2 अक्टूबर को थिएटर में फ्री मिलेगी पाव भाजी, जानें कैसे](https://www.aajtak.in/entertainment/bollywood-news/story/ajay-devgn-drishyam-the-conclusion-free-pav-bhaji-pvr-inox-offer-4-tickets-tmova-dskc-2655767-2026-09-28)
+- [XECH X-Jet NEO Review: कार को अंदर से चमकाने में मदद करता है ये डिवाइस, क्या खरीदना चाहिए](https://www.aajtak.in/auto/news/story/xech-x-jet-neo-air-duster-review-price-features-auam-dskc-2655758-2026-09-28)
+- [விஜய் எனக்கு அன்பு தம்பு](https://www.dailythanthi.com/news/tamilnadu/vijay-loves-me-tambu-dmk-mp-kanimozhi-speaks-during-campaign)
+- [होर्मुज पर तनाव के बीच मोजतबा की चेतावनी, कहा- अरब सागर से अमेरिकी सेना को खदेड़ेंगे](https://www.aajtak.in/world/story/iran-warns-foreign-military-forces-to-leave-arabian-sea-ntc-acwi-dskc-2655765-2026-09-28)
+- [नोएल टाटा का मास्टर स्ट्रोक, टाटा संस का IPO नहीं लाने के लिए ये विलय फॉर्मूला!](https://www.aajtak.in/business/news/story/tata-trusts-noel-tata-proposes-strategic-reorganisation-of-tata-sons-to-avoid-listing-tuta-dskc-2655743-2026-09-28)
+- [AAP Donor List: आप की चंदे वाली डायरी खुली तो निकले कई बड़े नाम, CJP के आशुतोष रांका ने भी दिया केजरीवाल की पार्टी को पैसा](https://hindi.news18.com/news/delhi/aap-donation-records-were-revealed-big-names-surfaced-cjp-ashutosh-ranka-also-gave-funds-to-arvind-kejriwal-party-10871326.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
