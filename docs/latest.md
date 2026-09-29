@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-29 21:36:21
+# India Trending Report — 2026-09-29 22:02:15
 
 ## Google Trends (India) — top trending searches
 1. [marc pubill](https://trends.google.com/trending/rss?geo=IN)
@@ -74,6 +74,7 @@
 - [CMC organises events to mark World Heart Day](https://www.thehindu.com/news/national/tamil-nadu/cmc-organises-events-to-mark-world-heart-day/article71524159.ece)
 
 **Livemint**
+- [Russian president Putin’s secret nuclear command bunker amid tensions with West: Report](https://www.livemint.com/news/world/russian-president-putin-s-secret-nuclear-command-bunker-amid-tensions-with-west-report-11790716528490.html)
 - [UK Police Find Fuel But No Explosives at Fairford Scene](https://www.livemint.com/news/us-news/uk-police-find-fuel-but-no-explosives-at-fairford-scene-11790713318733.html)
 - [Kathua shooting: CISF Head Constable kills 4 colleagues in Jammu and Kashmir](https://www.livemint.com/news/india/kathua-shooting-cisf-head-constable-kills-4-colleagues-in-jammu-and-kashmir-11790703879092.html)
 - [Inflation isn't done: Interest rates likely to rise more, Fed Governor Michael Barr warns](https://www.livemint.com/news/us-news/inflation-isnt-done-interest-rates-likely-to-rise-more-fed-governor-michael-barr-warns-11790703865758.html)
@@ -83,7 +84,6 @@
 - [America.gov launch: What Americans can do on Trump’s new AI-powered government website](https://www.livemint.com/news/us-news/americagov-explained-what-trump-s-new-ai-powered-government-website-can-do-11790701816059.html)
 - ['Gutkha Free’ Uber driver badge? Mumbai man’s post on civic sense sparks online debate](https://www.livemint.com/news/trends/gutkha-free-uber-driver-badge-mumbai-man-s-post-on-civic-sense-sparks-online-debate-11790699369412.html)
 - [CAQM modifies GRAP rules: Here’s what you need to know about new Delhi-NCR restrictions](https://www.livemint.com/news/india/caqm-modifies-grap-rules-here-s-what-you-need-to-know-about-new-delhi-ncr-restrictions-11790700338936.html)
-- [US employment data August: Job openings fall, layoffs decline as labour market holds steady](https://www.livemint.com/news/us-news/us-employment-data-august-job-openings-fall-layoffs-decline-as-labour-market-holds-steady-11790697954384.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -169,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Assam Rifles Jawan Killed In Action After Patrol Team Attacked In Arunachal](https://www.ndtv.com/india-news/assam-rifles-jawan-killed-in-action-after-patrol-team-attacked-in-arunachal-12113937)
-- [या अभिनेत्रीवर क्रिकेटर्सही फिदा, वीरेंद्र सेहवागने गुपित केलं उघड; कोण आहे ती?](https://www.tv9marathi.com/entertainment/who-is-sara-gurpal-rise-and-fall-punjabi-singer-actress-received-message-from-indian-cricketers-1767309.html)
-- [മത്സരം ജപ്പാനിൽ, ആവേശം യാക്കരയിൽ, ശ്രീശങ്കറിന്റെ മത്സരം തത്സമയം കണ്ട് കുടുംബവും നാട്ടുകാരും](https://www.manoramaonline.com/sports/other-sports/2026/09/29/sreeshankar-asian-games-silver.html)
-- [Drishyam 3 Advance Booking Day 1 Live: रिलीज से पहले ‘दृश्यम 3' का भौकाल, एडवांस बुकिंग में 9 करोड़ के हुई पार](https://www.abplive.com/entertainment/bollywood/drishyam-3-advance-booking-day-1-live-updates-ajay-devgn-film-pre-ticket-sale-collection-net-in-india-3195116)
-- [லண்டனில் நடந்த உலகின் மிக முக்கிய ஏலம்: ரூ.400 கோடிக்கும் அதிகமான விலைக்கு விற்ற 4 Rolex கடிகாரங்கள்](https://tamil.newsbytesapp.com/news/business/rolex-four-seasons-daytona-charity-auction-london-49-million/story)
-- [मुंबईतील अँटिलिया स्फोटकप्रकरणात तब्बल साडे पाच वर्षानंतर सचिन वाझेला जामीन; पण, तुरुंगातून सुटकेची शक्यता कमीच](https://marathi.abplive.com/crime/sachin-vaze-granted-bail-in-the-mumbai-antilia-explosives-case-after-a-staggering-five-and-a-half-years-mansukh-hiren-case-1440650)
-- [શેરબજાર અને સોના-ચાંદી ધરાશાયી, FD પણ નકામી… હવે તમારા પૈસા ક્યાં સુરક્ષિત રહેશે? જાણો એક્સપર્ટ્સનો અભિપ્રાય](https://tv9gujarati.com/photo-gallery/gold-stock-market-and-fd-returns-under-pressure-where-should-investors-invest-their-money-now-1523936.html)
-- [Gyanesh Kumar: ‘SIR বেআইনি, নতুন করে ব্যালটে ভোট হোক’, বলছেন মোদি সরকারের প্রাক্তন মন্ত্রী, সমালোচনা সুপ্রিম কোর্টেরও](https://bengali.abplive.com/news/sir-was-illegal-says-former-union-minister-home-secretary-rk-singh-demands-case-against-gyanesh-kumar-questions-supreme-court-1194562)
-- [భారత్ సమస్యను అమెరికా అర్థం చేసుకోవాలి: విదేశాంగ మంత్రి..](https://www.andhrajyothy.com/2026/national/s-jaishankar-on-indiaus-ties-terrorism-concerns-draw-red-line-sgr-1562551.html)
-- [Private hospitals functioning like industries, not service providers: Supreme Court](https://www.barandbench.com/news/private-hospitals-functioning-like-industries-not-service-providers-supreme-court)
+- [হৃদ্‌রোগের ঝুঁকি কমায় পাকা কলা! প্রাতরাশে, দুপুরে না রাতে, কখন কলা খাওয়া ভাল?](https://www.anandabazar.com/health-and-wellness/what-is-the-right-time-to-eat-a-banana-morning-pre-workout-or-night-dgtl/cid/1716280)
+- ['Who Heads NCPCR? How Can They Be So Indifferent?' Supreme Court Rebukes NCPCR Over 25% RTE Quota Implementation](https://www.livelaw.in/top-stories/who-heads-ncpcr-how-can-they-be-so-indifferent-supreme-court-rebukes-ncpcr-over-25-rte-quota-552277)
+- [கையில காசு இருந்த M&M, Hyundai India, Ather, TVS பங்குகளை வாங்கிப்போடுங்க, பரிந்துரைகளை வழங்கிய தரகு நிறுவனம்](https://tamil.economictimes.com/market/stocks/recommended-stocks-mm-hyundai-india-ather-tvs-leading-the-automotive-trade/articleshow/134562459.cms)
+- [धोनी-रोहित को छोड़ विराट ने किसे माना बेस्ट? इन खिलाड़ियों के आगे कांपते थे गेंदबाज! कोहली के खुलासे ने चौंकाया](https://www.aajtak.in/sports/cricket/story/virat-kohli-names-47-year-old-as-his-choice-for-six-hitting-ability-in-odi-rohit-sharma-and-ms-dhoni-name-missing-aksp-dskc-2656403-2026-09-29)
+- [PoK में पाकिस्तानी सेना की क्रूरता, LoC पार कर भारत आ सकता है जनसैलाब, बॉर्डर पार करने की हो रही बातें](https://navbharattimes.indiatimes.com/world/pakistan/pok-elections-pakistan-army-crackdown-loc-crossing-threat-rawalakot-protest-intensify/articleshow/134562433.cms)
+- [Train Accident | రైలు ఢీకొని 600 గొర్రెల మృ*తి..](https://aadabhyderabad.in/kondamadugu-train-accident-600-sheep-killed/)
+- [પંચમહાલ લેન્ડ રૅકોર્ડઝ વર્ગ-3 કર્મચારીઓની હડતાળ, વિભાગને લગતી સરકારી કામગીરી 7 દિવસથી ઠપ](https://www.gujaratsamachar.com/news/panchmahal/panchmahal-land-records-staff-indefinite-strike-grade-pay-demand-18885062978)
+- ['पिटकर जाएगा...', शहजाद पूनावाला पर गुस्साई एक्ट्रेस, Gold Digger कहे जाने पर रोई, बोली-तमाचा खाएगा](https://www.aajtak.in/entertainment/ott/story/priyanka-choudhary-traumatized-over-gold-digger-remark-heated-argument-with-shehzad-poonawala-tmovf-dskc-2656193-2026-09-29)
+- [Mumbai doctors highlight everyday habits that could be putting it under pressure](https://www.mid-day.com/lifestyle/health-and-fitness/article/world-heart-day-2026-is-your-heart-working-overtime-mumbai-doctors-tell-you-more-23652461)
+- [দিমাগী নকশালদের সঙ্গে দেখা করতে দিল্লি যাচ্ছেন মমতা, কটাক্ষ শুভেন্দুর](https://www.etvbharat.com/bn/politics/suvendu-adhikari-says-mamata-banerjee-going-to-delhi-to-meet-dimagi-naxals-wbs26092902723)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
