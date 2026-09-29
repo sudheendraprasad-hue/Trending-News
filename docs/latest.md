@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-29 20:38:01
+# India Trending Report — 2026-09-29 21:02:22
 
 ## Google Trends (India) — top trending searches
-1. [lamine yamal](https://trends.google.com/trending/rss?geo=IN)
-2. [spain](https://trends.google.com/trending/rss?geo=IN)
-3. [somalia vs côte d'ivoire](https://trends.google.com/trending/rss?geo=IN)
-4. [scotland vs switzerland](https://trends.google.com/trending/rss?geo=IN)
-5. [spain vs croatia](https://trends.google.com/trending/rss?geo=IN)
-6. [czechia vs england](https://trends.google.com/trending/rss?geo=IN)
-7. [saudi arabia vs iraq](https://trends.google.com/trending/rss?geo=IN)
-8. [moneyview ipo allotment status](https://trends.google.com/trending/rss?geo=IN)
-9. [divya mittal ias](https://trends.google.com/trending/rss?geo=IN)
-10. [ఫహాద్ ఫాజిల్](https://trends.google.com/trending/rss?geo=IN)
+1. [spain](https://trends.google.com/trending/rss?geo=IN)
+2. [somalia vs côte d'ivoire](https://trends.google.com/trending/rss?geo=IN)
+3. [scotland vs switzerland](https://trends.google.com/trending/rss?geo=IN)
+4. [spain vs croatia](https://trends.google.com/trending/rss?geo=IN)
+5. [czechia vs england](https://trends.google.com/trending/rss?geo=IN)
+6. [saudi arabia vs iraq](https://trends.google.com/trending/rss?geo=IN)
+7. [moneyview ipo allotment status](https://trends.google.com/trending/rss?geo=IN)
+8. [divya mittal ias](https://trends.google.com/trending/rss?geo=IN)
+9. [ఫహాద్ ఫాజిల్](https://trends.google.com/trending/rss?geo=IN)
+10. [nmc seat matrix 2026 neet pg](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -169,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ["Our Main Concern": S Jaishankar Draws Red Line On Terror In India-US Ties](https://www.ndtv.com/world-news/our-main-concern-s-jaishankar-draws-red-line-on-terror-in-india-us-ties-12113655)
-- [The night India hit back after Uri attack: 10 years since the surgical strikes set a new template](https://timesofindia.indiatimes.com/defence/news/10-years-of-surgical-strikes-what-happened-on-the-night-india-crossed-the-loc/articleshow/134560887.cms)
-- [The night India hit back after Uri attack: 10 years since the surgical strikes set a new template](https://timesofindia.indiatimes.com/defence/news/the-night-india-hit-back-after-uri-attack-10-years-since-the-surgical-strikes-set-a-new-template/articleshow/134560887.cms)
-- [അമിത് ഷായ്ക്ക് നേരെ യൂത്ത് കോൺഗ്രസിന്റെ കരിങ്കൊടി; ഒരു സെക്കൻഡ് പോലും തടസ്സമുണ്ടായില്ലെന്ന് പൊലീസ്](https://www.manoramaonline.com/news/latest-news/2026/09/29/youth-congress-waves-black-flags-amit-shah-police-claim-no-security-lapse.html)
-- [MARUTI की बड़ी तैयारी... ला रही नई 7-सीटर MPV, लीक हुईं डिटेल्स](https://www.aajtak.in/auto/news/story/maruti-suzuki-upcoming-electric-7-seater-mpv-details-auam-dskc-2656319-2026-09-29)
-- [‘ও আমাকে বোঝাতে বোঝাতে পাগল’, নিরহুয়ার সঙ্গে সম্পর্কের গুঞ্জন নিয়ে কী বললেন আম্রপালি?](https://bengali.indianexpress.com/entertainment/amrapali-dubey-nirahua-relationship-rumours-big-boss-20-12589041)
-- [চেহারা ভাড়া দিয়ে ১৫ হাজার ডলার...](https://www.prothomalo.com/world/china/s5k5khe93b)
-- [ഇറാന് ഉപരോധത്തിൽ ഇളവ് നൽകിയെന്ന വാർത്ത നിഷേധിച്ച് ട്രംപ്; ചർച്ചകൾക്ക് തയ്യാറെന്ന് ടെഹ്‌റാൻ](https://www.manoramanews.com/gulf-and-global/middle-east/2026/09/29/trump-denies-iran-sanctions-relief-reports-tehran-signals-openess-to-talks.html)
-- [இந்திய தேர்தல் ஆணையர் விவகாரம்: அடுத்த வாரம் விசாரணைக்கு வரும் தலைமைத் தேர்தல் ஆணையருக்கு எதிராக உச்ச நீதிமன்ற மனு](https://tamil.newsbytesapp.com/news/india/supreme-court-agrees-to-hear-plea-against-cec-gyanesh-kumar-unilateral-decisions/story)
-- ['આપણે જીતની નજીક હતા, તો શું થયું?' DUSUમાં સફાયા બાદ રાહુલ ગાંધીએ કન્હૈયા કુમારને ખખડાવ્યા](https://www.gujaratsamachar.com/news/national/we-were-close-to-victory-so-what-happened-rahul-gandhi-slams-kanhaiya-kumar-after-dusu-sweep-14535736350)
+- [‘If he thinks about 100 centuries’: Ajinkya Rahane reveals if Virat Kohli can reach the milestone](https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/if-he-thinks-about-100-centuries-ajinkya-rahane-reveals-if-virat-kohli-can-reach-the-milestone/articleshow/134561429.cms)
+- [Ekam Bawa On Rhiti Tiwari : मी अजूनही तुझा कायदेशीर बाप! MS Dhoni सिनेमाचा पैसा गेला कुठे सांग? बिग बॉस फेम रिती तिवारीवर सावत्र वडिलांचे आरोप](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/singer-ekam-bawa-posted-allegations-video-on-bigg-boss-20-contestant-rhiti-tiwari/articleshow/134561078.cms)
+- [श्री चरणी ने ICC T20I रैंकिंग में पलटा इतिहास, सबसे ज्यादा रेटिंग हासिल की; स्मृति मंधाना की टॉप 5 में एंट्री](https://www.livehindustan.com/cricket/sri-charani-makes-history-in-icc-womens-t20i-rankings-after-achieving-817-rating-points-smriti-mandhana-enters-top-5-201790670560444.html)
+- [મહિલાઓને જ નહીં… પુરુષોને પણ થાય છે ‘બ્રેસ્ટ કેન્સર’, આ લક્ષણોને ભૂલથી પણ ન કરો ‘નજરઅંદાજ’](https://tv9gujarati.com/photo-gallery/male-breast-cancer-health-tips-know-the-early-symptoms-and-warning-signs-men-should-not-ignore-1523891.html)
+- [Smartwatch AI Reaches 91% Accuracy in Heart Rhythm Study, With Important Trade-Offs](https://www.devdiscourse.com/article/health/3983093-smartwatch-ai-reaches-91-accuracy-in-heart-rhythm-study-with-important-trade-offs)
+- [Assam Rifles jawan killed, four injured in suspected militant attack along Myanmar border in Arunachal Pradesh](https://timesofindia.indiatimes.com/india/assam-rifles-jawan-killed-four-injured-in-suspected-militant-attack-along-myanmar-border-in-arunachal-pradesh/articleshow/134561299.cms)
+- [Can technology help reduce premature cardiac deaths?](https://www.hindustantimes.com/ht-insight/public-health/can-technology-help-reduce-premature-cardiac-deaths-101790671638155.html)
+- ['அவர் இல்லாமல் 2027 உலகக் கோப்பைக்கு போகவே முடியாது': பிசிசிஐ தேர்வுக்குழுவுக்கு அஸ்வின் ஓபன் மெசேஜ்](https://tamil.newsbytesapp.com/news/sports/r-ashwin-backs-kuldeep-yadav-for-2027-odi-world-cup-cannot-go-to-south-africa-without-him/story)
+- ['Hanuman Ansh' box office collection Day 54 [LIVE]: Vishal Chaturvedi and Shobhinaw Satyaa's spiritual biopic on Neem Kaorli Baba biopic sustains eight week run, crosses Rs 310 crore India net mark](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-54-live-vishal-chaturvedi-and-shobhinaw-satyaas-spiritual-biopic-on-neem-kaorli-baba-sustains-eight-week-run-eyes-rs-315-crore-india-net-mark-after-tapping-the-rs-400-crore-worldwide-gross-milestone/articleshow/134561090.cms)
+- [কোহলি নিজেকে বাইরে রেখে বানালেন ওয়ানডের ‘সেরা’ ব্যাটসম্যান](https://www.prothomalo.com/sports/cricket/e7pnbiuqsi)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
