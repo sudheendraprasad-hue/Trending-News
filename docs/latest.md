@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-29 22:36:05
+# India Trending Report — 2026-09-29 23:01:55
 
 ## Google Trends (India) — top trending searches
 1. [ivan perišić](https://trends.google.com/trending/rss?geo=IN)
-2. [marc pubill](https://trends.google.com/trending/rss?geo=IN)
-3. [somalia vs côte d'ivoire](https://trends.google.com/trending/rss?geo=IN)
-4. [scotland vs switzerland](https://trends.google.com/trending/rss?geo=IN)
-5. [spain vs croatia](https://trends.google.com/trending/rss?geo=IN)
-6. [czechia vs england](https://trends.google.com/trending/rss?geo=IN)
-7. [saudi arabia vs iraq](https://trends.google.com/trending/rss?geo=IN)
-8. [moneyview ipo allotment status](https://trends.google.com/trending/rss?geo=IN)
-9. [divya mittal ias](https://trends.google.com/trending/rss?geo=IN)
-10. [ఫహాద్ ఫాజిల్](https://trends.google.com/trending/rss?geo=IN)
+2. [somalia vs côte d'ivoire](https://trends.google.com/trending/rss?geo=IN)
+3. [scotland vs switzerland](https://trends.google.com/trending/rss?geo=IN)
+4. [spain vs croatia](https://trends.google.com/trending/rss?geo=IN)
+5. [czechia vs england](https://trends.google.com/trending/rss?geo=IN)
+6. [saudi arabia vs iraq](https://trends.google.com/trending/rss?geo=IN)
+7. [moneyview ipo allotment status](https://trends.google.com/trending/rss?geo=IN)
+8. [divya mittal ias](https://trends.google.com/trending/rss?geo=IN)
+9. [ఫహాద్ ఫాజిల్](https://trends.google.com/trending/rss?geo=IN)
+10. [nmc seat matrix 2026 neet pg](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Budgam encounter: Army kills LeT terrorist in fierce gunfight in Yousmarg](https://timesofindia.indiatimes.com/india/budgam-encounter-army-kills-let-terrorist-in-fierce-gunfight-in-yousmarg/articleshow/134573357.cms)
 - [Mehul Choksi drops damages claim against government, Hungarian woman in London HC](https://timesofindia.indiatimes.com/world/uk/mehul-choksi-drops-damages-claim-in-london-hc-against-goi-hungarian-woman-he-accused-of-kidnapping-him/articleshow/134572978.cms)
 - ['Will strain Centre-J&K ties': BJP asks chief secy to ‘throw away’ statehood resolution](https://timesofindia.indiatimes.com/india/bjp-asks-chief-secy-to-throw-away-statehood-resolution-says-it-will-strain-centre-jk-ties/articleshow/134573733.cms)
+- [Supreme Court imposes 10 lakh cost on UP government for illegal NSA detention](https://timesofindia.indiatimes.com/india/supreme-court-imposes-10-lakh-cost-on-up-government-for-illegal-nsa-detention/articleshow/134576449.cms)
 - [India's Kaveri engine clears Russia trials, set for Ghatak stealth UCAV integration](https://timesofindia.indiatimes.com/defence/news/indias-kaveri-engine-clears-trials-in-russia-ready-for-integration-with-stealth-ucav-ghatak/articleshow/134574087.cms)
-- [15k Ladakh-grown Liliums set out for national flower markets](https://timesofindia.indiatimes.com/india/15k-ladakh-grown-liliums-set-out-for-national-flower-markets/articleshow/134573645.cms)
 - [Mark Zuckerberg, Priscilla Chan donate $4 million to save 600-year-old Hawaii fishpond](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-and-priscilla-chan-donated-4-million-to-save-a-600-year-old-hawaii-fishpond-they-wont-own-the-land-nonprofit-that-now-owns-says-we-plan-to-restore-it-as-a-working-/articleshow/134556953.cms)
-- [18 warships to be inducted in 2026, largest addition in a year in Navy’s history: Rajnath](https://timesofindia.indiatimes.com/defence/news/presence-of-indian-warships-in-south-china-sea-mediterranean-atlantic-demonstrates-indian-navys-blue-water-force-capability-rajnath/articleshow/134568261.cms)
+- [15k Ladakh-grown Liliums set out for national flower markets](https://timesofindia.indiatimes.com/india/15k-ladakh-grown-liliums-set-out-for-national-flower-markets/articleshow/134573645.cms)
 - [Nevada volunteers remove 120,125 pounds of waste from Truckee River watershed](https://timesofindia.indiatimes.com/world/us/more-than-575-nevada-volunteers-worked-across-26-truckee-river-watershed-sites-and-removed-120125-pounds-of-waste-in-one-day-including-2500-pounds-pulled-directly-from-the-river-and-64320-pounds-of-invasive-weeds/articleshow/134562743.cms)
+- [18 warships to be inducted in 2026, largest addition in a year in Navy’s history: Rajnath](https://timesofindia.indiatimes.com/defence/news/presence-of-indian-warships-in-south-china-sea-mediterranean-atlantic-demonstrates-indian-navys-blue-water-force-capability-rajnath/articleshow/134568261.cms)
 - ['Operate faster than adversary': CDS Gen Subramani stresses integrated multi-domain ops](https://timesofindia.indiatimes.com/defence/news/operate-faster-than-adversary-cds-gen-subramani-stresses-integrated-multi-domain-ops/articleshow/134574085.cms)
-- [Can’t deny employee security clearance based on kin’s antecedents: J&K high court](https://timesofindia.indiatimes.com/india/cant-deny-employee-security-clearance-based-on-kins-antecedents-jk-high-court/articleshow/134573666.cms)
 
 **NDTV**
 - [Pak Vows To Defend Saudi Against Iran-Backed Houthis By "Whatever Means"](https://www.ndtv.com/world-news/pakistan-vows-to-defend-saudi-against-iran-backed-houthis-by-whatever-means-12117178#publisher=newsstand)
@@ -62,6 +62,8 @@
 - [`ನಮ್ಮ ಹಣೆಬರಹವೇ ಇಷ್ಟು': ಏಷ್ಯನ್ ಗೇಮ್ಸ್‌ನಿಂದ ಹೊರಬಿದ್ದಿದ್ದಕ್ಕೆ ಮಲೇಷ್ಯಾ ಕ್ರಿಕೆಟಿಗನ ಭಾವುಕ ಎಕ್ಸ್ ಪೋಸ್ಟ್!](https://vijaykarnataka.com/sports/cricket/news/malaysian-cricketers-emotional-x-post-over-exclusion-from-asian-games-goes-viral-/articleshow/134570696.cms)
 
 **The Hindu**
+- [Mamata in Delhi to participate in INDIA bloc meetings, Suvendu takes a dig](https://www.thehindu.com/news/national/west-bengal/mamata-in-delhi-to-participate-in-india-bloc-meetings-suvendu-takes-a-dig/article71524694.ece)
+- [INDIA bloc announces Odisha bandh on October 8 over new mining law, other issues](https://www.thehindu.com/news/national/odisha/india-bloc-announces-odisha-bandh-on-october-8-over-new-mining-law-other-issues/article71523588.ece)
 - [Activists caution against efforts to revive bauxite mining in Odisha’s Niyamgiri hills](https://www.thehindu.com/news/national/odisha/activists-caution-against-efforts-to-revive-bauxite-mining-in-odishas-niyamgiri-hills/article71524085.ece)
 - [Rajasthan HC cancels FIR against Independent MLA arrested during local body polls](https://www.thehindu.com/news/national/rajasthan/rajasthan-hc-cancels-fir-against-independent-mla-arrested-during-local-body-polls/article71524919.ece)
 - [Rajasthan first State in northern India to complete digital identification of farmers](https://www.thehindu.com/news/national/rajasthan/rajasthan-first-state-in-northern-india-to-complete-digital-identification-of-farmers/article71524561.ece)
@@ -70,8 +72,6 @@
 - [Temple burgled near Katpadi](https://www.thehindu.com/news/national/tamil-nadu/temple-burgled-near-katpadi/article71524166.ece)
 - [BLAs in Delhi bypassed EC’s 10-form daily limit using poll panel’s own portal, data show](https://www.thehindu.com/news/cities/Delhi/party-appointed-blas-bypass-eci-cap-for-10-applications-a-day-through-its-own-portal-for-deletions/article71524945.ece)
 - [Democracy without choice: how unopposed Maharashtra rural polls silence dissent](https://www.thehindu.com/news/national/maharashtra/democracy-without-choice-how-unopposed-maharashtra-rural-polls-silence-dissent/article71524112.ece)
-- [Sahil Wakode’s parents seek police protection, allege threat to life and probe](https://www.thehindu.com/news/national/maharashtra/sahil-wakodes-parents-seek-police-protection-allege-threat-to-life-and-probe/article71525165.ece)
-- [CMC organises events to mark World Heart Day](https://www.thehindu.com/news/national/tamil-nadu/cmc-organises-events-to-mark-world-heart-day/article71524159.ece)
 
 **Livemint**
 - [University of Georgia student survives eight-storey fall after reportedly dancing on couch near open window](https://www.livemint.com/news/us-news/university-of-georgia-student-survives-eight-storey-fall-after-reportedly-dancing-on-couch-near-open-window-11790717808445.html)
@@ -125,17 +125,7 @@
 - [ವಿಶ್ವ ಹೃದಯ ದಿನ: ‘ಡಾ. ಪುನೀತ್ ರಾಜಕುಮಾರ್ ಹೃದಯ ಜ್ಯೋತಿ ಯೋಜನೆ’ಯಿಂದ 12,500ಕ್ಕೂ ಹೆಚ್ಚು ಜೀವ ರಕ್ಷಣೆ; ಆರೋಗ್ಯ ಇಲಾಖೆಯಿಂದ ಮಹತ್ವದ ಸಲಹೆ](https://tv9kannada.com/health/golden-hour-heart-attack-recognize-symptoms-and-act-fast-for-life-1244311.html)
 - [ಜಮ್ಮು ಕಾಶ್ಮೀರದ ಕಥುವಾದಲ್ಲಿ ಸಹೋದ್ಯೋಗಿಯಿಂದಲೇ ಗುಂಡಿನ ದಾಳಿ; ನಾಲ್ವರು ಸಿಐಎಸ್‌ಎಫ್ ಸಿಬ್ಬಂದಿ ದಾರುಣ ಸಾವು](https://tv9kannada.com/national/4-cisf-personnel-killed-after-colleague-opens-fire-at-camp-in-jammu-and-kashmirs-kathua-1244307.html)
 
-**Prajavani**
-- [ಟ್ರ್ಯಾಕ್‌ನಲ್ಲಿ ಚಿನ್ನದ ಹೊನಲು: ವನಿತೆಯರ 4X400 ಮೀ ರಿಲೆಯಲ್ಲಿ ಮಿಂಚಿದ ಭಾರತ](https://www.prajavani.net/sports/other-sports/indian-women-relay-team-wins-gold-asian-games-4296739)
-- [Asian Games athletics: ಗುಲ್ವೀರ್ ಸಿಂಗ್ ಪದಕ ‘ಹ್ಯಾಟ್ರಿಕ್’](https://www.prajavani.net/sports/other-sports/gulveer-singh-medal-hattrick-asian-games-athletics-4296866)
-- [ಏಷ್ಯನ್ ಗೇಮ್ಸ್‌ ಬಾಕ್ಸಿಂಗ್‌: ಫೈನಲ್‌ಗೆ ಅಂಕುಶ್‌, ಪರ್ವೀನ್ ಹೂಡಾ](https://www.prajavani.net/sports/other-sports/ankush-panghal-parveen-hooda-reach-asian-games-boxing-finals-4295879)
-- [ಬೆಳಗಾವಿ, ಹುಬ್ಬಳ್ಳಿಗೆ ‘ಜಾಗತಿಕ ತಂತ್ರಜ್ಞಾನ ಕೇಂದ್ರ: ರಾಜ್ಯ ಸರ್ಕಾರ ಅನುಮೋದನೆ](https://www.prajavani.net/news/karnataka-news/karnataka-government-approves-global-technology-centers-in-hubballi-and-belagavi-4296719)
-- [ಬ್ಯಾಡಗಿ ಮೆಣಸಿನಕಾಯಿ ದರ ಏರಿಕೆ: ಪ್ರತಿ ಕ್ವಿಂಟಲ್‌ಗೆ ₹77 ಸಾವಿರ](https://www.prajavani.net/district/haveri/byadagi-chilli-price-hike-haveri-market-4296630)
-- [ಧಾನ್ಯ ಉತ್ಪಾದನೆ ಕುಸಿತ ಸಾಧ್ಯತೆ ಕಡಿಮೆ: ಶಿವರಾಜ್‌ ಸಿಂಗ್‌ ಚೌಹಾಣ್‌](https://www.prajavani.net/news/india-news/shivraj-singh-chouhan-on-india-food-grain-production-target-4296703)
-- [ಮೊಬೈಲ್‌ ಫೋನ್‌ ಬೆಲೆ ಶೇ 16ರಷ್ಟು ಹೆಚ್ಚಳ: ಕೌಂಟರ್‌ಪಾಯಿಂಟ್‌ ರಿಸರ್ಚ್‌](https://www.prajavani.net/business/commerce-news/mobile-phone-price-hike-india-counterpoint-research-report-4296613)
-- [ಮ್ಯಾನ್ಮಾರ್ ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಸ್ಫೋಟ: 49 ಮಂದಿ ಸಾವು](https://www.prajavani.net/news/world-news/myanmar-market-air-strike-casualties-4296568)
-- [ಹಮಾಸ್‌ ದಾಳಿ: ಇಸ್ರೇಲ್‌ಗೆ ಮೊದಲೇ ಎಚ್ಚರಿಕೆ ನೀಡಿದ್ದ ಯುಎಇ, ಈಜಿಪ್ಟ್‌](https://www.prajavani.net/news/world-news/israel-netanyahu-uae-hamas-attack-warning-reports-4296604)
-- [ಬಂಕ್‌ಗಳಲ್ಲಿ ಹೆಚ್ಚಿದ ಬೇಡಿಕೆ: ನಯಾರಾ, ಜಿಯೊದಲ್ಲಿ ಡೀಸೆಲ್‌ ಮಾರಾಟ ಮಿತಿ](https://www.prajavani.net/business/commerce-news/nayara-jio-bp-diesel-sales-limit-india-4296612)
+**Prajavani** — _unavailable_
 
 **eedina**
 - [‘ಮುಖ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತರು ಕೂಡಲೇ ರಾಜೀನಾಮೆ ನೀಡಬೇಕು’ : ಸುರೇಶ್ ಶೆಟ್ಟಿ ಬನ್ನಂಜೆ](https://eedina.com/?p=767797)
@@ -153,32 +143,32 @@
 - India (3.9)
 - Kashmir (3.9)
 - Trump (2.9)
+- Delhi (2.9)
+- INDIA (2.9)
 - Budgam (2.6)
 - Keralam (2.6)
 - Assam (2.6)
-- Delhi (1.6)
+- Odisha (2.6)
 - Police (1.6)
 - CISF (1.6)
 - Kathua (1.6)
 - Rajasthan (1.6)
 - Army (1.3)
 - Yousmarg (1.3)
-- Hungarian (1.3)
-- Centre-J (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ['संवैधानिक व्यवस्था को तार-तार करने...', स्मृति ईरानी ने साधा कांग्रेस पर निशाना](https://www.abplive.com/news/bjp-press-conference-smriti-irani-attack-on-congress-after-cwc-meet-on-election-commission-3195382)
-- [Thackeray Brother's| 4 ऑक्टोबरला Mumbai मध्ये ठाकरे बंधूंचा भायखळा ते मुंबई पालिका मोर्चा | NDTV](https://marathi.ndtv.com/videos/thackeray-brothers-to-hold-bhaykhala-to-mumbai-municipal-march-on-october-4-in-mumbai-1166270)
-- ['पहले ही देख लिया था ये संकट...' रॉबर्ट कियोसाकी बोले- सच हो रही भविष्यवाणी](https://www.aajtak.in/business/news/story/rich-dad-poor-dad-writer-robert-kiyosaki-viral-post-baby-boomers-crisis-gold-silver-buying-tutc-dskc-2656452-2026-09-29)
-- [Faced with US ban, Canadian booze makers see yet more hurdles at home](https://www.reuters.com/business/faced-with-us-ban-canadian-booze-makers-see-yet-more-hurdles-home-2026-09-29/)
-- [एल निनो पुन्हा सक्रिय; महाराष्ट्रावर दुष्काळ अन् पाणीटंचाईचे सावट, महागाई वाढणार?](https://www.loksatta.com/research/el-nino-2026-impact-on-india-monsoon-water-shortage-drought-risk-researchdc-vp-70-6162948/)
-- [വൻ സുരക്ഷാ ആശങ്ക; 'ജിപിടി - 6.1 ആസ്ട്ര' ഉപേക്ഷിച്ചെന്ന് ഓപ്പണ്‍എഐയുടെ പ്രഖ്യാപനം](https://www.asianetnews.com/news-money/openai-cancels-gpt-61-astra-launch-over-safety-concerns-articleshow-5a88n7z)
-- [শীঘ্রই মিলবে ‘জাতীয় মেলার’ মর্যাদা? গঙ্গাসাগরে স্নান করে বড় বার্তা নিতিন নবীনের](https://bengali.indianexpress.com/west-bengal/nitin-nabin-gangasagar-mela-national-fair-status-suvendu-adhikari-12589955)
-- [Stock Market Close: Sensex falls for 2nd day, down 217 pts, Nifty at 22,716; realty pack tanks 2%](https://www.business-standard.com/markets/news/stock-market-live-updates-september-29-sensex-today-nifty50-gift-nifty-crude-oil-price-ipo-today-126092900092_1.html)
-- [Amazon Kindle Colorsoft Kids 16GB drops to $209, cover included](https://sammyguru.com/amazon-kindle-colorsoft-kids-16gb-with-cover-deal/)
-- [જેના માટે બાંગ્લાદેશે ભારત સાથે સંબંધો બગાડ્યા તે પાકિસ્તાને જ આપ્યો દગો! યુરેનિયમની સપ્લાય અટકી](https://www.gujaratsamachar.com/news/international/Pakistan-Blocks-Airspace-For-Bangladesh-Uranium-Cargo-Flight-74592249982)
+- [தலைமைச் செயலகம் விவகாரம்: 'முதல்வருக்கு 5 நாள்கள் தான் அவகாசம்' பட்டினப்பாக்கம் மீனவர்கள் எச்சரிக்கை](https://www.etvbharat.com/ta/state/pattinapakkam-secretariat-issue-fishermen-set-a-deadline-for-the-cm-vijay-to-withdraw-govt-order-tns26092903544)
+- [IMD Heavy Rain Alert: 5 દિવસ દેશના આ રાજ્યોમાં ભારે વરસાદનું એલર્ટ, જાણો હવામાન અપડેટ](https://gujarati.abplive.com/news/india/imd-heavy-rain-alert-for-these-southern-and-northeastern-states-for-5-days-992313)
+- [অষ্টম শ্রেণিতে উঠলেই সাইকেল, মমতার ‘সবুজসাথী’কে ‘সারথি’ করলেন শুভেন্দু! পশ্চিমবঙ্গেই উৎপাদন চান, জমির প্রতিশ্রুতি](https://www.anandabazar.com/west-bengal/howrah-hooghly/the-sabooj-saathi-project-of-mamata-banerjees-government-became-sarathi-during-the-tenure-of-suvendu-adhikaris-government-dgtld/cid/1716297)
+- [அக்டோபர் 1 முதல் கூடுதல் கட்டணம்!](https://kalkionline.com/news/sbi-cash-withdrawal-rules-change-from-october-1-rs-15-fee-after-four-free-transactions)
+- [पाकव्याप्त काश्मीरमध्ये असंतोषाचा भडका; आंदोलकांची 'एलओसी' खुली करण्याची मागणी!](https://www.mahamtb.com/Encyc/2026/9/29/pok-protests-loc-open-poonch-mendhar-routes-.php)
+- [The Oppo K14 Plus is now official with an 8,000mAh battery](https://www.gsmarena.com/the_oppo_k14_plus_is_now_official_with_an_8000mah_battery-news-74815.php)
+- [Banana | হৃদযন্ত্র ভালো রাখবে পাকা কলা! কখন খাওয়া সবচেয়ে উপকারী জানেন কি?](https://uttarbangasambad.com/best-time-to-eat-bananas-health-benefits/)
+- [S Jaishankar | ఉగ్ర‌వాదంపై భార‌త్ రెడ్‌లైన్ గీసుకుంది.. అమెరికాకు జైశంక‌ర్ ఇన్‌డైరెక్ట్ వార్నింగ్‌..!](https://www.ntnews.com/national/s-jaishankar-our-main-concern-s-jaishankar-draws-red-line-on-terror-in-india-us-ties-2523069)
+- [പാലക്കാട് വീട്ടിലെ വാട്ടര്‍ ടാങ്കില്‍ വീണ് സഹോദരങ്ങള്‍ മരിച്ചു](https://www.mediaoneonline.com/kerala/palakkad-kozhinjampara-siblings-die-falling-into-water-tank-338754)
+- [പാക് വ്യോമപാത അടഞ്ഞുതന്നെ; ഇന്ത്യയുടെ അപ്രതീക്ഷിത നീക്കം, സിന്‍ജിയാങ് വഴി ബദല്‍ പാത തേടി| pakistan](https://www.asianetnews.com/news-money/pakistan-airspace-closure-india-explores-china-bhutan-alternative-routes-articleshow-db8tokh)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
