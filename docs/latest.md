@@ -1,31 +1,32 @@
-# India Trending Report — 2026-09-29 22:02:15
+# India Trending Report — 2026-09-29 22:36:05
 
 ## Google Trends (India) — top trending searches
-1. [marc pubill](https://trends.google.com/trending/rss?geo=IN)
-2. [somalia vs côte d'ivoire](https://trends.google.com/trending/rss?geo=IN)
-3. [scotland vs switzerland](https://trends.google.com/trending/rss?geo=IN)
-4. [spain vs croatia](https://trends.google.com/trending/rss?geo=IN)
-5. [czechia vs england](https://trends.google.com/trending/rss?geo=IN)
-6. [saudi arabia vs iraq](https://trends.google.com/trending/rss?geo=IN)
-7. [moneyview ipo allotment status](https://trends.google.com/trending/rss?geo=IN)
-8. [divya mittal ias](https://trends.google.com/trending/rss?geo=IN)
-9. [ఫహాద్ ఫాజిల్](https://trends.google.com/trending/rss?geo=IN)
-10. [nmc seat matrix 2026 neet pg](https://trends.google.com/trending/rss?geo=IN)
+1. [ivan perišić](https://trends.google.com/trending/rss?geo=IN)
+2. [marc pubill](https://trends.google.com/trending/rss?geo=IN)
+3. [somalia vs côte d'ivoire](https://trends.google.com/trending/rss?geo=IN)
+4. [scotland vs switzerland](https://trends.google.com/trending/rss?geo=IN)
+5. [spain vs croatia](https://trends.google.com/trending/rss?geo=IN)
+6. [czechia vs england](https://trends.google.com/trending/rss?geo=IN)
+7. [saudi arabia vs iraq](https://trends.google.com/trending/rss?geo=IN)
+8. [moneyview ipo allotment status](https://trends.google.com/trending/rss?geo=IN)
+9. [divya mittal ias](https://trends.google.com/trending/rss?geo=IN)
+10. [ఫహాద్ ఫాజిల్](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [At CWC, Rahul credits Cong for EC 'revelations', gives 'oppose & resist' message](https://timesofindia.indiatimes.com/india/sir-row-at-cwc-meet-rahul-gandhi-credits-congress-for-ec-revelations-gives-oppose-and-resist-message/articleshow/134570199.cms)
 - [Budgam encounter: Army kills LeT terrorist in fierce gunfight in Yousmarg](https://timesofindia.indiatimes.com/india/budgam-encounter-army-kills-let-terrorist-in-fierce-gunfight-in-yousmarg/articleshow/134573357.cms)
 - [Mehul Choksi drops damages claim against government, Hungarian woman in London HC](https://timesofindia.indiatimes.com/world/uk/mehul-choksi-drops-damages-claim-in-london-hc-against-goi-hungarian-woman-he-accused-of-kidnapping-him/articleshow/134572978.cms)
 - ['Will strain Centre-J&K ties': BJP asks chief secy to ‘throw away’ statehood resolution](https://timesofindia.indiatimes.com/india/bjp-asks-chief-secy-to-throw-away-statehood-resolution-says-it-will-strain-centre-jk-ties/articleshow/134573733.cms)
+- [India's Kaveri engine clears Russia trials, set for Ghatak stealth UCAV integration](https://timesofindia.indiatimes.com/defence/news/indias-kaveri-engine-clears-trials-in-russia-ready-for-integration-with-stealth-ucav-ghatak/articleshow/134574087.cms)
 - [15k Ladakh-grown Liliums set out for national flower markets](https://timesofindia.indiatimes.com/india/15k-ladakh-grown-liliums-set-out-for-national-flower-markets/articleshow/134573645.cms)
 - [Mark Zuckerberg, Priscilla Chan donate $4 million to save 600-year-old Hawaii fishpond](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-and-priscilla-chan-donated-4-million-to-save-a-600-year-old-hawaii-fishpond-they-wont-own-the-land-nonprofit-that-now-owns-says-we-plan-to-restore-it-as-a-working-/articleshow/134556953.cms)
-- [Trade irony amid Trump threat: Why Russia is buying its own oil as fuel from India](https://timesofindia.indiatimes.com/business/india-business/trade-irony-amid-trump-threat-why-russia-is-buying-its-own-oil-as-fuel-from-india/articleshow/134563758.cms)
+- [18 warships to be inducted in 2026, largest addition in a year in Navy’s history: Rajnath](https://timesofindia.indiatimes.com/defence/news/presence-of-indian-warships-in-south-china-sea-mediterranean-atlantic-demonstrates-indian-navys-blue-water-force-capability-rajnath/articleshow/134568261.cms)
 - [Nevada volunteers remove 120,125 pounds of waste from Truckee River watershed](https://timesofindia.indiatimes.com/world/us/more-than-575-nevada-volunteers-worked-across-26-truckee-river-watershed-sites-and-removed-120125-pounds-of-waste-in-one-day-including-2500-pounds-pulled-directly-from-the-river-and-64320-pounds-of-invasive-weeds/articleshow/134562743.cms)
-- [Delhi bus gang rape: Charge sheet mentions semen, hair strands as key evidence](https://timesofindia.indiatimes.com/city/delhi/delhi-bus-gang-rape-398-page-charge-sheet-mentions-semen-hair-strands-as-key-evidence-against-2/articleshow/134571479.cms)
+- ['Operate faster than adversary': CDS Gen Subramani stresses integrated multi-domain ops](https://timesofindia.indiatimes.com/defence/news/operate-faster-than-adversary-cds-gen-subramani-stresses-integrated-multi-domain-ops/articleshow/134574085.cms)
 - [Can’t deny employee security clearance based on kin’s antecedents: J&K high court](https://timesofindia.indiatimes.com/india/cant-deny-employee-security-clearance-based-on-kins-antecedents-jk-high-court/articleshow/134573666.cms)
 
 **NDTV**
+- [Pak Vows To Defend Saudi Against Iran-Backed Houthis By "Whatever Means"](https://www.ndtv.com/world-news/pakistan-vows-to-defend-saudi-against-iran-backed-houthis-by-whatever-means-12117178#publisher=newsstand)
 - [5 New Sites Added To India's UNESCO Tentative List For World Heritage](https://www.ndtv.com/india-news/5-new-sites-added-to-indias-unesco-tentative-list-for-world-heritage-12117131#publisher=newsstand)
 - [Trump, Tech Executives Sign "Morally Binding" AI Document](https://www.ndtv.com/world-news/donald-trump-tech-executives-sign-morally-binding-ai-document-12117085#publisher=newsstand)
 - [US Supreme Court Allows Trump's 3rd-Country Deportations](https://www.ndtv.com/world-news/us-supreme-court-allows-trumps-3rd-country-deportations-12117032#publisher=newsstand)
@@ -35,7 +36,6 @@
 - [Noida Gang Rape Survivor Tried To Escape, Bus Conductor Locked Door: Cops](https://www.ndtv.com/india-news/noida-gang-rape-survivor-tried-to-escape-bus-conductor-locked-door-cops-12116928#publisher=newsstand)
 - [INDIA Bloc To Meet Today Over Poll Body Row: Options And Gameplan](https://www.ndtv.com/india-news/india-bloc-to-meet-today-over-poll-body-row-options-and-gameplan-12116922#publisher=newsstand)
 - [Zohran Mamdani Reveals Why He Texts Trump From "Time To Time"](https://www.ndtv.com/world-news/zohran-mamdani-reveals-why-he-texts-donald-trump-from-time-to-time-12116918#publisher=newsstand)
-- [High Court Setback For Arvind Kejriwal In PM Modi Degree Case](https://www.ndtv.com/india-news/high-court-setback-for-arvind-kejriwal-in-pm-modi-degree-case-12116915#publisher=newsstand)
 
 **Hindustan Times**
 - [SC pulls up NCPCR for ‘indifferent’ implemention of 25% EWS quota](https://www.hindustantimes.com/india-news/sc-pulls-up-ncpcr-for-indifferent-implemention-of-25-ews-quota-101790708191879.html)
@@ -74,6 +74,7 @@
 - [CMC organises events to mark World Heart Day](https://www.thehindu.com/news/national/tamil-nadu/cmc-organises-events-to-mark-world-heart-day/article71524159.ece)
 
 **Livemint**
+- [University of Georgia student survives eight-storey fall after reportedly dancing on couch near open window](https://www.livemint.com/news/us-news/university-of-georgia-student-survives-eight-storey-fall-after-reportedly-dancing-on-couch-near-open-window-11790717808445.html)
 - [Russian president Putin’s secret nuclear command bunker amid tensions with West: Report](https://www.livemint.com/news/world/russian-president-putin-s-secret-nuclear-command-bunker-amid-tensions-with-west-report-11790716528490.html)
 - [UK Police Find Fuel But No Explosives at Fairford Scene](https://www.livemint.com/news/us-news/uk-police-find-fuel-but-no-explosives-at-fairford-scene-11790713318733.html)
 - [Kathua shooting: CISF Head Constable kills 4 colleagues in Jammu and Kashmir](https://www.livemint.com/news/india/kathua-shooting-cisf-head-constable-kills-4-colleagues-in-jammu-and-kashmir-11790703879092.html)
@@ -83,7 +84,6 @@
 - [WorldSkills Shanghai: Smriti Nambiar bags silver, Best of Nation award](https://www.livemint.com/news/india/worldskills-shanghai-smriti-nambiar-bags-silver-best-of-nation-award-11790702449693.html)
 - [America.gov launch: What Americans can do on Trump’s new AI-powered government website](https://www.livemint.com/news/us-news/americagov-explained-what-trump-s-new-ai-powered-government-website-can-do-11790701816059.html)
 - ['Gutkha Free’ Uber driver badge? Mumbai man’s post on civic sense sparks online debate](https://www.livemint.com/news/trends/gutkha-free-uber-driver-badge-mumbai-man-s-post-on-civic-sense-sparks-online-debate-11790699369412.html)
-- [CAQM modifies GRAP rules: Here’s what you need to know about new Delhi-NCR restrictions](https://www.livemint.com/news/india/caqm-modifies-grap-rules-here-s-what-you-need-to-know-about-new-delhi-ncr-restrictions-11790700338936.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -150,35 +150,35 @@
 - [ಕರಾವಳಿಯಲ್ಲಿ ಹೈಕೋರ್ಟ್‌ ಪೀಠ ಸ್ಥಾಪನೆ: ಪರಿಶೀಲನೆಗೆ ಸಮಿತಿ ರಚನೆ](https://eedina.com/?p=767751)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (5.2)
-- Trump (4.2)
+- India (3.9)
 - Kashmir (3.9)
-- Delhi (2.9)
+- Trump (2.9)
 - Budgam (2.6)
 - Keralam (2.6)
 - Assam (2.6)
+- Delhi (1.6)
 - Police (1.6)
 - CISF (1.6)
 - Kathua (1.6)
 - Rajasthan (1.6)
-- Rahul (1.3)
-- Cong (1.3)
 - Army (1.3)
 - Yousmarg (1.3)
+- Hungarian (1.3)
+- Centre-J (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [হৃদ্‌রোগের ঝুঁকি কমায় পাকা কলা! প্রাতরাশে, দুপুরে না রাতে, কখন কলা খাওয়া ভাল?](https://www.anandabazar.com/health-and-wellness/what-is-the-right-time-to-eat-a-banana-morning-pre-workout-or-night-dgtl/cid/1716280)
-- ['Who Heads NCPCR? How Can They Be So Indifferent?' Supreme Court Rebukes NCPCR Over 25% RTE Quota Implementation](https://www.livelaw.in/top-stories/who-heads-ncpcr-how-can-they-be-so-indifferent-supreme-court-rebukes-ncpcr-over-25-rte-quota-552277)
-- [கையில காசு இருந்த M&M, Hyundai India, Ather, TVS பங்குகளை வாங்கிப்போடுங்க, பரிந்துரைகளை வழங்கிய தரகு நிறுவனம்](https://tamil.economictimes.com/market/stocks/recommended-stocks-mm-hyundai-india-ather-tvs-leading-the-automotive-trade/articleshow/134562459.cms)
-- [धोनी-रोहित को छोड़ विराट ने किसे माना बेस्ट? इन खिलाड़ियों के आगे कांपते थे गेंदबाज! कोहली के खुलासे ने चौंकाया](https://www.aajtak.in/sports/cricket/story/virat-kohli-names-47-year-old-as-his-choice-for-six-hitting-ability-in-odi-rohit-sharma-and-ms-dhoni-name-missing-aksp-dskc-2656403-2026-09-29)
-- [PoK में पाकिस्तानी सेना की क्रूरता, LoC पार कर भारत आ सकता है जनसैलाब, बॉर्डर पार करने की हो रही बातें](https://navbharattimes.indiatimes.com/world/pakistan/pok-elections-pakistan-army-crackdown-loc-crossing-threat-rawalakot-protest-intensify/articleshow/134562433.cms)
-- [Train Accident | రైలు ఢీకొని 600 గొర్రెల మృ*తి..](https://aadabhyderabad.in/kondamadugu-train-accident-600-sheep-killed/)
-- [પંચમહાલ લેન્ડ રૅકોર્ડઝ વર્ગ-3 કર્મચારીઓની હડતાળ, વિભાગને લગતી સરકારી કામગીરી 7 દિવસથી ઠપ](https://www.gujaratsamachar.com/news/panchmahal/panchmahal-land-records-staff-indefinite-strike-grade-pay-demand-18885062978)
-- ['पिटकर जाएगा...', शहजाद पूनावाला पर गुस्साई एक्ट्रेस, Gold Digger कहे जाने पर रोई, बोली-तमाचा खाएगा](https://www.aajtak.in/entertainment/ott/story/priyanka-choudhary-traumatized-over-gold-digger-remark-heated-argument-with-shehzad-poonawala-tmovf-dskc-2656193-2026-09-29)
-- [Mumbai doctors highlight everyday habits that could be putting it under pressure](https://www.mid-day.com/lifestyle/health-and-fitness/article/world-heart-day-2026-is-your-heart-working-overtime-mumbai-doctors-tell-you-more-23652461)
-- [দিমাগী নকশালদের সঙ্গে দেখা করতে দিল্লি যাচ্ছেন মমতা, কটাক্ষ শুভেন্দুর](https://www.etvbharat.com/bn/politics/suvendu-adhikari-says-mamata-banerjee-going-to-delhi-to-meet-dimagi-naxals-wbs26092902723)
+- ['संवैधानिक व्यवस्था को तार-तार करने...', स्मृति ईरानी ने साधा कांग्रेस पर निशाना](https://www.abplive.com/news/bjp-press-conference-smriti-irani-attack-on-congress-after-cwc-meet-on-election-commission-3195382)
+- [Thackeray Brother's| 4 ऑक्टोबरला Mumbai मध्ये ठाकरे बंधूंचा भायखळा ते मुंबई पालिका मोर्चा | NDTV](https://marathi.ndtv.com/videos/thackeray-brothers-to-hold-bhaykhala-to-mumbai-municipal-march-on-october-4-in-mumbai-1166270)
+- ['पहले ही देख लिया था ये संकट...' रॉबर्ट कियोसाकी बोले- सच हो रही भविष्यवाणी](https://www.aajtak.in/business/news/story/rich-dad-poor-dad-writer-robert-kiyosaki-viral-post-baby-boomers-crisis-gold-silver-buying-tutc-dskc-2656452-2026-09-29)
+- [Faced with US ban, Canadian booze makers see yet more hurdles at home](https://www.reuters.com/business/faced-with-us-ban-canadian-booze-makers-see-yet-more-hurdles-home-2026-09-29/)
+- [एल निनो पुन्हा सक्रिय; महाराष्ट्रावर दुष्काळ अन् पाणीटंचाईचे सावट, महागाई वाढणार?](https://www.loksatta.com/research/el-nino-2026-impact-on-india-monsoon-water-shortage-drought-risk-researchdc-vp-70-6162948/)
+- [വൻ സുരക്ഷാ ആശങ്ക; 'ജിപിടി - 6.1 ആസ്ട്ര' ഉപേക്ഷിച്ചെന്ന് ഓപ്പണ്‍എഐയുടെ പ്രഖ്യാപനം](https://www.asianetnews.com/news-money/openai-cancels-gpt-61-astra-launch-over-safety-concerns-articleshow-5a88n7z)
+- [শীঘ্রই মিলবে ‘জাতীয় মেলার’ মর্যাদা? গঙ্গাসাগরে স্নান করে বড় বার্তা নিতিন নবীনের](https://bengali.indianexpress.com/west-bengal/nitin-nabin-gangasagar-mela-national-fair-status-suvendu-adhikari-12589955)
+- [Stock Market Close: Sensex falls for 2nd day, down 217 pts, Nifty at 22,716; realty pack tanks 2%](https://www.business-standard.com/markets/news/stock-market-live-updates-september-29-sensex-today-nifty50-gift-nifty-crude-oil-price-ipo-today-126092900092_1.html)
+- [Amazon Kindle Colorsoft Kids 16GB drops to $209, cover included](https://sammyguru.com/amazon-kindle-colorsoft-kids-16gb-with-cover-deal/)
+- [જેના માટે બાંગ્લાદેશે ભારત સાથે સંબંધો બગાડ્યા તે પાકિસ્તાને જ આપ્યો દગો! યુરેનિયમની સપ્લાય અટકી](https://www.gujaratsamachar.com/news/international/Pakistan-Blocks-Airspace-For-Bangladesh-Uranium-Cargo-Flight-74592249982)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
