@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-28 23:35:32
+# India Trending Report — 2026-09-29 00:02:43
 
 ## Google Trends (India) — top trending searches
-1. [टिकट](https://trends.google.com/trending/rss?geo=IN)
-2. [sl vs nep](https://trends.google.com/trending/rss?geo=IN)
-3. [france](https://trends.google.com/trending/rss?geo=IN)
-4. [dow jones](https://trends.google.com/trending/rss?geo=IN)
-5. [pio esposito](https://trends.google.com/trending/rss?geo=IN)
-6. [one ui 9 s25 ultra](https://trends.google.com/trending/rss?geo=IN)
-7. [javelin throw](https://trends.google.com/trending/rss?geo=IN)
-8. [romania vs bosnia and herzegovina](https://trends.google.com/trending/rss?geo=IN)
-9. [stock split](https://trends.google.com/trending/rss?geo=IN)
-10. [নেপাল](https://trends.google.com/trending/rss?geo=IN)
+1. [अरविंद केजरीवाल](https://trends.google.com/trending/rss?geo=IN)
+2. [टिकट](https://trends.google.com/trending/rss?geo=IN)
+3. [sri lanka vs nepal](https://trends.google.com/trending/rss?geo=IN)
+4. [france](https://trends.google.com/trending/rss?geo=IN)
+5. [dow jones](https://trends.google.com/trending/rss?geo=IN)
+6. [pio esposito](https://trends.google.com/trending/rss?geo=IN)
+7. [one ui 9 s25 ultra](https://trends.google.com/trending/rss?geo=IN)
+8. [javelin throw](https://trends.google.com/trending/rss?geo=IN)
+9. [romania vs bosnia and herzegovina](https://trends.google.com/trending/rss?geo=IN)
+10. [stock split](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -19,13 +19,14 @@
 - [Punjab's poll drug debate has old players in new roles: BJP, Cong attack; AAP defends](https://timesofindia.indiatimes.com/india/punjab-election-drug-debate-has-old-players-in-new-roles-bjp-congress-attack-as-aap-defends-its-record/articleshow/134542419.cms)
 - [FBI adds Goldy Brar to its 10 most wanted list, offers $1 million reward](https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/134549606.cms)
 - [US labor dept hints at 'total shutdown' of H-1B visa program](https://timesofindia.indiatimes.com/technology/tech-news/department-of-labor-ig-anthony-desposito-hints-at-total-shutdown-of-h-1b-via-program-says-365-days-from-now-/articleshow/134532030.cms)
-- [SC to CBSE: Exempt Class VI from 3-language education policy this year](https://timesofindia.indiatimes.com/india/sc-to-cbse-exempt-class-vi-from-3-lang-edu-policy-this-year/articleshow/134553060.cms)
+- [SC gives poll panel 3 months to decide on symbol dispute between TMC factions](https://timesofindia.indiatimes.com/india/sc-gives-poll-panel-3-months-to-decide-on-symbol-dispute-between-tmc-factions/articleshow/134553148.cms)
 - [14-year-old Georgia student scores perfect 1600 on SAT](https://timesofindia.indiatimes.com/world/us/a-14-year-old-georgia-student-scored-a-perfect-1600-on-the-sat-after-taking-college-level-courses-ashrit-talluri-of-fulton-county-achieved-the-maximum-score-while-still-in-an-age-group-far-younger-than-typical-sat-test-takers/articleshow/134516628.cms)
 - [US viral delivery driver's $700K fundraiser pulled after daughter posed as neighbour](https://timesofindia.indiatimes.com/world/us/us-81-year-old-viral-delivery-drivers-700k-fundraiser-for-wifes-cancer-treatment-pulled-after-discovering-daughter-posed-as-neighbour-to-raise-money/articleshow/134538859.cms)
+- [SC to CBSE: Exempt Class VI from 3-language education policy this year](https://timesofindia.indiatimes.com/india/sc-to-cbse-exempt-class-vi-from-3-lang-edu-policy-this-year/articleshow/134553060.cms)
 - [No stay on MDR but SC asks under what law was it imposed](https://timesofindia.indiatimes.com/india/explain-legal-basis-of-mdr-supreme-court-tells-centre/articleshow/134553051.cms)
-- [Omar Abdullah: If guns decide statehood, Pakistan will decide](https://timesofindia.indiatimes.com/india/omar-abdullah-if-guns-decide-statehood-pakistan-will-decide/articleshow/134548876.cms)
 
 **NDTV**
+- ["Hoax": Trump Denies Report On Iran Sanctions Relief](https://www.ndtv.com/world-news/donald-trump-denies-report-on-iran-sanctions-relief-12111981#publisher=newsstand)
 - [NASA Announces New Missions For Boeing Starliner Spacecraft](https://www.ndtv.com/world-news/nasa-announces-new-missions-for-boeing-starliner-spacecraft-12111929#publisher=newsstand)
 - [Netanyahu, UAE President Meet In Abu Dhabi, Discuss Bilateral Ties](https://www.ndtv.com/world-news/benjamin-netanyahu-uae-president-meet-in-abu-dhabi-discuss-bilateral-ties-12111867#publisher=newsstand)
 - ['Wars No Longer Make Sense': Pope Urges Russia, Ukraine To Sit Down And Talk](https://www.ndtv.com/world-news/pope-leo-urges-russia-ukraine-to-sit-down-and-talk-12111813#publisher=newsstand)
@@ -35,7 +36,6 @@
 - [Trump Denies Offering To Sell Arms To Xi Jinping](https://www.ndtv.com/world-news/donald-trump-denies-offering-to-sell-arms-to-xi-jinping-12111706#publisher=newsstand)
 - [Congress Moves Candidates To Secret Location Ahead Of Gandhinagar Civic Polls](https://www.ndtv.com/india-news/congress-moves-candidates-to-secret-location-ahead-of-gandhinagar-civic-polls-12111680#publisher=newsstand)
 - [Maharashtra Food Body Suspends 30 Licenses, Seizes Stock Worth A Crore](https://www.ndtv.com/india-news/maharashtra-food-body-suspends-30-licenses-seizes-stock-worth-a-crore-12111644#publisher=newsstand)
-- [From 6th-Gen Fighters To AI: 15 Biggest Takeaways From NDTV Defence Summit](https://www.ndtv.com/india-news/ndtv-defence-summit-china-pakistan-from-6th-gen-fighters-to-ai-15-biggest-takeaways-from-ndtv-defence-summit-12111614#publisher=newsstand)
 
 **Hindustan Times**
 - [Gangster Goldy Brar added to FBI's 10 Most Wanted list with $1 million reward](https://www.hindustantimes.com/india-news/gangster-goldy-brar-added-to-fbis-10-most-wanted-list-with-1-million-reward-101790632166096.html)
@@ -90,6 +90,7 @@
 - [Mumbai | ಬಾಲಿವುಡ್ ನಟಿ ರಕುಲ್ ಪ್ರೀತ್ ಸಿಂಗ್, ವಶು ಭಗ್ನಾನಿ ಮನೆ, ಕಚೇರಿಗಳ ಮೇಲೆ ಐಟಿ ದಾಳಿ](https://www.varthabharati.in/National/mumbai-it-raids-on-bollywood-actress-rakul-preet-singh-and-vashu-bhagnanis-homes-and-offices-2278776)
 
 **Asianet Kannada**
+- [ಬೆಂಗಳೂರು-ಮಂಗಳೂರು ಪ್ರಯಾಣಿಕರಿಗೆ ಗುಡ್‌ನ್ಯೂಸ್:  ಅಕ್ಟೋಬರ್ 1 ರಂದು ವಿಶೇಷ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ರೈಲು!](https://kannada.asianetnews.com/state/bengaluru-mangaluru-madgaon-special-express-train-on-october-1-rav/articleshow-uo9xw02)
 - [ದುರಂತ ಅಂತ್ಯ ಕಂಡ ತಾಯಿ ಮಗಳು, ಅಪಘಾತಕ್ಕೆ ಕಾರಣವಾಯ್ತು ಅದೊಂದು ಘಟನೆ](https://kannada.asianetnews.com/karnataka-districts/yadgir-shahapur-car-accident-mother-daughter-among-three-killed-after-tyre-burst/articleshow-1vt3h6b)
 - [Asian Gamesನಲ್ಲಿ ಹಿಂದಿನ ದಾಖಲೆ ಮುರಿಯತ್ತಾ ಭಾರತ? ಈ ಬಾರಿ ಗಳಿಸಿದ ಪದಕಗಳೆಷ್ಟು? ಫುಲ್​ ಡಿಟೇಲ್ಸ್​](https://kannada.asianetnews.com/other-sports/did-india-break-the-previous-record-in-the-asian-games-how-many-medals-did-they-win-this-time-suc/articleshow-oml25op)
 - [RCB retention list: 13 ಸ್ಟಾರ್‍‌ಗಳನ್ನ ಉಳಿಸಿಕೊಂಡ ಆರ್‌ಸಿಬಿ, ನಾಲ್ವರಿಗೆ ಗೇಟ್‌ಪಾಸ್](https://kannada.asianetnews.com/cricket-sports/wpl-2027-rcb-retention-list-13-players-retained-4-stars-released/articleshow-zgbrp4s)
@@ -99,7 +100,6 @@
 - [Bigg Bossನಿಂದ ನಟಿ ವೈಷ್ಣವಿ ಕೌಂಡಿಲ್ಯಗೆ ಸಿಕ್ಕ ಹಣವೆಷ್ಟು? ನೀವೇ ನನ್ನ ಕ್ರಷ್​ ಎಂದಾಗ ಕಿಚ್ಚ ಹೇಳಿದ್ದೇನು](https://kannada.asianetnews.com/gallery/tv-talk/how-much-money-did-vaishanavi-koundinya-in-bigg-boss-suc-lfffon0)
 - [Cricket; ಕೊಹ್ಲಿ ಶತಕ ಸಿಡಿಸಿದರೂ ರೋಹಿತ್ 32 ರನ್‌ಗಳದೇ ಸುದ್ದಿ; ಹಿಟ್‌ಮ್ಯಾನ್ ಟ್ಯಾಕ್ಟಿಕ್ಸ್ ಗ್ರಹಿಸಲು ವಿಫಲರಾದ್ರಾ ಫ್ಯಾನ್ಸ್‌?](https://kannada.asianetnews.com/cricket-sports/virat-kohli-century-rohit-sharma-32-runs-hitman-scoring-pattern-india-west-indies-odi-bmk/articleshow-sqmo0uq)
 - [ಟಾಟಾ ಸಮೂಹದಲ್ಲಿ ಭಿನ್ನಮತದ ಕಾವು: ಕೊಲ್ಲೂರು, ಶೃಂಗೇರಿಗೆ ಭೇಟಿ ನೀಡಿ ಆಶೀರ್ವಾದ ಪಡೆದ ಟಾಟಾ ಸನ್ಸ್ ಚೇರ್ಮನ್ ಎನ್. ಚಂದ್ರಶೇಖರನ್](https://kannada.asianetnews.com/karnataka-districts/tata-sons-chairman-n-chandrasekaran-kollur-mookambika-temple-visit-tata-group-dispute-san/articleshow-bq1gfeg)
-- [ಸೋದರಮಾವನ ಬಂಗಾರದ ಉಂಗುರ ಯೋಜನೆ ಜಾರಿ, ಸಿಎಂ ವಿಜಯ್ ಎಷ್ಟು ಗ್ರಾಂ ಚಿನ್ನ ಕೊಡ್ತಾರೆ?](https://kannada.asianetnews.com/india-news/tamil-nadu-cm-vijay-free-gold-ring-scheme-for-newborn-babies-details/articleshow-yrpmfpi)
 
 **News18 Kannada** — _unavailable_
 
@@ -116,7 +116,12 @@
 - [ಡಿಕೆಶಿಗೆ ಮನವಿಗೆ ರಾಜನಾಥ್ ಸಿಂಗ್ ಒಪ್ಪಿಗೆ: ಈ ಬಾರಿ ಮೈಸೂರು ದಸರಾದಲ್ಲಿ ಏರ್ ಶೋ, ಸೇನಾ ಪರೇಡ್](https://tv9kannada.com/videos/rajanath-singh-gives-permission-for-air-show-and-army-parade-in-mysuru-dasara-after-dk-shivakumar-requested-1243859.html)
 
 **Prajavani**
-- [ಮೈಸೂರು | ಅಣ್ಣನ ಮಗಳ ಮೇಲೆ ಅತ್ಯಾಚಾರ: ಚಿಕ್ಕಪ್ಪನಿಗೆ 25 ವರ್ಷ ಜೈಲು ಶಿಕ್ಷೆ](https://www.prajavani.net/district/mysuru/mysuru-pocso-court-sentence-uncle-sexual-assault-case-4294449)
+- [ಈ ದಿನದ ಪಂಚಾಂಗ: ಮಂಗಳವಾರ, 29 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/astro-vastu/panchanga/daily-panchanga-dated-on-29-september-2026-4294045)
+- [ಗುಂಡಣ್ಣ ಕಾರ್ಟೂನು: ಮಂಗಳವಾರ, 29 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/news/cartoons/gundanna-cartoon-dated-on-29-september-2026-4294086)
+- [ದಿನ ಭವಿಷ್ಯ: ಈ ರಾಶಿಯವರು ವೃತ್ತಿ ಬದುಕಿನಲ್ಲಿ ಉನ್ನತ ಸ್ಥಾನಕ್ಕೇರಲು  ಸಕಾಲ](https://www.prajavani.net/astro-vastu/horoscope/daily-horoscope-dated-on-29-september-2026-4294004)
+- [ಸುಭಾಷಿತ: ಮಹಾತ್ಮ ಗಾಂಧಿ](https://www.prajavani.net/op-ed/subhashita/prajavani-daily-subhashita-dated-on-29-september-2026-4293734)
+- [ಚಿನಕುರುಳಿ: ಮಂಗಳವಾರ, 29 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/news/cartoons/prajavani-daily-cartoon-by-prakash-shetty-31-4294238)
+- [ಸುದ್ದಿ ಗುದ್ದು | ತಿಂಗಳೇಶ: ಮಂಗಳವಾರ, 29 ಸೆಪ್ಟೆಂಬರ್ 2026](https://www.prajavani.net/news/cartoons/suddi-guddu-tingalesha-cartoon-dated-on-29-september-2026-4294250)
 
 **eedina**
 - [ಕಲಬುರಗಿ | ಎಸ್‌ಐಆರ್ ವಿರುದ್ಧ ಕಾಂಗ್ರೆಸ್ ಆಕ್ರೋಶ; ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ರಾಜೀನಾಮೆಗೆ ಆಗ್ರಹ](https://eedina.com/?p=767401)
@@ -144,22 +149,22 @@
 - Here's (2.6)
 - Maharashtra (2.2)
 - Supreme Court (2.0)
-- Punjab's (1.6)
-- Trump (1.6)
+- Trump (1.9)
+- Iran (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Asian Games 2026 Day 10: Sreeshankar, Gulveer and Esha shine as India stack up eight medals in a rousing all-round show](https://www.hindustantimes.com/sports/others/asian-games-2026-live-updates-day-10-schedule-results-medal-tally-today-28-september-latest-updates-japan-101790547512083.html)
-- [Calcutta High Court: 'যদি নির্বাচন কমিশন রাজনৈতিক দলের...,' ISF-র প্রতীক মামলায় রায় স্থগিত, হাইকোর্টে প্রশ্নের মুখে...](https://www.hindustantimes.com/bangla/bengal/calcutta-high-court-reserves-verdict-on-isf-symbol-case-271790594892518.html)
-- ['अगर SIR में गड़बड़ी है तो प्रियंका गांधी चुनाव कैसे जीतीं', चिराग पासवान का कांग्रेस से सवाल](https://www.livehindustan.com/national/chirag-paswan-questions-congress-if-irregularities-sir-how-priyanka-gandhi-win-election-201790594291894.html)
-- [Rohit Sharma : रोहित शर्मा बसमधून उतरताना पायऱ्यांवरुन पाय घसरुन पडला, विराट कोहली काळजीनं पाहात राहिला, नेमकं काय घडलं? पाहा व्हिडिओ](https://marathi.abplive.com/sports/cricket/rohit-sharma-slipped-from-the-bus-after-india-vs-west-indies-first-odi-video-viral-1440542)
-- [Defence Secretary RK Singh](https://www.ndtv.com/india-news/ndtv-defence-summit-no-sukhoi-57-decision-yet-india-bets-on-ai-networks-to-bridge-stealth-gaps-defence-secretary-rk-singh-12109376)
-- [Bullet Train Project: పేదల భూములు కొల్లగొడితే ఊరుకునేది లేదు - కేటీఆర్ ఫైర్](https://vaartha.com/telangana/brs-ktr-warning-on-bullet-train-project-and-bahadurguda-lands/782975/)
-- [आम्ही कोणासोबतही जाणार नाही, Sharad Pawar यांच्या वक्तव्यानंतर आव्हाड आणि मुश्रीफ काय म्हणाले?](https://marathi.ndtv.com/videos/after-sharad-pawar-s-statement-what-did-awhad-and-mushrif-say-about-not-joining-anyone-1165676)
-- [தாராபுரம் இடைத்தேர்தல்: பிரச்சார வாகனத்தை முற்றுகையிட்ட பொதுமக்கள்!](https://www.dinakaran.com/news/tarapuram-by-election-campaign-vehicle-public/amp)
-- [ચાંદીમાં 7000 થી વધુનો મોટો ઘટાડો, જાણો હવે કેટલી છે 1 કિલો ચાંદીની કિંમત?](https://gujarati.abplive.com/news/business/silver-price-crash-by-7000-rs-know-what-is-news-price-of-1kg-992232)
-- [NSE IPO: 3 દિવસમાં ઉચ્ચતમ સ્તરથી 6.25% તૂટ્યો શેર, શોર્ટ ટર્મમાં જોખમના સંકેત, તો લોંગ ટર્મનું રોકાણ સેફ કે અનસેફ?](https://tv9gujarati.com/photo-gallery/nse-ipo-shares-tumbled-6-15-percent-in-3-days-long-term-investment-safe-or-unsafe-1523399.html)
+- [Calcutta High Court: "নির্বাচন কমিশন কোনও একটি পক্ষের দ্বারা পরিচালিত হলে, যা হওয়ার তাই হয়েছে!" আইএসএফ-এর প্রতীক মামলায় বলল হাইকোর্ট](https://bangla.asianetnews.com/west-bengal/calcutta-high-court-reserved-order-on-isf-symbol-issue-and-raises-question-on-eci-decision-isf-symbol-dispute-anbsd/articleshow-g90btk6)
+- [നേപ്പാള്‍ പ്രളയം; മരണസംഖ്യ ഉയരുന്നു; നദികള്‍ കരകവിഞ്ഞു](https://www.suprabhaatham.com/details/472874)
+- [SIR हटाओ, देश बचाओ... ज्ञानेश कुमारांची प्रतिकात्मक धिंड; ठाण्यात जितेंद्र आव्हाडांसह राष्ट्रवादीचा संताप](https://marathi.abplive.com/news/politics/jitendra-awhad-symbolic-parade-of-gyanesh-kumar-ncp-thane-led-by-jitendra-awhad-expresses-outrage-remove-sir-save-the-country-1440544)
+- [parvathi maya got bail വിസ തട്ടിപ്പ് കേസിൽ പാർവതി മായയ്ക്ക് ജാമ്യം](https://www.asianetnews.com/kerala-news/visa-fraud-case-parvathy-maya-granted-bail-articleshow-o1a5s5y)
+- [Hyundai Bayon SUV: অবিশ্বাস্য দামে হুন্ডাইয়ের নতুন এসইউভি, দেখে নিন গাড়ির ফিচার্স](https://bangla.asianetnews.com/automobile/hyundai-bayon-suv-launch-date-price-and-features-in-india-absc/articleshow-s4qibmb)
+- [‘எல் நினோ’ தாக்கத்தால் தமிழ்நாட்டில் அடுத்த 3 வாரங்களுக்கு இயல்பைவிட வெப்பம் அதிகமாக இருக்கும்!](https://viduthalai.in/208026/%E0%AE%8E%E0%AE%B2%E0%AF%8D-%E0%AE%A8%E0%AE%BF%E0%AE%A9%E0%AF%8B-%E0%AE%A4%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%B2%E0%AF%8D-%E0%AE%A4/)
+- [Air India CEO-designate Tewolde sets safety, reliability, profitability as key priorities](https://www.moneycontrol.com/news/business/companies/air-india-ceo-designate-tewolde-sets-safety-reliability-profitability-as-key-priorities-14040203.html)
+- [தலைமைத் தேர்தல் ஆணையர் பதவி விலகலைத் தீவிரப்படுத்த செப்.30](https://viduthalai.in/208015/%E0%AE%A4%E0%AE%B2%E0%AF%88%E0%AE%AE%E0%AF%88%E0%AE%A4%E0%AF%8D-%E0%AE%A4%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D-%E0%AE%86%E0%AE%A3%E0%AF%88%E0%AE%AF%E0%AE%B0%E0%AF%8D-%E0%AE%AA-2/)
+- [ਮਿਲਾਵਟਖੋਰੀ ਵਿਰੁੱਧ ਸਿਹਤ ਵਿਭਾਗ ਦੀ ਸਖ਼ਤ ਕਾਰਵਾਈ; ਭਰੇ 300 ਤੋਂ ਵੱਧ ਸੈਂਪਲ](https://wishavwarta.in/health-department-takes-strict-action-against-adulteration/)
+- [चार महिन्यात लागणार नाव आणि निवडणूक चिन्हाच्या वादाचा निकाल; सुप्रीम कोर्टाचा नवा आदेश](https://saamtv.esakal.com/national-international/tmc-name-symbol-row-supreme-court-sets-four-month-timeline-for-tmc-name-symbol-dispute-election-commission-asked-decision-within-three-months-bbj88)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
