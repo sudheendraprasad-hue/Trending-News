@@ -1,31 +1,34 @@
-# India Trending Report — 2026-09-29 23:01:55
+# India Trending Report — 2026-09-29 23:33:47
 
 ## Google Trends (India) — top trending searches
-1. [ivan perišić](https://trends.google.com/trending/rss?geo=IN)
-2. [somalia vs côte d'ivoire](https://trends.google.com/trending/rss?geo=IN)
-3. [scotland vs switzerland](https://trends.google.com/trending/rss?geo=IN)
-4. [spain vs croatia](https://trends.google.com/trending/rss?geo=IN)
-5. [czechia vs england](https://trends.google.com/trending/rss?geo=IN)
-6. [saudi arabia vs iraq](https://trends.google.com/trending/rss?geo=IN)
-7. [moneyview ipo allotment status](https://trends.google.com/trending/rss?geo=IN)
-8. [divya mittal ias](https://trends.google.com/trending/rss?geo=IN)
-9. [ఫహాద్ ఫాజిల్](https://trends.google.com/trending/rss?geo=IN)
-10. [nmc seat matrix 2026 neet pg](https://trends.google.com/trending/rss?geo=IN)
+1. [manchester city](https://trends.google.com/trending/rss?geo=IN)
+2. [usa vs chile](https://trends.google.com/trending/rss?geo=IN)
+3. [dots](https://trends.google.com/trending/rss?geo=IN)
+4. [rizwan](https://trends.google.com/trending/rss?geo=IN)
+5. [scotland national football team vs switzerland national football team standings](https://trends.google.com/trending/rss?geo=IN)
+6. [marc pubill](https://trends.google.com/trending/rss?geo=IN)
+7. [somalia vs côte d'ivoire](https://trends.google.com/trending/rss?geo=IN)
+8. [spain vs croatia](https://trends.google.com/trending/rss?geo=IN)
+9. [czechia vs england](https://trends.google.com/trending/rss?geo=IN)
+10. [saudi arabia vs iraq](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Budgam encounter: Army kills LeT terrorist in fierce gunfight in Yousmarg](https://timesofindia.indiatimes.com/india/budgam-encounter-army-kills-let-terrorist-in-fierce-gunfight-in-yousmarg/articleshow/134573357.cms)
+- [CISF jawan kills 4 colleagues at Kathua hydel plant](https://timesofindia.indiatimes.com/india/cisf-jawan-kills-4-colleagues-at-kathua-hydel-plant/articleshow/134572873.cms)
 - [Mehul Choksi drops damages claim against government, Hungarian woman in London HC](https://timesofindia.indiatimes.com/world/uk/mehul-choksi-drops-damages-claim-in-london-hc-against-goi-hungarian-woman-he-accused-of-kidnapping-him/articleshow/134572978.cms)
+- [As US cozies up to Pakistan, India warns it could impact ties](https://timesofindia.indiatimes.com/india/as-us-cozies-up-to-pakistan-india-warns-it-could-impact-ties/articleshow/134576433.cms)
 - ['Will strain Centre-J&K ties': BJP asks chief secy to ‘throw away’ statehood resolution](https://timesofindia.indiatimes.com/india/bjp-asks-chief-secy-to-throw-away-statehood-resolution-says-it-will-strain-centre-jk-ties/articleshow/134573733.cms)
-- [Supreme Court imposes 10 lakh cost on UP government for illegal NSA detention](https://timesofindia.indiatimes.com/india/supreme-court-imposes-10-lakh-cost-on-up-government-for-illegal-nsa-detention/articleshow/134576449.cms)
-- [India's Kaveri engine clears Russia trials, set for Ghatak stealth UCAV integration](https://timesofindia.indiatimes.com/defence/news/indias-kaveri-engine-clears-trials-in-russia-ready-for-integration-with-stealth-ucav-ghatak/articleshow/134574087.cms)
 - [Mark Zuckerberg, Priscilla Chan donate $4 million to save 600-year-old Hawaii fishpond](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-and-priscilla-chan-donated-4-million-to-save-a-600-year-old-hawaii-fishpond-they-wont-own-the-land-nonprofit-that-now-owns-says-we-plan-to-restore-it-as-a-working-/articleshow/134556953.cms)
-- [15k Ladakh-grown Liliums set out for national flower markets](https://timesofindia.indiatimes.com/india/15k-ladakh-grown-liliums-set-out-for-national-flower-markets/articleshow/134573645.cms)
+- [Supreme Court imposes 10 lakh cost on UP government for illegal NSA detention](https://timesofindia.indiatimes.com/india/supreme-court-imposes-10-lakh-cost-on-up-government-for-illegal-nsa-detention/articleshow/134576449.cms)
 - [Nevada volunteers remove 120,125 pounds of waste from Truckee River watershed](https://timesofindia.indiatimes.com/world/us/more-than-575-nevada-volunteers-worked-across-26-truckee-river-watershed-sites-and-removed-120125-pounds-of-waste-in-one-day-including-2500-pounds-pulled-directly-from-the-river-and-64320-pounds-of-invasive-weeds/articleshow/134562743.cms)
-- [18 warships to be inducted in 2026, largest addition in a year in Navy’s history: Rajnath](https://timesofindia.indiatimes.com/defence/news/presence-of-indian-warships-in-south-china-sea-mediterranean-atlantic-demonstrates-indian-navys-blue-water-force-capability-rajnath/articleshow/134568261.cms)
-- ['Operate faster than adversary': CDS Gen Subramani stresses integrated multi-domain ops](https://timesofindia.indiatimes.com/defence/news/operate-faster-than-adversary-cds-gen-subramani-stresses-integrated-multi-domain-ops/articleshow/134574085.cms)
+- [‘Court must protect liberty of accused if trial may be delayed’, says Supreme Court](https://timesofindia.indiatimes.com/india/court-must-protect-liberty-of-accused-if-trial-may-be-delayed/articleshow/134576518.cms)
+- [India's Kaveri engine clears Russia trials, set for Ghatak stealth UCAV integration](https://timesofindia.indiatimes.com/defence/news/indias-kaveri-engine-clears-trials-in-russia-ready-for-integration-with-stealth-ucav-ghatak/articleshow/134574087.cms)
 
 **NDTV**
+- [Pentagon Signs $20 Billion Boeing Deal For 6th-Generation Strike Fighter](https://www.ndtv.com/world-news/pentagon-signs-20-billion-boeing-deal-for-6th-generation-strike-fighter-12117289#publisher=newsstand)
+- [Zubeen Garg Death Case: 2 Security Officers Get Relief, But Remain In Jail](https://www.ndtv.com/india-news/zubeen-garg-death-case-2-security-officers-get-relief-but-remain-in-jail-12117275#publisher=newsstand)
+- ["Much Bigger...": Trump Announces US To Rename AI To 'Super Intelligence'](https://www.ndtv.com/world-news/donald-trump-announces-us-to-rename-ai-to-super-intelligence-12117259#publisher=newsstand)
 - [Pak Vows To Defend Saudi Against Iran-Backed Houthis By "Whatever Means"](https://www.ndtv.com/world-news/pakistan-vows-to-defend-saudi-against-iran-backed-houthis-by-whatever-means-12117178#publisher=newsstand)
 - [5 New Sites Added To India's UNESCO Tentative List For World Heritage](https://www.ndtv.com/india-news/5-new-sites-added-to-indias-unesco-tentative-list-for-world-heritage-12117131#publisher=newsstand)
 - [Trump, Tech Executives Sign "Morally Binding" AI Document](https://www.ndtv.com/world-news/donald-trump-tech-executives-sign-morally-binding-ai-document-12117085#publisher=newsstand)
@@ -33,9 +36,6 @@
 - [Local Shiv Sena (UBT) Leader Dies In Thane After Firing By Unidentified Men](https://www.ndtv.com/india-news/local-shiv-sena-ubt-leader-pradeep-purnekar-dies-in-thane-after-firing-by-unidentified-men-12117002#publisher=newsstand)
 - [No Mother-Child Photo On Baby Food Packets, Orders Team Tukaram Mundhe](https://www.ndtv.com/india-news/no-mother-child-photo-on-baby-food-packets-orders-team-tukaram-mundhe-12116965#publisher=newsstand)
 - [Delhi Bans Bus Strikes For 6 Months, Commuters Get Relief](https://www.ndtv.com/india-news/delhi-bans-bus-strikes-agitations-for-6-months-commuters-get-relief-12116939#publisher=newsstand)
-- [Noida Gang Rape Survivor Tried To Escape, Bus Conductor Locked Door: Cops](https://www.ndtv.com/india-news/noida-gang-rape-survivor-tried-to-escape-bus-conductor-locked-door-cops-12116928#publisher=newsstand)
-- [INDIA Bloc To Meet Today Over Poll Body Row: Options And Gameplan](https://www.ndtv.com/india-news/india-bloc-to-meet-today-over-poll-body-row-options-and-gameplan-12116922#publisher=newsstand)
-- [Zohran Mamdani Reveals Why He Texts Trump From "Time To Time"](https://www.ndtv.com/world-news/zohran-mamdani-reveals-why-he-texts-donald-trump-from-time-to-time-12116918#publisher=newsstand)
 
 **Hindustan Times**
 - [SC pulls up NCPCR for ‘indifferent’ implemention of 25% EWS quota](https://www.hindustantimes.com/india-news/sc-pulls-up-ncpcr-for-indifferent-implemention-of-25-ews-quota-101790708191879.html)
@@ -125,7 +125,9 @@
 - [ವಿಶ್ವ ಹೃದಯ ದಿನ: ‘ಡಾ. ಪುನೀತ್ ರಾಜಕುಮಾರ್ ಹೃದಯ ಜ್ಯೋತಿ ಯೋಜನೆ’ಯಿಂದ 12,500ಕ್ಕೂ ಹೆಚ್ಚು ಜೀವ ರಕ್ಷಣೆ; ಆರೋಗ್ಯ ಇಲಾಖೆಯಿಂದ ಮಹತ್ವದ ಸಲಹೆ](https://tv9kannada.com/health/golden-hour-heart-attack-recognize-symptoms-and-act-fast-for-life-1244311.html)
 - [ಜಮ್ಮು ಕಾಶ್ಮೀರದ ಕಥುವಾದಲ್ಲಿ ಸಹೋದ್ಯೋಗಿಯಿಂದಲೇ ಗುಂಡಿನ ದಾಳಿ; ನಾಲ್ವರು ಸಿಐಎಸ್‌ಎಫ್ ಸಿಬ್ಬಂದಿ ದಾರುಣ ಸಾವು](https://tv9kannada.com/national/4-cisf-personnel-killed-after-colleague-opens-fire-at-camp-in-jammu-and-kashmirs-kathua-1244307.html)
 
-**Prajavani** — _unavailable_
+**Prajavani**
+- [ಟ್ರ್ಯಾಕ್‌ನಲ್ಲಿ ಚಿನ್ನದ ಹೊನಲು: ವನಿತೆಯರ 4X400 ಮೀ ರಿಲೆಯಲ್ಲಿ ಮಿಂಚಿದ ಭಾರತ](https://www.prajavani.net/sports/other-sports/indian-women-relay-team-wins-gold-asian-games-4296739)
+- [Asian Games athletics: ಗುಲ್ವೀರ್ ಸಿಂಗ್ ಪದಕ ‘ಹ್ಯಾಟ್ರಿಕ್’](https://www.prajavani.net/sports/other-sports/gulveer-singh-medal-hattrick-asian-games-athletics-4296866)
 
 **eedina**
 - [‘ಮುಖ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತರು ಕೂಡಲೇ ರಾಜೀನಾಮೆ ನೀಡಬೇಕು’ : ಸುರೇಶ್ ಶೆಟ್ಟಿ ಬನ್ನಂಜೆ](https://eedina.com/?p=767797)
@@ -140,35 +142,35 @@
 - [ಕರಾವಳಿಯಲ್ಲಿ ಹೈಕೋರ್ಟ್‌ ಪೀಠ ಸ್ಥಾಪನೆ: ಪರಿಶೀಲನೆಗೆ ಸಮಿತಿ ರಚನೆ](https://eedina.com/?p=767751)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (3.9)
+- India (5.2)
 - Kashmir (3.9)
+- Kathua (2.9)
 - Trump (2.9)
 - Delhi (2.9)
-- INDIA (2.9)
+- CISF (2.9)
 - Budgam (2.6)
 - Keralam (2.6)
 - Assam (2.6)
+- INDIA (2.6)
 - Odisha (2.6)
+- Court (2.2)
+- Supreme Court (2.0)
+- Relief (1.6)
 - Police (1.6)
-- CISF (1.6)
-- Kathua (1.6)
-- Rajasthan (1.6)
-- Army (1.3)
-- Yousmarg (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [தலைமைச் செயலகம் விவகாரம்: 'முதல்வருக்கு 5 நாள்கள் தான் அவகாசம்' பட்டினப்பாக்கம் மீனவர்கள் எச்சரிக்கை](https://www.etvbharat.com/ta/state/pattinapakkam-secretariat-issue-fishermen-set-a-deadline-for-the-cm-vijay-to-withdraw-govt-order-tns26092903544)
-- [IMD Heavy Rain Alert: 5 દિવસ દેશના આ રાજ્યોમાં ભારે વરસાદનું એલર્ટ, જાણો હવામાન અપડેટ](https://gujarati.abplive.com/news/india/imd-heavy-rain-alert-for-these-southern-and-northeastern-states-for-5-days-992313)
-- [অষ্টম শ্রেণিতে উঠলেই সাইকেল, মমতার ‘সবুজসাথী’কে ‘সারথি’ করলেন শুভেন্দু! পশ্চিমবঙ্গেই উৎপাদন চান, জমির প্রতিশ্রুতি](https://www.anandabazar.com/west-bengal/howrah-hooghly/the-sabooj-saathi-project-of-mamata-banerjees-government-became-sarathi-during-the-tenure-of-suvendu-adhikaris-government-dgtld/cid/1716297)
-- [அக்டோபர் 1 முதல் கூடுதல் கட்டணம்!](https://kalkionline.com/news/sbi-cash-withdrawal-rules-change-from-october-1-rs-15-fee-after-four-free-transactions)
-- [पाकव्याप्त काश्मीरमध्ये असंतोषाचा भडका; आंदोलकांची 'एलओसी' खुली करण्याची मागणी!](https://www.mahamtb.com/Encyc/2026/9/29/pok-protests-loc-open-poonch-mendhar-routes-.php)
-- [The Oppo K14 Plus is now official with an 8,000mAh battery](https://www.gsmarena.com/the_oppo_k14_plus_is_now_official_with_an_8000mah_battery-news-74815.php)
-- [Banana | হৃদযন্ত্র ভালো রাখবে পাকা কলা! কখন খাওয়া সবচেয়ে উপকারী জানেন কি?](https://uttarbangasambad.com/best-time-to-eat-bananas-health-benefits/)
-- [S Jaishankar | ఉగ్ర‌వాదంపై భార‌త్ రెడ్‌లైన్ గీసుకుంది.. అమెరికాకు జైశంక‌ర్ ఇన్‌డైరెక్ట్ వార్నింగ్‌..!](https://www.ntnews.com/national/s-jaishankar-our-main-concern-s-jaishankar-draws-red-line-on-terror-in-india-us-ties-2523069)
-- [പാലക്കാട് വീട്ടിലെ വാട്ടര്‍ ടാങ്കില്‍ വീണ് സഹോദരങ്ങള്‍ മരിച്ചു](https://www.mediaoneonline.com/kerala/palakkad-kozhinjampara-siblings-die-falling-into-water-tank-338754)
-- [പാക് വ്യോമപാത അടഞ്ഞുതന്നെ; ഇന്ത്യയുടെ അപ്രതീക്ഷിത നീക്കം, സിന്‍ജിയാങ് വഴി ബദല്‍ പാത തേടി| pakistan](https://www.asianetnews.com/news-money/pakistan-airspace-closure-india-explores-china-bhutan-alternative-routes-articleshow-db8tokh)
+- [Trump ‘surprised’ U.K. air base terror suspects out on bail](https://www.thehindu.com/news/international/trump-surprised-uk-air-base-terror-suspects-out-on-bail/article71523496.ece)
+- [Drishyam 3 Advance Booking: दृश्यम 3’च्या तिकिटांसाठी चढाओढ! 48 तासांत तिकिटांची तुफान विक्री, कमाईचा आकडा पाहून व्हाल थक्क](https://marathi.abplive.com/entertainment/drishyam-3-advance-booking-ajay-devgn-star-movie-sells-lakhs-of-tickets-in-48-hours-1440668)
+- [અમદાવાદમાં ચેતવતી ઘટના! ટ્યુશન જવા નીકળેલા બાળકનું ગળું લિફ્ટમાં ફસાઈ જતાં કરૂણ મોત! બિલ્ડર પર બેદરકારીનો આરોપ](https://www.gujaratsamachar.com/news/ahmedabad/alarming-incident-in-ahmedabad-a-child-returning-home-from-school-got-his-throat-caught-in-the-elevator-19409430763)
+- [Pakistan's Football Team Robbed: বন্দুক ঠেকিয়ে পাকিস্তানের ফুটবল টিমকে লুঠ করা হল! খাবার খাওয়ার মতোও পয়সা থাকল না](https://www.hindustantimes.com/bangla/news/pakistans-football-team-allegedly-robbed-at-gunpoint-on-balochistan-highway-sindh-official-blames-team-271790677857199.html)
+- [PAK सीमा के पास हाईवे को बनाया रनवे, सेना ने उतारे अटैक हेलिकॉप्टर](https://www.aajtak.in/defence-news/story/nh-911-near-india-pakistan-international-border-turns-into-military-runway-rptc-2656493-2026-09-29)
+- [ఉదయగిరి సభలో సీఎం చంద్రబాబు సంచలన వ్యాఖ్యలు..!](https://www.telugutimes.net/politics/navyandhra/cm-chandrababu-naidu-powerful-speech-at-udayagiri-public-meeting-422992.html)
+- [Asian Games Highlights:महिला 4x400 मीटर रिले टीम ने जीता स्वर्ण, पुरुषों को कांसा; गुलवीर-पूजा ने भी जीते पदक](https://www.amarujala.com/live/sports/asian-games-2026-live-india-eye-more-medals-shooting-and-archery-action-takes-centre-stage-squash-wrestling-2026-09-29)
+- [‘हिमाचल, पंजाब, केरल और कर्नाटक में ECI को क्लीन चिट देंगे या सवाल उठाएंगे?’ स्मृति ईरानी का कांग्रेस से सवाल](https://navbharattimes.indiatimes.com/india/bjp-smriti-irani-press-conference-election-commission-congress-voter-list-lahore-congress-session-attack/articleshow/134564121.cms)
+- [லூர்தில் பாலியல் முறைகேட்டில் இருந்து மீண்டவர்களைச் சந்தித்த திருத்தந்தை](https://www.vaticannews.va/ta/church/news/2026-09/abuse-survivors-in-lourdes-pope-listened-deeply.html)
+- [உயிரை பணயம் வைத்து குட்கா கடத்தல் கும்பலை பிடித்த காவலர்.. முதலமைச்சர் விஜய் பாராட்டு!](https://www.polimernews.com/tamilnadunews/policeman-risks-his-life-to-catch-gutka-smugglers-chief-minister-vijay-applauds-his-courage-12590567)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
