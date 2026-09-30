@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-30 00:44:58
+# India Trending Report — 2026-09-30 01:05:17
 
 ## Google Trends (India) — top trending searches
-1. [mexico vs peru](https://trends.google.com/trending/rss?geo=IN)
-2. [man city premier league](https://trends.google.com/trending/rss?geo=IN)
-3. [gpt 6.1](https://trends.google.com/trending/rss?geo=IN)
-4. [sthree sakthi kerala lottery results](https://trends.google.com/trending/rss?geo=IN)
-5. [braves vs phillies](https://trends.google.com/trending/rss?geo=IN)
-6. [ధర](https://trends.google.com/trending/rss?geo=IN)
-7. [usa vs chile](https://trends.google.com/trending/rss?geo=IN)
-8. [dots](https://trends.google.com/trending/rss?geo=IN)
-9. [rizwan](https://trends.google.com/trending/rss?geo=IN)
-10. [scotland national football team vs switzerland national football team standings](https://trends.google.com/trending/rss?geo=IN)
+1. [east champaran floods](https://trends.google.com/trending/rss?geo=IN)
+2. [brent crude price](https://trends.google.com/trending/rss?geo=IN)
+3. [mexico vs peru](https://trends.google.com/trending/rss?geo=IN)
+4. [man city premier league](https://trends.google.com/trending/rss?geo=IN)
+5. [gpt 6.1](https://trends.google.com/trending/rss?geo=IN)
+6. [sthree sakthi kerala lottery results](https://trends.google.com/trending/rss?geo=IN)
+7. [braves vs phillies](https://trends.google.com/trending/rss?geo=IN)
+8. [ధర](https://trends.google.com/trending/rss?geo=IN)
+9. [usa vs chile](https://trends.google.com/trending/rss?geo=IN)
+10. [dots](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -23,9 +23,12 @@
 - [India warns US about cosying up to Pakistan, says could impact ties](https://timesofindia.indiatimes.com/india/as-us-cozies-up-to-pakistan-india-warns-it-could-impact-ties/articleshow/134576433.cms)
 - [Nevada volunteers remove 120,125 pounds of waste from Truckee River watershed](https://timesofindia.indiatimes.com/world/us/more-than-575-nevada-volunteers-worked-across-26-truckee-river-watershed-sites-and-removed-120125-pounds-of-waste-in-one-day-including-2500-pounds-pulled-directly-from-the-river-and-64320-pounds-of-invasive-weeds/articleshow/134562743.cms)
 - [INDIA bloc to meet today to finalise plan for anti-SIR agitation](https://timesofindia.indiatimes.com/india/india-bloc-to-meet-today-to-finalise-plan-for-anti-sir-agitation/articleshow/134576666.cms)
-- [Supreme Court to hear plea for CEC’s suspension, voiding SIR next week](https://timesofindia.indiatimes.com/india/supreme-court-to-hear-plea-for-cecs-suspension-voiding-sir-next-week/articleshow/134576542.cms)
+- [‘Nitish wouldn’t have gone to BJP’: Digvijaya’s CWC claim draws sharp Kharge rebuttal](https://timesofindia.indiatimes.com/india/if-appeased-nitish-wouldnt-have-defected-says-digvijay-singh/articleshow/134576883.cms)
 
 **NDTV**
+- [US Forces Exit Iraq Amid Rising Fears Of ISIS Resurgence](https://www.ndtv.com/world-news/us-forces-exit-iraq-amid-rising-fears-of-isis-resurgence-12117331#publisher=newsstand)
+- ['Entire Government In Your Hand': Trump Launches America.gov Portal](https://www.ndtv.com/world-news/donald-trump-launches-america-gov-portal-12117314#publisher=newsstand)
+- [After LPU Protests, Police Step Up Campus Outreach In Amritsar, Ludhiana](https://www.ndtv.com/india-news/after-lpu-protests-police-step-up-campus-outreach-in-amritsar-ludhiana-12117300#publisher=newsstand)
 - [Pentagon Signs $20 Billion Boeing Deal For 6th-Generation Strike Fighter](https://www.ndtv.com/world-news/pentagon-signs-20-billion-boeing-deal-for-6th-generation-strike-fighter-12117289#publisher=newsstand)
 - [Zubeen Garg Death Case: 2 Security Officers Get Relief, But Remain In Jail](https://www.ndtv.com/india-news/zubeen-garg-death-case-2-security-officers-get-relief-but-remain-in-jail-12117275#publisher=newsstand)
 - ["Much Bigger...": Trump Announces US To Rename AI To 'Super Intelligence'](https://www.ndtv.com/world-news/donald-trump-announces-us-to-rename-ai-to-super-intelligence-12117259#publisher=newsstand)
@@ -33,9 +36,6 @@
 - [5 New Sites Added To India's UNESCO Tentative List For World Heritage](https://www.ndtv.com/india-news/5-new-sites-added-to-indias-unesco-tentative-list-for-world-heritage-12117131#publisher=newsstand)
 - [Trump, Tech Executives Sign "Morally Binding" AI Document](https://www.ndtv.com/world-news/donald-trump-tech-executives-sign-morally-binding-ai-document-12117085#publisher=newsstand)
 - [US Supreme Court Allows Trump's 3rd-Country Deportations](https://www.ndtv.com/world-news/us-supreme-court-allows-trumps-3rd-country-deportations-12117032#publisher=newsstand)
-- [Local Shiv Sena (UBT) Leader Dies In Thane After Firing By Unidentified Men](https://www.ndtv.com/india-news/local-shiv-sena-ubt-leader-pradeep-purnekar-dies-in-thane-after-firing-by-unidentified-men-12117002#publisher=newsstand)
-- [No Mother-Child Photo On Baby Food Packets, Orders Team Tukaram Mundhe](https://www.ndtv.com/india-news/no-mother-child-photo-on-baby-food-packets-orders-team-tukaram-mundhe-12116965#publisher=newsstand)
-- [Delhi Bans Bus Strikes For 6 Months, Commuters Get Relief](https://www.ndtv.com/india-news/delhi-bans-bus-strikes-agitations-for-6-months-commuters-get-relief-12116939#publisher=newsstand)
 
 **Hindustan Times**
 - [SC pulls up NCPCR for ‘indifferent’ implemention of 25% EWS quota](https://www.hindustantimes.com/india-news/sc-pulls-up-ncpcr-for-indifferent-implemention-of-25-ews-quota-101790708191879.html)
@@ -62,6 +62,7 @@
 - [ಹೌದು ನನ್ನ ಬಳಿ 1400 ಕೋಟಿ ರೂ. ಆಸ್ತಿ ಇದೆ; ಅಣ್ಣ ತಮ್ಮನನ್ನೇ ಬಿಡದ ಕುಮಾರಸ್ವಾಮಿ ನನ್ನ ಸಹಿಸಿಕೊಳ್ಳುತ್ತಾರಾ? - ಡಿಕೆ ಶಿವಕುಮಾರ್](https://vijaykarnataka.com/news/karnataka/yes-i-possess-assets-worth-rs-1400-crore-hd-kumaraswamy-tolerate-me-cm-dk-shivakumar-reacts/articleshow/134570714.cms)
 
 **The Hindu**
+- [From Kannur to Ny-Alesund, researcher tracks pollutants into the Arctic](https://www.thehindu.com/news/national/andhra-pradesh/from-kannur-to-ny-alesund-researcher-tracks-pollutants-into-the-arctic/article71525281.ece)
 - [T.N. government proposes memorial for 5 icons on University Union Grounds at Chetpet in Chennai, sports teachers object](https://www.thehindu.com/news/national/tamil-nadu/tn-government-proposes-memorial-for-5-icons-on-university-union-grounds-at-chepet-in-chennai-sports-teachers-object/article71525294.ece)
 - [Mamata in Delhi to participate in INDIA bloc meetings, Suvendu takes a dig](https://www.thehindu.com/news/national/west-bengal/mamata-in-delhi-to-participate-in-india-bloc-meetings-suvendu-takes-a-dig/article71524694.ece)
 - [INDIA bloc announces Odisha bandh on October 8 over new mining law, other issues](https://www.thehindu.com/news/national/odisha/india-bloc-announces-odisha-bandh-on-october-8-over-new-mining-law-other-issues/article71523588.ece)
@@ -71,7 +72,6 @@
 - [Hundreds of fishermen protest against Secretariat proposal at Foreshore Estate](https://www.thehindu.com/news/cities/chennai/hundreds-of-fishermen-protest-against-secretariat-proposal-at-foreshore-estate/article71525230.ece)
 - [Highly educated professionals are vulnerable to financial cybercrime, finds IIT-Madras study](https://www.thehindu.com/news/national/tamil-nadu/highly-educated-professionals-are-vulnerable-to-financial-cybercrime-finds-iit-madras-study/article71524692.ece)
 - [Terrorist killed in ongoing operation in Kashmir’s Budgam](https://www.thehindu.com/news/national/jammu-and-kashmir/terrorist-killed-in-ongoing-operation-in-kashmirs-budgam/article71525620.ece)
-- [New pedestrian subway on Chennai - Bengaluru Highway in Vellore will be ready by October, says NHAI](https://www.thehindu.com/news/national/tamil-nadu/new-pedestrian-subway-on-chennai-bengaluru-highway-in-vellore-will-be-ready-by-october-says-nhai/article71524185.ece)
 
 **Livemint**
 - [Govt may hike outlay under two key tax refund schemes for exporters to  ₹2 trillion over five years](https://www.livemint.com/news/india/govt-outlay-hike-two-tax-refund-schemes-exporters-2-trillion-five-years-11790680288540.html)
@@ -127,15 +127,15 @@
 
 **Prajavani**
 - [ಔಷಧ: ಲಾಭಕ್ಕಾಗಿ ‘ಹತ್ಯಾಕಾಂಡ’](https://www.prajavani.net/news/india-news/supreme-court-slams-high-medicine-prices-and-hospital-profits-4296497)
-- [ನಗರದಲ್ಲಿ ಇಂದು: ಬೆಂಗಳೂರು ನಗರದ ಇಂದಿನ ಕಾರ್ಯಕ್ರಮಗಳು](https://www.prajavani.net/district/bengaluru-city/bengaluru-today-events-cultural-programs-list-4296777)
 - [‘ಡಿಕೆ ಕುಟುಂಬಕ್ಕೆ ‘ನೈಸ್‌’ ನೋಟಿಫಿಕೇಷನ್‌ ಜಮೀನು’](https://www.prajavani.net/news/karnataka-news/kumaraswamy-alleges-dk-shivakumar-family-nice-land-scam-4296712)
 - [ಪ್ರಶ್ನೋತ್ತರ: ಪೋರ್ಟ್‌ಫೋಲಿಯೊ ಟರ್ನ್‌ಒವರ್ ರೇಷ್ಯೊ ಅಂದರೆ ಏನು?](https://www.prajavani.net/business/prashnottara/what-is-portfolio-turnover-ratio-mutual-fund-explained-4295649)
 - [ಬರದ ಹೊತ್ತು ರಾಜಕಾರಣ ಸಲ್ಲ: ಪ್ರತಿಪಕ್ಷಗಳ ಸಹಕಾರ ಅತ್ಯಗತ್ಯ](https://www.prajavani.net/op-ed/editorial/karnataka-drought-relief-opposition-parties-cooperation-essential-4296248)
+- [ನಗರದಲ್ಲಿ ಇಂದು: ಬೆಂಗಳೂರು ನಗರದ ಇಂದಿನ ಕಾರ್ಯಕ್ರಮಗಳು](https://www.prajavani.net/district/bengaluru-city/bengaluru-today-events-cultural-programs-list-4296777)
 - [ವಾಚಕರ ವಾಣಿ: ಪ್ರಜಾವಾಣಿ ಓದುಗರ ಈ ದಿನದ ಪತ್ರಗಳು](https://www.prajavani.net/op-ed/readers-letter/public-opinions-karnataka-social-civic-issues-4295916)
+- [ಏಷ್ಯನ್‌ ಗೇಮ್ಸ್‌ ಮಹಿಳಾ ಹಾಕಿ: ಫೈನಲ್‌ ಟಿಕೆಟ್‌ಗೆ ಭಾರತ–ಕೊರಿಯಾ ಸೆಣಸು](https://www.prajavani.net/sports/other-sports/india-vs-south-korea-womens-hockey-asian-games-semifinal-4296819)
 - [ಪ್ರಸಾದವೇ ವಿಷವಾದರೆ!](https://www.prajavani.net/op-ed/churumuri/fake-medicine-concerns-and-high-drug-prices-4296276)
 - [ಖರೀದಿದಾರರಿಗೂ ವಿಚಾರಣೆ ಬಿಸಿ](https://www.prajavani.net/district/bengaluru-city/fake-medicine-racket-sit-investigation-hospitals-doctors-notice-4296380)
 - [ಸಾಮಾಜಿಕ ಸ್ವಾಸ್ಥ್ಯಕ್ಕೆ ಓದುವ ಸಂಸ್ಕೃತಿ](https://www.prajavani.net/op-ed/opinion/reading-culture-and-social-health-4296257)
-- [75 ವರ್ಷಗಳ ಹಿಂದೆ: ಪ್ರಥಮ ‘ಮಾದರಿ’ ಚುನಾವಣೆ](https://www.prajavani.net/op-ed/prajavani-archive/thippagondanahalli-mock-election-history-karnataka-4296264)
 
 **eedina**
 - [‘ಮುಖ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತರು ಕೂಡಲೇ ರಾಜೀನಾಮೆ ನೀಡಬೇಕು’ : ಸುರೇಶ್ ಶೆಟ್ಟಿ ಬನ್ನಂಜೆ](https://eedina.com/?p=767797)
@@ -153,32 +153,32 @@
 - India (5.2)
 - INDIA (3.9)
 - Kashmir (3.9)
+- Trump (3.2)
 - Kathua (2.9)
-- Trump (2.9)
 - CISF (2.9)
 - Budgam (2.6)
 - Keralam (2.6)
 - Assam (2.6)
-- Chennai (2.6)
 - Odisha (2.6)
-- October (2.6)
+- Police (1.9)
 - Bigger (1.6)
-- Relief (1.6)
-- Delhi (1.6)
+- University (1.6)
+- Rajasthan (1.6)
+- Army (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [5 డేస్ ప్యారడైజ్ టోటల్ కలెక్షన్స్….వర్కింగ్ డే టెస్ట్ రిజల్ట్ ఇదే!!](https://t2blive.com/5days-paradise-ww-total-collections/)
-- [అరుణాచల్‌ ప్రదేశ్‌లో భారత సైన్యంపై ఉగ్రదాడి.. జవాన్ మృతి](https://www.andhrajyothy.com/2026/national/arunachal-assam-rifles-attack-jawan-killed-1562576.html)
-- [বাবা হলেন গায়ক জুবিন নটিয়াল](https://www.aaroananda.com/story/entertainment-news/in-focus/jubin-nautiyal-welcomes-baby-boy-five-months-after-marriage/11021929)
-- [প্যারিস ফ্যাশন উইকের মঞ্চে ঐশ্বর্য্য](https://www.aaroananda.com/story/entertainment-news/in-focus/aishwarya-rai-bachchan-shines-at-paris-fashion-week-2026/11021928)
-- [‘ভিন্ন রাজনীতি, কিন্তু ইতিবাচক সাড়া পেয়েছি’, অগ্নিমিত্রার সঙ্গে দেখা করে অবোলাদের জন্য কী কী ভাবনা শ্রীলেখার?](https://www.anandabazar.com/entertainment/sreelekha-mitra-says-she-receives-positive-response-from-agnimitra-paul-while-talking-about-the-welfare-of-the-stray-animals-dgtl/cid/1716337)
-- [9 Pak Soldiers Killed After First Woman Unit Of Baloch Rebels Attacks Convoy](https://www.ndtv.com/world-news/9-pakistan-soldiers-killed-after-first-woman-unit-of-balochistan-rebels-attack-convoy-12114860)
-- [‘દેશના 4 રાજ્યોમાં ભાજપ સરકાર નથી, ત્યાં ચૂંટણી પંચ સારું?’ રાહુલ ગાંધીના આરોપો મુદ્દે સ્મૃતિ ઈરાનીનો જવાબ](https://www.gujaratsamachar.com/news/national/is-the-election-commission-right-in-karnataka-punjab-and-himachal-smriti-irani-questions-rahul-gandhi-37824125897)
-- [Asian Games 2026: শেষবেলায় বড় সাফল্য, এশিয়ান গেমসের অ্যাথলেটিক্সে প্রথম সোনা জয় ভারতের](https://bengali.abplive.com/sports/asian-games-2026-india-win-first-athletics-medal-in-4x400m-relay-1194592)
-- ['എക്കാലത്തെയും മികച്ച ബാറ്റർ'; കോഹ്‌ലിയുടെ മാസ്റ്റർക്ലാസ് ഇന്നിംഗ്സിനെ വാനോളം പുകഴ്ത്തി ഇയാൻ ബിഷപ്പ്](https://malayalam.mykhel.com/cricket/virat-kohli-masterclass-ian-bishop-hails-him-as-all-time-great-after-15000-odi-runs-011-114603.html)
-- [उर्वशी रौतेलाचा अमेरिकन AI कंपनीला दणका; तब्बल 7 हजार कोटींच्या नुकसानभरपाईची मागणी](https://www.tv9marathi.com/entertainment/actress-urvashi-rautela-team-legal-action-against-american-ai-company-1767487.html)
+- [‘PM મોદી જ CEC જ્ઞાનેશ કુમારનું રાજીનામું લેશે’ CWCની બેઠકમાં રાહુલ ગાંધીનો દાવો, 3 પ્રસ્તાવ રજૂ કર્યા](https://www.gujaratsamachar.com/news/national/cec-gyanesh-kumar-must-resign-otherwise-the-agitation-will-continue-rahul-gandhi-said-in-cwc-targeted-pm-modi-17851100408)
+- [Migrants Face Gaps in Infection Care Across Europe](https://www.emjreviews.com/general-healthcare/news/migrants-face-higher-burden-of-transmissible-disease-says-ecdc/)
+- [ഏഷ്യന്‍ ഗെയിംസ്‌ അത്‌ലറ്റിക്‌സില്‍ ഇന്ത്യക്ക്‌ സ്വര്‍ണം, അഭിമാന നേട്ടം വനിതകളുടെ റിലേയില്‍](https://www.asianetnews.com/other-sports/first-athletics-gold-for-india-in-asian-games-women-relay-articleshow-ucaoh48)
+- [ईरानी सिंगर को कोड़े मारने की सज़ा बरक़रार, आख़िर उस कन्सर्ट में हुआ क्या था?](https://www.bbc.com/hindi/articles/c6n45kj7ej3wo)
+- [यूएई ने इसराइली पीएम नेतन्याहू के 'गोपनीय' दौरे की पुष्टि की](https://www.bbc.com/hindi/articles/cq5yj13lnl59o)
+- ['জীবনের ভুলের জন্য অনুতাপ ছিল’, অনুশোচনা ভুলে তাপসের জন্মদিনে ভালো দিকগুলিই মনে রাখতে চান নন্দিনী](https://bengali.indianexpress.com/entertainment/tapas-paul-birthday-wife-nandini-mukherjee-emotional-post-12589736)
+- [The New Polaroid Mod is For Photographers Who Want to Get Creative With Analog](https://petapixel.com/2026/09/29/the-new-polaroid-mod-is-for-photographers-who-want-to-get-creative-with-analog/)
+- [Contractual Teachers Agitation : ৩০ ঘণ্টারও বেশি সময় ধরে অবস্থানে চুক্তিভিত্তিক শিক্ষকরা, 'যতদিন না সমাধান পাব, এখানেই বসে থাকব'](https://bengali.abplive.com/district/contractual-computer-teachers-hold-sit-in-agitation-for-several-hours-near-bikash-bhavan-meeting-with-minister-is-on-1194597)
+- [Narmada Dam Water Level: નર્મદા ડેમ સંપૂર્ણ ભરાવાથી માત્ર 1 સેન્ટિમીટર દૂર](https://www.gujaratfirst.com/narmada/narmada-dam-water-level-138-67-meter-one-cm-away-full-capacity/342703/)
+- [Asian Games: 4x400 मीटर रिले शर्यतीत भारतीय रणरागिणींची ‘सुवर्णदौड’! अखेरच्या क्षणी बहरीनला धूळ चारत जिंकले ऐतिहासिक गोल्ड मेडल](https://pudhari.news/sports/asian-games-2026-india-won-the-gold-medal-in-women-4x400m-relay-race-rg84)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
