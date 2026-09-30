@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-30 23:02:01
+# India Trending Report — 2026-09-30 23:34:56
 
 ## Google Trends (India) — top trending searches
-1. [gemini 4](https://trends.google.com/trending/rss?geo=IN)
-2. [nitin gadkari](https://trends.google.com/trending/rss?geo=IN)
-3. [ronaldo](https://trends.google.com/trending/rss?geo=IN)
-4. [google fitbit air india](https://trends.google.com/trending/rss?geo=IN)
-5. [nike](https://trends.google.com/trending/rss?geo=IN)
-6. [united arab emirates vs qatar](https://trends.google.com/trending/rss?geo=IN)
-7. [one ui 9](https://trends.google.com/trending/rss?geo=IN)
-8. [quinton de kock](https://trends.google.com/trending/rss?geo=IN)
-9. [mitchell starc](https://trends.google.com/trending/rss?geo=IN)
-10. [roma vs barcelona](https://trends.google.com/trending/rss?geo=IN)
+1. [pak vs ban](https://trends.google.com/trending/rss?geo=IN)
+2. [argentina vs bolivia](https://trends.google.com/trending/rss?geo=IN)
+3. [gemini 4](https://trends.google.com/trending/rss?geo=IN)
+4. [nitin gadkari](https://trends.google.com/trending/rss?geo=IN)
+5. [ronaldo](https://trends.google.com/trending/rss?geo=IN)
+6. [google fitbit air india](https://trends.google.com/trending/rss?geo=IN)
+7. [nike](https://trends.google.com/trending/rss?geo=IN)
+8. [united arab emirates vs qatar](https://trends.google.com/trending/rss?geo=IN)
+9. [one ui 9](https://trends.google.com/trending/rss?geo=IN)
+10. [quinton de kock](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -18,12 +18,12 @@
 - ['Receiving necessary medical attention': Embassy updates on Indian Flydubai pilot](https://timesofindia.indiatimes.com/world/middle-east/flydubai-flight-incident-netanyahu-says-israel-preparing-for-other-potential-threats-top-developments/articleshow/134595815.cms)
 - [Is it time for Congress and INDIA bloc to take a leaf out of CJP's playbook?](https://timesofindia.indiatimes.com/india/protests-against-sir-cec-is-it-time-for-congress-and-india-bloc-to-take-a-leaf-out-of-cjps-playbook/articleshow/134597912.cms)
 - [Tata Trusts file caveat before Maharashtra charity commissioner](https://timesofindia.indiatimes.com/business/india-business/tata-trusts-file-caveat-before-maharashtra-charity-commissioner/articleshow/134604331.cms)
-- [Captain Machchhar: The pilot from Mumbai who proved to be the hero](https://timesofindia.indiatimes.com/india/captain-machchhar-the-pilot-from-mumbai-who-proved-to-be-the-hero/articleshow/134602233.cms)
+- [Congress to replace Warring as Punjab chief; Singla seen as frontrunner for post](https://timesofindia.indiatimes.com/city/chandigarh/congress-to-replace-warring-as-punjab-chief-singla-frontrunner-for-post/articleshow/134602259.cms)
 - [In 2018, Musk gave $480,350 for Flint school filters; students drink from fountains](https://timesofindia.indiatimes.com/technology/tech-news/in-2018-elon-musk-donated-480350-for-flint-school-water-filters-four-years-later-redesigned-systems-allowed-students-to-drink-from-fountains-again-after-years-of-relying-on-alternative-supplies/articleshow/134585828.cms)
-- [Amid SIR row, INDIA bloc puts up united front, targets PM Modi, Shah](https://timesofindia.indiatimes.com/india/amid-sir-row-india-bloc-puts-up-united-front-targets-pm-modi-shah/articleshow/134605309.cms)
+- [He built device to make drinking water from air; 3 years later, won Chemistry Nobel](https://timesofindia.indiatimes.com/science/discovery/in-2022-he-built-a-pocket-sized-device-to-extract-drinking-water-from-the-air-in-death-valley-using-only-sunlight-in-2025-he-won-the-nobel-prize-in-chemistry/articleshow/134591079.cms)
 - [5 money changes in Oct: Bulk FD rates, UPI MDR, SBI ATM limit cut, LPG KYC & more](https://timesofindia.indiatimes.com/business/india-business/5-money-rule-changes-from-october-2026-bulk-fd-rates-upi-mdr-starts-above-rs-2000-sbi-atm-free-limit-falls-to-5-lpg-aadhaar-kyc-new-nps-charges/articleshow/134587809.cms)
-- ['It was like a horror film': How Flydubai pilot was restrained with headphones](https://timesofindia.indiatimes.com/world/middle-east/it-was-like-a-horror-film-israeli-passenger-recounts-restraining-flydubai-pilot-with-headphones-after-cockpit-struggle/articleshow/134600343.cms)
-- [Second full EC meet in 5 days, SIR extended again in Andhra Pradesh, Meghalaya](https://timesofindia.indiatimes.com/india/second-full-ec-meet-in-5-days-sir-extended-again-in-andhra-pradesh-meghalaya/articleshow/134605368.cms)
+- [US troops finally leave Iraq 23 years after Saddam’s fall](https://timesofindia.indiatimes.com/world/us/us-troops-finally-leave-iraq-23-years-after-saddams-fall-america-closes-a-long-chapter/articleshow/134598216.cms)
+- [Captain Machchhar: The pilot from Mumbai who proved to be the hero](https://timesofindia.indiatimes.com/india/captain-machchhar-the-pilot-from-mumbai-who-proved-to-be-the-hero/articleshow/134602233.cms)
 
 **NDTV**
 - [India Embassy In Saudi Says Injured Captain Smit Machchhar Is "Stable"](https://www.ndtv.com/world-news/india-embassy-in-saudi-says-injured-captain-smit-machchhar-is-stable-12122657#publisher=newsstand)
@@ -132,9 +132,6 @@
 - [ಮಾಗಡಿ | ಮಳೆಯಿಂದ ಕೊಚ್ಚಿ ಹೋದ ರಸ್ತೆ: ಸಂಪರ್ಕ ಕಡಿತ](https://www.prajavani.net/district/bangaluru-rural/magadi-heavy-rain-road-damage-connectivity-cut-off-4299418)
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಕುಸ್ತಿ: ಸುನಿಲ್ ಕುಮಾರ್‌ಗೆ ಕಂಚು](https://www.prajavani.net/sports/other-sports/sunil-kumar-wins-bronze-in-asian-games-wrestling-4299262)
 - [ಏಷ್ಯನ್ ಕ್ರೀಡೆಗಳ ಶೂಟಿಂಗ್‌ ಸ್ಪರ್ಧೆ: ನೀರೂ– ಕೈನನ್‌ಗೆ ಒಲಿದ ಚಿನ್ನ](https://www.prajavani.net/sports/other-sports/neeru-dhanda-kynan-chenai-win-gold-in-asian-shooting-championships-4299224)
-- [ಧಾನ್ಯ, ಎಣ್ಣೆಕಾಳುಗಳನ್ನು ಕನಿಷ್ಠ ಬೆಂಬಲ ಬೆಲೆ ಅಡಿ ಖರೀದಿಗೆ ಕೇಂದ್ರ ಒಪ್ಪಿಗೆ](https://www.prajavani.net/business/commerce-news/central-government-approves-msp-procurement-karnataka-oilseeds-grains-4299066)
-- [ಕೆಪಿಎಸ್‌ಸಿ ಅಕ್ರಮ: ಪರೀಕ್ಷೆ ಮುನ್ನಾ ದಿನ ಪ್ರಶ್ನೆಪತ್ರಿಕೆ ಸೋರಿಕೆ](https://www.prajavani.net/news/karnataka-news/kpsc-veterinary-officer-exam-question-paper-leak-ed-investigation-4298743)
-- [ಅನುದಾನ ಇಲ್ಲದೆ ಅನುಮೋದನೆ ಕೊಟ್ಟಿದ್ದು ಯಾಕೆ?: ಪ್ರಿಯಾಂಕ್ ಖರ್ಗೆ](https://www.prajavani.net/news/karnataka-news/priyank-kharge-questions-bjp-on-project-approvals-without-grants-4299074)
 - [ಬೆಳಗಾವಿ ಮಹಾನಗರ ಪಾಲಿಕೆ | ಮಹಾಜನ್‌ ವರದಿಯೇ ಅಂತಿಮ: ನಿರ್ಣಯ ಅಂಗೀಕಾರ](https://www.prajavani.net/district/belagavi/belagavi-city-corporation-approves-resolution-on-mahajan-report-finality-4298949)
 
 **eedina**
@@ -151,34 +148,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - Indian (6.8)
-- Meghalaya (2.9)
+- Congress (3.9)
+- Iraq (3.9)
+- Punjab (2.9)
 - Trump (2.9)
 - flydubai (2.7)
-- Congress (2.6)
-- INDIA (2.6)
 - Visakhapatnam (2.6)
-- Iraq (2.6)
 - Bengaluru (2.6)
 - MRPL (2.6)
-- Andhra Pradesh (2.0)
 - Kerala (1.9)
-- pilot (1.8)
 - Netanyahu (1.6)
 - Embassy (1.6)
+- Meghalaya (1.6)
+- Pilot (1.6)
+- Delhi (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Drishyam 3 Cast Fees: How Much Ajay Devgn, Tabu And Shriya Saran Are Charging For The Film](https://www.ndtv.com/entertainment/drishyam-3-cast-fees-how-much-ajay-devgn-tabu-and-shriya-saran-are-charging-for-the-film-12119753)
-- [ఆ బాధ్యత మాదే - చంద్రబాబు కీలక ప్రకటన..!!](https://telugu.oneindia.com/news/andhra-pradesh/cm-chandra-babu-says-govt-committed-for-development-of-poor-says-will-implement-all-promises-to-the-508637.html)
-- [சுகன்யா சம்ரித்தி யோஜனா வட்டி உயர்த்த அரசு முடிவா.. உங்கள் மகளுக்கு ரூ.50 லட்சம் சேமிக்க நல்ல சான்ஸ்!](https://tamil.economictimes.com/personal-finance/sukanya-samriddhi-yojana-offers-82-interest-a-chance-to-save-50-lakhs-for-your-daughter/articleshow/134591574.cms)
-- [European Smile spacecraft captures massive aurora storm on top of Earth](https://www.indiatoday.in/amp/science/story/smile-spacecraft-aurora-ring-solar-wind-earth-magnetic-field-esa-china-3006517-2026-09-30)
-- [Bihar MLC Election: 8 सीटों के लिए NDA ने कसी कमर, BJP दफ्तर में जुटे घटक दल... क्या है 'जीत' का पूरा प्लान?](https://www.jagran.com/bihar/patna-city-bihar-mlc-election-8-seats-nda-election-strategy-bjp-office-meeting-40390095.html)
-- [Drishyam 3 Box Office: Ajay Devgn vs Ajay Devgn! Vijay Salgaonkar needs just Rs. 201.60 cr. to dethrone Singham from Top 10 franchises](https://www.bollywoodhungama.com/news/box-office-special-features/drishyam-3-box-office-ajay-devgn-vs-ajay-devgn-vijay-salgaonkar-needs-just-rs-201-60-cr-to-dethrone-singham-from-top-10-franchises/)
-- [তালাশ বিডি । অন্যায়ের বিরুদ্ধে সাহসী মুখপাত্র](https://talashbd.com/news/477850044614871)
-- [ज्ञानेश कुमार के खिलाफ महाभियोग का प्रस्ताव, SIR के मुद्दे पर हुई I.N.D.I.A. गठबंधन की बैठक](https://www.indiatv.in/india/politics/strategy-against-cec-gyanesh-kumar-and-sir-issue-india-alliance-meeting-live-updates-2026-09-30-1246160)
-- [ஜெம் வீரமணி வழக்கை சிபிஐ விசாரணைக்கு மாற்ற உயர் நீதிமன்றம் மறுப்பு](https://www.hindutamil.in/news/tamilnadu/high-court-refuses-to-transfer-gem-veeramani-case-to-cbi)
-- [Flydubai Flight: वैमानिकांमध्येच हाणामारी, फ्लाई दुबईच्या विमानात मोठा अनर्थ टळला](https://marathi.asianetnews.com/world/flydubai-flight-makes-emergency-landing-in-saudi-arabia-after-pilots-fight/articleshow-d827e7e)
+- [Nandigram By Election 2026 : জেল থেকে ছাড়া পেয়েই চাঞ্চল্যকর অভিযোগ নন্দীগ্রামের কংগ্রেস প্রার্থীর, '৩ তলা থেকে...'](https://bengali.abplive.com/district/nandigram-congress-candidate-milan-pradhan-released-from-jail-before-by-election-2026-makes-severe-allegations-1194681)
+- [मेरठ के चर्चित नीला ड्रम हत्याकांड केस में आया कोर्ट का फैसला, मुस्कान और साहिल दोषी करार दिए गए](https://www.indiatv.in/uttar-pradesh/up-meerut-saurabh-rajput-neela-drum-murder-case-accused-wife-muskan-and-her-lover-sahil-court-decision-2026-09-30-1246156)
+- [TMC News: মমতার হাত ছেড়ে NCPI-তে সুদীপ, কুণালের সঙ্গে সাংবাদিক বৈঠক স্ত্রী নয়নার, বললেন…](https://bengali.abplive.com/district/kunal-ghosh-nayna-bandyopadhyay-joint-press-conference-after-sudip-bandyopadhyay-left-tmc-and-joined-ncpi-1194679)
+- [Jay Pawar : आजितदादांनी त्यांना कायम साथ दिली, आम्हाला वाटलं नव्हतं ते असं करतील, जय पवारांकडून खंत व्यक्त](https://maharashtratimes.com/maharashtra/pune-news/jay-pawar-expressed-regret-over-baramati-malegaon-sugar-factory-current-president-pusushottam-jagtap-rebels-in-election/articleshow/134592413.cms)
+- [Howrah News : মিড-ডে মিলে ছাত্রদের পাতে মাছ, মিষ্টি! মুখ্যমন্ত্রীর উপহারে খুশির আমেজ হাওড়ার স্কুলে](https://bengali.news18.com/photogallery/west-bengal/students-get-fish-in-their-mid-day-meals-at-the-first-school-courtesy-of-the-chief-ministers-gift-smj-l18-local18-2912658.html)
+- [Smartphones as Retinal Cameras: New Opportunities for Global Eye Care - International Review Led by Bonn-Based Researchers Assesses the Potential and Limitations of Smartphone-Based Retinal Imaging](https://www.newswise.com/articles/smartphones-as-retinal-cameras-new-opportunities-for-global-eye-care-international-review-led-by-bonn-based-researchers-assesses-the-potential-and-limitations-of-smartphone-based-retinal-imaging)
+- [Asian Games 2026: సెమీఫైనల్లో శ్రీలంకతో టీమిండియా ఫైట్.. వర్షం పడితే గోల్డ్ మెడల్ మనదే](https://tv9telugu.com/sports/cricket-news/asian-games-2026-cricket-semifinal-india-face-sri-lanka-rain-rules-explained-1923347.html)
+- [A Second Plate Of Chhole-Bhature Lands UP Man In Soup. Wife Sees 'Proof Of Cheating'](https://www.ndtv.com/india-news/a-second-plate-of-chhole-bhature-lands-man-in-soup-wife-says-proof-of-cheating-in-hapur-garhmukteshwar-brijghat-12119941)
+- [‘ഫഹദ് ഇന്ത്യൻ സിനിമയുടെ അഭിമാനം, എന്റെ ഏറ്റവും പ്രിയപ്പെട്ട നടൻ’: പ്രശംസിച്ച് ജൂനിയർ എൻടിആർ](https://www.reporterlive.com/entertainment/entertainment-news/2026/09/30/junior-ntr-praises-fahadh-kartikeya-dont-trouble-the-trouble-event)
+- [নবম পর্বেই শেষ হচ্ছে 'কফি উইথ করণ'-এর পথ চলা, ঘোষণা করলেন করণ](https://www.aaroananda.com/story/entertainment-news/in-focus/koffee-with-karan-season-9-will-be-the-final-season/11022054)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
