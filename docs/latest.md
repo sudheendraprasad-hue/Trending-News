@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-30 22:37:17
+# India Trending Report — 2026-09-30 23:02:01
 
 ## Google Trends (India) — top trending searches
 1. [gemini 4](https://trends.google.com/trending/rss?geo=IN)
@@ -23,9 +23,10 @@
 - [Amid SIR row, INDIA bloc puts up united front, targets PM Modi, Shah](https://timesofindia.indiatimes.com/india/amid-sir-row-india-bloc-puts-up-united-front-targets-pm-modi-shah/articleshow/134605309.cms)
 - [5 money changes in Oct: Bulk FD rates, UPI MDR, SBI ATM limit cut, LPG KYC & more](https://timesofindia.indiatimes.com/business/india-business/5-money-rule-changes-from-october-2026-bulk-fd-rates-upi-mdr-starts-above-rs-2000-sbi-atm-free-limit-falls-to-5-lpg-aadhaar-kyc-new-nps-charges/articleshow/134587809.cms)
 - ['It was like a horror film': How Flydubai pilot was restrained with headphones](https://timesofindia.indiatimes.com/world/middle-east/it-was-like-a-horror-film-israeli-passenger-recounts-restraining-flydubai-pilot-with-headphones-after-cockpit-struggle/articleshow/134600343.cms)
-- [Panel eyes 'debundling' of exam responsibilities](https://timesofindia.indiatimes.com/india/panel-eyes-debundling-of-exam-responsibilities/articleshow/134605299.cms)
+- [Second full EC meet in 5 days, SIR extended again in Andhra Pradesh, Meghalaya](https://timesofindia.indiatimes.com/india/second-full-ec-meet-in-5-days-sir-extended-again-in-andhra-pradesh-meghalaya/articleshow/134605368.cms)
 
 **NDTV**
+- [India Embassy In Saudi Says Injured Captain Smit Machchhar Is "Stable"](https://www.ndtv.com/world-news/india-embassy-in-saudi-says-injured-captain-smit-machchhar-is-stable-12122657#publisher=newsstand)
 - ["Terrorist": Trump On Copilot Who Stabbed Captain Smit Machchhar On flydubai Plane](https://www.ndtv.com/world-news/terrorist-trump-on-copilot-who-stabbed-captain-smit-machchhar-on-flydubai-plane-12122630#publisher=newsstand)
 - [What Happened On flydubai Flight FZ1073 That Forced To Land In Saudi](https://www.ndtv.com/world-news/what-happened-on-flydubai-flight-fz1073-that-forced-to-land-in-saudi-arabia-12122576#publisher=newsstand)
 - [flydubai Incident Live Updates:  flydubai Says Suspending Flights To And From Israel Pending Investigation](https://www.ndtv.com/world-news/flydubai-hijack-fz1073-emergency-landing-israel-saudi-arabia-live-updates-pilots-injured-12119823#publisher=newsstand)
@@ -35,7 +36,6 @@
 - [Drug-Free Punjab By 2029-End: Amit Shah's Big Promise Ahead Of Polls](https://www.ndtv.com/india-news/drug-free-punjab-by-2029-end-amit-shahs-big-promise-ahead-of-polls-12122391#publisher=newsstand)
 - [flydubai Hero Pilot Is Indian, Fought Off Colleague Who Stabbed Him](https://www.ndtv.com/world-news/flydubai-hero-pilot-is-indian-fought-off-colleague-who-stabbed-him-sources-12120912#publisher=newsstand)
 - [Grabbed 'Terrorist', Choked Him: Passenger On Subduing flydubai Stabber](https://www.ndtv.com/world-news/grabbed-terrorist-choked-him-passenger-on-subduing-flydubai-stabber-12122403#publisher=newsstand)
-- [19-Year-Old Student Stabbed To Death Outside College In Bengaluru](https://www.ndtv.com/india-news/19-year-old-student-stabbed-to-death-outside-college-in-bengaluru-12122401#publisher=newsstand)
 
 **Hindustan Times**
 - [Israel's Netanyahu hails Indian pilot Smit Machchar's heroics in saving 174 lives aboard flydubai aircraft](https://www.hindustantimes.com/india-news/netanyahu-hails-indian-pilot-capt-smit-machchars-heroics-in-saving-174-lives-aboard-flydubai-aircraft-101790798123005.html)
@@ -132,10 +132,10 @@
 - [ಮಾಗಡಿ | ಮಳೆಯಿಂದ ಕೊಚ್ಚಿ ಹೋದ ರಸ್ತೆ: ಸಂಪರ್ಕ ಕಡಿತ](https://www.prajavani.net/district/bangaluru-rural/magadi-heavy-rain-road-damage-connectivity-cut-off-4299418)
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಕುಸ್ತಿ: ಸುನಿಲ್ ಕುಮಾರ್‌ಗೆ ಕಂಚು](https://www.prajavani.net/sports/other-sports/sunil-kumar-wins-bronze-in-asian-games-wrestling-4299262)
 - [ಏಷ್ಯನ್ ಕ್ರೀಡೆಗಳ ಶೂಟಿಂಗ್‌ ಸ್ಪರ್ಧೆ: ನೀರೂ– ಕೈನನ್‌ಗೆ ಒಲಿದ ಚಿನ್ನ](https://www.prajavani.net/sports/other-sports/neeru-dhanda-kynan-chenai-win-gold-in-asian-shooting-championships-4299224)
-- [ನೂತನ ಜವಳಿ, ಉಡುಪು ನೀತಿ 2026–31 ಜಾರಿ: 5 ಲಕ್ಷ ಉದ್ಯೋಗ ಸೃಷ್ಟಿ‌ ಗುರಿ](https://www.prajavani.net/news/karnataka-news/karnataka-new-textile-and-apparel-policy-investment-jobs-2-4298663)
 - [ಧಾನ್ಯ, ಎಣ್ಣೆಕಾಳುಗಳನ್ನು ಕನಿಷ್ಠ ಬೆಂಬಲ ಬೆಲೆ ಅಡಿ ಖರೀದಿಗೆ ಕೇಂದ್ರ ಒಪ್ಪಿಗೆ](https://www.prajavani.net/business/commerce-news/central-government-approves-msp-procurement-karnataka-oilseeds-grains-4299066)
-- [ದೊರಾಬ್ಜಿ ಟಾಟಾ ಟ್ರಸ್ಟ್ ವಿರುದ್ಧ ಶ್ರೀನಿವಾಸನ್ ದೂರು](https://www.prajavani.net/business/commerce-news/venu-srinivasan-complaint-against-dorabji-tata-trust-4299127)
-- [ಅಪಾಯಕಾರಿ: ರಷ್ಯಾ ಸೇನೆ ಸೇರಬಯಸುತ್ತಿರುವ ಭಾರತೀಯರಿಗೆ ಎಚ್ಚರಿಕೆ](https://www.prajavani.net/news/india-news/mea-warns-indians-against-joining-russia-army-4299215)
+- [ಕೆಪಿಎಸ್‌ಸಿ ಅಕ್ರಮ: ಪರೀಕ್ಷೆ ಮುನ್ನಾ ದಿನ ಪ್ರಶ್ನೆಪತ್ರಿಕೆ ಸೋರಿಕೆ](https://www.prajavani.net/news/karnataka-news/kpsc-veterinary-officer-exam-question-paper-leak-ed-investigation-4298743)
+- [ಅನುದಾನ ಇಲ್ಲದೆ ಅನುಮೋದನೆ ಕೊಟ್ಟಿದ್ದು ಯಾಕೆ?: ಪ್ರಿಯಾಂಕ್ ಖರ್ಗೆ](https://www.prajavani.net/news/karnataka-news/priyank-kharge-questions-bjp-on-project-approvals-without-grants-4299074)
+- [ಬೆಳಗಾವಿ ಮಹಾನಗರ ಪಾಲಿಕೆ | ಮಹಾಜನ್‌ ವರದಿಯೇ ಅಂತಿಮ: ನಿರ್ಣಯ ಅಂಗೀಕಾರ](https://www.prajavani.net/district/belagavi/belagavi-city-corporation-approves-resolution-on-mahajan-report-finality-4298949)
 
 **eedina**
 - [ಕಲಬುರಗಿ | ಹಿಂದೂ ಮಹಾಗಣಪತಿ ಉತ್ಸವಕ್ಕೆ ರೌಡಿ ಶೀಟರ್ ಶ್ರೀಕಾಂತ್ ಶೆಟ್ಟಿ ಎಂಟ್ರಿಗೆ ಬ್ರೇಕ್; 4 ದಿನ ನಗರ ಪ್ರವೇಶ ನಿರ್ಬಂಧ](https://eedina.com/?p=768203)
@@ -151,34 +151,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - Indian (6.8)
+- Meghalaya (2.9)
 - Trump (2.9)
-- Bengaluru (2.9)
 - flydubai (2.7)
 - Congress (2.6)
 - INDIA (2.6)
 - Visakhapatnam (2.6)
 - Iraq (2.6)
+- Bengaluru (2.6)
 - MRPL (2.6)
+- Andhra Pradesh (2.0)
 - Kerala (1.9)
 - pilot (1.8)
 - Netanyahu (1.6)
-- Shah (1.6)
-- Meghalaya (1.6)
-- Punjab (1.6)
+- Embassy (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [MG Hector Tomahawk EV: 4.90 रुपये का खर्च, 14 लाख कीमत, शुरू हुई दमदार SUV की डिलीवरी](https://www.aajtak.in/auto/news/story/mg-hector-tomahawk-ev-deliveries-begin-price-features-details-auam-dskc-2657313-2026-09-30)
-- [১৩ কোটি ভোটারের নাম বাদ, তীব্র আস্থা সংকটে ভারতের নির্বাচন কমিশন](https://www.dailyamardesh.com/world/india/amdjudmi9mec6)
-- [‘যুবভারতী এখন বিশ্বের অন্যতম সেরা’, ব্রাজ়িল থেকে এসে এক মাসে ভোল বদলে দেওয়া ইভান শোনালেন অসাধ্যসাধনের গল্প](https://www.anandabazar.com/sports/football/brazilian-expert-ivan-nascimento-changed-the-field-of-yuva-bharati-krirangan-shared-his-experience-dgtl/cid/1716512)
-- [ઈઝરાયલ જતું વિમાન હાઈજેક કરી ક્રેશ કરવાનો પ્રયાસ? એક પાયલટનો બીજા પર હુમલો, મુસાફરોએ બતાવી બહાદુરી](https://www.gujaratsamachar.com/news/international/flydubai-flight-fz1073-pilot-hijacking-attempt-stabbing-saudi-arabia-landing-58918082657)
-- [മദ്യപിച്ച് വാഹനമോടിച്ച കേസ്: അശ്വന്ത് കോക്കിന്റെ ലൈസന്‍സ് സസ്‌പെന്‍ഡ് ചെയ്യും](https://www.reporterlive.com/topnews/kerala/2026/09/30/aswanth-kokk-drunk-driving-license-suspension)
-- [दीवाली पर पटाखे जला सकते हैं या नहीं? सुप्रीम कोर्ट ने बैन लगाने से किया इनकार, लेकिन रखी एक शर्त](https://www.jagran.com/news/national-supreme-court-on-diwali-firecrackers-no-full-ban-time-limit-set-40390065.html)
-- [Stock Market Close: Sensex ends volatile trade flat, Nifty at 22,620; bank and realty shares shine](https://www.business-standard.com/markets/news/stock-market-live-september-30-sensex-today-nifty-gift-nifty-crude-oil-price-adroit-industries-share-ipo-today-126093000100_1.html)
-- [Asian Games 2026: आर्चरी में आया गोल्ड मेडल, महिला हॉकी टीम फाइनल में पहुंची](https://www.indiatv.in/sports/other-sports/asian-games-2026-live-updates-day-11-september-30th-india-medal-tally-results-and-gold-medal-events-1246102)
-- [ગુજરાત સહિત દેશભરના ખેડૂતોને ફાયદો, કેન્દ્ર સરકારે ઘઉં સાથે 6 રવિ પાકોની MSPમાં કર્યો વધારો](https://www.gujaratsamachar.com/news/national/central-govt-hikes-msp-for-6-rabi-or-winter-crops-62082312713)
-- [Rabi MSP hike, Rs 1.86 lakh crore green corridor, Delhi AI traffic system: Cabinet clears 3 key measures](https://timesofindia.indiatimes.com/business/india-business/rabi-msp-hike-rs-1-86-lakh-crore-green-corridor-delhi-ai-traffic-system-cabinet-clears-3-key-measures/articleshow/134590128.cms)
+- [Drishyam 3 Cast Fees: How Much Ajay Devgn, Tabu And Shriya Saran Are Charging For The Film](https://www.ndtv.com/entertainment/drishyam-3-cast-fees-how-much-ajay-devgn-tabu-and-shriya-saran-are-charging-for-the-film-12119753)
+- [ఆ బాధ్యత మాదే - చంద్రబాబు కీలక ప్రకటన..!!](https://telugu.oneindia.com/news/andhra-pradesh/cm-chandra-babu-says-govt-committed-for-development-of-poor-says-will-implement-all-promises-to-the-508637.html)
+- [சுகன்யா சம்ரித்தி யோஜனா வட்டி உயர்த்த அரசு முடிவா.. உங்கள் மகளுக்கு ரூ.50 லட்சம் சேமிக்க நல்ல சான்ஸ்!](https://tamil.economictimes.com/personal-finance/sukanya-samriddhi-yojana-offers-82-interest-a-chance-to-save-50-lakhs-for-your-daughter/articleshow/134591574.cms)
+- [European Smile spacecraft captures massive aurora storm on top of Earth](https://www.indiatoday.in/amp/science/story/smile-spacecraft-aurora-ring-solar-wind-earth-magnetic-field-esa-china-3006517-2026-09-30)
+- [Bihar MLC Election: 8 सीटों के लिए NDA ने कसी कमर, BJP दफ्तर में जुटे घटक दल... क्या है 'जीत' का पूरा प्लान?](https://www.jagran.com/bihar/patna-city-bihar-mlc-election-8-seats-nda-election-strategy-bjp-office-meeting-40390095.html)
+- [Drishyam 3 Box Office: Ajay Devgn vs Ajay Devgn! Vijay Salgaonkar needs just Rs. 201.60 cr. to dethrone Singham from Top 10 franchises](https://www.bollywoodhungama.com/news/box-office-special-features/drishyam-3-box-office-ajay-devgn-vs-ajay-devgn-vijay-salgaonkar-needs-just-rs-201-60-cr-to-dethrone-singham-from-top-10-franchises/)
+- [তালাশ বিডি । অন্যায়ের বিরুদ্ধে সাহসী মুখপাত্র](https://talashbd.com/news/477850044614871)
+- [ज्ञानेश कुमार के खिलाफ महाभियोग का प्रस्ताव, SIR के मुद्दे पर हुई I.N.D.I.A. गठबंधन की बैठक](https://www.indiatv.in/india/politics/strategy-against-cec-gyanesh-kumar-and-sir-issue-india-alliance-meeting-live-updates-2026-09-30-1246160)
+- [ஜெம் வீரமணி வழக்கை சிபிஐ விசாரணைக்கு மாற்ற உயர் நீதிமன்றம் மறுப்பு](https://www.hindutamil.in/news/tamilnadu/high-court-refuses-to-transfer-gem-veeramani-case-to-cbi)
+- [Flydubai Flight: वैमानिकांमध्येच हाणामारी, फ्लाई दुबईच्या विमानात मोठा अनर्थ टळला](https://marathi.asianetnews.com/world/flydubai-flight-makes-emergency-landing-in-saudi-arabia-after-pilots-fight/articleshow-d827e7e)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
