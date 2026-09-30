@@ -1,16 +1,16 @@
-# India Trending Report — 2026-09-30 21:02:24
+# India Trending Report — 2026-09-30 21:38:14
 
 ## Google Trends (India) — top trending searches
-1. [nitin gadkari](https://trends.google.com/trending/rss?geo=IN)
-2. [ronaldo](https://trends.google.com/trending/rss?geo=IN)
-3. [google fitbit air india](https://trends.google.com/trending/rss?geo=IN)
-4. [united arab emirates vs qatar](https://trends.google.com/trending/rss?geo=IN)
-5. [one ui 9](https://trends.google.com/trending/rss?geo=IN)
-6. [quinton de kock](https://trends.google.com/trending/rss?geo=IN)
-7. [mitchell starc](https://trends.google.com/trending/rss?geo=IN)
-8. [roma vs barcelona](https://trends.google.com/trending/rss?geo=IN)
-9. [ipl](https://trends.google.com/trending/rss?geo=IN)
-10. [ब्याज](https://trends.google.com/trending/rss?geo=IN)
+1. [gemini 4](https://trends.google.com/trending/rss?geo=IN)
+2. [nitin gadkari](https://trends.google.com/trending/rss?geo=IN)
+3. [ronaldo](https://trends.google.com/trending/rss?geo=IN)
+4. [google fitbit air india](https://trends.google.com/trending/rss?geo=IN)
+5. [nike](https://trends.google.com/trending/rss?geo=IN)
+6. [united arab emirates vs qatar](https://trends.google.com/trending/rss?geo=IN)
+7. [one ui 9](https://trends.google.com/trending/rss?geo=IN)
+8. [quinton de kock](https://trends.google.com/trending/rss?geo=IN)
+9. [mitchell starc](https://trends.google.com/trending/rss?geo=IN)
+10. [roma vs barcelona](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -22,8 +22,8 @@
 - [In 2018, Musk gave $480,350 for Flint school filters; students drink from fountains](https://timesofindia.indiatimes.com/technology/tech-news/in-2018-elon-musk-donated-480350-for-flint-school-water-filters-four-years-later-redesigned-systems-allowed-students-to-drink-from-fountains-again-after-years-of-relying-on-alternative-supplies/articleshow/134585828.cms)
 - [Modi and Trump discuss ties, PM flags concerns about US’ Russia law](https://timesofindia.indiatimes.com/india/modi-and-trump-discuss-ties-pm-flags-concerns-about-us-russia-law/articleshow/134602223.cms)
 - [5 money changes in Oct: Bulk FD rates, UPI MDR, SBI ATM limit cut, LPG KYC & more](https://timesofindia.indiatimes.com/business/india-business/5-money-rule-changes-from-october-2026-bulk-fd-rates-upi-mdr-starts-above-rs-2000-sbi-atm-free-limit-falls-to-5-lpg-aadhaar-kyc-new-nps-charges/articleshow/134587809.cms)
+- [Senior citizen wrongly paid tax on Rs 25.42L interest; ITAT orders Rs 9.91L refund](https://timesofindia.indiatimes.com/business/india-business/senior-citizen-invested-rs-3-crore-in-tax-free-bonds-but-mistakenly-paid-tax-on-rs-25-42-lakh-interest-earnings-why-itat-delhi-ordered-rs-9-91-lakh-refund/articleshow/134595737.cms)
 - [Flydubai cockpit drama: How Indian pilot stopped co-pilot from crashing plane](https://timesofindia.indiatimes.com/india/flydubai-flight-drama-how-indian-pilot-smit-machchhar-stopped-omani-co-pilot-from-crashing-plane/articleshow/134597514.cms)
-- ['I grabbed the terrorist': Flydubai passenger tells Netanyahu how he subdued pilot](https://timesofindia.indiatimes.com/world/middle-east/i-grabbed-the-terrorist-flydubai-passenger-tells-netanyahu-how-he-subdued-pilot-helped-stabilise-plane/articleshow/134599962.cms)
 
 **NDTV**
 - [flydubai Incident Live Updates:  flydubai Says Suspending Flights To And From Israel Pending Investigation](https://www.ndtv.com/world-news/flydubai-hijack-fz1073-emergency-landing-israel-saudi-arabia-live-updates-pilots-injured-12119823#publisher=newsstand)
@@ -62,6 +62,7 @@
 - [ರೇಷನ್‌ ಕಾರ್ಡ್‌ ಇ-ಕೆವೈಸಿಗೆ ಆಹಾರ ಇಲಾಖೆಯ ಹೊಸ ಮೊಬೈಲ್ ಆ್ಯಪ್‌ ರೆಡಿ; ಸಚಿವ ರಿಜ್ವಾನ್ ಅರ್ಷದ್ ಅಕ್ಟೋಬರ್ 1ಕ್ಕೆ ಚಾಲನೆ!](https://vijaykarnataka.com/news/karnataka/food-department-mobile-app-for-ration-card-e-kyc-is-ready-minister-rizwan-arshad-to-launch-it-on-october-1/articleshow/134598914.cms)
 
 **The Hindu**
+- [RSS leader Sunil Ambekar flags demographic changes, calls for scrutiny of population policies](https://www.thehindu.com/news/national/rss-leader-sunil-ambekar-flags-demographic-changes-calls-for-scrutiny-of-population-policies/article71529130.ece)
 - [Israeli PM hails Indian pilot wounded in diverted flydubai flight](https://www.thehindu.com/news/international/israeli-pm-hails-indian-pilot-wounded-in-diverted-flydubai-flight/article71530244.ece)
 - [Congress stages protest in Visakhapatnam over SIR exercise](https://www.thehindu.com/news/national/andhra-pradesh/congress-stages-protest-in-visakhapatnam-over-sir-exercise/article71529996.ece)
 - [‘Only 747 enrolment applications received from homeless voters’: NGO writes to Delhi CEO, flags ‘lapses’](https://www.thehindu.com/news/cities/Delhi/only-747-enrolment-applications-received-from-homeless-voters-ngo-writes-to-delhi-ceo-flags-lapses/article71529638.ece)
@@ -71,9 +72,9 @@
 - [Kerala HC directs transparency in selection of Sabarimala, Malikappuram Melsanthis](https://www.thehindu.com/news/national/kerala/kerala-hc-directs-transparency-in-selection-of-sabarimala-malikappuram-melsanthis/article71525050.ece)
 - [Army’s ‘Operation Drishti’ in Kashmir’s border areas a milestone: J&K L-G Manoj Sinha](https://www.thehindu.com/news/national/armys-operation-drishti-in-kashmirs-border-areas-a-milestone-jk-l-g-manoj-sinha/article71530064.ece)
 - [Students urged to make informed career choices, upgrade skills](https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-make-informed-career-choices-upskill-continuously/article71528298.ece)
-- [Thiruvananthapuram witnesses tense moments following  Youth Congress-SFI clash](https://www.thehindu.com/news/national/kerala/thiruvananthapuram-witnesses-tense-moments-following-youth-congress-sfi-clash/article71530182.ece)
 
 **Livemint**
+- [$500 ACA check is coming from Trump: Are you one of the Americans eligible?](https://www.livemint.com/news/us-news/500-aca-check-is-coming-from-trump-are-you-one-of-the-americans-eligible-11790801766046.html)
 - [IDF video: Child allegedly used as ‘human shield’ to move weapons in Gaza](https://www.livemint.com/news/world/idf-video-child-allegedly-used-as-human-shield-to-move-weapons-in-gaza-11790800224904.html)
 - [Pennsylvania Reports Fifth Measles Death in Widening Crisis](https://www.livemint.com/news/us-news/pennsylvania-reports-fifth-measles-death-in-widening-crisis-11790800726509.html)
 - [Trump calls Iraq exit a ‘victory’ over ISIS: Why June 2027 is now crucial for Baghdad](https://www.livemint.com/news/world/trump-calls-iraq-exit-a-victory-over-isis-why-june-2027-is-now-crucial-for-baghdad-11790796345462.html)
@@ -83,7 +84,6 @@
 - [Govt lowers windfall tax on diesel, ATF exports amid West Asia tensions](https://www.livemint.com/news/india/govt-lowers-windfall-tax-on-diesel-atf-exports-amid-west-asia-tensions-11790792346575.html)
 - [FTC launches probe into OpenAI, Anthropic over ‘rogue’ AI agents as concerns grow over safety](https://www.livemint.com/news/us-news/ftc-launches-probe-into-openai-anthropic-over-rogue-ai-agents-as-concerns-grow-over-safety-11790791553143.html)
 - [US inflation comes in below expectations in August amid high energy prices linked to Iran war](https://www.livemint.com/news/us-news/us-inflation-comes-in-below-expectations-in-august-amid-high-energy-prices-linked-to-iran-war-11790790972922.html)
-- [Netanyahu hugs passenger who saved pilot, tackled attacker aboard FlyDubai flight | Watch video](https://www.livemint.com/news/world/netanyahu-hugs-passenger-who-saved-pilot-tackled-attacker-aboard-flydubai-flight-watch-video-11790789103683.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -126,16 +126,16 @@
 - [ಫುಟ್‌ಪಾತ್ ಬೈಕ್ ಸವಾರರಿಗೆ ಭಾರಿ ದಂಡದ ಶಾಕ್: ಹಾಫ್ ಹೆಲ್ಮೆಟ್ ನಿಷೇಧಕ್ಕೆ ಸರ್ಕಾರ ಚಿಂತನೆ](https://tv9kannada.com/karnataka/heavy-fines-for-bikers-using-footpaths-government-mulls-ban-on-half-helmets-1244842.html)
 
 **Prajavani**
+- [ಬಿಟ್‌ ಕಾಯಿನ್‌ ಹಗರಣ: ಶ್ರೀಕಿಗೆ ಜಾಮೀನು](https://www.prajavani.net/news/karnataka-news/hacker-sriki-bitcoin-scam-high-court-bail-4299379)
+- [ಯಾದಗಿರಿ | ಮೊಮ್ಮಗಳ ಮೇಲೆ ಅತ್ಯಾಚಾರಕ್ಕೆ ಯತ್ನ: ಅಜ್ಜನ ಬಂಧನ](https://www.prajavani.net/district/yadagiri/rape-case-arrest-yadgir-news-4298403)
+- [ಭೂ ಸುಧಾರಣಾ ಕಾಯ್ದೆ ತಿದ್ದುಪಡಿ ಹಿಂಪಡೆಯಿರಿ: ರಾಹುಲ್‌ಗೆ ಬಿ.ಆರ್‌.ಪಾಟೀಲ ಪತ್ರ](https://www.prajavani.net/district/kalaburagi/br-patil-letter-to-rahul-gandhi-on-karnataka-land-reforms-act-amendment-4298410)
+- [ಮಾಗಡಿ | ಮಳೆಯಿಂದ ಕೊಚ್ಚಿ ಹೋದ ರಸ್ತೆ: ಸಂಪರ್ಕ ಕಡಿತ](https://www.prajavani.net/district/bangaluru-rural/magadi-heavy-rain-road-damage-connectivity-cut-off-4299418)
+- [ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಕುಸ್ತಿ: ಸುನಿಲ್ ಕುಮಾರ್‌ಗೆ ಕಂಚು](https://www.prajavani.net/sports/other-sports/sunil-kumar-wins-bronze-in-asian-games-wrestling-4299262)
 - [ಏಷ್ಯನ್ ಕ್ರೀಡೆಗಳ ಶೂಟಿಂಗ್‌ ಸ್ಪರ್ಧೆ: ನೀರೂ– ಕೈನನ್‌ಗೆ ಒಲಿದ ಚಿನ್ನ](https://www.prajavani.net/sports/other-sports/neeru-dhanda-kynan-chenai-win-gold-in-asian-shooting-championships-4299224)
 - [ನೂತನ ಜವಳಿ, ಉಡುಪು ನೀತಿ 2026–31 ಜಾರಿ: 5 ಲಕ್ಷ ಉದ್ಯೋಗ ಸೃಷ್ಟಿ‌ ಗುರಿ](https://www.prajavani.net/news/karnataka-news/karnataka-new-textile-and-apparel-policy-investment-jobs-2-4298663)
 - [ಧಾನ್ಯ, ಎಣ್ಣೆಕಾಳುಗಳನ್ನು ಕನಿಷ್ಠ ಬೆಂಬಲ ಬೆಲೆ ಅಡಿ ಖರೀದಿಗೆ ಕೇಂದ್ರ ಒಪ್ಪಿಗೆ](https://www.prajavani.net/business/commerce-news/central-government-approves-msp-procurement-karnataka-oilseeds-grains-4299066)
 - [ದೊರಾಬ್ಜಿ ಟಾಟಾ ಟ್ರಸ್ಟ್ ವಿರುದ್ಧ ಶ್ರೀನಿವಾಸನ್ ದೂರು](https://www.prajavani.net/business/commerce-news/venu-srinivasan-complaint-against-dorabji-tata-trust-4299127)
 - [ಅಪಾಯಕಾರಿ: ರಷ್ಯಾ ಸೇನೆ ಸೇರಬಯಸುತ್ತಿರುವ ಭಾರತೀಯರಿಗೆ ಎಚ್ಚರಿಕೆ](https://www.prajavani.net/news/india-news/mea-warns-indians-against-joining-russia-army-4299215)
-- [ಲಾಹೋರ್: ನೆಹರೂ ಉದ್ಯಾನ ಪುನರ್‌ನಿರ್ಮಾಣ ಆರಂಭ](https://www.prajavani.net/news/india-news/nehru-park-lahore-restoration-begins-historical-site-4299210)
-- [ಅನುಕಂಪಕ್ಕಾಗಿ ಹರಿಪ್ರಸಾದ್‌ ಪಾದಯಾತ್ರೆ; ವಿಜಯೇಂದ್ರ ವಾಗ್ದಾಳಿ](https://www.prajavani.net/district/chitradurga/vijayendra-slams-hariprasad-shikaripura-padayatra-criticism-4298848)
-- [ಕೆಪಿಎಸ್‌ಸಿ ಅಕ್ರಮ: ಪರೀಕ್ಷೆ ಮುನ್ನಾ ದಿನ ಪ್ರಶ್ನೆಪತ್ರಿಕೆ ಸೋರಿಕೆ](https://www.prajavani.net/news/karnataka-news/kpsc-veterinary-officer-exam-question-paper-leak-ed-investigation-4298743)
-- [ಕಾರ್ಟೂನಿಸ್ಟ್‌ ಸತೀಶ್‌ ಆಚಾರ್ಯ ಇನ್‌ಸ್ಟಾಗ್ರಾಂ ಖಾತೆ ನಿರ್ಬಂಧ](https://www.prajavani.net/district/udupi/cartoonist-satish-acharya-instagram-account-restricted-in-india-4298805)
-- [ಬಿಜೆಪಿ ಅನಾಹುತಗಳಿಗೆ ಕಾಂಗ್ರೆಸ್‌ ಬೆಲೆ ತೆರುತ್ತಿದೆ: ಸಿಎಂ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್](https://www.prajavani.net/district/chamarajanagara/dk-shivakumar-criticizes-bjp-government-financial-mismanagement-4299021)
 
 **eedina**
 - [ಕಲಬುರಗಿ | ಹಿಂದೂ ಮಹಾಗಣಪತಿ ಉತ್ಸವಕ್ಕೆ ರೌಡಿ ಶೀಟರ್ ಶ್ರೀಕಾಂತ್ ಶೆಟ್ಟಿ ಎಂಟ್ರಿಗೆ ಬ್ರೇಕ್; 4 ದಿನ ನಗರ ಪ್ರವೇಶ ನಿರ್ಬಂಧ](https://eedina.com/?p=768203)
@@ -151,16 +151,16 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - Indian (7.4)
-- Netanyahu (5.5)
-- Flydubai (3.2)
+- Trump (3.9)
 - Bengaluru (2.9)
-- pilot (2.7)
+- Netanyahu (2.9)
 - Congress (2.6)
-- Trump (2.6)
 - Visakhapatnam (2.6)
 - Iraq (2.6)
 - MRPL (2.6)
+- pilot (2.1)
 - flydubai (2.1)
+- Flydubai (1.9)
 - Kerala (1.9)
 - Pilot (1.9)
 - Delhi (1.9)
@@ -169,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Shivsena UBT Pradeep Purnekar Death Case: ठाण्यातील ठाकरे गटाचे विभागप्रमुख प्रदीप पूर्णेकरांना 5 जणांनी संपवलं; आदित्य ठाकरे संतापले, म्हणाले...](https://marathi.abplive.com/crime/aaditya-thackeray-react-on-shivsena-ubt-pradeep-purnekar-death-case-thane-marathi-news-1440762)
-- [ज्ञानेश कुमार के खिलाफ इंडिया ब्लॉक का 2-8 अक्तूबर तक कैंपेन, 6 को चुनाव आयोग तक मार्च](https://ndtv.in/india/india-block-campaigns-against-the-cec-from-october-2-8-mallikarjun-kharge-explain-opposition-plan-12119121)
-- [বড়লোকদের ‘পিষে’ ফেলতে চাইছে চিন! কর নিয়ে কড়াকড়িতে চিন্তার ভাঁজ চিনা ধনকুবেরদের কপালে](https://www.anandabazar.com/photogallery/beijing-tightens-revenue-grip-on-high-net-worth-individuals-and-global-investments-dgtl-photogallery-prnt/cid/1716485)
-- [IND vs WI: आकिब नबी की पूरी हुई ख्वाहिश, इंटरनेशनल डेब्यू में मिला धमाल मचाने का मौका](https://www.aajtak.in/sports/cricket/story/auqib-nabi-odi-debut-india-vs-west-indies-guwahati-tspok-dskc-2657346-2026-09-30)
-- [దేశంలో మొట్టమొదటిసారి.. మాజీ డీఎస్పీ భీమ్‌రెడ్డిపై బినామీ యాక్ట్ కింద కేసు నమోదు](https://telugu.samayam.com/telangana/news/former-dsp-bheem-reddy-faces-benami-property-cases-as-it-department-acts-against-8-suspected-associates/articleshow/134588410.cms)
-- [‘Tata Sons-ஐ பட்டியலிடக் கூடாது’: சந்திரசேகரனால் பிரச்னையா? நோயல் டாடாவின் Loop Hole என்ன?!](https://www.vikatan.com/business/noel-tatas-plan-to-keep-tata-sons-away-from-stock-market)
-- [‘ഇത് എന്റെ ശരീരമാണ്, ഇതിൽ അഭിപ്രായം പറയാൻ നിങ്ങൾക്കെന്താണ് ഇത്ര ധൈര്യം’! പ്രതികരിച്ച് ജുവൽ മേരി](https://www.vanitha.in/celluloid/multiplex/2026/09/30/jewel-mary-about-body-shaming-video-news.html)
-- [ਡਾ. ਬਲਬੀਰ ਸਿੰਘ ਨੇ ਛੇ ਨਵ-ਨਿਯੁਕਤ ਫੂਡ ਸੇਫਟੀ ਅਫਸਰਾਂ ਨੂੰ ਨਿਯੁਕਤੀ ਪੱਤਰ ਸੌਂਪੇ](https://wishavwarta.in/dr-balbir-singh-8/)
-- [ట్యాక్స్ ఆడిట్ గడువు అక్టోబర్ 21కి పెంపు.. ఇప్పుడే ఫైల్ చేయాలా? వేచి చూడాలా? ట్యాక్స్ పేయర్లు తెలుసుకోవాల్సిన విషయాలు](https://telugu.samayam.com/business/business-news/file-itr-now-or-wait-until-the-new-21-october-tax-audit-deadline-what-taxpayers-need-to-know/articleshow/134588018.cms)
-- [ICC वनडे रैंकिंग में नंबर-1 बनने के नजदीक कोहली, गिल से इतने अंक का फासला; टॉप 5 में कुलदीप](https://www.livehindustan.com/cricket/icc-odi-rankings-virat-kohli-threatens-shubman-gill-no-1-spot-kuldeep-yadav-enters-the-top-5-201790756629897.html)
+- [നടി നിത്യ ദാസിന്റെ അച്ഛൻ എ. മോഹൻദാസ് അന്തരിച്ചു](https://www.southlive.in/actress-nithya-dass-father-a-mohandas-has-passed-away/)
+- [ચૂંટણી પંચ વિરુદ્ધ 20 રાજકીય પક્ષો એકસાથે રસ્તા પર ઉતરશે, I.N.D.I.A. બ્લોકની બેઠક બાદ ખડગેની જાહેરાત](https://www.gujaratsamachar.com/news/national/INDIA-Bloc-Protests-Election-Commission-Opposition-Announces-Nationwide-Rallies-73710764598)
+- [നാട്ടുകാരന് സ്ട്രോക്ക്; മലപ്പുറത്ത് എഴുപത്തിയഞ്ചോളം ബസുകൾ 'കാരുണ്യയാത്ര' നടത്തി ചികിത്സാ നിധി](https://malayalam.news18.com/news/kerala/malappuram-karunyayathra-75-buses-charity-service-mm-790554.html)
+- [Rajinikanth Arrives In An Auto-Rickshaw For Dharman Shoot In Mysuru, Watch](https://www.ndtv.com/entertainment/rajinikanth-arrives-in-an-auto-rickshaw-for-dharman-shoot-in-mysuru-watch-12118215)
+- ['31 दिसंबर 2029 के बाद नशा मुहैया करने वाला कोई नहीं बचेगा', पंजाब को अमित शाह ने दी डेडलाइन](https://www.aajtak.in/elections/assembly-chunav/story/amit-shah-announces-drug-free-punjab-by-december-2029-assembly-election-ntc-drmt-rpti-2657405-2026-09-30)
+- [Mamata Banerjee: “জ্ঞানেশ কুমার ইস্তফা না দিলে মহা-আন্দোলন!” দিল্লিতে সোনিয়ার পাশে বসে গর্জে উঠলেন মমতা!](https://bengali.indianexpress.com/west-bengal/india-bloc-meeting-delhi-mamata-banerjee-abhishek-sir-gyanesh-kumar-12593452)
+- [कल का मौसम 1 अक्टूबर: 11 घंटे के भीतर 20 राज्यों में मूसलाधार बारिश का अलर्ट, 75 की स्पीड से हवा; IMD अपडेट](https://navbharattimes.indiatimes.com/india/tomorrow-weather-1-october-2026-thunderstorm-and-heavy-rain-alert-in-20-states-within-11-hours-wind-speed-up-to-75-kmph-delhi-up-bihar-tn-temperature/articleshow/134588953.cms)
+- [INDIA Alliance Meeting LIVE: सेव डेमोक्रेसी मार्च निकालेगा इंडिया गठबंधन, ज्ञानेश कुमार के खिलाफ 5 बड़ी रैली का ऐलान](https://www.abplive.com/news/india/india-alliance-meeting-in-delhi-live-updates-demands-for-chief-election-commissioner-gyanesh-kumar-resignation-3195640)
+- [ICC ODI Ranking: बल्ले से कोहराम मचाने का मिला बंपर इनाम, विराट कोहली बने वनडे के नंबर-2 बल्लेबाज, टॉप पर कौन?](https://www.aajtak.in/sports/cricket/story/virat-kohli-climbs-to-second-in-latest-icc-odi-batting-rankings-aksp-dskc-2657394-2026-09-30)
+- [Actionable intelligence led to killing of most-wanted LeT terrorist Hashim Moosa](https://www.hindustantimes.com/india-news/actionable-intelligence-led-to-killing-of-most-wanted-let-terrorist-hashim-moosa-101790758611552.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
