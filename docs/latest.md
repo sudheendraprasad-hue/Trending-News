@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-30 20:36:46
+# India Trending Report — 2026-09-30 21:02:24
 
 ## Google Trends (India) — top trending searches
 1. [nitin gadkari](https://trends.google.com/trending/rss?geo=IN)
@@ -17,25 +17,25 @@
 - ['A true hero': Netanyahu 'salutes' Indian pilot who stopped co-pilot from crashing plane](https://timesofindia.indiatimes.com/india/a-true-hero-netanyahu-salutes-indian-pilot-who-stopped-omani-co-pilot-from-crashing-flydubai-plane/articleshow/134601907.cms)
 - ['Receiving necessary medical attention': Embassy updates on Indian Flydubai pilot](https://timesofindia.indiatimes.com/world/middle-east/flydubai-flight-incident-netanyahu-says-israel-preparing-for-other-potential-threats-top-developments/articleshow/134595815.cms)
 - [Is it time for Congress and INDIA bloc to take a leaf out of CJP's playbook?](https://timesofindia.indiatimes.com/india/protests-against-sir-cec-is-it-time-for-congress-and-india-bloc-to-take-a-leaf-out-of-cjps-playbook/articleshow/134597912.cms)
+- [Captain Machchhar: The pilot from Mumbai who proved to be the hero](https://timesofindia.indiatimes.com/india/captain-machchhar-the-pilot-from-mumbai-who-proved-to-be-the-hero/articleshow/134602233.cms)
 - ['It was like a horror film': How Flydubai pilot was restrained with headphones](https://timesofindia.indiatimes.com/world/middle-east/it-was-like-a-horror-film-israeli-passenger-recounts-restraining-flydubai-pilot-with-headphones-after-cockpit-struggle/articleshow/134600343.cms)
-- [Modi and Trump discuss ties, PM flags concerns about US’ Russia law](https://timesofindia.indiatimes.com/india/modi-and-trump-discuss-ties-pm-flags-concerns-about-us-russia-law/articleshow/134602223.cms)
 - [In 2018, Musk gave $480,350 for Flint school filters; students drink from fountains](https://timesofindia.indiatimes.com/technology/tech-news/in-2018-elon-musk-donated-480350-for-flint-school-water-filters-four-years-later-redesigned-systems-allowed-students-to-drink-from-fountains-again-after-years-of-relying-on-alternative-supplies/articleshow/134585828.cms)
-- [Flydubai cockpit drama: How Indian pilot stopped co-pilot from crashing plane](https://timesofindia.indiatimes.com/india/flydubai-flight-drama-how-indian-pilot-smit-machchhar-stopped-omani-co-pilot-from-crashing-plane/articleshow/134597514.cms)
+- [Modi and Trump discuss ties, PM flags concerns about US’ Russia law](https://timesofindia.indiatimes.com/india/modi-and-trump-discuss-ties-pm-flags-concerns-about-us-russia-law/articleshow/134602223.cms)
 - [5 money changes in Oct: Bulk FD rates, UPI MDR, SBI ATM limit cut, LPG KYC & more](https://timesofindia.indiatimes.com/business/india-business/5-money-rule-changes-from-october-2026-bulk-fd-rates-upi-mdr-starts-above-rs-2000-sbi-atm-free-limit-falls-to-5-lpg-aadhaar-kyc-new-nps-charges/articleshow/134587809.cms)
+- [Flydubai cockpit drama: How Indian pilot stopped co-pilot from crashing plane](https://timesofindia.indiatimes.com/india/flydubai-flight-drama-how-indian-pilot-smit-machchhar-stopped-omani-co-pilot-from-crashing-plane/articleshow/134597514.cms)
 - ['I grabbed the terrorist': Flydubai passenger tells Netanyahu how he subdued pilot](https://timesofindia.indiatimes.com/world/middle-east/i-grabbed-the-terrorist-flydubai-passenger-tells-netanyahu-how-he-subdued-pilot-helped-stabilise-plane/articleshow/134599962.cms)
-- [UAE planning to develop shipping alternatives, port that bypasses Hormuz](https://timesofindia.indiatimes.com/world/middle-east/uae-planning-to-develop-shipping-alternatives-port-that-bypasses-hormuz/articleshow/134599718.cms)
 
 **NDTV**
-- [flydubai Hero Pilot Is Indian, Fought Off Colleague Who Stabbed Him: Sources](https://www.ndtv.com/world-news/flydubai-hero-pilot-is-indian-fought-off-colleague-who-stabbed-him-sources-12120912#publisher=newsstand)
+- [flydubai Incident Live Updates:  flydubai Says Suspending Flights To And From Israel Pending Investigation](https://www.ndtv.com/world-news/flydubai-hijack-fz1073-emergency-landing-israel-saudi-arabia-live-updates-pilots-injured-12119823#publisher=newsstand)
+- [US Military Will Cut 20% Of Its Generals, Admirals: Pete Hegseth](https://www.ndtv.com/world-news/us-military-will-cut-20-of-its-generals-admirals-pete-hegseth-12122497#publisher=newsstand)
+- [Meghalaya Deputy Chief Minister Backs Review of Foreign Funding Bill](https://www.ndtv.com/india-news/meghalaya-deputy-chief-minister-backs-review-of-foreign-funding-bill-12122481#publisher=newsstand)
+- [BJP Kerala Headquarters Attacked, Party Calls For Statewide Agitation](https://www.ndtv.com/india-news/bjp-kerala-headquarters-attacked-party-calls-for-statewide-agitation-12122442#publisher=newsstand)
+- [Drug-Free Punjab By 2029-End: Amit Shah's Big Promise Ahead Of Polls](https://www.ndtv.com/india-news/drug-free-punjab-by-2029-end-amit-shahs-big-promise-ahead-of-polls-12122391#publisher=newsstand)
+- [flydubai Hero Pilot Is Indian, Fought Off Colleague Who Stabbed Him](https://www.ndtv.com/world-news/flydubai-hero-pilot-is-indian-fought-off-colleague-who-stabbed-him-sources-12120912#publisher=newsstand)
+- [Grabbed 'Terrorist', Choked Him: Passenger On Subduing flydubai Stabber](https://www.ndtv.com/world-news/grabbed-terrorist-choked-him-passenger-on-subduing-flydubai-stabber-12122403#publisher=newsstand)
+- [19-Year-Old Student Stabbed To Death Outside College In Bengaluru](https://www.ndtv.com/india-news/19-year-old-student-stabbed-to-death-outside-college-in-bengaluru-12122401#publisher=newsstand)
 - ["Extraordinary Bravery": Netanyahu "Salutes" Indian Hero Pilot Smit Machchhar](https://www.ndtv.com/world-news/extraordinary-bravery-netanyahu-salutes-indian-hero-pilot-smit-machchhar-12122317#publisher=newsstand)
 - [Delhi AQI Slips To 'Moderate' As Stubble Burning Reported In 6 States](https://www.ndtv.com/india-news/delhi-aqi-slips-to-moderate-as-stubble-burning-reported-in-6-states-12122369#publisher=newsstand)
-- [Indian Pilot Once Spoke About Discipline In Cockpit, Then He Was Stabbed There](https://www.ndtv.com/world-news/flydubai-israel-saudi-arabia-indian-pilot-smit-machchhar-had-another-career-in-mind-then-he-emerged-a-cockpit-hero-12122113#publisher=newsstand)
-- [AAP Takes "Chitta" Swipe at BJP As Amit Shah Holds Rally In Punjab, Congress Slams Them Both](https://www.ndtv.com/india-news/bjp-cannot-wash-its-hands-off-drug-crisis-aap-cannot-blame-centre-bajwa-aman-arora-trade-charges-12122313#publisher=newsstand)
-- [More Traffic Violations, More Unpaid Fines: India's Challan Gap In Numbers](https://www.ndtv.com/india-news/more-traffic-violations-more-unpaid-fines-indias-challan-gap-in-numbers-12122312#publisher=newsstand)
-- [39-Year-Old Delhi Woman Arrested For Using 14-Year-Old Son To Sell Marijuana](https://www.ndtv.com/india-news/39-year-old-delhi-woman-arrested-for-using-14-year-old-son-to-sell-marijuana-in-chanakyapuri-12122309#publisher=newsstand)
-- [Delhi University Student' Murder 'Pre-Planned', Attacker Bought Knife Online](https://www.ndtv.com/india-news/delhi-university-student-murder-pre-planned-attacker-bought-knife-online-12122294#publisher=newsstand)
-- [Ambulance Stopped For Convoy, Himanta Sarma Apologises To Patient, Family](https://www.ndtv.com/india-news/ambulance-stopped-for-convoy-himanta-sarma-apologises-to-patient-family-12122295#publisher=newsstand)
-- [Geopolitical Uncertainty Is Everywhere. Are India's Stock Markets Suffering More?](https://www.ndtv.com/india-news/geopolitical-uncertainty-is-everywhere-are-indias-stock-markets-suffering-more-12122280#publisher=newsstand)
 
 **Hindustan Times**
 - [Israel's Netanyahu hails Indian pilot Smit Machchar's heroics in saving 174 lives aboard flydubai aircraft](https://www.hindustantimes.com/india-news/netanyahu-hails-indian-pilot-capt-smit-machchars-heroics-in-saving-174-lives-aboard-flydubai-aircraft-101790798123005.html)
@@ -74,6 +74,8 @@
 - [Thiruvananthapuram witnesses tense moments following  Youth Congress-SFI clash](https://www.thehindu.com/news/national/kerala/thiruvananthapuram-witnesses-tense-moments-following-youth-congress-sfi-clash/article71530182.ece)
 
 **Livemint**
+- [IDF video: Child allegedly used as ‘human shield’ to move weapons in Gaza](https://www.livemint.com/news/world/idf-video-child-allegedly-used-as-human-shield-to-move-weapons-in-gaza-11790800224904.html)
+- [Pennsylvania Reports Fifth Measles Death in Widening Crisis](https://www.livemint.com/news/us-news/pennsylvania-reports-fifth-measles-death-in-widening-crisis-11790800726509.html)
 - [Trump calls Iraq exit a ‘victory’ over ISIS: Why June 2027 is now crucial for Baghdad](https://www.livemint.com/news/world/trump-calls-iraq-exit-a-victory-over-isis-why-june-2027-is-now-crucial-for-baghdad-11790796345462.html)
 - [US Senate blocks data center power-cost bill amid election-year clash](https://www.livemint.com/news/us-senate-blocks-data-center-power-cost-bill-amid-election-year-clash-11790791053402.html)
 - [US leaves Iraq, Houthis advance: Challenges for the Middle East as it prepares for a post-American security era](https://www.livemint.com/news/world/us-leaves-iraq-houthis-advance-challenges-for-the-middle-east-as-it-prepares-for-a-post-american-security-era-11790791027390.html)
@@ -82,8 +84,6 @@
 - [FTC launches probe into OpenAI, Anthropic over ‘rogue’ AI agents as concerns grow over safety](https://www.livemint.com/news/us-news/ftc-launches-probe-into-openai-anthropic-over-rogue-ai-agents-as-concerns-grow-over-safety-11790791553143.html)
 - [US inflation comes in below expectations in August amid high energy prices linked to Iran war](https://www.livemint.com/news/us-news/us-inflation-comes-in-below-expectations-in-august-amid-high-energy-prices-linked-to-iran-war-11790790972922.html)
 - [Netanyahu hugs passenger who saved pilot, tackled attacker aboard FlyDubai flight | Watch video](https://www.livemint.com/news/world/netanyahu-hugs-passenger-who-saved-pilot-tackled-attacker-aboard-flydubai-flight-watch-video-11790789103683.html)
-- [Can AI dull human brain? Doctor warns of impact on memory, language and recall](https://www.livemint.com/news/trends/can-ai-dull-human-brain-doctor-warns-of-impact-on-memory-language-and-recall-11790782106622.html)
-- [FlyDubai scare: 'Crash' attempt, pilot stabbing and a 17,000-ft plunge | What we know so far](https://www.livemint.com/news/world/flydubai-horror-pilot-stabbed-plane-plunges-before-emergency-saudi-landing-netanyahu-alleges-crash-attempt-what-w-11790785430627.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -126,16 +126,16 @@
 - [ಫುಟ್‌ಪಾತ್ ಬೈಕ್ ಸವಾರರಿಗೆ ಭಾರಿ ದಂಡದ ಶಾಕ್: ಹಾಫ್ ಹೆಲ್ಮೆಟ್ ನಿಷೇಧಕ್ಕೆ ಸರ್ಕಾರ ಚಿಂತನೆ](https://tv9kannada.com/karnataka/heavy-fines-for-bikers-using-footpaths-government-mulls-ban-on-half-helmets-1244842.html)
 
 **Prajavani**
-- [ಬಿಟ್‌ ಕಾಯಿನ್‌ ಹಗರಣ: ಶ್ರೀಕಿಗೆ ಜಾಮೀನು](https://www.prajavani.net/news/karnataka-news/hacker-sriki-bitcoin-scam-high-court-bail-4299379)
-- [ಯಾದಗಿರಿ | ಮೊಮ್ಮಗಳ ಮೇಲೆ ಅತ್ಯಾಚಾರಕ್ಕೆ ಯತ್ನ: ಅಜ್ಜನ ಬಂಧನ](https://www.prajavani.net/district/yadagiri/rape-case-arrest-yadgir-news-4298403)
-- [ಭೂ ಸುಧಾರಣಾ ಕಾಯ್ದೆ ತಿದ್ದುಪಡಿ ಹಿಂಪಡೆಯಿರಿ: ರಾಹುಲ್‌ಗೆ ಬಿ.ಆರ್‌.ಪಾಟೀಲ ಪತ್ರ](https://www.prajavani.net/district/kalaburagi/br-patil-letter-to-rahul-gandhi-on-karnataka-land-reforms-act-amendment-4298410)
-- [ಮಾಗಡಿ | ಮಳೆಯಿಂದ ಕೊಚ್ಚಿ ಹೋದ ರಸ್ತೆ: ಸಂಪರ್ಕ ಕಡಿತ](https://www.prajavani.net/district/bangaluru-rural/magadi-heavy-rain-road-damage-connectivity-cut-off-4299418)
-- [ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಕುಸ್ತಿ: ಸುನಿಲ್ ಕುಮಾರ್‌ಗೆ ಕಂಚು](https://www.prajavani.net/sports/other-sports/sunil-kumar-wins-bronze-in-asian-games-wrestling-4299262)
 - [ಏಷ್ಯನ್ ಕ್ರೀಡೆಗಳ ಶೂಟಿಂಗ್‌ ಸ್ಪರ್ಧೆ: ನೀರೂ– ಕೈನನ್‌ಗೆ ಒಲಿದ ಚಿನ್ನ](https://www.prajavani.net/sports/other-sports/neeru-dhanda-kynan-chenai-win-gold-in-asian-shooting-championships-4299224)
 - [ನೂತನ ಜವಳಿ, ಉಡುಪು ನೀತಿ 2026–31 ಜಾರಿ: 5 ಲಕ್ಷ ಉದ್ಯೋಗ ಸೃಷ್ಟಿ‌ ಗುರಿ](https://www.prajavani.net/news/karnataka-news/karnataka-new-textile-and-apparel-policy-investment-jobs-2-4298663)
 - [ಧಾನ್ಯ, ಎಣ್ಣೆಕಾಳುಗಳನ್ನು ಕನಿಷ್ಠ ಬೆಂಬಲ ಬೆಲೆ ಅಡಿ ಖರೀದಿಗೆ ಕೇಂದ್ರ ಒಪ್ಪಿಗೆ](https://www.prajavani.net/business/commerce-news/central-government-approves-msp-procurement-karnataka-oilseeds-grains-4299066)
 - [ದೊರಾಬ್ಜಿ ಟಾಟಾ ಟ್ರಸ್ಟ್ ವಿರುದ್ಧ ಶ್ರೀನಿವಾಸನ್ ದೂರು](https://www.prajavani.net/business/commerce-news/venu-srinivasan-complaint-against-dorabji-tata-trust-4299127)
 - [ಅಪಾಯಕಾರಿ: ರಷ್ಯಾ ಸೇನೆ ಸೇರಬಯಸುತ್ತಿರುವ ಭಾರತೀಯರಿಗೆ ಎಚ್ಚರಿಕೆ](https://www.prajavani.net/news/india-news/mea-warns-indians-against-joining-russia-army-4299215)
+- [ಲಾಹೋರ್: ನೆಹರೂ ಉದ್ಯಾನ ಪುನರ್‌ನಿರ್ಮಾಣ ಆರಂಭ](https://www.prajavani.net/news/india-news/nehru-park-lahore-restoration-begins-historical-site-4299210)
+- [ಅನುಕಂಪಕ್ಕಾಗಿ ಹರಿಪ್ರಸಾದ್‌ ಪಾದಯಾತ್ರೆ; ವಿಜಯೇಂದ್ರ ವಾಗ್ದಾಳಿ](https://www.prajavani.net/district/chitradurga/vijayendra-slams-hariprasad-shikaripura-padayatra-criticism-4298848)
+- [ಕೆಪಿಎಸ್‌ಸಿ ಅಕ್ರಮ: ಪರೀಕ್ಷೆ ಮುನ್ನಾ ದಿನ ಪ್ರಶ್ನೆಪತ್ರಿಕೆ ಸೋರಿಕೆ](https://www.prajavani.net/news/karnataka-news/kpsc-veterinary-officer-exam-question-paper-leak-ed-investigation-4298743)
+- [ಕಾರ್ಟೂನಿಸ್ಟ್‌ ಸತೀಶ್‌ ಆಚಾರ್ಯ ಇನ್‌ಸ್ಟಾಗ್ರಾಂ ಖಾತೆ ನಿರ್ಬಂಧ](https://www.prajavani.net/district/udupi/cartoonist-satish-acharya-instagram-account-restricted-in-india-4298805)
+- [ಬಿಜೆಪಿ ಅನಾಹುತಗಳಿಗೆ ಕಾಂಗ್ರೆಸ್‌ ಬೆಲೆ ತೆರುತ್ತಿದೆ: ಸಿಎಂ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್](https://www.prajavani.net/district/chamarajanagara/dk-shivakumar-criticizes-bjp-government-financial-mismanagement-4299021)
 
 **eedina**
 - [ಕಲಬುರಗಿ | ಹಿಂದೂ ಮಹಾಗಣಪತಿ ಉತ್ಸವಕ್ಕೆ ರೌಡಿ ಶೀಟರ್ ಶ್ರೀಕಾಂತ್ ಶೆಟ್ಟಿ ಎಂಟ್ರಿಗೆ ಬ್ರೇಕ್; 4 ದಿನ ನಗರ ಪ್ರವೇಶ ನಿರ್ಬಂಧ](https://eedina.com/?p=768203)
@@ -150,35 +150,35 @@
 - [ರಾಯಚೂರು | ಬರ ಪರಿಹಾರ, ಸಮರ್ಪಕ ವಿದ್ಯುತ್ ಪೂರೈಕೆಗೆ ಆಗ್ರಹ: ಜೆಡಿಎಸ್‌ನಿಂದ ಬೃಹತ್ ಪ್ರತಿಭಟನೆ](https://eedina.com/?p=768168)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Indian (7.7)
+- Indian (7.4)
 - Netanyahu (5.5)
 - Flydubai (3.2)
-- Congress (2.9)
+- Bengaluru (2.9)
 - pilot (2.7)
+- Congress (2.6)
 - Trump (2.6)
 - Visakhapatnam (2.6)
 - Iraq (2.6)
-- FlyDubai (2.6)
-- Bengaluru (2.6)
 - MRPL (2.6)
-- Delhi (2.5)
-- Pilot (2.2)
-- Punjab (1.6)
-- Woman (1.6)
+- flydubai (2.1)
+- Kerala (1.9)
+- Pilot (1.9)
+- Delhi (1.9)
+- Meghalaya (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [റാഞ്ചിയിട്ടില്ല! ദുബായിൽ നിന്നും ടെൽ അവീവിലേക്ക് പറന്ന വിമാനം സൗദി എയർപോർട്ടിൽ ലാൻഡ് ചെയ്തു](https://malayalam.news18.com/news/gulf/flydubai-flight-emergency-landing-in-saudi-airport-mm-790535.html)
-- ['కాఫీ విత్ కరణ్' టాక్​ షోకు ఎండ్​కార్డ్ - కరణ్ జోహార్ ప్రకటన](https://www.etvbharat.com/te/entertainment/karan-johar-announced-that-he-is-ends-koffee-with-karan-talk-show-with-9th-season-ten26093003104)
-- [Drishyam 3 Star Cast Fees: अजय देवगन को मिली सबसे मोटी रकम, जानें- तबू समेत बाकी स्टार कास्ट की फीस](https://www.abplive.com/entertainment/bollywood/drishyam-3-the-conclusion-star-cast-fees-ajay-devgn-tabu-jaideep-ahlawat-rajat-kapoor-shriya-sharan-3195825)
-- [Flydubai flight | ఫ్లైదుబాయ్ విమానం హైజాక్ అల‌ర్ట్.. చివ‌ర‌కు సేఫ్‌ ల్యాండింగ్.. అస‌లేం జ‌రిగింది](https://www.ntnews.com/international/flydubai-flight-sends-hijack-alert-on-dubai-tel-aviv-route-israeli-officials-rule-out-hijacking-2523819)
-- [Cornell University gang-rape case: DA reveals new disturbing details as investigation reopens](https://timesofindia.indiatimes.com/world/us/cornell-university-gang-rape-case-da-reveals-new-disturbing-details-as-investigation-reopens/articleshow/134585318.cms)
-- [దీనికి కర్త, కర్మ, క్రియ రాజ్ కెసిరెడ్డే : విజయసాయిరెడ్డి](https://www.telugutimes.net/politics/navyandhra/visakhapatnam-ex-mp-vijayasai-reddy-comments-on-sajjala-ramakrishna-reddy-423443.html)
-- [NTR : మూగ అభిమాని కోసం.. చేతికి ఉన్న పౌచ్ తీసేసి మరీ హగ్ ఇచ్చిన ఎన్టీఆర్.. వీడియో వైరల్..](https://10tv.in/telugu-news/movies/ntr-meets-deaf-and-mute-fan-in-dont-trouble-the-trouble-pre-release-event-videos-goes-viral-sy-1143266.html)
-- [Flydubai Flight Emergency: বিমান হাইজ্যাক হয়েছে বলে SOS, নামানো হল যুদ্ধবিমানও, পরে জানা গেল, ককপিটে মারপিট করছিলেন পাইলটরা](https://bengali.abplive.com/news/flydubai-plane-false-hijack-alert-sent-as-pilots-got-into-brawl-and-emergeny-alert-was-sent-1194652)
-- [INDIA गठबंधन की बैठक में उद्धव ठाकरे ने कांग्रेस को सुनाया, 'ये ठीक नहीं की...'](https://www.abplive.com/news/india/uddhav-thackeray-to-congress-in-india-block-meeting-over-cec-gyanesh-kumar-3195821)
-- [ઈરાન-અમેરિકા સંઘર્ષ વચ્ચે મોટો વળાંક: 23 વર્ષ બાદ યુએસ આર્મીએ ઈરાક છોડ્યું! તેહરાનમાં ઉજવણી](https://www.gujaratsamachar.com/news/international/US-Military-Completes-Full-Withdrawal-from-Iraq-After-Two-Decades-66105476139)
+- [Shivsena UBT Pradeep Purnekar Death Case: ठाण्यातील ठाकरे गटाचे विभागप्रमुख प्रदीप पूर्णेकरांना 5 जणांनी संपवलं; आदित्य ठाकरे संतापले, म्हणाले...](https://marathi.abplive.com/crime/aaditya-thackeray-react-on-shivsena-ubt-pradeep-purnekar-death-case-thane-marathi-news-1440762)
+- [ज्ञानेश कुमार के खिलाफ इंडिया ब्लॉक का 2-8 अक्तूबर तक कैंपेन, 6 को चुनाव आयोग तक मार्च](https://ndtv.in/india/india-block-campaigns-against-the-cec-from-october-2-8-mallikarjun-kharge-explain-opposition-plan-12119121)
+- [বড়লোকদের ‘পিষে’ ফেলতে চাইছে চিন! কর নিয়ে কড়াকড়িতে চিন্তার ভাঁজ চিনা ধনকুবেরদের কপালে](https://www.anandabazar.com/photogallery/beijing-tightens-revenue-grip-on-high-net-worth-individuals-and-global-investments-dgtl-photogallery-prnt/cid/1716485)
+- [IND vs WI: आकिब नबी की पूरी हुई ख्वाहिश, इंटरनेशनल डेब्यू में मिला धमाल मचाने का मौका](https://www.aajtak.in/sports/cricket/story/auqib-nabi-odi-debut-india-vs-west-indies-guwahati-tspok-dskc-2657346-2026-09-30)
+- [దేశంలో మొట్టమొదటిసారి.. మాజీ డీఎస్పీ భీమ్‌రెడ్డిపై బినామీ యాక్ట్ కింద కేసు నమోదు](https://telugu.samayam.com/telangana/news/former-dsp-bheem-reddy-faces-benami-property-cases-as-it-department-acts-against-8-suspected-associates/articleshow/134588410.cms)
+- [‘Tata Sons-ஐ பட்டியலிடக் கூடாது’: சந்திரசேகரனால் பிரச்னையா? நோயல் டாடாவின் Loop Hole என்ன?!](https://www.vikatan.com/business/noel-tatas-plan-to-keep-tata-sons-away-from-stock-market)
+- [‘ഇത് എന്റെ ശരീരമാണ്, ഇതിൽ അഭിപ്രായം പറയാൻ നിങ്ങൾക്കെന്താണ് ഇത്ര ധൈര്യം’! പ്രതികരിച്ച് ജുവൽ മേരി](https://www.vanitha.in/celluloid/multiplex/2026/09/30/jewel-mary-about-body-shaming-video-news.html)
+- [ਡਾ. ਬਲਬੀਰ ਸਿੰਘ ਨੇ ਛੇ ਨਵ-ਨਿਯੁਕਤ ਫੂਡ ਸੇਫਟੀ ਅਫਸਰਾਂ ਨੂੰ ਨਿਯੁਕਤੀ ਪੱਤਰ ਸੌਂਪੇ](https://wishavwarta.in/dr-balbir-singh-8/)
+- [ట్యాక్స్ ఆడిట్ గడువు అక్టోబర్ 21కి పెంపు.. ఇప్పుడే ఫైల్ చేయాలా? వేచి చూడాలా? ట్యాక్స్ పేయర్లు తెలుసుకోవాల్సిన విషయాలు](https://telugu.samayam.com/business/business-news/file-itr-now-or-wait-until-the-new-21-october-tax-audit-deadline-what-taxpayers-need-to-know/articleshow/134588018.cms)
+- [ICC वनडे रैंकिंग में नंबर-1 बनने के नजदीक कोहली, गिल से इतने अंक का फासला; टॉप 5 में कुलदीप](https://www.livehindustan.com/cricket/icc-odi-rankings-virat-kohli-threatens-shubman-gill-no-1-spot-kuldeep-yadav-enters-the-top-5-201790756629897.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
