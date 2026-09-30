@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-30 22:02:37
+# India Trending Report — 2026-09-30 22:37:17
 
 ## Google Trends (India) — top trending searches
 1. [gemini 4](https://trends.google.com/trending/rss?geo=IN)
@@ -17,15 +17,17 @@
 - ['A true hero': Netanyahu 'salutes' Indian pilot who stopped co-pilot from crashing plane](https://timesofindia.indiatimes.com/india/a-true-hero-netanyahu-salutes-indian-pilot-who-stopped-omani-co-pilot-from-crashing-flydubai-plane/articleshow/134601907.cms)
 - ['Receiving necessary medical attention': Embassy updates on Indian Flydubai pilot](https://timesofindia.indiatimes.com/world/middle-east/flydubai-flight-incident-netanyahu-says-israel-preparing-for-other-potential-threats-top-developments/articleshow/134595815.cms)
 - [Is it time for Congress and INDIA bloc to take a leaf out of CJP's playbook?](https://timesofindia.indiatimes.com/india/protests-against-sir-cec-is-it-time-for-congress-and-india-bloc-to-take-a-leaf-out-of-cjps-playbook/articleshow/134597912.cms)
+- [Tata Trusts file caveat before Maharashtra charity commissioner](https://timesofindia.indiatimes.com/business/india-business/tata-trusts-file-caveat-before-maharashtra-charity-commissioner/articleshow/134604331.cms)
 - [Captain Machchhar: The pilot from Mumbai who proved to be the hero](https://timesofindia.indiatimes.com/india/captain-machchhar-the-pilot-from-mumbai-who-proved-to-be-the-hero/articleshow/134602233.cms)
-- ['It was like a horror film': How Flydubai pilot was restrained with headphones](https://timesofindia.indiatimes.com/world/middle-east/it-was-like-a-horror-film-israeli-passenger-recounts-restraining-flydubai-pilot-with-headphones-after-cockpit-struggle/articleshow/134600343.cms)
 - [In 2018, Musk gave $480,350 for Flint school filters; students drink from fountains](https://timesofindia.indiatimes.com/technology/tech-news/in-2018-elon-musk-donated-480350-for-flint-school-water-filters-four-years-later-redesigned-systems-allowed-students-to-drink-from-fountains-again-after-years-of-relying-on-alternative-supplies/articleshow/134585828.cms)
-- [Modi and Trump discuss ties, PM flags concerns about US’ Russia law](https://timesofindia.indiatimes.com/india/modi-and-trump-discuss-ties-pm-flags-concerns-about-us-russia-law/articleshow/134602223.cms)
+- [Amid SIR row, INDIA bloc puts up united front, targets PM Modi, Shah](https://timesofindia.indiatimes.com/india/amid-sir-row-india-bloc-puts-up-united-front-targets-pm-modi-shah/articleshow/134605309.cms)
 - [5 money changes in Oct: Bulk FD rates, UPI MDR, SBI ATM limit cut, LPG KYC & more](https://timesofindia.indiatimes.com/business/india-business/5-money-rule-changes-from-october-2026-bulk-fd-rates-upi-mdr-starts-above-rs-2000-sbi-atm-free-limit-falls-to-5-lpg-aadhaar-kyc-new-nps-charges/articleshow/134587809.cms)
-- [Senior citizen wrongly paid tax on Rs 25.42L interest; ITAT orders Rs 9.91L refund](https://timesofindia.indiatimes.com/business/india-business/senior-citizen-invested-rs-3-crore-in-tax-free-bonds-but-mistakenly-paid-tax-on-rs-25-42-lakh-interest-earnings-why-itat-delhi-ordered-rs-9-91-lakh-refund/articleshow/134595737.cms)
-- [Flydubai cockpit drama: How Indian pilot stopped co-pilot from crashing plane](https://timesofindia.indiatimes.com/india/flydubai-flight-drama-how-indian-pilot-smit-machchhar-stopped-omani-co-pilot-from-crashing-plane/articleshow/134597514.cms)
+- ['It was like a horror film': How Flydubai pilot was restrained with headphones](https://timesofindia.indiatimes.com/world/middle-east/it-was-like-a-horror-film-israeli-passenger-recounts-restraining-flydubai-pilot-with-headphones-after-cockpit-struggle/articleshow/134600343.cms)
+- [Panel eyes 'debundling' of exam responsibilities](https://timesofindia.indiatimes.com/india/panel-eyes-debundling-of-exam-responsibilities/articleshow/134605299.cms)
 
 **NDTV**
+- ["Terrorist": Trump On Copilot Who Stabbed Captain Smit Machchhar On flydubai Plane](https://www.ndtv.com/world-news/terrorist-trump-on-copilot-who-stabbed-captain-smit-machchhar-on-flydubai-plane-12122630#publisher=newsstand)
+- [What Happened On flydubai Flight FZ1073 That Forced To Land In Saudi](https://www.ndtv.com/world-news/what-happened-on-flydubai-flight-fz1073-that-forced-to-land-in-saudi-arabia-12122576#publisher=newsstand)
 - [flydubai Incident Live Updates:  flydubai Says Suspending Flights To And From Israel Pending Investigation](https://www.ndtv.com/world-news/flydubai-hijack-fz1073-emergency-landing-israel-saudi-arabia-live-updates-pilots-injured-12119823#publisher=newsstand)
 - [US Military Will Cut 20% Of Its Generals, Admirals: Pete Hegseth](https://www.ndtv.com/world-news/us-military-will-cut-20-of-its-generals-admirals-pete-hegseth-12122497#publisher=newsstand)
 - [Meghalaya Deputy Chief Minister Backs Review of Foreign Funding Bill](https://www.ndtv.com/india-news/meghalaya-deputy-chief-minister-backs-review-of-foreign-funding-bill-12122481#publisher=newsstand)
@@ -34,8 +36,6 @@
 - [flydubai Hero Pilot Is Indian, Fought Off Colleague Who Stabbed Him](https://www.ndtv.com/world-news/flydubai-hero-pilot-is-indian-fought-off-colleague-who-stabbed-him-sources-12120912#publisher=newsstand)
 - [Grabbed 'Terrorist', Choked Him: Passenger On Subduing flydubai Stabber](https://www.ndtv.com/world-news/grabbed-terrorist-choked-him-passenger-on-subduing-flydubai-stabber-12122403#publisher=newsstand)
 - [19-Year-Old Student Stabbed To Death Outside College In Bengaluru](https://www.ndtv.com/india-news/19-year-old-student-stabbed-to-death-outside-college-in-bengaluru-12122401#publisher=newsstand)
-- ["Extraordinary Bravery": Netanyahu "Salutes" Indian Hero Pilot Smit Machchhar](https://www.ndtv.com/world-news/extraordinary-bravery-netanyahu-salutes-indian-hero-pilot-smit-machchhar-12122317#publisher=newsstand)
-- [Delhi AQI Slips To 'Moderate' As Stubble Burning Reported In 6 States](https://www.ndtv.com/india-news/delhi-aqi-slips-to-moderate-as-stubble-burning-reported-in-6-states-12122369#publisher=newsstand)
 
 **Hindustan Times**
 - [Israel's Netanyahu hails Indian pilot Smit Machchar's heroics in saving 174 lives aboard flydubai aircraft](https://www.hindustantimes.com/india-news/netanyahu-hails-indian-pilot-capt-smit-machchars-heroics-in-saving-174-lives-aboard-flydubai-aircraft-101790798123005.html)
@@ -150,35 +150,35 @@
 - [ರಾಯಚೂರು | ಬರ ಪರಿಹಾರ, ಸಮರ್ಪಕ ವಿದ್ಯುತ್ ಪೂರೈಕೆಗೆ ಆಗ್ರಹ: ಜೆಡಿಎಸ್‌ನಿಂದ ಬೃಹತ್ ಪ್ರತಿಭಟನೆ](https://eedina.com/?p=768168)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Indian (7.4)
-- Trump (3.9)
+- Indian (6.8)
+- Trump (2.9)
 - Bengaluru (2.9)
-- Netanyahu (2.9)
+- flydubai (2.7)
 - Congress (2.6)
+- INDIA (2.6)
 - Visakhapatnam (2.6)
 - Iraq (2.6)
 - MRPL (2.6)
-- pilot (2.1)
-- flydubai (2.1)
-- Flydubai (1.9)
 - Kerala (1.9)
-- Pilot (1.9)
-- Delhi (1.9)
+- pilot (1.8)
+- Netanyahu (1.6)
+- Shah (1.6)
 - Meghalaya (1.6)
+- Punjab (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Udal South Movie: सूनेचं अफेअर, सासूचा काटा काढला, दृष्टीहीन सासऱ्याने 'असा' घेतला बदला; OTTवर ट्रेंडिंग सस्पेन्सफुल 'हा' चित्रपट पाहिलात का?](https://marathi.abplive.com/entertainment/udal-south-movie-trending-on-ott-platform-malyalam-thriller-film-get-huge-response-from-audience-1440771)
-- [Ahead of Diwali, Supreme Court rules out total firecracker ban, weighs time limits](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/india/ahead-of-diwali-supreme-court-rules-out-total-firecracker-ban-weighs-time-limits-14041960.html)
-- [ദുബായിൽ നിന്ന് പോയ വിമാനം ഹൈജാക്ക് ചെയ്തിട്ടില്ല; സൗദിയിൽ അടിയന്തരമായി ഇറക്കി, യാത്രക്കാർ സുരക്ഷിതർ](https://www.asianetnews.com/international-news/flydubai-says-dubai-tel-aviv-flight-lands-safely-in-saudi-after-hijacking-reports-articleshow-2lnrxdq)
-- [വാട്ടര്‍ ടാങ്കിൽ കുട്ടികളെ മരിച്ചനിലയിൽ കണ്ടെത്തിയത് കൊലപാതകമെന്ന് പൊലീസ്; അമ്മ കുറ്റം സമ്മതിച്ചു](https://www.asianetnews.com/local-news/mother-confessed-to-killing-two-children-found-dead-in-bathroom-water-tank-in-palakkad-articleshow-ehpqcm3)
-- [தலைமைத் தேர்தல் ஆணையர் ஞானேஷ்குமாருக்கு எதிராக அடுத்த வாரம் விசாரணை : உச்சநீதிமன்றம் அனுமதி](https://viduthalai.in/208191/%E0%AE%A4%E0%AE%B2%E0%AF%88%E0%AE%AE%E0%AF%88%E0%AE%A4%E0%AF%8D-%E0%AE%A4%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D-%E0%AE%86%E0%AE%A3%E0%AF%88%E0%AE%AF%E0%AE%B0%E0%AF%8D-%E0%AE%9E-4/)
-- [‘വായടക്കൂ! തൊലിക്കടിയിലെ കൊഴുപ്പിലല്ല ഒരാളുടെ വില’; ബോഡി ഷെയ്മിങിനെതിരെ രൂക്ഷ പ്രതികരണവുമായി ജുവൽ മേരി](https://www.madhyamam.com/entertainment/celebrities/jewel-mary-slams-body-shaming-1559232)
-- [Russia sends nuclear warning to NATO as tensions rise in the Baltic](https://www.reuters.com/business/aerospace-defense/russia-issues-nuclear-warning-nato-tensions-rise-baltic-2026-09-30/)
-- [सुबह बृजभूषण शरण सिंह बोले- अखिलेश बिना सब सूना, दोपहर में सपा प्रमुख का ऐसा जवाब, BJP आलाकमान की होगी पैनी नजर?](https://navbharattimes.indiatimes.com/state/uttar-pradesh/lucknow/brijbhushan-sharan-singh-and-akhilesh-yadav-statements-new-twist-in-up-politics/articleshow/134590029.cms)
-- [“என் கனவு... வாழ்நாள் பொக்கிஷம்...” - கீர்த்தி சுரேஷ் பகிர்ந்த ‘டோரதி’ அனுபவம்](https://www.hindutamil.in/news/cinema/tamil-cinema/keerthy-suresh-heartfelt-post-on-dorothy)
-- [Cabinet hikes rabi MSP; Rs 91,000 crore payout, safflower gets biggest boost](https://www.moneycontrol.com/news/business/economy/cabinet-hikes-rabi-msp-rs-91-000-crore-payout-safflower-gets-biggest-boost-14041954.html)
+- [MG Hector Tomahawk EV: 4.90 रुपये का खर्च, 14 लाख कीमत, शुरू हुई दमदार SUV की डिलीवरी](https://www.aajtak.in/auto/news/story/mg-hector-tomahawk-ev-deliveries-begin-price-features-details-auam-dskc-2657313-2026-09-30)
+- [১৩ কোটি ভোটারের নাম বাদ, তীব্র আস্থা সংকটে ভারতের নির্বাচন কমিশন](https://www.dailyamardesh.com/world/india/amdjudmi9mec6)
+- [‘যুবভারতী এখন বিশ্বের অন্যতম সেরা’, ব্রাজ়িল থেকে এসে এক মাসে ভোল বদলে দেওয়া ইভান শোনালেন অসাধ্যসাধনের গল্প](https://www.anandabazar.com/sports/football/brazilian-expert-ivan-nascimento-changed-the-field-of-yuva-bharati-krirangan-shared-his-experience-dgtl/cid/1716512)
+- [ઈઝરાયલ જતું વિમાન હાઈજેક કરી ક્રેશ કરવાનો પ્રયાસ? એક પાયલટનો બીજા પર હુમલો, મુસાફરોએ બતાવી બહાદુરી](https://www.gujaratsamachar.com/news/international/flydubai-flight-fz1073-pilot-hijacking-attempt-stabbing-saudi-arabia-landing-58918082657)
+- [മദ്യപിച്ച് വാഹനമോടിച്ച കേസ്: അശ്വന്ത് കോക്കിന്റെ ലൈസന്‍സ് സസ്‌പെന്‍ഡ് ചെയ്യും](https://www.reporterlive.com/topnews/kerala/2026/09/30/aswanth-kokk-drunk-driving-license-suspension)
+- [दीवाली पर पटाखे जला सकते हैं या नहीं? सुप्रीम कोर्ट ने बैन लगाने से किया इनकार, लेकिन रखी एक शर्त](https://www.jagran.com/news/national-supreme-court-on-diwali-firecrackers-no-full-ban-time-limit-set-40390065.html)
+- [Stock Market Close: Sensex ends volatile trade flat, Nifty at 22,620; bank and realty shares shine](https://www.business-standard.com/markets/news/stock-market-live-september-30-sensex-today-nifty-gift-nifty-crude-oil-price-adroit-industries-share-ipo-today-126093000100_1.html)
+- [Asian Games 2026: आर्चरी में आया गोल्ड मेडल, महिला हॉकी टीम फाइनल में पहुंची](https://www.indiatv.in/sports/other-sports/asian-games-2026-live-updates-day-11-september-30th-india-medal-tally-results-and-gold-medal-events-1246102)
+- [ગુજરાત સહિત દેશભરના ખેડૂતોને ફાયદો, કેન્દ્ર સરકારે ઘઉં સાથે 6 રવિ પાકોની MSPમાં કર્યો વધારો](https://www.gujaratsamachar.com/news/national/central-govt-hikes-msp-for-6-rabi-or-winter-crops-62082312713)
+- [Rabi MSP hike, Rs 1.86 lakh crore green corridor, Delhi AI traffic system: Cabinet clears 3 key measures](https://timesofindia.indiatimes.com/business/india-business/rabi-msp-hike-rs-1-86-lakh-crore-green-corridor-delhi-ai-traffic-system-cabinet-clears-3-key-measures/articleshow/134590128.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
