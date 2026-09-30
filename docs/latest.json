@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-09-30 20:02:44",
+  "generated_at": "2026-09-30 20:36:46",
   "google_trends": [
+    {
+      "title": "nitin gadkari",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "ronaldo",
       "traffic": null,
@@ -45,11 +50,6 @@
       "title": "\u092c\u094d\u092f\u093e\u091c",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "today match live",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
     }
   ],
   "outlets": {
@@ -57,6 +57,10 @@
       {
         "title": "'A true hero': Netanyahu 'salutes' Indian pilot who stopped co-pilot from crashing plane",
         "link": "https://timesofindia.indiatimes.com/india/a-true-hero-netanyahu-salutes-indian-pilot-who-stopped-omani-co-pilot-from-crashing-flydubai-plane/articleshow/134601907.cms"
+      },
+      {
+        "title": "'Receiving necessary medical attention': Embassy updates on Indian Flydubai pilot",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/flydubai-flight-incident-netanyahu-says-israel-preparing-for-other-potential-threats-top-developments/articleshow/134595815.cms"
       },
       {
         "title": "Is it time for Congress and INDIA bloc to take a leaf out of CJP's playbook?",
@@ -67,32 +71,28 @@
         "link": "https://timesofindia.indiatimes.com/world/middle-east/it-was-like-a-horror-film-israeli-passenger-recounts-restraining-flydubai-pilot-with-headphones-after-cockpit-struggle/articleshow/134600343.cms"
       },
       {
-        "title": "Flydubai cockpit drama: How Indian pilot stopped co-pilot from crashing plane",
-        "link": "https://timesofindia.indiatimes.com/india/flydubai-flight-drama-how-indian-pilot-smit-machchhar-stopped-omani-co-pilot-from-crashing-plane/articleshow/134597514.cms"
-      },
-      {
-        "title": "'I grabbed the terrorist': Flydubai passenger tells Netanyahu how he subdued pilot",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/i-grabbed-the-terrorist-flydubai-passenger-tells-netanyahu-how-he-subdued-pilot-helped-stabilise-plane/articleshow/134599962.cms"
+        "title": "Modi and Trump discuss ties, PM flags concerns about US\u2019 Russia law",
+        "link": "https://timesofindia.indiatimes.com/india/modi-and-trump-discuss-ties-pm-flags-concerns-about-us-russia-law/articleshow/134602223.cms"
       },
       {
         "title": "In 2018, Musk gave $480,350 for Flint school filters; students drink from fountains",
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-2018-elon-musk-donated-480350-for-flint-school-water-filters-four-years-later-redesigned-systems-allowed-students-to-drink-from-fountains-again-after-years-of-relying-on-alternative-supplies/articleshow/134585828.cms"
       },
       {
-        "title": "UAE planning to develop shipping alternatives, port that bypasses Hormuz",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-planning-to-develop-shipping-alternatives-port-that-bypasses-hormuz/articleshow/134599718.cms"
+        "title": "Flydubai cockpit drama: How Indian pilot stopped co-pilot from crashing plane",
+        "link": "https://timesofindia.indiatimes.com/india/flydubai-flight-drama-how-indian-pilot-smit-machchhar-stopped-omani-co-pilot-from-crashing-plane/articleshow/134597514.cms"
       },
       {
         "title": "5 money changes in Oct: Bulk FD rates, UPI MDR, SBI ATM limit cut, LPG KYC & more",
         "link": "https://timesofindia.indiatimes.com/business/india-business/5-money-rule-changes-from-october-2026-bulk-fd-rates-upi-mdr-starts-above-rs-2000-sbi-atm-free-limit-falls-to-5-lpg-aadhaar-kyc-new-nps-charges/articleshow/134587809.cms"
       },
       {
-        "title": "Mother and nominee son died; bank delayed funds to father, ordered to pay Rs 15,000",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/mother-nominated-son-for-savings-account-but-both-died-farmer-father-faced-long-delays-got-money-but-lodged-a-compliant-consumer-commission-orders-bank-to-pay-rs-15000-relief/articleshow/134590731.cms"
+        "title": "'I grabbed the terrorist': Flydubai passenger tells Netanyahu how he subdued pilot",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/i-grabbed-the-terrorist-flydubai-passenger-tells-netanyahu-how-he-subdued-pilot-helped-stabilise-plane/articleshow/134599962.cms"
       },
       {
-        "title": "Gill's 223, Rohit's 101 power India to record 406-run chase against West Indies",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/shubman-gills-223-rohit-sharmas-101-power-india-to-record-406-run-chase-against-west-indies/articleshow/134599751.cms"
+        "title": "UAE planning to develop shipping alternatives, port that bypasses Hormuz",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-planning-to-develop-shipping-alternatives-port-that-bypasses-hormuz/articleshow/134599718.cms"
       }
     ],
     "NDTV": [
@@ -139,6 +139,10 @@
     ],
     "Hindustan Times": [
       {
+        "title": "Israel's Netanyahu hails Indian pilot Smit Machchar's heroics in saving 174 lives aboard flydubai aircraft",
+        "link": "https://www.hindustantimes.com/india-news/netanyahu-hails-indian-pilot-capt-smit-machchars-heroics-in-saving-174-lives-aboard-flydubai-aircraft-101790798123005.html"
+      },
+      {
         "title": "At bypoll rally, Vijay continues attack on Oppn DMK, AIADMK",
         "link": "https://www.hindustantimes.com/india-news/at-bypoll-rally-vijay-continues-attack-on-oppn-dmk-aiadmk-101790797432867.html"
       },
@@ -173,10 +177,6 @@
       {
         "title": "India-US economic ties moving beyond trade to investment, tech, innovation: Goyal",
         "link": "https://www.hindustantimes.com/india-news/indiaus-economic-ties-moving-beyond-trade-to-investment-tech-innovation-goyal-101790782427336.html"
-      },
-      {
-        "title": "Jharkhand CM Hemant Soren charged in PMLA case over alleged 8.86-acre land fraud case",
-        "link": "https://www.hindustantimes.com/india-news/jharkhand-cm-hemant-soren-charged-in-pmla-case-over-alleged-8-86-acre-land-fraud-case-101790781828161.html"
       }
     ],
     "Vijay Karnataka": [
@@ -223,6 +223,34 @@
     ],
     "The Hindu": [
       {
+        "title": "Israeli PM hails Indian pilot wounded in diverted flydubai flight",
+        "link": "https://www.thehindu.com/news/international/israeli-pm-hails-indian-pilot-wounded-in-diverted-flydubai-flight/article71530244.ece"
+      },
+      {
+        "title": "Congress stages protest in Visakhapatnam over SIR exercise",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/congress-stages-protest-in-visakhapatnam-over-sir-exercise/article71529996.ece"
+      },
+      {
+        "title": "\u2018Only 747 enrolment applications received from homeless voters\u2019: NGO writes to Delhi CEO, flags \u2018lapses\u2019",
+        "link": "https://www.thehindu.com/news/cities/Delhi/only-747-enrolment-applications-received-from-homeless-voters-ngo-writes-to-delhi-ceo-flags-lapses/article71529638.ece"
+      },
+      {
+        "title": "Amazon Now sees strong response in Visakhapatnam",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/amazon-now-sees-strong-response-in-visakhapatnam/article71529948.ece"
+      },
+      {
+        "title": "Bihar Cabinet gives nod to Bihar Green Hydrogen Policy, 2026",
+        "link": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-gives-nod-to-bihar-green-hydrogen-policy-2026/article71529549.ece"
+      },
+      {
+        "title": "Pilot attacked in flydubai altercation Indian",
+        "link": "https://www.thehindu.com/news/national/pilot-attacked-in-flydubai-altercation-indian-say-sources/article71529343.ece"
+      },
+      {
+        "title": "Kerala HC directs transparency in selection of Sabarimala, Malikappuram Melsanthis",
+        "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-transparency-in-selection-of-sabarimala-malikappuram-melsanthis/article71525050.ece"
+      },
+      {
         "title": "Army\u2019s \u2018Operation Drishti\u2019 in Kashmir\u2019s border areas a milestone: J&K L-G Manoj Sinha",
         "link": "https://www.thehindu.com/news/national/armys-operation-drishti-in-kashmirs-border-areas-a-milestone-jk-l-g-manoj-sinha/article71530064.ece"
       },
@@ -231,39 +259,15 @@
         "link": "https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-make-informed-career-choices-upskill-continuously/article71528298.ece"
       },
       {
-        "title": "Pilot attacked in flydubai altercation Indian",
-        "link": "https://www.thehindu.com/news/national/pilot-attacked-in-flydubai-altercation-indian-say-sources/article71529343.ece"
-      },
-      {
-        "title": "Israeli PM hails Indian pilot wounded in diverted flydubai flight",
-        "link": "https://www.thehindu.com/news/national/israeli-pm-hails-indian-pilot-wounded-in-diverted-flydubai-flight/article71530244.ece"
-      },
-      {
         "title": "Thiruvananthapuram witnesses tense moments following  Youth Congress-SFI clash",
         "link": "https://www.thehindu.com/news/national/kerala/thiruvananthapuram-witnesses-tense-moments-following-youth-congress-sfi-clash/article71530182.ece"
-      },
-      {
-        "title": "PDP moves privilege motion against J&K Chief Secretary, Law Secretary",
-        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/pdp-moves-privilege-motion-against-jk-chief-secretary-law-secretary/article71529997.ece"
-      },
-      {
-        "title": "Madras High Court rejects election petition filed against the victory of DMK former Minister S. Regupathy from Thirumayam",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-rejects-election-petition-filed-against-the-victory-of-dmk-former-minister-s-regupathy-from-thirumayam/article71529617.ece"
-      },
-      {
-        "title": "Greater Bengaluru Development Minister Krishna Byre Gowda orders KRDCL to fix SH-35 within three months, provide immediate relief to commuters",
-        "link": "https://www.thehindu.com/news/cities/bangalore/greater-bengaluru-development-minister-krishna-byre-gowda-orders-krdcl-to-fix-sh-35-within-three-months-provide-immediate-relief-to-commuters/article71528937.ece"
-      },
-      {
-        "title": "Karnataka SIR: Civil society report flags large-scale voter deletions, ground-level discrepancies",
-        "link": "https://www.thehindu.com/news/national/karnataka/karnataka-sir-civil-society-report-flags-large-scale-voter-deletions-ground-level-discrepancies/article71528305.ece"
-      },
-      {
-        "title": "Task force to guard govt. land near Masula port from sand excavation",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/task-force-to-guard-govt-land-near-masula-port-from-sand-excavation/article71529744.ece"
       }
     ],
     "Livemint": [
+      {
+        "title": "Trump calls Iraq exit a \u2018victory\u2019 over ISIS: Why June 2027 is now crucial for Baghdad",
+        "link": "https://www.livemint.com/news/world/trump-calls-iraq-exit-a-victory-over-isis-why-june-2027-is-now-crucial-for-baghdad-11790796345462.html"
+      },
       {
         "title": "US Senate blocks data center power-cost bill amid election-year clash",
         "link": "https://www.livemint.com/news/us-senate-blocks-data-center-power-cost-bill-amid-election-year-clash-11790791053402.html"
@@ -299,10 +303,6 @@
       {
         "title": "FlyDubai scare: 'Crash' attempt, pilot stabbing and a 17,000-ft plunge | What we know so far",
         "link": "https://www.livemint.com/news/world/flydubai-horror-pilot-stabbed-plane-plunges-before-emergency-saudi-landing-netanyahu-alleges-crash-attempt-what-w-11790785430627.html"
-      },
-      {
-        "title": "Harry and Meghan\u2019s $14.5 million California mansion: What they plan to do with it after UK move?",
-        "link": "https://www.livemint.com/news/us-news/harry-and-meghan-s-14-5-million-california-mansion-what-happens-to-it-after-uk-move-11790782963837.html"
       }
     ],
     "Moneycontrol": [],
@@ -435,6 +435,10 @@
     ],
     "Prajavani": [
       {
+        "title": "\u0cac\u0cbf\u0c9f\u0ccd\u200c \u0c95\u0cbe\u0caf\u0cbf\u0ca8\u0ccd\u200c \u0cb9\u0c97\u0cb0\u0ca3: \u0cb6\u0ccd\u0cb0\u0cc0\u0c95\u0cbf\u0c97\u0cc6 \u0c9c\u0cbe\u0cae\u0cc0\u0ca8\u0cc1",
+        "link": "https://www.prajavani.net/news/karnataka-news/hacker-sriki-bitcoin-scam-high-court-bail-4299379"
+      },
+      {
         "title": "\u0caf\u0cbe\u0ca6\u0c97\u0cbf\u0cb0\u0cbf | \u0cae\u0cca\u0cae\u0ccd\u0cae\u0c97\u0cb3 \u0cae\u0cc7\u0cb2\u0cc6 \u0c85\u0ca4\u0ccd\u0caf\u0cbe\u0c9a\u0cbe\u0cb0\u0c95\u0ccd\u0c95\u0cc6 \u0caf\u0ca4\u0ccd\u0ca8: \u0c85\u0c9c\u0ccd\u0c9c\u0ca8 \u0cac\u0c82\u0ca7\u0ca8",
         "link": "https://www.prajavani.net/district/yadagiri/rape-case-arrest-yadgir-news-4298403"
       },
@@ -469,10 +473,6 @@
       {
         "title": "\u0c85\u0caa\u0cbe\u0caf\u0c95\u0cbe\u0cb0\u0cbf: \u0cb0\u0cb7\u0ccd\u0caf\u0cbe \u0cb8\u0cc7\u0ca8\u0cc6 \u0cb8\u0cc7\u0cb0\u0cac\u0caf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0cbf\u0cb0\u0cc1\u0cb5 \u0cad\u0cbe\u0cb0\u0ca4\u0cc0\u0caf\u0cb0\u0cbf\u0c97\u0cc6 \u0c8e\u0c9a\u0ccd\u0c9a\u0cb0\u0cbf\u0c95\u0cc6",
         "link": "https://www.prajavani.net/news/india-news/mea-warns-indians-against-joining-russia-army-4299215"
-      },
-      {
-        "title": "\u0cb2\u0cbe\u0cb9\u0ccb\u0cb0\u0ccd: \u0ca8\u0cc6\u0cb9\u0cb0\u0cc2 \u0c89\u0ca6\u0ccd\u0caf\u0cbe\u0ca8 \u0caa\u0cc1\u0ca8\u0cb0\u0ccd\u200c\u0ca8\u0cbf\u0cb0\u0ccd\u0cae\u0cbe\u0ca3 \u0c86\u0cb0\u0c82\u0cad",
-        "link": "https://www.prajavani.net/news/india-news/nehru-park-lahore-restoration-begins-historical-site-4299210"
       }
     ],
     "eedina": [
@@ -521,26 +521,42 @@
   "keywords": [
     {
       "term": "Indian",
-      "score": 6.1
+      "score": 7.7
     },
     {
       "term": "Netanyahu",
-      "score": 5.2
+      "score": 5.5
     },
     {
       "term": "Flydubai",
+      "score": 3.2
+    },
+    {
+      "term": "Congress",
       "score": 2.9
     },
     {
-      "term": "Bengaluru",
-      "score": 2.9
+      "term": "pilot",
+      "score": 2.7
+    },
+    {
+      "term": "Trump",
+      "score": 2.6
+    },
+    {
+      "term": "Visakhapatnam",
+      "score": 2.6
+    },
+    {
+      "term": "Iraq",
+      "score": 2.6
     },
     {
       "term": "FlyDubai",
       "score": 2.6
     },
     {
-      "term": "What",
+      "term": "Bengaluru",
       "score": 2.6
     },
     {
@@ -548,24 +564,12 @@
       "score": 2.6
     },
     {
+      "term": "Delhi",
+      "score": 2.5
+    },
+    {
       "term": "Pilot",
       "score": 2.2
-    },
-    {
-      "term": "Delhi",
-      "score": 2.2
-    },
-    {
-      "term": "pilot",
-      "score": 2.1
-    },
-    {
-      "term": "Minister",
-      "score": 1.9
-    },
-    {
-      "term": "Congress",
-      "score": 1.6
     },
     {
       "term": "Punjab",
@@ -574,53 +578,49 @@
     {
       "term": "Woman",
       "score": 1.6
-    },
-    {
-      "term": "INDIA",
-      "score": 1.3
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u0c0e\u0c38\u0c4d\u0c10\u0c06\u0c30\u0c4d \u0c32\u0c4b \u0c08\u0c38\u0c40 \u0c15\u0c40\u0c32\u0c15 \u0c2e\u0c3e\u0c30\u0c4d\u0c2a\u0c41- \u0c06 \u0c1c\u0c02\u0c1d\u0c3e\u0c1f\u0c02 \u0c28\u0c41\u0c02\u0c1a\u0c3f \u0c35\u0c3f\u0c2e\u0c41\u0c15\u0c4d\u0c24\u0c3f",
-      "link": "https://telugu.oneindia.com/news/india/form-6-unchanged-in-sir-and-non-sir-periods-eci-ends-confusion-over-declaration-form-electoral-roll-508595.html"
+      "title": "\u0d31\u0d3e\u0d1e\u0d4d\u0d1a\u0d3f\u0d2f\u0d3f\u0d1f\u0d4d\u0d1f\u0d3f\u0d32\u0d4d\u0d32! \u0d26\u0d41\u0d2c\u0d3e\u0d2f\u0d3f\u0d7d \u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d41\u0d02 \u0d1f\u0d46\u0d7d \u0d05\u0d35\u0d40\u0d35\u0d3f\u0d32\u0d47\u0d15\u0d4d\u0d15\u0d4d \u0d2a\u0d31\u0d28\u0d4d\u0d28 \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d02 \u0d38\u0d57\u0d26\u0d3f \u0d0e\u0d2f\u0d7c\u0d2a\u0d4b\u0d7c\u0d1f\u0d4d\u0d1f\u0d3f\u0d7d \u0d32\u0d3e\u0d7b\u0d21\u0d4d \u0d1a\u0d46\u0d2f\u0d4d\u0d24\u0d41",
+      "link": "https://malayalam.news18.com/news/gulf/flydubai-flight-emergency-landing-in-saudi-airport-mm-790535.html"
     },
     {
-      "title": "\u0905\u091a\u094d\u200d\u091b\u0940 \u0916\u092c\u0930... \u092b\u093f\u0930 \u092d\u0940 \u092c\u093f\u0916\u0930\u093e BSE \u0915\u093e \u0936\u0947\u092f\u0930, \u0905\u092c \u0906\u092f\u093e \u0907\u0924\u0928\u093e \u091f\u093e\u0930\u0917\u0947\u091f",
-      "link": "https://www.aajtak.in/business/news/story/bse-stock-crash-after-nifty50-club-entry-check-target-price-tutd-dskc-2657301-2026-09-30"
+      "title": "'\u0c15\u0c3e\u0c2b\u0c40 \u0c35\u0c3f\u0c24\u0c4d \u0c15\u0c30\u0c23\u0c4d' \u0c1f\u0c3e\u0c15\u0c4d\u200b \u0c37\u0c4b\u0c15\u0c41 \u0c0e\u0c02\u0c21\u0c4d\u200b\u0c15\u0c3e\u0c30\u0c4d\u0c21\u0c4d - \u0c15\u0c30\u0c23\u0c4d \u0c1c\u0c4b\u0c39\u0c3e\u0c30\u0c4d \u0c2a\u0c4d\u0c30\u0c15\u0c1f\u0c28",
+      "link": "https://www.etvbharat.com/te/entertainment/karan-johar-announced-that-he-is-ends-koffee-with-karan-talk-show-with-9th-season-ten26093003104"
     },
     {
-      "title": "Pichai : \u0c38\u0c41\u0c02\u0c26\u0c30\u0c4d \u0c2a\u0c3f\u0c1a\u0c3e\u0c2f\u0c4d \u0c28\u0c3f \u0c2e\u0c3e\u0c28\u0c4d\u0c38\u0c4d\u0c1f\u0c30\u0c4d \u0c05\u0c28\u0c4d\u0c28 \u0c1f\u0c4d\u0c30\u0c02\u0c2a\u0c4d.. \u0c2c\u0c3f\u0c15\u0c4d\u0c15 \u0c2e\u0c4a\u0c16\u0c02 \u0c35\u0c47\u0c38\u0c3f\u0c28 \u0c1f\u0c46\u0c15\u0c4d \u0c26\u0c3f\u0c17\u0c4d\u0c17\u0c1c\u0c02",
-      "link": "https://idreampost.com/international/trump-calls-sundar-pichai-a-monster-at-white-house-ai-meet-his-reaction-went-viral-409564.html"
+      "title": "Drishyam 3 Star Cast Fees: \u0905\u091c\u092f \u0926\u0947\u0935\u0917\u0928 \u0915\u094b \u092e\u093f\u0932\u0940 \u0938\u092c\u0938\u0947 \u092e\u094b\u091f\u0940 \u0930\u0915\u092e, \u091c\u093e\u0928\u0947\u0902- \u0924\u092c\u0942 \u0938\u092e\u0947\u0924 \u092c\u093e\u0915\u0940 \u0938\u094d\u091f\u093e\u0930 \u0915\u093e\u0938\u094d\u091f \u0915\u0940 \u092b\u0940\u0938",
+      "link": "https://www.abplive.com/entertainment/bollywood/drishyam-3-the-conclusion-star-cast-fees-ajay-devgn-tabu-jaideep-ahlawat-rajat-kapoor-shriya-sharan-3195825"
     },
     {
-      "title": "\u0d12\u0d28\u0d4d\u0d28\u0d30 \u0d32\u0d15\u0d4d\u0d37\u0d02 \u0d30\u0d42\u0d2a \u0d35\u0d3f\u0d32\u0d2f\u0d41\u0d33\u0d4d\u0d33 \u0d2c\u0d3e\u0d31\u0d4d\u0d31\u0d41\u0d15\u0d7e \u0d15\u0d33\u0d4d\u0d33\u0d7b \u0d15\u0d4a\u0d23\u0d4d\u0d1f\u0d41\u0d2a\u0d4b\u0d2f\u0d3f- Deepak Chahar",
-      "link": "https://www.manoramaonline.com/sports/cricket/2026/09/30/indian-cricketer-deepak-chahar-missing-bats.html"
+      "title": "Flydubai flight | \u0c2b\u0c4d\u0c32\u0c48\u0c26\u0c41\u0c2c\u0c3e\u0c2f\u0c4d \u0c35\u0c3f\u0c2e\u0c3e\u0c28\u0c02 \u0c39\u0c48\u0c1c\u0c3e\u0c15\u0c4d \u0c05\u0c32\u200c\u0c30\u0c4d\u0c1f\u0c4d.. \u0c1a\u0c3f\u0c35\u200c\u0c30\u200c\u0c15\u0c41 \u0c38\u0c47\u0c2b\u0c4d\u200c \u0c32\u0c4d\u0c2f\u0c3e\u0c02\u0c21\u0c3f\u0c02\u0c17\u0c4d.. \u0c05\u0c38\u200c\u0c32\u0c47\u0c02 \u0c1c\u200c\u0c30\u0c3f\u0c17\u0c3f\u0c02\u0c26\u0c3f",
+      "link": "https://www.ntnews.com/international/flydubai-flight-sends-hijack-alert-on-dubai-tel-aviv-route-israeli-officials-rule-out-hijacking-2523819"
     },
     {
-      "title": "8\u0aae\u0ac1\u0a82 \u0aaa\u0a97\u0abe\u0ab0 \u0aaa\u0a82\u0a9a: \u0a9c\u0acb 7\u0aae\u0abe \u0a9c\u0ac7\u0a9f\u0ab2\u0acb \u0a9c \u0aab\u0abf\u0a9f\u0aae\u0ac7\u0aa8\u0acd\u0a9f \u0aab\u0ac7\u0a95\u0acd\u0a9f\u0ab0 \u0ab2\u0abe\u0a97\u0ac1 \u0aa5\u0abe\u0aaf \u0aa4\u0acb \u0a95\u0ac7\u0a9f\u0ab2\u0ac0 \u0ab5\u0aa7\u0ab6\u0ac7 \u0ab8\u0ac7\u0ab2\u0ab0\u0ac0? \u0ab8\u0aae\u0a9c\u0acb \u0ab8\u0a82\u0aaa\u0ac2\u0ab0\u0acd\u0aa3 \u0a97\u0aa3\u0abf\u0aa4",
-      "link": "https://www.gujaratsamachar.com/news/business/8th-Pay-Commission-News-Fitment-Factor-Salary-Hike-Meeting-Details-62968715174"
+      "title": "Cornell University gang-rape case: DA reveals new disturbing details as investigation reopens",
+      "link": "https://timesofindia.indiatimes.com/world/us/cornell-university-gang-rape-case-da-reveals-new-disturbing-details-as-investigation-reopens/articleshow/134585318.cms"
     },
     {
-      "title": "'Pilot Stabbed': What Happened Inside flydubai Flight Before 'Hijack' Signal",
-      "link": "https://www.ndtv.com/world-news/fight-between-pilots-what-happened-inside-diverted-dubai-tel-aviv-flight-12118796"
+      "title": "\u0c26\u0c40\u0c28\u0c3f\u0c15\u0c3f \u0c15\u0c30\u0c4d\u0c24, \u0c15\u0c30\u0c4d\u0c2e, \u0c15\u0c4d\u0c30\u0c3f\u0c2f \u0c30\u0c3e\u0c1c\u0c4d \u0c15\u0c46\u0c38\u0c3f\u0c30\u0c46\u0c21\u0c4d\u0c21\u0c47 : \u0c35\u0c3f\u0c1c\u0c2f\u0c38\u0c3e\u0c2f\u0c3f\u0c30\u0c46\u0c21\u0c4d\u0c21\u0c3f",
+      "link": "https://www.telugutimes.net/politics/navyandhra/visakhapatnam-ex-mp-vijayasai-reddy-comments-on-sajjala-ramakrishna-reddy-423443.html"
     },
     {
-      "title": "\u0ab0\u0abe\u0a9c\u0a95\u0acb\u0a9f \u0ab8\u0abf\u0ab5\u0abf\u0ab2 \u0ab9\u0acb\u0ab8\u0acd\u0aaa\u0abf\u0a9f\u0ab2\u0aa8\u0ac0 \u0aae\u0acb\u0a9f\u0ac0 \u0aac\u0ac7\u0aa6\u0ab0\u0a95\u0abe\u0ab0\u0ac0: \u0aae\u0ac3\u0aa4\u0aa6\u0ac7\u0ab9\u0aa8\u0ac0 \u0aa5\u0a88 \u0a85\u0aa6\u0aac\u0abe\u0aac\u0aa6\u0ab2\u0ac0",
-      "link": "https://gujarati.news18.com/news/rajkot/body-swap-at-rajkot-civil-hospital-family-cannot-perform-last-ritual-kp-ws-l-2633459.html"
+      "title": "NTR : \u0c2e\u0c42\u0c17 \u0c05\u0c2d\u0c3f\u0c2e\u0c3e\u0c28\u0c3f \u0c15\u0c4b\u0c38\u0c02.. \u0c1a\u0c47\u0c24\u0c3f\u0c15\u0c3f \u0c09\u0c28\u0c4d\u0c28 \u0c2a\u0c4c\u0c1a\u0c4d \u0c24\u0c40\u0c38\u0c47\u0c38\u0c3f \u0c2e\u0c30\u0c40 \u0c39\u0c17\u0c4d \u0c07\u0c1a\u0c4d\u0c1a\u0c3f\u0c28 \u0c0e\u0c28\u0c4d\u0c1f\u0c40\u0c06\u0c30\u0c4d.. \u0c35\u0c40\u0c21\u0c3f\u0c2f\u0c4b \u0c35\u0c48\u0c30\u0c32\u0c4d..",
+      "link": "https://10tv.in/telugu-news/movies/ntr-meets-deaf-and-mute-fan-in-dont-trouble-the-trouble-pre-release-event-videos-goes-viral-sy-1143266.html"
     },
     {
-      "title": "Bageshwar Dham head Dhirendra Shastri stokes row, Punjab\u2019s minority leaders flay remarks made in \u2018bad taste\u2019",
-      "link": "https://www.tribuneindia.com/news/ludhiana/bageshwar-dham-head-dhirendra-shastri-stokes-row-as-punjabs-minority-leaders-object-to-remarks-made-in-bad-taste/"
+      "title": "Flydubai Flight Emergency: \u09ac\u09bf\u09ae\u09be\u09a8 \u09b9\u09be\u0987\u099c\u09cd\u09af\u09be\u0995 \u09b9\u09df\u09c7\u099b\u09c7 \u09ac\u09b2\u09c7 SOS, \u09a8\u09be\u09ae\u09be\u09a8\u09cb \u09b9\u09b2 \u09af\u09c1\u09a6\u09cd\u09a7\u09ac\u09bf\u09ae\u09be\u09a8\u0993, \u09aa\u09b0\u09c7 \u099c\u09be\u09a8\u09be \u0997\u09c7\u09b2, \u0995\u0995\u09aa\u09bf\u099f\u09c7 \u09ae\u09be\u09b0\u09aa\u09bf\u099f \u0995\u09b0\u099b\u09bf\u09b2\u09c7\u09a8 \u09aa\u09be\u0987\u09b2\u099f\u09b0\u09be",
+      "link": "https://bengali.abplive.com/news/flydubai-plane-false-hijack-alert-sent-as-pilots-got-into-brawl-and-emergeny-alert-was-sent-1194652"
     },
     {
-      "title": "\u0926\u0941\u092c\u0908 \u0938\u0947 \u0907\u0938\u0930\u093e\u0907\u0932 \u091c\u093e \u0930\u0939\u0940 \u092b\u094d\u0932\u093e\u0907\u091f \u0915\u094b \u0905\u091a\u093e\u0928\u0915 \u0938\u090a\u0926\u0940 \u092e\u0947\u0902 \u0932\u0948\u0902\u0921 \u0915\u0930\u0928\u093e \u092a\u0921\u093c\u093e, \u092c\u0924\u093e\u0908 \u091c\u093e \u0930\u0939\u0940 \u092f\u0947 \u0935\u091c\u0939",
-      "link": "https://www.bbc.com/hindi/articles/cmgqdxjn84v2o"
+      "title": "INDIA \u0917\u0920\u092c\u0902\u0927\u0928 \u0915\u0940 \u092c\u0948\u0920\u0915 \u092e\u0947\u0902 \u0909\u0926\u094d\u0927\u0935 \u0920\u093e\u0915\u0930\u0947 \u0928\u0947 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u0915\u094b \u0938\u0941\u0928\u093e\u092f\u093e, '\u092f\u0947 \u0920\u0940\u0915 \u0928\u0939\u0940\u0902 \u0915\u0940...'",
+      "link": "https://www.abplive.com/news/india/uddhav-thackeray-to-congress-in-india-block-meeting-over-cec-gyanesh-kumar-3195821"
     },
     {
-      "title": "Sunetra Pawar: \u0938\u0941\u0928\u0947\u0924\u094d\u0930\u093e \u092a\u0935\u093e\u0930\u093e\u0902\u0928\u093e \u092c\u093e\u0930\u093e\u092e\u0924\u0940\u0924 \u0927\u0915\u094d\u0915\u093e; \u0915\u093e\u0930\u0916\u093e\u0928\u094d\u092f\u093e\u091a\u094d\u092f\u093e \u0935\u093f\u0926\u094d\u092f\u092e\u093e\u0928 \u0905\u0927\u094d\u092f\u0915\u094d\u0937\u093e\u0902\u091a\u0902 \u092c\u0902\u0921, \u092d\u093e\u091c\u092a \u0928\u0947\u0924\u094d\u092f\u093e\u091a\u094d\u092f\u093e \u0938\u093e\u0925\u0940\u0928\u0947 \u0928\u093f\u0935\u0921\u0923\u0941\u0915\u0940\u0924 \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930 \u092a\u0945\u0928\u0947\u0932",
-      "link": "https://maharashtratimes.com/maharashtra/pune-news/sunetra-pawar-faces-a-major-setback-in-baramati-malegaon-sugar-factory-current-president-rebels-with-bjps-support/articleshow/134585749.cms"
+      "title": "\u0a88\u0ab0\u0abe\u0aa8-\u0a85\u0aae\u0ac7\u0ab0\u0abf\u0a95\u0abe \u0ab8\u0a82\u0a98\u0ab0\u0acd\u0ab7 \u0ab5\u0a9a\u0acd\u0a9a\u0ac7 \u0aae\u0acb\u0a9f\u0acb \u0ab5\u0ab3\u0abe\u0a82\u0a95: 23 \u0ab5\u0ab0\u0acd\u0ab7 \u0aac\u0abe\u0aa6 \u0aaf\u0ac1\u0a8f\u0ab8 \u0a86\u0ab0\u0acd\u0aae\u0ac0\u0a8f \u0a88\u0ab0\u0abe\u0a95 \u0a9b\u0acb\u0aa1\u0acd\u0aaf\u0ac1\u0a82! \u0aa4\u0ac7\u0ab9\u0ab0\u0abe\u0aa8\u0aae\u0abe\u0a82 \u0a89\u0a9c\u0ab5\u0aa3\u0ac0",
+      "link": "https://www.gujaratsamachar.com/news/international/US-Military-Completes-Full-Withdrawal-from-Iraq-After-Two-Decades-66105476139"
     }
   ],
   "twitter": null
