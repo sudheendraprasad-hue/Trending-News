@@ -1,4 +1,4 @@
-# India Trending Report — 2026-09-30 21:38:14
+# India Trending Report — 2026-09-30 22:02:37
 
 ## Google Trends (India) — top trending searches
 1. [gemini 4](https://trends.google.com/trending/rss?geo=IN)
@@ -169,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [നടി നിത്യ ദാസിന്റെ അച്ഛൻ എ. മോഹൻദാസ് അന്തരിച്ചു](https://www.southlive.in/actress-nithya-dass-father-a-mohandas-has-passed-away/)
-- [ચૂંટણી પંચ વિરુદ્ધ 20 રાજકીય પક્ષો એકસાથે રસ્તા પર ઉતરશે, I.N.D.I.A. બ્લોકની બેઠક બાદ ખડગેની જાહેરાત](https://www.gujaratsamachar.com/news/national/INDIA-Bloc-Protests-Election-Commission-Opposition-Announces-Nationwide-Rallies-73710764598)
-- [നാട്ടുകാരന് സ്ട്രോക്ക്; മലപ്പുറത്ത് എഴുപത്തിയഞ്ചോളം ബസുകൾ 'കാരുണ്യയാത്ര' നടത്തി ചികിത്സാ നിധി](https://malayalam.news18.com/news/kerala/malappuram-karunyayathra-75-buses-charity-service-mm-790554.html)
-- [Rajinikanth Arrives In An Auto-Rickshaw For Dharman Shoot In Mysuru, Watch](https://www.ndtv.com/entertainment/rajinikanth-arrives-in-an-auto-rickshaw-for-dharman-shoot-in-mysuru-watch-12118215)
-- ['31 दिसंबर 2029 के बाद नशा मुहैया करने वाला कोई नहीं बचेगा', पंजाब को अमित शाह ने दी डेडलाइन](https://www.aajtak.in/elections/assembly-chunav/story/amit-shah-announces-drug-free-punjab-by-december-2029-assembly-election-ntc-drmt-rpti-2657405-2026-09-30)
-- [Mamata Banerjee: “জ্ঞানেশ কুমার ইস্তফা না দিলে মহা-আন্দোলন!” দিল্লিতে সোনিয়ার পাশে বসে গর্জে উঠলেন মমতা!](https://bengali.indianexpress.com/west-bengal/india-bloc-meeting-delhi-mamata-banerjee-abhishek-sir-gyanesh-kumar-12593452)
-- [कल का मौसम 1 अक्टूबर: 11 घंटे के भीतर 20 राज्यों में मूसलाधार बारिश का अलर्ट, 75 की स्पीड से हवा; IMD अपडेट](https://navbharattimes.indiatimes.com/india/tomorrow-weather-1-october-2026-thunderstorm-and-heavy-rain-alert-in-20-states-within-11-hours-wind-speed-up-to-75-kmph-delhi-up-bihar-tn-temperature/articleshow/134588953.cms)
-- [INDIA Alliance Meeting LIVE: सेव डेमोक्रेसी मार्च निकालेगा इंडिया गठबंधन, ज्ञानेश कुमार के खिलाफ 5 बड़ी रैली का ऐलान](https://www.abplive.com/news/india/india-alliance-meeting-in-delhi-live-updates-demands-for-chief-election-commissioner-gyanesh-kumar-resignation-3195640)
-- [ICC ODI Ranking: बल्ले से कोहराम मचाने का मिला बंपर इनाम, विराट कोहली बने वनडे के नंबर-2 बल्लेबाज, टॉप पर कौन?](https://www.aajtak.in/sports/cricket/story/virat-kohli-climbs-to-second-in-latest-icc-odi-batting-rankings-aksp-dskc-2657394-2026-09-30)
-- [Actionable intelligence led to killing of most-wanted LeT terrorist Hashim Moosa](https://www.hindustantimes.com/india-news/actionable-intelligence-led-to-killing-of-most-wanted-let-terrorist-hashim-moosa-101790758611552.html)
+- [Udal South Movie: सूनेचं अफेअर, सासूचा काटा काढला, दृष्टीहीन सासऱ्याने 'असा' घेतला बदला; OTTवर ट्रेंडिंग सस्पेन्सफुल 'हा' चित्रपट पाहिलात का?](https://marathi.abplive.com/entertainment/udal-south-movie-trending-on-ott-platform-malyalam-thriller-film-get-huge-response-from-audience-1440771)
+- [Ahead of Diwali, Supreme Court rules out total firecracker ban, weighs time limits](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/india/ahead-of-diwali-supreme-court-rules-out-total-firecracker-ban-weighs-time-limits-14041960.html)
+- [ദുബായിൽ നിന്ന് പോയ വിമാനം ഹൈജാക്ക് ചെയ്തിട്ടില്ല; സൗദിയിൽ അടിയന്തരമായി ഇറക്കി, യാത്രക്കാർ സുരക്ഷിതർ](https://www.asianetnews.com/international-news/flydubai-says-dubai-tel-aviv-flight-lands-safely-in-saudi-after-hijacking-reports-articleshow-2lnrxdq)
+- [വാട്ടര്‍ ടാങ്കിൽ കുട്ടികളെ മരിച്ചനിലയിൽ കണ്ടെത്തിയത് കൊലപാതകമെന്ന് പൊലീസ്; അമ്മ കുറ്റം സമ്മതിച്ചു](https://www.asianetnews.com/local-news/mother-confessed-to-killing-two-children-found-dead-in-bathroom-water-tank-in-palakkad-articleshow-ehpqcm3)
+- [தலைமைத் தேர்தல் ஆணையர் ஞானேஷ்குமாருக்கு எதிராக அடுத்த வாரம் விசாரணை : உச்சநீதிமன்றம் அனுமதி](https://viduthalai.in/208191/%E0%AE%A4%E0%AE%B2%E0%AF%88%E0%AE%AE%E0%AF%88%E0%AE%A4%E0%AF%8D-%E0%AE%A4%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D-%E0%AE%86%E0%AE%A3%E0%AF%88%E0%AE%AF%E0%AE%B0%E0%AF%8D-%E0%AE%9E-4/)
+- [‘വായടക്കൂ! തൊലിക്കടിയിലെ കൊഴുപ്പിലല്ല ഒരാളുടെ വില’; ബോഡി ഷെയ്മിങിനെതിരെ രൂക്ഷ പ്രതികരണവുമായി ജുവൽ മേരി](https://www.madhyamam.com/entertainment/celebrities/jewel-mary-slams-body-shaming-1559232)
+- [Russia sends nuclear warning to NATO as tensions rise in the Baltic](https://www.reuters.com/business/aerospace-defense/russia-issues-nuclear-warning-nato-tensions-rise-baltic-2026-09-30/)
+- [सुबह बृजभूषण शरण सिंह बोले- अखिलेश बिना सब सूना, दोपहर में सपा प्रमुख का ऐसा जवाब, BJP आलाकमान की होगी पैनी नजर?](https://navbharattimes.indiatimes.com/state/uttar-pradesh/lucknow/brijbhushan-sharan-singh-and-akhilesh-yadav-statements-new-twist-in-up-politics/articleshow/134590029.cms)
+- [“என் கனவு... வாழ்நாள் பொக்கிஷம்...” - கீர்த்தி சுரேஷ் பகிர்ந்த ‘டோரதி’ அனுபவம்](https://www.hindutamil.in/news/cinema/tamil-cinema/keerthy-suresh-heartfelt-post-on-dorothy)
+- [Cabinet hikes rabi MSP; Rs 91,000 crore payout, safflower gets biggest boost](https://www.moneycontrol.com/news/business/economy/cabinet-hikes-rabi-msp-rs-91-000-crore-payout-safflower-gets-biggest-boost-14041954.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
