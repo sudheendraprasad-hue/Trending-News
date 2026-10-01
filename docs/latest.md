@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-01 23:01:34
+# India Trending Report — 2026-10-01 23:35:26
 
 ## Google Trends (India) — top trending searches
-1. [greece national football team vs netherlands national football team standings](https://trends.google.com/trending/rss?geo=IN)
-2. [rasmus højlund](https://trends.google.com/trending/rss?geo=IN)
-3. [jennifer lopez](https://trends.google.com/trending/rss?geo=IN)
-4. [joão cancelo](https://trends.google.com/trending/rss?geo=IN)
-5. [anup bagchi hdfc bank ceo](https://trends.google.com/trending/rss?geo=IN)
-6. [samsung galaxy s26 ultra](https://trends.google.com/trending/rss?geo=IN)
-7. [portugal national football team](https://trends.google.com/trending/rss?geo=IN)
-8. [friday ott releases](https://trends.google.com/trending/rss?geo=IN)
-9. [man city vs real madrid](https://trends.google.com/trending/rss?geo=IN)
-10. [ireland vs austria](https://trends.google.com/trending/rss?geo=IN)
+1. [రబీ పంట](https://trends.google.com/trending/rss?geo=IN)
+2. [राशन व्यवस्था](https://trends.google.com/trending/rss?geo=IN)
+3. [कर्मचारी](https://trends.google.com/trending/rss?geo=IN)
+4. [greece national football team vs netherlands national football team standings](https://trends.google.com/trending/rss?geo=IN)
+5. [rasmus højlund](https://trends.google.com/trending/rss?geo=IN)
+6. [jennifer lopez](https://trends.google.com/trending/rss?geo=IN)
+7. [joão cancelo](https://trends.google.com/trending/rss?geo=IN)
+8. [anup bagchi hdfc bank ceo](https://trends.google.com/trending/rss?geo=IN)
+9. [samsung galaxy s26 ultra](https://trends.google.com/trending/rss?geo=IN)
+10. [portugal national football team](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Saudi hands Omani co-pilot in Flydubai flight incident to UAE](https://timesofindia.indiatimes.com/world/middle-east/flydubai-attack-saudi-hands-omani-co-pilot-to-uae-as-investigators-probe-bid-to-crash-plane/articleshow/134626863.cms)
+- [Supreme Court judges decline to meet parliamentary panel on one-nation, one-election](https://timesofindia.indiatimes.com/india/supreme-court-judges-decline-to-meet-parliamentary-panel-on-one-nation-one-election/articleshow/134629478.cms)
+- [Venu, Vijay Singh query Noel's merger plan to avoid Tata Sons IPO](https://timesofindia.indiatimes.com/business/india-business/venu-vijay-singh-query-noels-merger-plan-to-avoid-tata-sons-ipo/articleshow/134629518.cms)
 - [Supreme Court refuses to de-freeze TMC accounts, says let Calcutta high court decide](https://timesofindia.indiatimes.com/india/supreme-court-refuses-to-de-freeze-tmc-accounts-says-let-calcutta-high-court-decide/articleshow/134629443.cms)
 - [CBI names 3 senior ADAG execs, 7 companies in 2nd RHFL chargesheet](https://timesofindia.indiatimes.com/india/cbi-names-3-senior-adag-execs-7-companies-in-2nd-rhfl-chargesheet/articleshow/134629368.cms)
-- [PFRDA plans direct pension fund investment in big infrastructure projects](https://timesofindia.indiatimes.com/india/pfrda-eyes-plan-for-funds-to-invest-directly-in-infrastructure/articleshow/134629424.cms)
-- [Government backs SCO connectivity, but PM's Pakistan visit uncertain](https://timesofindia.indiatimes.com/india/government-backs-sco-connectivity-but-pms-pak-visit-uncertain/articleshow/134628081.cms)
 - [Sundar Pichai on Google launching Gemini 4 Argon, its most powerful AI model yet](https://timesofindia.indiatimes.com/technology/tech-news/google-unveils-gemini-4-argon-its-most-powerful-ai-model-yet-ceo-sundar-pichai-says-were-going-to-make-it-available-as-soon-as-we-can-and-as-/articleshow/134608054.cms)
-- [Supreme Court stays hanging of 2008 Gujarat serial blasts convict](https://timesofindia.indiatimes.com/india/supreme-court-stays-hanging-of-2008-gujarat-serial-blasts-convict/articleshow/134627463.cms)
+- [PFRDA plans direct pension fund investment in big infrastructure projects](https://timesofindia.indiatimes.com/india/pfrda-eyes-plan-for-funds-to-invest-directly-in-infrastructure/articleshow/134629424.cms)
 - [Wife gets late husband's job, leaves in-laws; HC orders 25% salary for mother-in-law](https://timesofindia.indiatimes.com/business/india-business/wife-got-late-husbands-government-job-on-compassionate-grounds-promised-to-care-for-in-laws-but-remarried-and-left-court-orders-25-salary-for-mother-in-law-and-equal-terminal-benefits/articleshow/134622351.cms)
-- [No uniform explanation for collegium decisions on compassionate transfers](https://timesofindia.indiatimes.com/india/no-uniform-explanation-for-collegium-decisions-on-compassionate-transfers/articleshow/134629457.cms)
-- [Supreme Court says seize vehicle, stop RC, PUC renewal if e-challans not paid](https://timesofindia.indiatimes.com/india/supreme-court-says-seize-vehicle-stop-rc-puc-renewal-if-e-challans-not-paid/articleshow/134627354.cms)
+- [KPSC recruitment row: BJP targets Rahul Gandhi over Karnataka government's SC plea](https://timesofindia.indiatimes.com/india/bjp-slams-congress-accuses-rahul-of-hypocrisy-lying/articleshow/134629534.cms)
+- [Government backs SCO connectivity, but PM's Pakistan visit uncertain](https://timesofindia.indiatimes.com/india/government-backs-sco-connectivity-but-pms-pak-visit-uncertain/articleshow/134628081.cms)
 
 **NDTV**
 - [Major Inter-State Narcotics Module Busted in Srinagar](https://www.ndtv.com/india-news/major-inter-state-narcotics-module-busted-in-srinagar-12127981#publisher=newsstand)
@@ -131,10 +131,6 @@
 - [ರಾಜ್ಯ ಕ್ರಿಕೆಟ್ ತಂಡಗಳಿಗೆ ಕೆಎಸ್‌ಟಿಡಿಸಿ–ಕೆಪಿಟಿಸಿಎಲ್ ಪ್ರಾಯೋಜಕತ್ವ](https://www.prajavani.net/sports/cricket/karnataka-cricket-teams-kstdc-kptcl-sponsorship-4301617)
 - [ಆಸ್ಟ್ರೇಲಿಯಾ ಎ ವಿರುದ್ಧ ಎರಡನೇ ‘ಟೆಸ್ಟ್‌’: ಭಾರತ ಎ ಗೆಲುವಿಗೆ 365 ರನ್ ಗುರಿ](https://www.prajavani.net/sports/cricket/india-a-versus-australia-a-second-test-day-three-report-4301239)
 - [ತಿರುಮಲದಲ್ಲಿರುವ ಕರ್ನಾಟಕ ಪ್ರವಾಸಿ ಸೌಧ ನಿರ್ವಹಣೆ ಕೆಎಸ್‌ಟಿಡಿಸಿಗೆ](https://www.prajavani.net/news/karnataka-news/tirumala-karnataka-bhavan-maintenance-handed-over-to-kstdc-4301366)
-- [ಕಾಮೆಡ್–ಕೆ ಪರೀಕ್ಷೆ|ಅಕ್ರಮ ತಡೆಗೆ ಯತ್ನ: ಸೈಬರ್ ಭದ್ರತಾ ತಜ್ಞರ ನೇಮಿಸಲು ನಿರ್ಧಾರ](https://www.prajavani.net/news/karnataka-news/comedk-to-hire-cyber-security-experts-for-exam-malpractice-prevention-4301828)
-- [ಎಸ್‌ಐಆರ್‌: ಡಾ.ರವಿ ಸೇರಿ ಮೂವರ ವಿರುದ್ಧ ಪ್ರಕರಣ](https://www.prajavani.net/district/belagavi/fir-against-bjp-leader-dr-ravi-patil-voter-list-case-belagavi-4301407)
-- [ಮತದಾರರ ದತ್ತಾಂಶ ದುರ್ಬಳಕೆ: ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ. ಶಿವಕುಮಾರ್‌ ಆರೋಪ](https://www.prajavani.net/news/karnataka-news/dk-shivakumar-alleges-voter-data-misuse-in-karnataka-4301661)
-- [ಬೆಂಗಳೂರು: ವೃದ್ಧೆಗೆ ನಿದ್ದೆ ಮಾತ್ರೆ ಬೆರೆಸಿದ ಟೀ ಕುಡಿಸಿ ಚಿನ್ನಾಭರಣ ಕಳವು](https://www.prajavani.net/district/bengaluru-city/bangalore-satellite-bus-station-gold-robbery-drugging-case-4301743)
 
 **eedina**
 - [ಮುಂಡಗೋಡ | ಆರೋಗ್ಯ ವ್ಯವಸ್ಥೆ ಸುಧಾರಣೆಗೆ ಸಚಿವರಿಗೆ ಮನವಿ](https://eedina.com/?p=768629)
@@ -150,7 +146,6 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - Congress (4.2)
-- Supreme Court (3.0)
 - Asian Games (3.0)
 - Trump (2.9)
 - Iran (2.9)
@@ -158,26 +153,27 @@
 - Omani (2.6)
 - Flydubai (2.6)
 - Government (2.6)
-- Gujarat (2.6)
 - Srinagar (2.6)
 - October (2.6)
 - Chhattisgarh (2.6)
 - Minister (2.6)
 - Tennessee (2.6)
+- What (2.6)
+- Supreme Court (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [IND vs WI 3rd ODI Playing-11 : रोहित शर्मा OUT, यशस्वी जैस्वाल IN... वेस्ट इंडिजविरुद्ध तिसऱ्या वनडे सामन्यात अशी असेल टीम इंडियाची चक्रावून टाकणारी Playing XI](https://marathi.abplive.com/sports/cricket/ind-vs-wi-3rd-odi-playing-11-rohit-sharma-out-yashasvi-jaiswal-in-marathi-news-1440889)
-- [सोना देकर भारत की 'यवनप्रिया' को ले जाता था रोम, इसी से निकलता था रोमन साम्राज्य का आधा खर्चा](https://navbharattimes.indiatimes.com/india/roman-empire-was-paid-gold-bullion-for-indian-pepper-maritime-trade-with-india/articleshow/134616076.cms)
-- [Gold Investment: গয়না ছাড়াও সোনা বিনিয়োগ করবেন কীভাবে? জেনে নিন ৭ দুর্দান্ত উপায়](https://bangla.asianetnews.com/business/best-gold-investment-options-beyond-jewellery-in-india-anbak/photoshow-xy8q1uv)
-- [കോടിയേരി ബാലകൃഷ്ണന്റെ ചിത്രം വലിച്ച് കീറി എസ്എഫ്ഐ പ്രവർത്തകൻ](https://www.manoramaonline.com/news/latest-news/2026/10/01/sfi-activist-tears-kodiyeri-balakrishnan-flex-kollam-news.html)
-- [ఒకే చోట ‘డబుల్’ ధమాకా వీరులు.. గిల్ - రోహిత్ స్పెషల్ చిట్‌చాట్‌](https://www.eenadu.net/telugu-news/sports/rohit-hails-shubman-gill-record-double-century/0401/126177727)
-- [രണ്ട് തവണ മാരക വിഷം നൽകിയെങ്കിലും ഹൃദയസ്പന്ദനം നിലച്ചില്ല, യുഎസിൽ വധശിക്ഷ പരാജയപ്പെട്ടു, 50കാരി ആശുപത്രിയിൽ](https://www.asianetnews.com/international-news/us-woman-in-hospital-after-lethal-injection-execution-failed-articleshow-gvsh9yx)
-- [Asian Games 2026 Live:ग्रीको रोमन पहलवान नितेश सिवाच ने जीता रजत, फाइनल में मिली हार](https://www.amarujala.com/live/sports/asian-games-live-updates-india-in-action-on-october-1-archery-wrestling-volleyball-shooting-cricket-hockey-2026-10-01)
-- [रोहित शर्मा नंबर 1, शुभमन गिल ने इशान किशन-वीरेंद्र सहवाग को छोड़ा पीछे; ODI में सबसे बड़ी पारी खेलने वाले टॉप 10 बल्लेबाज](https://www.jansatta.com/khel/rohit-sharma-number-1-shubman-gill-ahead-ishan-kishan-virender-sehwag-reaches-third-position-highest-odi-inning-individual-scores-top-10-batters/4727416/)
-- ['दृश्यम 3' की धुआंधार एडवांस बुकिंग, 50 करोड़ की ओपनिंग तय! टूटेंग सारे रिकॉर्ड](https://www.aajtak.in/entertainment/bollywood-news/story/drishyam-3-advance-booking-on-fire-with-day-1-rupees-50-crore-opening-worldwide-tmovg-dskc-2658384-2026-10-01)
-- [আরজি কর-কাণ্ডে পরিবারের পৃথক FIR-এর তদন্তভারও সিবিআইকে দিল হাইকোর্ট](https://eisamay.com/west-bengal-news/kolkata-news/rg-kar-case-cbi-to-investigate-family-separate-fir-calcutta-high-court/200549819.cms)
+- [કચ્છ : એક સાપને બચાવવા જતાં મળ્યો બીજો દુર્લભ 'રેતિયો સાપ', 150 વર્ષ પહેલાં નોંધાયેલો સાપ કેમ ખાસ છે?](https://www.bbc.com/gujarati/articles/cwd081112kkeo)
+- [హైదరాబాద్‌ షాపుల్లో ‘మేడ్ ఇన్ పాకిస్థాన్’](https://www.sakshi.com/telugu-news/telangana/raids-cosmetic-products-imported-pakistan-hyderabad-2918882)
+- [Weather Update : आता राज्यावर अल निनोचं नवं संकट! ऑक्टोबरच्या पहिल्याच दिवशी उच्चांकी… टेन्शन वाढलं](https://www.tv9marathi.com/maharashtra/nagpur/el-nino-new-crisis-maharashtra-october-first-day-record-temperature-1769204.html)
+- [Suvendu Adhikari: মুখ্যমন্ত্রীর 'মৃত্যুকামনা' করেছিলেন, এবার হুমায়ুনের 'বিচারের ভার রেজিনগরের হাতে তুলে' দিলেন শুভেন্দু](https://tv9bangla.com/west-bengal/suvendu-adhikari-hits-back-at-humayun-kabir-over-death-wish-remark-during-rejinagar-campaign-1350105.html)
+- [पावसाअभावी सोयाबीनचे पीक उद्ध्वस्त; सिन्नरच्या शेतकऱ्यांसमोर मोठे संकट](https://www.tv9marathi.com/videos/sinnar-soybean-crop-destroyed-due-to-rainfall-shortage-farmers-seek-help-1769171.html)
+- [અમદાવાદના વિવાદિત મકરબા ઓવરબ્રિજ પરથી કૂદીને એક વ્યક્તિએ આપઘાત કર્યો, પોલીસ તપાસમાં જોતરાઈ](https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-makarba-railway-overbridge-self-destruction-case-sarkhej-police-investigation-47117611303)
+- [Danam Nagender: ఈసీ ఆఫీస్, హైదరాబాద్ తగలబడి పోతుంది.. దానం నాగేందర్ హాట్ కామెంట్స్!](https://telugu.abplive.com/telangana/danam-nagender-controversial-comments-voter-deletion-election-commission-hyderabad-260426)
+- ['147 সাংসদকে সাসপেন্ড করে পাশ বিষাক্ত বিল !' সিইসি-র রক্ষাকবচ নিয়ে মোদি সরকারকে তোপ মমতার](https://www.etvbharat.com/bn/bharat/tmc-chief-mamata-banerjee-takes-dig-at-cec-gyanesh-kumar-vanish-kumar-tried-to-take-away-peoples-right-to-vote-people-of-india-will-not-forgive-him-wbs26100105408)
+- [India vs Pakistan Hockey: এশিয়ান গেমসের হকি সেমিফাইনালে নাটক! রুদ্ধশ্বাস ম্যাচে পাকিস্তানকে হারিয়ে ফাইনালে ভারত](https://bengali.abplive.com/sports/asian-games-2026-hockey-india-wins-thriller-against-arch-rivals-pakistan-to-qualify-for-final-secures-silver-1194791)
+- [ഏഷ്യൻ ഗെയിംസ് 2026; ഹോക്കിയിൽ പാകിസ്ഥാനെ തകർത്ത് ഇന്ത്യ ഫൈനലിൽ](https://malayalam.news18.com/news/sports/asian-games-2026-india-mens-hockey-team-reaches-final-after-defeating-pakistan-nkn-ws-l-790700.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
