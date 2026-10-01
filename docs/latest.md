@@ -1,16 +1,16 @@
-# India Trending Report — 2026-10-01 18:42:26
+# India Trending Report — 2026-10-01 19:03:03
 
 ## Google Trends (India) — top trending searches
-1. [greece vs netherlands](https://trends.google.com/trending/rss?geo=IN)
-2. [denmark vs portugal](https://trends.google.com/trending/rss?geo=IN)
-3. [wales vs norway](https://trends.google.com/trending/rss?geo=IN)
-4. [germany vs serbia](https://trends.google.com/trending/rss?geo=IN)
-5. [honda elevate facelift](https://trends.google.com/trending/rss?geo=IN)
-6. [videos video](https://trends.google.com/trending/rss?geo=IN)
-7. [world cup 2027 schedule](https://trends.google.com/trending/rss?geo=IN)
-8. [drishyam 2](https://trends.google.com/trending/rss?geo=IN)
-9. [samsung galaxy s27](https://trends.google.com/trending/rss?geo=IN)
-10. [ibps clerk admit card 2026](https://trends.google.com/trending/rss?geo=IN)
+1. [man city vs real madrid](https://trends.google.com/trending/rss?geo=IN)
+2. [ireland vs austria](https://trends.google.com/trending/rss?geo=IN)
+3. [greece vs netherlands](https://trends.google.com/trending/rss?geo=IN)
+4. [denmark vs portugal](https://trends.google.com/trending/rss?geo=IN)
+5. [wales vs norway](https://trends.google.com/trending/rss?geo=IN)
+6. [germany vs serbia](https://trends.google.com/trending/rss?geo=IN)
+7. [honda elevate facelift](https://trends.google.com/trending/rss?geo=IN)
+8. [videos video](https://trends.google.com/trending/rss?geo=IN)
+9. [world cup 2027 schedule](https://trends.google.com/trending/rss?geo=IN)
+10. [drishyam 2](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -20,10 +20,10 @@
 - [Dubai-London flight diverted to Frankfurt after passenger’s medical emergency](https://timesofindia.indiatimes.com/world/uk/dubai-london-emirates-flight-diverted-to-frankfurt-after-passengers-medical-emergency/articleshow/134624286.cms)
 - [‘Fatal point of no return’: Putin warns against use of nukes amid global tensions](https://timesofindia.indiatimes.com/world/rest-of-world/fatal-point-of-no-return-putin-warns-against-use-of-nukes-amid-global-tensions/articleshow/134624432.cms)
 - [Sundar Pichai on Google launching Gemini 4 Argon, its most powerful AI model yet](https://timesofindia.indiatimes.com/technology/tech-news/google-unveils-gemini-4-argon-its-most-powerful-ai-model-yet-ceo-sundar-pichai-says-were-going-to-make-it-available-as-soon-as-we-can-and-as-/articleshow/134608054.cms)
-- [‘No explicit request’: BAPS gets clean chit in Eiffel Tower women staff row](https://timesofindia.indiatimes.com/world/europe/no-explicit-request-baps-gets-clean-chit-in-eiffel-tower-women-staff-row/articleshow/134623744.cms)
 - [Massachusetts couple wins $310,000 judgment in neighbour tree dispute](https://timesofindia.indiatimes.com/world/us/a-massachusetts-couple-represented-themselves-in-a-dispute-over-damaged-trees-and-encroachments-on-their-land-they-won-a-310000-judgment-against-their-neighbour-and-an-appeals-court-upheld-it-in-2026/articleshow/134620900.cms)
+- [Wife gets late husband's job, leaves in-laws; HC orders 25% salary for mother-in-law](https://timesofindia.indiatimes.com/business/india-business/wife-got-late-husbands-government-job-on-compassionate-grounds-promised-to-care-for-in-laws-but-remarried-and-left-court-orders-25-salary-for-mother-in-law-and-equal-terminal-benefits/articleshow/134622351.cms)
+- [‘No explicit request’: BAPS gets clean chit in Eiffel Tower women staff row](https://timesofindia.indiatimes.com/world/europe/no-explicit-request-baps-gets-clean-chit-in-eiffel-tower-women-staff-row/articleshow/134623744.cms)
 - [UK-Iranian man arrested over security incident at US-run military base in England](https://timesofindia.indiatimes.com/world/uk/uk-iranian-man-arrested-with-link-to-security-incident-at-us-run-raf-fairford-base-in-england/articleshow/134624114.cms)
-- [Flydubai horror: Terror plot, Iran link? 5 chilling questions facing investigators](https://timesofindia.indiatimes.com/world/middle-east/flydubai-cockpit-horror-terror-plot-suicide-bid-or-iran-link-5-chilling-questions-facing-investigators/articleshow/134614044.cms)
 
 **NDTV**
 - [Police Unearth Illegal Cannabis Plantation Hidden In Gujarat Border Village](https://www.ndtv.com/india-news/police-unearth-illegal-cannabis-plantation-hidden-in-gujarat-border-village-12127547#publisher=newsstand)
@@ -126,6 +126,7 @@
 - [2027 ರ ಏಕದಿನ ವಿಶ್ವಕಪ್ ವೇಳಾಪಟ್ಟಿ ಪ್ರಕಟ; ಒಂದೇ ಗುಂಪಿನಲ್ಲಿ ಭಾರತ-ಪಾಕ್](https://tv9kannada.com/sports/cricket-news/2027-cricket-world-cup-schedule-icc-announcement-1245263.html)
 
 **Prajavani**
+- [ಚುನಾವಣಾ ಸುಧಾರಣೆ ಅಗತ್ಯ: ಎಐಸಿಸಿ ಕಾರ್ಯಕಾರಿ ಸಮಿತಿ ಸದಸ್ಯ ಸಿದ್ದರಾಮಯ್ಯ](https://www.prajavani.net/district/bengaluru-city/siddaramaiah-calls-for-urgent-election-reforms-at-jh-patel-event-4301176)
 - [ಮುಸ್ಲಿಂ ಯುವತಿಯ ಯಕ್ಷಪ್ರೇಮ: ‘ದೇವಿ’ ಪಾತ್ರದಲ್ಲಿ ಮಿಂಚಲಿದ್ದಾರೆ ಆರ್ಷಿಯಾ ಖಾನ್‌](https://www.prajavani.net/district/dakshina-kannada/arshiya-khan-muslim-artist-to-play-devi-in-yakshagana-4301211)
 - [ಖಾಸಗಿ ಆಸ್ಪತ್ರೆ | ಔಷಧಗಳ ದುಬಾರಿ ದರ ದೃಢ: ಸಚಿವ ಯು.ಟಿ. ಖಾದರ್](https://www.prajavani.net/news/karnataka-news/karnataka-health-minister-ut-khadar-private-hospital-medicine-price-disparity-4300905)
 - [ಸಿಎಸ್‌ಬಿ ವಿಳಂಬ: ಪ್ರಮಾಣ ಪತ್ರ ಸಲ್ಲಿಸಲು ಹೈಕೋರ್ಟ್‌ ನಿರ್ದೇಶನ](https://www.prajavani.net/news/karnataka-news/karnataka-high-court-civil-services-board-directive-4301601)
@@ -135,9 +136,10 @@
 - [ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಸಂಘರ್ಷ ಕೊನೆಗೊಳಿಸಲು ಅಧಿಕೃತ ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿದ ಅಮೆರಿಕ](https://www.prajavani.net/news/world-news/us-official-response-to-iran-proposal-and-iraq-withdrawal-4301149)
 - [ಕುಮಟಾದ ದೇವಿಮನೆ ಘಟ್ಟ ಪ್ರದೇಶದಲ್ಲಿ ಬಸ್ ಪಲ್ಟಿ: ಮಹಿಳೆ ಸಾವು, 17 ಜನರಿಗೆ ಗಾಯ](https://www.prajavani.net/district/uttara-kannada/kumta-devimane-ghat-bus-accident-death-4301811)
 - [ಅಡಿಸ್‌ ಅಬಾಬಾದಲ್ಲಿ ಸರಣಿ ಸ್ಫೋಟ](https://www.prajavani.net/news/world-news/addis-ababa-series-explosions-ethiopia-conflict-4301471)
-- [ಸಕ್ಕರೆ ದಾಸ್ತಾನಿಗೆ 1,000 ಕ್ವಿಂಟಲ್ ಮಿತಿ: ಈ ನಿಯಮ ಅ.15ರಿಂದ ನ.30ರವರೆಗೆ ಜಾರಿ](https://www.prajavani.net/business/commerce-news/central-government-reduces-sugar-stock-limit-for-traders-4301445)
 
 **eedina**
+- [ಮುಂಡಗೋಡ | ಆರೋಗ್ಯ ವ್ಯವಸ್ಥೆ ಸುಧಾರಣೆಗೆ ಸಚಿವರಿಗೆ ಮನವಿ](https://eedina.com/?p=768629)
+- [ಯಾದಗಿರಿ | ಎಕರೆಗೆ ₹25 ಸಾವಿರ ಬರ ಪರಿಹಾರ, ಕೃಷಿ ಸಾಲ ಸಂಪೂರ್ಣ ಮನ್ನಾ ಮಾಡುವಂತೆ ರೈತ ಸಂಘ ಆಗ್ರಹ](https://eedina.com/?p=768628)
 - [ಬೆಳಗಾವಿ | ಮಾಂಜಾ ದಾರಕ್ಕೆ ಸಿಲುಕಿ ಬೈಕ್ ಸವಾರ ಸಾವು](https://eedina.com/?p=768625)
 - [ಕುಮಟಾ | ದೇವಿಮನೆ ಘಟ್ಟದಲ್ಲಿ KSRTC ಬಸ್ ಕಂದಕಕ್ಕೆ; 18 ಮಂದಿಗೆ ಗಾಯ](https://eedina.com/?p=768619)
 - [ಯಾದಗಿರಿ | ಸಮರ್ಪಕ ಕೂಲಿ ಪಾವತಿಗೆ ಆಗ್ರಹ: ರಸ್ತಾಪುರ ಗ್ರಾಪಂ ಕಚೇರಿ ಎದುರು ರೈತ ಸಂಘ ಧರಣಿ](https://eedina.com/?p=768615)
@@ -146,15 +148,12 @@
 - [ಸೌಜನ್ಯಾ ಪ್ರಕರಣ: ಮಂಗಳೂರಿಗೆ ನೂತನ SIT ತಂಡ; ತನಿಖೆಗೆ ಸಿದ್ಧತೆ](https://eedina.com/?p=768602)
 - [ಬ್ರೇಕಿಂಗ್ ನ್ಯೂಸ್: ಡಿಕೆಶಿ ಧರಣಿಗೆ ಮಣಿದ ಆಯೋಗ: ಅಕ್ರಮ ಫಾರಂ 7ಗಳ ಮೇಲೆ ಕ್ರಮ – ಇಆರ್‌ಒಗಳಿಗೆ ಸೂಚನೆ](https://eedina.com/?p=768589)
 - [ಭಾರತ–ಜಪಾನ್ ತಂತ್ರಜ್ಞಾನ ಸಹಕಾರದಿಂದ ಹೊಸ ಉದ್ಯಮ ಅವಕಾಶ: ನವತಾ ಹಿರೋಷಿ](https://eedina.com/?p=768588)
-- [ಕೋಲಾರ | ತಡೆಹಿಡಿದಿದ್ದ ಯುವ ಕಾಂಗ್ರೆಸ್ ಜಿಲ್ಲಾಧ್ಯಕ್ಷರ ಮರುಸ್ಥಾಪನೆ](https://eedina.com/?p=768585)
-- [ಉಡುಪಿ | ಹಿರಿಯ ನಾಗರಿಕರನ್ನು ಗೌರವಯುತವಾಗಿ ನೋಡಿಕೊಳ್ಳಿ: ಎಂ.ಎ. ಗಫೂರ್](https://eedina.com/?p=768582)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Iran (5.2)
+- Iran (3.9)
 - Congress (3.8)
 - Karnataka (2.9)
 - Trump (2.6)
-- Flydubai (2.6)
 - Delhi (2.6)
 - October (2.6)
 - Eight (2.6)
@@ -165,20 +164,21 @@
 - Asian Games (2.0)
 - Putin (1.6)
 - Gujarat (1.6)
+- Indian (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [টাকার বিনিময়ে VIP টিকিট নয়, হুঁশিয়ারি নয়া পশ্চিমবঙ্গ দুর্গাপুজো সমন্বয় সমিতির](https://www.etvbharat.com/bn/state/no-vip-tickets-in-exchange-for-money-warns-durga-puja-samannay-samiti-wbs26100101382)
-- [સ્મિત મચ્છર કોણ છે, તેમને પાઇલટ બનવાનો વિચાર ક્યારે આવ્યો હતો?](https://www.bbc.com/gujarati/articles/cmlyeyqqy3vwo)
-- [India auto-maker shares slide as sales soften in September from record](https://www.cnbc.com/2026/10/01/india-auto-shares-bajaj-maruti-mahindra.html)
-- [सोने ने मारी छलांग, 1 अक्टूबर को बढ़े दाम, जानें सोना- चांदी की ताजा कीमत](https://www.abplive.com/business/gold-silver-price-today-1-october-latest-city-wise-24k-22k-18k-gold-silver-rate-list-3196208)
-- [Royal Enfield की इस बाइक की बंपर डिमांड, कंपनी को रोकनी पड़ी बुकिंग](https://www.aajtak.in/auto/news/story/royal-enfield-himalayan-440-bookings-halted-waiting-period-details-auam-dskc-2657696-2026-10-01)
-- [वनडे सीरीज में टीम इंडिया को लगा झटका, चोट के चलते ये तेज गेंदबाज हुआ बाहर](https://www.aajtak.in/sports/cricket/story/prasidh-krishna-ruled-out-third-odi-against-west-indies-niggle-india-tspok-dskc-2658127-2026-10-01)
-- ['કોઈ પણ ફિલ્મ કરતા પહેલા મારા માટે તો ડિરેક્ટરનું વિઝન અને સ્ક્રિપ્ટ જ મહત્ત્વની...' : આયુષ્માન ખુરાના](https://www.gujaratsamachar.com/news/entertainment/before-doing-any-film-the-directors-vision-and-script-are-the-most-important-things-for-me-ayushmann-khurrana-17891839694)
-- [‘മുത്തശ്ശിയുടെ മൃതദേഹം വീപ്പയിൽ സിമന്റിട്ട് മൂടി’; ഭാര്യയെ കുടുക്കാനുള്ള പ്ലാൻ പൊളിഞ്ഞു, പിന്നാലെ തെളിഞ്ഞത് ഞെട്ടിക്കുന്ന ട്രിപ്പിൾ കൊലപാതകങ്ങൾ](https://www.mathrubhumi.com/crime/news/surat-triple-murder-case-husband-frames-wife-police-investigation-vvnwldkp)
-- [രാജി വയ്ക്കുന്നവർ തന്നെ വീണ്ടും നേതൃത്വത്തിൽ, എനിക്ക് പകരം സരയു; ഇത് കണ്ട് ചിരി വരുന്നു: അൻസിബ ഹസൻ അഭിമുഖം](https://www.manoramaonline.com/movies/movie-news/2026/10/01/democratic-principles-violated-in-amma-says-ansiba-hassan.html)
-- [Masked intruder entered home, raped woman at gunpoint in Bhubaneswar](https://timesofindia.indiatimes.com/city/bhubaneswar/masked-intruder-entered-home-raped-woman-at-gunpoint-in-bhubaneswar/articleshow/134610291.cms)
+- [અમદાવાદ: નિરમા યુનિવર્સિટીમાં અજાણ્યા શખસની અશ્લીલ હરકતને પગલે 'બ્લેક ડે', વિદ્યાર્થીઓનો કાળા કપડામાં ઉગ્ર વિરોધ](https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-black-day-following-obscene-act-by-unknown-person-at-nirma-university-students-protest-in-black-clothes-37743987870)
+- [Srijit-Susmita: ছিল প্রেম-চর্চা! হইচই ইভেন্টে মুখোমুখি হতেই সৃজিত-সুস্মিতা অপ্রস্তুত, কী কথা হল?](https://www.hindustantimes.com/bangla/entertainment/srijit-mukherji-and-susmita-chatterjee-face-to-face-at-hoichoi-event-amid-their-breakup-rumor-271790830117781.html)
+- [Vivo X Fold6 launched globally with 200MP camera and massive 6,900mAh battery](https://english.mathrubhumi.com/technology/vivo-x-fold6-global-launch-200mp-camera-6900mah-battery-cf7lt1o0)
+- [Amitabh Bachchan : కేబీసీ షూటింగ్ లో జారిపడ్డ అమితాబ్, మోకాలికి గాయం..షో ఆగిపోకుండా ఏం చేశారంటే](https://telugu.asianetnews.com/gallery/entertainment/amitabh-bachchan-knee-injury-update-and-inside-photos-of-jalsa-house-4wgtvhu)
+- [Asian Games 2026: સેલિંગમાં આવ્યો SILVER, સ્ક્વોશ-તીરંદાજીમાં બ્રોન્ઝ; રેસલર નિતેશ ગોલ્ડ મેડલ માટે મેદાનમાં ઉતરશે](https://gujarati.abplive.com/sports/asian-games-2026-day-12-live-updates-india-medals-archery-sailing-squash-992420)
+- [ना नेमप्लेट और ना कुर्सी... इंडी गठबंधन की बैठक में हुई सोनिया गांधी की सरप्राइज एंट्री](https://www.jagran.com/news/national-congress-sonia-gandhi-surprise-entry-shakes-up-india-bloc-meeting-news-in-hindi-40390868.html)
+- ['एक हिंदुस्तानी ने 9/11 होने से बचा लिया', UPSC शताब्दी समारोह में बोले पीएम मोदी, कैप्टन स्मित पर जताया गर्व](https://www.indiatv.in/india/politics/an-indian-prevented-9-11-from-happening-said-pm-modi-at-the-upsc-centenary-celebrations-expressed-pride-on-captain-smit-machchhar-2026-10-01-1246353)
+- [मुश्ताक खान यांच्या शोकसभेतून राजपाल यादवला अपमानित करून हाकलून दिलं?](https://www.tv9marathi.com/entertainment/was-rajpal-yadav-asked-to-leave-mushtaq-khans-prayer-meet-fact-check-of-video-1768855.html)
+- [IND vs SL: 80 रन की T20I पारी खेलकर ईशान किशन ने बना डाला ये महार‍िकॉर्ड, युवराज-हार्द‍िक-र‍िंकू सब प‍िछड़े](https://www.aajtak.in/sports/cricket/story/ishan-kishan-80-record-india-sri-lanka-asian-games-semifinal-yuvraj-hardik-tspok-dskc-2658143-2026-10-01)
+- [തൃശൂരിലെ ലോഡ്ജിൽ നിന്ന് യുവാവിനെയും യുവതിയെയും തട്ടിക്കൊണ്ടുപോയി ആക്രമിച്ചു; ക്വട്ടേഷൻ നൽകിയത് യുവാവിന്‍റെ ഭാര്യ](https://www.asianetnews.com/kerala-news/man-and-his-girl-friend-kidnapped-from-thrissur-lodge-and-attacked-quotation-by-man-s-wife-articleshow-mvucc84)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
