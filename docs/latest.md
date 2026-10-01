@@ -1,7 +1,7 @@
-# India Trending Report — 2026-10-01 21:02:00
+# India Trending Report — 2026-10-01 21:38:16
 
 ## Google Trends (India) — top trending searches
-1. [gonçalo ramos](https://trends.google.com/trending/rss?geo=IN)
+1. [rasmus højlund](https://trends.google.com/trending/rss?geo=IN)
 2. [da hike central government employees](https://trends.google.com/trending/rss?geo=IN)
 3. [jennifer lopez](https://trends.google.com/trending/rss?geo=IN)
 4. [portugal national football team](https://trends.google.com/trending/rss?geo=IN)
@@ -26,6 +26,8 @@
 - [Axis Of Resistance: Iran seeks to preserve weakened network; Iraq now key test](https://timesofindia.indiatimes.com/world/middle-east/irans-village-is-cracking-how-tehran-is-keeping-its-axis-of-resistance-alive/articleshow/134622991.cms)
 
 **NDTV**
+- [Saudi Coalition Says Intercepted Houthi Missiles, Drones](https://www.ndtv.com/world-news/saudi-coalition-says-intercepted-houthi-missiles-drones-12127925#publisher=newsstand)
+- [Ram Temple Staff To Undergo 100% Police Verification, Character Checks](https://www.ndtv.com/india-news/ram-temple-staff-to-undergo-100-police-verification-character-checks-12127892#publisher=newsstand)
 - [Trump Vows To Hit Iran "Very Hard" If Tehran Behind flydubai Incident](https://www.ndtv.com/world-news/donald-trump-vows-to-hit-iran-very-hard-if-tehran-behind-flydubai-incident-12127804#publisher=newsstand)
 - [France Blames "Radical Left" For Violence Amid Intensifying School Protests](https://www.ndtv.com/world-news/france-blames-radical-left-for-violence-amid-intensifying-school-protests-12127772#publisher=newsstand)
 - [Cornell Student Said, "I Was Raped". Cops Left It Out Of Her Statement](https://www.ndtv.com/world-news/cornell-student-said-i-was-raped-cops-left-it-out-of-her-statement-12127695#publisher=newsstand)
@@ -34,8 +36,6 @@
 - [Bhagwant Mann's Japan Hockey Trip Denied Clearance By Centre](https://www.ndtv.com/india-news/bhagwant-manns-japan-hockey-trip-blocked-centre-denies-political-clearance-12127400#publisher=newsstand)
 - [Adhir Chowdhury's 'Congress Offer' To Mamata Banerjee With 'Baggage' Rider](https://www.ndtv.com/india-news/adhir-chowdhurys-congress-offer-to-mamata-banerjee-with-baggage-rider-12126656#publisher=newsstand)
 - [Co-Pilot Who Tried To Crash flydubai Plane Is Omani: Israel's Foreign Minister To NDTV](https://www.ndtv.com/world-news/co-pilot-who-stabbed-captain-smit-machchhar-tried-to-crash-flydubai-plane-is-omani-national-confirms-israeli-foreign-minister-gideon-saar-12125819#publisher=newsstand)
-- [Musk Rejoins Team Trump To Co-Lead Pentagon Study On Warfare Future](https://www.ndtv.com/world-news/elon-musk-rejoins-team-trump-to-co-lead-pentagon-study-on-warfare-future-12127663#publisher=newsstand)
-- ['Was Conscious, Communicating': flydubai Passenger Recalls Saving Indian Pilot](https://www.ndtv.com/world-news/was-conscious-communicating-flydubai-passenger-recalls-saving-indian-pilot-12127632#publisher=newsstand)
 
 **Hindustan Times**
 - [Delhi traffic advisory: Special arrangements in place near Rajghat, Vijay Ghat on October 2](https://www.hindustantimes.com/india-news/delhi-traffic-advisory-special-arrangements-in-place-near-rajghat-vijay-ghat-on-october-2-101790866141057.html)
@@ -74,6 +74,7 @@
 - [10 government hospital mortuaries across T.N. to be strengthened at a cost of ₹8 crore](https://www.thehindu.com/news/national/tamil-nadu/10-government-hospital-mortuaries-across-tamil-nadu-to-be-strengthened-at-a-cost-of-8-crore/article71532759.ece)
 
 **Livemint**
+- [Trump’s warning to Iran: ‘They’ll be hit very hard’ if linked to flydubai plane attack](https://www.livemint.com/news/us-news/trumps-warning-to-iran-they-ll-be-hit-very-hard-if-linked-to-flydubai-plane-attack-11790888235545.html)
 - [Trump’s next move on Iran? Pentagon weighs carrier, 10,000-troop and Marines deployment to Gulf, report says](https://www.livemint.com/news/us-news/trumps-next-move-on-iran-pentagon-weighs-carrier-10-000-troop-and-marines-deployment-to-gulf-report-says-11790886092901.html)
 - [India-US trade talks: Piyush Goyal pushes for early interim deal; US trade chief says sticking points remain](https://www.livemint.com/news/india/indiaus-trade-deal-goyal-seeks-early-conclusion-of-interim-deal-in-talks-with-us-trade-chief-11790883712986.html)
 - [Tennessee fails to execute Christa Pike after 2 lethal injections: What happens next as per Tennessee law?](https://www.livemint.com/news/us-news/tennessee-fails-to-execute-christa-pike-after-2-lethal-injections-what-happens-next-as-per-tennessee-law-11790875559741.html)
@@ -83,7 +84,6 @@
 - [Tajikistan's Rogun Hydropower Project: All about the dam set to become the world's tallest](https://www.livemint.com/news/world/tajikistans-rogun-hydropower-project-all-about-the-dam-set-to-become-the-worlds-tallest-11790877130907.html)
 - [CJP's Oct 2 Mumbai protest: What are its demands besides Gyanesh Kumar's resignation?](https://www.livemint.com/news/india/cjps-oct-2-mumbai-protest-what-are-its-demands-besides-gyanesh-kumars-resignation-11790854631498.html)
 - [Taylor Swift’s former Beverly Hills home, where she wrote ‘1989’, is up for sale at nearly $8 million: See what’s inside](https://www.livemint.com/news/us-news/taylor-swift-s-former-beverly-hills-home-where-she-wrote-1989-is-up-for-sale-at-nearly-8-million-see-what-s-inside-11790874580761.html)
-- [G20 trade ministers reach consensus on food weaponization as Goyal flags food security concerns](https://www.livemint.com/news/india/g20-trade-ministers-reach-consensus-on-food-weaponization-as-goyal-flags-food-security-concerns-11790870996450.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -150,11 +150,11 @@
 - [ಭಾರತ–ಜಪಾನ್ ತಂತ್ರಜ್ಞಾನ ಸಹಕಾರದಿಂದ ಹೊಸ ಉದ್ಯಮ ಅವಕಾಶ: ನವತಾ ಹಿರೋಷಿ](https://eedina.com/?p=768588)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Iran (5.5)
+- Trump (4.2)
 - Congress (4.2)
-- Indian (4.2)
-- Iran (4.2)
+- Indian (3.9)
 - October (3.9)
-- Trump (3.2)
 - Asian Games (3.0)
 - Omani (2.9)
 - Delhi (2.9)
@@ -169,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ഭർത്താവിന് നിരവധി സ്ത്രീകളുമായി ബന്ധം; ഭാര്യയുടെ ക്വട്ടേഷൻ ബലാത്സംഗത്തിനു പിന്നിൽ](https://malayalam.news18.com/news/crime/thrissur-quotation-gang-gang-rape-case-woman-kidnapped-from-lodge-wife-and-accomplices-arrested-rv-ws-l-790674.html)
-- [अब TV पर देख‍िए नीम करोली बाबा की कहानी, 'हनुमान अंश' की ब्‍लॉकबस्‍टर सफलता के बाद नए धारावाहिक का Promo रिलीज](https://navbharattimes.indiatimes.com/tv/news/story-of-neem-karoli-baba-now-on-tv-and-ott-as-new-serial-promo-released-following-blockbuster-success-of-hanuman-ansh/articleshow/134613517.cms)
-- ["என் இனிய பொன் நிலாவே" பாடல் வழக்கு: இளையராஜாவின் மேல்முறையீட்டு மனுவை தள்ளுபடி செய்தது உச்சநீதிமன்றம்!](https://www.dinakaran.com/news/supreme-court-rejected-ilayarajas-appeal/)
-- [Bajrang Sonawane : 'घुले प्रकरणात माझ्या मुलाला अडकवण्यासाठी कराडचा फोन', खासदार बजरंग सोनवणेंचा दावा!](https://sarkarnama.esakal.com/maharashtra/marathwada/bajrang-sonawane-walmik-karad-vilas-ghule-case-alleged-jail-call-recording-beed-ncpsp-mp-political-controversy-crime-news-as11-jp75)
-- [मतदाराचं नाव 'बॉम्बस्फोट', वडिलांचं नाव 'बॉम्ब'! शिक्षक मतदारसंघासाठी बोगस मतदार? यादीतील नावं पाहून चक्रावून जाल](https://sarkarnama.esakal.com/pune/legislative-council-election-bogus-voters-for-teachers-constituency-voter-name-bomb-blast-father-name-bomb-voter-list-viral-aau85)
-- [એક ભારતીયએ 9/11 જેવી તબાહી થતાં અટકાવી! UPSC શતાબ્દી સમારોહમાં PM મોદીએ સ્મિત મચ્છરને બિરદાવ્યા](https://www.gujaratsamachar.com/news/national/an-indian-prevented-a-911-like-disaster-pm-modi-applauds-Smit-machhar-at-upsc-centenary-celebrations-29043504157)
-- [Punjab CM ਭਗਵੰਤ ਮਾਨ ਨੂੰ ਜਾਪਾਨ ਜਾਣ ਦੀ ਨਹੀਂ ਮਿਲੀ ਇਜਾਜ਼ਤ](https://wishavwarta.in/punjab-cm-bhagwant-mann-denied-permission-to-visit-japan/)
-- [ఇల్లు ఉంది.. చేతిలో డబ్బు లేదు.. అమెరికాలో వృద్ధులను వేధిస్తున్న పేదరికం!](https://telugu.greatandhra.com/politics/national/house-rich-cash-poor.html)
-- [NASA’s new space material could let astronauts make tools from Moon dust and waste](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/nasa-s-new-space-material-could-let-astronauts-make-tools-from-moon-dust-and-waste-14042768.html)
-- [Aishwarya Rai એ પેરિસ ફેશન વીકના BTS ફોટા કર્યા શેર, સુંદરતા જોઈ ચાહકો થયા દિવાના, જુઓ](https://tv9gujarati.com/photo-gallery/aishwarya-rais-paris-fashion-week-bts-photos-glamorous-looks-1525201.html)
+- [পুনর্গঠনের চিঠি, ফের বিতর্কের কেন্দ্রে টাটারা](https://www.aaroananda.com/story/latest-news/breaking-news/tata-sons-restructuring-row-inside-tata-trusts/11022242)
+- [Sony & YouTube set to broadcast ISL from 2026-27 season](https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights)
+- [Blow to India: പരമ്പര തൂത്തുവാരാൻ ഇറങ്ങുന്ന ഇന്ത്യക്ക് അപ്രതീക്ഷിത പ്രഹരം, പേസർ പരിക്കേറ്റ് പുറത്ത്](https://www.asianetnews.com/cricket-sports/blow-to-india-ahead-of-series-sweep-bid-pacer-prasidh-krishna-ruled-out-of-final-west-indies-odi-articleshow-shyibpt)
+- [अमित शाह आप-कांग्रेस पर खूब बरसे, अकाली दल के लिए एक शब्द क्यों नहीं बोले, जानिए पंजाब चुनाव में बीजेपी का प्लान B](https://navbharattimes.indiatimes.com/state/punjab-and-haryana/chandigarh/amit-shah-plan-b-for-punjab-assembly-election-2026-bjp-shiromani-akali-dal-gathbandhan-bhagwant-maan-aap/articleshow/134614437.cms)
+- [होर्मुज संकट के बीच भारत का बड़ा मास्टरस्ट्रोक, तेल सप्लाई पर रिफाइनर्स ने बदली रणनीति](https://www.abplive.com/business/india-oil-refiners-change-strategy-to-secure-crude-supply-amid-strait-of-hormuz-crisis-3196320)
+- [દુબઈ-ઇઝરાયલ ફ્લાઇટમાં 174 મુસાફરોનો જીવ બચાવનાર સ્મિત મચ્છર કોણ છે? જાણો ગુજરાતના કયા 2 શહેરો સાથે છે તેમનું ખાસ કનેક્શન](https://www.gujaratsamachar.com/news/amreli/who-is-the-Smit-Machchhar-that-saved-the-lives-of-174-passengers-on-a-dubai-israel-flight-know-which-2-cities-of-gujarat-have-a-special-connection-with-it-56450725121)
+- [Gold Price Today: পুজোর আগেই সোনার দামে সোনার দামে ফের বড় বদল, আজ দর কত হল?](https://bengali.abplive.com/business/gold-price-and-silver-price-today-1october-how-much-increase-kolkata-1194781)
+- [মিডডে মিলের সমস্যা মিটেছে](https://www.aaroananda.com/story/latest-news/breaking-news/bengal-midday-meal-fund-issue-resolved-says-minister/11022231)
+- [Mid-Day Meal: ‘ফান্ডের অভাব’, ‘ভাতা বন্ধ’…মিড-ডে মিল নিয়ে সব প্রশ্নের উত্তর দিলেন শিক্ষামন্ত্রী, দিলেন কড়া বার্তাও](https://tv9bangla.com/kolkata/mid-day-meal-in-west-bengal-education-minister-dipak-barman-issues-strict-order-to-schools-1350051.html)
+- ['નાગરિક દેવો ભવ' UPSC શતાબ્દી પર વડાપ્રધાન નરેન્દ્ર મોદીનો સ્પષ્ટ સંદેશ](https://gujarati.news18.com/news/national-international/pm-modi-upsc-centenary-speech-viksit-bharat-civil-services-reform-mk-2634269.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
