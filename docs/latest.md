@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-01 22:02:07
+# India Trending Report — 2026-10-01 22:36:21
 
 ## Google Trends (India) — top trending searches
-1. [rasmus højlund](https://trends.google.com/trending/rss?geo=IN)
-2. [da hike central government employees](https://trends.google.com/trending/rss?geo=IN)
+1. [greece national football team vs netherlands national football team standings](https://trends.google.com/trending/rss?geo=IN)
+2. [rasmus højlund](https://trends.google.com/trending/rss?geo=IN)
 3. [jennifer lopez](https://trends.google.com/trending/rss?geo=IN)
 4. [joão cancelo](https://trends.google.com/trending/rss?geo=IN)
-5. [samsung galaxy s26 ultra](https://trends.google.com/trending/rss?geo=IN)
-6. [anup bagchi hdfc bank ceo](https://trends.google.com/trending/rss?geo=IN)
-7. [friday ott releases](https://trends.google.com/trending/rss?geo=IN)
-8. [man city vs real madrid](https://trends.google.com/trending/rss?geo=IN)
-9. [ireland vs austria](https://trends.google.com/trending/rss?geo=IN)
-10. [rafael leão](https://trends.google.com/trending/rss?geo=IN)
+5. [portugal national football team](https://trends.google.com/trending/rss?geo=IN)
+6. [samsung galaxy s26 ultra](https://trends.google.com/trending/rss?geo=IN)
+7. [anup bagchi hdfc bank ceo](https://trends.google.com/trending/rss?geo=IN)
+8. [friday ott releases](https://trends.google.com/trending/rss?geo=IN)
+9. [man city vs real madrid](https://trends.google.com/trending/rss?geo=IN)
+10. [ireland vs austria](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Saudi hands Omani co-pilot in Flydubai flight incident to UAE](https://timesofindia.indiatimes.com/world/middle-east/flydubai-attack-saudi-hands-omani-co-pilot-to-uae-as-investigators-probe-bid-to-crash-plane/articleshow/134626863.cms)
-- [World Smit-ten with flydubai pilot who saved Israelis, beat social media hijacking](https://timesofindia.indiatimes.com/world/middle-east/smit-ten-world-in-love-with-heroic-indian-pilot-who-saved-israelis-and-beat-social-media-hijacking/articleshow/134622100.cms)
+- [CBI names 3 senior ADAG execs, 7 companies in 2nd RHFL chargesheet](https://timesofindia.indiatimes.com/india/cbi-names-3-senior-adag-execs-7-companies-in-2nd-rhfl-chargesheet/articleshow/134629368.cms)
+- [Government backs SCO connectivity, but PM's Pakistan visit uncertain](https://timesofindia.indiatimes.com/india/government-backs-sco-connectivity-but-pms-pak-visit-uncertain/articleshow/134628081.cms)
+- [Supreme Court stays hanging of 2008 Gujarat serial blasts convict](https://timesofindia.indiatimes.com/india/supreme-court-stays-hanging-of-2008-gujarat-serial-blasts-convict/articleshow/134627463.cms)
+- [Supreme Court says seize vehicle, stop RC, PUC renewal if e-challans not paid](https://timesofindia.indiatimes.com/india/supreme-court-says-seize-vehicle-stop-rc-puc-renewal-if-e-challans-not-paid/articleshow/134627354.cms)
+- [Sundar Pichai on Google launching Gemini 4 Argon, its most powerful AI model yet](https://timesofindia.indiatimes.com/technology/tech-news/google-unveils-gemini-4-argon-its-most-powerful-ai-model-yet-ceo-sundar-pichai-says-were-going-to-make-it-available-as-soon-as-we-can-and-as-/articleshow/134608054.cms)
 - [IAF signs Rs 135cr deal with Indian startup for Mirage pilot simulators](https://timesofindia.indiatimes.com/defence/news/iaf-signs-rs-135cr-contract-with-indian-startup-for-mirage-simulators-to-train-its-fighter-pilots/articleshow/134626922.cms)
+- [Wife gets late husband's job, leaves in-laws; HC orders 25% salary for mother-in-law](https://timesofindia.indiatimes.com/business/india-business/wife-got-late-husbands-government-job-on-compassionate-grounds-promised-to-care-for-in-laws-but-remarried-and-left-court-orders-25-salary-for-mother-in-law-and-equal-terminal-benefits/articleshow/134622351.cms)
 - ['Right to access to justice equal for all': SC frowns at out-of-turn hearings](https://timesofindia.indiatimes.com/india/right-to-access-to-justice-equal-for-all-sc-frowns-at-out-of-turn-hearings/articleshow/134627142.cms)
 - ['Working on it': Trump hints flydubai co-pilot may have Iran links](https://timesofindia.indiatimes.com/world/middle-east/working-on-it-trump-hints-flydubai-co-pilot-may-have-iran-links/articleshow/134624784.cms)
-- [Sundar Pichai on Google launching Gemini 4 Argon, its most powerful AI model yet](https://timesofindia.indiatimes.com/technology/tech-news/google-unveils-gemini-4-argon-its-most-powerful-ai-model-yet-ceo-sundar-pichai-says-were-going-to-make-it-available-as-soon-as-we-can-and-as-/articleshow/134608054.cms)
-- [Tax raid finds Rs 4.34 lakh forex; man wins ITAT case with sister-in-law’s help](https://timesofindia.indiatimes.com/business/india-business/tax-raid-finds-rs-1-12-crore-cash-and-rs-4-34-lakh-foreign-currency-at-delhi-mans-home-he-fights-case-twice-sister-in-laws-explanation-helps-brother-in-law-win-itat-battle/articleshow/134622084.cms)
-- [Wife gets late husband's job, leaves in-laws; HC orders 25% salary for mother-in-law](https://timesofindia.indiatimes.com/business/india-business/wife-got-late-husbands-government-job-on-compassionate-grounds-promised-to-care-for-in-laws-but-remarried-and-left-court-orders-25-salary-for-mother-in-law-and-equal-terminal-benefits/articleshow/134622351.cms)
-- [Of 97 left out in Goa, 88 are back, 3 others are Portuguese citizens: EC](https://timesofindia.indiatimes.com/india/of-97-left-out-in-goa-88-are-back-3-others-are-portuguese-citizens-ec/articleshow/134627337.cms)
-- [Govt aims sealing 114 Rafale jet by FY-end; French co agrees Indian weapon integration](https://timesofindia.indiatimes.com/defence/news/114-rafale-deal-likely-by-fy-end-french-firm-agrees-to-integrate-indian-weapons-def-secy/articleshow/134626952.cms)
 
 **NDTV**
 - [Saudi Coalition Says Intercepted Houthi Missiles, Drones](https://www.ndtv.com/world-news/saudi-coalition-says-intercepted-houthi-missiles-drones-12127925#publisher=newsstand)
@@ -62,6 +62,7 @@
 - [ಮೊದಲ ಪತಿಯ ಕೊಂದು ಜೀವಾವಧಿ ಶಿಕ್ಷೆಗೊಳಗಾದ ಪ್ರೇಮಿಗಳ ಮದುವೆಗೆ ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್‌ ಪೆರೋಲ್! 3 ಸೂಚನೆ ನೀಡಿದ ಜಡ್ಜ್‌](https://vijaykarnataka.com/news/karnataka/karnataka-high-court-grants-parole-wedding-of-a-couple-convicted-of-life-imprisonment-judge-issues-3-directives/articleshow/134624137.cms)
 
 **The Hindu**
+- [​​Bihar Flood: Fresh breach in the embankment in Saran, Gopalganj and Muzaffarpur](https://www.thehindu.com/news/national/bihar/bihar-flood-fresh-breach-in-the-embankment-in-saran-gopalganj-and-muzaffarpur/article71533681.ece)
 - [Irani Cup 2026 | Srinagar cricket ground rewrites history to outpace memories of 1983 India-West India fiasco](https://www.thehindu.com/news/national/jammu-and-kashmir/irani-cup-2026-srinagar-cricket-ground-rewrites-history-to-outpace-memories-of-1983-india-west-india-fiasco/article71534400.ece)
 - [‘Premium plot for low-value land’ : Congress leaders accuse Chhattisgarh government of providing undue benefits to Minister’s wife](https://www.thehindu.com/news/national/chhattisgarh/premium-plot-for-low-value-land-congress-leaders-accuse-chhattisgarh-government-of-providing-undue-benefits-to-ministers-wife/article71534078.ece)
 - [Archaeological heritage of Kasaragod integral to Keralam’s history, says Minister](https://www.thehindu.com/news/national/kerala/archaeological-heritage-of-kasaragod-integral-to-keralams-history-says-minister/article71533515.ece)
@@ -71,7 +72,6 @@
 - [SCCL registers growth in coal transportation, prioritises Telangana power plants](https://www.thehindu.com/news/national/telangana/sccl-registers-growth-in-coal-transportation-prioritises-telangana-power-plants/article71533646.ece)
 - [Govt. caps sugar stock limit for dealers to 1,000 quintals ahead of festive season](https://www.thehindu.com/business/Industry/govt-caps-sugar-stock-limit-for-dealers-to-1000-quintals-ahead-of-festive-season/article71534608.ece)
 - [Pfizer-Sankar Foundation eye camp screens 1,113 patients](https://www.thehindu.com/news/national/andhra-pradesh/pfizer-sankar-foundation-eye-camp-screens-1113-patients/article71533884.ece)
-- [Food and beverages industry maintaining a growth rate of 10% annually](https://www.thehindu.com/news/cities/chennai/food-and-beverages-industry-maintaining-a-growth-rate-of-10-annually/article71533185.ece)
 
 **Livemint**
 - [Trump’s warning to Iran: ‘They’ll be hit very hard’ if linked to flydubai plane attack](https://www.livemint.com/news/us-news/trumps-warning-to-iran-they-ll-be-hit-very-hard-if-linked-to-flydubai-plane-attack-11790888235545.html)
@@ -153,32 +153,32 @@
 - Trump (4.2)
 - Iran (4.2)
 - Congress (4.2)
-- Indian (3.9)
 - Asian Games (3.0)
 - Omani (2.9)
 - Delhi (2.9)
 - Minister (2.9)
 - Flydubai (2.6)
-- Govt (2.6)
+- Government (2.6)
+- Gujarat (2.6)
+- Indian (2.6)
 - October (2.6)
 - Chhattisgarh (2.6)
 - Tennessee (2.6)
 - What (2.6)
-- flydubai (2.1)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [US Bond Yield: अमेरिका में 21वीं शताब्दी में पहली बार हुआ ऐसा, भारतीय शेयर बाजार में मच गया कोहराम](https://navbharattimes.indiatimes.com/business/business-news/us-treasury-yield-post-its-biggest-quarterly-rise-this-century-in-the-third-quarter/articleshow/134614889.cms)
-- [Why long-brewing physical and mental breakdowns feel so sudden](https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden)
-- [Naga Vamsi: ‘ఆదర్శ కుటుంబం’ ప్రీమియర్స్ లేవు.. ఈసారి ఎలాంటి డౌట్స్ వద్దు: నాగవంశీ](https://telugu.samayam.com/telugu-movies/cinema-news/naga-vamsi-confirms-no-premieres-for-venkatesh-trivikram-aadarsha-kutumbam-ak47-trailer-update/articleshow/134614810.cms)
-- [मोठी बातमी! शिवसेना शिंदे गटात बंड, महायुतीची डोकेदुखी वाढली, निवडणुकांपूर्वीच…](https://www.tv9marathi.com/maharashtra/rebellion-within-the-shinde-faction-of-shiv-sena-shrikant-shinde-filed-two-nomination-papers-simultaneously-for-the-amravati-teachers-constituency-election-1769080.html)
-- [Gold-Silver Rate 1st October: सितंबर में सोना-चांदी हुआ था सस्ता, अक्टूबर के पहले दिन बदला खेल](https://www.aajtak.in/business/utility/photo/gold-silver-cheaper-in-september-but-metals-price-hike-1st-day-of-october-check-update-tutc-2658100-2026-10-01)
-- [శ్రీకాంత్‌ ఓదెల నన్ను మోసం చేశాడు: మోహన్‌బాబు](https://www.eenadu.net/telugu-news/movies/the-paradise-post-release-chit-chat-nani-mohan-babu-srikanth-odela/0206/126177706)
-- [“விஜயகாந்த் பற்றி பேசுவதை ஆதவ் அர்ஜுனா நிறுத்திக்கொள்ள வேண்டும்” - பிரேமலதா காட்டம்](https://www.hindutamil.in/news/tamilnadu/premalatha-says-aadhav-arjuna-must-stop-talking-about-the-captain)
-- [IND vs WI तीसरे ODI से पहले टीम इंडिया का अहम​ खिलाड़ी बाहर, किसकी हो सकती है एंट्री](https://www.indiatv.in/sports/cricket/india-vs-west-indies-3rd-odi-prasidh-krishna-out-as-replacement-anshul-kamboj-may-in-the-squad-2026-10-01-1246395)
-- ['Drishyam 3' advance box office collection: The Ajay Devgn, Tabu film collects Rs 38 crore for the extended opening weekend through advance ticket sales](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/drishyam-3-advance-box-office-collection-the-ajay-devgn-tabu-film-collects-rs-38-crore-for-the-extended-opening-weekend-through-advance-ticket-sales/articleshow/134614646.cms)
-- [SpaceX set to launch new crew for NASA on retiring dragon craft](https://www.thehindubusinessline.com/news/science/spacex-set-to-launch-new-crew-for-nasa-on-retiring-dragon-craft/article71532257.ece)
+- [Jim Carrey secretly gets married for the third time, the 64-year old actor ties the knot with his longtime girlfriend Min Ah in a private ceremony in LA](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jim-carrey-secretly-gets-married-for-the-third-time-the-64-year-old-actor-ties-the-knot-with-his-longtime-girlfriend-min-ah-in-a-private-ceremony-in-la/articleshow/134615750.cms)
+- [Nushrratt Bharuccha Accident: ভয়ঙ্কর দুর্ঘটনায় গুরুতর আহত নুসরত ভারুচা, ভর্তি হাসপাতালে, এখন কেমন আছেন?](https://bengali.news18.com/news/entertainment/bollywood-actress-nushrratt-bharuccha-meets-with-accident-in-bali-actress-undergoing-treatment-hospital-after-sustaining-injuries-rds-2913920.html)
+- [Astronomers Spot Massive Exoplanet Orbiting In Habitable Zone Of Extremely Hot Star](https://www.ndtv.com/science/astronomers-spot-massive-exoplanet-orbiting-in-habitable-zone-of-extremely-hot-star-12125055)
+- [மின்சார கார்களை அதிகமாக விற்றால் கார்ப்பரேட்டுகளுக்கு ஜாக்பாட்! CAFE-III விதிகளால் வரப்போகும் மாற்றம் என்ன?](https://tamil.newsbytesapp.com/news/auto/india-cafe-iii-fuel-efficiency-norms-3x-credit-for-electric-vehicles-explained/story)
+- [संभल हिंसा: मुल्ला अफ़रोज़ मामले में सुप्रीम कोर्ट की योगी सरकार पर कड़ी टिप्पणी और 10 लाख रुपए जुर्माना](https://www.bbc.com/hindi/articles/c370l2vvp2ywo)
+- [Mahendragiri Varahi OTT : ఓటీటీలోకి సడన్‌గా వచ్చేసిన మహేంద్రగిరి వారాహి - ఎన్ని భాషల్లో స్ట్రీమింగ్ అవుతుందంటే?](https://telugu.abplive.com/entertainment/ott-webseries/mahendragiri-varahi-ott-streaming-sumanth-aishwarya-rajesh-mythological-thriller-available-to-watch-on-amazon-prime-video-260422)
+- [SpaceX to Launch NASA's Crew-13 Mission to ISS on Dragon Spacecraft](https://www.marketscreener.com/news/spacex-to-launch-nasa-s-crew-13-mission-to-iss-on-dragon-spacecraft-ce785ad3de8af624)
+- [सीईसी ज्ञानेश कुमार के इस्तीफे की मांग के बीच 20 साल पुराना केस खोलने की तैयारी, मलेशिया से जुड़े हैं घटना के तार](https://navbharattimes.indiatimes.com/state/kerala/thiruvananthapuram/kerala-govt-want-to-re-examine-malaysian-lee-siew-beein-suicide-case-related-with-cec-gyanesh-kumar-tenure-as-pwd-secretary/articleshow/134614870.cms)
+- [Stock Market Crash: अचानक मार्केट में क्‍यों आया भूचाल? झटके में 10 लाख करोड़ स्‍वाहा](https://www.aajtak.in/business/news/story/why-indian-stock-market-sensex-nifty-crash-investors-big-loss-tutd-dskc-2658390-2026-10-01)
+- [Breaking News Asian Games 2026: રોમાંચક મુકાબલામાં છેલ્લી મિનિટે ભારતે પાકિસ્તાનને પછાડ્યું, ગોલ્ડ મેડલ મેચમાં કરી એન્ટ્રી](https://tv9gujarati.com/sports/other-sports/breaking-news-asian-games-2026-hockey-india-defeated-pakistan-secured-spot-in-final-1525276.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
