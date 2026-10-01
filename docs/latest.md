@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-01 08:40:20
+# India Trending Report — 2026-10-01 09:03:53
 
 ## Google Trends (India) — top trending searches
-1. [verity movie](https://trends.google.com/trending/rss?geo=IN)
-2. [nifty 50](https://trends.google.com/trending/rss?geo=IN)
-3. [2026](https://trends.google.com/trending/rss?geo=IN)
-4. [carlos alcaraz](https://trends.google.com/trending/rss?geo=IN)
-5. [राकेश सचान](https://trends.google.com/trending/rss?geo=IN)
-6. [abhishek sharma](https://trends.google.com/trending/rss?geo=IN)
-7. [asia cup](https://trends.google.com/trending/rss?geo=IN)
-8. [kotak mahindra bank ceo](https://trends.google.com/trending/rss?geo=IN)
-9. [கும்பகோணம்](https://trends.google.com/trending/rss?geo=IN)
-10. [ऑस्ट्रेलिया बनाम दक्षिण अफ्रीका](https://trends.google.com/trending/rss?geo=IN)
+1. [विजय](https://trends.google.com/trending/rss?geo=IN)
+2. [alexander zverev](https://trends.google.com/trending/rss?geo=IN)
+3. [ind vs pak hockey](https://trends.google.com/trending/rss?geo=IN)
+4. [drishyam 3](https://trends.google.com/trending/rss?geo=IN)
+5. [मार्को रुबियो](https://trends.google.com/trending/rss?geo=IN)
+6. [verity movie](https://trends.google.com/trending/rss?geo=IN)
+7. [nifty 50](https://trends.google.com/trending/rss?geo=IN)
+8. [2026](https://trends.google.com/trending/rss?geo=IN)
+9. [carlos alcaraz](https://trends.google.com/trending/rss?geo=IN)
+10. [राकेश सचान](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - ['Used last of his energy': How Captain Machchhar’s quick thinking helped save over 170](https://timesofindia.indiatimes.com/world/middle-east/inside-flydubai-flight-fz1073-how-captain-machchhars-quick-thinking-to-open-cockpit-door-helped-save-174-lives/articleshow/134608575.cms)
+- [Kerala woman checks into lodge with male friend; his wife sends fake cops to rape her](https://timesofindia.indiatimes.com/city/kochi/kerala-woman-checks-into-lodge-with-male-friend-his-wife-tracks-phone-sends-men-to-rape-her/articleshow/134612727.cms)
 - [B'luru traffic is stealing 53 days from schoolchildren every year: How it came to this](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-traffic-is-stealing-53-days-from-schoolchildren-every-year-how-did-it-come-to-this/articleshow/134611853.cms)
-- [Captain Machchhar, a dentist, plumber & the crew who helped save flydubai flight](https://timesofindia.indiatimes.com/world/middle-east/captain-machchhar-a-dentist-plumber-the-crew-who-helped-save-over-170-lives-on-flydubai-flight/articleshow/134610396.cms)
 - [California becomes first state to ban AI layoffs](https://timesofindia.indiatimes.com/technology/tech-news/california-becomes-first-state-to-ban-ai-layoffs-california-governor-gavin-newsom-says-no-worker-should-ever-be-fired-or-disciplined-by-/articleshow/134609994.cms)
-- [Was Iran behind the flydubai flight incident? Netanyahu answers](https://timesofindia.indiatimes.com/world/middle-east/was-iran-behind-the-flydubai-flight-incident-netanyahu-answers/articleshow/134612530.cms)
-- [Justice delayed or justice denied? Apple executive Vivek Tiwari case](https://timesofindia.indiatimes.com/city/lucknow/justice-delayed-or-justice-denied-apple-executive-vivek-tiwari-case/articleshow/134611032.cms)
-- [Indian oil refiners are now sending ships into Hormuz to get cheaper oil - here's why](https://timesofindia.indiatimes.com/business/india-business/indian-oil-refiners-change-strategy-to-get-cheaper-oil-hire-ships-tankers-to-sail-through-strait-of-hormuz/articleshow/134609765.cms)
-- [When is the India vs Pakistan Asian Games 2026 cricket gold medal match?](https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/when-is-india-vs-pakistan-asian-games-2026-gold-medal-match-check-date-time-venue/articleshow/134612509.cms)
-- [£25 Gutenberg Bible leaf found in English attic later sold for £39,000](https://timesofindia.indiatimes.com/world/uk/a-gutenberg-bible-leaf-bought-for-25-in-the-early-20th-century-was-rediscovered-among-a-grandfathers-belongings-in-an-english-attic-the-roughly-570-year-old-page-fetched-39000-at-auction-in-2025/articleshow/134608620.cms)
-- [Thomas Gilcrease got 160 acres at age 9; 18 years later, it had 32 oil wells](https://timesofindia.indiatimes.com/world/us/in-1899-nine-year-old-thomas-gilcrease-received-160-acres-18-years-later-it-had-32-producing-oil-wells-and-his-wealth-later-helped-build-tulsas-gilcrease-museum/articleshow/134610271.cms)
+- [Mother and nominee son died; bank delayed funds to father, ordered to pay Rs 15,000](https://timesofindia.indiatimes.com/business/india-business/mother-nominated-son-for-savings-account-but-both-died-farmer-father-faced-long-delays-got-money-but-lodged-a-compliant-consumer-commission-orders-bank-to-pay-rs-15000-relief/articleshow/134590731.cms)
+- [Card machine payments delayed 457 days; businessman wins Rs 40k compensation](https://timesofindia.indiatimes.com/legal/news/card-machine-payments-delayed-457-days-commission-orders-rs-40000-compensation-to-businessman/articleshow/134613216.cms)
+- [Japan raises permanent residency fee 20-fold as foreign population hits record](https://timesofindia.indiatimes.com/world/rest-of-world/japan-raises-permanent-residency-fee-20-fold-as-foreign-population-hits-record/articleshow/134613252.cms)
+- [Captain Machchhar, a dentist, plumber & the crew who helped save flydubai flight](https://timesofindia.indiatimes.com/world/middle-east/captain-machchhar-a-dentist-plumber-the-crew-who-helped-save-over-170-lives-on-flydubai-flight/articleshow/134610396.cms)
+- [Peter Thiel bought $250m-listed LA mansion at foreclosure for $130 million](https://timesofindia.indiatimes.com/real-estate/news/peter-thiel-quietly-bought-los-angeles-40000-sq-ft-casa-encantada-for-130-million-at-foreclosure-after-it-had-once-been-listed-for-250-million-his-identity-as-the-buyer-stayed-hidden-for-months/articleshow/134612414.cms)
+- [Virginia widow saved Frank Lloyd Wright home by moving it 13 miles](https://timesofindia.indiatimes.com/world/us/in-1964-a-virginia-widow-fought-to-save-her-frank-lloyd-wright-home-from-interstate-66-it-was-dismantled-piece-by-piece-moved-13-miles-and-rebuilt-at-woodlawn-where-it-still-stands/articleshow/134611231.cms)
 
 **NDTV**
 - [Axe May Have Been Used In flydubai Attack. Why It Was On Plane](https://www.ndtv.com/world-news/axe-may-have-been-used-in-flydubai-attack-why-it-was-on-plane-12124410#publisher=newsstand)
@@ -50,28 +50,28 @@
 - [Indian pilot's ‘muscle memory’ helped him avert flydubai tragedy after being stabbed, says friend](https://www.hindustantimes.com/india-news/indian-pilot-smit-machchhar-muscle-memory-helped-him-avert-flydubai-tragedy-after-being-stabbed-says-friend-101790837664662.html)
 
 **Vijay Karnataka**
+- [ಡೊನಾಲ್ಡ್‌ ಟ್ರಂಪ್‌ ಸಭೆ ಬೆನ್ನಲ್ಲೇ ಗೂಗಲ್‌ನ ಪ್ರಬಲ AI ಮಾದರಿ ಸಾರ್ವಜನಿಕ ಬಳಕೆಗೆ ಅಲಭ್ಯ: ಜೆಮಿನಿ 4 ಆರ್ಗಾನ್‌ನಲ್ಲಿ ಅಂತದ್ದೇನಿದೆ?](https://vijaykarnataka.com/news/world/google-restricts-public-access-to-most-powerful-ai-gemini-4-argon-over-cyber-weapon-fears/articleshow/134612595.cms)
+- [ರಾಜ್ಯದಲ್ಲಿ ಎಸ್‌ಐಆರ್‌ಗೆ ತೀವ್ರಗೊಂಡ ವಿರೋಧ: ಫಾರಂ 7 ದುರುಪಯೋಗ ಆರೋಪ, ಚುನಾವಣಾ ಆಯೋಗದ ಕದ ತಟ್ಟಿದ ರಿಜ್ವಾನ್ ಅರ್ಷದ್](https://vijaykarnataka.com/news/karnataka/rizwan-arshad-submitted-memorandum-to-the-chief-electoral-officer-on-sir/articleshow/134611801.cms)
 - [ನ. 9ರಂದು ವಿಧಾನಸೌಧದ ಭವ್ಯ ಮೆಟ್ಟಿಲಿನಲ್ಲಿ ’ಉರ್ದು ಹಬ್ಬ’: ಕನ್ನಡಪರ ಸಂಘಟನೆಗಳ ನಿಲುವೇನು?](https://vijaykarnataka.com/news/karnataka/pro-kannada-organization-stand-on-proposed-urdu-habba-on-november-9-by-govt-of-karnataka/articleshow/134613198.cms)
-- [Asian Games Men: ಶ್ರೀಲಂಕಾ ವಿರುದ್ಧದ ಸೆಮಿಫೈನಲ್‌ ಗೆದ್ದ ಭಾರತ: ಫೈನಲ್‌ನಲ್ಲಿ ಪಾಕಿಸ್ತಾನ ಎದುರಾಳಿ! ಬರಲಿದೆ ಬಿರುಗಾಳಿ](https://vijaykarnataka.com/sports/cricket/news/india-beat-sri-lanka-in-asian-games-mens-cricket-semi-final-will-face-pakistan-in-final-match/articleshow/134611355.cms)
-- [ಸ್ಮಿತ್‌ ಮಚ್ಚಾರ್‌ ನಿಜವಾದ ನಾಯಕ: ಫ್ಲೈದುಬೈ‌ ವಿಮಾನದ ಭಾರತೀಯ ಪೈಲಟ್‌ಗೆ ಓವಲ್‌ ಕಚೇರಿಯಿಂದಲೇ ಸೆಲ್ಯೂಟ್‌ ಹೇಳಿದ ಡೊನಾಲ್ಡ್‌ ಟ್ರಂಪ್!](https://vijaykarnataka.com/news/world/donald-trump-praises-indian-pilot-smit-machchhar-bravery-during-on-board-fight-in-flydubai-plane/articleshow/134610310.cms)
 - [ಐಶ್ವರ್ಯಾ ರೈ ಪ್ಯಾರಿಸ್ ಲುಕ್ ಸಖತ್ ವೈರಲ್; BTS ಫೋಟೋ ನೋಡಿ ಸೆಲೆಬ್ರಿಟಿಗಳು ಫಿದಾ!](https://vijaykarnataka.com/lifestyle/fashion/aishwarya-rai-paris-fashion-week-bts-photos-runway-look-celebrity-reactions/articleshow/134610236.cms)
-- [3 ಸಚಿವರಿಗೆ ಕೆಪಿಸಿಸಿ ಕಾರ್ಯಾಧ್ಯಕ್ಷ ಪಟ್ಟ? 'ಎಕ್ಸಿಟ್' ಆಗುವ ಸಚಿವರು ಯಾರು - ಹೈಕಮಾಂಡ್ ಮಾನದಂಡವೇನು?](https://vijaykarnataka.com/news/karnataka/kpcc-working-president-posts-ministers-faces-exit-karnataka-dk-shivakumar-cabinet/articleshow/134610226.cms)
+- [Asian Games Men: ಶ್ರೀಲಂಕಾ ವಿರುದ್ಧದ ಸೆಮಿಫೈನಲ್‌ ಗೆದ್ದ ಭಾರತ: ಫೈನಲ್‌ನಲ್ಲಿ ಪಾಕಿಸ್ತಾನ ಎದುರಾಳಿ! ಬರಲಿದೆ ಬಿರುಗಾಳಿ](https://vijaykarnataka.com/sports/cricket/news/india-beat-sri-lanka-in-asian-games-mens-cricket-semi-final-will-face-pakistan-in-final-match/articleshow/134611355.cms)
 - [ವೈಲ್ಡ್‌ ಕಾರ್ಡ್‌ ಎಂಟ್ರಿ ಘಾಟಿ ಗಾನವಿಗೆ ಜೈಲು: ಮೊದಲ ವಾರವೇ BBK 13 ಸದಸ್ಯರ ವಿರೋಧ ಕಟ್ಟಿಕೊಂಡ ಸ್ಪರ್ಧಿ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-wild-card-contestant-ghati-ganavi-gowda-was-adjudged-the-worst-performer-of-the-4th-week/articleshow/134609436.cms)
 - [ಗಿಡಗಳ ಬೆಳವಣಿಗೆ ನಿಂತಿದೆಯೇ? ಬಾಳೆಹಣ್ಣಿನ ಸಿಪ್ಪೆ, ಬೆಲ್ಲ ಬಳಸಿ ಮನೆಯಲ್ಲೇ ಲಿಕ್ವಿಡ್ ಗೊಬ್ಬರ ತಯಾರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/how-to-make-liquid-fertilizer-at-home-for-plants/articleshow/134570899.cms)
-- [ಗುರುವಾರ ಸಾಯಿಬಾಬಾ ಪೂಜೆ: ಮನೆಯಲ್ಲೇ ಪೂಜೆ ಮಾಡುವ ವಿಧಾನ.!](https://vijaykarnataka.com/religion/pooja-vidhana/thursday-sai-baba-puja-simple-puja-procedure-to-follow-at-home/articleshow/134610961.cms)
+- [ದಿನನಿತ್ಯದ ಚಿಕ್ಕ ಪುಟ್ಟ ಕೆಲಸಗಳು ಪಾಪಕ್ಕೆ ಕಾರಣವಾಗುತ್ತವೆ ಎಂಬ ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳು.!](https://vijaykarnataka.com/religion/hinduism/these-small-actions-can-also-increase-our-sins/articleshow/134613247.cms)
 - [ಶುಭಮನ್ ಗಿಲ್‌ರ ಡಬಲ್ ಸೆಂಚುರಿ ಹಿಂದಿನ ಫಿಟ್‌ನೆಸ್ ಸೀಕ್ರೆಟ್; ಲೀನ್ ಬಾಡಿ, ಡಯೆಟ್ ಮತ್ತು ವರ್ಕೌಟ್ ಹೇಗಿದೆ?](https://vijaykarnataka.com/lifestyle/fitness/shubman-gill-lean-body-fitness-training-diet-secrets/articleshow/134607801.cms)
-- [ಪಟಾಕಿ ಮೇಲೆ ಸಂಪೂರ್ಣ ನಿಷೇಧ ಹೇರಲ್ಲ, ದಿನದ 24 ಗಂಟೆ ಸಿಡಿಸಲೂ ಬಿಡಲ್ಲ: ಭಾವನೆ, ವೇದನೆ ಬ್ಯಾಲೆನ್ಸ್‌ ಮಾಡಿದ ಸುಪ್ರೀಂಕೋರ್ಟ್‌!](https://vijaykarnataka.com/news/india/no-complete-ban-no-unrestricted-use-supreme-court-seeks-balanced-norms-for-firecrackers/articleshow/134609200.cms)
+- [ಸ್ಮಿತ್‌ ಮಚ್ಚಾರ್‌ ನಿಜವಾದ ನಾಯಕ: ಫ್ಲೈದುಬೈ‌ ವಿಮಾನದ ಭಾರತೀಯ ಪೈಲಟ್‌ಗೆ ಓವಲ್‌ ಕಚೇರಿಯಿಂದಲೇ ಸೆಲ್ಯೂಟ್‌ ಹೇಳಿದ ಡೊನಾಲ್ಡ್‌ ಟ್ರಂಪ್!](https://vijaykarnataka.com/news/world/donald-trump-praises-indian-pilot-smit-machchhar-bravery-during-on-board-fight-in-flydubai-plane/articleshow/134610310.cms)
 
 **The Hindu**
-- [Youth Congress-SFI violence: Keralam CM accuses CPI(M) of provoking clashes during protests against BJP](https://www.thehindu.com/news/national/kerala/youth-congress-sfi-violence-keralam-cm-accuses-cpim-of-provoking-clashes-during-protests-against-bjp/article71531785.ece)
-- [External evaluation for Classes 6 and 9 in Telangana on pilot basis](https://www.thehindu.com/news/national/telangana/external-evaluation-for-classes-6-and-9-in-telangana-on-pilot-basis/article71529577.ece)
-- [Calcutta HC extends security cover to TMC MP Mahua Moitra during constituency visits till November 30](https://www.thehindu.com/news/national/west-bengal/calcutta-hc-extends-security-cover-to-tmc-mp-mahua-moitra-during-constituency-visits-till-november-30/article71531947.ece)
+- [Private school PE teacher arrested under POCSO Act in Andhra’s Kuppam](https://www.thehindu.com/news/national/andhra-pradesh/private-school-pe-teacher-arrested-under-pocso-act-in-andhras-kuppam/article71531816.ece)
+- [President Murmu, PM Modi praise Indian pilot Smit Machchhar for saving Israel-bound flight from crash](https://www.thehindu.com/news/national/president-murmu-pm-modi-praise-indian-pilot-smit-machchhar-for-saving-flydubai-flight-from-crash/article71531524.ece)
 - [Must bring youth into public services who are not attracted to public office: PM Modi at UPSC centenary celebrations](https://www.thehindu.com/news/national/pm-modi-upsc-centenary-celebrations/article71531998.ece)
+- [External evaluation for Classes 6 and 9 in Telangana on pilot basis](https://www.thehindu.com/news/national/telangana/external-evaluation-for-classes-6-and-9-in-telangana-on-pilot-basis/article71529577.ece)
+- [Youth Congress-SFI violence: Keralam CM accuses CPI(M) of provoking clashes during protests against BJP](https://www.thehindu.com/news/national/kerala/youth-congress-sfi-violence-keralam-cm-accuses-cpim-of-provoking-clashes-during-protests-against-bjp/article71531785.ece)
+- [Calcutta HC extends security cover to TMC MP Mahua Moitra during constituency visits till November 30](https://www.thehindu.com/news/national/west-bengal/calcutta-hc-extends-security-cover-to-tmc-mp-mahua-moitra-during-constituency-visits-till-november-30/article71531947.ece)
 - [Amid political tensions, Keralam Minister O.J. Janeesh’s vehicle attacked by DYFI members in Kannur](https://www.thehindu.com/news/national/kerala/amid-political-tensions-keralam-minister-oj-janeeshs-vehicle-attacked-by-dyfi-members-in-kannur/article71531853.ece)
 - [Declaration part of Form 6 changed since SIR in Bihar](https://www.thehindu.com/news/national/declaration-part-of-form-6-changed-since-sir-in-bihar/article71509555.ece)
 - [EC reverts to allowing Form 6 submission without attached declaration in non-SIR States](https://www.thehindu.com/news/national/ec-reverts-to-allowing-form-6-submission-without-attached-declaration-in-non-sir-states/article71525571.ece)
 - [SIR in Andhra Pradesh extended for third time; final electoral roll on October 16](https://www.thehindu.com/news/national/andhra-pradesh/sir-in-andhra-pradesh-extended-for-third-time-final-electoral-roll-on-october-16/article71531273.ece)
-- [ECI meets for second time in 4 days, extends SIR dates for Andhra Pradesh and Meghalaya](https://www.thehindu.com/news/national/eci-meets-for-second-time-in-4-days-extends-sir-dates-for-andhra-pradesh-and-meghalaya/article71529452.ece)
-- [ECI extends SIR in Andhra Pradesh: enumeration till July 24, final roll on October 3](https://www.thehindu.com/news/national/andhra-pradesh/eci-extends-sir-in-andhra-pradesh-enumeration-till-july-24-final-roll-on-october-3/article71220983.ece)
 
 **Livemint**
 - [‘No force can survive without utilizing AI’: CDS Subramani on why commanders must retain final say in modern warfare](https://www.livemint.com/news/india/no-force-can-survive-without-utilizing-ai-cds-subramani-on-why-commanders-must-retain-final-say-in-modern-warfare-11790838653097.html)
@@ -110,6 +110,9 @@
 - [ಚುನಾವಣಾ ಆಯೋಗಕ್ಕೆ ಬೇಕಿದೆ ‘ಸರ್ಜರಿ’!](https://www.varthabharati.in/neladani/he-election-commission-needs-surgery-2279360)
 
 **Asianet Kannada**
+- [ಸಂಜೆ ಹೊಸ್ತಿಲ ಬಳಿ ಈ ಒಂದು ವಸ್ತುವನ್ನು ಇಟ್ರೆ  ಲಕ್ಷ್ಮೀದೇವಿ ತಾನಾಗಿಯೇ ಬರ್ತಾಳೆ!](https://kannada.asianetnews.com/gallery/festivals/astrologer-gauri-subramanya-performing-hostilu-pooje-evening-highly-auspicious-for-invoking-grace-of-goddess-lakshmi-mrq-lh2bt43)
+- [ಈ ಹೆವಿ ಡಿಸೈನ್ ಇಯರ್ ರಿಂಗ್ಸ್ ನೋಡಿದ್ರೆ ವಾವ್ ಅನ್ನೋದು ಗ್ಯಾರಂಟಿ!](https://kannada.asianetnews.com/webstories/fashion/latest-trendy-heavy-design-earrings-for-weddings-and-festivals-kvn-oer30gk)
+- [ಅಕ್ಟೋಬರ್‌ನಲ್ಲಿ ಹಂಸ-ಬುಧಾದಿತ್ಯ ರಾಜಯೋಗ; ಸಿಂಹ ಸೇರಿದಂತೆ ಈ 4 ರಾಶಿಗೆ ಅದೃಷ್ಟದ ತಿಂಗಳು](https://kannada.asianetnews.com/festivals/october-grah-gochar-2026-hans-and-budhaditya-rajyog-4-zodiac-get-benefits-suh/articleshow-lmqercv)
 - [ಬುಧ-ಮಂಗಳ ಕೇಂದ್ರ ದೃಷ್ಟಿ ಯೋಗ: ನಾಳೆ ಅಕ್ಟೋಬರ್ 2ರಿಂದ ಈ 4 ರಾಶಿಗೆ ಶುಭಫಲ; ಹಣ, ಉದ್ಯೋಗದಲ್ಲಿ ಪ್ರಗತಿ](https://kannada.asianetnews.com/astrology/tomorrow-october-2nd-rajayoga-2026-mars-mercury-brings-rajyoga-for-4-zodiac-signs-suh/articleshow-ygg918f)
 - [ಯೋಗೇಶ್‌ ಗೌಡ ಹ*ತ್ಯೆ ಪ್ರಕರಣ: ವಿನಯ್ ಕುಲಕರ್ಣಿಗೆ ಸುಪ್ರೀಂ ನೋಟಿಸ್, ಶಿಕ್ಷೆ ತಡೆ ಹಿಡಿದ ಹೈಕೋರ್ಟ್ ವಿರುದ್ಧ ಗರಂ](https://kannada.asianetnews.com/state/supreme-court-issues-notice-to-mla-vinay-kulkarni-in-yogesh-gowda-case-and-slamming-karnataka-high-court-gdp/articleshow-2qfwwip)
 - [ವೀರಭೂಮಿ ಮ್ಯೂಸಿಯಂನಲ್ಲಿ ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣನ ಶೌರ್ಯಗಾಥೆ, ದೃಶ್ಯಕಾವ್ಯಕ್ಕೆ ಮನಸೋತ ಕನ್ನಡಿಗರು](https://kannada.asianetnews.com/sandalwood/veerabhumi-museum-brings-sangolli-rayanna-valour-to-life-visual-spectacle-captivates-visitors/articleshow-0qhloh6)
@@ -117,13 +120,12 @@
 - [ಪನೀರ್ ಬಟರ್ ಮಸಾಲಾ ರೆಸಿಪಿ: ಮನೆಯಲ್ಲೇ ಮಾಡಿ ರೆಸ್ಟೋರೆಂಟ್‌ ಶೈಲಿಯ ಸಿಲ್ಕಿ ಗ್ರೇವಿ](https://kannada.asianetnews.com/food/paneer-butter-masala-recipe-kannada-suh/articleshow-kftuqn7)
 - [Navratri Rituals: ನವರಾತ್ರಿಯ 9 ದಿನ ಈ ಕೆಲ್ಸವನ್ನು ತಪ್ಪದೇ ಮಾಡಿ, ಎಂದೂ ಖಾಲಿಯಾಗಲ್ಲ ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಖಾತೆ](https://kannada.asianetnews.com/festivals/navaratri-tips-if-you-give-money-to-young-girls-during-the-nine-days-of-navaratri-your-bank-account-will-never-run-dry/articleshow-8raghcg)
 - [Asian Games Cricket: ಐದು ಬ್ಯಾಟರ್ಸ್ ಝೀರೋ, 45ಕ್ಕೆ ಲಂಕಾ ಆಲೌಟ್; ಚಿನ್ನದ ಪದಕಕ್ಕೆ ಭಾರತ-ಪಾಕಿಸ್ತಾನ ಹೈವೋಲ್ಟೇಜ್ ಫೈಟ್](https://kannada.asianetnews.com/cricket-sports/asian-games-2026-india-thrash-sri-lanka-by-124-runs-set-up-epic-final-vs-pakistan-kvn/articleshow-k4q9q3h)
-- [ನಿಮ್ಮ ಸಂಬಳ ₹1 ಲಕ್ಷಕ್ಕಿಂತ ಕಡಿಮೆಯಿದ್ದರೆ ದಯವಿಟ್ಟು ಬೆಂಗಳೂರಿಗೆ ಬರಬೇಡಿ! ಉದ್ಯೋಗಿಯ ಅನುಭವದ ಮಾತು ವೈರಲ್](https://kannada.asianetnews.com/viral/if-your-salary-less-than-1lakh-dont-come-to-bengaluru-9-5-employee-adivse-goest-viral-rav/articleshow-k7g4pwg)
-- [ರೇಷನ್ ಕಾರ್ಡ್ ಇ-ಕೆವೈಸಿ ಮೊಬೈಲ್‌ನಲ್ಲೇ ಅಪ್ಡೇಟ್ ಮಾಡಲು 'ಅನ್ನ ಸೇವೆ' ಆ್ಯಪ್ ಬಿಡುಗಡೆ ಮಾಡಿದ ಸರ್ಕಾರ!](https://kannada.asianetnews.com/state/ration-card-holder-good-news-karnataka-govt-anna-seve-app-launched-for-e-kyc-update-sat/articleshow-n2m1pqm)
-- [ಕಾಗೆ ಕುರಿತ ರಾವೆನ್ ಸಿನಿಮಾದ ಟ್ರೇಲರ್ ರಿಲೀಸ್ ಮಾಡಿದ ಆ್ಯಕ್ಷನ್ ಪ್ರಿನ್ಸ್ ಧ್ರುವ ಸರ್ಜಾ](https://kannada.asianetnews.com/sandalwood/action-prince-dhruva-sarja-launches-trailer-of-raven-a-kannada-film-based-on-a-crow/articleshow-wbrnqpk)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ಫ್ಲೈದುಬೈ ವಿಮಾನದಲ್ಲಿ ಪೈಲಟ್ ಸ್ಮಿತ್​ ಮೇಲೆ ಸಹ ಪೈಲಟ್ ಯಾವ ಆಯುಧದಿಂದ ಹಲ್ಲೆ ನಡೆಸಿದ್ದು ಗೊತ್ತೇ? ಇಲ್ಲಿದೆ ಮಾಹಿತಿ](https://tv9kannada.com/world/flydubai-pilot-attack-crash-axe-used-on-smith-machhar-in-cockpit-incident-1245072.html)
+- [Video: ಕರುವಿನ ಜತೆಗೆ ಫ್ರೆಂಡ್‌ಶಿಪ್‌ ಬೆಳೆಸಿದ ಬೆಕ್ಕಣ್ಣ, ವೈರಲ್ ಆಯ್ತು ದೃಶ್ಯ](https://tv9kannada.com/trending/a-cat-that-struck-up-a-friendship-with-a-calf-1245070.html)
 - [CM DK Shivakumar Press Meet Live: ಸಿಎಂ ಡಿಕೆ ಶಿವಕುಮಾರ್ ಮಹತ್ವದ ಸುದ್ದಿಗೋಷ್ಠಿ](https://tv9kannada.com/videos/dk-shivakumar-press-meet-live-sir-cabinet-meeting-updates-bengaluru-kannada-news-1245063.html)
 - [ಸಿಎಂ ವಿಜಯ್‌ರನ್ನು ಅಪ್ಪಿಕೊಳ್ಳಬೇಕೆಂಬ ಪಟ್ಟು: ಜಂತರ್ ಮಂತರ್ ಬಳಿ ನಡು ರಸ್ತೆಯಲ್ಲೇ ಮಲಗಿದ ಮಹಿಳೆ](https://tv9kannada.com/national/jantar-mantar-woman-demands-hug-from-cm-vijay-blocks-delhi-road-1245056.html)
 - [ಸಿನಿಮಾ ಸಹವಾಸವೇ ಬೇಡ ಎಂದಿದ್ದ ಫಹಾದ್, ಸ್ಟಾರ್ ನಟನಾಗಿದ್ದು ಹೇಗೆ?](https://tv9kannada.com/entertainment/how-fahadh-faasil-came-back-to-movies-after-deciding-to-quit-1245066.html)
@@ -132,10 +134,11 @@
 - [ಸೆಪ್ಟೆಂಬರ್​ನಲ್ಲಿ ಎರಡು ಲಕ್ಷ ಕೋಟಿ ರೂ ದಾಟಿದ ಜಿಎಸ್​ಟಿ ಸಂಗ್ರಹ; ಈ ವರ್ಷ ಇಲ್ಲಿಯವರೆಗೆ ಸಿಕ್ಕಿದ್ದು 12 ಲಕ್ಷ ಕೋಟಿಗೂ ಹೆಚ್ಚು](https://tv9kannada.com/business/gst-collections-in-2026-september-cross-rs-2-lakh-crore-govt-release-data-1245054.html)
 - [‘ಇಷ್ಟು ಗಲೀಜು ಆಟ ಆಡಬೇಡಿ’; ಕಾವ್ಯಾಗೆ ನೇರವಾಗಿ ಹೇಳಿದ ಗಾನವಿ](https://tv9kannada.com/videos/bbk-13-ganavi-gowda-and-kavya-gowda-lock-horns-as-kitchen-fight-escalates-in-bigg-boss-house-1245046.html)
 - [ಭಾರತ vs ಪಾಕಿಸ್ತಾನ್ ಫೈನಲ್ ಪಂದ್ಯ ಯಾವಾಗ? ಇಲ್ಲಿದೆ ಸಂಪೂರ್ಣ ಮಾಹಿತಿ](https://tv9kannada.com/sports/cricket-news/india-vs-pakistan-asian-games-2026-final-schedule-date-time-and-venue-details-1245041.html)
-- [ಎಸ್​ಐಆರ್​ನಲ್ಲಿ 1.7 ಕೋಟಿ ಮತದಾರರ ಹೆಸರು ತೆಗೆದಿದ್ದಾರೆ: ಸಚಿವ ರಿಜ್ವಾನ್ ಅರ್ಷದ್ ಆರೋಪ, ಚುನಾವಣಾಧಿಕಾರಿಗೆ ದೂರು ಸಲ್ಲಿಕೆ](https://tv9kannada.com/videos/karnataka-sir-row-rizwan-arshad-claims-1-7-crore-voter-names-removed-1245049.html)
-- [ದೀಪಾವಳಿಗೂ ಮುನ್ನ ಸುಪ್ರೀಂ ಮಹತ್ವದ ತೀರ್ಪು: ‘ಹಸಿರು ಪಟಾಕಿ’ ಬಳಕೆಗೆ ಷರತ್ತುಬದ್ಧ ಅನುಮತಿ](https://tv9kannada.com/national/deepavali-green-crackers-sc-allows-conditional-use-barium-decision-pending-1245043.html)
 
 **Prajavani**
+- [ಹಾಸನ, ಉಡುಪಿ, ಕಾರವಾರಕ್ಕೂ ವಂದೇ ಭಾರತ್ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ರೈಲು: ಎಚ್‌ಡಿಕೆ](https://www.prajavani.net/news/india-news/vande-bharat-express-extension-hassan-udupi-karwar-bengaluru-4300291)
+- [ಜ್ಞಾನೇಶ್ ವಿರುದ್ಧ ಪದಚ್ಯುತಿ ನೋಟಿಸ್ ಸದ್ಯಕ್ಕಿಲ್ಲ: ‘ಇಂಡಿಯಾ’  ಒಕ್ಕೂಟ ನಿರ್ಧಾರ](https://www.prajavani.net/news/india-news/india-bloc-defers-impeachment-notice-against-gyanesh-kumar-4300250)
+- [ಇನ್ನು ಮೂರು ದಿನ ಈ ರಾಶಿಯವರಿಗೆ ಇರಲಿದೆ ವಿಶೇಷ ಯೋಗ!](https://www.prajavani.net/astro-vastu/astrology/october-first-to-third-horoscope-kannada-rashifala-4300193)
 - [ನಾವು ಮಾಡಿರುವುದು ಅಲ್ಪಸಂಖ್ಯಾತರ ಮತ ಅಳಿಸುವ ಕೆಲಸವಲ್ಲ: ವಿಜಯೇಂದ್ರ](https://www.prajavani.net/news/karnataka-news/by-vijayendra-clarifies-bjp-stand-on-voter-list-revision-allegations-4300243)
 - [ನಾಲವಾರ: ಪ್ರಾಥಮಿಕ ಆರೋಗ್ಯ ಕೇಂದ್ರದಲ್ಲಿ ಸಿಬ್ಬಂದಿ ಕೊರತೆ, ರೋಗಿಗಳ ಪರದಾಟ](https://www.prajavani.net/district/kalaburagi/nalwar-primary-health-center-staff-shortage-patients-struggle-4299479)
 - [ಬೆಂಗಳೂರು ಸಿಟಿ ಪಲ್ಸ್‌: ‘ಎರಡನೇ ಹೆಂಡತಿಯ ನಗರಿ’ಯೆಂಬ ಹೊಸ ‘ಅಪ’ಖ್ಯಾತಿ](https://www.prajavani.net/district/bengaluru-city/dk-shivakumar-statement-bengaluru-second-wife-city-controversy-4300198)
@@ -143,38 +146,35 @@
 - [ಸಕ್ರೆಬೈಲು ಆನೆ ಬಿಡಾರ: ಗಾಯದಿಂದ ನರಳುತ್ತಿದ್ದ 'ಶೌರ್ಯ' ಆನೆ ಸಾವು](https://www.prajavani.net/district/shivamogga/sakrebailu-elephant-shaurya-death-shivamogga-4300199)
 - [ಜಗ್ಗುವವ ನಾನಲ್ಲ, ನಿಮ್ಮನ್ನು ಎದುರಿಸುವೆ: ಮಾಜಿ ಸಚಿವಗೆ ಪ್ರದೀಪ್ ಈಶ್ವರ್ ಟಾಂಗ್](https://www.prajavani.net/district/chikkaballapur/pradeep-eshwar-vs-mc-sudhakar-political-rift-chikkaballapur-4300192)
 - [ರಾಮನಗರ: ಜಿಲ್ಲೆಯಲ್ಲಿದ್ದಾರೆ 386 ಅಪೌಷ್ಟಿಕ ಮಕ್ಕಳು](https://www.prajavani.net/district/ramanagara/ramanagara-malnourished-children-government-schemes-4297299)
-- [ಚನ್ನಪಟ್ಟಣ: ಕೆರೆ ಸಂರಕ್ಷಣೆ ನಿರ್ಲಕ್ಷ್ಯ, ಲೋಕಾಯುಕ್ತಕ್ಕೆ ವರದಿ ಸಲ್ಲಿಕೆ](https://www.prajavani.net/district/ramanagara/channapattana-lake-conservation-neglect-lokayukta-report-4297129)
-- [ವಿಶ್ವ ಸ್ಕೇಟಿಂಗ್‌: ಮಂಗಳೂರು ಹುಡುಗಿ ಡ್ಯಾಷಿಯಲ್ ಅಮಾಂಡ ಕೊನ್ಸೆಸೊ ಆಯ್ಕೆ](https://www.prajavani.net/district/dakshina-kannada/mangaluru-girl-dashiel-amanda-consesao-selected-for-world-skating-4299486)
-- [‘ಹನುಮಾನ್ ಅಂಶ್’ ಬಳಿಕ ನೀಮ್ ಕರೋಲಿ ಬಾಬಾ ಜೀವನಾಧರಿತ ಧಾರಾವಾಹಿ ಘೋಷಿಸಿದ ಸೋನಿ](https://www.prajavani.net/entertainment/cinema/sony-announces-neem-karoli-baba-serial-after-hanuman-ansh-success-4300180)
 
 **eedina**
+- [SIR: ‘ನಮ್ಮ ಸಂವಿಧಾನ-ನಮ್ಮ ಹೋರಾಟ-ನಮ್ಮ ಹಕ್ಕು; ನಾವು ಹೋರಾಟಕ್ಕೆ ಸಿದ್ಧ’- ಪ್ರಕಾಶ್ ರಾಜ್](https://eedina.com/?p=768309)
+- [ಗ್ಯಾನೇಶ್ ಕುಮಾರ್ ವಿರುದ್ಧ ಅ. 2ರಂದು ಬೃಹತ್ ಪ್ರತಿಭಟನೆ: ಸಾಮಾಜಿಕ ಹೋರಾಟಗಾರ ಪ್ರಶಾಂತ್ ಭೂಷಣ್](https://eedina.com/?p=768318)
+- [ಬಾಗಲಕೋಟೆ | ಭೂಮಾಪಕ, ಗ್ರಾಮ ಆಡಳಿತ ಅಧಿಕಾರಿ ನೇಮಕಾತಿ ಪರೀಕ್ಷೆ](https://eedina.com/?p=768293)
 - [ಈ ದಿನ ಸಂಪಾದಕೀಯ | ದೇಶಕ್ಕೆ ಆರ್ಥಿಕ ಬಿಕ್ಕಟ್ಟು ಎದುರಾಗಲಿದೆಯೇ, ನಾಯಕರ ಮಾತು ಎಚ್ಚರಿಕೆಯ ಗಂಟೆಯೇ?](https://eedina.com/?p=768254)
 - [ಏಷ್ಯಾಡ್’ನಲ್ಲಿ  ಶ್ರೀಲಂಕಾ ಸೋಲಿಸಿದ ಟೀಮ್ ಇಂಡಿಯಾ: ಚಿನ್ನದ ಪದಕಕ್ಕಾಗಿ ಪಾಕ್ ಎದುರು ಸೆಣಸು](https://eedina.com/?p=768307)
 - [ನೋಂದಣಿಯೇ ಆಗದ RSSನಿಂದ ಪೌರತ್ವ ನೋಂದಣಿ ಜಾರಿಗೆ ಆಗ್ರಹ: ಜನಗಣತಿ, SIR ನಡುವೆ ಹೊಸ ವಿವಾದ](https://eedina.com/?p=768292)
-- [ತನಿಖೆಯ ನೆಪ, ನೆನೆಗುದಿಗೆ ಬಿಲ್: ₹38,000 ಕೋಟಿ ಪಾವತಿಗೆ ಗಡುವು ನೀಡಿದ ಗುತ್ತಿಗೆದಾರರು](https://eedina.com/?p=768298)
+- [ತನಿಖೆಯ ನೆಪ, ನನೆಗುದಿಗೆ ಬಿಲ್: ₹38,000 ಕೋಟಿ ಪಾವತಿಗೆ ಗಡುವು ನೀಡಿದ ಗುತ್ತಿಗೆದಾರರು](https://eedina.com/?p=768298)
 - [ಜಮಖಂಡಿ | ಜೋಡೆತ್ತು ಸಾಕುವ ರೈತರಿಗೆ ಮಾಸಿಕ 11 ಸಾವಿರ ಪ್ರೋತ್ಸಾಹಧನಕ್ಕೆ ಆಗ್ರಹ](https://eedina.com/?p=768281)
 - [SIR ಮುಕ್ತಾಯದ ಬೆನ್ನಲ್ಲೇ ಒಡಿಶಾ ಸಿಇಒ ಸ್ವಯಂ ನಿವೃತ್ತಿಗೆ ಅರ್ಜಿ](https://eedina.com/?p=768295)
 - [ರಾಜ್ಯದ ಕ್ಷೀರ ವಲಯ: 11 ಹಾಲು ಒಕ್ಕೂಟಗಳಿಗೆ ಲಾಭದ ಸಿಹಿ, ಐದಕ್ಕೆ ನಷ್ಟದ ಕಹಿ](https://eedina.com/?p=768279)
-- [ಕಾರ್ಮಿಕರ ಉಳಿತಾಯಕ್ಕೆ ಕನ್ನ ಹಾಕಿದ ಕೇಂದ್ರದ ಹೊಸ ಪಿಎಫ್ ನೀತಿ: ರಾಜ್ಯಾದ್ಯಂತ ಭುಗಿಲೆದ್ದ ಆಕ್ರೋಶ](https://eedina.com/?p=768280)
-- [ಹುಬ್ಬಳ್ಳಿ | ಹೊರಗುತ್ತಿಗೆ ನೌಕರರಿಗೂ ಸೇವಾ ಭದ್ರತೆ ನೀಡಿ: ಜಗದೀಶ ಶೆಟ್ಟರ್](https://eedina.com/?p=768262)
-- [ಕಾನೂನು ಬಿಟ್ಟು ಸಾಫ್ಟ್‌ವೇರ್‌ ಸೂಚನೆಯಂತೆ ನಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ: ಚುನಾವಣೆ ಆಯೋಗಕ್ಕೆ ಬಾಂಬೆ ಹೈಕೋರ್ಟ್ ತರಾಟೆ](https://eedina.com/?p=768259)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
 - Delhi (4.2)
 - Form (3.9)
-- October (3.9)
 - What (3.9)
 - Indian (3.5)
-- Andhra Pradesh (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
-- India (2.6)
 - November (2.6)
-- flydubai (2.1)
+- October (2.6)
 - Calcutta HC (2.0)
+- PM Modi (2.0)
 - Buy Bajaj Finance (2.0)
 - Keralam (1.9)
+- flydubai (1.8)
+- Used (1.6)
 
 ## NewsAPI top headlines (India)
 
