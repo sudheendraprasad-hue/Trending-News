@@ -1,29 +1,29 @@
-# India Trending Report — 2026-09-30 23:34:56
+# India Trending Report — 2026-10-01 00:02:48
 
 ## Google Trends (India) — top trending searches
-1. [pak vs ban](https://trends.google.com/trending/rss?geo=IN)
-2. [argentina vs bolivia](https://trends.google.com/trending/rss?geo=IN)
-3. [gemini 4](https://trends.google.com/trending/rss?geo=IN)
-4. [nitin gadkari](https://trends.google.com/trending/rss?geo=IN)
-5. [ronaldo](https://trends.google.com/trending/rss?geo=IN)
-6. [google fitbit air india](https://trends.google.com/trending/rss?geo=IN)
-7. [nike](https://trends.google.com/trending/rss?geo=IN)
-8. [united arab emirates vs qatar](https://trends.google.com/trending/rss?geo=IN)
-9. [one ui 9](https://trends.google.com/trending/rss?geo=IN)
-10. [quinton de kock](https://trends.google.com/trending/rss?geo=IN)
+1. [india cricket asian games](https://trends.google.com/trending/rss?geo=IN)
+2. [google gemini 4](https://trends.google.com/trending/rss?geo=IN)
+3. [google fitbit air](https://trends.google.com/trending/rss?geo=IN)
+4. [pakistan vs bangladesh](https://trends.google.com/trending/rss?geo=IN)
+5. [argentina vs bolivia](https://trends.google.com/trending/rss?geo=IN)
+6. [nitin gadkari](https://trends.google.com/trending/rss?geo=IN)
+7. [ronaldo](https://trends.google.com/trending/rss?geo=IN)
+8. [nike](https://trends.google.com/trending/rss?geo=IN)
+9. [united arab emirates vs qatar](https://trends.google.com/trending/rss?geo=IN)
+10. [one ui 9](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - ['A true hero': Netanyahu 'salutes' Indian pilot who stopped co-pilot from crashing plane](https://timesofindia.indiatimes.com/india/a-true-hero-netanyahu-salutes-indian-pilot-who-stopped-omani-co-pilot-from-crashing-flydubai-plane/articleshow/134601907.cms)
 - ['Receiving necessary medical attention': Embassy updates on Indian Flydubai pilot](https://timesofindia.indiatimes.com/world/middle-east/flydubai-flight-incident-netanyahu-says-israel-preparing-for-other-potential-threats-top-developments/articleshow/134595815.cms)
 - [Is it time for Congress and INDIA bloc to take a leaf out of CJP's playbook?](https://timesofindia.indiatimes.com/india/protests-against-sir-cec-is-it-time-for-congress-and-india-bloc-to-take-a-leaf-out-of-cjps-playbook/articleshow/134597912.cms)
+- [Trump announces $200bn South Korean investment in US, $54bn for Alaska LNG](https://timesofindia.indiatimes.com/world/us/trump-announces-200bn-south-korean-investment-in-us-54bn-for-alaska-lng/articleshow/134605504.cms)
 - [Tata Trusts file caveat before Maharashtra charity commissioner](https://timesofindia.indiatimes.com/business/india-business/tata-trusts-file-caveat-before-maharashtra-charity-commissioner/articleshow/134604331.cms)
-- [Congress to replace Warring as Punjab chief; Singla seen as frontrunner for post](https://timesofindia.indiatimes.com/city/chandigarh/congress-to-replace-warring-as-punjab-chief-singla-frontrunner-for-post/articleshow/134602259.cms)
 - [In 2018, Musk gave $480,350 for Flint school filters; students drink from fountains](https://timesofindia.indiatimes.com/technology/tech-news/in-2018-elon-musk-donated-480350-for-flint-school-water-filters-four-years-later-redesigned-systems-allowed-students-to-drink-from-fountains-again-after-years-of-relying-on-alternative-supplies/articleshow/134585828.cms)
-- [He built device to make drinking water from air; 3 years later, won Chemistry Nobel](https://timesofindia.indiatimes.com/science/discovery/in-2022-he-built-a-pocket-sized-device-to-extract-drinking-water-from-the-air-in-death-valley-using-only-sunlight-in-2025-he-won-the-nobel-prize-in-chemistry/articleshow/134591079.cms)
+- [Congress to replace Warring as Punjab chief; Singla seen as frontrunner for post](https://timesofindia.indiatimes.com/city/chandigarh/congress-to-replace-warring-as-punjab-chief-singla-frontrunner-for-post/articleshow/134602259.cms)
 - [5 money changes in Oct: Bulk FD rates, UPI MDR, SBI ATM limit cut, LPG KYC & more](https://timesofindia.indiatimes.com/business/india-business/5-money-rule-changes-from-october-2026-bulk-fd-rates-upi-mdr-starts-above-rs-2000-sbi-atm-free-limit-falls-to-5-lpg-aadhaar-kyc-new-nps-charges/articleshow/134587809.cms)
+- [He built device to make drinking water from air; 3 years later, won Chemistry Nobel](https://timesofindia.indiatimes.com/science/discovery/in-2022-he-built-a-pocket-sized-device-to-extract-drinking-water-from-the-air-in-death-valley-using-only-sunlight-in-2025-he-won-the-nobel-prize-in-chemistry/articleshow/134591079.cms)
 - [US troops finally leave Iraq 23 years after Saddam’s fall](https://timesofindia.indiatimes.com/world/us/us-troops-finally-leave-iraq-23-years-after-saddams-fall-america-closes-a-long-chapter/articleshow/134598216.cms)
-- [Captain Machchhar: The pilot from Mumbai who proved to be the hero](https://timesofindia.indiatimes.com/india/captain-machchhar-the-pilot-from-mumbai-who-proved-to-be-the-hero/articleshow/134602233.cms)
 
 **NDTV**
 - [India Embassy In Saudi Says Injured Captain Smit Machchhar Is "Stable"](https://www.ndtv.com/world-news/india-embassy-in-saudi-says-injured-captain-smit-machchhar-is-stable-12122657#publisher=newsstand)
@@ -50,16 +50,16 @@
 - [India-US economic ties moving beyond trade to investment, tech, innovation: Goyal](https://www.hindustantimes.com/india-news/indiaus-economic-ties-moving-beyond-trade-to-investment-tech-innovation-goyal-101790782427336.html)
 
 **Vijay Karnataka**
+- [ಪಾಕ್‌ ಸೇನೆಗೆ ಬಲೂಚ್‌ನ ಕರಿಮಾ ಮಹಿಳಾ ಪಡೆಯ ಆತಂಕ ಶುರು: ಬಂದೂಕು ಹೆಗಲಿಗೇರಿಸಿ 9 ಸೈನಿಕರ ಹತ್ಯಗೈದ‌ ಸಿಂಹಿಣಿಯರು!](https://vijaykarnataka.com/news/world/baloch-rebels-unveil-women-combat-unit-kaad-ops-claim-9-pak-soldiers-killed-in-attacks/articleshow/134579621.cms)
 - [ರವಿ ಡಿ ಚನ್ನಣ್ಣನವರ್ ಸೇರಿದಂತೆ ರಾಜ್ಯದ 4 ಮಂದಿ IAS, IPS, IFS ಅಧಿಕಾರಿಗಳ ವರ್ಗಾವಣೆ; ಕರ್ನಾಟಕ ಸರ್ಕಾರ ಆದೇಶ](https://vijaykarnataka.com/news/karnataka/transfer-of-4-ias-ips-and-ifs-officers-including-ravi-d-channannavar-karnataka-government-issues-order/articleshow/134599521.cms)
 - [IND Vs WI- ಶುಭಮನ್ ಗಿಲ್ ಡಬಲ್ ಸೆಂಚುರಿಯಲ್ಲಿ 8 ಮೈಲಿಗಲ್ಲು; ಗುವಾಹಟಿಯಲ್ಲಿ ದಾಖಲೆಗಳೆಲ್ಲಾ ಧೂಳೀಪಟ!](https://vijaykarnataka.com/sports/cricket/news/india-vs-west-indies-2nd-odi-8-milestones-in-shubman-gills-double-century/articleshow/134601030.cms)
-- [ಒಂದೇ ಪಂದ್ಯದಲ್ಲಿ 5 ಸೆಂಚುರಿ! 55 ವರ್ಷಗಳ ODI ಇತಿಹಾಸದಲ್ಲೇ ಇಂಥದ್ದೊಂದು ಅದ್ಭುತ ನಡೆದದ್ದು ಇದೇ ಮೊದಲ ಬಾರಿ!](https://vijaykarnataka.com/sports/cricket/news/5-centuries-in-a-single-match-such-incident-first-time-in-the-55-year-history-of-odi/articleshow/134600224.cms)
 - [ಬಾಲಿವುಡ್‌ನ 'ದಬಾಂಗ್' ಬೆಡಗಿ ಸೋನಾಕ್ಷಿ ಸಿನ್ಹಾ ಕೆಂಪು ಸೀರೆ ಲುಕ್; ಸಿಂಧೂರ-ಮಂಗಳಸೂತ್ರ ಗಮನ ಸೆಳೆದವು](https://vijaykarnataka.com/lifestyle/fashion/sonakshi-sinha-red-saree-mangalsutra-sindoor-look/articleshow/134600105.cms)
-- [ರೋಹಿತ್ ಶರ್ಮಾ ಸೆಂಚುರಿ- ಶುಭ್ಮನ್ ಗಿಲ್ ಡಬಲ್ ಸೆಂಚುರಿಗೆ ಬೆಚ್ಚಿಬಿದ್ದ ವಿಂಡೀಸ್: ಏಕದಿನ ಇತಿಹಾಸದಲ್ಲಿ ಭಾರತ 2ನೇ ದೊಡ್ಡ ಚೇಸ್!](https://vijaykarnataka.com/sports/cricket/news/rohit-sharma-century-shubman-gill-double-century-india-clinch-odi-series-against-west-indies/articleshow/134599198.cms)
+- [ಒಂದೇ ಪಂದ್ಯದಲ್ಲಿ 5 ಸೆಂಚುರಿ! 55 ವರ್ಷಗಳ ODI ಇತಿಹಾಸದಲ್ಲೇ ಇಂಥದ್ದೊಂದು ಅದ್ಭುತ ನಡೆದದ್ದು ಇದೇ ಮೊದಲ ಬಾರಿ!](https://vijaykarnataka.com/sports/cricket/news/5-centuries-in-a-single-match-such-incident-first-time-in-the-55-year-history-of-odi/articleshow/134600224.cms)
 - [BBK 13 ಕ್ಯಾಪ್ಟನ್ಸಿ ಓಟವೇ ರದ್ದು: ಲಿಖಿತ್‌ & ಮಂಜ ಮೊದಲು ಎಡವಿದ್ದು ಎಲ್ಲಿ?](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-4th-week-captaincy-race-cancels-likhith-and-manjas-task-maintenance-blunder/articleshow/134601384.cms)
 - [ಪ್ಯಾರಿಸ್ ಈವೆಂಟ್‌ನಲ್ಲಿ ಐಶ್ವರ್ಯಾ ರೈ ರಾಯಲ್ ಮತ್ತು ಡ್ರಾಮಾಟಿಕ್ ಲುಕ್‌, ಕೆಂಡಲ್ ಜೆನ್ನರ್ ಏಂಜೆಲ್ ಸ್ಟೈಲ್; ಫೋಟೋಗಳು](https://vijaykarnataka.com/lifestyle/fashion/aishwarya-rai-kendall-jenner-paris-event-fashion-looks/articleshow/134558464.cms)
 - [ಪೂಜೆಯಲ್ಲಿ ದೀಪ ಮತ್ತು ಧೂಪವನ್ನು ಯಾವ ಭಾಗದಲ್ಲಿ ಇಡಬೇಕು.?](https://vijaykarnataka.com/religion/pooja-vidhana/know-why-we-keep-puja-diya-in-right-side-and-dhoop-or-incense-sticks-in-left-side/articleshow/134594541.cms)
 - [ಕೋಪದಲ್ಲಿ ಮಾತನಾಡಬೇಡಿ; ಈ ಸಂದರ್ಭಗಳಲ್ಲಿ ಮೌನವಾಗಿರುವುದೇ ಒಳಿತು](https://vijaykarnataka.com/lifestyle/relationship/when-to-stay-silent-control-your-tongue/articleshow/134589855.cms)
-- [ರೇಷನ್‌ ಕಾರ್ಡ್‌ ಇ-ಕೆವೈಸಿಗೆ ಆಹಾರ ಇಲಾಖೆಯ ಹೊಸ ಮೊಬೈಲ್ ಆ್ಯಪ್‌ ರೆಡಿ; ಸಚಿವ ರಿಜ್ವಾನ್ ಅರ್ಷದ್ ಅಕ್ಟೋಬರ್ 1ಕ್ಕೆ ಚಾಲನೆ!](https://vijaykarnataka.com/news/karnataka/food-department-mobile-app-for-ration-card-e-kyc-is-ready-minister-rizwan-arshad-to-launch-it-on-october-1/articleshow/134598914.cms)
+- [ರೋಹಿತ್ ಶರ್ಮಾ ಸೆಂಚುರಿ- ಶುಭ್ಮನ್ ಗಿಲ್ ಡಬಲ್ ಸೆಂಚುರಿಗೆ ಬೆಚ್ಚಿಬಿದ್ದ ವಿಂಡೀಸ್: ಏಕದಿನ ಇತಿಹಾಸದಲ್ಲಿ ಭಾರತ 2ನೇ ದೊಡ್ಡ ಚೇಸ್!](https://vijaykarnataka.com/sports/cricket/news/rohit-sharma-century-shubman-gill-double-century-india-clinch-odi-series-against-west-indies/articleshow/134599198.cms)
 
 **The Hindu**
 - [RSS leader Sunil Ambekar flags demographic changes, calls for scrutiny of population policies](https://www.thehindu.com/news/national/rss-leader-sunil-ambekar-flags-demographic-changes-calls-for-scrutiny-of-population-policies/article71529130.ece)
@@ -126,13 +126,13 @@
 - [ಫುಟ್‌ಪಾತ್ ಬೈಕ್ ಸವಾರರಿಗೆ ಭಾರಿ ದಂಡದ ಶಾಕ್: ಹಾಫ್ ಹೆಲ್ಮೆಟ್ ನಿಷೇಧಕ್ಕೆ ಸರ್ಕಾರ ಚಿಂತನೆ](https://tv9kannada.com/karnataka/heavy-fines-for-bikers-using-footpaths-government-mulls-ban-on-half-helmets-1244842.html)
 
 **Prajavani**
+- [ಸುದ್ದಿ ಗುದ್ದು | ತಿಂಗಳೇಶ:  ಗುರುವಾರ, 01 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/suddi-guddu-tingalesha-cartoon-dated-on-01-october-2026-4299058)
+- [ದಿನ ಭವಿಷ್ಯ: ಉದ್ಯೋಗಸ್ಥರಿಗೆ ಬಡ್ತಿ ದೊರೆಯಲಿದೆ..](https://www.prajavani.net/astro-vastu/horoscope/daily-horoscope-dated-on-01-october-2026-4299105)
+- [ಚಿನಕುರುಳಿ: ಗುರುವಾರ, 01 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/prajavani-daily-cartoon-by-prakash-shetty-33-4298880)
+- [ಈ ದಿನದ ಪಂಚಾಂಗ: ಗುರುವಾರ, 01 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/astro-vastu/panchanga/daily-panchanga-dated-on-01-october-2026-4299093)
+- [ಗುಂಡಣ್ಣ ಕಾರ್ಟೂನು: ಗುರುವಾರ, 01 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/gundanna-cartoon-dated-on-01-october-2026-4299068)
+- [ಸುಭಾಷಿತ: ತರಾಸು](https://www.prajavani.net/op-ed/subhashita/prajavani-daily-subhashita-dated-on-01-october-2026-4298299)
 - [ಬಿಟ್‌ ಕಾಯಿನ್‌ ಹಗರಣ: ಶ್ರೀಕಿಗೆ ಜಾಮೀನು](https://www.prajavani.net/news/karnataka-news/hacker-sriki-bitcoin-scam-high-court-bail-4299379)
-- [ಯಾದಗಿರಿ | ಮೊಮ್ಮಗಳ ಮೇಲೆ ಅತ್ಯಾಚಾರಕ್ಕೆ ಯತ್ನ: ಅಜ್ಜನ ಬಂಧನ](https://www.prajavani.net/district/yadagiri/rape-case-arrest-yadgir-news-4298403)
-- [ಭೂ ಸುಧಾರಣಾ ಕಾಯ್ದೆ ತಿದ್ದುಪಡಿ ಹಿಂಪಡೆಯಿರಿ: ರಾಹುಲ್‌ಗೆ ಬಿ.ಆರ್‌.ಪಾಟೀಲ ಪತ್ರ](https://www.prajavani.net/district/kalaburagi/br-patil-letter-to-rahul-gandhi-on-karnataka-land-reforms-act-amendment-4298410)
-- [ಮಾಗಡಿ | ಮಳೆಯಿಂದ ಕೊಚ್ಚಿ ಹೋದ ರಸ್ತೆ: ಸಂಪರ್ಕ ಕಡಿತ](https://www.prajavani.net/district/bangaluru-rural/magadi-heavy-rain-road-damage-connectivity-cut-off-4299418)
-- [ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಕುಸ್ತಿ: ಸುನಿಲ್ ಕುಮಾರ್‌ಗೆ ಕಂಚು](https://www.prajavani.net/sports/other-sports/sunil-kumar-wins-bronze-in-asian-games-wrestling-4299262)
-- [ಏಷ್ಯನ್ ಕ್ರೀಡೆಗಳ ಶೂಟಿಂಗ್‌ ಸ್ಪರ್ಧೆ: ನೀರೂ– ಕೈನನ್‌ಗೆ ಒಲಿದ ಚಿನ್ನ](https://www.prajavani.net/sports/other-sports/neeru-dhanda-kynan-chenai-win-gold-in-asian-shooting-championships-4299224)
-- [ಬೆಳಗಾವಿ ಮಹಾನಗರ ಪಾಲಿಕೆ | ಮಹಾಜನ್‌ ವರದಿಯೇ ಅಂತಿಮ: ನಿರ್ಣಯ ಅಂಗೀಕಾರ](https://www.prajavani.net/district/belagavi/belagavi-city-corporation-approves-resolution-on-mahajan-report-finality-4298949)
 
 **eedina**
 - [ಕಲಬುರಗಿ | ಹಿಂದೂ ಮಹಾಗಣಪತಿ ಉತ್ಸವಕ್ಕೆ ರೌಡಿ ಶೀಟರ್ ಶ್ರೀಕಾಂತ್ ಶೆಟ್ಟಿ ಎಂಟ್ರಿಗೆ ಬ್ರೇಕ್; 4 ದಿನ ನಗರ ಪ್ರವೇಶ ನಿರ್ಬಂಧ](https://eedina.com/?p=768203)
@@ -148,10 +148,10 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - Indian (6.8)
+- Trump (4.2)
 - Congress (3.9)
 - Iraq (3.9)
 - Punjab (2.9)
-- Trump (2.9)
 - flydubai (2.7)
 - Visakhapatnam (2.6)
 - Bengaluru (2.6)
@@ -166,16 +166,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Nandigram By Election 2026 : জেল থেকে ছাড়া পেয়েই চাঞ্চল্যকর অভিযোগ নন্দীগ্রামের কংগ্রেস প্রার্থীর, '৩ তলা থেকে...'](https://bengali.abplive.com/district/nandigram-congress-candidate-milan-pradhan-released-from-jail-before-by-election-2026-makes-severe-allegations-1194681)
-- [मेरठ के चर्चित नीला ड्रम हत्याकांड केस में आया कोर्ट का फैसला, मुस्कान और साहिल दोषी करार दिए गए](https://www.indiatv.in/uttar-pradesh/up-meerut-saurabh-rajput-neela-drum-murder-case-accused-wife-muskan-and-her-lover-sahil-court-decision-2026-09-30-1246156)
-- [TMC News: মমতার হাত ছেড়ে NCPI-তে সুদীপ, কুণালের সঙ্গে সাংবাদিক বৈঠক স্ত্রী নয়নার, বললেন…](https://bengali.abplive.com/district/kunal-ghosh-nayna-bandyopadhyay-joint-press-conference-after-sudip-bandyopadhyay-left-tmc-and-joined-ncpi-1194679)
-- [Jay Pawar : आजितदादांनी त्यांना कायम साथ दिली, आम्हाला वाटलं नव्हतं ते असं करतील, जय पवारांकडून खंत व्यक्त](https://maharashtratimes.com/maharashtra/pune-news/jay-pawar-expressed-regret-over-baramati-malegaon-sugar-factory-current-president-pusushottam-jagtap-rebels-in-election/articleshow/134592413.cms)
-- [Howrah News : মিড-ডে মিলে ছাত্রদের পাতে মাছ, মিষ্টি! মুখ্যমন্ত্রীর উপহারে খুশির আমেজ হাওড়ার স্কুলে](https://bengali.news18.com/photogallery/west-bengal/students-get-fish-in-their-mid-day-meals-at-the-first-school-courtesy-of-the-chief-ministers-gift-smj-l18-local18-2912658.html)
-- [Smartphones as Retinal Cameras: New Opportunities for Global Eye Care - International Review Led by Bonn-Based Researchers Assesses the Potential and Limitations of Smartphone-Based Retinal Imaging](https://www.newswise.com/articles/smartphones-as-retinal-cameras-new-opportunities-for-global-eye-care-international-review-led-by-bonn-based-researchers-assesses-the-potential-and-limitations-of-smartphone-based-retinal-imaging)
-- [Asian Games 2026: సెమీఫైనల్లో శ్రీలంకతో టీమిండియా ఫైట్.. వర్షం పడితే గోల్డ్ మెడల్ మనదే](https://tv9telugu.com/sports/cricket-news/asian-games-2026-cricket-semifinal-india-face-sri-lanka-rain-rules-explained-1923347.html)
-- [A Second Plate Of Chhole-Bhature Lands UP Man In Soup. Wife Sees 'Proof Of Cheating'](https://www.ndtv.com/india-news/a-second-plate-of-chhole-bhature-lands-man-in-soup-wife-says-proof-of-cheating-in-hapur-garhmukteshwar-brijghat-12119941)
-- [‘ഫഹദ് ഇന്ത്യൻ സിനിമയുടെ അഭിമാനം, എന്റെ ഏറ്റവും പ്രിയപ്പെട്ട നടൻ’: പ്രശംസിച്ച് ജൂനിയർ എൻടിആർ](https://www.reporterlive.com/entertainment/entertainment-news/2026/09/30/junior-ntr-praises-fahadh-kartikeya-dont-trouble-the-trouble-event)
-- [নবম পর্বেই শেষ হচ্ছে 'কফি উইথ করণ'-এর পথ চলা, ঘোষণা করলেন করণ](https://www.aaroananda.com/story/entertainment-news/in-focus/koffee-with-karan-season-9-will-be-the-final-season/11022054)
+- [Samsung reveals ultrathin Galaxy Tab S12 series and nearly a full day of battery life](https://www.androidpolice.com/samsung-reveals-ultrathin-galaxy-tab-s12-series-and-nearly-a-full-day-of-battery-life/)
+- [മൂന്ന് പേര്‍ക്ക് സെഞ്ചുറി; ഇന്ത്യക്കെതിരെ വിന്‍ഡീസ് കൂറ്റന്‍ സ്‌കോറിലേക്ക്.](https://www.mathrubhumi.com/sports/cricket/india-vs-west-indies-2nd-odi-windies-massive-score-centuries-ubpkqhge)
+- [नितिन गडकरी का बड़ा प्‍लान, E20 पेट्रोल के बाद अब 100% इथेनॉल फ्लेक्स-फ्यूल इंजन पर फोकस](https://navbharattimes.indiatimes.com/business/business-news/nitin-gadkari-plan-said-100-per-cent-ethanol-flex-fuel-engines-being-developed/articleshow/134593290.cms)
+- [பட்டினப்பாக்கத்தில் புதிய தலைமைச் செயலகமா? மீனவர்கள் பெரும் ஆர்ப்பாட்டம்](https://viduthalai.in/208252/%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%A9%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%AA%E0%AF%81-3/)
+- [India vs Brazil: শনিবার ভারত-ব্রাজিল ম্যাচ, এই প্রথম যুবভারতী স্টেডিয়ামে সিট নম্বর অনুযায়ী বসার ব্যবস্থা](https://bengali.abplive.com/sports/football/india-vs-brazil-fifa-friendly-match-on-3-october-ind-vs-bra-security-tightened-at-salt-lake-yuvabharati-stadium-1194680)
+- [વર્લ્ડ કપ 2027 માટે બે વખતની ચેમ્પિયન વેસ્ટ ઈન્ડિઝ સીધી ક્વોલિફાય થવામાં નિષ્ફળ! જાણો ક્વોલિફિકેશનનું સંપૂર્ણ ગણિત](https://www.gujaratsamachar.com/news/sports/two-time-champions-west-indies-fail-to-qualify-directly-for-world-cup-2027-know-the-complete-math-of-qualification-84192122009)
+- [ਦਿੱਗਜ ਅਦਾਕਾਰ ਜੈਕੀ ਸ਼ਰਾਫ ਅਤੇ ਸ਼ਰਦ ਕੇਲਕਰ ਦੀ ਫਿਲਮ ‘Kaali Kheti’ ਅਕਤੂਬਰ ਦੀ ਇਸ ਤਰੀਕ ਨੂੰ ਹੋਵੇਗੀ ਰਿਲੀਜ਼](https://wishavwarta.in/kaali-kheti-jackie-shroff-sharad-kelkar-october/)
+- [India beat South Korea to set up final against China](https://www.olympics.com/en/news/asian-games-2026-hockey-women-semi-final-india-vs-south-korea-match-report)
+- [Patients want flexible and involved cardiac care, but cost hurdles remain](https://www.yahoo.com/news/science/articles/patients-want-flexible-involved-cardiac-114336986.html)
+- [पाणी, चारा पुरवठ्यासाठी दक्षता गरजेची – आढावा बैठकीत अधिकाऱ्यांना निर्देश](https://www.loksatta.com/nashik/nashik-water-scarcity-famine-prevention-cattle-fodder-supply-zilha-parishad-review-meeting-sap-05-6165282/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
