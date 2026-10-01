@@ -1,13 +1,13 @@
-# India Trending Report — 2026-10-01 22:36:21
+# India Trending Report — 2026-10-01 23:01:34
 
 ## Google Trends (India) — top trending searches
 1. [greece national football team vs netherlands national football team standings](https://trends.google.com/trending/rss?geo=IN)
 2. [rasmus højlund](https://trends.google.com/trending/rss?geo=IN)
 3. [jennifer lopez](https://trends.google.com/trending/rss?geo=IN)
 4. [joão cancelo](https://trends.google.com/trending/rss?geo=IN)
-5. [portugal national football team](https://trends.google.com/trending/rss?geo=IN)
+5. [anup bagchi hdfc bank ceo](https://trends.google.com/trending/rss?geo=IN)
 6. [samsung galaxy s26 ultra](https://trends.google.com/trending/rss?geo=IN)
-7. [anup bagchi hdfc bank ceo](https://trends.google.com/trending/rss?geo=IN)
+7. [portugal national football team](https://trends.google.com/trending/rss?geo=IN)
 8. [friday ott releases](https://trends.google.com/trending/rss?geo=IN)
 9. [man city vs real madrid](https://trends.google.com/trending/rss?geo=IN)
 10. [ireland vs austria](https://trends.google.com/trending/rss?geo=IN)
@@ -15,17 +15,18 @@
 ## Latest headlines by outlet
 **Times of India**
 - [Saudi hands Omani co-pilot in Flydubai flight incident to UAE](https://timesofindia.indiatimes.com/world/middle-east/flydubai-attack-saudi-hands-omani-co-pilot-to-uae-as-investigators-probe-bid-to-crash-plane/articleshow/134626863.cms)
+- [Supreme Court refuses to de-freeze TMC accounts, says let Calcutta high court decide](https://timesofindia.indiatimes.com/india/supreme-court-refuses-to-de-freeze-tmc-accounts-says-let-calcutta-high-court-decide/articleshow/134629443.cms)
 - [CBI names 3 senior ADAG execs, 7 companies in 2nd RHFL chargesheet](https://timesofindia.indiatimes.com/india/cbi-names-3-senior-adag-execs-7-companies-in-2nd-rhfl-chargesheet/articleshow/134629368.cms)
+- [PFRDA plans direct pension fund investment in big infrastructure projects](https://timesofindia.indiatimes.com/india/pfrda-eyes-plan-for-funds-to-invest-directly-in-infrastructure/articleshow/134629424.cms)
 - [Government backs SCO connectivity, but PM's Pakistan visit uncertain](https://timesofindia.indiatimes.com/india/government-backs-sco-connectivity-but-pms-pak-visit-uncertain/articleshow/134628081.cms)
-- [Supreme Court stays hanging of 2008 Gujarat serial blasts convict](https://timesofindia.indiatimes.com/india/supreme-court-stays-hanging-of-2008-gujarat-serial-blasts-convict/articleshow/134627463.cms)
-- [Supreme Court says seize vehicle, stop RC, PUC renewal if e-challans not paid](https://timesofindia.indiatimes.com/india/supreme-court-says-seize-vehicle-stop-rc-puc-renewal-if-e-challans-not-paid/articleshow/134627354.cms)
 - [Sundar Pichai on Google launching Gemini 4 Argon, its most powerful AI model yet](https://timesofindia.indiatimes.com/technology/tech-news/google-unveils-gemini-4-argon-its-most-powerful-ai-model-yet-ceo-sundar-pichai-says-were-going-to-make-it-available-as-soon-as-we-can-and-as-/articleshow/134608054.cms)
-- [IAF signs Rs 135cr deal with Indian startup for Mirage pilot simulators](https://timesofindia.indiatimes.com/defence/news/iaf-signs-rs-135cr-contract-with-indian-startup-for-mirage-simulators-to-train-its-fighter-pilots/articleshow/134626922.cms)
+- [Supreme Court stays hanging of 2008 Gujarat serial blasts convict](https://timesofindia.indiatimes.com/india/supreme-court-stays-hanging-of-2008-gujarat-serial-blasts-convict/articleshow/134627463.cms)
 - [Wife gets late husband's job, leaves in-laws; HC orders 25% salary for mother-in-law](https://timesofindia.indiatimes.com/business/india-business/wife-got-late-husbands-government-job-on-compassionate-grounds-promised-to-care-for-in-laws-but-remarried-and-left-court-orders-25-salary-for-mother-in-law-and-equal-terminal-benefits/articleshow/134622351.cms)
-- ['Right to access to justice equal for all': SC frowns at out-of-turn hearings](https://timesofindia.indiatimes.com/india/right-to-access-to-justice-equal-for-all-sc-frowns-at-out-of-turn-hearings/articleshow/134627142.cms)
-- ['Working on it': Trump hints flydubai co-pilot may have Iran links](https://timesofindia.indiatimes.com/world/middle-east/working-on-it-trump-hints-flydubai-co-pilot-may-have-iran-links/articleshow/134624784.cms)
+- [No uniform explanation for collegium decisions on compassionate transfers](https://timesofindia.indiatimes.com/india/no-uniform-explanation-for-collegium-decisions-on-compassionate-transfers/articleshow/134629457.cms)
+- [Supreme Court says seize vehicle, stop RC, PUC renewal if e-challans not paid](https://timesofindia.indiatimes.com/india/supreme-court-says-seize-vehicle-stop-rc-puc-renewal-if-e-challans-not-paid/articleshow/134627354.cms)
 
 **NDTV**
+- [Major Inter-State Narcotics Module Busted in Srinagar](https://www.ndtv.com/india-news/major-inter-state-narcotics-module-busted-in-srinagar-12127981#publisher=newsstand)
 - [Saudi Coalition Says Intercepted Houthi Missiles, Drones](https://www.ndtv.com/world-news/saudi-coalition-says-intercepted-houthi-missiles-drones-12127925#publisher=newsstand)
 - [Ram Temple Staff To Undergo 100% Police Verification, Character Checks](https://www.ndtv.com/india-news/ram-temple-staff-to-undergo-100-police-verification-character-checks-12127892#publisher=newsstand)
 - [Trump Vows To Hit Iran "Very Hard" If Tehran Behind flydubai Incident](https://www.ndtv.com/world-news/donald-trump-vows-to-hit-iran-very-hard-if-tehran-behind-flydubai-incident-12127804#publisher=newsstand)
@@ -35,7 +36,6 @@
 - [Delhi Court Upholds Senior Citizens Rule To Evict Children From Property](https://www.ndtv.com/india-news/delhi-court-upholds-senior-citizens-rule-to-evict-children-from-property-12127672#publisher=newsstand)
 - [Bhagwant Mann's Japan Hockey Trip Denied Clearance By Centre](https://www.ndtv.com/india-news/bhagwant-manns-japan-hockey-trip-blocked-centre-denies-political-clearance-12127400#publisher=newsstand)
 - [Adhir Chowdhury's 'Congress Offer' To Mamata Banerjee With 'Baggage' Rider](https://www.ndtv.com/india-news/adhir-chowdhurys-congress-offer-to-mamata-banerjee-with-baggage-rider-12126656#publisher=newsstand)
-- [Co-Pilot Who Tried To Crash flydubai Plane Is Omani: Israel's Foreign Minister To NDTV](https://www.ndtv.com/world-news/co-pilot-who-stabbed-captain-smit-machchhar-tried-to-crash-flydubai-plane-is-omani-national-confirms-israeli-foreign-minister-gideon-saar-12125819#publisher=newsstand)
 
 **Hindustan Times**
 - [Delhi traffic advisory: Special arrangements in place near Rajghat, Vijay Ghat on October 2](https://www.hindustantimes.com/india-news/delhi-traffic-advisory-special-arrangements-in-place-near-rajghat-vijay-ghat-on-october-2-101790866141057.html)
@@ -135,7 +135,6 @@
 - [ಎಸ್‌ಐಆರ್‌: ಡಾ.ರವಿ ಸೇರಿ ಮೂವರ ವಿರುದ್ಧ ಪ್ರಕರಣ](https://www.prajavani.net/district/belagavi/fir-against-bjp-leader-dr-ravi-patil-voter-list-case-belagavi-4301407)
 - [ಮತದಾರರ ದತ್ತಾಂಶ ದುರ್ಬಳಕೆ: ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ. ಶಿವಕುಮಾರ್‌ ಆರೋಪ](https://www.prajavani.net/news/karnataka-news/dk-shivakumar-alleges-voter-data-misuse-in-karnataka-4301661)
 - [ಬೆಂಗಳೂರು: ವೃದ್ಧೆಗೆ ನಿದ್ದೆ ಮಾತ್ರೆ ಬೆರೆಸಿದ ಟೀ ಕುಡಿಸಿ ಚಿನ್ನಾಭರಣ ಕಳವು](https://www.prajavani.net/district/bengaluru-city/bangalore-satellite-bus-station-gold-robbery-drugging-case-4301743)
-- [ಸಾಲು ರಜೆ: ಬೆಂಗಳೂರು ನಗರದ ಹಲವೆಡೆ  ಸಂಚಾರ ದಟ್ಟಣೆ](https://www.prajavani.net/district/bengaluru-city/bangalore-traffic-jam-gandhi-jayanti-long-weekend-ksrtc-special-buses-4301780)
 
 **eedina**
 - [ಮುಂಡಗೋಡ | ಆರೋಗ್ಯ ವ್ಯವಸ್ಥೆ ಸುಧಾರಣೆಗೆ ಸಚಿವರಿಗೆ ಮನವಿ](https://eedina.com/?p=768629)
@@ -150,35 +149,35 @@
 - [ಭಾರತ–ಜಪಾನ್ ತಂತ್ರಜ್ಞಾನ ಸಹಕಾರದಿಂದ ಹೊಸ ಉದ್ಯಮ ಅವಕಾಶ: ನವತಾ ಹಿರೋಷಿ](https://eedina.com/?p=768588)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (4.2)
-- Iran (4.2)
 - Congress (4.2)
+- Supreme Court (3.0)
 - Asian Games (3.0)
-- Omani (2.9)
+- Trump (2.9)
+- Iran (2.9)
 - Delhi (2.9)
-- Minister (2.9)
+- Omani (2.6)
 - Flydubai (2.6)
 - Government (2.6)
 - Gujarat (2.6)
-- Indian (2.6)
+- Srinagar (2.6)
 - October (2.6)
 - Chhattisgarh (2.6)
+- Minister (2.6)
 - Tennessee (2.6)
-- What (2.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Jim Carrey secretly gets married for the third time, the 64-year old actor ties the knot with his longtime girlfriend Min Ah in a private ceremony in LA](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jim-carrey-secretly-gets-married-for-the-third-time-the-64-year-old-actor-ties-the-knot-with-his-longtime-girlfriend-min-ah-in-a-private-ceremony-in-la/articleshow/134615750.cms)
-- [Nushrratt Bharuccha Accident: ভয়ঙ্কর দুর্ঘটনায় গুরুতর আহত নুসরত ভারুচা, ভর্তি হাসপাতালে, এখন কেমন আছেন?](https://bengali.news18.com/news/entertainment/bollywood-actress-nushrratt-bharuccha-meets-with-accident-in-bali-actress-undergoing-treatment-hospital-after-sustaining-injuries-rds-2913920.html)
-- [Astronomers Spot Massive Exoplanet Orbiting In Habitable Zone Of Extremely Hot Star](https://www.ndtv.com/science/astronomers-spot-massive-exoplanet-orbiting-in-habitable-zone-of-extremely-hot-star-12125055)
-- [மின்சார கார்களை அதிகமாக விற்றால் கார்ப்பரேட்டுகளுக்கு ஜாக்பாட்! CAFE-III விதிகளால் வரப்போகும் மாற்றம் என்ன?](https://tamil.newsbytesapp.com/news/auto/india-cafe-iii-fuel-efficiency-norms-3x-credit-for-electric-vehicles-explained/story)
-- [संभल हिंसा: मुल्ला अफ़रोज़ मामले में सुप्रीम कोर्ट की योगी सरकार पर कड़ी टिप्पणी और 10 लाख रुपए जुर्माना](https://www.bbc.com/hindi/articles/c370l2vvp2ywo)
-- [Mahendragiri Varahi OTT : ఓటీటీలోకి సడన్‌గా వచ్చేసిన మహేంద్రగిరి వారాహి - ఎన్ని భాషల్లో స్ట్రీమింగ్ అవుతుందంటే?](https://telugu.abplive.com/entertainment/ott-webseries/mahendragiri-varahi-ott-streaming-sumanth-aishwarya-rajesh-mythological-thriller-available-to-watch-on-amazon-prime-video-260422)
-- [SpaceX to Launch NASA's Crew-13 Mission to ISS on Dragon Spacecraft](https://www.marketscreener.com/news/spacex-to-launch-nasa-s-crew-13-mission-to-iss-on-dragon-spacecraft-ce785ad3de8af624)
-- [सीईसी ज्ञानेश कुमार के इस्तीफे की मांग के बीच 20 साल पुराना केस खोलने की तैयारी, मलेशिया से जुड़े हैं घटना के तार](https://navbharattimes.indiatimes.com/state/kerala/thiruvananthapuram/kerala-govt-want-to-re-examine-malaysian-lee-siew-beein-suicide-case-related-with-cec-gyanesh-kumar-tenure-as-pwd-secretary/articleshow/134614870.cms)
-- [Stock Market Crash: अचानक मार्केट में क्‍यों आया भूचाल? झटके में 10 लाख करोड़ स्‍वाहा](https://www.aajtak.in/business/news/story/why-indian-stock-market-sensex-nifty-crash-investors-big-loss-tutd-dskc-2658390-2026-10-01)
-- [Breaking News Asian Games 2026: રોમાંચક મુકાબલામાં છેલ્લી મિનિટે ભારતે પાકિસ્તાનને પછાડ્યું, ગોલ્ડ મેડલ મેચમાં કરી એન્ટ્રી](https://tv9gujarati.com/sports/other-sports/breaking-news-asian-games-2026-hockey-india-defeated-pakistan-secured-spot-in-final-1525276.html)
+- [IND vs WI 3rd ODI Playing-11 : रोहित शर्मा OUT, यशस्वी जैस्वाल IN... वेस्ट इंडिजविरुद्ध तिसऱ्या वनडे सामन्यात अशी असेल टीम इंडियाची चक्रावून टाकणारी Playing XI](https://marathi.abplive.com/sports/cricket/ind-vs-wi-3rd-odi-playing-11-rohit-sharma-out-yashasvi-jaiswal-in-marathi-news-1440889)
+- [सोना देकर भारत की 'यवनप्रिया' को ले जाता था रोम, इसी से निकलता था रोमन साम्राज्य का आधा खर्चा](https://navbharattimes.indiatimes.com/india/roman-empire-was-paid-gold-bullion-for-indian-pepper-maritime-trade-with-india/articleshow/134616076.cms)
+- [Gold Investment: গয়না ছাড়াও সোনা বিনিয়োগ করবেন কীভাবে? জেনে নিন ৭ দুর্দান্ত উপায়](https://bangla.asianetnews.com/business/best-gold-investment-options-beyond-jewellery-in-india-anbak/photoshow-xy8q1uv)
+- [കോടിയേരി ബാലകൃഷ്ണന്റെ ചിത്രം വലിച്ച് കീറി എസ്എഫ്ഐ പ്രവർത്തകൻ](https://www.manoramaonline.com/news/latest-news/2026/10/01/sfi-activist-tears-kodiyeri-balakrishnan-flex-kollam-news.html)
+- [ఒకే చోట ‘డబుల్’ ధమాకా వీరులు.. గిల్ - రోహిత్ స్పెషల్ చిట్‌చాట్‌](https://www.eenadu.net/telugu-news/sports/rohit-hails-shubman-gill-record-double-century/0401/126177727)
+- [രണ്ട് തവണ മാരക വിഷം നൽകിയെങ്കിലും ഹൃദയസ്പന്ദനം നിലച്ചില്ല, യുഎസിൽ വധശിക്ഷ പരാജയപ്പെട്ടു, 50കാരി ആശുപത്രിയിൽ](https://www.asianetnews.com/international-news/us-woman-in-hospital-after-lethal-injection-execution-failed-articleshow-gvsh9yx)
+- [Asian Games 2026 Live:ग्रीको रोमन पहलवान नितेश सिवाच ने जीता रजत, फाइनल में मिली हार](https://www.amarujala.com/live/sports/asian-games-live-updates-india-in-action-on-october-1-archery-wrestling-volleyball-shooting-cricket-hockey-2026-10-01)
+- [रोहित शर्मा नंबर 1, शुभमन गिल ने इशान किशन-वीरेंद्र सहवाग को छोड़ा पीछे; ODI में सबसे बड़ी पारी खेलने वाले टॉप 10 बल्लेबाज](https://www.jansatta.com/khel/rohit-sharma-number-1-shubman-gill-ahead-ishan-kishan-virender-sehwag-reaches-third-position-highest-odi-inning-individual-scores-top-10-batters/4727416/)
+- ['दृश्यम 3' की धुआंधार एडवांस बुकिंग, 50 करोड़ की ओपनिंग तय! टूटेंग सारे रिकॉर्ड](https://www.aajtak.in/entertainment/bollywood-news/story/drishyam-3-advance-booking-on-fire-with-day-1-rupees-50-crore-opening-worldwide-tmovg-dskc-2658384-2026-10-01)
+- [আরজি কর-কাণ্ডে পরিবারের পৃথক FIR-এর তদন্তভারও সিবিআইকে দিল হাইকোর্ট](https://eisamay.com/west-bengal-news/kolkata-news/rg-kar-case-cbi-to-investigate-family-separate-fir-calcutta-high-court/200549819.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
