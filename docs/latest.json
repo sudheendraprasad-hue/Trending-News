@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-10-01 20:39:11",
+  "generated_at": "2026-10-01 21:02:00",
   "google_trends": [
-    {
-      "title": "rasmus h\u00f8jlund",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
     {
       "title": "gon\u00e7alo ramos",
       "traffic": null,
@@ -48,6 +43,11 @@
     },
     {
       "title": "ireland vs austria",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "greece vs netherlands",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     }
@@ -265,6 +265,10 @@
     ],
     "Livemint": [
       {
+        "title": "Trump\u2019s next move on Iran? Pentagon weighs carrier, 10,000-troop and Marines deployment to Gulf, report says",
+        "link": "https://www.livemint.com/news/us-news/trumps-next-move-on-iran-pentagon-weighs-carrier-10-000-troop-and-marines-deployment-to-gulf-report-says-11790886092901.html"
+      },
+      {
         "title": "India-US trade talks: Piyush Goyal pushes for early interim deal; US trade chief says sticking points remain",
         "link": "https://www.livemint.com/news/india/indiaus-trade-deal-goyal-seeks-early-conclusion-of-interim-deal-in-talks-with-us-trade-chief-11790883712986.html"
       },
@@ -299,10 +303,6 @@
       {
         "title": "G20 trade ministers reach consensus on food weaponization as Goyal flags food security concerns",
         "link": "https://www.livemint.com/news/india/g20-trade-ministers-reach-consensus-on-food-weaponization-as-goyal-flags-food-security-concerns-11790870996450.html"
-      },
-      {
-        "title": "Breast Cancer Awareness Month: Doctors share 5 health tips for working women to reduce risk",
-        "link": "https://www.livemint.com/news/trends/breast-cancer-awareness-month-doctors-share-5-health-tips-for-working-women-to-reduce-risk-11790868210231.html"
       }
     ],
     "Moneycontrol": [],
@@ -528,8 +528,16 @@
       "score": 4.2
     },
     {
+      "term": "Iran",
+      "score": 4.2
+    },
+    {
       "term": "October",
       "score": 3.9
+    },
+    {
+      "term": "Trump",
+      "score": 3.2
     },
     {
       "term": "Asian Games",
@@ -545,10 +553,6 @@
     },
     {
       "term": "Minister",
-      "score": 2.9
-    },
-    {
-      "term": "Iran",
       "score": 2.9
     },
     {
@@ -574,53 +578,49 @@
     {
       "term": "flydubai",
       "score": 2.1
-    },
-    {
-      "term": "Trump",
-      "score": 1.9
     }
   ],
   "newsapi": [],
   "gnews": [
     {
+      "title": "\u0d2d\u0d7c\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d3f\u0d28\u0d4d \u0d28\u0d3f\u0d30\u0d35\u0d27\u0d3f \u0d38\u0d4d\u0d24\u0d4d\u0d30\u0d40\u0d15\u0d33\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d2c\u0d28\u0d4d\u0d27\u0d02; \u0d2d\u0d3e\u0d30\u0d4d\u0d2f\u0d2f\u0d41\u0d1f\u0d46 \u0d15\u0d4d\u0d35\u0d1f\u0d4d\u0d1f\u0d47\u0d37\u0d7b \u0d2c\u0d32\u0d3e\u0d24\u0d4d\u0d38\u0d02\u0d17\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d41 \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d3f\u0d7d",
+      "link": "https://malayalam.news18.com/news/crime/thrissur-quotation-gang-gang-rape-case-woman-kidnapped-from-lodge-wife-and-accomplices-arrested-rv-ws-l-790674.html"
+    },
+    {
+      "title": "\u0905\u092c TV \u092a\u0930 \u0926\u0947\u0916\u200d\u093f\u090f \u0928\u0940\u092e \u0915\u0930\u094b\u0932\u0940 \u092c\u093e\u092c\u093e \u0915\u0940 \u0915\u0939\u093e\u0928\u0940, '\u0939\u0928\u0941\u092e\u093e\u0928 \u0905\u0902\u0936' \u0915\u0940 \u092c\u094d\u200d\u0932\u0949\u0915\u092c\u0938\u094d\u200d\u091f\u0930 \u0938\u092b\u0932\u0924\u093e \u0915\u0947 \u092c\u093e\u0926 \u0928\u090f \u0927\u093e\u0930\u093e\u0935\u093e\u0939\u093f\u0915 \u0915\u093e Promo \u0930\u093f\u0932\u0940\u091c",
+      "link": "https://navbharattimes.indiatimes.com/tv/news/story-of-neem-karoli-baba-now-on-tv-and-ott-as-new-serial-promo-released-following-blockbuster-success-of-hanuman-ansh/articleshow/134613517.cms"
+    },
+    {
+      "title": "\"\u0b8e\u0ba9\u0bcd \u0b87\u0ba9\u0bbf\u0baf \u0baa\u0bca\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bbe\u0bb5\u0bc7\" \u0baa\u0bbe\u0b9f\u0bb2\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1: \u0b87\u0bb3\u0bc8\u0baf\u0bb0\u0bbe\u0b9c\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc7\u0bb2\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0ba9\u0bc1\u0bb5\u0bc8 \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1 \u0b89\u0b9a\u0bcd\u0b9a\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd!",
+      "link": "https://www.dinakaran.com/news/supreme-court-rejected-ilayarajas-appeal/"
+    },
+    {
+      "title": "Bajrang Sonawane : '\u0918\u0941\u0932\u0947 \u092a\u094d\u0930\u0915\u0930\u0923\u093e\u0924 \u092e\u093e\u091d\u094d\u092f\u093e \u092e\u0941\u0932\u093e\u0932\u093e \u0905\u0921\u0915\u0935\u0923\u094d\u092f\u093e\u0938\u093e\u0920\u0940 \u0915\u0930\u093e\u0921\u091a\u093e \u092b\u094b\u0928', \u0916\u093e\u0938\u0926\u093e\u0930 \u092c\u091c\u0930\u0902\u0917 \u0938\u094b\u0928\u0935\u0923\u0947\u0902\u091a\u093e \u0926\u093e\u0935\u093e!",
+      "link": "https://sarkarnama.esakal.com/maharashtra/marathwada/bajrang-sonawane-walmik-karad-vilas-ghule-case-alleged-jail-call-recording-beed-ncpsp-mp-political-controversy-crime-news-as11-jp75"
+    },
+    {
+      "title": "\u092e\u0924\u0926\u093e\u0930\u093e\u091a\u0902 \u0928\u093e\u0935 '\u092c\u0949\u092e\u094d\u092c\u0938\u094d\u092b\u094b\u091f', \u0935\u0921\u093f\u0932\u093e\u0902\u091a\u0902 \u0928\u093e\u0935 '\u092c\u0949\u092e\u094d\u092c'! \u0936\u093f\u0915\u094d\u0937\u0915 \u092e\u0924\u0926\u093e\u0930\u0938\u0902\u0918\u093e\u0938\u093e\u0920\u0940 \u092c\u094b\u0917\u0938 \u092e\u0924\u0926\u093e\u0930? \u092f\u093e\u0926\u0940\u0924\u0940\u0932 \u0928\u093e\u0935\u0902 \u092a\u093e\u0939\u0942\u0928 \u091a\u0915\u094d\u0930\u093e\u0935\u0942\u0928 \u091c\u093e\u0932",
+      "link": "https://sarkarnama.esakal.com/pune/legislative-council-election-bogus-voters-for-teachers-constituency-voter-name-bomb-blast-father-name-bomb-voter-list-viral-aau85"
+    },
+    {
+      "title": "\u0a8f\u0a95 \u0aad\u0abe\u0ab0\u0aa4\u0ac0\u0aaf\u0a8f 9/11 \u0a9c\u0ac7\u0ab5\u0ac0 \u0aa4\u0aac\u0abe\u0ab9\u0ac0 \u0aa5\u0aa4\u0abe\u0a82 \u0a85\u0a9f\u0a95\u0abe\u0ab5\u0ac0! UPSC \u0ab6\u0aa4\u0abe\u0aac\u0acd\u0aa6\u0ac0 \u0ab8\u0aae\u0abe\u0ab0\u0acb\u0ab9\u0aae\u0abe\u0a82 PM \u0aae\u0acb\u0aa6\u0ac0\u0a8f \u0ab8\u0acd\u0aae\u0abf\u0aa4 \u0aae\u0a9a\u0acd\u0a9b\u0ab0\u0aa8\u0ac7 \u0aac\u0abf\u0ab0\u0aa6\u0abe\u0ab5\u0acd\u0aaf\u0abe",
+      "link": "https://www.gujaratsamachar.com/news/national/an-indian-prevented-a-911-like-disaster-pm-modi-applauds-Smit-machhar-at-upsc-centenary-celebrations-29043504157"
+    },
+    {
+      "title": "Punjab CM \u0a2d\u0a17\u0a35\u0a70\u0a24 \u0a2e\u0a3e\u0a28 \u0a28\u0a42\u0a70 \u0a1c\u0a3e\u0a2a\u0a3e\u0a28 \u0a1c\u0a3e\u0a23 \u0a26\u0a40 \u0a28\u0a39\u0a40\u0a02 \u0a2e\u0a3f\u0a32\u0a40 \u0a07\u0a1c\u0a3e\u0a1c\u0a3c\u0a24",
+      "link": "https://wishavwarta.in/punjab-cm-bhagwant-mann-denied-permission-to-visit-japan/"
+    },
+    {
+      "title": "\u0c07\u0c32\u0c4d\u0c32\u0c41 \u0c09\u0c02\u0c26\u0c3f.. \u0c1a\u0c47\u0c24\u0c3f\u0c32\u0c4b \u0c21\u0c2c\u0c4d\u0c2c\u0c41 \u0c32\u0c47\u0c26\u0c41.. \u0c05\u0c2e\u0c46\u0c30\u0c3f\u0c15\u0c3e\u0c32\u0c4b \u0c35\u0c43\u0c26\u0c4d\u0c27\u0c41\u0c32\u0c28\u0c41 \u0c35\u0c47\u0c27\u0c3f\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28 \u0c2a\u0c47\u0c26\u0c30\u0c3f\u0c15\u0c02!",
+      "link": "https://telugu.greatandhra.com/politics/national/house-rich-cash-poor.html"
+    },
+    {
+      "title": "NASA\u2019s new space material could let astronauts make tools from Moon dust and waste",
+      "link": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/nasa-s-new-space-material-could-let-astronauts-make-tools-from-moon-dust-and-waste-14042768.html"
+    },
+    {
       "title": "Aishwarya Rai \u0a8f \u0aaa\u0ac7\u0ab0\u0abf\u0ab8 \u0aab\u0ac7\u0ab6\u0aa8 \u0ab5\u0ac0\u0a95\u0aa8\u0abe BTS \u0aab\u0acb\u0a9f\u0abe \u0a95\u0ab0\u0acd\u0aaf\u0abe \u0ab6\u0ac7\u0ab0, \u0ab8\u0ac1\u0a82\u0aa6\u0ab0\u0aa4\u0abe \u0a9c\u0acb\u0a88 \u0a9a\u0abe\u0ab9\u0a95\u0acb \u0aa5\u0aaf\u0abe \u0aa6\u0abf\u0ab5\u0abe\u0aa8\u0abe, \u0a9c\u0ac1\u0a93",
       "link": "https://tv9gujarati.com/photo-gallery/aishwarya-rais-paris-fashion-week-bts-photos-glamorous-looks-1525201.html"
-    },
-    {
-      "title": "\u090f\u0936\u093f\u092f\u0928 \u0917\u0947\u092e\u094d\u0938 2026 \u0932\u093e\u0907\u0935 \u0905\u092a\u0921\u0947\u091f\u094d\u0938: \u0930\u094b\u092e\u093e\u0902\u091a\u0915 \u0939\u0941\u0906 \u092e\u0948\u091a, \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0928\u0947 \u0909\u0924\u093e\u0930\u0940 \u092d\u093e\u0930\u0924 \u0915\u0940 \u0932\u0940\u0921, \u0938\u094d\u0915\u094b\u0930 3",
-      "link": "https://hindi.news18.com/news/sports/others-asian-games-2026-live-updates-day-13-schedule-results-medal-tally-today-october-1-archery-chikitha-tinparthi-vollyball-india-vs-pakistan-cricket-india-vs-sri-lanka-mens-semi-final-hockey-ind-vs-pak-se-10876289.html"
-    },
-    {
-      "title": "Gold-Silver Rate On MCX : MCX \u0aaa\u0ab0 \u0ab8\u0acb\u0aa8\u0abe-\u0a9a\u0abe\u0a82\u0aa6\u0ac0\u0aae\u0abe\u0a82 \u0a9c\u0acb\u0ab0\u0aa6\u0abe\u0ab0 \u0a89\u0a9b\u0abe\u0ab3\u0acb! Gold \u20b91,723 \u0a85\u0aa8\u0ac7 Silver \u20b92,213 \u0aae\u0acb\u0a82\u0a98\u0ac0",
-      "link": "https://tv9gujarati.com/photo-gallery/gold-silver-rate-on-mcx-1-october-2026sharp-surge-in-gold-and-silver-prices-on-mcx-1525123.html"
-    },
-    {
-      "title": "Pilot Smit Machchhar Likely Attacked With Axe On flydubai Flight. Why It Was On Plane",
-      "link": "https://www.ndtv.com/world-news/axe-may-have-been-used-in-flydubai-attack-why-it-was-on-plane-12124410"
-    },
-    {
-      "title": "'Just Sharing Our Concern' : Supreme Court Seeks State's Response On Mahua Moitra's Plea Alleging MPLADS Obstruction",
-      "link": "https://www.livelaw.in/top-stories/just-sharing-our-concern-supreme-court-seeks-states-response-on-mahua-moitras-plea-alleging-mplads-obstruction-552644"
-    },
-    {
-      "title": "Asian Games 2026: \u0c07\u0c37\u0c3e\u0c28\u0c4d \u0c15\u0c3f\u0c37\u0c28\u0c4d \u0c38\u0c41\u0c28\u0c3e\u0c2e\u0c40 \u0c2c\u0c4d\u0c2f\u0c3e\u0c1f\u0c3f\u0c02\u0c17\u0c4d, \u0c2c\u0c41\u0c2e\u0c4d\u0c30\u0c3e \u0c2e\u0c4d\u0c2f\u0c3e\u0c1c\u0c3f\u0c15\u0c4d.. \u0c17\u0c4b\u0c32\u0c4d\u0c21\u0c4d \u0c2e\u0c46\u0c21\u0c32\u0c4d \u0c2e\u0c4d\u0c2f\u0c3e\u0c1a\u0c4d\u200c\u0c32\u0c4b \u0c2d\u0c3e\u0c30\u0c24\u0c4d",
-      "link": "https://telugu.asianetnews.com/gallery/cricket-sports/asian-games-2026-india-beat-sri-lanka-by-124-runs-to-enter-final-vs-pakistan-8wsybtz"
-    },
-    {
-      "title": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0b9a\u0bb0\u0bbf\u0bb5\u0ba4\u0bc1 \u0bae\u0bcb\u0b9a\u0bae\u0bbe\u0ba9 \u0b85\u0bb1\u0bbf\u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bbe? 7 \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf",
-      "link": "https://www.bbc.com/tamil/articles/cjy5zx5w7y7qo"
-    },
-    {
-      "title": "Embattled Tata patriarch Noel Tata now faces revolt at charities he helms",
-      "link": "https://www.moneycontrol.com/news/business/companies/embattled-tata-patriarch-noel-tata-now-faces-revolt-at-charities-he-helms-14042742.html"
-    },
-    {
-      "title": "\u092e\u094b\u0920\u0940 \u092c\u093e\u0924\u092e\u0940, \u0938\u0930\u0915\u093e\u0930\u091a\u093e \u092e\u094b\u0920\u093e \u0928\u093f\u0930\u094d\u0923\u092f, \u0926\u0941\u0937\u094d\u0915\u093e\u0933\u0917\u094d\u0930\u0938\u094d\u0924 \u0924\u093e\u0932\u0941\u0915\u094d\u092f\u093e\u0924\u0940\u0932 \u0936\u0947\u0924\u0915\u0931\u094d\u092f\u093e\u0902\u0928\u093e \u0926\u093f\u0932\u093e\u0938\u093e, \u0925\u0947\u091f \u0936\u0947\u0924\u0940 \u0915\u0930\u094d\u091c..",
-      "link": "https://www.tv9marathi.com/maharashtra/state-government-has-decided-to-stay-the-recovery-of-loans-from-farmers-in-drought-affected-talukas-1768957.html"
-    },
-    {
-      "title": "US Woman Who Murdered Pregnant Daughter To Steal Baby Had Sexual Relationship With Her Fiance: Testimony",
-      "link": "https://www.ndtv.com/world-news/us-woman-who-murdered-pregnant-daughter-to-steal-baby-had-sexual-relationship-with-her-fiance-testimony-reveals-12124352"
     }
   ],
   "twitter": null

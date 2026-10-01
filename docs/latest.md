@@ -1,16 +1,16 @@
-# India Trending Report — 2026-10-01 20:39:11
+# India Trending Report — 2026-10-01 21:02:00
 
 ## Google Trends (India) — top trending searches
-1. [rasmus højlund](https://trends.google.com/trending/rss?geo=IN)
-2. [gonçalo ramos](https://trends.google.com/trending/rss?geo=IN)
-3. [da hike central government employees](https://trends.google.com/trending/rss?geo=IN)
-4. [jennifer lopez](https://trends.google.com/trending/rss?geo=IN)
-5. [portugal national football team](https://trends.google.com/trending/rss?geo=IN)
-6. [anup bagchi hdfc bank ceo](https://trends.google.com/trending/rss?geo=IN)
-7. [samsung galaxy s26 ultra](https://trends.google.com/trending/rss?geo=IN)
-8. [friday ott releases](https://trends.google.com/trending/rss?geo=IN)
-9. [man city vs real madrid](https://trends.google.com/trending/rss?geo=IN)
-10. [ireland vs austria](https://trends.google.com/trending/rss?geo=IN)
+1. [gonçalo ramos](https://trends.google.com/trending/rss?geo=IN)
+2. [da hike central government employees](https://trends.google.com/trending/rss?geo=IN)
+3. [jennifer lopez](https://trends.google.com/trending/rss?geo=IN)
+4. [portugal national football team](https://trends.google.com/trending/rss?geo=IN)
+5. [anup bagchi hdfc bank ceo](https://trends.google.com/trending/rss?geo=IN)
+6. [samsung galaxy s26 ultra](https://trends.google.com/trending/rss?geo=IN)
+7. [friday ott releases](https://trends.google.com/trending/rss?geo=IN)
+8. [man city vs real madrid](https://trends.google.com/trending/rss?geo=IN)
+9. [ireland vs austria](https://trends.google.com/trending/rss?geo=IN)
+10. [greece vs netherlands](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -74,6 +74,7 @@
 - [10 government hospital mortuaries across T.N. to be strengthened at a cost of ₹8 crore](https://www.thehindu.com/news/national/tamil-nadu/10-government-hospital-mortuaries-across-tamil-nadu-to-be-strengthened-at-a-cost-of-8-crore/article71532759.ece)
 
 **Livemint**
+- [Trump’s next move on Iran? Pentagon weighs carrier, 10,000-troop and Marines deployment to Gulf, report says](https://www.livemint.com/news/us-news/trumps-next-move-on-iran-pentagon-weighs-carrier-10-000-troop-and-marines-deployment-to-gulf-report-says-11790886092901.html)
 - [India-US trade talks: Piyush Goyal pushes for early interim deal; US trade chief says sticking points remain](https://www.livemint.com/news/india/indiaus-trade-deal-goyal-seeks-early-conclusion-of-interim-deal-in-talks-with-us-trade-chief-11790883712986.html)
 - [Tennessee fails to execute Christa Pike after 2 lethal injections: What happens next as per Tennessee law?](https://www.livemint.com/news/us-news/tennessee-fails-to-execute-christa-pike-after-2-lethal-injections-what-happens-next-as-per-tennessee-law-11790875559741.html)
 - [Flydubai incident: Omani pilot suspected of stabbing Captain Smit Machchhar; what are Oman-Israel ties?](https://www.livemint.com/news/world/flydubai-incident-omani-pilot-suspected-of-stabbing-captain-smit-machchhar-what-are-oman-israel-ties-11790876667722.html)
@@ -83,7 +84,6 @@
 - [CJP's Oct 2 Mumbai protest: What are its demands besides Gyanesh Kumar's resignation?](https://www.livemint.com/news/india/cjps-oct-2-mumbai-protest-what-are-its-demands-besides-gyanesh-kumars-resignation-11790854631498.html)
 - [Taylor Swift’s former Beverly Hills home, where she wrote ‘1989’, is up for sale at nearly $8 million: See what’s inside](https://www.livemint.com/news/us-news/taylor-swift-s-former-beverly-hills-home-where-she-wrote-1989-is-up-for-sale-at-nearly-8-million-see-what-s-inside-11790874580761.html)
 - [G20 trade ministers reach consensus on food weaponization as Goyal flags food security concerns](https://www.livemint.com/news/india/g20-trade-ministers-reach-consensus-on-food-weaponization-as-goyal-flags-food-security-concerns-11790870996450.html)
-- [Breast Cancer Awareness Month: Doctors share 5 health tips for working women to reduce risk](https://www.livemint.com/news/trends/breast-cancer-awareness-month-doctors-share-5-health-tips-for-working-women-to-reduce-risk-11790868210231.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -152,33 +152,33 @@
 ## Cross-source trending keywords (derived from headlines above)
 - Congress (4.2)
 - Indian (4.2)
+- Iran (4.2)
 - October (3.9)
+- Trump (3.2)
 - Asian Games (3.0)
 - Omani (2.9)
 - Delhi (2.9)
 - Minister (2.9)
-- Iran (2.9)
 - Flydubai (2.6)
 - Govt (2.6)
 - Chhattisgarh (2.6)
 - Tennessee (2.6)
 - What (2.6)
 - flydubai (2.1)
-- Trump (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [ഭർത്താവിന് നിരവധി സ്ത്രീകളുമായി ബന്ധം; ഭാര്യയുടെ ക്വട്ടേഷൻ ബലാത്സംഗത്തിനു പിന്നിൽ](https://malayalam.news18.com/news/crime/thrissur-quotation-gang-gang-rape-case-woman-kidnapped-from-lodge-wife-and-accomplices-arrested-rv-ws-l-790674.html)
+- [अब TV पर देख‍िए नीम करोली बाबा की कहानी, 'हनुमान अंश' की ब्‍लॉकबस्‍टर सफलता के बाद नए धारावाहिक का Promo रिलीज](https://navbharattimes.indiatimes.com/tv/news/story-of-neem-karoli-baba-now-on-tv-and-ott-as-new-serial-promo-released-following-blockbuster-success-of-hanuman-ansh/articleshow/134613517.cms)
+- ["என் இனிய பொன் நிலாவே" பாடல் வழக்கு: இளையராஜாவின் மேல்முறையீட்டு மனுவை தள்ளுபடி செய்தது உச்சநீதிமன்றம்!](https://www.dinakaran.com/news/supreme-court-rejected-ilayarajas-appeal/)
+- [Bajrang Sonawane : 'घुले प्रकरणात माझ्या मुलाला अडकवण्यासाठी कराडचा फोन', खासदार बजरंग सोनवणेंचा दावा!](https://sarkarnama.esakal.com/maharashtra/marathwada/bajrang-sonawane-walmik-karad-vilas-ghule-case-alleged-jail-call-recording-beed-ncpsp-mp-political-controversy-crime-news-as11-jp75)
+- [मतदाराचं नाव 'बॉम्बस्फोट', वडिलांचं नाव 'बॉम्ब'! शिक्षक मतदारसंघासाठी बोगस मतदार? यादीतील नावं पाहून चक्रावून जाल](https://sarkarnama.esakal.com/pune/legislative-council-election-bogus-voters-for-teachers-constituency-voter-name-bomb-blast-father-name-bomb-voter-list-viral-aau85)
+- [એક ભારતીયએ 9/11 જેવી તબાહી થતાં અટકાવી! UPSC શતાબ્દી સમારોહમાં PM મોદીએ સ્મિત મચ્છરને બિરદાવ્યા](https://www.gujaratsamachar.com/news/national/an-indian-prevented-a-911-like-disaster-pm-modi-applauds-Smit-machhar-at-upsc-centenary-celebrations-29043504157)
+- [Punjab CM ਭਗਵੰਤ ਮਾਨ ਨੂੰ ਜਾਪਾਨ ਜਾਣ ਦੀ ਨਹੀਂ ਮਿਲੀ ਇਜਾਜ਼ਤ](https://wishavwarta.in/punjab-cm-bhagwant-mann-denied-permission-to-visit-japan/)
+- [ఇల్లు ఉంది.. చేతిలో డబ్బు లేదు.. అమెరికాలో వృద్ధులను వేధిస్తున్న పేదరికం!](https://telugu.greatandhra.com/politics/national/house-rich-cash-poor.html)
+- [NASA’s new space material could let astronauts make tools from Moon dust and waste](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/nasa-s-new-space-material-could-let-astronauts-make-tools-from-moon-dust-and-waste-14042768.html)
 - [Aishwarya Rai એ પેરિસ ફેશન વીકના BTS ફોટા કર્યા શેર, સુંદરતા જોઈ ચાહકો થયા દિવાના, જુઓ](https://tv9gujarati.com/photo-gallery/aishwarya-rais-paris-fashion-week-bts-photos-glamorous-looks-1525201.html)
-- [एशियन गेम्स 2026 लाइव अपडेट्स: रोमांचक हुआ मैच, पाकिस्तान ने उतारी भारत की लीड, स्कोर 3](https://hindi.news18.com/news/sports/others-asian-games-2026-live-updates-day-13-schedule-results-medal-tally-today-october-1-archery-chikitha-tinparthi-vollyball-india-vs-pakistan-cricket-india-vs-sri-lanka-mens-semi-final-hockey-ind-vs-pak-se-10876289.html)
-- [Gold-Silver Rate On MCX : MCX પર સોના-ચાંદીમાં જોરદાર ઉછાળો! Gold ₹1,723 અને Silver ₹2,213 મોંઘી](https://tv9gujarati.com/photo-gallery/gold-silver-rate-on-mcx-1-october-2026sharp-surge-in-gold-and-silver-prices-on-mcx-1525123.html)
-- [Pilot Smit Machchhar Likely Attacked With Axe On flydubai Flight. Why It Was On Plane](https://www.ndtv.com/world-news/axe-may-have-been-used-in-flydubai-attack-why-it-was-on-plane-12124410)
-- ['Just Sharing Our Concern' : Supreme Court Seeks State's Response On Mahua Moitra's Plea Alleging MPLADS Obstruction](https://www.livelaw.in/top-stories/just-sharing-our-concern-supreme-court-seeks-states-response-on-mahua-moitras-plea-alleging-mplads-obstruction-552644)
-- [Asian Games 2026: ఇషాన్ కిషన్ సునామీ బ్యాటింగ్, బుమ్రా మ్యాజిక్.. గోల్డ్ మెడల్ మ్యాచ్‌లో భారత్](https://telugu.asianetnews.com/gallery/cricket-sports/asian-games-2026-india-beat-sri-lanka-by-124-runs-to-enter-final-vs-pakistan-8wsybtz)
-- [இந்திய பங்குச் சந்தை சரிவது மோசமான அறிகுறியா? 7 கேள்வி](https://www.bbc.com/tamil/articles/cjy5zx5w7y7qo)
-- [Embattled Tata patriarch Noel Tata now faces revolt at charities he helms](https://www.moneycontrol.com/news/business/companies/embattled-tata-patriarch-noel-tata-now-faces-revolt-at-charities-he-helms-14042742.html)
-- [मोठी बातमी, सरकारचा मोठा निर्णय, दुष्काळग्रस्त तालुक्यातील शेतकऱ्यांना दिलासा, थेट शेती कर्ज..](https://www.tv9marathi.com/maharashtra/state-government-has-decided-to-stay-the-recovery-of-loans-from-farmers-in-drought-affected-talukas-1768957.html)
-- [US Woman Who Murdered Pregnant Daughter To Steal Baby Had Sexual Relationship With Her Fiance: Testimony](https://www.ndtv.com/world-news/us-woman-who-murdered-pregnant-daughter-to-steal-baby-had-sexual-relationship-with-her-fiance-testimony-reveals-12124352)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
