@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-01 04:39:41
+# India Trending Report — 2026-10-01 05:03:26
 
 ## Google Trends (India) — top trending searches
-1. [sonyliv](https://trends.google.com/trending/rss?geo=IN)
-2. [भारत बनाम श्रीलंका](https://trends.google.com/trending/rss?geo=IN)
-3. [nse india](https://trends.google.com/trending/rss?geo=IN)
-4. [amitabh bachchan](https://trends.google.com/trending/rss?geo=IN)
-5. [ज्ञानेश कुमार](https://trends.google.com/trending/rss?geo=IN)
-6. [nbems](https://trends.google.com/trending/rss?geo=IN)
-7. [rishad hossain](https://trends.google.com/trending/rss?geo=IN)
-8. [smit machhar](https://trends.google.com/trending/rss?geo=IN)
-9. [josé manuel lópez](https://trends.google.com/trending/rss?geo=IN)
-10. [litton das](https://trends.google.com/trending/rss?geo=IN)
+1. [whatsapp](https://trends.google.com/trending/rss?geo=IN)
+2. [sanju samson](https://trends.google.com/trending/rss?geo=IN)
+3. [sony liv](https://trends.google.com/trending/rss?geo=IN)
+4. [moneyview](https://trends.google.com/trending/rss?geo=IN)
+5. [sonyliv](https://trends.google.com/trending/rss?geo=IN)
+6. [भारत बनाम श्रीलंका](https://trends.google.com/trending/rss?geo=IN)
+7. [१ अक्टूबर](https://trends.google.com/trending/rss?geo=IN)
+8. [india vs sri lanka](https://trends.google.com/trending/rss?geo=IN)
+9. [amitabh bachchan](https://trends.google.com/trending/rss?geo=IN)
+10. [nse india](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Captain Machchhar: The Mumbai pilot who emerged as the hero of flydubai flight](https://timesofindia.indiatimes.com/india/captain-machchhar-the-pilot-from-mumbai-who-proved-to-be-the-hero/articleshow/134602233.cms)
 - [‘Religious extremist’: What we know about Omani co-pilot who attacked flydubai captain](https://timesofindia.indiatimes.com/world/middle-east/religious-extremist-refused-handshakes-with-women-what-we-know-about-flydubai-attacker/articleshow/134606941.cms)
+- [How Israeli passenger controlled flydubai jet after pilot was stabbed](https://timesofindia.indiatimes.com/world/middle-east/i-watch-air-crash-investigation-how-israeli-passenger-controlled-plummeting-flydubai-passenger-jet-after-co-pilot-stabbed-and-wounded-pilot/articleshow/134607099.cms)
 - ['Were they pressured?' Rahul Gandhi questions who 'ordered' Form 6 changes](https://timesofindia.indiatimes.com/india/were-they-pressured-rahul-gandhi-questions-who-ordered-form-6-changes/articleshow/134607949.cms)
+- [Drive wrong, pay more: Karnataka mulls Rs 5,000 fine for repeat traffic offenders](https://timesofindia.indiatimes.com/city/bengaluru/fines-for-one-way-violation-illegal-parking-may-touch-up-to-rs-5k-for-repeat-offenders/articleshow/134601155.cms)
+- [New York Mayor Zohran Mamdani has a plan for hottest station in the city's subway](https://timesofindia.indiatimes.com/technology/tech-news/new-york-mayor-zohran-mamdani-has-a-plan-for-the-hottest-station-in-the-citys-subway-the-one-he-calls-a-chamber-of-horrors-and-it-isnt-ac-it-is-/articleshow/134608169.cms)
 - [Piyush Goyal gets a ‘trade minister for life’ tag from US trade chief at G20](https://timesofindia.indiatimes.com/business/india-business/piyush-goyal-gets-a-trade-minister-for-life-tag-from-us-trade-chief-at-g20/articleshow/134607379.cms)
-- [TVs, washing machines, ACs & other consumer electronic prices may go up this Oct](https://timesofindia.indiatimes.com/technology/tech-news/tvs-washing-machines-acs-and-other-consumer-electronic-prices-may-go-up-this-october-but-heres-how-buyers-can-save-some-money/articleshow/134607139.cms)
+- [Senior citizen wrongly paid tax on Rs 25.42L interest; ITAT orders Rs 9.91L refund](https://timesofindia.indiatimes.com/business/india-business/senior-citizen-invested-rs-3-crore-in-tax-free-bonds-but-mistakenly-paid-tax-on-rs-25-42-lakh-interest-earnings-why-itat-delhi-ordered-rs-9-91-lakh-refund/articleshow/134595737.cms)
+- [Captain Machchhar: The Mumbai pilot who emerged as the hero of flydubai flight](https://timesofindia.indiatimes.com/india/captain-machchhar-the-pilot-from-mumbai-who-proved-to-be-the-hero/articleshow/134602233.cms)
 - [Man in WagonR with ‘POLICE’ sticker caught stealing plant from Delhi-Dehradun E-way](https://timesofindia.indiatimes.com/city/lucknow/man-in-wagonr-with-police-sticker-caught-stealing-plant-from-delhi-dehradun-expressway/articleshow/134607545.cms)
-- [‘You’re giving a go by to rules, acts ... doing your own thing’: Bombay HC to EC](https://timesofindia.indiatimes.com/city/goa/sir-suspended-electoral-system-says-follow-software-not-law-bombay-hc/articleshow/134606032.cms)
-- [5 money changes in Oct: Bulk FD rates, UPI MDR, SBI ATM limit cut, LPG KYC & more](https://timesofindia.indiatimes.com/business/india-business/5-money-rule-changes-from-october-2026-bulk-fd-rates-upi-mdr-starts-above-rs-2000-sbi-atm-free-limit-falls-to-5-lpg-aadhaar-kyc-new-nps-charges/articleshow/134587809.cms)
-- [Rubio kicked Iranian delegation out of US amid stalled talks; Iran denies](https://timesofindia.indiatimes.com/world/us/overstayed-their-welcome-rubio-ordered-iranian-delegation-to-leave-us-amid-stalled-talks/articleshow/134606373.cms)
-- [1,000 elephants climb Tanzania's mountains via new 14-km wildlife corridor](https://timesofindia.indiatimes.com/science/wildlife/up-to-1000-elephants-climb-tanzanias-6500-foot-udzungwa-mountains-529-recorded-using-a-new-14-km-protected-wildlife-corridor-linking-their-historic-habitats-with-nyerere-national-park-across-the-kilombero-valley/articleshow/134602394.cms)
+- [Texas turns 160 donated Christmas trees into underwater fish reef](https://timesofindia.indiatimes.com/world/us/in-2024-texas-biologists-turned-more-than-160-donated-christmas-trees-into-an-underwater-reef-at-granger-lake-where-fish-can-use-them-as-habitat-within-15-minutes/articleshow/134597893.cms)
 
 **NDTV**
 - ['Head, Hand Nearly Severed': Flier On Indian flydubai Pilot's Injuries](https://www.ndtv.com/world-news/head-sliced-hand-almost-severed-flier-on-indian-flydubai-pilots-injuries-12123153#publisher=newsstand)
@@ -38,6 +38,7 @@
 - [3-km-Long Traffic Jam On Delhi's Barapullah Phase-III Day After Opening](https://www.ndtv.com/delhi-news/delhi-barapullah-phase-iii-traffic-jam-3-km-long-traffic-jam-on-delhis-barapullah-phase-iii-day-after-opening-12121904#publisher=newsstand)
 
 **Hindustan Times**
+- [flydubai incident LIVE: Netanyahu says too early to say if ‘Iran had any role’ in suspected flydubai crash attempt](https://www.hindustantimes.com/india-news/flydubai-incident-pilot-smit-machchhar-live-updates-fz1073-crash-attempt-hijacking-israel-saudi-trump-netanyahu-modi-101790827447368.html)
 - [Jodhpur man wanted in assault case dies; kin allege police pushed him during raid](https://www.hindustantimes.com/india-news/jodhpur-man-wanted-in-assault-case-dies-kin-allege-police-pushed-him-during-raid-101790828156268.html)
 - [‘Who’s going to save you?’ What flydubai flight hero Captain Smit Machchhar had said on cabin crew not being treated properly](https://www.hindustantimes.com/india-news/whos-going-to-save-you-flydubai-flight-hero-captain-smit-machchhar-on-cabin-crew-not-being-treated-properly-101790823763512.html)
 - [Prohibitory order imposed in Gurugram from today: What is section 163, why is it imposed](https://www.hindustantimes.com/india-news/prohibitory-order-imposed-in-gurugram-from-today-what-is-section-163-why-is-it-imposed-101790826515246.html)
@@ -47,31 +48,30 @@
 - [Indian among 5 killed in Somalia during hijacked ship rescue](https://www.hindustantimes.com/india-news/indian-national-killed-somali-pirates-hijacked-tanker-mohammed-tanweeruz-zaman-mt-honour-25-west-bengal-101790823602523.html)
 - [Italian woman hunts ‘lover’ in Gurugram after being cheated of nearly 1,000 euros](https://www.hindustantimes.com/india-news/italian-woman-hunts-lover-in-gurugram-after-being-cheated-of-nearly-1000-euros-case-filed-101790823771025.html)
 - [HT Morning Brief October 1: Indian pilot fights off co-pilot as flydubai flight plunges; Nitin Gadkari says 100% ethanol cars soon](https://www.hindustantimes.com/india-news/indian-pilot-dubai-tel-aviv-stabbing-boeing-737-max-8-nitin-gadkari-ethanol-india-us-trade-sabarimala-asian-games-101790822973701.html)
-- [Guj HC rejects Asaram’s temporary bail plea to meet wife recovering in hospital](https://www.hindustantimes.com/india-news/guj-hc-rejects-asaram-s-temporary-bail-plea-to-meet-wife-recovering-in-hospital-101790824795605.html)
 
 **Vijay Karnataka**
+- [’ಬೆಂಕಿಯ ಮಳೆ ಸುರಿಸುತ್ತೇನೆ’ ಎಂದಿತ್ತಾ ದೈವ? MRPL ಬಾಯ್ಲರ್ ಸ್ಪೋಟದ ಬೆನ್ನಲ್ಲೇ ಕಾಂತೇರಿ ಜುಮಾದಿ ನುಡಿ ವೈರಲ್!](https://vijaykarnataka.com/news/mangaluru/mrpl-boiler-blast-kanteri-jumadi-divine-warning/articleshow/134608415.cms)
+- [ವಿಧಾನಸೌಧದಲ್ಲಿ ನ.9ರಂದು 'ಉರ್ದು ಹಬ್ಬ' ಆಚರಣೆ: ಬಿಜೆಪಿಯಿಂದ ಆಕ್ಷೇಪ, ಸರ್ಕಾರಕ್ಕೆ 5 ಪ್ರಶ್ನೆಗಳು](https://vijaykarnataka.com/news/karnataka/urdu-festival-in-karnataka-vidhana-soudha-bjp-objection/articleshow/134608023.cms)
 - [ದಶಕದಲ್ಲೇ ಅತ್ಯಂತ ಭೀಕರ ಮುಂಗಾರು ಕೊರತೆ: ದೇಶಾದ್ಯಂತ ಶೇ. 13 ರಷ್ಟು ಮಳೆ ಅಭಾವ, ಕರ್ನಾಟಕದಲ್ಲಿ ಪರಿಸ್ಥಿತಿ ಗಂಭೀರ!](https://vijaykarnataka.com/news/india/rainfall-deficit-for-the-entire-country-what-is-the-karnataka-situation/articleshow/134607612.cms)
-- [ಬೆಂಗಳೂರಿನ ಮಾರೇನಹಳ್ಳಿ ಜಂಕ್ಷನ್‌ನಲ್ಲಿ ಅಂಡರ್‌ಪಾಸ್ ನಿರ್ಮಾಣಕ್ಕೆ ಚಿಂತನೆ: ದಕ್ಷಿಣ ಪಾಲಿಕೆ ವ್ಯಾಪ್ತಿ ಜನರಿಗೆ ಟ್ರಾಫಿಕ್‌ನಿಂದ ಮುಕ್ತಿ!](https://vijaykarnataka.com/news/bengaluru-city/govt-plans-for-underpass-construction-at-marenahalli-junction-to-curb-traffic/articleshow/134606552.cms)
-- [MSP ಮತ್ತು FRP ಬೇರೆ ಬೇರೆ, ಅದಕ್ಕೂ ಕಬ್ಬಿಗೂ ಯಾವುದೇ ಸಂಬಂಧವಿಲ್ಲ : ಕೇಂದ್ರದಿಂದ ಸಿಹಿಸುದ್ದಿ](https://vijaykarnataka.com/business/news/explainer-central-government-msp-frp-clarification-sugarcane/articleshow/134606979.cms)
 - [ಶುಭಮನ್ ಗಿಲ್‌ರ ಡಬಲ್ ಸೆಂಚುರಿ ಹಿಂದಿನ ಫಿಟ್‌ನೆಸ್ ಸೀಕ್ರೆಟ್; ಲೀನ್ ಬಾಡಿ, ಡಯೆಟ್ ಮತ್ತು ವರ್ಕೌಟ್ ಹೇಗಿದೆ?](https://vijaykarnataka.com/lifestyle/fitness/shubman-gill-lean-body-fitness-training-diet-secrets/articleshow/134607801.cms)
-- [ಫ್ಲೈದುಬೈ ವಿಮಾನ ಹೈಜಾಕ್ ತಡೆದ ಭಾರತೀಯ ಪೈಲಟ್: ಪ್ರಾಣ ಪಣಕ್ಕಿಟ್ಟು ಹೋರಾಡಿದ ಕ್ಯಾಪ್ಟನ್ ಸ್ಮಿತ್ ಮಚ್ಚಾರ್ ಹಿನ್ನೆಲೆ ಏನು?](https://vijaykarnataka.com/news/world/who-is-captain-smit-machchhar-fighting-back-against-flydubai-omani-co-pilot/articleshow/134606307.cms)
+- [ಬೆಂಗಳೂರಿನ ಮಾರೇನಹಳ್ಳಿ ಜಂಕ್ಷನ್‌ನಲ್ಲಿ ಅಂಡರ್‌ಪಾಸ್ ನಿರ್ಮಾಣಕ್ಕೆ ಚಿಂತನೆ: ದಕ್ಷಿಣ ಪಾಲಿಕೆ ವ್ಯಾಪ್ತಿ ಜನರಿಗೆ ಟ್ರಾಫಿಕ್‌ನಿಂದ ಮುಕ್ತಿ!](https://vijaykarnataka.com/news/bengaluru-city/govt-plans-for-underpass-construction-at-marenahalli-junction-to-curb-traffic/articleshow/134606552.cms)
 - [Director Mahesh Rao & ನಿರ್ಮಾಪಕ ಪ್ರಕಾಶ್‌: ‘ಜಗದ್ದಾತ್ರಿ’ ಧಾರಾವಾಹಿಗೆ ಬಜೆಟ್ ಎಷ್ಟು?](https://vijaykarnataka.com/video/entertainment/amrutadhaare-and-jagadhatri-kannada-serial-director-mahesh-rao-and-producer-prakash-speaks-about-serials/videoshow/134607304.cms)
 - [ಪ್ಯಾರಿಸ್ ಈವೆಂಟ್‌ನಲ್ಲಿ ಐಶ್ವರ್ಯಾ ರೈ ರಾಯಲ್ ಮತ್ತು ಡ್ರಾಮಾಟಿಕ್ ಲುಕ್‌, ಕೆಂಡಲ್ ಜೆನ್ನರ್ ಏಂಜೆಲ್ ಸ್ಟೈಲ್; ಫೋಟೋಗಳು](https://vijaykarnataka.com/lifestyle/fashion/aishwarya-rai-kendall-jenner-paris-event-fashion-looks/articleshow/134558464.cms)
 - [ಸೋಮವಾರದಿಂದ ಭಾನುವಾರದವರೆಗೆ ಬೀಳುವ ಕನಸುಗಳ ಧಾರ್ಮಿಕ ನಂಬಿಕೆಗಳೇನು.?](https://vijaykarnataka.com/religion/superstition/monday-to-sunday-dream-and-its-meaning/articleshow/134599322.cms)
 - [ಬಾಲಿವುಡ್‌ನ 'ದಬಾಂಗ್' ಬೆಡಗಿ ಸೋನಾಕ್ಷಿ ಸಿನ್ಹಾ ಕೆಂಪು ಸೀರೆ ಲುಕ್; ಸಿಂಧೂರ-ಮಂಗಳಸೂತ್ರ ಗಮನ ಸೆಳೆದವು](https://vijaykarnataka.com/lifestyle/fashion/sonakshi-sinha-red-saree-mangalsutra-sindoor-look/articleshow/134600105.cms)
-- [ಕನ್ನಡಕ್ಕೆ ಜೈ ಎಂದ ಬೆಳಗಾವಿ ಪಾಲಿಕೆ: ಮಹಾಜನ್‌ ವರದಿ ಅನುಷ್ಠಾನಕ್ಕೆ ಸರ್ವಾನುಮತದ ಅಂಗೀಕಾರ!](https://vijaykarnataka.com/news/belagavi/belagavi-municipality-accepts-mahajan-report-giving-prominence-to-kannada-language-in-the-district/articleshow/134606076.cms)
+- [MSP ಮತ್ತು FRP ಬೇರೆ ಬೇರೆ, ಅದಕ್ಕೂ ಕಬ್ಬಿಗೂ ಯಾವುದೇ ಸಂಬಂಧವಿಲ್ಲ : ಕೇಂದ್ರದಿಂದ ಸಿಹಿಸುದ್ದಿ](https://vijaykarnataka.com/business/news/explainer-central-government-msp-frp-clarification-sugarcane/articleshow/134606979.cms)
 
 **The Hindu**
-- [Why Maharashtra’s forensic labs are struggling to keep pace with casework? | Explained](https://www.thehindu.com/news/national/maharashtra/why-maharashtras-forensic-labs-are-struggling-to-keep-pace-with-casework-explained/article71531396.ece)
+- [Thane honours shooter Rudrankksh Patil for Asian Games medals](https://www.thehindu.com/news/national/maharashtra/shooter-patil-gets-thane-municipal-corporation-reception-after-asian-games-medals/article71529367.ece)
+- [Youth Congress-SFI clashes: Police register non-bailable case; SFI calls State-wide protests in Keralam](https://www.thehindu.com/news/national/kerala/youth-congress-sfi-clashes-police-register-non-bailable-case-sfi-calls-state-wide-protests-in-keralam/article71531435.ece)
+- [Why are Maharashtra’s forensic labs struggling to keep pace with casework? | Explained](https://www.thehindu.com/news/national/maharashtra/why-maharashtras-forensic-labs-are-struggling-to-keep-pace-with-casework-explained/article71531396.ece)
+- [Productive discussion with USTR Greer on early conclusion of trade deal: Goyal](https://www.thehindu.com/business/Economy/productive-discussion-with-ustr-greer-on-early-conclusion-of-trade-deal-goyal/article71531414.ece)
 - [SIR: Filled Form-7 targeting Muslim voters surface in Belagavi; BLOs allege they were pressured to sign](https://www.thehindu.com/news/cities/bangalore/sir-filled-form-7-targeting-muslim-voters-surface-in-belagavi-blos-allege-they-were-pressured-to-sign/article71529328.ece)
 - [18th IDSFFK ends without screening “banned” competition films](https://www.thehindu.com/news/national/kerala/18th-idsffk-ends-without-screening-banned-competition-films/article71529790.ece)
 - [Farmers complain of dry spell induced crop loss in excluded talukas from drought GR](https://www.thehindu.com/news/national/maharashtra/farmers-complain-of-dry-spell-induced-crop-loss-in-excluded-talukas-from-drought-gr/article71529670.ece)
 - [Lean arrivals push up tomato prices in Andhra Pradesh ahead of festive season](https://www.thehindu.com/news/national/andhra-pradesh/lean-arrivals-push-up-tomato-prices-in-andhra-pradesh-ahead-of-festive-season/article71528594.ece)
 - [Bolarum arms theft accused claims eight others helped him steal the cache](https://www.thehindu.com/news/national/telangana/bolarum-arms-theft-accused-claims-eight-others-helped-him-steal-the-cache/article71530045.ece)
 - [Asian Games 2026 India’s medallists: Full list of winners](https://www.thehindu.com/sport/asian-games-2026-india-medalists-full-list-of-winners-aichi-nagoya-japan/article71491065.ece)
-- [Trained canines to bolster crime detection in Andhra Pradesh](https://www.thehindu.com/news/national/andhra-pradesh/trained-canines-to-bolster-crime-detection-in-andhra-pradesh/article71529094.ece)
-- [Transco released scores, final answer key of AEE exams](https://www.thehindu.com/news/national/andhra-pradesh/transco-released-scores-final-answer-key-of-aee-exams/article71529910.ece)
-- [Pilot attacked in flydubai altercation Indian](https://www.thehindu.com/news/national/pilot-attacked-in-flydubai-altercation-indian-say-sources/article71529343.ece)
 
 **Livemint**
 - [‘Jerome should be forced to resign’: Trump wants Powell out despite Fed watchdog clearing him | What was the allegation?](https://www.livemint.com/news/us-news/jerome-should-be-forced-to-resign-trump-wants-powell-out-despite-fed-watchdog-clearing-him-what-was-the-allegation-11790820606996.html)
@@ -103,13 +103,16 @@
 - [ಉತ್ತರ ಪ್ರದೇಶದ ಪೊಲೀಸರನ್ನು ನಂಬುವುದು ಹೇಗೆ?: ಆರೋಪಿಯನ್ನು ಹಿಡಿದಿದ್ದರೂ FIR ನಲ್ಲಿ ಹೆಸರು ದಾಖಲಿಸದ್ದಕ್ಕೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಕಿಡಿ](https://www.varthabharati.in/National/how-can-we-trust-the-uttar-pradesh-police-supreme-court-slams-them-for-not-registering-the-accused-in-the-fir-even-after-arresting-him-2279333)
 - [ಕರಾವಳಿಗೆ ಈ ಆತಂಕ ಶಾಶ್ವತ](https://www.varthabharati.in/nimma-ankana/this-anxiety-is-permanent-for-the-coast-2279334)
 - [Pune | ಕೇತನ್ ಹತ್ಯೆಗೂ ಮುನ್ನ ಬೆಂಗಳೂರಿನಲ್ಲಿ ‘ಕೈಕಾಲು ಮುರಿಯುವ’ ಸಂಚು!](https://www.varthabharati.in/National/pune-ketan-murder-2279331)
-- [ಮಾನದಂಡಗಳು 'ಓವರ್ ಸ್ಟಾರ್ಟ್' ಆಗದಿರಲಿ](https://www.varthabharati.in/sampaadakeeya/standards-should-not-be-over-smart-2279332)
+- [ಮಾನದಂಡಗಳು 'ಓವರ್ ಸ್ಮಾರ್ಟ್‌' ಆಗದಿರಲಿ](https://www.varthabharati.in/sampaadakeeya/standards-should-not-be-over-smart-2279332)
 - [ಅ.2 : ಉಳ್ಳಾಲದಲ್ಲಿ ಕುರ್‌ಆನ್ ಸಮ್ಮೇಳನ–2026](https://www.varthabharati.in/DakshinaKannada/oct-2-quran-conference-2026-in-ullal-2279329)
 - [‘ಅಪಾರ ಧೈರ್ಯ ತೋರಿಸಿದರು’: ಫ್ಲೈದುಬೈ ಪೈಲಟ್ ಸ್ಮಿತ್ ಮಚ್ಚರ್‌ ರನ್ನು ಶ್ಲಾಘಿಸಿದ ಪ್ರಧಾನಿ ಮೋದಿ](https://www.varthabharati.in/national/showed-immense-courage-pm-modi-praises-flydubai-pilot-smith-machar-2279328)
 - ['ಏರ್ ಕ್ರ್ಯಾಶ್ ಇನ್ವೆಸ್ಟಿಗೇಷನ್’ ನೋಡುತ್ತಿದ್ದ ಪ್ರಯಾಣಿಕನೇ flydubai ವಿಮಾನ ಉಳಿಸಲು ನೆರವಾದ!](https://www.varthabharati.in/international/a-passenger-who-watched-air-crash-investigation-helped-save-the-flydubai-flight-2279327)
 - [‘ನಿಜವಾದ ಹೀರೋ’: ಚಾಕು ಇರಿತದ ನಡುವೆಯೂ 180 ಜೀವ ಉಳಿಸಿದ ಭಾರತೀಯ ಪೈಲಟ್‌ ಸ್ಮಿತ್ ಮಚ್ಚರ್ ಗೆ ನೆತನ್ಯಾಹು ನಮನ](https://www.varthabharati.in/international/a-real-hero-netanyahu-pays-tribute-to-indian-pilot-smith-machar-who-saved-180-lives-despite-being-stabbed-2279326)
 
 **Asianet Kannada**
+- [Business Location Idea: ಯಾವ ಬ್ಯುಸಿನೆಸ್ ಎಲ್ಲಿ ಆರಂಭಿಸಬೇಕು?](https://kannada.asianetnews.com/webstories/business/choosing-the-right-business-location-is-a-crucial-step-towards-achieving-success-in-business-mrq-1expcig)
+- [ಬೋಚನಹಳ್ಳಿ-ಭೈರಾಪುರ-ನೆಲೋಗಿಪುರ ರಸ್ತೆಯಲ್ಲಿ ಸೇತುವೆ ನಿರ್ಮಾಣಕ್ಕೆ ₹7 ಕೋಟಿ ಮಂಜೂರು](https://kannada.asianetnews.com/karnataka-districts/koppal-rs-7-crore-sanctioned-for-construction-of-bridge-on-bochanahalli-bhairapur-nelogipur-road-mrq/articleshow-nmngeqe)
+- [ಏಷ್ಯಾಡ್‌ನಲ್ಲಿ ಭಾರತದ ಗೋಲ್ಡನ್‌ ಡೇ; ಒಂದೇ ದಿನ 4 ಚಿನ್ನ, ಪದಕ ಪಟ್ಟಿಯಲ್ಲಿ Top-10ಗೆ ಕಂಬ್ಯಾಕ್‌](https://kannada.asianetnews.com/sports/asian-games-2026-india-wins-4-gold-medals-in-one-day-returns-to-top-10-kvn/articleshow-1ngnqkv)
 - [ಬೆಂಗಳೂರಲ್ಲಿ ಮಳೆ ಬಂದರೆ ಗಗನಕ್ಕೇರುವ ಕ್ಯಾಬ್ ರೇಟ್; ಇಷ್ಟೊಂದು ಹಣಕೊಟ್ಟರೆ ರೈಲಲ್ಲಿ ಮುಂಬೈಗೆ ಹೋಗಿ ಬರಬಹುದು!](https://kannada.asianetnews.com/bengaluru-urban/bengaluru-rains-send-cab-fares-soaring-at-this-price-you-could-travel-to-mumbai-by-train-suh/articleshow-nbsdm0z)
 - [113 ಕೆಜಿ ಗೋಲ್ಡ್ ಸ್ಮಗ್ಲಿಂಗ್ ಮಾಡಿದ ನಟಿ ರನ್ಯಾ ರಾವ್; ಸ್ಮಗ್ಲರ್ ಗ್ಯಾಂಗ್‌ಗೆ ₹244 ಕೋಟಿ ದಂಡ!](https://kannada.asianetnews.com/gallery/state/sandalwood-actress-ranya-rao-gold-smuggling-case-fine-rs-244-crores-sat-0os0qu0)
 - [Tata Aeris Launch: ₹5.30 ಲಕ್ಷಕ್ಕೆ ಹೊಸ ಸೆಡಾನ್‌; 6 ಏರ್‌ಬ್ಯಾಗ್‌, 360° ಕ್ಯಾಮೆರಾ, ಫೀಚರ್ಸ್‌ ಸೂಪರ್‌! ಮಾರುತಿ ಡಿಜೈರ್‌ಗಿಂತ 1 ಲಕ್ಷ ರೂ. ಅಗ್ಗ!](https://kannada.asianetnews.com/car-news/tata-aeris-sedan-price-variants-and-emi-everything-you-need-to-know-kvn/articleshow-g0799wt)
@@ -117,23 +120,20 @@
 - [Lightweight Gold Rings: ಕಡಿಮೆ ತೂಕದ ಚಿನ್ನದ ಉಂಗುರಗಳು, ನಿಮ್ಮ ಅಂದ ಹೆಚ್ಚಿಸುವ ಟ್ರೆಂಡಿ ಡಿಸೈನ್ಸ್](https://kannada.asianetnews.com/webstories/fashion/trendy-lightweight-gold-ring-designs-for-daily-wear-gvd-ugsf7m5)
 - [Asian Games 2026 ಟೀವಿ, ಸ್ಮಾರ್ಟ್‌ಫೋನ್ ಕೂಡಾ ಇಲ್ಲದ ಮನೆಯಲ್ಲಿ ಬೆಳೆದ ನೀರು ಧಾಂಡಾಗೆ ಮೂರು ಪದಕ!](https://kannada.asianetnews.com/sports/no-tv-no-smartphone-yet-a-gold-medal-neeru-dhanda-inspiring-asian-games-story-kvn/articleshow-gt87qb3)
 - [ಬಾಗಿಲುಗಳೇ ಇಲ್ಲದ ಮನೆಗಳು, ಬ್ಯಾಂಕುಗಳು; ಕಳ್ಳತನದ ಭಯವೇ ಇಲ್ಲದ ಭಾರತದ ಅದ್ಭುತ ಊರು](https://kannada.asianetnews.com/gallery/india-news/why-shani-shingnapur-houses-have-no-doors-and-locks-mystery-facts-gbr781z)
-- [Kitchen Cleaning Tips: ಎಚ್ಚರ, ಅಡುಗೆಮನೆಯಲ್ಲಿ ನೀವು ಮರೆಯದೆ ಸ್ವಚ್ಛಗೊಳಿಸಬೇಕಾದ 3 ವಸ್ತುಗಳಿವು!](https://kannada.asianetnews.com/webstories/kitchen/3-hidden-things-in-your-kitchen-that-need-daily-cleaning-gvd-o23g91s)
-- [Breaking: ಅಫ್ಘಾನಿಸ್ತಾನದಲ್ಲಿ 5.3 ತೀವ್ರತೆಯ ಭೀಕರ ಭೂಕಂಪ, ಸಾವು-ನೋವು ಎಷ್ಟು?](https://kannada.asianetnews.com/state/5-3-magnitude-earthquake-strikes-afghanistan-ncs-report-rav/articleshow-k427ubm)
-- [ಏಷ್ಯನ್ ಗೇಮ್ಸ್‌ನಲ್ಲಿ ಭಾರತಕ್ಕೆ ಕಂಚು ತಂದ ಕೊಪ್ಪದ ಮಣ್ಣಿನ ಮಗಳು ಎಸ್.ಎಸ್ ಸ್ನೇಹಾ](https://kannada.asianetnews.com/karnataka-districts/chikkamagaluru-athletic-s-s-sneha-a-daughter-of-koppa-wins-bronze-for-india-at-the-asian-games-mrq/articleshow-kflzp41)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ಹುಚ್ಚರನ್ನು ಯಾರಾದ್ರೂ ಬಂಧಿಸಿ ಜೈಲಿಗೆ ಹಾಕುತ್ತಾರಾ? ಪ್ರಕಾಶ್ ರಾಜ್​ಗೆ ಪ್ರತಾಪ್ ಸಿಂಹ ತಿರುಗೇಟು](https://tv9kannada.com/videos/pratap-simha-hits-back-at-prakash-raj-calls-him-mad-over-remarks-on-pm-modi-and-amit-shah-1244989.html)
+- [ಮಂಗಳೂರು MRPL ಸ್ಫೋಟಕ್ಕೆ ಕಾರಣವಾಯ್ತಾ ದೈವಾಕ್ರೋಶ?: ‘ನನ್ನ ದೈವಸ್ಥಾನ ಕೆಡವಿದರೆ ಬೆಂಕಿ ಸುರಿಸುತ್ತೇನೆ ಎಂದು ಎಚ್ಚರಿಸಿದ್ದ ಕಾಂತೇರಿ ಜುಮಾದಿ ದೈವ](https://tv9kannada.com/karnataka/dakshina-kannada/mrpl-blast-nellidadiguttu-daivas-warning-linked-to-mangaluru-fire-say-locals-1244986.html)
+- [ವಿಮಾನ ಇಂಧನ ದರದಲ್ಲಿ ಭಾರೀ ಏರಿಕೆ, ವಿಮಾನಯಾನ ಸಂಸ್ಥೆಗಳ ವೆಚ್ಚ ಹೆಚ್ಚಳ, ಟಿಕೆಟ್ ದರದ ಮೇಲೆ ಎಲ್ಲರ ಚಿತ್ತ](https://tv9kannada.com/business/jet-fuel-price-hike-will-flight-tickets-get-more-expensive-in-india-1244980.html)
+- [ಲಕ್ಷ್ಮಿ ನಾರಾಯಣ ಯೋಗ: 40 ದಿನಗಳ ಕಾಲ ಈ 6 ರಾಶಿಯವರಿಗೆ ಅದೃಷ್ಟದ ಸುರಿಮಳೆ](https://tv9kannada.com/spiritual/lakshmi-narayana-yoga-6-zodiac-signs-to-shine-for-40-days-from-sep-26-1244966.html)
+- [‘ಫಾರಂ 7 ಬಗ್ಗೆ ನನಗೆ ಮಾಹಿತಿ ಕೊಡಿ, ನಿಮ್ಮ ಮತ ಉಳಿಸಿಕೊಡ್ತೇನೆ’: ಎಸ್​ಐಆರ್ ಬಗ್ಗೆ ಸಿಎಂ ಡಿಕೆ ಶಿವಕುಮಾರ್ ಮಹತ್ವದ ಸಂದೇಶ](https://tv9kannada.com/karnataka/karnataka-cm-dk-shivakumar-raises-concerns-over-sir-and-form-7-seeks-voter-list-information-1244979.html)
 - [ಚೇಸಿಂಗ್​ನ ಮಾಸ್ಟರ್ ಪ್ಲ್ಯಾನ್ ಬಿಚ್ಚಿಟ್ಟ ಶುಭ್​ಮನ್ ಗಿಲ್](https://tv9kannada.com/sports/cricket-news/shubman-gill-reveals-the-master-plan-behind-historic-chase-1244957.html)
 - [ಕೊರಿಯನ್ BTS ಬ್ಯಾಂಡ್ ಭೇಟಿಯಾಗಲು ಮನೆ ಬಿಟ್ಟಿದ್ದ 13 ವರ್ಷದ ಬಾಲಕಿ: ಮುಂದೇನಾಯ್ತು ನೋಡಿ](https://tv9kannada.com/karnataka/bengaluru/bengaluru-teen-runs-away-to-meet-bts-in-korea-police-rescue-k-pop-fan-1244963.html)
 - [ಪಂಜಾಬ್ ಕಾಂಗ್ರೆಸ್‌ನಲ್ಲಿ ನಾಯಕತ್ವ ಬದಲಾವಣೆ, ಕಾಂಗ್ರೆಸ್ ಅಧ್ಯಕ್ಷ ರಾಜಾ ವಾರಿಂಗ್ ರಾಜೀನಾಮೆ](https://tv9kannada.com/national/punjab-congress-leadership-change-raja-warring-resigns-amidst-internal-strife-1244960.html)
 - [ಟ್ರಾಫಿಕ್ ನಿಯಮ ಉಲ್ಲಂಘನೆಗೆ ಭಾರೀ ದಂಡ ವಿಧಿಸಲು ಸರ್ಕಾರ ಚಿಂತನೆ: ದುಪ್ಪಟ್ಟಾಗಲಿದೆ ಫೈನ್ ಮೊತ್ತ!](https://tv9kannada.com/karnataka/bengaluru/bengaluru-traffic-fine-hike-proposed-fines-up-to-rs-5000-for-rule-violations-know-amount-details-here-1244950.html)
 - [ಪಿತೃ ಪಕ್ಷ: ಪೂರ್ವಜರ ಫೋಟೋ ಮುಂದೆ ಈ ವಸ್ತುಗಳನ್ನು ಇಡಲೇಬೇಡಿ](https://tv9kannada.com/spiritual/pitru-paksha-what-not-to-keep-with-ancestral-photos-and-vastu-tips-for-home-peace-1244948.html)
-- [ಏಷ್ಯನ್ ಗೇಮ್ಸ್ 2026​: ಭರ್ಜರಿ ಜಯದೊಂದಿಗೆ ಫೈನಲ್​ಗೇರಿದ ಪಾಕಿಸ್ತಾನ್!](https://tv9kannada.com/sports/cricket-news/asian-games-2026-pakistan-beat-bangladesh-1244945.html)
-- [ಗಂಭೀರ ಗಾಯದ ನಡುವೆಯೂ ಧೈರ್ಯ ತೋರಿದ ಭಾರತೀಯ ಪೈಲಟ್, ಸ್ಮಿತ್ ಮಚ್ಚರ್‌ಗೆ ಪ್ರಧಾನಿ ಮೋದಿ ಮೆಚ್ಚುಗೆ](https://tv9kannada.com/national/pm-modi-hails-flydubai-pilot-smit-machchhars-bravery-averted-disaster-1244939.html)
-- [ಉತ್ತಮವಾಗಿ ಟಾಸ್ಕ್ ಆಡಿದರೂ ಕಳಪೆ ಆದ ಗಾನವಿ; ಉಸ್ತುವಾರಿ ವಿಷಯದಲ್ಲಿ ಮನೆಯವರ ಮೌನ](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-13-wild-card-contestant-gaanavi-gets-kalape-despite-best-task-performance-1244940.html)
-- [Porsche Cayenne Electric: ಪೋರ್ಷೆ ಕಯೆನ್ನೆ ಎಲೆಕ್ಟ್ರಿಕ್ ಭಾರತದಲ್ಲಿ ಬಿಡುಗಡೆ: ಬೆಲೆ 1.77 ಕೋಟಿ](https://tv9kannada.com/business/porsche-cayenne-electric-launched-india-price-range-features-2026-1244944.html)
-- [ಜಡ್ಡು ಐಡಿಯಾ ರಿಜೆಕ್ಟ್ ಮಾಡಿದ್ದೇನೆ: ಪಂದ್ಯದ ಬಳಿಕ ರೋಹಿತ್ ಶರ್ಮಾ ಹೇಳಿದ್ದೇನು?](https://tv9kannada.com/sports/i-rejected-jaddus-idea-rohit-sharma-1244938.html)
 
 **Prajavani**
 - [ವಿಮಾನದಲ್ಲಿ ದಾಳಿಗೊಳಗಾದರೂ 174 ಮಂದಿಯ ಪ್ರಾಣ ಉಳಿಸಿದ ಭಾರತದ ಕ್ಯಾಪ್ಟನ್!](https://www.prajavani.net/news/world-news/indian-pilot-smit-machchhar-saves-flydubai-passengers-from-co-pilot-attack-explained-4300000)
@@ -161,9 +161,10 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - What (5.8)
-- Indian (5.1)
 - Emkay Global Financial (5.0)
-- flydubai (3.3)
+- flydubai (3.9)
+- Indian (3.8)
+- Asian Games (3.0)
 - ICICI Securities (3.0)
 - target (3.0)
 - Mumbai (2.9)
@@ -171,24 +172,23 @@
 - Global (2.8)
 - Iran (2.6)
 - Gurugram (2.6)
+- MRPL (2.6)
 - India (2.6)
 - Captain Smit Machchhar (2.0)
-- Andhra Pradesh (2.0)
-- Asian Games (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [পুজোর আগে চলতি সপ্তাহে রাজ্যে নতুন শিল্পনীতির ঘোষণার জল্পনা](https://eisamay.com/west-bengal-news/kolkata-news/west-bengal-new-industrial-policy-likely-this-week-before-durga-puja/200549627.cms)
-- [6 छक्के, 10 चौके और शतक... रोहित शर्मा का ऐसा जोशीला सेल‍िब्रेशन आज तक नहीं देखा होगा, VIDEO](https://www.aajtak.in/sports/cricket/story/rohit-sharma-35th-odi-century-viral-celebration-video-ind-vs-wi-tspok-dskc-2657734-2026-09-30)
-- [മന്ത്രി കെ എം ഷാജിയുടെ വാഹനം തടഞ്ഞ് യുവമോർച്ച; മന്ത്രി കയറിയ ഓട്ടോയും തടഞ്ഞു; പിന്നാലെ നടന്നുപോയി](https://malayalam.news18.com/news/kerala/kerala-minister-km-shajis-vehicle-blocked-by-yuva-morcha-protesters-in-thiruvananthapuram-forced-to-walk-rv-ws-l-790609.html)
-- [Eknath Shinde: 'शेतकऱ्यांची दिवाळी काळी होऊ देणार नाही'; दुष्काळग्रस्तांसाठी 12 उपाययोजनांचा आधार, एकनाथ शिंदेंचा बळीराजाला दिलासा](https://www.lokshahi.com/lokshahi-politics/eknath-shinde-maharashtra-drought-relief-announcement-2026-12610159)
-- [Bengaluru shocker: 19-year-old BCom student called out of class, stabbed to death](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-shocker-19-year-old-bcom-student-called-out-of-class-stabbed-to-death-near-college/articleshow/134598867.cms)
-- [कार बनाने वाली कंपनियों के लिए नए नियम, 2027 में होंगे लागू; आपको मिलेगा फायदा](https://www.jagran.com/news/national-india-mandates-higher-mileage-cars-new-cafe-norms-for-auto-company-announced-from-april-2027-40390424.html)
-- [இஸ்ரேல் விமானம்: விமானிகள் மோதல் குறித்தான வீடியோவில் கிடைத்த தகவல் என்ன?](https://www.bbc.com/tamil/articles/cm89j497p9k5o)
-- ['श्री राम को सलमान खान बना दिया', Ramayana में एक्शन देख भड़के मुकेश खन्ना, कहा- बाण चलाने वे पेड़ पर नहीं चढ़ते](https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/mukesh-khanna-slams-ranbir-kapoor-action-in-ramayana-trailer-heavy-use-of-vfx-says-shri-ram-ko-dhurandhar-banaa-diya/articleshow/134598715.cms)
-- [ഡബിൾ അടിച്ച് ഗിൽ; രോഹിത് ശർമയ്ക്ക് ശേഷം ഏകദിനത്തിൽ ഒന്നിലധികം ഇരട്ട സെഞ്ചുറി നേടുന്ന താരം](https://www.mathrubhumi.com/sports/cricket/shubman-gill-double-century-odi-west-indies-qu130jws)
-- [ઇઝરાયલ ફ્લાઇટમાં પાઇલટે કર્યો ચપ્પુ વડે હુમલો, નેતન્યાહૂનો દાવો](https://www.bbc.com/gujarati/articles/cvde010p8gd1o)
+- [నోటికొచ్చినట్టు మాట్లాడితే అంతే.. రాధిక స్ట్రాంగ్ వార్నింగ్](https://www.bigtvlive.com/movies/radhika-sarathkumar-film-reviewers-warning-social-media-reviews.html)
+- [IND vs WI 2nd ODI: શુભમન ગિલની ડબલ સેન્ચ્યુરી, ટીમ ઈન્ડિયાના 400+ રન પહેલી વાર ચેઝ](https://www.gujaratfirst.com/top-news/ind-vs-wi-2nd-odi-gill-double-century-gujarat-first-digital/342980/)
+- [IND vs WI 2nd ODI: शुभमन ग‍िल की डबल सेंचुरी, टीम इंड‍िया का पहली बार 400+ का रनचेज, वेस्टइंडीज से सीरीज जीती](https://www.aajtak.in/sports/cricket/story/india-vs-west-indies-2nd-odi-live-cricket-score-playing-11-ind-wi-match-aksp-tspok-dskc-2657216-2026-09-30)
+- [IND vs WI: शुभमन गिल का रिकॉर्ड दोहरा शतक, भारत ने सबसे बड़ा रन चेज करके सीरीज पर किया कब्‍जा](https://www.jagran.com/cricket/match-report-ind-vs-wi-shubman-gill-double-century-helps-india-record-run-chase-in-odi-rohit-sharma-century-india-vs-west-indies-40390519.html)
+- [Kunal Ghosh: অর্ডার কপি যাবে মুখ্যসচিব-স্বরাষ্ট্রসচিবের কাছে, কুণালকাণ্ডে পুলিশের ভূমিকায় ক্ষুব্ধ কমিশন](https://tv9bangla.com/kolkata/kunal-ghosh-west-bengal-human-rights-commission-rebukes-police-over-repeated-attacks-on-kunal-ghosh-1349924.html)
+- [യുദ്ധക്കളമായി തലസ്ഥാനം; തീപ്പന്തവും കല്ലുമെറിഞ്ഞ് യൂത്ത് കോൺഗ്രസ്-എസ്എഫ്ഐ പ്രവർത്തകർ](https://malayalam.news18.com/news/kerala/capital-city-turns-battleground-as-youth-congress-sfi-workers-clash-in-thiruvananthapuram-tear-gas-and-lathi-charge-follow-rv-ws-l-790611.html)
+- [અમરેલીના ધારી, ખાંભા પંથકના ગ્રામ્ય વિસ્તારોમાં ધીમીધારે વરસાદ, જૂનાગઢ-ગીર સોમનાથમાં પણ વરસાદી ઝાપટાં](https://www.gujaratsamachar.com/news/amreli/saurashtra-amreli-dhari-gir-rain-weather-update-13691027973)
+- ['मुझसे थप्पड़ खाएगा', शहजाद पूनावाला के लिए बोली 'TV की नागिन', छलका दर्द](https://www.aajtak.in/entertainment/ott/story/priyanka-chahar-choudhary-will-slap-shehzad-poonawalla-heated-argument-emotional-rise-and-fall-2-tmovb-dskc-2657738-2026-09-30)
+- [রূপনারায়ণের জলে ভাসছে খানাকুল, জল ডিঙিয়েই উচ্চ মাধ্যমিকের পরীক্ষা](https://biswabanglasangbad.com/state/heavy-rain-at-khanakul-large-area-under-water)
+- [INDIA bloc to launch nationwide campaign against CEC, SIR from October 2](https://www.thehindu.com/news/national/india-bloc-to-launch-nationwide-campaign-against-cec-sir-from-october-2/article71529616.ece)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
