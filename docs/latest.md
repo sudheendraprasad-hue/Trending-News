@@ -1,16 +1,16 @@
-# India Trending Report — 2026-10-02 00:44:20
+# India Trending Report — 2026-10-02 01:04:45
 
 ## Google Trends (India) — top trending searches
-1. [2 october](https://trends.google.com/trending/rss?geo=IN)
-2. [samsung galaxy s27 ultra](https://trends.google.com/trending/rss?geo=IN)
-3. [గ్రామ పంచాయతీ](https://trends.google.com/trending/rss?geo=IN)
-4. [அகவிலைப்படி](https://trends.google.com/trending/rss?geo=IN)
-5. [రబీ పంట](https://trends.google.com/trending/rss?geo=IN)
-6. [राशन व्यवस्था](https://trends.google.com/trending/rss?geo=IN)
-7. [कर्मचारी](https://trends.google.com/trending/rss?geo=IN)
-8. [greece national football team vs netherlands national football team standings](https://trends.google.com/trending/rss?geo=IN)
-9. [erling haaland](https://trends.google.com/trending/rss?geo=IN)
-10. [rasmus højlund](https://trends.google.com/trending/rss?geo=IN)
+1. [braves vs phillies](https://trends.google.com/trending/rss?geo=IN)
+2. [जिलाधिकारी](https://trends.google.com/trending/rss?geo=IN)
+3. [flydubai flight pilot](https://trends.google.com/trending/rss?geo=IN)
+4. [2 october](https://trends.google.com/trending/rss?geo=IN)
+5. [samsung galaxy s27 ultra](https://trends.google.com/trending/rss?geo=IN)
+6. [గ్రామ పంచాయతీ](https://trends.google.com/trending/rss?geo=IN)
+7. [அகவிலைப்படி](https://trends.google.com/trending/rss?geo=IN)
+8. [రబీ పంట](https://trends.google.com/trending/rss?geo=IN)
+9. [राशन व्यवस्था](https://trends.google.com/trending/rss?geo=IN)
+10. [कर्मचारी](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -18,10 +18,10 @@
 - [US energy department engineer arrested for allegedly helping Iran-backed Houthis](https://timesofindia.indiatimes.com/world/us/us-energy-department-engineer-held-for-alleged-houthi-links-drone-and-explosives-support/articleshow/134629759.cms)
 - [Supreme Court judges decline to meet parliamentary panel on one-nation, one-election](https://timesofindia.indiatimes.com/india/supreme-court-judges-decline-to-meet-parliamentary-panel-on-one-nation-one-election/articleshow/134629478.cms)
 - [Venu, Vijay Singh query Noel's merger plan to avoid Tata Sons IPO](https://timesofindia.indiatimes.com/business/india-business/venu-vijay-singh-query-noels-merger-plan-to-avoid-tata-sons-ipo/articleshow/134629518.cms)
-- [The world's Smit-ten: PM to Trump, praise pours in for braveheart pilot](https://timesofindia.indiatimes.com/india/the-worlds-smit-ten-pm-to-trump-praise-pours-in-for-braveheart-pilot/articleshow/134629573.cms)
 - [Sundar Pichai on Google launching Gemini 4 Argon, its most powerful AI model yet](https://timesofindia.indiatimes.com/technology/tech-news/google-unveils-gemini-4-argon-its-most-powerful-ai-model-yet-ceo-sundar-pichai-says-were-going-to-make-it-available-as-soon-as-we-can-and-as-/articleshow/134608054.cms)
-- [Two Anups, two IIT-IIM alumni: HDFC Bank, Kotak Mahindra get new CEOs](https://timesofindia.indiatimes.com/business/india-business/day-of-anups-at-hdfc-and-kotak-with-much-in-common-in-banking/articleshow/134629792.cms)
+- [The world's Smit-ten: PM to Trump, praise pours in for braveheart pilot](https://timesofindia.indiatimes.com/india/the-worlds-smit-ten-pm-to-trump-praise-pours-in-for-braveheart-pilot/articleshow/134629573.cms)
 - [Wife gets late husband's job, leaves in-laws; HC orders 25% salary for mother-in-law](https://timesofindia.indiatimes.com/business/india-business/wife-got-late-husbands-government-job-on-compassionate-grounds-promised-to-care-for-in-laws-but-remarried-and-left-court-orders-25-salary-for-mother-in-law-and-equal-terminal-benefits/articleshow/134622351.cms)
+- [Two Anups, two IIT-IIM alumni: HDFC Bank, Kotak Mahindra get new CEOs](https://timesofindia.indiatimes.com/business/india-business/day-of-anups-at-hdfc-and-kotak-with-much-in-common-in-banking/articleshow/134629792.cms)
 - [PFRDA plans direct pension fund investment in big infrastructure projects](https://timesofindia.indiatimes.com/india/pfrda-eyes-plan-for-funds-to-invest-directly-in-infrastructure/articleshow/134629424.cms)
 - [Supreme Court refuses to de-freeze TMC accounts, says let Calcutta high court decide](https://timesofindia.indiatimes.com/india/supreme-court-refuses-to-de-freeze-tmc-accounts-says-let-calcutta-high-court-decide/articleshow/134629443.cms)
 
@@ -62,6 +62,7 @@
 - [2027ರ ಏಕದಿನ ವಿಶ್ವಕಪ್ ನಲ್ಲಿ ಭಾರತ-ಪಾಕಿಸ್ತಾನ ಬರೋಬ್ಬರಿ 3 ಬಾರಿ ಮುಖಾಮುಖಿ ಸಾಧ್ಯತೆ! ಹೀಗಿದೆ ನೋಡಿ ವೇಳಾಪಟ್ಟಿ!](https://vijaykarnataka.com/sports/cricket/news/icc-reveals-2027-odi-world-cup-schedule-india-vs-pakistan-matches/articleshow/134623940.cms)
 
 **The Hindu**
+- [Eight students from Pune drown at Diveagar beach in Raigad](https://www.thehindu.com/news/national/maharashtra/picnic-turns-into-tragedy-as-students-drown-off-diveagar-beach-in-maharashtras-raigad/article71534310.ece)
 - [​​Bihar Flood: Fresh breach in the embankment in Saran, Gopalganj and Muzaffarpur](https://www.thehindu.com/news/national/bihar/bihar-flood-fresh-breach-in-the-embankment-in-saran-gopalganj-and-muzaffarpur/article71533681.ece)
 - [Irani Cup 2026 | Srinagar cricket ground rewrites history to outpace memories of 1983 India-West India fiasco](https://www.thehindu.com/news/national/jammu-and-kashmir/irani-cup-2026-srinagar-cricket-ground-rewrites-history-to-outpace-memories-of-1983-india-west-india-fiasco/article71534400.ece)
 - [‘Premium plot for low-value land’ : Congress leaders accuse Chhattisgarh government of providing undue benefits to Minister’s wife](https://www.thehindu.com/news/national/chhattisgarh/premium-plot-for-low-value-land-congress-leaders-accuse-chhattisgarh-government-of-providing-undue-benefits-to-ministers-wife/article71534078.ece)
@@ -71,7 +72,6 @@
 - [Government revises FASTag guidelines for Divyangjan category](https://www.thehindu.com/news/national/government-revises-fastag-guidelines-for-divyangjan-category/article71534602.ece)
 - [SCCL registers growth in coal transportation, prioritises Telangana power plants](https://www.thehindu.com/news/national/telangana/sccl-registers-growth-in-coal-transportation-prioritises-telangana-power-plants/article71533646.ece)
 - [Govt. caps sugar stock limit for dealers to 1,000 quintals ahead of festive season](https://www.thehindu.com/business/Industry/govt-caps-sugar-stock-limit-for-dealers-to-1000-quintals-ahead-of-festive-season/article71534608.ece)
-- [Pfizer-Sankar Foundation eye camp screens 1,113 patients](https://www.thehindu.com/news/national/andhra-pradesh/pfizer-sankar-foundation-eye-camp-screens-1113-patients/article71533884.ece)
 
 **Livemint**
 - [Lal Bahadur Shastri Jayanti 2026: Wishes, quotes, images to share on WhatsApp, Facebook with loved ones](https://www.livemint.com/news/trends/happy-lal-bahadur-shastri-jayanti-2026-top-wishes-quotes-by-shastri-ji-images-whatsapp-and-facebook-status-to-share-11790860786987.html)
@@ -100,6 +100,7 @@
 - [ಸಿಎಂ ನೇತೃತ್ವದ ಧರಣಿಗೆ ಮಣಿದ ಚುನಾವಣಾ ಆಯೋಗ; ಫಾರಂ-7 ದುರ್ಬಳಕೆ ಮಾಡಿದವರ ವಿರುದ್ಧ ತನಿಖೆ, ಕ್ರಮಕ್ಕೆ ಸೂಚನೆ](https://www.varthabharati.in/state/election-commission-form-7-2279590)
 
 **Asianet Kannada**
+- [ಧಾರವಾಡದಲ್ಲಿ ಮುಂದಿನ ತಿಂಗಳ ಅಚ್ಚರಿ: ಕೈದಿಗಳಿಂದಲೇ ನಡೆಯಲಿದೆ ಪೆಟ್ರೋಲ್‌ ಬಂಕ್‌!](https://kannada.asianetnews.com/karnataka-districts/petrol-bunk-in-dharwad-to-be-run-by-prisoners-begin-to-next-month-rav/articleshow-qy8p3t5)
 - [Vinay kularni: ಯೋಗೇಶ್ ಗೌಡ ಕೇಸ್‌ನಲ್ಲಿ ಮತ್ತೆ ಜೈಲು ಸೇರ್ತಾರಾ ವಿನಯ್ ಕುಲಕರ್ಣಿ, ಜಾಮೀನು ನೀಡಿದ್ದಕ್ಕೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಗರಂ ಆಗಿದ್ದೇಕೆ?](https://kannada.asianetnews.com/india-news/dharwad-yogesh-gowda-case-supreme-court-questions-vinay-kulkarni-bail-plea-rav/articleshow-mheps78)
 - [ಎತ್ತಿನಹೊಳೆ ನೀರು ಹೇಮಾವತಿಗೆ, ಅಲ್ಲಿಂದ KRS‌ಗೆ! ಈ ನಿರ್ಧಾರದ ಹಿಂದಿದೆ ಮಹತ್ವದ ಕಾರಣ](https://kannada.asianetnews.com/karnataka-districts/yettinahole-water-to-hemavathi-then-krs-the-key-reason-behind-this-decision-rav/articleshow-stibke6)
 - [ವಿಧಾನಸೌಧದ ಮೆಟ್ಟಿಲ ಮೇಲೆ ಕನ್ನಡಕ್ಕಷ್ಟೇ ಸ್ಥಾನ; ಉರ್ದು ಉತ್ಸವಕ್ಕೆ ಅನುಮತಿ ನೀಡದ ಸರ್ಕಾರ!](https://kannada.asianetnews.com/cricket-sports/vidhana-soudha-urdu-festival-cancelled-ta-narayana-gowda-kannada-language-controversy-karnataka-bmk/articleshow-urggg7v)
@@ -109,7 +110,6 @@
 - [ನೀವಷ್ಟೇ ಹೀಗೆ ಪ್ರೆಗ್ನೆನ್ಸಿ ಫೋಟೋಶೂಟ್​ ಮಾಡಿಸಿಕೊಂಡ್ರೆ ಸಾಕಾ? ನಾನೇನ್​ ಕಮ್ಮಿನಾ ಕೇಳಿದ ನಾಯಿ](https://kannada.asianetnews.com/viral/pregnancy-photoshoot-by-dog-as-celebrities-does-in-pregnant-suc/articleshow-ob1verl)
 - [ವೇಳಾಪಟ್ಟಿ ಘೋಷಣೆ ಬೆನ್ನಲ್ಲೇ, 2027ರ ಏಕದಿನ ಕ್ರಿಕೆಟ್ ವಿಶ್ವಕಪ್‌ ಟಿಕೆಟ್ ಬುಕಿಂಗ್‌ಗೆ 'ಬ್ಯಾಲೆಟ್' ಪ್ರಕ್ರಿಯೆ ಆರಂಭ: ಅರ್ಜಿ ಸಲ್ಲಿಸುವುದು ಹೇಗೆ?](https://kannada.asianetnews.com/cricket-sports/icc-mens-cricket-world-cup-2027-ticket-ballot-process-registration-details-san/articleshow-3rg1car)
 - [ಕೌನ್​ ಬನೇಗಾ ಕರೋಡ್​ಪತಿ ಶೂಟಿಂಗ್​  ವೇಳೆ ಜಾರಿಬಿದ್ದ ಅಮಿತಾಭ್ ಬಚ್ಚನ್​: ಈಗ ಹೇಗಿದ್ದಾರೆ ಬಿಗ್​ ಬಿ](https://kannada.asianetnews.com/entertainment/amitabh-bachchan-slips-during-shoot-suffers-knee-injury-little-difficulty-in-standing-up-suc/articleshow-6otbw97)
-- [ಗುಲಾಬ್ ಜಾಮೂನ್ ಒಡೆಯದೆ, ಒಳಗಡೆ ಗಂಟಾಗದೆ ಸಾಫ್ಟ್ ಆಗಿ ಬರ್ಬೇಕಾ? ಇಲ್ಲಿದೆ ಅಡುಗೆ ಭಟ್ಟರ ಈಸಿ ಟ್ರಿಕ್](https://kannada.asianetnews.com/food/why-gulab-jamun-breaks-or-turns-hard-inside-try-this-halwai-secret-recipe/articleshow-qtroub6)
 
 **News18 Kannada** — _unavailable_
 
@@ -129,12 +129,12 @@
 - [Fact Check: ಜಮೂಯಿ ದೌರ್ಜನ್ಯ ಪ್ರಕರಣ ಸಂಬಂಧ ಹರಿದಾಡುತ್ತಿರುವ ವಿಡಿಯೊ ಸುಳ್ಳು](https://www.prajavani.net/news/fact-check/fact-check-misleading-jamui-victim-video-debunked-4300846)
 - [ಸಿಎಂ ಧರಣಿಗೆ ಮಣಿದ ಆಯೋಗ](https://www.prajavani.net/news/karnataka-news/ec-orders-probe-after-cm-dk-shivakumar-protest-over-voter-list-deletion-4301759)
 - [ಪಾಕ್ ಪ್ರತಿಹೋರಾಟ ಮೆಟ್ಟಿನಿಂತ ಭಾರತ](https://www.prajavani.net/sports/other-sports/india-beats-pakistan-asian-games-hockey-semifinal-reaches-final-4300962)
+- [ಗಾಂಧೀಜಿ ನಕ್ಕರು!](https://www.prajavani.net/op-ed/churumuri/gandhiji-nakkaru-political-satire-kannada-4301017)
+- [ಕೆಜಿಎಫ್‌ಗೆ ಬಂದ ‘ಯುರೋಪಿಯನ್‌ ರೋಲರ್‌’ ಪಕ್ಷಿ](https://www.prajavani.net/district/kolar/european-roller-migratory-bird-spotted-in-kgf-karnataka-4301408)
+- [75 ವರ್ಷಗಳ ಹಿಂದೆ: ಭಾರತ ಪತ್ರಿಕಾ ಮಸೂದೆ ಬಗ್ಗೆ ಅತ್ಯಧಿಕ ಟೀಕೆ](https://www.prajavani.net/op-ed/prajavani-archive/indian-press-bill-historical-parliament-debate-anniversary-4301028)
 - [ಉದ್ಯೋಗ ಖಾತರಿ ಯೋಜನೆ ದುರ್ಬಲ: ಗ್ರಾಮೀಣ ಪ್ರದೇಶಗಳಲ್ಲಿ ತೀವ್ರ ಸಂಕಷ್ಟ](https://www.prajavani.net/op-ed/editorial/mgnrega-scheme-weakened-rural-employment-crisis-4301008)
 - [ಕಾಕ್‌ಪಿಟ್‌ ಕಲಹವೇ ಕಂಟಕವಾದಾಗ...](https://www.prajavani.net/explainer/detail/cockpit-conflicts-pilot-mental-health-incidents-smith-machar-4301753)
 - [ಗಾಂಧೀ ನಾಯಕತ್ವದ ನಿತ್ಯ ವಿಕಾಸ](https://www.prajavani.net/op-ed/articles/evolution-of-mahatma-gandhi-leadership-principles-4301021)
-- [75 ವರ್ಷಗಳ ಹಿಂದೆ: ಭಾರತ ಪತ್ರಿಕಾ ಮಸೂದೆ ಬಗ್ಗೆ ಅತ್ಯಧಿಕ ಟೀಕೆ](https://www.prajavani.net/op-ed/prajavani-archive/indian-press-bill-historical-parliament-debate-anniversary-4301028)
-- [ಗಾಂಧೀಜಿ ನಕ್ಕರು!](https://www.prajavani.net/op-ed/churumuri/gandhiji-nakkaru-political-satire-kannada-4301017)
-- [ಕೆಜಿಎಫ್‌ಗೆ ಬಂದ ‘ಯುರೋಪಿಯನ್‌ ರೋಲರ್‌’ ಪಕ್ಷಿ](https://www.prajavani.net/district/kolar/european-roller-migratory-bird-spotted-in-kgf-karnataka-4301408)
 - [ಭೂಮಾಪಕರ ಹುದ್ದೆ: ಇಂದು ಪರೀಕ್ಷೆ](https://www.prajavani.net/news/karnataka-news/land-surveyor-and-vao-recruitment-exam-karnataka-4301555)
 
 **eedina**
@@ -156,6 +156,7 @@
 - Minister (2.9)
 - Srinagar (2.6)
 - October (2.6)
+- Eight (2.6)
 - Chhattisgarh (2.6)
 - WhatsApp (2.6)
 - Facebook (2.6)
@@ -164,21 +165,20 @@
 - Saudi (1.6)
 - Fired (1.6)
 - India (1.6)
-- Mahanadi (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ગાંધીનગર ચૂંટણી : કૉંગ્રેસના 44 ઉમેદવાર ત્રણ દિવસ કેમ અજ્ઞાત સ્થળે હતા, ભાજપે શું કહ્યું?](https://www.bbc.com/gujarati/articles/cqn747yzyg66o)
-- [Accenture Stock Surges On Fiscal Q4 Beat, Outlook Amid AI Disruption Worries](https://www.investors.com/news/technology/accenture-stock-acn-accenture-earnings-news-q42026/)
-- [बॉलिवूड अभिनेत्री नुसरत भरुचाचा बालीमध्ये अपघात; स्थानिक रुग्णालयात उपचार सुरू](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/nushrratt-bharuccha-hospitalised-in-bali-after-meeting-with-an-accident/articleshow/134619114.cms)
-- [एडवांस बुकिंग: ओपनिंग डे पर 'दृश्यम 3' का धमाका, तोड़ा इन 12 फिल्मों का रिकॉर्ड](https://www.abplive.com/entertainment/bollywood/drishyam-3-box-office-opening-day-advance-booking-2026-movies-record-break-3196380)
-- [KTR : తొమ్మిదో తరగతి ఫెయిలైన రేవంత్ బ్రదర్ ఏరోస్పేస్ ఇంజనీరా..! : కేటీఆర్](https://telugu.asianetnews.com/gallery/telangana/brs-working-president-ktr-strong-comments-on-revanth-reddy-family-sfdsigq)
-- [सिर्फ वेतन के आधार पर यह तय नहीं होगा; OBC क्रीमी लेयर को लेकर हाईकोर्ट का अहम फैसला](https://www.livehindustan.com/madhya-pradesh/determination-not-based-solely-on-salary-high-court-significant-ruling-on-obc-creamy-layer-201790857003716.html)
-- [बजरंग सोनवणे यांचा बीड कारागृह प्रशासनावर सर्जिकल स्ट्राईक; वाल्मिक कराड 32 सीम कार्ड वापरत असल्याचे सांगत उडवून दिली खळबळ Bajrang Sonawane](https://sarkarnama.esakal.com/maharashtra/marathwada/bajrang-sonwane-walmik-karad-32-sim-cards-beed-jail-allegations-rm82-jp75)
-- [Maruti की इन कारों ने मचाया गदर! 30 दिन में बिकीं 2.36 लाख गाड़ियां](https://www.aajtak.in/auto/news/story/maruti-suzuki-sales-september-2026-wagon-r-brezza-auaw-dskc-2658403-2026-10-01)
-- [Asian Games 2026 Day 14: Full October 2 schedule, IST timings and Indians in action](https://sportstar.thehindu.com/asian-games/asian-games-2026-indians-in-action-day-14-october-2-schedule-india-ist-timings/article71532707.ece)
-- [क्यों पैसे देकर लड़कों संग फोटो शूट करवा रही महिलाएं... यहां वायरल है ये ट्रेंड](https://www.aajtak.in/trending/story/chinese-women-paying-male-models-romantic-photoshoot-viral-trend-tstsd-dskc-2658506-2026-10-01)
+- ['मुझे पटक-पटक के मारा गया है, जमीन पर', काजल राघवानी ने सुनाई अपने अब्यूसिव रिलेशनशिप की दर्द भरी कहानी](https://navbharattimes.indiatimes.com/entertainment/bhojpuri-cinema/bhojpuri-actress-kajal-raghwani-opens-up-about-her-abusive-relationship-painful-past-in-rise-and-fall-season-2/articleshow/134619822.cms)
+- [Full-Body Scanners Soon At Airports In Five Metros, Three Other Cities](https://www.ndtv.com/india-news/full-body-scanners-soon-at-airports-in-five-metros-three-others-12125939)
+- [നിയമനങ്ങൾ യുഡിഎഫിൻ്റെ ഏകകണ്ഠമായ തീരുമാനം: അടൂർ പ്രകാശിനെ തള്ളി കെ മുരളീധരൻ](https://www.reporterlive.com/topnews/kerala/2026/10/01/udf-appointments-unanimous-decision-k-muraleedharan-rejects-adoor-prakash)
+- [Amazon's Kindle just got a major upgrade: faster speeds, aluminum shell, and a long](https://www.androidpolice.com/the-kindle-is-now-available-in-aluminum-for-the-first-time-ever/)
+- [Amazon launches all-new Kindles with new designs and colors](https://mashable.com/tech/amazon-kindle-new-devices-launch-oct-2026)
+- [Preparing for the Next Infectious Disease Threat: Interview with Ronald Nahass](https://www.emjreviews.com/microbiology-infectious-diseases/congress-review/preparing-for-the-next-infectious-disease-threat-interview-with-ronald-nahass/)
+- [Nandigram By-Election: ভোটের আগে নিশ্ছিদ্র নিরাপত্তায় নন্দীগ্রাম, ৩৭ কোম্পানি কেন্দ্রীয় বাহিনীতে কড়া নজর ৩২৩ বুথে](https://bengali.news18.com/news/west-bengal/nandigram-bypoll-security-37-companies-capf-323-polling-stations-sal-l18-local18-2914174.html)
+- [Prajakta Mali on Lalit Prabhakar Kasab: ललितला कसाबच्या भूमिकेत पाहताच प्राजक्ता माळीची खास पोस्ट, म्हणाली,' आदित्यपेक्षा कसाबच्या भूमिकेतच जास्त..'](https://marathi.abplive.com/entertainment/prajakta-mali-reacts-to-lalit-prabhakar-as-ajmal-kasab-prahar-1440896)
+- [HDFC Bank names ICICI veteran Anup Bagchi as new MD & CEO, ending succession suspense](https://www.cnbctv18.com/market/hdfc-bank-names-icici-veteran-anup-bagchi-as-new-md-ceo-ending-succession-kaizad-bharucha-19998657.htm)
+- [HDFC Bank names Anup Bagchi as its new MD and CEO](https://www.moneycontrol.com/news/business/banks/hdfc-bank-appoints-anup-bagchi-as-its-new-md-and-ceo-14042973.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
