@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-02 20:37:30
+# India Trending Report — 2026-10-02 21:03:00
 
 ## Google Trends (India) — top trending searches
-1. [दृश्यम](https://trends.google.com/trending/rss?geo=IN)
-2. [sebastiano esposito](https://trends.google.com/trending/rss?geo=IN)
-3. [poland vs romania](https://trends.google.com/trending/rss?geo=IN)
-4. [bosnia and herzegovina vs sweden](https://trends.google.com/trending/rss?geo=IN)
-5. [moneycontrol](https://trends.google.com/trending/rss?geo=IN)
-6. [france vs italy](https://trends.google.com/trending/rss?geo=IN)
-7. [dino morea arrested](https://trends.google.com/trending/rss?geo=IN)
-8. [অন্নপূর্ণা যোজনা](https://trends.google.com/trending/rss?geo=IN)
-9. [2027](https://trends.google.com/trending/rss?geo=IN)
-10. [ఏనుగు](https://trends.google.com/trending/rss?geo=IN)
+1. [daniel maldini](https://trends.google.com/trending/rss?geo=IN)
+2. [दृश्यम](https://trends.google.com/trending/rss?geo=IN)
+3. [sebastiano esposito](https://trends.google.com/trending/rss?geo=IN)
+4. [poland vs romania](https://trends.google.com/trending/rss?geo=IN)
+5. [bosnia and herzegovina vs sweden](https://trends.google.com/trending/rss?geo=IN)
+6. [moneycontrol](https://trends.google.com/trending/rss?geo=IN)
+7. [france vs italy](https://trends.google.com/trending/rss?geo=IN)
+8. [dino morea arrested](https://trends.google.com/trending/rss?geo=IN)
+9. [অন্নপূর্ণা যোজনা](https://trends.google.com/trending/rss?geo=IN)
+10. [2027](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [From Shiv-on to off: Musk’s half-Indian partner goes into ex space](https://timesofindia.indiatimes.com/world/us/from-shiv-on-to-off-musks-half-indian-partner-goes-into-ex-space/articleshow/134645330.cms)
 - [Warring out, Pargat in: Has Congress solved Punjab crisis or set stage for another twist?](https://timesofindia.indiatimes.com/india/warring-out-channi-not-in-yet-has-congress-solved-punjab-crisis-or-created-more-confusion/articleshow/134640757.cms)
 - [Under fire, EC orders special drive to add genuine electors 'left out' during SIR](https://timesofindia.indiatimes.com/india/under-fire-ec-orders-special-drive-to-add-genuine-electors-left-out-during-sir/articleshow/134646432.cms)
-- [Prison room, bed, newspaper — That is ‘baron’ Veeramani’s world now](https://timesofindia.indiatimes.com/city/chennai/prison-room-bed-newspaper-that-is-baron-veeramanis-world-now/articleshow/134645679.cms)
-- [Akhilesh's Rajya Sabha picks: SP's master strategy or 'PDA' contradiction?](https://timesofindia.indiatimes.com/india/akhilesh-yadavs-rajya-sabha-picks-samajwadi-partys-master-strategy-or-pda-contradiction/articleshow/134642605.cms)
+- [Ex-CEC says deleted voters can't use Form 6; EC cites rules to counter claim](https://timesofindia.indiatimes.com/india/deleted-voters-cant-use-form-6-ex-cec-ec-points-to-rules/articleshow/134646505.cms)
+- [‘Vote chori’ protests: Rahul says Lathi can stop a crowd, but not a question](https://timesofindia.indiatimes.com/india/lathi-can-stop-a-crowd-but-not-a-question-rahul/articleshow/134646567.cms)
 - [MacKenzie Scott gave $30m to housing nonprofit; a year later, it unveiled 10-year plan](https://timesofindia.indiatimes.com/technology/tech-news/in-2024-jeff-bezos-ex-wife-mackenzie-scott-gave-30-million-to-a-silicon-valley-housing-nonprofit-a-year-later-it-unveiled-a-10-year-plan-to-widen-access-to-affordable-homes-in-the-bay-area/articleshow/134643448.cms)
-- [Mississippi couple wins $41,920 after loggers cut 1,299 trees on their land](https://timesofindia.indiatimes.com/world/us/in-2022-loggers-working-for-neighbours-crossed-onto-a-mississippi-couples-land-and-cut-1299-trees-their-handwritten-tally-helped-secure-a-41920-award-later-upheld-on-appeal/articleshow/134619743.cms)
+- [Prison room, bed, newspaper — That is ‘baron’ Veeramani’s world now](https://timesofindia.indiatimes.com/city/chennai/prison-room-bed-newspaper-that-is-baron-veeramanis-world-now/articleshow/134645679.cms)
 - [Father got 3 bigha in 1972; HC protects married daughter's land claim](https://timesofindia.indiatimes.com/business/india-business/in-1972-father-got-3-bigha-of-land-from-himachal-government-but-patta-was-never-signed-why-hc-allowed-married-daughters-inheritance-appeal-what-role-hindu-succession-act-plays/articleshow/134636006.cms)
-- [AI and the monk: Anthropic goes for swami and friends to tame Claude](https://timesofindia.indiatimes.com/world/us/ai-and-the-monk-anthropic-goes-for-swami-and-friends-to-tame-claude/articleshow/134643599.cms)
-- [Kevin O’Leary-backed Utah AI data center plan downsized after local backlash](https://timesofindia.indiatimes.com/world/us/kevin-oleary-backed-a-proposed-40000-acre-utah-ai-data-center-district-with-up-to-9-gigawatts-of-power-months-later-the-project-has-been-downsized-and-remains-stalled-after-local-backlash/articleshow/134633966.cms)
+- [Cases clubbed only after CJI spoke to presiding judges](https://timesofindia.indiatimes.com/india/cases-clubbed-only-after-cji-spoke-to-presiding-judges/articleshow/134646588.cms)
+- [Akhilesh's Rajya Sabha picks: SP's master strategy or 'PDA' contradiction?](https://timesofindia.indiatimes.com/india/akhilesh-yadavs-rajya-sabha-picks-samajwadi-partys-master-strategy-or-pda-contradiction/articleshow/134642605.cms)
 
 **NDTV**
 - ['Will Strengthen Alliance With Samajwadi Party': New UP Congress Chief Aradhana Misra](https://www.ndtv.com/india-news/will-strengthen-alliance-with-samajwadi-party-new-up-congress-chief-aradhana-mishra-12131812#publisher=newsstand)
@@ -169,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Chahal retires from first-class cricket, hunger for ODIs and T20Is 'very much alive'](https://www.cricinfo.com/story/yuzvendra-chahal-retires-from-first-class-cricket-hunger-for-odis-and-t20is-very-much-alive-1556901)
-- [Nimrat Kaur Father Death Story In Terrorist Attack ; दहशतवाद्यांनी लष्करी कपडे घालून फसवलं, ड्युटीवर गेलेले वडील शवपेटीतून परतले, निमरतने सांगितली भावुक आठवण](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/nimrat-kaur-martyred-father-killed-by-terrorists/articleshow/134634913.cms)
-- [চাপের মুখে বাদ পড়া ভোটারদের নাম তোলার তোড়জোড়! বিএলও-দের বাড়ি গিয়ে ফর্ম-৬ পূরণ করতে বলল কমিশন](https://www.anandabazar.com/india/eci-has-ordered-a-massive-nationwide-special-drive-directing-blos-across-states-and-union-territories-dgtl/cid/1716912)
-- [युजवेंद्र चहल हो गए र‍िटायर, अचानक फर्स्ट क्लास क्रिकेट से संन्यास का ऐलान](https://www.aajtak.in/sports/cricket/story/yuzvendra-chahal-first-class-cricket-retirement-tspok-dskc-2659239-2026-10-02)
-- [लद्दाख पर बड़े फैसले से चीन को लगेगी मिर्ची, भारत के नए नक्शे में ऑक्साई चिन का डेहरा कंपास, विस्तार से जानिए](https://navbharattimes.indiatimes.com/state/jammu-and-kashmir/srinagar/ladakh-new-location-in-survey-of-india-map-recognition-of-28-geographical-locations-in-ladakh-including-aksai-chin-dehra-compas/articleshow/134635322.cms)
-- [વડોદરામાં આજે ‘નો યુપીઆઈ ડે’ મનાવી વેપારીઓએ પ્લે કાર્ડ સાથે વિરોધ નોંધાવ્યો](https://www.gujaratsamachar.com/news/baroda/traders-protested-with-placards-in-vadodara-today-observing-no-upi-day-57948481623)
-- ['মাছে-ভাতে' ব্রাজিল! তবে ভরসা নিজেদের রাঁধুনিতে, ময়দানে নামার আগে সেলেসাওদের মেনুতে কী কী থাকছে?](https://www.thewall.in/football/brazil-football-team-kolkata-strict-diet-fish-feast-own-chefs/tid/206118)
-- [ബിജെപി നേതാവിനെ കൊലപ്പെടുത്താന്‍ ഭാര്യയും കാമുകനും പദ്ധതിയിട്ടു; ബൈക്ക് കത്തിച്ച കേസില്‍ ട്വിസ്റ്റ്](https://www.manoramanews.com/india/states/2026/10/02/andhra-pradesh-bjp-leader-wife-lover-arrested-bike-fire-case-tirupati-twist-in-enquiry.html)
-- [Phantom jams, traffic that moves like fluid, forced merges: The physics behind Barapullah Phase-III gridlock](https://www.hindustantimes.com/ht-explainers/phantom-jams-traffic-that-moves-like-fluid-forced-merges-the-physics-behind-barapullah-phase-iii-gridlock-101790928086523.html)
-- [‘ভেবেছিলাম SRK হব!’ পরপর ফ্লপ ছবি, ডুবন্ত কেরিয়ারের মোড় ঘোরায় একতার সিরিয়াল, মেলে টিভির ‘শাহরুখ খান’ তকমা](https://www.hindustantimes.com/bangla/entertainment/from-flop-bollywood-debut-to-small-screen-royalty-the-untold-journey-of-iqbal-khan-srk-of-indian-television-271790888015872.html)
+- [Dino Morea summoned again by EOW in Mithi River desilting case, questioned over alleged links](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dino-morea-summoned-again-by-eow-in-mithi-river-desilting-case-questioned-over-alleged-links/articleshow/134635715.cms)
+- [Yuzvendra Chahal calls time on first-class career](https://www.cricbuzz.com/cricket-news/140368/yuzvendra-chahal-retires-from-first-class-cricket)
+- [ఫాంటాసి అండ్ ఎమోషనల్ డ్రామా 'డోంట్ ట్రబుల్ ది ట్రబుల్'](https://www.telugutimes.net/cinema/cinema-reviews/dont-trouble-the-trouble-movie-review-424548.html)
+- [ഇന്ത്യയെ ബ്രസീൽ ‘ബഹുമാനിക്കുന്നു’ എന്ന് ആഞ്ചലോട്ടി; ചാർട്ടർ വിമാനത്തിൽ എത്തി കാനറിപ്പട; കോടികൾ മുടക്കിയതിൽ വിമർശനം](https://www.manoramaonline.com/sports/football/2026/10/02/full-respect-for-india-says-brazil-manager-carlo-ancelotti.html)
+- [What happens in the brain when cannabis generates anxiety?](https://medicalxpress.com/news/2026-10-brain-cannabis-generates-anxiety.html)
+- [Punjab: BSF ਨੇ ਬਾਰਡਰ ਪਾਰ ਕਰਕੇ ਭਾਰਤ ‘ਚ ਦਾਖਲ ਹੋ ਰਹੇ ਦੋ ਘੁਸਪੈਠੀਏ ਕੀਤੇ ਢੇਰ](https://wishavwarta.in/punjab-bsf-neutralizes-two-intruders-crossing-border-into-india/)
+- [Israel: ఇజ్రాయెల్‌కు హైజాక్‌ కొత్తేమీ కాదు.. నాడు నెతన్యాహు సోదరుడే హీరో](https://www.eenadu.net/telugu-news/world/netanyahu-brother-daring-operation-to-save-100-hostages/0801/126178398)
+- [How more personalised treatment can change gynaecological cancer care](https://www.hindustantimes.com/ht-insight/public-health/how-more-personalised-treatment-can-change-gynaecological-cancer-care-101790931055415.html)
+- [मंतर छावनी में तब्दील, इंटरनेट और 12 मेट्रो स्टेशन बंद, मुंबई में होगा CJP का प्रदर्शन](https://www.indiatv.in/india/politics/cec-gyanesh-kumar-resignation-demand-opposition-in-delhi-cjp-protests-in-mumbai-live-2026-10-02-1246508)
+- [युजवेंद्र चहल ने अचानक संन्यास का किया ऐलान, अधूरे सपने के साथ हुए रिटायर](https://www.abplive.com/sports/cricket/yuzvendra-chahal-announces-retirement-from-first-class-cricket-regret-never-made-india-test-debut-3196741)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
