@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-10-02 17:36:59",
+  "generated_at": "2026-10-02 18:03:44",
   "google_trends": [
+    {
+      "title": "france vs italy",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "dino morea arrested",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "\u0985\u09a8\u09cd\u09a8\u09aa\u09c2\u09b0\u09cd\u09a3\u09be \u09af\u09cb\u099c\u09a8\u09be",
       "traffic": null,
@@ -18,11 +28,6 @@
     },
     {
       "title": "super league kerala",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "dino morea",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
@@ -45,22 +50,21 @@
       "title": "novak djokovic",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "\u0d2e\u0d34",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
     }
   ],
   "outlets": {
     "Times of India": [
       {
-        "title": "Akhilesh's Rajya Sabha picks: SP's master strategy or 'PDA' contradiction?",
-        "link": "https://timesofindia.indiatimes.com/india/akhilesh-yadavs-rajya-sabha-picks-samajwadi-partys-master-strategy-or-pda-contradiction/articleshow/134642605.cms"
-      },
-      {
         "title": "Warring out, Pargat in: Has Congress solved Punjab crisis or set stage for another twist?",
         "link": "https://timesofindia.indiatimes.com/india/warring-out-channi-not-in-yet-has-congress-solved-punjab-crisis-or-created-more-confusion/articleshow/134640757.cms"
+      },
+      {
+        "title": "SIR under review: Former SC, HC judges to examine 'validity' of voter roll revision",
+        "link": "https://timesofindia.indiatimes.com/india/sir-under-review-former-sc-hc-judges-to-examine-constitutional-statutory-validity-of-voter-roll-revision/articleshow/134644487.cms"
+      },
+      {
+        "title": "Akhilesh's Rajya Sabha picks: SP's master strategy or 'PDA' contradiction?",
+        "link": "https://timesofindia.indiatimes.com/india/akhilesh-yadavs-rajya-sabha-picks-samajwadi-partys-master-strategy-or-pda-contradiction/articleshow/134642605.cms"
       },
       {
         "title": "AI and the monk: Anthropic goes for swami and friends to tame Claude",
@@ -71,28 +75,24 @@
         "link": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/mohsin-naqvi-to-skip-india-pakistan-asian-games-gold-medal-match-due-to-prior-commitments-acc-confirms/articleshow/134638342.cms"
       },
       {
-        "title": "Assam nightclub horror: Woman stripped, kicked on floor; manager detained",
-        "link": "https://timesofindia.indiatimes.com/city/guwahati/assam-nightclub-horror-woman-stripped-kicked-on-floor-manager-detained/articleshow/134642832.cms"
-      },
-      {
         "title": "MacKenzie Scott gave $30m to housing nonprofit; a year later, it unveiled 10-year plan",
         "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-2024-jeff-bezos-ex-wife-mackenzie-scott-gave-30-million-to-a-silicon-valley-housing-nonprofit-a-year-later-it-unveiled-a-10-year-plan-to-widen-access-to-affordable-homes-in-the-bay-area/articleshow/134643448.cms"
       },
       {
-        "title": "Why Putin may risk it all to keep Kaliningrad; India link to Russia exclave",
-        "link": "https://timesofindia.indiatimes.com/world/europe/why-putin-cannot-let-go-of-kaliningrad-the-suwaki-gap-vulnerability-kremlins-nuclear-warning-and-india-link/articleshow/134637767.cms"
+        "title": "Assam nightclub horror: Woman stripped, kicked on floor; manager detained",
+        "link": "https://timesofindia.indiatimes.com/city/guwahati/assam-nightclub-horror-woman-stripped-kicked-on-floor-manager-detained/articleshow/134642832.cms"
       },
       {
         "title": "Father got 3 bigha in 1972; HC protects married daughter's land claim",
         "link": "https://timesofindia.indiatimes.com/business/india-business/in-1972-father-got-3-bigha-of-land-from-himachal-government-but-patta-was-never-signed-why-hc-allowed-married-daughters-inheritance-appeal-what-role-hindu-succession-act-plays/articleshow/134636006.cms"
       },
       {
-        "title": "Israeli investigators to question Omani co-pilot in UAE-led flydubai probe: Report",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/israeli-investigators-to-question-omani-co-pilot-in-uae-led-flydubai-probe-report/articleshow/134642111.cms"
+        "title": "Fires, clashes and mass arrests as student protests turn violent in France: Video",
+        "link": "https://timesofindia.indiatimes.com/world/europe/fires-clashes-and-mass-arrests-as-student-protests-turn-violent-in-france-video/articleshow/134644452.cms"
       },
       {
-        "title": "Rahul demands CEC Gyanesh Kumar\u2019s resignation as protests erupt in Delhi, Mumbai",
-        "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-demands-cec-gyanesh-kumars-resignation-as-protests-erupt-in-delhi-mumbai/articleshow/134643388.cms"
+        "title": "Why Putin may risk it all to keep Kaliningrad; India link to Russia exclave",
+        "link": "https://timesofindia.indiatimes.com/world/europe/why-putin-cannot-let-go-of-kaliningrad-the-suwaki-gap-vulnerability-kremlins-nuclear-warning-and-india-link/articleshow/134637767.cms"
       }
     ],
     "NDTV": [
@@ -139,6 +139,10 @@
     ],
     "Hindustan Times": [
       {
+        "title": "\u2018Are you afraid of BJP\u2019: Stalin targets CM Vijay for alleged silence over SIR-CEC",
+        "link": "https://www.hindustantimes.com/india-news/stalin-targets-vijay-for-alleged-silence-over-sir-cec-row-are-you-afraid-of-bjp-dmk-tvk-tamil-nadu-october-6-bypoll-101790951070344.html"
+      },
+      {
         "title": "Congress appoints Aradhna Mishra Mona as new UP chief, Imran Masood as working president ahead of 2027 polls",
         "link": "https://www.hindustantimes.com/india-news/congress-appoints-aradhna-mishra-mona-as-new-up-chief-imran-masood-working-president-ahead-of-2027-polls-101790957268714.html"
       },
@@ -173,10 +177,6 @@
       {
         "title": "Milind Deora writes to PM Modi, seeks Ashok Chakra for flydubai Captain Machchhar",
         "link": "https://www.hindustantimes.com/india-news/milind-deora-writes-to-pm-modi-seeks-ashok-chakra-for-flydubai-captain-machchhar-101790947836192.html"
-      },
-      {
-        "title": "ED summons MP Avinash Reddy over  \u20b940 crore Vivekananda Reddy murder money trail",
-        "link": "https://www.hindustantimes.com/india-news/ed-summons-mp-avinash-reddy-over-40-crore-vivekananda-reddy-murder-money-trail-101790947117372.html"
       }
     ],
     "Vijay Karnataka": [
@@ -223,12 +223,36 @@
     ],
     "The Hindu": [
       {
-        "title": "If Gyanesh Kumar goes, Modi will have to follow suit: Dipke",
-        "link": "https://www.thehindu.com/news/national/gyanesh-its-done-bro-echoes-as-thousands-join-cjp-protest-seeking-cecs-resignation/article71537570.ece"
+        "title": "Day after arrest, \u2018Mohammad\u2019 Deepak gets bail in \u2018abuse\u2019 case",
+        "link": "https://www.thehindu.com/news/national/day-after-arrest-mohammad-deepak-gets-bail-in-abuse-case/article71537013.ece"
       },
       {
         "title": "Pay the Global South for climate damage, but only if it prices carbon, says economist Greenstone",
         "link": "https://www.thehindu.com/sci-tech/energy-and-environment/pay-the-global-south-for-climate-damage-but-only-if-it-prices-carbon-says-economist-greenstone/article71537394.ece"
+      },
+      {
+        "title": "Photo exhibition on Mahatma marks Gandhi Jayanti at ANU",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/photo-exhibition-on-mahatma-marks-gandhi-jayanti-at-anu/article71537560.ece"
+      },
+      {
+        "title": "Two \u2018intruders\u2019 shot dead by BSF along Punjab Border, Pakistan Rangers agrees to take back bodies",
+        "link": "https://www.thehindu.com/news/national/two-suspected-pakistani-intruders-shot-dead-by-bsf-in-punjab/article71536515.ece"
+      },
+      {
+        "title": "Tigress T138 finds a new home at Buxa Tiger Reserve",
+        "link": "https://www.thehindu.com/news/national/west-bengal/tigress-released-in-bengals-buxa-tiger-reserve-plans-afoot-for-three-more-by-end-of-year/article71536359.ece"
+      },
+      {
+        "title": "A.P. government to note media commission proposal: Minister Kondapalli Srinivas",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-government-to-note-media-commission-proposal-minister-kondapalli-srinivas/article71537245.ece"
+      },
+      {
+        "title": "Protests held across country demanding CEC Gyanesh Kumar\u2019s ouster, hundreds detained",
+        "link": "https://www.thehindu.com/news/national/protests-held-across-country-demanding-cec-gyanesh-kumars-ouster-hundreds-detained/article71537923.ece"
+      },
+      {
+        "title": "If Gyanesh Kumar goes, Modi will have to follow suit: Dipke",
+        "link": "https://www.thehindu.com/news/national/gyanesh-its-done-bro-echoes-as-thousands-join-cjp-protest-seeking-cecs-resignation/article71537570.ece"
       },
       {
         "title": "SIR: ECI asks BLOs to revisit deleted list, ensure those eligible but left out are re-enrolled within a month",
@@ -237,33 +261,13 @@
       {
         "title": "BJP sought scrutiny, not deletion of names: Karnataka MLA",
         "link": "https://www.thehindu.com/news/national/karnataka/bjp-sought-scrutiny-not-deletion-no-violation-of-eci-sir-rules-says-mla-in-belagavi-karnataka/article71536252.ece"
-      },
-      {
-        "title": "Pralhad Joshi to hold a meeting with sugarcane farmers on October 12",
-        "link": "https://www.thehindu.com/news/national/karnataka/pralhad-joshi-to-hold-a-meeting-with-sugarcane-farmers-on-october-12/article71536994.ece"
-      },
-      {
-        "title": "Samajwadi Party preaches social justice but gives tickets to the privileged, Mayawati alleges",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/samajwadi-party-preaches-social-justice-but-gives-tickets-to-the-privileged-mayawati-alleges/article71537830.ece"
-      },
-      {
-        "title": "Congress appoints Pargat Singh as new Punjab chief, Warring resigns",
-        "link": "https://www.thehindu.com/news/national/punjab/amarinder-singh-raja-warring-resigns-as-congress-punjab-chief-hands-resignation-to-rahul-gandhi/article71536611.ece"
-      },
-      {
-        "title": "Gandhi Hill hosts Gandhi Jayanti celebrations in Vijayawada",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/gandhi-hill-hosts-gandhi-jayanti-celebrations-in-vijayawada/article71538065.ece"
-      },
-      {
-        "title": "Gandhi\u2019s teachings will continue to inspire all generations",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/gandhis-teachings-will-continue-to-inspire-all-generations/article71537457.ece"
-      },
-      {
-        "title": "Blood donation camp held in Vijayawada to mark Gandhi, Sastry Jayantis",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/blood-donation-camp-held-in-vijayawada-to-mark-gandhi-sastry-jayantis/article71537854.ece"
       }
     ],
     "Livemint": [
+      {
+        "title": "Putin warns Russia will use \u2018all weapons\u2019 against NATO aggression: Why Kaliningrad is latest flashpoint",
+        "link": "https://www.livemint.com/news/world/putin-warns-russia-will-use-all-weapons-against-nato-aggression-why-kaliningrad-is-latest-flashpoint-11790961804871.html"
+      },
       {
         "title": "Tukaram Mundhe in action! Maharashtra FDA cancels Cipla's Pune drug sale licence",
         "link": "https://www.livemint.com/news/india/tukaram-mundhe-in-action-maharashtra-fda-cancels-ciplas-pune-drug-sale-licence-11790960000968.html"
@@ -299,10 +303,6 @@
       {
         "title": "Dipke takes 'incompetent' jab at govt as thousands attend CJP's protest at Shivaji Park to seek CEC's resignation",
         "link": "https://www.livemint.com/news/india/dipke-takes-incompetent-jab-at-govt-as-thousands-attend-cjps-protest-at-shivaji-park-to-seek-cecs-resignation-11790948117811.html"
-      },
-      {
-        "title": "FlyDubai incident: Israeli plumber says TV show taught him how to stabilise plane; where to watch the show on OTT?",
-        "link": "https://www.livemint.com/news/trends/flydubai-incident-israeli-plumber-says-tv-show-taught-him-how-to-stabilise-plane-where-to-watch-the-show-on-ott-11790942761582.html"
       }
     ],
     "Moneycontrol": [
@@ -349,6 +349,14 @@
     ],
     "Vartha Bharati": [
       {
+        "title": "Mangaluru | \u0cb9\u0cbe\u0c9c\u0ccd \u0caf\u0cc6\u0ca8\u0cc6\u0caa\u0ccb\u0caf \u0cae\u0cc1\u0cb9\u0cae\u0ccd\u0cae\u0ca6\u0ccd \u0c95\u0cc1\u0c82\u0c9e\u0cbf\u0c97\u0cc6 \u0cb8\u0ca8\u0ccd\u0cae\u0cbe\u0ca8",
+        "link": "https://www.varthabharati.in/DakshinaKannada/mangaluru-felicitation-for-haj-yenepoya-mohammed-kunhi-2279835"
+      },
+      {
+        "title": "Vitla | \u0cb8\u0ccd\u0cb5\u0c9a\u0ccd\u0c9b \u0cad\u0cbe\u0cb0\u0ca4\u0ccd \u0cae\u0cbf\u0cb7\u0ca8\u0ccd \u0c85\u0ca1\u0cbf\u0caf\u0cb2\u0ccd\u0cb2\u0cbf 3 \u0c9f\u0cbf\u0caa\u0cbf\u0ca1\u0cbf \u0cb8\u0cbe\u0cae\u0cb0\u0ccd\u0ca5\u0ccd\u0caf\u0ca6 \u0c8e\u0c82\u0c86\u0cb0\u0ccd\u200c\u0c8e\u0cab\u0ccd \u0c98\u0c9f\u0c95\u0c95\u0ccd\u0c95\u0cc6 \u0cb8\u0c82\u0cb8\u0ca6 \u0c95\u0ccd\u0caf\u0cbe.\u0c9a\u0ccc\u0c9f \u0c9a\u0cbe\u0cb2\u0ca8\u0cc6",
+        "link": "https://www.varthabharati.in/DakshinaKannada/vitla-mp-capt-chouta-inaugurates-3-tpd-capacity-mrf-unit-under-swachh-bharat-mission-2279834"
+      },
+      {
         "title": "\u0cad\u0cbe\u0cb0\u0ca4\u0c95\u0ccd\u0c95\u0cc2 \u0cac\u0c82\u0ca4\u0cc1 Apple Pay: \u0c87\u0ca6\u0cc1 \u0cb9\u0cc7\u0c97\u0cc6 \u0c95\u0cbe\u0cb0\u0ccd\u0caf\u0ca8\u0cbf\u0cb0\u0ccd\u0cb5\u0cb9\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6? \u0c87\u0ca6\u0ca8\u0ccd\u0ca8\u0cc1 \u0cac\u0cb3\u0cb8\u0cc1\u0cb5\u0cc1\u0ca6\u0cc1 \u0cb9\u0cc7\u0c97\u0cc6?",
         "link": "https://www.varthabharati.in/vishesha-varadigalu/apple-pay-comes-to-india-after-12-years-how-it-works-what-users-need-to-know-2279833"
       },
@@ -379,17 +387,17 @@
       {
         "title": "Flydubai \u0cb8\u0cb9 \u0caa\u0cc8\u0cb2\u0c9f\u0ccd \u0ca8\u0cca\u0c82\u0ca6\u0cbf\u0c97\u0cc6 \u0c87\u0cb0\u0cbe\u0ca8\u0ccd \u0c97\u0cc6 \u0cb8\u0c82\u0caa\u0cb0\u0ccd\u0c95\u0cb5\u0cbf\u0ca6\u0ccd\u0ca6\u0cb0\u0cc6 \u0caa\u0ccd\u0cb0\u0cac\u0cb2 \u0ca6\u0cbe\u0cb3\u0cbf: \u0c9f\u0ccd\u0cb0\u0c82\u0caa\u0ccd \u0c8e\u0c9a\u0ccd\u0c9a\u0cb0\u0cbf\u0c95\u0cc6",
         "link": "https://www.varthabharati.in/international/trump-warns-of-a-massive-attack-if-iran-has-any-connection-to-the-flydubai-co-pilot-2279826"
-      },
-      {
-        "title": "Flydubai \u0c98\u0c9f\u0ca8\u0cc6\u0caf\u0cc1 \u0cad\u0caf\u0ccb\u0ca4\u0ccd\u0caa\u0cbe\u0ca6\u0c95 \u0c95\u0cc3\u0ca4\u0ccd\u0caf: UAE",
-        "link": "https://www.varthabharati.in/international/flydubai-incident-was-a-terrorist-act-uae-2279824"
-      },
-      {
-        "title": "Flydubai \u0caa\u0cc8\u0cb2\u0c9f\u0ccd \u0cb8\u0ccd\u0cae\u0cbf\u0ca4\u0ccd \u0cae\u0c9a\u0ccd\u0c9a\u0cb0\u0ccd \u0c85\u0cac\u0cc1\u0ca7\u0cbe\u0cac\u0cbf\u0c97\u0cc6 \u0c8f\u0cb0\u0ccd\u200c \u0cb2\u0cbf\u0cab\u0ccd\u0c9f\u0ccd",
-        "link": "https://www.varthabharati.in/international/flydubai-pilot-smith-machar-airlifted-to-abu-dhabi-2279825"
       }
     ],
     "Asianet Kannada": [
+      {
+        "title": "\u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0ca6\u0cbf\u0ca8 \u0ca8\u0cc1\u0c97\u0ccd\u0c97\u0cc6 \u0cb8\u0cca\u0caa\u0ccd\u0caa\u0cc1 \u0ca4\u0cbf\u0c82\u0ca6\u0cc1 \u0ca8\u0ccb\u0ca1\u0cbf \u0c9a\u0cc7\u0c82\u0c9c\u0cb8\u0ccd.. \u0ca8\u0cbf\u0cae\u0ccd\u0cae\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cc0\u0cb5\u0cc7 \u0ca8\u0c82\u0cac\u0ccb\u0ca6\u0cc1 \u0c95\u0cb7\u0ccd\u0c9f!",
+        "link": "https://kannada.asianetnews.com/webstories/health-life/7-amazing-health-benefits-of-eating-moringa-leaves-daily-to-know-here-wcusznp"
+      },
+      {
+        "title": "\u0cac\u0cc7\u0c97 \u0ca4\u0cc2\u0c95 \u0c87\u0cb3\u0cbf\u0cb8\u0cac\u0cc7\u0c95\u0cc7? \u0c88 \u0c86\u0cb9\u0cbe\u0cb0\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb8\u0cc7\u0cb5\u0cbf\u0cb8\u0cbf \u0cb8\u0cbe\u0c95\u0cc1.. \u0cae\u0ccd\u0caf\u0cbe\u0c9c\u0cbf\u0c95\u0ccd \u0ca8\u0ccb\u0ca1\u0cbf!",
+        "link": "https://kannada.asianetnews.com/webstories/health-life/7-best-low-calorie-foods-for-quick-weight-loss-to-know-here-of4alny"
+      },
       {
         "title": "\u0cab\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd\u0c9c\u0ccd\u200c\u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0c88 \u0cb8\u0ca3\u0ccd\u0ca3 \u0cac\u0ca6\u0cb2\u0cbe\u0cb5\u0ca3\u0cc6 \u0cae\u0cbe\u0ca1\u0cbf \u0ca8\u0ccb\u0ca1\u0cbf.. \u0c95\u0cb0\u0cc6\u0c82\u0c9f\u0ccd \u0cac\u0cbf\u0cb2\u0ccd \u0cb6\u0cc7. 20 \u0cb0\u0cb7\u0ccd\u0c9f\u0cc1 \u0c95\u0ca1\u0cbf\u0cae\u0cc6\u0caf\u0cbe\u0c97\u0cc1\u0ca4\u0ccd\u0ca4\u0cc6!",
         "link": "https://kannada.asianetnews.com/gallery/life/how-to-reduce-electricity-bill-in-kannada-s87rpah"
@@ -421,18 +429,18 @@
       {
         "title": "\u0cae\u0cbf\u0cb8\u0cb8\u0ccd\u200b \u0caf\u0cc2\u0ca8\u0cbf\u0c9f\u0cbf \u0cb5\u0cb0\u0ccd\u0cb2\u0ccd\u0ca1\u0ccd\u200b \u0c95\u0cbf\u0cb0\u0cc0\u0c9f \u0c97\u0cc6\u0ca6\u0ccd\u0ca6 \u0cad\u0cbe\u0cb0\u0ca4\u0ca6 \u0cae\u0cb9\u0cbf\u0cb3\u0cc6: \u0caf\u0cbe\u0cb0\u0cc0 \u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3 \u0cad\u0cbe\u0cb0\u0ca4\u0ca6 \u0cb8\u0cc1\u0c82\u0ca6\u0cb0\u0cbf \u0c86\u0cb6\u0cbe",
         "link": "https://kannada.asianetnews.com/fashion/telanganas-asha-deepika-attaluri-crowned-mrs-unity-world-2026-suc/articleshow-iy415ln"
-      },
-      {
-        "title": "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6 \u0cae\u0c95\u0ccd\u0c95\u0cb3 \u0caa\u0cc8\u0cb2\u0c9f\u0ccd \u0c95\u0ca8\u0cb8\u0cbf\u0c97\u0cc6 \u0cb0\u0cc6\u0c95\u0ccd\u0c95\u0cc6: \u0cb5\u0cbf\u0c9c\u0caf\u0caa\u0cc1\u0cb0 \u0cb5\u0cbf\u0cae\u0cbe\u0ca8 \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0cb5\u0cbf\u0cae\u0cbe\u0ca8 \u0c9a\u0cbe\u0cb2\u0ca8\u0cbe \u0ca4\u0cb0\u0cac\u0cc7\u0ca4\u0cbf \u0c95\u0cc7\u0c82\u0ca6\u0ccd\u0cb0 \u0cb8\u0ccd\u0ca5\u0cbe\u0caa\u0ca8\u0cc6",
-        "link": "https://kannada.asianetnews.com/karnataka-districts/vijayapura-airport-pilot-training-center-carver-aviation-san/articleshow-6lmyd3s"
-      },
-      {
-        "title": "\u0ca1\u0cbf\u0c82\u0caa\u0cb2\u0ccd \u0c95\u0ccd\u0cb5\u0cc0\u0ca8\u0ccd \u0cb0\u0c9a\u0cbf\u0ca4\u0cbe \u0cb0\u0cbe\u0cae\u0ccd\u200c\u0c97\u0cc6 \u0c88\u0c97 \u0c8e\u0cb7\u0ccd\u0c9f\u0cc1 \u0cb5\u0cb0\u0ccd\u0cb7? \u0cb5\u0caf\u0cb8\u0ccd\u0cb8\u0cc1 \u0c95\u0cc7\u0cb3\u0cbf\u0ca6\u0ccd\u0cb0\u0cc6 \u0ca8\u0cbf\u0c9c\u0c95\u0ccd\u0c95\u0cc2 \u0c85\u0c9a\u0ccd\u0c9a\u0cb0\u0cbf \u0caa\u0ca1\u0ccd\u0ca4\u0cc0\u0cb0\u0cbe!",
-        "link": "https://kannada.asianetnews.com/gallery/sandalwood/kannada-actress-rachita-ram-turns-34-know-her-age-birthday-and-cinema-journey-gvd-c77g0uf"
       }
     ],
     "News18 Kannada": [],
     "TV9 Kannada": [
+      {
+        "title": "\u0c97\u0cbe\u0ca8\u0cb5\u0cbf \u0c97\u0cb2\u0cbe\u0c9f\u0cc6\u0caf\u0cbf\u0c82\u0ca6 \u0cb0\u0ccb\u0cb8\u0cbf \u0cb9\u0ccb\u0ca6 \u0cae\u0ca8\u0cc6 \u0cae\u0c82\u0ca6\u0cbf: \u0cae\u0c82\u0c9c\u0ca8\u0cbf\u0c97\u0cc2 \u0c95\u0cbe\u0c82\u0caa\u0cbf\u0c9f\u0cc7\u0cb6\u0ca8\u0ccd\u0ca8\u0cc1",
+        "link": "https://tv9kannada.com/entertainment/bigg-boss-kannada-housemates-fed-up-of-ganhavi-1245789.html"
+      },
+      {
+        "title": "\u0cae\u0ca8\u0cc6\u0c97\u0cc6 \u0cae\u0cb0\u0cb3\u0cbf\u0ca6 \u0ca4\u0cbe\u0c82\u0ca1\u0cb5\u0ccd\u200b\u200b \u0cb5\u0cbf\u0cb0\u0cc1\u0ca6\u0ccd\u0ca7 \u0ca7\u0cbf\u0c95\u0ccd\u0c95\u0cbe\u0cb0 \u0c95\u0cc2\u0c97\u0cbf\u0ca6 \u0cb8\u0ccd\u0caa\u0cb0\u0ccd\u0ca7\u0cbf\u0c97\u0cb3\u0cc1: \u0c95\u0cbe\u0cb0\u0ca3?",
+        "link": "https://tv9kannada.com/entertainment/television/bigg-boss-kannada-some-housemates-protest-against-tandav-ram-1245762.html"
+      },
       {
         "title": "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6\u0ca6 \u0c95\u0cbe\u0c82\u0c97\u0ccd\u0cb0\u0cc6\u0cb8\u0ccd \u0c85\u0ca7\u0ccd\u0caf\u0c95\u0ccd\u0cb7\u0cc6\u0caf\u0cbe\u0c97\u0cbf \u0c86\u0cb0\u0cbe\u0ca7\u0ca8\u0cbe \u0cae\u0cbf\u0cb6\u0ccd\u0cb0\u0cbe \u0ca8\u0cc7\u0cae\u0c95; \u0cac\u0ccd\u0cb0\u0cbe\u0cb9\u0ccd\u0cae\u0ca3, \u0cae\u0cb9\u0cbf\u0cb3\u0cbe \u0cae\u0ca4\u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd \u0cb8\u0cc6\u0cb3\u0cc6\u0caf\u0cb2\u0cc1 \u0cae\u0cbe\u0cb8\u0ccd\u0c9f\u0cb0\u0ccd \u0caa\u0ccd\u0cb2\u0cbe\u0ca8\u0ccd",
         "link": "https://tv9kannada.com/national/aradhana-mishra-appointed-as-new-uttar-pradesh-congress-chief-imran-masood-as-working-president-ahead-of-2027-polls-1245778.html"
@@ -464,17 +472,29 @@
       {
         "title": "\u0cb9\u0cc8\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0ca6\u0cc7\u0cb5\u0cb8\u0ccd\u0ca5\u0cbe\u0ca8\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0c85\u0cb0\u0ccd\u0c9a\u0c95 \u0cb9\u0cbe\u0c97\u0cc2 \u0ca6\u0cc7\u0cb5\u0cbf\u0caf \u0cae\u0cc2\u0cb0\u0ccd\u0ca4\u0cbf \u0cae\u0cc7\u0cb2\u0cc6 \u0ca6\u0cbe\u0cb3\u0cbf; \u0c86\u0cb0\u0ccb\u0caa\u0cbf\u0caf \u0cac\u0c82\u0ca7\u0ca8",
         "link": "https://tv9kannada.com/national/man-arrested-for-attacking-priest-and-hitting-goddess-idol-with-sticks-at-hyderabad-temple-1245749.html"
-      },
-      {
-        "title": "\u0cae\u0cc2\u0cb0\u0cc2 \u0caa\u0c95\u0ccd\u0cb7\u0c97\u0cb3\u0cbf\u0c82\u0ca6 \u0cb2\u0cbf\u0c82\u0c97\u0cbe\u0caf\u0ca4 \u0cb8\u0cae\u0cc1\u0ca6\u0cbe\u0caf\u0c95\u0ccd\u0c95\u0cc6 \u0cae\u0ca3\u0cc6: 2028\u0c95\u0ccd\u0c95\u0cc6 \u0cae\u0cbe\u0cb8\u0ccd\u0c9f\u0cb0\u0ccd \u0caa\u0ccd\u0cb2\u0cbe\u0ca8\u0ccd",
-        "link": "https://tv9kannada.com/videos/bjp-congress-and-jds-appoints-lingayat-community-leaders-to-hassan-district-president-for-upcoming-assembly-poll-1245753.html"
-      },
-      {
-        "title": "\u0c8e\u0cb8\u0ccd\u200b\u0c86\u0cb0\u0ccd\u200b\u0c8e\u0c9a\u0ccd \u0ca4\u0c82\u0ca1\u0c95\u0ccd\u0c95\u0cc6 \u0c97\u0cc1\u0ca1\u0ccd \u0cac\u0cc8 \u0cb9\u0cc7\u0cb3\u0cb2\u0cc1 \u0ca8\u0cbf\u0cb0\u0ccd\u0ca7\u0cb0\u0cbf\u0cb8\u0cbf\u0ca6 \u0c85\u0cad\u0cbf\u0cb7\u0cc7\u0c95\u0ccd \u0cb6\u0cb0\u0ccd\u0cae\u0cbe..!",
-        "link": "https://tv9kannada.com/sports/cricket-news/ipl-2027-abhishek-sharma-srh-exit-captaincy-1245744.html"
       }
     ],
     "Prajavani": [
+      {
+        "title": "\u0c95\u0cac\u0ccd\u0cac\u0cbf\u0ca8 \u0ca6\u0cb0 \u0c9a\u0cb0\u0ccd\u0c9a\u0cc6: \u0cae\u0cc1\u0c96\u0ccd\u0caf\u0cae\u0c82\u0ca4\u0ccd\u0cb0\u0cbf \u0ca1\u0cbf.\u0c95\u0cc6. \u0cb6\u0cbf\u0cb5\u0c95\u0cc1\u0cae\u0cbe\u0cb0\u0ccd\u200c\u0c97\u0cc6 \u0c9c\u0ccb\u0cb6\u0cbf \u0c86\u0cb9\u0ccd\u0cb5\u0cbe\u0ca8",
+        "link": "https://www.prajavani.net/news/karnataka-news/pralhad-joshi-invites-karnataka-cm-sugarcane-price-meeting-delhi-4304016"
+      },
+      {
+        "title": "\u2018\u0c9c\u0ccd\u0c9e\u0cbe\u0ca8\u0cc7\u0cb6\u0ccd\u200c \u0cb9\u0c9f\u0cbe\u0cb5\u0ccb\u2019 \u0c85\u0cad\u0cbf\u0caf\u0cbe\u0ca8\u0c95\u0ccd\u0c95\u0cc6 \u0cb8\u0cbf\u0c9c\u0cc6\u0caa\u0cbf \u0c9a\u0cbe\u0cb2\u0ca8\u0cc6",
+        "link": "https://www.prajavani.net/news/india-news/gyanesh-hatao-campaign-cjp-protest-mumbai-shivaji-park-4304012"
+      },
+      {
+        "title": "\u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0c8f\u0cb7\u0ccd\u0caf\u0cbe \u0cb0\u0cbe\u0cb7\u0ccd\u0c9f\u0ccd\u0cb0\u0c95\u0ccd\u0c95\u0cc6 3\u0ca8\u0cc7 \u0caf\u0cc1\u0ca6\u0ccd\u0ca7\u0ca8\u0ccc\u0c95\u0cc6 \u0c95\u0cb3\u0cc1\u0cb9\u0cbf\u0cb8\u0cbf\u0ca6 \u0c85\u0cae\u0cc6\u0cb0\u0cbf\u0c95",
+        "link": "https://www.prajavani.net/news/world-news/us-sends-third-warship-to-west-asia-amid-iran-tensions-4303993"
+      },
+      {
+        "title": "\u0c8e\u0cb8\u0ccd\u200c\u0c90\u0c86\u0cb0\u0ccd\u200c: \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0cb6\u0cc7 82\u0cb0\u0cb7\u0ccd\u0c9f\u0cc1 \u0ca8\u0ccb\u0c9f\u0cbf\u0cb8\u0ccd\u200c \u0cb5\u0cbf\u0c9a\u0cbe\u0cb0\u0ca3\u0cc6 \u0caa\u0cc2\u0cb0\u0ccd\u0ca3",
+        "link": "https://www.prajavani.net/news/karnataka-news/voter-list-special-integrity-revision-notice-hearing-status-4303987"
+      },
+      {
+        "title": "\u0cb8\u0cad\u0cc6 \u0ca8\u0ca1\u0cbe\u0cb5\u0cb3\u0cbf: \u0ca8\u0ccd\u0caf\u0cbe\u0caf\u0cbe\u0cb2\u0caf \u0cb8\u0cad\u0cc6\u0c97\u0cb3 \u0c97\u0cc1\u0ca3\u0cae\u0c9f\u0ccd\u0c9f \u0caa\u0ccd\u0cb0\u0cb6\u0ccd\u0ca8\u0cbf\u0cb8\u0cbf\u0ca6 \u0ca8\u0ccd\u0caf\u0cbe\u0caf\u0cae\u0cc2\u0cb0\u0ccd\u0ca4\u0cbf",
+        "link": "https://www.prajavani.net/news/india-news/allahabad-high-court-justice-questions-meeting-quality-and-administration-4303973"
+      },
       {
         "title": "\u0c95\u0cbe\u0cb5\u0cc7\u0cb0\u0cbf: \u0cae\u0cb0\u0cc1 \u0caa\u0cb0\u0cbf\u0cb6\u0cc0\u0cb2\u0ca8\u0cc6\u0c97\u0cc6 \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95 \u0cb8\u0cb0\u0ccd\u0c95\u0cbe\u0cb0 \u0cae\u0ca8\u0cb5\u0cbf",
         "link": "https://www.prajavani.net/news/karnataka-news/karnataka-government-cauvery-water-review-petition-4303918"
@@ -494,26 +514,6 @@
       {
         "title": "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0\u0cbe\u0c96\u0c82\u0ca1 | \u0c89\u0ca6\u0ccd\u0caf\u0cae\u0cbf \u0cae\u0cc7\u0cb2\u0cc6 \u0cb9\u0cb2\u0ccd\u0cb2\u0cc6 \u0ca8\u0ca1\u0cc6\u0cb8\u0cbf\u0ca6 \u0c86\u0cb0\u0ccb\u0caa: \u2018\u0cae\u0cca\u0cb9\u0cae\u0ccd\u0cae\u0ca6\u0ccd\u2019 \u0ca6\u0cc0\u0caa\u0c95\u0ccd\u200c \u0cac\u0c82\u0ca7\u0ca8",
         "link": "https://www.prajavani.net/news/india-news/uttarakhand-deepak-kumar-arrest-assault-case-4303615"
-      },
-      {
-        "title": "\u0caa\u0cc1\u0ca4\u0ccd\u0cb0\u0ca8 \u0ca8\u0cbf\u0caf\u0c82\u0ca4\u0ccd\u0cb0\u0cbf\u0cb8\u0ca6\u0ccd\u0ca6\u0c95\u0ccd\u0c95\u0cbe\u0c97\u0cbf \u0cae\u0cbe\u0cb5\u0ca8 \u0cb9\u0cca\u0ca3\u0cc6 \u0cae\u0cbe\u0ca1\u0cb2\u0cbe\u0c97\u0ca6\u0cc1: \u0ca6\u0cc6\u0cb9\u0cb2\u0cbf \u0cb9\u0cc8\u0c95\u0ccb\u0cb0\u0ccd\u0c9f\u0ccd",
-        "link": "https://www.prajavani.net/news/india-news/delhi-high-court-ruling-on-domestic-violence-and-father-in-law-liability-4303610"
-      },
-      {
-        "title": "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6|\u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0cb8\u0cad\u0cc6 \u0c9a\u0cc1\u0ca8\u0cbe\u0cb5\u0ca3\u0cc6: 3\u0ca8\u0cc7 \u0c85\u0cad\u0ccd\u0caf\u0cb0\u0ccd\u0ca5\u0cbf \u0c95\u0ca3\u0c95\u0ccd\u0c95\u0cbf\u0cb3\u0cbf\u0cb8\u0cb2\u0cc1 \u0c8e\u0cb8\u0ccd\u200c\u0caa\u0cbf \u0cb8\u0cbf\u0ca6\u0ccd\u0ca7\u0ca4\u0cc6",
-        "link": "https://www.prajavani.net/news/india-news/samajwadi-party-third-candidate-rajya-sabha-election-uttar-pradesh-4303599"
-      },
-      {
-        "title": "\u0caa\u0cc6\u0c9f\u0ccd\u0cb0\u0ccb\u0cb2\u0cbf\u0caf\u0c82 \u0caa\u0cb0\u0cb5\u0cbe\u0ca8\u0c97\u0cbf \u0ca8\u0cbf\u0caf\u0cae \u0c89\u0cb2\u0ccd\u0cb2\u0c82\u0c98\u0ca8\u0cc6: \u0c95\u0ca0\u0cbf\u0ca3 \u0cb6\u0cbf\u0c95\u0ccd\u0cb7\u0cc6 \u0cac\u0ca6\u0cb2\u0cbf\u0c97\u0cc6 \u0ca6\u0c82\u0ca1",
-        "link": "https://www.prajavani.net/news/india-news/petroleum-act-amendment-rules-violation-penalty-4303527"
-      },
-      {
-        "title": "\u0cb8\u0cbe\u0cb9\u0cbf\u0cb2\u0ccd\u200c \u0c86\u0ca4\u0ccd\u0cae\u0cb9\u0ca4\u0ccd\u0caf\u0cc6 \u0caa\u0ccd\u0cb0\u0c95\u0cb0\u0ca3: \u0c90\u0c9f\u0cbf \u0cac\u0cbe\u0c82\u0cac\u0cc6 \u0cb5\u0cbf\u0ca6\u0ccd\u0caf\u0cbe\u0cb0\u0ccd\u0ca5\u0cbf\u0c97\u0cb3\u0cbf\u0c82\u0ca6 \u0c86\u0cae\u0cb0\u0ca3\u0cbe\u0c82\u0ca4 \u0c89\u0caa\u0cb5\u0cbe\u0cb8",
-        "link": "https://www.prajavani.net/news/india-news/iit-bombay-students-hunger-strike-sahil-wakode-death-4303492"
-      },
-      {
-        "title": "\u0cb5\u0ccd\u0caf\u0cc2\u0cb9\u0cbe\u0ca4\u0ccd\u0cae\u0c95 \u0c95\u0cc7\u0c82\u0ca6\u0ccd\u0cb0\u0c97\u0cb3 \u0caa\u0c9f\u0ccd\u0c9f\u0cbf\u0c97\u0cc6 \u0cb2\u0ca1\u0cbe\u0c96\u0ccd\u200c\u0ca8 28 \u0cb8\u0ccd\u0ca5\u0cb3\u0c97\u0cb3\u0cc1 \u0cb8\u0cc7\u0cb0\u0ccd\u0caa\u0ca1\u0cc6",
-        "link": "https://www.prajavani.net/news/india-news/ladakh-strategic-locations-added-to-official-map-4303440"
       }
     ],
     "eedina": [
@@ -561,19 +561,11 @@
   },
   "keywords": [
     {
-      "term": "Punjab",
-      "score": 5.1
-    },
-    {
       "term": "Emkay Global Financial",
       "score": 5
     },
     {
-      "term": "Mumbai",
-      "score": 4.2
-    },
-    {
-      "term": "Congress",
+      "term": "Punjab",
       "score": 4.1
     },
     {
@@ -585,22 +577,6 @@
       "score": 3.9
     },
     {
-      "term": "Flydubai",
-      "score": 3.9
-    },
-    {
-      "term": "Gandhi",
-      "score": 3.5
-    },
-    {
-      "term": "Warring",
-      "score": 3.2
-    },
-    {
-      "term": "Pargat Singh",
-      "score": 3
-    },
-    {
       "term": "ICICI Securities",
       "score": 3
     },
@@ -609,59 +585,83 @@
       "score": 3.0
     },
     {
+      "term": "Putin",
+      "score": 2.9
+    },
+    {
+      "term": "Mumbai",
+      "score": 2.9
+    },
+    {
+      "term": "Congress",
+      "score": 2.8
+    },
+    {
       "term": "Woman",
       "score": 2.6
     },
     {
-      "term": "Israeli",
+      "term": "Russia",
       "score": 2.6
     },
     {
-      "term": "Vijayawada",
-      "score": 2.6
+      "term": "Pargat",
+      "score": 2.2
+    },
+    {
+      "term": "Pargat Singh",
+      "score": 2
+    },
+    {
+      "term": "Punjab Congress",
+      "score": 2
+    },
+    {
+      "term": "CEC Gyanesh Kumar",
+      "score": 2
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u0938\u0941\u092c\u0939-\u0938\u0941\u092c\u0939 3 \u092d\u0940\u0937\u0923 \u0939\u093e\u0926\u0938\u0947 \u0938\u0947 \u0939\u0921\u093c\u0915\u0902\u092a... \u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092e\u0947\u0902 7 \u0924\u094b \u0917\u094b\u0930\u0916\u092a\u0941\u0930 \u092e\u0947\u0902 4 \u092e\u094c\u0924\u0947\u0902, \u0915\u0948\u0902\u091a\u0940 \u0927\u093e\u092e \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0940 \u092c\u0938 \u092d\u0940 \u092a\u0932\u091f\u0940",
-      "link": "https://www.aajtak.in/india/news/story/three-road-accidents-maharashtra-hapur-gorakhpur-deaths-injured-ntc-rptc-2659005-2026-10-02"
+      "title": "\u0bae\u0b95\u0bb3\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe \"\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baa\u0bcd \u0baa\u0baf\u0ba3\u0bae\u0bcd\" \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bcd..!",
+      "link": "https://www.polimernews.com/tamilnadunews/chief-minister-vijay-launches-free-vetri-payanam-bus-travel-scheme-for-women-12615968"
     },
     {
-      "title": "Team India Squad World Cup 2027 : \u0930\u094b\u0939\u093f\u0924, \u0935\u093f\u0930\u093e\u091f, \u0917\u093f\u0932 \u0924\u0947 \u092c\u0941\u092e\u0930\u093e\u0939... 2027 \u0935\u0930\u094d\u0932\u094d\u0921 \u0915\u092a\u0938\u093e\u0920\u0940 \u0905\u0936\u0940 \u0905\u0938\u0947\u0932 \u0916\u0924\u0930\u0928\u093e\u0915 \u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e, \u0915\u094b\u0923\u093e\u0915\u094b\u0923\u093e\u0932\u093e \u0938\u0902\u0927\u0940 \u092e\u093f\u0933\u0923\u093e\u0930? \u091c\u093e\u0923\u0942\u0928 \u0918\u094d\u092f\u093e \u0938\u0902\u092d\u093e\u0935\u094d\u092f Squad",
-      "link": "https://marathi.abplive.com/sports/cricket/team-india-squad-odi-world-cup-2027-update-rohit-sharma-virat-kohli-shubman-gill-jasprit-bumrah-marathi-news-1440958"
+      "title": "\u0d35\u0d3f. \u0d36\u0d36\u0d3f: \u0d05\u0d39\u0d19\u0d4d\u0d15\u0d3e\u0d30\u0d02 \u0d05\u0d7d\u0d2a\u0d4d\u0d2a\u0d02\u0d2a\u0d4b\u0d32\u0d41\u0d2e\u0d3f\u0d32\u0d4d\u0d32\u0d3e\u0d24\u0d4d\u0d24 \u0d15\u0d32\u0d3e\u0d15\u0d3e\u0d30\u0d7b",
+      "link": "https://www.mathrubhumi.com/literature/memories/v-sasi-noted-dramma-director-passes-away-bdii4ors"
     },
     {
-      "title": "Naman Dhir Replaces: \u0d35\u0d46\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d \u0d07\u0d7b\u0d21\u0d40\u0d38\u0d3f\u0d28\u0d46\u0d24\u0d3f\u0d30\u0d46\u0d2f\u0d41\u0d33\u0d4d\u0d33 \u0d1f\u0d3f20 \u0d2a\u0d30\u0d2e\u0d4d\u0d2a\u0d30\u0d15\u0d4d\u0d15\u0d41\u0d33\u0d4d\u0d33 \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d7b \u0d1f\u0d40\u0d2e\u0d3f\u0d32\u0d4d\u200d \u0d2e\u0d3e\u0d31\u0d4d\u0d31\u0d02",
-      "link": "https://www.asianetnews.com/cricket-sports/changes-in-india-squad-naman-dhir-replaces-sundar-injured-prasidh-krishna-out-of-3rd-odi-articleshow-dkhog2f"
+      "title": "\u0b9c\u0ba8\u0bcd\u0ba4\u0bb0\u0bcd \u0bae\u0ba8\u0bcd\u0ba4\u0bb0\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f \u0ba4\u0b9f\u0bc8; \u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b95\u0bb3\u0bae\u0bcd - 5 \u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0b95\u0bc2\u0b9f \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1!",
+      "link": "https://www.etvbharat.com/ta/bharat/jantar-mantar-under-police-cordon-even-more-than-five-people-are-prohibited-tns26100201293"
     },
     {
-      "title": "Putin: \u0c09\u0c15\u0c4d\u0c30\u0c46\u0c2f\u0c3f\u0c28\u0c4d \u0c35\u0c3e\u0c30\u0c4d\u200c\u0c28\u0c41 \u0c06\u0c2a\u0c47 \u0c2e\u0c02\u0c1a\u0c3f \u0c06\u0c32\u0c4b\u0c1a\u200c\u0c28\u200c\u0c32\u0c41 \u0c2e\u0c4b\u0c26\u0c40 \u0c35\u200c\u0c26\u0c4d\u0c26 \u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c2f\u0c3f: \u0c2a\u0c41\u0c24\u0c3f\u0c28\u0c4d\u200c",
-      "link": "https://www.ntnews.com/news/pm-modi-has-good-ideas-for-settlement-of-ukraine-war-said-vladimir-putin-2525544"
+      "title": "National: \u0a26\u0a3f\u0a71\u0a32\u0a40 \u0a35\u0a3f\u0a71\u0a1a SIR \u0a26\u0a3e \u0a35\u0a3f\u0a30\u0a4b\u0a27: AAP \u0a28\u0a47\u0a24\u0a3e \u0a39\u0a3f\u0a30\u0a3e\u0a38\u0a24 \u0a35\u0a3f\u0a71\u0a1a",
+      "link": "https://wishavwarta.in/national-protest-against-sir-in-delhi-aap-leader-detained/"
     },
     {
-      "title": "CJP Protest Mumbai LIVE : \u0920\u093e\u0915\u0930\u0947 \u092c\u0902\u0927\u0942\u0902\u091a\u094d\u092f\u093e 4 \u0924\u093e\u0930\u0916\u0947\u091a\u094d\u092f\u093e \u092e\u094b\u0930\u094d\u091a\u093e\u091a\u094d\u092f\u093e \u092e\u093e\u0930\u094d\u0917\u093e\u0924 \u092c\u0926\u0932",
-      "link": "https://www.tv9marathi.com/maharashtra/cjp-protest-at-shivaji-park-mumbai-live-coverage-updates-in-mumbai-abhijeet-dipke-cec-gyanesh-kumar-resignation-sir-row-jail-bharo-andolan-1769512.html"
+      "title": "\u0a2c\u0a41\u0a22\u0a3e\u0a2a\u0a47 '\u0a1a \u0a15\u0a70\u0a2e \u0a15\u0a30\u0a26\u0a47 \u0a30\u0a39\u0a3f\u0a23\u0a3e \u0a1c\u0a3e\u0a02 \u0a35\u0a3f\u0a39\u0a32\u0a47 \u0a2c\u0a48\u0a20\u0a23\u0a3e, \u0a1c\u0a3e\u0a23\u0a4b \u0a28\u0a35\u0a40\u0a06\u0a02 \u0a35\u0a3f\u0a17\u0a3f\u0a06\u0a28\u0a15 \u0a16\u0a4b\u0a1c\u0a3e\u0a02 \u0a05\u0a24\u0a47 \u0a17\u0a41\u0a30\u0a42 \u0a38\u0a3e\u0a39\u0a3f\u0a2c\u0a3e\u0a28 \u0a26\u0a47 \u0a2b\u0a32\u0a38\u0a2b\u0a47 \u0a05\u0a28\u0a41\u0a38\u0a3e\u0a30-\u0a15\u0a40 \u0a39\u0a48 \u0a38\u0a39\u0a40 \u0a30\u0a3e\u0a39?",
+      "link": "https://www.babushahi.in/full-news.php?id=335846"
     },
     {
-      "title": "Asian Gams Gold 2026 : \u092c\u0949\u0915\u094d\u0938\u0930 \u0932\u0935\u094d\u0939\u0932\u093f\u0928\u093e\u091a\u093e '\u0917\u094b\u0932\u094d\u0921\u0928 \u092c\u0930\u094d\u0925\u0921\u0947'! \u091a\u0940\u0928\u091a\u094d\u092f\u093e \u0916\u0947\u0933\u093e\u0921\u0942\u091a\u093e \u0927\u0941\u0935\u094d\u0935\u093e \u0909\u0921\u0935\u0924 \u0938\u0902\u092a\u0942\u0930\u094d\u0923 \u0926\u0947\u0936\u093e\u0932\u093e \u0938\u0941\u0935\u0930\u094d\u0923 \u092d\u0947\u091f",
-      "link": "https://maharashtratimes.com/sports/other-sports/asian-games-2026-boxer-lovlina-borgohain-wins-gold-in-womens-75kg-category-on-her-birthday/articleshow/134632366.cms"
+      "title": "\u0a85\u0ab0\u0ab5\u0ab2\u0acd\u0ab2\u0ac0\u0aa8\u0abe \u0aae\u0abe\u0ab2\u0aaa\u0ac1\u0ab0\u0aae\u0abe\u0a82 LCB \u0a85\u0aa8\u0ac7 \u0aa4\u0ab8\u0acd\u0a95\u0ab0\u0acb \u0ab5\u0a9a\u0acd\u0a9a\u0ac7 \u0a97\u0acb\u0ab3\u0ac0\u0aac\u0abe\u0ab0, \u0a8f\u0a95 \u0a86\u0ab0\u0acb\u0aaa\u0ac0\u0aa8\u0abe \u0aaa\u0a97\u0aae\u0abe\u0a82 \u0a97\u0acb\u0ab3\u0ac0 \u0ab5\u0abe\u0a97\u0ac0, PI \u0ab8\u0ab9\u0abf\u0aa4 3 \u0aaa\u0acb\u0ab2\u0ac0\u0ab8\u0a95\u0ab0\u0acd\u0aae\u0ac0 \u0a88\u0a9c\u0abe\u0a97\u0acd\u0ab0\u0ab8\u0acd\u0aa4",
+      "link": "https://www.gujaratsamachar.com/news/aravalli/shooting-between-lcb-and-smugglers-in-malpur-aravalli-one-accused-shot-in-the-leg-3-policemen-including-pi-injured-51245296234"
     },
     {
-      "title": "\u0d28\u0d3e\u0d1f\u0d15\u0d38\u0d02\u0d35\u0d3f\u0d27\u0d3e\u0d2f\u0d15\u0d7b \u0d35\u0d3f. \u0d36\u0d36\u0d3f \u0d05\u0d28\u0d4d\u0d24\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d41",
-      "link": "https://www.mathrubhumi.com/literature/news/v-sasi-noted-playwright-and-director-passes-away-hvq54brp"
+      "title": "Suzuki asks India suppliers to shorten production week in push for quality, sources say",
+      "link": "https://www.reuters.com/world/asia-pacific/suzuki-asks-india-suppliers-shorten-production-week-push-quality-sources-say-2026-10-02/"
     },
     {
-      "title": "\u0d2b\u0d4d\u0d32\u0d48 \u0d26\u0d41\u0d2c\u0d3e\u0d2f\u0d3f\u0d32\u0d46 \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d7b \u0d2a\u0d48\u0d32\u0d31\u0d4d\u0d31\u0d3f\u0d28\u0d4d \u0d05\u0d2d\u0d3f\u0d28\u0d28\u0d4d\u0d26\u0d28\u0d2a\u0d4d\u0d30\u0d35\u0d3e\u0d39\u0d02",
-      "link": "https://www.manoramaonline.com/global-malayali/gulf/2026/10/02/indian-pilot-smith-machhar-receiving-global-praise-big-salute.html"
+      "title": "In Phone Call, Hero Pilot Tells PM Modi What Gave Him Courage During Attack",
+      "link": "https://www.ndtv.com/india-news/in-phone-call-hero-pilot-smit-machchhar-tells-pm-modi-what-gave-him-courage-during-flydubai-attack-12128821"
     },
     {
-      "title": "'\u092c\u0930\u094d\u0925\u0921\u0947 \u0917\u0930\u094d\u0932' \u0932\u0935\u0932\u0940\u0928\u093e \u092c\u094b\u0930\u0917\u094b\u0939\u0947\u0928 \u0915\u0947 \u0926\u0928\u0926\u0928\u093e\u0924\u0947 \u092e\u0941\u0915\u094d\u0915\u0947, \u091a\u0940\u0928\u0940 \u092c\u0949\u0915\u094d\u0938\u0930 \u0922\u0947\u0930, \u092d\u093e\u0930\u0924 \u0915\u094b \u092e\u200d\u093f\u0932 \u0917\u092f\u093e GOLD",
-      "link": "https://www.aajtak.in/sports/asian-games/story/asian-games-lovlina-borgohain-wins-gold-asian-games-2026-75kg-final-boxing-tspok-dskc-2659010-2026-10-02"
+      "title": "Samsung Galaxy A08 Launched In India: Specs, Six Years Of Updates",
+      "link": "https://www.news18.com/tech/samsung-galaxy-a08-launched-india-six-years-updates-m08-f08-10363448.html"
     },
     {
-      "title": "\u0932\u094b\u0935\u094d\u0939\u0932\u093f\u0928\u093e\u091a\u093e '\u0917\u094b\u0932\u094d\u0921\u0928 \u092a\u0902\u091a'! \u092c\u0949\u0915\u094d\u0938\u093f\u0902\u0917\u092e\u0927\u094d\u092f\u0947 \u0938\u0941\u0935\u0930\u094d\u0923 \u092a\u0926\u0915\u093e\u0932\u093e \u0917\u0935\u0938\u0923\u0940",
-      "link": "https://pudhari.news/sports/asian-games-2026-lovlina-borgohain-gold-netra-kumanan-bronze-nl76"
+      "title": "\u0aae\u0abf\u0aa1\u0ab2 \u0a88\u0ab8\u0acd\u0a9f\u0aae\u0abe\u0a82 \u0a95\u0a82\u0a87\u0a95 \u0aae\u0acb\u0a9f\u0ac1\u0a82 \u0aa5\u0ab6\u0ac7! \u0a9f\u0acd\u0ab0\u0aae\u0acd\u0aaa\u0ac7 \u0aa4\u0acd\u0ab0\u0ac0\u0a9c\u0ac1\u0a82 \u0a8f\u0ab0\u0a95\u0acd\u0ab0\u0abe\u0aab\u0acd\u0a9f \u0a95\u0ac7\u0ab0\u0abf\u0aaf\u0ab0 \u0a85\u0aa8\u0ac7 10 \u0ab9\u0a9c\u0abe\u0ab0 \u0ab8\u0ac8\u0aa8\u0abf\u0a95 \u0ab0\u0ab5\u0abe\u0aa8\u0abe \u0a95\u0ab0\u0acd\u0aaf\u0abe",
+      "link": "https://www.gujaratsamachar.com/news/international/something-big-is-going-to-happen-in-the-middle-east-trump-sends-third-aircraft-carrier-and-10-thousand-soldiers-87432045257"
     }
   ],
   "twitter": null
