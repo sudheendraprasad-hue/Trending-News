@@ -1,4 +1,4 @@
-# India Trending Report — 2026-10-02 19:38:17
+# India Trending Report — 2026-10-02 20:02:25
 
 ## Google Trends (India) — top trending searches
 1. [pio esposito](https://trends.google.com/trending/rss?geo=IN)
@@ -9,8 +9,8 @@
 6. [france vs italy](https://trends.google.com/trending/rss?geo=IN)
 7. [dino morea arrested](https://trends.google.com/trending/rss?geo=IN)
 8. [অন্নপূর্ণা যোজনা](https://trends.google.com/trending/rss?geo=IN)
-9. [ఏనుగు](https://trends.google.com/trending/rss?geo=IN)
-10. [nushrat bharucha](https://trends.google.com/trending/rss?geo=IN)
+9. [2027](https://trends.google.com/trending/rss?geo=IN)
+10. [ఏనుగు](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -62,16 +62,16 @@
 - [ಸ್ಮಿತ್‌ ಮಚ್ಚಾರ್‌ ಮೇಲೆ ದಾಳಿ ಮಾಡಿದ ಸಹ-ಪೈಲಟ್‌ನನ್ನು ಯಾರೇ ಕಳಿಸಿದ್ದರೂ ಸುಮ್ಮನೆ ಬಿಡಲ್ಲ: ಬೆಂಜಮಿನ್ ನೆತನ್ಯಾಹು ಶಪಥ!](https://vijaykarnataka.com/news/world/benjamin-netanyahu-warns-of-retaliation-against-flydubai-attack-planners-praises-smit-machchhar/articleshow/134641298.cms)
 
 **The Hindu**
+- [CPI(M) urges Tamil Nadu government to boycott High-Level Committee on Demographic Changes](https://www.thehindu.com/news/national/tamil-nadu/cpim-urges-tamil-nadu-government-to-boycott-high-level-committee-on-demographic-changes/article71537726.ece)
+- [Swadeshi products can strengthen self-reliance, says BJP](https://www.thehindu.com/news/national/andhra-pradesh/swadeshi-products-can-strengthen-self-reliance-says-bjp/article71536795.ece)
+- [A.P. government to note media commission proposal: Minister Kondapalli Srinivas](https://www.thehindu.com/news/national/andhra-pradesh/ap-government-to-note-media-commission-proposal-minister-kondapalli-srinivas/article71537245.ece)
+- [Three minors rescued from brick kilns in Konaseema](https://www.thehindu.com/news/national/andhra-pradesh/three-minors-rescued-from-brick-kilns-in-konaseema/article71537468.ece)
+- [Nellimarla former MLA likely to take announce his future political plan today](https://www.thehindu.com/news/national/andhra-pradesh/nellimarla-former-mla-likely-to-take-announce-his-future-political-plan-today/article71537613.ece)
 - [CJP announces Jantar Mantar protest on October 10 if CEC Gyanesh Kumar does not resign](https://www.thehindu.com/news/national/cjp-announces-jantar-mantar-protest-on-october-10-if-cec-gyanesh-kumar-does-not-resign/article71538481.ece)
 - [Aradhana Misra Mona appointed as new chief of Uttar Pradesh Congress](https://www.thehindu.com/news/national/uttar-pradesh/aradhana-misra-mona-appointed-as-new-chief-of-uttar-pradesh-congress/article71538200.ece)
 - [Senior IAF officer reviews fifth Gen fighter programme in Bengaluru](https://www.thehindu.com/news/national/karnataka/senior-iaf-officer-reviews-fifth-gen-fighter-programme-in-bengaluru/article71534233.ece)
 - [Surgeon Rear Admiral Jandhyala Sridhar assumes charge as Command Medical Officer](https://www.thehindu.com/news/national/andhra-pradesh/surgeon-rear-admiral-jandhyala-sridhar-assumes-charge-as-command-medical-officer/article71538239.ece)
 - [Congress targets PM Modi over ‘insensitivity’ with regard rising prices and its squeeze on household budgets](https://www.thehindu.com/news/national/congress-targets-pm-modi-over-insensitivity-with-regard-rising-prices-and-its-squeeze-on-household-budgets/article71537250.ece)
-- [A fierce battle on in Dharapuram among three leading contenders](https://www.thehindu.com/news/national/tamil-nadu/a-fierce-battle-on-in-dharapuram-among-three-leading-contenders/article71538100.ece)
-- [‘Minority’ TVK government has ‘forced’ byelection for CM’s selfish gain: DMK president Stalin](https://www.thehindu.com/news/national/tamil-nadu/minority-tvk-government-has-forced-byelection-for-cms-selfish-gain-dmk-president-stalin/article71538122.ece)
-- [The Hindu releases documentary Gandhi for GenZ](https://www.thehindu.com/news/national/the-hindu-to-release-documentary-gandhi-for-genz-today/article71534600.ece)
-- [Journalists’ union demands special law on safety, restoration of Working Journalists Act](https://www.thehindu.com/news/national/andhra-pradesh/journalists-union-demands-special-law-on-safety-restoration-of-working-journalists-act/article71538117.ece)
-- [Lawyers’ group announces independent panel of ex-judges to enquire into SIR aftermath](https://www.thehindu.com/news/national/lawyers-group-announces-independent-panel-of-ex-judges-to-enquire-into-sir-aftermath/article71538414.ece)
 
 **Livemint**
 - [Hackers Breached Propulsion System of US-Bound Oil Tanker](https://www.livemint.com/news/us-news/hackers-breached-propulsion-system-of-us-bound-oil-tanker-11790969309910.html)
@@ -151,7 +151,6 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - Congress (4.1)
-- Stalin (2.6)
 - Putin (2.6)
 - India (2.6)
 - Mangaluru (2.6)
@@ -165,20 +164,21 @@
 - Warring (1.6)
 - Minute (1.6)
 - Mumbai (1.6)
+- Protest (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Thousands stranded in UAE as Israeli rescue flights cancelled over landing clearance](https://timesofindia.indiatimes.com/world/middle-east/thousands-stranded-in-uae-as-israeli-rescue-flights-cancelled-over-landing-clearance/articleshow/134634523.cms)
-- [Modi-Smit Machchar: মোদি-স্মিত মচ্ছরের ভিডিও কলে কথা, কেঁদে ফেললেন ভারতীয় পাইলট, 'কোনও যাত্রীকে মরতে দিতে পারতাম না'](https://bengali.abplive.com/news/narendra-modi-smit-machchar-hero-pilot-of-flydubai-talk-what-gave-him-courage-during-attack-1194876)
-- [PM Modi lauds Captain Smit Machchhar; pilot says used every bit of energy to save plane](https://www.thehindu.com/news/national/pm-modi-speaks-to-flydubai-pilot-captain-smit-machchaar/article71536177.ece)
-- [Asian Games 2026: এশিয়ান গেমসে ভারত-পাকিস্তান গোল্ড মেডেল ম্যাচ বৃষ্টিতে ভেস্তে গেলে সোনা জিতবে কারা? কী বলছে নিয়ম?](https://bengali.abplive.com/sports/cricket/asian-games-2026-ind-vs-pak-if-washed-out-who-will-win-gold-medal-know-rules-know-1194877)
-- [ഇന്ത്യ-ബ്രസീൽ മത്സരം; കൊൽക്കത്തയിൽ വൻ സുരക്ഷാ ക്രമീകരണങ്ങൾ, 2,500 പോലീസുകാരെ വിന്യസിച്ചു](https://www.mathrubhumi.com/sports/football/india-vs-brazil-football-match-kolkata-security-vlndqc7x)
-- [भूल जाएंगे Activa... लॉन्च हुआ धांसू स्कूटर! कीमत बस इतनी](https://www.aajtak.in/visualstories/auto/aprilia-sxr-gt-125-and-175-scooter-launche-price-features-auaw-286289-02-10-2026)
-- ['Recited Hanuman Chalisa For Courage," flydubai Hero Pilot Tells PM Modi](https://www.ndtv.com/world-news/recited-hanuman-chalisa-for-courage-flydubai-hero-pilot-tells-pm-modi-12129120)
-- [Supriya Sule : शिक्षक पदवीधर मतदार संघ निवडणुकीसाठी जो निर्णय होईल तो..सुप्रिया सुळे यांचं महत्वाचं वक्तव्य](https://www.tv9marathi.com/maharashtra/supriya-sule-on-cjp-mumbai-protest-pune-shikshak-padvidhar-matdarsangh-election-1769766.html)
-- [Gold Silver Rate In Gujarat : સોનાના ભાવમાં ફરી તેજી! ગુજરાતમાં 24 કેરેટ સોનું ₹1.50 લાખને પાર પહોંચ્યું, જાણો અમદાવાદ સહિતના 10 મોટા શહેરોના ભાવ](https://tv9gujarati.com/photo-gallery/gold-silver-rate-today-in-gujarat-on-2-october-2026-check-sona-chandi-price-ahmeadbad-surat-rajkot-1525709.html)
-- [জেল থেকে বেরিয়েই ফের সোনার দোকানে হানা, ‘বহুরূপী’র নতুন ফাঁদে বিক্রম, প্রকাশ্যে ‘দ্য গোল্ডেন ডাকু’র ট্রেলার](https://www.thewall.in/entertainment/bohurupi-the-golden-daku-trailer-bikram-returns-with-a-new-heist-and-a-dangerous-trap/tid/206107)
+- [The Sky Today on Friday, October 2: Venus stands still](https://www.astronomy.com/observing/the-sky-today-friday-october-2-2026/)
+- [‘నన్ను ఆంధ్రా బిడ్డగా భావించండి.. రాష్ట్రానికి ఏం చేయగలనో చెప్పండి’.. అనంత్ అంబానీ నోట తెలుగు మాట..](https://telugu.samayam.com/andhra-pradesh/news/treat-me-as-andhra-son-reliance-industries-anant-ambani-speech-at-madanapalle-global-horticulture-hub-event/articleshow/134634551.cms)
+- [तमिलनाडु में हाईवे पर साइनबोर्ड हिंदी में लिखने पर विवाद, विजय सरकार ने दो अधिकारियों को किया सस्पेंड](https://www.jagran.com/news/national-tamil-nadu-suspends-officials-over-hindi-on-highway-signboard-news-in-hindi-40392012.html)
+- [പിജെ ജോസഫിന് ക്യാബിനറ്റ് പദവി വൈകുന്നു; കേരള കോൺഗ്രസിന് അതൃപ്തി, മുഖ്യമന്ത്രിയെ നേരിൽ കാണാൻ മോൻസ് ജോസഫ്](https://www.asianetnews.com/kerala-news/kerala-congress-dissatisfied-over-delay-in-cabinet-rank-to-pj-joseph-articleshow-cvs8nx3)
+- [Meenakshi Shinde: ...मग तुम्ही रश्मी ठाकरेंचे खासमखास म्हणायचं का? आम्ही खालच्या पातळीवर जाऊन बोलणार नाही, मीनाक्षी शिंदेंचा संजय राऊतांवर हल्लाबोल](https://marathi.abplive.com/news/politics/meenakshi-shinde-on-sanjay-raut-statement-about-eknath-shinde-and-meenakshi-shinde-close-rashmi-thackeray-shivsena-sanjay-raut-pradeep-purnekar-case-1440981)
+- [Thackeray brothers Morcha : ठाकरे बंधूंच्या मोर्चाच्याबाबत मोठी अपडेट, मार्ग बदलला! आता 'या' ठिकाणाहून होणार सुरुवात](https://sarkarnama.esakal.com/maharashtra/uddhav-raj-thackeray-morcha-big-change-in-route-ahead-of-october-4-mumbai-protest-sw79)
+- [ஃப்ளைதுபை விமானத்தை இயக்கிய இந்திய விமானி ஸ்மித் பற்றி சர்வதேச ஊடகங்கள் கூறுவது என்ன?](https://www.bbc.com/tamil/articles/ckvgyg79dllgo)
+- [Out on walk with friend, Faridabad girl, 13, gangraped in abandoned building](https://www.indiatoday.in/cities/other-cities/story/faridabad-girl-13-gang-raped-abandoned-building-three-arrested-3007993-2026-10-02)
+- [PM Modi ਨੇ 174 ਜਾਨਾਂ ਬਚਾਉਣ ਵਾਲੇ ਕੈਪਟਨ ਸਮਿਤ ਨਾਲ ਫੋਨ ‘ਤੇ ਕੀਤੀ ਗੱਲ](https://wishavwarta.in/pm-modi-spoke-over-phone-with-captain-sumit/)
+- [Anant Ambani: నన్ను ఆంధ్రా బిడ్డగా భావించండి... రాష్ట్రాభివృద్దికి సహాకరిస్తానని అనంత్ అంబానీ హామీ](https://telugu.news18.com/news/andhra-pradesh/rayalaseema-global-horticulture-hub-anant-ambani-promises-support-to-andhra-pradesh-devolopment-snr-3238472.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
