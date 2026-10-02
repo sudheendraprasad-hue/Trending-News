@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-02 21:03:00
+# India Trending Report — 2026-10-02 21:37:24
 
 ## Google Trends (India) — top trending searches
-1. [daniel maldini](https://trends.google.com/trending/rss?geo=IN)
-2. [दृश्यम](https://trends.google.com/trending/rss?geo=IN)
-3. [sebastiano esposito](https://trends.google.com/trending/rss?geo=IN)
-4. [poland vs romania](https://trends.google.com/trending/rss?geo=IN)
-5. [bosnia and herzegovina vs sweden](https://trends.google.com/trending/rss?geo=IN)
-6. [moneycontrol](https://trends.google.com/trending/rss?geo=IN)
-7. [france vs italy](https://trends.google.com/trending/rss?geo=IN)
-8. [dino morea arrested](https://trends.google.com/trending/rss?geo=IN)
-9. [অন্নপূর্ণা যোজনা](https://trends.google.com/trending/rss?geo=IN)
-10. [2027](https://trends.google.com/trending/rss?geo=IN)
+1. [robert lewandowski](https://trends.google.com/trending/rss?geo=IN)
+2. [daniel maldini](https://trends.google.com/trending/rss?geo=IN)
+3. [cjp protests](https://trends.google.com/trending/rss?geo=IN)
+4. [दृश्यम](https://trends.google.com/trending/rss?geo=IN)
+5. [sebastiano esposito](https://trends.google.com/trending/rss?geo=IN)
+6. [poland vs romania](https://trends.google.com/trending/rss?geo=IN)
+7. [bosnia and herzegovina vs sweden](https://trends.google.com/trending/rss?geo=IN)
+8. [moneycontrol](https://trends.google.com/trending/rss?geo=IN)
+9. [france vs italy](https://trends.google.com/trending/rss?geo=IN)
+10. [dino morea arrested](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [From Shiv-on to off: Musk’s half-Indian partner goes into ex space](https://timesofindia.indiatimes.com/world/us/from-shiv-on-to-off-musks-half-indian-partner-goes-into-ex-space/articleshow/134645330.cms)
 - [Warring out, Pargat in: Has Congress solved Punjab crisis or set stage for another twist?](https://timesofindia.indiatimes.com/india/warring-out-channi-not-in-yet-has-congress-solved-punjab-crisis-or-created-more-confusion/articleshow/134640757.cms)
+- [From Shiv-on to off: Musk’s half-Indian partner goes into ex space](https://timesofindia.indiatimes.com/world/us/from-shiv-on-to-off-musks-half-indian-partner-goes-into-ex-space/articleshow/134645330.cms)
 - [Under fire, EC orders special drive to add genuine electors 'left out' during SIR](https://timesofindia.indiatimes.com/india/under-fire-ec-orders-special-drive-to-add-genuine-electors-left-out-during-sir/articleshow/134646432.cms)
 - [Ex-CEC says deleted voters can't use Form 6; EC cites rules to counter claim](https://timesofindia.indiatimes.com/india/deleted-voters-cant-use-form-6-ex-cec-ec-points-to-rules/articleshow/134646505.cms)
 - [‘Vote chori’ protests: Rahul says Lathi can stop a crowd, but not a question](https://timesofindia.indiatimes.com/india/lathi-can-stop-a-crowd-but-not-a-question-rahul/articleshow/134646567.cms)
 - [MacKenzie Scott gave $30m to housing nonprofit; a year later, it unveiled 10-year plan](https://timesofindia.indiatimes.com/technology/tech-news/in-2024-jeff-bezos-ex-wife-mackenzie-scott-gave-30-million-to-a-silicon-valley-housing-nonprofit-a-year-later-it-unveiled-a-10-year-plan-to-widen-access-to-affordable-homes-in-the-bay-area/articleshow/134643448.cms)
-- [Prison room, bed, newspaper — That is ‘baron’ Veeramani’s world now](https://timesofindia.indiatimes.com/city/chennai/prison-room-bed-newspaper-that-is-baron-veeramanis-world-now/articleshow/134645679.cms)
+- [Ohio farmer with $1m medical debt sold land after officials blocked solar lease](https://timesofindia.indiatimes.com/world/us/an-ohio-farmer-facing-1-million-in-medical-debt-hoped-a-solar-lease-would-pay-540000-a-year-after-officials-blocked-the-project-he-had-to-sell-land-and-equipment-from-his-sixth-generation-farm/articleshow/134595164.cms)
 - [Father got 3 bigha in 1972; HC protects married daughter's land claim](https://timesofindia.indiatimes.com/business/india-business/in-1972-father-got-3-bigha-of-land-from-himachal-government-but-patta-was-never-signed-why-hc-allowed-married-daughters-inheritance-appeal-what-role-hindu-succession-act-plays/articleshow/134636006.cms)
-- [Cases clubbed only after CJI spoke to presiding judges](https://timesofindia.indiatimes.com/india/cases-clubbed-only-after-cji-spoke-to-presiding-judges/articleshow/134646588.cms)
-- [Akhilesh's Rajya Sabha picks: SP's master strategy or 'PDA' contradiction?](https://timesofindia.indiatimes.com/india/akhilesh-yadavs-rajya-sabha-picks-samajwadi-partys-master-strategy-or-pda-contradiction/articleshow/134642605.cms)
+- [Prison room, bed, newspaper — That is ‘baron’ Veeramani’s world now](https://timesofindia.indiatimes.com/city/chennai/prison-room-bed-newspaper-that-is-baron-veeramanis-world-now/articleshow/134645679.cms)
+- [Can't invoke anti-slaughter law in case of mere illegal cattle transportation: SC](https://timesofindia.indiatimes.com/india/cant-invoke-anti-slaughter-law-in-case-of-mere-illegal-cattle-transportation-sc/articleshow/134646602.cms)
 
 **NDTV**
 - ['Will Strengthen Alliance With Samajwadi Party': New UP Congress Chief Aradhana Misra](https://www.ndtv.com/india-news/will-strengthen-alliance-with-samajwadi-party-new-up-congress-chief-aradhana-mishra-12131812#publisher=newsstand)
@@ -62,6 +62,8 @@
 - [ಸ್ಮಿತ್‌ ಮಚ್ಚಾರ್‌ ಮೇಲೆ ದಾಳಿ ಮಾಡಿದ ಸಹ-ಪೈಲಟ್‌ನನ್ನು ಯಾರೇ ಕಳಿಸಿದ್ದರೂ ಸುಮ್ಮನೆ ಬಿಡಲ್ಲ: ಬೆಂಜಮಿನ್ ನೆತನ್ಯಾಹು ಶಪಥ!](https://vijaykarnataka.com/news/world/benjamin-netanyahu-warns-of-retaliation-against-flydubai-attack-planners-praises-smit-machchhar/articleshow/134641298.cms)
 
 **The Hindu**
+- [India standardises names of 28 places in Ladakh](https://www.thehindu.com/news/national/ladakh/india-standardises-names-of-28-places-in-ladakh/article71538275.ece)
+- [Rules framed to standardise appointment of heads, members of various tribunals](https://www.thehindu.com/news/national/rules-framed-to-standardise-appointment-of-heads-members-of-various-tribunals/article71538109.ece)
 - [NC legislator alleges bodyguard ‘attacked him’; police accuse him of ‘assault’](https://www.thehindu.com/news/national/jammu-and-kashmir/nc-legislator-alleges-bodyguard-attacked-him-police-accuse-him-of-assault/article71538086.ece)
 - [Foreign buyers impressed by experiential tourism avenues in Keralam](https://www.thehindu.com/news/national/kerala/foreign-buyers-impressed-by-experiential-tourism-avenues-in-keralam/article71509052.ece)
 - [Deleted, and left in limbo](https://www.thehindu.com/news/national/deleted-and-left-in-limbo/article71538194.ece)
@@ -70,10 +72,10 @@
 - [A.P. government to note media commission proposal: Minister Kondapalli Srinivas](https://www.thehindu.com/news/national/andhra-pradesh/ap-government-to-note-media-commission-proposal-minister-kondapalli-srinivas/article71537245.ece)
 - [Three minors rescued from brick kilns in Konaseema](https://www.thehindu.com/news/national/andhra-pradesh/three-minors-rescued-from-brick-kilns-in-konaseema/article71537468.ece)
 - [Nellimarla former MLA likely to take announce his future political plan today](https://www.thehindu.com/news/national/andhra-pradesh/nellimarla-former-mla-likely-to-take-announce-his-future-political-plan-today/article71537613.ece)
-- [CJP announces Jantar Mantar protest on October 10 if CEC Gyanesh Kumar does not resign](https://www.thehindu.com/news/national/cjp-announces-jantar-mantar-protest-on-october-10-if-cec-gyanesh-kumar-does-not-resign/article71538481.ece)
-- [Aradhana Misra Mona appointed as new chief of Uttar Pradesh Congress](https://www.thehindu.com/news/national/uttar-pradesh/aradhana-misra-mona-appointed-as-new-chief-of-uttar-pradesh-congress/article71538200.ece)
 
 **Livemint**
+- [Anant Ambani steps in after family raises  ₹2.2 crore for toddler’s  ₹9 crore treatment | Watch](https://www.livemint.com/news/trends/anant-ambani-steps-in-after-family-raises-rs-2-2-crore-for-toddler-s-rs-9-crore-treatment-watch-11790966245548.html)
+- [Jeff Bezos gives $25 million to protect Pacific Ocean: What the Amazon boss' $10 billion climate pledge aims to achieve](https://www.livemint.com/news/us-news/jeff-bezos-gives-25-million-to-protect-pacific-ocean-what-the-amazon-boss-10-billion-climate-pledge-aims-to-achieve-11790961804990.html)
 - [On ventilator and unconscious, what's next for Christa Pike after surviving lethal injection](https://www.livemint.com/news/us-news/on-ventilator-and-unconscious-whats-next-for-christa-pike-after-surviving-lethal-injection-11790970610841.html)
 - [South Africa mass shootings: What’s behind the sudden spike in gun crime? 46 dead in a week in 5 incidents](https://www.livemint.com/news/world/south-africa-mass-shootings-what-s-behind-the-sudden-spike-in-gun-crime-46-dead-in-a-week-in-5-incidents-11790968979697.html)
 - [Hackers Breached Propulsion System of US-Bound Oil Tanker](https://www.livemint.com/news/us-news/hackers-breached-propulsion-system-of-us-bound-oil-tanker-11790969309910.html)
@@ -82,8 +84,6 @@
 - [Tukaram Mundhe in action! Maharashtra FDA cancels Cipla's Pune drug sale licence](https://www.livemint.com/news/india/tukaram-mundhe-in-action-maharashtra-fda-cancels-ciplas-pune-drug-sale-licence-11790960000968.html)
 - [‘Worked 6.5 days/week, 14 hrs/day’ - No time even for haircut, calling home? Chennai entrepreneur on work-life balance](https://www.livemint.com/news/trends/worked-6-5-days-week-14-hrs-day-no-time-even-for-haircut-calling-home-chennai-entrepreneur-on-work-life-balance-11790957917463.html)
 - [Pargat Singh appointed Punjab Congress chief ahead of assembly elections after Raja Warring resigns](https://www.livemint.com/news/india/pargat-singh-appointed-punjab-congress-chief-ahead-of-assembly-elections-after-raja-warring-resigns-11790960716437.html)
-- [Explainer | PepsiCo, Monster challenge order against use of 'Energy Drink' labels but why FSSAI calls them misleading](https://www.livemint.com/news/india/explainer-pepsico-monster-challenge-order-against-use-of-energy-drink-labels-but-why-fssai-calls-them-misleading-11790954364839.html)
-- [‘There are no rules now’: Zelensky reveals Putin’s alleged new war order](https://www.livemint.com/news/world/there-are-no-rules-now-zelensky-reveals-putin-s-alleged-new-war-order-11790956664852.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -150,35 +150,35 @@
 - [ಕಲಬುರಗಿ | ಎಸ್‌ಐಆರ್ ವಿರೋಧಿಸಿ ಧರಣಿ; ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ವಜಾಕ್ಕೆ ಆಗ್ರಹ](https://eedina.com/?p=769068)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Congress (2.8)
-- Putin (2.6)
+- What (2.9)
+- India (2.6)
 - Mangaluru (2.6)
+- Congress (2.5)
 - Punjab (2.2)
 - Pargat Singh (2.0)
 - Punjab Congress (2.0)
-- Jantar Mantar (2.0)
-- CEC Gyanesh Kumar (2.0)
 - Pargat (1.9)
 - Warring (1.6)
 - Minute (1.6)
 - Mumbai (1.6)
 - Protest (1.6)
-- What (1.6)
 - Musk (1.3)
+- Ex-CEC (1.3)
+- Form (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Dino Morea summoned again by EOW in Mithi River desilting case, questioned over alleged links](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dino-morea-summoned-again-by-eow-in-mithi-river-desilting-case-questioned-over-alleged-links/articleshow/134635715.cms)
-- [Yuzvendra Chahal calls time on first-class career](https://www.cricbuzz.com/cricket-news/140368/yuzvendra-chahal-retires-from-first-class-cricket)
-- [ఫాంటాసి అండ్ ఎమోషనల్ డ్రామా 'డోంట్ ట్రబుల్ ది ట్రబుల్'](https://www.telugutimes.net/cinema/cinema-reviews/dont-trouble-the-trouble-movie-review-424548.html)
-- [ഇന്ത്യയെ ബ്രസീൽ ‘ബഹുമാനിക്കുന്നു’ എന്ന് ആഞ്ചലോട്ടി; ചാർട്ടർ വിമാനത്തിൽ എത്തി കാനറിപ്പട; കോടികൾ മുടക്കിയതിൽ വിമർശനം](https://www.manoramaonline.com/sports/football/2026/10/02/full-respect-for-india-says-brazil-manager-carlo-ancelotti.html)
-- [What happens in the brain when cannabis generates anxiety?](https://medicalxpress.com/news/2026-10-brain-cannabis-generates-anxiety.html)
-- [Punjab: BSF ਨੇ ਬਾਰਡਰ ਪਾਰ ਕਰਕੇ ਭਾਰਤ ‘ਚ ਦਾਖਲ ਹੋ ਰਹੇ ਦੋ ਘੁਸਪੈਠੀਏ ਕੀਤੇ ਢੇਰ](https://wishavwarta.in/punjab-bsf-neutralizes-two-intruders-crossing-border-into-india/)
-- [Israel: ఇజ్రాయెల్‌కు హైజాక్‌ కొత్తేమీ కాదు.. నాడు నెతన్యాహు సోదరుడే హీరో](https://www.eenadu.net/telugu-news/world/netanyahu-brother-daring-operation-to-save-100-hostages/0801/126178398)
-- [How more personalised treatment can change gynaecological cancer care](https://www.hindustantimes.com/ht-insight/public-health/how-more-personalised-treatment-can-change-gynaecological-cancer-care-101790931055415.html)
-- [मंतर छावनी में तब्दील, इंटरनेट और 12 मेट्रो स्टेशन बंद, मुंबई में होगा CJP का प्रदर्शन](https://www.indiatv.in/india/politics/cec-gyanesh-kumar-resignation-demand-opposition-in-delhi-cjp-protests-in-mumbai-live-2026-10-02-1246508)
-- [युजवेंद्र चहल ने अचानक संन्यास का किया ऐलान, अधूरे सपने के साथ हुए रिटायर](https://www.abplive.com/sports/cricket/yuzvendra-chahal-announces-retirement-from-first-class-cricket-regret-never-made-india-test-debut-3196741)
+- [22 महीने का बैन, छिना एशियन गेम्स मेडल... अब बॉक्सर परवीन हुड्डा ने जड़ा GOLD वाला मुक्का](https://www.aajtak.in/sports/asian-games/story/asian-games-2026-parveen-hooda-wins-boxing-gold-comeback-story-tspok-dskc-2659329-2026-10-02)
+- [കലക്കൻ ഫാമിലി പടവുമായി ബിജു മേനോൻ; അവറാച്ചൻ ആന്റ് സൺസിന് കയ്യടിച്ച് പ്രേക്ഷകർ](https://www.reporterlive.com/entertainment/entertainment-news/2026/10/02/biju-menon-starring-avarachan-and-sons-get-good-response-from-theatres)
+- [Deepinder Goyal’s Temple wearable to launch in 6 colours, pre](https://www.moneycontrol.com/technology/deepinder-goyal-s-temple-wearable-to-launch-in-6-colours-pre-orders-may-open-next-week-article-14043427.html)
+- [CJP Protest LIVE: મુંબઈમાં કોકરોચ જનતા પાર્ટીના દેખાવો શરૂ, અભિનેતા નસીરુદ્દીન શાહ પણ સમર્થન કરવા પહોંચ્યા](https://www.gujaratsamachar.com/news/national/cjp-will-take-to-the-streets-against-cec-gyanesh-kumar-from-today-presenting-3-main-demands-detention-of-aap-leader-in-delhi-locals-protest-in-mumbai-21673525470)
+- [মুশতাক খানের প্রার্থনা সভায় রাজপাল যাদবকে অপমান করে বের করে দেওয়া হয়? ভাইরাল ভিডিয়োর সত্যিটা জানুন](https://www.hindustantimes.com/bangla/entertainment/fact-check-didi-rajpal-yadav-asked-to-leave-mushtaq-khans-prayer-meet-know-the-truth-271790892622283.html)
+- [இன்று எந்தெந்த மாவட்டங்களில் மழை வெளுத்துவங்கும் ! வானிலை மையம் அப்டேட் !](https://kumudam.com/tamil-nadu-weather-news-today-rain-forecast)
+- [ആഡംബര കാർ സമ്മാനം! ആറ് ക്യാൻ എനർജി ഡ്രിങ്ക് കുടിച്ച 13കാരന് ദാരുണാന്ത്യം](https://www.metrovaartha.com/news/crime/13-years-old-died-after-drinking-6-can-egergy-drink)
+- [Dino Morea Arrested By Mumbai EOW In Mithi River Scam Case](https://www.news18.com/movies/bollywood/dino-morea-arrested-by-mumbai-eow-in-mithi-river-scam-case-10364439.html)
+- [దృశ్యం: ది కన్‌క్లూజన్‌.. సమీర్‌ చావుకు హిందీలోనైనా ముగింపు పలికారా?](https://www.eenadu.net/telugu-news/movies/drishyam-the-conclusion-movie-review-in-telugu/0203/126177790)
+- [2027 ഏകദിന ലോകകപ്പ് ഒക്ടോബർ 2 മുതൽ; ഇന്ത്യയുടെ ആദ്യ മത്സരം ഓസ്ട്രേലിയക്കെതിരെ;ഇന്ത്യ-പാക് പോരാട്ടം ഒക്ടോബർ 10-ന്](https://malayalam.news18.com/news/sports/the-2027-odi-world-cup-will-begin-on-october-2-indias-first-match-is-against-australia-india-pakistan-clash-is-on-october-10-nkn-ws-l-790778.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
