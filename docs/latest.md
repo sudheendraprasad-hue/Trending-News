@@ -1,12 +1,12 @@
-# India Trending Report — 2026-10-02 05:37:25
+# India Trending Report — 2026-10-02 06:03:30
 
 ## Google Trends (India) — top trending searches
 1. [sigma movie](https://trends.google.com/trending/rss?geo=IN)
 2. [sigma movie review](https://trends.google.com/trending/rss?geo=IN)
 3. [लाल बहादुर शास्त्री](https://trends.google.com/trending/rss?geo=IN)
 4. [pakistan](https://trends.google.com/trending/rss?geo=IN)
-5. [asian games medal tally](https://trends.google.com/trending/rss?geo=IN)
-6. [mahatma gandhi jayanti](https://trends.google.com/trending/rss?geo=IN)
+5. [asian games 2026 medal tally](https://trends.google.com/trending/rss?geo=IN)
+6. [asian games medal tally](https://trends.google.com/trending/rss?geo=IN)
 7. [गांधी जयंती](https://trends.google.com/trending/rss?geo=IN)
 8. [dominican republic vs haiti](https://trends.google.com/trending/rss?geo=IN)
 9. [जिलाधिकारी](https://trends.google.com/trending/rss?geo=IN)
@@ -15,15 +15,15 @@
 ## Latest headlines by outlet
 **Times of India**
 - ['Is there doctor? Extra pilot?' New video shows passengers rushing to flydubai cockpit](https://timesofindia.indiatimes.com/world/middle-east/new-video-shows-panic-chaos-on-flydubai-plane-how-passengers-rushed-to-cockpit-during-hijack-attempt/articleshow/134631835.cms)
-- [Of 97 left out in Goa, 88 are back, 3 others are Portuguese citizens: EC](https://timesofindia.indiatimes.com/india/of-97-left-out-in-goa-88-are-back-3-others-are-portuguese-citizens-ec/articleshow/134627337.cms)
+- [Birthday girl Lovlina makes history with gold, joins Mary Kom in elite club](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-birthday-girl-lovlina-borgohain-makes-history-with-gold-joins-mary-kom-in-elite-club/articleshow/134631913.cms)
 - [Ambulance stopped for CM Himanta’s convoy: 4 Assam cops suspended](https://timesofindia.indiatimes.com/city/guwahati/ambulance-stopped-for-himantas-convoy-4-assam-cops-suspended/articleshow/134612527.cms)
 - [Ford CEO Jim Farley makes clear distinction of the jobs that AI cannot replace](https://timesofindia.indiatimes.com/technology/tech-news/ford-ceo-jim-farley-makes-clear-distinction-of-the-jobs-that-ai-cannot-replace-says-automation-cannot-be-done-for-/articleshow/134632005.cms)
+- [EC launches special drive to restore names dropped during SIR](https://timesofindia.indiatimes.com/india/ec-launches-special-drive-to-restore-names-dropped-during-sir-blos-to-trace-left-out-voters/articleshow/134632556.cms)
+- [Property value rose before registration; ITAT scraps Rs 11.35 lakh tax on buyer](https://timesofindia.indiatimes.com/business/india-business/homebuyer-paid-rs-91-lakh-upfront-for-a-rs-1-24-crore-property-but-circle-value-rose-to-rs-1-46-crore-by-registration-why-itat-kolkata-gave-her-tax-relief-and-deleted-rs-11-35-lakh-addition/articleshow/134630669.cms)
 - [Taiwan to receive first new F-16 Viper jets from US](https://timesofindia.indiatimes.com/defence/international/taiwan-to-receive-first-new-f-16-viper-jets-from-us-how-are-they-different-from-older-falcons/articleshow/134632184.cms)
 - [‘Chala chala Shivaji Park’: CJP's Dipke calls on 'sawaris' to join protest against CEC](https://timesofindia.indiatimes.com/india/ec-sir-row-protests-planned-against-gyanesh-across-cities-cjps-dipke-calls-for-mumbais-shivaji-park-gathering-top-developments/articleshow/134631356.cms)
 - [Asian Games: Kumkum Mohod, Dhiraj Bommadevara win mixed recurve team silver](https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-kumkum-mohod-dhiraj-bommadevara-win-mixed-recurve-team-silver/articleshow/134631643.cms)
-- ['Mohammad' Deepak arrested for ‘assaulting’ trader over FB comment on Ujjain mosque](https://timesofindia.indiatimes.com/city/dehradun/mohd-deepak-arrested-for-assaulting-trader-for-fb-comment-on-ujjain-mosque-demolition/articleshow/134624863.cms)
-- ['Unsuitable for service': 2 Gujarat IAS officers forced into retirement](https://timesofindia.indiatimes.com/city/ahmedabad/2-gujarat-ias-officers-forced-into-retirement/articleshow/134625992.cms)
-- [Virginia widow saved Frank Lloyd Wright home by moving it 13 miles](https://timesofindia.indiatimes.com/world/us/in-1964-a-virginia-widow-fought-to-save-her-frank-lloyd-wright-home-from-interstate-66-it-was-dismantled-piece-by-piece-moved-13-miles-and-rebuilt-at-woodlawn-where-it-still-stands/articleshow/134611231.cms)
+- [Jack Johnson’s Hawaii farm harvested over 40,000 pounds of produce in six years](https://timesofindia.indiatimes.com/world/us/in-2019-jack-johnsons-foundation-bought-neglected-farmland-in-hawaii-six-years-later-it-reported-over-40000-pounds-of-produce-harvested-and-more-than-2200-students-welcomed-on-field-trips/articleshow/134589276.cms)
 
 **NDTV**
 - [Massive Protests Against Poll Body Chief Planned In Delhi, Mumbai Today](https://www.ndtv.com/india-news/cjp-aisa-jantar-mantar-shivaji-park-massive-protests-against-poll-body-chief-gyanesh-kumar-planned-in-delhi-mumbai-today-election-commission-12128441#publisher=newsstand)
@@ -38,6 +38,8 @@
 - [Same Stock, Different Results: These Mistakes Change Return On Investment](https://www.ndtv.com/business-news/share-market-news-same-stock-different-returns-these-mistakes-change-return-on-investment-12128254#publisher=newsstand)
 
 **Hindustan Times**
+- [Google Pixel 11 Pro Fold marks steady progress in an otherwise restless market](https://www.hindustantimes.com/india-news/google-pixel-11-pro-fold-marks-steady-progress-in-an-otherwise-restless-market-101790919929906.html)
+- [Mahanadi row: Odisha, Chhattisgarh CMs meet Amit Shah](https://www.hindustantimes.com/india-news/mahanadi-row-odisha-chhattisgarh-cms-meet-amit-shah-101790910343760.html)
 - [Stabbed flydubai pilot Smit Machchhar now stable, ‘smiling and laughing’ in Abu Dhabi hospital: Envoy](https://www.hindustantimes.com/india-news/stabbed-indian-flydubai-pilot-smit-machchhar-now-stable-smiling-and-laughing-in-abu-dhabi-hospital-envoy-israel-uae-saudi-tabuk-101790912480465.html)
 - [Tata-Javelin JV deal to co-produce missiles in India to boost security: JVV VP](https://www.hindustantimes.com/india-news/tatajavelin-jv-deal-to-co-produce-missiles-in-india-to-boost-security-jvv-vp-101790916090632.html)
 - [Delhi records minimum temperature of 23.2°C; AQI remains ‘moderate’](https://www.hindustantimes.com/india-news/delhi-records-minimum-temperature-of-23-2-c-aqi-remains-moderate-101790914649047.html)
@@ -46,34 +48,33 @@
 - [Rites alone don’t prove status for registration under Hindu Marriage Act: HC](https://www.hindustantimes.com/india-news/rites-alone-don-t-prove-status-for-registration-under-hindu-marriage-act-hc-101790912848945.html)
 - [Galgotias outscores IISc on THE’s ‘research quality’ metric, raising questions](https://www.hindustantimes.com/india-news/galgotias-outscores-iisc-on-the-s-research-quality-metric-raising-questions-101790910030143.html)
 - [11 Delhi metro stations closed for entry and exit ahead of Jantar Mantar protest: Full list](https://www.hindustantimes.com/india-news/11-delhi-metro-stations-closed-for-entry-and-exit-ahead-of-jantar-mantar-protest-full-list-rajiv-chowk-janpath-central-secretariat-new-delhi-101790909516215.html)
-- [Jantar Mantar protests: Prohibitory orders, traffic restrictions in central Delhi](https://www.hindustantimes.com/india-news/jantar-mantar-protests-prohibitory-orders-traffic-restrictions-in-central-delhi-101790909488193.html)
-- [TN-Left parties allege TVK ranks top among all parties when it comes to cash distribution to voters.”](https://www.hindustantimes.com/india-news/tnleft-parties-allege-tvk-ranks-top-among-all-parties-when-it-comes-to-cash-distribution-to-voters-101790881641477.html)
 
 **Vijay Karnataka**
+- [Gold Rate Hike: ಅ.02ರಂದು ಅಪರಂಜಿ ಚಿನ್ನದ ಬೆಲೆಯಲ್ಲಿ ಮತ್ತೆ ₹1040 ಭಾರಿ ಏರಿಕೆ! ಇಂದಿನ ಚಿನ್ನದ ಬೆಲೆ ಎಷ್ಟಾಗಿದೆ?](https://vijaykarnataka.com/business/gold-silver-price/gold-rate-today-oct-02-2026-gold-price-rise-by-1040rs-silver-price-remains-same-check-24k-22k-18k-prices/articleshow/134632479.cms)
 - [ಮಂಗಳೂರು, ಉಡುಪಿಯಲ್ಲಿ ಮಂದಗತಿಯಲ್ಲಿ ಸಾಗ್ತಿದೆ ಪಡಿತರ ಇ-ಕೆವೈಸಿ ಕಾರ್ಯ: ಅಂದು ಸರ್ವರ್‌ ಸಮಸ್ಯೆ, ಇಂದು ಜನರ ನಿರಾಸಕ್ತಿ!](https://vijaykarnataka.com/news/mangaluru/ration-card-e-kyc-slow-process-in-mangaluru-and-udupi/articleshow/134631673.cms)
 - [ಎಂಸಿ ಸುಧಾಕರ್‌ v/s ಪ್ರದೀಪ್ ಈಶ್ವರ್: ರಾಜಕೀಯ ಕೆಸರೆರಚಾಟದಲ್ಲಿ ಕಾಂಗ್ರೆಸ್‌ ವಿಲವಿಲ, ಗುರು-ಶಿಷ್ಯರ ಕಾಳಗಕ್ಕೆ ಕಾರಣ ಏನು?](https://vijaykarnataka.com/news/chikkaballapura/congress-mla-pradeep-eshwar-and-mc-sudhakar-political-fight/articleshow/134631514.cms)
-- [ಬೆಂಗಳೂರು - ಮುಂಬಯಿ ’ವಂದೇ ಭಾರತ್ ಸ್ಲೀಪರ್’: ದಕ್ಷಿಣ ಭಾರತದ ಮೊದಲ ಹೈಟೆಕ್ ರೈಲು ಆರಂಭಕ್ಕೆ ಡೇಟ್ ಫಿಕ್ಸ್!](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-mumbai-vande-bharat-sleeper-south-india-first-train-launch-date/articleshow/134631891.cms)
 - [ಅಲ್ಯೂಮಿನಿಯಂ vs ಸ್ಟೇನ್‌ಲೆಸ್ ಸ್ಟೀಲ್ ಪ್ರೆಶರ್ ಕುಕ್ಕರ್: ದಿನನಿತ್ಯದ ಅಡುಗೆಗೆ ಯಾವುದು ಉತ್ತಮ? ಇಲ್ಲಿದೆ ವ್ಯತ್ಯಾಸ](https://vijaykarnataka.com/lifestyle/home-decor/aluminum-vs-stainless-steel-pressure-cooker-daily-cooking/articleshow/134631268.cms)
-- [ದುಬೈನಿಂದ 113 ಕೆಜಿ ಚಿನ್ನ ಕಳ್ಳಸಾಗಣೆ ಕೇಸ್: ನಟಿ ರನ್ಯಾರಾವ್‌ಗೆ 89 ಕೋಟಿ ರೂ. ದಂಡ ವಿಧಿಸಿದ ಕಸ್ಟಮ್ಸ್‌ ಇಲಾಖೆ!](https://vijaykarnataka.com/news/karnataka/113-kg-gold-smuggling-from-dubai-actress-ranya-rao-fined-89-crs-by-customs-dept/articleshow/134631284.cms)
+- [ಬೆಂಗಳೂರು - ಮುಂಬಯಿ ’ವಂದೇ ಭಾರತ್ ಸ್ಲೀಪರ್’: ದಕ್ಷಿಣ ಭಾರತದ ಮೊದಲ ಹೈಟೆಕ್ ರೈಲು ಆರಂಭಕ್ಕೆ ಡೇಟ್ ಫಿಕ್ಸ್!](https://vijaykarnataka.com/news/bengaluru-city/bengaluru-mumbai-vande-bharat-sleeper-south-india-first-train-launch-date/articleshow/134631891.cms)
 - [BBK 13 ತಾಂಡವ್‌ ಬದಲಾವಣೆಯ ಗಾಳಿ: ಸಿಡಿದೆದ್ದ ಆಸಿಯಾ ಫಿರ್ದೋಸ್‌!](https://vijaykarnataka.com/tv/bigg-boss-kannada/thanadav-ram-has-been-select-as-the-captain-of-the-bigg-boss-house-for-the-4th-week-and-a-new-chapter-has-begun/articleshow/134631556.cms)
 - [ಗಿಡಗಳ ಬೆಳವಣಿಗೆ ನಿಂತಿದೆಯೇ? ಬಾಳೆಹಣ್ಣಿನ ಸಿಪ್ಪೆ, ಬೆಲ್ಲ ಬಳಸಿ ಮನೆಯಲ್ಲೇ ಲಿಕ್ವಿಡ್ ಗೊಬ್ಬರ ತಯಾರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/how-to-make-liquid-fertilizer-at-home-for-plants/articleshow/134570899.cms)
 - [ಶನಿವಾರ ದೀಪ ಹಚ್ಚುವಾಗ ಲವಂಗ ಬಳಸುವ ಧಾರ್ಮಿಕ ನಂಬಿಕೆ.!](https://vijaykarnataka.com/religion/pooja-vidhana/saturday-light-a-lamp-with-cloves-to-seek-shanis-blessings/articleshow/134618138.cms)
 - [ಗಾಂಧಿ ಜಯಂತಿ ವಿಶೇಷ: ಮಕ್ಕಳಿಗೆ ಕಲಿಸಬೇಕಾದ ಬಾಪೂ ಅವರ 5 ಪ್ರಮುಖ ತತ್ವಗಳು](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/gandhi-jayanti-principles-teach-children-life-lessons/articleshow/134617646.cms)
-- [ಮೈಸೂರು ದಸರಾ ಜಂಬೂಸವಾರಿಯಲ್ಲಿ ಹೊರರಾಜ್ಯದ ಸ್ತಬ್ಧಚಿತ್ರಕ್ಕೆ ಅವಕಾಶ: ಕರ್ನಾಟಕದ ಯಾವ ಜಿಲ್ಲೆಯ ಟ್ಯಾಬ್ಲೊ ಥೀಮ್‌ ಹೇಗಿದೆ?](https://vijaykarnataka.com/news/mysuru/mysuru-dasara-jumbo-savari-gives-chance-for-tableau-from-another-state-districwise-themes-of-the-tableau/articleshow/134630901.cms)
+- [ದುಬೈನಿಂದ 113 ಕೆಜಿ ಚಿನ್ನ ಕಳ್ಳಸಾಗಣೆ ಕೇಸ್: ನಟಿ ರನ್ಯಾರಾವ್‌ಗೆ 89 ಕೋಟಿ ರೂ. ದಂಡ ವಿಧಿಸಿದ ಕಸ್ಟಮ್ಸ್‌ ಇಲಾಖೆ!](https://vijaykarnataka.com/news/karnataka/113-kg-gold-smuggling-from-dubai-actress-ranya-rao-fined-89-crs-by-customs-dept/articleshow/134631284.cms)
 
 **The Hindu**
-- [SIR: ECI asks BLOs to revisit deleted list, ensure those eligible but left out are re-enrolled within a month](https://www.thehindu.com/news/national/sir-eci-asks-blos-to-revisit-deleted-list-ensure-those-eligible-but-left-out-are-re-enrolled-within-a-month/article71535882.ece)
 - [Internet suspended around Delhi's Jantar Mantar ahead of protest against CEC Gyanesh Kumar; Dipke warns of nationwide unrest | LIVE](https://www.thehindu.com/news/national/cec-gyanesh-kumar-row-cjp-opposition-parties-to-organise-separate-protests-live-updates-october-2-2026/article71535655.ece)
+- [Rajiv Gandhi assassination case convict A.G. Perarivalan moves Madras HC seeking passport issuance](https://www.thehindu.com/news/national/tamil-nadu/rajiv-gandhi-assassination-case-convict-ag-perarivalan-moves-madras-hc-seeking-passport-issuance/article71535712.ece)
+- [Marginalised Yanadi and Chenchu communities in Andhra Pradesh struggle for land](https://www.thehindu.com/news/national/andhra-pradesh/marginalised-yanadi-and-chenchu-communities-in-andhra-pradesh-struggle-for-land/article71533477.ece)
+- [G.P. Talwar at 100: scientist, institution builder, lifelong researcher](https://www.thehindu.com/sci-tech/health/gp-talwar-centenary-institution-builder-nii-leprosy-vaccine-birth-control/article71535826.ece)
+- [Keralam govt faces unity test as UDF convener Adoor Prakash reiterates ‘lack of alliance consultations’ on key postings](https://www.thehindu.com/news/national/kerala/keralam-govt-faces-unity-test-as-udf-convener-adoor-prakash-reiterates-lack-of-alliance-consultations-on-key-postings/article71535925.ece)
+- [Hyderabad’s Ganesh puja: Big on devotion, bigger on moolah](https://www.thehindu.com/news/national/telangana/hyderabads-ganesh-puja-big-on-devotion-bigger-on-moolah/article71534613.ece)
+- [What is the Vettri Payanam Thittam launched by Tamil Nadu CM Vijay? Explained](https://www.thehindu.com/news/national/tamil-nadu/what-is-the-vettri-payanam-thittam-launched-by-tamil-nadu-cm-vijay-explained/article71535917.ece)
+- [Trinamool stripped of its name and symbol, vote for BJP, says CM Suvendu in Rejinagar](https://www.thehindu.com/news/national/west-bengal/trinamool-stripped-of-its-name-and-symbol-vote-for-bjp-says-cm-suvendu-in-rejinagar/article71533649.ece)
+- [SIR: ECI asks BLOs to revisit deleted list, ensure those eligible but left out are re-enrolled within a month](https://www.thehindu.com/news/national/sir-eci-asks-blos-to-revisit-deleted-list-ensure-those-eligible-but-left-out-are-re-enrolled-within-a-month/article71535882.ece)
 - [Nandigram and Rejinagar bypoll: Ballot without the battle](https://www.thehindu.com/news/national/west-bengal/nandigram-and-rejinagar-bypoll-ballot-without-the-battle/article71512622.ece)
-- [Nitin Gadkari calls Ethanol blending a step towards diversification of agricultural sector](https://www.thehindu.com/business/nitin-gadkari-calls-ethanol-blending-a-step-towards-diversification-of-agricultural-sector/article71533432.ece)
-- [Retired official arrested under POCSO Act in Ongole after girl’s friend calls 112](https://www.thehindu.com/news/national/andhra-pradesh/retired-official-arrested-under-pocso-act-in-ongole-after-girls-friend-calls-112/article71533927.ece)
-- [In Bihar, 44 prisoners to be released on Mahatma Gandhi’s birth anniversary](https://www.thehindu.com/news/national/bihar/in-bihar-44-prisoners-to-be-released-on-mahatma-gandhis-birth-anniversary/article71533693.ece)
-- [PM Modi pays homage to Mahatma Gandhi on birth anniversary](https://www.thehindu.com/news/national/pm-modi-honors-gandhi-on-his-birth-anniversary/article71535824.ece)
-- [Andhra HRD Minister Lokesh asks officials to set skill training targets](https://www.thehindu.com/news/national/andhra-pradesh/andhra-hrd-minister-lokesh-asks-officials-to-set-skill-training-targets/article71533734.ece)
-- [Election Commission making a mockery of the Constitution: Dipankar](https://www.thehindu.com/news/national/election-commission-making-a-mockery-of-the-constitution-dipankar/article71533826.ece)
-- [Only ideas, entrepreneurship can create jobs and make India a developed country: NRN](https://www.thehindu.com/news/national/karnataka/only-ideas-entrepreneurship-can-create-jobs-and-make-india-a-developed-country-nrn/article71534288.ece)
 
 **Livemint**
+- [‘CEC Gyanesh Kumar must resign’: CJP, INDIA bloc, youth wings to protest in Delhi, Mumbai from Oct 2 – Full plan](https://www.livemint.com/news/india/cec-gyanesh-kumar-must-resign-cjp-india-bloc-youth-wings-to-protest-in-delhi-mumbai-from-oct-2-full-plan-11790916644460.html)
 - [Tawang Tourism Mart: Why India’s choice of Arunachal venue after 13 years matters amid China’s territorial claim](https://www.livemint.com/news/india/tawang-tourism-mart-why-india-s-choice-of-arunachal-venue-after-13-years-matters-amid-china-s-territorial-claim-11790916746484.html)
 - [DMRC closes 11 stations ‘till further notice’ amid Jantar Manatar protest | List of Delhi metro stations closed today](https://www.livemint.com/news/india/dmrc-closes-11-stations-till-further-notice-amid-jantar-manatar-protest-list-of-delhi-metro-stations-closed-today-11790916804250.html)
 - [Flydubai hijack attempt: Indian pilot Smit Machchhar hailed as ‘true hero’; friend says ‘He’s taught us courage’](https://www.livemint.com/news/india/flydubai-hijack-attempt-indian-pilot-smit-machchhar-hailed-as-true-hero-friend-says-he-s-taught-us-courage-11790915587009.html)
@@ -83,7 +84,6 @@
 - [Bengaluru 2BHK for  ₹70,000 rent,  ₹4 lakh deposit sparks debate: ‘My apartment in France is cheaper’](https://www.livemint.com/news/trends/bengaluru-2bhk-for-70-000-rent-4-lakh-deposit-sparks-debate-my-apartment-in-france-is-cheaper-11790904355763.html)
 - [Iran war news LIVE Updates: Fresh attack on Tehran? US sends 9,000 troops, USS Theodore Roosevelt carrier to Middle East](https://www.livemint.com/news/us-news/iran-war-news-live-updates-us-sends-thousands-troops-uss-theodore-roosevelt-carrier-middle-east-strait-of-hormuz-attack-11790902747157.html)
 - [Lal Bahadur Shastri Jayanti 2026: Wishes, quotes, images to share on WhatsApp, Facebook with loved ones](https://www.livemint.com/news/trends/happy-lal-bahadur-shastri-jayanti-2026-top-wishes-quotes-by-shastri-ji-images-whatsapp-and-facebook-status-to-share-11790860786987.html)
-- [Doctors Without Borders Worker Contracts Ebola in Congo, Evacuated to Netherlands](https://www.livemint.com/news/doctors-without-borders-worker-contracts-ebola-in-congo-evacuated-to-netherlands-11790901774807.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,8 +98,9 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಫಾರಂ-7 ಅರ್ಜಿ ಸಲ್ಲಿಕೆ ಕುರಿತು ಬಿಜೆಪಿ ವಿರುದ್ಧ ಮಾಡಿರುವ ಆರೋಪವನ್ನು ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್ ಸಾಬೀತುಪಡಿಸಲಿ : ಬಿ.ವೈ.ವಿಜಯೇಂದ್ರ](https://www.varthabharati.in/bangalore-city/dk-shivakumar-should-prove-allegations-against-bjp-over-form-7-applications-by-vijayendra-2279627)
 - [ರಂಗ ದಾಖಲೆಯ ‘ಸಡಗರಕೆ ಸಾವಿಲ್ಲ’](https://www.varthabharati.in/ranga-prasanga/theatrical-milestone-2279626)
-- [ದಿಲ್ಲಿ | CEC ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ವಿರುದ್ಧ ಪ್ರತಿಭಟನೆ ತೀವ್ರ ; ಜಂತರ್ ಮಂತರ್‌ನಲ್ಲಿ ಸೌರಭ್ ಭಾರದ್ವಾಜ್, AAP ಕಾರ್ಯಕರ್ತರು ಪೊಲೀಸ್ ವಶಕ್ಕೆ](https://www.varthabharati.in/National/jantar-mantar-protest-live-updates-aap-leaders-detained-jantar-mantar-sealed-as-protest-against-cec-hots-up-2279624)
+- [ದಿಲ್ಲಿ | CEC ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ವಿರುದ್ಧ ಪ್ರತಿಭಟನೆ ತೀವ್ರ ; ಜಂತರ್ ಮಂತರ್‌ನಲ್ಲಿ ಸೌರಭ್ ಭಾರದ್ವಾಜ್, AAP ಕಾರ್ಯಕರ್ತರು ಪೊಲೀಸ್ ವಶಕ್ಕೆ](https://www.varthabharati.in/national/jantar-mantar-protest-live-updates-aap-leaders-detained-jantar-mantar-sealed-as-protest-against-cec-hots-up-2279624)
 - [ಅ.4ರಂದು ಸಿರಿಬಾಗಿಲು ಪ್ರತಿಷ್ಠಾನದಿಂದ ಉಚಿತ ವೈದ್ಯಕೀಯ ತಪಾಸಣಾ ಶಿಬಿರ](https://www.varthabharati.in/dakshinakannada/free-medical-check-up-camp-by-siribagilu-foundation-on-october-4-2279621)
 - [Kasaragod | ಸೀಮೆಎಣ್ಣೆ ಸುರಿದು ಆತ್ಮಹತ್ಯೆಗೆ ಯತ್ನಿಸಿದ್ದ ಮಹಿಳೆ ಚಿಕಿತ್ಸೆ ಫಲಕಾರಿಯಾಗದೆ ಮೃತ್ಯು](https://www.varthabharati.in/kasaragod/kasaragod-woman-who-attempted-suicide-by-dousing-herself-with-kerosene-dies-after-treatment-fails-2279620)
 - [‘ಒಂದು ರಾಷ್ಟ್ರ, ಒಂದು ಚುನಾವಣೆ’ ಸಭೆ ವಿವಾದ | ಹಾಲಿ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ನ್ಯಾಯಮೂರ್ತಿಗಳ ಜತೆ ಚರ್ಚೆಗೆ ಕಪಿಲ್ ಸಿಬಲ್ ಆಕ್ಷೇಪ](https://www.varthabharati.in/National/controversy-over-one-nation-one-election-meeting-2279619)
@@ -107,9 +108,10 @@
 - [Kalaburagi | ಅಕ್ರಮವಾಗಿ ಪಡಿತರ ಅಕ್ಕಿ ಸಾಗಣೆ;  ಜಪ್ತಿ ಮಾಡಿದ ವಾಹನ ಬಿಡುಗಡೆ ಆರೋಪ: ಆಳಂದ ಪಿಐ ಸೇರಿ ನಾಲ್ವರು ಅಮಾನತು](https://www.varthabharati.in/kalaburagi/kalaburagi-illegal-transport-of-pds-rice-allegation-of-releasing-seized-vehicle-four-officials-including-aland-pi-suspended-2279615)
 - [ಭಾನಾಪುರದಲ್ಲಿ ಗಾಂಧೀಜಿ ಸವಿನೆನಪು ; ಸ್ಮಾರಕ ನಿರ್ಮಾಣಕ್ಕೆ ಆಗ್ರಹ](https://www.varthabharati.in/nimma-ankana/commemorating-gandhiji-in-bhanapura-demand-for-the-construction-of-a-memorial-2279613)
 - [ವೇಮುಲಾ, ತಡ್ವಿ, ಸಾಹಿಲ್; ಸಾಂಸ್ಥಿಕ ಹತ್ಯೆಗಳ ಮುಂದುವರಿಕೆ](https://www.varthabharati.in/plural/vemula-tadvi-sahil-the-continuation-of-institutional-killings-2279612)
-- [ಮಹಾತ್ಮಾ ಗಾಂಧಿ ಯಾಕೆ ಸದಾ ಪ್ರಸ್ತುತರಾಗುತ್ತಾರೆ?](https://www.varthabharati.in/nimma-ankana/why-is-mahatma-gandhi-always-relevant-2279611)
 
 **Asianet Kannada**
+- [ಇಂಟರ್​ನೆಟ್​ ಇಲ್ಲದೇ ಮೊಬೈಲ್​ನಲ್ಲಿ ಟಿವಿ ವೀಕ್ಷಣೆ: ಗ್ರಾಹಕರಿಗೆ ಗುಡ್​ನ್ಯೂಸ್​ ಕೊಟ್ಟ ಕೇಂದ್ರ- ಶೀಘ್ರ ಜಾರಿ](https://kannada.asianetnews.com/technology/govt-prepares-for-d2m-rollout-it-will-let-you-watch-tv-on-phone-without-internet-suc/articleshow-minvwd5)
+- [ವಿರಾಟ್ ಕೊಹ್ಲಿ 29ನೇ ವಯಸ್ಸಿಗೆ ಮಾಡಿದ ಸಾಧನೆಯನ್ನು 15ನೇ ವಯಸ್ಸಿಗೆ ಸಾಧಿಸಿದ ವೈಭವ್ ಸೂರ್ಯವಂಶಿ!](https://kannada.asianetnews.com/gallery/cricket-sports/vaibhav-suryavanshi-time-100-next-list-for-2026-spot-previously-held-by-virat-kohli-in-2018-sat-vg616ze)
 - [ಅಕ್ಟೋಬರ್ 4ರಿಂದ ಸೂರ್ಯ-ಶನಿ 180 ಡಿಗ್ರಿ; ಪ್ರತ್ಯುತಿ ಯೋಗದಿಂದ ಈ 3 ರಾಶಿಗೆ ಹಣ, ಯಶಸ್ಸಿನ ಯೋಗ!](https://kannada.asianetnews.com/festivals/saturn-and-sun-on-180-degree-3-zodiac-signs-wealth-from-4-october-suh/articleshow-ylz9rlv)
 - [ಬಿಸಿಲೂರು ವಿಜಯಪುರದಲ್ಲಿ ಗ್ರೇಟ್‌ ಗ್ರೀನ್‌ ವಾಲ್‌, ಏಪ್ರಿಲ್‌ಕೂಲ್‌, ತಾಪಮಾನ 2-3 ಡಿಗ್ರಿಯಷ್ಟು ಕಡಿಮೆ](https://kannada.asianetnews.com/special/vijayapura-minister-m-b-patil-s-team-launches-koti-vruksha-abhiyana-campaign-to-combat-scorching-heat-mrq/articleshow-bsesze8)
 - [Mantralaya mutt: ಕೇವಲ 22 ದಿನಗಳಲ್ಲಿ ರಾಯರ ಹುಂಡಿಗೆ ಹರಿದುಬಂತು ಕೋಟಿ ಕೋಟಿ ಕಾಣಿಕೆ! ಚಿನ್ನ ಬೆಳ್ಳಿ ಎಷ್ಟು?](https://kannada.asianetnews.com/gallery/karnataka-districts/mantralaya-temple-collects-more-than-3-crore-in-just-22-days-of-hundi-counting-rav-ibow5yv)
@@ -118,24 +120,25 @@
 - [ಬೆಂಗಳೂರು-ಮುಂಬೈ ವಂದೇ ಭಾರತ್ ಸ್ಲೀಪರ್ ರೈಲು ವೇಳಾಪಟ್ಟಿ ಪ್ರಕಟ: ನಿಲ್ದಾಣ, ಸಮಯದ ವಿವರ ಇಲ್ಲಿದೆ](https://kannada.asianetnews.com/gallery/bengaluru-urban/indian-railway-bengaluru-mumbai-vande-bharat-sleeper-train-schedule-timings-route-sat-xbgg5f2)
 - [ಅಕ್ಟೋಬರ್ 4ಕ್ಕೆ ಗಜಕೇಸರಿ ರಾಜಯೋಗ; ಮೇಷ ಸೇರಿದಂತೆ ಈ 4 ರಾಶಿಗೆ ಹಣ, ಉದ್ಯೋಗದಲ್ಲಿ ಭರ್ಜರಿ ಲಾಭ](https://kannada.asianetnews.com/astrology/gajkesari-rajayoga-2026-bring-money-luck-career-to-4-zodiac-signs-suh/articleshow-8mkfag3)
 - [Cricket; ಅದೇ ಅಂಗಳ, ಹಳೇ ಗಾಯ! 23 ವರ್ಷಗಳ ನಂತರ ಎದುರಾಳಿಗಳ ಮಣ್ಣು ಮುಕ್ಕಿಸಲು ಆ ಜೋಡಿ ರೆಡಿ!](https://kannada.asianetnews.com/cricket-sports/icc-odi-world-cup-2027-schedule-india-vs-pakistan-johannesburg-sachin-2003-match-bmk/articleshow-i2q057a)
-- [ವಿಮಾನದಲ್ಲಿ ಎದೆನೋವು ಕಾಣಿಸಿಕೊಂಡ ಸಹ ಪ್ರಯಾಣಿಕನಿಗೆ ಪ್ರಾಣ ಉಳಿಸಿ ದೇವರಾದ ಪುತ್ತೂರಿನ ವೈದ್ಯ](https://kannada.asianetnews.com/dakshina-kannada/putturu-doctor-dr-sreekumar-katribail-saves-passenger-life-onboard-indigo-flight-gdp/articleshow-yol32g4)
-- [ಹಬ್ಬದ ಪ್ರಯಾಣಕ್ಕೆ ಮೈಸೂರು-ಬೆಂಗಳೂರು-ರಾಮೇಶ್ವರಂ ನಡುವೆ ವಿಶೇಷ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ರೈಲು](https://kannada.asianetnews.com/gallery/state/train-number-06263-and-06264-special-express-indian-railways-between-mysuru-bengaluru-rameswaram-for-festival-travel-mrq-bkad240)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ಸೌಜನ್ಯ ಅತ್ಯಾಚಾರ, ಕೊಲೆ ಪ್ರಕರಣ: ಮಾಹಿತಿ, ದಾಖಲೆಗಳನ್ನು ನೀಡುವಂತೆ  ಸಿಬಿಐ-ಸಿಐಡಿಗೆ SIT ಪತ್ರ](https://tv9kannada.com/videos/soujanya-case-re-investigation-sit-seeks-documents-from-cbi-and-cid-1245449.html)
+- [ಕೋಲಾರದಲ್ಲಿ ಅಪರೂಪದ ‘ಆಲಿವ್ ನೀರು ಹಾವು’ ಪತ್ತೆ! ಸುರಕ್ಷಿತವಾಗಿ ಕಾಡಿಗೆ ರವಾನೆ](https://tv9kannada.com/videos/rare-olive-keelback-snake-rescued-in-kolars-masti-layout-1245446.html)
+- [Gold Rates 2 October: ಮತ್ತೆ 15,000 ರೂ ದಾಟಿದ ಶುದ್ಧ ಬಂಗಾರದ ಬೆಲೆ](https://tv9kannada.com/business/gold-rate-2-october-2026-gold-price-down-on-friday-news-in-kannada-1245442.html)
+- [Curved Display: ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಕಣ್ಮರೆಯಾಗುತ್ತಿವೆ ಕರ್ವ್ಡ್ ಡಿಸ್‌ಪ್ಲೇ ಫೋನ್‌ಗಳು: ಈ ಟ್ರೆಂಡ್‌ ಕಡಿಮೆಯಾಗುತ್ತಿರುವುದೇಕೆ?](https://tv9kannada.com/business/curved-display-smartphone-disadvantages-flat-screen-1245440.html)
 - [ವಾಹನ ಸವಾರರೇ ಗಮನಿಸಿ: ಮೈಸೂರು ರಸ್ತೆ, ಕೆ. ಚನ್ನಸಂದ್ರ ಹಾಗೂ ಗೊರಗುಂಟೆಪಾಳ್ಯ ಮಾರ್ಗದಲ್ಲಿ ಇಂದು ಭಾರಿ ಟ್ರಾಫಿಕ್!](https://tv9kannada.com/karnataka/bengaluru/bengaluru-traffic-advisory-severe-bottlenecks-on-mysore-road-goraguntepalya-1245433.html)
 - [ಪಿತೃ ಪಕ್ಷ: ಬದರಿನಾಥದ ‘ಬ್ರಹ್ಮಕಪಾಲ’ದಲ್ಲೇಕೆ ನೀಡಬೇಕು ಅಂತಿಮ ಪಿಂಡದಾನ? ಇಲ್ಲಿದೆ ಪೌರಾಣಿಕ ಹಿನ್ನೆಲೆ!](https://tv9kannada.com/spiritual/brahmakapal-badrinath-ultimate-pindadaan-for-ancestral-moksha-and-pitru-paksha-1245424.html)
 - [‘ಸಿಗ್ಮಾ ಚಿತ್ರ ನೋಡಿ ಅಪ್ಪ ವಿಜಯ್ ಖಂಡಿತ ಹೆಮ್ಮೆಪಡುತ್ತಾರೆ’: ಮಗ ಜೇಸನ್ ಸಂಜಯ್ ವಿಶ್ವಾಸ](https://tv9kannada.com/entertainment/vijay-will-like-sigma-and-feel-proud-jason-sanjay-on-his-father-reaction-1245426.html)
 - [ಬಿಎಂಟಿಸಿ ಬಸ್‌ಗಳಲ್ಲಿ ಟಿಕೆಟ್‌ ರಹಿತ ಪ್ರಯಾಣಿಕರಿಗೆ ಶಾಕ್: 30 ಬಸ್‌ಗಳಲ್ಲಿ ಸ್ವಯಂಚಾಲಿತ ಪ್ರಯಾಣಿಕರ ಎಣಿಕೆ ಹೈಟೆಕ್ ಸಿಸ್ಟಮ್ ಜಾರಿ](https://tv9kannada.com/karnataka/bengaluru/bmtc-smart-buses-apc-tech-to-boost-efficiency-curb-revenue-loss-in-bengaluru-1245429.html)
 - [ಚಿಕ್ಕಮಗಳೂರು: ಕಗ್ಗತಲ ರಾತ್ರಿ ಹೆಡ್‌ಲೈಟ್ ಇಲ್ಲದೆ ಸಂಚರಿಸಿದ ಕೆಎಸ್ಆರ್​ಟಿಸಿ ಬಸ್! ಪ್ರಯಾಣಿಕರಲ್ಲಿ ಆತಂಕ](https://tv9kannada.com/videos/chikkamagaluru-ksrtc-bus-runs-without-headlight-passengers-left-worried-watch-video-here-1245398.html)
 - [ಕೋ ಪೈಲಟ್‌ ಆಕ್ರಮಣ, 174 ಜೀವಗಳ ರಕ್ಷಣೆ: ಫ್ಲೈದುಬೈ ವಿಮಾನದಲ್ಲೊಂದು ಪವಾಡ ಸದೃಶ ಘಟನೆ](https://tv9kannada.com/videos/flydubai-flight-fz1073-captain-smiths-sky-battle-and-passengers-heroic-intervention-1245423.html)
-- [ಗಾಂಧಿ ಜಯಂತಿ: ರಾಜ್‌ಘಾಟ್‌ನಲ್ಲಿ ಮಹಾತ್ಮ ಗಾಂಧಿಗೆ ಪ್ರಧಾನಿ ಮೋದಿ ನಮನ](https://tv9kannada.com/videos/pm-modi-pays-tribute-to-mahatma-gandhi-at-rajghat-on-gandhi-jayanti-1245419.html)
-- [ಹುಬ್ಬಳ್ಳಿಯಲ್ಲಿ ಪೊರಕೆ ಹಿಡಿದು ಸ್ವಚ್ಛತಾ ಅಭಿಯಾನಕ್ಕೆ ಚಾಲನೆ ನೀಡಿದ ಕೇಂದ್ರ ಸಚಿವ ಪ್ರಲ್ಹಾದ್ ಜೋಶಿ!](https://tv9kannada.com/videos/pralhad-joshi-leads-swachhata-abhiyan-in-hubballi-on-gandhi-jayanti-1245409.html)
-- [ಪ್ರಧಾನಿ ಮೋದಿ ಬಗ್ಗೆ ಭಾರೀ ಮೆಚ್ಚುಗೆ ವ್ಯಕ್ತಪಡಿಸಿದ ಪುಟಿನ್, ಉಕ್ರೇನ್ ಯುದ್ಧ ಅಂತ್ಯಕ್ಕೆ ಮೋದಿ ಬಳಿ ಉತ್ತಮ ಪ್ಲ್ಯಾನ್​ಗಳಿವೆ ಎಂದ ರಷ್ಯಾ ಅಧ್ಯಕ್ಷ](https://tv9kannada.com/world/putin-praises-pm-modis-ukraine-peace-plans-excellent-solutions-to-end-conflict-1245400.html)
-- [Used Tea Powder: ಚಹಾ ಮಾಡಿದ ಬಳಿಕ ಉಳಿದ ಟೀ ಪುಡಿ ಎಸೆಯಬೇಡಿ; ಮನೆಯ ಸ್ವಚ್ಛತೆಗೆ ಹೀಗೆ ಬಳಸಿ](https://tv9kannada.com/lifestyle/used-tea-powder-home-cleaning-tips-1245402.html)
 
 **Prajavani**
+- [ಆಲೂರಿನಲ್ಲಿ ಸಿವಿಲ್ ನ್ಯಾಯಾಲಯ ನಾಳೆ ಆರಂಭ](https://www.prajavani.net/district/hasana/alur-civil-judge-senior-division-court-begins-4302021)
+- [ಹಳೇಬೀಡು: ಗಾಂಧಿ ಜಯಂತಿ ಪ್ರಯುಕ್ತ ತೀರ್ಥಮಲ್ಲಿಕಾರ್ಜುನ ಕಲ್ಯಾಣಿ ಪುನಶ್ಚೇತನ](https://www.prajavani.net/district/hasana/halebidu-tirtha-mallikarjuna-kalyani-cleanliness-drive-students-4302131)
+- [ಅನಾಥ ಸ್ಥಿತಿಯಲ್ಲಿ ಮೈಸೂರಿನ ಗಾಂಧಿ ಭವನ](https://www.prajavani.net/district/mysuru/mysuru-gandhi-bhavan-unutilized-condition-protest-4302070)
 - [ಕರ್ನಾಟಕ–ದಕ್ಷಿಣ ಕೊರಿಯಾ ಸಹಕಾರ: ಸಚಿವ ಶರಣ ಪ್ರಕಾಶ ಪಾಟೀಲ ಜೊತೆ ಕನ್ನಡಿಗರ ಸಂವಾದ](https://www.prajavani.net/news/nrk/karnataka-south-korea-cooperation-minister-sharan-prakash-patil-seoul-visit-4302640)
 - [ಮಲೆಬೆನ್ನೂರು: ಅವಸಾನದ ಅಂಚಿಗೆ ತಲುಪಿದ ‘ಬಾಪೂಜಿ ಹಾಲ್‌’](https://www.prajavani.net/district/davanagere/malabennur-bapuji-hall-disrepair-gandhiji-visit-4302078)
 - [ಶಿವಮೊಗ್ಗ: ಹಲವೆಡೆ ನಾಳೆ ವಿದ್ಯುತ್‌ ವ್ಯತ್ಯಯ](https://www.prajavani.net/district/shivamogga/shivamogga-tyavare-chatnahalli-power-cut-maintenance-work-4302445)
@@ -143,11 +146,9 @@
 - [ಹರಿಹರ ಕನ್ನಡದ ಮೊದಲ ಬಂಡಾಯ ಕವಿ: ಕೃಷ್ಣಮೂರ್ತಿ ಹನೂರು](https://www.prajavani.net/district/shivamogga/harihara-kannada-first-rebel-poet-krishnamurthy-hanoor-sagara-4302306)
 - [ನ್ಯಾಯಬೆಲೆ ಅಂಗಡಿ ವಿರುದ್ಧ ಕ್ರಮ ಕೈಗೊಳ್ಳಲಾಗುವುದು: ಜಯಶೀಲ ಗೌಡ](https://www.prajavani.net/district/shivamogga/sorab-fair-price-shop-action-illegal-charges-jayashila-gowda-4302030)
 - [‘ಕ್ರೀಡೆಯಲ್ಲಿ ಪ್ರತಿಯೊಬ್ಬರೂ ತೊಡಗಿಸಿಕೊಳ್ಳಿ’: ಸಂಸದ ಬಿ.ವೈ.ರಾಘವೇಂದ್ರ](https://www.prajavani.net/district/shivamogga/shikaripur-sports-event-by-raghavendra-inaugurates-4302114)
-- [ಗದಗ ಕಾಂಗ್ರೆಸ್‌–ಬಿಜೆಪಿ ನಡುವೆ ‘ಜಲ ಸಮರ’](https://www.prajavani.net/district/gadaga/gadag-water-dispute-congress-bjp-political-strife-4301915)
-- [ಪಾವಗಡದಲ್ಲಿ ಮಳೆ ಇಲ್ಲದೆ ಬತ್ತಿದ ಕೊಳವೆಬಾವಿಗಳು, ಕುಡಿಯುವ ನೀರಿನ ಸಮಸ್ಯೆ](https://www.prajavani.net/district/tumakuru/pavagada-borewells-dry-water-scarcity-farmers-distress-4301917)
-- [ರಾಣೆಬೆನ್ನೂರು: ಶಿಕ್ಷಕನ ವಿರುದ್ಧ ಪೋಕ್ಸೊ ಪ್ರಕರಣ ದಾಖಲು](https://www.prajavani.net/district/haveri/ranebennur-teacher-pocso-case-student-sexual-assault-4302479)
 
 **eedina**
+- [ಮುಸ್ಲಿಂ ಮತದಾರರ ಹೆಸರು ಅಳಿಸಲು ಬಿಜೆಪಿ ಜೊತೆ ಜೆಡಿಎಸ್ ಸಂಚು? ಡಿಕೆಶಿ ಹೇಳಿದ್ದೇನು?](https://eedina.com/?p=768728)
 - [ಸಿಜೆಪಿ ಬೆಂಬಲಕ್ಕೆ ನಿಂತ ಪಾಲ್ಘರ್ ವಕೀಲರ ಸಂಘ: ಕಾರ್ಯಕರ್ತರಿಗೆ ಉಚಿತ ಕಾನೂನು ನೆರವು ಘೋಷಣೆ](https://eedina.com/?p=768726)
 - [ಚೈತ್ರಾ ಗೋಶಾಲೆಗೆ ರೈತ ಸಂಘ ಮುತ್ತಿಗೆ; 7 ಹಸು-ಕರುಗಳ ಬಿಡುಗಡೆ](https://eedina.com/?p=768721)
 - [ಪಾಕಿಸ್ತಾನದ ತಕ್ಷಶಿಲಾ-ಹರಿಪುರ್‌ನಲ್ಲಿ ಟ್ರಂಪ್ ಪುತ್ರರ ‘ಆತ್ಮಾಹುತಿ ಡ್ರೋನ್’ ಸಾಮ್ರಾಜ್ಯ: ಸೇನಾ ಮುಖ್ಯಸ್ಥರ ಜತೆ ಗೌಪ್ಯ ಮಾತುಕತೆ](https://eedina.com/?p=768715)
@@ -157,38 +158,37 @@
 - [ಹಾವೇರಿ | ಮುನಿಶ್ವರ ಎಚ್ ಚೂರಿ ಅವರ ನಿವೃತ್ತಿ ಬದುಕು ಹಸನಾಗಲಿ : ಉಡಚಪ್ಪ ಮಾಳಗಿ](https://eedina.com/?p=768690)
 - [ಬೆಳಗಾವಿ | ಕಬ್ಬಿನ ಎಫ್‌ಆರ್‌ಪಿ ಹೆಚ್ಚಳಕ್ಕೆ ಕೇಂದ್ರ ಕ್ರಮ: ಅ.12ರಂದು ಸಭೆ ನಿರೀಕ್ಷೆ : ಸಂಜಯ ಪಾಟೀಲ](https://eedina.com/?p=768684)
 - [ಸಿಇಸಿ ಗ್ಯಾನೇಶ್ ರಾಜೀನಾಮೆಗೆ ಆಗ್ರಹಿಸಿ ಪ್ರತಿಭಟನೆ: ಅನುಮತಿ ನಿರಾಕರಣೆ; ಜಂತರ್ ಮಂತರ್‌ನಲ್ಲಿ ಬಿಗಿ ಭದ್ರತೆ](https://eedina.com/?p=768671)
-- [ಕಾರವಾರ, ಕುಮಟಾ, ದಾಂಡೇಲಿ ಪೊಲೀಸ್‌ ಅಧಿಕಾರಿಗಳ ವರ್ಗಾವಣೆ](https://eedina.com/?p=768665)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Delhi (6.1)
 - Emkay Global Financial (5.0)
-- Jantar Mantar (3.0)
+- What (3.9)
 - ICICI Securities (3.0)
 - target (3.0)
-- India (2.9)
-- What (2.6)
-- Jantar (2.1)
+- Full (2.6)
+- Rejinagar (2.6)
 - Poll Body Chief (2.0)
 - Smit Machchhar (2.0)
-- PM Modi (2.0)
-- Mahatma Gandhi (2.0)
+- Jantar Mantar (2.0)
+- CEC Gyanesh Kumar (2.0)
 - Buy Bajaj Finance (2.0)
 - LIVE (1.9)
-- Mantar (1.8)
+- Jantar (1.8)
+- Dipke (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [ലോകകപ്പ് ഫൈനല്‍ ജോഹനാസ്‌ബെര്‍ഗില്‍; ഇതിന് മുമ്പ് ഇവിടെ ഫൈനല്‍ നടന്നപ്പോള്‍ സംഭവിച്ചത്](https://www.doolnews.com/for-the-first-time-since-the-2007-t20-world-cup-the-final-of-an-icc-tournament-is-taking-place-in-johannesburg-65-114.html)
+- [Amitabh Bachchan House: অমিতাভ বচ্চনের সাধের 'জলসা' কেমন দেখতে? দেখে নিন এক ঝলকে](https://bangla.asianetnews.com/entertainment/amitabh-bachchan-knee-injury-and-inside-photos-of-his-mumbai-house-jalsa/photoshow-gr74bvb)
+- [What's Up: October 2026 Skywatching Tips From NASA](https://www.miragenews.com/whats-up-october-2026-skywatching-tips-from-nasa-1753825/)
+- [Nadeem Khatib pilot story। Smit Machchhar Flydubai pilot। स्मित ने बचाई 174 जान, पर ओमानी पायलट क्यों बना आतंकी? नदीम की कहानी से समझिए](https://hindi.news18.com/news/nation/flydubai-pilot-smit-machchhar-and-us-based-kashmiri-pilot-nadeem-khatib-terrorism-radicalization-two-pilots-two-stories-10879006.html)
 - [ICC એ 1 ઓક્ટોબરથી બદલી નાખ્યા ક્રિકેટના 7 નિયમ, હવે ટાઈમ ખરાબ કર્યો તો 5 રનની પેનલ્ટી](https://gujarati.abplive.com/sports/cricket/icc-changes-7-cricket-rules-from-today-1st-october-5-run-penalty-for-time-wasting-992455)
 - [અમદાવાદ: ગામડે મકાન બનાવવા દાગીના માગી સસરાનો પુત્રવધૂ પર ત્રાસ, 5 વર્ષના દીકરા સાથે મહિલાએ ઘર છોડ્યું, અભયમથી સમાધાન](https://www.gujaratsamachar.com/news/ahmedabad/181-abhayam-women-helpline-counselling-narol-family-dispute-41837360766)
 - [హైదరాబాద్‌లో పాకిస్థాన్ కాస్మోటిక్స్ విక్రయాలు.. రూ.7 లక్షల ఉత్పత్తులు సీజ్, ముంబై లింక్‌పై దర్యాప్తు](https://telugu.samayam.com/telangana/hyderabad/pakistani-cosmetics-worth-rs-7-lakh-seized-in-hyderabad-mumbai-supply-link-under-probe/articleshow/134623580.cms)
 - [अभिजीत दीपके को मुंबई पुलिस ने हिरासत में लिया, मरीन ड्राइव के पास हाथ में थीं तख्तियां](https://www.abplive.com/news/india/cjp-founder-abhijeet-dipke-detained-briefly-by-mumbai-police-before-protest-3196520)
 - [ECI orders probe into Form-7 fraud charge after Karnataka CM Shivakumar’s protest](https://www.thehindu.com/news/national/karnataka/eci-orders-probe-into-form-7-fraud-charge-after-karnataka-cm-shivakumars-protest/article71534408.ece)
 - [ലോകകപ്പ് 2027: പതിവ് തെറ്റിക്കാതെ ഇത്തവണയും പാകിസ്ഥാനൊപ്പം; ആദ്യ എതിരാളികൾ ഓസീസ്; ഫുൾ ഷെഡ്യൂൾ](https://www.doolnews.com/2027-odi-world-cup-full-schedule-65-114.html)
-- [GTA 6 gets a second trailer: Lucia, Jason and more Vice City characters](https://en.softonic.com/articles/gta-6-gets-a-second-trailer-lucia-jason-and-more-vice-city-characters)
-- [New Records Reveal 2024 Fraternity Party Timeline](https://indianexpress.com/article/world/us-news/cornell-rape-case-jane-doe-new-records-probe-reopened-10902650/)
-- [নতুন ভোটারের আবেদনে ফিরে এল পুরনো পদ্ধতি, ফর্ম-৬-এ আর নয় অতিরিক্ত ঘোষণাপত্র! বিজ্ঞপ্তি দিল সিইও-র দফতর](https://www.anandabazar.com/west-bengal/dgtlas-per-direction-of-election-commission-ceo-of-west-bengal-removes-change-of-form-6-for-new-voters-dgtl/cid/1716831)
-- [திமுக, அதிமுக, தவெக பணப்பட்டுபாடாவை கலச்சாரமாக மாற்றிவிட்டன- சிபிஐ வீரபாண்டியன் வேதனை](https://www.etvbharat.com/ta/state/dmk-aiadmk-and-tvk-have-turned-cash-for-votes-into-a-culture-cpi-leader-veerapandian-slams-major-parties-tns26100107947)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
