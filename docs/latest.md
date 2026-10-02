@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-02 22:36:42
+# India Trending Report — 2026-10-02 23:01:20
 
 ## Google Trends (India) — top trending searches
-1. [robert lewandowski](https://trends.google.com/trending/rss?geo=IN)
-2. [daniel maldini](https://trends.google.com/trending/rss?geo=IN)
-3. [cjp protests](https://trends.google.com/trending/rss?geo=IN)
-4. [दृश्यम](https://trends.google.com/trending/rss?geo=IN)
-5. [sebastiano esposito](https://trends.google.com/trending/rss?geo=IN)
-6. [poland vs romania](https://trends.google.com/trending/rss?geo=IN)
-7. [bosnia and herzegovina vs sweden](https://trends.google.com/trending/rss?geo=IN)
-8. [moneycontrol](https://trends.google.com/trending/rss?geo=IN)
-9. [france vs italy](https://trends.google.com/trending/rss?geo=IN)
-10. [dino morea arrested](https://trends.google.com/trending/rss?geo=IN)
+1. [são paulo vs santos](https://trends.google.com/trending/rss?geo=IN)
+2. [robert lewandowski](https://trends.google.com/trending/rss?geo=IN)
+3. [daniel maldini](https://trends.google.com/trending/rss?geo=IN)
+4. [cjp protests](https://trends.google.com/trending/rss?geo=IN)
+5. [दृश्यम](https://trends.google.com/trending/rss?geo=IN)
+6. [sebastiano esposito](https://trends.google.com/trending/rss?geo=IN)
+7. [poland vs romania](https://trends.google.com/trending/rss?geo=IN)
+8. [bosnia and herzegovina vs sweden](https://trends.google.com/trending/rss?geo=IN)
+9. [moneycontrol](https://trends.google.com/trending/rss?geo=IN)
+10. [france vs italy](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Warring out, Pargat in: Has Congress solved Punjab crisis or set stage for another twist?](https://timesofindia.indiatimes.com/india/warring-out-channi-not-in-yet-has-congress-solved-punjab-crisis-or-created-more-confusion/articleshow/134640757.cms)
 - [To counter China, India formally puts Gogra, Hot Spring & others on map](https://timesofindia.indiatimes.com/india/to-counter-china-india-formally-puts-gogra-hot-spring-others-on-map/articleshow/134646655.cms)
+- [No entry in ‘round 2’: Protesters stopped short of Jantar Mantar](https://timesofindia.indiatimes.com/city/delhi/no-entry-in-round-2-protesters-stopped-short-of-jantar-mantar/articleshow/134644792.cms)
 - [From Shiv-on to off: Musk’s half-Indian partner goes into ex space](https://timesofindia.indiatimes.com/world/us/from-shiv-on-to-off-musks-half-indian-partner-goes-into-ex-space/articleshow/134645330.cms)
 - [Under fire, EC orders special drive to add genuine electors 'left out' during SIR](https://timesofindia.indiatimes.com/india/under-fire-ec-orders-special-drive-to-add-genuine-electors-left-out-during-sir/articleshow/134646432.cms)
-- [India reviews security SOPs, measures after flydubai event](https://timesofindia.indiatimes.com/india/india-reviews-security-sops-measures-after-flydubai-event/articleshow/134646841.cms)
 - [MacKenzie Scott gave $30m to housing nonprofit; a year later, it unveiled 10-year plan](https://timesofindia.indiatimes.com/technology/tech-news/in-2024-jeff-bezos-ex-wife-mackenzie-scott-gave-30-million-to-a-silicon-valley-housing-nonprofit-a-year-later-it-unveiled-a-10-year-plan-to-widen-access-to-affordable-homes-in-the-bay-area/articleshow/134643448.cms)
-- [Ohio man allegedly took $3m from investors for fake ticket scheme](https://timesofindia.indiatimes.com/world/us/an-ohio-man-persuaded-investors-to-put-more-than-3-million-into-supposed-rolling-code-ticket-packages-tied-to-sports-and-theme-park-experiences-prosecutors-say-the-investment-never-existed-and-money-went-to-casinos/articleshow/134614406.cms)
+- [India reviews security SOPs, measures after flydubai event](https://timesofindia.indiatimes.com/india/india-reviews-security-sops-measures-after-flydubai-event/articleshow/134646841.cms)
 - [Father got 3 bigha in 1972; HC protects married daughter's land claim](https://timesofindia.indiatimes.com/business/india-business/in-1972-father-got-3-bigha-of-land-from-himachal-government-but-patta-was-never-signed-why-hc-allowed-married-daughters-inheritance-appeal-what-role-hindu-succession-act-plays/articleshow/134636006.cms)
+- [Ohio man allegedly took $3m from investors for fake ticket scheme](https://timesofindia.indiatimes.com/world/us/an-ohio-man-persuaded-investors-to-put-more-than-3-million-into-supposed-rolling-code-ticket-packages-tied-to-sports-and-theme-park-experiences-prosecutors-say-the-investment-never-existed-and-money-went-to-casinos/articleshow/134614406.cms)
 - [Ex-CEC says deleted voters can't use Form 6; EC cites rules to counter claim](https://timesofindia.indiatimes.com/india/deleted-voters-cant-use-form-6-ex-cec-ec-points-to-rules/articleshow/134646505.cms)
-- [From hospital bed, Captain Smit tells PM Modi: Couldn’t let others die](https://timesofindia.indiatimes.com/india/from-hospital-bed-captain-smit-tells-pm-modi-couldnt-let-others-die/articleshow/134646838.cms)
 
 **NDTV**
 - ['Will Strengthen Alliance With Samajwadi Party': New UP Congress Chief Aradhana Misra](https://www.ndtv.com/india-news/will-strengthen-alliance-with-samajwadi-party-new-up-congress-chief-aradhana-mishra-12131812#publisher=newsstand)
@@ -130,10 +130,6 @@
 - [ಏಷ್ಯನ್‌ ಗೇಮ್ಸ್‌ | ಕುಸ್ತಿ ವಿಭಾಗದಲ್ಲಿ ಪೈಲ್ವಾನ್‌ ಸುಜೀತ್‌ಗೆ ಸ್ವರ್ಣ ಪದಕ](https://www.prajavani.net/sports/other-sports/wrestler-sujeet-kalkal-wins-gold-medal-asian-games-4304171)
 - [ಸಿಬಿಐಸಿ ಪ್ರದೇಶದಲ್ಲಿ ₹5 ಸಾವಿರ ಕೋಟಿ ಹೂಡಿಕೆಗೆ ರೆನೈಸಾನ್ಸ್ ಆಸಕ್ತಿ: ಸಚಿವ](https://www.prajavani.net/district/bengaluru-city/renaissance-solar-investment-tumakuru-wafer-plant-mb-patil-4301392)
 - [ಫ್ಲೈದುಬೈ ಘಟನೆ ಭಯೋತ್ಪಾದಕ ಕೃತ್ಯ|ಇರಾನ್ ಕೈವಾಡ ಸಾಬೀತಾದರೆ ತಕ್ಕ ಪಾಠ:  ಟ್ರಂಪ್](https://www.prajavani.net/news/world-news/flydubai-terror-attack-donald-trump-warning-iran-4303873)
-- [ಧರ್ಮ–ರಾಷ್ಟ್ರ ಪ್ರತ್ಯೇಕಿಸಲಾಗದು: ಆರ್‌ಎಸ್ಎಸ್ ಮುಖ್ಯಸ್ಥ ಮೋಹನ್ ಭಾಗವತ್ ಅಭಿಮತ](https://www.prajavani.net/news/india-news/mohan-bhagwat-rss-speech-dharma-nation-inseparable-4303627)
-- [ಮಹಾಪಂಚಾಯತ್‌ಗಳಲ್ಲಿ ಎಸ್‌ಐಆರ್‌ ಪ್ರಸ್ತಾಪ: ಎಸ್‌ಕೆಎಂ](https://www.prajavani.net/news/india-news/skm-mahapanchayat-sir-protest-farmers-movement-4303804)
-- [‘ಜುಲೈ’ ಪ್ರತಿಭಟನೆಯಿಂದ ಪಾಠ ಕಲಿತ ದೆಹಲಿ ಪೊಲೀಸರು: ಗರಿಷ್ಠ ಭದ್ರತೆ](https://www.prajavani.net/news/india-news/delhi-police-jantar-mantar-protest-security-measures-4303844)
-- [ಮಮತಾ ಕಾಲಿಗೆ ಗಾಯವಾಗಿದ್ದು ಸುಳ್ಳು: ಮುಖ್ಯಮಂತ್ರಿ ಸುವೇಂದು ಅಧಿಕಾರಿ](https://www.prajavani.net/news/india-news/mamata-banerjee-leg-injury-allegations-suvendu-adhikari-4303789)
 
 **eedina**
 - [ಕಲಬುರಗಿ | ಗಾಂಧೀಜಿ ಆದರ್ಶಗಳು ಯುವಕರಿಗೆ ದಾರಿದೀಪ: ಪವನಕುಮಾರ ವಳಕೇರಿ](https://eedina.com/?p=769100)
@@ -152,7 +148,7 @@
 - What (2.9)
 - Mangaluru (2.6)
 - Congress (2.2)
-- PM Modi (2.0)
+- Jantar Mantar (2.0)
 - Punjab (1.9)
 - Pargat (1.6)
 - Minute (1.6)
@@ -161,22 +157,22 @@
 - Warring (1.3)
 - China (1.3)
 - Gogra (1.3)
+- Protesters (1.3)
 - Musk (1.3)
-- SOPs (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Asian Games: अंकुश पंघल का गोल्डन पंच, बॉक्सिंग में भारत ने रचा इतिहास, बना ये महार‍िकॉर्ड](https://www.aajtak.in/sports/asian-games/story/asian-games-2026-ankush-panghal-wins-boxing-gold-tspok-dskc-2659380-2026-10-02)
-- [Asian Games | மழை காரணமாக இந்தியா - பாகிஸ்தான் ஃபைனல் ரத்தானால் தங்கப் பதக்கம் யாருக்கு?](https://tamil.news18.com/sports/india-pakistan-final-if-cancelled-who-gets-gold-medal-nw-mma-ws-bl-2221720.html)
-- [ஹேண்டில் லாக்கில் கோளாறு! இந்தியாவில் 96 ஹோண்டா ரெபல் 500 பைக்குகளைத் திரும்பப்பெறுகிறது ஹோண்டா](https://tamil.newsbytesapp.com/news/auto/honda-rebel-500-recalled-in-india-handle-lock-screw-issue-check-vin-bigwing/story)
-- [एशियन गेम्स: 45 मिनट की देरी से शुरू होगा भारत और चीन का फाइनल, वजह जान सिर पकड़ लेंगे आप](https://www.abplive.com/sports/asian-games-india-vs-china-women-hockey-final-to-start-45-minutes-late-the-reason-will-leave-you-scratching-your-head-3196807)
-- [OpenAI takes on Google with ChatGPT's new virtual try-on feature](https://timesofindia.indiatimes.com/technology/tech-news/openai-takes-on-google-with-chatgpts-new-virtual-try-on-feature/articleshow/134637183.cms)
-- [Yuzvendra Chahal Retirement : भारतीय क्रिकेटपटूचा मोठा निर्णय! फर्स्ट क्लास क्रिकेटमधून निवृत्तीची घोषणा](https://saamtv.esakal.com/sports/yuzvendra-chahal-announces-retirement-from-first-class-cricket-team-india-player-nrj84)
-- [കൊച്ചി മെട്രോ തൂണുകൾക്ക് താഴെ സംഭവിക്കുന്നത് എന്താണ്? പഠിക്കാൻ പ്രത്യേക സംഘമെത്തി](https://www.manoramaonline.com/district-news/ernakulam/2026/10/02/kochi-metro-pillar-road-unevenness-solution.html)
-- [अरुणाचल के बाद अब लद्दाख, भारत के इस कदम से चीन को लगेगी मिर्ची? फिर चर्चा में क्यों गोगरा और हॉट स्प्रिंग](https://www.livehindustan.com/national/after-arunachal-pradesh-centre-formally-names-and-maps-28-places-in-ladakh-china-may-got-angry-201790936281889.html)
-- [अब क्या करेगा चीन? अमेरिका ने ताइवान को दिए घातक फाइटर जेट](https://www.aajtak.in/defence-news/story/america-delivers-f-16-fighter-jet-to-taiwan-china-complaines-dskc-2659372-2026-10-02)
-- [Asian Games: ఆసియా క్రీడల్లో అంకుశ్ పంఘాల్‌కు స్వర్ణం.. భారత బాక్సింగ్‌లో గోల్డెన్ హ్యాట్రిక్](https://telugu.newsbytesapp.com/news/sports/gold-for-ankush-panghal-at-the-asian-games-a-golden-hat-trick-for-indian-boxing/story)
+- [பொறியாளர்கள் பணிநீக்கம்](https://www.tamilmurasu.com.sg/tamilnadu/hindi-language-signboard-two-engineers-dismissed)
+- [വട്ടപ്പൂജ്യമായി ഇറാൻ; നേട്ടമുണ്ടാക്കി സൗദിയും യുഎഇയും - Iran oil exports stopped](https://www.manoramaonline.com/business/economy/2026/10/02/iran-oil-exports-zero-saudi-uae-bypass-hormuz-aks.html)
+- [Indian authorities clamp down as ‘cockroach’ movement launches new protests](https://www.aljazeera.com/news/2026/10/2/indian-authorities-clamp-down-as-cockroach-movement-launches-new-protests)
+- [France rocked by protests as nearly 400 schools close amid student-police clashes](https://timesofindia.indiatimes.com/world/europe/france-rocked-by-protests-as-nearly-400-schools-close-amid-student-police-clashes/articleshow/134637479.cms)
+- [Bond yields: మన స్టాక్‌ మార్కెట్‌తో ‘బాండ్‌’ బ్యాటింగ్‌..](https://www.eenadu.net/telugu-news/business/why-soaring-bond-yields-may-hurt-indian-stock-market/0101/126178422)
+- [Yuzvendra Chahal: టీమిండియా స్టార్ స్పిన్నర్ కీలక నిర్ణయం.. ఫస్ట్ క్లాస్ క్రికెట్‌కు చాహల్ గుడ్ బై](https://tv9telugu.com/sports/cricket-news/indian-spinner-yuzvendra-chahal-bids-farewell-to-first-class-and-test-dreams-1924959.html)
+- [ChatGPT adds virtual try-on for clothes and accessories](https://t2online.in/tech/tech-news/chatgpt-adds-virtual-try-on-for-clothes-and-accessories/2008413)
+- [बिहार MLC चुनाव में कांग्रेस की 'गुगली' ने बिगाड़ा तेजस्वी का गणित? कहीं गड़बड़ा न जाए महागठबंधन का समीकरण](https://navbharattimes.indiatimes.com/state/bihar/patna/bihar-mlc-elections-2026-setback-for-tejashwi-yadav-congress-fields-its-own-candidates/articleshow/134636586.cms)
+- [UP राज्यसभा चुनाव: सपा के बागियों को माफ करेंगे अखिलेश यादव? बस रखी एक शर्त](https://www.abplive.com/states/up-uk/up-rajya-sabha-elections-akhilesh-yadav-forgive-sp-rebels-he-set-just-one-condition-ann-3196799)
+- [தாராபுரத்தில் ஸ்டாலின் ‘ரோடு ஷோ’ - வழிநெடுகிலும் திரண்டு தொண்டர்கள் உற்சாக வரவேற்பு](https://www.hindutamil.in/news/tamilnadu/dmk-leader-mk-stalin-staged-a-road-show-in-dharapuram-byelection-campaign)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
