@@ -1,4 +1,4 @@
-# India Trending Report — 2026-10-02 22:01:38
+# India Trending Report — 2026-10-02 22:36:42
 
 ## Google Trends (India) — top trending searches
 1. [robert lewandowski](https://trends.google.com/trending/rss?geo=IN)
@@ -18,12 +18,12 @@
 - [To counter China, India formally puts Gogra, Hot Spring & others on map](https://timesofindia.indiatimes.com/india/to-counter-china-india-formally-puts-gogra-hot-spring-others-on-map/articleshow/134646655.cms)
 - [From Shiv-on to off: Musk’s half-Indian partner goes into ex space](https://timesofindia.indiatimes.com/world/us/from-shiv-on-to-off-musks-half-indian-partner-goes-into-ex-space/articleshow/134645330.cms)
 - [Under fire, EC orders special drive to add genuine electors 'left out' during SIR](https://timesofindia.indiatimes.com/india/under-fire-ec-orders-special-drive-to-add-genuine-electors-left-out-during-sir/articleshow/134646432.cms)
-- [Ex-CEC says deleted voters can't use Form 6; EC cites rules to counter claim](https://timesofindia.indiatimes.com/india/deleted-voters-cant-use-form-6-ex-cec-ec-points-to-rules/articleshow/134646505.cms)
+- [India reviews security SOPs, measures after flydubai event](https://timesofindia.indiatimes.com/india/india-reviews-security-sops-measures-after-flydubai-event/articleshow/134646841.cms)
 - [MacKenzie Scott gave $30m to housing nonprofit; a year later, it unveiled 10-year plan](https://timesofindia.indiatimes.com/technology/tech-news/in-2024-jeff-bezos-ex-wife-mackenzie-scott-gave-30-million-to-a-silicon-valley-housing-nonprofit-a-year-later-it-unveiled-a-10-year-plan-to-widen-access-to-affordable-homes-in-the-bay-area/articleshow/134643448.cms)
-- [‘Vote chori’ protests: Rahul says Lathi can stop a crowd, but not a question](https://timesofindia.indiatimes.com/india/lathi-can-stop-a-crowd-but-not-a-question-rahul/articleshow/134646567.cms)
+- [Ohio man allegedly took $3m from investors for fake ticket scheme](https://timesofindia.indiatimes.com/world/us/an-ohio-man-persuaded-investors-to-put-more-than-3-million-into-supposed-rolling-code-ticket-packages-tied-to-sports-and-theme-park-experiences-prosecutors-say-the-investment-never-existed-and-money-went-to-casinos/articleshow/134614406.cms)
 - [Father got 3 bigha in 1972; HC protects married daughter's land claim](https://timesofindia.indiatimes.com/business/india-business/in-1972-father-got-3-bigha-of-land-from-himachal-government-but-patta-was-never-signed-why-hc-allowed-married-daughters-inheritance-appeal-what-role-hindu-succession-act-plays/articleshow/134636006.cms)
-- [Ohio farmer with $1m medical debt sold land after officials blocked solar lease](https://timesofindia.indiatimes.com/world/us/an-ohio-farmer-facing-1-million-in-medical-debt-hoped-a-solar-lease-would-pay-540000-a-year-after-officials-blocked-the-project-he-had-to-sell-land-and-equipment-from-his-sixth-generation-farm/articleshow/134595164.cms)
-- [From papads to pitches: NCERT brings startup lessons to Class IX](https://timesofindia.indiatimes.com/india/from-papads-to-pitches-ncert-brings-startup-lessons-to-class-ix/articleshow/134640986.cms)
+- [Ex-CEC says deleted voters can't use Form 6; EC cites rules to counter claim](https://timesofindia.indiatimes.com/india/deleted-voters-cant-use-form-6-ex-cec-ec-points-to-rules/articleshow/134646505.cms)
+- [From hospital bed, Captain Smit tells PM Modi: Couldn’t let others die](https://timesofindia.indiatimes.com/india/from-hospital-bed-captain-smit-tells-pm-modi-couldnt-let-others-die/articleshow/134646838.cms)
 
 **NDTV**
 - ['Will Strengthen Alliance With Samajwadi Party': New UP Congress Chief Aradhana Misra](https://www.ndtv.com/india-news/will-strengthen-alliance-with-samajwadi-party-new-up-congress-chief-aradhana-mishra-12131812#publisher=newsstand)
@@ -74,6 +74,7 @@
 - [Nellimarla former MLA likely to take announce his future political plan today](https://www.thehindu.com/news/national/andhra-pradesh/nellimarla-former-mla-likely-to-take-announce-his-future-political-plan-today/article71537613.ece)
 
 **Livemint**
+- [From first solo trip at 13, she’s  now just 9 countries away from becoming the youngest person to visit every country](https://www.livemint.com/news/trends/from-first-solo-trip-at-13-she-s-now-just-9-countries-away-from-becoming-the-youngest-person-to-visit-every-country-11790978899053.html)
 - [Anant Ambani steps in after family raises  ₹2.2 crore for toddler’s  ₹9 crore treatment | Watch](https://www.livemint.com/news/trends/anant-ambani-steps-in-after-family-raises-rs-2-2-crore-for-toddler-s-rs-9-crore-treatment-watch-11790966245548.html)
 - [Jeff Bezos gives $25 million to protect Pacific Ocean: What the Amazon boss' $10 billion climate pledge aims to achieve](https://www.livemint.com/news/us-news/jeff-bezos-gives-25-million-to-protect-pacific-ocean-what-the-amazon-boss-10-billion-climate-pledge-aims-to-achieve-11790961804990.html)
 - [On ventilator and unconscious, what's next for Christa Pike after surviving lethal injection](https://www.livemint.com/news/us-news/on-ventilator-and-unconscious-whats-next-for-christa-pike-after-surviving-lethal-injection-11790970610841.html)
@@ -83,7 +84,6 @@
 - [Putin warns Russia will use ‘all weapons’ against NATO aggression: Why Kaliningrad is latest flashpoint](https://www.livemint.com/news/world/putin-warns-russia-will-use-all-weapons-against-nato-aggression-why-kaliningrad-is-latest-flashpoint-11790961804871.html)
 - [Tukaram Mundhe in action! Maharashtra FDA cancels Cipla's Pune drug sale licence](https://www.livemint.com/news/india/tukaram-mundhe-in-action-maharashtra-fda-cancels-ciplas-pune-drug-sale-licence-11790960000968.html)
 - [‘Worked 6.5 days/week, 14 hrs/day’ - No time even for haircut, calling home? Chennai entrepreneur on work-life balance](https://www.livemint.com/news/trends/worked-6-5-days-week-14-hrs-day-no-time-even-for-haircut-calling-home-chennai-entrepreneur-on-work-life-balance-11790957917463.html)
-- [Pargat Singh appointed Punjab Congress chief ahead of assembly elections after Raja Warring resigns](https://www.livemint.com/news/india/pargat-singh-appointed-punjab-congress-chief-ahead-of-assembly-elections-after-raja-warring-resigns-11790960716437.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -134,8 +134,6 @@
 - [ಮಹಾಪಂಚಾಯತ್‌ಗಳಲ್ಲಿ ಎಸ್‌ಐಆರ್‌ ಪ್ರಸ್ತಾಪ: ಎಸ್‌ಕೆಎಂ](https://www.prajavani.net/news/india-news/skm-mahapanchayat-sir-protest-farmers-movement-4303804)
 - [‘ಜುಲೈ’ ಪ್ರತಿಭಟನೆಯಿಂದ ಪಾಠ ಕಲಿತ ದೆಹಲಿ ಪೊಲೀಸರು: ಗರಿಷ್ಠ ಭದ್ರತೆ](https://www.prajavani.net/news/india-news/delhi-police-jantar-mantar-protest-security-measures-4303844)
 - [ಮಮತಾ ಕಾಲಿಗೆ ಗಾಯವಾಗಿದ್ದು ಸುಳ್ಳು: ಮುಖ್ಯಮಂತ್ರಿ ಸುವೇಂದು ಅಧಿಕಾರಿ](https://www.prajavani.net/news/india-news/mamata-banerjee-leg-injury-allegations-suvendu-adhikari-4303789)
-- [ಮತದಾರರ ಹೆಸರು ತೆಗೆದುಹಾಕಲು ಸಂಚು:ಕಾರ್ಪೊರೇಟರ್,ಪಾಲಿಕೆ ಅಧಿಕಾರಿಗಳ ವಿರುದ್ಧ FIR](https://www.prajavani.net/district/ballari/ballari-bjp-corporator-corporation-officials-fir-voter-list-case-4303679)
-- [ಮುಖ್ಯಮಂತ್ರಿ ವಿರುದ್ಧ ಎಫ್‌ಐಆರ್‌ ದಾಖಲಿಸಿ: ಕೇಂದ್ರ ಸಚಿವ ಪ್ರಲ್ಹಾದ ಜೋಶಿ ಆಗ್ರಹ](https://www.prajavani.net/district/dharwad/pralhad-joshi-demands-fir-against-cm-dk-shivakumar-protest-4303887)
 
 **eedina**
 - [ಕಲಬುರಗಿ | ಗಾಂಧೀಜಿ ಆದರ್ಶಗಳು ಯುವಕರಿಗೆ ದಾರಿದೀಪ: ಪವನಕುಮಾರ ವಳಕೇರಿ](https://eedina.com/?p=769100)
@@ -150,35 +148,35 @@
 - [ಕಲಬುರಗಿ | ಎಸ್‌ಐಆರ್ ವಿರೋಧಿಸಿ ಧರಣಿ; ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ವಜಾಕ್ಕೆ ಆಗ್ರಹ](https://eedina.com/?p=769068)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (3.9)
+- India (5.2)
 - What (2.9)
 - Mangaluru (2.6)
-- Congress (2.5)
-- Punjab (2.2)
-- Pargat Singh (2.0)
-- Punjab Congress (2.0)
-- Pargat (1.9)
-- Warring (1.6)
+- Congress (2.2)
+- PM Modi (2.0)
+- Punjab (1.9)
+- Pargat (1.6)
 - Minute (1.6)
 - Mumbai (1.6)
 - Protest (1.6)
+- Warring (1.3)
 - China (1.3)
 - Gogra (1.3)
 - Musk (1.3)
+- SOPs (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [દમણ-દાદરા નગર હવેલીમાં 'Gen-Z' માટે મેગા ડ્રાઇવ: 10,000 નવા યુવા વોટર્સને જોડવા યોજાશે ખાસ અભિયાન](https://www.gujaratsamachar.com/news/diu-daman/dadra-nagar-haveli-daman-10k-genz-voter-registration-special-drive-37864255270)
-- [നെതന്യാഹു തോല്‍വി മണത്തു; ഫ്ലൈദുബായ് സംഭവം ഇസ്രയേലിന്‍റെ 'ഫോൾസ് ഫ്ലാഗ് ഓപ്പറേഷൻ'; ലക്ഷ്യം ഇറാനെതിരെ യുദ്ധമെന്ന് ആരോപണം](https://www.manoramanews.com/gulf-and-global/world/2026/10/02/israel-flydubai-incident-iran-false-flag-allegation-netanyahu.html)
-- [ஞானேஷ் குமார் பதவி விலக கோரி டெல்லியில் போராட்டம் - 500க்கும் மேற்பட்டோர் கைது](https://www.hindutamil.in/news/india/protest-demanding-resignation-of-gyanesh-kumar-police-detained-500-people-in-delhi)
-- [Asian Games 2026: 1 મિનિટમાં 2 ગોલ્ડ: અંકુશ બાદ સુજીતે ફાઈનલ જીતીને રચ્યો ઈતિહાસ](https://gujarati.abplive.com/sports/indian-boxer-ankush-panghal-clinches-gold-at-asian-games-992477)
-- [தவெக மீது இடதுசாரிகள் குற்றச்சாட்டு](https://www.tamilmurasu.com.sg/tamilnadu/cash-votes-election-left-parties-accuse-thaveka)
-- [India hockey official Gurinder Singh Sangha accused of harassment, sent home](https://www.thehindu.com/sport/hockey/hockey-india-official-accused-of-sexual-harassment-sent-home/article71536542.ece)
-- [Juice Spacecraft Captures Earth And Moon Views](https://stratnewsglobal.com/technology/juice-spacecraft-earth-moon-flyby/)
-- [Three golds in a day! Ankush Panghal completes Indian boxing hat-trick at Asian Games](https://timesofindia.indiatimes.com/sports/asian-games-2026/three-golds-in-a-day-ankush-panghal-completes-indian-boxing-hat-trick-at-asian-games/articleshow/134636426.cms)
-- [CJP Protest: शिवाजी पार्कवर मुख्य निवडणूक आयुक्तांविरोधात CJP चं जेलभरो आंदोलन! वकिलांनी केली मोठी घोषणा](https://sarkarnama.esakal.com/mumbai/cjp-protest-at-shivaji-park-mumbai-against-chief-election-commissioner-gyanesh-kumar-lawyers-make-major-announcement-aau85)
-- [अगर मैं नहीं बचा तो मेरे बच्चों को संदेश भेज देना...विदेशी मीडिया में स्मित मच्छर को लेकर कही जा रहीं कई बातें](https://www.bbc.com/hindi/articles/cvj64632pdlno)
+- [Asian Games: अंकुश पंघल का गोल्डन पंच, बॉक्सिंग में भारत ने रचा इतिहास, बना ये महार‍िकॉर्ड](https://www.aajtak.in/sports/asian-games/story/asian-games-2026-ankush-panghal-wins-boxing-gold-tspok-dskc-2659380-2026-10-02)
+- [Asian Games | மழை காரணமாக இந்தியா - பாகிஸ்தான் ஃபைனல் ரத்தானால் தங்கப் பதக்கம் யாருக்கு?](https://tamil.news18.com/sports/india-pakistan-final-if-cancelled-who-gets-gold-medal-nw-mma-ws-bl-2221720.html)
+- [ஹேண்டில் லாக்கில் கோளாறு! இந்தியாவில் 96 ஹோண்டா ரெபல் 500 பைக்குகளைத் திரும்பப்பெறுகிறது ஹோண்டா](https://tamil.newsbytesapp.com/news/auto/honda-rebel-500-recalled-in-india-handle-lock-screw-issue-check-vin-bigwing/story)
+- [एशियन गेम्स: 45 मिनट की देरी से शुरू होगा भारत और चीन का फाइनल, वजह जान सिर पकड़ लेंगे आप](https://www.abplive.com/sports/asian-games-india-vs-china-women-hockey-final-to-start-45-minutes-late-the-reason-will-leave-you-scratching-your-head-3196807)
+- [OpenAI takes on Google with ChatGPT's new virtual try-on feature](https://timesofindia.indiatimes.com/technology/tech-news/openai-takes-on-google-with-chatgpts-new-virtual-try-on-feature/articleshow/134637183.cms)
+- [Yuzvendra Chahal Retirement : भारतीय क्रिकेटपटूचा मोठा निर्णय! फर्स्ट क्लास क्रिकेटमधून निवृत्तीची घोषणा](https://saamtv.esakal.com/sports/yuzvendra-chahal-announces-retirement-from-first-class-cricket-team-india-player-nrj84)
+- [കൊച്ചി മെട്രോ തൂണുകൾക്ക് താഴെ സംഭവിക്കുന്നത് എന്താണ്? പഠിക്കാൻ പ്രത്യേക സംഘമെത്തി](https://www.manoramaonline.com/district-news/ernakulam/2026/10/02/kochi-metro-pillar-road-unevenness-solution.html)
+- [अरुणाचल के बाद अब लद्दाख, भारत के इस कदम से चीन को लगेगी मिर्ची? फिर चर्चा में क्यों गोगरा और हॉट स्प्रिंग](https://www.livehindustan.com/national/after-arunachal-pradesh-centre-formally-names-and-maps-28-places-in-ladakh-china-may-got-angry-201790936281889.html)
+- [अब क्या करेगा चीन? अमेरिका ने ताइवान को दिए घातक फाइटर जेट](https://www.aajtak.in/defence-news/story/america-delivers-f-16-fighter-jet-to-taiwan-china-complaines-dskc-2659372-2026-10-02)
+- [Asian Games: ఆసియా క్రీడల్లో అంకుశ్ పంఘాల్‌కు స్వర్ణం.. భారత బాక్సింగ్‌లో గోల్డెన్ హ్యాట్రిక్](https://telugu.newsbytesapp.com/news/sports/gold-for-ankush-panghal-at-the-asian-games-a-golden-hat-trick-for-indian-boxing/story)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
