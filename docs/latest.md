@@ -1,4 +1,4 @@
-# India Trending Report — 2026-10-01 23:35:26
+# India Trending Report — 2026-10-02 00:02:27
 
 ## Google Trends (India) — top trending searches
 1. [రబీ పంట](https://trends.google.com/trending/rss?geo=IN)
@@ -6,26 +6,29 @@
 3. [कर्मचारी](https://trends.google.com/trending/rss?geo=IN)
 4. [greece national football team vs netherlands national football team standings](https://trends.google.com/trending/rss?geo=IN)
 5. [rasmus højlund](https://trends.google.com/trending/rss?geo=IN)
-6. [jennifer lopez](https://trends.google.com/trending/rss?geo=IN)
-7. [joão cancelo](https://trends.google.com/trending/rss?geo=IN)
-8. [anup bagchi hdfc bank ceo](https://trends.google.com/trending/rss?geo=IN)
+6. [da hike central government employees](https://trends.google.com/trending/rss?geo=IN)
+7. [jennifer lopez](https://trends.google.com/trending/rss?geo=IN)
+8. [joão cancelo](https://trends.google.com/trending/rss?geo=IN)
 9. [samsung galaxy s26 ultra](https://trends.google.com/trending/rss?geo=IN)
-10. [portugal national football team](https://trends.google.com/trending/rss?geo=IN)
+10. [anup bagchi hdfc bank ceo](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Saudi hands Omani co-pilot in Flydubai flight incident to UAE](https://timesofindia.indiatimes.com/world/middle-east/flydubai-attack-saudi-hands-omani-co-pilot-to-uae-as-investigators-probe-bid-to-crash-plane/articleshow/134626863.cms)
+- [Saudi hands Omani Flydubai pilot to UAE; Trump vows 'hitting hard' if Iran links found](https://timesofindia.indiatimes.com/world/middle-east/flydubai-attack-saudi-hands-omani-co-pilot-to-uae-as-investigators-probe-bid-to-crash-plane/articleshow/134626863.cms)
 - [Supreme Court judges decline to meet parliamentary panel on one-nation, one-election](https://timesofindia.indiatimes.com/india/supreme-court-judges-decline-to-meet-parliamentary-panel-on-one-nation-one-election/articleshow/134629478.cms)
 - [Venu, Vijay Singh query Noel's merger plan to avoid Tata Sons IPO](https://timesofindia.indiatimes.com/business/india-business/venu-vijay-singh-query-noels-merger-plan-to-avoid-tata-sons-ipo/articleshow/134629518.cms)
-- [Supreme Court refuses to de-freeze TMC accounts, says let Calcutta high court decide](https://timesofindia.indiatimes.com/india/supreme-court-refuses-to-de-freeze-tmc-accounts-says-let-calcutta-high-court-decide/articleshow/134629443.cms)
-- [CBI names 3 senior ADAG execs, 7 companies in 2nd RHFL chargesheet](https://timesofindia.indiatimes.com/india/cbi-names-3-senior-adag-execs-7-companies-in-2nd-rhfl-chargesheet/articleshow/134629368.cms)
-- [Sundar Pichai on Google launching Gemini 4 Argon, its most powerful AI model yet](https://timesofindia.indiatimes.com/technology/tech-news/google-unveils-gemini-4-argon-its-most-powerful-ai-model-yet-ceo-sundar-pichai-says-were-going-to-make-it-available-as-soon-as-we-can-and-as-/articleshow/134608054.cms)
+- [The world's Smit-ten: PM to Trump, praise pours in for braveheart pilot](https://timesofindia.indiatimes.com/india/the-worlds-smit-ten-pm-to-trump-praise-pours-in-for-braveheart-pilot/articleshow/134629573.cms)
 - [PFRDA plans direct pension fund investment in big infrastructure projects](https://timesofindia.indiatimes.com/india/pfrda-eyes-plan-for-funds-to-invest-directly-in-infrastructure/articleshow/134629424.cms)
+- [Sundar Pichai on Google launching Gemini 4 Argon, its most powerful AI model yet](https://timesofindia.indiatimes.com/technology/tech-news/google-unveils-gemini-4-argon-its-most-powerful-ai-model-yet-ceo-sundar-pichai-says-were-going-to-make-it-available-as-soon-as-we-can-and-as-/articleshow/134608054.cms)
+- [Supreme Court refuses to de-freeze TMC accounts, says let Calcutta high court decide](https://timesofindia.indiatimes.com/india/supreme-court-refuses-to-de-freeze-tmc-accounts-says-let-calcutta-high-court-decide/articleshow/134629443.cms)
 - [Wife gets late husband's job, leaves in-laws; HC orders 25% salary for mother-in-law](https://timesofindia.indiatimes.com/business/india-business/wife-got-late-husbands-government-job-on-compassionate-grounds-promised-to-care-for-in-laws-but-remarried-and-left-court-orders-25-salary-for-mother-in-law-and-equal-terminal-benefits/articleshow/134622351.cms)
-- [KPSC recruitment row: BJP targets Rahul Gandhi over Karnataka government's SC plea](https://timesofindia.indiatimes.com/india/bjp-slams-congress-accuses-rahul-of-hypocrisy-lying/articleshow/134629534.cms)
 - [Government backs SCO connectivity, but PM's Pakistan visit uncertain](https://timesofindia.indiatimes.com/india/government-backs-sco-connectivity-but-pms-pak-visit-uncertain/articleshow/134628081.cms)
+- [CBI names 3 senior ADAG execs, 7 companies in 2nd RHFL chargesheet](https://timesofindia.indiatimes.com/india/cbi-names-3-senior-adag-execs-7-companies-in-2nd-rhfl-chargesheet/articleshow/134629368.cms)
 
 **NDTV**
+- [OpenAI Says It Fired 3 Staffers For Mishandling "Sensitive" Info](https://www.ndtv.com/world-news/openai-says-it-fired-3-staffers-for-mishandling-sensitive-info-12128057#publisher=newsstand)
+- [US Announces $24.4 Billion Contract To Speed Up Missile Production](https://www.ndtv.com/world-news/us-announces-24-4-billion-contract-to-speed-up-missile-production-12128047#publisher=newsstand)
+- [Canada Eyes $70 Billion Trade With India in 5 years, Says Canadian Minister](https://www.ndtv.com/india-news/canada-eyes-70-billion-trade-with-india-in-5-years-says-canadian-minister-12128029#publisher=newsstand)
 - [Major Inter-State Narcotics Module Busted in Srinagar](https://www.ndtv.com/india-news/major-inter-state-narcotics-module-busted-in-srinagar-12127981#publisher=newsstand)
 - [Saudi Coalition Says Intercepted Houthi Missiles, Drones](https://www.ndtv.com/world-news/saudi-coalition-says-intercepted-houthi-missiles-drones-12127925#publisher=newsstand)
 - [Ram Temple Staff To Undergo 100% Police Verification, Character Checks](https://www.ndtv.com/india-news/ram-temple-staff-to-undergo-100-police-verification-character-checks-12127892#publisher=newsstand)
@@ -33,9 +36,6 @@
 - [France Blames "Radical Left" For Violence Amid Intensifying School Protests](https://www.ndtv.com/world-news/france-blames-radical-left-for-violence-amid-intensifying-school-protests-12127772#publisher=newsstand)
 - [Cornell Student Said, "I Was Raped". Cops Left It Out Of Her Statement](https://www.ndtv.com/world-news/cornell-student-said-i-was-raped-cops-left-it-out-of-her-statement-12127695#publisher=newsstand)
 - [5 Israeli Civilians To Be Awarded For Overpowering flydubai Co-Pilot](https://www.ndtv.com/world-news/5-israeli-civilians-to-be-awarded-for-overpowering-flydubai-co-pilot-12127681#publisher=newsstand)
-- [Delhi Court Upholds Senior Citizens Rule To Evict Children From Property](https://www.ndtv.com/india-news/delhi-court-upholds-senior-citizens-rule-to-evict-children-from-property-12127672#publisher=newsstand)
-- [Bhagwant Mann's Japan Hockey Trip Denied Clearance By Centre](https://www.ndtv.com/india-news/bhagwant-manns-japan-hockey-trip-blocked-centre-denies-political-clearance-12127400#publisher=newsstand)
-- [Adhir Chowdhury's 'Congress Offer' To Mamata Banerjee With 'Baggage' Rider](https://www.ndtv.com/india-news/adhir-chowdhurys-congress-offer-to-mamata-banerjee-with-baggage-rider-12126656#publisher=newsstand)
 
 **Hindustan Times**
 - [Delhi traffic advisory: Special arrangements in place near Rajghat, Vijay Ghat on October 2](https://www.hindustantimes.com/india-news/delhi-traffic-advisory-special-arrangements-in-place-near-rajghat-vijay-ghat-on-october-2-101790866141057.html)
@@ -49,17 +49,7 @@
 - [Decade after exit, Shankersinh Vaghela in talks to return to Congress ahead of 2027 polls](https://www.hindustantimes.com/india-news/decade-after-exit-shankersinh-vaghela-in-talks-to-return-to-congress-ahead-of-2027-polls-101790868720137.html)
 - [Ex-minister Indranil Sen, accused of financial irregularities, transferred  ₹30 lakh to Mamata: ED](https://www.hindustantimes.com/india-news/exminister-indranil-sen-accused-of-financial-irregularities-transferred-rs-30-lakh-to-mamata-ed-101790868514093.html)
 
-**Vijay Karnataka**
-- [ರಾಜ್ಯದ 18 DYSP, 49 ಪೊಲೀಸ್ ಇನ್‌ಸ್ಪೆಕ್ಟರ್‌ಗಳ ವರ್ಗಾವಣೆ! ರೀನಾ ಸುವರ್ಣ ಸೇರಿ ಹಲವು ಜಿಲ್ಲೆಗಳ ಅಧಿಕಾರಿಗಳ ಬದಲಾವಣೆ](https://vijaykarnataka.com/news/karnataka/transfer-of-18-dysp-and-49-police-inspectors-in-karnataka-officers-including-reena-suvarna-new-post/articleshow/134623481.cms)
-- [2027ರ ಏಕದಿನ ವಿಶ್ವಕಪ್ ನಲ್ಲಿ ಭಾರತ-ಪಾಕಿಸ್ತಾನ ಬರೋಬ್ಬರಿ 3 ಬಾರಿ ಮುಖಾಮುಖಿ ಸಾಧ್ಯತೆ! ಹೀಗಿದೆ ನೋಡಿ ವೇಳಾಪಟ್ಟಿ!](https://vijaykarnataka.com/sports/cricket/news/icc-reveals-2027-odi-world-cup-schedule-india-vs-pakistan-matches/articleshow/134623940.cms)
-- [ಸಿಎಂ ಡಿ ಕೆ ಶಿವಕುಮಾರ್ ನೇತೃತ್ವದ ಕಾಂಗ್ರೆಸ್ ಹೋರಾಟಕ್ಕೆ ಸಕ್ಸಸ್; ಚುನಾವಣಾ ಆಯೋಗದಿಂದ ಈಗ ತನಿಖೆಗೆ ಆದೇಶ](https://vijaykarnataka.com/news/karnataka/success-for-congress-protest-led-by-cm-d-k-shivakumar-election-commission-orders-probe-into-fake-form-7s-/articleshow/134624791.cms)
-- [ಗಾಂಧಿ ಜಯಂತಿ ವಿಶೇಷ: ಮಕ್ಕಳಿಗೆ ಕಲಿಸಬೇಕಾದ ಬಾಪೂ ಅವರ 5 ಪ್ರಮುಖ ತತ್ವಗಳು](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/gandhi-jayanti-principles-teach-children-life-lessons/articleshow/134617646.cms)
-- [Asian Games 2026- `ಮದುವೆ ಆಗಿ ಮತ್ತೆ ಇಲ್ಲಿಗೆ ಬರುವೆ': ಜಪಾನ್ ಬಗ್ಗೆ ಇಶಾನ್ ಕಿಶನ್ ತಮಾಷೆಯ ಹೇಳಿಕೆ ವೈರಲ್](https://vijaykarnataka.com/sports/cricket/news/asian-games-2026-ishan-kishan-surprise-statement-on-japan-goes-viral/articleshow/134625436.cms)
-- [ಅಜ್ಜನ ಪರಂಪರೆಗೆ ಮೊಮ್ಮಗನ ಕಾಣಿಕೆ: ʻಐಕಾನ್ಜಾʼ ಸಾಮ್ರಾಜ್ಯ ಕಟ್ಟಿದ ಅಲ್ಲು ಅರ್ಜುನ್!](https://vijaykarnataka.com/entertainment/news/allu-arjun-launches-iconza-creative-office-on-grandfather-birthday-anniversary/articleshow/134624808.cms)
-- [ಗಿಡಗಳ ಬೆಳವಣಿಗೆ ನಿಂತಿದೆಯೇ? ಬಾಳೆಹಣ್ಣಿನ ಸಿಪ್ಪೆ, ಬೆಲ್ಲ ಬಳಸಿ ಮನೆಯಲ್ಲೇ ಲಿಕ್ವಿಡ್ ಗೊಬ್ಬರ ತಯಾರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/how-to-make-liquid-fertilizer-at-home-for-plants/articleshow/134570899.cms)
-- [ಶನಿವಾರ ದೀಪ ಹಚ್ಚುವಾಗ ಲವಂಗ ಬಳಸುವ ಧಾರ್ಮಿಕ ನಂಬಿಕೆ.!](https://vijaykarnataka.com/religion/pooja-vidhana/saturday-light-a-lamp-with-cloves-to-seek-shanis-blessings/articleshow/134618138.cms)
-- [ಕೂದಲು ಬೆಳವಣಿಗೆಗೆ ಈರುಳ್ಳಿ ಸಿಪ್ಪೆ: ತಲೆಹೊಟ್ಟು ಮತ್ತು ಬಿಳಿಕೂದಲಿಗೆ ಹೇಗೆ ಬಳಸಬೇಕು?](https://vijaykarnataka.com/lifestyle/beauty/onion-peel-for-hair-growth-dandruff-premature-gray-hair/articleshow/134613201.cms)
-- [ಮೊದಲ ಪತಿಯ ಕೊಂದು ಜೀವಾವಧಿ ಶಿಕ್ಷೆಗೊಳಗಾದ ಪ್ರೇಮಿಗಳ ಮದುವೆಗೆ ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್‌ ಪೆರೋಲ್! 3 ಸೂಚನೆ ನೀಡಿದ ಜಡ್ಜ್‌](https://vijaykarnataka.com/news/karnataka/karnataka-high-court-grants-parole-wedding-of-a-couple-convicted-of-life-imprisonment-judge-issues-3-directives/articleshow/134624137.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
 - [​​Bihar Flood: Fresh breach in the embankment in Saran, Gopalganj and Muzaffarpur](https://www.thehindu.com/news/national/bihar/bihar-flood-fresh-breach-in-the-embankment-in-saran-gopalganj-and-muzaffarpur/article71533681.ece)
@@ -126,11 +116,12 @@
 - [ರಾಮಾಯಣ: ಶ್ರೀರಾಮನನ್ನು ಆ್ಯಕ್ಷನ್ ಹೀರೋ ಮಾಡಿದ್ದಕ್ಕೆ ಮುಕೇಶ್ ಖನ್ನಾ ಆಕ್ರೋಶ](https://tv9kannada.com/entertainment/bollywood/mukesh-khanna-slams-ranbir-kapoor-ramayana-casting-nitesh-tiwari-movie-1245169.html)
 
 **Prajavani**
-- [Asian Games: ಸೇಲಿಂಗ್‌ ಸ್ಕಿಫ್‌ನಲ್ಲಿ ಒಲಿದ ಬೆಳ್ಳಿ](https://www.prajavani.net/sports/other-sports/asian-games-india-sailing-silver-squash-archery-bronze-4301514)
-- [2027ರ ಏಕದಿನ ವಿಶ್ವಕಪ್ ವೇಳಾಪಟ್ಟಿ ಪ್ರಕಟ: ಅ.10ರಂದು ಭಾರತ–ಪಾಕ್ ಮುಖಾಮುಖಿ](https://www.prajavani.net/sports/cricket/india-vs-pakistan-odi-world-cup-schedule-announced-4301728)
-- [ರಾಜ್ಯ ಕ್ರಿಕೆಟ್ ತಂಡಗಳಿಗೆ ಕೆಎಸ್‌ಟಿಡಿಸಿ–ಕೆಪಿಟಿಸಿಎಲ್ ಪ್ರಾಯೋಜಕತ್ವ](https://www.prajavani.net/sports/cricket/karnataka-cricket-teams-kstdc-kptcl-sponsorship-4301617)
-- [ಆಸ್ಟ್ರೇಲಿಯಾ ಎ ವಿರುದ್ಧ ಎರಡನೇ ‘ಟೆಸ್ಟ್‌’: ಭಾರತ ಎ ಗೆಲುವಿಗೆ 365 ರನ್ ಗುರಿ](https://www.prajavani.net/sports/cricket/india-a-versus-australia-a-second-test-day-three-report-4301239)
-- [ತಿರುಮಲದಲ್ಲಿರುವ ಕರ್ನಾಟಕ ಪ್ರವಾಸಿ ಸೌಧ ನಿರ್ವಹಣೆ ಕೆಎಸ್‌ಟಿಡಿಸಿಗೆ](https://www.prajavani.net/news/karnataka-news/tirumala-karnataka-bhavan-maintenance-handed-over-to-kstdc-4301366)
+- [ವಿಶ್ವವಿದ್ಯಾಲಯಗಳಿಗೆ ಪರೀಕ್ಷೆಯ ಸಮಯ!](https://www.prajavani.net/op-ed/opinion/student-suicides-and-discrimination-in-higher-education-institutes-4301010)
+- [ಸುಭಾಷಿತ: ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ](https://www.prajavani.net/op-ed/subhashita/prajavani-daily-subhashita-dated-on-02-october-2026-4301014)
+- [ಗುಂಡಣ್ಣ ಕಾರ್ಟೂನು: ಶುಕ್ರವಾರ, 02 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/gundanna-cartoon-dated-on-02-october-2026-4301123)
+- [ಚಿನಕುರುಳಿ: ಶುಕ್ರವಾರ, 02 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/prajavani-daily-cartoon-by-prakash-shetty-34-4301109)
+- [ಈ ದಿನದ ಪಂಚಾಂಗ: ಶುಕ್ರವಾರ, 02 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/astro-vastu/panchanga/daily-panchanga-dated-on-02-october-2026-4301084)
+- [ದಿನ ಭವಿಷ್ಯ: ವೈದ್ಯಕೀಯ ರಂಗದವರ ಪ್ರಗತಿಗೆ ಅವಕಾಶಗಳು ದೊರೆಯಲಿವೆ..](https://www.prajavani.net/astro-vastu/horoscope/daily-horoscope-dated-on-02-october-2026-4301067)
 
 **eedina**
 - [ಮುಂಡಗೋಡ | ಆರೋಗ್ಯ ವ್ಯವಸ್ಥೆ ಸುಧಾರಣೆಗೆ ಸಚಿವರಿಗೆ ಮನವಿ](https://eedina.com/?p=768629)
@@ -145,35 +136,35 @@
 - [ಭಾರತ–ಜಪಾನ್ ತಂತ್ರಜ್ಞಾನ ಸಹಕಾರದಿಂದ ಹೊಸ ಉದ್ಯಮ ಅವಕಾಶ: ನವತಾ ಹಿರೋಷಿ](https://eedina.com/?p=768588)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Congress (4.2)
-- Asian Games (3.0)
-- Trump (2.9)
-- Iran (2.9)
-- Delhi (2.9)
-- Omani (2.6)
-- Flydubai (2.6)
+- Trump (5.5)
+- Iran (4.2)
+- Congress (3.9)
+- Minister (2.9)
 - Government (2.6)
 - Srinagar (2.6)
+- Delhi (2.6)
 - October (2.6)
 - Chhattisgarh (2.6)
-- Minister (2.6)
 - Tennessee (2.6)
 - What (2.6)
 - Supreme Court (2.0)
+- Saudi (1.6)
+- Omani (1.6)
+- Flydubai (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [કચ્છ : એક સાપને બચાવવા જતાં મળ્યો બીજો દુર્લભ 'રેતિયો સાપ', 150 વર્ષ પહેલાં નોંધાયેલો સાપ કેમ ખાસ છે?](https://www.bbc.com/gujarati/articles/cwd081112kkeo)
-- [హైదరాబాద్‌ షాపుల్లో ‘మేడ్ ఇన్ పాకిస్థాన్’](https://www.sakshi.com/telugu-news/telangana/raids-cosmetic-products-imported-pakistan-hyderabad-2918882)
-- [Weather Update : आता राज्यावर अल निनोचं नवं संकट! ऑक्टोबरच्या पहिल्याच दिवशी उच्चांकी… टेन्शन वाढलं](https://www.tv9marathi.com/maharashtra/nagpur/el-nino-new-crisis-maharashtra-october-first-day-record-temperature-1769204.html)
-- [Suvendu Adhikari: মুখ্যমন্ত্রীর 'মৃত্যুকামনা' করেছিলেন, এবার হুমায়ুনের 'বিচারের ভার রেজিনগরের হাতে তুলে' দিলেন শুভেন্দু](https://tv9bangla.com/west-bengal/suvendu-adhikari-hits-back-at-humayun-kabir-over-death-wish-remark-during-rejinagar-campaign-1350105.html)
-- [पावसाअभावी सोयाबीनचे पीक उद्ध्वस्त; सिन्नरच्या शेतकऱ्यांसमोर मोठे संकट](https://www.tv9marathi.com/videos/sinnar-soybean-crop-destroyed-due-to-rainfall-shortage-farmers-seek-help-1769171.html)
-- [અમદાવાદના વિવાદિત મકરબા ઓવરબ્રિજ પરથી કૂદીને એક વ્યક્તિએ આપઘાત કર્યો, પોલીસ તપાસમાં જોતરાઈ](https://www.gujaratsamachar.com/news/ahmedabad/ahmedabad-makarba-railway-overbridge-self-destruction-case-sarkhej-police-investigation-47117611303)
-- [Danam Nagender: ఈసీ ఆఫీస్, హైదరాబాద్ తగలబడి పోతుంది.. దానం నాగేందర్ హాట్ కామెంట్స్!](https://telugu.abplive.com/telangana/danam-nagender-controversial-comments-voter-deletion-election-commission-hyderabad-260426)
-- ['147 সাংসদকে সাসপেন্ড করে পাশ বিষাক্ত বিল !' সিইসি-র রক্ষাকবচ নিয়ে মোদি সরকারকে তোপ মমতার](https://www.etvbharat.com/bn/bharat/tmc-chief-mamata-banerjee-takes-dig-at-cec-gyanesh-kumar-vanish-kumar-tried-to-take-away-peoples-right-to-vote-people-of-india-will-not-forgive-him-wbs26100105408)
-- [India vs Pakistan Hockey: এশিয়ান গেমসের হকি সেমিফাইনালে নাটক! রুদ্ধশ্বাস ম্যাচে পাকিস্তানকে হারিয়ে ফাইনালে ভারত](https://bengali.abplive.com/sports/asian-games-2026-hockey-india-wins-thriller-against-arch-rivals-pakistan-to-qualify-for-final-secures-silver-1194791)
-- [ഏഷ്യൻ ഗെയിംസ് 2026; ഹോക്കിയിൽ പാകിസ്ഥാനെ തകർത്ത് ഇന്ത്യ ഫൈനലിൽ](https://malayalam.news18.com/news/sports/asian-games-2026-india-mens-hockey-team-reaches-final-after-defeating-pakistan-nkn-ws-l-790700.html)
+- [Sohini Birthday: কোলে সদ্যোজাত ছেলে! জন্মদিনে কেক কাটলেন ‘বীরপুরুষের’ মা, নীলবসনা সোহিনী](https://www.hindustantimes.com/bangla/entertainment/sohini-sarkar-celebrates-her-1st-birthday-after-becoming-mother-271790854123807.html)
+- [ICC Mens Cricket World Cup 2027 schedule : विश्वचषक 2027 मध्ये नवा 'सुपर 7' फॉरमॅट, काही तासांत मुख्य वेळापत्रकाची होणार घोषणा; सविस्तरपणे जाणून घ्या](https://maharashtratimes.com/sports/cricket/cricket-news/icc-mens-cricket-world-cup-2027-schedule-announcement-will-begin-at-830pm-on-thursday/articleshow/134617476.cms)
+- [શ્રીલંકાના કોલંબોમાં અદાણી ટર્મિનલનો મોટો વિસ્તરણ: વાર્ષિક 32 લાખ કન્ટેનર હેન્ડલ કરવાની ક્ષમતા થઈ](https://www.abtakmedia.com/major-expansion-of-adani-terminal-in-colombo-sri-lanka-capacity-to-handle-3-2-million-containers-annually-achieved/)
+- ['One Nation, One Election' Committee's Proposed Meeting With Supreme Court Judges Raises Questions](https://www.livelaw.in/top-stories/one-nation-one-election-committees-proposed-meeting-with-supreme-court-judges-raises-questions-552701)
+- ['സിജെപി രാഷ്ട്രീയത്തിലേക്കില്ല, ഇറങ്ങിയാല്‍ ഇ ഡിയും സിബിഐയും വേട്ടയാടും'; അഭിജീത് ദീപ്‌കെ](https://www.reporterlive.com/topnews/national/2026/10/01/gyanesh-kumar-resignation-cjp-abhijeet-dipke-election-commission-protest)
+- [டிரம்ப் ஆட்சியில் 2.5 லட்சத்துக்கும் மேற்பட்ட விசாக்களை ரத்து செய்த அமெரிக்கா!!](https://www.dinakaran.com/news/america-canceled-visas/)
+- [పాన్‌ ఇండియా జోకర్‌ నారా లోకేష్‌](https://www.ysrcongress.com/top-stories/ysrcp-official-spokesperson-105320)
+- [Rejinagar By Elections: রেজিনগরের সভা থেকে মমতাকে আক্রমণ শুভেন্দুর, বললেন, ‘গরুর গাড়ির হেডলাইট, নাম ও নিশান থাকবে না’](https://bengali.abplive.com/district/suvendu-adhikari-attacks-mamata-banerjee-tmc-during-rejinagar-by-elections-campaign-1194793)
+- [Mahua Moitra says BJP govt. preventing her from functioning as MP; SC seeks reply from Centre, Bengal](https://www.thehindu.com/news/national/west-bengal/mahua-moitra-says-bjp-govt-preventing-her-from-functioning-as-mp-sc-seeks-reply-from-centre-bengal/article71532476.ece)
+- [കാലാവസ്ഥാ അറിയിപ്പ്, അലർട്ടിൽ മാറ്റം, അടുത്ത 3 മണിക്കൂർ 11 ജില്ലകളിൽ ഓറഞ്ച്, കനത്ത് പെയ്ത് മഴ](https://www.asianetnews.com/kerala-news/kerala-weather-update-today-orange-alert-11-districts-articleshow-3dgxtka)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
