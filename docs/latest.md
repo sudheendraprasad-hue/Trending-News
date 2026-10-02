@@ -1,4 +1,4 @@
-# India Trending Report — 2026-10-02 21:37:24
+# India Trending Report — 2026-10-02 22:01:38
 
 ## Google Trends (India) — top trending searches
 1. [robert lewandowski](https://trends.google.com/trending/rss?geo=IN)
@@ -15,15 +15,15 @@
 ## Latest headlines by outlet
 **Times of India**
 - [Warring out, Pargat in: Has Congress solved Punjab crisis or set stage for another twist?](https://timesofindia.indiatimes.com/india/warring-out-channi-not-in-yet-has-congress-solved-punjab-crisis-or-created-more-confusion/articleshow/134640757.cms)
+- [To counter China, India formally puts Gogra, Hot Spring & others on map](https://timesofindia.indiatimes.com/india/to-counter-china-india-formally-puts-gogra-hot-spring-others-on-map/articleshow/134646655.cms)
 - [From Shiv-on to off: Musk’s half-Indian partner goes into ex space](https://timesofindia.indiatimes.com/world/us/from-shiv-on-to-off-musks-half-indian-partner-goes-into-ex-space/articleshow/134645330.cms)
 - [Under fire, EC orders special drive to add genuine electors 'left out' during SIR](https://timesofindia.indiatimes.com/india/under-fire-ec-orders-special-drive-to-add-genuine-electors-left-out-during-sir/articleshow/134646432.cms)
 - [Ex-CEC says deleted voters can't use Form 6; EC cites rules to counter claim](https://timesofindia.indiatimes.com/india/deleted-voters-cant-use-form-6-ex-cec-ec-points-to-rules/articleshow/134646505.cms)
-- [‘Vote chori’ protests: Rahul says Lathi can stop a crowd, but not a question](https://timesofindia.indiatimes.com/india/lathi-can-stop-a-crowd-but-not-a-question-rahul/articleshow/134646567.cms)
 - [MacKenzie Scott gave $30m to housing nonprofit; a year later, it unveiled 10-year plan](https://timesofindia.indiatimes.com/technology/tech-news/in-2024-jeff-bezos-ex-wife-mackenzie-scott-gave-30-million-to-a-silicon-valley-housing-nonprofit-a-year-later-it-unveiled-a-10-year-plan-to-widen-access-to-affordable-homes-in-the-bay-area/articleshow/134643448.cms)
-- [Ohio farmer with $1m medical debt sold land after officials blocked solar lease](https://timesofindia.indiatimes.com/world/us/an-ohio-farmer-facing-1-million-in-medical-debt-hoped-a-solar-lease-would-pay-540000-a-year-after-officials-blocked-the-project-he-had-to-sell-land-and-equipment-from-his-sixth-generation-farm/articleshow/134595164.cms)
+- [‘Vote chori’ protests: Rahul says Lathi can stop a crowd, but not a question](https://timesofindia.indiatimes.com/india/lathi-can-stop-a-crowd-but-not-a-question-rahul/articleshow/134646567.cms)
 - [Father got 3 bigha in 1972; HC protects married daughter's land claim](https://timesofindia.indiatimes.com/business/india-business/in-1972-father-got-3-bigha-of-land-from-himachal-government-but-patta-was-never-signed-why-hc-allowed-married-daughters-inheritance-appeal-what-role-hindu-succession-act-plays/articleshow/134636006.cms)
-- [Prison room, bed, newspaper — That is ‘baron’ Veeramani’s world now](https://timesofindia.indiatimes.com/city/chennai/prison-room-bed-newspaper-that-is-baron-veeramanis-world-now/articleshow/134645679.cms)
-- [Can't invoke anti-slaughter law in case of mere illegal cattle transportation: SC](https://timesofindia.indiatimes.com/india/cant-invoke-anti-slaughter-law-in-case-of-mere-illegal-cattle-transportation-sc/articleshow/134646602.cms)
+- [Ohio farmer with $1m medical debt sold land after officials blocked solar lease](https://timesofindia.indiatimes.com/world/us/an-ohio-farmer-facing-1-million-in-medical-debt-hoped-a-solar-lease-would-pay-540000-a-year-after-officials-blocked-the-project-he-had-to-sell-land-and-equipment-from-his-sixth-generation-farm/articleshow/134595164.cms)
+- [From papads to pitches: NCERT brings startup lessons to Class IX](https://timesofindia.indiatimes.com/india/from-papads-to-pitches-ncert-brings-startup-lessons-to-class-ix/articleshow/134640986.cms)
 
 **NDTV**
 - ['Will Strengthen Alliance With Samajwadi Party': New UP Congress Chief Aradhana Misra](https://www.ndtv.com/india-news/will-strengthen-alliance-with-samajwadi-party-new-up-congress-chief-aradhana-mishra-12131812#publisher=newsstand)
@@ -150,8 +150,8 @@
 - [ಕಲಬುರಗಿ | ಎಸ್‌ಐಆರ್ ವಿರೋಧಿಸಿ ಧರಣಿ; ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ವಜಾಕ್ಕೆ ಆಗ್ರಹ](https://eedina.com/?p=769068)
 
 ## Cross-source trending keywords (derived from headlines above)
+- India (3.9)
 - What (2.9)
-- India (2.6)
 - Mangaluru (2.6)
 - Congress (2.5)
 - Punjab (2.2)
@@ -162,23 +162,23 @@
 - Minute (1.6)
 - Mumbai (1.6)
 - Protest (1.6)
+- China (1.3)
+- Gogra (1.3)
 - Musk (1.3)
-- Ex-CEC (1.3)
-- Form (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [22 महीने का बैन, छिना एशियन गेम्स मेडल... अब बॉक्सर परवीन हुड्डा ने जड़ा GOLD वाला मुक्का](https://www.aajtak.in/sports/asian-games/story/asian-games-2026-parveen-hooda-wins-boxing-gold-comeback-story-tspok-dskc-2659329-2026-10-02)
-- [കലക്കൻ ഫാമിലി പടവുമായി ബിജു മേനോൻ; അവറാച്ചൻ ആന്റ് സൺസിന് കയ്യടിച്ച് പ്രേക്ഷകർ](https://www.reporterlive.com/entertainment/entertainment-news/2026/10/02/biju-menon-starring-avarachan-and-sons-get-good-response-from-theatres)
-- [Deepinder Goyal’s Temple wearable to launch in 6 colours, pre](https://www.moneycontrol.com/technology/deepinder-goyal-s-temple-wearable-to-launch-in-6-colours-pre-orders-may-open-next-week-article-14043427.html)
-- [CJP Protest LIVE: મુંબઈમાં કોકરોચ જનતા પાર્ટીના દેખાવો શરૂ, અભિનેતા નસીરુદ્દીન શાહ પણ સમર્થન કરવા પહોંચ્યા](https://www.gujaratsamachar.com/news/national/cjp-will-take-to-the-streets-against-cec-gyanesh-kumar-from-today-presenting-3-main-demands-detention-of-aap-leader-in-delhi-locals-protest-in-mumbai-21673525470)
-- [মুশতাক খানের প্রার্থনা সভায় রাজপাল যাদবকে অপমান করে বের করে দেওয়া হয়? ভাইরাল ভিডিয়োর সত্যিটা জানুন](https://www.hindustantimes.com/bangla/entertainment/fact-check-didi-rajpal-yadav-asked-to-leave-mushtaq-khans-prayer-meet-know-the-truth-271790892622283.html)
-- [இன்று எந்தெந்த மாவட்டங்களில் மழை வெளுத்துவங்கும் ! வானிலை மையம் அப்டேட் !](https://kumudam.com/tamil-nadu-weather-news-today-rain-forecast)
-- [ആഡംബര കാർ സമ്മാനം! ആറ് ക്യാൻ എനർജി ഡ്രിങ്ക് കുടിച്ച 13കാരന് ദാരുണാന്ത്യം](https://www.metrovaartha.com/news/crime/13-years-old-died-after-drinking-6-can-egergy-drink)
-- [Dino Morea Arrested By Mumbai EOW In Mithi River Scam Case](https://www.news18.com/movies/bollywood/dino-morea-arrested-by-mumbai-eow-in-mithi-river-scam-case-10364439.html)
-- [దృశ్యం: ది కన్‌క్లూజన్‌.. సమీర్‌ చావుకు హిందీలోనైనా ముగింపు పలికారా?](https://www.eenadu.net/telugu-news/movies/drishyam-the-conclusion-movie-review-in-telugu/0203/126177790)
-- [2027 ഏകദിന ലോകകപ്പ് ഒക്ടോബർ 2 മുതൽ; ഇന്ത്യയുടെ ആദ്യ മത്സരം ഓസ്ട്രേലിയക്കെതിരെ;ഇന്ത്യ-പാക് പോരാട്ടം ഒക്ടോബർ 10-ന്](https://malayalam.news18.com/news/sports/the-2027-odi-world-cup-will-begin-on-october-2-indias-first-match-is-against-australia-india-pakistan-clash-is-on-october-10-nkn-ws-l-790778.html)
+- [દમણ-દાદરા નગર હવેલીમાં 'Gen-Z' માટે મેગા ડ્રાઇવ: 10,000 નવા યુવા વોટર્સને જોડવા યોજાશે ખાસ અભિયાન](https://www.gujaratsamachar.com/news/diu-daman/dadra-nagar-haveli-daman-10k-genz-voter-registration-special-drive-37864255270)
+- [നെതന്യാഹു തോല്‍വി മണത്തു; ഫ്ലൈദുബായ് സംഭവം ഇസ്രയേലിന്‍റെ 'ഫോൾസ് ഫ്ലാഗ് ഓപ്പറേഷൻ'; ലക്ഷ്യം ഇറാനെതിരെ യുദ്ധമെന്ന് ആരോപണം](https://www.manoramanews.com/gulf-and-global/world/2026/10/02/israel-flydubai-incident-iran-false-flag-allegation-netanyahu.html)
+- [ஞானேஷ் குமார் பதவி விலக கோரி டெல்லியில் போராட்டம் - 500க்கும் மேற்பட்டோர் கைது](https://www.hindutamil.in/news/india/protest-demanding-resignation-of-gyanesh-kumar-police-detained-500-people-in-delhi)
+- [Asian Games 2026: 1 મિનિટમાં 2 ગોલ્ડ: અંકુશ બાદ સુજીતે ફાઈનલ જીતીને રચ્યો ઈતિહાસ](https://gujarati.abplive.com/sports/indian-boxer-ankush-panghal-clinches-gold-at-asian-games-992477)
+- [தவெக மீது இடதுசாரிகள் குற்றச்சாட்டு](https://www.tamilmurasu.com.sg/tamilnadu/cash-votes-election-left-parties-accuse-thaveka)
+- [India hockey official Gurinder Singh Sangha accused of harassment, sent home](https://www.thehindu.com/sport/hockey/hockey-india-official-accused-of-sexual-harassment-sent-home/article71536542.ece)
+- [Juice Spacecraft Captures Earth And Moon Views](https://stratnewsglobal.com/technology/juice-spacecraft-earth-moon-flyby/)
+- [Three golds in a day! Ankush Panghal completes Indian boxing hat-trick at Asian Games](https://timesofindia.indiatimes.com/sports/asian-games-2026/three-golds-in-a-day-ankush-panghal-completes-indian-boxing-hat-trick-at-asian-games/articleshow/134636426.cms)
+- [CJP Protest: शिवाजी पार्कवर मुख्य निवडणूक आयुक्तांविरोधात CJP चं जेलभरो आंदोलन! वकिलांनी केली मोठी घोषणा](https://sarkarnama.esakal.com/mumbai/cjp-protest-at-shivaji-park-mumbai-against-chief-election-commissioner-gyanesh-kumar-lawyers-make-major-announcement-aau85)
+- [अगर मैं नहीं बचा तो मेरे बच्चों को संदेश भेज देना...विदेशी मीडिया में स्मित मच्छर को लेकर कही जा रहीं कई बातें](https://www.bbc.com/hindi/articles/cvj64632pdlno)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
