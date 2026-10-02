@@ -1,8 +1,8 @@
-# India Trending Report — 2026-10-02 20:02:25
+# India Trending Report — 2026-10-02 20:37:30
 
 ## Google Trends (India) — top trending searches
-1. [pio esposito](https://trends.google.com/trending/rss?geo=IN)
-2. [दृश्यम](https://trends.google.com/trending/rss?geo=IN)
+1. [दृश्यम](https://trends.google.com/trending/rss?geo=IN)
+2. [sebastiano esposito](https://trends.google.com/trending/rss?geo=IN)
 3. [poland vs romania](https://trends.google.com/trending/rss?geo=IN)
 4. [bosnia and herzegovina vs sweden](https://trends.google.com/trending/rss?geo=IN)
 5. [moneycontrol](https://trends.google.com/trending/rss?geo=IN)
@@ -16,14 +16,14 @@
 **Times of India**
 - [From Shiv-on to off: Musk’s half-Indian partner goes into ex space](https://timesofindia.indiatimes.com/world/us/from-shiv-on-to-off-musks-half-indian-partner-goes-into-ex-space/articleshow/134645330.cms)
 - [Warring out, Pargat in: Has Congress solved Punjab crisis or set stage for another twist?](https://timesofindia.indiatimes.com/india/warring-out-channi-not-in-yet-has-congress-solved-punjab-crisis-or-created-more-confusion/articleshow/134640757.cms)
+- [Under fire, EC orders special drive to add genuine electors 'left out' during SIR](https://timesofindia.indiatimes.com/india/under-fire-ec-orders-special-drive-to-add-genuine-electors-left-out-during-sir/articleshow/134646432.cms)
 - [Prison room, bed, newspaper — That is ‘baron’ Veeramani’s world now](https://timesofindia.indiatimes.com/city/chennai/prison-room-bed-newspaper-that-is-baron-veeramanis-world-now/articleshow/134645679.cms)
 - [Akhilesh's Rajya Sabha picks: SP's master strategy or 'PDA' contradiction?](https://timesofindia.indiatimes.com/india/akhilesh-yadavs-rajya-sabha-picks-samajwadi-partys-master-strategy-or-pda-contradiction/articleshow/134642605.cms)
-- [AI and the monk: Anthropic goes for swami and friends to tame Claude](https://timesofindia.indiatimes.com/world/us/ai-and-the-monk-anthropic-goes-for-swami-and-friends-to-tame-claude/articleshow/134643599.cms)
 - [MacKenzie Scott gave $30m to housing nonprofit; a year later, it unveiled 10-year plan](https://timesofindia.indiatimes.com/technology/tech-news/in-2024-jeff-bezos-ex-wife-mackenzie-scott-gave-30-million-to-a-silicon-valley-housing-nonprofit-a-year-later-it-unveiled-a-10-year-plan-to-widen-access-to-affordable-homes-in-the-bay-area/articleshow/134643448.cms)
-- [Kevin O’Leary-backed Utah AI data center plan downsized after local backlash](https://timesofindia.indiatimes.com/world/us/kevin-oleary-backed-a-proposed-40000-acre-utah-ai-data-center-district-with-up-to-9-gigawatts-of-power-months-later-the-project-has-been-downsized-and-remains-stalled-after-local-backlash/articleshow/134633966.cms)
+- [Mississippi couple wins $41,920 after loggers cut 1,299 trees on their land](https://timesofindia.indiatimes.com/world/us/in-2022-loggers-working-for-neighbours-crossed-onto-a-mississippi-couples-land-and-cut-1299-trees-their-handwritten-tally-helped-secure-a-41920-award-later-upheld-on-appeal/articleshow/134619743.cms)
 - [Father got 3 bigha in 1972; HC protects married daughter's land claim](https://timesofindia.indiatimes.com/business/india-business/in-1972-father-got-3-bigha-of-land-from-himachal-government-but-patta-was-never-signed-why-hc-allowed-married-daughters-inheritance-appeal-what-role-hindu-succession-act-plays/articleshow/134636006.cms)
-- [Mohsin Naqvi to skip India-Pak Asian Games gold medal match due to 'prior commitments'](https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/mohsin-naqvi-to-skip-india-pakistan-asian-games-gold-medal-match-due-to-prior-commitments-acc-confirms/articleshow/134638342.cms)
-- [SIR under review: Former SC, HC judges to examine 'validity' of voter roll revision](https://timesofindia.indiatimes.com/india/sir-under-review-former-sc-hc-judges-to-examine-constitutional-statutory-validity-of-voter-roll-revision/articleshow/134644487.cms)
+- [AI and the monk: Anthropic goes for swami and friends to tame Claude](https://timesofindia.indiatimes.com/world/us/ai-and-the-monk-anthropic-goes-for-swami-and-friends-to-tame-claude/articleshow/134643599.cms)
+- [Kevin O’Leary-backed Utah AI data center plan downsized after local backlash](https://timesofindia.indiatimes.com/world/us/kevin-oleary-backed-a-proposed-40000-acre-utah-ai-data-center-district-with-up-to-9-gigawatts-of-power-months-later-the-project-has-been-downsized-and-remains-stalled-after-local-backlash/articleshow/134633966.cms)
 
 **NDTV**
 - ['Will Strengthen Alliance With Samajwadi Party': New UP Congress Chief Aradhana Misra](https://www.ndtv.com/india-news/will-strengthen-alliance-with-samajwadi-party-new-up-congress-chief-aradhana-mishra-12131812#publisher=newsstand)
@@ -62,6 +62,9 @@
 - [ಸ್ಮಿತ್‌ ಮಚ್ಚಾರ್‌ ಮೇಲೆ ದಾಳಿ ಮಾಡಿದ ಸಹ-ಪೈಲಟ್‌ನನ್ನು ಯಾರೇ ಕಳಿಸಿದ್ದರೂ ಸುಮ್ಮನೆ ಬಿಡಲ್ಲ: ಬೆಂಜಮಿನ್ ನೆತನ್ಯಾಹು ಶಪಥ!](https://vijaykarnataka.com/news/world/benjamin-netanyahu-warns-of-retaliation-against-flydubai-attack-planners-praises-smit-machchhar/articleshow/134641298.cms)
 
 **The Hindu**
+- [NC legislator alleges bodyguard ‘attacked him’; police accuse him of ‘assault’](https://www.thehindu.com/news/national/jammu-and-kashmir/nc-legislator-alleges-bodyguard-attacked-him-police-accuse-him-of-assault/article71538086.ece)
+- [Foreign buyers impressed by experiential tourism avenues in Keralam](https://www.thehindu.com/news/national/kerala/foreign-buyers-impressed-by-experiential-tourism-avenues-in-keralam/article71509052.ece)
+- [Deleted, and left in limbo](https://www.thehindu.com/news/national/deleted-and-left-in-limbo/article71538194.ece)
 - [CPI(M) urges Tamil Nadu government to boycott High-Level Committee on Demographic Changes](https://www.thehindu.com/news/national/tamil-nadu/cpim-urges-tamil-nadu-government-to-boycott-high-level-committee-on-demographic-changes/article71537726.ece)
 - [Swadeshi products can strengthen self-reliance, says BJP](https://www.thehindu.com/news/national/andhra-pradesh/swadeshi-products-can-strengthen-self-reliance-says-bjp/article71536795.ece)
 - [A.P. government to note media commission proposal: Minister Kondapalli Srinivas](https://www.thehindu.com/news/national/andhra-pradesh/ap-government-to-note-media-commission-proposal-minister-kondapalli-srinivas/article71537245.ece)
@@ -69,11 +72,10 @@
 - [Nellimarla former MLA likely to take announce his future political plan today](https://www.thehindu.com/news/national/andhra-pradesh/nellimarla-former-mla-likely-to-take-announce-his-future-political-plan-today/article71537613.ece)
 - [CJP announces Jantar Mantar protest on October 10 if CEC Gyanesh Kumar does not resign](https://www.thehindu.com/news/national/cjp-announces-jantar-mantar-protest-on-october-10-if-cec-gyanesh-kumar-does-not-resign/article71538481.ece)
 - [Aradhana Misra Mona appointed as new chief of Uttar Pradesh Congress](https://www.thehindu.com/news/national/uttar-pradesh/aradhana-misra-mona-appointed-as-new-chief-of-uttar-pradesh-congress/article71538200.ece)
-- [Senior IAF officer reviews fifth Gen fighter programme in Bengaluru](https://www.thehindu.com/news/national/karnataka/senior-iaf-officer-reviews-fifth-gen-fighter-programme-in-bengaluru/article71534233.ece)
-- [Surgeon Rear Admiral Jandhyala Sridhar assumes charge as Command Medical Officer](https://www.thehindu.com/news/national/andhra-pradesh/surgeon-rear-admiral-jandhyala-sridhar-assumes-charge-as-command-medical-officer/article71538239.ece)
-- [Congress targets PM Modi over ‘insensitivity’ with regard rising prices and its squeeze on household budgets](https://www.thehindu.com/news/national/congress-targets-pm-modi-over-insensitivity-with-regard-rising-prices-and-its-squeeze-on-household-budgets/article71537250.ece)
 
 **Livemint**
+- [On ventilator and unconscious, what's next for Christa Pike after surviving lethal injection](https://www.livemint.com/news/us-news/on-ventilator-and-unconscious-whats-next-for-christa-pike-after-surviving-lethal-injection-11790970610841.html)
+- [South Africa mass shootings: What’s behind the sudden spike in gun crime? 46 dead in a week in 5 incidents](https://www.livemint.com/news/world/south-africa-mass-shootings-what-s-behind-the-sudden-spike-in-gun-crime-46-dead-in-a-week-in-5-incidents-11790968979697.html)
 - [Hackers Breached Propulsion System of US-Bound Oil Tanker](https://www.livemint.com/news/us-news/hackers-breached-propulsion-system-of-us-bound-oil-tanker-11790969309910.html)
 - ['Smallest trader receives...': What Piyush Goyal said as he rejects conditional MFN treatment at G20 meet](https://www.livemint.com/news/india/smallest-trader-receives-what-piyush-goyal-said-as-he-rejects-conditional-mfn-treatment-at-g20-meet-11790963413503.html)
 - [Putin warns Russia will use ‘all weapons’ against NATO aggression: Why Kaliningrad is latest flashpoint](https://www.livemint.com/news/world/putin-warns-russia-will-use-all-weapons-against-nato-aggression-why-kaliningrad-is-latest-flashpoint-11790961804871.html)
@@ -82,8 +84,6 @@
 - [Pargat Singh appointed Punjab Congress chief ahead of assembly elections after Raja Warring resigns](https://www.livemint.com/news/india/pargat-singh-appointed-punjab-congress-chief-ahead-of-assembly-elections-after-raja-warring-resigns-11790960716437.html)
 - [Explainer | PepsiCo, Monster challenge order against use of 'Energy Drink' labels but why FSSAI calls them misleading](https://www.livemint.com/news/india/explainer-pepsico-monster-challenge-order-against-use-of-energy-drink-labels-but-why-fssai-calls-them-misleading-11790954364839.html)
 - [‘There are no rules now’: Zelensky reveals Putin’s alleged new war order](https://www.livemint.com/news/world/there-are-no-rules-now-zelensky-reveals-putin-s-alleged-new-war-order-11790956664852.html)
-- [She gave up her US Green Card to return to India and build her startup from scratch: Meet Bharathi Ramesh](https://www.livemint.com/news/trends/she-gave-up-her-us-green-card-to-return-to-india-and-build-her-startup-from-scratch-meet-bharathi-ramesh-11790951478384.html)
-- [Piyush Goyal calls for WTO-compliant measures to address global trade distortions at G20 meet](https://www.livemint.com/news/piyush-goyal-calls-for-wto-compliant-measures-to-address-global-trade-distortions-at-g20-meet-11790939847724.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -150,35 +150,35 @@
 - [ಕಲಬುರಗಿ | ಎಸ್‌ಐಆರ್ ವಿರೋಧಿಸಿ ಧರಣಿ; ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ವಜಾಕ್ಕೆ ಆಗ್ರಹ](https://eedina.com/?p=769068)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Congress (4.1)
+- Congress (2.8)
 - Putin (2.6)
-- India (2.6)
 - Mangaluru (2.6)
 - Punjab (2.2)
 - Pargat Singh (2.0)
 - Punjab Congress (2.0)
 - Jantar Mantar (2.0)
 - CEC Gyanesh Kumar (2.0)
-- PM Modi (2.0)
 - Pargat (1.9)
 - Warring (1.6)
 - Minute (1.6)
 - Mumbai (1.6)
 - Protest (1.6)
+- What (1.6)
+- Musk (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [The Sky Today on Friday, October 2: Venus stands still](https://www.astronomy.com/observing/the-sky-today-friday-october-2-2026/)
-- [‘నన్ను ఆంధ్రా బిడ్డగా భావించండి.. రాష్ట్రానికి ఏం చేయగలనో చెప్పండి’.. అనంత్ అంబానీ నోట తెలుగు మాట..](https://telugu.samayam.com/andhra-pradesh/news/treat-me-as-andhra-son-reliance-industries-anant-ambani-speech-at-madanapalle-global-horticulture-hub-event/articleshow/134634551.cms)
-- [तमिलनाडु में हाईवे पर साइनबोर्ड हिंदी में लिखने पर विवाद, विजय सरकार ने दो अधिकारियों को किया सस्पेंड](https://www.jagran.com/news/national-tamil-nadu-suspends-officials-over-hindi-on-highway-signboard-news-in-hindi-40392012.html)
-- [പിജെ ജോസഫിന് ക്യാബിനറ്റ് പദവി വൈകുന്നു; കേരള കോൺഗ്രസിന് അതൃപ്തി, മുഖ്യമന്ത്രിയെ നേരിൽ കാണാൻ മോൻസ് ജോസഫ്](https://www.asianetnews.com/kerala-news/kerala-congress-dissatisfied-over-delay-in-cabinet-rank-to-pj-joseph-articleshow-cvs8nx3)
-- [Meenakshi Shinde: ...मग तुम्ही रश्मी ठाकरेंचे खासमखास म्हणायचं का? आम्ही खालच्या पातळीवर जाऊन बोलणार नाही, मीनाक्षी शिंदेंचा संजय राऊतांवर हल्लाबोल](https://marathi.abplive.com/news/politics/meenakshi-shinde-on-sanjay-raut-statement-about-eknath-shinde-and-meenakshi-shinde-close-rashmi-thackeray-shivsena-sanjay-raut-pradeep-purnekar-case-1440981)
-- [Thackeray brothers Morcha : ठाकरे बंधूंच्या मोर्चाच्याबाबत मोठी अपडेट, मार्ग बदलला! आता 'या' ठिकाणाहून होणार सुरुवात](https://sarkarnama.esakal.com/maharashtra/uddhav-raj-thackeray-morcha-big-change-in-route-ahead-of-october-4-mumbai-protest-sw79)
-- [ஃப்ளைதுபை விமானத்தை இயக்கிய இந்திய விமானி ஸ்மித் பற்றி சர்வதேச ஊடகங்கள் கூறுவது என்ன?](https://www.bbc.com/tamil/articles/ckvgyg79dllgo)
-- [Out on walk with friend, Faridabad girl, 13, gangraped in abandoned building](https://www.indiatoday.in/cities/other-cities/story/faridabad-girl-13-gang-raped-abandoned-building-three-arrested-3007993-2026-10-02)
-- [PM Modi ਨੇ 174 ਜਾਨਾਂ ਬਚਾਉਣ ਵਾਲੇ ਕੈਪਟਨ ਸਮਿਤ ਨਾਲ ਫੋਨ ‘ਤੇ ਕੀਤੀ ਗੱਲ](https://wishavwarta.in/pm-modi-spoke-over-phone-with-captain-sumit/)
-- [Anant Ambani: నన్ను ఆంధ్రా బిడ్డగా భావించండి... రాష్ట్రాభివృద్దికి సహాకరిస్తానని అనంత్ అంబానీ హామీ](https://telugu.news18.com/news/andhra-pradesh/rayalaseema-global-horticulture-hub-anant-ambani-promises-support-to-andhra-pradesh-devolopment-snr-3238472.html)
+- [Chahal retires from first-class cricket, hunger for ODIs and T20Is 'very much alive'](https://www.cricinfo.com/story/yuzvendra-chahal-retires-from-first-class-cricket-hunger-for-odis-and-t20is-very-much-alive-1556901)
+- [Nimrat Kaur Father Death Story In Terrorist Attack ; दहशतवाद्यांनी लष्करी कपडे घालून फसवलं, ड्युटीवर गेलेले वडील शवपेटीतून परतले, निमरतने सांगितली भावुक आठवण](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/nimrat-kaur-martyred-father-killed-by-terrorists/articleshow/134634913.cms)
+- [চাপের মুখে বাদ পড়া ভোটারদের নাম তোলার তোড়জোড়! বিএলও-দের বাড়ি গিয়ে ফর্ম-৬ পূরণ করতে বলল কমিশন](https://www.anandabazar.com/india/eci-has-ordered-a-massive-nationwide-special-drive-directing-blos-across-states-and-union-territories-dgtl/cid/1716912)
+- [युजवेंद्र चहल हो गए र‍िटायर, अचानक फर्स्ट क्लास क्रिकेट से संन्यास का ऐलान](https://www.aajtak.in/sports/cricket/story/yuzvendra-chahal-first-class-cricket-retirement-tspok-dskc-2659239-2026-10-02)
+- [लद्दाख पर बड़े फैसले से चीन को लगेगी मिर्ची, भारत के नए नक्शे में ऑक्साई चिन का डेहरा कंपास, विस्तार से जानिए](https://navbharattimes.indiatimes.com/state/jammu-and-kashmir/srinagar/ladakh-new-location-in-survey-of-india-map-recognition-of-28-geographical-locations-in-ladakh-including-aksai-chin-dehra-compas/articleshow/134635322.cms)
+- [વડોદરામાં આજે ‘નો યુપીઆઈ ડે’ મનાવી વેપારીઓએ પ્લે કાર્ડ સાથે વિરોધ નોંધાવ્યો](https://www.gujaratsamachar.com/news/baroda/traders-protested-with-placards-in-vadodara-today-observing-no-upi-day-57948481623)
+- ['মাছে-ভাতে' ব্রাজিল! তবে ভরসা নিজেদের রাঁধুনিতে, ময়দানে নামার আগে সেলেসাওদের মেনুতে কী কী থাকছে?](https://www.thewall.in/football/brazil-football-team-kolkata-strict-diet-fish-feast-own-chefs/tid/206118)
+- [ബിജെപി നേതാവിനെ കൊലപ്പെടുത്താന്‍ ഭാര്യയും കാമുകനും പദ്ധതിയിട്ടു; ബൈക്ക് കത്തിച്ച കേസില്‍ ട്വിസ്റ്റ്](https://www.manoramanews.com/india/states/2026/10/02/andhra-pradesh-bjp-leader-wife-lover-arrested-bike-fire-case-tirupati-twist-in-enquiry.html)
+- [Phantom jams, traffic that moves like fluid, forced merges: The physics behind Barapullah Phase-III gridlock](https://www.hindustantimes.com/ht-explainers/phantom-jams-traffic-that-moves-like-fluid-forced-merges-the-physics-behind-barapullah-phase-iii-gridlock-101790928086523.html)
+- [‘ভেবেছিলাম SRK হব!’ পরপর ফ্লপ ছবি, ডুবন্ত কেরিয়ারের মোড় ঘোরায় একতার সিরিয়াল, মেলে টিভির ‘শাহরুখ খান’ তকমা](https://www.hindustantimes.com/bangla/entertainment/from-flop-bollywood-debut-to-small-screen-royalty-the-untold-journey-of-iqbal-khan-srk-of-indian-television-271790888015872.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
