@@ -1,16 +1,16 @@
-# India Trending Report — 2026-10-03 00:02:35
+# India Trending Report — 2026-10-03 00:43:06
 
 ## Google Trends (India) — top trending searches
-1. [ban vs sl](https://trends.google.com/trending/rss?geo=IN)
-2. [ఇరుముడి](https://trends.google.com/trending/rss?geo=IN)
-3. [క్రికెట్](https://trends.google.com/trending/rss?geo=IN)
-4. [são paulo vs santos](https://trends.google.com/trending/rss?geo=IN)
-5. [robert lewandowski](https://trends.google.com/trending/rss?geo=IN)
-6. [daniel maldini](https://trends.google.com/trending/rss?geo=IN)
-7. [cjp protests](https://trends.google.com/trending/rss?geo=IN)
-8. [दृश्यम](https://trends.google.com/trending/rss?geo=IN)
-9. [sebastiano esposito](https://trends.google.com/trending/rss?geo=IN)
-10. [poland vs romania](https://trends.google.com/trending/rss?geo=IN)
+1. [கனமழை](https://trends.google.com/trending/rss?geo=IN)
+2. [litton das](https://trends.google.com/trending/rss?geo=IN)
+3. [sri lanka vs bangladesh](https://trends.google.com/trending/rss?geo=IN)
+4. [विरोध](https://trends.google.com/trending/rss?geo=IN)
+5. [ఇరుముడి](https://trends.google.com/trending/rss?geo=IN)
+6. [క్రికెట్](https://trends.google.com/trending/rss?geo=IN)
+7. [são paulo vs santos](https://trends.google.com/trending/rss?geo=IN)
+8. [robert lewandowski](https://trends.google.com/trending/rss?geo=IN)
+9. [daniel maldini](https://trends.google.com/trending/rss?geo=IN)
+10. [cjp protests](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -23,7 +23,7 @@
 - [Mississippi couple wins $41,920 after loggers cut 1,299 trees on their land](https://timesofindia.indiatimes.com/world/us/in-2022-loggers-working-for-neighbours-crossed-onto-a-mississippi-couples-land-and-cut-1299-trees-their-handwritten-tally-helped-secure-a-41920-award-later-upheld-on-appeal/articleshow/134619743.cms)
 - [Father got 3 bigha in 1972; HC protects married daughter's land claim](https://timesofindia.indiatimes.com/business/india-business/in-1972-father-got-3-bigha-of-land-from-himachal-government-but-patta-was-never-signed-why-hc-allowed-married-daughters-inheritance-appeal-what-role-hindu-succession-act-plays/articleshow/134636006.cms)
 - [Warring out, Pargat in: Has Congress solved Punjab crisis or set stage for another twist?](https://timesofindia.indiatimes.com/india/warring-out-channi-not-in-yet-has-congress-solved-punjab-crisis-or-created-more-confusion/articleshow/134640757.cms)
-- [Two suspected Pakistani intruders shot dead in Tarn Taran](https://timesofindia.indiatimes.com/city/chandigarh/two-suspected-pak-intruders-shot-dead-in-tarn-taran/articleshow/134645188.cms)
+- [North Korea fires missile towards South Korea amid DMZ security tensions](https://timesofindia.indiatimes.com/defence/international/north-korea-fires-missile-towards-south-korea-amid-dmz-security-tensions/articleshow/134650224.cms)
 
 **NDTV**
 - ['Will Strengthen Alliance With Samajwadi Party': New UP Congress Chief Aradhana Misra](https://www.ndtv.com/india-news/will-strengthen-alliance-with-samajwadi-party-new-up-congress-chief-aradhana-mishra-12131812#publisher=newsstand)
@@ -38,6 +38,7 @@
 - [PM Modi Attends Prayer Meet On Gandhi Jayanti, Interacts With School Students](https://www.ndtv.com/india-news/pm-modi-attends-prayer-meet-on-gandhi-jayanti-interacts-with-school-students-12131769#publisher=newsstand)
 
 **Hindustan Times**
+- [Understanding carbon debt, factors behind BRICS stance on fossil fuels, and why it matters at COP31](https://www.hindustantimes.com/india-news/understanding-carbon-debt-factors-behind-brics-stance-on-fossil-fuels-and-why-it-matters-at-cop31-101790987171097.html)
 - [‘Are you afraid of BJP’: Stalin targets CM Vijay for alleged silence over SIR-CEC](https://www.hindustantimes.com/india-news/stalin-targets-vijay-for-alleged-silence-over-sir-cec-row-are-you-afraid-of-bjp-dmk-tvk-tamil-nadu-october-6-bypoll-101790951070344.html)
 - [Congress appoints Aradhna Mishra Mona as new UP chief, Imran Masood as working president ahead of 2027 polls](https://www.hindustantimes.com/india-news/congress-appoints-aradhna-mishra-mona-as-new-up-chief-imran-masood-working-president-ahead-of-2027-polls-101790957268714.html)
 - [Pargat Singh appointed Punjab Congress chief after Warring's exit, takes charge ahead of 2027 Assembly polls](https://www.hindustantimes.com/india-news/pargat-singh-appointed-punjab-congress-chief-after-warrings-exit-takes-charge-ahead-of-2027-assembly-polls-101790956048595.html)
@@ -47,7 +48,6 @@
 - [‘They shot down their own satellite’: Ex-official recalls US' shock over India's ASAT missile test](https://www.hindustantimes.com/india-news/former-us-official-recalls-nro-shock-over-indias-2019-mission-shakti-missile-test-101790945149543.html)
 - [Decomposed body of 27-year-old doctor found in Hyderabad apartment, cops suspect foul play as partner missing](https://www.hindustantimes.com/india-news/27yrold-doctor-found-dead-in-hyderabad-service-apartment-her-partner-missing-police-101790950236558.html)
 - [Woman allegedly stripped, beaten at Guwahati club after drunken brawl with bouncers](https://www.hindustantimes.com/india-news/woman-allegedly-stripped-beaten-at-guwahati-club-after-drunken-brawl-with-bouncers-101790949017433.html)
-- [Milind Deora writes to PM Modi, seeks Ashok Chakra for flydubai Captain Machchhar](https://www.hindustantimes.com/india-news/milind-deora-writes-to-pm-modi-seeks-ashok-chakra-for-flydubai-captain-machchhar-101790947836192.html)
 
 **Vijay Karnataka**
 - [ವೀರ ಕ್ಯಾಪ್ಟನ್‌ ಸ್ಮಿತ್‌ ಮಚ್ಚಾರ್‌ ದೇಹದ ಯಾವೆಲ್ಲಾ ಭಾಗದ ಮೇಲೆ ಗಾಯ? ಹೆಲ್ತ್‌ ಬುಲೆಟಿನ್‌ ಬಿಡುಗಡೆ ಮಾಡಿದ ಆಸ್ಪತ್ರೆ!](https://vijaykarnataka.com/news/world/smit-machchhar-suffered-injuries-to-various-parts-of-his-body-hospital-release-health-bulletin-of-indian-pilot/articleshow/134643490.cms)
@@ -74,6 +74,7 @@
 - [Nellimarla former MLA likely to take announce his future political plan today](https://www.thehindu.com/news/national/andhra-pradesh/nellimarla-former-mla-likely-to-take-announce-his-future-political-plan-today/article71537613.ece)
 
 **Livemint**
+- [GSTAT opens online route to club identical GST disputes](https://www.livemint.com/news/india/gstat-opens-online-route-to-club-identical-gst-disputes-11790941955968.html)
 - [Two Iranian Men Charged Over Plot Targeting UK Jewish Community](https://www.livemint.com/news/world/two-iranian-men-charged-over-plot-targeting-uk-jewish-community-11790984085296.html)
 - [From first solo trip at 13, she’s  now just 9 countries away from becoming the youngest person to visit every country](https://www.livemint.com/news/trends/from-first-solo-trip-at-13-she-s-now-just-9-countries-away-from-becoming-the-youngest-person-to-visit-every-country-11790978899053.html)
 - [Anant Ambani steps in after family raises  ₹2.2 crore for toddler’s  ₹9 crore treatment | Watch](https://www.livemint.com/news/trends/anant-ambani-steps-in-after-family-raises-rs-2-2-crore-for-toddler-s-rs-9-crore-treatment-watch-11790966245548.html)
@@ -83,7 +84,6 @@
 - [Hackers Breached Propulsion System of US-Bound Oil Tanker](https://www.livemint.com/news/us-news/hackers-breached-propulsion-system-of-us-bound-oil-tanker-11790969309910.html)
 - ['Smallest trader receives...': What Piyush Goyal said as he rejects conditional MFN treatment at G20 meet](https://www.livemint.com/news/india/smallest-trader-receives-what-piyush-goyal-said-as-he-rejects-conditional-mfn-treatment-at-g20-meet-11790963413503.html)
 - [Putin warns Russia will use ‘all weapons’ against NATO aggression: Why Kaliningrad is latest flashpoint](https://www.livemint.com/news/world/putin-warns-russia-will-use-all-weapons-against-nato-aggression-why-kaliningrad-is-latest-flashpoint-11790961804871.html)
-- [Tukaram Mundhe in action! Maharashtra FDA cancels Cipla's Pune drug sale licence](https://www.livemint.com/news/india/tukaram-mundhe-in-action-maharashtra-fda-cancels-ciplas-pune-drug-sale-licence-11790960000968.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,6 +100,8 @@
 - [ಸಾಗರ | ಮನೆ ಮೇಲೆ ಉರುಳಿದ ಪ್ರವಾಸಿ ಬಸ್; ಸಣ್ಣಪುಟ್ಟ ಗಾಯದೊಂದಿಗೆ ಪ್ರಯಾಣಿಕರು ಪಾರು](https://www.varthabharati.in/shimoga/sagara-2279849)
 
 **Asianet Kannada**
+- [ಮೈಸೂರು ದಸರಾ: ರಾಜವಂಶಸ್ಥರಿಗೆ ಆಹ್ವಾನ; ಕಂಬಳದಲ್ಲಿ ಗೆಲ್ಲುವ ಕೋಣಕ್ಕೆ ಎಷ್ಟು ಗ್ರಾಂ ಬಂಗಾರ?](https://kannada.asianetnews.com/karnataka-districts/mysuru-dasara-royal-family-invited-how-much-gold-will-the-kambala-winning-buffalo-get-rav/articleshow-3e3ggqk)
+- [ಯುದ್ಧಪೀಡಿತ ಪ್ರದೇಶದಂತಿರುವ ಇಂದಿರಾ ನಗರ ಪುಟ್‌ಪಾತ್! ವಿದೇಶಿಗನ ವಿಡಿಯೋ ವೈರಲ್](https://kannada.asianetnews.com/state/bengaluru-indira-nagar-footpath-resembles-a-war-zone-foreigner-video-goes-viral-rav/articleshow-sc4tgpo)
 - [ಬೆಂಗಳೂರಿಗರಿಗೆ ಶುಭಸುದ್ದಿ: ಶೀಘ್ರದಲ್ಲೇ ಓಡಲಿದೆ ಮತ್ತೊಂದು ಹೊಸ ರೈಲು! 6 ಮೆಟ್ರೋ ನಿಲ್ದಾಣಗಳಿಗೆ ಯಾರ ಹೆಸರು?](https://kannada.asianetnews.com/state/bengaluru-good-news-namma-metro-pink-line-to-be-inaugurated-soon-rav/articleshow-nilwwpy)
 - ['ಶಕ್ತಿಮಾನ್‌' ತರ ಆಗ್ಬೇಕಾ? ಹಾಲಿನಲ್ಲಿ ನೆನೆಸಿದ ಖರ್ಜೂರ ತಿನ್ನಿ ಸಾಕು!](https://kannada.asianetnews.com/webstories/health-life/7-health-benefits-of-eating-dates-soaked-in-milk-overnight-to-know-here-sgp47mc)
 - [ಋತುಮಾನದ ಸೋಂಕು ತಡೆಯಲು ಈ ಪಾನೀಯ ಸೇವಿಸಿ!](https://kannada.asianetnews.com/webstories/health-life/6-healthy-drinks-to-boost-immunity-and-prevent-seasonal-infections-to-know-here-i5z3ky6)
@@ -108,12 +110,11 @@
 - [ಫ್ರಿಡ್ಜ್‌ನಲ್ಲಿ ಈ ಸಣ್ಣ ಬದಲಾವಣೆ ಮಾಡಿ ನೋಡಿ.. ಕರೆಂಟ್ ಬಿಲ್ ಶೇ. 20 ರಷ್ಟು ಕಡಿಮೆಯಾಗುತ್ತೆ!](https://kannada.asianetnews.com/gallery/life/how-to-reduce-electricity-bill-in-kannada-s87rpah)
 - [Delhi Protest; ಮೊದಲು ದಕ್ಷಿಣ ಭಾರತದ ಆ ಸ್ಟಾರ್ ಕರೆಸಿ; ಜಂತರ್ ಮಂತರ್‌ನಲ್ಲಿ ಧರಣಿ ನಡೆಸುತ್ತಿದ್ದ ಮಹಿಳೆ ವಿಚಿತ್ರ ಡಿಮ್ಯಾಂಡ್‌ಗೆ ಡೆಲ್ಲಿ ಶೇಕ್!](https://kannada.asianetnews.com/india-news/jantar-mantar-protest-gyanesh-kumar-vijay-dalapathy-viral-woman-video-bmk/articleshow-nk0lwfs)
 - [ಕೆಂಪು ಸೀರೆಯುಟ್ಟು, ಕಾವೇರಿ ನೀರಲ್ಲಿ ಪಟಪಟನೇ ಓಡಾಡಿ ಫೋಟೋಶೂಟ್‌ಗೆ ಫೋಸ್ ಕೊಟ್ಟ ಭಾವನಾ ರಾವ್! ಸೀಕ್ರೆಟ್ ಏನು?](https://kannada.asianetnews.com/gallery/sandalwood/galipata-fame-actress-bhavana-rao-grabes-attention-with-a-unique-photoshoot-in-red-saree-set-in-natural-beauty-of-coorg-36ncrow)
-- [ಕಣ್ಣಿಗೆ ಪೊರೆ ಬಂದಿದೆ ಎಂದು ಆಸ್ಪತ್ರೆಗೆ ಬಂದ ಮಹಿಳೆ ಕಣ್ಣಲ್ಲಿತ್ತು 27 ಕಾಂಟ್ಯಾಕ್ಟ್​ ಲೆನ್ಸ್​: ಬೆಚ್ಚಿಬಿದ್ದ ವೈದ್ಯರು](https://kannada.asianetnews.com/health-life/surgeons-remove-27-contact-lenses-from-womans-eye-which-was-not-noticed-by-woman-suc/articleshow-3t46g2h)
-- [India ಪವರ್‌ಗೆ ಶೇಕ್‌ ಆಯ್ತು ಅಮೆರಿಕ; ಮೊದಲ ದಾಳಿಯಲ್ಲೇ ತತ್ತರಿಸಿದ ಬಲಾಢ್ಯ ದೇಶ, ಪ್ಯಾನಿಕ್‌ನಲ್ಲೇ ಕಾಲ್‌ ಮಾಡಿದ ಯುಎಸ್‌!](https://kannada.asianetnews.com/science/india-mission-shakti-asat-missile-david-grusch-us-intelligence-shock-bmk/articleshow-sg8rcck)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಸಾಧಕಿ ಎಂ.ಆರ್. ಪೂವಮ್ಮಗೆ ಮಂಗಳೂರು ಏರ್‌ಪೋರ್ಟ್‌ನಲ್ಲಿ ಗ್ರ್ಯಾಂಡ್ ವೆಲ್ಕಮ್: ಪ್ರೋತ್ಸಾಹಧನ ಹೆಚ್ಚಿಸಲು ಸರ್ಕಾರಕ್ಕೆ ಆಗ್ರಹ](https://tv9kannada.com/videos/asian-games-gold-medalist-poovamma-receives-heros-welcome-in-mangaluru-1245791.html)
 - [ದಿನ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರು ಹಣಕಾಸಿನ ವಿಚಾರದಲ್ಲಿ ಮೋಸ ಹೋಗುವರು](https://tv9kannada.com/horoscope/daily-horoscope-for-october-3-2026-bhadrapada-shukla-paksha-dakshinayana-greeshma-season-1245774.html)
 - [ಗಾನವಿ ಗಲಾಟೆಯಿಂದ ರೋಸಿ ಹೋದ ಮನೆ ಮಂದಿ: ಮಂಜನಿಗೂ ಕಾಂಪಿಟೇಶನ್ನು](https://tv9kannada.com/entertainment/bigg-boss-kannada-housemates-fed-up-of-ganhavi-1245789.html)
 - [ಮನೆಗೆ ಮರಳಿದ ತಾಂಡವ್​​ ವಿರುದ್ಧ ಧಿಕ್ಕಾರ ಕೂಗಿದ ಸ್ಪರ್ಧಿಗಳು: ಕಾರಣ?](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-some-housemates-protest-against-tandav-ram-1245762.html)
@@ -123,15 +124,18 @@
 - [ಪಂಜಾಬ್ ಕಾಂಗ್ರೆಸ್ ನೂತನ ಅಧ್ಯಕ್ಷರಾಗಿ ಹಾಕಿ ದಿಗ್ಗಜ ಪರ್ಗತ್ ಸಿಂಗ್ ನೇಮಕ; ರಾಜಾ ವಾರಿಂಗ್ ರಾಜೀನಾಮೆ ಬೆನ್ನಲ್ಲೇ ಹೈಕಮಾಂಡ್ ನಿರ್ಧಾರ](https://tv9kannada.com/national/hockey-legend-pargat-singh-appointed-as-punjab-congress-president-days-after-amarinder-singh-raja-warrings-resignation-1245763.html)
 - [ರೋಹಿತ್ ಔಟ್, ಜೈಸ್ವಾಲ್ ಇನ್; ಟೀಂ ಇಂಡಿಯಾದಲ್ಲಿ 2 ಬದಲಾವಣೆ ಖಚಿತ](https://tv9kannada.com/sports/cricket-news/india-vs-west-indies-3rd-odi-playing-xi-clean-sweep-1245761.html)
 - [ಹುಬ್ಬಳ್ಳಿಯಲ್ಲಿ ಕಬ್ಬು ಬೆಳಗಾರರ ಪ್ರತಿಭಟನೆ ಬೆನ್ನಲ್ಲೇ ಅ.12ರಂದು ದೆಹಲಿಯಲ್ಲಿ ಸಭೆ: ಡಿಕೆಶಿಗೂ ಆಹ್ವಾನ](https://tv9kannada.com/videos/pralhad-joshi-invite-cm-dk-shivakumar-to-meeting-on-october-12th-about-sugarcane-farmers-1245760.html)
-- [ಕಡತ ವಿಲೇವಾರಿ ತ್ವರಿತಗೊಳಿಸಲು ಸರ್ಕಾರ ದಿಟ್ಟ ಹೆಜ್ಜೆ: ಡಿಪಿಎಆರ್ ಸುತ್ತೋಲೆಯ ವಿವರ ಹೀಗಿದೆ](https://tv9kannada.com/karnataka/karnataka-government-takes-bold-step-to-speed-up-file-disposal-dpar-issues-circular-1245743.html)
 
 **Prajavani**
-- [ಚಿನಕುರುಳಿ: ಶನಿವಾರ, 03 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/prajavani-daily-cartoon-by-prakash-shetty-35-4303688)
-- [ದಿನ ಭವಿಷ್ಯ: ಪುಸ್ತಕದ ವ್ಯಾಪಾರಿಗಳಿಗೆ ಒಳ್ಳೆಯ ಲಾಭವಾಗಲಿದೆ..](https://www.prajavani.net/astro-vastu/horoscope/daily-horoscope-dated-on-03-october-2026-4303947)
-- [ಈ ದಿನದ ಪಂಚಾಂಗ: ಶನಿವಾರ, 03 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/astro-vastu/panchanga/daily-panchanga-dated-on-03-october-2026-4303939)
-- [ಗುಂಡಣ್ಣ ಕಾರ್ಟೂನು: ಶನಿವಾರ, 03 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/gundanna-cartoon-dated-on-03-october-2026-4303819)
-- [ಸುಭಾಷಿತ: ಬೆನ್‌ ಜಾನ್ಸನ್‌](https://www.prajavani.net/op-ed/subhashita/prajavani-daily-subhashita-dated-on-03-0ctober-2026-4303538)
-- [ಸುದ್ದಿ ಗುದ್ದು | ತಿಂಗಳೇಶ: ಶನಿವಾರ, 03 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/suddi-guddu-tingalesha-cartoon-dated-on-03-october-2026-4303565)
+- [‘ಕೈಬಿಟ್ಟವರಿಗಾಗಿ’ ವಿಶೇಷ ಅಭಿಯಾನ](https://www.prajavani.net/news/india-news/voter-list-special-campaign-election-commission-directive-4304055)
+- [ವನಿತೆಯರ ಮುಡಿಗೆ ‘ಸುವರ್ಣ ಕಿರೀಟ’](https://www.prajavani.net/sports/other-sports/indian-women-hockey-team-wins-asian-games-gold-medal-4304015)
+- [ಕ್ರಿಕೆಟ್: ಕ್ಲೀನ್‌ಸ್ವೀಪ್ ಮೇಲೆ ಗಿಲ್ ಪಡೆ ಕಣ್ಣು](https://www.prajavani.net/sports/cricket/india-vs-west-indies-third-odi-gill-leads-clean-sweep-pursuit-4303390)
+- [ಗೃಹಜ್ಯೋತಿ: 34.76 ಲಕ್ಷ ಮನೆಗಳಿಗೆ ಕೊಕ್‌?](https://www.prajavani.net/news/karnataka-news/gruha-jyothi-scheme-beneficiary-verification-bescom-update-4304156)
+- [ನಗರದಲ್ಲಿ ಇಂದು: ಬೆಂಗಳೂರು ನಗರದ ಇಂದಿನ ಕಾರ್ಯಕ್ರಮಗಳು](https://www.prajavani.net/district/bengaluru-city/bengaluru-city-events-cultural-and-social-programs-today-4304042)
+- [ನಿವಾಸಿ ಪ್ರಮಾಣಪತ್ರ; ನಿಯಮ ಅಡ್ಡಗಾಲು](https://www.prajavani.net/district/bengaluru-city/bda-shivaram-karanth-layout-residential-certificate-issue-bengaluru-4303931)
+- [ಇಲಾಖೆಗಳಲ್ಲಿ ನವೋದ್ಯಮ ಪರ್ವ](https://www.prajavani.net/business/commerce-news/karnataka-startup-policy-government-first-scheme-departments-4290153)
+- [ಸತತ ಎರಡನೇ ಚಿನ್ನದತ್ತ ಭಾರತದ ಕಣ್ಣು](https://www.prajavani.net/sports/other-sports/asian-games-hockey-india-vs-malaysia-final-4303367)
+- [ವಾಚಕರ ವಾಣಿ: ಪ್ರಜಾವಾಣಿ ಓದುಗರ ಈ ದಿನದ ಪತ್ರಗಳು](https://www.prajavani.net/op-ed/readers-letter/prajavani-readers-forum-letters-western-ghats-healthcare-voter-list-4303578)
+- [ಕೆಪಿಎಸ್‌ಸಿ ಮುಚ್ಚುವುದು ಸಾಧ್ಯವೇ?](https://www.prajavani.net/explainer/detail/kpsc-closure-controversy-constitutional-validity-dk-shivakumar-statement-4303867)
 
 **eedina**
 - [ಕಲಬುರಗಿ | ಗಾಂಧೀಜಿ ಆದರ್ಶಗಳು ಯುವಕರಿಗೆ ದಾರಿದೀಪ: ಪವನಕುಮಾರ ವಳಕೇರಿ](https://eedina.com/?p=769100)
@@ -146,9 +150,9 @@
 - [ಕಲಬುರಗಿ | ಎಸ್‌ಐಆರ್ ವಿರೋಧಿಸಿ ಧರಣಿ; ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ವಜಾಕ್ಕೆ ಆಗ್ರಹ](https://eedina.com/?p=769068)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (3.9)
 - Congress (3.5)
 - What (2.9)
+- India (2.6)
 - Mangaluru (2.6)
 - Indian (2.3)
 - Jantar Mantar (2.0)
@@ -165,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [సిగ్మా మూవీ రివ్యూ](https://www.chitrajyothy.com/2026/film-reviews/sigma-movie-review-onava-75926.html)
-- [IND A vs AUS A Highlights: चौथी पारी में इंडिया ए ने 103 ओवर खेले, आखिरी जोड़ी ने बचाया मैच, ऑस्ट्रेलिया ए के खिलाफ सीरीज पर जमाया कब्जा](https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/india-a-saved-the-second-unofficial-test-match-against-australia-a-in-the-fourth-innings-ind-a-vs-aus-a-highlights/articleshow/134638697.cms)
-- [Ajay Devgn Drishyam 3 Review: 'దృశ్యం: ది కన్‌క్లూజన్' మూవీ రివ్యూ: విజయ్ సాల్గాంకర్ చివరి మైండ్ గేమ్ ఎలా ఉందంటే?](https://www.v6velugu.com/drishyam-3-movie-review-ajay-devgn%E2%80%99s-mind-game-offers-thrilling-and-satisfying-finale)
-- [ஓடிடியில் வெளியான ’பெத்லகேம் குடும்ப யூனிட்’ - இந்த வார வெளியீடுகள் என்ன?](https://www.etvbharat.com/ta/entertainment/this-week-ott-releases-including-nivin-pauly-mamitha-baiju-starrer-bethlehem-kudumba-unit-tns26100203892)
-- [ఆటో కార్మికులకు గుడ్ న్యూస్.. ఛార్జీలను పెంచుతూ రాష్ట్ర ప్రభుత్వం జీవో](https://www.andhrajyothy.com/2026/telangana/hyderabad/telangana-auto-fares-hike-minimum-fare-30-1563547.html)
-- [नीब करौरी बाबा की 'हनुमान अंश' को लेकर बड़ा ऐलान, 9 अक्टूबर को दुनियाभर में तेलुगू में हो रही रिलीज](https://navbharattimes.indiatimes.com/entertainment/south-movie/hanuman-ansh-makers-big-announcement-he-film-will-be-released-worldwide-in-telugu-on-october-9th/articleshow/134638499.cms)
-- [ഭാര്യയ്ക്ക് സുഖമില്ല, നിനക്കൊപ്പം ഉറങ്ങണം; സ്‌കൂൾ ജീവനക്കാരൻ വനിതാ ജീവനക്കാരിയോട് നടത്തിയ അഭ്യർത്ഥനാ വീഡിയോ വൈറൽ](https://malayalam.news18.com/news/india/woman-employee-harassment-complaint-school-operator-caught-mm-790804.html)
-- [‘কজরা রে ২.০’ গানের প্রস্তাবে রাজি অভিষেক! বাবা ও স্ত্রীর নাম করে দিলেন বিশেষ শর্ত?](https://www.anandabazar.com/entertainment/abhishek-bachchan-says-he-would-love-to-do-kajra-re-2-0-recalls-fun-shoot-with-amitabh-bachchan-and-aishwarya-rai-bachchan-dgtl/cid/1716954)
-- [Pulsar NS400Z Launched: DUKE-க்கு நேரடி சவால்.! அறிமுகமானது சக்திவாய்ந்த பஜாஜ் பல்சர் NS400Z; விலை, அம்சங்கள் என்ன.?](https://tamil.abplive.com/auto/new-bajaj-pulsar-ns400z-launched-know-price-features-and-specs-duke-rival-276211)
-- [ഏഷ്യൻ ഗെയിംസ് 2026; പുരുഷ വിഭാഗം ബോക്സിംഗിൽ ഇന്ത്യയുടെ അങ്കുഷ് പങ്കലിനും വനിതകളിൽ ലോവ്‌ലിനയ്ക്കും പർവീൻ ഹൂഡയ്ക്കും സ്വർണം](https://malayalam.news18.com/news/sports/asian-games-2026-gold-for-indias-ankush-panghal-in-mens-boxing-and-for-lovlina-and-parveen-hooda-in-the-womens-category-nkn-ws-l-790806.html)
+- [Accident News : समृद्धी महामार्गावर भीषण अपघात ! कंटेनरच्या धडकेत 7 जणांचा मृत्यू](https://www.dainikprabhat.com/accident-news-horrific-accident-on-samruddhi-mahamarg-7-killed-in-collision-with-a-container-truck)
+- [டில்லியில் தலைமை தேர்தல் கமிஷனரை கண்டித்து போராட்டம்: தடை உத்தரவை மீறிய 700 பேர் கைது](https://www.dinamalar.com/news/india-tamil-news/delhi-700-people-arrested-for-violating-prohibitory-orders-during-protest-against-chief-election-commissioner/4338231)
+- [தமிழகத்தில் 8ஆம் தேதி வரை மழைக்கு வாய்ப்பு..! 4 மாவட்டங்களுக்கு கனமழை எச்சரிக்கை..!](https://www.polimernews.com/tamilnadunews/rain-likely-in-tamil-nadu-until-october-8-heavy-rain-alert-for-4-districts-12617193)
+- [CJP Protest : ज्ञानू इट्स डन ब्रो, आता राजीनामा द्या; पंतप्रधान, मुख्यमंत्र्यांवर अभिजीत दिपकेंचा प्रहार, मुंबईत CJP आंदोलनाला मोठी गर्दी](https://marathi.abplive.com/news/mumbai/abhijeet-dipke-cjp-mumbai-protest-slams-election-commission-gyanesh-kumar-pm-narendra-modi-marathi-news-1441020)
+- [Pakistan: সন্ত্রাসবাদ ইস্যুতে কোনঠাসা পাকিস্তান, জেনেভায় রাষ্ট্রসংঘের বৈঠকে নিন্দার ঝড়](https://bangla.asianetnews.com/international/world-news/geneva-un-event-highlights-pakistans-role-in-regional-terrorism/articleshow-etrkgv4)
+- [यूक्रेन जंग में परमाणु बम की होगी एंट्री? एक घंटे के अंदर दूसरी बार बोले पुतिन! दुनियाभर में हड़कंप](https://www.livehindustan.com/international/putin-2nd-threat-in-just-1-hour-to-nato-says-russia-prepared-to-use-all-weapons-including-nuclear-to-protect-kaliningrad-201790943455025.html)
+- [ഏഷ്യൻ ഗെയിംസ് വനിതാ ഹോക്കിയിൽ ഇന്ത്യയ്ക്ക് സ്വർണം; ഫൈനലിൽ ചൈനയെ കീഴടക്കി](https://www.mathrubhumi.com/sports/other-sports/india-china-hockey-gold-medal-match-looldkln)
+- [Asian Games 2026: हॉकी में भारत का स्वर्णिम दिन, महिला टीम ने चीन को हराकर एशियन गेम्स में 44 साल बाद जीता गोल्ड](https://navbharattimes.indiatimes.com/sports/asian-games/news/india-won-the-women-hockey-gold-medal-by-defeating-china-asian-games-2026/articleshow/134639497.cms)
+- [Vande Bharat Sleeper: పట్టాలెక్కనున్న మరో వందేభారత్ స్లీపర్‌.. ఏపీలో ఈ స్టేషన్ల మీదుగా](https://www.eenadu.net/telugu-news/india/bengaluru-mumbai-vande-bharat-sleeper-to-launch-this-month/0701/126178460)
+- [भारत ने अंतरिक्ष में मिसाइल से मार गिराया था सैटेलाइट, वॉशिंगटन में मच गई थी खलबली, पूर्व अमेरिकी अफसर का खुलासा](https://navbharattimes.indiatimes.com/world/america/us-ex-intel-officer-david-grusch-recalls-india-successfull-anti-satellite-asat-test-in-2019/articleshow/134639006.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
