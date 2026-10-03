@@ -1,4 +1,4 @@
-# India Trending Report — 2026-10-02 23:34:55
+# India Trending Report — 2026-10-03 00:02:35
 
 ## Google Trends (India) — top trending searches
 1. [ban vs sl](https://trends.google.com/trending/rss?geo=IN)
@@ -14,16 +14,16 @@
 
 ## Latest headlines by outlet
 **Times of India**
-- [Warring out, Pargat in: Has Congress solved Punjab crisis or set stage for another twist?](https://timesofindia.indiatimes.com/india/warring-out-channi-not-in-yet-has-congress-solved-punjab-crisis-or-created-more-confusion/articleshow/134640757.cms)
+- [5 Indian nationals rescued after Kuwait tanker hit in Strait of Hormuz](https://timesofindia.indiatimes.com/india/5-indian-seafarers-safely-rescued-after-kuwait-flagged-tanker-struck-by-projectile-in-strait-of-hormuz/articleshow/134650154.cms)
 - [To counter China, India formally puts Gogra, Hot Spring & others on map](https://timesofindia.indiatimes.com/india/to-counter-china-india-formally-puts-gogra-hot-spring-others-on-map/articleshow/134646655.cms)
 - [Congress abruptly replaces Ajay Rai as state chief in poll-bound UP](https://timesofindia.indiatimes.com/city/lucknow/congress-abruptly-replaces-ajay-rai-as-state-chief-in-poll-bound-up/articleshow/134650061.cms)
 - [No entry in ‘round 2’: Protesters stopped short of Jantar Mantar](https://timesofindia.indiatimes.com/city/delhi/no-entry-in-round-2-protesters-stopped-short-of-jantar-mantar/articleshow/134644792.cms)
 - [From Shiv-on to off: Musk’s half-Indian partner goes into ex space](https://timesofindia.indiatimes.com/world/us/from-shiv-on-to-off-musks-half-indian-partner-goes-into-ex-space/articleshow/134645330.cms)
 - [MacKenzie Scott gave $30m to housing nonprofit; a year later, it unveiled 10-year plan](https://timesofindia.indiatimes.com/technology/tech-news/in-2024-jeff-bezos-ex-wife-mackenzie-scott-gave-30-million-to-a-silicon-valley-housing-nonprofit-a-year-later-it-unveiled-a-10-year-plan-to-widen-access-to-affordable-homes-in-the-bay-area/articleshow/134643448.cms)
-- [Two suspected Pakistani intruders shot dead in Tarn Taran](https://timesofindia.indiatimes.com/city/chandigarh/two-suspected-pak-intruders-shot-dead-in-tarn-taran/articleshow/134645188.cms)
+- [Mississippi couple wins $41,920 after loggers cut 1,299 trees on their land](https://timesofindia.indiatimes.com/world/us/in-2022-loggers-working-for-neighbours-crossed-onto-a-mississippi-couples-land-and-cut-1299-trees-their-handwritten-tally-helped-secure-a-41920-award-later-upheld-on-appeal/articleshow/134619743.cms)
 - [Father got 3 bigha in 1972; HC protects married daughter's land claim](https://timesofindia.indiatimes.com/business/india-business/in-1972-father-got-3-bigha-of-land-from-himachal-government-but-patta-was-never-signed-why-hc-allowed-married-daughters-inheritance-appeal-what-role-hindu-succession-act-plays/articleshow/134636006.cms)
-- [With President’s nod, Gujarat becomes second state after Uttarakhand to get UCC](https://timesofindia.indiatimes.com/city/ahmedabad/gujarat-ucc-to-come-into-force-after-rules-are-notified/articleshow/134645292.cms)
-- [Under fire, EC orders special drive to add genuine electors 'left out' during SIR](https://timesofindia.indiatimes.com/india/under-fire-ec-orders-special-drive-to-add-genuine-electors-left-out-during-sir/articleshow/134646432.cms)
+- [Warring out, Pargat in: Has Congress solved Punjab crisis or set stage for another twist?](https://timesofindia.indiatimes.com/india/warring-out-channi-not-in-yet-has-congress-solved-punjab-crisis-or-created-more-confusion/articleshow/134640757.cms)
+- [Two suspected Pakistani intruders shot dead in Tarn Taran](https://timesofindia.indiatimes.com/city/chandigarh/two-suspected-pak-intruders-shot-dead-in-tarn-taran/articleshow/134645188.cms)
 
 **NDTV**
 - ['Will Strengthen Alliance With Samajwadi Party': New UP Congress Chief Aradhana Misra](https://www.ndtv.com/india-news/will-strengthen-alliance-with-samajwadi-party-new-up-congress-chief-aradhana-mishra-12131812#publisher=newsstand)
@@ -74,6 +74,7 @@
 - [Nellimarla former MLA likely to take announce his future political plan today](https://www.thehindu.com/news/national/andhra-pradesh/nellimarla-former-mla-likely-to-take-announce-his-future-political-plan-today/article71537613.ece)
 
 **Livemint**
+- [Two Iranian Men Charged Over Plot Targeting UK Jewish Community](https://www.livemint.com/news/world/two-iranian-men-charged-over-plot-targeting-uk-jewish-community-11790984085296.html)
 - [From first solo trip at 13, she’s  now just 9 countries away from becoming the youngest person to visit every country](https://www.livemint.com/news/trends/from-first-solo-trip-at-13-she-s-now-just-9-countries-away-from-becoming-the-youngest-person-to-visit-every-country-11790978899053.html)
 - [Anant Ambani steps in after family raises  ₹2.2 crore for toddler’s  ₹9 crore treatment | Watch](https://www.livemint.com/news/trends/anant-ambani-steps-in-after-family-raises-rs-2-2-crore-for-toddler-s-rs-9-crore-treatment-watch-11790966245548.html)
 - [Jeff Bezos gives $25 million to protect Pacific Ocean: What the Amazon boss' $10 billion climate pledge aims to achieve](https://www.livemint.com/news/us-news/jeff-bezos-gives-25-million-to-protect-pacific-ocean-what-the-amazon-boss-10-billion-climate-pledge-aims-to-achieve-11790961804990.html)
@@ -83,7 +84,6 @@
 - ['Smallest trader receives...': What Piyush Goyal said as he rejects conditional MFN treatment at G20 meet](https://www.livemint.com/news/india/smallest-trader-receives-what-piyush-goyal-said-as-he-rejects-conditional-mfn-treatment-at-g20-meet-11790963413503.html)
 - [Putin warns Russia will use ‘all weapons’ against NATO aggression: Why Kaliningrad is latest flashpoint](https://www.livemint.com/news/world/putin-warns-russia-will-use-all-weapons-against-nato-aggression-why-kaliningrad-is-latest-flashpoint-11790961804871.html)
 - [Tukaram Mundhe in action! Maharashtra FDA cancels Cipla's Pune drug sale licence](https://www.livemint.com/news/india/tukaram-mundhe-in-action-maharashtra-fda-cancels-ciplas-pune-drug-sale-licence-11790960000968.html)
-- [‘Worked 6.5 days/week, 14 hrs/day’ - No time even for haircut, calling home? Chennai entrepreneur on work-life balance](https://www.livemint.com/news/trends/worked-6-5-days-week-14-hrs-day-no-time-even-for-haircut-calling-home-chennai-entrepreneur-on-work-life-balance-11790957917463.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,6 +100,7 @@
 - [ಸಾಗರ | ಮನೆ ಮೇಲೆ ಉರುಳಿದ ಪ್ರವಾಸಿ ಬಸ್; ಸಣ್ಣಪುಟ್ಟ ಗಾಯದೊಂದಿಗೆ ಪ್ರಯಾಣಿಕರು ಪಾರು](https://www.varthabharati.in/shimoga/sagara-2279849)
 
 **Asianet Kannada**
+- [ಬೆಂಗಳೂರಿಗರಿಗೆ ಶುಭಸುದ್ದಿ: ಶೀಘ್ರದಲ್ಲೇ ಓಡಲಿದೆ ಮತ್ತೊಂದು ಹೊಸ ರೈಲು! 6 ಮೆಟ್ರೋ ನಿಲ್ದಾಣಗಳಿಗೆ ಯಾರ ಹೆಸರು?](https://kannada.asianetnews.com/state/bengaluru-good-news-namma-metro-pink-line-to-be-inaugurated-soon-rav/articleshow-nilwwpy)
 - ['ಶಕ್ತಿಮಾನ್‌' ತರ ಆಗ್ಬೇಕಾ? ಹಾಲಿನಲ್ಲಿ ನೆನೆಸಿದ ಖರ್ಜೂರ ತಿನ್ನಿ ಸಾಕು!](https://kannada.asianetnews.com/webstories/health-life/7-health-benefits-of-eating-dates-soaked-in-milk-overnight-to-know-here-sgp47mc)
 - [ಋತುಮಾನದ ಸೋಂಕು ತಡೆಯಲು ಈ ಪಾನೀಯ ಸೇವಿಸಿ!](https://kannada.asianetnews.com/webstories/health-life/6-healthy-drinks-to-boost-immunity-and-prevent-seasonal-infections-to-know-here-i5z3ky6)
 - [ಪ್ರತಿದಿನ ನುಗ್ಗೆ ಸೊಪ್ಪು ತಿಂದು ನೋಡಿ ಚೇಂಜಸ್.. ನಿಮ್ಮನ್ನು ನೀವೇ ನಂಬೋದು ಕಷ್ಟ!](https://kannada.asianetnews.com/webstories/health-life/7-amazing-health-benefits-of-eating-moringa-leaves-daily-to-know-here-wcusznp)
@@ -109,7 +110,6 @@
 - [ಕೆಂಪು ಸೀರೆಯುಟ್ಟು, ಕಾವೇರಿ ನೀರಲ್ಲಿ ಪಟಪಟನೇ ಓಡಾಡಿ ಫೋಟೋಶೂಟ್‌ಗೆ ಫೋಸ್ ಕೊಟ್ಟ ಭಾವನಾ ರಾವ್! ಸೀಕ್ರೆಟ್ ಏನು?](https://kannada.asianetnews.com/gallery/sandalwood/galipata-fame-actress-bhavana-rao-grabes-attention-with-a-unique-photoshoot-in-red-saree-set-in-natural-beauty-of-coorg-36ncrow)
 - [ಕಣ್ಣಿಗೆ ಪೊರೆ ಬಂದಿದೆ ಎಂದು ಆಸ್ಪತ್ರೆಗೆ ಬಂದ ಮಹಿಳೆ ಕಣ್ಣಲ್ಲಿತ್ತು 27 ಕಾಂಟ್ಯಾಕ್ಟ್​ ಲೆನ್ಸ್​: ಬೆಚ್ಚಿಬಿದ್ದ ವೈದ್ಯರು](https://kannada.asianetnews.com/health-life/surgeons-remove-27-contact-lenses-from-womans-eye-which-was-not-noticed-by-woman-suc/articleshow-3t46g2h)
 - [India ಪವರ್‌ಗೆ ಶೇಕ್‌ ಆಯ್ತು ಅಮೆರಿಕ; ಮೊದಲ ದಾಳಿಯಲ್ಲೇ ತತ್ತರಿಸಿದ ಬಲಾಢ್ಯ ದೇಶ, ಪ್ಯಾನಿಕ್‌ನಲ್ಲೇ ಕಾಲ್‌ ಮಾಡಿದ ಯುಎಸ್‌!](https://kannada.asianetnews.com/science/india-mission-shakti-asat-missile-david-grusch-us-intelligence-shock-bmk/articleshow-sg8rcck)
-- [ಸಿದ್ದರಾಮಯ್ಯಗೆ ಹ್ಯುಬ್ಲೋಟ್‌ ಸಂಕಟದ ರೀತಿಯಲ್ಲೇ ಕೇರಳದ ಕಾಂಗ್ರೆಸ್‌ ಸಿಎಂ ವಿಡಿ ಸತೀಶನ್‌ಗೆ ದುಬಾರಿ ವಾಚ್‌ ಸಂಕಷ್ಟ](https://kannada.asianetnews.com/india-news/vd-satheesan-swiss-watch-controversy-reminds-hublot-watch-issue-of-siddaramaiah-san/articleshow-ginn1c3)
 
 **News18 Kannada** — _unavailable_
 
@@ -125,7 +125,13 @@
 - [ಹುಬ್ಬಳ್ಳಿಯಲ್ಲಿ ಕಬ್ಬು ಬೆಳಗಾರರ ಪ್ರತಿಭಟನೆ ಬೆನ್ನಲ್ಲೇ ಅ.12ರಂದು ದೆಹಲಿಯಲ್ಲಿ ಸಭೆ: ಡಿಕೆಶಿಗೂ ಆಹ್ವಾನ](https://tv9kannada.com/videos/pralhad-joshi-invite-cm-dk-shivakumar-to-meeting-on-october-12th-about-sugarcane-farmers-1245760.html)
 - [ಕಡತ ವಿಲೇವಾರಿ ತ್ವರಿತಗೊಳಿಸಲು ಸರ್ಕಾರ ದಿಟ್ಟ ಹೆಜ್ಜೆ: ಡಿಪಿಎಆರ್ ಸುತ್ತೋಲೆಯ ವಿವರ ಹೀಗಿದೆ](https://tv9kannada.com/karnataka/karnataka-government-takes-bold-step-to-speed-up-file-disposal-dpar-issues-circular-1245743.html)
 
-**Prajavani** — _unavailable_
+**Prajavani**
+- [ಚಿನಕುರುಳಿ: ಶನಿವಾರ, 03 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/prajavani-daily-cartoon-by-prakash-shetty-35-4303688)
+- [ದಿನ ಭವಿಷ್ಯ: ಪುಸ್ತಕದ ವ್ಯಾಪಾರಿಗಳಿಗೆ ಒಳ್ಳೆಯ ಲಾಭವಾಗಲಿದೆ..](https://www.prajavani.net/astro-vastu/horoscope/daily-horoscope-dated-on-03-october-2026-4303947)
+- [ಈ ದಿನದ ಪಂಚಾಂಗ: ಶನಿವಾರ, 03 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/astro-vastu/panchanga/daily-panchanga-dated-on-03-october-2026-4303939)
+- [ಗುಂಡಣ್ಣ ಕಾರ್ಟೂನು: ಶನಿವಾರ, 03 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/gundanna-cartoon-dated-on-03-october-2026-4303819)
+- [ಸುಭಾಷಿತ: ಬೆನ್‌ ಜಾನ್ಸನ್‌](https://www.prajavani.net/op-ed/subhashita/prajavani-daily-subhashita-dated-on-03-0ctober-2026-4303538)
+- [ಸುದ್ದಿ ಗುದ್ದು | ತಿಂಗಳೇಶ: ಶನಿವಾರ, 03 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/suddi-guddu-tingalesha-cartoon-dated-on-03-october-2026-4303565)
 
 **eedina**
 - [ಕಲಬುರಗಿ | ಗಾಂಧೀಜಿ ಆದರ್ಶಗಳು ಯುವಕರಿಗೆ ದಾರಿದೀಪ: ಪವನಕುಮಾರ ವಳಕೇರಿ](https://eedina.com/?p=769100)
@@ -144,31 +150,31 @@
 - Congress (3.5)
 - What (2.9)
 - Mangaluru (2.6)
+- Indian (2.3)
 - Jantar Mantar (2.0)
 - Punjab (1.9)
 - Pargat (1.6)
 - Minute (1.6)
 - Mumbai (1.6)
 - Protest (1.6)
-- Warring (1.3)
+- Kuwait (1.3)
+- Strait (1.3)
+- Hormuz (1.3)
 - China (1.3)
-- Gogra (1.3)
-- Protesters (1.3)
-- Musk (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [CJP Protest: 'ग्यानू काका राजीनामा द्या.. राजीनामा द्या...', शिवाजी पार्कवर जोरदार घोषणाबाजी](https://www.mumbaitak.in/political-news/story/cjp-shivaji-park-protest-cec-gyanesh-kumar-resignation-mumbai-3289317-2026-10-02)
-- [અમેરિકામાં H-1B વિઝા કાયમ માટે બંધ થશે? ઉપ પ્રમુખ જેડી વેન્સના નિવેદનથી ભારતીયોમાં ફફડાટ!](https://www.gujaratsamachar.com/news/international/US-VP-JD-Vance-Slams-H-1B-Visa-as-Broken-Amid-Legal-Blocks-on-100K-Fee-19308990078)
-- [Yuzvendra Chahal: 'ടെസ്റ്റ് മോഹങ്ങള്‍ അവസാനിച്ചു'; ഫസ്റ്റ് ക്ലാസ് ക്രിക്കറ്റിൽ നിന്ന് വിരമിച്ച് യുസ്‌വേന്ദ്ര ചാഹൽ](https://www.asianetnews.com/cricket-sports/test-dream-is-over-yuzvendra-chahal-bids-farewell-to-first-class-cricket-articleshow-i6g2g9u)
-- [യുഎസിൽ നികുതിദായകർക്ക് റീഫണ്ട് ചെക്കുകൾ അയച്ചുതുടങ്ങി; 5,000 ഡോളറിന് പുതിയ നിബന്ധനയുമായി ട്രംപ്](https://www.manoramaonline.com/global-malayali/us/2026/10/02/obamacare-tax-refund-from-president-trump.html)
-- [IIT Bombay student begin hunger strike demanding accountability over student Sahil Wakode’s death](https://www.thehindu.com/news/cities/mumbai/iit-bombay-student-begin-hunger-strike-demanding-accountability-over-student-sahil-wakodes-death/article71536738.ece)
-- [Bond Yields: బాండ్‌ ఈల్డ్స్‌ పెరిగితే భారత్‌ మార్కెట్లపై ప్రభావం ఎలా ఉంటుంది?](https://telugu.newsbytesapp.com/news/business/why-soaring-bond-yields-may-hurt-sensex-nifty-more-than-elevated-oil-prices/story)
-- [Mumbai Weather: पुन्हा छत्री काढा! शनिवार- रविवार मुंबईकरांसाठी धोकादायक, पुढचे 48 तासांसाठी हवामान विभागाचा रेड अलर्ट](https://www.prahaar.in/2026/10/02/mumbaikar-heat-alert-36c-to-40c-degree-feels-like-temperature/)
-- [ജെയ്‌സൺ സഞ്ജയ്‌യുടെ ആദ്യ സിനിമ കാണാൻ അമ്മയും അനുജത്തിയുമെത്തി; ഒപ്പം 'ചിത്തപ്പ'യും](https://malayalam.news18.com/news/film/sangeetha-sornalingam-divya-saasha-watch-sigma-movie-mm-790795.html)
-- [ദിവസം 5 പാക്കറ്റ് സിഗരറ്റ് വരെ അച്ഛൻ വലിക്കും, പുകവലി നിർത്തിയെങ്കിലും ആരോഗ്യത്തെ ബാധിച്ചു; സുചിത്ര](https://www.reporterlive.com/entertainment/entertainment-news/2026/10/02/suchitra-mohanlal-shares-memories-of-her-father-balaji-and-his-final-days)
-- [Study challenges assumption that Earth and Mars formed in similar ways](https://www.edexlive.com/news/earth-mars-born-from-same-cloud-of-gas-and-dust-yet-formed-differently-study)
+- [సిగ్మా మూవీ రివ్యూ](https://www.chitrajyothy.com/2026/film-reviews/sigma-movie-review-onava-75926.html)
+- [IND A vs AUS A Highlights: चौथी पारी में इंडिया ए ने 103 ओवर खेले, आखिरी जोड़ी ने बचाया मैच, ऑस्ट्रेलिया ए के खिलाफ सीरीज पर जमाया कब्जा](https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/india-a-saved-the-second-unofficial-test-match-against-australia-a-in-the-fourth-innings-ind-a-vs-aus-a-highlights/articleshow/134638697.cms)
+- [Ajay Devgn Drishyam 3 Review: 'దృశ్యం: ది కన్‌క్లూజన్' మూవీ రివ్యూ: విజయ్ సాల్గాంకర్ చివరి మైండ్ గేమ్ ఎలా ఉందంటే?](https://www.v6velugu.com/drishyam-3-movie-review-ajay-devgn%E2%80%99s-mind-game-offers-thrilling-and-satisfying-finale)
+- [ஓடிடியில் வெளியான ’பெத்லகேம் குடும்ப யூனிட்’ - இந்த வார வெளியீடுகள் என்ன?](https://www.etvbharat.com/ta/entertainment/this-week-ott-releases-including-nivin-pauly-mamitha-baiju-starrer-bethlehem-kudumba-unit-tns26100203892)
+- [ఆటో కార్మికులకు గుడ్ న్యూస్.. ఛార్జీలను పెంచుతూ రాష్ట్ర ప్రభుత్వం జీవో](https://www.andhrajyothy.com/2026/telangana/hyderabad/telangana-auto-fares-hike-minimum-fare-30-1563547.html)
+- [नीब करौरी बाबा की 'हनुमान अंश' को लेकर बड़ा ऐलान, 9 अक्टूबर को दुनियाभर में तेलुगू में हो रही रिलीज](https://navbharattimes.indiatimes.com/entertainment/south-movie/hanuman-ansh-makers-big-announcement-he-film-will-be-released-worldwide-in-telugu-on-october-9th/articleshow/134638499.cms)
+- [ഭാര്യയ്ക്ക് സുഖമില്ല, നിനക്കൊപ്പം ഉറങ്ങണം; സ്‌കൂൾ ജീവനക്കാരൻ വനിതാ ജീവനക്കാരിയോട് നടത്തിയ അഭ്യർത്ഥനാ വീഡിയോ വൈറൽ](https://malayalam.news18.com/news/india/woman-employee-harassment-complaint-school-operator-caught-mm-790804.html)
+- [‘কজরা রে ২.০’ গানের প্রস্তাবে রাজি অভিষেক! বাবা ও স্ত্রীর নাম করে দিলেন বিশেষ শর্ত?](https://www.anandabazar.com/entertainment/abhishek-bachchan-says-he-would-love-to-do-kajra-re-2-0-recalls-fun-shoot-with-amitabh-bachchan-and-aishwarya-rai-bachchan-dgtl/cid/1716954)
+- [Pulsar NS400Z Launched: DUKE-க்கு நேரடி சவால்.! அறிமுகமானது சக்திவாய்ந்த பஜாஜ் பல்சர் NS400Z; விலை, அம்சங்கள் என்ன.?](https://tamil.abplive.com/auto/new-bajaj-pulsar-ns400z-launched-know-price-features-and-specs-duke-rival-276211)
+- [ഏഷ്യൻ ഗെയിംസ് 2026; പുരുഷ വിഭാഗം ബോക്സിംഗിൽ ഇന്ത്യയുടെ അങ്കുഷ് പങ്കലിനും വനിതകളിൽ ലോവ്‌ലിനയ്ക്കും പർവീൻ ഹൂഡയ്ക്കും സ്വർണം](https://malayalam.news18.com/news/sports/asian-games-2026-gold-for-indias-ankush-panghal-in-mens-boxing-and-for-lovlina-and-parveen-hooda-in-the-womens-category-nkn-ws-l-790806.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
