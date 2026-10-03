@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-03 00:43:06
+# India Trending Report — 2026-10-03 01:03:48
 
 ## Google Trends (India) — top trending searches
-1. [கனமழை](https://trends.google.com/trending/rss?geo=IN)
-2. [litton das](https://trends.google.com/trending/rss?geo=IN)
-3. [sri lanka vs bangladesh](https://trends.google.com/trending/rss?geo=IN)
-4. [विरोध](https://trends.google.com/trending/rss?geo=IN)
-5. [ఇరుముడి](https://trends.google.com/trending/rss?geo=IN)
-6. [క్రికెట్](https://trends.google.com/trending/rss?geo=IN)
-7. [são paulo vs santos](https://trends.google.com/trending/rss?geo=IN)
-8. [robert lewandowski](https://trends.google.com/trending/rss?geo=IN)
-9. [daniel maldini](https://trends.google.com/trending/rss?geo=IN)
-10. [cjp protests](https://trends.google.com/trending/rss?geo=IN)
+1. [suzlon energy stock](https://trends.google.com/trending/rss?geo=IN)
+2. [mustafizur rahman](https://trends.google.com/trending/rss?geo=IN)
+3. [கனமழை](https://trends.google.com/trending/rss?geo=IN)
+4. [sri lanka vs bangladesh](https://trends.google.com/trending/rss?geo=IN)
+5. [विरोध](https://trends.google.com/trending/rss?geo=IN)
+6. [ఇరుముడి](https://trends.google.com/trending/rss?geo=IN)
+7. [క్రికెట్](https://trends.google.com/trending/rss?geo=IN)
+8. [são paulo vs santos](https://trends.google.com/trending/rss?geo=IN)
+9. [robert lewandowski](https://trends.google.com/trending/rss?geo=IN)
+10. [daniel maldini](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Flydubai suspect identified; was barred from flying in Oman over extremist concerns](https://timesofindia.indiatimes.com/world/middle-east/flydubai-attack-suspect-identified-as-hamam-alhamami-was-barred-from-oman-air-over-extremist-concerns/articleshow/134650245.cms)
 - [5 Indian nationals rescued after Kuwait tanker hit in Strait of Hormuz](https://timesofindia.indiatimes.com/india/5-indian-seafarers-safely-rescued-after-kuwait-flagged-tanker-struck-by-projectile-in-strait-of-hormuz/articleshow/134650154.cms)
 - [To counter China, India formally puts Gogra, Hot Spring & others on map](https://timesofindia.indiatimes.com/india/to-counter-china-india-formally-puts-gogra-hot-spring-others-on-map/articleshow/134646655.cms)
 - [Congress abruptly replaces Ajay Rai as state chief in poll-bound UP](https://timesofindia.indiatimes.com/city/lucknow/congress-abruptly-replaces-ajay-rai-as-state-chief-in-poll-bound-up/articleshow/134650061.cms)
-- [No entry in ‘round 2’: Protesters stopped short of Jantar Mantar](https://timesofindia.indiatimes.com/city/delhi/no-entry-in-round-2-protesters-stopped-short-of-jantar-mantar/articleshow/134644792.cms)
-- [From Shiv-on to off: Musk’s half-Indian partner goes into ex space](https://timesofindia.indiatimes.com/world/us/from-shiv-on-to-off-musks-half-indian-partner-goes-into-ex-space/articleshow/134645330.cms)
 - [MacKenzie Scott gave $30m to housing nonprofit; a year later, it unveiled 10-year plan](https://timesofindia.indiatimes.com/technology/tech-news/in-2024-jeff-bezos-ex-wife-mackenzie-scott-gave-30-million-to-a-silicon-valley-housing-nonprofit-a-year-later-it-unveiled-a-10-year-plan-to-widen-access-to-affordable-homes-in-the-bay-area/articleshow/134643448.cms)
-- [Mississippi couple wins $41,920 after loggers cut 1,299 trees on their land](https://timesofindia.indiatimes.com/world/us/in-2022-loggers-working-for-neighbours-crossed-onto-a-mississippi-couples-land-and-cut-1299-trees-their-handwritten-tally-helped-secure-a-41920-award-later-upheld-on-appeal/articleshow/134619743.cms)
+- [No entry in ‘round 2’: Protesters stopped short of Jantar Mantar](https://timesofindia.indiatimes.com/city/delhi/no-entry-in-round-2-protesters-stopped-short-of-jantar-mantar/articleshow/134644792.cms)
 - [Father got 3 bigha in 1972; HC protects married daughter's land claim](https://timesofindia.indiatimes.com/business/india-business/in-1972-father-got-3-bigha-of-land-from-himachal-government-but-patta-was-never-signed-why-hc-allowed-married-daughters-inheritance-appeal-what-role-hindu-succession-act-plays/articleshow/134636006.cms)
+- [From Shiv-on to off: Musk’s half-Indian partner goes into ex space](https://timesofindia.indiatimes.com/world/us/from-shiv-on-to-off-musks-half-indian-partner-goes-into-ex-space/articleshow/134645330.cms)
+- [Mississippi couple wins $41,920 after loggers cut 1,299 trees on their land](https://timesofindia.indiatimes.com/world/us/in-2022-loggers-working-for-neighbours-crossed-onto-a-mississippi-couples-land-and-cut-1299-trees-their-handwritten-tally-helped-secure-a-41920-award-later-upheld-on-appeal/articleshow/134619743.cms)
 - [Warring out, Pargat in: Has Congress solved Punjab crisis or set stage for another twist?](https://timesofindia.indiatimes.com/india/warring-out-channi-not-in-yet-has-congress-solved-punjab-crisis-or-created-more-confusion/articleshow/134640757.cms)
-- [North Korea fires missile towards South Korea amid DMZ security tensions](https://timesofindia.indiatimes.com/defence/international/north-korea-fires-missile-towards-south-korea-amid-dmz-security-tensions/articleshow/134650224.cms)
 
 **NDTV**
 - ['Will Strengthen Alliance With Samajwadi Party': New UP Congress Chief Aradhana Misra](https://www.ndtv.com/india-news/will-strengthen-alliance-with-samajwadi-party-new-up-congress-chief-aradhana-mishra-12131812#publisher=newsstand)
@@ -50,16 +50,16 @@
 - [Woman allegedly stripped, beaten at Guwahati club after drunken brawl with bouncers](https://www.hindustantimes.com/india-news/woman-allegedly-stripped-beaten-at-guwahati-club-after-drunken-brawl-with-bouncers-101790949017433.html)
 
 **Vijay Karnataka**
+- [ʼಆ ಟೈಂನಲ್ಲಿ ನಾನು ಹನುಮಾನ್‌ ಚಾಲೀಸ್ ಪಠಿಸುತ್ತಿದೆʼ: PM ಮೋದಿ ಎದುರು FlyDubai ದುರಂತದ ಭೀಕರ ಕ್ಷಣ ಬಿಚ್ಚಿಟ್ಟ ಕ್ಯಾ.ಸ್ಮಿತ್ ಮಚ್ಚಾರ್!](https://vijaykarnataka.com/news/world/captain-smit-pm-modi-call-chanting-hanuman-chalisa-smit-recounts-flydubai-attack/articleshow/134633837.cms)
 - [ವೀರ ಕ್ಯಾಪ್ಟನ್‌ ಸ್ಮಿತ್‌ ಮಚ್ಚಾರ್‌ ದೇಹದ ಯಾವೆಲ್ಲಾ ಭಾಗದ ಮೇಲೆ ಗಾಯ? ಹೆಲ್ತ್‌ ಬುಲೆಟಿನ್‌ ಬಿಡುಗಡೆ ಮಾಡಿದ ಆಸ್ಪತ್ರೆ!](https://vijaykarnataka.com/news/world/smit-machchhar-suffered-injuries-to-various-parts-of-his-body-hospital-release-health-bulletin-of-indian-pilot/articleshow/134643490.cms)
 - [ಫ್ಲೈದುಬೈ ವಿಮಾನ ಕ್ರ್ಯಾಶ್ ಆಗಿದ್ದರೆ ಜಗತ್ತಿಗೆ ತಪ್ಪು ಸಂದೇಶ ಹೋಗುತ್ತಿತ್ತು: ಸ್ಮಿತ್‌ ಮಚ್ಚಾರ್‌ ಭಾರತೀಯ ಪೈಲಟ್‌ಗಳ ರಕ್ಷಕ ಎಂದ ಮಾವ!](https://vijaykarnataka.com/news/india/crash-would-have-sent-wrong-message-flydubai-pilot-smit-machchhar-father-in-law-praises-courage/articleshow/134642388.cms)
-- [ಪತ್ನಿಯು ಸ್ನಾತಕ ಪದವಿ ಪಡೆದಿದ್ದಾಳೆಂದು ವಿಚ್ಛೇದನ ಜೀವನಾಂಶ ನಿರಾಕರಿಸಲಾಗದು: ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್‌; ಮಾಸಿಕ ಭತ್ಯೆ ನಿಗದಿ](https://vijaykarnataka.com/news/karnataka/divorce-alimony-cannot-be-denied-simply-because-wife-holds-a-graduate-degree-karnataka-high-court-monthly-allowance-fixed/articleshow/134643400.cms)
 - [ಅಲ್ಯೂಮಿನಿಯಂ vs ಸ್ಟೇನ್‌ಲೆಸ್ ಸ್ಟೀಲ್ ಪ್ರೆಶರ್ ಕುಕ್ಕರ್: ದಿನನಿತ್ಯದ ಅಡುಗೆಗೆ ಯಾವುದು ಉತ್ತಮ? ಇಲ್ಲಿದೆ ವ್ಯತ್ಯಾಸ](https://vijaykarnataka.com/lifestyle/home-decor/aluminum-vs-stainless-steel-pressure-cooker-daily-cooking/articleshow/134631268.cms)
-- [ಫೋರ್ಬ್ಸ್ ಭಾರತೀಯ 100 ಶ್ರೀಮಂತರ ಪಟ್ಟಿ ಬಿಡುಗಡೆ: ಅದಾನಿ ಅಗ್ರ; ಕರ್ನಾಟಕದ 4 ಉದ್ಯಮಿಗಳಿಗೆ ಸ್ಥಾನ; ಟಾಪ್‌ 10 ಯಾರು?](https://vijaykarnataka.com/business/news/forbes-2026-releases-list-of-india-100-richest-adani-tops-the-list-4-entrepreneurs-from-karnataka-who-are-top-10/articleshow/134642862.cms)
+- [ಪತ್ನಿಯು ಸ್ನಾತಕ ಪದವಿ ಪಡೆದಿದ್ದಾಳೆಂದು ವಿಚ್ಛೇದನ ಜೀವನಾಂಶ ನಿರಾಕರಿಸಲಾಗದು: ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್‌; ಮಾಸಿಕ ಭತ್ಯೆ ನಿಗದಿ](https://vijaykarnataka.com/news/karnataka/divorce-alimony-cannot-be-denied-simply-because-wife-holds-a-graduate-degree-karnataka-high-court-monthly-allowance-fixed/articleshow/134643400.cms)
 - [ರಮ್ಯಾ ಜೊತೆ ನಟಿಸಿದ್ದ ʻಜೂಲಿʼ ಹೀರೋ ಅರೆಸ್ಟ್:‌ ಕೋಟ್ಯಂತರ ರೂ. ಹಗರಣದ ಆರೋಪ!](https://vijaykarnataka.com/entertainment/news/dino-morea-arrested-65-crore-mithi-river-scam-mumbai/articleshow/134645390.cms)
 - [ಗಿಡಗಳ ಬೆಳವಣಿಗೆ ನಿಂತಿದೆಯೇ? ಬಾಳೆಹಣ್ಣಿನ ಸಿಪ್ಪೆ, ಬೆಲ್ಲ ಬಳಸಿ ಮನೆಯಲ್ಲೇ ಲಿಕ್ವಿಡ್ ಗೊಬ್ಬರ ತಯಾರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/how-to-make-liquid-fertilizer-at-home-for-plants/articleshow/134570899.cms)
 - [2026ರ ಸೆಪ್ಟೆಂಬರ್‌: ನವರಾತ್ರಿ ಸೇರಿದಂತೆ ತಿಂಗಳ ಪ್ರಮುಖ ಹಬ್ಬಗಳ ಪಟ್ಟಿ.!](https://vijaykarnataka.com/religion/festivals/september-2026-vrats-and-festivals-here-is-the-complete-list-of-festivals/articleshow/134635424.cms)
 - [ಗಾಂಧಿ ಜಯಂತಿ ವಿಶೇಷ: ಮಕ್ಕಳಿಗೆ ಕಲಿಸಬೇಕಾದ ಬಾಪೂ ಅವರ 5 ಪ್ರಮುಖ ತತ್ವಗಳು](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/gandhi-jayanti-principles-teach-children-life-lessons/articleshow/134617646.cms)
-- [ಸ್ಮಿತ್‌ ಮಚ್ಚಾರ್‌ ಮೇಲೆ ದಾಳಿ ಮಾಡಿದ ಸಹ-ಪೈಲಟ್‌ನನ್ನು ಯಾರೇ ಕಳಿಸಿದ್ದರೂ ಸುಮ್ಮನೆ ಬಿಡಲ್ಲ: ಬೆಂಜಮಿನ್ ನೆತನ್ಯಾಹು ಶಪಥ!](https://vijaykarnataka.com/news/world/benjamin-netanyahu-warns-of-retaliation-against-flydubai-attack-planners-praises-smit-machchhar/articleshow/134641298.cms)
+- [ಫೋರ್ಬ್ಸ್ ಭಾರತೀಯ 100 ಶ್ರೀಮಂತರ ಪಟ್ಟಿ ಬಿಡುಗಡೆ: ಅದಾನಿ ಅಗ್ರ; ಕರ್ನಾಟಕದ 4 ಉದ್ಯಮಿಗಳಿಗೆ ಸ್ಥಾನ; ಟಾಪ್‌ 10 ಯಾರು?](https://vijaykarnataka.com/business/news/forbes-2026-releases-list-of-india-100-richest-adani-tops-the-list-4-entrepreneurs-from-karnataka-who-are-top-10/articleshow/134642862.cms)
 
 **The Hindu**
 - [India standardises names of 28 places in Ladakh](https://www.thehindu.com/news/national/ladakh/india-standardises-names-of-28-places-in-ladakh/article71538275.ece)
@@ -100,6 +100,7 @@
 - [ಸಾಗರ | ಮನೆ ಮೇಲೆ ಉರುಳಿದ ಪ್ರವಾಸಿ ಬಸ್; ಸಣ್ಣಪುಟ್ಟ ಗಾಯದೊಂದಿಗೆ ಪ್ರಯಾಣಿಕರು ಪಾರು](https://www.varthabharati.in/shimoga/sagara-2279849)
 
 **Asianet Kannada**
+- [ರೈತರೇ ಎಚ್ಚರ! ಜೋಳದ ಫಸಲಿನ ಚಿಗುರು ವಿಷವಾ? ಸಿಪ್ಪೆ ತಿಂದ 20 ಕುರಿಗಳ ಸಾವಿಗೆ ಅಸಲಿ ಕಾರಣ ಏನು?](https://kannada.asianetnews.com/karnataka-districts/20-sheep-died-after-eating-tender-maize-shoots-incident-reported-from-kudligi-rav/articleshow-6ak1gaz)
 - [ಮೈಸೂರು ದಸರಾ: ರಾಜವಂಶಸ್ಥರಿಗೆ ಆಹ್ವಾನ; ಕಂಬಳದಲ್ಲಿ ಗೆಲ್ಲುವ ಕೋಣಕ್ಕೆ ಎಷ್ಟು ಗ್ರಾಂ ಬಂಗಾರ?](https://kannada.asianetnews.com/karnataka-districts/mysuru-dasara-royal-family-invited-how-much-gold-will-the-kambala-winning-buffalo-get-rav/articleshow-3e3ggqk)
 - [ಯುದ್ಧಪೀಡಿತ ಪ್ರದೇಶದಂತಿರುವ ಇಂದಿರಾ ನಗರ ಪುಟ್‌ಪಾತ್! ವಿದೇಶಿಗನ ವಿಡಿಯೋ ವೈರಲ್](https://kannada.asianetnews.com/state/bengaluru-indira-nagar-footpath-resembles-a-war-zone-foreigner-video-goes-viral-rav/articleshow-sc4tgpo)
 - [ಬೆಂಗಳೂರಿಗರಿಗೆ ಶುಭಸುದ್ದಿ: ಶೀಘ್ರದಲ್ಲೇ ಓಡಲಿದೆ ಮತ್ತೊಂದು ಹೊಸ ರೈಲು! 6 ಮೆಟ್ರೋ ನಿಲ್ದಾಣಗಳಿಗೆ ಯಾರ ಹೆಸರು?](https://kannada.asianetnews.com/state/bengaluru-good-news-namma-metro-pink-line-to-be-inaugurated-soon-rav/articleshow-nilwwpy)
@@ -109,11 +110,11 @@
 - [ಬೇಗ ತೂಕ ಇಳಿಸಬೇಕೇ? ಈ ಆಹಾರಗಳನ್ನು ಸೇವಿಸಿ ಸಾಕು.. ಮ್ಯಾಜಿಕ್ ನೋಡಿ!](https://kannada.asianetnews.com/webstories/health-life/7-best-low-calorie-foods-for-quick-weight-loss-to-know-here-of4alny)
 - [ಫ್ರಿಡ್ಜ್‌ನಲ್ಲಿ ಈ ಸಣ್ಣ ಬದಲಾವಣೆ ಮಾಡಿ ನೋಡಿ.. ಕರೆಂಟ್ ಬಿಲ್ ಶೇ. 20 ರಷ್ಟು ಕಡಿಮೆಯಾಗುತ್ತೆ!](https://kannada.asianetnews.com/gallery/life/how-to-reduce-electricity-bill-in-kannada-s87rpah)
 - [Delhi Protest; ಮೊದಲು ದಕ್ಷಿಣ ಭಾರತದ ಆ ಸ್ಟಾರ್ ಕರೆಸಿ; ಜಂತರ್ ಮಂತರ್‌ನಲ್ಲಿ ಧರಣಿ ನಡೆಸುತ್ತಿದ್ದ ಮಹಿಳೆ ವಿಚಿತ್ರ ಡಿಮ್ಯಾಂಡ್‌ಗೆ ಡೆಲ್ಲಿ ಶೇಕ್!](https://kannada.asianetnews.com/india-news/jantar-mantar-protest-gyanesh-kumar-vijay-dalapathy-viral-woman-video-bmk/articleshow-nk0lwfs)
-- [ಕೆಂಪು ಸೀರೆಯುಟ್ಟು, ಕಾವೇರಿ ನೀರಲ್ಲಿ ಪಟಪಟನೇ ಓಡಾಡಿ ಫೋಟೋಶೂಟ್‌ಗೆ ಫೋಸ್ ಕೊಟ್ಟ ಭಾವನಾ ರಾವ್! ಸೀಕ್ರೆಟ್ ಏನು?](https://kannada.asianetnews.com/gallery/sandalwood/galipata-fame-actress-bhavana-rao-grabes-attention-with-a-unique-photoshoot-in-red-saree-set-in-natural-beauty-of-coorg-36ncrow)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ಇಂದಿನ ದ್ವಾದಶ ರಾಶಿಫಲ: ಶನಿ ದೇವನ ಕೃಪೆ ಯಾರಿಗೆ?](https://tv9kannada.com/videos/daily-horoscope-dr-basavaraj-gurujis-astrological-predictions-for-3-october-2026-1245793.html)
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್ ಸಾಧಕಿ ಎಂ.ಆರ್. ಪೂವಮ್ಮಗೆ ಮಂಗಳೂರು ಏರ್‌ಪೋರ್ಟ್‌ನಲ್ಲಿ ಗ್ರ್ಯಾಂಡ್ ವೆಲ್ಕಮ್: ಪ್ರೋತ್ಸಾಹಧನ ಹೆಚ್ಚಿಸಲು ಸರ್ಕಾರಕ್ಕೆ ಆಗ್ರಹ](https://tv9kannada.com/videos/asian-games-gold-medalist-poovamma-receives-heros-welcome-in-mangaluru-1245791.html)
 - [ದಿನ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರು ಹಣಕಾಸಿನ ವಿಚಾರದಲ್ಲಿ ಮೋಸ ಹೋಗುವರು](https://tv9kannada.com/horoscope/daily-horoscope-for-october-3-2026-bhadrapada-shukla-paksha-dakshinayana-greeshma-season-1245774.html)
 - [ಗಾನವಿ ಗಲಾಟೆಯಿಂದ ರೋಸಿ ಹೋದ ಮನೆ ಮಂದಿ: ಮಂಜನಿಗೂ ಕಾಂಪಿಟೇಶನ್ನು](https://tv9kannada.com/entertainment/bigg-boss-kannada-housemates-fed-up-of-ganhavi-1245789.html)
@@ -123,19 +124,18 @@
 - [ಆಷಾಢದಲ್ಲೂ ನವದಂಪತಿಯನ್ನು ಒಂದುಗೂಡಿಸುವ ಚಾಮರಾಜೇಶ್ವರ ಜಾತ್ರೆ: ಅಪರೂಪದ ಸಂಪ್ರದಾಯ](https://tv9kannada.com/videos/chamarajeshwara-jatre-karnatakas-unique-ashadha-festival-that-reunites-newlyweds-1245767.html)
 - [ಪಂಜಾಬ್ ಕಾಂಗ್ರೆಸ್ ನೂತನ ಅಧ್ಯಕ್ಷರಾಗಿ ಹಾಕಿ ದಿಗ್ಗಜ ಪರ್ಗತ್ ಸಿಂಗ್ ನೇಮಕ; ರಾಜಾ ವಾರಿಂಗ್ ರಾಜೀನಾಮೆ ಬೆನ್ನಲ್ಲೇ ಹೈಕಮಾಂಡ್ ನಿರ್ಧಾರ](https://tv9kannada.com/national/hockey-legend-pargat-singh-appointed-as-punjab-congress-president-days-after-amarinder-singh-raja-warrings-resignation-1245763.html)
 - [ರೋಹಿತ್ ಔಟ್, ಜೈಸ್ವಾಲ್ ಇನ್; ಟೀಂ ಇಂಡಿಯಾದಲ್ಲಿ 2 ಬದಲಾವಣೆ ಖಚಿತ](https://tv9kannada.com/sports/cricket-news/india-vs-west-indies-3rd-odi-playing-xi-clean-sweep-1245761.html)
-- [ಹುಬ್ಬಳ್ಳಿಯಲ್ಲಿ ಕಬ್ಬು ಬೆಳಗಾರರ ಪ್ರತಿಭಟನೆ ಬೆನ್ನಲ್ಲೇ ಅ.12ರಂದು ದೆಹಲಿಯಲ್ಲಿ ಸಭೆ: ಡಿಕೆಶಿಗೂ ಆಹ್ವಾನ](https://tv9kannada.com/videos/pralhad-joshi-invite-cm-dk-shivakumar-to-meeting-on-october-12th-about-sugarcane-farmers-1245760.html)
 
 **Prajavani**
+- [25 ವರ್ಷಗಳ ಹಿಂದೆ | ಲಾಡೆನ್‌ ಸದೆಬಡಿದು ಕಾಶ್ಮೀರದತ್ತ: ಬುಷ್](https://www.prajavani.net/op-ed/prajavani-archive/george-bush-india-jaswant-singh-terrorism-kashmir-4303556)
+- [ತುಳುವಿಗೆ ಮುಂಡಾಸಷ್ಟೇ ಸಾಕೆ?](https://www.prajavani.net/op-ed/articles/tulu-language-second-administrative-language-status-analysis-4303557)
 - [‘ಕೈಬಿಟ್ಟವರಿಗಾಗಿ’ ವಿಶೇಷ ಅಭಿಯಾನ](https://www.prajavani.net/news/india-news/voter-list-special-campaign-election-commission-directive-4304055)
 - [ವನಿತೆಯರ ಮುಡಿಗೆ ‘ಸುವರ್ಣ ಕಿರೀಟ’](https://www.prajavani.net/sports/other-sports/indian-women-hockey-team-wins-asian-games-gold-medal-4304015)
-- [ಕ್ರಿಕೆಟ್: ಕ್ಲೀನ್‌ಸ್ವೀಪ್ ಮೇಲೆ ಗಿಲ್ ಪಡೆ ಕಣ್ಣು](https://www.prajavani.net/sports/cricket/india-vs-west-indies-third-odi-gill-leads-clean-sweep-pursuit-4303390)
+- [ಸತತ ಎರಡನೇ ಚಿನ್ನದತ್ತ ಭಾರತದ ಕಣ್ಣು](https://www.prajavani.net/sports/other-sports/asian-games-hockey-india-vs-malaysia-final-4303367)
+- [ಕೆಪಿಎಸ್‌ಸಿ ಮುಚ್ಚುವುದು ಸಾಧ್ಯವೇ?](https://www.prajavani.net/explainer/detail/kpsc-closure-controversy-constitutional-validity-dk-shivakumar-statement-4303867)
+- [ವಾಚಕರ ವಾಣಿ: ಪ್ರಜಾವಾಣಿ ಓದುಗರ ಈ ದಿನದ ಪತ್ರಗಳು](https://www.prajavani.net/op-ed/readers-letter/prajavani-readers-forum-letters-western-ghats-healthcare-voter-list-4303578)
+- [ಭಾರತ– ಬ್ರೆಜಿಲ್‌ ಐತಿಹಾಸಿಕ ಪಂದ್ಯ ಇಂದು](https://www.prajavani.net/sports/other-sports/india-vs-brazil-football-friendly-match-kolkata-salt-lake-stadium-4304083)
 - [ಗೃಹಜ್ಯೋತಿ: 34.76 ಲಕ್ಷ ಮನೆಗಳಿಗೆ ಕೊಕ್‌?](https://www.prajavani.net/news/karnataka-news/gruha-jyothi-scheme-beneficiary-verification-bescom-update-4304156)
 - [ನಗರದಲ್ಲಿ ಇಂದು: ಬೆಂಗಳೂರು ನಗರದ ಇಂದಿನ ಕಾರ್ಯಕ್ರಮಗಳು](https://www.prajavani.net/district/bengaluru-city/bengaluru-city-events-cultural-and-social-programs-today-4304042)
-- [ನಿವಾಸಿ ಪ್ರಮಾಣಪತ್ರ; ನಿಯಮ ಅಡ್ಡಗಾಲು](https://www.prajavani.net/district/bengaluru-city/bda-shivaram-karanth-layout-residential-certificate-issue-bengaluru-4303931)
-- [ಇಲಾಖೆಗಳಲ್ಲಿ ನವೋದ್ಯಮ ಪರ್ವ](https://www.prajavani.net/business/commerce-news/karnataka-startup-policy-government-first-scheme-departments-4290153)
-- [ಸತತ ಎರಡನೇ ಚಿನ್ನದತ್ತ ಭಾರತದ ಕಣ್ಣು](https://www.prajavani.net/sports/other-sports/asian-games-hockey-india-vs-malaysia-final-4303367)
-- [ವಾಚಕರ ವಾಣಿ: ಪ್ರಜಾವಾಣಿ ಓದುಗರ ಈ ದಿನದ ಪತ್ರಗಳು](https://www.prajavani.net/op-ed/readers-letter/prajavani-readers-forum-letters-western-ghats-healthcare-voter-list-4303578)
-- [ಕೆಪಿಎಸ್‌ಸಿ ಮುಚ್ಚುವುದು ಸಾಧ್ಯವೇ?](https://www.prajavani.net/explainer/detail/kpsc-closure-controversy-constitutional-validity-dk-shivakumar-statement-4303867)
 
 **eedina**
 - [ಕಲಬುರಗಿ | ಗಾಂಧೀಜಿ ಆದರ್ಶಗಳು ಯುವಕರಿಗೆ ದಾರಿದೀಪ: ಪವನಕುಮಾರ ವಳಕೇರಿ](https://eedina.com/?p=769100)
@@ -161,24 +161,24 @@
 - Minute (1.6)
 - Mumbai (1.6)
 - Protest (1.6)
+- Flydubai (1.3)
+- Oman (1.3)
 - Kuwait (1.3)
 - Strait (1.3)
-- Hormuz (1.3)
-- China (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Accident News : समृद्धी महामार्गावर भीषण अपघात ! कंटेनरच्या धडकेत 7 जणांचा मृत्यू](https://www.dainikprabhat.com/accident-news-horrific-accident-on-samruddhi-mahamarg-7-killed-in-collision-with-a-container-truck)
-- [டில்லியில் தலைமை தேர்தல் கமிஷனரை கண்டித்து போராட்டம்: தடை உத்தரவை மீறிய 700 பேர் கைது](https://www.dinamalar.com/news/india-tamil-news/delhi-700-people-arrested-for-violating-prohibitory-orders-during-protest-against-chief-election-commissioner/4338231)
-- [தமிழகத்தில் 8ஆம் தேதி வரை மழைக்கு வாய்ப்பு..! 4 மாவட்டங்களுக்கு கனமழை எச்சரிக்கை..!](https://www.polimernews.com/tamilnadunews/rain-likely-in-tamil-nadu-until-october-8-heavy-rain-alert-for-4-districts-12617193)
-- [CJP Protest : ज्ञानू इट्स डन ब्रो, आता राजीनामा द्या; पंतप्रधान, मुख्यमंत्र्यांवर अभिजीत दिपकेंचा प्रहार, मुंबईत CJP आंदोलनाला मोठी गर्दी](https://marathi.abplive.com/news/mumbai/abhijeet-dipke-cjp-mumbai-protest-slams-election-commission-gyanesh-kumar-pm-narendra-modi-marathi-news-1441020)
-- [Pakistan: সন্ত্রাসবাদ ইস্যুতে কোনঠাসা পাকিস্তান, জেনেভায় রাষ্ট্রসংঘের বৈঠকে নিন্দার ঝড়](https://bangla.asianetnews.com/international/world-news/geneva-un-event-highlights-pakistans-role-in-regional-terrorism/articleshow-etrkgv4)
-- [यूक्रेन जंग में परमाणु बम की होगी एंट्री? एक घंटे के अंदर दूसरी बार बोले पुतिन! दुनियाभर में हड़कंप](https://www.livehindustan.com/international/putin-2nd-threat-in-just-1-hour-to-nato-says-russia-prepared-to-use-all-weapons-including-nuclear-to-protect-kaliningrad-201790943455025.html)
-- [ഏഷ്യൻ ഗെയിംസ് വനിതാ ഹോക്കിയിൽ ഇന്ത്യയ്ക്ക് സ്വർണം; ഫൈനലിൽ ചൈനയെ കീഴടക്കി](https://www.mathrubhumi.com/sports/other-sports/india-china-hockey-gold-medal-match-looldkln)
-- [Asian Games 2026: हॉकी में भारत का स्वर्णिम दिन, महिला टीम ने चीन को हराकर एशियन गेम्स में 44 साल बाद जीता गोल्ड](https://navbharattimes.indiatimes.com/sports/asian-games/news/india-won-the-women-hockey-gold-medal-by-defeating-china-asian-games-2026/articleshow/134639497.cms)
-- [Vande Bharat Sleeper: పట్టాలెక్కనున్న మరో వందేభారత్ స్లీపర్‌.. ఏపీలో ఈ స్టేషన్ల మీదుగా](https://www.eenadu.net/telugu-news/india/bengaluru-mumbai-vande-bharat-sleeper-to-launch-this-month/0701/126178460)
-- [भारत ने अंतरिक्ष में मिसाइल से मार गिराया था सैटेलाइट, वॉशिंगटन में मच गई थी खलबली, पूर्व अमेरिकी अफसर का खुलासा](https://navbharattimes.indiatimes.com/world/america/us-ex-intel-officer-david-grusch-recalls-india-successfull-anti-satellite-asat-test-in-2019/articleshow/134639006.cms)
+- [Asian Games: చ‌రిత్ర‌ను తిర‌గ‌రాసిన మ‌హిళ‌ల హాకీ జ‌ట్టు.. 44 ఏళ్ల త‌ర్వాత](https://telugu.asianetnews.com/sports/asian-games-44-years-after-indian-womens-hockey-team-wins-gold-by-defeating-china-articleshow-t1wunsg)
+- [કન્ટકીમાં લોકલ પોલીસે અરેસ્ટ કરેલા બે ગુજરાતી ICEની કસ્ટડીમાં](https://www.iamgujarat.com/nri/two-gujaratis-arrested-from-kentucky-gas-station-are-now-in-ice-custody/articleshow/134637607.cms)
+- [ભારતીય મહિલા હોકી ટીમે એશિયાડમાં 44 વર્ષ પછી ગોલ્ડ જીત્યો, ફાઇનલમાં ચીનને 1-0 થી હરાવ્યું, આજે ભારતને 6 ગોલ્ડ મળ્યા](https://www.gujaratsamachar.com/news/international/indian-womens-hockey-won-gold-after-44-years-in-asiad-defeated-china-1-0-in-the-final-india-got-6-golds-today-74845418073)
+- [നഖ്‌വി ഇന്ത്യ-പാക് ഫൈനലിനെത്തില്ല, കാരണമിതാണ്; അറിയിപ്പുമായി ഏഷ്യൻ ക്രിക്കറ്റ് കൗൺസിൽ](https://www.mathrubhumi.com/sports/cricket/mohsin-naqvi-to-skip-asian-games-cricket-final-b9my76na)
+- [Hyderabad Man Vandalises Temple, Attacks Priest, Strikes Idol With Sticks](https://www.ndtv.com/india-news/hyderabad-man-vandalises-temple-attacks-priest-strikes-idol-with-sticks-12130451)
+- ['May Bapu’s timeless message keep guiding us': PM Modi pays tribute to Mahatma Gandhi, attends prayer meet](https://timesofindia.indiatimes.com/india/may-bapus-timeless-message-keep-guiding-us-pm-modi-pays-tribute-to-mahatma-gandhi-attends-prayer-meet/articleshow/134639962.cms)
+- [రివ్యూ: తెల్ల‌కాగితం.. రొమాంటిక్ డ్రామా మెప్పించిందా?](https://www.eenadu.net/telugu-news/movies/tella-kagitham-movie-review-in-telugu/0203/126178423)
+- [Asian Games 2026 | India women’s team sustained Chinese pressure to corner glory](https://www.thehindu.com/sport/india-womens-hockey-team-wins-asian-games-gold-after-44-years-qualifies-for-2028-olympics/article71537065.ece)
+- [Lalremsiami goal helps India beat China to secure gold and Olympic berth](https://www.olympics.com/en/news/asian-games-2026-hockey-women-final-india-vs-china-match-report)
+- [‘Drishyam 3’ જોવાય કે નહીં? અજય દેવગણ અને જયદીપ અહલાવત વચ્ચે જોરદાર ટક્કર, છેલ્લી 30 મિનિટ રૂંવાડા ઊભા કરી નાખશે](https://tv9gujarati.com/entertainment/bollywood/drishyam-3-review-ajay-devgn-vs-jaideep-ahlawat-climax-and-final-thirty-minutes-will-give-you-goosebumps-1526051.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
