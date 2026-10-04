@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-04 23:01:42
+# India Trending Report — 2026-10-04 23:36:31
 
 ## Google Trends (India) — top trending searches
-1. [टीवीएस मोटर कंपनी](https://trends.google.com/trending/rss?geo=IN)
-2. [gonçalo ramos](https://trends.google.com/trending/rss?geo=IN)
+1. [trinidad and tobago vs curaçao](https://trends.google.com/trending/rss?geo=IN)
+2. [टीवीएस मोटर कंपनी](https://trends.google.com/trending/rss?geo=IN)
 3. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
-4. [erling haaland](https://trends.google.com/trending/rss?geo=IN)
-5. [earthquake](https://trends.google.com/trending/rss?geo=IN)
-6. [kristoffer ajer](https://trends.google.com/trending/rss?geo=IN)
-7. [joão cancelo](https://trends.google.com/trending/rss?geo=IN)
+4. [earthquake](https://trends.google.com/trending/rss?geo=IN)
+5. [kristoffer ajer](https://trends.google.com/trending/rss?geo=IN)
+6. [joão cancelo](https://trends.google.com/trending/rss?geo=IN)
+7. [portugal national football team vs norway national football team stats](https://trends.google.com/trending/rss?geo=IN)
 8. [punjab fc](https://trends.google.com/trending/rss?geo=IN)
 9. [uditi singh](https://trends.google.com/trending/rss?geo=IN)
 10. [vivo v80 price](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Faster registration, easier refunds: Reform rollout with GST 2.0](https://timesofindia.indiatimes.com/business/india-business/faster-registration-easier-refunds-reform-rollout-with-gst-2-0/articleshow/134680227.cms)
+- [Flydubai co-pilot allegedly tried to crash plane after hijack attempt failed](https://timesofindia.indiatimes.com/world/middle-east/flydubai-flight-incident-omani-co-pilot-may-have-tried-to-cut-engines-after-cockpit-attack/articleshow/134683005.cms)
 - [SIR strikes at heart of Constitution: Supreme Court judge Justice Ujjal Bhuyan](https://timesofindia.indiatimes.com/india/sir-strikes-at-heart-of-constitution-supreme-court-judge-justice-ujjal-bhuyan/articleshow/134680179.cms)
 - [US withdraws all bombers from UK's Fairford base after suspected terror plot](https://timesofindia.indiatimes.com/world/us/re-deployed-to-their-home-stations-us-withdraws-all-bombers-from-uks-raf-fairford-after-suspected-terror-plot/articleshow/134680412.cms)
-- [Faster registration, easier refunds: Reform rollout with GST 2.0](https://timesofindia.indiatimes.com/business/india-business/faster-registration-easier-refunds-reform-rollout-with-gst-2-0/articleshow/134680227.cms)
-- [West Bengal: Laws in 6 months to end ‘land jihad’, ‘love jihad’, says CM Suvendu](https://timesofindia.indiatimes.com/city/kolkata/bengal-will-be-3rd-state-to-implement-ucc-says-suvendu/articleshow/134676488.cms)
-- [CEC Gyanesh Kumar faces fresh Kerala vigilance probe in 2006 case](https://timesofindia.indiatimes.com/city/thiruvananthapuram/fresh-probe-into-graft-charges-during-gyanesh-tenure/articleshow/134678201.cms)
+- [Other side of Sept 30: A family waited anxiously for their son — Capt Smit Machchhar](https://timesofindia.indiatimes.com/city/mumbai/the-other-side-of-sept-30-a-family-waited-anxiously-for-their-son-captain-smit-machchhar/articleshow/134679408.cms)
 - [Marc Benioff, wife gave $100M to UCSF; 5 years later, children’s hospital opened](https://timesofindia.indiatimes.com/technology/tech-news/in-2010-salesforce-ceo-marc-benioff-and-his-wife-gave-100-million-to-ucsf-five-years-later-its-new-san-francisco-childrens-hospital-opened-with-183-beds-and-a-rooftop-helipad/articleshow/134675617.cms)
-- [Next-generation GST aimed at boosting India's next phase of growth](https://timesofindia.indiatimes.com/business/india-business/next-generation-gst-aimed-at-boosting-indias-next-phase-of-growth/articleshow/134682266.cms)
+- [West Bengal: Laws in 6 months to end ‘land jihad’, ‘love jihad’, says CM Suvendu](https://timesofindia.indiatimes.com/city/kolkata/bengal-will-be-3rd-state-to-implement-ucc-says-suvendu/articleshow/134676488.cms)
 - [Texas city to pay at least $175,000 over excess groundwater pumping at SpaceX site](https://timesofindia.indiatimes.com/world/us/a-texas-city-will-pay-at-least-175000-after-the-spacex-site-it-owns-pumped-128-million-gallons-of-groundwater-above-permitted-limits-over-three-years-the-settlement-includes-monitoring-payments-for-25-years/articleshow/134675511.cms)
-- ['Avengers: Endgame' dethrones 'Avatar' as highest-grossing film of all time](https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/avengers-endgame-dethrones-avatar-officially-reclaims-title-of-highest-grossing-film-of-all-time-with-usd-2-925-billion-haul/articleshow/134680612.cms)
-- [Democracy in peril as voters illegally ousted: Ex-SC judge Nariman](https://timesofindia.indiatimes.com/india/democracy-in-peril-as-voters-illegally-ousted-former-sc-judge-justice-rohinton-fali-nariman/articleshow/134680618.cms)
+- [CEC Gyanesh Kumar faces fresh Kerala vigilance probe in 2006 case](https://timesofindia.indiatimes.com/city/thiruvananthapuram/fresh-probe-into-graft-charges-during-gyanesh-tenure/articleshow/134678201.cms)
+- [Next-generation GST aimed at boosting India's next phase of growth](https://timesofindia.indiatimes.com/business/india-business/next-generation-gst-aimed-at-boosting-indias-next-phase-of-growth/articleshow/134682266.cms)
 
 **NDTV**
 - ['Vertical Roller Coaster': Expert Explains flydubai Flight's Sudden Plunge](https://www.ndtv.com/world-news/vertical-roller-coaster-expert-explains-flydubai-flights-sudden-plunge-12138441#publisher=newsstand)
@@ -135,7 +135,6 @@
 - [ನಗರದಲ್ಲಿ ಇಂದು: ಬೆಂಗಳೂರು ನಗರದ ಇಂದಿನ ಕಾರ್ಯಕ್ರಮಗಳು](https://www.prajavani.net/district/bengaluru-city/bengaluru-city-events-literary-cultural-educational-programs-today-4307793)
 - [ಮತದಾನದ ಹಕ್ಕು ಕಸಿದುಕೊಳ್ಳುವುದು ಸಂವಿಧಾನದ ಉಲ್ಲಂಘನೆ: ಭುಯಾನ್](https://www.prajavani.net/news/india-news/supreme-court-justice-ujjal-bhuyan-on-voting-rights-and-constitution-4307893)
 - [‘ಪೊಲೀಸರಿಂದ ಲೈಂಗಿಕ ಕಿರುಕುಳ’](https://www.prajavani.net/news/india-news/delhi-police-sexual-harassment-allegation-journalists-protest-4307709)
-- [ಮಹಿಳಾ ಚೆಸ್ ಬಾನಂಗಳದ ನವತಾರೆ](https://www.prajavani.net/sports/other-sports/savitha-shri-bhaskar-indian-women-chess-star-olympiad-gold-4307878)
 
 **eedina**
 - [ಚಿಕ್ಕಮಗಳೂರು | ದೊಡ್ಡ ಗುಂಡಿಗಳನ್ನು ಮುಚ್ಚಿದ ಶಾಲಾ ಮಕ್ಕಳು](https://eedina.com/?p=769882)
@@ -161,24 +160,24 @@
 - Israel (1.6)
 - Punjab (1.6)
 - Police (1.6)
-- Constitution (1.3)
 - Faster (1.3)
 - Reform (1.3)
-- Laws (1.3)
+- Flydubai (1.3)
+- Constitution (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [আরও ৫ দিনের জন্য বন্ধ বক্সা ব্যাঘ্র প্রকল্প, নতুন বাঘিনী দেখতে না পেয়ে মন খারাপ পর্যটকদের](https://bangla.asianetnews.com/west-bengal/buxa-tiger-reserve-closed-new-notification-when-will-reopen/articleshow-4lvhaqa)
-- [నీటికుంటలో మునిగి ఏపీకి చెందిన సాఫ్ట్‌వేర్‌ ఇంజినీర్‌ మృతి](https://www.eenadu.net/telugu-news/districts/karnataka-software-employee-from-ap-drowns-to-death-in-a-water-pond-in-bengaluru/702/126179820)
-- [ഗ്യാനേഷ് വഴങ്ങുമോ? കടുപ്പിച്ച് സംഘടനകൾ; രാജി ആവശ്യം ശക്തം, രാജ്യതലസ്ഥാനത്ത് എഎപിയും എഐഎസ്എഫും പ്രതിഷേധിക്കുന്നു](https://www.asianetnews.com/india-news/gyanesh-kumar-resignation-demand-intensifies-as-aap-and-aisf-protest-in-delhi-articleshow-y2niu9x)
-- [RBI Repo Rate Hike: હોમ-કાર લોનની EMI મોંઘી થશે? 7 ઓક્ટોબરે આવી શકે છે મોટો નિર્ણય](https://gujarati.abplive.com/news/business/rbi-repo-rate-hike-mpc-meeting-home-loan-emi-increase-interest-rate-992594)
-- ['ഒരു കമ്മ്യൂണിസ്റ്റ് നേതാവ് ഇങ്ങനെ ചെയ്യാന്‍ പാടില്ലായിരുന്നു'; പി നന്ദകുമാറിനെ തള്ളി സിപിഐ](https://www.reporterlive.com/topnews/kerala/2026/10/04/p-nandakumar-malappuram-remarks-binoy-viswam-cpi-criticism)
-- [कर्नाटक में वोटर्स के नाम कटवाने के आरोप: कार्यकर्ताओं पर एफ़आईआर के बाद बीजेपी ने येदियुरप्पा को उतारा](https://www.bbc.com/hindi/articles/cq62y8kl1rvzo)
-- [தாராபுரத்தில் சிறுவனை வைத்துத் தேர்தல் பிரசாரம்: உதயநிதி மீது வழக்கு](https://www.tamilmurasu.com.sg/tamilnadu/election-campaign-using-boy-dharapuram-case-filed-against-udhayanidhi)
-- [Wagon R முதல் Victoris வரை.. ரூபாய் 1.36 லட்சம் மெகா தள்ளுபடி..! மாருதி சுசுகி மாஸ் அறிவிப்பு](https://tamil.abplive.com/auto/maruti-suzuki-arena-cars-get-benefits-of-up-to-rs-1-36-lakh-automobile-news-276374)
-- [India’s resilience is not accidental, built on mutually reinforcing reforms: Shaktikanta Das](https://www.moneycontrol.com/news/india/india-s-resilience-is-not-accidental-built-on-mutually-reinforcing-reforms-shaktikanta-das-14044190.html)
-- [वनडेनंतर आता भारत आणि वेस्ट इंडिजमध्ये टी-२०चा थरार रंगणार! 6 ऑक्टोबरला पहिला सामना, टीम इंडियात 9 मोठे बदल होणार](https://www.tv9marathi.com/sports/cricket-news/india-vs-west-indies-t20-series-schedule-match-timings-9-players-out-new-playing-xi-expected-on-october-6-1771578.html)
+- ['होर्मुज जलडमरूमध्य बंद रहेगा', ईरान ने अमेरिका के सामने रखी ये 7 शर्तें, मध्य पूर्व संकट गहराया](https://navbharattimes.indiatimes.com/world/middle-east/hormuz-strait-closed-until-us-meets-seven-agreed-conditions-iran-says-amid-fuel-prices-hike/articleshow/134674113.cms)
+- ['Not a single post, statement': BJP launches blistering attack on Congress over Captain Smit Machchhar](https://timesofindia.indiatimes.com/india/not-a-single-post-statement-bjp-launches-blistering-attack-on-congress-over-captain-smit-machchhar/articleshow/134674110.cms)
+- [AIADMK: விரல் மை காய்வதற்குள் துரோகம்.. தவெக மைனாரிட்டி அரசுக்கு பாடம் புகட்டனும்.. இபிஎஸ் ஆவேசம்.!](https://tamil.abplive.com/news/politics/people-will-teach-a-lesson-to-the-tvk-minority-government-edappadi-palaniswami-276377)
+- [Influencer Simran Patel: ઇન્સ્ટાગ્રામમાં 1 મિલિયન ફોલોવર્સ ધરાવતી સુરતની મહિલા ઇન્ફ્યુએન્સર કાયદાના સકંજામાં! એવી તે કઈ રીલ્સ પોસ્ટ કરી દીધી?](https://gujarati.news18.com/photogallery/surat/surat-based-female-instagram-influencer-simran-patel-arrested-for-sharing-obscene-reels-featuring-gandhiji-vsd-ws-bl-2636209.html)
+- [সোনার বাজারে ভূমিকম্প! ৩৫০০ টাকা কমল দাম, রবিবার কলকাতার দর জানলে চমকে যাবেন](https://bengali.indianexpress.com/west-bengal/gold-price-today-kolkata-gold-rate-falls-rs-3500-october-4-2026-12622295)
+- [உதயநிதி ஸ்டாலின் மீது வழக்குப்பதிவு](https://www.dinakaran.com/news/caseregistered-udhayanidhistalin/)
+- [কী ভাবে শূন্য থেকে ঘুরে দাঁড়িয়ে আজ বিশ্বে প্রথম Honda](https://eisamay.com/photo-gallery/history-of-honda-automobiles-how-it-came-in-existence-after-toyota-selling-to-toyota/200551006.cms)
+- [Watch: ప్రియురాలితో కలిసి ఉన్న భర్తను పట్టుకున్న భార్య.. ఆ తర్వాత ఏం జరిగిందంటే?](https://www.ntnews.com/national/woman-catches-husband-eating-momo-with-girlfriend-in-uttar-pradeshs-meerut-he-drags-her-on-car-bonnet-video-goes-viral-2527147)
+- [Durga Puja: ব্যাঙ্কের লকারে থাকেন দুর্গা, ষষ্ঠীতে বাড়ি আসেন পুলিশি প্রহরায়, জয়পুর রাজবাড়ি পুজোর ইতিহাস জেনে নিন](https://tv9bangla.com/spiritual/navratri/durga-puja-know-the-story-behind-purulia-jaipur-rajbaris-gold-durga-idol-1350786.html)
+- [ജപ്പാനിൽ ഏഷ്യൻ ഗെയിംസിന് സമാപനം; അടുത്ത പതിപ്പ് ദോഹയിൽ](https://www.mathrubhumi.com/sports/news/asian-games-concludes-india-fourth-place-85-medals-qxik49sb)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
