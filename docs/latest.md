@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-04 22:36:14
+# India Trending Report — 2026-10-04 23:01:42
 
 ## Google Trends (India) — top trending searches
-1. [gonçalo ramos](https://trends.google.com/trending/rss?geo=IN)
-2. [erling haaland](https://trends.google.com/trending/rss?geo=IN)
-3. [earthquake](https://trends.google.com/trending/rss?geo=IN)
-4. [kristoffer ajer](https://trends.google.com/trending/rss?geo=IN)
-5. [joão cancelo](https://trends.google.com/trending/rss?geo=IN)
-6. [punjab fc](https://trends.google.com/trending/rss?geo=IN)
-7. [uditi singh](https://trends.google.com/trending/rss?geo=IN)
-8. [vivo v80 price](https://trends.google.com/trending/rss?geo=IN)
-9. [netherlands vs serbia](https://trends.google.com/trending/rss?geo=IN)
-10. [wales vs denmark](https://trends.google.com/trending/rss?geo=IN)
+1. [टीवीएस मोटर कंपनी](https://trends.google.com/trending/rss?geo=IN)
+2. [gonçalo ramos](https://trends.google.com/trending/rss?geo=IN)
+3. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
+4. [erling haaland](https://trends.google.com/trending/rss?geo=IN)
+5. [earthquake](https://trends.google.com/trending/rss?geo=IN)
+6. [kristoffer ajer](https://trends.google.com/trending/rss?geo=IN)
+7. [joão cancelo](https://trends.google.com/trending/rss?geo=IN)
+8. [punjab fc](https://trends.google.com/trending/rss?geo=IN)
+9. [uditi singh](https://trends.google.com/trending/rss?geo=IN)
+10. [vivo v80 price](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [West Bengal: Laws in 6 months to end ‘land jihad’, ‘love jihad’, says CM Suvendu](https://timesofindia.indiatimes.com/city/kolkata/bengal-will-be-3rd-state-to-implement-ucc-says-suvendu/articleshow/134676488.cms)
-- [US withdraws all bombers from UK's Fairford base after suspected terror plot](https://timesofindia.indiatimes.com/world/us/re-deployed-to-their-home-stations-us-withdraws-all-bombers-from-uks-raf-fairford-after-suspected-terror-plot/articleshow/134680412.cms)
 - [SIR strikes at heart of Constitution: Supreme Court judge Justice Ujjal Bhuyan](https://timesofindia.indiatimes.com/india/sir-strikes-at-heart-of-constitution-supreme-court-judge-justice-ujjal-bhuyan/articleshow/134680179.cms)
+- [US withdraws all bombers from UK's Fairford base after suspected terror plot](https://timesofindia.indiatimes.com/world/us/re-deployed-to-their-home-stations-us-withdraws-all-bombers-from-uks-raf-fairford-after-suspected-terror-plot/articleshow/134680412.cms)
 - [Faster registration, easier refunds: Reform rollout with GST 2.0](https://timesofindia.indiatimes.com/business/india-business/faster-registration-easier-refunds-reform-rollout-with-gst-2-0/articleshow/134680227.cms)
+- [West Bengal: Laws in 6 months to end ‘land jihad’, ‘love jihad’, says CM Suvendu](https://timesofindia.indiatimes.com/city/kolkata/bengal-will-be-3rd-state-to-implement-ucc-says-suvendu/articleshow/134676488.cms)
 - [CEC Gyanesh Kumar faces fresh Kerala vigilance probe in 2006 case](https://timesofindia.indiatimes.com/city/thiruvananthapuram/fresh-probe-into-graft-charges-during-gyanesh-tenure/articleshow/134678201.cms)
 - [Marc Benioff, wife gave $100M to UCSF; 5 years later, children’s hospital opened](https://timesofindia.indiatimes.com/technology/tech-news/in-2010-salesforce-ceo-marc-benioff-and-his-wife-gave-100-million-to-ucsf-five-years-later-its-new-san-francisco-childrens-hospital-opened-with-183-beds-and-a-rooftop-helipad/articleshow/134675617.cms)
 - [Next-generation GST aimed at boosting India's next phase of growth](https://timesofindia.indiatimes.com/business/india-business/next-generation-gst-aimed-at-boosting-indias-next-phase-of-growth/articleshow/134682266.cms)
 - [Texas city to pay at least $175,000 over excess groundwater pumping at SpaceX site](https://timesofindia.indiatimes.com/world/us/a-texas-city-will-pay-at-least-175000-after-the-spacex-site-it-owns-pumped-128-million-gallons-of-groundwater-above-permitted-limits-over-three-years-the-settlement-includes-monitoring-payments-for-25-years/articleshow/134675511.cms)
+- ['Avengers: Endgame' dethrones 'Avatar' as highest-grossing film of all time](https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/avengers-endgame-dethrones-avatar-officially-reclaims-title-of-highest-grossing-film-of-all-time-with-usd-2-925-billion-haul/articleshow/134680612.cms)
 - [Democracy in peril as voters illegally ousted: Ex-SC judge Nariman](https://timesofindia.indiatimes.com/india/democracy-in-peril-as-voters-illegally-ousted-former-sc-judge-justice-rohinton-fali-nariman/articleshow/134680618.cms)
-- [1 dead as Russian drones hit desi pharma plant in Ukraine](https://timesofindia.indiatimes.com/india/1-dead-as-russian-drones-hit-desi-pharma-plant-in-ukraine/articleshow/134680367.cms)
 
 **NDTV**
 - ['Vertical Roller Coaster': Expert Explains flydubai Flight's Sudden Plunge](https://www.ndtv.com/world-news/vertical-roller-coaster-expert-explains-flydubai-flights-sudden-plunge-12138441#publisher=newsstand)
@@ -126,6 +126,8 @@
 - [ಕೆನಡಾ ಪ್ರಜೆ ವಿಡಿಯೋ ವೈರಲ್ ಬೆನ್ನಲ್ಲೇ ಫುಟ್‌ಪಾತ್ ದುರಸ್ತಿ: ಜಿಬಿಎ ವಿರುದ್ಧ ಬೆಂಗಳೂರಿಗರು ಆಕ್ರೋಶ](https://tv9kannada.com/karnataka/bengaluru/footpath-repaired-after-canadian-nationals-video-goes-viral-bengaluru-residents-express-anger-at-gba-1246444.html)
 
 **Prajavani**
+- [ಬೀದರ್: ಡಿಪಿಆರ್‌ನಲ್ಲೇ ಉಳಿದ ‘ಕರೇಜ್‌’ ಅಂತರ್‌ ಜಲಾಶಯದ ಅಭಿವೃದ್ಧಿ](https://www.prajavani.net/district/web-exclusive/bidar-karez-development-project-delayed-in-dpr-stage-4307670)
+- [ನಕಲಿ ಮತದಿಂದ ಗೆಲ್ಲುವುದು ತಪ್ಪುತ್ತದೆಂಬ ಸಂಕಟ ಕಾಂಗ್ರೆಸ್ ಗೆ: ಬೊಮ್ಮಾಯಿ ಟೀಕೆ](https://www.prajavani.net/district/gadaga/basavaraj-bommai-criticizes-congress-over-fake-voter-list-allegations-4307900)
 - [2027ರ ಅಂತ್ಯಕ್ಕೆ ‘ಭಿಕ್ಷುಕ ಮುಕ್ತ ಬೆಂಗಳೂರು’](https://www.prajavani.net/district/bengaluru-city/beggars-free-bengaluru-government-rehabilitation-campaign-4307698)
 - [ಬರ ಪರಿಹಾರಕ್ಕೆ ಕೇಂದ್ರದಿಂದ ಅಗತ್ಯ ನೆರವು: ಜೋಶಿ](https://www.prajavani.net/district/dharwad/central-government-drought-relief-assistance-karnataka-pralhad-joshi-4307651)
 - [ಎಸ್‌ಐಆರ್‌ ರದ್ದತಿಗೆ ಆಗ್ರಹಿಸಿ ಬೀದಿಗಿಳಿಯಿರಿ: ಪ್ರಕಾಶ್‌ ರಾಜ್‌](https://www.prajavani.net/district/dharwad/prakash-raj-protest-call-dharwad-electoral-roll-revision-4307650)
@@ -148,35 +150,35 @@
 - [ಕಾರವಾರ | ಗ್ರಾಮ ಆಡಳಿತ ಅಧಿಕಾರಿ ಪರೀಕ್ಷೆ ಸುಸೂತ್ರ: ಒಟ್ಟು 11,671 ಅಭ್ಯರ್ಥಿಗಳು ಹಾಜರು](https://eedina.com/?p=769833)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Ukraine (2.9)
 - Jaishankar (2.6)
 - What (2.6)
-- West Bengal (2.0)
 - Supreme Court (2.0)
+- West Bengal (2.0)
 - Delhi (1.9)
 - Kerala (1.6)
 - Russia (1.6)
+- Ukraine (1.6)
 - Israel (1.6)
 - Punjab (1.6)
 - Police (1.6)
-- Laws (1.3)
 - Constitution (1.3)
 - Faster (1.3)
 - Reform (1.3)
+- Laws (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [உலகச் சாதனைகளைப் படைத்த ஆசிய விளையாட்டுப் போட்டிகள்](https://www.tamilmurasu.com.sg/sports/asian-games-created-world-records)
-- [ज्ञानेश कुमार के ख़िलाफ़ एक साथ आए उद्धव और राज ठाकरे, मुंबई में कैसा रहा प्रोटेस्ट](https://www.bbc.com/hindi/articles/cwp9g5zvj840o)
-- [‘কী বলা উচিত নয়, সেটা শিখি’, জেলে যাওয়ার ভয় পান? তরুণ কমেডিয়ানদের নিয়ে কপিলের মজার জবাব](https://bengali.indianexpress.com/entertainment/sidharth-malhotra-tamannaah-bhatia-praise-kapil-sharma-comedy-12621806)
-- [India's Nuclear Punch: Atom Bombs Backed By Long-Range Missiles](https://www.ndtv.com/india-news/indias-nuclear-punch-atom-bombs-backed-by-long-range-missiles-12137029)
-- [Durga Puja 2026: আজ থেকেই পুজো শুরু, ৩ দিন পাঁঠাবলির রীতি রামপুরহাটের চাঁদপাড়া গ্রামে](https://bangla.asianetnews.com/religion/durga-puja-2026-starts-sunday-chandpara-village-rampurhat-birbhum-anbsg/articleshow-hw8u3et)
-- [चीन खुद को एक अनोखा देश मानता है, अमेरिका जान-बूझकर पड़ा अकेला; एस जयशंकर का डायरेक्ट अटैक](https://navbharattimes.indiatimes.com/india/s-jaishankar-says-china-considers-itself-a-unique-nation-while-the-us-has-deliberately-isolated-itself/articleshow/134672938.cms)
-- [DLF’s The Aureva luxury project in Gurugram fully sold out, records ₹1,985 crore in sales](https://www.cnbctv18.com/market/stocks/dlf-share-price-the-aureva-luxury-project-in-gurugram-fully-sold-out-records-rs-1985-crore-in-sales-20004132.htm)
-- [లారీని ఢీకొట్టిన సైనికుడి మృతదేహాన్ని తరలిస్తున్న ఆర్మీ అంబులెన్స్‌.. జవాన్‌ కుమారుడు సహా నలుగురు మృతి](https://www.ntnews.com/national/army-ambulance-carrying-soldiers-body-crashes-into-truck-in-uttar-pradesh-4-killed-2527107)
-- [India is going ‘beyond advocacy’ on the Russia-Ukraine conflict: Jaishankar](https://www.thehindu.com/news/national/india-is-going-beyond-advocacy-on-the-russia-ukraine-conflict-jaishankar/article71543379.ece)
-- [একসময় প্রায় শেষ হতে বসেছিল সলমনের কেরিয়ার! ছোট পর্দার হাত ধরে কীভাবে ঘুরে দাঁড়ান ভাইজান?](https://www.thewall.in/entertainment/when-salman-khans-career-was-almost-over-how-television-helped-him-make-a-comeback/tid/206273)
+- [আরও ৫ দিনের জন্য বন্ধ বক্সা ব্যাঘ্র প্রকল্প, নতুন বাঘিনী দেখতে না পেয়ে মন খারাপ পর্যটকদের](https://bangla.asianetnews.com/west-bengal/buxa-tiger-reserve-closed-new-notification-when-will-reopen/articleshow-4lvhaqa)
+- [నీటికుంటలో మునిగి ఏపీకి చెందిన సాఫ్ట్‌వేర్‌ ఇంజినీర్‌ మృతి](https://www.eenadu.net/telugu-news/districts/karnataka-software-employee-from-ap-drowns-to-death-in-a-water-pond-in-bengaluru/702/126179820)
+- [ഗ്യാനേഷ് വഴങ്ങുമോ? കടുപ്പിച്ച് സംഘടനകൾ; രാജി ആവശ്യം ശക്തം, രാജ്യതലസ്ഥാനത്ത് എഎപിയും എഐഎസ്എഫും പ്രതിഷേധിക്കുന്നു](https://www.asianetnews.com/india-news/gyanesh-kumar-resignation-demand-intensifies-as-aap-and-aisf-protest-in-delhi-articleshow-y2niu9x)
+- [RBI Repo Rate Hike: હોમ-કાર લોનની EMI મોંઘી થશે? 7 ઓક્ટોબરે આવી શકે છે મોટો નિર્ણય](https://gujarati.abplive.com/news/business/rbi-repo-rate-hike-mpc-meeting-home-loan-emi-increase-interest-rate-992594)
+- ['ഒരു കമ്മ്യൂണിസ്റ്റ് നേതാവ് ഇങ്ങനെ ചെയ്യാന്‍ പാടില്ലായിരുന്നു'; പി നന്ദകുമാറിനെ തള്ളി സിപിഐ](https://www.reporterlive.com/topnews/kerala/2026/10/04/p-nandakumar-malappuram-remarks-binoy-viswam-cpi-criticism)
+- [कर्नाटक में वोटर्स के नाम कटवाने के आरोप: कार्यकर्ताओं पर एफ़आईआर के बाद बीजेपी ने येदियुरप्पा को उतारा](https://www.bbc.com/hindi/articles/cq62y8kl1rvzo)
+- [தாராபுரத்தில் சிறுவனை வைத்துத் தேர்தல் பிரசாரம்: உதயநிதி மீது வழக்கு](https://www.tamilmurasu.com.sg/tamilnadu/election-campaign-using-boy-dharapuram-case-filed-against-udhayanidhi)
+- [Wagon R முதல் Victoris வரை.. ரூபாய் 1.36 லட்சம் மெகா தள்ளுபடி..! மாருதி சுசுகி மாஸ் அறிவிப்பு](https://tamil.abplive.com/auto/maruti-suzuki-arena-cars-get-benefits-of-up-to-rs-1-36-lakh-automobile-news-276374)
+- [India’s resilience is not accidental, built on mutually reinforcing reforms: Shaktikanta Das](https://www.moneycontrol.com/news/india/india-s-resilience-is-not-accidental-built-on-mutually-reinforcing-reforms-shaktikanta-das-14044190.html)
+- [वनडेनंतर आता भारत आणि वेस्ट इंडिजमध्ये टी-२०चा थरार रंगणार! 6 ऑक्टोबरला पहिला सामना, टीम इंडियात 9 मोठे बदल होणार](https://www.tv9marathi.com/sports/cricket-news/india-vs-west-indies-t20-series-schedule-match-timings-9-players-out-new-playing-xi-expected-on-october-6-1771578.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
