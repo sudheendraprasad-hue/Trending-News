@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-04 21:32:57
+# India Trending Report — 2026-10-04 22:03:16
 
 ## Google Trends (India) — top trending searches
-1. [gonçalo ramos](https://trends.google.com/trending/rss?geo=IN)
-2. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
-3. [erling haaland](https://trends.google.com/trending/rss?geo=IN)
-4. [earthquake](https://trends.google.com/trending/rss?geo=IN)
-5. [kristoffer ajer](https://trends.google.com/trending/rss?geo=IN)
-6. [joão cancelo](https://trends.google.com/trending/rss?geo=IN)
-7. [portugal national football team vs norway national football team stats](https://trends.google.com/trending/rss?geo=IN)
-8. [punjab fc](https://trends.google.com/trending/rss?geo=IN)
-9. [uditi singh](https://trends.google.com/trending/rss?geo=IN)
-10. [vivo v80 price](https://trends.google.com/trending/rss?geo=IN)
+1. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
+2. [erling haaland](https://trends.google.com/trending/rss?geo=IN)
+3. [earthquake](https://trends.google.com/trending/rss?geo=IN)
+4. [kristoffer ajer](https://trends.google.com/trending/rss?geo=IN)
+5. [joão cancelo](https://trends.google.com/trending/rss?geo=IN)
+6. [punjab fc](https://trends.google.com/trending/rss?geo=IN)
+7. [uditi singh](https://trends.google.com/trending/rss?geo=IN)
+8. [vivo v80 price](https://trends.google.com/trending/rss?geo=IN)
+9. [netherlands vs serbia](https://trends.google.com/trending/rss?geo=IN)
+10. [wales vs denmark](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [West Bengal: Laws in 6 months to end ‘land jihad’, ‘love jihad’, says CM Suvendu](https://timesofindia.indiatimes.com/city/kolkata/bengal-will-be-3rd-state-to-implement-ucc-says-suvendu/articleshow/134676488.cms)
+- [US withdraws all bombers from UK's Fairford base after suspected terror plot](https://timesofindia.indiatimes.com/world/us/re-deployed-to-their-home-stations-us-withdraws-all-bombers-from-uks-raf-fairford-after-suspected-terror-plot/articleshow/134680412.cms)
 - [SIR strikes at heart of Constitution: Supreme Court judge Justice Ujjal Bhuyan](https://timesofindia.indiatimes.com/india/sir-strikes-at-heart-of-constitution-supreme-court-judge-justice-ujjal-bhuyan/articleshow/134680179.cms)
 - [Faster registration, easier refunds: Reform rollout with GST 2.0](https://timesofindia.indiatimes.com/business/india-business/faster-registration-easier-refunds-reform-rollout-with-gst-2-0/articleshow/134680227.cms)
 - [1 dead as Russian drones hit desi pharma plant in Ukraine](https://timesofindia.indiatimes.com/india/1-dead-as-russian-drones-hit-desi-pharma-plant-in-ukraine/articleshow/134680367.cms)
-- [EAM Jaishankar says US has chosen to become 'lonelier power'](https://timesofindia.indiatimes.com/india/external-affairs-minister-s-jaishankar-says-us-has-chosen-to-become-lonelier-power/articleshow/134680336.cms)
 - [Marc Benioff, wife gave $100M to UCSF; 5 years later, children’s hospital opened](https://timesofindia.indiatimes.com/technology/tech-news/in-2010-salesforce-ceo-marc-benioff-and-his-wife-gave-100-million-to-ucsf-five-years-later-its-new-san-francisco-childrens-hospital-opened-with-183-beds-and-a-rooftop-helipad/articleshow/134675617.cms)
-- [Day 3, bigger showdown: CEC protest sparks clashes, detentions in Delhi](https://timesofindia.indiatimes.com/india/cec-protest-intensifies-in-delhi-aisa-aap-workers-detained-as-marches-hit-barricades/articleshow/134676192.cms)
+- [EAM Jaishankar says US has chosen to become 'lonelier power'](https://timesofindia.indiatimes.com/india/external-affairs-minister-s-jaishankar-says-us-has-chosen-to-become-lonelier-power/articleshow/134680336.cms)
 - [Texas city to pay at least $175,000 over excess groundwater pumping at SpaceX site](https://timesofindia.indiatimes.com/world/us/a-texas-city-will-pay-at-least-175000-after-the-spacex-site-it-owns-pumped-128-million-gallons-of-groundwater-above-permitted-limits-over-three-years-the-settlement-includes-monitoring-payments-for-25-years/articleshow/134675511.cms)
+- [Day 3, bigger showdown: CEC protest sparks clashes, detentions in Delhi](https://timesofindia.indiatimes.com/india/cec-protest-intensifies-in-delhi-aisa-aap-workers-detained-as-marches-hit-barricades/articleshow/134676192.cms)
 - ['Look Out Circular' against parents of man who secretly took away child to US](https://timesofindia.indiatimes.com/india/look-out-circular-against-parents-of-man-who-secretly-took-away-child-to-us/articleshow/134680302.cms)
-- [25p/kg wheat MSP hike an 'insult': Samyukta Kisan Morcha](https://timesofindia.indiatimes.com/india/25p/kg-wheat-msp-hike-an-insult-samyukta-kisan-morcha/articleshow/134680324.cms)
 
 **NDTV**
 - ['Vertical Roller Coaster': Expert Explains flydubai Flight's Sudden Plunge](https://www.ndtv.com/world-news/vertical-roller-coaster-expert-explains-flydubai-flights-sudden-plunge-12138441#publisher=newsstand)
@@ -74,6 +74,8 @@
 - [Spurious drugs case: Kingpin’s travel to turkiye throws light on racket’s international links](https://www.thehindu.com/news/national/karnataka/spurious-drugs-case-kingpins-travel-to-turkey-throws-light-on-rackets-international-links/article71543363.ece)
 
 **Livemint**
+- [N. Korea’s Kim Oversaw Hypersonic Missile Drill, KCNA Says](https://www.livemint.com/news/world/n-korea-s-kim-oversaw-hypersonic-missile-drill-kcna-says-11791151069964.html)
+- [Steven Baker joins CBS News as consultant to help improve ‘CBS Mornings’ and ‘CBS Evening News’](https://www.livemint.com/news/us-news/steven-baker-joins-cbs-news-as-consultant-to-help-improve-cbs-mornings-and-cbs-evening-news-11791148833953.html)
 - [Meet Nishant Kerketta: 'Gaon ka ladka' from Jharkhand goes viral for turning his village backdrop into a fashion stage](https://www.livemint.com/news/trends/meet-nishant-kerketta-gaon-ka-ladka-from-jharkhand-goes-viral-for-turning-his-village-backdrop-into-a-fashion-stage-11791136699930.html)
 - [SIR voter list: Form 6, 7, 8 or 9? Which form to use for Aadhaar, address change, name deletion](https://www.livemint.com/news/india/sir-voter-list-form-6-7-8-or-9-which-form-to-use-for-aadhaar-address-change-name-deletion-11791136733634.html)
 - [UK family transforms 1980s home into mini power station and secures five years without energy bills](https://www.livemint.com/news/trends/uk-family-transforms-1980s-home-into-mini-power-station-and-secures-five-years-without-energy-bills-11791128776223.html)
@@ -82,8 +84,6 @@
 - [FlyDubai attack: Israel had crew list, so how did ‘barred’ pilot evade checks? What we know](https://www.livemint.com/news/world/flydubai-attack-israel-had-crew-list-so-how-did-barred-pilot-evade-checks-what-we-know-11791132802555.html)
 - [Rising global capital costs pose challenge for emerging economies: Anurada Thakur](https://www.livemint.com/news/india/rising-global-capital-costs-pose-challenge-for-emerging-economies-anurada-thakur-11791130158160.html)
 - [RightForge is back 4 years after shutting down over Truth Social’s $1.6 million unpaid bill, with a new owner](https://www.livemint.com/news/us-news/trumps-truth-social-owed-rightforge-1-6-million-4-years-after-shutting-down-it-s-back-with-a-new-owner-11791126750288.html)
-- [Traffic exists everywhere, but what makes Ireland’s roads feel safer? Indian woman explains](https://www.livemint.com/news/trends/traffic-exists-everywhere-but-what-makes-ireland-s-roads-feel-safer-indian-woman-explains-11791127486709.html)
-- [‘Salary stuck in 2006, rent in 2046’: Bengaluru resident's housing cost rant goes viral](https://www.livemint.com/news/trends/salary-stuck-in-2006-rent-in-2046-bengaluru-residents-housing-cost-rant-goes-viral-11791125726149.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -126,12 +126,14 @@
 - [ಕೆನಡಾ ಪ್ರಜೆ ವಿಡಿಯೋ ವೈರಲ್ ಬೆನ್ನಲ್ಲೇ ಫುಟ್‌ಪಾತ್ ದುರಸ್ತಿ: ಜಿಬಿಎ ವಿರುದ್ಧ ಬೆಂಗಳೂರಿಗರು ಆಕ್ರೋಶ](https://tv9kannada.com/karnataka/bengaluru/footpath-repaired-after-canadian-nationals-video-goes-viral-bengaluru-residents-express-anger-at-gba-1246444.html)
 
 **Prajavani**
+- [ಎಸ್‌ಐಆರ್‌ ರದ್ದತಿಗೆ ಆಗ್ರಹಿಸಿ ಬೀದಿಗಿಳಿಯಿರಿ: ಪ್ರಕಾಶ್‌ ರಾಜ್‌](https://www.prajavani.net/district/dharwad/prakash-raj-protest-call-dharwad-electoral-roll-revision-4307650)
+- [ಹುಸಿ ಬಾಂಬ್‌ ಕರೆ: ಮಾಜಿ ಉದ್ಯೋಗಿ ಬಂಧನ](https://www.prajavani.net/district/mysuru/mysuru-hoax-bomb-call-former-employee-arrested-4307634)
+- [ನಗರದಲ್ಲಿ ಇಂದು: ಬೆಂಗಳೂರು ನಗರದ ಇಂದಿನ ಕಾರ್ಯಕ್ರಮಗಳು](https://www.prajavani.net/district/bengaluru-city/bengaluru-city-events-literary-cultural-educational-programs-today-4307793)
 - [ಮತದಾನದ ಹಕ್ಕು ಕಸಿದುಕೊಳ್ಳುವುದು ಸಂವಿಧಾನದ ಉಲ್ಲಂಘನೆ: ಭುಯಾನ್](https://www.prajavani.net/news/india-news/supreme-court-justice-ujjal-bhuyan-on-voting-rights-and-constitution-4307893)
 - [‘ಪೊಲೀಸರಿಂದ ಲೈಂಗಿಕ ಕಿರುಕುಳ’](https://www.prajavani.net/news/india-news/delhi-police-sexual-harassment-allegation-journalists-protest-4307709)
 - [ಮಹಿಳಾ ಚೆಸ್ ಬಾನಂಗಳದ ನವತಾರೆ](https://www.prajavani.net/sports/other-sports/savitha-shri-bhaskar-indian-women-chess-star-olympiad-gold-4307878)
 - [ಮಾತು ಬಾರದ, ಕಿವಿ ಕೇಳದ ಪುತ್ರಿ ಮೇಲೆ ತಂದೆ ಅತ್ಯಾಚಾರ: ಆರೋಪಿ ಬಂಧನ](https://www.prajavani.net/district/bangaluru-rural/ramanagara-father-arrested-pocso-act-assault-on-disabled-daughter-4307856)
 - [ಹಾಲಿನ ಪುಡಿ ಕಲಬೆರಕೆ ಪ್ರಕರಣ: ಮನ್‌ಮುಲ್‌ ಮಾಜಿ ಅಧ್ಯಕ್ಷ ಶಿವಪ್ಪ ಬಂಧನ](https://www.prajavani.net/news/karnataka-news/manmul-former-chairman-shivakumar-arrested-milk-powder-adulteration-case-4307841)
-- [ನಾಲ್ಕು ಉಳಿಯಿತು; ಸಾಧ್ಯವಾಗದ ಮೂರಂಕಿ](https://www.prajavani.net/sports/cricket/asian-games-india-medal-tally-fourth-position-performance-analysis-4307790)
 - [ಕಾಡಾನೆ ಹಾವಳಿ ತಡೆಗೆ ಎಐ ಫೆನ್ಸಿಂಗ್: ಕೇರಳಂನಲ್ಲಿ ಯಶಸ್ಸು ಕಂಡ ಯೋಜನೆ](https://www.prajavani.net/news/india-news/kerala-government-implements-ai-smart-fencing-to-prevent-human-elephant-conflict-4307814)
 
 **eedina**
@@ -166,16 +168,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [‘হিন্দু ধর্ম ও সংস্কৃতির উপর আঘাত বরদাস্ত করব না’, আলিপুরের অনুষ্ঠান থেকে বার্তা মুখ্যমন্ত্রীর](https://bengali.indianexpress.com/west-bengal/west-bengal-cm-hindu-religion-culture-alipore-event-durga-puja-mahalaya-amit-shah-12622205)
-- [Rashmika | విజయ్‌ దేవరకొండలో అది అస్సలు నచ్చదు.. రష్మిక కామెంట్స్ వైర‌ల్‌](https://www.ntnews.com/news/rashmika-stunning-comments-on-vijay-2527076)
-- [ബ്രസീൽ താരത്തെ നിഷ്പ്രഭമാക്കി സഹലിന്റെ മുന്നേറ്റം, വീഡിയോ വൈറൽ](https://www.mathrubhumi.com/sports/football/india-vs-brazil-football-match-sahal-abdul-samad-nutmeg-u8t3wz34)
-- [డీమార్ట్‌కు 3 నెలల్లో రూ.19,206 కోట్ల ఆదాయం.. కొత్త స్టోర్లతో జోరు.. ఫోకస్‌లోకి అవెన్యూ సూపర్ మార్ట్స్ షేరు!](https://telugu.samayam.com/business/business-news/dmart-avenue-supermarts-q2-business-update-revenue-store-count-growth-telugu/articleshow/134672598.cms)
-- [இயக்குனர் சிங்கீதம் சீனிவாச ராவ் மறைவு: திரையுலகினர் இரங்கல்](https://cinema.dinamalar.com/news/kollywood/director-singeetham-srinivasa-rao-passes-away-cine-celebriti/141282)
-- [GSTમાં ફેરફારના એંધાણ! ટેક્સ અધિકારીઓની ધરપકડ કરવાની સત્તા છીનવાશે? 07 ઓક્ટોબરે મોટો નિર્ણય](https://www.gujaratsamachar.com/news/business/Govt-Considers-Ending-Tax-Officers-Direct-Arrest-Powers-in-Major-GST-Law-Overhaul-83174673501)
-- [અમેરિકન બૉન્ડ યીલ્ડની ગેમ : ભારતીય શૅરબજાર પર તેની શું અસર થઈ?](https://www.bbc.com/gujarati/articles/ck1l35ldv7g2o)
-- [प्राइवेट बगीचा-लकड़ी का इंटीरियर! हिमाचल की हसीन वादियों में 100 साल पुराने घर में पति संग बसी एक्ट्रेस?](https://www.aajtak.in/entertainment/bollywood-news/photo/yami-gautam-aditya-dhar-moved-himachal-pradesh-100-years-old-home-private-organic-garden-wooden-interior-photos-tmovf-2661046-2026-10-04)
-- [CJP പ്രതിഷേധത്തിനിടെ പൊലീസുകാരിൽ നിന്ന് ലൈം​ഗികാതിക്രമം നേരിട്ടതായി വനിതാ മാദ്ധ്യമപ്രവർത്തകർ ; ക്രൈംബ്രാഞ്ച് അന്വേഷിക്കും](https://malayalam.news18.com/news/india/female-journalists-allege-sexual-harassment-by-cops-crime-branch-to-investigate-sbs-ws-l-790939.html)
-- [Vijay Devarakonda: డిజిటల్ రూపంలో జరిగే లైంగిక దాడితో సమానం](https://www.chitrajyothy.com/2026/tollywood/vijay-devarakond-reaction-on-devara-ai-song-avm-75973.html)
+- ['मुझे लगा AI से बनी तस्वीर है...', चंबल रिवरफ्रंट देखकर हैरान हुए आनंद महिंद्रा, कोटा को लेकर कही बड़ी बात](https://navbharattimes.indiatimes.com/business/business-news/anand-mahindra-praises-kota-chambal-riverfront-rajasthan-tourism/articleshow/134672833.cms)
+- ['A Woman's Body Is Not Content': Khushbu Sundar Condemns AI-Morphed Video Of Janhvi Kapoor, Jr NTR From Devara](https://www.ndtv.com/entertainment/a-womans-body-is-not-content-khushbu-sundar-condemns-ai-morphed-video-of-janhvi-kapoor-jr-ntr-from-devara-12136943)
+- [ശിവാജി പാർക്കിൽ നിന്ന് ജന്തർ മന്തറിലേക്ക്: വോട്ടിന്റെ വിശ്വാസ്യതയെക്കുറിച്ച് ഇന്ത്യ ചോദിക്കുന്ന ചോദ്യങ്ങൾ](https://www.southlive.in/from-shivaji-park-to-jantar-mantar-questions-india-is-asking-about-the-credibility-of-the-vote/)
+- [ബിഗ് ബോസ് മലയാളം: വീട്ടിലെ കാര്യങ്ങളെല്ലാം സീക്രട്ട് റൂമിലിരുന്ന് കേട്ട് മൃദുലയും അഞ്ജലിയും](https://www.asianetnews.com/entertainment-news/bigg-boss-malayalam-season-8-mridula-vijai-and-anjali-secret-room-articleshow-88qyshr)
+- [মুম্বই ছাড়লেন ইয়ামী ও আদিত‍্য ধর! পাহাড়ের বুকে চাষের জমি ঘেরা বাড়িতে কেন চলে গেলেন তারকাদম্পতি?](https://www.anandabazar.com/entertainment/yami-gautam-and-aditya-dhar-left-mumbai-and-shifted-to-himachal-pradesh-permanently-dgtl/cid/1717364)
+- [इलेक्ट्रिक सेगमेंट में बड़ा उलटफेर, टॉप-5 से बाहर हुई मारुति सुजुकी](https://www.aajtak.in/auto/news/story/top-selling-electric-car-brands-september-2026-tata-mahindra-mg-kia-vinfast-auam-dskc-2661075-2026-10-04)
+- [Latest Breaking News From India, Delhi, Mumbai & Around the World](https://indianexpress.com/article/india/today-india-breaking-news-live-updates-04-october-2026-vhp-alok-kumar-ram-mandir-donation-row-sit-probe-gst-arrest-powers-asian-games-10905794/)
+- [નડિયાદમાં ₹3.70 કરોડના સોનાની લૂંટનો ભેદ વિરમગામ પોલીસે ઉકેલ્યો: PI 500 મીટર સુધી ઢસડાયા છતાં 4 આરોપીને ઝડપી પાડ્યા](https://www.gujaratsamachar.com/news/kheda/viramgam-police-solves-indian-rupee370-crore-gold-robbery-in-nadiad-4-accused-nabbed-despite-pi-being-dragged-for-500-meters-67550114039)
+- [Bhogi Teaser: భోగి టీజర్ రివ్యూ, శర్వానంద్ మాస్ ట్రాన్స్ఫర్మేషన్..కెరీర్‌లో తొలిసారి వణుకు](https://telugu.asianetnews.com/gallery/entertainment/sharwanand-bhogi-movie-teaser-out-now-cgdh76h)
+- [Latest Marathi News Live Update : धुळ्यात महसूलमंत्री बावनकुळेंनी अधिकाऱ्याची शेतातच घेतली ‘शाळा’](https://www.esakal.com/maharashtra/latest-marathi-news-live-today-04-october-2026-uddhav-and-raj-thackeray-protest-shiv-sena-mns-against-chief-election-commissioner-gyanesh-kumar-mpsc-protest-weather-update-imd-kolhapur-gokul-election-tukaram-mundhe-fda-actions-pm-narendra-modi-amit-shah-rahul-gandhi-cm-devendra-fadnavis-mpsc-exam-gold-rate-mumbai-pune-traffic-update-bam92-ymk86)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
