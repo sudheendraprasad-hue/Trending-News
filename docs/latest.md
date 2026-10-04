@@ -1,7 +1,7 @@
-# India Trending Report — 2026-10-04 22:03:16
+# India Trending Report — 2026-10-04 22:36:14
 
 ## Google Trends (India) — top trending searches
-1. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
+1. [gonçalo ramos](https://trends.google.com/trending/rss?geo=IN)
 2. [erling haaland](https://trends.google.com/trending/rss?geo=IN)
 3. [earthquake](https://trends.google.com/trending/rss?geo=IN)
 4. [kristoffer ajer](https://trends.google.com/trending/rss?geo=IN)
@@ -18,12 +18,12 @@
 - [US withdraws all bombers from UK's Fairford base after suspected terror plot](https://timesofindia.indiatimes.com/world/us/re-deployed-to-their-home-stations-us-withdraws-all-bombers-from-uks-raf-fairford-after-suspected-terror-plot/articleshow/134680412.cms)
 - [SIR strikes at heart of Constitution: Supreme Court judge Justice Ujjal Bhuyan](https://timesofindia.indiatimes.com/india/sir-strikes-at-heart-of-constitution-supreme-court-judge-justice-ujjal-bhuyan/articleshow/134680179.cms)
 - [Faster registration, easier refunds: Reform rollout with GST 2.0](https://timesofindia.indiatimes.com/business/india-business/faster-registration-easier-refunds-reform-rollout-with-gst-2-0/articleshow/134680227.cms)
-- [1 dead as Russian drones hit desi pharma plant in Ukraine](https://timesofindia.indiatimes.com/india/1-dead-as-russian-drones-hit-desi-pharma-plant-in-ukraine/articleshow/134680367.cms)
+- [CEC Gyanesh Kumar faces fresh Kerala vigilance probe in 2006 case](https://timesofindia.indiatimes.com/city/thiruvananthapuram/fresh-probe-into-graft-charges-during-gyanesh-tenure/articleshow/134678201.cms)
 - [Marc Benioff, wife gave $100M to UCSF; 5 years later, children’s hospital opened](https://timesofindia.indiatimes.com/technology/tech-news/in-2010-salesforce-ceo-marc-benioff-and-his-wife-gave-100-million-to-ucsf-five-years-later-its-new-san-francisco-childrens-hospital-opened-with-183-beds-and-a-rooftop-helipad/articleshow/134675617.cms)
-- [EAM Jaishankar says US has chosen to become 'lonelier power'](https://timesofindia.indiatimes.com/india/external-affairs-minister-s-jaishankar-says-us-has-chosen-to-become-lonelier-power/articleshow/134680336.cms)
+- [Next-generation GST aimed at boosting India's next phase of growth](https://timesofindia.indiatimes.com/business/india-business/next-generation-gst-aimed-at-boosting-indias-next-phase-of-growth/articleshow/134682266.cms)
 - [Texas city to pay at least $175,000 over excess groundwater pumping at SpaceX site](https://timesofindia.indiatimes.com/world/us/a-texas-city-will-pay-at-least-175000-after-the-spacex-site-it-owns-pumped-128-million-gallons-of-groundwater-above-permitted-limits-over-three-years-the-settlement-includes-monitoring-payments-for-25-years/articleshow/134675511.cms)
-- [Day 3, bigger showdown: CEC protest sparks clashes, detentions in Delhi](https://timesofindia.indiatimes.com/india/cec-protest-intensifies-in-delhi-aisa-aap-workers-detained-as-marches-hit-barricades/articleshow/134676192.cms)
-- ['Look Out Circular' against parents of man who secretly took away child to US](https://timesofindia.indiatimes.com/india/look-out-circular-against-parents-of-man-who-secretly-took-away-child-to-us/articleshow/134680302.cms)
+- [Democracy in peril as voters illegally ousted: Ex-SC judge Nariman](https://timesofindia.indiatimes.com/india/democracy-in-peril-as-voters-illegally-ousted-former-sc-judge-justice-rohinton-fali-nariman/articleshow/134680618.cms)
+- [1 dead as Russian drones hit desi pharma plant in Ukraine](https://timesofindia.indiatimes.com/india/1-dead-as-russian-drones-hit-desi-pharma-plant-in-ukraine/articleshow/134680367.cms)
 
 **NDTV**
 - ['Vertical Roller Coaster': Expert Explains flydubai Flight's Sudden Plunge](https://www.ndtv.com/world-news/vertical-roller-coaster-expert-explains-flydubai-flights-sudden-plunge-12138441#publisher=newsstand)
@@ -62,6 +62,7 @@
 - [`350 ರನ್ ಸಾಲದು, 400ರ ಗುರಿ ನಮ್ಮದು': ಟೀಂ ಇಂಡಿಯಾ 2027ರ ವಿಶ್ವಕಪ್‌ ಪ್ಲಾನ್ ರಿವೀಲ್ ಮಾಡಿದ ಕೆ.ಎಲ್.ರಾಹುಲ್!](https://vijaykarnataka.com/sports/cricket/news/kl-rahul-reveals-team-india-2027-odi-world-cup-plans/articleshow/134675573.cms)
 
 **The Hindu**
+- [U.P. releases new sugarcane varieties eyeing increasing production](https://www.thehindu.com/news/national/uttar-pradesh/up-releases-new-sugarcane-varieties-eyeing-increasing-production/article71544504.ece)
 - [Kerala High Court orders CBI probe into soldier’s disappearance 14 years ago](https://www.thehindu.com/news/national/kerala/kerala-hc-directs-cbi-to-investigate-14-year-old-case-of-a-missing-paramilitary-force-soldier/article71543550.ece)
 - [Muziris to be made international heritage tourism destination, says Satheesan](https://www.thehindu.com/news/national/kerala/muziris-to-be-made-international-heritage-tourism-destination-says-satheesan/article71544613.ece)
 - [Koder House fire may have originated in adjacent building, says Electrical Inspectorate](https://www.thehindu.com/news/national/kerala/koder-house-fire-may-have-originated-in-adjacent-building-finds-electrical-inspectorate/article71543124.ece)
@@ -71,9 +72,9 @@
 - [CM likely to attend GST meeting](https://www.thehindu.com/news/national/karnataka/cm-likely-to-attend-gst-meeting/article71544377.ece)
 - [Fadnavis fires ‘Ghajini’ barb at Thackeray cousins over protest march](https://www.thehindu.com/news/national/maharashtra/fadnavis-fires-ghajini-barb-at-thackeray-cousins-over-protest-march/article71544836.ece)
 - [CCB books 19 persons for riding wheelie, triple riding and drinking in public places](https://www.thehindu.com/news/national/karnataka/ccb-books-19-persons-for-riding-wheelie-triple-riding-and-drinking-in-public-places/article71543492.ece)
-- [Spurious drugs case: Kingpin’s travel to turkiye throws light on racket’s international links](https://www.thehindu.com/news/national/karnataka/spurious-drugs-case-kingpins-travel-to-turkey-throws-light-on-rackets-international-links/article71543363.ece)
 
 **Livemint**
+- [Pentagon Redeploys Bombers From UK Base at Center of Terror Plot](https://www.livemint.com/news/world/pentagon-redeploys-bombers-from-uk-base-at-center-of-terror-plot-11791151617575.html)
 - [N. Korea’s Kim Oversaw Hypersonic Missile Drill, KCNA Says](https://www.livemint.com/news/world/n-korea-s-kim-oversaw-hypersonic-missile-drill-kcna-says-11791151069964.html)
 - [Steven Baker joins CBS News as consultant to help improve ‘CBS Mornings’ and ‘CBS Evening News’](https://www.livemint.com/news/us-news/steven-baker-joins-cbs-news-as-consultant-to-help-improve-cbs-mornings-and-cbs-evening-news-11791148833953.html)
 - [Meet Nishant Kerketta: 'Gaon ka ladka' from Jharkhand goes viral for turning his village backdrop into a fashion stage](https://www.livemint.com/news/trends/meet-nishant-kerketta-gaon-ka-ladka-from-jharkhand-goes-viral-for-turning-his-village-backdrop-into-a-fashion-stage-11791136699930.html)
@@ -83,7 +84,6 @@
 - [FSSAI flags Everest cumin powder as unsafe, orders immediate market recall: What food analyst report found](https://www.livemint.com/news/india/fssai-flags-everest-cumin-powder-as-unsafe-orders-immediate-market-recall-what-food-analyst-report-found-11791132343201.html)
 - [FlyDubai attack: Israel had crew list, so how did ‘barred’ pilot evade checks? What we know](https://www.livemint.com/news/world/flydubai-attack-israel-had-crew-list-so-how-did-barred-pilot-evade-checks-what-we-know-11791132802555.html)
 - [Rising global capital costs pose challenge for emerging economies: Anurada Thakur](https://www.livemint.com/news/india/rising-global-capital-costs-pose-challenge-for-emerging-economies-anurada-thakur-11791130158160.html)
-- [RightForge is back 4 years after shutting down over Truth Social’s $1.6 million unpaid bill, with a new owner](https://www.livemint.com/news/us-news/trumps-truth-social-owed-rightforge-1-6-million-4-years-after-shutting-down-it-s-back-with-a-new-owner-11791126750288.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -126,15 +126,14 @@
 - [ಕೆನಡಾ ಪ್ರಜೆ ವಿಡಿಯೋ ವೈರಲ್ ಬೆನ್ನಲ್ಲೇ ಫುಟ್‌ಪಾತ್ ದುರಸ್ತಿ: ಜಿಬಿಎ ವಿರುದ್ಧ ಬೆಂಗಳೂರಿಗರು ಆಕ್ರೋಶ](https://tv9kannada.com/karnataka/bengaluru/footpath-repaired-after-canadian-nationals-video-goes-viral-bengaluru-residents-express-anger-at-gba-1246444.html)
 
 **Prajavani**
+- [2027ರ ಅಂತ್ಯಕ್ಕೆ ‘ಭಿಕ್ಷುಕ ಮುಕ್ತ ಬೆಂಗಳೂರು’](https://www.prajavani.net/district/bengaluru-city/beggars-free-bengaluru-government-rehabilitation-campaign-4307698)
+- [ಬರ ಪರಿಹಾರಕ್ಕೆ ಕೇಂದ್ರದಿಂದ ಅಗತ್ಯ ನೆರವು: ಜೋಶಿ](https://www.prajavani.net/district/dharwad/central-government-drought-relief-assistance-karnataka-pralhad-joshi-4307651)
 - [ಎಸ್‌ಐಆರ್‌ ರದ್ದತಿಗೆ ಆಗ್ರಹಿಸಿ ಬೀದಿಗಿಳಿಯಿರಿ: ಪ್ರಕಾಶ್‌ ರಾಜ್‌](https://www.prajavani.net/district/dharwad/prakash-raj-protest-call-dharwad-electoral-roll-revision-4307650)
 - [ಹುಸಿ ಬಾಂಬ್‌ ಕರೆ: ಮಾಜಿ ಉದ್ಯೋಗಿ ಬಂಧನ](https://www.prajavani.net/district/mysuru/mysuru-hoax-bomb-call-former-employee-arrested-4307634)
 - [ನಗರದಲ್ಲಿ ಇಂದು: ಬೆಂಗಳೂರು ನಗರದ ಇಂದಿನ ಕಾರ್ಯಕ್ರಮಗಳು](https://www.prajavani.net/district/bengaluru-city/bengaluru-city-events-literary-cultural-educational-programs-today-4307793)
 - [ಮತದಾನದ ಹಕ್ಕು ಕಸಿದುಕೊಳ್ಳುವುದು ಸಂವಿಧಾನದ ಉಲ್ಲಂಘನೆ: ಭುಯಾನ್](https://www.prajavani.net/news/india-news/supreme-court-justice-ujjal-bhuyan-on-voting-rights-and-constitution-4307893)
 - [‘ಪೊಲೀಸರಿಂದ ಲೈಂಗಿಕ ಕಿರುಕುಳ’](https://www.prajavani.net/news/india-news/delhi-police-sexual-harassment-allegation-journalists-protest-4307709)
 - [ಮಹಿಳಾ ಚೆಸ್ ಬಾನಂಗಳದ ನವತಾರೆ](https://www.prajavani.net/sports/other-sports/savitha-shri-bhaskar-indian-women-chess-star-olympiad-gold-4307878)
-- [ಮಾತು ಬಾರದ, ಕಿವಿ ಕೇಳದ ಪುತ್ರಿ ಮೇಲೆ ತಂದೆ ಅತ್ಯಾಚಾರ: ಆರೋಪಿ ಬಂಧನ](https://www.prajavani.net/district/bangaluru-rural/ramanagara-father-arrested-pocso-act-assault-on-disabled-daughter-4307856)
-- [ಹಾಲಿನ ಪುಡಿ ಕಲಬೆರಕೆ ಪ್ರಕರಣ: ಮನ್‌ಮುಲ್‌ ಮಾಜಿ ಅಧ್ಯಕ್ಷ ಶಿವಪ್ಪ ಬಂಧನ](https://www.prajavani.net/news/karnataka-news/manmul-former-chairman-shivakumar-arrested-milk-powder-adulteration-case-4307841)
-- [ಕಾಡಾನೆ ಹಾವಳಿ ತಡೆಗೆ ಎಐ ಫೆನ್ಸಿಂಗ್: ಕೇರಳಂನಲ್ಲಿ ಯಶಸ್ಸು ಕಂಡ ಯೋಜನೆ](https://www.prajavani.net/news/india-news/kerala-government-implements-ai-smart-fencing-to-prevent-human-elephant-conflict-4307814)
 
 **eedina**
 - [ಚಿಕ್ಕಮಗಳೂರು | ದೊಡ್ಡ ಗುಂಡಿಗಳನ್ನು ಮುಚ್ಚಿದ ಶಾಲಾ ಮಕ್ಕಳು](https://eedina.com/?p=769882)
@@ -149,12 +148,13 @@
 - [ಕಾರವಾರ | ಗ್ರಾಮ ಆಡಳಿತ ಅಧಿಕಾರಿ ಪರೀಕ್ಷೆ ಸುಸೂತ್ರ: ಒಟ್ಟು 11,671 ಅಭ್ಯರ್ಥಿಗಳು ಹಾಜರು](https://eedina.com/?p=769833)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Delhi (3.2)
 - Ukraine (2.9)
-- Jaishankar (2.9)
+- Jaishankar (2.6)
 - What (2.6)
 - West Bengal (2.0)
 - Supreme Court (2.0)
+- Delhi (1.9)
+- Kerala (1.6)
 - Russia (1.6)
 - Israel (1.6)
 - Punjab (1.6)
@@ -163,21 +163,20 @@
 - Constitution (1.3)
 - Faster (1.3)
 - Reform (1.3)
-- Russian (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ['मुझे लगा AI से बनी तस्वीर है...', चंबल रिवरफ्रंट देखकर हैरान हुए आनंद महिंद्रा, कोटा को लेकर कही बड़ी बात](https://navbharattimes.indiatimes.com/business/business-news/anand-mahindra-praises-kota-chambal-riverfront-rajasthan-tourism/articleshow/134672833.cms)
-- ['A Woman's Body Is Not Content': Khushbu Sundar Condemns AI-Morphed Video Of Janhvi Kapoor, Jr NTR From Devara](https://www.ndtv.com/entertainment/a-womans-body-is-not-content-khushbu-sundar-condemns-ai-morphed-video-of-janhvi-kapoor-jr-ntr-from-devara-12136943)
-- [ശിവാജി പാർക്കിൽ നിന്ന് ജന്തർ മന്തറിലേക്ക്: വോട്ടിന്റെ വിശ്വാസ്യതയെക്കുറിച്ച് ഇന്ത്യ ചോദിക്കുന്ന ചോദ്യങ്ങൾ](https://www.southlive.in/from-shivaji-park-to-jantar-mantar-questions-india-is-asking-about-the-credibility-of-the-vote/)
-- [ബിഗ് ബോസ് മലയാളം: വീട്ടിലെ കാര്യങ്ങളെല്ലാം സീക്രട്ട് റൂമിലിരുന്ന് കേട്ട് മൃദുലയും അഞ്ജലിയും](https://www.asianetnews.com/entertainment-news/bigg-boss-malayalam-season-8-mridula-vijai-and-anjali-secret-room-articleshow-88qyshr)
-- [মুম্বই ছাড়লেন ইয়ামী ও আদিত‍্য ধর! পাহাড়ের বুকে চাষের জমি ঘেরা বাড়িতে কেন চলে গেলেন তারকাদম্পতি?](https://www.anandabazar.com/entertainment/yami-gautam-and-aditya-dhar-left-mumbai-and-shifted-to-himachal-pradesh-permanently-dgtl/cid/1717364)
-- [इलेक्ट्रिक सेगमेंट में बड़ा उलटफेर, टॉप-5 से बाहर हुई मारुति सुजुकी](https://www.aajtak.in/auto/news/story/top-selling-electric-car-brands-september-2026-tata-mahindra-mg-kia-vinfast-auam-dskc-2661075-2026-10-04)
-- [Latest Breaking News From India, Delhi, Mumbai & Around the World](https://indianexpress.com/article/india/today-india-breaking-news-live-updates-04-october-2026-vhp-alok-kumar-ram-mandir-donation-row-sit-probe-gst-arrest-powers-asian-games-10905794/)
-- [નડિયાદમાં ₹3.70 કરોડના સોનાની લૂંટનો ભેદ વિરમગામ પોલીસે ઉકેલ્યો: PI 500 મીટર સુધી ઢસડાયા છતાં 4 આરોપીને ઝડપી પાડ્યા](https://www.gujaratsamachar.com/news/kheda/viramgam-police-solves-indian-rupee370-crore-gold-robbery-in-nadiad-4-accused-nabbed-despite-pi-being-dragged-for-500-meters-67550114039)
-- [Bhogi Teaser: భోగి టీజర్ రివ్యూ, శర్వానంద్ మాస్ ట్రాన్స్ఫర్మేషన్..కెరీర్‌లో తొలిసారి వణుకు](https://telugu.asianetnews.com/gallery/entertainment/sharwanand-bhogi-movie-teaser-out-now-cgdh76h)
-- [Latest Marathi News Live Update : धुळ्यात महसूलमंत्री बावनकुळेंनी अधिकाऱ्याची शेतातच घेतली ‘शाळा’](https://www.esakal.com/maharashtra/latest-marathi-news-live-today-04-october-2026-uddhav-and-raj-thackeray-protest-shiv-sena-mns-against-chief-election-commissioner-gyanesh-kumar-mpsc-protest-weather-update-imd-kolhapur-gokul-election-tukaram-mundhe-fda-actions-pm-narendra-modi-amit-shah-rahul-gandhi-cm-devendra-fadnavis-mpsc-exam-gold-rate-mumbai-pune-traffic-update-bam92-ymk86)
+- [உலகச் சாதனைகளைப் படைத்த ஆசிய விளையாட்டுப் போட்டிகள்](https://www.tamilmurasu.com.sg/sports/asian-games-created-world-records)
+- [ज्ञानेश कुमार के ख़िलाफ़ एक साथ आए उद्धव और राज ठाकरे, मुंबई में कैसा रहा प्रोटेस्ट](https://www.bbc.com/hindi/articles/cwp9g5zvj840o)
+- [‘কী বলা উচিত নয়, সেটা শিখি’, জেলে যাওয়ার ভয় পান? তরুণ কমেডিয়ানদের নিয়ে কপিলের মজার জবাব](https://bengali.indianexpress.com/entertainment/sidharth-malhotra-tamannaah-bhatia-praise-kapil-sharma-comedy-12621806)
+- [India's Nuclear Punch: Atom Bombs Backed By Long-Range Missiles](https://www.ndtv.com/india-news/indias-nuclear-punch-atom-bombs-backed-by-long-range-missiles-12137029)
+- [Durga Puja 2026: আজ থেকেই পুজো শুরু, ৩ দিন পাঁঠাবলির রীতি রামপুরহাটের চাঁদপাড়া গ্রামে](https://bangla.asianetnews.com/religion/durga-puja-2026-starts-sunday-chandpara-village-rampurhat-birbhum-anbsg/articleshow-hw8u3et)
+- [चीन खुद को एक अनोखा देश मानता है, अमेरिका जान-बूझकर पड़ा अकेला; एस जयशंकर का डायरेक्ट अटैक](https://navbharattimes.indiatimes.com/india/s-jaishankar-says-china-considers-itself-a-unique-nation-while-the-us-has-deliberately-isolated-itself/articleshow/134672938.cms)
+- [DLF’s The Aureva luxury project in Gurugram fully sold out, records ₹1,985 crore in sales](https://www.cnbctv18.com/market/stocks/dlf-share-price-the-aureva-luxury-project-in-gurugram-fully-sold-out-records-rs-1985-crore-in-sales-20004132.htm)
+- [లారీని ఢీకొట్టిన సైనికుడి మృతదేహాన్ని తరలిస్తున్న ఆర్మీ అంబులెన్స్‌.. జవాన్‌ కుమారుడు సహా నలుగురు మృతి](https://www.ntnews.com/national/army-ambulance-carrying-soldiers-body-crashes-into-truck-in-uttar-pradesh-4-killed-2527107)
+- [India is going ‘beyond advocacy’ on the Russia-Ukraine conflict: Jaishankar](https://www.thehindu.com/news/national/india-is-going-beyond-advocacy-on-the-russia-ukraine-conflict-jaishankar/article71543379.ece)
+- [একসময় প্রায় শেষ হতে বসেছিল সলমনের কেরিয়ার! ছোট পর্দার হাত ধরে কীভাবে ঘুরে দাঁড়ান ভাইজান?](https://www.thewall.in/entertainment/when-salman-khans-career-was-almost-over-how-television-helped-him-make-a-comeback/tid/206273)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
