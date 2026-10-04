@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-04 21:00:04
+# India Trending Report — 2026-10-04 21:32:57
 
 ## Google Trends (India) — top trending searches
-1. [earthquake](https://trends.google.com/trending/rss?geo=IN)
-2. [kristoffer ajer](https://trends.google.com/trending/rss?geo=IN)
-3. [joão cancelo](https://trends.google.com/trending/rss?geo=IN)
-4. [punjab fc](https://trends.google.com/trending/rss?geo=IN)
-5. [uditi singh](https://trends.google.com/trending/rss?geo=IN)
-6. [vivo v80 price](https://trends.google.com/trending/rss?geo=IN)
-7. [netherlands vs serbia](https://trends.google.com/trending/rss?geo=IN)
-8. [wales vs denmark](https://trends.google.com/trending/rss?geo=IN)
-9. [portugal vs norway](https://trends.google.com/trending/rss?geo=IN)
-10. [greece vs germany](https://trends.google.com/trending/rss?geo=IN)
+1. [gonçalo ramos](https://trends.google.com/trending/rss?geo=IN)
+2. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
+3. [erling haaland](https://trends.google.com/trending/rss?geo=IN)
+4. [earthquake](https://trends.google.com/trending/rss?geo=IN)
+5. [kristoffer ajer](https://trends.google.com/trending/rss?geo=IN)
+6. [joão cancelo](https://trends.google.com/trending/rss?geo=IN)
+7. [portugal national football team vs norway national football team stats](https://trends.google.com/trending/rss?geo=IN)
+8. [punjab fc](https://trends.google.com/trending/rss?geo=IN)
+9. [uditi singh](https://trends.google.com/trending/rss?geo=IN)
+10. [vivo v80 price](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Day 3, bigger showdown: CEC protest sparks clashes, detentions in Delhi](https://timesofindia.indiatimes.com/india/cec-protest-intensifies-in-delhi-aisa-aap-workers-detained-as-marches-hit-barricades/articleshow/134676192.cms)
+- [West Bengal: Laws in 6 months to end ‘land jihad’, ‘love jihad’, says CM Suvendu](https://timesofindia.indiatimes.com/city/kolkata/bengal-will-be-3rd-state-to-implement-ucc-says-suvendu/articleshow/134676488.cms)
 - [SIR strikes at heart of Constitution: Supreme Court judge Justice Ujjal Bhuyan](https://timesofindia.indiatimes.com/india/sir-strikes-at-heart-of-constitution-supreme-court-judge-justice-ujjal-bhuyan/articleshow/134680179.cms)
 - [Faster registration, easier refunds: Reform rollout with GST 2.0](https://timesofindia.indiatimes.com/business/india-business/faster-registration-easier-refunds-reform-rollout-with-gst-2-0/articleshow/134680227.cms)
+- [1 dead as Russian drones hit desi pharma plant in Ukraine](https://timesofindia.indiatimes.com/india/1-dead-as-russian-drones-hit-desi-pharma-plant-in-ukraine/articleshow/134680367.cms)
+- [EAM Jaishankar says US has chosen to become 'lonelier power'](https://timesofindia.indiatimes.com/india/external-affairs-minister-s-jaishankar-says-us-has-chosen-to-become-lonelier-power/articleshow/134680336.cms)
+- [Marc Benioff, wife gave $100M to UCSF; 5 years later, children’s hospital opened](https://timesofindia.indiatimes.com/technology/tech-news/in-2010-salesforce-ceo-marc-benioff-and-his-wife-gave-100-million-to-ucsf-five-years-later-its-new-san-francisco-childrens-hospital-opened-with-183-beds-and-a-rooftop-helipad/articleshow/134675617.cms)
+- [Day 3, bigger showdown: CEC protest sparks clashes, detentions in Delhi](https://timesofindia.indiatimes.com/india/cec-protest-intensifies-in-delhi-aisa-aap-workers-detained-as-marches-hit-barricades/articleshow/134676192.cms)
+- [Texas city to pay at least $175,000 over excess groundwater pumping at SpaceX site](https://timesofindia.indiatimes.com/world/us/a-texas-city-will-pay-at-least-175000-after-the-spacex-site-it-owns-pumped-128-million-gallons-of-groundwater-above-permitted-limits-over-three-years-the-settlement-includes-monitoring-payments-for-25-years/articleshow/134675511.cms)
 - ['Look Out Circular' against parents of man who secretly took away child to US](https://timesofindia.indiatimes.com/india/look-out-circular-against-parents-of-man-who-secretly-took-away-child-to-us/articleshow/134680302.cms)
 - [25p/kg wheat MSP hike an 'insult': Samyukta Kisan Morcha](https://timesofindia.indiatimes.com/india/25p/kg-wheat-msp-hike-an-insult-samyukta-kisan-morcha/articleshow/134680324.cms)
-- [Marc Benioff, wife gave $100M to UCSF; 5 years later, children’s hospital opened](https://timesofindia.indiatimes.com/technology/tech-news/in-2010-salesforce-ceo-marc-benioff-and-his-wife-gave-100-million-to-ucsf-five-years-later-its-new-san-francisco-childrens-hospital-opened-with-183-beds-and-a-rooftop-helipad/articleshow/134675617.cms)
-- [From India to Australia: How 6 countries got caught up in flydubai terror](https://timesofindia.indiatimes.com/world/middle-east/india-uae-saudi-israel-oman-and-australia-how-6-countries-got-caught-up-in-flydubai-terror/articleshow/134675881.cms)
-- [Texas city to pay at least $175,000 over excess groundwater pumping at SpaceX site](https://timesofindia.indiatimes.com/world/us/a-texas-city-will-pay-at-least-175000-after-the-spacex-site-it-owns-pumped-128-million-gallons-of-groundwater-above-permitted-limits-over-three-years-the-settlement-includes-monitoring-payments-for-25-years/articleshow/134675511.cms)
-- ['More involved': EAM confirms India has 'gone beyond advocacy' to end Ukraine war](https://timesofindia.indiatimes.com/india/little-bit-more-involved-jaishankar-says-india-has-gone-beyond-advocacy-to-end-russia-ukraine-war/articleshow/134678353.cms)
-- [UK: 2 teenagers jailed for 10 years for arson at Indian restaurant in London](https://timesofindia.indiatimes.com/world/uk/uk-2-teenagers-jailed-for-10-years-for-arson-at-indian-restaurant-in-london/articleshow/134679937.cms)
 
 **NDTV**
 - ['Vertical Roller Coaster': Expert Explains flydubai Flight's Sudden Plunge](https://www.ndtv.com/world-news/vertical-roller-coaster-expert-explains-flydubai-flights-sudden-plunge-12138441#publisher=newsstand)
@@ -126,14 +126,13 @@
 - [ಕೆನಡಾ ಪ್ರಜೆ ವಿಡಿಯೋ ವೈರಲ್ ಬೆನ್ನಲ್ಲೇ ಫುಟ್‌ಪಾತ್ ದುರಸ್ತಿ: ಜಿಬಿಎ ವಿರುದ್ಧ ಬೆಂಗಳೂರಿಗರು ಆಕ್ರೋಶ](https://tv9kannada.com/karnataka/bengaluru/footpath-repaired-after-canadian-nationals-video-goes-viral-bengaluru-residents-express-anger-at-gba-1246444.html)
 
 **Prajavani**
+- [ಮತದಾನದ ಹಕ್ಕು ಕಸಿದುಕೊಳ್ಳುವುದು ಸಂವಿಧಾನದ ಉಲ್ಲಂಘನೆ: ಭುಯಾನ್](https://www.prajavani.net/news/india-news/supreme-court-justice-ujjal-bhuyan-on-voting-rights-and-constitution-4307893)
 - [‘ಪೊಲೀಸರಿಂದ ಲೈಂಗಿಕ ಕಿರುಕುಳ’](https://www.prajavani.net/news/india-news/delhi-police-sexual-harassment-allegation-journalists-protest-4307709)
 - [ಮಹಿಳಾ ಚೆಸ್ ಬಾನಂಗಳದ ನವತಾರೆ](https://www.prajavani.net/sports/other-sports/savitha-shri-bhaskar-indian-women-chess-star-olympiad-gold-4307878)
 - [ಮಾತು ಬಾರದ, ಕಿವಿ ಕೇಳದ ಪುತ್ರಿ ಮೇಲೆ ತಂದೆ ಅತ್ಯಾಚಾರ: ಆರೋಪಿ ಬಂಧನ](https://www.prajavani.net/district/bangaluru-rural/ramanagara-father-arrested-pocso-act-assault-on-disabled-daughter-4307856)
 - [ಹಾಲಿನ ಪುಡಿ ಕಲಬೆರಕೆ ಪ್ರಕರಣ: ಮನ್‌ಮುಲ್‌ ಮಾಜಿ ಅಧ್ಯಕ್ಷ ಶಿವಪ್ಪ ಬಂಧನ](https://www.prajavani.net/news/karnataka-news/manmul-former-chairman-shivakumar-arrested-milk-powder-adulteration-case-4307841)
 - [ನಾಲ್ಕು ಉಳಿಯಿತು; ಸಾಧ್ಯವಾಗದ ಮೂರಂಕಿ](https://www.prajavani.net/sports/cricket/asian-games-india-medal-tally-fourth-position-performance-analysis-4307790)
 - [ಕಾಡಾನೆ ಹಾವಳಿ ತಡೆಗೆ ಎಐ ಫೆನ್ಸಿಂಗ್: ಕೇರಳಂನಲ್ಲಿ ಯಶಸ್ಸು ಕಂಡ ಯೋಜನೆ](https://www.prajavani.net/news/india-news/kerala-government-implements-ai-smart-fencing-to-prevent-human-elephant-conflict-4307814)
-- [ಬೆಂಗಳೂರು: ಮರಗಳ ಉಳಿವಿಗೆ ಅಪ್ಪಿಕೊ ಚಳವಳಿ](https://www.prajavani.net/district/bengaluru-city/appiko-movement-bangalore-hebbal-tunnel-road-tree-protest-4307810)
-- [ಅಡುಗೆ ಚೆನ್ನಾಗಿಲ್ಲ ಎಂಬ ಕಾರಣಕ್ಕೆ ಗಲಾಟೆ; ಬಡಗಿ ಕೊಂದ ಪೇಂಟರ್](https://www.prajavani.net/district/bengaluru-city/bangalore-painter-kills-carpenter-over-cooking-dispute-rr-nagar-4307742)
 
 **eedina**
 - [ಚಿಕ್ಕಮಗಳೂರು | ದೊಡ್ಡ ಗುಂಡಿಗಳನ್ನು ಮುಚ್ಚಿದ ಶಾಲಾ ಮಕ್ಕಳು](https://eedina.com/?p=769882)
@@ -149,34 +148,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - Delhi (3.2)
-- India (2.9)
 - Ukraine (2.9)
-- Indian (2.6)
-- Jaishankar (2.6)
+- Jaishankar (2.9)
 - What (2.6)
+- West Bengal (2.0)
 - Supreme Court (2.0)
 - Russia (1.6)
 - Israel (1.6)
 - Punjab (1.6)
 - Police (1.6)
-- years (1.5)
+- Laws (1.3)
 - Constitution (1.3)
 - Faster (1.3)
 - Reform (1.3)
+- Russian (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Tell us your tech picks and this Harry Potter quiz will sort you](https://www.yahoo.com/entertainment/articles/tell-us-tech-picks-harry-090000943.html)
-- [Koel Mallick becomes BJP’s pick for Rajya Sabha from West Bengal two months after TMC exit: Who is she?](https://www.hindustantimes.com/india-news/koel-mallick-bjp-candidate-for-rajya-sabha-from-west-bengal-two-months-after-tmc-exit-who-is-she-101791101856093.html)
-- [Mohun Bagan vs Punjab FC LIVE Streaming: IFA Shield সেমিফাইনাল কবে, কোথায় দেখবেন ম্যাচ? রইল লাইভ স্ট্রিমিংয়ের সব তথ্য](https://bengali.indianexpress.com/sports/mohun-bagan-vs-punjab-fc-ifa-shield-semifinal-live-streaming-12622131)
-- [Ashish Shelar:'ईव्‍हीएम'वर निवडून आलेल्या आदित्य ठाकरेंनी राजीनामा द्यावा : ठाकरे बंधूंच्या 'गर्जना' मोर्चानंतर भाजपचे आव्हान](https://pudhari.news/maharashtra/mumbai/ashish-shelar-attacks-thackeray-brothers-over-garjana-morcha-evm-row-nl76)
-- [‘സ്ഥാനം’ മാറിയില്ല, പക്ഷേ മെഡൽ കുറഞ്ഞു; ഹാട്രിക്കുമായി തിളങ്ങി 2 വനിതാ താരങ്ങൾ: ഇന്ത്യ @ ഏഷ്യൻ ഗെയിംസ് 2026](https://www.manoramaonline.com/sports/other-sports/2026/10/04/india-at-2026-asian-games-medal-tally-infographics.html)
-- [Entertainment: ਸੰਜੇ ਦੱਤ ਨੇ ਮੁੰਨਾਭਾਈ ਬਣ ਕੇ ਟਰੰਪ ਨੂੰ ਦਿੱਤੀ ਸਲਾਹ, ਕਿਹਾ- ਮਿਜ਼ਾਈਲਾਂ ਨਹੀਂ, ਪਿਆਰ ਐਕਸਪੋਰਟ ਕਰੋ](https://wishavwarta.in/entertainment-sanjay-dutt-gives-advice-to-trump-in-munna-bhai-style/)
-- [फ्रांस में तबाही मचा रहे प्रदर्शनकारी छात्र, 15 साल के लड़के ने महिला के मुंह में लगाई आग, वामपंथी पार्टी की साजिश?](https://navbharattimes.indiatimes.com/world/rest-of-europe/france-high-school-protests-student-violence-over-400-schools-closed-what-to-know-so-far/articleshow/134672140.cms)
-- [വീണ്ടും യുവിയുടെ സിക്സർ ‘ആറാട്ട്; ഓസീസിനെ തകർത്ത് ഇന്ത്യൻ ലെജൻഡ്സ്, മിന്നി യൂസഫ് പഠാനും- വിഡിയോ](https://www.manoramaonline.com/sports/cricket/2026/10/04/india-dominates-australia-in-legends-championship-opener-yuvraj-singh-half-century.html)
-- [తెలంగాణ డెవలప్‌మెంట్ ఆడిట్: దక్షిణ తెలంగాణ అనుకూలతలేంటి? ఈ ప్రాంత ముఖచిత్రాన్ని మార్చడానికి ఏం చేయాలి..?](https://telugu.samayam.com/guest-column/south-telangana-development-audit-part-2-how-palamuru-region-will-grow/articleshow/134671877.cms)
-- [અમદાવાદમાં થાર ચાલક 'રાવણ'નો આતંક: તોડફોડ અને આગચંપીથી લોકોમાં ડરનો માહોલ](https://gujarati.abplive.com/news/ahmedabad/akash-thakor-arrested-for-vandalism-in-thaltej-area-ahmedabad-992586)
+- [‘হিন্দু ধর্ম ও সংস্কৃতির উপর আঘাত বরদাস্ত করব না’, আলিপুরের অনুষ্ঠান থেকে বার্তা মুখ্যমন্ত্রীর](https://bengali.indianexpress.com/west-bengal/west-bengal-cm-hindu-religion-culture-alipore-event-durga-puja-mahalaya-amit-shah-12622205)
+- [Rashmika | విజయ్‌ దేవరకొండలో అది అస్సలు నచ్చదు.. రష్మిక కామెంట్స్ వైర‌ల్‌](https://www.ntnews.com/news/rashmika-stunning-comments-on-vijay-2527076)
+- [ബ്രസീൽ താരത്തെ നിഷ്പ്രഭമാക്കി സഹലിന്റെ മുന്നേറ്റം, വീഡിയോ വൈറൽ](https://www.mathrubhumi.com/sports/football/india-vs-brazil-football-match-sahal-abdul-samad-nutmeg-u8t3wz34)
+- [డీమార్ట్‌కు 3 నెలల్లో రూ.19,206 కోట్ల ఆదాయం.. కొత్త స్టోర్లతో జోరు.. ఫోకస్‌లోకి అవెన్యూ సూపర్ మార్ట్స్ షేరు!](https://telugu.samayam.com/business/business-news/dmart-avenue-supermarts-q2-business-update-revenue-store-count-growth-telugu/articleshow/134672598.cms)
+- [இயக்குனர் சிங்கீதம் சீனிவாச ராவ் மறைவு: திரையுலகினர் இரங்கல்](https://cinema.dinamalar.com/news/kollywood/director-singeetham-srinivasa-rao-passes-away-cine-celebriti/141282)
+- [GSTમાં ફેરફારના એંધાણ! ટેક્સ અધિકારીઓની ધરપકડ કરવાની સત્તા છીનવાશે? 07 ઓક્ટોબરે મોટો નિર્ણય](https://www.gujaratsamachar.com/news/business/Govt-Considers-Ending-Tax-Officers-Direct-Arrest-Powers-in-Major-GST-Law-Overhaul-83174673501)
+- [અમેરિકન બૉન્ડ યીલ્ડની ગેમ : ભારતીય શૅરબજાર પર તેની શું અસર થઈ?](https://www.bbc.com/gujarati/articles/ck1l35ldv7g2o)
+- [प्राइवेट बगीचा-लकड़ी का इंटीरियर! हिमाचल की हसीन वादियों में 100 साल पुराने घर में पति संग बसी एक्ट्रेस?](https://www.aajtak.in/entertainment/bollywood-news/photo/yami-gautam-aditya-dhar-moved-himachal-pradesh-100-years-old-home-private-organic-garden-wooden-interior-photos-tmovf-2661046-2026-10-04)
+- [CJP പ്രതിഷേധത്തിനിടെ പൊലീസുകാരിൽ നിന്ന് ലൈം​ഗികാതിക്രമം നേരിട്ടതായി വനിതാ മാദ്ധ്യമപ്രവർത്തകർ ; ക്രൈംബ്രാഞ്ച് അന്വേഷിക്കും](https://malayalam.news18.com/news/india/female-journalists-allege-sexual-harassment-by-cops-crime-branch-to-investigate-sbs-ws-l-790939.html)
+- [Vijay Devarakonda: డిజిటల్ రూపంలో జరిగే లైంగిక దాడితో సమానం](https://www.chitrajyothy.com/2026/tollywood/vijay-devarakond-reaction-on-devara-ai-song-avm-75973.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
