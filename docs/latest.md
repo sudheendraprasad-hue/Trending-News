@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-05 23:02:15
+# India Trending Report — 2026-10-05 23:34:48
 
 ## Google Trends (India) — top trending searches
-1. [ubse utet answer key](https://trends.google.com/trending/rss?geo=IN)
-2. [daniel maldini](https://trends.google.com/trending/rss?geo=IN)
-3. [honda xr300l](https://trends.google.com/trending/rss?geo=IN)
-4. [british airways flight ba295](https://trends.google.com/trending/rss?geo=IN)
-5. [east bengal fc ifa shield](https://trends.google.com/trending/rss?geo=IN)
-6. [romania vs sweden](https://trends.google.com/trending/rss?geo=IN)
-7. [bosnia and herzegovina vs poland](https://trends.google.com/trending/rss?geo=IN)
-8. [italy vs türkiye](https://trends.google.com/trending/rss?geo=IN)
-9. [france vs belgium](https://trends.google.com/trending/rss?geo=IN)
-10. [vijay deverakonda](https://trends.google.com/trending/rss?geo=IN)
+1. [zee5](https://trends.google.com/trending/rss?geo=IN)
+2. [राशन कार्ड](https://trends.google.com/trending/rss?geo=IN)
+3. [सूर्यकुमार यादव](https://trends.google.com/trending/rss?geo=IN)
+4. [earthquake near me](https://trends.google.com/trending/rss?geo=IN)
+5. [earthquake today](https://trends.google.com/trending/rss?geo=IN)
+6. [ubse utet answer key](https://trends.google.com/trending/rss?geo=IN)
+7. [daniel maldini](https://trends.google.com/trending/rss?geo=IN)
+8. [honda xr300l](https://trends.google.com/trending/rss?geo=IN)
+9. [british airways flight ba295](https://trends.google.com/trending/rss?geo=IN)
+10. [east bengal fc ifa shield](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
 - [Mission Shakti: How India’s 2019 anti-sat missile test in space caught US off guard](https://timesofindia.indiatimes.com/defence/news/when-indias-anti-satellite-missile-test-in-space-in-2019-caught-us-intelligence-agencies-off-guard/articleshow/134716715.cms)
 - [SIR row: Will annul EC orders not in keeping with law, says Supreme Court](https://timesofindia.indiatimes.com/india/sir-row-will-annul-election-commission-orders-not-in-keeping-with-law-says-supreme-court/articleshow/134716812.cms)
 - [Pakistan, Saudi, Turkiye activate Mecca defence pact as Yemen war escalates](https://timesofindia.indiatimes.com/world/middle-east/pakistan-saudi-arabia-turkiye-activate-mecca-defence-pact-amid-houthi-attacks/articleshow/134716048.cms)
-- [India, Switzerland eye deeper ties in trade, investment, tech](https://timesofindia.indiatimes.com/india/india-switzerland-eye-deeper-ties-in-trade-investment-tech/articleshow/134716858.cms)
+- [Nepal ends flood search with over 5,000 still missing, including 189 Indians](https://timesofindia.indiatimes.com/world/south-asia/nepal-ends-flood-search-with-over-5000-still-missing-including-189-indians/articleshow/134720060.cms)
 - [Rajya Sabha polls: 8 fresh BJP faces for UP, Hardeep Puri among 2 ministers dropped](https://timesofindia.indiatimes.com/india/rajya-sabha-polls-8-fresh-bjp-faces-for-up-hardeep-puri-among-2-ministers-dropped/articleshow/134716837.cms)
 - [In 2009, Google’s Eric Schmidt bought a ship; by 2022, it mapped 1.3m sq km of seafloor](https://timesofindia.indiatimes.com/technology/tech-news/in-2009-googles-eric-schmidt-and-wife-wendy-bought-a-former-fisheries-ship-by-2022-the-vessel-offered-free-research-access-and-had-mapped-over-1-3-million-square-kilometres-of-seafloor/articleshow/134712878.cms)
-- [Only 15% going to work use public transport: NSO](https://timesofindia.indiatimes.com/india/only-15-going-to-work-use-public-transport-nso/articleshow/134719927.cms)
+- [India, Switzerland eye deeper ties in trade, investment, tech](https://timesofindia.indiatimes.com/india/india-switzerland-eye-deeper-ties-in-trade-investment-tech/articleshow/134716858.cms)
 - [Woman declares Rs 67.4L ancestral jewellery in ITR; gets notice, she wins in ITAT](https://timesofindia.indiatimes.com/business/india-business/woman-declared-rs-67-4-lakh-ancestral-jewellery-in-her-itr-which-led-to-additions-by-tax-department-itat-mumbai-deleted-it-on-basis-of-old-records-but-rejected-her-rs-12-lakh-huf-brokerage-claim/articleshow/134706982.cms)
-- [In a record, over 10,000 women clear JEE-Advanced](https://timesofindia.indiatimes.com/india/in-a-record-over-10000-women-clear-jee-advanced/articleshow/134719904.cms)
-- [Pahalgam handler rallies LeT support via anti-Israel rhetoric](https://timesofindia.indiatimes.com/india/pahalgam-handler-rallies-let-support-via-anti-israel-rhetoric/articleshow/134719896.cms)
+- [Supreme Court agreed to meet, then changed mind: ONOE panel chief](https://timesofindia.indiatimes.com/india/supreme-court-agreed-to-meet-then-changed-mind-onoe-panel-chief/articleshow/134720033.cms)
+- [Kheri case: UP changes PP; SC asks Allahabad HC CJ to decide on trial judge](https://timesofindia.indiatimes.com/india/lakhimpur-kheri-case-up-changes-public-prosecutor-supreme-court-asks-allahabad-high-court-judge-to-decide-on-trial-judge/articleshow/134720016.cms)
 
 **NDTV**
 - [Jeffrey Archer, UK Author And Former Conservative Politician, Dies At 86](https://www.ndtv.com/world-news/jeffrey-archer-uk-author-and-former-conservative-politician-dies-at-86-12143369#publisher=newsstand)
@@ -49,17 +49,7 @@
 - [Tripura: TIPRA Motha wins over 2000 seats in TTAADC village council polls](https://www.hindustantimes.com/india-news/tripura-tipra-motha-wins-over-2000-seats-in-ttaadc-village-council-polls-101791207776009.html)
 - [In a first, cheetahs to roam in tiger territory at Veerangana Durgavati Tiger Reserve](https://www.hindustantimes.com/india-news/in-a-first-cheetahs-to-roam-in-tiger-territory-at-veerangana-durgavati-tiger-reserve-101791206704079.html)
 
-**Vijay Karnataka**
-- [ಬೆಂಗಳೂರು ಸುತ್ತ 9 ಹೊಸ ಇಂಟಿಗ್ರೇಟೆಡ್ ಕೈಗಾರಿಕಾ ಟೌನ್ ಶಿಪ್ ನಿರ್ಮಾಣ; ನಮ್ಮ ಮೆಟ್ರೋ 313 KM ವಿಸ್ತರಣೆ: ಡಿಕೆ ಶಿವಕುಮಾರ್](https://vijaykarnataka.com/news/bengaluru-city/construction-of-9-new-integrated-industrial-townships-around-bengaluru-namma-metro-313-km-extension-dk-sivakumar/articleshow/134712207.cms)
-- [ವಾಲ್ಮೀಕಿ ಜಯಂತಿ ಸಾರ್ವತ್ರಿಕ ರಜೆ ದಿನಾಂಕ ಬದಲಾವಣೆ: ಅ. 26ಕ್ಕೆ ರಜೆ ಘೋಷಿಸಿ ರಾಜ್ಯ ಸರ್ಕಾರ ಆದೇಶ; ಸಿಗಲಿದೆ 3 ದಿನ ವಿರಾಮ!](https://vijaykarnataka.com/news/karnataka/change-in-date-of-valmiki-jayanti-public-holiday-karnataka-government-issues-order-declaring-october-26/articleshow/134706335.cms)
-- [WCL 2026- ಭಾರತ ತಂಡ ಕ್ಷಮೆಯಾಚಿಲೇ ಬೇಕೆಂದು ಪಟ್ಟು ಹಿಡಿದಿದ್ದ ಪಿಸಿಬಿಗೆ ಮುಖಭಂಗ; ಲೆಜೆಂಡ್ಸ್ ಕ್ರಿಕೆಟ್ ನಿಂದ ಹೊರನಡೆದ ಪಾಕ್](https://vijaykarnataka.com/sports/cricket/news/wcl-2026-pakistan-team-withdraws-from-the-legends-cricket-tournament/articleshow/134712993.cms)
-- [ಮೊಡವೆ ಕಡಿಮೆಯಾಗುತ್ತಿಲ್ಲವೇ? ನಿಮ್ಮ ದಿಂಬಿನ ಕವರ್, ಮೊಬೈಲ್‌ ಕೂಡ ಕಾರಣವಾಗಿರಬಹುದು!](https://vijaykarnataka.com/lifestyle/beauty/acne-causes-pillowcase-mobile-hair-products/articleshow/134713028.cms)
-- [Ranji Trophy 2026-27: ಸೂರ್ಯಕುಮಾರ್ ಯಾದವ್ ಈಗ ಮುಂಬೈ ತಂಡದಿಂದಲೂ ಔಟ್! ಆಯ್ಕೆದಾರರ ಸಮರ್ಥನೆ ಏನು?](https://vijaykarnataka.com/sports/cricket/news/suryakumar-yadav-drops-from-mumbai-ranji-team-also/articleshow/134712518.cms)
-- [ಕೂದಲೆಳೆ ಅಂತರದಲ್ಲಿ ಶಿವರಾಜ್‌ಕುಮಾರ್‌ ಬಚಾವ್‌: ಸಡನ್‌ ಆಗಿ ಸಿಡಿದ ಪಟಾಕಿ, ಕರುನಾಡ ಚಕ್ರವರ್ತಿ ಹೇಗಿದ್ದಾರೆ?](https://vijaykarnataka.com/entertainment/news/a-firecracker-accident-occurred-during-the-promotion-of-the-movie-jameenu-starring-shivarajkumar/articleshow/134716570.cms)
-- [ಶೂ ಬಾಕ್ಸ್‌ನಲ್ಲಿರುವ ಸಿಲಿಕಾ ಜೆಲ್ ಪ್ಯಾಕೆಟ್ ಎಸೆಯಬೇಡಿ; ಮನೆಯಲ್ಲೂ ಹೀಗೆ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/silica-gel-packets-shoe-box-home-uses/articleshow/134651205.cms)
-- [2026 Indira Ekadashi: ಶುಭ ಮುಹೂರ್ತ, ಪೂಜೆ ವಿಧಾನ, ಮಹತ್ವ ಮತ್ತು ಮಂತ್ರಗಳು.!](https://vijaykarnataka.com/religion/festivals/indira-ekadashi-2026-date-and-time-puja-procedures-importance-and-mantras/articleshow/134706852.cms)
-- [ಮನೆಯಲ್ಲಿ ಉಳಿದ ಇಡ್ಲಿ ಎಸೆಯಬೇಡಿ; ಹೀಗೆ ಮಾಡಿ ಮಸಾಲಾ ಇಡ್ಲಿ ಫ್ರೈ, ರುಚಿ ಸೂಪರ್!](https://vijaykarnataka.com/lifestyle/home-decor/masala-idli-fry-recipe-leftover-idli/articleshow/134697040.cms)
-- [ಕೂಡಲಸಂಗಮ ಬಳಿ ಅನ್ಯಕೋಮಿನ ಕುಟುಂಬದಿಂದ ಮಾಂಸ ಸೇವನೆ ಆರೋಪ; ವಿಡಿಯೋ ವೈರಲ್; ನೆಟ್ಟಿಗರ ಆಕ್ರೋಶ](https://vijaykarnataka.com/news/bagalkot/allegation-of-meat-consumption-by-a-family-near-kudalasangama-video-goes-viral/articleshow/134711903.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
 - [‘Draft reservation list for polls to rural local bodies ready’](https://www.thehindu.com/news/national/karnataka/draft-reservation-list-for-polls-to-rural-local-bodies-ready/article71548468.ece)
@@ -146,12 +136,12 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - Delhi (3.5)
+- Supreme Court (3.0)
 - India (2.9)
 - Switzerland (2.6)
 - Woman (2.6)
 - Mayawati (2.6)
 - Fire (2.6)
-- Supreme Court (2.0)
 - PM Modi (2.0)
 - CEC Gyanesh Kumar (2.0)
 - Yemen (1.9)
@@ -164,16 +154,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Maharashtra Weather Tomorrow (उद्याचे हवामान): ऑक्टोबर हिटचा कडाका अन् विजांच्या कडकडाटासह पाऊस! हवामान विभागाचा 'या' जिल्ह्यांना अलर्ट](https://marathi.timesnownews.com/maharashtra/maharashtra-weather-forecast-tomorrow-06-october-2026-rain-alert-in-konkan-and-western-maharashtra-amid-rising-heat-article-156278101)
-- [9 महीने में ही ₹1 करोड़ का फायदा, दनादन पैसे छाप रहा यह शेयर](https://www.livehindustan.com/business/trending-stock-sterlite-technologies-share-delivered-huge-return-201791196810044.html)
-- [விஜய் ரோடுஷோவுக்கு பல மடங்கு செலவு; தவெக வேட்பாளர்கள் மீது தேர்தல் ஆணையத்தில் புகார்](https://www.dinakaran.com/news/cmvijay-roadshow-tvkcandidates-electioncommission/)
-- [দেড় লক্ষ টাকা বাজেটে Oben Rorr EVO হতে পারে আপনার সঙ্গী](https://eisamay.com/auto-news/oben-rorr-evo-under-1-lac-50-thousand-could-be-a-best-option/200551419.cms)
-- [पायलट स्मितला संपवून 9/11 स्टाईल हल्ल्याचा कट; प्लान B अन् C देखील तयार; तपासातून महत्त्वाचा उलगडा](https://maharashtratimes.com/international/international-news/flydubai-cockpit-attack-omani-co-pilot-planned-crash-into-israel-skyscraper-had-two-back-up-plans/articleshow/134699642.cms)
-- ['Backlash Really Affected Me': Anant Joshi To NDTV On Replacing Vaibhav Raj Gupta In Gullak 5](https://www.ndtv.com/entertainment/backlash-really-affected-me-anant-joshi-to-ndtv-on-replacing-vaibhav-raj-gupta-in-gullak-5-12140773)
-- [மதுராந்தகம், தாராபுரம் இடைத்தேர்தல்: நாளை வாக்குப்பதிவு](https://www.tamilmurasu.com.sg/tamilnadu/maduranthakam-dharapuram-election-polling-tomorrow)
-- [SpiceJet Receives Rs 150 Crore ECLGS 5.0 Disbursement; FIA Seeks Faster Disbursement Of Airline Credit](https://www.ndtvprofit.com/business/spicejet-receives-rs-150-crore-eclgs-5-0-disbursement-fia-seeks-faster-disbursement-of-airline-credit-12140758)
-- [Pak mulls emergency rule in PTI-ruled KP, Imran's party marches to test Islamabad](https://www.indiatoday.in/world/story/pakistan-news-pti-long-march-governor-rule-khyber-pakhtunkhwa-state-of-emergency-islamabad-itspc-3009793-2026-10-05)
-- [SEBI to partly reverse CAS rules after pushback, says report](https://www.moneycontrol.com/news/business/markets/sebi-to-partly-reverse-cas-rules-after-pushback-says-report-14044908.html)
+- [GOLD LOAN : அடி தூள்.! நகைக் கடன் வாங்கப்போறீங்களா- இனி ஒரு கிராமிற்கு இவ்வளவு பணமா - வெளியான சூப்பர் அறிவிப்பு](https://tamil.abplive.com/news/tamil-nadu/cooperative-bank-jewel-loan-per-gram-loan-amount-upto-rs-10000-75-percent-market-value-276490)
+- [अजय देवगन ने दी टॉम क्रूज और ब्रैड पिट को टक्कर, 'दृश्यम 3' ने की इन हॉलीवुड फिल्मों से ज्यादा कमाई](https://www.livehindustan.com/entertainment/bollywood/ajay-devgn-drishyam-3-beat-globally-tom-cruise-brad-pitt-movie-digger-and-heart-of-the-beast-201791199151797.html)
+- [నా జీవితంలో ఒక ప్రేమకథ ఉంది...కానీ బ్రేకప్‌ అయింది..](https://www.eenadu.net/telugu-news/movies/we-were-in-love-for-one-and-half-year-jason-sanjay-on-how-his-only-relationship-before-sigma-ended/0201/126180458)
+- [கூட்டுறவு வங்கிகளில் தங்க நகைக் கடன் உச்சவரம்பு உயர்வு: கிராமுக்கு இனி ரூ.10,000 வரை பெறலாம்](https://www.etvbharat.com/ta/state/cooperative-banks-gold-jewel-loan-ceiling-increased-to-rs-10000-as-before-it-was-rs-7000-tns26100504878)
+- [Schools Blocked, Riots Spread Across France](https://indianexpress.com/article/world/france-student-protests-high-school-blockades-clashes-emmanuel-macron-government-10906377/)
+- [‘Is 140/90 a normal blood pressure reading at age 60?’](https://indianexpress.com/article/lifestyle/health/is-140-90-a-normal-blood-pressure-reading-at-age-60-10899291/)
+- [Airports In Bengal: পশ্চিমবঙ্গে চালু হবে ৪ নতুন বিমানবন্দর! কোন কোন জায়গা থেকে উড়বে বিমান, দেখে নিন](https://bengali.news18.com/photogallery/kolkata/four-new-airports-to-open-in-west-bengal-check-out-the-locations-and-all-details-here-ank-2918361.html)
+- [ശ്രീലേഖ പാർട്ടിയെ സമ്മർദത്തിലാക്കാറില്ല; രാജി പ്രഖ്യാപനത്തിന്റെ കാരണം വ്യക്തമാക്കി ബിജെപി സംസ്ഥാന സെക്രട്ടറി](https://www.manoramaonline.com/news/latest-news/2026/10/05/r-sreelalekha-resignation-withdrawal-bjp-thiruvananthapuram-corporation-councillor-support.html)
+- [Modified Form 6 | ‘ఫారం 6’ సవరణలకు సుప్రీంకోర్టు ఆమోదం లేదు: ప్రధాన న్యాయమూర్తి సూర్య కాంత్](https://www.ntnews.com/national/modified-form-6-not-approved-by-supreme-court-says-chief-justice-surya-kant-2527883)
+- [SBIలో రూ.1 లక్ష ఫిక్స్‌డ్ డిపాజిట్ చేస్తే.. 1, 3, 5, 10 ఏళ్లలో చేతికి ఎంత వస్తుంది? లెక్కలు ఇవే!](https://telugu.samayam.com/business/business-news/sbi-fd-calculator-rs-1-lakh-fixed-deposit-returns-in-1-3-5-10-years/articleshow/134702285.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
