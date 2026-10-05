@@ -1,24 +1,24 @@
-# India Trending Report — 2026-10-05 00:47:44
+# India Trending Report — 2026-10-05 01:06:22
 
 ## Google Trends (India) — top trending searches
-1. [ഡോണള്ഡ് ട്രംപ്](https://trends.google.com/trending/rss?geo=IN)
-2. [మద్దతు ధర](https://trends.google.com/trending/rss?geo=IN)
-3. [संजय दत्त](https://trends.google.com/trending/rss?geo=IN)
-4. [costa rica vs haiti](https://trends.google.com/trending/rss?geo=IN)
-5. [பேருந்து](https://trends.google.com/trending/rss?geo=IN)
-6. [వార్త](https://trends.google.com/trending/rss?geo=IN)
-7. [protest](https://trends.google.com/trending/rss?geo=IN)
-8. [वर्षा](https://trends.google.com/trending/rss?geo=IN)
-9. [trinidad and tobago vs curaçao](https://trends.google.com/trending/rss?geo=IN)
-10. [टीवीएस मोटर कंपनी](https://trends.google.com/trending/rss?geo=IN)
+1. [punjab police constable](https://trends.google.com/trending/rss?geo=IN)
+2. [ekadashi kab hai](https://trends.google.com/trending/rss?geo=IN)
+3. [ഡോണള്ഡ് ട്രംപ്](https://trends.google.com/trending/rss?geo=IN)
+4. [మద్దతు ధర](https://trends.google.com/trending/rss?geo=IN)
+5. [संजय दत्त](https://trends.google.com/trending/rss?geo=IN)
+6. [costa rica vs haiti](https://trends.google.com/trending/rss?geo=IN)
+7. [பேருந்து](https://trends.google.com/trending/rss?geo=IN)
+8. [వార్త](https://trends.google.com/trending/rss?geo=IN)
+9. [protest](https://trends.google.com/trending/rss?geo=IN)
+10. [वर्षा](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Flydubai co-pilot allegedly tried to crash plane after hijack attempt failed](https://timesofindia.indiatimes.com/world/middle-east/flydubai-flight-incident-omani-co-pilot-may-have-tried-to-cut-engines-after-cockpit-attack/articleshow/134683005.cms)
+- [The other side of Sept 30: How a family waited anxiously to see their injured son](https://timesofindia.indiatimes.com/city/mumbai/the-other-side-of-sept-30-a-family-waited-anxiously-for-their-son-captain-smit-machchhar/articleshow/134679408.cms)
 - [Faster registration, easier refunds: Reform rollout with GST 2.0](https://timesofindia.indiatimes.com/business/india-business/faster-registration-easier-refunds-reform-rollout-with-gst-2-0/articleshow/134680227.cms)
+- [Flydubai co-pilot allegedly tried to crash plane after hijack attempt failed](https://timesofindia.indiatimes.com/world/middle-east/flydubai-flight-incident-omani-co-pilot-may-have-tried-to-cut-engines-after-cockpit-attack/articleshow/134683005.cms)
 - [SIR strikes at heart of Constitution: Supreme Court judge Justice Ujjal Bhuyan](https://timesofindia.indiatimes.com/india/sir-strikes-at-heart-of-constitution-supreme-court-judge-justice-ujjal-bhuyan/articleshow/134680179.cms)
 - [US withdraws all bombers from UK's Fairford base after suspected terror plot](https://timesofindia.indiatimes.com/world/us/re-deployed-to-their-home-stations-us-withdraws-all-bombers-from-uks-raf-fairford-after-suspected-terror-plot/articleshow/134680412.cms)
-- [Other side of Sept 30: A family waited anxiously for their son — Capt Smit Machchhar](https://timesofindia.indiatimes.com/city/mumbai/the-other-side-of-sept-30-a-family-waited-anxiously-for-their-son-captain-smit-machchhar/articleshow/134679408.cms)
 - [Marc Benioff, wife gave $100M to UCSF; 5 years later, children’s hospital opened](https://timesofindia.indiatimes.com/technology/tech-news/in-2010-salesforce-ceo-marc-benioff-and-his-wife-gave-100-million-to-ucsf-five-years-later-its-new-san-francisco-childrens-hospital-opened-with-183-beds-and-a-rooftop-helipad/articleshow/134675617.cms)
 - [RBI may end rate-cut cycle with first hike since February 2023](https://timesofindia.indiatimes.com/business/india-business/rbi-may-end-rate-cut-cycle-with-first-hike-since-february-2023/articleshow/134683147.cms)
 - [Texas city to pay at least $175,000 over excess groundwater pumping at SpaceX site](https://timesofindia.indiatimes.com/world/us/a-texas-city-will-pay-at-least-175000-after-the-spacex-site-it-owns-pumped-128-million-gallons-of-groundwater-above-permitted-limits-over-three-years-the-settlement-includes-monitoring-payments-for-25-years/articleshow/134675511.cms)
@@ -51,15 +51,15 @@
 
 **Vijay Karnataka**
 - [ಕರ್ನಾಟಕದ ಎ, ಬಿ ಗ್ರೇಡ್‌ ದೇವಾಲಯದ ಆಸ್ತಿ ದಾಖಲೀಕರಣಕ್ಕೆ ಮುಜರಾಯಿ ಇಲಾಖೆ ನಿರ್ಧಾರ; ದ.ಕದಲ್ಲಿ 249 ದೇವಳದ ಆಸ್ತಿಗೆ ಅಧಿಕೃತ ಮುದ್ರೆ!](https://vijaykarnataka.com/news/mangaluru/muzarai-department-orders-systematic-temple-asset-registration-of-a-and-b-grade-temples-in-karnataka/articleshow/134683247.cms)
+- [ಆರು ತಿಂಗಳಿಂದ ಪಡಿತರ ಪಡೆಯದ ಕಾರ್ಡ್ ರದ್ದು: 3 ತಿಂಗಳೊಳಗೆ ಕೆವೈಸಿ ಪೂರ್ಣಗೊಳಿಸಲು ಸೂಚನೆ](https://vijaykarnataka.com/news/kasaragod/ration-card-kyc-update-online-in-kasaragod-district/articleshow/134683306.cms)
 - [ಅಣೆಕಟ್ಟು ನೀರು ಕೃಷಿಗೆ ಬಳಸುವಂತಿಲ್ಲ: 1,200 ಅಣೆಕಟ್ಟುಗಳಲ್ಲಿ ನೀರಿದ್ದರೂ ಕರಾವಳಿ ಕೃಷಿಕರಲ್ಲಿ ಹಿಂಗಾರು ಬೆಳೆಗೆ ನೀರಿನ ಕೊರತೆ ಭೀತಿ!](https://vijaykarnataka.com/news/udupi/water-stored-in-1200-reservoirs-cant-be-used-for-agriculture-farmers-in-udupi-in-distress-about-water-scarcity/articleshow/134683156.cms)
-- [`ನೀವು ಪಾಕ್ ಗೆ ಬೆಂಬಲ ನೀಡಿದಾಗ ನಮ್ಮ ಜೊತೆ ನಿಂತದ್ದು ರಷ್ಯಾ ಮಾತ್ರ': ಪಾಶ್ಚಿಮಾತ್ಯ ದೇಶಗಳಿಗೆ ಜೈಶಂಕರ್ ಖಡಕ್ ರಿಪ್ಲೈ!](https://vijaykarnataka.com/news/india/jaishankars-sharp-reply-to-western-nations-that-only-russia-stood-with-us/articleshow/134676485.cms)
 - [ದಾಳಿಂಬೆ ತಿನ್ನುವುದರಿಂದ ಟೆಸ್ಟೋಸ್ಟೆರಾನ್ ಹೆಚ್ಚುತ್ತದೆಯೇ? ಪುರುಷರ ಆರೋಗ್ಯಕ್ಕೆ ಸಿಗುವ 5 ಪ್ರಮುಖ ಪ್ರಯೋಜನಗಳು](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/pomegranate-benefits-mens-health-testosterone/articleshow/134677183.cms)
-- [ಭಾರತದ ‘ನ್ಯೂಕ್ಲಿಯರ್ ಪಂಚ್’: ಶಕ್ತಿಯಿಂದ ಶಾಂತಿ, ಮೇಲೆ ಬಿದ್ದರೆ ಕ್ರಾಂತಿ! ದೂರವಾಯ್ತು ಚೀನಾ ಮತ್ತು ಪಾಕಿಸ್ತಾನದ ಭ್ರಾಂತಿ](https://vijaykarnataka.com/news/india/india-bolsters-nuclear-triad-with-190-warheads-and-expanded-deterrence-range-the-silent-shield-explained/articleshow/134673613.cms)
+- [`ನೀವು ಪಾಕ್ ಗೆ ಬೆಂಬಲ ನೀಡಿದಾಗ ನಮ್ಮ ಜೊತೆ ನಿಂತದ್ದು ರಷ್ಯಾ ಮಾತ್ರ': ಪಾಶ್ಚಿಮಾತ್ಯ ದೇಶಗಳಿಗೆ ಜೈಶಂಕರ್ ಖಡಕ್ ರಿಪ್ಲೈ!](https://vijaykarnataka.com/news/india/jaishankars-sharp-reply-to-western-nations-that-only-russia-stood-with-us/articleshow/134676485.cms)
 - [ʻಬಿಗ್‌ ಬಾಸ್‌ʼನಿಂದ ಲಿಖಿತ್‌ ಗೋಂದಿ ಔಟ್! ಗೆಳೆಯನಿಗಾಗಿ ಕಾದು ಕುಳಿತ ʻಮಾಡ್ರನ್‌ ಮಹಾಕವಿʼ ಮಂಜ](https://vijaykarnataka.com/tv/bigg-boss-kannada/likith-gondi-evicted-from-bigg-boss-kannada-13-this-week/articleshow/134678089.cms)
 - [ಅಲ್ಯೂಮಿನಿಯಂ vs ಸ್ಟೇನ್‌ಲೆಸ್ ಸ್ಟೀಲ್ ಪ್ರೆಶರ್ ಕುಕ್ಕರ್: ದಿನನಿತ್ಯದ ಅಡುಗೆಗೆ ಯಾವುದು ಉತ್ತಮ? ಇಲ್ಲಿದೆ ವ್ಯತ್ಯಾಸ](https://vijaykarnataka.com/lifestyle/home-decor/aluminum-vs-stainless-steel-pressure-cooker-daily-cooking/articleshow/134631268.cms)
 - [ಸೋಮವಾರ ಇಚ್ಛೆಯ ಉದ್ಯೋಗಕ್ಕಾಗಿ ಮಾಡಲಾಗುವ ಸರಳ ಆಚರಣೆ.!](https://vijaykarnataka.com/religion/pooja-vidhana/monday-things-to-do-to-get-your-desired-job/articleshow/134670742.cms)
 - [ನಿನ್ನೆ ರಾತ್ರಿ ನಡೆದ ಜಗಳ ಅಕ್ಕಪಕ್ಕದವರಿಗೆ ಹೇಗೆ ಗೊತ್ತು? ಈ 5 ಸೂಚನೆಗಳನ್ನು ಗಮನಿಸಿ!](https://vijaykarnataka.com/lifestyle/relationship/mother-in-law-gossip-signs-family-relationships/articleshow/134669762.cms)
-- [ರೋಹಿತ್ -ವಿರಾಟ್ ಮತ್ತೆ ಭಾರತ ಪರ ಕಣದಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುವುದು ಯಾವಾಗ? ಯಾವುದರಲ್ಲಿ ನೇರಪ್ರಸಾರ? ಇಲ್ಲಿದೆ ವಿವರ](https://vijaykarnataka.com/sports/cricket/news/when-will-rohit-sharma-and-virat-kohli-appear-on-field-for-india-again-where-can-watch-live/articleshow/134678562.cms)
+- [ಭಾರತದ ‘ನ್ಯೂಕ್ಲಿಯರ್ ಪಂಚ್’: ಶಕ್ತಿಯಿಂದ ಶಾಂತಿ, ಮೇಲೆ ಬಿದ್ದರೆ ಕ್ರಾಂತಿ! ದೂರವಾಯ್ತು ಚೀನಾ ಮತ್ತು ಪಾಕಿಸ್ತಾನದ ಭ್ರಾಂತಿ](https://vijaykarnataka.com/news/india/india-bolsters-nuclear-triad-with-190-warheads-and-expanded-deterrence-range-the-silent-shield-explained/articleshow/134673613.cms)
 
 **The Hindu**
 - [U.P. releases new sugarcane varieties eyeing increasing production](https://www.thehindu.com/news/national/uttar-pradesh/up-releases-new-sugarcane-varieties-eyeing-increasing-production/article71544504.ece)
@@ -100,6 +100,9 @@
 - [West Bengal | ಗೋವು ಕಳ್ಳತನದ ಶಂಕೆ: ಗುಂಪಿನಿಂದ ಥಳಿಸಿ ಇಬ್ಬರ ಹತ್ಯೆ](https://www.varthabharati.in/National/2-killed-van-torched-over-cattle-theft-suspicion-near-bengals-siliguri-2280281)
 
 **Asianet Kannada**
+- [Sandalwood: ಉಪೇಂದ್ರ 'ಎ' ಸಿನಿಮಾ ನಿರ್ಮಾಪಕ ಸಿಲ್ಕ್ ಮಂಜು ಆರೋಗ್ಯ ಗಂಭೀರ: ನೆರವಿಗೆ ಮೊರೆ](https://kannada.asianetnews.com/sandalwood/health-of-starring-upendra-s-a-movie-producer-silk-manju-is-critical-plea-for-help-mrq/articleshow-mo01ebc)
+- [ಅಕ್ಟೋಬರ್ 5ರ ರಾಶಿಫಲ: ಈ 3 ರಾಶಿಗೆ ಅದೃಷ್ಟದ ದಿನ, ಉದ್ಯೋಗ-ವ್ಯವಹಾರದಲ್ಲಿ ಸಿಗಲಿದೆ ಭರ್ಜರಿ ಯಶಸ್ಸು](https://kannada.asianetnews.com/daily-horoscope/today-horoscope-of-05-october-2026-suh/articleshow-ybgm66d)
+- [Bengaluru ಕೋಟಿ ಕೋಟಿ ಅನುದಾನವಿದ್ದರೂ ಮೈಸೂರು ರಸ್ತೆಯ ಈ ಸೇತುವೆಗೇಕೆ ಕಠೋರ ಶಾಪ?](https://kannada.asianetnews.com/bengaluru-urban/despite-receiving-rs-2000-crore-grant-from-the-world-bank-70-year-old-bridge-has-not-been-widened-mysuru-road-mrq/articleshow-9w0mkkw)
 - [Bengaluru: ಶೇ.43ರಷ್ಟು ಮುಂಗಾರು ಮಳೆ ಕೊರತೆ, ಬತ್ತಿದ ಕೆರೆಗಳು: ಕಾದಿದೆಯಾ ಜಲಕಂಟಕ?](https://kannada.asianetnews.com/bengaluru-urban/bengaluru-43-percent-deficit-in-monsoon-rainfall-lakes-run-dry-in-monsoon-mrq/articleshow-cdg9c0q)
 - [ಬೆಂಗಳೂರಿನ ಕೆರೆ ಏರಿ ಕಬಳಿಕೆ: 9 ವರ್ಷಗಳ ಹಿಂದಿನ ಪ್ರಕರಣದ ತನಿಖೆಗೆ ಹೈಕೋರ್ಟ್ ಆದೇಶ](https://kannada.asianetnews.com/bengaluru-urban/high-court-ordered-continuation-investigation-case-involving-creation-of-forged-documents-to-encroach-upon-lake-bund-mrq/articleshow-kron8hn)
 - [ನಕಲಿ ಔಷಧ ದಂಧೆ: ಟರ್ಕಿಯಿಂದ ಅಸಲಿ ಲೇಬಲ್ ತಂದು ಅಂಟಿಸಿ ಕೋಟ್ಯಂತರ ರೂಪಾಯಿ ವ್ಯವಹಾರ](https://kannada.asianetnews.com/bengaluru-urban/fake-medicine-racket-genuine-labels-brought-from-turkey-and-affixed-to-conduct-business-worth-crores-of-rupees-mrq/articleshow-llwt5s7)
@@ -107,13 +110,12 @@
 - [Stomach Ulcer: ಟೈಮ್‌ಗೆ ಸರಿಯಾಗಿ ಊಟ ಮಾಡದಿದ್ದರೆ ಅಲ್ಸರ್ ಬರುತ್ತಾ? ಸೀಕ್ರೆಟ್ ಮಾಹಿತಿ ಇಲ್ಲಿದೆ!](https://kannada.asianetnews.com/gallery/health-life/stomach-ulcer-symptoms-and-side-effects-of-skipping-meals-to-know-here-qu1ak3x)
 - [Fennel Seeds: ಊಟದ ಬಳಿಕ ಸ್ವಲ್ಪ ಸೋಂಪು ಕಾಳು ತಿಂದ್ರೆ ಬೆಟರ್ ಅನ್ಸುತ್ತೆ!](https://kannada.asianetnews.com/webstories/health-life/health-benefits-of-eating-fennel-seeds-after-meals-to-know-here-2zarc80)
 - ['ಹಿಂದಿ ಕಲಿತು ಬನ್ನಿ, ಇಲ್ಲದಿದ್ದರೆ ಗೇಟ್‌ಪಾಸ್' ಕರ್ನಾಟಕದಲ್ಲೇ ಕನ್ನಡ ನೌಕರರಿಗೆ ಹಿಂದಿವಾಲಾ ಧಮ್ಕಿ](https://kannada.asianetnews.com/bengaluru-urban/learn-hindi-or-leave-private-firm-manager-sparks-fury-in-karnataka-by-threatening-kannadigas/articleshow-7x70agn)
-- [Kids Brain Food: ಮಕ್ಕಳ ಬುದ್ಧಿಶಕ್ತಿ ಹೆಚ್ಚಿಸಲು ಈ 7 ಆಹಾರಗಳನ್ನು ತಪ್ಪದೇ ಕೊಡಿ](https://kannada.asianetnews.com/webstories/health-life/best-foods-for-kids-brain-development-and-memory-to-know-here-8x1i4di)
-- [Coriander: ಮಣ್ಣು, ಕುಂಡ ಎರಡೂ ಬೇಡ; ವೇಸ್ಟ್ ಪ್ಲಾಸ್ಟಿಕ್ ಬಾಟಲಿಯಲ್ಲೇ ಗೊಂಚಲು ಕೊತ್ತಂಬರಿ ಬೆಳೆಸಿ!](https://kannada.asianetnews.com/webstories/life/how-to-grow-coriander-at-home-in-a-plastic-bottle-without-soil-gvd-ieaqb8l)
-- [ಕಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾಪಾಡಲು ಈ 6 ಆಹಾರಗಳನ್ನು ತಿನ್ನಿ!](https://kannada.asianetnews.com/webstories/health-life/best-foods-to-improve-eye-health-and-vision-naturally-to-know-here-xqx4dg4)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [Horoscope Today: ಇಂದು ಈ ರಾಶಿಯವರು ಬೇಜವಾಬ್ದಾರಿತನದಿಂದ ದೂರವಿರಿ](https://tv9kannada.com/videos/horoscope-today-5th-october-2026-dr-basavaraj-gurujis-predictions-for-zodiac-signs-1246504.html)
+- [TV9 Kannada News Live Updates:  ಇಲಾಖಾವಾರು ರಿಪೋರ್ಟ್ ಪರಿಶೀಲಿಸಲಿರುವ ಸಿಎಂ ಡಿಕೆಶಿ](https://tv9kannada.com/karnataka/tv9-kannada-live-news-5-october-2026-karnataka-weather-cm-dk-shivakumar-bigg-boss-voter-list-verification-controversy-and-fly-dubai-attack-updates-1246500.html)
 - [ದಿನ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರು ಓಡಾಟವನ್ನು ಫಲಪ್ರದವನ್ನಾಗಿ ಮಾಡಿಕೊಳ್ಳುವರು…](https://tv9kannada.com/horoscope/horoscope-today-05-october-2026-daily-rashi-bhavishya-for-all-12-zodiac-signs-1246369.html)
 - [‘ಗಾಂಧಿಗಿರಿ’ ಭಾಷಣಕ್ಕೆ ಟೀಕೆ: ಸ್ಪಷ್ಟನೆ ಕೊಟ್ಟ ಸಂಜಯ್ ದತ್](https://tv9kannada.com/entertainment/bollywood/it-was-a-scripted-conversation-sanjay-dutt-clarifies-on-his-gandhigiri-speech-1246493.html)
 - [ಇದೇ ಸೀಸನ್​​ನಲ್ಲಿ ಸ್ಪರ್ಧಿಗಳಿಗೆ ಕಾದಿದೆ ಹಬ್ಬ: ಮೊದಲೇ ಎಚ್ಚರಿಸಿದ ಕಿಚ್ಚ](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-sudeep-give-warning-to-housemates-1246490.html)
@@ -122,19 +124,17 @@
 - [ಬೆಂಗಳೂರು ಏರ್‌‌ಪೋರ್ಟ್ ಟೋಲ್ ಟ್ರಾಫಿಕ್ ಕಿರಿಕಿರಿ: ತಮಿಳುನಾಡು ಮಾದರಿ ತಂತ್ರಜ್ಞಾನಕ್ಕೆ ಮೋಹನ್‌ದಾಸ್ ಪೈ ಆಗ್ರಹ!](https://tv9kannada.com/karnataka/bengaluru-rural/bengaluru-airport-traffic-pai-urges-gadkari-to-implement-mlff-toll-system-to-ease-kia-congestion-1246474.html)
 - [ರಿಷಬ್ ಶೆಟ್ಟಿ ಹೊಸ ಸಿನಿಮಾನಲ್ಲಿ ನಟಿಸಲು ನೂಕು ನುಗ್ಗಲು: ವಿಡಿಯೋ ನೋಡಿ](https://tv9kannada.com/videos/thousands-of-people-participated-in-rishab-shettys-new-movie-audition-1246478.html)
 - [ವೀರೇಂದ್ರ ಸೆಹ್ವಾಗ್ ಪುತ್ರ ಆರ್ಯವೀರ್​ಗೆ ಒಲಿದ ನಾಯಕತ್ವ..!](https://tv9kannada.com/sports/cricket-news/aryavir-sehwag-delhi-u19-captain-vinoo-mankad-trophy-1246475.html)
-- [6,6,6,6,6.. 39 ಎಸೆತಗಳಲ್ಲಿ 70 ರನ್‌ ಸಿಡಿಸಿದ ಎಬಿ ಡಿವಿಲಿಯರ್ಸ್..!](https://tv9kannada.com/sports/cricket-news/world-legends-2026-sa-vs-wi-de-villiers-70-levi-87-match-highlights-1246469.html)
-- [ಕೆನಡಾ ಪ್ರಜೆ ವಿಡಿಯೋ ವೈರಲ್ ಬೆನ್ನಲ್ಲೇ ಫುಟ್‌ಪಾತ್ ದುರಸ್ತಿ: ಜಿಬಿಎ ವಿರುದ್ಧ ಬೆಂಗಳೂರಿಗರು ಆಕ್ರೋಶ](https://tv9kannada.com/karnataka/bengaluru/footpath-repaired-after-canadian-nationals-video-goes-viral-bengaluru-residents-express-anger-at-gba-1246444.html)
 
 **Prajavani**
-- [ಮುಂಬೈನಲ್ಲಿ ವಿಪಕ್ಷಗಳ ಶಕ್ತಿ ಪ್ರದರ್ಶನ](https://www.prajavani.net/news/india-news/opposition-protest-mumbai-delhi-cec-resignation-demand-4307894)
-- [3.94 ಲಕ್ಷ ‘ಇತರೆ’ ಮತದಾರರು ಎಲ್ಲಿ?](https://www.prajavani.net/news/karnataka-news/missing-other-category-voters-in-karnataka-electoral-roll-discrepancy-4307669)
-- [ಸಿಂಗೀತಂ ಶ್ರೀನಿವಾಸ ರಾವ್: ಚಿತ್ರ ಪ್ರಯೋಗಶಾಲೆಯ ‘ಮೇಷ್ಟ್ರು’](https://www.prajavani.net/entertainment/cinema/singeetham-srinivasa-rao-experimental-cinema-master-career-profile-4307723)
-- [ದುರ್ಗೆಗೆ ಪೂಜೆ, ಯಶೋದೆಗೆ ಸಜೆ!](https://www.prajavani.net/op-ed/articles/political-debate-on-patriarchy-and-women-rights-in-india-4307598)
+- [ಆಳ– ಅಗಲ: ರಾಜಧಾನಿಯಲ್ಲಿ ರೌಡಿಗಳಿಗೆ ಇಲ್ಲ ಲಗಾಮು](https://www.prajavani.net/explainer/detail/bangalore-crime-rowdy-activities-increase-police-action-4307881)
+- [ಈ ದಿನದ ಪಂಚಾಂಗ: ಸೋಮವಾರ, 05 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/astro-vastu/panchanga/kannada-panchanga-monday-october-fifth-4307890)
+- [ವಾಚಕರ ವಾಣಿ: ಪ್ರಜಾವಾಣಿ ಓದುಗರ ಈ ದಿನದ ಪತ್ರಗಳು](https://www.prajavani.net/op-ed/readers-letter/prajavani-readers-forum-letters-phd-scams-farmers-protest-police-corruption-4307872)
 - [ಪೊಲೀಸ್ ವ್ಯವಸ್ಥೆ ಸುಧಾರಣೆಗೆ ಸಮಿತಿ ಉತ್ತರದಾಯಿತ್ವ ತರುವ ಕೆಲಸವಾಗಲಿ](https://www.prajavani.net/op-ed/editorial/karnataka-government-forms-committees-for-police-reforms-accountability-4306994)
 - [ನಡೆದುಕೊಂಡು ಹೋಗುತ್ತಿದ್ದ ವ್ಯಕ್ತಿಯ ಮೇಲೆ ದಾಳಿ ಮಾಡಿರುವುದು ಇದು ಸುಳ್ಳು](https://www.prajavani.net/news/fact-check/fact-check-fake-video-bangladesh-incident-misleading-claims-india-4307887)
 - [ಸುದ್ದಿ ಗುದ್ದು | ತಿಂಗಳೇಶ: ಸೋಮವಾರ, 05 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/suddi-guddu-tingalesha-october-edition-4307566)
-- [ವಾಚಕರ ವಾಣಿ: ಪ್ರಜಾವಾಣಿ ಓದುಗರ ಈ ದಿನದ ಪತ್ರಗಳು](https://www.prajavani.net/op-ed/readers-letter/prajavani-readers-forum-letters-phd-scams-farmers-protest-police-corruption-4307872)
-- [ದಿನ ಭವಿಷ್ಯ: ಔದ್ಯೋಗಿಕ ಜೀವನದಲ್ಲಿ ಬದಲಾವಣೆ](https://www.prajavani.net/astro-vastu/horoscope/daily-horoscope-career-changes-october-4307889)
+- [ಸಾಯೊನಾರಾ ನಾಗೋಯಾ..](https://www.prajavani.net/sports/other-sports/nagoya-asian-games-closing-ceremony-doha-host-4307714)
+- [ಗುಲಾಬಿ ಮಾರ್ಗ: ಎರಡನೇ ವಾರ ಮೆಟ್ರೊ ಸಂಚಾರ](https://www.prajavani.net/district/bengaluru-city/bengaluru-namma-metro-pink-line-safety-inspection-cmrs-4307827)
+- [25 ವರ್ಷಗಳ ಹಿಂದೆ | ರಷ್ಯಾ ವಿಮಾನ ಸ್ಫೋಟ: 77 ಮಂದಿ ಕಪ್ಪು ಸಮುದ್ರಕ್ಕೆ](https://www.prajavani.net/op-ed/prajavani-archive/russia-plane-crash-black-sea-anniversary-4307577)
 - [‘ಎಪಿಎಂಸಿ’ಗಳು ರೈತಸ್ನೇಹಿಗಳಲ್ಲ, ಯಾಕೆ?](https://www.prajavani.net/op-ed/opinion/why-apmc-is-not-farmer-friendly-reasons-for-failure-4307573)
 
 **eedina**
@@ -153,6 +153,7 @@
 - India (2.6)
 - Jaishankar (2.6)
 - What (2.6)
+- Bengaluru (2.6)
 - Supreme Court (2.0)
 - Delhi (1.9)
 - Russia (1.6)
@@ -160,25 +161,24 @@
 - Israel (1.6)
 - Punjab (1.6)
 - Police (1.6)
-- Flydubai (1.3)
+- Sept (1.3)
 - Faster (1.3)
 - Reform (1.3)
-- Constitution (1.3)
-- Other (1.3)
+- Flydubai (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [ചർച്ച പരാജയം; വനിതാ മാധ്യമപ്രവര്‍ത്തകരുടെ ലൈംഗികാതിക്രമ പരാതിയില്‍ കേസെടുക്കാതെ ഡല്‍ഹി പൊലീസ്](https://www.mediaoneonline.com/india/cjp-protests-against-acp-bhagat-over-sexual-harrasment-claims-339310)
+- [ശ്രീലേഖ പറയുന്നത് നാക്കെടുത്താൽ കള്ളം മാത്രം! ബിജെപി പ്രവേശന നീക്കം ലേലം വിളി പോലെ: വി. ശിവൻകുട്ടി](https://www.expresskerala.com/news/everything-sreelekha-says-is-a-lie-her-move-to-join-the-bjp-is-like-an-auction-v-sivankutty.html)
+- [এশিয়ান গেমসে সোনাজয়ী ঝাড়খণ্ডের চার কন্যাকে রাঁচিতে উষ্ণ অভ্যর্থনা](https://jagarantripura.com/2026/10/04/asian-games-gold-medalists-from-jharkhand-return-home-get-warm-welcome-at-ranchi-airport/)
+- [Global Impact and Clinical Risks](https://www.emjreviews.com/oncology/news/infection-related-cancers-cause-one-in-eight-cases-globally/)
+- [പാകിസ്ഥാൻ ഹണി ട്രാപ്പിൽ കുടുങ്ങി തന്ത്രപ്രധാന വിവരങ്ങൾ ചോർത്തി നൽകിയ ഇന്ത്യൻ നാവികസേന ഉദ്യോഗസ്ഥൻ അറസ്റ്റിൽ](https://malayalam.news18.com/news/india/indian-navy-officer-arrested-for-leaking-strategic-information-after-being-ensnared-in-a-pakistani-honey-trap-nkn-ws-l-790979.html)
+- [Hundreds, including Neha, woman journalist who alleged sexual harassment by cop, detained as Delhi protest demanding Gyanesh Kumar’s removal enters third day](https://www.thehindu.com/news/cities/Delhi/aisa-neha-detained-jantar-mantar-protest-cec-removal/article71543780.ece)
+- [ফের উত্তেজনা SRFTI-তে, গেটে ধাক্কা বিক্ষোভকারীদের, ইটের আঘাতে জখম অধ্যাপক](https://bangla.aajtak.in/kolkata/story/srfti-protest-turns-violent-in-kolkata-professor-injured-prb-1458707-2026-10-04)
+- [Ind A vs Aus A: फिर चोटिल होकर बाहर हुए हार्दिक पंड्या, धांसू ऑलराउंडर की हुई टीम में एंट्री!](https://www.aajtak.in/sports/cricket/story/india-a-squad-for-3-one-dayers-against-australia-a-suryansh-shedge-replaces-hardik-pandya-aksp-dskc-2661242-2026-10-04)
 - [কোমলের হুমকির পরেই রণংদেহি রাখি! ‘স্বামী চোর’ তকমা দিয়ে বললেন, ‘আমার ল্যাজে পা দিও না’](https://www.thewall.in/entertainment/rakhi-sawant-slams-komal-rani-swarnakar-govinda-affair-controversy/tid/206297)
 - [Trump announces 'Super Intelligence Force' with top US officials to lead AI push](https://www.moneycontrol.com/world/trump-announces-super-intelligence-force-with-top-us-officials-to-lead-ai-push-article-14044240.html)
-- [दिल्ली प्रोटेस्ट: हिरासत में ली गईं नेहा बोरा रिहा, महिला पत्रकारों के ख़िलाफ़ यौन हिंसा के आरोप को लेकर सीजेपी का प्रदर्शन](https://www.bbc.com/hindi/articles/cv0ldwz425l9o)
-- [Bigger than industrial revolution: Trump announces Super Intelligence Force](https://www.indiatoday.in/world/us-news/story/donald-trump-super-intelligence-force-us-advanced-ai-efforts-3009351-2026-10-04)
-- [Trump announces 'Super Intelligence Force' to keep US ahead in AI race](https://timesofindia.indiatimes.com/world/us/trump-announces-super-intelligence-force-to-keep-us-ahead-in-ai-race/articleshow/134675211.cms)
-- [Tamil News Live: இன்றைய முக்கிய செய்திகள்- 4 அக்டோபர் 2026](https://www.maalaimalar.com/news/tamilnadu/today-news-in-tamil-live-updates-4-october-2026)
-- ['वो पायलट की हत्या कर रहा है, कोई बचाओ', FLYDubai फ्लाइट में सवार महिला ने बताई आंखोदेखी](https://www.aajtak.in/world/story/flydubai-cockpit-violence-mother-who-noticed-recalls-terrible-moments-ntc-drmt-dskc-2661235-2026-10-04)
-- [એપ્રિલ-સપ્ટેમ્બરમાં UPI ટ્રાન્ઝેક્શન 27% વધ્યા, 177 લાખ કરોડને પાર, જાણો 15 ઓક્ટોબરથી લાગુ થતા નવા નિયમો](https://gujarati.moneycontrol.com/news/your-money/upi-transactions-increased-by-27-percent-in-april-september-crossed-rs-177-lakh-crore-2052335.html)
-- [കാമുകിക്കൊപ്പം മൊമോ ഡേറ്റിനിറങ്ങിയ ഭർത്താവിനെ കാറിന്റെ ബോണറ്റിൽ തൂങ്ങിക്കിടന്നു പൊക്കി ഭാര്യ](https://malayalam.news18.com/news/india/meerut-wife-catches-husband-with-girlfriend-mm-790977.html)
-- [इंडिया गेट पर मार्च: सौरभ भारद्वाज को उठाकर ले गई दिल्ली पुलिस, वीडियो वायरल होने पर भड़के केजरीवाल](https://www.jagran.com/delhi/new-delhi-city-saurabh-bhardwaj-hung-upside-down-by-delhi-police-kejriwal-reacts-40394292.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
