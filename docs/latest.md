@@ -1,7 +1,7 @@
-# India Trending Report — 2026-10-05 02:03:00
+# India Trending Report — 2026-10-05 02:39:14
 
 ## Google Trends (India) — top trending searches
-1. [வானிலை](https://trends.google.com/trending/rss?geo=IN)
+1. [bhutan vs myanmar](https://trends.google.com/trending/rss?geo=IN)
 2. [bahrain vs thailand](https://trends.google.com/trending/rss?geo=IN)
 3. [nba](https://trends.google.com/trending/rss?geo=IN)
 4. [punjab police constable](https://trends.google.com/trending/rss?geo=IN)
@@ -14,16 +14,16 @@
 
 ## Latest headlines by outlet
 **Times of India**
+- [SIR strikes at heart of Constitution: Supreme Court judge Ujjal Bhuyan](https://timesofindia.indiatimes.com/india/sir-strikes-at-heart-of-constitution-supreme-court-judge-justice-ujjal-bhuyan/articleshow/134680179.cms)
 - [Flydubai cockpit attack: How a family waited anxiously to see their injured son](https://timesofindia.indiatimes.com/city/mumbai/the-other-side-of-sept-30-a-family-waited-anxiously-for-their-son-captain-smit-machchhar/articleshow/134679408.cms)
-- [SIR strikes at heart of Constitution: Supreme Court judge Justice Ujjal Bhuyan](https://timesofindia.indiatimes.com/india/sir-strikes-at-heart-of-constitution-supreme-court-judge-justice-ujjal-bhuyan/articleshow/134680179.cms)
 - [Faster registration, easier refunds: Reform rollout with GST 2.0](https://timesofindia.indiatimes.com/business/india-business/faster-registration-easier-refunds-reform-rollout-with-gst-2-0/articleshow/134680227.cms)
 - ['I had fever': R Praggnanandhaa after double medals at Chess Olympiad | Exclusive](https://timesofindia.indiatimes.com/sports/chess/i-had-fever-was-not-high-on-energy-r-praggnanandhaa-after-double-medals-at-chess-olympiad-exclusive/articleshow/134683498.cms)
 - [Flydubai co-pilot allegedly tried to crash plane after hijack attempt failed](https://timesofindia.indiatimes.com/world/middle-east/flydubai-flight-incident-omani-co-pilot-may-have-tried-to-cut-engines-after-cockpit-attack/articleshow/134683005.cms)
-- [Marc Benioff, wife gave $100M to UCSF; 5 years later, children’s hospital opened](https://timesofindia.indiatimes.com/technology/tech-news/in-2010-salesforce-ceo-marc-benioff-and-his-wife-gave-100-million-to-ucsf-five-years-later-its-new-san-francisco-childrens-hospital-opened-with-183-beds-and-a-rooftop-helipad/articleshow/134675617.cms)
-- [Brazil election: Lula, Flavio Bolsonaro head to runoff after tight first-round vote](https://timesofindia.indiatimes.com/world/rest-of-world/brazil-election-lula-flavio-bolsonaro-head-to-runoff-after-tight-first-round-vote/articleshow/134683419.cms)
+- [Apple changes Mac OS after complaints over Meta’s AI agent accessing private data](https://timesofindia.indiatimes.com/technology/tech-news/apple-is-making-changes-to-its-os-for-macs-after-users-complain-about-metas-ai-agent-muse-accessing-their-private-data/articleshow/134683856.cms)
+- [Saudi-backed govt launches military drive to retake Houthi-held territory](https://timesofindia.indiatimes.com/world/middle-east/all-out-war-in-yemen-saudi-backed-govt-launches-military-drive-to-retake-houthi-held-territory/articleshow/134683528.cms)
 - [Texas city to pay at least $175,000 over excess groundwater pumping at SpaceX site](https://timesofindia.indiatimes.com/world/us/a-texas-city-will-pay-at-least-175000-after-the-spacex-site-it-owns-pumped-128-million-gallons-of-groundwater-above-permitted-limits-over-three-years-the-settlement-includes-monitoring-payments-for-25-years/articleshow/134675511.cms)
-- [US withdraws all bombers from UK's Fairford base after suspected terror plot](https://timesofindia.indiatimes.com/world/us/re-deployed-to-their-home-stations-us-withdraws-all-bombers-from-uks-raf-fairford-after-suspected-terror-plot/articleshow/134680412.cms)
-- [RBI may end rate-cut cycle with first hike since February 2023](https://timesofindia.indiatimes.com/business/india-business/rbi-may-end-rate-cut-cycle-with-first-hike-since-february-2023/articleshow/134683147.cms)
+- [Oil prices ease slightly as G7 and Middle East crude supplies set to hit market](https://timesofindia.indiatimes.com/business/international-business/oil-prices-ease-slightly-as-g7-and-middle-east-crude-supplies-set-to-hit-market/articleshow/134683679.cms)
+- [Brazil election: Lula, Flavio Bolsonaro head to runoff after tight first-round vote](https://timesofindia.indiatimes.com/world/rest-of-world/brazil-election-lula-flavio-bolsonaro-head-to-runoff-after-tight-first-round-vote/articleshow/134683419.cms)
 
 **NDTV**
 - ['Vertical Roller Coaster': Expert Explains flydubai Flight's Sudden Plunge](https://www.ndtv.com/world-news/vertical-roller-coaster-expert-explains-flydubai-flights-sudden-plunge-12138441#publisher=newsstand)
@@ -38,28 +38,28 @@
 - [Cross-Border Arms Network Busted In Punjab, AK-47, Grenades Seized](https://www.ndtv.com/india-news/cross-border-arms-network-busted-in-punjab-ak-47-grenades-seized-12138320#publisher=newsstand)
 
 **Hindustan Times**
+- [The push for rooftop power, and the high-rise hurdle](https://www.hindustantimes.com/india-news/the-push-for-rooftop-power-and-the-high-rise-hurdle-101791137771951.html)
+- [Govt panel to study AI-copyright hasn’t met since June; second working paper delayed](https://www.hindustantimes.com/india-news/govt-panel-to-study-ai-copyright-hasn-t-met-since-june-second-working-paper-delayed-101791137410402.html)
+- [DGCA to carry out final airline audits this week ahead of US aviation body checks](https://www.hindustantimes.com/india-news/dgca-to-carry-out-final-airline-audits-this-week-ahead-of-us-aviation-body-checks-101791164339588.html)
+- [Sugar prices down but govt remains cautious, keeps close watch on market](https://www.hindustantimes.com/india-news/sugar-prices-down-but-govt-remains-cautious-keeps-close-watch-on-market-101791165497817.html)
 - [Infighting strains NDA, INDIA bloc ahead of Bihar MLC polls](https://www.hindustantimes.com/india-news/infighting-strains-nda-india-bloc-ahead-of-bihar-mlc-polls-jdu-rjd-congress-rlm-jan-suraaj-101791164443360.html)
 - [‘No permission taken’: Mumbai police files FIR against organisers of Thackerays' ‘Garjana Morcha’ march](https://www.hindustantimes.com/india-news/no-permission-taken-mumbai-police-files-fir-against-organisers-of-thackerays-garjana-morcha-march-101791162342823.html)
 - [Extreme heat putting pregnant women, newborns at risk, says UN climate chief](https://www.hindustantimes.com/india-news/extreme-heat-putting-pregnant-women-newborns-at-risk-says-un-climate-chief-101791163937974.html)
 - [Capital punishment only possible if reformation of convict is ruled out: Supreme Court](https://www.hindustantimes.com/india-news/capital-punishment-only-possible-if-reformation-of-convict-is-ruled-out-supreme-court-101791160857359.html)
 - [From the edge of extinction, two captive-bred Great Indian Bustards released into wild in Rajasthan](https://www.hindustantimes.com/india-news/from-the-edge-of-extinction-two-captive-bred-great-indian-bustards-released-into-wild-in-rajasthan-101791157226498.html)
 - [Election Commission likely to hold special revision of voter rolls ahead of UP assembly elections](https://www.hindustantimes.com/india-news/election-commission-likely-to-hold-special-revision-of-voter-rolls-ahead-of-up-assembly-elections-101791143288421.html)
-- [As peace prevails, security camp in Abujhmad turns into tribal hostel](https://www.hindustantimes.com/india-news/as-peace-prevails-security-camp-in-abujhmad-turns-into-tribal-hostel-101791139061972.html)
-- [Bihar: Gandak recedes, 7 engineers suspended over flood response negligence](https://www.hindustantimes.com/india-news/bihar-gandak-recedes-7-engineers-suspended-over-flood-response-negligence-101791139003204.html)
-- [AISA says Neha Bora picked up by cops in ‘private vehicle’, Delhi Police deny claim](https://www.hindustantimes.com/india-news/aisa-says-neha-bora-picked-up-by-cops-in-private-vehicle-delhi-top-cop-denies-claim-101791123574074.html)
-- [IIT Delhi scholar dies at AIIMS 46 days after he was found unconscious at rented house; abetment of suicide case registered](https://www.hindustantimes.com/india-news/iit-delhi-scholar-dies-at-aiims-46-days-after-he-was-found-unconscious-at-rented-house-abetment-of-suicide-case-registered-101791125270324.html)
 
 **Vijay Karnataka**
+- [ಕೈಕೊಟ್ಟ ಮುಂಗಾರಿನಿಂದ ಬೆಂಗಳೂರು ದಕ್ಷಿಣ ಜಿಲ್ಲೆಯಲ್ಲಿ ಬರೋಬ್ಬರಿ 511 ಕೋಟಿ ಬೆಳೆ ನಷ್ಟ! ಹೇಗಿದೆ ಜಿಲ್ಲೆಯ ಬರದ ಚಿತ್ರಣ?](https://vijaykarnataka.com/news/ramanagara/511-crore-crop-loss-in-bengaluru-south-district-due-to-drought-farmers-in-distress-waiting-for-52cr-insurance/articleshow/134683488.cms)
 - [ಬೆಂಗಳೂರು ಶೀಘ್ರದಲ್ಲೇ 'ಭಿಕ್ಷಾಟನೆ ಮುಕ್ತ' ನಗರ: ಭಿಕ್ಷುಕರ ರಕ್ಷಣೆ, ಪುನರ್ವಸತಿಗೆ ಸರ್ಕಾರದ ಕ್ರಮ ಏನು?](https://vijaykarnataka.com/news/bengaluru-city/beggars-problems-in-bengaluru-what-is-the-government-action/articleshow/134683464.cms)
 - [ಪ್ರಯಾಣಿಕರ ಗಮನಕ್ಕೆ: ಇಂದಿನಿಂದ(ಅ.05) ರೇಸ್‌ಕೋರ್ಸ್‌ ರಸ್ತೆಯಲ್ಲಿ 60 ದಿನ ವಾಹನ ಸಂಚಾರ ನಿರ್ಬಂಧ! ಪರ್ಯಾಯ ಮಾರ್ಗದ ಲಿಸ್ಟ್‌ ಇಲ್ಲಿದೆ..](https://vijaykarnataka.com/news/bengaluru-city/racecourse-road-traffic-diversion-from-oct-5-until-next-60-day-alternative-routes-list-here/articleshow/134683334.cms)
-- [ಕರ್ನಾಟಕದ ಎ, ಬಿ ಗ್ರೇಡ್‌ ದೇವಾಲಯದ ಆಸ್ತಿ ದಾಖಲೀಕರಣಕ್ಕೆ ಮುಜರಾಯಿ ಇಲಾಖೆ ನಿರ್ಧಾರ; ದ.ಕದಲ್ಲಿ 249 ದೇವಳದ ಆಸ್ತಿಗೆ ಅಧಿಕೃತ ಮುದ್ರೆ!](https://vijaykarnataka.com/news/mangaluru/muzarai-department-orders-systematic-temple-asset-registration-of-a-and-b-grade-temples-in-karnataka/articleshow/134683247.cms)
 - [ದಾಳಿಂಬೆ ತಿನ್ನುವುದರಿಂದ ಟೆಸ್ಟೋಸ್ಟೆರಾನ್ ಹೆಚ್ಚುತ್ತದೆಯೇ? ಪುರುಷರ ಆರೋಗ್ಯಕ್ಕೆ ಸಿಗುವ 5 ಪ್ರಮುಖ ಪ್ರಯೋಜನಗಳು](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/pomegranate-benefits-mens-health-testosterone/articleshow/134677183.cms)
-- [ಆರು ತಿಂಗಳಿಂದ ಪಡಿತರ ಪಡೆಯದ ಕಾರ್ಡ್ ರದ್ದು: 3 ತಿಂಗಳೊಳಗೆ ಕೆವೈಸಿ ಪೂರ್ಣಗೊಳಿಸಲು ಸೂಚನೆ](https://vijaykarnataka.com/news/kasaragod/ration-card-kyc-update-online-in-kasaragod-district/articleshow/134683306.cms)
+- [ಕರ್ನಾಟಕದ ಎ, ಬಿ ಗ್ರೇಡ್‌ ದೇವಾಲಯದ ಆಸ್ತಿ ದಾಖಲೀಕರಣಕ್ಕೆ ಮುಜರಾಯಿ ಇಲಾಖೆ ನಿರ್ಧಾರ; ದ.ಕದಲ್ಲಿ 249 ದೇವಳದ ಆಸ್ತಿಗೆ ಅಧಿಕೃತ ಮುದ್ರೆ!](https://vijaykarnataka.com/news/mangaluru/muzarai-department-orders-systematic-temple-asset-registration-of-a-and-b-grade-temples-in-karnataka/articleshow/134683247.cms)
 - [ʻಬಿಗ್‌ ಬಾಸ್‌ʼನಿಂದ ಔಟ್‌ ಆದ ಲಿಖಿತ್‌ ಗೋಂದಿಗೆ ಸಿಕ್ಕ ಬಹುಮಾನ ಹಣ ಎಷ್ಟು?](https://vijaykarnataka.com/tv/bigg-boss-kannada/likith-gondi-evicted-from-bigg-boss-kannada-13-wins-cash-prize/articleshow/134683499.cms)
 - [ಅಲ್ಯೂಮಿನಿಯಂ vs ಸ್ಟೇನ್‌ಲೆಸ್ ಸ್ಟೀಲ್ ಪ್ರೆಶರ್ ಕುಕ್ಕರ್: ದಿನನಿತ್ಯದ ಅಡುಗೆಗೆ ಯಾವುದು ಉತ್ತಮ? ಇಲ್ಲಿದೆ ವ್ಯತ್ಯಾಸ](https://vijaykarnataka.com/lifestyle/home-decor/aluminum-vs-stainless-steel-pressure-cooker-daily-cooking/articleshow/134631268.cms)
 - [ವಾರದ 7 ದಿನ ದೀಪ ಹಚ್ಚುವಾಗ ಬಳಸಬೇಕಾದ ವಸ್ತುಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/things-to-add-to-the-diya-according-to-the-day-of-the-week/articleshow/134678915.cms)
 - [ನಿನ್ನೆ ರಾತ್ರಿ ನಡೆದ ಜಗಳ ಅಕ್ಕಪಕ್ಕದವರಿಗೆ ಹೇಗೆ ಗೊತ್ತು? ಈ 5 ಸೂಚನೆಗಳನ್ನು ಗಮನಿಸಿ!](https://vijaykarnataka.com/lifestyle/relationship/mother-in-law-gossip-signs-family-relationships/articleshow/134669762.cms)
-- [ಅಣೆಕಟ್ಟು ನೀರು ಕೃಷಿಗೆ ಬಳಸುವಂತಿಲ್ಲ: 1,200 ಅಣೆಕಟ್ಟುಗಳಲ್ಲಿ ನೀರಿದ್ದರೂ ಕರಾವಳಿ ಕೃಷಿಕರಲ್ಲಿ ಹಿಂಗಾರು ಬೆಳೆಗೆ ನೀರಿನ ಕೊರತೆ ಭೀತಿ!](https://vijaykarnataka.com/news/udupi/water-stored-in-1200-reservoirs-cant-be-used-for-agriculture-farmers-in-udupi-in-distress-about-water-scarcity/articleshow/134683156.cms)
+- [ಆರು ತಿಂಗಳಿಂದ ಪಡಿತರ ಪಡೆಯದ ಕಾರ್ಡ್ ರದ್ದು: 3 ತಿಂಗಳೊಳಗೆ ಕೆವೈಸಿ ಪೂರ್ಣಗೊಳಿಸಲು ಸೂಚನೆ](https://vijaykarnataka.com/news/kasaragod/ration-card-kyc-update-online-in-kasaragod-district/articleshow/134683306.cms)
 
 **The Hindu**
 - [Man, two grandchildren drown in agricultural pond in Chickballapur](https://www.thehindu.com/news/national/karnataka/man-two-grandchildren-drown-in-agricultural-pond-in-chickballapur/article71543310.ece)
@@ -74,6 +74,7 @@
 - [Central teams continue visits to drought-hit areas](https://www.thehindu.com/news/national/karnataka/central-teams-continue-visits-to-drought-hit-areas/article71544446.ece)
 
 **Livemint**
+- [US removes B-1 bombers from UK base over Iran ‘terror plot’, expert exposes ‘vulnerabilities’: What we know so far](https://www.livemint.com/news/us-news/us-removes-b-1-bombers-from-uk-base-over-iran-terror-plot-expert-exposes-vulnerabilities-what-we-know-so-far-11791166905339.html)
 - [Petrol and diesel prices today, October 5: Check fuel cost in Delhi, Mumbai, Bengaluru](https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-5-check-fuel-cost-in-delhi-mumbai-bengaluru-11791162475833.html)
 - [Iran war news LIVE Updates: Araghchi warns of ‘stronger’ response against renewed military action; 'US shares proposal'](https://www.livemint.com/news/us-news/iran-war-news-live-updates-araghchi-strait-of-hormuz-us-peace-proposal-renewed-military-action-yemen-houthis-operation-11791162582222.html)
 - [Pentagon Redeploys Bombers From UK Base at Center of Terror Plot](https://www.livemint.com/news/world/pentagon-redeploys-bombers-from-uk-base-at-center-of-terror-plot-11791151617575.html)
@@ -83,7 +84,6 @@
 - [SIR voter list: Form 6, 7, 8 or 9? Which form to use for Aadhaar, address change, name deletion](https://www.livemint.com/news/india/sir-voter-list-form-6-7-8-or-9-which-form-to-use-for-aadhaar-address-change-name-deletion-11791136733634.html)
 - [UK family transforms 1980s home into mini power station and secures five years without energy bills](https://www.livemint.com/news/trends/uk-family-transforms-1980s-home-into-mini-power-station-and-secures-five-years-without-energy-bills-11791128776223.html)
 - [Who are 'Gen Next Mumbai'? Why did they protest against Abhijeet Dipke and CJP amid Shivaji Park protest?](https://www.livemint.com/news/india/who-are-gen-next-mumbai-why-did-they-protest-against-abhijeet-dipke-and-cjp-amid-shivaji-park-protest-11791132018891.html)
-- [FSSAI flags Everest cumin powder as unsafe, orders immediate market recall: What food analyst report found](https://www.livemint.com/news/india/fssai-flags-everest-cumin-powder-as-unsafe-orders-immediate-market-recall-what-food-analyst-report-found-11791132343201.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -110,42 +110,42 @@
 - [West Bengal | ಗೋವು ಕಳ್ಳತನದ ಶಂಕೆ: ಗುಂಪಿನಿಂದ ಥಳಿಸಿ ಇಬ್ಬರ ಹತ್ಯೆ](https://www.varthabharati.in/National/2-killed-van-torched-over-cattle-theft-suspicion-near-bengals-siliguri-2280281)
 
 **Asianet Kannada**
+- [ಕ್ವಿಂಟಾಲ್ ಬೀಜ ಹಾಕೀನಿ, ಮೇಲಕ್ಕೆದ್ದಿಲ್ಲ ನೋಡಿ ಸೇಂಗಾ; ನೀವು ಕೊಡೋ ಪರಿಹಾರ ಬೀಜಕ್ಕೂ ಸಾಕಾಗಲ್ಲ-ರೈತರ ಕಣ್ಣೀರು!](https://kannada.asianetnews.com/karnataka-districts/central-drought-study-team-visits-hiriyur-challakere-farmers-express-distress-sat/articleshow-rkbos41)
+- [ವೈಟ್ ಟಾಪಿಂಗ್, ಒಳಚರಂಡಿ ಕಾಮಗಾರಿ: ಬೆಂಗಳೂರಿನ ಪ್ರಮುಖ ರಸ್ತೆ 60 ದಿನ ಬಂದ್; ಪರ್ಯಾಯ ಮಾರ್ಗ](https://kannada.asianetnews.com/bengaluru-urban/race-course-road-and-maurya-junction-vehicular-traffic-prohibited-on-this-route-for-the-next-60-days-mrq/articleshow-r8q9oky)
+- [2000 ಬಡವರಿಗೆ ನಿವೇಶನ ಹಂಚಿಕೆ: ವಾಸ ಸ್ಥಳದ ದಾಖಲೆ ಹಂಚಲು ಮನೆ ಬಾಗಿಲಿಗೆ ಹೋದ ಶಾಸಕ ರಮೇಶ್ ಬಂಡಿಸಿದ್ದೇಗೌಡ!](https://kannada.asianetnews.com/karnataka-districts/srirangapatna-mla-ramesh-bandisiddegowda-promises-housing-sites-to-2000-poor-distributes-e-swathu-sat/articleshow-nnokw8k)
+- [ಬೆಂಗಳೂರಿಗೆ ಶೇ.43 ಮಳೆ ಕೊರತೆ: ಈ ಕೆರೆಗಳ ಅಕ್ಕಪಕ್ಕದ ಮನೆಯ ಬೋರ್‌ವೆಲ್‌ಗಳು ಒಣಗುವುದು ಖಚಿತ!](https://kannada.asianetnews.com/bengaluru-urban/bengaluru-monsoon-rain-deficit-43-percent-lakes-drying-water-crisis-sat/articleshow-w5n9sbk)
+- [ಟೈರ್ ಬ್ಲಾಸ್ಟ್ ಆಗಿ ನಿಯಂತ್ರಣ ತಪ್ಪಿ ಕೆರೆಗೆ ಬಿದ್ದ ಮೂವರು ಪ್ರಯಾಣಿಸುತ್ತಿದ್ದ ಕಾರ್](https://kannada.asianetnews.com/karnataka-districts/chikkamagaluru-car-carrying-three-people-plunged-into-a-lake-after-a-tyre-burst-vehicle-went-out-of-control-mrq/articleshow-267dyh2)
 - [ರಾಯಚೂರು: ಮೊಬೈಲ್‌ ಟಾರ್ಚ್‌ ಬೆಳಕಿನಲ್ಲಿ ನಡೆದ ಬರ ಅಧ್ಯಯನ! ಪರಿಶೀಲನೆಗೆ ರೈತರ ಆಕ್ಷೇಪ](https://kannada.asianetnews.com/karnataka-districts/raichur-officials-conducted-a-drought-assessment-using-mobile-phone-torchlight-mrq/articleshow-mg3oaog)
 - [ಮಧುರಖಂಡಿ-ಯಲ್ಲಟ್ಟಿ ರೈತರ ಮೊಗದಲ್ಲಿ ಮಂದಹಾಸ, ನೆಮ್ಮದಿ ತಂದ ಜಲವಿಸ್ಮಯ; ಭರ್ತಿಯಾದ ಕೆರೆ](https://kannada.asianetnews.com/karnataka-districts/bagalkote-the-lake-located-between-madhurakhandi-and-yallatti-has-been-filled-with-water-from-the-glbc-canal-mrq/articleshow-xt7ngf4)
 - [ಸಿಇಸಿ ವಿರುದ್ಧದ 20 ವರ್ಷ ಹಳೆ ಕೇಸ್‌ ರೀಓಪನ್‌! 2006ರ ರಸ್ತೆ ಕಾಮಗಾರಿಯಲ್ಲಿ ಭ್ರಷ್ಟಾಚಾರ](https://kannada.asianetnews.com/india-news/kerala-government-20-year-old-case-against-cec-gyanesh-kumar-reopened-corruption-in-2006-roadworks-mrq/articleshow-rzae7t1)
 - [ಸಿಇಸಿ ಜ್ಞಾನೇಶ್‌ ಕುಮಾರ್ ವಿರುದ್ಧ ಭುಗಿಲೆದ್ದ ಪ್ರತಿಭಟನೆ: ರಾಜೀನಾಮೆಗೆ ಶಿವಸೇನೆ ಆಗ್ರಹ](https://kannada.asianetnews.com/india-news/protest-erupted-against-cec-gyanesh-kumar-shiv-sena-demands-resignation-mrq/articleshow-zlhy0me)
 - [Sandalwood: ಉಪೇಂದ್ರ 'ಎ' ಸಿನಿಮಾ ನಿರ್ಮಾಪಕ ಸಿಲ್ಕ್ ಮಂಜು ಆರೋಗ್ಯ ಗಂಭೀರ: ನೆರವಿಗೆ ಮೊರೆ](https://kannada.asianetnews.com/sandalwood/health-of-starring-upendra-s-a-movie-producer-silk-manju-is-critical-plea-for-help-mrq/articleshow-mo01ebc)
-- [ಅಕ್ಟೋಬರ್ 5ರ ರಾಶಿಫಲ: ಈ 3 ರಾಶಿಗೆ ಅದೃಷ್ಟದ ದಿನ, ಉದ್ಯೋಗ-ವ್ಯವಹಾರದಲ್ಲಿ ಸಿಗಲಿದೆ ಭರ್ಜರಿ ಯಶಸ್ಸು](https://kannada.asianetnews.com/daily-horoscope/today-horoscope-of-05-october-2026-suh/articleshow-ybgm66d)
-- [Bengaluru ಕೋಟಿ ಕೋಟಿ ಅನುದಾನವಿದ್ದರೂ ಮೈಸೂರು ರಸ್ತೆಯ ಈ ಸೇತುವೆಗೇಕೆ ಕಠೋರ ಶಾಪ?](https://kannada.asianetnews.com/bengaluru-urban/despite-receiving-rs-2000-crore-grant-from-the-world-bank-70-year-old-bridge-has-not-been-widened-mysuru-road-mrq/articleshow-9w0mkkw)
-- [Bengaluru: ಶೇ.43ರಷ್ಟು ಮುಂಗಾರು ಮಳೆ ಕೊರತೆ, ಬತ್ತಿದ ಕೆರೆಗಳು: ಕಾದಿದೆಯಾ ಜಲಕಂಟಕ?](https://kannada.asianetnews.com/bengaluru-urban/bengaluru-43-percent-deficit-in-monsoon-rainfall-lakes-run-dry-in-monsoon-mrq/articleshow-cdg9c0q)
-- [ಬೆಂಗಳೂರಿನ ಕೆರೆ ಏರಿ ಕಬಳಿಕೆ: 9 ವರ್ಷಗಳ ಹಿಂದಿನ ಪ್ರಕರಣದ ತನಿಖೆಗೆ ಹೈಕೋರ್ಟ್ ಆದೇಶ](https://kannada.asianetnews.com/bengaluru-urban/high-court-ordered-continuation-investigation-case-involving-creation-of-forged-documents-to-encroach-upon-lake-bund-mrq/articleshow-kron8hn)
-- [ನಕಲಿ ಔಷಧ ದಂಧೆ: ಟರ್ಕಿಯಿಂದ ಅಸಲಿ ಲೇಬಲ್ ತಂದು ಅಂಟಿಸಿ ಕೋಟ್ಯಂತರ ರೂಪಾಯಿ ವ್ಯವಹಾರ](https://kannada.asianetnews.com/bengaluru-urban/fake-medicine-racket-genuine-labels-brought-from-turkey-and-affixed-to-conduct-business-worth-crores-of-rupees-mrq/articleshow-llwt5s7)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ಕಾಣೆಯಾಗಿದ್ದ ಬೆಂಗಳೂರಿನ ಸಾಫ್ಟ್‌ವೇರ್ ಎಂಜಿನಿಯರ್; ಎರಡು ದಿನಗಳ ಹುಡುಕಾಟದ ಬಳಿಕ ಶವವಾಗಿ ಪತ್ತೆ](https://tv9kannada.com/karnataka/bengaluru/bengaluru-techie-drowns-during-trekking-near-jigani-body-recovered-after-2-day-search-1246538.html)
+- [ಇಸ್ರೇಲ್ ಪ್ಲ್ಯಾನ್ ಫೇಲ್ ಆಗ್ತಿದ್ದಂತೆ ಎಂಜಿನ್ ಆಫ್: ಸೌದಿ ಮರುಭೂಮಿಯಲ್ಲೇ ವಿಮಾನ ಬೀಳಿಸಲು ಯತ್ನಿಸಿದ್ದ ಓಮನ್ ಕೋ- ಪೈಲಟ್](https://tv9kannada.com/world/flydubai-terror-plot-radicalized-co-pilot-attempted-saudi-desert-crash-heroism-saved-174-1246535.html)
+- [ಪ್ರಯೋಗಗಳ ಕಾಲ ಮುಗಿಯಿತು: ಸ್ಪಷ್ಟ ಗುರಿ ತಿಳಿಸಿದ ಶುಭ್​ಮನ್ ಗಿಲ್](https://tv9kannada.com/sports/cricket-news/time-for-experiments-over-shubman-gill-reveals-clear-roadmap-for-world-cup-1246530.html)
+- [ಬಿಗ್ ಬಾಸ್​ನಲ್ಲಿ ಸೋತು ಖತ್ರೋನ್ ಕೆ ಖಿಲಾಡಿ ಟ್ರೋಫಿ ಗೆದ್ದ ಅವಿನಾಶ್ ಮಿಶ್ರಾ; ಸಿಕ್ಕ ಹಣ ಎಷ್ಟು?](https://tv9kannada.com/entertainment/avinash-mishra-wins-khatron-ke-khiladi-15-takes-home-trophy-and-rs-20-lakh-prize-money-1246531.html)
+- [ಪಾಕಿಸ್ತಾನಿ ಉಗ್ರರೊಂದಿಗೆ ಸಂಪರ್ಕ ಆರೋಪ: ಬೀದರ್‌ನ ವಿಶಾಲ್ ಮೈತ್ರೆ ಸಹಿತ ಏಳು ಜನರ ವಿರುದ್ಧ FIR](https://tv9kannada.com/videos/bidars-vishal-maitre-under-probe-for-alleged-pakistan-terror-links-fir-filed-against-seven-1246529.html)
+- [ಕರ್ನಾಟಕ ವಾಯು ಗುಣಮಟ್ಟ ವರದಿ: ಬೆಂಗಳೂರಿನಲ್ಲಿ ‘ಸಾಧಾರಣ’ ಎಕ್ಯೂಐ, ರಾಜ್ಯದ ಇತರ ಪ್ರಮುಖ ನಗರಗಳಲ್ಲಿ ಉತ್ತಮ ಸ್ಥಿತಿ](https://tv9kannada.com/karnataka/bengaluru/karnataka-aqi-today-bengaluru-records-moderate-air-quality-good-aqi-in-mysore-and-mangalore-1246524.html)
+- [ಗಗನ್-ಸೌಂದರ್ಯಾ ಮಧ್ಯೆ ಲವ್ ಟ್ರ್ಯಾಕ್? ಫುಲ್ ಟೆನ್ಶ್​​ಗೆ ಒಳಗಾದ ಶೆಟ್ಟಿ ಡಾನ್](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-soundarya-shetty-clarifies-rumors-about-her-relationship-with-gagan-1246521.html)
+- [ಕರ್ನಾಟಕ ರಣಜಿ ತಂಡ ಪ್ರಕಟ: ಯುವ ದಾಂಡಿಗನಿಗೆ ನಾಯಕತ್ವ](https://tv9kannada.com/sports/cricket-news/karnataka-squad-for-ranji-trophy-2026-27-1246518.html)
+- [ಇಸ್ರೇಲ್ ಮೇಲೆ ವಿಮಾನ ಅಪ್ಪಳಿಸುವುದೇ ನನ್ನ ಪ್ಲ್ಯಾನ್ ಆಗಿತ್ತು, ಸಾವಿಗೆ ಹೆದರಲ್ಲ: ಫ್ಲೈದುಬೈ  ಸಹ-ಪೈಲಟ್ ಹಮ್ಮಾಮಿ ಸ್ಫೋಟಕ ತಪ್ಪೊಪ್ಪಿಗೆ](https://tv9kannada.com/world/flydubai-co-pilot-confesses-israel-crash-plot-indian-captain-foils-terror-attack-1246517.html)
 - [ಪೈಪ್‌ಲೈನ್ ಒಡೆದು ಮುಗಿಲೆತ್ತರಕ್ಕೆ ಚಿಮ್ಮಿದ ನೀರು: ವಾಹನ ಸಂಚಾರ ಅಸ್ತವ್ಯಸ್ತ](https://tv9kannada.com/videos/bhadra-pipeline-bursts-near-kudineerukatte-in-holalkere-causing-significant-water-wastage-1246519.html)
-- [ಕರ್ನಾಟಕ ಹವಾಮಾನ ವರದಿ: ರಾಜ್ಯಾದ್ಯಂತ ಮುಂಗಾರು ಚುರುಕು, ಹಲವೆಡೆ ಭಾರಿ ಮಳೆ ಮುನ್ನೆಚ್ಚರಿಕೆ](https://tv9kannada.com/karnataka/bengaluru/karnataka-weather-forecast-heavy-rainfall-alert-issued-for-coastal-and-south-interior-districts-1246514.html)
-- [ಒಬ್ಬ ಅತಿಥಿ ಶಿಕ್ಷಕ, ಎರಡು ಕಡೆ ಸಂಬಳ!: ತನಿಖೆಗೆ ಆದೇಶಿಸಿದ ಯಾದಗಿರಿಯ ಅಧಿಕಾರಿಗಳು](https://tv9kannada.com/karnataka/yadagiri/guest-teacher-draws-salary-from-two-government-schools-simultaneously-in-yadgir-beo-orders-probe-1246511.html)
-- [‘ನಾನು ಎಲಿಮಿನೇಟ್ ಆಗಲು..’; ಲಿಖಿತ್ ಆರೋಪ ಹೊರಿಸಿದ್ದು ಯಾರ ಮೇಲೆ?](https://tv9kannada.com/entertainment/television/likith-eliminated-from-bigg-boss-kannada-anger-issues-and-frequent-clashes-lead-to-his-exit-1246510.html)
-- [Horoscope Today: ಇಂದು ಈ ರಾಶಿಯವರು ಬೇಜವಾಬ್ದಾರಿತನದಿಂದ ದೂರವಿರಿ](https://tv9kannada.com/videos/horoscope-today-5th-october-2026-dr-basavaraj-gurujis-predictions-for-zodiac-signs-1246504.html)
-- [TV9 Kannada News Live Updates:  ಇಲಾಖಾವಾರು ರಿಪೋರ್ಟ್ ಪರಿಶೀಲಿಸಲಿರುವ ಸಿಎಂ ಡಿಕೆಶಿ](https://tv9kannada.com/karnataka/tv9-kannada-live-news-5-october-2026-karnataka-weather-cm-dk-shivakumar-bigg-boss-voter-list-verification-controversy-and-fly-dubai-attack-updates-1246500.html)
-- [ದಿನ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರು ಓಡಾಟವನ್ನು ಫಲಪ್ರದವನ್ನಾಗಿ ಮಾಡಿಕೊಳ್ಳುವರು…](https://tv9kannada.com/horoscope/horoscope-today-05-october-2026-daily-rashi-bhavishya-for-all-12-zodiac-signs-1246369.html)
-- [‘ಗಾಂಧಿಗಿರಿ’ ಭಾಷಣಕ್ಕೆ ಟೀಕೆ: ಸ್ಪಷ್ಟನೆ ಕೊಟ್ಟ ಸಂಜಯ್ ದತ್](https://tv9kannada.com/entertainment/bollywood/it-was-a-scripted-conversation-sanjay-dutt-clarifies-on-his-gandhigiri-speech-1246493.html)
-- [ಇದೇ ಸೀಸನ್​​ನಲ್ಲಿ ಸ್ಪರ್ಧಿಗಳಿಗೆ ಕಾದಿದೆ ಹಬ್ಬ: ಮೊದಲೇ ಎಚ್ಚರಿಸಿದ ಕಿಚ್ಚ](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-sudeep-give-warning-to-housemates-1246490.html)
-- [ಪಾಕ್ ತಂಡದ ಹೀನಾಯ ಪ್ರದರ್ಶನ; ಪಿಸಿಬಿ ಖಜಾನೆಗೆ 25 ಕೋಟಿ ನಷ್ಟ..!](https://tv9kannada.com/sports/cricket-news/pakistan-cricket-board-25-crore-loss-media-rights-poor-performance-1246480.html)
 
 **Prajavani**
+- [ನಾರಾಯಣಗುರು ನಿಗಮಕ್ಕೆ ₹100 ಕೋಟಿ ನೀಡಿ: ಶಾಸಕ ಸುನಿಲ್‌ ಕುಮಾರ್‌](https://www.prajavani.net/district/udupi/hebri-narayana-guru-corporation-crore-grant-demand-4308031)
+- [ವೈಯಕ್ತಿಕ ಕಾರಣ ಹೇಳಿ ದಿಢೀರ್ ರಾಜೀನಾಮೆ ನೀಡಿದ ಇರಾನ್ ಇಂಧನ ಸಚಿವ](https://www.prajavani.net/news/world-news/iran-oil-minister-mohsen-paknejad-resigns-personal-reasons-4308358)
+- [ಚುನಾವಣಾ ಪ್ರಚಾರದಲ್ಲಿ ಮಕ್ಕಳ ಬಳಕೆ: ಉದಯನಿಧಿ ಸ್ಟಾಲಿನ್ ವಿರುದ್ಧ ಎಫ್‌ಐಆರ್](https://www.prajavani.net/news/india-news/udhayanidhi-stalin-fir-child-labor-election-campaign-tiruppur-4308357)
+- [ಚಿಟ್ಟೆ ನಡಿಗೆ: ಪ್ರಾಂಗಣದಲ್ಲಿ  ಪತ್ತೆಯಾಯ್ತು 'ಇಂಡಿಗೊ ಫ್ಲ್ಯಾಷ್'](https://www.prajavani.net/district/dakshina-kannada/mangalore-university-butterfly-survey-indigo-flash-found-4307525)
+- [ಹನೂರು ಶೂಟೌಟ್ | ಕಠಿಣ ಸಂದರ್ಭಗಳಲ್ಲಿ ಕಠಿಣ ನಿರ್ಧಾರ ಅನಿವಾರ್ಯ: ಬಿ.ಕೆ.ಸಿಂಗ್](https://www.prajavani.net/district/chamarajanagara/hanur-shootout-bk-singh-statement-on-forest-wildlife-protection-4307781)
+- [ವಿಮೆ ಮಾಡಿಸಿದ್ದರೂ ನಯಾಪೈಸೆ ಬರ ಪರಿಹಾರ ಸಿಕ್ಕಿಲ್ಲ: ರೈತರ ಅಳಲು](https://www.prajavani.net/news/karnataka-news/central-team-drought-survey-karnataka-farmers-crop-insurance-issue-4307656)
+- [ಯಳಂದೂರು: ಅಂಬಳೆಯಲ್ಲಿ ಚಾಮುಂಡಾಂಬೆ ವೈಭವದ ಕೊಂಡೋತ್ಸವ](https://www.prajavani.net/district/chamarajanagara/ambale-chamundamba-kondotsava-festival-celebration-4308077)
 - [ಏಷ್ಯನ್‌ ಗೇಮ್ಸ್‌ ಪದಕ ಬೇಟೆ: 169 ಚಿನ್ನ ಗೆದ್ದ ಚೀನಾ; ಭಾರತ ಜಯಿಸಿದ್ದೆಷ್ಟು?](https://www.prajavani.net/sports/other-sports/asian-games-medal-tally-china-india-performance-nagoya-4306746)
 - [ಪ್ರಜಾವಾಣಿ ಸಹಪಾಠಿ: ಅಕ್ಟೋಬರ್ 5ರ ಸ್ಪರ್ಧಾ ಕಣ](https://www.prajavani.net/education-career/education/prajavani-sahapathi-spardha-kana-october-quiz-2-4307020)
-- [ಜನರ ಸಮಸ್ಯೆ ನಿವಾರಣೆಯಾಗಲಿ: ಶಾಸಕ ಶ್ರೀನಿವಾಸ್](https://www.prajavani.net/district/chikkamagaluru/tarikere-mla-srinivas-prajaseve-andolan-public-grievances-officials-4308002)
-- [ಶಿಗ್ಗಾವಿಯಲ್ಲಿ ಡಿಜೆ ತಾಳಕ್ಕೆ ಕುಣಿದು ಕುಪ್ಪಳಿಸಿದ ಯುವಕರು](https://www.prajavani.net/district/haveri/shiggaon-ganesh-visarjane-procession-youth-celebration-dj-4308001)
-- [ಶಿರಾಡಿ ಗುಂಡ್ಯದಲ್ಲಿ ಪ್ರಯಾಣಿಕರ ತಂಗುದಾಣ ಕಸದ ತಾಣವಾಗಿದೆ](https://www.prajavani.net/district/dakshina-kannada/shiradi-gundya-passenger-shelter-garbage-nuisance-4308000)
-- [ಸರ್ಕಾರಿ ಜಾಗದಲ್ಲಿದ್ದ ಮಳಿಗೆ ತೆರವು](https://www.prajavani.net/district/bangaluru-rural/hoskote-government-land-encroachment-eviction-drive-4307999)
-- [ಮೇಟಿಕುರ್ಕೆ ಕೆರೆಗೆ ಭದ್ರಾ ನೀರು ಹರಿಸಲು ಆಗ್ರಹ](https://www.prajavani.net/district/chitradurga/metikurke-lake-bhadra-water-demand-protest-4307998)
-- [ರೈತರ ಆಮರಣಾಂತ ಉಪವಾಸ ಸತ್ಯಾಗ್ರಹ ಅಂತ್ಯ](https://www.prajavani.net/district/vijayapura/vijayapura-farmers-hunger-strike-ends-mla-assures-4307997)
-- [ಪ್ರವಾಸಿ ತಾಣವಾಗಿ ಹುಬ್ಬೆ ಹುಣಸೆ ಜಲಾಶಯ ಅಭಿವೃದ್ಧಿ ಶೀಘ್ರ](https://www.prajavani.net/district/chamarajanagara/hanur-hubbe-hunase-dam-tourism-development-soon-4307996)
-- [ಕೆರೆ, ಉದ್ಯಾನಗಳ ಸಂರಕ್ಷಣೆಗೆ ಆಗ್ರಹಿಸಿ ಸೈಕಲ್‌ ಜಾಥಾ](https://www.prajavani.net/district/bengaluru-city/bengaluru-lake-park-protection-cycle-rally-4307995)
+- [ಮದ್ಯ ಮಾರಾಟ ತಡೆಗಟ್ಟಲು ಚಿಕ್ಕಬಳ್ಳೇಕೆರೆ ಗ್ರಾಮಸ್ಥರ ಆಗ್ರಹ](https://www.prajavani.net/district/chikkamagaluru/chikkaballakere-villagers-demand-ban-on-illegal-liquor-sale-4308022)
 
 **eedina**
 - [ಚಿಕ್ಕಮಗಳೂರು | ದೊಡ್ಡ ಗುಂಡಿಗಳನ್ನು ಮುಚ್ಚಿದ ಶಾಲಾ ಮಕ್ಕಳು](https://eedina.com/?p=769882)
@@ -161,34 +161,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
-- Bengaluru (3.9)
 - ICICI Securities (3.0)
 - target (3.0)
 - Mumbai (2.9)
 - Flydubai (2.6)
+- Iran (2.6)
 - Supreme Court (2.0)
 - Buy Bajaj Finance (2.0)
-- Delhi (1.9)
 - Punjab (1.6)
-- Bihar (1.6)
-- Updates (1.6)
 - Emkay (1.5)
 - Global (1.5)
 - Financial (1.5)
+- Constitution (1.3)
+- Faster (1.3)
+- Reform (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [COVID-19 and Allergic Disease: Study Findings](https://www.emjreviews.com/allergy-immunology/news/covid-19-linked-to-increased-risk-of-six-allergic-conditions/)
-- [ചന്ദ്രൻ കഅ്ബക്ക് മുകളിൽ എത്തുന്നു; ഖിബ്‌ല ദിശ കൃത്യമായി അറിയാൻ സുവർണാവസരം](https://www.mediaoneonline.com/gulf/saudi-arabia/moon-aligns-above-kaaba-opportunity-determine-qibla-direction-339336)
-- [লাভ জিহাদ থেকে ধর্মান্তকরণ বন্ধ হবে বাংলায়, ৬ মাস সময় চেয়ে UCC নিয়ে বড় দাবি শুভেন্দু অধিকারীর](https://bangla.asianetnews.com/west-bengal/suvendu-adhikari-promises-ucc-in-west-bengal-within-six-months/articleshow-vmnfwd1)
-- [Russia Vs Ukraine: உக்ரைனில் இந்திய மருந்து ஆலையை ஆளில்லா விமானத்தால் போட்டு சாத்திய ரஷ்யா; ரூ.400 கோடி அவுட்.!](https://tamil.abplive.com/news/world/russian-drone-attack-on-ukraine-sumy-kusum-group-pharma-plant-with-fp7-missile-400-crore-loss-276398)
-- ['अगर कोई हाथ उठाए तो उसका हाथ काट दो, जमानत हम करवा देंगे', सुल्तानपुर में निषाद समाज से बोले संजय निषाद](https://navbharattimes.indiatimes.com/state/uttar-pradesh/sultanpur/sanjay-nishad-controversial-statement-in-sultanpur/articleshow/134676250.cms)
-- [AISA अध्यक्ष नेहा बोरा को पुलिस ने प्राइवेट गाड़ी में हिरासत में लिया, नरेला थाने ले जाकर किया रिहा](https://www.jagran.com/delhi/new-delhi-city-aisa-president-neha-bora-detained-by-delhi-police-later-released-40394355.html)
-- [Gyanesh Kumar | జ్ఞానేష్ కుమార్ రాజీనామా కోరుతూ ఢిల్లీలో ఆప్ ఆందోళ‌న‌.. ఉద్రిక్త‌త‌](https://www.ntnews.com/national/protest-against-gyanesh-kumar-aap-protesters-break-barricades-police-personnel-deployed-in-delhi-2527228)
-- ['अभी और सस्ता होगा सोना', ₹1.25 लाख से नीचे आ जाएगी कीमत? एक्सपर्ट्स का दावा](https://www.jagran.com/business/biz-gold-price-falls-us-economic-data-to-determine-next-move-40394349.html)
-- [എഐഎസ്എ നേതാവ് നേഹ ബോറയെ വിട്ടയച്ച് പൊലീസ്, ഫോണും ബാഗും നഷ്ടമായി; രാജ്യതലസ്ഥാനത്ത് പ്രതിഷേധം ശക്തം](https://www.asianetnews.com/india-news/delhi-protest-over-gyanesh-kumar-resignation-turns-violent-bus-damaged-articleshow-bn53ysf)
-- [પ્રેમાનંદ મહારાજની શિષ્યા પ્રેગ્નેન્ટ થઈ, MMS વાયરલ થયા બાદ ફિલ્મોની દુનિયા છોડી હતી](https://gujarati.news18.com/photogallery/entertainment/actress-priyanka-pandit-is-now-pregnant-who-left-bhojpuri-movie-after-mms-leak-pk-ws-b-2636296.html)
+- ['കുട്ടികളെ ലക്ഷ്യമിട്ടുള്ള സൈബർ കുറ്റകൃത്യങ്ങൾക്കെതിരെ രാജ്യാന്തര സഹകരണം ശക്തമാക്കണം'; സൗദി അറ്റോർണി ജനറൽ](https://www.mediaoneonline.com/gulf/saudi-arabia/international-cooperation-cybercrimeschildren-strengthened-saudi-attorney-general-339344)
+- [‘Deeply shameful’: Khushbu Sundar outraged with misuse of AI to create morphed Chuttamalle video of Janhvi Kapoor and Jr NTR from Devara](https://www.hindustantimes.com/entertainment/telugu-cinema/khushbu-sundar-outraged-with-misuse-of-ai-to-create-morphed-chuttamalle-video-of-janhvi-kapoor-and-jr-ntr-from-devara-101791123416013.html)
+- [తిరుచానూరు ఆలయం వద్ద ఏనుగు బీభత్సం .. మావటికి తీవ్ర గాయాలు](https://www.eenadu.net/telugu-news/districts/chittoor-mahout-injured-in-elephant-attack-at-tiruchanur-temple/2/126179868)
+- [४२ वर्षांच्या एबी डिव्हिलियर्सने केली तुफान धुलाई, गोलंदाजांची पिसं काढत झाली षटकारांची बरसात](https://www.lokmat.com/cricket/news/ab-de-villiers-bashing-bowlers-at-the-age-of-42-year-old-scored-70-runs-of-39-balls-with-5-sixes-wcl-2026-sach-vs-wich-a-a747/)
+- [दिवाली से पहले दिलजीत दोसांझ करेंगे बड़ा धमाका! अनाउंस किया AURA टूर, देश के किन शहरों में होगा कॉन्सर्ट?](https://www.aajtak.in/entertainment/bollywood-news/story/diljit-dosanjh-aura-tour-announced-ahmedabad-delhi-5-more-indian-cities-concert-tmovj-dskc-2661281-2026-10-04)
+- [S Jaishankar | ప్ర‌పంచం పాకిస్తాన్ వెంట ఉంటే.. ర‌ష్యా ఇండియాకు అండ‌గా ఉంది.. ఎస్ జైశంక‌ర్](https://www.ntnews.com/national/russia-stood-by-india-when-much-of-the-world-backed-pakistan-external-affairs-minister-s-jaishankar-2527278)
+- [IND A vs AUS A: 6 ઓક્ટોબરથી વનડે શ્રેણી શરૂ; હાર્દિક પંડ્યા બહાર, આ સ્ટાર ખેલાડીની થઈ એન્ટ્રી](https://gujarati.abplive.com/sports/cricket/india-a-vs-australia-a-1st-odi-hardik-pandya-replacement-suryansh-shedge-992615)
+- [Mohun Bagan vs Punjab FC Highlights, IFA Shield semifinal: Kaith the hero as Mariners beat Shers on penalties](https://sportstar.thehindu.com/football/indian-football/mohun-bagan-vs-punjab-fc-live-score-updates-ifa-shield-semifinal-highlights-goals-mbsg-v-pfc-streaming/article71543383.ece)
+- [Protests intensify in India over demands for election chief to quit](https://www.reuters.com/world/asia-pacific/protests-demanding-indian-election-chief-resigns-escalate-2026-10-04/)
+- [காலமான சிங்கீதம் சீனிவாசராவ் இயக்கத்தில் அதிகம் பேசப்பட்ட 10 படங்கள்](https://www.bbc.com/tamil/articles/c94g1rjm6gdxo)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
