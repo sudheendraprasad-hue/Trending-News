@@ -1,4 +1,4 @@
-# India Trending Report — 2026-10-05 22:03:19
+# India Trending Report — 2026-10-05 22:36:04
 
 ## Google Trends (India) — top trending searches
 1. [ubse utet answer key](https://trends.google.com/trending/rss?geo=IN)
@@ -14,16 +14,16 @@
 
 ## Latest headlines by outlet
 **Times of India**
-- [Pakistan, Saudi, Turkiye activate Mecca defence pact as Yemen war escalates](https://timesofindia.indiatimes.com/world/middle-east/pakistan-saudi-arabia-turkiye-activate-mecca-defence-pact-amid-houthi-attacks/articleshow/134716048.cms)
+- [Mission Shakti: How India’s 2019 anti-sat missile test in space caught US off guard](https://timesofindia.indiatimes.com/defence/news/when-indias-anti-satellite-missile-test-in-space-in-2019-caught-us-intelligence-agencies-off-guard/articleshow/134716715.cms)
 - [SIR row: Will annul EC orders not in keeping with law, says Supreme Court](https://timesofindia.indiatimes.com/india/sir-row-will-annul-election-commission-orders-not-in-keeping-with-law-says-supreme-court/articleshow/134716812.cms)
+- [Pakistan, Saudi, Turkiye activate Mecca defence pact as Yemen war escalates](https://timesofindia.indiatimes.com/world/middle-east/pakistan-saudi-arabia-turkiye-activate-mecca-defence-pact-amid-houthi-attacks/articleshow/134716048.cms)
 - [India, Switzerland eye deeper ties in trade, investment, tech](https://timesofindia.indiatimes.com/india/india-switzerland-eye-deeper-ties-in-trade-investment-tech/articleshow/134716858.cms)
-- [Not now daal-ing, says MAGA, as Montana governor comes to India to sell pulses](https://timesofindia.indiatimes.com/world/us/not-now-daal-ing-says-maga-as-montana-governor-comes-to-india-to-sell-pulses/articleshow/134715572.cms)
-- [Two killed, Indian among injured after Russian drone hits Turkish cargo ship](https://timesofindia.indiatimes.com/india/two-killed-indian-among-injured-after-russian-drone-hits-turkish-cargo-ship/articleshow/134716525.cms)
+- [Rajya Sabha polls: 8 fresh BJP faces for UP, Hardeep Puri among 2 ministers dropped](https://timesofindia.indiatimes.com/india/rajya-sabha-polls-8-fresh-bjp-faces-for-up-hardeep-puri-among-2-ministers-dropped/articleshow/134716837.cms)
 - [In 2009, Google’s Eric Schmidt bought a ship; by 2022, it mapped 1.3m sq km of seafloor](https://timesofindia.indiatimes.com/technology/tech-news/in-2009-googles-eric-schmidt-and-wife-wendy-bought-a-former-fisheries-ship-by-2022-the-vessel-offered-free-research-access-and-had-mapped-over-1-3-million-square-kilometres-of-seafloor/articleshow/134712878.cms)
-- [Rawat seeks meet with Congress brass as Kumari Selja slams his yatra plan](https://timesofindia.indiatimes.com/india/rawat-seeks-meet-with-congress-brass-as-kumari-selja-slams-his-yatra-plan/articleshow/134717126.cms)
+- [Pahalgam handler rallies LeT support via anti-Israel rhetoric](https://timesofindia.indiatimes.com/india/pahalgam-handler-rallies-let-support-via-anti-israel-rhetoric/articleshow/134719896.cms)
 - [Woman declares Rs 67.4L ancestral jewellery in ITR; gets notice, she wins in ITAT](https://timesofindia.indiatimes.com/business/india-business/woman-declared-rs-67-4-lakh-ancestral-jewellery-in-her-itr-which-led-to-additions-by-tax-department-itat-mumbai-deleted-it-on-basis-of-old-records-but-rejected-her-rs-12-lakh-huf-brokerage-claim/articleshow/134706982.cms)
-- [Supreme Court may get 3 judges today, to be one short of full strength](https://timesofindia.indiatimes.com/india/supreme-court-may-get-3-judges-today-to-be-one-short-of-full-strength/articleshow/134717182.cms)
-- [Form 6 not modified, only declaration added: Election Commission](https://timesofindia.indiatimes.com/india/form-6-not-modified-only-declaration-added-election-commission/articleshow/134717170.cms)
+- [Legislative privilege vs free speech: Supreme Court 7-judge bench may close case](https://timesofindia.indiatimes.com/india/legislative-privilege-vs-free-speech-supreme-court-7-judge-bench-may-close-case/articleshow/134719876.cms)
+- [World entering age of flux, India will rise to challenges: EAM S Jaishankar](https://timesofindia.indiatimes.com/india/world-entering-age-of-flux-india-will-rise-to-challenges-eam-s-jaishankar/articleshow/134718958.cms)
 
 **NDTV**
 - [Trump Says US Moved All B-1 Bombers From UK Airbase After "Some Threats"](https://www.ndtv.com/world-news/donald-trump-says-us-moved-all-b-1-bombers-from-uk-airbase-after-some-threats-12143177#publisher=newsstand)
@@ -49,29 +49,19 @@
 - [Tripura: TIPRA Motha wins over 2000 seats in TTAADC village council polls](https://www.hindustantimes.com/india-news/tripura-tipra-motha-wins-over-2000-seats-in-ttaadc-village-council-polls-101791207776009.html)
 - [In a first, cheetahs to roam in tiger territory at Veerangana Durgavati Tiger Reserve](https://www.hindustantimes.com/india-news/in-a-first-cheetahs-to-roam-in-tiger-territory-at-veerangana-durgavati-tiger-reserve-101791206704079.html)
 
-**Vijay Karnataka**
-- [ಬೆಂಗಳೂರು ಸುತ್ತ 9 ಹೊಸ ಇಂಟಿಗ್ರೇಟೆಡ್ ಕೈಗಾರಿಕಾ ಟೌನ್ ಶಿಪ್ ನಿರ್ಮಾಣ; ನಮ್ಮ ಮೆಟ್ರೋ 313 KM ವಿಸ್ತರಣೆ: ಡಿಕೆ ಶಿವಕುಮಾರ್](https://vijaykarnataka.com/news/bengaluru-city/construction-of-9-new-integrated-industrial-townships-around-bengaluru-namma-metro-313-km-extension-dk-sivakumar/articleshow/134712207.cms)
-- [ವಾಲ್ಮೀಕಿ ಜಯಂತಿ ಸಾರ್ವತ್ರಿಕ ರಜೆ ದಿನಾಂಕ ಬದಲಾವಣೆ: ಅ. 26ಕ್ಕೆ ರಜೆ ಘೋಷಿಸಿ ರಾಜ್ಯ ಸರ್ಕಾರ ಆದೇಶ; ಸಿಗಲಿದೆ 3 ದಿನ ವಿರಾಮ!](https://vijaykarnataka.com/news/karnataka/change-in-date-of-valmiki-jayanti-public-holiday-karnataka-government-issues-order-declaring-october-26/articleshow/134706335.cms)
-- [WCL 2026- ಭಾರತ ತಂಡ ಕ್ಷಮೆಯಾಚಿಲೇ ಬೇಕೆಂದು ಪಟ್ಟು ಹಿಡಿದಿದ್ದ ಪಿಸಿಬಿಗೆ ಮುಖಭಂಗ; ಲೆಜೆಂಡ್ಸ್ ಕ್ರಿಕೆಟ್ ನಿಂದ ಹೊರನಡೆದ ಪಾಕ್](https://vijaykarnataka.com/sports/cricket/news/wcl-2026-pakistan-team-withdraws-from-the-legends-cricket-tournament/articleshow/134712993.cms)
-- [ಮೊಡವೆ ಕಡಿಮೆಯಾಗುತ್ತಿಲ್ಲವೇ? ನಿಮ್ಮ ದಿಂಬಿನ ಕವರ್, ಮೊಬೈಲ್‌ ಕೂಡ ಕಾರಣವಾಗಿರಬಹುದು!](https://vijaykarnataka.com/lifestyle/beauty/acne-causes-pillowcase-mobile-hair-products/articleshow/134713028.cms)
-- [Ranji Trophy 2026-27: ಸೂರ್ಯಕುಮಾರ್ ಯಾದವ್ ಈಗ ಮುಂಬೈ ತಂಡದಿಂದಲೂ ಔಟ್! ಆಯ್ಕೆದಾರರ ಸಮರ್ಥನೆ ಏನು?](https://vijaykarnataka.com/sports/cricket/news/suryakumar-yadav-drops-from-mumbai-ranji-team-also/articleshow/134712518.cms)
-- [ಕೂದಲೆಳೆ ಅಂತರದಲ್ಲಿ ಶಿವರಾಜ್‌ಕುಮಾರ್‌ ಬಚಾವ್‌: ಸಡನ್‌ ಆಗಿ ಸಿಡಿದ ಪಟಾಕಿ, ಕರುನಾಡ ಚಕ್ರವರ್ತಿ ಹೇಗಿದ್ದಾರೆ?](https://vijaykarnataka.com/entertainment/news/a-firecracker-accident-occurred-during-the-promotion-of-the-movie-jameenu-starring-shivarajkumar/articleshow/134716570.cms)
-- [ಶೂ ಬಾಕ್ಸ್‌ನಲ್ಲಿರುವ ಸಿಲಿಕಾ ಜೆಲ್ ಪ್ಯಾಕೆಟ್ ಎಸೆಯಬೇಡಿ; ಮನೆಯಲ್ಲೂ ಹೀಗೆ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/silica-gel-packets-shoe-box-home-uses/articleshow/134651205.cms)
-- [2026 Indira Ekadashi: ಶುಭ ಮುಹೂರ್ತ, ಪೂಜೆ ವಿಧಾನ, ಮಹತ್ವ ಮತ್ತು ಮಂತ್ರಗಳು.!](https://vijaykarnataka.com/religion/festivals/indira-ekadashi-2026-date-and-time-puja-procedures-importance-and-mantras/articleshow/134706852.cms)
-- [ಮನೆಯಲ್ಲಿ ಉಳಿದ ಇಡ್ಲಿ ಎಸೆಯಬೇಡಿ; ಹೀಗೆ ಮಾಡಿ ಮಸಾಲಾ ಇಡ್ಲಿ ಫ್ರೈ, ರುಚಿ ಸೂಪರ್!](https://vijaykarnataka.com/lifestyle/home-decor/masala-idli-fry-recipe-leftover-idli/articleshow/134697040.cms)
-- [ಕೂಡಲಸಂಗಮ ಬಳಿ ಅನ್ಯಕೋಮಿನ ಕುಟುಂಬದಿಂದ ಮಾಂಸ ಸೇವನೆ ಆರೋಪ; ವಿಡಿಯೋ ವೈರಲ್; ನೆಟ್ಟಿಗರ ಆಕ್ರೋಶ](https://vijaykarnataka.com/news/bagalkot/allegation-of-meat-consumption-by-a-family-near-kudalasangama-video-goes-viral/articleshow/134711903.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
+- [Shinde meets PM Modi over Maharashtra drought, says Centre assures support for farmers](https://www.thehindu.com/news/national/maharashtra/shinde-meets-pm-modi-over-maharashtra-drought-says-centre-assures-support-for-farmers/article71548465.ece)
+- [Supreme Court quashes Bombay HC order directing Maharashtra FDA to pay ₹5 lakh compensation](https://www.thehindu.com/news/national/supreme-court-quashes-bombay-hc-order-directing-maharashtra-fda-to-pay-5-lakh-compensation/article71548545.ece)
 - [First international cargo vessel leaves eastern Assam since 1947](https://www.thehindu.com/news/national/assam/first-international-cargo-vessel-leaves-eastern-assam-since-1947/article71547112.ece)
+- [Set to leave party, NC MP Ruhullah meets students at Kashmir University, calls for ‘restoring students’ voice’](https://www.thehindu.com/news/national/jammu-and-kashmir/set-to-leave-party-nc-mp-ruhullah-meets-students-at-kashmir-university-calls-for-restoring-students-voice/article71548121.ece)
 - [19,000 West Bengal voters to miss bypolls as appeals remain pending in tribunals](https://www.thehindu.com/news/national/west-bengal/crawling-pace-in-west-bengal-appellate-tribunals-keep-voters-in-limbo/article71547840.ece)
 - [CEC Gyanesh Kumar has lost public trust and must be removed, say former bureaucrats, activists](https://www.thehindu.com/news/national/cec-gyanesh-kumar-has-lost-public-trust-and-must-be-removed-say-former-bureaucrats-activists/article71548097.ece)
 - [Gyanesh Kumar changed Form 6 ‘illegally’ during SIR, says Rahul Gandhi](https://www.thehindu.com/news/national/rahul-gandhi-congress-form-6-election-commission-of-india-cec-gyanesh-kumar/article71547253.ece)
 - [Supreme Court refuses to stay proceedings against Nicobar project](https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-refuses-to-stay-calcutta-hc-order-in-great-nicobar-island-project-terms-preservation-of-culture-a-fundamental-right/article71546355.ece)
 - [Construction of Vaduthala railway overbridge, Perandoor-Vaduthala bridge to begin on October 7](https://www.thehindu.com/news/national/kerala/construction-of-vaduthala-railway-overbridge-perandoor-vaduthala-bridge-to-begin-on-october-7/article71548280.ece)
 - [Two captive-bred Great Indian Bustards released into wild in Rajasthan under conservation efforts](https://www.thehindu.com/sci-tech/energy-and-environment/two-captive-bred-great-indian-bustards-released-into-wild-in-rajasthan-under-conservation-efforts/article71544023.ece)
-- [Chief Secy should ask District Collectors to instruct officials to follow Union Govt.’s guidelines on protocols: MP](https://www.thehindu.com/news/national/tamil-nadu/chief-secy-should-ask-district-collectors-to-instruct-officials-to-follow-union-govts-guidelines-on-protocols-mp/article71548386.ece)
-- [Wayanad township: Second-phase house construction to be completed by October 31](https://www.thehindu.com/news/national/kerala/wayanad-township-second-phase-house-construction-to-be-completed-by-october-31/article71546872.ece)
-- [Encroachment of land in Mumbai](https://www.thehindu.com/opinion/op-ed/encroachment-of-land-in-mumbai/article71548710.ece)
 
 **Livemint**
 - [Caleb Flynn, ex-American Idol singer, sentenced to life without parole after being found guilty of wife Ashley’s murder](https://www.livemint.com/news/world/caleb-flynn-ex-american-idol-singer-sentenced-to-life-without-parole-after-being-found-guilty-of-wife-ashley-s-murder-11791235237230.html)
@@ -145,35 +135,35 @@
 - [ಈಶಾನ್ಯ ಶಿಕ್ಷಕರ ಕ್ಷೇತ್ರ: ಆರು ಅಭ್ಯರ್ಥಿಗಳಿಂದ 10 ನಾಮಪತ್ರ ಸಲ್ಲಿಕೆ](https://eedina.com/?p=770360)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (3.9)
+- India (4.2)
+- Supreme Court (4.0)
 - Delhi (3.5)
-- Supreme Court (3.0)
 - Switzerland (2.6)
-- Form (2.6)
-- October (2.6)
-- Mumbai (2.6)
+- PM Modi (2.0)
 - CEC Gyanesh Kumar (2.0)
 - Yemen (1.9)
-- Indian (1.9)
 - Pakistan (1.6)
 - First (1.6)
+- Maharashtra (1.6)
+- Court (1.5)
 - Saudi (1.3)
 - Turkiye (1.3)
 - Mecca (1.3)
+- Google (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ठाकरे बंधूंच्या मोर्चानंतर अतुल कुलकर्णींनी लिहिलं एकच वाक्य; राजकारण्यांना विचार करायला लावणारी पोस्ट](https://www.tv9marathi.com/entertainment/atul-kulkarni-post-on-communication-is-missing-in-politics-amid-cjp-raj-thackeray-uddhav-thackeray-morcha-demanding-gyanesh-kumar-resignation-1772396.html)
-- [കുഴഞ്ഞുവീണുള്ള മരണമല്ല, കൊലപാതകം; ഭാര്യ അറസ്റ്റിൽ, അന്വേഷണം ഹെൽമറ്റ് ധരിച്ച ആ രഹസ്യ സുഹൃത്തിലേക്ക്?](https://www.mathrubhumi.com/crime/news/kollam-kundara-raju-murder-wife-arrested-xurakty8)
-- [Sivakarthikeyan : నేను పీపుల్ మేడ్ స్టార్... ఫ్యాన్ మీట్‌లో శివకార్తికేయన్ - పాలిటిక్స్‌లోకి తమిళ హీరో ఎంట్రీ కన్ఫర్మేనా?](https://telugu.abplive.com/entertainment/cinema/sivakarthikeyan-calls-himself-people-made-star-fan-meet-near-porur-sparks-politcal-buzz-260742)
-- [યુપી રાજ્યસભા ચૂંટણી માટે ભાજપે જાહેર કર્યા 8 ઉમેદવાર, કેન્દ્રીય મંત્રી હરદીપ પુરીનું પત્તું કપાયું](https://gujarati.abplive.com/news/india/bjp-releases-candidate-list-for-up-rajya-sabha-election-2026-hardeep-puri-drop-992673)
-- ['Women In Delhi Must Feel Safe Even Walking Alone At Night; Men Should Fear Committing Sexual Offences' : Supreme Court To Police](https://www.livelaw.in/top-stories/women-in-delhi-must-feel-safe-even-walking-alone-at-night-men-should-fear-committing-sexual-offences-supreme-court-to-police-553130)
-- [Shreyas Iyer on Vaibhav Sooryavanshi: 'His time will come'](https://m.rediff.com/cricket/report/vaibhav-sooryavanshi-shreyas-iyer-backs-young-india-cricketer-for-future-dominance/20261005.htm)
-- ['દૃશ્યમ 3'એ બોક્સ ઓફિસ ગજવ્યું: 3 જ દિવસમાં 272 કરોડ પાર, અજય દેવગને રચ્યો નવો રેકોર્ડ!](https://www.gujaratsamachar.com/news/entertainment/drishyam-3-rocks-the-box-office-crosses-272-crores-in-just-3-days-ajay-devgn-creates-a-new-record-87667725717)
-- [2026 Nobel medicine prize: Trio wins for optogenetics work](https://www.thehindu.com/sci-tech/health/nobel-prize-physiology-medicine-2026-winner/article71545941.ece)
-- [Saudi VS Houthi: MBS ने उतारे 100 जेट, हूतियों से छीना बाब](https://hindi.news18.com/world/middle-east-yemen-houthi-war-saudi-arabia-pakistan-turkey-riyadh-meeting-munir-erdogan-mecca-pact-100-jet-10887102.html)
-- [Nobel Prize: మెద‌డు మిస్ట‌రీపై స్ట‌డీ.. ముగ్గురు శాస్త్ర‌వేత్త‌ల‌కు మెడిసిన్ నోబెల్](https://www.ntnews.com/international/2026-nobel-prize-in-medicine-has-been-awarded-to-karl-deisseroth-peter-hegemann-and-georg-nagel-2527796)
+- [મધ્ય ગુજરાતના ખેડૂતોની મુશ્કેલી વધી : ઓછા વરસાદથી ડાંગરના પાકને નુકસાન, મુખ્યમંત્રીને સર્વે કરી સહાય આપવાની રજૂઆત](https://www.gujaratsamachar.com/news/baroda/the-problems-of-farmers-in-central-gujarat-have-increased-paddy-crop-damaged-due-to-low-rainfall-proposal-to-the-chief-minister-to-conduct-a-survey-and-provide-assistance-84668766915)
+- [DMK To File Rs 1 Crore Defamation Case Against TVK Over R Veeramani Claims](https://www.ndtv.com/india-news/vijay-mk-stalin-dmk-to-file-rs-1-crore-defamation-case-against-tvk-over-r-veeramani-claims-12140697)
+- [Is today's Nifty price action suggesting 22,500 as short-term bottom? Check what analysts say](https://www.moneycontrol.com/news/business/markets/is-today-s-nifty-price-action-suggesting-22-500-as-short-term-bottom-check-what-analysts-say-14044895.html)
+- [BJP Nominates 8 Leaders To Rajya Sabha From UP, Hardeep Puri Not On List](https://www.ndtv.com/india-news/bjp-nominates-8-leaders-to-rajya-sabha-from-up-hardeep-puri-not-on-list-12140691)
+- [‘He will dominate Indian cricket’: Shreyas Iyer’s big call on Vaibhav Sooryavanshi; Abhishek Sharma says ‘he belongs here’](https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/he-will-dominate-indian-cricket-shreyas-iyers-big-call-on-vaibhav-sooryavanshi-abhishek-sharma-says-he-belongs-here/articleshow/134698704.cms)
+- [New Weapons In The Fight Against Cancer: AI Technology To Detect Cancer Stem Cells Early](https://www.etvbharat.com/en/health/ai-technology-to-detect-cancer-stem-cells-early-enn26100503318)
+- [শুরু ঋণনীতি বৈঠক, বাড়তে পারে সুদ](https://www.aaroananda.com/story/latest-news/breaking-news/rbi-repo-rate-decision-and-inflation-impact-on-economy/11022856)
+- [16 ऑक्टोबरपासून सर्वत्र पाणीकपात; अलनिनोच्या पार्श्वभूमीवर सरकारकडून पाण्याचे सूक्ष्म नियोजन, गिरीश महाजनांनी दिली माहिती](https://marathi.abplive.com/news/politics/minister-girish-mahajan-says-government-planning-water-usage-meticulously-against-the-backdrop-of-al-nino-water-cuts-across-the-board-starting-october-16-1441349)
+- [Hardeep Puri, 7 other sitting MPs dropped from BJP's Rajya Sabha poll list for UP](https://www.indiatoday.in/india/story/minister-hardeep-puri-7-other-sitting-bjp-rajya-sabha-mps-from-uttar-pradesh-dropped-for-upcoming-polls-3009899-2026-10-05)
+- [फ्लाईदुबई फ्लाइट का दरवाजा नहीं खुलता तो इजरायली PM को देना पड़ सकता था विमान गिराने का ऑर्डर!](https://www.aajtak.in/india/news/story/flydubai-flight-cockpit-door-tel-aviv-to-dubai-hijack-situation-ntcppl-rptc-2661986-2026-10-05)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
