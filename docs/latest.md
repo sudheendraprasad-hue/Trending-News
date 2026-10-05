@@ -1,10 +1,10 @@
-# India Trending Report — 2026-10-05 21:38:41
+# India Trending Report — 2026-10-05 22:03:19
 
 ## Google Trends (India) — top trending searches
-1. [michael olise](https://trends.google.com/trending/rss?geo=IN)
-2. [france national football team vs belgium national football team lineups](https://trends.google.com/trending/rss?geo=IN)
-3. [daniel maldini](https://trends.google.com/trending/rss?geo=IN)
-4. [utet answer key](https://trends.google.com/trending/rss?geo=IN)
+1. [ubse utet answer key](https://trends.google.com/trending/rss?geo=IN)
+2. [michael olise](https://trends.google.com/trending/rss?geo=IN)
+3. [france national football team vs belgium national football team lineups](https://trends.google.com/trending/rss?geo=IN)
+4. [daniel maldini](https://trends.google.com/trending/rss?geo=IN)
 5. [honda xr300l](https://trends.google.com/trending/rss?geo=IN)
 6. [british airways flight ba295](https://trends.google.com/trending/rss?geo=IN)
 7. [east bengal fc ifa shield](https://trends.google.com/trending/rss?geo=IN)
@@ -20,10 +20,10 @@
 - [Not now daal-ing, says MAGA, as Montana governor comes to India to sell pulses](https://timesofindia.indiatimes.com/world/us/not-now-daal-ing-says-maga-as-montana-governor-comes-to-india-to-sell-pulses/articleshow/134715572.cms)
 - [Two killed, Indian among injured after Russian drone hits Turkish cargo ship](https://timesofindia.indiatimes.com/india/two-killed-indian-among-injured-after-russian-drone-hits-turkish-cargo-ship/articleshow/134716525.cms)
 - [In 2009, Google’s Eric Schmidt bought a ship; by 2022, it mapped 1.3m sq km of seafloor](https://timesofindia.indiatimes.com/technology/tech-news/in-2009-googles-eric-schmidt-and-wife-wendy-bought-a-former-fisheries-ship-by-2022-the-vessel-offered-free-research-access-and-had-mapped-over-1-3-million-square-kilometres-of-seafloor/articleshow/134712878.cms)
-- [Probe sex assault case against Nagina MP Azad, court directs Delhi cops](https://timesofindia.indiatimes.com/india/probe-sex-assault-case-against-nagina-mp-chandrashekhar-azad-court-directs-delhi-cops/articleshow/134716866.cms)
+- [Rawat seeks meet with Congress brass as Kumari Selja slams his yatra plan](https://timesofindia.indiatimes.com/india/rawat-seeks-meet-with-congress-brass-as-kumari-selja-slams-his-yatra-plan/articleshow/134717126.cms)
 - [Woman declares Rs 67.4L ancestral jewellery in ITR; gets notice, she wins in ITAT](https://timesofindia.indiatimes.com/business/india-business/woman-declared-rs-67-4-lakh-ancestral-jewellery-in-her-itr-which-led-to-additions-by-tax-department-itat-mumbai-deleted-it-on-basis-of-old-records-but-rejected-her-rs-12-lakh-huf-brokerage-claim/articleshow/134706982.cms)
-- ['Judicial impropriety': Ex-CJI Gavai on SC judge Bhuyan's remarks criticising SIR](https://timesofindia.indiatimes.com/india/judicial-impropriety-ex-cji-gavai-on-sitting-sc-judge-bhuyans-remarks-criticising-sir/articleshow/134716877.cms)
-- [Rajya Sabha polls: 8 fresh BJP faces for UP, Hardeep Puri among 2 ministers dropped](https://timesofindia.indiatimes.com/india/rajya-sabha-polls-8-fresh-bjp-faces-for-up-hardeep-puri-among-2-ministers-dropped/articleshow/134716837.cms)
+- [Supreme Court may get 3 judges today, to be one short of full strength](https://timesofindia.indiatimes.com/india/supreme-court-may-get-3-judges-today-to-be-one-short-of-full-strength/articleshow/134717182.cms)
+- [Form 6 not modified, only declaration added: Election Commission](https://timesofindia.indiatimes.com/india/form-6-not-modified-only-declaration-added-election-commission/articleshow/134717170.cms)
 
 **NDTV**
 - [Trump Says US Moved All B-1 Bombers From UK Airbase After "Some Threats"](https://www.ndtv.com/world-news/donald-trump-says-us-moved-all-b-1-bombers-from-uk-airbase-after-some-threats-12143177#publisher=newsstand)
@@ -62,6 +62,7 @@
 - [ಕೂಡಲಸಂಗಮ ಬಳಿ ಅನ್ಯಕೋಮಿನ ಕುಟುಂಬದಿಂದ ಮಾಂಸ ಸೇವನೆ ಆರೋಪ; ವಿಡಿಯೋ ವೈರಲ್; ನೆಟ್ಟಿಗರ ಆಕ್ರೋಶ](https://vijaykarnataka.com/news/bagalkot/allegation-of-meat-consumption-by-a-family-near-kudalasangama-video-goes-viral/articleshow/134711903.cms)
 
 **The Hindu**
+- [First international cargo vessel leaves eastern Assam since 1947](https://www.thehindu.com/news/national/assam/first-international-cargo-vessel-leaves-eastern-assam-since-1947/article71547112.ece)
 - [19,000 West Bengal voters to miss bypolls as appeals remain pending in tribunals](https://www.thehindu.com/news/national/west-bengal/crawling-pace-in-west-bengal-appellate-tribunals-keep-voters-in-limbo/article71547840.ece)
 - [CEC Gyanesh Kumar has lost public trust and must be removed, say former bureaucrats, activists](https://www.thehindu.com/news/national/cec-gyanesh-kumar-has-lost-public-trust-and-must-be-removed-say-former-bureaucrats-activists/article71548097.ece)
 - [Gyanesh Kumar changed Form 6 ‘illegally’ during SIR, says Rahul Gandhi](https://www.thehindu.com/news/national/rahul-gandhi-congress-form-6-election-commission-of-india-cec-gyanesh-kumar/article71547253.ece)
@@ -71,9 +72,9 @@
 - [Chief Secy should ask District Collectors to instruct officials to follow Union Govt.’s guidelines on protocols: MP](https://www.thehindu.com/news/national/tamil-nadu/chief-secy-should-ask-district-collectors-to-instruct-officials-to-follow-union-govts-guidelines-on-protocols-mp/article71548386.ece)
 - [Wayanad township: Second-phase house construction to be completed by October 31](https://www.thehindu.com/news/national/kerala/wayanad-township-second-phase-house-construction-to-be-completed-by-october-31/article71546872.ece)
 - [Encroachment of land in Mumbai](https://www.thehindu.com/opinion/op-ed/encroachment-of-land-in-mumbai/article71548710.ece)
-- [T.N. allocated ₹812 crore for Annan Seer scheme](https://www.thehindu.com/news/national/tamil-nadu/tn-allocated-812-crore-for-annan-seer-scheme/article71548872.ece)
 
 **Livemint**
+- [Caleb Flynn, ex-American Idol singer, sentenced to life without parole after being found guilty of wife Ashley’s murder](https://www.livemint.com/news/world/caleb-flynn-ex-american-idol-singer-sentenced-to-life-without-parole-after-being-found-guilty-of-wife-ashley-s-murder-11791235237230.html)
 - [Yemen Says It’s Retaken Mocha as Battle for Bab El-Mandeb Looms](https://www.livemint.com/news/yemen-says-it-s-retaken-mocha-as-battle-for-bab-el-mandeb-looms-11791233947899.html)
 - [US DOJ moves to revoke citizenship of 40 naturalised Americans accused of hiding criminal pasts](https://www.livemint.com/news/world/us-doj-moves-to-revoke-citizenship-of-40-naturalised-americans-accused-of-hiding-criminal-pasts-11791230552138.html)
 - [Actor Robert Kelker-Kelley, known for ‘Days of Our Lives’, dies at 62](https://www.livemint.com/news/us-news/actor-robert-kelker-kelley-known-for-days-of-our-lives-dies-at-62-11791229867127.html)
@@ -83,7 +84,6 @@
 - [Delhi-based makeup artist's  ₹4.5 lakh weekly earnings stun internet: ‘Thinking about burning off my 15 years of degrees’](https://www.livemint.com/news/trends/delhibased-makeup-artists-4-5-lakh-weekly-earnings-stun-internet-thinking-about-burning-off-my-15-years-of-degrees-11791221635394.html)
 - [Using AI too much? Doctor shares 5 warning signs to watch out for before it takes a toll on your mental health](https://www.livemint.com/news/trends/using-ai-too-much-doctor-shares-5-warning-signs-to-watch-out-for-before-it-takes-a-toll-on-your-mental-health-11791222133383.html)
 - [Fire breaks out near Ranbir Kapoor’s Ramayana set in Mumbai, no injuries reported as safety concerns arise](https://www.livemint.com/news/india/fire-breaks-out-near-ranbir-kapoor-s-ramayana-set-in-mumbai-no-injuries-reported-as-safety-concerns-arise-11791220285767.html)
-- [Nigeria Air Force plane crashes en route to Lagos, killing all 32 on board- What we know](https://www.livemint.com/news/world/nigeria-air-force-plane-crashes-en-route-to-lagos-killing-all-32-on-board-what-we-know-11791221569589.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -114,6 +114,7 @@
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ನಿತ್ಯ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರು ಖಿನ್ನತೆಯಿಂದ ಹೊರಬರುವುದು ಕಷ್ಟವಾಗಲಿದೆ…](https://tv9kannada.com/horoscope/horoscope-today-06-october-daily-zodiac-predictions-and-remedies-1246756.html)
 - [ಬೆಂಗಳೂರಿನಾದ್ಯಂತ ವರುಣಾರ್ಭಟ: ರಾತ್ರಿ ಮಳೆಗೆ ರಸ್ತೆಗಳು ಜಲಾವೃತ, ಎಲ್ಲೆಡೆ ಟ್ರಾಫಿಕ್](https://tv9kannada.com/videos/bengaluru-heavy-rain-roads-waterlogged-after-night-downpour-traffic-disrupted-across-city-1246857.html)
 - [ಮುಂಬೈನ ಡಿಪೋದಲ್ಲಿ ಭಾರೀ ಬೆಂಕಿ ಅವಘಡ; ಧಗಧಗನೆ ಹೊತ್ತಿ ಉರಿದ ಬಸ್‌ಗಳು](https://tv9kannada.com/videos/massive-fire-at-mumbai-best-bus-depot-cng-run-buses-burning-video-viral-1246858.html)
 - [ಸರ್ಕಾರದ ಬೊಕ್ಕಸಕ್ಕೆ ಭರ್ಜರಿ ‘ಕಿಕ್’ ಕೊಟ್ಟ ಮದ್ಯಪ್ರಿಯರು: ಅಬಕಾರಿ ಇಲಾಖೆಗೆ ಭರ್ಜರಿ ಲಾಭ](https://tv9kannada.com/karnataka/karnataka-liquor-and-beer-sales-surge-state-revenue-hits-22191-crore-1246844.html)
@@ -123,7 +124,6 @@
 - [ಬಾಳೆಹಣ್ಣು, ಪಪ್ಪಾಯಿ ತಿನ್ನಲು 2ರಿಂದ 3 ಗಂಟೆ ಗ್ಯಾಪ್ ಬೇಕೇ? ಈ ಬಗ್ಗೆ ತಜ್ಞರ ಅಭಿಪ್ರಾಯವೇನು ತಿಳಿದುಕೊಳ್ಳಿ](https://tv9kannada.com/health/is-the-banana-papaya-combination-harmful-know-what-science-says-1246833.html)
 - [ಹೆಣ್ಣಿನ ಆಸೆಗೆ ಕೋರ್ಟ್​ ನಕಲಿ ದಾಖಲೆ ಸೃಷ್ಟಿಸಿ ಜೈಲಿನಿಂದ ಕೈದಿ ಬಿಡುಗಡೆ: ಡಿಐಜಿಯ ಕೃತ್ಯ ಬಟಾಬಯಲು](https://tv9kannada.com/karnataka/dig-somashekhar-released-life-convict-for-using-fake-court-order-over-affair-with-shankar-wife-1246837.html)
 - [ಲಕ್ನೋದಲ್ಲಿ ಭಾರೀ ಮಳೆ; ಮೊದಲ ಟಿ20 ಪಂದ್ಯ ನಡೆಯುವುದು ಅನುಮಾನ](https://tv9kannada.com/sports/cricket-news/ind-vs-wi-1st-t20-lucknow-weather-forecast-rain-threat-1246841.html)
-- [ದಸರಾ ರಜೆಯಲ್ಲೂ ಖಾಸಗಿ ಶಾಲೆಗಳ ಕಳ್ಳಾಟ: ಸಿಡಿದೆದ್ದ ಹಿಂದೂಪರ ಸಂಘಟನೆಗಳು](https://tv9kannada.com/karnataka/bengaluru/bengaluru-private-schools-hold-classes-during-dasara-holidays-hindu-organizations-demand-action-1246830.html)
 
 **Prajavani**
 - [ಮನೆಯಲ್ಲಿ  ₹1.04 ಲಕ್ಷ ಮೌಲ್ಯದ  ಗಾಂಜಾ ವಶ: ಆರೋಪಿ ಬಂಧನ](https://www.prajavani.net/district/gadaga/ganja-seized-gadag-accused-arrested-nagal-police-4309990)
@@ -145,35 +145,35 @@
 - [ಈಶಾನ್ಯ ಶಿಕ್ಷಕರ ಕ್ಷೇತ್ರ: ಆರು ಅಭ್ಯರ್ಥಿಗಳಿಂದ 10 ನಾಮಪತ್ರ ಸಲ್ಲಿಕೆ](https://eedina.com/?p=770360)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Delhi (4.8)
 - India (3.9)
+- Delhi (3.5)
+- Supreme Court (3.0)
 - Switzerland (2.6)
+- Form (2.6)
 - October (2.6)
 - Mumbai (2.6)
-- Supreme Court (2.0)
 - CEC Gyanesh Kumar (2.0)
 - Yemen (1.9)
 - Indian (1.9)
 - Pakistan (1.6)
+- First (1.6)
 - Saudi (1.3)
 - Turkiye (1.3)
 - Mecca (1.3)
-- MAGA (1.3)
-- Montana (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [மதுராந்தகம்: தி.மு.க. வேட்பாளர் வழக்குரைஞர் இ.பரந்தாமனை ஆதரித்து திராவிடர் கழகத் தலைவர் ஆசிரியர் தேர்தல் பரப்புரை](https://viduthalai.in/208885/%E0%AE%AE%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%95%E0%AE%AE%E0%AF%8D-%E0%AE%A4%E0%AE%BF-%E0%AE%AE%E0%AF%81-%E0%AE%95-%E0%AE%B5%E0%AF%87%E0%AE%9F%E0%AF%8D%E0%AE%AA-3/)
-- [Quit her job at 30, built Rs 250-crore 'Open Secret': The mother-daughter story behind Ahana Gautam's snack brand](https://www.moneycontrol.com/news/business/markets/quit-her-job-at-age-30-built-rs-250-crore-open-secret-the-mother-daughter-story-behind-ahana-gautam-snack-brand-14044814.html)
-- [भुवनेश्वर कुमार बने टीम इंडिया के कप्तान, इस टूर्नामेंट में संभालेंगे कमान; क्रुणाल पांड्या को भी मिला मौका](https://www.jagran.com/cricket/headlines-bhuvneshwar-kumar-to-lead-a-indian-team-at-hong-kong-sixes-2026-40395047.html)
-- [Nobel Medicine Prize Goes To 3 Scientists For Research Into Brain Activity](https://www.ndtv.com/world-news/karl-deisseroth-peter-hegemann-georg-nagel-nobel-prize-in-medicine-goes-to-3-for-discoveries-concerning-optogenetics-12140374)
-- [Your place is in jail: Supreme Court slams Rajpal Yadav for failure to pay in cheque bounce case](https://www.barandbench.com/news/litigation/your-place-is-in-jail-supreme-court-slams-rajpal-yadav-for-failure-to-pay-in-cheque-bounce-case)
-- [Mamata 2021 injury row: Ex-CM's lawyer sends notice to hospitals over medical record 'disclosure'](https://timesofindia.indiatimes.com/india/mamata-2021-injury-row-ex-cms-lawyer-sends-notice-to-hospitals-over-medical-record-disclosure/articleshow/134694471.cms)
-- [എസ്ഐആർ: തിരഞ്ഞെടുപ്പ് കമ്മീഷന് സുപ്രീംകോടതി നോട്ടീസ്; ഗ്യാനേഷ് കുമാറിനെ സസ്പെൻഡ് ചെയ്യണമെന്ന ആവശ്യത്തിൽ ഇടക്കാല ഉത്തരവില്ല](https://malayalam.news18.com/news/india/supreme-court-refuses-interim-suspension-of-cec-gyanesh-kumar-issues-notice-to-eci-rv-791045.html)
-- [ગુજરાતના 10 હજારથી વધુ મહેસૂલ કર્મચારીઓ હડતાળ પર: કચેરીઓમાં કામકાજ ઠપ્પ, લોકો ધક્કા ખાવા મજબૂર!](https://www.gujaratsamachar.com/news/gujarat/more-than-10-thousand-gujarat-revenue-employees-on-strike-over-pending-demands-work-in-offices-halted-43281167379)
-- [फॉर्म 6 पर SC की टिप्पणी से बवाल, कांग्रेस और CJP बोली- '...तो CEC ने झूठ बोला'](https://www.abplive.com/news/india/cji-surya-kant-on-election-commission-form-6-saurav-das-and-congress-says-cec-gyanesh-kumar-lied-3197922)
-- ['১৫ দিনের মধ্যে ফিরে আসতে হবে'', কাদের বার্তা দিলেন মমতা বন্দ্যোপাধ্যায় ?](https://bengali.abplive.com/district/mamata-banerjee-special-message-to-followers-by-kalyan-banerjee-at-islampur-1195182)
+- [ठाकरे बंधूंच्या मोर्चानंतर अतुल कुलकर्णींनी लिहिलं एकच वाक्य; राजकारण्यांना विचार करायला लावणारी पोस्ट](https://www.tv9marathi.com/entertainment/atul-kulkarni-post-on-communication-is-missing-in-politics-amid-cjp-raj-thackeray-uddhav-thackeray-morcha-demanding-gyanesh-kumar-resignation-1772396.html)
+- [കുഴഞ്ഞുവീണുള്ള മരണമല്ല, കൊലപാതകം; ഭാര്യ അറസ്റ്റിൽ, അന്വേഷണം ഹെൽമറ്റ് ധരിച്ച ആ രഹസ്യ സുഹൃത്തിലേക്ക്?](https://www.mathrubhumi.com/crime/news/kollam-kundara-raju-murder-wife-arrested-xurakty8)
+- [Sivakarthikeyan : నేను పీపుల్ మేడ్ స్టార్... ఫ్యాన్ మీట్‌లో శివకార్తికేయన్ - పాలిటిక్స్‌లోకి తమిళ హీరో ఎంట్రీ కన్ఫర్మేనా?](https://telugu.abplive.com/entertainment/cinema/sivakarthikeyan-calls-himself-people-made-star-fan-meet-near-porur-sparks-politcal-buzz-260742)
+- [યુપી રાજ્યસભા ચૂંટણી માટે ભાજપે જાહેર કર્યા 8 ઉમેદવાર, કેન્દ્રીય મંત્રી હરદીપ પુરીનું પત્તું કપાયું](https://gujarati.abplive.com/news/india/bjp-releases-candidate-list-for-up-rajya-sabha-election-2026-hardeep-puri-drop-992673)
+- ['Women In Delhi Must Feel Safe Even Walking Alone At Night; Men Should Fear Committing Sexual Offences' : Supreme Court To Police](https://www.livelaw.in/top-stories/women-in-delhi-must-feel-safe-even-walking-alone-at-night-men-should-fear-committing-sexual-offences-supreme-court-to-police-553130)
+- [Shreyas Iyer on Vaibhav Sooryavanshi: 'His time will come'](https://m.rediff.com/cricket/report/vaibhav-sooryavanshi-shreyas-iyer-backs-young-india-cricketer-for-future-dominance/20261005.htm)
+- ['દૃશ્યમ 3'એ બોક્સ ઓફિસ ગજવ્યું: 3 જ દિવસમાં 272 કરોડ પાર, અજય દેવગને રચ્યો નવો રેકોર્ડ!](https://www.gujaratsamachar.com/news/entertainment/drishyam-3-rocks-the-box-office-crosses-272-crores-in-just-3-days-ajay-devgn-creates-a-new-record-87667725717)
+- [2026 Nobel medicine prize: Trio wins for optogenetics work](https://www.thehindu.com/sci-tech/health/nobel-prize-physiology-medicine-2026-winner/article71545941.ece)
+- [Saudi VS Houthi: MBS ने उतारे 100 जेट, हूतियों से छीना बाब](https://hindi.news18.com/world/middle-east-yemen-houthi-war-saudi-arabia-pakistan-turkey-riyadh-meeting-munir-erdogan-mecca-pact-100-jet-10887102.html)
+- [Nobel Prize: మెద‌డు మిస్ట‌రీపై స్ట‌డీ.. ముగ్గురు శాస్త్ర‌వేత్త‌ల‌కు మెడిసిన్ నోబెల్](https://www.ntnews.com/international/2026-nobel-prize-in-medicine-has-been-awarded-to-karl-deisseroth-peter-hegemann-and-georg-nagel-2527796)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
