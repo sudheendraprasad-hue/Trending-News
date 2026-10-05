@@ -1,16 +1,16 @@
-# India Trending Report — 2026-10-04 23:36:31
+# India Trending Report — 2026-10-05 00:02:27
 
 ## Google Trends (India) — top trending searches
-1. [trinidad and tobago vs curaçao](https://trends.google.com/trending/rss?geo=IN)
-2. [टीवीएस मोटर कंपनी](https://trends.google.com/trending/rss?geo=IN)
-3. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
-4. [earthquake](https://trends.google.com/trending/rss?geo=IN)
-5. [kristoffer ajer](https://trends.google.com/trending/rss?geo=IN)
-6. [joão cancelo](https://trends.google.com/trending/rss?geo=IN)
-7. [portugal national football team vs norway national football team stats](https://trends.google.com/trending/rss?geo=IN)
-8. [punjab fc](https://trends.google.com/trending/rss?geo=IN)
-9. [uditi singh](https://trends.google.com/trending/rss?geo=IN)
-10. [vivo v80 price](https://trends.google.com/trending/rss?geo=IN)
+1. [वर्षा](https://trends.google.com/trending/rss?geo=IN)
+2. [protest](https://trends.google.com/trending/rss?geo=IN)
+3. [trinidad and tobago vs curaçao](https://trends.google.com/trending/rss?geo=IN)
+4. [टीवीएस मोटर कंपनी](https://trends.google.com/trending/rss?geo=IN)
+5. [gonçalo ramos](https://trends.google.com/trending/rss?geo=IN)
+6. [uefa nations league standings](https://trends.google.com/trending/rss?geo=IN)
+7. [earthquake](https://trends.google.com/trending/rss?geo=IN)
+8. [kristoffer ajer](https://trends.google.com/trending/rss?geo=IN)
+9. [joão cancelo](https://trends.google.com/trending/rss?geo=IN)
+10. [portugal national football team vs norway national football team stats](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -20,10 +20,10 @@
 - [US withdraws all bombers from UK's Fairford base after suspected terror plot](https://timesofindia.indiatimes.com/world/us/re-deployed-to-their-home-stations-us-withdraws-all-bombers-from-uks-raf-fairford-after-suspected-terror-plot/articleshow/134680412.cms)
 - [Other side of Sept 30: A family waited anxiously for their son — Capt Smit Machchhar](https://timesofindia.indiatimes.com/city/mumbai/the-other-side-of-sept-30-a-family-waited-anxiously-for-their-son-captain-smit-machchhar/articleshow/134679408.cms)
 - [Marc Benioff, wife gave $100M to UCSF; 5 years later, children’s hospital opened](https://timesofindia.indiatimes.com/technology/tech-news/in-2010-salesforce-ceo-marc-benioff-and-his-wife-gave-100-million-to-ucsf-five-years-later-its-new-san-francisco-childrens-hospital-opened-with-183-beds-and-a-rooftop-helipad/articleshow/134675617.cms)
-- [West Bengal: Laws in 6 months to end ‘land jihad’, ‘love jihad’, says CM Suvendu](https://timesofindia.indiatimes.com/city/kolkata/bengal-will-be-3rd-state-to-implement-ucc-says-suvendu/articleshow/134676488.cms)
+- [India's political will needed to extradite Sheikh Hasina: Bangladesh](https://timesofindia.indiatimes.com/world/south-asia/indias-political-will-needed-to-extradite-sheikh-hasina-bangladesh/articleshow/134683095.cms)
 - [Texas city to pay at least $175,000 over excess groundwater pumping at SpaceX site](https://timesofindia.indiatimes.com/world/us/a-texas-city-will-pay-at-least-175000-after-the-spacex-site-it-owns-pumped-128-million-gallons-of-groundwater-above-permitted-limits-over-three-years-the-settlement-includes-monitoring-payments-for-25-years/articleshow/134675511.cms)
-- [CEC Gyanesh Kumar faces fresh Kerala vigilance probe in 2006 case](https://timesofindia.indiatimes.com/city/thiruvananthapuram/fresh-probe-into-graft-charges-during-gyanesh-tenure/articleshow/134678201.cms)
-- [Next-generation GST aimed at boosting India's next phase of growth](https://timesofindia.indiatimes.com/business/india-business/next-generation-gst-aimed-at-boosting-indias-next-phase-of-growth/articleshow/134682266.cms)
+- [India in striking distance of 8% growth, says Shaktikanta Das](https://timesofindia.indiatimes.com/business/india-business/india-in-striking-distance-of-8-growth-says-shaktikanta-das/articleshow/134683083.cms)
+- [West Bengal: Laws in 6 months to end ‘land jihad’, ‘love jihad’, says CM Suvendu](https://timesofindia.indiatimes.com/city/kolkata/bengal-will-be-3rd-state-to-implement-ucc-says-suvendu/articleshow/134676488.cms)
 
 **NDTV**
 - ['Vertical Roller Coaster': Expert Explains flydubai Flight's Sudden Plunge](https://www.ndtv.com/world-news/vertical-roller-coaster-expert-explains-flydubai-flights-sudden-plunge-12138441#publisher=newsstand)
@@ -126,15 +126,16 @@
 - [ಕೆನಡಾ ಪ್ರಜೆ ವಿಡಿಯೋ ವೈರಲ್ ಬೆನ್ನಲ್ಲೇ ಫುಟ್‌ಪಾತ್ ದುರಸ್ತಿ: ಜಿಬಿಎ ವಿರುದ್ಧ ಬೆಂಗಳೂರಿಗರು ಆಕ್ರೋಶ](https://tv9kannada.com/karnataka/bengaluru/footpath-repaired-after-canadian-nationals-video-goes-viral-bengaluru-residents-express-anger-at-gba-1246444.html)
 
 **Prajavani**
-- [ಬೀದರ್: ಡಿಪಿಆರ್‌ನಲ್ಲೇ ಉಳಿದ ‘ಕರೇಜ್‌’ ಅಂತರ್‌ ಜಲಾಶಯದ ಅಭಿವೃದ್ಧಿ](https://www.prajavani.net/district/web-exclusive/bidar-karez-development-project-delayed-in-dpr-stage-4307670)
-- [ನಕಲಿ ಮತದಿಂದ ಗೆಲ್ಲುವುದು ತಪ್ಪುತ್ತದೆಂಬ ಸಂಕಟ ಕಾಂಗ್ರೆಸ್ ಗೆ: ಬೊಮ್ಮಾಯಿ ಟೀಕೆ](https://www.prajavani.net/district/gadaga/basavaraj-bommai-criticizes-congress-over-fake-voter-list-allegations-4307900)
-- [2027ರ ಅಂತ್ಯಕ್ಕೆ ‘ಭಿಕ್ಷುಕ ಮುಕ್ತ ಬೆಂಗಳೂರು’](https://www.prajavani.net/district/bengaluru-city/beggars-free-bengaluru-government-rehabilitation-campaign-4307698)
-- [ಬರ ಪರಿಹಾರಕ್ಕೆ ಕೇಂದ್ರದಿಂದ ಅಗತ್ಯ ನೆರವು: ಜೋಶಿ](https://www.prajavani.net/district/dharwad/central-government-drought-relief-assistance-karnataka-pralhad-joshi-4307651)
-- [ಎಸ್‌ಐಆರ್‌ ರದ್ದತಿಗೆ ಆಗ್ರಹಿಸಿ ಬೀದಿಗಿಳಿಯಿರಿ: ಪ್ರಕಾಶ್‌ ರಾಜ್‌](https://www.prajavani.net/district/dharwad/prakash-raj-protest-call-dharwad-electoral-roll-revision-4307650)
-- [ಹುಸಿ ಬಾಂಬ್‌ ಕರೆ: ಮಾಜಿ ಉದ್ಯೋಗಿ ಬಂಧನ](https://www.prajavani.net/district/mysuru/mysuru-hoax-bomb-call-former-employee-arrested-4307634)
-- [ನಗರದಲ್ಲಿ ಇಂದು: ಬೆಂಗಳೂರು ನಗರದ ಇಂದಿನ ಕಾರ್ಯಕ್ರಮಗಳು](https://www.prajavani.net/district/bengaluru-city/bengaluru-city-events-literary-cultural-educational-programs-today-4307793)
-- [ಮತದಾನದ ಹಕ್ಕು ಕಸಿದುಕೊಳ್ಳುವುದು ಸಂವಿಧಾನದ ಉಲ್ಲಂಘನೆ: ಭುಯಾನ್](https://www.prajavani.net/news/india-news/supreme-court-justice-ujjal-bhuyan-on-voting-rights-and-constitution-4307893)
-- [‘ಪೊಲೀಸರಿಂದ ಲೈಂಗಿಕ ಕಿರುಕುಳ’](https://www.prajavani.net/news/india-news/delhi-police-sexual-harassment-allegation-journalists-protest-4307709)
+- [ಮುಂಬೈನಲ್ಲಿ ವಿಪಕ್ಷಗಳ ಶಕ್ತಿ ಪ್ರದರ್ಶನ](https://www.prajavani.net/news/india-news/opposition-protest-mumbai-delhi-cec-resignation-demand-4307894)
+- [3.94 ಲಕ್ಷ ‘ಇತರೆ’ ಮತದಾರರು ಎಲ್ಲಿ?](https://www.prajavani.net/news/karnataka-news/missing-other-category-voters-in-karnataka-electoral-roll-discrepancy-4307669)
+- [ದುರ್ಗೆಗೆ ಪೂಜೆ, ಯಶೋದೆಗೆ ಸಜೆ!](https://www.prajavani.net/op-ed/articles/political-debate-on-patriarchy-and-women-rights-in-india-4307598)
+- [ದಿನ ಭವಿಷ್ಯ: ಔದ್ಯೋಗಿಕ ಜೀವನದಲ್ಲಿ ಬದಲಾವಣೆ](https://www.prajavani.net/astro-vastu/horoscope/daily-horoscope-career-changes-october-4307889)
+- [ಸಿಂಗೀತಂ ಶ್ರೀನಿವಾಸ ರಾವ್: ಚಿತ್ರ ಪ್ರಯೋಗಶಾಲೆಯ ‘ಮೇಷ್ಟ್ರು’](https://www.prajavani.net/entertainment/cinema/singeetham-srinivasa-rao-experimental-cinema-master-career-profile-4307723)
+- [ಆಳ– ಅಗಲ: ರಾಜಧಾನಿಯಲ್ಲಿ ರೌಡಿಗಳಿಗೆ ಇಲ್ಲ ಲಗಾಮು](https://www.prajavani.net/explainer/detail/bangalore-crime-rowdy-activities-increase-police-action-4307881)
+- [ಈ ದಿನದ ಪಂಚಾಂಗ: ಸೋಮವಾರ, 05 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/astro-vastu/panchanga/kannada-panchanga-monday-october-fifth-4307890)
+- [ವಾಚಕರ ವಾಣಿ: ಪ್ರಜಾವಾಣಿ ಓದುಗರ ಈ ದಿನದ ಪತ್ರಗಳು](https://www.prajavani.net/op-ed/readers-letter/prajavani-readers-forum-letters-phd-scams-farmers-protest-police-corruption-4307872)
+- [ಪೊಲೀಸ್ ವ್ಯವಸ್ಥೆ ಸುಧಾರಣೆಗೆ ಸಮಿತಿ ಉತ್ತರದಾಯಿತ್ವ ತರುವ ಕೆಲಸವಾಗಲಿ](https://www.prajavani.net/op-ed/editorial/karnataka-government-forms-committees-for-police-reforms-accountability-4306994)
+- [ನಡೆದುಕೊಂಡು ಹೋಗುತ್ತಿದ್ದ ವ್ಯಕ್ತಿಯ ಮೇಲೆ ದಾಳಿ ಮಾಡಿರುವುದು ಇದು ಸುಳ್ಳು](https://www.prajavani.net/news/fact-check/fact-check-fake-video-bangladesh-incident-misleading-claims-india-4307887)
 
 **eedina**
 - [ಚಿಕ್ಕಮಗಳೂರು | ದೊಡ್ಡ ಗುಂಡಿಗಳನ್ನು ಮುಚ್ಚಿದ ಶಾಲಾ ಮಕ್ಕಳು](https://eedina.com/?p=769882)
@@ -149,12 +150,12 @@
 - [ಕಾರವಾರ | ಗ್ರಾಮ ಆಡಳಿತ ಅಧಿಕಾರಿ ಪರೀಕ್ಷೆ ಸುಸೂತ್ರ: ಒಟ್ಟು 11,671 ಅಭ್ಯರ್ಥಿಗಳು ಹಾಜರು](https://eedina.com/?p=769833)
 
 ## Cross-source trending keywords (derived from headlines above)
+- India (2.6)
 - Jaishankar (2.6)
 - What (2.6)
 - Supreme Court (2.0)
 - West Bengal (2.0)
 - Delhi (1.9)
-- Kerala (1.6)
 - Russia (1.6)
 - Ukraine (1.6)
 - Israel (1.6)
@@ -168,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ['होर्मुज जलडमरूमध्य बंद रहेगा', ईरान ने अमेरिका के सामने रखी ये 7 शर्तें, मध्य पूर्व संकट गहराया](https://navbharattimes.indiatimes.com/world/middle-east/hormuz-strait-closed-until-us-meets-seven-agreed-conditions-iran-says-amid-fuel-prices-hike/articleshow/134674113.cms)
-- ['Not a single post, statement': BJP launches blistering attack on Congress over Captain Smit Machchhar](https://timesofindia.indiatimes.com/india/not-a-single-post-statement-bjp-launches-blistering-attack-on-congress-over-captain-smit-machchhar/articleshow/134674110.cms)
-- [AIADMK: விரல் மை காய்வதற்குள் துரோகம்.. தவெக மைனாரிட்டி அரசுக்கு பாடம் புகட்டனும்.. இபிஎஸ் ஆவேசம்.!](https://tamil.abplive.com/news/politics/people-will-teach-a-lesson-to-the-tvk-minority-government-edappadi-palaniswami-276377)
-- [Influencer Simran Patel: ઇન્સ્ટાગ્રામમાં 1 મિલિયન ફોલોવર્સ ધરાવતી સુરતની મહિલા ઇન્ફ્યુએન્સર કાયદાના સકંજામાં! એવી તે કઈ રીલ્સ પોસ્ટ કરી દીધી?](https://gujarati.news18.com/photogallery/surat/surat-based-female-instagram-influencer-simran-patel-arrested-for-sharing-obscene-reels-featuring-gandhiji-vsd-ws-bl-2636209.html)
-- [সোনার বাজারে ভূমিকম্প! ৩৫০০ টাকা কমল দাম, রবিবার কলকাতার দর জানলে চমকে যাবেন](https://bengali.indianexpress.com/west-bengal/gold-price-today-kolkata-gold-rate-falls-rs-3500-october-4-2026-12622295)
-- [உதயநிதி ஸ்டாலின் மீது வழக்குப்பதிவு](https://www.dinakaran.com/news/caseregistered-udhayanidhistalin/)
-- [কী ভাবে শূন্য থেকে ঘুরে দাঁড়িয়ে আজ বিশ্বে প্রথম Honda](https://eisamay.com/photo-gallery/history-of-honda-automobiles-how-it-came-in-existence-after-toyota-selling-to-toyota/200551006.cms)
-- [Watch: ప్రియురాలితో కలిసి ఉన్న భర్తను పట్టుకున్న భార్య.. ఆ తర్వాత ఏం జరిగిందంటే?](https://www.ntnews.com/national/woman-catches-husband-eating-momo-with-girlfriend-in-uttar-pradeshs-meerut-he-drags-her-on-car-bonnet-video-goes-viral-2527147)
-- [Durga Puja: ব্যাঙ্কের লকারে থাকেন দুর্গা, ষষ্ঠীতে বাড়ি আসেন পুলিশি প্রহরায়, জয়পুর রাজবাড়ি পুজোর ইতিহাস জেনে নিন](https://tv9bangla.com/spiritual/navratri/durga-puja-know-the-story-behind-purulia-jaipur-rajbaris-gold-durga-idol-1350786.html)
-- [ജപ്പാനിൽ ഏഷ്യൻ ഗെയിംസിന് സമാപനം; അടുത്ത പതിപ്പ് ദോഹയിൽ](https://www.mathrubhumi.com/sports/news/asian-games-concludes-india-fourth-place-85-medals-qxik49sb)
+- [Imran Khan | ప్ర‌భుత్వంతో పీటీఐ చ‌ర్చ‌లు విఫలం.. ఇస్లామాబాద్‌కు ఇమ్రాన్ ఖాన్ మ‌ద్ద‌తుదారుల ర్యాలీ](https://www.ntnews.com/international/imran-khan-supporters-to-march-towards-islamabad-october-4-after-pti-government-talks-fail-2527176)
+- [‘தவெக சார்பில் போட்டியிடும் துரோகிகளுக்கு பாடம் புகட்டுவீர்’: இபிஎஸ்](https://www.hindutamil.in/news/tamilnadu/teach-a-fitting-lesson-to-the-traitors-contesting-on-behalf-of-tvk-eps-appeal)
+- [Rakhi Sawant: 'কোমলের সিঁথিতে কি গোবিন্দার নামের সিঁদুর?' 'স্বামী চোর' বলে বোমা ফাটালেন রাখি](https://tv9bangla.com/entertainment/rakhi-sawant-slams-govindas-rumoured-gf-komal-rani-calls-her-pati-chor-1350817.html)
+- [‘കൂടുതൽ ആർജവത്തോടെ സ്വയം പ്രതിരോധിക്കും’; യുദ്ധത്തിന് സൈനികപരമായ പരിഹാരമില്ലെന്ന് ഇറാൻ](https://www.manoramaonline.com/news/latest-news/2026/10/04/iran-no-military-solution-to-us-conflict.html)
+- [संपूर्ण MPSC मंडळच बरखास्त करा, सत्तेतील आमदाराचा सरकारला घरचा आहेर, मुख्यमंत्र्यांना पत्रही देणार](https://www.tv9marathi.com/maharashtra/dissolve-the-entire-mpsc-board-mla-sanjay-gaikwad-makes-a-big-demand-to-the-government-1771665.html)
+- [વિરાટ કોહલીને અચાનક શું થયું? ત્રણેય વનડેમાં એક જ ભૂલ, કેપ્ટનથી લઈને ફેન્સ સુધી… બધા થયા ‘હેરાન’](https://tv9gujarati.com/sports/cricket-news/virat-kohli-repeats-same-mistake-in-all-3-odis-india-vs-west-indies-series-raises-big-questions-1527172.html)
+- [‘অন্যতম হটেস্ট গার্ল, হারিয়ে যাস না’, মিঠুন চক্রবর্তীর কাছ থেকে এমন ‘উপহার’ পেলেন কোন অভিনেত্রী?](https://www.anandabazar.com/entertainment/this-bengali-actress-received-praises-from-mithun-chakraborty-just-before-her-birthday-dgtl/cid/1717399)
+- [ECI Row : Supreme Court To Hear Tomorrow Petitions Against CEC Gyanesh Kumar Over SIR Decisions](https://www.livelaw.in/top-stories/eci-row-supreme-court-to-hear-tomorrow-petitions-against-cec-gyanesh-kumar-over-sir-decisions-553009)
+- [वीरेंद्र सहवाग के लाडले को मिली बड़ी जिम्मेदारी, 18 की उम्र में इस टीम का कप्तान बन मचाया तहलका](https://www.aajtak.in/sports/cricket/story/aaryavir-sehwag-handed-leadership-role-named-delhi-u19-captain-for-vinoo-mankad-trophy-aksp-dskc-2661198-2026-10-04)
+- [SRFTI Chaos: SRFTI-এর সামনে ফের উত্তেজনা, হাতে গেরুয়া পতাকা, ব্যারিকেড ভাঙল 'বঙ্গীয় হিন্দু জাগরণ মঞ্চ'](https://bengali.abplive.com/district/tension-outside-srfti-bangiya-hindu-jagaran-manch-members-carrying-saffron-flags-breached-the-barricades-1195091)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
