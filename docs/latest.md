@@ -1,4 +1,4 @@
-# India Trending Report — 2026-10-06 22:01:56
+# India Trending Report — 2026-10-06 22:37:29
 
 ## Google Trends (India) — top trending searches
 1. [spain vs argentina](https://trends.google.com/trending/rss?geo=IN)
@@ -7,23 +7,23 @@
 4. [hannibal](https://trends.google.com/trending/rss?geo=IN)
 5. [belarus vs finland](https://trends.google.com/trending/rss?geo=IN)
 6. [કરોડ](https://trends.google.com/trending/rss?geo=IN)
-7. [kim kardashian](https://trends.google.com/trending/rss?geo=IN)
-8. [street fighter movie](https://trends.google.com/trending/rss?geo=IN)
-9. [abhishek bachchan](https://trends.google.com/trending/rss?geo=IN)
-10. [scout op](https://trends.google.com/trending/rss?geo=IN)
+7. [street fighter movie](https://trends.google.com/trending/rss?geo=IN)
+8. [abhishek bachchan](https://trends.google.com/trending/rss?geo=IN)
+9. [scout op](https://trends.google.com/trending/rss?geo=IN)
+10. [scotland vs slovenia](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [Ukrainian drone attack sets fire to oil tanker carrying 23 Indians off Russia](https://timesofindia.indiatimes.com/world/europe/ukrainian-drone-attack-sets-fire-to-oil-tanker-carrying-23-indians-off-russias-black-sea-coast/articleshow/134750275.cms)
 - [Punjab govt moves SC against CBI probe into ‘bribe syndicate’ linked to Mann OSD](https://timesofindia.indiatimes.com/india/punjab-government-moves-supreme-court-against-cbi-probe-into-bribe-syndicate-linked-to-cm-bhagwant-manns-osd/articleshow/134749970.cms)
 - [Opposition's anti-SIR-CEC march turns into INDIA bloc-government face-off](https://timesofindia.indiatimes.com/india/oppositions-anti-sir-cec-march-turns-into-india-bloc-government-face-off/articleshow/134749875.cms)
 - [Flydubai cockpit attack: Incident left Capt Machchhar with 'depressed skull fracture'](https://timesofindia.indiatimes.com/india/flydubai-flight-incident-cockpit-attack-left-captain-smit-machchhar-with-depressed-skull-fracture/articleshow/134750000.cms)
 - [Rajnath launches first desi fleet support ship ‘Surya’ at Visakhapatnam](https://timesofindia.indiatimes.com/defence/news/rajnath-launches-indias-first-fleet-support-ship-surya-at-visakhapatnam-witnesses-delivery-of-2000th-aero-engine-in-koraput/articleshow/134749942.cms)
-- [CBI raids CM Bhagwant Mann’s camp office, his OSD’s home in graft probe](https://timesofindia.indiatimes.com/india/cbi-raids-cm-bhagwant-manns-camp-office-his-osds-home-in-graft-probe/articleshow/134749798.cms)
 - [SpaceX overpumped 128M gallons of groundwater; now Texas city has to pay $175,000](https://timesofindia.indiatimes.com/technology/tech-news/spacexs-rocket-testing-plant-overpumped-128-million-gallons-of-groundwater-in-three-years-now-this-texas-city-has-to-pay-175000-in-penalties-and-fund-a-new-monitoring-system/articleshow/134743244.cms)
-- [ED unearths bribe racket involving top executives of 40 PSUs, banks & companies](https://timesofindia.indiatimes.com/india/ed-unearths-bribe-racket-involving-top-executives-of-40-psus-banks-companies/articleshow/134749954.cms)
+- [CBI raids CM Bhagwant Mann’s camp office, his OSD’s home in graft probe](https://timesofindia.indiatimes.com/india/cbi-raids-cm-bhagwant-manns-camp-office-his-osds-home-in-graft-probe/articleshow/134749798.cms)
 - [Man deposits Rs 85.3 lakh given to him as cash gifts, gets notice; ITAT gives relief](https://timesofindia.indiatimes.com/business/india-business/man-deposits-rs-85-3-lakh-received-as-cash-gifts-from-wife-relatives-income-tax-calls-it-unexplained-and-sends-notice-but-itat-chennai-accepts-gift-deeds-and-gives-relief/articleshow/134743903.cms)
+- [ED unearths bribe racket involving top executives of 40 PSUs, banks & companies](https://timesofindia.indiatimes.com/india/ed-unearths-bribe-racket-involving-top-executives-of-40-psus-banks-companies/articleshow/134749954.cms)
 - [Amid Canada trade talks, NSAs discuss security coop](https://timesofindia.indiatimes.com/india/amid-canada-trade-talks-nsas-discuss-security-coop/articleshow/134750010.cms)
-- [Election Commission: Was ready to meet 240 oppn MPs but not at their chosen venue](https://timesofindia.indiatimes.com/india/election-commission-was-ready-to-meet-240-opposition-mps-but-not-at-their-chosen-venue/articleshow/134749929.cms)
 
 **NDTV**
 - [Ex-CIA Official Accused Of Stealing $40 Million In Gold Bars Pleads Guilty](https://www.ndtv.com/world-news/ex-cia-official-accused-of-stealing-40-million-in-gold-bars-pleads-guilty-12148503#publisher=newsstand)
@@ -56,7 +56,7 @@
 - [ತೋಟದಲ್ಲಿ ಇರುವೆ ಮಣ್ಣಿನ ಗುಡ್ಡೆ ಕಾಟವೇ? ಗಿಡಗಳಿಗೆ ಹಾನಿಯಾಗದಂತೆ ನಿವಾರಿಸಲು ಸುಲಭ ವಿಧಾನಗಳು](https://vijaykarnataka.com/lifestyle/home-decor/how-to-remove-ant-mounds-from-lawn-garden/articleshow/134746147.cms)
 - [India T20i Team- ಕಿವೀಸ್ ಪ್ರವಾಸಕ್ಕೆ RCB ಹೀರೋ! ಭಾರತ ತಂಡಕ್ಕೆ ಭುವನೇಶ್ವರ್ ಕುಮಾರ್ ಕಂಬ್ಯಾಕ್! ರಿಷಬ್ ಪಂತ್ `ಎ' ತಂಡದಲ್ಲೂ ಡೌಟ್](https://vijaykarnataka.com/sports/cricket/news/bhuvneshwar-kumar-comeback-to-india-t2oi-squad-against-new-zealand-rishab-pant-doubt-in-a-team/articleshow/134745071.cms)
 - [BBK 13 ಜಗ್ಗಮಮ್ಮಿ ರಾಕ್ಷಸತನ: ಕೆಟ್ಟ ಮನಸ್ಥಿತಿಗಳ ನಡುವೆ ಕೆಟ್ಟ ಜಗದೀಶ ಆಗಿದ್ದೀನಿ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-episode-31-monstrous-side-amidst-toxic-mindsets-jagadeesh-have-become-the-bad/articleshow/134749978.cms)
-- [ಮನೆಯಲ್ಲಿ ಉಳಿದ ಇಡ್ಲಿ ಎಸೆಯಬೇಡಿ; ಹೀಗೆ ಮಾಡಿ ಮಸಾಲಾ ಇಡ್ಲಿ ಫ್ರೈ, ರುಚಿ ಸೂಪರ್!](https://vijaykarnataka.com/lifestyle/home-decor/masala-idli-fry-recipe-leftover-idli/articleshow/134697040.cms)
+- [ಶೂ ಬಾಕ್ಸ್‌ನಲ್ಲಿರುವ ಸಿಲಿಕಾ ಜೆಲ್ ಪ್ಯಾಕೆಟ್ ಎಸೆಯಬೇಡಿ; ಮನೆಯಲ್ಲೂ ಹೀಗೆ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/silica-gel-packets-shoe-box-home-uses/articleshow/134651205.cms)
 - [Garuda Purana: ನಿಮ್ಮ ಆತ್ಮ ಹಳೆಯದೇ ಅಥವಾ ಹೊಸದೇ.?](https://vijaykarnataka.com/religion/hinduism/garuda-purana-these-signs-indicate-whether-your-soul-is-old-or-new/articleshow/134742133.cms)
 - [ಸ್ತನ ಕ್ಯಾನ್ಸರ್: ಗಡ್ಡೆ ಹೊರತಾಗಿ ಕಾಣಿಸಿಕೊಳ್ಳುವ ಈ ಲಕ್ಷಣಗಳನ್ನು ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ](https://vijaykarnataka.com/lifestyle/health/breast-cancer-awareness-month-2026-warning-signs-beyond-lump/articleshow/134733101.cms)
 - [Ind Vs Wi T20i- ಲಖನೌನಲ್ಲಿ ಸ್ಪಿನ್ನರ್ ಗಳ ವಿರುದ್ಧ ವಿಂಡೀಸ್ ಪರದಾಟ; ಬಳಿಕ ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ನಾಯಕನಾಟ! ಇಲ್ಲಿದೆ ಹೈಲೈಟ್ಸ್](https://vijaykarnataka.com/sports/cricket/news/shreyas-iyer-century-india-beat-west-indies-by-8-wickets/articleshow/134745753.cms)
@@ -74,6 +74,8 @@
 - [Milk price in Karnataka may go up by ₹8, but only after Legislative Council polls](https://www.thehindu.com/news/national/karnataka/milk-price-in-karnataka-may-go-up-by-8-but-only-after-legislative-council-polls/article71552764.ece)
 
 **Livemint**
+- [Elon Musk Net Worth: How SpaceX and Tesla helped Musk become a trillionaire again after market rally](https://www.livemint.com/news/us-news/elon-musk-net-worth-how-spacex-and-tesla-helped-musk-become-a-trillionaire-again-after-market-rally-11791320544773.html)
+- [First Atlantic Hurricane of 2026 Seen Threatening US Gulf Coast](https://www.livemint.com/news/us-news/first-atlantic-hurricane-of-2026-seen-threatening-us-gulf-coast-11791323938963.html)
 - [32%, 24%, 52%, 86%: Why these 4 numbers are bad news for Trump before the midterms](https://www.livemint.com/news/us-news/32-24-52-86-why-these-4-numbers-are-bad-news-for-trump-before-the-midterms-11791319759284.html)
 - [Did you receive $90 from Social Security? Who qualifies for Trump’s Medicare rebate and when it will arrive](https://www.livemint.com/news/us-news/did-you-receive-90-from-social-security-who-qualifies-for-trump-s-medicare-rebate-and-when-it-will-arrive-11791317938777.html)
 - [US House bill honours Indian pilot Smit Machchhar after his brave actions thwarted flydubai terror attack](https://www.livemint.com/news/us-news/us-house-bill-honours-indian-pilot-smit-machchhar-after-his-brave-actions-thwarted-flydubai-terror-attack-11791310648084.html)
@@ -82,8 +84,6 @@
 - [This Indian state, with 112 billionaires and wealth of over  ₹63 lakh crore, will impose water cut on its people](https://www.livemint.com/news/india/this-indian-state-with-112-billionaires-and-wealth-of-over-63-lakh-crore-will-impose-water-cut-on-its-people-11791309051081.html)
 - [‘Longer but safer’ routes may beat speed: France says IMEC ‘more necessary amid Gaza, Iran, Hormuz crises’](https://www.livemint.com/news/world/longer-but-safer-routes-may-beat-speed-france-says-imec-more-necessary-amid-gaza-iran-hormuz-crises-11791303247567.html)
 - [Earthquake Today: Tremors felt in Delhi-NCR as 4.9 magnitude quake hit Uttarakhand](https://www.livemint.com/news/india/earthquake-today-tremors-felt-in-delhincr-11791305998834.html)
-- [Russia denies anti-plague measures after lab worker’s death: WHO says ‘low’ risk — What we know so far](https://www.livemint.com/news/world/russia-denies-anti-plague-measures-after-lab-worker-s-death-who-says-low-risk-what-we-know-so-far-11791304827263.html)
-- [Could Bolsonaro's election win give Trump his biggest prize yet in Latin America? How big is Brazil's economy? Explained](https://www.livemint.com/news/world/could-bolsonaros-election-win-give-trump-his-biggest-prize-yet-in-latin-america-how-big-is-brazils-economy-explained-11791302802418.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -135,7 +135,6 @@
 - [ತೋಳಹುಣಸೆ ರೈಲ್ವೆ ನಿಲ್ದಾಣದ ಬಳಿ ಕಾಮಗಾರಿ: ‘ವಂದೇ ಭಾರತ್’ ಐದು ತಾಸು ವಿಳಂಬ](https://www.prajavani.net/district/davanagere/vande-bharat-train-delayed-due-to-railway-work-near-davangere-4312424)
 - [ಒಮಾನ್‌ನಲ್ಲಿ ವಾಣಿಜ್ಯ ಹಡಗಿನ ಮೇಲೆ ದಾಳಿ : 12 ಮಂದಿ ಭಾರತೀಯರಿಗೆ ಗಾಯ](https://www.prajavani.net/news/india-news/oman-commercial-ship-attack-indian-sailors-injured-4311960)
 - [ಬೆಂಗಳೂರು | ವಿದ್ಯುತ್ ಪರಿವರ್ತಕ ಸ್ಫೋಟ: ನಾಲ್ವರಿಗೆ ಗಾಯ](https://www.prajavani.net/news/karnataka-news/bengaluru-transformer-blast-four-injured-benniganahalli-4312397)
-- [ಫ್ಲಿಪ್‌ಕಾರ್ಟ್‌ ‘ಬಿಗ್ ಬಿಲಿಯನ್ ಡೇಸ್‌’ ಮಾರಾಟ ಮೇಳ: ಅಕ್ಟೋಬರ್‌ 9ರಿಂದ ಮಾರಾಟ](https://www.prajavani.net/business/commerce-news/flipkart-big-billion-days-sale-starts-october-4312380)
 
 **eedina**
 - [ಮಂಗಳೂರು | 350 ಪೊಲೀಸ್ ಠಾಣೆಗಳಲ್ಲಿ ಹುಡುಕಿದರೂ ‘ಲವ್ ಜಿಹಾದ್’ ದೂರು ಸಿಗಲಿಲ್ಲ : ಎಂ.ಜಿ. ಹೆಗಡೆ](https://eedina.com/?p=770814)
@@ -150,35 +149,35 @@
 - [ಚಿಕ್ಕಮಗಳೂರು | ಸಾಮಾಜಿಕ ಜಾಲತಾಣ; ಶಾಸಕ ಟಿ.ಡಿ ರಾಜೇಗೌಡರಿಗೆ ಅವಹೇಳನ, ಬೆದರಿಕೆ; ಪ್ರಕರಣ ದಾಖಲು](https://eedina.com/?p=770781)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (5.5)
+- Trump (4.2)
 - Indian (4.2)
 - INDIA (3.9)
-- What (2.9)
 - France (2.6)
 - Delhi-NCR (2.6)
 - India (2.6)
 - Mann (1.9)
 - Punjab (1.6)
+- SpaceX (1.6)
 - Canada (1.6)
+- What (1.6)
 - Security (1.6)
 - Made (1.6)
-- Opposition's (1.3)
-- Flydubai (1.3)
-- Incident (1.3)
+- Musk (1.6)
+- Ukrainian (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [हूती विद्रोहियों ने सऊदी अरब पर किया हमला, दो इंटरनेशनल एयरपोर्ट पर दागी मिसाइलें](https://www.jagran.com/world/middle-east-yemen-houthi-rebels-attack-jazan-najran-airports-in-saudi-40396188.html)
-- [IOC sets out next steps for selecting 2036 Olympic Games host](https://www.olympics.com/ioc/news/ioc-sets-out-next-steps-for-selecting-2036-olympic-games-host)
-- [JBL PartyBox speakers launched in India from Rs 39,999](https://t2online.in/tech/tech-news/jbl-launches-easysing-microphones-with-ai-vocal-removal/2008480)
-- [സൗദിയിലെ ജിസാൻ, നജ്റാൻ വിമാനത്താവളങ്ങൾക്ക് നേരെ ആക്രമണം; മൂന്ന് പേർക്ക് പരിക്ക്](https://www.asianetnews.com/international-news/najran-jazan-airports-attacked-causing-3-injuries-and-material-damage-articleshow-6vihibs)
-- [Nobel Prize in Physics 2026](https://www.nobelprize.org/prizes/physics/2026/press-release/)
-- [ஆர்பிஐ கொள்கை முடிவு: உங்கள் EMI மாறுமா? வேலை தேடுபவர்கள் கவனிக்க வேண்டிய முக்கிய அப்டேட்கள் இதோ!](https://tamil.careerindia.com/news/rbi-monetary-policy-announcement-2026-repo-rate-emi-impact-011-11031.html)
-- [વર્ષ 2026નું સૌથી મોટું ગીત](https://tv9gujarati.com/entertainment/bollywood/shah-rukh-khan-kareena-kapoor-king-movie-big-update-after-15-years-their-new-avatar-and-biggest-song-of-2026-1528185.html)
-- [444 दिन की FD का क्रेज... मिल रहा तगड़ा ब्याज, जानें कौन सा बैंक आगे](https://www.aajtak.in/business/utility/photo/444-days-special-fd-sbi-to-pnb-which-bank-gives-highest-interest-benefits-tutc-2662701-2026-10-06)
-- [ഒടുവിൽ മക്കാ കരാർ യാഥാർഥ്യമായി; സൗദിക്കൊപ്പം അണിനിരന്ന് തുർക്കിയും പാകിസ്ഥാനും, ഹൂത്തികൾക്കെതിരെ യുദ്ധം ​ഗതിമാറി](https://www.asianetnews.com/international-news/mecca-agreement-has-become-a-reality-with-turkey-and-pakistan-aligning-alongside-saudi-arabi-against-the-houthis-articleshow-yoz6f26)
-- [Makarba Bridge Design Controversy: ખામીયુક્ત ડિઝાઇન બદલ 'ડેલ્ફ કન્સલ્ટન્સી' સામે તંત્રની લાલ આંખ, ફટકારી કડક નોટિસ](https://www.gujaratfirst.com/ahmedabad/makarba-bridge-design-notice-delf-consultancy-ahmedabad-gujarat-first-digital/344411/)
+- [Fundamentals of Quantum Technology](https://www.orfonline.org/expert-speak/fundamentals-of-quantum-technology)
+- [How the world is looking at protests against Election Commission under Gyanesh Kumar](https://www.telegraphindia.com/india/how-the-world-is-looking-at-protests-against-election-commission-under-gyanesh-kumar/cid/2183409)
+- [Physics Nobel Prize: ఫ్రాన్సిస్ హాల్జెన్‌కు ప్రతిష్టాత్మక పురస్కారం](https://vaartha.com/latest-news/physics-nobel-prize-in-physics-has-been-awarded-to-francis-halzen/786876/)
+- [Tamil News Live: இன்றைய முக்கிய செய்திகள்](https://www.maalaimalar.com/news/tamilnadu/today-news-in-tamil-live-updates-6-october-2026)
+- [3 new Supreme Court judges take oath; strength of court rises to 37](https://www.barandbench.com/news/3-new-supreme-court-judges-take-oath-strength-of-court-rises-to-37)
+- [Drishyam The Conclusion vs Drishyam 3: Ajay Devgn And Mohanlal Films Seek Closure, But The Roads Never Meet](https://www.ndtv.com/entertainment/drishyam-the-conclusion-vs-drishyam-3-ajay-devgn-and-mohanlal-films-seek-closure-but-the-roads-never-meet-12145557)
+- [Taking Stock: Pullback continues on second day; Nifty above 22,700, Sensex up 685 pts](https://www.moneycontrol.com/news/business/markets/taking-stock-pullback-continues-on-second-day-nifty-above-22-700-sensex-up-685-pts-14045734.html)
+- [അബുദാബിയിൽ പൊതുസേവന ചെലവ് 30 ശതമാനത്തിലധികം കുറഞ്ഞു; എഐ സാങ്കേതികവിദ്യയിൽ വൻ മുന്നേറ്റമെന്ന് അധികൃതർ](https://www.expresskerala.com/news/public-service-costs-in-abu-dhabi-have-dropped-by-over-30-percent-officials-cite-major-strides-in-ai-technology.html)
+- ["లేఆఫ్స్‌లో 35 లక్షల ఉద్యోగం పోయినా.. అతని ముందు చూపుతో నెలకు 93 వేల ఆదాయం వస్తోంది"](https://telugu.samayam.com/business/business-news/rs-35-lpa-job-loss-layoffs-but-smart-financial-planning-with-bank-fixed-deposits-dairy-business-gives-monthly-income-success-story/articleshow/134736355.cms)
+- [Students and teachers march in France on biggest day of high school protests](https://www.reuters.com/world/europe/france-braces-day-school-blockades-street-protests-2026-10-06/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
