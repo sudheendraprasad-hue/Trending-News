@@ -1,16 +1,16 @@
-# India Trending Report — 2026-10-06 00:02:39
+# India Trending Report — 2026-10-06 00:47:55
 
 ## Google Trends (India) — top trending searches
-1. [बिहार](https://trends.google.com/trending/rss?geo=IN)
-2. [राशन कार्ड](https://trends.google.com/trending/rss?geo=IN)
-3. [सूर्यकुमार यादव](https://trends.google.com/trending/rss?geo=IN)
-4. [zee5](https://trends.google.com/trending/rss?geo=IN)
-5. [earthquake near me](https://trends.google.com/trending/rss?geo=IN)
-6. [earthquake today](https://trends.google.com/trending/rss?geo=IN)
-7. [ubse utet answer key](https://trends.google.com/trending/rss?geo=IN)
-8. [daniel maldini](https://trends.google.com/trending/rss?geo=IN)
-9. [honda xr300l](https://trends.google.com/trending/rss?geo=IN)
-10. [british airways flight ba295](https://trends.google.com/trending/rss?geo=IN)
+1. [బంగారం](https://trends.google.com/trending/rss?geo=IN)
+2. [தமிழக முதல்வர்](https://trends.google.com/trending/rss?geo=IN)
+3. [weather kanpur](https://trends.google.com/trending/rss?geo=IN)
+4. [ekadashi kab hai](https://trends.google.com/trending/rss?geo=IN)
+5. [கனமழை](https://trends.google.com/trending/rss?geo=IN)
+6. [बिहार](https://trends.google.com/trending/rss?geo=IN)
+7. [राशन कार्ड](https://trends.google.com/trending/rss?geo=IN)
+8. [सूर्यकुमार यादव](https://trends.google.com/trending/rss?geo=IN)
+9. [zee5](https://trends.google.com/trending/rss?geo=IN)
+10. [earthquake near me](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -22,8 +22,8 @@
 - [In 2009, Google’s Eric Schmidt bought a ship; by 2022, it mapped 1.3m sq km of seafloor](https://timesofindia.indiatimes.com/technology/tech-news/in-2009-googles-eric-schmidt-and-wife-wendy-bought-a-former-fisheries-ship-by-2022-the-vessel-offered-free-research-access-and-had-mapped-over-1-3-million-square-kilometres-of-seafloor/articleshow/134712878.cms)
 - [India-US trade talks have reached plateau: Finance minister Nirmala Sitharaman](https://timesofindia.indiatimes.com/business/india-business/india-us-trade-talks-have-reached-plateau-finance-minister-nirmala-sitharaman/articleshow/134720078.cms)
 - [Woman declares Rs 67.4L ancestral jewellery in ITR; gets notice, she wins in ITAT](https://timesofindia.indiatimes.com/business/india-business/woman-declared-rs-67-4-lakh-ancestral-jewellery-in-her-itr-which-led-to-additions-by-tax-department-itat-mumbai-deleted-it-on-basis-of-old-records-but-rejected-her-rs-12-lakh-huf-brokerage-claim/articleshow/134706982.cms)
-- [Mission Shakti: How India’s 2019 anti-sat missile test in space caught US off guard](https://timesofindia.indiatimes.com/defence/news/when-indias-anti-satellite-missile-test-in-space-in-2019-caught-us-intelligence-agencies-off-guard/articleshow/134716715.cms)
-- [India, Switzerland eye deeper ties in trade, investment, tech](https://timesofindia.indiatimes.com/india/india-switzerland-eye-deeper-ties-in-trade-investment-tech/articleshow/134716858.cms)
+- [Kheri case: UP changes PP; SC asks Allahabad HC CJ to decide on trial judge](https://timesofindia.indiatimes.com/india/lakhimpur-kheri-case-up-changes-public-prosecutor-supreme-court-asks-allahabad-high-court-judge-to-decide-on-trial-judge/articleshow/134720016.cms)
+- [Only 15% going to work use public transport: NSO](https://timesofindia.indiatimes.com/india/only-15-going-to-work-use-public-transport-nso/articleshow/134719927.cms)
 
 **NDTV**
 - [Germany At Risk Of "Violent Conflict" With Russia, Claims Spy Chief](https://www.ndtv.com/world-news/germany-at-risk-of-violent-conflict-with-russia-claims-spy-chief-12143393#publisher=newsstand)
@@ -49,7 +49,17 @@
 - [Tripura: TIPRA Motha wins over 2000 seats in TTAADC village council polls](https://www.hindustantimes.com/india-news/tripura-tipra-motha-wins-over-2000-seats-in-ttaadc-village-council-polls-101791207776009.html)
 - [In a first, cheetahs to roam in tiger territory at Veerangana Durgavati Tiger Reserve](https://www.hindustantimes.com/india-news/in-a-first-cheetahs-to-roam-in-tiger-territory-at-veerangana-durgavati-tiger-reserve-101791206704079.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಅಮ್ಮ ಹುಟ್ಟಿದ 2 ವರ್ಷದಲ್ಲೇ ಮಗಳ ಜನನ! ದ.ಕದಲ್ಲಿ SIR ಕರಡು ಪ್ರತಿಯಲ್ಲಿನ ಎಡವಟ್ಟಿಗೆ ಮ್ಯಾಪಿಂಗ್‌ ಆಗದವರ ಅಲೆದಾಟ](https://vijaykarnataka.com/news/mangaluru/discrepancies-in-sir-voter-list-in-dakshina-kannada-shows-daughter-born-just-2-years-after-mothers-birth/articleshow/134720142.cms)
+- [ನಿಗೂಢ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸೋಂಕಿ ರಷ್ಯನ್ ಲ್ಯಾಬ್‌ ಟೆಕ್ನಿಶಿಯನ್‌ ಬಲಿ; 200 ಮಂದಿ ಕ್ವಾರಂಟೈನ್‌, ನ್ಯೂಮೋನಿಕ್‌ ಪ್ಲೇಗ್‌ ಭೀತಿಯಲ್ಲಿ ಸೈಬೀರಿಯಾ!](https://vijaykarnataka.com/news/world/russian-researcher-dies-of-unknown-pneumonia-plague-hundreds-quarantined-what-is-this-deadly-disease/articleshow/134686972.cms)
+- [ಬೆಂಗಳೂರು ಸುತ್ತ 9 ಹೊಸ ಇಂಟಿಗ್ರೇಟೆಡ್ ಕೈಗಾರಿಕಾ ಟೌನ್ ಶಿಪ್ ನಿರ್ಮಾಣ; ನಮ್ಮ ಮೆಟ್ರೋ 313 KM ವಿಸ್ತರಣೆ: ಡಿಕೆ ಶಿವಕುಮಾರ್](https://vijaykarnataka.com/news/bengaluru-city/construction-of-9-new-integrated-industrial-townships-around-bengaluru-namma-metro-313-km-extension-dk-sivakumar/articleshow/134712207.cms)
+- [ಮೊಡವೆ ಕಡಿಮೆಯಾಗುತ್ತಿಲ್ಲವೇ? ನಿಮ್ಮ ದಿಂಬಿನ ಕವರ್, ಮೊಬೈಲ್‌ ಕೂಡ ಕಾರಣವಾಗಿರಬಹುದು!](https://vijaykarnataka.com/lifestyle/beauty/acne-causes-pillowcase-mobile-hair-products/articleshow/134713028.cms)
+- [ವಾಲ್ಮೀಕಿ ಜಯಂತಿ ಸಾರ್ವತ್ರಿಕ ರಜೆ ದಿನಾಂಕ ಬದಲಾವಣೆ: ಅ. 26ಕ್ಕೆ ರಜೆ ಘೋಷಿಸಿ ರಾಜ್ಯ ಸರ್ಕಾರ ಆದೇಶ; ಸಿಗಲಿದೆ 3 ದಿನ ವಿರಾಮ!](https://vijaykarnataka.com/news/karnataka/change-in-date-of-valmiki-jayanti-public-holiday-karnataka-government-issues-order-declaring-october-26/articleshow/134706335.cms)
+- [ಕೂದಲೆಳೆ ಅಂತರದಲ್ಲಿ ಶಿವರಾಜ್‌ಕುಮಾರ್‌ ಬಚಾವ್‌: ಸಡನ್‌ ಆಗಿ ಸಿಡಿದ ಪಟಾಕಿ, ಕರುನಾಡ ಚಕ್ರವರ್ತಿ ಹೇಗಿದ್ದಾರೆ?](https://vijaykarnataka.com/entertainment/news/a-firecracker-accident-occurred-during-the-promotion-of-the-movie-jameenu-starring-shivarajkumar/articleshow/134716570.cms)
+- [ಶೂ ಬಾಕ್ಸ್‌ನಲ್ಲಿರುವ ಸಿಲಿಕಾ ಜೆಲ್ ಪ್ಯಾಕೆಟ್ ಎಸೆಯಬೇಡಿ; ಮನೆಯಲ್ಲೂ ಹೀಗೆ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/silica-gel-packets-shoe-box-home-uses/articleshow/134651205.cms)
+- [2026 Indira Ekadashi: ಶುಭ ಮುಹೂರ್ತ, ಪೂಜೆ ವಿಧಾನ, ಮಹತ್ವ ಮತ್ತು ಮಂತ್ರಗಳು.!](https://vijaykarnataka.com/religion/festivals/indira-ekadashi-2026-date-and-time-puja-procedures-importance-and-mantras/articleshow/134706852.cms)
+- [ಮನೆಯಲ್ಲಿ ಉಳಿದ ಇಡ್ಲಿ ಎಸೆಯಬೇಡಿ; ಹೀಗೆ ಮಾಡಿ ಮಸಾಲಾ ಇಡ್ಲಿ ಫ್ರೈ, ರುಚಿ ಸೂಪರ್!](https://vijaykarnataka.com/lifestyle/home-decor/masala-idli-fry-recipe-leftover-idli/articleshow/134697040.cms)
+- [WCL 2026- ಭಾರತ ತಂಡ ಕ್ಷಮೆಯಾಚಿಲೇ ಬೇಕೆಂದು ಪಟ್ಟು ಹಿಡಿದಿದ್ದ ಪಿಸಿಬಿಗೆ ಮುಖಭಂಗ; ಲೆಜೆಂಡ್ಸ್ ಕ್ರಿಕೆಟ್ ನಿಂದ ಹೊರನಡೆದ ಪಾಕ್](https://vijaykarnataka.com/sports/cricket/news/wcl-2026-pakistan-team-withdraws-from-the-legends-cricket-tournament/articleshow/134712993.cms)
 
 **The Hindu**
 - [Voting in high-stakes bypolls in three States, one U.T. today | LIVE](https://www.thehindu.com/news/national/byelection-bypoll-voting-nandigram-rejinagar-madurantakam-dharapuram-thattanchavady-nagaon-live-updates-october-6-2026/article71549585.ece)
@@ -64,6 +74,7 @@
 - [CEC Gyanesh Kumar has lost public trust and must be removed, say former bureaucrats, activists](https://www.thehindu.com/news/national/cec-gyanesh-kumar-has-lost-public-trust-and-must-be-removed-say-former-bureaucrats-activists/article71548097.ece)
 
 **Livemint**
+- [Beyond assembly: how India’s next telecom PLI wants to build the supply chain from within](https://www.livemint.com/news/india-new-telecom-pli-scheme-11791199089014.html)
 - [Caleb Flynn, ex-American Idol singer, sentenced to life without parole after being found guilty of wife Ashley’s murder](https://www.livemint.com/news/world/caleb-flynn-ex-american-idol-singer-sentenced-to-life-without-parole-after-being-found-guilty-of-wife-ashley-s-murder-11791235237230.html)
 - [Yemen Says It’s Retaken Mocha as Battle for Bab El-Mandeb Looms](https://www.livemint.com/news/yemen-says-it-s-retaken-mocha-as-battle-for-bab-el-mandeb-looms-11791233947899.html)
 - [US DOJ moves to revoke citizenship of 40 naturalised Americans accused of hiding criminal pasts](https://www.livemint.com/news/world/us-doj-moves-to-revoke-citizenship-of-40-naturalised-americans-accused-of-hiding-criminal-pasts-11791230552138.html)
@@ -73,7 +84,6 @@
 - [Delhi content creator, 23, reveals  ₹1.12 lakh monthly income after quitting  ₹60K job](https://www.livemint.com/news/trends/delhi-content-creator-23-reveals-1-12-lakh-monthly-income-after-quitting-60k-job-11791223698081.html)
 - [Delhi-based makeup artist's  ₹4.5 lakh weekly earnings stun internet: ‘Thinking about burning off my 15 years of degrees’](https://www.livemint.com/news/trends/delhibased-makeup-artists-4-5-lakh-weekly-earnings-stun-internet-thinking-about-burning-off-my-15-years-of-degrees-11791221635394.html)
 - [Using AI too much? Doctor shares 5 warning signs to watch out for before it takes a toll on your mental health](https://www.livemint.com/news/trends/using-ai-too-much-doctor-shares-5-warning-signs-to-watch-out-for-before-it-takes-a-toll-on-your-mental-health-11791222133383.html)
-- [Fire breaks out near Ranbir Kapoor’s Ramayana set in Mumbai, no injuries reported as safety concerns arise](https://www.livemint.com/news/india/fire-breaks-out-near-ranbir-kapoor-s-ramayana-set-in-mumbai-no-injuries-reported-as-safety-concerns-arise-11791220285767.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -90,6 +100,7 @@
 - [ಸಮಕಾಲೀನ ವೈಜ್ಞಾನಿಕ ಜ್ಞಾನದ ಬೆಳಕಿನಲ್ಲಿ ಯುನಾನಿ ವೈದ್ಯ ಪದ್ಧತಿಯ ಅಧ್ಯಯನ ಅಗತ್ಯ : ಪ್ರೊ.ಸಯ್ಯದ್ ಶಾ ಆಲಮ್](https://www.varthabharati.in/bangalore-city/unani-medicine-2280528)
 
 **Asianet Kannada**
+- [Bengaluru rains: ಬೆಂಗಳೂರಿನಲ್ಲಿ ರಾತ್ರಿ ಮಳೆ ಅರ್ಭಟ, ವಾಹನ ಸವಾರರು ಪರದಾಟ, ಇಂದು ಹೇಗಿರಲಿದೆ ಹವಾಮಾನ?](https://kannada.asianetnews.com/state/bengaluru-weather-forecast-today-heavy-rains-yesterday-imd-report-rav/articleshow-1d4rr6h)
 - [ಹಬ್ಬದ ಸೀಸನ್‌ನಲ್ಲಿ SUV ಪ್ರಿಯರಿಗೆ ಹಬ್ಬವೋ ಹಬ್ಬ: ಅಕ್ಟೋಬರ್‌ನಲ್ಲಿ ಮಾರುಕಟ್ಟೆಗೆ ಬರಲಿದೆ 4 ಪ್ರಮುಖ ಕಾರುಗಳು](https://kannada.asianetnews.com/car-news/upcoming-suv-launches-october-2026-honda-elevate-facelift-renault-duster-hyundai-bayon-san/articleshow-5lzmi6l)
 - [ಶಿವಣ್ಣನ ಬಳಿಯೇ ಪಟಾಕಿ ಸ್ಫೋಟ, ಅದೃಷ್ಟವಶಾತ್ ತಪ್ಪಿದ ದೊಡ್ಡ ಅಪಾಯ](https://kannada.asianetnews.com/gallery/karnataka-districts/firecracker-explosion-near-actor-shivanna-major-mishap-narrowly-averted-in-chitradurga-0f5z073)
 - [ಚೀನಾದ ಚಿನ್ನದ ಕೋಟೆಯಲ್ಲಿ 'ಮಹಾ ಬಿರುಕು' ಏಷ್ಯನ್ ಗೇಮ್ಸ್‌ನಲ್ಲಿ ಭಾರೀ ಅವಮಾನಕ್ಕೆ ಒಳಗಾದ ಡ್ರ್ಯಾಗನ್](https://kannada.asianetnews.com/sports/chinas-gold-medal-haul-at-the-asian-games-has-seen-a-significant-decline/articleshow-iwz6uu5)
@@ -99,7 +110,6 @@
 - [ಶ್ರೀಮಂತಿಕೆಯ ಅಸಲಿ ರಹಸ್ಯ: ಚಾಣಕ್ಯ ನೀತಿಯ ಈ ನಿಯಮಗಳನ್ನು ಪಾಲಿಸಿದ್ರೆ ಆರ್ಥಿಕ ಸಂಕಷ್ಟ ಎದುರಾಗದು!](https://kannada.asianetnews.com/festivals/chanakya-niti-6-rules-to-build-wealth-and-avoid-financial-crisis/articleshow-qc9e84m)
 - [ರಜನಿಕಾಂತ್ ಜೊತೆ ಶಿವಣ್ಣನ ಮಾಸ್ ದರ್ಬಾರ್: ‘ಜೈಲರ್ 2’ ಟ್ರೇಲರ್‌ನಲ್ಲಿದೆ ಭರ್ಜರಿ ಕಾಳಗ!](https://kannada.asianetnews.com/entertainment/jailer-2-trailer-out-rajinikanth-shivanna-and-vijay-sethupathi-raise-the-hype-gvd/articleshow-a6gfpgw)
 - ['ನಿಮ್ಮ ಭವಿಷ್ಯ ಉಜ್ವಲವಾಗಿರಲಿ, ನಾವು ಒಟ್ಟಿಗೆ ಬಾಳಲು ಸಾಧ್ಯವಿಲ್ಲ' ಬೆಂಗಳೂರಲ್ಲಿ ₹3 ಲಕ್ಷ ಗಳಿಸುವ ಯುವಕ ವಧು ಹುಡುಕಿದ ಬೇಸರದ ಕತೆ](https://kannada.asianetnews.com/bengaluru-urban/marriage-story-bengaluru-man-with-rs-3-lakh-month-salary-struggles-to-find-a-match/articleshow-64qfvrt)
-- [Cricket: ಆಡಲು ಅವಕಾಶವಿಲ್ಲ, ಅನುಭವಕ್ಕೂ ಹಾದಿಯಿಲ್ಲ! ವೈಭವ್‌ಗೆ ಬೆಂಚ್ ಕಾಯಿಸಿ ಅವನ ಭವಿಷ್ಯದ ಜೊತೆ ಚೆಲ್ಲಾಟವಾಡುತ್ತಿದೆಯಾ ಬಿಸಿಸಿಐ?](https://kannada.asianetnews.com/cricket-sports/vaibhav-suryavanshi-bench-bcci-team-india-future-west-indies-t20-series/articleshow-pskgec2)
 
 **News18 Kannada** — _unavailable_
 
@@ -116,18 +126,19 @@
 - [ಲಕ್ನೋದಲ್ಲಿ ಭಾರೀ ಮಳೆ; ಮೊದಲ ಟಿ20 ಪಂದ್ಯ ನಡೆಯುವುದು ಅನುಮಾನ](https://tv9kannada.com/sports/cricket-news/ind-vs-wi-1st-t20-lucknow-weather-forecast-rain-threat-1246841.html)
 
 **Prajavani**
-- [ಫ್ಯಾಕ್ಟ್‌ಚೆಕ್‌: ಬಿಬಿಸಿ ಹೆಸರಿನಲ್ಲಿ ಹರಿದಾಡುತ್ತಿರುವ ವಿಡಿಯೊ ಇದು ಸುಳ್ಳು](https://www.prajavani.net/news/fact-check/fact-check-fake-bbc-video-on-dubai-israel-flight-hijack-conspiracy-4308831)
-- [75 ವರ್ಷಗಳ ಹಿಂದೆ: ರಾಜ್ಯಾಂಗ ತಿದ್ದುಪಡಿ ಶಾಸನ ನ್ಯಾಯಬದ್ಧ](https://www.prajavani.net/op-ed/prajavani-archive/supreme-court-upholds-constitutional-amendments-zamindari-abolition-4309207)
-- [ಚಿನಕುರುಳಿ: ಮಂಗಳವಾರ, 06 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/chinakurali-tuesday-october-six-4309983)
 - [‘9 ಹೊಸ ಸಮಗ್ರ ಕೈಗಾರಿಕಾ ಟೌನ್‌ಶಿಪ್’](https://www.prajavani.net/news/karnataka-news/karnataka-government-nine-new-industrial-townships-bmrda-development-plan-4309939)
 - [ಮಿದುಳಿನ ‘ನಿಗೂಢ’ಕ್ಕೆ ಕೈ ಹಾಕಿದವರಿಗೆ ನೊಬೆಲ್‌](https://www.prajavani.net/news/india-news/medicine-nobel-prize-brain-research-optogenetics-4309556)
-- [ಭಾರತಕ್ಕೆ ಬೌಲಿಂಗ್ ಪಡೆಯ ತಲೆಬಿಸಿ](https://www.prajavani.net/op-ed/opinion/indian-cricket-team-bowling-weakness-world-cup-preparation-4309205)
 - [ಮೈಸೂರು ದಸರಾಗೆ ‘ಸೂರ್ಯ ಕಿರಣ್’ ಮೆರುಗು](https://www.prajavani.net/news/karnataka-news/mysuru-dasara-surya-kiran-aerobatics-air-force-show-4309758)
-- [ಕಿಡ್ನಿ ಸಮಸ್ಯೆ: ನೆಫ್ರೊ–ಯುರಾಲಜಿ ಸೇವೆ ವಿಸ್ತರಣೆ](https://www.prajavani.net/district/bengaluru-city/nephro-urology-services-expanded-at-charaka-hospital-bangalore-4309745)
-- [ನಗರದಲ್ಲಿ ಇಂದು: ಬೆಂಗಳೂರು ನಗರದ ಇಂದಿನ ಕಾರ್ಯಕ್ರಮಗಳು](https://www.prajavani.net/district/bengaluru-city/bengaluru-city-today-events-cultural-educational-programs-4309714)
-- [ಸುದ್ದಿ ಗುದ್ದು | ತಿಂಗಳೇಶ: ಮಂಗಳವಾರ, 06 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/suddi-guddu-tingalesha-october-edition-2-4309938)
+- [ವಾಚಕರ ವಾಣಿ: ಪ್ರಜಾವಾಣಿ ಓದುಗರ ಈ ದಿನದ ಪತ್ರಗಳು](https://www.prajavani.net/op-ed/readers-letter/prajavani-readers-forum-letters-education-health-and-governance-4309760)
+- [ಹೆಸರು ತೆಗೆಯಲು 91 ಸಾವಿರ ಅರ್ಜಿ](https://www.prajavani.net/news/karnataka-news/karnataka-voter-list-revision-objection-applications-ceo-clarification-4309776)
+- [ಆಳ–ಅಗಲ| ಬೇಡ್ತಿ ನದಿ: ಹೆಚ್ಚುವರಿ ನೀರೆಲ್ಲಿದೆ?](https://www.prajavani.net/explainer/detail/bedti-river-diversion-project-water-availability-analysis-4309865)
+- [ಜಾರು ದಾರಿಯಲ್ಲಿ ‘ಶಿಕ್ಷಣನೀತಿ’](https://www.prajavani.net/op-ed/articles/india-education-policy-implementation-failures-analysis-4309215)
+- [ಪ್ರಾರ್ಥಿಸುವ ಕೈಗಳು](https://www.prajavani.net/op-ed/nudi-belagu/vithya-ramraj-asian-games-success-and-sibling-sacrifice-4308838)
+- [ಗುಂಡಣ್ಣ ಕಾರ್ಟೂನು: ಮಂಗಳವಾರ, 06 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/gundanna-cartoon-october-tuesday-4309973)
+- [ನೇಮಕಾತಿ: ಕ್ರೀಡಾಳುಗಳಿಗೆ ಶೇ 2ರಷ್ಟು ಮೀಸಲು](https://www.prajavani.net/news/karnataka-news/karnataka-government-announces-two-percent-reservation-for-sports-persons-in-recruitment-4309622)
 
 **eedina**
+- [ರಾಯಚೂರು | 12 ತಾಸು ವಿದ್ಯುತ್ ಪೂರೈಕೆಗೆ ಆಗ್ರಹ: ಜೆಸ್ಕಾಂ ಕಚೇರಿಗೆ ರೈತರ ಮುತ್ತಿಗೆ](https://eedina.com/?p=770404)
 - [ಕಲಬುರಗಿ | ಅವಹೇಳನಕಾರಿ ಪೋಸ್ಟ್, ಜೀವ ಬೆದರಿಕೆ ಆರೋಪ; ಶಿವಸೇನಾ ನಾಯಕರ ವಿರುದ್ಧ ಎಫ್‌ಐಆರ್ ದಾಖಲು](https://eedina.com/?p=770395)
 - [ಕಲಬುರಗಿ | ಹಳೆಯ ದ್ವೇಷಕ್ಕೆ ಪಂಪ್ ಆಪರೇಟರ್ ಬಲಿ; ಚಾಕು ಇರಿದು ಬರ್ಬರ ಹತ್ಯೆ](https://eedina.com/?p=770392)
 - [ಕಲಬುರಗಿ | ನಾಪತ್ತೆಯಾಗಿದ್ದ ಹೋಟೆಲ್‌ ವ್ಯಾಪಾರಿ ಶವವಾಗಿ ಪತ್ತೆ; ಕೊಲೆ ಶಂಕೆ](https://eedina.com/?p=770389)
@@ -137,15 +148,12 @@
 - [ಯಾದಗಿರಿ | ಮಾಜಿ ತಾ.ಪಂ ಸದಸ್ಯನ ಮೇಲೆ ಹಲ್ಲೆ ಆರೋಪ; ಆರು ಮಂದಿ ವಿರುದ್ಧ ಪ್ರಕರಣ ದಾಖಲು](https://eedina.com/?p=770371)
 - [ಬೀದರ್‌ | ಹಳ್ಳಕ್ಕೆ ಉರುಳಿದ ಖಾಸಗಿ ಶಾಲಾ ಬಸ್‌ : ಹಲವು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಗಾಯ](https://eedina.com/?p=770365)
 - [ಯಾದಗಿರಿ | ಲಾರಿ ಡಿಕ್ಕಿಗೆ ಬೈಕ್ ಸವಾರ ಗಂಭೀರ ಗಾಯ](https://eedina.com/?p=770364)
-- [ಈಶಾನ್ಯ ಶಿಕ್ಷಕರ ಕ್ಷೇತ್ರ: ಆರು ಅಭ್ಯರ್ಥಿಗಳಿಂದ 10 ನಾಮಪತ್ರ ಸಲ್ಲಿಕೆ](https://eedina.com/?p=770360)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Delhi (3.5)
-- India (2.9)
 - Woman (2.6)
-- Switzerland (2.6)
 - Mayawati (2.6)
-- Fire (2.6)
+- India (2.6)
 - Supreme Court (2.0)
 - PM Modi (2.0)
 - CEC Gyanesh Kumar (2.0)
@@ -155,20 +163,22 @@
 - Akash (1.6)
 - Maharashtra (1.6)
 - Saudi (1.3)
+- Turkiye (1.3)
+- Mecca (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Central government notifies appointment of 3 new Supreme Court judges](https://www.barandbench.com/news/litigation/central-government-notifies-appointment-of-3-new-supreme-court-judges)
-- [মহালয়া পর্যন্ত ফের বজ্রবিদ্যুৎ সহ বৃষ্টি জেলায় জেলায়, কলকাতায় হলুদ সতর্কতা](https://bangla.aajtak.in/kolkata/story/kolkata-and-west-bengal-districts-to-witness-rainfall-this-week-till-mahalaya-before-durga-puja-rpsg-1459014-2026-10-05)
-- ["There Was Big Mistake": What Oman Sources Told NDTV About flydubai Co-Pilot](https://www.ndtv.com/world-news/hamam-al-hammami-smit-machchhar-there-was-big-mistake-what-oman-sources-told-ndtv-about-flydubai-co-pilot-12141156)
-- [ਰਾਜਸਥਾਨ ਪੁਲਿਸ ਦੀ ਕਾਰਵਾਈ ਸਿੱਖਾਂ ਦੀਆਂ ਧਾਰਮਿਕ ਭਾਵਨਾਵਾਂ ਨੂੰ ਠੇਸ ਪਹੁੰਚਾਉਣ ਵਾਲੀ: ਐਡਵੋਕੇਟ ਧਾਮੀ](https://wishavwarta.in/rajasthan-police-action-hurts-religious-sentiments/)
-- [Dev-Subhashree-Raj: ‘ভুলে যাচ্ছ তোমার বাড়িতেও একজন…’! রাজের নাম নিয়ে খোঁচা দেবের, কী জবাব শুভশ্রীর](https://www.hindustantimes.com/bangla/entertainment/dev-praise-raj-chakraborty-as-a-director-on-desu-7-promotion-infront-of-subhashree-ganguly-271791198978502.html)
-- [Centre Notifies Elevation Of Justices Sunita Agarwal, DK Upadhyaya & Aparesh Kumar Singh As Supreme Court Judges](https://www.livelaw.in/top-stories/centre-notifies-appointment-of-chief-justices-sunita-agarwal-dk-upadhyay-aparesh-kumar-singh-as-supreme-court-judges-553170)
-- ['आप चाहे जितने बड़े बल्लेबाज बन जाओ, लेकिन...', श्रेयस अय्यर को लेकर बोले कोच गंभीर, KKR के दिनों को याद कर खोला राज](https://www.aajtak.in/sports/cricket/story/ind-vs-wi-1st-t20i-head-coach-gautam-gambhir-heaped-praise-on-shreyas-iyer-aksp-dskc-2662076-2026-10-05)
-- [Telangana Hotelier Sets Himself Ablaze Inside Police Station Over Harassment](https://www.ndtv.com/india-news/telangana-hotelier-sets-himself-ablaze-inside-police-station-over-harassment-12141121)
-- [MacBook Pro-তে এবার টাচস্ক্রিন ! ওজন কমিয়ে নতুন ডিজাইনে প্রকাশ পাবে Apple এর এই প্রিমিয়াম ল্যাপটপ](https://www.etvbharat.com/bn/technology/apple-plans-lightweight-touchscreen-oled-macbook-pro-as-new-ceo-takes-hands-on-role-in-design-teams-wbs26100505160)
-- [सऊदी का 100 फाइटर जेट से हूतियों पर भीषण हमला, बाब अल मंदेब के करीब पहुंची यमनी सेना](https://navbharattimes.indiatimes.com/world/middle-east/yemen-war-latest-saudi-arabia-led-coalition-attacks-houthis-bab-al-mandab-strait/articleshow/134703300.cms)
+- [PM Modi gifts Switzerland President three premium Indian cheeses during key Delhi meet](https://www.moneycontrol.com/news/india/pm-modi-gifts-swiss-president-three-premium-indian-cheeses-during-key-delhi-meet-14045021.html)
+- [Akash Anand back in BSP fold after apology to Mayawati, gets key post again](https://timesofindia.indiatimes.com/city/lucknow/akash-anand-back-in-bsp-fold-after-apology-to-mayawati-gets-key-post-again/articleshow/134706149.cms)
+- [Walking After Meals : શું જમ્યા પછી માત્ર 10 મિનિટ ચાલવાથી સુગર સ્પાઇક અટકી શકે છે? જાણો નિષ્ણાતોનો મત](https://www.gujaratfirst.com/health-science-articles/walking-after-meals-blood-sugar-control/344191/)
+- [পুজোর মুখে বিরাট চমক, বাংলার ছাত্রীদের অ্যাকাউন্টে ঢুকবে ৫০ হাজার, ঘোষণা মুখ্যমন্ত্রীর](https://bangla.asianetnews.com/west-bengal/big-announcement-of-suvendu-adhikari-college-students-will-get-50-thousand-under-bhagini-nivedita-scheme-absc/photoshow-u5kko33)
+- [கூட்டுறவு வங்கிகளில் இனி தங்க நகைக்கடன் கிராமுக்கு ரூ.10,000 கிடைக்கும்... * உச்சவரம்பை உயர்த்தியது தமிழ்நாடு அரசு!](https://rockforttimes.in/gold-jewellery-loans-from-cooperative-banks-will-now-be-available-at-rs-10000-per-gram-tamil-nadu-government-raises-the-limit/)
+- [Arijit Singh Announces 9-City India Tour To Celebrate 20 Years Of Music](https://www.ndtv.com/entertainment/arijit-singh-announces-9-city-india-tour-to-celebrate-20-years-of-music-12141389)
+- [യെമനിൽ ഹൂതികൾക്കെതിരെ വൻ സൈനിക നീക്കം; 100 പോർവിമാനങ്ങൾ, 324 ലക്ഷ്യങ്ങൾ തകർത്തു](https://www.southlive.in/major-military-offensive-against-houthis-in-yemen-100-fighter-jets-destroy-324-targets/)
+- [From Rs 1,999 to Rs 199: India vs Uruguay tickets slashed 90% after thousands of empty seats for Brazil game](https://timesofindia.indiatimes.com/sports/football/top-stories/from-rs-1999-to-rs-199-india-vs-uruguay-tickets-slashed-90-after-thousands-of-empty-seats-for-brazil-game/articleshow/134705973.cms)
+- [Suvendu Adhikari on Recruitment: চলতি অর্থবর্ষে ১ লক্ষ চাকরি দেওয়ার ঘোষণা মুখ্যমন্ত্রীর, কোন কোন দফতরে নিয়োগ, জানালেন সেটাও](https://bengali.abplive.com/district/chief-minister-suvendu-adhikari-announces-1-lakh-recruitment-in-current-fiscal-year-also-specifies-the-departments-1195191)
+- [ഷൂ വാങ്ങാൻ പെയിന്റിങ് പണി; ഇന്ന് രാജ്യത്തിനായി ഇരട്ട മെഡൽ, പ്രയാസങ്ങളെ ഓടിത്തോൽപ്പിച്ച മനുവിന്റെ പോരാട്ടം](https://www.mathrubhumi.com/sports/features/manu-ts-asian-games-dual-medals-inspiring-journey-t6t4fu2e)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
