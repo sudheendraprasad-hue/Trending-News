@@ -1,16 +1,16 @@
-# India Trending Report — 2026-10-06 19:38:00
+# India Trending Report — 2026-10-06 20:02:09
 
 ## Google Trends (India) — top trending searches
-1. [kim kardashian](https://trends.google.com/trending/rss?geo=IN)
-2. [ivan perišić](https://trends.google.com/trending/rss?geo=IN)
-3. [street fighter movie](https://trends.google.com/trending/rss?geo=IN)
-4. [abhishek bachchan](https://trends.google.com/trending/rss?geo=IN)
-5. [scout op](https://trends.google.com/trending/rss?geo=IN)
-6. [scotland vs slovenia](https://trends.google.com/trending/rss?geo=IN)
-7. [aman gandhi](https://trends.google.com/trending/rss?geo=IN)
-8. [croatia vs spain](https://trends.google.com/trending/rss?geo=IN)
-9. [england vs czechia](https://trends.google.com/trending/rss?geo=IN)
-10. [switzerland vs north macedonia](https://trends.google.com/trending/rss?geo=IN)
+1. [belarus vs finland](https://trends.google.com/trending/rss?geo=IN)
+2. [કરોડ](https://trends.google.com/trending/rss?geo=IN)
+3. [kim kardashian](https://trends.google.com/trending/rss?geo=IN)
+4. [street fighter movie](https://trends.google.com/trending/rss?geo=IN)
+5. [abhishek bachchan](https://trends.google.com/trending/rss?geo=IN)
+6. [scout op](https://trends.google.com/trending/rss?geo=IN)
+7. [messi](https://trends.google.com/trending/rss?geo=IN)
+8. [scotland vs slovenia](https://trends.google.com/trending/rss?geo=IN)
+9. [aman gandhi](https://trends.google.com/trending/rss?geo=IN)
+10. [croatia vs spain](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -21,7 +21,7 @@
 - [4.9-magnitude earthquake hits Uttarakhand's Chamoli, tremors felt in Delhi-NCR](https://timesofindia.indiatimes.com/india/earthquake-tremors-felt-in-delhi-ncr/articleshow/134746208.cms)
 - [SpaceX overpumped 128M gallons of groundwater; now Texas city has to pay $175,000](https://timesofindia.indiatimes.com/technology/tech-news/spacexs-rocket-testing-plant-overpumped-128-million-gallons-of-groundwater-in-three-years-now-this-texas-city-has-to-pay-175000-in-penalties-and-fund-a-new-monitoring-system/articleshow/134743244.cms)
 - [British Indian peer Lord Ranger wins right to judicial review of CBE annulment](https://timesofindia.indiatimes.com/world/uk/british-indian-peer-lord-ranger-wins-right-to-judicial-review-of-cbe-annulment/articleshow/134749624.cms)
-- [Florida mom rides 7,000 miles across 48 states, donates $17,560 to family support home](https://timesofindia.indiatimes.com/world/us/a-florida-woman-rode-7000-miles-through-48-states-in-six-days-then-donated-17560-to-the-house-that-supported-her-when-her-2-pound-newborn-spent-nearly-three-months-in-intensive-care/articleshow/134727089.cms)
+- [103-year-old WWII veteran still tends same Maryland bar after 63 years](https://timesofindia.indiatimes.com/world/us/a-103-year-old-world-war-ii-veteran-has-been-tending-the-same-basement-bar-in-maryland-since-1963-after-63-years-behind-the-counter-irv-koch-still-opens-when-the-first-customer-arrives/articleshow/134729691.cms)
 - [As US-India ties face turbulence, American lawmakers honor pilot's courage](https://timesofindia.indiatimes.com/world/us/amid-turbulence-in-us-india-ties-american-lawmakers-honor-pilots-courage/articleshow/134747236.cms)
 - [Jammu and Kashmir: Arms & drugs seized in cross-border smuggling case; 4 held](https://timesofindia.indiatimes.com/india/jammu-and-kashmir-arms-drugs-seized-in-cross-border-smuggling-case-4-held/articleshow/134749535.cms)
 
@@ -56,7 +56,7 @@
 - [ತೋಟದಲ್ಲಿ ಇರುವೆ ಮಣ್ಣಿನ ಗುಡ್ಡೆ ಕಾಟವೇ? ಗಿಡಗಳಿಗೆ ಹಾನಿಯಾಗದಂತೆ ನಿವಾರಿಸಲು ಸುಲಭ ವಿಧಾನಗಳು](https://vijaykarnataka.com/lifestyle/home-decor/how-to-remove-ant-mounds-from-lawn-garden/articleshow/134746147.cms)
 - [India T20i Team- ಕಿವೀಸ್ ಪ್ರವಾಸಕ್ಕೆ RCB ಹೀರೋ! ಭಾರತ ತಂಡಕ್ಕೆ ಭುವನೇಶ್ವರ್ ಕುಮಾರ್ ಕಂಬ್ಯಾಕ್! ರಿಷಬ್ ಪಂತ್ `ಎ' ತಂಡದಲ್ಲೂ ಡೌಟ್](https://vijaykarnataka.com/sports/cricket/news/bhuvneshwar-kumar-comeback-to-india-t2oi-squad-against-new-zealand-rishab-pant-doubt-in-a-team/articleshow/134745071.cms)
 - [BBK 13 ಕಪಟ ಕಳ್ಳ ಯಶಸ್‌: ಮಂಜನ ದೂರು ಆಸಿಯಾ ವರೆಗೂ ತಲುಪಿತು!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-day-30-episode-31-yashas-the-deceitful-one-manjas-complaint-has-reach-aasiya-firdose/articleshow/134748676.cms)
-- [ಶೂ ಬಾಕ್ಸ್‌ನಲ್ಲಿರುವ ಸಿಲಿಕಾ ಜೆಲ್ ಪ್ಯಾಕೆಟ್ ಎಸೆಯಬೇಡಿ; ಮನೆಯಲ್ಲೂ ಹೀಗೆ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/silica-gel-packets-shoe-box-home-uses/articleshow/134651205.cms)
+- [ಮನೆಯಲ್ಲಿ ಉಳಿದ ಇಡ್ಲಿ ಎಸೆಯಬೇಡಿ; ಹೀಗೆ ಮಾಡಿ ಮಸಾಲಾ ಇಡ್ಲಿ ಫ್ರೈ, ರುಚಿ ಸೂಪರ್!](https://vijaykarnataka.com/lifestyle/home-decor/masala-idli-fry-recipe-leftover-idli/articleshow/134697040.cms)
 - [Garuda Purana: ನಿಮ್ಮ ಆತ್ಮ ಹಳೆಯದೇ ಅಥವಾ ಹೊಸದೇ.?](https://vijaykarnataka.com/religion/hinduism/garuda-purana-these-signs-indicate-whether-your-soul-is-old-or-new/articleshow/134742133.cms)
 - [ಸ್ತನ ಕ್ಯಾನ್ಸರ್: ಗಡ್ಡೆ ಹೊರತಾಗಿ ಕಾಣಿಸಿಕೊಳ್ಳುವ ಈ ಲಕ್ಷಣಗಳನ್ನು ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ](https://vijaykarnataka.com/lifestyle/health/breast-cancer-awareness-month-2026-warning-signs-beyond-lump/articleshow/134733101.cms)
 - [Ind Vs Wi T20i- ಲಖನೌನಲ್ಲಿ ಸ್ಪಿನ್ನರ್ ಗಳ ವಿರುದ್ಧ ವಿಂಡೀಸ್ ಪರದಾಟ; ಬಳಿಕ ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ನಾಯಕನಾಟ! ಇಲ್ಲಿದೆ ಹೈಲೈಟ್ಸ್](https://vijaykarnataka.com/sports/cricket/news/shreyas-iyer-century-india-beat-west-indies-by-8-wickets/articleshow/134745753.cms)
@@ -126,6 +126,7 @@
 - [ಜಿಂಬಾಬ್ವೆ ವಿರುದ್ಧದ ಟಿ20, ಏಕದಿನ ಸರಣಿಗೆ ಭಾರತ ಮಹಿಳಾ ತಂಡ ಪ್ರಕಟ](https://tv9kannada.com/sports/cricket-news/smriti-mandhana-leads-india-women-team-vs-zimbabwe-t20-odi-series-squads-1247324.html)
 
 **Prajavani**
+- [ಒಮಾನ್‌ನಲ್ಲಿ ವಾಣಿಜ್ಯ ಹಡಗಿನ ಮೇಲೆ ದಾಳಿ : 12 ಮಂದಿ ಭಾರತೀಯರಿಗೆ ಗಾಯ](https://www.prajavani.net/news/india-news/oman-commercial-ship-attack-indian-sailors-injured-4311960)
 - [ಬೆಂಗಳೂರು | ವಿದ್ಯುತ್ ಪರಿವರ್ತಕ ಸ್ಫೋಟ: ನಾಲ್ವರಿಗೆ ಗಾಯ](https://www.prajavani.net/news/karnataka-news/bengaluru-transformer-blast-four-injured-benniganahalli-4312397)
 - [ಫ್ಲಿಪ್‌ಕಾರ್ಟ್‌ ‘ಬಿಗ್ ಬಿಲಿಯನ್ ಡೇಸ್‌’ ಮಾರಾಟ ಮೇಳ: ಅಕ್ಟೋಬರ್‌ 9ರಿಂದ ಮಾರಾಟ](https://www.prajavani.net/business/commerce-news/flipkart-big-billion-days-sale-starts-october-4312380)
 - [ಕೆಪಿಎಸ್ಸಿ ಹಗರಣ: ಮಾಜಿ ಅಧ್ಯಕ್ಷ ಶಿವಶಂಕರಪ್ಪ ಸಾಹುಕಾರ ಇ.ಡಿ. ವಶ](https://www.prajavani.net/district/bengaluru-city/kpsc-scam-ed-custody-shivashankarappa-sahoukar-arrest-4312212)
@@ -135,7 +136,6 @@
 - [ಭಾರತ ಮಹಿಳಾ ಕ್ರಿಕೆಟ್‌ ತಂಡದ ನಾಯಕತ್ವ ತೊರೆದ ಹರ್ಮನ್‌ಪ್ರೀತ್ ಕೌರ್](https://www.prajavani.net/sports/cricket/harmanpreet-kaur-steps-down-as-india-captain-4311129)
 - [ಆಯ್ಕೆ ಸಮಿತಿಯಿಂದ ಅಗರ್ಕರ್ ನಿರ್ಗಮನ: 4 ವರ್ಷಗಳ ಬಳಿಕ ಭಾರತ ತಂಡಕ್ಕೆ ಭುವಿ](https://www.prajavani.net/sports/cricket/bhuvneshwar-kumar-returns-to-indian-team-for-new-zealand-t20-series-4312265)
 - [ಸಿಇಸಿ ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ರಾಜೀನಾಮೆಗೆ ಒತ್ತಾಯಿಸಿ ಬೀದಿಗಿಳಿದ ‘ಇಂಡಿಯಾ’ ನಾಯಕರು](https://www.prajavani.net/news/india-news/india-bloc-leaders-protest-seeking-cec-resignation-rahul-priyanka-detained-4312192)
-- [ಕಸಾಪ: ಆಡಳಿತಾಧಿಕಾರಿ ನೇಮಕ ಪ್ರಶ್ನಿಸಿ ಮಹೇಶ್‌ ಜೋಶಿ ಸಲ್ಲಿಸಿದ್ದ ಅರ್ಜಿ ವಜಾ](https://www.prajavani.net/district/bengaluru-city/high-court-dismisses-mahesh-joshi-petition-kasapa-administrator-4312135)
 
 **eedina**
 - [ಮಂಗಳೂರು | 350 ಪೊಲೀಸ್ ಠಾಣೆಗಳಲ್ಲಿ ಹುಡುಕಿದರೂ ‘ಲವ್ ಜಿಹಾದ್’ ದೂರು ಸಿಗಲಿಲ್ಲ : ಎಂ.ಜಿ. ಹೆಗಡೆ](https://eedina.com/?p=770814)
@@ -169,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Gold Silver Rate In Gujarat : ગુજરાતમાં 24K સોનાના ભાવ ₹1.50 લાખની નીચે પટકાયા, જાણો 22K અને 18K ના આજના ભાવ](https://tv9gujarati.com/photo-gallery/gold-silver-rate-today-in-gujarat-on-6-october-2026-check-sona-chandi-price-ahmeadbad-surat-rajkot-1528013.html)
-- [NASA Backs Mission to Probe Moon Lava Tube](https://stratnewsglobal.com/technology/nasa-gimli-moon-lava-tube-marius-hills-pit/)
-- [Manchu Vishnu: హాట్ టాపిక్‌గా చుట్టమల్లె సాంగ్.. డీప్‌ఫేక్‌ వీడియోస్, ఆన్‌లైన్‌ వేధింపులపై మంచు విష్ణు రియాక్షన్](https://telugu.news18.com/news/movies/vishnu-manchu-calls-for-industry-wide-system-against-deepfakes-and-online-abuse-slb-3240875.html)
-- [উৎসবের মরসুমে ফের চাঁদার জুলুমের অভিযোগ এক ব্যবসায়ীকে](https://eisamay.com/west-bengal-news/24pargana-news/allegations-of-forced-extortion-during-durga-puja-season-businessman-slapped/200551780.cms)
-- [નવરાત્રીના ગણતરીના દિવસો બાકી છતાં ફાયર પરવાનગી માટે આયોજકોની ઉદાસીનતા : સુરત પાલિકાની કડક ગાઈડલાઈન છતાં આયોજકો નિષ્ક્રિય](https://www.gujaratsamachar.com/news/surat/even-though-navratri-is-just-a-few-days-away-organizers-are-indifferent-to-fire-permits-despite-strict-guidelines-from-surat-municipality-organizers-are-inactive-26308932201)
-- [Israel prepared to shoot down FlyDubai plane after cockpit attack: CBS](https://www.arabnews.com/middle-east/israel-prepared-to-shoot-down-flydubai-plane-after-cockpit-attack-cbs-3004834)
-- [তরুণদের মধ্যে দ্রুত বাড়ছে ক্যানসার, গবেষণায় মিললো চাঞ্চল্যকর তথ্য](https://www.bvnews24.com/health-medical/news/217695)
-- [മുഖ്യമന്ത്രിക്കെതിരായ അടൂർ പ്രകാശിന്റെ പരാതി; എഐസിസിയുടെ പ്രതികരണം കാത്ത് നേതാക്കൾ](https://www.twentyfournews.com/2026/10/06/adoor-prakashs-complaint-against-the-chief-minister-leaders-await-aiccs-response.html)
-- [Flydubai Hero Pilot : దాడిలో ఫ్లైదుబాయ్ పైలట్ కు పగిలిన పుర్రె ..అత్యవసర శస్త్రచికిత్స](https://vaartha.com/national/flydubai-hero-pilot-skull-fracture-emergency-surgery/786717/)
-- [CJP नेताओं को पुलिस ने भेजे नोटिस, अभिजीत दीपके बोले- 'आंदोलन में न जाने का दबाव...'](https://www.abplive.com/news/india/cockroach-janta-party-abhijeet-dipke-police-notices-leaders-arrest-claim-october-10-jantar-mantar-protest-3198345)
+- [सौरव गांगुली बने दिल्ली कैपिटल्स के नए हेड कोच, IPL 2027 से पहले बड़ा ऐलान](https://www.livehindustan.com/cricket/sourav-ganguly-appointed-head-coach-of-delhi-capitals-big-announcement-before-ipl-2027-201791272773278.html)
+- [West Bengal Rain: রাজ্যে শুষ্ক আবহাওয়া শুরু সপ্তাহান্তে, বৃষ্টি কি আর হবে? IMD যা জানাচ্ছে](https://bangla.aajtak.in/kolkata/story/west-bengal-rain-forecast-rain-till-saturday-from-sunday-dry-weather-for-kolkata-south-bengal-and-north-bengal-districts-imd-7-day-weather-update-sud-1459411-2026-10-06)
+- ['मुझे भारत में ही दफनाया जाए', भारतीय यहूदी जनरल की दलदल में तेजी से बढ़ने की रणनीति से पाकिस्तान सन्न, बांग्लादेश आजाद, इजरायल नतमस्तक](https://navbharattimes.indiatimes.com/india/lt-general-jfr-jacob-baghdadi-jewish-secure-surrender-of-pakistan-bangladesh-born-in-1971-israel-salute-him/articleshow/134726364.cms)
+- [డ్రోన్ దాడుల భయం.. పాక్ సైనిక పోస్టులకు ‘చేపల వలలు’!](https://www.andhrajyothy.com/2026/international/pakistan-army-fishing-nets-drone-attacks-avn-1564752.html)
+- [“இடைத்தேர்தல் என்றாலே ஆளும்கட்சிதான் வெற்றி பெறும் என்பதில்லை” - திமுக வேட்பாளர் பரந்தாமன்](https://www.hindutamil.in/news/tamilnadu/dmk-will-win-in-maduranthakam-paranthaman-expresses-confidence)
+- [Abhijeet Dipke claims CJP activists receiving police notices threatening October 10 protest 'could turn violent'](https://timesofindia.indiatimes.com/india/abhijeet-dipke-claims-cjp-activists-receiving-police-notices-threatening-october-10-protest-could-turn-violent/articleshow/134727079.cms)
+- [Barapullah Was Built To Beat Delhi Traffic. Why Is The New Flyover Causing Jams?](https://www.ndtv.com/india-news/barapullah-was-built-to-beat-delhi-traffic-why-is-the-new-flyover-causing-jams-12144755)
+- ['વોટ ચોરી'ના મુદ્દા પર આકાશવાણી ભવનમાં ધરણા પર બેઠા રાહુલ ગાંધી](https://gujarati.abplive.com/news/india/opposition-mps-hold-protest-march-over-the-issue-of-vote-theft-992739)
+- [పాకిస్థాన్‌లో సైనిక పోస్టులు, పోలీసు స్టేషన్ల చుట్టూ చేపల వలలు.. ఏమైనా ఐడియానా సర్ జీ..!?](https://telugu.samayam.com/latest-news/international-news/pakistan-installing-fishing-nets-at-outposts-to-get-protection-from-drone-attacks/articleshow/134727138.cms)
+- [Rhiti Tiwari 25000 Pocketmoney Controversy With Ekam Bawa ; '25000 पॉकेटमनी, वडापाववर दिवस काढले', वक्तव्यावर रिती तिवारी स्पष्टच बोलली, सावत्र वडिलांना दिलं सडेतोड उत्तर](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/rhiti-tiwari-answered-to-stepfather-ekam-bawa-on-25-thousand-pocket-money-controversy/articleshow/134727006.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
