@@ -1,16 +1,16 @@
-# India Trending Report — 2026-10-06 18:42:34
+# India Trending Report — 2026-10-06 19:03:23
 
 ## Google Trends (India) — top trending searches
-1. [scout op](https://trends.google.com/trending/rss?geo=IN)
-2. [scotland vs slovenia](https://trends.google.com/trending/rss?geo=IN)
-3. [aman gandhi](https://trends.google.com/trending/rss?geo=IN)
-4. [croatia vs spain](https://trends.google.com/trending/rss?geo=IN)
-5. [england vs czechia](https://trends.google.com/trending/rss?geo=IN)
-6. [switzerland vs north macedonia](https://trends.google.com/trending/rss?geo=IN)
-7. [భూకంపం](https://trends.google.com/trending/rss?geo=IN)
-8. [ഗായത്രി സുരേഷ്](https://trends.google.com/trending/rss?geo=IN)
-9. [premanand ji maharaj news](https://trends.google.com/trending/rss?geo=IN)
-10. [साँप](https://trends.google.com/trending/rss?geo=IN)
+1. [abhishek bachchan](https://trends.google.com/trending/rss?geo=IN)
+2. [scout op](https://trends.google.com/trending/rss?geo=IN)
+3. [scotland vs slovenia](https://trends.google.com/trending/rss?geo=IN)
+4. [aman gandhi](https://trends.google.com/trending/rss?geo=IN)
+5. [croatia vs spain](https://trends.google.com/trending/rss?geo=IN)
+6. [england vs czechia](https://trends.google.com/trending/rss?geo=IN)
+7. [switzerland vs north macedonia](https://trends.google.com/trending/rss?geo=IN)
+8. [భూకంపం](https://trends.google.com/trending/rss?geo=IN)
+9. [ഗായത്രി സുരേഷ്](https://trends.google.com/trending/rss?geo=IN)
+10. [premanand ji maharaj news](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -50,18 +50,21 @@
 - ['Captain Smit Machchhar making steady progress’: Indian embassy gives health update on flydubai hero](https://www.hindustantimes.com/india-news/flydubai-pilot-hero-captain-smit-machchhar-making-steady-progress-indian-embassy-in-uae-health-update-101791297119412.html)
 
 **Vijay Karnataka**
+- [ಮೊದಲಿಗೆ ಜಿಲ್ಲಾ, ತಾಲೂಕು ಪಂಚಾಯಿತಿ ಚುನಾವಣೆ ಬಳಿಕ ಗ್ರಾಮ ಪಂಚಾಯಿತಿ! ಸಚಿವ ಸಂಪುಟ ಮಹತ್ವದ ತೀರ್ಮಾನ; 2 ತಿಂಗಳಷ್ಟೇ ಬಾಕಿ](https://vijaykarnataka.com/news/karnataka/first-district-taluk-panchayat-election-then-grama-panchayat-karnataka-important-cabinet-decision-only-2-months-left/articleshow/134744717.cms)
 - [KPSC ಹಗರಣ: ಹಲವು ಗಂಟೆ ಇಡಿ ಡ್ರಿಲ್ ಬಳಿಕ ಶಿವಶಂಕರಪ್ಪ ಸಾಹುಕಾರ್, ಗೀತಾ ಬಂಧನ; ಹಲವರ ಎದೆಯಲ್ಲಿ ಢವಢವ](https://vijaykarnataka.com/news/karnataka/kpsc-scam-ed-arrests-shivashankarappa-sahukar-and-geetha-arrest-after-hours-of-ed-drill/articleshow/134748214.cms)
-- [RCB ಕ್ವೀನ್ `ಸ್ಮೃತಿ ಮಂದಾನ' ಭಾರತ ಮಹಿಳಾ ಕ್ರಿಕೆಟ್‌ ತಂಡದ ಹೊಸ ನಾಯಕಿ: ಟಿ20 ತಂಡಕ್ಕೆ ಕರ್ನಾಟದ ಹುಡುಗಿ `ನಿಕಿ'!](https://vijaykarnataka.com/sports/cricket/news/smriti-mandhana-new-captain-of-the-indian-womens-cricket-team-karnatakas-niki-prasad-select-to-t20-squad/articleshow/134747222.cms)
-- [Ind Vs Wi T20i- ಲಖನೌನಲ್ಲಿ ಸ್ಪಿನ್ನರ್ ಗಳ ವಿರುದ್ಧ ವಿಂಡೀಸ್ ಪರದಾಟ; ಬಳಿಕ ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ನಾಯಕನಾಟ! ಇಲ್ಲಿದೆ ಹೈಲೈಟ್ಸ್](https://vijaykarnataka.com/sports/cricket/news/shreyas-iyer-century-india-beat-west-indies-by-8-wickets/articleshow/134745753.cms)
+- [RCB ಕ್ವೀನ್ `ಸ್ಮೃತಿ ಮಂದಾನ' ಭಾರತ ಮಹಿಳಾ ಕ್ರಿಕೆಟ್‌ ತಂಡದ ಹೊಸ ನಾಯಕಿ: ಟಿ20 ತಂಡಕ್ಕೆ ಕರ್ನಾಟಕದ ಹುಡುಗಿ `ನಿಕಿ'!](https://vijaykarnataka.com/sports/cricket/news/smriti-mandhana-new-captain-of-the-indian-womens-cricket-team-karnatakas-niki-prasad-select-to-t20-squad/articleshow/134747222.cms)
 - [ತೋಟದಲ್ಲಿ ಇರುವೆ ಮಣ್ಣಿನ ಗುಡ್ಡೆ ಕಾಟವೇ? ಗಿಡಗಳಿಗೆ ಹಾನಿಯಾಗದಂತೆ ನಿವಾರಿಸಲು ಸುಲಭ ವಿಧಾನಗಳು](https://vijaykarnataka.com/lifestyle/home-decor/how-to-remove-ant-mounds-from-lawn-garden/articleshow/134746147.cms)
 - [India T20i Team- ಕಿವೀಸ್ ಪ್ರವಾಸಕ್ಕೆ RCB ಹೀರೋ! ಭಾರತ ತಂಡಕ್ಕೆ ಭುವನೇಶ್ವರ್ ಕುಮಾರ್ ಕಂಬ್ಯಾಕ್! ರಿಷಬ್ ಪಂತ್ `ಎ' ತಂಡದಲ್ಲೂ ಡೌಟ್](https://vijaykarnataka.com/sports/cricket/news/bhuvneshwar-kumar-comeback-to-india-t2oi-squad-against-new-zealand-rishab-pant-doubt-in-a-team/articleshow/134745071.cms)
-- [Nagathihalli Chandrashekhar: ಕೀಳರಿಮೆ ಕಾಡಿತ್ತು, ಆ ವ್ಯಕ್ತಿ ಪ್ರಭಾವ ಬದುಕಿಗೆ ಕಾರಣ!](https://vijaykarnataka.com/video/entertainment/nagathihalli-chandrashekhar-speaks-about-life-journey-and-america-america-2-movie-in-vijaykarnataka-interview/videoshow/134743221.cms)
+- [BBK 13 ಕಪಟ ಕಳ್ಳ ಯಶಸ್‌: ಮಂಜನ ದೂರು ಆಸಿಯಾ ವರೆಗೂ ತಲುಪಿತು!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-day-30-episode-31-yashas-the-deceitful-one-manjas-complaint-has-reach-aasiya-firdose/articleshow/134748676.cms)
 - [ಮನೆಯಲ್ಲಿ ಉಳಿದ ಇಡ್ಲಿ ಎಸೆಯಬೇಡಿ; ಹೀಗೆ ಮಾಡಿ ಮಸಾಲಾ ಇಡ್ಲಿ ಫ್ರೈ, ರುಚಿ ಸೂಪರ್!](https://vijaykarnataka.com/lifestyle/home-decor/masala-idli-fry-recipe-leftover-idli/articleshow/134697040.cms)
 - [Garuda Purana: ನಿಮ್ಮ ಆತ್ಮ ಹಳೆಯದೇ ಅಥವಾ ಹೊಸದೇ.?](https://vijaykarnataka.com/religion/hinduism/garuda-purana-these-signs-indicate-whether-your-soul-is-old-or-new/articleshow/134742133.cms)
 - [ಸ್ತನ ಕ್ಯಾನ್ಸರ್: ಗಡ್ಡೆ ಹೊರತಾಗಿ ಕಾಣಿಸಿಕೊಳ್ಳುವ ಈ ಲಕ್ಷಣಗಳನ್ನು ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ](https://vijaykarnataka.com/lifestyle/health/breast-cancer-awareness-month-2026-warning-signs-beyond-lump/articleshow/134733101.cms)
-- [ಮೊದಲಿಗೆ ಜಿಲ್ಲಾ, ತಾಲೂಕು ಪಂಚಾಯಿತಿ ಚುನಾವಣೆ ಬಳಿಕ ಗ್ರಾಮ ಪಂಚಾಯಿತಿ! ಸಚಿವ ಸಂಪುಟ ಮಹತ್ವದ ತೀರ್ಮಾನ; 2 ತಿಂಗಳಷ್ಟೇ ಬಾಕಿ](https://vijaykarnataka.com/news/karnataka/first-district-taluk-panchayat-election-then-grama-panchayat-karnataka-important-cabinet-decision-only-2-months-left/articleshow/134744717.cms)
+- [Ind Vs Wi T20i- ಲಖನೌನಲ್ಲಿ ಸ್ಪಿನ್ನರ್ ಗಳ ವಿರುದ್ಧ ವಿಂಡೀಸ್ ಪರದಾಟ; ಬಳಿಕ ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ನಾಯಕನಾಟ! ಇಲ್ಲಿದೆ ಹೈಲೈಟ್ಸ್](https://vijaykarnataka.com/sports/cricket/news/shreyas-iyer-century-india-beat-west-indies-by-8-wickets/articleshow/134745753.cms)
 
 **The Hindu**
+- [Vellore police hands over missing phones to owners](https://www.thehindu.com/news/national/tamil-nadu/vellore-police-hands-over-missing-phones-to-owners/article71551307.ece)
+- [RPF, Nemili police seize 16 kg of ganja in separate cases; four persons held](https://www.thehindu.com/news/national/tamil-nadu/rpf-nemili-police-seize-16-kg-of-ganja-in-separate-cases-four-persons-held/article71551300.ece)
+- [Burglars decamp with 30 sovereigns of gold, ₹5 lakh in Ranipet](https://www.thehindu.com/news/national/tamil-nadu/burglars-decamp-with-30-sovereigns-of-gold-5-lakh-in-ranipet/article71551303.ece)
 - [SIR: BLOs being forced to accept Form-7s without signature of applicants](https://www.thehindu.com/news/national/telangana/sir-blos-being-forced-to-accept-form-7s-without-signature-of-applicants/article71552172.ece)
 - [Case registered against BJP booth-level agent over alleged attempt to delete names of 30 voters in Musheerabad](https://www.thehindu.com/news/cities/Hyderabad/case-registered-against-bjp-booth-level-agent-over-alleged-attempt-to-delete-names-of-30-voters-in-musheerabad/article71552777.ece)
 - [Shree Cement plans ₹6,700 crore investments in A.P.: Minister](https://www.thehindu.com/news/national/andhra-pradesh/shree-cement-plans-6700-crore-investments-in-ap-minister/article71552026.ece)
@@ -69,9 +72,6 @@
 - [CEC row updates: Rahul Gandhi, other Congress leaders  released from detention](https://www.thehindu.com/news/national/cec-row-protest-against-gyanesh-kumar-india-bloc-march-election-commission-sir-issue-live-updates-october-6-2026/article71549790.ece)
 - [Not a single traitor will be spared: Rahul after his forcible removal from sit-in, detention](https://www.thehindu.com/news/national/opposition-march-to-election-commission-of-india-demanding-gyanesh-kumars-resignation-on-october-6-2026/article71550384.ece)
 - [Tremors felt across Delhi-NCR as 4.9-magnitude quake hits Uttarakhand’s Chamoli](https://www.thehindu.com/news/national/tremors-felt-across-delhi-ncr-as-49-magnitude-quake-hits-uttarakhands-chamoli/article71553036.ece)
-- [Minister lauds Sankar Foundation’s eye-care services](https://www.thehindu.com/news/national/andhra-pradesh/minister-lauds-sankar-foundations-eye-care-services/article71552458.ece)
-- [Minister inspects Bheemunipatnam-Narsipatnam road widening works](https://www.thehindu.com/news/national/andhra-pradesh/minister-inspects-bheemunipatnam-narsipatnam-road-widening-works/article71552219.ece)
-- [ASHA workers seek ₹15,000 monthly remuneration](https://www.thehindu.com/news/national/karnataka/asha-workers-seek-15000-monthly-remuneration/article71552289.ece)
 
 **Livemint**
 - [‘Layoff was a blessing’: Indian woman in Canada says job loss made her rethink life beyond 9-to-5](https://www.livemint.com/news/trends/layoff-was-a-blessing-indian-woman-in-canada-says-job-loss-made-her-rethink-life-beyond-9to5-11791309620641.html)
@@ -88,16 +88,16 @@
 **Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
+- [Bengaluru | ವಂಚನೆ ಆರೋಪ; ಆರ್‌ಟಿಐ ಕಾರ್ಯಕರ್ತನ ಬಂಧನ](https://www.varthabharati.in/bangalore-city/bengaluru-2280781)
+- [ಸರಕಾರದಿಂದ ಕೆಐಎಡಿಬಿಗೆ 825 ಕೋಟಿ ರೂ. ಅನುದಾನ ಬಾಕಿ : ಡಾ.ಎಲ್.ಹನುಮಂತಯ್ಯ](https://www.varthabharati.in/bengaluru/dr-l-hanumanthaiah-2280779)
 - [ಬೆಂಗಳೂರಿನಲ್ಲಿ 12 ಕಿ.ಮೀ. 220ಕೆವಿ ಮಲ್ಟಿ ಸರ್ಕ್ಯೂಟ್ ಪ್ರಸರಣ ಮಾರ್ಗ ಯಶಸ್ವಿ ಕಾರ್ಯಾರಂಭ](https://www.varthabharati.in/bengaluru/bengaluru-2280778)
 - [ಭಾರತದ ಕ್ರಿಕೆಟ್‌ ತಂಡಕ್ಕೆ ನಾಯಕಿಯಾಗಿ ಸ್ಮೃತಿ ಮಂಧನಾ ನೇಮಕ](https://www.varthabharati.in/sports/smriti-mandhana-appointed-captain-of-indian-womens-cricket-team-2280777)
 - [ಅ.8ರಂದು ಬೆಂಗಳೂರಿನಲ್ಲಿ CJPಯಿಂದ ಪತ್ರಕರ್ತೆಯರ ಪರ ‘ಚಪ್ಪಲಿ ಪ್ರತಿಭಟನೆ’](https://www.varthabharati.in/National/chappal-protest-for-women-cjp-announces-bengaluru-action-on-october-8-2280775)
 - [ಚನ್ನಪಟ್ಟಣ ಸರಕಾರಿ ಆಸ್ಪತ್ರೆಗೆ ಆರೋಗ್ಯ ಸಚಿವ ಯು.ಟಿ.ಖಾದರ್ ಅನಿರೀಕ್ಷಿತ ಭೇಟಿ](https://www.varthabharati.in/bangalore-city/ut-khader-2280774)
 - [ಪತ್ರಿಕೋದ್ಯಮ ವಿಭಾಗಗಳ ಬಲವರ್ಧನೆ ಅಗತ್ಯ : ಆಯೇಶಾ ಖಾನಂ](https://www.varthabharati.in/bangalore-city/ayesha-khanam-2280773)
 - [ನಟ ಅಂಬರೀಶ್‍ಗೆ ಮರಣೋತ್ತರ ‘ಕರ್ನಾಟಕ ರತ್ನ’ ಪ್ರಶಸ್ತಿ ನೀಡಿ : ರಾಮಲಿಂಗಾರೆಡ್ಡಿ](https://www.varthabharati.in/bangalore-city/ramalingareddy-2280772)
+- [Bengaluru | ನಕಲಿ ಔಷಧಿ ದಂಧೆ: ಮೂರು ಫಾರ್ಮಾಗಳ ಮೇಲೆ ಎಸ್‍ಐಟಿ ದಾಳಿ](https://www.varthabharati.in/bangalore-city/bengaluru-2280780)
 - [ಹೆಚ್ಚುವರಿಯಾಗಿ 1,117 ಸಹಾಯಕ ಚುನಾವಣಾ ನೋಂದಣಾಧಿಕಾರಿಗಳ ನೇಮಕ : ಶಿಲ್ಪಾ ನಾಗ್](https://www.varthabharati.in/bangalore-city/-1117--2280770)
-- [ಕಾಸರಗೋಡು: ಸಿಡಿಲು ಬಡಿದು ಯುವಕ ಮೃತ್ಯು](https://www.varthabharati.in/kasaragod/kasaragod-youth-dies-after-being-struck-by-lightning-2280769)
-- [Raichur | ಸಾಮಾಜಿಕ ಸೌಹಾರ್ದತೆ ಕಾಪಾಡಲು ಮುಂಜಾಗ್ರತಾ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ: ಡಿಸಿ ಪೂವಿತಾ ಎಸ್.](https://www.varthabharati.in/raichur/raichur-take-precautionary-measures-to-maintain-social-harmony-dc-poovitha-s-2280768)
-- [ಉತ್ತರಾಖಂಡದಲ್ಲಿ 4.9 ತೀವ್ರತೆಯ ಭೂಕಂಪ](https://www.varthabharati.in/National/49-magnitude-earthquake-hits-uttarakhand-tremors-felt-in-delhi-2280767)
 
 **Asianet Kannada**
 - [14000 ಫಾಲೋವರ್ಸ್ ನಂಬಿ ₹60,000 ಸಂಬಳಕ್ಕೆ ವಿದಾಯ; ಇವತ್ತು ಈ ಹುಡುಗಿಯ ಸ್ಥಿತಿ ಏನಾಗಿದೆ?](https://kannada.asianetnews.com/india-news/delhi-girl-earns-1-12-lakh-with-14k-followers-after-quitting-60k-job-content-creator-news/articleshow-g53atgp)
@@ -114,6 +114,7 @@
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ದಿನ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರು ತಮಗಿರುವ ವಿರೋಧವನ್ನು ಎದುರಿಸಲು ಆಗದು…](https://tv9kannada.com/horoscope/horoscope-today-07-wednesday-october-2026-daily-rashi-bhavishya-for-all-12-zodiac-signs-1247120.html)
 - [ಅಮೆರಿಕ ಸಂಸತ್‌ನಲ್ಲಿ ಭಾರತೀಯ ಪೈಲಟ್ ಸ್ಮಿತ್ ಮಚ್ಚರ್‌ಗೆ ಗೌರವ; ವಿಮಾನ ಹೈಜಾಕ್ ಯತ್ನ ಖಂಡಿಸಿ ನಿರ್ಣಯ ಮಂಡನೆ](https://tv9kannada.com/world/us-house-introduced-resolution-honouring-indian-pilot-smit-machchhar-condemns-flydubai-attack-1247359.html)
 - [ಇಡೀ ಎಟಿಎಂ ಯಂತ್ರವನ್ನೇ ಕಿತ್ತು, ಕಾರಿನಲ್ಲಿ ತುಂಬಿಸಿಕೊಂಡು ಪರಾರಿಯಾದ ಕಳ್ಳರು! ವಿಡಿಯೋ ವೈರಲ್](https://tv9kannada.com/national/thieves-uprooted-the-atm-machine-in-jharkhands-deoghar-loading-it-on-car-video-goes-viral-1247339.html)
 - [ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ಚೊಚ್ಚಲ ಟಿ20 ಶತಕ; ಭಾರತಕ್ಕೆ 8 ವಿಕೆಟ್ ಜಯ](https://tv9kannada.com/sports/cricket-news/india-vs-wi-t20-shreyas-iyer-century-leads-team-india-win-lucknow-1247347.html)
@@ -123,21 +124,21 @@
 - [ಉಳಿತಾಯ ಖಾತೆಯಲ್ಲಿ ಠೇವಣಿ ಮಿತಿ ಎಷ್ಟು? ಆದಾಯ ತೆರಿಗೆ ಇಲಾಖೆ ನಿಯಮದಲ್ಲಿ ಏನಿದೆ?](https://tv9kannada.com/business/savings-account-how-much-money-can-be-deposited-in-a-savings-account-1247311.html)
 - [ಸ್ನೇಹಿತೆಯ ಬರ್ತ್‌ಡೇ ಪಾರ್ಟಿಗೆ ಹೋಗೋಣ ಬಾ ಎಂದು ನಂಬಿಸಿ ಕರೆದೊಯ್ದು ಮಗಳನ್ನೇ ಹಾಳು ಮಾಡಿದ ತಂದೆಗೆ 20 ವರ್ಷ ಜೈಲು ಶಿಕ್ಷೆ](https://tv9kannada.com/karnataka/chitradurga/chitradurga-pocso-father-gets-20-year-jail-for-assaulting-minor-daughter-1247325.html)
 - [ಜಿಂಬಾಬ್ವೆ ವಿರುದ್ಧದ ಟಿ20, ಏಕದಿನ ಸರಣಿಗೆ ಭಾರತ ಮಹಿಳಾ ತಂಡ ಪ್ರಕಟ](https://tv9kannada.com/sports/cricket-news/smriti-mandhana-leads-india-women-team-vs-zimbabwe-t20-odi-series-squads-1247324.html)
-- [ನೈರುತ್ಯ ರೈಲ್ವೆಯಿಂದ  ದಸರಾಗೆ ವಿಶೇಷ ಟ್ರೈನ್​​​​​​​​​​ ವ್ಯವಸ್ಥೆ: ಇಲ್ಲಿದೆ 5 ರೈಲುಗಳ ವೇಳಾಪಟ್ಟಿ](https://tv9kannada.com/karnataka/dasara-travel-swr-adds-unreserved-trains-between-bengaluru-mysuru-and-chamarajanagar-1247302.html)
 
 **Prajavani**
+- [ಫ್ಲಿಪ್‌ಕಾರ್ಟ್‌ ‘ಬಿಗ್ ಬಿಲಿಯನ್ ಡೇಸ್‌’ ಮಾರಾಟ ಮೇಳ: ಅಕ್ಟೋಬರ್‌ 9ರಿಂದ ಮಾರಾಟ](https://www.prajavani.net/business/commerce-news/flipkart-big-billion-days-sale-starts-october-4312380)
+- [ಕೆಪಿಎಸ್ಸಿ ಹಗರಣ: ಮಾಜಿ ಅಧ್ಯಕ್ಷ ಶಿವಶಂಕರಪ್ಪ ಸಾಹುಕಾರ ಇ.ಡಿ. ವಶ](https://www.prajavani.net/district/bengaluru-city/kpsc-scam-ed-custody-shivashankarappa-sahoukar-arrest-4312212)
+- [ಟಿ20 ಕ್ರಿಕೆಟ್: ವೆಸ್ಟ್ ಇಂಡೀಸ್ ಎದುರು ಭಾರತಕ್ಕೆ ಗೆಲುವು](https://www.prajavani.net/sports/cricket/india-vs-west-indies-first-t-twenty-toss-report-naman-dhir-debut-4311441)
+- [ಹಿರಿಯೂರು | ಲಾರಿಗೆ ಕಾರು ಡಿಕ್ಕಿ: ಮೂವರ ಸಾವು](https://www.prajavani.net/news/karnataka-news/hiriyur-road-accident-chikkamagaluru-drowning-deaths-4312331)
+- [ಮಹಿಳಾ ಕ್ರಿಕೆಟ್ ತಂಡದ ನಾಯಕತ್ವ ತೊರೆದ ಹರ್ಮನ್‌ಪ್ರೀತ್ : ಸ್ಮೃತಿಗೆ ನಾಯಕಿ ಪಟ್ಟ](https://www.prajavani.net/sports/cricket/smriti-mandhana-replaces-harmanpreet-kaur-as-india-captain-4312343)
 - [ಭಾರತ ಮಹಿಳಾ ಕ್ರಿಕೆಟ್‌ ತಂಡದ ನಾಯಕತ್ವ ತೊರೆದ ಹರ್ಮನ್‌ಪ್ರೀತ್ ಕೌರ್](https://www.prajavani.net/sports/cricket/harmanpreet-kaur-steps-down-as-india-captain-4311129)
 - [ಆಯ್ಕೆ ಸಮಿತಿಯಿಂದ ಅಗರ್ಕರ್ ನಿರ್ಗಮನ: 4 ವರ್ಷಗಳ ಬಳಿಕ ಭಾರತ ತಂಡಕ್ಕೆ ಭುವಿ](https://www.prajavani.net/sports/cricket/bhuvneshwar-kumar-returns-to-indian-team-for-new-zealand-t20-series-4312265)
 - [ಸಿಇಸಿ ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ರಾಜೀನಾಮೆಗೆ ಒತ್ತಾಯಿಸಿ ಬೀದಿಗಿಳಿದ ‘ಇಂಡಿಯಾ’ ನಾಯಕರು](https://www.prajavani.net/news/india-news/india-bloc-leaders-protest-seeking-cec-resignation-rahul-priyanka-detained-4312192)
 - [ಕಸಾಪ: ಆಡಳಿತಾಧಿಕಾರಿ ನೇಮಕ ಪ್ರಶ್ನಿಸಿ ಮಹೇಶ್‌ ಜೋಶಿ ಸಲ್ಲಿಸಿದ್ದ ಅರ್ಜಿ ವಜಾ](https://www.prajavani.net/district/bengaluru-city/high-court-dismisses-mahesh-joshi-petition-kasapa-administrator-4312135)
 - [ಚೆನ್ನೈ: ಶಾಂತಿಯುತವಾಗಿ ನಡೆದ ಉಪಚುನಾವಣೆ](https://www.prajavani.net/news/india-news/peaceful-assembly-and-lok-sabha-by-elections-held-4312097)
-- [ಆಟ–ಅಖಾಡ: ಆದಿವಾಸಿಯ ಹಾಡಿಯ ಸಲೀಮಾ ಆಟಕ್ಕೆ ಚಿನ್ನದ ಸಲಾಂ](https://www.prajavani.net/sports/other-sports/salima-tete-indian-women-hockey-captain-success-story-4312018)
-- [ಕೇರಳಂ ಕೇಂದ್ರೀಯ ವಿವಿಯದಲ್ಲಿ RSS ಮುಖಂಡರ ಉಪಸ್ಥಿತಿ: ವಿದ್ಯಾರ್ಥಿಗಳ ವಿರೋಧ](https://www.prajavani.net/news/india-news/kerala-central-university-rss-leader-visit-student-protest-4312017)
-- [2036ರ ಒಲಿಂಪಿಕ್ಸ್ ಆತಿಥ್ಯಕ್ಕೆ ಭಾರತ ಆಸಕ್ತಿ](https://www.prajavani.net/sports/other-sports/india-expresses-interest-in-hosting-twenty-thirty-six-olympics-4311346)
-- [ರಾಷ್ಟ್ರೀಯ ಆಯ್ಕೆ ಸಮಿತಿಯ ಮುಖ್ಯಸ್ಥ ಸ್ಥಾನಕ್ಕೆ ಅರ್ಜಿ ಆಹ್ವಾನಿಸಿದ ಬಿಸಿಸಿಐ](https://www.prajavani.net/sports/cricket/bcci-invites-applications-for-mens-national-selection-committee-head-4311969)
-- [ಎಂಟು ತಾಸು ಧರಣಿ: ರಾಹುಲ್, ಪ್ರಿಯಾಂಕಾ ಸೇರಿ 250 ಮಂದಿ ವಶಕ್ಕೆ](https://www.prajavani.net/news/india-news/rahul-gandhi-priyanka-gandhi-detained-congress-protest-delhi-4311957)
 
 **eedina**
+- [ಮಂಗಳೂರು | 350 ಪೊಲೀಸ್ ಠಾಣೆಗಳಲ್ಲಿ ಹುಡುಕಿದರೂ ‘ಲವ್ ಜಿಹಾದ್’ ದೂರು ಸಿಗಲಿಲ್ಲ : ಎಂ.ಜಿ. ಹೆಗಡೆ](https://eedina.com/?p=770814)
 - [ಚಿತ್ರದುರ್ಗ | ಐಟಿಐ ಪಾಸಾದವರಿಗೆ ಸ್ಥಳೀಯವಾಗಿಯೇ ಅಪ್ರೆಂಟಿಸ್‌ಶಿಪ್, ಉದ್ಯೋಗ ಕಲ್ಪಿಸಿ : ಡಿಸಿ ರಮ್ಯ ಸೂಚನೆ](https://eedina.com/?p=770793)
 - [ಕಲಬುರಗಿ | ಹಳೆಯ ನೆನಪುಗಳಿಗೆ ಮರುಜೀವ: ಹಳೆಯ ವಿದ್ಯಾರ್ಥಿಗಳ ಗುರುವಂದನಾ, ಸ್ನೇಹ ಸಮ್ಮಿಲನ ಕಾರ್ಯಕ್ರಮ](https://eedina.com/?p=770807)
 - [ಯಾದಗಿರಿ | ಸಂಚಾರ ನಿಯಮ ಪಾಲನೆಗೆ ಜಾಗೃತಿ: ಹೆಲ್ಮೆಟ್, ಪರವಾನಗಿ, ವಿಮೆ ಕಡ್ಡಾಯ](https://eedina.com/?p=770801)
@@ -147,7 +148,6 @@
 - [ತುಮಕೂರು | ಎಸ್‌ಐಆರ್ ವಿರುದ್ಧ ಅ. 8ರಂದು  ಇಂಡಿಯಾ ಮೈತ್ರಿಕೂಟದ ಪ್ರತಿಭಟನೆ](https://eedina.com/?p=770787)
 - [ತುಮಕೂರು | ಮಿನಿ ಒಲಂಪಿಕ್ಸ್‌ಗೆ  ಮಕ್ಕಳು ಸಜ್ಜು : ಕಯಾಕಿಂಗ್, ಕನೋಯಿಂಗ್, ಶೂಟಿಂಗ್ ತರಬೇತಿ](https://eedina.com/?p=770782)
 - [ಚಿಕ್ಕಮಗಳೂರು | ಸಾಮಾಜಿಕ ಜಾಲತಾಣ; ಶಾಸಕ ಟಿ.ಡಿ ರಾಜೇಗೌಡರಿಗೆ ಅವಹೇಳನ, ಬೆದರಿಕೆ; ಪ್ರಕರಣ ದಾಖಲು](https://eedina.com/?p=770781)
-- [ತುಮಕೂರು | ಅಂಗನವಾಡಿ ನೌಕರರಿಗೆ ಕನಿಷ್ಠ ವೇತನ, ಪಿಂಚಣಿ ನೀಡಿ: ಸರ್ಕಾರಗಳಿಗೆ ಸಿಐಟಿಯು ಆಗ್ರಹ](https://eedina.com/?p=770774)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Rahul (7.1)
@@ -155,12 +155,12 @@
 - Uttarakhand (4.2)
 - INDIA (4.2)
 - Indian (4.2)
-- Minister (3.9)
 - Tremors (3.2)
 - Delhi (2.9)
 - India (2.9)
 - What (2.6)
 - Congress (2.6)
+- Bengaluru (2.6)
 - Uttarakhand's Chamoli (2.0)
 - Captain Smit Machchhar (2.0)
 - Chamoli (1.9)
@@ -169,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- ['ज्ञानेश इट्स डन ब्रो': राहुल गांधी को आकाशवाणी के गेट के बाहर रोका गया](https://www.bbc.com/hindi/articles/cmn5vw22kpzvo)
-- [“செவிலியர்கள் மீதான காவல்துறை அராஜகம் கொடூரத்தின் உச்சம்” - இபிஎஸ் காட்டம்](https://www.hindutamil.in/news/tamilnadu/police-atrocity-on-nurses-is-the-height-of-cruelty-eps-lashes-out)
-- [US citizenship: అమెరికాలో సంచలనం.. 40 మంది పౌరసత్వం రద్దుకు న్యాయశాఖ చర్యలు](https://telugu.newsbytesapp.com/news/world/indian-origin-man-among-40-facing-us-citizenship-revocation-in-largest-denaturalisation-drive/story)
-- [প্রয়াত বিভা সেনগুপ্ত](https://www.aaroananda.com/story/latest-news/breaking-news/rabindra-sangeet-singer-bibha-sengupta-passes-away/11022975)
-- [‘মাতৃ কাহনে’ দেবী দুর্গার বিচিত্র রূপের প্রকাশ](https://eisamay.com/west-bengal-news/howrah-news/uluberia-nona-athletics-club-this-year-durga-puja-theme-matri-kahon/200551761.cms)
-- [ഹൂതി ആക്രമണം: സൗദിക്ക് സഹായം, സൈന്യത്തെ അയക്കാൻ പാകിസ്ഥാനും തുർക്കിയും](https://www.asianetnews.com/international-news/houthi-attack-pakistan-and-turkey-to-provide-military-aid-to-saudi-arabia-articleshow-gn2r9qk)
-- [ஹர்மன்ப்ரீத் கவுர் முக்கிய முடிவு.. கேப்டன் பொறுப்பு முடிவுக்கு வந்தது!](https://www.polimernews.com/sportsnews/harmanpreet-kaur-steps-down-as-india-womens-cricket-captain-12628164)
-- [Pune-based Lab Launches HPV Self-Sampling Kit To Make Cervical Cancer Testing More Accessible](https://www.etvbharat.com/en/health/hpv-self-testing-kit-cervisens-by-pune-based-lab-enn26100602167)
-- [ബാരിക്കേഡിനു മുകളിൽ കയറി രാഹുലും പ്രിയങ്കയും; ഒറ്റക്കെട്ടായി ഇന്ത്യാസഖ്യം തെരുവിൽ- INDIA Bloc](https://www.manoramaonline.com/news/latest-news/2026/10/06/gyanesh-kumar-resignation-india-bloc-opposition-mps-protest-updates.html)
-- [Yami Gautam and Aditya Dhar: হিমাচলে পাকাপাকিভাবে থাকতে যাচ্ছেন ইয়ামি-আদিত্য? প্রকাশ্যে আসল সত্যি](https://tv9bangla.com/entertainment/yami-gautam-and-aditya-dhar-are-not-moving-to-himachal-pradesh-directors-team-clarifies-1351256.html)
+- [8-வது ஊதியக் குழு; மத்திய அரசு ஊழியர்களின் ஊதியத்தில் மிகப்பெரிய மாற்றம்.. அகவிலைப்படி நிலை என்ன? | 8th Pay Commission](https://tamil.news18.com/photogallery/business/8th-pay-commission-11-months-report-deadline-fitment-factor-salary-arrears-2027-snk-ws-b-2224337.html)
+- [मुंबई में ही रहेंगे आदित्‍य धर और यामी गौतम, हिमाचल प्रदेश में नहीं हो रहे श‍िफ्ट, फिल्ममेकर की टीम का जवाब](https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/yami-gautam-and-aditya-dhar-to-stay-in-mumbai-no-permanent-shifting-to-himachal-pradesh-clarifies-filmmakers-team/articleshow/134726017.cms)
+- [World News Today Live Updates: Flydubai co-pilot completed portion of flight training in New Zealand, say police](https://indianexpress.com/article/world/world-news-today-live-updates-yemen-houthis-saudi-arabia-riyadh-airport-israel-benjamin-netanyahu-flydubai-us-iran-war-hormuz-donald-trump-10908340/)
+- [Flydubai Flight: ఫ్లైదుబాయ్ విమానాన్ని కూల్చేందుకు సిద్ద‌మైన ఇజ్రాయెల్ !](https://www.ntnews.com/international/israeli-sources-tell-cbs-news-that-israel-was-ready-to-shoot-down-flydubai-flight-1073-with-all-passengers-onboard-2528454)
+- [ഇന്ത്യ മാപ്പ് പറയണമെന്ന ആവശ്യം തള്ളി; വേൾഡ് ചാമ്പ്യൻഷിപ്പ് ഓഫ് ലെജൻഡ്‌സിൽ നിന്ന് പിന്മാറി പാകിസ്താൻ](https://www.mathrubhumi.com/sports/cricket/pakistan-withdraws-world-championship-of-legends-india-apology-msx5zjyc)
+- ['दुबई के मुसलमान अच्छे, पाकिस्तान के क्यों नहीं', मीका सिंह ने उठाया सवाल](https://www.aajtak.in/entertainment/bollywood-news/story/mika-singh-raises-question-ubai-muslims-good-why-not-pakistan-tmovg-dskc-2662301-2026-10-06)
+- [Drishyam: "मी जिवंत असतो तर...", 'दृश्यम'मधला सॅम म्हणाला- "अजय देवगणला मी भेटलो नाही, पण..."](https://www.lokmat.com/filmy/bollywood/drishyam-fame-sam-aka-actor-rishabh-chaddha-said-i-wish-i-could-alive-in-movie-after-drishyam-3-released-a-a971/)
+- ['ज्ञानेश कुमार, राजीनामा द्या'; राहुल गांधींच्या नेतृत्वात दिल्लीत इंडिया आघाडीचा मोर्चा](https://www.bbc.com/marathi/articles/cm2l49jezd1po)
+- [தலைமைத் தேர்தல் ஆணையர் ஞானேஷ் குமார் பதவி விலக கோரி பேரணியில் ஈடுபட்ட எதிர்க்கட்சி தலைவர் ராகுல் காந்தி, பிரியங்கா காந்தி கைது!](https://www.dinakaran.com/news/india-bloc-parties-march-towards-electioncommission/)
+- [Workers' body writes to Maharashtra CM demanding legal action, inquiry against makers of Pati Patni Aur Panga 2 after on-set fire](https://www.hindustantimes.com/entertainment/tv/workers-body-aicwa-maharashtra-cm-demanding-legal-action-inquiry-against-makers-of-pati-patni-aur-panga-2-after-on-set-fire-hustle-101791266993838.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
