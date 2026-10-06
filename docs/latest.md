@@ -1,14 +1,14 @@
-# India Trending Report — 2026-10-06 20:39:16
+# India Trending Report — 2026-10-06 21:02:07
 
 ## Google Trends (India) — top trending searches
-1. [mikel merino](https://trends.google.com/trending/rss?geo=IN)
-2. [hannibal](https://trends.google.com/trending/rss?geo=IN)
-3. [harry kane](https://trends.google.com/trending/rss?geo=IN)
-4. [belarus vs finland](https://trends.google.com/trending/rss?geo=IN)
-5. [કરોડ](https://trends.google.com/trending/rss?geo=IN)
-6. [kim kardashian](https://trends.google.com/trending/rss?geo=IN)
-7. [luka modrić](https://trends.google.com/trending/rss?geo=IN)
-8. [8th pay commission](https://trends.google.com/trending/rss?geo=IN)
+1. [ऑस्ट्रेलिया ए क्रिकेट टीम](https://trends.google.com/trending/rss?geo=IN)
+2. [mikel merino](https://trends.google.com/trending/rss?geo=IN)
+3. [hannibal](https://trends.google.com/trending/rss?geo=IN)
+4. [harry kane](https://trends.google.com/trending/rss?geo=IN)
+5. [belarus vs finland](https://trends.google.com/trending/rss?geo=IN)
+6. [કરોડ](https://trends.google.com/trending/rss?geo=IN)
+7. [kim kardashian](https://trends.google.com/trending/rss?geo=IN)
+8. [luka modrić](https://trends.google.com/trending/rss?geo=IN)
 9. [ivan perišić](https://trends.google.com/trending/rss?geo=IN)
 10. [street fighter movie](https://trends.google.com/trending/rss?geo=IN)
 
@@ -49,20 +49,11 @@
 - [Maoist weapons cache, explosives recovered in hilly area of Dantewada](https://www.hindustantimes.com/india-news/maoist-weapons-cache-explosives-recovered-in-hilly-area-of-dantewada-101791297321682.html)
 - ['Captain Smit Machchhar making steady progress’: Indian embassy gives health update on flydubai hero](https://www.hindustantimes.com/india-news/flydubai-pilot-hero-captain-smit-machchhar-making-steady-progress-indian-embassy-in-uae-health-update-101791297119412.html)
 
-**Vijay Karnataka**
-- [ಮೊದಲಿಗೆ ಜಿಲ್ಲಾ, ತಾಲೂಕು ಪಂಚಾಯಿತಿ ಚುನಾವಣೆ ಬಳಿಕ ಗ್ರಾಮ ಪಂಚಾಯಿತಿ! ಸಚಿವ ಸಂಪುಟ ಮಹತ್ವದ ತೀರ್ಮಾನ; 2 ತಿಂಗಳಷ್ಟೇ ಬಾಕಿ](https://vijaykarnataka.com/news/karnataka/first-district-taluk-panchayat-election-then-grama-panchayat-karnataka-important-cabinet-decision-only-2-months-left/articleshow/134744717.cms)
-- [KPSC ಹಗರಣ: ಹಲವು ಗಂಟೆ ಇಡಿ ಡ್ರಿಲ್ ಬಳಿಕ ಶಿವಶಂಕರಪ್ಪ ಸಾಹುಕಾರ್, ಗೀತಾ ಬಂಧನ; ಹಲವರ ಎದೆಯಲ್ಲಿ ಢವಢವ](https://vijaykarnataka.com/news/karnataka/kpsc-scam-ed-arrests-shivashankarappa-sahukar-and-geetha-arrest-after-hours-of-ed-drill/articleshow/134748214.cms)
-- [RCB ಕ್ವೀನ್ `ಸ್ಮೃತಿ ಮಂದಾನ' ಭಾರತ ಮಹಿಳಾ ಕ್ರಿಕೆಟ್‌ ತಂಡದ ಹೊಸ ನಾಯಕಿ: ಟಿ20 ತಂಡಕ್ಕೆ ಕರ್ನಾಟಕದ ಹುಡುಗಿ `ನಿಕಿ'!](https://vijaykarnataka.com/sports/cricket/news/smriti-mandhana-new-captain-of-the-indian-womens-cricket-team-karnatakas-niki-prasad-select-to-t20-squad/articleshow/134747222.cms)
-- [ತೋಟದಲ್ಲಿ ಇರುವೆ ಮಣ್ಣಿನ ಗುಡ್ಡೆ ಕಾಟವೇ? ಗಿಡಗಳಿಗೆ ಹಾನಿಯಾಗದಂತೆ ನಿವಾರಿಸಲು ಸುಲಭ ವಿಧಾನಗಳು](https://vijaykarnataka.com/lifestyle/home-decor/how-to-remove-ant-mounds-from-lawn-garden/articleshow/134746147.cms)
-- [India T20i Team- ಕಿವೀಸ್ ಪ್ರವಾಸಕ್ಕೆ RCB ಹೀರೋ! ಭಾರತ ತಂಡಕ್ಕೆ ಭುವನೇಶ್ವರ್ ಕುಮಾರ್ ಕಂಬ್ಯಾಕ್! ರಿಷಬ್ ಪಂತ್ `ಎ' ತಂಡದಲ್ಲೂ ಡೌಟ್](https://vijaykarnataka.com/sports/cricket/news/bhuvneshwar-kumar-comeback-to-india-t2oi-squad-against-new-zealand-rishab-pant-doubt-in-a-team/articleshow/134745071.cms)
-- [BBK 13 ಕಪಟ ಕಳ್ಳ ಯಶಸ್‌: ಮಂಜನ ದೂರು ಆಸಿಯಾ ವರೆಗೂ ತಲುಪಿತು!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-day-30-episode-31-yashas-the-deceitful-one-manjas-complaint-has-reach-aasiya-firdose/articleshow/134748676.cms)
-- [ಮನೆಯಲ್ಲಿ ಉಳಿದ ಇಡ್ಲಿ ಎಸೆಯಬೇಡಿ; ಹೀಗೆ ಮಾಡಿ ಮಸಾಲಾ ಇಡ್ಲಿ ಫ್ರೈ, ರುಚಿ ಸೂಪರ್!](https://vijaykarnataka.com/lifestyle/home-decor/masala-idli-fry-recipe-leftover-idli/articleshow/134697040.cms)
-- [Garuda Purana: ನಿಮ್ಮ ಆತ್ಮ ಹಳೆಯದೇ ಅಥವಾ ಹೊಸದೇ.?](https://vijaykarnataka.com/religion/hinduism/garuda-purana-these-signs-indicate-whether-your-soul-is-old-or-new/articleshow/134742133.cms)
-- [ಸ್ತನ ಕ್ಯಾನ್ಸರ್: ಗಡ್ಡೆ ಹೊರತಾಗಿ ಕಾಣಿಸಿಕೊಳ್ಳುವ ಈ ಲಕ್ಷಣಗಳನ್ನು ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ](https://vijaykarnataka.com/lifestyle/health/breast-cancer-awareness-month-2026-warning-signs-beyond-lump/articleshow/134733101.cms)
-- [Ind Vs Wi T20i- ಲಖನೌನಲ್ಲಿ ಸ್ಪಿನ್ನರ್ ಗಳ ವಿರುದ್ಧ ವಿಂಡೀಸ್ ಪರದಾಟ; ಬಳಿಕ ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ನಾಯಕನಾಟ! ಇಲ್ಲಿದೆ ಹೈಲೈಟ್ಸ್](https://vijaykarnataka.com/sports/cricket/news/shreyas-iyer-century-india-beat-west-indies-by-8-wickets/articleshow/134745753.cms)
+**Vijay Karnataka** — _unavailable_
 
 **The Hindu**
 - [Twenty-five years of leadership, an India transformed](https://www.thehindu.com/opinion/lead/twenty-five-years-of-leadership-an-india-transformed/article71552707.ece)
+- [Gajendra Singh Patel accuses Hemant Soren government of encouraging infiltration in Jharkhand](https://www.thehindu.com/news/national/jharkhand/gajendra-singh-patel-accuses-hemant-soren-government-of-encouraging-infiltration-in-jharkhand/article71551510.ece)
 - [Kerala High Court sets aside detention order of Thiruvananthapuram councillor R. Sugathan](https://www.thehindu.com/news/national/kerala/kerala-high-court-sets-aside-detention-order-of-thiruvananthapuram-councillor-r-sugathan/article71552446.ece)
 - [Ladli Behna scheme has turned out to be ‘very expensive’, says Madhya Pradesh CM](https://www.thehindu.com/news/national/madhya-pradesh/ladli-behna-scheme-has-turned-out-to-be-very-expensive-says-madhya-pradesh-cm/article71552264.ece)
 - [Act against illegal resorts and homestays in tiger reserves: Ramalinga Reddy](https://www.thehindu.com/news/national/karnataka/act-against-illegal-resorts-and-homestays-in-tiger-reserves-ramalinga-reddy/article71551839.ece)
@@ -71,7 +62,6 @@
 - [Tremors felt across Delhi-NCR as 4.9-magnitude quake hits Uttarakhand’s Chamoli](https://www.thehindu.com/news/national/tremors-felt-across-delhi-ncr-as-49-magnitude-quake-hits-uttarakhands-chamoli/article71553036.ece)
 - [Vellore police hands over missing phones to owners](https://www.thehindu.com/news/national/tamil-nadu/vellore-police-hands-over-missing-phones-to-owners/article71551307.ece)
 - [CM Samrat Choudhary directs officials to submit detailed report on flood damage in Bihar](https://www.thehindu.com/news/national/bihar/cm-samrat-choudhary-directs-officials-to-submit-detailed-report-on-flood-damage-in-bihar/article71552720.ece)
-- [RPF, Nemili police seize 16 kg of ganja in separate cases; four persons held](https://www.thehindu.com/news/national/tamil-nadu/rpf-nemili-police-seize-16-kg-of-ganja-in-separate-cases-four-persons-held/article71551300.ece)
 
 **Livemint**
 - [US House bill honours Indian pilot Smit Machchhar after his brave actions thwarted flydubai terror attack](https://www.livemint.com/news/us-news/us-house-bill-honours-indian-pilot-smit-machchhar-after-his-brave-actions-thwarted-flydubai-terror-attack-11791310648084.html)
@@ -153,11 +143,11 @@
 - Indian (5.5)
 - Delhi-NCR (5.2)
 - INDIA (3.9)
-- India (3.9)
 - Rahul (3.2)
 - What (2.9)
 - Trump (2.9)
 - France (2.6)
+- India (2.6)
 - Tremors (2.6)
 - Uttarakhand (2.6)
 - PM Modi (2.0)
@@ -169,16 +159,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ആകാശവാണി വളപ്പിൽ കുത്തിയിരുന്ന് രാഹുലും പ്രിയങ്കയും: അറസ്റ്റിന് നീക്കം; ഗേറ്റ് തള്ളിത്തുറന്ന് പ്രവർത്തകർ](https://www.mathrubhumi.com/news/india/india-bloc-protest-delhi-cec-resignation-rahul-gandhi-npst0cf4)
-- ['અમને પણ જેલમાં પૂરી દો': ઘર બહાર 50 પોલીસ તૈનાત થતાં અભિજીત દીપકેનો પ્રહાર, દેશભરમાં આંદોલનની ચીમકી](https://www.gujaratsamachar.com/news/national/put-us-in-jail-too-abhijeet-deepke-attacks-as-50-policemen-deployed-outside-his-house-threatens-nationwide-agitation-76857531442)
-- [Skoda Slavia Facelift: पुराने दाम में नई कार! 8-गियर वाली धांसू फैमिली सेडान लॉन्च, कीमत है इतनी](https://www.aajtak.in/auto/news/photo/skoda-slavia-facelift-launched-india-price-features-mileage-auaw-2662756-2026-10-06)
-- [২০২৭ আইপিএলে দিল্লি ক্যাপিটালসের প্রধান কোচ সৌরভ](https://www.aaroananda.com/story/sports-news/breaking-news/sourav-ganguly-appointed-delhi-capitals-head-coach-ipl-2027/11022998)
-- [दिल्ली में फिर चला 'दादा' का सिक्का, IPL से पहले सौरव गांगुली बने हेड कोच](https://www.aajtak.in/sports/cricket/story/sourav-ganguly-appointed-delhi-capitals-head-coach-ipl-2027-tspok-dskc-2662761-2026-10-06)
-- [A Smarter way...](https://vivonewsroom.in/5-features-to-look-out-for-in-the-new-originos-7-a-smarter-smoother-way-to-get-things-done/)
-- [দিনভর বুথে ঘুরলেন বিজেপি প্রার্থী, বাহিনীকেও তোপ](https://www.aaroananda.com/story/latest-news/breaking-news/bjp-candidate-shakharav-sarkar-visits-rejinagar-booths/11022997)
-- ['ഗാസ യുദ്ധത്തിനുള്ള പ്രതികാരമായി ആക്രമണം' ഫ്ലൈദുബായ് സഹപൈലറ്റ് ഹമാം മൊഴി നൽകിയതായി റിപ്പോർട്ട്](https://malayalam.news18.com/news/world/flydubai-attack-omani-co-pilot-hamam-al-hammami-acted-in-revenge-for-gaza-war-claims-report-rv-791108.html)
-- [Gujarat Rain: ગુજરાતમાં આજે અહીં વરસશે વરસાદ, ચોમાસાની વિદાય વચ્ચે હવામાન વિભાગની વરસાદની આગાહી](https://gujarati.abplive.com/news/gujarat/gujarat-monsoon-official-withdrawal-western-disturbance-south-gujarat-rain-heat-forecast-992741)
-- [Sourav Ganguly appointed Delhi Capitals head coach](https://www.cricbuzz.com/cricket-news/140411/sourav-ganguly-appointed-delhi-capitals-head-coach-cricbuzzcom)
+- [Nandini-Srijla: নন্দিনীর জন্য আর কখনো মা হতে পারবেন না সৃজলা? বিগ বস বাংলা থেকে এল ভয়ঙ্কর তথ্য](https://www.hindustantimes.com/bangla/entertainment/srijla-guha-shares-that-she-may-not-become-a-mother-after-suffering-an-injury-from-nandini-dutta-271791273624820.html)
+- [Phone Curbs, Isolation At Premanand Maharaj Ashram Under Lens](https://www.ndtv.com/india-news/disciple-rasik-dulari-death-phone-curbs-isolation-at-premanand-maharaj-ashram-under-lens-12145053)
+- [അബുദാബിയിൽ പൊതുസേവനങ്ങൾക്ക് ചെലവ് കുറഞ്ഞു; എഐ സാങ്കേതികവിദ്യ വലിയ മാറ്റങ്ങൾക്ക് കാരണമായെന്ന് അധികൃതർ](https://www.reporterlive.com/gulf/uae/2026/10/06/abu-dhabi-cuts-public-service-costs-ai-technology)
+- [Aarti Solanki On Sai Tamhankar Adkitta Movie: 'अभिनयातला 'अ' येत नसला, तरी आपण सुपरस्टार म्हणतो...'; सई ताम्हणकरसाठी मराठी अभिनेत्रीची पोस्ट, नेमकं काय म्हणाली?](https://marathi.abplive.com/entertainment/aarti-solanki-social-media-post-for-sai-tamhankar-adkitta-movie-performance-sai-gokhale-marathi-news-1441447)
+- ["എയ്ഡ്സ് ഉണ്ടോ? എന്നായിരുന്നു ആദ്യ ചോദ്യം, എന്നെ കഫെയിലിരുത്തി അയാൾ കാമുകിക്കൊപ്പം പോയി"; മുൻ കാമുകനെക്കുറിച്ച് ഗായത്രി](https://www.metrovaartha.com/entertainment/gayathri-suresh-reveals-her-ex-boyfriend)
+- [Qazi Touqeer eliminated from Salman Khan's Bigg Boss 20? Singer's team breaks silence on dengue rumours and reports of his eviction](https://www.hindustantimes.com/entertainment/web-series/qazi-touqeer-eliminated-from-salman-khan-bigg-boss-20-kashmiri-singer-team-breaks-silence-on-dengue-rumours-and-reports-of-his-eviction-101791276112768.html)
+- [Israel | గాజాపై ఇజ్రాయెల్ దాడి చేసినందుకు ప్ర‌తీకారంగానే.. ఫ్లైదుబాయ్ కో పైల‌ట్ అల్ హ‌మ్మామి వెల్ల‌డి](https://www.ntnews.com/international/omani-co-pilot-al-hammami-wanted-to-crash-flydubai-plane-in-israel-to-take-revenge-for-gaza-2528533)
+- [ঠিকাদারের থেকে ঘুষ চাইতেই এসিবির হাতে ধরা পড়লেন হুগলি জেলা পরিষদের সাব অ্যাসিস্ট্যান্ট ইঞ্জিনিয়ার](https://bengali.news18.com/news/west-bengal/hooghly-hooghly-zilla-parishad-engineer-acb-bribe-case-sub-assistant-engineer-caught-demanding-bribe-from-contractor-smc-2919552.html)
+- [Astronomers find ‘reborn’ planet around a dead star](https://timesofindia.indiatimes.com/science/astronomers-find-reborn-planet-around-a-dead-star/articleshow/134730472.cms)
+- [பெண்கள் பேருந்து பயணத்திற்கான வெற்றிப் பயணம் திட்டத்திற்கு வழிகாட்டு நெறிமுறைகள் வெளியீடு!](https://viduthalai.in/208930/%E0%AE%AA%E0%AF%86%E0%AE%A3%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%AA%E0%AF%87%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%AA%E0%AE%AF%E0%AE%A3%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
