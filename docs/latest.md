@@ -1,4 +1,4 @@
-# India Trending Report — 2026-10-06 06:45:26
+# India Trending Report — 2026-10-06 07:05:55
 
 ## Google Trends (India) — top trending searches
 1. [हरमनप्रीत कौर](https://trends.google.com/trending/rss?geo=IN)
@@ -18,12 +18,12 @@
 - ['Creating anarchy to relaunch Rahul': BJP on Congress's Form 6 claims](https://timesofindia.indiatimes.com/india/creating-anarchy-to-relaunch-rahul-bjp-debunks-congress-form-6-claim-ahead-of-protest-against-cec/articleshow/134723621.cms)
 - [Bengaluru gym trainer ‘strangled’ by collagues at anniversary party](https://timesofindia.indiatimes.com/city/bengaluru/deadly-anniversary-bash-bengaluru-gym-trainer-dies-after-assault-by-colleagues/articleshow/134711587.cms)
 - ['Revenge for Gaza': What flydubai Omani co-pilot told interrogators after failed attack](https://timesofindia.indiatimes.com/world/middle-east/revenge-for-gaza-what-flydubai-omani-co-pilot-told-interrogators-after-failed-attack/articleshow/134722171.cms)
-- [Adam Neumann says a car ride with Masayoshi Son started WeWork's $47 billion collapse](https://timesofindia.indiatimes.com/technology/tech-news/wework-co-founder-adam-neumann-says-one-car-ride-with-softbanks-masayoshi-son-set-off-weworks-47-billion-collapse-the-4-2-billion-deal-signed-on-an-ipad-the-walk-back-to-office-when-his-ego-took-over/articleshow/134723235.cms)
+- [UIDAI announces new SOP for changing name on Aadhaar, here's what you need to know](https://timesofindia.indiatimes.com/technology/tech-news/uidai-announces-new-sop-for-changing-name-on-aadhaar-heres-what-you-need-to-know/articleshow/134724332.cms)
 - [Four nations, four drills, one month: How the army is expanding its military partnerships](https://timesofindia.indiatimes.com/defence/news/four-nations-four-drills-one-month-how-the-army-is-expanding-its-military-partnerships/articleshow/134724839.cms)
 - [Man gets flats under builder deal, transfers 5 to wife; gets Rs 4.14cr tax notice](https://timesofindia.indiatimes.com/business/india-business/man-enters-jda-for-land-gets-6-flats-from-builder-and-transfers-5-to-wife-but-gets-tax-notice-itat-delhi-deletes-rs-4-14-crore-additions-after-finding-no-stock-in-trade-conversion-or-sale/articleshow/134708592.cms)
 - [Teen leaves home for ‘1L PUBG task’, found asleep on bus 3 days later](https://timesofindia.indiatimes.com/city/agra/14-year-old-leaves-up-home-for-1l-pubg-task-found-asleep-on-bus-3-days-later/articleshow/134722754.cms)
 - ['More skeletons are tumbling out': Cong trains guns at EC over new report on Bengal polls](https://timesofindia.indiatimes.com/india/more-skeletons-are-tumbling-out-congress-trains-guns-at-ec-over-new-report-on-bengal-polls/articleshow/134722741.cms)
-- [Sujeet Kalkal on turning Olympic heartbreak into Asian Games gold](https://timesofindia.indiatimes.com/sports/asian-games-2026/exclusive-fear-may-never-completely-go-away-sujeet-kalkal-on-turning-olympic-heartbreak-into-asian-games-gold/articleshow/134721026.cms)
+- [Soldiers searching for land mines find South Korea’s 600 years old gun](https://timesofindia.indiatimes.com/science/archaeology/soldiers-looking-for-land-mines-in-south-korea-have-found-the-countrys-oldest-gun-a-600-year-old-inscribed-bronze-tube-used-to-fire-gunpowder-propelled-arrows/articleshow/134722534.cms)
 
 **NDTV**
 - [Saudi-Backed Yemeni Forces Expel Houthis From Several Areas Around key strait](https://www.ndtv.com/world-news/saudi-backed-yemeni-forces-expel-houthis-from-several-areas-around-key-strait-12144143#publisher=newsstand)
@@ -50,30 +50,31 @@
 - [MPSC protest: Pune Police start legal action, issue notices to 80](https://www.hindustantimes.com/india-news/mpsc-protest-pune-police-start-legal-action-issue-notices-to-80-101791262274579.html)
 
 **Vijay Karnataka**
+- [ಮತ್ತೆ ನಾಯಕತ್ವ ಬದಲಾವಣೆ, 30 ತಿಂಗಳಲ್ಲಿ 4ನೇ ಕ್ಯಾಪ್ಟನ್ : ಪಾಕ್ ಕ್ರಿಕೆಟಿಗೆ ಯಾಕಿಂತಹ ದುರ್ಗತಿ?](https://vijaykarnataka.com/sports/cricket/news/pakistan-cricket-salman-ali-agha-sacked-sahibzada-farhan-new-captain-in-two-and-half-years-t20/articleshow/134726063.cms)
+- [ಎಲ್ಲಾ ಮಾದರಿಯ ಕ್ರಿಕೆಟ್‌ ನಾಯಕತ್ವ ತ್ಯಜಿಸಿದ ಹರ್ಮನ್‌ಪ್ರೀತ್‌ ಕೌರ್‌: ಭಾರತೀಯ ಮಹಿಳಾ ಕ್ರಿಕೆಟ್‌ನ ಒಂದು ಯುಗದ ಅಂತ್ಯ!](https://vijaykarnataka.com/sports/cricket/news/harmanpreet-kaur-quits-as-indian-womens-team-captain-in-all-cricket-formats/articleshow/134725826.cms)
 - [ಇಸ್ರೇಲಿ ನಾಗರಿಕರಿದ್ದರೂ ಫ್ಲೈ ದುಬೈ ವಿಮಾನ ಹೊಡೆದುರುಳಿಸಲು ನಿರ್ಧರಿಸಿದ್ದ ಇಸ್ರೇಲ್‌: ಕೊನೆ ಕ್ಷಣದಲ್ಲಿ ಫೋನ್‌ ಕೆಳಗಿಟ್ಟಿದ್ದ ನೆತನ್ಯಾಹು!](https://vijaykarnataka.com/news/world/report-says-israel-was-minutes-away-from-shooting-down-flydubai-jet-mid-air-despite-174-passengers-on-board/articleshow/134723835.cms)
-- [Gold Rate Fall: ಜಾಗತಿಕ ಬಿಕ್ಕಟ್ಟಿನ ಮಧ್ಯೆ ಇಳಿಕೆಯ ಹಾದಿಯಲ್ಲಿ ಚಿನ್ನ! ಬೆಂಗಳೂರಲ್ಲಿ ಇಂದಿನ(ಅ.06) ಬಂಗಾರದ ದರ ಎಷ್ಟಿದೆ?](https://vijaykarnataka.com/business/gold-silver-price/gold-rate-fall-today-on-oct-06-check-latest-gold-price-in-bengaluru/articleshow/134723523.cms)
-- [Explained: ಫಾರ್ಮ್ 6 ಮತ್ತು 7 ಸುತ್ತ ಏಕಿಷ್ಟು ಗದ್ದಲ? ಮತದಾರರು ತಿಳಿಯಲೇಬೇಕಾದ ನೈಜ ಸಂಗತಿಗಳು! ರಾಜಕೀಯ ಬದಿಗಿಟ್ಟು ದೇಶ ಕಟ್ಟು](https://vijaykarnataka.com/news/india/how-form-6-and-7-sparked-constitutional-and-political-firestorm-in-india-legal-battles-explained/articleshow/134723482.cms)
 - [ಬಾಳೆಹಣ್ಣನ್ನು ಇತರ ಹಣ್ಣುಗಳ ಜೊತೆ ಇಡಬಾರದು ಏಕೆ? ಎಥಿಲೀನ್ ಅನಿಲದ ಪರಿಣಾಮವೇನು?](https://vijaykarnataka.com/lifestyle/home-decor/why-keep-bananas-away-from-other-fruits/articleshow/134724672.cms)
-- [ಭಾರತ-ಸ್ವಿಟ್ಜರ್ಲೆಂಡ್‌ ಮಧ್ಯೆ 5 ಮಹತ್ವದ ಒಪ್ಪಂದ: ಸ್ವಿಸ್ ಅಧ್ಯಕ್ಷ ಪಾರ್ಮಲಿನ್‌, ಪ್ರಧಾನಿ ಮೋದಿ ದ್ವಿಪಕ್ಷೀಯ ಸಭೆಯಲ್ಲಿ ಡೀಲ್‌ ಫೈನಲ್!](https://vijaykarnataka.com/business/news/india-switzerland-sign-5-point-deal-as-pm-modi-swiss-president-guy-parmelin-discuss-trade-defence/articleshow/134722356.cms)
+- [Gold Rate Fall: ಜಾಗತಿಕ ಬಿಕ್ಕಟ್ಟಿನ ಮಧ್ಯೆ ಇಳಿಕೆಯ ಹಾದಿಯಲ್ಲಿ ಚಿನ್ನ! ಬೆಂಗಳೂರಲ್ಲಿ ಇಂದಿನ(ಅ.06) ಬಂಗಾರದ ದರ ಎಷ್ಟಿದೆ?](https://vijaykarnataka.com/business/gold-silver-price/gold-rate-fall-today-on-oct-06-check-latest-gold-price-in-bengaluru/articleshow/134723523.cms)
 - [ಪ್ರಶಾಂತ್‌ ನೀಲ್‌ ಅರ್ಪಿಸುವ ʻ418’ ಟ್ರೈಲರ್‌ ಔಟ್:‌ ಭಯಾನಕ ಅವತಾರದಲ್ಲಿ ಚೈತ್ರಾ ಆಚಾರ್!](https://vijaykarnataka.com/entertainment/news/prashanth-neel-presents-418-horror-movie-trailer-out/articleshow/134723115.cms)
 - [ಮನೆಯಲ್ಲಿ ಉಳಿದ ಇಡ್ಲಿ ಎಸೆಯಬೇಡಿ; ಹೀಗೆ ಮಾಡಿ ಮಸಾಲಾ ಇಡ್ಲಿ ಫ್ರೈ, ರುಚಿ ಸೂಪರ್!](https://vijaykarnataka.com/lifestyle/home-decor/masala-idli-fry-recipe-leftover-idli/articleshow/134697040.cms)
-- [ದೇವಸ್ಥಾನಕ್ಕೆ ದಾನ ಮಾಡಲು ಸೂಕ್ತವಾದ 5 ವಸ್ತುಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/5-things-you-should-donate-to-the-temple-without-fail/articleshow/134716057.cms)
+- [ಆರತಿ ನಂತರ ಕೈ ತೊಳೆಯುತ್ತಿದ್ದೀರಾ.? ಈ ವಿಷಯ ತಿಳಿದುಕೊಳ್ಳಿ.!](https://vijaykarnataka.com/religion/pooja-vidhana/puja-aarti-can-we-wash-our-hands-after-taking-aarti/articleshow/134725944.cms)
 - [ಬೇಯಿಸಿದ ಮೊಟ್ಟೆ ಸಿಪ್ಪೆ ತೆಗೆಯಲು ಕಷ್ಟವೇ? ಗ್ಲಾಸ್ ಜಾರ್‌ನ ಈ ಸರಳ ಟ್ರಿಕ್ ಪ್ರಯತ್ನಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/how-to-peel-boiled-eggs-easily-glass-jar-tip/articleshow/134722523.cms)
-- [ಪ್ರಧಾನಿ ಜಾತಕದಲ್ಲಿ ಮಂಗಳ ದೆಶೆ : Gen Z ನರೇಂದ್ರ ಮೋದಿಗೆ ವಿರೋಧವೇ? ಆಚಾರ್ಯ ರಾಜ್ ಮಿಶ್ರಾ ಭವಿಷ್ಯ!](https://vijaykarnataka.com/news/india/delhi-based-renowned-astrologer-acharya-raj-mishra-prediction-gen-z-protest-pm-modi/articleshow/134722967.cms)
+- [ಹೊರಗಿನವರು ಬಂದು ದಬ್ಬಾಳಿಕೆ ಮಾಡ್ತಾರೆ, ಆಟೋ ಡ್ರೈವರ್‌ ಹಾಗೂ ಯುವತಿಯರ ನಡುವೆ ಮಾರಾಮಾರಿ, ಚಾಲಕರು ಹೇಳಿದ್ದೇನು?](https://vijaykarnataka.com/news/karnataka/bengaluru-auto-driver-fight-with-girls-drivers-react-on-incident-opinion/videoshow/134726123.cms)
 
 **The Hindu**
+- [Byelections 2026 LIVE updates: AJUP chief Humayun Kabir arrested; Bengal Congress alleges EVM issues, voter intimidation in Nandigram](https://www.thehindu.com/news/national/byelection-bypoll-voting-nandigram-rejinagar-madurantakam-dharapuram-thattanchavady-nagaon-live-updates-october-6-2026/article71549585.ece)
+- [CEC row LIVE updates: Rahul Gandhi, Priyanka among INDIA bloc MPs detained by police during march to ECI](https://www.thehindu.com/news/national/cec-row-protest-against-gyanesh-kumar-india-bloc-march-election-commission-sir-issue-live-updates-october-6-2026/article71549790.ece)
+- [Supreme Court agrees to hear urgently Punjab’s plea against CBI probe linked to CM Mann’s office](https://www.thehindu.com/news/national/supreme-court-agrees-to-hear-urgently-punjabs-plea-against-cbi-probe-linked-to-cm-manns-office/article71550220.ece)
+- [Tamil Nadu bypolls: Madurantakam and Dharapuram record 35.55% and 37.28% polling as of 11 a.m.](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bypolls-madurantakam-dharapuram-voting-percentage-turnout/article71550240.ece)
+- [Rebel AAP MLA’s poser on ‘education revolution’ in Punjab: a reality check](https://www.thehindu.com/education/rebel-aap-mlas-poser-on-education-revolution-in-punjab-a-reality-check/article71550187.ece)
+- [Maharashtra SIR: CEO gets 6.24 lakh forms for new voters, corrections after draft rolls publication](https://www.thehindu.com/news/national/maharashtra/maharashtra-sir-ceo-gets-624-lakh-forms-for-new-voters-corrections-after-draft-rolls-publication/article71550096.ece)
 - [Pressure rising on Karnataka government to withdraw anti-cow slaughter and anti-conversion laws](https://www.thehindu.com/news/national/karnataka/pressure-on-karnataka-government-to-withdraw-anti-cow-slaughter-and-anti-conversion-laws-increasing/article71546754.ece)
 - [Forum condemns Delhi Police over inaction against ACP](https://www.thehindu.com/news/national/telangana/forum-condemns-delhi-police-over-inaction-against-acp/article71547601.ece)
 - [As many as 30% of Praja Seva applications resolved, says Belagavi DC](https://www.thehindu.com/news/national/karnataka/as-many-as-30-of-praja-seva-applications-resolved-says-belagavi-dc/article71546849.ece)
-- [Byelections 2026 LIVE updates: AJUP chief Humayun Kabir arrested; Bengal Congress alleges EVM issues, voter intimidation in Nandigram](https://www.thehindu.com/news/national/byelection-bypoll-voting-nandigram-rejinagar-madurantakam-dharapuram-thattanchavady-nagaon-live-updates-october-6-2026/article71549585.ece)
 - [ASI undertakes Dwarapala restoration at Thousand Pillar Temple in Telangana’s Hanumakonda](https://www.thehindu.com/news/national/telangana/asi-undertakes-dwarapala-restoration-at-thousand-pillar-temple-in-telanganas-hanumakonda/article71549912.ece)
-- [Fadnavis recommends panel to probe MPSC chairpersons over paper leaks](https://www.thehindu.com/news/national/maharashtra/fadnavis-recommends-panel-to-probe-mpsc-chairpersons-members-over-paper-leaks/article71550173.ece)
-- [Karnataka to revise cash incentive for Asian Games medallists](https://www.thehindu.com/news/national/karnataka/karnataka-to-revise-cash-incentive-for-asian-games-medalists/article71548364.ece)
-- [Bengal bypoll: AJUP chief Humayun Kabir arrested in Rejinagar after verbal altercation with police](https://www.thehindu.com/news/national/west-bengal/bengal-bypoll-ajup-chief-humayun-kabir-detained-in-rejinagar/article71550043.ece)
-- [GHMC town planning official caught taking ₹4 lakh bribe, ₹2.5 lakh unaccounted cash seized](https://www.thehindu.com/news/cities/Hyderabad/ghmc-town-planning-official-caught-taking-4-lakh-bribe-25-lakh-unaccounted-cash-seized/article71548594.ece)
-- [Odisha to create additional storage for rice to accommodate paddy glut](https://www.thehindu.com/news/national/odisha/odisha-to-create-additional-storage-for-rice-to-accommodate-paddy-glut/article71546336.ece)
 
 **Livemint**
+- [CEC Row LIVE Updates: Opposition steps up attack on Gyanesh Kumar; Priyanka Gandhi detained](https://www.livemint.com/news/india/cec-row-live-updates-india-bloc-march-eci-delhi-against-gyanesh-kumar-election-commission-of-india-rahul-guntitled-story-11791268104153.html)
 - [Gyanesh Kumar salary, perks and assets: Does CEC have to disclose net worth like MPs, MLAs? Explained](https://www.livemint.com/news/india/gyanesh-kumar-salary-perks-assets-does-cec-have-to-disclose-net-worth-like-mps-mlas-explained-rahul-gandhi-11791263013080.html)
 - [Jaishankar says UN ‘largely irrelevant’, UNSC ‘gridlocked’: Why India pushes for reform | Explained](https://www.livemint.com/news/india/jaishankar-says-un-largely-irrelevant-unsc-gridlocked-why-india-pushes-for-reform-explained-11791265538549.html)
 - [Delhi Police issues guidelines for journalists amid ACP Vivek Bhagat row — ‘Story matters, so does how…’](https://www.livemint.com/news/india/delhi-police-issues-guidelines-for-journalists-amid-acp-vivek-bhagat-row-story-matters-so-does-how-11791261752836.html)
@@ -83,7 +84,6 @@
 - ['Modified' form 6 row: Why is Rahul Gandhi training his guns on Gyanesh Kumar, what SC said and how EC responded](https://www.livemint.com/news/india/modified-form-6-row-why-is-rahul-gandhi-training-his-guns-on-gyanesh-kumar-what-sc-said-and-how-ec-responded-11791257233574.html)
 - [White House Monitors Suspected Plague Case in Russia](https://www.livemint.com/news/world/white-house-monitors-suspected-plague-case-in-russia-11791258745947.html)
 - [Trump Says US Will Help Russia After Plague Death in Siberia](https://www.livemint.com/news/us-news/trump-says-us-will-help-russia-after-plague-death-in-siberia-11791258740894.html)
-- [Flydubai cockpit attack: Was Ben Gurion target? What Trump, Vance said on Iran link](https://www.livemint.com/news/world/flydubai-cockpit-attack-was-ben-gurion-target-what-trump-vance-said-on-iran-link-11791256191010.html)
 
 **Moneycontrol**
 - [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html)
@@ -98,6 +98,9 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [ಮಹಿಳಾ ಕ್ರಿಕೆಟ್ ನಾಯಕತ್ವದಿಂದ ದಿಢೀರ್ ನಿರ್ಗಮಿಸಿದ ಹರ್ಮನ್‌ಪ್ರೀತ್ ಕೌರ್](https://www.varthabharati.in/sports/harmanpreet-kaur-steps-down-abruptly-from-womens-cricket-captaincy-2280574)
+- [ಜಯನಗರ ವಿಧಾನಸಭಾ ಕ್ಷೇತ್ರದಲ್ಲಿ ಮುಸ್ಲಿಮ್ ಮತದಾರರನ್ನು ಕೈ ಬಿಡಲು ನಡೆಯುತ್ತಿದೆಯೆ ಅಕ್ರಮ?](https://www.varthabharati.in/nimma-ankana/are-irregularities-taking-place-to-drop-muslim-voters-from-the-jayanagar-assembly-constituency-2280573)
+- [ಹಣದುಬ್ಬರದ ನಿಯಂತ್ರಣ ಹೇಗೆ?](https://www.varthabharati.in/nimma-ankana/how-to-control-inflation-2280572)
 - [Dubai |  ನ.22ರಂದು 'ಐಕ್ಯತೆಯ ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವ 2026': ಡಾ.ರೊನಾಲ್ಡ್ ಕೊಲಾಸೊ](https://www.varthabharati.in/gulf/dubai-unity-karnataka-rajyotsava-2026-on-nov-22-dr-ronald-colaso-2280571)
 - [SIR | ಚುನಾವಣಾ ಆಯೋಗದ ಕಚೇರಿಗೆ ರಾಹುಲ್ ಗಾಂಧಿ ನೇತೃತ್ವದಲ್ಲಿ ಜಾಥಾ: ಪೊಲೀಸರಿಂದ ತಡೆ](https://www.varthabharati.in/national/rally-led-by-rahul-gandhi-to-the-election-commission-office-stopped-by-police-2280569)
 - [ಚಿನ್ನದ ಬೆಲೆಯಲ್ಲಿ ಅಲ್ಪ ಕುಸಿತ; ಇಂದಿನ ದರವೆಷ್ಟು?](https://www.varthabharati.in/National/gold-rate-2280566)
@@ -105,37 +108,36 @@
 - [ವಿಧಾನಸೌಧದ ಮೆಟ್ಟಿಲುಗಳಿಂದ ಮೊಳಗಬೇಕಿದೆ ಸೌಹಾರ್ದದ ಧ್ವನಿ](https://www.varthabharati.in/nimma-ankana/the-voice-of-harmony-needs-to-resonate-from-the-steps-of-vidhana-soudha-2280559)
 - [SIR ಫಾರ್ಮ್ 7 ದುರ್ಬಳಕೆ ಆರೋಪ: ಬೆಂಗಳೂರಿನಲ್ಲಿ ಮತ್ತೊಂದು ಪ್ರಕರಣ ದಾಖಲು](https://www.varthabharati.in/bengaluru/allegations-of-form-7-misuse-another-case-registered-in-bengaluru-2280557)
 - [ಕಾರ್ಟೂನಿಸ್ಟ್ ಸತೀಶ್ ಆಚಾರ್ಯ ಅವರ ಇನ್ಸ್ಟಾಗ್ರಾಮ್ ಖಾತೆ ‘ಅನ್‌ಬ್ಲಾಕ್’](https://www.varthabharati.in/National/finally-unblocked-cartoonist-satish-acharyas-instagram-page-restored-2280556)
-- [Rejinagar ಉಪಚುನಾವಣೆ | ಮತ ಚಲಾಯಿಸಿದ ಬೆನ್ನಲ್ಲೆ ಶಾಸಕ ಹುಮಾಯೂನ್ ಕಬೀರ್ ರನ್ನು ವಶಕ್ಕೆ ಪಡೆದ ಪೊಲೀಸರು](https://www.varthabharati.in/National/ajup-chief-humayun-kabir-detained-by-police-as-voting-continues-in-rejinagar-bypoll-2280554)
-- [Kodagu | ಬ್ಯಾಡಗೊಟ್ಟ ಬೂತ್-21ರಲ್ಲಿ 64 ಮುಸ್ಲಿಂ ಮತದಾರರ ಹೆಸರು ಡಿಲೀಟ್‌ಗೆ ಯತ್ನ ; ಬಿಜೆಪಿ ಬೂತ್ ಅಧ್ಯಕ್ಷ ಸೇರಿ 5 ಮಂದಿ ವಿರುದ್ಧ ಪ್ರಕರಣ ದಾಖಲು](https://www.varthabharati.in/kodagu/kodagu-allegation-of-attempt-to-delete-names-of-64-muslim-voters-at-byadagotta-booth-21-case-registered-against-five-individuals-including-the-bjp-booth-president-2280550)
-- [ಅನ್ಯ ಕರ್ತವ್ಯಗಳಿಂದ ಶಿಕ್ಷಕರು ಮುಕ್ತರಾಗಲಿ](https://www.varthabharati.in/sampaadakeeya/let-teachers-be-relieved-of-other-duties-2280551)
 
 **Asianet Kannada**
-- [ವಿಮಾನ ಹೈಜಾಕ್ ಸಂದೇಶ ಬೆನಲ್ಲೇ ಯುದ್ಧ ವಿಮಾನಕ್ಕೆ ಇಸ್ರೇಲ್ ಕೊಟ್ಟ ಭಯಾಕನ ಸೂಚನೆ ಬಯಲು](https://kannada.asianetnews.com/world-news/israel-moves-to-shoot-down-flydubai-plane-with-174-people-after-hijack-message-says-reports/articleshow-q2tuq3r)
+- [ಉತ್ತರ ಕರ್ನಾಟಕ ಶೈಲಿಯ ಖಾರಾ ಮಂಡಕ್ಕಿ ರೆಸಿಪಿ: 5 ನಿಮಿಷದಲ್ಲಿ ತಯಾರಿಸಿ, ಸಂಜೆ ಮಳೆಗೆ ಚಹಾ ಜೊತೆ ಸವಿಯಿರಿ, ಇಲ್ಲಿದೆ ರೆಸಿಪಿ!](https://kannada.asianetnews.com/food/special-crispy-north-karnataka-khara-mandakki-recipe-ready-in-5-minutes-rav/articleshow-ug5hiu4)
+- [Amruthadhaare ರೋಚಕ ಟ್ವಿಸ್ಟ್​: ಮಲ್ಲಿಗೆ ಕೊನೆಗೂ ಸಿಕ್ಕಳು ಭೂಮಿಕಾ- ಶಕ್ಕು, ಜೈದೇವ್​  ಕಥೆ ಫಿನಿಷ್​](https://kannada.asianetnews.com/tv-talk/amruthadhaare-serial-twist-jaidev-came-to-kill-bhumika-but-malli-found-her-in-road-suc/articleshow-yqwheqr)
+- [₹8,000 ಕೋಟಿ ಆಸ್ತಿ ಒಡತಿ ಜೂಹಿ ಚಾವ್ಲಾ! ಬಾಲಿವುಡ್‌ ಟಾಪ್-7 ಶ್ರೀಮಂತ ನಟಿಯರ ಪೈಕಿ ರಶ್ಮಿಕಾ ಇದ್ದಾರಾ?](https://kannada.asianetnews.com/gallery/entertainment/rs-8000-crore-net-worth-juhi-chawla-to-aishwarya-rai-bachchan-meet-7-richest-bollywood-actresses-sat-ufmwup7)
+- [Fake doctors arrested: ನಡುರಾತ್ರಿ ಬಿಗ್‌ ಆಪರೇಷನ್; ಅಕ್ರಮ ಭ್ರೂಣಲಿಂಗ ಪತ್ತೆ ಜಾಲಕ್ಕೆ ಬಿಗ್ ಶಾಕ್, ಪ್ರಮುಖ ಆರೋಪಿ ಪರಾರಿ!](https://kannada.asianetnews.com/karnataka-districts/illegal-fetal-determination-bagalkot-mahalingapur-maharashtra-raid-ultrasound-machine-seized/articleshow-qttgnqv)
+- [ಸ್ಟೀಲ್ ಸ್ಕ್ರಬ್ಬರ್ ಬೇಡವೇ ಬೇಡ.. ಸೀದ ಪಾತ್ರೆ, ಬಾಣಲೆ ಸುಲಭವಾಗಿ ಕ್ಲೀನ್ ಮಾಡಲು ಇಲ್ಲಿದೆ ಟಿಶ್ಯೂ ಪೇಪರ್  ಟ್ರಿಕ್](https://kannada.asianetnews.com/gallery/kitchen/how-to-clean-a-burnt-pan-in-minutes-without-scrubbing-adhlct6)
+- [ಮದುವೆಯಾದ್ಮೇಲೆ ಆಧಾರ್‌ ನಲ್ಲಿ ಸರ್‌ ನೇಮ್ ಬದಲಿಸ್ಬೇಕು ಅಂದ್ರೆ ಏನು ಮಾಡ್ಬೇಕು?  ಎಷ್ಟು ಖರ್ಚು ಬರುತ್ತೆ ಗೊತ್ತಾ?](https://kannada.asianetnews.com/gallery/business/aadhaar-name-change-want-to-change-your-surname-after-marriage-check-the-complete-process-nisoteh)
+- [ವಿಮಾನ ಹೈಜಾಕ್ ಸಂದೇಶ ಬೆನ್ನಲ್ಲೇ ಯುದ್ಧ ವಿಮಾನಕ್ಕೆ ಇಸ್ರೇಲ್ ಕೊಟ್ಟ ಭಯಾನಕ ಸೂಚನೆ ಬಯಲು](https://kannada.asianetnews.com/world-news/israel-moves-to-shoot-down-flydubai-plane-with-174-people-after-hijack-message-says-reports/articleshow-q2tuq3r)
 - [ಸಾಲಮಾಡಿ ಐಫೋನ್ ತಗೋತೀರಾ? ಇರಿ ಸ್ವಲ್ಪ.. ವಿರಾಜಪೇಟೆ ಅಳಿಯ ವಿಜಯ್ ಮಾತು ಒಮ್ಮೆ ಕೇಳಿ, ಆಮೇಲೆ ನಿಮ್ಮಿಷ್ಟ!](https://kannada.asianetnews.com/news-entertainment/vijay-deverakonda-said-taking-loan-to-buy-an-expensive-phone-just-for-status-is-not-the-right-decision/articleshow-lxwuer0)
 - [ಏಷ್ಯನ್ ಗೇಮ್ಸ್‌ನಲ್ಲಿ ಚಿನ್ನ ಗೆಲುವಿನ ಬೆನ್ನಲ್ಲೇ ಭಾರತ ತಂಡದ ನಾಯಕತ್ವಕ್ಕೆ ಗುಡ್‌ ಬೈ ಹೇಳಿದ ಹರ್ಮನ್‌ಪ್ರೀತ್ ಕೌರ್..! ಮುಂದಿನ ಕ್ಯಾಪ್ಟನ್ RCB ನಾಯಕಿ?](https://kannada.asianetnews.com/cricket-sports/harmanpreet-kaur-steps-down-as-india-womens-captain-smriti-mandhana-set-for-big-role-kvn/articleshow-vdgxga3)
 - [Bengaluru: ನಮ್ಮ ಮೆಟ್ರೋದಲ್ಲಿ ಪ್ರಯಾಣಿಕರನ್ನು ಬೆಚ್ಚಿಬೀಳಿಸಿದ ಅತಿಥಿ ಇಲಿ; ವಿಡಿಯೋ](https://kannada.asianetnews.com/gallery/bengaluru-urban/a-rat-was-spotted-on-bengaluru-s-bmrcl-namma-metro-train-causing-panic-among-passengers-mrq-avmk2g2)
-- [ಕೊಡಗಿಗೆ ಸಿಗಲಿದೆ ಹೊಸ ಹೆಲಿಪೋರ್ಟ್; ಪ್ರವಾಸೋದ್ಯಮಕ್ಕೆ ಭರ್ಜರಿ ಬೂಸ್ಟ್, ಇನ್ನು ಹೆಲಿಕಾಪ್ಟರ್‌ನಲ್ಲೇ ಕೊಡಗು ಪ್ರಯಾಣ!](https://kannada.asianetnews.com/karnataka-districts/kodagu-new-heliport-madikeri-tourism-air-connectivity-2026-suh/articleshow-gx7n9k1)
-- [ಭಾರತದಲ್ಲೇ ಹುಟ್ಟಿ ಬೆಳೆದ ಚೀತಾಗೆ ಕುನೋ ಕಾಡಿನಲ್ಲಿ 5 ಚಿರತೆ ಮರಿಗಳ ಜನನ, ಬೋಟ್ಸ್ವಾನ ಮೂಲದ ಗಂಡು ತಂದೆ!](https://kannada.asianetnews.com/india-news/project-cheetah-milestone-5-new-cubs-born-at-kuno-total-count-reaches-60-gdp/articleshow-y0evcs4)
-- [ಮರಳಿ ಜೀವ ಬರಬಹುದೆಂದು ನಂಬಿ ವೃದ್ಧನ ಮೃತದೇಹ ನಾಲ್ಕು ವರ್ಷ ಐಸ್‌ನಲ್ಲಿ ಇಟ್ಟ ಮುಂಬೈ ಕುಟುಂಬ](https://kannada.asianetnews.com/india-news/family-keeps-elderly-deceaseds-body-in-freezer-for-4-years-hoping-to-revive-him-suc/articleshow-uzc4g0g)
-- [Pride of India: ಕೋಲಾರದ ತೇಜಶ್ರೀಗೆ ಮಿಸ್ ಟೀನ್ ಇಂಡಿಯಾ 2026 ಕಿರೀಟ, ಇಂಡೋನೇಷ್ಯಾ ನಡೆಯೋ ಸ್ಪರ್ಧೆಗೆ ಆಯ್ಕೆ](https://kannada.asianetnews.com/karnataka-districts/kolar-s-tejashree-crowned-miss-teen-india-2026-selected-for-indonesia-nado-pageant-sns/articleshow-caxt8eo)
-- [ರಾಜ್ಯದ ಜನ ಸತ್ತರೆ ₹5 ಲಕ್ಷ ಕೊಡುವ ಸರ್ಕಾರ, ಒಬ್ಬೊಬ್ಬ ಶಾಸಕರ ವೈದ್ಯಕೀಯ ವೆಚ್ಚಕ್ಕೆ ₹1 ಕೋಟಿ ಖರ್ಚು ಮಾಡ್ತಿದೆ!](https://kannada.asianetnews.com/gallery/business/karnataka-mlas-medical-expenses-reimbursement-taxpayers-money-hk-suresh-harish-gowda-sat-5zc8p8o)
-- [Jio IPO 2026: ಷೇರು ಮಾರ್ಕೆಟ್ ನಲ್ಲಿ ಸಂಚಲನ , ಜಿಯೋ ಐಪಿಒ ಬಿಡುಗಡೆಗೆ ದಿನಾಂಕ ಫಿಕ್ಸ್ ?](https://kannada.asianetnews.com/business/countdown-begins-jio-ipo-set-for-a-blockbuster-debut-on-this-date/articleshow-zorbqnt)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ಗಣಪತಿ ವಿಸರ್ಜನೆ ಜಟಾಪಟಿ: ಎಸ್ಪಿಗೆ ನೋಟಿಸ್​​ ಬಗ್ಗೆ ಜಿಲ್ಲಾಧಿಕಾರಿ ಸ್ಪಷ್ಟನೆ; ಡಿಸಿ ನಡೆಗೆ JDS ಶಾಸಕ ಗರಂ](https://tv9kannada.com/karnataka/hassan/hassan-pendal-ganapati-visarjan-row-jds-mla-swaroop-prakash-slams-dc-latha-kumari-over-notice-to-sp-1247030.html)
+- [ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯ ಪಾಲಿಗೆ ಕಂಟಕವಾದ ಝಹೀರ್ ಖಾನ್ ಎಂಟ್ರಿ!](https://tv9kannada.com/sports/cricket-news/ipl-2027-zaheer-khan-factor-blocks-hardik-pandyas-move-to-csk-1246961.html)
+- [ಮುಂದಕ್ಕೆ ಹೋಯ್ತು ‘ಎಕೆ 47’ ಸಿನಿಮಾ ರಿಲೀಸ್, ಕ್ಷಮೆ ಕೇಳಿದ ನಿರ್ಮಾಪಕ](https://tv9kannada.com/entertainment/aadarsha-kutumbam-house-no-47-movie-release-postponed-1247028.html)
+- [ಫ್ಲೈದುಬೈ ವಿಮಾನ ಘಟನೆ: ಇರಾನ್ ವಿರುದ್ಧ ಟ್ರಂಪ್ ಗಂಭೀರ ಆರೋಪ, ತೀವ್ರ ಪರಿಣಾಮದ ಎಚ್ಚರಿಕೆ](https://tv9kannada.com/videos/donald-trump-accuses-iran-of-involvement-in-flydubai-co-pilot-attack-incident-1247016.html)
 - [Gold Rates 6 October: ಚಿನ್ನದ ಬೆಲೆ ಗ್ರಾಮ್​ಗೆ 15 ರೂ ಇಳಿಕೆ; ಇಲ್ಲಿದೆ ದರಪಟ್ಟಿ](https://tv9kannada.com/business/gold-rate-6-october-2026-gold-price-down-on-tuesday-news-in-kannada-1247023.html)
 - [ಕಾರವಾರ ಕ್ರಿಮ್ಸ್ ಹಾಸ್ಟೆಲ್ ಅವ್ಯವಸ್ಥೆ: ವೈದ್ಯಕೀಯ ವಿದ್ಯಾರ್ಥಿಗಳ ಪರದಾಟ!](https://tv9kannada.com/videos/krims-hostel-disarray-karwar-medical-students-face-grim-reality-amidst-neglect-1247019.html)
 - [ನಾಲ್ಕೇ ದಿನಕ್ಕೆ 300 ಕೋಟಿ ರೂಪಾಯಿ ಕಲೆಕ್ಷನ್ ಮಾಡಿದ ‘ದೃಶ್ಯಂ 3’](https://tv9kannada.com/entertainment/bollywood/drishyam-3-box-office-collection-day-4-ajay-devgn-starrer-crosses-rs-300-crore-worldwide-1247011.html)
 - [ನಕಲಿ ದಾಖಲೆ ಸೃಷ್ಟಿಸಿ ಜೈಲಿನಿಂದ ಬಿಡುಗಡೆ ಕೇಸ್​​: ಪತ್ನಿಗೆ ಕೈದಿ ಕೈಕೊಟ್ಟಿದ್ದರಿಂದ ಪ್ರಕರಣ ಬಹಿರಂಗ; ಡಿಐಜಿ ಕಳ್ಳಾಟವೂ ಪತ್ತೆ](https://tv9kannada.com/videos/fake-documents-used-to-free-prisoner-case-exposed-after-inmate-betrays-wife-digs-role-unearthed-1247014.html)
 - [ತಾಯಿಯ ಗರ್ಭದಲ್ಲೇ ಮಗುವಿಗೆ ಉತ್ತಮ ಸಂಸ್ಕಾರ ನೀಡುವುದು ಹೇಗೆ? ಕಯಾಧು-ಪ್ರಹ್ಲಾದರ ಕಥೆಯಲ್ಲಿದೆ ಉತ್ತರ!](https://tv9kannada.com/spiritual/pregnancy-parenting-nurturing-your-childs-spirit-and-values-from-the-womb-1247001.html)
 - [ಎಸ್​ಐಆರ್ ಫಾರ್ಮ್-7 ಎಂದರೇನು? ಅರ್ಜಿ ಕೊಟ್ಟ ಕೂಡಲೇ ಮತದಾರರ ಪಟ್ಟಿಯಿಂದ ಹೆಸರು ಡಿಲೀಟ್ ಆಗುತ್ತಾ? ನೀವು ತಿಳಿಯಲೇಬೇಕಾದ ಅಂಶಗಳು](https://tv9kannada.com/karnataka/sir-form-7-explained-how-voter-name-deletion-process-works-in-karnataka-and-india-1247005.html)
-- [ಮಲಯಾಳಂ ಸ್ಟಾರ್ ನಿರ್ದೇಶಕನ ಜೊತೆ ಕೈಜೋಡಿಸಲಿರುವ ರಿಷಬ್ ಶೆಟ್ಟಿ](https://tv9kannada.com/entertainment/sandalwood/rishab-shetty-to-join-hands-with-manjummel-boys-director-chidambaram-1246979.html)
-- [ಆರ್ಥಿಕ ಸಂಕಷ್ಟಕ್ಕೆ ಸಿಲುಕಿದ ಮಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ: 1,375 ಕೋಟಿ ಸಾಲವಾಗಿದ್ದರೂ ಇನ್ನೂ ಮುಗಿಯದ ಒಳಚರಂಡಿ ಕಾಮಗಾರಿ!](https://tv9kannada.com/karnataka/dakshina-kannada/mangaluru-city-corporation-trapped-in-rs-1375-crore-adb-loan-debt-sewerage-project-remains-incomplete-after-20-years-1246988.html)
-- [ಟೀಮ್ ಇಂಡಿಯಾ ನಾಯಕತ್ವಕ್ಕೆ ಹರ್ಮನ್​ಪ್ರೀತ್ ಕೌರ್ ದಿಢೀರ್ ರಾಜೀನಾಮೆ!](https://tv9kannada.com/sports/cricket-news/harmanpreet-kaur-steps-down-as-india-captain-in-all-formats-1246985.html)
-- [ಯುಪಿಐ ಪಾವತಿಗಳಿಗೆ ಎಂಡಿಆರ್; ಶೇಕಡವಾರು ಶುಲ್ಕ, ಫ್ಲ್ಯಾಟ್ ಶುಲ್ಕ; ಸಣ್ಣ ವರ್ತಕರೆಂದರೆ ಯಾರು? ಹಲವು ಅನುಮಾನಗಳಿಗೆ ಉತ್ತರ](https://tv9kannada.com/business/mdr-on-upi-p2m-transactions-important-queries-and-answers-1246987.html)
 
 **Prajavani**
+- [ಕೊಡಗಿನ ನೆಲದಲ್ಲಿ ರಾಂಬುಟನ್ ಸೇರಿ ವಿದೇಶಿ ಹಣ್ಣುಗಳ ಘಮಲು](https://www.prajavani.net/district/kodagu/kodagu-exotic-fruits-sudhir-makkimane-agriculture-4310049)
+- [ಪತ್ರಕರ್ತೆಗೆ ಲೈಂಗಿಕ ಕಿರುಕುಳ ನೀಡಿದ ಆರೋಪ: ಅಧಿಕಾರಿಯ ಬಡ್ತಿ ತಡೆಹಿಡಿದ ಸರ್ಕಾರ](https://www.prajavani.net/news/india-news/delhi-police-officer-promotion-halted-sexual-harassment-allegation-4310710)
 - [ತೀವ್ರ ಬರದ ನಡುವೆಯೇ ತುಳುನಾಡಿನ ಘನತೆ ಉಳಿಸಿಕೊಳ್ಳುವ ಸಂಕಷ್ಟದಲ್ಲಿ ಕಂಬಳ !](https://www.prajavani.net/agriculture/farming/mysuru-dasara-kambala-tradition-controversy-drought-4310701)
 - [ರಾಮನಗರ: ರಸ್ತೆ ಸಂಪರ್ಕಕ್ಕೆ ಕಾದಿದೆ ಸೇತುವೆ](https://www.prajavani.net/district/ramanagara/ramanagara-arkavathi-river-bridge-road-connectivity-delay-4310704)
 - [ಕೊಡಗು | ದಸರೆಗೆ ವೇದಿಕೆಯೇ ಗಜಭಾರ!: ಕಾರ್ಯರೂಪಕ್ಕೆ ಬಾರದ ಶಾಶ್ವತ ವೇದಿಕೆ](https://www.prajavani.net/district/kodagu/kodagu-dasara-festival-stage-preparations-criticism-4310079)
@@ -144,41 +146,31 @@
 - [ಈ ದಿನದ ಟಾಪ್ 10 ಸುದ್ದಿಗಳು: ಮಂಗಳವಾರ, 06 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/india-news/karnataka-bengaluru-news-roundup-october-six-4310690)
 - [ಕಡೂರು | ಕೋಡಿಬಿದ್ದ ಕುಕ್ಕಸಮುದ್ರ ಕೆರೆ; ರೈತರ ನಿಟ್ಟುಸಿರು](https://www.prajavani.net/district/chikkamagaluru/kaduru-kukkasamudra-lake-overflows-farmers-relief-4310006)
 - [ಅವರಾದ (ಬಿ) ಕುಡಿಯುವ ನೀರಿಗೆ ಹಾಹಾಕಾರ: ರಾಷ್ಟ್ರೀಯ ಹೆದ್ದಾರಿ ತಡೆದು ಪ್ರತಿಭಟನೆ](https://www.prajavani.net/district/kalaburagi/kalaburagi-avarad-village-drinking-water-crisis-highway-protest-4310692)
-- [ಚಾಮರಾಜನಗರ | ಗ್ರಾಮೀಣ ಭಾಗದಲ್ಲಿ ಬರದ ಛಾಯೆ; ಜಾನುವಾರು ಮೇವಿಗೂ ತತ್ವಾರ](https://www.prajavani.net/district/chamarajanagara/chamarajanagara-drought-farmers-distress-crop-loss-4310010)
-- [ಮಂಡ್ಯ | ‘ಮನ್‌ಮುಲ್‌’ ಹಾಲಿನ ಪುಡಿ ಕಲಬೆರಕೆ: ತನಿಖೆ ಹೊಣೆ ಡಿವೈಎಸ್‌ಪಿ ಹೆಗಲಿಗೆ](https://www.prajavani.net/district/mandya/mandya-manmul-milk-powder-adulteration-dy-sp-probe-4310011)
 
-**eedina**
-- [ಬಾಗಲಕೋಟೆ | ಬರದ ಹೊಡೆತಕ್ಕೆ ಬೆಳೆ ನಿರ್ನಾಮ! ಎಕರೆಗೆ ರೂ.30 ಸಾವಿರ ಖರ್ಚು, ಕೈ ಸೇರದ ಫಸಲು](https://eedina.com/?p=770504)
-- [SIR | ಮಲ್ಲೇಶ್ವರಂನಲ್ಲಿ ಬಿಜೆಪಿಯಿಂದ ಭಾರೀ ಅಕ್ರಮ; ಮೇಲಧಿಕಾರಿಗಳೇ ಶಾಮೀಲು ಶಂಕೆ- ʼಈ ದಿನʼಕ್ಕೆ ಸಿಕ್ಕಿದೆ ಸಾಕ್ಷ್ಯ](https://eedina.com/?p=770296)
-- [ಸಾಗರ | ಡಾ. ಹೆಚ್. ಗಣಪತಿಯಪ್ಪ ಸ್ಮಾರಕ ಅಭಿವೃದ್ಧಿಗೆ ಶಾಸಕರಿಗೆ ಮನವಿ](https://eedina.com/?p=770350)
-- [SIR ನಲ್ಲಿ ದೊಡ್ಡ ಪ್ರಮಾಣದ Form 7 ಅರ್ಜಿಗಳ ಸಲ್ಲಿಕೆ  ಆರೋಪ; ಕ್ರಮಕ್ಕೆ ತೆಲಂಗಾಣ ಚುನಾವಣಾ ಆಯುಕ್ತರ ಆದೇಶ](https://eedina.com/?p=770474)
-- [ಆಗುಂಬೆ | ಕಂದಕಕ್ಕೆ ಬಿದ್ದ ಲಾರಿ; ಸ್ಥಳೀಯರಿಂದ ಚಾಲಕನ ರಕ್ಷಣೆ](https://eedina.com/?p=770291)
-- [ಬೀದರ್ | ಪದವೀಧರ ಪ್ರಾಥಮಿಕ ಶಿಕ್ಷಕರ ಸಂಘದ ಜಿಲ್ಲಾ ಘಟಕಕ್ಕೆ ನೂತನ ಪದಾಧಿಕಾರಿಗಳ ಆಯ್ಕೆ](https://eedina.com/?p=770463)
-- [Form 6 ಬದಲಾಯಿಸಿದ್ದು ಯಾರು, ದಾಖಲೆ ಕೊಡಿ; ಚುನಾವಣಾ ಆಯೋಗಕ್ಕೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಸೂಚನೆ](https://eedina.com/?p=770458)
-- [ರಾಯಚೂರು | SIR : ನೈಜ ಮತದಾರರನ್ನೇ ಗುರಿಯಾಗಿಸಿ ಫಾರ್ಮ್-7 ಸಲ್ಲಿಕೆ, ಎಸ್‌ಐಟಿ ತನಿಖೆಗೆ ಆಗ್ರಹ](https://eedina.com/?p=770455)
-- [ಮಕ್ಕಾ ಒಪ್ಪಂದದಡಿ ಸೌದಿ ಅರೇಬಿಯಾಗೆ ಸೇನಾ ಪಡೆಗಳನ್ನು ಕಳುಹಿಸಲು ಪಾಕಿಸ್ತಾನ, ಟರ್ಕಿ ಒಪ್ಪಿಗೆ](https://eedina.com/?p=770450)
-- [ಬಂಗಾಳ SIR | ನೋಟಿಸ್ ನೀಡಲು, ಹೆಸರು ಮರು ಸೇರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ: EC ಪೋರ್ಟಲ್ ವಿರುದ್ಧ ನ್ಯಾಯಾಧೀಶರ ದೂರು](https://eedina.com/?p=770451)
+**eedina** — _unavailable_
 
 ## Cross-source trending keywords (derived from headlines above)
 - Emkay Global Financial (5.0)
-- Explained (3.9)
-- target (3.3)
-- Gyanesh Kumar (3.0)
+- Gyanesh Kumar (4.0)
+- LIVE (3.2)
 - ICICI Securities (3.0)
-- India (2.9)
-- Form (2.9)
-- Bengal (2.9)
+- target (3.0)
+- Punjab (2.9)
 - Bengaluru (2.6)
 - Jaishankar (2.6)
-- MPSC (2.6)
-- Karnataka (2.6)
-- AJUP (2.6)
-- Rejinagar (2.6)
-- Asian Games (2.0)
+- Explained (2.6)
+- INDIA (2.2)
+- Supreme Court (2.0)
+- Rahul Gandhi (2.0)
+- Delhi Police (2.0)
+- Buy Bajaj Finance (2.0)
+- India (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [Pakistan, Saudi Arabia, Turkiye activate Mecca defence pact amid Houthi attacks](https://timesofindia.indiatimes.com/world/middle-east/pakistan-saudi-arabia-turkiye-activate-mecca-defence-pact-amid-houthi-attacks/articleshow/134716048.cms)
+- [Bengaluru Jail Official Arrested For Allegedly Soliciting Sex From Convict's Wife](https://www.ndtv.com/india-news/bengaluru-top-cop-arrested-for-allegedly-soliciting-sex-from-convicts-wife-12143058)
 - [ఢిల్లీలో నిరసనల సెగ.. జర్నలిస్టుల అరెస్ట్‌పై రాజకీయ రచ్చ.. మద్దతు ప్రకటించిన టీఎంసీ!](https://www.v6velugu.com/-10-ko-poora-desh-aa-raha-hai-tmc-vows-support-to-cjp-aisas-neha-claims-journalist-rosie-detained-)
 - [चिराग पासवान का UP चुनाव वाला दांव, अपनों के ही खिलाफ क्यों ताल ठोक रहे मोदी के 'हनुमान'?](https://www.jagran.com/news/national-chirag-paswan-up-election-gamble-why-pm-modi-hanuman-is-flexing-muscle-against-allies-40395633.html)
 - [Eknath Shinde: पीएम नरेंद्र मोदी से अचानक मिले एकनाथ शिंदे, करीब 1 घंटे तक चली बातचीत, वजह पूछने पर क्या बोले?](https://navbharattimes.indiatimes.com/metro/mumbai/politics/eknath-shinde-meet-pm-narendra-modi-and-started-farmers-could-receive-significant-assistance-from-central-govt-regarding-drought-situation/articleshow/134714434.cms)
@@ -187,8 +179,6 @@
 - [Salim Khan makes a RARE public appearance with Salma Khan at granddaughter Sipaara's first birthday; Salman Khan, Sohail Khan and Arpita Khan Sharma join the celebration](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-khan-makes-a-rare-public-appearance-with-salma-khan-at-granddaughter-sipaaras-first-birthday-salman-khan-sohail-khan-and-arpita-khan-sharma-join-the-celebration/articleshow/134713841.cms)
 - ['വോട്ട് ബച്ചാവോ ദേശ് ബച്ചാവോ'; ഗ്യാനേഷ് കുമാറിനെതിരെ കോണ്‍ഗ്രസിന്റെ രാജ്യവ്യാപക പ്രക്ഷോഭം ഒക്ടോബര്‍ 10 മുതല്‍](https://www.doolnews.com/save-vote-save-country-congress-to-launch-nationwide-protest-against-gyanesh-kumar-from-october-10-176-62.html)
 - [মুম্বই ছেড়ে হিমাচলপ্রদেশে চলে যাচ্ছেন আদিত্য ও ইয়ামী? অবশেষে প্রতিক্রিয়া পরিচালকের তরফে](https://www.anandabazar.com/entertainment/aditya-dhars-team-reacts-to-reports-of-the-couple-leaving-mumbai-and-settling-down-in-himachal-pradesh-dgtl/cid/1717704)
-- [Maharashtra Charity Commissioner asks Tata Trusts to respond to Venu Srinivasan complaint by October 12](https://www.moneycontrol.com/news/business/maharashtra-charity-commissioner-asks-tata-trusts-to-respond-to-venu-srinivasan-complaint-by-october-12-14045154.html)
-- [નવસારીના વાંસદામાં દીપડાનો આતંક, 3 વર્ષના બાળકને ઉઠાવીને જંગલમાં ખેંચી ગયો](https://gujarati.news18.com/news/navsari/navsari-vansda-bhinar-village-leopard-lifts-3-year-old-child-pk-2637056.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
