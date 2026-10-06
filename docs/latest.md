@@ -1,16 +1,16 @@
-# India Trending Report — 2026-10-06 21:37:00
+# India Trending Report — 2026-10-06 22:01:56
 
 ## Google Trends (India) — top trending searches
 1. [spain vs argentina](https://trends.google.com/trending/rss?geo=IN)
 2. [ऑस्ट्रेलिया ए क्रिकेट टीम](https://trends.google.com/trending/rss?geo=IN)
 3. [mikel merino](https://trends.google.com/trending/rss?geo=IN)
 4. [hannibal](https://trends.google.com/trending/rss?geo=IN)
-5. [harry kane](https://trends.google.com/trending/rss?geo=IN)
-6. [belarus vs finland](https://trends.google.com/trending/rss?geo=IN)
-7. [કરોડ](https://trends.google.com/trending/rss?geo=IN)
-8. [kim kardashian](https://trends.google.com/trending/rss?geo=IN)
-9. [street fighter movie](https://trends.google.com/trending/rss?geo=IN)
-10. [abhishek bachchan](https://trends.google.com/trending/rss?geo=IN)
+5. [belarus vs finland](https://trends.google.com/trending/rss?geo=IN)
+6. [કરોડ](https://trends.google.com/trending/rss?geo=IN)
+7. [kim kardashian](https://trends.google.com/trending/rss?geo=IN)
+8. [street fighter movie](https://trends.google.com/trending/rss?geo=IN)
+9. [abhishek bachchan](https://trends.google.com/trending/rss?geo=IN)
+10. [scout op](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -21,7 +21,7 @@
 - [CBI raids CM Bhagwant Mann’s camp office, his OSD’s home in graft probe](https://timesofindia.indiatimes.com/india/cbi-raids-cm-bhagwant-manns-camp-office-his-osds-home-in-graft-probe/articleshow/134749798.cms)
 - [SpaceX overpumped 128M gallons of groundwater; now Texas city has to pay $175,000](https://timesofindia.indiatimes.com/technology/tech-news/spacexs-rocket-testing-plant-overpumped-128-million-gallons-of-groundwater-in-three-years-now-this-texas-city-has-to-pay-175000-in-penalties-and-fund-a-new-monitoring-system/articleshow/134743244.cms)
 - [ED unearths bribe racket involving top executives of 40 PSUs, banks & companies](https://timesofindia.indiatimes.com/india/ed-unearths-bribe-racket-involving-top-executives-of-40-psus-banks-companies/articleshow/134749954.cms)
-- [Arnold Schwarzenegger donated $250,000 to build 25 shelters for homeless veterans](https://timesofindia.indiatimes.com/world/us/in-2021-arnold-schwarzenegger-donated-250000-to-help-homeless-veterans-in-los-angeles-before-christmas-25-tiny-shelters-were-installed-with-beds-climate-control-and-doors-residents-could-lock/articleshow/134738245.cms)
+- [Man deposits Rs 85.3 lakh given to him as cash gifts, gets notice; ITAT gives relief](https://timesofindia.indiatimes.com/business/india-business/man-deposits-rs-85-3-lakh-received-as-cash-gifts-from-wife-relatives-income-tax-calls-it-unexplained-and-sends-notice-but-itat-chennai-accepts-gift-deeds-and-gives-relief/articleshow/134743903.cms)
 - [Amid Canada trade talks, NSAs discuss security coop](https://timesofindia.indiatimes.com/india/amid-canada-trade-talks-nsas-discuss-security-coop/articleshow/134750010.cms)
 - [Election Commission: Was ready to meet 240 oppn MPs but not at their chosen venue](https://timesofindia.indiatimes.com/india/election-commission-was-ready-to-meet-240-opposition-mps-but-not-at-their-chosen-venue/articleshow/134749929.cms)
 
@@ -56,12 +56,15 @@
 - [ತೋಟದಲ್ಲಿ ಇರುವೆ ಮಣ್ಣಿನ ಗುಡ್ಡೆ ಕಾಟವೇ? ಗಿಡಗಳಿಗೆ ಹಾನಿಯಾಗದಂತೆ ನಿವಾರಿಸಲು ಸುಲಭ ವಿಧಾನಗಳು](https://vijaykarnataka.com/lifestyle/home-decor/how-to-remove-ant-mounds-from-lawn-garden/articleshow/134746147.cms)
 - [India T20i Team- ಕಿವೀಸ್ ಪ್ರವಾಸಕ್ಕೆ RCB ಹೀರೋ! ಭಾರತ ತಂಡಕ್ಕೆ ಭುವನೇಶ್ವರ್ ಕುಮಾರ್ ಕಂಬ್ಯಾಕ್! ರಿಷಬ್ ಪಂತ್ `ಎ' ತಂಡದಲ್ಲೂ ಡೌಟ್](https://vijaykarnataka.com/sports/cricket/news/bhuvneshwar-kumar-comeback-to-india-t2oi-squad-against-new-zealand-rishab-pant-doubt-in-a-team/articleshow/134745071.cms)
 - [BBK 13 ಜಗ್ಗಮಮ್ಮಿ ರಾಕ್ಷಸತನ: ಕೆಟ್ಟ ಮನಸ್ಥಿತಿಗಳ ನಡುವೆ ಕೆಟ್ಟ ಜಗದೀಶ ಆಗಿದ್ದೀನಿ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-episode-31-monstrous-side-amidst-toxic-mindsets-jagadeesh-have-become-the-bad/articleshow/134749978.cms)
-- [ಶೂ ಬಾಕ್ಸ್‌ನಲ್ಲಿರುವ ಸಿಲಿಕಾ ಜೆಲ್ ಪ್ಯಾಕೆಟ್ ಎಸೆಯಬೇಡಿ; ಮನೆಯಲ್ಲೂ ಹೀಗೆ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/silica-gel-packets-shoe-box-home-uses/articleshow/134651205.cms)
+- [ಮನೆಯಲ್ಲಿ ಉಳಿದ ಇಡ್ಲಿ ಎಸೆಯಬೇಡಿ; ಹೀಗೆ ಮಾಡಿ ಮಸಾಲಾ ಇಡ್ಲಿ ಫ್ರೈ, ರುಚಿ ಸೂಪರ್!](https://vijaykarnataka.com/lifestyle/home-decor/masala-idli-fry-recipe-leftover-idli/articleshow/134697040.cms)
 - [Garuda Purana: ನಿಮ್ಮ ಆತ್ಮ ಹಳೆಯದೇ ಅಥವಾ ಹೊಸದೇ.?](https://vijaykarnataka.com/religion/hinduism/garuda-purana-these-signs-indicate-whether-your-soul-is-old-or-new/articleshow/134742133.cms)
 - [ಸ್ತನ ಕ್ಯಾನ್ಸರ್: ಗಡ್ಡೆ ಹೊರತಾಗಿ ಕಾಣಿಸಿಕೊಳ್ಳುವ ಈ ಲಕ್ಷಣಗಳನ್ನು ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ](https://vijaykarnataka.com/lifestyle/health/breast-cancer-awareness-month-2026-warning-signs-beyond-lump/articleshow/134733101.cms)
 - [Ind Vs Wi T20i- ಲಖನೌನಲ್ಲಿ ಸ್ಪಿನ್ನರ್ ಗಳ ವಿರುದ್ಧ ವಿಂಡೀಸ್ ಪರದಾಟ; ಬಳಿಕ ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ನಾಯಕನಾಟ! ಇಲ್ಲಿದೆ ಹೈಲೈಟ್ಸ್](https://vijaykarnataka.com/sports/cricket/news/shreyas-iyer-century-india-beat-west-indies-by-8-wickets/articleshow/134745753.cms)
 
 **The Hindu**
+- [NDA wins 34 of 42 Silchar Municipal Corporation seats](https://www.thehindu.com/news/national/assam/nda-wins-34-of-42-silchar-municipal-corporation-seats/article71552428.ece)
+- [Passenger bus, running under recently launched M.P. govt service, gutted in fire; passengers evacuated safely](https://www.thehindu.com/news/national/madhya-pradesh/passenger-bus-running-under-recently-launched-mp-govt-service-gutted-in-fire-passengers-evacuated-safely/article71552814.ece)
+- [About 76% voter turnout in Nagaon Lok Sabha bypoll](https://www.thehindu.com/news/national/assam/about-76-voter-turnout-in-nagaon-lok-sabha-bypoll/article71552134.ece)
 - [Twenty-five years of leadership, an India transformed](https://www.thehindu.com/opinion/lead/twenty-five-years-of-leadership-an-india-transformed/article71552707.ece)
 - [Fertiliser hoarding, black marketing to be curbed in rabi crop season in Rajasthan](https://www.thehindu.com/news/national/rajasthan/fertiliser-hoarding-black-marketing-to-be-curbed-in-rabi-crop-season-in-rajasthan/article71552207.ece)
 - [Gajendra Singh Patel accuses Hemant Soren government of encouraging infiltration in Jharkhand](https://www.thehindu.com/news/national/jharkhand/gajendra-singh-patel-accuses-hemant-soren-government-of-encouraging-infiltration-in-jharkhand/article71551510.ece)
@@ -69,9 +72,6 @@
 - [Ladli Behna scheme has turned out to be ‘very expensive’, says Madhya Pradesh CM](https://www.thehindu.com/news/national/madhya-pradesh/ladli-behna-scheme-has-turned-out-to-be-very-expensive-says-madhya-pradesh-cm/article71552264.ece)
 - [Act against illegal resorts and homestays in tiger reserves: Ramalinga Reddy](https://www.thehindu.com/news/national/karnataka/act-against-illegal-resorts-and-homestays-in-tiger-reserves-ramalinga-reddy/article71551839.ece)
 - [Milk price in Karnataka may go up by ₹8, but only after Legislative Council polls](https://www.thehindu.com/news/national/karnataka/milk-price-in-karnataka-may-go-up-by-8-but-only-after-legislative-council-polls/article71552764.ece)
-- [Maharashtra Govt approves to increase scholarship allowance for SC and ST students](https://www.thehindu.com/news/national/maharashtra/maharashtra-govt-approves-to-increase-scholarshipallowance-for-sc-and-st-students/article71552395.ece)
-- [Tremors felt across Delhi-NCR as 4.9-magnitude quake hits Uttarakhand’s Chamoli](https://www.thehindu.com/news/national/tremors-felt-across-delhi-ncr-as-49-magnitude-quake-hits-uttarakhands-chamoli/article71553036.ece)
-- [Vellore police hands over missing phones to owners](https://www.thehindu.com/news/national/tamil-nadu/vellore-police-hands-over-missing-phones-to-owners/article71551307.ece)
 
 **Livemint**
 - [32%, 24%, 52%, 86%: Why these 4 numbers are bad news for Trump before the midterms](https://www.livemint.com/news/us-news/32-24-52-86-why-these-4-numbers-are-bad-news-for-trump-before-the-midterms-11791319759284.html)
@@ -153,32 +153,32 @@
 - Trump (5.5)
 - Indian (4.2)
 - INDIA (3.9)
-- Delhi-NCR (3.9)
 - What (2.9)
 - France (2.6)
+- Delhi-NCR (2.6)
 - India (2.6)
-- Tremors (2.6)
-- Uttarakhand (2.6)
 - Mann (1.9)
 - Punjab (1.6)
 - Canada (1.6)
 - Security (1.6)
 - Made (1.6)
-- Chamoli (1.6)
+- Opposition's (1.3)
+- Flydubai (1.3)
+- Incident (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ज्ञानेश कुमार की क्यों बढ़ी मुश्किलें, CEC को सस्पेंड किया जा सकता है? जानें क्या हैं प्रावधान](https://www.indiatv.in/explainers/will-gyanesh-kumar-resigned-or-suspend-whats-sc-order-how-could-cec-be-suspended-explained-2026-10-06-1247246)
-- [‘আমি নোবেল জিতেছি’! বাবাকে জড়িয়ে ধরল মেয়েরা, বিহ্বল পুত্র, ভাইরাল মন ভাল করা ভিডিয়ো](https://www.anandabazar.com/viral/wholesome-video-shows-medicine-award-winner-telling-her-children-that-he-has-won-noble-prize-dgtl/cid/1717783)
-- [ലെ ഫിസിക്സ് നൊബേൽ ഫ്രാൻസിസ് ഹാൽസന്](https://luca.co.in/2026-physics-nobel/)
-- [IND A vs AUS A: एका कॅचसाठी भारताच्या दोन खेळाडूंची टक्कर... पुढे जे घडले त्यावर कुणालाच विश्वास बसला नाही, Video Viral](https://www.esakal.com/krida/cricket/ind-a-vs-aus-a-two-indian-players-collide-while-taking-one-catch-what-happened-next-left-everyone-stunned-video-viral-svg87)
-- ['ഇനി ദാദാദാഗിരിയുടെ ടൈം'-ഡൽഹി ക്യാപിറ്റൽസ് പരിശീലകനായി ഗാംഗുലി](https://www.mathrubhumi.com/sports/cricket/sourav-ganguly-delhi-capitals-head-coach-ipl-eabt0ls6)
-- [ভুল পদক্ষেপের ফলে বিক্রি হয় বাড়ি, রাজুর পাশে তখন কেন দাঁড়াননি দাদা অনুপম?](https://www.hindustantimes.com/bangla/entertainment/raju-kher-recalls-financial-crisis-after-a-bad-investment-says-brother-anupam-kher-did-not-help-him-271791276421544.html)
-- [Kerala Rain: കേരളത്തിനു സമീപം അറബിക്കടലിൽ ചക്രവാതച്ചുഴി; സംസ്ഥാനത്ത് മഴ കനക്കും; ഇന്ന് 9 ജില്ലകളിൽ മഞ്ഞ അലർട്ട്](https://malayalam.indianexpress.com/kerala-news/kerala-rain-updates-yellow-alert-change-in-rain-warnings-12628921)
-- [Explainer: કેન્દ્રીય કર્મચારીઓ માટે HRAના નવા નિયમો, જો કઈ વિગતો છુપાવશો તો નહીં મળે ભથ્થું!](https://www.gujaratsamachar.com/news/national/Central-Govt-Employees-HRA-Rules-Mandatory-Annexure-II-Certificate-and-Guidelines-83196430150)
-- [Scientists examined 13 insects trapped in 99-million-year-old amber and identified a new species whose flexible mouthpart reached nearly twice its body length, possibly letting it probe deep into tree](https://timesofindia.indiatimes.com/science/archaeology/scientists-examined-13-insects-trapped-in-99-million-year-old-amber-and-identified-a-new-species-whose-flexible-mouthpart-reached-nearly-twice-its-body-length-possibly-letting-it-probe-deep-into-tree-bark-for-sap/articleshow/134730191.cms)
-- [At 19, he raises $11 million for a $3,499 personal AI computer; from aspiring quant to AI founder](https://timesofindia.indiatimes.com/education/news/at-19-he-raises-11-million-for-a-3499-personal-ai-computer-from-aspiring-quant-to-ai-founder/articleshow/134732670.cms)
+- [हूती विद्रोहियों ने सऊदी अरब पर किया हमला, दो इंटरनेशनल एयरपोर्ट पर दागी मिसाइलें](https://www.jagran.com/world/middle-east-yemen-houthi-rebels-attack-jazan-najran-airports-in-saudi-40396188.html)
+- [IOC sets out next steps for selecting 2036 Olympic Games host](https://www.olympics.com/ioc/news/ioc-sets-out-next-steps-for-selecting-2036-olympic-games-host)
+- [JBL PartyBox speakers launched in India from Rs 39,999](https://t2online.in/tech/tech-news/jbl-launches-easysing-microphones-with-ai-vocal-removal/2008480)
+- [സൗദിയിലെ ജിസാൻ, നജ്റാൻ വിമാനത്താവളങ്ങൾക്ക് നേരെ ആക്രമണം; മൂന്ന് പേർക്ക് പരിക്ക്](https://www.asianetnews.com/international-news/najran-jazan-airports-attacked-causing-3-injuries-and-material-damage-articleshow-6vihibs)
+- [Nobel Prize in Physics 2026](https://www.nobelprize.org/prizes/physics/2026/press-release/)
+- [ஆர்பிஐ கொள்கை முடிவு: உங்கள் EMI மாறுமா? வேலை தேடுபவர்கள் கவனிக்க வேண்டிய முக்கிய அப்டேட்கள் இதோ!](https://tamil.careerindia.com/news/rbi-monetary-policy-announcement-2026-repo-rate-emi-impact-011-11031.html)
+- [વર્ષ 2026નું સૌથી મોટું ગીત](https://tv9gujarati.com/entertainment/bollywood/shah-rukh-khan-kareena-kapoor-king-movie-big-update-after-15-years-their-new-avatar-and-biggest-song-of-2026-1528185.html)
+- [444 दिन की FD का क्रेज... मिल रहा तगड़ा ब्याज, जानें कौन सा बैंक आगे](https://www.aajtak.in/business/utility/photo/444-days-special-fd-sbi-to-pnb-which-bank-gives-highest-interest-benefits-tutc-2662701-2026-10-06)
+- [ഒടുവിൽ മക്കാ കരാർ യാഥാർഥ്യമായി; സൗദിക്കൊപ്പം അണിനിരന്ന് തുർക്കിയും പാകിസ്ഥാനും, ഹൂത്തികൾക്കെതിരെ യുദ്ധം ​ഗതിമാറി](https://www.asianetnews.com/international-news/mecca-agreement-has-become-a-reality-with-turkey-and-pakistan-aligning-alongside-saudi-arabi-against-the-houthis-articleshow-yoz6f26)
+- [Makarba Bridge Design Controversy: ખામીયુક્ત ડિઝાઇન બદલ 'ડેલ્ફ કન્સલ્ટન્સી' સામે તંત્રની લાલ આંખ, ફટકારી કડક નોટિસ](https://www.gujaratfirst.com/ahmedabad/makarba-bridge-design-notice-delf-consultancy-ahmedabad-gujarat-first-digital/344411/)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
