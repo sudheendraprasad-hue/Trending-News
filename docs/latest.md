@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-06 19:03:23
+# India Trending Report — 2026-10-06 19:38:00
 
 ## Google Trends (India) — top trending searches
-1. [abhishek bachchan](https://trends.google.com/trending/rss?geo=IN)
-2. [scout op](https://trends.google.com/trending/rss?geo=IN)
-3. [scotland vs slovenia](https://trends.google.com/trending/rss?geo=IN)
-4. [aman gandhi](https://trends.google.com/trending/rss?geo=IN)
-5. [croatia vs spain](https://trends.google.com/trending/rss?geo=IN)
-6. [england vs czechia](https://trends.google.com/trending/rss?geo=IN)
-7. [switzerland vs north macedonia](https://trends.google.com/trending/rss?geo=IN)
-8. [భూకంపం](https://trends.google.com/trending/rss?geo=IN)
-9. [ഗായത്രി സുരേഷ്](https://trends.google.com/trending/rss?geo=IN)
-10. [premanand ji maharaj news](https://trends.google.com/trending/rss?geo=IN)
+1. [kim kardashian](https://trends.google.com/trending/rss?geo=IN)
+2. [ivan perišić](https://trends.google.com/trending/rss?geo=IN)
+3. [street fighter movie](https://trends.google.com/trending/rss?geo=IN)
+4. [abhishek bachchan](https://trends.google.com/trending/rss?geo=IN)
+5. [scout op](https://trends.google.com/trending/rss?geo=IN)
+6. [scotland vs slovenia](https://trends.google.com/trending/rss?geo=IN)
+7. [aman gandhi](https://trends.google.com/trending/rss?geo=IN)
+8. [croatia vs spain](https://trends.google.com/trending/rss?geo=IN)
+9. [england vs czechia](https://trends.google.com/trending/rss?geo=IN)
+10. [switzerland vs north macedonia](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- ['Expert in theatrics': BJP hits out at Rahul over protest 'drama' at Akashvani Bhawan](https://timesofindia.indiatimes.com/india/expert-in-theatrics-bjp-its-out-at-rahul-gandhi-over-protest-drama-row-over-meeting-ec/articleshow/134746881.cms)
 - [Barricade stunt, 9-hour dharna and detentions: All that happened at oppn's CEC protest](https://timesofindia.indiatimes.com/india/barricade-stunt-chips-9-hour-dharna-and-detentions-all-that-happened-at-rahul-gandhi-led-cec-protest/articleshow/134746114.cms)
 - ['Unusual request': EC explains why it could not meet Rahul Gandhi-led opposition MPs](https://timesofindia.indiatimes.com/india/unusual-request-ec-explains-why-it-could-not-meet-rahul-gandhi-led-opposition-mps/articleshow/134744625.cms)
+- [Astronomers find ‘phoenix planet’ born from ashes of a dying star](https://timesofindia.indiatimes.com/science/astronomers-find-phoenix-planet-born-from-ashes-of-a-dying-star/articleshow/134749586.cms)
 - [4.9-magnitude earthquake hits Uttarakhand's Chamoli, tremors felt in Delhi-NCR](https://timesofindia.indiatimes.com/india/earthquake-tremors-felt-in-delhi-ncr/articleshow/134746208.cms)
-- [‘We won't be marking Messi’: Benin defender’s message ahead of icon’s farewell](https://timesofindia.indiatimes.com/sports/football/top-stories/we-would-not-be-marking-messi-benin-defenders-heartwarming-message-ahead-of-argentina-icons-farewell/articleshow/134746913.cms)
-- ['Expert in theatrics': BJP hits out at Rahul over protest 'drama' at Akashvani Bhawan](https://timesofindia.indiatimes.com/india/expert-in-theatrics-bjp-its-out-at-rahul-gandhi-over-protest-drama-row-over-meeting-ec/articleshow/134746881.cms)
 - [SpaceX overpumped 128M gallons of groundwater; now Texas city has to pay $175,000](https://timesofindia.indiatimes.com/technology/tech-news/spacexs-rocket-testing-plant-overpumped-128-million-gallons-of-groundwater-in-three-years-now-this-texas-city-has-to-pay-175000-in-penalties-and-fund-a-new-monitoring-system/articleshow/134743244.cms)
-- [As US-India ties face turbulence, American lawmakers honor pilot's courage](https://timesofindia.indiatimes.com/world/us/amid-turbulence-in-us-india-ties-american-lawmakers-honor-pilots-courage/articleshow/134747236.cms)
+- [British Indian peer Lord Ranger wins right to judicial review of CBE annulment](https://timesofindia.indiatimes.com/world/uk/british-indian-peer-lord-ranger-wins-right-to-judicial-review-of-cbe-annulment/articleshow/134749624.cms)
 - [Florida mom rides 7,000 miles across 48 states, donates $17,560 to family support home](https://timesofindia.indiatimes.com/world/us/a-florida-woman-rode-7000-miles-through-48-states-in-six-days-then-donated-17560-to-the-house-that-supported-her-when-her-2-pound-newborn-spent-nearly-three-months-in-intensive-care/articleshow/134727089.cms)
-- ['I am already sleepy': Jet-lagged Shreyas Iyer's candid reply after maiden T20I ton](https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/i-am-already-sleepy-jet-lagged-shreyas-iyers-candid-reply-after-match-winning-maiden-t20i-century/articleshow/134746869.cms)
-- [Pakistan successfully test-fires extended version of Fatah-4 cruise missile](https://timesofindia.indiatimes.com/world/pakistan/pakistan-successfully-test-fires-extended-version-of-fatah-4-cruise-missile/articleshow/134746903.cms)
+- [As US-India ties face turbulence, American lawmakers honor pilot's courage](https://timesofindia.indiatimes.com/world/us/amid-turbulence-in-us-india-ties-american-lawmakers-honor-pilots-courage/articleshow/134747236.cms)
+- [Jammu and Kashmir: Arms & drugs seized in cross-border smuggling case; 4 held](https://timesofindia.indiatimes.com/india/jammu-and-kashmir-arms-drugs-seized-in-cross-border-smuggling-case-4-held/articleshow/134749535.cms)
 
 **NDTV**
 - [Uttarakhand Earthquake Live Updates: 4.9-Magnitude Earthquake Hits Uttarakhand, Tremors Felt In Delhi](https://www.ndtv.com/delhi-news/delhi-earthquake-today-ncr-earthquakes-tremors-noida-gurgaon-uttarakhand-uttar-pradesh-12147969#publisher=newsstand)
@@ -56,22 +56,22 @@
 - [ತೋಟದಲ್ಲಿ ಇರುವೆ ಮಣ್ಣಿನ ಗುಡ್ಡೆ ಕಾಟವೇ? ಗಿಡಗಳಿಗೆ ಹಾನಿಯಾಗದಂತೆ ನಿವಾರಿಸಲು ಸುಲಭ ವಿಧಾನಗಳು](https://vijaykarnataka.com/lifestyle/home-decor/how-to-remove-ant-mounds-from-lawn-garden/articleshow/134746147.cms)
 - [India T20i Team- ಕಿವೀಸ್ ಪ್ರವಾಸಕ್ಕೆ RCB ಹೀರೋ! ಭಾರತ ತಂಡಕ್ಕೆ ಭುವನೇಶ್ವರ್ ಕುಮಾರ್ ಕಂಬ್ಯಾಕ್! ರಿಷಬ್ ಪಂತ್ `ಎ' ತಂಡದಲ್ಲೂ ಡೌಟ್](https://vijaykarnataka.com/sports/cricket/news/bhuvneshwar-kumar-comeback-to-india-t2oi-squad-against-new-zealand-rishab-pant-doubt-in-a-team/articleshow/134745071.cms)
 - [BBK 13 ಕಪಟ ಕಳ್ಳ ಯಶಸ್‌: ಮಂಜನ ದೂರು ಆಸಿಯಾ ವರೆಗೂ ತಲುಪಿತು!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-day-30-episode-31-yashas-the-deceitful-one-manjas-complaint-has-reach-aasiya-firdose/articleshow/134748676.cms)
-- [ಮನೆಯಲ್ಲಿ ಉಳಿದ ಇಡ್ಲಿ ಎಸೆಯಬೇಡಿ; ಹೀಗೆ ಮಾಡಿ ಮಸಾಲಾ ಇಡ್ಲಿ ಫ್ರೈ, ರುಚಿ ಸೂಪರ್!](https://vijaykarnataka.com/lifestyle/home-decor/masala-idli-fry-recipe-leftover-idli/articleshow/134697040.cms)
+- [ಶೂ ಬಾಕ್ಸ್‌ನಲ್ಲಿರುವ ಸಿಲಿಕಾ ಜೆಲ್ ಪ್ಯಾಕೆಟ್ ಎಸೆಯಬೇಡಿ; ಮನೆಯಲ್ಲೂ ಹೀಗೆ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/silica-gel-packets-shoe-box-home-uses/articleshow/134651205.cms)
 - [Garuda Purana: ನಿಮ್ಮ ಆತ್ಮ ಹಳೆಯದೇ ಅಥವಾ ಹೊಸದೇ.?](https://vijaykarnataka.com/religion/hinduism/garuda-purana-these-signs-indicate-whether-your-soul-is-old-or-new/articleshow/134742133.cms)
 - [ಸ್ತನ ಕ್ಯಾನ್ಸರ್: ಗಡ್ಡೆ ಹೊರತಾಗಿ ಕಾಣಿಸಿಕೊಳ್ಳುವ ಈ ಲಕ್ಷಣಗಳನ್ನು ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ](https://vijaykarnataka.com/lifestyle/health/breast-cancer-awareness-month-2026-warning-signs-beyond-lump/articleshow/134733101.cms)
 - [Ind Vs Wi T20i- ಲಖನೌನಲ್ಲಿ ಸ್ಪಿನ್ನರ್ ಗಳ ವಿರುದ್ಧ ವಿಂಡೀಸ್ ಪರದಾಟ; ಬಳಿಕ ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ನಾಯಕನಾಟ! ಇಲ್ಲಿದೆ ಹೈಲೈಟ್ಸ್](https://vijaykarnataka.com/sports/cricket/news/shreyas-iyer-century-india-beat-west-indies-by-8-wickets/articleshow/134745753.cms)
 
 **The Hindu**
+- [Act against illegal resorts and homestays in tiger reserves: Ramalinga Reddy](https://www.thehindu.com/news/national/karnataka/act-against-illegal-resorts-and-homestays-in-tiger-reserves-ramalinga-reddy/article71551839.ece)
+- [Milk price in Karnataka may go up by ₹8, but only after Legislative Council polls](https://www.thehindu.com/news/national/karnataka/milk-price-in-karnataka-may-go-up-by-8-but-only-after-legislative-council-polls/article71552764.ece)
+- [Tremors felt across Delhi-NCR as 4.9-magnitude quake hits Uttarakhand’s Chamoli](https://www.thehindu.com/news/national/tremors-felt-across-delhi-ncr-as-49-magnitude-quake-hits-uttarakhands-chamoli/article71553036.ece)
 - [Vellore police hands over missing phones to owners](https://www.thehindu.com/news/national/tamil-nadu/vellore-police-hands-over-missing-phones-to-owners/article71551307.ece)
+- [CM Samrat Choudhary directs officials to submit detailed report on flood damage in Bihar](https://www.thehindu.com/news/national/bihar/cm-samrat-choudhary-directs-officials-to-submit-detailed-report-on-flood-damage-in-bihar/article71552720.ece)
 - [RPF, Nemili police seize 16 kg of ganja in separate cases; four persons held](https://www.thehindu.com/news/national/tamil-nadu/rpf-nemili-police-seize-16-kg-of-ganja-in-separate-cases-four-persons-held/article71551300.ece)
 - [Burglars decamp with 30 sovereigns of gold, ₹5 lakh in Ranipet](https://www.thehindu.com/news/national/tamil-nadu/burglars-decamp-with-30-sovereigns-of-gold-5-lakh-in-ranipet/article71551303.ece)
 - [SIR: BLOs being forced to accept Form-7s without signature of applicants](https://www.thehindu.com/news/national/telangana/sir-blos-being-forced-to-accept-form-7s-without-signature-of-applicants/article71552172.ece)
 - [Case registered against BJP booth-level agent over alleged attempt to delete names of 30 voters in Musheerabad](https://www.thehindu.com/news/cities/Hyderabad/case-registered-against-bjp-booth-level-agent-over-alleged-attempt-to-delete-names-of-30-voters-in-musheerabad/article71552777.ece)
 - [Shree Cement plans ₹6,700 crore investments in A.P.: Minister](https://www.thehindu.com/news/national/andhra-pradesh/shree-cement-plans-6700-crore-investments-in-ap-minister/article71552026.ece)
-- [Rahul calls SIR ‘treason’ as INDIA unites against ECI; MPs detained](https://www.thehindu.com/news/national/leader-of-opposition-in-lok-sabha-rahul-gandhi-during-cec-protest/article71551240.ece)
-- [CEC row updates: Rahul Gandhi, other Congress leaders  released from detention](https://www.thehindu.com/news/national/cec-row-protest-against-gyanesh-kumar-india-bloc-march-election-commission-sir-issue-live-updates-october-6-2026/article71549790.ece)
-- [Not a single traitor will be spared: Rahul after his forcible removal from sit-in, detention](https://www.thehindu.com/news/national/opposition-march-to-election-commission-of-india-demanding-gyanesh-kumars-resignation-on-october-6-2026/article71550384.ece)
-- [Tremors felt across Delhi-NCR as 4.9-magnitude quake hits Uttarakhand’s Chamoli](https://www.thehindu.com/news/national/tremors-felt-across-delhi-ncr-as-49-magnitude-quake-hits-uttarakhands-chamoli/article71553036.ece)
 
 **Livemint**
 - [‘Layoff was a blessing’: Indian woman in Canada says job loss made her rethink life beyond 9-to-5](https://www.livemint.com/news/trends/layoff-was-a-blessing-indian-woman-in-canada-says-job-loss-made-her-rethink-life-beyond-9to5-11791309620641.html)
@@ -88,6 +88,9 @@
 **Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
+- [ಸಿಎಂಐಡಿಪಿ ಯೋಜನೆಯಲ್ಲಿ ತಾರತಮ್ಯ ಆರೋಪ; ಪಿಐಎಲ್‌ಗೆ ಆಕ್ಷೇಪಣೆ ಸಲ್ಲಿಸದ ಸರ್ಕಾರಕ್ಕೆ 2 ಸಾವಿರ ರೂ. ದಂಡ](https://www.varthabharati.in/bangalore-city/high-court-2280784)
+- [ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ರಾಜೀನಾಮೆಗೆ ಆಗ್ರಹ; ಹುಬ್ಬಳ್ಳಿಯಲ್ಲಿ ಯುವ ಕಾಂಗ್ರೆಸ್ ಕಾರ್ಯಕರ್ತರ ಧರಣಿ](https://www.varthabharati.in/dharwad/hubballi-2280783)
+- [Mysuru | ಬರಗಾಲದಲ್ಲಿ ಕಂಬಳ ಆಯೋಜಿಸಿರುವ ಸರಕಾರದ ನಡೆ ಖಂಡಿಸಿ ಪ್ರತಿಭಟನೆ](https://www.varthabharati.in/mysore/mysuru-2280782)
 - [Bengaluru | ವಂಚನೆ ಆರೋಪ; ಆರ್‌ಟಿಐ ಕಾರ್ಯಕರ್ತನ ಬಂಧನ](https://www.varthabharati.in/bangalore-city/bengaluru-2280781)
 - [ಸರಕಾರದಿಂದ ಕೆಐಎಡಿಬಿಗೆ 825 ಕೋಟಿ ರೂ. ಅನುದಾನ ಬಾಕಿ : ಡಾ.ಎಲ್.ಹನುಮಂತಯ್ಯ](https://www.varthabharati.in/bengaluru/dr-l-hanumanthaiah-2280779)
 - [ಬೆಂಗಳೂರಿನಲ್ಲಿ 12 ಕಿ.ಮೀ. 220ಕೆವಿ ಮಲ್ಟಿ ಸರ್ಕ್ಯೂಟ್ ಪ್ರಸರಣ ಮಾರ್ಗ ಯಶಸ್ವಿ ಕಾರ್ಯಾರಂಭ](https://www.varthabharati.in/bengaluru/bengaluru-2280778)
@@ -95,9 +98,6 @@
 - [ಅ.8ರಂದು ಬೆಂಗಳೂರಿನಲ್ಲಿ CJPಯಿಂದ ಪತ್ರಕರ್ತೆಯರ ಪರ ‘ಚಪ್ಪಲಿ ಪ್ರತಿಭಟನೆ’](https://www.varthabharati.in/National/chappal-protest-for-women-cjp-announces-bengaluru-action-on-october-8-2280775)
 - [ಚನ್ನಪಟ್ಟಣ ಸರಕಾರಿ ಆಸ್ಪತ್ರೆಗೆ ಆರೋಗ್ಯ ಸಚಿವ ಯು.ಟಿ.ಖಾದರ್ ಅನಿರೀಕ್ಷಿತ ಭೇಟಿ](https://www.varthabharati.in/bangalore-city/ut-khader-2280774)
 - [ಪತ್ರಿಕೋದ್ಯಮ ವಿಭಾಗಗಳ ಬಲವರ್ಧನೆ ಅಗತ್ಯ : ಆಯೇಶಾ ಖಾನಂ](https://www.varthabharati.in/bangalore-city/ayesha-khanam-2280773)
-- [ನಟ ಅಂಬರೀಶ್‍ಗೆ ಮರಣೋತ್ತರ ‘ಕರ್ನಾಟಕ ರತ್ನ’ ಪ್ರಶಸ್ತಿ ನೀಡಿ : ರಾಮಲಿಂಗಾರೆಡ್ಡಿ](https://www.varthabharati.in/bangalore-city/ramalingareddy-2280772)
-- [Bengaluru | ನಕಲಿ ಔಷಧಿ ದಂಧೆ: ಮೂರು ಫಾರ್ಮಾಗಳ ಮೇಲೆ ಎಸ್‍ಐಟಿ ದಾಳಿ](https://www.varthabharati.in/bangalore-city/bengaluru-2280780)
-- [ಹೆಚ್ಚುವರಿಯಾಗಿ 1,117 ಸಹಾಯಕ ಚುನಾವಣಾ ನೋಂದಣಾಧಿಕಾರಿಗಳ ನೇಮಕ : ಶಿಲ್ಪಾ ನಾಗ್](https://www.varthabharati.in/bangalore-city/-1117--2280770)
 
 **Asianet Kannada**
 - [14000 ಫಾಲೋವರ್ಸ್ ನಂಬಿ ₹60,000 ಸಂಬಳಕ್ಕೆ ವಿದಾಯ; ಇವತ್ತು ಈ ಹುಡುಗಿಯ ಸ್ಥಿತಿ ಏನಾಗಿದೆ?](https://kannada.asianetnews.com/india-news/delhi-girl-earns-1-12-lakh-with-14k-followers-after-quitting-60k-job-content-creator-news/articleshow-g53atgp)
@@ -126,6 +126,7 @@
 - [ಜಿಂಬಾಬ್ವೆ ವಿರುದ್ಧದ ಟಿ20, ಏಕದಿನ ಸರಣಿಗೆ ಭಾರತ ಮಹಿಳಾ ತಂಡ ಪ್ರಕಟ](https://tv9kannada.com/sports/cricket-news/smriti-mandhana-leads-india-women-team-vs-zimbabwe-t20-odi-series-squads-1247324.html)
 
 **Prajavani**
+- [ಬೆಂಗಳೂರು | ವಿದ್ಯುತ್ ಪರಿವರ್ತಕ ಸ್ಫೋಟ: ನಾಲ್ವರಿಗೆ ಗಾಯ](https://www.prajavani.net/news/karnataka-news/bengaluru-transformer-blast-four-injured-benniganahalli-4312397)
 - [ಫ್ಲಿಪ್‌ಕಾರ್ಟ್‌ ‘ಬಿಗ್ ಬಿಲಿಯನ್ ಡೇಸ್‌’ ಮಾರಾಟ ಮೇಳ: ಅಕ್ಟೋಬರ್‌ 9ರಿಂದ ಮಾರಾಟ](https://www.prajavani.net/business/commerce-news/flipkart-big-billion-days-sale-starts-october-4312380)
 - [ಕೆಪಿಎಸ್ಸಿ ಹಗರಣ: ಮಾಜಿ ಅಧ್ಯಕ್ಷ ಶಿವಶಂಕರಪ್ಪ ಸಾಹುಕಾರ ಇ.ಡಿ. ವಶ](https://www.prajavani.net/district/bengaluru-city/kpsc-scam-ed-custody-shivashankarappa-sahoukar-arrest-4312212)
 - [ಟಿ20 ಕ್ರಿಕೆಟ್: ವೆಸ್ಟ್ ಇಂಡೀಸ್ ಎದುರು ಭಾರತಕ್ಕೆ ಗೆಲುವು](https://www.prajavani.net/sports/cricket/india-vs-west-indies-first-t-twenty-toss-report-naman-dhir-debut-4311441)
@@ -135,7 +136,6 @@
 - [ಆಯ್ಕೆ ಸಮಿತಿಯಿಂದ ಅಗರ್ಕರ್ ನಿರ್ಗಮನ: 4 ವರ್ಷಗಳ ಬಳಿಕ ಭಾರತ ತಂಡಕ್ಕೆ ಭುವಿ](https://www.prajavani.net/sports/cricket/bhuvneshwar-kumar-returns-to-indian-team-for-new-zealand-t20-series-4312265)
 - [ಸಿಇಸಿ ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ರಾಜೀನಾಮೆಗೆ ಒತ್ತಾಯಿಸಿ ಬೀದಿಗಿಳಿದ ‘ಇಂಡಿಯಾ’ ನಾಯಕರು](https://www.prajavani.net/news/india-news/india-bloc-leaders-protest-seeking-cec-resignation-rahul-priyanka-detained-4312192)
 - [ಕಸಾಪ: ಆಡಳಿತಾಧಿಕಾರಿ ನೇಮಕ ಪ್ರಶ್ನಿಸಿ ಮಹೇಶ್‌ ಜೋಶಿ ಸಲ್ಲಿಸಿದ್ದ ಅರ್ಜಿ ವಜಾ](https://www.prajavani.net/district/bengaluru-city/high-court-dismisses-mahesh-joshi-petition-kasapa-administrator-4312135)
-- [ಚೆನ್ನೈ: ಶಾಂತಿಯುತವಾಗಿ ನಡೆದ ಉಪಚುನಾವಣೆ](https://www.prajavani.net/news/india-news/peaceful-assembly-and-lok-sabha-by-elections-held-4312097)
 
 **eedina**
 - [ಮಂಗಳೂರು | 350 ಪೊಲೀಸ್ ಠಾಣೆಗಳಲ್ಲಿ ಹುಡುಕಿದರೂ ‘ಲವ್ ಜಿಹಾದ್’ ದೂರು ಸಿಗಲಿಲ್ಲ : ಎಂ.ಜಿ. ಹೆಗಡೆ](https://eedina.com/?p=770814)
@@ -150,35 +150,35 @@
 - [ಚಿಕ್ಕಮಗಳೂರು | ಸಾಮಾಜಿಕ ಜಾಲತಾಣ; ಶಾಸಕ ಟಿ.ಡಿ ರಾಜೇಗೌಡರಿಗೆ ಅವಹೇಳನ, ಬೆದರಿಕೆ; ಪ್ರಕರಣ ದಾಖಲು](https://eedina.com/?p=770781)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Rahul (7.1)
 - Delhi-NCR (5.2)
+- Indian (4.5)
+- Rahul (4.2)
 - Uttarakhand (4.2)
-- INDIA (4.2)
-- Indian (4.2)
 - Tremors (3.2)
 - Delhi (2.9)
 - India (2.9)
+- INDIA (2.9)
 - What (2.6)
-- Congress (2.6)
-- Bengaluru (2.6)
 - Uttarakhand's Chamoli (2.0)
 - Captain Smit Machchhar (2.0)
 - Chamoli (1.9)
 - Magnitude (1.6)
+- Released (1.6)
+- France (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [8-வது ஊதியக் குழு; மத்திய அரசு ஊழியர்களின் ஊதியத்தில் மிகப்பெரிய மாற்றம்.. அகவிலைப்படி நிலை என்ன? | 8th Pay Commission](https://tamil.news18.com/photogallery/business/8th-pay-commission-11-months-report-deadline-fitment-factor-salary-arrears-2027-snk-ws-b-2224337.html)
-- [मुंबई में ही रहेंगे आदित्‍य धर और यामी गौतम, हिमाचल प्रदेश में नहीं हो रहे श‍िफ्ट, फिल्ममेकर की टीम का जवाब](https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/yami-gautam-and-aditya-dhar-to-stay-in-mumbai-no-permanent-shifting-to-himachal-pradesh-clarifies-filmmakers-team/articleshow/134726017.cms)
-- [World News Today Live Updates: Flydubai co-pilot completed portion of flight training in New Zealand, say police](https://indianexpress.com/article/world/world-news-today-live-updates-yemen-houthis-saudi-arabia-riyadh-airport-israel-benjamin-netanyahu-flydubai-us-iran-war-hormuz-donald-trump-10908340/)
-- [Flydubai Flight: ఫ్లైదుబాయ్ విమానాన్ని కూల్చేందుకు సిద్ద‌మైన ఇజ్రాయెల్ !](https://www.ntnews.com/international/israeli-sources-tell-cbs-news-that-israel-was-ready-to-shoot-down-flydubai-flight-1073-with-all-passengers-onboard-2528454)
-- [ഇന്ത്യ മാപ്പ് പറയണമെന്ന ആവശ്യം തള്ളി; വേൾഡ് ചാമ്പ്യൻഷിപ്പ് ഓഫ് ലെജൻഡ്‌സിൽ നിന്ന് പിന്മാറി പാകിസ്താൻ](https://www.mathrubhumi.com/sports/cricket/pakistan-withdraws-world-championship-of-legends-india-apology-msx5zjyc)
-- ['दुबई के मुसलमान अच्छे, पाकिस्तान के क्यों नहीं', मीका सिंह ने उठाया सवाल](https://www.aajtak.in/entertainment/bollywood-news/story/mika-singh-raises-question-ubai-muslims-good-why-not-pakistan-tmovg-dskc-2662301-2026-10-06)
-- [Drishyam: "मी जिवंत असतो तर...", 'दृश्यम'मधला सॅम म्हणाला- "अजय देवगणला मी भेटलो नाही, पण..."](https://www.lokmat.com/filmy/bollywood/drishyam-fame-sam-aka-actor-rishabh-chaddha-said-i-wish-i-could-alive-in-movie-after-drishyam-3-released-a-a971/)
-- ['ज्ञानेश कुमार, राजीनामा द्या'; राहुल गांधींच्या नेतृत्वात दिल्लीत इंडिया आघाडीचा मोर्चा](https://www.bbc.com/marathi/articles/cm2l49jezd1po)
-- [தலைமைத் தேர்தல் ஆணையர் ஞானேஷ் குமார் பதவி விலக கோரி பேரணியில் ஈடுபட்ட எதிர்க்கட்சி தலைவர் ராகுல் காந்தி, பிரியங்கா காந்தி கைது!](https://www.dinakaran.com/news/india-bloc-parties-march-towards-electioncommission/)
-- [Workers' body writes to Maharashtra CM demanding legal action, inquiry against makers of Pati Patni Aur Panga 2 after on-set fire](https://www.hindustantimes.com/entertainment/tv/workers-body-aicwa-maharashtra-cm-demanding-legal-action-inquiry-against-makers-of-pati-patni-aur-panga-2-after-on-set-fire-hustle-101791266993838.html)
+- [Gold Silver Rate In Gujarat : ગુજરાતમાં 24K સોનાના ભાવ ₹1.50 લાખની નીચે પટકાયા, જાણો 22K અને 18K ના આજના ભાવ](https://tv9gujarati.com/photo-gallery/gold-silver-rate-today-in-gujarat-on-6-october-2026-check-sona-chandi-price-ahmeadbad-surat-rajkot-1528013.html)
+- [NASA Backs Mission to Probe Moon Lava Tube](https://stratnewsglobal.com/technology/nasa-gimli-moon-lava-tube-marius-hills-pit/)
+- [Manchu Vishnu: హాట్ టాపిక్‌గా చుట్టమల్లె సాంగ్.. డీప్‌ఫేక్‌ వీడియోస్, ఆన్‌లైన్‌ వేధింపులపై మంచు విష్ణు రియాక్షన్](https://telugu.news18.com/news/movies/vishnu-manchu-calls-for-industry-wide-system-against-deepfakes-and-online-abuse-slb-3240875.html)
+- [উৎসবের মরসুমে ফের চাঁদার জুলুমের অভিযোগ এক ব্যবসায়ীকে](https://eisamay.com/west-bengal-news/24pargana-news/allegations-of-forced-extortion-during-durga-puja-season-businessman-slapped/200551780.cms)
+- [નવરાત્રીના ગણતરીના દિવસો બાકી છતાં ફાયર પરવાનગી માટે આયોજકોની ઉદાસીનતા : સુરત પાલિકાની કડક ગાઈડલાઈન છતાં આયોજકો નિષ્ક્રિય](https://www.gujaratsamachar.com/news/surat/even-though-navratri-is-just-a-few-days-away-organizers-are-indifferent-to-fire-permits-despite-strict-guidelines-from-surat-municipality-organizers-are-inactive-26308932201)
+- [Israel prepared to shoot down FlyDubai plane after cockpit attack: CBS](https://www.arabnews.com/middle-east/israel-prepared-to-shoot-down-flydubai-plane-after-cockpit-attack-cbs-3004834)
+- [তরুণদের মধ্যে দ্রুত বাড়ছে ক্যানসার, গবেষণায় মিললো চাঞ্চল্যকর তথ্য](https://www.bvnews24.com/health-medical/news/217695)
+- [മുഖ്യമന്ത്രിക്കെതിരായ അടൂർ പ്രകാശിന്റെ പരാതി; എഐസിസിയുടെ പ്രതികരണം കാത്ത് നേതാക്കൾ](https://www.twentyfournews.com/2026/10/06/adoor-prakashs-complaint-against-the-chief-minister-leaders-await-aiccs-response.html)
+- [Flydubai Hero Pilot : దాడిలో ఫ్లైదుబాయ్ పైలట్ కు పగిలిన పుర్రె ..అత్యవసర శస్త్రచికిత్స](https://vaartha.com/national/flydubai-hero-pilot-skull-fracture-emergency-surgery/786717/)
+- [CJP नेताओं को पुलिस ने भेजे नोटिस, अभिजीत दीपके बोले- 'आंदोलन में न जाने का दबाव...'](https://www.abplive.com/news/india/cockroach-janta-party-abhijeet-dipke-police-notices-leaders-arrest-claim-october-10-jantar-mantar-protest-3198345)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
