@@ -1,16 +1,16 @@
-# India Trending Report — 2026-10-06 22:37:29
+# India Trending Report — 2026-10-06 23:02:03
 
 ## Google Trends (India) — top trending searches
-1. [spain vs argentina](https://trends.google.com/trending/rss?geo=IN)
-2. [ऑस्ट्रेलिया ए क्रिकेट टीम](https://trends.google.com/trending/rss?geo=IN)
-3. [mikel merino](https://trends.google.com/trending/rss?geo=IN)
-4. [hannibal](https://trends.google.com/trending/rss?geo=IN)
-5. [belarus vs finland](https://trends.google.com/trending/rss?geo=IN)
-6. [કરોડ](https://trends.google.com/trending/rss?geo=IN)
-7. [street fighter movie](https://trends.google.com/trending/rss?geo=IN)
-8. [abhishek bachchan](https://trends.google.com/trending/rss?geo=IN)
-9. [scout op](https://trends.google.com/trending/rss?geo=IN)
-10. [scotland vs slovenia](https://trends.google.com/trending/rss?geo=IN)
+1. [israel](https://trends.google.com/trending/rss?geo=IN)
+2. [spain vs argentina](https://trends.google.com/trending/rss?geo=IN)
+3. [ऑस्ट्रेलिया ए क्रिकेट टीम](https://trends.google.com/trending/rss?geo=IN)
+4. [mikel merino](https://trends.google.com/trending/rss?geo=IN)
+5. [hannibal](https://trends.google.com/trending/rss?geo=IN)
+6. [belarus vs finland](https://trends.google.com/trending/rss?geo=IN)
+7. [કરોડ](https://trends.google.com/trending/rss?geo=IN)
+8. [street fighter movie](https://trends.google.com/trending/rss?geo=IN)
+9. [abhishek bachchan](https://trends.google.com/trending/rss?geo=IN)
+10. [scout op](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -22,8 +22,8 @@
 - [SpaceX overpumped 128M gallons of groundwater; now Texas city has to pay $175,000](https://timesofindia.indiatimes.com/technology/tech-news/spacexs-rocket-testing-plant-overpumped-128-million-gallons-of-groundwater-in-three-years-now-this-texas-city-has-to-pay-175000-in-penalties-and-fund-a-new-monitoring-system/articleshow/134743244.cms)
 - [CBI raids CM Bhagwant Mann’s camp office, his OSD’s home in graft probe](https://timesofindia.indiatimes.com/india/cbi-raids-cm-bhagwant-manns-camp-office-his-osds-home-in-graft-probe/articleshow/134749798.cms)
 - [Man deposits Rs 85.3 lakh given to him as cash gifts, gets notice; ITAT gives relief](https://timesofindia.indiatimes.com/business/india-business/man-deposits-rs-85-3-lakh-received-as-cash-gifts-from-wife-relatives-income-tax-calls-it-unexplained-and-sends-notice-but-itat-chennai-accepts-gift-deeds-and-gives-relief/articleshow/134743903.cms)
+- [Congress itself, not EC, responsible for its losses: BJP](https://timesofindia.indiatimes.com/india/congress-itself-not-ec-responsible-for-its-losses-bjp/articleshow/134752409.cms)
 - [ED unearths bribe racket involving top executives of 40 PSUs, banks & companies](https://timesofindia.indiatimes.com/india/ed-unearths-bribe-racket-involving-top-executives-of-40-psus-banks-companies/articleshow/134749954.cms)
-- [Amid Canada trade talks, NSAs discuss security coop](https://timesofindia.indiatimes.com/india/amid-canada-trade-talks-nsas-discuss-security-coop/articleshow/134750010.cms)
 
 **NDTV**
 - [Ex-CIA Official Accused Of Stealing $40 Million In Gold Bars Pleads Guilty](https://www.ndtv.com/world-news/ex-cia-official-accused-of-stealing-40-million-in-gold-bars-pleads-guilty-12148503#publisher=newsstand)
@@ -56,12 +56,14 @@
 - [ತೋಟದಲ್ಲಿ ಇರುವೆ ಮಣ್ಣಿನ ಗುಡ್ಡೆ ಕಾಟವೇ? ಗಿಡಗಳಿಗೆ ಹಾನಿಯಾಗದಂತೆ ನಿವಾರಿಸಲು ಸುಲಭ ವಿಧಾನಗಳು](https://vijaykarnataka.com/lifestyle/home-decor/how-to-remove-ant-mounds-from-lawn-garden/articleshow/134746147.cms)
 - [India T20i Team- ಕಿವೀಸ್ ಪ್ರವಾಸಕ್ಕೆ RCB ಹೀರೋ! ಭಾರತ ತಂಡಕ್ಕೆ ಭುವನೇಶ್ವರ್ ಕುಮಾರ್ ಕಂಬ್ಯಾಕ್! ರಿಷಬ್ ಪಂತ್ `ಎ' ತಂಡದಲ್ಲೂ ಡೌಟ್](https://vijaykarnataka.com/sports/cricket/news/bhuvneshwar-kumar-comeback-to-india-t2oi-squad-against-new-zealand-rishab-pant-doubt-in-a-team/articleshow/134745071.cms)
 - [BBK 13 ಜಗ್ಗಮಮ್ಮಿ ರಾಕ್ಷಸತನ: ಕೆಟ್ಟ ಮನಸ್ಥಿತಿಗಳ ನಡುವೆ ಕೆಟ್ಟ ಜಗದೀಶ ಆಗಿದ್ದೀನಿ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-episode-31-monstrous-side-amidst-toxic-mindsets-jagadeesh-have-become-the-bad/articleshow/134749978.cms)
-- [ಶೂ ಬಾಕ್ಸ್‌ನಲ್ಲಿರುವ ಸಿಲಿಕಾ ಜೆಲ್ ಪ್ಯಾಕೆಟ್ ಎಸೆಯಬೇಡಿ; ಮನೆಯಲ್ಲೂ ಹೀಗೆ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/silica-gel-packets-shoe-box-home-uses/articleshow/134651205.cms)
+- [ಮನೆಯಲ್ಲಿ ಉಳಿದ ಇಡ್ಲಿ ಎಸೆಯಬೇಡಿ; ಹೀಗೆ ಮಾಡಿ ಮಸಾಲಾ ಇಡ್ಲಿ ಫ್ರೈ, ರುಚಿ ಸೂಪರ್!](https://vijaykarnataka.com/lifestyle/home-decor/masala-idli-fry-recipe-leftover-idli/articleshow/134697040.cms)
 - [Garuda Purana: ನಿಮ್ಮ ಆತ್ಮ ಹಳೆಯದೇ ಅಥವಾ ಹೊಸದೇ.?](https://vijaykarnataka.com/religion/hinduism/garuda-purana-these-signs-indicate-whether-your-soul-is-old-or-new/articleshow/134742133.cms)
 - [ಸ್ತನ ಕ್ಯಾನ್ಸರ್: ಗಡ್ಡೆ ಹೊರತಾಗಿ ಕಾಣಿಸಿಕೊಳ್ಳುವ ಈ ಲಕ್ಷಣಗಳನ್ನು ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ](https://vijaykarnataka.com/lifestyle/health/breast-cancer-awareness-month-2026-warning-signs-beyond-lump/articleshow/134733101.cms)
 - [Ind Vs Wi T20i- ಲಖನೌನಲ್ಲಿ ಸ್ಪಿನ್ನರ್ ಗಳ ವಿರುದ್ಧ ವಿಂಡೀಸ್ ಪರದಾಟ; ಬಳಿಕ ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ನಾಯಕನಾಟ! ಇಲ್ಲಿದೆ ಹೈಲೈಟ್ಸ್](https://vijaykarnataka.com/sports/cricket/news/shreyas-iyer-century-india-beat-west-indies-by-8-wickets/articleshow/134745753.cms)
 
 **The Hindu**
+- [Karnataka Chief Minister leaves for Delhi ahead of GST Council meeting](https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-leaves-for-delhi-ahead-of-gst-council-meeting/article71551971.ece)
+- [CJP’s Dipke chides Maharashtra Police over alleged notices to workers](https://www.thehindu.com/news/national/cjp-activists-getting-police-notices-being-pressured-not-to-join-october-10-delhi-protest-abhijit-dipke/article71550853.ece)
 - [NDA wins 34 of 42 Silchar Municipal Corporation seats](https://www.thehindu.com/news/national/assam/nda-wins-34-of-42-silchar-municipal-corporation-seats/article71552428.ece)
 - [Passenger bus, running under recently launched M.P. govt service, gutted in fire; passengers evacuated safely](https://www.thehindu.com/news/national/madhya-pradesh/passenger-bus-running-under-recently-launched-mp-govt-service-gutted-in-fire-passengers-evacuated-safely/article71552814.ece)
 - [About 76% voter turnout in Nagaon Lok Sabha bypoll](https://www.thehindu.com/news/national/assam/about-76-voter-turnout-in-nagaon-lok-sabha-bypoll/article71552134.ece)
@@ -70,8 +72,6 @@
 - [Gajendra Singh Patel accuses Hemant Soren government of encouraging infiltration in Jharkhand](https://www.thehindu.com/news/national/jharkhand/gajendra-singh-patel-accuses-hemant-soren-government-of-encouraging-infiltration-in-jharkhand/article71551510.ece)
 - [Kerala High Court sets aside detention order of Thiruvananthapuram councillor R. Sugathan](https://www.thehindu.com/news/national/kerala/kerala-high-court-sets-aside-detention-order-of-thiruvananthapuram-councillor-r-sugathan/article71552446.ece)
 - [Ladli Behna scheme has turned out to be ‘very expensive’, says Madhya Pradesh CM](https://www.thehindu.com/news/national/madhya-pradesh/ladli-behna-scheme-has-turned-out-to-be-very-expensive-says-madhya-pradesh-cm/article71552264.ece)
-- [Act against illegal resorts and homestays in tiger reserves: Ramalinga Reddy](https://www.thehindu.com/news/national/karnataka/act-against-illegal-resorts-and-homestays-in-tiger-reserves-ramalinga-reddy/article71551839.ece)
-- [Milk price in Karnataka may go up by ₹8, but only after Legislative Council polls](https://www.thehindu.com/news/national/karnataka/milk-price-in-karnataka-may-go-up-by-8-but-only-after-legislative-council-polls/article71552764.ece)
 
 **Livemint**
 - [Elon Musk Net Worth: How SpaceX and Tesla helped Musk become a trillionaire again after market rally](https://www.livemint.com/news/us-news/elon-musk-net-worth-how-spacex-and-tesla-helped-musk-become-a-trillionaire-again-after-market-rally-11791320544773.html)
@@ -134,7 +134,6 @@
 - [ಜಿಬಿಎ:ಪರಿಣಾಮಕಾರಿಯಾಗಿ ನಿರ್ವಹಿಸಲು ಐದು ಪ್ರತ್ಯೇಕ ಪೊಲೀಸ್‌ ಕಮಿಷನರೇಟ್‌ಗಳ ರಚನೆ](https://www.prajavani.net/news/karnataka-news/greater-bengaluru-area-five-new-police-commissionerates-approved-4312263)
 - [ತೋಳಹುಣಸೆ ರೈಲ್ವೆ ನಿಲ್ದಾಣದ ಬಳಿ ಕಾಮಗಾರಿ: ‘ವಂದೇ ಭಾರತ್’ ಐದು ತಾಸು ವಿಳಂಬ](https://www.prajavani.net/district/davanagere/vande-bharat-train-delayed-due-to-railway-work-near-davangere-4312424)
 - [ಒಮಾನ್‌ನಲ್ಲಿ ವಾಣಿಜ್ಯ ಹಡಗಿನ ಮೇಲೆ ದಾಳಿ : 12 ಮಂದಿ ಭಾರತೀಯರಿಗೆ ಗಾಯ](https://www.prajavani.net/news/india-news/oman-commercial-ship-attack-indian-sailors-injured-4311960)
-- [ಬೆಂಗಳೂರು | ವಿದ್ಯುತ್ ಪರಿವರ್ತಕ ಸ್ಫೋಟ: ನಾಲ್ವರಿಗೆ ಗಾಯ](https://www.prajavani.net/news/karnataka-news/bengaluru-transformer-blast-four-injured-benniganahalli-4312397)
 
 **eedina**
 - [ಮಂಗಳೂರು | 350 ಪೊಲೀಸ್ ಠಾಣೆಗಳಲ್ಲಿ ಹುಡುಕಿದರೂ ‘ಲವ್ ಜಿಹಾದ್’ ದೂರು ಸಿಗಲಿಲ್ಲ : ಎಂ.ಜಿ. ಹೆಗಡೆ](https://eedina.com/?p=770814)
@@ -152,32 +151,32 @@
 - Trump (4.2)
 - Indian (4.2)
 - INDIA (3.9)
+- Congress (2.6)
 - France (2.6)
+- Delhi (2.6)
 - Delhi-NCR (2.6)
 - India (2.6)
 - Mann (1.9)
 - Punjab (1.6)
 - SpaceX (1.6)
-- Canada (1.6)
 - What (1.6)
 - Security (1.6)
 - Made (1.6)
 - Musk (1.6)
-- Ukrainian (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Fundamentals of Quantum Technology](https://www.orfonline.org/expert-speak/fundamentals-of-quantum-technology)
-- [How the world is looking at protests against Election Commission under Gyanesh Kumar](https://www.telegraphindia.com/india/how-the-world-is-looking-at-protests-against-election-commission-under-gyanesh-kumar/cid/2183409)
-- [Physics Nobel Prize: ఫ్రాన్సిస్ హాల్జెన్‌కు ప్రతిష్టాత్మక పురస్కారం](https://vaartha.com/latest-news/physics-nobel-prize-in-physics-has-been-awarded-to-francis-halzen/786876/)
-- [Tamil News Live: இன்றைய முக்கிய செய்திகள்](https://www.maalaimalar.com/news/tamilnadu/today-news-in-tamil-live-updates-6-october-2026)
-- [3 new Supreme Court judges take oath; strength of court rises to 37](https://www.barandbench.com/news/3-new-supreme-court-judges-take-oath-strength-of-court-rises-to-37)
-- [Drishyam The Conclusion vs Drishyam 3: Ajay Devgn And Mohanlal Films Seek Closure, But The Roads Never Meet](https://www.ndtv.com/entertainment/drishyam-the-conclusion-vs-drishyam-3-ajay-devgn-and-mohanlal-films-seek-closure-but-the-roads-never-meet-12145557)
-- [Taking Stock: Pullback continues on second day; Nifty above 22,700, Sensex up 685 pts](https://www.moneycontrol.com/news/business/markets/taking-stock-pullback-continues-on-second-day-nifty-above-22-700-sensex-up-685-pts-14045734.html)
-- [അബുദാബിയിൽ പൊതുസേവന ചെലവ് 30 ശതമാനത്തിലധികം കുറഞ്ഞു; എഐ സാങ്കേതികവിദ്യയിൽ വൻ മുന്നേറ്റമെന്ന് അധികൃതർ](https://www.expresskerala.com/news/public-service-costs-in-abu-dhabi-have-dropped-by-over-30-percent-officials-cite-major-strides-in-ai-technology.html)
-- ["లేఆఫ్స్‌లో 35 లక్షల ఉద్యోగం పోయినా.. అతని ముందు చూపుతో నెలకు 93 వేల ఆదాయం వస్తోంది"](https://telugu.samayam.com/business/business-news/rs-35-lpa-job-loss-layoffs-but-smart-financial-planning-with-bank-fixed-deposits-dairy-business-gives-monthly-income-success-story/articleshow/134736355.cms)
-- [Students and teachers march in France on biggest day of high school protests](https://www.reuters.com/world/europe/france-braces-day-school-blockades-street-protests-2026-10-06/)
+- [India condemns attack on Panama-flagged vessel off Oman coast after 11 citizens injured](https://www.hindustantimes.com/india-news/india-condemns-attack-on-panama-flagged-vessel-off-oman-coast-after-11-citizens-injured-101791284106852.html)
+- [France tests upgraded nuclear missile against backdrop of Russia tensions](https://www.reuters.com/business/aerospace-defense/france-tests-upgraded-nuclear-missile-against-backdrop-russia-tensions-2026-10-06/)
+- [‘ভূতুড়ে কণা’র খোঁজে দক্ষিণ মেরুর হিমবাহে পরিদর্শনাগার! পদার্থবিদ্যায় নোবেল পেলেন নিউট্রিনো-সন্ধানী](https://www.anandabazar.com/world/francis-halzen-wins-2026-nobel-prize-in-physics-for-work-on-high-energy-neutrinos-of-astrophysical-origin-dgtl/cid/1717820)
+- [लड़कियों को जबरन यूरिन पिलाता, रेजर से नाम गुदवाता और न्यूड फोटो मांगता! पेरिस में भारतीय पर ट्रायल शुरू](https://www.aajtak.in/world/story/paris-indian-youth-trial-in-close-doors-online-blackmail-sexual-exploitation-ntc-drmt-dskc-2662925-2026-10-06)
+- [Vivo launches X Fold 6, V80, S2 FE, OriginOS 7 and its mixed reality headset in India](https://www.thehindu.com/sci-tech/technology/gadgets/vivo-launches-x-fold-6-v80-s2-fe-originos-7-and-its-mixed-reality-headset-in-india/article71551130.ece)
+- [‘భూత కణాల’ శాస్త్రవేత్తకు ఫిజిక్స్‌లో నోబెల్‌](https://www.eenadu.net/telugu-news/world/francis-halzen-wins-nobel-prize-in-physics-for-work-on-high-energy-neutrinos/0801/126181163)
+- [Rejinagar ByPoll: ‘রেজিনগরে ভোট লুট হয়েছে’ কংগ্রেসের সুরেই সুর মেলালেন মমতার প্রার্থী রবিউল! পুলিশের ভূমিকাকে কটাক্ষ, খোঁচা কমিশনকেও](https://bengali.news18.com/news/west-bengal/rejinagar-bypoll-mamata-tmc-candidate-rabiul-alam-chowdhury-vote-loot-claim-criticizes-the-election-commission-ank-2919667.html)
+- [Strait of Hormuz में कमर्शियल जहाज पर हमला, 11 भारतीय घायल; सभी को सुरक्षित निकाला गया](https://www.indiatv.in/world/asia/commercial-ship-attacked-in-strait-of-hormuz-many-indians-injured-all-safely-evacuated-2026-10-06-1247264)
+- [રાહુલ ગાંધીએ ધરણાં વચ્ચે પોસ્ટ કર્યો VIDEO, કહ્યું- ‘300થી વધુ સાંસદો પહોંચ્યા, CEC જ્ઞાનેશ કુમાર અમને કેમ મળી રહ્યા નથી?’](https://www.gujaratsamachar.com/news/national/amid-the-protest-rahul-gandhi-posted-a-video-saying-more-than-300-mps-have-arrived-why-is-cec-gyanesh-kumar-not-meeting-us-31450993852)
+- [Insurance brokers oppose IRDAI commission caps, warn of 60-70% revenue hit](https://economictimes.indiatimes.com/industry/banking/finance/insure/insurance-brokers-oppose-irdai-commission-caps-warn-of-60-70-revenue-hit/articleshow/134737989.cms?from=mdr)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._

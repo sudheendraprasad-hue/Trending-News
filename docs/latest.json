@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-10-06 22:37:29",
+  "generated_at": "2026-10-06 23:02:03",
   "google_trends": [
+    {
+      "title": "israel",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "spain vs argentina",
       "traffic": null,
@@ -45,11 +50,6 @@
       "title": "scout op",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "scotland vs slovenia",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
     }
   ],
   "outlets": {
@@ -87,12 +87,12 @@
         "link": "https://timesofindia.indiatimes.com/business/india-business/man-deposits-rs-85-3-lakh-received-as-cash-gifts-from-wife-relatives-income-tax-calls-it-unexplained-and-sends-notice-but-itat-chennai-accepts-gift-deeds-and-gives-relief/articleshow/134743903.cms"
       },
       {
-        "title": "ED unearths bribe racket involving top executives of 40 PSUs, banks & companies",
-        "link": "https://timesofindia.indiatimes.com/india/ed-unearths-bribe-racket-involving-top-executives-of-40-psus-banks-companies/articleshow/134749954.cms"
+        "title": "Congress itself, not EC, responsible for its losses: BJP",
+        "link": "https://timesofindia.indiatimes.com/india/congress-itself-not-ec-responsible-for-its-losses-bjp/articleshow/134752409.cms"
       },
       {
-        "title": "Amid Canada trade talks, NSAs discuss security coop",
-        "link": "https://timesofindia.indiatimes.com/india/amid-canada-trade-talks-nsas-discuss-security-coop/articleshow/134750010.cms"
+        "title": "ED unearths bribe racket involving top executives of 40 PSUs, banks & companies",
+        "link": "https://timesofindia.indiatimes.com/india/ed-unearths-bribe-racket-involving-top-executives-of-40-psus-banks-companies/articleshow/134749954.cms"
       }
     ],
     "NDTV": [
@@ -205,8 +205,8 @@
         "link": "https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-episode-31-monstrous-side-amidst-toxic-mindsets-jagadeesh-have-become-the-bad/articleshow/134749978.cms"
       },
       {
-        "title": "\u0cb6\u0cc2 \u0cac\u0cbe\u0c95\u0ccd\u0cb8\u0ccd\u200c\u0ca8\u0cb2\u0ccd\u0cb2\u0cbf\u0cb0\u0cc1\u0cb5 \u0cb8\u0cbf\u0cb2\u0cbf\u0c95\u0cbe \u0c9c\u0cc6\u0cb2\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0c95\u0cc6\u0c9f\u0ccd \u0c8e\u0cb8\u0cc6\u0caf\u0cac\u0cc7\u0ca1\u0cbf; \u0cae\u0ca8\u0cc6\u0caf\u0cb2\u0ccd\u0cb2\u0cc2 \u0cb9\u0cc0\u0c97\u0cc6 \u0cac\u0cb3\u0cb8\u0cbf",
-        "link": "https://vijaykarnataka.com/lifestyle/home-decor/silica-gel-packets-shoe-box-home-uses/articleshow/134651205.cms"
+        "title": "\u0cae\u0ca8\u0cc6\u0caf\u0cb2\u0ccd\u0cb2\u0cbf \u0c89\u0cb3\u0cbf\u0ca6 \u0c87\u0ca1\u0ccd\u0cb2\u0cbf \u0c8e\u0cb8\u0cc6\u0caf\u0cac\u0cc7\u0ca1\u0cbf; \u0cb9\u0cc0\u0c97\u0cc6 \u0cae\u0cbe\u0ca1\u0cbf \u0cae\u0cb8\u0cbe\u0cb2\u0cbe \u0c87\u0ca1\u0ccd\u0cb2\u0cbf \u0cab\u0ccd\u0cb0\u0cc8, \u0cb0\u0cc1\u0c9a\u0cbf \u0cb8\u0cc2\u0caa\u0cb0\u0ccd!",
+        "link": "https://vijaykarnataka.com/lifestyle/home-decor/masala-idli-fry-recipe-leftover-idli/articleshow/134697040.cms"
       },
       {
         "title": "Garuda Purana: \u0ca8\u0cbf\u0cae\u0ccd\u0cae \u0c86\u0ca4\u0ccd\u0cae \u0cb9\u0cb3\u0cc6\u0caf\u0ca6\u0cc7 \u0c85\u0ca5\u0cb5\u0cbe \u0cb9\u0cca\u0cb8\u0ca6\u0cc7.?",
@@ -222,6 +222,14 @@
       }
     ],
     "The Hindu": [
+      {
+        "title": "Karnataka Chief Minister leaves for Delhi ahead of GST Council meeting",
+        "link": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-leaves-for-delhi-ahead-of-gst-council-meeting/article71551971.ece"
+      },
+      {
+        "title": "CJP\u2019s Dipke chides Maharashtra Police over alleged notices to workers",
+        "link": "https://www.thehindu.com/news/national/cjp-activists-getting-police-notices-being-pressured-not-to-join-october-10-delhi-protest-abhijit-dipke/article71550853.ece"
+      },
       {
         "title": "NDA wins 34 of 42 Silchar Municipal Corporation seats",
         "link": "https://www.thehindu.com/news/national/assam/nda-wins-34-of-42-silchar-municipal-corporation-seats/article71552428.ece"
@@ -253,14 +261,6 @@
       {
         "title": "Ladli Behna scheme has turned out to be \u2018very expensive\u2019, says Madhya Pradesh CM",
         "link": "https://www.thehindu.com/news/national/madhya-pradesh/ladli-behna-scheme-has-turned-out-to-be-very-expensive-says-madhya-pradesh-cm/article71552264.ece"
-      },
-      {
-        "title": "Act against illegal resorts and homestays in tiger reserves: Ramalinga Reddy",
-        "link": "https://www.thehindu.com/news/national/karnataka/act-against-illegal-resorts-and-homestays-in-tiger-reserves-ramalinga-reddy/article71551839.ece"
-      },
-      {
-        "title": "Milk price in Karnataka may go up by \u20b98, but only after Legislative Council polls",
-        "link": "https://www.thehindu.com/news/national/karnataka/milk-price-in-karnataka-may-go-up-by-8-but-only-after-legislative-council-polls/article71552764.ece"
       }
     ],
     "Livemint": [
@@ -465,10 +465,6 @@
       {
         "title": "\u0c92\u0cae\u0cbe\u0ca8\u0ccd\u200c\u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0cb5\u0cbe\u0ca3\u0cbf\u0c9c\u0ccd\u0caf \u0cb9\u0ca1\u0c97\u0cbf\u0ca8 \u0cae\u0cc7\u0cb2\u0cc6 \u0ca6\u0cbe\u0cb3\u0cbf : 12 \u0cae\u0c82\u0ca6\u0cbf \u0cad\u0cbe\u0cb0\u0ca4\u0cc0\u0caf\u0cb0\u0cbf\u0c97\u0cc6 \u0c97\u0cbe\u0caf",
         "link": "https://www.prajavani.net/news/india-news/oman-commercial-ship-attack-indian-sailors-injured-4311960"
-      },
-      {
-        "title": "\u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 | \u0cb5\u0cbf\u0ca6\u0ccd\u0caf\u0cc1\u0ca4\u0ccd \u0caa\u0cb0\u0cbf\u0cb5\u0cb0\u0ccd\u0ca4\u0c95 \u0cb8\u0ccd\u0cab\u0ccb\u0c9f: \u0ca8\u0cbe\u0cb2\u0ccd\u0cb5\u0cb0\u0cbf\u0c97\u0cc6 \u0c97\u0cbe\u0caf",
-        "link": "https://www.prajavani.net/news/karnataka-news/bengaluru-transformer-blast-four-injured-benniganahalli-4312397"
       }
     ],
     "eedina": [
@@ -528,7 +524,15 @@
       "score": 3.9
     },
     {
+      "term": "Congress",
+      "score": 2.6
+    },
+    {
       "term": "France",
+      "score": 2.6
+    },
+    {
+      "term": "Delhi",
       "score": 2.6
     },
     {
@@ -552,10 +556,6 @@
       "score": 1.6
     },
     {
-      "term": "Canada",
-      "score": 1.6
-    },
-    {
       "term": "What",
       "score": 1.6
     },
@@ -570,53 +570,49 @@
     {
       "term": "Musk",
       "score": 1.6
-    },
-    {
-      "term": "Ukrainian",
-      "score": 1.3
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "Fundamentals of Quantum Technology",
-      "link": "https://www.orfonline.org/expert-speak/fundamentals-of-quantum-technology"
+      "title": "India condemns attack on Panama-flagged vessel off Oman coast after 11 citizens injured",
+      "link": "https://www.hindustantimes.com/india-news/india-condemns-attack-on-panama-flagged-vessel-off-oman-coast-after-11-citizens-injured-101791284106852.html"
     },
     {
-      "title": "How the world is looking at protests against Election Commission under Gyanesh Kumar",
-      "link": "https://www.telegraphindia.com/india/how-the-world-is-looking-at-protests-against-election-commission-under-gyanesh-kumar/cid/2183409"
+      "title": "France tests upgraded nuclear missile against backdrop of Russia tensions",
+      "link": "https://www.reuters.com/business/aerospace-defense/france-tests-upgraded-nuclear-missile-against-backdrop-russia-tensions-2026-10-06/"
     },
     {
-      "title": "Physics Nobel Prize: \u0c2b\u0c4d\u0c30\u0c3e\u0c28\u0c4d\u0c38\u0c3f\u0c38\u0c4d \u0c39\u0c3e\u0c32\u0c4d\u0c1c\u0c46\u0c28\u0c4d\u200c\u0c15\u0c41 \u0c2a\u0c4d\u0c30\u0c24\u0c3f\u0c37\u0c4d\u0c1f\u0c3e\u0c24\u0c4d\u0c2e\u0c15 \u0c2a\u0c41\u0c30\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02",
-      "link": "https://vaartha.com/latest-news/physics-nobel-prize-in-physics-has-been-awarded-to-francis-halzen/786876/"
+      "title": "\u2018\u09ad\u09c2\u09a4\u09c1\u09a1\u09bc\u09c7 \u0995\u09a3\u09be\u2019\u09b0 \u0996\u09cb\u0981\u099c\u09c7 \u09a6\u0995\u09cd\u09b7\u09bf\u09a3 \u09ae\u09c7\u09b0\u09c1\u09b0 \u09b9\u09bf\u09ae\u09ac\u09be\u09b9\u09c7 \u09aa\u09b0\u09bf\u09a6\u09b0\u09cd\u09b6\u09a8\u09be\u0997\u09be\u09b0! \u09aa\u09a6\u09be\u09b0\u09cd\u09a5\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09df \u09a8\u09cb\u09ac\u09c7\u09b2 \u09aa\u09c7\u09b2\u09c7\u09a8 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09a8\u09cb-\u09b8\u09a8\u09cd\u09a7\u09be\u09a8\u09c0",
+      "link": "https://www.anandabazar.com/world/francis-halzen-wins-2026-nobel-prize-in-physics-for-work-on-high-energy-neutrinos-of-astrophysical-origin-dgtl/cid/1717820"
     },
     {
-      "title": "Tamil News Live: \u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd",
-      "link": "https://www.maalaimalar.com/news/tamilnadu/today-news-in-tamil-live-updates-6-october-2026"
+      "title": "\u0932\u0921\u093c\u0915\u093f\u092f\u094b\u0902 \u0915\u094b \u091c\u092c\u0930\u0928 \u092f\u0942\u0930\u093f\u0928 \u092a\u093f\u0932\u093e\u0924\u093e, \u0930\u0947\u091c\u0930 \u0938\u0947 \u0928\u093e\u092e \u0917\u0941\u0926\u0935\u093e\u0924\u093e \u0914\u0930 \u0928\u094d\u092f\u0942\u0921 \u092b\u094b\u091f\u094b \u092e\u093e\u0902\u0917\u0924\u093e! \u092a\u0947\u0930\u093f\u0938 \u092e\u0947\u0902 \u092d\u093e\u0930\u0924\u0940\u092f \u092a\u0930 \u091f\u094d\u0930\u093e\u092f\u0932 \u0936\u0941\u0930\u0942",
+      "link": "https://www.aajtak.in/world/story/paris-indian-youth-trial-in-close-doors-online-blackmail-sexual-exploitation-ntc-drmt-dskc-2662925-2026-10-06"
     },
     {
-      "title": "3 new Supreme Court judges take oath; strength of court rises to 37",
-      "link": "https://www.barandbench.com/news/3-new-supreme-court-judges-take-oath-strength-of-court-rises-to-37"
+      "title": "Vivo launches X Fold 6, V80, S2 FE, OriginOS 7 and its mixed reality headset in India",
+      "link": "https://www.thehindu.com/sci-tech/technology/gadgets/vivo-launches-x-fold-6-v80-s2-fe-originos-7-and-its-mixed-reality-headset-in-india/article71551130.ece"
     },
     {
-      "title": "Drishyam The Conclusion vs Drishyam 3: Ajay Devgn And Mohanlal Films Seek Closure, But The Roads Never Meet",
-      "link": "https://www.ndtv.com/entertainment/drishyam-the-conclusion-vs-drishyam-3-ajay-devgn-and-mohanlal-films-seek-closure-but-the-roads-never-meet-12145557"
+      "title": "\u2018\u0c2d\u0c42\u0c24 \u0c15\u0c23\u0c3e\u0c32\u2019 \u0c36\u0c3e\u0c38\u0c4d\u0c24\u0c4d\u0c30\u0c35\u0c47\u0c24\u0c4d\u0c24\u0c15\u0c41 \u0c2b\u0c3f\u0c1c\u0c3f\u0c15\u0c4d\u0c38\u0c4d\u200c\u0c32\u0c4b \u0c28\u0c4b\u0c2c\u0c46\u0c32\u0c4d\u200c",
+      "link": "https://www.eenadu.net/telugu-news/world/francis-halzen-wins-nobel-prize-in-physics-for-work-on-high-energy-neutrinos/0801/126181163"
     },
     {
-      "title": "Taking Stock: Pullback continues on second day; Nifty above 22,700, Sensex up 685 pts",
-      "link": "https://www.moneycontrol.com/news/business/markets/taking-stock-pullback-continues-on-second-day-nifty-above-22-700-sensex-up-685-pts-14045734.html"
+      "title": "Rejinagar ByPoll: \u2018\u09b0\u09c7\u099c\u09bf\u09a8\u0997\u09b0\u09c7 \u09ad\u09cb\u099f \u09b2\u09c1\u099f \u09b9\u09af\u09bc\u09c7\u099b\u09c7\u2019 \u0995\u0982\u0997\u09cd\u09b0\u09c7\u09b8\u09c7\u09b0 \u09b8\u09c1\u09b0\u09c7\u0987 \u09b8\u09c1\u09b0 \u09ae\u09c7\u09b2\u09be\u09b2\u09c7\u09a8 \u09ae\u09ae\u09a4\u09be\u09b0 \u09aa\u09cd\u09b0\u09be\u09b0\u09cd\u09a5\u09c0 \u09b0\u09ac\u09bf\u0989\u09b2! \u09aa\u09c1\u09b2\u09bf\u09b6\u09c7\u09b0 \u09ad\u09c2\u09ae\u09bf\u0995\u09be\u0995\u09c7 \u0995\u099f\u09be\u0995\u09cd\u09b7, \u0996\u09cb\u0981\u099a\u09be \u0995\u09ae\u09bf\u09b6\u09a8\u0995\u09c7\u0993",
+      "link": "https://bengali.news18.com/news/west-bengal/rejinagar-bypoll-mamata-tmc-candidate-rabiul-alam-chowdhury-vote-loot-claim-criticizes-the-election-commission-ank-2919667.html"
     },
     {
-      "title": "\u0d05\u0d2c\u0d41\u0d26\u0d3e\u0d2c\u0d3f\u0d2f\u0d3f\u0d7d \u0d2a\u0d4a\u0d24\u0d41\u0d38\u0d47\u0d35\u0d28 \u0d1a\u0d46\u0d32\u0d35\u0d4d 30 \u0d36\u0d24\u0d2e\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d27\u0d3f\u0d15\u0d02 \u0d15\u0d41\u0d31\u0d1e\u0d4d\u0d1e\u0d41; \u0d0e\u0d10 \u0d38\u0d3e\u0d19\u0d4d\u0d15\u0d47\u0d24\u0d3f\u0d15\u0d35\u0d3f\u0d26\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d35\u0d7b \u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d47\u0d31\u0d4d\u0d31\u0d2e\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d05\u0d27\u0d3f\u0d15\u0d43\u0d24\u0d7c",
-      "link": "https://www.expresskerala.com/news/public-service-costs-in-abu-dhabi-have-dropped-by-over-30-percent-officials-cite-major-strides-in-ai-technology.html"
+      "title": "Strait of Hormuz \u092e\u0947\u0902 \u0915\u092e\u0930\u094d\u0936\u093f\u092f\u0932 \u091c\u0939\u093e\u091c \u092a\u0930 \u0939\u092e\u0932\u093e, 11 \u092d\u093e\u0930\u0924\u0940\u092f \u0918\u093e\u092f\u0932; \u0938\u092d\u0940 \u0915\u094b \u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u0928\u093f\u0915\u093e\u0932\u093e \u0917\u092f\u093e",
+      "link": "https://www.indiatv.in/world/asia/commercial-ship-attacked-in-strait-of-hormuz-many-indians-injured-all-safely-evacuated-2026-10-06-1247264"
     },
     {
-      "title": "\"\u0c32\u0c47\u0c06\u0c2b\u0c4d\u0c38\u0c4d\u200c\u0c32\u0c4b 35 \u0c32\u0c15\u0c4d\u0c37\u0c32 \u0c09\u0c26\u0c4d\u0c2f\u0c4b\u0c17\u0c02 \u0c2a\u0c4b\u0c2f\u0c3f\u0c28\u0c3e.. \u0c05\u0c24\u0c28\u0c3f \u0c2e\u0c41\u0c02\u0c26\u0c41 \u0c1a\u0c42\u0c2a\u0c41\u0c24\u0c4b \u0c28\u0c46\u0c32\u0c15\u0c41 93 \u0c35\u0c47\u0c32 \u0c06\u0c26\u0c3e\u0c2f\u0c02 \u0c35\u0c38\u0c4d\u0c24\u0c4b\u0c02\u0c26\u0c3f\"",
-      "link": "https://telugu.samayam.com/business/business-news/rs-35-lpa-job-loss-layoffs-but-smart-financial-planning-with-bank-fixed-deposits-dairy-business-gives-monthly-income-success-story/articleshow/134736355.cms"
+      "title": "\u0ab0\u0abe\u0ab9\u0ac1\u0ab2 \u0a97\u0abe\u0a82\u0aa7\u0ac0\u0a8f \u0aa7\u0ab0\u0aa3\u0abe\u0a82 \u0ab5\u0a9a\u0acd\u0a9a\u0ac7 \u0aaa\u0acb\u0ab8\u0acd\u0a9f \u0a95\u0ab0\u0acd\u0aaf\u0acb VIDEO, \u0a95\u0ab9\u0acd\u0aaf\u0ac1\u0a82- \u2018300\u0aa5\u0ac0 \u0ab5\u0aa7\u0ac1 \u0ab8\u0abe\u0a82\u0ab8\u0aa6\u0acb \u0aaa\u0ab9\u0acb\u0a82\u0a9a\u0acd\u0aaf\u0abe, CEC \u0a9c\u0acd\u0a9e\u0abe\u0aa8\u0ac7\u0ab6 \u0a95\u0ac1\u0aae\u0abe\u0ab0 \u0a85\u0aae\u0aa8\u0ac7 \u0a95\u0ac7\u0aae \u0aae\u0ab3\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0abe \u0aa8\u0aa5\u0ac0?\u2019",
+      "link": "https://www.gujaratsamachar.com/news/national/amid-the-protest-rahul-gandhi-posted-a-video-saying-more-than-300-mps-have-arrived-why-is-cec-gyanesh-kumar-not-meeting-us-31450993852"
     },
     {
-      "title": "Students and teachers march in France on biggest day of high school protests",
-      "link": "https://www.reuters.com/world/europe/france-braces-day-school-blockades-street-protests-2026-10-06/"
+      "title": "Insurance brokers oppose IRDAI commission caps, warn of 60-70% revenue hit",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/insurance-brokers-oppose-irdai-commission-caps-warn-of-60-70-revenue-hit/articleshow/134737989.cms?from=mdr"
     }
   ],
   "twitter": null
