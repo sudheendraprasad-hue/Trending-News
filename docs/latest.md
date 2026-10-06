@@ -1,4 +1,4 @@
-# India Trending Report — 2026-10-06 00:47:55
+# India Trending Report — 2026-10-06 01:05:25
 
 ## Google Trends (India) — top trending searches
 1. [బంగారం](https://trends.google.com/trending/rss?geo=IN)
@@ -17,13 +17,13 @@
 - [SIR row: Will annul EC orders not in keeping with law, says Supreme Court](https://timesofindia.indiatimes.com/india/sir-row-will-annul-election-commission-orders-not-in-keeping-with-law-says-supreme-court/articleshow/134716812.cms)
 - [Pakistan, Saudi, Turkiye activate Mecca defence pact as Yemen war escalates](https://timesofindia.indiatimes.com/world/middle-east/pakistan-saudi-arabia-turkiye-activate-mecca-defence-pact-amid-houthi-attacks/articleshow/134716048.cms)
 - [Nepal ends flood search with over 5,000 still missing, including 189 Indians](https://timesofindia.indiatimes.com/world/south-asia/nepal-ends-flood-search-with-over-5000-still-missing-including-189-indians/articleshow/134720060.cms)
+- [86 to 101: Kohli's final ODI window to break Tendulkar's century record](https://timesofindia.indiatimes.com/sports/cricket/news/86-to-101-virat-kohlis-final-odi-window-to-break-sachin-tendulkars-century-record/articleshow/134700454.cms)
 - [Rajya Sabha polls: 8 fresh BJP faces for UP, Hardeep Puri among 2 ministers dropped](https://timesofindia.indiatimes.com/india/rajya-sabha-polls-8-fresh-bjp-faces-for-up-hardeep-puri-among-2-ministers-dropped/articleshow/134716837.cms)
-- [Delhi Police ACP's additional DCP charge withheld amid harassment inquiry](https://timesofindia.indiatimes.com/india/delhi-police-acp-vivek-bhagats-additional-dcp-charge-withheld-amid-harassment-inquiry/articleshow/134716782.cms)
 - [In 2009, Google’s Eric Schmidt bought a ship; by 2022, it mapped 1.3m sq km of seafloor](https://timesofindia.indiatimes.com/technology/tech-news/in-2009-googles-eric-schmidt-and-wife-wendy-bought-a-former-fisheries-ship-by-2022-the-vessel-offered-free-research-access-and-had-mapped-over-1-3-million-square-kilometres-of-seafloor/articleshow/134712878.cms)
-- [India-US trade talks have reached plateau: Finance minister Nirmala Sitharaman](https://timesofindia.indiatimes.com/business/india-business/india-us-trade-talks-have-reached-plateau-finance-minister-nirmala-sitharaman/articleshow/134720078.cms)
+- [Delhi Police ACP's additional DCP charge withheld amid harassment inquiry](https://timesofindia.indiatimes.com/india/delhi-police-acp-vivek-bhagats-additional-dcp-charge-withheld-amid-harassment-inquiry/articleshow/134716782.cms)
 - [Woman declares Rs 67.4L ancestral jewellery in ITR; gets notice, she wins in ITAT](https://timesofindia.indiatimes.com/business/india-business/woman-declared-rs-67-4-lakh-ancestral-jewellery-in-her-itr-which-led-to-additions-by-tax-department-itat-mumbai-deleted-it-on-basis-of-old-records-but-rejected-her-rs-12-lakh-huf-brokerage-claim/articleshow/134706982.cms)
-- [Kheri case: UP changes PP; SC asks Allahabad HC CJ to decide on trial judge](https://timesofindia.indiatimes.com/india/lakhimpur-kheri-case-up-changes-public-prosecutor-supreme-court-asks-allahabad-high-court-judge-to-decide-on-trial-judge/articleshow/134720016.cms)
-- [Only 15% going to work use public transport: NSO](https://timesofindia.indiatimes.com/india/only-15-going-to-work-use-public-transport-nso/articleshow/134719927.cms)
+- [Proposed GST changes positive for business: Experts](https://timesofindia.indiatimes.com/business/india-business/proposed-gst-changes-positive-for-business-experts/articleshow/134720267.cms)
+- [India-US trade talks have reached plateau: Finance minister Nirmala Sitharaman](https://timesofindia.indiatimes.com/business/india-business/india-us-trade-talks-have-reached-plateau-finance-minister-nirmala-sitharaman/articleshow/134720078.cms)
 
 **NDTV**
 - [Germany At Risk Of "Violent Conflict" With Russia, Claims Spy Chief](https://www.ndtv.com/world-news/germany-at-risk-of-violent-conflict-with-russia-claims-spy-chief-12143393#publisher=newsstand)
@@ -100,6 +100,8 @@
 - [ಸಮಕಾಲೀನ ವೈಜ್ಞಾನಿಕ ಜ್ಞಾನದ ಬೆಳಕಿನಲ್ಲಿ ಯುನಾನಿ ವೈದ್ಯ ಪದ್ಧತಿಯ ಅಧ್ಯಯನ ಅಗತ್ಯ : ಪ್ರೊ.ಸಯ್ಯದ್ ಶಾ ಆಲಮ್](https://www.varthabharati.in/bangalore-city/unani-medicine-2280528)
 
 **Asianet Kannada**
+- [ಇಂದಿನ ಜಾತಕ: ವೃಷಭ, ತುಲಾ ಮತ್ತು ವೃಶ್ಚಿಕ ರಾಶಿಯವರು ಎಚ್ಚರಿಕೆಯಿಂದ ನಿರ್ಧಾರ ತೆಗೆದುಕೊಳ್ಳಬೇಕಾಗುತ್ತದೆ](https://kannada.asianetnews.com/daily-horoscope/today-horoscope-of-06-october-2026-suh/articleshow-gsmg5c6)
+- [12:03AM ಮಧ್ಯರಾತ್ರಿ ಭಾರೀ ಸ್ಫೋಟದ ಸದ್ದಿಗೆ ಬೆಚ್ಚಿಬಿದ್ದ ಸಿಲಿಕಾನ್ ಸಿಟಿ ಜನ! ಯಾವುದು ಈ ಸದ್ದು?](https://kannada.asianetnews.com/state/bengaluru-weather-report-confirm-midnight-shock-loud-blast-like-sound-at-12am-leaves-residents-scared-rav/articleshow-n7f9cad)
 - [Bengaluru rains: ಬೆಂಗಳೂರಿನಲ್ಲಿ ರಾತ್ರಿ ಮಳೆ ಅರ್ಭಟ, ವಾಹನ ಸವಾರರು ಪರದಾಟ, ಇಂದು ಹೇಗಿರಲಿದೆ ಹವಾಮಾನ?](https://kannada.asianetnews.com/state/bengaluru-weather-forecast-today-heavy-rains-yesterday-imd-report-rav/articleshow-1d4rr6h)
 - [ಹಬ್ಬದ ಸೀಸನ್‌ನಲ್ಲಿ SUV ಪ್ರಿಯರಿಗೆ ಹಬ್ಬವೋ ಹಬ್ಬ: ಅಕ್ಟೋಬರ್‌ನಲ್ಲಿ ಮಾರುಕಟ್ಟೆಗೆ ಬರಲಿದೆ 4 ಪ್ರಮುಖ ಕಾರುಗಳು](https://kannada.asianetnews.com/car-news/upcoming-suv-launches-october-2026-honda-elevate-facelift-renault-duster-hyundai-bayon-san/articleshow-5lzmi6l)
 - [ಶಿವಣ್ಣನ ಬಳಿಯೇ ಪಟಾಕಿ ಸ್ಫೋಟ, ಅದೃಷ್ಟವಶಾತ್ ತಪ್ಪಿದ ದೊಡ್ಡ ಅಪಾಯ](https://kannada.asianetnews.com/gallery/karnataka-districts/firecracker-explosion-near-actor-shivanna-major-mishap-narrowly-averted-in-chitradurga-0f5z073)
@@ -108,12 +110,11 @@
 - [GST ಸಭೆಯಲ್ಲಿ 3 ಬಿಗ್ ಡಿಸಿಷನ್! ಕಮ್ಮಿಯಾಗುತ್ತಾ ನಿಮ್ಮ ತಿಂಗಳ ಬಜೆಟ್ ಹೊರೆ? ಸಾರ್ವಜನಿಕರು ತಿಳಿಯಲೇಬೇಕಾದ ಸುದ್ದಿ!](https://kannada.asianetnews.com/business/gst-council-meeting-relief-for-businesses-arrest-powers-18-pc-gcc-tax-and-2500-crore-cess-in-focus-bmk/articleshow-yg42s97)
 - [ಬೆಂಗಳೂರು ಟ್ರಾಫಿಕ್‌ಗೆ ಮೆಗಾ ಪರಿಹಾರ: ತುಮಕೂರು, ಮೈಸೂರು, ಕೆಜಿಎಫ್‌ಗೆ 270 ಕಿ.ಮೀ 'RRTS' ಹೈಸ್ಪೀಡ್ ರೈಲು](https://kannada.asianetnews.com/bengaluru-urban/karnataka-proposes-270km-rrts-network-bengaluru-development-plan-san/articleshow-13ppon6)
 - [ಶ್ರೀಮಂತಿಕೆಯ ಅಸಲಿ ರಹಸ್ಯ: ಚಾಣಕ್ಯ ನೀತಿಯ ಈ ನಿಯಮಗಳನ್ನು ಪಾಲಿಸಿದ್ರೆ ಆರ್ಥಿಕ ಸಂಕಷ್ಟ ಎದುರಾಗದು!](https://kannada.asianetnews.com/festivals/chanakya-niti-6-rules-to-build-wealth-and-avoid-financial-crisis/articleshow-qc9e84m)
-- [ರಜನಿಕಾಂತ್ ಜೊತೆ ಶಿವಣ್ಣನ ಮಾಸ್ ದರ್ಬಾರ್: ‘ಜೈಲರ್ 2’ ಟ್ರೇಲರ್‌ನಲ್ಲಿದೆ ಭರ್ಜರಿ ಕಾಳಗ!](https://kannada.asianetnews.com/entertainment/jailer-2-trailer-out-rajinikanth-shivanna-and-vijay-sethupathi-raise-the-hype-gvd/articleshow-a6gfpgw)
-- ['ನಿಮ್ಮ ಭವಿಷ್ಯ ಉಜ್ವಲವಾಗಿರಲಿ, ನಾವು ಒಟ್ಟಿಗೆ ಬಾಳಲು ಸಾಧ್ಯವಿಲ್ಲ' ಬೆಂಗಳೂರಲ್ಲಿ ₹3 ಲಕ್ಷ ಗಳಿಸುವ ಯುವಕ ವಧು ಹುಡುಕಿದ ಬೇಸರದ ಕತೆ](https://kannada.asianetnews.com/bengaluru-urban/marriage-story-bengaluru-man-with-rs-3-lakh-month-salary-struggles-to-find-a-match/articleshow-64qfvrt)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [Horoscope Today: ಇಂದು ಈ ರಾಶಿಯವರು ಸಾಲದ ವಿಚಾರದಲ್ಲಿ ಸ್ವಲ್ಪ ಜಾಗೃತರಾಗಿರಿ](https://tv9kannada.com/videos/horoscope-today-6th-october-2026-dr-basavaraj-gurujis-predictions-for-zodiac-signs-1246868.html)
 - [ನಿತ್ಯ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರು ಖಿನ್ನತೆಯಿಂದ ಹೊರಬರುವುದು ಕಷ್ಟವಾಗಲಿದೆ…](https://tv9kannada.com/horoscope/horoscope-today-06-october-daily-zodiac-predictions-and-remedies-1246756.html)
 - [ಬೆಂಗಳೂರಿನಾದ್ಯಂತ ವರುಣಾರ್ಭಟ: ರಾತ್ರಿ ಮಳೆಗೆ ರಸ್ತೆಗಳು ಜಲಾವೃತ, ಎಲ್ಲೆಡೆ ಟ್ರಾಫಿಕ್](https://tv9kannada.com/videos/bengaluru-heavy-rain-roads-waterlogged-after-night-downpour-traffic-disrupted-across-city-1246857.html)
 - [ಮುಂಬೈನ ಡಿಪೋದಲ್ಲಿ ಭಾರೀ ಬೆಂಕಿ ಅವಘಡ; ಧಗಧಗನೆ ಹೊತ್ತಿ ಉರಿದ ಬಸ್‌ಗಳು](https://tv9kannada.com/videos/massive-fire-at-mumbai-best-bus-depot-cng-run-buses-burning-video-viral-1246858.html)
@@ -123,9 +124,10 @@
 - [ಸೂರ್ಯನಿಗೆ ಕೊನೆ ಅವಕಾಶವೂ ಸಿಗಲಿಲ್ಲ; ವೃತ್ತಿಜೀವನ ಭಾಗಶಃ ಅಂತ್ಯ..!](https://tv9kannada.com/sports/cricket-news/ranji-trophy-mumbai-squad-suryakumar-yadav-dropped-2026-27-1246848.html)
 - [ಬಾಳೆಹಣ್ಣು, ಪಪ್ಪಾಯಿ ತಿನ್ನಲು 2ರಿಂದ 3 ಗಂಟೆ ಗ್ಯಾಪ್ ಬೇಕೇ? ಈ ಬಗ್ಗೆ ತಜ್ಞರ ಅಭಿಪ್ರಾಯವೇನು ತಿಳಿದುಕೊಳ್ಳಿ](https://tv9kannada.com/health/is-the-banana-papaya-combination-harmful-know-what-science-says-1246833.html)
 - [ಹೆಣ್ಣಿನ ಆಸೆಗೆ ಕೋರ್ಟ್​ ನಕಲಿ ದಾಖಲೆ ಸೃಷ್ಟಿಸಿ ಜೈಲಿನಿಂದ ಕೈದಿ ಬಿಡುಗಡೆ: ಡಿಐಜಿಯ ಕೃತ್ಯ ಬಟಾಬಯಲು](https://tv9kannada.com/karnataka/dig-somashekhar-released-life-convict-for-using-fake-court-order-over-affair-with-shankar-wife-1246837.html)
-- [ಲಕ್ನೋದಲ್ಲಿ ಭಾರೀ ಮಳೆ; ಮೊದಲ ಟಿ20 ಪಂದ್ಯ ನಡೆಯುವುದು ಅನುಮಾನ](https://tv9kannada.com/sports/cricket-news/ind-vs-wi-1st-t20-lucknow-weather-forecast-rain-threat-1246841.html)
 
 **Prajavani**
+- [ಹೃದಯದ ಆರೋಗ್ಯಕ್ಕೆ ಜೀವನದ ಲಯ](https://www.prajavani.net/health/recipe/heart-health-lifestyle-rhythm-increasing-heart-attacks-4309998)
+- [ಮನ್‌ಮುಲ್‌ ಹಾಲಿನ ಪುಡಿ ಅಕ್ರಮ ಮಾರಾಟ 2025ರಿಂದಲೂ ನಡೆಯುತ್ತಿದೆ](https://www.prajavani.net/district/mandya/mandya-manmul-milk-powder-illegal-sale-scam-investigation-4309999)
 - [‘9 ಹೊಸ ಸಮಗ್ರ ಕೈಗಾರಿಕಾ ಟೌನ್‌ಶಿಪ್’](https://www.prajavani.net/news/karnataka-news/karnataka-government-nine-new-industrial-townships-bmrda-development-plan-4309939)
 - [ಮಿದುಳಿನ ‘ನಿಗೂಢ’ಕ್ಕೆ ಕೈ ಹಾಕಿದವರಿಗೆ ನೊಬೆಲ್‌](https://www.prajavani.net/news/india-news/medicine-nobel-prize-brain-research-optogenetics-4309556)
 - [ಮೈಸೂರು ದಸರಾಗೆ ‘ಸೂರ್ಯ ಕಿರಣ್’ ಮೆರುಗು](https://www.prajavani.net/news/karnataka-news/mysuru-dasara-surya-kiran-aerobatics-air-force-show-4309758)
@@ -134,20 +136,18 @@
 - [ಆಳ–ಅಗಲ| ಬೇಡ್ತಿ ನದಿ: ಹೆಚ್ಚುವರಿ ನೀರೆಲ್ಲಿದೆ?](https://www.prajavani.net/explainer/detail/bedti-river-diversion-project-water-availability-analysis-4309865)
 - [ಜಾರು ದಾರಿಯಲ್ಲಿ ‘ಶಿಕ್ಷಣನೀತಿ’](https://www.prajavani.net/op-ed/articles/india-education-policy-implementation-failures-analysis-4309215)
 - [ಪ್ರಾರ್ಥಿಸುವ ಕೈಗಳು](https://www.prajavani.net/op-ed/nudi-belagu/vithya-ramraj-asian-games-success-and-sibling-sacrifice-4308838)
-- [ಗುಂಡಣ್ಣ ಕಾರ್ಟೂನು: ಮಂಗಳವಾರ, 06 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/gundanna-cartoon-october-tuesday-4309973)
-- [ನೇಮಕಾತಿ: ಕ್ರೀಡಾಳುಗಳಿಗೆ ಶೇ 2ರಷ್ಟು ಮೀಸಲು](https://www.prajavani.net/news/karnataka-news/karnataka-government-announces-two-percent-reservation-for-sports-persons-in-recruitment-4309622)
 
 **eedina**
+- [ರಾಯಚೂರು | ಹತ್ತಿ ಮಿಲ್ ಗೆ ಆಕಸ್ಮಿಕ ಬೆಂಕಿ: 60 ಲಕ್ಷದ ಹತ್ತಿ ಭಸ್ಮ](https://eedina.com/?p=770416)
+- [ರಾಯಚೂರು | ವಿದ್ಯುತ್ ಅವಘಡದಲ್ಲಿ ರೈತ ಸಾವು: ಕುಟುಂಬಕ್ಕೆ ಬೋಸರಾಜು, ಹಂಪಯ್ಯ ನಾಯಕ್ ಸಾಂತ್ವನ](https://eedina.com/?p=770410)
+- [ಪಂಚಾಯತ್ ಚುನಾವಣೆಗೆ ಕರಡು ಮೀಸಲು ಸಿದ್ಧ: ಈಶ್ವರ ಖಂಡ್ರೆ](https://eedina.com/?p=770412)
+- [ಕಮಲನಗರ | ಸಿಇಒ ಗಿತ್ತೆ ಮಾಧವ್‌ ಮಿಂಚಿನ ಸಂಚಾರ, ವಿಬಿ-ಜಿ ರಾಮ್‌ ಜಿ ಕಾಮಗಾರಿ ಪರಿಶೀಲನೆ](https://eedina.com/?p=770406)
 - [ರಾಯಚೂರು | 12 ತಾಸು ವಿದ್ಯುತ್ ಪೂರೈಕೆಗೆ ಆಗ್ರಹ: ಜೆಸ್ಕಾಂ ಕಚೇರಿಗೆ ರೈತರ ಮುತ್ತಿಗೆ](https://eedina.com/?p=770404)
 - [ಕಲಬುರಗಿ | ಅವಹೇಳನಕಾರಿ ಪೋಸ್ಟ್, ಜೀವ ಬೆದರಿಕೆ ಆರೋಪ; ಶಿವಸೇನಾ ನಾಯಕರ ವಿರುದ್ಧ ಎಫ್‌ಐಆರ್ ದಾಖಲು](https://eedina.com/?p=770395)
 - [ಕಲಬುರಗಿ | ಹಳೆಯ ದ್ವೇಷಕ್ಕೆ ಪಂಪ್ ಆಪರೇಟರ್ ಬಲಿ; ಚಾಕು ಇರಿದು ಬರ್ಬರ ಹತ್ಯೆ](https://eedina.com/?p=770392)
 - [ಕಲಬುರಗಿ | ನಾಪತ್ತೆಯಾಗಿದ್ದ ಹೋಟೆಲ್‌ ವ್ಯಾಪಾರಿ ಶವವಾಗಿ ಪತ್ತೆ; ಕೊಲೆ ಶಂಕೆ](https://eedina.com/?p=770389)
 - [ಹಾಸನ | ರೈತರಿಗೆ ಹೆಚ್ಚಿನ ಪರಿಹಾರ ನೀಡುವಂತೆ ಸರ್ಕಾರಕ್ಕೆ ಒತ್ತಡ](https://eedina.com/?p=770382)
 - [ಯಾದಗಿರಿ | ಕಾಂಗ್ರೆಸ್‌ ತೆಕ್ಕೆಗೆ ಯುವ ನಾಯಕ ವೀರಾರಡ್ಡಿ ಮುನ್ನಾಳ](https://eedina.com/?p=770381)
-- [ಹಾಸನ | ತಡೆಗೋಡೆ ಕಾಮಗಾರಿ ವೇಳೆ ಭೂಕುಸಿತ](https://eedina.com/?p=770375)
-- [ಯಾದಗಿರಿ | ಮಾಜಿ ತಾ.ಪಂ ಸದಸ್ಯನ ಮೇಲೆ ಹಲ್ಲೆ ಆರೋಪ; ಆರು ಮಂದಿ ವಿರುದ್ಧ ಪ್ರಕರಣ ದಾಖಲು](https://eedina.com/?p=770371)
-- [ಬೀದರ್‌ | ಹಳ್ಳಕ್ಕೆ ಉರುಳಿದ ಖಾಸಗಿ ಶಾಲಾ ಬಸ್‌ : ಹಲವು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಗಾಯ](https://eedina.com/?p=770365)
-- [ಯಾದಗಿರಿ | ಲಾರಿ ಡಿಕ್ಕಿಗೆ ಬೈಕ್ ಸವಾರ ಗಂಭೀರ ಗಾಯ](https://eedina.com/?p=770364)
 
 ## Cross-source trending keywords (derived from headlines above)
 - Delhi (3.5)
@@ -169,16 +169,16 @@
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
+- [Amazon Dumps Sony 1000XM5 Headphones at 50% Off, Their Lowest Price in a Year](https://gizmodo.com/amazon-dumps-sony-1000xm5-headphones-at-50-off-their-lowest-price-in-a-year-2000821604)
+- [Karnataka prison DIG frees murder convict using fake Supreme Court papers, 'sexually exploits' his wife](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-prison-row-dig-arrested-over-illegal-release-of-life-term-convict-parole-violations/articleshow/134706490.cms)
+- [ரஷ்யாவில் பிளேக் தொற்று பரவலா? - சந்தேகிக்கும் அமெரிக்கா](https://www.polimernews.com/worldnews/is-plague-outbreak-spreading-in-russia-us-suspects-12626326)
+- [Congress accuses Gyanesh Kumar of ‘illegally’ modifying Form 6 during SIR](https://www.thehindu.com/news/national/rahul-gandhi-congress-form-6-election-commission-of-india-cec-gyanesh-kumar/article71547253.ece)
+- [iPhone 17, M5 MacBook Air See Massive Discounts In Amazon, Flipkart Sales](https://www.ndtvprofit.com/technology/iphone-17-m5-macbook-air-see-massive-discounts-in-amazon-flipkart-sales-12141102)
+- [Google's new paywall will remove Gemini's advanced models from free accounts](https://www.makeuseof.com/googles-new-paywall-blocks-advanced-models-from-gemini-free/)
 - [PM Modi gifts Switzerland President three premium Indian cheeses during key Delhi meet](https://www.moneycontrol.com/news/india/pm-modi-gifts-swiss-president-three-premium-indian-cheeses-during-key-delhi-meet-14045021.html)
 - [Akash Anand back in BSP fold after apology to Mayawati, gets key post again](https://timesofindia.indiatimes.com/city/lucknow/akash-anand-back-in-bsp-fold-after-apology-to-mayawati-gets-key-post-again/articleshow/134706149.cms)
 - [Walking After Meals : શું જમ્યા પછી માત્ર 10 મિનિટ ચાલવાથી સુગર સ્પાઇક અટકી શકે છે? જાણો નિષ્ણાતોનો મત](https://www.gujaratfirst.com/health-science-articles/walking-after-meals-blood-sugar-control/344191/)
 - [পুজোর মুখে বিরাট চমক, বাংলার ছাত্রীদের অ্যাকাউন্টে ঢুকবে ৫০ হাজার, ঘোষণা মুখ্যমন্ত্রীর](https://bangla.asianetnews.com/west-bengal/big-announcement-of-suvendu-adhikari-college-students-will-get-50-thousand-under-bhagini-nivedita-scheme-absc/photoshow-u5kko33)
-- [கூட்டுறவு வங்கிகளில் இனி தங்க நகைக்கடன் கிராமுக்கு ரூ.10,000 கிடைக்கும்... * உச்சவரம்பை உயர்த்தியது தமிழ்நாடு அரசு!](https://rockforttimes.in/gold-jewellery-loans-from-cooperative-banks-will-now-be-available-at-rs-10000-per-gram-tamil-nadu-government-raises-the-limit/)
-- [Arijit Singh Announces 9-City India Tour To Celebrate 20 Years Of Music](https://www.ndtv.com/entertainment/arijit-singh-announces-9-city-india-tour-to-celebrate-20-years-of-music-12141389)
-- [യെമനിൽ ഹൂതികൾക്കെതിരെ വൻ സൈനിക നീക്കം; 100 പോർവിമാനങ്ങൾ, 324 ലക്ഷ്യങ്ങൾ തകർത്തു](https://www.southlive.in/major-military-offensive-against-houthis-in-yemen-100-fighter-jets-destroy-324-targets/)
-- [From Rs 1,999 to Rs 199: India vs Uruguay tickets slashed 90% after thousands of empty seats for Brazil game](https://timesofindia.indiatimes.com/sports/football/top-stories/from-rs-1999-to-rs-199-india-vs-uruguay-tickets-slashed-90-after-thousands-of-empty-seats-for-brazil-game/articleshow/134705973.cms)
-- [Suvendu Adhikari on Recruitment: চলতি অর্থবর্ষে ১ লক্ষ চাকরি দেওয়ার ঘোষণা মুখ্যমন্ত্রীর, কোন কোন দফতরে নিয়োগ, জানালেন সেটাও](https://bengali.abplive.com/district/chief-minister-suvendu-adhikari-announces-1-lakh-recruitment-in-current-fiscal-year-also-specifies-the-departments-1195191)
-- [ഷൂ വാങ്ങാൻ പെയിന്റിങ് പണി; ഇന്ന് രാജ്യത്തിനായി ഇരട്ട മെഡൽ, പ്രയാസങ്ങളെ ഓടിത്തോൽപ്പിച്ച മനുവിന്റെ പോരാട്ടം](https://www.mathrubhumi.com/sports/features/manu-ts-asian-games-dual-medals-inspiring-journey-t6t4fu2e)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
