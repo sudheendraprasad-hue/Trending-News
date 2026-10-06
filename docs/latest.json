@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-06 20:02:09",
+  "generated_at": "2026-10-06 20:39:16",
   "google_trends": [
+    {
+      "title": "mikel merino",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "hannibal",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "harry kane",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
     {
       "title": "belarus vs finland",
       "traffic": null,
@@ -17,37 +32,22 @@
       "link": "https://trends.google.com/trending/rss?geo=IN"
     },
     {
+      "title": "luka modri\u0107",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "8th pay commission",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
+      "title": "ivan peri\u0161i\u0107",
+      "traffic": null,
+      "link": "https://trends.google.com/trending/rss?geo=IN"
+    },
+    {
       "title": "street fighter movie",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "abhishek bachchan",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "scout op",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "messi",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "scotland vs slovenia",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "aman gandhi",
-      "traffic": null,
-      "link": "https://trends.google.com/trending/rss?geo=IN"
-    },
-    {
-      "title": "croatia vs spain",
       "traffic": null,
       "link": "https://trends.google.com/trending/rss?geo=IN"
     }
@@ -55,16 +55,36 @@
   "outlets": {
     "Times of India": [
       {
+        "title": "As US-India ties face turbulence, American lawmakers honor pilot's courage",
+        "link": "https://timesofindia.indiatimes.com/world/us/amid-turbulence-in-us-india-ties-american-lawmakers-honor-pilots-courage/articleshow/134747236.cms"
+      },
+      {
+        "title": "CBI raids CM Bhagwant Mann\u2019s camp office, his OSD\u2019s home in graft probe",
+        "link": "https://timesofindia.indiatimes.com/india/cbi-raids-cm-bhagwant-manns-camp-office-his-osds-home-in-graft-probe/articleshow/134749798.cms"
+      },
+      {
+        "title": "Opposition's anti-SIR-CEC march turns into INDIA bloc-government face-off",
+        "link": "https://timesofindia.indiatimes.com/india/oppositions-anti-sir-cec-march-turns-into-india-bloc-government-face-off/articleshow/134749875.cms"
+      },
+      {
         "title": "'Expert in theatrics': BJP hits out at Rahul over protest 'drama' at Akashvani Bhawan",
         "link": "https://timesofindia.indiatimes.com/india/expert-in-theatrics-bjp-its-out-at-rahul-gandhi-over-protest-drama-row-over-meeting-ec/articleshow/134746881.cms"
       },
       {
-        "title": "Barricade stunt, 9-hour dharna and detentions: All that happened at oppn's CEC protest",
-        "link": "https://timesofindia.indiatimes.com/india/barricade-stunt-chips-9-hour-dharna-and-detentions-all-that-happened-at-rahul-gandhi-led-cec-protest/articleshow/134746114.cms"
-      },
-      {
         "title": "'Unusual request': EC explains why it could not meet Rahul Gandhi-led opposition MPs",
         "link": "https://timesofindia.indiatimes.com/india/unusual-request-ec-explains-why-it-could-not-meet-rahul-gandhi-led-opposition-mps/articleshow/134744625.cms"
+      },
+      {
+        "title": "SpaceX overpumped 128M gallons of groundwater; now Texas city has to pay $175,000",
+        "link": "https://timesofindia.indiatimes.com/technology/tech-news/spacexs-rocket-testing-plant-overpumped-128-million-gallons-of-groundwater-in-three-years-now-this-texas-city-has-to-pay-175000-in-penalties-and-fund-a-new-monitoring-system/articleshow/134743244.cms"
+      },
+      {
+        "title": "Cabinet adopts resolution hailing achievements of PM Modi",
+        "link": "https://timesofindia.indiatimes.com/india/cabinet-adopts-resolution-hailing-achievements-of-pm-modi/articleshow/134749886.cms"
+      },
+      {
+        "title": "Arnold Schwarzenegger donated $250,000 to build 25 shelters for homeless veterans",
+        "link": "https://timesofindia.indiatimes.com/world/us/in-2021-arnold-schwarzenegger-donated-250000-to-help-homeless-veterans-in-los-angeles-before-christmas-25-tiny-shelters-were-installed-with-beds-climate-control-and-doors-residents-could-lock/articleshow/134738245.cms"
       },
       {
         "title": "Astronomers find \u2018phoenix planet\u2019 born from ashes of a dying star",
@@ -73,68 +93,48 @@
       {
         "title": "4.9-magnitude earthquake hits Uttarakhand's Chamoli, tremors felt in Delhi-NCR",
         "link": "https://timesofindia.indiatimes.com/india/earthquake-tremors-felt-in-delhi-ncr/articleshow/134746208.cms"
-      },
-      {
-        "title": "SpaceX overpumped 128M gallons of groundwater; now Texas city has to pay $175,000",
-        "link": "https://timesofindia.indiatimes.com/technology/tech-news/spacexs-rocket-testing-plant-overpumped-128-million-gallons-of-groundwater-in-three-years-now-this-texas-city-has-to-pay-175000-in-penalties-and-fund-a-new-monitoring-system/articleshow/134743244.cms"
-      },
-      {
-        "title": "British Indian peer Lord Ranger wins right to judicial review of CBE annulment",
-        "link": "https://timesofindia.indiatimes.com/world/uk/british-indian-peer-lord-ranger-wins-right-to-judicial-review-of-cbe-annulment/articleshow/134749624.cms"
-      },
-      {
-        "title": "103-year-old WWII veteran still tends same Maryland bar after 63 years",
-        "link": "https://timesofindia.indiatimes.com/world/us/a-103-year-old-world-war-ii-veteran-has-been-tending-the-same-basement-bar-in-maryland-since-1963-after-63-years-behind-the-counter-irv-koch-still-opens-when-the-first-customer-arrives/articleshow/134729691.cms"
-      },
-      {
-        "title": "As US-India ties face turbulence, American lawmakers honor pilot's courage",
-        "link": "https://timesofindia.indiatimes.com/world/us/amid-turbulence-in-us-india-ties-american-lawmakers-honor-pilots-courage/articleshow/134747236.cms"
-      },
-      {
-        "title": "Jammu and Kashmir: Arms & drugs seized in cross-border smuggling case; 4 held",
-        "link": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-arms-drugs-seized-in-cross-border-smuggling-case-4-held/articleshow/134749535.cms"
       }
     ],
     "NDTV": [
       {
-        "title": "Uttarakhand Earthquake Live Updates: 4.9-Magnitude Earthquake Hits Uttarakhand, Tremors Felt In Delhi",
-        "link": "https://www.ndtv.com/delhi-news/delhi-earthquake-today-ncr-earthquakes-tremors-noida-gurgaon-uttarakhand-uttar-pradesh-12147969#publisher=newsstand"
+        "title": "Guns, Political Killings, Attacks On Cops: Punjab's Arms Trail Before Polls",
+        "link": "https://www.ndtv.com/india-news/guns-political-killings-attacks-on-cops-punjabs-arms-trail-before-polls-12148396#publisher=newsstand"
       },
       {
-        "title": "Rajnath Singh Launches First India-Made Fleet Support Ship In Vizag",
-        "link": "https://www.ndtv.com/india-news/rajnath-singh-launches-first-india-made-fleet-support-ship-in-vizag-12147979#publisher=newsstand"
+        "title": "Ex-German Spy Chief Arrested For Espionage, Treason",
+        "link": "https://www.ndtv.com/world-news/ex-german-spy-chief-august-hanning-arrested-for-espionage-treason-12148375#publisher=newsstand"
+      },
+      {
+        "title": "What Happened Near Poll Body Office? Inside Story Of Opposition March",
+        "link": "https://www.ndtv.com/india-news/what-happened-near-poll-body-office-inside-story-of-opposition-march-12148232#publisher=newsstand"
+      },
+      {
+        "title": "\"Islam Wanting To Take Over\": Trump On Mass Student Protests In France",
+        "link": "https://www.ndtv.com/world-news/islam-wanting-to-take-over-donald-trump-on-mass-student-protest-in-france-12148064#publisher=newsstand"
+      },
+      {
+        "title": "9/11 To Shoe Bomber: How Major Aviation Incidents Reshaped Airline Security",
+        "link": "https://www.ndtv.com/world-news/9-11-to-shoe-bomber-how-major-aviation-incidents-reshaped-airline-security-12148347#publisher=newsstand"
+      },
+      {
+        "title": "Woman, Boyfriend Kill Husband In Meerut, Phone Chat Exposes Plot",
+        "link": "https://www.ndtv.com/india-news/up-woman-kills-husband-with-boyfriend-phone-chat-exposes-murder-12147289#publisher=newsstand"
+      },
+      {
+        "title": "Rahul Gandhi Had Made A Batman Quip. His Party Made Him Caped Crusader",
+        "link": "https://www.ndtv.com/india-news/batman-congress-casts-rahul-gandhi-as-batman-in-reel-2-months-after-his-own-quip-12148224#publisher=newsstand"
+      },
+      {
+        "title": "'Permanently Shifted' Voters Nearly Half of 13.39-Crore Flagged Entries",
+        "link": "https://www.ndtv.com/india-news/permanently-shifted-voters-nearly-half-of-13-39-crore-flagged-entries-12148304#publisher=newsstand"
       },
       {
         "title": "Rahul, Priyanka Gandhi Detained During Sit-In Against Gyanesh Kumar. Released",
         "link": "https://www.ndtv.com/india-news/opposition-plan-to-seek-gyanesh-kumars-sacking-begins-today-with-big-march-12142578#publisher=newsstand"
       },
       {
-        "title": "Earthquake Tremors Felt In Delhi, Adjoining Areas",
-        "link": "https://www.ndtv.com/india-news/delhi-earthquake-ncr-earthquake-earthquake-tremors-felt-in-delhi-adjoining-areas-12147915#publisher=newsstand"
-      },
-      {
-        "title": "High Turnout For Bypolls in 3 States, Puducherry; Humayun Kabir Arrested In Bengal",
-        "link": "https://www.ndtv.com/india-news/nandigram-madurantakam-dharapuram-high-turnout-for-byp-olls-in-3-states-puducherry-humayun-kabir-arrested-in-bengal-12147927#publisher=newsstand"
-      },
-      {
-        "title": "Bhutan, India Boost Clean Energy Ties With 770 Megawatt Hydropower Deal",
-        "link": "https://www.ndtv.com/india-news/bhutan-india-boost-clean-energy-ties-with-770-megawatt-hydropower-deal-12147930#publisher=newsstand"
-      },
-      {
-        "title": "7 Killed After SUV Rams Parked Trailer Truck In Gujarat",
-        "link": "https://www.ndtv.com/india-news/7-killed-after-suv-rams-parked-trailer-truck-in-gujarat-12147890#publisher=newsstand"
-      },
-      {
-        "title": "Adani Airport Launches Swirl Transit Hotel At Navi Mumbai International Airport",
-        "link": "https://www.ndtv.com/india-news/adani-airport-launches-swirl-transit-hotel-at-navi-mumbai-international-airport-12147868#publisher=newsstand"
-      },
-      {
-        "title": "INDIA Bloc Protest LIVE | Rahul, Priyanka Gandhi Released Hours After Detention",
-        "link": "https://www.ndtv.com/india-news/live-updates-india-bloc-marches-to-poll-body-office-demands-gyanesh-kumars-resignation-12144166#publisher=newsstand"
-      },
-      {
-        "title": "\"We Should Stand In Awe\": Ex-Australian PM Praises Captain Smit Machchhar",
-        "link": "https://www.ndtv.com/india-news/we-should-stand-in-awe-ex-australian-pm-kevin-rudd-praises-captain-smit-machchhar-12147710#publisher=newsstand"
+        "title": "Resolution Honouring Captain Smit Machchhar Introduced In US House Of Representatives",
+        "link": "https://www.ndtv.com/world-news/resolution-honouring-captain-smit-machchhar-introduced-in-us-house-of-representatives-12148296#publisher=newsstand"
       }
     ],
     "Hindustan Times": [
@@ -223,12 +223,28 @@
     ],
     "The Hindu": [
       {
+        "title": "Twenty-five years of leadership, an India transformed",
+        "link": "https://www.thehindu.com/opinion/lead/twenty-five-years-of-leadership-an-india-transformed/article71552707.ece"
+      },
+      {
+        "title": "Kerala High Court sets aside detention order of Thiruvananthapuram councillor R. Sugathan",
+        "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-sets-aside-detention-order-of-thiruvananthapuram-councillor-r-sugathan/article71552446.ece"
+      },
+      {
+        "title": "Ladli Behna scheme has turned out to be \u2018very expensive\u2019, says Madhya Pradesh CM",
+        "link": "https://www.thehindu.com/news/national/madhya-pradesh/ladli-behna-scheme-has-turned-out-to-be-very-expensive-says-madhya-pradesh-cm/article71552264.ece"
+      },
+      {
         "title": "Act against illegal resorts and homestays in tiger reserves: Ramalinga Reddy",
         "link": "https://www.thehindu.com/news/national/karnataka/act-against-illegal-resorts-and-homestays-in-tiger-reserves-ramalinga-reddy/article71551839.ece"
       },
       {
         "title": "Milk price in Karnataka may go up by \u20b98, but only after Legislative Council polls",
         "link": "https://www.thehindu.com/news/national/karnataka/milk-price-in-karnataka-may-go-up-by-8-but-only-after-legislative-council-polls/article71552764.ece"
+      },
+      {
+        "title": "Maharashtra Govt approves to increase scholarship\u00a0allowance for SC and ST students",
+        "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-govt-approves-to-increase-scholarshipallowance-for-sc-and-st-students/article71552395.ece"
       },
       {
         "title": "Tremors felt across Delhi-NCR as 4.9-magnitude quake hits Uttarakhand\u2019s Chamoli",
@@ -245,25 +261,17 @@
       {
         "title": "RPF, Nemili police seize 16 kg of ganja in separate cases; four persons held",
         "link": "https://www.thehindu.com/news/national/tamil-nadu/rpf-nemili-police-seize-16-kg-of-ganja-in-separate-cases-four-persons-held/article71551300.ece"
-      },
-      {
-        "title": "Burglars decamp with 30 sovereigns of gold, \u20b95 lakh in Ranipet",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/burglars-decamp-with-30-sovereigns-of-gold-5-lakh-in-ranipet/article71551303.ece"
-      },
-      {
-        "title": "SIR: BLOs being forced to accept Form-7s without signature of applicants",
-        "link": "https://www.thehindu.com/news/national/telangana/sir-blos-being-forced-to-accept-form-7s-without-signature-of-applicants/article71552172.ece"
-      },
-      {
-        "title": "Case registered against BJP booth-level agent over alleged attempt to delete names of 30 voters in Musheerabad",
-        "link": "https://www.thehindu.com/news/cities/Hyderabad/case-registered-against-bjp-booth-level-agent-over-alleged-attempt-to-delete-names-of-30-voters-in-musheerabad/article71552777.ece"
-      },
-      {
-        "title": "Shree Cement plans \u20b96,700 crore investments in A.P.: Minister",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/shree-cement-plans-6700-crore-investments-in-ap-minister/article71552026.ece"
       }
     ],
     "Livemint": [
+      {
+        "title": "US House bill honours Indian pilot Smit Machchhar after his brave actions thwarted flydubai terror attack",
+        "link": "https://www.livemint.com/news/us-news/us-house-bill-honours-indian-pilot-smit-machchhar-after-his-brave-actions-thwarted-flydubai-terror-attack-11791310648084.html"
+      },
+      {
+        "title": "Trump\u2019s \u2018take out LA, San Diego\u2019 remark: White House clarifies what he actually meant",
+        "link": "https://www.livemint.com/news/us-news/trumps-take-out-la-san-diego-remark-explained-what-the-white-house-says-he-meant-11791316611264.html"
+      },
       {
         "title": "\u2018Layoff was a blessing\u2019: Indian woman in Canada says job loss made her rethink life beyond 9-to-5",
         "link": "https://www.livemint.com/news/trends/layoff-was-a-blessing-indian-woman-in-canada-says-job-loss-made-her-rethink-life-beyond-9to5-11791309620641.html"
@@ -295,14 +303,6 @@
       {
         "title": "Nobel Prize 2026: How much is the prize money in Indian rupees, how joint winners split it, how the amount has changed",
         "link": "https://www.livemint.com/news/world/nobel-prize-2026-how-much-is-the-prize-money-in-indian-rupees-how-joint-winners-split-it-how-the-amount-has-change-11791299567979.html"
-      },
-      {
-        "title": "Bengaluru-Mumbai travel time to drop by 7-8 hours with Vande Bharat Sleeper: How it differs from Udyan Express",
-        "link": "https://www.livemint.com/news/india/bengalurumumbai-travel-time-to-drop-by-7-8-hours-with-vande-bharat-sleeper-how-it-differs-from-udyan-express-11791292366268.html"
-      },
-      {
-        "title": "France PM condemns violence as school unrest spreads nationwide, says 'Burning down a high school does not improve it'",
-        "link": "https://www.livemint.com/news/world/france-pm-condemns-violence-as-school-unrest-spreads-nationwide-says-burning-down-a-high-school-does-not-improve-it-11791295464215.html"
       }
     ],
     "Moneycontrol": [],
@@ -350,6 +350,14 @@
     ],
     "Asianet Kannada": [
       {
+        "title": "\u0cb5\u0cbf\u0cb6\u0ccd\u0cb5\u0ca6 \u0ca6\u0cc8\u0ca4\u0ccd\u0caf \u0c9f\u0cbf20 \u0ca4\u0c82\u0ca1\u0c97\u0cb3\u0cbf\u0c97\u0cc6 \u0c85\u0caf\u0ccd\u0caf\u0cb0\u0ccd \u0c8e\u0c9a\u0ccd\u0c9a\u0cb0\u0cbf\u0c95\u0cc6\u200c,  \u0cb5\u0cbf\u0c82\u0ca1\u0cc0\u0cb8\u0ccd\u200c \u0cb5\u0cbf\u0cb0\u0cc1\u0ca6\u0ccd\u0ca7 \u0cad\u0cb0\u0ccd\u0c9c\u0cb0\u0cbf \u0cb6\u0ca4\u0c95 \u0cac\u0cc6\u0ca8\u0ccd\u0ca8\u0cb2\u0ccd\u0cb2\u0cc7 \u0cb8\u0c82\u0c9a\u0cb2\u0ca8\u0c95\u0cbe\u0cb0\u0cbf \u0cb9\u0cc7\u0cb3\u0cbf\u0c95\u0cc6",
+        "link": "https://kannada.asianetnews.com/gallery/cricket-sports/india-vs-west-indies-highlights-and-captain-shreyas-iyer-warn-to-opposing-teams-rlqke12"
+      },
+      {
+        "title": "\u0cae\u0cc1\u0cb0\u0cbf\u0ca6\u0cc1 \u0cac\u0cbf\u0ca4\u0ccd\u0ca4\u0cc1 \u0ca8\u0cbe\u0c97\u0cbf\u0ca8\u0ccd\u200c \u0ca8\u0c9f\u0ca8 \u0ca6\u0cbe\u0c82\u0caa\u0ca4\u0ccd\u0caf \u0c9c\u0cc0\u0cb5\u0ca8, \u0cae\u0c97\u0cb3 \u0ca8\u0cc6\u0ca8\u0cc6\u0ca6\u0cc1 \u0cad\u0cbe\u0cb5\u0cc1\u0c95\u0ca8\u0cbe\u0ca6 \u0cb8\u0ccd\u0c9f\u0cbe\u0cb0\u0ccd",
+        "link": "https://kannada.asianetnews.com/tv-talk/vijayendra-kumeria-confirms-divorce-from-preeti-bhatia-naagin-actor-get-emotional-for-daughter/articleshow-5s8yu4m"
+      },
+      {
         "title": "14000 \u0cab\u0cbe\u0cb2\u0ccb\u0cb5\u0cb0\u0ccd\u0cb8\u0ccd \u0ca8\u0c82\u0cac\u0cbf \u20b960,000 \u0cb8\u0c82\u0cac\u0cb3\u0c95\u0ccd\u0c95\u0cc6 \u0cb5\u0cbf\u0ca6\u0cbe\u0caf; \u0c87\u0cb5\u0ca4\u0ccd\u0ca4\u0cc1 \u0c88 \u0cb9\u0cc1\u0ca1\u0cc1\u0c97\u0cbf\u0caf \u0cb8\u0ccd\u0ca5\u0cbf\u0ca4\u0cbf \u0c8f\u0ca8\u0cbe\u0c97\u0cbf\u0ca6\u0cc6?",
         "link": "https://kannada.asianetnews.com/india-news/delhi-girl-earns-1-12-lakh-with-14k-followers-after-quitting-60k-job-content-creator-news/articleshow-g53atgp"
       },
@@ -380,14 +388,6 @@
       {
         "title": "\u0c87\u0cb5\u0cbf \u0c95\u0cbe\u0cb0\u0cc1\u0c97\u0cb3 \u0c9a\u0cbe\u0cb0\u0ccd\u0c9c\u0cbf\u0c82\u0c97\u0ccd \u0c9f\u0cc6\u0ca8\u0ccd\u0cb7\u0ca8\u0ccd\u200c\u0c97\u0cc6 \u0c97\u0cc1\u0ca1\u0ccd\u200c\u0cac\u0cc8, \u0cad\u0cbe\u0cb0\u0ca4\u0c95\u0ccd\u0c95\u0cc6 \u0cac\u0cb0\u0ccd\u0ca4\u0cbf\u0cb5\u0cc6 \u0cac\u0c9c\u0cc6\u0c9f\u0ccd \u0cb8\u0ccd\u0ca8\u0cc7\u0cb9\u0cbf \u0cb8\u0ca3\u0ccd\u0ca3 \u0cb9\u0cc8\u0cac\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd \u0c95\u0cbe\u0cb0\u0cc1\u0c97\u0cb3\u0cc1",
         "link": "https://kannada.asianetnews.com/car-news/upcoming-small-hybrid-cars-in-india-launch-details-price-mileage-kannada-san/articleshow-mkufsit"
-      },
-      {
-        "title": "\u0c87\u0cb5\u0cb0\u0cc7 \u0ca8\u0ccb\u0ca1\u0cbf '\u0caa\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0c87\u0c82\u0ca1\u0cbf\u0caf\u0cbe \u0c86\u0c82\u0c95\u0cb0\u0ccd'.. \u0cb0\u0cbe\u0c9c\u0cae\u0ccc\u0cb3\u0cbf \u0c95\u0cc2\u0ca1 \u0caa\u0ccd\u0cb0\u0cb6\u0c82\u0cb8\u0cbf\u0cb8\u0cbf\u0ca6 \u0c86 \u0c9c\u0ca8\u0caa\u0ccd\u0cb0\u0cbf\u0caf \u0ca8\u0cbf\u0cb0\u0cc2\u0caa\u0c95\u0cbf \u0caf\u0cbe\u0cb0\u0cc1?",
-        "link": "https://kannada.asianetnews.com/gallery/tv-talk/meet-the-real-pan-india-anchor-praised-by-ss-rajamouli-himself-dfuckry"
-      },
-      {
-        "title": "\u20b92.20 \u0cb2\u0c95\u0ccd\u0cb7\u0ca6 Vivo \u0cab\u0ccb\u0ca8\u0ccd \u0cad\u0cbe\u0cb0\u0ca4\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0cb2\u0cbe\u0c82\u0c9a\u0ccd; iPhone \u0c97\u0cbf\u0c82\u0ca4 \u0ca6\u0cc1\u0cac\u0cbe\u0cb0\u0cbf, \u0c85\u0c82\u0ca5\u0ca6\u0ccd\u0ca6\u0cc7\u0ca8\u0cbf\u0ca6\u0cc6?",
-        "link": "https://kannada.asianetnews.com/gallery/india-news/vivo-x-fold-6-smartphone-launched-in-india-price-rs-2-2-lakh-gtmag0x"
       }
     ],
     "News18 Kannada": [],
@@ -520,47 +520,51 @@
   },
   "keywords": [
     {
+      "term": "Indian",
+      "score": 5.5
+    },
+    {
       "term": "Delhi-NCR",
       "score": 5.2
     },
     {
-      "term": "Indian",
-      "score": 4.5
-    },
-    {
-      "term": "Rahul",
-      "score": 4.2
-    },
-    {
-      "term": "Uttarakhand",
-      "score": 4.2
-    },
-    {
-      "term": "Tremors",
-      "score": 3.2
-    },
-    {
-      "term": "Delhi",
-      "score": 2.9
+      "term": "INDIA",
+      "score": 3.9
     },
     {
       "term": "India",
-      "score": 2.9
+      "score": 3.9
     },
     {
-      "term": "INDIA",
-      "score": 2.9
+      "term": "Rahul",
+      "score": 3.2
     },
     {
       "term": "What",
+      "score": 2.9
+    },
+    {
+      "term": "Trump",
+      "score": 2.9
+    },
+    {
+      "term": "France",
       "score": 2.6
     },
     {
-      "term": "Uttarakhand's Chamoli",
+      "term": "Tremors",
+      "score": 2.6
+    },
+    {
+      "term": "Uttarakhand",
+      "score": 2.6
+    },
+    {
+      "term": "PM Modi",
       "score": 2
     },
     {
-      "term": "Captain Smit Machchhar",
+      "term": "Uttarakhand's Chamoli",
       "score": 2
     },
     {
@@ -568,59 +572,55 @@
       "score": 1.9
     },
     {
-      "term": "Magnitude",
+      "term": "Mann",
       "score": 1.6
     },
     {
-      "term": "Released",
-      "score": 1.6
-    },
-    {
-      "term": "France",
+      "term": "Made",
       "score": 1.6
     }
   ],
   "newsapi": [],
   "gnews": [
     {
-      "title": "\u0938\u094c\u0930\u0935 \u0917\u093e\u0902\u0917\u0941\u0932\u0940 \u092c\u0928\u0947 \u0926\u093f\u0932\u094d\u0932\u0940 \u0915\u0948\u092a\u093f\u091f\u0932\u094d\u0938 \u0915\u0947 \u0928\u090f \u0939\u0947\u0921 \u0915\u094b\u091a, IPL 2027 \u0938\u0947 \u092a\u0939\u0932\u0947 \u092c\u0921\u093c\u093e \u0910\u0932\u093e\u0928",
-      "link": "https://www.livehindustan.com/cricket/sourav-ganguly-appointed-head-coach-of-delhi-capitals-big-announcement-before-ipl-2027-201791272773278.html"
+      "title": "\u0d06\u0d15\u0d3e\u0d36\u0d35\u0d3e\u0d23\u0d3f \u0d35\u0d33\u0d2a\u0d4d\u0d2a\u0d3f\u0d7d \u0d15\u0d41\u0d24\u0d4d\u0d24\u0d3f\u0d2f\u0d3f\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d4d \u0d30\u0d3e\u0d39\u0d41\u0d32\u0d41\u0d02 \u0d2a\u0d4d\u0d30\u0d3f\u0d2f\u0d19\u0d4d\u0d15\u0d2f\u0d41\u0d02: \u0d05\u0d31\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d3f\u0d28\u0d4d \u0d28\u0d40\u0d15\u0d4d\u0d15\u0d02; \u0d17\u0d47\u0d31\u0d4d\u0d31\u0d4d \u0d24\u0d33\u0d4d\u0d33\u0d3f\u0d24\u0d4d\u0d24\u0d41\u0d31\u0d28\u0d4d\u0d28\u0d4d \u0d2a\u0d4d\u0d30\u0d35\u0d7c\u0d24\u0d4d\u0d24\u0d15\u0d7c",
+      "link": "https://www.mathrubhumi.com/news/india/india-bloc-protest-delhi-cec-resignation-rahul-gandhi-npst0cf4"
     },
     {
-      "title": "West Bengal Rain: \u09b0\u09be\u099c\u09cd\u09af\u09c7 \u09b6\u09c1\u09b7\u09cd\u0995 \u0986\u09ac\u09b9\u09be\u0993\u09df\u09be \u09b6\u09c1\u09b0\u09c1 \u09b8\u09aa\u09cd\u09a4\u09be\u09b9\u09be\u09a8\u09cd\u09a4\u09c7, \u09ac\u09c3\u09b7\u09cd\u099f\u09bf \u0995\u09bf \u0986\u09b0 \u09b9\u09ac\u09c7? IMD \u09af\u09be \u099c\u09be\u09a8\u09be\u099a\u09cd\u099b\u09c7",
-      "link": "https://bangla.aajtak.in/kolkata/story/west-bengal-rain-forecast-rain-till-saturday-from-sunday-dry-weather-for-kolkata-south-bengal-and-north-bengal-districts-imd-7-day-weather-update-sud-1459411-2026-10-06"
+      "title": "'\u0a85\u0aae\u0aa8\u0ac7 \u0aaa\u0aa3 \u0a9c\u0ac7\u0ab2\u0aae\u0abe\u0a82 \u0aaa\u0ac2\u0ab0\u0ac0 \u0aa6\u0acb': \u0a98\u0ab0 \u0aac\u0ab9\u0abe\u0ab0 50 \u0aaa\u0acb\u0ab2\u0ac0\u0ab8 \u0aa4\u0ac8\u0aa8\u0abe\u0aa4 \u0aa5\u0aa4\u0abe\u0a82 \u0a85\u0aad\u0abf\u0a9c\u0ac0\u0aa4 \u0aa6\u0ac0\u0aaa\u0a95\u0ac7\u0aa8\u0acb \u0aaa\u0acd\u0ab0\u0ab9\u0abe\u0ab0, \u0aa6\u0ac7\u0ab6\u0aad\u0ab0\u0aae\u0abe\u0a82 \u0a86\u0a82\u0aa6\u0acb\u0ab2\u0aa8\u0aa8\u0ac0 \u0a9a\u0ac0\u0aae\u0a95\u0ac0",
+      "link": "https://www.gujaratsamachar.com/news/national/put-us-in-jail-too-abhijeet-deepke-attacks-as-50-policemen-deployed-outside-his-house-threatens-nationwide-agitation-76857531442"
     },
     {
-      "title": "'\u092e\u0941\u091d\u0947 \u092d\u093e\u0930\u0924 \u092e\u0947\u0902 \u0939\u0940 \u0926\u092b\u0928\u093e\u092f\u093e \u091c\u093e\u090f', \u092d\u093e\u0930\u0924\u0940\u092f \u092f\u0939\u0942\u0926\u0940 \u091c\u0928\u0930\u0932 \u0915\u0940 \u0926\u0932\u0926\u0932 \u092e\u0947\u0902 \u0924\u0947\u091c\u0940 \u0938\u0947 \u092c\u0922\u093c\u0928\u0947 \u0915\u0940 \u0930\u0923\u0928\u0940\u0924\u093f \u0938\u0947 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0938\u0928\u094d\u0928, \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u0906\u091c\u093e\u0926, \u0907\u091c\u0930\u093e\u092f\u0932 \u0928\u0924\u092e\u0938\u094d\u0924\u0915",
-      "link": "https://navbharattimes.indiatimes.com/india/lt-general-jfr-jacob-baghdadi-jewish-secure-surrender-of-pakistan-bangladesh-born-in-1971-israel-salute-him/articleshow/134726364.cms"
+      "title": "Skoda Slavia Facelift: \u092a\u0941\u0930\u093e\u0928\u0947 \u0926\u093e\u092e \u092e\u0947\u0902 \u0928\u0908 \u0915\u093e\u0930! 8-\u0917\u093f\u092f\u0930 \u0935\u093e\u0932\u0940 \u0927\u093e\u0902\u0938\u0942 \u092b\u0948\u092e\u093f\u0932\u0940 \u0938\u0947\u0921\u093e\u0928 \u0932\u0949\u0928\u094d\u091a, \u0915\u0940\u092e\u0924 \u0939\u0948 \u0907\u0924\u0928\u0940",
+      "link": "https://www.aajtak.in/auto/news/photo/skoda-slavia-facelift-launched-india-price-features-mileage-auaw-2662756-2026-10-06"
     },
     {
-      "title": "\u0c21\u0c4d\u0c30\u0c4b\u0c28\u0c4d \u0c26\u0c3e\u0c21\u0c41\u0c32 \u0c2d\u0c2f\u0c02.. \u0c2a\u0c3e\u0c15\u0c4d \u0c38\u0c48\u0c28\u0c3f\u0c15 \u0c2a\u0c4b\u0c38\u0c4d\u0c1f\u0c41\u0c32\u0c15\u0c41 \u2018\u0c1a\u0c47\u0c2a\u0c32 \u0c35\u0c32\u0c32\u0c41\u2019!",
-      "link": "https://www.andhrajyothy.com/2026/international/pakistan-army-fishing-nets-drone-attacks-avn-1564752.html"
+      "title": "\u09e8\u09e6\u09e8\u09ed \u0986\u0987\u09aa\u09bf\u098f\u09b2\u09c7 \u09a6\u09bf\u09b2\u09cd\u09b2\u09bf \u0995\u09cd\u09af\u09be\u09aa\u09bf\u099f\u09be\u09b2\u09b8\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a7\u09be\u09a8 \u0995\u09cb\u099a \u09b8\u09cc\u09b0\u09ad",
+      "link": "https://www.aaroananda.com/story/sports-news/breaking-news/sourav-ganguly-appointed-delhi-capitals-head-coach-ipl-2027/11022998"
     },
     {
-      "title": "\u201c\u0b87\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bbe\u0bb2\u0bc7 \u0b86\u0bb3\u0bc1\u0bae\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0ba4\u0bbe\u0ba9\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8\u201d - \u0ba4\u0bbf\u0bae\u0bc1\u0b95 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0baa\u0bb0\u0ba8\u0bcd\u0ba4\u0bbe\u0bae\u0ba9\u0bcd",
-      "link": "https://www.hindutamil.in/news/tamilnadu/dmk-will-win-in-maduranthakam-paranthaman-expresses-confidence"
+      "title": "\u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u092b\u093f\u0930 \u091a\u0932\u093e '\u0926\u093e\u0926\u093e' \u0915\u093e \u0938\u093f\u0915\u094d\u0915\u093e, IPL \u0938\u0947 \u092a\u0939\u0932\u0947 \u0938\u094c\u0930\u0935 \u0917\u093e\u0902\u0917\u0941\u0932\u0940 \u092c\u0928\u0947 \u0939\u0947\u0921 \u0915\u094b\u091a",
+      "link": "https://www.aajtak.in/sports/cricket/story/sourav-ganguly-appointed-delhi-capitals-head-coach-ipl-2027-tspok-dskc-2662761-2026-10-06"
     },
     {
-      "title": "Abhijeet Dipke claims CJP activists receiving police notices threatening October 10 protest 'could turn violent'",
-      "link": "https://timesofindia.indiatimes.com/india/abhijeet-dipke-claims-cjp-activists-receiving-police-notices-threatening-october-10-protest-could-turn-violent/articleshow/134727079.cms"
+      "title": "A Smarter way...",
+      "link": "https://vivonewsroom.in/5-features-to-look-out-for-in-the-new-originos-7-a-smarter-smoother-way-to-get-things-done/"
     },
     {
-      "title": "Barapullah Was Built To Beat Delhi Traffic. Why Is The New Flyover Causing Jams?",
-      "link": "https://www.ndtv.com/india-news/barapullah-was-built-to-beat-delhi-traffic-why-is-the-new-flyover-causing-jams-12144755"
+      "title": "\u09a6\u09bf\u09a8\u09ad\u09b0 \u09ac\u09c1\u09a5\u09c7 \u0998\u09c1\u09b0\u09b2\u09c7\u09a8 \u09ac\u09bf\u099c\u09c7\u09aa\u09bf \u09aa\u09cd\u09b0\u09be\u09b0\u09cd\u09a5\u09c0, \u09ac\u09be\u09b9\u09bf\u09a8\u09c0\u0995\u09c7\u0993 \u09a4\u09cb\u09aa",
+      "link": "https://www.aaroananda.com/story/latest-news/breaking-news/bjp-candidate-shakharav-sarkar-visits-rejinagar-booths/11022997"
     },
     {
-      "title": "'\u0ab5\u0acb\u0a9f \u0a9a\u0acb\u0ab0\u0ac0'\u0aa8\u0abe \u0aae\u0ac1\u0aa6\u0acd\u0aa6\u0abe \u0aaa\u0ab0 \u0a86\u0a95\u0abe\u0ab6\u0ab5\u0abe\u0aa3\u0ac0 \u0aad\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0aa7\u0ab0\u0aa3\u0abe \u0aaa\u0ab0 \u0aac\u0ac7\u0aa0\u0abe \u0ab0\u0abe\u0ab9\u0ac1\u0ab2 \u0a97\u0abe\u0a82\u0aa7\u0ac0",
-      "link": "https://gujarati.abplive.com/news/india/opposition-mps-hold-protest-march-over-the-issue-of-vote-theft-992739"
+      "title": "'\u0d17\u0d3e\u0d38 \u0d2f\u0d41\u0d26\u0d4d\u0d27\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d41\u0d33\u0d4d\u0d33 \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d15\u0d3e\u0d30\u0d2e\u0d3e\u0d2f\u0d3f \u0d06\u0d15\u0d4d\u0d30\u0d2e\u0d23\u0d02' \u0d2b\u0d4d\u0d32\u0d48\u0d26\u0d41\u0d2c\u0d3e\u0d2f\u0d4d \u0d38\u0d39\u0d2a\u0d48\u0d32\u0d31\u0d4d\u0d31\u0d4d \u0d39\u0d2e\u0d3e\u0d02 \u0d2e\u0d4a\u0d34\u0d3f \u0d28\u0d7d\u0d15\u0d3f\u0d2f\u0d24\u0d3e\u0d2f\u0d3f \u0d31\u0d3f\u0d2a\u0d4d\u0d2a\u0d4b\u0d7c\u0d1f\u0d4d\u0d1f\u0d4d",
+      "link": "https://malayalam.news18.com/news/world/flydubai-attack-omani-co-pilot-hamam-al-hammami-acted-in-revenge-for-gaza-war-claims-report-rv-791108.html"
     },
     {
-      "title": "\u0c2a\u0c3e\u0c15\u0c3f\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c4d\u200c\u0c32\u0c4b \u0c38\u0c48\u0c28\u0c3f\u0c15 \u0c2a\u0c4b\u0c38\u0c4d\u0c1f\u0c41\u0c32\u0c41, \u0c2a\u0c4b\u0c32\u0c40\u0c38\u0c41 \u0c38\u0c4d\u0c1f\u0c47\u0c37\u0c28\u0c4d\u0c32 \u0c1a\u0c41\u0c1f\u0c4d\u0c1f\u0c42 \u0c1a\u0c47\u0c2a\u0c32 \u0c35\u0c32\u0c32\u0c41.. \u0c0f\u0c2e\u0c48\u0c28\u0c3e \u0c10\u0c21\u0c3f\u0c2f\u0c3e\u0c28\u0c3e \u0c38\u0c30\u0c4d \u0c1c\u0c40..!?",
-      "link": "https://telugu.samayam.com/latest-news/international-news/pakistan-installing-fishing-nets-at-outposts-to-get-protection-from-drone-attacks/articleshow/134727138.cms"
+      "title": "Gujarat Rain: \u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0aae\u0abe\u0a82 \u0a86\u0a9c\u0ac7 \u0a85\u0ab9\u0ac0\u0a82 \u0ab5\u0ab0\u0ab8\u0ab6\u0ac7 \u0ab5\u0ab0\u0ab8\u0abe\u0aa6, \u0a9a\u0acb\u0aae\u0abe\u0ab8\u0abe\u0aa8\u0ac0 \u0ab5\u0abf\u0aa6\u0abe\u0aaf \u0ab5\u0a9a\u0acd\u0a9a\u0ac7 \u0ab9\u0ab5\u0abe\u0aae\u0abe\u0aa8 \u0ab5\u0abf\u0aad\u0abe\u0a97\u0aa8\u0ac0 \u0ab5\u0ab0\u0ab8\u0abe\u0aa6\u0aa8\u0ac0 \u0a86\u0a97\u0abe\u0ab9\u0ac0",
+      "link": "https://gujarati.abplive.com/news/gujarat/gujarat-monsoon-official-withdrawal-western-disturbance-south-gujarat-rain-heat-forecast-992741"
     },
     {
-      "title": "Rhiti Tiwari 25000 Pocketmoney Controversy With Ekam Bawa ; '25000 \u092a\u0949\u0915\u0947\u091f\u092e\u0928\u0940, \u0935\u0921\u093e\u092a\u093e\u0935\u0935\u0930 \u0926\u093f\u0935\u0938 \u0915\u093e\u0922\u0932\u0947', \u0935\u0915\u094d\u0924\u0935\u094d\u092f\u093e\u0935\u0930 \u0930\u093f\u0924\u0940 \u0924\u093f\u0935\u093e\u0930\u0940 \u0938\u094d\u092a\u0937\u094d\u091f\u091a \u092c\u094b\u0932\u0932\u0940, \u0938\u093e\u0935\u0924\u094d\u0930 \u0935\u0921\u093f\u0932\u093e\u0902\u0928\u093e \u0926\u093f\u0932\u0902 \u0938\u0921\u0947\u0924\u094b\u0921 \u0909\u0924\u094d\u0924\u0930",
-      "link": "https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/rhiti-tiwari-answered-to-stepfather-ekam-bawa-on-25-thousand-pocket-money-controversy/articleshow/134727006.cms"
+      "title": "Sourav Ganguly appointed Delhi Capitals head coach",
+      "link": "https://www.cricbuzz.com/cricket-news/140411/sourav-ganguly-appointed-delhi-capitals-head-coach-cricbuzzcom"
     }
   ],
   "twitter": null

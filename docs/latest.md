@@ -1,41 +1,41 @@
-# India Trending Report — 2026-10-06 20:02:09
+# India Trending Report — 2026-10-06 20:39:16
 
 ## Google Trends (India) — top trending searches
-1. [belarus vs finland](https://trends.google.com/trending/rss?geo=IN)
-2. [કરોડ](https://trends.google.com/trending/rss?geo=IN)
-3. [kim kardashian](https://trends.google.com/trending/rss?geo=IN)
-4. [street fighter movie](https://trends.google.com/trending/rss?geo=IN)
-5. [abhishek bachchan](https://trends.google.com/trending/rss?geo=IN)
-6. [scout op](https://trends.google.com/trending/rss?geo=IN)
-7. [messi](https://trends.google.com/trending/rss?geo=IN)
-8. [scotland vs slovenia](https://trends.google.com/trending/rss?geo=IN)
-9. [aman gandhi](https://trends.google.com/trending/rss?geo=IN)
-10. [croatia vs spain](https://trends.google.com/trending/rss?geo=IN)
+1. [mikel merino](https://trends.google.com/trending/rss?geo=IN)
+2. [hannibal](https://trends.google.com/trending/rss?geo=IN)
+3. [harry kane](https://trends.google.com/trending/rss?geo=IN)
+4. [belarus vs finland](https://trends.google.com/trending/rss?geo=IN)
+5. [કરોડ](https://trends.google.com/trending/rss?geo=IN)
+6. [kim kardashian](https://trends.google.com/trending/rss?geo=IN)
+7. [luka modrić](https://trends.google.com/trending/rss?geo=IN)
+8. [8th pay commission](https://trends.google.com/trending/rss?geo=IN)
+9. [ivan perišić](https://trends.google.com/trending/rss?geo=IN)
+10. [street fighter movie](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [As US-India ties face turbulence, American lawmakers honor pilot's courage](https://timesofindia.indiatimes.com/world/us/amid-turbulence-in-us-india-ties-american-lawmakers-honor-pilots-courage/articleshow/134747236.cms)
+- [CBI raids CM Bhagwant Mann’s camp office, his OSD’s home in graft probe](https://timesofindia.indiatimes.com/india/cbi-raids-cm-bhagwant-manns-camp-office-his-osds-home-in-graft-probe/articleshow/134749798.cms)
+- [Opposition's anti-SIR-CEC march turns into INDIA bloc-government face-off](https://timesofindia.indiatimes.com/india/oppositions-anti-sir-cec-march-turns-into-india-bloc-government-face-off/articleshow/134749875.cms)
 - ['Expert in theatrics': BJP hits out at Rahul over protest 'drama' at Akashvani Bhawan](https://timesofindia.indiatimes.com/india/expert-in-theatrics-bjp-its-out-at-rahul-gandhi-over-protest-drama-row-over-meeting-ec/articleshow/134746881.cms)
-- [Barricade stunt, 9-hour dharna and detentions: All that happened at oppn's CEC protest](https://timesofindia.indiatimes.com/india/barricade-stunt-chips-9-hour-dharna-and-detentions-all-that-happened-at-rahul-gandhi-led-cec-protest/articleshow/134746114.cms)
 - ['Unusual request': EC explains why it could not meet Rahul Gandhi-led opposition MPs](https://timesofindia.indiatimes.com/india/unusual-request-ec-explains-why-it-could-not-meet-rahul-gandhi-led-opposition-mps/articleshow/134744625.cms)
+- [SpaceX overpumped 128M gallons of groundwater; now Texas city has to pay $175,000](https://timesofindia.indiatimes.com/technology/tech-news/spacexs-rocket-testing-plant-overpumped-128-million-gallons-of-groundwater-in-three-years-now-this-texas-city-has-to-pay-175000-in-penalties-and-fund-a-new-monitoring-system/articleshow/134743244.cms)
+- [Cabinet adopts resolution hailing achievements of PM Modi](https://timesofindia.indiatimes.com/india/cabinet-adopts-resolution-hailing-achievements-of-pm-modi/articleshow/134749886.cms)
+- [Arnold Schwarzenegger donated $250,000 to build 25 shelters for homeless veterans](https://timesofindia.indiatimes.com/world/us/in-2021-arnold-schwarzenegger-donated-250000-to-help-homeless-veterans-in-los-angeles-before-christmas-25-tiny-shelters-were-installed-with-beds-climate-control-and-doors-residents-could-lock/articleshow/134738245.cms)
 - [Astronomers find ‘phoenix planet’ born from ashes of a dying star](https://timesofindia.indiatimes.com/science/astronomers-find-phoenix-planet-born-from-ashes-of-a-dying-star/articleshow/134749586.cms)
 - [4.9-magnitude earthquake hits Uttarakhand's Chamoli, tremors felt in Delhi-NCR](https://timesofindia.indiatimes.com/india/earthquake-tremors-felt-in-delhi-ncr/articleshow/134746208.cms)
-- [SpaceX overpumped 128M gallons of groundwater; now Texas city has to pay $175,000](https://timesofindia.indiatimes.com/technology/tech-news/spacexs-rocket-testing-plant-overpumped-128-million-gallons-of-groundwater-in-three-years-now-this-texas-city-has-to-pay-175000-in-penalties-and-fund-a-new-monitoring-system/articleshow/134743244.cms)
-- [British Indian peer Lord Ranger wins right to judicial review of CBE annulment](https://timesofindia.indiatimes.com/world/uk/british-indian-peer-lord-ranger-wins-right-to-judicial-review-of-cbe-annulment/articleshow/134749624.cms)
-- [103-year-old WWII veteran still tends same Maryland bar after 63 years](https://timesofindia.indiatimes.com/world/us/a-103-year-old-world-war-ii-veteran-has-been-tending-the-same-basement-bar-in-maryland-since-1963-after-63-years-behind-the-counter-irv-koch-still-opens-when-the-first-customer-arrives/articleshow/134729691.cms)
-- [As US-India ties face turbulence, American lawmakers honor pilot's courage](https://timesofindia.indiatimes.com/world/us/amid-turbulence-in-us-india-ties-american-lawmakers-honor-pilots-courage/articleshow/134747236.cms)
-- [Jammu and Kashmir: Arms & drugs seized in cross-border smuggling case; 4 held](https://timesofindia.indiatimes.com/india/jammu-and-kashmir-arms-drugs-seized-in-cross-border-smuggling-case-4-held/articleshow/134749535.cms)
 
 **NDTV**
-- [Uttarakhand Earthquake Live Updates: 4.9-Magnitude Earthquake Hits Uttarakhand, Tremors Felt In Delhi](https://www.ndtv.com/delhi-news/delhi-earthquake-today-ncr-earthquakes-tremors-noida-gurgaon-uttarakhand-uttar-pradesh-12147969#publisher=newsstand)
-- [Rajnath Singh Launches First India-Made Fleet Support Ship In Vizag](https://www.ndtv.com/india-news/rajnath-singh-launches-first-india-made-fleet-support-ship-in-vizag-12147979#publisher=newsstand)
+- [Guns, Political Killings, Attacks On Cops: Punjab's Arms Trail Before Polls](https://www.ndtv.com/india-news/guns-political-killings-attacks-on-cops-punjabs-arms-trail-before-polls-12148396#publisher=newsstand)
+- [Ex-German Spy Chief Arrested For Espionage, Treason](https://www.ndtv.com/world-news/ex-german-spy-chief-august-hanning-arrested-for-espionage-treason-12148375#publisher=newsstand)
+- [What Happened Near Poll Body Office? Inside Story Of Opposition March](https://www.ndtv.com/india-news/what-happened-near-poll-body-office-inside-story-of-opposition-march-12148232#publisher=newsstand)
+- ["Islam Wanting To Take Over": Trump On Mass Student Protests In France](https://www.ndtv.com/world-news/islam-wanting-to-take-over-donald-trump-on-mass-student-protest-in-france-12148064#publisher=newsstand)
+- [9/11 To Shoe Bomber: How Major Aviation Incidents Reshaped Airline Security](https://www.ndtv.com/world-news/9-11-to-shoe-bomber-how-major-aviation-incidents-reshaped-airline-security-12148347#publisher=newsstand)
+- [Woman, Boyfriend Kill Husband In Meerut, Phone Chat Exposes Plot](https://www.ndtv.com/india-news/up-woman-kills-husband-with-boyfriend-phone-chat-exposes-murder-12147289#publisher=newsstand)
+- [Rahul Gandhi Had Made A Batman Quip. His Party Made Him Caped Crusader](https://www.ndtv.com/india-news/batman-congress-casts-rahul-gandhi-as-batman-in-reel-2-months-after-his-own-quip-12148224#publisher=newsstand)
+- ['Permanently Shifted' Voters Nearly Half of 13.39-Crore Flagged Entries](https://www.ndtv.com/india-news/permanently-shifted-voters-nearly-half-of-13-39-crore-flagged-entries-12148304#publisher=newsstand)
 - [Rahul, Priyanka Gandhi Detained During Sit-In Against Gyanesh Kumar. Released](https://www.ndtv.com/india-news/opposition-plan-to-seek-gyanesh-kumars-sacking-begins-today-with-big-march-12142578#publisher=newsstand)
-- [Earthquake Tremors Felt In Delhi, Adjoining Areas](https://www.ndtv.com/india-news/delhi-earthquake-ncr-earthquake-earthquake-tremors-felt-in-delhi-adjoining-areas-12147915#publisher=newsstand)
-- [High Turnout For Bypolls in 3 States, Puducherry; Humayun Kabir Arrested In Bengal](https://www.ndtv.com/india-news/nandigram-madurantakam-dharapuram-high-turnout-for-byp-olls-in-3-states-puducherry-humayun-kabir-arrested-in-bengal-12147927#publisher=newsstand)
-- [Bhutan, India Boost Clean Energy Ties With 770 Megawatt Hydropower Deal](https://www.ndtv.com/india-news/bhutan-india-boost-clean-energy-ties-with-770-megawatt-hydropower-deal-12147930#publisher=newsstand)
-- [7 Killed After SUV Rams Parked Trailer Truck In Gujarat](https://www.ndtv.com/india-news/7-killed-after-suv-rams-parked-trailer-truck-in-gujarat-12147890#publisher=newsstand)
-- [Adani Airport Launches Swirl Transit Hotel At Navi Mumbai International Airport](https://www.ndtv.com/india-news/adani-airport-launches-swirl-transit-hotel-at-navi-mumbai-international-airport-12147868#publisher=newsstand)
-- [INDIA Bloc Protest LIVE | Rahul, Priyanka Gandhi Released Hours After Detention](https://www.ndtv.com/india-news/live-updates-india-bloc-marches-to-poll-body-office-demands-gyanesh-kumars-resignation-12144166#publisher=newsstand)
-- ["We Should Stand In Awe": Ex-Australian PM Praises Captain Smit Machchhar](https://www.ndtv.com/india-news/we-should-stand-in-awe-ex-australian-pm-kevin-rudd-praises-captain-smit-machchhar-12147710#publisher=newsstand)
+- [Resolution Honouring Captain Smit Machchhar Introduced In US House Of Representatives](https://www.ndtv.com/world-news/resolution-honouring-captain-smit-machchhar-introduced-in-us-house-of-representatives-12148296#publisher=newsstand)
 
 **Hindustan Times**
 - [Dentist recalls 45 minutes of trying to save Smit Machchhar's life: 'Please don’t sleep, we need you'](https://www.hindustantimes.com/india-news/flydubai-incident-hijack-scare-dentist-recalls-saving-smit-machchhar-indian-pilot-dont-sleep-israel-omani-tel-aviv-dubai-101791305521381.html)
@@ -62,18 +62,20 @@
 - [Ind Vs Wi T20i- ಲಖನೌನಲ್ಲಿ ಸ್ಪಿನ್ನರ್ ಗಳ ವಿರುದ್ಧ ವಿಂಡೀಸ್ ಪರದಾಟ; ಬಳಿಕ ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ನಾಯಕನಾಟ! ಇಲ್ಲಿದೆ ಹೈಲೈಟ್ಸ್](https://vijaykarnataka.com/sports/cricket/news/shreyas-iyer-century-india-beat-west-indies-by-8-wickets/articleshow/134745753.cms)
 
 **The Hindu**
+- [Twenty-five years of leadership, an India transformed](https://www.thehindu.com/opinion/lead/twenty-five-years-of-leadership-an-india-transformed/article71552707.ece)
+- [Kerala High Court sets aside detention order of Thiruvananthapuram councillor R. Sugathan](https://www.thehindu.com/news/national/kerala/kerala-high-court-sets-aside-detention-order-of-thiruvananthapuram-councillor-r-sugathan/article71552446.ece)
+- [Ladli Behna scheme has turned out to be ‘very expensive’, says Madhya Pradesh CM](https://www.thehindu.com/news/national/madhya-pradesh/ladli-behna-scheme-has-turned-out-to-be-very-expensive-says-madhya-pradesh-cm/article71552264.ece)
 - [Act against illegal resorts and homestays in tiger reserves: Ramalinga Reddy](https://www.thehindu.com/news/national/karnataka/act-against-illegal-resorts-and-homestays-in-tiger-reserves-ramalinga-reddy/article71551839.ece)
 - [Milk price in Karnataka may go up by ₹8, but only after Legislative Council polls](https://www.thehindu.com/news/national/karnataka/milk-price-in-karnataka-may-go-up-by-8-but-only-after-legislative-council-polls/article71552764.ece)
+- [Maharashtra Govt approves to increase scholarship allowance for SC and ST students](https://www.thehindu.com/news/national/maharashtra/maharashtra-govt-approves-to-increase-scholarshipallowance-for-sc-and-st-students/article71552395.ece)
 - [Tremors felt across Delhi-NCR as 4.9-magnitude quake hits Uttarakhand’s Chamoli](https://www.thehindu.com/news/national/tremors-felt-across-delhi-ncr-as-49-magnitude-quake-hits-uttarakhands-chamoli/article71553036.ece)
 - [Vellore police hands over missing phones to owners](https://www.thehindu.com/news/national/tamil-nadu/vellore-police-hands-over-missing-phones-to-owners/article71551307.ece)
 - [CM Samrat Choudhary directs officials to submit detailed report on flood damage in Bihar](https://www.thehindu.com/news/national/bihar/cm-samrat-choudhary-directs-officials-to-submit-detailed-report-on-flood-damage-in-bihar/article71552720.ece)
 - [RPF, Nemili police seize 16 kg of ganja in separate cases; four persons held](https://www.thehindu.com/news/national/tamil-nadu/rpf-nemili-police-seize-16-kg-of-ganja-in-separate-cases-four-persons-held/article71551300.ece)
-- [Burglars decamp with 30 sovereigns of gold, ₹5 lakh in Ranipet](https://www.thehindu.com/news/national/tamil-nadu/burglars-decamp-with-30-sovereigns-of-gold-5-lakh-in-ranipet/article71551303.ece)
-- [SIR: BLOs being forced to accept Form-7s without signature of applicants](https://www.thehindu.com/news/national/telangana/sir-blos-being-forced-to-accept-form-7s-without-signature-of-applicants/article71552172.ece)
-- [Case registered against BJP booth-level agent over alleged attempt to delete names of 30 voters in Musheerabad](https://www.thehindu.com/news/cities/Hyderabad/case-registered-against-bjp-booth-level-agent-over-alleged-attempt-to-delete-names-of-30-voters-in-musheerabad/article71552777.ece)
-- [Shree Cement plans ₹6,700 crore investments in A.P.: Minister](https://www.thehindu.com/news/national/andhra-pradesh/shree-cement-plans-6700-crore-investments-in-ap-minister/article71552026.ece)
 
 **Livemint**
+- [US House bill honours Indian pilot Smit Machchhar after his brave actions thwarted flydubai terror attack](https://www.livemint.com/news/us-news/us-house-bill-honours-indian-pilot-smit-machchhar-after-his-brave-actions-thwarted-flydubai-terror-attack-11791310648084.html)
+- [Trump’s ‘take out LA, San Diego’ remark: White House clarifies what he actually meant](https://www.livemint.com/news/us-news/trumps-take-out-la-san-diego-remark-explained-what-the-white-house-says-he-meant-11791316611264.html)
 - [‘Layoff was a blessing’: Indian woman in Canada says job loss made her rethink life beyond 9-to-5](https://www.livemint.com/news/trends/layoff-was-a-blessing-indian-woman-in-canada-says-job-loss-made-her-rethink-life-beyond-9to5-11791309620641.html)
 - [This Indian state, with 112 billionaires and wealth of over  ₹63 lakh crore, will impose water cut on its people](https://www.livemint.com/news/india/this-indian-state-with-112-billionaires-and-wealth-of-over-63-lakh-crore-will-impose-water-cut-on-its-people-11791309051081.html)
 - [‘Longer but safer’ routes may beat speed: France says IMEC ‘more necessary amid Gaza, Iran, Hormuz crises’](https://www.livemint.com/news/world/longer-but-safer-routes-may-beat-speed-france-says-imec-more-necessary-amid-gaza-iran-hormuz-crises-11791303247567.html)
@@ -82,8 +84,6 @@
 - [Could Bolsonaro's election win give Trump his biggest prize yet in Latin America? How big is Brazil's economy? Explained](https://www.livemint.com/news/world/could-bolsonaros-election-win-give-trump-his-biggest-prize-yet-in-latin-america-how-big-is-brazils-economy-explained-11791302802418.html)
 - [Jeffrey Archer’s India connection: Why the bestselling author released his new books here before Britain](https://www.livemint.com/news/trends/jeffrey-archer-s-india-connection-why-the-bestselling-author-released-his-new-books-here-before-britain-11791303687920.html)
 - [Nobel Prize 2026: How much is the prize money in Indian rupees, how joint winners split it, how the amount has changed](https://www.livemint.com/news/world/nobel-prize-2026-how-much-is-the-prize-money-in-indian-rupees-how-joint-winners-split-it-how-the-amount-has-change-11791299567979.html)
-- [Bengaluru-Mumbai travel time to drop by 7-8 hours with Vande Bharat Sleeper: How it differs from Udyan Express](https://www.livemint.com/news/india/bengalurumumbai-travel-time-to-drop-by-7-8-hours-with-vande-bharat-sleeper-how-it-differs-from-udyan-express-11791292366268.html)
-- [France PM condemns violence as school unrest spreads nationwide, says 'Burning down a high school does not improve it'](https://www.livemint.com/news/world/france-pm-condemns-violence-as-school-unrest-spreads-nationwide-says-burning-down-a-high-school-does-not-improve-it-11791295464215.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,6 +100,8 @@
 - [ಪತ್ರಿಕೋದ್ಯಮ ವಿಭಾಗಗಳ ಬಲವರ್ಧನೆ ಅಗತ್ಯ : ಆಯೇಶಾ ಖಾನಂ](https://www.varthabharati.in/bangalore-city/ayesha-khanam-2280773)
 
 **Asianet Kannada**
+- [ವಿಶ್ವದ ದೈತ್ಯ ಟಿ20 ತಂಡಗಳಿಗೆ ಅಯ್ಯರ್ ಎಚ್ಚರಿಕೆ‌,  ವಿಂಡೀಸ್‌ ವಿರುದ್ಧ ಭರ್ಜರಿ ಶತಕ ಬೆನ್ನಲ್ಲೇ ಸಂಚಲನಕಾರಿ ಹೇಳಿಕೆ](https://kannada.asianetnews.com/gallery/cricket-sports/india-vs-west-indies-highlights-and-captain-shreyas-iyer-warn-to-opposing-teams-rlqke12)
+- [ಮುರಿದು ಬಿತ್ತು ನಾಗಿನ್‌ ನಟನ ದಾಂಪತ್ಯ ಜೀವನ, ಮಗಳ ನೆನೆದು ಭಾವುಕನಾದ ಸ್ಟಾರ್](https://kannada.asianetnews.com/tv-talk/vijayendra-kumeria-confirms-divorce-from-preeti-bhatia-naagin-actor-get-emotional-for-daughter/articleshow-5s8yu4m)
 - [14000 ಫಾಲೋವರ್ಸ್ ನಂಬಿ ₹60,000 ಸಂಬಳಕ್ಕೆ ವಿದಾಯ; ಇವತ್ತು ಈ ಹುಡುಗಿಯ ಸ್ಥಿತಿ ಏನಾಗಿದೆ?](https://kannada.asianetnews.com/india-news/delhi-girl-earns-1-12-lakh-with-14k-followers-after-quitting-60k-job-content-creator-news/articleshow-g53atgp)
 - [ಫ್ರಿಡ್ಜ್‌ನಲ್ಲಿ ಇಡದಿದ್ರೂ ಮೊಸರು ಹುಳಿಯಾಗಲ್ಲ, ಅಜ್ಜಿ ಕಾಲದ ಸಿಂಪಲ್ ಟ್ರಿಕ್!](https://kannada.asianetnews.com/webstories/kitchen/no-fridge-heres-how-to-keep-curd-fresh-and-sweet-for-3-days-e4o8erd)
 - [FD ಇಟ್ಟವರಿಗೆ ಕಾದಿದೆ ಭಾರಿ ಜಾಕ್‌ಪಾಟ್! ಬ್ಯಾಂಕ್‌ಗಳ ಕೈಕಟ್ಟಿ ಹಾಕಿದ ಹೈಕೋರ್ಟ್ ಮಹತ್ವದ ಆದೇಶದಲ್ಲೇನಿದೆ?](https://kannada.asianetnews.com/business/delhi-high-court-bank-fd-interest-rate-cut-fixed-deposit-depositor-rights-natwest-case-bmk/articleshow-tttiwgy)
@@ -108,8 +110,6 @@
 - [ಬ್ರಹ್ಮೋತ್ಸವ ನೋಡಲು ತಿರುಪತಿಗೆ ಹೋಗ್ತೀರಾ? ನಾಳೆ ಬೆಳಗ್ಗೆ ರಿಲೀಸ್‌ ಆಗಲಿದೆ ₹300 ವಿಶೇಷ ಪ್ರವೇಶ ದರ್ಶನ ಟಿಕೆಟ್](https://kannada.asianetnews.com/festivals/tirumala-tirupati-ttd-300-rs-special-entry-darshan-tickets-release-october-7-san/articleshow-y6qgm3f)
 - [ನವರಾತ್ರಿ ಆರಂಭಕ್ಕೂ ಮುನ್ನ ಈ ತಪ್ಪು ಮಾಡಬೇಡಿ! ಮನೆಯಲ್ಲಿ ಇಂತಹ ವಸ್ತುಗಳಿದ್ದರೆ ಇಂದೇ ತೆಗೆದುಹಾಕಿ](https://kannada.asianetnews.com/gallery/festivals/navratri-2026-vastu-tips-remove-these-things-from-your-home-before-sharad-navratri-xgk8uu2)
 - [ಇವಿ ಕಾರುಗಳ ಚಾರ್ಜಿಂಗ್ ಟೆನ್ಷನ್‌ಗೆ ಗುಡ್‌ಬೈ, ಭಾರತಕ್ಕೆ ಬರ್ತಿವೆ ಬಜೆಟ್ ಸ್ನೇಹಿ ಸಣ್ಣ ಹೈಬ್ರಿಡ್ ಕಾರುಗಳು](https://kannada.asianetnews.com/car-news/upcoming-small-hybrid-cars-in-india-launch-details-price-mileage-kannada-san/articleshow-mkufsit)
-- [ಇವರೇ ನೋಡಿ 'ಪ್ಯಾನ್ ಇಂಡಿಯಾ ಆಂಕರ್'.. ರಾಜಮೌಳಿ ಕೂಡ ಪ್ರಶಂಸಿಸಿದ ಆ ಜನಪ್ರಿಯ ನಿರೂಪಕಿ ಯಾರು?](https://kannada.asianetnews.com/gallery/tv-talk/meet-the-real-pan-india-anchor-praised-by-ss-rajamouli-himself-dfuckry)
-- [₹2.20 ಲಕ್ಷದ Vivo ಫೋನ್ ಭಾರತದಲ್ಲಿ ಲಾಂಚ್; iPhone ಗಿಂತ ದುಬಾರಿ, ಅಂಥದ್ದೇನಿದೆ?](https://kannada.asianetnews.com/gallery/india-news/vivo-x-fold-6-smartphone-launched-in-india-price-rs-2-2-lakh-gtmag0x)
 
 **News18 Kannada** — _unavailable_
 
@@ -150,35 +150,35 @@
 - [ಚಿಕ್ಕಮಗಳೂರು | ಸಾಮಾಜಿಕ ಜಾಲತಾಣ; ಶಾಸಕ ಟಿ.ಡಿ ರಾಜೇಗೌಡರಿಗೆ ಅವಹೇಳನ, ಬೆದರಿಕೆ; ಪ್ರಕರಣ ದಾಖಲು](https://eedina.com/?p=770781)
 
 ## Cross-source trending keywords (derived from headlines above)
+- Indian (5.5)
 - Delhi-NCR (5.2)
-- Indian (4.5)
-- Rahul (4.2)
-- Uttarakhand (4.2)
-- Tremors (3.2)
-- Delhi (2.9)
-- India (2.9)
-- INDIA (2.9)
-- What (2.6)
+- INDIA (3.9)
+- India (3.9)
+- Rahul (3.2)
+- What (2.9)
+- Trump (2.9)
+- France (2.6)
+- Tremors (2.6)
+- Uttarakhand (2.6)
+- PM Modi (2.0)
 - Uttarakhand's Chamoli (2.0)
-- Captain Smit Machchhar (2.0)
 - Chamoli (1.9)
-- Magnitude (1.6)
-- Released (1.6)
-- France (1.6)
+- Mann (1.6)
+- Made (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [सौरव गांगुली बने दिल्ली कैपिटल्स के नए हेड कोच, IPL 2027 से पहले बड़ा ऐलान](https://www.livehindustan.com/cricket/sourav-ganguly-appointed-head-coach-of-delhi-capitals-big-announcement-before-ipl-2027-201791272773278.html)
-- [West Bengal Rain: রাজ্যে শুষ্ক আবহাওয়া শুরু সপ্তাহান্তে, বৃষ্টি কি আর হবে? IMD যা জানাচ্ছে](https://bangla.aajtak.in/kolkata/story/west-bengal-rain-forecast-rain-till-saturday-from-sunday-dry-weather-for-kolkata-south-bengal-and-north-bengal-districts-imd-7-day-weather-update-sud-1459411-2026-10-06)
-- ['मुझे भारत में ही दफनाया जाए', भारतीय यहूदी जनरल की दलदल में तेजी से बढ़ने की रणनीति से पाकिस्तान सन्न, बांग्लादेश आजाद, इजरायल नतमस्तक](https://navbharattimes.indiatimes.com/india/lt-general-jfr-jacob-baghdadi-jewish-secure-surrender-of-pakistan-bangladesh-born-in-1971-israel-salute-him/articleshow/134726364.cms)
-- [డ్రోన్ దాడుల భయం.. పాక్ సైనిక పోస్టులకు ‘చేపల వలలు’!](https://www.andhrajyothy.com/2026/international/pakistan-army-fishing-nets-drone-attacks-avn-1564752.html)
-- [“இடைத்தேர்தல் என்றாலே ஆளும்கட்சிதான் வெற்றி பெறும் என்பதில்லை” - திமுக வேட்பாளர் பரந்தாமன்](https://www.hindutamil.in/news/tamilnadu/dmk-will-win-in-maduranthakam-paranthaman-expresses-confidence)
-- [Abhijeet Dipke claims CJP activists receiving police notices threatening October 10 protest 'could turn violent'](https://timesofindia.indiatimes.com/india/abhijeet-dipke-claims-cjp-activists-receiving-police-notices-threatening-october-10-protest-could-turn-violent/articleshow/134727079.cms)
-- [Barapullah Was Built To Beat Delhi Traffic. Why Is The New Flyover Causing Jams?](https://www.ndtv.com/india-news/barapullah-was-built-to-beat-delhi-traffic-why-is-the-new-flyover-causing-jams-12144755)
-- ['વોટ ચોરી'ના મુદ્દા પર આકાશવાણી ભવનમાં ધરણા પર બેઠા રાહુલ ગાંધી](https://gujarati.abplive.com/news/india/opposition-mps-hold-protest-march-over-the-issue-of-vote-theft-992739)
-- [పాకిస్థాన్‌లో సైనిక పోస్టులు, పోలీసు స్టేషన్ల చుట్టూ చేపల వలలు.. ఏమైనా ఐడియానా సర్ జీ..!?](https://telugu.samayam.com/latest-news/international-news/pakistan-installing-fishing-nets-at-outposts-to-get-protection-from-drone-attacks/articleshow/134727138.cms)
-- [Rhiti Tiwari 25000 Pocketmoney Controversy With Ekam Bawa ; '25000 पॉकेटमनी, वडापाववर दिवस काढले', वक्तव्यावर रिती तिवारी स्पष्टच बोलली, सावत्र वडिलांना दिलं सडेतोड उत्तर](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/rhiti-tiwari-answered-to-stepfather-ekam-bawa-on-25-thousand-pocket-money-controversy/articleshow/134727006.cms)
+- [ആകാശവാണി വളപ്പിൽ കുത്തിയിരുന്ന് രാഹുലും പ്രിയങ്കയും: അറസ്റ്റിന് നീക്കം; ഗേറ്റ് തള്ളിത്തുറന്ന് പ്രവർത്തകർ](https://www.mathrubhumi.com/news/india/india-bloc-protest-delhi-cec-resignation-rahul-gandhi-npst0cf4)
+- ['અમને પણ જેલમાં પૂરી દો': ઘર બહાર 50 પોલીસ તૈનાત થતાં અભિજીત દીપકેનો પ્રહાર, દેશભરમાં આંદોલનની ચીમકી](https://www.gujaratsamachar.com/news/national/put-us-in-jail-too-abhijeet-deepke-attacks-as-50-policemen-deployed-outside-his-house-threatens-nationwide-agitation-76857531442)
+- [Skoda Slavia Facelift: पुराने दाम में नई कार! 8-गियर वाली धांसू फैमिली सेडान लॉन्च, कीमत है इतनी](https://www.aajtak.in/auto/news/photo/skoda-slavia-facelift-launched-india-price-features-mileage-auaw-2662756-2026-10-06)
+- [২০২৭ আইপিএলে দিল্লি ক্যাপিটালসের প্রধান কোচ সৌরভ](https://www.aaroananda.com/story/sports-news/breaking-news/sourav-ganguly-appointed-delhi-capitals-head-coach-ipl-2027/11022998)
+- [दिल्ली में फिर चला 'दादा' का सिक्का, IPL से पहले सौरव गांगुली बने हेड कोच](https://www.aajtak.in/sports/cricket/story/sourav-ganguly-appointed-delhi-capitals-head-coach-ipl-2027-tspok-dskc-2662761-2026-10-06)
+- [A Smarter way...](https://vivonewsroom.in/5-features-to-look-out-for-in-the-new-originos-7-a-smarter-smoother-way-to-get-things-done/)
+- [দিনভর বুথে ঘুরলেন বিজেপি প্রার্থী, বাহিনীকেও তোপ](https://www.aaroananda.com/story/latest-news/breaking-news/bjp-candidate-shakharav-sarkar-visits-rejinagar-booths/11022997)
+- ['ഗാസ യുദ്ധത്തിനുള്ള പ്രതികാരമായി ആക്രമണം' ഫ്ലൈദുബായ് സഹപൈലറ്റ് ഹമാം മൊഴി നൽകിയതായി റിപ്പോർട്ട്](https://malayalam.news18.com/news/world/flydubai-attack-omani-co-pilot-hamam-al-hammami-acted-in-revenge-for-gaza-war-claims-report-rv-791108.html)
+- [Gujarat Rain: ગુજરાતમાં આજે અહીં વરસશે વરસાદ, ચોમાસાની વિદાય વચ્ચે હવામાન વિભાગની વરસાદની આગાહી](https://gujarati.abplive.com/news/gujarat/gujarat-monsoon-official-withdrawal-western-disturbance-south-gujarat-rain-heat-forecast-992741)
+- [Sourav Ganguly appointed Delhi Capitals head coach](https://www.cricbuzz.com/cricket-news/140411/sourav-ganguly-appointed-delhi-capitals-head-coach-cricbuzzcom)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
