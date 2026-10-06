@@ -1,10 +1,10 @@
-# India Trending Report — 2026-10-06 02:38:53
+# India Trending Report — 2026-10-06 03:03:04
 
 ## Google Trends (India) — top trending searches
-1. [jeffrey archer](https://trends.google.com/trending/rss?geo=IN)
-2. [happened](https://trends.google.com/trending/rss?geo=IN)
-3. [బంగారం](https://trends.google.com/trending/rss?geo=IN)
-4. [தமிழக முதல்வர்](https://trends.google.com/trending/rss?geo=IN)
+1. [ஆர். எஸ். பாரதி](https://trends.google.com/trending/rss?geo=IN)
+2. [jeffrey archer](https://trends.google.com/trending/rss?geo=IN)
+3. [happened](https://trends.google.com/trending/rss?geo=IN)
+4. [బంగారం](https://trends.google.com/trending/rss?geo=IN)
 5. [weather kanpur](https://trends.google.com/trending/rss?geo=IN)
 6. [ekadashi kab hai](https://trends.google.com/trending/rss?geo=IN)
 7. [बिहार](https://trends.google.com/trending/rss?geo=IN)
@@ -15,29 +15,31 @@
 ## Latest headlines by outlet
 **Times of India**
 - [SIR row: Will annul EC orders not in keeping with law, says Supreme Court](https://timesofindia.indiatimes.com/india/sir-row-will-annul-election-commission-orders-not-in-keeping-with-law-says-supreme-court/articleshow/134716812.cms)
-- [Test for BJP in Bengal, TVK in TN; bypolls in 5 assembly constituencies, 1 LS seat begins](https://timesofindia.indiatimes.com/city/kolkata/tamil-nadu-west-bengal-assam-puducherry-bypolls-voting-begins-for-5-assembly-1-lok-sabha-seats-key-contests-explained/articleshow/134720841.cms)
 - [Trump blames Iran for flydubai incident, Vance 'defers', says 'nothing conclusively yet'](https://timesofindia.indiatimes.com/world/us/trump-blames-iran-for-flydubai-incident-vance-defers-says-nothing-conclusively-yet/articleshow/134720849.cms)
-- [Jeffrey Archer, author and former British politician, dies at 86](https://timesofindia.indiatimes.com/world/uk/jeffrey-archer-british-author-and-former-conservative-politician-dies-at-86/articleshow/134720496.cms)
-- [Pakistan, Saudi, Turkiye activate Mecca defence pact as Yemen war escalates](https://timesofindia.indiatimes.com/world/middle-east/pakistan-saudi-arabia-turkiye-activate-mecca-defence-pact-amid-houthi-attacks/articleshow/134716048.cms)
-- [Accenture CEO rejects concerns that AI is a threat to the company’s business model](https://timesofindia.indiatimes.com/technology/tech-news/accenture-ceo-julie-sweet-rejects-concerns-that-ai-is-a-threat-to-the-companys-business-model-says-our-strategy-is-to-lean-on-/articleshow/134720906.cms)
-- [Trump signs order to ease diesel costs, ‘save millions of dollars’ for farmers](https://timesofindia.indiatimes.com/business/international-business/trump-signs-order-to-ease-diesel-costs-save-millions-of-dollars-for-farmers/articleshow/134720655.cms)
-- [Woman declares Rs 67.4L ancestral jewellery in ITR; gets notice, she wins in ITAT](https://timesofindia.indiatimes.com/business/india-business/woman-declared-rs-67-4-lakh-ancestral-jewellery-in-her-itr-which-led-to-additions-by-tax-department-itat-mumbai-deleted-it-on-basis-of-old-records-but-rejected-her-rs-12-lakh-huf-brokerage-claim/articleshow/134706982.cms)
 - [86 to 101: Kohli's final ODI window to break Tendulkar's century record](https://timesofindia.indiatimes.com/sports/cricket/news/86-to-101-virat-kohlis-final-odi-window-to-break-sachin-tendulkars-century-record/articleshow/134700454.cms)
-- [Nepal ends flood search with over 5,000 still missing, including 189 Indians](https://timesofindia.indiatimes.com/world/south-asia/nepal-ends-flood-search-with-over-5000-still-missing-including-189-indians/articleshow/134720060.cms)
+- [Before triple murder, Bengaluru techie used AI to ‘rehearse’ attack scenarios](https://timesofindia.indiatimes.com/city/bengaluru/before-triple-murder-bengaluru-techie-used-ai-to-rehearse-attack-scenarios/articleshow/134714726.cms)
+- [Accenture CEO rejects concerns that AI is a threat to the company’s business model](https://timesofindia.indiatimes.com/technology/tech-news/accenture-ceo-julie-sweet-rejects-concerns-that-ai-is-a-threat-to-the-companys-business-model-says-our-strategy-is-to-lean-on-/articleshow/134720906.cms)
+- [Jeffrey Archer, author and former British politician, dies at 86](https://timesofindia.indiatimes.com/world/uk/jeffrey-archer-british-author-and-former-conservative-politician-dies-at-86/articleshow/134720496.cms)
+- [Woman declares Rs 67.4L ancestral jewellery in ITR; gets notice, she wins in ITAT](https://timesofindia.indiatimes.com/business/india-business/woman-declared-rs-67-4-lakh-ancestral-jewellery-in-her-itr-which-led-to-additions-by-tax-department-itat-mumbai-deleted-it-on-basis-of-old-records-but-rejected-her-rs-12-lakh-huf-brokerage-claim/articleshow/134706982.cms)
+- [Houthis target Aramco refinery, Saudi capital airport as Mecca defence pact activated](https://timesofindia.indiatimes.com/world/middle-east/houthis-target-aramco-refinery-saudi-capital-airport-as-mecca-defence-pact-activated-report/articleshow/134720643.cms)
+- [Oil prices hover near $100 as Middle East supply holds up, Gulf risks persist](https://timesofindia.indiatimes.com/business/international-business/oil-prices-hover-near-100-as-middle-east-supply-holds-up-gulf-risks-persist/articleshow/134720943.cms)
+- [Trump signs order to ease diesel costs, ‘save millions of dollars’ for farmers](https://timesofindia.indiatimes.com/business/international-business/trump-signs-order-to-ease-diesel-costs-save-millions-of-dollars-for-farmers/articleshow/134720655.cms)
 
 **NDTV**
-- [Stage Set For 6 Bye-Elections, Test For BJP In Bengal, TVK In Tamil Nadu](https://www.ndtv.com/india-news/stage-set-for-6-by-polls-test-for-bjp-in-bengal-tvk-in-tamil-nadu-12143014#publisher=newsstand)
-- [600 Illegal Bangladeshi Immigrants Identified In J&K, 150 Deported](https://www.ndtv.com/india-news/600-illegal-bangladeshi-immigrants-identified-in-jammu-and-kashmir-150-deported-12143445#publisher=newsstand)
-- [Trump Says He Will Pay For Political Ads After Row Over Taxpayer Funding](https://www.ndtv.com/world-news/donald-trump-says-he-will-pay-for-political-ads-after-row-over-taxpayer-funding-ahead-of-us-midterm-polls-12143404#publisher=newsstand)
-- [Germany At Risk Of "Violent Conflict" With Russia, Claims Spy Chief](https://www.ndtv.com/world-news/germany-at-risk-of-violent-conflict-with-russia-claims-spy-chief-12143393#publisher=newsstand)
-- [Jeffrey Archer, UK Author And Former Conservative Politician, Dies At 86](https://www.ndtv.com/world-news/jeffrey-archer-uk-author-and-former-conservative-politician-dies-at-86-12143369#publisher=newsstand)
-- [Woman, 26, Jumps Into Well With 4-Year-Old Son In UP, Both Die: Cops](https://www.ndtv.com/india-news/woman-26-jumps-into-well-with-4-year-old-son-in-up-both-die-cops-12143358#publisher=newsstand)
-- [Iran-Backed Houthis Say They Attacked Riyadh Airport, Aramco Refinery](https://www.ndtv.com/world-news/iran-backed-houthis-say-they-attacked-riyadh-airport-aramco-refinery-in-saudi-arabia-12143310#publisher=newsstand)
-- [Trump Offers Help To Russia After Suspected Plague Death, Quarantines](https://www.ndtv.com/world-news/donald-trump-offers-help-to-russia-after-suspected-plague-death-quarantines-12143278#publisher=newsstand)
-- [Trump Says US Moved All B-1 Bombers From UK Airbase After "Some Threats"](https://www.ndtv.com/world-news/donald-trump-says-us-moved-all-b-1-bombers-from-uk-airbase-after-some-threats-12143177#publisher=newsstand)
-- [For First Time, Pakistan To Deploy Troops To Aide Saudi-Backed Yemen Forces](https://www.ndtv.com/world-news/turkey-pakistan-to-deploy-forces-to-saudi-amid-houthi-attacks-12143090#publisher=newsstand)
+- [The Jet That Wasn't There: What Really Happened Over Islamabad In 1997](https://www.ndtv.com/india-news/mig-25-kargil-jet-that-wasnt-there-what-really-happened-over-islamabad-in-1997-12142118#publisher=newsstand)
+- [By-Election 2026 Live Updates: Humayun Kabir Detained After He Cast His Vote In Rejinagar](https://www.ndtv.com/india-news/byelection-2026-live-updates-nandigram-rejinagar-nagaon-lok-sabha-dharapuram-madurantakam-west-bengal-tamil-nadu-assam-puducherry-voting-live-news-upd-12143555#publisher=newsstand)
+- [Trump's Ex-Press Secretary Karoline Leavitt Joins Fox News](https://www.ndtv.com/world-news/trumps-ex-press-secretary-karoline-leavitt-joins-fox-news-12143600#publisher=newsstand)
+- [Elon Musk Becomes Trillionaire Again As SpaceX, Tesla Shares Rise](https://www.ndtv.com/world-news/elon-musk-becomes-trillionaire-again-as-spacex-tesla-shares-rise-12143589#publisher=newsstand)
+- [Delhi Cop Vivek Bhagat's Promotion Withheld Amid Sexual Harassment Allegation](https://www.ndtv.com/india-news/delhi-cop-vivek-bhagats-promotion-withheld-amid-sexual-harassment-allegation-12143125#publisher=newsstand)
+- [India-UAE Joint Military Exercise Begins In Uttarakhand, Focus On Mountain Warfare](https://www.ndtv.com/india-news/india-uae-joint-military-exercise-begins-in-uttarakhand-focus-on-mountain-warfare-12143552#publisher=newsstand)
+- [Indian Sailor Injured In Russian Strike On Cargo Ship. New Delhi Reacts](https://www.ndtv.com/world-news/indian-sailor-injured-in-russian-strike-on-cargo-ship-new-delhi-reacts-12143527#publisher=newsstand)
+- [In Big Move, First International Shipment Flagged Off From Assam's Dibrugarh](https://www.ndtv.com/india-news/in-big-move-first-international-shipment-flagged-off-from-assams-dibrugarh-12143539#publisher=newsstand)
+- [Stage Set For 6 By-Elections, Test For BJP In Bengal, TVK In Tamil Nadu](https://www.ndtv.com/india-news/stage-set-for-6-by-polls-test-for-bjp-in-bengal-tvk-in-tamil-nadu-12143014#publisher=newsstand)
+- [Kerala Bids Emotional Farewell To Tusker Pallattu Brahmadathan](https://www.ndtv.com/india-news/kerala-bids-emotional-farewell-to-tusker-pallattu-brahmadathan-12143514#publisher=newsstand)
 
 **Hindustan Times**
+- [Rajya Sabha polls: The daunting task of getting nominations scrutinised](https://www.hindustantimes.com/india-news/rajya-sabha-polls-the-daunting-task-of-getting-nominations-scrutinised-101791253362985.html)
+- [26-year-old man claims name deleted from Goa voter list despite SIR mapping; to move HC](https://www.hindustantimes.com/india-news/goa-man-claims-name-deleted-despite-sir-mapping-evidence-election-commission-news-form-6-101791252345532.html)
 - [CM: AI training in govt schools to start from Class 6](https://www.hindustantimes.com/india-news/cm-ai-training-in-govt-schools-to-start-from-class-6-101791227884318.html)
 - [25-yr-old gym trainer killed after assault by 3 colleagues in B’luru](https://www.hindustantimes.com/india-news/25yrold-gym-trainer-killed-after-assault-by-3-colleagues-in-bluru-101791227764552.html)
 - [BJP BLA faces search warrant over Form 7](https://www.hindustantimes.com/india-news/bjp-bla-faces-search-warrant-over-form-7-101791227644123.html)
@@ -46,20 +48,18 @@
 - [ECI orders action over bogus Form 7s in T’gana, says CEO](https://www.hindustantimes.com/india-news/eci-orders-action-over-bogus-form-7s-in-t-gana-says-ceo-101791226743910.html)
 - [Andhra govt to take integrated approach to manage water: CM](https://www.hindustantimes.com/india-news/andhra-govt-to-take-integrated-approach-to-manage-water-cm-101791226685517.html)
 - [AP’s planned influencer policy kicks up row in state](https://www.hindustantimes.com/india-news/aps-planned-influencer-policy-kicks-up-row-in-state-101791226518192.html)
-- [Tarang Shakti sets record for IAF women pilots’ participation](https://www.hindustantimes.com/india-news/tarang-shakti-sets-record-for-iaf-women-pilots-participation-101791226395329.html)
-- [Indian states seek extra power to avoid outages as nighttime supply tightens, officials say](https://www.hindustantimes.com/india-news/indian-states-seek-extra-power-to-avoid-outages-as-nighttime-supply-tightens-officials-say-101791252872093.html)
 
 **Vijay Karnataka**
+- [ಕರ್ನಾಟಕದ ಸರ್ಕಾರಿ ಶಾಲೆಗಳಲ್ಲಿ 6ನೇ ತರಗತಿಯಿಂದಲೇ AI ಶಿಕ್ಷಣಕ್ಕೆ ಸರ್ಕಾರದ ಚಿಂತನೆ: ಸಿಎಂ ಡಿಕೆ ಶಿವಕುಮಾರ್ ಹೇಳಿಕೆ!](https://vijaykarnataka.com/news/karnataka/cm-dk-shivakumar-says-govt-plans-for-ai-education-from-6th-grade-in-karnataka-govt-school/articleshow/134720979.cms)
 - [ದಸರಾ ಅವಧಿಯಲ್ಲಿ ಮೈಸೂರಿಗೆ 700 ಹೆಚ್ಚುವರಿ KSRTC ಬಸ್‌ ಸಂಚಾರ: 20 ಲಕ್ಷ ಪ್ರಯಾಣಿಕರ ನಿರೀಕ್ಷೆ, ₹20ಕೋಟಿ ಆದಾಯದ ಗುರಿ!](https://vijaykarnataka.com/news/mysuru/700-additional-ksrtc-buses-to-mysuru-during-dasara-expecting-2-million-passengers/articleshow/134720597.cms)
 - [ಹೌತಿ ದಾಳಿ ಮಧ್ಯೆ ಸೌದಿ ಅರೇಬಿಯಾ ನೆರವಿಗೆ ಪಾಕ್-ಟರ್ಕಿ: ಸೌದಿಯಲ್ಲಿ ಮಿಲಿಟರಿ ನಿಯೋಜನೆಗೆ ರೆಡಿ, ಕೊನೆಗೂ ಮೆಕ್ಕಾ ಒಪ್ಪಂದ ಜಾರಿ!](https://vijaykarnataka.com/news/world/pakistan-turkey-to-send-forces-to-saudi-arabia-under-mecca-pact-as-houthi-attacks-mount/articleshow/134720174.cms)
-- [ಕೈದಿ ಬಿಡುಗಡೆಗಾಗಿ ಆತನ ಪತ್ನಿಯನ್ನೇ ದುರ್ಬಳಕೆ ಮಾಡಿಕೊಂಡ ಜೈಲು ಆಫೀಸರ್, ಡಿಐಜಿ ಅಕ್ರಮ ಬಯಲಿಗೆಳೆದ ಅನಾಮಧೇಯ ಪತ್ರ!](https://vijaykarnataka.com/news/karnataka/fake-supreme-court-order-used-to-free-life-convict-karnataka-prisons-dig-arrested/articleshow/134720440.cms)
 - [ಮೊಡವೆ ಕಡಿಮೆಯಾಗುತ್ತಿಲ್ಲವೇ? ನಿಮ್ಮ ದಿಂಬಿನ ಕವರ್, ಮೊಬೈಲ್‌ ಕೂಡ ಕಾರಣವಾಗಿರಬಹುದು!](https://vijaykarnataka.com/lifestyle/beauty/acne-causes-pillowcase-mobile-hair-products/articleshow/134713028.cms)
-- [ಚನ್ನಪಟ್ಟಣ ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆಗೆ ಮಧ್ಯರಾತ್ರಿ ಯುಟಿ ಖಾದರ್ ದಿಢೀರ್ ಎಂಟ್ರಿ! ವೈದ್ಯರ ಬೆವರಿಳಿಸಿದ ಆರೋಗ್ಯ ಸಚಿವ](https://vijaykarnataka.com/news/ramanagara/health-minister-u-t-khader-surprise-visit-to-channapatna-government-hospital/articleshow/134720354.cms)
+- [ಮನ್‌ಮುಲ್‌ನ ಹಾಲಿನಪುಡಿ ಕಲಬೆರಕೆ: ₹ 30 ಲಕ್ಷ ಲಂಚದ ಹಣ ಹೊಂದಿಸಲು ಕೃತ್ಯ!](https://vijaykarnataka.com/news/mandya/milk-powder-adulteration-case-in-mandya/articleshow/134720767.cms)
 - [ʻಪ್ರೇಮದ ಊರಲಿʼ ಸಿನಿಮಾಗೆ ರುಕ್ಮಿಣಿ ವಸಂತ್‌ ಮೊದಲ ಆಯ್ಕೆ! ಕೊನೆ ಕ್ಷಣದಲ್ಲಿ ನಡೆದಿದ್ದೇನು?](https://vijaykarnataka.com/entertainment/news/director-manoj-reveals-rukmini-vasanth-was-the-first-choice-for-premada-oorali-movie/articleshow/134720444.cms)
 - [ಶೂ ಬಾಕ್ಸ್‌ನಲ್ಲಿರುವ ಸಿಲಿಕಾ ಜೆಲ್ ಪ್ಯಾಕೆಟ್ ಎಸೆಯಬೇಡಿ; ಮನೆಯಲ್ಲೂ ಹೀಗೆ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/silica-gel-packets-shoe-box-home-uses/articleshow/134651205.cms)
 - [ದೇವಸ್ಥಾನಕ್ಕೆ ದಾನ ಮಾಡಲು ಸೂಕ್ತವಾದ 5 ವಸ್ತುಗಳು.!](https://vijaykarnataka.com/religion/pooja-vidhana/5-things-you-should-donate-to-the-temple-without-fail/articleshow/134716057.cms)
 - [ಮನೆಯಲ್ಲಿ ಉಳಿದ ಇಡ್ಲಿ ಎಸೆಯಬೇಡಿ; ಹೀಗೆ ಮಾಡಿ ಮಸಾಲಾ ಇಡ್ಲಿ ಫ್ರೈ, ರುಚಿ ಸೂಪರ್!](https://vijaykarnataka.com/lifestyle/home-decor/masala-idli-fry-recipe-leftover-idli/articleshow/134697040.cms)
-- [ಅಮ್ಮ ಹುಟ್ಟಿದ 2 ವರ್ಷದಲ್ಲೇ ಮಗಳ ಜನನ! ದ.ಕದಲ್ಲಿ SIR ಕರಡು ಪ್ರತಿಯಲ್ಲಿನ ಎಡವಟ್ಟಿಗೆ ಮ್ಯಾಪಿಂಗ್‌ ಆಗದವರ ಅಲೆದಾಟ](https://vijaykarnataka.com/news/mangaluru/discrepancies-in-sir-voter-list-in-dakshina-kannada-shows-daughter-born-just-2-years-after-mothers-birth/articleshow/134720142.cms)
+- [ಕೈದಿ ಬಿಡುಗಡೆಗಾಗಿ ಆತನ ಪತ್ನಿಯನ್ನೇ ದುರ್ಬಳಕೆ ಮಾಡಿಕೊಂಡ ಜೈಲು ಆಫೀಸರ್, ಡಿಐಜಿ ಅಕ್ರಮ ಬಯಲಿಗೆಳೆದ ಅನಾಮಧೇಯ ಪತ್ರ!](https://vijaykarnataka.com/news/karnataka/fake-supreme-court-order-used-to-free-life-convict-karnataka-prisons-dig-arrested/articleshow/134720440.cms)
 
 **The Hindu**
 - [CEC row LIVE updates: INDIA bloc to hold protest march to ECI headquarters against 'vote chori'; security heightened](https://www.thehindu.com/news/national/cec-row-protest-against-gyanesh-kumar-india-bloc-march-election-commission-sir-issue-live-updates-october-6-2026/article71549790.ece)
@@ -75,7 +75,7 @@
 
 **Livemint**
 - [Ahead of US midterms, Trump signs executive order to expand access to tax-exempt diesel: What we know](https://www.livemint.com/news/us-news/ahead-of-us-midterms-trump-signs-executive-order-to-expand-access-to-tax-exempt-diesel-what-we-know-11791252029011.html)
-- [US-Iran war LIVE: Trump "personally" thinks Iran behind attack on Flydubai flight after Vance says US yet to find a link](https://www.livemint.com/news/us-news/us-iran-war-news-latest-live-updates-donald-trump-hormuz-abbas-araghchi-flydubai-attack-jd-vance-ghalibaf-11791249835663.html)
+- [US-Iran war LIVE: US, Canada, and eight other Latin American and Caribbean nations accuse Iran of terrorist activities](https://www.livemint.com/news/us-news/us-iran-war-news-latest-live-updates-donald-trump-hormuz-abbas-araghchi-flydubai-attack-jd-vance-ghalibaf-11791249835663.html)
 - [Abandoning pet in Chennai can cost  ₹10,000,  ₹5,000 for no licence; vet explains why microchipping is beneficial](https://www.livemint.com/news/india/abandoning-pet-in-chennai-can-cost-10-000-5-000-for-no-licence-vet-explains-why-microchipping-is-beneficial-11791224286119.html)
 - [Beyond assembly: how India’s next telecom PLI wants to build the supply chain from within](https://www.livemint.com/news/india-new-telecom-pli-scheme-11791199089014.html)
 - [Caleb Flynn, ex-American Idol singer, sentenced to life without parole after being found guilty of wife Ashley’s murder](https://www.livemint.com/news/world/caleb-flynn-ex-american-idol-singer-sentenced-to-life-without-parole-after-being-found-guilty-of-wife-ashley-s-murder-11791235237230.html)
@@ -98,6 +98,7 @@
 - [Accumulate Infosys; target of Rs 1531: KR Choksey](https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html)
 
 **Vartha Bharati**
+- [Afghanistan | 70 ಮೀ. ಆಳದ ಕೊಳವೆಬಾವಿಯಲ್ಲಿ ಸಿಲುಕಿಕೊಂಡ 5 ವರ್ಷದ ಮಗು; ಜೀವ ಉಳಿಸಲು ಸ್ವತಃ ಇಳಿದ 11ರ ಹರೆಯದ  ಬಾಲಕ!](https://www.varthabharati.in/international/afghanistan-5-year-old-child-trapped-in-a-70-meter-deep-borewell-an-11-year-old-boy-climbed-down-himself-to-save-the-life-2280544)
 - [Bihar | ಪತಿಯಿಂದ ಹಲ್ಲೆಗೊಳಗಾಗಿ ಪತ್ನಿ ಮೃತ್ಯು; ಅಮ್ಮ ಬರುವ ನಿರೀಕ್ಷೆಯಲ್ಲಿ ಮೃತದೇಹದ ಪಕ್ಕದಲ್ಲೇ ಗೊಂಬೆಗಳೊಂದಿಗೆ ಆಟವಾಡುತ್ತಿದ್ದ ಮಗು](https://www.varthabharati.in/national/bihar-wife-dies-after-being-assaulted-by-husband-child-plays-with-toys-beside-the-body-waiting-for-mother-to-return-2280543)
 - [ಮೃತ ಪೊಲೀಸ್ ಸಿಬ್ಬಂದಿಯ ವಿಮಾ ಹಣಕ್ಕೆ ಲಂಚದ ಬೇಡಿಕೆ ಆರೋಪ; ವಿಮಾ ಇಲಾಖೆ ಅಧಿಕಾರಿ ಲೋಕಾಯುಕ್ತ ಬಲೆಗೆ](https://www.varthabharati.in/bangalore-city/madikeri-2280540)
 - [ರೈತನಿಗೆ ಹಾವು ಕಡಿತ: ತುರ್ತು ಚಿಕಿತ್ಸೆಗೆ ಕರೆದೊಯ್ಯಲು 108 ಸಿಬ್ಬಂದಿ ನಿರಾಕರಣೆ ಆರೋಪ](https://www.varthabharati.in/shimoga/shivamogga-2280539)
@@ -107,10 +108,9 @@
 - [‘ವಿದ್ಯಾವಾಹಿನಿ ತಂತ್ರಾಂಶ’ದಲ್ಲಿ ಎಸ್‌ಡಿಎಂಸಿ ಮಾಹಿತಿ ಸಲ್ಲಿಸಲು ಅವಧಿ ವಿಸ್ತರಣೆ](https://www.varthabharati.in/bangalore-city/sdmc-2280535)
 - [ಟ್ಯಾಂಕರ್ ನೀರಿನ ದರಕ್ಕೆ ಮಿತಿ ನಿಗದಿಗೊಳಿಸಲು ಸಿಎಂಗೆ ಮನವಿ](https://www.varthabharati.in/bangalore-city/--2280533)
 - [‘ಸಿಎಂ ಕಪ್’ ಕಿರೀಟಕ್ಕೆ ಮುತ್ತಿಟ್ಟ ದಯಾನಂದ್ ಸಾಗರ್ ಕಾಲೇಜು; ಚಾಂಪಿಯನ್ ಪಟ್ಟಕ್ಕೇರಿದ ಯುವ ಪಡೆ](https://www.varthabharati.in/bangalore-city/--2280532)
-- [ಕಾಂಗ್ರೆಸ್ ಪಕ್ಷದಿಂದಲ್ಲೇ ಸಾಮಾಜಿಕ ನ್ಯಾಯ: ಡಿ.ಟಿ. ಶ್ರೀನಿವಾಸ](https://www.varthabharati.in/yadagir/social-justice-is-possible-only-through-the-congress-party-dt-srinivas-2280530)
 
 **Asianet Kannada**
-- [Breaking: Flydubai ಘಟನೆ ಬಳಿಕ ಮತ್ತೊಂದು ವಿಮಾನ ದುರಂತ 32 ಪ್ರಯಾಣಿಕರು ಸಾವು!](https://kannada.asianetnews.com/world-news/nigerian-aircraft-crash-all-32-passengers-crew-believed-dead-tinubu-mourns-rav/articleshow-0ivt74w)
+- [Nigerian Aircraft Crash: ಫ್ಲೈದುಬೈ ಘಟನೆ ಬಳಿಕ ಮತ್ತೊಂದು ವಿಮಾನ ದುರಂತ 32 ಪ್ರಯಾಣಿಕರು ಸಾವು!](https://kannada.asianetnews.com/world-news/nigerian-aircraft-crash-all-32-passengers-crew-believed-dead-tinubu-mourns-rav/articleshow-0ivt74w)
 - [ಸರ್ಕಾರಿ ಶಾಲೆಯ ಎದುರು ಬಾವಲಿ ಕೊಂದು ಮೊಟ್ಟೆ, ನಿಂಬೆಹಣ್ಣು ಇರಿಸಿ ವಾಮಾಚಾರದ ಪೂಜೆ](https://kannada.asianetnews.com/karnataka-districts/haveri-ranebennur-black-magic-ritual-performed-in-front-of-a-government-school-mrq/articleshow-bu5zm8i)
 - [ನಿಷೇಧದ ನಡುವೆಯೂ ಅಕ್ರಮವಾಗಿ ತುಂಗಭದ್ರಾ ನದಿಯಲ್ಲಿ ತೆಪ್ಪಗಳ ಸಂಚಾರ! ಸಾವಿರಾರು ಹಣ ವಸೂಲಿ](https://kannada.asianetnews.com/karnataka-districts/koppal-gangavati-illegal-teppa-operations-on-the-tungabhadra-river-despite-the-ban-mrq/articleshow-xa0drza)
 - [ಕೆರೆಗಳಿಗೆ ನೀರು ತುಂಬಿಸದಿದ್ದರೆ ಚುನಾವಣೇಲಿ ನೋಟಾಕ್ಕೆ ಮತ; ಸಿಎಂಗೆ ಈ ಊರಿನ ರೈತರಿಂದ ಎಚ್ಚರಿಕೆ!](https://kannada.asianetnews.com/karnataka-districts/fill-lakes-or-we-vote-nota-hiriyur-farmers-issue-stern-warning-to-karnataka-cm-rav/articleshow-3kh4m6v)
@@ -124,6 +124,9 @@
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [2026ರ ಮೆಡಿಸಿನ್ ನೊಬೆಲ್: ಮೆದುಳಿನ ನರಕೋಶಗಳನ್ನು ಬೆಳಕಿನಿಂದ ನಿಯಂತ್ರಿಸುವ ತಂತ್ರಕ್ಕೆ ಗೌರವ](https://tv9kannada.com/world/optogenetics-wins-2026-medicine-nobel-light-controlled-brain-neurons-breakthrough-1246912.html)
+- [ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಭಾರೀ ಮುಖಭಂಗ: ಟೂರ್ನಿಯಿಂದಲೇ ಕಿಕ್ ಔಟ್!](https://tv9kannada.com/sports/cricket-news/pakistan-out-of-wcl-tournament-as-organizers-reject-pcbs-apology-demand-1246903.html)
+- [‘ಆಸ್ಕರ್ ವೇದಿಕೆಯಲ್ಲಿ ನಿಂತು ತಮಿಳಿನಲ್ಲಿ ಮಾತನಾಡಬೇಕು’; ಆಸೆ ಹೇಳಿಕೊಂಡ ಅಟ್ಲಿ](https://tv9kannada.com/entertainment/atlee-aims-for-oscars-with-vijay-sethupathi-bathttha-dreams-of-tamil-speech-1246904.html)
 - [ವೋಟ್ ಬಚಾವೋ, ದೇಶ್ ಬಚಾವೋ: ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ವಿರುದ್ಧ ಕಾಂಗ್ರೆಸ್ ದೇಶವ್ಯಾಪಿ ಅಭಿಯಾನ](https://tv9kannada.com/national/congresss-mat-bachao-campaign-nationwide-protest-against-cec-gyanesh-kumar-1246898.html)
 - [ಕಾಫಿ ಜೊತೆ ರಶ್ಮಿಕಾ ವಿಜಯ್ ಧಮಾಕಾ; ‘ಕಾಫಿ ವಿತ್ ಕರಣ್’ ಶೋನಲ್ಲಿ ಸೆನ್ಸೇಷನಲ್ ಜೋಡಿ](https://tv9kannada.com/entertainment/bollywood/rashmika-and-vijay-set-the-couch-on-fire-in-koffee-with-karan-season-9-1246897.html)
 - [ಏನಿದು ಹಾಂಗ್ ಕಾಂಗ್ ಸಿಕ್ಸಸ್ ಟೂರ್ನಿ? ಇದರ ನಿಯಮಗಳೇನು ಗೊತ್ತಾ?](https://tv9kannada.com/sports/cricket-news/what-is-hong-kong-sixes-rules-format-and-everything-you-need-to-know-1246892.html)
@@ -131,21 +134,18 @@
 - [ಸೋನಿಕಾ ಜೊತೆ ಫ್ಲರ್ಟ್ ಶುರುಮಾಡಿದ ಜಗ್ಗು ಮಮ್ಮಿ; ಹೊರಗೆ ಶುರುವಾಯ್ತು ತೀವ್ರ ಚರ್ಚೆ](https://tv9kannada.com/entertainment/television/jagga-mummy-flirting-with-sonika-gowda-triger-debate-in-audience-1246885.html)
 - [TV9 Kannada News Live: ಬೆಂಗಳೂರಿನಲ್ಲಿ ರಾತ್ರೋರಾತ್ರಿ ಅಬ್ಬರಿಸಿದ ಮಳೆರಾಯ! ಈ ಹೊತ್ತಿನ ಪ್ರಮುಖ ಸುದ್ದಿಗಳು ಇಲ್ಲಿವೆ](https://tv9kannada.com/karnataka/tv9-kannada-live-news-6-october-2026-bangalore-rains-karnataka-weather-cm-dk-shivakumar-latest-updates-1246887.html)
 - [ನೈಜೀರಿಯಾದಲ್ಲಿ ಸೇನಾ ವಿಮಾನ ಪತನ: 32 ಮಂದಿ ಸಾವು](https://tv9kannada.com/world/nigeria-military-plane-crash-kills-32-president-orders-probe-and-national-mourning-1246884.html)
-- [IPL 2027: ರಿಟೈನ್-ರಿಲೀಸ್ ಆಟಗಾರರ ಪಟ್ಟಿ ಸಲ್ಲಿಸಲು ದಿನಾಂಕ ನಿಗದಿ](https://tv9kannada.com/sports/cricket-news/the-last-date-for-retentions-for-ipl-2027-is-on-november-15th-1246881.html)
-- [ಚಿಕಾಗೋಗೆ ಹೊರಟಿದ್ದ ಬ್ರಿಟಿಷ್ ಏರ್‌ವೇಸ್ ವಿಮಾನ ದಿಢೀರ್ 9,000 ಅಡಿಗೆ ಕುಸಿತ, ಎಮರ್ಜೆನ್ಸಿ ಘೋಷಣೆ: ಲಂಡನ್​ಗೆ ವಾಪಸ್](https://tv9kannada.com/world/british-airways-emergency-london-chicago-flight-drops-9000ft-returns-to-heathrow-1246879.html)
-- [ಕರ್ನಾಟಕ ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ: ಕರಾವಳಿ, ಮಲೆನಾಡಿನಲ್ಲಿ ಮಳೆ, 3 ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಭಾರಿ ಮಳೆ ಸಾಧ್ಯತೆ](https://tv9kannada.com/karnataka/karnataka-weather-forecast-october-6-heavy-rain-alert-for-chikkamagaluru-hassan-and-shivamogga-1246871.html)
 
 **Prajavani**
-- [ಮಡಿಕೇರಿಯಲ್ಲಿ ಪೌರಕಾರ್ಮಿಕರಿಗೆ ಅವಮಾನ: ಸಾಮಾಜಿಕ ಜಾಲತಾಣದಲ್ಲಿ ಹರಿದಾಡಿದ ವಿಡಿಯೊ](https://www.prajavani.net/district/kodagu/madikeri-civic-workers-insult-video-goes-viral-4310426)
-- [ಅಫಜಲಪುರದಲ್ಲಿ ಕೇಬಲ್‌ ಕದ್ದ ಪ್ರಕರಣ: ಆರು ಆರೋಪಿಗಳ ಬಂಧನ](https://www.prajavani.net/district/kalaburagi/afzalpur-cable-theft-six-accused-arrested-police-4310205)
-- [ಕಲಬುರಗಿಯಲ್ಲಿ ರಂಗೇರಿದ ಪರಿಷತ್ ಚುನಾವಣಾ ಕಣ: ನಾಮಪತ್ರ ಸಲ್ಲಿಕೆ](https://www.prajavani.net/district/kalaburagi/kalaburagi-council-election-nomination-filing-begins-4310055)
-- [ಅಳಿವಿನಂಚಿನಲ್ಲಿರುವ ಶ್ವಾಸವಿದ್ಯೆ ಉಳಿಸಿ: ರಾಘವೇಶ್ವರ ಭಾರತೀ ಸ್ವಾಮೀಜಿ ಕರೆ](https://www.prajavani.net/district/uttara-kannada/gokarna-raghaveshwara-bharathi-swamiji-swasa-vidya-importance-4310211)
-- [ಬರ: ಮಳೆಗಾಗಿ ಪ್ರಾರ್ಥಿಸಿ ಕಪ್ಪೆಗಳ ಮದುವೆ ಮಾಡಿದ ಯಲ್ಲಾಪುರ ಗ್ರಾಮಸ್ಥರು](https://www.prajavani.net/district/uttara-kannada/yellapura-villagers-perform-frog-marriage-for-rain-4310136)
-- [ಪ್ರಜಾವಾಣಿ ಸಹಪಾಠಿ: ಅಕ್ಟೋಬರ್ 6ರ ಸ್ಪರ್ಧಾ ಕಣ](https://www.prajavani.net/education-career/education/prajavani-sahapathi-october-competitive-exam-quiz-2-4308956)
-- [‘ಮಕ್ಕಳಿಗೆ ನೀಡಿದ ಹಾಲು ಕಲಬೆರಕೆ ಆಗಿಲ್ಲ’](https://www.prajavani.net/district/mandya/mandya-milk-adulteration-not-given-to-children-sp-clarifies-4310032)
-- [ಅಳಿವೆಗೆ ಪ್ಲಾಸ್ಟಿಕ್ ತ್ಯಾಜ್ಯದ ಅಪಾಯ, ಪರಿಸರಕ್ಕೆ ಮಾರಕ](https://www.prajavani.net/district/uttara-kannada/karwar-estuary-plastic-waste-threat-mangrove-pollution-4310031)
-- [ಹರಪನಹಳ್ಳಿ ರೈಲ್ವೆ ನಿಲ್ದಾಣ ಮೂಲಸೌಲಭ್ಯ ಕೊರತೆ, ಅಪಾಯಕಾರಿ ಹಳಿ](https://www.prajavani.net/district/vijayanagara/harapanahalli-railway-station-lack-of-facilities-danger-4310029)
-- [ಗದಗ ಅವಳಿ ನಗರದ ಜನತೆಯ ದಾಹ ನೀಗಿಸಲಿದೆ ‘ಅಮೃತ್‌ 2.0’ ಯೋಜನೆ](https://www.prajavani.net/district/gadaga/gadag-amruth-water-supply-project-approved-4310028)
+- [ಗದಗ | ಮನೆಯೊಂದರಲ್ಲಿ  ₹1.04 ಲಕ್ಷ ಮೌಲ್ಯದ ಗಾಂಜಾ ವಶ: ಆರೋಪಿ ಬಂಧನ](https://www.prajavani.net/district/gadaga/ganja-seized-gadag-accused-arrested-nagal-police-4309990)
+- [ಪಶ್ಚಿಮ ಪದವೀಧರ ಕ್ಷೇತ್ರ: ಅಭ್ಯರ್ಥಿಗಳ ಬಿರುಸಿನ ಪ್ರಚಾರ](https://www.prajavani.net/district/gadaga/pashchima-padavidhara-kshetra-congress-campaign-lakkameshwar-4310410)
+- [ವಿವಿಧ ಇಲಾಖೆಗಳ ನೇಮಕ: ಕ್ರೀಡಾಳುಗಳಿಗೆ ಶೇ 2ರಷ್ಟು ಮೀಸಲು](https://www.prajavani.net/news/karnataka-news/karnataka-government-announces-two-percent-reservation-for-sports-persons-in-recruitment-4309622)
+- [9 ಹೊಸ ಕೈಗಾರಿಕಾ ಟೌನ್‌ಶಿಪ್: ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್](https://www.prajavani.net/news/karnataka-news/karnataka-government-nine-new-industrial-townships-bmrda-development-plan-4309939)
+- [SIR |ಹೆಸರು ತೆಗೆಯಲು 91 ಸಾವಿರ ಅರ್ಜಿ: ಯಾರನ್ನೂ ಕೈಬಿಟ್ಟಿಲ್ಲ ಎಂದ ಅನ್ಬುಕುಮಾರ್](https://www.prajavani.net/news/karnataka-news/karnataka-voter-list-revision-objection-applications-ceo-clarification-4309776)
+- [ಗಜೇಂದ್ರಗಡ ಸಮೀಪ ಪವನ ವಿದ್ಯುತ್‌ ಫ್ಯಾನ್‌ಗಾಗಿ ಮರಗಳ ಹನನ](https://www.prajavani.net/district/gadaga/gajendragad-tree-felling-wind-power-project-protest-4310044)
+- [ಕೋಲಾರ ದೇವಾಲಯದಲ್ಲಿ ₹1.45 ಲಕ್ಷ ನಗದು, ಚಿನ್ನದ ತಾಳಿ ಕಳವು: ಕಾವಲುಗಾರ ಬಂಧನ](https://www.prajavani.net/district/kolar/kolar-temple-guard-arrested-theft-case-4310060)
+- [ಕೋಲಾರ | ₹50 ಕೋಟಿ ಮೌಲ್ಯದ ನಗರಸಭೆ ಸ್ವತ್ತು ಕಬಳಿಕೆ ಯತ್ನ, ಆರೋಪ](https://www.prajavani.net/district/kolar/kolar-municipal-property-grab-allegations-criminal-case-4310008)
+- [ನೈಜೀರಿಯಾ ಸೇನಾ ವಿಮಾನ ಪತನ: 32 ಜನ ಸಾವು](https://www.prajavani.net/news/world-news/nigeria-military-plane-crash-death-toll-4310577)
+- [ಮುನಿರಾಬಾದ್ ಕಾಲುವೆ ನೀರು ಹಳ್ಳದ ಪಾಲು, ರೈತರಲ್ಲಿ ಆತಂಕ](https://www.prajavani.net/district/koppal/munirabad-canal-water-leak-farmers-concern-4310143)
 
 **eedina**
 - [ರಾಯಚೂರು | ಸೂರ್ಯಕಾಂತಿ ಬೆಂಬಲ ಬೆಲೆ ಕ್ವಿಂಟಾಲ್‌ಗೆ ₹8,343: ಖರೀದಿ ಕೇಂದ್ರ ಆರಂಭ; ಡಿಸಿ](https://eedina.com/?p=770418)
@@ -160,35 +160,35 @@
 - [ಕಲಬುರಗಿ | ನಾಪತ್ತೆಯಾಗಿದ್ದ ಹೋಟೆಲ್‌ ವ್ಯಾಪಾರಿ ಶವವಾಗಿ ಪತ್ತೆ; ಕೊಲೆ ಶಂಕೆ](https://eedina.com/?p=770389)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Trump (6.1)
 - Emkay Global Financial (5.0)
+- Trump (3.9)
 - Form (3.9)
 - LIVE (3.9)
-- Flydubai (3.9)
+- target (3.3)
 - ICICI Securities (3.0)
-- target (3.0)
 - Iran (2.6)
-- Vance (2.6)
-- Woman (2.6)
 - Supreme Court (2.0)
-- Jeffrey Archer (2.0)
 - Buy Bajaj Finance (2.0)
-- Yemen (1.9)
-- Test (1.6)
+- British (1.6)
+- What (1.6)
+- Maharashtra (1.6)
+- Emkay (1.5)
+- Global (1.5)
+- Financial (1.5)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [J&Kમાં 150 બાંગ્લાદેશીઓ સામે મોટી કાર્યવાહી, એરફોર્સના વિમાનથી બાગડોગરા મોકલાયા, 7 ઑક્ટોબરે ફરી એક્શનની શક્યતા](https://www.gujaratsamachar.com/news/national/major-action-against-150-bangladeshis-in-jandk-sent-to-bagdogra-by-air-force-plane-possibility-of-further-action-on-october-7-89994801618)
-- [Rajpal Yadav Cheque Bounce Case:'तुमची जागा जेलमध्ये आहे', चेक बाऊन्स प्रकरणात राजपाल यादवला सुप्रीम कोर्टानं फटकारलं](https://maharashtratimes.com/photogallery/entertainment/supreme-court-slams-rajpal-yadav-in-cheque-bounce-case-for-not-complying-with-its-orders-of-depositing-rs-5-crore/photoshow/134709572.cms)
-- [Flight Emergency: মাঝ-আকাশে আচমকা ২৮ হাজার ফুট নীচে নেমে গেল বিমান, সঙ্গে সঙ্গেই ইমার্জেন্সি ঘোষণা, ঠিক কী ঘটেছে](https://bengali.abplive.com/news/british-airways-flight-ba295-from-london-to-chicago-flight-descends-28000-ft-within-minutes-declares-emergency-1195202)
-- [Nepal ends search and rescue after flood, focuses on rehabilitation](https://www.reuters.com/world/china/nepal-ends-search-rescue-after-flood-focuses-rehabilitation-2026-10-05/)
-- [SIR पर अब जजों के बीच ही रार? जस्टिस भुइयां के बयान पर पूर्व CJI गवई ने उठाए सवाल](https://www.livehindustan.com/national/supreme-court-justice-ujjal-bhuyan-br-gavai-voting-rights-disenfranchisement-201791209614123.html)
-- [चुनाव आयोग ने किया राहुल गांधी के दावे का Fact Check, किस बयान को बताया गुमराह करने वाला?](https://www.indiatv.in/india/politics/election-commission-fact-checks-rahul-gandhi-claim-that-says-cec-gyanesh-kumar-changed-form-6-illegally-and-unilaterally-2026-10-05-1247110)
-- [സുരേഷ് ബാബുവിനെതിരെ സമാന സ്വഭാവമുള്ള വേറെയും പരാതികൾ? കടുത്ത നടപടിക്ക് സിപിഐഎം; ഒതുക്കി തീർക്കാന്‍ ശ്രമമെന്ന് കോണ്‍ഗ്രസ്](https://www.newsmalayalam.com/newsroom/kerala/suresh-babu-faces-more-similar-complaints-cpim-to-take-strict-action)
-- [British Airways BA295 પ્લેનમાં ઇમરજન્સી, મિનિટોમાં 28,000 ફૂટ નીચે આવ્યું વિમાન](https://www.gujaratfirst.com/international/british-airways-flight-ba295-emergency-code-squawk-7700/344219/)
-- [ரஜினியின் ‛ஜெயிலர் 2 டிரைலர் வெளியானது : மீண்டும் வருகிறார் டைகர் முத்துவேல் பாண்டியன்](https://cinema.dinamalar.com/news/kollywood/rajinisjailer-2trailer-out-tiger-muthuvel-pandian-is-back/141308)
-- [‘Even if he’s not getting game time, he’s still in the dugout’: Morne Morkel’s big message for Vaibhav Sooryavanshi](https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/even-if-hes-not-getting-game-time-hes-still-in-the-dugout-morne-morkels-big-message-for-vaibhav-sooryavanshi/articleshow/134708605.cms)
+- [தேர்தல் விதி மீறல்; தவெகவினர் கோடிக்கணக்கில் செலவு செய்ததாக குற்றச்சாட்டு - தேர்தல் ஆணையத்தில் புகார்](https://www.dailythanthi.com/news/tamilnadu/allegations-that-tvk-spent-crores-complaint-to-the-election-commission)
+- [How pond algae led to a Nobel prize and a new way to study the brain](https://theconversation.com/how-pond-algae-led-to-a-nobel-prize-and-a-new-way-to-study-the-brain-293579)
+- [‘ஜெயிலர் 2’ ட்ரெய்லர் எப்படி? - முத்துவேல் பாண்டியனின் அதகளம்](https://www.hindutamil.in/news/cinema/tamil-cinema/rajinikanths-jailer-2-trailer-released)
+- [മോഹൻലാൽ ചുമ്മാ സീൻ, തീ പാറിച്ച് രജനികാന്ത്; ജയിലർ 2 ട്രെയിലർ പുറത്ത്](https://www.reporterlive.com/entertainment/entertainment-news/2026/10/05/rajinikanth-movie-jailer-2-trailer-out-mohanlal-in-mass-look)
+- [Google Gemini access is changing. Free users, take note.](https://mashable.com/tech/google-gemini-free-access-models-changing)
+- [അടൂർ പ്രകാശിന്റെ പരാതി അറിയില്ല, യുഡിഎഫിലെ ഭിന്നത പരിഹരിക്കും: സണ്ണി ജോസഫ്](https://www.reporterlive.com/topnews/kerala/2026/10/05/sunny-joseph-on-adoor-prakash-kharge-meeting-udf-differences-kerala-congress)
+- [New Airport in Kolkata উড়ান ২.০-তে কলকাতায় দ্বিতীয় এয়ারপোর্টের ভাবনা, বাড়বে কলকাতার আন্তর্জাতিক ফ্লাইটও](https://bengali.news18.com/news/kolkata/new-airport-in-kolkata-in-plan-udan-2-west-bengal-four-new-airports-rc-2918705.html)
+- [Mercedes India Quarterly Sales Touch New High In Q3 2026 - Jan to Sep Sales Cross 15k](https://www.rushlane.com/mercedes-india-quarterly-sales-touch-new-high-in-q3-2026-12557560.html)
+- [ഹൂതികൾക്കെതിരെ സൗദി പോരാട്ടം കടുപ്പിച്ചു; ബാബ് അല്‍-മന്ദബ് കടലിടുക്കിൽ യമന്‍ സര്‍ക്കാർ സേനയുടെ മുന്നേറ്റം](https://www.reporterlive.com/gulf/gulf-news/2026/10/05/saudi-yemen-forces-advance-bab-al-mandab-houthi)
+- [সাহিত্যে নোবেল পুরস্কার-২০২৬: যদি পান, তবে সেই নারী কে](https://www.prothomalo.com/onnoalo/treatise/3970t59ib9)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
