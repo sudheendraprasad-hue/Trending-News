@@ -1,16 +1,16 @@
-# India Trending Report — 2026-10-06 23:36:40
+# India Trending Report — 2026-10-07 00:03:01
 
 ## Google Trends (India) — top trending searches
-1. [friendlies](https://trends.google.com/trending/rss?geo=IN)
-2. [football](https://trends.google.com/trending/rss?geo=IN)
-3. [z5](https://trends.google.com/trending/rss?geo=IN)
-4. [football live](https://trends.google.com/trending/rss?geo=IN)
-5. [नकली नोट](https://trends.google.com/trending/rss?geo=IN)
-6. [epic](https://trends.google.com/trending/rss?geo=IN)
-7. [spain vs argentina](https://trends.google.com/trending/rss?geo=IN)
-8. [ऑस्ट्रेलिया ए क्रिकेट टीम](https://trends.google.com/trending/rss?geo=IN)
-9. [mikel merino](https://trends.google.com/trending/rss?geo=IN)
-10. [hannibal](https://trends.google.com/trending/rss?geo=IN)
+1. [colombia vs peru](https://trends.google.com/trending/rss?geo=IN)
+2. [ஓய்வூதியம்](https://trends.google.com/trending/rss?geo=IN)
+3. [दुष्काळ](https://trends.google.com/trending/rss?geo=IN)
+4. [கிரிக்கெட்](https://trends.google.com/trending/rss?geo=IN)
+5. [vix](https://trends.google.com/trending/rss?geo=IN)
+6. [argentine match](https://trends.google.com/trending/rss?geo=IN)
+7. [usa vs canada](https://trends.google.com/trending/rss?geo=IN)
+8. [telefe](https://trends.google.com/trending/rss?geo=IN)
+9. [friendlies](https://trends.google.com/trending/rss?geo=IN)
+10. [football](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
@@ -19,11 +19,11 @@
 - [Opposition's anti-SIR-CEC march turns into INDIA bloc-government face-off](https://timesofindia.indiatimes.com/india/oppositions-anti-sir-cec-march-turns-into-india-bloc-government-face-off/articleshow/134749875.cms)
 - [Gujarat: Married woman, lover forced into public sex as ‘punishment’](https://timesofindia.indiatimes.com/city/rajkot/lover-forced-into-sex-act-with-woman-in-public-as-punishment-for-affair/articleshow/134749260.cms)
 - [SpaceX overpumped 128M gallons of groundwater; now Texas city has to pay $175,000](https://timesofindia.indiatimes.com/technology/tech-news/spacexs-rocket-testing-plant-overpumped-128-million-gallons-of-groundwater-in-three-years-now-this-texas-city-has-to-pay-175000-in-penalties-and-fund-a-new-monitoring-system/articleshow/134743244.cms)
-- [80% vote in West Bengal bypolls amid rigging, intimidation charges](https://timesofindia.indiatimes.com/india/80-vote-in-west-bengal-bypolls-amid-rigging-intimidation-charges/articleshow/134752541.cms)
+- [13 Navy personnel under scanner in Pakistan-linked espionage probe](https://timesofindia.indiatimes.com/city/vijayawada/13-navy-personnel-under-scanner-in-pak-linked-espionage-probe/articleshow/134748461.cms)
 - [Man deposits Rs 85.3 lakh given to him as cash gifts, gets notice; ITAT gives relief](https://timesofindia.indiatimes.com/business/india-business/man-deposits-rs-85-3-lakh-received-as-cash-gifts-from-wife-relatives-income-tax-calls-it-unexplained-and-sends-notice-but-itat-chennai-accepts-gift-deeds-and-gives-relief/articleshow/134743903.cms)
+- [80% vote in West Bengal bypolls amid rigging, intimidation charges](https://timesofindia.indiatimes.com/india/80-vote-in-west-bengal-bypolls-amid-rigging-intimidation-charges/articleshow/134752541.cms)
 - [CBI raids CM Bhagwant Mann’s camp office, his OSD’s home in graft probe](https://timesofindia.indiatimes.com/india/cbi-raids-cm-bhagwant-manns-camp-office-his-osds-home-in-graft-probe/articleshow/134749798.cms)
 - [From Gujarat CM to India's PM: Modi's 25 years in office](https://timesofindia.indiatimes.com/india/from-gujarat-cm-to-indias-pm-modis-25-years-in-office/articleshow/134752463.cms)
-- [Rajnath launches first desi fleet support ship ‘Surya’ at Visakhapatnam](https://timesofindia.indiatimes.com/defence/news/rajnath-launches-indias-first-fleet-support-ship-surya-at-visakhapatnam-witnesses-delivery-of-2000th-aero-engine-in-koraput/articleshow/134749942.cms)
 
 **NDTV**
 - [Trump To Speak To Putin On Plague As US Steps Up Pressure](https://www.ndtv.com/world-news/donald-trump-to-speak-to-putin-on-plague-as-us-steps-up-pressure-12148616#publisher=newsstand)
@@ -50,18 +50,20 @@
 - ['Captain Smit Machchhar making steady progress’: Indian embassy gives health update on flydubai hero](https://www.hindustantimes.com/india-news/flydubai-pilot-hero-captain-smit-machchhar-making-steady-progress-indian-embassy-in-uae-health-update-101791297119412.html)
 
 **Vijay Karnataka**
+- [ಹೌತಿ ದಾಳಿ ಮಧ್ಯೆ ಸೌದಿ ಅರೇಬಿಯಾ ನೆರವಿಗೆ ಪಾಕ್-ಟರ್ಕಿ: ಸೌದಿಯಲ್ಲಿ ಮಿಲಿಟರಿ ನಿಯೋಜನೆಗೆ ರೆಡಿ, ಕೊನೆಗೂ ಮೆಕ್ಕಾ ಒಪ್ಪಂದ ಜಾರಿ!](https://vijaykarnataka.com/news/world/pakistan-turkey-to-send-forces-to-saudi-arabia-under-mecca-pact-as-houthi-attacks-mount/articleshow/134720174.cms)
 - [ಮೊದಲಿಗೆ ಜಿಲ್ಲಾ, ತಾಲೂಕು ಪಂಚಾಯಿತಿ ಚುನಾವಣೆ ಬಳಿಕ ಗ್ರಾಮ ಪಂಚಾಯಿತಿ! ಸಚಿವ ಸಂಪುಟ ಮಹತ್ವದ ತೀರ್ಮಾನ; 2 ತಿಂಗಳಷ್ಟೇ ಬಾಕಿ](https://vijaykarnataka.com/news/karnataka/first-district-taluk-panchayat-election-then-grama-panchayat-karnataka-important-cabinet-decision-only-2-months-left/articleshow/134744717.cms)
 - [KPSC ಹಗರಣ: ಹಲವು ಗಂಟೆ ಇಡಿ ಡ್ರಿಲ್ ಬಳಿಕ ಶಿವಶಂಕರಪ್ಪ ಸಾಹುಕಾರ್, ಗೀತಾ ಬಂಧನ; ಹಲವರ ಎದೆಯಲ್ಲಿ ಢವಢವ](https://vijaykarnataka.com/news/karnataka/kpsc-scam-ed-arrests-shivashankarappa-sahukar-and-geetha-arrest-after-hours-of-ed-drill/articleshow/134748214.cms)
-- [RCB ಕ್ವೀನ್ `ಸ್ಮೃತಿ ಮಂದಾನ' ಭಾರತ ಮಹಿಳಾ ಕ್ರಿಕೆಟ್‌ ತಂಡದ ಹೊಸ ನಾಯಕಿ: ಟಿ20 ತಂಡಕ್ಕೆ ಕರ್ನಾಟಕದ ಹುಡುಗಿ `ನಿಕಿ'!](https://vijaykarnataka.com/sports/cricket/news/smriti-mandhana-new-captain-of-the-indian-womens-cricket-team-karnatakas-niki-prasad-select-to-t20-squad/articleshow/134747222.cms)
 - [ತೋಟದಲ್ಲಿ ಇರುವೆ ಮಣ್ಣಿನ ಗುಡ್ಡೆ ಕಾಟವೇ? ಗಿಡಗಳಿಗೆ ಹಾನಿಯಾಗದಂತೆ ನಿವಾರಿಸಲು ಸುಲಭ ವಿಧಾನಗಳು](https://vijaykarnataka.com/lifestyle/home-decor/how-to-remove-ant-mounds-from-lawn-garden/articleshow/134746147.cms)
-- [India T20i Team- ಕಿವೀಸ್ ಪ್ರವಾಸಕ್ಕೆ RCB ಹೀರೋ! ಭಾರತ ತಂಡಕ್ಕೆ ಭುವನೇಶ್ವರ್ ಕುಮಾರ್ ಕಂಬ್ಯಾಕ್! ರಿಷಬ್ ಪಂತ್ `ಎ' ತಂಡದಲ್ಲೂ ಡೌಟ್](https://vijaykarnataka.com/sports/cricket/news/bhuvneshwar-kumar-comeback-to-india-t2oi-squad-against-new-zealand-rishab-pant-doubt-in-a-team/articleshow/134745071.cms)
+- [RCB ಕ್ವೀನ್ `ಸ್ಮೃತಿ ಮಂದಾನ' ಭಾರತ ಮಹಿಳಾ ಕ್ರಿಕೆಟ್‌ ತಂಡದ ಹೊಸ ನಾಯಕಿ: ಟಿ20 ತಂಡಕ್ಕೆ ಕರ್ನಾಟಕದ ಹುಡುಗಿ `ನಿಕಿ'!](https://vijaykarnataka.com/sports/cricket/news/smriti-mandhana-new-captain-of-the-indian-womens-cricket-team-karnatakas-niki-prasad-select-to-t20-squad/articleshow/134747222.cms)
 - [BBK 13 ಜಗ್ಗಮಮ್ಮಿ ರಾಕ್ಷಸತನ: ಕೆಟ್ಟ ಮನಸ್ಥಿತಿಗಳ ನಡುವೆ ಕೆಟ್ಟ ಜಗದೀಶ ಆಗಿದ್ದೀನಿ!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-episode-31-monstrous-side-amidst-toxic-mindsets-jagadeesh-have-become-the-bad/articleshow/134749978.cms)
-- [ಶೂ ಬಾಕ್ಸ್‌ನಲ್ಲಿರುವ ಸಿಲಿಕಾ ಜೆಲ್ ಪ್ಯಾಕೆಟ್ ಎಸೆಯಬೇಡಿ; ಮನೆಯಲ್ಲೂ ಹೀಗೆ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/silica-gel-packets-shoe-box-home-uses/articleshow/134651205.cms)
+- [ಮನೆಯಲ್ಲಿ ಉಳಿದ ಇಡ್ಲಿ ಎಸೆಯಬೇಡಿ; ಹೀಗೆ ಮಾಡಿ ಮಸಾಲಾ ಇಡ್ಲಿ ಫ್ರೈ, ರುಚಿ ಸೂಪರ್!](https://vijaykarnataka.com/lifestyle/home-decor/masala-idli-fry-recipe-leftover-idli/articleshow/134697040.cms)
 - [Garuda Purana: ನಿಮ್ಮ ಆತ್ಮ ಹಳೆಯದೇ ಅಥವಾ ಹೊಸದೇ.?](https://vijaykarnataka.com/religion/hinduism/garuda-purana-these-signs-indicate-whether-your-soul-is-old-or-new/articleshow/134742133.cms)
 - [ಸ್ತನ ಕ್ಯಾನ್ಸರ್: ಗಡ್ಡೆ ಹೊರತಾಗಿ ಕಾಣಿಸಿಕೊಳ್ಳುವ ಈ ಲಕ್ಷಣಗಳನ್ನು ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ](https://vijaykarnataka.com/lifestyle/health/breast-cancer-awareness-month-2026-warning-signs-beyond-lump/articleshow/134733101.cms)
-- [Ind Vs Wi T20i- ಲಖನೌನಲ್ಲಿ ಸ್ಪಿನ್ನರ್ ಗಳ ವಿರುದ್ಧ ವಿಂಡೀಸ್ ಪರದಾಟ; ಬಳಿಕ ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ನಾಯಕನಾಟ! ಇಲ್ಲಿದೆ ಹೈಲೈಟ್ಸ್](https://vijaykarnataka.com/sports/cricket/news/shreyas-iyer-century-india-beat-west-indies-by-8-wickets/articleshow/134745753.cms)
+- [India T20i Team- ಕಿವೀಸ್ ಪ್ರವಾಸಕ್ಕೆ RCB ಹೀರೋ! ಭಾರತ ತಂಡಕ್ಕೆ ಭುವನೇಶ್ವರ್ ಕುಮಾರ್ ಕಂಬ್ಯಾಕ್! ರಿಷಬ್ ಪಂತ್ `ಎ' ತಂಡದಲ್ಲೂ ಡೌಟ್](https://vijaykarnataka.com/sports/cricket/news/bhuvneshwar-kumar-comeback-to-india-t2oi-squad-against-new-zealand-rishab-pant-doubt-in-a-team/articleshow/134745071.cms)
 
 **The Hindu**
+- [Rahul’s protest a political drama, claims made by Congress are lies: BJP](https://www.thehindu.com/news/national/rahuls-protest-a-political-drama-claims-made-by-congress-are-lies-bjp/article71553057.ece)
+- [Tremors felt across Delhi-NCR as 4.9-magnitude quake hits Uttarakhand’s Chamoli](https://www.thehindu.com/news/national/tremors-felt-across-delhi-ncr-as-49-magnitude-quake-hits-uttarakhands-chamoli/article71553036.ece)
 - [Karnataka Chief Minister leaves for Delhi ahead of GST Council meeting](https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-leaves-for-delhi-ahead-of-gst-council-meeting/article71551971.ece)
 - [CJP’s Dipke chides Maharashtra Police over alleged notices to workers](https://www.thehindu.com/news/national/cjp-activists-getting-police-notices-being-pressured-not-to-join-october-10-delhi-protest-abhijit-dipke/article71550853.ece)
 - [NDA wins 34 of 42 Silchar Municipal Corporation seats](https://www.thehindu.com/news/national/assam/nda-wins-34-of-42-silchar-municipal-corporation-seats/article71552428.ece)
@@ -70,8 +72,6 @@
 - [Twenty-five years of leadership, an India transformed](https://www.thehindu.com/opinion/lead/twenty-five-years-of-leadership-an-india-transformed/article71552707.ece)
 - [Fertiliser hoarding, black marketing to be curbed in rabi crop season in Rajasthan](https://www.thehindu.com/news/national/rajasthan/fertiliser-hoarding-black-marketing-to-be-curbed-in-rabi-crop-season-in-rajasthan/article71552207.ece)
 - [Gajendra Singh Patel accuses Hemant Soren government of encouraging infiltration in Jharkhand](https://www.thehindu.com/news/national/jharkhand/gajendra-singh-patel-accuses-hemant-soren-government-of-encouraging-infiltration-in-jharkhand/article71551510.ece)
-- [Kerala High Court sets aside detention order of Thiruvananthapuram councillor R. Sugathan](https://www.thehindu.com/news/national/kerala/kerala-high-court-sets-aside-detention-order-of-thiruvananthapuram-councillor-r-sugathan/article71552446.ece)
-- [Ladli Behna scheme has turned out to be ‘very expensive’, says Madhya Pradesh CM](https://www.thehindu.com/news/national/madhya-pradesh/ladli-behna-scheme-has-turned-out-to-be-very-expensive-says-madhya-pradesh-cm/article71552264.ece)
 
 **Livemint**
 - [Elon Musk Net Worth: How SpaceX and Tesla helped Musk become a trillionaire again after market rally](https://www.livemint.com/news/us-news/elon-musk-net-worth-how-spacex-and-tesla-helped-musk-become-a-trillionaire-again-after-market-rally-11791320544773.html)
@@ -133,7 +133,6 @@
 - [ನಮೂನೆ–7 ಅರ್ಜಿಯನ್ನು ವಾಪಸ್‌  ಪಡೆದು ಸುಟ್ಟು ಹಾಕುತ್ತಿರುವ ಬಿಜೆಪಿಗರು: ಸಿ.ಎಂ](https://www.prajavani.net/news/karnataka-news/dk-shivakumar-alleges-bjp-burning-form-seven-voter-list-misuse-4312029)
 - [ಜಿಬಿಎ:ಪರಿಣಾಮಕಾರಿಯಾಗಿ ನಿರ್ವಹಿಸಲು ಐದು ಪ್ರತ್ಯೇಕ ಪೊಲೀಸ್‌ ಕಮಿಷನರೇಟ್‌ಗಳ ರಚನೆ](https://www.prajavani.net/news/karnataka-news/greater-bengaluru-area-five-new-police-commissionerates-approved-4312263)
 - [ತೋಳಹುಣಸೆ ರೈಲ್ವೆ ನಿಲ್ದಾಣದ ಬಳಿ ಕಾಮಗಾರಿ: ‘ವಂದೇ ಭಾರತ್’ ಐದು ತಾಸು ವಿಳಂಬ](https://www.prajavani.net/district/davanagere/vande-bharat-train-delayed-due-to-railway-work-near-davangere-4312424)
-- [ಒಮಾನ್‌ನಲ್ಲಿ ವಾಣಿಜ್ಯ ಹಡಗಿನ ಮೇಲೆ ದಾಳಿ : 12 ಮಂದಿ ಭಾರತೀಯರಿಗೆ ಗಾಯ](https://www.prajavani.net/news/india-news/oman-commercial-ship-attack-indian-sailors-injured-4311960)
 
 **eedina**
 - [ಮಂಗಳೂರು | 350 ಪೊಲೀಸ್ ಠಾಣೆಗಳಲ್ಲಿ ಹುಡುಕಿದರೂ ‘ಲವ್ ಜಿಹಾದ್’ ದೂರು ಸಿಗಲಿಲ್ಲ : ಎಂ.ಜಿ. ಹೆಗಡೆ](https://eedina.com/?p=770814)
@@ -151,32 +150,32 @@
 - Trump (4.5)
 - Indian (4.2)
 - INDIA (3.9)
+- Delhi-NCR (3.9)
 - France (2.6)
 - Delhi (2.6)
-- Delhi-NCR (2.6)
+- Congress (2.6)
 - India (2.6)
+- Tremors (2.6)
+- Uttarakhand (2.6)
 - Gujarat (1.6)
 - SpaceX (1.6)
 - Mann (1.6)
 - What (1.6)
 - Security (1.6)
-- Made (1.6)
-- Musk (1.6)
-- Ukrainian (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [TESLA ने मचाया गदर! सस्ती होते ही 322% बढ़ी सेल, बिकीं इतनी कारें](https://www.aajtak.in/visualstories/auto/tesla-model-y-india-1000-units-deliveries-september-2026-auaw-286430-06-10-2026)
-- [IFA Shield Final: IFA শিল্ড ফাইনালে কলকাতা ডার্বি ৮ অক্টোবর, মোহনবাগান vs ইস্টবেঙ্গল ম্যাচ কখন?](https://bangla.aajtak.in/sports/football/story/ifa-shield-2026-final-match-likely-on-8-october-at-saltlake-stadium-kolkata-derby-mohun-bagan-vs-east-bengal-arg-1459558-2026-10-06)
-- [Francis Halzen Nobel Prize 2026 in Physics: বরফের গভীরে ভূতুড়ে কণার সন্ধানে পদার্থবিদ্যায় নোবেল ফ্রান্সিস হালজেন](https://bangla.asianetnews.com/international/world-news/francis-halzen-nobel-prize-2026-in-physics-ghost-particles-discovery-earns-physics-nobel-for-francis-halzen/articleshow-hq3037h)
-- [India vs Uruguay LIVE Updates: গোওওওওলললল... ভারতের হয়ে সমতা ফেরালেন অনিরুদ্ধ থাপা](https://bengali.indianexpress.com/sports/india-vs-uruguay-india-uruguay-kolkata-saltlake-stadium-live-updates-12628249)
-- [Nobel physics prize awarded for detection of cosmic neutrinos](https://www.nature.com/articles/d41586-026-03092-1?error=cookies_not_supported&code=6150e124-3a62-4208-8c22-dad2342653ee)
-- [Students, teachers march in France on biggest day of school protests](https://www.thehindu.com/news/international/school-protests-france-teachers-students-clashes-police-october-6-2026/article71551195.ece)
-- [Sircilla | తన భర్తను స్వదేశానికి తీసుకురండి సారూ.. బీఆర్‌ఎస్‌ రాజన్నసిరిసిల్ల జిల్లా అధ్యక్షుడు ఆగయ్యను కలిసిన బాధిత కుటుంబం](https://www.ntnews.com/karimnagar/please-bring-my-husband-back-home-sir-distressed-family-meets-brs-rajanna-sircilla-district-president-agayya-2528648)
-- [”பெரம்பூர் தொகுதி வெற்றிக்கு எதிரான வழக்குகளை நிராகரிக்க வேண்டும்” முதலமைச்சர் விஜய் தரப்பில் வாதம்](https://tamil.news18.com/tamil-nadu/perambur-election-case-cm-vijay-arguments-vjr-ws-l-2224591.html)
-- [‘ഗ്യാനേഷിന് ഭയമോ?’; പിന്തിരിയാതെ രാഹുലും പ്രിയങ്കയും; പിന്തുണയുമായി എം.പിമാരും](https://www.manoramanews.com/india/latest/2026/10/06/india-bloc-dharna-against-cec-gyanesh-kumar-delhi-akashvani-bhavan.html)
-- [Abhijeet Dipke: 'महाराष्ट्र में योगी आदित्यनाथ बनने की कोशिश न करें फडणवीस', अभिजीत दिपके ने छात्रों को नोटिस देने पर बोला हमला](https://navbharattimes.indiatimes.com/state/maharashtra/pune/abhijeet-dipke-attack-devendra-fadnavis-treat-like-yogi-adityanath-in-maharashtra-cjp-protest-against-police-brutality-on-tribal-students/articleshow/134737537.cms)
+- [ICC Player Of the Month : સપ્ટેમ્બરના બેસ્ટ ક્રિકેટર કોણ? ICCએ 3 દાવેદારોના નામ જાહેર કર્યા](https://www.gujaratsamachar.com/news/sports/icc-player-of-the-month-who-is-the-best-cricketer-of-september-icc-announces-the-names-of-3-contenders-35622407238)
+- [Market closes on a bullish note: Here's how investors should position based on RBI policy outcome](https://www.moneycontrol.com/news/business/markets/market-closes-on-a-bullish-note-here-s-how-investors-should-position-based-on-rbi-rate-outcome-14045897.html)
+- [வெளிநாட்டு தொழில்நுட்பங்களுக்கு குட்பை.. சொந்தமாக 5G, AI, கிளவுட் கட்டமைப்பை உருவாக்கி அசத்தும் ஜியோ!](https://tamil.news18.com/business/connecting-india-to-building-its-digital-future-jio-enters-an-ambitious-new-chapter-details-here-abm-ws-l-2224616.html)
+- ['Let Them Destroy Los Angeles, San Diego': Trump's 'Deranged' Invitation To Iran Surprises Americans](https://www.news18.com/world/let-them-destroy-los-angeles-san-diego-trumps-deranged-invitation-to-iran-surprises-americans-ws-lr-10369825.html)
+- [तुकाराम मुंढे ने रद्द किया सोनाक्षी सिन्हा के ड्राइवर की दुकान का लाइसेंस, मोमो शॉप पर किए थे क्वॉलिटी के दावे](https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/tukaram-mundhe-suspend-license-of-sonakshi-sinha-driver-momo-shop/articleshow/134739361.cms)
+- [ভারতের ডিজিটাল ভবিষ্যৎ বদলাতে Jio-র বড় পরিকল্পনা, টেলিকমের পর এবার নজর প্রযুক্তিতে](https://bengali.news18.com/news/technology/from-connecting-india-to-building-its-digital-future-jio-enters-a-bold-new-chapter-ac-2919788.html)
+- ['ज्ञानेश, इट्स डन ब्रो'; मोदी, शाह असो की ज्ञानेश, कोणालाही सोडणार नाही': राहुल गांधींचे वक्तव्य](https://www.bbc.com/marathi/articles/ckp8g1d5zpd6o)
+- [Nandigram-Reginagar By-Polls LIVE: নন্দীগ্রাম-রেজিনগরে ভোট লুঠের অভিযোগ, পুনর্নির্বাচন চায় কংগ্রেস](https://bengali.abplive.com/district/west-bengal-news-live-by-election-nandigram-rejinagar-election-live-updates-6-october-humayun-kabir-suvendu-adhikari-tmc-bjp-1195249)
+- [Delhi High Court sends notice to Salman Khan, seeks response on plea seeking stay on ‘Kala Hiran’ release](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/delhi-high-court-sends-notice-to-salman-khan-to-seek-his-response-on-plea-seeking-a-stay-kala-hiran-release-proceedings/articleshow/134739420.cms)
+- [राहुल गांधी के SIR मार्च पर रिजिजू का पलटवार, बोले- नैरेटिव नहीं, जनता के बीच काम करना होगा](https://www.aajtak.in/india/news/story/rahul-gandhi-sir-protest-rijiju-attacks-anti-india-narrative-ntc-dhrj-dskc-2662978-2026-10-06)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
