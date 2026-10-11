@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-11 18:30:13
+# India Trending Report — 2026-10-11 22:33:01
 
 ## Google Trends (India) — top trending searches
-1. [atlético mineiro vs santos](https://trends.google.com/trending/rss?geo=IN)
-2. [બજાર](https://trends.google.com/trending/rss?geo=IN)
-3. [रामदास आठवले](https://trends.google.com/trending/rss?geo=IN)
-4. [surya kant](https://trends.google.com/trending/rss?geo=IN)
-5. [சவூதி அரேபியா](https://trends.google.com/trending/rss?geo=IN)
-6. [ben affleck](https://trends.google.com/trending/rss?geo=IN)
-7. [aditi rao hydari](https://trends.google.com/trending/rss?geo=IN)
-8. [cagliari vs juventus](https://trends.google.com/trending/rss?geo=IN)
-9. [irfan pathan](https://trends.google.com/trending/rss?geo=IN)
-10. [uefa champions league](https://trends.google.com/trending/rss?geo=IN)
+1. [série a](https://trends.google.com/trending/rss?geo=IN)
+2. [weather forecast](https://trends.google.com/trending/rss?geo=IN)
+3. [temperature](https://trends.google.com/trending/rss?geo=IN)
+4. [weather new delhi](https://trends.google.com/trending/rss?geo=IN)
+5. [delhi temperature](https://trends.google.com/trending/rss?geo=IN)
+6. [trump](https://trends.google.com/trending/rss?geo=IN)
+7. [gta6 leaks](https://trends.google.com/trending/rss?geo=IN)
+8. [mpsc](https://trends.google.com/trending/rss?geo=IN)
+9. [west bengal](https://trends.google.com/trending/rss?geo=IN)
+10. [bangla](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [CJI Surya Kant rejects INDIA bloc leaders’ request for meeting over ‘vote chori’](https://timesofindia.indiatimes.com/india/cji-surya-kant-rejects-india-bloc-leaders-request-for-meeting-over-vote-chori/articleshow/134874374.cms)
-- [One Indian killed, 10 injured in Riyadh airport strike; chilling video shows aftermath](https://timesofindia.indiatimes.com/world/middle-east/11-indians-injured-in-saudi-airport-strike-that-killed-12-video-captures-chilling-aftermath/articleshow/134872943.cms)
-- [Delhi on edge again: INDIA bloc to hold CEC protest, CJP sets 24-hour deadline](https://timesofindia.indiatimes.com/india/another-showdown-in-delhi-india-bloc-to-hold-protest-over-cec-cjp-gives-24-hour-ultimatum/articleshow/134875018.cms)
-- [Iran calls US response to seven-day Hormuz proposal ‘insufficient’](https://timesofindia.indiatimes.com/world/middle-east/iran-calls-us-response-to-seven-day-hormuz-proposal-insufficient/articleshow/134875500.cms)
+- [The ABCD of US politics: American-born Combative Desis face MAGA heat](https://timesofindia.indiatimes.com/world/us/the-abcd-of-us-politics-american-born-combative-desis-face-maga-heat/articleshow/134873281.cms)
+- ['Deeply concerning': India condemns attack on vessel carrying Indian crew off Oman coast](https://timesofindia.indiatimes.com/india/deeply-concerning-india-condemns-attack-on-vessel-carrying-indian-crew-off-oman-coast/articleshow/134876803.cms)
+- [Green cards not key to workforce strategy: TCS](https://timesofindia.indiatimes.com/business/india-business/green-cards-not-key-to-workforce-strategy-tcs/articleshow/134877320.cms)
+- [I-T department estimates 25k cr tax evasion by restaurants](https://timesofindia.indiatimes.com/business/india-business/i-t-department-estimates-25k-cr-tax-evasion-by-restaurants/articleshow/134878708.cms)
 - [Couple rejects $131,000 offer for data center power line on their property](https://timesofindia.indiatimes.com/technology/tech-news/wisconsin-couple-rejects-131000-offer-for-proposed-data-centre-power-line-that-threatens-their-trees-six-buildings-and-puts-130-foot-tower-near-their-driveway/articleshow/134871623.cms)
-- [Tanker carrying 11 Indians hit by drone off Oman coast, 2 crew members missing](https://timesofindia.indiatimes.com/india/vessel-with-11-indians-on-board-attacked-in-oman-2-missing/articleshow/134874613.cms)
-- [Washington farmer challenges $618,000 irrigation penalties in state Supreme Court](https://timesofindia.indiatimes.com/world/us/a-washington-farmer-who-returned-to-his-family-farm-in-1984-is-challenging-618000-in-irrigation-penalties-after-the-state-supreme-court-heard-his-case/articleshow/134865485.cms)
-- ['Next PM Vijay 2029’: Placards trigger brief stir at PM Modi event in Chennai](https://timesofindia.indiatimes.com/india/next-pm-vijay-2029-placards-trigger-brief-stir-at-pm-modi-event-in-chennai/articleshow/134875145.cms)
-- [Trump announces Russia-Ukraine energy truce; Zelenskyy says 'news for me'](https://timesofindia.indiatimes.com/world/us/russia-ukraine-agreed-on-energy-ceasefire-effective-immediately-says-trump/articleshow/134872127.cms)
-- [Bloodied passengers, panic and screams: Survivors recall Riyadh airport strike](https://timesofindia.indiatimes.com/world/middle-east/bloodied-passengers-panic-and-screams-survivors-recall-riyadh-airport-strike/articleshow/134874610.cms)
+- [RBI measures: Rupee to gain sharply but forex liquidity likely to dry up](https://timesofindia.indiatimes.com/business/india-business/rbi-measures-rupee-to-gain-sharply-but-forex-liquidity-likely-to-dry-up/articleshow/134877494.cms)
+- [Texas family ends 8-year fight over 65,000-acre ranch worth at least $60m](https://timesofindia.indiatimes.com/world/us/a-texas-family-spent-nearly-eight-years-fighting-over-the-65000-acre-brite-ranch-worth-at-least-60-million-days-before-trial-the-heirs-agreed-to-divide-the-historic-property-into-four-pieces/articleshow/134864462.cms)
+- [Bangladesh party backs CJP stir, ex-Yunus aide seeks Modi's fall](https://timesofindia.indiatimes.com/world/south-asia/bangladesh-party-backs-cjp-stir-ex-yunus-aide-seeks-modis-fall/articleshow/134879664.cms)
+- [CJI Surya Kant rejects INDIA bloc leaders’ request for meeting over ‘vote chori’](https://timesofindia.indiatimes.com/india/cji-surya-kant-rejects-india-bloc-leaders-request-for-meeting-over-vote-chori/articleshow/134874374.cms)
+- [Ann Rutherford’s former Beverly Hills estate now asks $35 million](https://timesofindia.indiatimes.com/real-estate/news/ann-rutherfords-1938-beverly-hills-estate-was-bought-for-about-7-6-million-in-2013-and-nearly-doubled-in-size-after-selling-for-27-6-million-the-paul-r-williams-designed-home-is-back-on-the-market-for-35-million/articleshow/134865669.cms)
 
 **NDTV**
 - [Indian Man Killed In Missile Strike On Saudi Airport, 2 Sons In Hospital](https://www.ndtv.com/world-news/indian-national-injured-in-saudi-arabia-airport-attack-dies-of-injuries-12170860#publisher=newsstand)
@@ -39,7 +39,7 @@
 
 **Hindustan Times**
 - [CJI Surya Kant declines Opposition leaders' request for meet over SIR, CEC Gyanesh Kumar; cites judicial propriety](https://www.hindustantimes.com/india-news/cji-surya-kant-declines-india-bloc-request-for-meet-over-sir-cec-gyanesh-kumar-oppn-march-in-delhi-october-11-101791739169265.html)
-- [CJP leaders to visit Delhi's Parliament Street Police Station tomorrow, seek date for fresh Jantar Mantar protest](https://www.hindustantimes.com/india-news/cjp-leaders-to-visit-delhi-police-station-tomorrow-gyanesh-kumar-cec-row-seek-date-for-jantar-mantar-protest-dipke-ranka-saurav-das-modi-india-bloc-101791737772634.html)
+- [CJP leaders to visit Delhi's Parliament Street Police Station today, seek fresh date for Jantar Mantar protest](https://www.hindustantimes.com/india-news/cjp-leaders-to-visit-delhi-police-station-tomorrow-gyanesh-kumar-cec-row-seek-date-for-jantar-mantar-protest-dipke-ranka-saurav-das-modi-india-bloc-101791737772634.html)
 - [‘Deeply grieved’: Jaishankar assures all assistance to family of Indian killed in Riyadh attack](https://www.hindustantimes.com/india-news/one-indian-killed-in-houthis-attack-at-saudi-riyadh-airport-mea-jaishankar-west-asia-war-jaishankar-modi-middle-east-yemen-101791736135128.html)
 - [‘Detain, deport foreign citizen Imran Khan': BJP leader Kirit Somaiya writes to Mumbai Police after actor joins protest](https://www.hindustantimes.com/india-news/detain-deport-foreign-citizen-imran-khan-bjp-leader-kirit-somaiya-writes-to-mumbai-police-after-actor-joins-protest-101791731639752.html)
 - [Indian killed in Riyadh airport attack on October 10; MEA condemns Houthi strikes](https://www.hindustantimes.com/india-news/11-indians-injured-saudi-arabia-riyadh-airport-mea-condemns-houthi-attack-embassy-touch-with-hospital-authorities-101791733059459.html)
@@ -50,30 +50,31 @@
 - [Nagaland violence leaves 1 dead, another injured; over a dozen houses razed: Cop](https://www.hindustantimes.com/india-news/nagaland-violence-leaves-1-dead-another-injured-over-a-dozen-houses-razed-cop-101791732253632.html)
 
 **Vijay Karnataka**
+- [`ಏನಿದ್ದರೂ ಕೋರ್ಟ್ ನಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ': ಕಾಂಗ್ರೆಸ್ ನೇತೃತ್ವದ `INDIA' ಕೂಟದ ಭೇಟಿಗೆ ನಿರಾಕರಿಸಿದ CJI ಸೂರ್ಯಕಾಂತ್ ಹೇಳಿದ್ದೇನು?](https://vijaykarnataka.com/news/india/cji-surya-kant-declines-meeting-with-congress-led-india-bloc/articleshow/134876071.cms)
 - [ಅಜ್ಜಿಯ ನಿಧನದ ವಿಚಾರ ಅಭಿಜಿತ್ ದೀಪ್ಕೆಗೆ ತಿಳಿಸಿರಲಿಲ್ಲವೇ?: ಆರೋಪ ನಿರಾಕರಿಸಿರುವ ದಿಲ್ಲಿ ಪೊಲೀಸರಿಂದ ಈಗ ಹೊಸ ವಿಡಿಯೋ ಬಿಡುಗಡೆ!](https://vijaykarnataka.com/news/india/delhi-police-release-new-video-against-abhijit-dipke-allegations-about-grandmothers-death-incident/articleshow/134874195.cms)
 - [Ind Vs Wi 3rd T20i- ಅಭಿಷೇಕ್ ಅಬ್ಬರದ ಬಳಿಕ ವಿಂಡೀಸ್ ಗೆ ಅರ್ಶದೀಪ್ ಆಘಾತ: ಇಂದೋರ್ ನಲ್ಲಿ ಎಡವದ ಭಾರತ](https://vijaykarnataka.com/sports/cricket/news/abhishek-sharma-arshdeep-singh-performance-india-beat-west-indies-by-14-runs/articleshow/134874516.cms)
-- [Russia Vs Ukraine: `ಇಂಧನ ಕದನ ವಿರಾಮ' ಘೋಷಿಸಿದ ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್; ಝೆಲೆನೆಸ್ಕಿ ಪ್ರತಿಕ್ರಿಯೆ ಏನು?](https://vijaykarnataka.com/news/world/russia-vs-ukraine-donald-trump-announces-energy-ceasefire-what-is-zelensky-reaction/articleshow/134873008.cms)
 - [ನವರಾತ್ರಿ ಉಪವಾಸದ ವೇಳೆ ಸುಸ್ತು, ನಿಶ್ಶಕ್ತಿ ಬೇಡ ಎಂದರೆ ಈ ಆರೋಗ್ಯ ಸಲಹೆ ಪಾಲಿಸಿ](https://vijaykarnataka.com/lifestyle/health/navratri-2026-fasting-hydration-sleep-health-tips/articleshow/134860752.cms)
-- [Ranji Trophy: ದಿಲ್ಲಿ ವಿರುದ್ಧ ಮೊಹಮ್ಮದ್ ಶಮಿ ಬೆಂಕಿ ಬೌಲಿಂಗ್ ; ಬಿಸಿಸಿಐ ಆಯ್ಕೆ ಸಮಿತಿಗೆ ಇನ್ನೂ ಏನು ಶಂಕೆ?](https://vijaykarnataka.com/sports/cricket/news/ranji-trophy-mohammed-shamis-fiery-bowling-against-delhi-netizens-slams-bcci-selection-committee/articleshow/134871956.cms)
-- [‘Ramayana Part-1’ ಸಿನಿಮಾ ರಿಲೀಸ್‌ ಡೇಟ್‌ ಅನೌನ್ಸ್‌: ಮುಂಗಡ ಟಿಕೆಟ್‌ ಬುಕ್ಕಿಂಗ್‌ ಆರಂಭ!](https://vijaykarnataka.com/entertainment/news/november-5th-releasing-the-movie-ramayana-part-1-announced-by-team-advance-ticket-booking-begins/articleshow/134874923.cms)
+- [Russia Vs Ukraine: `ಇಂಧನ ಕದನ ವಿರಾಮ' ಘೋಷಿಸಿದ ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್; ಝೆಲೆನೆಸ್ಕಿ ಪ್ರತಿಕ್ರಿಯೆ ಏನು?](https://vijaykarnataka.com/news/world/russia-vs-ukraine-donald-trump-announces-energy-ceasefire-what-is-zelensky-reaction/articleshow/134873008.cms)
+- [BBK 13ಗೆ ಒಬ್ಬರಲ್ಲ..ಇಬ್ಬರು ವೈಲ್ಡ್‌ ಕಾರ್ಡ್‌ ಎಂಟ್ರಿ: ಕುಮಾರಿ ಹೋಗಾಯ್ತು, ಮತ್ತೊಬ್ಬರು ಯಾರು?](https://vijaykarnataka.com/tv/bigg-boss-kannada/two-wild-card-entries-for-bbk-13-in-the-6th-week-kumari-is-entering-who-is-the-other-one/articleshow/134876395.cms)
 - [ಇಡ್ಲಿ-ದೋಸೆ ಹಿಟ್ಟು ಬೇಗ ಹುದುಗಬೇಕಾ? ಹಸಿ ಮೆಣಸಿನಕಾಯಿಯ ಈ ಟ್ರಿಕ್ ಒಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ!](https://vijaykarnataka.com/lifestyle/home-decor/idli-dosa-batter-faster-fermentation-green-chilli-trick/articleshow/134783745.cms)
 - [2026 Navratri 2nd Day: ಬ್ರಹ್ಮಚಾರಿಣಿ ಪೂಜೆ ಮುಹೂರ್ತ, ಪೂಜೆ ವಿಧಾನ, ಮಂತ್ರಗಳು.!](https://vijaykarnataka.com/religion/festivals/navratri-2026-day-2nd-brahmacharini-devi-puja-muhurat-rituals-mantras-and-rules/articleshow/134869540.cms)
 - [ಹುಳಿ ಸೇಬು ಬೇಡ, ಸಿಹಿ ಸೇಬು ಬೇಕಾ? ಖರೀದಿಸುವಾಗ ಈ ಅಂಶ ಗಮನಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/how-to-avoid-sour-apples-and-pick-sweet-ones/articleshow/134849999.cms)
-- [ಪರಮಾಣು ಯುದ್ಧ, AI ದುರ್ಬಳಕೆ, ತಾಪಮಾನ ಏರಿಕೆ: 2100ರಲ್ಲಿ ಮಾನವ ಕುಲ ನಾಶಕ್ಕೆ ಕಾಯುತ್ತಿವೆ ಅಪಶಕುನಗಳು! ಏಕತೆಯೇ ಪರಿಹಾರ](https://vijaykarnataka.com/news/world/nuclear-conflict-rogue-ai-and-climate-shocks-could-threaten-human-existence-lancet-commission-warning-explained/articleshow/134869326.cms)
+- [Ranji Trophy: ದಿಲ್ಲಿ ವಿರುದ್ಧ ಮೊಹಮ್ಮದ್ ಶಮಿ ಬೆಂಕಿ ಬೌಲಿಂಗ್ ; ಬಿಸಿಸಿಐ ಆಯ್ಕೆ ಸಮಿತಿಗೆ ಇನ್ನೂ ಏನು ಶಂಕೆ?](https://vijaykarnataka.com/sports/cricket/news/ranji-trophy-mohammed-shamis-fiery-bowling-against-delhi-netizens-slams-bcci-selection-committee/articleshow/134871956.cms)
 
 **The Hindu**
-- [Officials review arrangements for President’s visit on October 14](https://www.thehindu.com/news/national/andhra-pradesh/officials-review-arrangements-for-presidents-visit-on-october-14/article71572140.ece)
-- [PGRS cancelled on October 12 and 19 in NTR](https://www.thehindu.com/news/national/andhra-pradesh/pgrs-in-ntr-cancelled-on-october-12-and-19/article71572416.ece)
-- [Madras High Court acquits death row convict from POCSO Act charge](https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-acquits-death-row-convict-from-pocso-act-charge/article71570738.ece)
-- [KLU hosts ‘Skill Palaver’ to make students industry-ready](https://www.thehindu.com/news/national/andhra-pradesh/klu-hosts-skill-palaver-to-make-students-industry-ready/article71572027.ece)
-- [Brain Stimulation Centre inaugurated at Lalitha PVS Institute of Medical Sciences in Guntur](https://www.thehindu.com/news/national/andhra-pradesh/brain-stimulation-centre-inaugurated-at-lalitha-pvs-institute-of-medical-sciences-in-guntur/article71572024.ece)
-- [Anti-CEC protest LIVE: CJI Surya Kant declines to meet INDIA bloc leaders on October 12; Delhi Police detain women protesters after 6 p.m.](https://www.thehindu.com/news/national/cjp-protests-delhi-police-abhijeet-dipke-neha-bora-congress-rahul-gandhi-detentions-cec-gyanesh-kumar-resignation-live-updates/article71570231.ece)
-- [Two loco pilots injured in separate stone-pelting attacks near Tuni, Samalkot railway station](https://www.thehindu.com/news/national/andhra-pradesh/two-loco-pilots-injured-in-separate-stone-pelting-attacks-near-tuni-samalkot-railway-station/article71572301.ece)
-- [Vettri Payanam Thittam: what is the economic mileage of a no-fare bus ride?](https://www.thehindu.com/news/national/tamil-nadu/vettri-payanam-thittam-what-is-the-economic-mileage-of-a-no-fare-bus-ride/article71572354.ece)
-- [Protest at a designated protest spot is not disturbing the peace, says Ashutosh Ranka](https://www.thehindu.com/news/national/protest-at-a-designated-protest-spot-is-not-disturbing-the-peace-says-ashutosh-ranka/article71572559.ece)
-- ['Hung upside down, given electric shock': Three men allege torture at BJP MLA's house in Moradabad](https://www.thehindu.com/news/national/uttar-pradesh/three-men-allege-torture-at-bjp-mlas-house-in-moradabad/article71572673.ece)
+- [Community-led model to tackle drug abuse in 300 Haryana villages](https://www.thehindu.com/news/national/haryana/community-led-model-to-tackle-drug-abuse-in-300-haryana-villages/article71572302.ece)
+- [Sporadic protests break uneasy calm in Delhi](https://www.thehindu.com/news/cities/Delhi/sporadic-protests-break-uneasy-calm-in-delhi/article71572311.ece)
+- [Anti-CEC protest Highlights, October 11: CJI Surya Kant declines to meet INDIA bloc leaders; Delhi Police detain women protesters in the evening](https://www.thehindu.com/news/national/cjp-protests-delhi-police-abhijeet-dipke-neha-bora-congress-rahul-gandhi-detentions-cec-gyanesh-kumar-resignation-live-updates/article71570231.ece)
+- [Hindu outfit backs its men arrested over Delhi assault](https://www.thehindu.com/news/cities/Delhi/delhi-protest-four-men-claiming-links-to-hindu-raksha-dal-arrested-for-assault-on-students/article71570866.ece)
+- [Protests will happen not just in Delhi but whole country: CJP](https://www.thehindu.com/news/national/protest-at-a-designated-protest-spot-is-not-disturbing-the-peace-says-ashutosh-ranka/article71572559.ece)
+- [Left parties say police turned Delhi into ‘war zone’; MP Brittas hospitalised after being detained](https://www.thehindu.com/news/national/left-parties-say-police-turned-delhi-into-war-zone-mp-brittas-hospitalised-after-being-detained/article71571694.ece)
+- [Hyderabad man killed in Riyadh airport attack, two sons injured](https://www.thehindu.com/news/national/telangana/hyderabad-man-killed-in-riyadh-airport-attack-two-sons-injured/article71572615.ece)
+- [Delhi Police releases video of informing Dipke about his grandmother's death, refutes CJP's allegation](https://www.thehindu.com/news/national/delhi-police-releases-video-of-informing-dipke-about-his-grandmothers-death-refutes-cjps-allegation/article71571905.ece)
+- [Two killed following gas exposure at ESL Steel plant in Jharkhand](https://www.thehindu.com/news/national/jharkhand/jharkhand-bokaro-gas-exposure-accident-death-updates/article71571034.ece)
+- [Rahul urges citizens to join INDIA bloc march to Supreme Court ‘as Indians’, irrespective of party affiliations](https://www.thehindu.com/news/national/india-bloc-to-hold-protest-march-in-delhi-on-october-12-submit-memorandum-to-cji/article71570717.ece)
 
 **Livemint**
+- [CJP protest day 2: How Delhi unfolded amid fresh detentions, Supreme Court intervention and calls for CEC’s resignation](https://www.livemint.com/news/india/cjp-protest-day-2-how-delhi-unfolded-amid-fresh-detentions-supreme-court-intervention-and-calls-for-cec-s-resignation-11791751849234.html)
 - [How a power bank forced Chennai-bound IndiGo flight to divert to Hyderabad](https://www.livemint.com/news/india/how-a-power-bank-forced-chennai-bound-indigo-flight-to-divert-to-hyderabad-11791741412693.html)
 - [CJP Delhi protest: Filmmaker alleges harassment, claims ‘BJP-backed goons broke camera lens’, shares video as ‘proof’](https://www.livemint.com/news/india/cjp-delhi-protest-filmmaker-alleges-harassment-claims-bjp-backed-goons-broke-camera-lens-shares-video-as-proof-11791734897303.html)
 - [Prakash Rajpurohit appointed Deputy Election Commissioner: Know about the IAS officer](https://www.livemint.com/news/india/prakash-rajpurohit-appointed-deputy-election-commissioner-know-about-the-ias-officer-11791739037756.html)
@@ -83,21 +84,20 @@
 - [Bear Grylls’ 20-acre private island runs on wind, solar power and rainwater: How his family lives off-grid](https://www.livemint.com/news/trends/bear-grylls-20-acre-private-island-runs-on-wind-solar-power-and-rainwater-how-his-family-lives-offgrid-11791727101865.html)
 - [Riyadh airport attack kills Indian national in Saudi Arabia, injures 10 more: Embassy reacts, ‘Completely unacceptable’](https://www.livemint.com/news/world/riyadh-airport-attack-kills-indian-national-in-saudi-arabia-injures-10-more-embassy-reacts-completely-unacceptable-11791737606844.html)
 - [Saudi-led coalition says new attack at Riyadh airport day after strike killed 12, including one Indian: Details here](https://www.livemint.com/news/world/saudiled-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12-11791737022799.html)
-- [Russia Suffered 50,000 Casualties Last Month, NATO Official Says](https://www.livemint.com/news/world/russia-suffered-50-000-casualties-last-month-nato-official-says-11791737829503.html)
 
 **Moneycontrol** — _unavailable_
 
 **Vartha Bharati**
+- [ದಸರಾ ನಾಡ ಕುಸ್ತಿ ಉದ್ಘಾಟಿಸಿದ ಸಿಎಂ](https://www.varthabharati.in/mysore/--2282060)
+- [ಎಲಿವೇಟೆಡ್ ಕಾರಿಡಾರ್ ವಿರುದ್ಧ ಮೌನ ಪ್ರತಿಭಟನೆ](https://www.varthabharati.in/bangalore-city/bengaluru-2282059)
+- [ವನ್ಯಜೀವಿ ಸಫಾರಿಗಳಲ್ಲಿ ಮೊಬೈಲ್‌ಗೆ ಸಂಪೂರ್ಣ ಬ್ರೇಕ್](https://www.varthabharati.in/chamarajanagar/wildlife-safaris-2282058)
+- [ಟೆಸ್ಟ್ ಕ್ರಿಕೆಟ್‌ ನಲ್ಲಿ ಅತ್ಯಂತ ಯಶಸ್ವಿ ಫೀಲ್ಡರ್ ಎನಿಸಿಕೊಂಡ ಸ್ಟೀವನ್ ಸ್ಮಿತ್](https://www.varthabharati.in/sports/steve-smith-rewrites-test-record-books-surpasses-joe-root-for-most-catches-as-fielder-2282055)
+- [2,459 ಕೋಟಿ ರೂ. ‘ಶಿವಂ ಸ್ಕ್ಯಾಮ್’ ಪ್ರಕರಣ; ಆರು ಮಂದಿ ವಿರುದ್ಧ ಈ.ಡಿ. ಪ್ರಾಸಿಕ್ಯೂಷನ್ ದೂರು](https://www.varthabharati.in/bangalore-city/2459-2282053)
 - [ದಲಿತ ಗುತ್ತಿಗೆದಾರನಿಗೆ ಜಾತಿ ನಿಂದನೆ, ಲಂಚಕ್ಕೆ ಬೇಡಿಕೆ ಆರೋಪ; ಜಿಬಿಎ ಅಧಿಕಾರಿ ವಿರುದ್ಧ ದಲಿತ ದೌರ್ಜನ್ಯ ಪ್ರಕರಣ ದಾಖಲು](https://www.varthabharati.in/bengaluru/bengaluru-2282052)
 - [Saudi Arabia | ರಿಯಾದ್ ವಿಮಾನ ನಿಲ್ದಾಣದ ಮೇಲೆ ದಾಳಿಯಲ್ಲಿ ಹೈದರಾಬಾದ್ ಮೂಲದ ಐಟಿ ಉದ್ಯೋಗಿ ಮೃತ್ಯು](https://www.varthabharati.in/gulf/indian-killed-in-riyadh-attack-was-at-airport-kiosk-with-family-en-route-to-medina-2282051)
 - [ಜಾಗತಿಕ ಉದ್ವಿಗ್ನತೆ | ಪಶ್ಚಿಮ ಏಷ್ಯಾದ ನಡುವಿನ ಹಲವು ವಿಮಾನಗಳ ಸೇವೆ ರದ್ದು](https://www.varthabharati.in/international/global-tensions-several-flights-cancelled-amid-west-asia-conflict-2282050)
 - [ಜಿಬೌಟಿ ಬಳಿ ವಲಸಿಗರ ದೋಣಿ ಮುಳುಗಿ; ಕನಿಷ್ಠ 109 ಸಾವು, 116 ಮಂದಿ ನಾಪತ್ತೆ](https://www.varthabharati.in/international/at-least-109-dead-116-missing-as-migrant-boat-capsizes-off-djibouti-en-route-to-yemen-2282048)
 - [ಸೂರ್ಯಕುಮಾರ್ ದಾಖಲೆ ಮುರಿದ ಅಭಿಷೇಕ್ ಶರ್ಮಾ](https://www.varthabharati.in/sports/abhishek-sharma-breaks-suryakumars-record-2282047)
-- [ಸಂಧಿವಾತದ ಮಿಥ್ಯೆಗಳು ಮತ್ತು ಸತ್ಯಾಂಶಗಳು; ವೈದ್ಯರು ಹೇಳುವುದೇನು ?](https://www.varthabharati.in/aarogya-bhaagya/arthritis-myths-and-facts-what-do-doctors-say-2282045)
-- [ಅ.30ರಂದು ಕೆಸಿಎಫ್ ಬಹರೈನ್ ವತಿಯಿಂದ ರಿಫಾಈ ದಫ್ ರಾತೀಬ್](https://www.varthabharati.in/DakshinaKannada/30--2282044)
-- [ವೇಣೂರು | ಪಡ್ಡಂದಡ್ಕ ಎಸ್ ಕೆ ಎಸ್ ಎಸ್ ಎಫ್ ವತಿಯಿಂದ ಸ್ವಚ್ಛತಾ ಶ್ರಮದಾನ](https://www.varthabharati.in/DakshinaKannada/venur-cleanliness-drive-organized-by-paddandadka-skssf-2282043)
-- [ನ್ಯೂಟನ್‌ ನಿಂದ ನೋಬೆಲ್ ವಿಜೇತರವರೆಗೆ; ಭವಿಷ್ಯದಲ್ಲಿ ಬಹುಮುಖಿ ಶಿಕ್ಷಣವೇ ಏಕೈಕ ದಾರಿ!](https://www.varthabharati.in/vishesha-varadigalu/from-newton-to-nobel-winners-why-the-future-belongs-to-cross-subject-learning-2282041)
-- [ವಿಷಕಾರಿ ಪ್ರಭೇದವಾಗಿ ಪತ್ತೆಯಾದ ವರ್ಷಗಳಿಂದ ಜೆಲ್ಲಿ ಮೀನು ಎಂದುಕೊಂಡಿದ್ದ ಜೀವಿ](https://www.varthabharati.in/vishesha-varadigalu/mistaken-for-years-this-highly-venomous-jellyfish-is-actually-a-new-species-2282039)
 
 **Asianet Kannada**
 - [Cricket: 250 ರನ್ ಹೊಡೆದೂ ಸೋತಿದ್ದ ಭಾರತ, ಇಂದು 223 ರನ್‌ಗೆ ವಿಂಡೀಸ್‌ ಕಟ್ಟಿಹಾಕಿದ್ದು ಹೇಗೆ? ಪಂದ್ಯ ಉಲ್ಟಾ ಹೊಡೆದಿದ್ದು ಎಲ್ಲಿ?](https://kannada.asianetnews.com/cricket-sports/how-india-won-chasing-223-runs-match-turning-point-details/articleshow-ehnons5)
@@ -114,6 +114,7 @@
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [Horoscope Today 12 October: ಇಂದು ಈ ರಾಶಿಯವರನ್ನು ನಿಂದಿಸಿ ಅವರ ಕೋಪಕ್ಕೆ ಸಿಲುಕುವಿರಿ](https://tv9kannada.com/horoscope/daily-horoscope-october-12-2026-monday-astrology-predictions-for-all-12-zodiac-signs-1249491.html)
 - [ಬಿಗ್​​ಬಾಸ್: ಎವಿಕ್ಷನ್ ಇಲ್ಲದೆ ಇಬ್ಬರು ಹೊರಕ್ಕೆ, ಜೊತೆಗೆ ಇಬ್ಬರ ಎಂಟ್ರಿ](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-two-contestant-evicted-two-contests-enter-the-house-1249503.html)
 - [ಉತ್ತರ ಪ್ರದೇಶ ಕಾಂಗ್ರೆಸ್ ಕಚೇರಿಯಲ್ಲಿ ರಾದ್ಧಾಂತ; ಕಾಂಗ್ರೆಸ್ ರಾಜ್ಯಾಧ್ಯಕ್ಷ ಅಜಯ್ ರೈ ಮೇಲೆ ಶೂ ಅಟ್ಯಾಕ್](https://tv9kannada.com/videos/shoes-thrown-on-congress-leader-ajay-rai-at-uttar-pradesh-watch-video-1249500.html)
 - [‘ಆ ಪದ ಮತ್ತೆ ಬಳಸಲ್ಲ’: ಸುದೀಪ್ ಮುಂದೆ ಪ್ರಮಾಣ ಮಾಡಿದ ಮಂಜ](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-manja-eviction-for-abusive-words-sudeep-console-promise-1249496.html)
@@ -123,20 +124,8 @@
 - [ಮಂಜ ಒಬ್ಬನನ್ನೆ ಹೊರಗೆ ಕಳಿಸಿದ್ದು ನನಗೆ ಇಷ್ಟ ಆಗ್ಲಿಲ್ಲ: ಸುದೀಪ್](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-sudeep-says-not-only-manju-some-other-also-should-evicted-1249486.html)
 - [ಕಂಟೆಂಟ್​ಗೋಸ್ಕರ ಅತ್ತಿದ್ದೀನಿ; ಶಾಕಿಂಗ್ ಹೇಳಿಕೆ ನೀಡಿದ ಕಿಚ್ಚ ಸುದೀಪ್](https://tv9kannada.com/entertainment/television/kichcha-sudeep-emotional-on-bigg-boss-i-cried-remembering-my-mother-not-for-content-1249482.html)
 - [ಪ್ರತ್ಯೇಕ ಘಟನೆ: ಕೆರೆಯಲ್ಲಿ ಮುಳುಗಿ ಬಾಲಕರಿಬ್ಬರು ಸಾವು; ಇಂಜಿನಿಯರಿಂಗ್​ ವಿದ್ಯಾರ್ಥಿ ತುಂಗಾ ನದಿ ಪಾಲು](https://tv9kannada.com/karnataka/shivamogga/tragic-incidents-in-karnataka-two-boys-drown-in-lake-engineering-student-dies-in-tunga-river-1249470.html)
-- [‘ರಷ್ಯಾ-ಉಕ್ರೇನ್ ನಡುವೆ ತಕ್ಷಣದಿಂದ ಜಾರಿಗೆ ಬರುವಂತೆ ಇಂಧನ ಕದನವಿರಾಮ ಒಪ್ಪಂದ’; ಅಮೆರಿಕ ಅಧ್ಯಕ್ಷ ಟ್ರಂಪ್ ಘೋಷಣೆ](https://tv9kannada.com/world/russia-and-ukraine-agreed-on-energy-ceasefire-us-president-donald-trump-announces-1249478.html)
 
-**Prajavani**
-- [ಮೂರನೇ ಟಿ20: ಮಿಂಚಿದ ಅಭಿಷೇಕ್, ಇಶಾನ್; ವಿಂಡೀಸ್‌ ವಿರುದ್ಧ ಭಾರತಕ್ಕೆ ಗೆಲುವು](https://www.prajavani.net/sports/cricket/india-win-third-t-twenty-against-west-indies-abhishek-sharma-arshdeep-singh-4323663)
-- [ವಿಧಾನಸಭಾ ಚುನಾವಣೆ: ಅಯೋಧ್ಯೆಯಲ್ಲಿ ಯೋಗಿ ಎದುರು ಕಣಕ್ಕಿಳಿಯಲ್ಲ ಎಂದ ಅಖಿಲೇಶ್](https://www.prajavani.net/news/india-news/akhilesh-yadav-rejects-yogi-adityanath-ayodhya-contest-challenge-4323517)
-- [ಇಂಧನ ಕದನ ವಿರಾಮಕ್ಕೆ ಒಪ್ಪಿದ ರಷ್ಯಾ–ಉಕ್ರೇನ್‌: ಅಮೆರಿಕ ಅಧ್ಯಕ್ಷ  ಟ್ರಂಪ್ ಘೋಷಣೆ](https://www.prajavani.net/news/world-news/russia-ukraine-energy-ceasefire-trump-announcement-4323463)
-- [ಸಿಜೆಪಿ ಪ್ರತಿಭಟನೆ LIVE | 7 ಸಾವಿರಕ್ಕೂ ಹೆಚ್ಚು ಜನರ ಸಾಮೂಹಿಕ ಬಂಧನ: ವಿಶ್ವಸಂಸ್ಥೆ ಕಳವಳ](https://www.prajavani.net/news/india-news/cjp-protest-delhi-jantar-mantar-abhijit-dipke-live-delhi-police-cockroach-janata-aparty-protest-4322418)
-- [Dasara LIVE: ದಸರಾ ಕ್ರೀಡಾಕೂಟಕ್ಕೆ ಚಾಲನೆ ನೀಡಿದ ಡಿಸಿಎಂ ಡಾ.ಜಿ.ಪರಮೇಶ್ವರ](https://www.prajavani.net/district/mysuru/nada-habba-mysuru-dasara-festival-2026-inauguration-live-updates-4322501)
-- [ಯುಪಿಐ ಪಾವತಿಗೆ ಎ.ಐ ಕನ್ನಡಕ!](https://www.prajavani.net/business/commerce-news/jio-ai-glass-upi-payment-features-india-mobile-congress-4323551)
-- [ಜ್ಞಾನೇಶ್‌ ಕುಮಾರ್ ವಿರುದ್ಧ ಪ್ರತಿಭಟನೆ ಮುಂದುವರಿಯಲಿದೆ: ಸಿಜೆಪಿಯ ಸೌರವ್‌ ದಾಸ್‌](https://www.prajavani.net/news/india-news/cjp-leader-sourav-das-protest-against-cec-gyanesh-kumar-4323357)
-- [ಈ ದಿನದ ಟಾಪ್ 10 ಸುದ್ದಿಗಳು: ಭಾನುವಾರ, 11 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/india-news/todays-top-10-news-sunday-11-october-2026-4323462)
-- [ಕುಣಿಗಲ್: ಈಜಲು ಹೋಗಿದ್ದ ಯುವಕ ಸಾವು](https://www.prajavani.net/district/tumakuru/kunigal-youth-drowns-in-well-yalachavadi-4323514)
-- [ತಮಿಳುನಾಡು: ₹13,000 ಕೋಟಿ ವೆಚ್ಚದ
-ಯೋಜನೆಗಳಿಗೆ ಮೋದಿ ಶಿಲಾನ್ಯಾಸ](https://www.prajavani.net/news/india-news/narendra-modi-inaugurates-development-projects-in-tamil-nadu-4323375)
+**Prajavani** — _unavailable_
 
 **eedina**
 - [ಉಡುಪಿ | ಮೂಲ ನಿವಾಸಿಗಳ ಮತದಾನದ ಹಕ್ಕು ಕಿತ್ತುಕೊಳ್ಳುವ ಸಂಚು: ಜ್ಞಾನಪ್ರಕಾಶ ಸ್ವಾಮೀಜಿ ಆರೋಪ](https://eedina.com/?p=772947)
@@ -151,35 +140,35 @@
 - [​ಪದವೀಧರರ-ಶಿಕ್ಷಕರ ನಿಜವಾದ ಧ್ವನಿಯಾಗಲು ಸ್ಪರ್ಧೆ;ಯಾವುದೇ ಒತ್ತಡಕ್ಕೂ ಹಿಂದೆ ಸರಿಯಲ್ಲ:ವಕೀಲ ಬರೀದ್](https://eedina.com/?p=772891)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Riyadh (7.8)
-- Indian (5.8)
-- October (5.2)
+- Delhi (8.3)
+- Indian (6.8)
+- Riyadh (6.5)
 - INDIA (4.2)
 - CJI Surya Kant (4.0)
-- Delhi (3.8)
-- Trump (2.9)
-- LIVE (2.9)
+- October (3.9)
+- Deeply (2.6)
+- Hyderabad (2.6)
 - Cricket (2.6)
-- protest (2.1)
-- PM Modi (2.0)
+- Rahul (2.2)
 - Jantar Mantar (2.0)
 - Rahul Gandhi (2.0)
+- Delhi Police (2.0)
+- Supreme Court (2.0)
 - Saudi Arabia (2.0)
-- Gandhi (1.9)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [നവരാത്രിയുടെ ആദ്യ ദിനത്തിൽ ഗുരുക്കന്മാർക്ക് ആദരമൊരുക്കി നിരഞ്ജന അനൂപ്; അവർ എന്റെ വെളിച്ചമെന്ന് താരം](https://www.manoramaonline.com/music/music-news/2026/10/11/niranjana-anoop-bharatanatyam-for-gurus-at-navaratri-first-day.html)
-- [45 ఏళ్ల వయసులో సాహస ప్రయాణం.. చిన్న సందులో మొదలై ప్రపంచ బ్రాండ్‌గా ఎదిగిన 'కల్యాణ్ జ్యువెలర్స్' విజయగాథ!](https://telugu.samayam.com/business/business-news/kalyan-jewellers-founder-ts-kalyanaraman-success-story-business-lessons-telugu/articleshow/134866228.cms)
-- [Weather Forecast for Durga Puja 2026: বঙ্গোপসাগরে ঘূর্ণাবর্ত,পঞ্চমী থেকে বাড়বে বৃষ্টি,পুজোর আবহাওয়া নিয়ে কী বলছে হাওয়া অফিস?](https://bangla.aajtak.in/west-bengal/south-bengal/story/west-bengal-weekly-weather-update-on-11-october-durga-puja-forecast-depression-rainfall-thunderstorm-alert-kolkata-south-bengal-north-bengal-imd-sus-1461485-2026-10-11)
-- [चलती कार के पहिए हुए अलग... बीच सड़क टूटा एक्सेल! इंडिया एंट्री की तैयारी में ये चीनी कंपनी](https://www.aajtak.in/auto/news/story/chery-omoda-5-rear-axle-detachment-malaysia-2026-auaw-dskc-2664651-2026-10-11)
-- [Abhijeet Dipke: अभिजीत दीपकेला धोका, ते काहीही करू शकतात; आईने पोलिसांवर केले गंभीर आरोप](https://saamtv.esakal.com/maharashtra/cjp-protest-update-abhijeet-dipke-mother-expresses-fear-for-sons-safety-amid-delhi-police-action-pvm91)
-- [சிஜேபி நிறுவனர் அபிஜித் திப்கே, நிர்வாகிகள் சவுரவ் தாஸ், அசுதோஷ் ரங்கா விடுவிப்பு](https://www.hindutamil.in/news/india/cjp-abhijeet-dipke-saurav-das-ashutosh-ranka-released-by-magistrate-in-delhi)
-- [पुलिस ने खदेड़ा तो कनॉट प्लेस में प्रदर्शनकारियों ने की पत्थरबाजी, वीडियो आया सामने](https://www.aajtak.in/india/delhi/story/delhi-connaught-place-cjp-protest-police-stone-pelting-video-ntc-acwi-rpti-2667264-2026-10-11)
-- [Sanjay Raut on PM Modi: भाजप आणि संघाचे चार बडे नेते वेगळ्या मनस्थितीत, लवकरच मोठा निर्णय घेणार; संजय राऊतांचा दावा](https://marathi.abplive.com/news/politics/sanjay-raut-says-big-unrest-within-bjp-party-4-big-leaders-may-take-important-decision-cjp-protest-delhi-marathi-news-1442002)
-- [‘സുപ്രീം കോടതിയിലുള്ള വിശ്വാസം നഷ്ടപ്പെട്ടു’; പൗരാവകാശ സംരക്ഷണത്തിനായി കോടതി കയറിയിറങ്ങി മടുത്തു: കപിൽ സിബൽ](https://www.southlive.in/tired-of-going-to-supreme-court-senior-advocate-kapil-sibal/)
-- [यशस्वी जायसवाल 0 पर आउट, केएल राहुल भी फ्लॉप; NZ दौरे से पहले रणजी ट्रॉफी में ओपनर्स का बुरा हाल](https://www.livehindustan.com/cricket/ranji-trophy-scorecard-update-yashasvi-jaiswal-dismissed-for-0-kl-rahul-also-flopped-ahead-of-the-new-zealand-tour-201791698679480.html)
+- ['हर हर महादेव!', मैच से पहले महाकाल की शरण में पहुंचे गौतम गंभीर, उज्जैन के मंदिर जाकर टेका माथा](https://www.aajtak.in/sports/cricket/story/ind-vs-wi-3rd-t20-team-india-coach-gautam-gambhir-visits-mahakaleshwar-temple-in-ujjain-aksp-dskc-2667459-2026-10-11)
+- [Ashutosh Ranka on PM Modi: आपल्या महामानवाने स्वत:च्या आईच्या निधनाचाही इव्हेंट करुन टाकला होता, सीजेपीच्या आशुतोष रांकाची पंतप्रधान मोदींवर बोचरी टीका](https://marathi.abplive.com/news/politics/pm-modi-make-spectacle-evet-of-his-own-mother-death-says-cjp-ashutosh-ranka-delhi-marathi-news-1442031)
+- [மதுரை, கோவை மெட்ரோ ரயில் திட்டங்களை மறுபரிசீலனை செய்ய பிரதமருக்கு முதல்வர் விஜய் கோரிக்கை](https://www.hindutamil.in/news/tamilnadu/cm-vijay-urges-pm-modi-to-reconsider-madurai-coimbatore-metro-rail-projects)
+- [Comrade kalyan Movie: బాక్సాఫీస్ దగ్గర దుమ్మురేపుతున్న 'కామ్రేడ్ కళ్యాణ్'.. 2 రోజుల్లో ఎంతొచ్చిందంటే?](https://telugu.news18.com/news/movies/comrade-kalyan-movie-2-days-collections-bh-3244421.html)
+- [ரஜினியின் தர்மன் பட வெளியீட்டு திட்டத்தில் மாற்றமா?](https://cinema.dinamalar.com/news/kollywood/will-there-be-a-change-in-the-release-plan-of-rajinis-dharma/141431)
+- [వెస్టిండీస్‌తో నేడు మూడో టీ20.. మహాకాళేశ్వరుడిని దర్శించుకున్న గంభీర్, కోటక్](https://www.ap7am.com/tn/883110/gautam-gambhir-and-sitanshu-kotak-visit-mahakaleshwar-temple-before-3rd-t20-against-west-indies)
+- [हफ्ते में सिर्फ 3 दिन काम, बाकी दिन आराम! एक की कमाई से चलेगा परिवार, AI बदलेगा दुनिया?](https://www.aajtak.in/trending/story/jeff-bezos-ai-three-day-work-week-future-of-jobs-tstf-dskc-2667415-2026-10-11)
+- [బొల్లారం చిన్నారి హత్య కేసులో కీలక మలుపు.. సెక్యూరిటీ పాత్రపై అనుమానాలు](https://www.andhrajyothy.com/2026/telangana/bollaram-child-incident-case-security-staff-erk-1566438.html)
+- [‘കടുവയ്ക്കൊപ്പം ഒരു ഫോട്ടോ’?; മൃഗശാലയിലെ സന്ദർശകൻ കടുവയുടെ ആക്രമണത്തിൽ കൊല്ലപ്പെട്ടു](https://www.manoramaonline.com/global-malayali/europe/2026/10/11/man-killed-in-siberian-tiger-attack-at-yorkshire-wildlife-park.html)
+- [हार्दिक पांड्याचा 33वा वाढदिवस; जर्सी नंबरशी जुळून आला अनोखा योगायोग](https://maharashtratimes.com/sports/cricket/cricket-news/hardik-pandya-happy-birthday-star-all-rounder-shares-special-birthday-video-celebrating-his-jersey-number-coincidence/articleshow/134868022.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
