@@ -1,31 +1,32 @@
-# India Trending Report — 2026-10-10 21:53:40
+# India Trending Report — 2026-10-11 00:33:47
 
 ## Google Trends (India) — top trending searches
-1. [8th pay commission](https://trends.google.com/trending/rss?geo=IN)
-2. [psg vs le mans fc standings](https://trends.google.com/trending/rss?geo=IN)
-3. [inter miami](https://trends.google.com/trending/rss?geo=IN)
-4. [real madrid vs villarreal cf standings](https://trends.google.com/trending/rss?geo=IN)
-5. [vinícius júnior](https://trends.google.com/trending/rss?geo=IN)
-6. [salman khan youtube channel](https://trends.google.com/trending/rss?geo=IN)
-7. [samsung galaxy s27 ultra](https://trends.google.com/trending/rss?geo=IN)
-8. [riyadh international airport](https://trends.google.com/trending/rss?geo=IN)
-9. [ohchr](https://trends.google.com/trending/rss?geo=IN)
-10. [ajax vs nec](https://trends.google.com/trending/rss?geo=IN)
+1. [orlando city vs columbus](https://trends.google.com/trending/rss?geo=IN)
+2. [জ্ঞানেশ কুমার](https://trends.google.com/trending/rss?geo=IN)
+3. [राजस्थान](https://trends.google.com/trending/rss?geo=IN)
+4. [birth](https://trends.google.com/trending/rss?geo=IN)
+5. [inter miami vs d.c. united](https://trends.google.com/trending/rss?geo=IN)
+6. [bangla](https://trends.google.com/trending/rss?geo=IN)
+7. [h&m](https://trends.google.com/trending/rss?geo=IN)
+8. [lotta](https://trends.google.com/trending/rss?geo=IN)
+9. [राशिफल](https://trends.google.com/trending/rss?geo=IN)
+10. [alexander isak](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- ['Fight should be face-to-face': CM Yogi accepts Akhilesh's Ayodhya challenge](https://timesofindia.indiatimes.com/india/fight-should-be-face-to-face-cm-yogi-accepts-akhileshs-ayodhya-challenge/articleshow/134856850.cms)
+- [Restrained, detained, contained: Clampdown foils stir, thousands confined to home](https://timesofindia.indiatimes.com/india/restrained-detained-contained-clampdown-foils-stir-thousands-confined-to-home-nabbed-on-way/articleshow/134861054.cms)
+- [Saudi Arabia says attack on Riyadh airport killed 12 and wounded more than 300](https://timesofindia.indiatimes.com/world/middle-east/saudi-airport-missile-strike-kills-al-least-12-leaves-over-300-injured/articleshow/134863509.cms)
+- [SIR stir: 'Kashmir model' in Delhi, situation akin to Emergency, says opposition](https://timesofindia.indiatimes.com/india/sir-stir-kashmir-model-in-delhi-situation-akin-to-emergency-says-opposition/articleshow/134863449.cms)
 - [CJP protest: How government pre-empted 'plot to incite violence'](https://timesofindia.indiatimes.com/india/cjp-protest-how-government-pre-empted-plot-to-incite-violence/articleshow/134861140.cms)
+- [Nepal cuts 12 year wait, to declare those missing in flood 'dead' after 45 days](https://timesofindia.indiatimes.com/world/south-asia/nepal-cuts-12yr-wait-to-declare-those-missing-in-flood-dead-after-45-days/articleshow/134863459.cms)
+- [New York Mayor Mamdani says companies like Netflix will now pay if you can't cancel](https://timesofindia.indiatimes.com/technology/technology-news/new-york-city-mayor-zohran-mamdanis-click-to-cancel-rule-now-live-tells-netflix-amazon-disney-and-other-companies-make-sure-your-customers-can-/articleshow/134854856.cms)
+- [New York fire fundraiser topped $100,000; state AG seeks $71,539 in unpaid funds](https://timesofindia.indiatimes.com/world/us/after-a-new-york-fire-killed-a-13-year-old-girls-father-and-four-sisters-relatives-raised-over-100000-for-her-months-later-the-state-ag-sought-71539-29-it-said-remained-unpaid/articleshow/134832070.cms)
 - [BJP slams Rahul Gandhi for claiming Murmu accepted 'vote chori'](https://timesofindia.indiatimes.com/india/bjp-slams-rahul-gandhi-for-claiming-murmu-accepted-vote-chori/articleshow/134861147.cms)
 - ['My message to students: you have nothing to fear. We are standing with you': Rahul](https://timesofindia.indiatimes.com/india/rahul-gandhi-my-message-to-students-you-have-nothing-to-fear-we-are-standing-with-you/articleshow/134860883.cms)
-- ['Misplaced, unwarranted': India slams OHCHR for raising concern over SIR protest](https://timesofindia.indiatimes.com/india/misplaced-unwarranted-india-slams-ohchr-for-raising-concern-over-sir-protest/articleshow/134859376.cms)
-- [New York Mayor Mamdani says companies like Netflix will now pay if you can't cancel](https://timesofindia.indiatimes.com/technology/technology-news/new-york-city-mayor-zohran-mamdanis-click-to-cancel-rule-now-live-tells-netflix-amazon-disney-and-other-companies-make-sure-your-customers-can-/articleshow/134854856.cms)
-- [‘Thanks for teaching youngsters’: Tharoor takes dig at PM Modi, shares 2015 tweet](https://timesofindia.indiatimes.com/india/thanks-for-teaching-youngsters-tharoor-takes-dig-at-pm-modi-shares-2015-tweet/articleshow/134859203.cms)
-- [Idaho family sues after irrigation shutoff ruins crops on 1,000-acre farm](https://timesofindia.indiatimes.com/world/us/idaho-family-has-farmed-1000-acres-since-1950-after-the-state-largely-shut-off-its-irrigation-water-in-2025-the-owners-say-crops-failed-and-are-now-suing-to-protect-the-family-farm/articleshow/134646383.cms)
-- [How CJP’s 'Jantar Mantar 2.0' call outgrew its venue, spread across cities](https://timesofindia.indiatimes.com/city/delhi/protest-with-no-one-address-how-cjps-jantar-mantar-2-0-call-outgrew-its-venue-spread-across-cities/articleshow/134858367.cms)
-- [Mamata, Kejriwal and 7,000 protesters released; CJP leaders still in detention](https://timesofindia.indiatimes.com/india/delhi-protests-mamata-kejriwal-and-7000-protesters-released-cjp-leaders-still-in-detention/articleshow/134858005.cms)
+- [Manipur MP calls his dismissal as JNU prof 'witch hunt'](https://timesofindia.indiatimes.com/india/manipur-mp-calls-his-dismissal-as-jnu-prof-witch-hunt/articleshow/134861168.cms)
 
 **NDTV**
+- ['CJP Is Their B-Team': Rekha Gupta's Dig At Rahul Gandhi, Arvind Kejriwal](https://www.ndtv.com/india-news/cjp-their-b-team-rekha-guptas-dig-at-rahul-gandhi-arvind-kejriwal-12167701#publisher=newsstand)
 - ["Unwarranted Interference": India Slams UN's Remarks On Delhi Detentions](https://www.ndtv.com/india-news/unwarranted-interference-india-slams-uns-remarks-on-delhi-detentions-12167716#publisher=newsstand)
 - [All 3,000 Detainees Released, Except Abhijeet Dipke, Dhruv Rathee, 2 Others](https://www.ndtv.com/india-news/4-ex-chief-ministers-among-1-500-detained-in-delhi-in-police-crackdown-on-cjp-protest-dipke-mamata-vijayan-kejriwal-among-them-12166791#publisher=newsstand)
 - [Christa Pike, Who Survived Lethal Injections, Returns To US Prison](https://www.ndtv.com/world-news/christa-pike-who-survived-lethal-injection-returns-to-us-prison-12167772#publisher=newsstand)
@@ -35,7 +36,6 @@
 - [PM Modi To Visit Chennai Today, Launch Projects Worth Over Rs 13,000 Crore](https://www.ndtv.com/india-news/pm-modi-to-visit-chennai-today-launch-projects-worth-over-rs-13-000-crore-12167768#publisher=newsstand)
 - [Tiger Kills Man Who Entered Its Enclosure At UK Zoo](https://www.ndtv.com/world-news/tiger-kills-man-who-entered-its-enclosure-at-uk-zoo-12167766#publisher=newsstand)
 - [2 Killed, 8 Lakh Left Without Power In 3 US States As Hurricane Makes Landfall](https://www.ndtv.com/world-news/hurricane-isaias-impact-over-8-lakh-left-without-power-in-3-states-as-hurricane-makes-landfall-in-us-12167581#publisher=newsstand)
-- [Boyfriend Falls From Balcony, Influencer Sends Him To Hospital With Driver](https://www.ndtv.com/india-news/cafe-owner-dies-after-balcony-fall-influencer-girlfriend-accused-of-murder-12167568#publisher=newsstand)
 
 **Hindustan Times**
 - [Allahabad HC warns against misuse of criminal law in short-lived marriages, quashes dowry FIR](https://www.hindustantimes.com/india-news/allahabad-hc-warns-against-misuse-of-criminal-law-in-short-lived-marriages-quashes-dowry-fir-101791658260113.html)
@@ -62,16 +62,16 @@
 - [ಡಾ.ವಿಷ್ಣುವರ್ಧನ್, ಬಿ ಸರೋಜಾ ದೇವಿಗೆ ಮರಣೋತ್ತರ 'ಕರ್ನಾಟಕ ರತ್ನ' ಘೋಷಣೆಯಾದ್ರೂ ಸಿಗದ ಪ್ರಶಸ್ತಿ: ಸಿಎಂ ಆದೇಶಕ್ಕಾಗಿ ಕಾಯುತ್ತಿದೆ ಕಡತ!](https://vijaykarnataka.com/news/karnataka/karnataka-ratna-award-dr-vishnuvardhan-and-saroja-devi/articleshow/134847785.cms)
 
 **The Hindu**
+- [Anti-CEC protest Highlights, Oct 10: CJP calls for another protest on Sunday amid police crackdown; UNHRC demands immediate release of demonstrators](https://www.thehindu.com/news/cities/Delhi/cjp-protests-jantar-mantar-new-delhi-election-commissioner-gyanesh-kumar-resignation-sir-cec-row-october-10-2026-live-news/article71566021.ece)
+- [Protest against CEC Gyanesh Kumar over alleged irregularities in electoral rolls | Full Coverage](https://www.thehindu.com/news/national/cjps-october-10-protest-seeking-cec-gyanesh-kumars-resignation-full-coverage/article71565355.ece)
+- [Mass detention of Delhi protesters draws scrutiny from legal experts](https://www.thehindu.com/news/cities/Delhi/mass-detention-of-delhi-protesters-draws-scrutiny-from-legal-experts/article71568974.ece)
 - [Former Mayor alleges bid to move Thiruvananthapuram Zoo animals to Vantara, Puthur](https://www.thehindu.com/news/national/kerala/former-mayor-alleges-bid-to-move-thiruvananthapuram-zoo-animals-to-vantara-puthur/article71569255.ece)
 - [Ladakh activist Sonam Wangchuk warns of fresh protest if detained people not released in Delhi](https://www.thehindu.com/news/national/ladakh-activist-sonam-wangchuk-warns-of-fresh-protest-if-detained-people-not-released-in-delhi/article71569193.ece)
 - [BJP accuses INDIA bloc, CJP of trying to destabilise nation at behest of foreign powers](https://www.thehindu.com/news/national/bjp-govt-will-deal-with-anarchists-sternly-nitin-nabin-warns-rahul-gandhi-kejriwal-and-cjp/article71567260.ece)
-- [Anti-CEC protest LIVE updates: CJP calls for another protest at Jantar Mantar on Sunday; UNHRC demands immediate release of demonstrators | LIVE](https://www.thehindu.com/news/cities/Delhi/cjp-protests-jantar-mantar-new-delhi-election-commissioner-gyanesh-kumar-resignation-sir-cec-row-october-10-2026-live-news/article71566021.ece)
 - [Multiple ‘Jantar Mantars’ spring up as Delhi shuts](https://www.thehindu.com/news/cities/Delhi/multiple-jantar-mantars-spring-up-as-delhi-shuts/article71569272.ece)
 - [Discord between Ministers and MLAs in districts adds to Congress’s challenges](https://www.thehindu.com/news/national/karnataka/discontent-between-ministers-and-mlas-in-districts-adds-to-congresss-challenges/article71567796.ece)
 - [CJP member moves Supreme Court on whereabouts of Dipke, Das, Ranka](https://www.thehindu.com/news/national/cjp-member-moves-supreme-court-on-whereabouts-of-dipke-das-ranka/article71569478.ece)
-- [Rahul Gandhi visits Chennai for ‘Voice of Students’ event, meets CM Vijay](https://www.thehindu.com/news/national/tamil-nadu/rahul-gandhi-visits-chennai-for-voice-of-students-event-meets-cm-vijay/article71567994.ece)
-- [Protest against CEC Gyanesh Kumar over alleged irregularities in electoral rolls | Full Coverage](https://www.thehindu.com/news/national/cjps-october-10-protest-seeking-cec-gyanesh-kumars-resignation-full-coverage/article71565355.ece)
-- [Noted mridangam artiste Guruvayur Dorai passes away](https://www.thehindu.com/news/national/noted-mridangam-artiste-guruvayur-dorai-passes-away/article71569144.ece)
+- [Union Secretary reviews Chennai’s waste processing and recycling facilities](https://www.thehindu.com/news/national/tamil-nadu/union-secretary-reviews-chennais-waste-processing-and-recycling-facilities/article71568707.ece)
 
 **Livemint**
 - [Russell Crowe Netflix 2026 thriller ‘Unabomber’ hits 40 million views despite mixed reviews](https://www.livemint.com/news/trends/russell-crowe-netflix-2026-thriller-unabomber-hits-40-million-views-despite-mixed-reviews-11791667526406.html)
@@ -100,6 +100,9 @@
 - [ಬೆಂಗಳೂರಿನಲ್ಲಿ 500 ಪಬ್‌ಗಳು, ಬಾರ್‌ಗಳ ಪರಿಶೀಲನೆ](https://www.varthabharati.in/bangalore-city/inspection-of-500-pubs-and-bars-in-bengaluru-2281815)
 
 **Asianet Kannada**
+- [ಯಾದಗಿರಿ: ಅನ್ನಭಾಗ್ಯ ಅಕ್ಕಿ ಫಾರಿನ್‌ಗೆ ರಫ್ಪು ಮಾಡುವ ಕೇಸಿಗೆ ಇಡಿ ಎಂಟ್ರಿ! ಏನಿದು ಪ್ರಕರಣ?](https://kannada.asianetnews.com/karnataka-districts/ed-enters-annabhagya-rice-scam-6000-tonnes-seized-in-gurumatkal-mill-rav/articleshow-fx2nxvv)
+- [Mysuru dasara 2026: ಮೈಸೂರು ದಸರಾಗೆ ಇಂದು ಗವಿಶ್ರೀಗಳಿಂದ ಚಾಲನೆ; ಇದೇ ಮೊದಲ ಬಾರಿ ಕಂಬಳ ಆಯೋಜನೆ](https://kannada.asianetnews.com/karnataka-districts/mysuru-dasara-2026-inaugurated-today-by-koppal-gavishri-swamiji-rav/articleshow-sds03r4)
+- [ಬೆಂಗಳೂರು-ಮಂಗಳೂರು ರೈಲು ಮಾರ್ಗದಲ್ಲಿ ಮಹತ್ವದ ಬದಲಾವಣೆ! ವಂದೇ ಭಾರತ್ ಎಕ್ಸ್‌ಪ್ರೆಸ್‌ಗೆ ಮುನ್ನ ಓಡುತ್ತಾ ಎಲೆಕ್ಟ್ರಿಕ್ ಎಂಜಿನ್ ?](https://kannada.asianetnews.com/state/major-change-on-the-bengaluru-mangaluru-railway-route-will-an-electric-engine-run-before-vande-express-rav/articleshow-1rtw96u)
 - [ಈರುಳ್ಳಿ ಪಕೋಡ ತಣ್ಣಗಾದರೂ ಮೆತ್ತಗಾಗಲ್ಲ... ಗರಿಗರಿಯಾಗಿರಲು ಅಮ್ಮ ಹೇಳಿಕೊಟ್ಟ ಹಳೆ ಕಾಲದ ಸೀಕ್ರೆಟ್​​​​](https://kannada.asianetnews.com/food/crispy-onion-pakoda-that-never-turns-soggy-ammas-40-year-secret-recipe/articleshow-rfwifbt)
 - [ದೂರು ನೀಡಲು ಹೋದ 80 ವರ್ಷದ ವೃದ್ಧೆ ಮೇಲೆಯೇ ಶಾಂತಿಭಂಗ ಕೇಸ್ ಜಡಿದ ಪೊಲೀಸರು; ಅಧಿಕಾರಿಗಳು ಹೀಗೆ ಮಾಡಬಹುದೇ?](https://kannada.asianetnews.com/india-news/police-book-breach-of-peace-case-against-elderly-woman-can-officers-do-this/articleshow-ocgk8x5)
 - [ಅವಲಕ್ಕಿ ಉಪ್ಪಿಟ್ಟು ರಬ್ಬರ್‌ನಂತೆ ಗಟ್ಟಿಯಾಗಿದ್ಯಾ? ಹೂವಿನಂತೆ ಸಾಫ್ಟ್ ಮಾಡಲು ಇಲ್ಲಿದೆ ಸಿಂಪಲ್ ಕಿಚನ್ ಟ್ರಿಕ್!](https://kannada.asianetnews.com/gallery/food/how-to-make-hard-poha-soft-in-5-minutes-simple-kitchen-hack-314yvxd)
@@ -107,9 +110,6 @@
 - [ನವರಾತ್ರಿಯ 9 ದಿನವೂ ಎನರ್ಜಿಟಿಕ್ ಇರಬೇಕಾ? ಉಪವಾಸ ಮಾಡುವಾಗ ಈ ತಪ್ಪುಗಳನ್ನು ಮಾಡಬೇಡಿ!](https://kannada.asianetnews.com/gallery/health-life/navratri-fasting-tips-7-things-to-follow-to-stay-healthy-and-energetic-for-all-9-days-ncsxono)
 - [ವೈನ್-ರೆಡ್ ಬನಾರಸಿ ಸೀರೆಯಲ್ಲಿ 'ಸ್ವದೇಶ್​'ಗೆ ನೀತಾ ಅಂಬಾನಿ ಭೇಟಿ: ಎಲ್ಲರ ಕಣ್ಣು ಕುಕ್ಕಿಸಿದ ಉದ್ಯಮಿ- ಏನಿದರ ವಿಶೇಷತೆ?](https://kannada.asianetnews.com/gallery/life/nita-ambani-embraces-indian-craftsmanship-in-a-gorgeous-wine-red-banarasi-saree-for-swadeshs-anniversary-suc-wikoqd1)
 - [Food: ಮೊಸರನ್ನು ಪ್ರೀಡ್ಜ್‌ಲ್ಲಿ ಎಷ್ಟು ದಿನ ಇಡಬಹುದು; ಹಾಳಾದ ಮೊಸರನ್ನು ಗುರುತಿಸುವುದು ಹೇಗೆ?](https://kannada.asianetnews.com/life/how-long-can-curd-be-kept-in-fridge-spoiled-curd-signs-bmk/articleshow-zps9rhm)
-- [ಎಲ್ಲಾ ಮೆಡಿಕಲ್ ರಿಪೋರ್ಟ್ ನಾರ್ಮಲ್ ಇದ್ರೂ  Cardiac Arrest ಯಾಕೆ ಬರುತ್ತೆ?](https://kannada.asianetnews.com/health-life/why-does-cardiac-arrest-happen-even-when-medical-reports-are-normal/articleshow-ww4yww3)
-- [ಕೂದಲು ಉದುರುತ್ತಿದೆಯೇ? ಚಿಂತೆ ಬಿಡಿ.. ಈ ಎಣ್ಣೆಗಳನ್ನು ಬಳಸಿ, ಜಾದೂ ನೋಡಿ!](https://kannada.asianetnews.com/gallery/health-life/6-best-hair-oils-to-reduce-hair-fall-and-promote-growth-to-know-here-v2yxnsd)
-- [ನಾಗರಹಾವಿನ ಮುಂದೆ ಹೀರೋ ಆಗಲು ಹೋಗಿ ಪ್ರಾಣಬಿಟ್ಟ, ಜಸ್ಟ್ 10 ಸೆಕೆಂಡ್ ಇನ್‌ಸ್ಟಾ ವಿಡಿಯೋಗಾಗಿ ಹೋಯ್ತು ಎರಡು ಜೀವ](https://kannada.asianetnews.com/india-news/youth-loses-his-life-while-attempting-to-make-reels-in-front-of-a-cobra-and-another-hit-by-train/articleshow-nbngzgw)
 
 **News18 Kannada** — _unavailable_
 
@@ -125,7 +125,17 @@
 - [‘ಫೇವರಿಸಂ ಮಾಡಲ್ಲ’; ಬಿಗ್ ಬಾಸ್ ಬಗ್ಗೆ ಕೆಟ್ಟದಾಗಿ ಮಾತನಾಡಿದ ತಾಂಡವ್-ಗಗನ್​ಗೆ ಕಿಚ್ಚ ಸುದೀಪ್ ಕ್ಲಾಸ್](https://tv9kannada.com/entertainment/television/sudeep-slams-tandav-and-gagan-over-bigg-boss-favoritism-allegations-1249156.html)
 - [ಉಡುಪಿ: ಎಸ್​ಐಆರ್ ಸರ್ವೇ ನೆಪದಲ್ಲಿ ಮನೆಗೆ ನುಗ್ಗಿ ವೃದ್ಧೆಯ ಸರ ದೋಚಿದ್ದ ಖದೀಮರು](https://tv9kannada.com/karnataka/udupi/udupi-gold-chain-snatching-two-arrested-for-robbing-elderly-woman-in-voter-list-disguise-1249157.html)
 
-**Prajavani** — _unavailable_
+**Prajavani**
+- [ದಸರಾ ವೈಭವ ಇಂದಿನಿಂದ](https://www.prajavani.net/district/mysuru/mysuru-dasara-grand-inauguration-by-gavisiddheshwara-swamiji-4321690)
+- [ಸ್ಥಳೀಯ ಸಂಸ್ಥೆ ಗೆಲುವೇ ಮಾನದಂಡ](https://www.prajavani.net/news/karnataka-news/congress-panchayat-election-performance-linked-to-assembly-tickets-4321787)
+- [75 ವರ್ಷಗಳ ಹಿಂದೆ: ಭಾರಿ ಬೆಂಕಿ ಅನಾಹುತದಲ್ಲಿ 19 ಮಂದಿ ಆಹುತಿ](https://www.prajavani.net/op-ed/prajavani-archive/kolkata-historical-fire-accident-tragedy-kolutola-road-4321776)
+- [ಬಿ.ಎಲ್‌.ವೇಣು ಅವರ ಕಥೆ: ‘ಬುದ್ದಿಜೀವಿ’](https://www.prajavani.net/art-culture/short-story/bl-venu-kannada-short-story-buddijivi-literary-satire-4320962)
+- [ಚಿನಕುರುಳಿ: ಭಾನುವಾರ, 11 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/news/cartoons/prajavani-chinakhuruli-cartoon-october-eleven-4321779)
+- [ಗೃಹಜ್ಯೋತಿ: ದಾಖಲೆ ಪರಿಶೀಲನೆ ಅವಧಿ ವಿಸ್ತರಣೆ](https://www.prajavani.net/news/karnataka-news/gruha-jyothi-document-verification-deadline-extended-4321683)
+- [ಒಳನೋಟ: ಆಣೆವಾರಿಯಲ್ಲಿ ಅನ್ಯಾಯ ಹೇಗೆ?](https://www.prajavani.net/news/karnataka-news/karnataka-crop-insurance-scam-anevari-injustice-farmers-loss-4321789)
+- [ಇಳಿಕೆಯತ್ತ ಉಂಡೆ ಕೊಬ್ಬರಿ ದರ](https://www.prajavani.net/district/tumakuru/tiptur-copra-price-drop-karnataka-farmers-distress-4320922)
+- [ಈ ದಿನದ ಪಂಚಾಂಗ: ಭಾನುವಾರ, 11 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/astro-vastu/panchanga/daily-panchanga-sunday-october-eleven-4321762)
+- [ತವರಿನಲ್ಲಿ ಬಿಎಫ್‌ಸಿ ಶುಭಾರಂಭ](https://www.prajavani.net/sports/football/bengaluru-fc-wins-isl-season-opener-against-delhi-4321616)
 
 **eedina**
 - [ಉಡುಪಿ ಜಿಲ್ಲೆಯ ಪಂಚಾಯತ್ ಮೀಸಲಾತಿ ಪಟ್ಟಿಯಲ್ಲಿ ಎಸ್‌ಸಿ, ಎಸ್‌ಟಿ ಪುರುಷರಿಗೆ ಅವಕಾಶವಿಲ್ಲವೇ? ಮರುಪರಿಶೀಲನೆಗೆ ಆಗ್ರಹ](https://eedina.com/?p=772761)
@@ -140,35 +150,35 @@
 - [‘ನಮ್ಮ ಜಂತರ್ ಮಂತರ್‌ಗಳನ್ನು ನಾವೇ ಸೃಷ್ಟಿಸಿಕೊಳ್ಳುತ್ತೇವೆ’; ಬಂಧನ ಕೇಂದ್ರಗಳನ್ನೇ ಪ್ರತಿಭಟನಾ ತಾಣಗಳಾಗಿಸಿದ ಜೆನ್‌-ಝೀಗಳು](https://eedina.com/?p=772699)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Delhi (12.5)
-- India (4.2)
-- Jantar Mantar (4.0)
+- Delhi (15.1)
 - Sunday (3.9)
-- protest (3.3)
 - Dipke (3.2)
-- Rahul Gandhi (3.0)
+- protest (3.0)
+- Saudi (2.9)
+- India (2.9)
 - Chennai (2.9)
+- Riyadh (2.6)
 - DMRC (2.6)
-- LIVE (2.6)
 - Trump (2.6)
-- Saudi (2.6)
 - What (2.6)
+- Mysuru (2.6)
 - Belagavi (2.6)
 - Rahul (2.2)
+- Rahul Gandhi (2.0)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Viral Video: నువ్వు ఇంకా పురుగుల మందు తాగలేదా? బతికే ఉన్నావా?.. రైతుతో ఎమ్మార్వో అమానుష వ్యాఖ్యలు](https://telugu.news18.com/news/telangana/gajwel-mro-controversy-alleged-insulting-remarks-to-farmer-spark-outrage-in-telangana-osk-3243906.html)
-- [Abhijit Dipke Grandmother Passes Away: అభిజీత్ దీప్కే ఇంట్లో తీవ్ర విషాదం.. పోలీసుల అదుపులో ఉండగానే నానమ్మ కన్నుమూత](https://telugu.abplive.com/news/india/cockroach-janta-party-cjp-founder-abhijit-dipkes-grandmother-passes-away-261183)
-- [அக்டோபர் 10ம் தேதி காலாண்டு முடிவுகளை வெளியிடும் டிமார்ட்](https://tamil.economictimes.com/market/news/dmart-premier-polyfilm-grand-oak-canyons-distillery-and-lcc-infotech-to-release-q2-results-of-2026/articleshow/134851564.cms)
-- [Katrina Kaif : वाढलेल्या वजनावरून ट्रोल करणाऱ्यांची बोलती बंद! कतरिना कैफचा ग्लॅमरस लूक चर्चेत](https://www.tv9marathi.com/photo-gallery/katrina-kaifs-kay-beauty-comeback-stunning-london-look-after-post-pregnancy-trolling-1776813.html)
-- [டாக்சிக் ஓடிடி : யஷ் பட குழுவினருக்கு மற்றொரு பெரிய அடி](https://cinema.dinamalar.com/news/kollywood/toxic-ott-another-big-blow-for-yashs-team/141413)
-- [मदीना में 'मिस्टर फैजू' ने किया निकाह, बीवी के साथ शादी की तस्वीरें आईं सामने; लेडी लव पर टिकीं निगाहें](https://www.jagran.com/entertainment/tv-faisal-shaikh-aka-mr-faisu-got-married-in-madina-shares-wedding-photos-on-instagram-40400481.html)
-- [స్కూటీని ఢీకొట్టిన ట్రక్కు.. ప్రాణాలతో బయటపడిన యువతి..](https://www.andhrajyothy.com/2026/prathyekam/maharashtra-truck-accident-scooty-rider-survives-suri-1566124.html)
-- [Delhi protest: Mamata Banerjee and other Trinamool Congress leaders detained from South Avenue bus stop](https://www.thehindu.com/news/cities/Delhi/mamata-banerjee-other-trinamool-congress-leaders-delhi-protest-cec-gyanesh-kumar-updates/article71567576.ece)
-- [Solar Tsunami to Hit Earth? Solar Storm Alert for October 2026](https://www.jagranjosh.com/general-knowledge/solar-tsunami-to-hit-earth-as-sun-releases-big-storm-check-prediction-date-effects-will-india-be-affected-1820012917-1)
-- [CJP Plan B | సీజేపీ ప్లాన్‌ ‘బి’.. జంతర్‌మంతర్‌ వద్ద నిరసనలకు అజింక్య షిండే నేతృత్వం](https://www.ntnews.com/national/after-abhijeet-dipke-ranka-das-detained-by-police-cjp-shares-plan-b-it-features-a-pre-recorded-video-2533291)
+- [DMart’s Q2FY27 net profit rises 8.5% to Rs 743 crore, revenue grows 17.8%](https://www.moneycontrol.com/news/business/earnings/dmart-s-q2fy27-net-profit-rises-8-5-to-rs-743-crore-revenue-grows-17-8-14049152.html)
+- [DMart’s Q2FY27 net profit rises 8.5% to Rs 743 crore, revenue grows 17.8%](https://www.moneycontrol.com/news/business/dmart-s-q2fy27-net-profit-rises-8-5-to-rs-743-crore-revenue-grows-17-8-14049152.html)
+- ['Settled 8 wars, still no Nobel': Trump fumes over Peace Prize snub](https://timesofindia.indiatimes.com/world/us/settled-8-wars-still-no-nobel-trump-fumes-over-peace-prize-snub/articleshow/134854460.cms)
+- [BREAKING | Delhi Court Rejects CJP Leader Ratna Singh's Plea For FIR Against Cops Over 'Illegal Detention'](https://www.livelaw.in/top-stories/delhi-court-cjp-leader-ratna-singh-fir-against-cops-over-illegal-detention-554074)
+- [IND vs WI: ભારતની હારથી ભડક્યા સુનીલ ગાવસ્કર, બોલિંગ કોચને લઈને કહી મોટી વાત](https://tv9gujarati.com/sports/cricket-news/breaking-news-ind-vs-wi-t20-sunil-gavaskar-upset-raised-questions-on-bowling-coach-1530491.html)
+- [रूस ने यूक्रेन पर मारे खतरनाक ग्लाइड बम, 20 लोगों की मौत](https://www.aajtak.in/world/story/russian-strikes-killed-ukraine-zaporizhzhia-region-trump-diesel-deal-ntcppl-dskc-2666672-2026-10-10)
+- [Cristiano Ronaldo provisionally suspended after Portugal disciplinary probe](https://www.hindustantimes.com/sports/football/cristiano-ronaldo-provisionally-suspended-after-portugal-disciplinary-probe-101791634566782.html)
+- [পুজোর মুখেই বহু দিনের প্রতীক্ষার অবসান! বেলেঘাটা থেকে সেক্টর ফাইভ পর্যন্ত শুরু ট্রায়াল রান, কবে থেকে চালু হবে অরেঞ্জ লাইনে মেট্রো?](https://bengali.news18.com/news/kolkata/trial-runs-have-commenced-on-the-kolkata-metros-orange-line-covering-the-stretch-from-beleghata-to-sector-v-ank-2924527.html)
+- [പിണറായിയുടെ ഡൽഹിയിലെ പൊലീസ് കസ്റ്റഡി; അന്വേഷിക്കാൻ ചീഫ് സെക്രട്ടറിക്ക് മുഖ്യമന്ത്രിയുടെ നിർദേശം](https://malayalam.news18.com/news/kerala/chief-minister-vd-satheesab-intervenes-in-pinarayi-vijayan-police-custody-in-delhi-nkn-ws-l-791786.html)
+- ['लड़ाई चेलों से क्यों, आमने-सामने होनी चाहिए', CM योगी के चुनौती स्वीकारने के बाद क्या अखिलेश अयोध्या से लड़ेंगे चुनाव](https://navbharattimes.indiatimes.com/state/uttar-pradesh/balrampur/yogi-adityanath-accepted-akhilesh-yadav-challenge-to-contest-election-from-ayodhya/articleshow/134854267.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
