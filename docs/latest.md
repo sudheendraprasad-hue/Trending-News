@@ -1,41 +1,41 @@
-# India Trending Report — 2026-10-20 21:58:30
+# India Trending Report — 2026-10-21 00:22:09
 
 ## Google Trends (India) — top trending searches
-1. [boat](https://trends.google.com/trending/rss?geo=IN)
-2. [paul george](https://trends.google.com/trending/rss?geo=IN)
-3. [julián alvarez](https://trends.google.com/trending/rss?geo=IN)
-4. [alexis mac allister](https://trends.google.com/trending/rss?geo=IN)
-5. [senny mayulu](https://trends.google.com/trending/rss?geo=IN)
-6. [maghnes akliouche](https://trends.google.com/trending/rss?geo=IN)
-7. [spacex share price](https://trends.google.com/trending/rss?geo=IN)
-8. [vfb stuttgart](https://trends.google.com/trending/rss?geo=IN)
-9. [illia zabarnyi](https://trends.google.com/trending/rss?geo=IN)
-10. [barca vs](https://trends.google.com/trending/rss?geo=IN)
+1. [today news](https://trends.google.com/trending/rss?geo=IN)
+2. [windy](https://trends.google.com/trending/rss?geo=IN)
+3. [റിയാദ്](https://trends.google.com/trending/rss?geo=IN)
+4. [న్యూజిలాండ్ జాతీయ క్రికెట్ జట్టు](https://trends.google.com/trending/rss?geo=IN)
+5. [rapido](https://trends.google.com/trending/rss?geo=IN)
+6. [happened](https://trends.google.com/trending/rss?geo=IN)
+7. [is](https://trends.google.com/trending/rss?geo=IN)
+8. [you](https://trends.google.com/trending/rss?geo=IN)
+9. [chennai rains](https://trends.google.com/trending/rss?geo=IN)
+10. [code](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- ['Russia is a big machine': Trump says Ukraine 'has to want' to settle war with Putin](https://timesofindia.indiatimes.com/world/europe/russia-is-a-big-machine-trump-says-ukraine-has-to-want-to-settle-war-with-putin/articleshow/135076395.cms)
-- [In talks with Reliance to refine more Venezuelan oil: Marco Rubio](https://timesofindia.indiatimes.com/india/in-talks-with-reliance-to-refine-more-venezuelan-oil-us-secretary-of-state-marco-rubio/articleshow/135076525.cms)
-- [‘Identify and defeat forces against India’: PM Modi calls for unity](https://timesofindia.indiatimes.com/india/identify-and-defeat-forces-against-india-pm-modi-calls-for-unity-during-vijayadashami-celebrations/articleshow/135076523.cms)
-- [Police lens on Lawrence Bishnoi’s aide Randeep Malik in Tiger Shroff shooting case](https://timesofindia.indiatimes.com/india/police-lens-on-lawrence-bishnois-aide-randeep-malik-in-tiger-shroff-shooting-case/articleshow/135076527.cms)
-- [Delhi HC cites national security, junks CIC order to IAF on PMs’ foreign trips](https://timesofindia.indiatimes.com/india/delhi-high-court-cites-national-security-junks-cic-order-to-iaf-on-pms-foreign-trips/articleshow/135076886.cms)
-- [Jensen Huang and his wife donated $75 million to Vanderbilt](https://timesofindia.indiatimes.com/technology/tech-news/jensen-huang-and-his-wife-donated-75-million-to-vanderbilt-the-gift-helped-push-funding-for-its-planned-san-francisco-campus-past-100-million/articleshow/135065870.cms)
-- [India, US ‘perfectly aligned’ on key issues: Rubio; defends ties with Pakistan](https://timesofindia.indiatimes.com/india/india-us-perfectly-aligned-on-key-issues-marco-rubio-defends-ties-with-pakistan/articleshow/135076530.cms)
-- [Florida couple missed 66 mortgage payments; man's bank lawsuit rejected](https://timesofindia.indiatimes.com/world/us/a-florida-couple-missed-66-mortgage-payments-on-their-naples-property-the-husband-later-agreed-to-deposit-5000-monthly-during-an-appeal-but-an-october-19-federal-ruling-rejected-his-lawsuit-against-the-bank/articleshow/135068652.cms)
 - [Allahabad HC cites long trial, lets off offenders, SC slams ‘misplaced sympathy’](https://timesofindia.indiatimes.com/india/allahabad-hc-cites-long-trial-lets-off-offenders-sc-slams-misplaced-sympathy/articleshow/135076528.cms)
-- [India & US to boost defence, energy ties, Marco Rubio says trade deal close](https://timesofindia.indiatimes.com/india/india-united-states-to-boost-defence-energy-ties-marco-rubio-says-trade-deal-close/articleshow/135076521.cms)
+- [Musk ordered Starlink slowdown, kept Ukraine and Trump administration in dark](https://timesofindia.indiatimes.com/world/europe/musk-ordered-slowdown-of-ukraines-starlink-network-leaving-kyiv-in-the-dark-report/articleshow/135078377.cms)
+- ['Russia a big machine': Trump says Ukraine 'has to want' to settle war with Putin](https://timesofindia.indiatimes.com/world/europe/russia-is-a-big-machine-trump-says-ukraine-has-to-want-to-settle-war-with-putin/articleshow/135076395.cms)
+- [Identify, defeat forces against India: Modi calls for unity, self-reliance](https://timesofindia.indiatimes.com/india/identify-defeat-forces-against-india-modi-calls-for-unity-self-reliance/articleshow/135072362.cms)
+- [In talks with Reliance to refine more Venezuelan oil: Marco Rubio](https://timesofindia.indiatimes.com/india/in-talks-with-reliance-to-refine-more-venezuelan-oil-us-secretary-of-state-marco-rubio/articleshow/135076525.cms)
+- [Jensen Huang and his wife donated $75 million to Vanderbilt](https://timesofindia.indiatimes.com/technology/tech-news/jensen-huang-and-his-wife-donated-75-million-to-vanderbilt-the-gift-helped-push-funding-for-its-planned-san-francisco-campus-past-100-million/articleshow/135065870.cms)
+- [Police lens on Lawrence Bishnoi’s aide Randeep Malik in Tiger Shroff shooting case](https://timesofindia.indiatimes.com/india/police-lens-on-lawrence-bishnois-aide-randeep-malik-in-tiger-shroff-shooting-case/articleshow/135076527.cms)
+- [Florida couple missed 66 mortgage payments; man's bank lawsuit rejected](https://timesofindia.indiatimes.com/world/us/a-florida-couple-missed-66-mortgage-payments-on-their-naples-property-the-husband-later-agreed-to-deposit-5000-monthly-during-an-appeal-but-an-october-19-federal-ruling-rejected-his-lawsuit-against-the-bank/articleshow/135068652.cms)
+- [Musk says SpaceX-Tesla merger a 'good idea', special committees formed for talks](https://timesofindia.indiatimes.com/business/international-business/elon-musk-says-spacex-tesla-merger-is-a-good-idea-special-committees-formed-for-talks/articleshow/135078380.cms)
+- [2 British Indians assaulted during Dussehra, Bathukamma celebrations](https://timesofindia.indiatimes.com/world/uk/2-british-indians-assaulted-during-dussehra-bathukamma-celebrations/articleshow/135078223.cms)
 
 **NDTV**
+- [4 More People, Including 2 Women, Arrested In Tiger Shroff Shooting Case](https://www.ndtv.com/india-news/4-more-people-including-2-women-arrested-in-tiger-shroff-shooting-case-12212352#publisher=newsstand)
+- ["Not Even A Tiny Bit": Iran Rejects Moving Enriched Uranium Out Of Country](https://www.ndtv.com/world-news/iran-rejects-moving-enriched-uranium-out-of-country-12212792#publisher=newsstand)
+- [Trump Administration Says It Has Revoked Over 3,00,000 Visas During 2nd Term](https://www.ndtv.com/world-news/trump-administration-says-it-has-revoked-over-300-000-visas-12212751#publisher=newsstand)
 - [Elon Musk Ordered Starlink Slowdown In Ukraine: Report](https://www.ndtv.com/world-news/elon-musk-ordered-starlink-slowdown-in-ukraine-report-12212713#publisher=newsstand)
 - [France Hit By "Extremist Muslims Invasion", Claims Netanyahu Amid Protests](https://www.ndtv.com/world-news/france-hit-by-extremist-muslims-invasion-claims-benjamin-netanyahu-amid-protests-12212691#publisher=newsstand)
 - [Anthropic Recorded Net Loss Of Over $80 Billion In 1st Half Of 2026: Report](https://www.ndtv.com/world-news/anthropic-recorded-net-loss-of-over-80-billion-in-1st-half-of-2026-report-12212587#publisher=newsstand)
 - [Delhi Police Transfers CJP Leaders' Case To Crime Branch Ahead Of Hearing](https://www.ndtv.com/india-news/delhi-police-transfers-cjp-leaders-saurav-das-ashutosh-ranka-case-to-crime-branch-ahead-of-hearing-12212544#publisher=newsstand)
 - [Trump Says Ukraine Has To Want To Settle War](https://www.ndtv.com/world-news/donald-trump-says-ukraine-has-to-want-to-settle-war-12212527#publisher=newsstand)
-- [4 More People, Including 2 Women, Arrested In Tiger Shroff Shooting Case](https://www.ndtv.com/india-news/4-more-people-including-2-women-arrested-in-tiger-shroff-shooting-case-12212352#publisher=newsstand)
 - [Ex-AAP Sarpanch Arrested In Punjab Over Links To Cop Caught With 15 kg Heroin](https://www.ndtv.com/india-news/ex-aap-sarpanch-arrested-in-punjab-over-links-to-cop-caught-with-15-kg-heroin-12212498#publisher=newsstand)
 - ["We're About As Close As You Can Be": Marco Rubio On India-US Trade Deal](https://www.ndtv.com/india-news/were-about-as-close-as-you-can-be-marco-rubio-on-india-us-trade-deal-12212483#publisher=newsstand)
-- ['Thank You For Free Publicity': Abhijeet Dipke On Cockroach Effigy In Delhi](https://www.ndtv.com/india-news/abhijeet-dipke-on-cockroach-effigy-in-delhi-thank-you-for-free-publicity-12212474#publisher=newsstand)
-- [Finance Influencer With 1.3 Million Followers Dies By Suicide, Father Claims Cyberbullying](https://www.ndtv.com/india-news/finance-with-harish-v-harish-chennai-jason-samuel-influencer-with-13-lakh-followers-dies-by-suicide-father-claims-cyberbullying-12212442#publisher=newsstand)
 
 **Hindustan Times**
 - [Students gather at Delhi's Model Town park to burn 20-feet tall ‘Gyanesh Kumar effigy’, detained](https://www.hindustantimes.com/india-news/students-gather-at-delhis-model-town-park-to-burn-20-feet-tall-gyanesh-kumar-effigy-detained-101792503833316.html)
@@ -49,21 +49,32 @@
 - [Marco Rubio briefed on 26/11 attacks by Taj security chief who was present during 2008 attacks](https://www.hindustantimes.com/india-news/marco-rubio-briefed-on-26-11-attacks-by-taj-security-chief-who-was-present-during-2008-attacks-sunil-kudyadi-101792508727859.html)
 - [Rubio hails New Delhi as 'powerful, influential', says India-US ties will help shape 21st century](https://www.hindustantimes.com/india-news/marco-rubio-india-visit-america-freedom-250-calls-india-powerful-influential-says-india-us-ties-will-define-21st-century-101792507163660.html)
 
-**Vijay Karnataka** — _unavailable_
+**Vijay Karnataka**
+- [ಬರದ‌ ಏಟಿಗೆ ಕರ್ನಾಟಕದಲ್ಲಿ ಭತ್ತದ ಕೊರತೆ: ಸ್ಥಗಿತ ಅಂಚಿನಲ್ಲಿ 2,400ಕ್ಕೂ ಅಧಿಕ ರೈಸ್‌ಮಿಲ್ಸ್, ವಿದೇಶಿ ಅಕ್ಕಿ ರಫ್ತಿಗೂ ಭಾರಿ ಪೆಟ್ಟು!](https://vijaykarnataka.com/news/karnataka/over-2400-rice-mills-on-the-verge-of-closure-in-karnataka-due-to-rice-grain-shortage-in-exports-halted/articleshow/135078795.cms)
+- [ಕೋಡಿಶ್ರೀ ಭವಿಷ್ಯ: ಹಿಂಗಾರು ಮಳೆ ಬಗ್ಗೆ ಸ್ವಾಮೀಜಿ ಮಹತ್ವದ ನುಡಿ; ಯುಗಾದಿ ವೇಳೆ ಹೇಳಿದ್ದ ಮುಂಗಾರು ನುಡಿ ನಿಜವಾಗಿತ್ತು](https://vijaykarnataka.com/news/dharawada/kodi-mutt-swamiji-prediction-good-post-monsoon-rains-crop-his-earlier-forecast-for-ugadi-proved-to-be-accurate/articleshow/135067997.cms)
+- [ಪಂಜಾಬ್ ಸಿಎಂ ಭಗವಂತ್ ಮಾನ್ ಗೆ ದಿಲ್ಲಿ ಏರ್ ಪೋರ್ಟ್ ನಲ್ಲಿ 3 ಗಂಟೆ ತಡೆ; ಇದು ಕೇಂದ್ರಕ್ಕೆ `ಸೊಕ್ಕು' ಎಂದ ಆಪ್ ಟೀಕೆ](https://vijaykarnataka.com/news/new-delhi/punjab-cm-bhagwant-mann-held-up-for-3-hours-at-delhi-airport-aap-criticizes-central-government/articleshow/135074987.cms)
+- [ಮರೂನ್ ಲೆಹೆಂಗಾ-ಚೋಲಿಯಲ್ಲಿ ಕಚ್ಚಾ ಬಾದಾಮ್ ಗರ್ಲ್ ಅಂಜಲಿ ಅರೋರಾ; ದೇಶಿ ಲುಕ್‌ಗೆ ಫ್ಯಾನ್ಸ್ ಫಿದಾ!](https://vijaykarnataka.com/lifestyle/fashion/anjali-arora-maroon-lehenga-look/articleshow/135071011.cms)
+- [`ನಮಗೂ ಪರ್ಸನಲ್ ಲೈಫಿದೆ ನೆನಪಿರಲಿ': ಅನಗತ್ಯ ವಿವಾದಗಳ ವಿಚಾರವಾಗಿ ಮಾಧ್ಯಮಗಳ ವಿರುದ್ಧ ಮೊಹಮ್ಮದ್ ಶಮಿ ಕಿಡಿ](https://vijaykarnataka.com/sports/cricket/news/mohammed-shami-lashes-out-at-the-media-over-unnecessary-controversies-/articleshow/135073802.cms)
+- [BBK 13: ಈ ವಾರದ ನಾಮಿನೇಷನ್‌ ಫೈನಲ್‌ ಅಲ್ಲವೇ ಅಲ್ಲ, ಅಸಲಿ ಆಟ ಈಗ ಶುರು!](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-6th-week-nomination-day-44th-weekly-task-lutikuru-and-rakshakaru/articleshow/135076293.cms)
+- [ಮೊಬೈಲ್ ಫೋನ್ ನೀರಿಗೆ ಬಿದ್ದರೆ ಏನು ಮಾಡಬೇಕು? ತೇವಾಂಶ ತೆಗೆಯಲು ಇಲ್ಲಿವೆ ಸರಳ ಸಲಹೆಗಳು](https://vijaykarnataka.com/lifestyle/home-decor/phone-dropped-in-water-how-to-remove-moisture/articleshow/135040843.cms)
+- [ಕನಸಿನಲ್ಲಿ ಪಿತೃಗಳು ಹಣ ನೀಡಿದರೆ ಏನರ್ಥ.?](https://vijaykarnataka.com/religion/superstition/dream-interpretation-what-does-it-mean-to-dream-of-ancestors-giving-you-money/articleshow/135072961.cms)
+- [ಟೈಗರ್ ಶ್ರಾಫ್ ಫಿಟ್‌ನೆಸ್ ರಹಸ್ಯ: ಮೊಟ್ಟೆ, ಚಿಕನ್, ಮೀನು ಪ್ರೋಟೀನ್ ಆಹಾರದಲ್ಲಿ ಏಕೆ ಮುಖ್ಯ?](https://vijaykarnataka.com/lifestyle/fitness/tiger-shroff-firing-case-diet-plan-workout/articleshow/135066867.cms)
+- [BJP ಯುವ ಮೋರ್ಚಾ ರಾಷ್ಟ್ರೀಯ ಕಾರ್ಯಕಾರಿಣಿಗೆ 24 ಮಂದಿ ಹೊಸಬರ ನೇಮಕ: ಕರ್ನಾಟಕದ ರಶ್ಮಿ ಸಾಮಂತ್‌ಗೆ ಹೊಸ ಜವಾಬ್ದಾರಿ](https://vijaykarnataka.com/news/karnataka/new-appointments-to-bjp-yuva-morcha-national-executive-rashmi-samant-selected-from-karnataka/articleshow/135073179.cms)
 
 **The Hindu**
+- [Rising Crimes And Farmer’s Plight Dominate Conversations at 60th Shiv Sena (UBT) Dussera Rally](https://www.thehindu.com/news/national/maharashtra/rising-crimes-and-farmers-plight-dominate-conversations-at-60th-shiv-sena-ubt-dussera-rally/article71605414.ece)
+- [Left parties should sell books from party offices, not at Durga Puja pandals, says West Bengal CM](https://www.thehindu.com/news/national/west-bengal/left-parties-should-sell-books-from-party-offices-not-at-durga-puja-pandals-says-west-bengal-cm/article71605199.ece)
+- [Dasara gift for Singareni officers, Dy CM fulfils long-pending demand](https://www.thehindu.com/news/national/telangana/dasara-gift-for-singareni-officers-dy-cm-fulfils-long-pending-demand/article71604614.ece)
+- [Rubio pushes for India to buy more U.S., Venezuelan oil](https://www.thehindu.com/business/Economy/marco-rubio-oil-purchases-india-mumbai-october-20-2026/article71604269.ece)
 - [Bengal CM defends decision to shift stampede injured to private hospital, cites better care](https://www.thehindu.com/news/national/west-bengal/bengal-cm-defends-decision-to-shift-stampede-injured-to-private-hospital-cites-better-care/article71605499.ece)
+- [Chennai Mayor alleges online harassment; lodges complaint with police](https://www.thehindu.com/news/cities/chennai/chennai-mayor-alleges-online-harassment-lodges-complaint-with-police/article71605434.ece)
 - [Haryana power staff call 3-day strike against giving licence to private discom](https://www.thehindu.com/news/national/haryana/haryana-power-staff-call-3-day-strike-against-giving-licence-to-private-discom/article71605055.ece)
 - [One dead, few injured in firing inside SGNP](https://www.thehindu.com/news/cities/mumbai/one-dead-few-injured-in-firing-inside-sgnp/article71605463.ece)
 - [Guest lecturers yet to get hike in honorarium announced in the budget](https://www.thehindu.com/news/national/tamil-nadu/guest-lecturers-yet-to-get-hike-in-honorarium-announced-in-the-budget/article71604876.ece)
-- [Kashmir clerics, including Mirwaiz, say eviction of Delhi’s historic Race Course mosque ‘deeply disturbing’](https://www.thehindu.com/news/national/jammu-and-kashmir/kashmir-clerics-including-mirwaiz-say-eviction-of-delhis-historic-race-course-mosque-deeply-disturbing/article71605010.ece)
-- [The ECI’s unfinished lessons](https://www.thehindu.com/opinion/op-ed/the-ecis-unfinished-lessons/article71605299.ece)
-- [On paddy field conservation in Keralam](https://www.thehindu.com/opinion/op-ed/on-paddy-field-conservation-in-keralam/article71605301.ece)
-- [At Dussehra rally, Uddhav bats for 'regime change', promises 'acche din' after ousting BJP](https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece)
-- [30-foot-high cockroach effigy triggers AAP-BJP war of words](https://www.thehindu.com/news/cities/Delhi/30-foot-high-cockroach-effigy-triggers-aap-bjp-war-of-words/article71605225.ece)
-- [T.N. government should construct new Secretariat complex outside Chennai, says Anbumani](https://www.thehindu.com/news/national/tamil-nadu/tn-government-should-construct-new-secretariat-complex-outside-chennai-says-anbumani/article71604935.ece)
+- [Thermal power plants must undergo annual fly ash audits, CPCB submits before NGT](https://www.thehindu.com/news/national/tamil-nadu/thermal-power-plants-must-undergo-annual-fly-ash-audits-cpcb-submits-before-ngt/article71604788.ece)
 
 **Livemint**
+- [Malaysia Expects Tourism Fallout From Indonesia Haze](https://www.livemint.com/news/malaysia-expects-tourism-fallout-from-indonesia-haze-11792538881197.html)
 - [America’s 5 greenest cities in 2026: 3 are in California; which one tops the list](https://www.livemint.com/news/us-news/americas-5-greenest-cities-in-2026-3-are-in-california-which-one-tops-the-list-11792528737073.html)
 - [A 1930 law, 50% tariffs and a new lawsuit: Trump faces fresh challenge over Canada duties](https://www.livemint.com/news/us-news/a-1930-law-50-tariffs-and-a-new-lawsuit-trump-faces-fresh-challenge-over-canada-duties-11792521448579.html)
 - [Delhi airport traffic hits record first-half high with 38.5 million passengers, eyeing expansion](https://www.livemint.com/news/india/delhi-airport-traffic-hits-record-first-half-high-with-38-5-million-passengers-eyeing-expansion-11792520280650.html)
@@ -73,7 +84,6 @@
 - [US, India ‘very, very close’ to trade deal, says Rubio](https://www.livemint.com/news/us-india-trade-deal-energy-ril-rubio-11792513086422.html)
 - [Why did Saudi Arabia execute a Bangladeshi couple over an ‘obscene act’ at Mecca mosque? Why Dhaka is seeking answers](https://www.livemint.com/news/world/why-did-saudi-arabia-execute-a-bangladeshi-couple-over-an-obscene-act-at-mecca-mosque-why-dhaka-is-seeking-answers-11792514034608.html)
 - [JD Vance on 2028 presidential run: Why he says ‘there’s a chance’ he won’t contest](https://www.livemint.com/news/us-news/jd-vance-on-2028-presidential-run-why-he-says-there-s-a-chance-he-won-t-contest-11792514828194.html)
-- [Why is Centre reviewing National Mineral Policy, 2019? Critical minerals, recycling on agenda](https://www.livemint.com/news/india/why-is-centre-reviewing-national-mineral-policy-2019-critical-minerals-recycling-on-agenda-11792513290252.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -104,6 +114,7 @@
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ನಿತ್ಯ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರ ಸ್ವಾತಂತ್ರ್ಯಕ್ಕೆ ಹಲವರಿಂದ ತೊಂದರೆ ಬರಲಿದೆ…](https://tv9kannada.com/horoscope/daily-horoscope-oct-21-2026-rashi-bhavishya-and-predictions-for-all-zodiac-signs-1252916.html)
 - [ಬಿಗ್ ಬಾಸ್ ಕನ್ನಡ ಸೀಸನ್ 13: ಈ ವಾರ ನಾಮಿನೇಟ್ ಆದವರಿಗೆ ಕಾರಾಗೃಹ ಶಿಕ್ಷೆ](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-season-13-this-week-nomination-jail-punishment-sonika-asiya-thandav-ram-1252932.html)
 - [ಮಂಗಳೂರು ಅಪಘಾತ ಪ್ರಕರಣಕ್ಕೆ ಶಾಕಿಂಗ್ ಟ್ವಿಸ್ಟ್: ಉಳ್ಳಾಲದಲ್ಲಿ ಸ್ಕೂಟರ್‌ಗೆ ಪಿಕಪ್ ಡಿಕ್ಕಿ ಹೊಡೆಸಿ ಇಬ್ಬರ ಹತ್ಯೆ ; ಚಾಲಕನ ವಿರುದ್ಧ ಕೊಲೆ ಕೇಸ್](https://tv9kannada.com/videos/mangaluru-accident-takes-shocking-turn-scooter-collision-investigated-as-murder-1252929.html)
 - [ಅರೇಂಜ್​ ಮ್ಯಾರೇಜ್​ಗೆ ಒಪ್ಪದ ಮಗಳ ತಲೆಗೆ ಗುಂಡು ಹಾರಿಸಿದ ಅಪ್ಪ!](https://tv9kannada.com/national/father-shoots-19-year-old-daughter-in-head-for-refusing-arranged-marriage-in-uttar-pradesh-1252925.html)
@@ -113,9 +124,10 @@
 - [ನಾಯಕತ್ವ ತ್ಯಜಿಸಿದ ಬಳಿಕ ಭರ್ಜರಿ ಬ್ಯಾಟಿಂಗ್: 91 ರನ್ ಸಿಡಿಸಿ ಕಣ್ಣೀರಿಟ್ಟ ಹರ್ಮನ್‌ಪ್ರೀತ್ ಕೌರ್!](https://tv9kannada.com/sports/cricket-news/harmanpreet-kaur-91-vs-zim-emotional-interview-captaincy-exit-1252917.html)
 - [‘2029ರ ಅಂತ್ಯದೊಳಗೆ ಪಂಜಾಬ್ ಡ್ರಗ್ಸ್ ಮುಕ್ತವಾಗಲಿದೆ’; ಕೇಂದ್ರ ಗೃಹ ಸಚಿವ ಅಮಿತ್ ಶಾ ಪ್ರತಿಜ್ಞೆ](https://tv9kannada.com/national/amit-shah-promises-before-2029-december-31-to-make-punjab-nasha-mukt-1252910.html)
 - [ಮೈನವಿರೇಳಿಸುವ ‘ವಜ್ರಮುಷ್ಠಿ ಕಾಳಗ’ಕ್ಕೆ ಚಾಮರಾಜನಗರದ ಸತೀಶ್ ಜಟ್ಟಿ ಸಜ್ಜು](https://tv9kannada.com/karnataka/chamarajanagar/mysore-dasaras-vajramushti-kalaga-ancient-tradition-and-cultural-significance-1252908.html)
-- [ಆನೆ ಮೇಲೆ ಅಂಬಾರಿ: ಮೈಸೂರಿನಂತೆ ಹೇಮಗುಡ್ಡದಲ್ಲಿ ಅದ್ಧೂರಿಯಾಗಿ ಜರುಗಿದ ಜಂಬೂಸವಾರಿ](https://tv9kannada.com/videos/dasara-2026-hemagudda-durga-devi-jambusavari-at-koppal-like-mysuru-1252897.html)
 
-**Prajavani** — _unavailable_
+**Prajavani**
+- [ದಿನ ಭವಿಷ್ಯ: ಬದುಕಿನಲ್ಲಿ ನೆಲೆ ನಿಂತ ನೆಮ್ಮದಿ ಸಿಗಲಿದೆ](https://www.prajavani.net/astro-vastu/horoscope/daily-horoscope-dated-21-october-2026-4342858)
+- [ದಿನದ ಪಂಚಾಂಗ: ಬುಧವಾರ, 21 ಅಕ್ಟೋಬರ್ 2026](https://www.prajavani.net/astro-vastu/panchanga/daily-panchanga-dated-21-october-2026-4342849)
 
 **eedina**
 - [ತುಮಕೂರು ದಸರಾ:ಸನ್ಮಾನದ ಹೆಸರಿನಲ್ಲಿ ಪೌರಕಾರ್ಮಿಕರನ್ನು ಕರೆದು ಅವಮಾನಿಸಿದ ಜಿಲ್ಲಾಡಳಿತ!](https://eedina.com/?p=776221)
@@ -130,35 +142,35 @@
 - [ತುಮಕೂರು ದಸರಾ  : ಅಧಿಕಾರಿಗಳ ಕುಟುಂಬಸ್ಥರ ಕಾಲಿನ ಬಳಿ ಮಾಧ್ಯಮದವರಿಗೆ ಆಸನ](https://eedina.com/?p=776184)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (7.8)
-- Rubio (6.7)
-- Delhi (5.1)
-- Trump (4.2)
-- Marco Rubio (4.0)
+- India (6.5)
+- Rubio (6.4)
+- Trump (5.8)
+- Ukraine (4.2)
 - Report (3.9)
+- Marco Rubio (3.0)
 - Tiger Shroff (3.0)
-- Ukraine (2.9)
+- Musk (2.9)
+- Venezuelan (2.6)
+- Delhi (2.2)
 - Punjab (1.9)
+- Starlink (1.6)
 - Police (1.6)
 - Bishnoi (1.6)
 - India-US (1.6)
-- Uddhav (1.6)
-- Marco (1.5)
-- Russia (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [శ్రీనగర్‌లో క్రికెటర్ వీరంగం.. ప్రేక్షకుడిపై పిడిగుద్దులు! వీడియో వైరల్](https://www.andhrajyothy.com/2026/prathyekam/jahangir-lone-srinagar-cricket-clash-erk-1569099.html)
-- [8th Pay Commission: ग्रॅच्युईटीची मर्यादा वाढून ₹७५ लाख होणार का? कर्मचाऱ्यांच्या कोणत्या आहेत मागण्या?](https://www.lokmat.com/business/news/8th-pay-commission-will-the-gratuity-limit-be-increased-to-rs-75-lakh-what-are-the-demands-of-employees-a-a720/)
-- ['पब्लिसिटी के लिए...', कॉकरोच का पुतला जलाने पर बोले अभिजीत दीपके](https://www.abplive.com/states/delhi-ncr/dussehra-2026-abhijeet-dipke-reaction-on-to-burn-30-foot-cockroach-effigy-with-ravana-in-pitampura-ramlila-3204465)
-- [टीएमसी से अलग हुए यूसुफ़ पठान को वडोदरा में प्लॉट देगी गुजरात सरकार, जानें पूरा मामला](https://www.bbc.com/hindi/articles/cq5yn88vdrp5o)
-- [Bengal vs Services: বাংলার স্পিন ফাঁদে কুপোকাত সার্ভিসেস, রুদ্ধশ্বাস ম্য়াচে দুরন্ত জয় ঈশ্বরণদের](https://bengali.abplive.com/sports/cricket/bengal-beat-services-in-a-thriller-to-secure-second-ranji-trophy-win-thanks-to-spinners-1196640)
-- ['तीन महीने के अंदर मिलेगा इंसाफ..', पंजाब में गुलजार सिंह के घर पहुंचे अमित शाह; ध्यान से सुनीं परिवार की बातें](https://www.jagran.com/punjab/sangrur-amit-shah-meets-gulzar-singh-family-in-sangrur-assures-justice-40410924.html)
-- [टायगर श्रॉफ गोळीबार : एका फोन कॉलमुळे पोलिसांनी तीन आरोपींना कसं ताब्यात घेतलं?](https://www.bbc.com/marathi/articles/c623d7prp517o)
-- [Daily Astrology :মেষ-সহ ৪ রাশির সোনালি সময়, একাধিক যোগের প্রভাবে পুজোর মধ্যেই জীবন ঘুরে যেতে পারে, কাদের কর্মক্ষেত্রে চ্যালেঞ্জের আশঙ্কা ?](https://bengali.abplive.com/astro/golden-time-for-these-four-zodiac-signs-aries-ajker-rashiphal-21-october-daily-astrology-prediction-aries-to-virgo-for-all-zodiac-signs-kal-ka-rashifal-horoscope-1196637)
-- [माझं नाव सांगून एकनाथ शिंदे तुम्ही दिल्लीतून ५०० कोटी आणले का? पुरावा देणार, मनोज जरांगेंच्या आरोपाने राजकारणात भूकंप](https://news18marathi.com/maharashtra/manoj-jarange-patil-serious-allegation-on-eknath-shinde-over-500-crores-dasara-melava-speech-1810303.html)
-- [Jio Platforms IPO: ఐపీఓకు ముందే జియోకు భారీ నిధులు.. 212 మంది యాంకర్ ఇన్వెస్టర్ల నుంచి రూ.8,110 కోట్లు!](https://telugu.news18.com/news/business/jio-platforms-ipo-raises-rs-8110-crore-from-212-anchor-investors-ahead-of-october-21-launch-kb-3250357.html)
+- [Dasara Melava : मोठी बातमी : ठाकरे-शिंदेंच्या दसरा मेळाव्यात कोण कोण भाषणं करणार? दोघांचे शिलेदार ठरले, ऐनवेळी ठाकरेंनी नवा मावळा निवडला!](https://marathi.abplive.com/news/politics/shivsena-ubt-and-eknath-shinde-shivsena-both-party-finalize-list-for-leaders-to-speak-in-dasara-melava-marathi-news-1443014)
+- [Asian Para Games: निषाद कुमार का डबल गोल्ड, डिस्कस थ्रो में भारत का क्लीन स्वीप](https://www.aajtak.in/sports/asian-games/story/nishad-kumar-second-gold-asian-para-games-devender-discus-throw-bmsp-dskc-2675706-2026-10-20)
+- [दीपिका-रणवीरने दाखवली दुसऱ्या बाळाची झलक; ठेवलं 'हे' नाव!](https://www.loksatta.com/manoranjan/bollywood/deepika-padukone-ranveer-singh-baby-girl-devi-padukone-singh-name-reveal-nsp-98-6202451/)
+- [Shraddha Dubey, Lucknow Influencer Accused Of Killing Lover, Arrested](https://www.ndtv.com/india-news/shraddha-dubey-lucknow-influencer-accused-of-killing-lover-arrested-12211012)
+- [Deepika Padukone And Ranveer Singh Reveal Name Of Their Second Daughter On Dussehra, Share First Glimpse Of Newborn](https://www.ndtv.com/entertainment/deepika-padukone-and-ranveer-singh-reveal-name-their-second-daughter-on-dussehra-share-first-glimpse-of-newborn-12210989)
+- [পাঁচ শতাধিক সিনেমায় অভিনয়, শেষ বয়সে চিকিৎসার জন্য আকুতি](https://www.channelionline.com/fdc-mijan-sick-need-help/)
+- [মেক্সিকান শিল্পীদের ছোঁয়ায় কেরেতারোয় অনন্য দুর্গাপুজো](https://eisamay.com/pujor-samay/bidesher-pujo/mexico-queretaro-2-days-durga-puja-with-mexican-artist-idol/200557110.cms)
+- [Qualcomm to cut jobs globally after employee reviews, CEO sends memo to staff](https://www.indiatoday.in/jobs/story/qualcomm-to-cut-jobs-globally-after-employee-reviews-ceo-sends-memo-to-staff-3021444-2026-10-20)
+- [NH அருகே மீட்கப்பட்ட செவிலியர் உடல்.. நகைக்காக கொலை செய்து உடல் வீச்சு... காட்டிக் கொடுத்த காகிதம்.. உடன் பணிபுரிந்த ஊழியர் கைது..!](https://www.polimernews.com/districtnews/nurse-found-dead-near-nh-murdered-for-jewellery-paper-clue-coworker-arrested-12692429)
+- [Does Trump’s 60-day tariff waiver really give relief to India? What it means for US trade deal & oil prices](https://timesofindia.indiatimes.com/business/india-business/does-trumps-60-day-tariff-waiver-really-give-relief-to-india-what-it-means-for-us-trade-deal-oil-prices/articleshow/135065802.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
