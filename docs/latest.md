@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-24 21:17:15
+# India Trending Report — 2026-10-24 23:26:30
 
 ## Google Trends (India) — top trending searches
-1. [weather noida](https://trends.google.com/trending/rss?geo=IN)
-2. [weather forecast](https://trends.google.com/trending/rss?geo=IN)
-3. [julián alvarez](https://trends.google.com/trending/rss?geo=IN)
-4. [google activity](https://trends.google.com/trending/rss?geo=IN)
-5. [rbny vs inter miami](https://trends.google.com/trending/rss?geo=IN)
-6. [weather delhi](https://trends.google.com/trending/rss?geo=IN)
-7. [gil vicente vs porto](https://trends.google.com/trending/rss?geo=IN)
-8. [delhi weather](https://trends.google.com/trending/rss?geo=IN)
-9. [stranger things](https://trends.google.com/trending/rss?geo=IN)
-10. [ooty](https://trends.google.com/trending/rss?geo=IN)
+1. [d](https://trends.google.com/trending/rss?geo=IN)
+2. [bitcoin price](https://trends.google.com/trending/rss?geo=IN)
+3. [f1](https://trends.google.com/trending/rss?geo=IN)
+4. [twitch](https://trends.google.com/trending/rss?geo=IN)
+5. [apple tv](https://trends.google.com/trending/rss?geo=IN)
+6. [from](https://trends.google.com/trending/rss?geo=IN)
+7. [weather forecast](https://trends.google.com/trending/rss?geo=IN)
+8. [julián alvarez](https://trends.google.com/trending/rss?geo=IN)
+9. [google activity](https://trends.google.com/trending/rss?geo=IN)
+10. [rbny vs inter miami](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- ['US will try to seize island': Iran bracing for attack before Oct 27 Israeli polls](https://timesofindia.indiatimes.com/world/middle-east/israel-will-fire-first-shot-us-will-try-to-seize-island-iran-believes-attack-likely-next-week-report/articleshow/135172977.cms)
-- [Congress alleges attack on Christian families in Bengal, writes to Amit Shah](https://timesofindia.indiatimes.com/city/kolkata/stripped-purification-ritual-kc-venugopal-writes-to-amit-shah-west-bengal-cm-over-assault-on-christian-families/articleshow/135173070.cms)
-- [Over 4 lakh march across country, nearly 1,000 arrested - France protests in videos](https://timesofindia.indiatimes.com/world/europe/cops-use-tear-gas-water-cannons-as-over-4-lakh-march-across-country-france-protests-in-videos/articleshow/135175009.cms)
-- [No Virat Kohli in Rahane's all-time India Test XI; picks Dravid, Sachin & Dhoni](https://timesofindia.indiatimes.com/sports/cricket/news/no-virat-kohli-rohit-sharma-in-rahanes-all-time-india-test-xi-picks-dravid-tendulkar-and-dhoni/articleshow/135174571.cms)
+- [‘No line he will not cross’: Obama slams Ramaswamy’s ‘cruel’ ad, hits out at Trump](https://timesofindia.indiatimes.com/world/us/no-line-he-will-not-cross-obama-slams-ramaswamys-cruel-ad-hits-out-at-trump/articleshow/135179870.cms)
+- [No EC nod needed for voter to sue candidate over false information: Supreme Court](https://timesofindia.indiatimes.com/india/no-ec-nod-needed-for-voter-to-sue-candidate-over-false-information-supreme-court/articleshow/135177591.cms)
+- [Farooq Abdullah's comments on Pakistan and Kashmir draw flak](https://timesofindia.indiatimes.com/india/farooq-abdullahs-comments-on-pakistan-and-kashmir-draw-flak/articleshow/135176756.cms)
+- [Princess’s gambit: At 11, Bodhana Sivanandan is an international master](https://timesofindia.indiatimes.com/world/uk/princesss-gambit-at-11-bodhana-sivanandan-is-an-international-master/articleshow/135177593.cms)
+- [Interview | ‘AAP had 4.5 years to end drug menace, gangsterism in Punjab’: Pilot](https://timesofindia.indiatimes.com/india/interview-aap-had-4-5-years-to-end-drug-menace-gangsterism-in-punjab-sachin-pilot/articleshow/135177589.cms)
 - [Michael and Susan Dell’s foundation spotlights free skills training in Texas](https://timesofindia.indiatimes.com/technology/tech-news/michael-and-susan-dells-foundation-backs-free-skills-training-in-texas-a-2026-update-reports-that-78-of-skillpoint-alliance-graduates-find-jobs-and-average-monthly-earnings-reach-3600/articleshow/135167339.cms)
-- [Riyadh, Dammam, Jeddah flights hit: Air India, IndiGo extend suspensions](https://timesofindia.indiatimes.com/world/middle-east/riyadh-dammam-jeddah-flights-hit-air-india-indigo-extend-suspensions-akasa-follows-suit/articleshow/135175659.cms)
-- [Ohio court upholds bank's right to foreclose after 3 loan modifications](https://timesofindia.indiatimes.com/world/us/in-2007-an-ohio-couple-bought-a-home-and-the-husband-died-two-years-later-after-three-loan-modifications-and-a-449905-foreclosure-claim-an-october-22-court-upheld-the-banks-right-to-foreclose/articleshow/135155848.cms)
-- ['Act of treason': BJP guns for Farooq Abdullah over 'Pak protecting Kashmiris' remark](https://timesofindia.indiatimes.com/india/act-of-treason-bjp-slams-farooq-abdullah-over-claim-pakistan-is-protecting-kashmiris/articleshow/135173056.cms)
-- ['Can no longer breathe': Thousands protest in Turkey over media crackdown](https://timesofindia.indiatimes.com/world/rest-of-world/can-no-longer-breathe-thousands-protest-in-turkey-over-media-crackdown-jailed-journalists/articleshow/135174893.cms)
-- [Fake faces, stolen voices, false stories: Can we still trust what we see online?](https://timesofindia.indiatimes.com/city/delhi/fake-faces-stolen-voices-false-stories-can-we-still-trust-what-we-see-online/articleshow/135163883.cms)
+- [Trump votes in Florida midterms, defends controversial ad, doubles down on Iran](https://timesofindia.indiatimes.com/world/us/trump-votes-in-florida-midterms-defends-controversial-ad-doubles-down-on-iran-war/articleshow/135178548.cms)
+- [Dallas insurer paid $4,261 for floor damage; court rejects $58,150 claim](https://timesofindia.indiatimes.com/world/us/in-2021-a-dallas-homes-flooring-was-damaged-after-a-neighbours-frozen-pipes-burst-the-insurer-paid-4261-but-homeowners-later-sought-58150-in-repairs-and-an-october-22-court-rejected-the-delayed-claim/articleshow/135155850.cms)
+- [Suspicious pigeon with coded ring, Pak currency causes a flutter in Jammu](https://timesofindia.indiatimes.com/india/suspicious-pigeon-with-coded-ring-pak-currency-causes-a-flutter-in-jammu/articleshow/135176763.cms)
+- [Defer Nov 1 rally, will hit festive business, traders urge Rahul; BJP raps Congress](https://timesofindia.indiatimes.com/india/defer-nov-1-rally-will-hit-festive-business-traders-urge-rahul-bjp-raps-congress/articleshow/135177587.cms)
 
 **NDTV**
 - [Palace, Siblings And A 'Kansa Mama' Jibe: Jagan Reddy-Sister Row Over Wedding](https://www.ndtv.com/india-news/chandrababu-naidus-kansa-mama-jab-at-jagan-reddy-over-wedding-venue-row-with-sister-12230479#publisher=newsstand)
@@ -55,7 +55,7 @@
 - [ಸ್ಟಿಂಗ್ ಕಾರ್ಯಾಚರಣೆ ಪ್ರಕರಣ: ವಿಡಿಯೋ ಅಪ್ ಲೋಡ್ ಮಾಡಿದ್ದ ಆರೋಪಿ ದಿಲ್ಲಿಯಲ್ಲಿ ಬಂಧನ; ಜಾಮೀನಿನ ಮೇಲೆ ಬಿಡುಗಡೆ](https://vijaykarnataka.com/news/karnataka/sting-operation-case-accused-who-uploaded-video-arrested-in-delhi/articleshow/135173912.cms)
 - [ಹೊಳೆಯುವ ಬಾದಾಮಿ, ಗೋಡಂಬಿ ಕಂಡರೆ ತಕ್ಷಣ ಖರೀದಿಸಬೇಡಿ, ಗುಣಮಟ್ಟ ಗುರುತಿಸಲು ಈ ಟಿಪ್ಸ್ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/home-decor/diwali-shiny-almonds-cashews-quality-check/articleshow/135165725.cms)
 - [ಗೌತಮ್ ಗಂಭೀರ್- ಸಿತಾಂಶು ಕೊಟಕ್ ನಂಬಿಕೆಯೇ ಸ್ಫೂರ್ತಿಯಾಯಿತು: ಗ್ರೇಟ್ ಚೇಸಿಂಗ್ ನ ಸೀಕ್ರೆಟ್ ತಿಳಿಸಿದ ತಿಲಕ್ ವರ್ಮಾ!](https://vijaykarnataka.com/sports/cricket/news/tilak-verma-revealed-the-secret-of-great-chasing-gautam-gambhir-sitanshu-kotak-inspiration/articleshow/135173276.cms)
-- [BBK 13 ‘ತಾಂಡವ್‌ ಸ್ನೇಹಕ್ಕೆ ಅರ್ಹರಲ್ಲ ಗಗನ್‌’: ಸುದೀಪ್‌ ಕ್ಲಾಸ್‌, ಚಪ್ಪಾಳೆಗೆ ಕಿಚ್ಚ ಕೊಟ್ಟ ಕಾರಣ ಕೇಳಿ ಕಣ್ಣೀರಿಟ್ಟ ತಾಂಡವ್‌!](https://vijaykarnataka.com/tv/bigg-boss-kannada/kichcha-sudeep-class-to-gagan-chinnappa-about-friendship-in-the-bbk-13-6th-weekend-varada-kathe-kichchana-jothe-thandav-ram-got-kichchana-chappale/articleshow/135177710.cms)
+- [ಬಿಗ್ ಬಾಸ್‌ ಕನ್ನಡ ಇತಿಹಾಸದಲ್ಲಿಯೇ ಇದೇ ಮೊದಲ: ಎರಡು ಕಿಚ್ಚನ ಚಪ್ಪಾಳೆ, ಸೌಂದರ್ಯ ಶೆಟ್ಟಿಗೆ 'ಬೆಸ್ಟ್‌ ಎಂಟರ್‌ಟೈನರ್‌' ಎಂದ ಕಿಚ್ಚ](https://vijaykarnataka.com/tv/bigg-boss-kannada/for-the-first-time-in-the-history-of-bigg-boss-kannada-two-kichchas-applauses-were-award-to-soundarya-shetty-the-best-entertainer/articleshow/135177810.cms)
 - [ದೀಪಾವಳಿ ಮನೆ ಸ್ವಚ್ಛತೆ: ಹಲ್ಲಿ, ಜಿರಳೆ ಕಾಟ ಕಡಿಮೆ ಮಾಡಲು ಈ ಸರಳ ಉಪಾಯಗಳನ್ನು ಅನುಸರಿಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/diwali-cleaning-natural-ways-to-repel-lizards-cockroaches/articleshow/135096148.cms)
 - [2026 ವಾಲ್ಮೀಕಿ ಜಯಂತಿ ಶುಭಾಶಯಗಳು, ಕೋಟ್ಸ್‌ಗಳು](https://vijaykarnataka.com/religion/festivals/happy-valmiki-jayanti-2026-best-wishes-and-quotes/articleshow/135171282.cms)
 - [ವಿಶ್ವ ಪೋಲಿಯೋ ದಿನ 2026: ಯಾವಾಗ, ಇತಿಹಾಸ, ಮಹತ್ವ ಮತ್ತು ಉದ್ದೇಶವೇನು?](https://vijaykarnataka.com/lifestyle/pregnancy-parenting-tips/world-polio-day-2026-date-history-significance/articleshow/135163501.cms)
@@ -126,9 +126,8 @@
 - [ಉತ್ತರ ಕರ್ನಾಟಕದಲ್ಲಿ ಭೀಕರ ಜಲ ಸಂಕಷ್ಟ: ರಾಯಚೂರು, ಕಲಬುರಗಿ, ಬೀದರ್‌ನಲ್ಲಿ ಕುಡಿಯುವ ನೀರಿಗಾಗಿ ಪರದಾಟ](https://tv9kannada.com/videos/north-karnataka-water-crisis-raichur-kalaburagi-and-bidar-face-severe-drinking-water-shortage-1254648.html)
 
 **Prajavani**
-- [ಅ.31ರಿಂದ ‘ಇ-ಖಾತಾ ಮೇಳ’ ಪುನರಾರಂಭ](https://www.prajavani.net/district/bengaluru-city/e-khata-mela-restarts-in-bengaluru-from-october-4350677)
-- [ಪದವೀಧರರ ಚುನಾವಣೆ; ನಕಲಿ ಮತದಾನ: ಪತ್ನಿಯ ಹೆಸರಿನಲ್ಲಿ ಮತ ಹಾಕಿ, ಪತಿಯ ಜೊತೆ ಫೋಟೊ](https://www.prajavani.net/district/haveri/haveri-graduate-constituency-election-fake-voting-allegation-congress-leader-4350676)
-- [ರಜೆಗಾಗಿ ಶಾಲೆಗೆ ಬಾಂಬ್ ಬೆದರಿಕೆ ಇಮೇಲ್ ಕಳುಹಿಸಿದ ವಿದ್ಯಾರ್ಥಿನಿ](https://www.prajavani.net/news/india-news/delhi-school-student-fake-bomb-threat-email-holiday-4350564)
+- [ಅಯ್ಯನಗೌಡ ಸಂಗನಾಳ ಅವರ ಕವಿತೆ: ಅಳಿದು ಹೋಗುವ ಕಣಗಳು](https://www.prajavani.net/art-culture/poetry/ayyanagowda-sanganal-kannada-poem-alidu-hoguva-kanagalu-4349717)
+- [ಸಂತೆಬೆನ್ನೂರು ಫೈಜ್ನಟ್ರಾಜ್ ಅವರ ಕವನ: ಕಾಲು ಮುರಿದುಕೊಂಡ ಹೊಳೆ](https://www.prajavani.net/art-culture/short-story/santhebennur-faiznatraj-kannada-story-kaalu-muridukonda-hole-4349716)
 
 **eedina**
 - [ಉಡುಪಿ ಜಿಲ್ಲಾ ಮುಸ್ಲಿಮ್ ಒಕ್ಕೂಟದ ಕಾರ್ಯಕ್ಕೆ ವಿಧಾನ ಪರಿಷತ್ ಸಭಾಪತಿ ಸಲೀಂ ಅಹಮದ್ ಮೆಚ್ಚುಗೆ](https://eedina.com/?p=777640)
@@ -143,7 +142,8 @@
 - [ದಸರಾ ಸೇರಿ ಎಲ್ಲಾ ಉತ್ಸವಗಳಲ್ಲಿ ಆನೆಗಳ ಬಳಕೆ ನಿಷೇಧಿಸಿ, ರೋಬೋಟಿಕ್ ಆನೆ ಬಳಸಿ: ಅರಣ್ಯ ಸಚಿವರಿಗೆ ಮನವಿ](https://eedina.com/?p=777601)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (3.5)
+- India (2.9)
+- Trump (2.6)
 - Iran (2.6)
 - Congress (2.6)
 - Report (2.6)
@@ -152,26 +152,25 @@
 - Indian (2.6)
 - Allahabad HC (2.0)
 - Delhi (1.9)
-- Israeli (1.3)
-- Christian (1.3)
-- Bengal (1.3)
-- France (1.3)
-- Rahane's (1.3)
-- Dravid (1.3)
+- Obama (1.3)
+- Ramaswamy (1.3)
+- Pakistan (1.3)
+- Kashmir (1.3)
+- Princess (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [CPIM Book Stall: বুক স্টল বিতর্কের মধ্যেও নয়া নজির, পশ্চিম মেদিনীপুরে পুজোয় ৩০ লক্ষ টাকার বই বিক্রি করল সিপিআইএম](https://bengali.news18.com/news/kolkata/cpm-book-stalls-in-paschim-medinipur-record-over-30-lakh-rupees-in-sales-during-durga-puja-dmg-l18-local18-2938376.html)
-- [Aaradhya Bachchan looks taller than mom Aishwarya Rai in new photos from cousin Shivansh Rai’s birthday](https://www.hindustantimes.com/entertainment/bollywood/aaradhya-bachchan-looks-taller-than-mom-aishwarya-rai-in-new-photos-from-nephew-shivansh-rai-s-birthday-abhishek-bachchan-101792830521557.html)
-- [నా చిన్నతనంలో అన్యాయాలను చూడలేకే నక్సలైట్ అయ్యా: మంత్రి సీతక్క](https://www.andhrajyothy.com/2026/telangana/hyderabad/telangana-minister-seethakka-says-women-must-grow-economically-and-socially-and-politically-vk-1569970.html)
-- [Video: સૌરાષ્ટ્રના માર્કેટ યાર્ડમાં મગફળીની આવક ઘટતા ચિંતા વધી](https://www.gstv.in/news/gujarat/groundnut-income-declining-in-saurashtras-market-yard-raises-concerns)
-- [Jamia Millia Islamia Students, Guards Clash During Protest, Classes Moved Online](https://www.ndtv.com/india-news/jamia-millia-islamia-students-guards-clash-during-protest-classes-moved-online-12229384)
-- [Low pressure over Bay of Bengal likely to turn into cyclonic storm | Live](https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece)
-- [“राहुल गांधी, तुमच्यामुळे ३ हजार कोटींचे नुकसान झाले; मोर्चा काढू नका!”; दिल्लीतील व्यापारी संघटनेची मागणी!](https://www.mahamtb.com/Encyc/2026/10/24/congress-mega-rally-against-sir-congress-rally-date-change-demand-delhi-traders-rahul-gandhi.php)
-- [പല തരം മസാജ്; പ്രീമിയം മെംബർഷിപ്പിന് ‘രഹസ്യ സർവീസ്’; തൃശൂരിൽ മനുഷ്യക്കടത്തും](https://www.manoramaonline.com/news/editorial/2026/10/24/illegal-spa-rackets-kerala.html)
-- [ഫ്യൂച്ചര്‍ ഡാര്‍ക്കോ ബ്രൈറ്റോ? ശ്രീനാഥ് ഭാസിയുടെ'ഒറിജിനല്‍'തിയറ്ററുകളിലെത്തി](https://www.reporterlive.com/entertainment/entertainment-news/2026/10/24/orijinal-a-time-travel-fantasy-thriller-written-and-directed-by-ramees-has-hit-theaters)
-- [विदेश में छाई भारत में बनी SUV... इन 5 कारों की है सबसे ज्यादा डिमांड](https://www.aajtak.in/visualstories/auto/maruti-suzuki-jimny-top-exported-car-from-india-september-2026-auam-286943-24-10-2026)
+- [બોક્સ ઓફિસ પર થલાઈવાનો ડંકો! 'જેલર 2'એ 10 જ દિવસમાં 'બોર્ડર 2' અને 'હનુમાન અંશ'નો રેકોર્ડ તોડ્યો](https://www.gujaratsamachar.com/news/entertainment/thalaivanas-box-office-smash-jealousy-2-breaks-the-record-of-border-2-and-hanuman-ansh-in-just-10-days-44975502677)
+- [नेहा बोरा से जुड़ी बड़ी खबर, मजिस्ट्रेट ने नोटिस जारी करने से जुड़े सभी दस्तावेज सौंपे, अगली सुनवाई 28 अक्टूबर को](https://www.indiatv.in/delhi/neha-bora-news-magistrate-hands-over-all-documents-related-to-the-issuance-of-a-notice-2026-10-24-1250701)
+- [“குழந்தைகளின் பாதுகாப்பை தவெக அரசு உறுதி செய்ய வேண்டும்” - வானதி சீனிவாசன்](https://www.hindutamil.in/news/tamilnadu/tvk-government-must-ensure-the-safety-of-children-says-vanathi-srinivasan)
+- [വീണ്ടുമൊരു ‘പഴശ്ശിരാജ’ ഫ്രെയിം, സ്റ്റൈലിഷ് ആയി മമ്മൂട്ടി, ഒപ്പം ശരത് കുമാറും](https://www.manoramaonline.com/movies/movie-news/2026/10/24/mammootty-and-sarathkumar-reunite-after-years.html)
+- [IND vs NZ 2nd T20I: ક્રાઈસ્ટચર્ચમાં તિલક-નીતીશનો સપાટો, ન્યૂઝીલેન્ડના મોંમાંથી જીત આંચકી લીધી!](https://www.gujaratsamachar.com/news/sports/ind-vs-nz-2nd-t20i-tilak-varma-nitish-reddy-partnership-india-win-christchurch-83710382596)
+- [साल दर साल छाई अर्शदीप की आंधी, T20I में एक साल में सबसे ज्यादा विकेट लेने वाले बने भारतीय गेंदबाज](https://www.indiatv.in/sports/cricket/arshdeep-singh-storm-continues-year-after-year-he-becomes-the-indian-bowler-with-the-most-t20i-wickets-in-a-calendar-year-2026-10-24-1250698)
+- [IND vs NZ | తిల‌క్ వ‌ర్మ హాఫ్ సెంచ‌రీ.. ఉత్కంఠ పోరులో గెలిచిన టీమిండియా](https://www.ntnews.com/sports/ind-vs-nz-tilak-varmas-s-unbeaten-51-seals-4-wicket-win-beat-them-by-four-wickets-2543591)
+- ['സമാധാന ബോണ്ടിൽ ഒപ്പിടില്ല'; ഹൈക്കോടതിയിലെ തിരിച്ചടിക്ക് പിന്നാലെ കടുപ്പിച്ച് നേഹ ബോറ](https://malayalam.news18.com/news/india/neha-bora-not-to-sign-peace-bond-after-high-court-setback-nkn-ws-l-793420.html)
+- [Iran’s parliament speaker Mohammad Bagher Ghalibaf to skip Brics forum in New Delhi](https://www.hindustantimes.com/india-news/irans-parliament-speaker-mohammad-bagher-ghalibaf-to-skip-brics-forum-in-new-delhi-unforeseen-circumstances-101792840172755.html)
+- [Tilak, Reddy, Dhir seal thriller for India to go 2-0 up against sloppy New Zealand](https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-t20i-1539433/match-report)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
