@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-25 21:03:40
+# India Trending Report — 2026-10-25 23:22:41
 
 ## Google Trends (India) — top trending searches
-1. [diomande](https://trends.google.com/trending/rss?geo=IN)
-2. [iptv](https://trends.google.com/trending/rss?geo=IN)
-3. [sporting vs académico de viseu](https://trends.google.com/trending/rss?geo=IN)
-4. [gabriel jesus](https://trends.google.com/trending/rss?geo=IN)
-5. [kylian mbappé](https://trends.google.com/trending/rss?geo=IN)
-6. [jazz vs lakers](https://trends.google.com/trending/rss?geo=IN)
-7. [real madrid match](https://trends.google.com/trending/rss?geo=IN)
-8. [bar vs real madrid](https://trends.google.com/trending/rss?geo=IN)
-9. [lula](https://trends.google.com/trending/rss?geo=IN)
-10. [alejandro balde](https://trends.google.com/trending/rss?geo=IN)
+1. [brazil presidential election results](https://trends.google.com/trending/rss?geo=IN)
+2. [supercopa de españa](https://trends.google.com/trending/rss?geo=IN)
+3. [sporting cp](https://trends.google.com/trending/rss?geo=IN)
+4. [eduardo camavinga](https://trends.google.com/trending/rss?geo=IN)
+5. [balde](https://trends.google.com/trending/rss?geo=IN)
+6. [donald trump iran war](https://trends.google.com/trending/rss?geo=IN)
+7. [cucurella](https://trends.google.com/trending/rss?geo=IN)
+8. [sophie cunningham](https://trends.google.com/trending/rss?geo=IN)
+9. [frenkie de jong](https://trends.google.com/trending/rss?geo=IN)
+10. [max verstappen](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Once bitten, twice shy? How France prevented a repeat of October 17 protest chaos](https://timesofindia.indiatimes.com/world/europe/a-defeat-for-the-republic-how-october-17-protest-fiasco-shaped-frances-security-strategy/articleshow/135190439.cms)
-- [Nobel laureate, Venezuela opposition leader Machado returns after exile](https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms)
-- [BJP calls for nationwide protest over Kharge’s ‘baap’ remark](https://timesofindia.indiatimes.com/india/bjp-calls-protest-over-kharges-baap-remark/articleshow/135197490.cms)
+- [Massive fire engulfs Shiv Market near Jammu Railway Station, 35-40 shops gutted](https://timesofindia.indiatimes.com/india/massive-fire-engulfs-shiv-market-near-jammu-railway-station-35-40-shops-gutted/articleshow/135199333.cms)
+- [Former CJI D Y Chandrachud was more deferential to govt than needed, says Justice Kaul](https://timesofindia.indiatimes.com/india/former-cji-d-y-chandrachud-was-more-deferential-to-government-than-needed-says-justice-kaul/articleshow/135197538.cms)
+- [Trump calls El-Sayed ‘jihadist’, alleges mother’s Al-Qaeda links at Michigan rally](https://timesofindia.indiatimes.com/world/us/trump-calls-el-sayed-jihadist-ahead-of-michigan-rally-alleges-sharia-law-push/articleshow/135197552.cms)
 - [Shadab, Rauf pull off miracle with record 89-run stand for last wicket as PAK stun ENG](https://timesofindia.indiatimes.com/sports/cricket/news/shadab-khan-and-haris-rauf-pull-off-miracle-with-record-89-run-partnership-for-last-wicket-as-pakistan-stun-england-in-lahore/articleshow/135194965.cms)
+- [Nobel laureate, Venezuela opposition leader Machado returns after exile](https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms)
 - [Nasa’s Isaacman shares Artemis IV update as SpaceX, Blue Origin plan Moon base](https://timesofindia.indiatimes.com/technology/tech-news/as-elon-musks-spacex-and-jeff-bezos-blue-origin-get-ready-to-build-a-moon-base-nasa-administrator-jared-isaacman-gives-an-important-update-on-artemis-iv-says-this-agency-knows-very-well-/articleshow/135186984.cms)
-- [EPFO considers Rs 25,000cr war chest to stabilise interest payouts](https://timesofindia.indiatimes.com/india/epfo-considers-rs-25000cr-war-chest-to-stabilise-interest-payouts/articleshow/135197531.cms)
-- [New York court overturns foreclosure after lender fails to prove its claim](https://timesofindia.indiatimes.com/world/us/a-new-york-homeowner-signed-a-mortgage-in-2005-and-later-faced-foreclosure-after-a-bank-won-a-ruling-an-appeals-court-reversed-it-because-the-lender-had-not-proved-it-could-enforce-the-note/articleshow/135189067.cms)
-- [Trump gears up for Iran escalation after US polls; Tehran says position unchanged](https://timesofindia.indiatimes.com/world/us/trump-gears-up-for-iran-escalation-after-us-polls/articleshow/135197451.cms)
-- [US elections: Meet Vivek Ramaswamy, Trump-backed Republican seeking Ohio governorship](https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-2026-meet-vivek-ramaswamy-trump-backed-republican-seeking-the-ohio-governorship/articleshow/135191321.cms)
-- [Pink's San Diego cancer benefit raises $8.25m, taking series past $28m](https://timesofindia.indiatimes.com/world/us/pink-headlined-a-san-diego-concert-that-raised-8-25-million-for-cancer-research-the-benefit-series-has-now-generated-more-than-28-million-across-four-star-powered-events/articleshow/135188558.cms)
+- [West Asia crisis: Government ready with energy, fertiliser stocks](https://timesofindia.indiatimes.com/business/india-business/west-asia-crisis-government-ready-with-energy-fertiliser-stocks/articleshow/135199400.cms)
+- [Philadelphia Orchestra receives $10.5m pledge for global tours, new music](https://timesofindia.indiatimes.com/world/us/in-1973-the-philadelphia-orchestra-became-the-first-us-orchestra-to-perform-in-china-ahead-of-its-14th-china-tour-former-ambassador-david-cohen-and-his-wife-pledged-10-5-million-to-support-global-tours-and-new-music/articleshow/135184610.cms)
+- [EAM to UN: Lead during global crises, don’t just be a spectator](https://timesofindia.indiatimes.com/india/eam-to-un-lead-during-global-crises-dont-just-be-a-spectator/articleshow/135199353.cms)
+- [Raids on NE drug cartels reveal illicit deals worth Rs 270cr](https://timesofindia.indiatimes.com/india/raids-on-ne-drug-cartels-reveal-illicit-deals-worth-rs-270cr/articleshow/135199368.cms)
 
 **NDTV**
 - [Ineligibility Thresholds, Coalitions: Inside Israel's Electoral System](https://www.ndtv.com/world-news/ineligibility-thresholds-coalitions-inside-israels-electoral-system-12234889#publisher=newsstand)
@@ -74,6 +74,7 @@
 - [Universities urged to embrace continuous learning and innovation in AI era](https://www.thehindu.com/news/national/andhra-pradesh/universities-urged-to-embrace-continuous-learning-and-innovation-in-ai-era/article71623743.ece)
 
 **Livemint**
+- [Hermes Birkin bags built their reputation on rarity, but shifting resale demand is changing the conversation](https://www.livemint.com/news/trends/hermes-birkin-bags-built-their-reputation-on-rarity-but-shifting-resale-demand-is-changing-the-conversation-11792966755214.html)
 - [How Sonu Sood leasing Mumbai site to coffee giant for  ₹3.52 cr over 5 yrs secured high passive commercial yields](https://www.livemint.com/news/trends/how-sonu-sood-leasing-mumbai-site-to-coffee-giant-for-3-52-cr-over-5-yrs-secured-high-passive-commercial-yields-11792951916311.html)
 - [UAE: Ras Al Khaimah closes all beaches after offshore oil spill](https://www.livemint.com/news/world/uae-ras-al-khaimah-closes-all-beaches-after-offshore-oil-spill-11792936796225.html)
 - [Storm Boelo batters UK, disrupts travel and leaves 82,000 homes without power](https://www.livemint.com/news/storm-boelo-batters-uk-disrupts-travel-and-leaves-82-000-homes-without-power-11792952041003.html)
@@ -83,7 +84,6 @@
 - [Woman works 18 hours a day but still earns half her husband's salary: Viral video sparks overwork, pay disparity debate](https://www.livemint.com/news/trends/woman-works-18-hours-a-day-but-still-earns-half-her-husbands-salary-viral-video-sparks-overwork-pay-disparity-debate-11792951348112.html)
 - [From  ₹5 disinfectant to  ₹11,800 LED bulbs: Why Madhya Pradesh civic purchases face Lokayukta scrutiny](https://www.livemint.com/news/india/madhya-pradesh-lokayukta-probes-rs-1-134-crore-civic-purchases-after-leaked-sanjay-dubey-ias-video-alleges-price-gaps-11792948609314.html)
 - [Who is Bibha Chowdhuri? Indian physicist who studied cosmic rays and had a star named in her honour](https://www.livemint.com/news/india/who-is-bibha-chowdhuri-indian-physicist-who-studied-cosmic-rays-and-had-a-star-named-in-her-honour-11792947683660.html)
-- [Neil Armstrong’s childhood home saved by  ₹3.8 cr donation: Restoration plans, tourist opening targeted for 2030](https://www.livemint.com/news/trends/neil-armstrong-s-childhood-home-saved-by-3-8-cr-donation-restoration-plans-tourist-opening-targeted-for-2030-11792948759575.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -125,8 +125,7 @@
 - [ಭುವನೇಶ್ವರದಲ್ಲಿ ಆರ್‌ಬಿಐನ 169 ಕೋಟಿ ರೂ. ಮೌಲ್ಯದ ಡೇಟಾ ಸೆಂಟರ್ ಉದ್ಘಾಟಿಸಿದ ಪ್ರಧಾನಿ ಮೋದಿ](https://tv9kannada.com/videos/pm-narendra-modi-inaugurates-rbi-169-crore-data-centre-in-bhubaneswar-1254955.html)
 - [ಮೈಸೂರು ದಸರಾದಲ್ಲಿ 3,473 ಡ್ರೋನ್‌ ಮೂಲಕ ಮೂಡಿದ ನವಿಲು ಪ್ರದರ್ಶನಕ್ಕೆ ಗಿನ್ನೆಸ್ ವಿಶ್ವ ದಾಖಲೆಯ ಗರಿ!](https://tv9kannada.com/karnataka/mysuru/mysuru-dasara-3473-drone-peacock-show-sets-guinness-world-record-1254940.html)
 
-**Prajavani**
-- [ಬೆಂಗಳೂರು: ಮಾಂಜಾ ದಾರ ಸಿಲುಕಿ ಸವಾರನಿಗೆ ಗಾಯ](https://www.prajavani.net/district/bengaluru-city/manja-thread-injury-bengaluru-rider-hurt-4352278)
+**Prajavani** — _unavailable_
 
 **eedina**
 - [ಹಾವೇರಿ | ಪಶ್ಚಿಮ ಪದವೀಧರರ ಚುನಾವಣೆ; ನಕಲಿ ಮತದಾನ; ಸಮಗ್ರ ತನಿಖೆಗೆ ಬಿಜೆಪಿ ಆಗ್ರಹ](https://eedina.com/?p=777875)
@@ -141,35 +140,35 @@
 - [ಖಾಸಗಿ ಬಸ್‌ಗಳ ಮುಖಾಮುಖಿ ಢಿಕ್ಕಿ : ಮೂವರ ಸ್ಥಿತಿ ಗಂಭೀರ, 28 ಮಂದಿಗೆ ಗಾಯ](https://eedina.com/?p=777843)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Kharge (2.9)
-- October (2.6)
-- Iran (2.6)
-- Tehran (2.6)
 - Manipur (2.6)
 - Jamia (2.6)
 - Brazil (2.6)
 - Viral (2.6)
 - PM Modi (2.0)
 - Modi (1.9)
-- France (1.6)
+- Chandrachud (1.6)
 - Nobel (1.6)
 - Venezuela (1.6)
 - Machado (1.6)
+- Kharge (1.6)
 - Mumbai (1.6)
+- Police (1.6)
+- Congress (1.6)
+- Massive (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ചേരാനെല്ലൂർ അപകടം: പ്രായപൂർത്തിയാവാത്ത മകന് വാഹനമോടിക്കാൻ കൊടുത്തു, പിതാവായ ജഡ്ജിക്കെതിരേ കേസെടുക്കും](https://www.mathrubhumi.com/news/kerala/kochi-cheranalloor-car-accident-minor-driving-judge-case-b05138uq)
-- [L&T టెక్, శ్రీరామ్ ఫైనాన్స్ సహా.. ఈ వారం డివిడెండ్లు, స్టాక్ స్ప్లిట్స్‌తో సందడి చేయనున్న 24 షేర్లు ఇవే.. ఏ తేదీల్లో ఏది లిస్ట్ ఇదే!](https://telugu.samayam.com/business/share-market/l-and-t-shriram-finance-among-24-stocks-turning-ex-record-date-for-dividends-and-stock-splits-this-week/articleshow/135187140.cms)
-- [Cyclone over Bay of Bengal to bring heavy rain across South India, Odisha, West Bengal; red alerts issued in multiple States | LIVE](https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece)
-- [केरलम में जज के 17 साल के बेटे ने मर्सिडीज से स्कूटी को मारी टक्कर, 55 साल के युवक की मौत](https://www.aajtak.in/india/news/story/kochi-minor-judge-son-mercedes-accident-man-killed-ntc-amkr-rpti-2679705-2026-10-25)
-- [DK Shivakumar warns IT firms of action if Kannadigas sidelined in hiring](https://www.indiatoday.in/india/karnataka/story/kannadiga-jobs-karnataka-chief-minister-dk-shivakumar-warns-bengaluru-firms-hiring-bias-it-3024616-2026-10-25)
-- [Cult Fans Meet | విజయ్ దేవరకొండ, నాని బాటలో విశ్వక్ సేన్.. ‘కల్ట్’ కోసం ఫ్యాన్స్ మీట్!](https://www.ntnews.com/news/following-vijay-deverakonda-and-nanis-strategy-vishwak-sen-plans-a-massive-fan-meet-for-cult-2544170)
-- [Silver Price Crash: চারদিনে রুপোর মিটার ডাউন! ৯৬ ঘণ্টায় ১৬,০০০ টাকা সস্তা রুপো! উৎসবের মরশুমে দামে আরও ধস আসতে চলেছে](https://bengali.news18.com/photogallery/business/silver-price-crash-silver-bubble-bursts-in-four-days-prices-down-by-rs-16000-gold-also-crashes-arn-2939198.html)
-- [As Elon Musk’s SpaceX and Jeff Bezos’ Blue Origin get ready to build a Moon base, NASA administrator Jared Isaacman gives an important update on Artemis IV, says: This agency knows very well …](https://timesofindia.indiatimes.com/technology/tech-news/as-elon-musks-spacex-and-jeff-bezos-blue-origin-get-ready-to-build-a-moon-base-nasa-administrator-jared-isaacman-gives-an-important-update-on-artemis-iv-says-this-agency-knows-very-well-/articleshow/135186984.cms)
-- [Bengal braces for heavy rain from October 28 to 30 as Bay of Bengal system intensifies](https://www.telegraphindia.com/west-bengal/bengal-braces-for-heavy-rain-from-october-28-to-30-as-bay-of-bengal-system-intensifies/cid/2186174)
-- [‘എന്നെ ചോദ്യം ചെയ്യാൻ വരേണ്ട, അപകടം വെള്ളക്കെട്ട് കാരണം’, ജഡ്ജി ഭീഷണിപ്പെടുത്തിയെന്ന് ജയബാലകൃഷ്ണന്റെ ബന്ധുക്കൾ](https://www.manoramaonline.com/news/latest-news/2026/10/25/cheranalloor-crash-victims-family-accuses-adm-of-intimidation-after-minor-sons-car-kills-scooterist.html)
+- [P.V. Sindhu vs An Se-young, Highlights: An defeats Sindhu in three sets to win French Open](https://sportstar.thehindu.com/badminton/pv-sindhu-vs-an-se-young-french-open-badminton-final-updates-score-points-commentary/article71622919.ece)
+- [Vijay Deverakonda Unfollows Rashmika : इन्स्टाग्रामवर विजयने रश्मिकाला केलं अनफॉलो? युझर्सच्या दाव्यामागचे हे आहे मूळ सत्य](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/vijay-deverakonda-unfollows-rashmika-mandanna-instagram-rumours-truth/articleshow/135189400.cms)
+- [School Holidays: కొమురం భీం వర్ధంతి.. రేపు ఉమ్మడి ఆదిలాబాద్ జిల్లాలోని అన్ని విద్యాసంస్థలకు సెలవు ప్రకటన](https://telugu.samayam.com/telangana/adilabad/schools-and-colleges-in-former-adilabad-district-to-remain-closed-on-komaram-bheem-death-anniversary/articleshow/135189576.cms)
+- [VIDEO: मल्लिकार्जुन खरगे ने चिल्लाकर PM मोदी के पिता पर की विवादित टिप्पणी, शख्स के 'मोदी नहीं जाएगा' बोलने से हुए थे नाराज](https://www.indiatv.in/bihar/uproar-during-congress-president-mallikarjun-kharge-address-he-remarked-even-modi-father-will-have-to-go-2026-10-25-1250848)
+- [Deadlock thaws: IndiGo, AI Express to start int’l flights from Navi Mumbai from Dec; pave way for CSMIA T1 redevelopment](https://timesofindia.indiatimes.com/business/india-business/deadlock-thaws-indigo-to-start-international-flights-from-navi-mumbai-in-feb/articleshow/135189487.cms)
+- ['ऐसी लड़ाई से मोदी नहीं जाएंगे', पटना में खरगे के सामने युवक ने कही बात, कांग्रेसियों ने जमकर पीटा](https://hindi.news18.com/news/bihar/patna-kharge-program-patna-youth-beaten-congress-workers-10935916.html)
+- [EAAA India Alternatives IPO GMP Today with Listing Gain Expectation](https://ipowatch.in/eaaa-india-alternatives-ipo-gmp-today/)
+- [ഐഎസ്എല്‍; ഹോംഗ്രൗണ്ടില്‍ ഇന്ന് ഇറങ്ങാൻ ബ്ലാസ്‌റ്റേഴ്‌സ്, നഗരത്തില്‍ ഗതാഗത നിയന്ത്രണം](https://janayugomonline.com/kerala-blasters-ready-for-first-home-match-against-mumbai-city-fc-in-isl/)
+- [ছেলের আবদারে পুজো শুরু করেন মা, ২৫ বছরে পা দিল ভাস্বরের বাড়ির লক্ষ্মীপুজো](https://www.hindustantimes.com/bangla/entertainment/bhaswar-chatterjee-celebrated-25th-lakshmi-puja-at-his-home-271792925452700.html)
+- [Upcoming IPO: પૈસા રાખજો તૈયાર! આ અઠવાડિયે આવી રહ્યા 9 IPO, Jioનું થશે લિસ્ટિંગ](https://tv9gujarati.com/photo-gallery/upcoming-ipo-keep-your-funds-ready-9-ipos-are-coming-week-jio-to-be-listed-1538147.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
