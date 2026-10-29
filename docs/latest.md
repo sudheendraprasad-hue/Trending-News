@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-28 20:38:20
+# India Trending Report — 2026-10-29 00:29:19
 
 ## Google Trends (India) — top trending searches
-1. [arsenal vs benfica](https://trends.google.com/trending/rss?geo=IN)
-2. [alex de minaur](https://trends.google.com/trending/rss?geo=IN)
-3. [julián alvarez](https://trends.google.com/trending/rss?geo=IN)
-4. [leverkusen vs nürnberg](https://trends.google.com/trending/rss?geo=IN)
-5. [manchester city](https://trends.google.com/trending/rss?geo=IN)
-6. [microsoft share price](https://trends.google.com/trending/rss?geo=IN)
-7. [man city](https://trends.google.com/trending/rss?geo=IN)
-8. [waddle](https://trends.google.com/trending/rss?geo=IN)
-9. [serie a](https://trends.google.com/trending/rss?geo=IN)
-10. [diljit dosanjh concert delhi](https://trends.google.com/trending/rss?geo=IN)
+1. [pacers vs 76ers](https://trends.google.com/trending/rss?geo=IN)
+2. [weather report](https://trends.google.com/trending/rss?geo=IN)
+3. [today's weather](https://trends.google.com/trending/rss?geo=IN)
+4. [spain train crashes](https://trends.google.com/trending/rss?geo=IN)
+5. [new york city vs atlanta united](https://trends.google.com/trending/rss?geo=IN)
+6. [వెండి](https://trends.google.com/trending/rss?geo=IN)
+7. [mosam](https://trends.google.com/trending/rss?geo=IN)
+8. [today weather report](https://trends.google.com/trending/rss?geo=IN)
+9. [todays weather](https://trends.google.com/trending/rss?geo=IN)
+10. [sunrise](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [From Brazil to Cuba, US turns up the heat](https://timesofindia.indiatimes.com/world/us/from-brazil-to-cuba-us-turns-up-the-heat/articleshow/135269303.cms)
-- [UK parliamentary group to raise persecution of Hindus in Pakistan with UK govt](https://timesofindia.indiatimes.com/world/uk/uk-parliamentary-group-to-raise-persecution-of-hindus-in-pakistan-with-uk-govt/articleshow/135278420.cms)
-- [US Federal Reserve keeps rates unchanged, leaves door open to further hikes](https://timesofindia.indiatimes.com/business/international-business/us-federal-reserve-keeps-rates-unchanged-leaves-door-open-to-further-hikes/articleshow/135278487.cms)
-- [Israel elections 'stolen by Arab parties that support terrorism': Netanyahu](https://timesofindia.indiatimes.com/world/middle-east/israel-elections-stolen-by-arab-parties-that-support-terrorism-netanyahu/articleshow/135274745.cms)
+- [Sensitive US tech supplied to Pak could end up in third country: Rajnath warns Hegseth](https://timesofindia.indiatimes.com/defence/news/sensitive-us-tech-to-pak-could-end-up-in-third-country-rajnath-tells-hegseth-warns-against-double-standards-on-terror/articleshow/135279811.cms)
+- [Bolsonaro declares himself Brazil’s ‘true president’, vows to lead opposition from US](https://timesofindia.indiatimes.com/world/rest-of-world/flvio-bolsonaro-declares-himself-brazils-true-president-vows-to-lead-opposition-from-us/articleshow/135280305.cms)
+- [On debut, Jio 2nd most valuable company, behind only parent Reliance Industries](https://timesofindia.indiatimes.com/business/india-business/on-debut-jio-2nd-most-valuable-company-behind-only-parent-reliance-industries/articleshow/135283604.cms)
+- [Vance sends letter to Iran hard-liner in bid to revive peace talks as Trump threatens strikes](https://timesofindia.indiatimes.com/world/us/vance-sends-letter-to-iran-hard-liner-in-bid-to-revive-peace-talks-as-trump-threatens-strikes-report/articleshow/135280661.cms)
+- [Spain train collision sparks protests, calls for transport minister’s resignation](https://timesofindia.indiatimes.com/world/europe/spain-train-collision-sparks-protests-calls-for-transport-ministers-resignation/articleshow/135284503.cms)
 - [Microsoft employees in India can now opt for a buyout: Who qualifies and what it pays](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-offers-buyouts-to-60000-employees-months-after-4800-layoffs-staff-have-till-december-to-decide-read-hr-head-amy-colemans-full-memo-to-employees/articleshow/135249491.cms)
-- [May instruct courts not to give bail in digital arrest cases: SC](https://timesofindia.indiatimes.com/india/may-instruct-courts-not-to-give-bail-in-digital-arrest-cases-sc/articleshow/135279768.cms)
-- [Man runs 58 half-marathons in 58 days to honour mother, raises over $30,000](https://timesofindia.indiatimes.com/world/us/after-losing-his-mother-to-a-stroke-at-58-jack-buckley-ran-58-half-marathons-in-58-days-and-raised-more-than-30000-a-second-endurance-challenge-brought-in-another-12000/articleshow/135224341.cms)
-- [Eye on Punjab poll, BJP fields Harshdeep Puri for RS from Madhya Pradesh](https://timesofindia.indiatimes.com/india/eye-on-punjab-poll-bjp-fields-harshdeep-puri-for-rs-from-madhya-pradesh/articleshow/135278859.cms)
-- ['There was mangled mess of metal': Eyewitnesses recount Spain train crash](https://timesofindia.indiatimes.com/world/europe/there-was-mangled-mess-of-metal-eyewitnesses-recount-spain-train-crash/articleshow/135262141.cms)
-- [World Wrestling C'ships: India script history as Neelam, Kajal settle for silver](https://timesofindia.indiatimes.com/sports/more-sports/wrestling/world-wrestling-championships-india-script-history-as-neelam-sirohi-kajal-dhochak-settle-for-silver/articleshow/135274220.cms)
+- [Arab parties claim kingmaker status in Israel elections](https://timesofindia.indiatimes.com/world/middle-east/arab-parties-claim-kingmaker-status-in-israel/articleshow/135283765.cms)
+- [Florida court reverses HOA auction cancellation made without hearing buyer](https://timesofindia.indiatimes.com/world/us/florida-homeowners-property-was-sold-at-an-hoa-foreclosure-auction-in-2024-he-paid-the-debt-five-days-later-but-an-october-23-court-overturned-the-decision-to-cancel-the-sale-without-hearing-the-buyer/articleshow/135231598.cms)
+- [Yet to test legality of logical discrepancy in SIR: Supreme Court](https://timesofindia.indiatimes.com/india/yet-to-test-legality-of-logical-discrepancy-in-sir-supreme-court/articleshow/135283243.cms)
+- [NDA wins 1 6 of 28 seats, Congress falters in MLC polls](https://timesofindia.indiatimes.com/india/nda-wins-16-of-28-seats-congress-falters-in-mlc-polls/articleshow/135282065.cms)
 
 **NDTV**
 - [From King Edward III To Neha Bora, A 1361 Law Lives On In 'Peace Bonds': NDTV Explains](https://www.ndtv.com/india-news/whose-peace-how-a-1361-english-law-lives-on-in-delhis-bond-cases-of-cjps-ashutosh-ranka-saurav-das-and-aisas-neha-bora-12249121#publisher=newsstand)
@@ -50,30 +50,31 @@
 - [SEM court directs Delhi police to give Neha Bora copies of 6 FIRs by November 20](https://www.hindustantimes.com/india-news/sem-court-directs-delhi-police-to-give-neha-bora-copies-of-6-firs-by-november-20-101793200481976.html)
 
 **Vijay Karnataka**
+- [NMPA ಸೇರಿ ದೇಶದ 11 ಬಂದರುಗಳ ನಿಗಮೀಕರಣಕ್ಕೆ ಕೇಂದ್ರ ನಿರ್ಧಾರ: ಇದು ಖಾಸಗೀಕರಣದ ಹೆಜ್ಜೆ ಎಂದು ವಿರೋಧ ವ್ಯಕ್ತ](https://vijaykarnataka.com/news/mangaluru/centre-decides-to-corporatize-11-major-ports-in-the-country-gets-backlash-of-privatization-allegations/articleshow/135283993.cms)
 - [ರಾಜ್ಯದಲ್ಲಿ 83 KAS ಅಧಿಕಾರಿಗಳ ಭಾರಿ ವರ್ಗಾವಣೆ: ಹಲವು ತಾಲೂಕುಗಳ ತಹಶೀಲ್ದಾರ್‌ಗಳ ಬದಲಾವಣೆ ಮಾಡಿ ಸರ್ಕಾರ ಆದೇಶ](https://vijaykarnataka.com/news/karnataka/transfer-of-83-kas-officers-in-karnataka-government-issues-order-replacing-tahsildars-in-several-taluks/articleshow/135269556.cms)
 - ['ಧೈರ್ಯವಿದ್ದರೆ ಬ್ಯಾಲಟ್ ಪೇಪರ್‌ ಗೆ ಬದ್ಧರಾಗಿ ನೋಡೋಣ': MLC ಚುನಾವಣೆ ಗೆಲವಿನ ಬಳಿಕ ಮೋದಿ ಗೇಲಿಗೆ ಕಾಂಗ್ರೆಸ್ ತಿರುಗೇಟು](https://vijaykarnataka.com/news/india/congress-congress-hits-back-to-modi-lets-commit-to-ballot-papershits-back-to-modi-lets-commit-to-ballot-papers/articleshow/135275913.cms)
-- [WPL 2027: ಹರಾಜಿನಲ್ಲಿ RCB ತೆಕ್ಕೆಗೆ ಬಿದ್ದವರು ಯಾರು? ಇಲ್ಲಿದೆ ಸೋಲ್ಡ್- ಅನ್ ಸೋಲ್ಡ್ ಆಟಗಾರ್ತಿಯರ ಸಂಪೂರ್ಣ ಪಟ್ಟಿ](https://vijaykarnataka.com/sports/cricket/news/wpl-2027-auction-rcb-complete-list-of-sold-and-unsold-players/articleshow/135272958.cms)
 - [ರಿಂಗ್‌ವರ್ಮ್ ಚರ್ಮದ ಸೋಂಕು ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ, ಸ್ಟ್ರೋಕ್ ಮತ್ತು ಹೃದಯಾಘಾತದ ಅಪಾಯದ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ](https://vijaykarnataka.com/lifestyle/health/ringworm-skin-infection-stroke-heart-attack-risk/articleshow/135260710.cms)
-- [ನಟ ದರ್ಶನ್‌ ಪತ್ನಿ ವಿಜಯಲಕ್ಷ್ಮಿ, ಧನ್ವೀರ್‌ಗೆ 10 ಕೋಟಿ ರೂ. ಸಂಕಷ್ಟ; ED, IT ಅಧಿಕಾರಿಗಳಿಗೆ ದೂರು](https://vijaykarnataka.com/news/karnataka/actor-darshan-wife-vijayalakshmi-and-dhanveer-face-a-rs-10-crore-crisis-complaint-filed-with-ed-it-officials/articleshow/135273507.cms)
-- [‘ರಾಮಾಯಣ’ ಸಿನಿಮಾ ಮೇಕಿಂಗ್‌ ವಿಡಿಯೋ ವೈರಲ್‌: ಆ ಸಿಂಹ ಘರ್ಜನೆ ಮಾಡಿದ್ದು ಇವರೇ ನೋಡಿ](https://vijaykarnataka.com/entertainment/news/ramayana-rise-of-a-legend-movie-making-guy-norris-and-terry-notary-work/articleshow/135276123.cms)
+- [WPL 2027: ಹರಾಜಿನಲ್ಲಿ RCB ತೆಕ್ಕೆಗೆ ಬಿದ್ದವರು ಯಾರು? ಇಲ್ಲಿದೆ ಸೋಲ್ಡ್- ಅನ್ ಸೋಲ್ಡ್ ಆಟಗಾರ್ತಿಯರ ಸಂಪೂರ್ಣ ಪಟ್ಟಿ](https://vijaykarnataka.com/sports/cricket/news/wpl-2027-auction-rcb-complete-list-of-sold-and-unsold-players/articleshow/135272958.cms)
+- [13 ಕಾರು ಇಟ್ಟಿದ್ದೀನಿ, 12ನೇ ಕ್ಲಾಸ್‌ಗೆ ಕಾಲ್‌ ಸೆಂಟರ್‌ನಲ್ಲಿ ಕೆಲಸ: ಯಶಸ್‌ ವಿರುದ್ಧ BBK 13 ಗಗನ್‌ ಚಿನ್ನಪ್ಪ ಆಕ್ರೋಶ](https://vijaykarnataka.com/tv/bigg-boss-kannada/bbk-13-gagan-chinnappa-confess-about-personal-life-in-front-of-yashas-krishna-in-task/articleshow/135279518.cms)
 - [ಸೀತಾಫಲದ ಬೀಜ ತೆಗೆಯಲು ಸುಲಭ ಉಪಾಯಗಳು, ತಿರುಳು ಬೇರ್ಪಡಿಸಲು ಈ ಟ್ರಿಕ್ಸ್ ಬಳಸಿ](https://vijaykarnataka.com/lifestyle/home-decor/custard-apple-seeds-removal-easy-tricks/articleshow/135206725.cms)
 - [2026ರ ಸಂಕಷ್ಟ ಚತುರ್ಥಿಯಂದು ಮಹಿಳೆಯರು ಮಾಡಬಾರದ ತಪ್ಪುಗಳು](https://vijaykarnataka.com/religion/pooja-vidhana/sankashti-chaturthi-mistakes-women-should-avoid-on-this-day/articleshow/135258737.cms)
 - [ಕರ್ವಾ ಚೌತ್ ಪೂಜೆಗೆ ಖೀರ್, ರವೆ ಹಲ್ವಾ, ಬೇಸನ್ ಲಡ್ಡು ತಯಾರಿಸುವ ಸುಲಭ ವಿಧಾನ](https://vijaykarnataka.com/lifestyle/home-decor/easy-traditional-karwa-chauth-sweets-recipes/articleshow/135257476.cms)
-- [`ಎಲ್ಲೆಡೆ ದೆವ್ವ ಹುಡುಕುವುದನ್ನು ಬಿಡಿ': ಟಾಟಾ ಕಂಪನಿ ಬಗ್ಗೆ ರಾಹುಲ್ ಗಾಂಧಿ ಹೇಳಿಕೆಗೆ ನಿರ್ಮಲಾ ಸೀತಾರಾಮನ್ ತಿರುಗೇಟು](https://vijaykarnataka.com/news/india/nirmala-sitharaman-hits-back-at-rahul-gandhis-statement-regarding-tata-company/articleshow/135271117.cms)
+- [ನಟ ದರ್ಶನ್‌ ಪತ್ನಿ ವಿಜಯಲಕ್ಷ್ಮಿ, ಧನ್ವೀರ್‌ಗೆ 10 ಕೋಟಿ ರೂ. ಸಂಕಷ್ಟ; ED, IT ಅಧಿಕಾರಿಗಳಿಗೆ ದೂರು](https://vijaykarnataka.com/news/karnataka/actor-darshan-wife-vijayalakshmi-and-dhanveer-face-a-rs-10-crore-crisis-complaint-filed-with-ed-it-officials/articleshow/135273507.cms)
 
 **The Hindu**
-- [New Collectors for Karur, Tiruppur and Tenkasi as T.N. government goes for bureaucratic reshuffle](https://www.thehindu.com/news/national/tamil-nadu/new-collectors-for-karur-tiruppur-and-tenkasi-as-tn-govt-goes-for-bureaucratic-reshuffle/article71637559.ece)
+- [Bihar Cabinet approves MOU between WRD & NIH, Roorkee for ‘Flood Plain Zone Delineation Study’](https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-mou-between-wrd-nih-roorkee-for-flood-plain-zone-delineation-study/article71637295.ece)
+- [Forest panel rejects Uttarakhand HC relocation plan again over forest land concerns](https://www.thehindu.com/news/national/uttarakhand/forest-panel-rejects-uttarakhand-hc-relocation-plan-again-over-forest-land-concerns/article71636307.ece)
+- [NCP leader challenges Sunetra Pawar’s decision to appoint a new national chief spokesperson](https://www.thehindu.com/news/national/maharashtra/ncp-leader-challenges-sunetra-pawars-decision-to-appoint-a-new-national-chief-spokesperson/article71637703.ece)
+- [Corporation councillor willing to express regret for abusing and body shaming Chief Minister C. Joseph Vijay, her counsel tells Madras High Court](https://www.thehindu.com/news/national/tamil-nadu/corporation-councillor-willing-to-express-regret-for-abusing-and-body-shaming-chief-minister-c-joseph-vijay-her-counsel-tells-madras-high-court/article71637016.ece)
+- [Pakistan minister invites Punjab CM Mann](https://www.thehindu.com/news/national/punjab/pakistan-minister-invites-punjab-cm-mann/article71636711.ece)
+- [Bihar MLC polls: Upper caste candidates dominate election results](https://www.thehindu.com/news/bihar-mlc-polls-upper-caste-candidates-dominate-election-results/article71636195.ece)
+- [Railways to turn off charging points in trains during night](https://www.thehindu.com/news/national/railways-to-strictly-enforce-overnight-mobile-charging-ban-on-trains/article71637074.ece)
+- [Bihar MLC polls: NDA close to win 4 out of 8 seats](https://www.thehindu.com/news/national/bihar/bihar-mlc-results-counting-updates/article71632702.ece)
 - [All 17 escapees from Theni district jail apprehended in less than 40 hours: IGP South Zone](https://www.thehindu.com/news/national/tamil-nadu/all-17-escapees-from-theni-district-jail-apprehended-in-less-than-40-hours-igp-south-zone/article71636064.ece)
-- [Bihar MLC polls: Jan Suraaj Party opens account, JD(U)'s Neeraj Kumar 'wins' Patna Graduates seat](https://www.thehindu.com/news/national/bihar/bihar-mlc-polls-jan-suraaj-party-opens-account-jdus-neeraj-kumar-wins-patna-graduates-seat/article71635866.ece)
-- [Cyclone ‘Arnab’ LIVE updates | Five killed in Andhra; Telangana extends support to Andhra for restoration works](https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece)
-- [Hunker down: On Cyclone Arnab, its landfall](https://www.thehindu.com/opinion/editorial/hunker-down-on-cyclone-arnab-its-landfall/article71636464.ece)
-- [CM to release book co-authored by late B. Madhusoodana Kurup](https://www.thehindu.com/news/national/kerala/cm-to-release-book-co-authored-by-late-b-madhusoodana-kurup/article71637430.ece)
-- [NTK’s ‘Saattai’ Duraimurugan moves Madras High Court seeking anticipatory bail](https://www.thehindu.com/news/national/tamil-nadu/ntks-saattai-duraimurugan-moves-madras-high-court-seeking-anticipatory-bail/article71637572.ece)
-- [SAD-AAP trade barbs on drug menace issue in Punjab](https://www.thehindu.com/news/national/punjab/sad-aap-trade-barbs-on-drug-menace-issue-in-punjab/article71636923.ece)
-- [20 units of illegally mined sand near Ambur seized](https://www.thehindu.com/news/national/tamil-nadu/20-units-of-illegally-mined-sand-near-ambur-seized/article71636175.ece)
-- [TN Teachers Education University gets new Registrar-in-charge following allegation of irregularities by civilian group](https://www.thehindu.com/news/national/tamil-nadu/tn-teachers-education-university-gets-new-registrar-in-charge-following-allegation-of-irregularities-by-civilian-group/article71636045.ece)
+- [New Collectors for Karur, Tiruppur and Tenkasi as T.N. government goes for bureaucratic reshuffle](https://www.thehindu.com/news/national/tamil-nadu/new-collectors-for-karur-tiruppur-and-tenkasi-as-tn-govt-goes-for-bureaucratic-reshuffle/article71637559.ece)
 
 **Livemint**
+- [Screwworm Detected for First Time in Arizona as Outbreak Spreads](https://www.livemint.com/news/us-news/screwworm-detected-for-first-time-in-arizona-as-outbreak-spreads-11793231283631.html)
 - [Alvin Hellerstein, Judge in Maduro, 9/11 Cases, Dies at 92](https://www.livemint.com/news/us-news/alvin-hellerstein-judge-in-maduro-9-11-cases-dies-at-92-11793213915155.html)
 - [Dhanteras, Diwali tours: Travelling this festive season? Here's how to find cheaper train and flight tickets | Guide](https://www.livemint.com/news/india/dhanteras-diwali-tours-travelling-this-festive-season-heres-how-to-find-cheaper-train-and-flight-tickets-guide-11793211384472.html)
 - [No phones, no scrolling: These restaurants are asking parents to put their devices away — Here’s what diners get instead](https://www.livemint.com/news/world/no-phones-no-scrolling-these-restaurants-are-asking-parents-to-put-their-devices-away-here-s-what-diners-get-instead-11793210542170.html)
@@ -83,7 +84,6 @@
 - [Pakistan reverses Taiwan airspace ban: How the ban would have changed global airspace and impacted air traffic](https://www.livemint.com/news/world/pakistan-reverses-taiwan-airspace-ban-how-the-ban-would-have-changed-global-airspace-and-impacted-air-traffic-11793208650889.html)
 - [Cancer surgery from 35 miles away: How a Florida doctor used a robotic system — But safety questions remain | Details](https://www.livemint.com/news/us-news/cancer-surgery-from-35-miles-away-how-a-florida-doctor-used-a-robotic-system-but-safety-questions-remain-details-11793202209832.html)
 - [Mumbai airport asks airlines to submit plans by November 3 for shifting international flights to Navi Mumbai](https://www.livemint.com/news/india/mumbai-airport-asks-airlines-to-submit-plans-by-november-3-for-shifting-international-flights-to-navi-mumbai-11793208022806.html)
-- [Textile ministry reopens PLI scheme, halves turnover threshold to  ₹100 cr](https://www.livemint.com/news/india/textile-ministry-reopens-pli-scheme-halves-turnover-threshold-to-100-cr-11793197515898.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,6 +100,7 @@
 - [ಎಲಾನ್ ಮಸ್ಕ್ ಆಕ್ರೋಶದ ಹಿಂದಿನ ವಾಸ್ತವ: ಭಾರತದ ಲೈಸೆನ್ಸ್‌ ನಿಂದ ಸ್ಟಾರ್‌ ಲಿಂಕ್ ಗೆ ಏನು ಪ್ರಯೋಜನ?](https://www.varthabharati.in/vishesha-varadigalu/musks-outbursts-explained-what-an-indian-licence-can-do-for-starlink-2286359)
 
 **Asianet Kannada**
+- [ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವ ಪಕ್ಷಿ ಗಣತಿ 2026: ರಾಜ್ಯದಲ್ಲಿ ಮೊದಲ ಸಲ ಪಕ್ಷಿ ಗಣತಿ' ನೀವೂ ಪಾಲ್ಗೊಳ್ಳಿ! ಇಲ್ಲಿದೆ ಸಂಪೂರ್ಣ ವಿವರ](https://kannada.asianetnews.com/karnataka-districts/karnataka-rajyotsava-bird-census-2026-the-first-ever-in-karnataka-participate-too-complete-details-here-rav/articleshow-mxc1p4r)
 - [ಬಂಗಾಳಕೊಲ್ಲಿಯಲ್ಲೇ ಅತಿ ಹೆಚ್ಚು ಚಂಡಮಾರುತಗಳು ಸೃಷ್ಟಿಯಾಗೋದು ಯಾಕೆ? ಈ 2 ತಿಂಗಳಲ್ಲಿ ಭಾರೀ ಆರ್ಭಟ!](https://kannada.asianetnews.com/india-news/reasons-why-bay-of-bengal-experiences-maximum-cyclones-during-october-and-november-sat/articleshow-4ke6zw0)
 - [ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್‌ಗೆ ಬರೀ 10 ಲಕ್ಷಕ್ಕೆ ಸೇರಿಕೊಂಡ ವುಮೆನ್‌ 'ವೈಭವ್‌ ಸೂರ್ಯವಂಶಿ' ಕರ್ನಾಟಕದ ಆಲ್ರೌಂಡರ್‌ ಉಮಾ ಕಾಶ್ವಿ!](https://kannada.asianetnews.com/cricket-sports/karnatakas-uma-kashvi-called-womens-vaibhav-suryavanshi-joins-delhi-capitals-for-just-10-lakhs/articleshow-88qsni8)
 - [ಬಿಗ್ ಬಾಸ್ ಸ್ಪರ್ಧಿಗಳ 'ಹೋಮ್ ಟೂರ್' ಮಾಡಬೇಡಿ!: ಯೂಟ್ಯೂಬರ್ ಅಮಿತ್‌ಗೆ ಮನವಿ ಮಾಡಿದ ಕಲರ್ಸ್ ಕನ್ನಡ!](https://kannada.asianetnews.com/tv-talk/bigg-boss-colors-kannada-requests-youtuber-alemari-amith-stop-contestants-home-tour-sat/articleshow-fgiglk9)
@@ -109,11 +110,11 @@
 - [ಜಿಯೋ ದಾಖಲೆ ಐಪಿಒ ಸಂಭ್ರಮ; ನೀಲಿ ಬೆಳಕಲ್ಲಿ ಮಿಂದೆದ್ದ ಮುಖೇಶ್ ಅಂಬಾನಿಯ 'ಆಂಟಿಲಿಯಾ' ಬಂಗಲೆ!](https://kannada.asianetnews.com/india-news/mukesh-ambani-antilia-lights-up-blue-jio-ipo-listing-celebration-mumbai-sat/articleshow-1p4y9eb)
 - [ನನ್ನ ವೈಯಕ್ತಿಕ ಜೀವನದಲ್ಲಿ ಆದ ಘಟನೆಗಳಿಗೆ ಮೈಮಾಟ ಹಾಡು ಉತ್ತರವಲ್ಲ, ಸ್ಪಷ್ಟನೆ ನೀಡಿದ ರ‍್ಯಾಪರ್ ಚಂದನ್‌ ಶೆಟ್ಟಿ](https://kannada.asianetnews.com/relationship/chandan-shetty-clarification-maimata-song-personal-life-niveditha-gowda-san/articleshow-iwuihq0)
 - [Gut Health Tips: ಕರುಳಿನ ಆರೋಗ್ಯ ಹೆಚ್ಚಿಸಲು ಸಹಾಯ ಮಾಡುವ ಈ ಆಹಾರಗಳನ್ನು ಅಗತ್ಯವಿದ್ದಾಗ ತಪ್ಪದೇ ಸೇವಿಸಿ!](https://kannada.asianetnews.com/gallery/food/best-fermented-foods-to-boost-your-gut-health-naturally-to-know-here-for-your-wellbeing-3revxm8)
-- [RCB ಮತ್ತಷ್ಟು ಸ್ಟ್ರಾಂಗ್, ತಂಡ ಸೇರಿದ ನಾಲ್ವರು ಹೊಸ ಆಟಗಾರ್ತಿಯರು; ಯಾರು ಎಷ್ಟು ಲಕ್ಷ ಹಣಕ್ಕೆ ಬಂದರು?](https://kannada.asianetnews.com/cricket-sports/wpl-auction-2027-rcb-gets-stronger-with-4-new-players-check-who-joined-for-how-much/articleshow-3g58g1a)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ಬೆಂಗಳೂರಿಗರಿಗೆ ಬಿಗ್ ಗುಡ್‌ನ್ಯೂಸ್: ನಮ್ಮ ಮೆಟ್ರೋ ಪಿಂಕ್ ಲೈನ್ ಎಲಿವೇಟೆಡ್ ಮಾರ್ಗಕ್ಕೆ CMRS ಅನುಮತಿ](https://tv9kannada.com/karnataka/bengaluru-metro-pink-line-receives-safety-clearance-awaits-inauguration-date-1256282.html)
 - [ದಿನ ಭವಿಷ್ಯ: ಇಂದು ಈ 3 ರಾಶಿಗೆ ಅದೃಷ್ಟ! ನಿಮ್ಮ ರಾಶಿಗೆ ಏನು ಫಲ ತಿಳಿಯಿರಿ](https://tv9kannada.com/horoscope/horoscope-today-october-29-2026-predictions-for-all-12-zodiac-signs-1256274.html)
 - [ಅರ್ನಬ್ ಚಂಡಮಾರುತಕ್ಕೆ ಆಂಧ್ರದಲ್ಲಿ 8 ಮಂದಿ ಬಲಿ; 20,000ಕ್ಕೂ ಹೆಚ್ಚು ಜನರ ಸ್ಥಳಾಂತರ](https://tv9kannada.com/videos/cyclone-arnab-effect-8-people-died-in-andhra-pradesh-over-20000-evacuated-1256272.html)
 - [ಗಗನ್ ಪಾಲಿಗೆ ಮೈನಸ್ ಆದ ಬಿಗ್ ಬಾಸ್ ಟಾಸ್ಕ್: ಹೆಚ್ಚಿತು ಯಶಸ್ ಮೈಲೇಜ್](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-season-13-gagan-chinnappa-vs-yashas-in-task-bbk-13-1256269.html)
@@ -123,19 +124,9 @@
 - [‘ನನ್ನಿಂದ ದೊಡ್ಡ ತಪ್ಪಾಯಿತು’: ‘ಪೆದ್ದಿ’ ಸಿನಿಮಾದ ಪಾತ್ರದ ಬಗ್ಗೆ ಜಾನ್ವಿ ಕಪೂರ್ ಬೇಸರ](https://tv9kannada.com/entertainment/janhvi-kapoor-expresses-regret-over-peddi-character-objectification-in-koffee-with-karan-1256263.html)
 - [ಟೋಲ್​ ಪ್ಲಾಜ್​​ ಬಳಿಯ ನಿವಾಸಿಗಳಿಗೆ ಗುಡ್​​ನ್ಯೂಸ್​ ನೀಡಿದ ಕೇಂದ್ರ ಸರ್ಕಾರ](https://tv9kannada.com/videos/govt-introduces-annual-concessional-local-pass-for-residents-living-within-20-km-of-nh-toll-plazas-from-nov-1-1256258.html)
 - [ಸ್ಮೃತಿ ಮಂಧಾನ ಪಡೆ ಮತ್ತಷ್ಟು ಬಲಿಷ್ಠ: ಡಬ್ಲ್ಯುಪಿಎಲ್ 2027ಕ್ಕೆ ಆರ್‌ಸಿಬಿ ಸಜ್ಜು](https://tv9kannada.com/sports/cricket-news/wpl-2027-rcb-squad-players-auction-buys-full-list-1256257.html)
-- [ಮೈಸೂರಿನಲ್ಲಿ ದಸರಾ ದಂಗಲ್: ಸಚಿವರ ಬೆನ್ನಲ್ಲೇ ಪ್ರಮೋದಾದೇವಿ ಪತ್ರಕ್ಕೆ ಕಮಿಷನರ್ ಸ್ಪಷ್ಟನೆ](https://tv9kannada.com/karnataka/mysuru/mysuru-dasara-row-commissioner-seema-latkar-responds-to-pramoda-devi-wadiyars-letter-after-ministers-remarks-1256245.html)
 
 **Prajavani**
 - [ಕರ್ನಾಟಕಕ್ಕೆ ಮೊದಲ ಜಯದ ಕನವರಿಕೆ](https://www.prajavani.net/sports/cricket/karnataka-vs-tripura-ranji-trophy-aneeshwar-gautam-century-shreyas-gopal-4359090)
-- [ಗುಲಾಬಿ ಮಾರ್ಗ: ಕಾಳೇನ ಅಗ್ರಹಾರದಿಂದ ತಾವರೆಕೆರೆವರೆ; ಸಿಎಂಆರ್‌ಎಸ್‌ ಅನುಮತಿ](https://www.prajavani.net/district/bengaluru-city/namma-metro-pink-line-safety-clearance-kalena-agrahara-tavarekere-4359042)
-- [ಭಾರತ ವನಿತೆಯರಿಗೆ ಸರಣಿ ಕಿರೀಟ: ವೈಷ್ಣವಿ ಮೋಡಿಗೆ ಉರುಳಿದ ಜಿಂಬಾಬ್ವೆ](https://www.prajavani.net/sports/cricket/india-women-cricket-victory-zimbabwe-series-clean-sweep-4359006)
-- [ರಾಜಕೀಯ ಬದಲಾವಣೆಯ ಮುನ್ಸೂಚನೆ: ಶರವಣ](https://www.prajavani.net/district/bengaluru-city/saravana-on-karnataka-mlc-election-results-political-change-4359148)
-- [ದರ್ಶನ್‌ಗೆ ಮತ್ತೆ ಬೆನ್ನು ನೋವು: ಚಿಕಿತ್ಸೆ ಕೊಡಿಸುವಂತೆ ನ್ಯಾಯಾಲಯಕ್ಕೆ ಮನವಿ](https://www.prajavani.net/district/bengaluru-city/darshan-back-pain-physiotherapy-court-request-4358871)
-- [ತಯಾರಿಕೆ ಮತ್ತು ಗಣಿಗಾರಿಕೆ ವಲಯ: ಐಐಪಿ ಶೇ 6.7ಕ್ಕೆ ಇಳಿಕೆ](https://www.prajavani.net/business/commerce-news/india-iip-growth-slows-september-4358711)
-- [ನೆತನ್ಯಾಹು ಅಧಿಕಾರಕ್ಕೆ ಕುತ್ತು: ಸಮ್ಮಿಶ್ರ ಸರ್ಕಾರ ರಚನೆ?](https://www.prajavani.net/news/world-news/israel-election-results-netanyahu-coalition-government-crisis-4358666)
-- [ಮೆಟ್ರೊ: ಯುವತಿಯ ವಿಡಿಯೊ ಸೆರೆ ಹಿಡಿದವನ ಪತ್ತೆಗೆ ಶೋಧ](https://www.prajavani.net/district/bengaluru-city/bengaluru-metro-woman-harassment-video-case-fir-4358653)
-- [‘ಗ್ಯಾರಂಟಿ’ ಅಪಪ್ರಚಾರಕ್ಕೆ ಕಡಿವಾಣ: ಸಿಎಂ ಶಿವಕುಮಾರ್](https://www.prajavani.net/news/karnataka-news/karnataka-guarantee-schemes-implementation-committee-dashboard-launch-4359101)
-- [ವಿಮಾನದಲ್ಲಿ ತುರ್ತು ಬಾಗಿಲು ಬಟನ್‌ ಒತ್ತಿದ ಪ್ರಯಾಣಿಕ ವಶಕ್ಕೆ](https://www.prajavani.net/news/india-news/indigo-flight-emergency-door-passenger-detained-chennai-4359105)
 
 **eedina**
 - [ಯಾದಗಿರಿ | ಜಾನಪದ ನೃತ್ಯ, ನಾಟಕ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಯರಗೋಳ ಸರ್ಕಾರಿ ಪ್ರೌಢಶಾಲೆಗೆ ಪ್ರಥಮ ಸ್ಥಾನ](https://eedina.com/?p=779051)
@@ -153,32 +144,32 @@
 - November (6.5)
 - Pakistan (3.9)
 - Mumbai (3.2)
-- India (2.9)
-- Andhra (2.9)
-- Punjab (2.6)
+- Bihar MLC (3.0)
+- Florida (2.6)
 - Cancer (2.6)
-- Cyclone (2.2)
-- Arnab (2.2)
+- Court (2.2)
+- Supreme Court (2.0)
 - Navi Mumbai (2.0)
-- Bihar MLC (2.0)
 - Spain (1.9)
-- Court (1.9)
+- India (1.6)
 - Arab (1.6)
+- Congress (1.6)
 - Bora (1.6)
+- Human (1.6)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [BJP fields Hardeep Singh Puri as its candidate for Rajya Sabha bypoll from MP](https://timesofindia.indiatimes.com/india/bjp-fields-hardeep-singh-puri-as-its-candidate-for-rajya-sabha-bypoll-from-mp/articleshow/135258383.cms)
-- [Anant Ambani Jio 'ভারতের সবচেয়ে বড় পুঁজি তার স্বপ্ন', জিওর তালিকাভুক্তির দিনে ৫ গুরুত্বপূর্ণ বার্তা অনন্ত আম্বানির](https://bengali.news18.com/news/business/anant-ambani-jio-platforms-ipo-listing-speech-market-cap-2026-rc-2943214.html)
-- [हरदीप सिंह पुरी लड़ेंगे मध्य प्रदेश से राज्यसभा उपचुनाव, BJP की केंद्रीय चुनाव समिति ने किया नाम का ऐलान](https://www.aajtak.in/madhya-pradesh/story/bjp-names-hardeep-singh-puri-candidate-madhya-pradesh-rajya-sabha-bypoll-ntc-aktw-rpti-2682340-2026-10-28)
-- [हम लड़ाई नहीं चाहते, राहुल गांधी को व्यापारियों ने दी 20 मिनट की चुनौती](https://www.livehindustan.com/national/cti-asked-for-20-minutes-from-rahul-gandhi-regarding-protest-on-1st-of-november-201793175953279.html)
-- [અમદાવાદમાં ફટાકડા ઉત્પાદનના તમામ લાયસન્સ રદ, શહેરમાં હવે એકપણ મેન્યુફેક્ચરિંગ યુનિટ ચાલુ નહીં રહે](https://www.gujaratsamachar.com/news/ahmedabad/all-licenses-for-firecracker-production-in-ahmedabad-have-been-cancelled-no-manufacturing-unit-will-operate-in-the-city-now-58723623566)
-- [Brazil Elections: নির্বাচনে পরাজিত হয়ে পালিয়ে গেলেন বলসোনারো? ব্রাজিলের বাইরে যাওয়া নিষিদ্ধ করেছিল আদালত, দেশ ছাড়লেন রাতারাতি](https://bengali.abplive.com/news/flavio-bolsonaro-leaves-brazil-after-election-loss-to-luis-inacio-lula-da-silva-in-brazil-elections-1197458)
-- [இரவில் சூரிய வெளிச்சம் பாய்ச்சும் அமெரிக்காவின் விண்வெளித் திட்டம்: சுற்றுச்சூழலுக்கு பேராபத்தா?](https://www.maalaimalar.com/news/world/a-us-space-project-to-beam-sunlight-at-night-a-major-threat-to-the-environment)
-- [Jio IPO की लिस्टिंग होते ही अंबानी परिवार पहुंचा सिद्धिविनायक मंदिर, टेका माथा, बेटी वेदा को गोद में संभालती दिखीं बड़ी बहू श्लोका](https://www.aajtak.in/lifestyle/news/story/ambani-family-visit-siddhivinayak-temple-after-jio-ipo-listing-shloka-isha-nita-ambani-steal-the-spotlight-look-photos-video-viral-tvisx-dskc-2682263-2026-10-28)
-- [Chhatrapati Sambhajinagar Graduates Constituency Result 2026 : मी प्रस्थापित गिळलाय, मराठवाडा पदवीधर मतदारसंघाचा निकाल, रिलस्टार रविराज साबळेंची प्रतिक्रिया, किती मतं?](https://marathi.abplive.com/news/politics/marathwada-padvidhar-election-raviraj-sable-get-20-thousand-vote-first-react-mahayuti-satish-chavan-pratapsingh-patil-chhatrapati-sambhajinagar-graduates-constituency-result-2026-1443812)
-- [Ramayana | ‘రామాయణ’ ఇంగ్లిష్ వెర్షన్‌లో 25 నిమిషాలు కట్.. ప్రపంచ ప్రీమియర్‌లో ఆసక్తికర విషయం!](https://www.ntnews.com/cinema/ramayana-english-version-less-than-25-min-2546615)
+- [ஸ்பெயின் நாட்டில் உள்ள டொலீடோ பகுதியில் 2 அதிகவேக ரயில்கள் மோதல்: 46 பேர் பலி](https://www.dinakaran.com/news/spain-toledo-train-collision-46-people-dead-2/)
+- [പ്രവാസികൾക്ക് തിരിച്ചടി; സ്വദേശിവത്ക്കരണ നിരക്ക് 80 ശതമാനമാക്കാൻ ബഹ്റൈൻ](https://www.reporterlive.com/gulf/bahrain/2026/10/28/bahrain-80-percent-nationalisation-quota-privatised-projects-2026)
+- [West Bengal News Live: রাজ্যের প্রাক্তন মন্ত্রী ইন্দ্রনীল সেনকে গ্রেফতার করল কলকাতা পুলিশ, লাইভ আপডেট](https://bengali.abplive.com/district/west-bengal-news-live-cyclone-arnab-cm-suvendu-adhikari-mamata-banerjee-bjp-tmc-weather-update-1197471)
+- [ঠাকুরমা আর মায়ের টোটকাতেই রূপ খুলেছে রশ্মিকার! ছোট থেকে কী মাখতেন চুলে এবং মুখে?](https://www.anandabazar.com/lifestyle/beauty-and-fashion/from-grandmas-recipes-to-glowing-skin-inside-rashmika-mandannas-diy-beauty-routine-dgtl/cid/1722425)
+- [Jio Platforms IPO: এলআইসি, হুন্ডাই, পেটিএমকে উড়িয়ে লিস্টিং-এ জিও-ই বাদশাহ, ভারতের ৫টি বৃহত্তম পাবলিক ইস্যুর মধ্যে হিরো নম্বর ১](https://bengali.news18.com/news/business/jio-platforms-ipo-beats-lic-hyundai-paytm-in-listing-gains-biggest-gains-among-indias-5-biggest-public-issues-arn-2943530.html)
+- [Indranil Sen Arrested: গ্রেফতার প্রাক্তন মন্ত্রী ইন্দ্রনীল সেন! সিজিও থেকে তুলে নিয়ে গেল পুলিশ](https://bangla.asianetnews.com/west-bengal/former-state-minister-indranil-sen-arrested-by-kolkata-police/articleshow-mtwpof3)
+- [ঈশানকে সরিয়ে টি-টোয়েন্টির এক নম্বর ব্যাটার আবার অভিষেক, চার বছর পর টেস্ট অলরাউন্ডারদের ক্রমতালিকায় শীর্ষচ্যুত জাডেজা](https://www.anandabazar.com/sports/cricket/abhishek-sharma-reclaimed-the-top-t20i-batting-rank-ravindra-jadejas-more-than-four-year-reign-as-the-worlds-no-1-test-all-rounder-has-ended-dgtl/cid/1722422)
+- [आज रात अमेरिका में बड़ा फैसला, फिर सोने-चांदी में होगा खेल!](https://www.aajtak.in/business/news/photo/big-decision-in-us-over-fed-rates-gold-silver-price-may-crash-tutd-2682406-2026-10-28)
+- [Former Bengal minister Indranil Sen arrested in Kolkata over alleged financial irregularities in Durga Puja preview shows](https://www.hindustantimes.com/india-news/former-bengal-minister-indranil-sen-arrested-by-kolkata-police-in-money-laundering-case-mamata-banejee-101793189540250.html)
+- [40 सालों से 'करवाचौथ एंथम' बना हुआ है Rishi Kapoor का गाना, पतियों के सम्मान में लिखा गया था कल्ट गीत](https://www.jagran.com/entertainment/bollywood-rishi-kapoor-bhala-hai-bura-hai-jaisa-bhi-hai-song-by-anuradha-paudwal-become-karwa-chauth-anthem-last-40-years-40419779.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
