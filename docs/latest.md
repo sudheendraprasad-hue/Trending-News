@@ -1,29 +1,29 @@
-# India Trending Report — 2026-10-30 20:55:23
+# India Trending Report — 2026-10-31 00:13:10
 
 ## Google Trends (India) — top trending searches
-1. [casa pia vs sporting](https://trends.google.com/trending/rss?geo=IN)
-2. [max](https://trends.google.com/trending/rss?geo=IN)
-3. [amazon stock](https://trends.google.com/trending/rss?geo=IN)
-4. [losc vs lens](https://trends.google.com/trending/rss?geo=IN)
-5. [sv elversberg vs mainz](https://trends.google.com/trending/rss?geo=IN)
-6. [le havre ac vs psg standings](https://trends.google.com/trending/rss?geo=IN)
-7. [alex de minaur](https://trends.google.com/trending/rss?geo=IN)
-8. [poland](https://trends.google.com/trending/rss?geo=IN)
-9. [iphone 16 price](https://trends.google.com/trending/rss?geo=IN)
-10. [priyanka chopra](https://trends.google.com/trending/rss?geo=IN)
+1. [76ers vs knicks](https://trends.google.com/trending/rss?geo=IN)
+2. [రాశి ఫలాలు](https://trends.google.com/trending/rss?geo=IN)
+3. [भजन](https://trends.google.com/trending/rss?geo=IN)
+4. [భారత జాతీయ క్రికెట్ జట్టు](https://trends.google.com/trending/rss?geo=IN)
+5. [ఎల్ నినో](https://trends.google.com/trending/rss?geo=IN)
+6. [j](https://trends.google.com/trending/rss?geo=IN)
+7. [ford trophy](https://trends.google.com/trending/rss?geo=IN)
+8. [love](https://trends.google.com/trending/rss?geo=IN)
+9. [youtube videos](https://trends.google.com/trending/rss?geo=IN)
+10. [po](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Google loses $500bn as China suffers worst rout since 2016: What's happening?](https://timesofindia.indiatimes.com/business/international-business/google-loses-500bn-as-china-stocks-suffer-worst-rout-since-2016-whats-happening-to-global-ai/articleshow/135369988.cms)
-- [Isro’s NVS-03 launch successful: Navigation satellite placed in orbit; NavIC gets a boost](https://timesofindia.indiatimes.com/india/isros-gslv-f18/nvs-03-mission-successful-next-generation-navigation-satellite-placed-in-orbit-navic-constellation-gets-a-boost/articleshow/135374721.cms)
-- [PM-President face-off in Poland: Top court chief suspended, court cries 'coup d'etat'](https://timesofindia.indiatimes.com/world/europe/pm-president-face-off-in-poland-top-court-chief-suspended-court-cries-coup-detat-as-nawrocki-returns/articleshow/135377285.cms)
+- [With 11 more questions, Census 2027 population enumeration phase to be of record 50 days](https://timesofindia.indiatimes.com/india/census-2027-population-enumeration-phase-to-be-of-record-50-days/articleshow/135377987.cms)
+- [How Isro's NVS-03 launch will revive NavIC, boost military independence](https://timesofindia.indiatimes.com/defence/success-launch-of-navigation-sat-nvs-03-with-desi-atomic-clock-will-make-navic-up-running-and-give-military-strategic-independence/articleshow/135376336.cms)
+- [Can amend privacy act, revoke law if needed: Government](https://timesofindia.indiatimes.com/india/can-amend-privacy-act-revoke-law-if-needed-government/articleshow/135378659.cms)
 - [End of SIR doesn't mean freezing of voters list: SC](https://timesofindia.indiatimes.com/india/end-of-sir-doesnt-mean-freezing-of-voters-list-sc/articleshow/135376933.cms)
 - [Opposition trying to foment anarchy amid global crisis, says PM Modi](https://timesofindia.indiatimes.com/city/ahmedabad/oppn-trying-to-foment-anarchy-amid-global-crisis-says-modi/articleshow/135375447.cms)
 - [Elon Musk shares 'whole schedule' on how he spends time with his 14 children](https://timesofindia.indiatimes.com/technology/tech-news/likely-for-the-first-time-ever-elon-musk-shares-the-whole-schedule-on-how-he-spends-time-with-his-14-children-says-i-see-my-kids-with-/articleshow/135371872.cms)
-- [Rahul Gandhi vs Nirmala Sitharaman round 2, this time over IDBI Bank stake sale](https://timesofindia.indiatimes.com/india/rahul-gandhi-vs-nirmala-sitharaman-round-2-this-time-over-idbi-bank-stake-sale/articleshow/135377041.cms)
-- [Virginia woman's ice cream shops now employ 35 people with disabilities](https://timesofindia.indiatimes.com/world/us/a-retired-virginia-optometrist-opened-an-ice-cream-shop-in-2021-to-create-jobs-for-people-with-disabilities-her-two-stores-now-employ-35-and-she-says-there-is-a-waiting-list-to-work-there/articleshow/135222526.cms)
-- [India's poverty will be down from 14.2% to 12.1% in 2 years: World Bank](https://timesofindia.indiatimes.com/india/indias-poverty-will-be-down-from-14-2-to-12-1-in-2-years-world-bank/articleshow/135377216.cms)
-- [Tanker with 27 Indian seafarers targeted in first-ever limpet mine attack in Hormuz](https://timesofindia.indiatimes.com/world/middle-east/tanker-with-27-indian-seafarers-targeted-in-first-ever-limpet-mine-attack-in-strait-of-hormuz/articleshow/135371354.cms)
+- [Boston couple's homemade Dracula castle draws visitors from other states](https://timesofindia.indiatimes.com/world/us/a-boston-couple-spent-months-wrapping-their-ordinary-home-in-hand-carved-foam-to-create-a-dracula-style-castle-for-halloween-2026-and-their-free-display-has-drawn-visitors-from-other-states-and-70000-video-views/articleshow/135294059.cms)
+- [PM-President face-off in Poland: Top court chief suspended, court cries 'coup d'etat'](https://timesofindia.indiatimes.com/world/europe/pm-president-face-off-in-poland-top-court-chief-suspended-court-cries-coup-detat-as-nawrocki-returns/articleshow/135377285.cms)
+- [Discourage weaponisation of rape law in relationships gone sour: SC](https://timesofindia.indiatimes.com/india/discourage-weaponisation-of-rape-law-in-relationships-gone-sour-sc/articleshow/135378560.cms)
+- [30% in 2019, cancer drug margins at 700% now](https://timesofindia.indiatimes.com/india/30-in-19-cancer-drug-margins-at-700-now/articleshow/135377800.cms)
 
 **NDTV**
 - [G20 Ministers Skip Photo Op In Iran As Russia-Ukraine War Creates Rifts](https://www.ndtv.com/world-news/g20-ministers-skip-photo-op-in-iran-as-russia-ukraine-war-creates-rifts-12261329#publisher=newsstand)
@@ -62,18 +62,19 @@
 - [ಇಸ್ರೇಲ್‌ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆ ಮತ್ತು ಭಾರತದ ರಾಜತಾಂತ್ರಿಕ ಗ್ರಹಿಕೆ: ಭಾರತದ ಪಾಲಿಗೆ ಅತಂತ್ರ ನೆಸೆಟ್‌ ಅರ್ಥವೇನು?](https://vijaykarnataka.com/news/world/how-india-analyses-israel-election-the-bilateral-ties-and-beyond/articleshow/135364115.cms)
 
 **The Hindu**
+- [SAD will establish ‘Build Punjab’ department, says Badal](https://www.thehindu.com/news/national/punjab/sad-will-establish-build-punjab-department-says-badal/article71645471.ece)
+- [Heavy polling in second phase panchayat elections for Sarpanch, Ward Panch in Rajasthan](https://www.thehindu.com/news/national/rajasthan/heavy-polling-in-second-phase-panchayat-elections-for-sarpanch-ward-panch-in-rajasthan/article71645952.ece)
+- [On JD(U) 23rd foundation day, party gives credit to Nitish for Bihar’s development](https://www.thehindu.com/news/national/bihar/on-jdu-23rd-foundation-day-party-gives-credit-to-nitish-for-bihars-development/article71645034.ece)
+- [Deeply distressing to see ambulances stranded, students missing classes during convoy movement in Kashmir: Sakina Itoo](https://www.thehindu.com/news/national/jammu-and-kashmir/deeply-distressing-to-see-ambulances-stranded-students-missing-classes-during-convoy-movement-in-kashmirsakina-itoo/article71646375.ece)
 - [17 NC MLAs issue 15-day ultimatum to address ‘coterie culture’, other issues in party](https://www.thehindu.com/news/national/jammu-and-kashmir/17-nc-mlas-issue-15-day-ultimatum-to-address-coterie-culture-other-issues-in-party/article71646586.ece)
 - [GSLV places next-generation navigation satellite NVS-03 into orbit](https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece)
 - [Failed relationships cannot turn consensual sex into rape: Supreme Court](https://www.thehindu.com/news/national/physical-intimacy-cant-be-branded-as-rape-if-consensual-relationship-turns-sour-supreme-court/article71645439.ece)
 - [Election Commission’s appeals against 16.10 lakh cleared voters raise legal questions](https://www.thehindu.com/news/national/west-bengal/authority-of-officials-who-appealed-against-inclusion-of-names-in-bengal-sir-under-lens/article71645404.ece)
 - [Supreme Court asks Centre to take measures against online misuse of court feeds](https://www.thehindu.com/news/national/supreme-court-asks-centre-to-take-measures-against-online-misuse-of-court-feeds/article71646311.ece)
 - [Why is ISRO’s NVS-03 satellite launch crucial? | Explained](https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece)
-- [Haryana BJP MLA questions party’s merit-based jobs policy, warns of anti-incumbency](https://www.thehindu.com/news/national/haryana/haryana-bjp-mla-questions-partys-merit-based-jobs-policy-warns-of-anti-incumbency/article71645855.ece)
-- [Bihar’s interests must be considered in the Ganga Water Treaty: Samrat Choudhary](https://www.thehindu.com/news/national/bihar/bihar-cm-samrat-choudhary-calls-for-adequate-ganga-water-share-to-boost-states-growth/article71645338.ece)
-- [TNUHDB identifies 20 sites for reconstruction across State; appeals to residents of dilapidated tenements to vacate](https://www.thehindu.com/news/cities/chennai/tnuhdb-identifies-20-sites-for-reconstruction-across-state-appeals-to-residents-of-dilapidated-tenements-to-vacate/article71645753.ece)
-- [Bengaluru needs long-term master plan for water, roads and sewerage: KBG](https://www.thehindu.com/news/cities/bangalore/bengaluru-needs-long-term-master-plan-for-water-roads-and-sewerage-kbg/article71646364.ece)
 
 **Livemint**
+- [Trump Says US Looking at Whether Binance Hack Was By North Korea](https://www.livemint.com/news/us-news/trump-says-us-looking-at-whether-binance-hack-was-by-north-korea-11793395367546.html)
 - [Kochi airport iPhone customs row explained: Why was an NRI passenger asked to pay nearly  ₹30,000?](https://www.livemint.com/news/india/kochi-airport-iphone-customs-row-explained-why-was-an-nri-passenger-asked-to-pay-nearly-rs-30000-11793382722214.html)
 - [DOJ Seeks Grand Jury Indictment of Comey in Defense Secrets Case](https://www.livemint.com/news/us-news/doj-seeks-grand-jury-indictment-of-comey-in-defense-secrets-case-11793385417059.html)
 - [Who was KM Tahsif Souri? Dismissed by Bangladesh Air Force post filming Sheikh Hasina's escape, mysteriously found dead](https://www.livemint.com/news/world/who-was-km-tahsif-souri-dismissed-by-bangladesh-air-force-post-filming-sheikh-hasinas-escape-mysteriously-found-dead-11793383460215.html)
@@ -83,7 +84,6 @@
 - [MCA says its role in NCLT appointments is only administrative after Supreme Court remarks](https://www.livemint.com/news/mca-says-its-role-in-nclt-appointments-is-only-administrative-after-supreme-court-remarks-11793371641497.html)
 - [India's diesel exports hit 13-month high amid Iran war: How refiners are cashing in on supply disruptions](https://www.livemint.com/news/world/indias-diesel-exports-hit-13-month-high-amid-iran-war-how-refiners-are-cashing-in-on-supply-disruptions-11793378163749.html)
 - [Yogi Adityanath's UP govt tightens job rules after GenZ protests: Who can be barred from government jobs?](https://www.livemint.com/news/india/yogi-adityanaths-up-govt-tightens-job-rules-after-genz-protests-who-can-be-barred-from-government-jobs-11793378470792.html)
-- [Govt names 1993-batch IAS officer Poundrik as heavy industries secretary](https://www.livemint.com/news/govt-names-1993-batch-ias-officer-poundrik-as-heavy-industries-secretary-11793370330085.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -100,6 +100,7 @@
 - [ಜನಗಣತಿ-2027: ರಾಜ್ಯಮಟ್ಟದ ಪ್ರಧಾನ ಜನಗಣತಿ ಅಧಿಕಾರಿಗಳ ಸಮ್ಮೇಳನ](https://www.varthabharati.in/bangalore-city/-2027--2286913)
 
 **Asianet Kannada**
+- [ನಾಳೆ ನವೆಂಬರ್ 1, ಕೇಂದ್ರದಿಂದ ಕನ್ನಡಿಗರಿಗೆ ರಾಜ್ಯೋತ್ಸವ, ದೀಪಾವಳಿಗೆ ಭರ್ಜರಿ ಗಿಫ್ಟ್, ಬೆಂಗಳೂರು-ಮುಂಬೈ ಸ್ಲೀಪರ್ ರೈಲಿಗೆ ಗ್ರೀನ್ ಸಿಗ್ನಲ್!](https://kannada.asianetnews.com/karnataka-districts/bengaluru-mumbai-vande-bharat-sleeper-train-green-signle-tomorrow-public-service-on-nov-3-rav/articleshow-fftn3qc)
 - [2008ರಲ್ಲಿ ಆಲ್‌ಮೋಸ್ಟ್‌ ಆಲ್ ಸಂಪತ್ತು ಕಳೆದುಕೊಂಡಿದ್ದ ನಮಿತ್ ಮಲ್ಹೋತ್ರಾ ಬಳಿ ಈಗಿರುವ ಸಂಪತ್ತು ಎಷ್ಟು ಗೊತ್ತಾ?](https://kannada.asianetnews.com/news-entertainment/ramayana-producer-namit-malhotra-lost-90-percent-of-his-wealth-during-the-global-financial-crisis-in-2008/articleshow-kz4bm92)
 - [IND vs NZ: ಟೀಮ್ ಇಂಡಿಯಾ ಕೈಯಿಂದ ಪಂದ್ಯ ಜಾರಿದ್ದು ಯಾವಾಗ? ಸೋಲಿಗೆ ಅವನೇ ಕಾರಣ ಎಂದ ಕ್ಯಾಪ್ಟನ್ ಶ್ರೇಯಸ್!](https://kannada.asianetnews.com/cricket-sports/ind-vs-nz-shreyas-iyer-blames-glenn-phillips-for-india-defeat-t20-bmk/articleshow-8mddyfb)
 - [ಹಾಲಿನ ಕಥೆ ಒಂದೆಡೆಯಾದರೆ, ನಂದಿನಿ ಮೊಸರಿನಲ್ಲೂ ಗ್ರಾಹಕನಿಗೆ ಗುನ್ನಾ; ಲೀಟರ್‌ಗೆ 14 ರೂಪಾಯಿ ಬರೆ](https://kannada.asianetnews.com/karnataka-districts/nandini-milk-and-curd-price-hike-karnataka-kmf-revised-rates-november-1-san/articleshow-y5rwyf1)
@@ -109,7 +110,6 @@
 - [ದೀಪಾವಳಿ ಹಬ್ಬಕ್ಕೆ ಬಂಗಾರ ಖರೀದಿಸೋರಿಗೆ ಗುಡ್‌ನ್ಯೂಸ್: ಚಿನ್ನದ ಬೆಲೆಯಲ್ಲಿ ಮತ್ತಷ್ಟು ಇಳಿಕೆ! ಇಂದಿನ ಬೆಲೆ ಎಷ್ಟು?](https://kannada.asianetnews.com/business/gold-rate-today-why-gold-price-down-oct-30-in-india-mcx-rate-crash-in-dhanteras-rav/articleshow-ov57dut)
 - [ಮೆಟ್ರೋದಿಂದ ಕರೆಂಟ್‌ವರೆಗೆ, ಹಾಲಿನಿಂದ ನೀರಿನವರೆಗೆ: ಇದು  ರಾಜ್ಯ ಸರ್ಕಾರದ ಬೆಲೆ ಏರಿಕೆ ABCD](https://kannada.asianetnews.com/bengaluru-urban/karnataka-a-to-z-price-hikes-tax-cess-list-details-san/articleshow-azer6m7)
 - [160ಕ್ಕೂ ಹೆಚ್ಚು ಸಿನಿಮಾಗಳಲ್ಲಿ ನಾಯಕಿ: ಸಾವಿತ್ರಿ, ಜಮುನಾಗೂ ಪೈಪೋಟಿ ನೀಡಿದ್ದ ಕನ್ನಡದ ಈ ನಟಿ ಯಾರು?](https://kannada.asianetnews.com/entertainment/kannada-actress-b-saroja-devi-the-actress-who-gave-tough-competition-to-savitri-and-jamuna-gvd/articleshow-hxbxhn6)
-- [Breaking: ಮಾಜಿ ಸಿಎಂ ಸಿದ್ದರಾಮಯ್ಯಗೆ ಖೆಡ್ಡಾ ತೋಡಿದ್ದ ಸ್ಟಿಂಗ್ ಲೇಡಿ ಕೃಪಾ ಆಳ್ವಾ ಕಾಂಗ್ರೆಸ್‌ನಿಂದ ಉಚ್ಛಾಟನೆ!](https://kannada.asianetnews.com/politics/krupa-alva-expelled-from-congress-6-years-siddaramaiah-sting-operation-row-san/articleshow-dzgs8bi)
 
 **News18 Kannada** — _unavailable_
 
@@ -126,16 +126,7 @@
 - [ಧನ್ವೀರ್ ವಿರುದ್ಧ ನಿರ್ಬಂಧಜಾಜ್ಞೆ: ದರ್ಶನ್ ಪರ ವಕೀಲರು ಹೇಳಿದ್ದಿಷ್ಟು](https://tv9kannada.com/videos/darshans-lawyer-talks-about-application-against-dhanveer-gowda-1257061.html)
 
 **Prajavani**
-- [ಸ್ಟಿಂಗ್‌ ಕಾರ್ಯಾಚರಣೆ: ಜೆಡಿಎಸ್‌ನ ಇಬ್ಬರ ವಿಚಾರಣೆ](https://www.prajavani.net/district/bengaluru-city/ccb-interrogates-jds-workers-in-sting-operation-case-4364074)
-- ['ನಮ್ಮ ಮೆಟ್ರೊ'ದಲ್ಲಿ ಮೂತ್ರಪಿಂಡ ಸಾಗಣೆ](https://www.prajavani.net/district/bengaluru-city/namma-metro-kidney-transport-bangalore-4364170)
-- [ರೇಣುಕಸ್ವಾಮಿ ಕೊಲೆ ಪ್ರಕರಣ: ಪ್ರದೂಷ್‌ ಜಾಮೀನು ಅರ್ಜಿ ವಜಾ](https://www.prajavani.net/district/bengaluru-city/renukaswamy-murder-case-pradoosh-rao-interim-bail-rejected-4363992)
-- [ಕುಸ್ತಿ: ಇತಿಹಾಸ ಸ್ಥಾಪಿಸಿದ ಮನೀಷಾ](https://www.prajavani.net/sports/other-sports/manisha-bhanwala-wins-world-wrestling-championship-gold-4363988)
-- [ಸಿಸಿಬಿ ಕಾರ್ಯಾಚರಣೆ: ಇಬ್ಬರು ರೌಡಿಗಳ ಸೆರೆ](https://www.prajavani.net/district/bengaluru-city/ccb-police-arrest-two-rowdies-in-bengaluru-4363987)
-- [ಜಿ20 ವಿದೇಶಾಂಗ ಸಚಿವರ ಸಭೆ: ಜೈಶಂಕರ್‌ ಭಾಗಿ](https://www.prajavani.net/news/world-news/g-twenty-foreign-ministers-meeting-jaishankar-atlanta-4363853)
-- [ಶಬರಿಮಲೆ ಯಾತ್ರಿಗಳಿಗೆ ತಲಾ ₹2 ಲಕ್ಷ ಜೀವ ವಿಮೆ–ಟಿಡಿಬಿ](https://www.prajavani.net/news/india-news/sabarimala-pilgrims-life-insurance-tdb-lic-4363945)
-- [ನಂದಿನಿ ಮೊಸರಿನ ದರ ಲೀಟರ್‌ಗೆ ₹14 ಹೆಚ್ಚಳ!](https://www.prajavani.net/news/karnataka-news/nandini-curd-price-hike-karnataka-4364147)
-- [ರಾಜ್ಯಾದ್ಯಂತ ‘ಪ್ರಜಾಪ್ರಭುತ್ವ ಉಳಿಸಿ– ಅರಾಜಕತೆ ಅಳಿಸಿ’ ಅಭಿಯಾನ: ಸುನೀಲ್‍ಕುಮಾರ್](https://www.prajavani.net/district/bengaluru-city/bjp-save-democracy-campaign-sunil-kumar-karnataka-4364125)
-- [ಎಥೆನಾಲ್‌: ಕೇಂದ್ರ–ರಾಜ್ಯಕ್ಕೆ ಹೈಕೋರ್ಟ್‌ ನೋಟಿಸ್‌](https://www.prajavani.net/news/karnataka-news/high-court-notice-to-government-on-ethanol-production-ban-4364118)
+- [PV Web Exclusive: ಪ್ರಕೃತಿಯೇ ಕೊಟ್ಟ ಕುಡಿಯುವ ನೀರಿನ ವರ ಕಸಿದುಕೊಂಡ ಹಿನ್ನೀರು!](https://www.prajavani.net/district/web-exclusive/yadgir-anabi-natural-water-spring-submerged-in-sannati-backwater-4363282)
 
 **eedina**
 - [ಕಲಬುರಗಿಯ ಮೂವರು ಸಾಧಕರಿಗೆ ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಗರಿ](https://eedina.com/?p=779840)
@@ -150,35 +141,35 @@
 - [ಬೀದರ್‌ ಜಿಲ್ಲೆಯ ಇಬ್ಬರು ಕಲಾ ಸಾಧಕರಿಗೆ ರಾಜೋತ್ಸವ ಪ್ರಶಸ್ತಿ](https://eedina.com/?p=779784)
 
 ## Cross-source trending keywords (derived from headlines above)
-- NVS- (6.5)
+- NVS- (5.5)
 - January (3.9)
 - Supreme Court (3.0)
-- India's (2.9)
-- Google (2.6)
-- Isro (2.6)
-- Bengaluru (2.6)
+- Census (2.6)
 - NavIC (1.6)
-- Tanker (1.6)
-- Hormuz (1.6)
+- Isro's (1.6)
+- Government (1.6)
 - Iran (1.6)
 - Delhi (1.6)
 - October (1.6)
-- satellite (1.5)
-- China (1.3)
+- Heavy (1.6)
+- India's (1.6)
+- Opposition (1.3)
+- Boston (1.3)
+- Dracula (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [उत्तराखंड: जोशीमठ में हेलीकॉप्टर क्रैश, पायलट समेत 6 लोग थे सवार](https://www.jagran.com/uttarakhand/chamoli-helicopter-missing-while-route-from-badrinath-to-dehradun-40421671.html)
-- [LIC નો નવો હેલ્થ શીલ્ડ પ્લાન 907 લોન્ચ, દર્દીને રોજ મળશે 10 હજાર](https://gujarati.abplive.com/news/business/lic-launch-new-health-shield-plan-907-patient-will-get-10-thousand-daily-994455)
-- [Arun Kadam Wife Vaishali On New House Buy Memory ; मी आणि मुलगी घर सोडून निघालेलो तो फक्त बघत बसलेला, त्याला त्याच्या आईसोबत राहायचं होतं! अरुण कदम यांच्या पत्नीने सांगितली आठवण](https://maharashtratimes.com/entertainment/entertainment-news/bollywood-news/arun-kadam-wife-vaishali-wanted-to-leave-old-house-but-actor-did-not-agree-for-mother/articleshow/135351319.cms)
-- [Pune Crime : पुण्यातील शुभम बनसोडे प्रकरणात निलेश घायवळ कनेक्शन! कारमध्ये बॉडी आढळली, वास आल्यानं घटना उघडकीस; धक्कादायक माहिती समोर](https://maharashtratimes.com/maharashtra/pune-news/pune-sarasbaug-body-of-25-year-old-shubham-bansode-found-in-alto-car-incident-exposed-due-to-bad-smell/articleshow/135352109.cms)
-- [Gyanesh Kumar Case: জ্ঞানেশের ইস্তফার দাবিতে বাড়ছে আন্দোলনের উত্তাপ, আজ দিল্লিতে খাড়গের বাসভবনে অপসারণের প্রস্তাব](https://bengali.abplive.com/district/gyanesh-kumar-case-mallikarjun-kharge-hosue-meet-to-remove-from-the-post-and-congress-calls-for-movement-1197708)
-- [গম্ভীরকে পেতে উঠেপড়ে লেগেছে আইপিএলের চার দল, ভারতীয় দলের কোচ কথা বলেছেন একটি দলের সঙ্গেই](https://www.anandabazar.com/sports/cricket/as-per-report-several-ipl-franchises-are-already-attempting-to-court-goutam-gambhir-as-head-coach-dgtl/cid/1722827)
-- [Javed Khan on Mamata: মমতা বন্দ্যোপাধ্যায়ের পাশ থেকে কেন সরলেন, অভিযোগ উঠতেই মুখ খুললেন জাভেদ খান](https://bengali.news18.com/news/kolkata/javed-khan-commented-on-mamata-banerjee-here-is-the-reason-he-distanced-himself-from-her-sta-2945760.html)
-- [NASA Dragonfly Mission: Send Name to Titan](https://www.bhaskarenglish.in/tech-science/news/nasa-dragonfly-mission-send-name-titan-space-registration-launch-139536251.html)
-- [தி.மு.க.வும், அ.தி.மு.க.வும் பெருந்தன்மையுடன் ஆதரித்தால் ஏற்றுக்கொள்வேன் - சீமான்](https://www.polimernews.com/politicsnews/dmk_aiadmk_support_seeman_accept_if_they_support_generously-12767698)
-- [विपक्ष के प्लान पर फिरा पानी, CEC ज्ञानेश कुमार के खिलाफ 'जन महाभियोग' टला; अब आगे होगा क्या?](https://www.jagran.com/delhi/new-delhi-city-india-bloc-public-impeachment-against-cec-gyanesh-kumar-postponed-due-to-heavy-rain-40421658.html)
+- [వాహ్.. వాట్ ఏ ల్యాండింగ్ : ఐఎన్ఎస్ విక్రాంత్‌పై రఫేల్ యుద్ధ విమానం (Video)](https://telugu.webdunia.com/article/national-news-in-telugu/rafale-makes-first-landing-on-ins-vikrant-aircraft-carrier-watch-video-126103000029_1.html)
+- [भारत में सबसे ज्यादा क्या खाया जाता है चिकन, मटन या मछली? रिपोर्ट पर नहीं होगा विश्वास](https://www.jagran.com/news/national-india-nonveg-diet-shock-chicken-mutton-or-fish-the-most-consumed-meat-surprise-you-40421879.html)
+- [ஜீவா நடிக்கும் “தகப்பன்” திரைப்படத்தின் “தங்கப்புள்ள” பாடல் வெளியானது](https://www.dailythanthi.com/cinema/cinemanews/jeevas-thagappan-film-thangapulla-song-out)
+- [नेवी का कमाल... INS विक्रांत पर पहली बार उतरा राफेल मरीन फाइटर जेट](https://www.aajtak.in/defence-news/story/rafale-marine-lands-on-ins-vikrant-on-maiden-attempt-rpti-2684370-2026-10-30)
+- [தீர்ப்பு ஒத்திவைப்பு](https://www.tamilmurasu.com.sg/world/anbil-mahesh-inquiry-judgment-petition-filed-police-postponed)
+- [સૌરાષ્ટ્રના વાતાવરણમાં પલટો: ગીર-ગઢડામાં ભારે પવન અને ગાજવીજ સાથે માવઠું, ઊભા પાકને નુકસાનની ભીતિ](https://gujaratvandan.com/news/saurashtra-weather-update-unseasonal-rain-with-strong-winds-hits-gir-gadhada-crops-damaged)
+- [Tanker in Strait of Hormuz hit by limpet mines, security sources say](https://www.reuters.com/world/tanker-strait-hormuz-hit-by-limpet-mines-security-sources-say-2026-10-30/)
+- [Comrade Kalyan Movie OTT : ఓటీటీలోకి శ్రీవిష్ణు కొత్త మూవీ - నెల రోజుల్లోపే కామ్రేడ్ కల్యాణ్ మూవీ సడన్ స్ట్రీమింగ్... ఎందులో చూడొచ్చంటే?](https://telugu.abplive.com/entertainment/ott-webseries/comrade-kalyan-movie-ott-streaming-sree-vishnu-mahima-nambiar-comedy-entertainer-available-to-watch-on-amazon-prime-video-262674)
+- [Weather News: সাগরে আবার নিম্নচাপ অঞ্চল, আর কতদিন বৃষ্টি চলবে, কোথায় ভারী বর্ষণ?](https://bangla.asianetnews.com/west-bengal/west-benagl-weather-update-cyclone-arnab-andaman-sea-low-pressure-kolkata-weather/photoshow-uvlys61)
+- [মার খাওয়া কর্মীরাই টিকিট পাবেন, দাবি উমেশ রাইয়ের](https://eisamay.com/west-bengal-news/howrah-news/bjp-leader-umesh-rai-declared-municipal-election-candidates-name-at-howrah/200560195.cms)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
