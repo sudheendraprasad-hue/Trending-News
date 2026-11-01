@@ -1,29 +1,29 @@
-# India Trending Report — 2026-11-01 20:38:42
+# India Trending Report — 2026-11-01 23:59:34
 
 ## Google Trends (India) — top trending searches
-1. [బంగాళాఖాతము](https://trends.google.com/trending/rss?geo=IN)
-2. [marseille vs toulouse](https://trends.google.com/trending/rss?geo=IN)
-3. [8वें वेतन आयोग](https://trends.google.com/trending/rss?geo=IN)
-4. [naslen](https://trends.google.com/trending/rss?geo=IN)
-5. [anne hathaway](https://trends.google.com/trending/rss?geo=IN)
-6. [trump](https://trends.google.com/trending/rss?geo=IN)
-7. [f1 tv](https://trends.google.com/trending/rss?geo=IN)
-8. [f1 race](https://trends.google.com/trending/rss?geo=IN)
-9. [us midterm elections](https://trends.google.com/trending/rss?geo=IN)
-10. [palmeiras vs vasco](https://trends.google.com/trending/rss?geo=IN)
+1. [விடுமுறை](https://trends.google.com/trending/rss?geo=IN)
+2. [ದರ್ಶನ್ ತೂಗುದೀಪ](https://trends.google.com/trending/rss?geo=IN)
+3. [ಬಿಗ್ ಬಾಸ್ ಕನ್ನಡ](https://trends.google.com/trending/rss?geo=IN)
+4. [new england vs inter miami](https://trends.google.com/trending/rss?geo=IN)
+5. [साप्ताहिक राशिफल](https://trends.google.com/trending/rss?geo=IN)
+6. [భారత జాతీయ క్రికెట్ జట్టు](https://trends.google.com/trending/rss?geo=IN)
+7. [उत्तर प्रदेश](https://trends.google.com/trending/rss?geo=IN)
+8. [ఆదర్శ కుటుంబం](https://trends.google.com/trending/rss?geo=IN)
+9. [atlanta united vs toronto](https://trends.google.com/trending/rss?geo=IN)
+10. [lewis hamilton](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Another 'exploding pager' plot? Israel eyes strike on Tehran’s top military bosses](https://timesofindia.indiatimes.com/world/middle-east/another-exploding-pager-plot-israel-eyes-strike-on-tehrans-top-military-bosses/articleshow/135426126.cms)
+- [9 dead as Florida jet crashes near busy roadway](https://timesofindia.indiatimes.com/world/us/9-dead-as-florida-jet-crashes-near-busy-roadway/articleshow/135438196.cms)
+- [1984 survivors, Sikh groups question timing of INDIA bloc rally on Nov 1, seek apology](https://timesofindia.indiatimes.com/india/1984-survivors-sikh-groups-question-timing-of-india-bloc-rally-on-nov-1-seek-apology/articleshow/135437919.cms)
+- [Introspect on need to improve judiciary responsiveness: CJI Surya Kant](https://timesofindia.indiatimes.com/india/introspect-on-need-to-improve-judiciary-responsiveness-cji/articleshow/135437999.cms)
 - [Fake claims, evasion of Rs 5.3 crore land techie couple in I-T net](https://timesofindia.indiatimes.com/india/fake-claims-evasion-of-rs-5-3-crore-land-techie-couple-in-i-t-net/articleshow/135437322.cms)
+- [Gyanesh has to go, PM & Shah next, says Rahul Gandhi at anti-CEC rally](https://timesofindia.indiatimes.com/india/gyanesh-has-to-go-pm-shah-next-says-rahul-gandhi-at-anti-cec-rally/articleshow/135437683.cms)
+- [US daylight saving time 2026 ends; clocks fall back 1 hour, sleep experts object](https://timesofindia.indiatimes.com/technology/tech-news/daylight-saving-time-2026-ends-in-the-us-clocks-fall-back-an-hour-and-sleep-experts-arent-happy/articleshow/135430481.cms)
 - [New airfare rules from next yr: No govt intervention except in ‘extraordinary situations’](https://timesofindia.indiatimes.com/india/new-airfare-rules-from-next-year-no-govt-intervention-except-in-extraordinary-situations-to-prevent-spikes/articleshow/135430750.cms)
+- [Pippa Middleton ordered to demolish car park at £15.5m estate](https://timesofindia.indiatimes.com/world/uk/princess-catherines-sister-pippa-middleton-and-husband-james-matthews-ordered-to-demolish-unauthorised-car-park-at-15-5-million-estate-neighbours-raise-concerns-over-construction-without-consultation/articleshow/135428620.cms)
 - [Golden Triangle's North East drug trade thrives on barter](https://timesofindia.indiatimes.com/india/golden-triangles-north-east-drug-trade-thrives-on-barter/articleshow/135437232.cms)
 - [LA LA land goes 'Lal'? After NYC, an Indian-origin socialist takes aim at Los Angeles](https://timesofindia.indiatimes.com/world/us/la-la-land-goes-lal-after-nyc-an-indian-origin-socialist-takes-aim-at-los-angeles/articleshow/135424672.cms)
-- [US daylight saving time 2026 ends; clocks fall back 1 hour, sleep experts object](https://timesofindia.indiatimes.com/technology/tech-news/daylight-saving-time-2026-ends-in-the-us-clocks-fall-back-an-hour-and-sleep-experts-arent-happy/articleshow/135430481.cms)
-- [‘Nobody can touch this Kumaraswamy’: Union minister dares cops, DKS govt over sting row](https://timesofindia.indiatimes.com/india/nobody-can-touch-this-kumaraswamy-union-minister-dares-cops-karnataka-govt-over-sting-row/articleshow/135430364.cms)
-- [Golfer's family billed $74,960 for Masters meals; court allows $1,950 fees](https://timesofindia.indiatimes.com/world/us/a-california-restaurant-catered-meals-for-a-golfers-family-at-the-masters-without-agreeing-on-a-price-then-sent-a-74960-bill-after-a-60391-jury-award-appeals-judges-upheld-just-1950-in-extra-fees/articleshow/135391758.cms)
-- [Andhra school chainsaw attack: Accused shot in encounter while attempting to flee](https://timesofindia.indiatimes.com/city/amaravati/chainsaw-attack-accused-shot-in-police-encounter-while-attempting-to-flee/articleshow/135431400.cms)
-- [EPFO pumps 17,000 crore into equities in Q1, exposure at 11.2% in June-end](https://timesofindia.indiatimes.com/business/india-business/epfo-pumps-17000-crore-into-equities-in-q1-exposure-at-11-2-in-june-end/articleshow/135436543.cms)
 
 **NDTV**
 - [State Flag, Mandatory Tamil: Vijay's Minister Sparks Controversy With Fresh Remark](https://www.ndtv.com/india-news/state-flag-mandatory-tamil-vijays-minister-sparks-controversy-with-fresh-remark-12268557#publisher=newsstand)
@@ -62,16 +62,16 @@
 - [`ಅಣಕು ಸಂಸತ್ತಿನಲ್ಲಿ ಮಾತ್ರ ರಾಹುಲ್ ಗಾಂಧಿ ಪ್ರಧಾನಿ ಆಗಬಹುದು, ಅಲ್ಲವಾದರೆ ಈ ಕನಸು ಈಡೇರದು': ಅಮಿತ್ ಶಾ ಲೇವಡಿ](https://vijaykarnataka.com/news/india/amit-shah-mocks-rahul-gandhi-might-become-prime-minister-in-a-mock-parliament/articleshow/135430675.cms)
 
 **The Hindu**
+- [AMU’s wants women on campus, not at the ballot box](https://www.thehindu.com/news/national/uttar-pradesh/amus-wants-women-on-campus-not-at-the-ballot-box/article71653225.ece)
 - [Even as unemployment falls, lack of ‘decent work’ in India](https://www.thehindu.com/opinion/lead/even-as-unemployment-falls-lack-of-decent-work-in-india/article71653971.ece)
+- [Cyclone Murasu LIVE update: Orange alert in six Telangana districts, yellow alert in five; holiday announced for schools, colleges in T.N., A.P. districts](https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece)
 - [Slow recovery: On the ISRO’s GSLV-F18 mission](https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece)
 - [Dwindling support: On the U.S. and the Cuban embargo](https://www.thehindu.com/opinion/editorial/the-hindu-editorial-dwindling-support-on-the-us-and-the-cuban-embargo/article71654007.ece)
-- [Cyclone Murasu LIVE update: Orange alert in six Telangana districts, yellow alert in five; holiday announced for schools, colleges in T.N., A.P. districts](https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece)
 - [Rebel leaders of AIADMK do not take part in district secretaries’ meeting chaired by Palaniswami](https://www.thehindu.com/news/national/tamil-nadu/rebel-leaders-of-aiadmk-do-not-take-part-in-district-secretaries-meeting-chaired-by-palaniswami/article71652853.ece)
 - [Litigants will not be entitled to refund of court fees if disputes get settled out of court after commencement of trial, rules Madras High Court](https://www.thehindu.com/news/national/tamil-nadu/litigants-will-not-be-entitled-to-refund-of-court-fees-if-disputes-get-settled-out-of-court-after-commencement-of-trial-rules-madras-high-court/article71653425.ece)
 - [BJP alleges rift between Rahul, Priyanka; accuses LoP of sidelining sister at INDIA bloc protests](https://www.thehindu.com/news/national/bjp-alleges-rift-between-rahul-priyanka-accuses-lop-of-sidelining-sister-at-india-bloc-protests/article71654117.ece)
 - [NTK cadre want Seeman to seek AIADMK, DMK support for Ambasamudram byelection](https://www.thehindu.com/news/national/tamil-nadu/ntk-cadre-want-seeman-to-seek-aiadmk-dmk-support-for-ambasamudram-byelection/article71653213.ece)
 - [Karnataka turns to U.K. roadshows to revive declining NRI tourist footfall](https://www.thehindu.com/news/national/karnataka/karnataka-turns-to-uk-roadshows-to-revive-declining-nri-tourist-footfall/article71652629.ece)
-- [Bengaluru-Mumbai Vande Bharat Sleeper Express flagged off by Railway Minister](https://www.thehindu.com/news/national/karnataka/bengaluru-mumbai-vande-bharat-sleeper-express-flagged-off-by-railway-minister/article71653630.ece)
 
 **Livemint**
 - [Binance loses $3.6 billion after $6.3 billion crypto hack: What the massive outflows mean for investors](https://www.livemint.com/news/world/binance-loses-3-6-billion-after-6-3-billion-crypto-hack-what-the-massive-outflows-mean-for-customers-and-investors-11793557266721.html)
@@ -100,6 +100,8 @@
 - [ದಿಲ್ಲಿ: ಎಸ್‌ಐಆರ್ ವಿರೋಧಿಸಿ ಪ್ರತಿಭಟನೆ ಕನಿಷ್ಠ 100 ವಿದ್ಯಾರ್ಥಿಗಳು ಪೊಲೀಸ್ ವಶಕ್ಕೆ](https://www.varthabharati.in/National/delhi-protest-against-sir-at-least-100-students-taken-into-police-custody-2287463)
 
 **Asianet Kannada**
+- [ಬೆಂಗಳೂರಲ್ಲಿ ಮೊದಲ ಸ್ವದೇಶಿ ಬುಲೆಟ್‌ ರೈಲಿನ ನಿರ್ಮಾಣ ಆರಂಭ; BEMLನಲ್ಲಿ ಸಚಿವ ಅಶ್ವಿನ್‌ ವೈಷ್ಣವ್‌ ಪರಿಶೀಲನೆ](https://kannada.asianetnews.com/bengaluru-urban/india-s-first-indigenous-bullet-train-b28-beml-bengaluru-ashwini-vaishnaw-inspection-sat/articleshow-m0cpod6)
+- [ಮಾಜಿ ಸಿಎಂ ಸ್ಟಿಂಗ್‌ ಕೇಸಿಗೆ ಟ್ವಿಸ್ಟ್: ಸಿದ್ದು ವಿಡಿಯೋ ಅಪ್ಲೋಡ್‌ ಆಗಿದ್ದ ಮೊಬೈಲ್‌ಗೆ ಕುಮಾರಸ್ವಾಮಿ ಮನೆ ಲಿಂಕ್‌!](https://kannada.asianetnews.com/state/siddaramaiah-sting-video-case-mobile-handed-over-at-hd-kumaraswamy-delhi-house-police-commissioner-sat/articleshow-z9yuogu)
 - [ಟುಕ್ ಟುಕ್ ಪ್ರೇಮ! ಭಾರತದ ಆಟೋವನ್ನು ಬಿಟ್ಟಿರಲಾರದೆ ಲಂಡನ್‌ಗೇ ಹೊತ್ತೊಯ್ದ ವಿದೇಶಿ ದಂಪತಿ ಮನಮಿಡಿಯುವ ಕಥೆ](https://kannada.asianetnews.com/india-news/british-couple-ships-beloved-indian-auto-rickshaw-to-uk-after-4000-km-journey/articleshow-9sgae35)
 - [Anant Ashray: ಅನಾಥರ ಬಾಳಿಗೆ ಬೆಳಕಾದ 'ಅನಂತ ಆಶ್ರಯ; 5 ಸಾವಿರ ಬಡವರಿಗೆ ಬೃಹತ್ ಆಸರೆ ಕಲ್ಪಿಸಿದ ನೀತಾ ಅಂಬಾನಿ!](https://kannada.asianetnews.com/india-news/nita-ambani-anant-aashray-karjat-reliance-foundation/articleshow-g3e6a0o)
 - [ಯಶ್ ತಮ್ಮ ಮಕ್ಕಳಿಗೆ ರಾಮಾಯಣವನ್ನು ಹೇಗೆ ಪರಿಚಯಿಸಿದರು? 'ಅಪ್ಪ ರಾವಣ' ಎಂದಾಗ ಪುಟಾಣಿಗಳ ಪ್ರತಿಕ್ರಿಯೆ ಹೇಗಿತ್ತು?](https://kannada.asianetnews.com/entertainment/how-actor-yash-introduced-ramayana-to-his-kids-and-how-they-reacted-to-his-ravana-role/articleshow-hewwh9y)
@@ -108,12 +110,11 @@
 - [90s ಕಿಡ್ಸ್ Vs 2K ಕಿಡ್ಸ್: ಅಂದಿನ ಫ್ಯಾಷನ್‌ಗೂ ಇಂದಿನ ಟ್ರೆಂಡ್‌ಗೂ ಎಷ್ಟು ವ್ಯತ್ಯಾಸ ಗೊತ್ತಾ?](https://kannada.asianetnews.com/gallery/fashion/90s-kids-vs-2k-kids-fashion-how-style-trends-have-changed-over-the-years-full-details-here-gvd-ncp6srv)
 - ['ಯಾರೀ ಅದು ಕಮಿಷನರ್?' ಈ ಕುಮಾರಸ್ವಾಮಿಯನ್ನ ಟಚ್ ಮಾಡೋಕೆ ಆಗಲ್ಲ-HDK ವಾಗ್ದಾಳಿ](https://kannada.asianetnews.com/politics/who-is-that-commissioner-you-cant-touch-this-kumaraswamy-hdk-lashes-out/articleshow-vculcyf)
 - [IND vs NZ: ಸರಣಿ ಬೆನ್ನಲ್ಲೇ ಟೀಮ್ ಇಂಡಿಯಾದಿಂದ 8 ಆಟಗಾರರು ಔಟ್, 10 ಮಂದಿಗೆ ಎಂಟ್ರಿ; ಯಾರಿಗೆಲ್ಲ ಸಿಕ್ತು ಚಾನ್ಸ್?](https://kannada.asianetnews.com/cricket-sports/ind-vs-nz-india-odi-squad-changes-kannada/articleshow-38narl5)
-- [Gold Anklets: ಕಡಿಮೆ ತೂಕ, ಹೆಚ್ಚು ಅಂದ; ಯುವತಿಯರಿಗಾಗಿ ಮುದ್ದಾದ ಚಿನ್ನದ ಗೆಜ್ಜೆಗಳು](https://kannada.asianetnews.com/webstories/fashion/latest-trendind-lightweight-gold-anklet-designs-for-women-gvd-98824sv)
-- [ODI ಪಂದ್ಯಕ್ಕೂ ಮೊದಲು ಕೊಹ್ಲಿ ಕುರಿತ ರಹಸ್ಯವನ್ನ ಬಹಿರಂಗಪಡಿಸಿದ RCB ಸ್ಟಾರ್ ಡಫಿ](https://kannada.asianetnews.com/cricket-sports/jacob-duffy-meets-and-praises-virat-kohli-ahead-of-odi-series-opener/articleshow-2w9kxqd)
 
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ನಿತ್ಯ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರಿಗೆ ತಮ್ಮ ಉನ್ನತ ಸ್ಥಾನದ ಅರಿವು ಮರೆಯಾಗಬಹುದು..](https://tv9kannada.com/horoscope/horoscope-today-nov-2-2026-daily-predictions-for-all-zodiac-signs-1257717.html)
 - [ಬಿಗ್​​ಬಾಸ್ ಮನೆಯಿಂದ ಹೊರಬಂದ ಮತ್ತೊಬ್ಬ ವೈಲ್ಡ್ ಕಾರ್ಡ್ ಸ್ಪರ್ಧಿ](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-season-13-kumari-evicted-from-the-house-1257733.html)
 - [ಭಾರತ- ನ್ಯೂಜಿಲೆಂಡ್ ನಡುವೆ 5 ಪಂದ್ಯಗಳ ಏಕದಿನ ಸರಣಿ; ಪೂರ್ಣ ವಿವರ ಇಲ್ಲಿದೆ](https://tv9kannada.com/sports/cricket-news/india-vs-new-zealand-odi-test-series-schedule-squads-1257673.html)
 - [ಮೆರವಣಿಗೆಯಲ್ಲಿ ಗಮನ ಸೆಳೆದ ರೋಬೋಟಿಕ್​ ಆನೆಗಳು!](https://tv9kannada.com/videos/robotic-elephant-steals-the-show-at-kolar-kannada-rajyotsava-procession-1257731.html)
@@ -123,19 +124,18 @@
 - [ಹಾಸನಾಂಬ ಸನ್ನಿಧಾನಕ್ಕೆ ಹರಿದುಬರುತ್ತಿದೆ ಕೋಟಿ ಕೋಟಿ ದುಡ್ಡು! ಮೂರೇ ದಿನದಲ್ಲಿ 5 ಲಕ್ಷ ಭಕ್ತರ ಭೇಟಿ, 4.50 ಕೋಟಿ ರೂ. ಆದಾಯ](https://tv9kannada.com/videos/hasanamba-darshan-2026-massive-rush-draws-rs-4-5-crore-revenue-from-tickets-and-laddus-1257719.html)
 - [ಕಿವೀಸ್ ಫೀಲ್ಡಿಂಗ್ ಕಂಡು ಕ್ರಿಕೆಟ್ ಫ್ಯಾನ್ಸ್ ಶಾಕ್: ಐದು ಪಂದ್ಯಗಳಲ್ಲಿ 14 ಕ್ಯಾಚ್ ಡ್ರಾಪ್](https://tv9kannada.com/sports/cricket-news/nz-t20-loss-fielding-errors-cost-series-vs-india-1257710.html)
 - [Chanakya Niti: ಪ್ರತಿದಿನ ಈ ಕೆಲಸಗಳನ್ನು ಮಾಡಿದರೆ, ಜೀವನದಲ್ಲಿ ಹಣದ ಸಮಸ್ಯೆಯೇ ಎದುರಾಗೋದಿಲ್ಲ](https://tv9kannada.com/lifestyle/chanakya-niti-do-these-things-to-achieve-success-and-wealth-1257714.html)
-- [ಜಾನಪದ ಕ್ಷೇತ್ರದ 6 ಮಹಾನ್ ಸಾಧಕರಿಗೆ ಸಿಎಂ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್‌ರಿಂದ ಪ್ರಶಸ್ತಿ ಪ್ರದಾನ](https://tv9kannada.com/videos/karnatakas-71st-rajyotsava-awards-cm-d-k-shivakumar-honours-folk-achievers-1257713.html)
 
 **Prajavani**
-- [ಫ್ಯಾಕ್ಟ್ ಚೆಕ್: ಅರುಣಾಚಲ; ಅ. 24ರಂದು ಎರಡೂ ಕಡೆಯ ಸೈನಿಕರ ಘರ್ಷಣೆ ಸುಳ್ಳು](https://www.prajavani.net/news/fact-check/fact-check-arunachal-pradesh-india-china-border-clash-viral-video-fake-4368423)
-- [ಸುಭಾಷಿತ: ವಿಲಿಯಂ ಷೇಕ್ಸ್‌ಪಿಯರ್‌](https://www.prajavani.net/op-ed/subhashita/william-shakespeare-subhashita-2-4368424)
-- [ತಾಯಿಕರುಳಿನ ಕಣ್ಗಾವಲಿರಲಿ](https://www.prajavani.net/op-ed/nudi-belagu/importance-of-motherhood-values-and-guidance-4367513)
-- [25 ವರ್ಷಗಳ ಹಿಂದೆ: ಸೇನೆ ನುಗ್ಗಿಸಲು ಅಮೆರಿಕ ಸಜ್ಜು](https://www.prajavani.net/op-ed/prajavani-archive/us-army-invasion-afghanistan-osama-bin-laden-4368422)
-- [75 ವರ್ಷಗಳ ಹಿಂದೆ: ಪಬ್ಲಿಕ್‌ ಅಕೌಂಟ್ಸ್‌ ಸಮಿತಿ ವರದಿ ಬಗ್ಗೆ ಶಾಸನ ಸಭೆ ಚರ್ಚೆ](https://www.prajavani.net/op-ed/prajavani-archive/legislative-assembly-public-accounts-committee-report-debate-4367330)
-- [ವಾಚಕರ ವಾಣಿ: ಪ್ರಜಾವಾಣಿ ಓದುಗರ ಈ ದಿನದ ಪತ್ರಗಳು](https://www.prajavani.net/op-ed/readers-letter/prajavani-readers-letters-public-grievances-karnataka-3-4368419)
+- [ಅಕ್ಷರ ಲೋಕದ ಆದಿಬೆಳಕು: ಕನ್ನಡದ ಪ್ರಾಚೀನತೆಯ ಅಮರ ಶಿಲಾಸಾಕ್ಷಿ 'ಹಲ್ಮಿಡಿ ಶಾಸನ'](https://www.prajavani.net/op-ed/articles/halmidi-inscription-kannada-ancient-history-kadamba-4360380)
 - [ನಮ್ಮ ಸುವರ್ಣಪಥ](https://www.prajavani.net/op-ed/churumuri/dubai-gold-walkway-world-bank-poverty-report-kannada-satire-4367965)
-- [ಕೃಷ್ಣ ಆಲನಹಳ್ಳಿ ಅವರ 'ಕಾಡು': ಅಕ್ರಮ ಸಂಬಂಧ ಹರಿಸಿದ ನೆತ್ತರು...](https://www.prajavani.net/entertainment/cinema/kaadu-kannada-movie-review-girish-karnad-4368352)
-- [ಬಿಮಲ್‌ ಪ್ರಕರಣ: ವಿವಾದ ನಿಭಾಯಿಸಿದ ರೀತಿಗೆ ಬಿಜೆಪಿಯಲ್ಲಿ ಅಸಮಾಧಾನ](https://www.prajavani.net/news/india-news/disquiet-in-manipur-bjp-over-attacks-on-cong-mp-akoijam-some-leaders-say-move-backfired-4368173)
-- [ಮಹದೇವ್‌ ಬೆಟ್ಟಿಂಗ್‌ ಆ್ಯಪ್‌ ಹಗರಣ: ಒಮಾನ್‌ನಿಂದ ಸೌರಭ್ ಚಂದ್ರಾಕರ್‌ ಕರೆತಂದ CBI](https://www.prajavani.net/news/india-news/cbi-extradites-mahadev-betting-app-case-kingpin-from-oman-4368271)
+- [ವಂದೇ ಭಾರತ್ ಸ್ಲೀಪರ್ ರೈಲಿಗೆ ಅದ್ದೂರಿ ಸ್ವಾಗತ](https://www.prajavani.net/district/kalaburagi/vande-bharat-sleeper-train-kalaburagi-launch-4368441)
+- [ಪರಿಕ್ರಮ ಫುಟ್‌ಬಾಲ್‌ ಲೀಗ್‌ 25ರಿಂದ](https://www.prajavani.net/sports/football/parikrma-champions-league-football-tournament-bengaluru-4368389)
+- [ಗುಂಡಣ್ಣ ಕಾರ್ಟೂನು: ಸೋಮವಾರ, 02 ನವೆಂಬರ್ 2026](https://www.prajavani.net/news/cartoons/prajavani-cartoon-gundanna-4368440)
+- [ಸಿಗದ ಅನುದಾನ: ಕೋರ್ಸ್‌ಗೆ ಅಡ್ಡಿ](https://www.prajavani.net/district/bengaluru-city/ambedkar-school-of-economics-university-funding-crisis-karnataka-4368437)
+- [ಆಳ ಅಗಲ |ಕೆಎಂಎಫ್‌: ರೈತರ ಹೆಸರು, ಪ್ರಭಾವಿಗಳ ದರ್ಬಾರು](https://www.prajavani.net/explainer/detail/kmf-milk-price-hike-and-union-corruption-issues-4368337)
+- [ಲಾಲ್‌ಬಾಗ್‌: ಮಳೆಕಾಡು ಸಸ್ಯೋದ್ಯಾನ](https://www.prajavani.net/district/bengaluru-city/lalbagh-rainforest-garden-bangalore-horticulture-development-4368434)
+- [ದಿನ ಭವಿಷ್ಯ: ಈ ರಾಶಿಯವರಿಗೆ ಶತ್ರುಗಳ ಕಾಟ ಕಡಿಮೆಯಾಗಿ ನೆಮ್ಮದಿ ಸಿಗಲಿದೆ](https://www.prajavani.net/astro-vastu/vaastu/daily-horoscope-zodiac-signs-relief-from-enemies-4368425)
+- [ಮಣಿಪುರ: ಹಿಂಸಾಚಾರಕ್ಕೆ ಐದು ಮಂದಿ ಬಲಿ](https://www.prajavani.net/news/india-news/manipur-ethnic-violence-five-killed-protest-4367839)
 
 **eedina**
 - [ಕಲಬುರಗಿ | ಅಂತರರಾಷ್ಟ್ರೀಯ ಬೌದ್ಧ ಧಮ್ಮ ದೀಕ್ಷಾ ಯಾತ್ರೆಗೆ ತೆರೆ; ಸನ್ನತಿಯಲ್ಲಿ ಸಾವಿರಾರು ಜನರಿಂದ ಬೌದ್ಧ ದೀಕ್ಷೆ ಸ್ವೀಕಾರ!](https://eedina.com/?p=780446)
@@ -151,34 +151,34 @@
 
 ## Cross-source trending keywords (derived from headlines above)
 - What (5.5)
-- Kumaraswamy (2.6)
-- Andhra (2.6)
+- INDIA (2.6)
 - Delhi (2.6)
 - Panchkula (2.6)
 - AIADMK (2.6)
+- Rahul (1.6)
 - Murasu (1.6)
 - Details (1.6)
-- Another (1.3)
-- Israel (1.3)
-- Tehran (1.3)
+- Florida (1.3)
+- Sikh (1.3)
+- Introspect (1.3)
 - Fake (1.3)
+- Gyanesh (1.3)
+- Shah (1.3)
 - East (1.3)
-- Lal' (1.3)
-- Indian-origin (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [ईशान किशन ने T20I में चकनाचूर किया सूर्यकुमार यादव का रिकॉर्ड, बने एक साल में सबसे ज्यादा रन बनाने वाले भारतीय](https://www.indiatv.in/sports/cricket/ishan-kishan-shatters-suryakumar-yadav-t20i-record-becomes-the-indian-to-score-the-most-runs-in-a-calendar-year-2026-11-01-1252184)
-- [કરોડોના કૌભાંડ બાદ સુરતના ખજોદના કચરાના ઢગલામાં ભીષણ આગ, 10 ફાયર ફાઈટર ઘટનાસ્થળે](https://www.gujaratsamachar.com/news/surat/massive-fire-breaks-out-in-khajod-garbage-dump-in-surat-after-multi-crore-scam-10-firefighters-at-the-scene-98637037988)
-- [Aishwarya Rai Bachchan Birthday : देवदास ते धूम 2, ऐश्वर्याचे 10 आयकॉनिक ऑन-स्क्रीन लूक्स](https://marathi.asianetnews.com/entertainment/aishwarya-rai-bachchan-birthday-top-10-iconic-movie-looks/photoshow-mdoqrk5)
-- [சிதம்பரம் நடராஜர் கோவிலுக்கு புதிய நிர்வாகக் குழு: நீதிமன்றம் கூறிய காரணங்கள் என்ன?](https://www.bbc.com/tamil/articles/ckz7x27gv5nxo)
-- [2 MLAs Quit In Setback For Punjab AAP After 1st Candidates' List Announced](https://www.ndtv.com/india-news/2-mlas-quit-in-setback-for-punjab-aap-after-1st-candidates-list-announced-12266645)
-- [Cricket: ઓસ્ટ્રેલિયાની હારથી બદલાયા તમામ સમીકરણ, જાણો WTC ફાઇનલમાં કઇ રીતે પહોંચશે ઇન્ડિયા ?](https://gujarati.abplive.com/sports/cricket/wtc-cricket-news-updates-india-wtc-final-qualification-scenario-explained-after-australia-series-loss-against-south-africa-994608)
-- [Sharad Pawar: ज्ञानेश कुमारांबाबत केंद्राने तातडीने निर्णय घ्यावा, शरद पवारांची भूमिका; उजनीतील AI डेटा सेंटरवरही परखड बोलले](https://marathi.abplive.com/news/politics/sharad-pawar-urges-the-centre-immediate-decision-regarding-gyanesh-kumar-also-speaks-ai-data-centre-at-ujani-rohit-pawar-1444211)
-- [CM योगी के 1.27 करोड़ हिंदू वोटर गायब होने के दावे पर अखिलेश यादव ने उठाए सवाल, बोले- 'ये डेटा किसने दिया?'](https://navbharattimes.indiatimes.com/state/uttar-pradesh/lucknow/yogi-1-27-crore-hindu-voters-akhilesh-yadav-sir-question/articleshow/135421424.cms)
-- [CM उमर अब्दुल्ला और निधि राजदान की शादी के खिलाफ फतवा जारी, मौलाना बोले- ये जायज नहीं](https://www.abplive.com/states/up-uk/omar-abdullah-marriage-with-nidhi-razdan-maulana-issues-fatwa-calls-marriage-unlawful-ann-3209589)
-- [Hyundai के इतिहास की सबसे बड़ी सेल, ताबड़तोड़ बेची कारें](https://www.aajtak.in/visualstories/auto/hyundai-highest-ever-october-2026-car-sales-venue-record-auaw-287178-01-11-2026)
+- [સરકારની તિજોરી છલકાઈ: ઓક્ટોબરમાં GST કલેક્શનમાં 22.9 ટકાનો જંગી ઉછાળો, કુલ ₹2.31 લાખ કરોડની આવક](https://www.gstv.in/news/business/government-exchequer-overflows-gigantic-229-growth-in-gst-collection-in-october-total-revenue-of-rs231-lakh-crore)
+- ['Super flop rally': BJP says Ramlila Maidan '40% empty', mocks INDIA bloc protest](https://timesofindia.indiatimes.com/india/super-flop-rally-bjp-says-ramlila-maidan-40-empty-mocks-india-bloc-protest/articleshow/135426536.cms)
+- [‘ഇലോൺ മസ്ക് ഇപ്പോഴാണ് പറക്കും കാർ കണ്ടുപിടിച്ചത്, ഇന്ത്യയിൽ 5000 വർഷം മുമ്പേ ഉണ്ടായിരുന്നു'; രൺബീർ കപൂർ](https://www.mediaoneonline.com/entertainment/elon-musk-has-just-found-the-flying-car-342333)
+- [Executive action & emergencies: How Trump plans to deal with Democrat-controlled Congress after US midterms](https://timesofindia.indiatimes.com/world/us/executive-action-emergencies-how-trump-plans-to-deal-with-democrat-controlled-congress-after-us-midterms/articleshow/135426024.cms)
+- [40 મેચમાં 400 છગ્ગા, ફક્ત ન્યુઝીલેન્ડ સામે 142 સિક્સ; ટીમ ઈન્ડિયાએ બનાવ્યો નવો વર્લ્ડ રેકોર્ડ](https://www.gstv.in/news/sports/team-india-set-a-new-world-record-in-t20i-cricket)
+- [ఇరాన్‌పై ఇజ్రాయెల్‌ ‘ఆపరేషన్ బీపర్‌-2.0’..?](https://www.eenadu.net/telugu-news/world/israel-may-be-plotting-another-operation-beeper-style-attack-on-iran/0801/126198649)
+- [32nd KIFF: সরকার বদলের পর 'KIFF' এর লোগো বদল, বদলাল উদ্বোধনী অনুষ্ঠানের চেনা ভেন্যুও! আর কী কী চমক থাকছে?](https://tv9bangla.com/entertainment/32nd-kiff-updates-rajinikanth-prabhas-akshay-kumar-to-attend-opening-ceremony-at-victoria-memorial-prosenjit-chairperson-mithun-chief-advisor-1357514.html)
+- [बांग्लादेश में मजदूरों का विद्रोह! वेतन बढ़ाने की मांग पर तोड़फोड़ और आगजनी](https://www.aajtak.in/world/story/bangladesh-garment-workers-protest-demand-wage-hike-new-wage-board-formed-ntc-apdy-dskc-2685887-2026-11-01)
+- [Ramayana Advance Booking: રિલીઝ પહેલાં જ 'રામાયણમ્'નો ધમાકો, એડવાન્સ બુકિંગમાં કમાયા આટલા કરોડ](https://www.gujaratfirst.com/entertainment/ramayana-advance-booking-40-crore-ranbir-kapoor-gujarat-first-digital/350562/)
+- [અમદાવાદ: દિવાળી ટાણે ઈ-કોમર્સની ઓફરો સામે ભદ્રના પાથરણા બજારનો ક્રેઝ અકબંધ, ખરીદારોની ભારે ભીડથી વેપારીઓ ખુશખુશાલ](https://www.gujaratsamachar.com/news/ahmedabad/bhadra-bazar-diwali-shopping-rush-local-traders-profit-17354906411)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
