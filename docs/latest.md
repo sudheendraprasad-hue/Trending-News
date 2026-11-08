@@ -1,29 +1,29 @@
-# India Trending Report — 2026-11-08 19:49:01
+# India Trending Report — 2026-11-08 23:14:37
 
 ## Google Trends (India) — top trending searches
-1. [brian fariñas](https://trends.google.com/trending/rss?geo=IN)
-2. [atlético madrid vs fc barcelona lineups](https://trends.google.com/trending/rss?geo=IN)
-3. [marc bernal](https://trends.google.com/trending/rss?geo=IN)
-4. [aqi in](https://trends.google.com/trending/rss?geo=IN)
-5. [who got evicted from bigg boss](https://trends.google.com/trending/rss?geo=IN)
-6. [india news](https://trends.google.com/trending/rss?geo=IN)
-7. [lee kang-in](https://trends.google.com/trending/rss?geo=IN)
-8. [pollution in delhi today](https://trends.google.com/trending/rss?geo=IN)
-9. [primetime](https://trends.google.com/trending/rss?geo=IN)
-10. [oracle](https://trends.google.com/trending/rss?geo=IN)
+1. [तिलक वर्मा](https://trends.google.com/trending/rss?geo=IN)
+2. [pistons vs lakers](https://trends.google.com/trending/rss?geo=IN)
+3. [దీపావళి](https://trends.google.com/trending/rss?geo=IN)
+4. [उत्तराखंड](https://trends.google.com/trending/rss?geo=IN)
+5. [ஆசியக் கோப்பை](https://trends.google.com/trending/rss?geo=IN)
+6. [estrela amadora vs benfica](https://trends.google.com/trending/rss?geo=IN)
+7. [wta finals](https://trends.google.com/trending/rss?geo=IN)
+8. [indian premier league](https://trends.google.com/trending/rss?geo=IN)
+9. [amitabh bachchan](https://trends.google.com/trending/rss?geo=IN)
+10. [fcb](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
+- [‘Hegseth has got to go’: Democrats ramp up impeachment push after midterm wins](https://timesofindia.indiatimes.com/world/us/democrats-turn-up-heat-on-hegseth-vow-impeachment-push-after-midterm-victories/articleshow/135665925.cms)
+- [‘Red Line’ march brings Amsterdam to standstill as Gaza outrage spills onto streets](https://timesofindia.indiatimes.com/world/europe/massive-amsterdam-march-challenges-dutch-governments-response-to-israels-war-in-gaza/articleshow/135665602.cms)
 - [The great White mix-up: Did Trump offer White House job to the wrong Dana?](https://timesofindia.indiatimes.com/world/us/the-great-white-mix-up-did-trump-offer-white-house-job-to-the-wrong-dana-white/articleshow/135653662.cms)
+- [Egypt train crash: How a collision with a stationary train left 7 dead, 125 injured](https://timesofindia.indiatimes.com/world/rest-of-world/egypt-train-crash-how-a-collision-with-a-stationary-train-left-7-dead-125-injured/articleshow/135665810.cms)
 - [‘They’re a failing nation’: Trump says fresh Iran strikes ‘highly unlikely’](https://timesofindia.indiatimes.com/world/middle-east/theyre-a-failing-nation-trump-says-fresh-iran-strikes-highly-unlikely-if-tehran-signs-strong-agreement/articleshow/135664914.cms)
+- [Microsoft employees call work ‘joyless’ in open letter as 60,000 get buyout offers](https://timesofindia.indiatimes.com/technology/tech-news/as-microsoft-offers-buyouts-to-60000-employees-staff-write-open-letter-says-working-at-microsoft-has-become-joyless-and-/articleshow/135657463.cms)
+- [Nvidia CEO admits affair with Alice Huang; board orders security review](https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-admits-affair-with-singapore-based-companys-ceo-read-his-email-to-nvidias-employees/articleshow/135665758.cms)
+- [Meet Vedant Thakker, 16, who built free wildfire alert tool for Californians](https://timesofindia.indiatimes.com/world/us/meet-vedant-thakker-the-16-year-old-california-student-who-built-a-free-wildfire-warning-checker-showing-four-location-categories-and-is-teaching-fremont-seniors-how-to-use-it-after-a-nearby-brush-fire/articleshow/135616807.cms)
 - [Is Netanyahu's time up? 10 things to know as rival Eisenkot gets shot at power](https://timesofindia.indiatimes.com/world/middle-east/is-netanyahus-time-up-10-things-to-know-as-rival-gadi-eisenkot-gets-shot-at-power-in-israel/articleshow/135651806.cms)
 - [Far-right wingnuts storm Diwali fest in Seattle after lights go out on MAGA](https://timesofindia.indiatimes.com/world/us/far-right-wingnuts-storm-diwali-fest-in-seattle-after-lights-go-out-on-maga/articleshow/135660200.cms)
-- [Microsoft employees call work ‘joyless’ in open letter as 60,000 get buyout offers](https://timesofindia.indiatimes.com/technology/tech-news/as-microsoft-offers-buyouts-to-60000-employees-staff-write-open-letter-says-working-at-microsoft-has-become-joyless-and-/articleshow/135657463.cms)
-- [First foreign astronaut on China’s Tiangong station will be from Pak](https://timesofindia.indiatimes.com/science/first-foreign-astronaut-on-chinas-tiangong-station-will-be-from-pak/articleshow/135665082.cms)
-- [2,800-year-old Siberian tomb reveals cannabis seeds and traces in human hair](https://timesofindia.indiatimes.com/science/archaeology/in-a-2800-year-old-siberian-tomb-researchers-found-about-1000-cannabis-seeds-and-chemical-traces-in-human-hair-suggesting-ritual-intoxication-among-people-buried-alongside-sacrificed-horses-and-other-remains/articleshow/135603594.cms)
-- [Egypt train collision: 4 dead, many injured as train derails after hitting another train](https://timesofindia.indiatimes.com/world/rest-of-world/egypt-train-collision-over-60-injured-as-passenger-train-derails-after-hitting-another-train-in-giza/articleshow/135660889.cms)
-- [Video: Jaipur cafe owner beaten after objecting to employee's friend's frequent visits](https://timesofindia.indiatimes.com/city/jaipur/threatened-to-kill-him-jaipur-cafe-owner-ambushed-beaten-after-objecting-to-employees-friends-frequent-visits-video/articleshow/135660046.cms)
-- [Sensex, Nifty start Samvat 2083 in red: What's the outlook till next Diwali?](https://timesofindia.indiatimes.com/business/india-business/sensex-nifty-start-samvat-2083-in-red-whats-the-outlook-till-next-diwali-what-should-investors-do/articleshow/135660628.cms)
 
 **NDTV**
 - [Delhi-NCR Chokes On Diwali Night As Smoke Engulfs City, AQI Nears 400](https://www.ndtv.com/india-news/delhi-pollution-delhi-diwali-pollution-delhi-aqi-delhi-aqi-delhi-ncr-chokes-on-diwali-night-as-smoke-engulfs-city-aqi-nears-400-12301098#publisher=newsstand)
@@ -62,6 +62,8 @@
 - [ಉತ್ತರ ಪ್ರದೇಶ ವಿಧಾನಸಭಾ ಚುನಾವಣೆಯಲ್ಲಿ NDAಗೆ 80-20 ಪುನರುಚ್ಚರಿಸಿದ ಯೋಗಿ ಆದಿತ್ಯನಾಥ್: ಹೀಗಿದೆ ಸೂತ್ರ](https://vijaykarnataka.com/news/india/yogi-adityanath-reiterates-80-20-for-nda-in-uttar-pradesh-assembly-elections-/articleshow/135661675.cms)
 
 **The Hindu**
+- [Fire engulfs Jammu’s Nehru Market, guts around 12 shops](https://www.thehindu.com/news/national/jammu-and-kashmir/fire-engulfs-jammus-nehru-market-guts-around-12-shops/article71681226.ece)
+- [Infiltrators lurking across the border, will send them back from the same way they enter: Adhikari](https://www.thehindu.com/news/national/west-bengal/west-bengal-to-institute-seema-mitra-award-for-bsf-ssb-police-personnel-from-2027-suvendu/article71681031.ece)
 - [Air pollution over 50 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali](https://www.thehindu.com/news/cities/Delhi/air-pollution-over-50-times-who-limit-in-parts-of-delhi-as-people-defy-ban-on-firecrackers-on-deepavali/article71681210.ece)
 - [19 Indian seafarers stranded in Yemen evacuated, Embassy says](https://www.thehindu.com/news/national/indian-seafarers-stranded-in-yemen-evacuated/article71681203.ece)
 - [Thick smog blankets Delhi on Deepavali night, AQI at 20 stations ‘severe’](https://www.thehindu.com/news/cities/Delhi/delhi-air-quality-deepavali-cracker-ban-ver-poor/article71681158.ece)
@@ -70,8 +72,6 @@
 - [Revanth celebrates Deepavali with Indiramma house beneficiary](https://www.thehindu.com/news/national/telangana/revanth-celebrates-deepavali-with-indiramma-house-beneficiary/article71681093.ece)
 - [Rajajinagar murders: Two more bodies recovered near Chamundi hills in Mysuru](https://www.thehindu.com/news/cities/bangalore/rajajinagar-murders-two-more-bodies-recovered-near-chamundi-hills-in-mysuru/article71680991.ece)
 - [UK Hindu family takes legal action after school objects to boy wearing tilak](https://www.thehindu.com/news/international/uk-hindu-family-takes-legal-action-after-school-objects-to-boy-wearing-tilak/article71681073.ece)
-- [Jean Drèze urges T.N. govt. to take strict action amid report of ‘fake book’ at Kalaignar Centenary Library](https://www.thehindu.com/news/national/tamil-nadu/jean-dreze-fake-book-publisher-tn-madurai-kalaignar-centenary-library/article71681030.ece)
-- [Minister Agnimitra Paul says rose water to be used for mist spraying in Kolkata; environmentalist slams move](https://www.thehindu.com/news/cities/kolkata/minister-agnimitra-paul-says-rose-water-to-be-used-for-mist-spraying-in-kolkata-environmentalist-slams-move/article71681027.ece)
 
 **Livemint**
 - [Hacked Records Show 400,000 Russians Killed in War on Ukraine](https://www.livemint.com/news/world/hacked-records-show-400-000-russians-killed-in-war-on-ukraine-11794157943924.html)
@@ -114,6 +114,7 @@
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ನ.8ರಿಂದ 14ರವರೆಗೆ ವಾರ ಭವಿಷ್ಯ: ಈ ರಾಶಿಗೆ ಅದೃಷ್ಟದ ಬಾಗಿಲು ತೆರೆಯಲಿದೆ](https://tv9kannada.com/horoscope/november-8-to-14-weekly-horoscope-your-zodiac-predictions-and-planetary-influences-1260511.html)
 - [ನಿತ್ಯ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರು ಕೊನೆಯ ಕ್ಷಣದಲ್ಲಿ ಸೋಲು ಕಂಡು ನಿರಾಸೆ ಅನುಭವಿಸುವರು](https://tv9kannada.com/horoscope/daily-horoscope-november-9-2026-todays-zodiac-predictions-for-all-12-signs-1260497.html)
 - [ಬಿಗ್ ಬಾಸ್ ಮನೆಗೆ ಮಂಜ ರೀ ಎಂಟ್ರಿ: ವೈಲ್ಡ್ ಕಾರ್ಡ್ ಸ್ಪರ್ಧಿ ಅಲ್ಲ, ಕಪ್ ಕೂಡ ಸಿಗಲ್ಲ](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-season-13-modern-mahakavi-manja-re-entry-but-not-wild-card-1260514.html)
 - [ಡೆಲ್ಲಿ ಆಟಗಾರನ ಮೇಲೆ ಲಕ್ನೋ, ಗುಜರಾತ್ ಕಣ್ಣು; IPLನಲ್ಲಿ ಬಿಗ್ ಡೀಲ್ ಸಾಧ್ಯತೆ](https://tv9kannada.com/photo-gallery/cricket-photos/ipl-2027-trade-ashutosh-sharma-gt-delhi-capitals-rumors-1260499.html)
@@ -123,19 +124,8 @@
 - [ಬೆಂಗಳೂರು ಅಭಿವೃದ್ಧಿಗೆ ಬೂಸ್ಟ್: ಸೋಮವಾರ ಡಿಕೆ ಶಿವಕುಮಾರ್ ನೇತೃತ್ವದಲ್ಲಿ ಬಿಡಿಎ ಸಭೆ; ಮಹತ್ವದ ಘೋಷಣೆ ನಿರೀಕ್ಷೆ](https://tv9kannada.com/karnataka/bengaluru/cm-dk-shivakumar-to-review-bda-projects-in-bengaluru-major-announcements-on-traffic-and-housing-expected-1260477.html)
 - [ಅಶ್ವಿನ್ ಫ್ಯಾಬ್ ಫೈವ್ ಪಟ್ಟಿಯಲ್ಲಿ ಕೊಹ್ಲಿ, ರೋಹಿತ್ ಇಲ್ಲ; ಸ್ಥಾನ ಪಡೆದ ಭಾರತೀಯ ಯಾರು?](https://tv9kannada.com/sports/cricket-news/ashwin-top-5-batsmen-bowlers-gill-bumrah-1260490.html)
 - [‘ಪ್ರೇಮದ ಊರಲಿ’ ಒಟಿಟಿ ರಿಲೀಸ್ ಇನ್ನೂ ಆಗಿಲ್ಲ ಯಾಕೆ? ಉತ್ತರಿಸಿದ ನಿರ್ದೇಶಕ ಮನೋಜ್](https://tv9kannada.com/videos/premada-oorali-ott-release-date-delay-director-manoj-kumar-statement-1260488.html)
-- [ಹಿಟ್‌ಮ್ಯಾನ್ ಖಾತೆಗೆ ಮತ್ತೆರಡು ವಿಶ್ವದಾಖಲೆ; ರೋಹಿತ್ ಸಾಧನೆ ಮುರಿಯುವುದು ಅಷ್ಟು ಸುಲಭವಲ್ಲ](https://tv9kannada.com/photo-gallery/cricket-photos/rohit-sharma-historic-sixes-records-400-odi-700-intl-1260473.html)
 
-**Prajavani**
-- [ಬೆಂಗಳೂರು | ಪಟಾಕಿ ಅವಘಡ: 32 ಮಂದಿಗೆ ಗಾಯ](https://www.prajavani.net/news/karnataka-news/bangalore-diwali-firecracker-eye-injuries-4384334)
-- [ಕೃಷ್ಣೆಯಿಂದ ಕಾವೇರಿವರೆಗೆ ಉತ್ಸವಕ್ಕೆ  ತೆರೆ: ಚಿಣ್ಣರು ಹಚ್ಚಿದರು ‘ಕನ್ನಡದ ದೀಪ’](https://www.prajavani.net/district/bengaluru-city/kannada-festival-azim-premji-university-event-bengaluru-4384308)
-- [ಹಾಸನ ಡಿಸಿ ಮೇಲೆ ಎಚ್‌ಡಿಕೆ ಆರೋಪ ಆಧಾರರಹಿತ: ಸಚಿವ ಎಂ.ಬಿ. ಪಾಟೀಲ ಆಕ್ರೋಶ](https://www.prajavani.net/news/karnataka-news/mb-patil-refutes-kumaraswamy-allegations-hassan-dc-4384255)
-- [ಹಾವೇರಿ | ಅರೆಬೆತ್ತಲೆಗೊಳಿಸಿ ಥಳಿತ: ಮೂವರ ಬಂಧನ](https://www.prajavani.net/district/haveri/haveri-assault-case-arrests-battikoppa-4384324)
-- [ಬೆಂಗಳೂರಿನಲ್ಲಿ ಕಳೆಗಟ್ಟಿದ ದೀಪಾವಳಿ: ಸಂಭ್ರಮಿಸಿದ ಜನ](https://www.prajavani.net/district/bengaluru-city/deepavali-festival-celebration-bangalore-market-crowd-4384285)
-- [ಕಲಬುರಗಿ: ಸಿಡಿಮದ್ದು ಸಿಡಿದು ಬಾಲಕ ಸಾವು](https://www.prajavani.net/district/kalaburagi/boy-killed-in-explosive-blast-kalaburagi-4383988)
-- [ಅಕ್ರಮಕ್ಕಿಲ್ಲ ಅವಕಾಶ, ಅಭ್ಯರ್ಥಿಗಳೇ ನಂಬಿಕೆ ಇಡಿ: KPSCಯಿಂದ ವಿಡಿಯೊ ಹೇಳಿಕೆ](https://www.prajavani.net/news/karnataka-news/kpsc-kas-exam-preliminary-preparations-transparency-measures-4384179)
-- [ಮೇಕೆದಾಟು| ತಮಿಳುನಾಡು ಸಿಎಂ ಸಹಕಾರ ನೀಡಲಿ: ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್ ಮನವಿ](https://www.prajavani.net/district/hasana/mekedatu-dam-dk-shivakumar-appeals-to-tamil-nadu-cm-4383953)
-- [ಬೆಂಗಳೂರು | ಏಳು ಮಂದಿ ಹತ್ಯೆ ಪ್ರಕರಣ: ಚಾಮುಂಡಿ ತಪ್ಪಲಲ್ಲಿ ದಂಪತಿ ಶವ ಪತ್ತೆ](https://www.prajavani.net/district/bengaluru-city/mysuru-murder-case-bodies-found-chamundi-hills-4384335)
-- [ಉ.ಪ್ರದೇಶದಲ್ಲಿ ನಾಗರಿಕ ಸ್ವಾತಂತ್ರ್ಯದ ಪತನ:  ಅಲಹಾಬಾದ್‌ ಹೈಕೋರ್ಟ್‌ ಛೀಮಾರಿ](https://www.prajavani.net/news/india-news/allahabad-high-court-slams-uttar-pradesh-police-civil-liberties-4384150)
+**Prajavani** — _unavailable_
 
 **eedina**
 - [ಮಧುಗಿರಿ | ಸಂವಿಧಾನ ದೇಶದ ಚರಿತ್ರೆ, ವರ್ತಮಾನ ಮತ್ತು ಭವಿಷ್ಯವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ: ಎ. ನಾರಾಯಣ](https://eedina.com/?p=783536)
@@ -150,35 +140,35 @@
 - [ಚಿಕ್ಕಮಗಳೂರು | ಅರಣ್ಯ ಸಿಬ್ಬಂದಿಗೆ ಹಲ್ಲೆ, ಕೊಲೆ ಬೆದರಿಕೆ](https://eedina.com/?p=783481)
 
 ## Cross-source trending keywords (derived from headlines above)
-- Diwali (9.7)
+- Diwali (8.4)
 - Delhi (5.5)
 - Iran (3.9)
 - Deepavali (3.9)
-- Video (2.6)
 - Indian (2.6)
 - Trump (1.9)
 - White (1.6)
 - Killed (1.6)
+- Adhikari (1.6)
 - Bengal (1.6)
 - Food (1.6)
-- Dana (1.3)
-- Eisenkot (1.3)
-- Far-right (1.3)
-- Seattle (1.3)
+- Hegseth (1.3)
+- Democrats (1.3)
+- Amsterdam (1.3)
+- Gaza (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [Diwali History: દિવાળીની શરૂઆત ક્યારે અને કેવી રીતે થઈ? જાણો રામાયણ, જૈન અને બૌદ્ધ પરંપરાઓનો ઉલ્લેખ](https://www.bbc.com/gujarati/articles/cvlyddyj3jkjo)
-- [കൊച്ചിയിലെ ജന്തർ മന്തർ: അധികാരത്തേക്കാൾ വലുത് മനുഷ്യന്റെ അന്തസ്സ്](https://www.southlive.in/kochis-jantar-mantar-human-dignity-is-greater-than-power/)
-- [Rajendra Pawar Ajit Pawar: "काय बंधू?" अजित दादांची ती हाक अन् बालपणीच्या आठवणी; दिवाळीच्या पार्श्वभूमीवर राजेंद्र पवार भावूक, राष्ट्रवादीच्या विलीनीकरणाबाबत केलं महत्त्वाचं भाष्य, म्हणाले....](https://marathi.abplive.com/news/politics/baramati-news-rajendra-pawar-interview-he-shared-ajit-pawar-and-his-childhood-diwali-memories-and-event-and-pawar-family-diwali-celebration-and-both-ncp-merger-1444850)
-- [The great White mix-up: Did Trump offer White House job to the wrong Dana White?](https://timesofindia.indiatimes.com/world/us/the-great-white-mix-up-did-trump-offer-white-house-job-to-the-wrong-dana-white/articleshow/135653662.cms)
-- [യുപിയില്‍ താര്‍ സ്‌കൂട്ടറിലിടിച്ച് അപകടം; ഗൃഹനാഥന്‍ മരിച്ചു](https://www.sirajlive.com/mahindra-thar-accident-kanpur-man-killed-scooter-crash.html)
-- [ஈரான் - அமெரிக்கா: `அதிகரிக்கும் பதற்றம்: தொடர்ந்து கேட்கும் வெடிகுண்டுச் சத்தம்' - என்ன நடக்கிறது?](https://www.vikatan.com/government-and-politics/tensions-between-iran-and-the-united-states-have-escalated-once-again)
-- [Patidar withdraws from | Cricbuzz.com](https://www.cricbuzz.com/cricket-news/140829/patidar-withdraws-from-india-a-squad-for-rising-stars-asia-cup)
-- [Israel Politics: ఇజ్రాయెల్‌లో నెతన్యాహూకు షాక్.. ప్రభుత్వం ఏర్పాటు చేయాలని గాడీ ఐసెన్‌కోట్‌కు ఆహ్వానం](https://telugu.abplive.com/news/world/israel-president-invites-opposition-leader-gadi-eisenkot-form-new-government-benjamin-netanyahu-263250)
-- [रजत पाटीदार हटे, रिंकू सिंह को बड़ी जिम्मेदारी; इंडिया ए राइजिंग स्टार एशिया कप स्क्वॉड में बदलाव](https://www.livehindustan.com/cricket/rajat-patidar-out-rinku-singh-named-new-vice-captain-india-a-updated-rising-stars-asia-cup-squad-201794121133626.html)
-- [শুধু সিনেমা রেকর্ড বা পোস্ট নয়, সব ভিডিও মুছতেও হবে! ৪ হাজার কোটির 'রামায়ণ' নিয়ে দর্শকদের সাবধান করল টিম](https://www.thewall.in/entertainment/ramayana-part-1-makers-strict-legal-warning-piracy-action/tid/208918)
+- [U.S. launches task force to disrupt land transit routes into Iran](https://www.thehindu.com/news/international/us-launches-task-force-to-disrupt-land-transit-routes-into-iran/article71680871.ece)
+- [Kaaka | చిరంజీవి చేతిలో కొడవలి, రక్తంతో తడిసిన ఆయుధం.. ‘కాకా’ నుంచి ఊచకోత పోస్టర్](https://www.ntnews.com/cinema/kaaka-poster-released-2555769)
+- [फील्डिंग के दौरान फैंस ने विराट की तरफ फेंका प्लास्टिक बैट, 'किंग कोहली' को आया गुस्सा! Video](https://www.jagran.com/cricket/headlines-virat-kohli-angry-on-fans-throwing-plastic-bat-for-autograph-video-goes-viral-ind-vs-nz-40430992.html)
+- [ஞானேஷ் குமார் பதவி விலகும் வரை போராட்டம் தொடரும் - காங்கிரஸ்](https://www.dailythanthi.com/news/india/congress-will-continue-agitation-until-cec-gyanesh-kumar-is-removed-says-k-c-venugopal)
+- [ইরানকে চারদিক থেকে ঘিরতে নয়া চাল আমেরিকার! ২০ সদস্যের ‘আয়রন গেট’ টাস্ক ফোর্স গঠন](https://bangla.asianetnews.com/international/world-news/us-military-has-announced-it-will-create-a-20-member-task-force-to-find-ways-to-disrupt-land-routes-into-iran/articleshow-sblg4po)
+- [Advantage West Indies after Hodge ton](https://www.cricbuzz.com/cricket-news/140831/advantage-west-indies-after-kavem-hodge-ton-in-sylhet-vs-bangladesh-cricbuzzcom)
+- [Advantage West Indies after Hodge ton](https://www.cricbuzz.com/cricket-news/140831/advantage-west-indies-after-kavem-hodge-ton-in-sylhet-vs-bangladesh)
+- [Advantage West Indies after Hodge ton](https://www.cricbuzz.com/cricket-news/140831/advantage-west-indies-after-hodge-ton)
+- [பிரேசிலை உலுக்கிய மோசமான கதிர்வீச்சு விபத்து ஒரு பார்வை](https://www.bbc.com/tamil/articles/cv5ynpy8r69po)
+- [NASA's destroyed Swift Observatory took one of the best-ever photos of Andromeda](https://www.livescience.com/space/astronomy/nasas-destroyed-swift-observatory-took-one-of-the-best-ever-photos-of-bright-andromeda-space-photo-of-the-week)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
