@@ -1,41 +1,41 @@
-# India Trending Report — 2026-11-10 18:58:07
+# India Trending Report — 2026-11-10 23:53:25
 
 ## Google Trends (India) — top trending searches
-1. [leicester city vs walsall](https://trends.google.com/trending/rss?geo=IN)
-2. [pyre](https://trends.google.com/trending/rss?geo=IN)
-3. [osint](https://trends.google.com/trending/rss?geo=IN)
-4. [tubi](https://trends.google.com/trending/rss?geo=IN)
-5. [copa del rey](https://trends.google.com/trending/rss?geo=IN)
-6. [black friday sale 2026](https://trends.google.com/trending/rss?geo=IN)
-7. [বঙ্গোপসাগর](https://trends.google.com/trending/rss?geo=IN)
-8. [8th pay commission](https://trends.google.com/trending/rss?geo=IN)
-9. [felix nmecha](https://trends.google.com/trending/rss?geo=IN)
-10. [kunal kapoor](https://trends.google.com/trending/rss?geo=IN)
+1. [गोचर](https://trends.google.com/trending/rss?geo=IN)
+2. [ಬಿಗ್ ಬಾಸ್ ಕನ್ನಡ](https://trends.google.com/trending/rss?geo=IN)
+3. [டிஎன்பிஎஸ்சி குரூப் 4](https://trends.google.com/trending/rss?geo=IN)
+4. [ಬೆಳ್ಳಿ](https://trends.google.com/trending/rss?geo=IN)
+5. [பயிர்](https://trends.google.com/trending/rss?geo=IN)
+6. [कुंभ](https://trends.google.com/trending/rss?geo=IN)
+7. [nepal premier league cricket](https://trends.google.com/trending/rss?geo=IN)
+8. [இந்தியா தேசிய கிரிக்கெட் அணி](https://trends.google.com/trending/rss?geo=IN)
+9. [तिलक वर्मा](https://trends.google.com/trending/rss?geo=IN)
+10. [ভারত জাতীয় ক্রিকেট দল](https://trends.google.com/trending/rss?geo=IN)
 
 ## Latest headlines by outlet
 **Times of India**
-- [Trump puts his chips on Huang as China spy storm gathers force](https://timesofindia.indiatimes.com/world/us/trump-puts-his-chips-on-huang-as-china-spy-storm-gathers-force/articleshow/135717035.cms)
-- ['Peddling false narrative': MEA condemns anti-India campaign by Chinese vloggers](https://timesofindia.indiatimes.com/india/unfortunate-govt-condemns-anti-india-campaign-by-chinese-vloggers-urges-bangladesh-to-take-action/articleshow/135709101.cms)
-- [Trump admin wants to sell Venezuela oil to India, but how much can it buy?](https://timesofindia.indiatimes.com/business/india-business/diversifying-away-from-russia-trump-admin-wants-to-sell-venezuela-oil-to-india-but-how-much-can-it-buy/articleshow/135712323.cms)
-- [CPCB explains why official AQI is capped at 500 but pvt apps show higher readings](https://timesofindia.indiatimes.com/india/cpcb-explains-why-official-aqi-is-capped-at-500-despite-private-apps-showing-higher-readings/articleshow/135715891.cms)
-- [‘Things have been a little difficult after the T20 WC’: SKY opens up on tough phase](https://timesofindia.indiatimes.com/sports/cricket/news/things-have-been-a-little-difficult-after-the-t20-world-cup-suryakumar-yadav-opens-up-on-tough-phase/articleshow/135714576.cms)
+- [80% of Delhi's pollution Monday due to crackers](https://timesofindia.indiatimes.com/india/80-of-delhis-pollution-monday-due-to-crackers/articleshow/135721614.cms)
+- [For the first time, Sonia confirms battle with cancer in memoirs](https://timesofindia.indiatimes.com/india/for-the-first-time-sonia-confirms-battle-with-cancer-in-memoirs/articleshow/135719721.cms)
+- ['Unable to manage fridges': Iran mocks France over supermarket cyberattack](https://timesofindia.indiatimes.com/world/middle-east/unable-to-manage-fridges-iran-mocks-france-after-paris-blames-tehran-for-supermarket-cyberattack/articleshow/135720067.cms)
+- [MEA slams US court summons to Doval, RAW ex-chief Goel](https://timesofindia.indiatimes.com/india/mea-slams-us-court-summons-to-doval-raw-ex-chief-goel/articleshow/135719702.cms)
+- [Person has no claim in grandpa's property held by dad, says SC](https://timesofindia.indiatimes.com/india/person-has-no-claim-in-grandpas-property-held-by-dad-says-sc/articleshow/135719078.cms)
 - [Google CEO sends welcome note to Zuckerberg: Excited to serve our Cloud customer](https://timesofindia.indiatimes.com/technology/tech-news/sundar-pichai-sends-welcome-note-to-mark-zuckerberg-says-excited-to-serve-our-googles-/articleshow/135699570.cms)
-- [50 UK Indian diaspora groups urge President to probe anti-India protests in London](https://timesofindia.indiatimes.com/world/uk/50-indian-diaspora-groups-in-uk-write-to-indias-president-calling-for-probe-into-anti-india-demonstrations-in-london/articleshow/135718427.cms)
-- [Indiana guard hit by car in 2017; court revives claim over missing barriers](https://timesofindia.indiatimes.com/world/us/an-indiana-security-guard-was-struck-by-a-car-carrying-suspected-phone-thieves-outside-a-hospital-in-2017-nine-years-later-an-appeals-court-has-revived-his-negligence-claim-over-missing-barriers/articleshow/135703794.cms)
-- [Ex-Pakistan foreign minister Shah Mahmood Qureshi collapses in jail; hospitalised](https://timesofindia.indiatimes.com/world/pakistan/imran-khan-aide-ex-pakistan-foreign-minister-shah-mahmood-qureshi-collapses-in-jail-hospitalised/articleshow/135715511.cms)
-- ['Silent on hate crimes against Indians': MEA tears into US religious freedom agency](https://timesofindia.indiatimes.com/india/silent-on-hate-crimes-against-indians-mea-tears-into-us-agency-over-religious-freedom-report/articleshow/135710389.cms)
+- [Jim Jordan elected House Republican leader after party's midterm defeat](https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/jim-jordan-elected-house-republican-leader-after-partys-midterm-defeat/articleshow/135719643.cms)
+- [Iowa woman wins foreclosure appeal after lender failed to notify co-owner](https://timesofindia.indiatimes.com/world/us/an-iowa-woman-co-owned-a-house-bought-with-a-260775-mortgage-but-never-signed-the-loan-note-when-the-lender-tried-to-foreclose-without-notifying-her-the-state-supreme-court-reversed-the-foreclosure-ruling/articleshow/135678777.cms)
+- [From Babri to Batla House, VHP accuses Sonia of 'selective outrage'](https://timesofindia.indiatimes.com/india/from-babri-to-batla-house-vhp-accuses-sonia-of-selective-outrage/articleshow/135719921.cms)
+- [400+ MBBS seats find no takers even after special vacancy round](https://timesofindia.indiatimes.com/india/400-mbbs-seats-find-no-takers-even-after-special-vacancy-round/articleshow/135719389.cms)
 
 **NDTV**
-- ["Significant Losses And Damages": Nvidia, Jensen Huang Sued By Investor](https://www.ndtv.com/world-news/nvidia-jensen-huang-sued-for-misleading-investors-over-ceos-affair-12309719#publisher=newsstand)
-- [Gadi Eisenkot Wants To Probe Failures That Allowed October 7 Hamas Attack](https://www.ndtv.com/world-news/gadi-eisenkot-wants-to-probe-failures-that-allowed-october-7-hamas-attack-12309817#publisher=newsstand)
-- [Patna Civic Body Raises Rs 200 Crore Via Bonds, Gets Listed On Stock Exchange](https://www.ndtv.com/india-news/patna-civic-body-raises-rs-200-crore-via-bonds-gets-listed-on-stock-exchange-12309767#publisher=newsstand)
-- [Nvidia Slips Amid CEO Probe, Microsoft Overtakes As World's 2nd-Most Valuable Firm](https://www.ndtv.com/world-news/nvidia-slips-amid-ceo-probe-microsoft-overtakes-as-worlds-2nd-most-valuable-firm-12309706#publisher=newsstand)
+- [US House Rejects Effort To Impeach Defence Chief Pete Hegseth](https://www.ndtv.com/world-news/us-house-rejects-effort-to-impeach-defence-chief-pete-hegseth-12310329#publisher=newsstand)
+- [Man Arrested For Raping Woman, Filming Incident In UP: Cops](https://www.ndtv.com/india-news/man-arrested-for-raping-woman-filming-incident-in-ups-vrindavan-cops-12310322#publisher=newsstand)
+- ["Engage In Diplomacy": Iran Calls On US To Meet Its Demands To End War](https://www.ndtv.com/world-news/iran-calls-on-us-to-meet-its-demands-to-end-war-12310307#publisher=newsstand)
+- [US Charges 3 'Iranian Operatives' Over Alleged Terrorist Plot At UK Airbase](https://www.ndtv.com/world-news/us-charges-3-iranian-operatives-over-alleged-terrorist-plot-at-uk-airbase-12310295#publisher=newsstand)
+- [Meghan Markle's Father Jailed Again After Cutting Off Ankle Monitor](https://www.ndtv.com/world-news/meghan-markles-father-thomas-markle-cut-off-his-ankle-monitor-12310164#publisher=newsstand)
+- ["Everything We Love Is At Stake": Greta Thunberg Arrives For COP31 Summit](https://www.ndtv.com/world-news/cop31-climate-activist-greta-thunberg-arrives-for-climate-talks-in-turkey-12310255#publisher=newsstand)
+- [IndiGo Extends Suspensions Of Saudi Flights Amid Security Concerns](https://www.ndtv.com/india-news/indigo-extends-suspensions-of-saudi-arabia-flights-amid-security-concerns-12310204#publisher=newsstand)
+- [Alleged Spy Plot Against Nvidia CEO Raises Questions About Company's Future](https://www.ndtv.com/world-news/alleged-spy-plot-against-nvidia-ceo-raises-questions-about-companys-future-12310080#publisher=newsstand)
 - [Suvendu Adhikari Visits Kali Puja Of Mamata Banerjee's Estranged brother](https://www.ndtv.com/india-news/suvendu-adhikari-visits-kali-puja-of-mamata-banerjees-estranged-brother-12309736#publisher=newsstand)
-- [No Global Net Zero Without India': Economist Nicki Hutley To NDTV At COP31](https://www.ndtv.com/india-news/no-global-net-zero-without-india-economist-nicki-hutley-to-ndtv-at-cop31-12309676#publisher=newsstand)
-- ["There'll Never Be One Like Me": Jensen Huang's Nvidia Faces A Succession Crisis](https://www.ndtv.com/world-news/therell-never-be-one-like-me-jensen-huangs-nvidia-faces-a-succession-crisis-12309574#publisher=newsstand)
-- ["We Didn't Start Iran War": Pete Hegseth's Defence Amid Impeachment Threat](https://www.ndtv.com/world-news/facing-impeachment-pete-hegseth-makes-a-punish-own-warriors-remark-12308564#publisher=newsstand)
-- [Government Has Wide Power To Retire Employees In Public Interest: Supreme Court](https://www.ndtv.com/india-news/government-has-wide-power-to-retire-employees-in-public-interest-top-court-12309543#publisher=newsstand)
-- [Anthropic Sets $70-$78 Price Band Per Share, Targets Trillion-Dollar Listing](https://www.ndtv.com/world-news/anthropic-ipo-share-price-anthropic-sets-70-78-price-band-per-share-targets-trillion-dollar-listing-12309004#publisher=newsstand)
+- [US Soldier Arrested In London On Suspicion Of Espionage Linked To Russia](https://www.ndtv.com/world-news/us-soldier-arrested-in-london-on-suspicion-of-espionage-linked-to-russia-12310041#publisher=newsstand)
 
 **Hindustan Times**
 - [AR Rahman's Gurugram concert postponed over ‘unforeseen circumstances’, rescheduled for next year](https://www.hindustantimes.com/india-news/ar-rahmans-gurugram-concert-postponed-over-unforeseen-circumstances-rescheduled-for-next-year-101794329922094.html)
@@ -62,18 +62,21 @@
 - [ಪ್ರಧಾನಿಯಾಗುವ ಆಸೆ ತಪ್ಪೇ? ಗಾಂಧಿ ಕುಟುಂಬದ ಹೊರಗಿನವರು ಕನಸು ಕಾಣಬಾರದೇ?: ಸೋನಿಯಾಗೆ ಪ್ರಣಬ್ ಪುತ್ರಿ ತಿರುಗೇಟು](https://vijaykarnataka.com/news/india/pranab-mukherjee-daughter-sharmistha-hits-back-at-sonia-gandhi-is-aspiring-to-become-pm-wrong-belonging/articleshow/135711275.cms)
 
 **The Hindu**
-- [Recent repairs on OMR come undone](https://www.thehindu.com/news/cities/chennai/recent-repairs-on-omr-come-undone/article71687203.ece)
-- [Tasmac introduces three year transfer norm for shop employees](https://www.thehindu.com/news/national/tamil-nadu/tasmac-introduces-three-year-transfer-norm-for-shop-employees/article71687082.ece)
-- [Around 150 persons treated for cracker-related burns in Vellore, nearby districts](https://www.thehindu.com/news/national/tamil-nadu/around-150-persons-treated-for-cracker-related-burns-in-vellore-nearby-districts/article71686216.ece)
-- [Two persons killed in separate road incidents](https://www.thehindu.com/news/national/tamil-nadu/two-persons-killed-in-separate-road-incidents/article71686206.ece)
-- [Over 74 lakh voters missing from Tamil Nadu electoral rolls, says citizens’ collective](https://www.thehindu.com/news/national/tamil-nadu/over-74-lakh-voters-missing-from-tamil-nadu-electoral-rolls-says-citizens-collective/article71685695.ece)
-- [Govardhan puja, Gau puja celebrated at Hare Krishna Vaikuntham](https://www.thehindu.com/news/national/andhra-pradesh/govardhan-puja-gau-puja-held-at-hare-krishna-vaikuntham/article71686734.ece)
-- [Woman, son die after being found injured at home in Mattannur](https://www.thehindu.com/news/national/kerala/woman-son-die-after-being-found-injured-at-home-in-mattannur/article71686225.ece)
-- [CID unearth webland scam, four arrested](https://www.thehindu.com/news/national/andhra-pradesh/cid-unearth-webland-scam-four-arrested/article71687260.ece)
-- [Suspension of senior IPS officer extended to March 2027](https://www.thehindu.com/news/national/andhra-pradesh/suspension-of-senior-ips-officer-extended-to-march-2027/article71687242.ece)
-- [Andhra Pradesh weighs making father’s name optional in official documents](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-weighs-making-fathers-name-optional-in-official-documents/article71685940.ece)
+- [Producers welcome proposal for minimum sustainable price for tea](https://www.thehindu.com/news/national/west-bengal/producers-welcome-proposal-for-minimum-sustainable-price-for-tea/article71686974.ece)
+- [Bombay High Court declines request for hearing each day in quota petitions for Maratha reservation](https://www.thehindu.com/news/national/maharashtra/bombay-high-court-declines-request-for-hearing-each-day-in-quota-petitions-for-maratha-reservation/article71687008.ece)
+- [Bihar Cabinet hikes 3% DA for employees, pensioners](https://www.thehindu.com/news/national/bihar/bihar-cabinet-hikes-3-da-for-employees-pensioners/article71687144.ece)
+- [Hemant Soren recommends CBI probe into Nisha Bhagat’s death case](https://www.thehindu.com/news/national/jharkhand/hemant-soren-recommends-cbi-probe-into-nisha-bhagats-death-case/article71687391.ece)
+- [Andhra Pradesh Cabinet clears policy frameworks to attract investments in AI, electronics, renewable energy](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-policy-frameworks-to-attract-investments-in-ai-electronics-renewable-energy/article71686342.ece)
+- [Karnataka-registered doctors may be allowed to practise in Kasaragod: Keralam Health Minister](https://www.thehindu.com/news/national/kerala/karnataka-registered-doctors-may-be-allowed-to-practise-in-kasaragod-keralam-health-minister/article71686180.ece)
+- [Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government](https://www.thehindu.com/news/national/tamil-nadu/vaiko-releases-34-year-crime-report-rebukes-allies-for-criticising-tn-government/article71686350.ece)
+- [IT hubs see 82% commute by personal vehicles, just 2% use public transport](https://www.thehindu.com/news/cities/Hyderabad/it-hubs-see-82-commute-by-personal-vehicles-just-2-use-public-transport/article71686991.ece)
+- [Without any rationale: On the disbanding of the Justice Kurian Joseph Committee](https://www.thehindu.com/opinion/editorial/without-any-rationale-on-the-disbanding-of-the-justice-kurian-joseph-committee/article71686725.ece)
+- [World Wars and India’s sacrifice](https://www.thehindu.com/opinion/op-ed/world-wars-and-indias-sacrifice/article71687275.ece)
 
 **Livemint**
+- [Kennedy Family Seeks to Intervene in Fight to Block Trump Arch](https://www.livemint.com/news/us-news/kennedy-family-seeks-to-intervene-in-fight-to-block-trump-arch-11794354468711.html)
+- [US Parents Face Record Surge in Baby Food and Formula Costs](https://www.livemint.com/news/us-news/us-parents-face-record-surge-in-baby-food-and-formula-costs-11794349425464.html)
+- [US Household Delinquencies Rise Slightly, NY Fed Report Shows](https://www.livemint.com/news/us-news/us-household-delinquencies-rise-slightly-ny-fed-report-shows-11794340179924.html)
 - [‘We are now proudly at #2’: Why Harsh Goenka is congratulating everyone who insisted on bursting more firecrackers](https://www.livemint.com/news/india/we-are-now-proudly-at-2-why-harsh-goenka-is-congratulating-everyone-who-insisted-on-bursting-more-firecrackers-11794333135265.html)
 - [UP voter list: Yogi Adityanath claims 1.27 crore Hindu voters missing after SIR exercise as Muslim voters up by 1.65%](https://www.livemint.com/news/india/up-voter-list-yogi-adityanath-claims-1-27-crore-hindu-voters-missing-after-sir-exercise-as-muslim-voters-up-by-165-11794332440118.html)
 - [India-US trade deal talks continue as US team visits Delhi](https://www.livemint.com/news/india/indiaus-trade-deal-talks-continue-as-us-team-visits-delhi-11794330219355.html)
@@ -81,9 +84,6 @@
 - [India's unemployment falls to 5.1% in Q2 as rural participation and employment rise](https://www.livemint.com/news/indias-unemployment-falls-to-5-1-in-q2-as-rural-participation-and-employment-rise-11794321073690.html)
 - [Govt extends medical devices PLI to 2035–36, relaxes rules to spur investment](https://www.livemint.com/news/india/govt-extends-medical-devices-pli-2035-36-relaxes-rules-spur-investment-11794325048706.html)
 - [What really happened with Sonia Gandhi and Maneka Gandhi? Sonia Gandhi’s book ‘Belonging: A Journey of Love’ answers](https://www.livemint.com/news/india/what-really-happened-with-sonia-gandhi-and-maneka-gandhi-sonia-gandhi-s-book-belonging-a-journey-of-love-answers-11794324930578.html)
-- [NLMC puts 11 govt flats in Prayagraj up for e-auction](https://www.livemint.com/news/nlmc-puts-11-govt-flats-in-prayagraj-up-for-eauction-11794317607470.html)
-- [Adnan Sami slams Mumbai airport T2: What happened with Pranaam staff and why is the singer upset?](https://www.livemint.com/news/india/adnan-sami-slams-mumbai-airport-t2-what-happened-with-pranaam-staff-and-why-is-the-singer-upset-11794322511240.html)
-- [Govt makes EVs default choice for staff cars, sets  ₹20 lakh procurement cap](https://www.livemint.com/news/govt-evs-default-choice-staff-cars-20-lakh-procurement-cap-11794317496374.html)
 
 **Moneycontrol** — _unavailable_
 
@@ -92,12 +92,12 @@
 - [ಮುಂಬೈ ಉತ್ತರ ಕ್ಷೇತ್ರದಲ್ಲಿ 7.78 ಲಕ್ಷ ಮತಗಳು ಎಣಿಕೆಯೇ ಆಗಿಲ್ಲ ಏಕೆ ? | Mumbai North - Election 2024](https://www.varthabharati.in/video/mumbai-north-election-2024-2289826)
 - [ಪಟಾಕಿಯನ್ನು ವಿರೋಧಿಸಿದ್ರೆ ದೀಪಾವಳಿ, ಧರ್ಮ ವಿರೋಧಿ ಹೇಗೆ ? | Diwali - Firecrackers - Air Pollution](https://www.varthabharati.in/video/diwali-firecrackers-air-pollution-2289825)
 - [ನಾಲ್ಕು ಪ್ರಮುಖ ಭರವಸೆಗಳ ಜಾರಿಗೆ ಆಗ್ರಹಿಸಿ ನ.12ರಂದು ಬೆಂಗಳೂರಿನಲ್ಲಿ ಬೃಹತ್ ಸಮಾವೇಶ | Karnataka Congress](https://www.varthabharati.in/video/karnataka-congress-2289823)
+- [ಬರ ಪರಿಹಾರದ ಬಗ್ಗೆ ಗೊಂದಲ ಬೇಡ; ಎಲ್ಲ ಅರ್ಹ ರೈತರಿಗೂ 5,000 ನೆರವು : ಡಿ.ಕೆ.ಶಿವಕುಮಾರ್‌](https://www.varthabharati.in/bengaluru/dk-shivakumar-2289838)
 - [ಸೋನಿಯಾ ಗಾಂಧಿ ಆತ್ಮಕಥೆ 'Belonging : A Journey of Love' ಬಿಡುಗಡೆ | Sonia Gandhi](https://www.varthabharati.in/video/sonia-gandhi-2289822)
 - [ಸಿದ್ದರಾಮಯ್ಯ-ಡಿಕೆಶಿ ನಡುವೆ ಭಿನ್ನಾಭಿಪ್ರಾಯಕ್ಕೆ ಅವಕಾಶವಿಲ್ಲ, ಇಬ್ಬರೂ ಒಗ್ಗಟ್ಟಿನಿಂದ ಸಾಗಲಿದ್ದಾರೆ : ಯು.ಟಿ.ಖಾದರ್](https://www.varthabharati.in/hassan/u-t-khader-2289821)
 - [ಬ್ರಿಟಿಷರ ಯುದ್ಧತಂತ್ರದ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರಿದ್ದ ಟಿಪ್ಪುವಿನ ರಾಕೆಟ್ ತಂತ್ರಜ್ಞಾನ | Tipu Sultan](https://www.varthabharati.in/video/tipu-sultan-2289820)
 - [ಜೋಳ ಕೆಜಿಗೆ ₹140, ಅಕ್ಕಿ ₹100 : ಅಗತ್ಯ ವಸ್ತುಗಳ ಬೆಲೆಯೇರಿಕೆಯಿಂದ ಜನ ಹೈರಾಣ | Indian Economy | Price Hike](https://www.varthabharati.in/video/indian-economy-price-hike-2289819)
 - [ನ.10,1990: ಚಂದ್ರಶೇಖರ್ ಭಾರತದ 8ನೇ ಪ್ರಧಾನ ಮಂತ್ರಿ ಆದ ರೋಚಕ ಕತೆ | Chandra Shekhar](https://www.varthabharati.in/video/chandra-shekhar-2289818)
-- [ರಾಯಚೂರಿನಲ್ಲಿ ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಜಯಂತಿ ಆಚರಣೆ](https://www.varthabharati.in/raichur/celebration-of-tipu-sultan-jayanti-in-raichur-2289817)
 
 **Asianet Kannada**
 - [ಸಂಗೀತ ಪ್ರೇಮಿಗಳಿಗೆ ಆಘಾತ, ಸರಿಗಮಪ ಶೋ ಖ್ಯಾತಿಯ ಗಿಟಾರ್ ಮಾಂತ್ರಿಕ ಶ್ರೀನಿವಾಸ್ ನಿಧನ](https://kannada.asianetnews.com/tv-talk/kannada-sa-re-ga-ma-pa-fame-guitarist-srinivas-achar-passes-away/articleshow-azdzzyv)
@@ -114,6 +114,7 @@
 **News18 Kannada** — _unavailable_
 
 **TV9 Kannada**
+- [ನಿತ್ಯ ಭವಿಷ್ಯ: ಇಂದು ಈ ರಾಶಿಯವರ ಬಳಿ ಎಲ್ಲವೂ ಇದ್ದರೂ ಇನ್ನಷ್ಟು ಬೇಕೆಂಬ ಹಂಬಲ](https://tv9kannada.com/horoscope/daily-horoscope-november-11-2026-astrological-predictions-for-all-12-zodiac-signs-1261096.html)
 - [ಬಿಗ್ ಬಾಸ್ ಮನೆಯಲ್ಲಿ ಈ ವಾರ ಪ್ರಮುಖರೇ ನಾಮಿನೇಟ್; ಹೊರ ಹೋಗುವವರು ಯಾರು?](https://tv9kannada.com/entertainment/television/bigg-boss-kannada-season-13-high-drama-in-parishad-style-nomination-major-contestants-nominated-this-week-1261097.html)
 - [ಎನ್‌ಸಿಪಿ ವಿಲೀನದ ಬಗ್ಗೆ ಫಡ್ನವೀಸ್ ಮಹತ್ವದ ಹೇಳಿಕೆ, ಶರದ್ ಪವಾರ್, ಸುನೇತ್ರಾ ಪವಾರ್ ನಿರ್ಧಾರವೇ ಅಂತಿಮ](https://tv9kannada.com/national/ncp-merger-fadnavis-says-sharad-pawar-sunetra-pawar-to-decide-on-maharashtra-political-split-1261101.html)
 - [ಅಪಾರ್ಟ್‌ಮೆಂಟ್ ಮೇಲಿಂದ ಬೀಳುತ್ತಿದೆ ತುಕ್ಕು ಹಿಡಿದ ಸಿಮೆಂಟ್-ಕಬ್ಬಿಣ: ಮಲ್ಲೇಶ್ವರಂ ಮಂತ್ರಿ ಮಾಲ್ ಮೆಟ್ರೋ ನಿಲ್ದಾಣದಲ್ಲಿ ಜೀವ ಭಯ](https://tv9kannada.com/videos/malleshwaram-metro-passenger-safety-at-risk-due-to-stalled-apartment-construction-1261098.html)
@@ -123,19 +124,8 @@
 - [ಅತಿವೇಗದಲ್ಲಿ ಕಂಬ್ಯಾಕ್ ಮಾಡಿದ ಯಶ್; ರಾಕಿಂಗ್ ಸ್ಟಾರ್ ಹೊಸ ಇತಿಹಾಸ](https://tv9kannada.com/entertainment/sandalwood/yash-achieves-fastest-comeback-in-recent-times-wins-back-fans-hearts-with-ravana-role-in-ramayana-1261089.html)
 - [ನಮ್ಮನ್ನು ಶತ್ರುಗಳಂತೆ ನೋಡುತ್ತಿದ್ದರು: ಮೇನಕಾ ಜೊತೆಗಿನ ಕಹಿ ಸಂಬಂಧ ಬಿಚ್ಚಿಟ್ಟ ಸೋನಿಯಾ ಗಾಂಧಿ](https://tv9kannada.com/national/sonia-gandhis-autobiography-bitter-truths-on-maneka-gandhi-and-family-conflicts-revealed-1261087.html)
 - [ಲಂಚ ಆರೋಪ: ಮತ್ತೊಂದು ವಿಡಿಯೋ ಹೇಳಿಕೆ ಬಿಡುಗಡೆ ಮಾಡಿದ ಹಾಸನ ಡಿಸಿ; ಕುಮಾರಸ್ವಾಮಿಗೆ ಮತ್ತೆ ಟಾಂಗ್​​](https://tv9kannada.com/karnataka/hassan/bribery-controversy-hassan-dc-latha-kumari-releases-another-video-hits-back-at-hd-kumaraswamy-1261076.html)
-- [ಬರ ಪರಿಹಾರದಲ್ಲಿ ಗೊಂದಲ ಬೇಡ, ಕನಿಷ್ಠ 5 ಸಾವಿರ ರೂ. ನೀಡುವುದು ಖಂಡಿತ: ಸಿಎಂ ಡಿಕೆ ಶಿವಕುಮಾರ್](https://tv9kannada.com/karnataka/bengaluru/karnataka-drought-relief-govt-assures-rs-5000-minimum-to-farmers-amid-misinfo-1261083.html)
 
-**Prajavani**
-- [ಸೋನಿಯಾ ಗಾಂಧಿ ಆತ್ಮಕತೆಯು ಅಸಾಧಾರಣ ಪಯಣದ ಕಥನ: ಮುಖ್ಯಮಂತ್ರಿ ಡಿ.ಕೆ. ಶಿವಕುಮಾರ್](https://www.prajavani.net/news/karnataka-news/dk-shivakumar-on-sonia-gandhi-autobiography-belonging-4387463)
-- [ಬರ ಪರಿಹಾರದ ವಿಚಾರದಲ್ಲಿ ಗೊಂದಲ ಬೇಡ, ಅರ್ಹ ರೈತರಿಗೆಲ್ಲ ₹5,000 ನೆರವು: ಡಿಕೆಶಿ](https://www.prajavani.net/news/karnataka-news/dk-shivakumar-drought-relief-fund-karnataka-farmers-4387443)
-- [ಭಾರತದ ವಿಪರೀತ ಮಾಲಿನ್ಯ ಚಿತ್ರಗಳನ್ನು ಹಂಚಿಕೊಂಡ ನಾಸಾ](https://www.prajavani.net/news/india-news/nasa-satellite-images-north-india-air-pollution-4387351)
-- [ಕರುನಾಡೋತ್ಸವ ಸೇರಿದಂತೆ ಈ ದಿನದ ಟಾಪ್‌ 10 ಸುದ್ದಿಗಳು](https://www.prajavani.net/news/india-news/top-10-news-stories-of-the-day-including-karunadotsava-4387374)
-- [ಮೂರು ತಿಂಗಳು ದುಡಿದು, ಉಳಿದ ವೇಳೆ ಕುಡಿದು, ಜೂಜಾಡುವ ರೈತರು: ಬಿಜೆಪಿ ಸಂಸದ](https://www.prajavani.net/news/india-news/bjp-mp-janardan-mishra-controversial-remark-on-farmers-4387394)
-- [ತಾಯಿ ಇಂದಿರಾ ಅವರ ಹತ್ಯೆ ನಂತರವೂ ರಾಜೀವ್‌ ಹೃದಯದಲ್ಲಿ ದ್ವೇಷ ಇರಲಿಲ್ಲ: ಸೋನಿಯಾ](https://www.prajavani.net/news/india-news/sonia-gandhi-memoir-rajiv-gandhi-sikh-riots-remarks-4387360)
-- [‘ಆಕಾಂಕ್ಷಿಯಾಗುವುದು ಅಪರಾಧವೇ?’: ಸೋನಿಯಾಗೆ ಪ್ರಣಬ್ ಮುಖರ್ಜಿ ಪುತ್ರಿ ತಿರುಗೇಟು](https://www.prajavani.net/news/india-news/sharmistha-mukherjee-slams-sonia-gandhi-on-pranab-mukherjee-ambition-4387298)
-- [ಮನೆಯೊಳಗೆ ಸೇರಿದ್ದ ಚಿರತೆ ಸೆರೆ ಹಿಡಿದ ಅರಣ್ಯ ಇಲಾಖೆ ಅಧಿಕಾರಿಗಳ ತಂಡ](https://www.prajavani.net/district/tumakuru/leopard-captured-inside-house-kunigal-forest-officials-4387265)
-- [ಸಂಕಷ್ಟದಲ್ಲಿರುವ ರೈತರಿಗೆ ಮೊದಲ ಹಂತದಲ್ಲಿ ಕನಿಷ್ಠ ₹5,000 ಬರ ಪರಿಹಾರ: ಪರಮೇಶ್ವರ](https://www.prajavani.net/news/karnataka-news/karnataka-drought-compensation-parameshwara-announcement-4387175)
-- [‘ನನ್ನಕ್ಕ ನಿಲೂಫರ್’: ಇಸ್ತಾಂಬೂಲಿನಿಂದ ರೂಪುಗೊಂಡ ಕಥೆಯ ಪಯಣ](https://www.prajavani.net/art-culture/short-story/mitra-venkatraj-nannakka-niloufer-story-journey-4379343)
+**Prajavani** — _unavailable_
 
 **eedina**
 - [ಬೆಂಗಳೂರು–ಮಡಗಾಂವ್ ವಂದೇ ಭಾರತ್ ರೈಲಿಗೆ ನ.13ರಂದು ಪ್ರಧಾನಿ ಮೋದಿ ಚಾಲನೆ](https://eedina.com/?p=784292)
@@ -150,35 +140,35 @@
 - [ಬರ ಪರಿಹಾರ: ಅರ್ಹ ರೈತರಿಗೆ ಕನಿಷ್ಠ 5,000 ರೂ. ಇನ್‌ಪುಟ್ ಸಬ್ಸಿಡಿ ಖಾತರಿ; ವಿಪತ್ತು ನಿರ್ವಹಣೆ ಆಯುಕ್ತೆ ಸ್ಪಷ್ಟನೆ](https://eedina.com/?p=784246)
 
 ## Cross-source trending keywords (derived from headlines above)
-- India (7.2)
+- India (5.2)
+- Sonia (3.5)
 - Delhi (3.2)
 - Sonia Gandhi (3.0)
-- Trump (2.6)
-- Chinese (2.6)
 - Diwali (2.6)
 - Naga (2.6)
-- Govt (2.6)
-- What (2.6)
 - Belonging (2.6)
 - Journey (2.6)
-- Nvidia (1.9)
-- Huang (1.6)
+- Iran (1.6)
+- Love (1.6)
+- Russia (1.6)
 - Gurugram (1.6)
 - Hindu (1.6)
+- Food (1.6)
+- Delhi's (1.3)
 
 ## NewsAPI top headlines (India)
 
 ## GNews top headlines (India)
-- [கோவை ஈவெரா அறிவுலகத்தில் லஞ்ச ஒழிப்பு போலீஸ் சோதனை; 4 பேர் கொண்ட குழு விசாரணை](https://www.dinamalar.com/news/tamil-nadu-news/anti-bribery-police-raid-at-ivera-encyclopedia-in-coimbatore-4-member-team-to-investigate/4372193)
-- [Was Sizing Up Women At Reception](https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-sonia-gandhi-recalls-bill-clintons-visit-was-sizing-up-women-at-reception-12306572)
-- [५०० रुपयांची नोट बंद करा, मुख्यमंत्र्यांची थेट मोदींकडे मागणी](https://saamtv.esakal.com/business/will-500-notes-be-discontinued-in-india-andhra-cm-chandrababu-naidu-makes-big-demand-to-pm-modi-fact-check-in-marathi-news-nck90)
-- [IPL 2027 : मुंबई इंडियन्सने हार्दिक पांड्याला ट्रेड करावं, तर ट्रेंट बोल्टला रिलीज करावं; आकाश चोप्राचा सल्ला](https://marathi.asianetnews.com/sports/cricket/aakash-chopra-advises-mumbai-indians-to-trade-hardik-pandya-and-release-trent-boult-for-ipl-2027/articleshow-dutv3yg)
-- [ప్రపంచంలోనే అత్యంత విలువైన కంపెనీ.. ఎన్విడియాకు అందనంత ఎత్తులోకి యాపిల్.. సరికొత్త వ్యూహంతో చెక్!](https://telugu.samayam.com/business/business-news/apple-overtakes-nvidia-corp-to-become-worlds-most-valuable-company-amid-jensen-huangs-affair-with-chinese-agent/articleshow/135701433.cms)
-- [50 Most Polluted Cities: বিশ্বের সবচেয়ে দূষিত ৫০ শহরের ৪৯টি ভারতে, তালিকার শীর্ষে রাজস্থানের এক শহর, দিল্লি কততে?](https://bangla.aajtak.in/desh/story/india-accounts-for-49-of-worlds-50-most-polluted-cities-delhi-ranks-24th-sud-1473485-2026-11-10)
-- [మూడోసారి విడాకులు?.. పవన్ కళ్యాణ్ మరో యుద్ధం చేయాల్సిందే](https://www.chitrajyothy.com/2026/miscellaneous/pawan-kalyan-divorce-rumours-personal-life-kbk-77048.html)
-- [Suryakumar Yadav: জাতীয় দলে ব্রাত্য, তবুও সূর্যকুমার যাদবকে ঘরোয়া ক্রিকেটে বড় দায়িত্ব দিল মুম্বই](https://tv9bangla.com/sports/suryakumar-yadav-to-lead-mumbai-in-smat-2026-shardul-thakur-returns-in-squad-1359717.html)
-- [Indian sector of Southern Ocean sees rising oxygenlevels, contrary to global trend, reveals study](https://www.thehitavada.com/Encyc/2026/11/10/indian-sector-of-southern-ocean-sees-rising-oxygen-levels-contrary-to-global-trend-reveals-study.html)
-- [‘We weren’t aware’: Mitchell Starc stands by his version of Sandpapergate despite David Warner backing Usman Khawaja](https://timesofindia.indiatimes.com/sports/cricket/news/we-werent-aware-mitchell-starc-stands-by-his-version-of-sandpapergate-despite-david-warner-backing-usman-khawaja/articleshow/135701846.cms)
+- ['मैंने पत्नी से बेवफ़ाई की': एनवीडिया के सीईओ जेनसन हुआंग ने मानी कथित चीनी जासूस के साथ अफ़ेयर की बात](https://www.bbc.com/hindi/articles/cqwy7y5j98g6o)
+- [कल का राशिफल 11 नवंबर 2026 : भाईदूज पर अमृत सिद्धि योग का संयोग, जानें मेष से मीन तक किन-किन राशियों को फायदा](https://navbharattimes.indiatimes.com/astro/grah-nakshatra-in-hindi/kal-ka-rashifal-11-november-2026-amritsiddhi-yog-on-bhai-dooj-know-aries-to-pisces-horoscope/articleshow/135710007.cms)
+- [പ്രണബ് മുഖർജി പ്രധാനമന്ത്രിയാകാൻ ആഗ്രഹിച്ചു, അതെന്നെ ഞെട്ടിച്ചു: വെളിപ്പെടുത്തലുമായി സോണിയ ഗാന്ധി](https://www.manoramaonline.com/news/latest-news/2026/11/10/pranab-mukherjee-wanted-to-be-pm-it-left-me-shocked-sonia-gandhi-reveals-in-new-book.html)
+- [KTR గడ్డం పెంచుకోవటానికి కారణం ఇదే.. రాజకీయంగా ఈ లుక్ చాలా అవసరం: వి ప్రకాశ్](https://telugu.samayam.com/telangana/news/political-analyst-v-prakash-makes-significant-comments-on-brs-working-president-ktr-new-bearded-look/articleshow/135709599.cms)
+- ['एक्शन ले बांग्लादेश' चीनियों की गंदी चाल पर विदेश मंत्रालय सख्त, पन्नू केस में अजित डोभाल को समन पर भी दो टूक जवाब](https://hindi.news18.com/news/nation/bangladesh-should-take-action-ministry-of-external-affairs-firm-on-chinaese-vlogger-tactics-gave-blunt-response-on-us-summons-to-ajit-doval-in-pannun-case-10977283.html)
+- [Sonia Gandhi | ‘నాకు ఇష్టం లేక‌పోయినా బ‌ల‌వంతంగా ఓకే చెప్పా’.. ప్ర‌ధాని ప‌ద‌విపై సోనియాగాంధీ](https://www.ntnews.com/national/sonia-gandhis-inner-turmoil-on-taking-up-pm-post-then-a-midnight-chat-with-rahul-2556851)
+- [Rishabh Pant: టీమ్ఇండియాకు గుడ్‌న్యూస్.. న్యూజిలాండ్‌ బయలుదేరనున్న పంత్‌](https://www.eenadu.net/telugu-news/sports/rishabh-pant-undergoing-two-day-simulation-likely-to-leave-for-nz-on-nov-12/0401/126204257)
+- [जेमिमा गोल्डस्मिथ ने रसेल ब्रांड पर लगाया हिंसा और दुर्व्यवहार का आरोप](https://www.bbc.com/hindi/articles/cjzxlxq039dlo)
+- [Pannun’s civil lawsuit: U.S. State Department formally serves notice on India](https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece)
+- [Gold Silver Price Crash: दीवाली के दूसरे दिन कीमतें धड़ाम, सोना ₹2200 टूटा और चांदी ₹3300 लुढ़की; क्यों आई गिरावट?](https://www.jagran.com/business/commodity-mcx-gold-silver-crash-prices-drop-on-nov-10-diwali-impact-40432589.html)
 
 ## X (Twitter) trending topics — India
 _Skipped — set TWITTER_BEARER_TOKEN in .env to enable. Note: GET /1.1/trends/place requires a paid X API tier (Basic or higher)._
